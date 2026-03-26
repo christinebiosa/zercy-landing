@@ -3,7 +3,7 @@ title: "L.A. Baby: Why Los Angeles Is Always Worth the Trip"
 metaTitle: "L.A. Baby: Los Angeles Is Always Worth It | Zercy"
 description: "Los Angeles is loud, vast, chaotic – and somehow addictive. What makes this city so unforgettable, and why people always come back."
 pubDate: 2026-03-21
-category: "Wanderlust"
+category: "Off the Map"
 readingTime: 5
 ---
 
