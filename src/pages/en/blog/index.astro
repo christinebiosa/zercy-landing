@@ -45,6 +45,8 @@ const categoryEmoji = {
 } as const;
 
 type Cat = keyof typeof categoryColors;
+
+const categories = [...new Set(posts.map(p => p.data.category))];
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -92,6 +94,11 @@ type Cat = keyof typeof categoryColors;
     .card-excerpt { color: #475569; font-size: 0.9rem; line-height: 1.6; flex: 1; margin-bottom: 1.2rem; }
     .card-meta { font-size: 0.8rem; color: #94A3B8; display: flex; align-items: center; gap: 0.5rem; }
     .card-read { margin-top: 1rem; font-size: 0.85rem; font-weight: 600; color: var(--blue); }
+    .chips-bar { max-width: 1100px; margin: 0 auto 0; padding: 1.5rem 2rem 0; display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+    .chip { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.4rem 1rem; border-radius: 50px; border: 1.5px solid #E2E8F0; background: #fff; font-size: 0.82rem; font-weight: 600; cursor: pointer; transition: all 0.18s; color: var(--slate); font-family: 'Inter', sans-serif; white-space: nowrap; }
+    .chip:hover { border-color: #94A3B8; color: var(--navy); }
+    .chip.active { background: var(--navy); border-color: var(--navy); color: #fff; }
+    .card.hidden { display: none; }
     footer { background: var(--navy); border-top: 1px solid rgba(255,255,255,0.08); padding: 40px 0; }
     .footer-inner { max-width: 1100px; margin: 0 auto; padding: 0 24px; text-align: center; }
     .footer-logo { display: flex; align-items: center; gap: 8px; justify-content: center; margin-bottom: 10px; }
@@ -123,6 +130,15 @@ type Cat = keyof typeof categoryColors;
     <p>Travel tips, booking strategies, and everything about intelligent travel planning.</p>
   </div>
 
+  <div class="chips-bar">
+    <button class="chip active" data-filter="all">All</button>
+    {categories.map((cat) => {
+      const c = cat as Cat;
+      const emoji = categoryEmoji[c] || '✈';
+      return <button class="chip" data-filter={cat}>{emoji} {cat}</button>;
+    })}
+  </div>
+
   <div class="blog-grid">
     {posts.map((post) => {
       const cat = post.data.category as Cat;
@@ -131,7 +147,7 @@ type Cat = keyof typeof categoryColors;
       const emoji = categoryEmoji[cat] || '✈';
       const dateStr = post.data.pubDate.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
       return (
-        <a href={`/en/blog/${post.id}`} class="card">
+        <a href={`/en/blog/${post.id}`} class="card" data-category={post.data.category}>
           <div class="card-image" style={`background: ${bg};`}>{emoji}</div>
           <div class="card-body">
             <span class="card-category" style={`background: ${color};`}>{post.data.category}</span>
@@ -148,6 +164,28 @@ type Cat = keyof typeof categoryColors;
       );
     })}
   </div>
+
+  <script>
+    const chips = document.querySelectorAll<HTMLButtonElement>('.chip');
+    const cards = document.querySelectorAll<HTMLElement>('.card');
+
+    chips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        const filter = chip.dataset.filter;
+
+        chips.forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+
+        cards.forEach(card => {
+          if (filter === 'all' || card.dataset.category === filter) {
+            card.classList.remove('hidden');
+          } else {
+            card.classList.add('hidden');
+          }
+        });
+      });
+    });
+  </script>
 
   <footer>
     <div class="footer-inner">
