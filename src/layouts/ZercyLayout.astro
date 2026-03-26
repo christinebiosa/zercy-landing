@@ -1773,15 +1773,23 @@ function buildResultsHtml(d, id) {
           </div>`;
         })() : ''}
         ${!isReturn && hotelCheckin && hotelCheckout ? (() => {
-          const fmtRC2 = s => { if (!s) return ''; const [y,m,d] = s.split('-'); return `${d}%2F${m}%2F${y}`; };
-          const pickupLoc = encodeURIComponent((a.city || '') + ' Airport');
-          const rcUrl = `https://www.rentalcars.com/SearchResults.do?addrFrom=${pickupLoc}&addrTo=${pickupLoc}&dateFrom=${fmtRC2(hotelCheckin)}&timeFrom=10%3A00&dateTo=${fmtRC2(hotelCheckout)}&timeTo=10%3A00&driverAge=30`;
-          const kayakUrl = `https://www.kayak.com/cars/${encodeURIComponent(a.city || '')}/${hotelCheckin}/${hotelCheckout}`;
+          // Use car_rental city from parse.js if available, else fall back to airport city
+          const carCity = d.car_rental?.pickup_city || a.city || '';
+          const carPickup = d.car_rental?.pickup_date || hotelCheckin;
+          const carDropoff = d.car_rental?.dropoff_date || hotelCheckout;
+          // Rentalcars.com requires YYYY-MM-DD (DD/MM/YYYY causes NaN crash)
+          const pickupLoc = encodeURIComponent(carCity + ' Airport');
+          const rcUrl = `https://www.rentalcars.com/SearchResults.do?addrFrom=${encodeURIComponent(carCity)}&dateFrom=${carPickup}&timeFrom=10:00&dateTo=${carDropoff}&timeTo=10:00&driverAge=30`;
+          const kayakUrl = `https://www.kayak.com/cars/${encodeURIComponent(carCity)}/${carPickup}/${carDropoff}`;
+          const fmtExp = s => { if (!s) return ''; const p = s.match(/^(\d{4})-(\d{2})-(\d{2})$/); if (!p) return ''; return `${p[2]}/${p[3]}/${p[1]}`; };
+          const expUrl = `https://www.expedia.com/carsearch?addrFrom=${encodeURIComponent(carCity)}&dateFrom=${encodeURIComponent(fmtExp(carPickup))}&timeFrom=10:00&dateTo=${encodeURIComponent(fmtExp(carDropoff))}&timeTo=10:00`;
+          const carLabel = d.car_rental_needed ? `🚗 Mietwagen in ${carCity}` : `🚗 Mietwagen ab ${carCity}`;
           return `<div class="ap-section orange">
-            <div class="ap-section-header">🚗 Mietwagen ab ${a.city}</div>
+            <div class="ap-section-header">${carLabel}</div>
             <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
               <a class="hotel-btn booking-btn" href="${rcUrl}" target="_blank" rel="noopener">Rentalcars.com</a>
               <a class="hotel-btn expedia-btn" href="${kayakUrl}" target="_blank" rel="noopener">Kayak</a>
+              <a class="hotel-btn" style="background:#003087;color:#fff;" href="${expUrl}" target="_blank" rel="noopener">Expedia</a>
             </div>
           </div>`;
         })() : ''}

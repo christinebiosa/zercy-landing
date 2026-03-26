@@ -154,7 +154,9 @@ CAR-ONLY DETECTION: If the request is ONLY about renting a car (no flight needed
   },
   "refinement_chips": ["short label 1", "short label 2", "short label 3", "short label 4"]
 }
-If the request mentions BOTH flights AND a car, use the normal flight JSON and additionally set "car_rental_needed": true at the top level.
+If the request mentions BOTH flights AND a car, use the normal flight JSON and additionally set at the top level:
+- "car_rental_needed": true
+- "car_rental": { "pickup_city": "destination city name (e.g. 'Barcelona')", "pickup_date": "same as outbound recommended_date", "dropoff_date": "same as return recommended_date" }
 
 NOTE: The request above may contain conversational additions like "Additional: going from nice" or meta-phrases like "i said already", "check above", "can you still see that". Ignore the meta-phrases entirely — they are conversation noise. Focus ONLY on the actual travel intent.
 
