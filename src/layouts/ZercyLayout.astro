@@ -286,6 +286,7 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
       <div class="nav-links">
         <a href="#features">{c.navFeatures}</a>
         <a href="#how-it-works">{c.navHowItWorks}</a>
+        <a href="/blog">Blog</a>
         <div class="lang-switcher">
           {langs.map((l, i) => (
             <>
@@ -330,6 +331,7 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
             id="intent"
             class="hero-input"
             placeholder=""
+            autofocus
             onkeydown="if(event.key==='Enter')thinkIntent()"
           />
           <button id="searchBtn" class="hero-search-btn" onclick="thinkIntent()">
@@ -572,7 +574,7 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
   .hero-actions button.btn-primary { border: none; cursor: pointer; font-family: inherit; }
 
   #zercy-results-wrapper { background: #f0f4ff; min-height: 200px; }
-  #zercy-content { max-width: 720px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+  #zercy-content { max-width: 620px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
 
   .strip { background: var(--deep-navy); padding: 16px 0; }
   .strip-inner { display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; font-size: 0.88rem; font-weight: 500; color: rgba(255,255,255,0.7); letter-spacing: 0.02em; }
@@ -643,7 +645,8 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
   .summary-banner .icon { font-size: 2rem; }
   .summary-banner .label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; opacity: 0.7; margin-bottom: 0.3rem; font-weight: 600; }
   .summary-banner .text { font-size: 1rem; font-weight: 600; line-height: 1.4; }
-  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 1rem; }
+  .grid-2 { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 1rem; margin-bottom: 1rem; }
+  .card { overflow: hidden; }
   @media (max-width: 580px) { .grid-2 { grid-template-columns: 1fr; } }
   .card { background: white; border-radius: 18px; padding: 1.4rem; box-shadow: 0 2px 16px rgba(99, 102, 241, 0.07); }
   .card-header { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1rem; padding-bottom: 0.8rem; border-bottom: 2px solid #f0f4ff; }
@@ -787,13 +790,20 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
   @media (max-width: 900px) { .features-grid { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 640px) {
     .nav-links a:not(.btn-primary) { display: none; }
+    .nav-links { gap: 10px; }
+    .lang-switcher { gap: 3px; }
+    .lang { font-size: 0.72rem; }
+    .lang-sep { display: none; }
     .features-grid { grid-template-columns: 1fr; }
     .hero-title { font-size: 2rem; }
     .hero-chat { padding: 16px; }
     .hero-chips { gap: 8px; }
     .chip { font-size: 0.78rem; padding: 5px 12px; }
-    .zercy-float-panel { width: calc(100vw - 2rem); right: 1rem; }
-    .zercy-float-wrapper { right: 1rem; }
+    .zercy-float-panel { width: calc(100vw - 2rem); right: 0.75rem; }
+    .zercy-float-wrapper { right: 0.75rem; bottom: 1.2rem; }
+    #zercy-content { padding: 1.5rem 0.75rem 3rem; }
+    .grid-2 { grid-template-columns: 1fr; }
+    .summary-banner { padding: 1.1rem; }
   }
 </style>
 
@@ -1684,7 +1694,7 @@ function buildResultsHtml(d, id) {
     return `
     <div class="airport-item">
       <div class="airport-code">${a.code}</div>
-      <div style="flex:1">
+      <div style="flex:1;min-width:0;overflow:hidden">
         <div class="airport-city">${a.city}</div>
         <div class="airport-reason">${a.reason}</div>
         ${(() => {

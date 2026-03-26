@@ -26,11 +26,13 @@ html {
   background: var(--warm-white);
   color: var(--deep-navy);
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
   min-height: 100vh;
   overflow-x: hidden;
+  max-width: 100vw;
 }
 
 h1, h2, h3, h4 {
