@@ -8,19 +8,19 @@ const posts = (await getCollection('blog')).sort(
 const categoryColors = {
   'Reisetipps': '#0EA5E9',
   'KI & Reisen': '#F97316',
-  'Destinationen': '#8B5CF6',
+  'Fernweh': '#10B981',
 } as const;
 
 const categoryBg = {
   'Reisetipps': 'linear-gradient(135deg, #E0F2FE 0%, #BAE6FD 100%)',
   'KI & Reisen': 'linear-gradient(135deg, #FFF7ED 0%, #FFEDD5 100%)',
-  'Destinationen': 'linear-gradient(135deg, #F5F3FF 0%, #EDE9FE 100%)',
+  'Fernweh': 'linear-gradient(135deg, #ECFDF5 0%, #D1FAE5 100%)',
 } as const;
 
 const categoryEmoji = {
   'Reisetipps': '✈',
   'KI & Reisen': '🤖',
-  'Destinationen': '🌍',
+  'Fernweh': '🗺️',
 } as const;
 
 type Cat = keyof typeof categoryColors;

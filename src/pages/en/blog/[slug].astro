@@ -15,17 +15,17 @@ const { Content } = await render(post);
 const categoryColors = {
   'Travel Tips': '#0EA5E9',
   'AI & Travel': '#F97316',
-  'Destinations': '#8B5CF6',
+  'Wanderlust': '#10B981',
 } as const;
 const bgMap = {
   'Travel Tips': 'linear-gradient(135deg, #E0F2FE 0%, #BAE6FD 100%)',
   'AI & Travel': 'linear-gradient(135deg, #FFF7ED 0%, #FFEDD5 100%)',
-  'Destinations': 'linear-gradient(135deg, #F5F3FF 0%, #EDE9FE 100%)',
+  'Wanderlust': 'linear-gradient(135deg, #ECFDF5 0%, #D1FAE5 100%)',
 } as const;
 const emojis = {
   'Travel Tips': '✈',
   'AI & Travel': '🤖',
-  'Destinations': '🌍',
+  'Wanderlust': '🗺️',
 } as const;
 
 type Cat = keyof typeof categoryColors;
