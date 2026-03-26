@@ -2,7 +2,7 @@
 
 ## Projekt-Überblick
 Zercy ist ein KI-gestütztes Reiseplanungs-Tool. Dieses Repo ist die **Landing Page** (zercy.app).
-Das AI-Tool selbst liegt in `/Users/christinebork/Desktop/cerci-demo/` → live auf app.zercy.app.
+Das AI-Tool (Repo: cerci-demo) läuft live auf app.zercy.app.
 
 ## Stack
 - **Framework:** Astro (static site)
