@@ -9,18 +9,39 @@ const categoryColors = {
   'Reisetipps': '#0EA5E9',
   'KI & Reisen': '#F97316',
   'Fernweh': '#10B981',
+  'Unterwegs': '#8B5CF6',
+  'Clever Reisen': '#0EA5E9',
+  'Nur mit Handgepäck': '#F59E0B',
+  'Traumunterkünfte': '#EC4899',
+  'Business Travel': '#0F172A',
+  'Nachhaltig': '#22C55E',
+  'Geheimtipps': '#EF4444',
 } as const;
 
 const categoryBg = {
   'Reisetipps': 'linear-gradient(135deg, #E0F2FE 0%, #BAE6FD 100%)',
   'KI & Reisen': 'linear-gradient(135deg, #FFF7ED 0%, #FFEDD5 100%)',
   'Fernweh': 'linear-gradient(135deg, #ECFDF5 0%, #D1FAE5 100%)',
+  'Unterwegs': 'linear-gradient(135deg, #F5F3FF 0%, #EDE9FE 100%)',
+  'Clever Reisen': 'linear-gradient(135deg, #E0F2FE 0%, #BAE6FD 100%)',
+  'Nur mit Handgepäck': 'linear-gradient(135deg, #FFFBEB 0%, #FEF3C7 100%)',
+  'Traumunterkünfte': 'linear-gradient(135deg, #FDF2F8 0%, #FCE7F3 100%)',
+  'Business Travel': 'linear-gradient(135deg, #F1F5F9 0%, #E2E8F0 100%)',
+  'Nachhaltig': 'linear-gradient(135deg, #F0FDF4 0%, #DCFCE7 100%)',
+  'Geheimtipps': 'linear-gradient(135deg, #FEF2F2 0%, #FEE2E2 100%)',
 } as const;
 
 const categoryEmoji = {
   'Reisetipps': '✈',
   'KI & Reisen': '🤖',
   'Fernweh': '🗺️',
+  'Unterwegs': '🚗',
+  'Clever Reisen': '🧠',
+  'Nur mit Handgepäck': '🎒',
+  'Traumunterkünfte': '🏨',
+  'Business Travel': '💼',
+  'Nachhaltig': '🌿',
+  'Geheimtipps': '🔍',
 } as const;
 
 type Cat = keyof typeof categoryColors;
