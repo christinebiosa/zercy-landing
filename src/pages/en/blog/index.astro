@@ -1,0 +1,140 @@
+---
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blogen')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const categoryColors = {
+  'Travel Tips': '#0EA5E9',
+  'AI & Travel': '#F97316',
+  'Destinations': '#8B5CF6',
+} as const;
+
+const categoryBg = {
+  'Travel Tips': 'linear-gradient(135deg, #E0F2FE 0%, #BAE6FD 100%)',
+  'AI & Travel': 'linear-gradient(135deg, #FFF7ED 0%, #FFEDD5 100%)',
+  'Destinations': 'linear-gradient(135deg, #F5F3FF 0%, #EDE9FE 100%)',
+} as const;
+
+const categoryEmoji = {
+  'Travel Tips': '✈',
+  'AI & Travel': '🤖',
+  'Destinations': '🌍',
+} as const;
+
+type Cat = keyof typeof categoryColors;
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zercy Blog: Travel Tips & AI</title>
+  <meta name="description" content="Travel tips, booking strategies and everything about AI-powered travel planning. The Zercy blog – for travelers who want to book smarter." />
+  <link rel="canonical" href="https://zercy.app/en/blog" />
+  <meta property="og:title" content="Zercy Blog: Travel Tips & AI" />
+  <meta property="og:description" content="Travel tips, booking strategies and everything about AI-powered travel planning." />
+  <meta property="og:url" content="https://zercy.app/en/blog" />
+  <meta property="og:type" content="website" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root { --navy: #0F172A; --blue: #0EA5E9; --orange: #F97316; --white: #FAFAF8; --slate: #475569; }
+    body { font-family: 'Inter', sans-serif; background: var(--white); color: var(--navy); line-height: 1.7; }
+    header { background: var(--white); border-bottom: 1px solid #E2E8F0; padding: 1rem 2rem; position: sticky; top: 0; z-index: 100; }
+    .nav-inner { max-width: 1100px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; }
+    .logo { display: flex; align-items: center; gap: 0.5rem; text-decoration: none; }
+    .logo-icon { font-size: 1.4rem; }
+    .logo-text { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 1.3rem; color: var(--navy); }
+    .nav-links { display: flex; align-items: center; gap: 1.5rem; font-size: 0.9rem; }
+    .nav-links a { color: var(--slate); text-decoration: none; font-weight: 500; transition: color 0.2s; }
+    .nav-links a:hover { color: var(--navy); }
+    .nav-links a.active { color: var(--navy); font-weight: 700; }
+    .nav-try { background: var(--orange); color: #fff !important; padding: 0.5rem 1.2rem; border-radius: 50px; font-weight: 700 !important; font-size: 0.85rem !important; }
+    .nav-try:hover { opacity: 0.88; }
+    .blog-hero { max-width: 760px; margin: 0 auto; padding: 3.5rem 2rem 1rem; }
+    .blog-hero h1 { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 2.4rem; font-weight: 800; margin-bottom: 0.6rem; }
+    .blog-hero p { color: var(--slate); font-size: 1.05rem; }
+    .blog-grid { max-width: 1100px; margin: 2.5rem auto 5rem; padding: 0 2rem; display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; }
+    @media (max-width: 680px) { .blog-grid { grid-template-columns: 1fr; } }
+    .card { background: #fff; border: 1px solid #E2E8F0; border-radius: 16px; overflow: hidden; display: flex; flex-direction: column; transition: box-shadow 0.2s, transform 0.2s; text-decoration: none; color: inherit; }
+    .card:hover { box-shadow: 0 8px 32px rgba(15,23,42,0.1); transform: translateY(-3px); }
+    .card-image { height: 180px; display: flex; align-items: center; justify-content: center; font-size: 3.5rem; }
+    .card-body { padding: 1.4rem 1.5rem 1.5rem; flex: 1; display: flex; flex-direction: column; }
+    .card-category { display: inline-block; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 0.25rem 0.7rem; border-radius: 50px; margin-bottom: 0.8rem; color: #fff; }
+    .card-title { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 1.15rem; font-weight: 700; margin-bottom: 0.6rem; line-height: 1.4; }
+    .card-excerpt { color: #475569; font-size: 0.9rem; line-height: 1.6; flex: 1; margin-bottom: 1.2rem; }
+    .card-meta { font-size: 0.8rem; color: #94A3B8; display: flex; align-items: center; gap: 0.5rem; }
+    .card-read { margin-top: 1rem; font-size: 0.85rem; font-weight: 600; color: var(--blue); }
+    footer { background: var(--navy); border-top: 1px solid rgba(255,255,255,0.08); padding: 40px 0; }
+    .footer-inner { max-width: 1100px; margin: 0 auto; padding: 0 24px; text-align: center; }
+    .footer-logo { display: flex; align-items: center; gap: 8px; justify-content: center; margin-bottom: 10px; }
+    .footer-logo span { color: #fff; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 1.3rem; }
+    .footer-tagline { color: rgba(255,255,255,0.5); font-size: 0.9rem; margin-bottom: 8px; }
+    .footer-links { margin-bottom: 8px; font-size: 0.82rem; }
+    .footer-links a { color: rgba(255,255,255,0.4); text-decoration: none; }
+    .footer-links a:hover { color: rgba(255,255,255,0.7); }
+    .footer-copy { color: rgba(255,255,255,0.3); font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="nav-inner">
+      <a href="/en" class="logo">
+        <span class="logo-icon">✈</span>
+        <span class="logo-text">Zercy</span>
+      </a>
+      <nav class="nav-links">
+        <a href="/en/blog" class="active">Blog</a>
+        <a href="/about">About</a>
+        <a href="https://app.zercy.app" class="nav-try">Try Zercy</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="blog-hero">
+    <h1>Blog</h1>
+    <p>Travel tips, booking strategies, and everything about intelligent travel planning.</p>
+  </div>
+
+  <div class="blog-grid">
+    {posts.map((post) => {
+      const cat = post.data.category as Cat;
+      const color = categoryColors[cat] || '#0EA5E9';
+      const bg = categoryBg[cat] || 'linear-gradient(135deg, #E0F2FE 0%, #BAE6FD 100%)';
+      const emoji = categoryEmoji[cat] || '✈';
+      const dateStr = post.data.pubDate.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+      return (
+        <a href={`/en/blog/${post.id}`} class="card">
+          <div class="card-image" style={`background: ${bg};`}>{emoji}</div>
+          <div class="card-body">
+            <span class="card-category" style={`background: ${color};`}>{post.data.category}</span>
+            <div class="card-title">{post.data.title}</div>
+            <div class="card-excerpt">{post.data.description}</div>
+            <div class="card-meta">
+              <span>{dateStr}</span>
+              <span>·</span>
+              <span>{post.data.readingTime} min read</span>
+            </div>
+            <div class="card-read">Read →</div>
+          </div>
+        </a>
+      );
+    })}
+  </div>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-logo"><span style="font-size:1.4rem">✈</span><span>Zercy</span></div>
+      <p class="footer-tagline">Travel idea or ready to book — Zercy thinks it through.</p>
+      <p class="footer-links"><a href="/about">About</a> &nbsp;·&nbsp; <a href="/en/blog">Blog</a> &nbsp;·&nbsp; <a href="/privacy">Privacy Policy</a> &nbsp;·&nbsp; <a href="/impressum">Impressum</a> &nbsp;·&nbsp; <a href="/terms">Terms</a> &nbsp;·&nbsp; <a href="mailto:info@zercy.app">info@zercy.app</a></p>
+      <p class="footer-copy">© 2026 Zercy. Made with love and a lot of AI.</p>
+    </div>
+  </footer>
+</body>
+</html>

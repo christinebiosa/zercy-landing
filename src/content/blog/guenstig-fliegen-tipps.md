@@ -1,6 +1,7 @@
 ---
 title: "Günstig fliegen: 7 Tricks, die Vielflieger kennen"
-description: "Wer regelmäßig fliegt, weiß: Der Preis hängt nicht nur vom Ziel ab. Diese 7 Tipps helfen dir, systematisch günstiger zu buchen."
+metaTitle: "Günstig fliegen: 7 Tricks | Zercy"
+description: "Regelmäßige Flieger zahlen weniger. Diese 7 Tricks zeigen, wie du systematisch günstiger buchst – von Wochentagen bis Nachbarflughäfen."
 pubDate: 2026-03-20
 category: "Reisetipps"
 readingTime: 6

@@ -1,6 +1,7 @@
 ---
 title: "Wann sollte man Flüge buchen? Der optimale Zeitpunkt"
-description: "Zu früh buchen kostet Geld. Zu spät buchen auch. Wir erklären, wann der optimale Buchungszeitpunkt für verschiedene Reisetypen ist."
+metaTitle: "Wann Flüge buchen? Bester Zeitpunkt | Zercy"
+description: "Zu früh oder zu spät gebucht kostet Geld. Der optimale Buchungszeitpunkt für Kurzstrecken, Langstrecken und verschiedene Reisetypen."
 pubDate: 2026-03-18
 category: "Reisetipps"
 readingTime: 5

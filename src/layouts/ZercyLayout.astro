@@ -286,7 +286,8 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
       <div class="nav-links">
         <a href="#features">{c.navFeatures}</a>
         <a href="#how-it-works">{c.navHowItWorks}</a>
-        <a href="/blog">Blog</a>
+        {lang === 'de' && <a href="/blog">Blog</a>}
+        {lang === 'en' && <a href="/en/blog">Blog</a>}
         <div class="lang-switcher">
           {langs.map((l, i) => (
             <>
