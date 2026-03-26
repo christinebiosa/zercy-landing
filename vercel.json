@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "astro",
+  "functions": {
+    "api/think.js": { "maxDuration": 60 },
+    "api/parse.js": { "maxDuration": 60 },
+    "api/chat.js": { "maxDuration": 30 }
+  }
+}

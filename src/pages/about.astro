@@ -1,0 +1,76 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About — Zercy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root { --navy: #0F172A; --blue: #0EA5E9; --orange: #F97316; --white: #FAFAF8; }
+    body { font-family: 'Inter', sans-serif; background: var(--white); color: var(--navy); line-height: 1.7; }
+    header { background: var(--navy); padding: 1.2rem 2rem; }
+    .logo { display: flex; align-items: center; gap: 0.5rem; text-decoration: none; }
+    .logo-icon { font-size: 1.4rem; }
+    .logo-text { color: #fff; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 1.3rem; }
+    main { max-width: 760px; margin: 0 auto; padding: 3rem 2rem 5rem; }
+    .hero { margin-bottom: 3rem; }
+    h1 { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 2.2rem; font-weight: 800; margin-bottom: 1rem; }
+    .tagline { font-size: 1.15rem; color: #475569; max-width: 560px; }
+    h2 { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 1.15rem; font-weight: 700; margin: 2.5rem 0 0.6rem; color: var(--navy); }
+    p { margin-bottom: 1rem; color: #334155; }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .contact-box { background: #f1f5f9; border-radius: 16px; padding: 2rem; margin-top: 2.5rem; }
+    .contact-box h2 { margin-top: 0; }
+    .contact-email { display: inline-flex; align-items: center; gap: 0.5rem; background: var(--navy); color: #fff; padding: 0.7rem 1.4rem; border-radius: 50px; font-weight: 600; font-size: 0.95rem; margin-top: 0.5rem; text-decoration: none; transition: opacity 0.2s; }
+    .contact-email:hover { opacity: 0.85; text-decoration: none; }
+    .try-btn { display: inline-flex; align-items: center; gap: 0.5rem; background: var(--orange); color: #fff; padding: 0.9rem 1.8rem; border-radius: 50px; font-weight: 700; font-size: 1rem; margin-top: 2.5rem; text-decoration: none; transition: opacity 0.2s; }
+    .try-btn:hover { opacity: 0.88; text-decoration: none; }
+    footer { background: var(--navy); padding: 1.5rem 2rem; text-align: center; color: rgba(255,255,255,0.4); font-size: 0.82rem; }
+    footer a { color: rgba(255,255,255,0.5); }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="/" class="logo">
+      <span class="logo-icon">✈</span>
+      <span class="logo-text">Zercy</span>
+    </a>
+  </header>
+
+  <main>
+    <div class="hero">
+      <h1>About Zercy</h1>
+      <p class="tagline">The travel agency of the past. Today's pure intelligence. Meet Zercy.</p>
+    </div>
+
+    <h2>What is Zercy?</h2>
+    <p>Zercy is an AI-powered travel planning tool that thinks the way a great travel agent does — not with forms and dropdowns, but with real conversation.</p>
+    <p>You tell Zercy your travel idea in plain language. Zercy asks the right questions, understands your situation, and surfaces live flight options with real prices. No account. No subscription. Just type and go.</p>
+
+    <h2>Who built it?</h2>
+    <p>Zercy was built by <strong>Christine Bork</strong>, based in Jaco, Costa Rica. The idea came from a simple frustration: modern travel booking is full of forms, filters, and friction — but planning a great trip is really just a conversation.</p>
+    <p>Zercy is that conversation, powered by Claude AI from Anthropic and live flight data from Google Flights.</p>
+
+    <h2>Technology</h2>
+    <p>Zercy uses Claude (Anthropic's AI) for intelligent travel understanding and planning, combined with SerpAPI for real-time flight prices. The result is a tool that understands context, asks smart questions, and gives you relevant options — not just a list of flights.</p>
+
+    <a href="https://zercy.app" class="try-btn">✈ Try Zercy for free</a>
+
+    <div class="contact-box">
+      <h2>Contact</h2>
+      <p>Questions, feedback, partnership inquiries, or press? We'd love to hear from you.</p>
+      <a href="mailto:info@zercy.app" class="contact-email">✉ info@zercy.app</a>
+    </div>
+  </main>
+
+  <footer>
+    <a href="/">zercy.app</a> &nbsp;·&nbsp; <a href="/about">About</a> &nbsp;·&nbsp; <a href="/privacy">Privacy Policy</a>
+    <br><br>© 2026 Zercy
+  </footer>
+</body>
+</html>

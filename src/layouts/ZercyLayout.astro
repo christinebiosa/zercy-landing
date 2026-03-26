@@ -1,0 +1,2106 @@
+---
+import '../styles/global.css';
+
+const { lang = 'de' } = Astro.props;
+
+const CONTENT: Record<string, any> = {
+  de: {
+    title: 'Zercy – Dein KI-Reiseberater',
+    description: 'Zercy ist dein KI-Reiseberater. Einfach erzählen wohin du willst – Zercy findet die besten Flüge, Hotels und Verbindungen für dich.',
+    navFeatures: 'Features', navHowItWorks: "So funktioniert's", navCta: 'Jetzt loslegen', newSearchLabel: '✦ Neue Suche',
+    badge1: 'KI-gestützte Reiseplanung', badge2: 'Kostenlos · Kein Konto nötig',
+    titleLine1: 'Ob Reiseidee oder konkreter Plan —', titleLine2: 'Zercy denkt mit und liefert echte Optionen.', titleLine3: 'Mit Live-Preisen. Du entscheidest. Du buchst.',
+    subtitle: '<strong>Kein Buchungsportal — nur ein Chat mit der Intelligenz von heute.</strong><br />Zercy findet Flüge, Hotels, Mietwagen und vieles mehr — direkt auf vertrauenswürdigen und bekannten Portalen.',
+    chatBubble: 'Wohin darf die Reise gehen? Tipp mir einfach alles ein, so narrativ oder so konkret wie du möchtest. Ich hole das Beste raus.',
+    searchBtnLabel: 'Jetzt loslegen', howItWorksLink: 'Wie es funktioniert',
+    chips: ['🇵🇹 Wochenende Lissabon ab Frankfurt', '✈ Business Class nach NYC ab München', '🌴 2 Wochen Costa Rica ab Wien, März', '🏖 Familienurlaub Karibik ab Zürich, Februar', '🇯🇵 Tokio ab Berlin, günstigster Flug', '🌞 Nonstop Bali ab Amsterdam, Sommer'],
+    loadingText: 'Zercy denkt über deinen Trip nach...',
+    strip: ['Live Flugpreise', 'Echte Verbindungen', 'Kein Konto nötig', 'Kostenlos'],
+    featuresTitle: 'Was Zercy besser macht', featuresSub: 'Kein Preisvergleich-Dschungel. Kein Tab-Chaos. Einfach reden – und losreisen.',
+    features: [
+      { icon: '🧠', title: 'Versteht dich wirklich', desc: 'Zercy liest zwischen den Zeilen. "Irgendwo warm, nicht zu weit" – das versteht Zercy. Kein Dropdown, kein Formular.' },
+      { icon: '✈', title: 'Live Flugpreise', desc: 'Echte Preise in Echtzeit. Nicht von gestern, nicht geschätzt – immer aktuell, direkt von den Airlines und Plattformen.' },
+      { icon: '📍', title: 'Airports und Anreise', desc: 'Zercy erklärt nicht nur welcher Flughafen, sondern auch wie du von dort zu deinem Ziel kommst – Zug, Taxi, Shuttle.' },
+      { icon: '💡', title: 'Smarte Timing-Tipps', desc: 'Günstigster Tag zum Buchen. Ferienzuschläge vermeiden. Oster-Preise vs. zwei Wochen danach – Zercy kennt den Unterschied.' },
+      { icon: '🏨', title: 'Hotels integriert', desc: 'Direkt zur Buchung – mit vorbefüllten Daten. Kein Copy-Paste mehr.' },
+      { icon: '🗣', title: 'Verfeinere einfach', desc: '"Lieber direkt", "eine Woche früher", "doch Business Class" – sag es einfach, Zercy passt sich an.' },
+    ],
+    stepsTitle: 'In drei Schritten zur Reise', stepsSub: 'Von der Idee zum Flugticket – ohne eine einzige Suchmaske.',
+    steps: [
+      { title: 'Erzähl Zercy deine Idee', desc: 'Kein Formular, keine Pflichtfelder. Schreib einfach drauf los. "Ich will im Herbst mit meiner Freundin für 10 Tage weg – am liebsten Strand, aber nicht zu touristisch."' },
+      { title: 'Zercy denkt mit', desc: 'Zercy analysiert deine Reiseidee, fragt nur nach was wirklich fehlt, und schlägt konkrete Ziele, Flughäfen und smarte Reisedaten vor.' },
+      { title: 'Echte Preise, sofort', desc: 'Live-Flugdaten, direkte Links zu den großen Buchungsplattformen – du buchst dort, Zercy hat die Arbeit gemacht.' },
+    ],
+    ctaTitle: 'Bereit für deine nächste Reise?', ctaPara: 'Zercy ist kostenlos. Kein Konto. Kein Passwort. Einfach loslegen.', ctaBtn: 'Jetzt loslegen',
+    footerTagline: 'Ob Reiseidee oder konkreter Plan — Zercy denkt mit.',
+    cookieText: 'Wir nutzen technisch notwendige Cookies.', cookieLink: 'Datenschutzerklärung', cookieBtn: 'Verstanden',
+    chatInputPlaceholder: 'Frag alles über dein Reiseziel...', chatSub: 'Hotels, Aktivitäten, Visa, Tipps...',
+    typewriter: ['Einfach lostippen — kein Konto, kein Abo.','Geschäftsreise London, nächste Woche, Business Class','Ich will im April ans Meer — irgendwo warm...','Sag mir alles. Ich kümmere mich ums Denken.','Teamretreat Barcelona, 8 Personen, Ende September','Kein Formular. Kein Stress. Nur dein Reisewunsch.','Familienurlaub Karibik, Februar, 2 Erwachsene 2 Kinder','Wochenende Lissabon ab Frankfurt — günstigster Flug','Nonstop nach Tokio, 5 Nächte, wann am günstigsten?'],
+  },
+  en: {
+    title: 'Zercy – Your AI Travel Advisor',
+    description: 'Zercy is your AI travel advisor. Just tell it where you want to go – Zercy finds the best flights, hotels and connections for you.',
+    navFeatures: 'Features', navHowItWorks: 'How it works', navCta: 'Get started', newSearchLabel: '✦ New Search',
+    badge1: 'AI-powered travel planning', badge2: 'Free · No account needed',
+    titleLine1: 'Travel idea or ready to book —', titleLine2: 'Zercy thinks it through and finds your options.', titleLine3: 'Live prices. You decide. You book.',
+    subtitle: '<strong>Not a booking portal — just a chat powered by today\'s intelligence.</strong><br />Zercy finds flights, hotels, rental cars and more — directly on trusted and well-known platforms.',
+    chatBubble: "Where do you want to go? Just type everything in, as narrative or as specific as you'd like. I'll get the best out of it.",
+    searchBtnLabel: 'Get started', howItWorksLink: 'How it works',
+    chips: ['🇵🇹 Lisbon weekend from London', '✈ Business Class to NYC from Manchester', '🌴 2 weeks Costa Rica from London, March', '🏖 Family holiday Caribbean from Amsterdam, February', '🇯🇵 Tokyo from London, cheapest flight', '🌞 Nonstop Bali from Amsterdam, summer'],
+    loadingText: 'Zercy is thinking through your trip...',
+    strip: ['Live flight prices', 'Real connections', 'No account needed', 'Free'],
+    featuresTitle: 'What makes Zercy better', featuresSub: 'No price comparison jungle. No tab chaos. Just talk – and travel.',
+    features: [
+      { icon: '🧠', title: 'Really understands you', desc: "Zercy reads between the lines. 'Somewhere warm, not too far' – Zercy gets it. No dropdown, no form." },
+      { icon: '✈', title: 'Live flight prices', desc: 'Real prices, real time. Not from yesterday, not estimated – always current, directly from airlines and platforms.' },
+      { icon: '📍', title: 'Airports & getting there', desc: "Zercy doesn't just tell you which airport – it also explains how to get from there to your destination: train, taxi, shuttle." },
+      { icon: '💡', title: 'Smart timing tips', desc: 'Best day to book. Avoid school holiday surcharges. Easter prices vs. two weeks after – Zercy knows the difference.' },
+      { icon: '🏨', title: 'Hotels included', desc: 'Direct to booking – with pre-filled data. No more copy-paste.' },
+      { icon: '🗣', title: 'Refine easily', desc: '"Nonstop only", "one week earlier", "actually business class" – just say it, Zercy adapts.' },
+    ],
+    stepsTitle: 'Three steps to your trip', stepsSub: 'From idea to flight ticket – without a single search mask.',
+    steps: [
+      { title: 'Tell Zercy your idea', desc: "No form, no required fields. Just write. 'I want to go somewhere warm for 10 days in autumn with my partner – not too touristy.'" },
+      { title: 'Zercy thinks it through', desc: "Zercy analyses your travel idea, only asks what's truly missing, and suggests concrete destinations, airports, and smart travel dates." },
+      { title: 'Real prices, instantly', desc: 'Live flight data, direct links to major booking platforms – you book there, Zercy did the work.' },
+    ],
+    ctaTitle: 'Ready for your next trip?', ctaPara: 'Zercy is free. No account. No password. Just start.', ctaBtn: 'Get started',
+    footerTagline: "Travel idea or ready to book — Zercy thinks it through.",
+    cookieText: 'We use technically necessary cookies.', cookieLink: 'Privacy Policy', cookieBtn: 'Got it',
+    chatInputPlaceholder: 'Ask anything about your destination...', chatSub: 'Hotels, activities, visa, tips...',
+    typewriter: ['Just type – no account, no subscription.','Business trip to London next week, Business Class',"I want to go to the beach in April – somewhere warm...",'Tell me everything. I\'ll handle the thinking.','Team retreat Barcelona, 8 people, late September','No form. No stress. Just your travel wish.','Family holiday Caribbean, February, 2 adults 2 kids','Lisbon weekend from London – cheapest flight','Nonstop to Tokyo, 5 nights, when is cheapest?'],
+  },
+  es: {
+    title: 'Zercy – Tu Asesor de Viajes con IA',
+    description: 'Zercy es tu asesor de viajes con IA. Solo cuéntale adónde quieres ir – Zercy encuentra los mejores vuelos, hoteles y conexiones.',
+    navFeatures: 'Funcionalidades', navHowItWorks: 'Cómo funciona', navCta: 'Empezar ahora', newSearchLabel: '✦ Nueva búsqueda',
+    badge1: 'Planificación de viajes con IA', badge2: 'Gratis · Sin cuenta necesaria',
+    titleLine1: '¿Una idea de viaje o un plan concreto?', titleLine2: 'Zercy lo piensa contigo y te trae opciones reales.', titleLine3: 'Precios en vivo. Tú decides. Tú reservas.',
+    subtitle: '<strong>No es un portal de reservas — solo un chat con la inteligencia de hoy.</strong><br />Zercy encuentra vuelos, hoteles, coches de alquiler y mucho más — directamente en plataformas de confianza.',
+    chatBubble: '¿A dónde quieres viajar? Escríbeme todo, tan narrativo o concreto como prefieras. Yo saco lo mejor.',
+    searchBtnLabel: 'Empezar ahora', howItWorksLink: 'Cómo funciona',
+    chips: ['🇵🇹 Fin de semana en Lisboa desde Madrid', '✈ Business Class a NYC desde Barcelona', '🌴 2 semanas Costa Rica desde Madrid, marzo', '🏖 Vacaciones familiares Caribe desde Madrid, febrero', '🇯🇵 Tokio desde Madrid, vuelo más barato', '🌞 Nonstop Bali desde Ámsterdam, verano'],
+    loadingText: 'Zercy está pensando en tu viaje...',
+    strip: ['Precios de vuelos en tiempo real', 'Conexiones reales', 'Sin cuenta necesaria', 'Gratis'],
+    featuresTitle: 'Por qué Zercy es mejor', featuresSub: 'Sin comparadores. Sin caos de pestañas. Solo habla – y viaja.',
+    features: [
+      { icon: '🧠', title: 'Te entiende de verdad', desc: 'Zercy lee entre líneas. "Algo cálido, no muy lejos" – Zercy lo entiende. Sin desplegables, sin formularios.' },
+      { icon: '✈', title: 'Precios en tiempo real', desc: 'Precios reales en tiempo real. No de ayer, no estimados – siempre actualizados, directamente de las aerolíneas.' },
+      { icon: '📍', title: 'Aeropuertos y traslados', desc: 'Zercy no solo te dice qué aeropuerto, sino también cómo llegar de allí a tu destino: tren, taxi, shuttle.' },
+      { icon: '💡', title: 'Consejos de timing inteligentes', desc: 'Mejor día para reservar. Evita recargos de vacaciones. Precios de Semana Santa vs. dos semanas después.' },
+      { icon: '🏨', title: 'Hoteles integrados', desc: 'Directamente a la reserva – con datos prellenados. No más copiar y pegar.' },
+      { icon: '🗣', title: 'Refina fácilmente', desc: '"Solo directo", "una semana antes", "mejor business class" – solo dilo, Zercy se adapta.' },
+    ],
+    stepsTitle: 'Tres pasos para tu viaje', stepsSub: 'De la idea al billete de avión – sin ningún buscador.',
+    steps: [
+      { title: 'Cuéntale tu idea a Zercy', desc: 'Sin formulario, sin campos obligatorios. Escribe libremente. "Quiero ir a la playa en otoño con mi pareja por 10 días – no muy turístico."' },
+      { title: 'Zercy piensa contigo', desc: 'Zercy analiza tu idea de viaje, solo pregunta lo que realmente falta, y sugiere destinos concretos, aeropuertos y fechas inteligentes.' },
+      { title: 'Precios reales, al instante', desc: 'Datos de vuelos en tiempo real, enlaces directos a las grandes plataformas de reservas – tú reservas allí, Zercy hizo el trabajo.' },
+    ],
+    ctaTitle: '¿Listo para tu próximo viaje?', ctaPara: 'Zercy es gratis. Sin cuenta. Sin contraseña. Empieza ya.', ctaBtn: 'Empezar ahora',
+    footerTagline: '¿Una idea de viaje o un plan concreto? Zercy lo piensa contigo.',
+    cookieText: 'Usamos cookies técnicamente necesarias.', cookieLink: 'Política de privacidad', cookieBtn: 'Entendido',
+    chatInputPlaceholder: 'Pregunta lo que quieras sobre tu destino...', chatSub: 'Hoteles, actividades, visa, consejos...',
+    typewriter: ['Escribe sin más – sin cuenta, sin suscripción.','Viaje de negocios a Londres la próxima semana, Business Class','Quiero ir a la playa en abril – en algún lugar cálido...','Cuéntame todo. Yo me encargo de pensar.','Retreat de equipo Barcelona, 8 personas, finales de septiembre','Sin formulario. Sin estrés. Solo tu deseo de viaje.','Vacaciones familiares Caribe, febrero, 2 adultos 2 niños','Fin de semana Lisboa desde Madrid – vuelo más barato','Nonstop a Tokio, 5 noches, ¿cuándo es más barato?'],
+  },
+  fr: {
+    title: 'Zercy – Ton Conseiller Voyage IA',
+    description: "Zercy est ton conseiller voyage IA. Dis-lui juste où tu veux aller – Zercy trouve les meilleurs vols, hôtels et connexions pour toi.",
+    navFeatures: 'Fonctionnalités', navHowItWorks: 'Comment ça marche', navCta: 'Commencer', newSearchLabel: '✦ Nouvelle recherche',
+    badge1: 'Planification voyage par IA', badge2: 'Gratuit · Sans compte',
+    titleLine1: "Une idée de voyage ou un plan précis —", titleLine2: "Zercy réfléchit avec toi et trouve de vraies options.", titleLine3: "Prix en direct. Tu décides. Tu réserves.",
+    subtitle: "<strong>Pas un portail de réservation — juste un chat avec l'intelligence d'aujourd'hui.</strong><br />Zercy trouve des vols, hôtels, voitures de location et bien plus — directement sur des plateformes reconnues et fiables.",
+    chatBubble: "Où veux-tu aller ? Écris-moi tout, de manière narrative ou concrète. Je trouve le meilleur.",
+    searchBtnLabel: 'Commencer', howItWorksLink: 'Comment ça marche',
+    chips: ['🇵🇹 Week-end à Lisbonne depuis Paris', '✈ Business Class à NYC depuis Lyon', '🌴 2 semaines Costa Rica depuis Paris, mars', '🏖 Vacances en famille Caraïbes depuis Paris, février', '🇯🇵 Tokyo depuis Paris, vol le moins cher', '🌞 Nonstop Bali depuis Amsterdam, été'],
+    loadingText: 'Zercy réfléchit à ton voyage...',
+    strip: ['Prix de vols en direct', 'Vraies connexions', 'Sans compte', 'Gratuit'],
+    featuresTitle: 'Ce qui rend Zercy meilleur', featuresSub: 'Pas de jungle de comparateurs. Pas de chaos de fenêtres. Parle simplement – et voyage.',
+    features: [
+      { icon: '🧠', title: 'Te comprend vraiment', desc: "Zercy lit entre les lignes. 'Quelque chose de chaud, pas trop loin' – Zercy comprend. Sans menu déroulant, sans formulaire." },
+      { icon: '✈', title: 'Prix de vols en direct', desc: "De vrais prix en temps réel. Pas d'hier, pas estimés – toujours à jour, directement des compagnies aériennes." },
+      { icon: '📍', title: 'Aéroports et transferts', desc: 'Zercy ne te dit pas seulement quel aéroport, mais aussi comment aller de là-bas à ta destination : train, taxi, navette.' },
+      { icon: '💡', title: 'Conseils de timing malins', desc: 'Meilleur jour pour réserver. Éviter les majorations de vacances. Prix de Pâques vs. deux semaines après.' },
+      { icon: '🏨', title: 'Hôtels intégrés', desc: 'Directement à la réservation – avec données pré-remplies. Plus besoin de copier-coller.' },
+      { icon: '🗣', title: 'Affine facilement', desc: '"Sans escale seulement", "une semaine plus tôt", "finalement business class" – dis-le juste, Zercy s\'adapte.' },
+    ],
+    stepsTitle: 'Trois étapes pour ton voyage', stepsSub: "De l'idée au billet d'avion – sans aucun moteur de recherche.",
+    steps: [
+      { title: 'Raconte ton idée à Zercy', desc: "Pas de formulaire, pas de champs obligatoires. Écris librement. 'Je veux partir à la plage en automne avec ma partenaire pour 10 jours – pas trop touristique.'" },
+      { title: 'Zercy réfléchit avec toi', desc: "Zercy analyse ton idée de voyage, demande seulement ce qui manque vraiment, et propose des destinations concrètes et des dates intelligentes." },
+      { title: 'De vrais prix, instantanément', desc: 'Données de vols en direct, liens directs vers les grandes plateformes de réservation – tu réserves là, Zercy a fait le travail.' },
+    ],
+    ctaTitle: 'Prêt pour ton prochain voyage ?', ctaPara: 'Zercy est gratuit. Sans compte. Sans mot de passe. Commence maintenant.', ctaBtn: 'Commencer',
+    footerTagline: "Idée de voyage ou plan précis — Zercy réfléchit avec toi.",
+    cookieText: 'Nous utilisons des cookies techniquement nécessaires.', cookieLink: 'Politique de confidentialité', cookieBtn: 'Compris',
+    chatInputPlaceholder: 'Demande tout sur ta destination...', chatSub: 'Hôtels, activités, visa, conseils...',
+    typewriter: ["Tape sans plus – sans compte, sans abonnement.","Voyage d'affaires à Londres la semaine prochaine, Business Class","Je veux aller à la plage en avril – quelque part de chaud...","Dis-moi tout. Je m'occupe de réfléchir.","Retraite d'équipe Barcelone, 8 personnes, fin septembre","Sans formulaire. Sans stress. Juste ton souhait de voyage.","Vacances en famille Caraïbes, février, 2 adultes 2 enfants","Week-end Lisbonne depuis Paris – vol le moins cher","Nonstop à Tokyo, 5 nuits, quand c'est le moins cher ?"],
+  },
+  nl: {
+    title: 'Zercy – Jouw AI Reisadviseur',
+    description: 'Zercy is jouw AI reisadviseur. Vertel gewoon waar je naartoe wilt – Zercy vindt de beste vluchten, hotels en verbindingen voor jou.',
+    navFeatures: 'Functies', navHowItWorks: 'Hoe het werkt', navCta: 'Nu beginnen', newSearchLabel: '✦ Nieuwe zoekopdracht',
+    badge1: 'AI-gestuurde reisplanning', badge2: 'Gratis · Geen account nodig',
+    titleLine1: 'Reisidee of concreet plan —', titleLine2: 'Zercy denkt mee en vindt echte opties.', titleLine3: 'Live prijzen. Jij beslist. Jij boekt.',
+    subtitle: "<strong>Geen boekingsportaal — gewoon een chat met de intelligentie van nu.</strong><br />Zercy vindt vluchten, hotels, huurauto's en meer — direct op vertrouwde en bekende platforms.",
+    chatBubble: 'Waar wil je naartoe? Typ me alles, zo verhalend of zo concreet als je wilt. Ik haal het beste eruit.',
+    searchBtnLabel: 'Nu beginnen', howItWorksLink: 'Hoe het werkt',
+    chips: ['🇵🇹 Weekend Lissabon vanuit Amsterdam', '✈ Business Class naar NYC vanuit Amsterdam', '🌴 2 weken Costa Rica vanuit Amsterdam, maart', '🏖 Familievakantie Caraïben vanuit Rotterdam, februari', '🇯🇵 Tokio vanuit Amsterdam, goedkoopste vlucht', '🌞 Nonstop Bali vanuit Amsterdam, zomer'],
+    loadingText: 'Zercy denkt na over je reis...',
+    strip: ['Live vliegprijzen', 'Echte verbindingen', 'Geen account nodig', 'Gratis'],
+    featuresTitle: 'Wat Zercy beter maakt', featuresSub: 'Geen vergelijkersdoolhof. Geen tabblad-chaos. Gewoon praten – en reizen.',
+    features: [
+      { icon: '🧠', title: 'Begrijpt je echt', desc: "Zercy leest tussen de regels. 'Ergens warm, niet te ver' – dat begrijpt Zercy. Geen dropdown, geen formulier." },
+      { icon: '✈', title: 'Live vliegprijzen', desc: 'Echte prijzen in realtime. Niet van gisteren, niet geschat – altijd actueel, rechtstreeks van luchtvaartmaatschappijen.' },
+      { icon: '📍', title: 'Luchthavens en vervoer', desc: 'Zercy vertelt niet alleen welke luchthaven, maar ook hoe je van daar naar je bestemming komt: trein, taxi, shuttle.' },
+      { icon: '💡', title: 'Slimme timingadviezen', desc: 'Goedkoopste boekingsdag. Vakantietoeslagen vermijden. Paasprijs vs. twee weken later – Zercy kent het verschil.' },
+      { icon: '🏨', title: 'Hotels geïntegreerd', desc: 'Direct naar boeking – met vooraf ingevulde gegevens. Geen kopiëren en plakken meer.' },
+      { icon: '🗣', title: 'Verfijn makkelijk', desc: '"Alleen nonstop", "een week eerder", "toch business class" – zeg het gewoon, Zercy past zich aan.' },
+    ],
+    stepsTitle: 'In drie stappen naar je reis', stepsSub: 'Van idee tot vliegticket – zonder één zoekmachine.',
+    steps: [
+      { title: 'Vertel Zercy je idee', desc: "Geen formulier, geen verplichte velden. Schrijf gewoon. 'Ik wil in de herfst met mijn partner 10 dagen weg – het liefst strand, maar niet te toeristisch.'" },
+      { title: 'Zercy denkt mee', desc: 'Zercy analyseert je reisidee, vraagt alleen wat echt ontbreekt, en stelt concrete bestemmingen, luchthavens en slimme reisdata voor.' },
+      { title: 'Echte prijzen, direct', desc: 'Live vluchtgegevens, directe links naar grote boekingsplatforms – jij boekt daar, Zercy heeft het werk gedaan.' },
+    ],
+    ctaTitle: 'Klaar voor je volgende reis?', ctaPara: 'Zercy is gratis. Geen account. Geen wachtwoord. Gewoon beginnen.', ctaBtn: 'Nu beginnen',
+    footerTagline: 'Reisidee of concreet plan — Zercy denkt mee.',
+    cookieText: 'We gebruiken technisch noodzakelijke cookies.', cookieLink: 'Privacybeleid', cookieBtn: 'Begrepen',
+    chatInputPlaceholder: 'Vraag alles over je bestemming...', chatSub: 'Hotels, activiteiten, visum, tips...',
+    typewriter: ['Gewoon typen – geen account, geen abonnement.','Zakenreis Londen volgende week, Business Class','Ik wil in april naar het strand – ergens warm...','Vertel me alles. Ik zorg voor het denken.','Teamretreat Barcelona, 8 personen, eind september','Geen formulier. Geen stress. Gewoon jouw reisidee.','Gezinsvakantie Caraïben, februari, 2 volwassenen 2 kinderen','Weekend Lissabon vanuit Amsterdam – goedkoopste vlucht','Nonstop naar Tokio, 5 nachten, wanneer is het goedkoopst?'],
+  },
+  it: {
+    title: 'Zercy – Il Tuo Consulente Viaggi AI',
+    description: 'Zercy è il tuo consulente viaggi AI. Digli solo dove vuoi andare – Zercy trova i migliori voli, hotel e connessioni per te.',
+    navFeatures: 'Funzionalità', navHowItWorks: 'Come funziona', navCta: 'Inizia ora', newSearchLabel: '✦ Nuova ricerca',
+    badge1: 'Pianificazione viaggi con IA', badge2: 'Gratis · Senza account',
+    titleLine1: "Un'idea di viaggio o un piano concreto —", titleLine2: 'Zercy ci pensa e ti porta opzioni reali.', titleLine3: 'Prezzi live. Decidi tu. Prenoti tu.',
+    subtitle: "<strong>Non un portale di prenotazione — solo una chat con l'intelligenza di oggi.</strong><br />Zercy trova voli, hotel, auto a noleggio e molto altro — direttamente su piattaforme affidabili e conosciute.",
+    chatBubble: "Dove vuoi andare? Scrivimi tutto, in modo narrativo o concreto come preferisci. Trovo il meglio per te.",
+    searchBtnLabel: 'Inizia ora', howItWorksLink: 'Come funziona',
+    chips: ['🇵🇹 Weekend a Lisbona da Milano', '✈ Business Class a NYC da Roma', '🌴 2 settimane Costa Rica da Milano, marzo', '🏖 Vacanza in famiglia Caraibi da Roma, febbraio', '🇯🇵 Tokyo da Milano, volo più economico', '🌞 Nonstop Bali da Amsterdam, estate'],
+    loadingText: 'Zercy sta pensando al tuo viaggio...',
+    strip: ['Prezzi voli in tempo reale', 'Connessioni reali', 'Senza account', 'Gratis'],
+    featuresTitle: 'Perché Zercy è migliore', featuresSub: 'Niente comparatori. Niente caos di schede. Parla semplicemente – e viaggia.',
+    features: [
+      { icon: '🧠', title: 'Ti capisce davvero', desc: "Zercy legge tra le righe. 'Da qualche parte di caldo, non troppo lontano' – Zercy capisce. Nessun menu, nessun modulo." },
+      { icon: '✈', title: 'Prezzi voli in tempo reale', desc: 'Prezzi reali in tempo reale. Non di ieri, non stimati – sempre aggiornati, direttamente dalle compagnie aeree.' },
+      { icon: '📍', title: 'Aeroporti e trasferimenti', desc: 'Zercy non ti dice solo quale aeroporto, ma anche come arrivare da lì alla tua destinazione: treno, taxi, navetta.' },
+      { icon: '💡', title: 'Consigli di timing intelligenti', desc: 'Giorno migliore per prenotare. Evitare i supplementi delle vacanze. Prezzi di Pasqua vs. due settimane dopo.' },
+      { icon: '🏨', title: 'Hotel integrati', desc: 'Direttamente alla prenotazione – con dati precompilati. Niente più copia-incolla.' },
+      { icon: '🗣', title: 'Affina facilmente', desc: '"Solo diretto", "una settimana prima", "in realtà business class" – dillo e basta, Zercy si adatta.' },
+    ],
+    stepsTitle: 'Tre passi per il tuo viaggio', stepsSub: "Dall'idea al biglietto aereo – senza un solo motore di ricerca.",
+    steps: [
+      { title: 'Racconta la tua idea a Zercy', desc: "Nessun modulo, nessun campo obbligatorio. Scrivi liberamente. 'Voglio andare in spiaggia in autunno con la mia compagna per 10 giorni – preferibilmente non turistica.'" },
+      { title: 'Zercy pensa con te', desc: "Zercy analizza la tua idea di viaggio, chiede solo quello che manca davvero, e suggerisce destinazioni concrete, aeroporti e date intelligenti." },
+      { title: 'Prezzi reali, subito', desc: 'Dati voli in tempo reale, link diretti alle principali piattaforme di prenotazione – tu prenoti lì, Zercy ha fatto il lavoro.' },
+    ],
+    ctaTitle: 'Pronto per il tuo prossimo viaggio?', ctaPara: 'Zercy è gratuito. Senza account. Senza password. Inizia subito.', ctaBtn: 'Inizia ora',
+    footerTagline: "Un'idea di viaggio o un piano concreto — Zercy ci pensa.",
+    cookieText: 'Utilizziamo cookie tecnicamente necessari.', cookieLink: 'Informativa sulla privacy', cookieBtn: 'Ho capito',
+    chatInputPlaceholder: 'Chiedi tutto sulla tua destinazione...', chatSub: 'Hotel, attività, visto, consigli...',
+    typewriter: ['Scrivi pure – senza account, senza abbonamento.','Viaggio di lavoro a Londra la prossima settimana, Business Class','Voglio andare al mare ad aprile – da qualche parte di caldo...','Dimmi tutto. Penso io a tutto.','Ritiro di squadra Barcellona, 8 persone, fine settembre','Nessun modulo. Nessuno stress. Solo il tuo desiderio di viaggio.','Vacanza in famiglia Caraibi, febbraio, 2 adulti 2 bambini','Weekend Lisbona da Milano – volo più economico','Nonstop a Tokyo, 5 notti, quando è più economico?'],
+  },
+  pt: {
+    title: 'Zercy – Seu Consultor de Viagens IA',
+    description: 'Zercy é seu consultor de viagens IA. Só diga onde quer ir – Zercy encontra os melhores voos, hotéis e conexões para você.',
+    navFeatures: 'Funcionalidades', navHowItWorks: 'Como funciona', navCta: 'Começar agora', newSearchLabel: '✦ Nova busca',
+    badge1: 'Planejamento de viagens com IA', badge2: 'Grátis · Sem conta necessária',
+    titleLine1: 'Uma ideia de viagem ou um plano concreto —', titleLine2: 'Zercy pensa junto e traz opções reais.', titleLine3: 'Preços ao vivo. Você decide. Você reserva.',
+    subtitle: '<strong>Não é um portal de reservas — só um chat com a inteligência de hoje.</strong><br />Zercy encontra voos, hotéis, carros alugados e muito mais — direto em plataformas confiáveis e conhecidas.',
+    chatBubble: 'Para onde você quer viajar? Escreva tudo para mim, de forma narrativa ou concreta como preferir. Eu extraio o melhor.',
+    searchBtnLabel: 'Começar agora', howItWorksLink: 'Como funciona',
+    chips: ['🇵🇹 Fim de semana em Lisboa de São Paulo', '✈ Business Class para NYC de Lisboa', '🌴 2 semanas Costa Rica de São Paulo, março', '🏖 Férias em família Caribe de Lisboa, fevereiro', '🇯🇵 Tóquio de São Paulo, voo mais barato', '🌞 Nonstop Bali de Amsterdã, verão'],
+    loadingText: 'Zercy está pensando na sua viagem...',
+    strip: ['Preços de voos em tempo real', 'Conexões reais', 'Sem conta necessária', 'Grátis'],
+    featuresTitle: 'O que torna o Zercy melhor', featuresSub: 'Sem selva de comparadores. Sem caos de abas. Só fale – e viaje.',
+    features: [
+      { icon: '🧠', title: 'Te entende de verdade', desc: "Zercy lê nas entrelinhas. 'Em algum lugar quente, não muito longe' – Zercy entende. Sem listas, sem formulários." },
+      { icon: '✈', title: 'Preços de voos em tempo real', desc: 'Preços reais em tempo real. Não de ontem, não estimados – sempre atualizados, diretamente das companhias aéreas.' },
+      { icon: '📍', title: 'Aeroportos e traslados', desc: 'Zercy não só diz qual aeroporto, mas também como chegar de lá ao seu destino: trem, táxi, shuttle.' },
+      { icon: '💡', title: 'Dicas inteligentes de timing', desc: 'Melhor dia para reservar. Evitar sobretaxas de feriados. Preços de Páscoa vs. duas semanas depois.' },
+      { icon: '🏨', title: 'Hotéis integrados', desc: 'Direto para a reserva – com dados pré-preenchidos. Sem mais copiar e colar.' },
+      { icon: '🗣', title: 'Refine facilmente', desc: '"Só voo direto", "uma semana antes", "na verdade classe executiva" – só diga, Zercy se adapta.' },
+    ],
+    stepsTitle: 'Três passos para sua viagem', stepsSub: 'Da ideia à passagem aérea – sem nenhum buscador.',
+    steps: [
+      { title: 'Conte sua ideia ao Zercy', desc: "Sem formulário, sem campos obrigatórios. Escreva livremente. 'Quero ir à praia no outono com minha parceira por 10 dias – de preferência não muito turístico.'" },
+      { title: 'Zercy pensa junto', desc: 'Zercy analisa sua ideia de viagem, só pergunta o que realmente falta, e sugere destinos concretos, aeroportos e datas inteligentes.' },
+      { title: 'Preços reais, na hora', desc: 'Dados de voos em tempo real, links diretos para as grandes plataformas de reservas – você reserva lá, Zercy fez o trabalho.' },
+    ],
+    ctaTitle: 'Pronto para sua próxima viagem?', ctaPara: 'Zercy é gratuito. Sem conta. Sem senha. Comece já.', ctaBtn: 'Começar agora',
+    footerTagline: 'Uma ideia de viagem ou um plano concreto — Zercy pensa junto.',
+    cookieText: 'Utilizamos cookies tecnicamente necessários.', cookieLink: 'Política de privacidade', cookieBtn: 'Entendido',
+    chatInputPlaceholder: 'Pergunte tudo sobre seu destino...', chatSub: 'Hotéis, atividades, visto, dicas...',
+    typewriter: ['Só escreva – sem conta, sem assinatura.','Viagem de negócios para Londres na próxima semana, Business Class','Quero ir à praia em abril – em algum lugar quente...','Me conta tudo. Eu cuido do raciocínio.','Retiro de equipe Barcelona, 8 pessoas, final de setembro','Sem formulário. Sem estresse. Só seu desejo de viagem.','Férias em família Caribe, fevereiro, 2 adultos 2 crianças','Fim de semana Lisboa de São Paulo – voo mais barato','Nonstop para Tóquio, 5 noites, quando é mais barato?'],
+  },
+};
+
+const c = CONTENT[lang] || CONTENT.de;
+const langs = ['en', 'de', 'es', 'fr', 'nl', 'it', 'pt'];
+const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={c.description} />
+  <title>{c.title}</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="sitemap" href="/sitemap.xml" />
+  <!-- hreflang for multilingual SEO -->
+  <link rel="alternate" hreflang="de" href="https://zercy.app/" />
+  <link rel="alternate" hreflang="en" href="https://zercy.app/en/" />
+  <link rel="alternate" hreflang="es" href="https://zercy.app/es/" />
+  <link rel="alternate" hreflang="fr" href="https://zercy.app/fr/" />
+  <link rel="alternate" hreflang="nl" href="https://zercy.app/nl/" />
+  <link rel="alternate" hreflang="it" href="https://zercy.app/it/" />
+  <link rel="alternate" hreflang="pt" href="https://zercy.app/pt/" />
+  <link rel="alternate" hreflang="x-default" href="https://zercy.app/" />
+  <!-- OpenGraph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://zercy.app/" />
+  <meta property="og:title" content={c.title} />
+  <meta property="og:description" content={c.description} />
+  <meta property="og:image" content="https://zercy.app/og-image.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://zercy.app/og-image.png" />
+  <meta name="twitter:title" content={c.title} />
+  <meta name="twitter:description" content={c.description} />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="container nav-inner">
+      <a href="/" class="logo">
+        <span class="logo-icon">✈</span>
+        <span class="logo-text">Zercy</span>
+      </a>
+      <div class="nav-links">
+        <a href="#features">{c.navFeatures}</a>
+        <a href="#how-it-works">{c.navHowItWorks}</a>
+        <div class="lang-switcher">
+          {langs.map((l, i) => (
+            <>
+              {l === lang
+                ? <span class="lang active">{l.toUpperCase()}</span>
+                : <a href={getLangPath(l)} class="lang">{l.toUpperCase()}</a>
+              }
+              {i < langs.length - 1 && <span class="lang-sep">|</span>}
+            </>
+          ))}
+        </div>
+        <button id="newSearchBtn" onclick="newSearch()" class="btn-new-search" style="display:none">{c.newSearchLabel}</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero" id="hero">
+    <div class="container">
+      <div class="hero-badges">
+        <div class="hero-badge">
+          <span class="badge-dot"></span>
+          {c.badge1}
+        </div>
+        <div class="hero-badge hero-badge-plain">{c.badge2}</div>
+      </div>
+      <h1 class="hero-title">
+        <span class="title-slate">{c.titleLine1}</span><br />
+        <span class="title-blue">{c.titleLine2}</span><br />
+        <span class="gradient-text">{c.titleLine3}</span>
+      </h1>
+      <p class="hero-subtitle" set:html={c.subtitle}></p>
+
+      <div class="hero-chat">
+        <div class="hero-chat-bubble">
+          <div class="chat-avatar">Z</div>
+          <div class="chat-text">{c.chatBubble}</div>
+        </div>
+        <div class="hero-input-row">
+          <input
+            type="text"
+            id="intent"
+            class="hero-input"
+            placeholder=""
+            onkeydown="if(event.key==='Enter')thinkIntent()"
+          />
+          <button id="searchBtn" class="hero-search-btn" onclick="thinkIntent()">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="22" y1="2" x2="11" y2="13"></line>
+              <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="hero-chips">
+        {c.chips.map((chip: string) => (
+          <span class="chip" onclick="useChip(this.innerText)">{chip}</span>
+        ))}
+      </div>
+
+    </div>
+  </section>
+
+  <!-- RESULTS WRAPPER -->
+  <div id="zercy-results-wrapper" style="display:none">
+    <div id="zercy-content">
+      <div id="loading" style="display:none;text-align:center;padding:3rem 0;">
+        <div class="loader-scene">
+          <div class="zercy-mascot">
+            <div class="orb">
+              <div class="orb-eye left">Z</div>
+              <div class="orb-eye right">C</div>
+              <div class="orb-sparkle s1"></div>
+              <div class="orb-sparkle s2"></div>
+              <div class="orb-sparkle s3"></div>
+            </div>
+          </div>
+          <span class="plane-loader">✈️</span>
+        </div>
+        <p id="loading-text" style="color:#94a3b8;font-size:0.9rem;font-weight:500;">{c.loadingText}</p>
+      </div>
+      <div id="conversation"></div>
+    </div>
+  </div>
+
+  <!-- STRIP -->
+  <div class="strip">
+    <div class="container strip-inner">
+      {c.strip.map((item: string, i: number) => (
+        <>
+          <span>{item}</span>
+          {i < c.strip.length - 1 && <span class="strip-dot">·</span>}
+        </>
+      ))}
+    </div>
+  </div>
+
+  <!-- FEATURES -->
+  <section id="features" class="features">
+    <div class="container">
+      <div class="section-header">
+        <h2>{c.featuresTitle}</h2>
+        <p>{c.featuresSub}</p>
+      </div>
+      <div class="features-grid">
+        {c.features.map((f: any, i: number) => (
+          <div class={`feature-card${i === 0 ? ' featured' : ''}`}>
+            <div class="feature-icon">{f.icon}</div>
+            <h3>{f.title}</h3>
+            <p>{f.desc}</p>
+          </div>
+        ))}
+      </div>
+      <div style="text-align:center;margin-top:2.5rem;">
+        <button onclick="scrollToSearch()" class="btn-primary cta-btn">
+          {c.ctaBtn}
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS -->
+  <section id="how-it-works" class="how-it-works">
+    <div class="container">
+      <div class="section-header">
+        <h2>{c.stepsTitle}</h2>
+        <p>{c.stepsSub}</p>
+      </div>
+      <div class="steps">
+        {c.steps.map((step: any, i: number) => (
+          <>
+            <div class="step">
+              <div class="step-number">{i + 1}</div>
+              <div class="step-content">
+                <h3>{step.title}</h3>
+                <p>{step.desc}</p>
+              </div>
+            </div>
+            {i < c.steps.length - 1 && (
+              <div class="step-connector"><div class="connector-line"></div></div>
+            )}
+          </>
+        ))}
+      </div>
+      <div style="text-align:center;margin-top:2.5rem;">
+        <button onclick="scrollToSearch()" class="btn-primary cta-btn">
+          {c.ctaBtn}
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta-section">
+    <div class="container">
+      <div class="cta-inner">
+        <h2>{c.ctaTitle}</h2>
+        <p>{c.ctaPara}</p>
+        <button onclick="scrollToSearch()" class="btn-primary cta-btn">
+          {c.ctaBtn}
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="5" y1="12" x2="19" y2="12"></line>
+            <polyline points="12 5 19 12 12 19"></polyline>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="container footer-inner">
+      <div class="footer-logo">
+        <span class="logo-icon">✈</span>
+        <span class="logo-text">Zercy</span>
+      </div>
+      <p class="footer-tagline">{c.footerTagline}</p>
+      <p class="footer-links"><a href="/about">About</a> &nbsp;·&nbsp; <a href="/privacy">Privacy Policy</a> &nbsp;·&nbsp; <a href="/impressum">Impressum</a> &nbsp;·&nbsp; <a href="/terms">Terms</a> &nbsp;·&nbsp; <a href="mailto:info@zercy.app">info@zercy.app</a></p>
+      <p class="footer-copy">© 2026 Zercy. Made with love and a lot of AI.</p>
+    </div>
+  </footer>
+
+  <!-- FLOATING CHAT WIDGET -->
+  <div class="zercy-float-wrapper" id="zercyFloatWrapper" style="display:none">
+    <div class="zercy-float-eyebrow" id="floatEyebrow">✦</div>
+    <button class="zercy-float-btn" id="zercyFloatBtn" onclick="toggleFloatPanel()">
+      <span class="zercy-float-icon">🏨</span>
+      <span id="floatBtnLabel">{c.chatSub}</span>
+    </button>
+  </div>
+
+  <div class="zercy-float-panel" id="zercyFloatPanel">
+    <div class="float-panel-header">
+      <div class="float-panel-header-icon">🏨</div>
+      <div class="float-panel-titles">
+        <div class="float-panel-title" id="floatPanelTitle">Frag Zercy alles</div>
+        <div class="float-panel-context" id="floatPanelContext">{c.chatSub}</div>
+      </div>
+      <button class="float-panel-close" onclick="toggleFloatPanel()">✕</button>
+    </div>
+    <div class="float-insights-section" id="float-insights-section" style="display:none">
+      <div class="float-insights-label">💡 Zercy's Tipps</div>
+      <div id="float-insights-list"></div>
+    </div>
+    <div class="chat-suggestion-chips" id="chat-suggestions"></div>
+    <div class="chat-messages" id="chat-messages"></div>
+    <div class="chat-input-row">
+      <input class="chat-input" id="chat-input" type="text" placeholder={c.chatInputPlaceholder} onkeydown="if(event.key==='Enter')sendChat()">
+      <button class="chat-send" onclick="sendChat()">→</button>
+    </div>
+  </div>
+
+  <!-- COOKIE BANNER -->
+  <div id="cookie-banner" style="display:none">
+    <span>{c.cookieText} <a href="/privacy">{c.cookieLink}</a></span>
+    <button onclick="document.getElementById('cookie-banner').style.display='none';localStorage.setItem('zercy_cookie_ok','1')">{c.cookieBtn}</button>
+  </div>
+  <script>if(!localStorage.getItem('zercy_cookie_ok'))document.getElementById('cookie-banner').style.display='flex';</script>
+
+</body>
+</html>
+
+<style is:global>
+  nav {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(250, 250, 248, 0.9); backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border-light); padding: 16px 0;
+  }
+  .nav-inner { display: flex; align-items: center; justify-content: space-between; }
+  .logo { display: flex; align-items: center; gap: 8px; }
+  .logo-icon { font-size: 1.4rem; }
+  .logo-text { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 1.3rem; color: var(--deep-navy); }
+  .nav-links { display: flex; align-items: center; gap: 32px; }
+  .nav-links a:not(.btn-primary) { font-size: 0.95rem; font-weight: 500; color: var(--slate); transition: color 0.2s; }
+  .nav-links a:not(.btn-primary):hover { color: var(--deep-navy); }
+  .nav-cta { padding: 10px 20px !important; font-size: 0.9rem !important; border: none; cursor: pointer; }
+  .btn-new-search { background: linear-gradient(135deg, #f97316, #ef4444); color: white; border: none; border-radius: 20px; padding: 0.4rem 1rem; font-size: 0.78rem; font-weight: 700; cursor: pointer; white-space: nowrap; font-family: inherit; }
+  .lang-switcher { display: flex; align-items: center; gap: 6px; font-size: 0.82rem; font-weight: 600; letter-spacing: 0.04em; }
+  .lang { color: var(--slate-light); transition: color 0.2s; }
+  .lang.active { color: var(--deep-navy); }
+  .lang:hover { color: var(--ocean-blue); }
+  .lang-sep { color: var(--border); }
+
+  .hero { padding: 48px 0 32px; text-align: center; transition: padding 0.35s ease; }
+  .hero.compact { padding: 28px 0 20px; }
+  .hero.compact .hero-badges, .hero.compact .hero-subtitle, .hero.compact .hero-actions, .hero.compact .hero-chips { display: none !important; }
+  .hero.compact .hero-title { font-size: clamp(1.3rem, 2.5vw, 1.9rem); margin-bottom: 14px; }
+  .hero.compact .hero-chat { margin-bottom: 0; }
+
+  .hero-badges { display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 16px; }
+  .hero-badge { display: inline-flex; align-items: center; gap: 8px; background: var(--ocean-blue-light); color: var(--ocean-blue-dark); padding: 6px 14px; border-radius: 999px; font-size: 0.82rem; font-weight: 600; letter-spacing: 0.01em; }
+  .hero-badge-plain { background: var(--off-white); color: var(--slate); border: 1.5px solid var(--border); }
+  .badge-dot { width: 6px; height: 6px; background: var(--ocean-blue); border-radius: 50%; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+
+  .hero-title { font-size: clamp(1.7rem, 3.2vw, 2.5rem); line-height: 1.25; letter-spacing: -0.02em; margin-bottom: 14px; color: var(--deep-navy); transition: font-size 0.35s ease, margin-bottom 0.35s ease; }
+  .title-slate { color: #334155; }
+  .title-blue { color: var(--ocean-blue); }
+  .hero-subtitle { font-size: 0.97rem; color: var(--slate); max-width: 580px; margin: 0 auto 24px; line-height: 1.65; display: block; }
+  .hero-subtitle strong { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 700; color: var(--deep-navy); font-size: 1rem; }
+
+  .hero-chat { max-width: 620px; margin: 0 auto 14px; background: #fff; border: 1.5px solid var(--border); border-radius: 20px; padding: 16px; box-shadow: 0 4px 24px rgba(15, 23, 42, 0.06); }
+  .hero-chat-bubble { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px; }
+  @keyframes avatar-pulse { 0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(14,165,233,0.4); } 50% { transform: scale(1.08); box-shadow: 0 0 0 8px rgba(14,165,233,0); } }
+  .chat-avatar { width: 32px; height: 32px; background: linear-gradient(135deg, var(--ocean-blue), var(--sunset-orange)); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #fff; font-weight: 800; font-family: 'Plus Jakarta Sans', sans-serif; font-size: 0.85rem; flex-shrink: 0; animation: avatar-pulse 2.5s ease-in-out infinite; }
+  .chat-text { background: var(--off-white); border-radius: 4px 16px 16px 16px; padding: 12px 16px; font-size: 0.92rem; color: var(--slate); line-height: 1.5; text-align: left; }
+  .hero-input-row { display: flex; gap: 8px; align-items: center; }
+  .hero-input { flex: 1; border: 1.5px solid var(--border); border-radius: 12px; padding: 12px 16px; font-size: 0.92rem; font-family: 'Inter', sans-serif; color: var(--slate); background: var(--warm-white); outline: none; cursor: text; }
+  .hero-input:focus { border-color: var(--ocean-blue); }
+  .hero-input::placeholder { color: #38BDF8; opacity: 1; }
+  .hero-search-btn { display: flex; align-items: center; justify-content: center; width: 44px; height: 44px; background: var(--ocean-blue); border-radius: 12px; color: #fff; flex-shrink: 0; transition: background 0.2s; border: none; cursor: pointer; }
+  .hero-search-btn:hover { background: var(--ocean-blue-dark); }
+  .hero-search-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+  @keyframes btn-pulse { 0%, 100% { box-shadow: 0 0 0 0 rgba(14,165,233,0.5); transform: scale(1); } 50% { box-shadow: 0 0 0 8px rgba(14,165,233,0); transform: scale(1.06); } }
+  .hero-search-btn.btn-pulse { animation: btn-pulse 1.4s ease-in-out infinite; }
+
+  .hero-chips { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 20px; }
+  .chip { background: #fff; border: 1.5px solid var(--border); border-radius: 999px; padding: 7px 16px; font-size: 0.85rem; font-weight: 500; color: var(--slate); cursor: pointer; transition: border-color 0.2s, color 0.2s; }
+  .chip:hover { border-color: var(--ocean-blue); color: var(--ocean-blue); }
+  .hero-actions { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+  .hero-actions button.btn-primary { border: none; cursor: pointer; font-family: inherit; }
+
+  #zercy-results-wrapper { background: #f0f4ff; min-height: 200px; }
+  #zercy-content { max-width: 720px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+
+  .strip { background: var(--deep-navy); padding: 16px 0; }
+  .strip-inner { display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; font-size: 0.88rem; font-weight: 500; color: rgba(255,255,255,0.7); letter-spacing: 0.02em; }
+  .strip-dot { color: var(--ocean-blue); }
+
+  .features { background: var(--off-white); }
+  .section-header { text-align: center; margin-bottom: 56px; }
+  .section-header h2 { font-size: clamp(1.8rem, 3vw, 2.6rem); letter-spacing: -0.02em; margin-bottom: 12px; }
+  .section-header p { font-size: 1.05rem; color: var(--slate); max-width: 480px; margin: 0 auto; line-height: 1.6; }
+  .features-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+  .feature-card { background: #fff; border: 1.5px solid var(--border); border-radius: 20px; padding: 28px; transition: box-shadow 0.2s, transform 0.2s; }
+  .feature-card:hover { box-shadow: 0 8px 32px rgba(15, 23, 42, 0.08); transform: translateY(-2px); }
+  .feature-card.featured { background: var(--deep-navy); border-color: var(--deep-navy); color: #fff; }
+  .feature-card.featured h3 { color: #fff; }
+  .feature-card.featured p { color: rgba(255,255,255,0.7); }
+  .feature-icon { font-size: 1.8rem; margin-bottom: 16px; }
+  .feature-card h3 { font-size: 1.1rem; margin-bottom: 10px; letter-spacing: -0.01em; }
+  .feature-card p { font-size: 0.9rem; color: var(--slate); line-height: 1.6; }
+
+  .how-it-works { background: var(--warm-white); }
+  .steps { max-width: 680px; margin: 0 auto; display: flex; flex-direction: column; gap: 0; }
+  .step { display: flex; align-items: flex-start; gap: 24px; }
+  .step-number { width: 48px; height: 48px; background: linear-gradient(135deg, var(--ocean-blue), var(--sunset-orange)); color: #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 1.1rem; flex-shrink: 0; }
+  .step-content h3 { font-size: 1.2rem; margin-bottom: 8px; letter-spacing: -0.01em; }
+  .step-content p { font-size: 0.95rem; color: var(--slate); line-height: 1.65; }
+  .step-connector { padding-left: 23px; height: 40px; display: flex; align-items: center; }
+  .connector-line { width: 2px; height: 40px; background: linear-gradient(to bottom, var(--ocean-blue), var(--sunset-orange)); opacity: 0.3; margin-left: 1px; }
+
+  .cta-section { background: var(--deep-navy); padding: 80px 0; }
+  .cta-inner { text-align: center; color: #fff; }
+  .cta-inner h2 { font-size: clamp(1.8rem, 3vw, 2.6rem); letter-spacing: -0.02em; margin-bottom: 12px; }
+  .cta-inner p { color: rgba(255,255,255,0.6); font-size: 1.05rem; margin-bottom: 32px; }
+  .cta-btn { border: none; cursor: pointer; font-family: inherit; }
+
+  footer { background: var(--deep-navy); border-top: 1px solid rgba(255,255,255,0.08); padding: 40px 0; }
+  .footer-inner { text-align: center; }
+  .footer-logo { display: flex; align-items: center; gap: 8px; justify-content: center; margin-bottom: 10px; }
+  .footer-logo .logo-text { color: #fff; }
+  .footer-tagline { color: rgba(255,255,255,0.5); font-size: 0.9rem; margin-bottom: 8px; }
+  .footer-links { margin-bottom: 8px; font-size: 0.82rem; }
+  .footer-links a { color: rgba(255,255,255,0.4); text-decoration: none; }
+  .footer-links a:hover { color: rgba(255,255,255,0.7); }
+  /* Cookie Banner */
+  #cookie-banner { position: fixed; bottom: 0; left: 0; right: 0; background: #1e293b; color: rgba(255,255,255,0.85); padding: 1rem 1.5rem; display: flex; align-items: center; justify-content: space-between; gap: 1rem; font-size: 0.85rem; z-index: 9999; flex-wrap: wrap; }
+  #cookie-banner a { color: #38bdf8; text-decoration: underline; }
+  #cookie-banner button { background: #0EA5E9; color: #fff; border: none; padding: 0.5rem 1.2rem; border-radius: 50px; font-size: 0.85rem; font-weight: 600; cursor: pointer; white-space: nowrap; }
+  .footer-copy { color: rgba(255,255,255,0.3); font-size: 0.8rem; }
+
+  .loader-scene { display: flex; align-items: flex-end; justify-content: center; gap: 1.2rem; margin-bottom: 1.2rem; height: 60px; }
+  .plane-loader { font-size: 2.2rem; animation: fly 1.5s ease-in-out infinite; display: inline-block; }
+  @keyframes fly { 0%, 100% { transform: translateX(-8px) translateY(0); } 50% { transform: translateX(8px) translateY(-10px); } }
+  .zercy-mascot { width: 44px; height: 44px; position: relative; animation: mascot-bounce 0.6s ease-in-out infinite alternate; }
+  @keyframes mascot-bounce { 0% { transform: translateY(0) scale(1); } 100% { transform: translateY(-14px) scale(1.08); } }
+  .orb { width: 44px; height: 44px; border-radius: 50%; background: radial-gradient(circle at 35% 35%, #a78bfa, #4f46e5 50%, #0ea5e9); box-shadow: 0 0 18px rgba(99,102,241,0.6), 0 0 40px rgba(14,165,233,0.3); position: relative; animation: orb-pulse 1.2s ease-in-out infinite alternate; }
+  @keyframes orb-pulse { 0% { box-shadow: 0 0 14px rgba(99,102,241,0.5), 0 0 30px rgba(14,165,233,0.2); } 100% { box-shadow: 0 0 28px rgba(99,102,241,0.9), 0 0 55px rgba(249,115,22,0.4); } }
+  .orb-eye { position: absolute; background: none; color: white; font-size: 13px; font-weight: 900; font-family: 'Inter', sans-serif; line-height: 1; top: 12px; animation: eye-blink 2.5s ease-in-out infinite; }
+  .orb-eye.left { left: 7px; }
+  .orb-eye.right { left: 22px; animation-delay: 0.2s; }
+  @keyframes eye-blink { 0%, 90%, 100% { transform: scaleY(1); } 95% { transform: scaleY(0.1); } }
+  .orb-sparkle { position: absolute; width: 5px; height: 5px; background: #f97316; border-radius: 50%; animation: sparkle 1s ease-in-out infinite alternate; }
+  .orb-sparkle.s1 { top: -4px; left: 18px; animation-delay: 0s; }
+  .orb-sparkle.s2 { top: 6px; right: -5px; animation-delay: 0.3s; }
+  .orb-sparkle.s3 { bottom: -3px; left: 10px; animation-delay: 0.6s; }
+  @keyframes sparkle { 0% { opacity: 0.3; transform: scale(0.6); } 100% { opacity: 1; transform: scale(1.3); } }
+
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  .summary-banner { background: linear-gradient(135deg, #0ea5e9, #6366f1); border-radius: 18px; padding: 1.5rem; margin-bottom: 1.5rem; color: white; display: flex; align-items: center; gap: 1rem; }
+  .summary-banner .icon { font-size: 2rem; }
+  .summary-banner .label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; opacity: 0.7; margin-bottom: 0.3rem; font-weight: 600; }
+  .summary-banner .text { font-size: 1rem; font-weight: 600; line-height: 1.4; }
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 1rem; }
+  @media (max-width: 580px) { .grid-2 { grid-template-columns: 1fr; } }
+  .card { background: white; border-radius: 18px; padding: 1.4rem; box-shadow: 0 2px 16px rgba(99, 102, 241, 0.07); }
+  .card-header { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1rem; padding-bottom: 0.8rem; border-bottom: 2px solid #f0f4ff; }
+  .card-icon { font-size: 1.3rem; }
+  .card-title { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; color: #94a3b8; }
+  .info-row { display: flex; justify-content: space-between; align-items: center; padding: 0.45rem 0; border-bottom: 1px solid #f8faff; font-size: 0.83rem; }
+  .info-row:last-of-type { border-bottom: none; }
+  .info-row .key { color: #94a3b8; font-weight: 500; }
+  .info-row .val { color: #1a1a2e; font-weight: 600; text-align: right; }
+  .airports-section { margin-top: 0.8rem; padding-top: 0.8rem; border-top: 2px dashed #f0f4ff; }
+  .airports-label { font-size: 0.68rem; font-weight: 700; color: #6366f1; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 0.6rem; }
+  .airport-item { display: flex; align-items: flex-start; gap: 0.7rem; padding: 0.5rem 0; border-bottom: 1px solid #f8faff; }
+  .airport-item:last-child { border-bottom: none; }
+  .airport-code { background: linear-gradient(135deg, #eff6ff, #e0e7ff); color: #4f46e5; font-weight: 800; font-size: 0.72rem; padding: 0.25rem 0.5rem; border-radius: 8px; min-width: 38px; text-align: center; letter-spacing: 0.5px; }
+  .airport-city { font-size: 0.83rem; font-weight: 600; color: #1a1a2e; }
+  .airport-reason { font-size: 0.75rem; color: #94a3b8; margin-top: 0.1rem; }
+  .flight-cards { display: flex; flex-direction: column; gap: 0.3rem; }
+  .flight-card { display: flex; flex-direction: column; padding: 0.45rem 0.65rem; border-radius: 10px; background: white; border: 1.5px solid #e0e7ff; color: #1a1a2e; }
+  .flight-card-top { display: flex; align-items: center; justify-content: space-between; }
+  .flight-airline { font-weight: 700; font-size: 0.82rem; }
+  .flight-price { font-weight: 800; color: #f97316; font-size: 0.92rem; }
+  .flight-card-bottom { display: flex; align-items: center; gap: 0.35rem; font-size: 0.71rem; color: #6b7280; margin-top: 0.15rem; }
+  .flight-nonstop { color: #10b981; font-weight: 700; }
+  .flight-book-row { display: flex; gap: 0.4rem; margin-top: 0.4rem; }
+  .flight-fallback-row { display: flex; gap: 0.4rem; margin-top: 0.45rem; }
+  .flight-book-btn { font-size: 0.7rem; font-weight: 700; padding: 0.28rem 0.6rem; border-radius: 7px; text-decoration: none; transition: opacity 0.15s; white-space: nowrap; }
+  .flight-book-btn:hover { opacity: 0.8; }
+  .gfl-btn { background: #e8f0fe; color: #1a73e8; }
+  .exp-btn { background: #fff3e0; color: #e65100; }
+  .ap-section { margin-top: 0.65rem; border-radius: 10px; overflow: hidden; border: 1.5px solid; }
+  .ap-section-header { padding: 0.32rem 0.7rem; font-size: 0.67rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.6px; color: white; }
+  .ap-section-body { padding: 0.45rem 0.6rem; }
+  .ap-section.green { border-color: #6ee7b7; }
+  .ap-section.green .ap-section-header { background: #10b981; }
+  .ap-section.green .ap-section-body { background: #f0fdf4; }
+  .ap-section.purple { border-color: #c4b5fd; }
+  .ap-section.purple .ap-section-header { background: #8b5cf6; }
+  .ap-section.purple .ap-section-body { background: #faf5ff; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; }
+  .ap-section.blue { border-color: #7dd3fc; }
+  .ap-section.blue .ap-section-header { background: #0ea5e9; }
+  .ap-section.blue .ap-section-body { background: #f0f9ff; }
+  .ap-section.blue .flight-card { background: white; border-color: #bae6fd; }
+  .ap-section.orange { border-color: #fdba74; }
+  .ap-section.orange .ap-section-header { background: #f97316; }
+  .ap-section.orange .ap-section-body { background: #fff7ed; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; }
+  .ground-btn-row { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+  .ground-app-btn { display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.38rem 0.9rem; border-radius: 8px; font-size: 0.76rem; font-weight: 700; text-decoration: none; border: 1.5px solid; transition: opacity 0.15s; }
+  .ground-app-btn:hover { opacity: 0.82; }
+  .maps-btn { background: #f0fdf4; color: #065f46; border-color: #6ee7b7; }
+  .hotel-btn { font-size: 0.73rem; font-weight: 700; padding: 0.35rem 0.8rem; border-radius: 8px; text-decoration: none; transition: opacity 0.15s, transform 0.1s; white-space: nowrap; display: inline-block; }
+  .hotel-btn:hover { opacity: 0.85; transform: translateY(-1px); }
+  .booking-btn { background: #003580; color: white; }
+  .expedia-btn { background: #ffd000; color: #1a1a2e; }
+  .turn { margin-bottom: 2rem; }
+  .turn-prompt { background: white; border: 2px solid #e8ecf8; border-radius: 16px 16px 4px 16px; padding: 0.9rem 1.2rem; font-size: 0.88rem; color: #4f46e5; font-weight: 600; margin-bottom: 1rem; display: flex; align-items: flex-start; gap: 0.7rem; }
+  .turn-prompt-icon { font-size: 1rem; margin-top: 0.1rem; }
+  .turn-results { display: flex; flex-direction: column; gap: 1rem; }
+  .refinement-section { background: linear-gradient(135deg, #f0f4ff, #e8f5ff); border: 2px solid #c7d7ff; border-radius: 18px; padding: 1.4rem; margin-top: 0; }
+  .refinement-label { font-size: 0.78rem; font-weight: 700; color: #4f46e5; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 0.8rem; }
+  .chips-row { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem; }
+  .answer-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .answer-chip { background: #f0f4ff; border: 2px solid #e0e7ff; color: #4f46e5; padding: 0.35rem 0.9rem; border-radius: 20px; font-size: 0.78rem; font-weight: 600; cursor: pointer; transition: all 0.15s; }
+  .answer-chip:hover { background: #e0e7ff; }
+  .answer-chip.selected { background: #4f46e5; border-color: #4f46e5; color: white; }
+  .followup-row { display: flex; gap: 0.7rem; align-items: flex-end; }
+  .followup-row textarea { flex: 1; border: 2px solid #c7d7ff; border-radius: 12px; padding: 0.7rem 1rem; font-size: 0.85rem; font-family: inherit; resize: none; outline: none; color: #1a1a2e; }
+  .followup-row textarea:focus { border-color: #4f46e5; }
+  .tell-zercy-btn { background: linear-gradient(135deg, #4f46e5, #0ea5e9); color: white; border: none; border-radius: 12px; padding: 0.7rem 1.2rem; font-weight: 700; font-size: 0.88rem; cursor: pointer; white-space: nowrap; font-family: inherit; }
+  .tell-zercy-btn:hover { opacity: 0.9; }
+  .zercy-ack-bubbles { margin-top: 0.8rem; display: flex; flex-direction: column; gap: 0.5rem; }
+  .zercy-ack-bubble { display: flex; align-items: flex-start; gap: 0.5rem; background: white; border-radius: 14px; padding: 0.65rem 1rem; font-size: 0.85rem; color: #1a1a2e; border: 1px solid #e0e7ff; }
+  .zercy-ack-bubble.typing { color: #94a3b8; font-style: italic; }
+  .search-divider { margin-top: 1rem; padding-top: 1rem; border-top: 2px dashed #c7d7ff; font-size: 0.75rem; font-weight: 700; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 0.5rem; }
+  .research-btn { display: block; width: 100%; background: linear-gradient(135deg, #f97316, #ef4444); color: white; border: none; border-radius: 12px; padding: 0.85rem 1.2rem; font-weight: 700; font-size: 0.95rem; cursor: pointer; transition: opacity 0.2s; font-family: inherit; }
+  .research-btn:hover { opacity: 0.88; }
+  .plan-banner { background: linear-gradient(135deg, #1a1a2e, #2d1b69); border-radius: 18px; padding: 1.5rem; margin-bottom: 1.5rem; color: white; display: flex; align-items: flex-start; gap: 1rem; }
+  .plan-banner .plan-orb { width: 36px; height: 36px; flex-shrink: 0; border-radius: 50%; background: radial-gradient(circle at 35% 35%, #a78bfa, #4f46e5 50%, #0ea5e9); box-shadow: 0 0 14px rgba(99,102,241,0.7); margin-top: 2px; }
+  .plan-banner .plan-label { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 1px; opacity: 0.6; margin-bottom: 0.4rem; font-weight: 700; }
+  .plan-banner .plan-narrative { font-size: 0.95rem; font-weight: 500; line-height: 1.6; }
+  .plan-note { font-size: 0.78rem; color: #94a3b8; text-align: center; margin-top: 0.6rem; font-style: italic; }
+  .zercy-error-bubble { background: #fff1f2; border: 1.5px solid #fecdd3; border-radius: 14px; padding: 1rem 1.2rem; margin: 1rem 0; color: #be123c; font-size: 0.88rem; line-height: 1.5; }
+  .zercy-form-panel { background: white; border-radius: 18px; border: 1.5px solid #e0e7ff; overflow: hidden; box-shadow: 0 2px 16px rgba(99,102,241,0.07); }
+  .zfp-header { background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%); color: white; font-size: 0.7rem; font-weight: 800; letter-spacing: 1.2px; text-transform: uppercase; padding: 0.7rem 1.2rem; }
+  .zfp-row { display: flex; align-items: flex-start; gap: 0.8rem; padding: 0.75rem 1.2rem; border-bottom: 1px solid #f1f5f9; }
+  .zfp-row:last-of-type { border-bottom: none; }
+  .zfp-label { font-size: 0.68rem; font-weight: 800; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.6px; min-width: 68px; padding-top: 0.35rem; flex-shrink: 0; }
+  .zfp-known { font-size: 0.76rem; font-weight: 700; color: #15803d; background: #f0fdf4; border: 1.5px solid #bbf7d0; padding: 0.18rem 0.65rem; border-radius: 20px; display: inline-block; margin-bottom: 0.4rem; }
+  .zfp-controls { flex: 1; min-width: 0; }
+  .zfp-text-input { width: 100%; margin-top: 0.45rem; border: 1.5px solid #e0e7ff; border-radius: 8px; padding: 0.32rem 0.75rem; font-size: 0.8rem; font-family: inherit; outline: none; color: #1a1a2e; background: #fafbff; }
+  .zfp-text-input:focus { border-color: #6366f1; }
+  .zfp-freetext { padding: 0.8rem 1.2rem 0; border-top: 1px solid #f1f5f9; }
+  .zfp-freetext-label { font-size: 0.68rem; font-weight: 800; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 0.4rem; }
+  .zfp-freetext textarea { width: 100%; border: 1.5px solid #e0e7ff; border-radius: 10px; padding: 0.55rem 0.9rem; font-size: 0.82rem; font-family: inherit; resize: none; outline: none; color: #1a1a2e; background: #fafbff; box-sizing: border-box; }
+  .zfp-freetext textarea:focus { border-color: #6366f1; }
+  .zfp-actions { padding: 0.75rem 1.2rem 1rem; }
+  .action-buttons-row { display: flex; gap: 0.8rem; margin-top: 1.2rem; align-items: stretch; }
+  .add-more-btn { flex: 1; padding: 0.9rem 1rem; background: white; border: 2px solid #c7d7ff; border-radius: 14px; color: #4f46e5; font-size: 0.9rem; font-weight: 700; cursor: pointer; transition: all 0.2s; font-family: inherit; }
+  .add-more-btn:hover { background: #f0f4ff; border-color: #4f46e5; }
+  .search-trigger-btn { flex: 2; width: 100%; margin-top: 0; padding: 1.1rem; background: linear-gradient(135deg, #f97316, #ef4444); border: none; border-radius: 14px; color: white; font-size: 1rem; font-weight: 700; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: inherit; }
+  .search-trigger-btn:hover { transform: translateY(-1px); box-shadow: 0 8px 24px rgba(249,115,22,0.35); }
+  .search-trigger-btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; box-shadow: none; }
+  .zercy-replies { display: flex; flex-direction: column; gap: 0.6rem; margin-top: 0.8rem; }
+  .zercy-reply-bubble { display: flex; align-items: flex-start; gap: 0.7rem; background: linear-gradient(135deg, #f8f0ff, #eff6ff); border: 1.5px solid #e0e7ff; border-radius: 14px 14px 14px 4px; padding: 0.8rem 1rem; font-size: 0.85rem; line-height: 1.5; color: #1a1a2e; animation: fadeIn 0.3s ease; }
+  .zercy-reply-bubble.typing { color: #94a3b8; font-style: italic; }
+  .reply-orb { width: 22px; height: 22px; flex-shrink: 0; border-radius: 50%; background: radial-gradient(circle at 35% 35%, #a78bfa, #4f46e5 50%, #0ea5e9); box-shadow: 0 0 8px rgba(99,102,241,0.5); margin-top: 1px; }
+  #inline-loading .loader-scene { height: 50px; }
+  .zercy-float-wrapper { position: fixed; bottom: 1.8rem; right: 2rem; z-index: 1000; display: flex; flex-direction: column; align-items: flex-end; gap: 0.5rem; }
+  .zercy-float-eyebrow { background: white; border: 1.5px solid #99f6e4; border-radius: 20px; padding: 0.28rem 0.9rem; font-size: 0.68rem; color: #0f766e; font-weight: 700; letter-spacing: 0.4px; white-space: nowrap; box-shadow: 0 2px 10px rgba(13,148,136,0.12); text-transform: uppercase; }
+  .zercy-float-btn { background: linear-gradient(135deg, #0f766e, #0ea5e9); color: white; border: none; border-radius: 20px; padding: 0.75rem 1.25rem 0.75rem 0.9rem; font-family: inherit; font-weight: 700; font-size: 0.82rem; cursor: pointer; box-shadow: 0 4px 20px rgba(13,148,136,0.4); display: flex; align-items: center; gap: 0.55rem; transition: all 0.2s; max-width: 280px; text-align: left; }
+  .zercy-float-btn #floatBtnLabel { white-space: normal; line-height: 1.35; }
+  .zercy-float-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 28px rgba(13,148,136,0.55); }
+  .zercy-float-icon { font-size: 1rem; }
+  .zercy-float-panel { position: fixed; bottom: 8rem; right: 2rem; width: 370px; max-height: 520px; z-index: 999; background: white; border-radius: 20px; box-shadow: 0 8px 48px rgba(13,148,136,0.2), 0 0 0 1px rgba(13,148,136,0.15); display: none; flex-direction: column; overflow: hidden; transform: translateY(16px) scale(0.96); transition: transform 0.22s cubic-bezier(0.34, 1.4, 0.64, 1), opacity 0.22s ease; }
+  .zercy-float-panel.open { display: flex; transform: translateY(0) scale(1); }
+  .float-panel-header { background: linear-gradient(135deg, #0f4c45, #0f766e); padding: 1rem 1.2rem; display: flex; align-items: center; gap: 0.7rem; flex-shrink: 0; }
+  .float-panel-header-icon { font-size: 1.4rem; flex-shrink: 0; }
+  .float-panel-titles { flex: 1; }
+  .float-panel-title { color: white; font-weight: 700; font-size: 0.88rem; }
+  .float-panel-context { color: #99f6e4; font-size: 0.72rem; margin-top: 0.15rem; }
+  .float-panel-close { background: rgba(255,255,255,0.12); border: none; color: rgba(255,255,255,0.8); width: 28px; height: 28px; border-radius: 50%; cursor: pointer; font-size: 0.85rem; display: flex; align-items: center; justify-content: center; flex-shrink: 0; transition: background 0.15s; }
+  .float-panel-close:hover { background: rgba(255,255,255,0.25); }
+  .float-insights-section { background: linear-gradient(135deg, #f5f3ff, #eff6ff); border-bottom: 1px solid #e0e7ff; padding: 0.8rem 1.2rem; max-height: 180px; overflow-y: auto; flex-shrink: 0; }
+  .float-insights-label { font-size: 0.65rem; font-weight: 800; color: #7c3aed; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 0.5rem; }
+  .float-insight-item { display: flex; gap: 0.5rem; align-items: flex-start; margin-bottom: 0.45rem; font-size: 0.79rem; line-height: 1.45; color: #1a1a2e; }
+  .float-insight-item:last-child { margin-bottom: 0; }
+  .float-insight-bullet { flex-shrink: 0; margin-top: 0.05rem; }
+  .chat-suggestion-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; padding: 1rem 1.4rem 0.8rem; }
+  .chat-chip { background: #f0f4ff; border: 1px solid #c7d7ff; border-radius: 16px; padding: 0.3rem 0.8rem; font-size: 0.75rem; font-weight: 600; color: #4f46e5; cursor: pointer; transition: all 0.15s; }
+  .chat-chip:hover { background: #4f46e5; color: white; }
+  .chat-messages { padding: 1rem 1.4rem; max-height: 320px; overflow-y: auto; display: flex; flex-direction: column; gap: 0.8rem; }
+  .chat-msg { max-width: 85%; padding: 0.7rem 1rem; border-radius: 14px; font-size: 0.85rem; line-height: 1.5; }
+  .chat-msg.user { background: linear-gradient(135deg, #4f46e5, #0ea5e9); color: white; align-self: flex-end; border-bottom-right-radius: 4px; }
+  .chat-msg.zercy { background: #f8faff; color: #1a1a2e; align-self: flex-start; border-bottom-left-radius: 4px; border: 1px solid #e8ecf8; }
+  .chat-msg.typing { color: #94a3b8; font-style: italic; }
+  .chat-input-row { display: flex; gap: 0.6rem; padding: 1rem 1.4rem; border-top: 1px solid #f0f4ff; }
+  .chat-input { flex: 1; border: 2px solid #e8ecf8; border-radius: 12px; padding: 0.65rem 1rem; font-size: 0.85rem; font-family: inherit; outline: none; color: #1a1a2e; }
+  .chat-input:focus { border-color: #6366f1; }
+  .chat-send { background: linear-gradient(135deg, #4f46e5, #0ea5e9); color: white; border: none; border-radius: 12px; padding: 0.65rem 1.1rem; font-weight: 700; font-size: 0.9rem; cursor: pointer; }
+  .chat-send:hover { opacity: 0.9; }
+
+  @media (max-width: 900px) { .features-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 640px) {
+    .nav-links a:not(.btn-primary) { display: none; }
+    .features-grid { grid-template-columns: 1fr; }
+    .hero-title { font-size: 2rem; }
+    .hero-chat { padding: 16px; }
+    .hero-chips { gap: 8px; }
+    .chip { font-size: 0.78rem; padding: 5px 12px; }
+    .zercy-float-panel { width: calc(100vw - 2rem); right: 1rem; }
+    .zercy-float-wrapper { right: 1rem; }
+  }
+</style>
+
+<script is:inline define:vars={{ initLang: lang, initPhrases: c.typewriter }}>
+  window.__ZERCY_LANG__ = initLang;
+  window.__ZERCY_PHRASES__ = initPhrases;
+</script>
+
+<script is:inline>
+let lastIntent = '';
+let turnCount = 0;
+let zercyAnswers = {};
+let zercyAdditions = [];
+let zercyTextAnswers = {};
+let zercyOriginalIntent = '';
+let currentPlanData = null;
+let pendingCarDates = null;
+if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+window.scrollTo(0, 0);
+let zercyLang = window.__ZERCY_LANG__ || 'de';
+let allInsights = [];
+let chatHistory = [];
+let chatDestination = '';
+let chatCheckin = '';
+let chatCheckout = '';
+let chatTripContext = null;
+
+function scrollToTop(el) {
+  if (!el) return;
+  const navH = document.querySelector('nav')?.offsetHeight || 64;
+  const y = el.getBoundingClientRect().top + window.scrollY - navH - 16;
+  window.scrollTo({ top: y, behavior: 'smooth' });
+}
+
+function scrollToSearch() {
+  const hero = document.getElementById('hero');
+  scrollToTop(hero);
+  setTimeout(() => document.getElementById('intent')?.focus(), 400);
+}
+function useChip(text) {
+  const input = document.getElementById('intent');
+  if (!input) return;
+  input.value = text.trim();
+  input.focus();
+  input.setSelectionRange(input.value.length, input.value.length);
+  const btn = document.getElementById('searchBtn');
+  if (btn && input.value.trim().length > 0) btn.classList.add('btn-pulse');
+}
+function setTextAnswer(id, value) { zercyTextAnswers[id] = value.trim(); }
+async function detectUserLocation() {
+  try {
+    const r = await fetch('https://ipapi.co/json/');
+    const d = await r.json();
+    if (d.city && d.country_name) return `${d.city}, ${d.country_name}`;
+    return d.country_name || null;
+  } catch { return null; }
+}
+
+const L = {
+  de: {
+    planLabel:'Zercy hat einen Plan', understood:'Was Zercy verstanden hat',
+    from:'Von', to:'Ziel', cabin:'Kabine', outbound:'Hinflug', returnTrip:'Rückflug',
+    nonstop:'Nonstop', duration:'Reisedauer', routes:'Route-Optionen die Zercy sieht',
+    insight:'Zercy-Tipp', questions:'Kurze Fragen — damit Zercy das Beste raussucht',
+    addAnything:'Noch etwas hinzufügen?', freetextPlaceholder:'z.B. "Ich weiß, dass ich im Oktober in Madrid sein werde"',
+    searchBtn:'✈ Ja, jetzt suchen!', thinkBtn:'✨ Lass Zercy nachdenken',
+    searchLabel:'✏️ Beschreibe deine Reise', loadingThink:'Zercy denkt über deinen Trip nach...',
+    loadingSearch:'Zercy sucht Routen parallel...', chatHeader:'Frag Zercy alles über deine Reise',
+    chatSub:'Aktivitäten, Hotels, Tipps, Essen, Visum... einfach fragen',
+    zercyUnderstood:'Zercy hat verstanden', bestAirportsNear:'📍 Beste Flughäfen bei',
+    bestAirportsFrom:'📍 Beste Abflughäfen bei', searchQueriesTitle:'Suchrouten die Zercy für dich abschickt',
+    zercyInsight:'Zercy-Tipp', refineSearch:'✨ Suche anpassen',
+    refineChips:['✈ Nur Nonstop','💺 Business Class','🗓 Woche später','🌅 Morgenflüge','➕ Stadt hinzufügen','💸 Günstigste Option'],
+    refinePlaceholder:'Noch etwas? Einfach sagen...', tellZercyBtn:'💬 Sag\'s Zercy',
+    searchDivider:'Alles dabei? Dann los:', addMoreBtn:'✏️ Noch etwas hinzufügen',
+    searchNowBtn:'✈ Lossuchen!', addMorePlaceholder:'z.B. "Auf jeden Fall Hin- und Rückflug buchen"',
+    addConfirm:'Hinzufügen ✓', added:'Hinzugefügt', refineInput:'Etwas ändern? Einfach sagen...',
+    refineBtn:'→ Suche verfeinern', researchBtn:'✈ Direkt los! Erneut suchen',
+    backToResults:'↑ Zurück zu letzten Ergebnissen', recommended:'Empfohlenes Datum', dateTip:'Datums-Tipp',
+    timeframe:'Zeitraum', flexibility:'Flexibilität', notSpecified:'Nicht angegeben', preferred:'✓ Bevorzugt',
+    newSearch:'✦ Neue Suche', searchArrow:'Suchen →', chatTyping:'Zercy denkt nach...',
+    chatInputPlaceholder:'Frag alles über dein Reiseziel...',
+    chatChips:['🏄 Beste Surf-Spots?','🌮 Wo essen?','🏨 Hotel-Empfehlungen?','🗺 10 Tage Programm?','💉 Visum & Impfungen?'],
+    nonstopTag:'NONSTOP', confidence:{high:'sicher',medium:'wahrscheinlich',low:'möglich'},
+    fromChips:['Deutschland / DACH','Niederlande','USA','Andere Stadt...'],
+    returnChips:['Gleicher Flughafen (Hin & Zurück)','Open-Jaw (anderer Rückflugort)','Multi-City','Nur Hinflug'],
+    datesChips:['1–2 Wochen','3–4 Wochen','Länger als 1 Monat','Flexibel / Offen'],
+    nonstopChips:['Nonstop bevorzugt','Stopp okay, wenn günstiger','Egal — günstigste Route'],
+    milesChips:['Lufthansa Miles & More','KLM / Air France Flying Blue','Avianca LifeMiles','British Airways Avios','Keine Meilen','Zercy entscheidet'],
+    freetextLabel:'💬 Noch etwas, das deine Suche verfeinert?', addMoreLabel:'✏️ Zercy fragen',
+    fromLabel:'Von', returnLabel:'Zurück', datesLabel:'Wann', cabinLabel:'Klasse', nonstopLabel:'Nonstop', milesLabel:'Meilen',
+    fromPlaceholder:'Stadt oder Flughafen...', returnPlaceholder:'Rückflugort (z.B. Madrid, Amsterdam...)',
+    datesPlaceholder:'z.B. 15. Sep – 25. Sep 2026', floatEyebrow:'✦ Tipps & Chat',
+    floatKnowsMore:'Zercy weiß mehr über', floatHotelsLabel:'Hotels, Aktivitäten & Tipps',
+    floatCtxLabel:'Über', floatCtxSuffix:'& deine Reise',
+    thinkError:'Hmm, das hat nicht geklappt. Versuch es nochmal mit etwas mehr Details — z.B. woher du fliegen möchtest.',
+    searchError:'Suche fehlgeschlagen — versuch es nochmal.', chatError:'Entschuldigung, etwas ist schiefgelaufen.',
+    oneWayLabel:'Nur Hinflug',
+    carPlanLabel:'Zercy plant deine Fahrt', carPickupLabel:'Abholort', carDropoffLabel:'Rückgabeort',
+    carFromDateLabel:'Abholung am', carToDateLabel:'Rückgabe am', carClassLabel:'Fahrzeugklasse',
+    carClassChips:['Kleinwagen','Kompakt','Mittelklasse','SUV / Kombi','Van / Minivan','Luxus','Egal — günstigste'],
+    carSearchBtn:'🚗 Mietwagen suchen!', carPickupPlaceholder:'z.B. Frankfurt Flughafen (FRA)',
+    carDropoffPlaceholder:'z.B. Paderborn Hauptbahnhof', carDatePlaceholder:'z.B. 05.10.2026',
+  },
+  en: {
+    planLabel:'Zercy has a plan', understood:'What Zercy understood',
+    from:'From', to:'To', cabin:'Cabin', outbound:'Outbound', returnTrip:'Return',
+    nonstop:'Nonstop', duration:'Trip duration', routes:'Route options Zercy sees',
+    insight:'Zercy insight', questions:'A few quick questions to nail this search',
+    addAnything:'Anything to add?', freetextPlaceholder:'e.g. "I know I\'ll be in Madrid in October"',
+    searchBtn:'✈ Yes, search now!', thinkBtn:'✨ Let Zercy think about this',
+    searchLabel:'✏️ Describe your trip in plain language', loadingThink:'Zercy is thinking through your trip...',
+    loadingSearch:'Zercy is searching routes in parallel...', chatHeader:'Ask Zercy anything about your trip',
+    chatSub:'Activities, hotels, tips, surf packages, food, visa... just ask',
+    zercyUnderstood:'Zercy understood', bestAirportsNear:'📍 Best airports near',
+    bestAirportsFrom:'📍 Best airports from', searchQueriesTitle:'Search queries Zercy sends to your flight engine',
+    zercyInsight:'Zercy insight', refineSearch:'✨ Want to change something?',
+    refineChips:['✈ Nonstop only','💺 Business class','🗓 One week later','🌅 Morning flights','➕ Add a city','💸 Cheapest option'],
+    refinePlaceholder:'Anything else? Just say it...', tellZercyBtn:'💬 Tell Zercy',
+    searchDivider:'Ready? Let\'s go:', addMoreBtn:'✏️ Add more',
+    searchNowBtn:'✈ Search now!', addMorePlaceholder:'e.g. "Definitely book roundtrip"',
+    addConfirm:'Add ✓', added:'Added', refineInput:'Want to change something? Just say it...',
+    refineBtn:'→ Refine search', researchBtn:'✈ Go! Search again',
+    backToResults:'↑ Back to last results', recommended:'Recommended date', dateTip:'Date tip',
+    timeframe:'Timeframe', flexibility:'Flexibility', notSpecified:'Not specified', preferred:'✓ Preferred',
+    newSearch:'✦ New Search', searchArrow:'Search →', chatTyping:'Zercy is thinking...',
+    chatInputPlaceholder:'Ask anything about your destination...',
+    chatChips:['🏄 Best surf spots?','🌮 Where to eat?','🏨 Hotel recommendations?','🗺 What to do in 10 days?','💉 Visa & health requirements?'],
+    nonstopTag:'NONSTOP', confidence:{high:'sure',medium:'likely',low:'possible'},
+    fromChips:['Costa Rica / SJO','United States','Europe','Somewhere else...'],
+    returnChips:['Same airport (Roundtrip)','Open-Jaw (different return city)','Multi-City','One-way only'],
+    datesChips:['1–2 weeks','3–4 weeks','Longer than a month','Flexible / Open'],
+    nonstopChips:['Nonstop preferred','Stopover ok if cheaper','Whatever is cheapest'],
+    milesChips:['Lufthansa Miles & More','KLM / Air France Flying Blue','Avianca LifeMiles','British Airways Avios','No miles','Zercy decides'],
+    freetextLabel:'💬 Anything else that refines your search?', addMoreLabel:'✏️ Ask Zercy',
+    fromLabel:'From', returnLabel:'Return', datesLabel:'When', cabinLabel:'Cabin', nonstopLabel:'Nonstop', milesLabel:'Miles',
+    fromPlaceholder:'City or airport...', returnPlaceholder:'Return from city (e.g. Madrid, Amsterdam...)',
+    datesPlaceholder:'e.g. Sep 15 – Sep 25 2026', floatEyebrow:'✦ Tips & Chat',
+    floatKnowsMore:'Zercy knows more about', floatHotelsLabel:'Hotels, activities & tips',
+    floatCtxLabel:'About', floatCtxSuffix:'& your trip',
+    thinkError:'Hmm, that didn\'t work. Try again with more detail — e.g. the city you\'re flying from.',
+    searchError:'Search failed — please try again.', chatError:'Sorry, something went wrong.',
+    oneWayLabel:'One-way',
+    carPlanLabel:'Zercy is planning your drive', carPickupLabel:'Pick-up location', carDropoffLabel:'Drop-off location',
+    carFromDateLabel:'Pick-up date', carToDateLabel:'Drop-off date', carClassLabel:'Vehicle class',
+    carClassChips:['Economy','Compact','Midsize','SUV / Estate','Van / Minivan','Luxury','Whatever is cheapest'],
+    carSearchBtn:'🚗 Search rental cars!', carPickupPlaceholder:'e.g. Frankfurt Airport (FRA)',
+    carDropoffPlaceholder:'e.g. Paderborn city centre', carDatePlaceholder:'e.g. 05/10/2026',
+  },
+  es: {
+    planLabel:'Zercy tiene un plan', understood:'Lo que Zercy entendió',
+    from:'Desde', to:'Destino', cabin:'Clase', outbound:'Ida', returnTrip:'Vuelta',
+    nonstop:'Directo', duration:'Duración', routes:'Opciones de ruta que Zercy ve',
+    insight:'Consejo de Zercy', questions:'Algunas preguntas rápidas para afinar la búsqueda',
+    addAnything:'¿Algo más?', freetextPlaceholder:'p.ej. "Sé que estaré en Madrid en octubre"',
+    searchBtn:'✈ ¡Buscar ahora!', thinkBtn:'✨ Deja que Zercy piense',
+    searchLabel:'✏️ Describe tu viaje', loadingThink:'Zercy está pensando en tu viaje...',
+    loadingSearch:'Zercy busca rutas en paralelo...', chatHeader:'Pregunta a Zercy sobre tu viaje',
+    chatSub:'Actividades, hoteles, consejos, comida, visado... pregunta lo que quieras',
+    zercyUnderstood:'Zercy entendió', bestAirportsNear:'📍 Mejores aeropuertos cerca de',
+    bestAirportsFrom:'📍 Mejores aeropuertos desde', searchQueriesTitle:'Búsquedas que Zercy realiza para ti',
+    zercyInsight:'Consejo de Zercy', refineSearch:'✨ ¿Quieres cambiar algo?',
+    refineChips:['✈ Solo directo','💺 Business class','🗓 Una semana después','🌅 Vuelos de mañana','➕ Añadir ciudad','💸 Opción más barata'],
+    refinePlaceholder:'¿Algo más? Dímelo...', tellZercyBtn:'💬 Díselo a Zercy',
+    searchDivider:'¿Todo listo? ¡Vamos!', addMoreBtn:'✏️ Añadir más',
+    searchNowBtn:'✈ ¡Buscar ahora!', addMorePlaceholder:'p.ej. "Quiero ida y vuelta"',
+    addConfirm:'Añadir ✓', added:'Añadido', refineInput:'¿Quieres cambiar algo? Dímelo...',
+    refineBtn:'→ Refinar búsqueda', researchBtn:'✈ ¡Vamos! Buscar de nuevo',
+    backToResults:'↑ Volver a los últimos resultados', recommended:'Fecha recomendada', dateTip:'Consejo de fecha',
+    timeframe:'Período', flexibility:'Flexibilidad', notSpecified:'No especificado', preferred:'✓ Preferido',
+    newSearch:'✦ Nueva búsqueda', searchArrow:'Buscar →', chatTyping:'Zercy está pensando...',
+    chatInputPlaceholder:'Pregunta lo que quieras sobre tu destino...',
+    chatChips:['🏄 ¿Mejores playas?','🌮 ¿Dónde comer?','🏨 ¿Hoteles recomendados?','🗺 ¿Qué hacer en 10 días?','💉 ¿Visado y vacunas?'],
+    nonstopTag:'DIRECTO', confidence:{high:'seguro',medium:'probable',low:'posible'},
+    fromChips:['España','México / LATAM','Estados Unidos','Otra ciudad...'],
+    returnChips:['Mismo aeropuerto (ida y vuelta)','Open-Jaw (otro aeropuerto de regreso)','Multi-destino','Solo ida'],
+    datesChips:['1–2 semanas','3–4 semanas','Más de 1 mes','Flexible / Abierto'],
+    nonstopChips:['Vuelo directo preferido','Escala ok si es más barato','La opción más económica'],
+    milesChips:['Iberia Plus','KLM / Air France Flying Blue','Avianca LifeMiles','British Airways Avios','Sin millas','Zercy decide'],
+    freetextLabel:'💬 ¿Algo más que afine tu búsqueda?', addMoreLabel:'✏️ Preguntar a Zercy',
+    fromLabel:'Desde', returnLabel:'Vuelta', datesLabel:'Cuándo', cabinLabel:'Clase', nonstopLabel:'Directo', milesLabel:'Millas',
+    fromPlaceholder:'Ciudad o aeropuerto...', returnPlaceholder:'Ciudad de regreso (p.ej. París, Roma...)',
+    datesPlaceholder:'p.ej. 15 sep – 25 sep 2026', floatEyebrow:'✦ Consejos & Chat',
+    floatKnowsMore:'Zercy sabe más sobre', floatHotelsLabel:'Hoteles, actividades y consejos',
+    floatCtxLabel:'Sobre', floatCtxSuffix:'& tu viaje',
+    thinkError:'Hmm, algo salió mal. Inténtalo de nuevo con más detalles — p.ej. desde dónde vuelas.',
+    searchError:'Búsqueda fallida — inténtalo de nuevo.', chatError:'Lo siento, algo salió mal.',
+    oneWayLabel:'Solo ida',
+    carPlanLabel:'Zercy planifica tu viaje en coche', carPickupLabel:'Lugar de recogida', carDropoffLabel:'Lugar de devolución',
+    carFromDateLabel:'Fecha de recogida', carToDateLabel:'Fecha de devolución', carClassLabel:'Categoría de vehículo',
+    carClassChips:['Económico','Compacto','Mediano','SUV / Familiar','Furgoneta','Lujo','Lo más barato'],
+    carSearchBtn:'🚗 ¡Buscar coches de alquiler!', carPickupPlaceholder:'p.ej. Aeropuerto de Madrid (MAD)',
+    carDropoffPlaceholder:'p.ej. Barcelona centro', carDatePlaceholder:'p.ej. 05/10/2026',
+  },
+  fr: {
+    planLabel:'Zercy a un plan', understood:'Ce que Zercy a compris',
+    from:'De', to:'Vers', cabin:'Classe', outbound:'Aller', returnTrip:'Retour',
+    nonstop:'Direct', duration:'Durée du voyage', routes:'Options de route que Zercy voit',
+    insight:'Conseil de Zercy', questions:'Quelques questions rapides pour affiner la recherche',
+    addAnything:'Quelque chose à ajouter ?', freetextPlaceholder:'p.ex. "Je serai à Madrid en octobre"',
+    searchBtn:'✈ Rechercher maintenant !', thinkBtn:'✨ Laisser Zercy réfléchir',
+    searchLabel:'✏️ Décrivez votre voyage', loadingThink:'Zercy réfléchit à votre voyage...',
+    loadingSearch:'Zercy recherche des routes en parallèle...', chatHeader:'Demandez tout à Zercy sur votre voyage',
+    chatSub:'Activités, hôtels, conseils, nourriture, visa... posez vos questions',
+    zercyUnderstood:'Zercy a compris', bestAirportsNear:'📍 Meilleurs aéroports près de',
+    bestAirportsFrom:'📍 Meilleurs aéroports depuis', searchQueriesTitle:'Recherches que Zercy effectue pour vous',
+    zercyInsight:'Conseil de Zercy', refineSearch:'✨ Vous voulez changer quelque chose ?',
+    refineChips:['✈ Direct seulement','💺 Business class','🗓 Une semaine plus tard','🌅 Vols du matin','➕ Ajouter une ville','💸 Option la moins chère'],
+    refinePlaceholder:'Autre chose ? Dites-le...', tellZercyBtn:'💬 Dire à Zercy',
+    searchDivider:'Tout est prêt ? Allons-y :', addMoreBtn:'✏️ Ajouter plus',
+    searchNowBtn:'✈ Rechercher !', addMorePlaceholder:'p.ex. "Réserver aller-retour"',
+    addConfirm:'Ajouter ✓', added:'Ajouté', refineInput:'Vous voulez changer quelque chose ? Dites-le...',
+    refineBtn:'→ Affiner la recherche', researchBtn:'✈ Chercher à nouveau',
+    backToResults:'↑ Retour aux derniers résultats', recommended:'Date recommandée', dateTip:'Conseil de date',
+    timeframe:'Période', flexibility:'Flexibilité', notSpecified:'Non spécifié', preferred:'✓ Préféré',
+    newSearch:'✦ Nouvelle recherche', searchArrow:'Rechercher →', chatTyping:'Zercy réfléchit...',
+    chatInputPlaceholder:'Demandez tout sur votre destination...',
+    chatChips:['🏄 Meilleures plages ?','🌮 Où manger ?','🏨 Hôtels recommandés ?','🗺 Programme 10 jours ?','💉 Visa & vaccins ?'],
+    nonstopTag:'DIRECT', confidence:{high:'sûr',medium:'probable',low:'possible'},
+    fromChips:['France','Belgique / Suisse','États-Unis','Autre ville...'],
+    returnChips:['Même aéroport (aller-retour)','Open-Jaw (autre aéroport retour)','Multi-destination','Aller simple'],
+    datesChips:['1–2 semaines','3–4 semaines','Plus d\'1 mois','Flexible / Ouvert'],
+    nonstopChips:['Vol direct préféré','Escale ok si moins cher','L\'option la moins chère'],
+    milesChips:['Air France Flying Blue','KLM Flying Blue','Lufthansa Miles & More','British Airways Avios','Sans miles','Zercy décide'],
+    freetextLabel:'💬 Quelque chose d\'autre pour affiner votre recherche ?', addMoreLabel:'✏️ Demander à Zercy',
+    fromLabel:'De', returnLabel:'Retour', datesLabel:'Quand', cabinLabel:'Classe', nonstopLabel:'Direct', milesLabel:'Miles',
+    fromPlaceholder:'Ville ou aéroport...', returnPlaceholder:'Ville de retour (p.ex. Rome, Madrid...)',
+    datesPlaceholder:'p.ex. 15 sep – 25 sep 2026', floatEyebrow:'✦ Conseils & Chat',
+    floatKnowsMore:'Zercy en sait plus sur', floatHotelsLabel:'Hôtels, activités et conseils',
+    floatCtxLabel:'Sur', floatCtxSuffix:'& votre voyage',
+    thinkError:'Hmm, quelque chose s\'est mal passé. Réessayez avec plus de détails — p.ex. depuis quelle ville vous partez.',
+    searchError:'Recherche échouée — veuillez réessayer.', chatError:'Désolé, quelque chose a mal tourné.',
+    oneWayLabel:'Aller simple',
+    carPlanLabel:'Zercy planifie ton trajet', carPickupLabel:'Lieu de prise en charge', carDropoffLabel:'Lieu de restitution',
+    carFromDateLabel:'Date de départ', carToDateLabel:'Date de retour', carClassLabel:'Catégorie de véhicule',
+    carClassChips:['Économique','Compacte','Berline','SUV / Break','Monospace','Luxe','Le moins cher'],
+    carSearchBtn:'🚗 Chercher des voitures!', carPickupPlaceholder:'p.ex. Aéroport de Paris (CDG)',
+    carDropoffPlaceholder:'p.ex. Lyon centre-ville', carDatePlaceholder:'p.ex. 05/10/2026',
+  },
+  nl: {
+    planLabel:'Zercy heeft een plan', understood:'Wat Zercy begreep',
+    from:'Van', to:'Bestemming', cabin:'Klasse', outbound:'Heenvlucht', returnTrip:'Terugvlucht',
+    nonstop:'Nonstop', duration:'Reisduur', routes:'Route-opties die Zercy ziet',
+    insight:'Zercy-tip', questions:'Enkele snelle vragen om de zoekopdracht te verfijnen',
+    addAnything:'Nog iets toevoegen?', freetextPlaceholder:'bijv. "Ik weet dat ik in oktober in Madrid ben"',
+    searchBtn:'✈ Ja, nu zoeken!', thinkBtn:'✨ Laat Zercy nadenken',
+    searchLabel:'✏️ Beschrijf je reis', loadingThink:'Zercy denkt na over je reis...',
+    loadingSearch:'Zercy zoekt routes parallel...', chatHeader:'Vraag Zercy alles over je reis',
+    chatSub:'Activiteiten, hotels, tips, eten, visum... gewoon vragen',
+    zercyUnderstood:'Zercy begreep', bestAirportsNear:'📍 Beste luchthavens bij',
+    bestAirportsFrom:'📍 Beste vertrekluchthavens bij', searchQueriesTitle:'Zoekopdrachten die Zercy voor jou verstuurt',
+    zercyInsight:'Zercy-tip', refineSearch:'✨ Wil je iets aanpassen?',
+    refineChips:['✈ Alleen nonstop','💺 Business class','🗓 Een week later','🌅 Ochtendvluchten','➕ Stad toevoegen','💸 Goedkoopste optie'],
+    refinePlaceholder:'Nog iets? Gewoon zeggen...', tellZercyBtn:'💬 Vertel Zercy',
+    searchDivider:'Alles klaar? Dan gaan we:', addMoreBtn:'✏️ Meer toevoegen',
+    searchNowBtn:'✈ Nu zoeken!', addMorePlaceholder:'bijv. "Zeker heen en terug boeken"',
+    addConfirm:'Toevoegen ✓', added:'Toegevoegd', refineInput:'Wil je iets aanpassen? Gewoon zeggen...',
+    refineBtn:'→ Zoekopdracht verfijnen', researchBtn:'✈ Gaan! Opnieuw zoeken',
+    backToResults:'↑ Terug naar laatste resultaten', recommended:'Aanbevolen datum', dateTip:'Datum-tip',
+    timeframe:'Tijdsbestek', flexibility:'Flexibiliteit', notSpecified:'Niet opgegeven', preferred:'✓ Voorkeur',
+    newSearch:'✦ Nieuwe zoekopdracht', searchArrow:'Zoeken →', chatTyping:'Zercy denkt na...',
+    chatInputPlaceholder:'Vraag alles over je bestemming...',
+    chatChips:['🏄 Beste surfspots?','🌮 Waar eten?','🏨 Hotel-aanbevelingen?','🗺 Programma 10 dagen?','💉 Visum & vaccinaties?'],
+    nonstopTag:'NONSTOP', confidence:{high:'zeker',medium:'waarschijnlijk',low:'mogelijk'},
+    fromChips:['Nederland','België','Duitsland','Andere stad...'],
+    returnChips:['Zelfde luchthaven (retour)','Open-Jaw (andere retourluchthaven)','Multi-city','Alleen heen'],
+    datesChips:['1–2 weken','3–4 weken','Langer dan 1 maand','Flexibel / Open'],
+    nonstopChips:['Direct vlucht gewenst','Tussenstop ok als goedkoper','Goedkoopste optie'],
+    milesChips:['KLM / Air France Flying Blue','Lufthansa Miles & More','Avianca LifeMiles','British Airways Avios','Geen miles','Zercy beslist'],
+    freetextLabel:'💬 Nog iets wat je zoekopdracht verfijnt?', addMoreLabel:'✏️ Zercy vragen',
+    fromLabel:'Van', returnLabel:'Terug', datesLabel:'Wanneer', cabinLabel:'Klasse', nonstopLabel:'Nonstop', milesLabel:'Miles',
+    fromPlaceholder:'Stad of luchthaven...', returnPlaceholder:'Terugkeerplaats (bijv. Madrid, Rome...)',
+    datesPlaceholder:'bijv. 15 sep – 25 sep 2026', floatEyebrow:'✦ Tips & Chat',
+    floatKnowsMore:'Zercy weet meer over', floatHotelsLabel:'Hotels, activiteiten & tips',
+    floatCtxLabel:'Over', floatCtxSuffix:'& je reis',
+    thinkError:'Hmm, er ging iets mis. Probeer opnieuw met meer details — bijv. van welke stad je vertrekt.',
+    searchError:'Zoekopdracht mislukt — probeer opnieuw.', chatError:'Sorry, er ging iets fout.',
+    oneWayLabel:'Alleen heen',
+    carPlanLabel:'Zercy plant jouw rit', carPickupLabel:'Ophaallocatie', carDropoffLabel:'Inleverlocatie',
+    carFromDateLabel:'Ophaaldatum', carToDateLabel:'Inleverdatum', carClassLabel:'Voertuigklasse',
+    carClassChips:['Economisch','Compact','Middenklasse','SUV / Stationwagon','Bestelbus','Luxe','Goedkoopste optie'],
+    carSearchBtn:'🚗 Zoek huurauto\'s!', carPickupPlaceholder:'bijv. Amsterdam Schiphol (AMS)',
+    carDropoffPlaceholder:'bijv. Rotterdam centrum', carDatePlaceholder:'bijv. 05-10-2026',
+  },
+  it: {
+    planLabel:'Zercy ha un piano', understood:'Cosa ha capito Zercy',
+    from:'Da', to:'Destinazione', cabin:'Classe', outbound:'Andata', returnTrip:'Ritorno',
+    nonstop:'Diretto', duration:'Durata del viaggio', routes:'Opzioni di rotta che Zercy vede',
+    insight:'Consiglio di Zercy', questions:'Alcune domande rapide per perfezionare la ricerca',
+    addAnything:'Qualcos\'altro da aggiungere?', freetextPlaceholder:'p.es. "So che sarò a Madrid in ottobre"',
+    searchBtn:'✈ Sì, cerca ora!', thinkBtn:'✨ Lascia pensare Zercy',
+    searchLabel:'✏️ Descrivi il tuo viaggio', loadingThink:'Zercy sta pensando al tuo viaggio...',
+    loadingSearch:'Zercy cerca rotte in parallelo...', chatHeader:'Chiedi tutto a Zercy sul tuo viaggio',
+    chatSub:'Attività, hotel, consigli, cibo, visto... chiedi pure',
+    zercyUnderstood:'Zercy ha capito', bestAirportsNear:'📍 Migliori aeroporti vicino a',
+    bestAirportsFrom:'📍 Migliori aeroporti da', searchQueriesTitle:'Ricerche che Zercy effettua per te',
+    zercyInsight:'Consiglio di Zercy', refineSearch:'✨ Vuoi cambiare qualcosa?',
+    refineChips:['✈ Solo diretto','💺 Business class','🗓 Una settimana dopo','🌅 Voli mattutini','➕ Aggiungi città','💸 Opzione più economica'],
+    refinePlaceholder:'Altro ancora? Dimmelo...', tellZercyBtn:'💬 Digli a Zercy',
+    searchDivider:'Tutto pronto? Andiamo:', addMoreBtn:'✏️ Aggiungi altro',
+    searchNowBtn:'✈ Cerca ora!', addMorePlaceholder:'p.es. "Prenota andata e ritorno"',
+    addConfirm:'Aggiungi ✓', added:'Aggiunto', refineInput:'Vuoi cambiare qualcosa? Dimmelo...',
+    refineBtn:'→ Affina la ricerca', researchBtn:'✈ Via! Cerca di nuovo',
+    backToResults:'↑ Torna agli ultimi risultati', recommended:'Data consigliata', dateTip:'Consiglio data',
+    timeframe:'Periodo', flexibility:'Flessibilità', notSpecified:'Non specificato', preferred:'✓ Preferito',
+    newSearch:'✦ Nuova ricerca', searchArrow:'Cerca →', chatTyping:'Zercy sta pensando...',
+    chatInputPlaceholder:'Chiedi tutto sulla tua destinazione...',
+    chatChips:['🏄 Migliori spiagge?','🌮 Dove mangiare?','🏨 Hotel consigliati?','🗺 Programma 10 giorni?','💉 Visto e vaccini?'],
+    nonstopTag:'DIRETTO', confidence:{high:'sicuro',medium:'probabile',low:'possibile'},
+    fromChips:['Italia','Spagna','USA','Un\'altra città...'],
+    returnChips:['Stesso aeroporto (andata e ritorno)','Open-Jaw (altro aeroporto di ritorno)','Multi-destinazione','Solo andata'],
+    datesChips:['1–2 settimane','3–4 settimane','Più di 1 mese','Flessibile / Aperto'],
+    nonstopChips:['Volo diretto preferito','Scalo ok se più economico','L\'opzione più economica'],
+    milesChips:['Alitalia MilleMiglia','KLM / Air France Flying Blue','Lufthansa Miles & More','British Airways Avios','Senza miglia','Zercy decide'],
+    freetextLabel:'💬 Qualcos\'altro che affini la ricerca?', addMoreLabel:'✏️ Chiedi a Zercy',
+    fromLabel:'Da', returnLabel:'Ritorno', datesLabel:'Quando', cabinLabel:'Classe', nonstopLabel:'Diretto', milesLabel:'Miglia',
+    fromPlaceholder:'Città o aeroporto...', returnPlaceholder:'Città di ritorno (p.es. Madrid, Amsterdam...)',
+    datesPlaceholder:'p.es. 15 set – 25 set 2026', floatEyebrow:'✦ Consigli & Chat',
+    floatKnowsMore:'Zercy sa di più su', floatHotelsLabel:'Hotel, attività e consigli',
+    floatCtxLabel:'Su', floatCtxSuffix:'& il tuo viaggio',
+    thinkError:'Hmm, qualcosa è andato storto. Riprova con più dettagli — p.es. da dove parti.',
+    searchError:'Ricerca fallita — riprova.', chatError:'Spiacente, qualcosa è andato storto.',
+    oneWayLabel:'Solo andata',
+    carPlanLabel:'Zercy pianifica il tuo viaggio in auto', carPickupLabel:'Luogo di ritiro', carDropoffLabel:'Luogo di riconsegna',
+    carFromDateLabel:'Data di ritiro', carToDateLabel:'Data di riconsegna', carClassLabel:'Categoria veicolo',
+    carClassChips:['Economy','Compatta','Media','SUV / Station wagon','Monovolume','Lusso','La più economica'],
+    carSearchBtn:'🚗 Cerca auto a noleggio!', carPickupPlaceholder:'es. Aeroporto di Roma (FCO)',
+    carDropoffPlaceholder:'es. Milano centro', carDatePlaceholder:'es. 05/10/2026',
+  },
+  pt: {
+    planLabel:'Zercy tem um plano', understood:'O que Zercy entendeu',
+    from:'De', to:'Destino', cabin:'Classe', outbound:'Ida', returnTrip:'Regresso',
+    nonstop:'Direto', duration:'Duração da viagem', routes:'Opções de rota que Zercy vê',
+    insight:'Dica da Zercy', questions:'Algumas perguntas rápidas para afinar a pesquisa',
+    addAnything:'Mais alguma coisa?', freetextPlaceholder:'p.ex. "Sei que estarei em Madrid em outubro"',
+    searchBtn:'✈ Sim, pesquisar agora!', thinkBtn:'✨ Deixa a Zercy pensar',
+    searchLabel:'✏️ Descreve a tua viagem', loadingThink:'Zercy está a pensar na tua viagem...',
+    loadingSearch:'Zercy pesquisa rotas em paralelo...', chatHeader:'Pergunta à Zercy tudo sobre a tua viagem',
+    chatSub:'Atividades, hotéis, dicas, comida, visto... pergunta à vontade',
+    zercyUnderstood:'Zercy entendeu', bestAirportsNear:'📍 Melhores aeroportos perto de',
+    bestAirportsFrom:'📍 Melhores aeroportos desde', searchQueriesTitle:'Pesquisas que Zercy faz para ti',
+    zercyInsight:'Dica da Zercy', refineSearch:'✨ Queres mudar algo?',
+    refineChips:['✈ Só direto','💺 Business class','🗓 Uma semana depois','🌅 Voos matinais','➕ Adicionar cidade','💸 Opção mais barata'],
+    refinePlaceholder:'Mais alguma coisa? Diz...', tellZercyBtn:'💬 Diz à Zercy',
+    searchDivider:'Tudo pronto? Vamos:', addMoreBtn:'✏️ Adicionar mais',
+    searchNowBtn:'✈ Pesquisar agora!', addMorePlaceholder:'p.ex. "Reservar ida e volta"',
+    addConfirm:'Adicionar ✓', added:'Adicionado', refineInput:'Queres mudar algo? Diz...',
+    refineBtn:'→ Refinar pesquisa', researchBtn:'✈ Vamos! Pesquisar novamente',
+    backToResults:'↑ Voltar aos últimos resultados', recommended:'Data recomendada', dateTip:'Dica de data',
+    timeframe:'Período', flexibility:'Flexibilidade', notSpecified:'Não especificado', preferred:'✓ Preferido',
+    newSearch:'✦ Nova pesquisa', searchArrow:'Pesquisar →', chatTyping:'Zercy está a pensar...',
+    chatInputPlaceholder:'Pergunta tudo sobre o teu destino...',
+    chatChips:['🏄 Melhores praias?','🌮 Onde comer?','🏨 Hotéis recomendados?','🗺 Programa de 10 dias?','💉 Visto & vacinas?'],
+    nonstopTag:'DIRETO', confidence:{high:'certo',medium:'provável',low:'possível'},
+    fromChips:['Portugal','Brasil','Espanha','Outra cidade...'],
+    returnChips:['Mesmo aeroporto (ida e volta)','Open-Jaw (outro aeroporto de regresso)','Multi-destino','Só ida'],
+    datesChips:['1–2 semanas','3–4 semanas','Mais de 1 mês','Flexível / Aberto'],
+    nonstopChips:['Voo direto preferido','Escala ok se mais barato','A opção mais barata'],
+    milesChips:['TAP Miles&Go','KLM / Air France Flying Blue','Avianca LifeMiles','British Airways Avios','Sem milhas','Zercy decide'],
+    freetextLabel:'💬 Mais alguma coisa que afine a pesquisa?', addMoreLabel:'✏️ Perguntar à Zercy',
+    fromLabel:'De', returnLabel:'Regresso', datesLabel:'Quando', cabinLabel:'Classe', nonstopLabel:'Direto', milesLabel:'Milhas',
+    fromPlaceholder:'Cidade ou aeroporto...', returnPlaceholder:'Cidade de regresso (p.ex. Madrid, Roma...)',
+    datesPlaceholder:'p.ex. 15 set – 25 set 2026', floatEyebrow:'✦ Dicas & Chat',
+    floatKnowsMore:'Zercy sabe mais sobre', floatHotelsLabel:'Hotéis, atividades e dicas',
+    floatCtxLabel:'Sobre', floatCtxSuffix:'& a tua viagem',
+    thinkError:'Hmm, algo correu mal. Tenta novamente com mais detalhes — p.ex. de onde partes.',
+    searchError:'Pesquisa falhada — tenta novamente.', chatError:'Desculpe, algo correu mal.',
+    oneWayLabel:'Só ida',
+    carPlanLabel:'Zercy está a planear a tua viagem', carPickupLabel:'Local de recolha', carDropoffLabel:'Local de entrega',
+    carFromDateLabel:'Data de recolha', carToDateLabel:'Data de devolução', carClassLabel:'Categoria do veículo',
+    carClassChips:['Económico','Compacto','Médio','SUV / Familiar','Minivan','Luxo','O mais barato'],
+    carSearchBtn:'🚗 Procurar carros de aluguer!', carPickupPlaceholder:'p.ex. Aeroporto de Lisboa (LIS)',
+    carDropoffPlaceholder:'p.ex. Porto centro', carDatePlaceholder:'p.ex. 05/10/2026',
+  },
+};
+
+function t(lang, key, subkey) {
+  const labels = L[lang] || L['de'];
+  if (subkey) return (labels[key] && labels[key][subkey]) || (L['de'][key] && L['de'][key][subkey]) || subkey;
+  return labels[key] !== undefined ? labels[key] : (L['de'][key] !== undefined ? L['de'][key] : key);
+}
+
+function applyLanguageToStaticUI(lang) {
+  const nb = document.getElementById('newSearchBtn');
+  if (nb) nb.textContent = t(lang, 'newSearch');
+  const chatInput = document.getElementById('chat-input');
+  if (chatInput) chatInput.placeholder = t(lang, 'chatInputPlaceholder');
+  const container = document.getElementById('chat-suggestions');
+  if (container) container.innerHTML = '';
+}
+
+function showInlineLoading() {
+  const el = document.createElement('div');
+  el.id = 'inline-loading';
+  el.style.cssText = 'text-align:center;padding:1.5rem;';
+  el.innerHTML = `
+    <div class="loader-scene">
+      <div class="zercy-mascot"><div class="orb">
+        <div class="orb-eye left">Z</div><div class="orb-eye right">C</div>
+        <div class="orb-sparkle s1"></div><div class="orb-sparkle s2"></div><div class="orb-sparkle s3"></div>
+      </div></div>
+      <span class="plane-loader">✈️</span>
+    </div>
+    <p style="color:#94a3b8;font-size:0.9rem;font-weight:500;" id="inline-loading-text">${t(zercyLang, 'chatTyping')}</p>
+  `;
+  document.getElementById('conversation').appendChild(el);
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  return el;
+}
+
+async function thinkIntent() {
+  const intent = document.getElementById('intent').value.trim();
+  if (!intent) return;
+  zercyOriginalIntent = intent;
+  zercyAnswers = {}; zercyAdditions = []; zercyTextAnswers = {};
+  lastIntent = intent;
+  const heroEl = document.getElementById('hero');
+  if (heroEl) heroEl.classList.add('compact');
+  const wrapper = document.getElementById('zercy-results-wrapper');
+  if (wrapper) wrapper.style.display = 'block';
+  document.getElementById('searchBtn').disabled = true;
+  document.getElementById('loading-text').textContent = t(zercyLang, 'loadingThink');
+  document.getElementById('loading').style.display = 'block';
+  document.getElementById('conversation').innerHTML = '';
+  try {
+    const res = await fetch('/api/think', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ intent })
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || `HTTP ${res.status}`);
+    currentPlanData = data;
+    zercyLang = data.language || zercyLang;
+    applyLanguageToStaticUI(zercyLang);
+    if (data.car_only) {
+      await appendCarPlanTurn(intent, data);
+      return;
+    }
+    await appendPlanTurn(intent, data);
+    if (data.understood) {
+      const u = data.understood;
+      const enrichments = [];
+      if (u.origin) enrichments.push(`Origin: ${u.origin}`);
+      if (u.destination_area) enrichments.push(`Destination: ${u.destination_area}`);
+      if (u.outbound_window) enrichments.push(`Outbound timeframe: ${u.outbound_window}`);
+      if (u.return_window && u.return_window !== 'null') enrichments.push(`Return timeframe: ${u.return_window}`);
+      if (u.cabin) enrichments.push(`Cabin: ${u.cabin}`);
+      if (u.nonstop_preference && u.nonstop_preference !== 'flexible') enrichments.push(`Nonstop: ${u.nonstop_preference}`);
+      if (enrichments.length) lastIntent += '. Zercy understood: ' + enrichments.join(', ');
+    }
+  } catch (err) {
+    const conversation = document.getElementById('conversation');
+    if (conversation) {
+      const errEl = document.createElement('div');
+      errEl.className = 'zercy-error-bubble';
+      errEl.innerHTML = `<span>${t(zercyLang, 'thinkError')} <small style="opacity:0.6">(${err.message})</small></span>`;
+      conversation.appendChild(errEl);
+      errEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+  } finally {
+    document.getElementById('searchBtn').disabled = false;
+    document.getElementById('loading').style.display = 'none';
+  }
+}
+
+async function parseIntent(refinedIntent) {
+  const intent = refinedIntent || zercyOriginalIntent || document.getElementById('intent').value.trim();
+  if (!intent) return;
+  lastIntent = intent;
+  const inlineLoader = showInlineLoading();
+  document.getElementById('loading-text').textContent = t(zercyLang, 'loadingSearch');
+  try {
+    const res = await fetch('/api/parse', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        intent,
+        planContext: currentPlanData ? {
+          narrative: currentPlanData.narrative,
+          smartInsights: currentPlanData.smart_insights,
+          understood: currentPlanData.understood
+        } : null
+      })
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || `HTTP ${res.status}`);
+    appendTurn(intent, data, true);
+  } catch (err) {
+    const conversation = document.getElementById('conversation');
+    if (conversation) {
+      const errEl = document.createElement('div');
+      errEl.className = 'zercy-error-bubble';
+      errEl.innerHTML = `<span>${t(zercyLang, 'searchError')} <small style="opacity:0.6">(${err.message})</small></span>`;
+      conversation.appendChild(errEl);
+    }
+  } finally {
+    if (inlineLoader) inlineLoader.remove();
+  }
+}
+
+function collectAnswersAndSearch(turnId) {
+  const parts = [zercyOriginalIntent];
+  const qidLabels = { from:'Flying FROM (origin)', return:'Return type', dates:'Travel duration/dates', cabin:'Cabin class', nonstop:'Nonstop preference', miles:'Frequent flyer program' };
+  Object.entries(zercyAnswers).forEach(([id, values]) => { if (values && values.length > 0) parts.push(`${qidLabels[id]||id}: ${values.join(', ')}`); });
+  Object.entries(zercyTextAnswers).forEach(([id, val]) => { if (val) parts.push(`${qidLabels[id]||id} (typed): ${val}`); });
+  const freetextEl = document.getElementById('uqp-free-' + turnId);
+  const freetextVal = freetextEl?.value?.trim();
+  if (freetextVal) parts.push(freetextVal);
+  zercyAdditions.filter(Boolean).forEach(a => parts.push(a));
+  const u = currentPlanData?.understood;
+  if (u) {
+    const enrichments = [];
+    if (u.origin) enrichments.push(`Origin: ${u.origin}`);
+    if (u.destination_area) enrichments.push(`Destination: ${u.destination_area}`);
+    if (u.outbound_window) enrichments.push(`Outbound timeframe: ${u.outbound_window}`);
+    if (u.return_window && u.return_window !== 'null') enrichments.push(`Return timeframe: ${u.return_window}`);
+    if (u.cabin) enrichments.push(`Cabin: ${u.cabin}`);
+    if (u.nonstop_preference && u.nonstop_preference !== 'flexible') enrichments.push(`Nonstop: ${u.nonstop_preference}`);
+    if (enrichments.length) parts.push('Zercy understood: ' + enrichments.join(', '));
+  }
+  const fullIntent = parts.join('. ');
+  lastIntent = fullIntent;
+  parseIntent(fullIntent);
+}
+
+function parseDateToISO(s) {
+  if (!s) return '';
+  s = s.trim();
+  // Normalize: collapse whitespace, strip ordinal suffixes (1st→1, 2nd→2, 3rd→3, 10th→10), strip commas
+  s = s.replace(/\s+/g, ' ').replace(/(\d)(st|nd|rd|th)\b/gi, '$1').replace(/,/g, '').trim();
+  if (/^\d{4}-\d{2}-\d{2}$/.test(s)) return s;
+  const yr = 2026;
+  // DD.MM.YYYY
+  const a = s.match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
+  if (a) return `${a[3]}-${a[2].padStart(2,'0')}-${a[1].padStart(2,'0')}`;
+  // DD/MM/YYYY
+  const b = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+  if (b) return `${b[3]}-${b[2].padStart(2,'0')}-${b[1].padStart(2,'0')}`;
+  // DD.MM. or DD.MM (no year)
+  const c = s.match(/^(\d{1,2})\.(\d{1,2})\.?$/);
+  if (c) return `${yr}-${c[2].padStart(2,'0')}-${c[1].padStart(2,'0')}`;
+  // "5. Oktober", "5. Oktober 2026", "5 Oktober", "5 Okt 2026" etc.
+  const mn = {jan:1,feb:2,mär:3,mar:3,apr:4,mai:5,may:5,jun:6,jul:7,aug:8,sep:9,okt:10,oct:10,nov:11,dez:12,dec:12,januar:1,februar:2,'märz':3,april:4,juni:6,juli:7,august:8,september:9,oktober:10,november:11,dezember:12,january:1,february:2,march:3,june:6,july:7,august:8,september:9,october:10,november:11,december:12,janvier:1,mars:3,mai:5,juin:6,juillet:7,août:8,septembre:9,octobre:10,novembre:11,décembre:12,enero:1,marzo:3,mayo:5,junio:6,julio:7,agosto:8,septiembre:9,octubre:10,noviembre:11,diciembre:12};
+  const lookupMonth = w => { const k = w.toLowerCase(); return mn[k] || mn[k.substring(0,3)] || 0; };
+  // day-first: "10 Oktober", "10. Oktober", "10 Okt", "10. Okt 2026"
+  const d = s.match(/^(\d{1,2})\.?\s+([a-züäöéàâêôûç]+)(?:\.|\s+(\d{4}))?$/i);
+  if (d) { const m = lookupMonth(d[2]); if (m) return `${d[3]||yr}-${String(m).padStart(2,'0')}-${d[1].padStart(2,'0')}`; }
+  // month-first: "Oktober 10", "Oct 10", "October 10 2026"
+  const e = s.match(/^([a-züäöéàâêôûç]+)\.?\s+(\d{1,2})(?:\.?\s+(\d{4}))?$/i);
+  if (e) { const m = lookupMonth(e[1]); if (m) return `${e[3]||yr}-${String(m).padStart(2,'0')}-${e[2].padStart(2,'0')}`; }
+  return '';
+}
+
+function collectCarAnswersAndSearch(turnId) {
+  const pickup = document.getElementById('car-pickup-' + turnId)?.value?.trim() || '';
+  const dropoff = document.getElementById('car-dropoff-' + turnId)?.value?.trim() || '';
+  const fromDate = document.getElementById('car-fromdate-' + turnId)?.value?.trim() || '';
+  const toDate = document.getElementById('car-todate-' + turnId)?.value?.trim() || '';
+  const vehicleClass = (zercyAnswers['carclass'] || []).join(', ');
+  // Store form dates directly — don't rely on Claude to re-extract them
+  pendingCarDates = {
+    pickupCity: pickup,
+    dropoffCity: dropoff,
+    pickupDate: parseDateToISO(fromDate) || fromDate,
+    returnDate: parseDateToISO(toDate) || toDate
+  };
+  const parts = ['Car rental request'];
+  if (pickup) parts.push(`pickup city: ${pickup}`);
+  if (dropoff) parts.push(`dropoff city: ${dropoff}`);
+  if (fromDate) parts.push(`pickup date: ${fromDate}`);
+  if (toDate) parts.push(`return date: ${toDate}`);
+  if (vehicleClass) parts.push(`vehicle class: ${vehicleClass}`);
+  const fullIntent = parts.join(', ');
+  lastIntent = fullIntent;
+  parseIntent(fullIntent);
+}
+
+function toggleAnswerChip(questionId, value, el) {
+  if (!zercyAnswers[questionId]) zercyAnswers[questionId] = [];
+  const idx = zercyAnswers[questionId].indexOf(value);
+  if (idx >= 0) { zercyAnswers[questionId].splice(idx, 1); el.classList.remove('selected'); }
+  else { zercyAnswers[questionId].push(value); el.classList.add('selected'); }
+}
+
+function buildFormRow({ qid, label, knownValue, chips, hasText, textPlaceholder }) {
+  return `
+    <div class="zfp-row">
+      <div class="zfp-label">${label}</div>
+      <div class="zfp-controls" id="ctrl-${qid}">
+        ${knownValue ? `<div class="zfp-known">✓ ${knownValue}</div><br>` : ''}
+        <div class="answer-chips" id="chips-${qid}">
+          ${chips.map(c => `<button class="answer-chip" onclick="toggleAnswerChip('${qid}','${c.replace(/'/g,"\\'")}',this)">${c}</button>`).join('')}
+        </div>
+        ${hasText ? `<input type="text" class="zfp-text-input" id="input-${qid}" placeholder="${textPlaceholder}" oninput="setTextAnswer('${qid}',this.value)">` : ''}
+      </div>
+    </div>`;
+}
+
+async function appendPlanTurn(prompt, d) {
+  turnCount++;
+  const lang = d.language || zercyLang;
+  const tc = turnCount;
+  const conversation = document.getElementById('conversation');
+  const turn = document.createElement('div');
+  turn.className = 'turn';
+  turn.id = 'plan-turn-' + tc;
+
+  const ipPromise = detectUserLocation();
+  const u = d.understood || {};
+
+  const fromKnown = u.origin || null;
+  const fromChips = t(lang, 'fromChips');
+  const returnKnown = u.trip_type === 'oneway' ? t(lang, 'oneWayLabel')
+    : (u.return_window && u.return_window !== 'null') ? `${t(lang, 'returnTrip')}: ${u.return_window}` : null;
+  const returnChips = t(lang, 'returnChips');
+  const datesKnown = u.outbound_window
+    ? `${u.outbound_window}${u.return_window && u.return_window !== 'null' ? ' → ' + u.return_window : ''}${u.trip_duration_note ? ' · ' + u.trip_duration_note : ''}`
+    : null;
+  const datesChips = t(lang, 'datesChips');
+  const cabinKnown = u.cabin || null;
+  const cabinChips = ['Economy', 'Premium Economy', 'Business Class', 'First Class'];
+  const nonstopVal = (u.nonstop_preference && u.nonstop_preference !== 'flexible' && u.nonstop_preference !== 'none') ? u.nonstop_preference : null;
+  const nonstopChips = t(lang, 'nonstopChips');
+  const milesChips = t(lang, 'milesChips');
+  const freetextLabel = t(lang, 'freetextLabel');
+  const addMoreLabel = t(lang, 'addMoreLabel');
+
+  turn.innerHTML = `
+    <div class="turn-results">
+      <div class="plan-banner">
+        <div class="plan-orb"></div>
+        <div>
+          <div class="plan-label">${t(lang, 'planLabel')}</div>
+          <div class="plan-narrative">${d.narrative}</div>
+        </div>
+      </div>
+      <div class="zercy-form-panel">
+        <div class="zfp-header">✈ ${t(lang, 'questions')}</div>
+        ${buildFormRow({ qid:'from', label: t(lang,'fromLabel'), knownValue: fromKnown, chips: fromChips, hasText: true, textPlaceholder: t(lang,'fromPlaceholder') })}
+        ${buildFormRow({ qid:'return', label: t(lang,'returnLabel'), knownValue: returnKnown, chips: returnChips, hasText: true, textPlaceholder: t(lang,'returnPlaceholder') })}
+        ${buildFormRow({ qid:'dates', label: t(lang,'datesLabel'), knownValue: datesKnown, chips: datesChips, hasText: true, textPlaceholder: t(lang,'datesPlaceholder') })}
+        ${buildFormRow({ qid:'cabin', label: t(lang,'cabinLabel'), knownValue: cabinKnown, chips: cabinChips, hasText: false })}
+        ${buildFormRow({ qid:'nonstop', label: t(lang,'nonstopLabel'), knownValue: nonstopVal, chips: nonstopChips, hasText: false })}
+        ${buildFormRow({ qid:'miles', label: t(lang,'milesLabel'), knownValue: null, chips: milesChips, hasText: false })}
+        <div class="zfp-freetext">
+          <div class="zfp-freetext-label">${freetextLabel}</div>
+          <textarea id="uqp-free-${tc}" rows="2" placeholder="${t(lang, 'addMorePlaceholder')}"></textarea>
+        </div>
+        <div id="zercy-replies-${tc}" class="zercy-replies" style="padding: 0 1.2rem 0.5rem"></div>
+        <div class="zfp-actions">
+          <div class="action-buttons-row" id="action-row-${tc}">
+            <button class="add-more-btn" onclick="submitFreetextToZercy(${tc})">${addMoreLabel}</button>
+            <button class="search-trigger-btn" onclick="collectAnswersAndSearch(${tc})">${t(lang, 'searchNowBtn')}</button>
+          </div>
+        </div>
+      </div>
+      <div class="plan-note">${d.zercy_plan_note || ''}</div>
+    </div>
+  `;
+
+  conversation.appendChild(turn);
+  setTimeout(() => {
+    const planBanner = turn.querySelector('.plan-banner');
+    scrollToTop(planBanner || turn);
+  }, 420);
+  document.getElementById('newSearchBtn').style.display = 'inline-block';
+
+  const ipLocation = await ipPromise;
+  if (ipLocation && !fromKnown) {
+    const chipsEl = document.getElementById('chips-from');
+    if (chipsEl) {
+      const btn = document.createElement('button');
+      btn.className = 'answer-chip';
+      btn.textContent = `📍 ${ipLocation}`;
+      btn.onclick = () => {
+        chipsEl.querySelectorAll('.answer-chip').forEach(b => b.classList.remove('selected'));
+        btn.classList.add('selected');
+        zercyAnswers['from'] = [ipLocation];
+        const inp = document.getElementById('input-from');
+        if (inp && !inp.value) { inp.value = ipLocation; setTextAnswer('from', ipLocation); }
+      };
+      chipsEl.insertBefore(btn, chipsEl.firstChild);
+    }
+  }
+
+  const planDest = u.destination_area || '';
+  showChatWidget(planDest, '', '', null, d.smart_insights || []);
+}
+
+async function appendCarPlanTurn(intent, d) {
+  turnCount++;
+  const lang = d.language || zercyLang;
+  const tc = turnCount;
+  const conversation = document.getElementById('conversation');
+  const turn = document.createElement('div');
+  turn.className = 'turn';
+  turn.id = 'plan-turn-' + tc;
+  const u = d.understood || {};
+  turn.innerHTML = `
+    <div class="turn-results">
+      <div class="plan-banner">
+        <div class="plan-orb"></div>
+        <div>
+          <div class="plan-label">${t(lang, 'carPlanLabel')}</div>
+          <div class="plan-narrative">${d.narrative}</div>
+        </div>
+      </div>
+      <div class="zercy-form-panel">
+        <div class="zfp-header">🚗 Details</div>
+        <div class="zfp-row">
+          <div class="zfp-label">${t(lang, 'carPickupLabel')}</div>
+          <div class="zfp-controls">
+            <input type="text" class="zfp-text-input" id="car-pickup-${tc}" value="${u.pickup_city || ''}" placeholder="${t(lang, 'carPickupPlaceholder')}">
+          </div>
+        </div>
+        <div class="zfp-row">
+          <div class="zfp-label">${t(lang, 'carDropoffLabel')}</div>
+          <div class="zfp-controls">
+            <input type="text" class="zfp-text-input" id="car-dropoff-${tc}" value="${u.dropoff_city || ''}" placeholder="${t(lang, 'carDropoffPlaceholder')}">
+          </div>
+        </div>
+        <div class="zfp-row">
+          <div class="zfp-label">${t(lang, 'carFromDateLabel')}</div>
+          <div class="zfp-controls">
+            <input type="text" class="zfp-text-input" id="car-fromdate-${tc}" value="${u.pickup_date || ''}" placeholder="${t(lang, 'carDatePlaceholder')}">
+          </div>
+        </div>
+        <div class="zfp-row">
+          <div class="zfp-label">${t(lang, 'carToDateLabel')}</div>
+          <div class="zfp-controls">
+            <input type="text" class="zfp-text-input" id="car-todate-${tc}" value="${u.dropoff_date || ''}" placeholder="${t(lang, 'carDatePlaceholder')}">
+          </div>
+        </div>
+        ${buildFormRow({ qid:'carclass', label: t(lang,'carClassLabel'), knownValue: null, chips: t(lang,'carClassChips'), hasText: false })}
+        <div class="zfp-actions">
+          <div class="action-buttons-row">
+            <button class="search-trigger-btn" onclick="collectCarAnswersAndSearch(${tc})">${t(lang, 'carSearchBtn')}</button>
+          </div>
+        </div>
+      </div>
+      <div class="plan-note">${d.zercy_plan_note || ''}</div>
+    </div>
+  `;
+  conversation.appendChild(turn);
+  setTimeout(() => {
+    const planBanner = turn.querySelector('.plan-banner');
+    scrollToTop(planBanner || turn);
+  }, 420);
+  document.getElementById('newSearchBtn').style.display = 'inline-block';
+}
+
+async function submitFreetextToZercy(turnId) {
+  const textarea = document.getElementById('uqp-free-' + turnId);
+  const text = textarea?.value?.trim();
+  if (!text) return;
+  zercyAdditions.push(text);
+  textarea.value = '';
+  const actionRow = document.getElementById('action-row-' + turnId);
+  if (actionRow) actionRow.style.display = 'none';
+  const repliesEl = document.getElementById('zercy-replies-' + turnId);
+  const typingBubble = document.createElement('div');
+  typingBubble.className = 'zercy-reply-bubble typing';
+  typingBubble.innerHTML = `<div class="reply-orb"></div><span>${t(zercyLang, 'chatTyping')}</span>`;
+  repliesEl.appendChild(typingBubble);
+  repliesEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  try {
+    const qidLabels = { from:'Flying FROM', return:'Return type', dates:'Travel dates', cabin:'Cabin class', nonstop:'Nonstop preference', miles:'Frequent flyer' };
+    const chipParts = Object.entries(zercyAnswers).map(([qid, vals]) => vals.length ? `${qidLabels[qid]||qid}: ${vals.join(', ')}` : '').filter(Boolean);
+    const textParts = Object.entries(zercyTextAnswers).map(([qid, val]) => val ? `${qidLabels[qid]||qid}: ${val}` : '').filter(Boolean);
+    const context = [...chipParts, ...textParts, ...zercyAdditions.slice(0, -1).filter(Boolean)].join('; ');
+    const res = await fetch('/api/think', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ intent: zercyOriginalIntent, mode: 'respond', context, addition: text })
+    });
+    const data = await res.json();
+    typingBubble.remove();
+    const bubble = document.createElement('div');
+    bubble.className = 'zercy-reply-bubble';
+    bubble.innerHTML = `<div class="reply-orb"></div><span>${data.reply || '...'}</span>`;
+    repliesEl.appendChild(bubble);
+  } catch { typingBubble.remove(); }
+  finally { if (actionRow) actionRow.style.display = 'flex'; }
+}
+
+function appendTurn(prompt, d, isRefinement) {
+  document.querySelectorAll('.refinement-section').forEach(el => el.style.display = 'none');
+  // For car-only: Claude extracts dates from the intent string — pendingCarDates is fallback only
+  if (d.car_only && pendingCarDates) {
+    if (!d.pickup) d.pickup = {};
+    if (!d.dropoff) d.dropoff = {};
+    if (!d.pickup.date && pendingCarDates.pickupDate) d.pickup.date = pendingCarDates.pickupDate;
+    if (!d.dropoff.date && pendingCarDates.returnDate) d.dropoff.date = pendingCarDates.returnDate;
+    if (!d.pickup.city && pendingCarDates.pickupCity) d.pickup.city = pendingCarDates.pickupCity;
+    if (!d.dropoff.city && pendingCarDates.dropoffCity) d.dropoff.city = pendingCarDates.dropoffCity;
+  }
+  turnCount++;
+  const conversation = document.getElementById('conversation');
+  const turn = document.createElement('div');
+  turn.className = 'turn';
+  turn.id = 'turn-' + turnCount;
+  turn.innerHTML = `
+    <div class="turn-results">${buildResultsHtml(d, turnCount)}</div>
+  `;
+  conversation.appendChild(turn);
+  setTimeout(() => scrollToTop(turn), 100);
+  document.getElementById('newSearchBtn').style.display = 'inline-block';
+  const dest = d.outbound?.destination_intent || d.outbound?.suggested_airports?.[0]?.city || '';
+  const ci = d.outbound?.recommended_date || '';
+  const co = d.return?.recommended_date || '';
+  showChatWidget(dest, ci, co, d, d.zercy_insight ? [d.zercy_insight] : []);
+}
+
+function buildCarOnlyHtml(d) {
+  const lang = zercyLang;
+  const pickup = d.pickup || {};
+  const dropoff = d.dropoff || {};
+  // fmtDate: parse YYYY-MM-DD as local date (avoids UTC-1-day-offset bug in Europe), fallback to raw string
+  const fmtDate = s => { if (!s) return ''; const p = s.match(/^(\d{4})-(\d{2})-(\d{2})$/); if (!p) return s; const [,y,mo,dy] = p.map(Number); return new Date(y,mo-1,dy).toLocaleDateString(lang==='de'?'de-DE':'en-GB',{day:'numeric',month:'long',year:'numeric'}); };
+  // fmtRC: YYYY-MM-DD for Rentalcars (ISO format — DD/MM/YYYY causes NaN crash on their side)
+  const fmtRC = s => s?.match(/^\d{4}-\d{2}-\d{2}$/) ? s : '';
+  // fmtExp: MM/DD/YYYY for Expedia (US date format)
+  const fmtExp = s => { if (!s) return ''; const p = s.match(/^(\d{4})-(\d{2})-(\d{2})$/); if (!p) return ''; return `${p[2]}/${p[3]}/${p[1]}`; };
+  const rcAddr = s => { const m = (s||'').match(/\(([A-Z]{3})\)/); return m ? m[1] : (s||'').replace(/\(.*?\)/g,'').trim(); };
+  const puAddr = rcAddr(pickup.location||pickup.city||'');
+  const doAddr = rcAddr(dropoff.location||dropoff.city||pickup.city||'');
+  // Rentalcars: city name only (IATA breaks it), no addrTo (one-way checkbox can't be set via URL)
+  const rcUrl = `https://www.rentalcars.com/SearchResults.do?addrFrom=${encodeURIComponent(pickup.city||puAddr)}&dateFrom=${fmtRC(pickup.date)}&timeFrom=10:00&dateTo=${fmtRC(dropoff.date)}&timeTo=10:00&driverAge=30`;
+  // Kayak: path-based, works reliably
+  const kayakUrl = `https://www.kayak.com/cars/${encodeURIComponent(pickup.city||'')}/${pickup.date||''}/${dropoff.date||''}`;
+  // Expedia: US date format MM/DD/YYYY
+  const expediaUrl = `https://www.expedia.com/carsearch?addrFrom=${encodeURIComponent(pickup.city||'')}&dateFrom=${encodeURIComponent(fmtExp(pickup.date))}&timeFrom=10:00&dateTo=${encodeURIComponent(fmtExp(dropoff.date))}&timeTo=10:00`;
+  // EconomyCarRentals: YYYY-MM-DD format
+  const econUrl = `https://www.economycarrentals.com/en/results/?pickup=${encodeURIComponent(pickup.city||'')}&dropoff=${encodeURIComponent(dropoff.city||pickup.city||'')}&date1=${pickup.date||''}&date2=${dropoff.date||''}`;
+  return `
+    <div class="summary-banner">
+      <div class="icon">🚗</div>
+      <div>
+        <div class="label">${t(lang, 'zercyUnderstood')}</div>
+        <div class="text">${d.summary}</div>
+      </div>
+    </div>
+    <div class="card" style="margin-bottom:1rem;">
+      <div class="card-header">
+        <div class="card-icon">🚗</div>
+        <div class="card-title">Mietwagen</div>
+      </div>
+      <div class="info-row"><span class="key">📍 Abholung</span><span class="val">${pickup.location || pickup.city || ''}</span></div>
+      <div class="info-row"><span class="key">📅 Von</span><span class="val">${fmtDate(pickup.date)}</span></div>
+      <div class="info-row"><span class="key">📅 Bis</span><span class="val">${fmtDate(dropoff.date)}</span></div>
+      ${dropoff.location && dropoff.location !== pickup.location ? `<div class="info-row"><span class="key">📍 Rückgabe</span><span class="val">${dropoff.location}</span></div>` : ''}
+      <div class="ap-section orange" style="margin-top:0.8rem;">
+        <div class="ap-section-header">🚗 Mietwagen buchen</div>
+        <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+          <a class="hotel-btn booking-btn" href="${rcUrl}" target="_blank" rel="noopener">Rentalcars.com</a>
+          <a class="hotel-btn expedia-btn" href="${kayakUrl}" target="_blank" rel="noopener">Kayak</a>
+          <a class="hotel-btn" style="background:#003087;color:#fff;" href="${expediaUrl}" target="_blank" rel="noopener">Expedia</a>
+          <a class="hotel-btn" style="background:#2e7d32;color:#fff;" href="${econUrl}" target="_blank" rel="noopener">EconomyCarRentals</a>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+function buildResultsHtml(d, id) {
+  if (d.car_only) return buildCarOnlyHtml(d);
+
+  const hotelDest = d.outbound?.destination_intent || '';
+  const hotelCheckin = d.outbound?.recommended_date || '';
+  const hotelCheckout = d.return?.recommended_date || '';
+  const fmtExpedia = s => s ? s.replace(/(\d{4})-(\d{2})-(\d{2})/, '$2/$3/$1') : '';
+
+  const airportHtml = (airports, isReturn = false) => airports.map(a => {
+    const gt = a.ground_transport;
+    const groundHtml = gt ? (() => {
+      const dest = gt.destination || a.city;
+      const distLabel = gt.distance_km ? ` · ${gt.distance_km} km` : '';
+      const header = isReturn ? `🚗 ${dest} → ${a.code}${distLabel}` : `🚗 ${a.code} → ${dest}${distLabel}`;
+      const mapsOrigin = isReturn ? encodeURIComponent(dest) : encodeURIComponent(a.city + ' Airport');
+      const mapsDest = isReturn ? encodeURIComponent(a.city + ' Airport') : encodeURIComponent(dest);
+      const mapsUrl = `https://www.google.com/maps/dir/?api=1&origin=${mapsOrigin}&destination=${mapsDest}&travelmode=transit`;
+      return `<div class="ap-section green">
+        <div class="ap-section-header">${header}</div>
+        <div class="ap-section-body ground-btn-row">
+          <a class="ground-app-btn maps-btn" href="${mapsUrl}" target="_blank" rel="noopener">🗺 Google Maps ↗</a>
+        </div>
+      </div>`;
+    })() : '';
+
+    return `
+    <div class="airport-item">
+      <div class="airport-code">${a.code}</div>
+      <div style="flex:1">
+        <div class="airport-city">${a.city}</div>
+        <div class="airport-reason">${a.reason}</div>
+        ${(() => {
+          const origin = d.origin?.airport || '';
+          const outDate = d.outbound?.recommended_date || '';
+          const retDate = d.return?.recommended_date || '';
+          const leg1 = isReturn ? a.code : origin;
+          const leg2 = isReturn ? origin : a.code;
+          const fmtE = s => s ? s.replace(/(\d{4})-(\d{2})-(\d{2})/, '$2/$3/$1') : '';
+          const cabinE = { economy: 'coach', business: 'business', first: 'first' }[d.cabin?.toLowerCase()] || 'coach';
+          const flightDate = isReturn ? retDate : outDate;
+          const fromCity = isReturn ? (a.city || leg1) : (d.origin?.city || leg1);
+          const toCity = isReturn ? (d.origin?.city || leg2) : (a.city || leg2);
+          const dateStr = flightDate ? new Date(flightDate).toLocaleDateString('de-DE', { month: 'long', day: 'numeric', year: 'numeric' }) : '';
+          const gflQuery = `flights from ${fromCity} to ${toCity}${dateStr ? ' on ' + dateStr : ''}`;
+          const gflUrl = `https://www.google.com/travel/flights?q=${encodeURIComponent(gflQuery)}`;
+          const expUrl = retDate && !isReturn
+            ? `https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:${leg1},to:${leg2},departure:${fmtE(outDate)}TANYT&leg2=from:${leg2},to:${leg1},departure:${fmtE(retDate)}TANYT&passengers=adults:1&options=cabinclass:${cabinE}&mode=search`
+            : `https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:${leg1},to:${leg2},departure:${fmtE(flightDate)}TANYT&passengers=adults:1&options=cabinclass:${cabinE}&mode=search`;
+          const flightHeader = `✈ ${leg1} → ${leg2}`;
+
+          if (a.isRoundtripSameAirport) {
+            return `<div class="ap-section blue">
+              <div class="ap-section-header">${flightHeader}</div>
+              <div class="ap-section-body">
+                <div style="font-size:0.78rem;color:#94a3b8;padding:0.2rem 0 0.4rem;">Im Roundtrip-Preis bereits enthalten.</div>
+                <div class="flight-fallback-row">
+                  <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">🔍 Google Flights ↗</a>
+                  <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">🔍 Expedia ↗</a>
+                </div>
+              </div>
+            </div>`;
+          }
+
+          if (a.flights && a.flights.length > 0) {
+            return `<div class="ap-section blue">
+              <div class="ap-section-header">${flightHeader}</div>
+              <div class="ap-section-body">
+                <div class="flight-cards">
+                  ${a.flights.map(f => `
+                    <div class="flight-card">
+                      <div class="flight-card-top">
+                        <span class="flight-airline">✈ ${f.airline}</span>
+                        <span class="flight-price">€${f.price}</span>
+                      </div>
+                      <div class="flight-card-bottom">
+                        ${f.departure ? `<span>${f.departure}</span><span>→</span><span>${f.arrival}</span><span>·</span>` : ''}
+                        <span>${Math.floor(f.duration/60)}h${f.duration%60 ? f.duration%60+'m' : ''}</span>
+                        <span>·</span>
+                        <span class="${f.stops === 0 ? 'flight-nonstop' : ''}">${f.stops === 0 ? 'nonstop' : f.stops + ' stop'}</span>
+                      </div>
+                      <div class="flight-book-row">
+                        <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">Google Flights ↗</a>
+                        <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">Expedia ↗</a>
+                      </div>
+                    </div>
+                  `).join('')}
+                </div>
+              </div>
+            </div>`;
+          } else {
+            return `<div class="ap-section blue">
+              <div class="ap-section-header">${flightHeader}</div>
+              <div class="ap-section-body">
+                <div style="font-size:0.75rem;color:#94a3b8;margin-bottom:0.4rem;">Keine Live-Preise — direkt suchen:</div>
+                <div class="flight-fallback-row">
+                  <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">🔍 Google Flights ↗</a>
+                  <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">🔍 Expedia ↗</a>
+                </div>
+              </div>
+            </div>`;
+          }
+        })()}
+        ${groundHtml}
+        ${!isReturn && hotelDest ? (() => {
+          const cleanDest = gt?.destination || hotelDest;
+          const dest = encodeURIComponent(cleanDest);
+          const bookingUrl = `https://www.booking.com/searchresults.html?ss=${dest}${hotelCheckin ? `&checkin=${hotelCheckin}` : ''}${hotelCheckout ? `&checkout=${hotelCheckout}` : ''}&group_adults=2&no_rooms=1`;
+          const expediaUrl = `https://www.expedia.com/Hotel-Search?destination=${dest}${hotelCheckin ? `&startDate=${fmtExpedia(hotelCheckin)}` : ''}${hotelCheckout ? `&endDate=${fmtExpedia(hotelCheckout)}` : ''}&adults=2`;
+          return `<div class="ap-section purple">
+            <div class="ap-section-header">🏨 Hotels in ${cleanDest}</div>
+            <div class="ap-section-body">
+              <a class="hotel-btn booking-btn" href="${bookingUrl}" target="_blank" rel="noopener">Booking.com</a>
+              <a class="hotel-btn expedia-btn" href="${expediaUrl}" target="_blank" rel="noopener">Expedia</a>
+            </div>
+          </div>`;
+        })() : ''}
+        ${!isReturn && hotelCheckin && hotelCheckout ? (() => {
+          const fmtRC2 = s => { if (!s) return ''; const [y,m,d] = s.split('-'); return `${d}%2F${m}%2F${y}`; };
+          const pickupLoc = encodeURIComponent((a.city || '') + ' Airport');
+          const rcUrl = `https://www.rentalcars.com/SearchResults.do?addrFrom=${pickupLoc}&addrTo=${pickupLoc}&dateFrom=${fmtRC2(hotelCheckin)}&timeFrom=10%3A00&dateTo=${fmtRC2(hotelCheckout)}&timeTo=10%3A00&driverAge=30`;
+          const kayakUrl = `https://www.kayak.com/cars/${encodeURIComponent(a.city || '')}/${hotelCheckin}/${hotelCheckout}`;
+          return `<div class="ap-section orange">
+            <div class="ap-section-header">🚗 Mietwagen ab ${a.city}</div>
+            <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+              <a class="hotel-btn booking-btn" href="${rcUrl}" target="_blank" rel="noopener">Rentalcars.com</a>
+              <a class="hotel-btn expedia-btn" href="${kayakUrl}" target="_blank" rel="noopener">Kayak</a>
+            </div>
+          </div>`;
+        })() : ''}
+      </div>
+    </div>`;
+  }).join('');
+
+  const airportNames = {};
+  if (d.origin) airportNames[d.origin.airport] = d.origin.city + '/' + d.origin.country;
+  (d.outbound?.suggested_airports || []).forEach(a => airportNames[a.code] = a.city);
+  (d.return?.suggested_airports || []).forEach(a => airportNames[a.code] = a.city);
+  const codeName = code => airportNames[code] ? `${code} (${airportNames[code]})` : code;
+
+  const queriesHtml = (d.search_queries || []).map((q, i) => {
+    const [orig, dest] = q.route.split('-');
+    const dep = q.departure_date || (q.dates.match(/(\d{4}-\d{2}-\d{2})/g) || [])[0] || '';
+    const ret = q.return_date || (q.dates.match(/(\d{4}-\d{2}-\d{2})/g) || [])[1] || '';
+    const cabinExpedia = { economy:'coach', business:'business', first:'first', 'premium economy':'premiumcoach' };
+    const expCabin = cabinExpedia[(q.cabin || 'economy').toLowerCase()] || 'coach';
+    const fmtDate = s => s ? s.replace(/(\d{4})-(\d{2})-(\d{2})/, '$2/$3/$1') : '';
+    const expediaUrl = ret
+      ? `https://www.expedia.com/Flights-Search?trip=roundtrip&leg1=from:${orig},to:${dest},departure:${fmtDate(dep)}TANYT&leg2=from:${dest},to:${orig},departure:${fmtDate(ret)}TANYT&passengers=adults:1&options=cabinclass:${expCabin}&mode=search`
+      : `https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:${orig},to:${dest},departure:${fmtDate(dep)}TANYT&passengers=adults:1&options=cabinclass:${expCabin}&mode=search`;
+    return `
+    <a class="query-item query-link" href="${expediaUrl}" target="_blank" rel="noopener">
+      <div class="query-num">${i+1}</div>
+      <div>
+        <div class="query-route">${codeName(orig)} → ${codeName(dest)}</div>
+        <div class="query-meta">${q.cabin} · ${q.dates} · ${q.type}</div>
+      </div>
+      <div class="query-search">${t(zercyLang, 'searchArrow')}</div>
+    </a>`;
+  }).join('');
+
+  return `
+    <div class="summary-banner">
+      <div class="icon">🌍</div>
+      <div>
+        <div class="label">${t(zercyLang, 'zercyUnderstood')}</div>
+        <div class="text">${d.summary}</div>
+      </div>
+    </div>
+    <div class="grid-2">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-icon">🛫</div>
+          <div class="card-title">${t(zercyLang, 'outbound')}</div>
+        </div>
+        <div class="info-row"><span class="key">${t(zercyLang, 'from')}</span><span class="val">${d.origin ? d.origin.city + ' (' + d.origin.airport + ')' : t(zercyLang, 'notSpecified')}</span></div>
+        <div class="info-row"><span class="key">${t(zercyLang, 'cabin')}</span><span class="val">${d.cabin}</span></div>
+        <div class="info-row"><span class="key">${t(zercyLang, 'recommended')}</span><span class="val">${d.outbound?.recommended_date || d.outbound?.latest_date || t(zercyLang, 'flexibility')}</span></div>
+        <div class="info-row"><span class="key">${t(zercyLang, 'dateTip')}</span><span class="val">${d.outbound?.date_reasoning || ''}</span></div>
+        <div class="info-row"><span class="key">${t(zercyLang, 'nonstop')}</span><span class="val">${d.outbound?.nonstop_preferred ? t(zercyLang, 'preferred') : t(zercyLang, 'flexibility')}</span></div>
+        <div class="airports-section">
+          <div class="airports-label">${t(zercyLang, 'bestAirportsNear')} "${d.outbound?.destination_intent || ''}"</div>
+          ${airportHtml(d.outbound?.suggested_airports || [], false)}
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <div class="card-icon">🛬</div>
+          <div class="card-title">${t(zercyLang, 'returnTrip')}</div>
+        </div>
+        <div class="info-row"><span class="key">${t(zercyLang, 'timeframe')}</span><span class="val">${d.return?.timeframe || t(zercyLang, 'flexibility')}</span></div>
+        <div class="info-row"><span class="key">${t(zercyLang, 'recommended')}</span><span class="val">${d.return?.recommended_date || t(zercyLang, 'flexibility')}</span></div>
+        <div class="info-row"><span class="key">${t(zercyLang, 'flexibility')}</span><span class="val">${d.return?.flexibility || 'open'}</span></div>
+        <div class="info-row"><span class="key">${t(zercyLang, 'nonstop')}</span><span class="val">${d.return?.nonstop_preferred ? t(zercyLang, 'preferred') : t(zercyLang, 'flexibility')}</span></div>
+        <div class="airports-section">
+          <div class="airports-label">${t(zercyLang, 'bestAirportsFrom')} "${d.return?.origin_intent || 'destination'}"</div>
+          ${airportHtml(d.return?.suggested_airports || [], true)}
+        </div>
+      </div>
+    </div>
+    ${turnCount > 1 ? `<div style="text-align:right; margin-top:-0.3rem;">
+      <a href="#" onclick="scrollToTop(document.getElementById('plan-turn-1'));return false;" style="font-size:0.75rem;color:#94a3b8;text-decoration:none;font-weight:600;">${t(zercyLang, 'backToResults')}</a>
+    </div>` : ''}
+    <div class="refinement-section">
+      <div class="refinement-label">${t(zercyLang, 'refineSearch')}</div>
+      <div class="answer-chips" style="margin-bottom:0.8rem;">
+        ${(t(zercyLang, 'refineChips') || []).map(chip =>
+          `<button class="answer-chip" onclick="this.classList.toggle('selected')">${chip}</button>`
+        ).join('')}
+      </div>
+      <div class="followup-row">
+        <textarea id="followup-${id}" placeholder="${t(zercyLang, 'refinePlaceholder')}" rows="2"></textarea>
+        <button class="tell-zercy-btn" onclick="tellZercy('followup-${id}', ${id})">${t(zercyLang, 'tellZercyBtn')}</button>
+      </div>
+      <div class="zercy-ack-bubbles" id="zercy-ack-${id}"></div>
+      <div class="search-divider">${t(zercyLang, 'searchDivider')}</div>
+      <button class="research-btn" onclick="parseIntent(lastIntent)">${t(zercyLang, 'researchBtn')}</button>
+    </div>
+  `;
+}
+
+function showChatWidget(destination, checkin, checkout, tripData, insights) {
+  chatDestination = destination || '';
+  chatCheckin = checkin || '';
+  chatCheckout = checkout || '';
+  if (tripData) chatTripContext = tripData;
+  const wrapper = document.getElementById('zercyFloatWrapper');
+  if (wrapper) wrapper.style.display = 'flex';
+  const eyebrow = document.getElementById('floatEyebrow');
+  if (eyebrow) eyebrow.textContent = t(zercyLang, 'floatEyebrow');
+  if (insights && insights.length) {
+    insights.forEach(i => { if (i && !allInsights.includes(i)) allInsights.push(i); });
+    const insightsList = document.getElementById('float-insights-list');
+    const insightsSec = document.getElementById('float-insights-section');
+    if (insightsList) {
+      insightsList.innerHTML = allInsights.map(i =>
+        `<div class="float-insight-item"><span class="float-insight-bullet">💡</span><span>${i}</span></div>`
+      ).join('');
+    }
+    if (insightsSec) insightsSec.style.display = 'block';
+  }
+  const btnLabel = document.getElementById('floatBtnLabel');
+  if (btnLabel) {
+    const hasInsights = allInsights.length > 0;
+    if (destination && hasInsights) {
+      btnLabel.textContent = `${t(zercyLang, 'floatKnowsMore')} ${destination}`;
+    } else {
+      btnLabel.textContent = `${t(zercyLang, 'floatHotelsLabel')}${destination ? ' — ' + destination : ''}`;
+    }
+  }
+  const title = document.getElementById('floatPanelTitle');
+  const ctx = document.getElementById('floatPanelContext');
+  if (title) title.textContent = t(zercyLang, 'chatHeader');
+  if (ctx) ctx.textContent = destination
+    ? `${t(zercyLang, 'floatCtxLabel')} ${destination} ${t(zercyLang, 'floatCtxSuffix')}`
+    : t(zercyLang, 'chatSub');
+}
+
+function toggleFloatPanel() {
+  const panel = document.getElementById('zercyFloatPanel');
+  if (!panel) return;
+  const isOpen = panel.classList.contains('open');
+  if (isOpen) {
+    panel.classList.remove('open');
+  } else {
+    panel.classList.add('open');
+    const chips = t(zercyLang, 'chatChips');
+    const container = document.getElementById('chat-suggestions');
+    if (container && Array.isArray(chips)) {
+      container.innerHTML = chips.map(chip =>
+        `<span class="chat-chip" onclick="sendChatSuggestion(this.innerText)">${chip}</span>`
+      ).join('');
+    }
+    setTimeout(() => document.getElementById('chat-input')?.focus(), 150);
+  }
+}
+
+function addChatMessage(text, role) {
+  const el = document.getElementById('chat-messages');
+  const msg = document.createElement('div');
+  msg.className = 'chat-msg ' + role;
+  msg.innerHTML = text.replace(/\n/g, '<br>');
+  el.appendChild(msg);
+  el.scrollTop = el.scrollHeight;
+  return msg;
+}
+
+async function sendChat() {
+  const input = document.getElementById('chat-input');
+  const message = input.value.trim();
+  if (!message) return;
+  input.value = '';
+  addChatMessage(message, 'user');
+  const typing = addChatMessage(t(zercyLang, 'chatTyping'), 'zercy typing');
+  try {
+    const res = await fetch('/api/chat', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        message, history: chatHistory,
+        destination: chatDestination, checkin: chatCheckin, checkout: chatCheckout,
+        tripContext: chatTripContext ? {
+          origin: chatTripContext.origin,
+          destination_intent: chatTripContext.outbound?.destination_intent,
+          cabin: chatTripContext.cabin,
+          outbound_date: chatTripContext.outbound?.recommended_date,
+          return_date: chatTripContext.return?.recommended_date,
+          summary: chatTripContext.summary
+        } : null,
+        planContext: {
+          userIntent: lastIntent,
+          narrative: currentPlanData?.narrative,
+          smartInsights: currentPlanData?.smart_insights,
+          understood: currentPlanData?.understood,
+          planNote: currentPlanData?.zercy_plan_note
+        }
+      })
+    });
+    const data = await res.json();
+    typing.remove();
+    addChatMessage(data.reply, 'zercy');
+    chatHistory.push({ role: 'user', content: message });
+    chatHistory.push({ role: 'assistant', content: data.reply });
+  } catch {
+    typing.remove();
+    addChatMessage(t(zercyLang, 'chatError'), 'zercy');
+  }
+}
+
+function sendChatSuggestion(text) {
+  document.getElementById('chat-input').value = text;
+  sendChat();
+}
+
+async function tellZercy(inputId, turnId) {
+  const el = document.getElementById(inputId);
+  if (!el) return;
+  const section = el.closest('.refinement-section');
+  const selectedChips = [...section.querySelectorAll('.answer-chip.selected')].map(c => c.textContent);
+  const typedText = el.value.trim();
+  const allInput = [...selectedChips, typedText].filter(Boolean).join(', ');
+  if (!allInput) return;
+  lastIntent = lastIntent + '. Additional: ' + allInput;
+  zercyAdditions.push(allInput);
+  el.value = '';
+  section.querySelectorAll('.answer-chip.selected').forEach(c => c.classList.remove('selected'));
+  const bubbles = document.getElementById('zercy-ack-' + turnId);
+  const typing = document.createElement('div');
+  typing.className = 'zercy-ack-bubble typing';
+  typing.innerHTML = `<div class="reply-orb"></div><span>${t(zercyLang, 'chatTyping')}</span>`;
+  bubbles.appendChild(typing);
+  bubbles.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  try {
+    const res = await fetch('/api/think', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ intent: zercyOriginalIntent, mode: 'respond', context: lastIntent, addition: allInput })
+    });
+    const data = await res.json();
+    typing.remove();
+    const bubble = document.createElement('div');
+    bubble.className = 'zercy-ack-bubble';
+    bubble.innerHTML = `<div class="reply-orb"></div><span>${data.reply || '...'}</span>`;
+    bubbles.appendChild(bubble);
+    bubbles.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  } catch { typing.remove(); }
+}
+
+function newSearch() {
+  document.getElementById('conversation').innerHTML = '';
+  document.getElementById('intent').value = '';
+  document.getElementById('newSearchBtn').style.display = 'none';
+  const heroEl = document.getElementById('hero');
+  if (heroEl) heroEl.classList.remove('compact');
+  const wrapper = document.getElementById('zercy-results-wrapper');
+  if (wrapper) wrapper.style.display = 'none';
+  const floatBtn = document.getElementById('zercyFloatWrapper');
+  if (floatBtn) floatBtn.style.display = 'none';
+  const floatPanel = document.getElementById('zercyFloatPanel');
+  if (floatPanel) floatPanel.classList.remove('open');
+  document.getElementById('chat-messages').innerHTML = '';
+  chatHistory = [];
+  turnCount = 0;
+  lastIntent = '';
+  zercyAnswers = {};
+  zercyAdditions = [];
+  zercyTextAnswers = {};
+  zercyOriginalIntent = '';
+  currentPlanData = null;
+  zercyLang = window.__ZERCY_LANG__ || 'de';
+  allInsights = [];
+  const insightsSec = document.getElementById('float-insights-section');
+  const insightsList = document.getElementById('float-insights-list');
+  if (insightsSec) insightsSec.style.display = 'none';
+  if (insightsList) insightsList.innerHTML = '';
+  applyLanguageToStaticUI(window.__ZERCY_LANG__ || 'de');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  setTimeout(() => document.getElementById('intent')?.focus(), 400);
+}
+
+// ── TYPEWRITER + AVATAR ANIMATION ──
+(function() {
+  const phrases = window.__ZERCY_PHRASES__ || ['Just type your destination...'];
+  let phraseIndex = 0, charIndex = 0, isDeleting = false, timer = null, stopped = false;
+  function typeStep() {
+    if (stopped) return;
+    const input = document.getElementById('intent');
+    if (!input || input.value !== '') return;
+    const current = phrases[phraseIndex];
+    if (!isDeleting) {
+      charIndex++;
+      input.placeholder = current.substring(0, charIndex);
+      if (charIndex === current.length) { timer = setTimeout(() => { isDeleting = true; typeStep(); }, 2200); return; }
+      timer = setTimeout(typeStep, 55);
+    } else {
+      charIndex--;
+      input.placeholder = current.substring(0, charIndex);
+      if (charIndex === 0) { isDeleting = false; phraseIndex = (phraseIndex + 1) % phrases.length; timer = setTimeout(typeStep, 400); return; }
+      timer = setTimeout(typeStep, 28);
+    }
+  }
+  setTimeout(typeStep, 1200);
+  window.addEventListener('load', () => {
+    const input = document.getElementById('intent');
+    if (input) {
+      input.addEventListener('focus', () => { stopped = true; clearTimeout(timer); input.placeholder = ''; });
+      input.addEventListener('input', () => {
+        const btn = document.getElementById('searchBtn');
+        if (!btn) return;
+        if (input.value.trim().length > 0) { btn.classList.add('btn-pulse'); }
+        else { btn.classList.remove('btn-pulse'); }
+      });
+    }
+  });
+})();
+
+// Query item styles
+const style = document.createElement('style');
+style.textContent = `
+  .queries-card { background: white; border-radius: 18px; padding: 1.4rem; margin-bottom: 1rem; box-shadow: 0 2px 16px rgba(99,102,241,0.07); }
+  .query-item { display: flex; align-items: center; gap: 0.8rem; padding: 0.75rem; background: #fafbff; border: 1.5px solid #e8ecf8; border-radius: 12px; margin-bottom: 0.5rem; font-size: 0.83rem; transition: border-color 0.2s; }
+  .query-item:last-child { margin-bottom: 0; }
+  .query-item:hover { border-color: #6366f1; }
+  .query-link { text-decoration: none; color: inherit; cursor: pointer; }
+  .query-search { margin-left: auto; color: #6366f1; font-weight: 600; font-size: 0.85rem; white-space: nowrap; }
+  .query-num { background: linear-gradient(135deg, #0ea5e9, #6366f1); color: white; font-size: 0.65rem; font-weight: 700; width: 20px; height: 20px; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .query-route { font-weight: 700; color: #4f46e5; }
+  .query-meta { color: #94a3b8; font-size: 0.78rem; margin-top: 0.1rem; }
+`;
+document.head.appendChild(style);
+</script>
