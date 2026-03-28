@@ -78,6 +78,34 @@ const canonicalUrl = `https://zercy.app/blog/${post.id}`;
   <meta property="og:description" content={post.data.description} />
   <meta property="og:url" content={canonicalUrl} />
   <meta property="og:type" content="article" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": post.data.title,
+    "description": post.data.description,
+    "url": canonicalUrl,
+    "datePublished": post.data.pubDate.toISOString(),
+    "dateModified": post.data.pubDate.toISOString(),
+    "inLanguage": "de",
+    "author": {
+      "@type": "Person",
+      "name": "Christine Bork",
+      "url": "https://zercy.app/about"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Zercy",
+      "url": "https://zercy.app",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://zercy.app/favicon-32.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": canonicalUrl
+    }
+  })}></script>
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
