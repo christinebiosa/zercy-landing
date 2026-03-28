@@ -17,7 +17,7 @@ Der Jakobsweg ist kein einzelner Weg. Es gibt Dutzende Routen, die alle in der K
 
 **Camino Francés** ist die klassische Route. 780 Kilometer von Saint-Jean-Pied-de-Port in Frankreich durch Nordspanien. Vier bis sechs Wochen Fußmarsch. Die bekannteste, beliebteste, vollste Route.
 
-**Camino Portugués** beginnt in Lissabon oder Porto. Die Route von Porto aus ist nur 240 Kilometer — machbar in 10–12 Tagen. Beliebt bei denen, die nicht einen Monat Zeit haben.
+**Camino Portugués** beginnt in Lissabon oder Porto. Die Route von Porto aus ist nur 240 Kilometer — machbar in 10–12 Tagen. Beliebt bei denen, die nicht einen Monat Zeit haben. Wer umweltbewusst anreisen will: Porto ist bequem [mit dem Zug](/blog/zugreisen-europa) erreichbar.
 
 **Camino del Norte** entlang der Nordküste ist wilder, schöner, einsamer. Nicht für Anfänger, aber für alle, die echte Stille suchen.
 
@@ -54,3 +54,5 @@ Flug nach Santiago de Compostela (SCQ) oder nach A Coruña (LCG, eine Stunde ent
 Wer nach Santiago fliegt, nimmt sich selten nur die Stadt. Galicien ist grün, feucht, atlantisch. Nichts wie der Rest Spaniens. Und genau das macht es so besonders.
 
 Zercy findet dir den besten Flug dorthin — und wenn du den Jakobsweg planst, hilft Zercy dir auch mit Anreise und Logistik.
+
+**Mehr lesen:** [Mit dem Zug durch Europa](/blog/zugreisen-europa) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck) · [Boutique-Hotels: Warum kleine Hotels besser sind](/blog/boutique-hotels)

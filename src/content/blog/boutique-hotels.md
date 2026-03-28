@@ -32,7 +32,7 @@ In einem 40-Zimmer-Hotel wissen sie nach einem Tag, wie du deinen Kaffee trinkst
 Viele Boutique-Hotels wurden mit echtem Aufwand gestaltet. Alte Fliesen, handgemachte Möbel, Kunstwerke von lokalen Künstlern. Das Zimmer ist kein Produkt — es ist ein Erlebnis.
 
 **Lage die überrascht**
-Boutique-Hotels sitzen oft in Stadtteilen, die große Ketten meiden. Genau dort, wo das wirkliche Leben der Stadt stattfindet.
+Boutique-Hotels sitzen oft in Stadtteilen, die große Ketten meiden. Genau dort, wo das wirkliche Leben der Stadt stattfindet. Besonders in [weniger bekannten Reisezielen](/blog/geheimtipps-europa) sind die kleinen Hotels oft die besten.
 
 ## Wo man sie findet
 
@@ -54,3 +54,5 @@ Ein kleines Hotel mit Charakter schlägt jeden Marriott.
 ---
 
 Zercy findet dir nicht nur Flüge — beim Reise planen denkt Zercy auch an die Unterkunft und gibt dir relevante Buchungslinks direkt mit.
+
+**Mehr lesen:** [7 Geheimtipps in Europa](/blog/geheimtipps-europa) · [Santiago de Compostela & Jakobsweg](/blog/santiago-de-compostela) · [Mit dem Zug durch Europa](/blog/zugreisen-europa)

@@ -19,7 +19,7 @@ Kein Geheimnis mehr, aber immer noch wahr.
 
 ## 2. Frühbucher gewinnen — aber nicht immer
 
-Die Faustregel: Europareisen 6–8 Wochen vorher buchen, Langstrecke 3–6 Monate vorher. Aber Achtung: Airlines verkaufen die ersten Sitze günstig, dann teurer, dann — wenn Plätze leer bleiben — wieder günstiger.
+Die Faustregel: Europareisen 6–8 Wochen vorher buchen, Langstrecke 3–6 Monate vorher. Genauere Zeitfenster nach Streckentyp erklärt unser Artikel [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen). Aber Achtung: Airlines verkaufen die ersten Sitze günstig, dann teurer, dann — wenn Plätze leer bleiben — wieder günstiger.
 
 Der sweet spot liegt selten am Tag der Buchungsöffnung.
 
@@ -56,3 +56,5 @@ Was definitiv hilft: verschiedene Geräte, VPN aus anderen Ländern, mehrere Pla
 Das Muster hinter all diesen Tipps: Flexibilität hat einen Geldwert. Je flexibler du bist — bei Datum, Uhrzeit, Flughafen — desto günstiger wirst du reisen.
 
 Zercy hilft dir, genau diese Flexibilität zu nutzen. Einfach deine Idee eingeben, und Zercy rechnet die Optionen durch — ohne dass du sieben Tabs offen haben musst.
+
+**Mehr lesen:** [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen) · [7 Flughafen-Tricks die Zeit sparen](/blog/airport-hacks) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck)

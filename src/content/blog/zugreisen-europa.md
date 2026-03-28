@@ -33,7 +33,7 @@ Unter dem Ärmelkanal hindurch. Einmal aus Amsterdam, einmal aussteigen in Londo
 
 ### 5. Budapest — Prag — Berlin (Nachtzug)
 
-Der Nachtzug von Budapest über Wien, Prag nach Berlin — ein Klassiker der wiedergeboren ist. Einsteigen am Abend, aufwachen im Zielbahnhof. Ein Hotel und ein Transportmittel in einem.
+Der Nachtzug von Budapest über Wien, Prag nach Berlin — ein Klassiker der wiedergeboren ist. Wer diese Route fährt, entdeckt unterwegs auch einige der [schönsten Geheimtipps Europas](/blog/geheimtipps-europa). Einsteigen am Abend, aufwachen im Zielbahnhof. Ein Hotel und ein Transportmittel in einem.
 
 ## Wann der Zug nicht funktioniert
 
@@ -44,3 +44,5 @@ Aber für Städtetrips in Europa? Erst nach dem Zug schauen, dann nach dem Flug.
 ---
 
 Zercy kennt den Unterschied und gibt dir ehrliche Empfehlungen — auch wenn es mal heißt: nimm den Zug.
+
+**Mehr lesen:** [7 Geheimtipps in Europa](/blog/geheimtipps-europa) · [Boutique-Hotels: Warum kleine Hotels besser sind](/blog/boutique-hotels) · [Santiago de Compostela & Jakobsweg](/blog/santiago-de-compostela)

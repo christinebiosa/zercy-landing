@@ -41,7 +41,7 @@ Dashboard, Sitze, Verkleidungen. Auch Innenraumschäden können dir später ange
 
 ### 7. Die Versicherungsbedingungen nochmal lesen
 
-Was ist der Selbstbehalt? Gilt die Versicherung auch für Unterboden- und Dachschäden? Viele Standardversicherungen schließen genau das aus.
+Was ist der Selbstbehalt? Viele Kreditkarten bieten Mietwagen-Versicherungsschutz — prüfe das, bevor du am Schalter aufpreisige Pakete kaufst. Ähnlich wie beim [Lounge-Zugang am Flughafen](/blog/airport-hacks) lohnt sich die Recherche vorab. Gilt die Versicherung auch für Unterboden- und Dachschäden? Viele Standardversicherungen schließen genau das aus.
 
 ### 8. GPS und Infotainment testen
 
@@ -65,3 +65,5 @@ Pannenhilfe, Unfallmeldung, Schlüsselverlust — die Nummer sollte in deinem Te
 ---
 
 Mietwagen richtig buchen und prüfen spart echtes Geld. Zercy hilft dir, den besten Mietwagen für dein Reiseziel zu finden — direkt beim Flug mitbuchen.
+
+**Mehr lesen:** [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck) · [Costa Rica: Surfen & Pura Vida](/blog/costa-rica-surfen)

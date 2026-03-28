@@ -34,7 +34,7 @@ Das ist der Unterschied zwischen einer Suchmaschine und einem Berater.
 
 ## Wo KI noch Grenzen hat
 
-KI ist kein Allwisser. Sie kann Reiseideen entwickeln, Optionen vorschlagen und Zusammenhänge erklären. Aber sie kann keine Garantien geben.
+KI ist kein Allwisser. Sie kann Reiseideen entwickeln, Optionen vorschlagen und Zusammenhänge erklären. Aber sie kann keine Garantien geben. Flugpreise hängen von vielen Faktoren ab — mehr dazu in unserem Artikel [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen).
 
 Flugpreise ändern sich in Echtzeit. KI-Antworten können veraltet sein. Visa-Anforderungen ändern sich. Immer die offizielle Quelle prüfen, bevor du buchst.
 
@@ -53,3 +53,5 @@ Reiseplanung wird zu einem Gespräch. Einem, das du gewinnen kannst.
 Zercy ist genau das: ein Gespräch. Kein Formular, keine Pflichtfelder. Du erzählst deine Reiseidee — Zercy denkt mit, fragt nach, und liefert echte Optionen mit Live-Preisen.
 
 Kostenlos. Kein Konto. Einfach loslegen.
+
+**Mehr lesen:** [Günstig fliegen: 7 Tricks die Vielflieger kennen](/blog/guenstig-fliegen-tipps) · [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen) · [7 Geheimtipps in Europa](/blog/geheimtipps-europa)

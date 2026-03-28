@@ -39,7 +39,7 @@ Dasselbe Ziel. Komplett andere Erfahrung.
 
 ## 5. Ohrid, Nordmazedonien
 
-Ein UNESCO-See, eine Altstadt mit byzantinischen Kirchen, Berge im Hintergrund. Weniger als 4 Flugstunden von Deutschland. Kaum Massentourismus. Fisch direkt am Seeufer essen für 8 Euro.
+Ein UNESCO-See, eine Altstadt mit byzantinischen Kirchen, Berge im Hintergrund. Für solche Ziele lohnt sich oft ein [Boutique-Hotel](/blog/boutique-hotels) statt einer Kette. Weniger als 4 Flugstunden von Deutschland. Kaum Massentourismus. Fisch direkt am Seeufer essen für 8 Euro.
 
 ## 6. Évora, Portugal
 
@@ -56,3 +56,5 @@ Flug ab Frankfurt oder Wien. Rund 4 Stunden. Oft günstig.
 ---
 
 Die Welt hat mehr Orte als Instagram-Top-10-Listen vermuten lassen. Zercy hilft dir, die Flüge dorthin zu finden — auch wenn es etwas ungewöhnlicher wird.
+
+**Mehr lesen:** [Boutique-Hotels: Warum kleine Hotels besser sind](/blog/boutique-hotels) · [Mit dem Zug durch Europa](/blog/zugreisen-europa) · [Tropisches Costa Rica: Surfen & Pura Vida](/blog/costa-rica-surfen)

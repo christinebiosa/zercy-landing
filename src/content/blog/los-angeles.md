@@ -42,7 +42,7 @@ Los Angeles ist nicht eine Stadt. Es sind zwanzig Städte, die sich einen Namen 
 ## Praktisches
 
 - **Direktflüge** ab Frankfurt, München, Zürich nach LAX (ca. 11–12 Stunden)
-- **Ohne Mietwagen geht nichts.** Oder fast nichts. Uber ist teuer, Busse existieren theoretisch.
+- **Ohne Mietwagen geht nichts.** Oder fast nichts. Uber ist teuer, Busse existieren theoretisch. Lies vorher unbedingt unseren [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check).
 - **Mindestens 7 Tage**, besser 10. Für alles braucht man Zeit.
 - **Beste Reisezeit**: Mai–Oktober. Winters sind mild, aber Junimorgen sind oft bewölkt (June Gloom).
 
@@ -59,3 +59,5 @@ Jeder Besuch fühlt sich wie ein Ausschnitt an. Ein guter Ausschnitt. Aber man w
 Los Angeles ist viel. Zu viel, um es in einen Besuch zu packen. Aber genau das macht es so gut.
 
 Zercy hilft dir, die besten Flüge nach LAX zu finden — und wenn du willst, auch gleich Mietwagen und Hotel für deinen L.A.-Trip.
+
+**Mehr lesen:** [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check) · [Business Class: Wann sie sich lohnt](/blog/business-class) · [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps)

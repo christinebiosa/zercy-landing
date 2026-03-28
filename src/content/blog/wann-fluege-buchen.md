@@ -42,7 +42,7 @@ Hier ist die Preisspanne am größten. Dubai-Flüge können zwischen 300 und 900
 ## Was den Preis noch beeinflusst
 
 **Wochentag des Abflugs**
-Freitag und Sonntag sind teuer. Dienstag und Mittwoch sind günstig. Das gilt für fast alle Strecken.
+Freitag und Sonntag sind teuer. Dienstag und Mittwoch sind günstig. Das gilt für fast alle Strecken. Weitere Tricks zum günstigeren Buchen findest du in unserem Artikel [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps).
 
 **Uhrzeit**
 Frühmorgendliche und spätabendliche Flüge sind weniger begehrt — und günstiger. 6-Uhr-Flüge schrecken viele ab. Nutze das.
@@ -64,3 +64,5 @@ Bei Familienreisen oder gebuchten Hotels: Vergiss Last-Minute. Der potenzielle P
 Die kurze Zusammenfassung: Buche Kurzstrecken 6–10 Wochen vorher, Langstrecken 3–5 Monate vorher. Vermeide Freitag und Sonntag als Abflugtage. Und sei flexibel — ein einziger freier Reisetag kann hundert Euro wert sein.
 
 Zercy berücksichtigt all das automatisch. Wenn du "Tokio im November" eingibst, berechnet Zercy, welche Tage und Flughäfen die günstigsten Optionen bieten — ohne dass du selbst vergleichen musst.
+
+**Mehr lesen:** [Günstig fliegen: 7 Tricks die Vielflieger kennen](/blog/guenstig-fliegen-tipps) · [Business Class: Wann sie sich lohnt](/blog/business-class) · [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks)

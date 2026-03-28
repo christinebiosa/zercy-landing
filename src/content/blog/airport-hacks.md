@@ -19,7 +19,7 @@ Die meisten Reisenden kennen nur den Hauptsicherheitsbereich. Größere Flughäf
 
 ## 3. Lounge-Zugang für alle
 
-Business-Class-Ticket ist nicht nötig. Viele Kreditkarten mit Reise-Zusatzleistungen (z.B. Amex Platinum, bestimmte Miles & More Karten) geben Lounge-Zugang. Priority Pass kostet Jahresgebühr, lohnt sich ab 6–8 Flügen pro Jahr.
+Business-Class-Ticket ist nicht nötig. Viele Kreditkarten mit Reise-Zusatzleistungen (z.B. Amex Platinum, bestimmte Miles & More Karten) geben Lounge-Zugang. Mehr dazu in unserem Artikel [Business Class: Wann sie sich wirklich lohnt](/blog/business-class). Priority Pass kostet Jahresgebühr, lohnt sich ab 6–8 Flügen pro Jahr.
 
 Lounges bedeuten: ruhige Sitze, kostenloses Essen, stabiles WLAN, manchmal Duschen.
 
@@ -29,7 +29,7 @@ Oft werden Upgrades am Gate vergeben — kostenlos oder sehr günstig — wenn d
 
 ## 5. Handgepäck-Maße ernst nehmen
 
-Nicht weil die Regel streng ist — sondern weil du sonst am Gate aufgehalten wirst und dein Gepäck aufgegeben werden muss. Das kostet Zeit, manchmal Geld, immer Nerven.
+Nicht weil die Regel streng ist — sondern weil du sonst am Gate aufgehalten wirst und dein Gepäck aufgegeben werden muss. In unserem Artikel [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck) erfährst du, wie überraschend viel reinpasst. Das kostet Zeit, manchmal Geld, immer Nerven.
 
 ## 6. Wasser nach der Security kaufen — aber klug
 
@@ -42,3 +42,5 @@ Wer auf einer Reise aus dem Ausland zurückkommt, checkt oft nicht rechtzeitig e
 ---
 
 Der entspannteste Teil einer Reise ist der, der vorbereitet ist. Zercy hilft dir mit der Planung davor — damit am Flughafen selbst nichts mehr schief geht.
+
+**Mehr lesen:** [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps) · [Wann Flüge buchen](/blog/wann-fluege-buchen) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck)

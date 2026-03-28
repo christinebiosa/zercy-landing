@@ -35,7 +35,7 @@ Je nach Airline und Strecke sehr unterschiedlich. Aber der Standard auf Langstre
 ## Wie man günstiger in die Business Class kommt
 
 **Meilen und Punkte**
-Miles & More, Flying Blue, British Airways Avios — wer regelmäßig fliegt und seine Meilen nicht ignoriert, kann damit Business Class Langstrecke deutlich unter Listenpreis buchen.
+Miles & More, Flying Blue, British Airways Avios — wer regelmäßig fliegt und seine Meilen nicht ignoriert, kann damit Business Class Langstrecke deutlich unter Listenpreis buchen. Wie du generell günstiger buchst, erklären wir in [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps).
 
 **Upgrade am Gate**
 Kurz vor Abflug fragen, ob ein Upgrade verfügbar ist. Manchmal gibt es sie für 200–400 Euro auf Strecken, wo der Listenpreis 3.000 Euro beträgt.
@@ -53,3 +53,5 @@ Viele Airlines (Lufthansa, Swiss, KLM) bieten Upgrade-Auktionen an. Man gibt ein
 ---
 
 Die Frage ist nicht ob Business Class besser ist — sie ist es fast immer. Die Frage ist ob sie den konkreten Aufpreis wert ist. Zercy kann dir direkt zeigen, was Business Class auf deiner Wunschstrecke kostet und wo der Unterschied klein genug ist.
+
+**Mehr lesen:** [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen) · [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks) · [L.A. Baby: Los Angeles lohnt sich immer](/blog/los-angeles)

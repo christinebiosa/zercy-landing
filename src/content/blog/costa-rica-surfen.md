@@ -43,7 +43,7 @@ Die Karibikküste funktioniert umgekehrt: Dort ist September und Oktober die bes
 
 - **Direktflüge** ab Frankfurt nach San José (ca. 11–12 Stunden)
 - **Bestes Basiscamp**: San José nur als Durchgangsstation, direkt weiter zur Küste
-- **Mietwagen**: Fast überall empfehlenswert — öffentlicher Nahverkehr geht, Mietwagen macht mehr möglich
+- **Mietwagen**: Fast überall empfehlenswert — öffentlicher Nahverkehr geht, Mietwagen macht mehr möglich. Lies vorher unseren [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check)
 - **Budget**: Costa Rica ist Mittelamerika-teuer. Nicht Mexiko-Preise. Gute Unterkünfte kosten, lohnen sich aber.
 
 ---
@@ -51,3 +51,5 @@ Die Karibikküste funktioniert umgekehrt: Dort ist September und Oktober die bes
 Costa Rica ist kein Urlaub, den man vergisst. Es ist einer, der etwas verändert.
 
 Zercy hilft dir, den besten Flug dorthin zu finden — und wenn du willst, auch gleich den Mietwagen. Einfach eintippen, was du dir vorstellst.
+
+**Mehr lesen:** [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck) · [7 Geheimtipps in Europa abseits der Massen](/blog/geheimtipps-europa)

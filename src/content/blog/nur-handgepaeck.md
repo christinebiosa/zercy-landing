@@ -39,6 +39,8 @@ Ladekabel zusammenrollen und in ein kleines Täschchen. Universaladapter wenn n�
 
 ## Die 100ml-Regel clever nutzen
 
+Tipp: Mit einem gut gepackten Rucksack sparst du auch am Flughafen Zeit — mehr dazu in unserem Artikel [7 Flughafen-Tricks](/blog/airport-hacks).
+
 Flüssigkeiten im Handgepäck: maximal 100ml pro Behälter, alles in einem transparenten 1-Liter-Beutel. Kaufe kleine Reisebehälter und fülle sie um. Shampoo, Duschgel, Sonnencreme — alles bekommst du auch am Reiseziel.
 
 ## Welche Rucksäcke funktionieren
@@ -48,3 +50,5 @@ Nicht jeder Rucksack passt in jede Gepäckkontrolle. Empfehlenswert: Modelle die
 ---
 
 Einmal Handgepäck-only ausprobiert und du packst nie wieder einen Koffer für Kurztrips. Zercy zeigt dir beim Flug suchen direkt, welche Airlines Handgepäck im Basisticket einschließen.
+
+**Mehr lesen:** [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks) · [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps) · [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check)
