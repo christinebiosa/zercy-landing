@@ -34,11 +34,14 @@ Das AI-Tool (Repo: cerci-demo) läuft live auf app.zercy.app.
 - **API-Funktionen:** `/api/think.js`, `/api/parse.js`, `/api/chat.js`, `/api/zercy-identity.js`
 - **Node:** >=22.12.0
 
-## Deploy
+## Deploy (IMMER alle 3 Schritte, IMMER!)
 ```bash
 cd /Users/christinebork/Desktop/zercy-landing
+npx astro build
 npx vercel --prod --force
+git add -A && git commit -m "Beschreibung der Änderung" && git push
 ```
+**NIEMALS** nur Vercel deployen ohne Git-Push. GitHub MUSS immer synchron sein mit dem was live ist. Nicht fragen ob gepusht werden soll — einfach machen. Das ist Teil des Deployments.
 
 ## Domain-Struktur
 - `zercy.app` → Landing Page (dieses Repo)
