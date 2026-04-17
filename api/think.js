@@ -1,6 +1,6 @@
 const Anthropic = require('@anthropic-ai/sdk');
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-const { getZercySystemPrompt } = require('./zercy-identity');
+const { getZercySystemPrompt } = require('./_zercy-identity');
 
 function extractJson(raw) {
   raw = raw.replace(/^```json\s*/i, '').replace(/^```\s*/i, '').replace(/```\s*$/i, '').trim();
@@ -57,7 +57,13 @@ async function searchCurrentRoutes(intent) {
   if (!process.env.SERPAPI_KEY) return null;
   try {
     // Build a targeted search query from the intent
-    const query = `nonstop direct flights ${intent.replace(/['"]/g, '')} 2026 airlines route`;
+    const normalized = intent.replace(/['"]/g, '')
+      .replace(/\b(ich|will|möchte|gerne|bitte|nach|von|am|im|mit|und|oder|für|eine|einen|ein|der|die|das|dem|den|des|kein|nur|direkt|günstig|buchen|fliegen|flug|flüge|zu|aus|ab|bei|über|durch)\b/gi, ' ')
+      .replace(/\b(je|veux|voudrais|aller|depuis|vers|avec|pour|et|ou|vol|vols|un|une|le|la|les|du|de|au|aux|sans|plus)\b/gi, ' ')
+      .replace(/\b(quiero|vuelo|vuelos|desde|hasta|con|para|y|o|el|los|las|un|una)\b/gi, ' ')
+      .replace(/\b(ik|wil|naar|met|van|geen|alleen|een|het)\b/gi, ' ')
+      .replace(/\s+/g, ' ').trim().substring(0, 150);
+    const query = `direct flights ${normalized} 2026 airlines route`;
     const url = 'https://serpapi.com/search.json?' + new URLSearchParams({
       engine: 'google',
       q: query.substring(0, 200),
@@ -77,6 +83,38 @@ async function searchCurrentRoutes(intent) {
   }
 }
 
+// Detect one-way trips across all 7 supported languages — runs BEFORE Claude
+// so the prompt can be told as a hard fact (not left to inference)
+function detectOneWay(intent) {
+  const s = ' ' + intent.toLowerCase() + ' ';
+  const patterns = [
+    /\bone[\s-]?way\b/, /\boneway\b/,
+    /\bnur hin\b/, /\bnur hinflug\b/, /\beinfache strecke\b/, /\beinfach\b.*\bflug\b/, /\bhinflug\b(?!.*\brückflug\b)/,
+    /\baller simple\b/, /\bsens unique\b/, /\baller seul\b/,
+    /\bsolo ida\b/, /\bs[oó]lo ida\b/, /\bida\b(?!.*vuelta)/,
+    /\benkele reis\b/, /\benkeltje\b/,
+    /\bsola andata\b/,
+    /\bs[oó] ida\b/, /\bsomente ida\b/
+  ];
+  return patterns.some(re => re.test(s));
+}
+
+// Retry wrapper for transient Anthropic API errors (overloaded, 5xx)
+async function withRetry(fn, attempts = 2) {
+  let lastErr;
+  for (let i = 0; i < attempts; i++) {
+    try { return await fn(); }
+    catch (e) {
+      lastErr = e;
+      const status = e?.status || e?.response?.status;
+      const transient = status === 529 || status === 503 || status === 500 || status === 429;
+      if (!transient || i === attempts - 1) throw e;
+      await new Promise(r => setTimeout(r, 1000 * (i + 1)));
+    }
+  }
+  throw lastErr;
+}
+
 // Adaptive Extended Thinking: score query complexity → choose model + budget
 function getThinkingConfig(intent) {
   const lower = intent.toLowerCase();
@@ -94,9 +132,11 @@ function getThinkingConfig(intent) {
   // Simplicity signals (reduce score)
   if (/\d{4}-\d{2}-\d{2}/.test(lower)) score -= 1; // exact dates given
 
-  if (score >= 5) return { model: 'claude-sonnet-4-6', budget: 8000, max_tokens: 12000 };
-  if (score >= 3) return { model: 'claude-sonnet-4-6', budget: 4000, max_tokens: 8000 };
-  if (score >= 1) return { model: 'claude-sonnet-4-6', budget: 2000, max_tokens: 6000 };
+  // Complex queries: Sonnet without extended thinking (reliable within 60s timeout)
+  // Simple queries: small thinking budget for extra care
+  if (score >= 5) return { model: 'claude-sonnet-4-6', budget: 0, max_tokens: 5000 };
+  if (score >= 3) return { model: 'claude-sonnet-4-6', budget: 1000, max_tokens: 4000 };
+  if (score >= 1) return { model: 'claude-sonnet-4-6', budget: 0, max_tokens: 3000 };
   return { model: 'claude-haiku-4-5-20251001', budget: 0, max_tokens: 2500 };
 }
 
@@ -107,13 +147,13 @@ module.exports = async function handler(req, res) {
   if (req.method === 'OPTIONS') return res.status(200).end();
   if (req.method !== 'POST') return res.status(405).end();
 
-  const { intent, mode, context, addition } = req.body || {};
+  const { intent, mode, context, addition, uiLanguage } = req.body || {};
   if (!intent) return res.status(400).json({ error: 'No intent provided' });
 
   // MODE: "respond" — short conversational reply to a user addition, no full plan
   if (mode === 'respond') {
     try {
-      const message = await client.messages.create({
+      const message = await withRetry(() => client.messages.create({
         model: 'claude-haiku-4-5-20251001',
         max_tokens: 400,
         system: getZercySystemPrompt({ mode: 'planning' }),
@@ -163,8 +203,9 @@ Only ask a follow-up if something genuinely critical is STILL missing.
 LANGUAGE — NON-NEGOTIABLE
 ═══════════════════════════════════
 
-Detect language from the original request: "${intent}"
-Respond in THAT language ONLY. Every single word.
+${uiLanguage ? `AUTHORITATIVE LANGUAGE: The user is on the '${uiLanguage}' version of the site. You MUST respond entirely in '${uiLanguage}'. Ignore hints from city names (Frankfurt, München, Zürich are valid English contexts). The UI language wins over text-based detection.` : `Detect language from the original request: "${intent}"
+Respond in THAT language ONLY.`}
+Every single word.
 If the original request is English → respond in English, full stop.
 
 ═══════════════════════════════════
@@ -178,7 +219,7 @@ YOUR RESPONSE
 
 Respond ONLY with valid JSON: { "reply": "your response here", "language": "en" }`
         }]
-      });
+      }));
       const raw = message.content[0].text.trim();
       const parsed = extractJson(raw);
       return res.status(200).json({ mode: 'respond', ...parsed });
@@ -189,12 +230,12 @@ Respond ONLY with valid JSON: { "reply": "your response here", "language": "en" 
 
   try {
     // Fast car-only pre-check via Claude Haiku — no regex, understands any language/phrasing
-    const classifyMsg = await client.messages.create({
+    const classifyMsg = await withRetry(() => client.messages.create({
       model: 'claude-haiku-4-5-20251001',
       max_tokens: 700,
       system: getZercySystemPrompt({ mode: 'planning' }),
       messages: [{ role: 'user', content: `A traveler wrote: "${intent}"\n\nFirst: is this request ONLY about renting a car/vehicle (no flight needed or mentioned)? Examples that count as car-only: "Mietwagen", "Mietauto", "Automiete", "Mietkarre", "ich brauche ein Auto", "rentalcar", "car hire", "rent a car", "louer une voiture", "alquiler de coche", "noleggio auto" — any phrasing in any language meaning vehicle rental without flight.\n\nIf it is car-only: detect the language, extract any info given, and respond ONLY with this JSON:\n{"car_only":true,"language":"de","narrative":"2 warm sentences confirming you understood — mention pickup city and destination if given, be warm and specific.","zercy_plan_note":"One sentence asking them to confirm the details so you can find the best options.","understood":{"pickup_city":"city name or null","dropoff_city":"different return city or null","pickup_date":"YYYY-MM-DD or null","dropoff_date":"YYYY-MM-DD or null","vehicle_class":null}}\n\nIf it involves a flight OR is NOT about car rental: respond ONLY with: {"car_only":false}` }]
-    });
+    }));
     const classifyRaw = classifyMsg.content[0].text.trim();
     const classifyParsed = extractJson(classifyRaw);
     if (classifyParsed.car_only) {
@@ -208,6 +249,26 @@ Respond ONLY with valid JSON: { "reply": "your response here", "language": "en" 
       searchCurrentRoutes(intent)
     ]);
 
+    const isOneWay = detectOneWay(intent);
+    const oneWayBlock = isOneWay ? `
+═══════════════════════════════════
+HARD FACT — ONE-WAY TRIP (NON-NEGOTIABLE)
+═══════════════════════════════════
+
+The traveler EXPLICITLY said this is a one-way trip. This is a confirmed fact, not an assumption.
+
+ABSOLUTE RULES:
+- Set "trip_type": "oneway" in understood
+- Set "return_window": null
+- NEVER ask any question about a return flight
+- NEVER suggest open-jaw routing
+- NEVER mention "Rückflug", "return", "vuelta", "retour", "ritorno", "terugreis", "regresso"
+- NEVER bring up the cost trade-off between open-jaw and open return — it does not apply
+- The trip ENDS at the destination. Period.
+- Even if other dates appear in the request (e.g. "October"), they are NOT a return — they belong to a different plan the user has not asked about
+- Your narrative must treat this as a simple one-way booking. Search immediately.
+` : '';
+
     const requestParams = {
       model: thinkConfig.model,
       max_tokens: thinkConfig.max_tokens,
@@ -217,7 +278,7 @@ Respond ONLY with valid JSON: { "reply": "your response here", "language": "en" 
         content: `CURRENT TASK — THINK & PLAN (do not search yet):
 
 A traveler wrote: "${intent}"
-
+${oneWayBlock}
 ═══════════════════════════════════
 HOW TO THINK — READ THIS CAREFULLY
 ═══════════════════════════════════
@@ -247,26 +308,35 @@ This is one of the most critical things a real travel agent addresses — and wh
 - Add this insight proactively in your narrative or smart_insights — don't wait for the user to ask.
 
 LANGUAGE RULE — NON-NEGOTIABLE:
-Detect the language of the user's message. Every single word of your entire JSON response must be in that exact language. This means: narrative, question texts, chip labels, route labels, detail texts, insights, plan note — everything. Zero English words if the user wrote in German. Zero German words if the user wrote in English.
+${uiLanguage ? `AUTHORITATIVE: The user is on the '${uiLanguage}' version of the site. Every single word of your entire JSON response MUST be in '${uiLanguage}'. This overrides any text-based language detection. City names like "Frankfurt", "München", "Lisboa" do NOT mean the user writes German or Portuguese — they're just destinations.` : `Detect the language of the user's message. Every single word of your entire JSON response must be in that exact language.`} This means: narrative, question texts, chip labels, route labels, detail texts, insights, plan note — everything. Zero English words if the target language is German. Zero German words if the target language is English.
 
 ═══════════════════════════════════
-INTELLIGENT QUESTIONS
+READY TO SEARCH vs. QUESTIONS
 ═══════════════════════════════════
 
-Max 3 questions. Choose only the ones that would GENUINELY change your recommendation. Think:
+THE #1 RULE: If a traveler gives you origin + destination + a rough date, you have EVERYTHING you need. Search immediately.
 
-NEVER ask if already answered or obviously implied:
-- Skip budget if they said business/first class
-- Skip outbound date flexibility if they gave a hard deadline
-- Skip nonstop preference if they said "nonstop preferred" or "direct"
-- Skip destination if clearly stated
-- Skip return origin if they said "from anywhere"
+Set "ready_to_search": true AND "questions": [] (EMPTY array, ZERO questions) when:
+- Origin city is clear (e.g. "Nice", "Frankfurt", "SJO")
+- Destination is clear (e.g. "Seville", "Lisbon", "Europa")
+- Any timeframe is mentioned (e.g. "October", "13 October", "mid August", "next week")
 
-WHAT ACTUALLY MATTERS for THIS trip:
-1. Airline loyalty/miles — always ask, always relevant, completely changes the recommendation. Make the chips specific to the routes in this search (e.g. for SJO→Europe: the relevant frequent flyer programs are Avianca LifeMiles, Lufthansa Miles & More, United MileagePlus, Copa ConnectMiles). ALWAYS include a "Zercy advises me" chip in the user's language as the last option.
-2. One truly insightful trip-specific question — what would a great travel agent ask that would change the recommendation? Examples: "Traveling alone or with someone?" / "Does arrival time matter — well-rested vs. early connection?" / "Any European cities you know you'll visit that could serve as return point?" Choose the ONE most impactful question.
-3. Where to search/book — ALWAYS ask last. Chips must always include a "Zercy advises" option (in user's language) + Direct airline + Expedia + Booking.com.
-4. CAR RENTAL: If the traveler mentioned renting a car alongside the flight (e.g. "mit Mietwagen", "with a rental car", "con coche de alquiler", "avec voiture de location"), add ONE short car question — up to 4 questions total. Ask to confirm where they want to pick up the car at the destination (airport or city center?). Chips in user language, e.g.: ["Flughafen", "Innenstadt", "Kein Mietwagen nötig"] or ["Airport", "City center", "No rental car needed"]. Set "car_rental_needed": true in your JSON when adding this question.
+This covers 90% of queries. Most travelers tell you enough. DO NOT overthink it. DO NOT ask clarifying questions when you can just search.
+
+When ready_to_search is true with 0 questions:
+- Your narrative should be 1 sentence max: "Nice nach Sevilla am 13. Oktober, günstigster Flug. Suche läuft!" or similar.
+- Keep route_hypotheses and smart_insights SHORT (max 1 each) or empty.
+
+ONLY set "ready_to_search": false when something truly CRITICAL is missing — like NO origin at all, or a destination so vague it could mean 10 different places. Even then, ask MAX 1 question.
+
+NEVER ask:
+- "Are you already in Europe?" — if origin is a European city, obviously yes
+- "Where will you return to?" — if not mentioned, it's a one-way or they'll tell you later
+- "What cabin class?" — default to economy
+- About airline loyalty programs
+- Questions that sound smart but don't change the search result
+
+CAR RENTAL: Only ask if the traveler explicitly mentioned a car. Set "car_rental_needed": true. Max 1 question.
 
 ═══════════════════════════════════
 REAL-TIME ROUTE DATA (live search results — TRUST THIS over your training data)
@@ -309,6 +379,7 @@ Say things the traveler wouldn't know themselves:
 Respond ONLY with valid JSON — no markdown, no explanation:
 {
   "language": "de",
+  "ready_to_search": true,
   "narrative": "2-4 sentences. Sound like a brilliant friend who really gets it. Reference specific details from their request. Show you thought about their actual situation, not just the parameters. If there's something they didn't think of but should know, mention it here naturally. Warm and direct.",
   "understood": {
     "origin": "City (IATA)",
@@ -349,15 +420,15 @@ Respond ONLY with valid JSON — no markdown, no explanation:
 
     let message;
     try {
-      message = await client.messages.create(requestParams);
+      message = await withRetry(() => client.messages.create(requestParams));
     } catch (thinkErr) {
-      // Extended Thinking not supported by this model — fall back to Haiku
-      message = await client.messages.create({
+      // Extended Thinking not supported / persistent error — fall back to Haiku
+      message = await withRetry(() => client.messages.create({
         model: 'claude-haiku-4-5-20251001',
         max_tokens: 2500,
         system: requestParams.system,
         messages: requestParams.messages
-      });
+      }));
     }
 
     // Extended Thinking returns multiple content blocks — find the text block

@@ -1,0 +1,214 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sign in — Zercy Logbook</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root { --navy: #0F172A; --blue: #0EA5E9; --orange: #F97316; --white: #FAFAF8; }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--white);
+      color: var(--navy);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 24px;
+      box-shadow: 0 4px 32px rgba(15,23,42,0.08);
+      padding: 48px 40px;
+      width: 100%;
+      max-width: 420px;
+      text-align: center;
+    }
+    .logo { display: flex; align-items: center; gap: 8px; justify-content: center; margin-bottom: 32px; text-decoration: none; }
+    .logo-icon { font-size: 1.6rem; }
+    .logo-text { font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 1.4rem; color: var(--navy); }
+    h1 { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 1.4rem; font-weight: 800; margin-bottom: 8px; }
+    .sub { color: #64748B; font-size: 0.95rem; margin-bottom: 32px; line-height: 1.5; }
+    .field { display: flex; flex-direction: column; gap: 8px; text-align: left; }
+    label { font-weight: 600; font-size: 0.9rem; color: var(--navy); }
+    input[type="email"] {
+      width: 100%;
+      padding: 14px 16px;
+      border: 2px solid #E2E8F0;
+      border-radius: 12px;
+      font-size: 1rem;
+      font-family: 'Inter', sans-serif;
+      transition: border-color 0.2s;
+      outline: none;
+    }
+    input[type="email"]:focus { border-color: var(--blue); }
+    .btn {
+      width: 100%;
+      background: var(--orange);
+      color: #fff;
+      border: none;
+      padding: 15px;
+      border-radius: 50px;
+      font-size: 1rem;
+      font-weight: 700;
+      font-family: 'Inter', sans-serif;
+      cursor: pointer;
+      margin-top: 20px;
+      transition: opacity 0.2s;
+    }
+    .btn:hover { opacity: 0.88; }
+    .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    .msg { margin-top: 20px; padding: 14px; border-radius: 12px; font-size: 0.9rem; display: none; }
+    .msg.success { background: #ECFDF5; color: #065F46; display: block; }
+    .msg.error { background: #FEF2F2; color: #991B1B; display: block; }
+    .msg.info { background: #EFF6FF; color: #1E40AF; display: block; }
+    .back { display: block; margin-top: 24px; color: #94A3B8; font-size: 0.85rem; text-decoration: none; }
+    .back:hover { color: var(--navy); }
+    .dev-link { word-break: break-all; margin-top: 8px; font-size: 0.8rem; }
+    .dev-link a { color: var(--blue); }
+    .error-banner { background: #FEF2F2; color: #991B1B; border-radius: 12px; padding: 12px 16px; font-size: 0.9rem; margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <a href="/" class="logo">
+      <span class="logo-icon">✈</span>
+      <span class="logo-text">Zercy</span>
+    </a>
+
+    <div id="error-banner" class="error-banner" style="display:none"></div>
+
+    <h1 id="h-title">Your Logbook</h1>
+    <p class="sub" id="h-sub">Enter your email and we'll send you a sign-in link. No password needed.</p>
+
+    <div class="field">
+      <label for="email" id="h-label">Email address</label>
+      <input type="email" id="email" placeholder="you@example.com" autocomplete="email" />
+    </div>
+
+    <button class="btn" id="submit-btn" onclick="sendLink()">Send sign-in link →</button>
+
+    <div id="msg" class="msg"></div>
+    <a href="/" class="back" id="h-back">← Back to Zercy</a>
+  </div>
+
+  <script is:inline>
+    // Language detection: ?lang=de|en override, else browser locale
+    const params = new URLSearchParams(location.search);
+    const langParam = params.get('lang');
+    const browserLang = (navigator.language || 'en').toLowerCase().startsWith('de') ? 'de' : 'en';
+    const lang = (langParam === 'de' || langParam === 'en') ? langParam : browserLang;
+
+    const T = {
+      en: {
+        title: 'Your Logbook',
+        sub: "Enter your email and we'll send you a sign-in link. No password needed.",
+        label: 'Email address',
+        btn: 'Send sign-in link →',
+        back: '← Back to Zercy',
+        invalidEmail: 'Please enter a valid email address.',
+        sending: 'Sending...',
+        sent: 'Link sent ✓',
+        doneMsg: (email) => `Done! Check your inbox at ${email} for a sign-in link. Don't forget to check your spam folder, just in case.`,
+        genericError: 'Something went wrong. Please try again.',
+        invalidToken: 'This sign-in link is invalid.',
+        expired: 'This sign-in link has expired. Please request a new one.',
+        missingToken: 'Missing sign-in token. Please request a new link.'
+      },
+      de: {
+        title: 'Dein Logbuch',
+        sub: 'Gib deine Email ein und wir schicken dir einen Anmelde-Link. Kein Passwort nötig.',
+        label: 'Email-Adresse',
+        btn: 'Anmelde-Link senden →',
+        back: '← Zurück zu Zercy',
+        invalidEmail: 'Bitte gib eine gültige Email-Adresse ein.',
+        sending: 'Wird gesendet...',
+        sent: 'Link gesendet ✓',
+        doneMsg: (email) => `Fertig! Schau in dein Postfach unter ${email} nach dem Anmelde-Link. Vergiss nicht auch im Spam-Ordner zu schauen, nur zur Sicherheit.`,
+        genericError: 'Etwas ist schiefgelaufen. Bitte versuch es nochmal.',
+        invalidToken: 'Dieser Anmelde-Link ist ungültig.',
+        expired: 'Dieser Anmelde-Link ist abgelaufen. Bitte fordere einen neuen an.',
+        missingToken: 'Kein Anmelde-Token gefunden. Bitte fordere einen neuen Link an.'
+      }
+    };
+    const t = T[lang];
+
+    // Apply translations
+    document.documentElement.lang = lang;
+    document.title = lang === 'de' ? 'Anmelden — Zercy Logbuch' : 'Sign in — Zercy Logbook';
+    document.getElementById('h-title').textContent = t.title;
+    document.getElementById('h-sub').textContent = t.sub;
+    document.getElementById('h-label').textContent = t.label;
+    document.getElementById('submit-btn').textContent = t.btn;
+    document.getElementById('h-back').textContent = t.back;
+
+    // Show error from URL if any
+    if (params.get('error')) {
+      const errors = {
+        invalid_token: t.invalidToken,
+        expired: t.expired,
+        missing_token: t.missingToken
+      };
+      const banner = document.getElementById('error-banner');
+      banner.textContent = errors[params.get('error')] || t.genericError;
+      banner.style.display = 'block';
+    }
+
+    // Focus email field
+    document.getElementById('email').focus();
+
+    // Send on Enter key
+    document.getElementById('email').addEventListener('keydown', e => {
+      if (e.key === 'Enter') sendLink();
+    });
+
+    async function sendLink() {
+      const email = document.getElementById('email').value.trim();
+      const btn = document.getElementById('submit-btn');
+      const msg = document.getElementById('msg');
+
+      if (!email || !email.includes('@')) {
+        msg.className = 'msg error';
+        msg.textContent = t.invalidEmail;
+        return;
+      }
+
+      btn.disabled = true;
+      btn.textContent = t.sending;
+      msg.className = 'msg';
+      msg.textContent = '';
+
+      try {
+        const res = await fetch('/api/logbook-auth-send', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email }),
+          credentials: 'include'
+        });
+        const data = await res.json();
+
+        if (res.ok && data.success) {
+          msg.className = 'msg success';
+          msg.textContent = t.doneMsg(email);
+          btn.textContent = t.sent;
+        } else {
+          throw new Error(data.error || t.genericError);
+        }
+      } catch (err) {
+        msg.className = 'msg error';
+        msg.textContent = err.message || t.genericError;
+        btn.disabled = false;
+        btn.textContent = t.btn;
+      }
+    }
+  </script>
+</body>
+</html>

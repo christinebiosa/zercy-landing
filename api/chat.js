@@ -1,6 +1,21 @@
 const Anthropic = require('@anthropic-ai/sdk');
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-const { getZercySystemPrompt } = require('./zercy-identity');
+const { getZercySystemPrompt } = require('./_zercy-identity');
+
+async function withRetry(fn, attempts = 2) {
+  let lastErr;
+  for (let i = 0; i < attempts; i++) {
+    try { return await fn(); }
+    catch (e) {
+      lastErr = e;
+      const status = e?.status || e?.response?.status;
+      const transient = status === 529 || status === 503 || status === 500 || status === 429;
+      if (!transient || i === attempts - 1) throw e;
+      await new Promise(r => setTimeout(r, 1000 * (i + 1)));
+    }
+  }
+  throw lastErr;
+}
 
 const HOTEL_KEYWORDS = ['hotel', 'hotels', 'stay', 'accommodation', 'resort', 'package', 'packages', 'booking', 'lodge', 'hostel', 'airbnb', 'where to sleep', 'place to stay'];
 
@@ -16,7 +31,7 @@ module.exports = async function handler(req, res) {
   if (req.method === 'OPTIONS') return res.status(200).end();
   if (req.method !== 'POST') return res.status(405).end();
 
-  const { message, history, destination, checkin, checkout, tripContext, planContext } = req.body || {};
+  const { message, history, destination, checkin, checkout, tripContext, planContext, uiLanguage } = req.body || {};
   if (!message) return res.status(400).json({ error: 'No message' });
 
   // Build the full session context — everything Zercy knows about this traveler
@@ -52,7 +67,8 @@ module.exports = async function handler(req, res) {
 
   const systemPrompt = getZercySystemPrompt({ mode: 'chat', destination: actualDest }) +
     (sessionLines.length ? `\n\n${'═'.repeat(50)}\nFULL TRIP SESSION CONTEXT\n${'═'.repeat(50)}\n${sessionLines.join('\n\n')}` : '') +
-    `\n\n${'═'.repeat(50)}\nHOW TO USE THIS CONTEXT\n${'═'.repeat(50)}\nYou ran the entire planning session above. You know this traveler's situation deeply.\n- NEVER re-ask anything already established — origin, destination, dates, cabin, routing are ALL settled.\n- Answer every question as the expert who planned this trip with them.\n- Reference specifics from the session naturally ("Since you're flying nonstop to Venice...", "Given your September dates...").\n- Focus entirely on being useful RIGHT NOW: hotels, activities, local tips, logistics, packing, whatever they ask.\n- When the destination is ${actualDest || 'their destination'} — be a knowledgeable local expert about it.\n- Keep answers concise (3-5 sentences max unless asked for more). Use bullet points for lists.`;
+    `\n\n${'═'.repeat(50)}\nHOW TO USE THIS CONTEXT\n${'═'.repeat(50)}\nYou ran the entire planning session above. You know this traveler's situation deeply.\n- NEVER re-ask anything already established — origin, destination, dates, cabin, routing are ALL settled.\n- Answer every question as the expert who planned this trip with them.\n- Reference specifics from the session naturally ("Since you're flying nonstop to Venice...", "Given your September dates...").\n- Focus entirely on being useful RIGHT NOW: hotels, activities, local tips, logistics, packing, whatever they ask.\n- When the destination is ${actualDest || 'their destination'} — be a knowledgeable local expert about it.\n- Keep answers concise (3-5 sentences max unless asked for more). Use bullet points for lists.` +
+    (uiLanguage ? `\n\n${'═'.repeat(50)}\nLANGUAGE — NON-NEGOTIABLE\n${'═'.repeat(50)}\nThe user is on the '${uiLanguage}' version of the site. Your entire reply MUST be in '${uiLanguage}'. Ignore language hints from city names — they're just destinations. UI language wins, always.` : '');
 
   const messages = [
     ...(history || []),
@@ -60,12 +76,12 @@ module.exports = async function handler(req, res) {
   ];
 
   try {
-    const response = await client.messages.create({
+    const response = await withRetry(() => client.messages.create({
       model: 'claude-haiku-4-5-20251001',
       max_tokens: 900,
       system: systemPrompt,
       messages
-    });
+    }));
 
     const reply = response.content[0].text;
     const showHotelLinks = isHotelQuery(message);

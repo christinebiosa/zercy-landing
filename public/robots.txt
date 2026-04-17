@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zercy.app/sitemap.xml
+Sitemap: https://zercy.app/sitemap-index.xml

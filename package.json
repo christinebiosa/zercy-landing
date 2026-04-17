@@ -12,6 +12,9 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.80.0",
-    "astro": "^6.0.8"
+    "@astrojs/sitemap": "^3.7.2",
+    "astro": "^6.0.8",
+    "busboy": "^1.6.0",
+    "rehype-external-links": "^3.0.0"
   }
 }
