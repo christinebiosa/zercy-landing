@@ -285,6 +285,8 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - jetlag-schnell-ueberwinden, ki-tools-reise-vergleich
 - albanien-riviera-geheimtipp, roadtrip-etappen-planung
 - capsule-wardrobe-handgepaeck, faeroeer-inseln-guide
+- airbnb-vs-hotel-vergleich, reiseversicherung-was-lohnt-sich
+- solo-reisen-frauen-sicher
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -304,6 +306,8 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - jet-lag-fast-recovery, ai-tools-travel-comparison
 - albania-riviera-hidden-coast, road-trip-stages-planning
 - capsule-wardrobe-carry-on, faroe-islands-guide
+- airbnb-vs-hotel-comparison, travel-insurance-worth-it-2026
+- solo-travel-women-safe-countries
 
 ### Schema — automatisch via Template
 Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:
