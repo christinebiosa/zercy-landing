@@ -8,5 +8,8 @@
     "api/chat.js": { "maxDuration": 30 },
     "api/ideas.js": { "maxDuration": 60 },
     "api/hotel-prices.js": { "maxDuration": 30 }
-  }
+  },
+  "crons": [
+    { "path": "/api/cron-keepalive", "schedule": "0 4 * * *" }
+  ]
 }
