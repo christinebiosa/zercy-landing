@@ -5,7 +5,7 @@ import rehypeExternalLinks from 'rehype-external-links';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://zercy.app',
+  site: 'https://www.zercy.app',
   integrations: [
     sitemap({
       filter: (page) => !page.includes('/logbook/login') && !page.includes('/logbook/verify'),
