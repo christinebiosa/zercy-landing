@@ -282,6 +282,9 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - madrid-24-stunden, kreuzfahrt-staedte-verlaengern
 - hidden-city-ticketing-erklaert, workation-steuern-2026
 - riads-marokko-guide, co2-kompensation-fliegen
+- jetlag-schnell-ueberwinden, ki-tools-reise-vergleich
+- albanien-riviera-geheimtipp, roadtrip-etappen-planung
+- capsule-wardrobe-handgepaeck, faeroeer-inseln-guide
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -298,6 +301,9 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - madrid-24-hours, cruise-extend-port-cities
 - hidden-city-ticketing-explained, workation-tax-rules-2026
 - morocco-riads-guide, flight-carbon-offsets-truth
+- jet-lag-fast-recovery, ai-tools-travel-comparison
+- albania-riviera-hidden-coast, road-trip-stages-planning
+- capsule-wardrobe-carry-on, faroe-islands-guide
 
 ### Schema — automatisch via Template
 Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:
