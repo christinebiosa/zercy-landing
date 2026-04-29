@@ -287,6 +287,8 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - capsule-wardrobe-handgepaeck, faeroeer-inseln-guide
 - airbnb-vs-hotel-vergleich, reiseversicherung-was-lohnt-sich
 - solo-reisen-frauen-sicher
+- apulien-sueditalien-guide, nordlichter-2026-wo-wann-wie
+- slow-travel-bedeutet-was
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -308,6 +310,8 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - capsule-wardrobe-carry-on, faroe-islands-guide
 - airbnb-vs-hotel-comparison, travel-insurance-worth-it-2026
 - solo-travel-women-safe-countries
+- puglia-southern-italy-guide, northern-lights-2026-where-when-how
+- slow-travel-what-it-really-means
 
 ### Schema — automatisch via Template
 Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:
