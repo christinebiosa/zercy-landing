@@ -289,6 +289,9 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - solo-reisen-frauen-sicher
 - apulien-sueditalien-guide, nordlichter-2026-wo-wann-wie
 - slow-travel-bedeutet-was
+- cyber-sicherheit-reisen, mit-hund-europa-reisen
+- beste-travel-apps-2026, stopover-tourismus-guide
+- 48-stunden-rom, sabbatical-planen-guide
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -312,6 +315,9 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - solo-travel-women-safe-countries
 - puglia-southern-italy-guide, northern-lights-2026-where-when-how
 - slow-travel-what-it-really-means
+- cyber-security-travel-2026, traveling-with-dog-europe
+- best-travel-apps-2026, stopover-tourism-guide
+- 48-hours-rome, sabbatical-planning-guide
 
 ### Schema — automatisch via Template
 Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:
