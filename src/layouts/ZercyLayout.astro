@@ -2,6 +2,7 @@
 import '../styles/global.css';
 
 const { lang = 'de' } = Astro.props;
+const canonicalUrl = lang === 'de' ? 'https://www.zercy.app/' : `https://www.zercy.app/${lang}/`;
 
 const CONTENT: Record<string, any> = {
   de: {
@@ -276,6 +277,7 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="sitemap" href="/sitemap.xml" />
+  <link rel="canonical" href={canonicalUrl} />
   <!-- hreflang for multilingual SEO -->
   <link rel="alternate" hreflang="de" href="https://www.zercy.app/" />
   <link rel="alternate" hreflang="en" href="https://www.zercy.app/en/" />
