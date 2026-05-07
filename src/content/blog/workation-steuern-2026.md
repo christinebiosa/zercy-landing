@@ -57,7 +57,7 @@ Viertens: Aufenthaltstitel klären. Innerhalb der EU brauchst du nichts, in Cost
 
 Fünftens: Versicherung anpassen. Die gesetzliche Krankenversicherung deckt im EU-Ausland viel ab, außerhalb fast nichts. Eine Auslandskrankenversicherung für Langzeit-Aufenthalte kostet etwa 50 bis 100 Euro pro Monat.
 
-Wenn du Business Class fliegen willst, ohne Vermögen auszugeben, lies unseren [Guide für Business Class ohne Meilen](/blog/business-class-ohne-meilen).
+Wenn du Business Class fliegen willst, ohne Vermögen auszugeben, lies unseren Guide [Business Class unter 1.000 Euro](/blog/business-class-ohne-meilen).
 
 ---
 

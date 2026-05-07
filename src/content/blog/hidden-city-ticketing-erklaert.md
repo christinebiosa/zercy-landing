@@ -49,7 +49,7 @@ Verspätungen mit Umleitung sind das zweite. Bei verpasstem Anschluss bucht die 
 
 Refunds gibt es nicht. Wenn dein Hidden-Stop-Plan nicht aufgeht, verfällt das Ticket. Es gibt keine teilweisen Rückerstattungen.
 
-Eine sicherere Spar-Strategie sind oft [Open-Jaw Tickets](/blog/open-jaw-tickets-reise-hack), bei denen Hin- und Rückflug von verschiedenen Städten gehen. Komplett legal, ähnliche Ersparnis. Falls du Business Class billiger fliegen willst, lies unseren [Guide für Business Class ohne Meilen](/blog/business-class-ohne-meilen).
+Eine sicherere Spar-Strategie sind oft [Open-Jaw Tickets](/blog/open-jaw-tickets-reise-hack), bei denen Hin- und Rückflug von verschiedenen Städten gehen. Komplett legal, ähnliche Ersparnis. Falls du Business Class billiger fliegen willst, lies unseren Guide [Business Class unter 1.000 Euro](/blog/business-class-ohne-meilen).
 
 ---
 

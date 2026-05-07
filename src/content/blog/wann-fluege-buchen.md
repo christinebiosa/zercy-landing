@@ -43,7 +43,7 @@ Wichtig: Überprüfe Visa-Anforderungen frühzeitig. Japan und Thailand benötig
 
 Hier ist die Preisspanne am größten. Dubai-Flüge können zwischen 300 und 900 Euro variieren — je nach Airline, Buchungszeitpunkt und Saison. Emirates und Qatar füllen Business und Economy zu sehr unterschiedlichen Preisen, und die Preisstruktur reagiert stark auf aktuelle Buchungsnachfrage.
 
-Marktbeobachtung und Preisalarme lohnen sich hier besonders. Wer ein konkretes Datum hat, sollte es setzen und dann warten.
+Marktbeobachtung und Preisalarme lohnen sich hier besonders. Wer ein konkretes Datum hat, sollte es setzen und dann warten. Wer in der Premium-Klasse fliegen will, findet mit den richtigen Tricks regelmäßig [Business Class unter 1.000 Euro](/blog/business-class-ohne-meilen).
 
 ## Was den Preis noch beeinflusst
 
