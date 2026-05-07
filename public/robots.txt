@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /logbook/login
+Disallow: /logbook/verify
 
-Sitemap: https://zercy.app/sitemap-index.xml
+Sitemap: https://www.zercy.app/sitemap-index.xml
