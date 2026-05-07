@@ -148,11 +148,13 @@ module.exports = async function handler(req, res) {
     // Sonnet when no Phase-1 context or ground_only (needs strong extraction), Haiku when we already have context
     const hasPhase1Context = !hasGroundOnlyKeyword && !!(planContext?.understood?.origin || planContext?.understood?.destination_area);
     const parseModel = hasPhase1Context ? 'claude-haiku-4-5-20251001' : 'claude-sonnet-4-6';
+    // Sonnet needs more headroom for comprehensive airport lists + insights + chips. Haiku output is shorter.
+    const parseMaxTokens = parseModel === 'claude-sonnet-4-6' ? 4000 : 2500;
 
     // Step 1: Parse intent with Claude
     const message = await withRetry(() => client.messages.create({
       model: parseModel,
-      max_tokens: 2500,
+      max_tokens: parseMaxTokens,
       system: getZercySystemPrompt({ mode: 'planning' }),
       messages: [{
         role: 'user',
