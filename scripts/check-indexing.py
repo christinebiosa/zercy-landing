@@ -86,7 +86,7 @@ def inspect(token, url):
         headers={'Authorization': f'Bearer {token}', 'Content-Type': 'application/json'},
     )
     try:
-        r = json.loads(urllib.request.urlopen(req).read())
+        r = json.loads(urllib.request.urlopen(req, timeout=30).read())
         return r.get('inspectionResult', {}).get('indexStatusResult', {})
     except urllib.error.HTTPError as e:
         return {'verdict': 'ERROR', 'coverageState': f'HTTP {e.code}'}
