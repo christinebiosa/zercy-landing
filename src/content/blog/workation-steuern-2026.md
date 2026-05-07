@@ -41,7 +41,7 @@ Die Top-Optionen aus deutscher Sicht im Überblick.
 
 **Costa Rica.** Rentista-Visa mit 2.500 USD nachgewiesenem Einkommen pro Monat. Steuerfrei für ausländische Einkünfte. Sehr beliebt bei Selbstständigen.
 
-Schau dir auch unseren [Costa Rica Roadtrip-Guide](/blog/costa-rica-rundreise-route) an, falls du dich für Mittelamerika interessierst.
+Schau dir auch unseren Guide [Costa Rica Rundreise in 2 Wochen](/blog/costa-rica-rundreise-route) an, falls du dich für Mittelamerika interessierst.
 
 ## Was musst du vor der Workation klären?
 

@@ -1,13 +1,13 @@
 ---
-title: "Costa Rica Rundreise: Die perfekte Route in 2 Wochen"
-metaTitle: "Costa Rica Rundreise: 2 Wochen Route | Zercy"
-description: "Die perfekte Costa Rica Rundreise in 14 Tagen. Von San José über Arenal und Monteverde bis Manuel Antonio und die Pazifikküste. Mit Mietwagen-Tipps, Kosten und Insider-Routen."
+title: "Costa Rica Rundreise 2 Wochen: Die perfekte Route"
+metaTitle: "Costa Rica Rundreise 2 Wochen: Echte Route | Zercy"
+description: "Costa Rica Rundreise 2 Wochen: die perfekte Route mit 5 Stopps von San José über Arenal und Monteverde bis Manuel Antonio. Mietwagen-Tipps, Kosten und realistische Etappen 2026."
 pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 8
 ---
 
-Costa Rica in 2 Wochen funktioniert, wenn du die richtige Route wählst. Nicht alles abhaken wollen. Drei oder vier Stopps reichen, dazwischen Zeit zum Atmen.
+Eine Costa Rica Rundreise in 2 Wochen funktioniert, wenn du die richtige Route wählst. Nicht alles abhaken wollen. Drei oder vier Stopps reichen, dazwischen Zeit zum Atmen.
 
 Hier ist die Route, die sich wirklich fahren lässt.
 

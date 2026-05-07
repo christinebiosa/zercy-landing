@@ -25,7 +25,7 @@ Sieben Top-Picks basierend auf Statistiken des [Global Peace Index](https://www.
 
 **5. Slowenien.** Geheimtipp. Kleines Land, super sicher, Englisch wird gut gesprochen. Ljubljana und der Bled-See sind perfekt für 1-2 Wochen alleine.
 
-**6. Costa Rica.** "Pura Vida" ist mehr als ein Spruch. Lokale sind extrem freundlich, das Land ist auf Tourismus ausgelegt, Frauen-Hostels in jeder Stadt. Schau dir auch unseren [Costa Rica Roadtrip-Guide](/blog/costa-rica-rundreise-route) an.
+**6. Costa Rica.** "Pura Vida" ist mehr als ein Spruch. Lokale sind extrem freundlich, das Land ist auf Tourismus ausgelegt, Frauen-Hostels in jeder Stadt. Schau dir auch unseren Guide [Costa Rica Rundreise in 2 Wochen](/blog/costa-rica-rundreise-route) an.
 
 **7. Dänemark.** Skandinavische Sicherheit, exzellente öffentliche Verkehrsmittel, Englisch praktisch überall. Kopenhagen ist ideal für Städte-Trips.
 

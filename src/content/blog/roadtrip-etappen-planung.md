@@ -47,7 +47,7 @@ Eine bewährte Methode aus 5 Schritten.
 
 **Schritt 5:** Markiere die längsten Tage. Schedule sie auf Wochentage, nicht aufs Wochenende. Stress plus Verkehr ist die schlechteste Kombination.
 
-Wenn du die Costa-Rica-Route planst, lies unseren [Costa Rica Roadtrip-Guide](/blog/costa-rica-rundreise-route). Dort haben wir die Etappen schon vorgemodelt.
+Wenn du die Costa-Rica-Route planst, lies unseren Guide [Costa Rica Rundreise in 2 Wochen](/blog/costa-rica-rundreise-route). Dort haben wir die Etappen schon vorgemodelt.
 
 ## Was passiert wenn du zu lange fährst?
 

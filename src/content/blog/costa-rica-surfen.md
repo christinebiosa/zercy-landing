@@ -89,4 +89,4 @@ Ja. Besonders Jaco Beach, Nosara und Sámara sind bekannt für sanfte Wellen und
 
 Costa Rica ist deutlich teurer als Guatemala, Nicaragua oder Honduras. Ähnlich teuer wie Panama. Budgetreisende kommen mit 80–100 Euro/Tag aus (Hostel, günstig essen, lokale Busse). Wer komfortabler reisen will: 150–250 Euro/Tag ist realistisch.
 
-**Mehr lesen:** [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck) · [7 Geheimtipps in Europa abseits der Massen](/blog/geheimtipps-europa)
+**Mehr lesen:** [Costa Rica Rundreise in 2 Wochen: Die perfekte Route](/blog/costa-rica-rundreise-route) · [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck)
