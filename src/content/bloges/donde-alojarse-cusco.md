@@ -5,6 +5,7 @@ description: "Cusco tiene 4 barrios muy distintos: Plaza de Armas, San Blas art√
 pubDate: 2026-05-07
 category: "D√≥nde alojarse"
 readingTime: 7
+heroImage: "/img/blog/cusco.jpg"
 bookingDest: "Cusco"
 ---
 

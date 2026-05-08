@@ -5,6 +5,7 @@ description: "Bogotá tiene 4 barrios muy distintos: Candelaria casco antiguo, C
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+heroImage: "/img/blog/bogota.jpg"
 bookingDest: "Bogota"
 ---
 

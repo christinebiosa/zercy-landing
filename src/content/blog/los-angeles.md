@@ -5,6 +5,7 @@ description: "Los Angeles ist laut, groß, chaotisch – und macht trotzdem süc
 pubDate: 2026-03-21
 category: "Fernweh"
 readingTime: 9
+heroImage: "/img/blog/los-angeles-city.jpg"
 ---
 
 Los Angeles macht keinen guten ersten Eindruck.

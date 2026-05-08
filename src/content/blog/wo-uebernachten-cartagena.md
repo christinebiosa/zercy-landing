@@ -5,6 +5,7 @@ description: "Cartagena hat 4 sehr unterschiedliche Stadtteile: Centro Históric
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/cartagena.jpg"
 bookingDest: "Cartagena"
 ---
 

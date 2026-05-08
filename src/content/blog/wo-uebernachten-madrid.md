@@ -5,6 +5,7 @@ description: "Madrid hat 5 sehr unterschiedliche Stadtteile: Sol Touristenherz, 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/madrid.jpg"
 bookingDest: "Madrid"
 ---
 

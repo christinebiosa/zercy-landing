@@ -5,6 +5,7 @@ description: "Buenos Aires hat 5 sehr unterschiedliche Stadtteile: Palermo hip, 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/buenos-aires.jpg"
 bookingDest: "Buenos Aires"
 ---
 

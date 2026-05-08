@@ -5,6 +5,7 @@ description: "Sevilla hat 4 sehr unterschiedliche Stadtteile: Santa Cruz Altstad
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/seville.jpg"
 bookingDest: "Seville"
 ---
 

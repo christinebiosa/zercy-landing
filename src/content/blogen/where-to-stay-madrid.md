@@ -5,6 +5,7 @@ description: "Madrid has 5 very different neighborhoods: Sol tourist heart, Mala
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/madrid.jpg"
 bookingDest: "Madrid"
 ---
 

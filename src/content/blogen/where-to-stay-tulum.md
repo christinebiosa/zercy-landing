@@ -5,6 +5,7 @@ description: "Tulum has 4 very different neighborhoods: Tulum Pueblo budget-frie
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/tulum.jpg"
 bookingDest: "Tulum"
 ---
 

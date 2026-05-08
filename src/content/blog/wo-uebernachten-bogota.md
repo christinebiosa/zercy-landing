@@ -5,6 +5,7 @@ description: "Bogotá hat 4 sehr unterschiedliche Stadtteile: Candelaria Altstad
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/bogota.jpg"
 bookingDest: "Bogota"
 ---
 

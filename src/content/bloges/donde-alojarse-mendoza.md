@@ -5,6 +5,7 @@ description: "Mendoza tiene 4 zonas muy distintas: Capital, Luján de Cuyo viní
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+heroImage: "/img/blog/mendoza.jpg"
 bookingDest: "Mendoza"
 ---
 

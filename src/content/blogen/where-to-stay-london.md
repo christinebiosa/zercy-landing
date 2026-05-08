@@ -5,6 +5,7 @@ description: "London has 5 very different neighborhoods: Soho central, South Ken
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/london.jpg"
 bookingDest: "London"
 ---
 

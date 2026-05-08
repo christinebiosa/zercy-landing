@@ -5,6 +5,7 @@ description: "New Orleans has 4 very different neighborhoods: French Quarter, Ga
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/new-orleans.jpg"
 bookingDest: "New Orleans"
 ---
 

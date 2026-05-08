@@ -5,6 +5,7 @@ description: "You have 48 hours in Rome and want more than just the Colosseum an
 pubDate: 2026-04-28
 category: "Off the Map"
 readingTime: 7
+heroImage: "/img/blog/rome.jpg"
 ---
 
 48 hours in Rome sounds like a joke. The city has 2,700 years of history, 900 churches, three famous fountains. How can you see more in 2 days than the Colosseum?

@@ -5,6 +5,7 @@ description: "Tokio hat 5 sehr unterschiedliche Stadtteile: Shinjuku zentral, Sh
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/tokyo.jpg"
 bookingDest: "Tokyo"
 ---
 

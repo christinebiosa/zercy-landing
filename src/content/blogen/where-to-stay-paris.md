@@ -5,6 +5,7 @@ description: "Paris has 5 very different neighborhoods: Marais hip-historic, Sai
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/paris.jpg"
 bookingDest: "Paris"
 ---
 

@@ -5,6 +5,7 @@ description: "Paris hat 5 sehr unterschiedliche Stadtteile: Marais hip-historisc
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/paris.jpg"
 bookingDest: "Paris"
 ---
 

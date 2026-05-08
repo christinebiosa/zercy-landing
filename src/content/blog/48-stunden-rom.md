@@ -5,6 +5,7 @@ description: "Du hast 48 Stunden in Rom und willst nicht nur Kolosseum und Trevi
 pubDate: 2026-04-28
 category: "Fernweh"
 readingTime: 7
+heroImage: "/img/blog/rome.jpg"
 ---
 
 48 Stunden Rom klingt wie ein Witz. Die Stadt hat 2.700 Jahre Geschichte, 900 Kirchen, drei berühmte Brunnen. Wie kannst du in 2 Tagen mehr sehen als das Kolosseum?

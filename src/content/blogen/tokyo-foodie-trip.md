@@ -5,6 +5,7 @@ description: "Tokyo is the world's foodie paradise. Sushi, ramen, izakaya, Miche
 pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 8
+heroImage: "/img/blog/tokyo-food.jpg"
 ---
 
 Tokyo has [more Michelin stars than Paris, London and New York combined](https://guide.michelin.com/en/jp/tokyo-region/restaurants). You could spend a week there doing nothing but eating, and still not have scratched the top.

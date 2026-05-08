@@ -5,6 +5,7 @@ description: "Cartagena tiene 4 barrios muy distintos: Centro Histórico amurall
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+heroImage: "/img/blog/cartagena.jpg"
 bookingDest: "Cartagena"
 ---
 

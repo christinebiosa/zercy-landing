@@ -5,6 +5,7 @@ description: "Seville has 4 very different neighborhoods: Santa Cruz old town, T
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/seville.jpg"
 bookingDest: "Seville"
 ---
 

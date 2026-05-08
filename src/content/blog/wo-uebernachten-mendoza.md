@@ -5,6 +5,7 @@ description: "Mendoza hat 4 sehr unterschiedliche Bereiche: Stadt-Zentrum, Lujan
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/mendoza.jpg"
 bookingDest: "Mendoza"
 ---
 

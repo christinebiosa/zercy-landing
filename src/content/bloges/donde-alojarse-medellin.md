@@ -5,6 +5,7 @@ description: "Medellín tiene 4 barrios muy distintos: El Poblado premium, Laure
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+heroImage: "/img/blog/medellin.jpg"
 bookingDest: "Medellin"
 ---
 

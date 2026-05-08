@@ -5,6 +5,7 @@ description: "Bangkok hat 5 sehr unterschiedliche Stadtteile: Sukhumvit modern, 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/bangkok.jpg"
 bookingDest: "Bangkok"
 ---
 

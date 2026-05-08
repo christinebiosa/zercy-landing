@@ -5,6 +5,7 @@ description: "LA hat 5 sehr unterschiedliche Stadtteile: Hollywood, Santa Monica
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/los-angeles-city.jpg"
 bookingDest: "Los Angeles"
 ---
 

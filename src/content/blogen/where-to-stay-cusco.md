@@ -5,6 +5,7 @@ description: "Cusco has 4 very different neighborhoods: Plaza de Armas, San Blas
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/cusco.jpg"
 bookingDest: "Cusco"
 ---
 

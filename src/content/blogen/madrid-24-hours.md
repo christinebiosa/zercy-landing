@@ -5,6 +5,7 @@ description: "Madrid in just one day? Easily doable. The perfect 24-hour plan: P
 pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 7
+heroImage: "/img/blog/madrid.jpg"
 ---
 
 Madrid in 24 hours works. Not every museum, not every neighborhood, but the essence. Art, food, street life, nightlife. Here's the plan that actually works without running you into the ground.

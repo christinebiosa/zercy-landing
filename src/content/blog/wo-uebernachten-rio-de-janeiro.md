@@ -5,6 +5,7 @@ description: "Rio hat 4 sehr unterschiedliche Stadtteile: Copacabana klassischer
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/rio-de-janeiro.jpg"
 bookingDest: "Rio de Janeiro"
 ---
 

@@ -5,6 +5,7 @@ description: "Los Angeles is loud, vast, chaotic – and somehow addictive. What
 pubDate: 2026-03-21
 category: "Off the Map"
 readingTime: 9
+heroImage: "/img/blog/los-angeles-city.jpg"
 ---
 
 Los Angeles doesn't make a great first impression.

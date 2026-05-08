@@ -5,6 +5,7 @@ description: "Tulum tiene 4 barrios muy distintos: Tulum Pueblo económico, Zona
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+heroImage: "/img/blog/tulum.jpg"
 bookingDest: "Tulum"
 ---
 

@@ -5,6 +5,7 @@ description: "Cancún has 4 completely different areas: Hotel Zone for all-inclu
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/cancun.jpg"
 bookingDest: "Cancun"
 ---
 

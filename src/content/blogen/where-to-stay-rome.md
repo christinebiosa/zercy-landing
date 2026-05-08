@@ -5,6 +5,7 @@ description: "Rome has 5 very different neighborhoods: Centro Storico central, T
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/rome.jpg"
 bookingDest: "Rome"
 ---
 

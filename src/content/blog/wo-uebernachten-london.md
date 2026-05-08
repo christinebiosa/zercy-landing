@@ -5,6 +5,7 @@ description: "London hat 5 sehr unterschiedliche Stadtteile: Soho zentral, South
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/london.jpg"
 bookingDest: "London"
 ---
 

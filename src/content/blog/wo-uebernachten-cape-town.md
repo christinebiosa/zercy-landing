@@ -5,6 +5,7 @@ description: "Cape Town hat 5 sehr unterschiedliche Stadtteile: V&A Waterfront, 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/cape-town.jpg"
 bookingDest: "Cape Town"
 ---
 

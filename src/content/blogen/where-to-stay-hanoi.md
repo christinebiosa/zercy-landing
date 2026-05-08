@@ -5,6 +5,7 @@ description: "Hanoi has 4 very different neighborhoods: Old Quarter, French Quar
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/hanoi.jpg"
 bookingDest: "Hanoi"
 ---
 

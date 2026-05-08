@@ -5,6 +5,7 @@ description: "Medellín has 4 very different neighborhoods: El Poblado premium, 
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/medellin.jpg"
 bookingDest: "Medellin"
 ---
 

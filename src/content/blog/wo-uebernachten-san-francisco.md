@@ -5,6 +5,7 @@ description: "San Francisco hat 5 sehr unterschiedliche Stadtteile: Union Square
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/san-francisco.jpg"
 bookingDest: "San Francisco"
 ---
 

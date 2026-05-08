@@ -5,6 +5,7 @@ description: "Miami hat 5 sehr unterschiedliche Stadtteile: South Beach Art Deco
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/miami.jpg"
 bookingDest: "Miami"
 ---
 

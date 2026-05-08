@@ -5,6 +5,7 @@ description: "Cape Town has 5 very different neighborhoods: V&A Waterfront, City
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/cape-town.jpg"
 bookingDest: "Cape Town"
 ---
 

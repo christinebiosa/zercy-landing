@@ -5,6 +5,7 @@ description: "Ciudad de México tiene 5 barrios muy distintos: Roma, Condesa, Po
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+heroImage: "/img/blog/mexico-city.jpg"
 bookingDest: "Mexico City"
 ---
 

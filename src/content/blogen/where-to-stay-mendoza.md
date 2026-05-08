@@ -5,6 +5,7 @@ description: "Mendoza has 4 very different areas: city center, Lujan de Cuyo win
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/mendoza.jpg"
 bookingDest: "Mendoza"
 ---
 

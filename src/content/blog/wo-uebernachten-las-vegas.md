@@ -5,6 +5,7 @@ description: "Las Vegas hat 4 sehr unterschiedliche Bereiche: Mid-Strip Bellagio
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/las-vegas.jpg"
 bookingDest: "Las Vegas"
 ---
 

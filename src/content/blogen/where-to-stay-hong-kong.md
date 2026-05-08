@@ -5,6 +5,7 @@ description: "Hong Kong has 4 very different neighborhoods: Central business, Ts
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/hong-kong.jpg"
 bookingDest: "Hong Kong"
 ---
 

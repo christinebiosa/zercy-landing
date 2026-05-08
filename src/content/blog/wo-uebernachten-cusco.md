@@ -5,6 +5,7 @@ description: "Cusco hat 4 sehr unterschiedliche Stadtteile: Plaza de Armas, San 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/cusco.jpg"
 bookingDest: "Cusco"
 ---
 

@@ -5,6 +5,7 @@ description: "Edinburgh has 4 very different neighborhoods: Old Town castle, New
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/edinburgh.jpg"
 bookingDest: "Edinburgh"
 ---
 

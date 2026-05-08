@@ -5,6 +5,7 @@ description: "Bali has 5 very different regions: Ubud yoga jungle, Canggu digita
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/bali.jpg"
 bookingDest: "Bali"
 ---
 

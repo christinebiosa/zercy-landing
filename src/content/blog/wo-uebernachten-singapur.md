@@ -5,6 +5,7 @@ description: "Singapur hat 5 sehr unterschiedliche Stadtteile: Marina Bay Skylin
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/singapore.jpg"
 bookingDest: "Singapore"
 ---
 

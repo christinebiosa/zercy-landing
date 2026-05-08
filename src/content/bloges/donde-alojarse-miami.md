@@ -5,6 +5,7 @@ description: "Miami tiene 5 barrios muy distintos: South Beach Art Decó, Mid-Be
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+heroImage: "/img/blog/miami.jpg"
 bookingDest: "Miami"
 ---
 

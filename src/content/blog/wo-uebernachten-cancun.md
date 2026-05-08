@@ -5,6 +5,7 @@ description: "Cancún hat 4 völlig unterschiedliche Wohnviertel: Zona Hotelera 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/cancun.jpg"
 bookingDest: "Cancun"
 ---
 

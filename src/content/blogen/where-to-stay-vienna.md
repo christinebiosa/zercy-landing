@@ -5,6 +5,7 @@ description: "Vienna has 5 very different districts: Innere Stadt imperial, Neub
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/vienna.jpg"
 bookingDest: "Vienna"
 ---
 

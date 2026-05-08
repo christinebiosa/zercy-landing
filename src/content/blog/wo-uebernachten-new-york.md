@@ -5,6 +5,7 @@ description: "New York hat 5 sehr unterschiedliche Stadtteile zum Übernachten: 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/new-york.jpg"
 bookingDest: "New York"
 ---
 

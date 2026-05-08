@@ -5,6 +5,7 @@ description: "LA has 5 very different neighborhoods: Hollywood, Santa Monica bea
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/los-angeles-city.jpg"
 bookingDest: "Los Angeles"
 ---
 

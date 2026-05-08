@@ -5,6 +5,7 @@ description: "Tokyo has 5 very different neighborhoods: Shinjuku central, Shibuy
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/tokyo.jpg"
 bookingDest: "Tokyo"
 ---
 

@@ -5,6 +5,7 @@ description: "Las Vegas has 4 very different areas: Mid-Strip Bellagio, North St
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/las-vegas.jpg"
 bookingDest: "Las Vegas"
 ---
 

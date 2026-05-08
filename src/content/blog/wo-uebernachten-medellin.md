@@ -5,6 +5,7 @@ description: "Medellín hat 4 sehr unterschiedliche Stadtteile: El Poblado Premi
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/medellin.jpg"
 bookingDest: "Medellin"
 ---
 

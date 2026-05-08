@@ -5,6 +5,7 @@ description: "Buenos Aires tiene 5 barrios muy distintos: Palermo hip, Recoleta 
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+heroImage: "/img/blog/buenos-aires.jpg"
 bookingDest: "Buenos Aires"
 ---
 

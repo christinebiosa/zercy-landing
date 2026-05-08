@@ -5,6 +5,7 @@ description: "Miami has 5 very different neighborhoods: South Beach Art Deco, Mi
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/miami.jpg"
 bookingDest: "Miami"
 ---
 

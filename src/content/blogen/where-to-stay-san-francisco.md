@@ -5,6 +5,7 @@ description: "San Francisco has 5 very different neighborhoods: Union Square, Fi
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/san-francisco.jpg"
 bookingDest: "San Francisco"
 ---
 

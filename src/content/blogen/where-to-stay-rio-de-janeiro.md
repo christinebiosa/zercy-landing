@@ -5,6 +5,7 @@ description: "Rio has 4 very different neighborhoods: Copacabana classic beach, 
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/rio-de-janeiro.jpg"
 bookingDest: "Rio de Janeiro"
 ---
 

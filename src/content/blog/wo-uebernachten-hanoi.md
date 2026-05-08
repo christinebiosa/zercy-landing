@@ -5,6 +5,7 @@ description: "Hanoi hat 4 sehr unterschiedliche Stadtteile: Old Quarter, French 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/hanoi.jpg"
 bookingDest: "Hanoi"
 ---
 

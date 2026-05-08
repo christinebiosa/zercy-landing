@@ -5,6 +5,7 @@ description: "Madrid in nur einem Tag? Kein Problem. Der perfekte 24-Stunden-Pla
 pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 7
+heroImage: "/img/blog/madrid.jpg"
 ---
 
 Madrid in 24 Stunden geht. Nicht alle Museen, nicht alle Viertel, aber die Essenz. Kunst, Essen, Straßenleben, Nachtschwärmerei. Hier der Plan, der wirklich funktioniert, ohne dass du dich tot läufst.

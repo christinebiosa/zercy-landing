@@ -5,6 +5,7 @@ description: "Hongkong hat 4 sehr unterschiedliche Stadtteile: Central Business,
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/hong-kong.jpg"
 bookingDest: "Hong Kong"
 ---
 

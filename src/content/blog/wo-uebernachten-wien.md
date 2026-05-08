@@ -5,6 +5,7 @@ description: "Wien hat 5 sehr unterschiedliche Bezirke: Innere Stadt Kaiserlich,
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/vienna.jpg"
 bookingDest: "Vienna"
 ---
 

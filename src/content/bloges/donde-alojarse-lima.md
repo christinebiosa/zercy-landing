@@ -5,6 +5,7 @@ description: "Lima tiene 4 distritos muy distintos: Miraflores premium en acanti
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+heroImage: "/img/blog/lima.jpg"
 bookingDest: "Lima"
 ---
 

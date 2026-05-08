@@ -5,6 +5,7 @@ description: "Cancún tiene 4 zonas muy distintas: Zona Hotelera para todo inclu
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+heroImage: "/img/blog/cancun.jpg"
 bookingDest: "Cancun"
 ---
 

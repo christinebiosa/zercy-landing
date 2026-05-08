@@ -5,6 +5,7 @@ description: "Bogotá has 4 very different neighborhoods: Candelaria old town, C
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/bogota.jpg"
 bookingDest: "Bogota"
 ---
 
