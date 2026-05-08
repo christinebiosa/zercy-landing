@@ -142,6 +142,23 @@ Score-Signale: anywhere/irgendwo (+3), month/monate (+2), flexible/flexibel (+2)
 ### Blog-Pinning
 - In `src/pages/blog/index.astro` und `src/pages/en/blog/index.astro`: `PINNED_ID` Variable hält einen Artikel fix auf Position 1 (Top-Left). Aktuell: `mietwagen-consolidator-guenstiger-fahren` (DE) / `rental-consolidators-save-money` (EN). Nach DC-Approval entfernen.
 
+### Blog-Suche (Pagefind) — Stand 2026-05-08
+- **Engine:** Pagefind 1.5.2, client-side. Component: `src/components/BlogSearch.astro`
+- **Eingebunden:** alle 3 Listings (DE/EN/ES) zwischen `.blog-hero` und `.chips-bar`
+- **Vite-Falle:** `import(/* @vite-ignore */ pagefindUrl)` — URL MUSS Variable sein, kein Inline-String
+- **Excerpt-Scoping:** `data-pagefind-body` auf `<div class="prose">` in allen 3 `[slug].astro` Templates — nur Artikel-Body wird indiziert, kein Nav/Breadcrumb-Müll
+- **Metadaten:** In allen 3 `[slug].astro` Templates:
+  - `<meta property="og:image" content={heroImage} data-pagefind-meta="image[content]" />` im Head → `d.meta.image` in JS
+  - `data-pagefind-meta="category"` auf `.article-category` Span → `d.meta.category` in JS
+- **KRITISCH — Astro `is:global`:** BlogSearch.astro nutzt `<style is:global>`. Ohne das greift kein einziger `bsr-*`-Style auf dynamisch per `innerHTML` injizierte Elemente (Astro scopet normale `<style>`-Blöcke mit `[data-astro-cid-xxx]`, das kommt bei innerHTML-Elementen nie an).
+- **Result-Cards:** Thumbnail (56px, heroImage) + Kategorie-Pill (blau) + Titel (fett) + Excerpt (2-zeilig, match-highlight) + Chevron. Keyboard-Nav: ↓ aus Input → erste Card, ↑↓ zwischen Cards, Esc schließt.
+
+### Booking.com Affiliate — ⚠️ KEINE AFFILIATE-ID AKTIV
+- **BookingCTA.astro** (`src/components/BookingCTA.astro`) hat KEINEN `?aid=`-Parameter — alle Klicks sind ungetrackt, $0 Provision
+- Fix: `params.set('aid', 'DEINE_AID')` in `buildBookingUrl()` ergänzen, sobald AID vorhanden
+- **Nächster Schritt:** Bei `affiliate.booking.com` registrieren ODER Awin-Bewerbung abschicken
+- Nach AID: Deals Finder Widget in City-Guides einbauen (Live-Preise, auto-update, höhere Conversion)
+
 ### Sonstige wichtige Logik
 - `chatTripContext = null` — wird beim Start von `thinkIntent()` zurückgesetzt
 - `cleanDest = hotelDest || gt?.destination || a.city` — User-Intent hat Priorität
