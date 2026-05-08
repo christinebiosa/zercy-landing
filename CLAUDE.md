@@ -216,10 +216,10 @@ readingTime: N                      # Minuten, realistisch einschätzen
 ---
 ```
 
-**Gültige Kategorien DE (exakt wie im Listing-Code!):** Reisetipps, KI & Reisen, Fernweh, Unterwegs, Clever Reisen, Nur mit Handgepäck, Traumunterkünfte, Business Travel, Nachhaltig, Geheimtipps
-**Gültige Kategorien EN (exakt wie im Listing-Code!):** Travel Tips, AI & Travel, Off the Map, On the Move, Smart Travel, Carry-On Only, Stay Here, Business Travel, Travel Green, Hidden Gems
+**Gültige Kategorien DE (exakt wie im Listing-Code!):** Reisetipps, KI & Reisen, Fernweh, Unterwegs, Clever Reisen, Nur mit Handgepäck, **Wo übernachten**, Business Travel, Nachhaltig, Geheimtipps
+**Gültige Kategorien EN (exakt wie im Listing-Code!):** Travel Tips, AI & Travel, Off the Map, On the Move, Smart Travel, Carry-On Only, **Where to Stay**, Business Travel, Travel Green, Hidden Gems
 
-(Verifiziert gegen `src/pages/blog/index.astro` und `src/pages/en/blog/index.astro`. Andere Namen führen dazu, dass der Artikel auf der Listing-Seite nicht korrekt angezeigt wird.)
+(Verifiziert gegen `src/pages/blog/index.astro` und `src/pages/en/blog/index.astro`. Andere Namen führen dazu, dass der Artikel auf der Listing-Seite nicht korrekt angezeigt wird. **"Wo übernachten / Where to Stay"** wurde 2026-05-07 von "Traumunterkünfte / Stay Here" umbenannt — strategische Booking.com-Kategorie.)
 
 ### Stil & Sprache
 - **Keine Em Dashes** (— oder –) — stattdessen Komma, Doppelpunkt oder neuer Satz. Gilt für Titel, Subtitles, Body und FAQs.
@@ -349,7 +349,35 @@ Jeder Artikel endet mit einer `## Frequently Asked Questions` (EN) / `## Häufig
 - Beginnen mit: Is / Are / Do / Does / Did / Can / Could / Should / Have / Has / Will / Would
 
 ### Zercy-CTA am Artikelende
-Vor dem FAQ, nach dem `---` Trennstrich: 1–2 Sätze die Zercy erwähnen, natürlich eingebaut, nicht werblich aufdringlich.
+Vor dem FAQ, nach dem `---` Trennstrich: 1–2 Sätze die Zercy erwähnen, natürlich eingebaut, nicht werblich aufdringlich. **IMMER mit Zercy-Logbook-Link ergänzen:** "Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast." (DE) bzw. "Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking." (EN)
+
+### EXTRA für "Wo übernachten / Where to Stay"-Artikel (City-Guides)
+
+City-Guides folgen einer eigenen Struktur, weil sie die Booking.com-Affiliate-Strategie tragen. Diese Regeln sind ZUSÄTZLICH zur Standard-Checkliste:
+
+**Title-Format (zwei Money-Keywords):**
+- DE: "Beste Hotels in [Stadt]: Wo übernachten in welchem Stadtteil 2026"
+- EN: "Best Hotels in [City]: Where to Stay in Each Neighborhood 2026"
+- Slug DE: `wo-uebernachten-[stadt]`, EN: `where-to-stay-[city]`
+
+**Struktur (immer in dieser Reihenfolge):**
+1. Intro (2 Absätze: Hook + Promise)
+2. H2: "Welcher Stadtteil passt zu welcher Reise?" (Übersicht, 4-5 Bullets)
+3. H2: Stadtteil 1 (touristisch/iconic) — mit "Wer hier richtig liegt", Preis-Spanne, 3 Top-Hotel-Picks. **HIER nach den Top-Picks: erste Booking.com-Erwähnung mit Hotel-Anzahl**, z.B. "Diese und 600+ weitere Manhattan-Hotels findest du auf [Booking.com](https://www.booking.com) mit Stadtteil-Filter."
+4. H2: Stadtteile 2-5 (jeweils gleiches Schema)
+5. H2: "Wo solltest du am Ende buchen?" — explizit Booking.com pushen mit konkreten Vorteilen
+6. Zercy-CTA + Zercy-Logbook (siehe oben)
+7. FAQ (4 W-Wort-Fragen)
+8. Mehr-lesen-Block
+
+**Linking-Pflichten City-Guides (Cluster-Authority):**
+- **Booking.com-Mention im ERSTEN H2-Stadtteil-Block** (nicht nur am Ende)
+- **2 Cross-Links zu anderen City-Guides im "Mehr lesen"** (LATAM-Cities verlinken untereinander, Europa untereinander, etc.)
+- **1 Backlink von einem thematisch passenden Top-Artikel** in jeden neuen City-Guide setzen (z.B. business-class-ohne-meilen → wo-uebernachten-new-york; costa-rica-rundreise-route → wo-uebernachten-cancun; 48-stunden-rom → wo-uebernachten-rom)
+
+**Hotel-Empfehlungen pro Stadtteil:**
+- 3 Top-Picks (mittelklasse + boutique + premium) mit echten Hotel-Namen und kurzem Charakter
+- Diese Hotels werden später Booking-Affiliate-Anker
 
 ### Checkliste auf einen Blick (vor dem Abschicken prüfen)
 - [ ] Frontmatter komplett + metaTitle 45–60 Zeichen + description 160–200 Zeichen
