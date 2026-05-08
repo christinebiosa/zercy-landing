@@ -240,8 +240,6 @@ const canonicalUrl = `https://www.zercy.app/es/blog/${post.id}`;
     </div>
     <hr class="article-divider" />
 
-    {post.data.bookingDest && <BookingCTA dest={post.data.bookingDest} lang="es" />}
-
     <div class="prose">
       <Content />
     </div>
@@ -251,6 +249,8 @@ const canonicalUrl = `https://www.zercy.app/es/blog/${post.id}`;
       <p>Sin formulario, sin cuenta. Solo escribe tu idea de viaje y Zercy la analiza por ti.</p>
       <a href="https://zercy.app">✈ Empieza gratis</a>
     </div>
+
+    {post.data.bookingDest && <BookingCTA dest={post.data.bookingDest} lang="es" />}
 
     <a href="/es/blog" class="back-link">← Volver al Blog</a>
   </main>
