@@ -267,6 +267,31 @@ Jeder Artikel braucht:
 
 DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 
+**Bestehende ES-Artikel (Spanish Blog, Phase 1 Stand 2026-05-08):**
+- donde-alojarse-cancun, donde-alojarse-ciudad-de-mexico, donde-alojarse-tulum
+- donde-alojarse-cartagena, donde-alojarse-bogota, donde-alojarse-medellin
+- donde-alojarse-lima, donde-alojarse-cusco, donde-alojarse-buenos-aires
+- donde-alojarse-mendoza, donde-alojarse-rio-de-janeiro, donde-alojarse-miami
+
+**ES-Stil-Regeln** (für künftige Artikel):
+- LATAM-Spanisch (nicht Castellano): "tú" für Anrede, "ustedes" statt "vosotros"
+- Slug-Konvention: `donde-alojarse-[ciudad]` (Where-to-Stay-Pendant)
+- Kategorien-Mapping (exakt diese Strings, sonst Listing-Farbe falsch):
+  - DE "Wo übernachten" / EN "Where to Stay" / ES "Dónde alojarse"
+  - DE "Reisetipps" / EN "Travel Tips" / ES "Consejos de viaje"
+  - DE "KI & Reisen" / EN "AI & Travel" / ES "IA y viajes"
+  - DE "Fernweh" / EN "Off the Map" / ES "Lugares lejanos"
+  - DE "Unterwegs" / EN "On the Move" / ES "En camino"
+  - DE "Clever Reisen" / EN "Smart Travel" / ES "Viaje inteligente"
+  - DE "Nur mit Handgepäck" / EN "Carry-On Only" / ES "Solo equipaje de mano"
+  - DE "Business Travel" / EN "Business Travel" / ES "Viajes de negocios"
+  - DE "Nachhaltig" / EN "Travel Green" / ES "Viaje sostenible"
+  - DE "Geheimtipps" / EN "Hidden Gems" / ES "Joyas ocultas"
+- FAQ-W-Wörter ES: ¿Qué? ¿Cuándo? ¿Dónde? ¿Cuál? ¿Cómo? ¿Por qué? ¿Cuánto?
+- Astro-Collection: `bloges`, definiert in `src/content.config.ts` (NICHT `src/content/config.ts` — Astro 6 nutzt content.config.ts)
+- Routing-Templates: `src/pages/es/blog/[slug].astro` und `src/pages/es/blog/index.astro`
+- Lang-Switcher in ES-Article-Templates: DE | EN | ES (alle aktiv, navigiert zu Listing)
+
 **Bestehende DE-Artikel (Slugs für interne Verlinkung):**
 - guenstig-fliegen-tipps, wann-fluege-buchen, ki-veraendert-reiseplanung
 - airport-hacks, nur-handgepaeck, costa-rica-surfen, boutique-hotels
