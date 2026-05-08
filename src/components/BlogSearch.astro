@@ -183,7 +183,13 @@ const t = {
       const candidates = search.results.slice(0, 16);
       const allData = await Promise.all(candidates.map(r => r.data()));
       container.classList.remove('is-loading');
-      const data = allData.filter(d => d && d.url && d.url.includes(pathPrefix)).slice(0, 8);
+      // Normalize url to pathname so /blog/ doesn't accidentally match /en/blog/ or /es/blog/
+      const data = allData.filter(d => {
+        if (!d || !d.url) return false;
+        let path = d.url;
+        try { path = new URL(d.url, location.origin).pathname; } catch (_) {}
+        return path.startsWith(pathPrefix);
+      }).slice(0, 8);
 
       if (data.length === 0) {
         results.innerHTML = `<div class="blog-search-empty">${tNoResults}</div>`;
