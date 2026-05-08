@@ -157,7 +157,8 @@ const canonicalUrl = `https://www.zercy.app/blog/${post.id}`;
 
     /* HERO BANNER */
     .article-banner { height: 130px; display: flex; align-items: center; justify-content: center; margin: 1.5rem 0; border-radius: 12px; }
-    .article-banner-photo { height: 280px; margin: 1.5rem 0; border-radius: 12px; background-size: cover; background-position: center; background-repeat: no-repeat; }
+    .article-banner-photo { max-width: 760px; height: 280px; margin: 1.5rem auto; border-radius: 12px; background-size: cover; background-position: center; background-repeat: no-repeat; }
+    @media (max-width: 800px) { .article-banner-photo { margin: 1.5rem 1rem; height: 220px; } }
     .cat-icon :global(svg) { width: 44px; height: 44px; display: block; }
 
     /* ARTICLE */
