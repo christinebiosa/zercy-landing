@@ -84,6 +84,6 @@ Kinder profitieren besonders von strikten Routinen am Zielort: feste Mahlzeiten,
 ---
 
 **Mehr lesen:**
-- [Was ist Zercy? Der KI-Reiseplaner erklärt](/blog/was-ist-zercy)
-- [Wie KI die Reiseplanung verändert](/blog/ki-veraendert-reiseplanung)
+- [Wo übernachten in Singapur: Die 5 Stadtteile](/blog/wo-uebernachten-singapur)
+- [Wo übernachten in Hongkong: Die 4 Stadtteile](/blog/wo-uebernachten-hongkong)
 - [Business Class: Wann lohnt sie sich wirklich?](/blog/business-class)

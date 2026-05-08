@@ -302,6 +302,16 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - wo-uebernachten-berlin, wo-uebernachten-amsterdam
 - wo-uebernachten-lima, wo-uebernachten-rio-de-janeiro
 - wo-uebernachten-miami, wo-uebernachten-marrakesch
+- wo-uebernachten-wien, wo-uebernachten-prag
+- wo-uebernachten-madrid, wo-uebernachten-athen
+- wo-uebernachten-singapur, wo-uebernachten-edinburgh
+- wo-uebernachten-sevilla, wo-uebernachten-marseille
+- wo-uebernachten-san-francisco, wo-uebernachten-los-angeles
+- wo-uebernachten-las-vegas, wo-uebernachten-new-orleans
+- wo-uebernachten-hongkong, wo-uebernachten-seoul
+- wo-uebernachten-hanoi, wo-uebernachten-cusco
+- wo-uebernachten-bogota, wo-uebernachten-mendoza
+- wo-uebernachten-medellin, wo-uebernachten-cape-town
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -338,6 +348,16 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - where-to-stay-berlin, where-to-stay-amsterdam
 - where-to-stay-lima, where-to-stay-rio-de-janeiro
 - where-to-stay-miami, where-to-stay-marrakech
+- where-to-stay-vienna, where-to-stay-prague
+- where-to-stay-madrid, where-to-stay-athens
+- where-to-stay-singapore, where-to-stay-edinburgh
+- where-to-stay-seville, where-to-stay-marseille
+- where-to-stay-san-francisco, where-to-stay-los-angeles
+- where-to-stay-las-vegas, where-to-stay-new-orleans
+- where-to-stay-hong-kong, where-to-stay-seoul
+- where-to-stay-hanoi, where-to-stay-cusco
+- where-to-stay-bogota, where-to-stay-mendoza
+- where-to-stay-medellin, where-to-stay-cape-town
 
 ### Schema — automatisch via Template
 Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:

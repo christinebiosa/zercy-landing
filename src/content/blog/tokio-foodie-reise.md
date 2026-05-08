@@ -145,3 +145,10 @@ Shinjuku oder Shibuya für Izakaya-Szene. Ginza für Gourmet und High-End. Asaku
 ### Welche Restaurants musst du vorbuchen?
 
 Alle mit Michelin-Sternen, alle großen Omakase-Sushi-Bars (Jiro, Saito, Yoshitake), Tempura Kondo, Nihonryori Ryugin. Buche 2 bis 6 Monate vorher. Ichiran Ramen, Ichiran Konbini-Shops und Depachika brauchen keine Reservierung.
+
+---
+
+**Mehr lesen:**
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
+- [Wo übernachten in Seoul: Die 5 Stadtteile](/blog/wo-uebernachten-seoul)
+- [Wo übernachten in Hongkong: Die 4 Stadtteile](/blog/wo-uebernachten-hongkong)

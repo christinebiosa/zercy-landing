@@ -94,6 +94,6 @@ Mindestens 9-12 Monate vor geplantem Beginn solltest du den Antrag stellen. Plus
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in Medellín: Die 4 Stadtteile](/blog/wo-uebernachten-medellin)
+- [Wo übernachten in Mendoza: Die 4 Wein-Bereiche](/blog/wo-uebernachten-mendoza)
 - [Slow Travel: Was es wirklich bedeutet (und was nicht)](/blog/slow-travel-bedeutet-was)
-- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026)
-- [Albanien-Riviera: Europas letzte unentdeckte Küste](/blog/albanien-riviera-geheimtipp)

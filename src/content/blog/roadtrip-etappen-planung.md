@@ -86,6 +86,6 @@ Pro Woche einen freien Tag einplanen. Den brauchst du entweder zum Erholen, für
 ---
 
 **Mehr lesen:**
-- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check)
-- [Mietwagen-Consolidator: Bis zu 40 Prozent günstiger](/blog/mietwagen-consolidator-guenstiger-fahren)
+- [Wo übernachten in Las Vegas: Die 4 Bereiche](/blog/wo-uebernachten-las-vegas)
+- [Wo übernachten in Los Angeles: Die 5 Stadtteile](/blog/wo-uebernachten-los-angeles)
 - [Costa Rica Rundreise: Die perfekte 2-Wochen-Route](/blog/costa-rica-rundreise-route)

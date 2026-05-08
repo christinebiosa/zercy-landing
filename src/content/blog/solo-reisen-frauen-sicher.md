@@ -94,6 +94,6 @@ Walking Tours am ersten Tag, Hostel-Aktivitäten (Cocktail-Abend, Pub-Crawls), C
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in Cape Town: Die 5 Stadtteile](/blog/wo-uebernachten-cape-town)
+- [Wo übernachten in Wien: Die 5 Bezirke](/blog/wo-uebernachten-wien)
 - [Reiseversicherung 2026: Was lohnt sich, was ist Quatsch?](/blog/reiseversicherung-was-lohnt-sich)
-- [Costa Rica Rundreise: Die perfekte 2-Wochen-Route](/blog/costa-rica-rundreise-route)
-- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade)

@@ -137,3 +137,10 @@ Tradition und Klima. In der Sommerhitze war Mittagessen um 14 Uhr und Abendessen
 ### Welches Viertel ist das beste für Tapas?
 
 La Latina ist das klassische Tapas-Viertel mit der Cava Baja als Hauptachse. Lavapiés ist alternativer, multikultureller, günstiger. Malasaña hat die jüngere Szene mit modernen Versionen. Für den Klassiker: La Latina.
+
+---
+
+**Mehr lesen:**
+- [Wo übernachten in Madrid: Die 5 Stadtteile](/blog/wo-uebernachten-madrid)
+- [Wo übernachten in Sevilla: Die 4 Stadtteile](/blog/wo-uebernachten-sevilla)
+- [Geheimtipps in Europa](/blog/geheimtipps-europa)
