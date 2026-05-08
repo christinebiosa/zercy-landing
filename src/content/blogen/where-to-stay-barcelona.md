@@ -96,7 +96,7 @@ See our [Airbnb vs Hotel guide](/en/blog/airbnb-vs-hotel-comparison), Barcelona 
 
 ---
 
-If you're planning Barcelona, just describe what you want to Zercy (first trip, foodie, slow travel, beach). You get suggestions with concrete hotels in fitting neighborhoods plus booking links.
+If you're planning Barcelona, just describe what you want to Zercy (first trip, foodie, slow travel, beach). You get suggestions with concrete hotels in fitting neighborhoods plus booking links. Save the options in your [Zercy Logbook](https://www.zercy.app/logbook) so they are ready when you book.
 
 ## Frequently Asked Questions
 
@@ -119,6 +119,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel, tapas bars). Mid-range: 
 ---
 
 **Read more:**
-- [Slow travel: what it really means (and what it doesn't)](/en/blog/slow-travel-what-it-really-means)
+- [Where to stay in Lisbon: 5 neighborhoods](/en/blog/where-to-stay-lisbon)
+- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris)
 - [Airbnb vs Hotel: Which one is actually worth it?](/en/blog/airbnb-vs-hotel-comparison)
-- [Boutique hotels worldwide: small houses with character](/en/blog/boutique-hotels)

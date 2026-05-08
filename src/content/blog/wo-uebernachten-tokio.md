@@ -31,7 +31,7 @@ Shinjuku Station ist mit 3,6 Millionen Passagieren täglich der geschäftigste B
 
 **Preise pro Nacht:** Mittelklasse 100-200 Euro, Premium 250-450 Euro, Top-Hotels (Park Hyatt) 500-1.000 Euro.
 
-**Top-Picks:** Park Hyatt Tokyo (legendär aus "Lost in Translation"), Hyatt Regency Tokyo (zuverlässig zentral), Citadines Central Shinjuku (Apartment-Hotel mit Küchenzeile).
+**Top-Picks:** Park Hyatt Tokyo (legendär aus "Lost in Translation"), Hyatt Regency Tokyo (zuverlässig zentral), Citadines Central Shinjuku (Apartment-Hotel mit Küchenzeile). Diese und 3.500+ weitere Tokio-Hotels findest du auf [Booking.com](https://www.booking.com) mit Stadtteil-Filter und Übersetzungs-Service mit dem Hotel.
 
 ## Shibuya: Junges Tokio
 
@@ -93,7 +93,7 @@ Lies dazu auch unseren [Jetlag-Guide](/blog/jetlag-schnell-ueberwinden), Tokio i
 
 ---
 
-Wenn du Tokio planst, beschreibe Zercy einfach was du suchst (Erstreise, Foodie, Hipster, Luxus). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links.
+Wenn du Tokio planst, beschreibe Zercy einfach was du suchst (Erstreise, Foodie, Hipster, Luxus). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links. Speichere die Optionen im [Zercy Logbook](https://www.zercy.app/logbook), damit du sie beim Buchen direkt parat hast.
 
 ## Häufige Fragen
 
@@ -116,6 +116,6 @@ Backpacker: 1.000-1.500 Euro pro Person inkl. Flug (Hostel, Konbini-Essen, ÖPNV
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in New York: Die 5 Stadtteile](/blog/wo-uebernachten-new-york)
 - [Tokio Foodie-Reise: Was du wirklich essen musst](/blog/tokio-foodie-reise)
 - [Jetlag überwinden: 7 Tricks, die wirklich funktionieren](/blog/jetlag-schnell-ueberwinden)
-- [Boutique Hotels: Kleine Häuser mit Charakter](/blog/boutique-hotels)

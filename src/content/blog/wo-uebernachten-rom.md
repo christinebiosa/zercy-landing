@@ -31,7 +31,7 @@ Das historische Zentrum mit Pantheon, Piazza Navona, Trevi-Brunnen, Spanische Tr
 
 **Preise pro Nacht:** Mittelklasse 130-220 Euro, Boutique 200-400 Euro, Premium (Hassler, J.K. Place Roma) 450-900 Euro.
 
-**Top-Picks:** J.K. Place Roma (5-Sterne nahe Spanische Treppe), Hotel de la Ville (Premium mit Dachterrasse), Albergo del Senato (mittelklasse direkt am Pantheon).
+**Top-Picks:** J.K. Place Roma (5-Sterne nahe Spanische Treppe), Hotel de la Ville (Premium mit Dachterrasse), Albergo del Senato (mittelklasse direkt am Pantheon). Diese und 3.000+ weitere Rom-Hotels sind auf [Booking.com](https://www.booking.com) gelistet mit präzisen Stadtteil-Filtern und kostenlosem Storno.
 
 Lies dazu auch unseren [48 Stunden in Rom-Guide](/blog/48-stunden-rom) für die optimale Route.
 
@@ -94,7 +94,7 @@ Lies dazu auch unseren [Apulien-Guide](/blog/apulien-sueditalien-guide), wenn du
 
 ---
 
-Wenn du Rom planst, beschreibe Zercy einfach was du suchst (Erstreise, Foodie, Vatikan-Fokus, Slow Travel). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links.
+Wenn du Rom planst, beschreibe Zercy einfach was du suchst (Erstreise, Foodie, Vatikan-Fokus, Slow Travel). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links. Speichere die Optionen im [Zercy Logbook](https://www.zercy.app/logbook), damit du sie beim Buchen direkt parat hast.
 
 ## Häufige Fragen
 
@@ -117,6 +117,6 @@ Backpacker: 700-1.000 Euro pro Person inkl. Flug (Hostel, Pizza al taglio). Mitt
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
+- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona)
 - [48 Stunden in Rom: Die ehrliche Kurz-Reise-Route](/blog/48-stunden-rom)
-- [Apulien: Italiens unterschätzter Süden](/blog/apulien-sueditalien-guide)
-- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)

@@ -88,6 +88,6 @@ Tickets vorab online auf vatican.va kaufen für 8 Uhr (Öffnung). Plus Audio-Gui
 ---
 
 **Mehr lesen:**
+- [Beste Hotels in Rom: Wo übernachten in welchem Stadtteil](/blog/wo-uebernachten-rom)
 - [Apulien: Italiens unterschätzter Süden](/blog/apulien-sueditalien-guide)
 - [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
-- [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026)

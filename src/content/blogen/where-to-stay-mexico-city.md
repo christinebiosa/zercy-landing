@@ -31,7 +31,7 @@ Roma Norte is Mexico City's hippest neighborhood. Restored Belle Époque houses 
 
 **Per-night prices:** Boutique hotels $90-200, mid-range $55-130, apartments $65-145.
 
-**Top picks:** Casa Decu (small boutique with courtyard), Hotel Carlota (legendary boutique with pool), Brick Hotel (luxury boutique with restaurants).
+**Top picks:** Casa Decu (small boutique with courtyard), Hotel Carlota (legendary boutique with pool), Brick Hotel (luxury boutique with restaurants). These and 1,800+ more CDMX hotels are on [Booking.com](https://www.booking.com) with neighborhood filter and USD-fixed prices.
 
 ## Condesa: Art Deco and cafés
 
@@ -95,7 +95,7 @@ See our [solo travel for women guide](/en/blog/solo-travel-women-safe-countries)
 
 ---
 
-If you're planning Mexico City, just describe what you want to Zercy (first trip, foodie, hipster, premium). You get suggestions with concrete hotels in fitting neighborhoods plus booking links.
+If you're planning Mexico City, just describe what you want to Zercy (first trip, foodie, hipster, premium). You get suggestions with concrete hotels in fitting neighborhoods plus booking links. Save the options in your [Zercy Logbook](https://www.zercy.app/logbook) so they are ready when you book.
 
 ## Frequently Asked Questions
 
@@ -118,6 +118,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel, tacos, metro). Mid-range
 ---
 
 **Read more:**
+- [Where to stay in Cancún: 4 neighborhoods](/en/blog/where-to-stay-cancun)
+- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena)
 - [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026)
-- [Solo travel for women: 7 safe countries + honest tips](/en/blog/solo-travel-women-safe-countries)
-- [Boutique hotels worldwide: small houses with character](/en/blog/boutique-hotels)

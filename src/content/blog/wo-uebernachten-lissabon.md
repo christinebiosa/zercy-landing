@@ -95,7 +95,7 @@ Lies dazu unseren detaillierten [AirBnB vs Hotel Vergleich](/blog/airbnb-vs-hote
 
 ---
 
-Wenn du Lissabon planst und nicht weißt welcher Stadtteil zu dir passt, beschreibe Zercy einfach was du suchst (Erstreise, Romantik, Foodie, Familie). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links.
+Wenn du Lissabon planst und nicht weißt welcher Stadtteil zu dir passt, beschreibe Zercy einfach was du suchst (Erstreise, Romantik, Foodie, Familie). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links. Speichere die Optionen im [Zercy Logbook](https://www.zercy.app/logbook), damit du sie beim Buchen direkt parat hast.
 
 ## Häufige Fragen
 
@@ -118,6 +118,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel, Selbstverpflegung). Mitt
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona)
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
 - [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade)
-- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
-- [Boutique Hotels: Kleine Häuser mit Charakter](/blog/boutique-hotels)

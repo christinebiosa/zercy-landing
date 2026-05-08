@@ -95,7 +95,7 @@ See our detailed [Airbnb vs Hotel comparison](/en/blog/airbnb-vs-hotel-compariso
 
 ---
 
-If you're planning Lisbon and don't know which neighborhood fits you, just describe what you want to Zercy (first trip, romance, foodie, family). You get suggestions with concrete hotels in fitting neighborhoods plus Booking links.
+If you're planning Lisbon and don't know which neighborhood fits you, just describe what you want to Zercy (first trip, romance, foodie, family). You get suggestions with concrete hotels in fitting neighborhoods plus Booking.com links. Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 ## Frequently Asked Questions
 
@@ -118,6 +118,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel, self-catering). Mid-rang
 ---
 
 **Read more:**
+- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona)
+- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris)
 - [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail)
-- [Airbnb vs Hotel: Which one is actually worth it?](/en/blog/airbnb-vs-hotel-comparison)
-- [Boutique hotels worldwide: small houses with character](/en/blog/boutique-hotels)

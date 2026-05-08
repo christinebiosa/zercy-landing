@@ -31,7 +31,7 @@ Palermo is the largest neighborhood of Buenos Aires and splits into multiple sub
 
 **Per-night prices:** Boutique hotels $90-200, mid-range $55-130, hostels $22-45.
 
-**Top picks:** Magnolia Hotel Boutique (small boutique with courtyard), Casa Calma Wellness Hotel (eco-friendly premium), Mine Hotel Boutique (designer in Palermo Soho).
+**Top picks:** Magnolia Hotel Boutique (small boutique with courtyard), Casa Calma Wellness Hotel (eco-friendly premium), Mine Hotel Boutique (designer in Palermo Soho). These and 1,500+ more Buenos Aires accommodations are on [Booking.com](https://www.booking.com) with USD-fixed prices (protects against peso fluctuations).
 
 Palermo is also ideal for longer stays. See our [workation guide](/en/blog/workation-tax-rules-2026), Argentina is currently extremely cheap for digital nomads due to weak peso.
 
@@ -94,7 +94,7 @@ See also our [solo travel for women guide](/en/blog/solo-travel-women-safe-count
 
 ---
 
-If you're planning Buenos Aires, just describe what you want to Zercy (tango, foodie, museums, premium). You get suggestions with concrete hotels in fitting neighborhoods plus booking links.
+If you're planning Buenos Aires, just describe what you want to Zercy (tango, foodie, museums, premium). You get suggestions with concrete hotels in fitting neighborhoods plus booking links. Save the options in your [Zercy Logbook](https://www.zercy.app/logbook) so they are ready when you book.
 
 ## Frequently Asked Questions
 
@@ -117,6 +117,6 @@ Buenos Aires is extremely cheap in 2026 due to peso weakness. Backpacker: $450-7
 ---
 
 **Read more:**
+- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena)
+- [Where to stay in Mexico City: 5 neighborhoods](/en/blog/where-to-stay-mexico-city)
 - [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026)
-- [Solo travel for women: 7 safe countries + honest tips](/en/blog/solo-travel-women-safe-countries)
-- [Morocco riads: which ones are actually worth it?](/en/blog/morocco-riads-guide)

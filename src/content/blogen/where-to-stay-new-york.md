@@ -31,7 +31,7 @@ Times Square, Broadway, Empire State, Rockefeller Center, Central Park south ent
 
 **Prices:** Mid-range $250-400 per night, premium $400-700, top hotels (Plaza, Mandarin Oriental) $800-1,500.
 
-**Top picks:** Pod 51 (compact designer rooms from $200), citizenM Times Square (modern, mid-range), The Knickerbocker (premium at Times Square).
+**Top picks:** Pod 51 (compact designer rooms from $200), citizenM Times Square (modern, mid-range), The Knickerbocker (premium at Times Square). These and 600+ more Manhattan hotels are on [Booking.com](https://www.booking.com) with neighborhood filters and live availability.
 
 **Caution:** Times Square hotels are loud at night. If you need sleep, book 3-4 blocks further out.
 
@@ -92,7 +92,7 @@ See also our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026), 
 
 ---
 
-If you're planning New York, just describe travel style and budget to Zercy. You get suggestions with concrete hotels in fitting neighborhoods plus direct booking links.
+If you're planning New York, just describe travel style and budget to Zercy. You get suggestions with concrete hotels in fitting neighborhoods plus direct booking links. Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) for later.
 
 ## Frequently Asked Questions
 
@@ -115,6 +115,6 @@ Backpacker: $1,500-2,000 per person incl. flight (hostel, self-catering). Mid-ra
 ---
 
 **Read more:**
+- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo)
+- [Where to stay in Mexico City: 5 neighborhoods](/en/blog/where-to-stay-mexico-city)
 - [Travel insurance 2026: what's worth it, what's junk?](/en/blog/travel-insurance-worth-it-2026)
-- [Airbnb vs Hotel: Which one is actually worth it?](/en/blog/airbnb-vs-hotel-comparison)
-- [Boutique hotels worldwide: small houses with character](/en/blog/boutique-hotels)

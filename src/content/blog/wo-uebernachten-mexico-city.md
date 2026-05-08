@@ -31,7 +31,7 @@ Roma Norte ist Mexico Citys hippester Stadtteil. Restaurierte Belle-Époque-Häu
 
 **Preise pro Nacht:** Boutique-Hotels 80-180 Euro, mittelklasse 50-120 Euro, Apartments 60-130 Euro.
 
-**Top-Picks:** Casa Decu (kleines Boutique mit Innenhof), Hotel Carlota (legendäres Boutique mit Pool), Brick Hotel (Luxus-Boutique mit Restaurants).
+**Top-Picks:** Casa Decu (kleines Boutique mit Innenhof), Hotel Carlota (legendäres Boutique mit Pool), Brick Hotel (Luxus-Boutique mit Restaurants). Diese und 1.800+ weitere CDMX-Hotels findest du auf [Booking.com](https://www.booking.com) mit Stadtteil-Filter und USD-fixen Preisen.
 
 ## Condesa: Art-Déco und Cafés
 
@@ -95,7 +95,7 @@ Lies dazu auch unseren [Solo-Reisen-Guide](/blog/solo-reisen-frauen-sicher), CDM
 
 ---
 
-Wenn du Mexico City planst, beschreibe Zercy einfach was du suchst (Erstreise, Foodie, Hipster, Premium). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links.
+Wenn du Mexico City planst, beschreibe Zercy einfach was du suchst (Erstreise, Foodie, Hipster, Premium). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links. Speichere die Optionen im [Zercy Logbook](https://www.zercy.app/logbook), damit du sie beim Buchen direkt parat hast.
 
 ## Häufige Fragen
 
@@ -118,6 +118,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel, Tacos, Metro). Mittelkla
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
 - [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026)
-- [Solo-Reisen als Frau: 7 sichere Länder + Tipps](/blog/solo-reisen-frauen-sicher)
-- [Boutique Hotels: Kleine Häuser mit Charakter](/blog/boutique-hotels)

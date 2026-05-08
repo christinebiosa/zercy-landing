@@ -109,4 +109,4 @@ Ein Positioning Flight ist ein günstiger Zubringerflug zu einem Hub, von dem au
 
 Madrid, Lissabon und Istanbul sind die drei günstigsten Abflughäfen für Business Class in und ab Europa. Istanbul bietet besonders gute Preise nach Asien und Afrika über Turkish Airlines. Madrid ist stark für Südamerika-Routen über Iberia. Der Preisunterschied zu Frankfurt, Zürich oder London beträgt regelmäßig 30 bis 50 Prozent.
 
-**Mehr lesen:** [Günstig fliegen: 11 Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps) · [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks) · [Nur Handgepäck: Leichter reisen, weniger Stress](/blog/nur-handgepaeck)
+**Mehr lesen:** [Beste Hotels in New York: Wo übernachten](/blog/wo-uebernachten-new-york) · [Beste Hotels in Tokio: Wo übernachten](/blog/wo-uebernachten-tokio) · [Günstig fliegen: 11 Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps)

@@ -11,6 +11,8 @@ Lissabon hat ein Problem. Alle wollen hin. Und alle landen in denselben drei Str
 
 Das ist schade. Denn die Stadt hat so viel mehr als Belém, die Straßenbahn 28 und den Elevador de Santa Justa. Du musst nur zwei Ecken weiter gehen.
 
+Wenn du noch nicht weißt in welchem Stadtteil du übernachten willst, lies vorher unseren [Wo-übernachten-in-Lissabon-Guide](/blog/wo-uebernachten-lissabon) zur Hotel-Wahl.
+
 ## Mouraria statt Alfama
 
 Alfama ist schön. Aber Alfama im Jahr 2026 bedeutet: Airbnb-Apartments in jeder zweiten Tür, Fado-Bars für Kreuzfahrt-Touristen und Preise wie in Barcelona.

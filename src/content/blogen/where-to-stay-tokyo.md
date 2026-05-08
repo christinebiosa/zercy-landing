@@ -31,7 +31,7 @@ Shinjuku Station is the world's busiest with 3.6 million daily passengers. Aroun
 
 **Per-night prices:** Mid-range $110-220, premium $280-500, top hotels (Park Hyatt) $550-1,100.
 
-**Top picks:** Park Hyatt Tokyo (legendary from "Lost in Translation"), Hyatt Regency Tokyo (reliably central), Citadines Central Shinjuku (apartment hotel with kitchenette).
+**Top picks:** Park Hyatt Tokyo (legendary from "Lost in Translation"), Hyatt Regency Tokyo (reliably central), Citadines Central Shinjuku (apartment hotel with kitchenette). These and 3,500+ more Tokyo hotels are on [Booking.com](https://www.booking.com) with neighborhood filter and translation service with the hotel.
 
 ## Shibuya: Young Tokyo
 
@@ -93,7 +93,7 @@ See also our [jet lag guide](/en/blog/jet-lag-fast-recovery), Tokyo is 13-14 hou
 
 ---
 
-If you're planning Tokyo, just describe what you want to Zercy (first trip, foodie, hipster, luxury). You get suggestions with concrete hotels in fitting neighborhoods plus booking links.
+If you're planning Tokyo, just describe what you want to Zercy (first trip, foodie, hipster, luxury). You get suggestions with concrete hotels in fitting neighborhoods plus booking links. Save the options in your [Zercy Logbook](https://www.zercy.app/logbook) so they are ready when you book.
 
 ## Frequently Asked Questions
 
@@ -116,6 +116,6 @@ Backpacker: $1,200-1,800 per person incl. flight (hostel, konbini food, public t
 ---
 
 **Read more:**
+- [Where to stay in New York: 5 neighborhoods](/en/blog/where-to-stay-new-york)
 - [Tokyo foodie trip: what you really need to eat](/en/blog/tokyo-foodie-trip)
 - [Beat jet lag fast: 7 science-backed strategies](/en/blog/jet-lag-fast-recovery)
-- [Boutique hotels worldwide: small houses with character](/en/blog/boutique-hotels)

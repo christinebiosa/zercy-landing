@@ -11,6 +11,8 @@ Eine Costa Rica Rundreise in 2 Wochen funktioniert, wenn du die richtige Route w
 
 Hier ist die Route, die sich wirklich fahren lässt.
 
+Falls du nach der Rundreise noch Strand-Tage in Mittelamerika willst, schau dir auch unseren [Wo-übernachten-in-Cancún-Guide](/blog/wo-uebernachten-cancun) an, gut kombinierbar als Add-on.
+
 ## Warum sind 2 Wochen die optimale Länge?
 
 Unter 10 Tagen stressig. Über 3 Wochen wird's teuer, ohne dass du viel mehr siehst. Zwei Wochen lassen dich Küste, Vulkan und Nebelwald verbinden, ohne jeden zweiten Tag zu packen.

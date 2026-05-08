@@ -31,7 +31,7 @@ Times Square, Broadway, Empire State, Rockefeller Center, Central Park-Süd-Eing
 
 **Preise:** Mittelklasse 250-400 Dollar pro Nacht, Premium 400-700 Dollar, Top-Hotels (Plaza, Mandarin Oriental) 800-1.500 Dollar.
 
-**Top-Picks:** Pod 51 (kompakte Designer-Zimmer ab 200 Dollar), citizenM Times Square (modern, mittelklasse), The Knickerbocker (Premium am Times Square).
+**Top-Picks:** Pod 51 (kompakte Designer-Zimmer ab 200 Dollar), citizenM Times Square (modern, mittelklasse), The Knickerbocker (Premium am Times Square). Diese und 600+ weitere Manhattan-Hotels findest du auf [Booking.com](https://www.booking.com) mit Stadtteil-Filter und Echtzeit-Verfügbarkeit.
 
 **Achtung:** Times-Square-Hotels sind nachts laut. Wer Schlaf braucht, lieber 3-4 Blocks weiter buchen.
 
@@ -92,7 +92,7 @@ Lies dazu auch unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lo
 
 ---
 
-Wenn du New York planst, beschreibe Zercy einfach Reisestil und Budget. Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Direkt-Buchungs-Links.
+Wenn du New York planst, beschreibe Zercy einfach Reisestil und Budget. Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Direkt-Buchungs-Links. Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook) für später.
 
 ## Häufige Fragen
 
@@ -115,6 +115,6 @@ Backpacker: 1.500-2.000 Dollar pro Person inkl. Flug (Hostel, Selbstverpflegung)
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
+- [Wo übernachten in Mexico City: Die 5 Stadtteile](/blog/wo-uebernachten-mexico-city)
 - [Reiseversicherung 2026: Was lohnt sich, was ist Quatsch?](/blog/reiseversicherung-was-lohnt-sich)
-- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
-- [Boutique Hotels: Kleine Häuser mit Charakter](/blog/boutique-hotels)

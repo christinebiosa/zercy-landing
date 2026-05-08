@@ -31,7 +31,7 @@ Le Marais war früher das jüdische Viertel von Paris, dann das LGBTQ+-Hub. Heut
 
 **Preise pro Nacht:** Boutique-Hotels 180-380 Euro, mittelklasse 130-220 Euro, Apartments 120-200 Euro.
 
-**Top-Picks:** Hôtel des Archives (kleines Boutique mit Geschichte), Le Pavillon de la Reine (Premium auf Place des Vosges), Hôtel Jeanne d'Arc Le Marais (mittelklasse mit Charakter).
+**Top-Picks:** Hôtel des Archives (kleines Boutique mit Geschichte), Le Pavillon de la Reine (Premium auf Place des Vosges), Hôtel Jeanne d'Arc Le Marais (mittelklasse mit Charakter). Diese und 4.500+ weitere Pariser Hotels findest du auf [Booking.com](https://www.booking.com) mit Arrondissement-Filter und kostenlosem Storno.
 
 ## Saint-Germain-des-Prés: Eleganz und Café-Kultur
 
@@ -92,7 +92,7 @@ Lies dazu auch unseren [Boutique-Hotels-Guide](/blog/boutique-hotels) für die b
 
 ---
 
-Wenn du Paris planst, beschreibe Zercy einfach was du suchst (Erstreise, Foodie, Premium, Slow Travel). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links.
+Wenn du Paris planst, beschreibe Zercy einfach was du suchst (Erstreise, Foodie, Premium, Slow Travel). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links. Speichere die Optionen im [Zercy Logbook](https://www.zercy.app/logbook), damit du sie beim Buchen direkt parat hast.
 
 ## Häufige Fragen
 
@@ -115,6 +115,6 @@ Backpacker: 800-1.200 Euro pro Person inkl. Flug (Hostel, Picknick im Park). Mit
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in Rom: Die 5 Stadtteile](/blog/wo-uebernachten-rom)
+- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon)
 - [Boutique Hotels: Kleine Häuser mit Charakter](/blog/boutique-hotels)
-- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
-- [Slow Travel: Was es wirklich bedeutet (und was nicht)](/blog/slow-travel-bedeutet-was)

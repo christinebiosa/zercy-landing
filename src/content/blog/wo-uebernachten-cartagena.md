@@ -81,7 +81,7 @@ Direktbuchung lohnt nur bei Top-Premium (Sofitel Santa Clara, Casa San Agustín)
 
 ---
 
-Wenn du Cartagena planst, beschreibe Zercy einfach was du suchst (Romantik, Foodie, Strand, Slow Travel). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links.
+Wenn du Cartagena planst, beschreibe Zercy einfach was du suchst (Romantik, Foodie, Strand, Slow Travel). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Booking-Links. Speichere die Optionen im [Zercy Logbook](https://www.zercy.app/logbook), damit du sie beim Buchen direkt parat hast.
 
 ## Häufige Fragen
 
@@ -104,6 +104,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel in Getsemaní, Lokales Es
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in Buenos Aires: Die 5 Stadtteile](/blog/wo-uebernachten-buenos-aires)
+- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun)
 - [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026)
-- [Solo-Reisen als Frau: 7 sichere Länder + Tipps](/blog/solo-reisen-frauen-sicher)
-- [Boutique Hotels: Kleine Häuser mit Charakter](/blog/boutique-hotels)

@@ -31,7 +31,7 @@ The historic center with Pantheon, Piazza Navona, Trevi Fountain, Spanish Steps,
 
 **Per-night prices:** Mid-range $145-245, boutique $220-440, premium (Hassler, J.K. Place Roma) $500-1,000.
 
-**Top picks:** J.K. Place Roma (5-star near Spanish Steps), Hotel de la Ville (premium with rooftop), Albergo del Senato (mid-range right at Pantheon).
+**Top picks:** J.K. Place Roma (5-star near Spanish Steps), Hotel de la Ville (premium with rooftop), Albergo del Senato (mid-range right at Pantheon). These and 3,000+ more Rome hotels are listed on [Booking.com](https://www.booking.com) with precise neighborhood filters and free cancellation.
 
 See our [48 hours in Rome guide](/en/blog/48-hours-rome) for the optimal route.
 
@@ -94,7 +94,7 @@ See our [Puglia guide](/en/blog/puglia-southern-italy-guide) if you're planning 
 
 ---
 
-If you're planning Rome, just describe what you want to Zercy (first trip, foodie, Vatican focus, slow travel). You get suggestions with concrete hotels in fitting neighborhoods plus booking links.
+If you're planning Rome, just describe what you want to Zercy (first trip, foodie, Vatican focus, slow travel). You get suggestions with concrete hotels in fitting neighborhoods plus booking links. Save the options in your [Zercy Logbook](https://www.zercy.app/logbook) so they are ready when you book.
 
 ## Frequently Asked Questions
 
@@ -117,6 +117,6 @@ Backpacker: $800-1,100 per person incl. flight (hostel, pizza al taglio). Mid-ra
 ---
 
 **Read more:**
+- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris)
+- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona)
 - [48 hours in Rome: the honest short-trip route](/en/blog/48-hours-rome)
-- [Puglia: Italy's most underrated southern region](/en/blog/puglia-southern-italy-guide)
-- [Airbnb vs Hotel: Which one is actually worth it?](/en/blog/airbnb-vs-hotel-comparison)

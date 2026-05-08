@@ -81,7 +81,7 @@ Lies dazu auch unseren [AirBnB vs Hotel Vergleich](/blog/airbnb-vs-hotel-verglei
 
 ---
 
-Wenn du Cancún planst und nicht weißt welcher Stadtteil zu deiner Reise passt, beschreibe Zercy einfach was du suchst (Familie, Budget, Strand-Fokus). Du bekommst Vorschläge mit konkreten Hotel-Optionen plus Buchungs-Links direkt zu Booking.com.
+Wenn du Cancún planst und nicht weißt welcher Stadtteil zu deiner Reise passt, beschreibe Zercy einfach was du suchst (Familie, Budget, Strand-Fokus). Du bekommst Vorschläge mit konkreten Hotel-Optionen plus Buchungs-Links direkt zu Booking.com. Speichere deine Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
 
 ## Häufige Fragen
 
@@ -104,6 +104,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel in El Centro, Bus zum Str
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in Mexico City: Die 5 Stadtteile](/blog/wo-uebernachten-mexico-city)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
 - [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
-- [Costa Rica Rundreise 2 Wochen: Die perfekte Route](/blog/costa-rica-rundreise-route)
-- [Boutique Hotels: Kleine Häuser mit Charakter](/blog/boutique-hotels)

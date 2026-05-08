@@ -31,7 +31,7 @@ Palermo ist das größte Stadtviertel von Buenos Aires und teilt sich in mehrere
 
 **Preise pro Nacht:** Boutique-Hotels 80-180 Euro, Mittelklasse 50-120 Euro, Hostels 20-40 Euro.
 
-**Top-Picks:** Magnolia Hotel Boutique (kleines Boutique mit Innenhof), Casa Calma Wellness Hotel (eco-friendly Premium), Mine Hotel Boutique (Designer in Palermo Soho).
+**Top-Picks:** Magnolia Hotel Boutique (kleines Boutique mit Innenhof), Casa Calma Wellness Hotel (eco-friendly Premium), Mine Hotel Boutique (Designer in Palermo Soho). Diese und 1.500+ weitere Buenos-Aires-Unterkünfte findest du auf [Booking.com](https://www.booking.com) mit USD-fixen Preisen (schützt vor Peso-Schwankungen).
 
 Palermo ist auch ideal für längere Aufenthalte. Lies dazu unseren [Workation-Guide](/blog/workation-steuern-2026), Argentinien ist wegen schwacher Peso aktuell extrem günstig für Digital Nomads.
 
@@ -94,7 +94,7 @@ Lies dazu auch unseren [Solo-Reisen-Guide für Frauen](/blog/solo-reisen-frauen-
 
 ---
 
-Wenn du Buenos Aires planst, beschreibe Zercy einfach was du suchst (Tango, Foodie, Museen, Premium). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Buchungs-Links.
+Wenn du Buenos Aires planst, beschreibe Zercy einfach was du suchst (Tango, Foodie, Museen, Premium). Du bekommst Vorschläge mit konkreten Hotels in passenden Stadtteilen plus Buchungs-Links zu Booking.com. Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du sie beim Buchen direkt parat hast.
 
 ## Häufige Fragen
 
@@ -117,6 +117,6 @@ Buenos Aires ist 2026 extrem günstig wegen Peso-Schwäche. Backpacker: 400-600 
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
+- [Wo übernachten in Mexico City: Die 5 Stadtteile](/blog/wo-uebernachten-mexico-city)
 - [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026)
-- [Solo-Reisen als Frau: 7 sichere Länder + Tipps](/blog/solo-reisen-frauen-sicher)
-- [Riads in Marokko: Welche lohnen sich wirklich?](/blog/riads-marokko-guide)

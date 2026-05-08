@@ -31,7 +31,7 @@ Le Marais was formerly the Jewish quarter of Paris, then the LGBTQ+ hub. Today i
 
 **Per-night prices:** Boutique hotels $200-420, mid-range $145-245, apartments $135-220.
 
-**Top picks:** Hôtel des Archives (small boutique with history), Le Pavillon de la Reine (premium on Place des Vosges), Hôtel Jeanne d'Arc Le Marais (mid-range with character).
+**Top picks:** Hôtel des Archives (small boutique with history), Le Pavillon de la Reine (premium on Place des Vosges), Hôtel Jeanne d'Arc Le Marais (mid-range with character). These and 4,500+ more Paris hotels are on [Booking.com](https://www.booking.com) with arrondissement filter and free cancellation.
 
 ## Saint-Germain-des-Prés: Elegance and café culture
 
@@ -92,7 +92,7 @@ See our [boutique hotels guide](/en/blog/boutique-hotels) for special selections
 
 ---
 
-If you're planning Paris, just describe what you want to Zercy (first trip, foodie, premium, slow travel). You get suggestions with concrete hotels in fitting neighborhoods plus booking links.
+If you're planning Paris, just describe what you want to Zercy (first trip, foodie, premium, slow travel). You get suggestions with concrete hotels in fitting neighborhoods plus booking links. Save the options in your [Zercy Logbook](https://www.zercy.app/logbook) so they are ready when you book.
 
 ## Frequently Asked Questions
 
@@ -115,6 +115,6 @@ Backpacker: $900-1,400 per person incl. flight (hostel, park picnic). Mid-range:
 ---
 
 **Read more:**
+- [Where to stay in Rome: 5 neighborhoods](/en/blog/where-to-stay-rome)
+- [Where to stay in Lisbon: 5 neighborhoods](/en/blog/where-to-stay-lisbon)
 - [Boutique hotels worldwide: small houses with character](/en/blog/boutique-hotels)
-- [Airbnb vs Hotel: Which one is actually worth it?](/en/blog/airbnb-vs-hotel-comparison)
-- [Slow travel: what it really means (and what it doesn't)](/en/blog/slow-travel-what-it-really-means)
