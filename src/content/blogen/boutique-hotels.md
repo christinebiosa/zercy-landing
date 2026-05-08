@@ -3,7 +3,7 @@ title: "Boutique Hotels: Why Small Is Often the Better Choice"
 metaTitle: "Boutique Hotels: Why They're Better | Zercy"
 description: "No conference center, no identical lobby, no breakfast buffet for 300 people. Boutique hotels offer something big chains often can't: character."
 pubDate: 2026-03-26
-category: "Stay Here"
+category: "Where to Stay"
 readingTime: 8
 ---
 

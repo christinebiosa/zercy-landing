@@ -3,7 +3,7 @@ title: "Riads in Marokko: Welche lohnen sich wirklich?"
 metaTitle: "Riads in Marokko: Der ehrliche Guide 2026 | Zercy"
 description: "Ein Riad ist mehr als ein Hotel mit Innenhof. Welche Riads in Marrakesch, Fès und Essaouira sich lohnen, was sie kosten und worauf du beim Buchen achten solltest."
 pubDate: 2026-04-28
-category: "Traumunterkünfte"
+category: "Wo übernachten"
 readingTime: 7
 ---
 

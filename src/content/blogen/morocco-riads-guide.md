@@ -3,7 +3,7 @@ title: "Morocco Riads: Which Ones Are Actually Worth It?"
 metaTitle: "Morocco Riads: The Honest Guide 2026 | Zercy"
 description: "A riad is more than a hotel with a courtyard. Which riads in Marrakech, Fes and Essaouira are worth booking in 2026, what they really cost, and what to watch for."
 pubDate: 2026-04-28
-category: "Stay Here"
+category: "Where to Stay"
 readingTime: 7
 ---
 

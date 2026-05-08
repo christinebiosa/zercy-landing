@@ -3,7 +3,7 @@ title: "AirBnB vs Hotel: Was lohnt sich wirklich?"
 metaTitle: "AirBnB vs Hotel: Der ehrliche Vergleich 2026 | Zercy"
 description: "Wann lohnt sich AirBnB, wann ein Hotel? Plus: Warum du viele AirBnB-Wohnungen auch bei Booking.com findest, mit besserem Service und sichererem Storno-Schutz."
 pubDate: 2026-04-28
-category: "Traumunterkünfte"
+category: "Wo übernachten"
 readingTime: 7
 ---
 
