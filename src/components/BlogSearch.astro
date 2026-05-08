@@ -177,20 +177,20 @@ const t = {
       }
       container.classList.add('is-loading');
       const search = await pf.search(query);
+
+      // Pagefind result objects expose id + data() — url lives in the loaded fragment.
+      // Load top 16 candidates, then filter by language path, then keep top 8.
+      const candidates = search.results.slice(0, 16);
+      const allData = await Promise.all(candidates.map(r => r.data()));
       container.classList.remove('is-loading');
+      const data = allData.filter(d => d && d.url && d.url.includes(pathPrefix)).slice(0, 8);
 
-      // Filter to only results in the current language path
-      const filtered = search.results.filter(r => r.url.includes(pathPrefix));
-
-      if (filtered.length === 0) {
+      if (data.length === 0) {
         results.innerHTML = `<div class="blog-search-empty">${tNoResults}</div>`;
         results.classList.add('has-content');
         return;
       }
 
-      // Limit to top 8 — load each result's data
-      const top = filtered.slice(0, 8);
-      const data = await Promise.all(top.map(r => r.data()));
       results.innerHTML = data.map(d => {
         const url = d.url.replace(/\.html$/, '').replace(/\/index$/, '/');
         return `<a class="blog-search-result" href="${url}">
