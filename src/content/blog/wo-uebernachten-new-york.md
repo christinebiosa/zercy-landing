@@ -31,7 +31,7 @@ Times Square, Broadway, Empire State, Rockefeller Center, Central Park-Süd-Eing
 
 **Preise:** Mittelklasse 250-400 Dollar pro Nacht, Premium 400-700 Dollar, Top-Hotels (Plaza, Mandarin Oriental) 800-1.500 Dollar.
 
-**Top-Picks:** Pod 51 (kompakte Designer-Zimmer ab 200 Dollar), citizenM Times Square (modern, mittelklasse), The Knickerbocker (Premium am Times Square). Diese und 600+ weitere Manhattan-Hotels findest du auf [Booking.com](https://www.booking.com) mit Stadtteil-Filter und Echtzeit-Verfügbarkeit.
+**Top-Picks:** Pod 51 (kompakte Designer-Zimmer ab 200 Dollar), citizenM Times Square (modern, mittelklasse), The Knickerbocker (Premium am Times Square). Diese und 600+ weitere Manhattan-Hotels findest du auf [Booking.com](https://www.booking.com) mit Stadtteil-Filter und Echtzeit-Verfügbarkeit. Die offizielle Tourismus-Organisation [NYC Tourism + Conventions](https://www.nyctourism.com) hat zudem eine kuratierte Hotel-Liste pro Stadtteil.
 
 **Achtung:** Times-Square-Hotels sind nachts laut. Wer Schlaf braucht, lieber 3-4 Blocks weiter buchen.
 

@@ -33,7 +33,7 @@ Baixa is the business district rebuilt after the 1755 earthquake. Today it's the
 
 **Top picks:** Lumiares Hotel (boutique with rooftop pool), Browns Downtown (modern, central), Internacional Design Hotel (mid-range, designer rooms).
 
-Direct access to all sights, perfect connection via the green Metro line. See our [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail) for inspiration beyond the main attractions.
+Direct access to all sights, perfect connection via the green Metro line. The [official Portuguese tourism board](https://www.visitportugal.com/en/destinos/lisboa) has a curated overview of Lisbon's neighborhoods and recommended hotels. See our [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail) for inspiration beyond the main attractions.
 
 ## Alfama: The heart of Lisbon
 

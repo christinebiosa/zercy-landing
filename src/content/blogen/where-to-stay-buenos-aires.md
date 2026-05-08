@@ -33,7 +33,7 @@ Palermo is the largest neighborhood of Buenos Aires and splits into multiple sub
 
 **Top picks:** Magnolia Hotel Boutique (small boutique with courtyard), Casa Calma Wellness Hotel (eco-friendly premium), Mine Hotel Boutique (designer in Palermo Soho). These and 1,500+ more Buenos Aires accommodations are on [Booking.com](https://www.booking.com) with USD-fixed prices (protects against peso fluctuations).
 
-Palermo is also ideal for longer stays. See our [workation guide](/en/blog/workation-tax-rules-2026), Argentina is currently extremely cheap for digital nomads due to weak peso.
+Palermo is also ideal for longer stays. See our [workation guide](/en/blog/workation-tax-rules-2026), Argentina is currently extremely cheap for digital nomads due to weak peso. The official city tourism board [Visit Buenos Aires](https://turismo.buenosaires.gob.ar/en) has a curated hotel overview by neighborhood.
 
 ## Recoleta: Elegance and culture
 

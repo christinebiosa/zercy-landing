@@ -41,7 +41,7 @@ Direkt neben Centro Histórico außerhalb der Mauer, früher Hafenarbeitervierte
 
 **Top-Picks:** Casa San Roque Hotel Boutique (klein, mit Innenhof), Townhouse Boutique Hotel (Designer-Boutique), Casa Lola (kleines Boutique nah am Plaza Trinidad).
 
-Auf [Booking.com](https://www.booking.com) findest du in Getsemaní besonders viele Boutique-Apartments, oft günstiger als im Centro.
+Auf [Booking.com](https://www.booking.com) findest du in Getsemaní besonders viele Boutique-Apartments, oft günstiger als im Centro. Die [kolumbianische Tourismusbehörde Procolombia](https://colombia.travel/de/cartagena-de-indias) hat eine kuratierte Hotel-Übersicht pro Stadtteil.
 
 ## Bocagrande: Strand und Hochhaus
 

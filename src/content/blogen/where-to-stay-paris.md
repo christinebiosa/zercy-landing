@@ -41,7 +41,7 @@ Saint-Germain on the Left Bank was home to Hemingway, Sartre, Simone de Beauvoir
 
 **Prices:** Boutique $220-500, premium (Lutetia, L'Hôtel) $440-1,000.
 
-**Top picks:** Hôtel Lutetia (legendary 5-star, lived in by Sartre), L'Hôtel (boutique where Oscar Wilde died), Hôtel d'Aubusson (boutique with courtyard).
+**Top picks:** Hôtel Lutetia (legendary 5-star, lived in by Sartre), L'Hôtel (boutique where Oscar Wilde died), Hôtel d'Aubusson (boutique with courtyard). The official tourism organization [Paris je t'aime](https://parisjetaime.com/eng/) has a curated overview of licensed hotels by arrondissement.
 
 ## Montmartre: Hill and artists
 

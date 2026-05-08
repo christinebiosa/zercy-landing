@@ -45,7 +45,7 @@ Engste Gassen, mittelalterliche Plätze, Catedral de Barcelona, Plaça Reial. Di
 
 **Top-Picks:** Mercer Hotel Barcelona (5-Sterne in restauriertem Renaissance-Palast), Hotel Neri (Boutique, ruhig trotz zentraler Lage), Hotel Bagués (in einem ehemaligen Jugendstil-Juwelier-Haus).
 
-Auf [Booking.com](https://www.booking.com) findest du im Gothic Quarter besonders viele kleine Boutique-Hotels mit Geschichte.
+Auf [Booking.com](https://www.booking.com) findest du im Gothic Quarter besonders viele kleine Boutique-Hotels mit Geschichte. Das [offizielle Barcelona-Tourismusbüro](https://www.barcelonaturisme.com/wv3/de/page/1530/wo-ubernachten.html) hat eine kuratierte Liste der lizenzierten Hotels pro Stadtteil.
 
 ## El Born: Hip und kulinarisch
 

@@ -33,7 +33,7 @@ Palermo ist das größte Stadtviertel von Buenos Aires und teilt sich in mehrere
 
 **Top-Picks:** Magnolia Hotel Boutique (kleines Boutique mit Innenhof), Casa Calma Wellness Hotel (eco-friendly Premium), Mine Hotel Boutique (Designer in Palermo Soho). Diese und 1.500+ weitere Buenos-Aires-Unterkünfte findest du auf [Booking.com](https://www.booking.com) mit USD-fixen Preisen (schützt vor Peso-Schwankungen).
 
-Palermo ist auch ideal für längere Aufenthalte. Lies dazu unseren [Workation-Guide](/blog/workation-steuern-2026), Argentinien ist wegen schwacher Peso aktuell extrem günstig für Digital Nomads.
+Palermo ist auch ideal für längere Aufenthalte. Lies dazu unseren [Workation-Guide](/blog/workation-steuern-2026), Argentinien ist wegen schwacher Peso aktuell extrem günstig für Digital Nomads. Die offizielle Stadt-Tourismusbehörde [Visit Buenos Aires](https://turismo.buenosaires.gob.ar/de) hat eine kuratierte Hotel-Übersicht pro Stadtteil.
 
 ## Recoleta: Eleganz und Kultur
 

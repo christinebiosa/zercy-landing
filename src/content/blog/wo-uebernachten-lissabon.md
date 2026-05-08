@@ -33,7 +33,7 @@ Baixa ist das nach dem Erdbeben 1755 wieder aufgebaute Geschäftsviertel. Heute 
 
 **Top-Picks:** Lumiares Hotel (Boutique mit Dachterrassen-Pool), Browns Downtown (modern, zentral), Internacional Design Hotel (mittelklasse, Designer-Zimmer).
 
-Direkter Zugang zu allen Sehenswürdigkeiten, perfekte Anbindung mit der grünen Metro-Linie. Lies dazu auch unseren [Lissabon-Guide abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade) für Inspirationen jenseits der Hauptattraktionen.
+Direkter Zugang zu allen Sehenswürdigkeiten, perfekte Anbindung mit der grünen Metro-Linie. Die [offizielle portugiesische Tourismusbehörde](https://www.visitportugal.com/de/destinos/lisboa) hat eine kuratierte Übersicht zu Lissabons Stadtteilen und empfohlenen Hotels. Lies dazu auch unseren [Lissabon-Guide abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade) für Inspirationen jenseits der Hauptattraktionen.
 
 ## Alfama: Das Herz von Lissabon
 

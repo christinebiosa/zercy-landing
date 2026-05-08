@@ -33,7 +33,7 @@ The historic center with Pantheon, Piazza Navona, Trevi Fountain, Spanish Steps,
 
 **Top picks:** J.K. Place Roma (5-star near Spanish Steps), Hotel de la Ville (premium with rooftop), Albergo del Senato (mid-range right at Pantheon). These and 3,000+ more Rome hotels are listed on [Booking.com](https://www.booking.com) with precise neighborhood filters and free cancellation.
 
-See our [48 hours in Rome guide](/en/blog/48-hours-rome) for the optimal route.
+The official city tourism board [Turismo Roma](https://www.turismoroma.it/en) has a curated overview of licensed hotels by neighborhood. See our [48 hours in Rome guide](/en/blog/48-hours-rome) for the optimal route.
 
 ## Trastevere: The lively Rome
 

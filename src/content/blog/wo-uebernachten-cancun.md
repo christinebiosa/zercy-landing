@@ -31,7 +31,7 @@ Die Zona Hotelera ist eine 25 Kilometer lange Sandbank zwischen Karibik und Lagu
 
 **Preise pro Nacht:** Mittelklasse-All-Inclusive ab 180 Euro, Premium ab 350 Euro, Top-Resort (Ritz-Carlton, Le Blanc) ab 600 Euro pro Person.
 
-**Top-Empfehlungen:** Riu Palace Las Americas (familienfreundlich, mittelklasse), Hyatt Ziva (premium, all-inclusive), Le Blanc Spa Resort (adults-only Luxus).
+**Top-Empfehlungen:** Riu Palace Las Americas (familienfreundlich, mittelklasse), Hyatt Ziva (premium, all-inclusive), Le Blanc Spa Resort (adults-only Luxus). Die [mexikanische Tourismusbehörde](https://www.visitmexico.com/quintana-roo/cancun) hat eine offizielle Übersicht zu allen Hotel-Klassifizierungen in Quintana Roo.
 
 Buche mindestens 2-3 Monate vorher, vor allem in Hochsaison (Dezember bis April). Bei [Booking.com](https://www.booking.com) findest du oft die gleichen Resorts mit Stornierungsschutz, was bei Pauschalreisen-Anbietern oft fehlt.
 

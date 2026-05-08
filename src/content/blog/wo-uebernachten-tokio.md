@@ -55,7 +55,7 @@ Asakusa ist das Tokio von früher: Senso-ji-Tempel (ältester Tempel der Stadt),
 
 **Top-Picks:** Ryokan Asakusa Shigetsu (traditioneller Ryokan mit Onsen), Hotel Wing International Premium Asakusa (mittelklasse, modern), Asakusa View Hotel (Premium mit Skyline-Blick).
 
-Auf [Booking.com](https://www.booking.com) findest du in Asakusa besonders viele kleine Ryokan, die woanders schwer zu buchen sind.
+Auf [Booking.com](https://www.booking.com) findest du in Asakusa besonders viele kleine Ryokan, die woanders schwer zu buchen sind. Die offizielle Tokyo-Tourismusbehörde [Go Tokyo](https://www.gotokyo.org/de/destinations/eastern-tokyo/asakusa/index.html) hat zudem eine kuratierte Übersicht zu authentischen Ryokans.
 
 ## Ginza: Luxus und Sushi
 

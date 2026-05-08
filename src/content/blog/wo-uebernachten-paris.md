@@ -41,7 +41,7 @@ Saint-Germain auf der linken Seine-Seite war Heimat von Hemingway, Sartre, Simon
 
 **Preise:** Boutique 200-450 Euro, Premium (Lutetia, L'Hôtel) 400-900 Euro.
 
-**Top-Picks:** Hôtel Lutetia (legendäres 5-Sterne, von Sartre bewohnt), L'Hôtel (Boutique wo Oscar Wilde starb), Hôtel d'Aubusson (Boutique mit Innenhof).
+**Top-Picks:** Hôtel Lutetia (legendäres 5-Sterne, von Sartre bewohnt), L'Hôtel (Boutique wo Oscar Wilde starb), Hôtel d'Aubusson (Boutique mit Innenhof). Die offizielle Tourismus-Organisation [Paris je t'aime](https://parisjetaime.com/deu/) hat eine kuratierte Übersicht zu lizenzierten Hotels pro Arrondissement.
 
 ## Montmartre: Hügel und Künstler
 

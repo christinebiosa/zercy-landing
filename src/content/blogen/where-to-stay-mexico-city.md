@@ -43,7 +43,7 @@ Right next to Roma, similar atmosphere but slightly quieter. Parque México and 
 
 **Top picks:** Condesa DF (legendary boutique with restaurant), Octavia Casa (designer boutique), Red Tree House (family-run with garden).
 
-See our [workation tax rules guide](/en/blog/workation-tax-rules-2026), Mexico City is a top spot for digital nomads in 2026.
+See our [workation tax rules guide](/en/blog/workation-tax-rules-2026), Mexico City is a top spot for digital nomads in 2026. The [official CDMX Tourism Secretariat](https://cdmxtravel.com/) has a curated overview of licensed hotels by neighborhood.
 
 ## Polanco: Luxury and Michelin restaurants
 

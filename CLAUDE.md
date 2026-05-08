@@ -372,8 +372,16 @@ City-Guides folgen einer eigenen Struktur, weil sie die Booking.com-Affiliate-St
 
 **Linking-Pflichten City-Guides (Cluster-Authority):**
 - **Booking.com-Mention im ERSTEN H2-Stadtteil-Block** (nicht nur am Ende)
+- **MIN. 1 Authority-Link** zur offiziellen Tourismus-Site der Stadt (z.B. visitportugal.com für Lissabon, gotokyo.org für Tokio, nyctourism.com für NYC, parisjetaime.com für Paris). Booking.com zählt NICHT als Authority. Standard-Format: "Die [offizielle Tourismusbehörde X](url) hat eine kuratierte Hotel-Übersicht pro Stadtteil."
 - **2 Cross-Links zu anderen City-Guides im "Mehr lesen"** (LATAM-Cities verlinken untereinander, Europa untereinander, etc.)
 - **1 Backlink von einem thematisch passenden Top-Artikel** in jeden neuen City-Guide setzen (z.B. business-class-ohne-meilen → wo-uebernachten-new-york; costa-rica-rundreise-route → wo-uebernachten-cancun; 48-stunden-rom → wo-uebernachten-rom)
+
+**AEO/Q-H2-Pattern bei City-Guides:**
+- Stadtteil-H2s sind Statements (legitim per Listen-Exception). Aber MINDESTENS 3 Q-H2s in jeden City-Guide einbauen:
+  - 1. Q-H2: "Welcher Stadtteil passt zu welcher Reise?" (Übersicht)
+  - 2. Q-H2: "Wo solltest du am Ende buchen?" (Booking-Push)
+  - **3. Q-H2 (NEU PFLICHT):** zwischen Stadtteilen einbauen, z.B. "Wann ist die beste Reisezeit für [Stadt]?" oder "Welcher Stadtteil ist am besten für Familien?" — natürliche Brücke zwischen Stadtteilen
+- FAQ mit 4 W-Wort-Fragen bleibt Standard.
 
 **Hotel-Empfehlungen pro Stadtteil:**
 - 3 Top-Picks (mittelklasse + boutique + premium) mit echten Hotel-Namen und kurzem Charakter

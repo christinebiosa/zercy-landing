@@ -31,7 +31,7 @@ The Hotel Zone is a 16-mile sandbar between Caribbean and lagoon. Over 150 hotel
 
 **Per-night prices:** Mid-range all-inclusive from $200, premium from $400, top resorts (Ritz-Carlton, Le Blanc) from $700 per person.
 
-**Top picks:** Riu Palace Las Americas (family-friendly, mid-range), Hyatt Ziva (premium, all-inclusive), Le Blanc Spa Resort (adults-only luxury).
+**Top picks:** Riu Palace Las Americas (family-friendly, mid-range), Hyatt Ziva (premium, all-inclusive), Le Blanc Spa Resort (adults-only luxury). The [Mexican tourism board](https://www.visitmexico.com/quintana-roo/cancun) has the official directory of all hotel classifications in Quintana Roo.
 
 Book at least 2-3 months ahead, especially high season (December to April). On [Booking.com](https://www.booking.com) you'll find the same resorts with cancellation protection, often missing from package operators.
 

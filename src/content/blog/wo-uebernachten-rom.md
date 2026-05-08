@@ -33,7 +33,7 @@ Das historische Zentrum mit Pantheon, Piazza Navona, Trevi-Brunnen, Spanische Tr
 
 **Top-Picks:** J.K. Place Roma (5-Sterne nahe Spanische Treppe), Hotel de la Ville (Premium mit Dachterrasse), Albergo del Senato (mittelklasse direkt am Pantheon). Diese und 3.000+ weitere Rom-Hotels sind auf [Booking.com](https://www.booking.com) gelistet mit präzisen Stadtteil-Filtern und kostenlosem Storno.
 
-Lies dazu auch unseren [48 Stunden in Rom-Guide](/blog/48-stunden-rom) für die optimale Route.
+Die offizielle Stadt-Tourismusbehörde [Turismo Roma](https://www.turismoroma.it/de) hat eine kuratierte Übersicht zu lizenzierten Hotels pro Stadtteil. Lies dazu auch unseren [48 Stunden in Rom-Guide](/blog/48-stunden-rom) für die optimale Route.
 
 ## Trastevere: Das lebendige Rom
 

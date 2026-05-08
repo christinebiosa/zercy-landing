@@ -43,7 +43,7 @@ Direkt neben Roma, ähnliche Atmosphäre aber etwas ruhiger. Parque México und 
 
 **Top-Picks:** Condesa DF (legendäres Boutique mit Restaurant), Octavia Casa (Designer-Boutique), Red Tree House (familiengeführt mit Garten).
 
-Lies dazu auch unseren [Workation-Steuern-Guide](/blog/workation-steuern-2026), Mexico City ist 2026 ein Top-Spot für digitale Nomaden.
+Lies dazu auch unseren [Workation-Steuern-Guide](/blog/workation-steuern-2026), Mexico City ist 2026 ein Top-Spot für digitale Nomaden. Die [offizielle CDMX-Tourismus-Sekretariat](https://cdmxtravel.com/) hat eine kuratierte Übersicht zu lizenzierten Hotels pro Stadtteil.
 
 ## Polanco: Luxus und Sterne-Restaurants
 

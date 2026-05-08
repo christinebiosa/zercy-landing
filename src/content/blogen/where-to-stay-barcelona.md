@@ -45,7 +45,7 @@ Narrowest alleys, medieval squares, Catedral de Barcelona, Plaça Reial. Right n
 
 **Top picks:** Mercer Hotel Barcelona (5-star in restored Renaissance palace), Hotel Neri (boutique, quiet despite central location), Hotel Bagués (in former Art Nouveau jeweler's house).
 
-On [Booking.com](https://www.booking.com) you'll find many small boutique hotels with history in the Gothic Quarter.
+On [Booking.com](https://www.booking.com) you'll find many small boutique hotels with history in the Gothic Quarter. The [official Barcelona tourism office](https://www.barcelonaturisme.com/wv3/en/page/1530/where-to-sleep.html) has a curated list of licensed hotels by neighborhood.
 
 ## El Born: Hip and culinary
 
