@@ -292,6 +292,11 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - cyber-sicherheit-reisen, mit-hund-europa-reisen
 - beste-travel-apps-2026, stopover-tourismus-guide
 - 48-stunden-rom, sabbatical-planen-guide
+- wo-uebernachten-cancun, wo-uebernachten-lissabon
+- wo-uebernachten-new-york, wo-uebernachten-buenos-aires
+- wo-uebernachten-tokio, wo-uebernachten-barcelona
+- wo-uebernachten-paris, wo-uebernachten-rom
+- wo-uebernachten-mexico-city, wo-uebernachten-cartagena
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -318,6 +323,11 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - cyber-security-travel-2026, traveling-with-dog-europe
 - best-travel-apps-2026, stopover-tourism-guide
 - 48-hours-rome, sabbatical-planning-guide
+- where-to-stay-cancun, where-to-stay-lisbon
+- where-to-stay-new-york, where-to-stay-buenos-aires
+- where-to-stay-tokyo, where-to-stay-barcelona
+- where-to-stay-paris, where-to-stay-rome
+- where-to-stay-mexico-city, where-to-stay-cartagena
 
 ### Schema — automatisch via Template
 Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:
