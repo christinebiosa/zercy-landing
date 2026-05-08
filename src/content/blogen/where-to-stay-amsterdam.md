@@ -5,6 +5,7 @@ description: "Amsterdam has 5 very different neighborhoods: Centrum touristy, Jo
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/amsterdam.jpg"
 ---
 
 Amsterdam is small for a capital — everything within 30 min biking distance. Yet the neighborhoods differ dramatically. In Centrum you stand between tourist hustle and canals, in Jordaan between boutique hotels and the Vermeer museum, in De Pijp between Albert Cuyp Market and hip cafés. Your neighborhood choice decides whether you experience tourist or real Amsterdam.

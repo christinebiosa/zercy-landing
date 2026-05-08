@@ -5,6 +5,7 @@ description: "Athen hat 5 sehr unterschiedliche Stadtteile: Plaka Akropolis, Mon
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/athens.jpg"
 ---
 
 Athen wird oft als Zwischenstopp zu den Inseln gesehen. Drei Tage, Akropolis, weiter nach Santorin. Schade, denn die Stadt hat sich in den letzten Jahren verändert. Plaka mit seinen weißen Häusern unter dem Akropolis-Felsen ist der Klassiker. Aber Koukaki ist Time Magazines "coolster Stadtteil der Welt" geworden, mit Café-Kultur und Boutique-Hotels.

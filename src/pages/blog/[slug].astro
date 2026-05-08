@@ -157,6 +157,7 @@ const canonicalUrl = `https://www.zercy.app/blog/${post.id}`;
 
     /* HERO BANNER */
     .article-banner { height: 130px; display: flex; align-items: center; justify-content: center; margin: 1.5rem 0; border-radius: 12px; }
+    .article-banner-photo { height: 280px; margin: 1.5rem 0; border-radius: 12px; background-size: cover; background-position: center; background-repeat: no-repeat; }
     .cat-icon :global(svg) { width: 44px; height: 44px; display: block; }
 
     /* ARTICLE */
@@ -241,9 +242,13 @@ const canonicalUrl = `https://www.zercy.app/blog/${post.id}`;
     <a href="/blog">← Blog</a> &nbsp;/&nbsp; {post.data.category}
   </div>
 
-  <div class="article-banner" style={`background: ${bg};`}>
-    <span class="cat-icon" style={`color: ${color};`}><Fragment set:html={icon} /></span>
-  </div>
+  {post.data.heroImage ? (
+    <div class="article-banner-photo" style={`background-image: url('${post.data.heroImage}');`}></div>
+  ) : (
+    <div class="article-banner" style={`background: ${bg};`}>
+      <span class="cat-icon" style={`color: ${color};`}><Fragment set:html={icon} /></span>
+    </div>
+  )}
 
   <main>
     <span class="article-category" style={`background: ${color};`}>{post.data.category}</span>

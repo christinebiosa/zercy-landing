@@ -8,6 +8,7 @@ const postSchema = z.object({
   pubDate: z.date(),
   category: z.string(),
   readingTime: z.number(),
+  heroImage: z.string().optional(),
 });
 
 const blog = defineCollection({

@@ -5,6 +5,7 @@ description: "Amsterdam hat 5 sehr unterschiedliche Stadtteile: Centrum touristi
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/amsterdam.jpg"
 ---
 
 Amsterdam ist klein für eine Hauptstadt — alles in 30 Min Fahrrad-Distanz. Trotzdem unterscheiden sich die Stadtteile dramatisch. In Centrum stehst du zwischen Touristen-Trubel und Grachten, in Jordaan zwischen Boutique-Hotels und Vermeer-Museum, in De Pijp zwischen Albert Cuyp Markt und hippen Cafés. Die Wahl deines Stadtteils entscheidet, ob du das Touristen- oder das echte Amsterdam erlebst.
