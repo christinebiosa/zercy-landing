@@ -5,6 +5,7 @@ description: "London hat 5 sehr unterschiedliche Stadtteile: Soho zentral, South
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "London"
 ---
 
 London ist eine der teuersten Hotelstädte Europas, aber auch eine der vielfältigsten. In Soho stehst du zwischen Theatern und Bars, in South Kensington zwischen Museen und Townhouses, in Shoreditch zwischen Streetart und Craft Brewery. Die Wahl deines Stadtteils entscheidet, welches London du erlebst.

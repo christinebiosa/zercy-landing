@@ -5,6 +5,7 @@ description: "Berlin hat 5 sehr unterschiedliche Stadtteile: Mitte zentral, Kreu
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Berlin"
 ---
 
 Berlin ist die billigste Hauptstadt Westeuropas und die Stadt mit den meisten Stadtteilen mit eigenem Charakter. In Mitte stehst du zwischen Brandenburger Tor und Museumsinsel, in Kreuzberg zwischen Türken-Imbissen und Techno-Clubs, in Prenzlauer Berg zwischen Sandkästen und Specialty-Coffee. Die Wahl deines Stadtteils bestimmt komplett deine Berlin-Erfahrung.

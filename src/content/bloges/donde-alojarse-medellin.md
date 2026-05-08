@@ -5,6 +5,7 @@ description: "Medellín tiene 4 barrios muy distintos: El Poblado premium, Laure
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Medellin"
 ---
 
 A Medellín se la llama "Ciudad de la eterna primavera". 23 grados todos los días, todo el año. En los años 90 fue señalada como la ciudad más peligrosa del mundo, hoy es la ciudad más innovadora de América Latina con metrocables que conectan barrios populares con el Centro, urbanismo reconocido por el MIT, y una ola de nómadas digitales que llena todos los hostales. 4 barrios la dividen, cada uno con identidad propia.

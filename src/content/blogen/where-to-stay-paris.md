@@ -5,6 +5,7 @@ description: "Paris has 5 very different neighborhoods: Marais hip-historic, Sai
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Paris"
 ---
 
 Paris is divided into 20 arrondissements, but for tourists 5 neighborhoods matter most. In Le Marais you stay in a boutique hotel between LGBTQ+ bars and falafel stands, in Saint-Germain in a Belle Époque salon with writer history, in Montmartre on the hill with Sacré-Cœur view.

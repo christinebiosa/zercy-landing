@@ -5,6 +5,7 @@ description: "Mendoza hat 4 sehr unterschiedliche Bereiche: Stadt-Zentrum, Lujan
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Mendoza"
 ---
 
 Mendoza ist Argentiniens Wein-Hauptstadt. Die Stadt am Fuß der Anden, mit mehr Sonnen­tagen pro Jahr als die Toskana, hat sich als Malbec-Hauptstadt der Welt etabliert. 80 Prozent des argentinischen Malbecs kommt von hier. Aber wo übernachten? In der Stadt selbst, oder in einem Bodega-Hotel zwischen Weinreben? 4 Bereiche teilen die Mendoza-Region auf, jeder mit eigener Wein-Identität.

@@ -5,6 +5,7 @@ description: "Tulum hat 4 sehr unterschiedliche Stadtteile: Tulum Pueblo budgetf
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Tulum"
 ---
 
 Tulum klang früher nach versteckter Karibik-Geheimtipp. 2026 ist es eine der teuersten Beach-Destinationen Mexikos. Aber: die Stadt teilt sich in 4 sehr unterschiedliche Stadtteile mit kompletten Welten dazwischen. In einem zahlst du 800 Euro pro Nacht für ein Boutique-Strandresort, in einem anderen 30 Euro für ein modernes Hostel.

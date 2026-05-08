@@ -5,6 +5,7 @@ description: "Lisbon has 5 very different neighborhoods: Baixa central, Alfama h
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Lisbon"
 ---
 
 Lisbon is a city of contrasts. In Alfama, fado drifts from a half-open door. In Príncipe Real, you sip craft beer in a renovated palace. In Belém, you see the ocean and history. In Bairro Alto, the weekend turns into one continuous celebration.

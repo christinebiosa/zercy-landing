@@ -5,6 +5,7 @@ description: "Mexico City hat 5 sehr unterschiedliche Stadtteile: Roma, Condesa,
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Mexico City"
 ---
 
 Mexico City (CDMX) ist die größte Stadt Nordamerikas mit 22 Millionen Einwohnern. Trotzdem fühlst du dich kaum überfordert, wenn du den richtigen Stadtteil wählst. In Roma trinkst du Mezcal in Speakeasy-Bars, in Polanco isst du in Pujol (10. der Welt), in Coyoacán läufst du Frida Kahlos Spuren nach.

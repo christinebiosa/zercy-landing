@@ -5,6 +5,7 @@ description: "Cusco tiene 4 barrios muy distintos: Plaza de Armas, San Blas art�
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Cusco"
 ---
 
 Cusco es la capital del antiguo Imperio Inca y la puerta de entrada a Machu Picchu. Ubicada a 3.400 metros de altitud (más alta que Quito o La Paz), la ciudad requiere un día de aclimatación primero. Es Patrimonio UNESCO desde 1983, con iglesias coloniales construidas sobre muros incas. 4 barrios dividen la ciudad: Plaza de Armas en el centro, San Blas con ambiente de artistas, San Pedro con el famoso mercado, San Cristóbal con vista panorámica.

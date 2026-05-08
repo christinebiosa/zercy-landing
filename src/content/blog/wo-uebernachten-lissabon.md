@@ -5,6 +5,7 @@ description: "Lissabon hat 5 sehr unterschiedliche Stadtteile: Baixa zentral, Al
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Lisbon"
 ---
 
 Lissabon ist eine Stadt der Kontraste. In Alfama läuft im Hintergrund Fado aus einer Türöffnung, in Príncipe Real trinkst du Craft Beer in einem renovierten Palast. In Belém siehst du das Meer und die Geschichte, in Bairro Alto wird das Wochenende zum durchgehenden Fest.

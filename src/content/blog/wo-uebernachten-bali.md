@@ -5,6 +5,7 @@ description: "Bali hat 5 sehr unterschiedliche Regionen: Ubud Yoga-Jungle, Cangg
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Bali"
 ---
 
 Bali ist nicht eine Destination, sondern fünf. Die Insel teilt sich in fünf sehr unterschiedliche Regionen mit komplett anderem Charakter: In Ubud meditierst du in einem Reisterrassen-Resort, in Canggu trinkst du Cold Brew zwischen Surfern, in Seminyak isst du in Beach Clubs für 80 Euro pro Person, in Uluwatu siehst du Sonnenuntergänge auf 100 Meter hohen Klippen, in Sanur spielen Kinder in flachen Lagunen.

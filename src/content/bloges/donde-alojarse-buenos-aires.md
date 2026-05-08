@@ -5,6 +5,7 @@ description: "Buenos Aires tiene 5 barrios muy distintos: Palermo hip, Recoleta 
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Buenos Aires"
 ---
 
 Buenos Aires se llama "París de Sudamérica" por buena razón. Pero donde París tiene un plan claro, Buenos Aires es un mosaico de barrios fundamentalmente distintos. En Palermo tomas cócteles en bares speakeasy, en San Telmo el tango en vivo recorre las calles, en Recoleta admiras mausoleos, en Puerto Madero paseas junto a antiguos depósitos de ladrillo.

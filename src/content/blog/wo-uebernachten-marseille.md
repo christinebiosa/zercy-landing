@@ -5,6 +5,7 @@ description: "Marseille hat 4 sehr unterschiedliche Stadtteile: Vieux Port Hafen
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Marseille"
 ---
 
 Marseille ist Frankreichs ehrliche Stadt. Keine glatten Boulevards wie Paris, keine Luxus-Promenade wie Nizza. Hier riecht es nach Bouillabaisse am Vieux Port, nach Lavendel im Panier, nach Salzwasser in den Calanques. Frankreichs zweitgrößte Stadt war jahrzehntelang als rough verschrien, hat sich aber als Kulturhauptstadt 2013 neu erfunden. MUCEM, Le Corbusiers Cité Radieuse, Calanques-Nationalpark vor der Haustür.

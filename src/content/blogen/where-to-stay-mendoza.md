@@ -5,6 +5,7 @@ description: "Mendoza has 4 very different areas: city center, Lujan de Cuyo win
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Mendoza"
 ---
 
 Mendoza is Argentina's wine capital. The city at the foot of the Andes, with more sunny days per year than Tuscany, has established itself as the world's Malbec capital. 80 percent of Argentinian Malbec comes from here. But where to stay? In the city itself, or in a bodega hotel between vineyards? 4 areas divide the Mendoza region, each with its own wine identity.

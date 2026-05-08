@@ -5,6 +5,7 @@ description: "Madrid has 5 very different neighborhoods: Sol tourist heart, Mala
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Madrid"
 ---
 
 Madrid is not Barcelona. There's no sea, no Gaudí architecture, no beach hipster vibe. Instead tapas bars opening at 11pm, the Prado Museum with the legacy of Velázquez and Goya, a Royal Family that still resides in the Palacio Real. Madrid is Spain's capital and acts the part: proud, classic, lively until 4am.

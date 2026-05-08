@@ -5,6 +5,7 @@ description: "Wien hat 5 sehr unterschiedliche Bezirke: Innere Stadt Kaiserlich,
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Vienna"
 ---
 
 Wien ist eine Stadt der Bezirksnummern, und die machen am Anfang verrückt. Im 1. Bezirk wohnst du zwischen Stephansdom und Hofburg in alten Palais-Hotels, im 7. Bezirk in einem Designerloft mit Streetart vor der Tür, im 2. Bezirk im grünen Prater-Park am Wasser. Welche Wahl du triffst, prägt deine Wien-Erfahrung mehr als jedes Sightseeing-Programm.

@@ -5,6 +5,7 @@ description: "Bogotá has 4 very different neighborhoods: Candelaria old town, C
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Bogota"
 ---
 
 Bogotá is Colombia's capital at 8,660 ft in the Andes. 8 million inhabitants, eternal-spring climate (54-66°F year-round), the most universities in Latin America. Long considered a security risk, but completely transformed in the last 15 years. 4 very different neighborhoods divide the city: Candelaria in the historical center, Chapinero as hipster hub, Zona Rosa as premium area, Usaquén as slow-travel island.

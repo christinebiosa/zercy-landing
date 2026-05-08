@@ -5,6 +5,7 @@ description: "Rio hat 4 sehr unterschiedliche Stadtteile: Copacabana klassischer
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Rio de Janeiro"
 ---
 
 Rio de Janeiro ist die Cidade Maravilhosa, aber auch die komplizierteste Hotel-Wahl Lateinamerikas. Manche Stadtteile sind sehr sicher und touristisch, andere kannst du tagsüber besuchen, aber nicht übernachten. Die Wahl deines Stadtteils entscheidet komplett deine Rio-Erfahrung.

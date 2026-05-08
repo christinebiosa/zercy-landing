@@ -6,6 +6,7 @@ pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
 heroImage: "/img/blog/athens.jpg"
+bookingDest: "Athens"
 ---
 
 Athens is often seen as a stopover to the islands. Three days, Acropolis, off to Santorini. A pity, because the city has changed in recent years. Plaka with its white houses below the Acropolis rock is the classic. But Koukaki has become Time Magazine's "coolest neighborhood in the world," with café culture and boutique hotels.

@@ -5,6 +5,7 @@ description: "London has 5 very different neighborhoods: Soho central, South Ken
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "London"
 ---
 
 London is one of Europe's most expensive hotel cities, but also one of the most diverse. In Soho you stand between theaters and bars, in South Kensington between museums and townhouses, in Shoreditch between street art and craft brewery. Your neighborhood choice decides which London you experience.

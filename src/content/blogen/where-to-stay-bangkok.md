@@ -5,6 +5,7 @@ description: "Bangkok has 5 very different neighborhoods: Sukhumvit modern, Silo
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Bangkok"
 ---
 
 Bangkok is one of Asia's largest cities with 11 million inhabitants and unprecedented hotel density. 5 main neighborhoods cover all travel styles: from the boutique hostel on Khao San Road to the Mandarin Oriental on the Chao Phraya River. Your neighborhood choice decides whether you experience temple-hopping, mall-shopping, or rooftop bars.

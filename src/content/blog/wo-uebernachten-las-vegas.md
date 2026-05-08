@@ -5,6 +5,7 @@ description: "Las Vegas hat 4 sehr unterschiedliche Bereiche: Mid-Strip Bellagio
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Las Vegas"
 ---
 
 Las Vegas ist eine Stadt mit 6,8 km Hauptstraße. Der Strip. Auf diesen 6,8 km stehen 30 der 50 größten Hotels der Welt: Bellagio mit dem Springbrunnen, Caesars Palace mit den römischen Säulen, Wynn mit Conservatory, MGM Grand mit der Sphinx. Wo du auf dem Strip wohnst, entscheidet welche Casinos du zu Fuß erreichst und wie viel Uber du brauchst.

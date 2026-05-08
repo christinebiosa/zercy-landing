@@ -5,6 +5,7 @@ description: "Buenos Aires has 5 very different neighborhoods: Palermo hip, Reco
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Buenos Aires"
 ---
 
 Buenos Aires calls itself "Paris of South America" for good reason. But where Paris has a clear plan, Buenos Aires is a mosaic of fundamentally different neighborhoods. In Palermo you sip cocktails in speakeasy bars, in San Telmo live tango runs through the streets, in Recoleta you marvel at mausoleums, in Puerto Madero you stroll past old brick warehouses.

@@ -5,6 +5,7 @@ description: "Lima tiene 4 distritos muy distintos: Miraflores premium en acanti
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Lima"
 ---
 
 Lima es una de las ciudades más subestimadas de América Latina. 11 millones de habitantes, un centro colonial de más de 500 años, acantilados de 200 metros sobre el Pacífico, una de las mejores escenas gastronómicas del mundo (Central, Maido y Mayta en el World's 50 Best). Tu elección de distrito decide si experimentas la Lima turística o la Lima foodie.

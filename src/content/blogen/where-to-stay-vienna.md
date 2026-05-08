@@ -5,6 +5,7 @@ description: "Vienna has 5 very different districts: Innere Stadt imperial, Neub
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Vienna"
 ---
 
 Vienna is a city of district numbers, and they confuse you at first. In the 1st district you stay between St. Stephen's Cathedral and Hofburg in old palais hotels, in the 7th district in a designer loft with street art outside, in the 2nd district in the green Prater park by the water. Your choice shapes your Vienna experience more than any sightseeing program.

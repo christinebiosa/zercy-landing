@@ -5,6 +5,7 @@ description: "Mendoza tiene 4 zonas muy distintas: Capital, Luján de Cuyo viní
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Mendoza"
 ---
 
 Mendoza es la capital del vino de Argentina. La ciudad al pie de los Andes, con más días soleados al año que la Toscana, se ha establecido como capital mundial del Malbec. El 80 por ciento del Malbec argentino viene de aquí. Pero ¿dónde quedarse? ¿En la ciudad misma, o en un hotel-bodega entre viñedos? 4 zonas dividen la región de Mendoza, cada una con identidad vinícola propia.

@@ -5,6 +5,7 @@ description: "Medellín hat 4 sehr unterschiedliche Stadtteile: El Poblado Premi
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Medellin"
 ---
 
 Medellín wird "Stadt des ewigen Frühlings" genannt. 23 Grad jeden Tag, das ganze Jahr. In den 1990ern als gefährlichste Stadt der Welt verschrien, ist sie heute Lateinamerikas innovativste Stadt mit Seilbahnen, die Armenviertel mit dem Centro verbinden, mit MIT-anerkannter Stadtplanung, mit einer Digital-Nomad-Welle die alle Hostels füllt. 4 Stadtteile teilen sie auf, jeder mit eigener Identität.

@@ -5,6 +5,7 @@ description: "Río tiene 4 barrios muy distintos: Copacabana playa clásica, Ipa
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Rio de Janeiro"
 ---
 
 Río de Janeiro es la Cidade Maravilhosa, pero también la elección de hotel más complicada de América Latina. Algunos barrios son muy seguros y turísticos, otros se pueden visitar de día pero no quedarse a dormir. Tu elección de barrio determina por completo tu experiencia en Río.

@@ -5,6 +5,7 @@ description: "Marrakesch hat 4 sehr unterschiedliche Stadtteile: Medina Riads, H
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Marrakech"
 ---
 
 Marrakesch ist eine Stadt mit vier komplett unterschiedlichen Welten innerhalb der Stadtgrenzen. In der Medina übernachtest du in einem Riad in einem 300 Jahre alten Innenhof, in Hivernage in einem 5-Sterne-Hotel mit Pool und Spa, in Gueliz in einem modernen Boutique mit französischem Café, in der Palmeraie in einem Wüsten-Resort 20 Min außerhalb. Die Wahl deines Stadtteils entscheidet komplett deine Marrakesch-Erfahrung.

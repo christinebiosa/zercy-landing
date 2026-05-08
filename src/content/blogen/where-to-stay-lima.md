@@ -5,6 +5,7 @@ description: "Lima has 4 very different neighborhoods: Miraflores cliff premium,
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Lima"
 ---
 
 Lima is one of the most underrated cities in Latin America. 11 million inhabitants, a colonial center over 500 years old, 650-foot cliffs above the Pacific, one of the best restaurant scenes worldwide (Central, Maido and Mayta in the World's 50 Best). Your neighborhood choice decides whether you experience tourist-Lima or foodie-Lima.

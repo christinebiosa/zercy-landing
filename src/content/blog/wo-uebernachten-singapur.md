@@ -5,6 +5,7 @@ description: "Singapur hat 5 sehr unterschiedliche Stadtteile: Marina Bay Skylin
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Singapore"
 ---
 
 Singapur ist Asiens beste Erste-Station. Englisch wird überall gesprochen, alles ist sauber und sicher, der Changi-Flughafen ist seit 12 Jahren in Folge bester Flughafen der Welt. Aber wo übernachten? In Marina Bay zwischen Wolkenkratzern, in Chinatown zwischen Tempeln und Hawker-Stalls, am Strand auf Sentosa? Singapur hat fünf sehr verschiedene Welten auf 720 Quadratkilometern.

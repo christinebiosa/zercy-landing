@@ -5,6 +5,7 @@ description: "Cancún hat 4 völlig unterschiedliche Wohnviertel: Zona Hotelera 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Cancun"
 ---
 
 Cancún klingt nach einer einzigen Strand-Destination, aber die Stadt teilt sich in komplett unterschiedliche Welten auf. In der einen schläfst du in 5-Sterne-Resorts mit All-Inclusive-Bändchen am Handgelenk. In der anderen kostet das Mittagessen 5 Euro und du siehst keinen einzigen Touristen. Die Wahl deines Stadtteils entscheidet, ob du Mexiko erlebst oder nur einen tropischen Pool.

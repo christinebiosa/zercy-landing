@@ -5,6 +5,7 @@ description: "Berlin has 5 very different neighborhoods: Mitte central, Kreuzber
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Berlin"
 ---
 
 Berlin is the cheapest capital in Western Europe and the city with the most neighborhoods of distinct character. In Mitte you stand between Brandenburg Gate and Museum Island, in Kreuzberg between Turkish kebab shops and techno clubs, in Prenzlauer Berg between sandboxes and specialty coffee. Your neighborhood choice completely determines your Berlin experience.

@@ -5,6 +5,7 @@ description: "Bogotá tiene 4 barrios muy distintos: Candelaria casco antiguo, C
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Bogota"
 ---
 
 Bogotá es la capital de Colombia a 2.640 metros de altitud en los Andes. 8 millones de habitantes, clima de eterna primavera (12-19 grados todo el año), la mayoría de universidades de América Latina. Durante mucho tiempo se la consideró un riesgo de seguridad, pero en los últimos 15 años se ha transformado por completo. 4 barrios muy distintos dividen la ciudad: Candelaria en el centro histórico, Chapinero como hub hipster, Zona Rosa como zona premium, Usaquén como isla de slow travel.

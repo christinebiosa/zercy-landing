@@ -5,6 +5,7 @@ description: "Cartagena has 4 very different neighborhoods: Centro Histórico wa
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Cartagena"
 ---
 
 Cartagena de Indias is Colombia's Caribbean jewel: 16th-century colonial city walls, colorful houses with bougainvillea, salsa sounds from bars, turquoise Caribbean water at your doorstep. What few people know: the city splits into 4 very different neighborhoods that hardly feel like the same Cartagena.

@@ -5,6 +5,7 @@ description: "Lima hat 4 sehr unterschiedliche Stadtteile: Miraflores Klippen-Pr
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Lima"
 ---
 
 Lima ist eine der am meisten unterschätzten Städte Lateinamerikas. 11 Millionen Einwohner, ein über 500 Jahre altes koloniales Zentrum, 200-Meter-Klippen am Pazifik, eine der besten Restaurant-Szenen weltweit (Central, Maido und Mayta sind in den World's 50 Best). Die Wahl deines Stadtteils entscheidet, ob du das Touristen-Lima oder das Foodie-Lima erlebst.

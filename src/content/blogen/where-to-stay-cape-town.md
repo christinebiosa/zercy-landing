@@ -5,6 +5,7 @@ description: "Cape Town has 5 very different neighborhoods: V&A Waterfront, City
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Cape Town"
 ---
 
 Cape Town lies between Table Mountain and two oceans (Atlantic and Indian meet at Cape Point). Africa's most spectacular city, voted "most beautiful city in the world" multiple times by Forbes. 5 very different neighborhoods divide it: V&A Waterfront with premium hotels, City Bowl with boho quarter, Camps Bay with Atlantic beach, Constantia with wine region, Sea Point with promenade.

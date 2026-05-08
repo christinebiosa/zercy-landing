@@ -5,6 +5,7 @@ description: "Edinburgh has 4 very different neighborhoods: Old Town castle, New
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Edinburgh"
 ---
 
 Edinburgh feels like it's been cut from a Harry Potter novel. The medieval Old Town with cobblestones leads from Holyrood Palace to the castle, with Edinburgh Castle enthroned on a volcanic rock. In August the city explodes into the Edinburgh Festival with five festivals at once (hotel prices triple). The rest of the year it stays small, dark-romantic, very Scottish.

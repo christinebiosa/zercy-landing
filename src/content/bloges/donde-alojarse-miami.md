@@ -5,6 +5,7 @@ description: "Miami tiene 5 barrios muy distintos: South Beach Art Decó, Mid-Be
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Miami"
 ---
 
 Miami no es una ciudad, son cinco mundos muy distintos. En South Beach estás entre hoteles Art Decó y playa de fiesta, en Brickell entre rascacielos y restaurantes de sushi, en Wynwood entre street art y cervecerías artesanales. Tu elección de barrio decide si experimentas la Miami turística o la Miami real.

@@ -5,6 +5,7 @@ description: "Seville has 4 very different neighborhoods: Santa Cruz old town, T
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Seville"
 ---
 
 Seville smells of orange blossoms in April, of grilled sardines in Triana, of sunshine at 5pm siesta. Andalusia's capital is Spain's third-largest tourist city after Madrid and Barcelona, but feels smaller. Four neighborhoods divide it: Santa Cruz with the Moorish Alcázar (Game of Thrones location), Triana with real flamenco, Arenal with the most famous bullring, Alameda with hipster vibes.

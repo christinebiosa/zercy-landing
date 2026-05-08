@@ -5,6 +5,7 @@ description: "Marseille has 4 very different neighborhoods: Vieux Port harbor, L
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Marseille"
 ---
 
 Marseille is France's honest city. No smooth boulevards like Paris, no luxury promenade like Nice. Here it smells of bouillabaisse at the Vieux Port, of lavender in Le Panier, of saltwater in the Calanques. France's second-largest city was decried as rough for decades but reinvented itself as Capital of Culture 2013. MUCEM, Le Corbusier's Cité Radieuse, Calanques National Park right outside.

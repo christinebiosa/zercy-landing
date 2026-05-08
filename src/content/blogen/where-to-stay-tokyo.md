@@ -5,6 +5,7 @@ description: "Tokyo has 5 very different neighborhoods: Shinjuku central, Shibuy
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Tokyo"
 ---
 
 Tokyo isn't one city, but 13 mega-cities that happen to sit next to each other. In Shinjuku you stand between skyscrapers and pachinko halls, in Asakusa you walk past Buddhist temples, in Ginza you see only designer logos. Your neighborhood choice decides which Tokyo you experience.

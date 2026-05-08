@@ -5,6 +5,7 @@ description: "Rom hat 5 sehr unterschiedliche Stadtteile: Centro Storico zentral
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Rome"
 ---
 
 Rom in 5 Stadtteilen ist eine Vereinfachung, aber eine die hilft. Im Centro Storico stolperst du über 2.000 Jahre Geschichte. In Trastevere isst du, wo römische Familien seit Generationen essen. In Monti, wo früher die Kaiser ihre Sklaven hielten, trinkst du heute Aperitivo. Die Wahl deines Stadtteils entscheidet welches Rom du erlebst.

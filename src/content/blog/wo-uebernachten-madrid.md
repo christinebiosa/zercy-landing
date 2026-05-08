@@ -5,6 +5,7 @@ description: "Madrid hat 5 sehr unterschiedliche Stadtteile: Sol Touristenherz, 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Madrid"
 ---
 
 Madrid ist nicht Barcelona. Hier gibt es kein Meer, keine Gaudí-Architektur, keinen Strand-Hipster-Vibe. Stattdessen Tapas-Bars die um 23 Uhr öffnen, das Prado-Museum mit dem Erbe von Velázquez und Goya, eine Königliche Familie die noch im Palacio Real residiert. Madrid ist Spaniens Hauptstadt und benimmt sich auch so: stolz, klassisch, lebendig bis 4 Uhr morgens.

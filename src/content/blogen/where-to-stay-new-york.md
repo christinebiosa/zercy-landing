@@ -5,6 +5,7 @@ description: "New York has 5 very different neighborhoods to stay in: Midtown, S
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "New York"
 ---
 
 New York has 5 real neighborhood options for tourists. In Midtown you sit between Times Square and Empire State, in SoHo between boutiques and lofts, in Brooklyn across the river. Each neighborhood is its own experience, each price shock different.

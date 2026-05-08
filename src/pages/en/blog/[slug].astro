@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import BookingCTA from '../../../components/BookingCTA.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blogen');
@@ -238,6 +239,8 @@ const canonicalUrl = `https://www.zercy.app/en/blog/${post.id}`;
       <span>{post.data.readingTime} min read</span>
     </div>
     <hr class="article-divider" />
+
+    {post.data.bookingDest && <BookingCTA dest={post.data.bookingDest} lang="en" />}
 
     <div class="prose">
       <Content />

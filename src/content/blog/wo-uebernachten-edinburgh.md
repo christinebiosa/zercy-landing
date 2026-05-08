@@ -5,6 +5,7 @@ description: "Edinburgh hat 4 sehr unterschiedliche Stadtteile: Old Town Burg, N
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Edinburgh"
 ---
 
 Edinburgh wirkt wie aus einem Harry-Potter-Roman geschnitten. Die mittelalterliche Old Town mit Kopfsteinpflaster führt vom Holyrood Palace zur Burg, oben thront das Edinburgh Castle auf einem Vulkanfelsen. Im August explodiert die Stadt zum Edinburgh Festival mit fünf Festivals gleichzeitig (Hotelpreise verdreifacht). Den Rest des Jahres bleibt sie klein, dunkel-romantisch, sehr schottisch.

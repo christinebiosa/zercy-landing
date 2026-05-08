@@ -5,6 +5,7 @@ description: "Cusco has 4 very different neighborhoods: Plaza de Armas, San Blas
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Cusco"
 ---
 
 Cusco is the capital of the former Inca Empire and the gateway to Machu Picchu. Located at 11,150 ft (higher than Quito or La Paz), the city requires a day of acclimatization first. It's been UNESCO World Heritage since 1983, with colonial churches built on Inca walls. 4 neighborhoods divide the city: Plaza de Armas in the center, San Blas with artist atmosphere, San Pedro with the famous market, San Cristobal with panoramic view.

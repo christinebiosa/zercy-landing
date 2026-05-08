@@ -5,6 +5,7 @@ description: "Tulum has 4 very different neighborhoods: Tulum Pueblo budget-frie
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Tulum"
 ---
 
 Tulum used to sound like a hidden Caribbean gem. In 2026 it's one of Mexico's most expensive beach destinations. But: the town splits into 4 very different neighborhoods with completely different worlds. In one you pay $900 per night for a boutique beach resort, in another $35 for a modern hostel.

@@ -5,6 +5,7 @@ description: "New York hat 5 sehr unterschiedliche Stadtteile zum Übernachten: 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "New York"
 ---
 
 New York hat 5 echte Wohnviertel-Optionen für Touristen. In Midtown sitzt du zwischen Times Square und Empire State, in SoHo zwischen Boutiquen und Lofts, in Brooklyn jenseits des River. Jeder Stadtteil ist ein eigenes Erlebnis, jeder Preis-Schock anders.

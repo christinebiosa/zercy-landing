@@ -5,6 +5,7 @@ description: "Marrakech has 4 very different neighborhoods: Medina riads, Hivern
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Marrakech"
 ---
 
 Marrakech is a city with four completely different worlds within city limits. In the Medina you stay in a riad in a 300-year-old courtyard, in Hivernage in a 5-star hotel with pool and spa, in Gueliz in a modern boutique with French café, in the Palmeraie in a desert resort 20 min outside. Your neighborhood choice completely decides your Marrakech experience.

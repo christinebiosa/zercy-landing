@@ -5,6 +5,7 @@ description: "Prague has 4 very different neighborhoods: Staré Město old town,
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Prague"
 ---
 
 Prague feels like a fairy tale carved in stone. Gothic churches, Baroque palaces, Art Nouveau cafés, a Vltava river cut by 17 bridges. But the real Prague isn't only in the old town between selfie sticks and ice cream shops. It's in Vinohrady where locals brunch and in Žižkov where music drifts from bars at night.

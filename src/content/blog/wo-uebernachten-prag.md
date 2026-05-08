@@ -5,6 +5,7 @@ description: "Prag hat 4 sehr unterschiedliche Stadtteile: Staré Město Altstad
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Prague"
 ---
 
 Prag wirkt wie ein Märchen aus Stein. Gotische Kirchen, Barockpaläste, Jugendstil-Cafés, eine Moldau die mit 17 Brücken durchzieht. Aber das echte Prag liegt nicht nur in der Altstadt zwischen Selfie-Stangen und Eis-Cremerien. Es liegt in Vinohrady wo Locals Brunch machen und in Žižkov wo abends Musik aus den Bars klingt.

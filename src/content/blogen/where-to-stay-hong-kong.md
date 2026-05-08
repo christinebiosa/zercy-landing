@@ -5,6 +5,7 @@ description: "Hong Kong has 4 very different neighborhoods: Central business, Ts
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Hong Kong"
 ---
 
 Hong Kong is Asia's most vertical city. 7.5 million people squeezed into a tight space between mountains, sea and skyscrapers among the world's tallest. Everything is split in two: Hong Kong Island in the south with Central and The Peak, Kowloon in the north with Tsim Sha Tsui and the famous skyline view. Which side, which neighborhood, that totally shapes your Hong Kong experience.

@@ -5,6 +5,7 @@ description: "Seoul has 5 very different neighborhoods: Myeongdong shopping, Gan
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Seoul"
 ---
 
 Seoul is the capital of a wave. K-pop, K-drama, K-beauty, K-food. What was an Asia insider trip 10 years ago is now mainstream. The city has 25 million inhabitants in the metro area, perfect subway, and 5 neighborhoods that differ extremely. In Gangnam between skyscrapers, in Hongdae at a K-pop concert, in Insadong in a traditional Hanok guesthouse.

@@ -5,6 +5,7 @@ description: "Mexico City has 5 very different neighborhoods: Roma, Condesa, Pol
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Mexico City"
 ---
 
 Mexico City (CDMX) is North America's largest city with 22 million inhabitants. Yet you barely feel overwhelmed if you choose the right neighborhood. In Roma you sip mezcal in speakeasy bars, in Polanco you eat at Pujol (10th best in the world), in Coyoacán you walk Frida Kahlo's footsteps.

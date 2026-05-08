@@ -5,6 +5,7 @@ description: "Hongkong hat 4 sehr unterschiedliche Stadtteile: Central Business,
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Hong Kong"
 ---
 
 Hongkong ist Asiens vertikalste Stadt. 7,5 Millionen Menschen auf engem Raum gequetscht zwischen Bergen, Meer und Wolkenkratzern, die zu den höchsten der Welt gehören. Aufgeteilt ist alles in zwei: Hong Kong Island im Süden mit Central und The Peak, Kowloon im Norden mit Tsim Sha Tsui und der berühmten Skyline-Sicht. Welche Seite, welcher Stadtteil, das prägt deine Hongkong-Erfahrung total.

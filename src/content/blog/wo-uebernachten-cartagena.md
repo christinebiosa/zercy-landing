@@ -5,6 +5,7 @@ description: "Cartagena hat 4 sehr unterschiedliche Stadtteile: Centro Históric
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Cartagena"
 ---
 
 Cartagena de Indias ist Kolumbiens Karibik-Juwel: koloniale Stadt-Mauer aus dem 16. Jahrhundert, bunte Häuser mit Bougainvillea, Salsa-Klänge aus Bars, türkises Karibik-Wasser direkt vor der Tür. Was wenige wissen: die Stadt teilt sich in 4 sehr unterschiedliche Stadtteile, die kaum noch dasselbe Cartagena sind.

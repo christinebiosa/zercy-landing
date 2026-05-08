@@ -5,6 +5,7 @@ description: "Medellín has 4 very different neighborhoods: El Poblado premium, 
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Medellin"
 ---
 
 Medellín is called the "City of Eternal Spring." 73°F every day, year-round. Decried as the world's most dangerous city in the 1990s, today Latin America's most innovative city with cable cars connecting hillside slums to Centro, with MIT-recognized urban planning, with a digital nomad wave filling all hostels. 4 neighborhoods divide it, each with its own identity.

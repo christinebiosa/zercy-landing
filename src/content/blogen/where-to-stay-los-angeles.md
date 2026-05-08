@@ -5,6 +5,7 @@ description: "LA has 5 very different neighborhoods: Hollywood, Santa Monica bea
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Los Angeles"
 ---
 
 Los Angeles is not a city, but a conglomerate of 88 independent cities together forming LA County. Hollywood is 20 miles from Santa Monica, Beverly Hills 12 miles from Downtown, Venice Beach 16 miles from Pasadena. Where you stay decides which city you experience and how much time you spend in the car (LA without a car = impossible).

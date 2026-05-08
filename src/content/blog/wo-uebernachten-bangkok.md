@@ -5,6 +5,7 @@ description: "Bangkok hat 5 sehr unterschiedliche Stadtteile: Sukhumvit modern, 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Bangkok"
 ---
 
 Bangkok ist eine der größten Städte Asiens mit 11 Millionen Einwohnern und einer Hotel-Dichte ohne Beispiel. 5 Hauptstadtteile decken alle Reisestile ab: vom Boutique-Hostel auf der Khao San Road bis zum Mandarin Oriental am Chao Phraya River. Die Wahl deines Stadtteils entscheidet, ob du Tempel-Hopping, Mall-Shopping oder Roof-Top-Bars erlebst.

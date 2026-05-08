@@ -5,6 +5,7 @@ description: "Paris hat 5 sehr unterschiedliche Stadtteile: Marais hip-historisc
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Paris"
 ---
 
 Paris ist in 20 Arrondissements aufgeteilt, aber für Touristen zählen vor allem 5 Stadtteile. In Le Marais wohnst du in einem Boutique-Hotel zwischen LGBTQ+-Bars und Falafel-Buden, in Saint-Germain in einem Belle-Époque-Salon mit Schriftsteller-Geschichte, in Montmartre auf dem Hügel mit Sacré-Cœur-Blick.

@@ -5,6 +5,7 @@ description: "Hanoi hat 4 sehr unterschiedliche Stadtteile: Old Quarter, French 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Hanoi"
 ---
 
 Hanoi ist Vietnams chaotische, charmante Hauptstadt. 1.000 Jahre alt, geteilt durch zwei Phasen: Tausend Jahre chinesisch geprägt (das Old Quarter), dann 80 Jahre französisches Kolonialerbe (das French Quarter). Der Hoan-Kiem-See ist das Herz der Stadt, am Morgen mit Tai-Chi-Praktizierenden und Verkäufern von Pho. Wo du übernachtest, prägt deine Hanoi-Erfahrung extrem.

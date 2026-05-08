@@ -5,6 +5,7 @@ description: "Bogotá hat 4 sehr unterschiedliche Stadtteile: Candelaria Altstad
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Bogota"
 ---
 
 Bogotá ist Kolumbiens Hauptstadt auf 2.640 Meter Höhe in den Anden. 8 Millionen Einwohner, ewig-Frühlings-Klima (12-19 Grad das ganze Jahr), die meisten Universitäten Lateinamerikas. Lange galt sie als Sicherheits-Risiko, hat sich in den letzten 15 Jahren aber komplett gewandelt. 4 sehr verschiedene Stadtteile teilen die Stadt: Candelaria im historischen Zentrum, Chapinero als Hipster-Hub, Zona Rosa als Premium-Bereich, Usaquén als Slow-Travel-Insel.

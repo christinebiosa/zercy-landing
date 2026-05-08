@@ -5,6 +5,7 @@ description: "Cartagena tiene 4 barrios muy distintos: Centro Histórico amurall
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Cartagena"
 ---
 
 Cartagena de Indias es la joya caribeña de Colombia: muralla colonial del siglo XVI, casas de colores con buganvilias, ritmo de salsa desde los bares, agua turquesa del Caribe a tu puerta. Lo que pocos saben: la ciudad se divide en 4 barrios muy distintos que apenas se sienten como la misma Cartagena.

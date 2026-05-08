@@ -5,6 +5,7 @@ description: "San Francisco has 5 very different neighborhoods: Union Square, Fi
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "San Francisco"
 ---
 
 San Francisco is a 49-square-mile peninsula with 47 hills, one of the world's most famous bridges and a weather lottery (colder in summer than winter, sometimes). The neighborhoods are extremely different. In Union Square you stay between Macy's and cable cars, in Mission you eat the best burrito in America, in North Beach you sip espresso like in Italy.

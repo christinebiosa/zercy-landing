@@ -5,6 +5,7 @@ description: "Tulum tiene 4 barrios muy distintos: Tulum Pueblo económico, Zona
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Tulum"
 ---
 
 Tulum solía sonar como una joya escondida del Caribe. En 2026 es uno de los destinos de playa más caros de México. Pero la ciudad se divide en 4 barrios muy distintos con mundos completamente diferentes. En uno pagas 900 USD por noche en un boutique frente al mar, en otro 35 USD en un hostel moderno.

@@ -5,6 +5,7 @@ description: "Cape Town hat 5 sehr unterschiedliche Stadtteile: V&A Waterfront, 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Cape Town"
 ---
 
 Cape Town liegt zwischen dem Tafelberg und zwei Ozeanen (Atlantik und Indischer Ozean treffen am Cape Point). Die spektakulärste Stadt Afrikas, von Forbes mehrmals als "schönste Stadt der Welt" gewählt. 5 sehr unterschiedliche Stadtteile teilen sie auf: V&A Waterfront mit Premium-Hotels, City Bowl mit Boho-Viertel, Camps Bay mit Atlantik-Strand, Constantia mit Weinregion, Sea Point mit Promenade.

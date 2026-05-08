@@ -6,6 +6,7 @@ pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
 heroImage: "/img/blog/barcelona.jpg"
+bookingDest: "Barcelona"
 ---
 
 Barcelona hat eine Eigenschaft die andere Großstädte nicht haben: alles ist in 30 Minuten zu Fuß erreichbar. Trotzdem ist die Wahl deines Stadtteils entscheidend, ob du in einem Touristen-Apartment in El Raval oder einem Modernismus-Boutique in Eixample wohnst, ist ein anderes Barcelona.

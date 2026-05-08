@@ -5,6 +5,7 @@ description: "Cusco hat 4 sehr unterschiedliche Stadtteile: Plaza de Armas, San 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Cusco"
 ---
 
 Cusco ist die Hauptstadt des ehemaligen Inka-Reiches und das Tor zu Machu Picchu. Auf 3.400 Meter Höhe gelegen (höher als Quito oder La Paz), erfordert die Stadt erstmal einen Tag Akklimatisierung. Sie ist UNESCO-Welterbe seit 1983, mit kolonialen Kirchen auf Inka-Mauern gebaut. 4 Stadtteile teilen die Stadt: Plaza de Armas im Zentrum, San Blas mit Künstler-Atmosphäre, San Pedro mit dem berühmten Markt, San Cristobal mit Panorama-Blick.

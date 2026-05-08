@@ -1,0 +1,132 @@
+---
+// Booking.com affiliate CTA box, used in city-guide articles.
+// Renders a branded button + USP pills.
+//
+// Props:
+//   dest: city name (used in URL ?ss= param), e.g. "cancun"
+//   lang: "de" | "en" | "es"
+//   reviewScore: optional, default 80 (Very Good+, increases conversion)
+//   class: optional, hotel star filter (e.g. "4" for 4-star+)
+//
+// Build URL with same pattern as zercyUrls.bookingHotels but with quality filter.
+// Future: prepend ?aid=YOUR_AID&label=zercy-{slug} when Awin approves.
+const { dest, lang = 'en', reviewScore = 80, class: starClass } = Astro.props;
+
+// Build Booking.com URL with custom filters for higher conversion
+function buildBookingUrl(dest, reviewScore, starClass) {
+  const params = new URLSearchParams();
+  params.set('ss', dest);
+  params.set('group_adults', '2');
+  params.set('no_rooms', '1');
+  // review_score=80 = "Very Good" or higher (8.0+)
+  if (reviewScore) params.set('review_score', String(reviewScore));
+  // class=4 means 4-star+ filter (?class=4&class=5 for 4-5 star)
+  if (starClass) {
+    if (starClass === '4') { params.append('class', '4'); params.append('class', '5'); }
+    else if (starClass === '3') { params.append('class', '3'); params.append('class', '4'); params.append('class', '5'); }
+    else if (starClass === '5') { params.append('class', '5'); }
+  }
+  return `https://www.booking.com/searchresults.html?${params.toString()}`;
+}
+
+const url = buildBookingUrl(dest, reviewScore, starClass);
+
+const t = {
+  de: {
+    label: 'Hotels in',
+    cta: 'Verfügbarkeit prüfen auf Booking.com',
+    pill1: 'Kostenlose Stornierung',
+    pill2: 'Bestpreisgarantie',
+    pill3: '24/7 Support',
+  },
+  en: {
+    label: 'Hotels in',
+    cta: 'Check availability on Booking.com',
+    pill1: 'Free cancellation',
+    pill2: 'Best price guarantee',
+    pill3: '24/7 customer service',
+  },
+  es: {
+    label: 'Hoteles en',
+    cta: 'Ver disponibilidad en Booking.com',
+    pill1: 'Cancelación gratuita',
+    pill2: 'Mejor precio garantizado',
+    pill3: 'Atención 24/7',
+  },
+}[lang] || t.en;
+
+// Capitalize destination for display
+const destDisplay = dest.split(/[-\s]/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+---
+<aside class="booking-cta">
+  <div class="booking-cta-header">
+    <span class="booking-cta-label">{t.label} <strong>{destDisplay}</strong></span>
+    <span class="booking-cta-brand">Booking.com</span>
+  </div>
+  <a href={url} target="_blank" rel="noopener sponsored nofollow" class="booking-cta-btn">
+    {t.cta} →
+  </a>
+  <div class="booking-cta-pills">
+    <span class="booking-cta-pill">✓ {t.pill1}</span>
+    <span class="booking-cta-pill">✓ {t.pill2}</span>
+    <span class="booking-cta-pill">✓ {t.pill3}</span>
+  </div>
+</aside>
+
+<style>
+  .booking-cta {
+    background: linear-gradient(135deg, #003580 0%, #0057B8 100%);
+    border-radius: 12px;
+    padding: 1.4rem 1.5rem;
+    margin: 2rem 0 2.5rem;
+    color: #fff;
+  }
+  .booking-cta-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.85rem;
+    font-size: 0.92rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .booking-cta-label { color: rgba(255,255,255,0.9); }
+  .booking-cta-label strong { color: #FEBA02; }
+  .booking-cta-brand {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    color: #FEBA02;
+    font-size: 0.95rem;
+  }
+  .booking-cta-btn {
+    display: block;
+    background: #FEBA02;
+    color: #003580 !important;
+    padding: 0.95rem 1.2rem;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 1.02rem;
+    text-align: center;
+    text-decoration: none !important;
+    transition: opacity 0.18s, transform 0.15s;
+    font-family: 'Inter', sans-serif;
+  }
+  .booking-cta-btn:hover { opacity: 0.92; transform: translateY(-1px); }
+  .booking-cta-pills {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.95rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .booking-cta-pill {
+    font-size: 0.78rem;
+    color: rgba(255,255,255,0.85);
+    font-weight: 500;
+  }
+  @media (max-width: 600px) {
+    .booking-cta { padding: 1.1rem 1rem; }
+    .booking-cta-pills { gap: 0.35rem 0.6rem; font-size: 0.74rem; }
+  }
+</style>

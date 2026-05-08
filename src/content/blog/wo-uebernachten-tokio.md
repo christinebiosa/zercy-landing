@@ -5,6 +5,7 @@ description: "Tokio hat 5 sehr unterschiedliche Stadtteile: Shinjuku zentral, Sh
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Tokyo"
 ---
 
 Tokio ist nicht eine Stadt, sondern 13 Mega-Städte, die zufällig nebeneinander liegen. In Shinjuku stehst du zwischen Wolkenkratzern und Pachinko-Hallen, in Asakusa läufst du an buddhistischen Tempeln vorbei, in Ginza siehst du nur Designer-Logos. Die Wahl deines Stadtteils entscheidet, welches Tokio du erlebst.

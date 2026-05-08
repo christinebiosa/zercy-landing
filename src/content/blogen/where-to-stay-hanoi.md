@@ -5,6 +5,7 @@ description: "Hanoi has 4 very different neighborhoods: Old Quarter, French Quar
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Hanoi"
 ---
 
 Hanoi is Vietnam's chaotic, charming capital. 1,000 years old, divided by two phases: a thousand years Chinese-shaped (the Old Quarter), then 80 years French colonial heritage (the French Quarter). Hoan Kiem Lake is the city's heart, in the morning with tai chi practitioners and pho vendors. Where you stay shapes your Hanoi experience extremely.

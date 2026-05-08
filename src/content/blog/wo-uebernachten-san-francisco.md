@@ -5,6 +5,7 @@ description: "San Francisco hat 5 sehr unterschiedliche Stadtteile: Union Square
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "San Francisco"
 ---
 
 San Francisco ist eine 49-Quadratmeilen-Halbinsel mit 47 Hügeln, einer der berühmtesten Brücken der Welt und einer Wetter-Lotterie (im Sommer kälter als im Winter, manchmal). Die Stadtteile sind extrem unterschiedlich. In Union Square wohnst du zwischen Macy's und Cable-Cars, in Mission isst du den besten Burrito Amerikas, in North Beach trinkst du Espresso wie in Italien.

@@ -9,6 +9,7 @@ const postSchema = z.object({
   category: z.string(),
   readingTime: z.number(),
   heroImage: z.string().optional(),
+  bookingDest: z.string().optional(),
 });
 
 const blog = defineCollection({

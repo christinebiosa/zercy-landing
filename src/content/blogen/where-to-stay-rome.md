@@ -5,6 +5,7 @@ description: "Rome has 5 very different neighborhoods: Centro Storico central, T
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Rome"
 ---
 
 Rome in 5 neighborhoods is a simplification, but a helpful one. In Centro Storico you stumble over 2,000 years of history. In Trastevere you eat where Roman families have eaten for generations. In Monti, where emperors once kept slaves, today you sip aperitivo. Your neighborhood choice decides which Rome you experience.

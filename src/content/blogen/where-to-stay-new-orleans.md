@@ -5,6 +5,7 @@ description: "New Orleans has 4 very different neighborhoods: French Quarter, Ga
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "New Orleans"
 ---
 
 New Orleans is America's strangest city. French architecture, Creole cuisine, African Voodoo tradition, Caribbean carnival energy. Here you hear jazz from Bourbon Street and beignets from Café du Monde linger in the air. Four neighborhoods divide the city: French Quarter with the balconies, Garden District with the Antebellum mansions, Marigny with the real jazz, Warehouse with modern hotels.

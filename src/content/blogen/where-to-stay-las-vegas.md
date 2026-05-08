@@ -5,6 +5,7 @@ description: "Las Vegas has 4 very different areas: Mid-Strip Bellagio, North St
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Las Vegas"
 ---
 
 Las Vegas is a city with a 4.2-mile main street. The Strip. On these 4.2 miles stand 30 of the world's 50 largest hotels: Bellagio with the fountain, Caesars Palace with the Roman columns, Wynn with the Conservatory, MGM Grand with the Sphinx. Where you stay on the Strip decides which casinos you can walk to and how much Uber you need.

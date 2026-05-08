@@ -5,6 +5,7 @@ description: "New Orleans hat 4 sehr unterschiedliche Stadtteile: French Quarter
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "New Orleans"
 ---
 
 New Orleans ist Amerikas seltsamste Stadt. Französische Architektur, kreolische Küche, afrikanische Voodoo-Tradition, Caribische Karneval-Energie. Hier hörst du Jazz aus Bourbon Street und Beignets vom Café du Monde liegen in der Luft. Vier Stadtteile teilen die Stadt: French Quarter mit den Balkonen, Garden District mit den Antebellum-Villen, Marigny mit dem echten Jazz, Warehouse mit moderner Hotellerie.

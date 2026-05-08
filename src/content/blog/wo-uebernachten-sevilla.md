@@ -5,6 +5,7 @@ description: "Sevilla hat 4 sehr unterschiedliche Stadtteile: Santa Cruz Altstad
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Seville"
 ---
 
 Sevilla riecht nach Orangenblüten im April, nach gegrillten Sardinen in Triana, nach Sonnenscheune um 17 Uhr Siesta. Andalusiens Hauptstadt ist Spaniens dritte-größte Touristenstadt nach Madrid und Barcelona, aber wirkt kleiner. Vier Stadtteile teilen sie auf: Santa Cruz mit dem maurischen Alcázar (Game-of-Thrones-Drehort), Triana mit echtem Flamenco, Arenal mit der berühmtesten Stierkampfarena, Alameda mit Hipster-Atmosphäre.

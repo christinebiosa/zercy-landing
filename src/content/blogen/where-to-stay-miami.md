@@ -5,6 +5,7 @@ description: "Miami has 5 very different neighborhoods: South Beach Art Deco, Mi
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Miami"
 ---
 
 Miami isn't one city, it's five very different worlds. In South Beach you stand between Art Deco hotels and party beach, in Brickell between high-rises and sushi restaurants, in Wynwood between street art and craft brewery. Your neighborhood choice decides whether you experience tourist Miami or real Miami.

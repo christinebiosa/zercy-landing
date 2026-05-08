@@ -5,6 +5,7 @@ description: "Ciudad de México tiene 5 barrios muy distintos: Roma, Condesa, Po
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Mexico City"
 ---
 
 Ciudad de México (CDMX) es la ciudad más grande de Norteamérica con 22 millones de habitantes. Aun así, apenas te sientes abrumado si eliges el barrio correcto. En Roma tomas mezcal en bares speakeasy, en Polanco comes en Pujol (10 mejor del mundo), en Coyoacán caminas los pasos de Frida Kahlo.

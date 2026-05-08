@@ -5,6 +5,7 @@ description: "Buenos Aires hat 5 sehr unterschiedliche Stadtteile: Palermo hip, 
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Buenos Aires"
 ---
 
 Buenos Aires nennt sich "Paris von Südamerika" aus gutem Grund. Aber wo Paris einen klaren Plan hat, ist Buenos Aires ein Mosaik aus Vierteln, die sich grundlegend unterscheiden. In Palermo trinkst du Cocktails in Speakeasy-Bars, in San Telmo läuft Live-Tango durch die Straßen, in Recoleta bestaunst du Mausoleen, in Puerto Madero spazierst du an alten Hafenanlagen aus Backstein.

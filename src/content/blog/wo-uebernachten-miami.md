@@ -5,6 +5,7 @@ description: "Miami hat 5 sehr unterschiedliche Stadtteile: South Beach Art Deco
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Miami"
 ---
 
 Miami ist nicht eine Stadt, sondern fünf sehr unterschiedliche Welten. In South Beach stehst du zwischen Art-Deco-Hotels und Party-Strand, in Brickell zwischen Hochhäusern und Sushi-Restaurants, in Wynwood zwischen Streetart und Craft Brewery. Die Wahl deines Stadtteils entscheidet, ob du das Touristen-Miami oder das echte Miami erlebst.

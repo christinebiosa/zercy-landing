@@ -5,6 +5,7 @@ description: "Cancún tiene 4 zonas muy distintas: Zona Hotelera para todo inclu
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7
+bookingDest: "Cancun"
 ---
 
 Cancún suena como un solo destino de playa, pero la ciudad se divide en mundos completamente diferentes. En uno duermes en resorts 5 estrellas con pulsera todo incluido. En otro, el almuerzo cuesta 5 dólares y no ves un solo turista. La zona que elijas decide si experimentas México de verdad o solo una piscina tropical.

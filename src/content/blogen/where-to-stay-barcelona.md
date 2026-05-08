@@ -6,6 +6,7 @@ pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
 heroImage: "/img/blog/barcelona.jpg"
+bookingDest: "Barcelona"
 ---
 
 Barcelona has a quality other big cities lack: everything is walkable in 30 minutes. Still, your neighborhood choice matters. Whether you stay in a tourist apartment in El Raval or a Modernist boutique in Eixample is a different Barcelona.

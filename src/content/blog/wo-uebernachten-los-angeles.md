@@ -5,6 +5,7 @@ description: "LA hat 5 sehr unterschiedliche Stadtteile: Hollywood, Santa Monica
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Los Angeles"
 ---
 
 Los Angeles ist keine Stadt, sondern ein Konglomerat von 88 unabhängigen Städten, die zusammen LA County bilden. Hollywood ist 30 km von Santa Monica entfernt, Beverly Hills 20 km von Downtown, Venice Beach 25 km von Pasadena. Wo du übernachtest, entscheidet welche Stadt du erlebst und wie viel Zeit du im Auto verbringst (LA ohne Auto = unmöglich).

@@ -5,6 +5,7 @@ description: "Seoul hat 5 sehr unterschiedliche Stadtteile: Myeongdong Shopping,
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Seoul"
 ---
 
 Seoul ist die Hauptstadt einer Welle. K-Pop, K-Drama, K-Beauty, K-Food. Was vor 10 Jahren noch eine Asien-Insider-Reise war, ist heute Mainstream. Die Stadt hat 25 Millionen Einwohner im Großraum, eine perfekte U-Bahn, und 5 Stadtteile die sich extrem unterscheiden. In Gangnam zwischen Wolkenkratzern, in Hongdae auf einem K-Pop-Konzert, in Insadong in einem traditionellen Hanok-Gasthaus.

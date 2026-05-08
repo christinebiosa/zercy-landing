@@ -5,6 +5,7 @@ description: "Rio has 4 very different neighborhoods: Copacabana classic beach, 
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Rio de Janeiro"
 ---
 
 Rio de Janeiro is the Cidade Maravilhosa, but also the most complicated hotel choice in Latin America. Some neighborhoods are very safe and touristy, others you can visit during the day but not stay in. Your neighborhood choice completely determines your Rio experience.

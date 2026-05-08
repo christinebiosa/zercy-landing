@@ -5,6 +5,7 @@ description: "Singapore has 5 very different neighborhoods: Marina Bay skyline, 
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Singapore"
 ---
 
 Singapore is Asia's best first stop. English is spoken everywhere, everything is clean and safe, Changi Airport has been the world's best airport for 12 years running. But where to stay? In Marina Bay between skyscrapers, in Chinatown between temples and hawker stalls, on the beach at Sentosa? Singapore has five very different worlds across 280 square miles.
