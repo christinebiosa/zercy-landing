@@ -79,6 +79,16 @@ Microcentro ist das politische und touristische Zentrum: Plaza de Mayo, Casa Ros
 
 **Top-Picks:** NH Collection Buenos Aires (zuverlässig zentral), Esplendor Buenos Aires (boutique mit Geschichte), Gran Hotel Argentino (klassisch, mittelklasse).
 
+## Wie viel kostet eine Übernachtung in Buenos Aires wirklich?
+
+Argentinien ist 2026 wegen Peso-Schwäche extrem günstig. Spannen pro Nacht in USD/Euro.
+
+**Hostels:** 18-45 Euro für ein Bett im Mehrbettzimmer.
+**Mittelklasse:** 50-130 Euro (Boutique in Palermo, 3-Sterne in Recoleta).
+**Premium:** 220-450 Euro (Faena Hotel von Philippe Starck, Alvear Palace).
+
+Wichtig: Booking-Preise sind in USD/Euro fix, du zahlst beim Hotel den umgerechneten Peso-Preis vom Buchungstag — schützt vor Wechselkurs-Schwankungen.
+
 ## Wo solltest du am Ende buchen?
 
 Für Buenos Aires ist [Booking.com](https://www.booking.com) klar die beste Plattform:

@@ -29,7 +29,7 @@ Cartagena's city wall is 7 miles long, one of the best-preserved colonial fortif
 
 **Per-night prices:** Boutique $165-385, premium (Sofitel Santa Clara, Casa San Agustín) $385-770, luxury $770+.
 
-**Top picks:** Sofitel Santa Clara (5-star in former monastery), Casa San Agustín (boutique premium), Hotel Casa Pestagua (small boutique with courtyard).
+**Top picks:** Sofitel Santa Clara (5-star in former monastery), Casa San Agustín (boutique premium), Hotel Casa Pestagua (small boutique with courtyard). These and 800+ more Cartagena hotels are on [Booking.com](https://www.booking.com) with neighborhood filter and USD-fixed prices (protects against peso fluctuations).
 
 ## Getsemaní: Hip-colonial Caribbean
 
@@ -66,6 +66,16 @@ Island neighborhood between Centro and Bocagrande, 100 years ago the residential
 **Top picks:** Casa Bustamante Hotel Boutique (small boutique with courtyard), apartments in restored Manga houses (via Booking.com), smaller family-run pensions.
 
 See our [workation tax rules guide](/en/blog/workation-tax-rules-2026), Colombia has had a digital nomad visa since 2023.
+
+## How much does a night in Cartagena really cost?
+
+Cartagena is cheaper than Mexican Caribbean but pricier than the rest of Colombia. Realistic ranges per night.
+
+**Hostels:** $17-50 for a bed in a shared room (especially in Getsemaní).
+**Mid-range:** $90-220 (boutique in Centro Histórico or Getsemaní, 3-star in Bocagrande).
+**Premium:** $280-850 (Sofitel Santa Clara, Casa San Agustín — historic boutique hotels).
+
+Important: Booking prices fixed in USD, protects against peso fluctuations. Tip: May-October are 30-40 percent cheaper than dry season (December-April), but slightly more rain.
 
 ## Where should you actually book?
 

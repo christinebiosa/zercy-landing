@@ -77,6 +77,16 @@ Die Champs-Élysées von der Place de la Concorde bis zum Arc de Triomphe ist di
 
 Auf [Booking.com](https://www.booking.com) findest du in Bastille/Oberkampf besonders viele lokale Boutique-Hotels mit fairem Preis-Leistungs-Verhältnis.
 
+## Wie viel kostet eine Übernachtung in Paris wirklich?
+
+Paris ist die teuerste Hotelstadt Europas. Realistische Spannen pro Nacht.
+
+**Hostels:** 35-70 Euro für ein Bett im Mehrbettzimmer (Generator, MIJE).
+**Mittelklasse:** 120-280 Euro (3-Sterne in Marais oder Bastille, Boutique in Saint-Germain).
+**Premium:** 350-2.000 Euro (Ritz Paris, Le Bristol, Hôtel Plaza Athénée).
+
+Plus: Stadttouristensteuer 0,25-5 Euro pro Nacht je nach Hotelklasse — Booking zeigt das vorab. Tipp: August und Februar sind 30-50 Prozent günstiger als Fashion Week (März, September).
+
 ## Wo solltest du am Ende buchen?
 
 Für Paris ist [Booking.com](https://www.booking.com) klar die beste Plattform:

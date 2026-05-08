@@ -77,6 +77,16 @@ The Champs-Élysées from Place de la Concorde to the Arc de Triomphe is Paris' 
 
 On [Booking.com](https://www.booking.com) you'll find many local boutique hotels in Bastille/Oberkampf with fair price-quality ratio.
 
+## How much does a night in Paris really cost?
+
+Paris is Europe's most expensive hotel city. Realistic ranges per night.
+
+**Hostels:** $40-77 for a bed in a shared room (Generator, MIJE).
+**Mid-range:** $135-310 (3-star in Marais or Bastille, boutique in Saint-Germain).
+**Premium:** $385-2,200 (Ritz Paris, Le Bristol, Hôtel Plaza Athénée).
+
+Plus: city tourist tax $0.30-5.50 per night depending on hotel class — Booking shows this upfront. Tip: August and February are 30-50 percent cheaper than Fashion Week (March, September).
+
 ## Where should you actually book?
 
 For Paris [Booking.com](https://www.booking.com) is clearly the best platform:

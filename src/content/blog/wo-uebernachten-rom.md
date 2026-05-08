@@ -79,6 +79,16 @@ Prati ist ein elegantes 19.-Jahrhundert-Viertel direkt nördlich vom Vatikan. Br
 
 **Top-Picks:** Hotel Hassler Roma (Premium mit Spanischer-Treppe-Blick), Castello della Castelluccia (Schloss-Hotel etwas außerhalb), Atlante Star Hotel (mittelklasse mit Dachterrasse).
 
+## Wie viel kostet eine Übernachtung in Rom wirklich?
+
+Rom hat eine breite Preisspanne dank vielfältiger Hotelszene. Realistische Klassen pro Nacht.
+
+**Hostels:** 25-55 Euro für ein Bett im Mehrbettzimmer (The Yellow, Generator).
+**Mittelklasse:** 90-220 Euro (3-Sterne in Centro Storico, Boutique in Monti).
+**Premium:** 250-900 Euro (J.K. Place Roma, Hotel Hassler, Hotel de la Ville).
+
+Plus: Stadttouristensteuer 3-7 Euro pro Nacht je nach Hotelklasse. Tipp: November-März sind 30-40 Prozent günstiger als Frühling/Sommer, perfekt für Indoor-Sightseeing.
+
 ## Wo solltest du am Ende buchen?
 
 Für Rom ist [Booking.com](https://www.booking.com) klar die beste Plattform:

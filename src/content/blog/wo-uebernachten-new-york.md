@@ -77,6 +77,16 @@ Hells Kitchen ist westlich von Times Square: weniger touristisch, viele Restaura
 
 **Top-Picks:** Yotel New York (Mikro-Zimmer ab 180 Dollar), Pod 39 (Designer-Mittelklasse), The Standard High Line (Premium Chelsea).
 
+## Wie viel kostet eine Übernachtung in New York wirklich?
+
+NYC ist eine der teuersten Hotelstädte der Welt. Realistische Spannen.
+
+**Hostel/Mikro-Hotel:** 80-180 Dollar pro Nacht (Pod 51, Yotel, HI Hostel).
+**Mittelklasse:** 200-400 Dollar (3-4-Sterne in Hells Kitchen, Brooklyn).
+**Premium:** 500-1.500 Dollar (Plaza, Mandarin Oriental, Crosby Street Hotel).
+
+Plus: 14,75 Prozent Stadt-Tax + Resort Fees (15-50 Dollar/Nacht). Booking.com zeigt das vorab — bei Direktbuchung erscheint der echte Endpreis oft erst beim Checkout.
+
 ## Wo solltest du am Ende buchen?
 
 In NYC ist [Booking.com](https://www.booking.com) fast immer die beste Wahl, weil:

@@ -79,6 +79,16 @@ Microcentro is the political and tourist center: Plaza de Mayo, Casa Rosada, Cat
 
 **Top picks:** NH Collection Buenos Aires (reliably central), Esplendor Buenos Aires (boutique with history), Gran Hotel Argentino (classic, mid-range).
 
+## How much does a night in Buenos Aires really cost?
+
+Argentina is extremely cheap in 2026 due to peso weakness. Ranges per night in USD.
+
+**Hostels:** $20-50 for a bed in a shared room.
+**Mid-range:** $55-145 (boutique in Palermo, 3-star in Recoleta).
+**Premium:** $250-500 (Faena Hotel by Philippe Starck, Alvear Palace).
+
+Important: Booking prices are fixed in USD, you pay the converted peso amount at booking date — protects against exchange rate fluctuations.
+
 ## Where should you actually book?
 
 For Buenos Aires [Booking.com](https://www.booking.com) is clearly the best platform:

@@ -77,6 +77,16 @@ Shimokitazawa is Tokyo's Williamsburg: vintage shops, indie cafés, small theate
 
 **Top picks:** ACE Hotel-style boutiques (Shimokitazawa Hostel is high quality), Bookend Hotel (small, library concept), Backpackers Hostel K's House Tokyo Oasis.
 
+## How much does a night in Tokyo really cost?
+
+Tokyo is cheaper than its reputation. Realistic ranges per night.
+
+**Capsule hotels & hostels:** $33-77 (modern, clean, often better than European hostels).
+**Business hotels & mid-range:** $100-220 (3-4 star in Shinjuku, Shibuya, Asakusa).
+**Premium & ryokan:** $310-1,200 (Park Hyatt, Mandarin Oriental, traditional onsen ryokan in Asakusa).
+
+Tip: February and May/June are 30-40 percent cheaper than cherry blossom (March/April) or autumn foliage (October/November) season.
+
 ## Where should you actually book?
 
 For Tokyo [Booking.com](https://www.booking.com) is clearly the best platform:

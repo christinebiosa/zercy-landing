@@ -67,6 +67,16 @@ A 30-minute bus south of Cancún, completely different pace. Puerto Morelos used
 
 **Prices:** Hostels from $25, boutique hotels $100-250, small beach resorts from $300. On Booking.com filter for "Isla Mujeres" as a separate search region.
 
+## How much does a night in Cancún really cost?
+
+The range is huge: from $18 per night in an El Centro hostel to $900 for a suite at Le Blanc Spa Resort. Realistic tiers.
+
+**Backpacker:** $18-55 per night (hostel or simple hotel in El Centro).
+**Mid-range:** $110-220 (hotel in Zona Hotelera without all-inclusive, boutique in Puerto Morelos).
+**Premium all-inclusive:** $280-700 per person per night (top resorts with spa, pool, multiple restaurants).
+
+Package travel operators are usually 20-30 percent more expensive than direct booking via Booking.com. Always compare both paths.
+
 ## Where should you actually book?
 
 Most travelers book Cancún through package travel operators. Not wrong, but often not optimal.

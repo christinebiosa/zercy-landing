@@ -31,7 +31,7 @@ Baixa is the business district rebuilt after the 1755 earthquake. Today it's the
 
 **Prices:** Mid-range hotels $100-200 per night, boutique $170-330, premium (Bairro Alto Hotel, Lumen) $280-500.
 
-**Top picks:** Lumiares Hotel (boutique with rooftop pool), Browns Downtown (modern, central), Internacional Design Hotel (mid-range, designer rooms).
+**Top picks:** Lumiares Hotel (boutique with rooftop pool), Browns Downtown (modern, central), Internacional Design Hotel (mid-range, designer rooms). These and 1,500+ more Lisbon hotels are on [Booking.com](https://www.booking.com) with neighborhood filter and free cancellation.
 
 Direct access to all sights, perfect connection via the green Metro line. The [official Portuguese tourism board](https://www.visitportugal.com/en/destinos/lisboa) has a curated overview of Lisbon's neighborhoods and recommended hotels. See our [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail) for inspiration beyond the main attractions.
 
@@ -80,6 +80,16 @@ The "Champs-Élysées of Lisbon": wide avenue with designer shops, premium hotel
 **Prices:** Premium hotels from $330 per night.
 
 **Top picks:** Four Seasons Ritz Lisbon (legendary lobby, spa with city view), Tivoli Avenida Liberdade (classic, rooftop pool), Heritage Avenida Liberdade Hotel (boutique).
+
+## How much does a night in Lisbon really cost?
+
+Lisbon prices have risen significantly in 2026, but remain cheaper than Madrid or Barcelona. Ranges per night.
+
+**Hostels:** $28-55 for a bed in a shared room.
+**Mid-range:** $100-200 (3-star in Baixa, apartments in Bairro Alto).
+**Premium:** $280-770 (boutique in Alfama with pool, 5-star on Avenida da Liberdade).
+
+Tip: April and November are 30-40 percent cheaper than summer. Book on Booking.com with "Flexible Dates" to find the cheapest weeks.
 
 ## Where should you actually book?
 

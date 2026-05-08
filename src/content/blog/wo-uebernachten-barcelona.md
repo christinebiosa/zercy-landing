@@ -31,7 +31,7 @@ Eixample (sprich: "ei-sham-pla", katalanisch für "Erweiterung") wurde im 19. Ja
 
 **Preise pro Nacht:** Mittelklasse 100-200 Euro, Boutique 180-350 Euro, Premium (Cotton House, Mandarin Oriental) 350-700 Euro.
 
-**Top-Picks:** Cotton House Hotel (5-Sterne in restauriertem Cotton-Producers-Verband), Hotel Praktik Rambla (mittelklasse mit Charakter), Hotel Casa Fuster (Art Nouveau-Premium).
+**Top-Picks:** Cotton House Hotel (5-Sterne in restauriertem Cotton-Producers-Verband), Hotel Praktik Rambla (mittelklasse mit Charakter), Hotel Casa Fuster (Art Nouveau-Premium). Diese und 2.500+ weitere Barcelona-Hotels findest du auf [Booking.com](https://www.booking.com) mit Stadtteil-Filter und kostenlosem Storno.
 
 ## Gothic Quarter (Barri Gòtic): Mittelalter-Herz
 
@@ -80,6 +80,16 @@ Barceloneta ist der direkte Strand-Stadtteil: enge Gassen wie früher Fischer-Di
 **Preise:** Mittelklasse 110-200 Euro, Premium-Hotels 250-500 Euro.
 
 **Top-Picks:** W Barcelona (legendäres Segel-Hotel direkt am Strand), Hotel Arts Barcelona (Premium, 5 Sterne), H10 Marina Barcelona (mittelklasse, Pool mit Hafen-Blick).
+
+## Wie viel kostet eine Übernachtung in Barcelona wirklich?
+
+Barcelona-Preise sind 2026 deutlich gestiegen wegen Tourismus-Boom. Realistische Spannen.
+
+**Hostels:** 25-55 Euro für ein Bett im Mehrbettzimmer (Hostel One Paralelo, Casa Gracia).
+**Mittelklasse:** 100-220 Euro (3-4-Sterne in Eixample, Boutique in El Born).
+**Premium:** 280-700 Euro (Cotton House, W Barcelona, Hotel Casa Fuster).
+
+Tipp: Mobile World Congress (Februar/März) verdoppelt die Preise. Vermeide diese 1-2 Wochen oder buche Monate vorher.
 
 ## Wo solltest du am Ende buchen?
 

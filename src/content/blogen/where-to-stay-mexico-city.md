@@ -79,6 +79,16 @@ South of the center, own identity as former village outside Mexico. Frida Kahlo 
 
 **Top picks:** Casa Jacinta Guest House (boutique atmosphere near Casa Azul), Hotel Boutique Coyoacán (small, family-run), apartments in Coyoacán houses (via Booking.com).
 
+## How much does a night in Mexico City really cost?
+
+Mexico City is one of the cheapest mega-cities in the world. Realistic ranges per night.
+
+**Hostels:** $20-50 for a bed in a shared room (Hostel Mundo Joven, Massiosare El Albergue).
+**Mid-range:** $55-200 (boutique in Roma/Condesa, 3-star in Centro).
+**Premium:** $220-500 (Four Seasons, St. Regis, Las Alcobas in Polanco).
+
+Important: Booking prices are fixed in USD, protects against peso fluctuations. Tip: May-September are 20-30 percent cheaper than peak season (December/spring).
+
 ## Where should you actually book?
 
 For Mexico City [Booking.com](https://www.booking.com) is clearly the best platform:

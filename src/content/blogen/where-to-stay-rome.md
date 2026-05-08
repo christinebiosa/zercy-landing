@@ -79,6 +79,16 @@ Prati is an elegant 19th-century quarter directly north of the Vatican. Wide str
 
 **Top picks:** Hotel Hassler Roma (premium with Spanish Steps view), Castello della Castelluccia (castle hotel just outside), Atlante Star Hotel (mid-range with rooftop).
 
+## How much does a night in Rome really cost?
+
+Rome has a wide price range thanks to a diverse hotel scene. Realistic tiers per night.
+
+**Hostels:** $28-60 for a bed in a shared room (The Yellow, Generator).
+**Mid-range:** $100-245 (3-star in Centro Storico, boutique in Monti).
+**Premium:** $280-1,000 (J.K. Place Roma, Hotel Hassler, Hotel de la Ville).
+
+Plus: city tourist tax $3.30-7.70 per night depending on hotel class. Tip: November-March are 30-40 percent cheaper than spring/summer, perfect for indoor sightseeing.
+
 ## Where should you actually book?
 
 For Rome [Booking.com](https://www.booking.com) is clearly the best platform:
