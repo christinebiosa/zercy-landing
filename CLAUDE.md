@@ -312,6 +312,11 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - wo-uebernachten-hanoi, wo-uebernachten-cusco
 - wo-uebernachten-bogota, wo-uebernachten-mendoza
 - wo-uebernachten-medellin, wo-uebernachten-cape-town
+- ki-vergleich-reiseplanung-2026, reisen-mit-baby-erste-fluege
+- booking-vs-direkt-buchen, lounge-zugang-ohne-business-ticket
+- powerbank-regeln-handgepaeck-2026, plastik-frei-reisen-tipps
+- patagonien-3-wochen-route, sansibar-stone-town-guide
+- bahn-vs-flieger-europa-2026, slowenien-geheimnis-2026
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -358,6 +363,11 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - where-to-stay-hanoi, where-to-stay-cusco
 - where-to-stay-bogota, where-to-stay-mendoza
 - where-to-stay-medellin, where-to-stay-cape-town
+- ai-comparison-trip-planning-2026, traveling-with-baby-first-flights
+- booking-vs-direct-hotel-booking, lounge-access-without-business-ticket
+- powerbank-rules-carry-on-2026, plastic-free-travel-tips
+- patagonia-3-week-route, zanzibar-stone-town-guide
+- train-vs-plane-europe-2026, slovenia-green-secret-2026
 
 ### Schema — automatisch via Template
 Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:
