@@ -91,4 +91,4 @@ Die wichtigste Neuerung ist Zürich nach Barcelona über Lyon (ÖBB Nightjet). D
 
 Die neuen ÖBB-Nightjet-Garnituren (Siemens Viaggio Next Level) sind ein deutlicher Sprung. Schlafwagen-Abteile haben eigene Dusche und WC, USB-Ladestationen, Klimaanlage und Frühstück inklusive. Liegewagen sind solide, aber einfach. Sitzwagen sind für eine Nacht machbar, für erholsamen Schlaf aber nicht ideal.
 
-**Mehr lesen:** [Zugreisen in Europa: 5 Strecken](/blog/zugreisen-europa) · [Geheimtipps in Europa](/blog/geheimtipps-europa) · [Nur mit Handgepäck reisen](/blog/nur-handgepaeck)
+**Mehr lesen:** [Wo übernachten in Berlin: Top-Hub für Nachtzüge](/blog/wo-uebernachten-berlin) · [Zugreisen in Europa: 5 Strecken](/blog/zugreisen-europa) · [Geheimtipps in Europa](/blog/geheimtipps-europa)

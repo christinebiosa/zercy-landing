@@ -23,7 +23,7 @@ Drittens der Service. In den besten Riads kocht eine Familie für dich. Frühst�
 
 ## Welche Städte sind die beste Wahl?
 
-**Marrakesch.** Die offensichtliche erste Wahl. Größte Auswahl an Riads, lebendigste Medina. Ideal für Erstbesucher, aber auch sehr touristisch. Buche mindestens 2 Monate im Voraus für die besten Optionen. Schau dir unseren [Guide zu Boutique Hotels](/blog/boutique-hotels) an, falls du Konzepte aus anderen Städten vergleichen willst.
+**Marrakesch.** Die offensichtliche erste Wahl. Größte Auswahl an Riads, lebendigste Medina. Ideal für Erstbesucher, aber auch sehr touristisch. Buche mindestens 2 Monate im Voraus für die besten Optionen. Lies dazu unseren detaillierten [Wo-übernachten-in-Marrakesch-Guide](/blog/wo-uebernachten-marrakesch) für die Stadtteil-Wahl. Plus: schau dir unseren [Guide zu Boutique Hotels](/blog/boutique-hotels) an, falls du Konzepte aus anderen Städten vergleichen willst.
 
 **Fès.** Die ältere, authentischere Schwester. Die Medina von Fès ist die größte autofreie Altstadt der Welt. Riads hier sind oft hochwertiger restauriert und weniger touristisch. Wer das wahre Marokko sucht, fährt hier hin.
 

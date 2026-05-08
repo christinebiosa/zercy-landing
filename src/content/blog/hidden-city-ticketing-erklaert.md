@@ -76,6 +76,6 @@ Tools wie Skiplagged oder Kiwi.com zeigen Hidden-City-Optionen explizit. Du kann
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in London: Beste Stadtteile für Stopover-Reisen](/blog/wo-uebernachten-london)
 - [Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack)
 - [Business Class ohne Meilen: Wie geht das?](/blog/business-class-ohne-meilen)
-- [Wann Flüge buchen für die besten Preise](/blog/wann-fluege-buchen)

@@ -103,4 +103,4 @@ Ja, aber selten und ohne Garantie. Die höchste Chance: Statuskunden der Airline
 
 Du wirst am Gate gestoppt. Die Tasche muss aufgegeben werden — zu einem Preis, der am Gate erheblich höher ist als wenn du Gepäck vorher gebucht hättest. Bei Ryanair: 50–80 Euro. Das lässt sich leicht vermeiden: Maße vorab prüfen, Tasche gut packen.
 
-**Mehr lesen:** [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps) · [Wann Flüge buchen](/blog/wann-fluege-buchen) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck)
+**Mehr lesen:** [Wo übernachten in Miami: Hotels nach MIA-Ankunft](/blog/wo-uebernachten-miami) · [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps) · [Wann Flüge buchen](/blog/wann-fluege-buchen)

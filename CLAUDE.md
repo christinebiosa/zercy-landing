@@ -297,6 +297,11 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - wo-uebernachten-tokio, wo-uebernachten-barcelona
 - wo-uebernachten-paris, wo-uebernachten-rom
 - wo-uebernachten-mexico-city, wo-uebernachten-cartagena
+- wo-uebernachten-tulum, wo-uebernachten-bali
+- wo-uebernachten-bangkok, wo-uebernachten-london
+- wo-uebernachten-berlin, wo-uebernachten-amsterdam
+- wo-uebernachten-lima, wo-uebernachten-rio-de-janeiro
+- wo-uebernachten-miami, wo-uebernachten-marrakesch
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -328,6 +333,11 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - where-to-stay-tokyo, where-to-stay-barcelona
 - where-to-stay-paris, where-to-stay-rome
 - where-to-stay-mexico-city, where-to-stay-cartagena
+- where-to-stay-tulum, where-to-stay-bali
+- where-to-stay-bangkok, where-to-stay-london
+- where-to-stay-berlin, where-to-stay-amsterdam
+- where-to-stay-lima, where-to-stay-rio-de-janeiro
+- where-to-stay-miami, where-to-stay-marrakech
 
 ### Schema — automatisch via Template
 Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:

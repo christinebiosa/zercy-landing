@@ -125,3 +125,10 @@ Pro Person rund 2.400 bis 3.600 Euro, alles inklusive (Flug, Mietwagen geteilt, 
 ### Wo lohnt es sich zu übernachten?
 
 Mittelklasse-Ecolodges in La Fortuna, Monteverde und Manuel Antonio kombinieren Komfort mit Naturzugang. In Santa Teresa sind Surf-Hostels und Boho-Villen die richtige Wahl. Vermeide Kettenhotels in San José, da lohnt sich eher ein Airport-Hotel für eine Nacht.
+
+---
+
+**Mehr lesen:**
+- [Wo übernachten in Tulum: Beste Stadtteile für deine Karibik-Reise](/blog/wo-uebernachten-tulum)
+- [Costa Rica Surfen: Die besten Spots](/blog/costa-rica-surfen)
+- [Mietwagen in Costa Rica: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden)

@@ -89,6 +89,6 @@ Wenn der Anbieter keine konkreten Projekte nennt, keine Berechnungsgrundlage off
 ---
 
 **Mehr lesen:**
+- [Wo übernachten in Rio de Janeiro: Beste Stadtteile für deine Brasilien-Reise](/blog/wo-uebernachten-rio-de-janeiro)
 - [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026)
 - [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
-- [Wie KI die Reiseplanung verändert](/blog/ki-veraendert-reiseplanung)

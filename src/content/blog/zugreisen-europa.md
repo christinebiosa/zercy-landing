@@ -97,4 +97,4 @@ Für 3+ Strecken innerhalb eines Monats: oft ja. Für eine oder zwei Strecken: e
 
 Interrail: für EU-Bürger und Bürger mit festem Wohnsitz in einem Interrail-Teilnehmerland (inkl. Großbritannien, Türkei, einige andere). Eurail: für alle anderen (USA, Australien, etc.). Gleicher Pass, anderer Name — und das Heimatland ist ausgeschlossen.
 
-**Mehr lesen:** [7 Geheimtipps in Europa](/blog/geheimtipps-europa) · [Boutique-Hotels: Warum kleine Hotels besser sind](/blog/boutique-hotels) · [Santiago de Compostela & Jakobsweg](/blog/santiago-de-compostela)
+**Mehr lesen:** [Wo übernachten in Amsterdam: Hub für Eurostar & Thalys](/blog/wo-uebernachten-amsterdam) · [7 Geheimtipps in Europa](/blog/geheimtipps-europa) · [Boutique-Hotels: Warum kleine Hotels besser sind](/blog/boutique-hotels)

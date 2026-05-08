@@ -116,6 +116,6 @@ Open-Jaw lohnt sich vor allem bei Europa-Rundreisen, Roadtrips und Reisen ab 10 
 
 Read more:
 
+- [Wo übernachten in Bangkok: Beste Stadtteile für Stopover](/blog/wo-uebernachten-bangkok)
 - [Günstig fliegen: 7 Tricks, die Vielflieger kennen](/blog/guenstig-fliegen-tipps)
 - [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen)
-- [Zugreisen durch Europa: Die besten Strecken](/blog/zugreisen-europa)
