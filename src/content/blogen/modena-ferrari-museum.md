@@ -5,6 +5,7 @@ description: "Modena is more than Ferrari. Two Ferrari museums, real aged balsam
 pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 7
+bookingDest: "Modena"
 ---
 
 Modena in 48 hours. Sounds too short for a city that produced Ferrari, Maserati, Pavarotti and the world's best balsamic vinegar. It isn't. The old town is compact, the museums are walkable, and the rest is short drives away.

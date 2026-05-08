@@ -5,6 +5,7 @@ description: "A sabbatical sounds like freedom, but it's a logistics marathon. H
 pubDate: 2026-04-28
 category: "Business Travel"
 readingTime: 8
+bookingDest: "Costa Rica"
 ---
 
 You've been dreaming for years of 6 months off. A real trip, not a vacation with a laptop. You've saved money, made plans, you're already drafting a resignation letter in your head. Stop. Sabbatical doesn't necessarily mean quitting.

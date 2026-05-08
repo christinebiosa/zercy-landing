@@ -5,6 +5,7 @@ description: "Porto ist günstiger, ruhiger und hat das bessere Essen. Ribeira, 
 pubDate: 2026-04-04
 category: "Reiseziele"
 readingTime: 7
+bookingDest: "Porto"
 ---
 
 Alle reden über Lissabon. Verständlich. Aber Porto? Porto ist die Stadt, die du danach entdeckst. Und dann fragst du dich, warum du nicht gleich hierher gekommen bist.

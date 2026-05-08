@@ -5,6 +5,7 @@ description: "2026 is a top year for northern lights thanks to the solar maximum
 pubDate: 2026-04-28
 category: "Off the Map"
 readingTime: 7
+bookingDest: "Iceland"
 ---
 
 You fly to Tromsø to see northern lights. Four nights of clouds. You fly home frustrated. Classic northern lights fail.

@@ -5,6 +5,7 @@ description: "Atmosfair, MyClimate, Climeworks: offsetting flight emissions soun
 pubDate: 2026-04-28
 category: "Travel Green"
 readingTime: 7
+bookingDest: "Costa Rica"
 ---
 
 You're booking a flight to Bangkok. At the bottom appears the box: "Fly carbon-neutral for $32". One click, conscience clear. Just one question: is it true?

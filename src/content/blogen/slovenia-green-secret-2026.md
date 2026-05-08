@@ -5,6 +5,7 @@ description: "Slovenia between Alps, Karst and Adriatic. Bled, Bohinj, Ljubljana
 pubDate: 2026-05-07
 category: "Hidden Gems"
 readingTime: 7
+bookingDest: "Slovenia"
 ---
 
 Slovenia has 2 million inhabitants and 4,847 miles of hiking trails. It lies between the Julian Alps, the Karst Plateau, the Pannonian Plain and a 29-mile Adriatic coastline strip. You can hike up to 9,396 ft (Triglav) in the morning and eat squid at an Adriatic harbor in the evening. All in a country the size of New Jersey.

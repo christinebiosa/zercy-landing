@@ -5,6 +5,7 @@ description: "Türkisblaues Wasser wie in Kroatien, Preise wie in Bulgarien vor 
 pubDate: 2026-04-28
 category: "Fernweh"
 readingTime: 7
+bookingDest: "Albania"
 ---
 
 Stell dir Kroatien vor 20 Jahren vor. Glasklares Adriawasser, leere Strände, Bier für 1,50 Euro, frischer Fisch direkt vom Fischerboot. Genau das ist die Albanien-Riviera 2026. Noch.

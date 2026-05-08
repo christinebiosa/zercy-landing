@@ -5,6 +5,7 @@ description: "Costa Rica Rundreise 2 Wochen: die perfekte Route mit 5 Stopps von
 pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 8
+bookingDest: "Costa Rica"
 ---
 
 Eine Costa Rica Rundreise in 2 Wochen funktioniert, wenn du die richtige Route wählst. Nicht alles abhaken wollen. Drei oder vier Stopps reichen, dazwischen Zeit zum Atmen.

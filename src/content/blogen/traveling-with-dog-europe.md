@@ -5,6 +5,7 @@ description: "EU pet passport, rabies vaccine, dog-friendly hotels: how to trave
 pubDate: 2026-04-28
 category: "On the Move"
 readingTime: 7
+bookingDest: "Austria"
 ---
 
 You want to drive to Italy, the dog comes along. At the vet you get the EU pet passport. On the train the dog barks for 4 hours. At the hotel you're not let in. Classic dog travel nightmare.

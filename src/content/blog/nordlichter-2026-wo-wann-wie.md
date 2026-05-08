@@ -5,6 +5,7 @@ description: "2026 ist ein Top-Jahr für Nordlichter wegen des Sonnenmaximums. W
 pubDate: 2026-04-28
 category: "Fernweh"
 readingTime: 7
+bookingDest: "Iceland"
 ---
 
 Du fliegst nach Tromsø, weil du Nordlichter sehen willst. Vier Nächte nur Wolken. Du fliegst frustriert zurück. Klassischer Nordlicht-Fail.

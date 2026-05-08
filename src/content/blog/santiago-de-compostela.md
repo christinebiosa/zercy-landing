@@ -5,6 +5,7 @@ description: "Millionen Menschen haben den Jakobsweg gelaufen. Was zieht sie an?
 pubDate: 2026-03-23
 category: "Fernweh"
 readingTime: 9
+bookingDest: "Santiago de Compostela"
 ---
 
 Es gibt Reiseziele, die man besucht. Und es gibt welche, die man erlebt.

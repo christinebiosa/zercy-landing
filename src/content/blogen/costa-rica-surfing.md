@@ -5,6 +5,7 @@ description: "Costa Rica is more than a destination. It's an attitude. Dream wav
 pubDate: 2026-03-25
 category: "Off the Map"
 readingTime: 9
+bookingDest: "Costa Rica"
 ---
 
 Pura Vida. Pure life. In Costa Rica that's not a marketing slogan — it's the answer to almost everything. How are you? Pura Vida. Thanks for the wave? Pura Vida. All good? Pura Vida.

@@ -5,6 +5,7 @@ description: "Sansibar Stone Town ist mehr als eine Selfie-Kulisse. UNESCO-Welte
 pubDate: 2026-05-07
 category: "Geheimtipps"
 readingTime: 7
+bookingDest: "Zanzibar"
 ---
 
 Sansibar wird verkauft als Indischer-Ozean-Strandparadies mit weißem Sand und türkisem Wasser. Die Strände sind real. Aber das Herz der Insel ist Stone Town - eine 200 Jahre alte Hafenstadt, UNESCO-Welterbe, mit einer komplizierten Geschichte zwischen Arabern, Indern, Briten und Afrikanern. Die meisten Tourismus-Programme stoppen hier 1 Tag und rennen zum Strand.

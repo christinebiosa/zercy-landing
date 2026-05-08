@@ -5,6 +5,7 @@ description: "Ein Riad ist mehr als ein Hotel mit Innenhof. Welche Riads in Marr
 pubDate: 2026-04-28
 category: "Wo übernachten"
 readingTime: 7
+bookingDest: "Marrakech"
 ---
 
 Du läufst durch eine schmale, staubige Gasse in der Medina von Marrakesch. Plötzlich öffnet sich eine unscheinbare Tür. Dahinter: ein Innenhof mit Brunnen, Orangenbäume, kühle Fliesen, vielleicht ein Pool. Willkommen im Riad.

@@ -5,6 +5,7 @@ description: "Modena ist mehr als Ferrari. Zwei Ferrari-Museen, echter Aceto Bal
 pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 7
+bookingDest: "Modena"
 ---
 
 Modena in 48 Stunden. Klingt zu wenig für eine Stadt, die Ferrari, Maserati, Pavarotti und den besten Balsamico-Essig der Welt hervorgebracht hat. Ist es aber nicht. Die Altstadt ist kompakt, die Museen sind in Laufweite, und der Rest lässt sich mit kurzen Fahrten erledigen.

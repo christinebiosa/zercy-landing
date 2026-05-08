@@ -5,6 +5,7 @@ description: "Der komplette Island-Guide: Ring Road, Blaue Lagune, Nordlichter u
 pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 8
+bookingDest: "Iceland"
 ---
 
 Island ist kein normales Reiseziel. Vulkane, die letztes Jahr ausbrachen, Gletscher, die in 30 Jahren weg sein könnten, und Nordlichter, die man nicht plant, sondern jagt. Das Land ist dramatisch, teuer und unvergleichlich. Hier ist, wie du das Beste aus deiner Reise machst.

@@ -5,6 +5,7 @@ description: "Solo reisen als Frau ist möglich, lohnt sich und macht stark. Wel
 pubDate: 2026-04-28
 category: "Reisetipps"
 readingTime: 8
+bookingDest: "Iceland"
 ---
 
 Du planst deine erste Solo-Reise. Familie und Freunde fragen "Geht das nicht zu zweit?" Ja, geht es. Solo-Reisen sind anders, aber nicht gefährlicher. Wenn du das richtige Land wählst und die richtigen Vorbereitungen triffst.

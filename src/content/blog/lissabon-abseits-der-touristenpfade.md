@@ -6,6 +6,7 @@ pubDate: 2026-04-04
 category: "Reiseziele"
 readingTime: 7
 heroImage: "/img/blog/lisbon.jpg"
+bookingDest: "Lisbon"
 ---
 
 Lissabon hat ein Problem. Alle wollen hin. Und alle landen in denselben drei Straßen.

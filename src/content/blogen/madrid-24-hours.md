@@ -6,6 +6,7 @@ pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 7
 heroImage: "/img/blog/madrid.jpg"
+bookingDest: "Madrid"
 ---
 
 Madrid in 24 hours works. Not every museum, not every neighborhood, but the essence. Art, food, street life, nightlife. Here's the plan that actually works without running you into the ground.

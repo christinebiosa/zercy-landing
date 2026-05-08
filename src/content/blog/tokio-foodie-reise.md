@@ -6,6 +6,7 @@ pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 8
 heroImage: "/img/blog/tokyo-food.jpg"
+bookingDest: "Tokyo"
 ---
 
 Tokio hat [mehr Michelin-Sterne als Paris, London und New York zusammen](https://guide.michelin.com/en/jp/tokyo-region/restaurants). Du kannst dort eine Woche lang nichts anderes tun als essen, und hättest die Spitze noch nicht mal gestreift.

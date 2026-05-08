@@ -5,6 +5,7 @@ description: "Slowenien zwischen Alpen, Karst und Adria. Bled, Bohinj, Ljubljana
 pubDate: 2026-05-07
 category: "Geheimtipps"
 readingTime: 7
+bookingDest: "Slovenia"
 ---
 
 Slowenien hat 2 Millionen Einwohner und 7.800 Kilometer Wanderwege. Es liegt zwischen den Julischen Alpen, dem Karst-Plateau, der Pannonischen Ebene und einem 47 km langen Adriaküsten-Streifen. Du kannst morgens auf 2.864 Meter (Triglav) wandern und abends in einem Adria-Hafen Tintenfisch essen. Alles in einem Land das so groß ist wie Schleswig-Holstein.

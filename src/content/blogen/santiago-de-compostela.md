@@ -5,6 +5,7 @@ description: "Millions of people have walked the Camino de Santiago. What draws 
 pubDate: 2026-03-23
 category: "Off the Map"
 readingTime: 9
+bookingDest: "Santiago de Compostela"
 ---
 
 There are destinations you visit. And there are ones you experience.

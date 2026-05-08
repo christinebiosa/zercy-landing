@@ -5,6 +5,7 @@ description: "EU-Heimtierausweis, Tollwut-Impfung, hundefreundliche Hotels: Wie 
 pubDate: 2026-04-28
 category: "Unterwegs"
 readingTime: 7
+bookingDest: "Austria"
 ---
 
 Du willst nach Italien fahren, der Hund soll mit. Beim Tierarzt holst du den EU-Heimtierausweis. Im Zug schreit der Hund 4 Stunden. Im Hotel wirst du nicht reingelassen. Klassischer Hunde-Reise-Albtraum.

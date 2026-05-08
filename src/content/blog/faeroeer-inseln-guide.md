@@ -5,6 +5,7 @@ description: "18 Inseln im Nordatlantik, 50.000 Einwohner, mehr Schafe als Mensc
 pubDate: 2026-04-28
 category: "Geheimtipps"
 readingTime: 7
+bookingDest: "Faroe Islands"
 ---
 
 Stell dir Island vor, aber kleiner, grüner und ohne Touristen. 18 vulkanische Inseln im Nordatlantik, dazwischen 1.100 Kilometer Küste, dazu Wasserfälle die direkt ins Meer stürzen. Willkommen auf den Färöer-Inseln.

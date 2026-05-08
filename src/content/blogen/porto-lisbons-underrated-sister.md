@@ -5,6 +5,7 @@ description: "Porto is cheaper, calmer, and the food is better. Ribeira, port wi
 pubDate: 2026-04-04
 category: "Destinations"
 readingTime: 7
+bookingDest: "Porto"
 ---
 
 Everyone talks about Lisbon. Fair enough. But Porto? Porto is the city you discover after Lisbon. And then you wonder why you didn't come here first.

@@ -5,6 +5,7 @@ description: "Der erste Flug mit Baby? Hier kommen die ehrlichen Tipps die wirkl
 pubDate: 2026-05-07
 category: "Reisetipps"
 readingTime: 8
+bookingDest: "Mallorca"
 ---
 
 Der erste Flug mit Baby ist die größte Sorge frischer Eltern. Was wenn es schreit? Was wenn es Druckausgleich-Schmerzen hat? Was wenn die Sitznachbarin genervt schaut? Wir haben mit drei Familien gesprochen, die in den ersten zwölf Monaten 6 bis 14 Flüge mit Baby gemacht haben. Spoiler: es ist meist viel weniger dramatisch als die Vorstellung.

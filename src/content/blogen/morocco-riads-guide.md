@@ -5,6 +5,7 @@ description: "A riad is more than a hotel with a courtyard. Which riads in Marra
 pubDate: 2026-04-28
 category: "Where to Stay"
 readingTime: 7
+bookingDest: "Marrakech"
 ---
 
 You walk down a narrow, dusty alley in the Marrakech medina. Suddenly an unmarked door opens. Behind it: a courtyard with a fountain, orange trees, cool tiles, maybe a pool. Welcome to your riad.

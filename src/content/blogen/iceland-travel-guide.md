@@ -5,6 +5,7 @@ description: "The complete Iceland guide: Ring Road, Blue Lagoon, Northern Light
 pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 8
+bookingDest: "Iceland"
 ---
 
 Iceland isn't a normal destination. Volcanoes that erupted last year, glaciers that might be gone in 30 years, and northern lights you don't plan, you chase. The country is dramatic, expensive and unlike anywhere else. Here's how to get the most out of your trip.

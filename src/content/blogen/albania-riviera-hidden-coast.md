@@ -5,6 +5,7 @@ description: "Turquoise water like Croatia, prices like Bulgaria 10 years ago. T
 pubDate: 2026-04-28
 category: "Off the Map"
 readingTime: 7
+bookingDest: "Albania"
 ---
 
 Imagine Croatia 20 years ago. Crystal-clear Adriatic water, empty beaches, beer for $1.60, fresh fish straight from the boat. That's the Albania Riviera in 2026. For now.

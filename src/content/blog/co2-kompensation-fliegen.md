@@ -5,6 +5,7 @@ description: "Atmosfair, MyClimate, Climeworks: CO2-Kompensation beim Fliegen kl
 pubDate: 2026-04-28
 category: "Nachhaltig"
 readingTime: 7
+bookingDest: "Costa Rica"
 ---
 
 Du buchst einen Flug nach Bangkok. Ganz unten erscheint die Box: "Klimaneutral fliegen für 28 Euro". Ein Klick, das Gewissen ist beruhigt. Nur: Stimmt das überhaupt?

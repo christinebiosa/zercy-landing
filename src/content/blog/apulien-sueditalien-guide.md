@@ -5,6 +5,7 @@ description: "Türkises Meer, Trulli, Burrata und kein Massentourismus: Apulien 
 pubDate: 2026-04-28
 category: "Fernweh"
 readingTime: 7
+bookingDest: "Puglia"
 ---
 
 Italien hat ein Süd-Problem in der Kommunikation. Toskana, Cinque Terre, Amalfiküste sind weltberühmt. Apulien? Die meisten kennen es nicht. Dabei ist es 2026 wahrscheinlich die schönste Region des Landes.

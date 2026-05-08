@@ -5,6 +5,7 @@ description: "Working remotely from Bali or Lisbon sounds like freedom. But when
 pubDate: 2026-04-28
 category: "Business Travel"
 readingTime: 8
+bookingDest: "Bali"
 ---
 
 You're sitting in a Lisbon café with your laptop. Client calls, you pick up. Tax-wise: harmless. Three weeks later you're still there. Now things get complicated.

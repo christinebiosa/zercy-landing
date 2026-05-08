@@ -5,6 +5,7 @@ description: "Turquoise sea, Trulli, burrata and no mass tourism: Puglia is Ital
 pubDate: 2026-04-28
 category: "Off the Map"
 readingTime: 7
+bookingDest: "Puglia"
 ---
 
 Italy has a southern communication problem. Tuscany, Cinque Terre, Amalfi Coast are world-famous. Puglia? Most people don't know it. Yet in 2026 it's probably the most beautiful region in the country.

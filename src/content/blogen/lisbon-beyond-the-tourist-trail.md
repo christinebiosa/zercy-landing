@@ -6,6 +6,7 @@ pubDate: 2026-04-04
 category: "Destinations"
 readingTime: 7
 heroImage: "/img/blog/lisbon.jpg"
+bookingDest: "Lisbon"
 ---
 
 Lisbon has a problem. Everyone wants to go. And everyone ends up in the same three streets.

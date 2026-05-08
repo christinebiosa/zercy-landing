@@ -5,6 +5,7 @@ description: "Zanzibar Stone Town is more than a selfie backdrop. UNESCO World H
 pubDate: 2026-05-07
 category: "Hidden Gems"
 readingTime: 7
+bookingDest: "Zanzibar"
 ---
 
 Zanzibar is sold as Indian Ocean beach paradise with white sand and turquoise water. The beaches are real. But the heart of the island is Stone Town — a 200-year-old port city, UNESCO World Heritage, with a complicated history between Arabs, Indians, British and Africans. Most tourist programs stop here for 1 day and rush to the beach.

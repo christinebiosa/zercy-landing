@@ -5,6 +5,7 @@ description: "18 islands in the North Atlantic, 50,000 inhabitants, more sheep t
 pubDate: 2026-04-28
 category: "Hidden Gems"
 readingTime: 7
+bookingDest: "Faroe Islands"
 ---
 
 Imagine Iceland, but smaller, greener and without tourists. 18 volcanic islands in the North Atlantic, 700 miles of coastline between them, and waterfalls that crash directly into the sea. Welcome to the Faroe Islands.

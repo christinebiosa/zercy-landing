@@ -5,6 +5,7 @@ description: "No conference center, no identical lobby, no breakfast buffet for 
 pubDate: 2026-03-26
 category: "Where to Stay"
 readingTime: 8
+bookingDest: "Tuscany"
 ---
 
 There are hotels where you sleep. And there are hotels you're still talking about years later.

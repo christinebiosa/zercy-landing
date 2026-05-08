@@ -5,6 +5,7 @@ description: "First flight with baby? Here are the honest tips that actually wor
 pubDate: 2026-05-07
 category: "Travel Tips"
 readingTime: 8
+bookingDest: "Mallorca"
 ---
 
 The first flight with baby is the biggest worry of new parents. What if it screams? What if it has pressure equalization pain? What if the seatmate looks annoyed? We talked to three families who took 6 to 14 flights with baby in the first twelve months. Spoiler: it's usually much less dramatic than imagined.

@@ -5,6 +5,7 @@ description: "Workation aus Bali oder Lissabon klingt nach Freiheit. Aber wann w
 pubDate: 2026-04-28
 category: "Business Travel"
 readingTime: 8
+bookingDest: "Bali"
 ---
 
 Du sitzt mit dem Laptop in einem Café in Lissabon. Klient ruft an, du nimmst ab. Steuer-technisch: harmlos. Drei Wochen später bist du immer noch dort. Spätestens jetzt wird es kompliziert.

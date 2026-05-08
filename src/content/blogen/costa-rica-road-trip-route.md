@@ -5,6 +5,7 @@ description: "The perfect 2-week Costa Rica road trip. From San José to Arenal,
 pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 8
+bookingDest: "Costa Rica"
 ---
 
 Costa Rica in 2 weeks works, if you pick the right route. Don't try to tick everything off. Three or four stops is plenty, with time to breathe in between.

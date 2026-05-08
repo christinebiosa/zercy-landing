@@ -5,6 +5,7 @@ description: "Kein Konferenzcenter, keine einheitliche Lobby, kein Frühstücksb
 pubDate: 2026-03-26
 category: "Wo übernachten"
 readingTime: 8
+bookingDest: "Tuscany"
 ---
 
 Es gibt Hotels, in denen man schläft. Und es gibt Hotels, über die man noch Jahre später erzählt.

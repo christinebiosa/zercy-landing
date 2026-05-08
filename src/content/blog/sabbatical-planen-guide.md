@@ -5,6 +5,7 @@ description: "Sabbatical klingt nach Freiheit, ist aber Logistik-Marathon. Wie d
 pubDate: 2026-04-28
 category: "Business Travel"
 readingTime: 8
+bookingDest: "Costa Rica"
 ---
 
 Du träumst seit Jahren von 6 Monaten Auszeit. Eine echte Reise, kein Urlaub mit Laptop. Du hast Geld gespart, Pläne gemacht, ein Kündigungsschreiben tippst du im Kopf schon. Stopp. Sabbatical heißt nicht zwingend kündigen.

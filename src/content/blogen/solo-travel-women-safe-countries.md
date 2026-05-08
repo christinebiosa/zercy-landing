@@ -5,6 +5,7 @@ description: "Solo travel as a woman is totally doable, worthwhile and empowerin
 pubDate: 2026-04-28
 category: "Travel Tips"
 readingTime: 8
+bookingDest: "Iceland"
 ---
 
 You're planning your first solo trip. Family and friends ask "Can't you go with someone?" Yes, you can go alone. Solo travel is different, but not more dangerous. If you pick the right country and prepare correctly.
