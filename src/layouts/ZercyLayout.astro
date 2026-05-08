@@ -344,14 +344,19 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
             : <a href="/en" class="lang">EN</a>
           }
           <span class="lang-sep">|</span>
+          {lang === 'es'
+            ? <span class="lang active">ES</span>
+            : <a href="/es" class="lang">ES</a>
+          }
+          <span class="lang-sep">|</span>
           {lang === 'de'
             ? <span class="lang active">DE</span>
             : <a href="/" class="lang">DE</a>
           }
           <div class="lang-more-wrapper">
-            <button class="lang-more-btn" onclick="toggleLangDropdown(event)">+5 ▾</button>
+            <button class="lang-more-btn" onclick="toggleLangDropdown(event)">+4 ▾</button>
             <div class="lang-dropdown" id="lang-dropdown">
-              {['es','fr','nl','it','pt'].map((l) => (
+              {['fr','nl','it','pt'].map((l) => (
                 l === lang
                   ? <span class="lang-dd-item active">{l.toUpperCase()}</span>
                   : <a href={getLangPath(l)} class="lang-dd-item">{l.toUpperCase()}</a>
