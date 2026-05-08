@@ -5,6 +5,7 @@ description: "Modena ist mehr als Ferrari. Zwei Ferrari-Museen, echter Aceto Bal
 pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 7
+heroImage: "/img/blog/ferrari-museum.jpg"
 bookingDest: "Modena"
 ---
 

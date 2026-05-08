@@ -5,6 +5,7 @@ description: "No checked bags, no waiting at the belt, no lost luggage. Once you
 pubDate: 2026-03-26
 category: "Carry-On Only"
 readingTime: 8
+heroImage: "/img/blog/carry-on-bag.jpg"
 ---
 
 No waiting at the baggage belt. No checked bag that gets lost. No overweight fees. No dragging a suitcase across cobblestones.

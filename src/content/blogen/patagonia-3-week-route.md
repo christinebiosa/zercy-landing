@@ -5,6 +5,7 @@ description: "Patagonia in 3 weeks with real stages, accommodations, rental car 
 pubDate: 2026-05-07
 category: "Off the Map"
 readingTime: 9
+heroImage: "/img/blog/patagonia.jpg"
 bookingDest: "Patagonia"
 ---
 

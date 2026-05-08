@@ -5,6 +5,7 @@ description: "EU-Heimtierausweis, Tollwut-Impfung, hundefreundliche Hotels: Wie 
 pubDate: 2026-04-28
 category: "Unterwegs"
 readingTime: 7
+heroImage: "/img/blog/travel-with-dog.jpg"
 bookingDest: "Austria"
 ---
 

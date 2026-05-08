@@ -5,6 +5,7 @@ description: "ChatGPT, Perplexity und Claude können alle Reisen planen. Aber we
 pubDate: 2026-04-28
 category: "KI & Reisen"
 readingTime: 8
+heroImage: "/img/blog/ai-tools.jpg"
 ---
 
 Du fragst ChatGPT nach einer 10-Tage-Route durch Vietnam. Du bekommst eine schöne Antwort. Aber stimmen die Preise? Sind die Hotels noch offen? Funktioniert die Reihenfolge logistisch?

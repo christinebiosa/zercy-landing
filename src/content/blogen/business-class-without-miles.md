@@ -5,6 +5,7 @@ description: "You don't need miles or frequent flyer status to fly business clas
 pubDate: 2026-04-04
 category: "Travel Tips"
 readingTime: 7
+heroImage: "/img/blog/business-class.jpg"
 ---
 
 Collecting miles takes years. Earning elite status means 50+ flights per year. And yet some people fly business class regularly for a fraction of the normal price.

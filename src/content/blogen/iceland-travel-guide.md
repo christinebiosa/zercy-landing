@@ -5,6 +5,7 @@ description: "The complete Iceland guide: Ring Road, Blue Lagoon, Northern Light
 pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 8
+heroImage: "/img/blog/iceland.jpg"
 bookingDest: "Iceland"
 ---
 

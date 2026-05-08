@@ -5,6 +5,7 @@ description: "Zanzibar Stone Town is more than a selfie backdrop. UNESCO World H
 pubDate: 2026-05-07
 category: "Hidden Gems"
 readingTime: 7
+heroImage: "/img/blog/zanzibar.jpg"
 bookingDest: "Zanzibar"
 ---
 

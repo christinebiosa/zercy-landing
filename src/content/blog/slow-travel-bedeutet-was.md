@@ -5,6 +5,7 @@ description: "Slow Travel ist mehr als langsam reisen. Was das Konzept wirklich 
 pubDate: 2026-04-28
 category: "Nachhaltig"
 readingTime: 7
+heroImage: "/img/blog/slow-travel.jpg"
 ---
 
 Du machst eine Mittelmeer-Kreuzfahrt. 7 Länder in 7 Tagen, jeden Tag 6 Stunden Landgang. Du hast viel gesehen, fast nichts erlebt. Slow Travel sagt: Mach das Gegenteil.

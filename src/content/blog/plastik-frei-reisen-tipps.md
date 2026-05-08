@@ -5,6 +5,7 @@ description: "Plastik-frei reisen ohne Verzicht auf Komfort? Es geht. 7 ehrliche
 pubDate: 2026-05-07
 category: "Nachhaltig"
 readingTime: 7
+heroImage: "/img/blog/reusable-bottle.jpg"
 ---
 
 In Bali liegen die Strände nach jedem Sturm voll mit Plastik. In Mexiko City verkaufen Straßenstände jedes Getränk mit zwei Strohhalmen "extra für dich". In Vietnam bekommst du jedes Take-Away-Frühstück in 3 Plastikverpackungen. Plastik-frei reisen ist 2026 schwerer als zu Hause, aber machbar wenn du vorbereitet bist.

@@ -5,6 +5,7 @@ description: "Costa Rica is more than a destination. It's an attitude. Dream wav
 pubDate: 2026-03-25
 category: "Off the Map"
 readingTime: 9
+heroImage: "/img/blog/costa-rica-surf.jpg"
 bookingDest: "Costa Rica"
 ---
 

@@ -5,6 +5,7 @@ description: "Atmosfair, MyClimate, Climeworks: offsetting flight emissions soun
 pubDate: 2026-04-28
 category: "Travel Green"
 readingTime: 7
+heroImage: "/img/blog/forest-airplane.jpg"
 bookingDest: "Costa Rica"
 ---
 

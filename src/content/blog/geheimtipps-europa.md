@@ -5,6 +5,7 @@ description: "Keine Kreuzfahrtschiffe, keine Instagram-Warteschlangen, keine Pre
 pubDate: 2026-03-26
 category: "Geheimtipps"
 readingTime: 8
+heroImage: "/img/blog/europe-hidden.jpg"
 ---
 
 Der schönste Moment einer Reise ist der, in dem du an einem Ort bist und denkst: Wie weiß das noch niemand?

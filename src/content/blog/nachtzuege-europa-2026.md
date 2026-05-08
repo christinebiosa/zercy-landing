@@ -5,6 +5,7 @@ description: "Nachtzüge erleben ein Comeback in Europa. Die besten Schlafwagen-
 pubDate: 2026-04-04
 category: "Grün Reisen"
 readingTime: 7
+heroImage: "/img/blog/night-train.jpg"
 ---
 
 Du steigst abends ein. Legst dich hin. Und wachst in einer anderen Stadt auf. Kein Flughafen. Kein Hotel für die Nacht. Kein Wecker um 4:30 für den Frühflug.

@@ -5,6 +5,7 @@ description: "Wann lohnt sich AirBnB, wann ein Hotel? Plus: Warum du viele AirBn
 pubDate: 2026-04-28
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/apartment-vs-hotel.jpg"
 ---
 
 Du planst eine Woche Lissabon. AirBnB-Apartment für 95 Euro die Nacht oder Hotel für 130 Euro? Klingt nach einer einfachen Rechnung. Ist es nicht.

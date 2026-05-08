@@ -5,6 +5,7 @@ description: "A riad is more than a hotel with a courtyard. Which riads in Marra
 pubDate: 2026-04-28
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/morocco-riad.jpg"
 bookingDest: "Marrakech"
 ---
 

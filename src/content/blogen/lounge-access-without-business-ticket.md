@@ -5,6 +5,7 @@ description: "Use airport lounge without business class ticket? There are 5 lega
 pubDate: 2026-05-07
 category: "Business Travel"
 readingTime: 7
+heroImage: "/img/blog/airport-lounge.jpg"
 ---
 
 You're sitting at the gate, three hours before your flight. The terminal restaurants are crowded, seating is scarce, the WiFi is slow. 50 meters away is a Lufthansa lounge with buffet, quiet armchairs and showers. But your economy ticket won't get you in.

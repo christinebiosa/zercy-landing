@@ -5,6 +5,7 @@ description: "Regelmäßige Flieger zahlen weniger. Diese 7 Tricks zeigen, wie d
 pubDate: 2026-03-20
 category: "Reisetipps"
 readingTime: 7
+heroImage: "/img/blog/flights-cheap.jpg"
 ---
 
 Du kennst das: Du schaust dir einen Flug an, buchst einen Tag später — und plötzlich ist er teurer. Oder günstiger. Flugreisen fühlen sich oft wie ein Glücksspiel an.

@@ -5,6 +5,7 @@ description: "Sometimes the train is better than the flight — faster city-to-c
 pubDate: 2026-03-26
 category: "Travel Green"
 readingTime: 8
+heroImage: "/img/blog/train-europe.jpg"
 ---
 
 There are routes in Europe where the train isn't the second-best option. It's the best.

@@ -5,6 +5,7 @@ description: "KI oder Reisebüro? Wo künstliche Intelligenz gewinnt, wo der Men
 pubDate: 2026-04-04
 category: "KI & Reisen"
 readingTime: 7
+heroImage: "/img/blog/ai-vs-agent.jpg"
 ---
 
 70 % aller Reisenden nutzen inzwischen KI bei der Reiseplanung. Aber nur 38 % haben tatsächlich über ein KI-Tool gebucht. Diese Lücke erzählt eine Geschichte. Vertrauen ist da. Vollständig überzeugt? Noch nicht.

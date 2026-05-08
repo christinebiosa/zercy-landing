@@ -5,6 +5,7 @@ description: "Der erste Flug mit Baby? Hier kommen die ehrlichen Tipps die wirkl
 pubDate: 2026-05-07
 category: "Reisetipps"
 readingTime: 8
+heroImage: "/img/blog/baby-travel.jpg"
 bookingDest: "Mallorca"
 ---
 

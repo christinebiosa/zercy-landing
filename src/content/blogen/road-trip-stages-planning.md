@@ -5,6 +5,7 @@ description: "You're planning a road trip and don't know how much to drive per d
 pubDate: 2026-04-28
 category: "On the Move"
 readingTime: 7
+heroImage: "/img/blog/road-trip.jpg"
 ---
 
 You're planning a trip through Patagonia. The map looks manageable: 1,500 miles in 14 days. That's 110 miles per day. Sounds relaxed. You book, set off and realize by day 4 you've seen nothing but the road.

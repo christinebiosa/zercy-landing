@@ -5,6 +5,7 @@ description: "Airports are designed to slow you down and get you spending. These
 pubDate: 2026-03-26
 category: "Smart Travel"
 readingTime: 8
+heroImage: "/img/blog/airport.jpg"
 ---
 
 Airports are designed to slow you down. Long corridors. Confusing signs. A duty-free shop between you and your gate.

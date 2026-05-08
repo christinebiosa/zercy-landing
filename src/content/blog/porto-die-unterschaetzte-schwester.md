@@ -5,6 +5,7 @@ description: "Porto ist günstiger, ruhiger und hat das bessere Essen. Ribeira, 
 pubDate: 2026-04-04
 category: "Reiseziele"
 readingTime: 7
+heroImage: "/img/blog/porto.jpg"
 bookingDest: "Porto"
 ---
 

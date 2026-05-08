@@ -5,6 +5,7 @@ description: "Train or plane for the European trip? There are clear rules. We co
 pubDate: 2026-05-07
 category: "On the Move"
 readingTime: 7
+heroImage: "/img/blog/train-station.jpg"
 ---
 
 "The train is slower than the plane, but more sustainable." Is that really true? In Europe 2026 the answer is more complicated. On some routes the train is not only greener but also FASTER than the plane (when you add airport transfer, security and waiting time). On other routes flying is objectively the better choice.

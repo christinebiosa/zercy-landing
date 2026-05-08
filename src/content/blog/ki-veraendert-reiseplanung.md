@@ -5,6 +5,7 @@ description: "Buchungsportale zeigen Listen. KI versteht dich. Was sich in der R
 pubDate: 2026-03-15
 category: "KI & Reisen"
 readingTime: 7
+heroImage: "/img/blog/ai-travel.jpg"
 ---
 
 Reiseplanung hat sich in den letzten 20 Jahren kaum verändert.

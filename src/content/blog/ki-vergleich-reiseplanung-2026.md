@@ -5,6 +5,7 @@ description: "ChatGPT, Claude oder Gemini für die nächste Reise? Wir haben all
 pubDate: 2026-05-07
 category: "KI & Reisen"
 readingTime: 8
+heroImage: "/img/blog/ai-comparison.jpg"
 ---
 
 Du tippst "plane mir 10 Tage Vietnam" in ChatGPT. Du bekommst einen Tagesplan. Liest gut. Sieht gut aus. Nur sind die Hälfte der empfohlenen Restaurants seit 2023 geschlossen, drei Hotels existieren so nicht mehr, und der Inlandsflug zwischen Hanoi und Hue ist in der angegebenen Zeit gar nicht buchbar. Willkommen in der Realität der KI-Reiseplanung 2026.

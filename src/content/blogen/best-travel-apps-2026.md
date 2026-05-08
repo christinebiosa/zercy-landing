@@ -5,6 +5,7 @@ description: "Which travel apps are actually worth it in 2026? From flight compa
 pubDate: 2026-04-28
 category: "AI & Travel"
 readingTime: 7
+heroImage: "/img/blog/travel-apps.jpg"
 ---
 
 You install 30 travel apps before the trip. On the trip you use three. Classic app chaos.

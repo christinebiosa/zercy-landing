@@ -5,6 +5,7 @@ description: "Kein Konferenzcenter, keine einheitliche Lobby, kein Frühstücksb
 pubDate: 2026-03-26
 category: "Wo übernachten"
 readingTime: 8
+heroImage: "/img/blog/boutique-hotel.jpg"
 bookingDest: "Tuscany"
 ---
 

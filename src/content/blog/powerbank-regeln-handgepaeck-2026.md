@@ -5,6 +5,7 @@ description: "Powerbank-Regeln 2026 sind komplizierter geworden. Was darf wie gr
 pubDate: 2026-05-07
 category: "Nur mit Handgepäck"
 readingTime: 6
+heroImage: "/img/blog/powerbank.jpg"
 ---
 
 2026 wird das Jahr in dem Powerbanks erstmals systematisch konfisziert werden. Mehrere Lithium-Akku-Brände in Flugzeugen 2024-2025 (vor allem auf Asien-Flügen mit Korean Air und Air China) führten zu strengeren Regeln. Was darf jetzt wie ins Handgepäck und was wird im Müll-Eimer landen?

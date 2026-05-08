@@ -5,6 +5,7 @@ description: "Zercy ist dein KI-Reiseplaner: Flüge, Hotels, Mietwagen, Züge, T
 pubDate: 2026-03-28
 category: "KI & Reisen"
 readingTime: 8
+heroImage: "/img/blog/travel-planning.jpg"
 ---
 
 Reiseplanung war noch nie so einfach zugänglich, trotzdem aber so anstrengend. Skyscanner hier, Booking.com da, Rentalcars in einem dritten Tab, Google Maps in einem vierten. Jede Plattform zeigt ein Fragment. Keine denkt das Ganze.

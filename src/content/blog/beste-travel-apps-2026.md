@@ -5,6 +5,7 @@ description: "Welche Reise-Apps lohnen sich 2026 wirklich? Von Flug-Vergleich bi
 pubDate: 2026-04-28
 category: "KI & Reisen"
 readingTime: 7
+heroImage: "/img/blog/travel-apps.jpg"
 ---
 
 Du installierst 30 Travel-Apps vor der Reise. Auf der Reise nutzt du drei. Klassisches App-Chaos.

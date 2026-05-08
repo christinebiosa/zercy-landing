@@ -5,6 +5,7 @@ description: "Open-jaw tickets often cost the same as a regular roundtrip. Fly i
 pubDate: 2026-04-04
 category: "Smart Travel"
 readingTime: 6
+heroImage: "/img/blog/world-map.jpg"
 ---
 
 You fly into Lisbon. Two weeks later you are in Madrid. Now what? Go back to Lisbon just to catch your return flight? That costs time, money and a full day of your trip.

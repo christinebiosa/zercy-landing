@@ -5,6 +5,7 @@ description: "Du planst einen Roadtrip und weißt nicht, wie viel du pro Tag fah
 pubDate: 2026-04-28
 category: "Unterwegs"
 readingTime: 7
+heroImage: "/img/blog/road-trip.jpg"
 ---
 
 Du planst eine Reise durch Patagonien. Die Karte sieht überschaubar aus: 2.500 Kilometer in 14 Tagen. Macht 180 Kilometer pro Tag. Klingt entspannt. Du buchst, fährst los und merkst nach Tag 4, dass du nichts gesehen hast. Nur die Straße.

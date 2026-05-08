@@ -5,6 +5,7 @@ description: "Zercy Logbook stores all your travel bookings as a beautiful timel
 pubDate: 2026-03-29
 category: "AI & Travel"
 readingTime: 4
+heroImage: "/img/blog/travel-journal.jpg"
 ---
 
 Zercy is not a booking portal. No price comparison, no forms, no tab chaos. Zercy is an AI travel advisor. You tell it where you want to go, and it finds real flights, hotels and connections with live prices. New to Zercy? [Start here](/en/blog/what-is-zercy).

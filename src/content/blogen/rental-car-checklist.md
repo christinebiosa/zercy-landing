@@ -5,6 +5,7 @@ description: "Most rental car problems happen in the first 10 minutes. Here's wh
 pubDate: 2026-03-26
 category: "On the Move"
 readingTime: 8
+heroImage: "/img/blog/rental-car.jpg"
 ---
 
 Most rental car problems happen before you even leave the parking lot. A dent that was already there. A scratch nobody documented. A tank that's not full.

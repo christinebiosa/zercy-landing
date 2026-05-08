@@ -5,6 +5,7 @@ description: "Don't spend long layovers in the airport, use them as mini-trips. 
 pubDate: 2026-04-28
 category: "Smart Travel"
 readingTime: 7
+heroImage: "/img/blog/stopover.jpg"
 ---
 
 You fly to Bangkok with an 18-hour stopover in Dubai. You spend those 18 hours in the airport lounge with lukewarm cappuccino. Classic travel waste.

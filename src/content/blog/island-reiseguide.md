@@ -5,6 +5,7 @@ description: "Der komplette Island-Guide: Ring Road, Blaue Lagune, Nordlichter u
 pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 8
+heroImage: "/img/blog/iceland.jpg"
 bookingDest: "Iceland"
 ---
 

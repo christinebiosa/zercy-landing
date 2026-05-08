@@ -5,6 +5,7 @@ description: "Manchmal ist der Zug besser als der Flieger – schneller von Zent
 pubDate: 2026-03-26
 category: "Nachhaltig"
 readingTime: 8
+heroImage: "/img/blog/train-europe.jpg"
 ---
 
 Es gibt Reisestrecken in Europa, auf denen der Zug nicht die zweitbeste Option ist. Er ist die beste.

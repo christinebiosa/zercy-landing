@@ -5,6 +5,7 @@ description: "A capsule wardrobe lets you travel 2 weeks carry-on only without w
 pubDate: 2026-04-28
 category: "Carry-On Only"
 readingTime: 7
+heroImage: "/img/blog/capsule-wardrobe.jpg"
 ---
 
 You pack for 14 days in Italy. Three pants, five tops, two sweaters, one dress, three pairs of shoes. The suitcase weighs 50 lbs and you still feel like nothing is right. Classic packing problem.

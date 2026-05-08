@@ -1,0 +1,233 @@
+---
+// Pagefind-powered live search for blog listings.
+// Z-favicon as branding accent. Works in DE/EN/ES via lang prop.
+//
+// Pagefind generates /pagefind/pagefind.js at build time (via npm run build).
+// We import it dynamically so dev mode (no index) doesn't crash.
+//
+// Props:
+//   lang: "de" | "en" | "es" (controls placeholder + UI strings)
+//   pathPrefix: where blog articles live (e.g. "/blog/" for DE, "/en/blog/" for EN)
+const { lang = 'en', pathPrefix = '/en/blog/' } = Astro.props;
+
+const t = {
+  de: {
+    placeholder: 'Suche nach Cancun, Mietwagen, Powerbank…',
+    noResults: 'Keine Treffer gefunden.',
+    loading: 'Suche…',
+    aria: 'Blog durchsuchen',
+  },
+  en: {
+    placeholder: 'Search Cancun, rental cars, powerbank…',
+    noResults: 'No results found.',
+    loading: 'Searching…',
+    aria: 'Search blog',
+  },
+  es: {
+    placeholder: 'Busca Cancún, alquiler de coches, powerbank…',
+    noResults: 'No se encontraron resultados.',
+    loading: 'Buscando…',
+    aria: 'Buscar en el blog',
+  },
+}[lang] || {
+  placeholder: 'Search…',
+  noResults: 'No results.',
+  loading: 'Searching…',
+  aria: 'Search',
+};
+---
+<div class="blog-search" data-path-prefix={pathPrefix}>
+  <label class="blog-search-input-wrap" aria-label={t.aria}>
+    <img src="/favicon.svg" alt="" width="28" height="28" class="blog-search-logo" />
+    <input
+      type="search"
+      id="blog-search-input"
+      placeholder={t.placeholder}
+      autocomplete="off"
+      spellcheck="false"
+    />
+    <span class="blog-search-spinner" aria-hidden="true"></span>
+  </label>
+  <div id="blog-search-results" class="blog-search-results" role="region" aria-live="polite"></div>
+</div>
+
+<style>
+  .blog-search { max-width: 760px; margin: 0 auto 0.5rem; padding: 0 2rem; position: relative; }
+  .blog-search-input-wrap {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    background: #fff;
+    border: 2px solid #E2E8F0;
+    border-radius: 50px;
+    padding: 0.55rem 1rem 0.55rem 0.7rem;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .blog-search-input-wrap:focus-within {
+    border-color: #0EA5E9;
+    box-shadow: 0 0 0 4px rgba(14,165,233,0.12);
+  }
+  .blog-search-logo { flex-shrink: 0; display: block; }
+  .blog-search-input-wrap input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.98rem;
+    color: #0F172A;
+    padding: 0.3rem 0;
+  }
+  .blog-search-input-wrap input::placeholder { color: #94A3B8; }
+  .blog-search-input-wrap input::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+    height: 18px;
+    width: 18px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2394A3B8' stroke-width='2.5' stroke-linecap='round'%3E%3Cline x1='6' y1='6' x2='18' y2='18'/%3E%3Cline x1='18' y1='6' x2='6' y2='18'/%3E%3C/svg%3E") no-repeat center;
+    cursor: pointer;
+  }
+  .blog-search-spinner {
+    width: 18px;
+    height: 18px;
+    border: 2px solid #E2E8F0;
+    border-top-color: #0EA5E9;
+    border-radius: 50%;
+    flex-shrink: 0;
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+  .blog-search.is-loading .blog-search-spinner {
+    opacity: 1;
+    animation: blog-search-spin 0.7s linear infinite;
+  }
+  @keyframes blog-search-spin { to { transform: rotate(360deg); } }
+
+  .blog-search-results {
+    position: absolute;
+    left: 2rem;
+    right: 2rem;
+    top: calc(100% + 8px);
+    background: #fff;
+    border: 1px solid #E2E8F0;
+    border-radius: 12px;
+    box-shadow: 0 12px 36px rgba(15,23,42,0.12);
+    max-height: 70vh;
+    overflow-y: auto;
+    z-index: 50;
+    display: none;
+  }
+  .blog-search-results.has-content { display: block; }
+  .blog-search-result {
+    display: block;
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid #F1F5F9;
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.12s;
+  }
+  .blog-search-result:hover, .blog-search-result:focus { background: #F8FAFC; outline: none; }
+  .blog-search-result:last-child { border-bottom: none; }
+  .blog-search-result-title { font-weight: 700; color: #0F172A; font-size: 0.96rem; line-height: 1.35; margin-bottom: 0.25rem; }
+  .blog-search-result-excerpt { color: #475569; font-size: 0.84rem; line-height: 1.45; }
+  .blog-search-result-excerpt :global(mark) { background: #FEF08A; color: inherit; font-weight: 600; padding: 0 2px; border-radius: 2px; }
+  .blog-search-empty { padding: 1.2rem 1rem; text-align: center; color: #64748B; font-size: 0.9rem; }
+</style>
+
+<script>
+  // Pagefind is loaded dynamically — only available in production builds.
+  // In dev (astro dev), search will be inert (input still works visually but no results).
+  let pagefind = null;
+  let loadAttempted = false;
+
+  async function loadPagefind() {
+    if (loadAttempted) return pagefind;
+    loadAttempted = true;
+    try {
+      // @ts-ignore - dynamic import of build artifact
+      const pagefindUrl = '/pagefind/pagefind.js';
+      pagefind = await import(/* @vite-ignore */ pagefindUrl);
+      await pagefind.options({ excerptLength: 30 });
+    } catch (e) {
+      console.warn('[Zercy Search] Pagefind not available (dev mode?):', e.message);
+    }
+    return pagefind;
+  }
+
+  function escapeHtml(s) {
+    return s.replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  }
+
+  const container = document.querySelector('.blog-search');
+  if (container) {
+    const input = container.querySelector('#blog-search-input');
+    const results = container.querySelector('#blog-search-results');
+    const pathPrefix = container.dataset.pathPrefix || '/blog/';
+    let debounceTimer;
+
+    const tNoResults = container.closest('html').lang === 'de' ? 'Keine Treffer gefunden.'
+      : container.closest('html').lang === 'es' ? 'No se encontraron resultados.'
+      : 'No results found.';
+
+    async function runSearch(query) {
+      const pf = await loadPagefind();
+      if (!pf) {
+        results.innerHTML = '<div class="blog-search-empty">Search index not loaded yet (build the site first).</div>';
+        results.classList.add('has-content');
+        return;
+      }
+      container.classList.add('is-loading');
+      const search = await pf.search(query);
+      container.classList.remove('is-loading');
+
+      // Filter to only results in the current language path
+      const filtered = search.results.filter(r => r.url.includes(pathPrefix));
+
+      if (filtered.length === 0) {
+        results.innerHTML = `<div class="blog-search-empty">${tNoResults}</div>`;
+        results.classList.add('has-content');
+        return;
+      }
+
+      // Limit to top 8 — load each result's data
+      const top = filtered.slice(0, 8);
+      const data = await Promise.all(top.map(r => r.data()));
+      results.innerHTML = data.map(d => {
+        const url = d.url.replace(/\.html$/, '').replace(/\/index$/, '/');
+        return `<a class="blog-search-result" href="${url}">
+          <div class="blog-search-result-title">${escapeHtml(d.meta?.title || 'Untitled')}</div>
+          <div class="blog-search-result-excerpt">${d.excerpt || ''}</div>
+        </a>`;
+      }).join('');
+      results.classList.add('has-content');
+    }
+
+    input.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      const q = e.target.value.trim();
+      if (q.length < 2) {
+        results.innerHTML = '';
+        results.classList.remove('has-content');
+        container.classList.remove('is-loading');
+        return;
+      }
+      debounceTimer = setTimeout(() => runSearch(q), 250);
+    });
+
+    // Close results on outside click
+    document.addEventListener('click', (e) => {
+      if (!container.contains(e.target)) {
+        results.classList.remove('has-content');
+      }
+    });
+
+    // Esc key clears + closes
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        input.value = '';
+        results.innerHTML = '';
+        results.classList.remove('has-content');
+        input.blur();
+      }
+    });
+  }
+</script>

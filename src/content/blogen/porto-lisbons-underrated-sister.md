@@ -5,6 +5,7 @@ description: "Porto is cheaper, calmer, and the food is better. Ribeira, port wi
 pubDate: 2026-04-04
 category: "Destinations"
 readingTime: 7
+heroImage: "/img/blog/porto.jpg"
 bookingDest: "Porto"
 ---
 

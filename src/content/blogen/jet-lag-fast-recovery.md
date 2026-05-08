@@ -5,6 +5,7 @@ description: "Jet lag feels longer the further you fly. These 7 strategies from 
 pubDate: 2026-04-28
 category: "Travel Tips"
 readingTime: 7
+heroImage: "/img/blog/jet-lag.jpg"
 ---
 
 You land in Tokyo, excited for your first day. Instead, you fall asleep at the café at 2pm and lie wide awake at 3am. Jet lag isn't a myth. It's a biological problem with a biological solution.

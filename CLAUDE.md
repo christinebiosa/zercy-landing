@@ -213,8 +213,52 @@ description: "Meta Description"     # 160–200 Zeichen
 pubDate: YYYY-MM-DD
 category: "Kategorie"               # siehe gültige Kategorien unten
 readingTime: N                      # Minuten, realistisch einschätzen
+heroImage: "/img/blog/[topic].jpg"  # PFLICHT: siehe Foto-Workflow unten
+bookingDest: "Stadt/Land"           # OPTIONAL: aktiviert Booking-CTA-Banner (siehe unten)
 ---
 ```
+
+### 📸 Foto-Workflow (PFLICHT bei jedem neuen Artikel!)
+
+**Niemals** Artikel deployen ohne `heroImage` im Frontmatter — sonst sieht die Card mit Icon-Fallback unfertig aus zwischen den anderen mit Fotos.
+
+**Bei NEUEM Artikel — 3 Schritte:**
+
+1. **Topic-Mapping ergänzen** in `scripts/photo-mapping.mjs`:
+   ```js
+   // In slugToTopic{}: jeden neuen Slug → Topic-Key
+   'mein-neuer-artikel-slug': 'mein-topic-key',  // gleicher Key für DE/EN/ES Varianten
+   // In topicToQuery{}: Topic-Key → Unsplash-Suchbegriff
+   'mein-topic-key': 'specific search term',     // 2-4 Wörter, konkret
+   ```
+
+2. **Foto holen + Frontmatter setzen** (ein Befehl):
+   ```bash
+   cd "$HOME/Claude Code Projects/zercy-landing" && SLEEP_MS=2000 node scripts/download-photos.mjs
+   ```
+   Sleep auf 2s reduzieren wenn nur 1-3 neue Topics — Demo-Limit reicht. Bei 50+ neuen Topics: SLEEP_MS=75000 (sicher unter 50/h).
+
+3. **Verify** dass `heroImage: "/img/blog/[topic].jpg"` im Frontmatter steht und die Datei in `public/img/blog/` existiert. Build → die Card zeigt das Foto.
+
+**Bei BEHEBEN von "Card hat Icon statt Foto":**
+```bash
+node scripts/download-photos.mjs --frontmatter-only
+```
+Dieses Script-Flag schreibt nur Frontmatter, lädt nichts neu. Sicher zu jedem Zeitpunkt ausführbar.
+
+**Topic-Sharing (Foto-Recycling):**
+- Slugs die thematisch identisch sind, sollten denselben Topic-Key bekommen → teilen sich ein Foto.
+- Beispiel: `wo-uebernachten-cancun` + `where-to-stay-cancun` + `donde-alojarse-cancun` → alle Topic `cancun` → eine `cancun.jpg`.
+- Spart API-Calls (Demo-Tier: 50/h) und Storage. Bei 214 Slugs nur 96 unique Topics nötig.
+
+**Booking.com-CTA-Banner (nur bei reise-relevanten Artikeln):**
+- Frontmatter `bookingDest: "Stadt"` oder `bookingDest: "Land/Region"` setzen → Banner erscheint automatisch nach der Zercy-CTA-Box.
+- Standard für City-Guides: Stadt-Name (z.B. `bookingDest: "Cancun"`).
+- Topic-Artikel mit klarem Reiseziel: passende Stadt/Region (z.B. Patagonia-Route → `bookingDest: "Patagonia"`).
+- KEIN Banner für: KI-Tool-Artikel, Tech-Tipps (Powerbank), allgemeine Tipps (Carry-On). Sonst Spam-Risiko.
+- Script für Bulk-Update: `node scripts/add-booking-dest-overrides.mjs` (manuell die overrides-Liste erweitern).
+
+**Unsplash-Token:** in `.env` (NICHT committen — ist in `.gitignore`). Falls fehlend, neu holen via [unsplash.com/oauth/applications](https://unsplash.com/oauth/applications).
 
 **Gültige Kategorien DE (exakt wie im Listing-Code!):** Reisetipps, KI & Reisen, Fernweh, Unterwegs, Clever Reisen, Nur mit Handgepäck, **Wo übernachten**, Business Travel, Nachhaltig, Geheimtipps
 **Gültige Kategorien EN (exakt wie im Listing-Code!):** Travel Tips, AI & Travel, Off the Map, On the Move, Smart Travel, Carry-On Only, **Where to Stay**, Business Travel, Travel Green, Hidden Gems
@@ -464,6 +508,10 @@ City-Guides folgen einer eigenen Struktur, weil sie die Booking.com-Affiliate-St
 - [ ] Zercy-CTA vor FAQ (1–2 Sätze)
 - [ ] FAQ: 4 Fragen als H3, **alle** mit W-Wort beginnend (Was/Wann/Wo/Warum/Wie/Wer/Welche)
 - [ ] Beide Sprachen geschrieben (DE + EN)
+- [ ] **`heroImage` im Frontmatter UND Datei in `public/img/blog/` existiert** (siehe Foto-Workflow oben)
+- [ ] **`bookingDest` im Frontmatter** (wenn Artikel Reise-/Hotel-Bezug hat — sonst weglassen)
+- [ ] Topic-Mapping in `scripts/photo-mapping.mjs` ergänzt (slugToTopic + topicToQuery)
+- [ ] `node scripts/download-photos.mjs --frontmatter-only` lief erfolgreich nach Foto-Download
 - [ ] `npx astro build` erfolgreich + `npx vercel --prod --force` deployed
 - [ ] **Neuen Slug oben in die Artikel-Liste eingetragen** (DE + EN)
 - [ ] Google Indexierung ist automatisch (Sitemap mit `lastmod` wird bei jedem Build aktualisiert)

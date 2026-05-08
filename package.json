@@ -6,7 +6,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro"
   },
@@ -16,5 +16,8 @@
     "astro": "^6.0.8",
     "busboy": "^1.6.0",
     "rehype-external-links": "^3.0.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.5.2"
   }
 }

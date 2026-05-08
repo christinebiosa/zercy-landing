@@ -5,6 +5,7 @@ description: "No cruise ships, no Instagram queues, no inflated prices. These 7 
 pubDate: 2026-03-26
 category: "Hidden Gems"
 readingTime: 9
+heroImage: "/img/blog/europe-hidden.jpg"
 ---
 
 The best moment of any trip is standing somewhere thinking: how does nobody know about this yet?

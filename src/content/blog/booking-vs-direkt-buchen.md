@@ -5,6 +5,7 @@ description: "Booking.com oder direkt beim Hotel buchen? Es gibt klare Regeln wa
 pubDate: 2026-05-07
 category: "Clever Reisen"
 readingTime: 7
+heroImage: "/img/blog/hotel-booking.jpg"
 ---
 
 "Buche immer direkt beim Hotel, dann ist es günstiger." Das ist einer der hartnäckigsten Reise-Mythen. Manchmal stimmt es. Oft nicht. Wir haben in 50 echten Hotelbuchungen verglichen wann welche Variante wirklich günstiger ist und wo die versteckten Kosten lauern.

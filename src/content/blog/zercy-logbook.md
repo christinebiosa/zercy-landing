@@ -5,6 +5,7 @@ description: "Das Zercy Logbook speichert alle deine Buchungen als schöne Timel
 pubDate: 2026-03-29
 category: "KI & Reisen"
 readingTime: 4
+heroImage: "/img/blog/travel-journal.jpg"
 ---
 
 Zercy ist kein Buchungsportal. Kein Preisvergleich, kein Formular, kein Tab-Chaos. Zercy ist ein KI-Reiseberater. Du erzählst, wohin du willst, und bekommst echte Flüge, Hotels und Verbindungen mit Live-Preisen. Wer das noch nicht kennt, findet [hier die Einführung](/blog/was-ist-zercy).

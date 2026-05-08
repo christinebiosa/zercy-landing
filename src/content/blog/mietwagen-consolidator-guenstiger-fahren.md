@@ -5,6 +5,7 @@ description: "Consolidator wie DiscoverCars oder AutoEurope sind oft günstiger 
 pubDate: 2026-04-16
 category: "Unterwegs"
 readingTime: 6
+heroImage: "/img/blog/car-keys-money.jpg"
 ---
 
 Du willst in Lissabon ein Auto mieten. Direktbuchung bei Sixt: 320 Euro für 5 Tage. Auf DiscoverCars der gleiche Wagen, beim gleichen Anbieter: 195 Euro. Gleiche Bedingungen, gleiche Rückgabestation. Warum?

@@ -5,6 +5,7 @@ description: "Hidden City Ticketing klingt nach Loophole, ist aber ein echter Sp
 pubDate: 2026-04-28
 category: "Clever Reisen"
 readingTime: 7
+heroImage: "/img/blog/flight-ticket.jpg"
 ---
 
 Du suchst einen Flug von Frankfurt nach München. Direkt: 220 Euro. Frankfurt nach Wien mit Zwischenstopp in München: 95 Euro. Du steigst in München aus, lässt den Wien-Anschluss verfallen. Glückwunsch, du hast gerade Hidden City Ticketing benutzt.

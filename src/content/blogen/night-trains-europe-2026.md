@@ -5,6 +5,7 @@ description: "Night trains are back across Europe. The best sleeper routes for 2
 pubDate: 2026-04-04
 category: "Travel Green"
 readingTime: 7
+heroImage: "/img/blog/night-train.jpg"
 ---
 
 You board in the evening. You lie down. You wake up in a different city. No airport. No hotel for the night. No alarm at 4:30 for the early flight.

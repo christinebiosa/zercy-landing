@@ -5,6 +5,7 @@ description: "Modena is more than Ferrari. Two Ferrari museums, real aged balsam
 pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 7
+heroImage: "/img/blog/ferrari-museum.jpg"
 bookingDest: "Modena"
 ---
 

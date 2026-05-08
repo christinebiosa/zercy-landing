@@ -5,6 +5,7 @@ description: "Open-Jaw Tickets kosten oft genauso viel wie ein normaler Hin-und-
 pubDate: 2026-04-04
 category: "Smarter Reisen"
 readingTime: 6
+heroImage: "/img/blog/world-map.jpg"
 ---
 
 Du fliegst nach Lissabon. Zwei Wochen später sitzt du in Madrid. Und jetzt? Zurück nach Lissabon, nur um den Rückflug zu erwischen? Das kostet Zeit, Geld und Nerven.

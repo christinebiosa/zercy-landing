@@ -5,6 +5,7 @@ description: "A sabbatical sounds like freedom, but it's a logistics marathon. H
 pubDate: 2026-04-28
 category: "Business Travel"
 readingTime: 8
+heroImage: "/img/blog/sabbatical.jpg"
 bookingDest: "Costa Rica"
 ---
 

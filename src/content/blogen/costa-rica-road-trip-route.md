@@ -5,6 +5,7 @@ description: "The perfect 2-week Costa Rica road trip. From San José to Arenal,
 pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 8
+heroImage: "/img/blog/costa-rica.jpg"
 bookingDest: "Costa Rica"
 ---
 

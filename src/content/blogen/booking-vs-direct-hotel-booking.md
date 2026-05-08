@@ -5,6 +5,7 @@ description: "Booking.com or directly with the hotel? There are clear rules when
 pubDate: 2026-05-07
 category: "Smart Travel"
 readingTime: 7
+heroImage: "/img/blog/hotel-booking.jpg"
 ---
 
 "Always book directly with the hotel, then it's cheaper." That's one of the most persistent travel myths. Sometimes it's true. Often not. We compared 50 real hotel bookings to see when which option is actually cheaper and where the hidden costs lurk.

@@ -5,6 +5,7 @@ description: "Selbstbeteiligung, Flughafenzuschlag, Junge-Fahrer-Gebühr. Sieben
 pubDate: 2026-04-16
 category: "Unterwegs"
 readingTime: 7
+heroImage: "/img/blog/rental-car-keys.jpg"
 ---
 
 Auto abholen, Schlüssel kriegen, losfahren. Eigentlich einfach. Aber zwischen Buchung und Rückgabe lauern versteckte Kosten, die aus einem 200-Euro-Mietwagen schnell 400 Euro machen.

@@ -5,6 +5,7 @@ description: "Costa Rica ist mehr als ein Reiseziel. Es ist eine Haltung. Traumw
 pubDate: 2026-03-25
 category: "Fernweh"
 readingTime: 9
+heroImage: "/img/blog/costa-rica-surf.jpg"
 bookingDest: "Costa Rica"
 ---
 

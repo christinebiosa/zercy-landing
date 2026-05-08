@@ -5,6 +5,7 @@ description: "Your cruise leaves from Barcelona, Rome or Venice? Extend the trip
 pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 7
+heroImage: "/img/blog/cruise-port.jpg"
 ---
 
 A cruise costs thousands. The cities your ship departs from are often world-class. But you only see the port and maybe 6 hours of city. That's a waste.

@@ -5,6 +5,7 @@ description: "Business Class ist teuer. Aber manchmal ist der Aufpreis kleiner a
 pubDate: 2026-03-26
 category: "Business Travel"
 readingTime: 9
+heroImage: "/img/blog/business-class.jpg"
 ---
 
 Business Class ist nicht für jeden, nicht für jede Strecke, und nicht für jeden Anlass. Aber wer sie pauschal als Luxus für andere abtut, verpasst manchmal die klügste Entscheidung.

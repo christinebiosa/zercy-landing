@@ -5,6 +5,7 @@ description: "2026 is a top year for northern lights thanks to the solar maximum
 pubDate: 2026-04-28
 category: "Off the Map"
 readingTime: 7
+heroImage: "/img/blog/northern-lights.jpg"
 bookingDest: "Iceland"
 ---
 

@@ -5,6 +5,7 @@ description: "Deine Kreuzfahrt startet in Barcelona, Rom oder Venedig? Verlänge
 pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 7
+heroImage: "/img/blog/cruise-port.jpg"
 ---
 
 Eine Kreuzfahrt kostet viele tausend Euro. Die Städte, in denen dein Schiff ablegt, sind oft Weltmetropolen. Aber du siehst nur den Hafen und vielleicht 6 Stunden Stadt. Das ist Verschwendung.

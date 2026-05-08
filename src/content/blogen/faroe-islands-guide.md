@@ -5,6 +5,7 @@ description: "18 islands in the North Atlantic, 50,000 inhabitants, more sheep t
 pubDate: 2026-04-28
 category: "Hidden Gems"
 readingTime: 7
+heroImage: "/img/blog/faroe-islands.jpg"
 bookingDest: "Faroe Islands"
 ---
 

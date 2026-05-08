@@ -5,6 +5,7 @@ description: "Zu früh oder zu spät gebucht kostet Geld. Der optimale Buchungsz
 pubDate: 2026-03-18
 category: "Reisetipps"
 readingTime: 8
+heroImage: "/img/blog/flights-booking.jpg"
 ---
 
 Es gibt diese eine Frage, die sich jeder Reisende irgendwann stellt: Wann buche ich am günstigsten?

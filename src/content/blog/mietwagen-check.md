@@ -5,6 +5,7 @@ description: "Kratzer die du nicht gemeldet hast. Tank der nicht stimmt. Reifen 
 pubDate: 2026-03-26
 category: "Unterwegs"
 readingTime: 9
+heroImage: "/img/blog/rental-car.jpg"
 ---
 
 Der Mietwagen-Schalter ist geschafft, die Schlüssel sind in der Hand, das Abenteuer ruft. Und genau dann machen die meisten Fehler.

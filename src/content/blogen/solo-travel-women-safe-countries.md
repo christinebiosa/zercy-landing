@@ -5,6 +5,7 @@ description: "Solo travel as a woman is totally doable, worthwhile and empowerin
 pubDate: 2026-04-28
 category: "Travel Tips"
 readingTime: 8
+heroImage: "/img/blog/solo-female-travel.jpg"
 bookingDest: "Iceland"
 ---
 

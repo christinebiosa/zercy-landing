@@ -5,6 +5,7 @@ description: "Jetlag fühlt sich nach mehr Tagen umso länger an, je weiter du f
 pubDate: 2026-04-28
 category: "Reisetipps"
 readingTime: 7
+heroImage: "/img/blog/jet-lag.jpg"
 ---
 
 Du landest in Tokio, freust dich auf den ersten Tag. Stattdessen schläfst du um 14 Uhr im Café ein und liegst nachts um 3 Uhr hellwach im Bett. Jetlag ist kein Mythos. Er ist ein biologisches Problem mit einer biologischen Lösung.

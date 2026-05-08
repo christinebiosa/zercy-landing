@@ -5,6 +5,7 @@ description: "Health coverage abroad mandatory, trip cancellation sometimes, bag
 pubDate: 2026-04-28
 category: "Smart Travel"
 readingTime: 8
+heroImage: "/img/blog/travel-insurance.jpg"
 ---
 
 You're booking a flight to Bali. Five checkboxes flicker before payment: trip cancellation, international health, baggage, accident, delay. Click them all, better safe than sorry? Please don't. That's how you spend $80 on insurance, three of which are nonsense.

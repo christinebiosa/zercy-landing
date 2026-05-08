@@ -5,6 +5,7 @@ description: "When does Airbnb make sense, and when does a hotel? Plus: why you'
 pubDate: 2026-04-28
 category: "Where to Stay"
 readingTime: 7
+heroImage: "/img/blog/apartment-vs-hotel.jpg"
 ---
 
 You're planning a week in Lisbon. Airbnb apartment for $100 a night or hotel for $145? Sounds like a simple calculation. It isn't.

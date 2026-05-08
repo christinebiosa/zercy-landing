@@ -5,6 +5,7 @@ description: "Solo reisen als Frau ist möglich, lohnt sich und macht stark. Wel
 pubDate: 2026-04-28
 category: "Reisetipps"
 readingTime: 8
+heroImage: "/img/blog/solo-female-travel.jpg"
 bookingDest: "Iceland"
 ---
 

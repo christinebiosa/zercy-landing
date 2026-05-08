@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import BlogSearch from '../../../components/BlogSearch.astro';
 
 // Pin: until we get DC affiliate approval, keep the rental-consolidators article
 // at the top-left position, no matter what new articles we publish.
@@ -179,6 +180,8 @@ const categories = [...new Set(posts.map(p => p.data.category))];
     <h1>Blog</h1>
     <p>Travel tips, booking strategies, and everything about intelligent travel planning.</p>
   </div>
+
+  <BlogSearch lang="en" pathPrefix="/en/blog/" />
 
   <div class="chips-bar">
     <button class="chip active" data-filter="all">All</button>

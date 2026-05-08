@@ -5,6 +5,7 @@ description: "Business class is expensive. But sometimes the premium is smaller 
 pubDate: 2026-03-26
 category: "Business Travel"
 readingTime: 9
+heroImage: "/img/blog/business-class.jpg"
 ---
 
 Business class isn't for everyone, every route, or every occasion. But dismissing it as luxury for other people sometimes means missing the smartest decision.

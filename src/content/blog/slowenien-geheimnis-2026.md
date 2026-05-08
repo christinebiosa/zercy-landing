@@ -5,6 +5,7 @@ description: "Slowenien zwischen Alpen, Karst und Adria. Bled, Bohinj, Ljubljana
 pubDate: 2026-05-07
 category: "Geheimtipps"
 readingTime: 7
+heroImage: "/img/blog/slovenia.jpg"
 bookingDest: "Slovenia"
 ---
 

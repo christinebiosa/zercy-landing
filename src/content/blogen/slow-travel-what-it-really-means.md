@@ -5,6 +5,7 @@ description: "Slow travel is more than traveling slowly. What the concept really
 pubDate: 2026-04-28
 category: "Travel Green"
 readingTime: 7
+heroImage: "/img/blog/slow-travel.jpg"
 ---
 
 You're on a Mediterranean cruise. 7 countries in 7 days, 6 hours of shore time daily. You've seen a lot, experienced almost nothing. Slow travel says: do the opposite.

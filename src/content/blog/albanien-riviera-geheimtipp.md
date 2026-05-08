@@ -5,6 +5,7 @@ description: "Türkisblaues Wasser wie in Kroatien, Preise wie in Bulgarien vor 
 pubDate: 2026-04-28
 category: "Fernweh"
 readingTime: 7
+heroImage: "/img/blog/albania-coast.jpg"
 bookingDest: "Albania"
 ---
 

@@ -5,6 +5,7 @@ description: "Plastic-free travel without sacrificing comfort? It works. 7 hones
 pubDate: 2026-05-07
 category: "Travel Green"
 readingTime: 7
+heroImage: "/img/blog/reusable-bottle.jpg"
 ---
 
 In Bali beaches are full of plastic after every storm. In Mexico City street stands sell every drink with two straws "extra for you." In Vietnam you get every take-away breakfast in 3 plastic packages. Plastic-free travel is harder in 2026 than at home, but doable if you prepare.

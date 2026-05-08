@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import BlogSearch from '../../../components/BlogSearch.astro';
 
 // No PIN for ES launch — sort all by date desc.
 const posts = (await getCollection('bloges')).sort((a, b) => {
@@ -175,6 +176,8 @@ const categories = [...new Set(posts.map(p => p.data.category))];
     <h1>Blog</h1>
     <p>Consejos de viaje, estrategias de reserva y todo sobre planificación inteligente de viajes.</p>
   </div>
+
+  <BlogSearch lang="es" pathPrefix="/es/blog/" />
 
   <div class="chips-bar">
     <button class="chip active" data-filter="all">Todos</button>

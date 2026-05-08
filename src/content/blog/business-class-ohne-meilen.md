@@ -5,6 +5,7 @@ description: "Business Class unter 1.000 Euro ist machbar, ohne Meilen oder Viel
 pubDate: 2026-04-04
 category: "Reisetipps"
 readingTime: 7
+heroImage: "/img/blog/business-class.jpg"
 ---
 
 Meilen sammeln dauert Jahre. Vielfliegerstatus erfordert 50+ Flüge pro Jahr. Und trotzdem fliegen manche Leute regelmäßig Business Class für einen Bruchteil des Normalpreises.

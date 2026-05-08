@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import BlogSearch from '../../components/BlogSearch.astro';
 
 // Pin: solange wir kein DC-Affiliate-Approval haben, soll der Consolidator-Artikel
 // oben links stehen (erster Artikel, egal was wir neu publishen).
@@ -191,6 +192,8 @@ const categories = [...new Set(posts.map(p => p.data.category))];
     <h1>Blog</h1>
     <p>Reisetipps, Buchungsstrategien und alles rund um intelligente Reiseplanung.</p>
   </div>
+
+  <BlogSearch lang="de" pathPrefix="/blog/" />
 
   <div class="chips-bar">
     <button class="chip chip-all active" data-filter="all">Alle</button>

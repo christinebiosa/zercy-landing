@@ -5,6 +5,7 @@ description: "Lange Layovers nicht im Flughafen verbringen, sondern als Mini-Rei
 pubDate: 2026-04-28
 category: "Clever Reisen"
 readingTime: 7
+heroImage: "/img/blog/stopover.jpg"
 ---
 
 Du fliegst nach Bangkok mit 18 Stunden Stopover in Dubai. Du verbringst diese 18 Stunden im Flughafen-Lounge mit lauwarmem Cappuccino. Klassische Reise-Verschwendung.

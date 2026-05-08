@@ -5,6 +5,7 @@ description: "Türkises Meer, Trulli, Burrata und kein Massentourismus: Apulien 
 pubDate: 2026-04-28
 category: "Fernweh"
 readingTime: 7
+heroImage: "/img/blog/puglia.jpg"
 bookingDest: "Puglia"
 ---
 

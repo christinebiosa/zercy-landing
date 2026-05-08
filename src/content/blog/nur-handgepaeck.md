@@ -5,6 +5,7 @@ description: "Kein Koffer aufgeben, kein Warten am Band, kein verlorenes Gepäck
 pubDate: 2026-03-26
 category: "Nur mit Handgepäck"
 readingTime: 8
+heroImage: "/img/blog/carry-on-bag.jpg"
 ---
 
 Kein Warten am Gepäckband. Kein aufgegebenes Gepäck das verloren geht. Kein Übergewichts-Aufpreis. Kein Schleppen durch den Flughafen.

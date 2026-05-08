@@ -5,6 +5,7 @@ description: "Public WiFi, hotel hotspots, stolen cards: how to protect yourself
 pubDate: 2026-04-28
 category: "Travel Tips"
 readingTime: 7
+heroImage: "/img/blog/cyber-security.jpg"
 ---
 
 You log into online banking on hotel WiFi. Three days later $4,000 are gone. Sounds paranoid, happens daily. Cybercrime is the fastest-growing tourism threat in 2026.

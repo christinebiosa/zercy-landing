@@ -5,6 +5,7 @@ description: "Public WiFi, Hotel-Hotspots, geklaute Karten: Wie du dich auf Reis
 pubDate: 2026-04-28
 category: "Reisetipps"
 readingTime: 7
+heroImage: "/img/blog/cyber-security.jpg"
 ---
 
 Du loggst dich am Hotel-WLAN in dein Online-Banking ein. Drei Tage später sind 4.000 Euro weg. Klingt paranoid, ist aber alltäglich. Cyber-Kriminalität ist die am schnellsten wachsende Tourismus-Bedrohung 2026.

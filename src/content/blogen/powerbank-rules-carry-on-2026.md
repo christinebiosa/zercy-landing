@@ -5,6 +5,7 @@ description: "Powerbank rules in 2026 have gotten more complicated. What's allow
 pubDate: 2026-05-07
 category: "Carry-On Only"
 readingTime: 6
+heroImage: "/img/blog/powerbank.jpg"
 ---
 
 2026 will be the year powerbanks first get systematically confiscated. Multiple lithium battery fires on planes 2024-2025 (especially on Asia flights with Korean Air and Air China) led to stricter rules. What's allowed in carry-on now and what will end up in the trash bin?

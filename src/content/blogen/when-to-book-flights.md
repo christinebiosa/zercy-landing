@@ -5,6 +5,7 @@ description: "Book too early or too late and you'll pay more. We explain the opt
 pubDate: 2026-03-18
 category: "Travel Tips"
 readingTime: 9
+heroImage: "/img/blog/flights-booking.jpg"
 ---
 
 There's one question every traveler asks at some point: when is the cheapest time to book?

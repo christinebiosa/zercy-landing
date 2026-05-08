@@ -5,6 +5,7 @@ description: "ChatGPT, Perplexity and Claude can all plan trips. But which AI is
 pubDate: 2026-04-28
 category: "AI & Travel"
 readingTime: 8
+heroImage: "/img/blog/ai-tools.jpg"
 ---
 
 You ask ChatGPT for a 10-day Vietnam route. You get a polished answer. But are the prices right? Are the hotels still open? Does the order make logistical sense?

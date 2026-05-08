@@ -5,6 +5,7 @@ description: "Zercy is your AI travel planner: flights, hotels, rental cars, tra
 pubDate: 2026-03-28
 category: "AI & Travel"
 readingTime: 8
+heroImage: "/img/blog/travel-planning.jpg"
 ---
 
 Travel planning has never been more accessible, yet somehow more exhausting. Skyscanner in one tab, Booking.com in another, rental cars in a third, Google Maps in a fourth. Every platform shows a fragment. None of them thinks the whole picture.

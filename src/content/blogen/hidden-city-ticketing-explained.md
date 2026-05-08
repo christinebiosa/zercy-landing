@@ -5,6 +5,7 @@ description: "Hidden city ticketing sounds shady, but it can save real money on 
 pubDate: 2026-04-28
 category: "Smart Travel"
 readingTime: 7
+heroImage: "/img/blog/flight-ticket.jpg"
 ---
 
 You search for a flight from Newark to Chicago. Direct: $310. Newark to Denver via Chicago: $145. You skip the Chicago-to-Denver segment and walk out at the layover. Welcome to hidden city ticketing.

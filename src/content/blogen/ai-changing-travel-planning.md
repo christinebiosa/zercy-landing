@@ -5,6 +5,7 @@ description: "Booking sites show you lists. AI understands you. What's changing 
 pubDate: 2026-03-15
 category: "AI & Travel"
 readingTime: 8
+heroImage: "/img/blog/ai-travel.jpg"
 ---
 
 Travel planning hasn't changed much in the last 20 years.

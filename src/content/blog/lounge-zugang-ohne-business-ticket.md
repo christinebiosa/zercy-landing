@@ -5,6 +5,7 @@ description: "Flughafen-Lounge ohne Business-Class-Ticket nutzen? Es gibt 5 lega
 pubDate: 2026-05-07
 category: "Business Travel"
 readingTime: 7
+heroImage: "/img/blog/airport-lounge.jpg"
 ---
 
 Du sitzt am Gate, drei Stunden vor dem Flug. Die Restaurants im Terminal sind überfüllt, die Sitzgelegenheiten knapp, das WLAN langsam. 50 Meter weiter liegt eine Lufthansa-Lounge mit Buffet, ruhigen Sesseln und Duschen. Aber dein Economy-Ticket lässt dich nicht rein.

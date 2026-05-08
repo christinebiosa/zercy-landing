@@ -5,6 +5,7 @@ description: "Ein Riad ist mehr als ein Hotel mit Innenhof. Welche Riads in Marr
 pubDate: 2026-04-28
 category: "Wo übernachten"
 readingTime: 7
+heroImage: "/img/blog/morocco-riad.jpg"
 bookingDest: "Marrakech"
 ---
 

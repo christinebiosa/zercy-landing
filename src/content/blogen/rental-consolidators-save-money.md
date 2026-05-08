@@ -5,6 +5,7 @@ description: "Consolidators like DiscoverCars and AutoEurope often beat direct b
 pubDate: 2026-04-16
 category: "On the Move"
 readingTime: 6
+heroImage: "/img/blog/car-keys-money.jpg"
 ---
 
 You want to rent a car in Lisbon. Direct booking at Sixt: 320 euros for 5 days. Same car on DiscoverCars, same provider: 195 euros. Same conditions, same return location. Why?

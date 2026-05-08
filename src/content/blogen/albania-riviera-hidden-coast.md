@@ -5,6 +5,7 @@ description: "Turquoise water like Croatia, prices like Bulgaria 10 years ago. T
 pubDate: 2026-04-28
 category: "Off the Map"
 readingTime: 7
+heroImage: "/img/blog/albania-coast.jpg"
 bookingDest: "Albania"
 ---
 

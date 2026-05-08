@@ -5,6 +5,7 @@ description: "Turquoise sea, Trulli, burrata and no mass tourism: Puglia is Ital
 pubDate: 2026-04-28
 category: "Off the Map"
 readingTime: 7
+heroImage: "/img/blog/puglia.jpg"
 bookingDest: "Puglia"
 ---
 

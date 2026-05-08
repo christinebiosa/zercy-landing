@@ -5,6 +5,7 @@ description: "Sansibar Stone Town ist mehr als eine Selfie-Kulisse. UNESCO-Welte
 pubDate: 2026-05-07
 category: "Geheimtipps"
 readingTime: 7
+heroImage: "/img/blog/zanzibar.jpg"
 bookingDest: "Zanzibar"
 ---
 

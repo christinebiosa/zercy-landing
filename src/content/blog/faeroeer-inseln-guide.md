@@ -5,6 +5,7 @@ description: "18 Inseln im Nordatlantik, 50.000 Einwohner, mehr Schafe als Mensc
 pubDate: 2026-04-28
 category: "Geheimtipps"
 readingTime: 7
+heroImage: "/img/blog/faroe-islands.jpg"
 bookingDest: "Faroe Islands"
 ---
 

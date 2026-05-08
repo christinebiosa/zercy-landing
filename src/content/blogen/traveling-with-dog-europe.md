@@ -5,6 +5,7 @@ description: "EU pet passport, rabies vaccine, dog-friendly hotels: how to trave
 pubDate: 2026-04-28
 category: "On the Move"
 readingTime: 7
+heroImage: "/img/blog/travel-with-dog.jpg"
 bookingDest: "Austria"
 ---
 

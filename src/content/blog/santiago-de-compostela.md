@@ -5,6 +5,7 @@ description: "Millionen Menschen haben den Jakobsweg gelaufen. Was zieht sie an?
 pubDate: 2026-03-23
 category: "Fernweh"
 readingTime: 9
+heroImage: "/img/blog/santiago-de-compostela.jpg"
 bookingDest: "Santiago de Compostela"
 ---
 

@@ -5,6 +5,7 @@ description: "Eine Capsule Wardrobe lässt dich 2 Wochen mit nur Handgepäck rei
 pubDate: 2026-04-28
 category: "Nur mit Handgepäck"
 readingTime: 7
+heroImage: "/img/blog/capsule-wardrobe.jpg"
 ---
 
 Du packst für 14 Tage Italien. Drei Hosen, fünf Tops, zwei Pullis, ein Kleid, drei Paar Schuhe. Der Koffer wiegt 22 Kilo, du hast trotzdem das Gefühl nichts Passendes dabei zu haben. Klassisches Pack-Problem.

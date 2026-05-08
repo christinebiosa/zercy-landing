@@ -5,6 +5,7 @@ description: "Schlangen, Verspätungen, überfüllte Gates. Flughäfen sind stre
 pubDate: 2026-03-26
 category: "Clever Reisen"
 readingTime: 7
+heroImage: "/img/blog/airport.jpg"
 ---
 
 Wer viel fliegt, weiß: Der Flughafen ist kein Ort, er ist ein Spiel. Und wie jedes Spiel gibt es Strategien.

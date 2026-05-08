@@ -5,6 +5,7 @@ description: "Frequent flyers pay less. These 7 tricks show how to book flights 
 pubDate: 2026-03-20
 category: "Travel Tips"
 readingTime: 8
+heroImage: "/img/blog/flights-cheap.jpg"
 ---
 
 You know the feeling: you look at a flight, wait a day to decide — and the price has gone up. Or down. Booking flights can feel like pure luck.

@@ -5,6 +5,7 @@ description: "No conference center, no identical lobby, no breakfast buffet for 
 pubDate: 2026-03-26
 category: "Where to Stay"
 readingTime: 8
+heroImage: "/img/blog/boutique-hotel.jpg"
 bookingDest: "Tuscany"
 ---
 

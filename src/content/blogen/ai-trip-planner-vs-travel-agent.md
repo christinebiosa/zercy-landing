@@ -5,6 +5,7 @@ description: "AI planner or travel agent? Where artificial intelligence wins, wh
 pubDate: 2026-04-04
 category: "AI & Travel"
 readingTime: 7
+heroImage: "/img/blog/ai-vs-agent.jpg"
 ---
 
 70% of travelers now use AI during trip planning. But only 38% have actually booked through an AI tool. That gap tells a story. Interest is there. Full trust? Not yet.

@@ -5,6 +5,7 @@ description: "Auslandskrankenversicherung Pflicht, Reiserücktritt manchmal, Gep
 pubDate: 2026-04-28
 category: "Clever Reisen"
 readingTime: 8
+heroImage: "/img/blog/travel-insurance.jpg"
 ---
 
 Du buchst einen Flug nach Bali. Vor dem Bezahlen flackern fünf Kästchen auf: Reiserücktritt, Auslandskranken, Gepäck, Unfall, Verspätung. Klick alles an, sicher ist sicher? Bitte nicht. So zahlst du 80 Euro für Versicherungen, von denen drei Quatsch sind.

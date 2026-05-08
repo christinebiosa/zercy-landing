@@ -5,6 +5,7 @@ description: "Excess fees, airport surcharges, young driver surcharges. Seven co
 pubDate: 2026-04-16
 category: "On the Move"
 readingTime: 7
+heroImage: "/img/blog/rental-car-keys.jpg"
 ---
 
 Pick up the car, get the keys, drive off. Simple, right? Between booking and return, hidden costs can turn a 200-euro rental into 400 euros.

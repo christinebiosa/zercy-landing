@@ -5,6 +5,7 @@ description: "Patagonien in 3 Wochen mit echten Etappen, Übernachtungen, Mietwa
 pubDate: 2026-05-07
 category: "Fernweh"
 readingTime: 9
+heroImage: "/img/blog/patagonia.jpg"
 bookingDest: "Patagonia"
 ---
 
