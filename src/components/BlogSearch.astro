@@ -1,94 +1,84 @@
 ---
-// Pagefind-powered live search for blog listings.
-// Z-favicon as branding accent. Works in DE/EN/ES via lang prop.
-//
-// Pagefind generates /pagefind/pagefind.js at build time (via npm run build).
-// We import it dynamically so dev mode (no index) doesn't crash.
+// Pagefind-powered search for blog listings.
+// Result cards show: hero thumbnail + category pill + title + excerpt with match highlight.
+// data-pagefind-meta="image[content]" and data-pagefind-meta="category" must be present in [slug].astro.
 //
 // Props:
-//   lang: "de" | "en" | "es" (controls placeholder + UI strings)
-//   pathPrefix: where blog articles live (e.g. "/blog/" for DE, "/en/blog/" for EN)
+//   lang: "de" | "en" | "es"
+//   pathPrefix: e.g. "/blog/" | "/en/blog/" | "/es/blog/"
 const { lang = 'en', pathPrefix = '/en/blog/' } = Astro.props;
 
 const t = {
-  de: {
-    placeholder: 'Suche nach Cancun, Mietwagen, Powerbank…',
-    noResults: 'Keine Treffer gefunden.',
-    loading: 'Suche…',
-    aria: 'Blog durchsuchen',
-  },
-  en: {
-    placeholder: 'Search Cancun, rental cars, powerbank…',
-    noResults: 'No results found.',
-    loading: 'Searching…',
-    aria: 'Search blog',
-  },
-  es: {
-    placeholder: 'Busca Cancún, alquiler de coches, powerbank…',
-    noResults: 'No se encontraron resultados.',
-    loading: 'Buscando…',
-    aria: 'Buscar en el blog',
-  },
-}[lang] || {
-  placeholder: 'Search…',
-  noResults: 'No results.',
-  loading: 'Searching…',
-  aria: 'Search',
-};
+  de: { placeholder: 'Suche nach Cancun, Mietwagen, Powerbank…', aria: 'Blog durchsuchen' },
+  en: { placeholder: 'Search Cancun, rental cars, powerbank…', aria: 'Search blog' },
+  es: { placeholder: 'Busca Cancún, alquiler de coches, powerbank…', aria: 'Buscar en el blog' },
+}[lang] || { placeholder: 'Search…', aria: 'Search' };
 ---
-<div class="blog-search" data-path-prefix={pathPrefix}>
-  <label class="blog-search-input-wrap" aria-label={t.aria}>
-    <img src="/favicon.svg" alt="" width="28" height="28" class="blog-search-logo" />
-    <input
-      type="search"
-      id="blog-search-input"
-      placeholder={t.placeholder}
-      autocomplete="off"
-      spellcheck="false"
-    />
-    <span class="blog-search-spinner" aria-hidden="true"></span>
-  </label>
-  <div id="blog-search-results" class="blog-search-results" role="region" aria-live="polite"></div>
+
+<div class="blog-search" data-path-prefix={pathPrefix} data-lang={lang}>
+  <div class="bs-wrap">
+    <label class="bs-bar" aria-label={t.aria}>
+      <img src="/favicon.svg" alt="" width="22" height="22" class="bs-logo" />
+      <input
+        type="search"
+        id="blog-search-input"
+        placeholder={t.placeholder}
+        autocomplete="off"
+        spellcheck="false"
+      />
+      <span class="bs-spinner" aria-hidden="true"></span>
+    </label>
+    <div id="blog-search-results" class="bs-dropdown" role="region" aria-live="polite"></div>
+  </div>
 </div>
 
 <style>
-  .blog-search { max-width: 760px; margin: 0 auto 0.5rem; padding: 0 2rem; position: relative; }
-  .blog-search-input-wrap {
+  .blog-search {
+    max-width: 760px;
+    margin: 0 auto 0.5rem;
+    padding: 0 1.5rem;
+  }
+  .bs-wrap { position: relative; }
+
+  /* ── Input bar ── */
+  .bs-bar {
     display: flex;
     align-items: center;
-    gap: 0.65rem;
+    gap: 0.6rem;
     background: #fff;
     border: 2px solid #E2E8F0;
     border-radius: 50px;
-    padding: 0.55rem 1rem 0.55rem 0.7rem;
+    padding: 0.5rem 1rem 0.5rem 0.75rem;
+    cursor: text;
     transition: border-color 0.15s, box-shadow 0.15s;
   }
-  .blog-search-input-wrap:focus-within {
+  .bs-bar:focus-within {
     border-color: #0EA5E9;
     box-shadow: 0 0 0 4px rgba(14,165,233,0.12);
   }
-  .blog-search-logo { flex-shrink: 0; display: block; }
-  .blog-search-input-wrap input {
+  .bs-logo { flex-shrink: 0; display: block; }
+  .bs-bar input {
     flex: 1;
     border: none;
     outline: none;
     background: transparent;
     font-family: 'Inter', sans-serif;
-    font-size: 0.98rem;
+    font-size: 0.95rem;
     color: #0F172A;
-    padding: 0.3rem 0;
+    padding: 0.25rem 0;
+    min-width: 0;
   }
-  .blog-search-input-wrap input::placeholder { color: #94A3B8; }
-  .blog-search-input-wrap input::-webkit-search-cancel-button {
+  .bs-bar input::placeholder { color: #94A3B8; }
+  .bs-bar input::-webkit-search-cancel-button {
     -webkit-appearance: none;
-    height: 18px;
-    width: 18px;
+    height: 16px;
+    width: 16px;
     background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2394A3B8' stroke-width='2.5' stroke-linecap='round'%3E%3Cline x1='6' y1='6' x2='18' y2='18'/%3E%3Cline x1='18' y1='6' x2='6' y2='18'/%3E%3C/svg%3E") no-repeat center;
     cursor: pointer;
   }
-  .blog-search-spinner {
-    width: 18px;
-    height: 18px;
+  .bs-spinner {
+    width: 16px;
+    height: 16px;
     border: 2px solid #E2E8F0;
     border-top-color: #0EA5E9;
     border-radius: 50%;
@@ -96,46 +86,139 @@ const t = {
     opacity: 0;
     transition: opacity 0.15s;
   }
-  .blog-search.is-loading .blog-search-spinner {
+  .blog-search.is-loading .bs-spinner {
     opacity: 1;
-    animation: blog-search-spin 0.7s linear infinite;
+    animation: bs-spin 0.7s linear infinite;
   }
-  @keyframes blog-search-spin { to { transform: rotate(360deg); } }
+  @keyframes bs-spin { to { transform: rotate(360deg); } }
 
-  .blog-search-results {
+  /* ── Dropdown shell ── */
+  .bs-dropdown {
     position: absolute;
-    left: 2rem;
-    right: 2rem;
+    left: 0;
+    right: 0;
     top: calc(100% + 8px);
     background: #fff;
-    border: 1px solid #E2E8F0;
-    border-radius: 12px;
-    box-shadow: 0 12px 36px rgba(15,23,42,0.12);
-    max-height: 70vh;
-    overflow-y: auto;
+    border: 1.5px solid #E2E8F0;
+    border-radius: 16px;
+    box-shadow:
+      0 4px 6px -1px rgba(15,23,42,0.06),
+      0 16px 48px rgba(15,23,42,0.16);
+    overflow: hidden;
     z-index: 50;
     display: none;
   }
-  .blog-search-results.has-content { display: block; }
-  .blog-search-result {
-    display: block;
-    padding: 0.85rem 1rem;
+  .bs-dropdown.has-content { display: block; }
+
+  /* ── Results header ── */
+  .bsr-header {
+    padding: 0.55rem 1rem;
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #94A3B8;
+    background: #F8FAFC;
     border-bottom: 1px solid #F1F5F9;
+  }
+
+  /* ── Scrollable list ── */
+  .bsr-list {
+    max-height: 66vh;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  /* ── Single result ── */
+  .bsr-item {
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+    padding: 0.8rem 1rem;
     text-decoration: none;
     color: inherit;
-    transition: background 0.12s;
+    border-bottom: 1px solid #F1F5F9;
+    transition: background 0.08s;
+    outline: none;
   }
-  .blog-search-result:hover, .blog-search-result:focus { background: #F8FAFC; outline: none; }
-  .blog-search-result:last-child { border-bottom: none; }
-  .blog-search-result-title { font-weight: 700; color: #0F172A; font-size: 0.96rem; line-height: 1.35; margin-bottom: 0.25rem; }
-  .blog-search-result-excerpt { color: #475569; font-size: 0.84rem; line-height: 1.45; }
-  .blog-search-result-excerpt :global(mark) { background: #FEF08A; color: inherit; font-weight: 600; padding: 0 2px; border-radius: 2px; }
-  .blog-search-empty { padding: 1.2rem 1rem; text-align: center; color: #64748B; font-size: 0.9rem; }
+  .bsr-item:last-child { border-bottom: none; }
+  .bsr-item:hover,
+  .bsr-item:focus { background: #F0F9FF; }
+
+  /* ── Thumbnail ── */
+  .bsr-thumb {
+    flex-shrink: 0;
+    width: 56px;
+    height: 56px;
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+    background-color: #E2E8F0;
+  }
+  .bsr-thumb--fallback {
+    background: linear-gradient(135deg, #0EA5E9 0%, #0284C7 100%);
+  }
+
+  /* ── Text content ── */
+  .bsr-body {
+    flex: 1;
+    min-width: 0;
+  }
+  .bsr-cat {
+    display: block;
+    font-size: 0.67rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #0EA5E9;
+    margin-bottom: 0.12rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .bsr-title {
+    font-weight: 700;
+    color: #0F172A;
+    font-size: 0.9rem;
+    line-height: 1.3;
+    margin-bottom: 0.2rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .bsr-excerpt {
+    color: #64748B;
+    font-size: 0.78rem;
+    line-height: 1.42;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .bsr-excerpt :global(mark) {
+    background: #FEF08A;
+    color: #0F172A;
+    font-weight: 600;
+    padding: 0 2px;
+    border-radius: 2px;
+  }
+
+  /* ── Chevron ── */
+  .bsr-chevron {
+    flex-shrink: 0;
+    color: #CBD5E1;
+  }
+
+  /* ── Empty state ── */
+  .bsr-empty {
+    padding: 2rem 1rem;
+    text-align: center;
+    color: #94A3B8;
+    font-size: 0.88rem;
+  }
 </style>
 
 <script>
-  // Pagefind is loaded dynamically — only available in production builds.
-  // In dev (astro dev), search will be inert (input still works visually but no results).
   let pagefind = null;
   let loadAttempted = false;
 
@@ -143,97 +226,133 @@ const t = {
     if (loadAttempted) return pagefind;
     loadAttempted = true;
     try {
-      // @ts-ignore - dynamic import of build artifact
       const pagefindUrl = '/pagefind/pagefind.js';
       pagefind = await import(/* @vite-ignore */ pagefindUrl);
-      await pagefind.options({ excerptLength: 30 });
+      await pagefind.options({ excerptLength: 25 });
     } catch (e) {
-      console.warn('[Zercy Search] Pagefind not available (dev mode?):', e.message);
+      console.warn('[Zercy Search] Pagefind not available:', e.message);
     }
     return pagefind;
   }
 
-  function escapeHtml(s) {
-    return s.replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function tCount(n, lang) {
+    if (lang === 'de') return n === 1 ? '1 Ergebnis' : `${n} Ergebnisse`;
+    if (lang === 'es') return n === 1 ? '1 resultado' : `${n} resultados`;
+    return n === 1 ? '1 result' : `${n} results`;
+  }
+
+  function tEmpty(lang) {
+    if (lang === 'de') return 'Keine Treffer gefunden.';
+    if (lang === 'es') return 'No se encontraron resultados.';
+    return 'No results found.';
   }
 
   const container = document.querySelector('.blog-search');
   if (container) {
     const input = container.querySelector('#blog-search-input');
-    const results = container.querySelector('#blog-search-results');
+    const dropdown = container.querySelector('#blog-search-results');
     const pathPrefix = container.dataset.pathPrefix || '/blog/';
+    const lang = container.dataset.lang || container.closest('html')?.lang || 'en';
     let debounceTimer;
 
-    const tNoResults = container.closest('html').lang === 'de' ? 'Keine Treffer gefunden.'
-      : container.closest('html').lang === 'es' ? 'No se encontraron resultados.'
-      : 'No results found.';
+    function close() {
+      dropdown.innerHTML = '';
+      dropdown.classList.remove('has-content');
+    }
 
-    async function runSearch(query) {
+    function render(data) {
+      if (!data.length) {
+        dropdown.innerHTML = `<div class="bsr-empty">${tEmpty(lang)}</div>`;
+        dropdown.classList.add('has-content');
+        return;
+      }
+
+      const items = data.map(d => {
+        const url = esc(d.url.replace(/\.html$/, '').replace(/\/index$/, '/'));
+        const title = esc(d.meta?.title || 'Untitled');
+        const cat = d.meta?.category ? esc(d.meta.category) : '';
+        const img = d.meta?.image || '';
+
+        const thumb = img
+          ? `<div class="bsr-thumb" style="background-image:url(${img})"></div>`
+          : `<div class="bsr-thumb bsr-thumb--fallback"></div>`;
+
+        return `<a class="bsr-item" href="${url}">
+          ${thumb}
+          <div class="bsr-body">
+            ${cat ? `<span class="bsr-cat">${cat}</span>` : ''}
+            <div class="bsr-title">${title}</div>
+            <div class="bsr-excerpt">${d.excerpt || ''}</div>
+          </div>
+          <svg class="bsr-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+        </a>`;
+      }).join('');
+
+      dropdown.innerHTML =
+        `<div class="bsr-header">${tCount(data.length, lang)}</div>` +
+        `<div class="bsr-list">${items}</div>`;
+      dropdown.classList.add('has-content');
+    }
+
+    async function runSearch(q) {
       const pf = await loadPagefind();
       if (!pf) {
-        results.innerHTML = '<div class="blog-search-empty">Search index not loaded yet (build the site first).</div>';
-        results.classList.add('has-content');
+        dropdown.innerHTML = `<div class="bsr-empty">Search index not loaded (build the site first).</div>`;
+        dropdown.classList.add('has-content');
         return;
       }
       container.classList.add('is-loading');
-      const search = await pf.search(query);
-
-      // Pagefind result objects expose id + data() — url lives in the loaded fragment.
-      // Load top 16 candidates, then filter by language path, then keep top 8.
-      const candidates = search.results.slice(0, 16);
+      const { results } = await pf.search(q);
+      const candidates = results.slice(0, 16);
       const allData = await Promise.all(candidates.map(r => r.data()));
       container.classList.remove('is-loading');
-      // Normalize url to pathname so /blog/ doesn't accidentally match /en/blog/ or /es/blog/
-      const data = allData.filter(d => {
-        if (!d || !d.url) return false;
+
+      const filtered = allData.filter(d => {
+        if (!d?.url) return false;
         let path = d.url;
         try { path = new URL(d.url, location.origin).pathname; } catch (_) {}
         return path.startsWith(pathPrefix);
       }).slice(0, 8);
 
-      if (data.length === 0) {
-        results.innerHTML = `<div class="blog-search-empty">${tNoResults}</div>`;
-        results.classList.add('has-content');
-        return;
-      }
-
-      results.innerHTML = data.map(d => {
-        const url = d.url.replace(/\.html$/, '').replace(/\/index$/, '/');
-        return `<a class="blog-search-result" href="${url}">
-          <div class="blog-search-result-title">${escapeHtml(d.meta?.title || 'Untitled')}</div>
-          <div class="blog-search-result-excerpt">${d.excerpt || ''}</div>
-        </a>`;
-      }).join('');
-      results.classList.add('has-content');
+      render(filtered);
     }
 
-    input.addEventListener('input', (e) => {
+    // Debounced input
+    input.addEventListener('input', e => {
       clearTimeout(debounceTimer);
       const q = e.target.value.trim();
-      if (q.length < 2) {
-        results.innerHTML = '';
-        results.classList.remove('has-content');
-        container.classList.remove('is-loading');
-        return;
-      }
+      if (q.length < 2) { close(); container.classList.remove('is-loading'); return; }
       debounceTimer = setTimeout(() => runSearch(q), 250);
     });
 
-    // Close results on outside click
-    document.addEventListener('click', (e) => {
-      if (!container.contains(e.target)) {
-        results.classList.remove('has-content');
+    // Keyboard: from input
+    input.addEventListener('keydown', e => {
+      if (e.key === 'Escape') { input.value = ''; close(); input.blur(); }
+      else if (e.key === 'ArrowDown') { e.preventDefault(); dropdown.querySelector('.bsr-item')?.focus(); }
+    });
+
+    // Keyboard: navigate within results
+    dropdown.addEventListener('keydown', e => {
+      const items = [...dropdown.querySelectorAll('.bsr-item')];
+      const idx = items.indexOf(document.activeElement);
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        items[idx + 1] ? items[idx + 1].focus() : input.focus();
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        idx <= 0 ? input.focus() : items[idx - 1].focus();
+      } else if (e.key === 'Escape') {
+        input.value = ''; close(); input.focus();
       }
     });
 
-    // Esc key clears + closes
-    input.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') {
-        input.value = '';
-        results.innerHTML = '';
-        results.classList.remove('has-content');
-        input.blur();
-      }
+    // Outside click → close
+    document.addEventListener('click', e => {
+      if (!container.contains(e.target)) close();
     });
   }
 </script>

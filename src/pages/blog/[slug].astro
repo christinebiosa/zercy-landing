@@ -90,6 +90,7 @@ const canonicalUrl = `https://www.zercy.app/blog/${post.id}`;
   <meta property="og:description" content={post.data.description} />
   <meta property="og:url" content={canonicalUrl} />
   <meta property="og:type" content="article" />
+  <meta property="og:image" content={post.data.heroImage} data-pagefind-meta="image[content]" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -253,7 +254,7 @@ const canonicalUrl = `https://www.zercy.app/blog/${post.id}`;
   )}
 
   <main>
-    <span class="article-category" style={`background: ${color};`}>{post.data.category}</span>
+    <span class="article-category" style={`background: ${color};`} data-pagefind-meta="category">{post.data.category}</span>
     <h1>{post.data.title}</h1>
     <div class="article-meta">
       <span>{dateStr}</span>
