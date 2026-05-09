@@ -353,6 +353,48 @@ export const slugToTopic = {
   'riads-marokko-guide': 'morocco-riad',
   'morocco-riads-guide': 'morocco-riad',
   'riads-marruecos-guia': 'morocco-riad',
+
+  // ===== NEW BATCH (2026-05-09) =====
+  // Greek Islands
+  'griechenland-inseln-vergleich': 'greek-islands',
+  'greek-islands-comparison': 'greek-islands',
+  'islas-griegas-comparativa': 'greek-islands',
+  // Thailand
+  'thailand-route-2-wochen': 'thailand',
+  'thailand-2-week-itinerary': 'thailand',
+  'tailandia-2-semanas-ruta': 'thailand',
+  // Dubai
+  'dubai-reiseguide': 'dubai',
+  'dubai-travel-guide': 'dubai',
+  'dubai-guia-viaje': 'dubai',
+  // Hotel Upgrade
+  'hotel-upgrade-gratis-tipps': 'hotel-upgrade',
+  'hotel-upgrade-free-tips': 'hotel-upgrade',
+  'trucos-upgrade-hotel-gratis': 'hotel-upgrade',
+  // Family Travel Europe
+  'familienurlaub-europa-ziele': 'family-vacation',
+  'family-travel-europe-best-destinations': 'family-vacation',
+  'viaje-familiar-europa-mejores-destinos': 'family-vacation',
+  // Budget Travel
+  'reisen-kleines-budget-tipps': 'budget-travel',
+  'travel-tight-budget-tips': 'budget-travel',
+  'viajar-con-poco-dinero-consejos': 'budget-travel',
+  // Autumn Travel
+  'beste-herbstziele-reisen': 'autumn-travel',
+  'best-autumn-travel-destinations': 'autumn-travel',
+  'mejores-destinos-otono-viaje': 'autumn-travel',
+  // Maldives
+  'malediven-reiseguide-tipps': 'maldives',
+  'maldives-travel-guide-tips': 'maldives',
+  'maldivas-guia-viaje-2026': 'maldives',
+  // Luxury on Budget
+  'luxusreisen-guenstig-tipps': 'luxury-travel',
+  'luxury-travel-budget-tips': 'luxury-travel',
+  'viaje-lujo-economico-trucos': 'luxury-travel',
+  // Japan Beyond Tokyo
+  'japan-jenseits-von-tokio': 'japan-kyoto',
+  'japan-beyond-tokyo-guide': 'japan-kyoto',
+  'japon-mas-alla-de-tokio': 'japan-kyoto',
 };
 
 // Topic key -> Unsplash search query (used when downloading)
@@ -465,4 +507,15 @@ export const topicToQuery = {
   'baby-travel': 'baby airplane travel',
   'boutique-hotel': 'boutique hotel room interior',
   'morocco-riad': 'morocco riad courtyard',
+  // New topics 2026-05-09
+  'greek-islands': 'greek islands white houses blue dome',
+  'thailand': 'thailand temple bangkok golden',
+  'dubai': 'dubai skyline burj khalifa',
+  'hotel-upgrade': 'luxury hotel suite interior upgrade',
+  'family-vacation': 'family travel beach children happy',
+  'budget-travel': 'budget backpacker travel hostel',
+  'autumn-travel': 'autumn fall foliage travel landscape',
+  'maldives': 'maldives overwater bungalow turquoise',
+  'luxury-travel': 'luxury hotel infinity pool ocean',
+  'japan-kyoto': 'kyoto japan bamboo geisha temple',
 };
