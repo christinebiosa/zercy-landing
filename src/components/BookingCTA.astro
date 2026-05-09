@@ -29,42 +29,53 @@ function buildBookingUrl(dest, reviewScore, starClass) {
   return `https://www.booking.com/searchresults.html?${params.toString()}`;
 }
 
-const url = buildBookingUrl(dest, reviewScore, starClass);
+const isGeneric = dest === 'generic';
+
+const url = isGeneric
+  ? 'https://www.booking.com/'
+  : buildBookingUrl(dest, reviewScore, starClass);
 
 const t = {
   de: {
-    label: 'Hotels in',
-    cta: 'Verfügbarkeit prüfen auf Booking.com',
+    label: isGeneric ? 'Unterkunft finden auf' : 'Hotels in',
+    genericHeadline: 'Finde dein perfektes Hotel — Hotels, Apartments & mehr',
+    cta: isGeneric ? 'Unterkunft suchen auf Booking.com →' : 'Verfügbarkeit prüfen auf Booking.com',
     pill1: 'Kostenlose Stornierung',
     pill2: 'Bestpreisgarantie',
     pill3: '24/7 Support',
   },
   en: {
-    label: 'Hotels in',
-    cta: 'Check availability on Booking.com',
+    label: isGeneric ? 'Find your stay on' : 'Hotels in',
+    genericHeadline: 'Hotels, apartments & more — all in one place',
+    cta: isGeneric ? 'Search accommodations on Booking.com →' : 'Check availability on Booking.com',
     pill1: 'Free cancellation',
     pill2: 'Best price guarantee',
     pill3: '24/7 customer service',
   },
   es: {
-    label: 'Hoteles en',
-    cta: 'Ver disponibilidad en Booking.com',
+    label: isGeneric ? 'Encuentra tu alojamiento en' : 'Hoteles en',
+    genericHeadline: 'Hoteles, apartamentos y más — todo en un solo lugar',
+    cta: isGeneric ? 'Buscar alojamiento en Booking.com →' : 'Ver disponibilidad en Booking.com',
     pill1: 'Cancelación gratuita',
     pill2: 'Mejor precio garantizado',
     pill3: 'Atención 24/7',
   },
-}[lang] || t.en;
+}[lang] || { label: 'Hotels in', cta: 'Check availability on Booking.com →', pill1: 'Free cancellation', pill2: 'Best price guarantee', pill3: '24/7 customer service' };
 
 // Capitalize destination for display
-const destDisplay = dest.split(/[-\s]/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+const destDisplay = isGeneric ? 'Booking.com' : dest.split(/[-\s]/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 ---
 <aside class="booking-cta">
   <div class="booking-cta-header">
-    <span class="booking-cta-label">{t.label} <strong>{destDisplay}</strong></span>
+    {isGeneric ? (
+      <span class="booking-cta-label"><strong>{t.genericHeadline}</strong></span>
+    ) : (
+      <span class="booking-cta-label">{t.label} <strong>{destDisplay}</strong></span>
+    )}
     <span class="booking-cta-brand">Booking.com</span>
   </div>
   <a href={url} target="_blank" rel="noopener sponsored nofollow" class="booking-cta-btn">
-    {t.cta} →
+    {t.cta}
   </a>
   <div class="booking-cta-pills">
     <span class="booking-cta-pill">✓ {t.pill1}</span>

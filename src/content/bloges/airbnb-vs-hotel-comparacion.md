@@ -6,6 +6,7 @@ pubDate: 2026-05-08
 category: "Viaje inteligente"
 readingTime: 7
 heroImage: "/img/blog/apartment-vs-hotel.jpg"
+bookingDest: "generic"
 ---
 
 La elección entre Airbnb y hotel es una de las decisiones más frecuentes de la planificación de un viaje. Ninguna es objetivamente mejor: la respuesta depende del destino, la duración de la estancia, el tipo de viajero y lo que se prioriza.
