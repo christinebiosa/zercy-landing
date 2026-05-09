@@ -59,8 +59,8 @@ const categories = categoryOrder.filter(c => existingCats.has(c));
 const destinationPosts = [...posts]
   .filter(p => p.data.category === 'Wo übernachten' && p.data.heroImage)
   .sort((a, b) => {
-    const nameA = a.data.title.match(/Beste Hotels in (.+?):/)?.[1] ?? a.data.title;
-    const nameB = b.data.title.match(/Beste Hotels in (.+?):/)?.[1] ?? b.data.title;
+    const nameA = a.data.title.match(/Beste Hotels (?:in|auf|im|an) (.+?):/)?.[1] ?? a.data.title;
+    const nameB = b.data.title.match(/Beste Hotels (?:in|auf|im|an) (.+?):/)?.[1] ?? b.data.title;
     return nameA.localeCompare(nameB, 'de');
   });
 ---
@@ -235,7 +235,7 @@ const destinationPosts = [...posts]
     </button>
     <div class="city-finder-panel" id="city-finder-panel">
       {destinationPosts.map(post => {
-        const cityName = post.data.title.match(/Beste Hotels in (.+?):/)?.[1] ?? '';
+        const cityName = post.data.title.match(/Beste Hotels (?:in|auf|im|an) (.+?):/)?.[1] ?? '';
         return <a href={`/blog/${post.id}`} class="city-link">{cityName}</a>;
       })}
     </div>

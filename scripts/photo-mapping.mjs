@@ -438,6 +438,19 @@ export const slugToTopic = {
   'where-to-stay-valencia': 'valencia',
   'donde-alojarse-valencia': 'valencia',
 
+  // Havana
+  'wo-uebernachten-havanna': 'havana',
+  'where-to-stay-havana': 'havana',
+  'donde-alojarse-la-habana': 'havana',
+  // Vancouver
+  'wo-uebernachten-vancouver': 'vancouver',
+  'where-to-stay-vancouver': 'vancouver',
+  'donde-alojarse-vancouver': 'vancouver',
+  // Chicago
+  'wo-uebernachten-chicago': 'chicago',
+  'where-to-stay-chicago': 'chicago',
+  'donde-alojarse-chicago': 'chicago',
+
   // ===== NEW BATCH (2026-05-09) =====
   // Greek Islands
   'griechenland-inseln-vergleich': 'greek-islands',
@@ -613,6 +626,9 @@ export const topicToQuery = {
   'ho-chi-minh': 'ho chi minh city vietnam motorbike street',
   'toronto': 'toronto canada cn tower lake ontario',
   'stockholm': 'stockholm sweden gamla stan old town',
+  'havana': 'havana cuba colorful colonial cars',
+  'vancouver': 'vancouver canada mountains ocean harbour',
+  'chicago': 'chicago skyline lake michigan architecture',
   // New city topics for Where to Stay batch 2
   'kuala-lumpur': 'kuala lumpur petronas towers skyline night',
   'osaka': 'osaka japan dotonbori neon reflections',
