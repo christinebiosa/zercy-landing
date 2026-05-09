@@ -354,6 +354,48 @@ export const slugToTopic = {
   'morocco-riads-guide': 'morocco-riad',
   'riads-marruecos-guia': 'morocco-riad',
 
+  // ===== WHERE TO STAY BATCH 2 (2026-05-09) =====
+  // Dubai
+  'wo-uebernachten-dubai': 'dubai',
+  'where-to-stay-dubai': 'dubai',
+  'donde-alojarse-dubai': 'dubai',
+  // Kuala Lumpur
+  'wo-uebernachten-kuala-lumpur': 'kuala-lumpur',
+  'where-to-stay-kuala-lumpur': 'kuala-lumpur',
+  'donde-alojarse-kuala-lumpur': 'kuala-lumpur',
+  // Osaka
+  'wo-uebernachten-osaka': 'osaka',
+  'where-to-stay-osaka': 'osaka',
+  'donde-alojarse-osaka': 'osaka',
+  // Milan
+  'wo-uebernachten-mailand': 'milan',
+  'where-to-stay-milan': 'milan',
+  'donde-alojarse-milan': 'milan',
+  // Sydney
+  'wo-uebernachten-sydney': 'sydney',
+  'where-to-stay-sydney': 'sydney',
+  'donde-alojarse-sydney': 'sydney',
+  // Copenhagen
+  'wo-uebernachten-kopenhagen': 'copenhagen',
+  'where-to-stay-copenhagen': 'copenhagen',
+  'donde-alojarse-copenhague': 'copenhagen',
+  // Porto (Where to Stay — shares photo with porto topic)
+  'wo-uebernachten-porto': 'porto',
+  'where-to-stay-porto': 'porto',
+  'donde-alojarse-oporto': 'porto',
+  // Kyoto
+  'wo-uebernachten-kyoto': 'kyoto',
+  'where-to-stay-kyoto': 'kyoto',
+  'donde-alojarse-kioto': 'kyoto',
+  // Tbilisi
+  'wo-uebernachten-tiflis': 'tbilisi',
+  'where-to-stay-tbilisi': 'tbilisi',
+  'donde-alojarse-tiflis': 'tbilisi',
+  // Valencia
+  'wo-uebernachten-valencia': 'valencia',
+  'where-to-stay-valencia': 'valencia',
+  'donde-alojarse-valencia': 'valencia',
+
   // ===== NEW BATCH (2026-05-09) =====
   // Greek Islands
   'griechenland-inseln-vergleich': 'greek-islands',
@@ -518,4 +560,13 @@ export const topicToQuery = {
   'maldives': 'maldives overwater bungalow turquoise',
   'luxury-travel': 'luxury hotel infinity pool ocean',
   'japan-kyoto': 'kyoto japan bamboo geisha temple',
+  // New city topics for Where to Stay batch 2
+  'kuala-lumpur': 'kuala lumpur petronas towers skyline night',
+  'osaka': 'osaka japan dotonbori neon reflections',
+  'milan': 'milan italy cathedral duomo piazza',
+  'sydney': 'sydney opera house harbour bridge australia',
+  'copenhagen': 'copenhagen nyhavn colorful canal denmark',
+  'kyoto': 'kyoto japan temple bamboo garden',
+  'tbilisi': 'tbilisi georgia old town church sulfur',
+  'valencia': 'valencia spain city arts sciences',
 };
