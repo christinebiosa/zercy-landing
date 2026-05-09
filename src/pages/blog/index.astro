@@ -55,6 +55,14 @@ type Cat = keyof typeof categoryColors;
 const categoryOrder = ['Wo übernachten', 'Unterwegs', 'Reisetipps', 'Fernweh', 'Clever Reisen', 'KI & Reisen', 'Nur mit Handgepäck', 'Geheimtipps', 'Nachhaltig', 'Business Travel'];
 const existingCats = new Set(posts.map(p => p.data.category));
 const categories = categoryOrder.filter(c => existingCats.has(c));
+
+const destinationPosts = [...posts]
+  .filter(p => p.data.category === 'Wo übernachten' && p.data.heroImage)
+  .sort((a, b) => {
+    const nameA = a.data.title.match(/Beste Hotels in (.+?):/)?.[1] ?? a.data.title;
+    const nameB = b.data.title.match(/Beste Hotels in (.+?):/)?.[1] ?? b.data.title;
+    return nameA.localeCompare(nameB, 'de');
+  });
 ---
 <!DOCTYPE html>
 <html lang="de">
@@ -140,6 +148,23 @@ const categories = categoryOrder.filter(c => existingCats.has(c));
     /* CARD hidden state */
     .card.hidden { display: none; }
 
+    /* CITY GRID */
+    .city-grid-section { max-width: 1100px; margin: 2.5rem auto 0; padding: 0 2rem; }
+    .city-grid-header { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.25rem; flex-wrap: wrap; }
+    .city-grid-header h2 { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 1.35rem; font-weight: 800; color: var(--navy); }
+    .city-grid-header p { color: var(--slate); font-size: 0.88rem; flex-basis: 100%; margin-top: -0.6rem; }
+    .city-count-pill { background: #EC4899; color: #fff; font-size: 0.68rem; font-weight: 700; padding: 0.18rem 0.6rem; border-radius: 50px; letter-spacing: 0.04em; white-space: nowrap; }
+    .city-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
+    @media (max-width: 960px) { .city-grid { grid-template-columns: repeat(4, 1fr); } }
+    @media (max-width: 700px) { .city-grid { grid-template-columns: repeat(3, 1fr); } }
+    @media (max-width: 460px) { .city-grid { grid-template-columns: repeat(2, 1fr); } }
+    .city-tile { position: relative; border-radius: 10px; overflow: hidden; aspect-ratio: 3/4; background-size: cover; background-position: center; text-decoration: none; display: block; transition: transform 0.22s ease, box-shadow 0.22s ease; }
+    .city-tile::after { content: ''; position: absolute; inset: 0; background: linear-gradient(to top, rgba(15,23,42,0.85) 0%, rgba(15,23,42,0.1) 55%, transparent 100%); }
+    .city-tile:hover { transform: scale(1.04); box-shadow: 0 10px 28px rgba(15,23,42,0.28); z-index: 1; }
+    .city-tile-info { position: absolute; bottom: 0; left: 0; right: 0; padding: 0.6rem 0.7rem; z-index: 1; }
+    .city-tile-name { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 0.8rem; font-weight: 700; color: #fff; line-height: 1.2; }
+    .city-grid-section.hidden { display: none; }
+
     /* FOOTER */
     footer { background: var(--navy); border-top: 1px solid rgba(255,255,255,0.08); padding: 40px 0; }
     .footer-inner { max-width: 1100px; margin: 0 auto; padding: 0 24px; text-align: center; }
@@ -197,6 +222,26 @@ const categories = categoryOrder.filter(c => existingCats.has(c));
 
   <BlogSearch lang="de" pathPrefix="/blog/" />
 
+  <section class="city-grid-section" id="city-grid-section">
+    <div class="city-grid-header">
+      <h2>Wo übernachten nach Stadt</h2>
+      <span class="city-count-pill">{destinationPosts.length} Städte</span>
+      <p>Stadtführer mit Vierteln, Preisen und Hotel-Empfehlungen.</p>
+    </div>
+    <div class="city-grid">
+      {destinationPosts.map(post => {
+        const cityName = post.data.title.match(/Beste Hotels in (.+?):/)?.[1] ?? '';
+        return (
+          <a href={`/blog/${post.id}`} class="city-tile" style={`background-image:url('${post.data.heroImage}');`}>
+            <div class="city-tile-info">
+              <div class="city-tile-name">{cityName}</div>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+
   <div class="chips-bar">
     <button class="chip chip-all active" data-filter="all">Alle</button>
     {categories.map((cat) => {
@@ -240,6 +285,7 @@ const categories = categoryOrder.filter(c => existingCats.has(c));
   <script>
     const chips = document.querySelectorAll<HTMLButtonElement>('.chip');
     const cards = document.querySelectorAll<HTMLElement>('.card');
+    const cityGridSection = document.getElementById('city-grid-section');
 
     chips.forEach(chip => {
       chip.addEventListener('click', () => {
@@ -255,6 +301,14 @@ const categories = categoryOrder.filter(c => existingCats.has(c));
             card.classList.add('hidden');
           }
         });
+
+        if (cityGridSection) {
+          if (filter === 'all' || filter === 'Wo übernachten') {
+            cityGridSection.classList.remove('hidden');
+          } else {
+            cityGridSection.classList.add('hidden');
+          }
+        }
       });
     });
   </script>
