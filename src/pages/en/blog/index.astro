@@ -138,22 +138,26 @@ const destinationPosts = [...posts]
     .chip-icon :global(svg) { width: 14px; height: 14px; display: block; }
     .card.hidden { display: none; }
 
-    /* CITY GRID */
-    .city-grid-section { max-width: 1100px; margin: 2.5rem auto 0; padding: 0 2rem; }
-    .city-grid-header { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.25rem; flex-wrap: wrap; }
-    .city-grid-header h2 { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 1.35rem; font-weight: 800; color: var(--navy); }
-    .city-grid-header p { color: var(--slate); font-size: 0.88rem; flex-basis: 100%; margin-top: -0.6rem; }
-    .city-count-pill { background: #EC4899; color: #fff; font-size: 0.68rem; font-weight: 700; padding: 0.18rem 0.6rem; border-radius: 50px; letter-spacing: 0.04em; white-space: nowrap; }
-    .city-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
-    @media (max-width: 960px) { .city-grid { grid-template-columns: repeat(4, 1fr); } }
-    @media (max-width: 700px) { .city-grid { grid-template-columns: repeat(3, 1fr); } }
-    @media (max-width: 460px) { .city-grid { grid-template-columns: repeat(2, 1fr); } }
-    .city-tile { position: relative; border-radius: 10px; overflow: hidden; aspect-ratio: 3/4; background-size: cover; background-position: center; text-decoration: none; display: block; transition: transform 0.22s ease, box-shadow 0.22s ease; }
-    .city-tile::after { content: ''; position: absolute; inset: 0; background: linear-gradient(to top, rgba(15,23,42,0.85) 0%, rgba(15,23,42,0.1) 55%, transparent 100%); }
-    .city-tile:hover { transform: scale(1.04); box-shadow: 0 10px 28px rgba(15,23,42,0.28); z-index: 1; }
-    .city-tile-info { position: absolute; bottom: 0; left: 0; right: 0; padding: 0.6rem 0.7rem; z-index: 1; }
-    .city-tile-name { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 0.8rem; font-weight: 700; color: #fff; line-height: 1.2; }
-    .city-grid-section.hidden { display: none; }
+    /* CITY FINDER */
+    .city-finder { max-width: 1100px; margin: 1.75rem auto 0; padding: 0 2rem; }
+    .city-finder-toggle { display: inline-flex; align-items: center; gap: 0.55rem; background: #fff; border: 1.5px solid #E2E8F0; border-radius: 50px; padding: 0.42rem 1rem 0.42rem 0.75rem; cursor: pointer; font-family: 'Inter', sans-serif; font-size: 0.83rem; font-weight: 600; color: var(--slate); transition: all 0.18s; }
+    .city-finder-toggle:hover { border-color: #CBD5E1; color: var(--navy); }
+    .city-finder-toggle.open { border-color: #EC4899; color: #EC4899; background: #FDF2F8; }
+    .city-finder-icon { display: flex; align-items: center; color: #EC4899; }
+    .city-finder-icon svg { width: 14px; height: 14px; }
+    .city-count-pill { background: #EC4899; color: #fff; font-size: 0.67rem; font-weight: 700; padding: 0.15rem 0.55rem; border-radius: 50px; letter-spacing: 0.04em; white-space: nowrap; }
+    .city-finder-chevron { font-size: 0.7rem; color: #94A3B8; margin-left: 0.1rem; display: inline-block; transition: transform 0.2s; }
+    .city-finder-toggle.open .city-finder-chevron { transform: rotate(180deg); }
+    .city-finder-panel { display: none; margin-top: 0.6rem; padding: 1rem 1.25rem; background: #fff; border: 1.5px solid #E2E8F0; border-radius: 12px; columns: 5; column-gap: 0; }
+    .city-finder-panel.open { display: block; }
+    @media (max-width: 900px) { .city-finder-panel { columns: 4; } }
+    @media (max-width: 640px) { .city-finder-panel { columns: 3; } }
+    @media (max-width: 400px) { .city-finder-panel { columns: 2; } }
+    .city-link { display: flex; align-items: center; gap: 0.4rem; font-size: 0.81rem; font-weight: 500; color: var(--slate); text-decoration: none; padding: 0.22rem 0; break-inside: avoid; transition: color 0.15s; }
+    .city-link::before { content: ''; width: 5px; height: 5px; border-radius: 50%; background: #EC4899; flex-shrink: 0; opacity: 0.65; }
+    .city-link:hover { color: var(--navy); }
+    .city-link:hover::before { opacity: 1; }
+    .city-finder.hidden { display: none; }
     footer { background: var(--navy); border-top: 1px solid rgba(255,255,255,0.08); padding: 40px 0; }
     .footer-inner { max-width: 1100px; margin: 0 auto; padding: 0 24px; text-align: center; }
     .footer-logo { display: flex; align-items: center; gap: 8px; justify-content: center; margin-bottom: 10px; }
@@ -210,25 +214,20 @@ const destinationPosts = [...posts]
 
   <BlogSearch lang="en" pathPrefix="/en/blog/" />
 
-  <section class="city-grid-section" id="city-grid-section">
-    <div class="city-grid-header">
-      <h2>Where to Stay by City</h2>
+  <div class="city-finder" id="city-finder">
+    <button class="city-finder-toggle" id="city-finder-toggle" aria-expanded="false">
+      <span class="city-finder-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"/><path d="M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"/><path d="M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"/></svg></span>
+      City Guides
       <span class="city-count-pill">{destinationPosts.length} cities</span>
-      <p>Neighborhood guides with prices and hotel picks.</p>
-    </div>
-    <div class="city-grid">
+      <span class="city-finder-chevron">▾</span>
+    </button>
+    <div class="city-finder-panel" id="city-finder-panel">
       {destinationPosts.map(post => {
         const cityName = post.data.title.match(/Best Hotels in (.+?):/)?.[1] ?? '';
-        return (
-          <a href={`/en/blog/${post.id}`} class="city-tile" style={`background-image:url('${post.data.heroImage}');`}>
-            <div class="city-tile-info">
-              <div class="city-tile-name">{cityName}</div>
-            </div>
-          </a>
-        );
+        return <a href={`/en/blog/${post.id}`} class="city-link">{cityName}</a>;
       })}
     </div>
-  </section>
+  </div>
 
   <div class="chips-bar">
     <button class="chip active" data-filter="all">All</button>
@@ -273,15 +272,13 @@ const destinationPosts = [...posts]
   <script>
     const chips = document.querySelectorAll<HTMLButtonElement>('.chip');
     const cards = document.querySelectorAll<HTMLElement>('.card');
-    const cityGridSection = document.getElementById('city-grid-section');
+    const cityFinder = document.getElementById('city-finder');
 
     chips.forEach(chip => {
       chip.addEventListener('click', () => {
         const filter = chip.dataset.filter;
-
         chips.forEach(c => c.classList.remove('active'));
         chip.classList.add('active');
-
         cards.forEach(card => {
           if (filter === 'all' || card.dataset.category === filter) {
             card.classList.remove('hidden');
@@ -289,16 +286,25 @@ const destinationPosts = [...posts]
             card.classList.add('hidden');
           }
         });
-
-        if (cityGridSection) {
+        if (cityFinder) {
           if (filter === 'all' || filter === 'Where to Stay') {
-            cityGridSection.classList.remove('hidden');
+            cityFinder.classList.remove('hidden');
           } else {
-            cityGridSection.classList.add('hidden');
+            cityFinder.classList.add('hidden');
           }
         }
       });
     });
+
+    const toggleBtn = document.getElementById('city-finder-toggle') as HTMLButtonElement | null;
+    const panel = document.getElementById('city-finder-panel');
+    if (toggleBtn && panel) {
+      toggleBtn.addEventListener('click', () => {
+        const isOpen = panel.classList.toggle('open');
+        toggleBtn.classList.toggle('open', isOpen);
+        toggleBtn.setAttribute('aria-expanded', String(isOpen));
+      });
+    }
   </script>
 
   <footer>
