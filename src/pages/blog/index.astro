@@ -52,7 +52,9 @@ const categoryIcons: Record<string, string> = {
 
 type Cat = keyof typeof categoryColors;
 
-const categories = [...new Set(posts.map(p => p.data.category))];
+const categoryOrder = ['Wo übernachten', 'Unterwegs', 'Reisetipps', 'Fernweh', 'Clever Reisen', 'KI & Reisen', 'Nur mit Handgepäck', 'Geheimtipps', 'Nachhaltig', 'Business Travel'];
+const existingCats = new Set(posts.map(p => p.data.category));
+const categories = categoryOrder.filter(c => existingCats.has(c));
 ---
 <!DOCTYPE html>
 <html lang="de">
