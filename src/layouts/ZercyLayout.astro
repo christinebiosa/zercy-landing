@@ -304,6 +304,8 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
   <div id="beta-banner" style="background:linear-gradient(90deg,#0EA5E9 0%,#F97316 100%);color:#fff;font-size:0.82rem;padding:0.55rem 3rem 0.55rem 1.2rem;text-align:center;position:relative;display:none;line-height:1.5;">
     {lang === 'en'
       ? <Fragment>Welcome! Zercy just launched. You&apos;re one of the first. If anything feels off, write us: <a href="mailto:info@zercy.app" style="color:#fff;font-weight:700;text-decoration:underline">info@zercy.app</a></Fragment>
+      : lang === 'es'
+      ? <Fragment>¡Bienvenido! Zercy acaba de lanzarse. Eres de los primeros. Si algo no funciona bien, escríbenos: <a href="mailto:info@zercy.app" style="color:#fff;font-weight:700;text-decoration:underline">info@zercy.app</a></Fragment>
       : <Fragment>Willkommen! Zercy ist gerade frisch gestartet. Du bist früh dabei. Falls etwas hakt, schreib uns: <a href="mailto:info@zercy.app" style="color:#fff;font-weight:700;text-decoration:underline">info@zercy.app</a></Fragment>
     }
     <button onclick="dismissBeta()" style="position:absolute;right:0.75rem;top:50%;transform:translateY(-50%);background:none;border:none;color:rgba(255,255,255,0.8);cursor:pointer;font-size:1.2rem;line-height:1;padding:0.2rem 0.3rem">&times;</button>
