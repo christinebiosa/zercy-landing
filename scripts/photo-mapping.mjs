@@ -354,6 +354,48 @@ export const slugToTopic = {
   'morocco-riads-guide': 'morocco-riad',
   'riads-marruecos-guia': 'morocco-riad',
 
+  // ===== WHERE TO STAY BATCH 3 (2026-05-09) =====
+  // Antalya
+  'wo-uebernachten-antalya': 'antalya',
+  'where-to-stay-antalya': 'antalya',
+  'donde-alojarse-antalya': 'antalya',
+  // Phuket
+  'wo-uebernachten-phuket': 'phuket',
+  'where-to-stay-phuket': 'phuket',
+  'donde-alojarse-phuket': 'phuket',
+  // Taipei
+  'wo-uebernachten-taipei': 'taipei',
+  'where-to-stay-taipei': 'taipei',
+  'donde-alojarse-taipei': 'taipei',
+  // Venice
+  'wo-uebernachten-venedig': 'venice',
+  'where-to-stay-venice': 'venice',
+  'donde-alojarse-venecia': 'venice',
+  // Dublin
+  'wo-uebernachten-dublin': 'dublin',
+  'where-to-stay-dublin': 'dublin',
+  'donde-alojarse-dublin': 'dublin',
+  // Doha
+  'wo-uebernachten-doha': 'doha',
+  'where-to-stay-doha': 'doha',
+  'donde-alojarse-doha': 'doha',
+  // Abu Dhabi
+  'wo-uebernachten-abu-dhabi': 'abu-dhabi',
+  'where-to-stay-abu-dhabi': 'abu-dhabi',
+  'donde-alojarse-abu-dhabi': 'abu-dhabi',
+  // Ho Chi Minh City
+  'wo-uebernachten-ho-chi-minh-stadt': 'ho-chi-minh',
+  'where-to-stay-ho-chi-minh-city': 'ho-chi-minh',
+  'donde-alojarse-ho-chi-minh': 'ho-chi-minh',
+  // Toronto
+  'wo-uebernachten-toronto': 'toronto',
+  'where-to-stay-toronto': 'toronto',
+  'donde-alojarse-toronto': 'toronto',
+  // Stockholm
+  'wo-uebernachten-stockholm': 'stockholm',
+  'where-to-stay-stockholm': 'stockholm',
+  'donde-alojarse-estocolmo': 'stockholm',
+
   // ===== WHERE TO STAY BATCH 2 (2026-05-09) =====
   // Dubai
   'wo-uebernachten-dubai': 'dubai',
@@ -560,6 +602,17 @@ export const topicToQuery = {
   'maldives': 'maldives overwater bungalow turquoise',
   'luxury-travel': 'luxury hotel infinity pool ocean',
   'japan-kyoto': 'kyoto japan bamboo geisha temple',
+  // New city topics for Where to Stay batch 3
+  'antalya': 'antalya turkey old town harbor turquoise',
+  'phuket': 'phuket thailand beach big buddha temple',
+  'taipei': 'taipei taiwan 101 skyline night',
+  'venice': 'venice italy canal gondola sunset',
+  'dublin': 'dublin ireland temple bar colorful',
+  'doha': 'doha qatar skyline corniche tower',
+  'abu-dhabi': 'abu dhabi grand mosque white dome',
+  'ho-chi-minh': 'ho chi minh city vietnam motorbike street',
+  'toronto': 'toronto canada cn tower lake ontario',
+  'stockholm': 'stockholm sweden gamla stan old town',
   // New city topics for Where to Stay batch 2
   'kuala-lumpur': 'kuala lumpur petronas towers skyline night',
   'osaka': 'osaka japan dotonbori neon reflections',
