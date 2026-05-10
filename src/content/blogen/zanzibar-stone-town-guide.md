@@ -79,7 +79,7 @@ Practical tips that aren't in every guidebook:
 
 **1. Arriving in Stone Town:**
 - Ferry from Dar es Salaam (2h, $39): Azam Marine. Faster and cheaper than flight from Zanzibar Airport.
-- Flight from Dar es Salaam: 30 min, from $66 with Coastal Aviation or Precision Air. International flights: via Doha, Istanbul or Addis Ababa.
+- Flight from Dar es Salaam: 30 min, from $66 with Coastal Aviation or Precision Air. International flights: via Istanbul or Addis Ababa.
 
 **2. Visa reality 2026:**
 - E-visa online from $55 (valid for Zanzibar AND mainland Tanzania).

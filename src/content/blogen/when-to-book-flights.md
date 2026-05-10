@@ -39,10 +39,10 @@ Airlines like Lufthansa, Singapore Airlines, or ANA open their most attractive f
 
 Important: check visa requirements well in advance. Japan and Thailand require no visa for EU citizens on short stays; other destinations do.
 
-### Middle East and Africa
+### Africa and Long-Haul
 **Optimal window: 2–4 months before departure**
 
-Price variance is highest here. Dubai flights can range from €300 to €900 depending on airline, booking timing, and season. Market-watching and price alerts pay off here especially.
+Price variance is highest here. Long-haul flights to Africa or the Pacific can range from €400 to €1,200 depending on airline, booking timing, and season. Market-watching and price alerts pay off here especially.
 
 ## What else affects the price
 

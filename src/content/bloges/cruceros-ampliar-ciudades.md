@@ -60,7 +60,7 @@ Varía por ciudad. En muchos puertos hay servicio de transporte oficial del barc
 
 #### ¿Qué cruceros tienen las mejores escalas culturales?
 
-Los cruceros mediterráneos (Grecia, Adriático, Turquía, Malta, Italia) tienen las mejores escalas para viajeros culturales. El Báltico (Tallin, Helsinki, San Petersburgo antes de la situación actual, Estocolmo) también ofrece ciudades de primer nivel. Los cruceros caribeños combinan escalas más orientadas al sol y la playa con algunas joyas coloniales como Cartagena o La Habana.
+Los cruceros mediterráneos (Grecia, Adriático, Turquía, Malta, Italia) tienen las mejores escalas para viajeros culturales. El Báltico (Tallin, Helsinki, San Petersburgo antes de la situación actual, Estocolmo) también ofrece ciudades de primer nivel. Los cruceros caribeños combinan escalas más orientadas al sol y la playa con algunas joyas coloniales como Cartagena o San Juan de Puerto Rico.
 
 ---
 

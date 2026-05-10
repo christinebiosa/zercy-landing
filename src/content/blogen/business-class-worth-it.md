@@ -30,7 +30,7 @@ This happens more often than you'd think. Business class on a poorly booked rout
 
 **On long layovers**
 
-If you're connecting through a hub like Dubai, Singapore, or Frankfurt with 8+ hours to wait: business class means lounge access. Shower. Real food. That's not luxury — it's recovery.
+If you're connecting through a hub like Singapore, Bangkok, or Frankfurt with 8+ hours to wait: business class means lounge access. Shower. Real food. That's not luxury — it's recovery.
 
 ## What You Get in Business Class
 
