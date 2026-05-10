@@ -27,7 +27,7 @@ Wer im September, Oktober oder November reist, bekommt oft 20-40 Prozent günsti
 
 November ist der beste Monat für bestimmte Destinationen, die im Sommer ungeeignet sind.
 
-**Dubai und Abu Dhabi:** November ist der erste Monat mit erträglichen Temperaturen (25-28 Grad, deutlich besser als 45 Grad im August). Preise noch nicht auf Dezember-Hochsaisonhöhe. Für Erstbesucher ideal.
+**Madeira:** November auf Madeira ist Geheimtipp. Temperaturen 20-23 Grad, kaum Hochsaison, Wanderwege frei, Levadas grün. Günstigere Flüge aus Deutschland als in den Sommermonaten. Die Insel ist ganzjährig gut — aber November besonders ruhig.
 
 **Vietnam (Hoi An, Da Nang):** November ist Übergangszeit. Süden Vietnams trocken. Preise günstig. Touristensaison beginnt erst Dezember. Wer im November bucht, hat alles für sich.
 

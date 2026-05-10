@@ -30,7 +30,7 @@ Das passiert öfter als man denkt. Business Class auf einer schwach gebuchten St
 
 **Bei langen Layovers**
 
-Wer durch einen Hub wie Dubai, Singapur oder Frankfurt umsteigt und 8+ Stunden Aufenthalt hat: Business Class bedeutet Lounge. Dusche. Echtes Essen. Das ist kein Luxus — das ist Erholung.
+Wer durch einen Hub wie Singapur, Bangkok oder Frankfurt umsteigt und 8+ Stunden Aufenthalt hat: Business Class bedeutet Lounge. Dusche. Echtes Essen. Das ist kein Luxus — das ist Erholung.
 
 ## Was du in der Business Class bekommst
 

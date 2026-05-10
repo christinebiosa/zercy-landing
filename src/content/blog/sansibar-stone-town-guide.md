@@ -79,7 +79,7 @@ Praktische Tipps die nicht in jedem Reiseführer stehen:
 
 **1. Ankommend in Stone Town:**
 - Fähre von Dar es Salaam (2h, 35 USD): Azam Marine. Schneller und günstiger als Flug ab Zanzibar Airport.
-- Flug von Dar es Salaam: 30 Min, ab 60 USD mit Coastal Aviation oder Precision Air. Internationale Flüge: über Doha, Istanbul oder Addis Ababa.
+- Flug von Dar es Salaam: 30 Min, ab 60 USD mit Coastal Aviation oder Precision Air. Internationale Flüge: über Istanbul oder Addis Ababa.
 
 **2. Visum-Realität 2026:**
 - E-Visum online ab 50 USD (gilt für Sansibar UND Festland-Tansania).

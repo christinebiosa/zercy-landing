@@ -8,7 +8,7 @@ readingTime: 7
 heroImage: "/img/blog/stopover.jpg"
 ---
 
-You fly to Bangkok with an 18-hour stopover in Dubai. You spend those 18 hours in the airport lounge with lukewarm cappuccino. Classic travel waste.
+You fly to Bangkok with an 18-hour stopover in Singapore. You spend those 18 hours in the airport terminal with lukewarm cappuccino. Classic travel waste.
 
 Stopover tourism flips this: instead of treating layovers as punishment, you treat them as mini-trips. Here's the honest guide.
 
@@ -32,9 +32,7 @@ Six top stopover cities for 2026.
 
 **Singapore.** With Singapore Airlines: free stopover up to 96 hours with premium hotel included. Plus free city tour. One of the world's best stopover programs.
 
-**Dubai (Emirates).** "Dubai Stopover" package: hotel, breakfast, visa for $55-110 per night. Desert tour, Burj Khalifa, souks. Ideal for 24-72 hours.
-
-**Doha (Qatar Airways).** "Stopover Programme": hotel from $26 per night (subsidized). Plus 96-hour visa free. Growing destination with Museum of Islamic Art and Souq Waqif.
+**Helsinki (Finnair).** Finnair offers compact stopover packages between Europe and Asia. Sauna experiences, the Design District, Suomenlinna island fortress. Finland works well for 24-48 hours — compact, well-connected, relaxed.
 
 **Istanbul (Turkish Airlines).** "TourIstanbul": free city tour with bus and guide for layovers over 6 hours. Plus hotel night for $40-55 with stopovers over 20 hours.
 
@@ -44,13 +42,13 @@ Six top stopover cities for 2026.
 
 A pragmatic 4-step method.
 
-**Step 1: Choose the airline strategically.** Stopover programs only work with the home airline of the stopover city. Singapore Airlines for Singapore, Emirates for Dubai, Icelandair for Iceland, TAP for Lisbon.
+**Step 1: Choose the airline strategically.** Stopover programs only work with the home airline of the stopover city. Singapore Airlines for Singapore, Finnair for Helsinki, Icelandair for Iceland, TAP for Lisbon.
 
 **Step 2: Book on the airline website, not via comparison platforms.** Stopover programs are often only bookable directly. Skyscanner and Google Flights rarely show them correctly.
 
 **Step 3: Book at least 24 hours of stopover.** Anything under 12 hours is stress, anything under 8 hours is airport sitting. Ideally 36-72 hours for real experience.
 
-**Step 4: Sort visa beforehand.** Some stopover countries grant transit visas, others don't. Singapore 96 hours visa-free, Dubai needs eVisa for 30 days. See our [hidden city ticketing guide](/en/blog/hidden-city-ticketing-explained) for similar tricks.
+**Step 4: Sort visa beforehand.** Some stopover countries grant transit visas, others don't. Singapore 96 hours visa-free, Iceland and Helsinki visa-free for EU and most Western passport holders. See our [hidden city ticketing guide](/en/blog/hidden-city-ticketing-explained) for similar tricks.
 
 ## What does it really cost?
 
@@ -62,7 +60,7 @@ An honest cost comparison.
 
 Difference: $210 for one additional destination. Per day in Singapore the trip costs you $105 extra. Hard to beat if you count it as a trip.
 
-If you combine this with rental cars, see our [rental car checklist](/en/blog/rental-car-checklist). In some stopover cities a rental isn't needed (Singapore, Reykjavík), in others very useful (Dubai, Doha).
+If you combine this with rental cars, see our [rental car checklist](/en/blog/rental-car-checklist). In some stopover cities a rental isn't needed (Singapore, Helsinki), in others very useful (Reykjavík, Iceland surroundings).
 
 The [Skytrax World Airline Awards](https://www.worldairlineawards.com/) include rankings of stopover programs, updated annually with traveler feedback.
 
@@ -82,7 +80,7 @@ For long-haul flights over 8 hours. Instead of 18 hours of airport sitting for a
 
 ### Which airline has the best stopover program?
 
-Singapore Airlines (96-hour stopover with hotel included), Icelandair (up to 7 days free), Emirates Dubai (subsidized packages), Qatar Airways (hotel from $26). Lisbon and Istanbul also very popular.
+Singapore Airlines (96-hour stopover with hotel included), Icelandair (up to 7 days free), TAP Portugal (up to 5 days free), Finnair (Helsinki short stopovers). Lisbon and Istanbul also very popular.
 
 ### How much more expensive is a stopover flight?
 

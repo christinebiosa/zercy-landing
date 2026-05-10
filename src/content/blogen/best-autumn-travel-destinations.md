@@ -27,7 +27,7 @@ Travelers who go in September, October, or November often get hotels and flights
 
 November is the best month for specific destinations that are unsuitable in summer.
 
-**Dubai and Abu Dhabi:** November is the first month with bearable temperatures (77-82°F, much better than the 113°F of August). Prices not yet at December peak-season levels. Ideal for first-time visitors.
+**Madeira:** November on Madeira is a quiet insider tip. Temperatures 68-73°F, no peak season crowds, hiking trails clear, levadas green. Cheaper flights from most of Europe than in summer months. The island works year-round — but November is especially calm.
 
 **Vietnam (Hoi An, Da Nang):** November is transition time. Southern Vietnam is dry. Prices affordable. Tourist season only starts in December. Those who go in November have things largely to themselves.
 

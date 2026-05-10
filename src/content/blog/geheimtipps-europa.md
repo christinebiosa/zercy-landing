@@ -78,17 +78,19 @@ Die Weinregion Alentejo direkt vor der Tür: roter Wein, Korkbäume soweit das A
 
 Ihr Verlust.
 
-## 7. Tbilisi, Georgien
+## 7. Valletta, Malta
 
-Tbilisi ist das Geheimnis, das sich gerade rumspricht. Noch bevor es überläuft: jetzt hinfahren.
+Valletta ist die kleinste Hauptstadt der Europäischen Union. Gerade mal 6.000 Einwohner — aber auf engstem Raum so viel Geschichte, dass es fast unfair wirkt.
 
-Altstadt mit Holzbalkonhäusern, die über die engen Gassen hängen und leicht verwittert wirken — schöner als jede Restaurierung. Schwefelthermalwasser-Bäder im Abanotubani-Viertel, wo du für 10–15 Euro lange in echten Sulfur-Quellen badest.
+Barocke Paläste auf einem Rastersystem aus Gassen, die alle auf den Grand Harbour hinablaufen. Die Co-Kathedrale St. John hat Caravaggio-Gemälde, die diejenigen in Rom beschämen. Fort St. Elmo, errichtet 1552, steht noch immer unverändert. Die Upper Barrakka Gardens mit Blick auf den Hafen: einer der besten Aussichtspunkte Südeuropas.
 
-Natürlicher Wein, der hier erfunden wurde — Georgien ist die Wiege des Weinbaus, 8.000 Jahre alt. Der Weinstil (Amber Wine, in Tongefäßen fermentiert) ist anders als alles, was du aus Europa kennst.
+Gladiator und Game of Thrones wurden hier gedreht. Aber Valletta braucht kein Produktionsteam — das Stadtbild ist stärker als jedes Filmset.
 
-Berge im Hintergrund: die Großen Kaukasus, die im Winter schneebedeckt sind und im Sommer Wanderparadiese.
+Die Three Cities auf der anderen Seite des Hafens sind noch leerer, noch echter. Birgu, Senglea und Cospicua: kaum Tourismus, echtes maltesisches Leben. Fähre über den Hafen: 1,50 Euro hin und zurück.
 
-**Anreise**: Flug ab Frankfurt oder Wien ca. 4 Stunden. Lufthansa, Austrian, Georgian Airways, Wizzair. Oft überraschend günstig — 200–400 Euro Hin- und Rückflug.
+**Anreise**: Direktflüge ab Frankfurt, München, Berlin, Wien und Düsseldorf — unter 3 Stunden. Ryanair und Air Malta fliegen ganzjährig. Oft unter 80 Euro Hin- und Rückflug.
+
+**Beste Reisezeit**: April bis Juni und September bis November. Sommer ist heiß (33–36 Grad) und mittlerweile touristischer. Winter mild (15–18 Grad), wenige Besucher.
 
 ---
 
@@ -98,7 +100,7 @@ Die Welt hat mehr Orte als Instagram-Top-10-Listen vermuten lassen. Zercy hilft 
 
 ### Welche wenig bekannten Reiseziele in Europa sind besonders günstig?
 
-Bulgarien (Plovdiv, Sofia, Schwarzmeerküste), Nordmazedonien (Ohrid), Albanien (Berat, Gjirokastër), Georgien (Tbilisi, Batumi) und der Kosovo (Pristina) gehören zu den günstigsten Reisezielen in und nahe Europa. Unterkunft, Essen und Transport kosten deutlich weniger als in Westeuropa.
+Bulgarien (Plovdiv, Sofia, Schwarzmeerküste), Nordmazedonien (Ohrid), Albanien (Berat, Gjirokastër), Serbien (Belgrad, Novi Sad) und der Kosovo (Pristina) gehören zu den günstigsten Reisezielen in und nahe Europa. Unterkunft, Essen und Transport kosten deutlich weniger als in Westeuropa.
 
 ### Wie findet man wirklich unbekannte Reiseziele?
 
@@ -110,6 +112,6 @@ Ohrid (Nordmazedonien): direkte Flüge ab Wien, Stuttgart. Plovdiv (Bulgarien): 
 
 ### Werden diese Orte bald überfüllt sein?
 
-Manche: ja. Tbilisi hat in den letzten 5 Jahren massiv an Bekanntheit gewonnen. Ohrid wächst. Kotor kennen Kreuzfahrtschiffe schon. Das Ziel ist: früher als der Hype hinfahren. Und wenn doch etwas bekannter wird — die richtige Jahreszeit wählen macht oft den entscheidenden Unterschied.
+Manche: ja. Valletta hat 2018 als Kulturhauptstadt deutlich mehr Aufmerksamkeit bekommen. Ohrid wächst. Kotor kennen Kreuzfahrtschiffe schon. Das Ziel ist: früher als der Hype hinfahren. Und wenn doch etwas bekannter wird — die richtige Jahreszeit wählen macht oft den entscheidenden Unterschied.
 
 **Mehr lesen:** [Boutique-Hotels: Warum kleine Hotels oft besser sind](/blog/boutique-hotels) · [Mit dem Zug durch Europa](/blog/zugreisen-europa) · [Tropisches Costa Rica: Surfen & Pura Vida](/blog/costa-rica-surfen)

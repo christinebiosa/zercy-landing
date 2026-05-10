@@ -95,5 +95,5 @@ Lara Beach has the finest sand and clearest water. Konyaaltı is wider and more 
 
 **Read more:**
 - [Where to Stay in Istanbul: Galata or Sultanahmet?](/en/blog/where-to-stay-istanbul)
-- [Where to Stay in Dubai: Marina or Downtown?](/en/blog/where-to-stay-dubai)
+- [Where to Stay in Budapest: Castle District or Pest?](/en/blog/where-to-stay-budapest)
 - [Where to Stay in Athens: Plaka or Monastiraki?](/en/blog/where-to-stay-athens)

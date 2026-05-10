@@ -24,7 +24,7 @@ El proceso tiene tres fases.
 
 **Para viajes donde no tienes todo decidido:** si ya sabes exactamente el vuelo y el hotel que quieres, reservar directamente en la aerolínea o en Booking es más rápido. El valor de Zercy está en la fase previa: cuando tienes una idea general y necesitas que alguien (o algo) te ayude a convertirla en opciones concretas.
 
-**Para comparar alternativas:** "¿me sale mejor ir la semana del 10 o la semana del 17 de agosto?", "¿qué es más barato, hacer escala en Dubai o vuelo directo a Bangkok?", "¿con ese presupuesto puedo hacer 10 días en Japón o es mejor hacer solo Tokio y Kioto?".
+**Para comparar alternativas:** "¿me sale mejor ir la semana del 10 o la semana del 17 de agosto?", "¿qué es más barato, hacer escala en Singapur o vuelo directo a Bangkok?", "¿con ese presupuesto puedo hacer 10 días en Japón o es mejor hacer solo Tokio y Kioto?".
 
 **Para viajeros que quieren ir más allá de los destinos obvios:** el sistema de Zercy incluye sugerencias de rutas y destinos alternativos basadas en lo que describes. Si pides "playa en septiembre con vuelos no muy caros desde Barcelona", puede sugerirte opciones que no habrías pensado inicialmente.
 

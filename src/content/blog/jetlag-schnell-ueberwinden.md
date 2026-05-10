@@ -42,7 +42,7 @@ Sieben evidenzbasierte Strategien, in der Reihenfolge ihrer Wirksamkeit.
 
 Tools wie Zercy berücksichtigen bei der Routenplanung mehr als nur Preis und Dauer. Eine clever geplante Route kann Jetlag deutlich reduzieren.
 
-Beispiel: Frankfurt nach Tokio direkt (12 Stunden, Ankunft 9 Uhr morgens) ist besser als ein Flug mit Zwischenstopp in Dubai (15 Stunden, Ankunft mittags). Der Direktflug erlaubt dir, am Ankunftstag direkt in den lokalen Tagesrhythmus zu kommen.
+Beispiel: Frankfurt nach Tokio direkt (12 Stunden, Ankunft 9 Uhr morgens) ist besser als ein Flug mit Zwischenstopp in Bangkok (15 Stunden, Ankunft mittags). Der Direktflug erlaubt dir, am Ankunftstag direkt in den lokalen Tagesrhythmus zu kommen.
 
 Wenn du KI-Tools für die Reiseplanung interessant findest, lies auch [Was ist Zercy?](/blog/was-ist-zercy) und [Wie KI die Reiseplanung verändert](/blog/ki-veraendert-reiseplanung).
 

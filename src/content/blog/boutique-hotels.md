@@ -36,7 +36,7 @@ Viele Boutique-Hotels wurden mit echtem Aufwand gestaltet. Alte Fliesen, handgem
 **Lage die überrascht**
 Boutique-Hotels sitzen oft in Stadtteilen, die große Ketten meiden — weil dort keine Konferenzkunden hingehen. Genau dort, wo das wirkliche Leben der Stadt stattfindet. Der Innenhof hinter einer alten Mauer. Das Erdgeschoss eines Jugendstil-Hauses. Das umgebaute Fischereihaus direkt am Hafen.
 
-Besonders in [weniger bekannten Reisezielen](/blog/geheimtipps-europa) — in Matera, Tbilisi, Ohrid oder Plovdiv — sind die kleinen Hotels oft die besten. Die großen Ketten sind schlicht nicht da.
+Besonders in [weniger bekannten Reisezielen](/blog/geheimtipps-europa) — in Matera, Valletta, Ohrid oder Plovdiv — sind die kleinen Hotels oft die besten. Die großen Ketten sind schlicht nicht da.
 
 **Direktbuchung lohnt sich**
 Boutique-Hotels geben bei Direktbuchung oft bessere Zimmer, kostenlosen Upgrade, Late Checkout oder ein kleines Extra — Frühstück, Flasche Wein, Rabatt. Weil sie keine Provision an Booking.com oder Expedia zahlen müssen.

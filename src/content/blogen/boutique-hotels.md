@@ -36,7 +36,7 @@ Many boutique hotels were created with real care. Original tiles, handmade furni
 **Location that surprises**
 Boutique hotels often sit in neighborhoods big chains avoid — because no conference guests go there. Exactly where the real life of a city happens. The courtyard behind an old wall. The ground floor of an Art Nouveau building. The converted fishing house right on the harbor.
 
-Especially in [less-traveled destinations](/en/blog/hidden-gems-europe) — in Matera, Tbilisi, Ohrid, or Plovdiv — small hotels are often the best ones. The big chains simply aren't there.
+Especially in [less-traveled destinations](/en/blog/hidden-gems-europe) — in Matera, Valletta, Ohrid, or Plovdiv — small hotels are often the best ones. The big chains simply aren't there.
 
 **Direct booking pays off**
 Boutique hotels often give direct bookers a better room, free upgrade, late checkout, or a small extra — breakfast, a bottle of wine, a discount. Because they don't pay commission to Booking.com or Expedia.

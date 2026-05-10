@@ -107,7 +107,7 @@ Top 5 according to our tests and [Skytrax ratings](https://www.worldairlineaward
 
 **2. Cathay Pacific The Pier (Hong Kong):** iconic design, cabanas with daylight. Access: Oneworld Emerald + CX flight.
 
-**3. Qatar Airways Al Mourjan (Doha):** 107,640 sq ft lounge with restaurants, spa, quiet rooms. Access: Oneworld Sapphire+ + QR flight.
+**3. Turkish Airlines CIP Business Lounge (Istanbul):** one of Europe's finest airport lounges — extensive Turkish buffet, à la carte dining, spa, private cinema. Access: Star Alliance Gold + TK flight.
 
 **4. Lufthansa First Class Terminal (Frankfurt):** own mini terminal with Porsche transfer to plane. Access: HON Circle + LH First/Business.
 

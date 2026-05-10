@@ -61,7 +61,7 @@ Busca siempre incluyendo aerolíneas asiáticas y del Golfo en tus comparativas,
 
 ## El truco de las escalas en business
 
-A veces el billete de business class más económico no es el vuelo directo. Una ruta con escala en un hub asiático (Dubái, Doha, Singapur, Hong Kong) puede ser significativamente más barata que el vuelo directo europeo en business.
+A veces el billete de business class más económico no es el vuelo directo. Una ruta con escala en un hub asiático (Singapur, Hong Kong, Tokio) puede ser significativamente más barata que el vuelo directo europeo en business.
 
 La desventaja obvia es el tiempo adicional de viaje. Pero si ya tienes que hacer 14 horas de vuelo, 16-17 horas en business puede valer más que 13 horas en economy.
 

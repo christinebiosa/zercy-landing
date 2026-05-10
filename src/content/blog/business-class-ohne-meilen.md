@@ -16,7 +16,7 @@ Ihr Geheimnis? Sie kennen die Tricks. Keine Punkte, keine Kreditkarten-Deals, ke
 
 Business Class unter 1.000 Euro klingt wie ein Mythos, ist aber regelmäßig real. Drei Beispiele aus 2025/2026, alle echte Buchungen unter dieser Grenze.
 
-**London nach Dubai mit British Airways:** Error Fare im November 2025, Business Class für 410 Euro. Tickets wurden geehrt.
+**Frankfurt nach New York mit Lufthansa:** Error Fare im Oktober 2025, Business Class für 520 Euro. Tickets wurden geehrt.
 
 **Madrid nach Buenos Aires mit Iberia:** September-Nebensaison-Deal, Business Class ab 980 Euro. Reguläre Preise im August: 2.400+ Euro.
 
@@ -30,7 +30,7 @@ Airlines arbeiten mit komplexen Tarifsystemen. Manchmal geht etwas schief. Eine 
 
 Diese sogenannten Error Fares tauchen unregelmäßig auf und verschwinden schnell wieder. Oft innerhalb von Stunden. Plattformen wie [Secret Flying](https://secretflying.com) dokumentieren solche Fehltarife in Echtzeit. Auch [The Points Guy](https://thepointsguy.com) meldet regelmäßig extreme Deals.
 
-Ein Beispiel aus 2025: British Airways London nach Dubai, Business Class. Normalpreis: rund 2.800 Euro. Error Fare Preis: 410 Euro. Die Tickets wurden tatsächlich ausgestellt und geehrt.
+Ein Beispiel aus 2025: Lufthansa Frankfurt nach New York, Business Class. Normalpreis: rund 3.200 Euro. Error Fare Preis: 520 Euro. Die Tickets wurden tatsächlich ausgestellt und geehrt.
 
 Wichtig: Nicht jeder Error Fare wird von der Airline akzeptiert. Manche stornieren. Aber die Erfolgsquote liegt bei geschätzt 70 bis 80 Prozent, besonders bei EU-regulierten Airlines.
 
@@ -54,7 +54,7 @@ Beliebte Hubs für Positioning Flights:
 
 **Istanbul (IST):** Turkish Airlines hat eines der besten Business Class Produkte weltweit und faire Preise ab ihrem Heimathub.
 
-**Doha (DOH):** Qatar Airways Qsuites ab Doha nach Asien oder Australien kosten ab Doha deutlich weniger als ab Europa.
+**Singapur (SIN):** Singapore Airlines Business Class ab Singapur nach Australien oder Japan kostet ab Singapur oft 30-40 Prozent weniger als ab Europa.
 
 **Madrid (MAD):** Iberia Business Class nach Südamerika. Ab Madrid starten die Preise bei circa 1.200 Euro. Ab Frankfurt: über 2.500 Euro.
 

@@ -18,7 +18,7 @@ Airlines run complex fare systems. Sometimes things break. A wrong currency conv
 
 These so-called error fares appear irregularly and vanish fast. Often within hours. Platforms like [Secret Flying](https://secretflying.com) track these fare mistakes in real time. [The Points Guy](https://thepointsguy.com) also reports extreme deals regularly.
 
-A real example from 2025: British Airways London to Dubai, business class. Normal price: around 2,800 euros. Error fare: 410 euros. Tickets were issued and honored.
+A real example from 2025: Lufthansa Frankfurt to New York, business class. Normal price: around 3,200 euros. Error fare: 520 euros. Tickets were issued and honored.
 
 One caveat: not every error fare gets accepted. Some airlines cancel. But the success rate is estimated at 70 to 80 percent, especially with EU-regulated carriers where passenger rights are stronger.
 
@@ -42,7 +42,7 @@ Popular hubs for positioning flights:
 
 **Istanbul (IST):** Turkish Airlines has one of the best business class products globally, with competitive prices from their home hub.
 
-**Doha (DOH):** Qatar Airways Qsuites from Doha to Asia or Australia cost significantly less ex-Doha than ex-Europe.
+**Singapore (SIN):** Singapore Airlines business class from Singapore to Australia or Japan costs significantly less ex-Singapore than ex-Europe.
 
 **Madrid (MAD):** Iberia business class to South America. From Madrid, prices start around 1,200 euros. From Frankfurt: over 2,500 euros.
 

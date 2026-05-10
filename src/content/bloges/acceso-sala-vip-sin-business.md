@@ -70,7 +70,7 @@ El nivel varía enormemente según el aeropuerto y la sala:
 - Zona de spa en salas de nivel alto (Lufthansa First en Frankfurt, Singapore Airlines en Changi, Qatar Airways Al Mourjan)
 - Camas en algunas salas de primera clase
 
-Para viajeros en tránsito en Dubái, Singapur o Doha, las salas VIP de Qatar, Emirates y Singapore Airlines son experiencias en sí mismas.
+Para viajeros en tránsito en Singapur o Tokio, las salas VIP de Singapore Airlines y ANA son experiencias en sí mismas.
 
 Zercy puede ayudarte a planificar los vuelos donde más necesitas una sala cómoda para esperar. Guarda tus rutas favoritas en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlas organizadas.
 
@@ -88,7 +88,7 @@ La mayoría de las salas permiten acceso hasta 3 horas antes del vuelo. Algunas 
 
 #### ¿Qué salas VIP son las mejores del mundo?
 
-Las más reconocidas consistentemente: Singapore Airlines SilverKris Lounge en Changi (Singapur), Qatar Airways Al Mourjan en Hamad (Doha), Emirates First Class Lounge en Dubai T3, Lufthansa First Class Terminal en Frankfurt (solo para Primera Clase) y el Cathay Pacific The Pier en Hong Kong. Para Priority Pass, las salas del aeropuerto de Changi en Singapur y del KLIA en Kuala Lumpur tienen muy buena valoración.
+Las más reconocidas consistentemente: Singapore Airlines SilverKris Lounge en Changi (Singapur), Turkish Airlines CIP Business Lounge en Estambul, Lufthansa First Class Terminal en Frankfurt (solo para Primera Clase) y el Cathay Pacific The Pier en Hong Kong. Para Priority Pass, las salas del aeropuerto de Changi en Singapur y del KLIA en Kuala Lumpur tienen muy buena valoración.
 
 #### ¿Se puede entrar con un acompañante a la sala VIP?
 

@@ -24,6 +24,42 @@
 - **Format defekt?** Nur in `zercyUrls` ändern, fertig — es gibt keine anderen Stellen.
 
 
+## ⛔ VERBOTENE REISEZIELE — IMMER EINHALTEN
+
+**Folgende Destinations kommen NIEMALS in Artikel, City Guides, Empfehlungen, Cross-Links oder Affiliate-CTAs.** Gründe: aktiver Krieg, Sanktionen/Embargo, LGBTQ-Strafgesetze (inkompatibel mit Booking.com-Affiliate-Strategie) oder schwerer politischer Kontext.
+
+### Absolute No-Go-Liste (Stand 2026-05-09)
+
+| Destination | Grund |
+|---|---|
+| **Kuba / Havanna** | US-Embargo, kommunistische Diktatur, wirtschaftliche Krise, kein normaler Tourismusmarkt |
+| **Dubai / UAE (inkl. Abu Dhabi)** | LGBTQ-Gesetze mit Haftstrafen bis 10 Jahre — unvereinbar mit Booking.com-Affiliate |
+| **Doha / Katar** | Identische LGBTQ-Gesetze wie UAE |
+| **Israel / Gaza-Region** | Aktiver Krieg, hochpolitisch |
+| **Russland / Moskau** | EU/US-Sanktionen, aktiver Ukraine-Krieg |
+| **Belarus** | EU-Sanktionen, Lukaschenko-Regime |
+| **Iran** | US/EU-Sanktionen, keine normale Tourismusinfrastruktur |
+| **Nordkorea** | Vollständige Isolation |
+| **Venezuela** | US-Sanktionen, wirtschaftlicher Zusammenbruch |
+| **Myanmar** | Militärputsch 2021, US/EU-Sanktionen |
+| **Syrien** | Aktiver Konflikt, Sanktionen |
+| **Jemen** | Aktiver Krieg |
+| **Sudan** | Aktiver Krieg |
+| **Afghanistan** | Taliban-Herrschaft, keine Touristeninfrastruktur |
+
+### Bereits gelöschte Artikel (2026-05-09)
+Dubai, Abu Dhabi, Doha, Tbilisi, Kuba — alle 3 Sprachversionen (18 Dateien) entfernt. Alle Cross-References in anderen Artikeln bereinigt.
+
+### Erlaubt (kein Embargo/Krieg trotz politischem Kontext)
+Türkei (Istanbul, Antalya), Thailand, Vietnam, Marokko, Singapur, Kolumbien (inkl. Medellin), Mexiko — gelten als Mainstream-Touristenziele ohne Affiliate-Konflikt.
+
+### Grenzfälle (kein Standardinhalt, auf Anfrage diskutieren)
+- Tbilisi/Georgien: russische Besatzung von 20% des Landes, pro-russische Regierung
+- Hongkong: Nationales Sicherheitsgesetz
+- Taipei/Taiwan: geopolitische Spannungen mit China
+
+---
+
 ## Projekt-Überblick
 Zercy ist ein KI-gestütztes Reiseplanungs-Tool. Dieses Repo ist die **Landing Page** (zercy.app).
 Das AI-Tool (Repo: cerci-demo) läuft live auf app.zercy.app.

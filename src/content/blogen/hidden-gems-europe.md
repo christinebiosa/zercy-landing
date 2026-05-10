@@ -56,13 +56,17 @@ Less than 1.5 hours from Lisbon, but a different world. A Roman temple in the mi
 
 Most Lisbon visitors never make it here. Their loss. Évora deserves a full day, ideally a night. The town quiets down completely after dark and feels genuinely medieval.
 
-## 7. Tbilisi, Georgia
+## 7. Valletta, Malta
 
-Tbilisi is the secret that's getting out — but not fast enough that it's ruined. The old town has wooden balconied houses hanging over narrow streets. Abanotubani, the sulfur bath district, smells faintly of eggs and is somehow relaxing. Natural wine was invented in Georgia (8,000 years ago), and it's everywhere, poured from clay vessels.
+Valletta is the smallest capital city in the European Union. Just 6,000 residents — but more history packed into its streets than most cities ten times its size.
 
-Behind the city, the mountains. A cable car up to Narikala Fortress. Old churches older than most European capitals.
+Baroque palaces arranged on a grid of lanes, all sloping down toward the Grand Harbour. St. John's Co-Cathedral has Caravaggio paintings that put Rome's to shame. Fort St. Elmo, built in 1552, still stands unchanged. The Upper Barrakka Gardens with their harbor view: one of the finest vantage points in Southern Europe.
 
-Fly from Frankfurt, Vienna, Berlin, or several other European cities. Around 4 hours. Often surprisingly cheap.
+Gladiator and Game of Thrones were filmed here. But Valletta doesn't need any production crew — the cityscape is stronger than any film set.
+
+The Three Cities across the harbor are even quieter, even more authentic. Birgu, Senglea, and Cospicua: almost no tourism, real Maltese life. Ferry across the harbor: €1.50 return.
+
+Fly directly from most major European cities in under 3 hours. Ryanair and Air Malta operate year-round. Often under €80 return.
 
 ## A Few That Didn't Make the List (But Almost Did)
 
@@ -80,7 +84,7 @@ The world has more places than any Instagram top-10 list suggests. Zercy helps y
 
 ### How do you find hidden gems before everyone else does?
 
-Combination of: reading local travel blogs (not big magazine lists), following Instagram accounts of photographers who specialize in specific regions, and asking in niche travel forums. Destinations like Plovdiv and Tbilisi were "hidden gems" in travel writing for years before mainstream coverage followed. The key is looking at neighboring regions to popular destinations — if you love Dubrovnik, look at Montenegro.
+Combination of: reading local travel blogs (not big magazine lists), following Instagram accounts of photographers who specialize in specific regions, and asking in niche travel forums. Destinations like Plovdiv and Valletta were "hidden gems" in travel writing for years before mainstream coverage followed. The key is looking at neighboring regions to popular destinations — if you love Dubrovnik, look at Montenegro.
 
 ### Why are hidden gem destinations in Europe usually cheaper?
 
@@ -88,10 +92,10 @@ Usually, yes. Ohrid, Plovdiv, Matera, and Évora are significantly cheaper than 
 
 ### Which European hidden gem is best for a long weekend?
 
-Évora (from Lisbon), Matera (from Bari/Naples), or Plovdiv (from Sofia) all work well as weekend add-ons to a nearby major city. Kotor works as a long weekend on its own. Tbilisi requires more time — it deserves at least 4–5 days.
+Évora (from Lisbon), Matera (from Bari/Naples), or Plovdiv (from Sofia) all work well as weekend add-ons to a nearby major city. Kotor works as a long weekend on its own. Valletta deserves at least 3 days — and the Three Cities across the harbor are a perfect full-day addition.
 
 ### When is the best time to visit lesser-known European destinations?
 
-Shoulder season: May–June or September–October. Crowds are lower, weather is pleasant, and prices haven't peaked. For a place like Sintra that's already busy, off-season (November–March) makes a dramatic difference. For Tbilisi, April–June and September–November are ideal.
+Shoulder season: May–June or September–October. Crowds are lower, weather is pleasant, and prices haven't peaked. For a place like Sintra that's already busy, off-season (November–March) makes a dramatic difference. For Valletta, April–June and September–November are ideal — summer is hot and slightly more crowded.
 
 **Read more:** [Boutique Hotels: Why Small Is Often the Better Choice](/en/blog/boutique-hotels) · [How AI Is Changing Travel Planning](/en/blog/ai-changing-travel-planning) · [Santiago de Compostela & The Camino](/en/blog/santiago-de-compostela)

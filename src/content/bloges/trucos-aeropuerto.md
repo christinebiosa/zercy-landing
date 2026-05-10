@@ -85,7 +85,7 @@ Las apps FlightAware y FlightRadar24 muestran en tiempo real dónde está el avi
 
 #### ¿Qué pasa si pierdo la conexión por culpa de la aerolínea?
 
-Si la conexión está en el mismo billete (reserva única), la aerolínea es responsable de ponerte en el siguiente vuelo disponible sin coste adicional. Si son dos billetes separados, el riesgo es tuyo: conviene dejar al menos 2-3 horas de margen en el aeropuerto de conexión. En aeropuertos grandes como Frankfurt, Dubai o Singapur, considera incluso más tiempo.
+Si la conexión está en el mismo billete (reserva única), la aerolínea es responsable de ponerte en el siguiente vuelo disponible sin coste adicional. Si son dos billetes separados, el riesgo es tuyo: conviene dejar al menos 2-3 horas de margen en el aeropuerto de conexión. En aeropuertos grandes como Frankfurt, Singapur o Londres Heathrow, considera incluso más tiempo.
 
 #### ¿Por qué el agua en los aeropuertos cuesta tanto?
 

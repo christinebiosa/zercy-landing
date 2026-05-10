@@ -94,6 +94,6 @@ Lara Beach tiene la arena más fina y el agua más clara. Konyaaltı es más amp
 ---
 
 **Leer más:**
-- [Dónde alojarse en Dubái: Marina o Downtown?](/es/blog/donde-alojarse-dubai)
-- [Dónde alojarse en Doha: West Bay o Souq Waqif?](/es/blog/donde-alojarse-doha)
-- [Dónde alojarse en Abu Dabi: Corniche o Yas Island?](/es/blog/donde-alojarse-abu-dhabi)
+- [Dónde alojarse en Estambul: Galata o Sultanahmet?](/es/blog/donde-alojarse-estambul)
+- [Dónde alojarse en Barcelona: Gótico o Gràcia?](/es/blog/donde-alojarse-barcelona)
+- [Dónde alojarse en Budapest: Buda o Pest?](/es/blog/donde-alojarse-budapest)
