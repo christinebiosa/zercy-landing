@@ -5,7 +5,7 @@ description: "Oporto tiene 5 barrios con carácter propio: la Ribeira patrimonio
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/porto.jpg"
+heroImage: "/img/blog/donde-alojarse-oporto.jpg"
 bookingDest: "Porto"
 ---
 

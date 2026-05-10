@@ -5,7 +5,7 @@ description: "Sydney has 5 distinct areas: CBD and Circular Quay for the icons, 
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/sydney.jpg"
+heroImage: "/img/blog/where-to-stay-sydney.jpg"
 bookingDest: "Sydney"
 ---
 

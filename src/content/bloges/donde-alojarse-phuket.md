@@ -5,7 +5,7 @@ description: "Phuket tiene 5 zonas de playa con caracteres completamente distint
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/phuket.jpg"
+heroImage: "/img/blog/donde-alojarse-phuket.jpg"
 bookingDest: "Phuket"
 ---
 

@@ -5,7 +5,7 @@ description: "Toronto hat 5 Stadtviertel mit eigenem Charakter: Downtown Core mi
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/toronto.jpg"
+heroImage: "/img/blog/wo-uebernachten-toronto.jpg"
 bookingDest: "Toronto"
 ---
 

@@ -5,7 +5,7 @@ description: "Kuala Lumpur hat Stadtteile für jeden Geldbeutel: KLCC mit Petron
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/kuala-lumpur.jpg"
+heroImage: "/img/blog/wo-uebernachten-kuala-lumpur.jpg"
 bookingDest: "Kuala Lumpur"
 ---
 

@@ -5,7 +5,7 @@ description: "Mailand hat 5 sehr unterschiedliche Viertel: Duomo-Zentrum tourist
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/milan.jpg"
+heroImage: "/img/blog/wo-uebernachten-mailand.jpg"
 bookingDest: "Milan"
 ---
 

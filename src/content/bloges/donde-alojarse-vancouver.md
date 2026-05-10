@@ -5,7 +5,7 @@ description: "Vancouver tiene 5 barrios con carácter propio: el central Downtow
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/vancouver.jpg"
+heroImage: "/img/blog/donde-alojarse-vancouver.jpg"
 bookingDest: "Vancouver"
 ---
 

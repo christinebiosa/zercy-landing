@@ -5,7 +5,7 @@ description: "Venedig hat 6 Sestieri mit eigenem Charakter: San Marco, Dorsoduro
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/venice.jpg"
+heroImage: "/img/blog/wo-uebernachten-venedig.jpg"
 bookingDest: "Venice"
 ---
 

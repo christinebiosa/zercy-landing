@@ -5,7 +5,7 @@ description: "Karen or Westlands? The best Nairobi hotels by neighborhood. Hones
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/nairobi.jpg"
+heroImage: "/img/blog/where-to-stay-nairobi.jpg"
 bookingDest: "Nairobi"
 ---
 

@@ -5,7 +5,7 @@ description: "Osaka has 5 distinct neighborhoods: Namba for nightlife and street
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/osaka.jpg"
+heroImage: "/img/blog/where-to-stay-osaka.jpg"
 bookingDest: "Osaka"
 ---
 

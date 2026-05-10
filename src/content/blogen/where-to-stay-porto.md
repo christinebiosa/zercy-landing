@@ -5,7 +5,7 @@ description: "Porto has 5 distinct neighborhoods: UNESCO Ribeira waterfront, win
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/porto.jpg"
+heroImage: "/img/blog/where-to-stay-porto.jpg"
 bookingDest: "Porto"
 ---
 

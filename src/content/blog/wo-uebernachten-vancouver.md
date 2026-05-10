@@ -5,7 +5,7 @@ description: "Vancouver hat 5 Viertel mit eigenem Charakter: das zentrale Downto
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/vancouver.jpg"
+heroImage: "/img/blog/wo-uebernachten-vancouver.jpg"
 bookingDest: "Vancouver"
 ---
 

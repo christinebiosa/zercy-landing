@@ -5,7 +5,7 @@ description: "Toronto has 5 neighborhoods with distinct characters: Downtown Cor
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/toronto.jpg"
+heroImage: "/img/blog/where-to-stay-toronto.jpg"
 bookingDest: "Toronto"
 ---
 

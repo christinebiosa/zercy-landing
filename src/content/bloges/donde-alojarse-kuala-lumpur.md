@@ -5,7 +5,7 @@ description: "Kuala Lumpur tiene barrios para cada presupuesto: KLCC con las Tor
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/kuala-lumpur.jpg"
+heroImage: "/img/blog/donde-alojarse-kuala-lumpur.jpg"
 bookingDest: "Kuala Lumpur"
 ---
 

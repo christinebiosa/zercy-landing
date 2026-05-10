@@ -5,7 +5,7 @@ description: "Stockholm hat 5 Stadtteile mit eigenem Charakter: die Altstadt Gam
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/stockholm.jpg"
+heroImage: "/img/blog/wo-uebernachten-stockholm.jpg"
 bookingDest: "Stockholm"
 ---
 

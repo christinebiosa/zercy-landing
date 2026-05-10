@@ -5,7 +5,7 @@ description: "Valencia tiene 5 barrios con carácter propio: el medieval Barrio 
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/valencia.jpg"
+heroImage: "/img/blog/donde-alojarse-valencia.jpg"
 bookingDest: "Valencia"
 ---
 

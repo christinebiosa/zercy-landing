@@ -5,7 +5,7 @@ description: "Osaka hat 5 Stadtteile mit komplett anderem Charakter: Namba für 
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/osaka.jpg"
+heroImage: "/img/blog/wo-uebernachten-osaka.jpg"
 bookingDest: "Osaka"
 ---
 

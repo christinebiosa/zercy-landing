@@ -5,7 +5,7 @@ description: "Venecia tiene 6 sestieri con carácter propio: el icónico San Mar
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/venice.jpg"
+heroImage: "/img/blog/donde-alojarse-venecia.jpg"
 bookingDest: "Venice"
 ---
 

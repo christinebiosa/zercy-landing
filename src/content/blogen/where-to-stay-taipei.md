@@ -5,7 +5,7 @@ description: "Taipei has 5 districts with distinct characters: central Zhongzhen
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/taipei.jpg"
+heroImage: "/img/blog/where-to-stay-taipei.jpg"
 bookingDest: "Taipei"
 ---
 
