@@ -5,7 +5,7 @@ description: "Amex Platinum, Miles & More oder IHG Rewards: Welche Reise-Kreditk
 pubDate: 2026-05-09
 category: "Clever Reisen"
 readingTime: 6
-heroImage: "/img/blog/miles-points.jpg"
+heroImage: "/img/blog/beste-reise-kreditkarten-2026.jpg"
 ---
 
 Eine gute Reise-Kreditkarte zahlt sich buchstäblich aus. Wer regelmäßig fliegt, Hotels bucht oder viel im Ausland unterwegs ist, kann mit der richtigen Karte Hunderte Euro im Jahr sparen oder in kostenlose Upgrades verwandeln. Das Problem: Das Angebot ist unübersichtlich, die Jahresgebühren sind hoch, und die Versprechen klingen oft besser als sie sind.

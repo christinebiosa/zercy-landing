@@ -5,7 +5,7 @@ description: "La ruta más probada para visitar Tailandia en 2 semanas: Bangkok,
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 9
-heroImage: "/img/blog/thailand.jpg"
+heroImage: "/img/blog/tailandia-2-semanas-ruta.jpg"
 bookingDest: "Bangkok"
 ---
 

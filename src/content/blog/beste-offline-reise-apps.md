@@ -5,7 +5,7 @@ description: "Kein WLAN, kein Problem: Die besten Offline-Apps für Karten, Rout
 pubDate: 2026-05-09
 category: "Clever Reisen"
 readingTime: 5
-heroImage: "/img/blog/travel-apps.jpg"
+heroImage: "/img/blog/beste-offline-reise-apps.jpg"
 ---
 
 Du landest in einem Bahnhof in Marokko. Kein lokales Datennetz. Das Hotel-WLAN funktioniert erst, wenn du eingecheckt bist. Und du weißt ungefähr, wo dein Hotel liegt, aber nicht genau. In diesem Moment entscheidet dein Smartphone, ob es nützlich ist oder nicht.

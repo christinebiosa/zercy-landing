@@ -5,7 +5,7 @@ description: "Marokko Roadtrip: Von Marrakesch durch den Atlas bis zur Sahara. R
 pubDate: 2026-05-09
 category: "Unterwegs"
 readingTime: 7
-heroImage: "/img/blog/marrakech.jpg"
+heroImage: "/img/blog/marokko-roadtrip.jpg"
 ---
 
 Marokko ist das Reiseziel, das Europa am nächsten liegt und sich gleichzeitig am weitesten entfernt anfühlt. Zwei Stunden Flug von Madrid oder drei Stunden von Frankfurt, und du bist in einer anderen Welt. Labyrinthische Medinas, schneebedeckte Atlasberge, orange leuchtende Sanddünen und eine Gastfreundschaft, die alles überbietet, was du kennst. Ein Roadtrip durch Marokko ist eine der eindrücklichsten Reisen, die du in dieser Region machen kannst.

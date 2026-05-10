@@ -5,7 +5,7 @@ description: "Neuseeland in 2 bis 4 Wochen: Beste Reiseroute, Highlights auf Nor
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 7
-heroImage: "/img/blog/new-zealand.jpg"
+heroImage: "/img/blog/neuseeland-reiseguide.jpg"
 ---
 
 Neuseeland ist eines der wenigen Reiseziele, das wirklich so aussieht, wie man es sich vorstellt. Vulkane, Gletscher, Fjorde, endlose Küsten. Und dazwischen: Schafe. Die Entfernung von Europa ist das einzige echte Problem, denn der Flug dauert zwischen 22 und 26 Stunden, oft mit zwei Stopps. Wer den Aufwand betreibt, wird nicht enttäuscht.

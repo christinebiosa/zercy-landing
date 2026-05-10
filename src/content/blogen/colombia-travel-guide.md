@@ -5,7 +5,7 @@ description: "Colombia 2026: Bogotá, Medellín, Cartagena, Zona Cafetera, and T
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 7
-heroImage: "/img/blog/cartagena.jpg"
+heroImage: "/img/blog/colombia-travel-guide.jpg"
 ---
 
 Colombia has spent the last decade steadily shedding a reputation it no longer deserves. The era of blanket travel warnings is over. What you find today is a country of extraordinary diversity: a tropical Caribbean coast, cooler Andean cities sitting at 1,500 to 2,600 meters elevation, one of the most biodiverse national parks in South America, and an urban energy in Medellín and Bogotá that has earned global recognition.

@@ -5,7 +5,7 @@ description: "¿Merecen la pena las Airbnb Experiences o es mejor una excursión
 pubDate: 2026-05-09
 category: "Consejos de viaje"
 readingTime: 7
-heroImage: "/img/blog/apartment-vs-hotel.jpg"
+heroImage: "/img/blog/airbnb-experiences-vale-la-pena.jpg"
 ---
 
 Las Airbnb Experiences existen desde 2016. La promesa era atractiva: actividades únicas organizadas por locales, no por agencias de turismo masivo. La realidad es más matizada. Algunas son extraordinarias. Otras son exactamente lo que querías evitar: grupos de 15 personas, guía que repite el mismo guión de memoria, precio que no justifica lo que recibes. La diferencia está en saber cuáles son cuáles.

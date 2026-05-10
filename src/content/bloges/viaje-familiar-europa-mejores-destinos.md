@@ -5,7 +5,7 @@ description: "Los mejores destinos europeos para viaje familiar en 2026. Recomen
 pubDate: 2026-05-09
 category: "Consejos de viaje"
 readingTime: 8
-heroImage: "/img/blog/family-vacation.jpg"
+heroImage: "/img/blog/viaje-familiar-europa-mejores-destinos.jpg"
 bookingDest: "generic"
 ---
 

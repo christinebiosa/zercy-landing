@@ -5,7 +5,7 @@ description: "Morocco road trip: Marrakech through the Atlas Mountains to the Sa
 pubDate: 2026-05-09
 category: "On the Move"
 readingTime: 7
-heroImage: "/img/blog/marrakech.jpg"
+heroImage: "/img/blog/morocco-road-trip.jpg"
 ---
 
 Morocco is the destination that sits closest to Europe and feels furthest away. Two hours from Madrid. Three from Frankfurt. And then you are somewhere completely different. Labyrinthine medinas, snow-capped Atlas peaks, burnt-orange sand dunes, and a tradition of hospitality that sets a benchmark few countries match. A road trip through Morocco is one of the most memorable things you can do in this part of the world.

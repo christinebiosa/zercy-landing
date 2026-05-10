@@ -5,7 +5,7 @@ description: "Antalya hat 5 sehr verschiedene Bereiche: historisches Kaleiçi, d
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/antalya.jpg"
+heroImage: "/img/blog/wo-uebernachten-antalya.jpg"
 bookingDest: "Antalya"
 ---
 

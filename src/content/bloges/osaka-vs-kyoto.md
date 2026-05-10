@@ -5,7 +5,7 @@ description: "Osaka o Kyoto: la guía definitiva para decidir. Gastronomía, tem
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 8
-heroImage: "/img/blog/kyoto.jpg"
+heroImage: "/img/blog/osaka-vs-kyoto.jpg"
 bookingDest: "Japón"
 ---
 

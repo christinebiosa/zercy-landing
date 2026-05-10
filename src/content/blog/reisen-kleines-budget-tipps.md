@@ -5,7 +5,7 @@ description: "Günstig reisen ohne auf alles zu verzichten: 10 echte Strategien 
 pubDate: 2026-05-09
 category: "Clever Reisen"
 readingTime: 7
-heroImage: "/img/blog/budget-travel.jpg"
+heroImage: "/img/blog/reisen-kleines-budget-tipps.jpg"
 ---
 
 Budget-Reisen ist keine Verzichtsliste. Es ist eine Prioritätsliste. Du entscheidest nicht "ich kann mir das nicht leisten". Du entscheidest "das ist mir das Geld nicht wert, das andere schon".

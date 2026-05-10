@@ -5,7 +5,7 @@ description: "¿Cómo saber si un hostel vale la pena antes de reservar? Qué mi
 pubDate: 2026-05-09
 category: "Viaje inteligente"
 readingTime: 7
-heroImage: "/img/blog/budget-travel.jpg"
+heroImage: "/img/blog/guia-reservar-hostel.jpg"
 ---
 
 Reservar un hostel mal elegido puede arruinar una semana de viaje. Un hostel bien elegido, en cambio, puede ser lo mejor del viaje: gente interesante, ubicación perfecta, ambiente que un hotel de cadena nunca va a tener. La diferencia entre las dos experiencias no es el presupuesto. Es saber qué mirar.

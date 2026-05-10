@@ -5,7 +5,7 @@ description: "Cómo funcionan los programas de viajero frecuente. Millas, puntos
 pubDate: 2026-05-09
 category: "Viaje inteligente"
 readingTime: 7
-heroImage: "/img/blog/miles-points.jpg"
+heroImage: "/img/blog/millas-puntos-principiantes.jpg"
 ---
 
 Millas, puntos, segmentos, status, award charts. El mundo de los programas de viajero frecuente tiene su propio idioma y sus propias reglas. La buena noticia: no necesitas volar constantemente para empezar a acumular. Esta guía explica los conceptos básicos y los primeros pasos concretos.

@@ -5,7 +5,7 @@ description: "New Zealand in 2 to 4 weeks: Best itinerary, highlights on North a
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 7
-heroImage: "/img/blog/new-zealand.jpg"
+heroImage: "/img/blog/new-zealand-travel-guide.jpg"
 ---
 
 New Zealand looks exactly like you imagine it will. Volcanoes, glaciers, fjords, and coastlines that go on forever. The only real obstacle is the distance: from Europe or North America, you are looking at a 22 to 26 hour journey, often with two layovers. That makes it a serious commitment. But travelers who make the trip rarely regret it.

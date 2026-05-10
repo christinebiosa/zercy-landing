@@ -5,7 +5,7 @@ description: "Wien in 48 Stunden: Hofburg, Schönbrunn, Naschmarkt und Kaffeehau
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 6
-heroImage: "/img/blog/vienna.jpg"
+heroImage: "/img/blog/wien-am-wochenende.jpg"
 ---
 
 Wien ist eine Stadt, die du entweder sofort liebst oder unterschätzt. Wer erwartet, was er aus Reiseführern kennt, bekommt Prunk und Geschichte. Wer genauer hinschaut, findet eine lebendige Metropole mit hervorragender Esskultur, einer der besten Kulturszenen Europas und einem ganz eigenen Tempo. Zwei Tage reichen für einen ersten Eindruck, der bleibt.

@@ -5,7 +5,7 @@ description: "Viena en 48 horas: Kunsthistorisches Museum, Schönbrunn, Albertin
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7
-heroImage: "/img/blog/vienna.jpg"
+heroImage: "/img/blog/viena-fin-de-semana.jpg"
 bookingDest: "Viena"
 ---
 

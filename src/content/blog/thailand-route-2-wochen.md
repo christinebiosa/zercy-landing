@@ -5,7 +5,7 @@ description: "Thailand in 2 Wochen: Die bewährteste Route von Bangkok über Chi
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 9
-heroImage: "/img/blog/thailand.jpg"
+heroImage: "/img/blog/thailand-route-2-wochen.jpg"
 bookingDest: "Bangkok"
 ---
 

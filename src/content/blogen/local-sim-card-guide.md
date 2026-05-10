@@ -5,7 +5,7 @@ description: "eSIM vs local SIM vs EU roaming: an honest comparison with real co
 pubDate: 2026-05-09
 category: "Smart Travel"
 readingTime: 6
-heroImage: "/img/blog/travel-apps.jpg"
+heroImage: "/img/blog/local-sim-card-guide.jpg"
 ---
 
 You land at the airport, turn on your phone, see your carrier's roaming rates, and immediately put it back in your pocket. Most travelers know this feeling. The good news is that you have better options today, and the price differences are significant enough to make it worth a few minutes of planning before you leave home.

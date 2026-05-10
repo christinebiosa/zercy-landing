@@ -5,7 +5,7 @@ description: "¿Qué apps de viaje funcionan offline? Maps.me, Google Maps sin c
 pubDate: 2026-05-09
 category: "Viaje inteligente"
 readingTime: 6
-heroImage: "/img/blog/travel-apps.jpg"
+heroImage: "/img/blog/mejores-apps-viaje-sin-internet.jpg"
 ---
 
 Aterrizar en un país nuevo, encender el móvil y no tener conexión a internet es una situación que sigue ocurriendo. La tarjeta SIM local que comprarás en el aeropuerto todavía no está activada. El wifi del hotel es la primera cosa que preguntas al hacer check-in. En ese intervalo, y en muchos momentos más del viaje, las apps offline son lo que separa la confusión de la calma.

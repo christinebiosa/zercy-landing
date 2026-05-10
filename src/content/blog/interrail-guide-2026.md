@@ -5,7 +5,7 @@ description: "Interrail 2026: Global Pass vs. Country Pass, wann sich der Pass l
 pubDate: 2026-05-09
 category: "Unterwegs"
 readingTime: 7
-heroImage: "/img/blog/train-europe.jpg"
+heroImage: "/img/blog/interrail-guide-2026.jpg"
 ---
 
 Interrail ist zurück. Nach Jahren des Rückgangs erlebt das Bahnreisen in Europa gerade eine echte Renaissance. Nachtzüge werden reaktiviert, neue Verbindungen entstehen, und immer mehr Reisende wollen weg vom Billigflug und hin zu einer langsameren, entspannteren Art zu reisen. Interrail ist dabei eine der bekanntesten Optionen. Aber lohnt sich der Pass wirklich? Und wann nicht?

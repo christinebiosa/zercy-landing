@@ -5,7 +5,7 @@ description: "Kyoto hat 5 sehr verschiedene Stadtteile: Gion für Geisha-Atmosph
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/kyoto.jpg"
+heroImage: "/img/blog/wo-uebernachten-kyoto.jpg"
 bookingDest: "Kyoto"
 ---
 

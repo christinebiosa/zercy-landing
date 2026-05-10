@@ -5,7 +5,7 @@ description: "Old City or Nimman? The best hotels in Chiang Mai by neighborhood.
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/chiang-mai.jpg"
+heroImage: "/img/blog/where-to-stay-chiang-mai.jpg"
 bookingDest: "Chiang Mai"
 ---
 

@@ -5,7 +5,7 @@ description: "Vietnam in 2 Wochen: Von Hanoi über die Halong Bay und Hoi An bis
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 7
-heroImage: "/img/blog/vietnam.jpg"
+heroImage: "/img/blog/vietnam-2-wochen-route.jpg"
 ---
 
 Vietnam ist eines der zugänglichsten und gleichzeitig vielfältigsten Reiseziele in Südostasien. Auf 1.600 Kilometern Länge wechseln sich Megastädte, Reisterrassen, Küstenorte und tropische Flussdeltas ab. Zwei Wochen sind das Minimum, um die Bandbreite dieses Landes zu erfassen, und sie sind gut investiert.

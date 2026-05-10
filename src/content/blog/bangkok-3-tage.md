@@ -5,7 +5,7 @@ description: "Bangkok in 3 Tagen: Tempeldreieck, Chatuchak, Chinatown und Skybar
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 7
-heroImage: "/img/blog/bangkok.jpg"
+heroImage: "/img/blog/bangkok-3-tage.jpg"
 bookingDest: "Bangkok"
 ---
 

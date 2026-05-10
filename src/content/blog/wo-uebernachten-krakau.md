@@ -5,7 +5,7 @@ description: "Stare Miasto oder Kazimierz? Die besten Hotels in Krakau nach Vier
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/krakow.jpg"
+heroImage: "/img/blog/wo-uebernachten-krakau.jpg"
 bookingDest: "Krakau"
 ---
 

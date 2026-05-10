@@ -5,7 +5,7 @@ description: "Lima, Machu Picchu, Cusco, Colca Canyon, Lake Titicaca: this Peru 
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 8
-heroImage: "/img/blog/peru.jpg"
+heroImage: "/img/blog/peru-travel-guide-highlights.jpg"
 bookingDest: "Peru"
 ---
 

@@ -5,7 +5,7 @@ description: "Goldene Stunde, Rule of Thirds, Menschenmassen vermeiden: Reisefot
 pubDate: 2026-05-09
 category: "Reisetipps"
 readingTime: 5
-heroImage: "/img/blog/travel-photography.jpg"
+heroImage: "/img/blog/reisefotografie-tipps.jpg"
 ---
 
 Die meisten Reisefotos sehen nach nichts aus. Nicht wegen der Kamera, sondern wegen des Lichts, des Winkels und des Timings. Wer versteht, wie gute Reisefotografie entsteht, macht bessere Bilder mit jedem Smartphone. Das Gerät in der Tasche ist selten das Problem.

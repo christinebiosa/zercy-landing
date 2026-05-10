@@ -5,7 +5,7 @@ description: "Ruta Vietnam en 2 semanas: Hanói, Bahía de Halong, Hoi An y Ho C
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 7
-heroImage: "/img/blog/vietnam.jpg"
+heroImage: "/img/blog/vietnam-2-semanas-ruta.jpg"
 bookingDest: "Vietnam"
 ---
 

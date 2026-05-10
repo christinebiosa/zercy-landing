@@ -5,7 +5,7 @@ description: "Chicago hat 5 Stadtteile mit eigenem Charakter: The Loop mit dem M
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/chicago.jpg"
+heroImage: "/img/blog/wo-uebernachten-chicago.jpg"
 bookingDest: "Chicago"
 ---
 

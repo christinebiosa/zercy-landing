@@ -5,7 +5,7 @@ description: "No wifi, no problem: the best offline apps for maps, routes, trans
 pubDate: 2026-05-09
 category: "Smart Travel"
 readingTime: 5
-heroImage: "/img/blog/travel-apps.jpg"
+heroImage: "/img/blog/best-offline-travel-apps.jpg"
 ---
 
 You land at a train station in Morocco. No local data. The hotel wifi does not kick in until you check in. You know roughly where your hotel is, but not exactly. In that moment, your phone either helps or it does not.

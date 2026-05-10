@@ -5,7 +5,7 @@ description: "Osaka or Kyoto? Food and nightlife against temples and tradition. 
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 7
-heroImage: "/img/blog/kyoto.jpg"
+heroImage: "/img/blog/osaka-vs-kyoto.jpg"
 bookingDest: "Japan"
 ---
 

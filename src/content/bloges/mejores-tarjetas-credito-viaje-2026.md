@@ -5,7 +5,7 @@ description: "Millas, acceso a salas VIP y seguros de viaje: comparamos las mejo
 pubDate: 2026-05-09
 category: "Viaje inteligente"
 readingTime: 7
-heroImage: "/img/blog/miles-points.jpg"
+heroImage: "/img/blog/mejores-tarjetas-credito-viaje-2026.jpg"
 ---
 
 Tienes un vuelo largo por delante. El aeropuerto está lleno, las sillas de la sala de espera son incómodas y faltan tres horas para el embarque. En ese momento, una tarjeta de crédito puede cambiarlo todo: acceso a una sala VIP con comida, bebidas y WiFi. No es un lujo reservado solo para quien viaja en business. Es cuestión de tener la tarjeta correcta.

@@ -5,7 +5,7 @@ description: "Austria, Switzerland, France, Italy, or Bulgaria: which European s
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 7
-heroImage: "/img/blog/ski-resort.jpg"
+heroImage: "/img/blog/ski-holidays-europe-best-resorts.jpg"
 ---
 
 Ski holidays in Europe cover an enormous range. Pick the wrong resort and you are bored after two days, or out of your depth, or paying three times what you needed to. Pick the right one at the right time and it is one of the best week-long trips you can take.

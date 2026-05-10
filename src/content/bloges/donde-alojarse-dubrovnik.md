@@ -5,7 +5,7 @@ description: "¿Ciudad Vieja o Lapad? Los mejores hoteles en Dubrovnik por barri
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/dubrovnik.jpg"
+heroImage: "/img/blog/donde-alojarse-dubrovnik.jpg"
 bookingDest: "Dubrovnik"
 ---
 

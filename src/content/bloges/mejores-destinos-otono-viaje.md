@@ -5,7 +5,7 @@ description: "Los mejores destinos para viajar en otoño 2026: calor en octubre,
 pubDate: 2026-05-09
 category: "Consejos de viaje"
 readingTime: 7
-heroImage: "/img/blog/autumn-travel.jpg"
+heroImage: "/img/blog/mejores-destinos-otono-viaje.jpg"
 bookingDest: "generic"
 ---
 

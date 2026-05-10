@@ -5,7 +5,7 @@ description: "¿Zermatt, Chamonix, St. Anton o Cortina? Las mejores estaciones d
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 8
-heroImage: "/img/blog/ski-resort.jpg"
+heroImage: "/img/blog/vacaciones-ski-europa-mejores-destinos.jpg"
 ---
 
 Europa tiene algunas de las mejores estaciones de esquí del mundo. También algunas de las más caras, las más masificadas y las que prometen más de lo que cumplen. La diferencia entre una semana perfecta en la nieve y una semana de frustración está en elegir bien la estación para tu nivel, tu presupuesto y el tipo de viaje que buscas. Esta guía va al grano.

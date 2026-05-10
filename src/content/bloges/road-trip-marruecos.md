@@ -5,7 +5,7 @@ description: "Road trip por Marruecos: Marrakech, desierto Merzouga y Fez. Qué 
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7
-heroImage: "/img/blog/marrakech.jpg"
+heroImage: "/img/blog/road-trip-marruecos.jpg"
 bookingDest: "Marruecos"
 ---
 

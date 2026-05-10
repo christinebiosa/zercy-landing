@@ -5,7 +5,7 @@ description: "Qué ver en Estambul en 2 días: Hagia Sofía, Mezquita Azul, Beyo
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7
-heroImage: "/img/blog/istanbul.jpg"
+heroImage: "/img/blog/48-horas-estambul.jpg"
 bookingDest: "Estambul"
 ---
 

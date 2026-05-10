@@ -5,7 +5,7 @@ description: "Consejos de fotografía de viaje para no profesionales. Cómo mejo
 pubDate: 2026-05-09
 category: "Consejos de viaje"
 readingTime: 7
-heroImage: "/img/blog/travel-photography.jpg"
+heroImage: "/img/blog/fotografia-viaje-consejos.jpg"
 ---
 
 No necesitas una cámara cara ni años de experiencia para volver de un viaje con fotos que valgan la pena. Necesitas entender unas pocas cosas básicas y aplicarlas de forma consistente. Esta guía va directo al grano.

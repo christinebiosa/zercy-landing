@@ -5,7 +5,7 @@ description: "EU Regulation 261/2004 explained: when you're entitled to compensa
 pubDate: 2026-05-09
 category: "Travel Tips"
 readingTime: 5
-heroImage: "/img/blog/flight-ticket.jpg"
+heroImage: "/img/blog/flight-delay-rights.jpg"
 ---
 
 Your flight is three hours late. The departure board keeps changing. The airline staff say nothing useful. And you have no idea whether you're entitled to anything. This is one of the most common frustrating experiences in modern travel, and it happens to tens of millions of passengers each year.

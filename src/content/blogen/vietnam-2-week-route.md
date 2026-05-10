@@ -5,7 +5,7 @@ description: "Vietnam in 2 weeks: Hanoi, Halong Bay, Hoi An, Hue, Ho Chi Minh Ci
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 7
-heroImage: "/img/blog/vietnam.jpg"
+heroImage: "/img/blog/vietnam-2-week-route.jpg"
 ---
 
 Vietnam is one of the most rewarding and accessible destinations in Southeast Asia. Stretched across 1,600 kilometers, it moves from mountain-ringed northern cities through ancient coastal towns to sprawling southern megacities and river delta landscapes. Two weeks is the minimum to experience that range properly, and they are two weeks extremely well spent.

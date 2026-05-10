@@ -5,7 +5,7 @@ description: "¿Qué ver en Bangkok en 3 días? Templos, mercados, comida callej
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7
-heroImage: "/img/blog/bangkok.jpg"
+heroImage: "/img/blog/bangkok-3-dias.jpg"
 bookingDest: "Bangkok"
 ---
 

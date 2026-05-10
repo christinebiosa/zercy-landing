@@ -5,7 +5,7 @@ description: "Ho-Chi-Minh-Stadt hat 5 sehr verschiedene Lagen: das koloniale Dis
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/ho-chi-minh.jpg"
+heroImage: "/img/blog/wo-uebernachten-ho-chi-minh-stadt.jpg"
 bookingDest: "Ho Chi Minh City"
 ---
 

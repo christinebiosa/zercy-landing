@@ -5,7 +5,7 @@ description: "¿Cómo viajar bien después de los 60? Seguro médico, destinos a
 pubDate: 2026-05-09
 category: "Consejos de viaje"
 readingTime: 7
-heroImage: "/img/blog/senior-travel.jpg"
+heroImage: "/img/blog/viajar-despues-60-consejos.jpg"
 ---
 
 Viajar después de los 60 tiene ventajas que los viajeros de 25 años no pueden imaginar. Tiempo real. Sin pedir días libres. Sin la presión de aprovechar cada minuto de vacaciones acumuladas durante meses. La paciencia para quedarte tres días en un sitio que merece tres días. El criterio para saber qué vale la pena y qué no. Los 60 son, para muchos, la mejor época de la vida para explorar el mundo. Pero hay algunos elementos prácticos que cambian respecto a décadas anteriores.

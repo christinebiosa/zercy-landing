@@ -5,7 +5,7 @@ description: "The classic Thailand 2-week route: Bangkok, Chiang Mai, and the so
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 9
-heroImage: "/img/blog/thailand.jpg"
+heroImage: "/img/blog/thailand-2-week-itinerary.jpg"
 bookingDest: "Bangkok"
 ---
 

@@ -5,7 +5,7 @@ description: "¿Cuántos días necesitas para ver lo mejor de Perú? Lima, Cusco
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 7
-heroImage: "/img/blog/peru.jpg"
+heroImage: "/img/blog/peru-guia-viaje-highlights.jpg"
 bookingDest: "Perú"
 ---
 

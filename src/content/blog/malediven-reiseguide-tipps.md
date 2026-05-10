@@ -5,7 +5,7 @@ description: "Malediven Reiseguide 2026: Was kostet ein Urlaub wirklich, wann is
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 8
-heroImage: "/img/blog/maldives.jpg"
+heroImage: "/img/blog/malediven-reiseguide-tipps.jpg"
 bookingDest: "Maldives"
 ---
 

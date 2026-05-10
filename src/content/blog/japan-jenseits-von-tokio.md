@@ -5,7 +5,7 @@ description: "Japan über Tokio hinaus entdecken: Kyoto mit Geishas und Tempel, 
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 9
-heroImage: "/img/blog/japan-kyoto.jpg"
+heroImage: "/img/blog/japan-jenseits-von-tokio.jpg"
 bookingDest: "Kyoto"
 ---
 

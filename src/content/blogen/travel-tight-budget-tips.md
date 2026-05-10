@@ -5,7 +5,7 @@ description: "Travel more for less with 10 real budget travel strategies. Where 
 pubDate: 2026-05-09
 category: "Smart Travel"
 readingTime: 7
-heroImage: "/img/blog/budget-travel.jpg"
+heroImage: "/img/blog/travel-tight-budget-tips.jpg"
 ---
 
 Budget travel isn't a list of sacrifices. It's a list of priorities. You're not deciding "I can't afford this." You're deciding "this isn't worth that money to me, but something else is."

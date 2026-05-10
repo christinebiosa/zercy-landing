@@ -5,7 +5,7 @@ description: "Todo sobre el Reglamento CE 261/2004. Qué compensación te corres
 pubDate: 2026-05-09
 category: "Consejos de viaje"
 readingTime: 7
-heroImage: "/img/blog/flight-ticket.jpg"
+heroImage: "/img/blog/retrasos-vuelo-derechos.jpg"
 ---
 
 Tu vuelo sale con tres horas de retraso. O lo cancelan directamente. Conocer tus derechos en ese momento marca la diferencia entre salir con dinero en el bolsillo o quedarte sin nada. Esta guía explica qué te corresponde, cuándo aplica y cómo pedirlo.

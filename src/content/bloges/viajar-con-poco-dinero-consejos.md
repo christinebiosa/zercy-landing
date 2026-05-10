@@ -5,7 +5,7 @@ description: "Viajar más con menos: 10 estrategias reales para viajeros con pre
 pubDate: 2026-05-09
 category: "Viaje inteligente"
 readingTime: 7
-heroImage: "/img/blog/budget-travel.jpg"
+heroImage: "/img/blog/viajar-con-poco-dinero-consejos.jpg"
 ---
 
 Viajar con presupuesto ajustado no es una lista de sacrificios. Es una lista de prioridades. No estás decidiendo "no puedo permitirme esto". Estás decidiendo "esto no vale ese dinero para mí, pero otra cosa sí".

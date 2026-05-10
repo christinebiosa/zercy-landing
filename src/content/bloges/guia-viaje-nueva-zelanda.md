@@ -5,7 +5,7 @@ description: "Isla Norte vs. Isla Sur, campervan o auto de alquiler, Fiordland y
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 7
-heroImage: "/img/blog/new-zealand.jpg"
+heroImage: "/img/blog/guia-viaje-nueva-zelanda.jpg"
 bookingDest: "Nueva Zelanda"
 ---
 

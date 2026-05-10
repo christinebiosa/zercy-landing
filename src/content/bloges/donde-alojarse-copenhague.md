@@ -5,7 +5,7 @@ description: "Copenhague tiene 5 barrios muy distintos: el histórico Indre By, 
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/copenhagen.jpg"
+heroImage: "/img/blog/donde-alojarse-copenhague.jpg"
 bookingDest: "Copenhagen"
 ---
 

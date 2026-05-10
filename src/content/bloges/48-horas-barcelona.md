@@ -5,7 +5,7 @@ description: "Qué ver en Barcelona en 2 días: Sagrada Família, Park Güell, B
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7
-heroImage: "/img/blog/barcelona.jpg"
+heroImage: "/img/blog/48-horas-barcelona.jpg"
 bookingDest: "Barcelona"
 ---
 

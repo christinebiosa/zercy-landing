@@ -5,7 +5,7 @@ description: "Amex Platinum vs Chase Sapphire vs Barclays Avios: Which travel cr
 pubDate: 2026-05-09
 category: "Smart Travel"
 readingTime: 6
-heroImage: "/img/blog/miles-points.jpg"
+heroImage: "/img/blog/best-travel-credit-cards-2026.jpg"
 ---
 
 A good travel credit card pays for itself. If you fly regularly, book hotels, or spend time abroad, the right card can save you hundreds of euros or dollars per year, or convert your everyday spending into upgrades and free flights. The challenge is that the market is cluttered, annual fees are steep, and the promises often sound more appealing than they really are.
