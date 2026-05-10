@@ -57,10 +57,10 @@ const existingCats = new Set(posts.map(p => p.data.category));
 const categories = categoryOrder.filter(c => existingCats.has(c));
 
 const destinationPosts = [...posts]
-  .filter(p => p.data.category === 'Wo übernachten' && p.data.heroImage)
+  .filter(p => p.id.startsWith('wo-uebernachten-') && p.data.heroImage)
   .sort((a, b) => {
-    const nameA = a.data.title.match(/Beste Hotels (?:in|auf|im|an) (.+?):/)?.[1] ?? a.data.title;
-    const nameB = b.data.title.match(/Beste Hotels (?:in|auf|im|an) (.+?):/)?.[1] ?? b.data.title;
+    const nameA = a.data.title.match(/Beste Hotels (?:in|auf|im|an|am) (.+?):/)?.[1] ?? a.data.title;
+    const nameB = b.data.title.match(/Beste Hotels (?:in|auf|im|an|am) (.+?):/)?.[1] ?? b.data.title;
     return nameA.localeCompare(nameB, 'de');
   });
 ---
