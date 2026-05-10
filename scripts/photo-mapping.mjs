@@ -492,6 +492,32 @@ export const slugToTopic = {
   'japan-jenseits-von-tokio': 'japan-kyoto',
   'japan-beyond-tokyo-guide': 'japan-kyoto',
   'japon-mas-alla-de-tokio': 'japan-kyoto',
+
+  // ===== REPLACEMENT BATCH (2026-05-09) — replaces deleted forbidden destinations =====
+  // Dubrovnik
+  'wo-uebernachten-dubrovnik': 'dubrovnik',
+  'where-to-stay-dubrovnik': 'dubrovnik',
+  'donde-alojarse-dubrovnik': 'dubrovnik',
+  // Reykjavik
+  'wo-uebernachten-reykjavik': 'reykjavik',
+  'where-to-stay-reykjavik': 'reykjavik',
+  'donde-alojarse-reikiavik': 'reykjavik',
+  // Krakow
+  'wo-uebernachten-krakau': 'krakow',
+  'where-to-stay-krakow': 'krakow',
+  'donde-alojarse-cracovia': 'krakow',
+  // Valletta
+  'wo-uebernachten-valletta': 'valletta',
+  'where-to-stay-valletta': 'valletta',
+  'donde-alojarse-la-valeta': 'valletta',
+  // Chiang Mai
+  'wo-uebernachten-chiang-mai': 'chiang-mai',
+  'where-to-stay-chiang-mai': 'chiang-mai',
+  'donde-alojarse-chiang-mai': 'chiang-mai',
+  // Nairobi
+  'wo-uebernachten-nairobi': 'nairobi',
+  'where-to-stay-nairobi': 'nairobi',
+  'donde-alojarse-nairobi': 'nairobi',
 };
 
 // Topic key -> Unsplash search query (used when downloading)
@@ -638,4 +664,11 @@ export const topicToQuery = {
   'kyoto': 'kyoto japan temple bamboo garden',
   'tbilisi': 'tbilisi georgia old town church sulfur',
   'valencia': 'valencia spain city arts sciences',
+  // Replacement batch (2026-05-09)
+  'dubrovnik': 'dubrovnik croatia old town adriatic walls',
+  'reykjavik': 'reykjavik iceland colorful houses hallgrimskirkja',
+  'krakow': 'krakow poland old town main market square',
+  'valletta': 'valletta malta grand harbour baroque architecture',
+  'chiang-mai': 'chiang mai thailand temple wat',
+  'nairobi': 'nairobi kenya skyline africa city modern',
 };
