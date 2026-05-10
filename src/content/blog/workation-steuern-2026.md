@@ -5,6 +5,7 @@ description: "Workation aus Bali oder Lissabon klingt nach Freiheit. Aber wann w
 pubDate: 2026-04-28
 category: "Business Travel"
 readingTime: 8
+heroImage: "/img/blog/workation.jpg"
 bookingDest: "Bali"
 ---
 

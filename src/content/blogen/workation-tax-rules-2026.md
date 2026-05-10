@@ -5,6 +5,7 @@ description: "Working remotely from Bali or Lisbon sounds like freedom. But when
 pubDate: 2026-04-28
 category: "Business Travel"
 readingTime: 8
+heroImage: "/img/blog/workation.jpg"
 bookingDest: "Bali"
 ---
 
