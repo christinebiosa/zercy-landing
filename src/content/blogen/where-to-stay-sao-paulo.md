@@ -5,7 +5,7 @@ description: "Where to stay in São Paulo? Jardins for safety and restaurants, V
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-sao-paulo.jpg"
+heroImage: "/img/blog/sao-paulo.jpg"
 bookingDest: "São Paulo"
 ---
 

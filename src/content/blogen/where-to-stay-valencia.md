@@ -5,7 +5,7 @@ description: "Valencia has 5 neighborhoods: medieval Barrio del Carmen, beach-si
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-valencia.jpg"
+heroImage: "/img/blog/valencia.jpg"
 bookingDest: "Valencia"
 ---
 

@@ -5,7 +5,7 @@ description: "Consigue un upgrade de hotel gratis: 7 métodos que de verdad func
 pubDate: 2026-05-09
 category: "Viaje inteligente"
 readingTime: 7
-heroImage: "/img/blog/trucos-upgrade-hotel-gratis.jpg"
+heroImage: "/img/blog/hotel-upgrade.jpg"
 ---
 
 Hay viajeros que hacen check-in en hoteles y regularmente los trasladan a habitaciones mejores. Gratis. Sin quejarse. Sin trucos especiales. Y luego están todos los demás.

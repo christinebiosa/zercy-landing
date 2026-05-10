@@ -5,7 +5,7 @@ description: "Was hilft wirklich bei Langstreckenflügen mit Kindern? Ausrüstun
 pubDate: 2026-05-09
 category: "Reisetipps"
 readingTime: 6
-heroImage: "/img/blog/langstreckenflug-mit-kindern.jpg"
+heroImage: "/img/blog/baby-travel.jpg"
 ---
 
 Ein Langstreckenflug mit Kindern ist kein Urlaub. Das ist die ehrliche Wahrheit. Es ist ein logistischer Kraftakt, der vor, während und nach dem Flug gut geplant sein will. Aber er ist machbar, und er lohnt sich: Australien, Japan, die Karibik, Nordamerika. Mit Kindern dorthin zu fliegen ist kein Versprechen auf Entspannung, aber es ist ein echtes Abenteuer.

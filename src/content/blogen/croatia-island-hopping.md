@@ -5,7 +5,7 @@ description: "Split, Hvar, Brač, Vis, Korčula: everything you need to plan you
 pubDate: 2026-05-09
 category: "On the Move"
 readingTime: 6
-heroImage: "/img/blog/croatia-island-hopping.jpg"
+heroImage: "/img/blog/croatia-islands.jpg"
 ---
 
 Croatia has over 1,000 islands along its Dalmatian coast, and island hopping is one of the best ways to experience the country. Each island has its own character: some are wild and quiet, others are lively and full of restaurants. Staying on just one means missing the full picture.

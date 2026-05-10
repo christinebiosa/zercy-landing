@@ -5,7 +5,7 @@ description: "Ho Chi Minh City has 5 distinct areas: colonial District 1 with ma
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-ho-chi-minh-city.jpg"
+heroImage: "/img/blog/ho-chi-minh.jpg"
 bookingDest: "Ho Chi Minh City"
 ---
 

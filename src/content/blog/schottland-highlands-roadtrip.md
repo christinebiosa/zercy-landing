@@ -5,7 +5,7 @@ description: "North Coast 500, Isle of Skye, Glencoe und Loch Ness: Der komplett
 pubDate: 2026-05-09
 category: "Unterwegs"
 readingTime: 7
-heroImage: "/img/blog/schottland-highlands-roadtrip.jpg"
+heroImage: "/img/blog/scotland.jpg"
 ---
 
 Die schottischen Highlands gehören zu den dramatischsten Landschaften Europas. Kahle Bergkuppen, dunkle Seen, verfallene Burgen und Küstenabschnitte, die aussehen, als hätte sie jemand aus einem Roman ausgeschnitten. Und das alles ist mit dem Auto zugänglich. Kein teures Flugzeug, keine überfüllten Touristenpfade, kein Massentourismus.

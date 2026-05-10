@@ -5,7 +5,7 @@ description: "Sydney hat 5 sehr verschiedene Stadtteile: CBD am Hafen, Bondi Bea
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-sydney.jpg"
+heroImage: "/img/blog/sydney.jpg"
 bookingDest: "Sydney"
 ---
 

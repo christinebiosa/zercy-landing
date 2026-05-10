@@ -5,7 +5,7 @@ description: "Brussels has 5 distinct neighborhoods: Grand Place for first-timer
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-brussels.jpg"
+heroImage: "/img/blog/brussels.jpg"
 bookingDest: "Brussels"
 ---
 

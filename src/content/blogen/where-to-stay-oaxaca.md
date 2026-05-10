@@ -5,7 +5,7 @@ description: "Oaxaca has 5 distinct neighborhoods: Historic Centre for best loca
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-oaxaca.jpg"
+heroImage: "/img/blog/oaxaca.jpg"
 bookingDest: "Oaxaca"
 ---
 

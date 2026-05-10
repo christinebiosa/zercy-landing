@@ -5,7 +5,7 @@ description: "¿Dónde alojarse en São Paulo? Jardins para seguridad y restaura
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-sao-paulo.jpg"
+heroImage: "/img/blog/sao-paulo.jpg"
 bookingDest: "São Paulo"
 ---
 

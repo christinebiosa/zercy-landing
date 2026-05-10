@@ -5,7 +5,7 @@ description: "Familienurlaub Europa 2026: Welche Ziele funktionieren mit Kleinki
 pubDate: 2026-05-09
 category: "Reisetipps"
 readingTime: 8
-heroImage: "/img/blog/familienurlaub-europa-ziele.jpg"
+heroImage: "/img/blog/family-vacation.jpg"
 bookingDest: "generic"
 ---
 

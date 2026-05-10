@@ -5,7 +5,7 @@ description: "Ryanair, easyJet, Lufthansa: Gepäckgebühren 2026 im Vergleich. W
 pubDate: 2026-05-09
 category: "Nur mit Handgepäck"
 readingTime: 5
-heroImage: "/img/blog/handgepaeck-vs-aufgegebenes-gepaeck.jpg"
+heroImage: "/img/blog/carry-on-bag.jpg"
 ---
 
 Die Frage stellt sich bei jeder Buchung: Reicht das Handgepäck, oder brauche ich den Koffer? Die Antwort hängt mehr von Kosten, Reisedauer und Airline als von der Koffergröße ab. Denn wer beim Buchen nicht aufpasst, zahlt für einen Koffer manchmal mehr als für den Flug selbst.

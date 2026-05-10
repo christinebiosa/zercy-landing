@@ -5,7 +5,7 @@ description: "Ryanair, easyJet, Lufthansa baggage fees 2026 compared. When carry
 pubDate: 2026-05-09
 category: "Carry-On Only"
 readingTime: 5
-heroImage: "/img/blog/carry-on-vs-checked-luggage.jpg"
+heroImage: "/img/blog/carry-on-bag.jpg"
 ---
 
 Every time you book a flight, the same question comes up. Do you need the checked bag, or can you get away with a carry-on? It sounds simple. But with budget airlines charging wildly different rates and hidden fees appearing at the gate, getting this wrong can be expensive.

@@ -5,7 +5,7 @@ description: "Playa del Carmen has 5 very different areas: 5th Avenue in the cen
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-playa-del-carmen.jpg"
+heroImage: "/img/blog/playa-del-carmen.jpg"
 bookingDest: "Playa del Carmen"
 ---
 

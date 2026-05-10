@@ -5,7 +5,7 @@ description: "Die besten Reiseziele im Herbst 2026: Wärme im Oktober, Laubfarbe
 pubDate: 2026-05-09
 category: "Reisetipps"
 readingTime: 7
-heroImage: "/img/blog/beste-herbstziele-reisen.jpg"
+heroImage: "/img/blog/autumn-travel.jpg"
 bookingDest: "generic"
 ---
 

@@ -5,7 +5,7 @@ description: "Milan has 5 very different neighborhoods: the Duomo center for sig
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-milan.jpg"
+heroImage: "/img/blog/milan.jpg"
 bookingDest: "Milan"
 ---
 

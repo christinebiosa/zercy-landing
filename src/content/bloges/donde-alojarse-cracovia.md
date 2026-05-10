@@ -5,7 +5,7 @@ description: "¿Ciudad Vieja o Kazimierz? Los mejores hoteles en Cracovia por ba
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-cracovia.jpg"
+heroImage: "/img/blog/krakow.jpg"
 bookingDest: "Cracovia"
 ---
 

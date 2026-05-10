@@ -5,7 +5,7 @@ description: "Santorini, Mykonos, Creta o Rodas: comparativa real de precio, amb
 pubDate: 2026-05-09
 category: "Joyas ocultas"
 readingTime: 8
-heroImage: "/img/blog/islas-griegas-comparativa.jpg"
+heroImage: "/img/blog/greek-islands.jpg"
 bookingDest: "Santorini"
 ---
 

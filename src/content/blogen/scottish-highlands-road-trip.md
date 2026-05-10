@@ -5,7 +5,7 @@ description: "North Coast 500, Isle of Skye, Glencoe and Loch Ness: The complete
 pubDate: 2026-05-09
 category: "On the Move"
 readingTime: 7
-heroImage: "/img/blog/scottish-highlands-road-trip.jpg"
+heroImage: "/img/blog/scotland.jpg"
 ---
 
 The Scottish Highlands rank among the most dramatic landscapes in Europe. Bare mountain ridges, dark lochs, crumbling castles, and stretches of coastline that look carved from a novel. And all of it is accessible by car. No expensive flights to remote airports, no crowded tourist corridors, no set timetables to keep.

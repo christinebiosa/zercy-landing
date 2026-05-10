@@ -5,7 +5,7 @@ description: "Mehr Budget, mehr Zeit, keine Schulferien: Reisen nach 60 hat echt
 pubDate: 2026-05-09
 category: "Reisetipps"
 readingTime: 6
-heroImage: "/img/blog/reisen-nach-60-tipps.jpg"
+heroImage: "/img/blog/senior-travel.jpg"
 ---
 
 Mit 60 fängt das Reisen oft erst richtig an. Kein Abstimmen mit Schulferienplänen, kein knapper Urlaub, kein Budget-Jonglieren zwischen Familienurlaub und eigenen Wünschen. Wer Mitte 60 ist und reist, hat in der Regel mehr Geld, mehr Zeit und eine klare Vorstellung davon, was er will.

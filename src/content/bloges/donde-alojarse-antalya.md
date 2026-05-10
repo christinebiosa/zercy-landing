@@ -5,7 +5,7 @@ description: "Antalya tiene 5 zonas muy diferentes: el histórico Kaleiçi, la f
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-antalya.jpg"
+heroImage: "/img/blog/antalya.jpg"
 bookingDest: "Antalya"
 ---
 

@@ -5,7 +5,7 @@ description: "101 Reykjavik oder Laugardalur? Die besten Hotels in Reykjavik nac
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-reykjavik.jpg"
+heroImage: "/img/blog/reykjavik.jpg"
 bookingDest: "Reykjavik"
 ---
 

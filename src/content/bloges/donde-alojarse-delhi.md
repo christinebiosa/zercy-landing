@@ -5,7 +5,7 @@ description: "Delhi tiene 5 barrios para cada estilo: Connaught Place central, K
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-delhi.jpg"
+heroImage: "/img/blog/delhi.jpg"
 bookingDest: "Delhi"
 ---
 

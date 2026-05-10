@@ -5,7 +5,7 @@ description: "Old City oder Nimman? Die besten Hotels in Chiang Mai nach Viertel
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-chiang-mai.jpg"
+heroImage: "/img/blog/chiang-mai.jpg"
 bookingDest: "Chiang Mai"
 ---
 

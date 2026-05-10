@@ -5,7 +5,7 @@ description: "Karen oder Westlands? Die besten Hotels in Nairobi nach Stadtteil.
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-nairobi.jpg"
+heroImage: "/img/blog/nairobi.jpg"
 bookingDest: "Nairobi"
 ---
 

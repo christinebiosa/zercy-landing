@@ -5,7 +5,7 @@ description: "Where to stay on Mykonos? Chora for windmills and nightlife, Ornos
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-mykonos.jpg"
+heroImage: "/img/blog/mykonos.jpg"
 bookingDest: "Mykonos"
 ---
 

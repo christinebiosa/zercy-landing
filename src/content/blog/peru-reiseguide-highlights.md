@@ -5,7 +5,7 @@ description: "Lima, Machu Picchu, Cusco, Colca Canyon, Titicacasee: Dieser Peru 
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 8
-heroImage: "/img/blog/peru-reiseguide-highlights.jpg"
+heroImage: "/img/blog/peru.jpg"
 bookingDest: "Peru"
 ---
 

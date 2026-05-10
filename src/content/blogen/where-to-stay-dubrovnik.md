@@ -5,7 +5,7 @@ description: "Old Town or Lapad? The best Dubrovnik hotels by neighborhood. Hone
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-dubrovnik.jpg"
+heroImage: "/img/blog/dubrovnik.jpg"
 bookingDest: "Dubrovnik"
 ---
 

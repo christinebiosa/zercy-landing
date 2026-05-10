@@ -5,7 +5,7 @@ description: "Taipéi tiene 5 distritos con carácter propio: el céntrico Zhong
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-taipei.jpg"
+heroImage: "/img/blog/taipei.jpg"
 bookingDest: "Taipei"
 ---
 

@@ -5,7 +5,7 @@ description: "Playa del Carmen hat 5 sehr unterschiedliche Bereiche: 5th Avenue 
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-playa-del-carmen.jpg"
+heroImage: "/img/blog/playa-del-carmen.jpg"
 bookingDest: "Playa del Carmen"
 ---
 

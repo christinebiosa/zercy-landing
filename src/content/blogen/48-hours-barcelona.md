@@ -5,7 +5,7 @@ description: "Barcelona in 48 hours: Sagrada Família, Gothic Quarter, Park Güe
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 6
-heroImage: "/img/blog/48-hours-barcelona.jpg"
+heroImage: "/img/blog/barcelona.jpg"
 ---
 
 Barcelona has a way of getting under your skin fast. The combination of architecture, food, sea, and Catalan energy is unlike anywhere else in Europe. The good news is that 48 hours is enough to experience the highlights without rushing. You just need to know where to start.

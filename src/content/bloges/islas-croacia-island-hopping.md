@@ -5,7 +5,7 @@ description: "Guía completa para hacer island hopping en Croacia. Hvar, Brač, 
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 7
-heroImage: "/img/blog/islas-croacia-island-hopping.jpg"
+heroImage: "/img/blog/croatia-islands.jpg"
 bookingDest: "Croacia"
 ---
 

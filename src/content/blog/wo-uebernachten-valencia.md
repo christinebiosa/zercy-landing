@@ -5,7 +5,7 @@ description: "Valencia hat 5 verschiedene Stadtteile: Barrio del Carmen mit Alts
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-valencia.jpg"
+heroImage: "/img/blog/valencia.jpg"
 bookingDest: "Valencia"
 ---
 

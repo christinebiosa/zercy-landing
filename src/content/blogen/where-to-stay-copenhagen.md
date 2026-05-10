@@ -5,7 +5,7 @@ description: "Copenhagen has 5 distinct neighborhoods: historic Indre By, multic
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-copenhagen.jpg"
+heroImage: "/img/blog/copenhagen.jpg"
 bookingDest: "Copenhagen"
 ---
 

@@ -5,7 +5,7 @@ description: "Goa tiene 5 zonas muy distintas: Panaji capital colonial, Norte de
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-goa.jpg"
+heroImage: "/img/blog/goa.jpg"
 bookingDest: "Goa"
 ---
 

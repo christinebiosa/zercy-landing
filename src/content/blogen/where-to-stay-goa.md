@@ -5,7 +5,7 @@ description: "Goa has 5 distinct areas: Panaji colonial capital, North Goa beach
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-goa.jpg"
+heroImage: "/img/blog/goa.jpg"
 bookingDest: "Goa"
 ---
 

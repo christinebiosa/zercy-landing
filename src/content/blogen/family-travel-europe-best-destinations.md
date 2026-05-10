@@ -5,7 +5,7 @@ description: "The best European destinations for family travel in 2026. Honest r
 pubDate: 2026-05-09
 category: "Travel Tips"
 readingTime: 8
-heroImage: "/img/blog/family-travel-europe-best-destinations.jpg"
+heroImage: "/img/blog/family-vacation.jpg"
 bookingDest: "generic"
 ---
 

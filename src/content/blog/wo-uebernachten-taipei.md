@@ -5,7 +5,7 @@ description: "Taipei hat 5 Stadtteile mit eigenem Charakter: Zentrum mit Taipei 
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-taipei.jpg"
+heroImage: "/img/blog/taipei.jpg"
 bookingDest: "Taipei"
 ---
 

@@ -5,7 +5,7 @@ description: "Bangkok in 3 days: temple triangle, Chatuchak, Chinatown, and a ro
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 7
-heroImage: "/img/blog/bangkok-3-days.jpg"
+heroImage: "/img/blog/bangkok.jpg"
 bookingDest: "Bangkok"
 ---
 

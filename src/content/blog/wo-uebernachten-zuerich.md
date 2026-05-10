@@ -5,7 +5,7 @@ description: "Zürich hat 5 sehr unterschiedliche Stadtteile: Altstadt historisc
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-zuerich.jpg"
+heroImage: "/img/blog/zurich.jpg"
 bookingDest: "Zürich"
 ---
 

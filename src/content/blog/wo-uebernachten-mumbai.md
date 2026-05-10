@@ -5,7 +5,7 @@ description: "Mumbai hat 5 sehr unterschiedliche Stadtteile: Colaba touristisch,
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-mumbai.jpg"
+heroImage: "/img/blog/mumbai.jpg"
 bookingDest: "Mumbai"
 ---
 

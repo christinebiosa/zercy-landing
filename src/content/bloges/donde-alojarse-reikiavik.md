@@ -5,7 +5,7 @@ description: "¿101 Reikiavik o Laugardalur? Los mejores hoteles en Reikiavik po
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-reikiavik.jpg"
+heroImage: "/img/blog/reykjavik.jpg"
 bookingDest: "Reikiavik"
 ---
 

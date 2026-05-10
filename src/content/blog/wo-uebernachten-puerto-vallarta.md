@@ -5,7 +5,7 @@ description: "Puerto Vallarta hat 5 komplett verschiedene Stadtteile: Zona Romá
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-puerto-vallarta.jpg"
+heroImage: "/img/blog/puerto-vallarta.jpg"
 bookingDest: "Puerto Vallarta"
 ---
 

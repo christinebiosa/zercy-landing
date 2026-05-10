@@ -5,7 +5,7 @@ description: "Split, Hvar, Brač, Vis, Korčula: Der komplette Guide für dein K
 pubDate: 2026-05-09
 category: "Unterwegs"
 readingTime: 6
-heroImage: "/img/blog/kroatien-inseln-hopping.jpg"
+heroImage: "/img/blog/croatia-islands.jpg"
 ---
 
 Kroatien gehört zu den schönsten Reisezielen Europas, und wer nur eine Insel besucht, verpasst das Beste. Die dalmatinische Küste besteht aus über 1.000 Inseln, Inselchen und Felsen. Davon sind rund 50 bewohnt. Das bedeutet: Jede Fährt bringt dich in eine andere Welt.

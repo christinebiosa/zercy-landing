@@ -5,7 +5,7 @@ description: "Phuket has 5 beach areas with completely different characters: par
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-phuket.jpg"
+heroImage: "/img/blog/phuket.jpg"
 bookingDest: "Phuket"
 ---
 

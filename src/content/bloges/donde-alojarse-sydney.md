@@ -5,7 +5,7 @@ description: "Sídney tiene 5 zonas muy distintas: el CBD junto al puerto, la ic
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-sydney.jpg"
+heroImage: "/img/blog/sydney.jpg"
 bookingDest: "Sydney"
 ---
 

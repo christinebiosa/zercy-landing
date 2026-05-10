@@ -5,7 +5,7 @@ description: "Osaka oder Kyoto: Essen und Nachtleben gegen Tempel und Tradition.
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 7
-heroImage: "/img/blog/osaka-vs-kyoto.jpg"
+heroImage: "/img/blog/kyoto.jpg"
 bookingDest: "Japan"
 ---
 

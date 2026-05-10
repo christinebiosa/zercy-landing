@@ -5,7 +5,7 @@ description: "Santiago de Chile hat 5 sehr unterschiedliche Stadtteile: Providen
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-santiago.jpg"
+heroImage: "/img/blog/santiago.jpg"
 bookingDest: "Santiago"
 ---
 

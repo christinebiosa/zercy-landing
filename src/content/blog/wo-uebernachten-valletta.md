@@ -5,7 +5,7 @@ description: "Valletta oder Sliema? Die besten Hotels auf Malta nach Lage. Mit k
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-valletta.jpg"
+heroImage: "/img/blog/valletta.jpg"
 bookingDest: "Malta"
 ---
 

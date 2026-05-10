@@ -5,7 +5,7 @@ description: "Istanbul in 48 hours: Hagia Sophia, Topkapi Palace, Grand Bazaar, 
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 6
-heroImage: "/img/blog/48-hours-istanbul.jpg"
+heroImage: "/img/blog/istanbul.jpg"
 ---
 
 Istanbul works for 48 hours better than almost any other city on earth. The major sights are close together, public transport is excellent, and the combination of history, food, and atmosphere is unlike anything else in the world. You are not traveling between two continents. You are standing on both at the same time.

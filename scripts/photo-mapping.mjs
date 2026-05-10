@@ -655,6 +655,48 @@ export const slugToTopic = {
   'wo-uebernachten-nairobi': 'nairobi',
   'where-to-stay-nairobi': 'nairobi',
   'donde-alojarse-nairobi': 'nairobi',
+
+  // ===== BATCH 2026-05-10 — 5 City Guides + 5 Themenartikel =====
+  // Naples / Neapel
+  'wo-uebernachten-neapel': 'neapel',
+  'where-to-stay-naples': 'neapel',
+  'donde-alojarse-napoles': 'neapel',
+  // Malaga
+  'wo-uebernachten-malaga': 'malaga',
+  'where-to-stay-malaga': 'malaga',
+  'donde-alojarse-malaga': 'malaga',
+  // Melbourne
+  'wo-uebernachten-melbourne': 'melbourne',
+  'where-to-stay-melbourne': 'melbourne',
+  'donde-alojarse-melbourne': 'melbourne',
+  // Jaipur
+  'wo-uebernachten-jaipur': 'jaipur',
+  'where-to-stay-jaipur': 'jaipur',
+  'donde-alojarse-jaipur': 'jaipur',
+  // Washington DC
+  'wo-uebernachten-washington-dc': 'washington-dc',
+  'where-to-stay-washington-dc': 'washington-dc',
+  'donde-alojarse-washington-dc': 'washington-dc',
+  // Reisekreditkarte
+  'reisekreditkarte-2026': 'reisekreditkarte',
+  'travel-credit-card-2026': 'reisekreditkarte',
+  'tarjeta-credito-viajes-2026': 'reisekreditkarte',
+  // Frühbucher vs. Last Minute
+  'fruehbucher-vs-last-minute': 'fruehbucher-last-minute',
+  'early-booking-vs-last-minute': 'fruehbucher-last-minute',
+  'reserva-anticipada-vs-last-minute': 'fruehbucher-last-minute',
+  // Hostel oder Hotel
+  'hostel-oder-hotel-2026': 'hostel',
+  'hostel-vs-hotel-2026': 'hostel',
+  'hostel-o-hotel-2026': 'hostel',
+  // Geld im Ausland
+  'geld-im-ausland-tipps': 'geld-ausland',
+  'money-abroad-tips': 'geld-ausland',
+  'dinero-en-el-extranjero-consejos': 'geld-ausland',
+  // Familienurlaub mit Kindern
+  'familienurlaub-mit-kindern-tipps': 'familienurlaub',
+  'family-vacation-with-kids-tips': 'familienurlaub',
+  'vacaciones-en-familia-consejos': 'familienurlaub',
 };
 
 // Topic key -> Unsplash search query (used when downloading)
@@ -837,4 +879,15 @@ export const topicToQuery = {
   'valletta': 'valletta malta grand harbour baroque architecture',
   'chiang-mai': 'chiang mai thailand temple wat',
   'nairobi': 'nairobi kenya skyline africa city modern',
+  // Batch 2026-05-10
+  'neapel': 'naples italy bay vesuvius waterfront',
+  'malaga': 'malaga spain mediterranean harbor old city',
+  'melbourne': 'melbourne australia city skyline flinders street',
+  'jaipur': 'jaipur india pink city palace rajasthan',
+  'washington-dc': 'washington dc capitol monument national mall',
+  'reisekreditkarte': 'travel credit card passport airplane reward',
+  'fruehbucher-last-minute': 'airport departure board flight booking',
+  'hostel': 'hostel dorm bunk bed travelers backpacker',
+  'geld-ausland': 'money foreign currency travel cash cards',
+  'familienurlaub': 'family vacation beach kids summer travel happy',
 };

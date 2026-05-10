@@ -5,7 +5,7 @@ description: "Venice has 6 sestieri with distinct characters: iconic San Marco, 
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-venice.jpg"
+heroImage: "/img/blog/venice.jpg"
 bookingDest: "Venice"
 ---
 

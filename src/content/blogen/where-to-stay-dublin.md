@@ -5,7 +5,7 @@ description: "Dublin has 5 neighborhoods with their own character: historic Temp
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-dublin.jpg"
+heroImage: "/img/blog/dublin.jpg"
 bookingDest: "Dublin"
 ---
 

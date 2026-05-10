@@ -5,7 +5,7 @@ description: "Luxusreisen ohne Vollpreis: Wie du in 5-Sterne-Hotels übernachtes
 pubDate: 2026-05-09
 category: "Clever Reisen"
 readingTime: 7
-heroImage: "/img/blog/luxusreisen-guenstig-tipps.jpg"
+heroImage: "/img/blog/luxury-travel.jpg"
 ---
 
 Luxusreisen ist kein Privileg der Reichen. Es ist ein Timing-Spiel. Wer versteht wie Premiumhotels und Business-Class-Preise funktionieren, reist für 30-60 Prozent weniger als der Listenpreis.

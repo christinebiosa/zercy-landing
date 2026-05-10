@@ -5,7 +5,7 @@ description: "Stari Grad oder Lapad? Die besten Hotels in Dubrovnik nach Stadtte
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-dubrovnik.jpg"
+heroImage: "/img/blog/dubrovnik.jpg"
 bookingDest: "Dubrovnik"
 ---
 

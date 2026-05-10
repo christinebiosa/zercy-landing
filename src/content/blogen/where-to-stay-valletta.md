@@ -5,7 +5,7 @@ description: "Valletta Old Town, Sliema or St. Julian's? The best hotels in Malt
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-valletta.jpg"
+heroImage: "/img/blog/valletta.jpg"
 bookingDest: "Malta"
 ---
 

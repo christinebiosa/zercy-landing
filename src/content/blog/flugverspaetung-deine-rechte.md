@@ -5,7 +5,7 @@ description: "EU-Verordnung 261/2004: Ab wann du Entschädigung bekommst, wie vi
 pubDate: 2026-05-09
 category: "Reisetipps"
 readingTime: 5
-heroImage: "/img/blog/flugverspaetung-deine-rechte.jpg"
+heroImage: "/img/blog/flight-ticket.jpg"
 ---
 
 Dein Flug hat drei Stunden Verspätung. Die Airline sagt nichts. Die Anzeige wechselt im Viertelstundentakt. Und du weißt nicht, ob dir eigentlich etwas zusteht. Das ist eine Situation, die fast jeder Reisende kennt. Die gute Nachricht: In der EU gibt es klare Regeln, die dich schützen, auch wenn die Airline das lieber nicht laut sagt.

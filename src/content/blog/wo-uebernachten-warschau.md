@@ -5,7 +5,7 @@ description: "Wo übernachten in Warschau? Altstadt, Zentrum, Praga oder Mokotó
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-warschau.jpg"
+heroImage: "/img/blog/warsaw.jpg"
 bookingDest: "Warschau"
 ---
 

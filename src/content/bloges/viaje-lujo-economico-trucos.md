@@ -5,7 +5,7 @@ description: "Cómo vivir la experiencia de lujo sin pagar el precio completo: h
 pubDate: 2026-05-09
 category: "Viaje inteligente"
 readingTime: 7
-heroImage: "/img/blog/viaje-lujo-economico-trucos.jpg"
+heroImage: "/img/blog/luxury-travel.jpg"
 ---
 
 El viaje de lujo no es un privilegio de los ricos. Es un juego de tiempos. Quienes entienden cómo funcionan los precios de los hoteles premium y las tarifas de business class viajan entre un 30 y un 60 por ciento por debajo del precio de lista.

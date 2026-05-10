@@ -5,7 +5,7 @@ description: "Bruselas tiene 5 barrios muy distintos: Grand Place para turistas,
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-bruselas.jpg"
+heroImage: "/img/blog/brussels.jpg"
 bookingDest: "Bruselas"
 ---
 

@@ -5,7 +5,7 @@ description: "¿Dónde alojarse en Mykonos? Chora para molinos y vida nocturna, 
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-mykonos.jpg"
+heroImage: "/img/blog/mykonos.jpg"
 bookingDest: "Mykonos"
 ---
 

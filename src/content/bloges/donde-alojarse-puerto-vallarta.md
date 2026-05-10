@@ -5,7 +5,7 @@ description: "Puerto Vallarta tiene 5 barrios muy distintos: Zona Romántica par
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-puerto-vallarta.jpg"
+heroImage: "/img/blog/puerto-vallarta.jpg"
 bookingDest: "Puerto Vallarta"
 ---
 

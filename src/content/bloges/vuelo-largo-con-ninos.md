@@ -5,7 +5,7 @@ description: "¿Cómo hacer un vuelo largo con niños sin volverse loco? Qué ll
 pubDate: 2026-05-09
 category: "Consejos de viaje"
 readingTime: 7
-heroImage: "/img/blog/vuelo-largo-con-ninos.jpg"
+heroImage: "/img/blog/baby-travel.jpg"
 ---
 
 Un vuelo de 10 horas con un niño de 3 años. Para algunos padres, esa frase genera un nivel de ansiedad que supera al del propio vuelo. Para otros, es simplemente logística. La diferencia entre los dos grupos no es suerte. Es preparación. Los padres que viajan bien con niños llevan el equipo correcto, han elegido bien los asientos y saben cuándo deben aterrizar para que el jet lag no arruine la primera semana de vacaciones.

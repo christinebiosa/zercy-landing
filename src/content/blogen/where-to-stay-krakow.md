@@ -5,7 +5,7 @@ description: "Old Town or Kazimierz? The best hotels in Krakow by neighborhood. 
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-krakow.jpg"
+heroImage: "/img/blog/krakow.jpg"
 bookingDest: "Krakow"
 ---
 

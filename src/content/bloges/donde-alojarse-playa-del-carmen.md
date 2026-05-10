@@ -5,7 +5,7 @@ description: "Playa del Carmen tiene 5 zonas muy distintas: 5ta Avenida turísti
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-playa-del-carmen.jpg"
+heroImage: "/img/blog/playa-del-carmen.jpg"
 bookingDest: "Playa del Carmen"
 ---
 

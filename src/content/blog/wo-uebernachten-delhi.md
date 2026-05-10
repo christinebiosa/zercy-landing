@@ -5,7 +5,7 @@ description: "Delhi hat 5 Stadtteile für jeden Reisestil: Connaught Place zentr
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-delhi.jpg"
+heroImage: "/img/blog/delhi.jpg"
 bookingDest: "Delhi"
 ---
 

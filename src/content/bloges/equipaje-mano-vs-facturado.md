@@ -5,7 +5,7 @@ description: "Cuándo conviene llevar solo equipaje de mano y cuándo facturar m
 pubDate: 2026-05-09
 category: "Solo equipaje de mano"
 readingTime: 6
-heroImage: "/img/blog/equipaje-mano-vs-facturado.jpg"
+heroImage: "/img/blog/carry-on-bag.jpg"
 ---
 
 La pregunta aparece en cada viaje: ¿facturo o no facturo? La respuesta depende de cuánto tiempo te quedas, adónde vas y con qué aerolínea vuelas. Esta guía lo desglosa sin rodeos.

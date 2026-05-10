@@ -5,7 +5,7 @@ description: "Auckland tiene 5 barrios muy distintos: CBD con Sky Tower, Parnell
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-auckland.jpg"
+heroImage: "/img/blog/auckland.jpg"
 bookingDest: "Auckland"
 ---
 

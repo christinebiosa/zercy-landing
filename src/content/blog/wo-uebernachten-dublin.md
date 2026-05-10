@@ -5,7 +5,7 @@ description: "Dublin hat 5 Viertel mit eigenem Charakter: historisches Temple Ba
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-dublin.jpg"
+heroImage: "/img/blog/dublin.jpg"
 bookingDest: "Dublin"
 ---
 

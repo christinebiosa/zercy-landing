@@ -5,7 +5,7 @@ description: "Österreich, Schweiz, Frankreich, Italien oder Bulgarien: Welches 
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 7
-heroImage: "/img/blog/skiurlaub-europa-beste-orte.jpg"
+heroImage: "/img/blog/ski-resort.jpg"
 ---
 
 Skiurlaub in Europa ist ein breites Feld. Wer spontan bucht, zahlt doppelt. Wer das falsche Gebiet wählt, ist nach zwei Tagen gelangweilt oder überfordert. Und wer nicht weiß, dass es günstige Alternativen jenseits der Alpen gibt, verpasst echte Schnäppchen.

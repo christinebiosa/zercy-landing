@@ -5,7 +5,7 @@ description: "Barcelona in 48 Stunden: Sagrada Família, Gòtic Viertel, Park G�
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 6
-heroImage: "/img/blog/48-stunden-barcelona.jpg"
+heroImage: "/img/blog/barcelona.jpg"
 ---
 
 Barcelona ist eine Stadt, die sofort unter die Haut geht. Die Mischung aus Architektur, Essen, Meer und katalanischer Lebensart ist einzigartig. Und das Beste: Zwei Tage reichen aus, um die wichtigsten Highlights zu erleben, ohne dich zu hetzen. Du musst nur wissen, wo du anfängst.

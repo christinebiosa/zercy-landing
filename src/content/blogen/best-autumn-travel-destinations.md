@@ -5,7 +5,7 @@ description: "The best places to travel in autumn 2026: warm weather in October,
 pubDate: 2026-05-09
 category: "Travel Tips"
 readingTime: 7
-heroImage: "/img/blog/best-autumn-travel-destinations.jpg"
+heroImage: "/img/blog/autumn-travel.jpg"
 bookingDest: "generic"
 ---
 

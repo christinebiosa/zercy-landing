@@ -5,7 +5,7 @@ description: "Cómo tener internet en el extranjero sin pagar una fortuna. SIM l
 pubDate: 2026-05-09
 category: "Viaje inteligente"
 readingTime: 7
-heroImage: "/img/blog/guia-sim-extranjero.jpg"
+heroImage: "/img/blog/travel-apps.jpg"
 ---
 
 Llegar a otro país y quedarse sin internet es una de las situaciones más incómodas del viaje moderno. Sin Google Maps, sin poder avisar al hotel, sin acceso a las reservas. Esta guía explica las tres opciones principales y cuándo usar cada una.

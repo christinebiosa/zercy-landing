@@ -5,7 +5,7 @@ description: "Wo übernachten in São Paulo? Jardins für Sicherheit und Restaur
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-sao-paulo.jpg"
+heroImage: "/img/blog/sao-paulo.jpg"
 bookingDest: "São Paulo"
 ---
 

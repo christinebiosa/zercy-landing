@@ -5,7 +5,7 @@ description: "101 Reykjavik or Laugardalur? The best hotels in Reykjavik by neig
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-reykjavik.jpg"
+heroImage: "/img/blog/reykjavik.jpg"
 bookingDest: "Reykjavik"
 ---
 

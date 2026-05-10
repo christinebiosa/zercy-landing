@@ -513,9 +513,51 @@ Jeder Artikel endet mit einer `## Frequently Asked Questions` (EN) / `## Häufig
 ### Zercy-CTA am Artikelende
 Vor dem FAQ, nach dem `---` Trennstrich: 1–2 Sätze die Zercy erwähnen, natürlich eingebaut, nicht werblich aufdringlich. **IMMER mit Zercy-Logbook-Link ergänzen:** "Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast." (DE) bzw. "Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking." (EN)
 
+### ✅ Bereits vorhandene Themenartikel — IMMER HIER PRÜFEN vor neuen Vorschlägen!
+
+**Stand: 2026-05-10 | ~60 Themenartikel**
+
+Günstig fliegen (Tipps), Wann Flüge buchen, KI verändert Reiseplanung, Airport Hacks, Nur Handgepäck, Costa Rica Surfen, Boutique Hotels (Überblick), Business Class (lohnt sich?), Mietwagen-Checkliste, Zugreisen Europa, Geheimtipps Europa, Was ist Zercy, Zercy Logbook, Lissabon abseits der Touristenpfade, Porto Guide, Open-Jaw Tickets, Business Class ohne Meilen, KI Reiseplaner vs. Reisebüro, Nachtzüge Europa 2026, Mietwagen Consolidator (günstiger fahren), Mietwagen versteckte Kosten, Costa Rica Rundreise Route, Modena Ferrari Museum, Island Reiseguide, Tokio Foodie-Reise, Madrid 24 Stunden, Kreuzfahrt Städte verlängern, Hidden City Ticketing, Workation Steuern 2026, Riads Marokko Guide, CO2 Kompensation Fliegen, Jetlag schnell überwinden, KI Tools Reise Vergleich, Albanien Riviera, Roadtrip Etappen Planung, Capsule Wardrobe Handgepäck, Färöer Inseln Guide, Airbnb vs. Hotel Vergleich, Reiseversicherung, Solo Reisen Frauen, Apulien / Süditalien Guide, Nordlichter 2026, Slow Travel, Cyber-Sicherheit auf Reisen, Mit Hund durch Europa, Beste Travel Apps 2026, Stopover Tourismus, 48 Stunden Rom, Sabbatical planen, KI Vergleich Reiseplanung 2026, Reisen mit Baby / erste Flüge, Booking vs. Direkt buchen, Lounge Zugang ohne Business-Ticket, Powerbank Regeln Handgepäck, Plastik-frei reisen, Patagonien 3-Wochen-Route, Sansibar Stone Town Guide, Bahn vs. Flieger Europa 2026, Slowenien Guide, Santiago de Compostela Guide, Los Angeles Guide
+
+**Regel:** Vor JEDEM neuen Themenartikel-Vorschlag diese Liste lesen. Nach jeder neuen Batch: Liste aktualisieren.
+
+---
+
+### ✅ Bereits vorhandene City-Guides — IMMER HIER PRÜFEN vor neuen Vorschlägen!
+
+**Stand: 2026-05-10 | 84 Städte**
+
+Amsterdam, Antalya, Athen, Auckland, Bali, Bangkok, Barcelona, Berlin, Bogotá, Brüssel, Budapest, Buenos Aires, Cancún, Cape Town, Cartagena, Chiang Mai, Chicago, Cusco, Delhi, Dublin, Dubrovnik, Edinburgh, Florenz, Goa, Hanoi, Ho Chi Minh Stadt, Hongkong, Istanbul, Johannesburg, Kopenhagen, Krakau, Kuala Lumpur, Kyoto, Las Vegas, Lima, Lissabon, London, Los Angeles, Madrid, Mailand, Marrakesch, Marseille, Medellín, Mendoza, Mexico City, Miami, München, Mumbai, Mykonos, Nairobi, New Orleans, New York, Oaxaca, Osaka, Oslo, Paris, Phuket, Playa del Carmen, Porto, Prag, Puerto Vallarta, Reykjavik, Rio de Janeiro, Rom, San Francisco, Santiago, Santorini, São Paulo, Seoul, Sevilla, Singapur, Stockholm, Sydney, Taipei, Tokio, Toronto, Tulum, Valencia, Valletta, Vancouver, Venedig, Warschau, Wien, Zürich
+
+**Regel:** Vor JEDEM neuen City-Guide-Vorschlag diese Liste lesen. Nach jeder neuen Batch: Liste aktualisieren.
+
+---
+
 ### EXTRA für "Wo übernachten / Where to Stay"-Artikel (City-Guides)
 
 City-Guides folgen einer eigenen Struktur, weil sie die Booking.com-Affiliate-Strategie tragen. Diese Regeln sind ZUSÄTZLICH zur Standard-Checkliste:
+
+#### ⚠️ Stadtführer-Dropdown — Slug-Prefix-Regel (KRITISCH!)
+
+Der "Stadtführer / City Guide Finder / Guía de ciudades"-Dropdown auf allen 3 Blog-Listing-Seiten filtert **ausschließlich nach Slug-Prefix**, NICHT nach Kategorie:
+
+| Sprache | Listing-Seite | Slug-Prefix |
+|---------|--------------|-------------|
+| DE | `src/pages/blog/index.astro` | `wo-uebernachten-` |
+| EN | `src/pages/en/blog/index.astro` | `where-to-stay-` |
+| ES | `src/pages/es/blog/index.astro` | `donde-alojarse-` |
+
+**Was das bedeutet:**
+- Nur Artikel mit exakt diesen Slug-Prefixen erscheinen im Dropdown.
+- Kategorie allein ("Wo übernachten") reicht NICHT — andere Artikel in derselben Kategorie (Boutique-Hotel-Guides, Airbnb-Vergleiche etc.) dürfen diese Prefixes NICHT bekommen, sonst erscheinen sie als leere Einträge im Dropdown.
+- Der Stadtname wird per Regex aus dem Titel extrahiert. Passt das Format nicht, erscheint ein leerer Eintrag (sichtbarer Punkt ohne Text = Bug).
+
+**Korrekte Titel-Formate (Pflicht für City-Guides):**
+- DE: `Beste Hotels in/auf/im/an/am [Stadt]:` (Regex: `/Beste Hotels (?:in|auf|im|an|am) (.+?):/`)
+- EN: `Best Hotels in/on/at [City]:` (Regex: `/Best Hotels (?:in|on|at) (.+?):/`)
+- ES: `Los mejores hoteles en/de [Ciudad]:` (Regex: `/mejores hoteles (?:en|de) (.+?):/i`)
+
+**Nicht-City-Guide-Artikel in der Kategorie "Wo übernachten"** (z.B. `boutique-hotels`, `airbnb-vs-hotel-vergleich`, `riads-marokko-guide`) müssen einen anderen Slug verwenden — niemals `wo-uebernachten-*` / `where-to-stay-*` / `donde-alojarse-*`.
 
 **Title-Format (zwei Money-Keywords):**
 - DE: "Beste Hotels in [Stadt]: Wo übernachten in welchem Stadtteil 2026"

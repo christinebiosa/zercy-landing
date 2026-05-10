@@ -5,7 +5,7 @@ description: "Kyoto has 5 very different neighborhoods: Gion for geisha atmosphe
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-kyoto.jpg"
+heroImage: "/img/blog/kyoto.jpg"
 bookingDest: "Kyoto"
 ---
 

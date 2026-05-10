@@ -5,7 +5,7 @@ description: "Wo übernachten auf Mykonos? Chora für Windmühlen und Nachtleben
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-mykonos.jpg"
+heroImage: "/img/blog/mykonos.jpg"
 bookingDest: "Mykonos"
 ---
 

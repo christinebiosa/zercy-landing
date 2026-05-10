@@ -5,7 +5,7 @@ description: "Golden hour, rule of thirds, avoiding crowds: practical travel pho
 pubDate: 2026-05-09
 category: "Travel Tips"
 readingTime: 5
-heroImage: "/img/blog/travel-photography-tips.jpg"
+heroImage: "/img/blog/travel-photography.jpg"
 ---
 
 Most travel photos look forgettable. Not because of the camera, but because of the light, the angle, and the timing. Anyone who understands how good travel photography is made will produce better images with a smartphone than someone with a professional camera and no eye for the basics.

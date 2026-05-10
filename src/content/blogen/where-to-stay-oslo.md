@@ -5,7 +5,7 @@ description: "Oslo has 5 distinct neighborhoods: Sentrum central, Grünerløkka 
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-oslo.jpg"
+heroImage: "/img/blog/oslo.jpg"
 bookingDest: "Oslo"
 ---
 

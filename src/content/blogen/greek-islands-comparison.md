@@ -5,7 +5,7 @@ description: "Santorini, Mykonos, Crete, or Rhodes? A straight-up comparison of 
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 8
-heroImage: "/img/blog/greek-islands-comparison.jpg"
+heroImage: "/img/blog/greek-islands.jpg"
 bookingDest: "Santorini"
 ---
 

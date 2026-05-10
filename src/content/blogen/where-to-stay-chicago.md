@@ -5,7 +5,7 @@ description: "Chicago has 5 neighborhoods with distinct characters: The Loop wit
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-chicago.jpg"
+heroImage: "/img/blog/chicago.jpg"
 bookingDest: "Chicago"
 ---
 

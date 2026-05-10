@@ -5,7 +5,7 @@ description: "Toronto tiene 5 barrios con carácter propio: el Downtown Core con
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-toronto.jpg"
+heroImage: "/img/blog/toronto.jpg"
 bookingDest: "Toronto"
 ---
 

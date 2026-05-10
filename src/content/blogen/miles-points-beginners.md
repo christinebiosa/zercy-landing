@@ -5,7 +5,7 @@ description: "Miles & More, Flying Blue, Avios explained. What a mile is actuall
 pubDate: 2026-05-09
 category: "Smart Travel"
 readingTime: 6
-heroImage: "/img/blog/miles-points-beginners.jpg"
+heroImage: "/img/blog/miles-points.jpg"
 ---
 
 Miles and points get a lot of hype. Online communities dedicated to "travel hacking" make it sound like a part-time job with free flights as the paycheck. The reality is simpler and more useful than that. If you understand how the programs work and set realistic expectations, frequent flyer miles can deliver genuine value without becoming an obsession.

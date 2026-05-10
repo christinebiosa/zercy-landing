@@ -5,7 +5,7 @@ description: "Mumbai tiene 5 barrios muy distintos: Colaba para turistas, Bandra
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-mumbai.jpg"
+heroImage: "/img/blog/mumbai.jpg"
 bookingDest: "Mumbai"
 ---
 

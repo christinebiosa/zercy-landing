@@ -5,7 +5,7 @@ description: "Maldives travel guide 2026: what a trip actually costs, when to go
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 8
-heroImage: "/img/blog/maldives-travel-guide-tips.jpg"
+heroImage: "/img/blog/maldives.jpg"
 bookingDest: "Maldives"
 ---
 

@@ -5,7 +5,7 @@ description: "Johannesburg hat 5 sehr verschiedene Stadtteile: Sandton für Sich
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-johannesburg.jpg"
+heroImage: "/img/blog/johannesburg.jpg"
 bookingDest: "Johannesburg"
 ---
 

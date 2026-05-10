@@ -5,7 +5,7 @@ description: "Oaxaca hat 5 sehr verschiedene Stadtteile: Centro Histórico für 
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-oaxaca.jpg"
+heroImage: "/img/blog/oaxaca.jpg"
 bookingDest: "Oaxaca"
 ---
 

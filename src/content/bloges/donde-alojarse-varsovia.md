@@ -5,7 +5,7 @@ description: "¿Dónde alojarse en Varsovia? Ciudad Antigua, Centro, Praga o Mok
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-varsovia.jpg"
+heroImage: "/img/blog/warsaw.jpg"
 bookingDest: "Warsaw"
 ---
 

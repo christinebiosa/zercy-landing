@@ -5,7 +5,7 @@ description: "Santorini, Mykonos, Kreta oder Rhodos? Welche griechische Insel pa
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 8
-heroImage: "/img/blog/griechenland-inseln-vergleich.jpg"
+heroImage: "/img/blog/greek-islands.jpg"
 bookingDest: "Santorini"
 ---
 

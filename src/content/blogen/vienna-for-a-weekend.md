@@ -5,7 +5,7 @@ description: "Vienna in 48 hours: Hofburg, Schönbrunn, the Naschmarkt, and coff
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 6
-heroImage: "/img/blog/vienna-for-a-weekend.jpg"
+heroImage: "/img/blog/vienna.jpg"
 ---
 
 Vienna is a city that rewards the unhurried. It has the kind of grandeur that can feel overwhelming at first. Palaces, opera houses, baroque facades around every corner. But once you slow down and let the city show you its actual rhythm, something shifts. You stop sightseeing and start experiencing. Two days is enough to feel that shift.

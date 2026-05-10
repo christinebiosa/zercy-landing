@@ -5,7 +5,7 @@ description: "More budget, more time, no school holidays: travel after 60 has re
 pubDate: 2026-05-09
 category: "Travel Tips"
 readingTime: 6
-heroImage: "/img/blog/travel-after-60-tips.jpg"
+heroImage: "/img/blog/senior-travel.jpg"
 ---
 
 Travel after 60 often gets better than anything that came before. No coordinating with school calendars. No cramped annual leave windows. No choosing between your own trip and the family holiday budget. Most people in their 60s have more money, more flexibility, and a much clearer idea of what they actually want from a trip.

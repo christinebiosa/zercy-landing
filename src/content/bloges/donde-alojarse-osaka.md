@@ -5,7 +5,7 @@ description: "Osaka tiene 5 barrios muy distintos: Namba para vida nocturna y st
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-osaka.jpg"
+heroImage: "/img/blog/osaka.jpg"
 bookingDest: "Osaka"
 ---
 

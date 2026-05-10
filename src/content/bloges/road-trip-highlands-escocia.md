@@ -5,7 +5,7 @@ description: "Cómo hacer el NC500 por las Highlands de Escocia: Glencoe, Isla d
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7
-heroImage: "/img/blog/road-trip-highlands-escocia.jpg"
+heroImage: "/img/blog/scotland.jpg"
 bookingDest: "Escocia"
 ---
 

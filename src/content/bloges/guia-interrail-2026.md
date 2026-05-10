@@ -5,7 +5,7 @@ description: "Todo sobre Interrail 2026: Global Pass vs. Country Pass, reservas 
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7
-heroImage: "/img/blog/guia-interrail-2026.jpg"
+heroImage: "/img/blog/train-europe.jpg"
 ---
 
 Interrail sigue siendo una de las formas más libres de recorrer Europa. Un pase, treinta y tres países, miles de trenes. Suenas muy poético. Y lo es. Pero también tiene reglas que, si no las conoces antes de comprar, pueden convertir la aventura en frustración.

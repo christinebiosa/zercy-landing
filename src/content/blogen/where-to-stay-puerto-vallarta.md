@@ -5,7 +5,7 @@ description: "Puerto Vallarta has 5 distinct neighborhoods: Zona Romántica for 
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-puerto-vallarta.jpg"
+heroImage: "/img/blog/puerto-vallarta.jpg"
 bookingDest: "Puerto Vallarta"
 ---
 

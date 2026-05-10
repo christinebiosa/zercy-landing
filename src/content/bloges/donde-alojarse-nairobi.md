@@ -5,7 +5,7 @@ description: "¿Karen o Westlands? Los mejores hoteles en Nairobi por zona. Reco
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-nairobi.jpg"
+heroImage: "/img/blog/nairobi.jpg"
 bookingDest: "Nairobi"
 ---
 

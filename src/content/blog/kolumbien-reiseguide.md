@@ -5,7 +5,7 @@ description: "Kolumbien 2026: Bogotá, Medellín, Cartagena, Zona Cafetera und T
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 7
-heroImage: "/img/blog/kolumbien-reiseguide.jpg"
+heroImage: "/img/blog/cartagena.jpg"
 ---
 
 Kolumbien ist das Reiseland, das in den letzten zehn Jahren am meisten von seinem Ruf befreit hat. Die Zeit der pauschalen Reisewarnungen ist vorbei. Was du heute findest, ist ein Land von ausserordentlicher Vielfalt: tropische Karibikküste, kühlere Andenstädte auf 1.500 bis 2.600 Metern Höhe, einer der artenreichsten Nationalparks Südamerikas und eine Urbanität, die in Medellín und Bogotá weltweite Anerkennung gefunden hat.

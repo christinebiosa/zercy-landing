@@ -5,7 +5,7 @@ description: "Auckland has 5 very different neighborhoods: CBD with Sky Tower, h
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-auckland.jpg"
+heroImage: "/img/blog/auckland.jpg"
 bookingDest: "Auckland"
 ---
 

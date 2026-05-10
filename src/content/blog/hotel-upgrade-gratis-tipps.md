@@ -5,7 +5,7 @@ description: "Gratis Hotel-Upgrade bekommen: 7 Methoden die wirklich funktionier
 pubDate: 2026-05-09
 category: "Clever Reisen"
 readingTime: 7
-heroImage: "/img/blog/hotel-upgrade-gratis-tipps.jpg"
+heroImage: "/img/blog/hotel-upgrade.jpg"
 ---
 
 Es gibt Reisende, die checken regelmäßig in Hotels ein und werden in bessere Zimmer verlegt. Kostenlos. Ohne Beschwerden. Ohne Tricks. Und dann gibt es alle anderen.

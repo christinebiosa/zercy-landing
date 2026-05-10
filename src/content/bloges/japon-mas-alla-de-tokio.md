@@ -5,7 +5,7 @@ description: "Descubre Japón más allá de Tokio: Kioto con geishas y templos, 
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 9
-heroImage: "/img/blog/japon-mas-alla-de-tokio.jpg"
+heroImage: "/img/blog/japan-kyoto.jpg"
 bookingDest: "Kyoto"
 ---
 

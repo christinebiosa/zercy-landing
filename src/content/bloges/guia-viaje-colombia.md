@@ -5,7 +5,7 @@ description: "Todo lo que necesitas saber para viajar a Colombia en 2026. Cartag
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 8
-heroImage: "/img/blog/guia-viaje-colombia.jpg"
+heroImage: "/img/blog/cartagena.jpg"
 bookingDest: "Colombia"
 ---
 

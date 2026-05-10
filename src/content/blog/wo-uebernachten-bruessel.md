@@ -5,7 +5,7 @@ description: "Brüssel hat 5 sehr unterschiedliche Stadtteile: Grand Place touri
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-bruessel.jpg"
+heroImage: "/img/blog/brussels.jpg"
 bookingDest: "Brüssel"
 ---
 

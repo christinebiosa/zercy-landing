@@ -5,7 +5,7 @@ description: "What actually works on long-haul flights with children? Gear, seat
 pubDate: 2026-05-09
 category: "Travel Tips"
 readingTime: 6
-heroImage: "/img/blog/long-haul-flight-with-kids.jpg"
+heroImage: "/img/blog/baby-travel.jpg"
 ---
 
 A long-haul flight with kids is not a vacation. That is the honest starting point. It is a logistical effort that requires planning before, during, and after the flight. But it is doable, and it is worth it: Australia, Japan, the Caribbean, the US West Coast. Flying there with children is not a guarantee of relaxation, but it is a real adventure.

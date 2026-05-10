@@ -5,7 +5,7 @@ description: "Zurich has 5 distinct neighborhoods: Old Town historic, Langstrass
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-zurich.jpg"
+heroImage: "/img/blog/zurich.jpg"
 bookingDest: "Zürich"
 ---
 

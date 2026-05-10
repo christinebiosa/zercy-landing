@@ -5,7 +5,7 @@ description: "Stockholm has 5 neighborhoods with distinct characters: medieval G
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-stockholm.jpg"
+heroImage: "/img/blog/stockholm.jpg"
 bookingDest: "Stockholm"
 ---
 

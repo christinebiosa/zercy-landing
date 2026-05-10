@@ -5,7 +5,7 @@ description: "Auckland hat 5 sehr unterschiedliche Stadtteile: CBD mit Sky Tower
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-auckland.jpg"
+heroImage: "/img/blog/auckland.jpg"
 bookingDest: "Auckland"
 ---
 

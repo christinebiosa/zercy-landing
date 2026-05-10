@@ -5,7 +5,7 @@ description: "Kopenhagen hat 5 Stadtteile für jeden Reisenden: historisches Ind
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-kopenhagen.jpg"
+heroImage: "/img/blog/copenhagen.jpg"
 bookingDest: "Copenhagen"
 ---
 

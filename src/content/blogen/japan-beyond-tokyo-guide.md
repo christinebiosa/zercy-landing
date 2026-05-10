@@ -5,7 +5,7 @@ description: "Discover Japan beyond Tokyo: Kyoto with geishas and temples, Osaka
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 9
-heroImage: "/img/blog/japan-beyond-tokyo-guide.jpg"
+heroImage: "/img/blog/japan-kyoto.jpg"
 bookingDest: "Kyoto"
 ---
 

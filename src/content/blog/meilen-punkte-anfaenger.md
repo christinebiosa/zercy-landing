@@ -5,7 +5,7 @@ description: "Miles & More, Flying Blue, Avios: Wie Vielfliegerprogramme funktio
 pubDate: 2026-05-09
 category: "Clever Reisen"
 readingTime: 6
-heroImage: "/img/blog/meilen-punkte-anfaenger.jpg"
+heroImage: "/img/blog/miles-points.jpg"
 ---
 
 Meilen und Punkte sammeln klingt nach etwas für Vielflieger in Anzügen. Das stimmt nicht. Wer ein paarmal im Jahr fliegt und die richtigen Programme kennt, kann langfristig echte Vorteile herausholen. Keine Hacks, keine Tricks. Einfach verstehen, wie die Programme funktionieren, und vernünftig einsetzen.

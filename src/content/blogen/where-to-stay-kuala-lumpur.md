@@ -5,7 +5,7 @@ description: "Kuala Lumpur has neighborhoods for every budget: KLCC near the Pet
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7
-heroImage: "/img/blog/where-to-stay-kuala-lumpur.jpg"
+heroImage: "/img/blog/kuala-lumpur.jpg"
 bookingDest: "Kuala Lumpur"
 ---
 

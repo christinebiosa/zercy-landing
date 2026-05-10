@@ -5,7 +5,7 @@ description: "Get a free hotel upgrade: 7 methods that actually work, when to as
 pubDate: 2026-05-09
 category: "Smart Travel"
 readingTime: 7
-heroImage: "/img/blog/hotel-upgrade-free-tips.jpg"
+heroImage: "/img/blog/hotel-upgrade.jpg"
 ---
 
 Some travelers check into hotels and regularly get moved to better rooms. For free. Without complaining. Without tricks. And then there's everyone else.

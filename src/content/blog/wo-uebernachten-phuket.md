@@ -5,7 +5,7 @@ description: "Phuket hat 5 Strandgebiete mit komplett verschiedenem Charakter: P
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7
-heroImage: "/img/blog/wo-uebernachten-phuket.jpg"
+heroImage: "/img/blog/phuket.jpg"
 bookingDest: "Phuket"
 ---
 

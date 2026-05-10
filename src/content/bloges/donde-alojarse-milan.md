@@ -5,7 +5,7 @@ description: "Milán tiene 5 barrios muy distintos: el centro turístico del Duo
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-milan.jpg"
+heroImage: "/img/blog/milan.jpg"
 bookingDest: "Milan"
 ---
 

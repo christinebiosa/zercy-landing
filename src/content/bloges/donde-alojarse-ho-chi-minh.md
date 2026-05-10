@@ -5,7 +5,7 @@ description: "Ho Chi Minh tiene 5 zonas distintas: el colonial Distrito 1 con lo
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7
-heroImage: "/img/blog/donde-alojarse-ho-chi-minh.jpg"
+heroImage: "/img/blog/ho-chi-minh.jpg"
 bookingDest: "Ho Chi Minh City"
 ---
 
