@@ -656,6 +656,32 @@ export const slugToTopic = {
   'where-to-stay-nairobi': 'nairobi',
   'donde-alojarse-nairobi': 'nairobi',
 
+  // ===== BATCH 2026-05-11 — Tallinn, Riga, Route 66 =====
+  // Tallinn
+  'wo-uebernachten-tallinn': 'tallinn',
+  'where-to-stay-tallinn': 'tallinn',
+  'donde-alojarse-tallin': 'tallinn',
+  // Riga
+  'wo-uebernachten-riga': 'riga',
+  'where-to-stay-riga': 'riga',
+  'donde-alojarse-riga': 'riga',
+  // Route 66
+  'route-66-usa-roadtrip': 'route-66',
+  'route-66-usa-road-trip': 'route-66',
+  'ruta-66-estados-unidos-road-trip': 'route-66',
+  // Nice / Nizza
+  'wo-uebernachten-nizza': 'nice',
+  'where-to-stay-nice': 'nice',
+  'donde-alojarse-niza': 'nice',
+  // Bologna
+  'wo-uebernachten-bologna': 'bologna',
+  'where-to-stay-bologna': 'bologna',
+  'donde-alojarse-bolonia': 'bologna',
+  // Bali vs. Lombok comparison
+  'bali-vs-lombok-vergleich': 'bali-lombok',
+  'bali-vs-lombok-comparison': 'bali-lombok',
+  'bali-vs-lombok-comparacion': 'bali-lombok',
+
   // ===== BATCH 2026-05-10 — 5 City Guides + 5 Themenartikel =====
   // Naples / Neapel
   'wo-uebernachten-neapel': 'neapel',
@@ -697,6 +723,108 @@ export const slugToTopic = {
   'familienurlaub-mit-kindern-tipps': 'familienurlaub',
   'family-vacation-with-kids-tips': 'familienurlaub',
   'vacaciones-en-familia-consejos': 'familienurlaub',
+
+  // ===== BATCH 2026-05-11 — Siem Reap + Sailing + Hiking =====
+  // Siem Reap
+  'wo-uebernachten-siem-reap': 'siem-reap',
+  'where-to-stay-siem-reap': 'siem-reap',
+  'donde-alojarse-siem-reap': 'siem-reap',
+  // Sailing Holiday (Beginners)
+  'segelurlaub-einsteiger-guide': 'sailing',
+  'sailing-holiday-beginners-guide': 'sailing',
+  'vacaciones-vela-principiantes': 'sailing',
+  // Long-Distance Hiking Trails
+  'fernwanderwege-welt-top-routen': 'hiking-trails',
+  'best-long-distance-hiking-trails-world': 'hiking-trails',
+  'mejores-rutas-senderismo-mundo': 'hiking-trails',
+
+  // ===== BATCH 2026-05-11 — Colombo + Tipping + Winter Sun =====
+  // Colombo
+  'wo-uebernachten-colombo': 'colombo',
+  'where-to-stay-colombo': 'colombo',
+  'donde-alojarse-colombo': 'colombo',
+  // Tipping worldwide
+  'trinkgeld-weltweit-guide': 'tipping-worldwide',
+  'tipping-culture-worldwide-guide': 'tipping-worldwide',
+  'propinas-en-el-mundo-guia': 'tipping-worldwide',
+  // Winter sun destinations
+  'wintersonnen-destinationen-januar': 'winter-sun',
+  'winter-sun-destinations-january': 'winter-sun',
+  'destinos-sol-invierno-enero': 'winter-sun',
+
+  // ===== BATCH 2026-05-11 — 30 new articles (agents 3-6, 8-9) =====
+  // Salzburg
+  'wo-uebernachten-salzburg': 'salzburg',
+  'where-to-stay-salzburg': 'salzburg',
+  'donde-alojarse-salzburgo': 'salzburg',
+  // Split
+  'wo-uebernachten-split': 'split',
+  'where-to-stay-split': 'split',
+  'donde-alojarse-split': 'split',
+  // Südostasien Budget
+  'suedostasien-budget-reisen': 'southeast-asia-budget',
+  'southeast-asia-budget-travel': 'southeast-asia-budget',
+  'sudeste-asiatico-viaje-economico': 'southeast-asia-budget',
+  // Tenerife
+  'wo-uebernachten-teneriffa': 'tenerife',
+  'where-to-stay-tenerife': 'tenerife',
+  'donde-alojarse-tenerife': 'tenerife',
+  // Boston
+  'wo-uebernachten-boston': 'boston',
+  'where-to-stay-boston': 'boston',
+  'donde-alojarse-boston': 'boston',
+  // East Africa Safari
+  'safari-ostafrika-guide': 'east-africa-safari',
+  'east-africa-safari-guide': 'east-africa-safari',
+  'safari-africa-oriental-guia': 'east-africa-safari',
+  // Seattle
+  'wo-uebernachten-seattle': 'seattle',
+  'where-to-stay-seattle': 'seattle',
+  'donde-alojarse-seattle': 'seattle',
+  // Nashville
+  'wo-uebernachten-nashville': 'nashville',
+  'where-to-stay-nashville': 'nashville',
+  'donde-alojarse-nashville': 'nashville',
+  // Digital Nomad Visa
+  'digital-nomad-visum-laender-2026': 'digital-nomad-visa',
+  'digital-nomad-visa-countries-2026': 'digital-nomad-visa',
+  'visa-nomada-digital-paises-2026': 'digital-nomad-visa',
+  // Penang
+  'wo-uebernachten-penang': 'penang',
+  'where-to-stay-penang': 'penang',
+  'donde-alojarse-penang': 'penang',
+  // Best Beaches Europe
+  'schoenste-straende-europa-2026': 'europe-beaches',
+  'best-beaches-europe-2026': 'europe-beaches',
+  'mejores-playas-europa-2026': 'europe-beaches',
+  // Wellness & Spa
+  'wellness-spa-reisen-destinationen': 'wellness-spa',
+  'wellness-spa-travel-destinations': 'wellness-spa',
+  'viajes-wellness-spa-destinos': 'wellness-spa',
+  // Brisbane
+  'wo-uebernachten-brisbane': 'brisbane',
+  'where-to-stay-brisbane': 'brisbane',
+  'donde-alojarse-brisbane': 'brisbane',
+  // Food Travel
+  'food-travel-essen-wie-einheimischer': 'food-travel',
+  'food-travel-eat-like-a-local': 'food-travel',
+  'turismo-gastronomico-comer-como-local': 'food-travel',
+  // Travel Mistakes
+  'reisefehler-vermeiden-klassische-fehler': 'travel-mistakes',
+  'travel-mistakes-avoid-common': 'travel-mistakes',
+  'errores-viaje-evitar-clasicos': 'travel-mistakes',
+  // Cairo
+  'wo-uebernachten-kairo': 'cairo',
+  'where-to-stay-cairo': 'cairo',
+  'donde-alojarse-el-cairo': 'cairo',
+  // Hotel Categories
+  'hotel-kategorien-erklaert': 'hotel-categories',
+  'hotel-categories-explained': 'hotel-categories',
+  'categorias-hotel-explicadas': 'hotel-categories',
+  // Teen Travel
+  'reisen-mit-teenagern-tipps': 'teen-travel',
+  'travel-with-teenagers-tips': 'teen-travel',
+  'viajar-con-adolescentes-consejos': 'teen-travel',
 };
 
 // Topic key -> Unsplash search query (used when downloading)
@@ -879,6 +1007,13 @@ export const topicToQuery = {
   'valletta': 'valletta malta grand harbour baroque architecture',
   'chiang-mai': 'chiang mai thailand temple wat',
   'nairobi': 'nairobi kenya skyline africa city modern',
+  // Batch 2026-05-11
+  'tallinn': 'tallinn estonia old town medieval tower',
+  'riga': 'riga latvia old town medieval',
+  'route-66': 'route 66 usa road desert highway',
+  'nice': 'nice france promenade des anglais mediterranean',
+  'bologna': 'bologna italy two towers portico medieval',
+  'bali-lombok': 'bali indonesia tropical beach volcano green',
   // Batch 2026-05-10
   'neapel': 'naples italy bay vesuvius waterfront',
   'malaga': 'malaga spain mediterranean harbor old city',
@@ -890,4 +1025,31 @@ export const topicToQuery = {
   'hostel': 'hostel dorm bunk bed travelers backpacker',
   'geld-ausland': 'money foreign currency travel cash cards',
   'familienurlaub': 'family vacation beach kids summer travel happy',
+  // Batch 2026-05-11 — Siem Reap + Sailing + Hiking
+  'siem-reap': 'siem reap angkor wat temple cambodia',
+  'sailing': 'sailing boat mediterranean sea yacht',
+  'hiking-trails': 'long distance hiking trail mountain wilderness',
+  // Batch 2026-05-11 — Colombo + Tipping + Winter Sun
+  'colombo': 'colombo sri lanka galle face green skyline',
+  'tipping-worldwide': 'money tip wallet travel global',
+  'winter-sun': 'winter sun beach tropical warm january',
+  // Batch 2026-05-11 — agents 3-6, 8-9
+  'salzburg': 'salzburg austria old town castle fortress river',
+  'split': 'split croatia adriatic coast harbor',
+  'southeast-asia-budget': 'southeast asia backpacker travel budget hostel',
+  'tenerife': 'tenerife canary islands teide volcano coast beach',
+  'boston': 'boston massachusetts harbor skyline faneuil hall',
+  'east-africa-safari': 'east africa safari savanna wildlife lion kenya',
+  'seattle': 'seattle washington space needle skyline waterfront',
+  'nashville': 'nashville tennessee broadway honky tonk downtown',
+  'digital-nomad-visa': 'digital nomad laptop passport travel remote work',
+  'penang': 'penang malaysia george town street art heritage',
+  'europe-beaches': 'europe mediterranean beach crystal clear water sand',
+  'wellness-spa': 'spa wellness retreat pool relax thermal',
+  'brisbane': 'brisbane australia story bridge river skyline',
+  'food-travel': 'food market street food local cuisine travel',
+  'travel-mistakes': 'travel mistake luggage airport stress',
+  'cairo': 'cairo egypt pyramids giza sphinx desert',
+  'hotel-categories': 'hotel lobby luxury boutique rating reception',
+  'teen-travel': 'family travel teenagers adventure fun vacation',
 };
