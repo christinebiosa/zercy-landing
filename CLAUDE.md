@@ -364,11 +364,69 @@ Jeder Artikel braucht:
 
 DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 
-**Bestehende ES-Artikel (Spanish Blog, Phase 1 Stand 2026-05-08):**
-- donde-alojarse-cancun, donde-alojarse-ciudad-de-mexico, donde-alojarse-tulum
-- donde-alojarse-cartagena, donde-alojarse-bogota, donde-alojarse-medellin
-- donde-alojarse-lima, donde-alojarse-cusco, donde-alojarse-buenos-aires
-- donde-alojarse-mendoza, donde-alojarse-rio-de-janeiro, donde-alojarse-miami
+**Bestehende ES-Artikel (Slugs für interne Verlinkung — Stand 2026-05-11):**
+- donde-alojarse-amsterdam, donde-alojarse-antalya, donde-alojarse-atenas, donde-alojarse-auckland
+- donde-alojarse-bali, donde-alojarse-bangkok, donde-alojarse-barcelona, donde-alojarse-berlin
+- donde-alojarse-bogota, donde-alojarse-bolonia, donde-alojarse-boston, donde-alojarse-brisbane
+- donde-alojarse-bruselas, donde-alojarse-budapest, donde-alojarse-buenos-aires, donde-alojarse-cancun
+- donde-alojarse-cartagena, donde-alojarse-chiang-mai, donde-alojarse-chicago, donde-alojarse-ciudad-de-mexico
+- donde-alojarse-ciudad-del-cabo, donde-alojarse-colombo, donde-alojarse-copenhague, donde-alojarse-cracovia
+- donde-alojarse-cusco, donde-alojarse-delhi, donde-alojarse-dublin, donde-alojarse-dubrovnik
+- donde-alojarse-edimburgo, donde-alojarse-el-cairo, donde-alojarse-estambul, donde-alojarse-estocolmo
+- donde-alojarse-florencia, donde-alojarse-goa, donde-alojarse-hanoi, donde-alojarse-ho-chi-minh
+- donde-alojarse-hong-kong, donde-alojarse-jaipur, donde-alojarse-johannesburg, donde-alojarse-kioto
+- donde-alojarse-kuala-lumpur, donde-alojarse-la-valeta, donde-alojarse-las-vegas, donde-alojarse-lima
+- donde-alojarse-lisboa, donde-alojarse-los-angeles, donde-alojarse-madrid, donde-alojarse-malaga
+- donde-alojarse-marrakech, donde-alojarse-marsella, donde-alojarse-medellin, donde-alojarse-melbourne
+- donde-alojarse-mendoza, donde-alojarse-miami, donde-alojarse-milan, donde-alojarse-mumbai
+- donde-alojarse-munich, donde-alojarse-mykonos, donde-alojarse-nairobi, donde-alojarse-napoles
+- donde-alojarse-nashville, donde-alojarse-niza, donde-alojarse-nueva-orleans, donde-alojarse-nueva-york
+- donde-alojarse-oaxaca, donde-alojarse-oporto, donde-alojarse-osaka, donde-alojarse-oslo
+- donde-alojarse-paris, donde-alojarse-penang, donde-alojarse-phuket, donde-alojarse-playa-del-carmen
+- donde-alojarse-praga, donde-alojarse-puerto-vallarta, donde-alojarse-reikiavik, donde-alojarse-riga
+- donde-alojarse-rio-de-janeiro, donde-alojarse-roma, donde-alojarse-salzburgo, donde-alojarse-san-francisco
+- donde-alojarse-santiago, donde-alojarse-santorini, donde-alojarse-sao-paulo, donde-alojarse-seattle
+- donde-alojarse-seul, donde-alojarse-sevilla, donde-alojarse-siem-reap, donde-alojarse-singapur
+- donde-alojarse-split, donde-alojarse-sydney, donde-alojarse-taipei, donde-alojarse-tallin
+- donde-alojarse-tenerife, donde-alojarse-tokio, donde-alojarse-toronto, donde-alojarse-tulum
+- donde-alojarse-valencia, donde-alojarse-vancouver, donde-alojarse-varsovia, donde-alojarse-venecia
+- donde-alojarse-viena, donde-alojarse-washington-dc, donde-alojarse-zurich
+- 48-horas-barcelona, 48-horas-estambul, 48-horas-roma, acceso-sala-vip-sin-business
+- airbnb-experiences-vale-la-pena, airbnb-vs-hotel-comparacion, albania-riviera-escondida
+- apartamento-vs-hotel-cual-elegir, apulia-sur-italia-guia, auroras-boreales-2026
+- bali-vs-lombok-comparacion, bangkok-3-dias, booking-genius-vale-la-pena, business-class-sin-millas
+- categorias-hotel-explicadas, checklist-alquiler-coche, ciberseguridad-viajeros
+- compensacion-co2-vuelos, consejos-vuelos-baratos, consolidadores-alquiler-ahorrar
+- costa-rica-ruta-completa, costa-rica-surf, costes-ocultos-alquiler-coche, cruceros-ampliar-ciudades
+- cuando-reservar-vuelos, destinos-sol-invierno-enero, dinero-en-el-extranjero-consejos
+- equipaje-mano-vs-facturado, errores-viaje-evitar-clasicos, eslovenia-secreto-verde-2026
+- fotografia-viaje-consejos, guia-interrail-2026, guia-reservar-hostel, guia-sim-extranjero
+- guia-stopover-turismo, guia-viaje-colombia, guia-viaje-nueva-zelanda
+- herramientas-ia-comparativa-viajes, hidden-city-ticketing-explicado, hostel-o-hotel-2026
+- hoteles-boutique-guia, ia-cambia-planificacion-viajes, ia-comparativa-planificacion-2026
+- islandia-guia-viaje, islas-croacia-island-hopping, islas-feroe-guia, islas-griegas-comparativa
+- japon-mas-alla-de-tokio, joyas-ocultas-europa, liquidos-equipaje-mano-2026
+- lisboa-fuera-ruta-turistica, madrid-24-horas, maldivas-guia-viaje-2026, maleta-capsula-equipaje-mano
+- mejores-apps-viaje-2026, mejores-apps-viaje-sin-internet, mejores-destinos-otono-viaje
+- mejores-playas-europa-2026, mejores-rutas-senderismo-mundo, mejores-tarjetas-credito-viaje-2026
+- millas-puntos-principiantes, modena-museo-ferrari, normas-powerbank-equipaje-mano
+- open-jaw-tickets-truco-viaje, oporto-hermana-subestimada, osaka-vs-kyoto
+- patagonia-3-semanas-ruta, peru-guia-viaje-highlights, planificador-ia-vs-agencia-viajes
+- propinas-en-el-mundo-guia, que-es-zercy, reserva-anticipada-vs-last-minute
+- reservar-online-o-directo, retrasos-vuelo-derechos, riads-marruecos-guia
+- road-trip-highlands-escocia, road-trip-marruecos, roadtrip-planificacion-etapas
+- ruta-66-estados-unidos-road-trip, sabbatical-guia-planificacion, safari-africa-oriental-guia
+- santiago-de-compostela-ruta, seguro-viaje-vale-la-pena, slow-travel-que-significa
+- solo-equipaje-de-mano, sudeste-asiatico-viaje-economico, superar-jetlag-rapido
+- tailandia-2-semanas-ruta, tarjeta-credito-viajes-2026, tokio-viaje-gastronomico
+- tren-vs-avion-europa-2026, trenes-nocturnos-europa-2026, trucos-aeropuerto, trucos-upgrade-hotel-gratis
+- turismo-gastronomico-comer-como-local, vacaciones-en-familia-consejos, vacaciones-ski-europa-mejores-destinos
+- vacaciones-vela-principiantes, viajar-con-adolescentes-consejos, viajar-con-bebe-primer-vuelo
+- viajar-con-perro-europa, viajar-con-poco-dinero-consejos, viajar-despues-60-consejos
+- viaje-familiar-europa-mejores-destinos, viaje-lujo-economico-trucos, viaje-sin-plastico-consejos
+- viaje-solo-mujeres-seguro, viajes-tren-europa, viajes-wellness-spa-destinos, viena-fin-de-semana
+- vietnam-2-semanas-ruta, visa-nomada-digital-paises-2026, vuelo-largo-con-ninos
+- workation-impuestos-2026, zanzibar-stone-town-guia, zercy-logbook-que-es
 
 **ES-Stil-Regeln** (für künftige Artikel):
 - LATAM-Spanisch (nicht Castellano): "tú" für Anrede, "ustedes" statt "vosotros"
