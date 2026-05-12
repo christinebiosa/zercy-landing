@@ -951,6 +951,47 @@ export const slugToTopic = {
   'beste-badeziele-weltweit-2026': 'best-beaches-world',
   'best-beach-destinations-worldwide-2026': 'best-beaches-world',
   'mejores-destinos-playa-mundo-2026': 'best-beaches-world',
+  // ===== MINI-BATCH 2026-05-11 — 10 neue Artikel (5 City Guides + 5 Thematic) =====
+  // Nikosia
+  'wo-uebernachten-nikosia': 'nicosia',
+  'where-to-stay-nicosia': 'nicosia',
+  'donde-alojarse-nicosia': 'nicosia',
+  // Alicante
+  'wo-uebernachten-alicante': 'alicante',
+  'where-to-stay-alicante': 'alicante',
+  'donde-alojarse-alicante': 'alicante',
+  // Bratislava
+  'wo-uebernachten-bratislava': 'bratislava',
+  'where-to-stay-bratislava': 'bratislava',
+  'donde-alojarse-bratislava': 'bratislava',
+  // Thessaloniki
+  'wo-uebernachten-thessaloniki': 'thessaloniki',
+  'where-to-stay-thessaloniki': 'thessaloniki',
+  'donde-alojarse-tesalonica': 'thessaloniki',
+  // Gent / Ghent / Gante
+  'wo-uebernachten-gent': 'ghent',
+  'where-to-stay-ghent': 'ghent',
+  'donde-alojarse-gante': 'ghent',
+  // Glamping Europa
+  'glamping-europa-guide': 'glamping-europe',
+  'glamping-europe-guide': 'glamping-europe',
+  'glamping-vacaciones-europa': 'glamping-europe',
+  // Flusskreuzfahrt Europa
+  'flusskreuzfahrt-europa-guide': 'river-cruise-europe',
+  'river-cruise-europe-guide': 'river-cruise-europe',
+  'crucero-fluvial-europa-guia': 'river-cruise-europe',
+  // All-Inclusive Urlaub
+  'all-inclusive-urlaub-lohnt-sich': 'all-inclusive',
+  'all-inclusive-holiday-worth-it': 'all-inclusive',
+  'vacaciones-todo-incluido-vale-la-pena': 'all-inclusive',
+  // Workation Portugal & Spanien
+  'workation-portugal-spanien-2026': 'workation-beach',
+  'workation-portugal-spain-2026': 'workation-beach',
+  'workation-portugal-espana-2026': 'workation-beach',
+  // Bergwandern Alpen
+  'bergwandern-alpen-anfaenger-guide': 'alpine-hiking',
+  'alpine-hiking-beginners-guide': 'alpine-hiking',
+  'senderismo-alpes-principiantes-guia': 'alpine-hiking',
 };
 
 // Topic key -> Unsplash search query (used when downloading)
@@ -1212,4 +1253,15 @@ export const topicToQuery = {
   'caribbean-islands': 'caribbean islands turquoise water beach tropical',
   'package-tour-vs-independent': 'travel planning map group tour independent',
   'best-beaches-world': 'tropical beach paradise crystal clear water white sand',
+  // Mini-Batch 2026-05-11
+  'nicosia': 'nicosia cyprus old city venetian walls church',
+  'alicante': 'alicante spain castle coast mediterranean sunny',
+  'bratislava': 'bratislava slovakia castle danube old town bridge',
+  'thessaloniki': 'greece city harbor waterfront mediterranean sea',
+  'ghent': 'ghent belgium canal medieval guildhall reflection',
+  'glamping-europe': 'glamping luxury tent forest nature europe',
+  'river-cruise-europe': 'river cruise boat europe town reflection water',
+  'all-inclusive': 'all inclusive resort pool beach tropical hotel',
+  'workation-beach': 'laptop beach remote work ocean coworking cafe',
+  'alpine-hiking': 'alps hiking mountain trail summer nature meadow',
 };
