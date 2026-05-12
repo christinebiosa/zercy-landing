@@ -427,6 +427,15 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - viaje-solo-mujeres-seguro, viajes-tren-europa, viajes-wellness-spa-destinos, viena-fin-de-semana
 - vietnam-2-semanas-ruta, visa-nomada-digital-paises-2026, vuelo-largo-con-ninos
 - workation-impuestos-2026, zanzibar-stone-town-guia, zercy-logbook-que-es
+- donde-alojarse-burdeos, donde-alojarse-palma-de-mallorca, donde-alojarse-bilbao, donde-alojarse-granada
+- donde-alojarse-lanzarote, donde-alojarse-liubliana, donde-alojarse-kotor, donde-alojarse-bucarest
+- donde-alojarse-vilna, donde-alojarse-montreal, donde-alojarse-guadalajara, donde-alojarse-katmandu
+- donde-alojarse-hoi-an, donde-alojarse-queenstown, donde-alojarse-funchal
+- campervan-vacaciones-europa, algarve-guia-viaje-2026, buceo-snorkel-destinos-2026
+- ciudades-europeas-invierno-guia, suiza-guia-viaje-2026, tarjetas-ciudad-museos-vale-la-pena
+- transporte-aeropuerto-guia-2026, yoga-retiros-destinos-2026, viaje-surf-principiantes-destinos
+- crucero-guia-principiantes, intercambio-casas-guia-viajeros, paises-visa-llegada-2026
+- islas-caribe-island-hopping-guia, viaje-organizado-vs-independiente, mejores-destinos-playa-mundo-2026
 
 **ES-Stil-Regeln** (für künftige Artikel):
 - LATAM-Spanisch (nicht Castellano): "tú" für Anrede, "ustedes" statt "vosotros"
@@ -515,6 +524,15 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - powerbank-regeln-handgepaeck-2026, plastik-frei-reisen-tipps
 - patagonien-3-wochen-route, sansibar-stone-town-guide
 - bahn-vs-flieger-europa-2026, slowenien-geheimnis-2026
+- wo-uebernachten-bordeaux, wo-uebernachten-palma-de-mallorca, wo-uebernachten-bilbao, wo-uebernachten-granada
+- wo-uebernachten-lanzarote, wo-uebernachten-ljubljana, wo-uebernachten-kotor, wo-uebernachten-bukarest
+- wo-uebernachten-vilnius, wo-uebernachten-montreal, wo-uebernachten-guadalajara, wo-uebernachten-kathmandu
+- wo-uebernachten-hoi-an, wo-uebernachten-queenstown, wo-uebernachten-funchal
+- campervan-urlaub-europa, algarve-reisefuehrer-2026, tauchen-schnorcheln-reiseziele
+- europaeische-staedte-winter-tipps, schweiz-reise-highlights-guide, city-cards-museumspaesse-lohnen-sich
+- flughafentransfer-tipps-2026, yoga-retreat-reiseziele-2026, surfurlaub-anfaenger-destinations
+- kreuzfahrt-einsteiger-guide, wohnungstausch-urlaub-guide, visa-on-arrival-laender-2026
+- inselhopping-karibik-guide, pauschalreise-vs-individualreise, beste-badeziele-weltweit-2026
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -577,6 +595,15 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - powerbank-rules-carry-on-2026, plastic-free-travel-tips
 - patagonia-3-week-route, zanzibar-stone-town-guide
 - train-vs-plane-europe-2026, slovenia-green-secret-2026
+- where-to-stay-bordeaux, where-to-stay-palma-de-mallorca, where-to-stay-bilbao, where-to-stay-granada
+- where-to-stay-lanzarote, where-to-stay-ljubljana, where-to-stay-kotor, where-to-stay-bucharest
+- where-to-stay-vilnius, where-to-stay-montreal, where-to-stay-guadalajara, where-to-stay-kathmandu
+- where-to-stay-hoi-an, where-to-stay-queenstown, where-to-stay-funchal
+- campervan-europe-guide, algarve-travel-guide-2026, diving-snorkeling-destinations
+- european-cities-winter-guide, switzerland-travel-highlights, city-cards-museum-passes-worth-it
+- airport-transfer-guide-2026, yoga-retreat-destinations-2026, surfing-holiday-beginners-guide
+- cruise-beginners-guide, house-swap-travel-guide, visa-on-arrival-countries-2026
+- caribbean-island-hopping-guide, package-tour-vs-independent-travel, best-beach-destinations-worldwide-2026
 
 ### Schema — automatisch via Template
 Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:
@@ -602,9 +629,9 @@ Vor dem FAQ, nach dem `---` Trennstrich: 1–2 Sätze die Zercy erwähnen, natü
 
 ### ✅ Bereits vorhandene Themenartikel — IMMER HIER PRÜFEN vor neuen Vorschlägen!
 
-**Stand: 2026-05-11 | 118 Themenartikel**
+**Stand: 2026-05-11 | 133 Themenartikel**
 
-48h Rom, 48h Barcelona, 48h Istanbul, Airbnb Experiences, Airbnb vs. Hotel, Airport Hacks, Albanien Riviera, Apulien/Süditalien, Auslands-SIM Guide, Bahn vs. Flieger Europa, Bali vs. Lombok, Bangkok 3 Tage, Beste Herbstziele, Beste Offline Apps, Beste Reise-Kreditkarten 2026, Beste Travel Apps 2026, Booking Apartments vs. Airbnb, Booking Genius, Booking vs. Direkt, Boutique Hotels, Business Class, Business Class ohne Meilen, Capsule Wardrobe Handgepäck, CO2 Kompensation, Costa Rica Rundreise, Costa Rica Surfen, Cyber-Sicherheit, Digital Nomad Visa, Färöer Inseln, Familienurlaub Europa Ziele, Familienurlaub mit Kindern Tipps, Fernwanderwege Welt, Flugverspätung Rechte, Food Travel, Frühbucher vs. Last Minute, Geheimtipps Europa, Geld im Ausland, Griechenland Inseln Vergleich, Günstig Fliegen, Handgepäck Flüssigkeiten, Handgepäck vs. Aufgegeben, Hidden City Ticketing, Hostel Guide (Buchen), Hostel oder Hotel 2026, Hotel-Kategorien erklärt, Hotel Upgrade Tipps, Interrail Guide 2026, Island Reiseguide, Japan beyond Tokyo, Jetlag, KI & Reiseplanung (4 Artikel), Kolumbien Reiseguide, Kreuzfahrt Städte, Kroatien Island Hopping, Langstreckenflug mit Kindern, Lissabon Off the Beaten, Lounge Zugang, Los Angeles, Luxusreisen günstig, Madrid 24h, Malediven Guide, Marokko Roadtrip, Meilen & Punkte Anfänger, Mietwagen (3 Artikel), Mit Hund Europa, Modena Ferrari, Nachtzüge Europa, Neuseeland Guide, Nordlichter 2026, Nur Handgepäck, Open Jaw Tickets, Osaka vs. Kyoto, Patagonien 3 Wochen, Peru Guide, Plastik-frei Reisen, Porto Guide, Powerbank Regeln, Reisefehler vermeiden, Reisefotografie, Reisekreditkarte 2026, Reisen kleines Budget, Reisen mit Baby, Reisen mit Teenagern, Reisen nach 60, Reiseversicherung, Riads Marokko, Roadtrip Etappen, Route 66 USA, Sabbatical planen, Safari Ostafrika, Sansibar Stone Town, Santiago de Compostela, Schönste Strände Europa, Schottland Highlands Roadtrip, Segelurlaub Einsteiger, Skiurlaub Europa, Slow Travel, Slowenien Guide, Solo Reisen Frauen, Stopover Tourismus, Südostasien Budget, Thailand 2-Wochen-Route, Tokio Foodie, Trinkgeld weltweit, Vietnam 2-Wochen-Route, Wann Flüge buchen, Was ist Zercy, Wellness & Spa Reisen, Wien am Wochenende, Wintersonnen Januar, Workation Steuern, Zercy Logbook, Zugreisen Europa
+48h Rom, 48h Barcelona, 48h Istanbul, Airbnb Experiences, Airbnb vs. Hotel, Airport Hacks, Albanien Riviera, Algarve Guide 2026, Apulien/Süditalien, Auslands-SIM Guide, Bahn vs. Flieger Europa, Bali vs. Lombok, Bangkok 3 Tage, Beste Badeziele weltweit 2026, Beste Herbstziele, Beste Offline Apps, Beste Reise-Kreditkarten 2026, Beste Travel Apps 2026, Booking Apartments vs. Airbnb, Booking Genius, Booking vs. Direkt, Boutique Hotels, Business Class, Business Class ohne Meilen, Campervan Europa, Capsule Wardrobe Handgepäck, City Cards & Museumspässe, CO2 Kompensation, Costa Rica Rundreise, Costa Rica Surfen, Cyber-Sicherheit, Digital Nomad Visa, Europäische Städte im Winter, Färöer Inseln, Familienurlaub Europa Ziele, Familienurlaub mit Kindern Tipps, Fernwanderwege Welt, Flughafentransfer Tipps 2026, Flugverspätung Rechte, Food Travel, Frühbucher vs. Last Minute, Geheimtipps Europa, Geld im Ausland, Griechenland Inseln Vergleich, Günstig Fliegen, Handgepäck Flüssigkeiten, Handgepäck vs. Aufgegeben, Hidden City Ticketing, Hostel Guide (Buchen), Hostel oder Hotel 2026, Hotel-Kategorien erklärt, Hotel Upgrade Tipps, Inselhopping Karibik, Interrail Guide 2026, Island Reiseguide, Japan beyond Tokyo, Jetlag, KI & Reiseplanung (4 Artikel), Kolumbien Reiseguide, Kreuzfahrt Einsteiger, Kreuzfahrt Städte, Kroatien Island Hopping, Langstreckenflug mit Kindern, Lissabon Off the Beaten, Lounge Zugang, Los Angeles, Luxusreisen günstig, Madrid 24h, Malediven Guide, Marokko Roadtrip, Meilen & Punkte Anfänger, Mietwagen (3 Artikel), Mit Hund Europa, Modena Ferrari, Nachtzüge Europa, Neuseeland Guide, Nordlichter 2026, Nur Handgepäck, Open Jaw Tickets, Osaka vs. Kyoto, Patagonien 3 Wochen, Pauschalreise vs. Individualreise, Peru Guide, Plastik-frei Reisen, Porto Guide, Powerbank Regeln, Reisefehler vermeiden, Reisefotografie, Reisekreditkarte 2026, Reisen kleines Budget, Reisen mit Baby, Reisen mit Teenagern, Reisen nach 60, Reiseversicherung, Riads Marokko, Roadtrip Etappen, Route 66 USA, Sabbatical planen, Safari Ostafrika, Sansibar Stone Town, Santiago de Compostela, Schönste Strände Europa, Schottland Highlands Roadtrip, Schweiz Reise-Highlights, Segelurlaub Einsteiger, Skiurlaub Europa, Slow Travel, Slowenien Guide, Solo Reisen Frauen, Stopover Tourismus, Südostasien Budget, Surfurlaub Anfänger, Tauchen & Schnorcheln, Thailand 2-Wochen-Route, Tokio Foodie, Trinkgeld weltweit, Vietnam 2-Wochen-Route, Visa-on-Arrival Länder, Wann Flüge buchen, Was ist Zercy, Wellness & Spa Reisen, Wien am Wochenende, Wintersonnen Januar, Wohnungstausch, Workation Steuern, Yoga-Retreats 2026, Zercy Logbook, Zugreisen Europa
 
 **Regel:** Vor JEDEM neuen Themenartikel-Vorschlag diese Liste lesen. Nach jeder neuen Batch: Liste aktualisieren.
 
@@ -612,9 +639,9 @@ Vor dem FAQ, nach dem `---` Trennstrich: 1–2 Sätze die Zercy erwähnen, natü
 
 ### ✅ Bereits vorhandene City-Guides — IMMER HIER PRÜFEN vor neuen Vorschlägen!
 
-**Stand: 2026-05-11 | 104 Städte**
+**Stand: 2026-05-11 | 119 Städte**
 
-Amsterdam, Antalya, Athen, Auckland, Bali, Bangkok, Barcelona, Berlin, Bogotá, **Bologna**, **Boston**, **Brisbane**, Brüssel, Budapest, Buenos Aires, Cancún, Cape Town, Cartagena, Chiang Mai, Chicago, **Colombo**, Cusco, Delhi, Dublin, Dubrovnik, Edinburgh, Florenz, Goa, Hanoi, Ho Chi Minh Stadt, Hongkong, Istanbul, Jaipur, Johannesburg, **Kairo**, Kopenhagen, Krakau, Kuala Lumpur, Kyoto, Las Vegas, Lima, Lissabon, London, Los Angeles, Madrid, Mailand, Málaga, Marrakesch, Marseille, Melbourne, Medellín, Mendoza, Mexico City, Miami, München, Mumbai, Mykonos, **Nashville**, Nairobi, Neapel, **Nizza**, New Orleans, New York, Oaxaca, Osaka, Oslo, Paris, **Penang**, Phuket, Playa del Carmen, Porto, Prag, Puerto Vallarta, Reykjavik, **Riga**, Rio de Janeiro, Rom, **Salzburg**, San Francisco, Santiago, Santorini, São Paulo, **Seattle**, Seoul, Sevilla, **Siem Reap**, Singapur, **Split**, Stockholm, Sydney, Taipei, **Tallinn**, **Teneriffa**, Tokio, Toronto, Tulum, Valencia, Valletta, Vancouver, Venedig, Washington D.C., Warschau, Wien, Zürich
+Amsterdam, Antalya, Athen, Auckland, Bali, Bangkok, Barcelona, Berlin, Bilbao, Bogotá, Bologna, **Bordeaux**, Boston, Brisbane, Brüssel, Budapest, **Bukarest**, Buenos Aires, Cancún, Cape Town, Cartagena, Chiang Mai, Chicago, Colombo, Cusco, Delhi, Dublin, Dubrovnik, Edinburgh, Florenz, **Funchal**, Goa, Granada, **Guadalajara**, Hanoi, Ho Chi Minh Stadt, **Hoi An**, Hongkong, Istanbul, Jaipur, Johannesburg, Kairo, **Kathmandu**, Kopenhagen, **Kotor**, Krakau, Kuala Lumpur, Kyoto, **Lanzarote**, Las Vegas, Lima, Lissabon, **Ljubljana**, London, Los Angeles, Madrid, Mailand, Málaga, Marrakesch, Marseille, Melbourne, Medellín, Mendoza, Mexico City, Miami, **Montreal**, München, Mumbai, Mykonos, Nashville, Nairobi, Neapel, Nizza, New Orleans, New York, Oaxaca, Osaka, Oslo, **Palma de Mallorca**, Paris, Penang, Phuket, Playa del Carmen, Porto, Prag, Puerto Vallarta, **Queenstown**, Reykjavik, Riga, Rio de Janeiro, Rom, Salzburg, San Francisco, Santiago, Santorini, São Paulo, Seattle, Seoul, Sevilla, Siem Reap, Singapur, Split, Stockholm, Sydney, Taipei, Tallinn, Teneriffa, Tokio, Toronto, Tulum, Valencia, Valletta, Vancouver, Venedig, **Vilnius**, Washington D.C., Warschau, Wien, Zürich
 
 **Regel:** Vor JEDEM neuen City-Guide-Vorschlag diese Liste lesen. Nach jeder neuen Batch: Liste aktualisieren.
 
