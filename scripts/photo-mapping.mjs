@@ -825,6 +825,132 @@ export const slugToTopic = {
   'reisen-mit-teenagern-tipps': 'teen-travel',
   'travel-with-teenagers-tips': 'teen-travel',
   'viajar-con-adolescentes-consejos': 'teen-travel',
+  // Cruise Beginners Guide
+  'kreuzfahrt-einsteiger-guide': 'cruise-beginner',
+  'cruise-beginners-guide': 'cruise-beginner',
+  'crucero-guia-principiantes': 'cruise-beginner',
+  // House Swap Guide
+  'wohnungstausch-urlaub-guide': 'house-swap',
+  'house-swap-travel-guide': 'house-swap',
+  'intercambio-casas-guia-viajeros': 'house-swap',
+  // Visa on Arrival 2026
+  'visa-on-arrival-laender-2026': 'visa-on-arrival',
+  'visa-on-arrival-countries-2026': 'visa-on-arrival',
+  'paises-visa-llegada-2026': 'visa-on-arrival',
+
+  // ===== BATCH 2026-05-11 — Bilbao + Granada + Algarve =====
+  // Bilbao
+  'wo-uebernachten-bilbao': 'bilbao',
+  'where-to-stay-bilbao': 'bilbao',
+  'donde-alojarse-bilbao': 'bilbao',
+  // Granada
+  'wo-uebernachten-granada': 'granada',
+  'where-to-stay-granada': 'granada',
+  'donde-alojarse-granada': 'granada',
+  // Algarve (thematic)
+  'algarve-reisefuehrer-2026': 'algarve',
+  'algarve-travel-guide-2026': 'algarve',
+  'algarve-guia-viaje-2026': 'algarve',
+
+  // ===== BATCH 2026-05-11 — Kotor + Bucharest + Winter Europe =====
+  // Kotor
+  'wo-uebernachten-kotor': 'kotor',
+  'where-to-stay-kotor': 'kotor',
+  'donde-alojarse-kotor': 'kotor',
+  // Bucharest
+  'wo-uebernachten-bukarest': 'bucharest',
+  'where-to-stay-bucharest': 'bucharest',
+  'donde-alojarse-bucarest': 'bucharest',
+  // Winter Europe cities (thematic)
+  'europaeische-staedte-winter-tipps': 'winter-europe',
+  'european-cities-winter-guide': 'winter-europe',
+  'ciudades-europeas-invierno-guia': 'winter-europe',
+
+  // ===== BATCH 2026-05-11 — agents 1, 3, 5, 6, 7, 8, 10 =====
+  // Bordeaux
+  'wo-uebernachten-bordeaux': 'bordeaux',
+  'where-to-stay-bordeaux': 'bordeaux',
+  'donde-alojarse-burdeos': 'bordeaux',
+  // Palma de Mallorca
+  'wo-uebernachten-palma-de-mallorca': 'palma-de-mallorca',
+  'where-to-stay-palma-de-mallorca': 'palma-de-mallorca',
+  'donde-alojarse-palma-de-mallorca': 'palma-de-mallorca',
+  // Campervan Europe
+  'campervan-urlaub-europa': 'campervan-europe',
+  'campervan-europe-guide': 'campervan-europe',
+  'campervan-vacaciones-europa': 'campervan-europe',
+  // Lanzarote
+  'wo-uebernachten-lanzarote': 'lanzarote',
+  'where-to-stay-lanzarote': 'lanzarote',
+  'donde-alojarse-lanzarote': 'lanzarote',
+  // Ljubljana
+  'wo-uebernachten-ljubljana': 'ljubljana',
+  'where-to-stay-ljubljana': 'ljubljana',
+  'donde-alojarse-liubliana': 'ljubljana',
+  // Diving & Snorkeling
+  'tauchen-schnorcheln-reiseziele': 'diving-snorkeling',
+  'diving-snorkeling-destinations': 'diving-snorkeling',
+  'buceo-snorkel-destinos-2026': 'diving-snorkeling',
+  // Vilnius
+  'wo-uebernachten-vilnius': 'vilnius',
+  'where-to-stay-vilnius': 'vilnius',
+  'donde-alojarse-vilna': 'vilnius',
+  // Montreal
+  'wo-uebernachten-montreal': 'montreal',
+  'where-to-stay-montreal': 'montreal',
+  'donde-alojarse-montreal': 'montreal',
+  // Switzerland
+  'schweiz-reise-highlights-guide': 'switzerland',
+  'switzerland-travel-highlights': 'switzerland',
+  'suiza-guia-viaje-2026': 'switzerland',
+  // Guadalajara
+  'wo-uebernachten-guadalajara': 'guadalajara',
+  'where-to-stay-guadalajara': 'guadalajara',
+  'donde-alojarse-guadalajara': 'guadalajara',
+  // Kathmandu
+  'wo-uebernachten-kathmandu': 'kathmandu',
+  'where-to-stay-kathmandu': 'kathmandu',
+  'donde-alojarse-katmandu': 'kathmandu',
+  // City Cards
+  'city-cards-museumspaesse-lohnen-sich': 'city-cards',
+  'city-cards-museum-passes-worth-it': 'city-cards',
+  'tarjetas-ciudad-museos-vale-la-pena': 'city-cards',
+  // Hoi An
+  'wo-uebernachten-hoi-an': 'hoi-an',
+  'where-to-stay-hoi-an': 'hoi-an',
+  'donde-alojarse-hoi-an': 'hoi-an',
+  // Queenstown
+  'wo-uebernachten-queenstown': 'queenstown',
+  'where-to-stay-queenstown': 'queenstown',
+  'donde-alojarse-queenstown': 'queenstown',
+  // Airport Transfer
+  'flughafentransfer-tipps-2026': 'airport-transfer',
+  'airport-transfer-guide-2026': 'airport-transfer',
+  'transporte-aeropuerto-guia-2026': 'airport-transfer',
+  // Funchal
+  'wo-uebernachten-funchal': 'funchal',
+  'where-to-stay-funchal': 'funchal',
+  'donde-alojarse-funchal': 'funchal',
+  // Yoga Retreat
+  'yoga-retreat-reiseziele-2026': 'yoga-retreat',
+  'yoga-retreat-destinations-2026': 'yoga-retreat',
+  'yoga-retiros-destinos-2026': 'yoga-retreat',
+  // Surf for Beginners
+  'surfurlaub-anfaenger-destinations': 'surf-beginner',
+  'surfing-holiday-beginners-guide': 'surf-beginner',
+  'viaje-surf-principiantes-destinos': 'surf-beginner',
+  // Caribbean Island Hopping
+  'inselhopping-karibik-guide': 'caribbean-islands',
+  'caribbean-island-hopping-guide': 'caribbean-islands',
+  'islas-caribe-island-hopping-guia': 'caribbean-islands',
+  // Package Tour vs. Independent
+  'pauschalreise-vs-individualreise': 'package-tour-vs-independent',
+  'package-tour-vs-independent-travel': 'package-tour-vs-independent',
+  'viaje-organizado-vs-independiente': 'package-tour-vs-independent',
+  // Best Beaches Worldwide
+  'beste-badeziele-weltweit-2026': 'best-beaches-world',
+  'best-beach-destinations-worldwide-2026': 'best-beaches-world',
+  'mejores-destinos-playa-mundo-2026': 'best-beaches-world',
 };
 
 // Topic key -> Unsplash search query (used when downloading)
@@ -1052,4 +1178,38 @@ export const topicToQuery = {
   'cairo': 'cairo egypt pyramids giza sphinx desert',
   'hotel-categories': 'hotel lobby luxury boutique rating reception',
   'teen-travel': 'family travel teenagers adventure fun vacation',
+  // New 2026-05-11 batch
+  'cruise-beginner': 'cruise ship ocean deck vacation sunny',
+  'house-swap': 'house keys exchange home travel swap',
+  'visa-on-arrival': 'passport stamp arrival airport border',
+  // Batch 2026-05-11 — Bilbao + Granada + Algarve
+  'bilbao': 'bilbao guggenheim museum spain basque',
+  'granada': 'granada spain alhambra moorish palace',
+  'algarve': 'algarve portugal cliffs golden coast ocean',
+  // Batch 2026-05-11 — Kotor + Bucharest + Winter Europe
+  'kotor': 'mediterranean old town bay fortress walls',
+  'bucharest': 'eastern europe city palace boulevard architecture',
+  'winter-europe': 'europe christmas market winter snow lights',
+  // Batch 2026-05-11 — agents 1, 3, 5, 6, 7, 8, 10
+  'bordeaux': 'bordeaux france wine city river gironde',
+  'palma-de-mallorca': 'palma mallorca cathedral sea blue',
+  'campervan-europe': 'campervan road europe nature motorhome',
+  'lanzarote': 'lanzarote canary islands volcanic landscape ocean',
+  'ljubljana': 'ljubljana slovenia castle river old town',
+  'diving-snorkeling': 'diving coral reef tropical fish underwater',
+  'vilnius': 'vilnius lithuania old town baroque church',
+  'montreal': 'canada city old port river architecture',
+  'switzerland': 'switzerland alps mountains lake jungfrau',
+  'guadalajara': 'guadalajara mexico cathedral plaza historic',
+  'kathmandu': 'nepal himalaya temple mountain asia',
+  'city-cards': 'tourist city card museum pass travel',
+  'hoi-an': 'hoi an vietnam ancient town lanterns',
+  'queenstown': 'queenstown new zealand lake remarkables mountains',
+  'airport-transfer': 'airport terminal taxi bus transfer travelers',
+  'funchal': 'madeira portugal island flowers colorful',
+  'yoga-retreat': 'yoga retreat meditation sunrise mountains nature',
+  'surf-beginner': 'surfing beginner lesson wave ocean beach',
+  'caribbean-islands': 'caribbean islands turquoise water beach tropical',
+  'package-tour-vs-independent': 'travel planning map group tour independent',
+  'best-beaches-world': 'tropical beach paradise crystal clear water white sand',
 };
