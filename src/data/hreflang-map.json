@@ -1,58 +1,78 @@
 {
-  "wo-uebernachten-barcelona": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-barcelona",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-barcelona",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-barcelona"
+  "48-stunden-barcelona": {
+    "de": "https://www.zercy.app/blog/48-stunden-barcelona",
+    "en": "https://www.zercy.app/en/blog/48-hours-barcelona",
+    "es": "https://www.zercy.app/es/blog/48-horas-barcelona"
   },
-  "where-to-stay-barcelona": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-barcelona",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-barcelona",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-barcelona"
+  "48-hours-barcelona": {
+    "de": "https://www.zercy.app/blog/48-stunden-barcelona",
+    "en": "https://www.zercy.app/en/blog/48-hours-barcelona",
+    "es": "https://www.zercy.app/es/blog/48-horas-barcelona"
   },
-  "donde-alojarse-barcelona": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-barcelona",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-barcelona",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-barcelona"
+  "48-horas-barcelona": {
+    "de": "https://www.zercy.app/blog/48-stunden-barcelona",
+    "en": "https://www.zercy.app/en/blog/48-hours-barcelona",
+    "es": "https://www.zercy.app/es/blog/48-horas-barcelona"
   },
-  "wo-uebernachten-istanbul": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-istanbul",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-istanbul",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-estambul"
+  "48-stunden-istanbul": {
+    "de": "https://www.zercy.app/blog/48-stunden-istanbul",
+    "en": "https://www.zercy.app/en/blog/48-hours-istanbul",
+    "es": "https://www.zercy.app/es/blog/48-horas-estambul"
   },
-  "where-to-stay-istanbul": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-istanbul",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-istanbul",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-estambul"
+  "48-hours-istanbul": {
+    "de": "https://www.zercy.app/blog/48-stunden-istanbul",
+    "en": "https://www.zercy.app/en/blog/48-hours-istanbul",
+    "es": "https://www.zercy.app/es/blog/48-horas-estambul"
   },
-  "donde-alojarse-estambul": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-istanbul",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-istanbul",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-estambul"
+  "48-horas-estambul": {
+    "de": "https://www.zercy.app/blog/48-stunden-istanbul",
+    "en": "https://www.zercy.app/en/blog/48-hours-istanbul",
+    "es": "https://www.zercy.app/es/blog/48-horas-estambul"
   },
-  "wo-uebernachten-rom": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-rom",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-rome",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-roma"
+  "48-stunden-rom": {
+    "de": "https://www.zercy.app/blog/48-stunden-rom",
+    "en": "https://www.zercy.app/en/blog/48-hours-rome",
+    "es": "https://www.zercy.app/es/blog/48-horas-roma"
   },
-  "where-to-stay-rome": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-rom",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-rome",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-roma"
+  "48-hours-rome": {
+    "de": "https://www.zercy.app/blog/48-stunden-rom",
+    "en": "https://www.zercy.app/en/blog/48-hours-rome",
+    "es": "https://www.zercy.app/es/blog/48-horas-roma"
   },
-  "donde-alojarse-roma": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-rom",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-rome",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-roma"
+  "48-horas-roma": {
+    "de": "https://www.zercy.app/blog/48-stunden-rom",
+    "en": "https://www.zercy.app/en/blog/48-hours-rome",
+    "es": "https://www.zercy.app/es/blog/48-horas-roma"
   },
-  "booking-apartments-vs-airbnb": {
-    "de": "https://www.zercy.app/blog/booking-apartments-vs-airbnb",
-    "en": "https://www.zercy.app/en/blog/booking-apartments-vs-airbnb",
-    "es": "https://www.zercy.app/es/blog/apartamento-vs-hotel-cual-elegir"
+  "airbnb-experiences-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/airbnb-experiences-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/airbnb-experiences-worth-it",
+    "es": "https://www.zercy.app/es/blog/airbnb-experiences-vale-la-pena"
   },
-  "apartamento-vs-hotel-cual-elegir": {
-    "de": "https://www.zercy.app/blog/booking-apartments-vs-airbnb",
-    "en": "https://www.zercy.app/en/blog/booking-apartments-vs-airbnb",
-    "es": "https://www.zercy.app/es/blog/apartamento-vs-hotel-cual-elegir"
+  "airbnb-experiences-worth-it": {
+    "de": "https://www.zercy.app/blog/airbnb-experiences-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/airbnb-experiences-worth-it",
+    "es": "https://www.zercy.app/es/blog/airbnb-experiences-vale-la-pena"
+  },
+  "airbnb-experiences-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/airbnb-experiences-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/airbnb-experiences-worth-it",
+    "es": "https://www.zercy.app/es/blog/airbnb-experiences-vale-la-pena"
+  },
+  "airbnb-vs-hotel-vergleich": {
+    "de": "https://www.zercy.app/blog/airbnb-vs-hotel-vergleich",
+    "en": "https://www.zercy.app/en/blog/airbnb-vs-hotel-comparison",
+    "es": "https://www.zercy.app/es/blog/airbnb-vs-hotel-comparacion"
+  },
+  "airbnb-vs-hotel-comparison": {
+    "de": "https://www.zercy.app/blog/airbnb-vs-hotel-vergleich",
+    "en": "https://www.zercy.app/en/blog/airbnb-vs-hotel-comparison",
+    "es": "https://www.zercy.app/es/blog/airbnb-vs-hotel-comparacion"
+  },
+  "airbnb-vs-hotel-comparacion": {
+    "de": "https://www.zercy.app/blog/airbnb-vs-hotel-vergleich",
+    "en": "https://www.zercy.app/en/blog/airbnb-vs-hotel-comparison",
+    "es": "https://www.zercy.app/es/blog/airbnb-vs-hotel-comparacion"
   },
   "airport-hacks": {
     "de": "https://www.zercy.app/blog/airport-hacks",
@@ -124,20 +144,20 @@
     "en": "https://www.zercy.app/en/blog/puglia-southern-italy-guide",
     "es": "https://www.zercy.app/es/blog/apulia-sur-italia-guia"
   },
-  "beste-travel-apps-2026": {
-    "de": "https://www.zercy.app/blog/beste-travel-apps-2026",
+  "auslands-sim-guide": {
+    "de": "https://www.zercy.app/blog/auslands-sim-guide",
     "en": "https://www.zercy.app/en/blog/local-sim-card-guide",
-    "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-sin-internet"
+    "es": "https://www.zercy.app/es/blog/guia-sim-extranjero"
   },
   "local-sim-card-guide": {
-    "de": "https://www.zercy.app/blog/beste-travel-apps-2026",
+    "de": "https://www.zercy.app/blog/auslands-sim-guide",
     "en": "https://www.zercy.app/en/blog/local-sim-card-guide",
-    "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-sin-internet"
+    "es": "https://www.zercy.app/es/blog/guia-sim-extranjero"
   },
-  "mejores-apps-viaje-sin-internet": {
-    "de": "https://www.zercy.app/blog/beste-travel-apps-2026",
+  "guia-sim-extranjero": {
+    "de": "https://www.zercy.app/blog/auslands-sim-guide",
     "en": "https://www.zercy.app/en/blog/local-sim-card-guide",
-    "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-sin-internet"
+    "es": "https://www.zercy.app/es/blog/guia-sim-extranjero"
   },
   "bahn-vs-flieger-europa-2026": {
     "de": "https://www.zercy.app/blog/bahn-vs-flieger-europa-2026",
@@ -169,20 +189,20 @@
     "en": "https://www.zercy.app/en/blog/bali-vs-lombok-comparison",
     "es": "https://www.zercy.app/es/blog/bali-vs-lombok-comparacion"
   },
-  "wo-uebernachten-bangkok": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-bangkok",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-bangkok",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-bangkok"
+  "bangkok-3-tage": {
+    "de": "https://www.zercy.app/blog/bangkok-3-tage",
+    "en": "https://www.zercy.app/en/blog/bangkok-3-days",
+    "es": "https://www.zercy.app/es/blog/bangkok-3-dias"
   },
-  "where-to-stay-bangkok": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-bangkok",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-bangkok",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-bangkok"
+  "bangkok-3-days": {
+    "de": "https://www.zercy.app/blog/bangkok-3-tage",
+    "en": "https://www.zercy.app/en/blog/bangkok-3-days",
+    "es": "https://www.zercy.app/es/blog/bangkok-3-dias"
   },
-  "donde-alojarse-bangkok": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-bangkok",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-bangkok",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-bangkok"
+  "bangkok-3-dias": {
+    "de": "https://www.zercy.app/blog/bangkok-3-tage",
+    "en": "https://www.zercy.app/en/blog/bangkok-3-days",
+    "es": "https://www.zercy.app/es/blog/bangkok-3-dias"
   },
   "bergwandern-alpen-anfaenger-guide": {
     "de": "https://www.zercy.app/blog/bergwandern-alpen-anfaenger-guide",
@@ -229,20 +249,60 @@
     "en": "https://www.zercy.app/en/blog/best-autumn-travel-destinations",
     "es": "https://www.zercy.app/es/blog/mejores-destinos-otono-viaje"
   },
-  "meilen-punkte-anfaenger": {
-    "de": "https://www.zercy.app/blog/meilen-punkte-anfaenger",
-    "en": "https://www.zercy.app/en/blog/miles-points-beginners",
-    "es": "https://www.zercy.app/es/blog/millas-puntos-principiantes"
+  "beste-offline-reise-apps": {
+    "de": "https://www.zercy.app/blog/beste-offline-reise-apps",
+    "en": "https://www.zercy.app/en/blog/best-offline-travel-apps",
+    "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-sin-internet"
   },
-  "miles-points-beginners": {
-    "de": "https://www.zercy.app/blog/meilen-punkte-anfaenger",
-    "en": "https://www.zercy.app/en/blog/miles-points-beginners",
-    "es": "https://www.zercy.app/es/blog/millas-puntos-principiantes"
+  "best-offline-travel-apps": {
+    "de": "https://www.zercy.app/blog/beste-offline-reise-apps",
+    "en": "https://www.zercy.app/en/blog/best-offline-travel-apps",
+    "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-sin-internet"
   },
-  "millas-puntos-principiantes": {
-    "de": "https://www.zercy.app/blog/meilen-punkte-anfaenger",
-    "en": "https://www.zercy.app/en/blog/miles-points-beginners",
-    "es": "https://www.zercy.app/es/blog/millas-puntos-principiantes"
+  "mejores-apps-viaje-sin-internet": {
+    "de": "https://www.zercy.app/blog/beste-offline-reise-apps",
+    "en": "https://www.zercy.app/en/blog/best-offline-travel-apps",
+    "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-sin-internet"
+  },
+  "beste-reise-kreditkarten-2026": {
+    "de": "https://www.zercy.app/blog/beste-reise-kreditkarten-2026",
+    "en": "https://www.zercy.app/en/blog/best-travel-credit-cards-2026",
+    "es": "https://www.zercy.app/es/blog/mejores-tarjetas-credito-viaje-2026"
+  },
+  "best-travel-credit-cards-2026": {
+    "de": "https://www.zercy.app/blog/beste-reise-kreditkarten-2026",
+    "en": "https://www.zercy.app/en/blog/best-travel-credit-cards-2026",
+    "es": "https://www.zercy.app/es/blog/mejores-tarjetas-credito-viaje-2026"
+  },
+  "mejores-tarjetas-credito-viaje-2026": {
+    "de": "https://www.zercy.app/blog/beste-reise-kreditkarten-2026",
+    "en": "https://www.zercy.app/en/blog/best-travel-credit-cards-2026",
+    "es": "https://www.zercy.app/es/blog/mejores-tarjetas-credito-viaje-2026"
+  },
+  "beste-travel-apps-2026": {
+    "de": "https://www.zercy.app/blog/beste-travel-apps-2026",
+    "en": "https://www.zercy.app/en/blog/best-travel-apps-2026",
+    "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-2026"
+  },
+  "best-travel-apps-2026": {
+    "de": "https://www.zercy.app/blog/beste-travel-apps-2026",
+    "en": "https://www.zercy.app/en/blog/best-travel-apps-2026",
+    "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-2026"
+  },
+  "mejores-apps-viaje-2026": {
+    "de": "https://www.zercy.app/blog/beste-travel-apps-2026",
+    "en": "https://www.zercy.app/en/blog/best-travel-apps-2026",
+    "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-2026"
+  },
+  "booking-apartments-vs-airbnb": {
+    "de": "https://www.zercy.app/blog/booking-apartments-vs-airbnb",
+    "en": "https://www.zercy.app/en/blog/booking-apartments-vs-airbnb",
+    "es": "https://www.zercy.app/es/blog/apartamento-vs-hotel-cual-elegir"
+  },
+  "apartamento-vs-hotel-cual-elegir": {
+    "de": "https://www.zercy.app/blog/booking-apartments-vs-airbnb",
+    "en": "https://www.zercy.app/en/blog/booking-apartments-vs-airbnb",
+    "es": "https://www.zercy.app/es/blog/apartamento-vs-hotel-cual-elegir"
   },
   "booking-genius-programm-lohnt-es-sich": {
     "de": "https://www.zercy.app/blog/booking-genius-programm-lohnt-es-sich",
@@ -284,20 +344,30 @@
     "en": "https://www.zercy.app/en/blog/boutique-hotels",
     "es": "https://www.zercy.app/es/blog/hoteles-boutique-guia"
   },
+  "business-class-ohne-meilen": {
+    "de": "https://www.zercy.app/blog/business-class-ohne-meilen",
+    "en": "https://www.zercy.app/en/blog/business-class-without-miles",
+    "es": "https://www.zercy.app/es/blog/business-class-sin-millas"
+  },
+  "business-class-without-miles": {
+    "de": "https://www.zercy.app/blog/business-class-ohne-meilen",
+    "en": "https://www.zercy.app/en/blog/business-class-without-miles",
+    "es": "https://www.zercy.app/es/blog/business-class-sin-millas"
+  },
+  "business-class-sin-millas": {
+    "de": "https://www.zercy.app/blog/business-class-ohne-meilen",
+    "en": "https://www.zercy.app/en/blog/business-class-without-miles",
+    "es": "https://www.zercy.app/es/blog/business-class-sin-millas"
+  },
   "business-class": {
     "de": "https://www.zercy.app/blog/business-class",
     "en": "https://www.zercy.app/en/blog/business-class-worth-it",
-    "es": "https://www.zercy.app/es/blog/business-class-sin-millas"
+    "es": null
   },
   "business-class-worth-it": {
     "de": "https://www.zercy.app/blog/business-class",
     "en": "https://www.zercy.app/en/blog/business-class-worth-it",
-    "es": "https://www.zercy.app/es/blog/business-class-sin-millas"
-  },
-  "business-class-sin-millas": {
-    "de": "https://www.zercy.app/blog/business-class",
-    "en": "https://www.zercy.app/en/blog/business-class-worth-it",
-    "es": "https://www.zercy.app/es/blog/business-class-sin-millas"
+    "es": null
   },
   "campervan-urlaub-europa": {
     "de": "https://www.zercy.app/blog/campervan-urlaub-europa",
@@ -509,19 +579,19 @@
     "en": "https://www.zercy.app/en/blog/airport-transfer-guide-2026",
     "es": "https://www.zercy.app/es/blog/transporte-aeropuerto-guia-2026"
   },
-  "hidden-city-ticketing-erklaert": {
-    "de": "https://www.zercy.app/blog/hidden-city-ticketing-erklaert",
-    "en": "https://www.zercy.app/en/blog/hidden-city-ticketing-explained",
+  "flugverspaetung-deine-rechte": {
+    "de": "https://www.zercy.app/blog/flugverspaetung-deine-rechte",
+    "en": "https://www.zercy.app/en/blog/flight-delay-rights",
     "es": "https://www.zercy.app/es/blog/retrasos-vuelo-derechos"
   },
-  "hidden-city-ticketing-explained": {
-    "de": "https://www.zercy.app/blog/hidden-city-ticketing-erklaert",
-    "en": "https://www.zercy.app/en/blog/hidden-city-ticketing-explained",
+  "flight-delay-rights": {
+    "de": "https://www.zercy.app/blog/flugverspaetung-deine-rechte",
+    "en": "https://www.zercy.app/en/blog/flight-delay-rights",
     "es": "https://www.zercy.app/es/blog/retrasos-vuelo-derechos"
   },
   "retrasos-vuelo-derechos": {
-    "de": "https://www.zercy.app/blog/hidden-city-ticketing-erklaert",
-    "en": "https://www.zercy.app/en/blog/hidden-city-ticketing-explained",
+    "de": "https://www.zercy.app/blog/flugverspaetung-deine-rechte",
+    "en": "https://www.zercy.app/en/blog/flight-delay-rights",
     "es": "https://www.zercy.app/es/blog/retrasos-vuelo-derechos"
   },
   "flusskreuzfahrt-europa-guide": {
@@ -659,35 +729,50 @@
     "en": "https://www.zercy.app/en/blog/carry-on-liquids-rules-2026",
     "es": "https://www.zercy.app/es/blog/liquidos-equipaje-mano-2026"
   },
-  "nur-handgepaeck": {
-    "de": "https://www.zercy.app/blog/nur-handgepaeck",
+  "handgepaeck-vs-aufgegebenes-gepaeck": {
+    "de": "https://www.zercy.app/blog/handgepaeck-vs-aufgegebenes-gepaeck",
     "en": "https://www.zercy.app/en/blog/carry-on-vs-checked-luggage",
-    "es": "https://www.zercy.app/es/blog/solo-equipaje-de-mano"
+    "es": "https://www.zercy.app/es/blog/equipaje-mano-vs-facturado"
   },
   "carry-on-vs-checked-luggage": {
-    "de": "https://www.zercy.app/blog/nur-handgepaeck",
+    "de": "https://www.zercy.app/blog/handgepaeck-vs-aufgegebenes-gepaeck",
     "en": "https://www.zercy.app/en/blog/carry-on-vs-checked-luggage",
-    "es": "https://www.zercy.app/es/blog/solo-equipaje-de-mano"
+    "es": "https://www.zercy.app/es/blog/equipaje-mano-vs-facturado"
   },
-  "solo-equipaje-de-mano": {
-    "de": "https://www.zercy.app/blog/nur-handgepaeck",
+  "equipaje-mano-vs-facturado": {
+    "de": "https://www.zercy.app/blog/handgepaeck-vs-aufgegebenes-gepaeck",
     "en": "https://www.zercy.app/en/blog/carry-on-vs-checked-luggage",
-    "es": "https://www.zercy.app/es/blog/solo-equipaje-de-mano"
+    "es": "https://www.zercy.app/es/blog/equipaje-mano-vs-facturado"
   },
-  "reisen-kleines-budget-tipps": {
-    "de": "https://www.zercy.app/blog/reisen-kleines-budget-tipps",
-    "en": "https://www.zercy.app/en/blog/travel-tight-budget-tips",
-    "es": "https://www.zercy.app/es/blog/viajar-con-poco-dinero-consejos"
+  "hidden-city-ticketing-erklaert": {
+    "de": "https://www.zercy.app/blog/hidden-city-ticketing-erklaert",
+    "en": "https://www.zercy.app/en/blog/hidden-city-ticketing-explained",
+    "es": "https://www.zercy.app/es/blog/hidden-city-ticketing-explicado"
   },
-  "travel-tight-budget-tips": {
-    "de": "https://www.zercy.app/blog/reisen-kleines-budget-tipps",
-    "en": "https://www.zercy.app/en/blog/travel-tight-budget-tips",
-    "es": "https://www.zercy.app/es/blog/viajar-con-poco-dinero-consejos"
+  "hidden-city-ticketing-explained": {
+    "de": "https://www.zercy.app/blog/hidden-city-ticketing-erklaert",
+    "en": "https://www.zercy.app/en/blog/hidden-city-ticketing-explained",
+    "es": "https://www.zercy.app/es/blog/hidden-city-ticketing-explicado"
   },
-  "viajar-con-poco-dinero-consejos": {
-    "de": "https://www.zercy.app/blog/reisen-kleines-budget-tipps",
-    "en": "https://www.zercy.app/en/blog/travel-tight-budget-tips",
-    "es": "https://www.zercy.app/es/blog/viajar-con-poco-dinero-consejos"
+  "hidden-city-ticketing-explicado": {
+    "de": "https://www.zercy.app/blog/hidden-city-ticketing-erklaert",
+    "en": "https://www.zercy.app/en/blog/hidden-city-ticketing-explained",
+    "es": "https://www.zercy.app/es/blog/hidden-city-ticketing-explicado"
+  },
+  "hostel-guide-richtig-buchen": {
+    "de": "https://www.zercy.app/blog/hostel-guide-richtig-buchen",
+    "en": "https://www.zercy.app/en/blog/hostel-booking-guide",
+    "es": "https://www.zercy.app/es/blog/guia-reservar-hostel"
+  },
+  "hostel-booking-guide": {
+    "de": "https://www.zercy.app/blog/hostel-guide-richtig-buchen",
+    "en": "https://www.zercy.app/en/blog/hostel-booking-guide",
+    "es": "https://www.zercy.app/es/blog/guia-reservar-hostel"
+  },
+  "guia-reservar-hostel": {
+    "de": "https://www.zercy.app/blog/hostel-guide-richtig-buchen",
+    "en": "https://www.zercy.app/en/blog/hostel-booking-guide",
+    "es": "https://www.zercy.app/es/blog/guia-reservar-hostel"
   },
   "hostel-oder-hotel-2026": {
     "de": "https://www.zercy.app/blog/hostel-oder-hotel-2026",
@@ -749,20 +834,15 @@
     "en": "https://www.zercy.app/en/blog/caribbean-island-hopping-guide",
     "es": "https://www.zercy.app/es/blog/islas-caribe-island-hopping-guia"
   },
-  "zugreisen-europa": {
-    "de": "https://www.zercy.app/blog/zugreisen-europa",
-    "en": "https://www.zercy.app/en/blog/train-travel-europe",
-    "es": "https://www.zercy.app/es/blog/viajes-tren-europa"
+  "interrail-guide-2026": {
+    "de": "https://www.zercy.app/blog/interrail-guide-2026",
+    "en": "https://www.zercy.app/en/blog/interrail-guide-2026",
+    "es": "https://www.zercy.app/es/blog/guia-interrail-2026"
   },
-  "train-travel-europe": {
-    "de": "https://www.zercy.app/blog/zugreisen-europa",
-    "en": "https://www.zercy.app/en/blog/train-travel-europe",
-    "es": "https://www.zercy.app/es/blog/viajes-tren-europa"
-  },
-  "viajes-tren-europa": {
-    "de": "https://www.zercy.app/blog/zugreisen-europa",
-    "en": "https://www.zercy.app/en/blog/train-travel-europe",
-    "es": "https://www.zercy.app/es/blog/viajes-tren-europa"
+  "guia-interrail-2026": {
+    "de": "https://www.zercy.app/blog/interrail-guide-2026",
+    "en": "https://www.zercy.app/en/blog/interrail-guide-2026",
+    "es": "https://www.zercy.app/es/blog/guia-interrail-2026"
   },
   "island-reiseguide": {
     "de": "https://www.zercy.app/blog/island-reiseguide",
@@ -869,19 +949,19 @@
     "en": "https://www.zercy.app/en/blog/ai-comparison-trip-planning-2026",
     "es": "https://www.zercy.app/es/blog/ia-comparativa-planificacion-2026"
   },
-  "wo-uebernachten-cartagena": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-cartagena",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-cartagena",
+  "kolumbien-reiseguide": {
+    "de": "https://www.zercy.app/blog/kolumbien-reiseguide",
+    "en": "https://www.zercy.app/en/blog/colombia-travel-guide",
     "es": "https://www.zercy.app/es/blog/guia-viaje-colombia"
   },
-  "where-to-stay-cartagena": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-cartagena",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-cartagena",
+  "colombia-travel-guide": {
+    "de": "https://www.zercy.app/blog/kolumbien-reiseguide",
+    "en": "https://www.zercy.app/en/blog/colombia-travel-guide",
     "es": "https://www.zercy.app/es/blog/guia-viaje-colombia"
   },
   "guia-viaje-colombia": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-cartagena",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-cartagena",
+    "de": "https://www.zercy.app/blog/kolumbien-reiseguide",
+    "en": "https://www.zercy.app/en/blog/colombia-travel-guide",
     "es": "https://www.zercy.app/es/blog/guia-viaje-colombia"
   },
   "kreuzfahrt-einsteiger-guide": {
@@ -929,50 +1009,40 @@
     "en": "https://www.zercy.app/en/blog/croatia-island-hopping",
     "es": "https://www.zercy.app/es/blog/islas-croacia-island-hopping"
   },
-  "reisen-mit-baby-erste-fluege": {
-    "de": "https://www.zercy.app/blog/reisen-mit-baby-erste-fluege",
-    "en": "https://www.zercy.app/en/blog/traveling-with-baby-first-flights",
+  "langstreckenflug-mit-kindern": {
+    "de": "https://www.zercy.app/blog/langstreckenflug-mit-kindern",
+    "en": "https://www.zercy.app/en/blog/long-haul-flight-with-kids",
     "es": "https://www.zercy.app/es/blog/vuelo-largo-con-ninos"
   },
-  "traveling-with-baby-first-flights": {
-    "de": "https://www.zercy.app/blog/reisen-mit-baby-erste-fluege",
-    "en": "https://www.zercy.app/en/blog/traveling-with-baby-first-flights",
+  "long-haul-flight-with-kids": {
+    "de": "https://www.zercy.app/blog/langstreckenflug-mit-kindern",
+    "en": "https://www.zercy.app/en/blog/long-haul-flight-with-kids",
     "es": "https://www.zercy.app/es/blog/vuelo-largo-con-ninos"
   },
   "vuelo-largo-con-ninos": {
-    "de": "https://www.zercy.app/blog/reisen-mit-baby-erste-fluege",
-    "en": "https://www.zercy.app/en/blog/traveling-with-baby-first-flights",
+    "de": "https://www.zercy.app/blog/langstreckenflug-mit-kindern",
+    "en": "https://www.zercy.app/en/blog/long-haul-flight-with-kids",
     "es": "https://www.zercy.app/es/blog/vuelo-largo-con-ninos"
   },
-  "wo-uebernachten-lissabon": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-lissabon",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-lisbon",
+  "lissabon-abseits-der-touristenpfade": {
+    "de": "https://www.zercy.app/blog/lissabon-abseits-der-touristenpfade",
+    "en": "https://www.zercy.app/en/blog/lisbon-beyond-the-tourist-trail",
     "es": "https://www.zercy.app/es/blog/lisboa-fuera-ruta-turistica"
   },
-  "where-to-stay-lisbon": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-lissabon",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-lisbon",
+  "lisbon-beyond-the-tourist-trail": {
+    "de": "https://www.zercy.app/blog/lissabon-abseits-der-touristenpfade",
+    "en": "https://www.zercy.app/en/blog/lisbon-beyond-the-tourist-trail",
     "es": "https://www.zercy.app/es/blog/lisboa-fuera-ruta-turistica"
   },
   "lisboa-fuera-ruta-turistica": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-lissabon",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-lisbon",
+    "de": "https://www.zercy.app/blog/lissabon-abseits-der-touristenpfade",
+    "en": "https://www.zercy.app/en/blog/lisbon-beyond-the-tourist-trail",
     "es": "https://www.zercy.app/es/blog/lisboa-fuera-ruta-turistica"
   },
-  "wo-uebernachten-los-angeles": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-los-angeles",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-los-angeles",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-los-angeles"
-  },
-  "where-to-stay-los-angeles": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-los-angeles",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-los-angeles",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-los-angeles"
-  },
-  "donde-alojarse-los-angeles": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-los-angeles",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-los-angeles",
-    "es": "https://www.zercy.app/es/blog/donde-alojarse-los-angeles"
+  "los-angeles": {
+    "de": "https://www.zercy.app/blog/los-angeles",
+    "en": "https://www.zercy.app/en/blog/los-angeles",
+    "es": null
   },
   "lounge-zugang-ohne-business-ticket": {
     "de": "https://www.zercy.app/blog/lounge-zugang-ohne-business-ticket",
@@ -1004,19 +1074,19 @@
     "en": "https://www.zercy.app/en/blog/luxury-travel-budget-tips",
     "es": "https://www.zercy.app/es/blog/viaje-lujo-economico-trucos"
   },
-  "wo-uebernachten-madrid": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-madrid",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-madrid",
+  "madrid-24-stunden": {
+    "de": "https://www.zercy.app/blog/madrid-24-stunden",
+    "en": "https://www.zercy.app/en/blog/madrid-24-hours",
     "es": "https://www.zercy.app/es/blog/madrid-24-horas"
   },
-  "where-to-stay-madrid": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-madrid",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-madrid",
+  "madrid-24-hours": {
+    "de": "https://www.zercy.app/blog/madrid-24-stunden",
+    "en": "https://www.zercy.app/en/blog/madrid-24-hours",
     "es": "https://www.zercy.app/es/blog/madrid-24-horas"
   },
   "madrid-24-horas": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-madrid",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-madrid",
+    "de": "https://www.zercy.app/blog/madrid-24-stunden",
+    "en": "https://www.zercy.app/en/blog/madrid-24-hours",
     "es": "https://www.zercy.app/es/blog/madrid-24-horas"
   },
   "malediven-reiseguide-tipps": {
@@ -1034,20 +1104,35 @@
     "en": "https://www.zercy.app/en/blog/maldives-travel-guide-tips",
     "es": "https://www.zercy.app/es/blog/maldivas-guia-viaje-2026"
   },
-  "wo-uebernachten-marrakesch": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-marrakesch",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-marrakech",
+  "marokko-roadtrip": {
+    "de": "https://www.zercy.app/blog/marokko-roadtrip",
+    "en": "https://www.zercy.app/en/blog/morocco-road-trip",
     "es": "https://www.zercy.app/es/blog/road-trip-marruecos"
   },
-  "where-to-stay-marrakech": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-marrakesch",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-marrakech",
+  "morocco-road-trip": {
+    "de": "https://www.zercy.app/blog/marokko-roadtrip",
+    "en": "https://www.zercy.app/en/blog/morocco-road-trip",
     "es": "https://www.zercy.app/es/blog/road-trip-marruecos"
   },
   "road-trip-marruecos": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-marrakesch",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-marrakech",
+    "de": "https://www.zercy.app/blog/marokko-roadtrip",
+    "en": "https://www.zercy.app/en/blog/morocco-road-trip",
     "es": "https://www.zercy.app/es/blog/road-trip-marruecos"
+  },
+  "meilen-punkte-anfaenger": {
+    "de": "https://www.zercy.app/blog/meilen-punkte-anfaenger",
+    "en": "https://www.zercy.app/en/blog/miles-points-beginners",
+    "es": "https://www.zercy.app/es/blog/millas-puntos-principiantes"
+  },
+  "miles-points-beginners": {
+    "de": "https://www.zercy.app/blog/meilen-punkte-anfaenger",
+    "en": "https://www.zercy.app/en/blog/miles-points-beginners",
+    "es": "https://www.zercy.app/es/blog/millas-puntos-principiantes"
+  },
+  "millas-puntos-principiantes": {
+    "de": "https://www.zercy.app/blog/meilen-punkte-anfaenger",
+    "en": "https://www.zercy.app/en/blog/miles-points-beginners",
+    "es": "https://www.zercy.app/es/blog/millas-puntos-principiantes"
   },
   "mietwagen-check": {
     "de": "https://www.zercy.app/blog/mietwagen-check",
@@ -1164,6 +1249,21 @@
     "en": "https://www.zercy.app/en/blog/northern-lights-2026-where-when-how",
     "es": "https://www.zercy.app/es/blog/auroras-boreales-2026"
   },
+  "nur-handgepaeck": {
+    "de": "https://www.zercy.app/blog/nur-handgepaeck",
+    "en": "https://www.zercy.app/en/blog/carry-on-only",
+    "es": "https://www.zercy.app/es/blog/solo-equipaje-de-mano"
+  },
+  "carry-on-only": {
+    "de": "https://www.zercy.app/blog/nur-handgepaeck",
+    "en": "https://www.zercy.app/en/blog/carry-on-only",
+    "es": "https://www.zercy.app/es/blog/solo-equipaje-de-mano"
+  },
+  "solo-equipaje-de-mano": {
+    "de": "https://www.zercy.app/blog/nur-handgepaeck",
+    "en": "https://www.zercy.app/en/blog/carry-on-only",
+    "es": "https://www.zercy.app/es/blog/solo-equipaje-de-mano"
+  },
   "open-jaw-tickets-reise-hack": {
     "de": "https://www.zercy.app/blog/open-jaw-tickets-reise-hack",
     "en": "https://www.zercy.app/en/blog/open-jaw-tickets-travel-hack",
@@ -1179,19 +1279,9 @@
     "en": "https://www.zercy.app/en/blog/open-jaw-tickets-travel-hack",
     "es": "https://www.zercy.app/es/blog/open-jaw-tickets-truco-viaje"
   },
-  "wo-uebernachten-kyoto": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-kyoto",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-kyoto",
-    "es": "https://www.zercy.app/es/blog/osaka-vs-kyoto"
-  },
-  "where-to-stay-kyoto": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-kyoto",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-kyoto",
-    "es": "https://www.zercy.app/es/blog/osaka-vs-kyoto"
-  },
   "osaka-vs-kyoto": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-kyoto",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-kyoto",
+    "de": "https://www.zercy.app/blog/osaka-vs-kyoto",
+    "en": "https://www.zercy.app/en/blog/osaka-vs-kyoto",
     "es": "https://www.zercy.app/es/blog/osaka-vs-kyoto"
   },
   "patagonien-3-wochen-route": {
@@ -1254,19 +1344,19 @@
     "en": "https://www.zercy.app/en/blog/plastic-free-travel-tips",
     "es": "https://www.zercy.app/es/blog/viaje-sin-plastico-consejos"
   },
-  "wo-uebernachten-porto": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-porto",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-porto",
+  "porto-die-unterschaetzte-schwester": {
+    "de": "https://www.zercy.app/blog/porto-die-unterschaetzte-schwester",
+    "en": "https://www.zercy.app/en/blog/porto-lisbons-underrated-sister",
     "es": "https://www.zercy.app/es/blog/oporto-hermana-subestimada"
   },
-  "where-to-stay-porto": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-porto",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-porto",
+  "porto-lisbons-underrated-sister": {
+    "de": "https://www.zercy.app/blog/porto-die-unterschaetzte-schwester",
+    "en": "https://www.zercy.app/en/blog/porto-lisbons-underrated-sister",
     "es": "https://www.zercy.app/es/blog/oporto-hermana-subestimada"
   },
   "oporto-hermana-subestimada": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-porto",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-porto",
+    "de": "https://www.zercy.app/blog/porto-die-unterschaetzte-schwester",
+    "en": "https://www.zercy.app/en/blog/porto-lisbons-underrated-sister",
     "es": "https://www.zercy.app/es/blog/oporto-hermana-subestimada"
   },
   "powerbank-regeln-handgepaeck-2026": {
@@ -1328,6 +1418,36 @@
     "de": "https://www.zercy.app/blog/reisekreditkarte-2026",
     "en": "https://www.zercy.app/en/blog/travel-credit-card-2026",
     "es": "https://www.zercy.app/es/blog/tarjeta-credito-viajes-2026"
+  },
+  "reisen-kleines-budget-tipps": {
+    "de": "https://www.zercy.app/blog/reisen-kleines-budget-tipps",
+    "en": "https://www.zercy.app/en/blog/travel-tight-budget-tips",
+    "es": "https://www.zercy.app/es/blog/viajar-con-poco-dinero-consejos"
+  },
+  "travel-tight-budget-tips": {
+    "de": "https://www.zercy.app/blog/reisen-kleines-budget-tipps",
+    "en": "https://www.zercy.app/en/blog/travel-tight-budget-tips",
+    "es": "https://www.zercy.app/es/blog/viajar-con-poco-dinero-consejos"
+  },
+  "viajar-con-poco-dinero-consejos": {
+    "de": "https://www.zercy.app/blog/reisen-kleines-budget-tipps",
+    "en": "https://www.zercy.app/en/blog/travel-tight-budget-tips",
+    "es": "https://www.zercy.app/es/blog/viajar-con-poco-dinero-consejos"
+  },
+  "reisen-mit-baby-erste-fluege": {
+    "de": "https://www.zercy.app/blog/reisen-mit-baby-erste-fluege",
+    "en": "https://www.zercy.app/en/blog/traveling-with-baby-first-flights",
+    "es": "https://www.zercy.app/es/blog/viajar-con-bebe-primer-vuelo"
+  },
+  "traveling-with-baby-first-flights": {
+    "de": "https://www.zercy.app/blog/reisen-mit-baby-erste-fluege",
+    "en": "https://www.zercy.app/en/blog/traveling-with-baby-first-flights",
+    "es": "https://www.zercy.app/es/blog/viajar-con-bebe-primer-vuelo"
+  },
+  "viajar-con-bebe-primer-vuelo": {
+    "de": "https://www.zercy.app/blog/reisen-mit-baby-erste-fluege",
+    "en": "https://www.zercy.app/en/blog/traveling-with-baby-first-flights",
+    "es": "https://www.zercy.app/es/blog/viajar-con-bebe-primer-vuelo"
   },
   "reisen-mit-teenagern-tipps": {
     "de": "https://www.zercy.app/blog/reisen-mit-teenagern-tipps",
@@ -1774,19 +1894,19 @@
     "en": "https://www.zercy.app/en/blog/wellness-spa-travel-destinations",
     "es": "https://www.zercy.app/es/blog/viajes-wellness-spa-destinos"
   },
-  "wo-uebernachten-wien": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-wien",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-vienna",
+  "wien-am-wochenende": {
+    "de": "https://www.zercy.app/blog/wien-am-wochenende",
+    "en": "https://www.zercy.app/en/blog/vienna-for-a-weekend",
     "es": "https://www.zercy.app/es/blog/viena-fin-de-semana"
   },
-  "where-to-stay-vienna": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-wien",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-vienna",
+  "vienna-for-a-weekend": {
+    "de": "https://www.zercy.app/blog/wien-am-wochenende",
+    "en": "https://www.zercy.app/en/blog/vienna-for-a-weekend",
     "es": "https://www.zercy.app/es/blog/viena-fin-de-semana"
   },
   "viena-fin-de-semana": {
-    "de": "https://www.zercy.app/blog/wo-uebernachten-wien",
-    "en": "https://www.zercy.app/en/blog/where-to-stay-vienna",
+    "de": "https://www.zercy.app/blog/wien-am-wochenende",
+    "en": "https://www.zercy.app/en/blog/vienna-for-a-weekend",
     "es": "https://www.zercy.app/es/blog/viena-fin-de-semana"
   },
   "wintersonnen-destinationen-januar": {
@@ -1893,6 +2013,36 @@
     "de": "https://www.zercy.app/blog/wo-uebernachten-bali",
     "en": "https://www.zercy.app/en/blog/where-to-stay-bali",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-bali"
+  },
+  "wo-uebernachten-bangkok": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-bangkok",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-bangkok",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-bangkok"
+  },
+  "where-to-stay-bangkok": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-bangkok",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-bangkok",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-bangkok"
+  },
+  "donde-alojarse-bangkok": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-bangkok",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-bangkok",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-bangkok"
+  },
+  "wo-uebernachten-barcelona": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-barcelona",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-barcelona",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-barcelona"
+  },
+  "where-to-stay-barcelona": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-barcelona",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-barcelona",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-barcelona"
+  },
+  "donde-alojarse-barcelona": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-barcelona",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-barcelona",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-barcelona"
   },
   "wo-uebernachten-berlin": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-berlin",
@@ -2103,6 +2253,21 @@
     "de": "https://www.zercy.app/blog/wo-uebernachten-cape-town",
     "en": "https://www.zercy.app/en/blog/where-to-stay-cape-town",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-ciudad-del-cabo"
+  },
+  "wo-uebernachten-cartagena": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-cartagena",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-cartagena",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-cartagena"
+  },
+  "where-to-stay-cartagena": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-cartagena",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-cartagena",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-cartagena"
+  },
+  "donde-alojarse-cartagena": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-cartagena",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-cartagena",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-cartagena"
   },
   "wo-uebernachten-chiang-mai": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-chiang-mai",
@@ -2374,6 +2539,21 @@
     "en": "https://www.zercy.app/en/blog/where-to-stay-hong-kong",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-hong-kong"
   },
+  "wo-uebernachten-istanbul": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-istanbul",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-istanbul",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-estambul"
+  },
+  "where-to-stay-istanbul": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-istanbul",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-istanbul",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-estambul"
+  },
+  "donde-alojarse-estambul": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-istanbul",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-istanbul",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-estambul"
+  },
   "wo-uebernachten-jaipur": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-jaipur",
     "en": "https://www.zercy.app/en/blog/where-to-stay-jaipur",
@@ -2494,6 +2674,21 @@
     "en": "https://www.zercy.app/en/blog/where-to-stay-kuala-lumpur",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-kuala-lumpur"
   },
+  "wo-uebernachten-kyoto": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-kyoto",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-kyoto",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-kioto"
+  },
+  "where-to-stay-kyoto": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-kyoto",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-kyoto",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-kioto"
+  },
+  "donde-alojarse-kioto": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-kyoto",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-kyoto",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-kioto"
+  },
   "wo-uebernachten-lanzarote": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-lanzarote",
     "en": "https://www.zercy.app/en/blog/where-to-stay-lanzarote",
@@ -2539,6 +2734,21 @@
     "en": "https://www.zercy.app/en/blog/where-to-stay-lima",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-lima"
   },
+  "wo-uebernachten-lissabon": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-lissabon",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-lisbon",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-lisboa"
+  },
+  "where-to-stay-lisbon": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-lissabon",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-lisbon",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-lisboa"
+  },
+  "donde-alojarse-lisboa": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-lissabon",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-lisbon",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-lisboa"
+  },
   "wo-uebernachten-ljubljana": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-ljubljana",
     "en": "https://www.zercy.app/en/blog/where-to-stay-ljubljana",
@@ -2563,6 +2773,36 @@
     "de": "https://www.zercy.app/blog/wo-uebernachten-london",
     "en": "https://www.zercy.app/en/blog/where-to-stay-london",
     "es": null
+  },
+  "wo-uebernachten-los-angeles": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-los-angeles",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-los-angeles",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-los-angeles"
+  },
+  "where-to-stay-los-angeles": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-los-angeles",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-los-angeles",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-los-angeles"
+  },
+  "donde-alojarse-los-angeles": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-los-angeles",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-los-angeles",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-los-angeles"
+  },
+  "wo-uebernachten-madrid": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-madrid",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-madrid",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-madrid"
+  },
+  "where-to-stay-madrid": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-madrid",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-madrid",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-madrid"
+  },
+  "donde-alojarse-madrid": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-madrid",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-madrid",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-madrid"
   },
   "wo-uebernachten-mailand": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-mailand",
@@ -2593,6 +2833,21 @@
     "de": "https://www.zercy.app/blog/wo-uebernachten-malaga",
     "en": "https://www.zercy.app/en/blog/where-to-stay-malaga",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-malaga"
+  },
+  "wo-uebernachten-marrakesch": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-marrakesch",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-marrakech",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-marrakech"
+  },
+  "where-to-stay-marrakech": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-marrakesch",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-marrakech",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-marrakech"
+  },
+  "donde-alojarse-marrakech": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-marrakesch",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-marrakech",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-marrakech"
   },
   "wo-uebernachten-marseille": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-marseille",
@@ -2969,6 +3224,21 @@
     "en": "https://www.zercy.app/en/blog/where-to-stay-playa-del-carmen",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-playa-del-carmen"
   },
+  "wo-uebernachten-porto": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-porto",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-porto",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-oporto"
+  },
+  "where-to-stay-porto": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-porto",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-porto",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-oporto"
+  },
+  "donde-alojarse-oporto": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-porto",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-porto",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-oporto"
+  },
   "wo-uebernachten-prag": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-prag",
     "en": "https://www.zercy.app/en/blog/where-to-stay-prague",
@@ -3058,6 +3328,21 @@
     "de": "https://www.zercy.app/blog/wo-uebernachten-rio-de-janeiro",
     "en": "https://www.zercy.app/en/blog/where-to-stay-rio-de-janeiro",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-rio-de-janeiro"
+  },
+  "wo-uebernachten-rom": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-rom",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-rome",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-roma"
+  },
+  "where-to-stay-rome": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-rom",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-rome",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-roma"
+  },
+  "donde-alojarse-roma": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-rom",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-rome",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-roma"
   },
   "wo-uebernachten-salzburg": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-salzburg",
@@ -3464,6 +3749,21 @@
     "en": "https://www.zercy.app/en/blog/where-to-stay-washington-dc",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-washington-dc"
   },
+  "wo-uebernachten-wien": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-wien",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-vienna",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-viena"
+  },
+  "where-to-stay-vienna": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-wien",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-vienna",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-viena"
+  },
+  "donde-alojarse-viena": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-wien",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-vienna",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-viena"
+  },
   "wo-uebernachten-zuerich": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-zuerich",
     "en": "https://www.zercy.app/en/blog/where-to-stay-zurich",
@@ -3548,5 +3848,20 @@
     "de": "https://www.zercy.app/blog/zercy-logbook",
     "en": "https://www.zercy.app/en/blog/zercy-logbook",
     "es": "https://www.zercy.app/es/blog/zercy-logbook-que-es"
+  },
+  "zugreisen-europa": {
+    "de": "https://www.zercy.app/blog/zugreisen-europa",
+    "en": "https://www.zercy.app/en/blog/train-travel-europe",
+    "es": "https://www.zercy.app/es/blog/viajes-tren-europa"
+  },
+  "train-travel-europe": {
+    "de": "https://www.zercy.app/blog/zugreisen-europa",
+    "en": "https://www.zercy.app/en/blog/train-travel-europe",
+    "es": "https://www.zercy.app/es/blog/viajes-tren-europa"
+  },
+  "viajes-tren-europa": {
+    "de": "https://www.zercy.app/blog/zugreisen-europa",
+    "en": "https://www.zercy.app/en/blog/train-travel-europe",
+    "es": "https://www.zercy.app/es/blog/viajes-tren-europa"
   }
 }
