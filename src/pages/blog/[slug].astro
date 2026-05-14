@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BookingCTA from '../../components/BookingCTA.astro';
+import hreflangMap from '../../data/hreflang-map.json';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -69,6 +70,7 @@ const icon = icons[cat] || icons['Reisetipps'];
 const dateStr = post.data.pubDate.toLocaleDateString('de-DE', { day: 'numeric', month: 'long', year: 'numeric' });
 const metaTitle = post.data.metaTitle || (post.data.title + ' | Zercy');
 const canonicalUrl = `https://www.zercy.app/blog/${post.id}`;
+const hreflang = (hreflangMap as Record<string, {de:string|null,en:string|null,es:string|null}>)[post.id];
 ---
 <!DOCTYPE html>
 <html lang="de">
@@ -86,6 +88,10 @@ const canonicalUrl = `https://www.zercy.app/blog/${post.id}`;
   <title>{metaTitle}</title>
   <meta name="description" content={post.data.description} />
   <link rel="canonical" href={canonicalUrl} />
+  {hreflang?.de && <link rel="alternate" hreflang="de" href={hreflang.de} />}
+  {hreflang?.en && <link rel="alternate" hreflang="en" href={hreflang.en} />}
+  {hreflang?.es && <link rel="alternate" hreflang="es" href={hreflang.es} />}
+  {hreflang && <link rel="alternate" hreflang="x-default" href={hreflang.de ?? canonicalUrl} />}
   <meta property="og:title" content={metaTitle} />
   <meta property="og:description" content={post.data.description} />
   <meta property="og:url" content={canonicalUrl} />
