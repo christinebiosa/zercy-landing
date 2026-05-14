@@ -159,6 +159,21 @@
     "en": "https://www.zercy.app/en/blog/local-sim-card-guide",
     "es": "https://www.zercy.app/es/blog/guia-sim-extranjero"
   },
+  "australien-rundreise-route": {
+    "de": "https://www.zercy.app/blog/australien-rundreise-route",
+    "en": "https://www.zercy.app/en/blog/australia-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/australia-ruta-completa"
+  },
+  "australia-road-trip-route": {
+    "de": "https://www.zercy.app/blog/australien-rundreise-route",
+    "en": "https://www.zercy.app/en/blog/australia-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/australia-ruta-completa"
+  },
+  "australia-ruta-completa": {
+    "de": "https://www.zercy.app/blog/australien-rundreise-route",
+    "en": "https://www.zercy.app/en/blog/australia-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/australia-ruta-completa"
+  },
   "bahn-vs-flieger-europa-2026": {
     "de": "https://www.zercy.app/blog/bahn-vs-flieger-europa-2026",
     "en": "https://www.zercy.app/en/blog/train-vs-plane-europe-2026",
@@ -188,6 +203,21 @@
     "de": "https://www.zercy.app/blog/bali-vs-lombok-vergleich",
     "en": "https://www.zercy.app/en/blog/bali-vs-lombok-comparison",
     "es": "https://www.zercy.app/es/blog/bali-vs-lombok-comparacion"
+  },
+  "balkan-roadtrip-route": {
+    "de": "https://www.zercy.app/blog/balkan-roadtrip-route",
+    "en": "https://www.zercy.app/en/blog/balkan-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/balcanes-road-trip-ruta"
+  },
+  "balkan-road-trip-route": {
+    "de": "https://www.zercy.app/blog/balkan-roadtrip-route",
+    "en": "https://www.zercy.app/en/blog/balkan-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/balcanes-road-trip-ruta"
+  },
+  "balcanes-road-trip-ruta": {
+    "de": "https://www.zercy.app/blog/balkan-roadtrip-route",
+    "en": "https://www.zercy.app/en/blog/balkan-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/balcanes-road-trip-ruta"
   },
   "bangkok-3-tage": {
     "de": "https://www.zercy.app/blog/bangkok-3-tage",
@@ -233,6 +263,21 @@
     "de": "https://www.zercy.app/blog/beste-badeziele-weltweit-2026",
     "en": "https://www.zercy.app/en/blog/best-beach-destinations-worldwide-2026",
     "es": "https://www.zercy.app/es/blog/mejores-destinos-playa-mundo-2026"
+  },
+  "beste-fruehlingsziele-europa": {
+    "de": "https://www.zercy.app/blog/beste-fruehlingsziele-europa",
+    "en": "https://www.zercy.app/en/blog/best-spring-destinations-europe",
+    "es": "https://www.zercy.app/es/blog/mejores-destinos-primavera-europa"
+  },
+  "best-spring-destinations-europe": {
+    "de": "https://www.zercy.app/blog/beste-fruehlingsziele-europa",
+    "en": "https://www.zercy.app/en/blog/best-spring-destinations-europe",
+    "es": "https://www.zercy.app/es/blog/mejores-destinos-primavera-europa"
+  },
+  "mejores-destinos-primavera-europa": {
+    "de": "https://www.zercy.app/blog/beste-fruehlingsziele-europa",
+    "en": "https://www.zercy.app/en/blog/best-spring-destinations-europe",
+    "es": "https://www.zercy.app/es/blog/mejores-destinos-primavera-europa"
   },
   "beste-herbstziele-reisen": {
     "de": "https://www.zercy.app/blog/beste-herbstziele-reisen",
@@ -819,6 +864,21 @@
     "en": "https://www.zercy.app/en/blog/hotel-upgrade-free-tips",
     "es": "https://www.zercy.app/es/blog/trucos-upgrade-hotel-gratis"
   },
+  "indien-reiseguide-highlights": {
+    "de": "https://www.zercy.app/blog/indien-reiseguide-highlights",
+    "en": "https://www.zercy.app/en/blog/india-travel-guide-highlights",
+    "es": "https://www.zercy.app/es/blog/india-guia-viaje-highlights"
+  },
+  "india-travel-guide-highlights": {
+    "de": "https://www.zercy.app/blog/indien-reiseguide-highlights",
+    "en": "https://www.zercy.app/en/blog/india-travel-guide-highlights",
+    "es": "https://www.zercy.app/es/blog/india-guia-viaje-highlights"
+  },
+  "india-guia-viaje-highlights": {
+    "de": "https://www.zercy.app/blog/indien-reiseguide-highlights",
+    "en": "https://www.zercy.app/en/blog/india-travel-guide-highlights",
+    "es": "https://www.zercy.app/es/blog/india-guia-viaje-highlights"
+  },
   "inselhopping-karibik-guide": {
     "de": "https://www.zercy.app/blog/inselhopping-karibik-guide",
     "en": "https://www.zercy.app/en/blog/caribbean-island-hopping-guide",
@@ -858,6 +918,21 @@
     "de": "https://www.zercy.app/blog/island-reiseguide",
     "en": "https://www.zercy.app/en/blog/iceland-travel-guide",
     "es": "https://www.zercy.app/es/blog/islandia-guia-viaje"
+  },
+  "japan-3-wochen-route": {
+    "de": "https://www.zercy.app/blog/japan-3-wochen-route",
+    "en": "https://www.zercy.app/en/blog/japan-3-week-route",
+    "es": "https://www.zercy.app/es/blog/japon-3-semanas-ruta"
+  },
+  "japan-3-week-route": {
+    "de": "https://www.zercy.app/blog/japan-3-wochen-route",
+    "en": "https://www.zercy.app/en/blog/japan-3-week-route",
+    "es": "https://www.zercy.app/es/blog/japon-3-semanas-ruta"
+  },
+  "japon-3-semanas-ruta": {
+    "de": "https://www.zercy.app/blog/japan-3-wochen-route",
+    "en": "https://www.zercy.app/en/blog/japan-3-week-route",
+    "es": "https://www.zercy.app/es/blog/japon-3-semanas-ruta"
   },
   "japan-jenseits-von-tokio": {
     "de": "https://www.zercy.app/blog/japan-jenseits-von-tokio",
@@ -1194,6 +1269,21 @@
     "en": "https://www.zercy.app/en/blog/traveling-with-dog-europe",
     "es": "https://www.zercy.app/es/blog/viajar-con-perro-europa"
   },
+  "mit-katze-reisen-europa": {
+    "de": "https://www.zercy.app/blog/mit-katze-reisen-europa",
+    "en": "https://www.zercy.app/en/blog/traveling-with-cat-europe",
+    "es": "https://www.zercy.app/es/blog/viajar-con-gato-europa"
+  },
+  "traveling-with-cat-europe": {
+    "de": "https://www.zercy.app/blog/mit-katze-reisen-europa",
+    "en": "https://www.zercy.app/en/blog/traveling-with-cat-europe",
+    "es": "https://www.zercy.app/es/blog/viajar-con-gato-europa"
+  },
+  "viajar-con-gato-europa": {
+    "de": "https://www.zercy.app/blog/mit-katze-reisen-europa",
+    "en": "https://www.zercy.app/en/blog/traveling-with-cat-europe",
+    "es": "https://www.zercy.app/es/blog/viajar-con-gato-europa"
+  },
   "modena-ferrari-museum": {
     "de": "https://www.zercy.app/blog/modena-ferrari-museum",
     "en": "https://www.zercy.app/en/blog/modena-ferrari-museum",
@@ -1359,6 +1449,21 @@
     "en": "https://www.zercy.app/en/blog/porto-lisbons-underrated-sister",
     "es": "https://www.zercy.app/es/blog/oporto-hermana-subestimada"
   },
+  "portugal-rundreise-route": {
+    "de": "https://www.zercy.app/blog/portugal-rundreise-route",
+    "en": "https://www.zercy.app/en/blog/portugal-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/portugal-ruta-completa"
+  },
+  "portugal-road-trip-route": {
+    "de": "https://www.zercy.app/blog/portugal-rundreise-route",
+    "en": "https://www.zercy.app/en/blog/portugal-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/portugal-ruta-completa"
+  },
+  "portugal-ruta-completa": {
+    "de": "https://www.zercy.app/blog/portugal-rundreise-route",
+    "en": "https://www.zercy.app/en/blog/portugal-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/portugal-ruta-completa"
+  },
   "powerbank-regeln-handgepaeck-2026": {
     "de": "https://www.zercy.app/blog/powerbank-regeln-handgepaeck-2026",
     "en": "https://www.zercy.app/en/blog/powerbank-rules-carry-on-2026",
@@ -1373,6 +1478,21 @@
     "de": "https://www.zercy.app/blog/powerbank-regeln-handgepaeck-2026",
     "en": "https://www.zercy.app/en/blog/powerbank-rules-carry-on-2026",
     "es": "https://www.zercy.app/es/blog/normas-powerbank-equipaje-mano"
+  },
+  "reise-packliste-was-wirklich-rein-kommt": {
+    "de": "https://www.zercy.app/blog/reise-packliste-was-wirklich-rein-kommt",
+    "en": "https://www.zercy.app/en/blog/travel-packing-list-essentials",
+    "es": "https://www.zercy.app/es/blog/lista-equipaje-viaje-esencial"
+  },
+  "travel-packing-list-essentials": {
+    "de": "https://www.zercy.app/blog/reise-packliste-was-wirklich-rein-kommt",
+    "en": "https://www.zercy.app/en/blog/travel-packing-list-essentials",
+    "es": "https://www.zercy.app/es/blog/lista-equipaje-viaje-esencial"
+  },
+  "lista-equipaje-viaje-esencial": {
+    "de": "https://www.zercy.app/blog/reise-packliste-was-wirklich-rein-kommt",
+    "en": "https://www.zercy.app/en/blog/travel-packing-list-essentials",
+    "es": "https://www.zercy.app/es/blog/lista-equipaje-viaje-esencial"
   },
   "reisefehler-vermeiden-klassische-fehler": {
     "de": "https://www.zercy.app/blog/reisefehler-vermeiden-klassische-fehler",
@@ -1654,6 +1774,21 @@
     "en": "https://www.zercy.app/en/blog/sailing-holiday-beginners-guide",
     "es": "https://www.zercy.app/es/blog/vacaciones-vela-principiantes"
   },
+  "skandinavien-rundreise-route": {
+    "de": "https://www.zercy.app/blog/skandinavien-rundreise-route",
+    "en": "https://www.zercy.app/en/blog/scandinavia-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/escandinavia-ruta-completa"
+  },
+  "scandinavia-road-trip-route": {
+    "de": "https://www.zercy.app/blog/skandinavien-rundreise-route",
+    "en": "https://www.zercy.app/en/blog/scandinavia-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/escandinavia-ruta-completa"
+  },
+  "escandinavia-ruta-completa": {
+    "de": "https://www.zercy.app/blog/skandinavien-rundreise-route",
+    "en": "https://www.zercy.app/en/blog/scandinavia-road-trip-route",
+    "es": "https://www.zercy.app/es/blog/escandinavia-ruta-completa"
+  },
   "skiurlaub-europa-beste-orte": {
     "de": "https://www.zercy.app/blog/skiurlaub-europa-beste-orte",
     "en": "https://www.zercy.app/en/blog/ski-holidays-europe-best-resorts",
@@ -1818,6 +1953,21 @@
     "de": "https://www.zercy.app/blog/trinkgeld-weltweit-guide",
     "en": "https://www.zercy.app/en/blog/tipping-culture-worldwide-guide",
     "es": "https://www.zercy.app/es/blog/propinas-en-el-mundo-guia"
+  },
+  "tuerkei-roadtrip-highlights": {
+    "de": "https://www.zercy.app/blog/tuerkei-roadtrip-highlights",
+    "en": "https://www.zercy.app/en/blog/turkey-road-trip-highlights",
+    "es": "https://www.zercy.app/es/blog/turquia-road-trip-highlights"
+  },
+  "turkey-road-trip-highlights": {
+    "de": "https://www.zercy.app/blog/tuerkei-roadtrip-highlights",
+    "en": "https://www.zercy.app/en/blog/turkey-road-trip-highlights",
+    "es": "https://www.zercy.app/es/blog/turquia-road-trip-highlights"
+  },
+  "turquia-road-trip-highlights": {
+    "de": "https://www.zercy.app/blog/tuerkei-roadtrip-highlights",
+    "en": "https://www.zercy.app/en/blog/turkey-road-trip-highlights",
+    "es": "https://www.zercy.app/es/blog/turquia-road-trip-highlights"
   },
   "vietnam-2-wochen-route": {
     "de": "https://www.zercy.app/blog/vietnam-2-wochen-route",

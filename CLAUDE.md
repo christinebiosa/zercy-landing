@@ -60,6 +60,37 @@ Türkei (Istanbul, Antalya), Thailand, Vietnam, Marokko, Singapur, Kolumbien (in
 
 ---
 
+## 🌐 hreflang & Topic-Key-Eindeutigkeit — KRITISCH
+
+**Stand 2026-05-14:** Alle 3 Article-Templates (`src/pages/blog/[slug].astro`, `src/pages/en/blog/[slug].astro`, `src/pages/es/blog/[slug].astro`) emittieren hreflang-Tags, die aus `src/data/hreflang-map.json` gespeist werden. Die JSON wird von `scripts/generate-hreflang-map.mjs` generiert, das wiederum `scripts/photo-mapping.mjs` als Quelle nutzt.
+
+### Eiserne Regel: Jeder Artikel braucht einen EINDEUTIGEN Topic-Key
+
+Ein Topic-Key in `slugToTopic` darf von **maximal einem Artikel pro Sprache** verwendet werden. Wenn zwei verschiedene DE-Artikel denselben Key haben, gewinnt der zuletzt verarbeitete und der andere verliert seine Cross-Language-Verknüpfung.
+
+**Beispiele (richtig):**
+- `wo-uebernachten-madrid` / `where-to-stay-madrid` / `donde-alojarse-madrid` → `madrid`
+- `madrid-24-stunden` / `madrid-24-hours` / `madrid-24-horas` → `madrid-24h` (eigener Key!)
+- `wo-uebernachten-porto` → `porto` · `porto-die-unterschaetzte-schwester` → `porto-guide`
+
+**Beispiele (falsch, ergibt Hreflang-Bruch):**
+- `wo-uebernachten-madrid` UND `madrid-24-stunden` beide → `madrid` ❌
+
+### Wie testen
+Nach jeder Änderung an `photo-mapping.mjs`:
+```bash
+node scripts/generate-hreflang-map.mjs
+```
+Ausgabe MUSS lauten: `✓ hreflang-map.json — X/Y articles mapped` mit kleinem Unterschied (höchstens identisch-Slug-Duplikate wie `osaka-vs-kyoto`).
+Bei `(N without cross-language match)` mit N > 10: **Kollision vorhanden, fixen bevor deployed wird.**
+
+### Foto vs. hreflang — wichtige Unterscheidung
+Mehrere Slugs dürfen sich **dasselbe Foto teilen** (z.B. `wo-uebernachten-madrid` + `madrid-24-stunden` zeigen beide ein Madrid-Foto). Aber sie müssen **unterschiedliche Topic-Keys** haben, sonst bricht hreflang.
+- Foto-Sharing: zwei Topic-Keys können denselben Unsplash-Query in `topicToQuery` haben. Die Files in `public/img/blog/` sind dann unterschiedlich (`madrid.jpg`, `madrid-24h.jpg`), aber das Motiv passt zum gleichen Suchbegriff.
+- Wenn Speicherplatz sparen gewünscht: das `heroImage` im Frontmatter kann manuell auf einen geteilten Pfad gesetzt werden — aber der Topic-Key in `slugToTopic` bleibt eindeutig.
+
+---
+
 ## Projekt-Überblick
 Zercy ist ein KI-gestütztes Reiseplanungs-Tool. Dieses Repo ist die **Landing Page** (zercy.app).
 Das AI-Tool (Repo: cerci-demo) läuft live auf app.zercy.app.
@@ -70,9 +101,10 @@ Das AI-Tool (Repo: cerci-demo) läuft live auf app.zercy.app.
 - **API-Funktionen:** `/api/think.js`, `/api/parse.js`, `/api/chat.js`, `/api/zercy-identity.js`
 - **Node:** >=22.12.0
 
-## Deploy (IMMER alle 3 Schritte, IMMER!)
+## Deploy (IMMER alle 4 Schritte, IMMER!)
 ```bash
 cd /Users/christinebork/Desktop/zercy-landing
+node scripts/generate-hreflang-map.mjs
 npx astro build
 npx vercel --prod --force
 git add -A && git commit -m "Beschreibung der Änderung" && git push
@@ -299,6 +331,9 @@ node scripts/download-photos.mjs --frontmatter-only
 ```
 Dieses Script-Flag schreibt nur Frontmatter, lädt nichts neu. Sicher zu jedem Zeitpunkt ausführbar.
 
+**⚠️ Topic-Key-Eindeutigkeit (für hreflang!):**
+Im Gegensatz zum frühen Foto-Sharing-Ansatz (mehrere Artikel = ein Key = ein Foto) gilt jetzt: **jeder Artikel hat seinen eigenen Topic-Key**, auch wenn er thematisch ähnlich ist. Foto-Sharing geht weiterhin, indem zwei Keys denselben Unsplash-Query bekommen. Siehe Abschnitt "🌐 hreflang & Topic-Key-Eindeutigkeit" oben.
+
 **Topic-Sharing (Foto-Recycling):**
 - Slugs die thematisch identisch sind, sollten denselben Topic-Key bekommen → teilen sich ein Foto.
 - Beispiel: `wo-uebernachten-cancun` + `where-to-stay-cancun` + `donde-alojarse-cancun` → alle Topic `cancun` → eine `cancun.jpg`.
@@ -440,6 +475,10 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - donde-alojarse-tesalonica, donde-alojarse-gante
 - glamping-vacaciones-europa, crucero-fluvial-europa-guia, vacaciones-todo-incluido-vale-la-pena
 - workation-portugal-espana-2026, senderismo-alpes-principiantes-guia
+- escandinavia-ruta-completa, portugal-ruta-completa, balcanes-road-trip-ruta
+- japon-3-semanas-ruta, lista-equipaje-viaje-esencial, india-guia-viaje-highlights
+- turquia-road-trip-highlights, mejores-destinos-primavera-europa, viajar-con-gato-europa
+- australia-ruta-completa
 
 **ES-Stil-Regeln** (für künftige Artikel):
 - LATAM-Spanisch (nicht Castellano): "tú" für Anrede, "ustedes" statt "vosotros"
@@ -541,6 +580,10 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - wo-uebernachten-thessaloniki, wo-uebernachten-gent
 - glamping-europa-guide, flusskreuzfahrt-europa-guide, all-inclusive-urlaub-lohnt-sich
 - workation-portugal-spanien-2026, bergwandern-alpen-anfaenger-guide
+- skandinavien-rundreise-route, portugal-rundreise-route, balkan-roadtrip-route
+- japan-3-wochen-route, reise-packliste-was-wirklich-rein-kommt, indien-reiseguide-highlights
+- tuerkei-roadtrip-highlights, beste-fruehlingsziele-europa, mit-katze-reisen-europa
+- australien-rundreise-route
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -616,6 +659,10 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - where-to-stay-thessaloniki, where-to-stay-ghent
 - glamping-europe-guide, river-cruise-europe-guide, all-inclusive-holiday-worth-it
 - workation-portugal-spain-2026, alpine-hiking-beginners-guide
+- scandinavia-road-trip-route, portugal-road-trip-route, balkan-road-trip-route
+- japan-3-week-route, travel-packing-list-essentials, india-travel-guide-highlights
+- turkey-road-trip-highlights, best-spring-destinations-europe, traveling-with-cat-europe
+- australia-road-trip-route
 
 ### Schema — automatisch via Template
 Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:
@@ -641,9 +688,9 @@ Vor dem FAQ, nach dem `---` Trennstrich: 1–2 Sätze die Zercy erwähnen, natü
 
 ### ✅ Bereits vorhandene Themenartikel — IMMER HIER PRÜFEN vor neuen Vorschlägen!
 
-**Stand: 2026-05-11 | 138 Themenartikel**
+**Stand: 2026-05-14 | 148 Themenartikel**
 
-48h Rom, 48h Barcelona, 48h Istanbul, Airbnb Experiences, Airbnb vs. Hotel, Airport Hacks, Albanien Riviera, Algarve Guide 2026, All-Inclusive Urlaub, Apulien/Süditalien, Auslands-SIM Guide, Bahn vs. Flieger Europa, Bali vs. Lombok, Bangkok 3 Tage, Bergwandern Alpen Anfänger, Beste Badeziele weltweit 2026, Beste Herbstziele, Beste Offline Apps, Beste Reise-Kreditkarten 2026, Beste Travel Apps 2026, Booking Apartments vs. Airbnb, Booking Genius, Booking vs. Direkt, Boutique Hotels, Business Class, Business Class ohne Meilen, Campervan Europa, Capsule Wardrobe Handgepäck, City Cards & Museumspässe, CO2 Kompensation, Costa Rica Rundreise, Costa Rica Surfen, Cyber-Sicherheit, Digital Nomad Visa, Europäische Städte im Winter, Färöer Inseln, Familienurlaub Europa Ziele, Familienurlaub mit Kindern Tipps, Fernwanderwege Welt, Flughafentransfer Tipps 2026, Flugverspätung Rechte, Flusskreuzfahrten Europa, Food Travel, Frühbucher vs. Last Minute, Geheimtipps Europa, Geld im Ausland, Glamping Europa, Griechenland Inseln Vergleich, Günstig Fliegen, Handgepäck Flüssigkeiten, Handgepäck vs. Aufgegeben, Hidden City Ticketing, Hostel Guide (Buchen), Hostel oder Hotel 2026, Hotel-Kategorien erklärt, Hotel Upgrade Tipps, Inselhopping Karibik, Interrail Guide 2026, Island Reiseguide, Japan beyond Tokyo, Jetlag, KI & Reiseplanung (4 Artikel), Kolumbien Reiseguide, Kreuzfahrt Einsteiger, Kreuzfahrt Städte, Kroatien Island Hopping, Langstreckenflug mit Kindern, Lissabon Off the Beaten, Lounge Zugang, Los Angeles, Luxusreisen günstig, Madrid 24h, Malediven Guide, Marokko Roadtrip, Meilen & Punkte Anfänger, Mietwagen (3 Artikel), Mit Hund Europa, Modena Ferrari, Nachtzüge Europa, Neuseeland Guide, Nordlichter 2026, Nur Handgepäck, Open Jaw Tickets, Osaka vs. Kyoto, Patagonien 3 Wochen, Pauschalreise vs. Individualreise, Peru Guide, Plastik-frei Reisen, Porto Guide, Powerbank Regeln, Reisefehler vermeiden, Reisefotografie, Reisekreditkarte 2026, Reisen kleines Budget, Reisen mit Baby, Reisen mit Teenagern, Reisen nach 60, Reiseversicherung, Riads Marokko, Roadtrip Etappen, Route 66 USA, Sabbatical planen, Safari Ostafrika, Sansibar Stone Town, Santiago de Compostela, Schönste Strände Europa, Schottland Highlands Roadtrip, Schweiz Reise-Highlights, Segelurlaub Einsteiger, Skiurlaub Europa, Slow Travel, Slowenien Guide, Solo Reisen Frauen, Stopover Tourismus, Südostasien Budget, Surfurlaub Anfänger, Tauchen & Schnorcheln, Thailand 2-Wochen-Route, Tokio Foodie, Trinkgeld weltweit, Vietnam 2-Wochen-Route, Visa-on-Arrival Länder, Wann Flüge buchen, Was ist Zercy, Wellness & Spa Reisen, Wien am Wochenende, Wintersonnen Januar, Wohnungstausch, Workation Portugal & Spanien, Workation Steuern, Yoga-Retreats 2026, Zercy Logbook, Zugreisen Europa
+48h Rom, 48h Barcelona, 48h Istanbul, Airbnb Experiences, Airbnb vs. Hotel, Airport Hacks, Albanien Riviera, Algarve Guide 2026, All-Inclusive Urlaub, Apulien/Süditalien, Auslands-SIM Guide, Australien Rundreise, Bahn vs. Flieger Europa, Bali vs. Lombok, Bangkok 3 Tage, Balkan Road Trip, Bergwandern Alpen Anfänger, Beste Badeziele weltweit 2026, Beste Frühlingsziele Europa, Beste Herbstziele, Beste Offline Apps, Beste Reise-Kreditkarten 2026, Beste Travel Apps 2026, Booking Apartments vs. Airbnb, Booking Genius, Booking vs. Direkt, Boutique Hotels, Business Class, Business Class ohne Meilen, Campervan Europa, Capsule Wardrobe Handgepäck, City Cards & Museumspässe, CO2 Kompensation, Costa Rica Rundreise, Costa Rica Surfen, Cyber-Sicherheit, Digital Nomad Visa, Europäische Städte im Winter, Färöer Inseln, Familienurlaub Europa Ziele, Familienurlaub mit Kindern Tipps, Fernwanderwege Welt, Flughafentransfer Tipps 2026, Flugverspätung Rechte, Flusskreuzfahrten Europa, Food Travel, Frühbucher vs. Last Minute, Geheimtipps Europa, Geld im Ausland, Glamping Europa, Griechenland Inseln Vergleich, Günstig Fliegen, Handgepäck Flüssigkeiten, Handgepäck vs. Aufgegeben, Hidden City Ticketing, Hostel Guide (Buchen), Hostel oder Hotel 2026, Hotel-Kategorien erklärt, Hotel Upgrade Tipps, Indien Reiseguide, Inselhopping Karibik, Interrail Guide 2026, Island Reiseguide, Japan 3-Wochen-Route, Japan beyond Tokyo, Jetlag, KI & Reiseplanung (4 Artikel), Kolumbien Reiseguide, Kreuzfahrt Einsteiger, Kreuzfahrt Städte, Kroatien Island Hopping, Langstreckenflug mit Kindern, Lissabon Off the Beaten, Lounge Zugang, Los Angeles, Luxusreisen günstig, Madrid 24h, Malediven Guide, Marokko Roadtrip, Meilen & Punkte Anfänger, Mietwagen (3 Artikel), Mit Hund Europa, Mit Katze reisen Europa, Modena Ferrari, Nachtzüge Europa, Neuseeland Guide, Nordlichter 2026, Nur Handgepäck, Open Jaw Tickets, Osaka vs. Kyoto, Patagonien 3 Wochen, Pauschalreise vs. Individualreise, Peru Guide, Plastik-frei Reisen, Porto Guide, Portugal Rundreise, Powerbank Regeln, Reise-Packliste, Reisefehler vermeiden, Reisefotografie, Reisekreditkarte 2026, Reisen kleines Budget, Reisen mit Baby, Reisen mit Teenagern, Reisen nach 60, Reiseversicherung, Riads Marokko, Roadtrip Etappen, Route 66 USA, Sabbatical planen, Safari Ostafrika, Sansibar Stone Town, Santiago de Compostela, Schönste Strände Europa, Schottland Highlands Roadtrip, Schweiz Reise-Highlights, Segelurlaub Einsteiger, Skiurlaub Europa, Skandinavien Rundreise, Slow Travel, Slowenien Guide, Solo Reisen Frauen, Stopover Tourismus, Südostasien Budget, Surfurlaub Anfänger, Tauchen & Schnorcheln, Thailand 2-Wochen-Route, Tokio Foodie, Trinkgeld weltweit, Türkei Road Trip, Vietnam 2-Wochen-Route, Visa-on-Arrival Länder, Wann Flüge buchen, Was ist Zercy, Wellness & Spa Reisen, Wien am Wochenende, Wintersonnen Januar, Wohnungstausch, Workation Portugal & Spanien, Workation Steuern, Yoga-Retreats 2026, Zercy Logbook, Zugreisen Europa
 
 **Regel:** Vor JEDEM neuen Themenartikel-Vorschlag diese Liste lesen. Nach jeder neuen Batch: Liste aktualisieren.
 
@@ -732,6 +779,8 @@ Der "Stadtführer / City Guide Finder / Guía de ciudades"-Dropdown auf allen 3 
 - [ ] **`heroImage` im Frontmatter UND Datei in `public/img/blog/` existiert** (siehe Foto-Workflow oben)
 - [ ] **`bookingDest` im Frontmatter** (wenn Artikel Reise-/Hotel-Bezug hat — sonst weglassen)
 - [ ] Topic-Mapping in `scripts/photo-mapping.mjs` ergänzt (slugToTopic + topicToQuery)
+- [ ] **Topic-Key ist EINDEUTIG** in `photo-mapping.mjs` — kein anderer Artikel teilt diesen Key
+- [ ] `node scripts/generate-hreflang-map.mjs` lief erfolgreich (`(0 without cross-language match)` ideal, max 10 wegen identisch-Slug-Duplikate)
 - [ ] `node scripts/download-photos.mjs --frontmatter-only` lief erfolgreich nach Foto-Download
 - [ ] `npx astro build` erfolgreich + `npx vercel --prod --force` deployed
 - [ ] **Neuen Slug oben in die Artikel-Liste eingetragen** (DE + EN)
