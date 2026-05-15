@@ -724,12 +724,23 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - honeymoon-planning-guide, travel-vaccinations-guide, accessible-travel-guide
 - vegan-travel-guide
 
-### Schema — automatisch via Template
-Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:
-- DE: `src/pages/blog/[slug].astro`
-- EN: `src/pages/en/blog/[slug].astro`
+### Schema — automatisch via Template (KEIN manueller Eingriff nötig!)
+Alle 3 Templates (`src/pages/blog/[slug].astro`, `src/pages/en/blog/[slug].astro`, `src/pages/es/blog/[slug].astro`) generieren automatisch **3 JSON-LD Schemas** im `<head>` — für jeden Artikel, ohne dass die Markdown-Datei angefasst werden muss:
 
-Kein manuelles Schema nötig — das Template übernimmt alles (headline, description, url, datePublished, dateModified, image, inLanguage, author, publisher).
+| Schema | Quelle | Zweck |
+|---|---|---|
+| **BlogPosting** | Frontmatter (title, description, pubDate, heroImage) | Standard-Artikel-Schema |
+| **FAQPage** | Parst H3-Fragen aus `## Häufige Fragen` / `## Frequently Asked Questions` / `## Preguntas frecuentes` Sektion automatisch | Google AI Overviews, Perplexity, ChatGPT-Suche |
+| **BreadcrumbList** | Aus URL-Struktur (Zercy → Blog → Artikel-Titel) | Breadcrumb-Darstellung in SERPs |
+
+**FAQPage-Parsing-Logik (Build-Zeit, kein Runtime-JS):**
+- Sucht nach FAQ-Heading in der Sprache des Templates
+- Extrahiert H3-Fragen + die folgenden Absätze als Antworten (max. 400 Zeichen)
+- Rendert max. 4 Question+Answer-Paare
+- Markdown-Links und **Bold** werden automatisch entfernt
+- Wenn keine FAQ-Sektion vorhanden: FAQPage wird nicht gerendert (kein leeres Schema)
+
+**Konsequenz:** Jeder Artikel, der eine korrekte `## Häufige Fragen`-Sektion mit H3-Fragen hat, bekommt automatisch FAQPage-Schema. Neue Artikel brauchen keine extra Konfiguration.
 
 ### FAQ-Sektion — AEO/GEO (PFLICHT)
 Jeder Artikel endet mit einer `## Frequently Asked Questions` (EN) / `## Häufige Fragen` (DE) Sektion.
@@ -834,8 +845,8 @@ Der "Stadtführer / City Guide Finder / Guía de ciudades"-Dropdown auf allen 3 
 - [ ] **3–4 interne Links** im Fließtext (nicht nur "Mehr lesen" Block)
 - [ ] "Mehr lesen" / "Read more" Block mit 3 internen Links
 - [ ] Zercy-CTA vor FAQ (1–2 Sätze)
-- [ ] FAQ: 4 Fragen als H3, **alle** mit W-Wort beginnend (Was/Wann/Wo/Warum/Wie/Wer/Welche)
-- [ ] Beide Sprachen geschrieben (DE + EN)
+- [ ] FAQ: 4 Fragen als H3, **alle** mit W-Wort beginnend (Was/Wann/Wo/Warum/Wie/Wer/Welche) → **erzeugt automatisch FAQPage-Schema**
+- [ ] Beide Sprachen geschrieben (DE + EN + ES bei City-Guides)
 - [ ] **`heroImage` im Frontmatter UND Datei in `public/img/blog/` existiert** (siehe Foto-Workflow oben)
 - [ ] **`bookingDest` im Frontmatter** (wenn Artikel Reise-/Hotel-Bezug hat — sonst weglassen)
 - [ ] Topic-Mapping in `scripts/photo-mapping.mjs` ergänzt (slugToTopic + topicToQuery)
