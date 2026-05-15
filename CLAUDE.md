@@ -479,6 +479,26 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - japon-3-semanas-ruta, lista-equipaje-viaje-esencial, india-guia-viaje-highlights
 - turquia-road-trip-highlights, mejores-destinos-primavera-europa, viajar-con-gato-europa
 - australia-ruta-completa
+- corea-sur-2-semanas-ruta, taiwan-guia-viaje-highlights, sri-lanka-ruta-completa
+- nepal-guia-viaje-highlights, filipinas-guia-viaje-highlights, jordania-guia-viaje-highlights
+- oman-guia-viaje-highlights, uzbekistan-ruta-seda-guide, camboya-guia-viaje-highlights
+- laos-guia-viaje-highlights
+- mexico-ruta-completa, argentina-guia-viaje-highlights, brasil-guia-viaje-highlights
+- chile-guia-viaje-highlights, bolivia-salar-uyuni-guia, ecuador-galapagos-guia-viaje
+- guatemala-guia-viaje-highlights, panama-guia-viaje-highlights, republica-dominicana-guia
+- cabo-verde-guia-viaje
+- irlanda-ruta-completa, malta-gozo-guia-viaje, polonia-ruta-completa
+- hungria-guia-viaje-highlights, rumania-guia-viaje-highlights, bulgaria-guia-viaje-highlights
+- suecia-guia-viaje-highlights, finlandia-guia-viaje-highlights, dinamarca-guia-viaje-highlights
+- paises-bajos-ruta-completa
+- kenia-guia-viaje-highlights, tanzania-guia-viaje-highlights, sudafrica-ruta-completa
+- egipto-guia-viaje-highlights, namibia-guia-viaje-highlights, ruanda-trekking-gorila-guia
+- mauricio-guia-viaje, indonesia-guia-viaje-highlights, fiji-islas-pacifico-guia
+- marruecos-ciudades-guia
+- costa-oeste-usa-roadtrip, canada-guia-viaje-highlights, azores-guia-viaje
+- madeira-guia-viaje, islas-canarias-comparativa, mochilero-guia-principiantes
+- viaje-novios-luna-miel-guia, vacunas-viaje-guia, viajes-accesibles-guia
+- viaje-vegano-guia
 
 **ES-Stil-Regeln** (für künftige Artikel):
 - LATAM-Spanisch (nicht Castellano): "tú" für Anrede, "ustedes" statt "vosotros"
@@ -584,6 +604,26 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - japan-3-wochen-route, reise-packliste-was-wirklich-rein-kommt, indien-reiseguide-highlights
 - tuerkei-roadtrip-highlights, beste-fruehlingsziele-europa, mit-katze-reisen-europa
 - australien-rundreise-route
+- suedkorea-2-wochen-route, taiwan-reiseguide-highlights, sri-lanka-rundreise-route
+- nepal-reiseguide-highlights, philippinen-reiseguide-highlights, jordanien-reiseguide-highlights
+- oman-reiseguide-highlights, usbekistan-seidenstrasse-guide, kambodscha-reiseguide-highlights
+- laos-reiseguide-highlights
+- mexiko-rundreise-route, argentinien-reiseguide-highlights, brasilien-reiseguide-highlights
+- chile-reiseguide-highlights, bolivien-salar-de-uyuni-guide, ecuador-galapagos-reiseguide
+- guatemala-reiseguide-highlights, panama-reiseguide-highlights, dominikanische-republik-guide
+- kap-verde-reiseguide
+- irland-rundreise-route, malta-gozo-reiseguide, polen-rundreise-route
+- ungarn-reiseguide-highlights, rumaenien-reiseguide-highlights, bulgarien-reiseguide-highlights
+- schweden-reiseguide-highlights, finnland-reiseguide-highlights, daenemark-reiseguide-highlights
+- niederlande-rundreise-route
+- kenia-reiseguide-highlights, tansania-reiseguide-highlights, suedafrika-rundreise-route
+- aegypten-reiseguide-highlights, namibia-reiseguide-highlights, ruanda-gorilla-trekking-guide
+- mauritius-reiseguide, indonesien-reiseguide-highlights, fiji-pazifik-inselhopping
+- marokko-staedte-guide
+- us-westkueste-roadtrip, kanada-reiseguide-highlights, azoren-reiseguide
+- madeira-reiseguide, kanaren-inseln-vergleich, backpacking-einsteiger-guide
+- honeymoon-planung-guide, reiseimpfungen-guide, barrierefreies-reisen-guide
+- vegan-reisen-guide
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -663,6 +703,26 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - japan-3-week-route, travel-packing-list-essentials, india-travel-guide-highlights
 - turkey-road-trip-highlights, best-spring-destinations-europe, traveling-with-cat-europe
 - australia-road-trip-route
+- south-korea-2-week-route, taiwan-travel-guide-highlights, sri-lanka-road-trip-route
+- nepal-travel-guide-highlights, philippines-travel-guide-highlights, jordan-travel-guide-highlights
+- oman-travel-guide-highlights, uzbekistan-silk-road-guide, cambodia-travel-guide-highlights
+- laos-travel-guide-highlights
+- mexico-road-trip-route, argentina-travel-guide-highlights, brazil-travel-guide-highlights
+- chile-travel-guide-highlights, bolivia-salt-flat-uyuni-guide, ecuador-galapagos-travel-guide
+- guatemala-travel-guide-highlights, panama-travel-guide-highlights, dominican-republic-travel-guide
+- cape-verde-travel-guide
+- ireland-road-trip-route, malta-gozo-travel-guide, poland-road-trip-route
+- hungary-travel-guide-highlights, romania-travel-guide-highlights, bulgaria-travel-guide-highlights
+- sweden-travel-guide-highlights, finland-travel-guide-highlights, denmark-travel-guide-highlights
+- netherlands-road-trip-route
+- kenya-travel-guide-highlights, tanzania-travel-guide-highlights, south-africa-road-trip-route
+- egypt-travel-guide-highlights, namibia-travel-guide-highlights, rwanda-gorilla-trekking-guide
+- mauritius-travel-guide, indonesia-travel-guide-highlights, fiji-pacific-island-hopping
+- morocco-cities-guide
+- us-west-coast-road-trip, canada-travel-guide-highlights, azores-travel-guide
+- madeira-travel-guide, canary-islands-comparison, backpacking-beginners-guide
+- honeymoon-planning-guide, travel-vaccinations-guide, accessible-travel-guide
+- vegan-travel-guide
 
 ### Schema — automatisch via Template
 Das BlogPosting JSON-LD wird automatisch durch die Templates generiert:
@@ -688,9 +748,9 @@ Vor dem FAQ, nach dem `---` Trennstrich: 1–2 Sätze die Zercy erwähnen, natü
 
 ### ✅ Bereits vorhandene Themenartikel — IMMER HIER PRÜFEN vor neuen Vorschlägen!
 
-**Stand: 2026-05-14 | 148 Themenartikel**
+**Stand: 2026-05-14 | 198 Themenartikel**
 
-48h Rom, 48h Barcelona, 48h Istanbul, Airbnb Experiences, Airbnb vs. Hotel, Airport Hacks, Albanien Riviera, Algarve Guide 2026, All-Inclusive Urlaub, Apulien/Süditalien, Auslands-SIM Guide, Australien Rundreise, Bahn vs. Flieger Europa, Bali vs. Lombok, Bangkok 3 Tage, Balkan Road Trip, Bergwandern Alpen Anfänger, Beste Badeziele weltweit 2026, Beste Frühlingsziele Europa, Beste Herbstziele, Beste Offline Apps, Beste Reise-Kreditkarten 2026, Beste Travel Apps 2026, Booking Apartments vs. Airbnb, Booking Genius, Booking vs. Direkt, Boutique Hotels, Business Class, Business Class ohne Meilen, Campervan Europa, Capsule Wardrobe Handgepäck, City Cards & Museumspässe, CO2 Kompensation, Costa Rica Rundreise, Costa Rica Surfen, Cyber-Sicherheit, Digital Nomad Visa, Europäische Städte im Winter, Färöer Inseln, Familienurlaub Europa Ziele, Familienurlaub mit Kindern Tipps, Fernwanderwege Welt, Flughafentransfer Tipps 2026, Flugverspätung Rechte, Flusskreuzfahrten Europa, Food Travel, Frühbucher vs. Last Minute, Geheimtipps Europa, Geld im Ausland, Glamping Europa, Griechenland Inseln Vergleich, Günstig Fliegen, Handgepäck Flüssigkeiten, Handgepäck vs. Aufgegeben, Hidden City Ticketing, Hostel Guide (Buchen), Hostel oder Hotel 2026, Hotel-Kategorien erklärt, Hotel Upgrade Tipps, Indien Reiseguide, Inselhopping Karibik, Interrail Guide 2026, Island Reiseguide, Japan 3-Wochen-Route, Japan beyond Tokyo, Jetlag, KI & Reiseplanung (4 Artikel), Kolumbien Reiseguide, Kreuzfahrt Einsteiger, Kreuzfahrt Städte, Kroatien Island Hopping, Langstreckenflug mit Kindern, Lissabon Off the Beaten, Lounge Zugang, Los Angeles, Luxusreisen günstig, Madrid 24h, Malediven Guide, Marokko Roadtrip, Meilen & Punkte Anfänger, Mietwagen (3 Artikel), Mit Hund Europa, Mit Katze reisen Europa, Modena Ferrari, Nachtzüge Europa, Neuseeland Guide, Nordlichter 2026, Nur Handgepäck, Open Jaw Tickets, Osaka vs. Kyoto, Patagonien 3 Wochen, Pauschalreise vs. Individualreise, Peru Guide, Plastik-frei Reisen, Porto Guide, Portugal Rundreise, Powerbank Regeln, Reise-Packliste, Reisefehler vermeiden, Reisefotografie, Reisekreditkarte 2026, Reisen kleines Budget, Reisen mit Baby, Reisen mit Teenagern, Reisen nach 60, Reiseversicherung, Riads Marokko, Roadtrip Etappen, Route 66 USA, Sabbatical planen, Safari Ostafrika, Sansibar Stone Town, Santiago de Compostela, Schönste Strände Europa, Schottland Highlands Roadtrip, Schweiz Reise-Highlights, Segelurlaub Einsteiger, Skiurlaub Europa, Skandinavien Rundreise, Slow Travel, Slowenien Guide, Solo Reisen Frauen, Stopover Tourismus, Südostasien Budget, Surfurlaub Anfänger, Tauchen & Schnorcheln, Thailand 2-Wochen-Route, Tokio Foodie, Trinkgeld weltweit, Türkei Road Trip, Vietnam 2-Wochen-Route, Visa-on-Arrival Länder, Wann Flüge buchen, Was ist Zercy, Wellness & Spa Reisen, Wien am Wochenende, Wintersonnen Januar, Wohnungstausch, Workation Portugal & Spanien, Workation Steuern, Yoga-Retreats 2026, Zercy Logbook, Zugreisen Europa
+48h Rom, 48h Barcelona, 48h Istanbul, Ägypten Reiseguide, Airbnb Experiences, Airbnb vs. Hotel, Airport Hacks, Albanien Riviera, Algarve Guide 2026, All-Inclusive Urlaub, Apulien/Süditalien, Argentinien Reiseguide, Auslands-SIM Guide, Australien Rundreise, Azoren Reiseguide, Backpacking Einsteiger, Bahn vs. Flieger Europa, Bali vs. Lombok, Bangkok 3 Tage, Balkan Road Trip, Barrierefreies Reisen, Bergwandern Alpen Anfänger, Beste Badeziele weltweit 2026, Beste Frühlingsziele Europa, Beste Herbstziele, Beste Offline Apps, Beste Reise-Kreditkarten 2026, Beste Travel Apps 2026, Bolivien & Salar de Uyuni, Booking Apartments vs. Airbnb, Booking Genius, Booking vs. Direkt, Boutique Hotels, Brasilien Reiseguide, Bulgarien Reiseguide, Business Class, Business Class ohne Meilen, Campervan Europa, Capsule Wardrobe Handgepäck, Chile Reiseguide, City Cards & Museumspässe, CO2 Kompensation, Costa Rica Rundreise, Costa Rica Surfen, Cyber-Sicherheit, Dänemark Reiseguide, Digital Nomad Visa, Dominikanische Republik Guide, Ecuador & Galápagos, Europäische Städte im Winter, Färöer Inseln, Familienurlaub Europa Ziele, Familienurlaub mit Kindern Tipps, Fernwanderwege Welt, Fiji & Pazifik Inselhopping, Finnland Reiseguide, Flughafentransfer Tipps 2026, Flugverspätung Rechte, Flusskreuzfahrten Europa, Food Travel, Frühbucher vs. Last Minute, Geheimtipps Europa, Geld im Ausland, Glamping Europa, Griechenland Inseln Vergleich, Guatemala Reiseguide, Günstig Fliegen, Handgepäck Flüssigkeiten, Handgepäck vs. Aufgegeben, Hidden City Ticketing, Honeymoon Planung, Hostel Guide (Buchen), Hostel oder Hotel 2026, Hotel-Kategorien erklärt, Hotel Upgrade Tipps, Indien Reiseguide, Indonesien Reiseguide, Inselhopping Karibik, Interrail Guide 2026, Irland Rundreise, Island Reiseguide, Japan 3-Wochen-Route, Japan beyond Tokyo, Jetlag, Jordanien Reiseguide, Kambodscha Reiseguide, Kanada Reiseguide, Kanaren-Vergleich, Kap Verde Reiseguide, Kenia Reiseguide, KI & Reiseplanung (4 Artikel), Kolumbien Reiseguide, Kreuzfahrt Einsteiger, Kreuzfahrt Städte, Kroatien Island Hopping, Langstreckenflug mit Kindern, Laos Reiseguide, Lissabon Off the Beaten, Lounge Zugang, Los Angeles, Luxusreisen günstig, Madeira Reiseguide, Madrid 24h, Malediven Guide, Malta & Gozo Guide, Marokko Roadtrip, Marokko Städteguide, Mauritius Reiseguide, Meilen & Punkte Anfänger, Mexiko Rundreise, Mietwagen (3 Artikel), Mit Hund Europa, Mit Katze reisen Europa, Modena Ferrari, Nachtzüge Europa, Namibia Reiseguide, Nepal Reiseguide & Trekking, Neuseeland Guide, Niederlande Rundreise, Nordlichter 2026, Nur Handgepäck, Oman Reiseguide, Open Jaw Tickets, Osaka vs. Kyoto, Panama Reiseguide, Patagonien 3 Wochen, Pauschalreise vs. Individualreise, Peru Guide, Philippinen Reiseguide, Plastik-frei Reisen, Polen Rundreise, Porto Guide, Portugal Rundreise, Powerbank Regeln, Reise-Packliste, Reisefehler vermeiden, Reisefotografie, Reiseimpfungen Guide, Reisekreditkarte 2026, Reisen kleines Budget, Reisen mit Baby, Reisen mit Teenagern, Reisen nach 60, Reiseversicherung, Riads Marokko, Roadtrip Etappen, Route 66 USA, Ruanda & Gorilla Trekking, Rumänien Reiseguide, Sabbatical planen, Safari Ostafrika, Sansibar Stone Town, Santiago de Compostela, Schönste Strände Europa, Schottland Highlands Roadtrip, Schweden Reiseguide, Schweiz Reise-Highlights, Segelurlaub Einsteiger, Skiurlaub Europa, Skandinavien Rundreise, Slow Travel, Slowenien Guide, Solo Reisen Frauen, Sri Lanka Rundreise, Stopover Tourismus, Südafrika Rundreise, Südkorea 2-Wochen-Route, Südostasien Budget, Surfurlaub Anfänger, Taiwan Reiseguide, Tansania Reiseguide, Tauchen & Schnorcheln, Thailand 2-Wochen-Route, Tokio Foodie, Trinkgeld weltweit, Türkei Road Trip, Ungarn Reiseguide, US Westküste Roadtrip, Usbekistan Seidenstraße, Vegan Reisen, Vietnam 2-Wochen-Route, Visa-on-Arrival Länder, Wann Flüge buchen, Was ist Zercy, Wellness & Spa Reisen, Wien am Wochenende, Wintersonnen Januar, Wohnungstausch, Workation Portugal & Spanien, Workation Steuern, Yoga-Retreats 2026, Zercy Logbook, Zugreisen Europa
 
 **Regel:** Vor JEDEM neuen Themenartikel-Vorschlag diese Liste lesen. Nach jeder neuen Batch: Liste aktualisieren.
 
