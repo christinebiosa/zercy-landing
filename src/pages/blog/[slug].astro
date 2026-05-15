@@ -71,6 +71,26 @@ const dateStr = post.data.pubDate.toLocaleDateString('de-DE', { day: 'numeric', 
 const metaTitle = post.data.metaTitle || (post.data.title + ' | Zercy');
 const canonicalUrl = `https://www.zercy.app/blog/${post.id}`;
 const hreflang = (hreflangMap as Record<string, {de:string|null,en:string|null,es:string|null}>)[post.id];
+
+// FAQPage Schema — parse H3 questions from FAQ section
+const rawBody = post.body || '';
+const faqMarkers = ['## Häufige Fragen', '## Frequently Asked Questions', '## Preguntas frecuentes'];
+let faqStart = -1;
+for (const m of faqMarkers) { const i = rawBody.indexOf(m); if (i !== -1) { faqStart = i; break; } }
+const faqItems: Array<{question: string; answer: string}> = [];
+if (faqStart !== -1) {
+  const lines = rawBody.slice(faqStart).split('\n');
+  let cQ: string | null = null; let cA: string[] = [];
+  for (const line of lines) {
+    if (line.startsWith('### ')) {
+      if (cQ && cA.length) faqItems.push({ question: cQ, answer: cA.join(' ').substring(0, 400) });
+      cQ = line.replace(/^### /, '').trim(); cA = [];
+    } else if (cQ && line.trim() && !line.startsWith('## ')) {
+      cA.push(line.trim().replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*([^*]*)\*\*/g, '$1'));
+    }
+  }
+  if (cQ && cA.length) faqItems.push({ question: cQ, answer: cA.join(' ').substring(0, 400) });
+}
 ---
 <!DOCTYPE html>
 <html lang="de">
@@ -125,6 +145,24 @@ const hreflang = (hreflangMap as Record<string, {de:string|null,en:string|null,e
       "@type": "WebPage",
       "@id": canonicalUrl
     }
+  })}></script>
+  {faqItems.length > 0 && <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqItems.slice(0, 4).map(item => ({
+      "@type": "Question",
+      "name": item.question,
+      "acceptedAnswer": { "@type": "Answer", "text": item.answer }
+    }))
+  })}></script>}
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Zercy", "item": "https://www.zercy.app/" },
+      { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.zercy.app/blog/" },
+      { "@type": "ListItem", "position": 3, "name": post.data.title }
+    ]
   })}></script>
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
