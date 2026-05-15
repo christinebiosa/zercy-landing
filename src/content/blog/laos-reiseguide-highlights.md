@@ -15,7 +15,7 @@ Laos lohnt sich für Reisende, die entschleunigen wollen. Die keine perfekte Ins
 
 ## Was macht Luang Prabang besonders?
 
-Luang Prabang ist die Stadt, auf die Laos als Ganzes reduziert wird. Zu Recht. Die Altstadt liegt auf einer Halbinsel zwischen Mekong und Nam Khan. UNESCO-Weltkulturerbe seit 1995. Eine der besterhaltenen städtischen Ensembles Südostasiens.
+Luang Prabang ist die Stadt, auf die Laos als Ganzes reduziert wird. Zu Recht. Die Altstadt liegt auf einer Halbinsel zwischen Mekong und Nam Khan. UNESCO-Weltkulturerbe seit 1995. Eine der besterhaltenen städtischen Ensembles Südostasiens. Welches Viertel für deine Unterkunft am besten passt, zeigt der [Luang Prabang Hotelguide](/blog/wo-uebernachten-luang-prabang).
 
 Das Kernritual: Die Almosenrunde der Mönche bei Sonnenaufgang. Jeden Morgen, kurz nach sechs Uhr, ziehen Hunderte von Mönchen in orangefarbenen Roben durch die Straßen. Die Einheimischen knien am Straßenrand und überreichen Klebreis aus Bambuskörben. Es ist keine Show. Es ist ein täglicher Akt des Glaubens, der seit Jahrhunderten nicht unterbrochen wurde.
 

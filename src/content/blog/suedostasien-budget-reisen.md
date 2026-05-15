@@ -24,7 +24,7 @@ Das Budget variiert je nach Land erheblich. Die günstigste Reihenfolge 2026:
 
 **Bali (Indonesien)** ist kein klassisches Backpacker-Ziel mehr. Ubud und Seminyak haben westliche Preise in westlichen Cafés angezogen. Budget möglich in Canggu-Gegend oder Amed, aber Erwartungen anpassen. Tagesbudget: **40-60 EUR pro Person**.
 
-**Laos** ist ruhig, langsam, und günstig. Luang Prabang ist die teuerste Stadt (UNESCO). Vang Vieng günstiger, aber touristisch. Tagesbudget: **25-40 EUR pro Person**.
+**Laos** ist ruhig, langsam, und günstig. Luang Prabang ist die teuerste Stadt (UNESCO). Wer die richtige Unterkunft in der richtigen Lage sucht, hilft der [Luang Prabang Hotelguide](/blog/wo-uebernachten-luang-prabang). Vang Vieng günstiger, aber touristisch. Tagesbudget: **25-40 EUR pro Person**.
 
 Ein Hinweis: **Myanmar taucht in diesem Guide nicht auf.** Seit dem Militärputsch 2021 und den US/EU-Sanktionen unterstützt Tourismus dort direkt das Militär. Außerdem sind die Reisebedingungen instabil.
 
@@ -39,7 +39,7 @@ Bangkok → Chiang Mai → Laos (Luang Prabang, Vang Vieng) → Hanoi → Halong
 Kambodscha → Vietnam → Laos → Thailand. Vorteil: du startest mit den günstigsten Ländern, wenn dein Budget noch frisch ist.
 
 **Bali als Ergänzung:**
-Bali funktioniert am besten als separater Block am Anfang oder Ende. Günstige Flüge ab Singapur, Kuala Lumpur oder direkt aus Europa.
+Bali funktioniert am besten als separater Block am Anfang oder Ende. Günstige Flüge ab Singapur, Kuala Lumpur oder direkt aus Europa. Wer statt Bali eine ruhigere Inseloption sucht, ist Langkawi in Malaysia eine günstige Alternative mit weniger Tourismushype: der [Langkawi Hotelguide](/blog/wo-uebernachten-langkawi) zeigt, wo man am besten schläft.
 
 Interne Verbindungen: **Overnight-Busse** sind die günstigste Option. Ein Schlafbus von Hanoi nach Hue kostet 8-15 EUR und spart eine Hotelübernachtung. Züge in Vietnam sind empfehlenswert: komfortabler als Busse, Preise moderat. Fähren zwischen Inseln (Thailand/Kambodscha): 5-15 EUR.
 

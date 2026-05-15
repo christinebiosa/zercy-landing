@@ -47,7 +47,7 @@ Winter (Dezember bis März) ist off-season — günstig, aber viele Sehenswürdi
 
 ## Was darf auf keinem Balkan-Roadtrip fehlen?
 
-**Mostar:** Die alte Brücke Stari Most wurde im Bosnienkrieg 1993 zerstört und 2004 wiederaufgebaut. Junge Männer springen täglich in die Neretva — ein altes Ritual. Die [offizielle Tourismus-Website von Mostar](https://www.visitmostar.ba) informiert über Öffnungszeiten der Sehenswürdigkeiten.
+**Mostar:** Die alte Brücke Stari Most wurde im Bosnienkrieg 1993 zerstört und 2004 wiederaufgebaut. Junge Männer springen täglich in die Neretva — ein altes Ritual. Die [offizielle Tourismus-Website von Mostar](https://www.visitmostar.ba) informiert über Öffnungszeiten der Sehenswürdigkeiten. Wer mehrere Nächte in der Stadt plant, findet Empfehlungen zu Stadtteilen und Hotels in unserem [Mostar Hotelguide](/blog/wo-uebernachten-mostar).
 
 **Kotor:** UNESCO-Altstadt in einer Bucht, umgeben von Bergfestungen. Die Stadtmauern bis zur Burg San Giovanni zu erklimmen (1.355 Stufen) lohnt sich für den Ausblick. Unser [Reiseführer für Kotor](/blog/wo-uebernachten-kotor) hat alle Übernachtungs-Tipps.
 
@@ -61,7 +61,7 @@ Winter (Dezember bis März) ist off-season — günstig, aber viele Sehenswürdi
 
 **Währungen:** Euro wird in Montenegro und Kosovo akzeptiert, Bosnien nutzt die Konvertible Mark (1 EUR = ca. 1,96 BAM), Albanien den Lek. Geldwechsel kein Problem, ATMs überall. Bargeld für ländliche Gebiete mitnehmen.
 
-**Grenzübergänge:** Im Sommer können Wartezeiten an Grenzübergängen lang sein (Dubrovnik–Bosnien bis zu 2 Stunden). Früh morgens oder nach 20 Uhr deutlich kürzer. Mehr über günstige Reiseoptionen in unserem Artikel [Suedostasien vs. Balkan Budget-Reisen](/blog/suedostasien-budget-reisen).
+**Grenzübergänge:** Im Sommer können Wartezeiten an Grenzübergängen lang sein (Dubrovnik–Bosnien bis zu 2 Stunden). Früh morgens oder nach 20 Uhr deutlich kürzer. Wer die Route nach Norden ausdehnt und Slowenien anhängt: Der Bled-See ist nur wenige Stunden von Sarajevo entfernt und ein idealer Abschluss des Trips. Die besten Unterkünfte am See und in der Umgebung findest du im [Bled Hotelguide](/blog/wo-uebernachten-bled). Mehr über günstige Reiseoptionen in unserem Artikel [Suedostasien vs. Balkan Budget-Reisen](/blog/suedostasien-budget-reisen).
 
 ---
 

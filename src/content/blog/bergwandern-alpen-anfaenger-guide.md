@@ -36,7 +36,7 @@ Die Alpen erstrecken sich über sechs Länder. Nicht alle Regionen sind gleich z
 
 **Salzburger Land (Österreich, Zell am See):** Breite Almwege, viele Gondeln die den Aufstieg abnehmen, spektakuläre Gletscherpanoramen ohne Kletteranforderungen. Zell am See ist ein exzellenter Ausgangspunkt.
 
-**Tirol (Österreich):** Großes Angebot an Talwanderungen, viele Hütten, gute Öffis. Die Achensee-Region und das Zillertal haben einsteigerfreundliche Routen in Hülle und Fülle.
+**Tirol (Österreich):** Großes Angebot an Talwanderungen, viele Hütten, gute Öffis. Die Achensee-Region und das Zillertal haben einsteigerfreundliche Routen in Hülle und Fülle. Innsbruck ist dabei die ideale Basisstadt: umgeben von Bergen, exzellente Öffi-Anbindung ins Umland. Wo du in der Stadt übernachtest, zeigt unser [Innsbruck Hotelguide](/blog/wo-uebernachten-innsbruck).
 
 **Berner Oberland (Schweiz, Grindelwald):** Touristisch erschlossen, gut markiert, spektakulär. Der First Cliff Walk bei Grindelwald ist eine der bekanntesten Einsteigerwanderungen der Schweiz. Eiger-Panorama inklusive, Absturzgefahr minimal.
 
@@ -85,7 +85,7 @@ Vier Routen die funktionieren, schön sind und für Anfänger passen:
 
 **Zugspitzplatt (Deutschland):** Mit der Zahnradbahn auf die Zugspitze, kurze Wanderung auf dem Plateau. Deutschlands höchster Punkt ohne echtes Bergsteigen.
 
-**Rax (Österreich, bei Wien):** Seilbahn auf 1.545 Meter, breite Almwege, Hütten, Panorama auf die Schneealpe. Perfekt für Wien-Besucher mit einem Wandertag.
+**Rax (Österreich, bei Wien):** Seilbahn auf 1.545 Meter, breite Almwege, Hütten, Panorama auf die Schneealpe. Perfekt für Wien-Besucher mit einem Wandertag. Wer aus der Steiermark anreist oder Graz als Ausgangspunkt wählt, findet die besten Unterkünfte in der Stadt im [Graz Hotelguide](/blog/wo-uebernachten-graz).
 
 **Seiser Alm (Südtirol):** Gondel auf die Alm, freie Routenwahl auf breiten Wegen. Sellagruppe und Langkofel als Hintergrund. Ideal für Familien und Anfänger.
 

@@ -53,7 +53,7 @@ Kreta für alle Reisetypen:
 - **Wanderer**: E4-Fernwanderweg, Schluchtenwanderungen
 - **Strandliebhaber**: Elafonisi, Balos, Falassarna, Matala
 
-Kreta ist die einzige dieser vier Inseln, die du länger als eine Woche ausreizen kannst ohne Langeweile zu kriegen.
+Kreta ist die einzige dieser vier Inseln, die du länger als eine Woche ausreizen kannst ohne Langeweile zu kriegen. Wo du auf Kreta am besten schläfst, zeigt unser [Kreta Hotelguide](/blog/wo-uebernachten-kreta).
 
 Lies auch unseren [Island-Reiseguide](/blog/island-reiseguide) für Vergleiche mit anderen europäischen Inselerlebnissen.
 
@@ -65,7 +65,7 @@ Gleichzeitig hat Rhodos auf der Westküste manche der windigsten Strände der Ä
 
 Preislich liegt Rhodos zwischen Kreta und Santorini. Nicht so günstig wie Kreta, nicht so brutal wie Santorini im Hochsommer.
 
-Rhodos lohnt sich besonders wenn du: Geschichte und Strand kombinieren willst. Oder wenn du Wind- und Kitesurfen planst. Oder wenn du Ende September/Oktober reist, wenn Kreta und Santorini schon schließen.
+Rhodos lohnt sich besonders wenn du: Geschichte und Strand kombinieren willst. Oder wenn du Wind- und Kitesurfen planst. Oder wenn du Ende September/Oktober reist, wenn Kreta und Santorini schon schließen. Die besten Hotels auf Rhodos findest du in unserem [Rhodos Hotelguide](/blog/wo-uebernachten-rhodos).
 
 ---
 

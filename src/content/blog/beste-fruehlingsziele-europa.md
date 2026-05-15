@@ -64,6 +64,10 @@ Blütezeitpunkte variieren je nach Wetterjahr um 1–3 Wochen. [Visit-Holland-We
 
 **Nordalbanien (April–Mai):** Albaner Alpen mit frischem Schnee auf den Gipfeln, grüne Täler unten. Fast keine Touristen, außergewöhnliche Wanderrouten. Verbinde es mit dem [Balkan Roadtrip](/blog/balkan-roadtrip-route).
 
+**Lyon (April–Mai):** Frankreichs Gastronomie-Hauptstadt blüht im Frühling auf. Die Altstadt (UNESCO-Welterbe) und die Flussterrassen am Rhône-Ufer sind im April fast touristenfrei. Wo du am besten übernachtest, zeigt unser [Lyon Hotelguide](/blog/wo-uebernachten-lyon).
+
+**Ibiza (April–Mai):** Vor der Partysaison ist die Insel kaum wiederzuerkennen. Weiße Dörfer, leere Buchten, blühende Mandelbäume im Inselinneren. Wer die ruhige Seite von Ibiza erleben will, findet in unserem [Ibiza Hotelguide](/blog/wo-uebernachten-ibiza) die besten Lagen abseits der Clubs.
+
 ---
 
 Zercy findet Frühlings-Deals zu allen europäischen Zielen. Speichere die besten Optionen im [Zercy Logbook](https://www.zercy.app/logbook).

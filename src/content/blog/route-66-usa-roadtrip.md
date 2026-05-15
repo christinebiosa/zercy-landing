@@ -96,6 +96,8 @@ Ein wichtiger Hinweis zu versteckten Kosten: [Mietwagen-versteckte-Kosten](/blog
 
 ---
 
+Wer den Texas-Abschnitt verlängern und Austin als eigenen Stopp einplanen will: Die Stadt liegt knapp südlich der Route-66-Strecke und lässt sich gut als Abstecher kombinieren. Musik, BBQ, South Congress und ein lebendiges Ausgehviertel. Wo du dort am besten übernachtest, zeigt der [Austin Hotelguide](/blog/wo-uebernachten-austin).
+
 Sag Zercy, von wo du nach Chicago fliegen möchtest, wann du losfahren willst und wie viel Zeit du hast. Du bekommst Flugoptionen für Chicago plus einen Überblick über Mietwagen-Typen für den Roadtrip. Speichere die Planung im [Zercy Logbook](https://www.zercy.app/logbook), damit du alle Teile des Trips an einem Ort hast.
 
 ## Häufige Fragen

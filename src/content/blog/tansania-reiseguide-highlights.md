@@ -45,7 +45,7 @@ Luxury-Camps: 700 bis 1.500 Euro und mehr. Einige mobile Camps folgen der Migrat
 
 Kilimandscharo-Trekking (Machame Route, 7 Tage): inklusive Pflicht-Guide, Permits, Träger und Camp-Gebühren rund 1.500 bis 2.500 USD. Alles inklusive mit Ausrüstung und Unterkunft oft 2.500 bis 4.000 USD.
 
-Flüge von Europa nach Dar es Salaam oder Kilimanjaro International Airport: ab 550 bis 800 Euro.
+Flüge von Europa nach Dar es Salaam oder Kilimanjaro International Airport: ab 550 bis 800 Euro. Wer über Dar es Salaam ein- oder ausreist und eine Nacht braucht, findet die besten Hotels in unserem [Dar es Salaam Hotelguide](/blog/wo-uebernachten-dar-es-salaam).
 
 ## Wie kommt man nach Tansania ein?
 

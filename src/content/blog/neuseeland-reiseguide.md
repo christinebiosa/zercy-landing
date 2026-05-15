@@ -26,7 +26,7 @@ Klassischerweise landet man in Auckland (Nordinsel) und fliegt aus Queenstown od
 
 Nordinsel in Kürze: Auckland ist die größte Stadt. Rotorua zeigt dir aktive Geothermik und Maori-Kultur. Tongariro Alpine Crossing ist einer der besten Tageswanderungen der Welt. Hobbiton ist touristisch, aber für viele ein Must. Die Bay of Islands im Norden ist unvergleichlich schön.
 
-Südinsel in Kürze: Christchurch als Einstieg. Abel Tasman Nationalpark im Norden mit türkisem Wasser und goldenen Stränden. Dann südwärts: Kaikoura für Walbeobachtung, Franz Josef Gletscher, Queenstown als Abenteuerzentrum, und schließlich Milford Sound, der fotografisch beeindruckendste Fjord des Landes.
+Südinsel in Kürze: Christchurch als Einstieg. Abel Tasman Nationalpark im Norden mit türkisem Wasser und goldenen Stränden. Dann südwärts: Kaikoura für Walbeobachtung, Franz Josef Gletscher, Queenstown als Abenteuerzentrum, und schließlich Milford Sound, der fotografisch beeindruckendste Fjord des Landes. Wer eine Nacht in Christchurch oder Wellington einplant, findet die besten Hotels in unserem [Christchurch Hotelguide](/blog/wo-uebernachten-christchurch) und im [Wellington Hotelguide](/blog/wo-uebernachten-wellington).
 
 ## Mietwagen oder Campervan: Was ist besser?
 

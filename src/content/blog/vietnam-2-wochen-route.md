@@ -18,7 +18,7 @@ Die klassische Route geht von Nord nach Süd: von Hanoi bis Ho-Chi-Minh-Stadt. D
 
 **Halong Bay (2 Nächte):** Eine Bootskreuzfahrt durch die mehr als 1.600 Kalksteininseln ist eines der spektakulärsten Erlebnisse, das Vietnam zu bieten hat. Buche eine Zwei-Nacht-Kreuzfahrt auf einer mittelklassigen Junk. Die günstigsten Boote sind oft überfüllt. Die teuersten bieten kaum Mehrwert. Das Mittelsegment bei 80 bis 130 Euro pro Nacht trifft es gut.
 
-**Hoi An (3 Nächte):** Die schönste Stadt Vietnams. Die Altstadt ist UNESCO-Weltkulturerbe und besonders reizvoll am frühen Morgen, bevor die Tagestouristen aus Da Nang ankommen. Hoi An hat die beste Schneiderei-Szene Südostasiens: Massgeschneiderte Kleidung in 24 bis 48 Stunden. Budgetiere extra Gepäckraum ein.
+**Hoi An (3 Nächte):** Die schönste Stadt Vietnams. Die Altstadt ist UNESCO-Weltkulturerbe und besonders reizvoll am frühen Morgen, bevor die Tagestouristen aus Da Nang ankommen. Wer die Nacht in Da Nang verbringen möchte, findet im [Da Nang Hotelguide](/blog/wo-uebernachten-da-nang) die besten Stadtteile und Unterkünfte. Hoi An hat die beste Schneiderei-Szene Südostasiens: Massgeschneiderte Kleidung in 24 bis 48 Stunden. Budgetiere extra Gepäckraum ein.
 
 **Hue (1 Nacht):** Die ehemalige Kaiserstadt liegt auf halber Strecke und lohnt sich für die Kaiserliche Zitadelle und das Kaiserliche Mausoleum von Tu Duc. Hue gilt als die Foodie-Stadt Vietnams. Ein Abend reicht, wenn du in Hoi An drei Nächte verbracht hast.
 
@@ -44,7 +44,7 @@ Ein realistisches Tagesbudget für 14 Tage liegt bei 50 bis 90 Euro pro Person, 
 
 Das Visum gibt es für die meisten europäischen Staatsangehörigen online: E-Visa über das offizielle Portal des [Vietnam National Administration of Tourism](https://www.vietnamtourism.gov.vn). 90-Tage-Einzeleinreise kostet rund 25 US-Dollar.
 
-Weitere Infos zu deiner Unterkunftswahl findest du in unserem [Boutique Hotels Guide](/blog/boutique-hotels). Wer über eine Verlängerung der Reise in die Region nachdenkt, findet im [Costa Rica Rundreise-Guide](/blog/costa-rica-rundreise-route) einen guten Vergleich für ähnliche Langstrecken-Routenplanung. Und wenn du den Flug noch nicht gebucht hast, hilft dir unser Guide zum [günstigen Fliegen](/blog/guenstig-fliegen-tipps) beim Sparen.
+Wer die Route um einen Küstenstopp verlängern möchte, bietet sich Nha Trang an: unser [Nha Trang Hotelguide](/blog/wo-uebernachten-nha-trang) zeigt, in welchem Viertel du am besten schläfst. Weitere Infos zu deiner Unterkunftswahl findest du in unserem [Boutique Hotels Guide](/blog/boutique-hotels). Wer über eine Verlängerung der Reise in die Region nachdenkt, findet im [Costa Rica Rundreise-Guide](/blog/costa-rica-rundreise-route) einen guten Vergleich für ähnliche Langstrecken-Routenplanung. Und wenn du den Flug noch nicht gebucht hast, hilft dir unser Guide zum [günstigen Fliegen](/blog/guenstig-fliegen-tipps) beim Sparen.
 
 Speichere deine Auswahl im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen alles zur Hand hast.
 

@@ -101,7 +101,7 @@ Zercy hilft dir, die Winter-Destination zu finden die zu deinen Präferenzen pas
 
 ### Welche europäische Stadt hat den besten Weihnachtsmarkt?
 
-Für viele Reisende hat Wien die konsistenteste Qualität: mehrere Märkte, gesicherte Qualität des Handwerks, einzigartiges Ambiente vor historischen Gebäuden. Straßburg und Köln werden von anderen hoch gerankt. Wer Touristenströme meidet, findet in Tallinn oder Vilnius kleinere aber charmante Märkte.
+Für viele Reisende hat Wien die konsistenteste Qualität: mehrere Märkte, gesicherte Qualität des Handwerks, einzigartiges Ambiente vor historischen Gebäuden. Straßburg und Köln werden von anderen hoch gerankt. Wer Touristenströme meidet, findet in Tallinn oder Vilnius kleinere aber charmante Märkte. Für Straßburg lohnt sich ein Blick in unseren [Straßburg Hotelguide](/blog/wo-uebernachten-strassburg) mit den besten Vierteln für die Adventszeit. Lyon ist ebenfalls ein starkes Winter-Ziel: die Fête des Lumières im Dezember zieht Millionen Besucher an. Wo man dort am besten übernachtet, zeigt der [Lyon Hotelguide](/blog/wo-uebernachten-lyon).
 
 ### Wann sind Flüge und Hotels in Europa im Winter am günstigsten?
 

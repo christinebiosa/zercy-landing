@@ -19,7 +19,7 @@ Australien ist kein normales Reiseziel. Es ist ein Kontinent. Wer hierher fliegt
 
 **Great Ocean Road (Melbourne bis Adelaide, 5–7 Tage):** Eine der schönsten Küstenstraßen der Welt. Die Zwölf Apostel, der Otway-Nationalpark, Weingüter auf dem Weg. Kombiniert gut mit dem Barossa Valley.
 
-**Westaustralien (Perth, Margaret River, Kimberley, 10–21 Tage):** Weniger Touristen, wildere Landschaft. Ningaloo Reef (Walhaie!), Horizontal Falls, leere Strände. Aufwändiger zu erreichen, belohnt aber deutlich mehr als die Ostküste.
+**Westaustralien (Perth, Margaret River, Kimberley, 10–21 Tage):** Weniger Touristen, wildere Landschaft. Ningaloo Reef (Walhaie!), Horizontal Falls, leere Strände. Aufwändiger zu erreichen, belohnt aber deutlich mehr als die Ostküste. Wer wissen will, wo man in den einzelnen Städten am besten schläft: Die Guides zu den [besten Hotels in Perth](/blog/wo-uebernachten-perth), [besten Hotels in Cairns](/blog/wo-uebernachten-cairns) und [besten Hotels an der Gold Coast](/blog/wo-uebernachten-gold-coast) helfen bei der Auswahl.
 
 ## Wann ist die beste Reisezeit für Australien?
 

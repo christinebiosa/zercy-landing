@@ -17,7 +17,7 @@ Trotzdem fliegt Europa noch fast immer dran vorbei. Hier ist die ehrliche Anleit
 
 Die ehrliche Top-5-Liste, mit Zeit-Empfehlungen:
 
-**1. Bled (1-2 Tage):** der berühmte See mit Insel-Kirche und Burg auf der Klippe. Ja, touristisch. Aber so schön wie auf den Fotos. Bohinj-See in 30 Min Auto entfernt ist der ruhigere, schönere Bruder von Bled.
+**1. Bled (1-2 Tage):** der berühmte See mit Insel-Kirche und Burg auf der Klippe. Ja, touristisch. Aber so schön wie auf den Fotos. Bohinj-See in 30 Min Auto entfernt ist der ruhigere, schönere Bruder von Bled. Wo du in Bled am besten übernachtest und welche Hotels See-Blick bieten, erklärt unser [Bled Hotelguide](/blog/wo-uebernachten-bled).
 
 **2. Triglav-Nationalpark (2-3 Tage):** Sloweniens einziger Nationalpark, 880 km² Julische Alpen. Vintgar-Klamm (1h Wanderung durch Schlucht), Soča-Tal (türkisestes Fluss-Wasser Europas, perfekt für Rafting), Mount Triglav-Besteigung (2-3 Tage für Fitte).
 

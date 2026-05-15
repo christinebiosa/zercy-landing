@@ -19,7 +19,7 @@ Antigua Guatemala ist eine der am besten erhaltenen Kolonialstädte Lateinamerik
 
 Im Hintergrund ragt der Acatenango-Vulkan (3.976 Meter). Das Trekken auf den Acatenango ist eine der am meisten diskutierten Aktivitäten in Antigua. Nicht wegen seiner Schönheit, sondern wegen des Nachbarns: Fuego, einer der aktivsten Vulkane der Welt, liegt direkt neben dem Gipfel. Wer auf dem Acatenango übernachtet, sieht Fuego in der Nacht Asche und Glut speien. Spectakulär und surreal. Touren mit zertifizierten Guides buchen.
 
-Antigua ist auch einer der besten Orte Lateinamerikas für Spanisch-Sprachkurse. Viele Budget-Reisende bleiben zwei bis vier Wochen, machen morgens Sprachkurs und nachmittags Ausflüge.
+Antigua ist auch einer der besten Orte Lateinamerikas für Spanisch-Sprachkurse. Viele Budget-Reisende bleiben zwei bis vier Wochen, machen morgens Sprachkurs und nachmittags Ausflüge. Welche Unterkünfte und Viertel in Antigua am besten passen, zeigt der [Antigua Hotelguide](/blog/wo-uebernachten-antigua).
 
 Das [INGUAT, das guatemaltekische Tourismusinstitut](https://www.inguat.gob.gt/), bietet aktuelle Informationen zu allen Sehenswürdigkeiten und zugelassenen Führern.
 

@@ -23,11 +23,11 @@ Die Schweiz hat fünf Kategorien von Attraktionen. Einige sind weltberühmt und 
 
 **Matterhorn aus Zermatt:** Du musst es nicht besteigen. Du musst es sehen. Zermatt selbst ist autofrei, die Anfahrt per Zahnradbahn von Täsch. Das Matterhorn aus Richtung Riffelalp am frühen Morgen, wenn kein Dunst liegt und keine anderen Reisenden das Bild füllen, ist einer der stärksten Momente die die Schweiz zu bieten hat.
 
-**Luzern in unter 3 Stunden:** Kapellbrücke (14. Jahrhundert), Wasserturm, Löwendenkmal. Alles walkable vom Bahnhof. Luzern ist der beste Beweis für das Prinzip: Wenig Zeit, hohe Dichte an Eindrücken. Perfekter Tagesausflug von Zürich (50 Minuten Zug).
+**Luzern in unter 3 Stunden:** Kapellbrücke (14. Jahrhundert), Wasserturm, Löwendenkmal. Alles walkable vom Bahnhof. Luzern ist der beste Beweis für das Prinzip: Wenig Zeit, hohe Dichte an Eindrücken. Perfekter Tagesausflug von Zürich (50 Minuten Zug). Wer mindestens eine Nacht bleibt, findet die besten Stadtteile und Hotelempfehlungen in unserem [Luzern Hotelguide](/blog/wo-uebernachten-luzern).
 
 **Kategorie 2: Sehr gut, wenn Zeit übrig ist**
 
-**Interlaken:** Schöne Lage zwischen zwei Seen, guter Ausgangspunkt, selbst als Stadt nicht besonders. Der Wert liegt in den Ausflügen von hier: Jungfraujoch, Grindelwald, Mürren.
+**Interlaken:** Schöne Lage zwischen zwei Seen, guter Ausgangspunkt, selbst als Stadt nicht besonders. Der Wert liegt in den Ausflügen von hier: Jungfraujoch, Grindelwald, Mürren. Wer die Umgebung als Basis nutzen will, findet passende Unterkünfte in unserem [Interlaken Hotelguide](/blog/wo-uebernachten-interlaken).
 
 **Genf:** Älteste private Uhren-Ateliers, UN-Hauptquartier, Lac Léman. Eher ein urbanes als ein Natur-Erlebnis. Für Erstbesucher wichtiger als für Wiederholer.
 

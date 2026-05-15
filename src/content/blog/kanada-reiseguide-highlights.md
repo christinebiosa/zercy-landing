@@ -23,7 +23,7 @@ Die Antwort hängt davon ab, was du suchst. Kanada ist so groß, dass die Region
 
 **Toronto (Ontario):** Der CN Tower, der Kensington Market mit internationalen Küchen, das Distillery District. Und: Niagara Falls, nur 1,5 Stunden entfernt. Die Fälle sind imposanter von der kanadischen Seite. Toronto ist urbaner Kontrast zum Wildnis-Kanada.
 
-**Québec City:** Das französischsprachige Herz Kanadas. Vieux-Québec ist UNESCO-Weltkulturerbe, die einzige befestigte Stadt nördlich von Mexiko in Nordamerika. Im Winter findet hier das Carnaval de Québec statt, das berühmteste Winterfest der Welt (Februar). Im Sommer: Straßenmusiker, Terrassen-Cafés, flämisches Flair in Nordamerika.
+**Québec City:** Das französischsprachige Herz Kanadas. Vieux-Québec ist UNESCO-Weltkulturerbe, die einzige befestigte Stadt nördlich von Mexiko in Nordamerika. Im Winter findet hier das Carnaval de Québec statt, das berühmteste Winterfest der Welt (Februar). Im Sommer: Straßenmusiker, Terrassen-Cafés, flämisches Flair in Nordamerika. Die besten Viertel zum Übernachten findest du im [Québec City Hotelguide](/blog/wo-uebernachten-quebec-city).
 
 **Prince Edward Island:** Klein, entspannt, literarisch. Hier wurde Anne of Green Gables geschrieben. Rote Sandsteinküsten, Hummerfischerei, Leuchtturm-Romantik. Nichts für Städtereisende, alles für Natur- und Entschleunigungssucher.
 

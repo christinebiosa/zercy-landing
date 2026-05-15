@@ -19,7 +19,7 @@ Die Pyramiden von Gizeh stehen seit 4.500 Jahren. Sie haben Pharaonen, Römer, N
 
 Der **Khan el-Khalili Basar** in der islamischen Altstadt Kairos ist Chaos und Faszination in einem. Kein Ort für Shoppingfans ohne Nerven. Aber für das Erlebnis, durch enge Gassen zu laufen, in denen seit dem 14. Jahrhundert gehandelt wird, ist es unersetzlich.
 
-**Luxor** ist die Freilichtstadt der Pharaonen. Der Karnak-Tempel, das größte religiöse Bauwerk der Antike, ist allein eine Reise wert. Das Valley of the Kings auf dem Westufer enthält die Grabkammern von über 60 Pharaonen, darunter Tutanchamun (heute weitgehend leer, aber historisch). Der Eintritt für alle Gräber außer Nofretari ist im Kombiticket.
+**Luxor** ist die Freilichtstadt der Pharaonen. Der Karnak-Tempel, das größte religiöse Bauwerk der Antike, ist allein eine Reise wert. Das Valley of the Kings auf dem Westufer enthält die Grabkammern von über 60 Pharaonen, darunter Tutanchamun (heute weitgehend leer, aber historisch). Der Eintritt für alle Gräber außer Nofretari ist im Kombiticket. Die besten Hotels für deinen Aufenthalt findest du in unserem [Luxor Hotelguide](/blog/wo-uebernachten-luxor).
 
 **Assuan** liegt weiter südlich am Nil und ist ruhiger, entspannter als Kairo. Der Besuch bei den Nubischen Dörfern, eine Bootsfahrt zur Insel Philae und die Tagesausflug nach **Abu Simbel** (die kolossalen Felsentempel Ramses II.) sind unvergesslich. Abu Simbel liegt noch mal 3 Stunden weiter südlich und ist vom Assuan-Flughafen aus in 50 Minuten erreichbar.
 

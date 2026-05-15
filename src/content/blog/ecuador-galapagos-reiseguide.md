@@ -21,7 +21,7 @@ Die Mitad del Mundo, das Äquator-Monument nördlich der Stadt, ist ein beliebte
 
 Telefónico de Quito, die Seilbahn auf den Pichincha-Vulkan (4.050 Meter), bietet Blick auf die komplette Andenkulisse. Kleidung für Kälte mitbringen.
 
-Die Altstadt von Quito lohnt einen vollen Tag. Frühes Aufstehen, bevor die Busse kommen. Die Plaza Grande, der Palacio del Gobierno, die Kirchen El Sagrario und San Francisco. Das [Quito Turismo Stadtamt](https://www.quito.com.ec/) hat aktuelle Führungen und Öffnungszeiten.
+Die Altstadt von Quito lohnt einen vollen Tag. Frühes Aufstehen, bevor die Busse kommen. Die Plaza Grande, der Palacio del Gobierno, die Kirchen El Sagrario und San Francisco. Das [Quito Turismo Stadtamt](https://www.quito.com.ec/) hat aktuelle Führungen und Öffnungszeiten. Wer in Quito übernachten will, findet die besten Viertel und Hotels im [Quito Hotelguide](/blog/wo-uebernachten-quito).
 
 ## Was kannst du auf den Galápagos-Inseln erleben?
 

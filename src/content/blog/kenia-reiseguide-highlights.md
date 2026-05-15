@@ -21,7 +21,7 @@ Dieser Guide zeigt dir die Highlights, die wirklich zählen. Kein Marketing, kei
 
 **Nairobi** wird oft nur als Durchgangsstation behandelt. Das ist ein Fehler. Das David Sheldrick Wildlife Trust [Elefantenwaisen-Projekt](https://www.sheldrickwildlifetrust.org) ist beeindruckend, tiefgehend und kostet nur 40 USD. Morgens werden die kleinen Elefanten mit der Flasche gefüttert. Die Karen Blixen Farm (Schauplatz von Jenseits von Afrika) liegt am Stadtrand von Karen und kostet wenige Dollar Eintritt. Und das Giraffe Centre lässt dich Giraffen aus der Hand füttern.
 
-**Diani Beach** liegt an der Südküste, rund 30 Kilometer von Mombasa entfernt. Weißer Sand, warmes Wasser, Korallenschildkröten. Schnorcheln und Tauchen sind hier besonders gut. Ein Abstecher zur Küste rundet viele Safari-Trips perfekt ab.
+**Diani Beach** liegt an der Südküste, rund 30 Kilometer von Mombasa entfernt. Weißer Sand, warmes Wasser, Korallenschildkröten. Schnorcheln und Tauchen sind hier besonders gut. Ein Abstecher zur Küste rundet viele Safari-Trips perfekt ab. Wer in Mombasa übernachten will, findet die besten Optionen in unserem [Mombasa Hotelguide](/blog/wo-uebernachten-mombasa).
 
 ## Wann ist die beste Reisezeit für Kenia?
 

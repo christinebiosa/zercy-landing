@@ -55,6 +55,8 @@ Wandern von Chefchaouen in den Rif (Cascades d'Akchour, 1 bis 2 Stunden zu Fuß)
 
 **Volubilis**: 30 Kilometer von Meknes, Tagesausflug. Die am besten erhaltenen römischen Ruinen Marokkos, mit Mosaiken, Triumphbogen und Straßen aus der Kaiserzeit. UNESCO-Welterbe.
 
+Wer den Städtetrip mit Atlantikluft und Meeresfrüchten abrunden will: Agadir und Essaouira liegen gut erreichbar an der Küste. Die besten Hotels findest du in unserem [Agadir Hotelguide](/blog/wo-uebernachten-agadir) und im [Essaouira Hotelguide](/blog/wo-uebernachten-essaouira).
+
 Plane deinen Marokko-Städtetrip mit dem [Zercy Logbook](https://www.zercy.app/logbook). Fes, Chefchaouen, Meknes und Casablanca lassen sich gut als Rundroute mit Zugverbindungen kombinieren.
 
 ---

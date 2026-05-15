@@ -68,11 +68,11 @@ Chiang Mai ist auch Ausgangspunkt für Ausflüge nach Pai (3h nordwestlich, Berg
 
 Der südliche Teil Thailands hat Dutzende Inseln. Drei dominierende Optionen für 2-Wochen-Reisende:
 
-**Koh Samui:** Beste Infrastruktur, Direktflüge aus Bangkok, breite Hotelauswahl. Richtig für Paare und alle die Komfort wollen ohne Backpacker-Chaos.
+**Koh Samui:** Beste Infrastruktur, Direktflüge aus Bangkok, breite Hotelauswahl. Richtig für Paare und alle die Komfort wollen ohne Backpacker-Chaos. Die besten Viertel und Unterkünfte auf der Insel findest du im [Koh Samui Hotelguide](/blog/wo-uebernachten-koh-samui).
 
 **Koh Phangan:** Partystrand an Full Moon, aber auch ruhige Nordküste. Richtig für unter-30-Reisende, die Party und Strand mischen wollen.
 
-**Koh Lanta:** Ruhiger, familienfreundlicher, noch nicht überlaufen. Richtig für Entspannung, Yoga, Schnorcheln. Keine Fluganbindung: Fähre von Krabi.
+**Koh Lanta:** Ruhiger, familienfreundlicher, noch nicht überlaufen. Richtig für Entspannung, Yoga, Schnorcheln. Keine Fluganbindung: Fähre von Krabi. Wer einen Zwischenstopp in Krabi plant, hilft der [Krabi Hotelguide](/blog/wo-uebernachten-krabi) bei der Unterkunftswahl.
 
 Flug Bangkok-Koh Samui: ca. 60-120 Euro mit Bangkok Airways. Alternative: Nachtbus/Fähre für 30-40 Euro (12 Stunden, aber du sparst eine Hotelübernachtung).
 
