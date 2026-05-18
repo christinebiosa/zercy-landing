@@ -1449,7 +1449,7 @@ export const topicToQuery = {
 
   // Topic-specific
   'tokyo-food': 'tokyo ramen sushi food',
-  'ferrari-museum': 'ferrari sports car red',
+  'ferrari-museum': 'ferrari museum maranello red car',
   'puglia': 'puglia trulli alberobello',
   'albania-coast': 'albania ksamil beach',
   'faroe-islands': 'faroe islands cliffs',
