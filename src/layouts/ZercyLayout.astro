@@ -2214,7 +2214,7 @@ function extraComponentsHtml(d, skipHotel = false) {
     const expediaSearchUrl = zercyUrls.expediaHotels(searchDest, ci, co1);
     const hpId1 = 'hp-' + Math.random().toString(36).slice(2, 8);
     const sectionTitle = hotelName ? `🏨 ${hotelName}` : `🏨 Hotels in ${d.hotel.destination}`;
-    const officialBtn = hotelName ? `<a class="hotel-btn" style="background:#111827;color:#fff;" href="https://www.google.com/search?q=${encodeURIComponent(hotelName + ' official website')}" target="_blank" rel="noopener">🌐 Official Site</a>` : '';
+    const officialBtn = hotelName ? `<a class="hotel-btn" style="background:#111827;color:#fff;" href="https://www.google.com/search?q=${encodeURIComponent(hotelName + ' official website')}" target="_blank" rel="noopener">ℹ️ About this hotel</a>` : '';
     html += `<div class="ap-section purple" style="margin-top:0.8rem;">
       <div class="ap-section-header">${sectionTitle} <span class="hotel-price-from"></span></div>
       <div class="ap-section-body" data-hotel-prices="${hpId1}" data-hotel-dest="${d.hotel.destination.replace(/"/g,'&quot;')}" data-hotel-ci="${ci}" data-hotel-co="${co1}">
@@ -2346,7 +2346,7 @@ function hotelOnlyHtml(d) {
   const googleHotelUrl = zercyUrls.googleHotels(searchDest, ci, co);
   const bookingUrl = zercyUrls.bookingHotels(searchDest, ci, co);
   const expediaUrl = zercyUrls.expediaHotels(searchDest, ci, co);
-  const officialBtnHotelOnly = hotelName ? `<a class="hotel-btn" style="background:#111827;color:#fff;" href="https://www.google.com/search?q=${encodeURIComponent(hotelName + ' official website')}" target="_blank" rel="noopener">🌐 Official Site</a>` : '';
+  const officialBtnHotelOnly = hotelName ? `<a class="hotel-btn" style="background:#111827;color:#fff;" href="https://www.google.com/search?q=${encodeURIComponent(hotelName + ' official website')}" target="_blank" rel="noopener">ℹ️ About this hotel</a>` : '';
   const insightHtml = d.zercy_insight
     ? `<div style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:0.75rem 1rem;margin-top:1rem;font-size:0.85rem;color:#166534;">💡 ${d.zercy_insight}</div>`
     : '';
@@ -2770,7 +2770,7 @@ function buildResultsHtml(d, id) {
           const bookingSearchUrl = zercyUrls.bookingHotels(searchDest, hotelCheckin, hotelCheckout);
           const expediaSearchUrl = zercyUrls.expediaHotels(searchDest, hotelCheckin, hotelCheckout);
           const sectionTitle = hotelName ? `🏨 ${hotelName}` : `🏨 Hotels in ${cleanDest}`;
-          const officialBtn = hotelName ? `<a class="hotel-btn" style="background:#111827;color:#fff;" href="https://www.google.com/search?q=${encodeURIComponent(hotelName + ' official website')}" target="_blank" rel="noopener">🌐 Official Site</a>` : '';
+          const officialBtn = hotelName ? `<a class="hotel-btn" style="background:#111827;color:#fff;" href="https://www.google.com/search?q=${encodeURIComponent(hotelName + ' official website')}" target="_blank" rel="noopener">ℹ️ About this hotel</a>` : '';
           return `<div class="ap-section purple">
             <div class="ap-section-header">${sectionTitle} <span class="hotel-price-from"></span></div>
             <div class="ap-section-body" data-hotel-prices="hp-${Math.random().toString(36).slice(2,8)}" data-hotel-dest="${cleanDest.replace(/"/g,'&quot;')}" data-hotel-ci="${hotelCheckin || ''}" data-hotel-co="${hotelCheckout || ''}">
