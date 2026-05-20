@@ -1694,7 +1694,7 @@ function showInlineLoading() {
     </div>
   `;
   document.getElementById('conversation').appendChild(el);
-  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   return el;
 }
 
@@ -1780,11 +1780,8 @@ async function thinkIntent() {
   document.getElementById('loading').style.display = 'block';
   startLoadingSequence('think', 'loading-steps');
   document.getElementById('conversation').innerHTML = '';
-  // Direkt zum Loading-Window scrollen, damit User sofort den Progress sieht
-  setTimeout(() => {
-    const loadingEl = document.getElementById('loading');
-    if (loadingEl) scrollToTop(loadingEl);
-  }, 50);
+  // Zum Seitenanfang scrollen — compact-Hero + Loading sind dort sichtbar
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 
   // Ground-only: skip think.js entirely to avoid flight-context contamination
   if (isGroundOnly(intent)) {
