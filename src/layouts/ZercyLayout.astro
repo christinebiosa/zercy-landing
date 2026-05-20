@@ -2812,15 +2812,19 @@ function buildResultsHtml(d, id) {
     const dep = q.departure_date || (q.dates.match(/(\d{4}-\d{2}-\d{2})/g) || [])[0] || '';
     const ret = q.return_date || (q.dates.match(/(\d{4}-\d{2}-\d{2})/g) || [])[1] || '';
     const expediaUrl = zercyUrls.expediaFlights(orig, dest, dep, ret, q.cabin);
+    const gflUrl = zercyUrls.googleFlights(orig, dest, dep, ret, q.cabin);
     return `
-    <a class="query-item query-link" href="${expediaUrl}" target="_blank" rel="noopener">
+    <div class="query-item">
       <div class="query-num">${i+1}</div>
-      <div>
+      <div style="flex:1;min-width:0">
         <div class="query-route">${codeName(orig)} → ${codeName(dest)}</div>
         <div class="query-meta">${q.cabin} · ${q.dates} · ${q.type}</div>
       </div>
-      <div class="query-search">${t(zercyLang, 'searchArrow')}</div>
-    </a>`;
+      <div style="display:flex;gap:0.35rem;flex-shrink:0">
+        <a class="query-gfl" href="${gflUrl}" target="_blank" rel="noopener">✈ Google</a>
+        <a class="query-exp" href="${expediaUrl}" target="_blank" rel="noopener">Expedia</a>
+      </div>
+    </div>`;
   }).join('');
 
   // Trip Summary Bar
@@ -3167,8 +3171,11 @@ style.textContent = `
   .query-item { display: flex; align-items: center; gap: 0.8rem; padding: 0.75rem; background: #fafbff; border: 1.5px solid #e8ecf8; border-radius: 12px; margin-bottom: 0.5rem; font-size: 0.83rem; transition: border-color 0.2s; }
   .query-item:last-child { margin-bottom: 0; }
   .query-item:hover { border-color: #6366f1; }
-  .query-link { text-decoration: none; color: inherit; cursor: pointer; }
-  .query-search { margin-left: auto; color: #6366f1; font-weight: 600; font-size: 0.85rem; white-space: nowrap; }
+  .query-gfl, .query-exp { font-size: 0.72rem; font-weight: 600; padding: 0.25rem 0.6rem; border-radius: 8px; text-decoration: none; white-space: nowrap; transition: all 0.15s; }
+  .query-gfl { background: #e8f0fe; color: #1a73e8; }
+  .query-exp { background: #fff8e6; color: #92600a; }
+  .query-gfl:hover { background: #1a73e8; color: white; }
+  .query-exp:hover { background: #f5a623; color: white; }
   .query-num { background: linear-gradient(135deg, #0ea5e9, #6366f1); color: white; font-size: 0.65rem; font-weight: 700; width: 20px; height: 20px; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
   .query-route { font-weight: 700; color: #4f46e5; }
   .query-meta { color: #94a3b8; font-size: 0.78rem; margin-top: 0.1rem; }
