@@ -1170,13 +1170,12 @@ let pendingCarDates = null;
 // ============================================================
 const zercyUrls = {
   _fmtExpediaFlightDate(s) { return s ? s.replace(/(\d{4})-(\d{2})-(\d{2})/, '$2/$3/$1') : ''; },
-  _expediaCabin(cabin) { return ({economy:'coach', business:'business', first:'first'})[(cabin||'').toLowerCase()] || 'coach'; },
+  _expediaCabin(cabin) { const c = (cabin||'').toLowerCase(); return c.includes('first') ? 'first' : c.includes('business') ? 'business' : 'coach'; },
 
   googleFlights(origin, dest, outDate, retDate, cabin) {
     if (!origin || !dest) return 'https://www.google.com/travel/flights';
-    const cabinStr = cabin && cabin.toLowerCase() !== 'economy'
-      ? cabin.toLowerCase().replace('business', 'business class').replace('first', 'first class') + ' '
-      : '';
+    const _c = (cabin||'').toLowerCase();
+    const cabinStr = _c.includes('first') ? 'first class ' : _c.includes('business') ? 'business class ' : '';
     const q = retDate && outDate
       ? `${cabinStr}flights from ${origin} to ${dest} on ${outDate} returning ${retDate}`
       : outDate
