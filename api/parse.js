@@ -149,7 +149,8 @@ module.exports = async function handler(req, res) {
     const hasPhase1Context = !hasGroundOnlyKeyword && !!(planContext?.understood?.origin || planContext?.understood?.destination_area);
     const parseModel = hasPhase1Context ? 'claude-haiku-4-5-20251001' : 'claude-sonnet-4-6';
     // Sonnet needs more headroom for comprehensive airport lists + insights + chips. Haiku output is shorter.
-    const parseMaxTokens = parseModel === 'claude-sonnet-4-6' ? 4000 : 2500;
+    // Bumped from 4000/2500 — complex queries (first class + hotel + 2 airports with ground transport) need the headroom.
+    const parseMaxTokens = parseModel === 'claude-sonnet-4-6' ? 5000 : 3500;
 
     // Step 1: Parse intent with Claude
     const message = await withRetry(() => client.messages.create({
