@@ -2943,9 +2943,10 @@ function showChatWidget(destination, checkin, checkout, tripData, insights) {
     const insightsList = document.getElementById('float-insights-list');
     const insightsSec = document.getElementById('float-insights-section');
     if (insightsList) {
-      insightsList.innerHTML = allInsights.slice(0, 3).map(i =>
-        `<div class="float-insight-item"><span class="float-insight-bullet">💡</span><span>${i}</span></div>`
-      ).join('');
+      insightsList.innerHTML = allInsights.slice(0, 3).map(i => {
+        const s = i.length > 80 ? i.slice(0, 77) + '…' : i;
+        return `<div class="float-insight-item"><span class="float-insight-bullet">💡</span><span>${s}</span></div>`;
+      }).join('');
     }
     if (insightsSec) insightsSec.style.display = 'block';
   }
@@ -2995,7 +2996,11 @@ function addChatMessage(text, role) {
   if (role === 'user' || role.includes('typing')) {
     el.scrollTop = el.scrollHeight;
   } else {
-    requestAnimationFrame(() => { el.scrollTop = msg.offsetTop - 12; });
+    requestAnimationFrame(() => {
+      const cRect = el.getBoundingClientRect();
+      const mRect = msg.getBoundingClientRect();
+      el.scrollTop = el.scrollTop + (mRect.top - cRect.top) - 12;
+    });
   }
   return msg;
 }
