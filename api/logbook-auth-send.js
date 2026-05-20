@@ -75,10 +75,15 @@ module.exports = async function handler(req, res) {
 
   // Store new token
   const expires = new Date(Date.now() + 60 * 60 * 1000).toISOString(); // 1 hour
-  await sb('/logbook_magic_links', {
-    method: 'POST',
-    body: { email: normalizedEmail, token, expires_at: expires }
-  });
+  try {
+    await sb('/logbook_magic_links', {
+      method: 'POST',
+      body: { email: normalizedEmail, token, expires_at: expires }
+    });
+  } catch (err) {
+    console.error('Supabase token store failed:', err.message);
+    return res.status(500).json({ error: 'Could not reach database. Please try again later.' });
+  }
 
   // Send magic link email via Resend
   try {

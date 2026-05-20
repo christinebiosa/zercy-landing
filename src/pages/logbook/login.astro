@@ -193,7 +193,8 @@
           body: JSON.stringify({ email }),
           credentials: 'include'
         });
-        const data = await res.json();
+        const ct = res.headers.get('content-type') || '';
+        const data = ct.includes('json') ? await res.json() : { error: t.genericError };
 
         if (res.ok && data.success) {
           msg.className = 'msg success';
