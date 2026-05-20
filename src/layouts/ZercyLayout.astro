@@ -1861,7 +1861,7 @@ async function parseIntent(refinedIntent) {
     if (conversation) {
       const errEl = document.createElement('div');
       errEl.className = 'zercy-error-bubble';
-      errEl.innerHTML = `<span>${t(zercyLang, 'searchError')} <small style="opacity:0.6">(${err.message})</small></span>`;
+      errEl.innerHTML = `<span>${err.message || t(zercyLang, 'searchError')}</span>`;
       conversation.appendChild(errEl);
     }
   } finally {
@@ -2502,7 +2502,7 @@ async function generateIdeas(turnId, destination, checkin, checkout) {
   } catch (err) {
     btn.disabled = false;
     btn.textContent = originalBtnText;
-    alert((zercyLang === 'de' ? 'Ideen konnten nicht generiert werden: ' : 'Could not generate ideas: ') + err.message);
+    alert(zercyLang === 'de' ? 'Ideen konnten nicht generiert werden. Bitte versuche es erneut.' : 'Could not generate ideas. Please try again.');
   }
 }
 
