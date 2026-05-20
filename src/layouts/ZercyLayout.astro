@@ -2204,13 +2204,18 @@ function extraComponentsHtml(d, skipHotel = false) {
   if (d.hotel?.destination && !skipHotel) {
     const ci = d.hotel.checkin || '';
     const co1 = d.hotel.checkout || '';
-    const googleHotelUrl = zercyUrls.googleHotels(d.hotel.destination, ci, co1);
-    const bookingSearchUrl = zercyUrls.bookingHotels(d.hotel.destination, ci, co1);
-    const expediaSearchUrl = zercyUrls.expediaHotels(d.hotel.destination, ci, co1);
+    const hotelName = d.hotel.name || null;
+    const searchDest = hotelName || d.hotel.destination;
+    const googleHotelUrl = zercyUrls.googleHotels(searchDest, ci, co1);
+    const bookingSearchUrl = zercyUrls.bookingHotels(searchDest, ci, co1);
+    const expediaSearchUrl = zercyUrls.expediaHotels(searchDest, ci, co1);
     const hpId1 = 'hp-' + Math.random().toString(36).slice(2, 8);
+    const sectionTitle = hotelName ? `🏨 ${hotelName}` : `🏨 Hotels in ${d.hotel.destination}`;
+    const officialBtn = hotelName ? `<a class="hotel-btn" style="background:#111827;color:#fff;" href="https://www.google.com/search?q=${encodeURIComponent(hotelName + ' official website')}" target="_blank" rel="noopener">🌐 Official Site</a>` : '';
     html += `<div class="ap-section purple" style="margin-top:0.8rem;">
-      <div class="ap-section-header">🏨 Hotels in ${d.hotel.destination} <span class="hotel-price-from"></span></div>
+      <div class="ap-section-header">${sectionTitle} <span class="hotel-price-from"></span></div>
       <div class="ap-section-body" data-hotel-prices="${hpId1}" data-hotel-dest="${d.hotel.destination.replace(/"/g,'&quot;')}" data-hotel-ci="${ci}" data-hotel-co="${co1}">
+        ${officialBtn}
         <a class="hotel-btn google-btn" data-hotel-src="google" href="${googleHotelUrl}" target="_blank" rel="noopener">Google Hotels</a>
         <a class="hotel-btn booking-btn" data-hotel-src="booking" href="${bookingSearchUrl}" target="_blank" rel="noopener">Booking.com</a>
         <a class="hotel-btn expedia-btn" data-hotel-src="expedia" href="${expediaSearchUrl}" target="_blank" rel="noopener">Expedia</a>
@@ -2333,9 +2338,12 @@ function hotelOnlyHtml(d) {
   const dest = d.hotel?.destination || '';
   const ci = d.hotel?.checkin || '';
   const co = d.hotel?.checkout || '';
-  const googleHotelUrl = zercyUrls.googleHotels(dest, ci, co);
-  const bookingUrl = zercyUrls.bookingHotels(dest, ci, co);
-  const expediaUrl = zercyUrls.expediaHotels(dest, ci, co);
+  const hotelName = d.hotel?.name || null;
+  const searchDest = hotelName || dest;
+  const googleHotelUrl = zercyUrls.googleHotels(searchDest, ci, co);
+  const bookingUrl = zercyUrls.bookingHotels(searchDest, ci, co);
+  const expediaUrl = zercyUrls.expediaHotels(searchDest, ci, co);
+  const officialBtnHotelOnly = hotelName ? `<a class="hotel-btn" style="background:#111827;color:#fff;" href="https://www.google.com/search?q=${encodeURIComponent(hotelName + ' official website')}" target="_blank" rel="noopener">🌐 Official Site</a>` : '';
   const insightHtml = d.zercy_insight
     ? `<div style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:0.75rem 1rem;margin-top:1rem;font-size:0.85rem;color:#166534;">💡 ${d.zercy_insight}</div>`
     : '';
@@ -2352,9 +2360,10 @@ function hotelOnlyHtml(d) {
   <div class="card" style="margin-top:1rem;">
     <div class="card-header">
       <div class="card-icon">🏨</div>
-      <div class="card-title">${lang === 'de' ? `Hotels in ${dest}` : `Hotels in ${dest}`} <span class="hotel-price-from"></span></div>
+      <div class="card-title">${hotelName || (lang === 'de' ? `Hotels in ${dest}` : `Hotels in ${dest}`)} <span class="hotel-price-from"></span></div>
     </div>
     <div class="ap-section-body" data-hotel-prices="hp-${Math.random().toString(36).slice(2,8)}" data-hotel-dest="${dest.replace(/"/g,'&quot;')}" data-hotel-ci="${ci}" data-hotel-co="${co}" style="display:flex;gap:0.5rem;flex-wrap:wrap;padding:0.8rem 0 0.2rem;">
+      ${officialBtnHotelOnly}
       <a class="hotel-btn google-btn" data-hotel-src="google" href="${googleHotelUrl}" target="_blank" rel="noopener">Google Hotels</a>
       <a class="hotel-btn booking-btn" data-hotel-src="booking" href="${bookingUrl}" target="_blank" rel="noopener">Booking.com</a>
       <a class="hotel-btn expedia-btn" data-hotel-src="expedia" href="${expediaUrl}" target="_blank" rel="noopener">Expedia</a>
@@ -2751,14 +2760,18 @@ function buildResultsHtml(d, id) {
         })()}
         ${groundHtml}
         ${!isReturn ? (() => {
-          // d.hotel.destination ist der saubere Städtename den Claude extrahiert hat (z.B. "Paris", nicht "Paris near the Ritz")
           const cleanDest = d.hotel?.destination || a.city;
-          const googleHotelUrl = zercyUrls.googleHotels(cleanDest, hotelCheckin, hotelCheckout);
-          const bookingSearchUrl = zercyUrls.bookingHotels(cleanDest, hotelCheckin, hotelCheckout);
-          const expediaSearchUrl = zercyUrls.expediaHotels(cleanDest, hotelCheckin, hotelCheckout);
+          const hotelName = d.hotel?.name || null;
+          const searchDest = hotelName || cleanDest;
+          const googleHotelUrl = zercyUrls.googleHotels(searchDest, hotelCheckin, hotelCheckout);
+          const bookingSearchUrl = zercyUrls.bookingHotels(searchDest, hotelCheckin, hotelCheckout);
+          const expediaSearchUrl = zercyUrls.expediaHotels(searchDest, hotelCheckin, hotelCheckout);
+          const sectionTitle = hotelName ? `🏨 ${hotelName}` : `🏨 Hotels in ${cleanDest}`;
+          const officialBtn = hotelName ? `<a class="hotel-btn" style="background:#111827;color:#fff;" href="https://www.google.com/search?q=${encodeURIComponent(hotelName + ' official website')}" target="_blank" rel="noopener">🌐 Official Site</a>` : '';
           return `<div class="ap-section purple">
-            <div class="ap-section-header">🏨 Hotels in ${cleanDest} <span class="hotel-price-from"></span></div>
+            <div class="ap-section-header">${sectionTitle} <span class="hotel-price-from"></span></div>
             <div class="ap-section-body" data-hotel-prices="hp-${Math.random().toString(36).slice(2,8)}" data-hotel-dest="${cleanDest.replace(/"/g,'&quot;')}" data-hotel-ci="${hotelCheckin || ''}" data-hotel-co="${hotelCheckout || ''}">
+              ${officialBtn}
               <a class="hotel-btn google-btn" data-hotel-src="google" href="${googleHotelUrl}" target="_blank" rel="noopener">Google Hotels</a>
               <a class="hotel-btn booking-btn" data-hotel-src="booking" href="${bookingSearchUrl}" target="_blank" rel="noopener">Booking.com</a>
               <a class="hotel-btn expedia-btn" data-hotel-src="expedia" href="${expediaSearchUrl}" target="_blank" rel="noopener">Expedia</a>
