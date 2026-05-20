@@ -1057,7 +1057,7 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
   .zercy-float-btn #floatBtnLabel { white-space: normal; line-height: 1.35; }
   .zercy-float-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 28px rgba(13,148,136,0.55); }
   .zercy-float-icon { font-size: 1rem; }
-  .zercy-float-panel { position: fixed; bottom: 8rem; right: 2rem; width: 370px; max-height: 520px; z-index: 999; background: white; border-radius: 20px; box-shadow: 0 8px 48px rgba(13,148,136,0.2), 0 0 0 1px rgba(13,148,136,0.15); display: none; flex-direction: column; overflow: hidden; transform: translateY(16px) scale(0.96); transition: transform 0.22s cubic-bezier(0.34, 1.4, 0.64, 1), opacity 0.22s ease; }
+  .zercy-float-panel { position: fixed; bottom: 8rem; right: 2rem; width: 370px; max-height: 580px; z-index: 999; background: white; border-radius: 20px; box-shadow: 0 8px 48px rgba(13,148,136,0.2), 0 0 0 1px rgba(13,148,136,0.15); display: none; flex-direction: column; overflow: hidden; transform: translateY(16px) scale(0.96); transition: transform 0.22s cubic-bezier(0.34, 1.4, 0.64, 1), opacity 0.22s ease; }
   .zercy-float-panel.open { display: flex; transform: translateY(0) scale(1); }
   .float-panel-header { background: linear-gradient(135deg, #0f4c45, #0f766e); padding: 1rem 1.2rem; display: flex; align-items: center; gap: 0.7rem; flex-shrink: 0; }
   .float-panel-header-icon { font-size: 1.4rem; flex-shrink: 0; }
@@ -1066,7 +1066,7 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
   .float-panel-context { color: #99f6e4; font-size: 0.72rem; margin-top: 0.15rem; }
   .float-panel-close { background: rgba(255,255,255,0.12); border: none; color: rgba(255,255,255,0.8); width: 28px; height: 28px; border-radius: 50%; cursor: pointer; font-size: 0.85rem; display: flex; align-items: center; justify-content: center; flex-shrink: 0; transition: background 0.15s; }
   .float-panel-close:hover { background: rgba(255,255,255,0.25); }
-  .float-insights-section { background: linear-gradient(135deg, #f5f3ff, #eff6ff); border-bottom: 1px solid #e0e7ff; padding: 0.8rem 1.2rem; max-height: 180px; overflow-y: auto; flex-shrink: 0; }
+  .float-insights-section { background: linear-gradient(135deg, #f5f3ff, #eff6ff); border-bottom: 1px solid #e0e7ff; padding: 0.8rem 1.2rem; max-height: 100px; overflow-y: auto; flex-shrink: 0; }
   .float-insights-label { font-size: 0.65rem; font-weight: 800; color: #7c3aed; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 0.5rem; }
   .float-insight-item { display: flex; gap: 0.5rem; align-items: flex-start; margin-bottom: 0.45rem; font-size: 0.79rem; line-height: 1.45; color: #1a1a2e; }
   .float-insight-item:last-child { margin-bottom: 0; }
@@ -1074,7 +1074,7 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
   .chat-suggestion-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; padding: 1rem 1.4rem 0.8rem; }
   .chat-chip { background: #f0f4ff; border: 1px solid #c7d7ff; border-radius: 16px; padding: 0.3rem 0.8rem; font-size: 0.75rem; font-weight: 600; color: #4f46e5; cursor: pointer; transition: all 0.15s; }
   .chat-chip:hover { background: #4f46e5; color: white; }
-  .chat-messages { padding: 1rem 1.4rem; max-height: 320px; overflow-y: auto; display: flex; flex-direction: column; gap: 0.8rem; }
+  .chat-messages { padding: 1rem 1.4rem; flex: 1; min-height: 150px; overflow-y: auto; display: flex; flex-direction: column; gap: 0.8rem; }
   .chat-msg { max-width: 85%; padding: 0.7rem 1rem; border-radius: 14px; font-size: 0.85rem; line-height: 1.5; }
   .chat-msg.user { background: linear-gradient(135deg, #4f46e5, #0ea5e9); color: white; align-self: flex-end; border-bottom-right-radius: 4px; }
   .chat-msg.zercy { background: #f8faff; color: #1a1a2e; align-self: flex-start; border-bottom-left-radius: 4px; border: 1px solid #e8ecf8; }
@@ -1326,7 +1326,7 @@ const L = {
     timeframe:'Zeitraum', flexibility:'Flexibilität', notSpecified:'Nicht angegeben', preferred:'✓ Bevorzugt',
     newSearch:'✦ Neue Suche', searchArrow:'Suchen →', chatTyping:'Zercy denkt nach...',
     chatInputPlaceholder:'Frag alles über dein Reiseziel...',
-    chatChips:['🏄 Beste Surf-Spots?','🌮 Wo essen?','🏨 Hotel-Empfehlungen?','🗺 10 Tage Programm?','💉 Visum & Impfungen?'],
+    chatChips:['🌮 Wo essen?','💉 Visum & Impfungen?'],
     nonstopTag:'NONSTOP', confidence:{high:'sicher',medium:'wahrscheinlich',low:'möglich'},
     fromChips:['Deutschland / DACH','Niederlande','USA','Andere Stadt...'],
     returnChips:['Gleicher Flughafen (Hin & Zurück)','Open-Jaw (anderer Rückflugort)','Multi-City','Nur Hinflug'],
@@ -1378,7 +1378,7 @@ const L = {
     timeframe:'Timeframe', flexibility:'Flexibility', notSpecified:'Not specified', preferred:'✓ Preferred',
     newSearch:'✦ New Search', searchArrow:'Search →', chatTyping:'Zercy is thinking...',
     chatInputPlaceholder:'Ask anything about your destination...',
-    chatChips:['🏄 Best surf spots?','🌮 Where to eat?','🏨 Hotel recommendations?','🗺 What to do in 10 days?','💉 Visa & health requirements?'],
+    chatChips:['🌮 Where to eat?','💉 Visa & health requirements?'],
     nonstopTag:'NONSTOP', confidence:{high:'sure',medium:'likely',low:'possible'},
     fromChips:['Costa Rica / SJO','United States','Europe','Somewhere else...'],
     returnChips:['Same airport (Roundtrip)','Open-Jaw (different return city)','Multi-City','One-way only'],
@@ -1430,7 +1430,7 @@ const L = {
     timeframe:'Período', flexibility:'Flexibilidad', notSpecified:'No especificado', preferred:'✓ Preferido',
     newSearch:'✦ Nueva búsqueda', searchArrow:'Buscar →', chatTyping:'Zercy está pensando...',
     chatInputPlaceholder:'Pregunta lo que quieras sobre tu destino...',
-    chatChips:['🏄 ¿Mejores playas?','🌮 ¿Dónde comer?','🏨 ¿Hoteles recomendados?','🗺 ¿Qué hacer en 10 días?','💉 ¿Visado y vacunas?'],
+    chatChips:['🌮 ¿Dónde comer?','💉 ¿Visado y vacunas?'],
     nonstopTag:'DIRECTO', confidence:{high:'seguro',medium:'probable',low:'posible'},
     fromChips:['España','México / LATAM','Estados Unidos','Otra ciudad...'],
     returnChips:['Mismo aeropuerto (ida y vuelta)','Open-Jaw (otro aeropuerto de regreso)','Multi-destino','Solo ida'],
@@ -1482,7 +1482,7 @@ const L = {
     timeframe:'Période', flexibility:'Flexibilité', notSpecified:'Non spécifié', preferred:'✓ Préféré',
     newSearch:'✦ Nouvelle recherche', searchArrow:'Rechercher →', chatTyping:'Zercy réfléchit...',
     chatInputPlaceholder:'Demandez tout sur votre destination...',
-    chatChips:['🏄 Meilleures plages ?','🌮 Où manger ?','🏨 Hôtels recommandés ?','🗺 Programme 10 jours ?','💉 Visa & vaccins ?'],
+    chatChips:['🌮 Où manger ?','💉 Visa & vaccins ?'],
     nonstopTag:'DIRECT', confidence:{high:'sûr',medium:'probable',low:'possible'},
     fromChips:['France','Belgique / Suisse','États-Unis','Autre ville...'],
     returnChips:['Même aéroport (aller-retour)','Open-Jaw (autre aéroport retour)','Multi-destination','Aller simple'],
@@ -1534,7 +1534,7 @@ const L = {
     timeframe:'Tijdsbestek', flexibility:'Flexibiliteit', notSpecified:'Niet opgegeven', preferred:'✓ Voorkeur',
     newSearch:'✦ Nieuwe zoekopdracht', searchArrow:'Zoeken →', chatTyping:'Zercy denkt na...',
     chatInputPlaceholder:'Vraag alles over je bestemming...',
-    chatChips:['🏄 Beste surfspots?','🌮 Waar eten?','🏨 Hotel-aanbevelingen?','🗺 Programma 10 dagen?','💉 Visum & vaccinaties?'],
+    chatChips:['🌮 Waar eten?','💉 Visum & vaccinaties?'],
     nonstopTag:'NONSTOP', confidence:{high:'zeker',medium:'waarschijnlijk',low:'mogelijk'},
     fromChips:['Nederland','België','Duitsland','Andere stad...'],
     returnChips:['Zelfde luchthaven (retour)','Open-Jaw (andere retourluchthaven)','Multi-city','Alleen heen'],
@@ -1586,7 +1586,7 @@ const L = {
     timeframe:'Periodo', flexibility:'Flessibilità', notSpecified:'Non specificato', preferred:'✓ Preferito',
     newSearch:'✦ Nuova ricerca', searchArrow:'Cerca →', chatTyping:'Zercy sta pensando...',
     chatInputPlaceholder:'Chiedi tutto sulla tua destinazione...',
-    chatChips:['🏄 Migliori spiagge?','🌮 Dove mangiare?','🏨 Hotel consigliati?','🗺 Programma 10 giorni?','💉 Visto e vaccini?'],
+    chatChips:['🌮 Dove mangiare?','💉 Visto e vaccini?'],
     nonstopTag:'DIRETTO', confidence:{high:'sicuro',medium:'probabile',low:'possibile'},
     fromChips:['Italia','Spagna','USA','Un\'altra città...'],
     returnChips:['Stesso aeroporto (andata e ritorno)','Open-Jaw (altro aeroporto di ritorno)','Multi-destinazione','Solo andata'],
@@ -1638,7 +1638,7 @@ const L = {
     timeframe:'Período', flexibility:'Flexibilidade', notSpecified:'Não especificado', preferred:'✓ Preferido',
     newSearch:'✦ Nova pesquisa', searchArrow:'Pesquisar →', chatTyping:'Zercy está a pensar...',
     chatInputPlaceholder:'Pergunta tudo sobre o teu destino...',
-    chatChips:['🏄 Melhores praias?','🌮 Onde comer?','🏨 Hotéis recomendados?','🗺 Programa de 10 dias?','💉 Visto & vacinas?'],
+    chatChips:['🌮 Onde comer?','💉 Visto & vacinas?'],
     nonstopTag:'DIRETO', confidence:{high:'certo',medium:'provável',low:'possível'},
     fromChips:['Portugal','Brasil','Espanha','Outra cidade...'],
     returnChips:['Mesmo aeroporto (ida e volta)','Open-Jaw (outro aeroporto de regresso)','Multi-destino','Só ida'],
