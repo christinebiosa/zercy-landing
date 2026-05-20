@@ -110,7 +110,7 @@ if (faqStart !== -1) {
   <meta property="og:description" content={post.data.description} />
   <meta property="og:url" content={canonicalUrl} />
   <meta property="og:type" content="article" />
-  <meta property="og:image" content={post.data.heroImage} data-pagefind-meta="image[content]" />
+  <meta property="og:image" content={`https://www.zercy.app${post.data.heroImage}`} data-pagefind-meta="image[content]" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BlogPosting",
