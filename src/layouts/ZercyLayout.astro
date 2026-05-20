@@ -2998,9 +2998,9 @@ function addChatMessage(text, role) {
     el.scrollTop = el.scrollHeight;
   } else {
     requestAnimationFrame(() => {
-      const cRect = el.getBoundingClientRect();
-      const mRect = msg.getBoundingClientRect();
-      el.scrollTop = el.scrollTop + (mRect.top - cRect.top) - 12;
+      el.scrollTop = el.scrollHeight;
+      const overflow = msg.offsetHeight - (el.clientHeight - 24);
+      if (overflow > 0) el.scrollTop -= overflow;
     });
   }
   return msg;
