@@ -1172,15 +1172,16 @@ const zercyUrls = {
   _fmtExpediaFlightDate(s) { return s ? s.replace(/(\d{4})-(\d{2})-(\d{2})/, '$2/$3/$1') : ''; },
   _expediaCabin(cabin) { return ({economy:'coach', business:'business', first:'first'})[(cabin||'').toLowerCase()] || 'coach'; },
 
-  googleFlights(origin, dest, outDate, retDate) {
-    // Query-Format ist zuverlässiger als das Hash-Format: Google parst "flights from X to Y on DATE"
-    // und setzt Datum + Route korrekt. Hash-Format #flt= übernimmt das Datum nicht zuverlässig.
+  googleFlights(origin, dest, outDate, retDate, cabin) {
     if (!origin || !dest) return 'https://www.google.com/travel/flights';
+    const cabinStr = cabin && cabin.toLowerCase() !== 'economy'
+      ? cabin.toLowerCase().replace('business', 'business class').replace('first', 'first class') + ' '
+      : '';
     const q = retDate && outDate
-      ? `flights from ${origin} to ${dest} on ${outDate} returning ${retDate}`
+      ? `${cabinStr}flights from ${origin} to ${dest} on ${outDate} returning ${retDate}`
       : outDate
-        ? `flights from ${origin} to ${dest} on ${outDate}`
-        : `flights from ${origin} to ${dest}`;
+        ? `${cabinStr}flights from ${origin} to ${dest} on ${outDate}`
+        : `${cabinStr}flights from ${origin} to ${dest}`;
     return `https://www.google.com/travel/flights?hl=en&q=${encodeURIComponent(q)}`;
   },
 
@@ -2579,8 +2580,8 @@ function buildFlightTableHtml(d, turnId) {
     const leg2 = f.isReturn ? originCode : f.airportCode;
     const gflLegDate = f.isReturn ? retDate : outDate;
     const gflUrl = retDate && outDate && !f.isReturn
-      ? zercyUrls.googleFlights(originCode, f.airportCode, outDate, retDate)
-      : zercyUrls.googleFlights(leg1, leg2, gflLegDate);
+      ? zercyUrls.googleFlights(originCode, f.airportCode, outDate, retDate, d.cabin)
+      : zercyUrls.googleFlights(leg1, leg2, gflLegDate, null, d.cabin);
     const cheapestClass = i === 0 ? ' ft-cheapest' : '';
     const dirLabel = f.isReturn ? '↩' : '→';
     return `<tr class="ft-row${cheapestClass}" onclick="window.open('${gflUrl}','_blank')">
@@ -2680,8 +2681,8 @@ function buildResultsHtml(d, id) {
           const fromCity = isReturn ? (a.city || leg1) : (d.origin?.city || leg1);
           const toCity = isReturn ? (d.origin?.city || leg2) : (a.city || leg2);
           const gflUrl = retDate && !isReturn && outDate
-            ? zercyUrls.googleFlights(origin, a.code, outDate, retDate)
-            : zercyUrls.googleFlights(leg1, leg2, flightDate);
+            ? zercyUrls.googleFlights(origin, a.code, outDate, retDate, d.cabin)
+            : zercyUrls.googleFlights(leg1, leg2, flightDate, null, d.cabin);
           const expUrl = retDate && !isReturn
             ? zercyUrls.expediaFlights(leg1, leg2, outDate, retDate, d.cabin)
             : zercyUrls.expediaFlights(leg1, leg2, flightDate, null, d.cabin);
