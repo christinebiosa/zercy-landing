@@ -2750,8 +2750,9 @@ function buildResultsHtml(d, id) {
           }
         })()}
         ${groundHtml}
-        ${!isReturn && hotelDest ? (() => {
-          const cleanDest = hotelDest || gt?.destination || a.city;
+        ${!isReturn ? (() => {
+          // d.hotel.destination ist der saubere Städtename den Claude extrahiert hat (z.B. "Paris", nicht "Paris near the Ritz")
+          const cleanDest = d.hotel?.destination || a.city;
           const googleHotelUrl = zercyUrls.googleHotels(cleanDest, hotelCheckin, hotelCheckout);
           const bookingSearchUrl = zercyUrls.bookingHotels(cleanDest, hotelCheckin, hotelCheckout);
           const expediaSearchUrl = zercyUrls.expediaHotels(cleanDest, hotelCheckin, hotelCheckout);

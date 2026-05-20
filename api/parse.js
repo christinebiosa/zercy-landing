@@ -139,6 +139,7 @@ module.exports = async function handler(req, res) {
 
   const { intent, planContext, uiLanguage } = req.body || {};
   if (!intent) return res.status(400).json({ error: 'No intent provided' });
+  const today = new Date().toISOString().split('T')[0]; // e.g. "2026-05-20"
 
   try {
     // Ground-only detection: if user asks for train/bus, skip think.js context and force Sonnet
@@ -236,10 +237,11 @@ CRITICAL WORD RULES:
 - Extract origin city from phrases like "going from [city]", "flying from [city]", "from [city]".
 
 IMPORTANT RULES:
-- Always suggest SPECIFIC dates (never null). Consider holidays (Easter 2026 = April 5, school holidays, peak seasons) and recommend avoiding them unless requested. Prefer Tue/Wed departures for cheaper fares.
+- TODAY IS ${today}. CRITICAL: Every single date you generate (recommended_date, hotel checkin/checkout, car pickup/dropoff, travel_date, return_date) MUST be strictly after ${today}. Never suggest any date in the past. If the user says "april" or "in april" and April of the current year is already over (i.e. today is past April 30 of that year), automatically use April of the NEXT year. Same for any other month. The year in your dates must reflect this.
+- Always suggest SPECIFIC dates (never null). Consider upcoming holidays: Easter 2027 = March 28, Easter 2028 = April 16, Christmas/New Year peaks in December. Avoid them unless the user specifically requests travel on those dates. Prefer Tue/Wed departures for cheaper fares.
 - Always include the correct cabin class in search_queries.
-- Be smart: if user says "late April" and Easter is April 5, suggest April 14-24 to avoid holiday surcharges.
-- zercy_insight should mention specific date reasoning (e.g. "Avoid April 5 Easter weekend — prices spike 40%. Tue April 14 departure saves ~€300").
+- Be smart: if user says "late April 2027" and Easter 2027 is March 28, suggest April 8–24 to avoid Easter surcharges.
+- zercy_insight should mention specific date reasoning (e.g. "Easter weekend has 40% higher fares — Tue Apr 8 departure is cheaper").
 ${planContext ? `- PLANNING SESSION CONTEXT — THIS IS CRITICAL, use these values directly:
   ${planContext.userIntent ? `Original user request: "${planContext.userIntent}"` : ''}
   Zercy's narrative: ${planContext.narrative || 'n/a'}
