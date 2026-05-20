@@ -632,8 +632,10 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
       <div class="float-insights-label">💡 Zercy's Tipps</div>
       <div id="float-insights-list"></div>
     </div>
+    <div class="chat-messages" id="chat-messages">
+      <div id="chat-messages-spacer"></div>
+    </div>
     <div class="chat-suggestion-chips" id="chat-suggestions"></div>
-    <div class="chat-messages" id="chat-messages"></div>
     <div class="chat-input-row">
       <input class="chat-input" id="chat-input" type="text" placeholder={c.chatInputPlaceholder} onkeydown="if(event.key==='Enter')sendChat()">
       <button class="chat-send" onclick="sendChat()">→</button>
@@ -1066,12 +1068,13 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
   .float-panel-context { color: #99f6e4; font-size: 0.72rem; margin-top: 0.15rem; }
   .float-panel-close { background: rgba(255,255,255,0.12); border: none; color: rgba(255,255,255,0.8); width: 28px; height: 28px; border-radius: 50%; cursor: pointer; font-size: 0.85rem; display: flex; align-items: center; justify-content: center; flex-shrink: 0; transition: background 0.15s; }
   .float-panel-close:hover { background: rgba(255,255,255,0.25); }
-  .float-insights-section { background: linear-gradient(135deg, #f5f3ff, #eff6ff); border-bottom: 1px solid #e0e7ff; padding: 0.8rem 1.2rem; max-height: 100px; overflow-y: auto; flex-shrink: 0; }
+  .float-insights-section { background: linear-gradient(135deg, #f5f3ff, #eff6ff); border-bottom: 1px solid #e0e7ff; padding: 0.75rem 1.2rem; overflow: hidden; flex-shrink: 0; }
   .float-insights-label { font-size: 0.65rem; font-weight: 800; color: #7c3aed; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 0.5rem; }
   .float-insight-item { display: flex; gap: 0.5rem; align-items: flex-start; margin-bottom: 0.45rem; font-size: 0.79rem; line-height: 1.45; color: #1a1a2e; }
   .float-insight-item:last-child { margin-bottom: 0; }
   .float-insight-bullet { flex-shrink: 0; margin-top: 0.05rem; }
-  .chat-suggestion-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; padding: 1rem 1.4rem 0.8rem; }
+  .chat-suggestion-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; padding: 0.6rem 1.4rem; border-top: 1px solid #f0f4ff; }
+  #chat-messages-spacer { flex: 1; }
   .chat-chip { background: #f0f4ff; border: 1px solid #c7d7ff; border-radius: 16px; padding: 0.3rem 0.8rem; font-size: 0.75rem; font-weight: 600; color: #4f46e5; cursor: pointer; transition: all 0.15s; }
   .chat-chip:hover { background: #4f46e5; color: white; }
   .chat-messages { padding: 1rem 1.4rem; flex: 1; min-height: 150px; overflow-y: auto; display: flex; flex-direction: column; gap: 0.8rem; }
@@ -2940,7 +2943,7 @@ function showChatWidget(destination, checkin, checkout, tripData, insights) {
     const insightsList = document.getElementById('float-insights-list');
     const insightsSec = document.getElementById('float-insights-section');
     if (insightsList) {
-      insightsList.innerHTML = allInsights.map(i =>
+      insightsList.innerHTML = allInsights.slice(0, 3).map(i =>
         `<div class="float-insight-item"><span class="float-insight-bullet">💡</span><span>${i}</span></div>`
       ).join('');
     }
@@ -2973,7 +2976,8 @@ function toggleFloatPanel() {
     panel.classList.add('open');
     const chips = t(zercyLang, 'chatChips');
     const container = document.getElementById('chat-suggestions');
-    if (container && Array.isArray(chips)) {
+    if (container && Array.isArray(chips) && chatHistory.length === 0) {
+      container.style.display = '';
       container.innerHTML = chips.map(chip =>
         `<span class="chat-chip" onclick="sendChatSuggestion(this.innerText)">${chip}</span>`
       ).join('');
@@ -2988,7 +2992,11 @@ function addChatMessage(text, role) {
   msg.className = 'chat-msg ' + role;
   msg.innerHTML = text.replace(/\n/g, '<br>');
   el.appendChild(msg);
-  el.scrollTop = el.scrollHeight;
+  if (role === 'user' || role.includes('typing')) {
+    el.scrollTop = el.scrollHeight;
+  } else {
+    requestAnimationFrame(() => { el.scrollTop = msg.offsetTop - 12; });
+  }
   return msg;
 }
 
@@ -2997,6 +3005,8 @@ async function sendChat() {
   const message = input.value.trim();
   if (!message) return;
   input.value = '';
+  const suggestions = document.getElementById('chat-suggestions');
+  if (suggestions) suggestions.style.display = 'none';
   addChatMessage(message, 'user');
   const typing = addChatMessage(t(zercyLang, 'chatTyping'), 'zercy typing');
   try {
@@ -3083,7 +3093,7 @@ function newSearch() {
   if (floatBtn) floatBtn.style.display = 'none';
   const floatPanel = document.getElementById('zercyFloatPanel');
   if (floatPanel) floatPanel.classList.remove('open');
-  document.getElementById('chat-messages').innerHTML = '';
+  document.getElementById('chat-messages').innerHTML = '<div id="chat-messages-spacer"></div>';
   chatHistory = [];
   turnCount = 0;
   lastIntent = '';
