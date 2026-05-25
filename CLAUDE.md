@@ -473,6 +473,9 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - islas-caribe-island-hopping-guia, viaje-organizado-vs-independiente, mejores-destinos-playa-mundo-2026
 - donde-alojarse-nicosia, donde-alojarse-alicante, donde-alojarse-bratislava
 - donde-alojarse-tesalonica, donde-alojarse-gante
+- donde-alojarse-frankfurt, donde-alojarse-helsinki, donde-alojarse-ginebra, donde-alojarse-palermo
+- donde-alojarse-verona, donde-alojarse-shanghai, donde-alojarse-beijing, donde-alojarse-fuerteventura
+- donde-alojarse-cordoba-espana, donde-alojarse-sofia
 - glamping-vacaciones-europa, crucero-fluvial-europa-guia, vacaciones-todo-incluido-vale-la-pena
 - workation-portugal-espana-2026, senderismo-alpes-principiantes-guia
 - escandinavia-ruta-completa, portugal-ruta-completa, balcanes-road-trip-ruta
@@ -598,6 +601,9 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - inselhopping-karibik-guide, pauschalreise-vs-individualreise, beste-badeziele-weltweit-2026
 - wo-uebernachten-nikosia, wo-uebernachten-alicante, wo-uebernachten-bratislava
 - wo-uebernachten-thessaloniki, wo-uebernachten-gent
+- wo-uebernachten-frankfurt, wo-uebernachten-helsinki, wo-uebernachten-genf, wo-uebernachten-palermo
+- wo-uebernachten-verona, wo-uebernachten-shanghai, wo-uebernachten-peking, wo-uebernachten-fuerteventura
+- wo-uebernachten-cordoba-spanien, wo-uebernachten-sofia
 - glamping-europa-guide, flusskreuzfahrt-europa-guide, all-inclusive-urlaub-lohnt-sich
 - workation-portugal-spanien-2026, bergwandern-alpen-anfaenger-guide
 - skandinavien-rundreise-route, portugal-rundreise-route, balkan-roadtrip-route
@@ -697,6 +703,9 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - caribbean-island-hopping-guide, package-tour-vs-independent-travel, best-beach-destinations-worldwide-2026
 - where-to-stay-nicosia, where-to-stay-alicante, where-to-stay-bratislava
 - where-to-stay-thessaloniki, where-to-stay-ghent
+- where-to-stay-frankfurt, where-to-stay-helsinki, where-to-stay-geneva, where-to-stay-palermo
+- where-to-stay-verona, where-to-stay-shanghai, where-to-stay-beijing, where-to-stay-fuerteventura
+- where-to-stay-cordoba-spain, where-to-stay-sofia
 - glamping-europe-guide, river-cruise-europe-guide, all-inclusive-holiday-worth-it
 - workation-portugal-spain-2026, alpine-hiking-beginners-guide
 - scandinavia-road-trip-route, portugal-road-trip-route, balkan-road-trip-route
@@ -769,9 +778,9 @@ Vor dem FAQ, nach dem `---` Trennstrich: 1–2 Sätze die Zercy erwähnen, natü
 
 ### ✅ Bereits vorhandene City-Guides — IMMER HIER PRÜFEN vor neuen Vorschlägen!
 
-**Stand: 2026-05-15 | 174 Städte**
+**Stand: 2026-05-25 | 184 Städte**
 
-**Agadir**, **Alicante**, Amsterdam, Antalya, **Antigua (Guatemala)**, Athen, Auckland, **Austin**, Bali, Bangkok, Barcelona, Berlin, Bilbao, **Bled**, Bogotá, Bologna, Bordeaux, Boston, **Bratislava**, Brisbane, Brüssel, **Brügge**, Budapest, Bukarest, Buenos Aires, **Bergen**, **Busan**, **Cairns**, Cancún, Cape Town, Cartagena, Chiang Mai, Chicago, **Christchurch**, Colombo, **Córdoba (Arg)**, Cusco, **Da Nang**, **Dar es Salaam**, Delhi, **Dresden**, Dublin, Dubrovnik, Edinburgh, Florenz, Funchal, Fukuoka, **Gent**, Goa, **Gold Coast**, Granada, **Gran Canaria**, **Graz**, Guadalajara, **Göteborg**, Hamburg, Hanoi, **Hiroshima**, Ho Chi Minh Stadt, Hoi An, Hongkong, **Ibiza**, Innsbruck, **Interlaken**, Istanbul, Jaipur, Johannesburg, Kairo, Kathmandu, **Koh Samui**, Kopenhagen, Kotor, **Köln**, Krakau, **Krabi**, **Kreta**, Kuala Lumpur, Kyoto, **Langkawi**, Lanzarote, Las Vegas, Lima, Lissabon, Ljubljana, London, Los Angeles, **Luang Prabang**, **Luzern**, **Luxor**, **Lyon**, Madrid, Mailand, Málaga, Marrakesch, Marseille, Melbourne, Medellín, Mendoza, Mexico City, Miami, **Mombasa**, **Montevideo**, Montreal, **Mostar**, München, Mumbai, Mykonos, Nashville, Nairobi, Neapel, **Nha Trang**, **Nikosia**, Nizza, New Orleans, New York, Oaxaca, Osaka, Oslo, Palma de Mallorca, Paris, Penang, **Perth**, Philadelphia, Phuket, Playa del Carmen, **Plovdiv**, **Pokhara**, Porto, Prag, Puerto Vallarta, Québec City, Queenstown, Reykjavik, **Rhodos**, Riga, Rio de Janeiro, Rom, **Salvador (Bahia)**, Salzburg, **San Diego**, San Francisco, **San Sebastián**, Santiago, Santorini, São Paulo, Seattle, Seoul, Sevilla, Siem Reap, Singapur, Split, Stockholm, **Straßburg**, Sydney, Taipei, Tallinn, Teneriffa, **Thessaloniki**, Tokio, Toronto, Tulum, Valencia, Valletta, **Valparaíso**, Vancouver, Venedig, Vilnius, Washington D.C., **Wellington**, Warschau, Wien, Zürich
+**Agadir**, **Alicante**, Amsterdam, Antalya, **Antigua (Guatemala)**, Athen, Auckland, **Austin**, **Beijing (Peking)**, Bali, Bangkok, Barcelona, Berlin, Bilbao, **Bled**, Bogotá, Bologna, Bordeaux, Boston, **Bratislava**, Brisbane, Brüssel, **Brügge**, Budapest, Bukarest, Buenos Aires, **Bergen**, **Busan**, **Cairns**, Cancún, Cape Town, Cartagena, Chiang Mai, Chicago, **Christchurch**, Colombo, **Córdoba (Arg)**, **Córdoba (Spanien)**, Cusco, **Da Nang**, **Dar es Salaam**, Delhi, **Dresden**, Dublin, Dubrovnik, Edinburgh, Florenz, Frankfurt, Funchal, **Fuerteventura**, Fukuoka, **Genf**, **Gent**, Goa, **Gold Coast**, Granada, **Gran Canaria**, **Graz**, Guadalajara, **Göteborg**, Hamburg, Hanoi, **Helsinki**, **Hiroshima**, Ho Chi Minh Stadt, Hoi An, Hongkong, **Ibiza**, Innsbruck, **Interlaken**, Istanbul, Jaipur, Johannesburg, Kairo, Kathmandu, **Koh Samui**, Kopenhagen, Kotor, **Köln**, Krakau, **Krabi**, **Kreta**, Kuala Lumpur, Kyoto, **Langkawi**, Lanzarote, Las Vegas, Lima, Lissabon, Ljubljana, London, Los Angeles, **Luang Prabang**, **Luzern**, **Luxor**, **Lyon**, Madrid, Mailand, Málaga, Marrakesch, Marseille, Melbourne, Medellín, Mendoza, Mexico City, Miami, **Mombasa**, **Montevideo**, Montreal, **Mostar**, München, Mumbai, Mykonos, Nashville, Nairobi, Neapel, **Nha Trang**, **Nikosia**, Nizza, New Orleans, New York, Oaxaca, Osaka, Oslo, Palermo, Palma de Mallorca, Paris, Penang, **Perth**, Philadelphia, Phuket, Playa del Carmen, **Plovdiv**, **Pokhara**, Porto, Prag, Puerto Vallarta, Québec City, Queenstown, Reykjavik, **Rhodos**, Riga, Rio de Janeiro, Rom, **Salvador (Bahia)**, Salzburg, **San Diego**, San Francisco, **San Sebastián**, Santiago, Santorini, São Paulo, Seattle, Seoul, Sevilla, **Shanghai**, Siem Reap, Singapur, **Sofia**, Split, Stockholm, **Straßburg**, Sydney, Taipei, Tallinn, Teneriffa, **Thessaloniki**, Tokio, Toronto, Tulum, Valencia, Valletta, **Valparaíso**, Vancouver, Venedig, Verona, Vilnius, Washington D.C., **Wellington**, Warschau, Wien, Zürich
 
 **Regel:** Vor JEDEM neuen City-Guide-Vorschlag diese Liste lesen. Nach jeder neuen Batch: Liste aktualisieren.
 
