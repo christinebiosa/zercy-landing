@@ -1824,12 +1824,12 @@ export const topicToQuery = {
   // City Guides Batch 11 — Neue Städte 2026-05
   'frankfurt': 'frankfurt germany skyline main river skyscrapers cathedral',
   'helsinki': 'helsinki finland harbor cathedral design architecture',
-  'geneva': 'lake geneva switzerland alps waterfront city',
+  'geneva': 'geneva switzerland',
   'palermo': 'palermo sicily cathedral arab-norman architecture market',
-  'verona': 'verona italy roman arena piazza historic',
+  'verona': 'verona italy',
   'shanghai': 'shanghai bund skyline pudong river night lights',
   'beijing': 'beijing forbidden city tiananmen temple of heaven china',
-  'fuerteventura': 'canary islands sand dunes beach turquoise ocean',
+  'fuerteventura': 'canary islands beach',
   'cordoba-spain': 'cordoba spain mezquita mosque cathedral old town',
   'sofia': 'sofia bulgaria alexander nevsky cathedral orthodox',
 };
