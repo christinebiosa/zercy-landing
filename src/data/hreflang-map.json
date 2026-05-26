@@ -759,6 +759,21 @@
     "en": "https://www.zercy.app/en/blog/brazil-travel-guide-highlights",
     "es": "https://www.zercy.app/es/blog/brasil-guia-viaje-highlights"
   },
+  "budget-fernflug-tricks": {
+    "de": "https://www.zercy.app/blog/budget-fernflug-tricks",
+    "en": "https://www.zercy.app/en/blog/cheap-long-haul-flights-tricks",
+    "es": "https://www.zercy.app/es/blog/vuelos-largos-baratos-trucos"
+  },
+  "cheap-long-haul-flights-tricks": {
+    "de": "https://www.zercy.app/blog/budget-fernflug-tricks",
+    "en": "https://www.zercy.app/en/blog/cheap-long-haul-flights-tricks",
+    "es": "https://www.zercy.app/es/blog/vuelos-largos-baratos-trucos"
+  },
+  "vuelos-largos-baratos-trucos": {
+    "de": "https://www.zercy.app/blog/budget-fernflug-tricks",
+    "en": "https://www.zercy.app/en/blog/cheap-long-haul-flights-tricks",
+    "es": "https://www.zercy.app/es/blog/vuelos-largos-baratos-trucos"
+  },
   "bulgarien-reiseguide-highlights": {
     "de": "https://www.zercy.app/blog/bulgarien-reiseguide-highlights",
     "en": "https://www.zercy.app/en/blog/bulgaria-travel-guide-highlights",
@@ -903,6 +918,21 @@
     "de": "https://www.zercy.app/blog/costa-rica-surfen",
     "en": "https://www.zercy.app/en/blog/costa-rica-surfing",
     "es": "https://www.zercy.app/es/blog/costa-rica-surf"
+  },
+  "couchsurfing-guide-2026": {
+    "de": "https://www.zercy.app/blog/couchsurfing-guide-2026",
+    "en": "https://www.zercy.app/en/blog/couchsurfing-guide-2026-en",
+    "es": "https://www.zercy.app/es/blog/couchsurfing-guia-2026"
+  },
+  "couchsurfing-guide-2026-en": {
+    "de": "https://www.zercy.app/blog/couchsurfing-guide-2026",
+    "en": "https://www.zercy.app/en/blog/couchsurfing-guide-2026-en",
+    "es": "https://www.zercy.app/es/blog/couchsurfing-guia-2026"
+  },
+  "couchsurfing-guia-2026": {
+    "de": "https://www.zercy.app/blog/couchsurfing-guide-2026",
+    "en": "https://www.zercy.app/en/blog/couchsurfing-guide-2026-en",
+    "es": "https://www.zercy.app/es/blog/couchsurfing-guia-2026"
   },
   "cyber-sicherheit-reisen": {
     "de": "https://www.zercy.app/blog/cyber-sicherheit-reisen",
@@ -1459,6 +1489,51 @@
     "en": "https://www.zercy.app/en/blog/cheap-flights-tips",
     "es": "https://www.zercy.app/es/blog/consejos-vuelos-baratos"
   },
+  "guenstig-reisen-mittelamerika-guide": {
+    "de": "https://www.zercy.app/blog/guenstig-reisen-mittelamerika-guide",
+    "en": "https://www.zercy.app/en/blog/budget-travel-central-america",
+    "es": "https://www.zercy.app/es/blog/viaje-economico-centroamerica"
+  },
+  "budget-travel-central-america": {
+    "de": "https://www.zercy.app/blog/guenstig-reisen-mittelamerika-guide",
+    "en": "https://www.zercy.app/en/blog/budget-travel-central-america",
+    "es": "https://www.zercy.app/es/blog/viaje-economico-centroamerica"
+  },
+  "viaje-economico-centroamerica": {
+    "de": "https://www.zercy.app/blog/guenstig-reisen-mittelamerika-guide",
+    "en": "https://www.zercy.app/en/blog/budget-travel-central-america",
+    "es": "https://www.zercy.app/es/blog/viaje-economico-centroamerica"
+  },
+  "guenstig-reisen-osteuropa-guide": {
+    "de": "https://www.zercy.app/blog/guenstig-reisen-osteuropa-guide",
+    "en": "https://www.zercy.app/en/blog/budget-travel-eastern-europe",
+    "es": "https://www.zercy.app/es/blog/viaje-economico-europa-del-este"
+  },
+  "budget-travel-eastern-europe": {
+    "de": "https://www.zercy.app/blog/guenstig-reisen-osteuropa-guide",
+    "en": "https://www.zercy.app/en/blog/budget-travel-eastern-europe",
+    "es": "https://www.zercy.app/es/blog/viaje-economico-europa-del-este"
+  },
+  "viaje-economico-europa-del-este": {
+    "de": "https://www.zercy.app/blog/guenstig-reisen-osteuropa-guide",
+    "en": "https://www.zercy.app/en/blog/budget-travel-eastern-europe",
+    "es": "https://www.zercy.app/es/blog/viaje-economico-europa-del-este"
+  },
+  "guenstigste-staedte-europa-2026": {
+    "de": "https://www.zercy.app/blog/guenstigste-staedte-europa-2026",
+    "en": "https://www.zercy.app/en/blog/cheapest-cities-europe-2026",
+    "es": "https://www.zercy.app/es/blog/ciudades-baratas-europa-2026"
+  },
+  "cheapest-cities-europe-2026": {
+    "de": "https://www.zercy.app/blog/guenstigste-staedte-europa-2026",
+    "en": "https://www.zercy.app/en/blog/cheapest-cities-europe-2026",
+    "es": "https://www.zercy.app/es/blog/ciudades-baratas-europa-2026"
+  },
+  "ciudades-baratas-europa-2026": {
+    "de": "https://www.zercy.app/blog/guenstigste-staedte-europa-2026",
+    "en": "https://www.zercy.app/en/blog/cheapest-cities-europe-2026",
+    "es": "https://www.zercy.app/es/blog/ciudades-baratas-europa-2026"
+  },
   "handgepaeck-fluessigkeiten-regeln-2026": {
     "de": "https://www.zercy.app/blog/handgepaeck-fluessigkeiten-regeln-2026",
     "en": "https://www.zercy.app/en/blog/carry-on-liquids-rules-2026",
@@ -1578,6 +1653,21 @@
     "de": "https://www.zercy.app/blog/hotel-fruehstueck-inkludiert-lohnt-sich",
     "en": "https://www.zercy.app/en/blog/hotel-breakfast-included-worth-it",
     "es": "https://www.zercy.app/es/blog/desayuno-hotel-incluido-vale-la-pena"
+  },
+  "hotel-guenstiger-buchen-tipps": {
+    "de": "https://www.zercy.app/blog/hotel-guenstiger-buchen-tipps",
+    "en": "https://www.zercy.app/en/blog/book-hotel-cheaper-tips",
+    "es": "https://www.zercy.app/es/blog/reservar-hotel-barato-trucos"
+  },
+  "book-hotel-cheaper-tips": {
+    "de": "https://www.zercy.app/blog/hotel-guenstiger-buchen-tipps",
+    "en": "https://www.zercy.app/en/blog/book-hotel-cheaper-tips",
+    "es": "https://www.zercy.app/es/blog/reservar-hotel-barato-trucos"
+  },
+  "reservar-hotel-barato-trucos": {
+    "de": "https://www.zercy.app/blog/hotel-guenstiger-buchen-tipps",
+    "en": "https://www.zercy.app/en/blog/book-hotel-cheaper-tips",
+    "es": "https://www.zercy.app/es/blog/reservar-hotel-barato-trucos"
   },
   "hotel-kategorien-erklaert": {
     "de": "https://www.zercy.app/blog/hotel-kategorien-erklaert",
@@ -2658,6 +2748,21 @@
     "de": "https://www.zercy.app/blog/priority-boarding-lohnt-sich",
     "en": "https://www.zercy.app/en/blog/priority-boarding-worth-it",
     "es": "https://www.zercy.app/es/blog/embarque-prioritario-vale-la-pena"
+  },
+  "reise-budget-sparen-anleitung": {
+    "de": "https://www.zercy.app/blog/reise-budget-sparen-anleitung",
+    "en": "https://www.zercy.app/en/blog/travel-savings-budget-planning",
+    "es": "https://www.zercy.app/es/blog/planificar-presupuesto-viaje"
+  },
+  "travel-savings-budget-planning": {
+    "de": "https://www.zercy.app/blog/reise-budget-sparen-anleitung",
+    "en": "https://www.zercy.app/en/blog/travel-savings-budget-planning",
+    "es": "https://www.zercy.app/es/blog/planificar-presupuesto-viaje"
+  },
+  "planificar-presupuesto-viaje": {
+    "de": "https://www.zercy.app/blog/reise-budget-sparen-anleitung",
+    "en": "https://www.zercy.app/en/blog/travel-savings-budget-planning",
+    "es": "https://www.zercy.app/es/blog/planificar-presupuesto-viaje"
   },
   "reise-packliste-was-wirklich-rein-kommt": {
     "de": "https://www.zercy.app/blog/reise-packliste-was-wirklich-rein-kommt",
