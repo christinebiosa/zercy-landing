@@ -18,7 +18,8 @@
       "mcp__google-workspace__search_drive_files",
       "mcp__google-workspace__read_sheet_values",
       "mcp__google-workspace__get_drive_file_download_url",
-      "mcp__google-workspace__list_drive_items"
+      "mcp__google-workspace__list_drive_items",
+      "mcp__plugin_vercel_vercel__get_runtime_logs"
     ]
   }
 }
