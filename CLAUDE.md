@@ -654,6 +654,9 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - madeira-reiseguide, kanaren-inseln-vergleich, backpacking-einsteiger-guide
 - honeymoon-planung-guide, reiseimpfungen-guide, barrierefreies-reisen-guide
 - vegan-reisen-guide
+- google-flights-tricks-tipps-2026, ex-eu-routing-guenstiger-fliegen, airline-preisalgorithmus-erklaert
+- positioning-flight-erklaert, booking-vs-expedia-vergleich-2026, flexible-dates-flug-hack
+- hotel-rate-parity-erklaert, bid-upgrade-business-class, airline-allianzen-guide-2026
 
 **Bestehende EN-Artikel (Slugs für interne Verlinkung):**
 - cheap-flights-tips, when-to-book-flights, ai-changing-travel-planning
@@ -756,6 +759,9 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - madeira-travel-guide, canary-islands-comparison, backpacking-beginners-guide
 - honeymoon-planning-guide, travel-vaccinations-guide, accessible-travel-guide
 - vegan-travel-guide
+- google-flights-tips-tricks-2026, ex-eu-routing-cheaper-flights, airline-pricing-algorithm-explained
+- positioning-flight-guide, booking-vs-expedia-comparison-2026, flexible-dates-flight-hack
+- hotel-rate-parity-explained, bid-upgrade-business-class, airline-alliances-guide-2026
 
 ### Schema — automatisch via Template (KEIN manueller Eingriff nötig!)
 Alle 3 Templates (`src/pages/blog/[slug].astro`, `src/pages/en/blog/[slug].astro`, `src/pages/es/blog/[slug].astro`) generieren automatisch **3 JSON-LD Schemas** im `<head>` — für jeden Artikel, ohne dass die Markdown-Datei angefasst werden muss:
@@ -792,7 +798,9 @@ Vor dem FAQ, nach dem `---` Trennstrich: 1–2 Sätze die Zercy erwähnen, natü
 
 ### ✅ Bereits vorhandene Themenartikel — IMMER HIER PRÜFEN vor neuen Vorschlägen!
 
-**Stand: 2026-05-14 | 198 Themenartikel**
+**Stand: 2026-05-25 | 207 Themenartikel**
+
+Airline-Allianzen Guide, Airline Preisalgorithmus, Bid Upgrade Business Class, Booking vs. Expedia Vergleich, Ex-EU Routing, Flexible Dates Hack, Google Flights Tricks, Hotel Rate Parity, Positioning Flight Guide,
 
 48h Rom, 48h Barcelona, 48h Istanbul, Ägypten Reiseguide, Airbnb Experiences, Airbnb vs. Hotel, Airport Hacks, Albanien Riviera, Algarve Guide 2026, All-Inclusive Urlaub, Apulien/Süditalien, Argentinien Reiseguide, Auslands-SIM Guide, Australien Rundreise, Azoren Reiseguide, Backpacking Einsteiger, Bahn vs. Flieger Europa, Bali vs. Lombok, Bangkok 3 Tage, Balkan Road Trip, Barrierefreies Reisen, Bergwandern Alpen Anfänger, Beste Badeziele weltweit 2026, Beste Frühlingsziele Europa, Beste Herbstziele, Beste Offline Apps, Beste Reise-Kreditkarten 2026, Beste Travel Apps 2026, Bolivien & Salar de Uyuni, Booking Apartments vs. Airbnb, Booking Genius, Booking vs. Direkt, Boutique Hotels, Brasilien Reiseguide, Bulgarien Reiseguide, Business Class, Business Class ohne Meilen, Campervan Europa, Capsule Wardrobe Handgepäck, Chile Reiseguide, City Cards & Museumspässe, CO2 Kompensation, Costa Rica Rundreise, Costa Rica Surfen, Cyber-Sicherheit, Dänemark Reiseguide, Digital Nomad Visa, Dominikanische Republik Guide, Ecuador & Galápagos, Europäische Städte im Winter, Färöer Inseln, Familienurlaub Europa Ziele, Familienurlaub mit Kindern Tipps, Fernwanderwege Welt, Fiji & Pazifik Inselhopping, Finnland Reiseguide, Flughafentransfer Tipps 2026, Flugverspätung Rechte, Flusskreuzfahrten Europa, Food Travel, Frühbucher vs. Last Minute, Geheimtipps Europa, Geld im Ausland, Glamping Europa, Griechenland Inseln Vergleich, Guatemala Reiseguide, Günstig Fliegen, Handgepäck Flüssigkeiten, Handgepäck vs. Aufgegeben, Hidden City Ticketing, Honeymoon Planung, Hostel Guide (Buchen), Hostel oder Hotel 2026, Hotel-Kategorien erklärt, Hotel Upgrade Tipps, Indien Reiseguide, Indonesien Reiseguide, Inselhopping Karibik, Interrail Guide 2026, Irland Rundreise, Island Reiseguide, Japan 3-Wochen-Route, Japan beyond Tokyo, Jetlag, Jordanien Reiseguide, Kambodscha Reiseguide, Kanada Reiseguide, Kanaren-Vergleich, Kap Verde Reiseguide, Kenia Reiseguide, KI & Reiseplanung (4 Artikel), Kolumbien Reiseguide, Kreuzfahrt Einsteiger, Kreuzfahrt Städte, Kroatien Island Hopping, Langstreckenflug mit Kindern, Laos Reiseguide, Lissabon Off the Beaten, Lounge Zugang, Los Angeles, Luxusreisen günstig, Madeira Reiseguide, Madrid 24h, Malediven Guide, Malta & Gozo Guide, Marokko Roadtrip, Marokko Städteguide, Mauritius Reiseguide, Meilen & Punkte Anfänger, Mexiko Rundreise, Mietwagen (3 Artikel), Mit Hund Europa, Mit Katze reisen Europa, Modena Ferrari, Nachtzüge Europa, Namibia Reiseguide, Nepal Reiseguide & Trekking, Neuseeland Guide, Niederlande Rundreise, Nordlichter 2026, Nur Handgepäck, Oman Reiseguide, Open Jaw Tickets, Osaka vs. Kyoto, Panama Reiseguide, Patagonien 3 Wochen, Pauschalreise vs. Individualreise, Peru Guide, Philippinen Reiseguide, Plastik-frei Reisen, Polen Rundreise, Porto Guide, Portugal Rundreise, Powerbank Regeln, Reise-Packliste, Reisefehler vermeiden, Reisefotografie, Reiseimpfungen Guide, Reisekreditkarte 2026, Reisen kleines Budget, Reisen mit Baby, Reisen mit Teenagern, Reisen nach 60, Reiseversicherung, Riads Marokko, Roadtrip Etappen, Route 66 USA, Ruanda & Gorilla Trekking, Rumänien Reiseguide, Sabbatical planen, Safari Ostafrika, Sansibar Stone Town, Santiago de Compostela, Schönste Strände Europa, Schottland Highlands Roadtrip, Schweden Reiseguide, Schweiz Reise-Highlights, Segelurlaub Einsteiger, Skiurlaub Europa, Skandinavien Rundreise, Slow Travel, Slowenien Guide, Solo Reisen Frauen, Sri Lanka Rundreise, Stopover Tourismus, Südafrika Rundreise, Südkorea 2-Wochen-Route, Südostasien Budget, Surfurlaub Anfänger, Taiwan Reiseguide, Tansania Reiseguide, Tauchen & Schnorcheln, Thailand 2-Wochen-Route, Tokio Foodie, Trinkgeld weltweit, Türkei Road Trip, Ungarn Reiseguide, US Westküste Roadtrip, Usbekistan Seidenstraße, Vegan Reisen, Vietnam 2-Wochen-Route, Visa-on-Arrival Länder, Wann Flüge buchen, Was ist Zercy, Wellness & Spa Reisen, Wien am Wochenende, Wintersonnen Januar, Wohnungstausch, Workation Portugal & Spanien, Workation Steuern, Yoga-Retreats 2026, Zercy Logbook, Zugreisen Europa
 
