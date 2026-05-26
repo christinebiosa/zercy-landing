@@ -429,6 +429,21 @@
     "en": "https://www.zercy.app/en/blog/backpacking-beginners-guide",
     "es": "https://www.zercy.app/es/blog/mochilero-guia-principiantes"
   },
+  "backpacking-europa-route": {
+    "de": "https://www.zercy.app/blog/backpacking-europa-route",
+    "en": "https://www.zercy.app/en/blog/europe-backpacking-route-guide",
+    "es": "https://www.zercy.app/es/blog/mochilero-europa-ruta-guia"
+  },
+  "europe-backpacking-route-guide": {
+    "de": "https://www.zercy.app/blog/backpacking-europa-route",
+    "en": "https://www.zercy.app/en/blog/europe-backpacking-route-guide",
+    "es": "https://www.zercy.app/es/blog/mochilero-europa-ruta-guia"
+  },
+  "mochilero-europa-ruta-guia": {
+    "de": "https://www.zercy.app/blog/backpacking-europa-route",
+    "en": "https://www.zercy.app/en/blog/europe-backpacking-route-guide",
+    "es": "https://www.zercy.app/es/blog/mochilero-europa-ruta-guia"
+  },
   "bahn-vs-flieger-europa-2026": {
     "de": "https://www.zercy.app/blog/bahn-vs-flieger-europa-2026",
     "en": "https://www.zercy.app/en/blog/train-vs-plane-europe-2026",
@@ -994,6 +1009,21 @@
     "en": "https://www.zercy.app/en/blog/theft-prevention-travel-guide",
     "es": "https://www.zercy.app/es/blog/robo-viaje-prevencion-consejos"
   },
+  "digital-detox-urlaub-guide": {
+    "de": "https://www.zercy.app/blog/digital-detox-urlaub-guide",
+    "en": "https://www.zercy.app/en/blog/digital-detox-travel-guide",
+    "es": "https://www.zercy.app/es/blog/desintoxicacion-digital-viaje-guia"
+  },
+  "digital-detox-travel-guide": {
+    "de": "https://www.zercy.app/blog/digital-detox-urlaub-guide",
+    "en": "https://www.zercy.app/en/blog/digital-detox-travel-guide",
+    "es": "https://www.zercy.app/es/blog/desintoxicacion-digital-viaje-guia"
+  },
+  "desintoxicacion-digital-viaje-guia": {
+    "de": "https://www.zercy.app/blog/digital-detox-urlaub-guide",
+    "en": "https://www.zercy.app/en/blog/digital-detox-travel-guide",
+    "es": "https://www.zercy.app/es/blog/desintoxicacion-digital-viaje-guia"
+  },
   "digital-nomad-visum-laender-2026": {
     "de": "https://www.zercy.app/blog/digital-nomad-visum-laender-2026",
     "en": "https://www.zercy.app/en/blog/digital-nomad-visa-countries-2026",
@@ -1203,6 +1233,21 @@
     "de": "https://www.zercy.app/blog/fernwanderwege-welt-top-routen",
     "en": "https://www.zercy.app/en/blog/best-long-distance-hiking-trails-world",
     "es": "https://www.zercy.app/es/blog/mejores-rutas-senderismo-mundo"
+  },
+  "festival-reisen-guide": {
+    "de": "https://www.zercy.app/blog/festival-reisen-guide",
+    "en": "https://www.zercy.app/en/blog/festival-travel-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-festivales-guia"
+  },
+  "festival-travel-guide": {
+    "de": "https://www.zercy.app/blog/festival-reisen-guide",
+    "en": "https://www.zercy.app/en/blog/festival-travel-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-festivales-guia"
+  },
+  "viaje-festivales-guia": {
+    "de": "https://www.zercy.app/blog/festival-reisen-guide",
+    "en": "https://www.zercy.app/en/blog/festival-travel-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-festivales-guia"
   },
   "fiji-pazifik-inselhopping": {
     "de": "https://www.zercy.app/blog/fiji-pazifik-inselhopping",
@@ -1518,6 +1563,21 @@
     "de": "https://www.zercy.app/blog/griechenland-inseln-vergleich",
     "en": "https://www.zercy.app/en/blog/greek-islands-comparison",
     "es": "https://www.zercy.app/es/blog/islas-griegas-comparativa"
+  },
+  "gruppenreisen-organisieren-guide": {
+    "de": "https://www.zercy.app/blog/gruppenreisen-organisieren-guide",
+    "en": "https://www.zercy.app/en/blog/group-travel-tips-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-grupo-organizar-guia"
+  },
+  "group-travel-tips-guide": {
+    "de": "https://www.zercy.app/blog/gruppenreisen-organisieren-guide",
+    "en": "https://www.zercy.app/en/blog/group-travel-tips-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-grupo-organizar-guia"
+  },
+  "viaje-grupo-organizar-guia": {
+    "de": "https://www.zercy.app/blog/gruppenreisen-organisieren-guide",
+    "en": "https://www.zercy.app/en/blog/group-travel-tips-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-grupo-organizar-guia"
   },
   "guatemala-reiseguide-highlights": {
     "de": "https://www.zercy.app/blog/guatemala-reiseguide-highlights",
@@ -2254,6 +2314,21 @@
     "en": "https://www.zercy.app/en/blog/luxury-travel-budget-tips",
     "es": "https://www.zercy.app/es/blog/viaje-lujo-economico-trucos"
   },
+  "luxuszug-reisen-guide": {
+    "de": "https://www.zercy.app/blog/luxuszug-reisen-guide",
+    "en": "https://www.zercy.app/en/blog/luxury-train-travel-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-tren-lujo-guia"
+  },
+  "luxury-train-travel-guide": {
+    "de": "https://www.zercy.app/blog/luxuszug-reisen-guide",
+    "en": "https://www.zercy.app/en/blog/luxury-train-travel-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-tren-lujo-guia"
+  },
+  "viaje-tren-lujo-guia": {
+    "de": "https://www.zercy.app/blog/luxuszug-reisen-guide",
+    "en": "https://www.zercy.app/en/blog/luxury-train-travel-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-tren-lujo-guia"
+  },
   "madeira-reiseguide": {
     "de": "https://www.zercy.app/blog/madeira-reiseguide",
     "en": "https://www.zercy.app/en/blog/madeira-travel-guide",
@@ -2374,6 +2449,21 @@
     "en": "https://www.zercy.app/en/blog/mauritius-travel-guide",
     "es": "https://www.zercy.app/es/blog/mauricio-guia-viaje"
   },
+  "mehrgenerationen-urlaub-guide": {
+    "de": "https://www.zercy.app/blog/mehrgenerationen-urlaub-guide",
+    "en": "https://www.zercy.app/en/blog/multigenerational-travel-guide",
+    "es": "https://www.zercy.app/es/blog/vacaciones-multigeneracional-guia"
+  },
+  "multigenerational-travel-guide": {
+    "de": "https://www.zercy.app/blog/mehrgenerationen-urlaub-guide",
+    "en": "https://www.zercy.app/en/blog/multigenerational-travel-guide",
+    "es": "https://www.zercy.app/es/blog/vacaciones-multigeneracional-guia"
+  },
+  "vacaciones-multigeneracional-guia": {
+    "de": "https://www.zercy.app/blog/mehrgenerationen-urlaub-guide",
+    "en": "https://www.zercy.app/en/blog/multigenerational-travel-guide",
+    "es": "https://www.zercy.app/es/blog/vacaciones-multigeneracional-guia"
+  },
   "meilen-punkte-anfaenger": {
     "de": "https://www.zercy.app/blog/meilen-punkte-anfaenger",
     "en": "https://www.zercy.app/en/blog/miles-points-beginners",
@@ -2449,6 +2539,21 @@
     "en": "https://www.zercy.app/en/blog/rental-car-hidden-costs-avoid",
     "es": "https://www.zercy.app/es/blog/costes-ocultos-alquiler-coche"
   },
+  "mit-freunden-reisen-tipps": {
+    "de": "https://www.zercy.app/blog/mit-freunden-reisen-tipps",
+    "en": "https://www.zercy.app/en/blog/traveling-with-friends-tips",
+    "es": "https://www.zercy.app/es/blog/viajar-amigos-consejos-guia"
+  },
+  "traveling-with-friends-tips": {
+    "de": "https://www.zercy.app/blog/mit-freunden-reisen-tipps",
+    "en": "https://www.zercy.app/en/blog/traveling-with-friends-tips",
+    "es": "https://www.zercy.app/es/blog/viajar-amigos-consejos-guia"
+  },
+  "viajar-amigos-consejos-guia": {
+    "de": "https://www.zercy.app/blog/mit-freunden-reisen-tipps",
+    "en": "https://www.zercy.app/en/blog/traveling-with-friends-tips",
+    "es": "https://www.zercy.app/es/blog/viajar-amigos-consejos-guia"
+  },
   "mit-hund-europa-reisen": {
     "de": "https://www.zercy.app/blog/mit-hund-europa-reisen",
     "en": "https://www.zercy.app/en/blog/traveling-with-dog-europe",
@@ -2488,6 +2593,21 @@
     "de": "https://www.zercy.app/blog/modena-ferrari-museum",
     "en": "https://www.zercy.app/en/blog/modena-ferrari-museum",
     "es": "https://www.zercy.app/es/blog/modena-museo-ferrari"
+  },
+  "motorradreise-europa-guide": {
+    "de": "https://www.zercy.app/blog/motorradreise-europa-guide",
+    "en": "https://www.zercy.app/en/blog/motorcycle-road-trip-europe",
+    "es": "https://www.zercy.app/es/blog/moto-road-trip-europa-guia"
+  },
+  "motorcycle-road-trip-europe": {
+    "de": "https://www.zercy.app/blog/motorradreise-europa-guide",
+    "en": "https://www.zercy.app/en/blog/motorcycle-road-trip-europe",
+    "es": "https://www.zercy.app/es/blog/moto-road-trip-europa-guia"
+  },
+  "moto-road-trip-europa-guia": {
+    "de": "https://www.zercy.app/blog/motorradreise-europa-guide",
+    "en": "https://www.zercy.app/en/blog/motorcycle-road-trip-europe",
+    "es": "https://www.zercy.app/es/blog/moto-road-trip-europa-guia"
   },
   "nachtzuege-europa-2026": {
     "de": "https://www.zercy.app/blog/nachtzuege-europa-2026",
@@ -2658,6 +2778,21 @@
     "de": "https://www.zercy.app/blog/osaka-vs-kyoto",
     "en": "https://www.zercy.app/en/blog/osaka-vs-kyoto",
     "es": "https://www.zercy.app/es/blog/osaka-vs-kyoto"
+  },
+  "paerchen-reise-tipps": {
+    "de": "https://www.zercy.app/blog/paerchen-reise-tipps",
+    "en": "https://www.zercy.app/en/blog/couples-travel-tips-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-pareja-consejos-guia"
+  },
+  "couples-travel-tips-guide": {
+    "de": "https://www.zercy.app/blog/paerchen-reise-tipps",
+    "en": "https://www.zercy.app/en/blog/couples-travel-tips-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-pareja-consejos-guia"
+  },
+  "viaje-pareja-consejos-guia": {
+    "de": "https://www.zercy.app/blog/paerchen-reise-tipps",
+    "en": "https://www.zercy.app/en/blog/couples-travel-tips-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-pareja-consejos-guia"
   },
   "panama-reiseguide-highlights": {
     "de": "https://www.zercy.app/blog/panama-reiseguide-highlights",
@@ -2853,6 +2988,21 @@
     "de": "https://www.zercy.app/blog/priority-boarding-lohnt-sich",
     "en": "https://www.zercy.app/en/blog/priority-boarding-worth-it",
     "es": "https://www.zercy.app/es/blog/embarque-prioritario-vale-la-pena"
+  },
+  "radurlaub-europa-guide": {
+    "de": "https://www.zercy.app/blog/radurlaub-europa-guide",
+    "en": "https://www.zercy.app/en/blog/cycling-holiday-europe-guide",
+    "es": "https://www.zercy.app/es/blog/vacaciones-bici-europa-guia"
+  },
+  "cycling-holiday-europe-guide": {
+    "de": "https://www.zercy.app/blog/radurlaub-europa-guide",
+    "en": "https://www.zercy.app/en/blog/cycling-holiday-europe-guide",
+    "es": "https://www.zercy.app/es/blog/vacaciones-bici-europa-guia"
+  },
+  "vacaciones-bici-europa-guia": {
+    "de": "https://www.zercy.app/blog/radurlaub-europa-guide",
+    "en": "https://www.zercy.app/en/blog/cycling-holiday-europe-guide",
+    "es": "https://www.zercy.app/es/blog/vacaciones-bici-europa-guia"
   },
   "reise-budget-sparen-anleitung": {
     "de": "https://www.zercy.app/blog/reise-budget-sparen-anleitung",
@@ -3419,6 +3569,21 @@
     "en": "https://www.zercy.app/en/blog/solo-travel-women-safe-countries",
     "es": "https://www.zercy.app/es/blog/viaje-solo-mujeres-seguro"
   },
+  "solo-reisen-maenner-guide": {
+    "de": "https://www.zercy.app/blog/solo-reisen-maenner-guide",
+    "en": "https://www.zercy.app/en/blog/solo-travel-men-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-solo-hombres-guia"
+  },
+  "solo-travel-men-guide": {
+    "de": "https://www.zercy.app/blog/solo-reisen-maenner-guide",
+    "en": "https://www.zercy.app/en/blog/solo-travel-men-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-solo-hombres-guia"
+  },
+  "viaje-solo-hombres-guia": {
+    "de": "https://www.zercy.app/blog/solo-reisen-maenner-guide",
+    "en": "https://www.zercy.app/en/blog/solo-travel-men-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-solo-hombres-guia"
+  },
   "sprachbarrieren-reisen-tipps": {
     "de": "https://www.zercy.app/blog/sprachbarrieren-reisen-tipps",
     "en": "https://www.zercy.app/en/blog/language-barriers-travel-tips",
@@ -3433,6 +3598,21 @@
     "de": "https://www.zercy.app/blog/sprachbarrieren-reisen-tipps",
     "en": "https://www.zercy.app/en/blog/language-barriers-travel-tips",
     "es": "https://www.zercy.app/es/blog/barreras-idioma-viaje-consejos"
+  },
+  "sprachreise-erwachsene-guide": {
+    "de": "https://www.zercy.app/blog/sprachreise-erwachsene-guide",
+    "en": "https://www.zercy.app/en/blog/language-immersion-travel-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-inmersion-idiomas-guia"
+  },
+  "language-immersion-travel-guide": {
+    "de": "https://www.zercy.app/blog/sprachreise-erwachsene-guide",
+    "en": "https://www.zercy.app/en/blog/language-immersion-travel-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-inmersion-idiomas-guia"
+  },
+  "viaje-inmersion-idiomas-guia": {
+    "de": "https://www.zercy.app/blog/sprachreise-erwachsene-guide",
+    "en": "https://www.zercy.app/en/blog/language-immersion-travel-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-inmersion-idiomas-guia"
   },
   "sri-lanka-rundreise-route": {
     "de": "https://www.zercy.app/blog/sri-lanka-rundreise-route",
@@ -3478,6 +3658,21 @@
     "de": "https://www.zercy.app/blog/suedafrika-rundreise-route",
     "en": "https://www.zercy.app/en/blog/south-africa-road-trip-route",
     "es": "https://www.zercy.app/es/blog/sudafrica-ruta-completa"
+  },
+  "suedamerika-backpacking-route": {
+    "de": "https://www.zercy.app/blog/suedamerika-backpacking-route",
+    "en": "https://www.zercy.app/en/blog/south-america-backpacking-guide",
+    "es": "https://www.zercy.app/es/blog/mochilero-sudamerica-ruta-guia"
+  },
+  "south-america-backpacking-guide": {
+    "de": "https://www.zercy.app/blog/suedamerika-backpacking-route",
+    "en": "https://www.zercy.app/en/blog/south-america-backpacking-guide",
+    "es": "https://www.zercy.app/es/blog/mochilero-sudamerica-ruta-guia"
+  },
+  "mochilero-sudamerica-ruta-guia": {
+    "de": "https://www.zercy.app/blog/suedamerika-backpacking-route",
+    "en": "https://www.zercy.app/en/blog/south-america-backpacking-guide",
+    "es": "https://www.zercy.app/es/blog/mochilero-sudamerica-ruta-guia"
   },
   "suedkorea-2-wochen-route": {
     "de": "https://www.zercy.app/blog/suedkorea-2-wochen-route",
@@ -3838,6 +4033,21 @@
     "de": "https://www.zercy.app/blog/was-ist-zercy",
     "en": "https://www.zercy.app/en/blog/what-is-zercy",
     "es": "https://www.zercy.app/es/blog/que-es-zercy"
+  },
+  "weinreisen-europa-guide": {
+    "de": "https://www.zercy.app/blog/weinreisen-europa-guide",
+    "en": "https://www.zercy.app/en/blog/wine-travel-europe-guide",
+    "es": "https://www.zercy.app/es/blog/enoturismo-europa-guia"
+  },
+  "wine-travel-europe-guide": {
+    "de": "https://www.zercy.app/blog/weinreisen-europa-guide",
+    "en": "https://www.zercy.app/en/blog/wine-travel-europe-guide",
+    "es": "https://www.zercy.app/es/blog/enoturismo-europa-guia"
+  },
+  "enoturismo-europa-guia": {
+    "de": "https://www.zercy.app/blog/weinreisen-europa-guide",
+    "en": "https://www.zercy.app/en/blog/wine-travel-europe-guide",
+    "es": "https://www.zercy.app/es/blog/enoturismo-europa-guia"
   },
   "wellness-spa-reisen-destinationen": {
     "de": "https://www.zercy.app/blog/wellness-spa-reisen-destinationen",
