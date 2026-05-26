@@ -24,6 +24,54 @@
 - **Format defekt?** Nur in `zercyUrls` ändern, fertig — es gibt keine anderen Stellen.
 
 
+## 🔍 WEBMASTER — Automatische SEO-Aufgaben (IMMER ausführen, nie auf Aufforderung warten)
+
+Claude ist der Webmaster von zercy.app. Folgende Aufgaben laufen **automatisch**, ohne dass Christine danach fragen muss.
+
+### Nach jedem Session-Start (wenn im zercy-landing Kontext)
+```bash
+node scripts/webmaster-report.mjs
+```
+Report lesen und **sofort handeln** bei:
+- Quick Wins (Pos 11–20, ≥5 Impressionen) → Meta Title/Description des Artikels optimieren + deployen
+- CTR < 3% bei Pos ≤ 15 + ≥ 5 Impressionen → Meta Tags fixen
+- Starke Verlierer (≥ 5 Positionen verloren) → Artikel updaten oder neu deployen
+
+### Nach jedem Deploy mit neuen Seiten (PFLICHT, automatisch)
+```bash
+node scripts/submit-indexing.mjs [alle neuen URLs]
+```
+- Max. 200 URLs pro Tag
+- Overflow → in `~/.claude/projects/-Users-christinebork/memory/project_gsc_indexing_queue.md` speichern
+
+### Wöchentlich (montags, beim ersten Session-Start der Woche)
+1. `node scripts/webmaster-report.mjs` ausführen
+2. Top-3-Quick-Wins sofort fixen (Meta Tags)
+3. Neue Queries analysieren → fehlt ein Artikel dazu? → vorschlagen
+4. Report-Zusammenfassung an Christine ausgeben
+
+### CTR-Optimierungs-Regeln (beim Fixen von Meta Tags)
+- Meta Title 45–60 Zeichen, exaktes Keyword möglichst am Anfang
+- Für VS-Artikel: Wort "Comparison/Vergleich/comparación" direkt nach dem Slash
+- Für Positions-Artikel: Zahl/Ergebnis im Titel ("4 Scenarios", "ab 700€")
+- Description 160–200 Zeichen, erste 10 Wörter = Hook (Überraschung oder konkrete Zahl)
+- Kein Em-Dash, kein generisches "Alles was du wissen musst"
+
+### Tools
+| Script | Zweck |
+|---|---|
+| `scripts/webmaster-report.mjs` | Wöchentlicher GSC-Report (Quick Wins, CTR, Gewinner/Verlierer) |
+| `scripts/submit-indexing.mjs url1 url2...` | URLs bei Google Indexing API einreichen (200/Tag) |
+| `scripts/reauth-indexing.mjs` | Einmalig: OAuth-Token mit Indexing-Scope erneuern |
+
+### Credentials
+- OAuth Token: `~/.zercy-analytics/tokens.json` (enthält `indexing` + `webmasters.readonly` + `analytics.readonly`)
+- GSC Property: `sc-domain:zercy.app`
+- GA4 Property: `properties/530287390`
+- Google Cloud: `claude-code-mcp-487718`
+
+---
+
 ## ⛔ VERBOTENE REISEZIELE — IMMER EINHALTEN
 
 **Folgende Destinations kommen NIEMALS in Artikel, City Guides, Empfehlungen, Cross-Links oder Affiliate-CTAs.** Gründe: aktiver Krieg, Sanktionen/Embargo, LGBTQ-Strafgesetze (inkompatibel mit Booking.com-Affiliate-Strategie) oder schwerer politischer Kontext.
@@ -1005,11 +1053,21 @@ Der "Stadtführer / City Guide Finder / Guía de ciudades"-Dropdown auf allen 3 
 - [ ] Google Indexierung ist automatisch (Sitemap mit `lastmod` wird bei jedem Build aktualisiert)
 
 ### Nach dem Schreiben — Deploy + Google Indexierung
-1. `npx astro build` — baut alle Seiten + **generiert automatisch die Sitemap** (`sitemap-index.xml` + `sitemap-0.xml`) mit ALLEN Seiten. Neue Artikel sind automatisch drin.
-2. `npx vercel --prod --force` — deployed alles inkl. neue Sitemap.
-3. **Google findet neue Seiten automatisch**: Die Sitemap enthält `lastmod` mit dem Build-Datum bei jedem Deploy. Google crawlt die Sitemap regelmäßig (typisch 1–3 Tage) und sieht sofort, dass neue URLs drin sind. **Kein manueller Ping nötig** (Google hat den Sitemap-Ping 2023 abgeschaltet).
-4. **Neuen Slug in diese Liste oben eintragen** — damit die nächste Session weiß, dass der Artikel existiert und für interne Verlinkung verfügbar ist.
-5. Bestätigung an Christine: Artikel live auf zercy.app/blog/[slug] und zercy.app/en/blog/[slug]
+
+⚠️ **AUTOMATISCHE PFLICHT: Nach jedem Deploy mit neuen Seiten IMMER Indexing-Script ausführen!**
+
+1. `npx astro build` — baut alle Seiten + generiert Sitemap automatisch.
+2. `npx vercel --prod --force` — deployed alles.
+3. **Google Indexing API — IMMER am Ende der Session ausführen (ohne Aufforderung):**
+   ```bash
+   node scripts/submit-indexing.mjs https://www.zercy.app/blog/[slug] https://www.zercy.app/en/blog/[slug] ...
+   ```
+   - Limit: **200 URLs pro Tag** (nicht mehr, sonst API-Quota überschritten)
+   - Bei mehr als 200 neuen URLs: Die ersten 200 heute einreichen, den Rest in `~/.claude/projects/-Users-christinebork/memory/project_gsc_indexing_queue.md` speichern mit Datum und Slugs — nächste Session zieht das automatisch nach
+   - Gilt für Blog-Artikel (DE/EN/ES), neue Seiten, geänderte Seiten
+   - Skript: `scripts/submit-indexing.mjs` — Token liegt in `~/.zercy-analytics/tokens.json`
+4. **Neuen Slug in die Artikel-Liste eintragen** (damit nächste Session ihn für interne Links nutzen kann).
+5. Bestätigung an Christine: Artikel live + eingereicht.
 
 ### Sitemap & Google Search Console — AUTOMATISCH (nicht manuell pflegen!)
 - **@astrojs/sitemap** ist im `astro.config.mjs` eingebaut (seit 2026-04-17).
