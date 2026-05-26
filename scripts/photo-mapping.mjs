@@ -505,6 +505,8 @@ export const slugToTopic = {
   'thailand-route-2-wochen': 'thailand',
   'thailand-2-week-itinerary': 'thailand',
   'tailandia-2-semanas-ruta': 'thailand',
+  'beste-reisezeit-thailand': 'thailand-seasons',
+  'best-time-to-visit-thailand': 'thailand-seasons',
   // Dubai
   'dubai-reiseguide': 'dubai',
   'dubai-travel-guide': 'dubai',
@@ -595,6 +597,8 @@ export const slugToTopic = {
   'marokko-roadtrip': 'morocco-roadtrip-guide',
   'morocco-road-trip': 'morocco-roadtrip-guide',
   'road-trip-marruecos': 'morocco-roadtrip-guide',
+  'beste-reisezeit-marokko': 'morocco-seasons',
+  'best-time-to-visit-morocco': 'morocco-seasons',
   'kolumbien-reiseguide': 'colombia-guide',
   'colombia-travel-guide': 'colombia-guide',
   'guia-viaje-colombia': 'colombia-guide',
@@ -1096,6 +1100,8 @@ export const slugToTopic = {
   'japan-3-wochen-route': 'japan-route',
   'japan-3-week-route': 'japan-route',
   'japon-3-semanas-ruta': 'japan-route',
+  'beste-reisezeit-japan': 'japan-seasons',
+  'best-time-to-visit-japan': 'japan-seasons',
   'reise-packliste-was-wirklich-rein-kommt': 'packing-list',
   'travel-packing-list-essentials': 'packing-list',
   'lista-equipaje-viaje-esencial': 'packing-list',
@@ -2458,6 +2464,10 @@ export const topicToQuery = {
   'munich-48h': 'munich germany marienplatz city hall bavarian',
   'dubrovnik-48h': 'dubrovnik croatia old town wall adriatic sea',
   'miami-48h': 'miami beach art deco ocean drive south beach',
+  // BATCH Q 2026-05-26 — Beste Reisezeit
+  'thailand-seasons': 'thailand tropical beach clear sky turquoise water',
+  'japan-seasons': 'japan cherry blossom spring sakura pink flowers',
+  'morocco-seasons': 'morocco desert camel sahara dunes sunset',
   // BATCH P 2026-05-26 — Themen
   'etias-guide': 'travel passport visa documents stamps',
   'flight-search-comparison': 'laptop flight search booking compare screen',
