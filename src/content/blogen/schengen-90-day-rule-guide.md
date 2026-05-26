@@ -62,7 +62,7 @@ If you are caught at a border crossing with an expired right of stay, you face s
 
 **Fine:** Multiple Schengen countries impose financial penalties. The amount varies by country. In Switzerland it can be several hundred francs. Other countries have similar amounts.
 
-**ETIAS flag on your record:** Starting in 2026, ETIAS becomes mandatory for non-EU citizens from visa-exempt countries. Anyone who has violated the 90/180-day rule may face issues when applying. The data is stored centrally.
+**ETIAS flag on your record:** ETIAS is planned to become mandatory for non-EU citizens from visa-exempt countries, with a target window of 2026 or 2027 (the launch date has been postponed multiple times). Anyone who has violated the 90/180-day rule may face issues when applying. The data will be stored centrally.
 
 One more thing worth knowing: the EU Entry/Exit System (EES) is coming. When it goes live, every entry and exit will be recorded digitally. Border checks will become automatic. Anyone who has relied on poorly stamped passports in the past will find that approach no longer works.
 
@@ -110,7 +110,7 @@ In general, yes. If you drive through France or make a stopover there, that coun
 
 ### What is ETIAS and does it apply to everyone from 2026?
 
-ETIAS is a travel authorization for non-EU citizens from visa-exempt countries. Anyone currently entering the Schengen Area visa-free will need to register with ETIAS before traveling starting in 2026. The 90/180-day rule still applies on top of that. More details in the [ETIAS 2026 Guide](/en/blog/etias-2026-eu-entry-guide).
+ETIAS is a travel authorization for non-EU citizens from visa-exempt countries. The launch date has been postponed repeatedly and currently targets 2026 or 2027. Once it goes live, anyone entering the Schengen Area visa-free will need to register in advance. The 90/180-day rule still applies on top of that. More details in the [ETIAS 2026 Guide](/en/blog/etias-2026-eu-entry-guide).
 
 ### Can I move between Schengen countries to reset my days?
 

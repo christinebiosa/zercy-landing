@@ -62,7 +62,7 @@ Si te encuentran en un paso fronterizo con el permiso de estadía vencido, enfre
 
 **Multa:** Varios países Schengen aplican sanciones económicas. El monto varía según el país. En Suiza puede llegar a varios cientos de francos. En otros países las cifras son similares.
 
-**Marca en tu historial ETIAS:** A partir de 2026, ETIAS será obligatorio para ciudadanos no pertenecientes a la UE de países exentos de visa. Quienes hayan violado la regla 90/180 podrían tener problemas al solicitar la autorización. Los datos se almacenan de forma centralizada.
+**Marca en tu historial ETIAS:** ETIAS está previsto como sistema obligatorio para ciudadanos no pertenecientes a la UE de países exentos de visa. La fecha de lanzamiento se ha aplazado varias veces y el objetivo actual apunta a 2026 o 2027. Quienes hayan violado la regla 90/180 podrían tener problemas al solicitar la autorización. Los datos se almacenarán de forma centralizada.
 
 Un punto más que vale la pena conocer: el Sistema de Entrada y Salida (EES) de la UE está en camino. Cuando entre en vigor, todas las entradas y salidas quedarán registradas digitalmente. Los controles en frontera serán automáticos. Quienes confiaban en sellos poco claros en el pasaporte ya no podrán hacerlo.
 
@@ -110,7 +110,7 @@ En general, sí. Si cruzás Francia en auto o hacés una escala allí, eso cuent
 
 ### ¿Qué es ETIAS y aplica para todos a partir de 2026?
 
-ETIAS es una autorización de viaje para ciudadanos no pertenecientes a la UE de países exentos de visa. Quienes actualmente entran al espacio Schengen sin visa deberán registrarse en ETIAS antes de viajar a partir de 2026. La regla 90/180 días sigue aplicando igual. Más detalles en la [Guía ETIAS 2026](/es/blog/etias-2026-guia).
+ETIAS es una autorización de viaje para ciudadanos no pertenecientes a la UE de países exentos de visa. La fecha de lanzamiento se ha pospuesto en varias ocasiones y actualmente apunta a 2026 o 2027. Una vez que entre en vigor, quienes viajan sin visa deberán registrarse con antelación. La regla 90/180 días sigue aplicando igual. Más detalles en la [Guía ETIAS 2026](/es/blog/etias-2026-guia).
 
 ### ¿Puedo cambiar entre países Schengen para resetear mis días?
 

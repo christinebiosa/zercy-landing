@@ -62,7 +62,7 @@ Wenn du beim Grenzübertritt mit einem abgelaufenen Aufenthaltsrecht erwischt wi
 
 **Bußgeld:** Mehrere Schengen-Länder verhängen Geldstrafen. Die Höhe ist je nach Land unterschiedlich. In der Schweiz können es mehrere Hundert Franken sein, in anderen Ländern ähnliche Beträge.
 
-**ETIAS-Sperrvermerk:** Ab 2026 wird ETIAS als Einreisesystem für Nicht-EU-Bürger eingeführt. Wer gegen die 90/180-Regel verstoßen hat, bekommt beim ETIAS-Antrag möglicherweise Probleme. Die Daten werden zentral gespeichert.
+**ETIAS-Sperrvermerk:** ETIAS soll als Einreisesystem für Nicht-EU-Bürger aus visafreien Ländern eingeführt werden. Der Starttermin wurde mehrfach verschoben, aktuell wird mit 2026 oder 2027 gerechnet. Wer gegen die 90/180-Regel verstoßen hat, bekommt beim ETIAS-Antrag möglicherweise Probleme. Die Daten werden zentral gespeichert.
 
 Ein weiterer Punkt: Das Entry/Exit System (EES) der EU soll bald in Kraft treten. Dann werden alle Einreisen und Ausreisen digital erfasst. Kontrollen an der Grenze werden automatisch. Wer bisher auf schlecht gestempelte Pässe gesetzt hat, wird das nicht mehr können.
 
@@ -110,7 +110,7 @@ Grundsätzlich ja. Wenn du durch Frankreich fährst oder dort einen Zwischenstop
 
 ### Was ist ETIAS und gilt es ab 2026 für alle?
 
-ETIAS ist eine Reisegenehmigung für Nicht-EU-Bürger aus visafreien Ländern. Wer bisher visafrei in den Schengenraum einreisen durfte, muss sich ab 2026 vorab über ETIAS registrieren. Die 90/180-Regel gilt weiterhin. Mehr dazu im [ETIAS 2026 Guide](/blog/etias-2026-guide).
+ETIAS ist eine Reisegenehmigung für Nicht-EU-Bürger aus visafreien Ländern. Der Starttermin wurde mehrfach verschoben und liegt derzeit im Bereich 2026 bis 2027. Sobald ETIAS in Kraft ist, müssen visafreie Reisende sich vorab registrieren. Die 90/180-Regel gilt weiterhin. Mehr dazu im [ETIAS 2026 Guide](/blog/etias-2026-guide).
 
 ### Kann ich zwischen Schengen-Ländern wechseln um die Tage zurückzusetzen?
 
