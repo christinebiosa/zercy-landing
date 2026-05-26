@@ -1,6 +1,6 @@
 ---
 title: "Südkorea 2 Wochen: Die perfekte Route für Erstbesucher"
-metaTitle: "Südkorea 2 Wochen Route 2026 | Zercy"
+metaTitle: "Südkorea 2 Wochen Route 2026: Tipps & Infos | Zercy"
 description: "Südkorea in 2 Wochen: Seoul, Busan, Gyeongju und Jejudo. Die beste Route, Reisezeit, Kosten und praktische Tipps für deine Korea-Reise 2026. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"

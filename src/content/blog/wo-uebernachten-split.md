@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Split: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Split: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Split: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Split hat 5 Stadtteile: Stari Grad mitten im Palast, Manuš ruhig dahinter, Spinut mit Strand, Žnjan Strandhotels, Trogir-Korridor für Inselausflüge. Finde deinen Fit."
 pubDate: 2026-05-11
 category: "Wo übernachten"

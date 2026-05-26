@@ -1,6 +1,6 @@
 ---
 title: "Netherlands Road Trip Route: Amsterdam, Keukenhof and the Best Route"
-metaTitle: "Netherlands Road Trip Route 2026: Amsterdam to Rotterdam | Zercy"
+metaTitle: "Netherlands Road Trip Route 2026: Amsterdam to | Zercy"
 description: "Plan your Netherlands road trip: Amsterdam, Keukenhof tulip fields, Rotterdam architecture, Delft, and The Hague. The best route and why a bicycle is mandatory."
 pubDate: 2026-05-14
 category: "Off the Map"

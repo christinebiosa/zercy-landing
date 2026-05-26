@@ -1,6 +1,6 @@
 ---
 title: "Japan mit kleinem Budget bereisen: Tipps für 2026"
-metaTitle: "Japan günstig reisen 2026: Budget-Tipps die funktionieren | Zercy"
+metaTitle: "Japan günstig reisen 2026: Budget-Tipps | Zercy"
 description: "Japan teuer? Nicht wenn du weißt wo. Kapselhotel ab 20 Euro, Mahlzeit für 4 Euro im 7-Eleven, Tempel kostenlos. Tagesbudget ab 65 Euro mit konkreten Spar-Tricks 2026."
 pubDate: 2026-05-25
 category: "Fernweh"

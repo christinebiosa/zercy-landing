@@ -1,7 +1,7 @@
 ---
 title: "Direktflug oder Umsteigen: Wann lohnt sich was?"
 metaTitle: "Direktflug vs. Umsteigen: Wann lohnt es sich? | Zercy"
-description: "Umsteigeflüge sind auf langen Strecken bis zu 60% günstiger. Aber wann lohnt sich das Sparen wirklich? Konkrete Entscheidungshilfe mit echten Preisbeispielen."
+description: "Umsteigeflüge sind auf langen Strecken bis zu 60% günstiger. Aber wann lohnt sich das Sparen wirklich? Konkrete Entscheidungshilfe mit echten Preisbeispielen Jetzt lesen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 7

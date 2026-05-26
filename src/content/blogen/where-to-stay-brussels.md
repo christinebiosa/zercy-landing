@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Brussels: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Brussels: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Brussels: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Brussels has 5 distinct neighborhoods: Grand Place for first-timers, Ixelles for style, Saint-Gilles for Art Nouveau, Uccle for quiet, Molenbeek for budget. Find your fit."
 pubDate: 2026-05-09
 category: "Where to Stay"

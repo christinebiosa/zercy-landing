@@ -1,7 +1,7 @@
 ---
 title: "Senderismo para principiantes: Las mejores rutas mundiales 2026"
-metaTitle: "Senderismo principiantes 2026: Mejores rutas mundiales | Zercy"
-description: "Camino de Santiago, Annapurna, Inca Trail Light: Las 7 mejores rutas de senderismo para principiantes. Con lista de equipo, costes desde 25 euros diarios."
+metaTitle: "Senderismo principiantes 2026: Mejores rutas | Zercy"
+description: "Camino de Santiago, Annapurna, Inca Trail Light: Las 7 mejores rutas de senderismo para principiantes. Con lista de equipo, costes desde 25 euros diarios Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Lugares lejanos"
 readingTime: 9

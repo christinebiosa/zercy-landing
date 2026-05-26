@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Oaxaca: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Oaxaca: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Oaxaca: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Oaxaca has 5 distinct neighborhoods: Historic Centre for best location, Jalatlaco for cobblestone charm, Colonia Reforma for locals, San Felipe del Agua for luxury and quiet."
 pubDate: 2026-05-09
 category: "Where to Stay"

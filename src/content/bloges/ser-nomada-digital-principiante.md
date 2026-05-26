@@ -1,6 +1,6 @@
 ---
 title: "Ser nómada digital: Lo que realmente necesitas saber"
-metaTitle: "Ser nómada digital: Guía honesta para principiantes 2026 | Zercy"
+metaTitle: "Ser nómada digital: Guía honesta para principiantes | Zercy"
 description: "Cómo convertirte en nómada digital sin cometer los errores típicos. Asegurar trabajo remoto, construir ahorros, elegir bien el primer destino. Sin hype de Instagram, solo hechos."
 pubDate: 2026-05-25
 category: "Viaje inteligente"

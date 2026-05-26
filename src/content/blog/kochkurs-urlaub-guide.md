@@ -1,7 +1,7 @@
 ---
 title: "Kochkurs im Urlaub: Das authentischste Kulturerlebnis"
 metaTitle: "Kochkurs im Urlaub: So buchst du richtig | Zercy"
-description: "Warum ein Kochkurs im Urlaub mehr bringt als jede Stadtführung. Die besten Destinationen, Plattformen und Tipps für Halbtagskurs vs. Ganztag."
+description: "Warum ein Kochkurs im Urlaub mehr bringt als jede Stadtführung. Die besten Destinationen, Plattformen und Tipps für Halbtagskurs vs. Ganztag Alle Infos für deine Reise kompakt zusammengefasst."
 heroImage: "/img/blog/cooking-class-travel.jpg"
 pubDate: 2026-05-25
 category: "Geheimtipps"

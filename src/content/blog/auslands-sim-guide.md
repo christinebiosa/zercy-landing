@@ -1,6 +1,6 @@
 ---
 title: "SIM-Karte im Ausland: Der ehrliche Guide 2026"
-metaTitle: "SIM-Karte im Ausland: Guide 2026 | Zercy"
+metaTitle: "SIM-Karte im Ausland: Guide 2026 Tipps & Infos | Zercy"
 description: "eSIM vs. lokale SIM vs. EU-Roaming: Dieser Guide vergleicht alle Optionen ehrlich, nennt Kosten pro GB und zeigt, wann sich Airalo wirklich lohnt. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-09
 category: "Clever Reisen"

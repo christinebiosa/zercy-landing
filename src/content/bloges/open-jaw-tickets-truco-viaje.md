@@ -1,6 +1,6 @@
 ---
 title: "Open-jaw tickets: el truco para volar más y pagar menos"
-metaTitle: "Open-jaw tickets: volar a dos destinos por menos dinero | Zercy"
+metaTitle: "Open-jaw tickets: volar a dos destinos por menos | Zercy"
 description: "¿Qué es un open-jaw ticket? Cómo llegar a un destino y regresar desde otro para ver más y pagar menos. Explicación, ejemplos y cómo buscarlo en 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Consejos de viaje"

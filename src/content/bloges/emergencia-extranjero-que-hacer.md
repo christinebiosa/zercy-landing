@@ -1,7 +1,7 @@
 ---
 title: "Emergencia en el extranjero: Qué hacer ante accidente, enfermedad o pasaporte perdido"
 metaTitle: "Emergencia extranjero 2026: Qué hacer de inmediato | Zercy"
-description: "Urgencias, pasaporte perdido, sin dinero: Qué hacer en cada emergencia de viaje. Números de emergencia mundiales, contactar tu embajada, paso a paso."
+description: "Urgencias, pasaporte perdido, sin dinero: Qué hacer en cada emergencia de viaje. Números de emergencia mundiales, contactar tu embajada, paso a paso Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Consejos de viaje"
 readingTime: 8

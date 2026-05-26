@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Brisbane: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Brisbane: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Brisbane: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Brisbane hat 5 Stadtteile mit ganz unterschiedlichem Charakter: CBD/South Bank, Fortitude Valley, New Farm, Paddington und Kangaroo Point. Hier findest du deinen Fit."
 pubDate: 2026-05-11
 category: "Wo übernachten"

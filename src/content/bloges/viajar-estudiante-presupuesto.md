@@ -1,7 +1,7 @@
 ---
 title: "Viajar por Europa siendo Estudiante: Menos de 500€ por Viaje"
 metaTitle: "Viajar Europa como Estudiante: Guía Budget | Zercy"
-description: "Viajar por Europa con poco dinero es posible. Presupuestos reales, cuándo reservar vuelos, actividades gratis y apps imprescindibles desde 300€ por viaje."
+description: "Viajar por Europa con poco dinero es posible. Presupuestos reales, cuándo reservar vuelos, actividades gratis y apps imprescindibles desde 300€ por viaje Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 8

@@ -1,6 +1,6 @@
 ---
 title: "7 Orte in Europa, die kaum jemand auf dem Radar hat"
-metaTitle: "Geheimtipps Europa: 7 Orte abseits | Zercy"
+metaTitle: "Geheimtipps Europa: 7 Orte abseits Ratgeber 2026 | Zercy"
 description: "Keine Kreuzfahrtschiffe, keine Instagram-Warteschlangen, keine Preise die nach oben gezogen wurden. Diese 7 Orte haben alles – und noch kaum jemand weiß es. Mit konkreten Praxistipps."
 pubDate: 2026-03-26
 category: "Geheimtipps"

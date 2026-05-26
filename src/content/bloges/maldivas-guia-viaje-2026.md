@@ -1,6 +1,6 @@
 ---
 title: "Maldivas 2026: guía de viaje completa, costos y alternativas"
-metaTitle: "Guía Maldivas 2026: costos reales, cuándo ir y alternativas | Zercy"
+metaTitle: "Guía Maldivas 2026: costos reales, cuándo ir | Zercy"
 description: "Guía de viaje a las Maldivas 2026: qué cuesta realmente el viaje, cuándo ir, qué islas elegir y cuáles son las mejores alternativas si el presupuesto no alcanza."
 pubDate: 2026-05-09
 category: "Lugares lejanos"

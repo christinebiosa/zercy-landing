@@ -1,7 +1,7 @@
 ---
 title: "Hamam: Das türkische Bad erleben — was dich wirklich erwartet"
 metaTitle: "Hamam Guide: Türkisches Bad erleben 2026 | Zercy"
-description: "Hamam in Istanbul, Marrakech oder Budapest: Was passiert wirklich? Schritt für Schritt erklärt, was es kostet, was du anziehst und was du vorher wissen musst."
+description: "Hamam in Istanbul, Marrakech oder Budapest: Was passiert wirklich? Schritt für Schritt erklärt, was es kostet, was du anziehst und was du vorher wissen musst Jetzt lesen."
 pubDate: 2026-05-26
 category: "Geheimtipps"
 readingTime: 7

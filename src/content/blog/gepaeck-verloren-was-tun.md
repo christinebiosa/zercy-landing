@@ -1,6 +1,6 @@
 ---
 title: "Gepäck verloren: Was sofort tun und wie viel Entschädigung"
-metaTitle: "Gepäck verloren was tun 2026: Rechte und Entschädigung | Zercy"
+metaTitle: "Gepäck verloren was tun 2026: Rechte & Entschädigung | Zercy"
 description: "Koffer weg am Flughafen? PIR-Formular ausfüllen, 21 Tage warten, dann bis zu 1.700 Euro Entschädigung. Was du sofort tun musst und wie du Notfall-Einkäufe erstattst."
 pubDate: 2026-05-25
 category: "Reisetipps"

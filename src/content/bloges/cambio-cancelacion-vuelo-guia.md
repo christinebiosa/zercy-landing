@@ -1,7 +1,7 @@
 ---
 title: "Cambiar o cancelar tu vuelo: La guía completa"
 metaTitle: "Cambiar o cancelar vuelo: Guía completa | Zercy"
-description: "¿Cuándo es gratis cambiar el vuelo? ¿Cuándo te devuelven el dinero? Todo sobre tarifas flex, derechos EU261, seguros de viaje y cómo actuar paso a paso."
+description: "¿Cuándo es gratis cambiar el vuelo? ¿Cuándo te devuelven el dinero? Todo sobre tarifas flex, derechos EU261, seguros de viaje y cómo actuar paso a paso Toda la información para tu próximo viaje."
 heroImage: "/img/blog/flight-rebooking.jpg"
 pubDate: 2026-05-25
 category: "Viaje inteligente"

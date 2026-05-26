@@ -1,7 +1,7 @@
 ---
 title: "Guía de Street Food para Viajeros: Come el Mundo por Poco"
-metaTitle: "Guía Street Food para Viajeros 2026 | Zercy"
-description: "La mejor comida de tu viaje no estará en un restaurante. Nuestra guía de street food te muestra los mejores países, cómo encontrarlo y comer sin riesgos."
+metaTitle: "Guía Street Food para Viajeros 2026: Guía Completa | Zercy"
+description: "La mejor comida de tu viaje no estará en un restaurante. Nuestra guía de street food te muestra los mejores países, cómo encontrarlo y comer sin riesgos Toda la información para tu próximo viaje."
 heroImage: "/img/blog/street-food-travel.jpg"
 pubDate: 2026-05-25
 category: "Joyas ocultas"

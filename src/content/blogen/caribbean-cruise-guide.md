@@ -1,7 +1,7 @@
 ---
 title: "Caribbean Cruise Guide 2026: Routes, Costs and Best Time to Go"
 metaTitle: "Caribbean Cruise Guide 2026: Routes & Costs | Zercy"
-description: "Eastern, Western or Southern Caribbean? Which route suits you, which cruise line fits your style, what it actually costs, and the best time to go in 2026."
+description: "Eastern, Western or Southern Caribbean? Which route suits you, which cruise line fits your style, what it actually costs, and the best time to go in 2026 Read more."
 heroImage: "/img/blog/caribbean-cruise.jpg"
 pubDate: 2026-05-26
 category: "Off the Map"

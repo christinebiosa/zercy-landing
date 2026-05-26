@@ -1,6 +1,6 @@
 ---
 title: "Panamá: Guía de viaje con el Canal, Casco Viejo, San Blas y Bocas del Toro"
-metaTitle: "Panamá Guía de Viaje 2026: Canal, San Blas y Bocas del Toro | Zercy"
+metaTitle: "Panamá Guía de Viaje 2026: Canal, San Blas y Bocas | Zercy"
 description: "Descubre Panamá: las esclusas de Miraflores del Canal de Panamá, Ciudad de Panamá con Casco Viejo, las Islas San Blas de los Kuna Yala, Bocas del Toro y el café de Boquete."
 pubDate: 2026-05-14
 category: "Lugares lejanos"

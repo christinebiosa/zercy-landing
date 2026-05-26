@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Riga: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Riga: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Riga: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Riga has 5 neighborhoods: Vecrīga UNESCO old town, Centrs Art Nouveau, Āgenskalns local and quiet, Klusais Centrs elegant, Teika modern and affordable. Find your fit."
 pubDate: 2026-05-11
 category: "Where to Stay"

@@ -1,7 +1,7 @@
 ---
 title: "Schengen 90-Day Rule: How It Actually Works"
 metaTitle: "Schengen 90-Day Rule 2026: Simply Explained | Zercy"
-description: "The Schengen 90/180-day rule explained clearly: how to count your days, what happens if you overstay, and which countries are outside the Schengen Area."
+description: "The Schengen 90/180-day rule explained clearly: how to count your days, what happens if you overstay, and which countries are outside the Schengen Area Read more."
 pubDate: 2026-05-26
 category: "Smart Travel"
 readingTime: 7

@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Quito: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Quito 2026: Where to Stay | Zercy"
+metaTitle: "Hotels Quito 2026: Where to Stay Tips & Guide | Zercy"
 description: "Quito hotels 2026: Centro Histórico for culture, La Mariscal for backpackers, La Floresta for foodies. Best neighborhoods, top picks and booking tips for Ecuador."
 pubDate: 2026-05-15
 category: "Where to Stay"

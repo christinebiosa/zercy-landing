@@ -1,7 +1,7 @@
 ---
 title: "Wine Travel Europe: The 6 Best Wine Regions to Visit"
 metaTitle: "Wine Travel Europe: Best Wine Regions | Zercy"
-description: "Bordeaux, Tuscany, Rioja, Mosel, Douro Valley, Burgenland: the 6 best wine regions in Europe for real wine travel with vineyard stays, harvests, and tastings."
+description: "Bordeaux, Tuscany, Rioja, Mosel, Douro Valley, Burgenland: the 6 best wine regions in Europe for real wine travel with vineyard stays, harvests, and tastings Read more."
 heroImage: "/img/blog/wine-travel-europe.jpg"
 pubDate: 2026-05-25
 category: "Hidden Gems"

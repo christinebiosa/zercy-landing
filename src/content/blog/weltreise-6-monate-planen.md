@@ -1,7 +1,7 @@
 ---
 title: "Weltreise 6 Monate planen: Der komplette Guide"
 metaTitle: "Weltreise 6 Monate planen: So fängst du an | Zercy"
-description: "Kosten, Route, Versicherung, Kündigung: Alles was du für deine 6-Monate-Weltreise wissen musst. Mit konkreten Zahlen und ehrlichen Tipps zum Start."
+description: "Kosten, Route, Versicherung, Kündigung: Alles was du für deine 6-Monate-Weltreise wissen musst. Mit konkreten Zahlen und ehrlichen Tipps zum Start Tipps, Kosten und alles was du wissen musst."
 pubDate: 2026-05-25
 category: "Fernweh"
 readingTime: 11

@@ -1,6 +1,6 @@
 ---
 title: "Bangkok in 3 Days: The Perfect Short Trip Itinerary"
-metaTitle: "Bangkok in 3 Days: Perfect Itinerary | Zercy"
+metaTitle: "Bangkok in 3 Days: Perfect Itinerary Tips 2026 | Zercy"
 description: "Bangkok in 3 days: temple triangle, Chatuchak, Chinatown, and a rooftop bar. With BTS tips, real prices, and an itinerary that works without rushing. Everything you need to know."
 pubDate: 2026-05-09
 category: "Off the Map"

@@ -1,6 +1,6 @@
 ---
 title: "Patagonia en 3 semanas: la ruta completa por Argentina y Chile"
-metaTitle: "Patagonia 2026: ruta de 3 semanas, parques y logística | Zercy"
+metaTitle: "Patagonia 2026: ruta de 3 semanas, parques | Zercy"
 description: "La ruta completa por la Patagonia argentina y chilena en 21 días. Torres del Paine, El Chaltén, Perito Moreno, Carretera Austral. Logística, presupuesto y temporadas."
 pubDate: 2026-05-08
 category: "Lugares lejanos"

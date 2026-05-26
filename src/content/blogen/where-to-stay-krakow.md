@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Krakow: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Krakow Hotels: Where to Stay 2026 | Zercy"
+metaTitle: "Krakow Hotels: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Old Town or Kazimierz? The best hotels in Krakow by neighborhood. Honest picks for history lovers, budget travelers and Schindler's Factory visitors. Honest picks for every budget."
 pubDate: 2026-05-09
 category: "Where to Stay"

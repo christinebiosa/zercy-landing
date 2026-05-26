@@ -1,7 +1,7 @@
 ---
 title: "Regla de los 90 días Schengen: Cómo funciona realmente"
 metaTitle: "Regla 90 días Schengen 2026: Explicada fácil | Zercy"
-description: "La regla 90/180 días Schengen explicada con claridad: cómo contar los días, qué pasa si te quedas más tiempo y qué países están fuera del espacio Schengen."
+description: "La regla 90/180 días Schengen explicada con claridad: cómo contar los días, qué pasa si te quedas más tiempo y qué países están fuera del espacio Schengen Toda la información para tu próximo viaje."
 pubDate: 2026-05-26
 category: "Viaje inteligente"
 readingTime: 7

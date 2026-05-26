@@ -1,6 +1,6 @@
 ---
 title: "Notfall im Ausland: Was tun bei Unfall, Krankheit oder Passkonfiskation"
-metaTitle: "Notfall Ausland 2026: Was sofort tun? Schritt-für-Schritt | Zercy"
+metaTitle: "Notfall Ausland 2026: Was sofort tun? | Zercy"
 description: "Notaufnahme, Pass verloren, Geld weg: Was du bei jedem Reise-Notfall sofort tun musst. Notrufnummern weltweit, Deutsche Botschaft kontaktieren, Schritt-für-Schritt."
 pubDate: 2026-05-25
 category: "Reisetipps"

@@ -1,6 +1,6 @@
 ---
 title: "Dominican Republic Travel Guide: Punta Cana, Santo Domingo, and Samaná"
-metaTitle: "Dominican Republic Travel Guide 2026: Punta Cana & More | Zercy"
+metaTitle: "Dominican Republic Travel Guide 2026: Punta Cana | Zercy"
 description: "Discover the Dominican Republic: Punta Cana all-inclusive, Santo Domingo oldest capital in the Americas, Samaná humpback whales, Las Terrenas, and Jarabacoa mountains."
 pubDate: 2026-05-14
 category: "Off the Map"

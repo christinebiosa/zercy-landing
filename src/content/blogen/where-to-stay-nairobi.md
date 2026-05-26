@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Nairobi: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Nairobi Hotels: Where to Stay 2026 | Zercy"
+metaTitle: "Nairobi Hotels: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Karen or Westlands? The best Nairobi hotels by neighborhood. Honest picks for safari travelers, business visitors and first-time East Africa visitors. Honest picks for every budget."
 pubDate: 2026-05-09
 category: "Where to Stay"

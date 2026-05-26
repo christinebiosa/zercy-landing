@@ -1,7 +1,7 @@
 ---
 title: "Barcelona vs. Madrid: Which City Should You Visit First?"
 metaTitle: "Barcelona vs. Madrid: Which City Is Worth It? | Zercy"
-description: "Barcelona or Madrid? Madrid is 10-20% cheaper, Barcelona has the beach. We break down which Spanish capital fits your trip better, with real numbers."
+description: "Barcelona or Madrid? Madrid is 10-20% cheaper, Barcelona has the beach. We break down which Spanish capital fits your trip better, with real numbers Tips, costs, and everything you need to know."
 pubDate: 2026-05-25
 category: "On the Move"
 readingTime: 8

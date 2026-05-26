@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Nice: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Nice: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Nice: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Nice has 5 distinct neighborhoods: Vieux-Nice with market and Socca, Promenade for luxury, Cimiez quiet, Carré d'Or for shopping, Le Port authentic and cheaper. Find your fit."
 pubDate: 2026-05-11
 category: "Where to Stay"

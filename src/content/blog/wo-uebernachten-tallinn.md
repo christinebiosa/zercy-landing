@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Tallinn: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Tallinn: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Tallinn: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Tallinn hat 5 Stadtteile: Vanalinn mittelalterlich, Kalamaja hip und lokal, Telliskivi kreativ, Kadriorg ruhig und kulturreich, Pirita am Strand. Finde deinen Fit."
 pubDate: 2026-05-11
 category: "Wo übernachten"

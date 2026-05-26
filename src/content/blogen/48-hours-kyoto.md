@@ -1,7 +1,7 @@
 ---
 title: "48 Hours in Kyoto: Your Perfect Weekend Guide 2026"
 metaTitle: "48 Hours in Kyoto: Perfect Weekend Guide 2026 | Zercy"
-description: "Kyoto in 48 hours: Fushimi Inari at dawn, Arashiyama bamboo grove, Gion lantern-lit streets, and a Kinkakuji finish. Your complete weekend itinerary for 2026."
+description: "Kyoto in 48 hours: Fushimi Inari at dawn, Arashiyama bamboo grove, Gion lantern-lit streets, and a Kinkakuji finish. Your complete weekend itinerary for 2026 Read more."
 pubDate: 2026-05-26
 category: "On the Move"
 readingTime: 7

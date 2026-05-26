@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Brüssel: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Brüssel: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Brüssel: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Brüssel hat 5 sehr unterschiedliche Stadtteile: Grand Place touristisch, Ixelles stylish, Saint-Gilles Jugendstil, Uccle ruhig, Molenbeek günstig. Wo passt du hin?"
 pubDate: 2026-05-09
 category: "Wo übernachten"

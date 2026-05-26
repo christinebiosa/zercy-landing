@@ -1,6 +1,6 @@
 ---
 title: "International Driving License: Do You Actually Need One?"
-metaTitle: "International Driving License Guide | Zercy"
+metaTitle: "International Driving License Guide: Tips 2026 | Zercy"
 description: "Do you need an international driving license? Find out which countries require one, what it costs, how to get it fast, and what happens if you drive without it."
 heroImage: "/img/blog/international-driving-license.jpg"
 pubDate: 2026-05-25

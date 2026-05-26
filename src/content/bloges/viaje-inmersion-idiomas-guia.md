@@ -1,7 +1,7 @@
 ---
 title: "Viaje de Inmersión Lingüística para Adultos: ¿Vale la Pena?"
 metaTitle: "Viaje de Inmersión Lingüística para Adultos: Guía | Zercy"
-description: "¿Estás pensando en un viaje de inmersión lingüística? Descubre dónde ir, cuánto cuesta, qué tan rápido vas a progresar y consejos para adultos con poco tiempo."
+description: "¿Estás pensando en un viaje de inmersión lingüística? Descubre dónde ir, cuánto cuesta, qué tan rápido vas a progresar y consejos para adultos con poco tiempo Más información."
 heroImage: "/img/blog/language-immersion-travel.jpg"
 pubDate: 2026-05-25
 category: "Viaje inteligente"

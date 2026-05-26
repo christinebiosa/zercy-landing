@@ -1,7 +1,7 @@
 ---
 title: "Reiserücktrittsversicherung: Lohnt sie sich und wann zahlt sie?"
 metaTitle: "Reiserücktrittsversicherung 2026: Lohnt sie sich? | Zercy"
-description: "3 bis 8 Prozent des Reisepreises für Reiserücktrittsschutz. Wann die Versicherung zahlt, wann nicht, welche Klauseln wichtig sind und wann du sie brauchst."
+description: "3 bis 8 Prozent des Reisepreises für Reiserücktrittsschutz. Wann die Versicherung zahlt, wann nicht, welche Klauseln wichtig sind und wann du sie brauchst Jetzt lesen."
 pubDate: 2026-05-25
 category: "Reisetipps"
 readingTime: 7

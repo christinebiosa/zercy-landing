@@ -1,7 +1,7 @@
 ---
 title: "Reisen mit Kleinkind unter 3: Was wirklich klappt"
-metaTitle: "Reisen mit Kleinkind unter 3 | Zercy"
-description: "Kleinkind unter 3 und Urlaub planen? Hier steht, was wirklich funktioniert: von Flug-Tipps über Gepäck bis zu den besten Destinationen für Familien."
+metaTitle: "Reisen mit Kleinkind unter 3: Tipps & Infos 2026 | Zercy"
+description: "Kleinkind unter 3 und Urlaub planen? Hier steht, was wirklich funktioniert: von Flug-Tipps über Gepäck bis zu den besten Destinationen für Familien Jetzt lesen."
 pubDate: 2026-05-25
 category: "Reisetipps"
 readingTime: 9

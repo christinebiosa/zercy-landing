@@ -1,7 +1,7 @@
 ---
 title: "Clase de Cocina en Vacaciones: La Experiencia Cultural Más Auténtica"
 metaTitle: "Clase de Cocina en Vacaciones: Guía Completa | Zercy"
-description: "Por qué una clase de cocina supera cualquier tour guiado. Las mejores destinos, plataformas y consejos para elegir entre medio día y día completo."
+description: "Por qué una clase de cocina supera cualquier tour guiado. Las mejores destinos, plataformas y consejos para elegir entre medio día y día completo Toda la información para tu próximo viaje."
 heroImage: "/img/blog/cooking-class-travel.jpg"
 pubDate: 2026-05-25
 category: "Joyas ocultas"

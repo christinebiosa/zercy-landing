@@ -1,6 +1,6 @@
 ---
 title: "¿Reservar con antelación o last minute: qué ahorra más?"
-metaTitle: "Reserva anticipada vs. last minute: ¿Qué conviene más? | Zercy"
+metaTitle: "Reserva anticipada vs. last minute: ¿Qué conviene | Zercy"
 description: "¿Conviene reservar vuelos y hoteles con meses de antelación o esperar ofertas de último minuto? La respuesta honesta depende del tipo de viaje. Aquí están los números reales."
 pubDate: 2026-05-10
 category: "Viaje inteligente"

@@ -1,6 +1,6 @@
 ---
 title: "Dinamarca Guía de Viaje: Copenhague, Capital del Ciclismo y Cocina Nórdica"
-metaTitle: "Dinamarca Guía de Viaje 2026: Copenhague y Highlights | Zercy"
+metaTitle: "Dinamarca Guía de Viaje 2026: Copenhague | Zercy"
 description: "Descubre Dinamarca: Copenhague con Tivoli y Nyhavn, cocina Noma, Christiania y el Museo Louisiana. Mejor época, costes y consejos para la capital ciclista de Europa."
 pubDate: 2026-05-14
 category: "Lugares lejanos"

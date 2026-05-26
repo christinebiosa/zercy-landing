@@ -1,7 +1,7 @@
 ---
 title: "Japanisches Ryokan: Was dich erwartet und wie du buchst"
 metaTitle: "Japanisches Ryokan: Alles was du wissen musst 2026 | Zercy"
-description: "Tatami, Yukata, Kaiseki-Dinner: Was ist ein Ryokan, was kostet er und welche Benimmregeln gibt es? Kompletter Guide für Japan-Reisende 2026."
+description: "Tatami, Yukata, Kaiseki-Dinner: Was ist ein Ryokan, was kostet er und welche Benimmregeln gibt es? Kompletter Guide für Japan-Reisende 2026 Jetzt clever planen und die besten Optionen vergleichen."
 pubDate: 2026-05-26
 category: "Geheimtipps"
 readingTime: 8

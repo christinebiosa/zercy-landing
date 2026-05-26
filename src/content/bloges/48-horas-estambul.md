@@ -1,6 +1,6 @@
 ---
 title: "48 horas en Estambul: el itinerario perfecto para dos días"
-metaTitle: "48 horas en Estambul: itinerario, barrios y consejos 2026 | Zercy"
+metaTitle: "48 horas en Estambul: itinerario, barrios y consejos | Zercy"
 description: "Qué ver en Estambul en 2 días: Hagia Sofía, Mezquita Azul, Beyoğlu y el Bósforo. Transporte, restaurantes y cómo tramitar el e-Visa desde América Latina. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "En camino"

@@ -1,6 +1,6 @@
 ---
 title: "Zugverspätung in Europa: Deine Rechte und wie du Geld zurückbekommst"
-metaTitle: "Zugverspätung Rechte Europa 2026: Entschädigung Guide | Zercy"
+metaTitle: "Zugverspätung Rechte Europa 2026: Entschädigung | Zercy"
 description: "Ab 60 Minuten Verspätung: 25 Prozent des Ticketpreises zurück. Ab 120 Minuten: 50 Prozent. Wie du Entschädigung bei DB, SNCF und anderen Bahnen wirklich bekommst."
 pubDate: 2026-05-25
 category: "Reisetipps"

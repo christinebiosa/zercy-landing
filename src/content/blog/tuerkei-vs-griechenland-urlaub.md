@@ -1,7 +1,7 @@
 ---
 title: "Türkei vs. Griechenland: Wohin im Sommer 2026?"
 metaTitle: "Türkei vs. Griechenland: Wohin im Sommer? | Zercy"
-description: "Türkei ist 20-40% günstiger, Griechenland schöner für Inselhüpfen. Wer wann wohin sollte: konkreter Vergleich zu Preisen, Einreise, Saison und Sicherheit."
+description: "Türkei ist 20-40% günstiger, Griechenland schöner für Inselhüpfen. Wer wann wohin sollte: konkreter Vergleich zu Preisen, Einreise, Saison und Sicherheit Jetzt lesen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 8

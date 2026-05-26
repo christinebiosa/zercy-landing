@@ -1,6 +1,6 @@
 ---
 title: "Workation e impuestos 2026: lo que necesitas saber antes de irte"
-metaTitle: "Workation impuestos 2026: residencia fiscal, visas y reglas | Zercy"
+metaTitle: "Workation impuestos 2026: residencia fiscal, visas | Zercy"
 description: "Las implicaciones fiscales del workation en 2026. Cuántos días puedes trabajar desde otro país sin consecuencias fiscales, qué visas existen y qué dicen los expertos."
 pubDate: 2026-05-08
 category: "Viajes de negocios"

@@ -1,7 +1,7 @@
 ---
 title: "Extra Legroom Seats: Are They Actually Worth It?"
 metaTitle: "Extra Legroom Seats: Worth It in 2026? | Zercy"
-description: "Extra legroom costs $15 to $200. When it's genuinely worth paying for, when it isn't, and how to sometimes get the seat for free. The honest breakdown."
+description: "Extra legroom costs description: 5 to $200. When it's genuinely worth paying for, when it isn't, and how to sometimes get the seat for free. The honest breakdown Compare options and find the best deals on Zercy."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 7

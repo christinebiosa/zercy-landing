@@ -1,6 +1,6 @@
 ---
 title: "Mehrgenerationen-Urlaub: Der komplette Guide für Familien"
-metaTitle: "Mehrgenerationen-Urlaub Guide 2026 | Zercy"
+metaTitle: "Mehrgenerationen-Urlaub Guide 2026: Tipps & Infos | Zercy"
 description: "Urlaub mit Großeltern, Eltern und Kindern: Wie ihr trotz verschiedener Mobilitätsniveaus, Schlafrhythmen und Budgets einen Urlaub findet, der für alle funktioniert."
 pubDate: 2026-05-25
 category: "Reisetipps"

@@ -1,7 +1,7 @@
 ---
 title: "Südamerika Backpacking Route: Der komplette Guide"
-metaTitle: "Südamerika Backpacking Route 2026 | Zercy"
-description: "Bogotá bis Buenos Aires in 2 bis 4 Monaten: Alles zur Gringo Trail Route, Kosten, Sicherheit und dem besten Einstiegsland Kolumbien."
+metaTitle: "Südamerika Backpacking Route 2026: Tipps & Infos | Zercy"
+description: "Bogotá bis Buenos Aires in 2 bis 4 Monaten: Alles zur Gringo Trail Route, Kosten, Sicherheit und dem besten Einstiegsland Kolumbien Alle wichtigen Infos für deine nächste Reise."
 heroImage: "/img/blog/south-america-backpacking.jpg"
 pubDate: 2026-05-25
 category: "Fernweh"

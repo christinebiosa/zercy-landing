@@ -1,6 +1,6 @@
 ---
 title: "Internet en el extranjero: SIM local, eSIM o roaming sin pagar de más"
-metaTitle: "SIM local, eSIM o roaming en el extranjero: qué conviene | Zercy"
+metaTitle: "SIM local, eSIM o roaming en el extranjero: qué | Zercy"
 description: "Cómo tener internet en el extranjero sin pagar una fortuna. SIM local vs eSIM vs roaming. Las mejores apps de eSIM para viajeros y cuánto cuesta en los destinos más populares."
 pubDate: 2026-05-09
 category: "Viaje inteligente"

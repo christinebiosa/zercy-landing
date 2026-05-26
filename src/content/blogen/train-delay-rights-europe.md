@@ -1,7 +1,7 @@
 ---
 title: "Train Delays in Europe: Your Rights and How to Get Money Back"
 metaTitle: "Train Delay Rights Europe 2026: Compensation Guide | Zercy"
-description: "From 60 minutes delay: 25 percent of ticket price back. From 120 minutes: 50 percent. How you actually get compensation from DB, SNCF and other railways."
+description: "From 60 minutes delay: 25 percent of ticket price back. From 120 minutes: 50 percent. How you actually get compensation from DB, SNCF and other railways Know your rights and claim what you deserve."
 pubDate: 2026-05-25
 category: "Travel Tips"
 readingTime: 7

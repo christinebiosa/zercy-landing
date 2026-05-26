@@ -1,7 +1,7 @@
 ---
 title: "Schengen 90-Tage-Regel: Wie sie wirklich funktioniert"
 metaTitle: "Schengen 90-Tage-Regel 2026: Einfach erklärt | Zercy"
-description: "Die Schengen 90/180-Tage-Regel einfach erklärt: Wie zählt man die Tage, was passiert bei Überschreitung, welche Länder sind außerhalb des Schengenraums?"
+description: "Die Schengen 90/180-Tage-Regel einfach erklärt: Wie zählt man die Tage, was passiert bei Überschreitung, welche Länder sind außerhalb des Schengenraums Jetzt lesen."
 pubDate: 2026-05-26
 category: "Clever Reisen"
 readingTime: 7

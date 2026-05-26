@@ -1,7 +1,7 @@
 ---
 title: "Sprachbarrieren beim Reisen: Tipps für jedes Land 2026"
-metaTitle: "Sprachbarrieren Reisen 2026: Apps und Tricks die helfen | Zercy"
-description: "Google Translate offline, Google Lens, Basis-Phrasen: Mit diesen 7 Methoden überwindest du Sprachbarrieren in Japan, China oder Marokko. Kein Englisch nötig."
+metaTitle: "Sprachbarrieren Reisen 2026: Apps & Tricks | Zercy"
+description: "Google Translate offline, Google Lens, Basis-Phrasen: Mit diesen 7 Methoden überwindest du Sprachbarrieren in Japan, China oder Marokko. Kein Englisch nötig Jetzt lesen."
 pubDate: 2026-05-25
 category: "Reisetipps"
 readingTime: 7

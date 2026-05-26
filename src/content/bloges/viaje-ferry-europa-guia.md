@@ -1,6 +1,6 @@
 ---
 title: "Ferries en Europa: Las mejores rutas y consejos para 2026"
-metaTitle: "Ferries Europa 2026: Mejores rutas y consejos de reserva | Zercy"
+metaTitle: "Ferries Europa 2026: Mejores rutas y consejos | Zercy"
 description: "Islas griegas, Croacia, Baleares: Los ferries en Europa son más baratos de lo que crees. Las 8 mejores rutas, consejos de reserva y comparativas de precios 2026."
 pubDate: 2026-05-25
 category: "Viaje inteligente"

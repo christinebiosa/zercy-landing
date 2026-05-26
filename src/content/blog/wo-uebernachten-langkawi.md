@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Langkawi: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Langkawi 2026: Wo übernachten in welchem Viertel | Zercy"
+metaTitle: "Hotels Langkawi 2026: Wo übernachten in welchem | Zercy"
 description: "Langkawi Hotels 2026: Pantai Cenang, Pantai Tengah, Kuah Town oder Datai Bay. Die besten Strände, Top-Picks und Tipps für Malaysias Duty-Free-Insel. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

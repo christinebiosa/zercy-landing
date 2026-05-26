@@ -1,6 +1,6 @@
 ---
 title: "SIM Card Abroad: The Honest Guide 2026"
-metaTitle: "SIM Card Abroad: Honest Guide 2026 | Zercy"
+metaTitle: "SIM Card Abroad: Honest Guide 2026 Tips | Zercy"
 description: "eSIM vs local SIM vs EU roaming: an honest comparison with real costs per GB for Asia, Americas, and Africa. When Airalo wins and when local beats it. Everything you need to plan your trip."
 pubDate: 2026-05-09
 category: "Smart Travel"

@@ -1,6 +1,6 @@
 ---
 title: "Auroras boreales 2026: dónde verlas y qué esperar"
-metaTitle: "Auroras boreales 2026: los mejores lugares para verlas | Zercy"
+metaTitle: "Auroras boreales 2026: los mejores lugares para | Zercy"
 description: "Dónde ver auroras boreales en 2026. Islandia, Noruega, Finlandia y Canadá. Cuándo ir, qué predice la aurora y cómo aumentar las probabilidades de verla. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Lugares lejanos"

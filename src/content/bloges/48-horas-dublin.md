@@ -1,7 +1,7 @@
 ---
 title: "48 Horas en Dublín: El Itinerario Honesto de Fin de Semana"
 metaTitle: "48 Horas en Dublín: Guía de Fin de Semana | Zercy"
-description: "Dublín en 48 horas: Trinity College, Kilmainham Gaol, Phoenix Park y pubs auténticos lejos de Temple Bar. Qué vale la pena visitar y qué puedes saltarte."
+description: "Dublín en 48 horas: Trinity College, Kilmainham Gaol, Phoenix Park y pubs auténticos lejos de Temple Bar. Qué vale la pena visitar y qué puedes saltarte Más información."
 pubDate: 2026-05-25
 category: "En camino"
 readingTime: 7

@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Kochi: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Kochi: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Kochi: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Kochi hat 5 sehr unterschiedliche Viertel: Fort Kochi kolonial-romantisch, Mattancherry jüdisch-historisch, Ernakulam als Businesszentrum, Marine Drive modern und Cherai Beach für Strandruhe. Top-Hotels für jedes Budget."
 pubDate: 2026-05-26
 category: "Wo übernachten"

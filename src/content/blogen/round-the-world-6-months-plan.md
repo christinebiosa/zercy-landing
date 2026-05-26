@@ -1,7 +1,7 @@
 ---
 title: "How to Plan a 6-Month Round the World Trip: The Complete Guide"
 metaTitle: "Plan a 6-Month World Trip: Where to Start | Zercy"
-description: "Costs, routes, insurance, quitting your job: everything you need to know before planning a 6-month world trip. Real numbers, honest advice, no fluff."
+description: "Costs, routes, insurance, quitting your job: everything you need to know before planning a 6-month world trip. Real numbers, honest advice, no fluff All the essentials for your next adventure."
 pubDate: 2026-05-25
 category: "Off the Map"
 readingTime: 11

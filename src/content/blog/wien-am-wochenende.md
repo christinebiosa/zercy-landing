@@ -1,6 +1,6 @@
 ---
 title: "Wien am Wochenende: Das perfekte 48-Stunden-Programm"
-metaTitle: "Wien am Wochenende: 48-Stunden-Guide | Zercy"
+metaTitle: "Wien am Wochenende: 48-Stunden-Guide Ratgeber 2026 | Zercy"
 description: "Wien in 48 Stunden: Hofburg, Schönbrunn, Naschmarkt und Kaffeehauskultur. Das perfekte Wochenend-Programm für die österreichische Hauptstadt. Alles was du wissen musst."
 pubDate: 2026-05-09
 category: "Fernweh"

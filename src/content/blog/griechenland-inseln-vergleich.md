@@ -1,6 +1,6 @@
 ---
 title: "Griechische Inseln im Vergleich: Santorini, Mykonos, Kreta oder Rhodos?"
-metaTitle: "Griechische Inseln Vergleich 2026 | Welche lohnt sich? | Zercy"
+metaTitle: "Griechische Inseln Vergleich 2026 | Welche lohnt | Zercy"
 description: "Santorini, Mykonos, Kreta oder Rhodos? Welche griechische Insel passt zu dir? Ein ehrlicher Vergleich nach Preis, Charakter, Stränden und Reisetyp. Ehrlicher Vergleich mit echten Zahlen."
 pubDate: 2026-05-09
 category: "Fernweh"

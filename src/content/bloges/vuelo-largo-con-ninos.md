@@ -1,6 +1,6 @@
 ---
 title: "Vuelos de larga distancia con niños: cómo sobrevivir (y disfrutarlo)"
-metaTitle: "Vuelos largos con niños: guía completa para sobrevivir | Zercy"
+metaTitle: "Vuelos largos con niños: guía completa para | Zercy"
 description: "¿Cómo hacer un vuelo largo con niños sin volverse loco? Qué llevar, cómo elegir los asientos, entretenimiento offline, mejores horarios y cómo manejar el jet lag."
 pubDate: 2026-05-09
 category: "Consejos de viaje"

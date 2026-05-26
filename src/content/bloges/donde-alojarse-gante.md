@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Gante: Dónde alojarse en cada barrio 2026"
-metaTitle: "Hoteles Gante: Dónde Alojarse 2026 | Zercy"
+metaTitle: "Hoteles Gante: Dónde Alojarse 2026 Guía Completa | Zercy"
 description: "Gante tiene 5 barrios muy distintos: Graslei para el canal, Patershol para los amantes de la gastronomía, Korenmarkt céntrico, Sint-Pieters práctico, Dampoort económico."
 pubDate: 2026-05-11
 category: "Dónde alojarse"

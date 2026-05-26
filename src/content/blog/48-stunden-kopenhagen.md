@@ -1,7 +1,7 @@
 ---
 title: "48 Stunden in Kopenhagen: Dein perfektes Wochenende 2026"
 metaTitle: "48 Stunden Kopenhagen: Wochenend-Guide 2026 | Zercy"
-description: "Kopenhagen in 48 Stunden: Nyhavn, Christiania, Tivoli und Reffen Street Food. Inkl. Budget-Tipps für eine der teuersten Städte Europas und alle echten Kosten."
+description: "Kopenhagen in 48 Stunden: Nyhavn, Christiania, Tivoli und Reffen Street Food. Inkl. Budget-Tipps für eine der teuersten Städte Europas und alle echten Kosten Jetzt lesen."
 pubDate: 2026-05-26
 category: "Unterwegs"
 readingTime: 7

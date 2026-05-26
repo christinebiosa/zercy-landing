@@ -1,6 +1,6 @@
 ---
 title: "Cabo Verde: Guía de viaje con Sal, Santiago, São Vicente y Santo Antão"
-metaTitle: "Cabo Verde Guía de Viaje 2026: Islas, Playas y Cultura | Zercy"
+metaTitle: "Cabo Verde Guía de Viaje 2026: Islas, Playas | Zercy"
 description: "Descubre Cabo Verde: Sal con windsurf, Santiago con el volcán Fogo, São Vicente con la escena musical de Mindelo, trekking en Santo Antão. A 5 horas de Europa, sin visado para la UE."
 pubDate: 2026-05-14
 category: "Lugares lejanos"

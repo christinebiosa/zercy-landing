@@ -1,7 +1,7 @@
 ---
 title: "Traveling with a Toddler Under 3: What Actually Works"
-metaTitle: "Traveling with a Toddler Under 3 | Zercy"
-description: "Planning a trip with a child under 3? Here's what actually works: flight tips, the best destinations, packing smart, and why the trip is really for you."
+metaTitle: "Traveling with a Toddler Under 3: Tips & Guide 2026 | Zercy"
+description: "Planning a trip with a child under 3? Here's what actually works: flight tips, the best destinations, packing smart, and why the trip is really for you Read more."
 pubDate: 2026-05-25
 category: "Travel Tips"
 readingTime: 9

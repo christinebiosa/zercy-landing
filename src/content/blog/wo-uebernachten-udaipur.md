@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Udaipur: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Udaipur: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Udaipur: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Udaipur hat 5 Lagen: Altstadt am See romantisch & dicht, City Palace Bereich historisch, Lake Pichola Außenbereich ruhig, Fateh Sagar modern, Gangaur Ghat authentisch."
 pubDate: 2026-05-26
 category: "Wo übernachten"

@@ -1,7 +1,7 @@
 ---
 title: "Volunteer Travel: Workaway, WWOOF and How They Work"
 metaTitle: "Volunteer Travel 2026: Workaway + WWOOF Guide | Zercy"
-description: "With Workaway and WWOOF you travel for almost nothing and genuinely help. How volunteer travel works, what it costs and which platforms are legitimate."
+description: "With Workaway and WWOOF you travel for almost nothing and genuinely help. How volunteer travel works, what it costs and which platforms are legitimate Compare options and find the best deals on Zercy."
 pubDate: 2026-05-25
 category: "Off the Map"
 readingTime: 8

@@ -1,6 +1,6 @@
 ---
 title: "Bolivien Guide: Salar de Uyuni, La Paz und der Titicacasee"
-metaTitle: "Bolivien Reiseguide 2026: Uyuni, La Paz & Titicacasee | Zercy"
+metaTitle: "Bolivien Reiseguide 2026: Uyuni, La Paz | Zercy"
 description: "Bolivien entdecken: Salar de Uyuni mit Spiegeleffekt, La Paz mit Hexenmarkt und Seilbahn, Titicacasee, Potosí und die höchste Hauptstadt der Welt. Reisetipps 2026."
 pubDate: 2026-05-14
 category: "Fernweh"

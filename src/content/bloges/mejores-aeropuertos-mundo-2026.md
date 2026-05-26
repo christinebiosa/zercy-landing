@@ -1,6 +1,6 @@
 ---
 title: "Los mejores aeropuertos del mundo 2026: Donde esperar vale la pena"
-metaTitle: "Mejores Aeropuertos del Mundo 2026 | Zercy"
+metaTitle: "Mejores Aeropuertos del Mundo 2026: Guía Completa | Zercy"
 description: "Changi tiene una cascada interior de 40 metros y un jardín de mariposas. Haneda es más puntual que cualquier tren europeo. Los aeropuertos que realmente destacan en 2026."
 pubDate: 2026-05-25
 category: "Consejos de viaje"

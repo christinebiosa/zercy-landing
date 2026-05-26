@@ -1,7 +1,7 @@
 ---
 title: "Cómo Solicitar una Visa: Guía Paso a Paso"
-metaTitle: "Cómo Solicitar una Visa Paso a Paso | Zercy"
-description: "¿Visa turista, e-Visa o visa a la llegada? Te explicamos cómo solicitar tu visa correctamente, qué documentos necesitas y cómo evitar los errores más comunes."
+metaTitle: "Cómo Solicitar una Visa Paso a Paso: Consejos 2026 | Zercy"
+description: "¿Visa turista, e-Visa o visa a la llegada? Te explicamos cómo solicitar tu visa correctamente, qué documentos necesitas y cómo evitar los errores más comunes Toda la información para tu próximo viaje."
 heroImage: "/img/blog/visa-application.jpg"
 pubDate: 2026-05-25
 category: "Viaje inteligente"

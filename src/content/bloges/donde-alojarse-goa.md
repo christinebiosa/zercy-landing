@@ -1,6 +1,6 @@
 ---
 title: "Mejores hoteles en Goa: Dónde alojarse en cada zona 2026"
-metaTitle: "Hoteles Goa: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Goa: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Goa tiene 5 zonas muy distintas: Panaji capital colonial, Norte de Goa playa y fiesta, Anjuna ambiente hippie, Sur de Goa lujo tranquilo, Arambol mochileros y yoga."
 pubDate: 2026-05-09
 category: "Dónde alojarse"

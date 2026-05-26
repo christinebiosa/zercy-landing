@@ -1,7 +1,7 @@
 ---
 title: "Hotel Breakfast Included: Is It Actually Worth It?"
 metaTitle: "Hotel Breakfast Included: Worth It in 2026? | Zercy"
-description: "Hotel breakfast €28 vs. market breakfast €4 in Lisbon: €24 saved per person per day. Here's exactly when the included breakfast pays off and when it doesn't."
+description: "Hotel breakfast €28 vs. market breakfast €4 in Lisbon: €24 saved per person per day. Here's exactly when the included breakfast pays off and when it doesn't Read more."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 7

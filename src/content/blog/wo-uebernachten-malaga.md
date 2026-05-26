@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Málaga: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Málaga: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Málaga: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Málaga hat 5 Stadtteile: Centro Histórico für Kultur, La Malagueta am Strand, El Soho für Kunst, Pedregalejo für Authentizität, Teatinos für Familien. Welcher passt dir?"
 pubDate: 2026-05-10
 category: "Wo übernachten"

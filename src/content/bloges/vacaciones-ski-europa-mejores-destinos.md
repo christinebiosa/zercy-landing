@@ -1,6 +1,6 @@
 ---
 title: "Las mejores estaciones de esquí de Europa 2026: guía para cada viajero"
-metaTitle: "Mejores estaciones de esquí Europa 2026: guía completa | Zercy"
+metaTitle: "Mejores estaciones de esquí Europa 2026: guía | Zercy"
 description: "¿Zermatt, Chamonix, St. Anton o Cortina? Las mejores estaciones de esquí de Europa para principiantes, expertos, familias y presupuesto ajustado. Cuándo reservar y cuánto cuesta."
 pubDate: 2026-05-09
 category: "Lugares lejanos"

@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in São Paulo: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels São Paulo: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels São Paulo: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Where to stay in São Paulo? Jardins for safety and restaurants, Vila Madalena for art and bars, Itaim Bibi for business. Honest hotel picks by neighborhood. Honest picks for every budget."
 pubDate: 2026-05-09
 category: "Where to Stay"

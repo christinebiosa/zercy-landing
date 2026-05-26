@@ -1,7 +1,7 @@
 ---
 title: "Ciudades más baratas de Europa 2026: Top 10 con presupuesto diario"
 metaTitle: "Ciudades baratas Europa 2026: Top 10 con precios | Zercy"
-description: "Tirana desde 30 euros, Sofía desde 35 euros, Budapest desde 50 euros: Las 10 ciudades europeas más baratas en 2026 con presupuestos diarios concretos."
+description: "Tirana desde 30 euros, Sofía desde 35 euros, Budapest desde 50 euros: Las 10 ciudades europeas más baratas en 2026 con presupuestos diarios concretos Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 8

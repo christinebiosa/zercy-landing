@@ -1,6 +1,6 @@
 ---
 title: "Family Travel Europe 2026: Best Destinations for Every Age"
-metaTitle: "Family Travel Europe 2026: Best Destinations with Kids | Zercy"
+metaTitle: "Family Travel Europe 2026: Best Destinations | Zercy"
 description: "The best European destinations for family travel in 2026. Honest recommendations for toddlers, school-age kids, and teenagers, with real costs and tips that matter."
 pubDate: 2026-05-09
 category: "Travel Tips"

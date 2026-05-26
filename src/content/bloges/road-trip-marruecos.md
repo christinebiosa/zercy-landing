@@ -1,6 +1,6 @@
 ---
 title: "Road trip por Marruecos: de Marrakech al desierto de Merzouga"
-metaTitle: "Road trip Marruecos: ruta Marrakech, desierto y Fez 2026 | Zercy"
+metaTitle: "Road trip Marruecos: ruta Marrakech, desierto y Fez | Zercy"
 description: "Road trip por Marruecos: Marrakech, desierto Merzouga y Fez. Qué esperar en las carreteras, mejor época, riads vs. campamentos y presupuesto real. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "En camino"

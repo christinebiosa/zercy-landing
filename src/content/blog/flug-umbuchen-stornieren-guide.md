@@ -1,7 +1,7 @@
 ---
 title: "Flug umbuchen oder stornieren: Der große Guide"
-metaTitle: "Flug umbuchen & stornieren – Guide | Zercy"
-description: "Wann ist das Umbuchen kostenlos? Wann gibt es eine Erstattung? Alles zu Gebühren, Flex-Tarifen, EU261 und dem besten Vorgehen Schritt für Schritt."
+metaTitle: "Flug umbuchen & stornieren – Guide: Ratgeber 2026 | Zercy"
+description: "Wann ist das Umbuchen kostenlos? Wann gibt es eine Erstattung? Alles zu Gebühren, Flex-Tarifen, EU261 und dem besten Vorgehen Schritt für Schritt Tipps, Kosten und alles was du wissen musst."
 heroImage: "/img/blog/flight-rebooking.jpg"
 pubDate: 2026-05-25
 category: "Clever Reisen"

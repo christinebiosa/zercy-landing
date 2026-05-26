@@ -1,6 +1,6 @@
 ---
 title: "ETIAS 2026: Todo lo que necesitas saber antes de viajar a Europa"
-metaTitle: "ETIAS 2026: Entrada a la UE para viajeros no europeos | Zercy"
+metaTitle: "ETIAS 2026: Entrada a la UE para viajeros no | Zercy"
 description: "Ciudadanos de EE.UU., Canadá, Australia, México y más de 60 países necesitarán ETIAS para entrar a Schengen en 2026/2027. Solo 7 euros, válido 3 años. Cómo solicitarlo."
 pubDate: 2026-05-26
 category: "Viaje inteligente"

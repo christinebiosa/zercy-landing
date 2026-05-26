@@ -1,7 +1,7 @@
 ---
 title: "Mallorca vs. Ibiza: ¿Cuál de las dos islas te conviene?"
 metaTitle: "Mallorca vs. Ibiza: ¿Cuál isla te conviene? | Zercy"
-description: "Mallorca tiene la sierra Tramuntana, Palma y playas familiares. Ibiza tiene Amnesia y Ushuaïa. Elegir bien depende de una sola pregunta: ¿qué buscas realmente?"
+description: "Mallorca tiene la sierra Tramuntana, Palma y playas familiares. Ibiza tiene Amnesia y Ushuaïa. Elegir bien depende de una sola pregunta: ¿qué buscas realmente Más información."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 7

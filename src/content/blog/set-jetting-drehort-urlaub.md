@@ -1,7 +1,7 @@
 ---
 title: "Set-Jetting: Reisen zu Filmlocations und Drehorte besuchen"
 metaTitle: "Set-Jetting 2026: Top Filmlocations besuchen | Zercy"
-description: "Game of Thrones in Kroatien, White Lotus in Sizilien, Mamma Mia in Griechenland: Die 10 begehrtesten Set-Jetting-Ziele 2026 mit Tipps wann du gehen solltest."
+description: "Game of Thrones in Kroatien, White Lotus in Sizilien, Mamma Mia in Griechenland: Die 10 begehrtesten Set-Jetting-Ziele 2026 mit Tipps wann du gehen solltest Jetzt lesen."
 pubDate: 2026-05-25
 category: "Fernweh"
 readingTime: 8

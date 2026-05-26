@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Lima: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Best Hotels Lima: Where to Stay 2026 | Zercy"
+metaTitle: "Best Hotels Lima: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Lima has 4 very different neighborhoods: Miraflores cliff premium, Barranco bohemian, San Isidro business, Centro Histórico colonial. Which fits your trip best?"
 pubDate: 2026-05-07
 category: "Where to Stay"

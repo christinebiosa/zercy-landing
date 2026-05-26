@@ -1,7 +1,7 @@
 ---
 title: "Travel First Aid Kit: What You Actually Need"
-metaTitle: "Travel First Aid Kit Packing Guide | Zercy"
-description: "What belongs in your travel first aid kit? Essential medications, extras for long-haul trips, carry-on rules, and a practical checklist for Europe and beyond."
+metaTitle: "Travel First Aid Kit Packing Guide: Tips 2026 | Zercy"
+description: "What belongs in your travel first aid kit? Essential medications, extras for long-haul trips, carry-on rules, and a practical checklist for Europe and beyond Read more."
 heroImage: "/img/blog/travel-first-aid-kit.jpg"
 pubDate: 2026-05-25
 category: "Smart Travel"

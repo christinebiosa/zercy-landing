@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in San Francisco: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Best Hotels SF: Where to Stay 2026 | Zercy"
+metaTitle: "Best Hotels SF: Where to Stay 2026 Tips & Guide | Zercy"
 description: "San Francisco has 5 very different neighborhoods: Union Square, Fishermans Wharf, Mission, North Beach, SoMa. Which fits your California trip best? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"

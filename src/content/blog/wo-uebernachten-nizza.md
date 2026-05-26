@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Nizza: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Nizza: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Nizza: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Nizza hat 5 sehr unterschiedliche Viertel: Vieux-Nice mit Markt und Socca, Promenade für Luxus, Cimiez ruhig, Carré d'Or zum Shoppen, Le Port authentisch. Welches passt?"
 pubDate: 2026-05-11
 category: "Wo übernachten"

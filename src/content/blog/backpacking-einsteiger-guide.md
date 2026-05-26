@@ -1,6 +1,6 @@
 ---
 title: "Backpacking Einsteiger Guide: So planst du deine erste Rucksackreise"
-metaTitle: "Backpacking Einsteiger Guide 2026: Tipps & Ausrüstung | Zercy"
+metaTitle: "Backpacking Einsteiger Guide 2026: Tipps | Zercy"
 description: "Backpacking Einsteiger Guide 2026: Rucksack-Größe, Ausrüstung, Hostel-Etikette, Budget-Tipps und die besten Routen für Erstlinge. Alles was du für deine erste Rucksackreise brauchst."
 pubDate: 2026-05-14
 category: "Reisetipps"

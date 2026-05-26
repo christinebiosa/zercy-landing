@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Cairns: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Cairns 2026: Dónde Alojarse en Cairns Australia | Zercy"
+metaTitle: "Hoteles Cairns 2026: Dónde Alojarse en Cairns | Zercy"
 description: "Hoteles Cairns 2026: CBD, Palm Cove o Port Douglas. Los mejores barrios, mejores hoteles y consejos para tu aventura en la Gran Barrera de Coral. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

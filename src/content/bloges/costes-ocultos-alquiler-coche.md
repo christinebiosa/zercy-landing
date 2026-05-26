@@ -1,6 +1,6 @@
 ---
 title: "Costes ocultos del alquiler de coche: cómo evitar pagar de más"
-metaTitle: "Costes ocultos alquiler coche: cómo evitarlos en 2026 | Zercy"
+metaTitle: "Costes ocultos alquiler coche: cómo evitarlos en | Zercy"
 description: "Las empresas de alquiler añaden costes que nadie espera. Qué extras cobran, cómo se pueden evitar y cuánto puede subir el precio real respecto al anunciado. Con precios actualizados para 2026."
 pubDate: 2026-05-08
 category: "Viaje inteligente"

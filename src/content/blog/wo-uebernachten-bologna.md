@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Bologna: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Bologna: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Bologna: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Bologna hat 5 sehr unterschiedliche Viertel: Centro Storico mit Arkaden, hippes Bolognina, studentisches San Vitale, ruhige Colli und praktisches Fiera-Viertel. Welches passt?"
 pubDate: 2026-05-11
 category: "Wo übernachten"

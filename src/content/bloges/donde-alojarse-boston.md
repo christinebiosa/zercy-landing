@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Boston: Dónde alojarse en cada barrio 2026"
-metaTitle: "Hoteles Boston: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Boston: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Boston tiene 5 barrios muy distintos: Downtown para primeras visitas, Back Bay para compras, Beacon Hill romántico, Cambridge cultural y South End para foodies."
 pubDate: 2026-05-11
 category: "Dónde alojarse"

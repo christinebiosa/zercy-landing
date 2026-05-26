@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Creta: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Creta 2026: Dónde alojarse | Zercy"
+metaTitle: "Hoteles Creta 2026: Dónde alojarse Guía Completa | Zercy"
 description: "Creta hoteles 2026: Chania con puerto veneciano romántico, Heraklion cultural, Rethymno con encanto, Elounda de lujo. Barrios, precios y recomendaciones 2026. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

@@ -1,6 +1,6 @@
 ---
 title: "Islas Feroe: la guía para el destino más fotogénico del Atlántico Norte"
-metaTitle: "Islas Feroe 2026: qué ver, cómo llegar y cuánto cuesta | Zercy"
+metaTitle: "Islas Feroe 2026: qué ver, cómo llegar y cuánto | Zercy"
 description: "Las Islas Feroe tienen acantilados sobre el océano, pueblos de tejado verde y niebla permanente. La guía completa para visitar uno de los destinos más remotos de Europa."
 pubDate: 2026-05-08
 category: "Lugares lejanos"

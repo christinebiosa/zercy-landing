@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Hiroshima: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Hiroshima 2026: Wo übernachten in welchem Viertel | Zercy"
+metaTitle: "Hotels Hiroshima 2026: Wo übernachten in welchem | Zercy"
 description: "Hiroshima Hotels 2026: Friedenspark, Hondori, Ujina oder Miyajima-Nähe. Die besten Stadtteile, Top-Picks und Tipps für Japans wichtigste Geschichtsstadt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

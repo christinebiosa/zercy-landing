@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Rodas: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Rodas 2026: Dónde alojarse | Zercy"
+metaTitle: "Hoteles Rodas 2026: Dónde alojarse Guía Completa | Zercy"
 description: "Rodas hoteles 2026: Ciudad Antigua UNESCO para atmósfera medieval, Ixia para deportes acuáticos, Faliraki para fiesta, Lindos para romance. Precios y recomendaciones."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

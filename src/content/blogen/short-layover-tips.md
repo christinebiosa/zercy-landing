@@ -1,7 +1,7 @@
 ---
 title: "Short Layover: How to Make Your Connecting Flight — Every Time"
 metaTitle: "Short Layover: Make Your Connection Every Time | Zercy"
-description: "MCT, checked baggage, delays: everything you need to know to catch your connecting flight — even with a tight layover at Frankfurt, Dubai, or Heathrow."
+description: "MCT, checked baggage, delays: everything you need to know to catch your connecting flight — even with a tight layover at Frankfurt, Dubai, or Heathrow Compare options and find the best deals on Zercy."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 7

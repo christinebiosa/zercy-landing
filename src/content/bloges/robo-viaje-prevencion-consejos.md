@@ -1,7 +1,7 @@
 ---
 title: "Robo en vacaciones: Prevención y qué hacer de inmediato"
 metaTitle: "Robo vacaciones 2026: Prevención y ayuda inmediata | Zercy"
-description: "Carteristas, trucos de distracción, ladrones en moto: Los escenarios más comunes y cómo evitarlos. Qué hacer de inmediato si ocurre y cómo paga el seguro."
+description: "Carteristas, trucos de distracción, ladrones en moto: Los escenarios más comunes y cómo evitarlos. Qué hacer de inmediato si ocurre y cómo paga el seguro Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Consejos de viaje"
 readingTime: 8

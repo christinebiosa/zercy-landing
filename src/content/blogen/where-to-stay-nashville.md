@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Nashville: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Nashville: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Nashville: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Nashville has 5 distinct neighborhoods: Broadway for nightlife, The Gulch for boutique hotels, 12 South for relaxed vibes, East Nashville for artists, Midtown for culture."
 pubDate: 2026-05-11
 category: "Where to Stay"

@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Tallin: Dónde alojarse en cada barrio 2026"
-metaTitle: "Hoteles Tallin: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Tallin: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Tallin tiene 5 barrios: Vanalinn medieval, Kalamaja local y alternativo, Telliskivi creativo, Kadriorg tranquilo y cultural, Pirita junto al mar. Encuentra tu opción."
 pubDate: 2026-05-11
 category: "Dónde alojarse"

@@ -1,6 +1,6 @@
 ---
 title: "Reise-Budget-Apps 2026: Die besten Tools zum Tracken"
-metaTitle: "Beste Reise-Budget-Apps 2026 | Zercy"
+metaTitle: "Beste Reise-Budget-Apps 2026: Tipps & Infos | Zercy"
 description: "Trail Wallet, TravelSpend, Wise: 5 Budget-Apps im Vergleich. Welche lohnt sich für Soloreisende, Gruppen und Vielreisende? Mit Praxis-Tipps fürs tägliche Tracking."
 pubDate: 2026-05-26
 category: "Clever Reisen"

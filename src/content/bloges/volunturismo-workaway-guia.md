@@ -1,7 +1,7 @@
 ---
 title: "Volunturismo: Workaway, WWOOF y cómo funcionan explicados"
 metaTitle: "Volunturismo 2026: Guía Workaway + WWOOF | Zercy"
-description: "Con Workaway y WWOOF viajas por casi nada y realmente ayudas. Cómo funciona el volunturismo, qué cuesta y qué plataformas son de confianza."
+description: "Con Workaway y WWOOF viajas por casi nada y realmente ayudas. Cómo funciona el volunturismo, qué cuesta y qué plataformas son de confianza Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Lugares lejanos"
 readingTime: 8

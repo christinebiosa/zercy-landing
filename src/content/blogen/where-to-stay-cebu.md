@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Cebu: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Best Hotels Cebu: Where to Stay 2026 | Zercy"
+metaTitle: "Best Hotels Cebu: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Cebu has 5 distinct areas: IT Park for expats, historic Downtown, Mactan Island beach resort strip, budget-friendly Mandaue, and the modern SRP district. Here's the honest breakdown."
 pubDate: 2026-05-26
 category: "Where to Stay"

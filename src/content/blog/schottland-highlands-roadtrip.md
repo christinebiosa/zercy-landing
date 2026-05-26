@@ -1,6 +1,6 @@
 ---
 title: "Schottland Highlands Road Trip 2026: North Coast 500 und die besten Stopps"
-metaTitle: "Schottland Highlands Road Trip 2026 | Zercy"
+metaTitle: "Schottland Highlands Road Trip 2026: Tipps & Infos | Zercy"
 description: "North Coast 500, Isle of Skye, Glencoe und Loch Ness: Der komplette Schottland Highlands Road Trip Guide 2026 mit Route, Tipps zu Linksverkehr und bester Reisezeit."
 pubDate: 2026-05-09
 category: "Unterwegs"

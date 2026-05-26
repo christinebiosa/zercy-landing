@@ -1,6 +1,6 @@
 ---
 title: "Flight Delay Rights: What You're Entitled to in 2026"
-metaTitle: "Flight Delay Rights Europe 2026 | Zercy"
+metaTitle: "Flight Delay Rights Europe 2026: Tips & Guide | Zercy"
 description: "EU Regulation 261/2004 explained: when you're entitled to compensation, how much, what extraordinary circumstances mean, and how to claim your money. All rights and compensation explained."
 pubDate: 2026-05-09
 category: "Travel Tips"

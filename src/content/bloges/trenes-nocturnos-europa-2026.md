@@ -1,6 +1,6 @@
 ---
 title: "Trenes nocturnos en Europa 2026: la guía definitiva"
-metaTitle: "Trenes nocturnos Europa 2026: rutas, precios y reservas | Zercy"
+metaTitle: "Trenes nocturnos Europa 2026: rutas, precios | Zercy"
 description: "Los trenes nocturnos europeos viven un renacimiento en 2026. Nightjet, Caledonian Sleeper, trenes nocturnos a Paris y Barcelona. Guía completa de rutas y reservas."
 pubDate: 2026-05-08
 category: "En camino"

@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Nairobi: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Nairobi Hotels: Wo übernachten 2026 | Zercy"
+metaTitle: "Nairobi Hotels: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Karen oder Westlands? Die besten Hotels in Nairobi nach Stadtteil. Konkrete Empfehlungen mit Preisklassen, Sicherheitshinweisen und dem richtigen Viertel für Safari-Reisende."
 pubDate: 2026-05-09
 category: "Wo übernachten"

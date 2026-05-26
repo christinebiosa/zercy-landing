@@ -1,7 +1,7 @@
 ---
 title: "Vuelos de larga distancia: guía completa de comodidad"
-metaTitle: "Consejos comodidad vuelos largos | Zercy"
-description: "¿Más de 8 horas en el avión y llegar descansado? Aquí tienes todo sobre asientos, sueño, alimentación y circulación en vuelos de larga distancia."
+metaTitle: "Consejos comodidad vuelos largos: Guía Completa 2026 | Zercy"
+description: "¿Más de 8 horas en el avión y llegar descansado? Aquí tienes todo sobre asientos, sueño, alimentación y circulación en vuelos de larga distancia Toda la información para tu próximo viaje."
 heroImage: "/img/blog/long-haul-comfort.jpg"
 pubDate: 2026-05-25
 category: "Viaje inteligente"

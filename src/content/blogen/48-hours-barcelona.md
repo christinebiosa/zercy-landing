@@ -1,6 +1,6 @@
 ---
 title: "48 Hours in Barcelona: The Perfect Weekend Guide"
-metaTitle: "48 Hours in Barcelona: Weekend Guide | Zercy"
+metaTitle: "48 Hours in Barcelona: Weekend Guide Tips 2026 | Zercy"
 description: "Barcelona in 48 hours: Sagrada Família, Gothic Quarter, Park Güell, and tapas like a local. Everything you need for the perfect weekend in Catalonia's capital. Everything you need to know."
 pubDate: 2026-05-09
 category: "Off the Map"

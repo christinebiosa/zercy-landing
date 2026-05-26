@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Lyon: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Best Hotels Lyon: Where to Stay 2026 | Zercy"
+metaTitle: "Best Hotels Lyon: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Lyon hotels 2026: Vieux-Lyon historic and atmospheric, Presqu'île central, Croix-Rousse local. Top picks, prices and tips for your stay in France's food capital."
 pubDate: 2026-05-15
 category: "Where to Stay"

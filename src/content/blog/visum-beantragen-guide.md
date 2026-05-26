@@ -1,6 +1,6 @@
 ---
 title: "Visum beantragen: Schritt für Schritt erklärt"
-metaTitle: "Visum beantragen Schritt für Schritt | Zercy"
+metaTitle: "Visum beantragen Schritt für Schritt: Ratgeber 2026 | Zercy"
 description: "Touristenvisum, e-Visa oder Visa on Arrival? Hier erfährst du, wie du dein Visum richtig beantragst, welche Unterlagen du brauchst und typische Fehler vermeidest."
 heroImage: "/img/blog/visa-application.jpg"
 pubDate: 2026-05-25

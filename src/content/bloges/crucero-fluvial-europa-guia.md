@@ -1,6 +1,6 @@
 ---
 title: "Cruceros fluviales en Europa: La guía honesta para 2026"
-metaTitle: "Cruceros fluviales Europa: Rutas, costos, consejos 2026 | Zercy"
+metaTitle: "Cruceros fluviales Europa: Rutas, costos, consejos | Zercy"
 description: "Rin, Danubio, Sena o Ródano: ¿qué crucero fluvial europeo vale realmente la pena? Costos reales, qué incluye, para quién es ideal y cómo reservar inteligente. Todo lo que necesitas saber."
 pubDate: 2026-05-11
 category: "En camino"

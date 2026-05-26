@@ -1,7 +1,7 @@
 ---
 title: "Flugstreik: Welche Rechte hast du und was tun?"
-metaTitle: "Flugstreik: Deine Rechte 2026 | Zercy"
-description: "Flugstreik und dein Flug gestrichen? Hier erfährst du, wann du Entschädigung bekommst, was die Airline trotzdem leisten muss und wie du schnell reagierst."
+metaTitle: "Flugstreik: Deine Rechte 2026 Tipps & Infos | Zercy"
+description: "Flugstreik und dein Flug gestrichen? Hier erfährst du, wann du Entschädigung bekommst, was die Airline trotzdem leisten muss und wie du schnell reagierst Jetzt lesen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 7

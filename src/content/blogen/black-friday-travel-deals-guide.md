@@ -1,7 +1,7 @@
 ---
 title: "Black Friday & Cyber Monday Travel Deals: What's Actually Worth It"
 metaTitle: "Black Friday Travel Deals 2026: What's Worth It? | Zercy"
-description: "Hotels up to 30% off, flights rarely. What's genuinely cheap on Black Friday and Cyber Monday, which deals are real, and what you should prepare in October."
+description: "Hotels up to 30% off, flights rarely. What's genuinely cheap on Black Friday and Cyber Monday, which deals are real, and what you should prepare in October Read more."
 pubDate: 2026-05-26
 category: "Smart Travel"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "48 Stunden in Miami: Dein perfektes Wochenende 2026"
 metaTitle: "48 Stunden in Miami: Perfektes Wochenende | Zercy"
-description: "Miami in 48 Stunden: South Beach Art Deco Walk, Wynwood Walls, Little Havana Frühstück und Brickell Rooftop. Dein Stadtplan für das perfekte Wochenende 2026."
+description: "Miami in 48 Stunden: South Beach Art Deco Walk, Wynwood Walls, Little Havana Frühstück und Brickell Rooftop. Dein Stadtplan für das perfekte Wochenende 2026 Jetzt lesen."
 pubDate: 2026-05-26
 category: "Unterwegs"
 readingTime: 7

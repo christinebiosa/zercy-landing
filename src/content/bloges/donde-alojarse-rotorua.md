@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Rotorua: Dónde alojarse en 2026"
-metaTitle: "Hoteles Rotorua: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Rotorua: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Rotorua tiene 5 zonas con carácter propio: City Centre con spas, la económica Fenton Street, Ngongotahā al norte, la orilla del lago y el geotérmico Whakarewairewa."
 pubDate: 2026-05-26
 category: "Dónde alojarse"

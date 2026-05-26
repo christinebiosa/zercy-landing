@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels an der Gold Coast: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Gold Coast 2026: Wo übernachten in welchem Viertel | Zercy"
+metaTitle: "Hotels Gold Coast 2026: Wo übernachten in welchem | Zercy"
 description: "Gold Coast Hotels 2026: Surfers Paradise, Broadbeach oder Burleigh Heads? Die besten Lagen, Top-Hotel-Picks und Tipps für deinen Australien-Aufenthalt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

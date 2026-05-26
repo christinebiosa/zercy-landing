@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Cairo: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Cairo: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Cairo: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Cairo has 5 neighborhoods for every travel style: Islamic Cairo for culture, Zamalek for couples, Giza for pyramids, Mohandessin for locals, Maadi for long stays."
 pubDate: 2026-05-11
 category: "Where to Stay"

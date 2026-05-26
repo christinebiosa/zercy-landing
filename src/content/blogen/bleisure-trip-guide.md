@@ -1,7 +1,7 @@
 ---
 title: "Bleisure Travel: How to Combine Business Trips and Vacation"
-metaTitle: "Bleisure Travel: Turn Every Work Trip into a Mini Holiday | Zercy"
-description: "Business trip to London or Singapore? With bleisure travel you simply add 2-3 vacation days. How it works with your employer, taxes and hotel costs."
+metaTitle: "Bleisure Travel: Turn Every Work Trip into a Mini | Zercy"
+description: "Business trip to London or Singapore? With bleisure travel you simply add 2-3 vacation days. How it works with your employer, taxes and hotel costs Compare hotels and find the best stay on Zercy."
 pubDate: 2026-05-25
 category: "Business Travel"
 readingTime: 7

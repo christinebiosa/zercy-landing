@@ -1,6 +1,6 @@
 ---
 title: "Cycling Holidays in Europe: The Complete Guide"
-metaTitle: "Cycling Holiday Europe: Best Routes | Zercy"
+metaTitle: "Cycling Holiday Europe: Best Routes Tips 2026 | Zercy"
 description: "EuroVelo, the Danube Cycle Path, and Loire Valley: the best cycling routes in Europe, ideal travel season, packing tips, and how to travel for 30–60 EUR per day."
 heroImage: "/img/blog/cycling-holiday-europe.jpg"
 pubDate: 2026-05-25

@@ -1,7 +1,7 @@
 ---
 title: "Flight Delay Compensation: Your EU261 Rights and How to Claim Them"
 metaTitle: "Flight Delay & EU261: Know Your Rights | Zercy"
-description: "Get up to €600 compensation for flight delays. Here's how EU Regulation 261/2004 works, when you qualify, and exactly how to claim your money."
+description: "Get up to €600 compensation for flight delays. Here's how EU Regulation 261/2004 works, when you qualify, and exactly how to claim your money Compare options and find the best deals on Zercy."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 8

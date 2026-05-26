@@ -1,7 +1,7 @@
 ---
 title: "Norwegen Fjorde: Die schönsten Routen und Reisetipps 2026"
 metaTitle: "Norwegen Fjorde 2026: Routen, Kosten & Tipps | Zercy"
-description: "Sognefjord, Geirangerfjord, Hardangerfjord: Die schönsten Norwegen-Fjord-Routen. Mit Kosten, Anreise und bester Reisezeit für 2026."
+description: "Sognefjord, Geirangerfjord, Hardangerfjord: Die schönsten Norwegen-Fjord-Routen. Mit Kosten, Anreise und bester Reisezeit für 2026 Jetzt clever planen und die besten Optionen vergleichen."
 pubDate: 2026-05-26
 category: "Fernweh"
 readingTime: 8

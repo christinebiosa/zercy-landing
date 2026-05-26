@@ -1,6 +1,6 @@
 ---
 title: "7 Tricks to Find Cheaper Flights (That Frequent Flyers Know)"
-metaTitle: "7 Tricks to Find Cheaper Flights | Zercy"
+metaTitle: "7 Tricks to Find Cheaper Flights: Tips & Guide 2026 | Zercy"
 description: "Frequent flyers pay less. These 7 tricks show how to book flights cheaper systematically – from weekdays to alternative airports. Practical tips that actually work."
 pubDate: 2026-03-20
 category: "Travel Tips"

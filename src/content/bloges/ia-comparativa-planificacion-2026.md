@@ -1,6 +1,6 @@
 ---
 title: "Comparativa: los mejores planificadores de viajes con IA en 2026"
-metaTitle: "Planificadores de viajes IA 2026: comparativa completa | Zercy"
+metaTitle: "Planificadores de viajes IA 2026: comparativa | Zercy"
 description: "Comparativa detallada de los planificadores de viajes con IA en 2026. Qué herramientas combinan conversación, precios en tiempo real y gestión del itinerario. Comparativa honesta con datos reales."
 pubDate: 2026-05-08
 category: "IA y viajes"

@@ -1,6 +1,6 @@
 ---
 title: "Vienna for a Weekend: The Perfect 48-Hour Itinerary"
-metaTitle: "Vienna for a Weekend: 48-Hour Guide | Zercy"
+metaTitle: "Vienna for a Weekend: 48-Hour Guide Tips 2026 | Zercy"
 description: "Vienna in 48 hours: Hofburg, Schönbrunn, the Naschmarkt, and coffee house culture done right. Your complete weekend guide to Austria's capital city. Everything you need to know."
 pubDate: 2026-05-09
 category: "Off the Map"

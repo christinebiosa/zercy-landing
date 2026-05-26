@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Mumbai: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Mumbai: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Mumbai: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Mumbai hat 5 sehr unterschiedliche Stadtteile: Colaba touristisch, Bandra hip, Juhu Strandlage, Lower Parel Business, Andheri Flughafennähe. Welcher passt zu dir?"
 pubDate: 2026-05-09
 category: "Wo übernachten"

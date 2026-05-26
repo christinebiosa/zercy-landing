@@ -1,7 +1,7 @@
 ---
 title: "Tour Guide: When It's Worth It (And When It's Not)"
 metaTitle: "Hiring a Tour Guide: Worth It in 2026? | Zercy"
-description: "Free walking tours, private guides, group tours: what do they cost and when do they actually add value? An honest breakdown for 4 types of travelers."
+description: "Free walking tours, private guides, group tours: what do they cost and when do they actually add value? An honest breakdown for 4 types of travelers Compare options and find the best deals on Zercy."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 7

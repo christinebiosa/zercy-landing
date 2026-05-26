@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Gold Coast: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Gold Coast 2026: Dónde Alojarse en Gold Coast | Zercy"
+metaTitle: "Hoteles Gold Coast 2026: Dónde Alojarse en Gold | Zercy"
 description: "Hoteles Gold Coast 2026: Surfers Paradise, Broadbeach o Burleigh Heads. Los mejores barrios, mejores hoteles y consejos para tus vacaciones en la playa de Australia."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

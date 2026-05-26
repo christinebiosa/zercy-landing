@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Varanasi: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Varanasi: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Varanasi: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Varanasi has 5 zones: Ghats/Dashashwamedh for spirituality, Assi Ghat quieter and student-friendly, Godaulia/Old City immersive, Cantonment modern, Sarnath Buddhist and calm."
 pubDate: 2026-05-26
 category: "Where to Stay"

@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Boston: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Boston: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Boston: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Boston has 5 distinct neighborhoods: Downtown for first-timers, Back Bay for shopping, Beacon Hill for romance, Cambridge for culture, South End for food lovers."
 pubDate: 2026-05-11
 category: "Where to Stay"

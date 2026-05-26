@@ -1,6 +1,6 @@
 ---
 title: "Equipaje de mano vs. facturado: cuándo vale la pena pagar por la maleta"
-metaTitle: "Equipaje de mano vs. facturado: cuándo pagar la maleta | Zercy"
+metaTitle: "Equipaje de mano vs. facturado: cuándo pagar | Zercy"
 description: "Cuándo conviene llevar solo equipaje de mano y cuándo facturar merece la pena. Aerolíneas que cobran por cabina, cómo empacar 7 días en 10 kg y qué no puede ir en cabina."
 pubDate: 2026-05-09
 category: "Solo equipaje de mano"

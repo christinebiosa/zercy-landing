@@ -1,6 +1,6 @@
 ---
 title: "Las mejores apps de viaje que funcionan sin internet en 2026"
-metaTitle: "Mejores apps de viaje sin internet 2026: guía completa | Zercy"
+metaTitle: "Mejores apps de viaje sin internet 2026: guía | Zercy"
 description: "¿Qué apps de viaje funcionan offline? Maps.me, Google Maps sin conexión, Rome2rio, XE Currency y más. Cómo descargarlas antes de salir y por qué son esenciales."
 pubDate: 2026-05-09
 category: "Viaje inteligente"

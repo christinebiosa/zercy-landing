@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Kochi: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Kochi: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Kochi: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Kochi has 5 distinct neighborhoods: Fort Kochi colonial charm, Mattancherry Jewish quarter history, Ernakulam for business and budget, Marine Drive waterfront, and Cherai Beach for relaxation. Top hotels for every budget."
 pubDate: 2026-05-26
 category: "Where to Stay"

@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Danzig: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Danzig Hotels: Wo übernachten 2026 | Zercy"
+metaTitle: "Danzig Hotels: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Główne Miasto oder Sopot? Die besten Hotels in Danzig nach Viertel. Mit Preisklassen, Hotel-Picks und welcher Stadtteil zu deinem Reisestil passt. Bernstein, Backstein und Ostsee."
 pubDate: 2026-05-26
 category: "Wo übernachten"

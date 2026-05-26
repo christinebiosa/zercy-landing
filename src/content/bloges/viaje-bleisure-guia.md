@@ -1,7 +1,7 @@
 ---
 title: "Viaje Bleisure: Cómo combinar viajes de negocios y vacaciones"
-metaTitle: "Bleisure Travel: Convierte cada viaje laboral en mini vacaciones | Zercy"
-description: "¿Viaje de negocios a Londres o Singapur? Con bleisure añades 2-3 días de vacaciones fácilmente. Cómo funciona con tu empresa, impuestos y costes de hotel."
+metaTitle: "Bleisure Travel: Convierte cada viaje laboral en | Zercy"
+description: "¿Viaje de negocios a Londres o Singapur? Con bleisure añades 2-3 días de vacaciones fácilmente. Cómo funciona con tu empresa, impuestos y costes de hotel Más información."
 pubDate: 2026-05-25
 category: "Viajes de negocios"
 readingTime: 7

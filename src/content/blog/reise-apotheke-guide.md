@@ -1,6 +1,6 @@
 ---
 title: "Reise-Apotheke packen: Was wirklich reingehört"
-metaTitle: "Reise-Apotheke packen – Checkliste | Zercy"
+metaTitle: "Reise-Apotheke packen – Checkliste: Ratgeber 2026 | Zercy"
 description: "Welche Medikamente gehören in jede Reise-Apotheke? Basisausstattung, Fernreise-Extras und Tipps für Handgepäck-Regeln. Kompakte Checkliste für Europa und Fernreisen."
 heroImage: "/img/blog/travel-first-aid-kit.jpg"
 pubDate: 2026-05-25

@@ -1,6 +1,6 @@
 ---
 title: "Tailandia en 2 semanas: la mejor ruta para la primera visita"
-metaTitle: "Tailandia 2 semanas: ruta Bangkok, Chiang Mai e islas 2026 | Zercy"
+metaTitle: "Tailandia 2 semanas: ruta Bangkok, Chiang Mai e | Zercy"
 description: "La ruta más probada para visitar Tailandia en 2 semanas: Bangkok, Chiang Mai y las islas del sur. Con costos reales, consejos y todo lo que necesitas saber. Todo lo que necesitas para planificar."
 pubDate: 2026-05-09
 category: "Lugares lejanos"

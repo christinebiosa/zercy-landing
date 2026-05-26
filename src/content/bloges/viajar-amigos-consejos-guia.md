@@ -1,6 +1,6 @@
 ---
 title: "Viajar con amigos: consejos que de verdad funcionan"
-metaTitle: "Viajar con amigos: 7 consejos 2026 | Zercy"
+metaTitle: "Viajar con amigos: 7 consejos 2026 Guía Completa | Zercy"
 description: "Viajar con amigos suena perfecto. Y muchas veces lo es. Pero las diferencias de presupuesto, los conflictos de planificación y los ritmos de sueño distintos pueden arruinarlo. Aquí cómo evitarlo."
 pubDate: 2026-05-25
 category: "Consejos de viaje"

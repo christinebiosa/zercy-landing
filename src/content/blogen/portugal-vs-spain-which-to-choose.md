@@ -1,7 +1,7 @@
 ---
 title: "Portugal vs. Spain: Which to Choose for Your 2026 Holiday?"
 metaTitle: "Portugal vs. Spain: Which Is Better for Travel? | Zercy"
-description: "Portugal costs 15–25% less than Spain. Lisbon beats Madrid on price. But Spain wins on variety, world-class food, and flight connections. Here's how to decide."
+description: "Portugal costs 15–25% less than Spain. Lisbon beats Madrid on price. But Spain wins on variety, world-class food, and flight connections. Here's how to decide Read more."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 8

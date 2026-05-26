@@ -1,6 +1,6 @@
 ---
 title: "Consolidadores de alquiler de coche: cómo pagar menos por el mismo vehículo"
-metaTitle: "Consolidadores alquiler coche: ahorra hasta un 40% en 2026 | Zercy"
+metaTitle: "Consolidadores alquiler coche: ahorra hasta un 40% | Zercy"
 description: "¿Qué es un consolidador de alquiler de coche? Por qué son más baratos que las webs directas y qué plataformas ofrecen las mejores tarifas para viajeros en 2026."
 pubDate: 2026-05-08
 category: "Viaje inteligente"

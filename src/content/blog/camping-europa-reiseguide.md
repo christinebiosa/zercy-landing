@@ -1,6 +1,6 @@
 ---
 title: "Camping Europa: Der komplette Guide für 2026"
-metaTitle: "Camping Europa 2026: Guide für Einsteiger und Erfahrene | Zercy"
+metaTitle: "Camping Europa 2026: Guide für Einsteiger | Zercy"
 description: "Norwegen wild campen, Kroatien-Adria, Alpen: Camping in Europa von 0 Euro bis Luxus-Campingplatz. Mit App-Empfehlungen, Buchungstipps und Regeln je Land für 2026."
 pubDate: 2026-05-25
 category: "Clever Reisen"

@@ -1,6 +1,6 @@
 ---
 title: "Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt"
-metaTitle: "Open-Jaw Tickets: Reise-Hack erklärt | Zercy"
+metaTitle: "Open-Jaw Tickets: Reise-Hack erklärt Ratgeber 2026 | Zercy"
 description: "Open-Jaw Tickets kosten oft genauso viel wie ein normaler Hin-und-Rückflug. Du fliegst in eine Stadt und fliegst von einer anderen zurück. So buchst du sie richtig."
 pubDate: 2026-04-04
 category: "Smarter Reisen"

@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Gdansk: Dónde alojarse en 2026"
-metaTitle: "Gdansk hoteles: Dónde alojarse 2026 | Zercy"
+metaTitle: "Gdansk hoteles: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "¿Ciudad Vieja o Sopot? Los mejores hoteles en Gdansk por barrio. Opciones concretas para cada presupuesto, del ámbar hanseático a la playa báltica y los puertos emergentes."
 pubDate: 2026-05-26
 category: "Dónde alojarse"

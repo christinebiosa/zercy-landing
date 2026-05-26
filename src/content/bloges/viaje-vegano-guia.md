@@ -1,6 +1,6 @@
 ---
 title: "Guía de Viaje Vegano: Los Mejores Destinos y Cómo Funciona en Todas Partes"
-metaTitle: "Viaje Vegano 2026: Mejores Destinos y Consejos Prácticos | Zercy"
+metaTitle: "Viaje Vegano 2026: Mejores Destinos y Consejos | Zercy"
 description: "Guía de viaje vegano 2026: mejores destinos veganos, HappyCow y otras apps, tarjetas de idioma para viajeros, pedir comida vegana en aviones y consejos para países difíciles."
 pubDate: 2026-05-14
 category: "Consejos de viaje"

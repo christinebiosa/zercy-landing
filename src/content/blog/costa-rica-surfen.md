@@ -1,6 +1,6 @@
 ---
 title: "Tropisches Costa Rica: Surfen, Dschungel und Pura Vida"
-metaTitle: "Costa Rica: Surfen & Pura Vida | Zercy"
+metaTitle: "Costa Rica: Surfen & Pura Vida Tipps & Infos 2026 | Zercy"
 description: "Costa Rica ist mehr als ein Reiseziel. Es ist eine Haltung. Traumwellen, Regenwald, Faultiere – und Surfbreaks für jeden Level. Kostenvergleich und Spartipps für 2026."
 pubDate: 2026-03-25
 category: "Fernweh"

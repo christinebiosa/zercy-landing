@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Split: Dónde alojarse en cada barrio 2026"
-metaTitle: "Hoteles Split: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Split: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Split tiene 5 barrios: Stari Grad dentro del palacio, Manuš tranquilo, Spinut con playa local, Žnjan resorts modernos, corredor Trogir para viajeros de islas. Encuentra tu opción."
 pubDate: 2026-05-11
 category: "Dónde alojarse"

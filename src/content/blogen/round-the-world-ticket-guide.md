@@ -1,7 +1,7 @@
 ---
 title: "Round the World Ticket Explained: Is an RTW Ticket Worth It?"
 metaTitle: "Round the World Ticket 2026: Is It Worth It? | Zercy"
-description: "Alliance RTW tickets from 2,500 euros for 5 stops on 3 continents. When a round-the-world ticket is cheaper than individual tickets and when it is not."
+description: "Alliance RTW tickets from 2,500 euros for 5 stops on 3 continents. When a round-the-world ticket is cheaper than individual tickets and when it is not Read more."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 8

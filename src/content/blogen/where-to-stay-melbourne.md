@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Melbourne: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Melbourne: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Melbourne: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Melbourne has 5 distinct neighborhoods: CBD central, Fitzroy hipster, St Kilda beachside, Southbank cultural, Carlton quiet. Find your best fit with prices and hotel picks."
 pubDate: 2026-05-10
 category: "Where to Stay"

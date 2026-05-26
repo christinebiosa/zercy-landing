@@ -1,6 +1,6 @@
 ---
 title: "Mit Freunden reisen: Tipps, die wirklich funktionieren"
-metaTitle: "Mit Freunden reisen: 7 Tipps 2026 | Zercy"
+metaTitle: "Mit Freunden reisen: 7 Tipps 2026 Ratgeber | Zercy"
 description: "Mit Freunden reisen klingt perfekt. Ist es meistens auch. Aber Budgetstreit, Tagesplanungschaos und Schlafrhythmusprobleme können die Stimmung kippen. So vermeidest du die 3 Klassiker."
 pubDate: 2026-05-25
 category: "Reisetipps"

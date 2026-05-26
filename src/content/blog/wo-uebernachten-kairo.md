@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Kairo: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Kairo: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Kairo: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Kairo hat 5 Viertel für jeden Reisetyp: Islamisches Kairo für Kultur, Zamalek für Paare, Giza für Pyramiden, Mohandessin für Locals, Maadi für Langzeitaufenthalte."
 pubDate: 2026-05-11
 category: "Wo übernachten"

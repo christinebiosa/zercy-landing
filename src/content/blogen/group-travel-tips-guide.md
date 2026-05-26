@@ -1,7 +1,7 @@
 ---
 title: "Group Travel Tips: How to Organize Any Trip"
 metaTitle: "Group Travel Tips: Plan Any Trip Together | Zercy"
-description: "Planning a group trip with 4 to 12 people? Here's how to handle budgets, decisions, roles, and the most common problems before they happen."
+description: "Planning a group trip with 4 to 12 people? Here's how to handle budgets, decisions, roles, and the most common problems before they happen Real tips that help you save money on your next trip."
 heroImage: "/img/blog/group-travel.jpg"
 pubDate: 2026-05-25
 category: "Travel Tips"

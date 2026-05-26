@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Ho-Chi-Minh-Stadt: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Ho-Chi-Minh-Stadt: Wo übernachten in welchem Viertel | Zercy"
+metaTitle: "Hotels Ho-Chi-Minh-Stadt: Wo übernachten in welchem | Zercy"
 description: "Ho-Chi-Minh-Stadt hat 5 sehr verschiedene Lagen: das koloniale Distrikt 1, das lokale Distrikt 3, Bui Vien Street, Chinatown Distrikt 5 und die Expat-Gegend Thao Dien. Der Vergleich."
 pubDate: 2026-05-09
 category: "Wo übernachten"

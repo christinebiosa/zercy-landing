@@ -1,7 +1,7 @@
 ---
 title: "Reisedokumente organisieren: Der vollständige Guide"
 metaTitle: "Reisedokumente organisieren: Checkliste 2026 | Zercy"
-description: "Pass, Visum, Impfpass, Krankenversicherung: Welche Dokumente du wirklich brauchst, wie du sie digital sicherst und was du tust, wenn der Pass gestohlen wird."
+description: "Pass, Visum, Impfpass, Krankenversicherung: Welche Dokumente du wirklich brauchst, wie du sie digital sicherst und was du tust, wenn der Pass gestohlen wird Jetzt lesen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 6

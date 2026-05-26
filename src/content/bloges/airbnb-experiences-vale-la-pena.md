@@ -1,6 +1,6 @@
 ---
 title: "¿Valen la pena las Airbnb Experiences? La respuesta honesta"
-metaTitle: "¿Valen la pena las Airbnb Experiences? Análisis honesto | Zercy"
+metaTitle: "¿Valen la pena las Airbnb Experiences? Análisis | Zercy"
 description: "¿Merecen la pena las Airbnb Experiences o es mejor una excursión tradicional? Casos donde superan a los tours, cuándo no, precios reales y cómo encontrar las buenas."
 pubDate: 2026-05-09
 category: "Consejos de viaje"

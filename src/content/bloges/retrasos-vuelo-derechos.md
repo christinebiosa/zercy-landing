@@ -1,6 +1,6 @@
 ---
 title: "Tus derechos si tu vuelo se retrasa o lo cancelan: guía práctica"
-metaTitle: "Derechos en vuelos retrasados o cancelados: CE 261/2004 | Zercy"
+metaTitle: "Derechos en vuelos retrasados o cancelados: CE | Zercy"
 description: "Todo sobre el Reglamento CE 261/2004. Qué compensación te corresponde por retraso o cancelación. Qué hacer paso a paso en el aeropuerto y qué decirle a la aerolínea."
 pubDate: 2026-05-09
 category: "Consejos de viaje"

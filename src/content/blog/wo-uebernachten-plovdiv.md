@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Plovdiv: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Plovdiv 2026: Wo übernachten | Zercy"
+metaTitle: "Hotels Plovdiv 2026: Wo übernachten Tipps & Infos | Zercy"
 description: "Plovdiv Hotels 2026: Altstadt, Kapana oder Stadtzentrum? Beste Stadtteile, Top-Picks und Tipps für Bulgariens älteste und charmanteste Stadt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

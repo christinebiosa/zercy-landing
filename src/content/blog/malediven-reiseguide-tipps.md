@@ -1,6 +1,6 @@
 ---
 title: "Malediven Reiseguide 2026: Was lohnt sich wirklich?"
-metaTitle: "Malediven 2026: Kosten, Tipps & günstige Alternativen | Zercy"
+metaTitle: "Malediven 2026: Kosten, Tipps & günstige | Zercy"
 description: "Malediven Reiseguide 2026: Was kostet ein Urlaub wirklich, wann ist die beste Reisezeit, welche Inseln lohnen sich und was sind die besten Alternativen. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-09
 category: "Fernweh"

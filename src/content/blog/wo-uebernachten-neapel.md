@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Neapel: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Neapel: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Neapel: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Neapel hat 5 unverwechselbare Viertel: Centro Storico, Chiaia, Vomero, Quartieri Spagnoli und Posillipo. Finde deinen perfekten Stadtteil mit Preisen und Hotel-Picks."
 pubDate: 2026-05-10
 category: "Wo übernachten"

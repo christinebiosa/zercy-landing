@@ -1,6 +1,6 @@
 ---
 title: "Reisen nach 60: Was sich ändert und was besser wird"
-metaTitle: "Reisen nach 60: Tipps für Senioren | Zercy"
+metaTitle: "Reisen nach 60: Tipps für Senioren Ratgeber 2026 | Zercy"
 description: "Mehr Budget, mehr Zeit, keine Schulferien: Reisen nach 60 hat echte Vorteile. Tipps zu Versicherung, Gesundheit und den besten Reisezielen für Ü60. Mit konkreten Praxistipps."
 pubDate: 2026-05-09
 category: "Reisetipps"

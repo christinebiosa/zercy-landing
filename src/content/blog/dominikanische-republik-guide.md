@@ -1,6 +1,6 @@
 ---
 title: "Dominikanische Republik Guide: Punta Cana, Santo Domingo und Samaná"
-metaTitle: "Dominikanische Republik Guide 2026: Punta Cana & mehr | Zercy"
+metaTitle: "Dominikanische Republik Guide 2026: Punta Cana | Zercy"
 description: "Dominikanische Republik entdecken: Punta Cana All-Inclusive, Santo Domingo älteste Hauptstadt Amerikas, Samaná mit Buckelwalen, Las Terrenas und Jarabacoa Berge. Reisetipps 2026."
 pubDate: 2026-05-14
 category: "Fernweh"

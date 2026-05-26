@@ -1,6 +1,6 @@
 ---
 title: "Mejores Hoteles en Oaxaca: Dónde Alojarse por Barrio 2026"
-metaTitle: "Hoteles Oaxaca: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Oaxaca: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Oaxaca tiene 5 barrios distintos: Centro Histórico para la mejor ubicación, Jalatlaco para el encanto adoquinado, Colonia Reforma para locales, San Felipe para tranquilidad y lujo."
 pubDate: 2026-05-09
 category: "Dónde alojarse"

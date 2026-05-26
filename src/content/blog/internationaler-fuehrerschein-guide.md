@@ -1,7 +1,7 @@
 ---
 title: "Internationaler Führerschein: Wann brauchst du ihn?"
-metaTitle: "Internationaler Führerschein Guide | Zercy"
-description: "Wann brauchst du einen internationalen Führerschein? USA, Japan, Thailand, Australien: alle wichtigen Länder, Kosten und Beantragung beim ADAC erklärt."
+metaTitle: "Internationaler Führerschein Guide: Ratgeber 2026 | Zercy"
+description: "Wann brauchst du einen internationalen Führerschein? USA, Japan, Thailand, Australien: alle wichtigen Länder, Kosten und Beantragung beim ADAC erklärt Jetzt lesen."
 heroImage: "/img/blog/international-driving-license.jpg"
 pubDate: 2026-05-25
 category: "Clever Reisen"

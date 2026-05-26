@@ -1,6 +1,6 @@
 ---
 title: "Polonia Ruta Completa: Cracovia, Varsovia, Gdansk y los Tatras"
-metaTitle: "Polonia Ruta Completa 2026: Mejores Ciudades y Highlights | Zercy"
+metaTitle: "Polonia Ruta Completa 2026: Mejores Ciudades | Zercy"
 description: "Planifica tu ruta por Polonia: Cracovia, Varsovia, Gdansk, Breslavia y Zakopane. La mejor ruta, consejos de tren y por qué Polonia es el destino más subestimado."
 pubDate: 2026-05-14
 category: "Lugares lejanos"

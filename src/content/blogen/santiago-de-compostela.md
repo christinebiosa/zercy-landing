@@ -1,6 +1,6 @@
 ---
 title: "Santiago de Compostela: The Camino and Why It Changes Everyone"
-metaTitle: "Santiago de Compostela & The Camino | Zercy"
+metaTitle: "Santiago de Compostela & The Camino: Tips 2026 | Zercy"
 description: "Millions of people have walked the Camino de Santiago. What draws them? A city at the edge of the world, a path through yourself – and a stamp in your passport."
 pubDate: 2026-03-23
 category: "Off the Map"

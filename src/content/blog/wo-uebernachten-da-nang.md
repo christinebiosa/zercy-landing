@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Da Nang: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Da Nang 2026: Wo übernachten in welchem Viertel | Zercy"
+metaTitle: "Hotels Da Nang 2026: Wo übernachten in welchem | Zercy"
 description: "Da Nang Hotels 2026: My Khe Beach, Da Nang City, Son Tra oder Non Nuoc. Die besten Stadtteile, Top-Picks und Tipps für deinen Vietnam-Aufenthalt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

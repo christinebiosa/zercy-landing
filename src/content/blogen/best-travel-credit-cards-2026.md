@@ -1,6 +1,6 @@
 ---
 title: "Best Travel Credit Cards 2026: Amex, Chase and Barclays Compared"
-metaTitle: "Best Travel Credit Cards 2026 | Zercy"
+metaTitle: "Best Travel Credit Cards 2026: Tips & Guide | Zercy"
 description: "Amex Platinum vs Chase Sapphire vs Barclays Avios: Which travel credit card is worth it in 2026? Points, lounge access, travel insurance and annual fees compared for European travelers."
 pubDate: 2026-05-09
 category: "Smart Travel"

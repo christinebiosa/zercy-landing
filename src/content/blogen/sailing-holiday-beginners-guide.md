@@ -1,6 +1,6 @@
 ---
 title: "Sailing Holiday for Beginners: What You Really Need to Know"
-metaTitle: "Sailing Holiday Beginners Guide 2026 | Zercy"
+metaTitle: "Sailing Holiday Beginners Guide 2026: Tips | Zercy"
 description: "No sailing license needed with a skippered charter. Best regions, costs from 150 EUR per person, what seasickness really feels like and how to pick the right boat trip."
 pubDate: 2026-05-11
 category: "Travel Tips"

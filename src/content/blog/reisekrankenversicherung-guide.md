@@ -1,7 +1,7 @@
 ---
 title: "Reisekrankenversicherung: Wann sie nötig ist und was sie kostet"
-metaTitle: "Reisekrankenversicherung 2026: Wann nötig, was kostet sie | Zercy"
-description: "GKV zahlt in den USA nicht. Reisekrankenversicherung ab 30 Euro im Jahr. Wann sie Pflicht ist, was sie abdeckt und wann die EHIC-Karte ausreicht."
+metaTitle: "Reisekrankenversicherung 2026: Wann nötig, was | Zercy"
+description: "GKV zahlt in den USA nicht. Reisekrankenversicherung ab 30 Euro im Jahr. Wann sie Pflicht ist, was sie abdeckt und wann die EHIC-Karte ausreicht Tipps, Kosten und alles was du wissen musst."
 pubDate: 2026-05-25
 category: "Reisetipps"
 readingTime: 7

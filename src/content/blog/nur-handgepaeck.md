@@ -1,6 +1,6 @@
 ---
 title: "Eine Woche, nur Handgepäck: Was wirklich reinpasst"
-metaTitle: "Eine Woche nur Handgepäck: So geht's | Zercy"
+metaTitle: "Eine Woche nur Handgepäck: So geht's Ratgeber 2026 | Zercy"
 description: "Kein Koffer aufgeben, kein Warten am Band, kein verlorenes Gepäck. Wer einmal nur mit Handgepäck gereist ist, will nie zurück. Ehrliche Einschätzung mit Praxistipps."
 pubDate: 2026-03-26
 category: "Nur mit Handgepäck"

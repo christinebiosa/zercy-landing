@@ -1,6 +1,6 @@
 ---
 title: "Países Bajos Ruta Completa: Ámsterdam, Keukenhof y la Mejor Ruta"
-metaTitle: "Países Bajos Ruta Completa 2026: Ámsterdam a Róterdam | Zercy"
+metaTitle: "Países Bajos Ruta Completa 2026: Ámsterdam a | Zercy"
 description: "Planifica tu ruta por los Países Bajos: Ámsterdam, tulipanes de Keukenhof, arquitectura de Róterdam, Delft y La Haya. La mejor ruta y por qué la bici es obligatoria."
 pubDate: 2026-05-14
 category: "Lugares lejanos"

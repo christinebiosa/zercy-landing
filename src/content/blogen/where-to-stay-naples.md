@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Naples: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Naples: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Naples: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Naples has 5 distinct neighborhoods: Centro Storico, Chiaia, Vomero, Quartieri Spagnoli, and Posillipo. Find your perfect match with prices and hotel picks for 2026."
 pubDate: 2026-05-10
 category: "Where to Stay"

@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Plovdiv: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Plovdiv 2026: Dónde alojarse | Zercy"
+metaTitle: "Hoteles Plovdiv 2026: Dónde alojarse Guía Completa | Zercy"
 description: "Plovdiv hoteles 2026: ¿Casco histórico, Kapana o centro ciudad? Mejores barrios, picks de hoteles y consejos para la ciudad más antigua y encantadora de Bulgaria."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

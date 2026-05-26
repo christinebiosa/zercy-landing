@@ -1,7 +1,7 @@
 ---
 title: "48 Hours in Dublin: The Honest Weekend Itinerary"
 metaTitle: "48 Hours in Dublin: Your Weekend Itinerary | Zercy"
-description: "Dublin in 48 hours: Trinity College, Kilmainham Gaol, Phoenix Park and real pubs away from Temple Bar. What's worth your time and what you can skip entirely."
+description: "Dublin in 48 hours: Trinity College, Kilmainham Gaol, Phoenix Park and real pubs away from Temple Bar. What's worth your time and what you can skip entirely Read more."
 pubDate: 2026-05-25
 category: "On the Move"
 readingTime: 7

@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Jaipur: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Jaipur: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Jaipur: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Jaipur has 5 zones: Pink City chaotic and authentic, Civil Lines colonial calm, Bani Park green and affordable, Malviya Nagar modern, Amer Road near Amber Fort."
 pubDate: 2026-05-10
 category: "Where to Stay"

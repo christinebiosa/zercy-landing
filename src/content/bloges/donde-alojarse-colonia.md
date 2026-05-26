@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Colonia: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Colonia 2026: Dónde alojarse | Zercy"
+metaTitle: "Hoteles Colonia 2026: Dónde alojarse Guía Completa | Zercy"
 description: "Colonia hoteles 2026: ¿Altstadt, Barrio Belga, Ehrenfeld o Deutz? Los mejores barrios, picks de hoteles y consejos para la ciudad de la catedral en el Rin. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

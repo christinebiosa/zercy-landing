@@ -1,7 +1,7 @@
 ---
 title: "Bleisure Travel: Geschäftsreise und Urlaub smart kombinieren"
 metaTitle: "Bleisure Travel: So verlängerst du jede Dienstreise | Zercy"
-description: "Dienstreise nach London oder Singapur? Mit Bleisure Travel hängst du einfach 2-3 Urlaubstage dran. Wie das mit Chef, Steuer und Hotel-Kosten funktioniert."
+description: "Dienstreise nach London oder Singapur? Mit Bleisure Travel hängst du einfach 2-3 Urlaubstage dran. Wie das mit Chef, Steuer und Hotel-Kosten funktioniert Jetzt lesen."
 pubDate: 2026-05-25
 category: "Business Travel"
 readingTime: 7

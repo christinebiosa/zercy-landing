@@ -1,7 +1,7 @@
 ---
 title: "Cheap Long-Haul Flights: 7 Tricks That Actually Work in 2026"
 metaTitle: "Cheap Long-Haul Flights 2026: 7 Methods That Work | Zercy"
-description: "Ex-EU routing, budget airlines, 5th freedom flights: 7 proven methods for cheap long-haul flights. Frankfurt-Bangkok from €380, Berlin-New York from €320."
+description: "Ex-EU routing, budget airlines, 5th freedom flights: 7 proven methods for cheap long-haul flights. Frankfurt-Bangkok from €380, Berlin-New York from €320 Read more."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 9

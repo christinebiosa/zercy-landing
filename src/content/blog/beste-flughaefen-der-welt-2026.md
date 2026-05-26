@@ -1,6 +1,6 @@
 ---
 title: "Die besten Flughäfen der Welt 2026: Wo Warten Spaß macht"
-metaTitle: "Beste Flughäfen der Welt 2026 | Zercy"
+metaTitle: "Beste Flughäfen der Welt 2026: Tipps & Infos | Zercy"
 description: "Singapore Changi hat einen Schmetterlingsgarten und einen Wasserfall. Tokio Haneda ist pünktlicher als jede europäische Bahn. Welche Flughäfen 2026 wirklich überzeugen."
 pubDate: 2026-05-25
 category: "Reisetipps"

@@ -1,6 +1,6 @@
 ---
 title: "¿Reservar hotel online o directamente? La comparativa real 2026"
-metaTitle: "Reservar hotel online o directo: qué es mejor en 2026 | Zercy"
+metaTitle: "Reservar hotel online o directo: qué es mejor en | Zercy"
 description: "¿Booking.com o directo con el hotel? Comparativa de precios, flexibilidad y protección al viajero. Cuándo conviene cada opción y dónde realmente se ahorra. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Viaje inteligente"

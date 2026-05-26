@@ -1,6 +1,6 @@
 ---
 title: "Neuseeland Reiseguide 2026: Nordinsel, Südinsel und die beste Route"
-metaTitle: "Neuseeland Reiseguide 2026 | Zercy"
+metaTitle: "Neuseeland Reiseguide 2026: Tipps & Infos | Zercy"
 description: "Neuseeland in 2 bis 4 Wochen: Beste Reiseroute, Highlights auf Nord- und Südinsel, Mietwagen vs. Campervan, Reisezeit und praktische Tipps für 2026. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-09
 category: "Fernweh"

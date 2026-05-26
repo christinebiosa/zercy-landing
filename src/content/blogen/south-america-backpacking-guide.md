@@ -1,7 +1,7 @@
 ---
 title: "South America Backpacking Guide: The Gringo Trail"
-metaTitle: "South America Backpacking Guide 2026 | Zercy"
-description: "Bogotá to Buenos Aires in 2 to 4 months: budget, safety, transport, and why Colombia is the best place to start your South America trip."
+metaTitle: "South America Backpacking Guide 2026: Tips | Zercy"
+description: "Bogotá to Buenos Aires in 2 to 4 months: budget, safety, transport, and why Colombia is the best place to start your South America trip Real tips that help you save money on your next trip."
 heroImage: "/img/blog/south-america-backpacking.jpg"
 pubDate: 2026-05-25
 category: "Off the Map"

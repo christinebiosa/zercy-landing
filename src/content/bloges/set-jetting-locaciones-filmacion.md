@@ -1,7 +1,7 @@
 ---
 title: "Set-Jetting: Viajes a locaciones de filmación y escenarios de películas"
 metaTitle: "Set-Jetting 2026: Las mejores locaciones de cine | Zercy"
-description: "Juego de Tronos en Croacia, White Lotus en Sicilia, Mamma Mia en Grecia: Los 10 destinos de set-jetting más buscados en 2026 con consejos de cuándo ir."
+description: "Juego de Tronos en Croacia, White Lotus en Sicilia, Mamma Mia en Grecia: Los 10 destinos de set-jetting más buscados en 2026 con consejos de cuándo ir Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Lugares lejanos"
 readingTime: 8

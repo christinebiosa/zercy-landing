@@ -1,6 +1,6 @@
 ---
 title: "Safety in Latin America: Realistic Tips Without Scaremongering"
-metaTitle: "Latin America Safety 2026: Real Tips Without Exaggeration | Zercy"
+metaTitle: "Latin America Safety 2026: Real Tips Without | Zercy"
 description: "Chile and Costa Rica safe, Venezuela no-go: Which countries are genuinely safe and which tricks actually help. Express kidnapping explained and how to avoid it."
 pubDate: 2026-05-25
 category: "Travel Tips"

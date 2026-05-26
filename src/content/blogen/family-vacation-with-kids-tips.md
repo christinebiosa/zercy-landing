@@ -1,6 +1,6 @@
 ---
 title: "Family Vacation with Kids: Checklist and Tips for Stress-Free Travel"
-metaTitle: "Family Vacation with Kids: Tips 2026 | Zercy"
+metaTitle: "Family Vacation with Kids: Tips 2026 Tips & Guide | Zercy"
 description: "Family travel with kids does not have to be chaos. The right destination, smart timing and a few practical tricks make even long-haul flights manageable. Here's how."
 pubDate: 2026-05-10
 category: "Travel Tips"

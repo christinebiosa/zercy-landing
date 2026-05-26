@@ -1,6 +1,6 @@
 ---
 title: "Viajar después de los 60: consejos prácticos para hacerlo bien"
-metaTitle: "Viajar después de los 60: consejos prácticos y destinos | Zercy"
+metaTitle: "Viajar después de los 60: consejos prácticos | Zercy"
 description: "¿Cómo viajar bien después de los 60? Seguro médico, destinos accesibles, cómo elegir el alojamiento y por qué los 60+ son la mejor edad para explorar el mundo. Con los mejores consejos para 2026."
 pubDate: 2026-05-09
 category: "Consejos de viaje"

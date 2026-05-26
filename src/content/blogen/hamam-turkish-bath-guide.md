@@ -1,7 +1,7 @@
 ---
 title: "Hamam: What to Expect at a Turkish Bath (Honest Guide)"
 metaTitle: "Turkish Bath Guide: What Really Happens Inside | Zercy"
-description: "Hamam in Istanbul, Budapest or Marrakech: what actually happens step by step, what it costs, what to wear, and what you need to know before going in."
+description: "Hamam in Istanbul, Budapest or Marrakech: what actually happens step by step, what it costs, what to wear, and what you need to know before going in Tips, costs, and everything you need to know."
 pubDate: 2026-05-26
 category: "Hidden Gems"
 readingTime: 7

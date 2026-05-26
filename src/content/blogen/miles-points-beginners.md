@@ -1,6 +1,6 @@
 ---
 title: "Miles and Points for Beginners: An Honest Guide 2026"
-metaTitle: "Miles and Points for Beginners 2026 | Zercy"
+metaTitle: "Miles and Points for Beginners 2026: Tips & Guide | Zercy"
 description: "Miles & More, Flying Blue, Avios explained. What a mile is actually worth, how to avoid common mistakes, and when loyalty programs are genuinely useful. Everything you need to know."
 pubDate: 2026-05-09
 category: "Smart Travel"

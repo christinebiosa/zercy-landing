@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Lucerna: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Lucerna 2026: Dónde alojarse | Zercy"
+metaTitle: "Hoteles Lucerna 2026: Dónde alojarse Guía Completa | Zercy"
 description: "Lucerna hoteles 2026: Casco antiguo con el Puente de la Capilla y el lago, Grand Hotels en el paseo lacustre, Tribschen para tranquilidad. Precios y picks 2026."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

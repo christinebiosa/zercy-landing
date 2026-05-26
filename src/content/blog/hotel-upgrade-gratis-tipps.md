@@ -1,6 +1,6 @@
 ---
 title: "Hotel-Upgrade gratis: 7 Methoden die wirklich funktionieren"
-metaTitle: "Gratis Hotel-Upgrade bekommen 2026: Tricks die wirken | Zercy"
+metaTitle: "Gratis Hotel-Upgrade bekommen 2026: Tricks | Zercy"
 description: "Gratis Hotel-Upgrade bekommen: 7 Methoden die wirklich funktionieren, wann du fragen sollst, was du sagen sollst und warum manche Reisenden immer besser dran sind."
 pubDate: 2026-05-09
 category: "Clever Reisen"

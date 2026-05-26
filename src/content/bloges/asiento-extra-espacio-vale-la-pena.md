@@ -1,7 +1,7 @@
 ---
 title: "Asiento con espacio extra: ¿Vale la pena pagarlo?"
 metaTitle: "Asiento extra espacio: ¿Vale la pena en 2026? | Zercy"
-description: "El espacio extra cuesta entre 15 y 200 euros. Cuándo vale la pena pagarlo, cuándo no, y cómo conseguirlo gratis a veces. La respuesta honesta."
+description: "El espacio extra cuesta entre 15 y 200 euros. Cuándo vale la pena pagarlo, cuándo no, y cómo conseguirlo gratis a veces. La respuesta honesta Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 7

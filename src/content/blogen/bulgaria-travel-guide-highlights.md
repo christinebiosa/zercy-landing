@@ -1,6 +1,6 @@
 ---
 title: "Bulgaria Travel Guide: Sofia, Plovdiv and the EU's Most Affordable Destination"
-metaTitle: "Bulgaria Travel Guide 2026: Sofia, Plovdiv and Highlights | Zercy"
+metaTitle: "Bulgaria Travel Guide 2026: Sofia, Plovdiv | Zercy"
 description: "Discover Bulgaria: Sofia, Plovdiv, Nessebar on the Black Sea, Rila Monastery. Why Bulgaria is the EU's most affordable travel destination and what awaits you. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"

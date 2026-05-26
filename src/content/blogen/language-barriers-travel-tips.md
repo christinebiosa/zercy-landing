@@ -1,6 +1,6 @@
 ---
 title: "Language Barriers While Traveling: Tips for Any Country 2026"
-metaTitle: "Language Barriers Travel 2026: Apps and Tricks That Help | Zercy"
+metaTitle: "Language Barriers Travel 2026: Apps and Tricks That | Zercy"
 description: "Google Translate offline, Google Lens, basic phrases: With these 7 methods you overcome language barriers in Japan, China or Morocco. No advanced language skills needed."
 pubDate: 2026-05-25
 category: "Travel Tips"

@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Ghent: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Ghent: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Ghent: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Ghent has 5 distinct neighborhoods: Graslei for canal romance, Patershol for food lovers, Korenmarkt central, Sint-Pieters practical, Dampoort budget-friendly. Find your fit."
 pubDate: 2026-05-11
 category: "Where to Stay"

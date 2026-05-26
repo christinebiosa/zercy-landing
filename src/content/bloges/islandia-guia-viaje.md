@@ -1,6 +1,6 @@
 ---
 title: "Islandia: la guía de viaje completa para 2026"
-metaTitle: "Islandia 2026: guía de viaje completa, rutas y consejos | Zercy"
+metaTitle: "Islandia 2026: guía de viaje completa, rutas | Zercy"
 description: "Islandia tiene la Ruta del Anillo, auroras boreales, géiseres, cascadas y más naturaleza por kilómetro que casi ningún otro país. La guía para planificar el viaje."
 pubDate: 2026-05-08
 category: "Lugares lejanos"

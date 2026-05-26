@@ -1,6 +1,6 @@
 ---
 title: "Multigenerational Travel Guide: Trips That Work for Everyone"
-metaTitle: "Multigenerational Travel Guide 2026 | Zercy"
+metaTitle: "Multigenerational Travel Guide 2026: Tips | Zercy"
 description: "How to plan a trip with grandparents, parents and kids that actually works. Accommodation picks, destination ideas, and the budget conversation no one wants to have."
 pubDate: 2026-05-25
 category: "Travel Tips"

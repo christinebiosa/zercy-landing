@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Auckland: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Auckland: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Auckland: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Auckland hat 5 sehr unterschiedliche Stadtteile: CBD mit Sky Tower, Parnell historisch, Ponsonby hip, Takapuna am Strand, Airport für Transit. Welcher passt zu dir?"
 pubDate: 2026-05-09
 category: "Wo übernachten"

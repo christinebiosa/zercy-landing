@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Bolonia: Dónde alojarse en cada barrio 2026"
-metaTitle: "Hoteles Bolonia: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Bolonia: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Bolonia tiene 5 barrios distintos: Centro Storico con pórticos, Bolognina hipster, San Vitale estudiantil, colinas tranquilas Colli y práctico distrito Fiera. ¿Cuál encaja?"
 pubDate: 2026-05-11
 category: "Dónde alojarse"

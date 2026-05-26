@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Ibiza: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Ibiza 2026: Dónde alojarse | Zercy"
+metaTitle: "Hoteles Ibiza 2026: Dónde alojarse Guía Completa | Zercy"
 description: "Ibiza hoteles 2026: Ciudad de Ibiza para clubes y Dalt Vila UNESCO, Santa Eulalia para familias y tranquilidad, San Antonio para atardeceres. Precios y picks 2026."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

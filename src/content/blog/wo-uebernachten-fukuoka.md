@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Fukuoka: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Fukuoka 2026: Wo übernachten in welchem Viertel | Zercy"
+metaTitle: "Hotels Fukuoka 2026: Wo übernachten in welchem | Zercy"
 description: "Fukuoka Hotels 2026: Hakata, Tenjin, Canal City oder Nakasu. Die besten Stadtteile, Top-Picks und Tipps für Japans dynamischste Küstenstadt mit Ramen-Kultur. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

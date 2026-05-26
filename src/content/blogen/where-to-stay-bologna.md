@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Bologna: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Bologna: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Bologna: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Bologna has 5 distinct neighborhoods: Centro Storico with arcades, hip Bolognina, student San Vitale, quiet Colli hills, practical Fiera district. Find your perfect base."
 pubDate: 2026-05-11
 category: "Where to Stay"

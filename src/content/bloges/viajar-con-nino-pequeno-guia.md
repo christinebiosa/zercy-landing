@@ -1,6 +1,6 @@
 ---
 title: "Viajar con Niño Pequeño Menor de 3 Años: Lo Que Realmente Funciona"
-metaTitle: "Viajar con niño menor de 3 años | Zercy"
+metaTitle: "Viajar con niño menor de 3 años: Guía Completa 2026 | Zercy"
 description: "¿Planeas un viaje con un niño menor de 3 años? Aquí tienes lo que realmente funciona: consejos de vuelo, destinos, equipaje y por qué el viaje también es para ti."
 pubDate: 2026-05-25
 category: "Consejos de viaje"

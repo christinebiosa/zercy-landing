@@ -1,6 +1,6 @@
 ---
 title: "Thailand in 2 Weeks: The Best Route for First-Time Visitors"
-metaTitle: "Thailand 2-Week Itinerary 2026: Bangkok, Chiang Mai & Islands | Zercy"
+metaTitle: "Thailand 2-Week Itinerary 2026: Bangkok, Chiang Mai | Zercy"
 description: "The classic Thailand 2-week route: Bangkok, Chiang Mai, and the southern islands. Real costs, insider tips, and honest advice on what to skip and what not to miss."
 pubDate: 2026-05-09
 category: "Off the Map"

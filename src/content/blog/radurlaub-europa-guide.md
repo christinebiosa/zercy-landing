@@ -1,7 +1,7 @@
 ---
 title: "Radurlaub in Europa: Der ultimative Guide"
-metaTitle: "Radurlaub Europa: Die besten Routen | Zercy"
-description: "EuroVelo, Donauradweg, Loire-Tal: Die schönsten Radrouten Europas, die beste Reisezeit und wie du deinen Radurlaub für 30–60 Euro pro Tag planst."
+metaTitle: "Radurlaub Europa: Die besten Routen Ratgeber 2026 | Zercy"
+description: "EuroVelo, Donauradweg, Loire-Tal: Die schönsten Radrouten Europas, die beste Reisezeit und wie du deinen Radurlaub für 30–60 Euro pro Tag planst Tipps, Kosten und alles was du wissen musst."
 heroImage: "/img/blog/cycling-holiday-europe.jpg"
 pubDate: 2026-05-25
 category: "Unterwegs"

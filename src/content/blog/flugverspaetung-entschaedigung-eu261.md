@@ -1,7 +1,7 @@
 ---
 title: "Flugverspätung: Deine Rechte nach EU261 und wie du sie durchsetzt"
-metaTitle: "Flugverspätung & EU261: Deine Rechte | Zercy"
-description: "Bis zu 600 Euro Entschädigung bei Flugverspätung. So funktionierts nach EU261, wann du Anspruch hast und wie du dein Geld bekommst."
+metaTitle: "Flugverspätung & EU261: Deine Rechte Ratgeber 2026 | Zercy"
+description: "Bis zu 600 Euro Entschädigung bei Flugverspätung. So funktionierts nach EU261, wann du Anspruch hast und wie du dein Geld bekommst Kenne deine Rechte und fordere ein was dir zusteht."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Las mejores apps de presupuesto para viajeros 2026"
 metaTitle: "Mejores Apps Presupuesto Viaje 2026: 5 Opciones | Zercy"
-description: "Trail Wallet, TravelSpend, Wise: 5 apps de presupuesto comparadas. ¿Cuál sirve mejor para viajeros solos, grupos y viajeros frecuentes? Con consejos prácticos."
+description: "Trail Wallet, TravelSpend, Wise: 5 apps de presupuesto comparadas. ¿Cuál sirve mejor para viajeros solos, grupos y viajeros frecuentes? Con consejos prácticos Más información."
 pubDate: 2026-05-26
 category: "Viaje inteligente"
 readingTime: 6

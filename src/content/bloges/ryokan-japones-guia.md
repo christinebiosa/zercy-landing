@@ -1,7 +1,7 @@
 ---
 title: "Ryokan japonés: qué esperar y cómo reservar"
 metaTitle: "Ryokan japonés: todo lo que necesitas saber 2026 | Zercy"
-description: "Tatami, yukata, cena kaiseki: qué es un ryokan, cuánto cuesta y qué reglas de etiqueta debes conocer. Guía completa para viajeros a Japón 2026."
+description: "Tatami, yukata, cena kaiseki: qué es un ryokan, cuánto cuesta y qué reglas de etiqueta debes conocer. Guía completa para viajeros a Japón 2026 Toda la información para tu próximo viaje."
 pubDate: 2026-05-26
 category: "Joyas ocultas"
 readingTime: 8

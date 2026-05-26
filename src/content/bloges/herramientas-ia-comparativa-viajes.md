@@ -1,6 +1,6 @@
 ---
 title: "Las mejores herramientas de IA para planificar viajes en 2026"
-metaTitle: "IA para viajes 2026: comparativa de las mejores herramientas | Zercy"
+metaTitle: "IA para viajes 2026: comparativa de las mejores | Zercy"
 description: "Comparativa de las mejores herramientas de IA para planificar viajes en 2026. ChatGPT, Gemini, Perplexity, Zercy y Google Travel. Qué hace bien cada una. Comparativa honesta con datos reales."
 pubDate: 2026-05-08
 category: "IA y viajes"

@@ -1,7 +1,7 @@
 ---
 title: "Vuelo cancelado: Tus derechos según EU261 explicados"
 metaTitle: "Vuelo cancelado EU261 2026: Tus derechos | Zercy"
-description: "¿La aerolínea cancela tu vuelo? Hasta 600 euros de compensación según EU261. Cuándo tienes derecho, cuándo no, y cómo conseguir realmente el dinero."
+description: "¿La aerolínea cancela tu vuelo? Hasta 600 euros de compensación según EU261. Cuándo tienes derecho, cuándo no, y cómo conseguir realmente el dinero Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 7

@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Wrocław: Dónde alojarse en 2026"
-metaTitle: "Hoteles Wrocław: dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Wrocław: dónde alojarse 2026 Guía Completa | Zercy"
 description: "¿Ciudad Vieja o Krzyki? Los mejores hoteles en Wrocław por barrio. Recomendaciones honestas para románticos, viajeros con presupuesto y cazadores de enanos krasnale."
 pubDate: 2026-05-26
 category: "Dónde alojarse"

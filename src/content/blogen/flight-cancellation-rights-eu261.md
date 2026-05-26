@@ -1,7 +1,7 @@
 ---
 title: "Flight Cancelled: Your Rights Under EU261 Explained"
-metaTitle: "Flight Cancelled Compensation EU261 2026: Your Rights | Zercy"
-description: "Airline cancels your flight? Up to €600 compensation under EU261. When you have a claim, when you don't, and how to actually get the money. Step-by-step guide."
+metaTitle: "Flight Cancelled Compensation EU261 2026 | Zercy"
+description: "Airline cancels your flight? Up to €600 compensation under EU261. When you have a claim, when you don't, and how to actually get the money. Step-by-step guide Read more."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 7

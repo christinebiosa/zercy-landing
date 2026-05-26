@@ -1,7 +1,7 @@
 ---
 title: "Gap Year mit 40: So planst du deine Auszeit"
 metaTitle: "Gap Year mit 40: So planst du deine Auszeit | Zercy"
-description: "Mit 40 ein Gap Year wagen? Mehr Geld, mehr Klarheit, kein Eltern-OK nötig. Sabbatical, Finanzen, Krankenversicherung und die besten Routen für Erwachsene."
+description: "Mit 40 ein Gap Year wagen? Mehr Geld, mehr Klarheit, kein Eltern-OK nötig. Sabbatical, Finanzen, Krankenversicherung und die besten Routen für Erwachsene Jetzt lesen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 9

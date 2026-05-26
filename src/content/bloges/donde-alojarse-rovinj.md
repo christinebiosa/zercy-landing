@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Rovinj: Dónde alojarse en 2026"
-metaTitle: "Hoteles Rovinj: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Rovinj: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Rovinj tiene 5 barrios: Stari Grad en la península veneciana, Valdibora cerca del puerto, Monsena en el parque natural, Monte con vistas, Bale para agroturismo. Encuentra tu sitio."
 pubDate: 2026-05-26
 category: "Dónde alojarse"

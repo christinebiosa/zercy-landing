@@ -1,7 +1,7 @@
 ---
 title: "Kurzer Layover: Wie schaffst du den Anschlussflug sicher?"
 metaTitle: "Kurzer Layover: Anschluss sicher schaffen | Zercy"
-description: "MCT, Gepäck, Verspätung: Alles was du brauchst, um auch bei kurzen Umsteigezeiten sicher deinen Anschlussflug zu erwischen. Tipps für Frankfurt, Dubai & Co."
+description: "MCT, Gepäck, Verspätung: Alles was du brauchst, um auch bei kurzen Umsteigezeiten sicher deinen Anschlussflug zu erwischen. Tipps für Frankfurt, Dubai & Co Jetzt lesen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 7

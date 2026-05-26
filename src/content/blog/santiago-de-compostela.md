@@ -1,6 +1,6 @@
 ---
 title: "Santiago de Compostela: Der Jakobsweg und warum er jeden verändert"
-metaTitle: "Santiago de Compostela & Jakobsweg | Zercy"
+metaTitle: "Santiago de Compostela & Jakobsweg: Ratgeber 2026 | Zercy"
 description: "Millionen Menschen haben den Jakobsweg gelaufen. Was zieht sie an? Eine Stadt am Ende der Welt, ein Weg durch sich selbst – und ein Stempel im Pass. Alles was du wissen musst."
 pubDate: 2026-03-23
 category: "Fernweh"

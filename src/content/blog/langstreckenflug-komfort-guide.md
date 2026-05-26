@@ -1,7 +1,7 @@
 ---
 title: "Langstreckenflug komfortabel überstehen: Der große Guide"
-metaTitle: "Langstreckenflug Komfort Tipps | Zercy"
-description: "Über 8 Stunden in der Luft und trotzdem ausgeruht ankommen? Mit diesen Tipps zu Sitzplatz, Schlaf, Ernährung und Gepäck klappt es wirklich."
+metaTitle: "Langstreckenflug Komfort Tipps: Ratgeber 2026 | Zercy"
+description: "Über 8 Stunden in der Luft und trotzdem ausgeruht ankommen? Mit diesen Tipps zu Sitzplatz, Schlaf, Ernährung und Gepäck klappt es wirklich Jetzt clever planen und die besten Optionen vergleichen."
 heroImage: "/img/blog/long-haul-comfort.jpg"
 pubDate: 2026-05-25
 category: "Clever Reisen"

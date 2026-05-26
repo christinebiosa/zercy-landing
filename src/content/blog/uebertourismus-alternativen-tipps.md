@@ -1,7 +1,7 @@
 ---
 title: "Übertourismus: Die besten Alternativen zu überlaufenen Städten"
 metaTitle: "Übertourismus: 7 bessere Alternativen 2026 | Zercy"
-description: "Venedig überlaufen? Barcelona zu voll? Wir zeigen 7 unterschätzte Städte die genauso schön sind, aber ohne Massen. Mit konkreten Vergleichen und Preisen."
+description: "Venedig überlaufen? Barcelona zu voll? Wir zeigen 7 unterschätzte Städte die genauso schön sind, aber ohne Massen. Mit konkreten Vergleichen und Preisen Jetzt lesen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 8

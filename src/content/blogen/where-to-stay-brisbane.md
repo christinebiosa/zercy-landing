@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Brisbane: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Brisbane: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Brisbane: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Brisbane has 5 neighborhoods: CBD/South Bank cultural, Fortitude Valley nightlife, New Farm relaxed riverside, Paddington local, Kangaroo Point for active travelers."
 pubDate: 2026-05-11
 category: "Where to Stay"

@@ -1,7 +1,7 @@
 ---
 title: "Reiseleiter buchen: Wann es sich lohnt (und wann nicht)"
-metaTitle: "Reiseleiter buchen: Lohnt es sich? | Zercy"
-description: "Free Walking Tours, private Guides, Gruppentouren: Was kostet ein Reiseleiter und wann bringt er wirklich was? Die ehrliche Antwort für 4 Reisetypen."
+metaTitle: "Reiseleiter buchen: Lohnt es sich? Ratgeber 2026 | Zercy"
+description: "Free Walking Tours, private Guides, Gruppentouren: Was kostet ein Reiseleiter und wann bringt er wirklich was? Die ehrliche Antwort für 4 Reisetypen Jetzt lesen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 7

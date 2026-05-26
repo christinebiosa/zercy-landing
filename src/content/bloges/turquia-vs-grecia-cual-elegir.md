@@ -1,7 +1,7 @@
 ---
 title: "Turquía vs. Grecia: ¿Cuál elegir en el verano 2026?"
 metaTitle: "Turquía vs. Grecia 2026: Comparativa completa | Zercy"
-description: "Turquía cuesta un 20-40% menos que Grecia. Pero Grecia gana en isla-hopping y paisajes únicos. Aquí está quién debería ir a dónde y cuándo."
+description: "Turquía cuesta un 20-40% menos que Grecia. Pero Grecia gana en isla-hopping y paisajes únicos. Aquí está quién debería ir a dónde y cuándo Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 8

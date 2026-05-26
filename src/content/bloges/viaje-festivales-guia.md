@@ -1,6 +1,6 @@
 ---
 title: "Guía de Viajes a Festivales: Los Mejores del Mundo"
-metaTitle: "Viaje a Festivales: Guía Mundial | Zercy"
+metaTitle: "Viaje a Festivales: Guía Mundial Guía Completa 2026 | Zercy"
 description: "Glastonbury, Tomorrowland, Oktoberfest, Holi: ¿cuáles festivales del mundo valen realmente el viaje? Tips de entradas, presupuesto, alojamiento y cómo planificar todo."
 heroImage: "/img/blog/festival-travel.jpg"
 pubDate: 2026-05-25

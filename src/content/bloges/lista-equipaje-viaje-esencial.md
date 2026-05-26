@@ -1,6 +1,6 @@
 ---
 title: "Lista de Equipaje de Viaje: Lo que de Verdad Necesitas (y lo que no)"
-metaTitle: "Lista Equipaje Viaje 2026: Lo que realmente necesitas | Zercy"
+metaTitle: "Lista Equipaje Viaje 2026: Lo que realmente | Zercy"
 description: "La lista de equipaje de viaje honesta para 2026: lo que realmente necesitas, lo que dejas en casa y cómo empacar para cada tipo de viaje. Con checklist completa."
 pubDate: 2026-05-14
 category: "Consejos de viaje"

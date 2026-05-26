@@ -1,6 +1,6 @@
 ---
 title: "Island hopping en Croacia: cómo saltar por las islas del Adriático"
-metaTitle: "Island hopping Croacia 2026: Hvar, Brač, Korčula y Vis | Zercy"
+metaTitle: "Island hopping Croacia 2026: Hvar, Brač, Korčula | Zercy"
 description: "Guía completa para hacer island hopping en Croacia. Hvar, Brač, Korčula, Vis. Cómo moverse en ferry, mejor época y presupuesto real para una semana en las islas."
 pubDate: 2026-05-09
 category: "Lugares lejanos"

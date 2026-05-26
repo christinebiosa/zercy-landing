@@ -1,6 +1,6 @@
 ---
 title: "Traveling with Friends: Tips That Actually Work"
-metaTitle: "Traveling with Friends: 7 Tips 2026 | Zercy"
+metaTitle: "Traveling with Friends: 7 Tips 2026 Tips & Guide | Zercy"
 description: "Traveling with friends sounds perfect. Often it is. But budget gaps, daily planning fights, and sleep schedule clashes can wreck the mood fast. Here's how to avoid the 3 classics."
 pubDate: 2026-05-25
 category: "Travel Tips"

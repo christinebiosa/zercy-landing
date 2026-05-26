@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Mostar: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Mostar 2026: Wo übernachten | Zercy"
+metaTitle: "Hotels Mostar 2026: Wo übernachten Tipps & Infos | Zercy"
 description: "Mostar Hotels 2026: Stari Grad, Neue Stadt oder am Neretva-Ufer? Beste Stadtteile, Top-Picks und Tipps für die schönste Stadt Bosnien-Herzegowinas. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

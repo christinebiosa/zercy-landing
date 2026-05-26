@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Köln: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Köln 2026: Wo übernachten | Zercy"
+metaTitle: "Hotels Köln 2026: Wo übernachten Tipps & Infos | Zercy"
 description: "Köln Hotels 2026: Altstadt, Belgisches Viertel, Ehrenfeld oder Deutz? Beste Stadtteile, Top-Picks und Tipps für die Domstadt am Rhein. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

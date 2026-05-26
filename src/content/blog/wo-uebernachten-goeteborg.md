@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Göteborg: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Göteborg 2026: Wo übernachten | Zercy"
+metaTitle: "Hotels Göteborg 2026: Wo übernachten Tipps & Infos | Zercy"
 description: "Göteborg Hotels 2026: Haga, Linnéstaden, Vasastan oder Majorna? Beste Stadtteile, Top-Picks und Tipps für Schwedens zweitgrößte Stadt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

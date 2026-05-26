@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Rovinj: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Rovinj: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Rovinj: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Rovinj has 5 neighborhoods: Stari Grad on the peninsula, Valdibora near the harbor, Monsena in the nature park, Monte with panoramic views, Bale for agriturismo. Find your fit."
 pubDate: 2026-05-26
 category: "Where to Stay"

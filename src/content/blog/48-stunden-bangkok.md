@@ -1,7 +1,7 @@
 ---
 title: "48 Stunden in Bangkok: Dein perfektes Wochenende 2026"
 metaTitle: "48 Stunden in Bangkok: Wochenend-Guide 2026 | Zercy"
-description: "Bangkok in 48 Stunden: Wat Pho, Wat Arun, Chatuchak Market, Rooftop-Bars und die beste Street Food Route durch Chinatown. Dein komplettes Wochenend-Itinerar."
+description: "Bangkok in 48 Stunden: Wat Pho, Wat Arun, Chatuchak Market, Rooftop-Bars und die beste Street Food Route durch Chinatown. Dein komplettes Wochenend-Itinerar Jetzt lesen."
 pubDate: 2026-05-26
 category: "Unterwegs"
 readingTime: 7

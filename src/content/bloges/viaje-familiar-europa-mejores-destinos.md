@@ -1,6 +1,6 @@
 ---
 title: "Viaje familiar a Europa 2026: mejores destinos para cada edad"
-metaTitle: "Viaje familiar Europa 2026: mejores destinos con niños | Zercy"
+metaTitle: "Viaje familiar Europa 2026: mejores destinos con | Zercy"
 description: "Los mejores destinos europeos para viaje familiar en 2026. Recomendaciones honestas para bebés, niños en edad escolar y adolescentes, con costos reales y consejos útiles."
 pubDate: 2026-05-09
 category: "Consejos de viaje"

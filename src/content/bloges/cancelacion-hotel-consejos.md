@@ -1,7 +1,7 @@
 ---
 title: "Cancelación de Hotel: Cómo Reservar sin Arriesgar tu Dinero"
 metaTitle: "Cancelación de Hotel: Consejos y Derechos | Zercy"
-description: "Cancela tu hotel sin perder dinero: tarifas reembolsables, plazos, reglas de no-show y el truco de la doble reserva. Viaja con flexibilidad total."
+description: "Cancela tu hotel sin perder dinero: tarifas reembolsables, plazos, reglas de no-show y el truco de la doble reserva. Viaja con flexibilidad total Más información."
 heroImage: "/img/blog/hotel-cancellation.jpg"
 pubDate: 2026-05-25
 category: "Viaje inteligente"

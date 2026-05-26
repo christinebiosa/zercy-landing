@@ -1,6 +1,6 @@
 ---
 title: "How AI Is Changing Travel Planning — And What It Means for You"
-metaTitle: "How AI Is Changing Travel Planning | Zercy"
+metaTitle: "How AI Is Changing Travel Planning: Tips 2026 | Zercy"
 description: "Booking sites show you lists. AI understands you. What's changing in travel planning right now – and what that means for travelers. Everything you need to know."
 pubDate: 2026-03-15
 category: "AI & Travel"

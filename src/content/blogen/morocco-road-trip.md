@@ -1,6 +1,6 @@
 ---
 title: "Morocco Road Trip 2026: The Best Route Through the Kingdom"
-metaTitle: "Morocco Road Trip 2026: Route & Tips | Zercy"
+metaTitle: "Morocco Road Trip 2026: Route & Tips Tips & Guide | Zercy"
 description: "Morocco road trip: Marrakech through the Atlas Mountains to the Sahara. Route planning, rental car tips, costs, safety, and the best time to visit. Everything you need to know."
 pubDate: 2026-05-09
 category: "On the Move"

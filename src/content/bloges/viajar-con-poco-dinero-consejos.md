@@ -1,6 +1,6 @@
 ---
 title: "Viajar con poco dinero: 10 estrategias que realmente funcionan"
-metaTitle: "Viajar con poco presupuesto 2026: consejos que funcionan | Zercy"
+metaTitle: "Viajar con poco presupuesto 2026: consejos que | Zercy"
 description: "Viajar más con menos: 10 estrategias reales para viajeros con presupuesto ajustado. Dónde ahorrar sin sacrificar la calidad y dónde ahorrar en realidad sale más caro."
 pubDate: 2026-05-09
 category: "Viaje inteligente"

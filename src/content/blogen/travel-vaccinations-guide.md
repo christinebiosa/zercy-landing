@@ -1,6 +1,6 @@
 ---
 title: "Travel Vaccinations Guide: What to Update Before Your Trip and What to Watch For"
-metaTitle: "Travel Vaccinations Guide 2026: Which Vaccines Do You Need? | Zercy"
+metaTitle: "Travel Vaccinations Guide 2026: Which Vaccines Do | Zercy"
 description: "Travel vaccinations guide 2026: standard and travel vaccines, malaria prophylaxis, yellow fever mandatory countries, timing and what belongs in your travel medical kit."
 pubDate: 2026-05-14
 category: "Travel Tips"

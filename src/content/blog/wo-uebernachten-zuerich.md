@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Zürich: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Zürich: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Zürich: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Zürich hat 5 sehr unterschiedliche Stadtteile: Altstadt historisch, Langstrasse lebendig, Zürich-West Industrial-Chic, Seefeld am Wasser, Oerlikon messenah. Für jeden das Richtige."
 pubDate: 2026-05-09
 category: "Wo übernachten"

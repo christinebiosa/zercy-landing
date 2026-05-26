@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Oslo: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Oslo: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Oslo: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Oslo hat 5 sehr unterschiedliche Stadtteile: Sentrum zentral, Grünerløkka hipster, Frogner gehoben, Aker Brygge am Hafen, Majorstuen ruhig. Welcher passt zu deiner Reise?"
 pubDate: 2026-05-09
 category: "Wo übernachten"

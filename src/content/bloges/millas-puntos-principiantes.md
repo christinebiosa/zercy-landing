@@ -1,6 +1,6 @@
 ---
 title: "Millas y puntos para principiantes: cómo empezar sin volar mucho"
-metaTitle: "Millas y puntos para principiantes: cómo empezar en 2026 | Zercy"
+metaTitle: "Millas y puntos para principiantes: cómo empezar en | Zercy"
 description: "Cómo funcionan los programas de viajero frecuente. Millas, puntos y segmentos explicados sin jerga. Por dónde empezar y los errores más comunes al comenzar. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "Viaje inteligente"

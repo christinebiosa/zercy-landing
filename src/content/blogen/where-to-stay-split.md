@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Split: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Split: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Split: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Split has 5 neighborhoods: Stari Grad inside the palace, Manuš behind the walls, Spinut local beach, Žnjan resort strip, Trogir corridor for island hoppers. Find your fit."
 pubDate: 2026-05-11
 category: "Where to Stay"

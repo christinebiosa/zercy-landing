@@ -1,7 +1,7 @@
 ---
 title: "Budget Travel in Eastern Europe: Tips and Prices for 2026"
 metaTitle: "Eastern Europe Budget Travel 2026: Complete Guide | Zercy"
-description: "Krakow, Budapest, Tallinn: Eastern Europe costs half as much as Western Europe. Meals from €4, beer from €1.50, hotel from €35. With concrete prices for 2026."
+description: "Krakow, Budapest, Tallinn: Eastern Europe costs half as much as Western Europe. Meals from €4, beer from €1.50, hotel from €35. With concrete prices for 2026 Read more."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 8

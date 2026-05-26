@@ -1,7 +1,7 @@
 ---
 title: "Barcelona vs. Madrid: Welche Stadt zuerst?"
 metaTitle: "Barcelona vs. Madrid: Welche Stadt lohnt sich? | Zercy"
-description: "Barcelona oder Madrid? Madrid ist 10-20% günstiger, Barcelona hat den Strand. Wir zeigen, welche Spanien-Metropole besser zu deiner Reise passt."
+description: "Barcelona oder Madrid? Madrid ist 10-20% günstiger, Barcelona hat den Strand. Wir zeigen, welche Spanien-Metropole besser zu deiner Reise passt So sparst du bei der nächsten Reise wirklich Geld."
 pubDate: 2026-05-25
 category: "Unterwegs"
 readingTime: 8

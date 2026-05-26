@@ -1,6 +1,6 @@
 ---
 title: "Beste Reise-Kreditkarten 2026: Amex, Miles & More und IHG im Vergleich"
-metaTitle: "Beste Reise-Kreditkarten 2026 | Zercy"
+metaTitle: "Beste Reise-Kreditkarten 2026: Tipps & Infos | Zercy"
 description: "Amex Platinum, Miles & More oder IHG Rewards: Welche Reise-Kreditkarte lohnt sich 2026 wirklich? Vergleich für Deutsche und Österreicher mit Punkten, Lounge und Versicherung."
 pubDate: 2026-05-09
 category: "Clever Reisen"

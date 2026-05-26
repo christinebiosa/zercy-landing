@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica Road Trip: The Perfect 2-Week Route"
-metaTitle: "Costa Rica Road Trip: 2-Week Route | Zercy"
+metaTitle: "Costa Rica Road Trip: 2-Week Route Tips & Guide 2026 | Zercy"
 description: "The perfect 2-week Costa Rica road trip. From San José to Arenal, Monteverde, Manuel Antonio and the Pacific coast. With car rental tips, costs and insider routes."
 pubDate: 2026-04-16
 category: "Off the Map"

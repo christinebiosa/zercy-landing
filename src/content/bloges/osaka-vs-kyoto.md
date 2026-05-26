@@ -1,6 +1,6 @@
 ---
 title: "Osaka vs. Kyoto: cuál elegir y cuánto tiempo dedicar a cada una"
-metaTitle: "Osaka vs. Kyoto 2026: cuál elegir para tu viaje a Japón | Zercy"
+metaTitle: "Osaka vs. Kyoto 2026: cuál elegir para tu viaje a | Zercy"
 description: "Osaka o Kyoto: la guía definitiva para decidir. Gastronomía, templos, ambiente y presupuesto. Cómo moverse entre las dos ciudades y cuál es mejor base para explorar el Kansai."
 pubDate: 2026-05-09
 category: "Lugares lejanos"

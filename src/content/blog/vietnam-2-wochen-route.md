@@ -1,6 +1,6 @@
 ---
 title: "Vietnam in 2 Wochen: Die klassische Route von Nord nach Süd"
-metaTitle: "Vietnam in 2 Wochen: Route & Tipps | Zercy"
+metaTitle: "Vietnam in 2 Wochen: Route & Tipps Ratgeber 2026 | Zercy"
 description: "Vietnam in 2 Wochen: Von Hanoi über die Halong Bay und Hoi An bis Ho-Chi-Minh-Stadt. Reiseroute, Transportoptionen, Visum und Kosten im Überblick. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-09
 category: "Fernweh"

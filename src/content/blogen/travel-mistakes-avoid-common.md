@@ -1,6 +1,6 @@
 ---
 title: "10 Classic Travel Mistakes and How to Avoid Them in 2026"
-metaTitle: "10 Travel Mistakes to Avoid in 2026 | Zercy"
+metaTitle: "10 Travel Mistakes to Avoid in 2026: Tips & Guide | Zercy"
 description: "Overpacked schedule, no insurance, DCC traps and 7 more mistakes that make travel expensive. Here are the concrete fixes for 2026. Honest advice for real travelers."
 pubDate: 2026-05-11
 category: "Travel Tips"

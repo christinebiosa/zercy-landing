@@ -1,7 +1,7 @@
 ---
 title: "Permiso Internacional de Conducir: Cuándo lo necesitas"
 metaTitle: "Permiso Internacional de Conducir Guía | Zercy"
-description: "¿Necesitas un permiso de conducir internacional? Descubre qué países lo exigen, cuánto cuesta, cómo tramitarlo y qué pasa si conduces sin él en el extranjero."
+description: "¿Necesitas un permiso de conducir internacional? Descubre qué países lo exigen, cuánto cuesta, cómo tramitarlo y qué pasa si conduces sin él en el extranjero Toda la información para tu próximo viaje."
 heroImage: "/img/blog/international-driving-license.jpg"
 pubDate: 2026-05-25
 category: "Viaje inteligente"

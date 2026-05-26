@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in San Diego: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels San Diego 2026: Where to Stay | Zercy"
+metaTitle: "Hotels San Diego 2026: Where to Stay Tips & Guide | Zercy"
 description: "San Diego hotels 2026: Gaslamp Quarter for nightlife, La Jolla for luxury, Mission Beach for surfers. Best neighborhoods, top picks and practical booking tips. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"

@@ -1,7 +1,7 @@
 ---
 title: "48 Stunden in London: Dein perfektes Wochenende 2026"
 metaTitle: "48 Stunden in London: Perfektes Wochenende 2026 | Zercy"
-description: "Tower Bridge, Borough Market und ein Abend in Soho: Was du in 48 Stunden London wirklich schaffst, welche Viertel sich lohnen und wie du die Tube clever nutzt."
+description: "Tower Bridge, Borough Market und ein Abend in Soho: Was du in 48 Stunden London wirklich schaffst, welche Viertel sich lohnen und wie du die Tube clever nutzt Jetzt lesen."
 pubDate: 2026-05-26
 category: "Unterwegs"
 readingTime: 7

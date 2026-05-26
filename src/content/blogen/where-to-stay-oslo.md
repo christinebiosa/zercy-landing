@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Oslo: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Oslo: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Oslo: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Oslo has 5 distinct neighborhoods: Sentrum central, Grünerløkka hipster, Frogner upscale, Aker Brygge harborside, Majorstuen quiet and well-connected. Find your fit."
 pubDate: 2026-05-09
 category: "Where to Stay"

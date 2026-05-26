@@ -1,6 +1,6 @@
 ---
 title: "Botiquín de viaje: lo que realmente necesitas llevar"
-metaTitle: "Guía del botiquín de viaje completo | Zercy"
+metaTitle: "Guía del botiquín de viaje completo: Consejos 2026 | Zercy"
 description: "¿Qué medicamentos no pueden faltar en tu botiquín de viaje? Lista esencial para Europa y destinos lejanos, reglas de equipaje de mano y qué hacer si te quedas sin medicación."
 heroImage: "/img/blog/travel-first-aid-kit.jpg"
 pubDate: 2026-05-25

@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels on Mykonos: Where to Stay in Each Area 2026"
-metaTitle: "Hotels Mykonos: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Mykonos: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Where to stay on Mykonos? Chora for windmills and nightlife, Ornos for families, Psarou for luxury. Honest breakdown of all areas with hotel picks and real prices."
 pubDate: 2026-05-09
 category: "Where to Stay"

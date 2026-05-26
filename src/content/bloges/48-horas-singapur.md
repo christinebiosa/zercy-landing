@@ -1,7 +1,7 @@
 ---
 title: "48 Horas en Singapur: El Itinerario Honesto de Fin de Semana"
 metaTitle: "48 Horas en Singapur: Guía de Fin de Semana | Zercy"
-description: "Singapur en 48 horas: Gardens by the Bay, Marina Bay Sands, Chinatown y Little India. Qué vale la pena y qué saltarte. Comida en hawker centres desde 3 SGD."
+description: "Singapur en 48 horas: Gardens by the Bay, Marina Bay Sands, Chinatown y Little India. Qué vale la pena y qué saltarte. Comida en hawker centres desde 3 SGD Más información."
 pubDate: 2026-05-25
 category: "En camino"
 readingTime: 8

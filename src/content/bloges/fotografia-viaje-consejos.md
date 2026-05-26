@@ -1,6 +1,6 @@
 ---
 title: "Fotografía de viaje: cómo sacar mejores fotos sin ser fotógrafo"
-metaTitle: "Fotografía de viaje con móvil: consejos prácticos 2026 | Zercy"
+metaTitle: "Fotografía de viaje con móvil: consejos prácticos | Zercy"
 description: "Consejos de fotografía de viaje para no profesionales. Cómo mejorar tus fotos con el móvil, la hora dorada, composición básica y qué accesorios valen la pena. Con los mejores consejos para 2026."
 pubDate: 2026-05-09
 category: "Consejos de viaje"

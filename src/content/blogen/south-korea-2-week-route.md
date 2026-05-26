@@ -1,6 +1,6 @@
 ---
 title: "South Korea 2-Week Route: The Perfect Itinerary for First-Timers"
-metaTitle: "South Korea 2-Week Itinerary 2026 | Zercy"
+metaTitle: "South Korea 2-Week Itinerary 2026: Tips & Guide | Zercy"
 description: "South Korea in 2 weeks: Seoul, Busan, Gyeongju, and Jeju Island. The best route, travel season, costs, and practical tips for your Korea trip in 2026. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"

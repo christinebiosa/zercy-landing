@@ -1,6 +1,6 @@
 ---
 title: "Familienurlaub Europa: Die besten Ziele für jedes Alter"
-metaTitle: "Familienurlaub Europa 2026: Beste Reiseziele mit Kindern | Zercy"
+metaTitle: "Familienurlaub Europa 2026: Beste Reiseziele | Zercy"
 description: "Familienurlaub Europa 2026: Welche Ziele funktionieren mit Kleinkindern, welche mit Schulkindern? Ehrliche Empfehlungen mit Kosten, Tipps und Insider-Wissen. Alles was du wissen musst."
 pubDate: 2026-05-09
 category: "Reisetipps"

@@ -1,7 +1,7 @@
 ---
 title: "Im Flughafen schlafen: Die besten Tricks und Orte"
-metaTitle: "Im Flughafen schlafen: Tipps & Orte | Zercy"
-description: "Langer Layover? Diese Flughäfen eignen sich zum Schlafen, und mit diesen Tricks kommst du gut durch die Nacht, ohne Gepäck und Schlaf zu verlieren."
+metaTitle: "Im Flughafen schlafen: Tipps & Orte Ratgeber 2026 | Zercy"
+description: "Langer Layover? Diese Flughäfen eignen sich zum Schlafen, und mit diesen Tricks kommst du gut durch die Nacht, ohne Gepäck und Schlaf zu verlieren Tipps, Kosten und alles was du wissen musst."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 8

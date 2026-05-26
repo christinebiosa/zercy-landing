@@ -1,6 +1,6 @@
 ---
 title: "Slow travel: qué significa y por qué cada vez más viajeros lo eligen"
-metaTitle: "Slow travel 2026: qué es, ventajas y cómo practicarlo | Zercy"
+metaTitle: "Slow travel 2026: qué es, ventajas y cómo | Zercy"
 description: "El slow travel no es viajar despacio. Es elegir profundidad sobre cantidad. Qué significa realmente, cómo practicarlo y por qué es la tendencia de viaje dominante en 2026."
 pubDate: 2026-05-08
 category: "Viaje sostenible"

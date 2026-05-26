@@ -1,6 +1,6 @@
 ---
 title: "Cómo la IA está cambiando la planificación de viajes en 2026"
-metaTitle: "IA y viajes 2026: cómo cambia la planificación de viajes | Zercy"
+metaTitle: "IA y viajes 2026: cómo cambia la planificación | Zercy"
 description: "La inteligencia artificial está transformando la forma en que planificamos viajes. Qué ha cambiado, qué sigue igual y cómo usarla bien en 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "IA y viajes"

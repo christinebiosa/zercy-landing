@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Málaga: Dónde alojarse en cada barrio 2026"
-metaTitle: "Hoteles Málaga: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Málaga: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Málaga tiene 5 barrios muy distintos: Centro Histórico para cultura, La Malagueta para playa, El Soho para arte, Pedregalejo auténtico, Teatinos para familias. ¿Cuál te conviene?"
 pubDate: 2026-05-10
 category: "Dónde alojarse"

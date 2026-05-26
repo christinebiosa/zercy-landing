@@ -1,7 +1,7 @@
 ---
 title: "Maleta de cabina: El sistema para empacar que funciona"
 metaTitle: "Empacar maleta de cabina: el sistema que funciona | Zercy"
-description: "Cubos organizadores, medidas correctas y ropa bien elegida: así entra una semana de viaje en tu equipaje de mano. Lista concreta, sin relleno."
+description: "Cubos organizadores, medidas correctas y ropa bien elegida: así entra una semana de viaje en tu equipaje de mano. Lista concreta, sin relleno Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Solo equipaje de mano"
 readingTime: 8

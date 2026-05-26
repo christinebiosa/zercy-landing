@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Mombasa: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Mombasa 2026: Wo übernachten | Zercy"
+metaTitle: "Hotels Mombasa 2026: Wo übernachten Tipps & Infos | Zercy"
 description: "Mombasa Hotels 2026: Strandviertel, Altstadt und Nyali im Vergleich. Die besten Stadtteile, echte Hotel-Picks und Tipps für deinen Kenia-Aufenthalt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

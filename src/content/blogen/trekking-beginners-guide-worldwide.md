@@ -1,7 +1,7 @@
 ---
 title: "Trekking for Beginners Worldwide: Best Routes 2026"
 metaTitle: "Trekking Beginners 2026: Best Routes Worldwide | Zercy"
-description: "Camino de Santiago, Annapurna, Inca Trail Light: The 7 best trekking routes for beginners. With equipment list, costs from €25 daily and fitness prep guide."
+description: "Camino de Santiago, Annapurna, Inca Trail Light: The 7 best trekking routes for beginners. With equipment list, costs from €25 daily and fitness prep guide Read more."
 pubDate: 2026-05-25
 category: "Off the Map"
 readingTime: 9

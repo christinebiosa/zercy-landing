@@ -1,7 +1,7 @@
 ---
 title: "Emergency Abroad: What to Do in Accident, Illness or Lost Passport"
 metaTitle: "Emergency Abroad 2026: What to Do Immediately | Zercy"
-description: "Emergency room, lost passport, no money: What to do in every travel emergency. Emergency numbers worldwide, contacting your embassy, step by step."
+description: "Emergency room, lost passport, no money: What to do in every travel emergency. Emergency numbers worldwide, contacting your embassy, step by step Compare options and find the best deals on Zercy."
 pubDate: 2026-05-25
 category: "Travel Tips"
 readingTime: 8

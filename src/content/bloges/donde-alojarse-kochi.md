@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Kochi: Dónde alojarse en 2026"
-metaTitle: "Hoteles Kochi: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Kochi: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Kochi tiene 5 barrios muy distintos: Fort Kochi colonial, Mattancherry histórica, Ernakulam para negocios y presupuesto, Marine Drive junto al agua y Cherai Beach para relajarse. Los mejores hoteles para cada presupuesto."
 pubDate: 2026-05-26
 category: "Dónde alojarse"

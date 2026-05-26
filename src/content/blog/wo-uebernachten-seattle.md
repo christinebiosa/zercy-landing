@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Seattle: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Seattle: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Seattle: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Seattle hat 5 Stadtteile für jeden Reisestil: Downtown für Erstbesucher, Capitol Hill für Nightlife, Belltown für Foodies, Fremont für Locals, South Lake Union für Business."
 pubDate: 2026-05-11
 category: "Wo übernachten"

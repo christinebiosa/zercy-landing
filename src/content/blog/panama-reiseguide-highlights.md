@@ -1,6 +1,6 @@
 ---
 title: "Panama Reiseguide: Kanal, Casco Viejo, San Blas und Bocas del Toro"
-metaTitle: "Panama Reiseguide 2026: Kanal, San Blas & Bocas del Toro | Zercy"
+metaTitle: "Panama Reiseguide 2026: Kanal, San Blas & Bocas del | Zercy"
 description: "Panama entdecken: Panamakanal Miraflores-Schleuse, Panama City mit Casco Viejo, San Blas Inseln der Kuna Yala, Bocas del Toro Karibik und Boquete Kaffee. Reisetipps 2026."
 pubDate: 2026-05-14
 category: "Fernweh"

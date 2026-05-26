@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Nairobi: dónde alojarse por barrios 2026"
-metaTitle: "Hoteles Nairobi: dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Nairobi: dónde alojarse 2026 Guía Completa | Zercy"
 description: "¿Karen o Westlands? Los mejores hoteles en Nairobi por zona. Recomendaciones para viajeros de safari, viajeros de negocios y primeras visitas al Este de África."
 pubDate: 2026-05-09
 category: "Dónde alojarse"

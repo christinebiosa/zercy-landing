@@ -1,7 +1,7 @@
 ---
 title: "Digital Detox Travel: Why More Travelers Are Going Offline on Purpose"
 metaTitle: "Digital Detox Travel: Best Destinations 2026 | Zercy"
-description: "Digital detox travel: 3 days offline measurably lowers cortisol. Best destinations, costs from $30/day, and how to actually prepare for an unplugged trip."
+description: "Digital detox travel: 3 days offline measurably lowers cortisol. Best destinations, costs from $30/day, and how to actually prepare for an unplugged trip Read more."
 pubDate: 2026-05-25
 category: "Travel Green"
 readingTime: 7

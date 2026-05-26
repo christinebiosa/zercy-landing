@@ -1,6 +1,6 @@
 ---
 title: "Seguridad en Latinoamérica: Consejos realistas sin exageraciones"
-metaTitle: "Seguridad Latinoamérica 2026: Consejos reales sin alarmismo | Zercy"
+metaTitle: "Seguridad Latinoamérica 2026: Consejos reales sin | Zercy"
 description: "Chile y Costa Rica seguros, Venezuela no recomendado: Qué países son realmente seguros y qué trucos funcionan de verdad. Secuestro exprés explicado y cómo evitarlo."
 pubDate: 2026-05-25
 category: "Consejos de viaje"

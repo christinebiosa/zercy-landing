@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Dresden: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Dresden 2026: Wo übernachten | Zercy"
+metaTitle: "Hotels Dresden 2026: Wo übernachten Tipps & Infos | Zercy"
 description: "Dresden Hotels 2026: Altstadt, Neustadt, Blasewitz oder Loschwitz? Beste Stadtteile, Top-Picks und Tipps für das Elbflorenz der modernen Zeit. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

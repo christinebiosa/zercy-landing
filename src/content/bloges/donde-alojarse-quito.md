@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Quito: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Quito 2026: Dónde alojarse | Zercy"
+metaTitle: "Hoteles Quito 2026: Dónde alojarse Guía Completa | Zercy"
 description: "Quito hoteles 2026: Centro Histórico para cultura, La Mariscal para mochileros, La Floresta para gastronomía. Mejores barrios, top picks y consejos de reserva. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

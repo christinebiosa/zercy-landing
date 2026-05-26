@@ -1,7 +1,7 @@
 ---
 title: "Barcelona vs. Madrid: ¿Cuál ciudad visitar primero?"
 metaTitle: "Barcelona vs. Madrid: ¿Cuál vale más la pena? | Zercy"
-description: "¿Barcelona o Madrid? Madrid es 10-20% más barato, Barcelona tiene la playa. Te explicamos cuál capital española se adapta mejor a tu viaje, con números reales."
+description: "¿Barcelona o Madrid? Madrid es 10-20% más barato, Barcelona tiene la playa. Te explicamos cuál capital española se adapta mejor a tu viaje, con números reales Más información."
 pubDate: 2026-05-25
 category: "En camino"
 readingTime: 8

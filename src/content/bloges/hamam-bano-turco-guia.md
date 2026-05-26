@@ -1,7 +1,7 @@
 ---
 title: "Hamam: Qué esperar en un baño turco (guía sin sorpresas)"
 metaTitle: "Guía Hamam: Qué pasa en un baño turco 2026 | Zercy"
-description: "Hamam en Estambul, Budapest o Marrakech: qué pasa paso a paso, cuánto cuesta, qué llevar puesto y qué saber antes de entrar. Guía honesta sin rodeos."
+description: "Hamam en Estambul, Budapest o Marrakech: qué pasa paso a paso, cuánto cuesta, qué llevar puesto y qué saber antes de entrar. Guía honesta sin rodeos Todo lo que necesitas para planificar tu viaje."
 pubDate: 2026-05-26
 category: "Joyas ocultas"
 readingTime: 7

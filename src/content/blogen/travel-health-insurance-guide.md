@@ -1,7 +1,7 @@
 ---
 title: "Travel Health Insurance: When You Need It and What It Costs"
 metaTitle: "Travel Health Insurance 2026: When You Need It | Zercy"
-description: "Public health insurance doesn't cover the USA. Travel health insurance from €30 per year. When it's essential, what it covers and when the EHIC card is enough."
+description: "Public health insurance doesn't cover the USA. Travel health insurance from €30 per year. When it's essential, what it covers and when the EHIC card is enough Read more."
 pubDate: 2026-05-25
 category: "Travel Tips"
 readingTime: 7

@@ -1,6 +1,6 @@
 ---
 title: "Niederlande Rundreise: Amsterdam, Keukenhof und die beste Route durchs Land"
-metaTitle: "Niederlande Rundreise Route 2026: Amsterdam bis Rotterdam | Zercy"
+metaTitle: "Niederlande Rundreise Route 2026: Amsterdam bis | Zercy"
 description: "Niederlande Rundreise planen: Amsterdam, Keukenhof Tulpenfelder, Rotterdam Architektur, Delft und Den Haag. Die beste Route und warum Fahrrad Pflicht ist. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"

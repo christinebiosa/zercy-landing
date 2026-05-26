@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Gent: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Gent: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Gent: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Gent hat 5 sehr unterschiedliche Viertel: Graslei für Kanal-Romantik, Patershol für Foodlover, Korenmarkt zentral, Sint-Pieters praktisch, Dampoort günstig. Wo passt du hin?"
 pubDate: 2026-05-11
 category: "Wo übernachten"

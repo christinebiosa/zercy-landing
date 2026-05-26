@@ -1,7 +1,7 @@
 ---
 title: "Luxuszug Reisen: Was du wirklich bekommst"
-metaTitle: "Luxuszug Reisen: Der große Guide | Zercy"
-description: "Venice Simplon Orient Express, Rocky Mountaineer, Glacier Express: Welcher Luxuszug lohnt sich wirklich? Guide mit Preisen, Kabinen und Buchungstipps."
+metaTitle: "Luxuszug Reisen: Der große Guide Tipps & Infos 2026 | Zercy"
+description: "Venice Simplon Orient Express, Rocky Mountaineer, Glacier Express: Welcher Luxuszug lohnt sich wirklich? Guide mit Preisen, Kabinen und Buchungstipps Jetzt lesen."
 heroImage: "/img/blog/luxury-train-travel.jpg"
 pubDate: 2026-05-25
 category: "Fernweh"

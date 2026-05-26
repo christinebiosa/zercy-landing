@@ -1,7 +1,7 @@
 ---
 title: "House Sitting: How to Stay for Free While Traveling"
-metaTitle: "House Sitting 2026: Free Accommodation While Traveling | Zercy"
-description: "House sitting saves you 600 to 1200 euros per trip on accommodation. How TrustedHousesitters works, how to optimize your profile and land your first sits."
+metaTitle: "House Sitting 2026: Free Accommodation While | Zercy"
+description: "House sitting saves you 600 to 1200 euros per trip on accommodation. How TrustedHousesitters works, how to optimize your profile and land your first sits Read more."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 8

@@ -1,6 +1,6 @@
 ---
 title: "Mejores Hoteles en Zúrich: Dónde Alojarse en Cada Barrio 2026"
-metaTitle: "Hoteles Zúrich: Dónde Alojarse 2026 | Zercy"
+metaTitle: "Hoteles Zúrich: Dónde Alojarse 2026 Guía Completa | Zercy"
 description: "Zúrich tiene 5 barrios muy distintos: Ciudad Antigua histórica, Langstrasse animada, Zürich-West industrial, Seefeld junto al lago, Oerlikon cerca del aeropuerto. Elige bien."
 pubDate: 2026-05-09
 category: "Dónde alojarse"

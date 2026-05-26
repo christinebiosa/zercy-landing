@@ -1,7 +1,7 @@
 ---
 title: "48 Stunden in Kyoto: Dein perfektes Wochenende 2026"
 metaTitle: "48 Stunden in Kyoto: Wochenend-Guide 2026 | Zercy"
-description: "Kyoto in 48 Stunden: Fushimi Inari, Arashiyama-Bambuswäldchen, Gion-Viertel und Kaiseki-Abend. Alle Tipps für dein Wochenende in der alten Kaiserstadt."
+description: "Kyoto in 48 Stunden: Fushimi Inari, Arashiyama-Bambuswäldchen, Gion-Viertel und Kaiseki-Abend. Alle Tipps für dein Wochenende in der alten Kaiserstadt Jetzt lesen."
 pubDate: 2026-05-26
 category: "Unterwegs"
 readingTime: 7

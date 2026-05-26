@@ -1,6 +1,6 @@
 ---
 title: "Die besten Offline-Reise-Apps 2026"
-metaTitle: "Beste Offline-Reise-Apps 2026 | Zercy"
+metaTitle: "Beste Offline-Reise-Apps 2026: Tipps & Infos | Zercy"
 description: "Kein WLAN, kein Problem: Die besten Offline-Apps für Karten, Routen, Übersetzungen und Reiseplanung 2026. Welche Apps du vor der Reise unbedingt einrichten solltest."
 pubDate: 2026-05-09
 category: "Clever Reisen"

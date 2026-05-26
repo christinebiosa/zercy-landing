@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Agadir: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Agadir 2026: Dónde Alojarse en Agadir Marruecos | Zercy"
+metaTitle: "Hoteles Agadir 2026: Dónde Alojarse en Agadir | Zercy"
 description: "Hoteles Agadir 2026: Boulevard de la playa, Marina o Talborjt. Los mejores barrios, mejores hoteles y consejos para tus vacaciones en la playa de Marruecos. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

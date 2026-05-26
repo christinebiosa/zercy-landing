@@ -1,7 +1,7 @@
 ---
 title: "Crucero por el Caribe: Guía Completa para Elegir Ruta y Naviera 2026"
 metaTitle: "Crucero Caribe 2026: Rutas, Navieras y Costos | Zercy"
-description: "¿Caribe del Este, Oeste o Sur? Qué ruta te conviene, qué naviera elegir, cuánto cuesta realmente un crucero y cuándo es el mejor momento para viajar."
+description: "¿Caribe del Este, Oeste o Sur? Qué ruta te conviene, qué naviera elegir, cuánto cuesta realmente un crucero y cuándo es el mejor momento para viajar Toda la información para tu próximo viaje."
 heroImage: "/img/blog/caribbean-cruise.jpg"
 pubDate: 2026-05-26
 category: "Lugares lejanos"

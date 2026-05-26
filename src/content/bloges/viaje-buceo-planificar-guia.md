@@ -1,7 +1,7 @@
 ---
 title: "Cómo planificar un viaje de buceo: Guía completa"
 metaTitle: "Viaje de Buceo: Guía para Planificar 2026 | Zercy"
-description: "Planifica tu viaje de buceo paso a paso: certificación, destinos, costos, qué llevar y por qué necesitas un seguro DAN. Para principiantes y avanzados."
+description: "Planifica tu viaje de buceo paso a paso: certificación, destinos, costos, qué llevar y por qué necesitas un seguro DAN. Para principiantes y avanzados Toda la información para tu próximo viaje."
 heroImage: "/img/blog/scuba-dive-trip.jpg"
 pubDate: 2026-05-25
 category: "Lugares lejanos"

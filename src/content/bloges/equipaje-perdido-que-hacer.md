@@ -1,7 +1,7 @@
 ---
 title: "Equipaje perdido: Qué hacer de inmediato y cuánta compensación"
-metaTitle: "Equipaje perdido qué hacer 2026: Derechos y compensación | Zercy"
-description: "¿Maleta perdida en el aeropuerto? Rellena el formulario PIR, espera 21 días y luego hasta 1.700 euros de compensación. Qué hacer de inmediato."
+metaTitle: "Equipaje perdido qué hacer 2026: Derechos | Zercy"
+description: "¿Maleta perdida en el aeropuerto? Rellena el formulario PIR, espera 21 días y luego hasta 1.700 euros de compensación. Qué hacer de inmediato Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Consejos de viaje"
 readingTime: 7

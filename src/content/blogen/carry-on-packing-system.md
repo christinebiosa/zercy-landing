@@ -1,7 +1,7 @@
 ---
 title: "Carry-On Packing: The System That Actually Works"
-metaTitle: "Carry-On Packing System That Works | Zercy"
-description: "Packing cubes, the right bag dimensions, and smart clothing choices: here's how a full week fits into your carry-on. A concrete list, zero fluff."
+metaTitle: "Carry-On Packing System That Works: Tips 2026 | Zercy"
+description: "Packing cubes, the right bag dimensions, and smart clothing choices: here's how a full week fits into your carry-on. A concrete list, zero fluff Know your rights and claim what you deserve."
 pubDate: 2026-05-25
 category: "Carry-On Only"
 readingTime: 8

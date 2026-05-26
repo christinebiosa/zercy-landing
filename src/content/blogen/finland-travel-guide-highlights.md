@@ -1,6 +1,6 @@
 ---
 title: "Finland Travel Guide: Helsinki, Lapland and the Midnight Sun"
-metaTitle: "Finland Travel Guide 2026: Helsinki and Lapland Highlights | Zercy"
+metaTitle: "Finland Travel Guide 2026: Helsinki and Lapland | Zercy"
 description: "Discover Finland: Helsinki's Design District and Suomenlinna, Rovaniemi and Santa Claus in Lapland, midnight sun and northern lights. Everything for your Finland trip."
 pubDate: 2026-05-14
 category: "Off the Map"

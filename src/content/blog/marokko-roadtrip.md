@@ -1,6 +1,6 @@
 ---
 title: "Marokko Roadtrip 2026: Die beste Route durch das Königreich"
-metaTitle: "Marokko Roadtrip 2026: Route & Tipps | Zercy"
+metaTitle: "Marokko Roadtrip 2026: Route & Tipps Ratgeber | Zercy"
 description: "Marokko Roadtrip: Von Marrakesch durch den Atlas bis zur Sahara. Route, Mietwagen, Kosten, Sicherheit und die beste Reisezeit für deinen Wüsten-Trip. Alles was du wissen musst."
 pubDate: 2026-05-09
 category: "Unterwegs"

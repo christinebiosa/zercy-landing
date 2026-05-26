@@ -1,7 +1,7 @@
 ---
 title: "Luxury Train Travel: What You Actually Get"
 metaTitle: "Luxury Train Travel: The Complete Guide | Zercy"
-description: "Venice Simplon Orient Express, Rocky Mountaineer, Glacier Express: which luxury train is worth it? Honest guide with prices, cabins, and booking tips."
+description: "Venice Simplon Orient Express, Rocky Mountaineer, Glacier Express: which luxury train is worth it? Honest guide with prices, cabins, and booking tips Compare options and find the best deals on Zercy."
 heroImage: "/img/blog/luxury-train-travel.jpg"
 pubDate: 2026-05-25
 category: "Off the Map"

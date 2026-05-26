@@ -1,7 +1,7 @@
 ---
 title: "Travel After Retirement: Tips for 60+ Travelers"
 metaTitle: "Travel After Retirement: Tips for 60+ | Zercy"
-description: "Retirement is the best travel passport you'll ever have. Learn which insurance you need, which destinations suit 60+ travelers, and how to travel smarter."
+description: "Retirement is the best travel passport you'll ever have. Learn which insurance you need, which destinations suit 60+ travelers, and how to travel smarter Read more."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 9

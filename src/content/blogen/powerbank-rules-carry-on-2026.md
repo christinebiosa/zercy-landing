@@ -1,6 +1,6 @@
 ---
 title: "Powerbank Rules 2026: What's Actually Allowed in Carry-On"
-metaTitle: "Powerbank Carry-On Rules 2026 | Zercy"
+metaTitle: "Powerbank Carry-On Rules 2026: Tips & Guide | Zercy"
 description: "Powerbank rules in 2026 have gotten more complicated. What's allowed in carry-on, what in checked, what gets confiscated. Current lithium battery regulations. Everything you need to know."
 pubDate: 2026-05-07
 category: "Carry-On Only"

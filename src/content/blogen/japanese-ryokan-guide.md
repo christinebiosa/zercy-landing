@@ -1,7 +1,7 @@
 ---
 title: "Japanese Ryokan: What to Expect and How to Book"
-metaTitle: "Japanese Ryokan Guide: Everything You Need to Know 2026 | Zercy"
-description: "Tatami floors, yukata, kaiseki dinner: what is a ryokan, how much does it cost, and what are the etiquette rules? Complete guide for Japan travelers 2026."
+metaTitle: "Japanese Ryokan Guide: Everything You Need to Know | Zercy"
+description: "Tatami floors, yukata, kaiseki dinner: what is a ryokan, how much does it cost, and what are the etiquette rules? Complete guide for Japan travelers 2026 Read more."
 pubDate: 2026-05-26
 category: "Hidden Gems"
 readingTime: 8

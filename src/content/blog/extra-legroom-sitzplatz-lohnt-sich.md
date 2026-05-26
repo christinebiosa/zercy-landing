@@ -1,7 +1,7 @@
 ---
 title: "Extra Legroom Sitzplatz buchen: Lohnt es sich wirklich?"
-metaTitle: "Extra Legroom buchen: Lohnt es sich? | Zercy"
-description: "Extra Legroom kostet 15 bis 200 Euro. Wann es sich wirklich lohnt, wann nicht und wie du den Sitz manchmal kostenlos bekommst. Die ehrliche Antwort."
+metaTitle: "Extra Legroom buchen: Lohnt es sich? Ratgeber 2026 | Zercy"
+description: "Extra Legroom kostet 15 bis 200 Euro. Wann es sich wirklich lohnt, wann nicht und wie du den Sitz manchmal kostenlos bekommst. Die ehrliche Antwort Jetzt lesen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 7

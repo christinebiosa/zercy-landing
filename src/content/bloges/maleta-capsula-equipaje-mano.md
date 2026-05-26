@@ -1,6 +1,6 @@
 ---
 title: "Maleta cápsula: cómo viajar con poca ropa y mucho estilo"
-metaTitle: "Maleta cápsula: viajar con poco equipaje y mucho estilo | Zercy"
+metaTitle: "Maleta cápsula: viajar con poco equipaje y mucho | Zercy"
 description: "¿Qué es la maleta cápsula? Cómo elegir 10-12 prendas que combinen entre sí para crear 20+ outfits. La guía de viaje minimalista para viajar sin facturar maleta."
 pubDate: 2026-05-08
 category: "Solo equipaje de mano"

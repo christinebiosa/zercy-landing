@@ -1,6 +1,6 @@
 ---
 title: "Finnland Reiseguide: Helsinki, Lappland und Mitternachtssonne"
-metaTitle: "Finnland Reiseguide 2026: Helsinki und Lappland Highlights | Zercy"
+metaTitle: "Finnland Reiseguide 2026: Helsinki & Lappland | Zercy"
 description: "Finnland entdecken: Helsinki Design-Viertel und Suomenlinna, Rovaniemi und Weihnachtsmann in Lappland, Mitternachtssonne und Nordlichter. Alles für deine Finnlandreise."
 pubDate: 2026-05-14
 category: "Fernweh"

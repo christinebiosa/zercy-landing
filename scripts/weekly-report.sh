@@ -1,18 +1,17 @@
 #!/bin/bash
-# Wöchentlicher Indexing-Report für zercy.app
+# Wöchentlicher Webmaster-Report für zercy.app
 # Wird automatisch von ~/Library/LaunchAgents/com.zercy.weekly-report.plist ausgeführt
 # Catch-up-Logik: triggert mehrmals pro Woche, läuft aber nur 1x dank Lock-Datei
 # Manueller Run: ./scripts/weekly-report.sh
 # Force-Run (ignore lock): ./scripts/weekly-report.sh --force
 
-set -e
-
 REPO_DIR="$HOME/Claude Code Projects/zercy-landing"
-REPORT_DIR="$HOME/Desktop/zercy-indexing-reports"
-LOCK_FILE="$REPORT_DIR/.last-run"
+REPORT_DIR="$HOME/.zercy-analytics"
+LOCK_FILE="$REPORT_DIR/.weekly-report-last-run"
 MIN_DAYS_BETWEEN_RUNS=5
 DATE=$(date +%Y-%m-%d)
-REPORT_FILE="$REPORT_DIR/$DATE.txt"
+LOG="$REPORT_DIR/webmaster.log"
+NODE=$(which node)
 
 mkdir -p "$REPORT_DIR"
 
@@ -22,28 +21,22 @@ if [[ "$1" != "--force" ]] && [[ -f "$LOCK_FILE" ]]; then
   NOW=$(date +%s)
   DIFF_DAYS=$(( (NOW - LAST_RUN) / 86400 ))
   if [[ $DIFF_DAYS -lt $MIN_DAYS_BETWEEN_RUNS ]]; then
-    echo "Letzter Report vor $DIFF_DAYS Tagen, skip (Mindestabstand: $MIN_DAYS_BETWEEN_RUNS Tage)."
+    echo "$(date '+%Y-%m-%d %H:%M') — Letzter Report vor $DIFF_DAYS Tagen, skip." >> "$LOG"
     exit 0
   fi
 fi
 
-cd "$REPO_DIR"
+cd "$REPO_DIR" || exit 1
 
-echo "Starte Indexing-Check für zercy.app..." | tee "$REPORT_FILE"
-echo "Datum: $(date)" >> "$REPORT_FILE"
-echo "" >> "$REPORT_FILE"
+echo "$(date '+%Y-%m-%d %H:%M') — Starte Webmaster-Report..." >> "$LOG"
+RESULT=$($NODE "$REPO_DIR/scripts/webmaster-report.mjs" 2>&1)
+echo "$RESULT" >> "$LOG"
 
-python3 scripts/check-indexing.py >> "$REPORT_FILE" 2>&1
-
-# Lock-Datei updaten (Timestamp des erfolgreichen Runs)
+# Lock-Datei updaten
 date +%s > "$LOCK_FILE"
 
-# Extrahiere Summary für Notification
-SUMMARY=$(grep "SUMMARY:" "$REPORT_FILE" | tail -1 | sed 's/.*SUMMARY: //')
+# Extrahiere Impressionen-Zeile für Notification
+SUMMARY=$(echo "$RESULT" | grep "Impressionen:" | head -1)
+osascript -e "display notification \"$SUMMARY\" with title \"Zercy Webmaster-Report\" sound name \"Glass\"" 2>/dev/null || true
 
-# macOS Notification
-osascript -e "display notification \"$SUMMARY\" with title \"Zercy Indexing-Report bereit\" subtitle \"Auf dem Desktop\" sound name \"Glass\""
-
-echo ""
-echo "Report gespeichert: $REPORT_FILE"
-echo "Summary: $SUMMARY"
+echo "$(date '+%Y-%m-%d %H:%M') — Report fertig." >> "$LOG"

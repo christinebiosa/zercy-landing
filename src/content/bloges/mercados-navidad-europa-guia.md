@@ -1,7 +1,7 @@
 ---
 title: "Los 8 mejores mercados de Navidad en Europa"
-metaTitle: "Mercados de Navidad Europa: Top 8 | Zercy"
-description: "De Estrasburgo a Tallin: los 8 mejores mercados navideños de Europa, cuándo ir, cuánto gastar y los rincones que los turistas no conocen."
+metaTitle: "Mercados de Navidad Europa: Top 8 Guía Completa 2026 | Zercy"
+description: "De Estrasburgo a Tallin: los 8 mejores mercados navideños de Europa, cuándo ir, cuánto gastar y los rincones que los turistas no conocen Toda la información para tu próximo viaje."
 heroImage: "/img/blog/christmas-markets-europe.jpg"
 pubDate: 2026-05-25
 category: "Lugares lejanos"

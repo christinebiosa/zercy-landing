@@ -1,6 +1,6 @@
 ---
 title: "Powerbank-Regeln 2026: Was wirklich ins Handgepäck darf"
-metaTitle: "Powerbank Handgepäck Regeln 2026 | Zercy"
+metaTitle: "Powerbank Handgepäck Regeln 2026: Tipps & Infos | Zercy"
 description: "Powerbank-Regeln 2026 sind komplizierter geworden. Was darf wie groß ins Handgepäck, was ins Aufgegebene, was wird konfisziert. Aktuelle Lithium-Akku-Vorschriften."
 pubDate: 2026-05-07
 category: "Nur mit Handgepäck"

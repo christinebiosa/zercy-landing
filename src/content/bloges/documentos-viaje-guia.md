@@ -1,6 +1,6 @@
 ---
 title: "Documentos de viaje: Guía completa para organizarlos y protegerlos"
-metaTitle: "Documentos de viaje: Checklist 2026 | Zercy"
+metaTitle: "Documentos de viaje: Checklist 2026 Guía Completa | Zercy"
 description: "Pasaporte, visa, seguro médico, certificado de vacunación: qué documentos necesitas realmente, cómo hacer copias de seguridad digitales y qué hacer si te los roban."
 pubDate: 2026-05-25
 category: "Viaje inteligente"

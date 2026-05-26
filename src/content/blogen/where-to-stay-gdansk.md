@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Gdańsk: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Gdańsk Hotels: Where to Stay 2026 | Zercy"
+metaTitle: "Gdańsk Hotels: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Old Town or Sopot? Best hotels in Gdańsk by neighborhood. Honest picks for every budget, from Hanseatic amber-trading streets to Baltic beach resorts and rising port districts."
 pubDate: 2026-05-26
 category: "Where to Stay"

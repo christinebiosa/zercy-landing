@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Varanasi: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Varanasi: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Varanasi: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Varanasi hat 5 Lagen: Ghats/Dashashwamedh für Pilger und Spiritualität, Assi Ghat ruhiger und studentisch, Godaulia/Old City mittendrin, Cantonment modern, Sarnath buddhistisch."
 pubDate: 2026-05-26
 category: "Wo übernachten"

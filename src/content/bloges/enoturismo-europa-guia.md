@@ -1,7 +1,7 @@
 ---
 title: "Enoturismo en Europa: Las 6 Mejores Regiones Vinícolas"
 metaTitle: "Enoturismo Europa: Las mejores regiones | Zercy"
-description: "Burdeos, Toscana, Rioja, Mosela, Valle del Duero, Burgenland: las 6 mejores regiones vinícolas de Europa para vivir una experiencia de enoturismo real."
+description: "Burdeos, Toscana, Rioja, Mosela, Valle del Duero, Burgenland: las 6 mejores regiones vinícolas de Europa para vivir una experiencia de enoturismo real Toda la información para tu próximo viaje."
 heroImage: "/img/blog/wine-travel-europe.jpg"
 pubDate: 2026-05-25
 category: "Joyas ocultas"

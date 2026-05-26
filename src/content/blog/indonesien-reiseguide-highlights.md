@@ -1,6 +1,6 @@
 ---
 title: "Indonesien jenseits von Bali: Die echten Highlights"
-metaTitle: "Indonesien Reiseguide 2026: Highlights abseits von Bali | Zercy"
+metaTitle: "Indonesien Reiseguide 2026: Highlights abseits | Zercy"
 description: "Yogyakarta, Komodo, Sulawesi und Lombok: die besten Indonesien-Highlights abseits von Bali mit Reisezeiten, Kosten und praktischen Tipps für 2026. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"

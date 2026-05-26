@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Delhi: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Delhi: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Delhi: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Delhi hat 5 Stadtteile für jeden Reisestil: Connaught Place zentral, Karol Bagh günstig, Paharganj für Backpacker, South Delhi upscale, Aerocity am Flughafen. Top-Hotels für jedes Budget."
 pubDate: 2026-05-09
 category: "Wo übernachten"

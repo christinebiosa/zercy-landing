@@ -1,6 +1,6 @@
 ---
 title: "Flight Strike: What Are Your Rights and What Should You Do?"
-metaTitle: "Flight Strike: Know Your Rights 2026 | Zercy"
+metaTitle: "Flight Strike: Know Your Rights 2026 Tips & Guide | Zercy"
 description: "Flight cancelled due to a strike? Find out when you're entitled to compensation, what airlines must provide regardless, and how to act fast to protect your rights."
 pubDate: 2026-05-25
 category: "Smart Travel"

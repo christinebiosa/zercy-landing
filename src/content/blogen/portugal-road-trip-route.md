@@ -1,6 +1,6 @@
 ---
 title: "Portugal Road Trip: The Perfect Route from Lisbon to Porto and the Algarve"
-metaTitle: "Portugal Road Trip Route & Tips 2026 | Zercy"
+metaTitle: "Portugal Road Trip Route & Tips 2026: Tips & Guide | Zercy"
 description: "Plan your Portugal road trip: Lisbon, Algarve, Porto, Douro Valley in 2–3 weeks. Best route with realistic costs, highlights, and booking tips for 2026. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"

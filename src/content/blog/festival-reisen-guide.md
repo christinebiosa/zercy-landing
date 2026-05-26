@@ -1,6 +1,6 @@
 ---
 title: "Festival-Reisen: Dein Guide für die besten Festivals der Welt"
-metaTitle: "Festival-Reisen: Die besten Guides | Zercy"
+metaTitle: "Festival-Reisen: Die besten Guides Ratgeber 2026 | Zercy"
 description: "Glastonbury, Tomorrowland, Oktoberfest, Holi: Welche Festivals lohnen sich wirklich als Reiseziel? Tipps zu Tickets, Unterkunft und Budget für deine Festival-Reise."
 heroImage: "/img/blog/festival-travel.jpg"
 pubDate: 2026-05-25

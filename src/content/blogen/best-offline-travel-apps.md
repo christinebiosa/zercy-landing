@@ -1,6 +1,6 @@
 ---
 title: "Best Offline Travel Apps in 2026"
-metaTitle: "Best Offline Travel Apps 2026 | Zercy"
+metaTitle: "Best Offline Travel Apps 2026: Tips & Guide | Zercy"
 description: "No wifi, no problem: the best offline apps for maps, routes, translation, and trip management in 2026. What to set up before you leave home, and why it matters."
 pubDate: 2026-05-09
 category: "Smart Travel"

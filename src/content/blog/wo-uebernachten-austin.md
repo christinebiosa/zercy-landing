@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Austin: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Austin 2026: Wo übernachten | Zercy"
+metaTitle: "Hotels Austin 2026: Wo übernachten Tipps & Infos | Zercy"
 description: "Austin Hotels 2026: Downtown für Nightlife, South Congress für Kultur, East Austin für Locals. Die besten Stadtteile, Top-Picks und Buchungstipps. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

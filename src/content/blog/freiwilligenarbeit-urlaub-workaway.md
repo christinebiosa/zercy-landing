@@ -1,6 +1,6 @@
 ---
 title: "Freiwilligenarbeit im Urlaub: Workaway, WWOOF und Co. erklärt"
-metaTitle: "Freiwilligenarbeit Reise 2026: Workaway + WWOOF Guide | Zercy"
+metaTitle: "Freiwilligenarbeit Reise 2026: Workaway + WWOOF | Zercy"
 description: "Mit Workaway und WWOOF reist du für fast nichts und hilfst dabei wirklich. Wie Freiwilligenarbeit im Urlaub funktioniert, was es kostet und welche Plattformen seriös sind."
 pubDate: 2026-05-25
 category: "Fernweh"

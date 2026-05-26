@@ -1,7 +1,7 @@
 ---
 title: "Viaje en Tren de Lujo: Lo Que Realmente Obtienes"
-metaTitle: "Viaje en Tren de Lujo: Guía Completa | Zercy"
-description: "Venice Simplon Orient Express, Rocky Mountaineer, Glacier Express: ¿cuál vale la pena? Guía honesta con precios, cabinas y consejos para reservar con tiempo."
+metaTitle: "Viaje en Tren de Lujo: Guía Completa Consejos 2026 | Zercy"
+description: "Venice Simplon Orient Express, Rocky Mountaineer, Glacier Express: ¿cuál vale la pena? Guía honesta con precios, cabinas y consejos para reservar con tiempo Toda la información para tu próximo viaje."
 heroImage: "/img/blog/luxury-train-travel.jpg"
 pubDate: 2026-05-25
 category: "Lugares lejanos"

@@ -1,6 +1,6 @@
 ---
 title: "Ciberseguridad para viajeros: cómo protegerte cuando estás fuera de casa"
-metaTitle: "Ciberseguridad viajeros 2026: WiFi público, VPN y datos | Zercy"
+metaTitle: "Ciberseguridad viajeros 2026: WiFi público, VPN | Zercy"
 description: "Cómo proteger tus datos y dispositivos cuando viajas. WiFi público, VPN, tarjetas de crédito, contraseñas y los riesgos reales que los viajeros ignoran en 2026."
 pubDate: 2026-05-08
 category: "Consejos de viaje"

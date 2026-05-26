@@ -1,6 +1,6 @@
 ---
 title: "Wie KI die Reiseplanung verändert — und was das für dich bedeutet"
-metaTitle: "Wie KI die Reiseplanung verändert | Zercy"
+metaTitle: "Wie KI die Reiseplanung verändert: Ratgeber 2026 | Zercy"
 description: "Buchungsportale zeigen Listen. KI versteht dich. Was sich in der Reiseplanung gerade verändert – und was das für Reisende konkret bedeutet. Alles was du wissen musst."
 pubDate: 2026-03-15
 category: "KI & Reisen"

@@ -1,6 +1,6 @@
 ---
 title: "Workation in Portugal und Spanien 2026: Der ehrliche Guide"
-metaTitle: "Workation Portugal & Spanien 2026: Städte, Kosten, Visum | Zercy"
+metaTitle: "Workation Portugal & Spanien 2026: Städte, Kosten | Zercy"
 description: "Portugal und Spanien sind die beliebtesten Workation-Ziele Europas. Lissabon, Porto, Málaga, Valencia: Was kosten sie wirklich? Welches Visum brauchst du? Die Antworten."
 pubDate: 2026-05-11
 category: "Clever Reisen"

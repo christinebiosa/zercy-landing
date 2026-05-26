@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Quito: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Quito 2026: Wo übernachten | Zercy"
+metaTitle: "Hotels Quito 2026: Wo übernachten Tipps & Infos | Zercy"
 description: "Quito Hotels 2026: Centro Histórico für Kultur, La Mariscal für Backpacker, La Floresta für Genuss. Beste Stadtteile, Top-Picks und Buchungstipps für Ecuador. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

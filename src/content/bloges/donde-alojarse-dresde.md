@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Dresde: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Dresde 2026: Dónde alojarse | Zercy"
+metaTitle: "Hoteles Dresde 2026: Dónde alojarse Guía Completa | Zercy"
 description: "Dresde hoteles 2026: ¿Altstadt, Neustadt, Blasewitz o Loschwitz? Los mejores barrios, picks de hoteles y consejos para la Florencia del Elba. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

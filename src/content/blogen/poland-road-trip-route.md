@@ -1,6 +1,6 @@
 ---
 title: "Poland Road Trip Route: Krakow, Warsaw, Gdansk, and the Tatras"
-metaTitle: "Poland Road Trip Route 2026: Best Cities and Highlights | Zercy"
+metaTitle: "Poland Road Trip Route 2026: Best Cities | Zercy"
 description: "Plan your Poland road trip: Krakow, Warsaw, Gdansk, Wroclaw, and Zakopane. Best route, train tips, and why Poland is Central Europe's most underrated destination."
 pubDate: 2026-05-14
 category: "Off the Map"

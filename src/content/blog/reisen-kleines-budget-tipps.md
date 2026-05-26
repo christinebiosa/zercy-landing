@@ -1,6 +1,6 @@
 ---
 title: "Reisen mit kleinem Budget: 10 Strategien die wirklich sparen"
-metaTitle: "Günstig Reisen 2026: Budget-Strategien die funktionieren | Zercy"
+metaTitle: "Günstig Reisen 2026: Budget-Strategien | Zercy"
 description: "Günstig reisen ohne auf alles zu verzichten: 10 echte Strategien für Budget-Reisende. Wo du sparst ohne Komfort zu opfern und wo sparen sich nicht lohnt. Mit konkreten Praxistipps."
 pubDate: 2026-05-09
 category: "Clever Reisen"

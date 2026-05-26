@@ -1,6 +1,6 @@
 ---
 title: "Flight Carbon Offsets: Do They Actually Work?"
-metaTitle: "Flight Carbon Offsets: Do They Work? | Zercy"
+metaTitle: "Flight Carbon Offsets: Do They Work? Tips 2026 | Zercy"
 description: "Atmosfair, MyClimate, Climeworks: offsetting flight emissions sounds simple. But does a $30 click really reduce your impact? And what alternatives actually work?"
 pubDate: 2026-04-28
 category: "Travel Green"

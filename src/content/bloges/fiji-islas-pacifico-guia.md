@@ -1,6 +1,6 @@
 ---
 title: "Fiji y el Pacífico: Island hopping para viajeros lentos de verdad"
-metaTitle: "Fiji Islas Pacífico Island Hopping 2026: Guía y Consejos | Zercy"
+metaTitle: "Fiji Islas Pacífico Island Hopping 2026: Guía | Zercy"
 description: "Viti Levu, Islas Mamanuca, Islas Yasawa y Taveuni: la guía honesta para el island hopping en Fiji con costes, ferris y la mejor época para viajar en 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-14
 category: "Lugares lejanos"

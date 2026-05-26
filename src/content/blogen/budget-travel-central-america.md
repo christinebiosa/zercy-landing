@@ -1,7 +1,7 @@
 ---
 title: "Budget Travel in Central America: Guide and Prices for 2026"
 metaTitle: "Central America Budget Travel 2026: Tips + Prices | Zercy"
-description: "Guatemala from $25 per day, Costa Rica from $60: Central America for every budget. Budget routes, cheapest countries and tips for backpackers 2026."
+description: "Guatemala from $25 per day, Costa Rica from $60: Central America for every budget. Budget routes, cheapest countries and tips for backpackers 2026 Real tips that help you save money on your next trip."
 pubDate: 2026-05-25
 category: "Off the Map"
 readingTime: 8

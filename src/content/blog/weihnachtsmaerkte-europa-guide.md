@@ -1,7 +1,7 @@
 ---
 title: "Die 8 besten Weihnachtsmärkte in Europa"
-metaTitle: "Weihnachtsmärkte Europa: Top 8 | Zercy"
-description: "Von Straßburg bis Tallinn: Die 8 schönsten Weihnachtsmärkte Europas, Reisetipps, Budgetplanung und wann du am besten reisen solltest."
+metaTitle: "Weihnachtsmärkte Europa: Top 8 Tipps & Infos 2026 | Zercy"
+description: "Von Straßburg bis Tallinn: Die 8 schönsten Weihnachtsmärkte Europas, Reisetipps, Budgetplanung und wann du am besten reisen solltest So sparst du bei der nächsten Reise wirklich Geld."
 heroImage: "/img/blog/christmas-markets-europe.jpg"
 pubDate: 2026-05-25
 category: "Fernweh"

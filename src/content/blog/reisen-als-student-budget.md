@@ -1,7 +1,7 @@
 ---
 title: "Reisen als Student: Europa unter 500€ pro Trip"
-metaTitle: "Reisen als Student: Europa ab 300€ | Zercy"
-description: "Europa mit wenig Budget bereisen ist möglich. Wie du als Student Flüge, Hostels und Aktivitäten günstig kombinierst und 5 Tage Lissabon ab 300€ buchst."
+metaTitle: "Reisen als Student: Europa ab 300€ Ratgeber 2026 | Zercy"
+description: "Europa mit wenig Budget bereisen ist möglich. Wie du als Student Flüge, Hostels und Aktivitäten günstig kombinierst und 5 Tage Lissabon ab 300€ buchst Jetzt lesen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 8

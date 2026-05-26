@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Los Angeles: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Beste Hotels LA: Wo übernachten 2026 | Zercy"
+metaTitle: "Beste Hotels LA: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "LA hat 5 sehr unterschiedliche Stadtteile: Hollywood, Santa Monica Strand, West Hollywood Hip, Beverly Hills Luxus, Downtown LA. Welcher passt zu deiner Kalifornien-Reise?"
 pubDate: 2026-05-07
 category: "Wo übernachten"

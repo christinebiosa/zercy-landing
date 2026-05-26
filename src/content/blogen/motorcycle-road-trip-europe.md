@@ -1,7 +1,7 @@
 ---
 title: "Motorcycle Road Trip Europe: The Complete Guide"
 metaTitle: "Motorcycle Road Trip Europe: Routes & Tips | Zercy"
-description: "Best motorcycle routes in Europe from the Transfagarasan to the Grossglockner. Gear, costs, insurance abroad, and everything you need before you ride."
+description: "Best motorcycle routes in Europe from the Transfagarasan to the Grossglockner. Gear, costs, insurance abroad, and everything you need before you ride All the essentials for your next adventure."
 heroImage: "/img/blog/motorcycle-europe.jpg"
 pubDate: 2026-05-25
 category: "On the Move"

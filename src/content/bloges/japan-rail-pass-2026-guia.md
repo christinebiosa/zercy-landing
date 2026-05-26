@@ -1,7 +1,7 @@
 ---
 title: "Japan Rail Pass 2026: ¿Vale la pena de verdad?"
 metaTitle: "Japan Rail Pass 2026: ¿Vale la pena? Guía honesta"
-description: "Japan Rail Pass 2026: cuándo conviene y cuándo no. Precios, rutas, cobertura del Shinkansen y alternativas. Comparativa honesta con números reales."
+description: "Japan Rail Pass 2026: cuándo conviene y cuándo no. Precios, rutas, cobertura del Shinkansen y alternativas. Comparativa honesta con números reales Toda la información para tu próximo viaje."
 pubDate: 2026-05-26
 category: "Viaje inteligente"
 readingTime: 8

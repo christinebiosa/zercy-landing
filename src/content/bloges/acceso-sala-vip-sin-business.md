@@ -1,6 +1,6 @@
 ---
 title: "Cómo acceder a salas VIP del aeropuerto sin volar en business 2026"
-metaTitle: "Salas VIP aeropuerto sin business: todas las opciones 2026 | Zercy"
+metaTitle: "Salas VIP aeropuerto sin business: todas | Zercy"
 description: "¿Cómo entrar a las salas VIP del aeropuerto sin pagar business class? Priority Pass, tarjetas de crédito, apps de acceso y cuánto cuesta cada opción en 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Consejos de viaje"

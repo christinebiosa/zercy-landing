@@ -1,6 +1,6 @@
 ---
 title: "Reiseimpfungen Guide: Was du vor der Reise auffrischen und beachten musst"
-metaTitle: "Reiseimpfungen Guide 2026: Welche Impfungen brauchst du? | Zercy"
+metaTitle: "Reiseimpfungen Guide 2026: Welche Impfungen brauchst | Zercy"
 description: "Reiseimpfungen Guide 2026: Standard- und Reiseimpfungen, Malaria-Prophylaxe, Gelbfieber-Pflichtländer, Timing und die wichtigsten Dinge für deine Reiseapotheke."
 pubDate: 2026-05-14
 category: "Reisetipps"

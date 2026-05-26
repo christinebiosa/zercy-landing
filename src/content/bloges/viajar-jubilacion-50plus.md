@@ -1,7 +1,7 @@
 ---
 title: "Viajar tras la jubilación: Guía para mayores de 60"
 metaTitle: "Viajar tras la jubilación: Guía para +60 | Zercy"
-description: "La jubilación es el mejor pasaporte que tendrás. Descubre qué seguro necesitas, los mejores destinos para mayores de 60 y cómo viajar más cómodo por menos."
+description: "La jubilación es el mejor pasaporte que tendrás. Descubre qué seguro necesitas, los mejores destinos para mayores de 60 y cómo viajar más cómodo por menos Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 9

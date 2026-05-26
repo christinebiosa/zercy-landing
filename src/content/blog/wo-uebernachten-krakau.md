@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Krakau: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Krakau Hotels: Wo übernachten 2026 | Zercy"
+metaTitle: "Krakau Hotels: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Stare Miasto oder Kazimierz? Die besten Hotels in Krakau nach Viertel. Konkrete Hotel-Picks, Preisklassen und welches Viertel zu deinem Reisestil passt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-09
 category: "Wo übernachten"

@@ -1,6 +1,6 @@
 ---
 title: "Mejores Hoteles en Oslo: Dónde Alojarse en Cada Barrio 2026"
-metaTitle: "Hoteles Oslo: Dónde Alojarse 2026 | Zercy"
+metaTitle: "Hoteles Oslo: Dónde Alojarse 2026 Guía Completa | Zercy"
 description: "Oslo tiene 5 barrios muy distintos: Sentrum céntrico, Grünerløkka hipster, Frogner exclusivo, Aker Brygge junto al puerto y Majorstuen tranquilo. Encuentra tu lugar."
 pubDate: 2026-05-09
 category: "Dónde alojarse"

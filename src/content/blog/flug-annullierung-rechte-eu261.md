@@ -1,6 +1,6 @@
 ---
 title: "Flug annulliert: Deine Rechte nach EU261 erklärt"
-metaTitle: "Flug annulliert Entschädigung EU261 2026: Deine Rechte | Zercy"
+metaTitle: "Flug annulliert Entschädigung EU261 2026 | Zercy"
 description: "Airline storniert deinen Flug? Bis zu 600 Euro Entschädigung nach EU261. Wann du Anspruch hast, wann nicht, und wie du das Geld wirklich bekommst. Mit Schritt-für-Schritt-Anleitung."
 pubDate: 2026-05-25
 category: "Clever Reisen"

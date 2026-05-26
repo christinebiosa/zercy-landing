@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Niza: Dónde alojarse en cada barrio 2026"
-metaTitle: "Hoteles Niza: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Niza: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Niza tiene 5 barrios muy distintos: Vieux-Nice con mercado y Socca, Promenade para lujo, Cimiez tranquilo, Carré d'Or para compras, Le Port auténtico y más barato. ¿Cuál encaja?"
 pubDate: 2026-05-11
 category: "Dónde alojarse"

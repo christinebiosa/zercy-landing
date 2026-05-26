@@ -1,7 +1,7 @@
 ---
 title: "Desayuno de hotel incluido: ¿Vale realmente la pena?"
 metaTitle: "Desayuno hotel incluido: ¿Vale la pena en 2026? | Zercy"
-description: "Desayuno hotel 28€ vs. mercado 4€ en Lisboa: 24€ ahorrados por persona al día. Cuándo el desayuno incluido compensa y cuándo es mejor salir a desayunar fuera."
+description: "Desayuno hotel 28€ vs. mercado 4€ en Lisboa: 24€ ahorrados por persona al día. Cuándo el desayuno incluido compensa y cuándo es mejor salir a desayunar fuera Más información."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 7

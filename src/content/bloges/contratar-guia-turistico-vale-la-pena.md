@@ -1,7 +1,7 @@
 ---
 title: "Contratar un guía turístico: ¿vale la pena?"
 metaTitle: "Guía turístico: ¿Vale la pena contratar uno? | Zercy"
-description: "Free tours, guías privados, tours en grupo: qué cuestan y cuándo realmente marcan la diferencia. La respuesta honesta para 4 tipos de viajeros."
+description: "Free tours, guías privados, tours en grupo: qué cuestan y cuándo realmente marcan la diferencia. La respuesta honesta para 4 tipos de viajeros Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 7

@@ -1,6 +1,6 @@
 ---
 title: "Las mejores apps de viaje para 2026: la guía definitiva"
-metaTitle: "Mejores apps de viaje 2026: vuelos, mapas, traducción y más | Zercy"
+metaTitle: "Mejores apps de viaje 2026: vuelos, mapas | Zercy"
 description: "Las apps de viaje que realmente necesitas en 2026. Vuelos, mapas offline, traducción, conversión de moneda, organización del itinerario y seguridad. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Consejos de viaje"

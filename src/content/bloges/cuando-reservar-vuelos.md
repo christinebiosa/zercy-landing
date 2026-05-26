@@ -1,6 +1,6 @@
 ---
 title: "Cuándo reservar vuelos: la guía del timing perfecto 2026"
-metaTitle: "Cuándo reservar vuelos: timing perfecto para pagar menos | Zercy"
+metaTitle: "Cuándo reservar vuelos: timing perfecto para pagar | Zercy"
 description: "¿Cuándo es el mejor momento para reservar un vuelo? Con cuánta antelación comprar, qué días son más baratos y cómo evitar pagar de más en 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Consejos de viaje"

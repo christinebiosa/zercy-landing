@@ -1,7 +1,7 @@
 ---
 title: "Escala corta: ¿Cómo tomas tu vuelo de conexión sin problemas?"
 metaTitle: "Escala corta: Toma tu conexión sin estrés | Zercy"
-description: "MCT, equipaje facturado, retrasos: todo lo que necesitas saber para coger tu vuelo de conexión con tranquilidad, incluso con poco tiempo en Frankfurt o Dubai."
+description: "MCT, equipaje facturado, retrasos: todo lo que necesitas saber para coger tu vuelo de conexión con tranquilidad, incluso con poco tiempo en Frankfurt o Dubai Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 7

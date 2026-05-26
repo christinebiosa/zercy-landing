@@ -1,7 +1,7 @@
 ---
 title: "Hotel Cancellation Tips: Book Smart, Cancel Stress-Free"
 metaTitle: "Hotel Cancellation Tips: Know Your Rights | Zercy"
-description: "Hotel cancellation made easy: free cancellation rates, deadlines, no-show rules, and the double-booking trick that saves money. Never lose a night again."
+description: "Hotel cancellation made easy: free cancellation rates, deadlines, no-show rules, and the double-booking trick that saves money. Never lose a night again Compare hotels and find the best stay on Zercy."
 heroImage: "/img/blog/hotel-cancellation.jpg"
 pubDate: 2026-05-25
 category: "Smart Travel"

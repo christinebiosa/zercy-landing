@@ -1,7 +1,7 @@
 ---
 title: "Student Travel in Europe: How to Do It Under €500"
-metaTitle: "Student Travel Europe: Budget Guide | Zercy"
-description: "Travel Europe as a student without breaking the bank. Real budget breakdowns, booking tips, free activities, and must-have apps for trips from €300."
+metaTitle: "Student Travel Europe: Budget Guide Tips 2026 | Zercy"
+description: "Travel Europe as a student without breaking the bank. Real budget breakdowns, booking tips, free activities, and must-have apps for trips from €300 Tips, costs, and everything you need to know."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 8

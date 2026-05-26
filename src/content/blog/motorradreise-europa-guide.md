@@ -1,7 +1,7 @@
 ---
 title: "Motorradreise Europa: Der ultimative Guide"
-metaTitle: "Motorradreise Europa: Routen & Tipps | Zercy"
-description: "Die besten Motorradrouten in Europa, von der Transfagarasan bis zur Grossglockner Hochalpenstraße. Ausrüstung, Kosten und alles was du wissen musst."
+metaTitle: "Motorradreise Europa: Routen & Tipps Ratgeber 2026 | Zercy"
+description: "Die besten Motorradrouten in Europa, von der Transfagarasan bis zur Grossglockner Hochalpenstraße. Ausrüstung, Kosten und alles was du wissen musst Jetzt lesen."
 heroImage: "/img/blog/motorcycle-europe.jpg"
 pubDate: 2026-05-25
 category: "Unterwegs"

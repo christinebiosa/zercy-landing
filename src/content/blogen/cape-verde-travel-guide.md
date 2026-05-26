@@ -1,6 +1,6 @@
 ---
 title: "Cape Verde Travel Guide: Sal, Santiago, São Vicente, and Santo Antão"
-metaTitle: "Cape Verde Travel Guide 2026: Islands, Beaches & Culture | Zercy"
+metaTitle: "Cape Verde Travel Guide 2026: Islands, Beaches | Zercy"
 description: "Discover Cape Verde: Sal with windsurfing, Santiago with Fogo volcano, São Vicente with Mindelo music scene, Santo Antão trekking. 5 hours from Europe, no visa for EU citizens."
 pubDate: 2026-05-14
 category: "Off the Map"

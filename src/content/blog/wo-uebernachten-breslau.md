@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Breslau: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Breslau Hotels: Wo übernachten 2026 | Zercy"
+metaTitle: "Breslau Hotels: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Stare Miasto oder Krzyki? Die besten Hotels in Breslau nach Viertel. Konkrete Picks, Preisklassen und welches Viertel zu deinem Stil passt. Zwergentour inklusive."
 pubDate: 2026-05-26
 category: "Wo übernachten"

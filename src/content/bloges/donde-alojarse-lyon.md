@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Lyon: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Lyon 2026: Dónde alojarse | Zercy"
+metaTitle: "Hoteles Lyon 2026: Dónde alojarse Guía Completa | Zercy"
 description: "Lyon hoteles 2026: Vieux-Lyon histórico y gastronómico, Presqu'île central, Croix-Rousse local. Los mejores barrios, hoteles recomendados y precios reales 2026."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

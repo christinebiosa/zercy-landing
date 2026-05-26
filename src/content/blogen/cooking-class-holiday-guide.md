@@ -1,7 +1,7 @@
 ---
 title: "Cooking Class on Holiday: The Ultimate Cultural Experience"
 metaTitle: "Cooking Class on Holiday: Book It Right | Zercy"
-description: "Why a cooking class abroad beats any city tour. Best destinations, platforms, and tips on half-day vs. full-day courses — from Thailand to Tuscany."
+description: "Why a cooking class abroad beats any city tour. Best destinations, platforms, and tips on half-day vs. full-day courses — from Thailand to Tuscany Everything you need for a smooth and memorable trip."
 heroImage: "/img/blog/cooking-class-travel.jpg"
 pubDate: 2026-05-25
 category: "Hidden Gems"

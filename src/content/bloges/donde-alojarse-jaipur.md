@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Jaipur: Dónde alojarse en cada barrio 2026"
-metaTitle: "Hoteles Jaipur: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Jaipur: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Jaipur tiene 5 zonas: Pink City auténtica y caótica, Civil Lines tranquila, Bani Park verde y accesible, Malviya Nagar moderna, corredor Amer Road cerca del Fuerte."
 pubDate: 2026-05-10
 category: "Dónde alojarse"

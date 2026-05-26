@@ -1,7 +1,7 @@
 ---
 title: "Reisen nach der Rente: Tipps für 60+ Reisende"
-metaTitle: "Reisen nach der Rente: Tipps für 60+ | Zercy"
-description: "Rente bedeutet endlich Zeit zum Reisen. Welche Versicherungen du brauchst, welche Ziele perfekt passen und wie du mehr bekommst für weniger Geld."
+metaTitle: "Reisen nach der Rente: Tipps für 60+ Ratgeber 2026 | Zercy"
+description: "Rente bedeutet endlich Zeit zum Reisen. Welche Versicherungen du brauchst, welche Ziele perfekt passen und wie du mehr bekommst für weniger Geld Tipps, Kosten und alles was du wissen musst."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 9

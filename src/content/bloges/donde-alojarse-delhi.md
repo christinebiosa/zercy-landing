@@ -1,6 +1,6 @@
 ---
 title: "Mejores hoteles en Delhi: Dónde alojarse en cada barrio 2026"
-metaTitle: "Hoteles Delhi: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Delhi: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Delhi tiene 5 barrios para cada estilo: Connaught Place central, Karol Bagh económico, Paharganj mochileros, South Delhi residencial, Aerocity junto al aeropuerto."
 pubDate: 2026-05-09
 category: "Dónde alojarse"

@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Bergen: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Bergen 2026: Wo übernachten | Zercy"
+metaTitle: "Hotels Bergen 2026: Wo übernachten Tipps & Infos | Zercy"
 description: "Bergen Hotels 2026: Bryggen, Sentrum, Sandviken oder Nordnes? Beste Stadtteile, Top-Picks und Tipps für Norwegen's Tor zu den Fjorden. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

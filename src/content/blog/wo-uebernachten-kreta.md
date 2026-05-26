@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Kreta: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Kreta 2026: Wo übernachten | Zercy"
+metaTitle: "Hotels Kreta 2026: Wo übernachten Tipps & Infos | Zercy"
 description: "Kreta Hotels 2026: Heraklion als Basis, Chania romantisch-venezianisch, Rethymno charmant, Agios Nikolaos elegant. Stadtteile, Preise und Hotel-Picks. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"

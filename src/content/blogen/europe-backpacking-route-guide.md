@@ -1,7 +1,7 @@
 ---
 title: "Europe Backpacking Route Guide: West vs. East in 4–8 Weeks"
-metaTitle: "Europe Backpacking Route Guide 2026 | Zercy"
-description: "Western Europe or Eastern Europe? This backpacking route guide covers the two classic loops, daily budgets, Interrail vs. single tickets, and packing tips."
+metaTitle: "Europe Backpacking Route Guide 2026: Tips | Zercy"
+description: "Western Europe or Eastern Europe? This backpacking route guide covers the two classic loops, daily budgets, Interrail vs. single tickets, and packing tips Read more."
 heroImage: "/img/blog/europe-backpacking.jpg"
 pubDate: 2026-05-25
 category: "Off the Map"

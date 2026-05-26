@@ -1,7 +1,7 @@
 ---
 title: "Retraso de vuelo: Tus derechos según EU261 y cómo reclamarlos"
 metaTitle: "Retraso Vuelo y EU261: Conoce tus Derechos | Zercy"
-description: "Hasta 600 euros de indemnización por retraso de vuelo. Así funciona el Reglamento EU261, cuándo tienes derecho y cómo reclamar tu dinero paso a paso."
+description: "Hasta 600 euros de indemnización por retraso de vuelo. Así funciona el Reglamento EU261, cuándo tienes derecho y cómo reclamar tu dinero paso a paso Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 8

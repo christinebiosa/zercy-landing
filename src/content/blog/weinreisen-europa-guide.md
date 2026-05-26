@@ -1,7 +1,7 @@
 ---
 title: "Weinreisen Europa: Die 6 schönsten Weinregionen"
 metaTitle: "Weinreisen Europa: Die besten Regionen | Zercy"
-description: "Bordeaux, Toskana, Rioja, Mosel, Douro-Tal, Burgenland: Die 6 schönsten Weinregionen Europas für eine echte Weinreise mit Weingütern, Proben und Übernachten."
+description: "Bordeaux, Toskana, Rioja, Mosel, Douro-Tal, Burgenland: Die 6 schönsten Weinregionen Europas für eine echte Weinreise mit Weingütern, Proben und Übernachten Jetzt lesen."
 heroImage: "/img/blog/wine-travel-europe.jpg"
 pubDate: 2026-05-25
 category: "Geheimtipps"

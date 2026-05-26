@@ -1,7 +1,7 @@
 ---
 title: "Gruppenreisen organisieren: Der ehrliche Guide"
 metaTitle: "Gruppenreisen organisieren: So klappt's | Zercy"
-description: "Gruppenreisen mit 4 bis 12 Personen erfolgreich planen. Budget, Abstimmung, Rollenverteilung und die häufigsten Fehler, die du von Anfang an vermeiden kannst."
+description: "Gruppenreisen mit 4 bis 12 Personen erfolgreich planen. Budget, Abstimmung, Rollenverteilung und die häufigsten Fehler, die du von Anfang an vermeiden kannst Jetzt lesen."
 heroImage: "/img/blog/group-travel.jpg"
 pubDate: 2026-05-25
 category: "Reisetipps"

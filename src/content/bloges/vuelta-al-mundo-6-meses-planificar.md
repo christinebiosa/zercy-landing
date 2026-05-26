@@ -1,7 +1,7 @@
 ---
 title: "Vuelta al mundo en 6 meses: La guía completa para empezar"
 metaTitle: "Vuelta al mundo 6 meses: cómo empezar a planear | Zercy"
-description: "Costos, ruta, seguro y cuándo renunciar: todo lo que necesitas saber antes de planear un viaje de 6 meses por el mundo. Cifras reales y consejos honestos."
+description: "Costos, ruta, seguro y cuándo renunciar: todo lo que necesitas saber antes de planear un viaje de 6 meses por el mundo. Cifras reales y consejos honestos Toda la información para tu próximo viaje."
 pubDate: 2026-05-25
 category: "Lugares lejanos"
 readingTime: 11

@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Hobart: Dónde alojarse en 2026"
-metaTitle: "Hoteles Hobart: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Hobart: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Hobart tiene 5 barrios con carácter propio: Salamanca junto al agua, Battery Point colonial, North Hobart para foodies, Sandy Bay tranquilo, Kingston cerca del aeropuerto."
 pubDate: 2026-05-26
 category: "Dónde alojarse"

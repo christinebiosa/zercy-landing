@@ -1,6 +1,6 @@
 ---
 title: "One Week, Carry-On Only: What Actually Fits"
-metaTitle: "One Week Carry-On Only: What Fits | Zercy"
+metaTitle: "One Week Carry-On Only: What Fits Tips & Guide 2026 | Zercy"
 description: "No checked bags, no waiting at the belt, no lost luggage. Once you travel carry-on only, you never go back. Our complete guide covers packing and airline rules."
 pubDate: 2026-03-26
 category: "Carry-On Only"

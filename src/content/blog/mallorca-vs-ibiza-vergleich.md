@@ -1,7 +1,7 @@
 ---
 title: "Mallorca vs. Ibiza: Welche Insel ist die richtige?"
 metaTitle: "Mallorca vs. Ibiza: Welcher Typ bist du? | Zercy"
-description: "Mallorca hat Tramuntana-Berge, Kulturstädte und Familienstrände. Ibiza hat Amnesia und Ushuaïa. Wer wohin gehört, kommt auf genau eine Frage an."
+description: "Mallorca hat Tramuntana-Berge, Kulturstädte und Familienstrände. Ibiza hat Amnesia und Ushuaïa. Wer wohin gehört, kommt auf genau eine Frage an Jetzt clever planen und die besten Optionen vergleichen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 7

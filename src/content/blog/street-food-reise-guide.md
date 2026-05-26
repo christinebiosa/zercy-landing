@@ -1,7 +1,7 @@
 ---
 title: "Street Food Guide: So isst du dich durch die Welt"
-metaTitle: "Street Food Guide weltweit 2026 | Zercy"
-description: "Wer am besten isst, reist am günstigsten. Unser Street-Food-Guide zeigt dir Top-Länder, Sicherheitstipps und die besten Gerichte unter 8 Euro."
+metaTitle: "Street Food Guide weltweit 2026: Tipps & Infos | Zercy"
+description: "Wer am besten isst, reist am günstigsten. Unser Street-Food-Guide zeigt dir Top-Länder, Sicherheitstipps und die besten Gerichte unter 8 Euro So sparst du bei der nächsten Reise wirklich Geld."
 heroImage: "/img/blog/street-food-travel.jpg"
 pubDate: 2026-05-25
 category: "Geheimtipps"

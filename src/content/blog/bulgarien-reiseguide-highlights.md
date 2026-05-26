@@ -1,6 +1,6 @@
 ---
 title: "Bulgarien Reiseguide: Sofia, Plovdiv und das günstigste EU-Land"
-metaTitle: "Bulgarien Reiseguide 2026: Sofia, Plovdiv und Highlights | Zercy"
+metaTitle: "Bulgarien Reiseguide 2026: Sofia, Plovdiv | Zercy"
 description: "Bulgarien entdecken: Sofia, Plovdiv, Nessebar an der Schwarzmeerküste, Rila-Kloster. Warum Bulgarien das preisgünstigste EU-Reiseland ist und was dich erwartet."
 pubDate: 2026-05-14
 category: "Fernweh"

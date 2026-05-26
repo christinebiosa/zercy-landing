@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Ho Chi Minh City: Where to Stay in Each District 2026"
-metaTitle: "Hotels Ho Chi Minh City: Where to Stay in Each District | Zercy"
+metaTitle: "Hotels Ho Chi Minh City: Where to Stay in Each | Zercy"
 description: "Ho Chi Minh City has 5 distinct areas: colonial District 1 with main sights, local District 3, backpacker Bui Vien Street, Chinatown District 5 and the expat neighborhood Thao Dien. The comparison."
 pubDate: 2026-05-09
 category: "Where to Stay"

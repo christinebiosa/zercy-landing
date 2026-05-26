@@ -1,6 +1,6 @@
 ---
 title: "Stopover turismo: cómo convertir tu escala en un destino gratis"
-metaTitle: "Stopover turismo: cómo explorar una ciudad durante tu escala | Zercy"
+metaTitle: "Stopover turismo: cómo explorar una ciudad durante | Zercy"
 description: "¿Qué es el stopover turismo? Cómo añadir un destino extra a tu viaje sin pagar más. Singapur, Helsinki, Islandia, Lisboa: las mejores escalas para hacer turismo."
 pubDate: 2026-05-08
 category: "Consejos de viaje"

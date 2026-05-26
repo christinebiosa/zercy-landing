@@ -1,7 +1,7 @@
 ---
 title: "Hotel stornieren: So bleibst du auf der sicheren Seite"
-metaTitle: "Hotel stornieren: Tipps & Rechte | Zercy"
-description: "Hotel stornieren ohne Stress: kostenlose Stornobedingungen, Fristen, No-Show-Regeln und der clevere Doppelbuchungs-Trick. So verlierst du kein Geld."
+metaTitle: "Hotel stornieren: Tipps & Rechte Ratgeber 2026 | Zercy"
+description: "Hotel stornieren ohne Stress: kostenlose Stornobedingungen, Fristen, No-Show-Regeln und der clevere Doppelbuchungs-Trick. So verlierst du kein Geld Jetzt lesen."
 heroImage: "/img/blog/hotel-cancellation.jpg"
 pubDate: 2026-05-25
 category: "Clever Reisen"

@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Nápoles: Dónde alojarse en cada barrio 2026"
-metaTitle: "Hoteles Nápoles: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Nápoles: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Nápoles tiene 5 barrios muy distintos: Centro Histórico, Chiaia, Vomero, Quartieri Spagnoli y Posillipo. Encuentra el tuyo con precios y recomendaciones de hoteles."
 pubDate: 2026-05-10
 category: "Dónde alojarse"

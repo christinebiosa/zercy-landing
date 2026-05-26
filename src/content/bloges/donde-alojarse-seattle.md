@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Seattle: Dónde alojarse en cada barrio 2026"
-metaTitle: "Hoteles Seattle: Dónde alojarse 2026 | Zercy"
+metaTitle: "Hoteles Seattle: Dónde alojarse 2026 Guía Completa | Zercy"
 description: "Seattle tiene 5 barrios con personalidad propia: Downtown para debutantes, Capitol Hill para vida nocturna, Belltown para foodies, Fremont para locales, SLU para negocios."
 pubDate: 2026-05-11
 category: "Dónde alojarse"

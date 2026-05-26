@@ -1,6 +1,6 @@
 ---
 title: "Los mejores hoteles en Austin: Dónde alojarse por barrio 2026"
-metaTitle: "Hoteles Austin 2026: Dónde alojarse | Zercy"
+metaTitle: "Hoteles Austin 2026: Dónde alojarse Guía Completa | Zercy"
 description: "Austin hoteles 2026: Downtown para el nightlife, South Congress para cultura, East Austin para vivir como local. Los mejores barrios, picks y consejos de reserva."
 pubDate: 2026-05-15
 category: "Dónde alojarse"

@@ -1,6 +1,6 @@
 ---
 title: "Viajar con tu perro por Europa: todo lo que necesitas saber"
-metaTitle: "Viajar con perro Europa 2026: reglas, transporte y consejos | Zercy"
+metaTitle: "Viajar con perro Europa 2026: reglas, transporte | Zercy"
 description: "Cómo viajar con tu perro por Europa en 2026. Transporte, documentación, qué países son más pet-friendly y los errores que cometen quienes lo hacen por primera vez."
 pubDate: 2026-05-08
 category: "Consejos de viaje"

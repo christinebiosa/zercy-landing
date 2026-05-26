@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Wrocław: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Wrocław Hotels: Where to Stay 2026 | Zercy"
+metaTitle: "Wrocław Hotels: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Old Town or Krzyki? Best hotels in Wrocław by neighborhood. Honest picks for first-timers, budget travelers and romantics. Plus where to find the famous dwarfs."
 pubDate: 2026-05-26
 category: "Where to Stay"

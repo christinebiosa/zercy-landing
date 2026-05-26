@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Rovinj: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Rovinj: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Rovinj: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Rovinj hat 5 Viertel: Stari Grad direkt auf der Halbinsel, Valdibora nah am Hafen, Monsena im Naturpark, Monte mit Aussicht, Bale als Agriturismo-Option. Hier ist dein Fit."
 pubDate: 2026-05-26
 category: "Wo übernachten"

@@ -1,7 +1,7 @@
 ---
 title: "Mochilero en Sudamérica: Ruta y Guía Completa"
 metaTitle: "Mochilero Sudamérica: Ruta Gringo Trail 2026 | Zercy"
-description: "De Bogotá a Buenos Aires en 2 a 4 meses: presupuesto, seguridad, transporte y por qué Colombia es el mejor punto de partida para tu viaje."
+description: "De Bogotá a Buenos Aires en 2 a 4 meses: presupuesto, seguridad, transporte y por qué Colombia es el mejor punto de partida para tu viaje Toda la información para tu próximo viaje."
 heroImage: "/img/blog/south-america-backpacking.jpg"
 pubDate: 2026-05-25
 category: "Lugares lejanos"

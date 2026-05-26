@@ -1,6 +1,6 @@
 ---
 title: "Viaje de lujo económico: experiencia de 5 estrellas sin pagar el precio completo"
-metaTitle: "Viaje de lujo económico 2026: 5 estrellas sin pagar el total | Zercy"
+metaTitle: "Viaje de lujo económico 2026: 5 estrellas sin pagar | Zercy"
 description: "Cómo vivir la experiencia de lujo sin pagar el precio completo: hoteles de 5 estrellas, business class y servicio premium entre un 30 y un 60 por ciento más barato."
 pubDate: 2026-05-09
 category: "Viaje inteligente"

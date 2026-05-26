@@ -1,7 +1,7 @@
 ---
 title: "Mallorca vs. Ibiza: Which Balearic Island Is Right for You?"
 metaTitle: "Mallorca vs. Ibiza: Which Island Suits You? | Zercy"
-description: "Mallorca has the Tramuntana mountains, Palma's culture scene, and family beaches. Ibiza has Amnesia. Which one is right depends on exactly one question."
+description: "Mallorca has the Tramuntana mountains, Palma's culture scene, and family beaches. Ibiza has Amnesia. Which one is right depends on exactly one question Know your rights and claim what you deserve."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 7

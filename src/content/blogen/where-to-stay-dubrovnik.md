@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Dubrovnik: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Dubrovnik Hotels: Where to Stay 2026 | Zercy"
+metaTitle: "Dubrovnik Hotels: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Old Town or Lapad? The best Dubrovnik hotels by neighborhood. Honest picks for every budget, plus when to visit and how to avoid the cruise ship crowds. Honest picks for every budget."
 pubDate: 2026-05-09
 category: "Where to Stay"

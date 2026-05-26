@@ -1,7 +1,7 @@
 ---
 title: "Cambio de Moneda en el Extranjero: La Guía Honesta"
 metaTitle: "Cambio de Moneda en Viajes: Mejor Tasa | Zercy"
-description: "Las casas de cambio en aeropuertos te cobran hasta un 10% de más. Dónde conseguir la mejor tasa, cuánto efectivo llevar y por qué Asia tiene reglas diferentes."
+description: "Las casas de cambio en aeropuertos te cobran hasta un 10% de más. Dónde conseguir la mejor tasa, cuánto efectivo llevar y por qué Asia tiene reglas diferentes Más información."
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 6

@@ -1,7 +1,7 @@
 ---
 title: "Günstig reisen in Mittelamerika: Budget-Guide für 2026"
 metaTitle: "Mittelamerika Budget-Reise 2026: Tipps + Preise | Zercy"
-description: "Guatemala ab 25 Dollar pro Tag, Costa Rica ab 60 Dollar: Mittelamerika für jeden Geldbeutel. Budget-Routen, günstigste Länder und Tipps für Backpacker 2026."
+description: "Guatemala ab 25 Dollar pro Tag, Costa Rica ab 60 Dollar: Mittelamerika für jeden Geldbeutel. Budget-Routen, günstigste Länder und Tipps für Backpacker 2026 Jetzt lesen."
 pubDate: 2026-05-25
 category: "Fernweh"
 readingTime: 8

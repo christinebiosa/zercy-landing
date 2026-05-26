@@ -1,7 +1,7 @@
 ---
 title: "Handgepäck packen: Das System das wirklich funktioniert"
-metaTitle: "Handgepäck packen: System das klappt | Zercy"
-description: "Packing Cubes, die richtigen Maße und eine kluge Kleiderwahl: So passt eine Woche Urlaub wirklich in dein Handgepäck. Konkrete Liste, kein Blabla."
+metaTitle: "Handgepäck packen: System das klappt Ratgeber 2026 | Zercy"
+description: "Packing Cubes, die richtigen Maße und eine kluge Kleiderwahl: So passt eine Woche Urlaub wirklich in dein Handgepäck. Konkrete Liste, kein Blabla Alle wichtigen Infos für deine nächste Reise."
 pubDate: 2026-05-25
 category: "Nur mit Handgepäck"
 readingTime: 8

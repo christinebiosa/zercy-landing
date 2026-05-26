@@ -1,7 +1,7 @@
 ---
 title: "Trip Cancellation Insurance: Is It Worth It and When Does It Pay?"
 metaTitle: "Trip Cancellation Insurance 2026: Worth It? | Zercy"
-description: "3 to 8 percent of the trip price for cancellation protection. When the insurance pays, when it doesn't, which clauses matter and when you really need it."
+description: "3 to 8 percent of the trip price for cancellation protection. When the insurance pays, when it doesn't, which clauses matter and when you really need it Read more."
 pubDate: 2026-05-25
 category: "Travel Tips"
 readingTime: 7

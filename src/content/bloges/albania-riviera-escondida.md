@@ -1,6 +1,6 @@
 ---
 title: "Albania: la riviera que nadie menciona todavía"
-metaTitle: "Albania costa 2026: riviera albanesa, qué ver y cómo llegar | Zercy"
+metaTitle: "Albania costa 2026: riviera albanesa, qué ver y cómo | Zercy"
 description: "La riviera albanesa tiene calas de agua turquesa, pueblos medievales y precios de hace 10 años. La guía para visitar Albania antes de que la descubra todo el mundo."
 pubDate: 2026-05-08
 category: "Joyas ocultas"

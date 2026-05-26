@@ -1,7 +1,7 @@
 ---
 title: "New Year's Eve Travel: The Best Destinations Worldwide"
 metaTitle: "New Year's Eve Travel: Best Destinations | Zercy"
-description: "Sydney, New York, Bangkok or Reykjavik? The 7 most spectacular NYE destinations, with booking tips and price insights for the most expensive night of the year."
+description: "Sydney, New York, Bangkok or Reykjavik? The 7 most spectacular NYE destinations, with booking tips and price insights for the most expensive night of the year Read more."
 heroImage: "/img/blog/new-years-travel.jpg"
 pubDate: 2026-05-25
 category: "Off the Map"

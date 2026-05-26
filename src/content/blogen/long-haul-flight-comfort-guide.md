@@ -1,7 +1,7 @@
 ---
 title: "Long-Haul Flight Comfort: The Complete Guide"
-metaTitle: "Long-Haul Flight Comfort Tips | Zercy"
-description: "Flying 8+ hours and still arriving rested? Here's everything you need to know about seats, sleep, food, and staying healthy on long-haul flights."
+metaTitle: "Long-Haul Flight Comfort Tips: Tips & Guide 2026 | Zercy"
+description: "Flying 8+ hours and still arriving rested? Here's everything you need to know about seats, sleep, food, and staying healthy on long-haul flights Compare options and find the best deals on Zercy."
 heroImage: "/img/blog/long-haul-comfort.jpg"
 pubDate: 2026-05-25
 category: "Smart Travel"

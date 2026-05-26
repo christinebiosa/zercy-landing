@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Oaxaca: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Oaxaca: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Oaxaca: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Oaxaca hat 5 sehr verschiedene Stadtteile: Centro Histórico für beste Lage, Jalatlaco für Kopfsteinpflaster-Charm, Colonia Reforma für Einheimische, San Felipe für Luxus."
 pubDate: 2026-05-09
 category: "Wo übernachten"

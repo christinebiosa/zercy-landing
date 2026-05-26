@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Hobart: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Hobart: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Hobart: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Hobart hat 5 Stadtteile mit sehr unterschiedlichem Charakter: Salamanca am Wasser, Battery Point kolonial, North Hobart für Foodies, Sandy Bay ruhig, Kingston flughafennah."
 pubDate: 2026-05-26
 category: "Wo übernachten"

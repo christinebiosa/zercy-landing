@@ -1,7 +1,7 @@
 ---
 title: "Karibik Kreuzfahrt: Der ehrliche Guide für deine erste Reise"
 metaTitle: "Karibik Kreuzfahrt Guide 2026: Routen & Kosten | Zercy"
-description: "Eastern, Western oder Southern Caribbean? Welche Route für wen, welche Reederei passt, was eine Karibik-Kreuzfahrt wirklich kostet und wann du buchen solltest."
+description: "Eastern, Western oder Southern Caribbean? Welche Route für wen, welche Reederei passt, was eine Karibik-Kreuzfahrt wirklich kostet und wann du buchen solltest Jetzt lesen."
 heroImage: "/img/blog/caribbean-cruise.jpg"
 pubDate: 2026-05-26
 category: "Fernweh"

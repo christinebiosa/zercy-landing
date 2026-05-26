@@ -1,7 +1,7 @@
 ---
 title: "Digital Detox Urlaub: Warum immer mehr Reisende bewusst offline gehen"
 metaTitle: "Digital Detox Urlaub: Offline reisen 2026 | Zercy"
-description: "Digital Detox Urlaub: Warum 3 Tage offline den Cortisol-Spiegel messbar senken. Beste Ziele, Kosten ab 30 Euro/Tag und wie du dich wirklich vorbereitest."
+description: "Digital Detox Urlaub: Warum 3 Tage offline den Cortisol-Spiegel messbar senken. Beste Ziele, Kosten ab 30 Euro/Tag und wie du dich wirklich vorbereitest Jetzt lesen."
 pubDate: 2026-05-25
 category: "Nachhaltig"
 readingTime: 7

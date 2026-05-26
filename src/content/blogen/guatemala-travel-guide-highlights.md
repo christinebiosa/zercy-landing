@@ -1,6 +1,6 @@
 ---
 title: "Guatemala Travel Guide: Antigua, Tikal, and Lago Atitlán"
-metaTitle: "Guatemala Travel Guide 2026: Antigua, Tikal & Atitlán | Zercy"
+metaTitle: "Guatemala Travel Guide 2026: Antigua, Tikal | Zercy"
 description: "Discover Guatemala: Antigua with colonial architecture and Acatenango volcano, Tikal with Maya pyramids, Lake Atitlán with three volcanoes and Maya villages. Budget tips, travel season."
 pubDate: 2026-05-14
 category: "Off the Map"

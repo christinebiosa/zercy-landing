@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Boston: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Boston: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Boston: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Boston hat 5 sehr unterschiedliche Stadtteile: Downtown für Erstbesucher, Back Bay für Shopping, Beacon Hill romantisch, Cambridge für Kultur, South End für Foodies."
 pubDate: 2026-05-11
 category: "Wo übernachten"

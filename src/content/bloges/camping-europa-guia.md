@@ -1,6 +1,6 @@
 ---
 title: "Camping en Europa: La guía completa para 2026"
-metaTitle: "Camping Europa 2026: Guía completa para principiantes | Zercy"
+metaTitle: "Camping Europa 2026: Guía completa para | Zercy"
 description: "Camping libre en Noruega, Adriático croata, Alpes: Camping en Europa desde 0 euros hasta camping de lujo. Con apps, consejos de reserva y reglas por país para 2026."
 pubDate: 2026-05-25
 category: "Viaje inteligente"

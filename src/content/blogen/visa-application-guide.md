@@ -1,7 +1,7 @@
 ---
 title: "Visa Application Guide: Step by Step"
-metaTitle: "Visa Application Guide Step by Step | Zercy"
-description: "Tourist visa, e-Visa, or Visa on Arrival? Learn how to apply for a visa the right way, which documents you need, and how to avoid the most common mistakes."
+metaTitle: "Visa Application Guide Step by Step: Tips 2026 | Zercy"
+description: "Tourist visa, e-Visa, or Visa on Arrival? Learn how to apply for a visa the right way, which documents you need, and how to avoid the most common mistakes Know your rights and claim what you deserve."
 heroImage: "/img/blog/visa-application.jpg"
 pubDate: 2026-05-25
 category: "Smart Travel"

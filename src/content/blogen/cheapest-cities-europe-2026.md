@@ -1,7 +1,7 @@
 ---
 title: "Cheapest Cities in Europe 2026: Top 10 with Daily Budgets"
 metaTitle: "Cheapest European Cities 2026: Top 10 with Prices | Zercy"
-description: "Tirana from €30, Sofia from €35, Budapest from €50: The 10 cheapest European cities in 2026 with concrete daily budgets for accommodation, food and transport."
+description: "Tirana from €30, Sofia from €35, Budapest from €50: The 10 cheapest European cities in 2026 with concrete daily budgets for accommodation, food and transport Read more."
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 8

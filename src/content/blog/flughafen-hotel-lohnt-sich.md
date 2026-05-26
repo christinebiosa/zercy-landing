@@ -1,7 +1,7 @@
 ---
 title: "Flughafen-Hotel buchen: Lohnt es sich wirklich?"
-metaTitle: "Flughafen-Hotel: Wann es sich lohnt | Zercy"
-description: "Frühflug um 6 Uhr, langer Layover oder Anschlussflug am nächsten Morgen: Wann ein Flughafen-Hotel die bessere Wahl ist, wann nicht. Mit Rechenbeispiel."
+metaTitle: "Flughafen-Hotel: Wann es sich lohnt Ratgeber 2026 | Zercy"
+description: "Frühflug um 6 Uhr, langer Layover oder Anschlussflug am nächsten Morgen: Wann ein Flughafen-Hotel die bessere Wahl ist, wann nicht. Mit Rechenbeispiel Jetzt lesen."
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 7

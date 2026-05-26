@@ -1,7 +1,7 @@
 ---
 title: "Backpacking Europa Route: Die klassische Runde durch den Kontinent"
-metaTitle: "Backpacking Europa Route Guide 2026 | Zercy"
-description: "Westeuropa oder Osteuropa? Diese Backpacking-Route durch Europa zeigt dir die besten Strecken, was du pro Tag ausgibst und ob sich Interrail lohnt."
+metaTitle: "Backpacking Europa Route Guide 2026: Tipps & Infos | Zercy"
+description: "Westeuropa oder Osteuropa? Diese Backpacking-Route durch Europa zeigt dir die besten Strecken, was du pro Tag ausgibst und ob sich Interrail lohnt Alle wichtigen Infos für deine nächste Reise."
 heroImage: "/img/blog/europe-backpacking.jpg"
 pubDate: 2026-05-25
 category: "Fernweh"

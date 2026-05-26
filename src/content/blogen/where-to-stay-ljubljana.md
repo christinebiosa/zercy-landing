@@ -1,6 +1,6 @@
 ---
 title: "Best Hotels in Ljubljana: Where to Stay in Each Neighborhood 2026"
-metaTitle: "Hotels Ljubljana: Where to Stay 2026 | Zercy"
+metaTitle: "Hotels Ljubljana: Where to Stay 2026 Tips & Guide | Zercy"
 description: "Ljubljana has 5 neighborhoods: Old Town near the castle, Center local cafes and budget, Trnovo bohemian by the river, Šiška emerging local, BTC City modern for business travelers."
 pubDate: 2026-05-11
 category: "Where to Stay"

@@ -1,6 +1,6 @@
 ---
 title: "Beste Hotels in Santiago: Wo übernachten in welchem Stadtteil 2026"
-metaTitle: "Hotels Santiago: Wo übernachten 2026 | Zercy"
+metaTitle: "Hotels Santiago: Wo übernachten 2026 Tipps & Infos | Zercy"
 description: "Santiago de Chile hat 5 sehr unterschiedliche Stadtteile: Providencia als Basis, Las Condes für Business, Bellavista für Bars, Barrio Italia kreativ, Centro historisch."
 pubDate: 2026-05-09
 category: "Wo übernachten"

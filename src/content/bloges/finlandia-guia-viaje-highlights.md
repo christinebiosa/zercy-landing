@@ -1,6 +1,6 @@
 ---
 title: "Finlandia Guía de Viaje: Helsinki, Laponia y el Sol de Medianoche"
-metaTitle: "Finlandia Guía de Viaje 2026: Helsinki y Laponia Highlights | Zercy"
+metaTitle: "Finlandia Guía de Viaje 2026: Helsinki y Laponia | Zercy"
 description: "Descubre Finlandia: Barrio del Diseño de Helsinki y Suomenlinna, Rovaniemi y Papá Noel en Laponia, sol de medianoche y auroras boreales. Todo para tu viaje a Finlandia."
 pubDate: 2026-05-14
 category: "Lugares lejanos"

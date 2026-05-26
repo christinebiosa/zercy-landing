@@ -1,7 +1,7 @@
 ---
 title: "48 Stunden Dublin: Das ehrliche Wochenend-Itinerar"
 metaTitle: "48 Stunden Dublin: Dein Wochenend-Itinerar | Zercy"
-description: "Dublin in 48 Stunden: Trinity College, Kilmainham Gaol, Phoenix Park und echte Pubs abseits der Temple Bar. Was du wirklich brauchst und was du dir sparst."
+description: "Dublin in 48 Stunden: Trinity College, Kilmainham Gaol, Phoenix Park und echte Pubs abseits der Temple Bar. Was du wirklich brauchst und was du dir sparst Jetzt lesen."
 pubDate: 2026-05-25
 category: "Unterwegs"
 readingTime: 7

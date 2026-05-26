@@ -1,6 +1,6 @@
 ---
 title: "Escapadas de fin de semana en Europa: Los mejores destinos 2026"
-metaTitle: "Escapadas Europa 2026: Mejores destinos de fin de semana | Zercy"
+metaTitle: "Escapadas Europa 2026: Mejores destinos de fin | Zercy"
 description: "Praga, Viena, Lisboa: Las mejores escapadas de fin de semana desde España y Europa central. Cómo planificar 48 horas, vuelos baratos y cuánto cuesta un fin de semana."
 pubDate: 2026-05-25
 category: "Viaje inteligente"

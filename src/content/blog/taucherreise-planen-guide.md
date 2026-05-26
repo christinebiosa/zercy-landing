@@ -1,7 +1,7 @@
 ---
 title: "Taucherreise planen: Der ultimative Guide"
-metaTitle: "Taucherreise planen: Guide 2026 | Zercy"
-description: "Taucherreise planen leicht gemacht: Zertifizierung, Kosten, Packliste und die besten Tauchziele weltweit. Für Anfänger und Fortgeschrittene."
+metaTitle: "Taucherreise planen: Guide 2026 Tipps & Infos | Zercy"
+description: "Taucherreise planen leicht gemacht: Zertifizierung, Kosten, Packliste und die besten Tauchziele weltweit. Für Anfänger und Fortgeschrittene Jetzt clever planen und die besten Optionen vergleichen."
 heroImage: "/img/blog/scuba-dive-trip.jpg"
 pubDate: 2026-05-25
 category: "Fernweh"
