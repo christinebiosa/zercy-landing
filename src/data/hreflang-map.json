@@ -1309,6 +1309,21 @@
     "en": "https://www.zercy.app/en/blog/flight-cancellation-rights-eu261",
     "es": "https://www.zercy.app/es/blog/cancelacion-vuelo-derechos-eu261"
   },
+  "flug-umbuchen-stornieren-guide": {
+    "de": "https://www.zercy.app/blog/flug-umbuchen-stornieren-guide",
+    "en": "https://www.zercy.app/en/blog/flight-rebooking-guide",
+    "es": "https://www.zercy.app/es/blog/cambio-cancelacion-vuelo-guia"
+  },
+  "flight-rebooking-guide": {
+    "de": "https://www.zercy.app/blog/flug-umbuchen-stornieren-guide",
+    "en": "https://www.zercy.app/en/blog/flight-rebooking-guide",
+    "es": "https://www.zercy.app/es/blog/cambio-cancelacion-vuelo-guia"
+  },
+  "cambio-cancelacion-vuelo-guia": {
+    "de": "https://www.zercy.app/blog/flug-umbuchen-stornieren-guide",
+    "en": "https://www.zercy.app/en/blog/flight-rebooking-guide",
+    "es": "https://www.zercy.app/es/blog/cambio-cancelacion-vuelo-guia"
+  },
   "flughafen-hotel-lohnt-sich": {
     "de": "https://www.zercy.app/blog/flughafen-hotel-lohnt-sich",
     "en": "https://www.zercy.app/en/blog/airport-hotel-worth-it",
@@ -1699,6 +1714,21 @@
     "en": "https://www.zercy.app/en/blog/carry-on-vs-checked-luggage",
     "es": "https://www.zercy.app/es/blog/equipaje-mano-vs-facturado"
   },
+  "hausboot-urlaub-europa": {
+    "de": "https://www.zercy.app/blog/hausboot-urlaub-europa",
+    "en": "https://www.zercy.app/en/blog/houseboat-holiday-europe",
+    "es": "https://www.zercy.app/es/blog/vacaciones-barco-europa-guia"
+  },
+  "houseboat-holiday-europe": {
+    "de": "https://www.zercy.app/blog/hausboot-urlaub-europa",
+    "en": "https://www.zercy.app/en/blog/houseboat-holiday-europe",
+    "es": "https://www.zercy.app/es/blog/vacaciones-barco-europa-guia"
+  },
+  "vacaciones-barco-europa-guia": {
+    "de": "https://www.zercy.app/blog/hausboot-urlaub-europa",
+    "en": "https://www.zercy.app/en/blog/houseboat-holiday-europe",
+    "es": "https://www.zercy.app/es/blog/vacaciones-barco-europa-guia"
+  },
   "hidden-city-ticketing-erklaert": {
     "de": "https://www.zercy.app/blog/hidden-city-ticketing-erklaert",
     "en": "https://www.zercy.app/en/blog/hidden-city-ticketing-explained",
@@ -1819,6 +1849,21 @@
     "en": "https://www.zercy.app/en/blog/hotel-rate-parity-explained",
     "es": "https://www.zercy.app/es/blog/paridad-tarifas-hoteles"
   },
+  "hotel-stornierung-tipps": {
+    "de": "https://www.zercy.app/blog/hotel-stornierung-tipps",
+    "en": "https://www.zercy.app/en/blog/hotel-cancellation-tips",
+    "es": "https://www.zercy.app/es/blog/cancelacion-hotel-consejos"
+  },
+  "hotel-cancellation-tips": {
+    "de": "https://www.zercy.app/blog/hotel-stornierung-tipps",
+    "en": "https://www.zercy.app/en/blog/hotel-cancellation-tips",
+    "es": "https://www.zercy.app/es/blog/cancelacion-hotel-consejos"
+  },
+  "cancelacion-hotel-consejos": {
+    "de": "https://www.zercy.app/blog/hotel-stornierung-tipps",
+    "en": "https://www.zercy.app/en/blog/hotel-cancellation-tips",
+    "es": "https://www.zercy.app/es/blog/cancelacion-hotel-consejos"
+  },
   "hotel-treueprogramm-lohnt-sich": {
     "de": "https://www.zercy.app/blog/hotel-treueprogramm-lohnt-sich",
     "en": "https://www.zercy.app/en/blog/hotel-loyalty-program-worth-it",
@@ -1908,6 +1953,21 @@
     "de": "https://www.zercy.app/blog/inselhopping-karibik-guide",
     "en": "https://www.zercy.app/en/blog/caribbean-island-hopping-guide",
     "es": "https://www.zercy.app/es/blog/islas-caribe-island-hopping-guia"
+  },
+  "internationaler-fuehrerschein-guide": {
+    "de": "https://www.zercy.app/blog/internationaler-fuehrerschein-guide",
+    "en": "https://www.zercy.app/en/blog/international-driving-license-guide",
+    "es": "https://www.zercy.app/es/blog/licencia-conducir-internacional-guia"
+  },
+  "international-driving-license-guide": {
+    "de": "https://www.zercy.app/blog/internationaler-fuehrerschein-guide",
+    "en": "https://www.zercy.app/en/blog/international-driving-license-guide",
+    "es": "https://www.zercy.app/es/blog/licencia-conducir-internacional-guia"
+  },
+  "licencia-conducir-internacional-guia": {
+    "de": "https://www.zercy.app/blog/internationaler-fuehrerschein-guide",
+    "en": "https://www.zercy.app/en/blog/international-driving-license-guide",
+    "es": "https://www.zercy.app/es/blog/licencia-conducir-internacional-guia"
   },
   "interrail-guide-2026": {
     "de": "https://www.zercy.app/blog/interrail-guide-2026",
@@ -2159,6 +2219,21 @@
     "en": "https://www.zercy.app/en/blog/ai-comparison-trip-planning-2026",
     "es": "https://www.zercy.app/es/blog/ia-comparativa-planificacion-2026"
   },
+  "kochkurs-urlaub-guide": {
+    "de": "https://www.zercy.app/blog/kochkurs-urlaub-guide",
+    "en": "https://www.zercy.app/en/blog/cooking-class-holiday-guide",
+    "es": "https://www.zercy.app/es/blog/clase-cocina-vacaciones-guia"
+  },
+  "cooking-class-holiday-guide": {
+    "de": "https://www.zercy.app/blog/kochkurs-urlaub-guide",
+    "en": "https://www.zercy.app/en/blog/cooking-class-holiday-guide",
+    "es": "https://www.zercy.app/es/blog/clase-cocina-vacaciones-guia"
+  },
+  "clase-cocina-vacaciones-guia": {
+    "de": "https://www.zercy.app/blog/kochkurs-urlaub-guide",
+    "en": "https://www.zercy.app/en/blog/cooking-class-holiday-guide",
+    "es": "https://www.zercy.app/es/blog/clase-cocina-vacaciones-guia"
+  },
   "kolumbien-reiseguide": {
     "de": "https://www.zercy.app/blog/kolumbien-reiseguide",
     "en": "https://www.zercy.app/en/blog/colombia-travel-guide",
@@ -2218,6 +2293,21 @@
     "de": "https://www.zercy.app/blog/kroatien-inseln-hopping",
     "en": "https://www.zercy.app/en/blog/croatia-island-hopping",
     "es": "https://www.zercy.app/es/blog/islas-croacia-island-hopping"
+  },
+  "langstreckenflug-komfort-guide": {
+    "de": "https://www.zercy.app/blog/langstreckenflug-komfort-guide",
+    "en": "https://www.zercy.app/en/blog/long-haul-flight-comfort-guide",
+    "es": "https://www.zercy.app/es/blog/vuelo-largo-comodidad-guia"
+  },
+  "long-haul-flight-comfort-guide": {
+    "de": "https://www.zercy.app/blog/langstreckenflug-komfort-guide",
+    "en": "https://www.zercy.app/en/blog/long-haul-flight-comfort-guide",
+    "es": "https://www.zercy.app/es/blog/vuelo-largo-comodidad-guia"
+  },
+  "vuelo-largo-comodidad-guia": {
+    "de": "https://www.zercy.app/blog/langstreckenflug-komfort-guide",
+    "en": "https://www.zercy.app/en/blog/long-haul-flight-comfort-guide",
+    "es": "https://www.zercy.app/es/blog/vuelo-largo-comodidad-guia"
   },
   "langstreckenflug-mit-kindern": {
     "de": "https://www.zercy.app/blog/langstreckenflug-mit-kindern",
@@ -3004,6 +3094,21 @@
     "en": "https://www.zercy.app/en/blog/cycling-holiday-europe-guide",
     "es": "https://www.zercy.app/es/blog/vacaciones-bici-europa-guia"
   },
+  "reise-apotheke-guide": {
+    "de": "https://www.zercy.app/blog/reise-apotheke-guide",
+    "en": "https://www.zercy.app/en/blog/travel-first-aid-kit-guide",
+    "es": "https://www.zercy.app/es/blog/botiquin-viaje-guia"
+  },
+  "travel-first-aid-kit-guide": {
+    "de": "https://www.zercy.app/blog/reise-apotheke-guide",
+    "en": "https://www.zercy.app/en/blog/travel-first-aid-kit-guide",
+    "es": "https://www.zercy.app/es/blog/botiquin-viaje-guia"
+  },
+  "botiquin-viaje-guia": {
+    "de": "https://www.zercy.app/blog/reise-apotheke-guide",
+    "en": "https://www.zercy.app/en/blog/travel-first-aid-kit-guide",
+    "es": "https://www.zercy.app/es/blog/botiquin-viaje-guia"
+  },
   "reise-budget-sparen-anleitung": {
     "de": "https://www.zercy.app/blog/reise-budget-sparen-anleitung",
     "en": "https://www.zercy.app/en/blog/travel-savings-budget-planning",
@@ -3033,6 +3138,21 @@
     "de": "https://www.zercy.app/blog/reise-packliste-was-wirklich-rein-kommt",
     "en": "https://www.zercy.app/en/blog/travel-packing-list-essentials",
     "es": "https://www.zercy.app/es/blog/lista-equipaje-viaje-esencial"
+  },
+  "reisedokumente-organisieren-guide": {
+    "de": "https://www.zercy.app/blog/reisedokumente-organisieren-guide",
+    "en": "https://www.zercy.app/en/blog/travel-documents-guide",
+    "es": "https://www.zercy.app/es/blog/documentos-viaje-guia"
+  },
+  "travel-documents-guide": {
+    "de": "https://www.zercy.app/blog/reisedokumente-organisieren-guide",
+    "en": "https://www.zercy.app/en/blog/travel-documents-guide",
+    "es": "https://www.zercy.app/es/blog/documentos-viaje-guia"
+  },
+  "documentos-viaje-guia": {
+    "de": "https://www.zercy.app/blog/reisedokumente-organisieren-guide",
+    "en": "https://www.zercy.app/en/blog/travel-documents-guide",
+    "es": "https://www.zercy.app/es/blog/documentos-viaje-guia"
   },
   "reisefehler-vermeiden-klassische-fehler": {
     "de": "https://www.zercy.app/blog/reisefehler-vermeiden-klassische-fehler",
@@ -3494,6 +3614,21 @@
     "en": "https://www.zercy.app/en/blog/airport-security-tips",
     "es": "https://www.zercy.app/es/blog/control-seguridad-aeropuerto-trucos"
   },
+  "silvester-reisen-weltweit": {
+    "de": "https://www.zercy.app/blog/silvester-reisen-weltweit",
+    "en": "https://www.zercy.app/en/blog/new-years-eve-travel-guide",
+    "es": "https://www.zercy.app/es/blog/nochevieja-viaje-guia"
+  },
+  "new-years-eve-travel-guide": {
+    "de": "https://www.zercy.app/blog/silvester-reisen-weltweit",
+    "en": "https://www.zercy.app/en/blog/new-years-eve-travel-guide",
+    "es": "https://www.zercy.app/es/blog/nochevieja-viaje-guia"
+  },
+  "nochevieja-viaje-guia": {
+    "de": "https://www.zercy.app/blog/silvester-reisen-weltweit",
+    "en": "https://www.zercy.app/en/blog/new-years-eve-travel-guide",
+    "es": "https://www.zercy.app/es/blog/nochevieja-viaje-guia"
+  },
   "skandinavien-rundreise-route": {
     "de": "https://www.zercy.app/blog/skandinavien-rundreise-route",
     "en": "https://www.zercy.app/en/blog/scandinavia-road-trip-route",
@@ -3644,6 +3779,21 @@
     "en": "https://www.zercy.app/en/blog/stopover-tourism-guide",
     "es": "https://www.zercy.app/es/blog/guia-stopover-turismo"
   },
+  "street-food-reise-guide": {
+    "de": "https://www.zercy.app/blog/street-food-reise-guide",
+    "en": "https://www.zercy.app/en/blog/street-food-travel-guide",
+    "es": "https://www.zercy.app/es/blog/guia-street-food-viaje"
+  },
+  "street-food-travel-guide": {
+    "de": "https://www.zercy.app/blog/street-food-reise-guide",
+    "en": "https://www.zercy.app/en/blog/street-food-travel-guide",
+    "es": "https://www.zercy.app/es/blog/guia-street-food-viaje"
+  },
+  "guia-street-food-viaje": {
+    "de": "https://www.zercy.app/blog/street-food-reise-guide",
+    "en": "https://www.zercy.app/en/blog/street-food-travel-guide",
+    "es": "https://www.zercy.app/es/blog/guia-street-food-viaje"
+  },
   "suedafrika-rundreise-route": {
     "de": "https://www.zercy.app/blog/suedafrika-rundreise-route",
     "en": "https://www.zercy.app/en/blog/south-africa-road-trip-route",
@@ -3763,6 +3913,21 @@
     "de": "https://www.zercy.app/blog/tauchen-schnorcheln-reiseziele",
     "en": "https://www.zercy.app/en/blog/diving-snorkeling-destinations",
     "es": "https://www.zercy.app/es/blog/buceo-snorkel-destinos-2026"
+  },
+  "taucherreise-planen-guide": {
+    "de": "https://www.zercy.app/blog/taucherreise-planen-guide",
+    "en": "https://www.zercy.app/en/blog/scuba-dive-trip-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-buceo-planificar-guia"
+  },
+  "scuba-dive-trip-guide": {
+    "de": "https://www.zercy.app/blog/taucherreise-planen-guide",
+    "en": "https://www.zercy.app/en/blog/scuba-dive-trip-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-buceo-planificar-guia"
+  },
+  "viaje-buceo-planificar-guia": {
+    "de": "https://www.zercy.app/blog/taucherreise-planen-guide",
+    "en": "https://www.zercy.app/en/blog/scuba-dive-trip-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-buceo-planificar-guia"
   },
   "thailand-route-2-wochen": {
     "de": "https://www.zercy.app/blog/thailand-route-2-wochen",
@@ -4004,6 +4169,36 @@
     "en": "https://www.zercy.app/en/blog/visa-on-arrival-countries-2026",
     "es": "https://www.zercy.app/es/blog/paises-visa-llegada-2026"
   },
+  "visum-beantragen-guide": {
+    "de": "https://www.zercy.app/blog/visum-beantragen-guide",
+    "en": "https://www.zercy.app/en/blog/visa-application-guide",
+    "es": "https://www.zercy.app/es/blog/solicitud-visa-guia"
+  },
+  "visa-application-guide": {
+    "de": "https://www.zercy.app/blog/visum-beantragen-guide",
+    "en": "https://www.zercy.app/en/blog/visa-application-guide",
+    "es": "https://www.zercy.app/es/blog/solicitud-visa-guia"
+  },
+  "solicitud-visa-guia": {
+    "de": "https://www.zercy.app/blog/visum-beantragen-guide",
+    "en": "https://www.zercy.app/en/blog/visa-application-guide",
+    "es": "https://www.zercy.app/es/blog/solicitud-visa-guia"
+  },
+  "waehrungstausch-ausland-guide": {
+    "de": "https://www.zercy.app/blog/waehrungstausch-ausland-guide",
+    "en": "https://www.zercy.app/en/blog/currency-exchange-travel-guide",
+    "es": "https://www.zercy.app/es/blog/cambio-moneda-viaje-guia"
+  },
+  "currency-exchange-travel-guide": {
+    "de": "https://www.zercy.app/blog/waehrungstausch-ausland-guide",
+    "en": "https://www.zercy.app/en/blog/currency-exchange-travel-guide",
+    "es": "https://www.zercy.app/es/blog/cambio-moneda-viaje-guia"
+  },
+  "cambio-moneda-viaje-guia": {
+    "de": "https://www.zercy.app/blog/waehrungstausch-ausland-guide",
+    "en": "https://www.zercy.app/en/blog/currency-exchange-travel-guide",
+    "es": "https://www.zercy.app/es/blog/cambio-moneda-viaje-guia"
+  },
   "wann-fluege-buchen": {
     "de": "https://www.zercy.app/blog/wann-fluege-buchen",
     "en": "https://www.zercy.app/en/blog/when-to-book-flights",
@@ -4033,6 +4228,21 @@
     "de": "https://www.zercy.app/blog/was-ist-zercy",
     "en": "https://www.zercy.app/en/blog/what-is-zercy",
     "es": "https://www.zercy.app/es/blog/que-es-zercy"
+  },
+  "weihnachtsmaerkte-europa-guide": {
+    "de": "https://www.zercy.app/blog/weihnachtsmaerkte-europa-guide",
+    "en": "https://www.zercy.app/en/blog/christmas-markets-europe-guide",
+    "es": "https://www.zercy.app/es/blog/mercados-navidad-europa-guia"
+  },
+  "christmas-markets-europe-guide": {
+    "de": "https://www.zercy.app/blog/weihnachtsmaerkte-europa-guide",
+    "en": "https://www.zercy.app/en/blog/christmas-markets-europe-guide",
+    "es": "https://www.zercy.app/es/blog/mercados-navidad-europa-guia"
+  },
+  "mercados-navidad-europa-guia": {
+    "de": "https://www.zercy.app/blog/weihnachtsmaerkte-europa-guide",
+    "en": "https://www.zercy.app/en/blog/christmas-markets-europe-guide",
+    "es": "https://www.zercy.app/es/blog/mercados-navidad-europa-guia"
   },
   "weinreisen-europa-guide": {
     "de": "https://www.zercy.app/blog/weinreisen-europa-guide",
