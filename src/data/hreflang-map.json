@@ -889,6 +889,21 @@
     "en": "https://www.zercy.app/en/blog/digital-nomad-visa-countries-2026",
     "es": "https://www.zercy.app/es/blog/visa-nomada-digital-paises-2026"
   },
+  "direktflug-vs-umsteigen": {
+    "de": "https://www.zercy.app/blog/direktflug-vs-umsteigen",
+    "en": "https://www.zercy.app/en/blog/direct-flight-vs-connecting",
+    "es": "https://www.zercy.app/es/blog/vuelo-directo-vs-conexion"
+  },
+  "direct-flight-vs-connecting": {
+    "de": "https://www.zercy.app/blog/direktflug-vs-umsteigen",
+    "en": "https://www.zercy.app/en/blog/direct-flight-vs-connecting",
+    "es": "https://www.zercy.app/es/blog/vuelo-directo-vs-conexion"
+  },
+  "vuelo-directo-vs-conexion": {
+    "de": "https://www.zercy.app/blog/direktflug-vs-umsteigen",
+    "en": "https://www.zercy.app/en/blog/direct-flight-vs-connecting",
+    "es": "https://www.zercy.app/es/blog/vuelo-directo-vs-conexion"
+  },
   "dominikanische-republik-guide": {
     "de": "https://www.zercy.app/blog/dominikanische-republik-guide",
     "en": "https://www.zercy.app/en/blog/dominican-republic-travel-guide",
@@ -948,6 +963,21 @@
     "de": "https://www.zercy.app/blog/ex-eu-routing-guenstiger-fliegen",
     "en": "https://www.zercy.app/en/blog/ex-eu-routing-cheaper-flights",
     "es": "https://www.zercy.app/es/blog/vuelos-ex-eu-como-funciona"
+  },
+  "extra-legroom-sitzplatz-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/extra-legroom-sitzplatz-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/extra-legroom-seat-worth-it",
+    "es": "https://www.zercy.app/es/blog/asiento-extra-espacio-vale-la-pena"
+  },
+  "extra-legroom-seat-worth-it": {
+    "de": "https://www.zercy.app/blog/extra-legroom-sitzplatz-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/extra-legroom-seat-worth-it",
+    "es": "https://www.zercy.app/es/blog/asiento-extra-espacio-vale-la-pena"
+  },
+  "asiento-extra-espacio-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/extra-legroom-sitzplatz-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/extra-legroom-seat-worth-it",
+    "es": "https://www.zercy.app/es/blog/asiento-extra-espacio-vale-la-pena"
   },
   "faeroeer-inseln-guide": {
     "de": "https://www.zercy.app/blog/faeroeer-inseln-guide",
@@ -1053,6 +1083,21 @@
     "de": "https://www.zercy.app/blog/flexible-dates-flug-hack",
     "en": "https://www.zercy.app/en/blog/flexible-dates-flight-hack",
     "es": "https://www.zercy.app/es/blog/fechas-flexibles-vuelos-ahorro"
+  },
+  "flughafen-hotel-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/flughafen-hotel-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/airport-hotel-worth-it",
+    "es": "https://www.zercy.app/es/blog/hotel-aeropuerto-vale-la-pena"
+  },
+  "airport-hotel-worth-it": {
+    "de": "https://www.zercy.app/blog/flughafen-hotel-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/airport-hotel-worth-it",
+    "es": "https://www.zercy.app/es/blog/hotel-aeropuerto-vale-la-pena"
+  },
+  "hotel-aeropuerto-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/flughafen-hotel-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/airport-hotel-worth-it",
+    "es": "https://www.zercy.app/es/blog/hotel-aeropuerto-vale-la-pena"
   },
   "flughafentransfer-tipps-2026": {
     "de": "https://www.zercy.app/blog/flughafentransfer-tipps-2026",
@@ -1324,6 +1369,21 @@
     "en": "https://www.zercy.app/en/blog/hostel-vs-hotel-2026",
     "es": "https://www.zercy.app/es/blog/hostel-o-hotel-2026"
   },
+  "hotel-fruehstueck-inkludiert-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/hotel-fruehstueck-inkludiert-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/hotel-breakfast-included-worth-it",
+    "es": "https://www.zercy.app/es/blog/desayuno-hotel-incluido-vale-la-pena"
+  },
+  "hotel-breakfast-included-worth-it": {
+    "de": "https://www.zercy.app/blog/hotel-fruehstueck-inkludiert-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/hotel-breakfast-included-worth-it",
+    "es": "https://www.zercy.app/es/blog/desayuno-hotel-incluido-vale-la-pena"
+  },
+  "desayuno-hotel-incluido-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/hotel-fruehstueck-inkludiert-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/hotel-breakfast-included-worth-it",
+    "es": "https://www.zercy.app/es/blog/desayuno-hotel-incluido-vale-la-pena"
+  },
   "hotel-kategorien-erklaert": {
     "de": "https://www.zercy.app/blog/hotel-kategorien-erklaert",
     "en": "https://www.zercy.app/en/blog/hotel-categories-explained",
@@ -1353,6 +1413,21 @@
     "de": "https://www.zercy.app/blog/hotel-rate-parity-erklaert",
     "en": "https://www.zercy.app/en/blog/hotel-rate-parity-explained",
     "es": "https://www.zercy.app/es/blog/paridad-tarifas-hoteles"
+  },
+  "hotel-treueprogramm-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/hotel-treueprogramm-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/hotel-loyalty-program-worth-it",
+    "es": "https://www.zercy.app/es/blog/programa-fidelidad-hotel-vale-la-pena"
+  },
+  "hotel-loyalty-program-worth-it": {
+    "de": "https://www.zercy.app/blog/hotel-treueprogramm-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/hotel-loyalty-program-worth-it",
+    "es": "https://www.zercy.app/es/blog/programa-fidelidad-hotel-vale-la-pena"
+  },
+  "programa-fidelidad-hotel-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/hotel-treueprogramm-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/hotel-loyalty-program-worth-it",
+    "es": "https://www.zercy.app/es/blog/programa-fidelidad-hotel-vale-la-pena"
   },
   "hotel-upgrade-gratis-tipps": {
     "de": "https://www.zercy.app/blog/hotel-upgrade-gratis-tipps",
@@ -2314,6 +2389,21 @@
     "en": "https://www.zercy.app/en/blog/powerbank-rules-carry-on-2026",
     "es": "https://www.zercy.app/es/blog/normas-powerbank-equipaje-mano"
   },
+  "priority-boarding-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/priority-boarding-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/priority-boarding-worth-it",
+    "es": "https://www.zercy.app/es/blog/embarque-prioritario-vale-la-pena"
+  },
+  "priority-boarding-worth-it": {
+    "de": "https://www.zercy.app/blog/priority-boarding-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/priority-boarding-worth-it",
+    "es": "https://www.zercy.app/es/blog/embarque-prioritario-vale-la-pena"
+  },
+  "embarque-prioritario-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/priority-boarding-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/priority-boarding-worth-it",
+    "es": "https://www.zercy.app/es/blog/embarque-prioritario-vale-la-pena"
+  },
   "reise-packliste-was-wirklich-rein-kommt": {
     "de": "https://www.zercy.app/blog/reise-packliste-was-wirklich-rein-kommt",
     "en": "https://www.zercy.app/en/blog/travel-packing-list-essentials",
@@ -2358,6 +2448,21 @@
     "de": "https://www.zercy.app/blog/reisefotografie-tipps",
     "en": "https://www.zercy.app/en/blog/travel-photography-tips",
     "es": "https://www.zercy.app/es/blog/fotografia-viaje-consejos"
+  },
+  "reisefuehrer-tour-buchen-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/reisefuehrer-tour-buchen-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/tour-guide-worth-it",
+    "es": "https://www.zercy.app/es/blog/contratar-guia-turistico-vale-la-pena"
+  },
+  "tour-guide-worth-it": {
+    "de": "https://www.zercy.app/blog/reisefuehrer-tour-buchen-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/tour-guide-worth-it",
+    "es": "https://www.zercy.app/es/blog/contratar-guia-turistico-vale-la-pena"
+  },
+  "contratar-guia-turistico-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/reisefuehrer-tour-buchen-lohnt-sich",
+    "en": "https://www.zercy.app/en/blog/tour-guide-worth-it",
+    "es": "https://www.zercy.app/es/blog/contratar-guia-turistico-vale-la-pena"
   },
   "reiseimpfungen-guide": {
     "de": "https://www.zercy.app/blog/reiseimpfungen-guide",
