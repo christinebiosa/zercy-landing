@@ -919,6 +919,21 @@
     "en": "https://www.zercy.app/en/blog/digital-nomad-visa-countries-2026",
     "es": "https://www.zercy.app/es/blog/visa-nomada-digital-paises-2026"
   },
+  "digitaler-nomade-werden-anfaenger": {
+    "de": "https://www.zercy.app/blog/digitaler-nomade-werden-anfaenger",
+    "en": "https://www.zercy.app/en/blog/become-digital-nomad-beginner",
+    "es": "https://www.zercy.app/es/blog/ser-nomada-digital-principiante"
+  },
+  "become-digital-nomad-beginner": {
+    "de": "https://www.zercy.app/blog/digitaler-nomade-werden-anfaenger",
+    "en": "https://www.zercy.app/en/blog/become-digital-nomad-beginner",
+    "es": "https://www.zercy.app/es/blog/ser-nomada-digital-principiante"
+  },
+  "ser-nomada-digital-principiante": {
+    "de": "https://www.zercy.app/blog/digitaler-nomade-werden-anfaenger",
+    "en": "https://www.zercy.app/en/blog/become-digital-nomad-beginner",
+    "es": "https://www.zercy.app/es/blog/ser-nomada-digital-principiante"
+  },
   "direktflug-vs-umsteigen": {
     "de": "https://www.zercy.app/blog/direktflug-vs-umsteigen",
     "en": "https://www.zercy.app/en/blog/direct-flight-vs-connecting",
@@ -963,6 +978,21 @@
     "de": "https://www.zercy.app/blog/ecuador-galapagos-reiseguide",
     "en": "https://www.zercy.app/en/blog/ecuador-galapagos-travel-guide",
     "es": "https://www.zercy.app/es/blog/ecuador-galapagos-guia-viaje"
+  },
+  "erster-alleinreise-guide": {
+    "de": "https://www.zercy.app/blog/erster-alleinreise-guide",
+    "en": "https://www.zercy.app/en/blog/first-solo-trip-guide",
+    "es": "https://www.zercy.app/es/blog/primer-viaje-solo-guia"
+  },
+  "first-solo-trip-guide": {
+    "de": "https://www.zercy.app/blog/erster-alleinreise-guide",
+    "en": "https://www.zercy.app/en/blog/first-solo-trip-guide",
+    "es": "https://www.zercy.app/es/blog/primer-viaje-solo-guia"
+  },
+  "primer-viaje-solo-guia": {
+    "de": "https://www.zercy.app/blog/erster-alleinreise-guide",
+    "en": "https://www.zercy.app/en/blog/first-solo-trip-guide",
+    "es": "https://www.zercy.app/es/blog/primer-viaje-solo-guia"
   },
   "europaeische-staedte-winter-tipps": {
     "de": "https://www.zercy.app/blog/europaeische-staedte-winter-tipps",
@@ -1203,6 +1233,21 @@
     "de": "https://www.zercy.app/blog/fruehbucher-vs-last-minute",
     "en": "https://www.zercy.app/en/blog/early-booking-vs-last-minute",
     "es": "https://www.zercy.app/es/blog/reserva-anticipada-vs-last-minute"
+  },
+  "gap-year-mit-40-reisen": {
+    "de": "https://www.zercy.app/blog/gap-year-mit-40-reisen",
+    "en": "https://www.zercy.app/en/blog/gap-year-at-40-travel",
+    "es": "https://www.zercy.app/es/blog/ano-sabbatico-a-los-40"
+  },
+  "gap-year-at-40-travel": {
+    "de": "https://www.zercy.app/blog/gap-year-mit-40-reisen",
+    "en": "https://www.zercy.app/en/blog/gap-year-at-40-travel",
+    "es": "https://www.zercy.app/es/blog/ano-sabbatico-a-los-40"
+  },
+  "ano-sabbatico-a-los-40": {
+    "de": "https://www.zercy.app/blog/gap-year-mit-40-reisen",
+    "en": "https://www.zercy.app/en/blog/gap-year-at-40-travel",
+    "es": "https://www.zercy.app/es/blog/ano-sabbatico-a-los-40"
   },
   "geheimtipps-europa": {
     "de": "https://www.zercy.app/blog/geheimtipps-europa",
@@ -2569,6 +2614,21 @@
     "en": "https://www.zercy.app/en/blog/travel-credit-card-2026",
     "es": "https://www.zercy.app/es/blog/tarjeta-credito-viajes-2026"
   },
+  "reisen-als-student-budget": {
+    "de": "https://www.zercy.app/blog/reisen-als-student-budget",
+    "en": "https://www.zercy.app/en/blog/student-travel-budget-guide",
+    "es": "https://www.zercy.app/es/blog/viajar-estudiante-presupuesto"
+  },
+  "student-travel-budget-guide": {
+    "de": "https://www.zercy.app/blog/reisen-als-student-budget",
+    "en": "https://www.zercy.app/en/blog/student-travel-budget-guide",
+    "es": "https://www.zercy.app/es/blog/viajar-estudiante-presupuesto"
+  },
+  "viajar-estudiante-presupuesto": {
+    "de": "https://www.zercy.app/blog/reisen-als-student-budget",
+    "en": "https://www.zercy.app/en/blog/student-travel-budget-guide",
+    "es": "https://www.zercy.app/es/blog/viajar-estudiante-presupuesto"
+  },
   "reisen-kleines-budget-tipps": {
     "de": "https://www.zercy.app/blog/reisen-kleines-budget-tipps",
     "en": "https://www.zercy.app/en/blog/travel-tight-budget-tips",
@@ -2599,6 +2659,21 @@
     "en": "https://www.zercy.app/en/blog/traveling-with-baby-first-flights",
     "es": "https://www.zercy.app/es/blog/viajar-con-bebe-primer-vuelo"
   },
+  "reisen-mit-kleinkind-unter-3": {
+    "de": "https://www.zercy.app/blog/reisen-mit-kleinkind-unter-3",
+    "en": "https://www.zercy.app/en/blog/travel-with-toddler-under-3",
+    "es": "https://www.zercy.app/es/blog/viajar-con-nino-pequeno-guia"
+  },
+  "travel-with-toddler-under-3": {
+    "de": "https://www.zercy.app/blog/reisen-mit-kleinkind-unter-3",
+    "en": "https://www.zercy.app/en/blog/travel-with-toddler-under-3",
+    "es": "https://www.zercy.app/es/blog/viajar-con-nino-pequeno-guia"
+  },
+  "viajar-con-nino-pequeno-guia": {
+    "de": "https://www.zercy.app/blog/reisen-mit-kleinkind-unter-3",
+    "en": "https://www.zercy.app/en/blog/travel-with-toddler-under-3",
+    "es": "https://www.zercy.app/es/blog/viajar-con-nino-pequeno-guia"
+  },
   "reisen-mit-teenagern-tipps": {
     "de": "https://www.zercy.app/blog/reisen-mit-teenagern-tipps",
     "en": "https://www.zercy.app/en/blog/travel-with-teenagers-tips",
@@ -2614,20 +2689,20 @@
     "en": "https://www.zercy.app/en/blog/travel-with-teenagers-tips",
     "es": "https://www.zercy.app/es/blog/viajar-con-adolescentes-consejos"
   },
-  "reisen-nach-60-tipps": {
-    "de": "https://www.zercy.app/blog/reisen-nach-60-tipps",
-    "en": "https://www.zercy.app/en/blog/travel-after-60-tips",
-    "es": "https://www.zercy.app/es/blog/viajar-despues-60-consejos"
+  "reisen-nach-der-rente-50plus": {
+    "de": "https://www.zercy.app/blog/reisen-nach-der-rente-50plus",
+    "en": "https://www.zercy.app/en/blog/travel-after-retirement-50plus",
+    "es": "https://www.zercy.app/es/blog/viajar-jubilacion-50plus"
   },
-  "travel-after-60-tips": {
-    "de": "https://www.zercy.app/blog/reisen-nach-60-tipps",
-    "en": "https://www.zercy.app/en/blog/travel-after-60-tips",
-    "es": "https://www.zercy.app/es/blog/viajar-despues-60-consejos"
+  "travel-after-retirement-50plus": {
+    "de": "https://www.zercy.app/blog/reisen-nach-der-rente-50plus",
+    "en": "https://www.zercy.app/en/blog/travel-after-retirement-50plus",
+    "es": "https://www.zercy.app/es/blog/viajar-jubilacion-50plus"
   },
-  "viajar-despues-60-consejos": {
-    "de": "https://www.zercy.app/blog/reisen-nach-60-tipps",
-    "en": "https://www.zercy.app/en/blog/travel-after-60-tips",
-    "es": "https://www.zercy.app/es/blog/viajar-despues-60-consejos"
+  "viajar-jubilacion-50plus": {
+    "de": "https://www.zercy.app/blog/reisen-nach-der-rente-50plus",
+    "en": "https://www.zercy.app/en/blog/travel-after-retirement-50plus",
+    "es": "https://www.zercy.app/es/blog/viajar-jubilacion-50plus"
   },
   "reiseversicherung-was-lohnt-sich": {
     "de": "https://www.zercy.app/blog/reiseversicherung-was-lohnt-sich",
@@ -3283,6 +3358,21 @@
     "de": "https://www.zercy.app/blog/wellness-spa-reisen-destinationen",
     "en": "https://www.zercy.app/en/blog/wellness-spa-travel-destinations",
     "es": "https://www.zercy.app/es/blog/viajes-wellness-spa-destinos"
+  },
+  "weltreise-6-monate-planen": {
+    "de": "https://www.zercy.app/blog/weltreise-6-monate-planen",
+    "en": "https://www.zercy.app/en/blog/round-the-world-6-months-plan",
+    "es": "https://www.zercy.app/es/blog/vuelta-al-mundo-6-meses-planificar"
+  },
+  "round-the-world-6-months-plan": {
+    "de": "https://www.zercy.app/blog/weltreise-6-monate-planen",
+    "en": "https://www.zercy.app/en/blog/round-the-world-6-months-plan",
+    "es": "https://www.zercy.app/es/blog/vuelta-al-mundo-6-meses-planificar"
+  },
+  "vuelta-al-mundo-6-meses-planificar": {
+    "de": "https://www.zercy.app/blog/weltreise-6-monate-planen",
+    "en": "https://www.zercy.app/en/blog/round-the-world-6-months-plan",
+    "es": "https://www.zercy.app/es/blog/vuelta-al-mundo-6-meses-planificar"
   },
   "wien-am-wochenende": {
     "de": "https://www.zercy.app/blog/wien-am-wochenende",
