@@ -649,6 +649,21 @@
     "en": "https://www.zercy.app/en/blog/bid-upgrade-business-class",
     "es": "https://www.zercy.app/es/blog/puja-upgrade-clase-business"
   },
+  "bleisure-travel-guide": {
+    "de": "https://www.zercy.app/blog/bleisure-travel-guide",
+    "en": "https://www.zercy.app/en/blog/bleisure-trip-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-bleisure-guia"
+  },
+  "bleisure-trip-guide": {
+    "de": "https://www.zercy.app/blog/bleisure-travel-guide",
+    "en": "https://www.zercy.app/en/blog/bleisure-trip-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-bleisure-guia"
+  },
+  "viaje-bleisure-guia": {
+    "de": "https://www.zercy.app/blog/bleisure-travel-guide",
+    "en": "https://www.zercy.app/en/blog/bleisure-trip-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-bleisure-guia"
+  },
   "bolivien-salar-de-uyuni-guide": {
     "de": "https://www.zercy.app/blog/bolivien-salar-de-uyuni-guide",
     "en": "https://www.zercy.app/en/blog/bolivia-salt-flat-uyuni-guide",
@@ -1054,6 +1069,21 @@
     "en": "https://www.zercy.app/en/blog/extra-legroom-seat-worth-it",
     "es": "https://www.zercy.app/es/blog/asiento-extra-espacio-vale-la-pena"
   },
+  "faehren-europa-guide": {
+    "de": "https://www.zercy.app/blog/faehren-europa-guide",
+    "en": "https://www.zercy.app/en/blog/ferry-travel-europe-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-ferry-europa-guia"
+  },
+  "ferry-travel-europe-guide": {
+    "de": "https://www.zercy.app/blog/faehren-europa-guide",
+    "en": "https://www.zercy.app/en/blog/ferry-travel-europe-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-ferry-europa-guia"
+  },
+  "viaje-ferry-europa-guia": {
+    "de": "https://www.zercy.app/blog/faehren-europa-guide",
+    "en": "https://www.zercy.app/en/blog/ferry-travel-europe-guide",
+    "es": "https://www.zercy.app/es/blog/viaje-ferry-europa-guia"
+  },
   "faeroeer-inseln-guide": {
     "de": "https://www.zercy.app/blog/faeroeer-inseln-guide",
     "en": "https://www.zercy.app/en/blog/faroe-islands-guide",
@@ -1278,6 +1308,21 @@
     "de": "https://www.zercy.app/blog/food-travel-essen-wie-einheimischer",
     "en": "https://www.zercy.app/en/blog/food-travel-eat-like-a-local",
     "es": "https://www.zercy.app/es/blog/turismo-gastronomico-comer-como-local"
+  },
+  "freiwilligenarbeit-urlaub-workaway": {
+    "de": "https://www.zercy.app/blog/freiwilligenarbeit-urlaub-workaway",
+    "en": "https://www.zercy.app/en/blog/volunteer-travel-workaway-guide",
+    "es": "https://www.zercy.app/es/blog/volunturismo-workaway-guia"
+  },
+  "volunteer-travel-workaway-guide": {
+    "de": "https://www.zercy.app/blog/freiwilligenarbeit-urlaub-workaway",
+    "en": "https://www.zercy.app/en/blog/volunteer-travel-workaway-guide",
+    "es": "https://www.zercy.app/es/blog/volunturismo-workaway-guia"
+  },
+  "volunturismo-workaway-guia": {
+    "de": "https://www.zercy.app/blog/freiwilligenarbeit-urlaub-workaway",
+    "en": "https://www.zercy.app/en/blog/volunteer-travel-workaway-guide",
+    "es": "https://www.zercy.app/es/blog/volunturismo-workaway-guia"
   },
   "fruehbucher-vs-last-minute": {
     "de": "https://www.zercy.app/blog/fruehbucher-vs-last-minute",
@@ -1593,6 +1638,21 @@
     "de": "https://www.zercy.app/blog/hotel-upgrade-gratis-tipps",
     "en": "https://www.zercy.app/en/blog/hotel-upgrade-free-tips",
     "es": "https://www.zercy.app/es/blog/trucos-upgrade-hotel-gratis"
+  },
+  "house-sitting-gratis-urlaub": {
+    "de": "https://www.zercy.app/blog/house-sitting-gratis-urlaub",
+    "en": "https://www.zercy.app/en/blog/house-sitting-free-travel-guide",
+    "es": "https://www.zercy.app/es/blog/house-sitting-viaje-gratis"
+  },
+  "house-sitting-free-travel-guide": {
+    "de": "https://www.zercy.app/blog/house-sitting-gratis-urlaub",
+    "en": "https://www.zercy.app/en/blog/house-sitting-free-travel-guide",
+    "es": "https://www.zercy.app/es/blog/house-sitting-viaje-gratis"
+  },
+  "house-sitting-viaje-gratis": {
+    "de": "https://www.zercy.app/blog/house-sitting-gratis-urlaub",
+    "en": "https://www.zercy.app/en/blog/house-sitting-free-travel-guide",
+    "es": "https://www.zercy.app/es/blog/house-sitting-viaje-gratis"
   },
   "indien-reiseguide-highlights": {
     "de": "https://www.zercy.app/blog/indien-reiseguide-highlights",
@@ -2824,6 +2884,21 @@
     "en": "https://www.zercy.app/en/blog/road-trip-stages-planning",
     "es": "https://www.zercy.app/es/blog/roadtrip-planificacion-etapas"
   },
+  "round-the-world-ticket-erklaert": {
+    "de": "https://www.zercy.app/blog/round-the-world-ticket-erklaert",
+    "en": "https://www.zercy.app/en/blog/round-the-world-ticket-guide",
+    "es": "https://www.zercy.app/es/blog/ticket-vuelta-al-mundo-guia"
+  },
+  "round-the-world-ticket-guide": {
+    "de": "https://www.zercy.app/blog/round-the-world-ticket-erklaert",
+    "en": "https://www.zercy.app/en/blog/round-the-world-ticket-guide",
+    "es": "https://www.zercy.app/es/blog/ticket-vuelta-al-mundo-guia"
+  },
+  "ticket-vuelta-al-mundo-guia": {
+    "de": "https://www.zercy.app/blog/round-the-world-ticket-erklaert",
+    "en": "https://www.zercy.app/en/blog/round-the-world-ticket-guide",
+    "es": "https://www.zercy.app/es/blog/ticket-vuelta-al-mundo-guia"
+  },
   "route-66-usa-roadtrip": {
     "de": "https://www.zercy.app/blog/route-66-usa-roadtrip",
     "en": "https://www.zercy.app/en/blog/route-66-usa-road-trip",
@@ -2998,6 +3073,21 @@
     "de": "https://www.zercy.app/blog/segelurlaub-einsteiger-guide",
     "en": "https://www.zercy.app/en/blog/sailing-holiday-beginners-guide",
     "es": "https://www.zercy.app/es/blog/vacaciones-vela-principiantes"
+  },
+  "set-jetting-drehort-urlaub": {
+    "de": "https://www.zercy.app/blog/set-jetting-drehort-urlaub",
+    "en": "https://www.zercy.app/en/blog/set-jetting-filming-locations-guide",
+    "es": "https://www.zercy.app/es/blog/set-jetting-locaciones-filmacion"
+  },
+  "set-jetting-filming-locations-guide": {
+    "de": "https://www.zercy.app/blog/set-jetting-drehort-urlaub",
+    "en": "https://www.zercy.app/en/blog/set-jetting-filming-locations-guide",
+    "es": "https://www.zercy.app/es/blog/set-jetting-locaciones-filmacion"
+  },
+  "set-jetting-locaciones-filmacion": {
+    "de": "https://www.zercy.app/blog/set-jetting-drehort-urlaub",
+    "en": "https://www.zercy.app/en/blog/set-jetting-filming-locations-guide",
+    "es": "https://www.zercy.app/es/blog/set-jetting-locaciones-filmacion"
   },
   "sicherheitskontrolle-tipps": {
     "de": "https://www.zercy.app/blog/sicherheitskontrolle-tipps",
@@ -3313,6 +3403,21 @@
     "de": "https://www.zercy.app/blog/tuerkei-vs-griechenland-urlaub",
     "en": "https://www.zercy.app/en/blog/turkey-vs-greece-which-to-choose",
     "es": "https://www.zercy.app/es/blog/turquia-vs-grecia-cual-elegir"
+  },
+  "uebertourismus-alternativen-tipps": {
+    "de": "https://www.zercy.app/blog/uebertourismus-alternativen-tipps",
+    "en": "https://www.zercy.app/en/blog/overtourism-alternatives-guide",
+    "es": "https://www.zercy.app/es/blog/turismo-masivo-alternativas-guia"
+  },
+  "overtourism-alternatives-guide": {
+    "de": "https://www.zercy.app/blog/uebertourismus-alternativen-tipps",
+    "en": "https://www.zercy.app/en/blog/overtourism-alternatives-guide",
+    "es": "https://www.zercy.app/es/blog/turismo-masivo-alternativas-guia"
+  },
+  "turismo-masivo-alternativas-guia": {
+    "de": "https://www.zercy.app/blog/uebertourismus-alternativen-tipps",
+    "en": "https://www.zercy.app/en/blog/overtourism-alternatives-guide",
+    "es": "https://www.zercy.app/es/blog/turismo-masivo-alternativas-guia"
   },
   "umsteigen-kurze-layover-tipps": {
     "de": "https://www.zercy.app/blog/umsteigen-kurze-layover-tipps",
