@@ -829,6 +829,21 @@
     "en": "https://www.zercy.app/en/blog/campervan-europe-guide",
     "es": "https://www.zercy.app/es/blog/campervan-vacaciones-europa"
   },
+  "camping-europa-reiseguide": {
+    "de": "https://www.zercy.app/blog/camping-europa-reiseguide",
+    "en": "https://www.zercy.app/en/blog/camping-europe-guide",
+    "es": "https://www.zercy.app/es/blog/camping-europa-guia"
+  },
+  "camping-europe-guide": {
+    "de": "https://www.zercy.app/blog/camping-europa-reiseguide",
+    "en": "https://www.zercy.app/en/blog/camping-europe-guide",
+    "es": "https://www.zercy.app/es/blog/camping-europa-guia"
+  },
+  "camping-europa-guia": {
+    "de": "https://www.zercy.app/blog/camping-europa-reiseguide",
+    "en": "https://www.zercy.app/en/blog/camping-europe-guide",
+    "es": "https://www.zercy.app/es/blog/camping-europa-guia"
+  },
   "capsule-wardrobe-handgepaeck": {
     "de": "https://www.zercy.app/blog/capsule-wardrobe-handgepaeck",
     "en": "https://www.zercy.app/en/blog/capsule-wardrobe-carry-on",
@@ -963,6 +978,21 @@
     "de": "https://www.zercy.app/blog/daenemark-reiseguide-highlights",
     "en": "https://www.zercy.app/en/blog/denmark-travel-guide-highlights",
     "es": "https://www.zercy.app/es/blog/dinamarca-guia-viaje-highlights"
+  },
+  "diebstahl-urlaub-praevention-tipps": {
+    "de": "https://www.zercy.app/blog/diebstahl-urlaub-praevention-tipps",
+    "en": "https://www.zercy.app/en/blog/theft-prevention-travel-guide",
+    "es": "https://www.zercy.app/es/blog/robo-viaje-prevencion-consejos"
+  },
+  "theft-prevention-travel-guide": {
+    "de": "https://www.zercy.app/blog/diebstahl-urlaub-praevention-tipps",
+    "en": "https://www.zercy.app/en/blog/theft-prevention-travel-guide",
+    "es": "https://www.zercy.app/es/blog/robo-viaje-prevencion-consejos"
+  },
+  "robo-viaje-prevencion-consejos": {
+    "de": "https://www.zercy.app/blog/diebstahl-urlaub-praevention-tipps",
+    "en": "https://www.zercy.app/en/blog/theft-prevention-travel-guide",
+    "es": "https://www.zercy.app/es/blog/robo-viaje-prevencion-consejos"
   },
   "digital-nomad-visum-laender-2026": {
     "de": "https://www.zercy.app/blog/digital-nomad-visum-laender-2026",
@@ -1219,6 +1249,21 @@
     "en": "https://www.zercy.app/en/blog/flexible-dates-flight-hack",
     "es": "https://www.zercy.app/es/blog/fechas-flexibles-vuelos-ahorro"
   },
+  "flug-annullierung-rechte-eu261": {
+    "de": "https://www.zercy.app/blog/flug-annullierung-rechte-eu261",
+    "en": "https://www.zercy.app/en/blog/flight-cancellation-rights-eu261",
+    "es": "https://www.zercy.app/es/blog/cancelacion-vuelo-derechos-eu261"
+  },
+  "flight-cancellation-rights-eu261": {
+    "de": "https://www.zercy.app/blog/flug-annullierung-rechte-eu261",
+    "en": "https://www.zercy.app/en/blog/flight-cancellation-rights-eu261",
+    "es": "https://www.zercy.app/es/blog/cancelacion-vuelo-derechos-eu261"
+  },
+  "cancelacion-vuelo-derechos-eu261": {
+    "de": "https://www.zercy.app/blog/flug-annullierung-rechte-eu261",
+    "en": "https://www.zercy.app/en/blog/flight-cancellation-rights-eu261",
+    "es": "https://www.zercy.app/es/blog/cancelacion-vuelo-derechos-eu261"
+  },
   "flughafen-hotel-lohnt-sich": {
     "de": "https://www.zercy.app/blog/flughafen-hotel-lohnt-sich",
     "en": "https://www.zercy.app/en/blog/airport-hotel-worth-it",
@@ -1413,6 +1458,21 @@
     "de": "https://www.zercy.app/blog/geld-im-ausland-tipps",
     "en": "https://www.zercy.app/en/blog/money-abroad-tips",
     "es": "https://www.zercy.app/es/blog/dinero-en-el-extranjero-consejos"
+  },
+  "gepaeck-verloren-was-tun": {
+    "de": "https://www.zercy.app/blog/gepaeck-verloren-was-tun",
+    "en": "https://www.zercy.app/en/blog/lost-luggage-what-to-do",
+    "es": "https://www.zercy.app/es/blog/equipaje-perdido-que-hacer"
+  },
+  "lost-luggage-what-to-do": {
+    "de": "https://www.zercy.app/blog/gepaeck-verloren-was-tun",
+    "en": "https://www.zercy.app/en/blog/lost-luggage-what-to-do",
+    "es": "https://www.zercy.app/es/blog/equipaje-perdido-que-hacer"
+  },
+  "equipaje-perdido-que-hacer": {
+    "de": "https://www.zercy.app/blog/gepaeck-verloren-was-tun",
+    "en": "https://www.zercy.app/en/blog/lost-luggage-what-to-do",
+    "es": "https://www.zercy.app/es/blog/equipaje-perdido-que-hacer"
   },
   "glamping-europa-guide": {
     "de": "https://www.zercy.app/blog/glamping-europa-guide",
@@ -1844,6 +1904,21 @@
     "en": "https://www.zercy.app/en/blog/japan-3-week-route",
     "es": "https://www.zercy.app/es/blog/japon-3-semanas-ruta"
   },
+  "japan-budget-reisen-tipps": {
+    "de": "https://www.zercy.app/blog/japan-budget-reisen-tipps",
+    "en": "https://www.zercy.app/en/blog/japan-budget-travel-tips",
+    "es": "https://www.zercy.app/es/blog/japon-viaje-economico-consejos"
+  },
+  "japan-budget-travel-tips": {
+    "de": "https://www.zercy.app/blog/japan-budget-reisen-tipps",
+    "en": "https://www.zercy.app/en/blog/japan-budget-travel-tips",
+    "es": "https://www.zercy.app/es/blog/japon-viaje-economico-consejos"
+  },
+  "japon-viaje-economico-consejos": {
+    "de": "https://www.zercy.app/blog/japan-budget-reisen-tipps",
+    "en": "https://www.zercy.app/en/blog/japan-budget-travel-tips",
+    "es": "https://www.zercy.app/es/blog/japon-viaje-economico-consejos"
+  },
   "japan-jenseits-von-tokio": {
     "de": "https://www.zercy.app/blog/japan-jenseits-von-tokio",
     "en": "https://www.zercy.app/en/blog/japan-beyond-tokyo-guide",
@@ -2113,6 +2188,21 @@
     "de": "https://www.zercy.app/blog/laos-reiseguide-highlights",
     "en": "https://www.zercy.app/en/blog/laos-travel-guide-highlights",
     "es": "https://www.zercy.app/es/blog/laos-guia-viaje-highlights"
+  },
+  "lateinamerika-sicherheit-tipps": {
+    "de": "https://www.zercy.app/blog/lateinamerika-sicherheit-tipps",
+    "en": "https://www.zercy.app/en/blog/latin-america-safety-tips",
+    "es": "https://www.zercy.app/es/blog/seguridad-latinoamerica-viajeros"
+  },
+  "latin-america-safety-tips": {
+    "de": "https://www.zercy.app/blog/lateinamerika-sicherheit-tipps",
+    "en": "https://www.zercy.app/en/blog/latin-america-safety-tips",
+    "es": "https://www.zercy.app/es/blog/seguridad-latinoamerica-viajeros"
+  },
+  "seguridad-latinoamerica-viajeros": {
+    "de": "https://www.zercy.app/blog/lateinamerika-sicherheit-tipps",
+    "en": "https://www.zercy.app/en/blog/latin-america-safety-tips",
+    "es": "https://www.zercy.app/es/blog/seguridad-latinoamerica-viajeros"
   },
   "lissabon-abseits-der-touristenpfade": {
     "de": "https://www.zercy.app/blog/lissabon-abseits-der-touristenpfade",
@@ -2504,6 +2594,21 @@
     "en": "https://www.zercy.app/en/blog/northern-lights-2026-where-when-how",
     "es": "https://www.zercy.app/es/blog/auroras-boreales-2026"
   },
+  "notfall-ausland-was-tun": {
+    "de": "https://www.zercy.app/blog/notfall-ausland-was-tun",
+    "en": "https://www.zercy.app/en/blog/emergency-abroad-what-to-do",
+    "es": "https://www.zercy.app/es/blog/emergencia-extranjero-que-hacer"
+  },
+  "emergency-abroad-what-to-do": {
+    "de": "https://www.zercy.app/blog/notfall-ausland-was-tun",
+    "en": "https://www.zercy.app/en/blog/emergency-abroad-what-to-do",
+    "es": "https://www.zercy.app/es/blog/emergencia-extranjero-que-hacer"
+  },
+  "emergencia-extranjero-que-hacer": {
+    "de": "https://www.zercy.app/blog/notfall-ausland-was-tun",
+    "en": "https://www.zercy.app/en/blog/emergency-abroad-what-to-do",
+    "es": "https://www.zercy.app/es/blog/emergencia-extranjero-que-hacer"
+  },
   "nur-handgepaeck": {
     "de": "https://www.zercy.app/blog/nur-handgepaeck",
     "en": "https://www.zercy.app/en/blog/carry-on-only",
@@ -2839,6 +2944,21 @@
     "en": "https://www.zercy.app/en/blog/travel-vaccinations-guide",
     "es": "https://www.zercy.app/es/blog/vacunas-viaje-guia"
   },
+  "reisekrankenversicherung-guide": {
+    "de": "https://www.zercy.app/blog/reisekrankenversicherung-guide",
+    "en": "https://www.zercy.app/en/blog/travel-health-insurance-guide",
+    "es": "https://www.zercy.app/es/blog/seguro-medico-viaje-guia"
+  },
+  "travel-health-insurance-guide": {
+    "de": "https://www.zercy.app/blog/reisekrankenversicherung-guide",
+    "en": "https://www.zercy.app/en/blog/travel-health-insurance-guide",
+    "es": "https://www.zercy.app/es/blog/seguro-medico-viaje-guia"
+  },
+  "seguro-medico-viaje-guia": {
+    "de": "https://www.zercy.app/blog/reisekrankenversicherung-guide",
+    "en": "https://www.zercy.app/en/blog/travel-health-insurance-guide",
+    "es": "https://www.zercy.app/es/blog/seguro-medico-viaje-guia"
+  },
   "reisekreditkarte-2026": {
     "de": "https://www.zercy.app/blog/reisekreditkarte-2026",
     "en": "https://www.zercy.app/en/blog/travel-credit-card-2026",
@@ -2943,6 +3063,21 @@
     "de": "https://www.zercy.app/blog/reisen-nach-der-rente-50plus",
     "en": "https://www.zercy.app/en/blog/travel-after-retirement-50plus",
     "es": "https://www.zercy.app/es/blog/viajar-jubilacion-50plus"
+  },
+  "reiseruecktrittsversicherung-guide": {
+    "de": "https://www.zercy.app/blog/reiseruecktrittsversicherung-guide",
+    "en": "https://www.zercy.app/en/blog/trip-cancellation-insurance-guide",
+    "es": "https://www.zercy.app/es/blog/seguro-cancelacion-viaje-guia"
+  },
+  "trip-cancellation-insurance-guide": {
+    "de": "https://www.zercy.app/blog/reiseruecktrittsversicherung-guide",
+    "en": "https://www.zercy.app/en/blog/trip-cancellation-insurance-guide",
+    "es": "https://www.zercy.app/es/blog/seguro-cancelacion-viaje-guia"
+  },
+  "seguro-cancelacion-viaje-guia": {
+    "de": "https://www.zercy.app/blog/reiseruecktrittsversicherung-guide",
+    "en": "https://www.zercy.app/en/blog/trip-cancellation-insurance-guide",
+    "es": "https://www.zercy.app/es/blog/seguro-cancelacion-viaje-guia"
   },
   "reiseversicherung-was-lohnt-sich": {
     "de": "https://www.zercy.app/blog/reiseversicherung-was-lohnt-sich",
@@ -3284,6 +3419,21 @@
     "en": "https://www.zercy.app/en/blog/solo-travel-women-safe-countries",
     "es": "https://www.zercy.app/es/blog/viaje-solo-mujeres-seguro"
   },
+  "sprachbarrieren-reisen-tipps": {
+    "de": "https://www.zercy.app/blog/sprachbarrieren-reisen-tipps",
+    "en": "https://www.zercy.app/en/blog/language-barriers-travel-tips",
+    "es": "https://www.zercy.app/es/blog/barreras-idioma-viaje-consejos"
+  },
+  "language-barriers-travel-tips": {
+    "de": "https://www.zercy.app/blog/sprachbarrieren-reisen-tipps",
+    "en": "https://www.zercy.app/en/blog/language-barriers-travel-tips",
+    "es": "https://www.zercy.app/es/blog/barreras-idioma-viaje-consejos"
+  },
+  "barreras-idioma-viaje-consejos": {
+    "de": "https://www.zercy.app/blog/sprachbarrieren-reisen-tipps",
+    "en": "https://www.zercy.app/en/blog/language-barriers-travel-tips",
+    "es": "https://www.zercy.app/es/blog/barreras-idioma-viaje-consejos"
+  },
   "sri-lanka-rundreise-route": {
     "de": "https://www.zercy.app/blog/sri-lanka-rundreise-route",
     "en": "https://www.zercy.app/en/blog/sri-lanka-road-trip-route",
@@ -3464,6 +3614,21 @@
     "en": "https://www.zercy.app/en/blog/tokyo-foodie-trip",
     "es": "https://www.zercy.app/es/blog/tokio-viaje-gastronomico"
   },
+  "trekking-anfaenger-guide-weltweit": {
+    "de": "https://www.zercy.app/blog/trekking-anfaenger-guide-weltweit",
+    "en": "https://www.zercy.app/en/blog/trekking-beginners-guide-worldwide",
+    "es": "https://www.zercy.app/es/blog/trekking-principiantes-guia-mundial"
+  },
+  "trekking-beginners-guide-worldwide": {
+    "de": "https://www.zercy.app/blog/trekking-anfaenger-guide-weltweit",
+    "en": "https://www.zercy.app/en/blog/trekking-beginners-guide-worldwide",
+    "es": "https://www.zercy.app/es/blog/trekking-principiantes-guia-mundial"
+  },
+  "trekking-principiantes-guia-mundial": {
+    "de": "https://www.zercy.app/blog/trekking-anfaenger-guide-weltweit",
+    "en": "https://www.zercy.app/en/blog/trekking-beginners-guide-worldwide",
+    "es": "https://www.zercy.app/es/blog/trekking-principiantes-guia-mundial"
+  },
   "trinkgeld-weltweit-guide": {
     "de": "https://www.zercy.app/blog/trinkgeld-weltweit-guide",
     "en": "https://www.zercy.app/en/blog/tipping-culture-worldwide-guide",
@@ -3568,6 +3733,21 @@
     "de": "https://www.zercy.app/blog/us-westkueste-roadtrip",
     "en": "https://www.zercy.app/en/blog/us-west-coast-road-trip",
     "es": "https://www.zercy.app/es/blog/costa-oeste-usa-roadtrip"
+  },
+  "usa-nationalparks-reiseguide": {
+    "de": "https://www.zercy.app/blog/usa-nationalparks-reiseguide",
+    "en": "https://www.zercy.app/en/blog/usa-national-parks-guide",
+    "es": "https://www.zercy.app/es/blog/parques-nacionales-usa-guia"
+  },
+  "usa-national-parks-guide": {
+    "de": "https://www.zercy.app/blog/usa-nationalparks-reiseguide",
+    "en": "https://www.zercy.app/en/blog/usa-national-parks-guide",
+    "es": "https://www.zercy.app/es/blog/parques-nacionales-usa-guia"
+  },
+  "parques-nacionales-usa-guia": {
+    "de": "https://www.zercy.app/blog/usa-nationalparks-reiseguide",
+    "en": "https://www.zercy.app/en/blog/usa-national-parks-guide",
+    "es": "https://www.zercy.app/es/blog/parques-nacionales-usa-guia"
   },
   "usbekistan-seidenstrasse-guide": {
     "de": "https://www.zercy.app/blog/usbekistan-seidenstrasse-guide",
@@ -6474,6 +6654,21 @@
     "en": "https://www.zercy.app/en/blog/where-to-stay-zurich",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-zurich"
   },
+  "wochenendtrip-europa-beste-ziele": {
+    "de": "https://www.zercy.app/blog/wochenendtrip-europa-beste-ziele",
+    "en": "https://www.zercy.app/en/blog/weekend-getaways-europe-best",
+    "es": "https://www.zercy.app/es/blog/escapadas-fin-semana-europa"
+  },
+  "weekend-getaways-europe-best": {
+    "de": "https://www.zercy.app/blog/wochenendtrip-europa-beste-ziele",
+    "en": "https://www.zercy.app/en/blog/weekend-getaways-europe-best",
+    "es": "https://www.zercy.app/es/blog/escapadas-fin-semana-europa"
+  },
+  "escapadas-fin-semana-europa": {
+    "de": "https://www.zercy.app/blog/wochenendtrip-europa-beste-ziele",
+    "en": "https://www.zercy.app/en/blog/weekend-getaways-europe-best",
+    "es": "https://www.zercy.app/es/blog/escapadas-fin-semana-europa"
+  },
   "wohnungstausch-urlaub-guide": {
     "de": "https://www.zercy.app/blog/wohnungstausch-urlaub-guide",
     "en": "https://www.zercy.app/en/blog/house-swap-travel-guide",
@@ -6558,5 +6753,20 @@
     "de": "https://www.zercy.app/blog/zugreisen-europa",
     "en": "https://www.zercy.app/en/blog/train-travel-europe",
     "es": "https://www.zercy.app/es/blog/viajes-tren-europa"
+  },
+  "zugverspaetung-rechte-europa": {
+    "de": "https://www.zercy.app/blog/zugverspaetung-rechte-europa",
+    "en": "https://www.zercy.app/en/blog/train-delay-rights-europe",
+    "es": "https://www.zercy.app/es/blog/retraso-tren-europa-derechos"
+  },
+  "train-delay-rights-europe": {
+    "de": "https://www.zercy.app/blog/zugverspaetung-rechte-europa",
+    "en": "https://www.zercy.app/en/blog/train-delay-rights-europe",
+    "es": "https://www.zercy.app/es/blog/retraso-tren-europa-derechos"
+  },
+  "retraso-tren-europa-derechos": {
+    "de": "https://www.zercy.app/blog/zugverspaetung-rechte-europa",
+    "en": "https://www.zercy.app/en/blog/train-delay-rights-europe",
+    "es": "https://www.zercy.app/es/blog/retraso-tren-europa-derechos"
   }
 }
