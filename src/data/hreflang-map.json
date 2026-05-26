@@ -1,4 +1,19 @@
 {
+  "48-stunden-amsterdam": {
+    "de": "https://www.zercy.app/blog/48-stunden-amsterdam",
+    "en": "https://www.zercy.app/en/blog/48-hours-amsterdam",
+    "es": "https://www.zercy.app/es/blog/48-horas-amsterdam"
+  },
+  "48-hours-amsterdam": {
+    "de": "https://www.zercy.app/blog/48-stunden-amsterdam",
+    "en": "https://www.zercy.app/en/blog/48-hours-amsterdam",
+    "es": "https://www.zercy.app/es/blog/48-horas-amsterdam"
+  },
+  "48-horas-amsterdam": {
+    "de": "https://www.zercy.app/blog/48-stunden-amsterdam",
+    "en": "https://www.zercy.app/en/blog/48-hours-amsterdam",
+    "es": "https://www.zercy.app/es/blog/48-horas-amsterdam"
+  },
   "48-stunden-barcelona": {
     "de": "https://www.zercy.app/blog/48-stunden-barcelona",
     "en": "https://www.zercy.app/en/blog/48-hours-barcelona",
@@ -13,6 +28,21 @@
     "de": "https://www.zercy.app/blog/48-stunden-barcelona",
     "en": "https://www.zercy.app/en/blog/48-hours-barcelona",
     "es": "https://www.zercy.app/es/blog/48-horas-barcelona"
+  },
+  "48-stunden-dublin": {
+    "de": "https://www.zercy.app/blog/48-stunden-dublin",
+    "en": "https://www.zercy.app/en/blog/48-hours-dublin",
+    "es": "https://www.zercy.app/es/blog/48-horas-dublin"
+  },
+  "48-hours-dublin": {
+    "de": "https://www.zercy.app/blog/48-stunden-dublin",
+    "en": "https://www.zercy.app/en/blog/48-hours-dublin",
+    "es": "https://www.zercy.app/es/blog/48-horas-dublin"
+  },
+  "48-horas-dublin": {
+    "de": "https://www.zercy.app/blog/48-stunden-dublin",
+    "en": "https://www.zercy.app/en/blog/48-hours-dublin",
+    "es": "https://www.zercy.app/es/blog/48-horas-dublin"
   },
   "48-stunden-istanbul": {
     "de": "https://www.zercy.app/blog/48-stunden-istanbul",
@@ -29,6 +59,66 @@
     "en": "https://www.zercy.app/en/blog/48-hours-istanbul",
     "es": "https://www.zercy.app/es/blog/48-horas-estambul"
   },
+  "48-stunden-lissabon": {
+    "de": "https://www.zercy.app/blog/48-stunden-lissabon",
+    "en": "https://www.zercy.app/en/blog/48-hours-lisbon",
+    "es": "https://www.zercy.app/es/blog/48-horas-lisboa"
+  },
+  "48-hours-lisbon": {
+    "de": "https://www.zercy.app/blog/48-stunden-lissabon",
+    "en": "https://www.zercy.app/en/blog/48-hours-lisbon",
+    "es": "https://www.zercy.app/es/blog/48-horas-lisboa"
+  },
+  "48-horas-lisboa": {
+    "de": "https://www.zercy.app/blog/48-stunden-lissabon",
+    "en": "https://www.zercy.app/en/blog/48-hours-lisbon",
+    "es": "https://www.zercy.app/es/blog/48-horas-lisboa"
+  },
+  "48-stunden-new-york": {
+    "de": "https://www.zercy.app/blog/48-stunden-new-york",
+    "en": "https://www.zercy.app/en/blog/48-hours-new-york",
+    "es": "https://www.zercy.app/es/blog/48-horas-nueva-york"
+  },
+  "48-hours-new-york": {
+    "de": "https://www.zercy.app/blog/48-stunden-new-york",
+    "en": "https://www.zercy.app/en/blog/48-hours-new-york",
+    "es": "https://www.zercy.app/es/blog/48-horas-nueva-york"
+  },
+  "48-horas-nueva-york": {
+    "de": "https://www.zercy.app/blog/48-stunden-new-york",
+    "en": "https://www.zercy.app/en/blog/48-hours-new-york",
+    "es": "https://www.zercy.app/es/blog/48-horas-nueva-york"
+  },
+  "48-stunden-paris": {
+    "de": "https://www.zercy.app/blog/48-stunden-paris",
+    "en": "https://www.zercy.app/en/blog/48-hours-paris",
+    "es": "https://www.zercy.app/es/blog/48-horas-paris"
+  },
+  "48-hours-paris": {
+    "de": "https://www.zercy.app/blog/48-stunden-paris",
+    "en": "https://www.zercy.app/en/blog/48-hours-paris",
+    "es": "https://www.zercy.app/es/blog/48-horas-paris"
+  },
+  "48-horas-paris": {
+    "de": "https://www.zercy.app/blog/48-stunden-paris",
+    "en": "https://www.zercy.app/en/blog/48-hours-paris",
+    "es": "https://www.zercy.app/es/blog/48-horas-paris"
+  },
+  "48-stunden-prag": {
+    "de": "https://www.zercy.app/blog/48-stunden-prag",
+    "en": "https://www.zercy.app/en/blog/48-hours-prague",
+    "es": "https://www.zercy.app/es/blog/48-horas-praga"
+  },
+  "48-hours-prague": {
+    "de": "https://www.zercy.app/blog/48-stunden-prag",
+    "en": "https://www.zercy.app/en/blog/48-hours-prague",
+    "es": "https://www.zercy.app/es/blog/48-horas-praga"
+  },
+  "48-horas-praga": {
+    "de": "https://www.zercy.app/blog/48-stunden-prag",
+    "en": "https://www.zercy.app/en/blog/48-hours-prague",
+    "es": "https://www.zercy.app/es/blog/48-horas-praga"
+  },
   "48-stunden-rom": {
     "de": "https://www.zercy.app/blog/48-stunden-rom",
     "en": "https://www.zercy.app/en/blog/48-hours-rome",
@@ -43,6 +133,66 @@
     "de": "https://www.zercy.app/blog/48-stunden-rom",
     "en": "https://www.zercy.app/en/blog/48-hours-rome",
     "es": "https://www.zercy.app/es/blog/48-horas-roma"
+  },
+  "48-stunden-seoul": {
+    "de": "https://www.zercy.app/blog/48-stunden-seoul",
+    "en": "https://www.zercy.app/en/blog/48-hours-seoul",
+    "es": "https://www.zercy.app/es/blog/48-horas-seul"
+  },
+  "48-hours-seoul": {
+    "de": "https://www.zercy.app/blog/48-stunden-seoul",
+    "en": "https://www.zercy.app/en/blog/48-hours-seoul",
+    "es": "https://www.zercy.app/es/blog/48-horas-seul"
+  },
+  "48-horas-seul": {
+    "de": "https://www.zercy.app/blog/48-stunden-seoul",
+    "en": "https://www.zercy.app/en/blog/48-hours-seoul",
+    "es": "https://www.zercy.app/es/blog/48-horas-seul"
+  },
+  "48-stunden-singapur": {
+    "de": "https://www.zercy.app/blog/48-stunden-singapur",
+    "en": "https://www.zercy.app/en/blog/48-hours-singapore",
+    "es": "https://www.zercy.app/es/blog/48-horas-singapur"
+  },
+  "48-hours-singapore": {
+    "de": "https://www.zercy.app/blog/48-stunden-singapur",
+    "en": "https://www.zercy.app/en/blog/48-hours-singapore",
+    "es": "https://www.zercy.app/es/blog/48-horas-singapur"
+  },
+  "48-horas-singapur": {
+    "de": "https://www.zercy.app/blog/48-stunden-singapur",
+    "en": "https://www.zercy.app/en/blog/48-hours-singapore",
+    "es": "https://www.zercy.app/es/blog/48-horas-singapur"
+  },
+  "48-stunden-tokio": {
+    "de": "https://www.zercy.app/blog/48-stunden-tokio",
+    "en": "https://www.zercy.app/en/blog/48-hours-tokyo",
+    "es": "https://www.zercy.app/es/blog/48-horas-tokio"
+  },
+  "48-hours-tokyo": {
+    "de": "https://www.zercy.app/blog/48-stunden-tokio",
+    "en": "https://www.zercy.app/en/blog/48-hours-tokyo",
+    "es": "https://www.zercy.app/es/blog/48-horas-tokio"
+  },
+  "48-horas-tokio": {
+    "de": "https://www.zercy.app/blog/48-stunden-tokio",
+    "en": "https://www.zercy.app/en/blog/48-hours-tokyo",
+    "es": "https://www.zercy.app/es/blog/48-horas-tokio"
+  },
+  "48-stunden-wien": {
+    "de": "https://www.zercy.app/blog/48-stunden-wien",
+    "en": "https://www.zercy.app/en/blog/48-hours-vienna",
+    "es": "https://www.zercy.app/es/blog/48-horas-viena"
+  },
+  "48-hours-vienna": {
+    "de": "https://www.zercy.app/blog/48-stunden-wien",
+    "en": "https://www.zercy.app/en/blog/48-hours-vienna",
+    "es": "https://www.zercy.app/es/blog/48-horas-viena"
+  },
+  "48-horas-viena": {
+    "de": "https://www.zercy.app/blog/48-stunden-wien",
+    "en": "https://www.zercy.app/en/blog/48-hours-vienna",
+    "es": "https://www.zercy.app/es/blog/48-horas-viena"
   },
   "aegypten-reiseguide-highlights": {
     "de": "https://www.zercy.app/blog/aegypten-reiseguide-highlights",

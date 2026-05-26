@@ -5,7 +5,7 @@ description: "Du hast 48 Stunden in Rom und willst nicht nur Kolosseum und Trevi
 pubDate: 2026-04-28
 category: "Fernweh"
 readingTime: 7
-heroImage: "/img/blog/rome.jpg"
+heroImage: "/img/blog/rome-48h.jpg"
 bookingDest: "Rome"
 ---
 

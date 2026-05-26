@@ -5,7 +5,7 @@ description: "You have 48 hours in Rome and want more than just the Colosseum an
 pubDate: 2026-04-28
 category: "Off the Map"
 readingTime: 7
-heroImage: "/img/blog/rome.jpg"
+heroImage: "/img/blog/rome-48h.jpg"
 bookingDest: "Rome"
 ---
 

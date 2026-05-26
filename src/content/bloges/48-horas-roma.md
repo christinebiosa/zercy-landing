@@ -5,7 +5,7 @@ description: "¿Qué ver en Roma en 2 días? El Coliseo, el Vaticano, Trastevere
 pubDate: 2026-05-08
 category: "En camino"
 readingTime: 7
-heroImage: "/img/blog/rome.jpg"
+heroImage: "/img/blog/rome-48h.jpg"
 ---
 
 Roma necesita semanas para verse bien. Pero si solo tienes 48 horas, hay una forma de ver lo esencial sin la sensación de que estás corriendo de un monumento a otro. La clave es priorizar, comprar entradas con antelación y comer bien. En Roma, comer bien es casi obligatorio.

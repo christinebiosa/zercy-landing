@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx vercel *)",
+      "Bash(npx astro *)",
+      "Bash(node scripts/*)",
+      "Bash(curl -sI *)",
+      "Bash(curl -s -o /dev/null *)",
+      "Bash(curl -s *)",
+      "Bash(open *)",
+      "Bash(pbcopy)",
+      "Bash(wc -l *)",
+      "Bash(wc -w *)",
+      "mcp__google-workspace__get_doc_as_markdown",
+      "mcp__google-workspace__get_doc_content",
+      "mcp__google-workspace__inspect_doc_structure",
+      "mcp__google-workspace__debug_table_structure",
+      "mcp__google-workspace__search_drive_files",
+      "mcp__google-workspace__read_sheet_values",
+      "mcp__google-workspace__get_drive_file_download_url",
+      "mcp__google-workspace__list_drive_items"
+    ]
+  }
+}
