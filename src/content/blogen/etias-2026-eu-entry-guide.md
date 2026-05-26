@@ -12,6 +12,8 @@ You've booked your flights to Europe. Hotel sorted. Maybe even a few restaurants
 
 You haven't missed anything yet. ETIAS is not a visa. It's a digital travel authorization you apply for online before your trip. Fast, cheap, and straightforward. Here's everything you need to know.
 
+**One thing upfront:** ETIAS is not yet in effect. The launch date has been postponed multiple times since the original 2022 target. The current window is somewhere in 2026 or 2027, but no confirmed start date exists. Before planning your trip, check the [official EU ETIAS website](https://travel-europe.europa.eu/etias_en) for the latest status.
+
 ## What is ETIAS and why is the EU introducing it?
 
 ETIAS stands for European Travel Information and Authorisation System. The EU is rolling it out to strengthen the security of the Schengen Area without ending visa-free travel for visitors from eligible countries.

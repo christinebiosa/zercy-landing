@@ -12,6 +12,8 @@ Du planst eine Reise nach Europa. Flüge gebucht, Hotel reserviert, Koffer steht
 
 Keine Panik. ETIAS ist kein Visum. Es ist eine digitale Einreisegenehmigung, die online beantragt wird. Schnell, günstig, unkompliziert. Dieser Guide erklärt dir alles, was du wissen musst.
 
+**Wichtig vorab:** ETIAS ist noch nicht in Kraft. Der Starttermin wurde mehrfach verschoben, seit die EU das System ursprünglich für 2022 angekündigt hatte. Aktuell ist ein Zeitraum zwischen 2026 und 2027 im Gespräch, ein verbindliches Datum steht bislang noch aus. Den aktuellen Stand findest du direkt auf der [offiziellen EU-ETIAS-Seite](https://travel-europe.europa.eu/etias_en).
+
 ## Was ist ETIAS und warum wird es eingeführt?
 
 ETIAS steht für European Travel Information and Authorisation System. Die EU führt es ein, um den Schengen-Raum besser zu sichern, ohne den visafreien Reiseverkehr für Besucher aus bestimmten Ländern abzuschaffen.

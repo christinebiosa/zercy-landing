@@ -12,6 +12,8 @@ Ya tienes los vuelos reservados. El hotel confirmado. Quizás hasta tienes una l
 
 Tranquilo. No es un visado. Es una autorización de viaje digital que se solicita online antes de volar. Rápida, económica y sin complicaciones. En esta guía te explicamos todo lo que necesitas saber.
 
+**Importante antes de continuar:** El ETIAS todavía no está en vigor. La fecha de entrada en funcionamiento se ha aplazado en varias ocasiones desde el objetivo inicial de 2022. El período previsto ahora apunta a 2026 o 2027, pero no existe ninguna fecha oficial confirmada. Consulta el estado actual en la [web oficial del ETIAS de la UE](https://travel-europe.europa.eu/etias_en) antes de planificar tu viaje.
+
 ## ¿Qué es el ETIAS y por qué lo está implementando la UE?
 
 ETIAS son las siglas de European Travel Information and Authorisation System, es decir, el Sistema Europeo de Información y Autorización de Viajes. La Unión Europea lo pone en marcha para reforzar la seguridad del espacio Schengen sin eliminar la entrada sin visado para los ciudadanos de los países elegibles.
