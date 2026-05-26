@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Hong Kong: dónde alojarse 2026"
 metaTitle: "Mejores hoteles Hong Kong: Dónde alojarse 2026 | Zercy"
-description: "¿Dónde alojarse en Hong Kong? Tsim Sha Tsui para lo central, Central para negocios, Causeway Bay para compras. Hoteles recomendados y precios por zona."
+description: "¿Dónde alojarse en Hong Kong? Tsim Sha Tsui para lo central, Central para negocios, Causeway Bay para compras. Hoteles recomendados y precios por zona. Guía honesta para cada viajero."
 pubDate: 2026-05-08
 category: "Dónde alojarse"
 readingTime: 7

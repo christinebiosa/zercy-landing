@@ -1,7 +1,7 @@
 ---
 title: "Madeira Travel Guide: Hiking, Levadas and Eternal Spring on the Flower Island"
 metaTitle: "Madeira Travel Guide 2026: Hiking, Tips & Timing | Zercy"
-description: "Madeira travel guide 2026: Funchal, levada hikes, Pico do Arieiro, Porto Moniz natural pools and practical tips for your Madeira holiday year-round."
+description: "Madeira travel guide 2026: Funchal, levada hikes, Pico do Arieiro, Porto Moniz natural pools and practical tips for your Madeira holiday year-round. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

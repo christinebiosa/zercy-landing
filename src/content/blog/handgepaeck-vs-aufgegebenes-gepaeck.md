@@ -1,7 +1,7 @@
 ---
 title: "Handgepäck vs. aufgegebenes Gepäck: Was lohnt sich wann?"
 metaTitle: "Handgepäck vs. Koffer: Kosten & Tipps 2026 | Zercy"
-description: "Ryanair, easyJet, Lufthansa: Gepäckgebühren 2026 im Vergleich. Wann lohnt sich nur Handgepäck, wann braucht man den Koffer wirklich?"
+description: "Ryanair, easyJet, Lufthansa: Gepäckgebühren 2026 im Vergleich. Wann lohnt sich nur Handgepäck, wann braucht man den Koffer wirklich? Ehrlicher Vergleich mit echten Zahlen."
 pubDate: 2026-05-09
 category: "Nur mit Handgepäck"
 readingTime: 5

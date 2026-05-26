@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Edinburgh: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Edinburgh: Wo übernachten 2026 | Zercy"
-description: "Edinburgh hat 4 sehr unterschiedliche Stadtteile: Old Town Burg, New Town Georgian, Stockbridge Hipster, Leith Hafen. Welcher passt zu deiner Schottland-Reise?"
+description: "Edinburgh hat 4 sehr unterschiedliche Stadtteile: Old Town Burg, New Town Georgian, Stockbridge Hipster, Leith Hafen. Welcher passt zu deiner Schottland-Reise? Top-Hotels für jedes Budget."
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7

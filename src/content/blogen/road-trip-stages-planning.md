@@ -1,7 +1,7 @@
 ---
 title: "Road Trip Planning: How Long Should a Daily Stage Be?"
 metaTitle: "Road Trip Stages: The Right Daily Length | Zercy"
-description: "You're planning a road trip and don't know how much to drive per day? The answer depends on route, stops and your recovery goal. How to find the right balance."
+description: "You're planning a road trip and don't know how much to drive per day? The answer depends on route, stops and your recovery goal. How to find the right balance. Everything you need to know."
 pubDate: 2026-04-28
 category: "On the Move"
 readingTime: 7

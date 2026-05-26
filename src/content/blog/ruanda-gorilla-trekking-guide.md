@@ -1,7 +1,7 @@
 ---
 title: "Ruanda Gorilla Trekking: Der ehrliche Guide für dein Erlebnis"
 metaTitle: "Ruanda Gorilla Trekking Guide 2026: Kosten & Tipps | Zercy"
-description: "Berggorilla-Trekking im Volcanoes National Park, Kigali und Nyungwe Forest: der ehrliche Guide für Ruanda mit Kosten, Permit-Infos und Reisezeit."
+description: "Berggorilla-Trekking im Volcanoes National Park, Kigali und Nyungwe Forest: der ehrliche Guide für Ruanda mit Kosten, Permit-Infos und Reisezeit. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

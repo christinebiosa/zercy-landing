@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Melbourne: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Melbourne: Wo übernachten 2026 | Zercy"
-description: "Melbourne hat 5 Stadtteile für jeden Reisetypus: CBD, Fitzroy, St Kilda, Southbank und Carlton. Hier die ehrliche Übersicht mit Preisen und Hotel-Empfehlungen."
+description: "Melbourne hat 5 Stadtteile für jeden Reisetypus: CBD, Fitzroy, St Kilda, Southbank und Carlton. Hier die ehrliche Übersicht mit Preisen und Hotel-Empfehlungen. Top-Hotels für jedes Budget."
 pubDate: 2026-05-10
 category: "Wo übernachten"
 readingTime: 7

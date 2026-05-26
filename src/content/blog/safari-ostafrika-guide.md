@@ -1,7 +1,7 @@
 ---
 title: "Safari in Ostafrika planen: Der ehrliche Guide für 2026"
 metaTitle: "Safari Ostafrika 2026: Ehrlicher Planungs-Guide | Zercy"
-description: "Masai Mara, Serengeti, Gorilla-Trekking in Uganda: Kosten, Reisezeit, Camp vs. Lodge und was Safari-Prospekte nicht erzählen. Der ehrliche Guide für 2026."
+description: "Masai Mara, Serengeti, Gorilla-Trekking in Uganda: Kosten, Reisezeit, Camp vs. Lodge und was Safari-Prospekte nicht erzählen. Der ehrliche Guide für 2026. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-11
 category: "Fernweh"
 readingTime: 8

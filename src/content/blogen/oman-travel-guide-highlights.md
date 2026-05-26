@@ -1,7 +1,7 @@
 ---
 title: "Oman Travel Guide: Desert, Fjords, and the Soul of Arabia"
 metaTitle: "Oman Travel Guide 2026: Desert, Fjords & Tips | Zercy"
-description: "Oman travel guide 2026: Muscat, Wahiba Sands, Wadi Shams, and Musandam. Best travel season, no visa for EU, rental car tips, and highlights for your Oman trip."
+description: "Oman travel guide 2026: Muscat, Wahiba Sands, Wadi Shams, and Musandam. Best travel season, no visa for EU, rental car tips, and highlights for your Oman trip. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

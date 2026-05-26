@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en San Sebastián: Dónde alojarse por barrio 2026"
 metaTitle: "Hoteles San Sebastián 2026: Dónde alojarse | Zercy"
-description: "San Sebastián hoteles 2026: Parte Vieja para bares de pintxos, La Concha para lujo frente al mar, Gros para surfers y locales. Barrios, picks y precios 2026."
+description: "San Sebastián hoteles 2026: Parte Vieja para bares de pintxos, La Concha para lujo frente al mar, Gros para surfers y locales. Barrios, picks y precios 2026. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

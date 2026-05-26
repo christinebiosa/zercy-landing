@@ -1,7 +1,7 @@
 ---
 title: "Canary Islands Comparison: Which Island Is Right for You?"
 metaTitle: "Canary Islands Comparison 2026: Which to Choose? | Zercy"
-description: "Canary Islands comparison 2026: Tenerife, Lanzarote, Gran Canaria, Fuerteventura, La Palma, La Gomera and El Hierro. Which island matches your travel style?"
+description: "Canary Islands comparison 2026: Tenerife, Lanzarote, Gran Canaria, Fuerteventura, La Palma, La Gomera and El Hierro. Which island matches your travel style? Honest comparison with real numbers."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

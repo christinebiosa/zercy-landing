@@ -1,7 +1,7 @@
 ---
 title: "Apulia: la guía del sur de Italia que se come a Toscana"
 metaTitle: "Apulia (Puglia) 2026: qué ver, cuándo ir y dónde comer | Zercy"
-description: "Apulia tiene los trulli de Alberobello, la costa más blanca de Italia, la burrata más fresca del mundo y mucho menos turismo que el norte. La guía completa."
+description: "Apulia tiene los trulli de Alberobello, la costa más blanca de Italia, la burrata más fresca del mundo y mucho menos turismo que el norte. La guía completa. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Joyas ocultas"
 readingTime: 7

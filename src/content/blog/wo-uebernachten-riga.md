@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Riga: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Riga: Wo übernachten 2026 | Zercy"
-description: "Riga hat 5 Stadtteile: Vecrīga UNESCO-Altstadt, Centrs Jugendstil, Āgenskalns ruhig lokal, Klusais Centrs elegant, Teika modern günstig. Finde deinen Fit."
+description: "Riga hat 5 Stadtteile: Vecrīga UNESCO-Altstadt, Centrs Jugendstil, Āgenskalns ruhig lokal, Klusais Centrs elegant, Teika modern günstig. Finde deinen Fit. Top-Hotels für jedes Budget."
 pubDate: 2026-05-11
 category: "Wo übernachten"
 readingTime: 7

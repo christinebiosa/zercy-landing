@@ -1,7 +1,7 @@
 ---
 title: "Sudeste Asiático con poco presupuesto: la guía honesta 2026"
 metaTitle: "Sudeste Asiático con poco presupuesto: guía 2026 | Zercy"
-description: "Tailandia, Vietnam, Camboya, Bali: costos reales por día, las mejores rutas y qué cuesta más de lo esperado. La guía de presupuesto honesta sin maquillaje."
+description: "Tailandia, Vietnam, Camboya, Bali: costos reales por día, las mejores rutas y qué cuesta más de lo esperado. La guía de presupuesto honesta sin maquillaje. Todo lo que necesitas saber."
 pubDate: 2026-05-11
 category: "Viaje inteligente"
 readingTime: 7

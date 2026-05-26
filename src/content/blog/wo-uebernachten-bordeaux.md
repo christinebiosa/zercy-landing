@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Bordeaux: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Bordeaux: Wo übernachten 2026 | Zercy"
-description: "Bordeaux hat 5 sehr unterschiedliche Stadtteile. Saint-Pierre, Chartrons, Saint-Michel, Triangle d'Or und Bastide: Welcher Stadtteil passt zu deiner Weinreise?"
+description: "Bordeaux hat 5 sehr unterschiedliche Stadtteile. Saint-Pierre, Chartrons, Saint-Michel, Triangle d'Or und Bastide: Welcher Stadtteil passt zu deiner Weinreise? Top-Hotels für jedes Budget."
 pubDate: 2026-05-11
 category: "Wo übernachten"
 readingTime: 7

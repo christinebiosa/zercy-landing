@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Mombasa: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Mombasa 2026: Where to Stay | Zercy"
-description: "Mombasa hotels 2026: Nyali beaches, the historic Old Town and Diani compared. Best neighborhoods, real hotel picks and tips for your Kenya coast stay."
+description: "Mombasa hotels 2026: Nyali beaches, the historic Old Town and Diani compared. Best neighborhoods, real hotel picks and tips for your Kenya coast stay. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

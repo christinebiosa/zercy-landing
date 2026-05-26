@@ -1,7 +1,7 @@
 ---
 title: "Campervan Urlaub Europa: Was du wirklich wissen musst 2026"
 metaTitle: "Campervan Urlaub Europa: Was du wissen musst 2026 | Zercy"
-description: "Campervan mieten oder kaufen? Beste Routen, Wildcamping-Regeln, echte Kosten und was du einpacken musst. Der ehrliche Guide für Campervans in Europa 2026."
+description: "Campervan mieten oder kaufen? Beste Routen, Wildcamping-Regeln, echte Kosten und was du einpacken musst. Der ehrliche Guide für Campervans in Europa 2026. Alles was du wissen musst."
 pubDate: 2026-05-11
 category: "Clever Reisen"
 readingTime: 8

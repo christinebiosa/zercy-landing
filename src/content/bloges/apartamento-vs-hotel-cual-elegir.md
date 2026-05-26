@@ -1,7 +1,7 @@
 ---
 title: "¿Apartamento en Booking.com o Airbnb? Cuál elegir en 2026"
 metaTitle: "Apartamento en Booking.com vs Airbnb: ¿Cuál elegir? | Zercy"
-description: "¿Booking.com o Airbnb para tu próximo viaje? Comparamos precios, cancelaciones y reseñas. Guía clara para saber qué plataforma conviene según el tipo de viaje."
+description: "¿Booking.com o Airbnb para tu próximo viaje? Comparamos precios, cancelaciones y reseñas. Guía clara para saber qué plataforma conviene según el tipo de viaje. Comparativa honesta con datos reales."
 pubDate: 2026-05-08
 category: "Viaje inteligente"
 readingTime: 6

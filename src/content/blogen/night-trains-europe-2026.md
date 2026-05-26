@@ -1,7 +1,7 @@
 ---
 title: "Night Trains in Europe 2026: Best Routes, Prices, and How to Book"
 metaTitle: "Night Trains Europe 2026: Routes & Prices | Zercy"
-description: "Night trains are back across Europe. The best sleeper routes for 2026, what they cost, comfort classes explained, and how to book the cheapest tickets."
+description: "Night trains are back across Europe. The best sleeper routes for 2026, what they cost, comfort classes explained, and how to book the cheapest tickets. Everything you need to know."
 pubDate: 2026-04-04
 category: "Travel Green"
 readingTime: 7

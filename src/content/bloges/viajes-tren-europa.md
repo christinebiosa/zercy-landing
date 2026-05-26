@@ -1,7 +1,7 @@
 ---
 title: "Viajar en tren por Europa: la guía completa para 2026"
 metaTitle: "Trenes en Europa 2026: rutas, precios y consejos | Zercy"
-description: "Cómo viajar por Europa en tren en 2026. Interrail, Eurail, trenes de alta velocidad, reservas y las rutas más espectaculares del continente."
+description: "Cómo viajar por Europa en tren en 2026. Interrail, Eurail, trenes de alta velocidad, reservas y las rutas más espectaculares del continente. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "En camino"
 readingTime: 7

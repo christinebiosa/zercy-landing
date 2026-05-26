@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Bogotá: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Bogotá: Where to Stay 2026 | Zercy"
-description: "Bogotá has 4 very different neighborhoods: Candelaria old town, Chapinero hip, Zona Rosa premium, Usaquén slow. Which fits your Colombia trip best?"
+description: "Bogotá has 4 very different neighborhoods: Candelaria old town, Chapinero hip, Zona Rosa premium, Usaquén slow. Which fits your Colombia trip best? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

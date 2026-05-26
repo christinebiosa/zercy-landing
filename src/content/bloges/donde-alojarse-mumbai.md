@@ -1,7 +1,7 @@
 ---
 title: "Mejores hoteles en Bombay: Dónde alojarse en cada barrio 2026"
 metaTitle: "Hoteles Mumbai: Dónde alojarse 2026 | Zercy"
-description: "Mumbai tiene 5 barrios muy distintos: Colaba para turistas, Bandra moderno, Juhu en la playa, Lower Parel para negocios, Andheri cerca del aeropuerto."
+description: "Mumbai tiene 5 barrios muy distintos: Colaba para turistas, Bandra moderno, Juhu en la playa, Lower Parel para negocios, Andheri cerca del aeropuerto. Guía honesta para cada viajero."
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7

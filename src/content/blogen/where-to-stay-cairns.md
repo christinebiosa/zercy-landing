@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Cairns: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Cairns 2026: Where to Stay in Cairns | Zercy"
-description: "Cairns hotels 2026: CBD, Palm Cove or Port Douglas? Best neighborhoods, top hotel picks and tips for your Great Barrier Reef Australia adventure."
+description: "Cairns hotels 2026: CBD, Palm Cove or Port Douglas? Best neighborhoods, top hotel picks and tips for your Great Barrier Reef Australia adventure. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

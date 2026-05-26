@@ -1,7 +1,7 @@
 ---
 title: "Campervan Europe: What You Really Need to Know 2026"
 metaTitle: "Campervan Europe: What You Really Need to Know 2026 | Zercy"
-description: "Rent or buy a campervan? Best European routes, wild camping rules by country, real costs, and what to pack. The honest campervan guide for Europe 2026."
+description: "Rent or buy a campervan? Best European routes, wild camping rules by country, real costs, and what to pack. The honest campervan guide for Europe 2026. Everything you need to plan your trip."
 pubDate: 2026-05-11
 category: "Smart Travel"
 readingTime: 8

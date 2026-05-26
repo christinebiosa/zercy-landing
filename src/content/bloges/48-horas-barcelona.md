@@ -1,7 +1,7 @@
 ---
 title: "48 horas en Barcelona: el itinerario que realmente funciona"
 metaTitle: "48 horas en Barcelona: Gaudí, Gótico y playas 2026 | Zercy"
-description: "Qué ver en Barcelona en 2 días: Sagrada Família, Park Güell, Barrio Gótico y La Barceloneta. Horarios, precios de entradas, transporte y dónde comer bien."
+description: "Qué ver en Barcelona en 2 días: Sagrada Família, Park Güell, Barrio Gótico y La Barceloneta. Horarios, precios de entradas, transporte y dónde comer bien. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7

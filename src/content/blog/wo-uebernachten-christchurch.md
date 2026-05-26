@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Christchurch: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Christchurch 2026: Wo übernachten in welchem Viertel | Zercy"
-description: "Christchurch Hotels 2026: City Centre, Riccarton oder Sumner? Die besten Lagen, Top-Hotel-Picks und Tipps für deinen Neuseeland-Aufenthalt."
+description: "Christchurch Hotels 2026: City Centre, Riccarton oder Sumner? Die besten Lagen, Top-Hotel-Picks und Tipps für deinen Neuseeland-Aufenthalt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

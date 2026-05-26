@@ -1,7 +1,7 @@
 ---
 title: "Madrid in 24 Stunden: Der perfekte Städtetrip"
 metaTitle: "Madrid in 24 Stunden: Perfekter Städtetrip | Zercy"
-description: "Madrid in nur einem Tag? Kein Problem. Der perfekte 24-Stunden-Plan: Prado, Retiro, Tapas in La Latina und echte Insider-Tipps für den ultimativen Städtetrip."
+description: "Madrid in nur einem Tag? Kein Problem. Der perfekte 24-Stunden-Plan: Prado, Retiro, Tapas in La Latina und echte Insider-Tipps für den ultimativen Städtetrip. Alles was du wissen musst."
 pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 7

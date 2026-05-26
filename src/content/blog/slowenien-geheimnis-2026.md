@@ -1,7 +1,7 @@
 ---
 title: "Slowenien: Europas grünes Geheimnis 2026"
 metaTitle: "Slowenien Reise: Europas grünes Geheimnis 2026 | Zercy"
-description: "Slowenien zwischen Alpen, Karst und Adria. Bled, Bohinj, Ljubljana, Triglav-Park, Piran. Eine Woche durch das vielleicht abwechslungsreichste Land Europas."
+description: "Slowenien zwischen Alpen, Karst und Adria. Bled, Bohinj, Ljubljana, Triglav-Park, Piran. Eine Woche durch das vielleicht abwechslungsreichste Land Europas. Alles was du wissen musst."
 pubDate: 2026-05-07
 category: "Geheimtipps"
 readingTime: 7

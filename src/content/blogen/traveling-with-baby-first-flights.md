@@ -1,7 +1,7 @@
 ---
 title: "Traveling with Baby: First Flights with Kids Without Drama"
 metaTitle: "Traveling with Baby: First Flights 2026 | Zercy"
-description: "First flight with baby? Here are the honest tips that actually work. From what age, what to pack, how to book, and what you need at the airport."
+description: "First flight with baby? Here are the honest tips that actually work. From what age, what to pack, how to book, and what you need at the airport. Everything you need to know."
 pubDate: 2026-05-07
 category: "Travel Tips"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Schweden Reiseguide: Stockholm, Lappland und das Beste des Nordens"
 metaTitle: "Schweden Reiseguide 2026: Stockholm und Highlights | Zercy"
-description: "Schweden entdecken: Stockholm mit Gamla Stan und Vasa-Museum, Lappland mit Nordlichtern, Göteborg als Foodie-Stadt. Reisezeit, Kosten und die besten Tipps."
+description: "Schweden entdecken: Stockholm mit Gamla Stan und Vasa-Museum, Lappland mit Nordlichtern, Göteborg als Foodie-Stadt. Reisezeit, Kosten und die besten Tipps. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

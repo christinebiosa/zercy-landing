@@ -1,7 +1,7 @@
 ---
 title: "Uzbekistán: Guía de la Ruta de la Seda por Samarcanda y más"
 metaTitle: "Uzbekistán Ruta de la Seda 2026: Samarcanda & Guía | Zercy"
-description: "Uzbekistán guía de viaje 2026: Samarcanda, Bujará, Jiva y Taskent. Visa electrónica, tren de alta velocidad Afrosiyob, mejor temporada y costos para tu viaje."
+description: "Uzbekistán guía de viaje 2026: Samarcanda, Bujará, Jiva y Taskent. Visa electrónica, tren de alta velocidad Afrosiyob, mejor temporada y costos para tu viaje. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

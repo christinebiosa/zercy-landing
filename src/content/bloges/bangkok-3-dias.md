@@ -1,7 +1,7 @@
 ---
 title: "Bangkok en 3 días: el itinerario perfecto para tu primera visita"
 metaTitle: "Bangkok en 3 días: itinerario completo para viajeros | Zercy"
-description: "¿Qué ver en Bangkok en 3 días? Templos, mercados, comida callejera y el río Chao Phraya. El itinerario sin estrés para aprovechar al máximo tu tiempo."
+description: "¿Qué ver en Bangkok en 3 días? Templos, mercados, comida callejera y el río Chao Phraya. El itinerario sin estrés para aprovechar al máximo tu tiempo. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7

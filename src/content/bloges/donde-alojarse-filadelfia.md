@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Filadelfia: Dónde alojarse por barrio 2026"
 metaTitle: "Hoteles Filadelfia 2026: Dónde alojarse | Zercy"
-description: "Filadelfia hoteles 2026: Center City para primeras visitas, Old City para historia, Rittenhouse Square para gastronomía. Mejores barrios, picks y consejos."
+description: "Filadelfia hoteles 2026: Center City para primeras visitas, Old City para historia, Rittenhouse Square para gastronomía. Mejores barrios, picks y consejos. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

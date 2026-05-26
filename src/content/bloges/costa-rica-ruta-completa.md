@@ -1,7 +1,7 @@
 ---
 title: "Costa Rica: la ruta completa por el país en 2 semanas"
 metaTitle: "Costa Rica 2026: ruta de 2 semanas, parques y consejos | Zercy"
-description: "La ruta ideal por Costa Rica en 14 días. Arenal, Monteverde, Manuel Antonio, Tortuguero y las playas del Pacífico. Itinerario completo con tiempos y consejos."
+description: "La ruta ideal por Costa Rica en 14 días. Arenal, Monteverde, Manuel Antonio, Tortuguero y las playas del Pacífico. Itinerario completo con tiempos y consejos. Todo lo que necesitas para planificar."
 pubDate: 2026-05-08
 category: "Lugares lejanos"
 readingTime: 8

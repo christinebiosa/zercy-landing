@@ -1,7 +1,7 @@
 ---
 title: "Cómo viajar solo con equipaje de mano: guía completa 2026"
 metaTitle: "Viajar solo con equipaje de mano: guía completa 2026 | Zercy"
-description: "Cómo viajar sin maleta facturada: qué llevar, qué dejar, cómo organizar la ropa y ahorrar tiempo y dinero en cada viaje. Guía práctica actualizada."
+description: "Cómo viajar sin maleta facturada: qué llevar, qué dejar, cómo organizar la ropa y ahorrar tiempo y dinero en cada viaje. Guía práctica actualizada. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Solo equipaje de mano"
 readingTime: 7

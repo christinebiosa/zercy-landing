@@ -1,7 +1,7 @@
 ---
 title: "Tanzania: Guía de viaje con Serengeti, Ngorongoro y Kilimanjaro"
 metaTitle: "Tanzania Guía de Viaje 2026: Safari y Highlights | Zercy"
-description: "Serengeti, Cráter de Ngorongoro, Kilimanjaro y Zanzíbar: los mejores highlights de Tanzania y todo lo que necesitas para planificar tu viaje en 2026."
+description: "Serengeti, Cráter de Ngorongoro, Kilimanjaro y Zanzíbar: los mejores highlights de Tanzania y todo lo que necesitas para planificar tu viaje en 2026. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

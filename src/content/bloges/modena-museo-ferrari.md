@@ -1,7 +1,7 @@
 ---
 title: "Módena y el Museo Ferrari: el viaje para los que aman los coches"
 metaTitle: "Módena y Museo Ferrari 2026: guía completa para visitarlo | Zercy"
-description: "Módena tiene el Museo Ferrari en Maranello, el Museo Lamborghini en Sant'Agata y la mejor gastronomía de Emilia-Romaña. La guía para el viaje perfecto."
+description: "Módena tiene el Museo Ferrari en Maranello, el Museo Lamborghini en Sant'Agata y la mejor gastronomía de Emilia-Romaña. La guía para el viaje perfecto. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Joyas ocultas"
 readingTime: 7

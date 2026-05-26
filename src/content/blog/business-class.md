@@ -1,7 +1,7 @@
 ---
 title: "Business Class: Wann sie sich wirklich lohnt — und wann nicht"
 metaTitle: "Business Class: Wann sie sich lohnt | Zercy"
-description: "Business Class ist teuer. Aber manchmal ist der Aufpreis kleiner als gedacht – und der Unterschied größer. Wann du upgraden solltest."
+description: "Business Class ist teuer. Aber manchmal ist der Aufpreis kleiner als gedacht – und der Unterschied größer. Wann du upgraden solltest. Alles was du wissen musst."
 pubDate: 2026-03-26
 category: "Business Travel"
 readingTime: 9

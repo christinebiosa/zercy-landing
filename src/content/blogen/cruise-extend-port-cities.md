@@ -1,7 +1,7 @@
 ---
 title: "Extend Your Cruise: Discover Port Cities Before and After"
 metaTitle: "Extend Your Cruise: Port City Stopovers | Zercy"
-description: "Your cruise leaves from Barcelona, Rome or Venice? Extend the trip in the port cities. Best pre- and post-cruise strategies and what's really worth your time."
+description: "Your cruise leaves from Barcelona, Rome or Venice? Extend the trip in the port cities. Best pre- and post-cruise strategies and what's really worth your time. Everything you need to know."
 pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 7

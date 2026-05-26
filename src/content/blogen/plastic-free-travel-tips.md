@@ -1,7 +1,7 @@
 ---
 title: "Plastic-Free Travel: 7 Real Tips That Actually Work"
 metaTitle: "Plastic-Free Travel: 7 Honest Tips 2026 | Zercy"
-description: "Plastic-free travel without sacrificing comfort? It works. 7 honest tips with concrete products, what really works and which greenwashing traps to avoid."
+description: "Plastic-free travel without sacrificing comfort? It works. 7 honest tips with concrete products, what really works and which greenwashing traps to avoid. Practical tips that actually work."
 pubDate: 2026-05-07
 category: "Travel Green"
 readingTime: 7

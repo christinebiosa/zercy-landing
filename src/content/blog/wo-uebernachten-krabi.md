@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Krabi: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Krabi 2026: Wo übernachten in welchem Viertel | Zercy"
-description: "Krabi Hotels 2026: Ao Nang, Railay Beach, Krabi Town oder Klong Muang. Die besten Gebiete, Top-Picks und Tipps für Thailands Felsenküste."
+description: "Krabi Hotels 2026: Ao Nang, Railay Beach, Krabi Town oder Klong Muang. Die besten Gebiete, Top-Picks und Tipps für Thailands Felsenküste. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

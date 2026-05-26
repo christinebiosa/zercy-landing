@@ -1,7 +1,7 @@
 ---
 title: "Consejos para vuelos baratos: cómo volar por menos en 2026"
 metaTitle: "Vuelos baratos: 12 consejos para pagar menos en 2026 | Zercy"
-description: "¿Cómo encontrar vuelos baratos? Cuándo buscar, qué aerolíneas comparar, cómo usar los buscadores. Estrategias reales para pagar menos en 2026."
+description: "¿Cómo encontrar vuelos baratos? Cuándo buscar, qué aerolíneas comparar, cómo usar los buscadores. Estrategias reales para pagar menos en 2026. Consejos prácticos que funcionan de verdad."
 pubDate: 2026-05-08
 category: "Consejos de viaje"
 readingTime: 7

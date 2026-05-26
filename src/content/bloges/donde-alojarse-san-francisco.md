@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en San Francisco: dónde alojarse 2026"
 metaTitle: "Mejores hoteles San Francisco: Dónde alojarse 2026 | Zercy"
-description: "¿Dónde alojarse en San Francisco? Union Square para lo central, Mission para ambiente, Fisherman's Wharf para vistas. Hoteles y precios reales por barrio."
+description: "¿Dónde alojarse en San Francisco? Union Square para lo central, Mission para ambiente, Fisherman's Wharf para vistas. Hoteles y precios reales por barrio. Guía honesta para cada viajero."
 pubDate: 2026-05-08
 category: "Dónde alojarse"
 readingTime: 7

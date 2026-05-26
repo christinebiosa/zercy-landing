@@ -1,7 +1,7 @@
 ---
 title: "Viajar con Gato en Europa: Lo que Realmente Necesitas Saber"
 metaTitle: "Viajar con Gato Europa 2026: Consejos y Reglas | Zercy"
-description: "Viajar con gato en Europa: pasaporte europeo de mascotas, transporte en tren y coche, hoteles pet-friendly, requisitos sanitarios y consejos prácticos 2026."
+description: "Viajar con gato en Europa: pasaporte europeo de mascotas, transporte en tren y coche, hoteles pet-friendly, requisitos sanitarios y consejos prácticos 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-14
 category: "Consejos de viaje"
 readingTime: 7

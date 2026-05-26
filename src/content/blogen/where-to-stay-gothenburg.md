@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Gothenburg: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Hotels Gothenburg 2026: Where to Stay by District | Zercy"
-description: "Gothenburg hotels 2026: Haga, Linnéstaden, Vasastan or Majorna? Best neighborhoods, top picks and tips for Sweden's second city."
+description: "Gothenburg hotels 2026: Haga, Linnéstaden, Vasastan or Majorna? Best neighborhoods, top picks and tips for Sweden's second city. All neighborhoods with honest advice."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

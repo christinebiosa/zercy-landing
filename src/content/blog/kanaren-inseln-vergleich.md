@@ -1,7 +1,7 @@
 ---
 title: "Kanaren Inseln Vergleich: Welche Insel passt zu wem?"
 metaTitle: "Kanaren Vergleich 2026: Welche Insel ist die Richtige? | Zercy"
-description: "Kanaren Inseln Vergleich 2026: Teneriffa, Lanzarote, Gran Canaria, Fuerteventura, La Palma, La Gomera und El Hierro. Welche Insel passt zu deinem Reisestil?"
+description: "Kanaren Inseln Vergleich 2026: Teneriffa, Lanzarote, Gran Canaria, Fuerteventura, La Palma, La Gomera und El Hierro. Welche Insel passt zu deinem Reisestil? Ehrlicher Vergleich mit echten Zahlen."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

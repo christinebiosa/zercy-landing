@@ -1,7 +1,7 @@
 ---
 title: "48 Hours in Istanbul: The Perfect Weekend Itinerary"
 metaTitle: "48 Hours in Istanbul: Weekend Itinerary | Zercy"
-description: "Istanbul in 48 hours: Hagia Sophia, Topkapi Palace, Grand Bazaar, Galata Tower, Bosphorus ferry and Kadıköy. Day 1 historic Istanbul, Day 2 modern Istanbul."
+description: "Istanbul in 48 hours: Hagia Sophia, Topkapi Palace, Grand Bazaar, Galata Tower, Bosphorus ferry and Kadıköy. Day 1 historic Istanbul, Day 2 modern Istanbul. Everything you need to know."
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 6

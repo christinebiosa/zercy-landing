@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Reykjavik: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Reykjavik Hotels: Where to Stay 2026 | Zercy"
-description: "101 Reykjavik or Laugardalur? The best hotels in Reykjavik by neighborhood. Where to sleep for northern lights, midnight sun, and Iceland ring road trips."
+description: "101 Reykjavik or Laugardalur? The best hotels in Reykjavik by neighborhood. Where to sleep for northern lights, midnight sun, and Iceland ring road trips. Honest picks for every budget."
 pubDate: 2026-05-09
 category: "Where to Stay"
 readingTime: 7

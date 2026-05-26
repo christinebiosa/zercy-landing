@@ -1,7 +1,7 @@
 ---
 title: "Checklist para alquilar un coche: lo que hay que verificar antes de firmar"
 metaTitle: "Checklist alquiler coche: qué revisar antes de firmar en 2026 | Zercy"
-description: "¿Qué verificar al alquilar un coche? Seguro, depósito, estado del vehículo y cláusulas ocultas. La checklist completa para no llevarse sorpresas al devolver."
+description: "¿Qué verificar al alquilar un coche? Seguro, depósito, estado del vehículo y cláusulas ocultas. La checklist completa para no llevarse sorpresas al devolver. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Viaje inteligente"
 readingTime: 6

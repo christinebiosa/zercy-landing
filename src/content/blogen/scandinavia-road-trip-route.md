@@ -1,7 +1,7 @@
 ---
 title: "Scandinavia Road Trip: The Best Route Through Norway, Sweden & Denmark"
 metaTitle: "Scandinavia Road Trip Route & Tips 2026 | Zercy"
-description: "Plan your Scandinavia road trip: fjords, midnight sun, Viking cities. Best route through Norway, Sweden and Denmark with realistic costs and practical tips."
+description: "Plan your Scandinavia road trip: fjords, midnight sun, Viking cities. Best route through Norway, Sweden and Denmark with realistic costs and practical tips. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

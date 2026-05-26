@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Tenerife: Dónde alojarse en cada zona 2026"
 metaTitle: "Hoteles Tenerife: Dónde alojarse 2026 | Zercy"
-description: "Tenerife tiene 5 zonas muy distintas: sur soleado, Costa Adeje lujosa, Puerto de la Cruz con carácter, Santa Cruz auténtica y El Médano para deportistas."
+description: "Tenerife tiene 5 zonas muy distintas: sur soleado, Costa Adeje lujosa, Puerto de la Cruz con carácter, Santa Cruz auténtica y El Médano para deportistas. Guía honesta para cada viajero."
 pubDate: 2026-05-11
 category: "Dónde alojarse"
 readingTime: 7

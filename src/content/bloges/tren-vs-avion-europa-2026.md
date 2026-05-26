@@ -1,7 +1,7 @@
 ---
 title: "Tren vs avión en Europa: cuándo sale a cuenta cada opción 2026"
 metaTitle: "Tren vs avión Europa 2026: cuándo es mejor cada opción | Zercy"
-description: "¿Tren o avión en Europa? Comparativa real de tiempo, precio, comodidad y CO2 para las rutas más populares. Con qué distancias gana cada opción en 2026."
+description: "¿Tren o avión en Europa? Comparativa real de tiempo, precio, comodidad y CO2 para las rutas más populares. Con qué distancias gana cada opción en 2026. Comparativa honesta con datos reales."
 pubDate: 2026-05-08
 category: "Consejos de viaje"
 readingTime: 7

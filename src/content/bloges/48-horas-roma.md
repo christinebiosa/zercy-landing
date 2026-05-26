@@ -1,7 +1,7 @@
 ---
 title: "48 horas en Roma: el itinerario perfecto para dos días"
 metaTitle: "Roma en 48 horas: itinerario para dos días sin agobios | Zercy"
-description: "¿Qué ver en Roma en 2 días? El Coliseo, el Vaticano, Trastevere y la mejor pasta carbonara. El itinerario sin agobios para ver Roma en 48 horas."
+description: "¿Qué ver en Roma en 2 días? El Coliseo, el Vaticano, Trastevere y la mejor pasta carbonara. El itinerario sin agobios para ver Roma en 48 horas. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "En camino"
 readingTime: 7

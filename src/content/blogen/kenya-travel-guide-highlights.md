@@ -1,7 +1,7 @@
 ---
 title: "Kenya Travel Guide: The Best Highlights for Your Trip"
 metaTitle: "Kenya Travel Guide 2026: Highlights & Tips | Zercy"
-description: "Masai Mara, Amboseli, Nairobi and Diani Beach: the best Kenya highlights, when to go, visa requirements and everything you need for your trip."
+description: "Masai Mara, Amboseli, Nairobi and Diani Beach: the best Kenya highlights, when to go, visa requirements and everything you need for your trip. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

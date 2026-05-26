@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Kotor: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels in Kotor: Where to Stay 2026 | Zercy"
-description: "Kotor has 5 neighborhoods: Stari Grad inside the walls, quiet Dobrota on the north shore, scenic Prčanj, budget-friendly Muo by ferry, and Tivat marina luxury."
+description: "Kotor has 5 neighborhoods: Stari Grad inside the walls, quiet Dobrota on the north shore, scenic Prčanj, budget-friendly Muo by ferry, and Tivat marina luxury. Honest picks for every budget."
 pubDate: 2026-05-11
 category: "Where to Stay"
 readingTime: 7

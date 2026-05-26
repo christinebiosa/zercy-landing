@@ -1,7 +1,7 @@
 ---
 title: "Trains Through Europe: 5 Routes That Beat Flying"
 metaTitle: "Train Travel Europe: 5 Routes That Win | Zercy"
-description: "Sometimes the train is better than the flight — faster city-to-city, more relaxed, and with views no plane window can match."
+description: "Sometimes the train is better than the flight — faster city-to-city, more relaxed, and with views no plane window can match. The best European rail routes for 2026."
 pubDate: 2026-03-26
 category: "Travel Green"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Sofía: Dónde alojarse por barrios 2026"
 metaTitle: "Mejores hoteles Sofía: Dónde alojarse 2026 | Zercy"
-description: "¿Tsentar, Oborishte o NDK? Guía por barrios de Sofía con recomendaciones para primeras visitas, viajeros con presupuesto ajustado y amantes de la cultura."
+description: "¿Tsentar, Oborishte o NDK? Guía por barrios de Sofía con recomendaciones para primeras visitas, viajeros con presupuesto ajustado y amantes de la cultura. Guía honesta para cada viajero."
 pubDate: 2026-05-25
 category: "Dónde alojarse"
 readingTime: 5

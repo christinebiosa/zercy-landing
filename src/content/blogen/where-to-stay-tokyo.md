@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Tokyo: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Tokyo: Where to Stay 2026 | Zercy"
-description: "Tokyo has 5 very different neighborhoods: Shinjuku central, Shibuya young, Asakusa traditional, Ginza luxurious, Shimokitazawa hipster. Which fits your trip?"
+description: "Tokyo has 5 very different neighborhoods: Shinjuku central, Shibuya young, Asakusa traditional, Ginza luxurious, Shimokitazawa hipster. Which fits your trip? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

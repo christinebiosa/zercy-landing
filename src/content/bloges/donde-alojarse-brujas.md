@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Brujas: Dónde alojarse por barrio 2026"
 metaTitle: "Hoteles Brujas 2026: Dónde alojarse | Zercy"
-description: "Brujas hoteles 2026: Centro histórico para canales y ambiente medieval, Sint-Anna para calma, periferia para precios más bajos. Barrios, picks y precios 2026."
+description: "Brujas hoteles 2026: Centro histórico para canales y ambiente medieval, Sint-Anna para calma, periferia para precios más bajos. Barrios, picks y precios 2026. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

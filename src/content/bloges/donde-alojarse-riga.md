@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Riga: Dónde alojarse en cada barrio 2026"
 metaTitle: "Hoteles Riga: Dónde alojarse 2026 | Zercy"
-description: "Riga tiene 5 barrios: Vecrīga patrimonio UNESCO, Centrs art nouveau, Āgenskalns tranquilo y local, Klusais Centrs elegante, Teika moderno y asequible. Tu guía."
+description: "Riga tiene 5 barrios: Vecrīga patrimonio UNESCO, Centrs art nouveau, Āgenskalns tranquilo y local, Klusais Centrs elegante, Teika moderno y asequible. Tu guía. Guía honesta para cada viajero."
 pubDate: 2026-05-11
 category: "Dónde alojarse"
 readingTime: 7

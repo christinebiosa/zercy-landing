@@ -1,7 +1,7 @@
 ---
 title: "Indien Reiseguide: Highlights, Route und was du wirklich wissen musst"
 metaTitle: "Indien Reiseguide 2026: Highlights & Tipps | Zercy"
-description: "Indien Reiseguide 2026: Rajasthan, Goa, Kerala, Taj Mahal. Beste Route, Kosten, Visa, Gesundheits-Tipps und was in Indien wirklich anders ist als erwartet."
+description: "Indien Reiseguide 2026: Rajasthan, Goa, Kerala, Taj Mahal. Beste Route, Kosten, Visa, Gesundheits-Tipps und was in Indien wirklich anders ist als erwartet. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 9

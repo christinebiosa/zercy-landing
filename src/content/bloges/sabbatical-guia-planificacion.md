@@ -1,7 +1,7 @@
 ---
 title: "Sabbatical: la guía para planificarlo bien y no arrepentirte"
 metaTitle: "Sabbatical 2026: cómo planificar un año sabático correctamente | Zercy"
-description: "Cómo planificar un sabbatical o año sabático en 2026. Las preguntas que hay que responder antes de salir, el dinero necesario y cómo gestionar la vuelta."
+description: "Cómo planificar un sabbatical o año sabático en 2026. Las preguntas que hay que responder antes de salir, el dinero necesario y cómo gestionar la vuelta. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Consejos de viaje"
 readingTime: 7

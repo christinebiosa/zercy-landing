@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Perth: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Perth 2026: Where to Stay in Perth | Zercy"
-description: "Perth hotels 2026: CBD, Northbridge, Fremantle or Cottesloe? Best neighborhoods, top hotel picks and practical tips for your Western Australia stay."
+description: "Perth hotels 2026: CBD, Northbridge, Fremantle or Cottesloe? Best neighborhoods, top hotel picks and practical tips for your Western Australia stay. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in San Diego: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels San Diego 2026: Wo übernachten | Zercy"
-description: "San Diego Hotels 2026: Gaslamp Quarter für Nightlife, La Jolla für Luxus, Mission Beach für Surfer. Beste Stadtteile, Top-Picks und praktische Buchungstipps."
+description: "San Diego Hotels 2026: Gaslamp Quarter für Nightlife, La Jolla für Luxus, Mission Beach für Surfer. Beste Stadtteile, Top-Picks und praktische Buchungstipps. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

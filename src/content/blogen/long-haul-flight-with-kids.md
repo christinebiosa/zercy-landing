@@ -1,7 +1,7 @@
 ---
 title: "Long-Haul Flight with Kids: Honest Tips for Parents"
 metaTitle: "Long-Haul Flight with Kids: Tips for Parents | Zercy"
-description: "What actually works on long-haul flights with children? Gear, seating, time zone management, and snack strategy. No sugarcoating, just practical advice."
+description: "What actually works on long-haul flights with children? Gear, seating, time zone management, and snack strategy. No sugarcoating, just practical advice. Everything you need to know."
 pubDate: 2026-05-09
 category: "Travel Tips"
 readingTime: 6

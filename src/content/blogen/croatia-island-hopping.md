@@ -1,7 +1,7 @@
 ---
 title: "Croatia Island Hopping: The Complete Guide 2026"
 metaTitle: "Croatia Island Hopping Guide 2026 | Zercy"
-description: "Split, Hvar, Brač, Vis, Korčula: everything you need to plan your Croatia island hopping trip in 2026. Ferries, costs, timing, and insider tips."
+description: "Split, Hvar, Brač, Vis, Korčula: everything you need to plan your Croatia island hopping trip in 2026. Ferries, costs, timing, and insider tips. Everything you need to know."
 pubDate: 2026-05-09
 category: "On the Move"
 readingTime: 6

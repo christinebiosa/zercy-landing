@@ -1,7 +1,7 @@
 ---
 title: "Island: Der komplette Guide für dein Naturabenteuer"
 metaTitle: "Island Guide: Natur, Geysire, Nordlichter | Zercy"
-description: "Der komplette Island-Guide: Ring Road, Blaue Lagune, Nordlichter und Gletscherabenteuer. Beste Reisezeit, Mietwagen-Tipps und echte Kosten für deine Reise."
+description: "Der komplette Island-Guide: Ring Road, Blaue Lagune, Nordlichter und Gletscherabenteuer. Beste Reisezeit, Mietwagen-Tipps und echte Kosten für deine Reise. Mit Route, Kosten und allen Details."
 pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 8

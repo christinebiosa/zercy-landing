@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Luzern: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Luzern 2026: Wo übernachten | Zercy"
-description: "Luzern Hotels 2026: Altstadt für Kapellbrücke und Flair, Seeufer für Aussicht, Tribschen für Ruhe. Die besten Stadtteile, Top-Picks und Preise für 2026."
+description: "Luzern Hotels 2026: Altstadt für Kapellbrücke und Flair, Seeufer für Aussicht, Tribschen für Ruhe. Die besten Stadtteile, Top-Picks und Preise für 2026. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

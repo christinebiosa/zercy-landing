@@ -1,7 +1,7 @@
 ---
 title: "Guía de viaje a Colombia 2026: Cartagena, Bogotá, Medellín y el Eje Cafetero"
 metaTitle: "Guía de viaje Colombia 2026: qué ver y cuánto cuesta | Zercy"
-description: "Todo lo que necesitas saber para viajar a Colombia en 2026. Cartagena, Bogotá, Medellín, el Eje Cafetero. Seguridad, presupuesto diario y la mejor época."
+description: "Todo lo que necesitas saber para viajar a Colombia en 2026. Cartagena, Bogotá, Medellín, el Eje Cafetero. Seguridad, presupuesto diario y la mejor época. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 8

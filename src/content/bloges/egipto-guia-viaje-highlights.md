@@ -1,7 +1,7 @@
 ---
 title: "Egipto: Guía de viaje con pirámides, el Nilo y el Mar Rojo"
 metaTitle: "Egipto Guía de Viaje 2026: Highlights y Consejos | Zercy"
-description: "El Cairo, Luxor, Asuán y el Mar Rojo: los mejores highlights de Egipto, la ruta del crucero por el Nilo y todo lo que necesitas saber antes de tu viaje."
+description: "El Cairo, Luxor, Asuán y el Mar Rojo: los mejores highlights de Egipto, la ruta del crucero por el Nilo y todo lo que necesitas saber antes de tu viaje. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

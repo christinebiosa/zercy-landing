@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Koh Samui: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Koh Samui 2026: Wo übernachten in welchem Viertel | Zercy"
-description: "Koh Samui Hotels 2026: Chaweng, Lamai, Bophut oder Bo Phut Fisherman's Village. Die besten Strände, Top-Picks und Tipps für Thailands Insel-Vielfalt."
+description: "Koh Samui Hotels 2026: Chaweng, Lamai, Bophut oder Bo Phut Fisherman's Village. Die besten Strände, Top-Picks und Tipps für Thailands Insel-Vielfalt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

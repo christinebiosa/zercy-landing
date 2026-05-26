@@ -1,7 +1,7 @@
 ---
 title: "Compensación de CO₂ en vuelos: ¿funciona realmente?"
 metaTitle: "Compensación CO₂ vuelos 2026: qué funciona y qué es greenwashing | Zercy"
-description: "La compensación de CO₂ en vuelos es polémica. Qué dice la ciencia, qué programas son serios y cómo reducir la huella real del viaje en 2026."
+description: "La compensación de CO₂ en vuelos es polémica. Qué dice la ciencia, qué programas son serios y cómo reducir la huella real del viaje en 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Viaje sostenible"
 readingTime: 7

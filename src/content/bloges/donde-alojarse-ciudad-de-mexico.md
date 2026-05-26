@@ -1,7 +1,7 @@
 ---
 title: "Mejores Hoteles en Ciudad de México: Dónde Alojarse en Cada Barrio 2026"
 metaTitle: "Mejores Hoteles CDMX: Dónde Alojarse 2026 | Zercy"
-description: "Ciudad de México tiene 5 barrios muy distintos: Roma, Condesa, Polanco, Centro Histórico, Coyoacán. ¿Cuál encaja mejor con tu viaje a CDMX?"
+description: "Ciudad de México tiene 5 barrios muy distintos: Roma, Condesa, Polanco, Centro Histórico, Coyoacán. ¿Cuál encaja mejor con tu viaje a CDMX? Guía honesta para cada viajero."
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7

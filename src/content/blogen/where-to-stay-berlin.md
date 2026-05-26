@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Berlin: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Berlin: Where to Stay 2026 | Zercy"
-description: "Berlin has 5 very different neighborhoods: Mitte central, Kreuzberg alternative, Prenzlauer Berg family, Charlottenburg west, Friedrichshain party. Which fits?"
+description: "Berlin has 5 very different neighborhoods: Mitte central, Kreuzberg alternative, Prenzlauer Berg family, Charlottenburg west, Friedrichshain party. Which fits? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

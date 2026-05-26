@@ -1,7 +1,7 @@
 ---
 title: "Tansania Reiseguide: Serengeti, Ngorongoro und Kilimandscharo"
 metaTitle: "Tansania Reiseguide 2026: Safari & Highlights | Zercy"
-description: "Serengeti, Ngorongoro-Krater, Kilimandscharo-Trekking und Sansibar: die besten Highlights Tansanias und alles was du für deinen Trip wissen musst."
+description: "Serengeti, Ngorongoro-Krater, Kilimandscharo-Trekking und Sansibar: die besten Highlights Tansanias und alles was du für deinen Trip wissen musst. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

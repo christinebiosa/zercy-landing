@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Cusco: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Cusco: Where to Stay 2026 | Zercy"
-description: "Cusco has 4 very different neighborhoods: Plaza de Armas, San Blas artist, San Pedro market, San Cristobal viewpoint. Which fits your Machu Picchu trip?"
+description: "Cusco has 4 very different neighborhoods: Plaza de Armas, San Blas artist, San Pedro market, San Cristobal viewpoint. Which fits your Machu Picchu trip? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

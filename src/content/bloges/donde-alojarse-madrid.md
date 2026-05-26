@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Madrid: dónde alojarse por barrio 2026"
 metaTitle: "Mejores hoteles Madrid: Dónde alojarse 2026 | Zercy"
-description: "¿Dónde alojarse en Madrid? Sol para el centro, Malasaña para ambiente joven, Salamanca para lujo y Lavapiés para vida local. Hoteles y precios por barrio."
+description: "¿Dónde alojarse en Madrid? Sol para el centro, Malasaña para ambiente joven, Salamanca para lujo y Lavapiés para vida local. Hoteles y precios por barrio. Guía honesta para cada viajero."
 pubDate: 2026-05-08
 category: "Dónde alojarse"
 readingTime: 7

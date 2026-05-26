@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Amsterdam: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Amsterdam: Where to Stay 2026 | Zercy"
-description: "Amsterdam has 5 very different neighborhoods: Centrum touristy, Jordaan boutique, De Pijp foodie, Oost local, Noord alternative. Which fits your trip best?"
+description: "Amsterdam has 5 very different neighborhoods: Centrum touristy, Jordaan boutique, De Pijp foodie, Oost local, Noord alternative. Which fits your trip best? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Romania Travel Guide: Transylvania, Bucharest and the Real Dracula Story"
 metaTitle: "Romania Travel Guide 2026: Transylvania and Highlights | Zercy"
-description: "Discover Romania: Transylvania with Brasov and Bran Castle, Bucharest, Danube Delta. Why Romania is the EU's most affordable and surprising travel destination."
+description: "Discover Romania: Transylvania with Brasov and Bran Castle, Bucharest, Danube Delta. Why Romania is the EU's most affordable and surprising travel destination. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

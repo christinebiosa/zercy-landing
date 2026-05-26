@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Bogotá: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Bogotá: Wo übernachten 2026 | Zercy"
-description: "Bogotá hat 4 sehr unterschiedliche Stadtteile: Candelaria Altstadt, Chapinero Hip, Zona Rosa Premium, Usaquén Slow. Welcher passt zu deiner Kolumbien-Reise?"
+description: "Bogotá hat 4 sehr unterschiedliche Stadtteile: Candelaria Altstadt, Chapinero Hip, Zona Rosa Premium, Usaquén Slow. Welcher passt zu deiner Kolumbien-Reise? Top-Hotels für jedes Budget."
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7

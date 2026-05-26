@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Atenas: dónde alojarse por barrio 2026"
 metaTitle: "Mejores hoteles Atenas: Dónde alojarse 2026 | Zercy"
-description: "¿Dónde alojarse en Atenas? Pláka para historia y Acrópolis, Monastiraki para ambiente, Kolonaki para lujo. Hoteles recomendados y precios reales por barrio."
+description: "¿Dónde alojarse en Atenas? Pláka para historia y Acrópolis, Monastiraki para ambiente, Kolonaki para lujo. Hoteles recomendados y precios reales por barrio. Guía honesta para cada viajero."
 pubDate: 2026-05-08
 category: "Dónde alojarse"
 readingTime: 7

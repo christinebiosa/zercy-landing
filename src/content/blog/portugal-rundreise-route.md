@@ -1,7 +1,7 @@
 ---
 title: "Portugal Rundreise: Die perfekte Route von Lissabon bis Porto und Algarve"
 metaTitle: "Portugal Rundreise: Route & Tipps 2026 | Zercy"
-description: "Portugal Rundreise planen: Lissabon, Algarve, Porto, Douro-Tal in 2–3 Wochen. Die beste Route mit realistischen Kosten, Highlights und Buchungstipps."
+description: "Portugal Rundreise planen: Lissabon, Algarve, Porto, Douro-Tal in 2–3 Wochen. Die beste Route mit realistischen Kosten, Highlights und Buchungstipps. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 7

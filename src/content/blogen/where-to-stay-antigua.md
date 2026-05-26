@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Antigua Guatemala: Where to Stay 2026"
 metaTitle: "Hotels Antigua Guatemala 2026: Where to Stay | Zercy"
-description: "Antigua Guatemala hotels 2026: Centro for history, quiet outskirts for relaxation. Best areas, top picks and booking tips for Guatemala's colonial gem."
+description: "Antigua Guatemala hotels 2026: Centro for history, quiet outskirts for relaxation. Best areas, top picks and booking tips for Guatemala's colonial gem. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

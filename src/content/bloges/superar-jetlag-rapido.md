@@ -1,7 +1,7 @@
 ---
 title: "Cómo superar el jet lag rápido: lo que funciona según la ciencia"
 metaTitle: "Superar jet lag rápido 2026: métodos que funcionan de verdad | Zercy"
-description: "Cómo minimizar el jet lag en viajes largos. Qué dice la ciencia sobre la luz, la melatonina, los horarios de sueño y los trucos que realmente funcionan."
+description: "Cómo minimizar el jet lag en viajes largos. Qué dice la ciencia sobre la luz, la melatonina, los horarios de sueño y los trucos que realmente funcionan. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Consejos de viaje"
 readingTime: 6

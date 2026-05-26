@@ -1,7 +1,7 @@
 ---
 title: "House Swap: How to Stay Anywhere in the World for Free"
 metaTitle: "House Swap Travel Guide 2026: How It Really Works | Zercy"
-description: "Home exchange as an alternative to Airbnb. How HomeExchange, Love Home Swap and others work, what it costs per year and who it really makes sense for."
+description: "Home exchange as an alternative to Airbnb. How HomeExchange, Love Home Swap and others work, what it costs per year and who it really makes sense for. Everything you need to plan your trip."
 pubDate: 2026-05-11
 category: "Smart Travel"
 readingTime: 7

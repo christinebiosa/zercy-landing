@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Québec City: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Québec City 2026: Wo übernachten | Zercy"
-description: "Québec City Hotels 2026: Old Town für Geschichte, Petit-Champlain für Romantik, Saint-Jean-Baptiste für Locals. Beste Stadtteile, Top-Picks und Buchungstipps."
+description: "Québec City Hotels 2026: Old Town für Geschichte, Petit-Champlain für Romantik, Saint-Jean-Baptiste für Locals. Beste Stadtteile, Top-Picks und Buchungstipps. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

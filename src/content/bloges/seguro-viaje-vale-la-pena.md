@@ -1,7 +1,7 @@
 ---
 title: "Seguro de viaje: cuándo vale la pena contratarlo en 2026"
 metaTitle: "Seguro de viaje: cuándo vale la pena contratarlo en 2026 | Zercy"
-description: "¿Necesitas seguro de viaje? Qué cubre, qué no cubre, cuándo es imprescindible y cuándo es dinero tirado. Comparativa de seguros para viajeros en 2026."
+description: "¿Necesitas seguro de viaje? Qué cubre, qué no cubre, cuándo es imprescindible y cuándo es dinero tirado. Comparativa de seguros para viajeros en 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Viaje inteligente"
 readingTime: 7

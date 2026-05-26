@@ -1,7 +1,7 @@
 ---
 title: "Sudáfrica en ruta: Los mejores destinos y cómo recorrerlos"
 metaTitle: "Sudáfrica Ruta Completa 2026: Itinerario y Consejos | Zercy"
-description: "Ciudad del Cabo, Garden Route y Kruger: la ruta clásica por Sudáfrica con paradas imprescindibles, mejor época para viajar y consejos prácticos para 2026."
+description: "Ciudad del Cabo, Garden Route y Kruger: la ruta clásica por Sudáfrica con paradas imprescindibles, mejor época para viajar y consejos prácticos para 2026. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

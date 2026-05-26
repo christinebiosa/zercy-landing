@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Lima: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Lima: Wo übernachten 2026 | Zercy"
-description: "Lima hat 4 sehr unterschiedliche Stadtteile: Miraflores Klippen-Premium, Barranco Bohème, San Isidro Business, Centro Histórico kolonial. Welcher passt?"
+description: "Lima hat 4 sehr unterschiedliche Stadtteile: Miraflores Klippen-Premium, Barranco Bohème, San Isidro Business, Centro Histórico kolonial. Welcher passt? Top-Hotels für jedes Budget."
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7

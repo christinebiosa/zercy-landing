@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Rio de Janeiro: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Rio: Where to Stay 2026 | Zercy"
-description: "Rio has 4 very different neighborhoods: Copacabana classic beach, Ipanema premium, Leblon luxury, Santa Teresa artist hill. Which fits your trip best?"
+description: "Rio has 4 very different neighborhoods: Copacabana classic beach, Ipanema premium, Leblon luxury, Santa Teresa artist hill. Which fits your trip best? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

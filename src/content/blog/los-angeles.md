@@ -1,7 +1,7 @@
 ---
 title: "L.A. Baby: Warum Los Angeles immer eine Reise wert ist"
 metaTitle: "L.A. Baby: Los Angeles lohnt sich immer | Zercy"
-description: "Los Angeles ist laut, groß, chaotisch – und macht trotzdem süchtig. Was diese Stadt so unvergesslich macht und warum man immer wiederkommt."
+description: "Los Angeles ist laut, groß, chaotisch – und macht trotzdem süchtig. Was diese Stadt so unvergesslich macht und warum man immer wiederkommt. Alles was du wissen musst."
 pubDate: 2026-03-21
 category: "Fernweh"
 readingTime: 9

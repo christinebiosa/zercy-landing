@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Nha Trang: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Nha Trang 2026: Wo übernachten in welchem Viertel | Zercy"
-description: "Nha Trang Hotels 2026: Strandpromenade, Stadtmitte, Inselresorts oder ruhige Alternativen. Top-Picks, Preise und Tipps für Vietnams Tauch-Hauptstadt."
+description: "Nha Trang Hotels 2026: Strandpromenade, Stadtmitte, Inselresorts oder ruhige Alternativen. Top-Picks, Preise und Tipps für Vietnams Tauch-Hauptstadt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

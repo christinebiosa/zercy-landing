@@ -1,7 +1,7 @@
 ---
 title: "Jordan Travel Guide: Petra, Wadi Rum, and Beyond"
 metaTitle: "Jordan Travel Guide 2026: Petra, Desert & Dead Sea | Zercy"
-description: "Jordan travel guide 2026: Petra, Wadi Rum, Dead Sea, Aqaba, and Amman. Jordan Pass, best travel season, and what you need to know for your Jordan trip."
+description: "Jordan travel guide 2026: Petra, Wadi Rum, Dead Sea, Aqaba, and Amman. Jordan Pass, best travel season, and what you need to know for your Jordan trip. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

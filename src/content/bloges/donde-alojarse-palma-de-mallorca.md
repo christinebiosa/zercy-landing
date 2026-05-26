@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Palma de Mallorca: Dónde alojarse en 2026"
 metaTitle: "Mejores hoteles Palma Mallorca: Dónde alojarse 2026 | Zercy"
-description: "¿Dónde alojarse en Palma de Mallorca? Casco Antiguo para historia, Santa Catalina para gastronomía, Paseo Marítimo para lujo. Hoteles reales por barrio."
+description: "¿Dónde alojarse en Palma de Mallorca? Casco Antiguo para historia, Santa Catalina para gastronomía, Paseo Marítimo para lujo. Hoteles reales por barrio. Guía honesta para cada viajero."
 pubDate: 2026-05-11
 category: "Dónde alojarse"
 readingTime: 7

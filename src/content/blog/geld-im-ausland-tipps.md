@@ -1,7 +1,7 @@
 ---
 title: "Geld im Ausland: Karte, Bargeld und Wechselkurs-Tricks 2026"
 metaTitle: "Geld im Ausland 2026: Was wirklich funktioniert | Zercy"
-description: "Karte oder Bargeld? Wise, Revolut oder Kreditkarte? Was du über dynamische Währungskonvertierung wissen musst und wie du beim Geldwechseln nie draufzahlst."
+description: "Karte oder Bargeld? Wise, Revolut oder Kreditkarte? Was du über dynamische Währungskonvertierung wissen musst und wie du beim Geldwechseln nie draufzahlst. Mit konkreten Praxistipps."
 pubDate: 2026-05-10
 category: "Clever Reisen"
 readingTime: 6

@@ -1,7 +1,7 @@
 ---
 title: "Ägypten Reiseguide: Pyramiden, Nil und Rotes Meer"
 metaTitle: "Ägypten Reiseguide 2026: Highlights & Tipps | Zercy"
-description: "Kairo, Luxor, Assuan und das Rote Meer: die besten Highlights Ägyptens, die Nilkreuzfahrt-Route und alles was du für deinen Trip wissen musst."
+description: "Kairo, Luxor, Assuan und das Rote Meer: die besten Highlights Ägyptens, die Nilkreuzfahrt-Route und alles was du für deinen Trip wissen musst. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

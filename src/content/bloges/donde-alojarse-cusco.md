@@ -1,7 +1,7 @@
 ---
 title: "Mejores Hoteles en Cusco: Dónde Alojarse en Cada Barrio 2026"
 metaTitle: "Mejores Hoteles Cusco: Dónde Alojarse 2026 | Zercy"
-description: "Cusco tiene 4 barrios muy distintos: Plaza de Armas, San Blas artístico, San Pedro mercado, San Cristóbal mirador. ¿Cuál encaja con tu viaje a Machu Picchu?"
+description: "Cusco tiene 4 barrios muy distintos: Plaza de Armas, San Blas artístico, San Pedro mercado, San Cristóbal mirador. ¿Cuál encaja con tu viaje a Machu Picchu? Guía honesta para cada viajero."
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7

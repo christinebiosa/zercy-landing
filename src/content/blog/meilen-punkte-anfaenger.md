@@ -1,7 +1,7 @@
 ---
 title: "Meilen und Punkte sammeln: Der Einsteigerguide 2026"
 metaTitle: "Meilen & Punkte für Anfänger 2026 | Zercy"
-description: "Miles & More, Flying Blue, Avios: Wie Vielfliegerprogramme funktionieren, was eine Meile wirklich wert ist und welche Fehler du von Anfang an vermeidest."
+description: "Miles & More, Flying Blue, Avios: Wie Vielfliegerprogramme funktionieren, was eine Meile wirklich wert ist und welche Fehler du von Anfang an vermeidest. Alles was du wissen musst."
 pubDate: 2026-05-09
 category: "Clever Reisen"
 readingTime: 6

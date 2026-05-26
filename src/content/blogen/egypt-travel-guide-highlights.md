@@ -1,7 +1,7 @@
 ---
 title: "Egypt Travel Guide: Pyramids, the Nile and the Red Sea"
 metaTitle: "Egypt Travel Guide 2026: Highlights & Tips | Zercy"
-description: "Cairo, Luxor, Aswan and the Red Sea: the best Egypt highlights, the Nile cruise route and everything you need to know before your trip in 2026."
+description: "Cairo, Luxor, Aswan and the Red Sea: the best Egypt highlights, the Nile cruise route and everything you need to know before your trip in 2026. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

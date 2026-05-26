@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT, Perplexity, Claude: Welche KI plant Reisen am besten?"
 metaTitle: "KI-Tools für Reisen: Der ehrliche Vergleich | Zercy"
-description: "ChatGPT, Perplexity und Claude können alle Reisen planen. Aber welche KI ist tatsächlich gut darin? Ein ehrlicher Vergleich mit konkreten Beispielen aus 2026."
+description: "ChatGPT, Perplexity und Claude können alle Reisen planen. Aber welche KI ist tatsächlich gut darin? Ein ehrlicher Vergleich mit konkreten Beispielen aus 2026. Ehrlicher Vergleich mit echten Zahlen."
 pubDate: 2026-04-28
 category: "KI & Reisen"
 readingTime: 8

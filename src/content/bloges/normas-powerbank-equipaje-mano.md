@@ -1,7 +1,7 @@
 ---
 title: "Normas del powerbank en el equipaje de mano 2026: qué está permitido"
 metaTitle: "Powerbank en avión 2026: normas, límites y qué está permitido | Zercy"
-description: "¿Se puede llevar un powerbank en el avión? Qué capacidad permite IATA, si va en mano o bodega, y qué powerbanks están prohibidos en 2026. Guía actualizada."
+description: "¿Se puede llevar un powerbank en el avión? Qué capacidad permite IATA, si va en mano o bodega, y qué powerbanks están prohibidos en 2026. Guía actualizada. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Solo equipaje de mano"
 readingTime: 5

@@ -1,7 +1,7 @@
 ---
 title: "Sansibar Stone Town: Was niemand erzählt 2026"
 metaTitle: "Sansibar Stone Town: Ehrlicher Guide 2026 | Zercy"
-description: "Sansibar Stone Town ist mehr als eine Selfie-Kulisse. UNESCO-Welterbe, Sansibar-Sklavenhandel-Geschichte, beste Streetfood-Markt. Was du wirklich wissen musst."
+description: "Sansibar Stone Town ist mehr als eine Selfie-Kulisse. UNESCO-Welterbe, Sansibar-Sklavenhandel-Geschichte, beste Streetfood-Markt. Was du wirklich wissen musst. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-07
 category: "Geheimtipps"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Suecia Guía de Viaje: Estocolmo, Laponia y lo Mejor del Norte"
 metaTitle: "Suecia Guía de Viaje 2026: Estocolmo y Highlights | Zercy"
-description: "Descubre Suecia: Estocolmo con Gamla Stan y el Museo Vasa, Laponia con auroras boreales, Gotemburgo gastronómica. Cuándo ir, costes y los mejores consejos."
+description: "Descubre Suecia: Estocolmo con Gamla Stan y el Museo Vasa, Laponia con auroras boreales, Gotemburgo gastronómica. Cuándo ir, costes y los mejores consejos. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Guía de Viajes Accesibles: Consejos para Usuarios de Silla de Ruedas y Personas con Discapacidad"
 metaTitle: "Viajes Accesibles 2026: Tips y Mejores Países | Zercy"
-description: "Guía de viajes accesibles 2026: mejores países para sillas de ruedas, apps útiles, consejos al reservar, autos adaptados y seguro para vacaciones accesibles."
+description: "Guía de viajes accesibles 2026: mejores países para sillas de ruedas, apps útiles, consejos al reservar, autos adaptados y seguro para vacaciones accesibles. Todo lo que necesitas saber."
 pubDate: 2026-05-14
 category: "Consejos de viaje"
 readingTime: 7

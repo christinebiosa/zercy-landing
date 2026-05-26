@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Pokhara: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Pokhara 2026: Wo übernachten in welchem Viertel | Zercy"
-description: "Pokhara Hotels 2026: Lakeside, Damside oder New Pokhara. Die besten Stadtteile, Top-Picks und Tipps für Nepals schönste Trekking-Stadt mit Annapurna-Panorama."
+description: "Pokhara Hotels 2026: Lakeside, Damside oder New Pokhara. Die besten Stadtteile, Top-Picks und Tipps für Nepals schönste Trekking-Stadt mit Annapurna-Panorama. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

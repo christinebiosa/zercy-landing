@@ -1,7 +1,7 @@
 ---
 title: "Boutique-Hotels: Warum kleine Hotels oft die bessere Wahl sind"
 metaTitle: "Boutique-Hotels: Warum sie besser sind | Zercy"
-description: "Kein Konferenzcenter, keine einheitliche Lobby, kein Frühstücksbuffet für 300 Personen. Boutique-Hotels bieten etwas Großes oft nicht kann: Charakter."
+description: "Kein Konferenzcenter, keine einheitliche Lobby, kein Frühstücksbuffet für 300 Personen. Boutique-Hotels bieten etwas Großes oft nicht kann: Charakter. Alles was du wissen musst."
 pubDate: 2026-03-26
 category: "Wo übernachten"
 readingTime: 8

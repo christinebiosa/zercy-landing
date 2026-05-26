@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Tokio: dónde alojarse por barrio 2026"
 metaTitle: "Mejores hoteles Tokio: Dónde alojarse 2026 | Zercy"
-description: "¿Dónde alojarse en Tokio? Shinjuku para centralidad, Asakusa para historia, Shibuya para ambiente joven. Hoteles recomendados y precios reales por barrio."
+description: "¿Dónde alojarse en Tokio? Shinjuku para centralidad, Asakusa para historia, Shibuya para ambiente joven. Hoteles recomendados y precios reales por barrio. Guía honesta para cada viajero."
 pubDate: 2026-05-08
 category: "Dónde alojarse"
 readingTime: 7

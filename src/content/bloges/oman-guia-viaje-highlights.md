@@ -1,7 +1,7 @@
 ---
 title: "Omán: Guía de viaje con desierto, fiordos y lo mejor de Arabia"
 metaTitle: "Omán Guía de Viaje 2026: Desierto, Fiordos y Tips | Zercy"
-description: "Omán guía de viaje 2026: Mascate, Wahiba Sands, Wadi Shams y Musandam. Mejor temporada, sin visa para europeos, consejos de alquiler de coche y highlights."
+description: "Omán guía de viaje 2026: Mascate, Wahiba Sands, Wadi Shams y Musandam. Mejor temporada, sin visa para europeos, consejos de alquiler de coche y highlights. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

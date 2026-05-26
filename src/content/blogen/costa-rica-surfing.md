@@ -1,7 +1,7 @@
 ---
 title: "Tropical Costa Rica: Surfing, Jungle and Pura Vida"
 metaTitle: "Costa Rica: Surfing & Pura Vida | Zercy"
-description: "Costa Rica is more than a destination. It's an attitude. Dream waves, rainforest, sloths – and surf breaks for every level."
+description: "Costa Rica is more than a destination. It's an attitude. Dream waves, rainforest, sloths – and surf breaks for every level. Cost breakdown and money-saving tips."
 pubDate: 2026-03-25
 category: "Off the Map"
 readingTime: 9

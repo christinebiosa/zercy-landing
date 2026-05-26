@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Peking: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Peking: Wo übernachten 2026 | Zercy"
-description: "Verbotene Stadt, Sanlitun oder Hutongs? Die besten Stadtteile für Hotels in Peking mit klaren Empfehlungen für Erstbesucher und Kulturreisende."
+description: "Verbotene Stadt, Sanlitun oder Hutongs? Die besten Stadtteile für Hotels in Peking mit klaren Empfehlungen für Erstbesucher und Kulturreisende. Top-Hotels für jedes Budget."
 pubDate: 2026-05-25
 category: "Wo übernachten"
 readingTime: 5

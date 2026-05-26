@@ -1,7 +1,7 @@
 ---
 title: "Irland Rundreise: Die beste Route durch die Grüne Insel"
 metaTitle: "Irland Rundreise Route 2026: Wild Atlantic Way | Zercy"
-description: "Irland Rundreise planen: Dublin, Wild Atlantic Way, Cliffs of Moher, Ring of Kerry und Giant's Causeway. Die beste Route, Tipps zu Mietwagen und Reisezeit."
+description: "Irland Rundreise planen: Dublin, Wild Atlantic Way, Cliffs of Moher, Ring of Kerry und Giant's Causeway. Die beste Route, Tipps zu Mietwagen und Reisezeit. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

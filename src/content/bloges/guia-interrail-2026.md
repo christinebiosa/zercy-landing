@@ -1,7 +1,7 @@
 ---
 title: "Guía completa de Interrail 2026: cómo recorrer Europa en tren"
 metaTitle: "Guía Interrail 2026: pases, rutas y precios reales | Zercy"
-description: "Todo sobre Interrail 2026: Global Pass vs. Country Pass, reservas obligatorias en AVE y Eurostar, rutas recomendadas y precio real con suplementos incluidos."
+description: "Todo sobre Interrail 2026: Global Pass vs. Country Pass, reservas obligatorias en AVE y Eurostar, rutas recomendadas y precio real con suplementos incluidos. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7

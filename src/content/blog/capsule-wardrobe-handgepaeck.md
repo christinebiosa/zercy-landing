@@ -1,7 +1,7 @@
 ---
 title: "Capsule Wardrobe: 14 Tage Reisen mit nur 7 Teilen"
 metaTitle: "Capsule Wardrobe: 14 Tage mit 7 Teilen | Zercy"
-description: "Eine Capsule Wardrobe lässt dich 2 Wochen mit nur Handgepäck reisen, ohne immer dasselbe zu tragen. Welche 7 Teile reichen wirklich und wie kombinierst du sie?"
+description: "Eine Capsule Wardrobe lässt dich 2 Wochen mit nur Handgepäck reisen, ohne immer dasselbe zu tragen. Welche 7 Teile reichen wirklich und wie kombinierst du sie? Alles was du wissen musst."
 pubDate: 2026-04-28
 category: "Nur mit Handgepäck"
 readingTime: 7

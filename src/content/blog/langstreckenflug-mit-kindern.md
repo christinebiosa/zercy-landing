@@ -1,7 +1,7 @@
 ---
 title: "Langstreckenflug mit Kindern: Ehrliche Tipps für Eltern"
 metaTitle: "Langstreckenflug mit Kindern: Tipps für Eltern | Zercy"
-description: "Was hilft wirklich bei Langstreckenflügen mit Kindern? Ausrüstung, Sitzplätze, Zeitzonenwechsel und Snack-Strategie. Ohne Schönreden, mit echten Tipps."
+description: "Was hilft wirklich bei Langstreckenflügen mit Kindern? Ausrüstung, Sitzplätze, Zeitzonenwechsel und Snack-Strategie. Ohne Schönreden, mit echten Tipps. Alles was du wissen musst."
 pubDate: 2026-05-09
 category: "Reisetipps"
 readingTime: 6

@@ -1,7 +1,7 @@
 ---
 title: "Reisekreditkarte 2026: Welche lohnt sich wirklich?"
 metaTitle: "Reisekreditkarte 2026: Der ehrliche Vergleich | Zercy"
-description: "Meilen, Cashback, Lounge-Zugang oder Allround-Karte: Welche Reisekreditkarte 2026 lohnt sich für wen? Ein ehrlicher Vergleich mit konkreten Empfehlungen."
+description: "Meilen, Cashback, Lounge-Zugang oder Allround-Karte: Welche Reisekreditkarte 2026 lohnt sich für wen? Ein ehrlicher Vergleich mit konkreten Empfehlungen. Alles was du wissen musst."
 pubDate: 2026-05-10
 category: "Clever Reisen"
 readingTime: 6

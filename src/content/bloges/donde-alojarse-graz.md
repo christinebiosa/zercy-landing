@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Graz: Dónde alojarse por barrio 2026"
 metaTitle: "Hoteles Graz 2026: Dónde alojarse por barrio | Zercy"
-description: "Graz hoteles 2026: ¿Altstadt, Geidorf, Lend o St. Leonhard? Los mejores barrios, picks de hoteles y consejos para tu estancia en la segunda ciudad de Austria."
+description: "Graz hoteles 2026: ¿Altstadt, Geidorf, Lend o St. Leonhard? Los mejores barrios, picks de hoteles y consejos para tu estancia en la segunda ciudad de Austria. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

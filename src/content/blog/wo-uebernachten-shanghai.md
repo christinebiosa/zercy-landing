@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Shanghai: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Shanghai: Wo übernachten 2026 | Zercy"
-description: "The Bund, French Concession oder Pudong? Die besten Stadtteile für Hotels in Shanghai mit klaren Empfehlungen für Erstbesucher, Expats und Businessreisende."
+description: "The Bund, French Concession oder Pudong? Die besten Stadtteile für Hotels in Shanghai mit klaren Empfehlungen für Erstbesucher, Expats und Businessreisende. Top-Hotels für jedes Budget."
 pubDate: 2026-05-25
 category: "Wo übernachten"
 readingTime: 5

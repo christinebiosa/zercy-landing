@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Helsinki: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Helsinki: Where to Stay 2026 | Zercy"
-description: "Design District, Kallio or Kruununhaka? A neighborhood-by-neighborhood guide to Helsinki hotels for every travel style and budget."
+description: "Design District, Kallio or Kruununhaka? A neighborhood-by-neighborhood guide to Helsinki hotels for every travel style and budget. Honest picks for every budget."
 pubDate: 2026-05-25
 category: "Where to Stay"
 readingTime: 5

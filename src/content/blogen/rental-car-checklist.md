@@ -1,7 +1,7 @@
 ---
 title: "10 Things to Check Before You Drive Off in a Rental Car"
 metaTitle: "Rental Car Checklist: 10 Tips Before You Go | Zercy"
-description: "Most rental car problems happen in the first 10 minutes. Here's what to check before you leave the lot — and save yourself headaches later."
+description: "Most rental car problems happen in the first 10 minutes. Here's what to check before you leave the lot — and save yourself headaches later. Everything you need to know."
 pubDate: 2026-03-26
 category: "On the Move"
 readingTime: 8

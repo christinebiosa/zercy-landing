@@ -1,7 +1,7 @@
 ---
 title: "Turkey Road Trip: Istanbul, Cappadocia, Aegean Coast and the Best Highlights"
 metaTitle: "Turkey Road Trip 2026: Route, Tips & Highlights | Zercy"
-description: "Plan your Turkey road trip: Istanbul, Cappadocia, Pamukkale, Lycian Coast in 2–3 weeks. Best route with costs, highlights, and practical tips for 2026."
+description: "Plan your Turkey road trip: Istanbul, Cappadocia, Pamukkale, Lycian Coast in 2–3 weeks. Best route with costs, highlights, and practical tips for 2026. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

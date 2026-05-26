@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Busan: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Busan 2026: Wo übernachten in welchem Viertel | Zercy"
-description: "Busan Hotels 2026: Haeundae, Nampo-Dong, Gwangalli oder Seomyeon. Die besten Stadtteile, Top-Picks und Tipps für Südkoreas Strandmetropole."
+description: "Busan Hotels 2026: Haeundae, Nampo-Dong, Gwangalli oder Seomyeon. Die besten Stadtteile, Top-Picks und Tipps für Südkoreas Strandmetropole. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

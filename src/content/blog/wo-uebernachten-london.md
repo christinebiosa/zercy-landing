@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in London: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels London: Wo übernachten 2026 | Zercy"
-description: "London hat 5 sehr unterschiedliche Stadtteile: Soho zentral, South Kensington nobel, Shoreditch hip, Notting Hill boutique, Bloomsbury museums-zentral."
+description: "London hat 5 sehr unterschiedliche Stadtteile: Soho zentral, South Kensington nobel, Shoreditch hip, Notting Hill boutique, Bloomsbury museums-zentral. Top-Hotels für jedes Budget."
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7

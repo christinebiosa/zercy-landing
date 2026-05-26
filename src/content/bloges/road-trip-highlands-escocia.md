@@ -1,7 +1,7 @@
 ---
 title: "Road trip por las Highlands de Escocia: la ruta NC500 explicada"
 metaTitle: "Road trip Highlands Escocia: NC500, costos y consejos 2026 | Zercy"
-description: "Cómo hacer el NC500 por las Highlands de Escocia: Glencoe, Isla de Skye y Loch Ness. Conducir por la izquierda, cuándo ir y cuánto cuesta realmente."
+description: "Cómo hacer el NC500 por las Highlands de Escocia: Glencoe, Isla de Skye y Loch Ness. Conducir por la izquierda, cuándo ir y cuánto cuesta realmente. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7

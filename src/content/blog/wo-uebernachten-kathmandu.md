@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Kathmandu: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Kathmandu: Wo übernachten 2026 | Zercy"
-description: "Kathmandu hat 5 sehr unterschiedliche Stadtteile: Thamel, Patan, Bhaktapur, Boudhanath, Patan Durbar. Welcher passt zu deiner Nepal-Reise zum Himalaya?"
+description: "Kathmandu hat 5 sehr unterschiedliche Stadtteile: Thamel, Patan, Bhaktapur, Boudhanath, Patan Durbar. Welcher passt zu deiner Nepal-Reise zum Himalaya? Top-Hotels für jedes Budget."
 pubDate: 2026-05-11
 category: "Wo übernachten"
 readingTime: 7

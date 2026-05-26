@@ -1,7 +1,7 @@
 ---
 title: "Glamping in Europe: The Complete Guide for 2026"
 metaTitle: "Glamping Europe 2026: Destinations, Prices, Tips | Zercy"
-description: "Glamping in Europe: best spots in Tuscany, Provence, Black Forest and Croatia. Prices, platforms and tips for your first glamping booking in 2026."
+description: "Glamping in Europe: best spots in Tuscany, Provence, Black Forest and Croatia. Prices, platforms and tips for your first glamping booking in 2026. Everything you need to plan your trip."
 pubDate: 2026-05-11
 category: "Off the Map"
 readingTime: 7

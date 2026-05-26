@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Palermo: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Palermo: Where to Stay 2026 | Zercy"
-description: "La Kalsa, Politeama or Mondello? A neighborhood guide to Palermo hotels with honest picks for first-time visitors and repeat travelers."
+description: "La Kalsa, Politeama or Mondello? A neighborhood guide to Palermo hotels with honest picks for first-time visitors and repeat travelers. Honest picks for every budget."
 pubDate: 2026-05-25
 category: "Where to Stay"
 readingTime: 5

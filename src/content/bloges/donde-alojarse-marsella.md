@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Marsella: dónde alojarse por barrio 2026"
 metaTitle: "Mejores hoteles Marsella: Dónde alojarse 2026 | Zercy"
-description: "¿Dónde alojarse en Marsella? Vieux-Port para la vida central, Le Panier para historia, Prado para playa. Hoteles recomendados y precios reales por barrio."
+description: "¿Dónde alojarse en Marsella? Vieux-Port para la vida central, Le Panier para historia, Prado para playa. Hoteles recomendados y precios reales por barrio. Guía honesta para cada viajero."
 pubDate: 2026-05-08
 category: "Dónde alojarse"
 readingTime: 6

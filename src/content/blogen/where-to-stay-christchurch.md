@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Christchurch: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Christchurch 2026: Where to Stay | Zercy"
-description: "Christchurch hotels 2026: City Centre, Riccarton or Sumner? Best neighborhoods, top hotel picks and tips for your New Zealand South Island stay."
+description: "Christchurch hotels 2026: City Centre, Riccarton or Sumner? Best neighborhoods, top hotel picks and tips for your New Zealand South Island stay. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

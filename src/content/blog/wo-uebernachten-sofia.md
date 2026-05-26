@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Sofia: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Sofia: Wo übernachten 2026 | Zercy"
-description: "Tsentar, Oborishte oder NDK? Die besten Stadtteile für Hotels in Sofia mit konkreten Empfehlungen für Erstbesucher, Budgetreisende und Kulturliebhaber."
+description: "Tsentar, Oborishte oder NDK? Die besten Stadtteile für Hotels in Sofia mit konkreten Empfehlungen für Erstbesucher, Budgetreisende und Kulturliebhaber. Top-Hotels für jedes Budget."
 pubDate: 2026-05-25
 category: "Wo übernachten"
 readingTime: 5

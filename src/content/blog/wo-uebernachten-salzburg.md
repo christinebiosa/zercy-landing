@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Salzburg: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Salzburg: Wo übernachten 2026 | Zercy"
-description: "Salzburg hat 5 Stadtteile: Altstadt UNESCO-Erbe, Neustadt charmant, Schallmoos günstig, Aigen/Nonntal grün, Maxglan Flughafennähe. Hier findest du deinen Fit."
+description: "Salzburg hat 5 Stadtteile: Altstadt UNESCO-Erbe, Neustadt charmant, Schallmoos günstig, Aigen/Nonntal grün, Maxglan Flughafennähe. Hier findest du deinen Fit. Top-Hotels für jedes Budget."
 pubDate: 2026-05-11
 category: "Wo übernachten"
 readingTime: 7

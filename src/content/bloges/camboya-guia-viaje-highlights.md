@@ -1,7 +1,7 @@
 ---
 title: "Camboya: Guía de viaje con Angkor Wat y los mejores highlights"
 metaTitle: "Camboya Guía de Viaje 2026: Angkor Wat y Consejos | Zercy"
-description: "Camboya guía de viaje 2026: Angkor Wat, Angkor Thom, Phnom Penh y Kampot. Visa electrónica, mejor temporada, consejos de tuk-tuk y costos para tu viaje."
+description: "Camboya guía de viaje 2026: Angkor Wat, Angkor Thom, Phnom Penh y Kampot. Visa electrónica, mejor temporada, consejos de tuk-tuk y costos para tu viaje. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Guía de viaje a Taiwán: Los mejores highlights de un vistazo"
 metaTitle: "Guía de Viaje Taiwán 2026: Highlights y Consejos | Zercy"
-description: "Guía de viaje a Taiwán 2026: Taipéi, Garganta de Taroko, Sun Moon Lake y Tainan. Mejor temporada, costos, visa y consejos esenciales para tu viaje a Taiwán."
+description: "Guía de viaje a Taiwán 2026: Taipéi, Garganta de Taroko, Sun Moon Lake y Tainan. Mejor temporada, costos, visa y consejos esenciales para tu viaje a Taiwán. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

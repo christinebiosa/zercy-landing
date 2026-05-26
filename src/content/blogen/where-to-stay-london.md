@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in London: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels London: Where to Stay 2026 | Zercy"
-description: "London has 5 very different neighborhoods: Soho central, South Kensington posh, Shoreditch hip, Notting Hill boutique, Bloomsbury museums-central. Which fits?"
+description: "London has 5 very different neighborhoods: Soho central, South Kensington posh, Shoreditch hip, Notting Hill boutique, Bloomsbury museums-central. Which fits? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

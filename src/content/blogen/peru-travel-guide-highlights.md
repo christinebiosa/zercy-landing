@@ -1,7 +1,7 @@
 ---
 title: "Peru Travel Guide 2026: The Essential Highlights"
 metaTitle: "Peru Travel Guide 2026: Highlights & Tips | Zercy"
-description: "Lima, Machu Picchu, Cusco, Colca Canyon, Lake Titicaca: this Peru travel guide 2026 covers routes, altitude sickness, costs, and when to visit."
+description: "Lima, Machu Picchu, Cusco, Colca Canyon, Lake Titicaca: this Peru travel guide 2026 covers routes, altitude sickness, costs, and when to visit. Everything you need to plan your trip."
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 8

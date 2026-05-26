@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Mexico City: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Mexico City: Wo übernachten 2026 | Zercy"
-description: "Mexico City hat 5 sehr unterschiedliche Stadtteile: Roma, Condesa, Polanco, Centro Histórico, Coyoacán. Welcher passt zu deiner Reise nach CDMX?"
+description: "Mexico City hat 5 sehr unterschiedliche Stadtteile: Roma, Condesa, Polanco, Centro Histórico, Coyoacán. Welcher passt zu deiner Reise nach CDMX? Top-Hotels für jedes Budget."
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7

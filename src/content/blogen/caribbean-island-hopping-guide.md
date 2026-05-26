@@ -1,7 +1,7 @@
 ---
 title: "Caribbean Island Hopping: The Best Routes and What You Really Need"
 metaTitle: "Caribbean Island Hopping: Best Routes 2026 | Zercy"
-description: "Caribbean island hopping guide: best island combos, ferry vs small plane, inter-island airlines, budget reality and which islands suit which traveler type."
+description: "Caribbean island hopping guide: best island combos, ferry vs small plane, inter-island airlines, budget reality and which islands suit which traveler type. Everything you need to plan your trip."
 pubDate: 2026-05-11
 category: "Off the Map"
 readingTime: 8

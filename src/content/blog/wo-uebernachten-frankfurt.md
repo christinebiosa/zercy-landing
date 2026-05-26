@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Frankfurt: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Frankfurt: Wo übernachten 2026 | Zercy"
-description: "Römerberg, Sachsenhausen oder Westend? Die besten Stadtteile für Hotels in Frankfurt mit konkreten Empfehlungen für jeden Reisetyp und Budget."
+description: "Römerberg, Sachsenhausen oder Westend? Die besten Stadtteile für Hotels in Frankfurt mit konkreten Empfehlungen für jeden Reisetyp und Budget. Top-Hotels für jedes Budget."
 pubDate: 2026-05-25
 category: "Wo übernachten"
 readingTime: 5

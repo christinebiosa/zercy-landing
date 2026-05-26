@@ -1,7 +1,7 @@
 ---
 title: "Vietnam 2-Week Route: The Classic North to South Journey"
 metaTitle: "Vietnam 2-Week Route: North to South Guide | Zercy"
-description: "Vietnam in 2 weeks: Hanoi, Halong Bay, Hoi An, Hue, Ho Chi Minh City, Mekong Delta. Transport options, costs, visa info, and the best time to visit."
+description: "Vietnam in 2 weeks: Hanoi, Halong Bay, Hoi An, Hue, Ho Chi Minh City, Mekong Delta. Transport options, costs, visa info, and the best time to visit. Everything you need to plan your trip."
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Kambodscha Reiseguide: Angkor Wat und die Highlights des Landes"
 metaTitle: "Kambodscha Reiseguide 2026: Angkor Wat & Tipps | Zercy"
-description: "Kambodscha Reiseguide 2026: Angkor Wat, Angkor Thom, Phnom Penh und Kampot. E-Visum, beste Reisezeit, Tuk-Tuk-Tipps und Kosten für deinen Kambodscha-Trip."
+description: "Kambodscha Reiseguide 2026: Angkor Wat, Angkor Thom, Phnom Penh und Kampot. E-Visum, beste Reisezeit, Tuk-Tuk-Tipps und Kosten für deinen Kambodscha-Trip. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

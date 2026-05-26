@@ -1,7 +1,7 @@
 ---
 title: "Buceo y snorkel: Los mejores destinos del mundo 2026"
 metaTitle: "Buceo y snorkel: Mejores destinos 2026 | Zercy"
-description: "Gran Barrera de Coral, Mar Rojo, Maldivas, Palau, Komodo, Cozumel: los mejores destinos de buceo y snorkel del mundo en 2026. Para principiantes y avanzados."
+description: "Gran Barrera de Coral, Mar Rojo, Maldivas, Palau, Komodo, Cozumel: los mejores destinos de buceo y snorkel del mundo en 2026. Para principiantes y avanzados. Todo lo que necesitas saber."
 pubDate: 2026-05-11
 category: "Lugares lejanos"
 readingTime: 8

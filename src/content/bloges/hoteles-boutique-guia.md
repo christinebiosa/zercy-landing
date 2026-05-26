@@ -1,7 +1,7 @@
 ---
 title: "Hoteles boutique: qué son y cómo elegir uno que valga la pena"
 metaTitle: "Hoteles boutique 2026: qué son y cómo elegir bien | Zercy"
-description: "Qué diferencia a un hotel boutique de un hotel normal y de uno de cadena. Cómo encontrar los mejores y cuándo vale la pena pagar más por la experiencia."
+description: "Qué diferencia a un hotel boutique de un hotel normal y de uno de cadena. Cómo encontrar los mejores y cuándo vale la pena pagar más por la experiencia. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Viaje inteligente"
 readingTime: 6

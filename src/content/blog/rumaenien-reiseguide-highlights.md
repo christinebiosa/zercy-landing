@@ -1,7 +1,7 @@
 ---
 title: "Rumänien Reiseguide: Transsylvanien, Bukarest und die echte Dracula-Geschichte"
 metaTitle: "Rumänien Reiseguide 2026: Transsylvanien und Highlights | Zercy"
-description: "Rumänien entdecken: Transsylvanien mit Brasov und Burg Bran, Bukarest, Donaudelta. Warum Rumänien das günstigste und überraschendste EU-Land für Reisende ist."
+description: "Rumänien entdecken: Transsylvanien mit Brasov und Burg Bran, Bukarest, Donaudelta. Warum Rumänien das günstigste und überraschendste EU-Land für Reisende ist. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

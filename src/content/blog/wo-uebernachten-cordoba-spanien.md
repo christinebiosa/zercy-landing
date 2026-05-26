@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Córdoba: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Córdoba Spanien: Wo übernachten 2026 | Zercy"
-description: "La Judería, San Basilio oder Santa Marina? Die besten Stadtteile für Hotels in Córdoba mit konkreten Empfehlungen für Erstbesucher, Kulturreisende und Paare."
+description: "La Judería, San Basilio oder Santa Marina? Die besten Stadtteile für Hotels in Córdoba mit konkreten Empfehlungen für Erstbesucher, Kulturreisende und Paare. Top-Hotels für jedes Budget."
 pubDate: 2026-05-25
 category: "Wo übernachten"
 readingTime: 5

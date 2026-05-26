@@ -1,7 +1,7 @@
 ---
 title: "India Travel Guide: Highlights, Routes and What You Really Need to Know"
 metaTitle: "India Travel Guide 2026: Highlights & Tips | Zercy"
-description: "India travel guide 2026: Rajasthan, Goa, Kerala, Taj Mahal. Best route, costs, visa, health tips, and what India is really like compared to what you expect."
+description: "India travel guide 2026: Rajasthan, Goa, Kerala, Taj Mahal. Best route, costs, visa, health tips, and what India is really like compared to what you expect. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 9

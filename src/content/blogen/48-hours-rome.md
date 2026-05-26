@@ -1,7 +1,7 @@
 ---
 title: "48 Hours in Rome: The Honest Short-Trip Route"
 metaTitle: "48 Hours in Rome: The Perfect Short Trip 2026 | Zercy"
-description: "You have 48 hours in Rome and want more than just the Colosseum and Trevi Fountain. An honest route with real tips, less rushing and more genuine experience."
+description: "You have 48 hours in Rome and want more than just the Colosseum and Trevi Fountain. An honest route with real tips, less rushing and more genuine experience. Everything you need to know."
 pubDate: 2026-04-28
 category: "Off the Map"
 readingTime: 7

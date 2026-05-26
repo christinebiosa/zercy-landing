@@ -1,7 +1,7 @@
 ---
 title: "Fiji und der Pazifik: Inselhopping für echte Slow Traveler"
 metaTitle: "Fiji Pazifik Inselhopping 2026: Guide & Tipps | Zercy"
-description: "Viti Levu, Mamanuca Islands, Yasawa Islands und Taveuni: der ehrliche Guide für Fiji-Inselhopping mit Kosten, Fähren und der besten Reisezeit 2026."
+description: "Viti Levu, Mamanuca Islands, Yasawa Islands und Taveuni: der ehrliche Guide für Fiji-Inselhopping mit Kosten, Fähren und der besten Reisezeit 2026. Alles was du wissen musst."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

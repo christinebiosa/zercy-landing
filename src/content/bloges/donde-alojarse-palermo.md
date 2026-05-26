@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Palermo: Dónde alojarse por barrios 2026"
 metaTitle: "Mejores hoteles Palermo: Dónde alojarse 2026 | Zercy"
-description: "¿La Kalsa, Politeama o Mondello? Guía por barrios de Palermo con recomendaciones para cada tipo de viaje y presupuesto."
+description: "¿La Kalsa, Politeama o Mondello? Guía por barrios de Palermo con recomendaciones para cada tipo de viaje y presupuesto. Con precios y recomendaciones honestas por barrio."
 pubDate: 2026-05-25
 category: "Dónde alojarse"
 readingTime: 5

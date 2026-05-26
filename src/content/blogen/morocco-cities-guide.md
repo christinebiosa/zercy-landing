@@ -1,7 +1,7 @@
 ---
 title: "Morocco Cities Guide: Fez, Casablanca, Chefchaouen and Meknes"
 metaTitle: "Morocco Cities Guide 2026: Fez, Casablanca & More | Zercy"
-description: "Fez Medina, Casablanca Art Deco, Chefchaouen blue city and Meknes: the honest city guide for Morocco's most impressive cities beyond Marrakech."
+description: "Fez Medina, Casablanca Art Deco, Chefchaouen blue city and Meknes: the honest city guide for Morocco's most impressive cities beyond Marrakech. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

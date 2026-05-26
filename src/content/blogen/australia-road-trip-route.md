@@ -1,7 +1,7 @@
 ---
 title: "Australia Road Trip: The Best Routes for Your Adventure Down Under"
 metaTitle: "Australia Road Trip 2026: Best Routes & Tips | Zercy"
-description: "Australia road trip 2026: East Coast, Outback, Great Ocean Road and Uluru. Best routes, travel seasons, costs and practical tips for your adventure Down Under."
+description: "Australia road trip 2026: East Coast, Outback, Great Ocean Road and Uluru. Best routes, travel seasons, costs and practical tips for your adventure Down Under. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 9

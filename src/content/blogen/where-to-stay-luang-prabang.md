@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Luang Prabang: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Hotels Luang Prabang 2026: Where to Stay | Zercy"
-description: "Luang Prabang hotels 2026: UNESCO Old Town, Mekong riverside or Ban Xieng Maen. Best neighborhoods, top picks and practical tips for every travel style."
+description: "Luang Prabang hotels 2026: UNESCO Old Town, Mekong riverside or Ban Xieng Maen. Best neighborhoods, top picks and practical tips for every travel style. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

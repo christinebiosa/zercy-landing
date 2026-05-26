@@ -1,7 +1,7 @@
 ---
 title: "Jordania: Guía de viaje con Petra, Wadi Rum y más"
 metaTitle: "Jordania Guía de Viaje 2026: Petra, Desierto y Mar Muerto | Zercy"
-description: "Jordania guía de viaje 2026: Petra, Wadi Rum, Mar Muerto, Aqaba y Ammán. Jordan Pass, mejor temporada y todo lo que necesitas saber para tu viaje a Jordania."
+description: "Jordania guía de viaje 2026: Petra, Wadi Rum, Mar Muerto, Aqaba y Ammán. Jordan Pass, mejor temporada y todo lo que necesitas saber para tu viaje a Jordania. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "7 Airport Tricks That Actually Save You Time"
 metaTitle: "Airport Hacks: 7 Tricks That Save Time | Zercy"
-description: "Airports are designed to slow you down and get you spending. These 7 tricks push back — and actually work."
+description: "Airports are designed to slow you down and get you spending. These 7 tricks push back — and actually work. From security shortcuts to lounge access on economy tickets."
 pubDate: 2026-03-26
 category: "Smart Travel"
 readingTime: 8

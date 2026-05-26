@@ -1,7 +1,7 @@
 ---
 title: "Turismo gastronómico: cómo comer como un local en cualquier destino"
 metaTitle: "Turismo gastronómico: comer como local 2026 | Zercy"
-description: "Los restaurantes turísticos casi siempre decepcionan. Aquí te mostramos dónde comen los locales, qué apps usar y cómo disfrutar el street food de verdad."
+description: "Los restaurantes turísticos casi siempre decepcionan. Aquí te mostramos dónde comen los locales, qué apps usar y cómo disfrutar el street food de verdad. Todo lo que necesitas saber."
 pubDate: 2026-05-11
 category: "En camino"
 readingTime: 6

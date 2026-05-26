@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Prag: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Prag: Wo übernachten 2026 | Zercy"
-description: "Prag hat 4 sehr unterschiedliche Stadtteile: Staré Město Altstadt, Malá Strana Burg, Vinohrady Hip, Žižkov Boho. Welcher passt zu deiner Tschechien-Reise?"
+description: "Prag hat 4 sehr unterschiedliche Stadtteile: Staré Město Altstadt, Malá Strana Burg, Vinohrady Hip, Žižkov Boho. Welcher passt zu deiner Tschechien-Reise? Top-Hotels für jedes Budget."
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7

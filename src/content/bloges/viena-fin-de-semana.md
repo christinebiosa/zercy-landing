@@ -1,7 +1,7 @@
 ---
 title: "Viena en un fin de semana: museos, Schönbrunn y los mejores cafés"
 metaTitle: "Viena fin de semana: qué ver, costos y transporte 2026 | Zercy"
-description: "Viena en 48 horas: Kunsthistorisches Museum, Schönbrunn, Albertina y los cafés históricos. Transporte desde el aeropuerto y cuánto cuesta realmente."
+description: "Viena en 48 horas: Kunsthistorisches Museum, Schönbrunn, Albertina y los cafés históricos. Transporte desde el aeropuerto y cuánto cuesta realmente. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "En camino"
 readingTime: 7

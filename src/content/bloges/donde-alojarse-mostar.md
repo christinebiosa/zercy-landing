@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Mostar: Dónde alojarse por barrio 2026"
 metaTitle: "Hoteles Mostar 2026: Dónde alojarse | Zercy"
-description: "Mostar hoteles 2026: ¿Stari Grad, Ciudad Nueva o a orillas del Neretva? Mejores barrios, picks de hoteles y consejos para la ciudad más bella de Bosnia."
+description: "Mostar hoteles 2026: ¿Stari Grad, Ciudad Nueva o a orillas del Neretva? Mejores barrios, picks de hoteles y consejos para la ciudad más bella de Bosnia. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

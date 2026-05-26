@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Kotor: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels in Kotor: Wo übernachten 2026 | Zercy"
-description: "Kotor hat 5 Stadtteile: Stari Grad innerhalb der Mauern, Dobrota ruhig am Nordufer, Prčanj mit Panorama, Muo günstig und nah, Tivat mit Marina-Luxus. Dein Fit."
+description: "Kotor hat 5 Stadtteile: Stari Grad innerhalb der Mauern, Dobrota ruhig am Nordufer, Prčanj mit Panorama, Muo günstig und nah, Tivat mit Marina-Luxus. Dein Fit. Top-Hotels für jedes Budget."
 pubDate: 2026-05-11
 category: "Wo übernachten"
 readingTime: 7

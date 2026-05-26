@@ -1,7 +1,7 @@
 ---
 title: "Is Booking Genius Worth It? Honest Review of All 3 Levels"
 metaTitle: "Is Booking Genius Worth It? All 3 Levels | Zercy"
-description: "Booking Genius Level 1, 2 and 3 explained: what discounts do you actually get? An honest check of when the loyalty program pays off and when to book elsewhere."
+description: "Booking Genius Level 1, 2 and 3 explained: what discounts do you actually get? An honest check of when the loyalty program pays off and when to book elsewhere. Everything you need to know."
 pubDate: 2026-05-08
 category: "Smart Travel"
 readingTime: 6

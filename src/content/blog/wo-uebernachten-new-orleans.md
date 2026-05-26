@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in New Orleans: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels New Orleans: Wo übernachten 2026 | Zercy"
-description: "New Orleans hat 4 sehr unterschiedliche Stadtteile: French Quarter, Garden District, Marigny Jazz, Warehouse District. Welcher passt zu deiner Louisiana-Reise?"
+description: "New Orleans hat 4 sehr unterschiedliche Stadtteile: French Quarter, Garden District, Marigny Jazz, Warehouse District. Welcher passt zu deiner Louisiana-Reise? Top-Hotels für jedes Budget."
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Medellín: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Medellín: Where to Stay 2026 | Zercy"
-description: "Medellín has 4 very different neighborhoods: El Poblado premium, Laureles hipster, Centro local, Envigado family. Which fits your Colombia trip?"
+description: "Medellín has 4 very different neighborhoods: El Poblado premium, Laureles hipster, Centro local, Envigado family. Which fits your Colombia trip? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

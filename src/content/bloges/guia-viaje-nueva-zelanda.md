@@ -1,7 +1,7 @@
 ---
 title: "Guía de viaje a Nueva Zelanda 2026: lo que nadie te cuenta antes de ir"
 metaTitle: "Guía viaje Nueva Zelanda 2026: rutas, costos y consejos | Zercy"
-description: "Isla Norte vs. Isla Sur, campervan o auto de alquiler, Fiordland y Queenstown. Todo lo que necesitás saber para planificar tu viaje a Nueva Zelanda en 2026."
+description: "Isla Norte vs. Isla Sur, campervan o auto de alquiler, Fiordland y Queenstown. Todo lo que necesitás saber para planificar tu viaje a Nueva Zelanda en 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 7

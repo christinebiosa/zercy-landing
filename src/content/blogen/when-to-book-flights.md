@@ -1,7 +1,7 @@
 ---
 title: "When Should You Book Flights? The Optimal Timing"
 metaTitle: "When to Book Flights for the Best Price | Zercy"
-description: "Book too early or too late and you'll pay more. We explain the optimal booking window for short-haul and long-haul flights."
+description: "Book too early or too late and you'll pay more. We explain the optimal booking window for short-haul and long-haul routes — including the best day and time to buy."
 pubDate: 2026-03-18
 category: "Travel Tips"
 readingTime: 9

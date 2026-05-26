@@ -1,7 +1,7 @@
 ---
 title: "Mejores destinos de playa del mundo 2026: Donde el mar es realmente increíble"
 metaTitle: "Mejores playas del mundo 2026: Top 10 por tipo | Zercy"
-description: "Mejores destinos de playa del mundo 2026: Maldivas a Palawan, Ibiza a Mykonos, Turks y Caicos a Mauricio. Qué playa va con qué tipo de viajero y cuándo ir."
+description: "Mejores destinos de playa del mundo 2026: Maldivas a Palawan, Ibiza a Mykonos, Turks y Caicos a Mauricio. Qué playa va con qué tipo de viajero y cuándo ir. Todo lo que necesitas saber."
 pubDate: 2026-05-11
 category: "Lugares lejanos"
 readingTime: 8

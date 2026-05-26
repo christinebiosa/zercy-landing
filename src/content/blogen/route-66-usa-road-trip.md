@@ -1,7 +1,7 @@
 ---
 title: "Route 66: The Ultimate USA Road Trip Guide 2026"
 metaTitle: "Route 66 Road Trip USA: The Complete Guide 2026 | Zercy"
-description: "Route 66 from Chicago to Santa Monica: 3,940 km through 8 states, the best stops, best season, budget breakdown and practical tips for your USA road trip 2026."
+description: "Route 66 from Chicago to Santa Monica: 3,940 km through 8 states, the best stops, best season, budget breakdown and practical tips for your USA road trip 2026. Everything you need to plan your trip."
 pubDate: 2026-05-11
 category: "Off the Map"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Cartagena: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Cartagena: Where to Stay 2026 | Zercy"
-description: "Cartagena has 4 very different neighborhoods: Centro Histórico walled, Getsemaní hip, Bocagrande beach, Manga local. Which fits your Caribbean trip best?"
+description: "Cartagena has 4 very different neighborhoods: Centro Histórico walled, Getsemaní hip, Bocagrande beach, Manga local. Which fits your Caribbean trip best? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

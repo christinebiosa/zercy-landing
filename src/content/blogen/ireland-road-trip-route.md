@@ -1,7 +1,7 @@
 ---
 title: "Ireland Road Trip Route: The Best Drive Through the Green Island"
 metaTitle: "Ireland Road Trip Route 2026: Wild Atlantic Way | Zercy"
-description: "Plan your Ireland road trip: Dublin, Wild Atlantic Way, Cliffs of Moher, Ring of Kerry, Giant's Causeway. Best route, rental car tips, and when to go."
+description: "Plan your Ireland road trip: Dublin, Wild Atlantic Way, Cliffs of Moher, Ring of Kerry, Giant's Causeway. Best route, rental car tips, and when to go. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

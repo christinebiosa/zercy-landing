@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels auf Mykonos: Wo übernachten in welchem Viertel 2026"
 metaTitle: "Hotels Mykonos: Wo übernachten 2026 | Zercy"
-description: "Wo übernachten auf Mykonos? Chora für Windmühlen und Nachtleben, Ornos für Familien, Psarou für Luxus. Ehrliche Einschätzung aller Bereiche mit Hotel-Tipps."
+description: "Wo übernachten auf Mykonos? Chora für Windmühlen und Nachtleben, Ornos für Familien, Psarou für Luxus. Ehrliche Einschätzung aller Bereiche mit Hotel-Tipps. Top-Hotels für jedes Budget."
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7

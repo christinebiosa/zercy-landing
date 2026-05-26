@@ -1,7 +1,7 @@
 ---
 title: "Ruanda: Guía honesta para el trekking de gorilas de montaña"
 metaTitle: "Trekking de Gorilas en Ruanda 2026: Costes y Consejos | Zercy"
-description: "Trekking de gorilas en el Parque Nacional de los Volcanes, Kigali y Nyungwe: la guía honesta con información sobre permisos, costes reales y mejor época."
+description: "Trekking de gorilas en el Parque Nacional de los Volcanes, Kigali y Nyungwe: la guía honesta con información sobre permisos, costes reales y mejor época. Todo lo que necesitas saber."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

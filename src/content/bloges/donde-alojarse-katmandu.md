@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Katmandú: Dónde alojarse en 2026"
 metaTitle: "Mejores Hoteles Katmandú: Dónde Alojarse 2026 | Zercy"
-description: "Katmandú tiene 5 barrios muy distintos: Thamel, Patan, Bhaktapur, Boudhanath, Patan Durbar. ¿Cuál encaja con tu viaje a Nepal y el Himalaya?"
+description: "Katmandú tiene 5 barrios muy distintos: Thamel, Patan, Bhaktapur, Boudhanath, Patan Durbar. ¿Cuál encaja con tu viaje a Nepal y el Himalaya? Guía honesta para cada viajero."
 pubDate: 2026-05-11
 category: "Dónde alojarse"
 readingTime: 7

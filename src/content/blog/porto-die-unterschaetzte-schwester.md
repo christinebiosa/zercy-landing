@@ -1,7 +1,7 @@
 ---
 title: "Porto: Die unterschätzte Schwester von Lissabon"
 metaTitle: "Porto Reisetipps: Lissabons beste Alternative | Zercy"
-description: "Porto ist günstiger, ruhiger und hat das bessere Essen. Ribeira, Portwein, Francesinha, Douro Valley und warum Porto für viele die klügere Wahl ist."
+description: "Porto ist günstiger, ruhiger und hat das bessere Essen. Ribeira, Portwein, Francesinha, Douro Valley und warum Porto für viele die klügere Wahl ist. Alles was du wissen musst."
 pubDate: 2026-04-04
 category: "Reiseziele"
 readingTime: 7

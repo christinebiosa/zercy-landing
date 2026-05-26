@@ -1,7 +1,7 @@
 ---
 title: "Porto: Lisbon's Underrated Sister City"
 metaTitle: "Porto Travel Guide: Why It Beats Lisbon | Zercy"
-description: "Porto is cheaper, calmer, and the food is better. Ribeira, port wine, francesinha, Douro Valley, and why Porto might be the smarter choice over Lisbon."
+description: "Porto is cheaper, calmer, and the food is better. Ribeira, port wine, francesinha, Douro Valley, and why Porto might be the smarter choice over Lisbon. Everything you need to know."
 pubDate: 2026-04-04
 category: "Destinations"
 readingTime: 7

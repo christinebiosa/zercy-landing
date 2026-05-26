@@ -1,7 +1,7 @@
 ---
 title: "Indonesia Beyond Bali: The Real Highlights"
 metaTitle: "Indonesia Travel Guide 2026: Highlights Beyond Bali | Zercy"
-description: "Yogyakarta, Komodo, Sulawesi and Lombok: the best Indonesia highlights beyond Bali with travel seasons, costs and practical tips for 2026."
+description: "Yogyakarta, Komodo, Sulawesi and Lombok: the best Indonesia highlights beyond Bali with travel seasons, costs and practical tips for 2026. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Südafrika Rundreise: Die beste Route für deinen Trip"
 metaTitle: "Südafrika Rundreise 2026: Route & Tipps | Zercy"
-description: "Kapstadt, Garden Route, Kruger-Nationalpark: die klassische Südafrika-Rundreise mit allen wichtigen Stopps, Reisezeiten und praktischen Tipps für 2026."
+description: "Kapstadt, Garden Route, Kruger-Nationalpark: die klassische Südafrika-Rundreise mit allen wichtigen Stopps, Reisezeiten und praktischen Tipps für 2026. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

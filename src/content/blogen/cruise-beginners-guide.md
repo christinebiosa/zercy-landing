@@ -1,7 +1,7 @@
 ---
 title: "Cruises for Beginners: What You Really Need to Know Before Booking"
 metaTitle: "Cruises for Beginners: Honest Guide 2026 | Zercy"
-description: "Booking your first cruise? Cabin types, real all-in costs, seasickness truth, best routes for beginners and how to book smart. The honest guide."
+description: "Booking your first cruise? Cabin types, real all-in costs, seasickness truth, best routes for beginners and how to book smart. The honest guide. Everything you need to plan your trip."
 pubDate: 2026-05-11
 category: "Smart Travel"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Rhodos: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Rhodos 2026: Wo übernachten | Zercy"
-description: "Rhodos Hotels 2026: Altstadt im UNESCO-Welterbe, Mandraki für Strandlage, Faliraki für Nightlife, Lindos für Romantik. Preise und Top-Picks für jeden Typ."
+description: "Rhodos Hotels 2026: Altstadt im UNESCO-Welterbe, Mandraki für Strandlage, Faliraki für Nightlife, Lindos für Romantik. Preise und Top-Picks für jeden Typ. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

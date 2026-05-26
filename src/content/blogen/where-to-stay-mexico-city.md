@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Mexico City: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Mexico City: Where to Stay 2026 | Zercy"
-description: "Mexico City has 5 very different neighborhoods: Roma, Condesa, Polanco, Centro Histórico, Coyoacán. Which fits your trip to CDMX best?"
+description: "Mexico City has 5 very different neighborhoods: Roma, Condesa, Polanco, Centro Histórico, Coyoacán. Which fits your trip to CDMX best? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

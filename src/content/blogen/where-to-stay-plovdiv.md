@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Plovdiv: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Hotels Plovdiv 2026: Where to Stay by District | Zercy"
-description: "Plovdiv hotels 2026: Old Town, Kapana or city center? Best neighborhoods, top picks and tips for Bulgaria's oldest and most charming city."
+description: "Plovdiv hotels 2026: Old Town, Kapana or city center? Best neighborhoods, top picks and tips for Bulgaria's oldest and most charming city. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

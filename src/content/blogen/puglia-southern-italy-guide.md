@@ -1,7 +1,7 @@
 ---
 title: "Puglia: Italy's Most Underrated Southern Region"
 metaTitle: "Puglia Travel Guide 2026: Italy's Best Region | Zercy"
-description: "Turquoise sea, Trulli, burrata and no mass tourism: Puglia is Italy's best destination in 2026. Which places are worth it, when to go and what it really costs."
+description: "Turquoise sea, Trulli, burrata and no mass tourism: Puglia is Italy's best destination in 2026. Which places are worth it, when to go and what it really costs. Everything you need to plan your trip."
 pubDate: 2026-04-28
 category: "Off the Map"
 readingTime: 7

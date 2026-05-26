@@ -1,7 +1,7 @@
 ---
 title: "South Africa Road Trip: The Best Route for Your Trip"
 metaTitle: "South Africa Road Trip 2026: Route & Tips | Zercy"
-description: "Cape Town, Garden Route, Kruger National Park: the classic South Africa road trip with all key stops, best travel seasons and practical tips for 2026."
+description: "Cape Town, Garden Route, Kruger National Park: the classic South Africa road trip with all key stops, best travel seasons and practical tips for 2026. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

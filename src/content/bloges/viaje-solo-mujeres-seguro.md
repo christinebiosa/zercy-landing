@@ -1,7 +1,7 @@
 ---
 title: "Viaje solo para mujeres: los países más seguros y los consejos que funcionan"
 metaTitle: "Viaje solo mujeres 2026: países seguros y consejos reales | Zercy"
-description: "Los mejores destinos para viajar sola siendo mujer en 2026 y los consejos que realmente funcionan. Sin miedo innecesario, con información práctica."
+description: "Los mejores destinos para viajar sola siendo mujer en 2026 y los consejos que realmente funcionan. Sin miedo innecesario, con información práctica. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Consejos de viaje"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "10 errores clásicos de viaje y cómo evitarlos en 2026"
 metaTitle: "10 errores de viaje y cómo evitarlos en 2026 | Zercy"
-description: "Itinerario sobrecargado, sin seguro, trampa DCC y 7 errores más que hacen el viaje caro. Aquí están las soluciones concretas para 2026."
+description: "Itinerario sobrecargado, sin seguro, trampa DCC y 7 errores más que hacen el viaje caro. Aquí están las soluciones concretas para 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-11
 category: "Consejos de viaje"
 readingTime: 6

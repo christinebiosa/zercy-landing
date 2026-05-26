@@ -1,7 +1,7 @@
 ---
 title: "El Camino de Santiago: rutas, preparación y qué esperar en 2026"
 metaTitle: "Camino de Santiago 2026: rutas, preparación y consejos | Zercy"
-description: "Todo sobre el Camino de Santiago en 2026. Francés, Portugués, del Norte. Cuánto tiempo, cuánto cuesta, cómo prepararse y qué esperar en el camino."
+description: "Todo sobre el Camino de Santiago en 2026. Francés, Portugués, del Norte. Cuánto tiempo, cuánto cuesta, cómo prepararse y qué esperar en el camino. Todo lo que necesitas para planificar."
 pubDate: 2026-05-08
 category: "En camino"
 readingTime: 8

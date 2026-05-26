@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Vienna: Where to Stay in Each District 2026"
 metaTitle: "Best Hotels Vienna: Where to Stay 2026 | Zercy"
-description: "Vienna has 5 very different districts: Innere Stadt imperial, Neubau hip, Leopoldstadt park, Mariahilf shopping, Wieden boutique. Which fits your trip?"
+description: "Vienna has 5 very different districts: Innere Stadt imperial, Neubau hip, Leopoldstadt park, Mariahilf shopping, Wieden boutique. Which fits your trip? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

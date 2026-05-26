@@ -1,7 +1,7 @@
 ---
 title: "Southeast Asia on a Budget: The Honest Travel Guide 2026"
 metaTitle: "Southeast Asia Budget Travel: Honest Guide 2026 | Zercy"
-description: "Thailand, Vietnam, Cambodia, Bali: real daily costs, the best routes, what costs more than expected. The honest budget guide without sugarcoating."
+description: "Thailand, Vietnam, Cambodia, Bali: real daily costs, the best routes, what costs more than expected. The honest budget guide without sugarcoating. Everything you need to know."
 pubDate: 2026-05-11
 category: "Smart Travel"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Genf: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Genf: Wo übernachten 2026 | Zercy"
-description: "Vieille-Ville, Pâquis oder Eaux-Vives? Die besten Stadtteile für Hotels in Genf mit konkreten Empfehlungen für jeden Reisetyp und Budget."
+description: "Vieille-Ville, Pâquis oder Eaux-Vives? Die besten Stadtteile für Hotels in Genf mit konkreten Empfehlungen für jeden Reisetyp und Budget. Top-Hotels für jedes Budget."
 pubDate: 2026-05-25
 category: "Wo übernachten"
 readingTime: 5

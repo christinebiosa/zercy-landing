@@ -1,7 +1,7 @@
 ---
 title: "Greek Islands Compared: Santorini, Mykonos, Crete, or Rhodes?"
 metaTitle: "Greek Islands Guide 2026: Which One Is Right for You? | Zercy"
-description: "Santorini, Mykonos, Crete, or Rhodes? A straight-up comparison of all four Greek islands by price, vibe, beaches, and traveler type so you pick the right one."
+description: "Santorini, Mykonos, Crete, or Rhodes? A straight-up comparison of all four Greek islands by price, vibe, beaches, and traveler type so you pick the right one. Honest comparison with real numbers."
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 8

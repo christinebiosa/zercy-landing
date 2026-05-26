@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Busan: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Hotels Busan 2026: Where to Stay by Neighborhood | Zercy"
-description: "Busan hotels 2026: Haeundae, Nampo-Dong, Gwangalli or Seomyeon. Best neighborhoods, top picks and tips for South Korea's vibrant beach city."
+description: "Busan hotels 2026: Haeundae, Nampo-Dong, Gwangalli or Seomyeon. Best neighborhoods, top picks and tips for South Korea's vibrant beach city. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Ciudad del Cabo: dónde alojarse por zona 2026"
 metaTitle: "Mejores hoteles Ciudad del Cabo: Dónde alojarse | Zercy"
-description: "¿Dónde alojarse en Ciudad del Cabo? V&A Waterfront para comodidad, De Waterkant para ambiente, Camps Bay para playa y lujo. Hoteles y precios por zona."
+description: "¿Dónde alojarse en Ciudad del Cabo? V&A Waterfront para comodidad, De Waterkant para ambiente, Camps Bay para playa y lujo. Hoteles y precios por zona. Guía honesta para cada viajero."
 pubDate: 2026-05-08
 category: "Dónde alojarse"
 readingTime: 6

@@ -1,7 +1,7 @@
 ---
 title: "Bulgaria Guía de Viaje: Sofía, Plovdiv y el Destino Más Asequible de la UE"
 metaTitle: "Bulgaria Guía de Viaje 2026: Sofía, Plovdiv y Highlights | Zercy"
-description: "Descubre Bulgaria: Sofía, Plovdiv, Nessebar en el Mar Negro, Monasterio de Rila. Por qué Bulgaria es el destino más asequible de la UE y qué te espera allí."
+description: "Descubre Bulgaria: Sofía, Plovdiv, Nessebar en el Mar Negro, Monasterio de Rila. Por qué Bulgaria es el destino más asequible de la UE y qué te espera allí. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

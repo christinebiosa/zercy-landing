@@ -1,7 +1,7 @@
 ---
 title: "Japan Beyond Tokyo: Kyoto, Osaka, Hiroshima, and More"
 metaTitle: "Japan Beyond Tokyo 2026: Kyoto, Osaka, Hiroshima Guide | Zercy"
-description: "Discover Japan beyond Tokyo: Kyoto with geishas and temples, Osaka with Asia's best street food, Hiroshima, Nara's deer park, and the Japanese Alps."
+description: "Discover Japan beyond Tokyo: Kyoto with geishas and temples, Osaka with Asia's best street food, Hiroshima, Nara's deer park, and the Japanese Alps. Everything you need to plan your trip."
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 9

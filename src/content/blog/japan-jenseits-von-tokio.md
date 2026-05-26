@@ -1,7 +1,7 @@
 ---
 title: "Japan jenseits von Tokio: Kyoto, Osaka, Hiroshima und mehr"
 metaTitle: "Japan jenseits Tokio 2026: Kyoto, Osaka, Hiroshima | Zercy"
-description: "Japan über Tokio hinaus entdecken: Kyoto mit Geishas und Tempel, Osaka mit der besten Streetfood-Kultur Asiens, Hiroshima, Nara und die Japanischen Alpen."
+description: "Japan über Tokio hinaus entdecken: Kyoto mit Geishas und Tempel, Osaka mit der besten Streetfood-Kultur Asiens, Hiroshima, Nara und die Japanischen Alpen. Alles was du wissen musst."
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 9

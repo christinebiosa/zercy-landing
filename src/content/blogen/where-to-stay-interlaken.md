@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Interlaken: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Interlaken: Where to Stay 2026 | Zercy"
-description: "Interlaken hotels 2026: Town center between two lakes, Unterseen for character, mountain villages for alpine immersion. Top picks, prices and tips for 2026."
+description: "Interlaken hotels 2026: Town center between two lakes, Unterseen for character, mountain villages for alpine immersion. Top picks, prices and tips for 2026. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

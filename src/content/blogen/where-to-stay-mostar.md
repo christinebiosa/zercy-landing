@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Mostar: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Hotels Mostar 2026: Where to Stay by District | Zercy"
-description: "Mostar hotels 2026: Old Town, New City or on the Neretva? Best neighborhoods, top picks and practical tips for Bosnia's most beautiful city."
+description: "Mostar hotels 2026: Old Town, New City or on the Neretva? Best neighborhoods, top picks and practical tips for Bosnia's most beautiful city. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

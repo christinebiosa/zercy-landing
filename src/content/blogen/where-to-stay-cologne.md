@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Cologne: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Hotels Cologne 2026: Where to Stay by District | Zercy"
-description: "Cologne hotels 2026: Old Town, Belgian Quarter, Ehrenfeld or Deutz? Best neighborhoods, top picks and tips for Germany's cathedral city on the Rhine."
+description: "Cologne hotels 2026: Old Town, Belgian Quarter, Ehrenfeld or Deutz? Best neighborhoods, top picks and tips for Germany's cathedral city on the Rhine. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

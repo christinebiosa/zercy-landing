@@ -1,7 +1,7 @@
 ---
 title: "Cambodia Travel Guide: Angkor Wat and the Country's Highlights"
 metaTitle: "Cambodia Travel Guide 2026: Angkor Wat & Tips | Zercy"
-description: "Cambodia travel guide 2026: Angkor Wat, Angkor Thom, Phnom Penh, and Kampot. E-visa, best travel season, tuk-tuk tips, and costs for your Cambodia trip."
+description: "Cambodia travel guide 2026: Angkor Wat, Angkor Thom, Phnom Penh, and Kampot. E-visa, best travel season, tuk-tuk tips, and costs for your Cambodia trip. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Islas griegas: Santorini, Mykonos, Creta o Rodas, ¿cuál elegir?"
 metaTitle: "Islas griegas 2026: cuál elegir según tu viaje | Zercy"
-description: "Santorini, Mykonos, Creta o Rodas: comparativa real de precio, ambiente, playas y tipo de viajero para que elijas la isla griega que se adapta mejor a ti."
+description: "Santorini, Mykonos, Creta o Rodas: comparativa real de precio, ambiente, playas y tipo de viajero para que elijas la isla griega que se adapta mejor a ti. Comparativa honesta con datos reales."
 pubDate: 2026-05-09
 category: "Joyas ocultas"
 readingTime: 8

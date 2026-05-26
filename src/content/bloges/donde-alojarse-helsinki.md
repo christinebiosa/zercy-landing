@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Helsinki: Dónde alojarse por barrios 2026"
 metaTitle: "Mejores hoteles Helsinki: Dónde alojarse 2026 | Zercy"
-description: "¿Design District, Kallio o Kruununhaka? Guía por barrios de Helsinki con recomendaciones para cada tipo de viaje y presupuesto."
+description: "¿Design District, Kallio o Kruununhaka? Guía por barrios de Helsinki con recomendaciones para cada tipo de viaje y presupuesto. Todo lo que necesitas para elegir bien."
 pubDate: 2026-05-25
 category: "Dónde alojarse"
 readingTime: 5

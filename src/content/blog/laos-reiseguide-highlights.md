@@ -1,7 +1,7 @@
 ---
 title: "Laos Reiseguide: Das ruhigste Land Südostasiens entdecken"
 metaTitle: "Laos Reiseguide 2026: Luang Prabang & Highlights | Zercy"
-description: "Laos Reiseguide 2026: Luang Prabang, Vang Vieng, Vientiane und die 4000 Inseln. Visa on Arrival, beste Reisezeit, Tipps und Kosten für deinen Laos-Trip 2026."
+description: "Laos Reiseguide 2026: Luang Prabang, Vang Vieng, Vientiane und die 4000 Inseln. Visa on Arrival, beste Reisezeit, Tipps und Kosten für deinen Laos-Trip 2026. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Albania Riviera: Europe's Last Undiscovered Coast"
 metaTitle: "Albania Riviera 2026: Honest Travel Guide | Zercy"
-description: "Turquoise water like Croatia, prices like Bulgaria 10 years ago. The Albania Riviera is Europe's last hidden coast. Where to go, when to visit, what to expect."
+description: "Turquoise water like Croatia, prices like Bulgaria 10 years ago. The Albania Riviera is Europe's last hidden coast. Where to go, when to visit, what to expect. Everything you need to know."
 pubDate: 2026-04-28
 category: "Off the Map"
 readingTime: 7

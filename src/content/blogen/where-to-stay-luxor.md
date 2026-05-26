@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Luxor: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Luxor 2026: Where to Stay in Luxor | Zercy"
-description: "Luxor hotels 2026: Corniche, West Bank or Karnak area? Best neighborhoods, top hotel picks and practical tips for your Egypt stay along the Nile."
+description: "Luxor hotels 2026: Corniche, West Bank or Karnak area? Best neighborhoods, top hotel picks and practical tips for your Egypt stay along the Nile. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

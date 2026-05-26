@@ -1,7 +1,7 @@
 ---
 title: "Riads en Marruecos: cómo elegir el mejor y qué esperar"
 metaTitle: "Riads Marruecos 2026: qué son, cómo elegir y dónde | Zercy"
-description: "Los riads son la forma más auténtica de alojarse en Marruecos. Qué son, cómo elegir uno bueno en Marrakech o Fez, y qué esperar de la experiencia."
+description: "Los riads son la forma más auténtica de alojarse en Marruecos. Qué son, cómo elegir uno bueno en Marrakech o Fez, y qué esperar de la experiencia. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Lugares lejanos"
 readingTime: 7

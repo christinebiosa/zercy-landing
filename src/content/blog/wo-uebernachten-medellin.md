@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Medellín: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Medellín: Wo übernachten 2026 | Zercy"
-description: "Medellín hat 4 sehr unterschiedliche Stadtteile: El Poblado Premium, Laureles Hipster, Centro Lokal, Envigado Familie. Welcher passt zu deiner Kolumbien-Reise?"
+description: "Medellín hat 4 sehr unterschiedliche Stadtteile: El Poblado Premium, Laureles Hipster, Centro Lokal, Envigado Familie. Welcher passt zu deiner Kolumbien-Reise? Top-Hotels für jedes Budget."
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7

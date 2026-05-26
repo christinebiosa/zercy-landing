@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Shanghái: Dónde alojarse por barrios 2026"
 metaTitle: "Mejores hoteles Shanghái: Dónde alojarse 2026 | Zercy"
-description: "¿The Bund, la Concesión Francesa o Pudong? Guía por barrios de Shanghái con recomendaciones para primeras visitas, expatriados y viajeros de negocios."
+description: "¿The Bund, la Concesión Francesa o Pudong? Guía por barrios de Shanghái con recomendaciones para primeras visitas, expatriados y viajeros de negocios. Guía honesta para cada viajero."
 pubDate: 2026-05-25
 category: "Dónde alojarse"
 readingTime: 5

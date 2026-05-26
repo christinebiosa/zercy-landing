@@ -1,7 +1,7 @@
 ---
 title: "Tokio gastronómico: los platos y experiencias que no hay que perderse"
 metaTitle: "Tokio gastronómico: qué comer y dónde en Tokio 2026 | Zercy"
-description: "Tokio tiene más estrellas Michelin que ninguna otra ciudad del mundo. Pero la mejor comida está en los callejones. Guía gastronómica para viajeros en 2026."
+description: "Tokio tiene más estrellas Michelin que ninguna otra ciudad del mundo. Pero la mejor comida está en los callejones. Guía gastronómica para viajeros en 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "En camino"
 readingTime: 7

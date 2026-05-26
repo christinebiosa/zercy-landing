@@ -1,7 +1,7 @@
 ---
 title: "Oporto: la ciudad subestimada que merece más tiempo del que le das"
 metaTitle: "Oporto: por qué es mejor que Lisboa para muchos viajeros | Zercy"
-description: "Oporto es más pequeña, más íntima y más auténtica que Lisboa. Las bodegas de vino del Oporto, la ribeira, la librería Lello y el ambiente local. Guía completa."
+description: "Oporto es más pequeña, más íntima y más auténtica que Lisboa. Las bodegas de vino del Oporto, la ribeira, la librería Lello y el ambiente local. Guía completa. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "En camino"
 readingTime: 6

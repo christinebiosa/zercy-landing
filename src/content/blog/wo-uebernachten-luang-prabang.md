@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Luang Prabang: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Luang Prabang 2026: Wo übernachten | Zercy"
-description: "Luang Prabang Hotels 2026: UNESCO-Altstadt, Mekong-Ufer oder Ban Xieng Maen. Die besten Stadtteile, Top-Picks und Tipps für jeden Reisestil."
+description: "Luang Prabang Hotels 2026: UNESCO-Altstadt, Mekong-Ufer oder Ban Xieng Maen. Die besten Stadtteile, Top-Picks und Tipps für jeden Reisestil. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

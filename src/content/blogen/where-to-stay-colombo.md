@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Colombo: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Colombo: Where to Stay 2026 | Zercy"
-description: "Colombo has 5 distinct neighborhoods: Fort for history, Kollupitiya for comfort, Cinnamon Gardens for luxury, Mount Lavinia for beach, Wellawatta for budget."
+description: "Colombo has 5 distinct neighborhoods: Fort for history, Kollupitiya for comfort, Cinnamon Gardens for luxury, Mount Lavinia for beach, Wellawatta for budget. Honest picks for every budget."
 pubDate: 2026-05-11
 category: "Where to Stay"
 readingTime: 7

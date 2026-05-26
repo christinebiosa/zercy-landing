@@ -1,7 +1,7 @@
 ---
 title: "Hidden city ticketing: qué es, cómo funciona y sus riesgos"
 metaTitle: "Hidden city ticketing explicado: qué es y qué riesgos tiene | Zercy"
-description: "¿Qué es el hidden city ticketing? Cómo funciona la técnica de bajarse en la escala para pagar menos, sus ventajas reales y los riesgos que debes conocer."
+description: "¿Qué es el hidden city ticketing? Cómo funciona la técnica de bajarse en la escala para pagar menos, sus ventajas reales y los riesgos que debes conocer. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Consejos de viaje"
 readingTime: 6

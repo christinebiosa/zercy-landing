@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Córdoba Spain: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Córdoba Spain: Where to Stay 2026 | Zercy"
-description: "La Judería, San Basilio or Santa Marina? A neighborhood guide to Córdoba hotels with honest picks for first-timers, culture lovers, and couples."
+description: "La Judería, San Basilio or Santa Marina? A neighborhood guide to Córdoba hotels with honest picks for first-timers, culture lovers, and couples. Honest picks for every budget."
 pubDate: 2026-05-25
 category: "Where to Stay"
 readingTime: 5

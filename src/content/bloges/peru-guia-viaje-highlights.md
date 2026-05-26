@@ -1,7 +1,7 @@
 ---
 title: "Perú: lo mejor del país en un solo viaje (guía completa)"
 metaTitle: "Perú: guía de viaje con Lima, Cusco y Machu Picchu | Zercy"
-description: "¿Cuántos días necesitas para ver lo mejor de Perú? Lima, Cusco, Machu Picchu y el Valle Sagrado. Presupuesto real, mal de altura y cuándo ir."
+description: "¿Cuántos días necesitas para ver lo mejor de Perú? Lima, Cusco, Machu Picchu y el Valle Sagrado. Presupuesto real, mal de altura y cuándo ir. Todo lo que necesitas para planificar."
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 7

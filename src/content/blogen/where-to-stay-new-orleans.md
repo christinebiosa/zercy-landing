@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in New Orleans: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels New Orleans: Where to Stay 2026 | Zercy"
-description: "New Orleans has 4 very different neighborhoods: French Quarter, Garden District, Marigny jazz, Warehouse District. Which fits your Louisiana trip?"
+description: "New Orleans has 4 very different neighborhoods: French Quarter, Garden District, Marigny jazz, Warehouse District. Which fits your Louisiana trip? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Qué es Zercy y cómo funciona el planificador de viajes con IA"
 metaTitle: "Qué es Zercy: planificador de viajes con IA y precios reales | Zercy"
-description: "Zercy es un planificador de viajes con inteligencia artificial que combina conversación natural con precios reales de vuelos y hoteles. Así es como funciona."
+description: "Zercy es un planificador de viajes con inteligencia artificial que combina conversación natural con precios reales de vuelos y hoteles. Así es como funciona. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "IA y viajes"
 readingTime: 6

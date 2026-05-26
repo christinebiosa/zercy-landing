@@ -1,7 +1,7 @@
 ---
 title: "Kreuzfahrt für Einsteiger: Was du wirklich wissen musst vor der Buchung"
 metaTitle: "Kreuzfahrt für Einsteiger: Ehrlicher Guide 2026 | Zercy"
-description: "Kreuzfahrt erstmals buchen? Kabinentypen, echte Gesamtkosten, Seekrankheit, beste Routen für Einsteiger und wo du am besten buchst. Der ehrliche Guide."
+description: "Kreuzfahrt erstmals buchen? Kabinentypen, echte Gesamtkosten, Seekrankheit, beste Routen für Einsteiger und wo du am besten buchst. Der ehrliche Guide. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-11
 category: "Clever Reisen"
 readingTime: 7

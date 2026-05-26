@@ -1,7 +1,7 @@
 ---
 title: "Ruta Vietnam 2 semanas: de Hanói a Ho Chi Minh paso a paso"
 metaTitle: "Vietnam 2 semanas: ruta completa de norte a sur 2026 | Zercy"
-description: "Ruta Vietnam en 2 semanas: Hanói, Bahía de Halong, Hoi An y Ho Chi Minh. Cuándo ir para evitar monzones, presupuesto diario y cómo tramitar el e-Visa."
+description: "Ruta Vietnam en 2 semanas: Hanói, Bahía de Halong, Hoi An y Ho Chi Minh. Cuándo ir para evitar monzones, presupuesto diario y cómo tramitar el e-Visa. Todo lo que necesitas para planificar."
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 7

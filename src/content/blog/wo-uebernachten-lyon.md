@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Lyon: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Lyon: Wo übernachten 2026 | Zercy"
-description: "Lyon Hotels 2026: Vieux-Lyon historisch, Presqu'île zentral, Croix-Rousse lokal. Die besten Stadtteile, Top-Picks und Tipps für deinen Aufenthalt."
+description: "Lyon Hotels 2026: Vieux-Lyon historisch, Presqu'île zentral, Croix-Rousse lokal. Die besten Stadtteile, Top-Picks und Tipps für deinen Aufenthalt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

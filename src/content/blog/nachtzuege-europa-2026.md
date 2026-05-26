@@ -1,7 +1,7 @@
 ---
 title: "Nachtzüge in Europa 2026: Die besten Strecken, Preise und Buchungstipps"
 metaTitle: "Nachtzüge Europa 2026: Routen & Preise | Zercy"
-description: "Nachtzüge erleben ein Comeback in Europa. Die besten Schlafwagen-Strecken 2026, was sie kosten, welche Komfortklassen es gibt und wie du am günstigsten buchst."
+description: "Nachtzüge erleben ein Comeback in Europa. Die besten Schlafwagen-Strecken 2026, was sie kosten, welche Komfortklassen es gibt und wie du am günstigsten buchst. Alles was du wissen musst."
 pubDate: 2026-04-04
 category: "Grün Reisen"
 readingTime: 7

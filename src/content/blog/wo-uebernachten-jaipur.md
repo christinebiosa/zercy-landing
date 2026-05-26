@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Jaipur: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Jaipur: Wo übernachten 2026 | Zercy"
-description: "Jaipur hat 5 Zonen: Pink City chaotisch & authentisch, Civil Lines kolonial ruhig, Bani Park grün & günstig, Malviya Nagar modern, Amer Road nah am Amber Fort."
+description: "Jaipur hat 5 Zonen: Pink City chaotisch & authentisch, Civil Lines kolonial ruhig, Bani Park grün & günstig, Malviya Nagar modern, Amer Road nah am Amber Fort. Top-Hotels für jedes Budget."
 pubDate: 2026-05-10
 category: "Wo übernachten"
 readingTime: 7

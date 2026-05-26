@@ -1,7 +1,7 @@
 ---
 title: "Wohnungstausch: Wie du kostenlos in der ganzen Welt übernachtest"
 metaTitle: "Wohnungstausch Urlaub Guide 2026: So funktioniert's | Zercy"
-description: "Wohnungstausch als Alternative zu Airbnb. Wie HomeExchange, Love Home Swap und Co. funktionieren, was es kostet und für wen es sich wirklich lohnt."
+description: "Wohnungstausch als Alternative zu Airbnb. Wie HomeExchange, Love Home Swap und Co. funktionieren, was es kostet und für wen es sich wirklich lohnt. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-11
 category: "Clever Reisen"
 readingTime: 7

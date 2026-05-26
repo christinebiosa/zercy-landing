@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Córdoba España: Dónde alojarse por barrios 2026"
 metaTitle: "Mejores hoteles Córdoba España: Dónde alojarse 2026 | Zercy"
-description: "¿La Judería, San Basilio o Santa Marina? Guía por barrios de Córdoba con recomendaciones para primeras visitas, amantes de la cultura y parejas."
+description: "¿La Judería, San Basilio o Santa Marina? Guía por barrios de Córdoba con recomendaciones para primeras visitas, amantes de la cultura y parejas. Guía honesta para cada viajero."
 pubDate: 2026-05-25
 category: "Dónde alojarse"
 readingTime: 5

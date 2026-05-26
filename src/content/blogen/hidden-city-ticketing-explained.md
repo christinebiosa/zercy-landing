@@ -1,7 +1,7 @@
 ---
 title: "Hidden City Ticketing: How the Sneaky Booking Trick Actually Works"
 metaTitle: "Hidden City Ticketing: Save Money Flying | Zercy"
-description: "Hidden city ticketing sounds shady, but it can save real money on flights. How it works, what airlines say, and when the savings actually beat the risks."
+description: "Hidden city ticketing sounds shady, but it can save real money on flights. How it works, what airlines say, and when the savings actually beat the risks. Everything you need to know."
 pubDate: 2026-04-28
 category: "Smart Travel"
 readingTime: 7

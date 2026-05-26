@@ -1,7 +1,7 @@
 ---
 title: "Sri Lanka Road Trip Route: The Best Way Around the Island"
 metaTitle: "Sri Lanka Road Trip Route 2026: Tips & Itinerary | Zercy"
-description: "Sri Lanka road trip route 2026: Colombo, Kandy, Ella, Sigiriya, and Galle. Best travel seasons for each coast, ETA visa info, and practical transport tips."
+description: "Sri Lanka road trip route 2026: Colombo, Kandy, Ella, Sigiriya, and Galle. Best travel seasons for each coast, ETA visa info, and practical transport tips. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

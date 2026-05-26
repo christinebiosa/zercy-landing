@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Kathmandu: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Kathmandu: Where to Stay 2026 | Zercy"
-description: "Kathmandu has 5 very different neighborhoods: Thamel, Patan, Bhaktapur, Boudhanath, Patan Durbar. Which one fits your Nepal trip to the Himalayas?"
+description: "Kathmandu has 5 very different neighborhoods: Thamel, Patan, Bhaktapur, Boudhanath, Patan Durbar. Which one fits your Nepal trip to the Himalayas? Honest picks for every budget."
 pubDate: 2026-05-11
 category: "Where to Stay"
 readingTime: 7

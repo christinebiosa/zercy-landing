@@ -1,7 +1,7 @@
 ---
 title: "East Africa Safari Guide 2026: How to Plan It Right"
 metaTitle: "East Africa Safari Guide 2026: Plan It Right | Zercy"
-description: "Masai Mara, Serengeti, gorilla trekking in Uganda: costs, best time to go, camp vs lodge, and what safari brochures won't tell you. The honest 2026 guide."
+description: "Masai Mara, Serengeti, gorilla trekking in Uganda: costs, best time to go, camp vs lodge, and what safari brochures won't tell you. The honest 2026 guide. Everything you need to plan your trip."
 pubDate: 2026-05-11
 category: "Off the Map"
 readingTime: 8

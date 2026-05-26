@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Dubrovnik: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Dubrovnik Hotels: Wo übernachten 2026 | Zercy"
-description: "Stari Grad oder Lapad? Die besten Hotels in Dubrovnik nach Stadtteil. Konkrete Hotel-Empfehlungen, Preise und das richtige Viertel für jeden Reisestil."
+description: "Stari Grad oder Lapad? Die besten Hotels in Dubrovnik nach Stadtteil. Konkrete Hotel-Empfehlungen, Preise und das richtige Viertel für jeden Reisestil. Top-Hotels für jedes Budget."
 pubDate: 2026-05-09
 category: "Wo übernachten"
 readingTime: 7

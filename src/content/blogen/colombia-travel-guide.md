@@ -1,7 +1,7 @@
 ---
 title: "Colombia Travel Guide 2026: Cities, Nature and Safety Tips"
 metaTitle: "Colombia Travel Guide 2026: Cities & Tips | Zercy"
-description: "Colombia 2026: Bogotá, Medellín, Cartagena, Zona Cafetera, and Tayrona National Park. Safety, visa, domestic flights, and the best time to visit."
+description: "Colombia 2026: Bogotá, Medellín, Cartagena, Zona Cafetera, and Tayrona National Park. Safety, visa, domestic flights, and the best time to visit. Everything you need to plan your trip."
 pubDate: 2026-05-09
 category: "Off the Map"
 readingTime: 7

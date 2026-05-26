@@ -1,7 +1,7 @@
 ---
 title: "Polen Rundreise: Die beste Route durch Krakau, Warschau und die Tatra"
 metaTitle: "Polen Rundreise Route 2026: Krakau bis Zakopane | Zercy"
-description: "Polen Rundreise planen: Krakau, Warschau, Danzig, Breslau und Zakopane. Die beste Route, Zugtipps und warum Polen das unterschätzteste Land Mitteleuropas ist."
+description: "Polen Rundreise planen: Krakau, Warschau, Danzig, Breslau und Zakopane. Die beste Route, Zugtipps und warum Polen das unterschätzteste Land Mitteleuropas ist. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

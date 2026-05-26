@@ -1,7 +1,7 @@
 ---
 title: "Trucos de aeropuerto: 15 consejos para viajar sin estrés en 2026"
 metaTitle: "Trucos de aeropuerto: viajar sin estrés en 2026 | Zercy"
-description: "Los mejores trucos de aeropuerto: cómo pasar el control más rápido, acceder a salas VIP, evitar colas y gestionar retrasos. Guía práctica para viajeros."
+description: "Los mejores trucos de aeropuerto: cómo pasar el control más rápido, acceder a salas VIP, evitar colas y gestionar retrasos. Guía práctica para viajeros. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Consejos de viaje"
 readingTime: 7

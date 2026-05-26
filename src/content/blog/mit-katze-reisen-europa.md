@@ -1,7 +1,7 @@
 ---
 title: "Mit Katze reisen in Europa: Was du wirklich wissen musst"
 metaTitle: "Mit Katze reisen Europa 2026: Tipps & Regeln | Zercy"
-description: "Mit Katze reisen in Europa: EU-Heimtierausweis, Transport im Zug und Auto, haustierfreundliche Hotels, gesundheitliche Anforderungen und praktische Tipps 2026."
+description: "Mit Katze reisen in Europa: EU-Heimtierausweis, Transport im Zug und Auto, haustierfreundliche Hotels, gesundheitliche Anforderungen und praktische Tipps 2026. Alles was du wissen musst."
 pubDate: 2026-05-14
 category: "Reisetipps"
 readingTime: 7

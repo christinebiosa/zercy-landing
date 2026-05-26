@@ -1,7 +1,7 @@
 ---
 title: "Booking.com vs Direct Booking: When Each Actually Pays Off"
 metaTitle: "Booking.com vs Direct Booking: What's Worth It 2026 | Zercy"
-description: "Booking.com or directly with the hotel? There are clear rules when which option is better. We show you the honest pros and cons with concrete examples."
+description: "Booking.com or directly with the hotel? There are clear rules when which option is better. We show you the honest pros and cons with concrete examples. Honest comparison with real numbers."
 pubDate: 2026-05-07
 category: "Smart Travel"
 readingTime: 7

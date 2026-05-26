@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Pokhara: Dónde alojarse por barrio 2026"
 metaTitle: "Hoteles Pokhara 2026: Dónde alojarse por zona | Zercy"
-description: "Hoteles en Pokhara 2026: Lakeside, Damside o New Pokhara. Los mejores barrios, opciones top y consejos para la ciudad de trekking más bonita de Nepal."
+description: "Hoteles en Pokhara 2026: Lakeside, Damside o New Pokhara. Los mejores barrios, opciones top y consejos para la ciudad de trekking más bonita de Nepal. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

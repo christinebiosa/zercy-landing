@@ -1,7 +1,7 @@
 ---
 title: "Las joyas ocultas de Europa que pocos viajeros conocen"
 metaTitle: "Joyas ocultas de Europa 2026: destinos poco conocidos | Zercy"
-description: "Los destinos europeos que los viajeros con experiencia guardan para sí. Albania, Eslovenia, Matera, Kotor, Plovdiv y más. La lista de los que saben."
+description: "Los destinos europeos que los viajeros con experiencia guardan para sí. Albania, Eslovenia, Matera, Kotor, Plovdiv y más. La lista de los que saben. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Joyas ocultas"
 readingTime: 7

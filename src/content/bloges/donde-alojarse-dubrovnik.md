@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Dubrovnik: dónde alojarse por barrios 2026"
 metaTitle: "Hoteles Dubrovnik: dónde alojarse 2026 | Zercy"
-description: "¿Ciudad Vieja o Lapad? Los mejores hoteles en Dubrovnik por barrio. Recomendaciones honestas con precios, temporadas y cómo evitar la masificación de cruceros."
+description: "¿Ciudad Vieja o Lapad? Los mejores hoteles en Dubrovnik por barrio. Recomendaciones honestas con precios, temporadas y cómo evitar la masificación de cruceros. Guía honesta para cada viajero."
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7

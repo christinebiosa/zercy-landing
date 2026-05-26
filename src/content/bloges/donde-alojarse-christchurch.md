@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Christchurch: Dónde alojarse por barrio 2026"
 metaTitle: "Hoteles Christchurch 2026: Dónde Alojarse en Christchurch | Zercy"
-description: "Hoteles Christchurch 2026: Centro ciudad, Riccarton o Sumner. Los mejores barrios, mejores hoteles y consejos para tu estancia en la Isla Sur de Nueva Zelanda."
+description: "Hoteles Christchurch 2026: Centro ciudad, Riccarton o Sumner. Los mejores barrios, mejores hoteles y consejos para tu estancia en la Isla Sur de Nueva Zelanda. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

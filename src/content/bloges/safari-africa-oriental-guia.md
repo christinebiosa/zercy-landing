@@ -1,7 +1,7 @@
 ---
 title: "Safari en África Oriental 2026: cómo planificarlo bien"
 metaTitle: "Safari África Oriental 2026: guía honesta | Zercy"
-description: "Masai Mara, Serengeti y gorillas en Uganda: costos, mejor época, campo versus lodge y lo que los folletos de safari no cuentan. La guía honesta 2026."
+description: "Masai Mara, Serengeti y gorillas en Uganda: costos, mejor época, campo versus lodge y lo que los folletos de safari no cuentan. La guía honesta 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-11
 category: "Lugares lejanos"
 readingTime: 8

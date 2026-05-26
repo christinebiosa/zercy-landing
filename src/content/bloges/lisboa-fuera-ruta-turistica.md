@@ -1,7 +1,7 @@
 ---
 title: "Lisboa fuera de la ruta turística: los barrios que visitar en 2026"
 metaTitle: "Lisboa fuera de lo turístico: barrios y rincones auténticos | Zercy"
-description: "Más allá de Alfama y el tranvía 28. Los barrios de Lisboa que los viajeros que repiten eligen: Mouraria, Intendente, Mouraria y LX Factory. Guía auténtica."
+description: "Más allá de Alfama y el tranvía 28. Los barrios de Lisboa que los viajeros que repiten eligen: Mouraria, Intendente, Mouraria y LX Factory. Guía auténtica. Todo lo que necesitas para planificar."
 pubDate: 2026-05-08
 category: "En camino"
 readingTime: 7

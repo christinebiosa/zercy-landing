@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Ibiza: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Ibiza 2026: Wo übernachten | Zercy"
-description: "Ibiza Hotels 2026: Ibiza-Stadt für Clubs und Altstadt, Santa Eulalia für ruhige Familienstrände, San Antonio für Sundowner. Preise und Top-Picks im Überblick."
+description: "Ibiza Hotels 2026: Ibiza-Stadt für Clubs und Altstadt, Santa Eulalia für ruhige Familienstrände, San Antonio für Sundowner. Preise und Top-Picks im Überblick. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

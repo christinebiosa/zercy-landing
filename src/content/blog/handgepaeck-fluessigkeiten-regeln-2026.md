@@ -1,7 +1,7 @@
 ---
 title: "Handgepäck Flüssigkeiten 2026: Was darf rein, was nicht?"
 metaTitle: "Handgepäck Flüssigkeiten 2026: Regeln & Tipps | Zercy"
-description: "Was darf ans Handgepäck an Flüssigkeiten? Die 100-ml-Regel erklärt, welche Ausnahmen gelten und was neue Flughafen-Scanner in 2026 ändern. Tipps zum Packen."
+description: "Was darf ans Handgepäck an Flüssigkeiten? Die 100-ml-Regel erklärt, welche Ausnahmen gelten und was neue Flughafen-Scanner in 2026 ändern. Tipps zum Packen. Alles was du wissen musst."
 pubDate: 2026-05-08
 category: "Nur mit Handgepäck"
 readingTime: 6

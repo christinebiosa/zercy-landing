@@ -1,7 +1,7 @@
 ---
 title: "Ungarn Reiseguide: Budapest, Balaton und die Thermalkultur"
 metaTitle: "Ungarn Reiseguide 2026: Budapest und Highlights | Zercy"
-description: "Ungarn entdecken: Budapest mit Thermalbädern und Ruin Pubs, Balaton, Pécs und Eger. Wann reisen, was kostet Ungarn und warum es sich unbedingt lohnt."
+description: "Ungarn entdecken: Budapest mit Thermalbädern und Ruin Pubs, Balaton, Pécs und Eger. Wann reisen, was kostet Ungarn und warum es sich unbedingt lohnt. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

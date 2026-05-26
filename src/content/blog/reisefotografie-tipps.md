@@ -1,7 +1,7 @@
 ---
 title: "Reisefotografie Tipps: Bessere Bilder ohne Profi-Ausrüstung"
 metaTitle: "Reisefotografie Tipps für bessere Fotos | Zercy"
-description: "Goldene Stunde, Rule of Thirds, Menschenmassen vermeiden: Reisefotografie-Tipps für bessere Bilder mit Smartphone oder Kamera, ohne viel Ausrüstung."
+description: "Goldene Stunde, Rule of Thirds, Menschenmassen vermeiden: Reisefotografie-Tipps für bessere Bilder mit Smartphone oder Kamera, ohne viel Ausrüstung. Mit konkreten Praxistipps."
 pubDate: 2026-05-09
 category: "Reisetipps"
 readingTime: 5

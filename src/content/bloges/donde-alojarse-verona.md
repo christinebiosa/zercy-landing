@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Verona: Dónde alojarse por barrios 2026"
 metaTitle: "Mejores hoteles Verona: Dónde alojarse 2026 | Zercy"
-description: "¿Arena, Veronetta o San Zeno? Guía por barrios de Verona con recomendaciones para escapadas románticas, primeras visitas y amantes de la cultura."
+description: "¿Arena, Veronetta o San Zeno? Guía por barrios de Verona con recomendaciones para escapadas románticas, primeras visitas y amantes de la cultura. Guía honesta para cada viajero."
 pubDate: 2026-05-25
 category: "Dónde alojarse"
 readingTime: 5

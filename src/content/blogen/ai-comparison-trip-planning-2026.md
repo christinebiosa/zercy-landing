@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT vs Claude vs Gemini for Trip Planning 2026: Which AI Actually Helps?"
 metaTitle: "ChatGPT vs Claude vs Gemini Trip Planning 2026 | Zercy"
-description: "ChatGPT, Claude or Gemini for your next trip? We tested all three in real travel planning scenarios. Strengths, weaknesses, honest comparison."
+description: "ChatGPT, Claude or Gemini for your next trip? We tested all three in real travel planning scenarios. Strengths, weaknesses, honest comparison. Honest comparison with real numbers."
 pubDate: 2026-05-07
 category: "AI & Travel"
 readingTime: 8

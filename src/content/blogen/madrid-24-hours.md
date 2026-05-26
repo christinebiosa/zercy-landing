@@ -1,7 +1,7 @@
 ---
 title: "Madrid in 24 Hours: The Perfect City Break"
 metaTitle: "Madrid in 24 Hours: The Perfect City Break | Zercy"
-description: "Madrid in just one day? Easily doable. The perfect 24-hour plan: Prado, Retiro park, tapas in La Latina and real insider tips for the ultimate city break trip."
+description: "Madrid in just one day? Easily doable. The perfect 24-hour plan: Prado, Retiro park, tapas in La Latina and real insider tips for the ultimate city break trip. Everything you need to know."
 pubDate: 2026-04-16
 category: "Off the Map"
 readingTime: 7

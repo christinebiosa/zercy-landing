@@ -1,7 +1,7 @@
 ---
 title: "Zanzibar Stone Town: What Nobody Tells You 2026"
 metaTitle: "Zanzibar Stone Town: Honest Guide 2026 | Zercy"
-description: "Zanzibar Stone Town is more than a selfie backdrop. UNESCO World Heritage, Zanzibar slave trade history, best street food market. What you really need to know."
+description: "Zanzibar Stone Town is more than a selfie backdrop. UNESCO World Heritage, Zanzibar slave trade history, best street food market. What you really need to know. Everything you need to plan your trip."
 pubDate: 2026-05-07
 category: "Hidden Gems"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Mombasa: Dónde alojarse por barrio 2026"
 metaTitle: "Hoteles Mombasa 2026: Dónde Alojarse en Mombasa | Zercy"
-description: "Hoteles Mombasa 2026: Nyali, la Ciudad Antigua o Diani comparados. Los mejores barrios, hoteles reales y consejos para tu estancia en la costa de Kenia."
+description: "Hoteles Mombasa 2026: Nyali, la Ciudad Antigua o Diani comparados. Los mejores barrios, hoteles reales y consejos para tu estancia en la costa de Kenia. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

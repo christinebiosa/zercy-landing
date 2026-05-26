@@ -1,7 +1,7 @@
 ---
 title: "Traveling with a Dog to Europe: The Honest 2026 Guide"
 metaTitle: "Traveling with Dog 2026: Europe Guide | Zercy"
-description: "EU pet passport, rabies vaccine, dog-friendly hotels: how to travel stress-free with your dog in Europe. Which transport works best and what it actually costs."
+description: "EU pet passport, rabies vaccine, dog-friendly hotels: how to travel stress-free with your dog in Europe. Which transport works best and what it actually costs. Everything you need to know."
 pubDate: 2026-04-28
 category: "On the Move"
 readingTime: 7

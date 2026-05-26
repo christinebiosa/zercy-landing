@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Hanói: dónde alojarse por barrio 2026"
 metaTitle: "Mejores hoteles Hanói: Dónde alojarse 2026 | Zercy"
-description: "¿Dónde alojarse en Hanói? El Barrio Antiguo para la experiencia auténtica, Hoan Kiem para centralidad, Tay Ho para tranquilidad. Hoteles y precios por barrio."
+description: "¿Dónde alojarse en Hanói? El Barrio Antiguo para la experiencia auténtica, Hoan Kiem para centralidad, Tay Ho para tranquilidad. Hoteles y precios por barrio. Guía honesta para cada viajero."
 pubDate: 2026-05-08
 category: "Dónde alojarse"
 readingTime: 6

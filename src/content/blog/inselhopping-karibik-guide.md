@@ -1,7 +1,7 @@
 ---
 title: "Inselhopping Karibik: Die besten Routen und was du wirklich brauchst"
 metaTitle: "Inselhopping Karibik: Beste Routen 2026 | Zercy"
-description: "Karibik Inselhopping: die besten Kombinationen, Fähre oder Kleinflugzeug, Budgetplanung und welche Inseln zu welchem Reisetyp passen. Ehrlicher Guide."
+description: "Karibik Inselhopping: die besten Kombinationen, Fähre oder Kleinflugzeug, Budgetplanung und welche Inseln zu welchem Reisetyp passen. Ehrlicher Guide. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-11
 category: "Fernweh"
 readingTime: 8

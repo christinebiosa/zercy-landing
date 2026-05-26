@@ -1,7 +1,7 @@
 ---
 title: "Cómo volar en business class sin pagar el precio completo ni usar millas"
 metaTitle: "Business class sin millas: cómo volarla pagando menos 2026 | Zercy"
-description: "¿Cómo acceder a business class sin acumular millas ni pagar el precio completo? Upgrades, tarifas ocultas, consolidadores y técnicas que funcionan en 2026."
+description: "¿Cómo acceder a business class sin acumular millas ni pagar el precio completo? Upgrades, tarifas ocultas, consolidadores y técnicas que funcionan en 2026. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Viaje inteligente"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Rwanda Gorilla Trekking: The Honest Guide to Your Experience"
 metaTitle: "Rwanda Gorilla Trekking Guide 2026: Costs & Tips | Zercy"
-description: "Mountain gorilla trekking in Volcanoes National Park, Kigali and Nyungwe Forest: the honest guide with permit info, real costs and best times to go."
+description: "Mountain gorilla trekking in Volcanoes National Park, Kigali and Nyungwe Forest: the honest guide with permit info, real costs and best times to go. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

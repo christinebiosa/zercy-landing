@@ -1,7 +1,7 @@
 ---
 title: "Skandinavien Rundreise: Die beste Route durch Norwegen, Schweden und Dänemark"
 metaTitle: "Skandinavien Rundreise: Route & Tipps | Zercy"
-description: "Skandinavien Rundreise planen: Fjorde, Mitternachtssonne, Wikingerstädte. Die beste Route durch Norwegen, Schweden und Dänemark mit Preisen und Tipps."
+description: "Skandinavien Rundreise planen: Fjorde, Mitternachtssonne, Wikingerstädte. Die beste Route durch Norwegen, Schweden und Dänemark mit Preisen und Tipps. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

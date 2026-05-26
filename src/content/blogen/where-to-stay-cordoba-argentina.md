@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Córdoba Argentina: Where to Stay 2026"
 metaTitle: "Hotels Córdoba Argentina 2026: Where to Stay | Zercy"
-description: "Córdoba Argentina hotels 2026: Nueva Córdoba for students, Centro for history, Güemes for locals. Best neighborhoods, top picks and booking tips."
+description: "Córdoba Argentina hotels 2026: Nueva Córdoba for students, Centro for history, Güemes for locals. Best neighborhoods, top picks and booking tips. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Beste Frühlingsziele Europa: Wo du im April und Mai reisen solltest"
 metaTitle: "Beste Frühlingsziele Europa 2026: April & Mai | Zercy"
-description: "Die schönsten Frühlingsziele in Europa: Tulpenfelder Holland, Kirschblüten Portugal, Lavendel Provence. Wohin im April und Mai 2026 mit Kosten und Tipps."
+description: "Die schönsten Frühlingsziele in Europa: Tulpenfelder Holland, Kirschblüten Portugal, Lavendel Provence. Wohin im April und Mai 2026 mit Kosten und Tipps. Alles was du wissen musst."
 pubDate: 2026-05-14
 category: "Reisetipps"
 readingTime: 7

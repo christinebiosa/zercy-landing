@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Córdoba Argentina: Dónde alojarse 2026"
 metaTitle: "Hoteles Córdoba Argentina 2026: Dónde alojarse | Zercy"
-description: "Córdoba Argentina hoteles 2026: Nueva Córdoba para estudiantes, Centro para historia, Güemes para locales. Mejores barrios, top picks y consejos de reserva."
+description: "Córdoba Argentina hoteles 2026: Nueva Córdoba para estudiantes, Centro para historia, Güemes para locales. Mejores barrios, top picks y consejos de reserva. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

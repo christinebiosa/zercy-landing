@@ -1,7 +1,7 @@
 ---
 title: "Accessible Travel Guide: Tips for Wheelchair Users and Travelers with Disabilities"
 metaTitle: "Accessible Travel Guide 2026: Tips & Best Countries | Zercy"
-description: "Accessible travel guide 2026: best countries for wheelchair users, helpful apps, booking tips, adapted rental cars and insurance for accessible holidays."
+description: "Accessible travel guide 2026: best countries for wheelchair users, helpful apps, booking tips, adapted rental cars and insurance for accessible holidays. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Travel Tips"
 readingTime: 7

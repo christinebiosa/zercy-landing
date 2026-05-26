@@ -1,7 +1,7 @@
 ---
 title: "Planificador de IA vs. agencia de viajes: qué conviene en 2026"
 metaTitle: "IA vs agencia de viajes 2026: cuál elegir y cuándo | Zercy"
-description: "¿Cuándo usar un planificador de IA y cuándo una agencia de viajes? La comparativa honesta de lo que cada uno hace bien y mal en 2026."
+description: "¿Cuándo usar un planificador de IA y cuándo una agencia de viajes? La comparativa honesta de lo que cada uno hace bien y mal en 2026. Comparativa honesta con datos reales."
 pubDate: 2026-05-08
 category: "IA y viajes"
 readingTime: 6

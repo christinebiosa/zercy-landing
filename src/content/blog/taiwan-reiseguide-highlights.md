@@ -1,7 +1,7 @@
 ---
 title: "Taiwan Reiseguide: Die besten Highlights auf einen Blick"
 metaTitle: "Taiwan Reiseguide 2026: Highlights & Tipps | Zercy"
-description: "Taiwan Reiseguide 2026: Taipei, Taroko-Schlucht, Sun Moon Lake und Tainan. Beste Reisezeit, Kosten, Visa und praktische Tipps für deine Taiwan-Reise."
+description: "Taiwan Reiseguide 2026: Taipei, Taroko-Schlucht, Sun Moon Lake und Tainan. Beste Reisezeit, Kosten, Visa und praktische Tipps für deine Taiwan-Reise. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

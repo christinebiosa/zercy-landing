@@ -1,7 +1,7 @@
 ---
 title: "Mejores Hoteles en Cartagena: Dónde Alojarse en Cada Barrio 2026"
 metaTitle: "Mejores Hoteles Cartagena: Dónde Alojarse 2026 | Zercy"
-description: "Cartagena tiene 4 barrios muy distintos: Centro Histórico amurallado, Getsemaní hip, Bocagrande playa, Manga local. ¿Cuál encaja mejor con tu viaje al Caribe?"
+description: "Cartagena tiene 4 barrios muy distintos: Centro Histórico amurallado, Getsemaní hip, Bocagrande playa, Manga local. ¿Cuál encaja mejor con tu viaje al Caribe? Guía honesta para cada viajero."
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in San Francisco: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels SF: Wo übernachten 2026 | Zercy"
-description: "San Francisco hat 5 sehr unterschiedliche Stadtteile: Union Square, Fishermans Wharf, Mission, North Beach, SoMa. Welcher passt zu deiner Kalifornien-Reise?"
+description: "San Francisco hat 5 sehr unterschiedliche Stadtteile: Union Square, Fishermans Wharf, Mission, North Beach, SoMa. Welcher passt zu deiner Kalifornien-Reise? Top-Hotels für jedes Budget."
 pubDate: 2026-05-07
 category: "Wo übernachten"
 readingTime: 7

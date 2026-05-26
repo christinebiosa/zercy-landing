@@ -1,7 +1,7 @@
 ---
 title: "Mauritius Travel Guide: Beaches, Nature and What You Really Need"
 metaTitle: "Mauritius Travel Guide 2026: Highlights & Tips | Zercy"
-description: "Belle Mare, Chamarel, Black River Gorges and Port Louis: everything you need for your Mauritius trip, from best travel seasons to costs and top activities."
+description: "Belle Mare, Chamarel, Black River Gorges and Port Louis: everything you need for your Mauritius trip, from best travel seasons to costs and top activities. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

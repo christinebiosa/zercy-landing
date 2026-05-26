@@ -1,7 +1,7 @@
 ---
 title: "Zercy Logbook: el cuaderno de viaje digital que organiza tu itinerario"
 metaTitle: "Zercy Logbook: qué es y cómo organiza tu viaje | Zercy"
-description: "El Zercy Logbook es el gestor de itinerario digital integrado en Zercy. Guarda vuelos, hoteles y actividades en un solo lugar. Así funciona."
+description: "El Zercy Logbook es el gestor de itinerario digital integrado en Zercy. Guarda vuelos, hoteles y actividades en un solo lugar. Así funciona. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "IA y viajes"
 readingTime: 5

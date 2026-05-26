@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Wellington: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Wellington 2026: Wo übernachten in welchem Viertel | Zercy"
-description: "Wellington Hotels 2026: CBD, Te Aro oder Mount Victoria? Die besten Lagen, Top-Hotel-Picks und Tipps für deinen Neuseeland-Aufenthalt in der Hauptstadt."
+description: "Wellington Hotels 2026: CBD, Te Aro oder Mount Victoria? Die besten Lagen, Top-Hotel-Picks und Tipps für deinen Neuseeland-Aufenthalt in der Hauptstadt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

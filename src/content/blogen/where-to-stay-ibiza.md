@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Ibiza: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Ibiza: Where to Stay 2026 | Zercy"
-description: "Ibiza hotels 2026: Ibiza Town for clubs and UNESCO heritage, Santa Eulalia for quiet family beaches, San Antonio for sundowners. Top picks and prices 2026."
+description: "Ibiza hotels 2026: Ibiza Town for clubs and UNESCO heritage, Santa Eulalia for quiet family beaches, San Antonio for sundowners. Top picks and prices 2026. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

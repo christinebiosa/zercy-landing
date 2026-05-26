@@ -1,7 +1,7 @@
 ---
 title: "Oman Reiseguide: Wüste, Fjorde und die Seele des Nahen Ostens"
 metaTitle: "Oman Reiseguide 2026: Wüste, Fjorde & Tipps | Zercy"
-description: "Oman Reiseguide 2026: Maskat, Wahiba Sands, Wadi Shams und Musandam. Beste Reisezeit, kein Visum für EU, Mietwagen-Tipps und Highlights für deinen Oman-Trip."
+description: "Oman Reiseguide 2026: Maskat, Wahiba Sands, Wadi Shams und Musandam. Beste Reisezeit, kein Visum für EU, Mietwagen-Tipps und Highlights für deinen Oman-Trip. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

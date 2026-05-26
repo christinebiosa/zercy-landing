@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Marseille: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Marseille: Where to Stay 2026 | Zercy"
-description: "Marseille has 4 very different neighborhoods: Vieux Port harbor, Le Panier artist, La Joliette modern, Endoume beach. Which fits your Provence trip best?"
+description: "Marseille has 4 very different neighborhoods: Vieux Port harbor, Le Panier artist, La Joliette modern, Endoume beach. Which fits your Provence trip best? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

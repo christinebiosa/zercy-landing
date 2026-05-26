@@ -1,7 +1,7 @@
 ---
 title: "Business Class: When It's Actually Worth It — and When It's Not"
 metaTitle: "Business Class: When It's Worth It | Zercy"
-description: "Business class is expensive. But sometimes the premium is smaller than you think — and the difference is bigger. When to upgrade."
+description: "Business class is expensive. But sometimes the premium is smaller than you think — and the difference is bigger. When to upgrade. Honest advice for real travelers."
 pubDate: 2026-03-26
 category: "Business Travel"
 readingTime: 9

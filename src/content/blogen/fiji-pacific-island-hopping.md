@@ -1,7 +1,7 @@
 ---
 title: "Fiji and the Pacific: Island Hopping for Real Slow Travelers"
 metaTitle: "Fiji Pacific Island Hopping 2026: Guide & Tips | Zercy"
-description: "Viti Levu, Mamanuca Islands, Yasawa Islands and Taveuni: the honest guide to Fiji island hopping with costs, ferries and the best travel season in 2026."
+description: "Viti Levu, Mamanuca Islands, Yasawa Islands and Taveuni: the honest guide to Fiji island hopping with costs, ferries and the best travel season in 2026. Everything you need to know."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

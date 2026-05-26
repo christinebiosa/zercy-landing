@@ -1,7 +1,7 @@
 ---
 title: "Osaka vs. Kyoto: Welche japanische Stadt passt zu dir?"
 metaTitle: "Osaka vs. Kyoto: Welche Stadt passt? | Zercy"
-description: "Osaka oder Kyoto: Essen und Nachtleben gegen Tempel und Tradition. Dieser Guide zeigt die Unterschiede, Preise und die beste Strategie für deinen Japan-Trip."
+description: "Osaka oder Kyoto: Essen und Nachtleben gegen Tempel und Tradition. Dieser Guide zeigt die Unterschiede, Preise und die beste Strategie für deinen Japan-Trip. Ehrlicher Vergleich mit echten Zahlen."
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 7

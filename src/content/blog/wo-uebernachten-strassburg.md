@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Straßburg: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Straßburg 2026: Wo übernachten | Zercy"
-description: "Straßburg Hotels 2026: Grande Île im UNESCO-Welterbe, Petite France romantisch, Neustadt elegant. Top-Picks und Preise für jeden Reisetyp."
+description: "Straßburg Hotels 2026: Grande Île im UNESCO-Welterbe, Petite France romantisch, Neustadt elegant. Top-Picks und Preise für jeden Reisetyp. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

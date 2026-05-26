@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Sofia: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Sofia: Where to Stay 2026 | Zercy"
-description: "Tsentar, Oborishte or NDK? A neighborhood guide to Sofia hotels with honest picks for first-timers, budget travelers, and culture lovers."
+description: "Tsentar, Oborishte or NDK? A neighborhood guide to Sofia hotels with honest picks for first-timers, budget travelers, and culture lovers. Honest picks for every budget."
 pubDate: 2026-05-25
 category: "Where to Stay"
 readingTime: 5

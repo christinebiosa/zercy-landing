@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Bergen: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Hotels Bergen 2026: Where to Stay by District | Zercy"
-description: "Bergen hotels 2026: Bryggen, city center, Sandviken or Nordnes? Best neighborhoods, top picks and tips for Norway's gateway to the fjords."
+description: "Bergen hotels 2026: Bryggen, city center, Sandviken or Nordnes? Best neighborhoods, top picks and tips for Norway's gateway to the fjords. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

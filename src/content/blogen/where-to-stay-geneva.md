@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Geneva: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Geneva: Where to Stay 2026 | Zercy"
-description: "Vieille-Ville, Pâquis or Eaux-Vives? A neighborhood guide to Geneva hotels with honest picks for every travel style and budget."
+description: "Vieille-Ville, Pâquis or Eaux-Vives? A neighborhood guide to Geneva hotels with honest picks for every travel style and budget. All neighborhoods with honest advice."
 pubDate: 2026-05-25
 category: "Where to Stay"
 readingTime: 5

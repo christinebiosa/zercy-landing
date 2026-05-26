@@ -1,7 +1,7 @@
 ---
 title: "Laos: Guía de viaje por el país más tranquilo del Sudeste Asiático"
 metaTitle: "Laos Guía de Viaje 2026: Luang Prabang y Highlights | Zercy"
-description: "Laos guía de viaje 2026: Luang Prabang, Vang Vieng, Vientián y las 4000 Islas. Visa a la llegada, mejor temporada, consejos y costos para tu viaje a Laos."
+description: "Laos guía de viaje 2026: Luang Prabang, Vang Vieng, Vientián y las 4000 Islas. Visa a la llegada, mejor temporada, consejos y costos para tu viaje a Laos. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Bergen: Dónde alojarse por barrio 2026"
 metaTitle: "Hoteles Bergen 2026: Dónde alojarse | Zercy"
-description: "Bergen hoteles 2026: ¿Bryggen, centro, Sandviken o Nordnes? Los mejores barrios, picks de hoteles y consejos para la puerta noruega a los fiordos."
+description: "Bergen hoteles 2026: ¿Bryggen, centro, Sandviken o Nordnes? Los mejores barrios, picks de hoteles y consejos para la puerta noruega a los fiordos. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

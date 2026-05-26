@@ -1,7 +1,7 @@
 ---
 title: "Balkan Road Trip: The Best Route Through Bosnia, Montenegro, Albania and Beyond"
 metaTitle: "Balkan Road Trip Route & Tips 2026 | Zercy"
-description: "Plan your Balkan road trip: Sarajevo, Mostar, Kotor, Albanian Riviera in 2–3 weeks. Best route with costs, highlights and practical tips for 2026."
+description: "Plan your Balkan road trip: Sarajevo, Mostar, Kotor, Albanian Riviera in 2–3 weeks. Best route with costs, highlights and practical tips for 2026. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

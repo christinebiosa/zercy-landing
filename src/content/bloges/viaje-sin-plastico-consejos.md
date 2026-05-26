@@ -1,7 +1,7 @@
 ---
 title: "Viajar sin plástico: consejos prácticos para reducir residuos en el viaje"
 metaTitle: "Viaje sin plástico 2026: consejos prácticos y útiles | Zercy"
-description: "Cómo reducir el uso de plástico en los viajes sin complicar la experiencia. Los cambios concretos que hacen diferencia y los que no vale la pena hacer."
+description: "Cómo reducir el uso de plástico en los viajes sin complicar la experiencia. Los cambios concretos que hacen diferencia y los que no vale la pena hacer. Consejos prácticos que funcionan de verdad."
 pubDate: 2026-05-08
 category: "Viaje sostenible"
 readingTime: 6

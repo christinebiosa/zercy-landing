@@ -1,7 +1,7 @@
 ---
 title: "Slovenia: Europe's Green Secret 2026"
 metaTitle: "Slovenia Trip: Europe's Green Secret 2026 | Zercy"
-description: "Slovenia between Alps, Karst and Adriatic. Bled, Bohinj, Ljubljana, Triglav Park, Piran. One week through perhaps the most varied country in Europe."
+description: "Slovenia between Alps, Karst and Adriatic. Bled, Bohinj, Ljubljana, Triglav Park, Piran. One week through perhaps the most varied country in Europe. Everything you need to know."
 pubDate: 2026-05-07
 category: "Hidden Gems"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Philadelphia: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Hotels Philadelphia 2026: Where to Stay | Zercy"
-description: "Philadelphia hotels 2026: Center City for first-timers, Old City for history, Rittenhouse Square for dining. Best neighborhoods, top picks and booking tips."
+description: "Philadelphia hotels 2026: Center City for first-timers, Old City for history, Rittenhouse Square for dining. Best neighborhoods, top picks and booking tips. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

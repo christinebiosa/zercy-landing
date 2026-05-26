@@ -1,7 +1,7 @@
 ---
 title: "Food Travel: So isst du wirklich wie ein Einheimischer"
 metaTitle: "Food Travel: Essen wie ein Einheimischer 2026 | Zercy"
-description: "Touristenrestaurants enttäuschen fast immer. Wir zeigen, wo Einheimische wirklich essen, welche Apps helfen und wie du Street Food richtig genießt."
+description: "Touristenrestaurants enttäuschen fast immer. Wir zeigen, wo Einheimische wirklich essen, welche Apps helfen und wie du Street Food richtig genießt. Alles was du wissen musst."
 pubDate: 2026-05-11
 category: "Unterwegs"
 readingTime: 6

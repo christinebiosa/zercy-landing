@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Dar es Salaam: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Dar es Salaam 2026: Wo übernachten | Zercy"
-description: "Dar es Salaam Hotels 2026: Msasani Peninsula, Kivukoni oder Posta? Die besten Lagen, Hotel-Picks und Tipps für deinen Tansania-Aufenthalt."
+description: "Dar es Salaam Hotels 2026: Msasani Peninsula, Kivukoni oder Posta? Die besten Lagen, Hotel-Picks und Tipps für deinen Tansania-Aufenthalt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

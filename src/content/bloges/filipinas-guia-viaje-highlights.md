@@ -1,7 +1,7 @@
 ---
 title: "Filipinas: Guía de viaje con las mejores islas y highlights"
 metaTitle: "Filipinas Guía de Viaje 2026: Islas y Consejos | Zercy"
-description: "Filipinas guía de viaje 2026: El Nido, Cebú, Siargao y Bohol. Mejor temporada, sin visa para europeos y latinoamericanos, vuelos domésticos y presupuesto."
+description: "Filipinas guía de viaje 2026: El Nido, Cebú, Siargao y Bohol. Mejor temporada, sin visa para europeos y latinoamericanos, vuelos domésticos y presupuesto. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

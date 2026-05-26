@@ -1,7 +1,7 @@
 ---
 title: "Malta y Gozo: Guía de Viaje Completa para el Archipiélago"
 metaTitle: "Malta y Gozo Guía de Viaje 2026: Highlights y Consejos | Zercy"
-description: "Descubre Malta y Gozo: Valletta, Mdina, Laguna Azul y los templos de Ggantija. Cuándo ir, cómo moverse y qué hace de Malta un destino europeo único."
+description: "Descubre Malta y Gozo: Valletta, Mdina, Laguna Azul y los templos de Ggantija. Cuándo ir, cómo moverse y qué hace de Malta un destino europeo único. Todo lo que necesitas saber."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

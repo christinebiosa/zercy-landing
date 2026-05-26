@@ -1,7 +1,7 @@
 ---
 title: "Hungría Guía de Viaje: Budapest, Balaton y la Cultura Termal"
 metaTitle: "Hungría Guía de Viaje 2026: Budapest y Highlights | Zercy"
-description: "Descubre Hungría: Budapest con baños termales y ruin bars, lago Balaton, Pécs y Eger. Cuándo ir, cuánto cuesta y por qué Hungría merece totalmente la pena."
+description: "Descubre Hungría: Budapest con baños termales y ruin bars, lago Balaton, Pécs y Eger. Cuándo ir, cuánto cuesta y por qué Hungría merece totalmente la pena. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

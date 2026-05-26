@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Wellington: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Wellington 2026: Where to Stay | Zercy"
-description: "Wellington hotels 2026: CBD, Te Aro or Mount Victoria? Best neighborhoods, top hotel picks and tips for your New Zealand capital city stay."
+description: "Wellington hotels 2026: CBD, Te Aro or Mount Victoria? Best neighborhoods, top hotel picks and tips for your New Zealand capital city stay. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

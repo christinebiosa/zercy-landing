@@ -1,7 +1,7 @@
 ---
 title: "Travel Photography Tips: Better Photos Without Pro Gear"
 metaTitle: "Travel Photography Tips for Better Photos | Zercy"
-description: "Golden hour, rule of thirds, avoiding crowds: practical travel photography tips for better images with your smartphone or camera, no expensive gear needed."
+description: "Golden hour, rule of thirds, avoiding crowds: practical travel photography tips for better images with your smartphone or camera, no expensive gear needed. Practical tips that actually work."
 pubDate: 2026-05-09
 category: "Travel Tips"
 readingTime: 5

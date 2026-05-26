@@ -1,7 +1,7 @@
 ---
 title: "Tokio Foodie: Ein Essens-Urlaub in der besten Stadt der Welt"
 metaTitle: "Tokio Foodie: Der Essens-Urlaub-Guide | Zercy"
-description: "Tokio ist das Foodie-Paradies der Welt. Sushi, Ramen, Izakaya, Michelin-Sterne, Depachika und Konbini. Der komplette Guide für deine Essens-Reise nach Japan."
+description: "Tokio ist das Foodie-Paradies der Welt. Sushi, Ramen, Izakaya, Michelin-Sterne, Depachika und Konbini. Der komplette Guide für deine Essens-Reise nach Japan. Alles was du wissen musst."
 pubDate: 2026-04-16
 category: "Fernweh"
 readingTime: 8

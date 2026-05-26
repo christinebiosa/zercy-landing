@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in San Sebastián: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels San Sebastián 2026: Wo übernachten | Zercy"
-description: "San Sebastián Hotels 2026: Altstadt für Pintxos-Bars, Strand La Concha für Lage, Gros für lokal. Beste Stadtteile, Top-Picks und Tipps für deinen Aufenthalt."
+description: "San Sebastián Hotels 2026: Altstadt für Pintxos-Bars, Strand La Concha für Lage, Gros für lokal. Beste Stadtteile, Top-Picks und Tipps für deinen Aufenthalt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

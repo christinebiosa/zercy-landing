@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Luxor: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Luxor 2026: Wo übernachten in welchem Viertel | Zercy"
-description: "Luxor Hotels 2026: Corniche, Westbank oder Luxor Town? Die besten Lagen, Top-Hotel-Picks und praktische Tipps für deinen Ägypten-Aufenthalt."
+description: "Luxor Hotels 2026: Corniche, Westbank oder Luxor Town? Die besten Lagen, Top-Hotel-Picks und praktische Tipps für deinen Ägypten-Aufenthalt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

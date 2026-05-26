@@ -1,7 +1,7 @@
 ---
 title: "Beste Badeziele weltweit 2026: Wo das Wasser wirklich traumhaft ist"
 metaTitle: "Beste Badeziele Welt 2026: Top 10 Strände | Zercy"
-description: "Die besten Badeziele weltweit 2026: Malediven bis Palawan, Ibiza bis Mykonos, Turks & Caicos bis Mauritius. Welcher Strand passt zu welchem Reisetyp."
+description: "Die besten Badeziele weltweit 2026: Malediven bis Palawan, Ibiza bis Mykonos, Turks & Caicos bis Mauritius. Welcher Strand passt zu welchem Reisetyp. Alles was du wissen musst."
 pubDate: 2026-05-11
 category: "Fernweh"
 readingTime: 8

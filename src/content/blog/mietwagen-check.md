@@ -1,7 +1,7 @@
 ---
 title: "Mietwagen-Check: 10 Dinge prüfen bevor du losfährst"
 metaTitle: "Mietwagen-Check: 10 Tipps vor Abfahrt | Zercy"
-description: "Kratzer die du nicht gemeldet hast. Tank der nicht stimmt. Reifen die du nicht geprüft hast. So vermeidest du böse Überraschungen bei der Rückgabe."
+description: "Kratzer die du nicht gemeldet hast. Tank der nicht stimmt. Reifen die du nicht geprüft hast. So vermeidest du böse Überraschungen bei der Rückgabe. Alles was du wissen musst."
 pubDate: 2026-03-26
 category: "Unterwegs"
 readingTime: 9

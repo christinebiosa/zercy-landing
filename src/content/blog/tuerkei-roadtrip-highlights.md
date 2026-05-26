@@ -1,7 +1,7 @@
 ---
 title: "Türkei Roadtrip: Istanbul, Kappadokien, Ägäisküste und die besten Highlights"
 metaTitle: "Türkei Roadtrip 2026: Route, Tipps & Highlights | Zercy"
-description: "Türkei Roadtrip planen: Istanbul, Kappadokien, Pamukkale, Lykische Küste in 2–3 Wochen. Die beste Route mit Kosten, Highlights und Tipps für 2026."
+description: "Türkei Roadtrip planen: Istanbul, Kappadokien, Pamukkale, Lykische Küste in 2–3 Wochen. Die beste Route mit Kosten, Highlights und Tipps für 2026. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

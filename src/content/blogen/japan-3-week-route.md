@@ -1,7 +1,7 @@
 ---
 title: "Japan 3-Week Route: Tokyo, Kyoto, Osaka and the Highlights In Between"
 metaTitle: "Japan 3-Week Route: Highlights & Tips 2026 | Zercy"
-description: "Japan in 3 weeks: Tokyo, Nikko, Hakone, Kyoto, Hiroshima, Osaka. The perfect route with costs, JR Pass tips, and practical advice for 2026."
+description: "Japan in 3 weeks: Tokyo, Nikko, Hakone, Kyoto, Hiroshima, Osaka. The perfect route with costs, JR Pass tips, and practical advice for 2026. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 9

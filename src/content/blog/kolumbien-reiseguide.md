@@ -1,7 +1,7 @@
 ---
 title: "Kolumbien Reiseguide 2026: Städte, Natur und Sicherheitstipps"
 metaTitle: "Kolumbien Reiseguide 2026: Tipps & Route | Zercy"
-description: "Kolumbien 2026: Bogotá, Medellín, Cartagena, Zona Cafetera und Tayrona Nationalpark. Sicherheit, Visum, inländische Flüge und die beste Reisezeit."
+description: "Kolumbien 2026: Bogotá, Medellín, Cartagena, Zona Cafetera und Tayrona Nationalpark. Sicherheit, Visum, inländische Flüge und die beste Reisezeit. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 7

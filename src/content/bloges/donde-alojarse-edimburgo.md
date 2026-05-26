@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Edimburgo: dónde alojarse por barrio 2026"
 metaTitle: "Mejores hoteles Edimburgo: Dónde alojarse 2026 | Zercy"
-description: "¿Dónde alojarse en Edimburgo? Old Town para historia y castillo, New Town para comodidad, Leith para ambiente local. Hoteles y precios reales por barrio."
+description: "¿Dónde alojarse en Edimburgo? Old Town para historia y castillo, New Town para comodidad, Leith para ambiente local. Hoteles y precios reales por barrio. Guía honesta para cada viajero."
 pubDate: 2026-05-08
 category: "Dónde alojarse"
 readingTime: 6

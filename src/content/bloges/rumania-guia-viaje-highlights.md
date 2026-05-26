@@ -1,7 +1,7 @@
 ---
 title: "Rumanía Guía de Viaje: Transilvania, Bucarest y la Verdadera Historia de Drácula"
 metaTitle: "Rumanía Guía de Viaje 2026: Transilvania y Highlights | Zercy"
-description: "Descubre Rumanía: Transilvania con Brasov y Castillo de Bran, Bucarest, Delta del Danubio. Por qué Rumanía es el destino más asequible y sorprendente de la UE."
+description: "Descubre Rumanía: Transilvania con Brasov y Castillo de Bran, Bucarest, Delta del Danubio. Por qué Rumanía es el destino más asequible y sorprendente de la UE. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

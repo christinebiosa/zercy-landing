@@ -1,7 +1,7 @@
 ---
 title: "Cruceros para principiantes: Lo que debes saber antes de reservar"
 metaTitle: "Cruceros para principiantes: Guía honesta 2026 | Zercy"
-description: "¿Tu primer crucero? Tipos de cabinas, costos reales, mareo en el mar, mejores rutas para principiantes y cómo reservar inteligente. La guía honesta."
+description: "¿Tu primer crucero? Tipos de cabinas, costos reales, mareo en el mar, mejores rutas para principiantes y cómo reservar inteligente. La guía honesta. Todo lo que necesitas saber."
 pubDate: 2026-05-11
 category: "Viaje inteligente"
 readingTime: 7

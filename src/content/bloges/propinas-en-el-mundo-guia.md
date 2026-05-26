@@ -1,7 +1,7 @@
 ---
 title: "Las propinas en el mundo: cuánto dar en cada país"
 metaTitle: "Propinas en el mundo: guía por país 2026 | Zercy"
-description: "En Japón, dar propina ofende al mesero. En EE.UU. es obligatorio. En Europa depende. Esta guía te dice exactamente qué dar, dónde y qué nunca debes hacer."
+description: "En Japón, dar propina ofende al mesero. En EE.UU. es obligatorio. En Europa depende. Esta guía te dice exactamente qué dar, dónde y qué nunca debes hacer. Todo lo que necesitas saber."
 pubDate: 2026-05-11
 category: "Viaje inteligente"
 readingTime: 5

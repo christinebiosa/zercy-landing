@@ -1,7 +1,7 @@
 ---
 title: "Bangkok in 3 Tagen: Das perfekte Kurztrip-Itinerar"
 metaTitle: "Bangkok in 3 Tagen: Kurztrip-Itinerar | Zercy"
-description: "Bangkok in 3 Tagen: Tempeldreieck, Chatuchak, Chinatown und Skybar. Mit BTS-Tipps, echten Preisen und einem Itinerar das funktioniert, ohne zu hetzen."
+description: "Bangkok in 3 Tagen: Tempeldreieck, Chatuchak, Chinatown und Skybar. Mit BTS-Tipps, echten Preisen und einem Itinerar das funktioniert, ohne zu hetzen. Alles was du wissen musst."
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 7

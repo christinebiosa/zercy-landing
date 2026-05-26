@@ -1,7 +1,7 @@
 ---
 title: "Thailand in 2 Wochen: Die beste Route für Erstbesucher"
 metaTitle: "Thailand 2 Wochen Route 2026: Bangkok, Chiang Mai, Inseln | Zercy"
-description: "Thailand in 2 Wochen: Die bewährteste Route von Bangkok über Chiang Mai bis zu den Inseln im Süden. Mit Kosten, Tipps und allem was du wissen musst."
+description: "Thailand in 2 Wochen: Die bewährteste Route von Bangkok über Chiang Mai bis zu den Inseln im Süden. Mit Kosten, Tipps und allem was du wissen musst. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-09
 category: "Fernweh"
 readingTime: 9

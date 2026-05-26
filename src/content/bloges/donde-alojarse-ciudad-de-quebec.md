@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Ciudad de Québec: Dónde alojarse por barrio 2026"
 metaTitle: "Hoteles Ciudad de Québec 2026: Dónde alojarse | Zercy"
-description: "Ciudad de Québec hoteles 2026: Old Town para historia, Petit-Champlain para romanticismo, Saint-Jean-Baptiste para locales. Mejores barrios, picks y consejos."
+description: "Ciudad de Québec hoteles 2026: Old Town para historia, Petit-Champlain para romanticismo, Saint-Jean-Baptiste para locales. Mejores barrios, picks y consejos. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

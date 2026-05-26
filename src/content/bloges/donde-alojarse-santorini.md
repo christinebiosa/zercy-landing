@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Santorini: dónde alojarse por pueblo 2026"
 metaTitle: "Mejores hoteles Santorini: Dónde alojarse 2026 | Zercy"
-description: "¿Dónde alojarse en Santorini? Oia para puestas de sol y lujo, Fira para el centro, Imerovigli para la calma. Hoteles recomendados y precios reales por pueblo."
+description: "¿Dónde alojarse en Santorini? Oia para puestas de sol y lujo, Fira para el centro, Imerovigli para la calma. Hoteles recomendados y precios reales por pueblo. Guía honesta para cada viajero."
 pubDate: 2026-05-08
 category: "Dónde alojarse"
 readingTime: 7

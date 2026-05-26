@@ -1,7 +1,7 @@
 ---
 title: "10 klassische Reisefehler: Wie du sie in 2026 vermeidest"
 metaTitle: "10 Reisefehler und wie du sie vermeidest 2026 | Zercy"
-description: "Zu voller Zeitplan, keine Versicherung, DCC-Falle und 7 weitere Fehler die Reisen teuer machen. Hier sind die konkreten Gegenmaßnahmen für 2026."
+description: "Zu voller Zeitplan, keine Versicherung, DCC-Falle und 7 weitere Fehler die Reisen teuer machen. Hier sind die konkreten Gegenmaßnahmen für 2026. Alles was du wissen musst."
 pubDate: 2026-05-11
 category: "Reisetipps"
 readingTime: 6

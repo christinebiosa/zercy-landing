@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Helsinki: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Beste Hotels Helsinki: Wo übernachten 2026 | Zercy"
-description: "Design District, Kallio oder Kruununhaka? Die besten Stadtteile für Hotels in Helsinki mit ehrlichen Empfehlungen für jeden Reisetyp."
+description: "Design District, Kallio oder Kruununhaka? Die besten Stadtteile für Hotels in Helsinki mit ehrlichen Empfehlungen für jeden Reisetyp. Top-Hotels für jedes Budget."
 pubDate: 2026-05-25
 category: "Wo übernachten"
 readingTime: 5

@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Strasbourg: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Strasbourg: Where to Stay 2026 | Zercy"
-description: "Strasbourg hotels 2026: Grande Île in the UNESCO heritage center, Petite France romantic and photogenic, Neustadt elegant Wilhelmian. Top picks and prices."
+description: "Strasbourg hotels 2026: Grande Île in the UNESCO heritage center, Petite France romantic and photogenic, Neustadt elegant Wilhelmian. Top picks and prices. Honest picks for every budget."
 pubDate: 2026-05-15
 category: "Where to Stay"
 readingTime: 8

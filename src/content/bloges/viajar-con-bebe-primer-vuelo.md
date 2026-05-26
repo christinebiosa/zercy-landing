@@ -1,7 +1,7 @@
 ---
 title: "Viajar con bebé: lo que necesitas saber para el primer vuelo"
 metaTitle: "Viajar con bebé en avión 2026: guía completa y consejos | Zercy"
-description: "Cómo prepararse para el primer vuelo con un bebé o niño pequeño. Qué llevar, cómo gestionar el sueño y el llanto, y los trucos que funcionan de verdad."
+description: "Cómo prepararse para el primer vuelo con un bebé o niño pequeño. Qué llevar, cómo gestionar el sueño y el llanto, y los trucos que funcionan de verdad. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "Consejos de viaje"
 readingTime: 7

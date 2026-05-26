@@ -1,7 +1,7 @@
 ---
 title: "Nordlichter 2026: Wo, wann und wie du sie wirklich siehst"
 metaTitle: "Nordlichter 2026: Beste Orte und Timing | Zercy"
-description: "2026 ist ein Top-Jahr für Nordlichter wegen des Sonnenmaximums. Welche Länder die besten Chancen haben, wann genau und wie du nicht enttäuscht zurückkommst."
+description: "2026 ist ein Top-Jahr für Nordlichter wegen des Sonnenmaximums. Welche Länder die besten Chancen haben, wann genau und wie du nicht enttäuscht zurückkommst. Alles was du wissen musst."
 pubDate: 2026-04-28
 category: "Fernweh"
 readingTime: 7

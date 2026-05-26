@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Pekín: Dónde alojarse por barrios 2026"
 metaTitle: "Mejores hoteles Pekín: Dónde alojarse 2026 | Zercy"
-description: "¿Ciudad Prohibida, Sanlitun o Hutongs? Guía por barrios de Pekín con recomendaciones claras para primeras visitas y viajeros culturales."
+description: "¿Ciudad Prohibida, Sanlitun o Hutongs? Guía por barrios de Pekín con recomendaciones claras para primeras visitas y viajeros culturales. Guía honesta para cada viajero."
 pubDate: 2026-05-25
 category: "Dónde alojarse"
 readingTime: 5

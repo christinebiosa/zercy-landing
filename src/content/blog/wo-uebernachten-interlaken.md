@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Interlaken: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Interlaken 2026: Wo übernachten | Zercy"
-description: "Interlaken Hotels 2026: Zentrum zwischen zwei Seen, Matten für ruhige Lage, Umgebungsdörfer für Natur. Preise, Top-Picks und Tipps für deinen Besuch 2026."
+description: "Interlaken Hotels 2026: Zentrum zwischen zwei Seen, Matten für ruhige Lage, Umgebungsdörfer für Natur. Preise, Top-Picks und Tipps für deinen Besuch 2026. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

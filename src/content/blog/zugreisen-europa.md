@@ -1,7 +1,7 @@
 ---
 title: "Mit dem Zug durch Europa: 5 Strecken, die das Fliegen vergessen lassen"
 metaTitle: "Zugreisen Europa: 5 Strecken die überzeugen | Zercy"
-description: "Manchmal ist der Zug besser als der Flieger – schneller von Zentrum zu Zentrum, entspannter, und mit Aussichten die kein Flugzeugfenster bietet."
+description: "Manchmal ist der Zug besser als der Flieger – schneller von Zentrum zu Zentrum, entspannter, und mit Aussichten die kein Flugzeugfenster bietet. Alles was du wissen musst."
 pubDate: 2026-03-26
 category: "Nachhaltig"
 readingTime: 8

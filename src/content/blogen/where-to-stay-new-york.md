@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in New York: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels New York: Where to Stay 2026 | Zercy"
-description: "New York has 5 very different neighborhoods to stay in: Midtown, SoHo/Tribeca, Upper West/East, Brooklyn, Hells Kitchen. Which one fits your trip best?"
+description: "New York has 5 very different neighborhoods to stay in: Midtown, SoHo/Tribeca, Upper West/East, Brooklyn, Hells Kitchen. Which one fits your trip best? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

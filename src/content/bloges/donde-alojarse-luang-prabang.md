@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Luang Prabang: Dónde alojarse por barrio 2026"
 metaTitle: "Hoteles Luang Prabang 2026: Dónde alojarse | Zercy"
-description: "Hoteles en Luang Prabang 2026: Ciudad Vieja UNESCO, orilla del Mekong o Ban Xieng Maen. Los mejores barrios, opciones top y consejos prácticos para tu viaje."
+description: "Hoteles en Luang Prabang 2026: Ciudad Vieja UNESCO, orilla del Mekong o Ban Xieng Maen. Los mejores barrios, opciones top y consejos prácticos para tu viaje. Guía honesta para cada viajero."
 pubDate: 2026-05-15
 category: "Dónde alojarse"
 readingTime: 8

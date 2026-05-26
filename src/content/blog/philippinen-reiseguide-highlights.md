@@ -1,7 +1,7 @@
 ---
 title: "Philippinen Reiseguide: Die schönsten Inseln und Highlights"
 metaTitle: "Philippinen Reiseguide 2026: Inseln & Tipps | Zercy"
-description: "Philippinen Reiseguide 2026: El Nido, Cebu, Siargao und Bohol. Beste Reisezeit, kein Visum für EU, Inlandsflüge und die schönsten Inseln auf einen Blick."
+description: "Philippinen Reiseguide 2026: El Nido, Cebu, Siargao und Bohol. Beste Reisezeit, kein Visum für EU, Inlandsflüge und die schönsten Inseln auf einen Blick. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

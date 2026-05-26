@@ -1,7 +1,7 @@
 ---
 title: "Namibia Travel Guide: Dunes, Wildlife and Fish River Canyon"
 metaTitle: "Namibia Travel Guide 2026: Highlights & Tips | Zercy"
-description: "Sossusvlei, Etosha, Swakopmund and Fish River Canyon: the best Namibia highlights and everything you need to know for a self-drive road trip in 2026."
+description: "Sossusvlei, Etosha, Swakopmund and Fish River Canyon: the best Namibia highlights and everything you need to know for a self-drive road trip in 2026. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

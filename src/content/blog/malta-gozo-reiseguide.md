@@ -1,7 +1,7 @@
 ---
 title: "Malta und Gozo: Der komplette Reiseguide für die Inselgruppe"
 metaTitle: "Malta & Gozo Reiseguide 2026: Tipps und Highlights | Zercy"
-description: "Malta und Gozo entdecken: Valletta, Mdina, Blaue Lagune und die Tempel von Ggantija. Wann reisen, wie herumkommen und was Malta zum perfekten Kurztrip macht."
+description: "Malta und Gozo entdecken: Valletta, Mdina, Blaue Lagune und die Tempel von Ggantija. Wann reisen, wie herumkommen und was Malta zum perfekten Kurztrip macht. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

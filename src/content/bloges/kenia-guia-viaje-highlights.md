@@ -1,7 +1,7 @@
 ---
 title: "Kenia: Guía de viaje con los mejores highlights"
 metaTitle: "Kenia Guía de Viaje 2026: Highlights y Consejos | Zercy"
-description: "Masai Mara, Amboseli, Nairobi y Diani Beach: los mejores highlights de Kenia, la época ideal para viajar, visados y todo lo que necesitas saber."
+description: "Masai Mara, Amboseli, Nairobi y Diani Beach: los mejores highlights de Kenia, la época ideal para viajar, visados y todo lo que necesitas saber. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

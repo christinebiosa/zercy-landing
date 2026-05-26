@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Perth: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Perth 2026: Wo übernachten in welchem Viertel | Zercy"
-description: "Perth Hotels 2026: CBD, Northbridge, Fremantle oder Cottesloe? Die besten Lagen, Top-Hotel-Picks und praktische Tipps für deinen Australien-Aufenthalt."
+description: "Perth Hotels 2026: CBD, Northbridge, Fremantle oder Cottesloe? Die besten Lagen, Top-Hotel-Picks und praktische Tipps für deinen Australien-Aufenthalt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

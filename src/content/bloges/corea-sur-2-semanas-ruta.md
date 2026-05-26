@@ -1,7 +1,7 @@
 ---
 title: "Corea del Sur en 2 semanas: La ruta perfecta para primerizos"
 metaTitle: "Corea del Sur 2 Semanas Ruta 2026 | Zercy"
-description: "Corea del Sur en 2 semanas: Seúl, Busan, Gyeongju y Jeju. La mejor ruta, temporada ideal, costos y consejos prácticos para tu viaje a Corea en 2026."
+description: "Corea del Sur en 2 semanas: Seúl, Busan, Gyeongju y Jeju. La mejor ruta, temporada ideal, costos y consejos prácticos para tu viaje a Corea en 2026. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

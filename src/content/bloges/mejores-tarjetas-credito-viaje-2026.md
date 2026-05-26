@@ -1,7 +1,7 @@
 ---
 title: "Las mejores tarjetas de crédito para viajeros en 2026"
 metaTitle: "Mejores tarjetas de crédito para viajar 2026 | Zercy"
-description: "Millas, acceso a salas VIP y seguros de viaje: comparamos las mejores tarjetas de crédito para viajeros en 2026. Amex, aerolíneas y bancos."
+description: "Millas, acceso a salas VIP y seguros de viaje: comparamos las mejores tarjetas de crédito para viajeros en 2026. Amex, aerolíneas y bancos. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "Viaje inteligente"
 readingTime: 7

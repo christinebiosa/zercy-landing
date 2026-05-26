@@ -1,7 +1,7 @@
 ---
 title: "Laos Travel Guide: Discovering Southeast Asia's Quietest Country"
 metaTitle: "Laos Travel Guide 2026: Luang Prabang & Highlights | Zercy"
-description: "Laos travel guide 2026: Luang Prabang, Vang Vieng, Vientiane, and the 4000 Islands. Visa on arrival, best travel season, tips, and costs for your Laos trip."
+description: "Laos travel guide 2026: Luang Prabang, Vang Vieng, Vientiane, and the 4000 Islands. Visa on arrival, best travel season, tips, and costs for your Laos trip. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

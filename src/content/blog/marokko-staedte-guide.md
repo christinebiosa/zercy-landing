@@ -1,7 +1,7 @@
 ---
 title: "Marokko Städte Guide: Fes, Casablanca, Chefchaouen und Meknes"
 metaTitle: "Marokko Städte Guide 2026: Fes, Casablanca & mehr | Zercy"
-description: "Fes Medina, Casablanca Art Deco, Chefchaouen blaue Stadt und Meknes: der ehrliche Städteführer für die beeindruckendsten Marokko-Städte abseits von Marrakesch."
+description: "Fes Medina, Casablanca Art Deco, Chefchaouen blaue Stadt und Meknes: der ehrliche Städteführer für die beeindruckendsten Marokko-Städte abseits von Marrakesch. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

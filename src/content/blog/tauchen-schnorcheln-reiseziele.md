@@ -1,7 +1,7 @@
 ---
 title: "Tauchen & Schnorcheln: Die besten Reiseziele weltweit 2026"
 metaTitle: "Tauchen & Schnorcheln: Beste Reiseziele 2026 | Zercy"
-description: "Great Barrier Reef, Rotes Meer, Malediven, Palau, Komodo, Cozumel: die besten Tauch- und Schnorchelziele weltweit 2026. Für Anfänger und Fortgeschrittene."
+description: "Great Barrier Reef, Rotes Meer, Malediven, Palau, Komodo, Cozumel: die besten Tauch- und Schnorchelziele weltweit 2026. Für Anfänger und Fortgeschrittene. Alles was du wissen musst."
 pubDate: 2026-05-11
 category: "Fernweh"
 readingTime: 8

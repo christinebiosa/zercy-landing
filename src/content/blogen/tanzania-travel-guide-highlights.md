@@ -1,7 +1,7 @@
 ---
 title: "Tanzania Travel Guide: Serengeti, Ngorongoro and Kilimanjaro"
 metaTitle: "Tanzania Travel Guide 2026: Safari & Highlights | Zercy"
-description: "Serengeti, Ngorongoro Crater, Kilimanjaro trekking and Zanzibar: the best Tanzania highlights and everything you need to plan your trip in 2026."
+description: "Serengeti, Ngorongoro Crater, Kilimanjaro trekking and Zanzibar: the best Tanzania highlights and everything you need to plan your trip in 2026. Everything you need to plan your trip."
 pubDate: 2026-05-14
 category: "Off the Map"
 readingTime: 8

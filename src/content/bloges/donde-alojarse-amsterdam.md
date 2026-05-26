@@ -1,7 +1,7 @@
 ---
 title: "Los mejores hoteles en Ámsterdam: dónde alojarse por barrio 2026"
 metaTitle: "Mejores hoteles Ámsterdam: Dónde alojarse 2026 | Zercy"
-description: "¿Dónde alojarse en Ámsterdam? Centrum para museos, Jordaan para encanto local, De Pijp para ambiente joven. Hoteles recomendados y precios reales por barrio."
+description: "¿Dónde alojarse en Ámsterdam? Centrum para museos, Jordaan para encanto local, De Pijp para ambiente joven. Hoteles recomendados y precios reales por barrio. Guía honesta para cada viajero."
 pubDate: 2026-05-08
 category: "Dónde alojarse"
 readingTime: 7

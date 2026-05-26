@@ -1,7 +1,7 @@
 ---
 title: "Mejores Hoteles en Medellín: Dónde Alojarse en Cada Barrio 2026"
 metaTitle: "Mejores Hoteles Medellín: Dónde Alojarse 2026 | Zercy"
-description: "Medellín tiene 4 barrios muy distintos: El Poblado premium, Laureles hipster, Centro local, Envigado familiar. ¿Cuál encaja mejor con tu viaje a Colombia?"
+description: "Medellín tiene 4 barrios muy distintos: El Poblado premium, Laureles hipster, Centro local, Envigado familiar. ¿Cuál encaja mejor con tu viaje a Colombia? Guía honesta para cada viajero."
 pubDate: 2026-05-07
 category: "Dónde alojarse"
 readingTime: 7

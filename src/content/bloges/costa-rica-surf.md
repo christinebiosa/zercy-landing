@@ -1,7 +1,7 @@
 ---
 title: "Costa Rica para surfistas: las mejores playas y temporadas en 2026"
 metaTitle: "Costa Rica surf 2026: mejores playas, temporadas y consejos | Zercy"
-description: "Las mejores playas de surf de Costa Rica: Tamarindo, Jacó, Dominical y Santa Teresa. Temporadas, niveles y consejos para planificar tu viaje de surf en 2026."
+description: "Las mejores playas de surf de Costa Rica: Tamarindo, Jacó, Dominical y Santa Teresa. Temporadas, niveles y consejos para planificar tu viaje de surf en 2026. Con precios actualizados para 2026."
 pubDate: 2026-05-08
 category: "En camino"
 readingTime: 7

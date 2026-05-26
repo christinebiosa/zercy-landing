@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Edinburgh: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Edinburgh: Where to Stay 2026 | Zercy"
-description: "Edinburgh has 4 very different neighborhoods: Old Town castle, New Town Georgian, Stockbridge hipster, Leith harbor. Which fits your Scotland trip best?"
+description: "Edinburgh has 4 very different neighborhoods: Old Town castle, New Town Georgian, Stockbridge hipster, Leith harbor. Which fits your Scotland trip best? Honest picks for every budget."
 pubDate: 2026-05-07
 category: "Where to Stay"
 readingTime: 7

@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Graz: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Graz 2026: Wo übernachten | Zercy"
-description: "Graz Hotels 2026: Altstadt, Geidorf, Lend oder Eggenberg? Die besten Stadtteile, Top-Hotel-Picks und praktische Tipps für deinen Aufenthalt."
+description: "Graz Hotels 2026: Altstadt, Geidorf, Lend oder Eggenberg? Die besten Stadtteile, Top-Hotel-Picks und praktische Tipps für deinen Aufenthalt. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

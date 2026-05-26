@@ -1,7 +1,7 @@
 ---
 title: "Irlanda Ruta Completa: El Mejor Recorrido por la Isla Esmeralda"
 metaTitle: "Irlanda Ruta Completa 2026: Wild Atlantic Way | Zercy"
-description: "Planifica tu ruta por Irlanda: Dublín, Wild Atlantic Way, Acantilados de Moher, Ring of Kerry y Calzada del Gigante. Ruta, consejos de coche y mejor época."
+description: "Planifica tu ruta por Irlanda: Dublín, Wild Atlantic Way, Acantilados de Moher, Ring of Kerry y Calzada del Gigante. Ruta, consejos de coche y mejor época. Todo lo que necesitas para planificar."
 pubDate: 2026-05-14
 category: "Lugares lejanos"
 readingTime: 8

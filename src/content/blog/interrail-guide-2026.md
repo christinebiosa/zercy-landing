@@ -1,7 +1,7 @@
 ---
 title: "Interrail 2026: Der komplette Guide zu Pässen, Routen und Reservierungen"
 metaTitle: "Interrail Guide 2026: Pässe, Routen, Tipps | Zercy"
-description: "Interrail 2026: Global Pass vs. Country Pass, wann sich der Pass lohnt, beste Routen für 1 bis 3 Wochen, Reservierungsgebühren und Schlafwagen-Tipps."
+description: "Interrail 2026: Global Pass vs. Country Pass, wann sich der Pass lohnt, beste Routen für 1 bis 3 Wochen, Reservierungsgebühren und Schlafwagen-Tipps. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-09
 category: "Unterwegs"
 readingTime: 7

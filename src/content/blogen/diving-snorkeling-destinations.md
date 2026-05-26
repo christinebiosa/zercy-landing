@@ -1,7 +1,7 @@
 ---
 title: "Diving & Snorkeling: The Best Destinations Worldwide 2026"
 metaTitle: "Diving & Snorkeling: Best Destinations 2026 | Zercy"
-description: "Great Barrier Reef, Red Sea, Maldives, Palau, Komodo, Cozumel: the best diving and snorkeling destinations worldwide 2026. For beginners and advanced divers."
+description: "Great Barrier Reef, Red Sea, Maldives, Palau, Komodo, Cozumel: the best diving and snorkeling destinations worldwide 2026. For beginners and advanced divers. Everything you need to know."
 pubDate: 2026-05-11
 category: "Off the Map"
 readingTime: 8

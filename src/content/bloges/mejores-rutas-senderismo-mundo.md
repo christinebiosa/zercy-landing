@@ -1,7 +1,7 @@
 ---
 title: "Las mejores rutas de senderismo del mundo: top 8 para 2026"
 metaTitle: "Mejores rutas senderismo del mundo: top 8 para 2026 | Zercy"
-description: "Camino de Santiago, Torres del Paine, Everest Base Camp: Las 8 mejores rutas de trekking con distancia, dificultad, mejor época y costos comparados."
+description: "Camino de Santiago, Torres del Paine, Everest Base Camp: Las 8 mejores rutas de trekking con distancia, dificultad, mejor época y costos comparados. Todo lo que necesitas para planificar."
 pubDate: 2026-05-11
 category: "Lugares lejanos"
 readingTime: 7

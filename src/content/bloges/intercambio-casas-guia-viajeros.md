@@ -1,7 +1,7 @@
 ---
 title: "Intercambio de casas: Cómo hospedarte gratis en cualquier parte del mundo"
 metaTitle: "Intercambio de casas: Guía completa 2026 | Zercy"
-description: "El intercambio de casas como alternativa a Airbnb. Cómo funcionan HomeExchange y similares, cuánto cuesta la membresía y para quién tiene sentido de verdad."
+description: "El intercambio de casas como alternativa a Airbnb. Cómo funcionan HomeExchange y similares, cuánto cuesta la membresía y para quién tiene sentido de verdad. Todo lo que necesitas saber."
 pubDate: 2026-05-11
 category: "Viaje inteligente"
 readingTime: 7

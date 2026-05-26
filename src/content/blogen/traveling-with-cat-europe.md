@@ -1,7 +1,7 @@
 ---
 title: "Traveling with a Cat in Europe: What You Really Need to Know"
 metaTitle: "Traveling with Cat Europe 2026: Tips & Rules | Zercy"
-description: "Traveling with a cat in Europe: EU pet passport, train and car transport, pet-friendly hotels, health requirements and practical tips for 2026."
+description: "Traveling with a cat in Europe: EU pet passport, train and car transport, pet-friendly hotels, health requirements and practical tips for 2026. Everything you need to know."
 pubDate: 2026-05-14
 category: "Travel Tips"
 readingTime: 7

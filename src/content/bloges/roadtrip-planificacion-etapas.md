@@ -1,7 +1,7 @@
 ---
 title: "Road trip: cómo planificar las etapas perfectas"
 metaTitle: "Road trip 2026: planificación de etapas y rutas | Zercy"
-description: "Cómo planificar un road trip desde cero. Etapas, distancias, alojamiento en ruta y los errores que cometen los que viajan en coche por primera vez."
+description: "Cómo planificar un road trip desde cero. Etapas, distancias, alojamiento en ruta y los errores que cometen los que viajan en coche por primera vez. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "En camino"
 readingTime: 7

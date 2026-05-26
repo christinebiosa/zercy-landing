@@ -1,7 +1,7 @@
 ---
 title: "Madrid en 24 horas: lo imprescindible si solo tienes un día"
 metaTitle: "Madrid en 24 horas: qué ver y hacer en un solo día | Zercy"
-description: "¿Solo tienes un día en Madrid? El itinerario perfecto para el Prado, el Retiro, la mejor tapa y el atardecer desde el Templo de Debod. Sin carreras."
+description: "¿Solo tienes un día en Madrid? El itinerario perfecto para el Prado, el Retiro, la mejor tapa y el atardecer desde el Templo de Debod. Sin carreras. Todo lo que necesitas saber."
 pubDate: 2026-05-08
 category: "En camino"
 readingTime: 6

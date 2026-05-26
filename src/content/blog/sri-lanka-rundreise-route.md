@@ -1,7 +1,7 @@
 ---
 title: "Sri Lanka Rundreise: Die beste Route durch die Insel"
 metaTitle: "Sri Lanka Rundreise 2026: Route & Tipps | Zercy"
-description: "Sri Lanka Rundreise 2026: Colombo, Kandy, Ella, Sigiriya und Galle. Die beste Route, Reisezeiten für Ost- und Westküste, ETA-Visum und Tuk-Tuk-Tipps."
+description: "Sri Lanka Rundreise 2026: Colombo, Kandy, Ella, Sigiriya und Galle. Die beste Route, Reisezeiten für Ost- und Westküste, ETA-Visum und Tuk-Tuk-Tipps. Mit Route, Kosten und allen Details."
 pubDate: 2026-05-14
 category: "Fernweh"
 readingTime: 8

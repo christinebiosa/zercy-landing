@@ -1,7 +1,7 @@
 ---
 title: "Japón más allá de Tokio: Kioto, Osaka, Hiroshima y más"
 metaTitle: "Japón más allá de Tokio 2026: Kioto, Osaka, Hiroshima | Zercy"
-description: "Descubre Japón más allá de Tokio: Kioto con geishas y templos, Osaka con la mejor cultura gastronómica de Asia, Hiroshima, Nara y los Alpes japoneses."
+description: "Descubre Japón más allá de Tokio: Kioto con geishas y templos, Osaka con la mejor cultura gastronómica de Asia, Hiroshima, Nara y los Alpes japoneses. Todo lo que necesitas saber."
 pubDate: 2026-05-09
 category: "Lugares lejanos"
 readingTime: 9

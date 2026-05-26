@@ -1,7 +1,7 @@
 ---
 title: "Beste Hotels in Gran Canaria: Wo übernachten in welchem Stadtteil 2026"
 metaTitle: "Hotels Gran Canaria 2026: Wo übernachten | Zercy"
-description: "Gran Canaria Hotels 2026: Las Palmas für Stadtflair, Maspalomas für Dünen und Resort, Puerto Rico für Familien. Stadtteile, Preise und Top-Picks 2026."
+description: "Gran Canaria Hotels 2026: Las Palmas für Stadtflair, Maspalomas für Dünen und Resort, Puerto Rico für Familien. Stadtteile, Preise und Top-Picks 2026. Top-Hotels für jedes Budget."
 pubDate: 2026-05-15
 category: "Wo übernachten"
 readingTime: 8

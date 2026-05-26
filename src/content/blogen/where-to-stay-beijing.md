@@ -1,7 +1,7 @@
 ---
 title: "Best Hotels in Beijing: Where to Stay in Each Neighborhood 2026"
 metaTitle: "Best Hotels Beijing: Where to Stay 2026 | Zercy"
-description: "Forbidden City, Sanlitun or Hutongs? A neighborhood guide to Beijing hotels with clear recommendations for first-timers and culture travelers."
+description: "Forbidden City, Sanlitun or Hutongs? A neighborhood guide to Beijing hotels with clear recommendations for first-timers and culture travelers. Honest picks for every budget."
 pubDate: 2026-05-25
 category: "Where to Stay"
 readingTime: 5

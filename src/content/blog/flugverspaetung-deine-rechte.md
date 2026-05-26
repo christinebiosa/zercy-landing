@@ -1,7 +1,7 @@
 ---
 title: "Flugverspätung: Deine Rechte als Passagier 2026"
 metaTitle: "Flugverspätung: Deine Rechte 2026 | Zercy"
-description: "EU-Verordnung 261/2004: Ab wann du Entschädigung bekommst, wie viel, wann Ausnahmen gelten und wie du deine Fluggastrechte wirklich durchsetzt."
+description: "EU-Verordnung 261/2004: Ab wann du Entschädigung bekommst, wie viel, wann Ausnahmen gelten und wie du deine Fluggastrechte wirklich durchsetzt. Alle Rechte und Entschädigungen erklärt."
 pubDate: 2026-05-09
 category: "Reisetipps"
 readingTime: 5

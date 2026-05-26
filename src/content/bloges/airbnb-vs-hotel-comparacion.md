@@ -1,7 +1,7 @@
 ---
 title: "Airbnb vs hotel: cuál elegir según el tipo de viaje en 2026"
 metaTitle: "Airbnb vs hotel 2026: cuál elegir según tu viaje | Zercy"
-description: "¿Airbnb o hotel para tu próximo viaje? Comparativa real de precio, comodidad, flexibilidad y cuándo gana cada opción según el destino y el viajero."
+description: "¿Airbnb o hotel para tu próximo viaje? Comparativa real de precio, comodidad, flexibilidad y cuándo gana cada opción según el destino y el viajero. Comparativa honesta con datos reales."
 pubDate: 2026-05-08
 category: "Viaje inteligente"
 readingTime: 7

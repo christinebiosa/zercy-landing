@@ -1,7 +1,7 @@
 ---
 title: "Carry-On vs. Checked Luggage: What Makes Sense When"
 metaTitle: "Carry-On vs Checked Luggage 2026 Guide | Zercy"
-description: "Ryanair, easyJet, Lufthansa baggage fees 2026 compared. When carry-on saves you time and money, and when checking a bag actually makes sense."
+description: "Ryanair, easyJet, Lufthansa baggage fees 2026 compared. When carry-on saves you time and money, and when checking a bag actually makes sense. Honest comparison with real numbers."
 pubDate: 2026-05-09
 category: "Carry-On Only"
 readingTime: 5
