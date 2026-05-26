@@ -1,7 +1,7 @@
 ---
 title: "Die 10 besten Travel Apps 2026: Was du wirklich brauchst"
-metaTitle: "Beste Travel Apps 2026: Top 10 Tools | Zercy"
-description: "Welche Reise-Apps lohnen sich 2026 wirklich? Von Flug-Vergleich bis Offline-Karten und KI-Planern: die 10 wichtigsten Tools für Vielreisende mit ehrlichen Bewertungen."
+metaTitle: "Die 10 besten Reise-Apps 2026: Ehrlicher Test | Zercy"
+description: "Offline-Karten, Flug-Tracker, KI-Planer, Packing-Apps: Welche Reise-Apps lohnen sich 2026? Test der 10 wichtigsten Tools mit Kosten und ehrlichen Bewertungen für Vielreisende."
 pubDate: 2026-04-28
 category: "KI & Reisen"
 readingTime: 7

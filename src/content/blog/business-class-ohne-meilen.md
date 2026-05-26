@@ -1,7 +1,7 @@
 ---
 title: "Business Class unter 1.000 Euro: Ohne Meilen oder Vielfliegerstatus"
-metaTitle: "Business Class unter 1.000 Euro buchen | Zercy"
-description: "Business Class unter 1.000 Euro ist machbar, ohne Meilen oder Vielfliegerstatus. Error Fares, Ex-EU-Pricing, Positioning Flights und Nebensaison: die echten Tricks 2026."
+metaTitle: "Business Class ohne Meilen: Unter 1.000 Euro 2026 | Zercy"
+description: "Kein Vielfliegerstatus, keine Meilen. Business Class trotzdem ab 700 Euro möglich: Error Fares, Ex-EU-Tickets und Positioning Flights. Die 5 Tricks die 2026 wirklich funktionieren."
 pubDate: 2026-04-04
 category: "Reisetipps"
 readingTime: 7

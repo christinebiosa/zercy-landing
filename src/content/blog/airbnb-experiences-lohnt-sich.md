@@ -1,7 +1,7 @@
 ---
 title: "Airbnb Experiences 2026: Lohnen sie sich wirklich?"
-metaTitle: "Airbnb Experiences: Lohnt es sich? | Zercy"
-description: "Ehrlicher Test: Was Airbnb Experiences 2026 kosten, wann sie besser sind als normale Touren, und wann du lieber woanders buchst. Mit Tipps zur Qualitätsbewertung."
+metaTitle: "Airbnb Experiences 2026: Wann lohnen sie sich? | Zercy"
+description: "Airbnb Experiences ab 18 bis 400 Euro: Besser als normale Stadttouren? Unser Test zeigt 4 Typen die es wert sind und 3, bei denen du woanders buchst. Mit Preisvergleich."
 pubDate: 2026-05-09
 category: "Clever Reisen"
 readingTime: 5

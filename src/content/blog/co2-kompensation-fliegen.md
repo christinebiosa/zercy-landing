@@ -1,7 +1,7 @@
 ---
 title: "CO2-Kompensation beim Fliegen: Bringt sie wirklich was?"
 metaTitle: "CO2-Kompensation beim Fliegen: Was bringt es? | Zercy"
-description: "Atmosfair, MyClimate, Climeworks: CO2-Kompensation beim Fliegen klingt einfach. Aber wie viel reduziert ein 30-Euro-Klick wirklich? Und welche Alternativen gibt es?"
+description: "Atmosfair, MyClimate oder Compensaid: CO2-Kompensation ab 30 Euro klingt einfach. Aber wie viel bewirkt das wirklich? Unser Faktencheck zeigt, wann es sinnvoll ist und wann nicht."
 pubDate: 2026-04-28
 category: "Nachhaltig"
 readingTime: 7

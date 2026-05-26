@@ -1,7 +1,7 @@
 ---
 title: "Booking Genius: Lohnt sich das Treueprogramm wirklich?"
-metaTitle: "Booking Genius Programm: Lohnt es sich? | Zercy"
-description: "Booking Genius Level 1, 2 und 3 erklärt: Welche Rabatte bekommst du wirklich? Ehrlicher Check, wann sich das Treueprogramm lohnt und wann andere Plattformen besser sind."
+metaTitle: "Booking Genius 2026: Lohnt sich Level 1, 2 oder 3? | Zercy"
+description: "Booking Genius Level 1, 2, 3 verglichen: Bekommst du wirklich 10 bis 25% Rabatt? Unser Ergebnis: Lohnt sich ab Level 2, aber nur mit der richtigen Buchungsstrategie."
 pubDate: 2026-05-08
 category: "Clever Reisen"
 readingTime: 6

@@ -1,7 +1,7 @@
 ---
 title: "Mejores Hoteles en Venecia: Dónde Alojarse en Cada Barrio 2026"
 metaTitle: "Hoteles Venecia: Dónde Alojarse en Cada Barrio | Zercy"
-description: "Venecia tiene 6 sestieri con carácter propio: el icónico San Marco, el cultural Dorsoduro, el económico Cannaregio, el auténtico San Polo, el tranquilo Castello y la isla de Giudecca. El desglose honesto."
+description: "¿San Marco, Dorsoduro o Cannaregio? Los 6 sestieri de Venecia comparados: dónde alojarse según presupuesto y estilo de viaje. Rangos de precios y hoteles recomendados 2026."
 pubDate: 2026-05-09
 category: "Dónde alojarse"
 readingTime: 7

@@ -303,6 +303,30 @@ bookingDest: "Stadt/Land"           # OPTIONAL: aktiviert Booking-CTA-Banner (si
 ---
 ```
 
+### 🎯 CTR-Optimierung — PFLICHT bei JEDEM Artikel (auch sofort bei neuen!)
+
+Jeder Artikel muss **vor dem Deploy** CTR-optimierte Meta Tags haben. Nicht erst nach dem Indexieren. Das ist genauso Pflicht wie heroImage.
+
+**Meta Title (45–60 Zeichen) — Regeln:**
+- Primäres Keyword **exakt** so wie User es suchen (z.B. "airbnb vs hotel comparison", nicht "Airbnb gegen Hotel")
+- Konkrete Zahl oder Ergebnis einbauen: "5 Tricks", "ab 700 Euro", "Top 10", "unter 1.000 Euro"
+- Keine generischen Formulierungen: nie "Der ehrliche Vergleich", "Was du wissen musst", "Alles was du brauchst"
+- Für "vs."-Artikel: beide Begriffe + "comparison/Vergleich/comparación" im Titel
+- Für "lohnt sich/worth it"-Artikel: Antwort kurz im Titel andeuten ("Lohnt sich ab Level 2", "Nur in 4 Fällen")
+
+**Meta Description (160–200 Zeichen) — Regeln:**
+- **Erster Satz:** überraschende Tatsache ODER direkte Frage ODER konkretes Ergebnis
+- Konkrete Details: Kosten ("ab 30 Euro"), Prozentsätze ("40%"), Anzahl ("4 Szenarien"), echte Städtenamen
+- Kein vages "Tipps und Tricks" — immer konkret was der User bekommt
+- Für "vs."-Artikel: Kostenvergleich + Überraschungsmoment ("40% der Airbnb-Wohnungen auch auf Booking.com")
+- Keine Em-Dashes (— oder –)
+
+**Bekannte Schwächen im Bestand (Stand 2026-05-25):**
+- 548 Artikel mit Description < 160 Zeichen (müssen systematisch gefixt werden, Batch-Sessions)
+- 179 Artikel mit metaTitle < 45 Zeichen
+- 141 Artikel mit metaTitle > 60 Zeichen
+- Priorität beim Fixen: Artikel mit GSC-Impressionen zuerst
+
 ### 📸 Foto-Workflow (PFLICHT bei jedem neuen Artikel!)
 
 **Niemals** Artikel deployen ohne `heroImage` im Frontmatter — sonst sieht die Card mit Icon-Fallback unfertig aus zwischen den anderen mit Fotos.

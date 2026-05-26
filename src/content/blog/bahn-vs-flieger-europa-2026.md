@@ -1,7 +1,7 @@
 ---
 title: "Bahn statt Flieger Europa: Wann sich der Zug wirklich lohnt 2026"
 metaTitle: "Bahn vs Flieger Europa 2026: Wann lohnt der Zug | Zercy"
-description: "Bahn oder Flugzeug für die Europa-Reise? Es gibt klare Regeln. Wir vergleichen Reisezeit, Preis und CO2 für 10 beliebte Strecken in Europa und sagen wann der Zug wirklich gewinnt."
+description: "Bahn oder Flieger nach Paris, Madrid, Zürich? Für 8 von 10 Strecken unter 800 km gewinnt der Zug in Reisezeit und Preis. Echter Vergleich für 10 Top-Strecken in Europa 2026."
 pubDate: 2026-05-07
 category: "Unterwegs"
 readingTime: 7
