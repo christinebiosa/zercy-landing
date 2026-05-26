@@ -1,6 +1,6 @@
 ---
 title: "Lost Luggage: What to Do Immediately and How Much Compensation"
-metaTitle: "Lost Luggage What to Do 2026: Rights and Compensation | Zercy"
+metaTitle: "Lost Luggage 2026: Your Rights & Compensation | Zercy"
 description: "Suitcase gone at the airport? File PIR form, wait 21 days, then up to €1,700 compensation. What to do immediately and how to get emergency purchases reimbursed."
 pubDate: 2026-05-25
 category: "Travel Tips"

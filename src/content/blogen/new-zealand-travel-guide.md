@@ -1,6 +1,6 @@
 ---
 title: "New Zealand Travel Guide 2026: North Island, South Island, Best Routes"
-metaTitle: "New Zealand Travel Guide 2026 | Zercy"
+metaTitle: "New Zealand Travel Guide 2026: Routes & Tips | Zercy"
 description: "New Zealand in 2 to 4 weeks: Best itinerary, highlights on North and South Island, rental car vs campervan, when to visit and practical tips for 2026. Everything you need to plan your trip."
 pubDate: 2026-05-09
 category: "Off the Map"

@@ -1,7 +1,7 @@
 ---
 title: "How to Plan a Scuba Dive Trip: The Complete Guide"
-metaTitle: "Scuba Dive Trip Guide 2026 | Zercy"
-description: "Plan your first or next scuba dive trip: certification, costs, best destinations, what to pack, and why you need a DAN diving insurance. Beginner-friendly."
+metaTitle: "Scuba Diving Trip Guide 2026: How to Plan | Zercy"
+description: "Plan your first or next scuba dive trip: certification, costs, best destinations, what to pack, and why you need a DAN diving insurance. Beginner-friendly Read more."
 heroImage: "/img/blog/scuba-dive-trip.jpg"
 pubDate: 2026-05-25
 category: "Off the Map"

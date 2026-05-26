@@ -1,6 +1,6 @@
 ---
 title: "Budget-Fernflug: 7 Tricks für günstige Langstreckenflüge 2026"
-metaTitle: "Günstige Fernflüge 2026: 7 Methoden die funktionieren | Zercy"
+metaTitle: "Günstige Fernflüge 2026: 7 Methoden die wirken | Zercy"
 description: "Ex-EU Routing, Budget-Airlines, 5th Freedom Flights: 7 bewährte Methoden für günstige Langstreckenflüge. Frankfurt-Bangkok ab 380 Euro, Berlin-New York ab 320 Euro."
 pubDate: 2026-05-25
 category: "Clever Reisen"

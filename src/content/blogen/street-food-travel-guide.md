@@ -1,7 +1,7 @@
 ---
 title: "Street Food Travel Guide: Eat Your Way Around the World"
-metaTitle: "Street Food Travel Guide 2026 | Zercy"
-description: "The best meal of your trip will cost under $5. Our street food travel guide covers top countries, safety tips, and how to find the real stuff locals eat."
+metaTitle: "Street Food Travel Guide 2026: Eat Local | Zercy"
+description: "The best meal of your trip will cost under $5. Our street food travel guide covers top countries, safety tips, and how to find the real stuff locals eat Read more."
 heroImage: "/img/blog/street-food-travel.jpg"
 pubDate: 2026-05-25
 category: "Hidden Gems"
