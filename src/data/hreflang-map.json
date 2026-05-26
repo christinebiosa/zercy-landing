@@ -89,6 +89,36 @@
     "en": "https://www.zercy.app/en/blog/airbnb-vs-hotel-comparison",
     "es": "https://www.zercy.app/es/blog/airbnb-vs-hotel-comparacion"
   },
+  "airline-allianzen-guide-2026": {
+    "de": "https://www.zercy.app/blog/airline-allianzen-guide-2026",
+    "en": "https://www.zercy.app/en/blog/airline-alliances-guide-2026",
+    "es": "https://www.zercy.app/es/blog/alianzas-aerolineas-guia-2026"
+  },
+  "airline-alliances-guide-2026": {
+    "de": "https://www.zercy.app/blog/airline-allianzen-guide-2026",
+    "en": "https://www.zercy.app/en/blog/airline-alliances-guide-2026",
+    "es": "https://www.zercy.app/es/blog/alianzas-aerolineas-guia-2026"
+  },
+  "alianzas-aerolineas-guia-2026": {
+    "de": "https://www.zercy.app/blog/airline-allianzen-guide-2026",
+    "en": "https://www.zercy.app/en/blog/airline-alliances-guide-2026",
+    "es": "https://www.zercy.app/es/blog/alianzas-aerolineas-guia-2026"
+  },
+  "airline-preisalgorithmus-erklaert": {
+    "de": "https://www.zercy.app/blog/airline-preisalgorithmus-erklaert",
+    "en": "https://www.zercy.app/en/blog/airline-pricing-algorithm-explained",
+    "es": "https://www.zercy.app/es/blog/algoritmo-precios-vuelos-aerolineas"
+  },
+  "airline-pricing-algorithm-explained": {
+    "de": "https://www.zercy.app/blog/airline-preisalgorithmus-erklaert",
+    "en": "https://www.zercy.app/en/blog/airline-pricing-algorithm-explained",
+    "es": "https://www.zercy.app/es/blog/algoritmo-precios-vuelos-aerolineas"
+  },
+  "algoritmo-precios-vuelos-aerolineas": {
+    "de": "https://www.zercy.app/blog/airline-preisalgorithmus-erklaert",
+    "en": "https://www.zercy.app/en/blog/airline-pricing-algorithm-explained",
+    "es": "https://www.zercy.app/es/blog/algoritmo-precios-vuelos-aerolineas"
+  },
   "airport-hacks": {
     "de": "https://www.zercy.app/blog/airport-hacks",
     "en": "https://www.zercy.app/en/blog/airport-hacks",
@@ -414,6 +444,16 @@
     "en": "https://www.zercy.app/en/blog/best-travel-apps-2026",
     "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-2026"
   },
+  "bid-upgrade-business-class": {
+    "de": "https://www.zercy.app/blog/bid-upgrade-business-class",
+    "en": "https://www.zercy.app/en/blog/bid-upgrade-business-class",
+    "es": "https://www.zercy.app/es/blog/puja-upgrade-clase-business"
+  },
+  "puja-upgrade-clase-business": {
+    "de": "https://www.zercy.app/blog/bid-upgrade-business-class",
+    "en": "https://www.zercy.app/en/blog/bid-upgrade-business-class",
+    "es": "https://www.zercy.app/es/blog/puja-upgrade-clase-business"
+  },
   "bolivien-salar-de-uyuni-guide": {
     "de": "https://www.zercy.app/blog/bolivien-salar-de-uyuni-guide",
     "en": "https://www.zercy.app/en/blog/bolivia-salt-flat-uyuni-guide",
@@ -468,6 +508,21 @@
     "de": "https://www.zercy.app/blog/booking-vs-direkt-buchen",
     "en": "https://www.zercy.app/en/blog/booking-vs-direct-hotel-booking",
     "es": "https://www.zercy.app/es/blog/reservar-online-o-directo"
+  },
+  "booking-vs-expedia-vergleich-2026": {
+    "de": "https://www.zercy.app/blog/booking-vs-expedia-vergleich-2026",
+    "en": "https://www.zercy.app/en/blog/booking-vs-expedia-comparison-2026",
+    "es": "https://www.zercy.app/es/blog/booking-vs-expedia-comparativa-2026"
+  },
+  "booking-vs-expedia-comparison-2026": {
+    "de": "https://www.zercy.app/blog/booking-vs-expedia-vergleich-2026",
+    "en": "https://www.zercy.app/en/blog/booking-vs-expedia-comparison-2026",
+    "es": "https://www.zercy.app/es/blog/booking-vs-expedia-comparativa-2026"
+  },
+  "booking-vs-expedia-comparativa-2026": {
+    "de": "https://www.zercy.app/blog/booking-vs-expedia-vergleich-2026",
+    "en": "https://www.zercy.app/en/blog/booking-vs-expedia-comparison-2026",
+    "es": "https://www.zercy.app/es/blog/booking-vs-expedia-comparativa-2026"
   },
   "boutique-hotels": {
     "de": "https://www.zercy.app/blog/boutique-hotels",
@@ -729,6 +784,21 @@
     "en": "https://www.zercy.app/en/blog/european-cities-winter-guide",
     "es": "https://www.zercy.app/es/blog/ciudades-europeas-invierno-guia"
   },
+  "ex-eu-routing-guenstiger-fliegen": {
+    "de": "https://www.zercy.app/blog/ex-eu-routing-guenstiger-fliegen",
+    "en": "https://www.zercy.app/en/blog/ex-eu-routing-cheaper-flights",
+    "es": "https://www.zercy.app/es/blog/vuelos-ex-eu-como-funciona"
+  },
+  "ex-eu-routing-cheaper-flights": {
+    "de": "https://www.zercy.app/blog/ex-eu-routing-guenstiger-fliegen",
+    "en": "https://www.zercy.app/en/blog/ex-eu-routing-cheaper-flights",
+    "es": "https://www.zercy.app/es/blog/vuelos-ex-eu-como-funciona"
+  },
+  "vuelos-ex-eu-como-funciona": {
+    "de": "https://www.zercy.app/blog/ex-eu-routing-guenstiger-fliegen",
+    "en": "https://www.zercy.app/en/blog/ex-eu-routing-cheaper-flights",
+    "es": "https://www.zercy.app/es/blog/vuelos-ex-eu-como-funciona"
+  },
   "faeroeer-inseln-guide": {
     "de": "https://www.zercy.app/blog/faeroeer-inseln-guide",
     "en": "https://www.zercy.app/en/blog/faroe-islands-guide",
@@ -818,6 +888,21 @@
     "de": "https://www.zercy.app/blog/finnland-reiseguide-highlights",
     "en": "https://www.zercy.app/en/blog/finland-travel-guide-highlights",
     "es": "https://www.zercy.app/es/blog/finlandia-guia-viaje-highlights"
+  },
+  "flexible-dates-flug-hack": {
+    "de": "https://www.zercy.app/blog/flexible-dates-flug-hack",
+    "en": "https://www.zercy.app/en/blog/flexible-dates-flight-hack",
+    "es": "https://www.zercy.app/es/blog/fechas-flexibles-vuelos-ahorro"
+  },
+  "flexible-dates-flight-hack": {
+    "de": "https://www.zercy.app/blog/flexible-dates-flug-hack",
+    "en": "https://www.zercy.app/en/blog/flexible-dates-flight-hack",
+    "es": "https://www.zercy.app/es/blog/fechas-flexibles-vuelos-ahorro"
+  },
+  "fechas-flexibles-vuelos-ahorro": {
+    "de": "https://www.zercy.app/blog/flexible-dates-flug-hack",
+    "en": "https://www.zercy.app/en/blog/flexible-dates-flight-hack",
+    "es": "https://www.zercy.app/es/blog/fechas-flexibles-vuelos-ahorro"
   },
   "flughafentransfer-tipps-2026": {
     "de": "https://www.zercy.app/blog/flughafentransfer-tipps-2026",
@@ -938,6 +1023,21 @@
     "de": "https://www.zercy.app/blog/glamping-europa-guide",
     "en": "https://www.zercy.app/en/blog/glamping-europe-guide",
     "es": "https://www.zercy.app/es/blog/glamping-vacaciones-europa"
+  },
+  "google-flights-tricks-tipps-2026": {
+    "de": "https://www.zercy.app/blog/google-flights-tricks-tipps-2026",
+    "en": "https://www.zercy.app/en/blog/google-flights-tips-tricks-2026",
+    "es": "https://www.zercy.app/es/blog/google-flights-trucos-2026"
+  },
+  "google-flights-tips-tricks-2026": {
+    "de": "https://www.zercy.app/blog/google-flights-tricks-tipps-2026",
+    "en": "https://www.zercy.app/en/blog/google-flights-tips-tricks-2026",
+    "es": "https://www.zercy.app/es/blog/google-flights-trucos-2026"
+  },
+  "google-flights-trucos-2026": {
+    "de": "https://www.zercy.app/blog/google-flights-tricks-tipps-2026",
+    "en": "https://www.zercy.app/en/blog/google-flights-tips-tricks-2026",
+    "es": "https://www.zercy.app/es/blog/google-flights-trucos-2026"
   },
   "griechenland-inseln-vergleich": {
     "de": "https://www.zercy.app/blog/griechenland-inseln-vergleich",
@@ -1088,6 +1188,21 @@
     "de": "https://www.zercy.app/blog/hotel-kategorien-erklaert",
     "en": "https://www.zercy.app/en/blog/hotel-categories-explained",
     "es": "https://www.zercy.app/es/blog/categorias-hotel-explicadas"
+  },
+  "hotel-rate-parity-erklaert": {
+    "de": "https://www.zercy.app/blog/hotel-rate-parity-erklaert",
+    "en": "https://www.zercy.app/en/blog/hotel-rate-parity-explained",
+    "es": "https://www.zercy.app/es/blog/paridad-tarifas-hoteles"
+  },
+  "hotel-rate-parity-explained": {
+    "de": "https://www.zercy.app/blog/hotel-rate-parity-erklaert",
+    "en": "https://www.zercy.app/en/blog/hotel-rate-parity-explained",
+    "es": "https://www.zercy.app/es/blog/paridad-tarifas-hoteles"
+  },
+  "paridad-tarifas-hoteles": {
+    "de": "https://www.zercy.app/blog/hotel-rate-parity-erklaert",
+    "en": "https://www.zercy.app/en/blog/hotel-rate-parity-explained",
+    "es": "https://www.zercy.app/es/blog/paridad-tarifas-hoteles"
   },
   "hotel-upgrade-gratis-tipps": {
     "de": "https://www.zercy.app/blog/hotel-upgrade-gratis-tipps",
@@ -2018,6 +2133,21 @@
     "de": "https://www.zercy.app/blog/portugal-rundreise-route",
     "en": "https://www.zercy.app/en/blog/portugal-road-trip-route",
     "es": "https://www.zercy.app/es/blog/portugal-ruta-completa"
+  },
+  "positioning-flight-erklaert": {
+    "de": "https://www.zercy.app/blog/positioning-flight-erklaert",
+    "en": "https://www.zercy.app/en/blog/positioning-flight-guide",
+    "es": "https://www.zercy.app/es/blog/vuelo-posicionamiento-cuando-vale-la-pena"
+  },
+  "positioning-flight-guide": {
+    "de": "https://www.zercy.app/blog/positioning-flight-erklaert",
+    "en": "https://www.zercy.app/en/blog/positioning-flight-guide",
+    "es": "https://www.zercy.app/es/blog/vuelo-posicionamiento-cuando-vale-la-pena"
+  },
+  "vuelo-posicionamiento-cuando-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/positioning-flight-erklaert",
+    "en": "https://www.zercy.app/en/blog/positioning-flight-guide",
+    "es": "https://www.zercy.app/es/blog/vuelo-posicionamiento-cuando-vale-la-pena"
   },
   "powerbank-regeln-handgepaeck-2026": {
     "de": "https://www.zercy.app/blog/powerbank-regeln-handgepaeck-2026",
