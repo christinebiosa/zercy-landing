@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BookingCTA from '../../../components/BookingCTA.astro';
+import NewsletterSignup from '../../../components/NewsletterSignup.astro';
 import hreflangMap from '../../../data/hreflang-map.json';
 
 export async function getStaticPaths() {
@@ -296,6 +297,8 @@ if (faqStart !== -1) {
     </div>
 
     {post.data.bookingDest && <BookingCTA dest={post.data.bookingDest} lang="en" />}
+
+    <NewsletterSignup lang="en" />
 
     <a href="/en/blog" class="back-link">← Back to Blog</a>
   </main>

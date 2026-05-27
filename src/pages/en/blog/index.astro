@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BlogSearch from '../../../components/BlogSearch.astro';
+import NewsletterSignup from '../../../components/NewsletterSignup.astro';
 
 // Pin: until we get DC affiliate approval, keep the rental-consolidators article
 // at the top-left position, no matter what new articles we publish.
@@ -235,6 +236,10 @@ const destinationPosts = [...posts]
       const chipIcon = categoryIcons[cat] || categoryIcons['Travel Tips'];
       return <button class="chip" data-filter={cat}><span class="chip-icon"><Fragment set:html={chipIcon} /></span>{cat}</button>;
     })}
+  </div>
+
+  <div style="max-width:1100px;margin:0 auto 0;padding:0 2rem;">
+    <NewsletterSignup lang="en" />
   </div>
 
   <div class="blog-grid">

@@ -1,0 +1,208 @@
+---
+interface Props {
+  lang?: 'de' | 'en' | 'es';
+}
+const { lang = 'de' } = Astro.props;
+
+const copy = {
+  de: {
+    headline: 'Jede Woche eine Stadt, die du noch nicht auf dem Radar hast.',
+    sub: '3 Hotels, 1 Flug-Tipp — direkt ins Postfach. Kein Spam.',
+    placeholder: 'Deine E-Mail-Adresse',
+    btn: 'Kostenlos abonnieren',
+    gdpr: 'Ich möchte den wöchentlichen Zercy-Newsletter erhalten.',
+    privacy: 'Datenschutz',
+    privacyHref: '/privacy',
+    success: 'Willkommen! Schau gleich in dein Postfach.',
+    error: 'Etwas ist schiefgelaufen. Bitte versuche es erneut.',
+  },
+  en: {
+    headline: "Every week: one city you haven't thought of yet.",
+    sub: '3 hotels, 1 flight tip — straight to your inbox. No spam.',
+    placeholder: 'Your email address',
+    btn: 'Subscribe free',
+    gdpr: "I'd like to receive the weekly Zercy newsletter.",
+    privacy: 'Privacy Policy',
+    privacyHref: '/privacy',
+    success: 'Welcome! Check your inbox.',
+    error: 'Something went wrong. Please try again.',
+  },
+  es: {
+    headline: 'Cada semana: una ciudad que todavía no tienes en el radar.',
+    sub: '3 hoteles, 1 consejo de vuelo — directo a tu correo. Sin spam.',
+    placeholder: 'Tu correo electrónico',
+    btn: 'Suscribirme gratis',
+    gdpr: 'Quiero recibir el boletín semanal de Zercy.',
+    privacy: 'Política de privacidad',
+    privacyHref: '/privacy',
+    success: '¡Bienvenido! Revisa tu bandeja de entrada.',
+    error: 'Algo salió mal. Inténtalo de nuevo.',
+  },
+};
+
+const t = copy[lang];
+const formId = `nl-form-${Math.random().toString(36).slice(2, 7)}`;
+---
+
+<div class="nl-box" id={formId}>
+  <div class="nl-inner">
+    <div class="nl-text">
+      <p class="nl-headline">{t.headline}</p>
+      <p class="nl-sub">{t.sub}</p>
+    </div>
+    <form class="nl-form" data-lang={lang}>
+      <div class="nl-row">
+        <input
+          type="email"
+          name="email"
+          placeholder={t.placeholder}
+          required
+          autocomplete="email"
+          class="nl-input"
+        />
+        <button type="submit" class="nl-btn">{t.btn}</button>
+      </div>
+      <label class="nl-gdpr">
+        <input type="checkbox" name="consent" required />
+        <span>
+          {t.gdpr}
+          <a href={t.privacyHref} target="_blank" rel="noopener">{t.privacy}</a>
+        </span>
+      </label>
+    </form>
+    <p class="nl-success" hidden></p>
+    <p class="nl-error" hidden></p>
+  </div>
+</div>
+
+<style>
+  .nl-box {
+    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+    border: 1px solid #bae6fd;
+    border-radius: 16px;
+    padding: 1.8rem 2rem;
+    margin: 2.5rem 0;
+  }
+  .nl-headline {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: #0f172a;
+    margin: 0 0 0.4rem;
+    line-height: 1.4;
+  }
+  .nl-sub {
+    font-size: 0.88rem;
+    color: #475569;
+    margin: 0 0 1.1rem;
+  }
+  .nl-row {
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.7rem;
+  }
+  .nl-input {
+    flex: 1;
+    min-width: 200px;
+    padding: 0.65rem 1rem;
+    border: 1.5px solid #bae6fd;
+    border-radius: 50px;
+    font-size: 0.92rem;
+    background: #fff;
+    color: #0f172a;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .nl-input:focus { border-color: #0ea5e9; }
+  .nl-btn {
+    padding: 0.65rem 1.4rem;
+    background: #0ea5e9;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: opacity 0.2s;
+    white-space: nowrap;
+  }
+  .nl-btn:hover { opacity: 0.88; }
+  .nl-btn:disabled { opacity: 0.6; cursor: default; }
+  .nl-gdpr {
+    display: flex;
+    gap: 0.5rem;
+    align-items: flex-start;
+    font-size: 0.8rem;
+    color: #64748b;
+    cursor: pointer;
+  }
+  .nl-gdpr input { margin-top: 2px; accent-color: #0ea5e9; flex-shrink: 0; }
+  .nl-gdpr a { color: #0ea5e9; text-decoration: underline; }
+  .nl-success {
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: #0f172a;
+    margin: 0.5rem 0 0;
+    padding: 0.6rem 1rem;
+    background: #dcfce7;
+    border-radius: 8px;
+  }
+  .nl-error {
+    font-size: 0.88rem;
+    color: #dc2626;
+    margin: 0.5rem 0 0;
+  }
+  @media (max-width: 500px) {
+    .nl-box { padding: 1.4rem 1.2rem; }
+    .nl-btn { width: 100%; }
+  }
+</style>
+
+<script>
+  document.querySelectorAll('.nl-form').forEach(form => {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const box = form.closest('.nl-box');
+      const btn = form.querySelector('.nl-btn');
+      const successEl = box.querySelector('.nl-success');
+      const errorEl = box.querySelector('.nl-error');
+      const lang = form.dataset.lang || 'de';
+
+      btn.disabled = true;
+      errorEl.hidden = true;
+
+      const email = form.querySelector('input[name="email"]').value.trim();
+
+      try {
+        const res = await fetch('/api/newsletter-signup', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email, lang }),
+        });
+
+        if (res.ok) {
+          form.hidden = true;
+          const msgs = {
+            de: 'Willkommen! Schau gleich in dein Postfach.',
+            en: 'Welcome! Check your inbox.',
+            es: '¡Bienvenido! Revisa tu bandeja de entrada.',
+          };
+          successEl.textContent = msgs[lang] || msgs.de;
+          successEl.hidden = false;
+        } else {
+          throw new Error('failed');
+        }
+      } catch {
+        const msgs = {
+          de: 'Etwas ist schiefgelaufen. Bitte erneut versuchen.',
+          en: 'Something went wrong. Please try again.',
+          es: 'Algo salió mal. Inténtalo de nuevo.',
+        };
+        errorEl.textContent = msgs[lang] || msgs.de;
+        errorEl.hidden = false;
+        btn.disabled = false;
+      }
+    });
+  });
+</script>

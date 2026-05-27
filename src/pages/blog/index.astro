@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BlogSearch from '../../components/BlogSearch.astro';
+import NewsletterSignup from '../../components/NewsletterSignup.astro';
 
 // Pin: solange wir kein DC-Affiliate-Approval haben, soll der Consolidator-Artikel
 // oben links stehen (erster Artikel, egal was wir neu publishen).
@@ -247,6 +248,10 @@ const destinationPosts = [...posts]
       const chipIcon = categoryIcons[cat] || categoryIcons['Reisetipps'];
       return <button class="chip" data-filter={cat}><span class="chip-icon"><Fragment set:html={chipIcon} /></span>{cat}</button>;
     })}
+  </div>
+
+  <div style="max-width:1100px;margin:0 auto 0;padding:0 2rem;">
+    <NewsletterSignup lang="de" />
   </div>
 
   <div class="blog-grid">

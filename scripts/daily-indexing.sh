@@ -5,7 +5,7 @@
 REPO="$HOME/Claude Code Projects/zercy-landing"
 QUEUE="$REPO/scripts/indexing-queue.txt"
 LOG="$HOME/.zercy-analytics/indexing.log"
-NODE=$(which node)
+NODE=/opt/homebrew/bin/node
 
 cd "$REPO" || exit 1
 
@@ -15,22 +15,24 @@ if [ ! -f "$QUEUE" ] || [ ! -s "$QUEUE" ]; then
   exit 0
 fi
 
-# Erste 200 URLs holen
-URLS=$(head -200 "$QUEUE")
-COUNT=$(echo "$URLS" | wc -l | tr -d ' ')
+# Erste 200 URLs in Temp-Datei schreiben
+TMPFILE=$(mktemp /tmp/zercy-indexing-XXXX.txt)
+head -200 "$QUEUE" > "$TMPFILE"
+COUNT=$(wc -l < "$TMPFILE" | tr -d ' ')
 
 echo "$(date '+%Y-%m-%d %H:%M') — Starte Einreichung: $COUNT URLs" >> "$LOG"
 
-# Einreichen
-RESULT=$($NODE "$REPO/scripts/submit-indexing.mjs" $URLS 2>&1)
+# Einreichen via --file
+RESULT=$($NODE "$REPO/scripts/submit-indexing.mjs" --file "$TMPFILE" 2>&1)
 echo "$RESULT" >> "$LOG"
+rm -f "$TMPFILE"
 
 # Erfolgreiche URLs aus Queue entfernen
 OK=$(echo "$RESULT" | grep -c "✅")
 echo "$(date '+%Y-%m-%d %H:%M') — Eingereicht: $OK/$COUNT. Verbleibend in Queue: $(( $(wc -l < "$QUEUE") - OK ))" >> "$LOG"
 
-# Erste 200 Zeilen aus Queue löschen (auch wenn einzelne fehlschlugen — werden beim nächsten Run erneut versucht wenn nötig)
+# Erste 200 Zeilen aus Queue löschen
 tail -n +201 "$QUEUE" > "$QUEUE.tmp" && mv "$QUEUE.tmp" "$QUEUE"
 
 # macOS Notification
-osascript -e "display notification \"$OK URLs bei Google eingereicht. $(wc -l < "$QUEUE" | tr -d ' ') noch in der Queue.\" with title \"Zercy Indexing\"" 2>/dev/null || true
+osascript -e "display alert \"Zercy Indexing\" message \"$OK URLs bei Google eingereicht. $(wc -l < "$QUEUE" | tr -d ' ') noch in der Queue.\"" 2>/dev/null || true
