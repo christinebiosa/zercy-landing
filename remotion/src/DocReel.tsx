@@ -16,7 +16,6 @@ export type DocReelProps = {
   musicSrc: string | null;
   beats: Array<{ kind: string; imageSrc: string; label: string | null; startFrame: number; endFrame: number }>;
   subtitles: Array<{ startFrame: number; endFrame: number; text: string }>;
-  cityName?: string;
 };
 
 export const DocReel: React.FC<DocReelProps> = ({ durationInFrames, audioSrc, musicSrc, beats, subtitles }) => {

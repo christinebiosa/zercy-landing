@@ -57,7 +57,7 @@ async function generateCity(slug) {
   const esMd = readArticle(`donde-alojarse-${slug}`);
   if (!deMd && !enMd && !esMd) throw new Error(`Keine Artikel fuer: ${slug}`);
 
-  const cityName = slug.charAt(0).toUpperCase() + slug.slice(1);
+  const cityName = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 
   // 1. Beat-Sheet (Claude)
   console.log('  📝 Beat-Sheet...');
@@ -88,14 +88,17 @@ async function generateCity(slug) {
 
     const audioPath = path.join(langDir, 'voice.mp3');
     const srtPath = path.join(TEMP_DIR, `${slug}-${lang}.srt`);
-    synthVoice({ text: buildNarration(beatSheet, lang), lang, audioPath, srtPath });
+    try {
+      synthVoice({ text: buildNarration(beatSheet, lang), lang, audioPath, srtPath });
+    } catch (e) {
+      throw new Error(`Voiceover (edge-tts) fehlgeschlagen fuer ${lang}: ${e.message}. Ist edge-tts installiert? (pip install edge-tts)`);
+    }
 
     const audioDurationSec = ffprobeDuration(audioPath);
     const cues = groupCues(parseSrt(readFileSync(srtPath, 'utf8')));
 
     const props = buildProps({ beatSheet, lang, imageSrcs, audioDurationSec, cues, musicSrc, fps: 30 });
     props.audioSrc = `renders/${slug}/${lang}/voice.mp3`;
-    props.cityName = cityName;
 
     const propsFile = path.join(TEMP_DIR, `${slug}-${lang}.props.json`);
     writeFileSync(propsFile, JSON.stringify(props));
