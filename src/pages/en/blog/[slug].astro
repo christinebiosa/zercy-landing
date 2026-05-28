@@ -65,6 +65,8 @@ const icon = icons[cat] || icons['Travel Tips'];
 const dateStr = post.data.pubDate.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 const metaTitle = post.data.metaTitle || (post.data.title + ' | Zercy');
 const canonicalUrl = `https://www.zercy.app/en/blog/${post.id}`;
+const isCityGuide = post.id.startsWith('where-to-stay-');
+const cityNameRaw = isCityGuide ? post.data.title.match(/Best Hotels (?:in|on|at) (.+?):/)?.[1] ?? '' : '';
 const hreflang = (hreflangMap as Record<string, {de:string|null,en:string|null,es:string|null}>)[post.id];
 
 // FAQPage Schema — parse H3 questions from FAQ section
@@ -112,6 +114,9 @@ if (faqStart !== -1) {
   <meta property="og:url" content={canonicalUrl} />
   <meta property="og:type" content="article" />
   <meta property="og:image" content={`https://www.zercy.app${post.data.heroImage}`} data-pagefind-meta="image[content]" />
+  <meta property="og:site_name" content="Zercy" />
+  <meta property="article:published_time" content={post.data.pubDate.toISOString()} />
+  <meta property="article:author" content="https://www.zercy.app/about" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -215,6 +220,46 @@ if (faqStart !== -1) {
     .cta-box a:hover { opacity: 0.88; }
     .back-link { display: inline-flex; align-items: center; gap: 0.4rem; color: var(--blue); font-size: 0.88rem; font-weight: 600; text-decoration: none; margin-top: 2.5rem; }
     .back-link:hover { text-decoration: underline; }
+    .pin-wrap { position: relative; overflow: hidden; }
+    .pin-save-btn {
+      position: absolute;
+      top: 0.75rem;
+      left: 0.75rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: rgba(230, 0, 35, 0.92);
+      color: #fff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      padding: 0.35rem 0.7rem;
+      border-radius: 50px;
+      text-decoration: none;
+      opacity: 0;
+      transform: translateY(-4px);
+      transition: opacity 0.2s, transform 0.2s;
+      pointer-events: none;
+      z-index: 10;
+    }
+    .pin-wrap:hover .pin-save-btn {
+      opacity: 1;
+      transform: translateY(0);
+      pointer-events: auto;
+    }
+    .pinterest-city-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      color: #e60023;
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-decoration: none;
+      margin-top: 1rem;
+      margin-bottom: 0.5rem;
+      opacity: 0.85;
+      transition: opacity 0.2s;
+    }
+    .pinterest-city-link:hover { opacity: 1; text-decoration: underline; }
     footer { background: var(--navy); border-top: 1px solid rgba(255,255,255,0.08); padding: 40px 0; }
     .footer-inner { max-width: 1100px; margin: 0 auto; padding: 0 24px; text-align: center; }
     .footer-logo { display: flex; align-items: center; gap: 8px; justify-content: center; margin-bottom: 10px; }
@@ -269,7 +314,18 @@ if (faqStart !== -1) {
   </div>
 
   {post.data.heroImage ? (
-    <div class="article-banner-photo" style={`background-image: url('${post.data.heroImage}');`}></div>
+    <div class="article-banner-photo pin-wrap" style={`background-image: url('${post.data.heroImage}');`}>
+      <a
+        class="pin-save-btn"
+        href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(canonicalUrl)}&media=${encodeURIComponent(`https://www.zercy.app${post.data.heroImage}`)}&description=${encodeURIComponent(post.data.title)}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Save to Pinterest"
+      >
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+        Save
+      </a>
+    </div>
   ) : (
     <div class="article-banner" style={`background: ${bg};`}>
       <span class="cat-icon" style={`color: ${color};`}><Fragment set:html={icon} /></span>
@@ -299,6 +355,18 @@ if (faqStart !== -1) {
     {post.data.bookingDest && <BookingCTA dest={post.data.bookingDest} lang="en" />}
 
     <NewsletterSignup lang="en" />
+
+    {isCityGuide && cityNameRaw && (
+      <a
+        class="pinterest-city-link"
+        href="https://www.pinterest.com/zercy_travel/where-to-stay-worldwide/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+        Save hotel tips for {cityNameRaw} to Pinterest
+      </a>
+    )}
 
     <a href="/en/blog" class="back-link">← Back to Blog</a>
   </main>
