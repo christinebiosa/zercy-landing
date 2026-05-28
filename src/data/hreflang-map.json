@@ -4929,6 +4929,21 @@
     "en": "https://www.zercy.app/en/blog/where-to-stay-agadir",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-agadir"
   },
+  "wo-uebernachten-agra": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-agra",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-agra",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-agra"
+  },
+  "where-to-stay-agra": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-agra",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-agra",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-agra"
+  },
+  "donde-alojarse-agra": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-agra",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-agra",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-agra"
+  },
   "wo-uebernachten-alicante": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-alicante",
     "en": "https://www.zercy.app/en/blog/where-to-stay-alicante",
@@ -4943,6 +4958,21 @@
     "de": "https://www.zercy.app/blog/wo-uebernachten-alicante",
     "en": "https://www.zercy.app/en/blog/where-to-stay-alicante",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-alicante"
+  },
+  "wo-uebernachten-amman": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-amman",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-amman",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-aman"
+  },
+  "where-to-stay-amman": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-amman",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-amman",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-aman"
+  },
+  "donde-alojarse-aman": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-amman",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-amman",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-aman"
   },
   "wo-uebernachten-amsterdam": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-amsterdam",
@@ -4988,6 +5018,21 @@
     "de": "https://www.zercy.app/blog/wo-uebernachten-antigua",
     "en": "https://www.zercy.app/en/blog/where-to-stay-antigua",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-antigua"
+  },
+  "wo-uebernachten-antwerpen": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-antwerpen",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-antwerp",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-amberes"
+  },
+  "where-to-stay-antwerp": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-antwerpen",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-antwerp",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-amberes"
+  },
+  "donde-alojarse-amberes": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-antwerpen",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-antwerp",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-amberes"
   },
   "wo-uebernachten-athen": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-athen",
@@ -5078,6 +5123,36 @@
     "de": "https://www.zercy.app/blog/wo-uebernachten-barcelona",
     "en": "https://www.zercy.app/en/blog/where-to-stay-barcelona",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-barcelona"
+  },
+  "wo-uebernachten-bath": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-bath",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-bath",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-bath"
+  },
+  "where-to-stay-bath": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-bath",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-bath",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-bath"
+  },
+  "donde-alojarse-bath": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-bath",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-bath",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-bath"
+  },
+  "wo-uebernachten-belgrad": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-belgrad",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-belgrade",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-belgrado"
+  },
+  "where-to-stay-belgrade": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-belgrad",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-belgrade",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-belgrado"
+  },
+  "donde-alojarse-belgrado": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-belgrad",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-belgrade",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-belgrado"
   },
   "wo-uebernachten-bergen": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-bergen",
@@ -6384,6 +6459,21 @@
     "en": "https://www.zercy.app/en/blog/where-to-stay-lisbon",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-lisboa"
   },
+  "wo-uebernachten-liverpool": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-liverpool",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-liverpool",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-liverpool"
+  },
+  "where-to-stay-liverpool": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-liverpool",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-liverpool",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-liverpool"
+  },
+  "donde-alojarse-liverpool": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-liverpool",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-liverpool",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-liverpool"
+  },
   "wo-uebernachten-ljubljana": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-ljubljana",
     "en": "https://www.zercy.app/en/blog/where-to-stay-ljubljana",
@@ -6533,6 +6623,21 @@
     "de": "https://www.zercy.app/blog/wo-uebernachten-malaga",
     "en": "https://www.zercy.app/en/blog/where-to-stay-malaga",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-malaga"
+  },
+  "wo-uebernachten-manchester": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-manchester",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-manchester",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-manchester"
+  },
+  "where-to-stay-manchester": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-manchester",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-manchester",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-manchester"
+  },
+  "donde-alojarse-manchester": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-manchester",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-manchester",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-manchester"
   },
   "wo-uebernachten-marrakesch": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-marrakesch",
@@ -7028,6 +7133,21 @@
     "de": "https://www.zercy.app/blog/wo-uebernachten-philadelphia",
     "en": "https://www.zercy.app/en/blog/where-to-stay-philadelphia",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-filadelfia"
+  },
+  "wo-uebernachten-phnom-penh": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-phnom-penh",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-phnom-penh",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-phnom-penh"
+  },
+  "where-to-stay-phnom-penh": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-phnom-penh",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-phnom-penh",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-phnom-penh"
+  },
+  "donde-alojarse-phnom-penh": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-phnom-penh",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-phnom-penh",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-phnom-penh"
   },
   "wo-uebernachten-phuket": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-phuket",
@@ -7749,6 +7869,21 @@
     "en": "https://www.zercy.app/en/blog/where-to-stay-tulum",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-tulum"
   },
+  "wo-uebernachten-turin": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-turin",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-turin",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-turin"
+  },
+  "where-to-stay-turin": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-turin",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-turin",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-turin"
+  },
+  "donde-alojarse-turin": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-turin",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-turin",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-turin"
+  },
   "wo-uebernachten-udaipur": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-udaipur",
     "en": "https://www.zercy.app/en/blog/where-to-stay-udaipur",
@@ -7958,6 +8093,21 @@
     "de": "https://www.zercy.app/blog/wo-uebernachten-xian",
     "en": "https://www.zercy.app/en/blog/where-to-stay-xian",
     "es": "https://www.zercy.app/es/blog/donde-alojarse-xian"
+  },
+  "wo-uebernachten-zagreb": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-zagreb",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-zagreb",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-zagreb"
+  },
+  "where-to-stay-zagreb": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-zagreb",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-zagreb",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-zagreb"
+  },
+  "donde-alojarse-zagreb": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-zagreb",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-zagreb",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-zagreb"
   },
   "wo-uebernachten-zuerich": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-zuerich",

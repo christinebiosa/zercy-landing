@@ -11,12 +11,21 @@ export const slugToTopic = {
   'where-to-stay-athens': 'athens',
   'wo-uebernachten-barcelona': 'barcelona',
   'where-to-stay-barcelona': 'barcelona',
+  'wo-uebernachten-bath': 'bath',
+  'where-to-stay-bath': 'bath',
+  'donde-alojarse-bath': 'bath',
   'wo-uebernachten-berlin': 'berlin',
   'where-to-stay-berlin': 'berlin',
   'wo-uebernachten-edinburgh': 'edinburgh',
   'where-to-stay-edinburgh': 'edinburgh',
+  'wo-uebernachten-manchester': 'manchester',
+  'where-to-stay-manchester': 'manchester',
+  'donde-alojarse-manchester': 'manchester',
   'wo-uebernachten-lissabon': 'lisbon',
   'where-to-stay-lisbon': 'lisbon',
+  'wo-uebernachten-liverpool': 'liverpool',
+  'where-to-stay-liverpool': 'liverpool',
+  'donde-alojarse-liverpool': 'liverpool',
   'wo-uebernachten-london': 'london',
   'where-to-stay-london': 'london',
   'donde-alojarse-london': 'london',
@@ -768,6 +777,10 @@ export const slugToTopic = {
   'wo-uebernachten-melbourne': 'melbourne',
   'where-to-stay-melbourne': 'melbourne',
   'donde-alojarse-melbourne': 'melbourne',
+  // Agra
+  'wo-uebernachten-agra': 'agra',
+  'where-to-stay-agra': 'agra',
+  'donde-alojarse-agra': 'agra',
   // Jaipur
   'wo-uebernachten-jaipur': 'jaipur',
   'where-to-stay-jaipur': 'jaipur',
@@ -886,6 +899,10 @@ export const slugToTopic = {
   'reisefehler-vermeiden-klassische-fehler': 'travel-mistakes',
   'travel-mistakes-avoid-common': 'travel-mistakes',
   'errores-viaje-evitar-clasicos': 'travel-mistakes',
+  // Amman
+  'wo-uebernachten-amman': 'amman',
+  'where-to-stay-amman': 'amman',
+  'donde-alojarse-aman': 'amman',
   // Cairo
   'wo-uebernachten-kairo': 'cairo',
   'where-to-stay-cairo': 'cairo',
@@ -960,6 +977,10 @@ export const slugToTopic = {
   'wo-uebernachten-ljubljana': 'ljubljana',
   'where-to-stay-ljubljana': 'ljubljana',
   'donde-alojarse-liubliana': 'ljubljana',
+  // Zagreb
+  'wo-uebernachten-zagreb': 'zagreb',
+  'where-to-stay-zagreb': 'zagreb',
+  'donde-alojarse-zagreb': 'zagreb',
   // Diving & Snorkeling
   'tauchen-schnorcheln-reiseziele': 'diving-snorkeling',
   'diving-snorkeling-destinations': 'diving-snorkeling',
@@ -1466,6 +1487,14 @@ export const slugToTopic = {
   'wo-uebernachten-sofia': 'sofia',
   'where-to-stay-sofia': 'sofia',
   'donde-alojarse-sofia': 'sofia',
+  // ===== BATCH 2026-05-27 — Phnom Penh City Guide =====
+  'wo-uebernachten-phnom-penh': 'phnom-penh',
+  'where-to-stay-phnom-penh': 'phnom-penh',
+  'donde-alojarse-phnom-penh': 'phnom-penh',
+  // ===== BATCH 2026-05-27 — Turin City Guide =====
+  'wo-uebernachten-turin': 'turin',
+  'where-to-stay-turin': 'turin',
+  'donde-alojarse-turin': 'turin',
   // ===== BATCH A 2026-05-25 — Travel Hack Depth Articles =====
   'google-flights-tricks-tipps-2026': 'google-flights',
   'google-flights-tips-tricks-2026': 'google-flights',
@@ -1791,6 +1820,9 @@ export const slugToTopic = {
   'wo-uebernachten-tirana': 'tirana',
   'where-to-stay-tirana': 'tirana',
   'donde-alojarse-tirana': 'tirana',
+  'wo-uebernachten-belgrad': 'belgrad',
+  'where-to-stay-belgrade': 'belgrad',
+  'donde-alojarse-belgrado': 'belgrad',
   'wo-uebernachten-sarajevo': 'sarajevo',
   'where-to-stay-sarajevo': 'sarajevo',
   'donde-alojarse-sarajevo': 'sarajevo',
@@ -1932,6 +1964,10 @@ export const slugToTopic = {
   'beste-reisezeit-mexiko': 'mexico-seasons',
   'best-time-to-visit-mexico': 'mexico-seasons',
   'mejor-epoca-para-visitar-mexico': 'mexico-seasons',
+  // City Guides Batch 12 — Antwerpen 2026-05-27
+  'wo-uebernachten-antwerpen': 'antwerp',
+  'where-to-stay-antwerp': 'antwerp',
+  'donde-alojarse-amberes': 'antwerp',
 };
 
 // Topic key -> Unsplash search query (used when downloading)
@@ -1949,6 +1985,7 @@ export const topicToQuery = {
   'bali': 'bali rice terraces ubud',
   'bangkok': 'bangkok temple skyline',
   'barcelona': 'barcelona sagrada familia',
+  'bath': 'bath england roman baths georgian',
   'berlin': 'berlin brandenburg gate',
   'bogota': 'bogota colombia',
   'buenos-aires': 'buenos aires colorful houses',
@@ -1957,6 +1994,7 @@ export const topicToQuery = {
   'cartagena': 'cartagena colombia colorful',
   'cusco': 'cusco peru plaza',
   'edinburgh': 'edinburgh castle scotland',
+  'manchester': 'manchester england city canal',
   'hanoi': 'hanoi old quarter vietnam',
   'hong-kong': 'hong kong skyline',
   'las-vegas': 'las vegas strip neon',
@@ -2039,6 +2077,7 @@ export const topicToQuery = {
   'singapore-48h': 'singapore marina bay skyline',
   'dublin-48h': 'dublin temple bar ireland pub street',
   'seoul-48h': 'seoul namsan tower korea city',
+  'liverpool': 'liverpool albert dock waterfront',
   'london': 'london big ben thames',
   'los-angeles-city': 'los angeles palm trees',
   'madrid': 'madrid plaza mayor',
@@ -2203,6 +2242,7 @@ export const topicToQuery = {
   'neapel': 'naples italy bay vesuvius waterfront',
   'malaga': 'malaga spain mediterranean harbor old city',
   'melbourne': 'melbourne australia city skyline flinders street',
+  'agra': 'agra india taj mahal marble monument sunrise',
   'jaipur': 'jaipur india pink city palace rajasthan',
   'washington-dc': 'washington dc capitol monument national mall',
   'reisekreditkarte': 'travel credit card passport airplane reward',
@@ -2255,6 +2295,7 @@ export const topicToQuery = {
   'campervan-europe': 'campervan road europe nature motorhome',
   'lanzarote': 'lanzarote canary islands volcanic landscape ocean',
   'ljubljana': 'ljubljana slovenia castle river old town',
+  'zagreb': 'zagreb croatia city center',
   'diving-snorkeling': 'diving coral reef tropical fish underwater',
   'vilnius': 'vilnius lithuania old town baroque church',
   'montreal': 'canada city old port river architecture',
@@ -2421,6 +2462,8 @@ export const topicToQuery = {
   'fuerteventura': 'canary islands beach',
   'cordoba-spain': 'cordoba spain mezquita mosque cathedral old town',
   'sofia': 'sofia bulgaria alexander nevsky cathedral orthodox',
+  'turin': 'turin italy piazza castello mole antonelliana baroque alps',
+  'phnom-penh': 'cambodia temple ruins angkor ancient',
   // BATCH M 2026-05-25 — Kulinarisch & Saisonal
   'street-food-travel': 'street food market vendor asia food stall',
   'christmas-markets-europe': 'christmas market lights europe winter festive',
@@ -2475,6 +2518,7 @@ export const topicToQuery = {
   'gdansk': 'gdansk poland colorful old town historic port',
   'wroclaw': 'wroclaw poland market square colorful old town',
   'tirana': 'tirana albania colorful building city center',
+  'belgrad': 'belgrade city skyline',
   'sarajevo': 'sarajevo bosnia old town market ottoman',
   'budva': 'budva montenegro beach adriatic old town',
   'rovinj': 'rovinj croatia harbor colorful church sea',
@@ -2528,4 +2572,8 @@ export const topicToQuery = {
   'schengen-rule': 'passport eu europe border stamp visa control',
   'unique-accommodation': 'treehouse cabin unusual accommodation forest nature',
   'photography-destinations': 'photographer camera landscape golden hour travel',
+  // City Guides Batch 12 — Antwerpen 2026-05-27
+  'antwerp': 'belgium antwerp city architecture street',
+  // Amman 2026-05-27
+  'amman': 'jordan middle east ancient city desert',
 };
