@@ -25,3 +25,28 @@ export function parseSrt(text) {
   }
   return cues;
 }
+
+export function groupCues(cues, { maxWords = 6, maxMs = 2800 } = {}) {
+  const out = [];
+  let cur = null;
+  let words = 0;
+  for (const c of cues) {
+    if (!cur) {
+      cur = { startMs: c.startMs, endMs: c.endMs, text: c.text };
+      words = 1;
+    } else {
+      cur.text += ' ' + c.text;
+      cur.endMs = c.endMs;
+      words++;
+    }
+    const endsSentence = /[.!?…]$/.test(c.text);
+    const tooLong = words >= maxWords || (cur.endMs - cur.startMs) >= maxMs;
+    if (endsSentence || tooLong) {
+      out.push(cur);
+      cur = null;
+      words = 0;
+    }
+  }
+  if (cur) out.push(cur);
+  return out;
+}
