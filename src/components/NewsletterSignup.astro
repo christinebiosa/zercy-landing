@@ -6,21 +6,25 @@ const { lang = 'de' } = Astro.props;
 
 const copy = {
   de: {
+    teaser: 'Eine Stadt, die du noch nicht kennst...',
     headline: 'Jede Woche eine Stadt, die du noch nicht auf dem Radar hast.',
     sub: '3 Hotels, 1 Flug-Tipp — direkt ins Postfach. Kein Spam.',
     placeholder: 'Deine E-Mail-Adresse',
-    btn: 'Kostenlos abonnieren',
+    btn: 'Abonnieren',
+    back: 'Doch lieber nicht',
     gdpr: 'Ich möchte den wöchentlichen Zercy-Newsletter erhalten.',
     privacy: 'Datenschutz',
     privacyHref: '/privacy',
     success: 'Willkommen! Schau gleich in dein Postfach.',
-    error: 'Etwas ist schiefgelaufen. Bitte versuche es erneut.',
+    error: 'Etwas ist schiefgelaufen. Bitte erneut versuchen.',
   },
   en: {
+    teaser: "A city you haven't thought of yet...",
     headline: "Every week: one city you haven't thought of yet.",
     sub: '3 hotels, 1 flight tip — straight to your inbox. No spam.',
     placeholder: 'Your email address',
-    btn: 'Subscribe free',
+    btn: 'Subscribe',
+    back: 'Maybe not',
     gdpr: "I'd like to receive the weekly Zercy newsletter.",
     privacy: 'Privacy Policy',
     privacyHref: '/privacy',
@@ -28,10 +32,12 @@ const copy = {
     error: 'Something went wrong. Please try again.',
   },
   es: {
+    teaser: 'Una ciudad que todavía no tienes en el radar...',
     headline: 'Cada semana: una ciudad que todavía no tienes en el radar.',
     sub: '3 hoteles, 1 consejo de vuelo — directo a tu correo. Sin spam.',
     placeholder: 'Tu correo electrónico',
-    btn: 'Suscribirme gratis',
+    btn: 'Suscribirme',
+    back: 'Mejor no',
     gdpr: 'Quiero recibir el boletín semanal de Zercy.',
     privacy: 'Política de privacidad',
     privacyHref: '/privacy',
@@ -41,74 +47,134 @@ const copy = {
 };
 
 const t = copy[lang];
-const formId = `nl-form-${Math.random().toString(36).slice(2, 7)}`;
+const uid = `nl-${Math.random().toString(36).slice(2, 7)}`;
 ---
 
-<div class="nl-box" id={formId}>
-  <div class="nl-inner">
-    <div class="nl-text">
+<div class="nl-wrap" id={uid}>
+  <!-- Teaser pill — always visible -->
+  <button class="nl-teaser" aria-expanded="false" aria-controls={`${uid}-panel`}>
+    <span class="nl-teaser-icon">✉</span>
+    <span class="nl-teaser-text">{t.teaser}</span>
+    <span class="nl-teaser-arrow">›</span>
+  </button>
+
+  <!-- Expandable form panel -->
+  <div class="nl-panel" id={`${uid}-panel`} hidden>
+    <div class="nl-panel-inner">
       <p class="nl-headline">{t.headline}</p>
       <p class="nl-sub">{t.sub}</p>
+      <form class="nl-form" data-lang={lang}>
+        <div class="nl-row">
+          <input
+            type="email"
+            name="email"
+            placeholder={t.placeholder}
+            required
+            autocomplete="email"
+            class="nl-input"
+          />
+          <button type="submit" class="nl-btn">{t.btn}</button>
+        </div>
+        <label class="nl-gdpr">
+          <input type="checkbox" name="consent" required />
+          <span>
+            {t.gdpr}
+            <a href={t.privacyHref} target="_blank" rel="noopener">{t.privacy}</a>
+          </span>
+        </label>
+      </form>
+      <p class="nl-success" hidden></p>
+      <p class="nl-error" hidden></p>
+      <button class="nl-back" type="button">{t.back}</button>
     </div>
-    <form class="nl-form" data-lang={lang}>
-      <div class="nl-row">
-        <input
-          type="email"
-          name="email"
-          placeholder={t.placeholder}
-          required
-          autocomplete="email"
-          class="nl-input"
-        />
-        <button type="submit" class="nl-btn">{t.btn}</button>
-      </div>
-      <label class="nl-gdpr">
-        <input type="checkbox" name="consent" required />
-        <span>
-          {t.gdpr}
-          <a href={t.privacyHref} target="_blank" rel="noopener">{t.privacy}</a>
-        </span>
-      </label>
-    </form>
-    <p class="nl-success" hidden></p>
-    <p class="nl-error" hidden></p>
   </div>
 </div>
 
 <style>
-  .nl-box {
+  .nl-wrap {
+    margin: 1.5rem 0;
+  }
+
+  /* Teaser pill */
+  .nl-teaser {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem 0.5rem 0.85rem;
+    background: #f0f9ff;
+    border: 1.5px solid #bae6fd;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 0.88rem;
+    color: #0369a1;
+    font-family: inherit;
+    transition: background 0.18s, border-color 0.18s;
+    line-height: 1.3;
+  }
+  .nl-teaser:hover {
+    background: #e0f2fe;
+    border-color: #7dd3fc;
+  }
+  .nl-teaser[aria-expanded="true"] {
+    display: none;
+  }
+  .nl-teaser-icon {
+    font-size: 0.9rem;
+  }
+  .nl-teaser-text {
+    font-weight: 600;
+  }
+  .nl-teaser-arrow {
+    font-size: 1rem;
+    font-weight: 700;
+    opacity: 0.6;
+    transition: transform 0.2s;
+  }
+  .nl-teaser:hover .nl-teaser-arrow {
+    transform: translateX(2px);
+  }
+
+  /* Expanded panel */
+  .nl-panel {
     background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
-    border: 1px solid #bae6fd;
-    border-radius: 16px;
-    padding: 1.8rem 2rem;
-    margin: 2.5rem 0;
+    border: 1.5px solid #bae6fd;
+    border-radius: 14px;
+    overflow: hidden;
+    animation: nl-slide-in 0.22s ease;
+  }
+  @keyframes nl-slide-in {
+    from { opacity: 0; transform: translateY(-6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .nl-panel-inner {
+    padding: 1.4rem 1.6rem 1.1rem;
   }
   .nl-headline {
     font-family: 'Plus Jakarta Sans', sans-serif;
     font-weight: 700;
-    font-size: 1.05rem;
+    font-size: 0.97rem;
     color: #0f172a;
-    margin: 0 0 0.4rem;
+    margin: 0 0 0.3rem;
     line-height: 1.4;
   }
   .nl-sub {
-    font-size: 0.88rem;
+    font-size: 0.83rem;
     color: #475569;
-    margin: 0 0 1.1rem;
+    margin: 0 0 1rem;
   }
   .nl-row {
     display: flex;
-    gap: 0.6rem;
+    gap: 0.5rem;
     flex-wrap: wrap;
-    margin-bottom: 0.7rem;
+    margin-bottom: 0.6rem;
   }
   .nl-input {
     flex: 1;
-    min-width: 200px;
-    padding: 0.65rem 1rem;
+    min-width: 180px;
+    padding: 0.58rem 0.9rem;
     border: 1.5px solid #bae6fd;
     border-radius: 50px;
-    font-size: 0.92rem;
+    font-size: 0.88rem;
     background: #fff;
     color: #0f172a;
     outline: none;
@@ -116,13 +182,13 @@ const formId = `nl-form-${Math.random().toString(36).slice(2, 7)}`;
   }
   .nl-input:focus { border-color: #0ea5e9; }
   .nl-btn {
-    padding: 0.65rem 1.4rem;
+    padding: 0.58rem 1.2rem;
     background: #0ea5e9;
     color: #fff;
     border: none;
     border-radius: 50px;
     font-weight: 700;
-    font-size: 0.9rem;
+    font-size: 0.88rem;
     cursor: pointer;
     transition: opacity 0.2s;
     white-space: nowrap;
@@ -131,42 +197,70 @@ const formId = `nl-form-${Math.random().toString(36).slice(2, 7)}`;
   .nl-btn:disabled { opacity: 0.6; cursor: default; }
   .nl-gdpr {
     display: flex;
-    gap: 0.5rem;
+    gap: 0.45rem;
     align-items: flex-start;
-    font-size: 0.8rem;
+    font-size: 0.76rem;
     color: #64748b;
     cursor: pointer;
+    margin-bottom: 0.8rem;
   }
   .nl-gdpr input { margin-top: 2px; accent-color: #0ea5e9; flex-shrink: 0; }
   .nl-gdpr a { color: #0ea5e9; text-decoration: underline; }
   .nl-success {
-    font-size: 0.92rem;
+    font-size: 0.88rem;
     font-weight: 600;
     color: #0f172a;
-    margin: 0.5rem 0 0;
-    padding: 0.6rem 1rem;
+    margin: 0.4rem 0 0.6rem;
+    padding: 0.55rem 0.9rem;
     background: #dcfce7;
     border-radius: 8px;
   }
   .nl-error {
-    font-size: 0.88rem;
+    font-size: 0.84rem;
     color: #dc2626;
-    margin: 0.5rem 0 0;
+    margin: 0.4rem 0 0;
   }
+  .nl-back {
+    background: none;
+    border: none;
+    font-size: 0.78rem;
+    color: #94a3b8;
+    cursor: pointer;
+    padding: 0;
+    text-decoration: underline;
+    font-family: inherit;
+  }
+  .nl-back:hover { color: #64748b; }
+
   @media (max-width: 500px) {
-    .nl-box { padding: 1.4rem 1.2rem; }
+    .nl-panel-inner { padding: 1.2rem 1rem 0.9rem; }
     .nl-btn { width: 100%; }
   }
 </style>
 
 <script>
-  document.querySelectorAll('.nl-form').forEach(form => {
+  document.querySelectorAll('.nl-wrap').forEach(wrap => {
+    const teaser = wrap.querySelector('.nl-teaser');
+    const panel  = wrap.querySelector('.nl-panel');
+    const back   = wrap.querySelector('.nl-back');
+    const form   = wrap.querySelector('.nl-form');
+    const successEl = wrap.querySelector('.nl-success');
+    const errorEl   = wrap.querySelector('.nl-error');
+
+    teaser.addEventListener('click', () => {
+      panel.hidden = false;
+      teaser.setAttribute('aria-expanded', 'true');
+      panel.querySelector('input[type="email"]')?.focus();
+    });
+
+    back.addEventListener('click', () => {
+      panel.hidden = true;
+      teaser.setAttribute('aria-expanded', 'false');
+    });
+
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
-      const box = form.closest('.nl-box');
-      const btn = form.querySelector('.nl-btn');
-      const successEl = box.querySelector('.nl-success');
-      const errorEl = box.querySelector('.nl-error');
+      const btn  = form.querySelector('.nl-btn');
       const lang = form.dataset.lang || 'de';
 
       btn.disabled = true;
@@ -183,6 +277,7 @@ const formId = `nl-form-${Math.random().toString(36).slice(2, 7)}`;
 
         if (res.ok) {
           form.hidden = true;
+          back.hidden = true;
           const msgs = {
             de: 'Willkommen! Schau gleich in dein Postfach.',
             en: 'Welcome! Check your inbox.',
