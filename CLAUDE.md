@@ -352,6 +352,16 @@ bookingDest: "Stadt/Land"           # OPTIONAL: aktiviert Booking-CTA-Banner (si
 ---
 ```
 
+### 📌 Pinterest — Standard-Integration (automatisch in ALLEN Artikeln)
+
+Alle Blog-Artikel haben automatisch folgende Pinterest-Features eingebaut (im [slug].astro Template, kein Handlungsbedarf bei neuen Artikeln):
+- **Hover-Save-Button** auf dem Hero-Image (rot, erscheint beim Hovern oben links)
+- **"Diesen Artikel auf Pinterest speichern"**-Link am Artikelende (vor "Zurück zum Blog")
+- **Rich Pins Meta-Tags**: `og:site_name`, `article:published_time`, `article:author`
+
+Pinterest-Konto: https://www.pinterest.com/zercy_travel/
+Gilt für DE + EN + ES gleichzeitig. Bei neuen Artikeln nichts extra machen — ist im Template.
+
 ### 🎯 CTR-Optimierung — PFLICHT bei JEDEM Artikel (auch sofort bei neuen!)
 
 Jeder Artikel muss **vor dem Deploy** CTR-optimierte Meta Tags haben. Nicht erst nach dem Indexieren. Das ist genauso Pflicht wie heroImage.
