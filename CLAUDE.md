@@ -585,6 +585,7 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - mejor-epoca-para-visitar-vietnam, mejor-epoca-para-visitar-islandia, mejor-epoca-para-visitar-costa-rica
 - mejor-epoca-para-visitar-islas-canarias, mejor-epoca-para-visitar-mexico
 - mejor-epoca-para-visitar-tailandia, mejor-epoca-para-visitar-japon, mejor-epoca-para-visitar-marruecos
+- business-class-vale-la-pena, los-angeles-guia-viaje, donde-alojarse-london
 
 **ES-Stil-Regeln** (für künftige Artikel):
 - LATAM-Spanisch (nicht Castellano): "tú" für Anrede, "ustedes" statt "vosotros"
