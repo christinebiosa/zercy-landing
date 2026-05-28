@@ -1,6 +1,10 @@
-// remotion/src/DocReel.tsx
 import React from 'react';
-import { AbsoluteFill } from 'remotion';
+import { AbsoluteFill, Audio, Sequence, staticFile } from 'remotion';
+import { KenBurnsImage } from './components/KenBurnsImage';
+import { Chyron } from './components/Chyron';
+import { Subtitles } from './components/Subtitles';
+import { Grade } from './components/Grade';
+import { EndCard } from './components/EndCard';
 
 export type DocReelProps = {
   width: number;
@@ -15,10 +19,31 @@ export type DocReelProps = {
   cityName?: string;
 };
 
-export const DocReel: React.FC<DocReelProps> = ({ cityName = 'Zercy' }) => {
+export const DocReel: React.FC<DocReelProps> = ({ durationInFrames, audioSrc, musicSrc, beats, subtitles }) => {
+  const lastBeat = beats[beats.length - 1];
   return (
-    <AbsoluteFill style={{ backgroundColor: '#0F172A', justifyContent: 'center', alignItems: 'center' }}>
-      <div style={{ color: 'white', fontSize: 90, fontFamily: 'Helvetica, sans-serif' }}>{cityName}</div>
+    <AbsoluteFill style={{ backgroundColor: '#000' }}>
+      {beats.map((b, i) => {
+        const dur = b.endFrame - b.startFrame;
+        return (
+          <Sequence key={i} from={b.startFrame} durationInFrames={dur}>
+            <KenBurnsImage src={b.imageSrc} durationInFrames={dur} />
+            {b.label ? <Chyron label={b.label} /> : null}
+          </Sequence>
+        );
+      })}
+
+      <Grade />
+      <Subtitles cues={subtitles} />
+
+      {lastBeat ? (
+        <Sequence from={lastBeat.startFrame} durationInFrames={lastBeat.endFrame - lastBeat.startFrame}>
+          <EndCard durationInFrames={lastBeat.endFrame - lastBeat.startFrame} />
+        </Sequence>
+      ) : null}
+
+      {audioSrc ? <Audio src={staticFile(audioSrc)} /> : null}
+      {musicSrc ? <Audio src={staticFile(musicSrc)} volume={0.16} /> : null}
     </AbsoluteFill>
   );
 };
