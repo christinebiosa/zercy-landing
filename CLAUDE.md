@@ -585,7 +585,7 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - mejor-epoca-para-visitar-vietnam, mejor-epoca-para-visitar-islandia, mejor-epoca-para-visitar-costa-rica
 - mejor-epoca-para-visitar-islas-canarias, mejor-epoca-para-visitar-mexico
 - mejor-epoca-para-visitar-tailandia, mejor-epoca-para-visitar-japon, mejor-epoca-para-visitar-marruecos
-- business-class-vale-la-pena, los-angeles-guia-viaje, donde-alojarse-london
+- business-class-vale-la-pena, los-angeles-guia-viaje, donde-alojarse-london, donde-alojarse-liverpool
 
 **ES-Stil-Regeln** (für künftige Artikel):
 - LATAM-Spanisch (nicht Castellano): "tú" für Anrede, "ustedes" statt "vosotros"
@@ -644,7 +644,7 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - wo-uebernachten-paris, wo-uebernachten-rom
 - wo-uebernachten-mexico-city, wo-uebernachten-cartagena
 - wo-uebernachten-tulum, wo-uebernachten-bali
-- wo-uebernachten-bangkok, wo-uebernachten-london
+- wo-uebernachten-bangkok, wo-uebernachten-london, wo-uebernachten-liverpool
 - wo-uebernachten-berlin, wo-uebernachten-amsterdam
 - wo-uebernachten-lima, wo-uebernachten-rio-de-janeiro
 - wo-uebernachten-miami, wo-uebernachten-marrakesch
@@ -782,7 +782,7 @@ DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
 - where-to-stay-paris, where-to-stay-rome
 - where-to-stay-mexico-city, where-to-stay-cartagena
 - where-to-stay-tulum, where-to-stay-bali
-- where-to-stay-bangkok, where-to-stay-london
+- where-to-stay-bangkok, where-to-stay-london, where-to-stay-liverpool
 - where-to-stay-berlin, where-to-stay-amsterdam
 - where-to-stay-lima, where-to-stay-rio-de-janeiro
 - where-to-stay-miami, where-to-stay-marrakech
@@ -975,9 +975,9 @@ Beste Reisezeit Bali, Beste Reisezeit Costa Rica, Beste Reisezeit Griechenland, 
 
 ### ✅ Bereits vorhandene City-Guides — IMMER HIER PRÜFEN vor neuen Vorschlägen!
 
-**Stand: 2026-05-26 | 204 Städte**
+**Stand: 2026-05-27 | 205 Städte**
 
-**Agadir**, **Alicante**, Amsterdam, **Breslau (Wrocław)**, **Budva**, Antalya, **Antigua (Guatemala)**, Athen, Auckland, **Austin**, **Beijing (Peking)**, Bali, Bangkok, Barcelona, Berlin, Bilbao, **Bled**, Bogotá, Bologna, Bordeaux, Boston, **Bratislava**, Brisbane, Brüssel, **Brügge**, Budapest, Bukarest, Buenos Aires, **Bergen**, **Busan**, **Cairns**, Cancún, Cape Town, **Cebu**, **Chengdu**, Cartagena, Chiang Mai, Chicago, **Christchurch**, Colombo, **Córdoba (Arg)**, **Córdoba (Spanien)**, Cusco, **Da Nang**, **Danzig (Gdańsk)**, **Dar es Salaam**, Delhi, **Dresden**, Dublin, Dubrovnik, Edinburgh, Florenz, Frankfurt, Funchal, **Fuerteventura**, Fukuoka, **Genf**, **Gent**, Goa, **Gold Coast**, Granada, **Gran Canaria**, **Graz**, Guadalajara, **Göteborg**, Hamburg, Hanoi, **Helsinki**, **Hiroshima**, **Hobart**, Ho Chi Minh Stadt, Hoi An, Hongkong, **Ibiza**, Innsbruck, **Interlaken**, Istanbul, Jaipur, **Kanazawa**, **Kappadokien**, Johannesburg, Kairo, Kathmandu, **Kochi**, **Koh Samui**, Kopenhagen, Kotor, **Köln**, Krakau, **Krabi**, **Kreta**, Kuala Lumpur, Kyoto, **Langkawi**, Lanzarote, Las Vegas, Lima, Lissabon, Ljubljana, London, Los Angeles, **Luang Prabang**, **Luzern**, **Luxor**, **Lyon**, Madrid, Mailand, Málaga, Marrakesch, Marseille, Melbourne, Medellín, Mendoza, **Mérida (Mexiko)**, Mexico City, Miami, **Mombasa**, **Montevideo**, Montreal, **Mostar**, München, Mumbai, Mykonos, Nashville, Nairobi, Neapel, **Nha Trang**, **Nikosia**, Nizza, New Orleans, New York, Oaxaca, Osaka, Oslo, Palermo, Palma de Mallorca, Paris, Penang, **Perth**, Philadelphia, Phuket, Playa del Carmen, **Plovdiv**, **Pokhara**, Porto, Prag, Puerto Vallarta, Québec City, Queenstown, Reykjavik, **Rhodos**, Riga, Rio de Janeiro, Rom, **Rotorua**, **Rovaniemi**, **Rovinj**, **Salvador (Bahia)**, Salzburg, **San Diego**, **Sapporo**, **Sarajevo**, San Francisco, **San Sebastián**, Santiago, Santorini, São Paulo, Seattle, Seoul, Sevilla, **Shanghai**, Siem Reap, Singapur, **Sofia**, Split, Stockholm, **Straßburg**, Sydney, Taipei, Tallinn, Teneriffa, **Thessaloniki**, **Tirana**, Tokio, Toronto, **Tromsø**, Tulum, Valencia, Valletta, **Valparaíso**, Vancouver, Venedig, Verona, Vilnius, Washington D.C., **Udaipur**, **Varanasi**, **Wellington**, Warschau, Wien, **Xi'an**, Zürich
+**Agadir**, **Alicante**, Amsterdam, **Breslau (Wrocław)**, **Budva**, Antalya, **Antigua (Guatemala)**, Athen, Auckland, **Austin**, **Beijing (Peking)**, Bali, Bangkok, Barcelona, Berlin, Bilbao, **Bled**, Bogotá, Bologna, Bordeaux, Boston, **Bratislava**, Brisbane, Brüssel, **Brügge**, Budapest, Bukarest, Buenos Aires, **Bergen**, **Busan**, **Cairns**, Cancún, Cape Town, **Cebu**, **Chengdu**, Cartagena, Chiang Mai, Chicago, **Christchurch**, Colombo, **Córdoba (Arg)**, **Córdoba (Spanien)**, Cusco, **Da Nang**, **Danzig (Gdańsk)**, **Dar es Salaam**, Delhi, **Dresden**, Dublin, Dubrovnik, Edinburgh, Florenz, Frankfurt, Funchal, **Fuerteventura**, Fukuoka, **Genf**, **Gent**, Goa, **Gold Coast**, Granada, **Gran Canaria**, **Graz**, Guadalajara, **Göteborg**, Hamburg, Hanoi, **Helsinki**, **Hiroshima**, **Hobart**, Ho Chi Minh Stadt, Hoi An, Hongkong, **Ibiza**, Innsbruck, **Interlaken**, Istanbul, Jaipur, **Kanazawa**, **Kappadokien**, Johannesburg, Kairo, Kathmandu, **Kochi**, **Koh Samui**, Kopenhagen, Kotor, **Köln**, Krakau, **Krabi**, **Kreta**, Kuala Lumpur, Kyoto, **Langkawi**, Lanzarote, Las Vegas, Lima, **Liverpool**, Lissabon, Ljubljana, London, Los Angeles, **Luang Prabang**, **Luzern**, **Luxor**, **Lyon**, Madrid, Mailand, Málaga, Marrakesch, Marseille, Melbourne, Medellín, Mendoza, **Mérida (Mexiko)**, Mexico City, Miami, **Mombasa**, **Montevideo**, Montreal, **Mostar**, München, Mumbai, Mykonos, Nashville, Nairobi, Neapel, **Nha Trang**, **Nikosia**, Nizza, New Orleans, New York, Oaxaca, Osaka, Oslo, Palermo, Palma de Mallorca, Paris, Penang, **Perth**, Philadelphia, Phuket, Playa del Carmen, **Plovdiv**, **Pokhara**, Porto, Prag, Puerto Vallarta, Québec City, Queenstown, Reykjavik, **Rhodos**, Riga, Rio de Janeiro, Rom, **Rotorua**, **Rovaniemi**, **Rovinj**, **Salvador (Bahia)**, Salzburg, **San Diego**, **Sapporo**, **Sarajevo**, San Francisco, **San Sebastián**, Santiago, Santorini, São Paulo, Seattle, Seoul, Sevilla, **Shanghai**, Siem Reap, Singapur, **Sofia**, Split, Stockholm, **Straßburg**, Sydney, Taipei, Tallinn, Teneriffa, **Thessaloniki**, **Tirana**, Tokio, Toronto, **Tromsø**, Tulum, Valencia, Valletta, **Valparaíso**, Vancouver, Venedig, Verona, Vilnius, Washington D.C., **Udaipur**, **Varanasi**, **Wellington**, Warschau, Wien, **Xi'an**, Zürich
 
 **Regel:** Vor JEDEM neuen City-Guide-Vorschlag diese Liste lesen. Nach jeder neuen Batch: Liste aktualisieren.
 
