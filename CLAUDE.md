@@ -154,7 +154,7 @@ Das AI-Tool (Repo: cerci-demo) läuft live auf app.zercy.app.
 cd /Users/christinebork/Desktop/zercy-landing
 node scripts/generate-hreflang-map.mjs
 npx astro build
-npx vercel --prod --force
+npx vercel --prod --force --archive=tgz
 git add -A && git commit -m "Beschreibung der Änderung" && git push
 ```
 **NIEMALS** nur Vercel deployen ohne Git-Push. GitHub MUSS immer synchron sein mit dem was live ist. Nicht fragen ob gepusht werden soll — einfach machen. Das ist Teil des Deployments.
@@ -1059,7 +1059,7 @@ Der "Stadtführer / City Guide Finder / Guía de ciudades"-Dropdown auf allen 3 
 - [ ] **Topic-Key ist EINDEUTIG** in `photo-mapping.mjs` — kein anderer Artikel teilt diesen Key
 - [ ] `node scripts/generate-hreflang-map.mjs` lief erfolgreich (`(0 without cross-language match)` ideal, max 10 wegen identisch-Slug-Duplikate)
 - [ ] `node scripts/download-photos.mjs --frontmatter-only` lief erfolgreich nach Foto-Download
-- [ ] `npx astro build` erfolgreich + `npx vercel --prod --force` deployed
+- [ ] `npx astro build` erfolgreich + `npx vercel --prod --force --archive=tgz` deployed
 - [ ] **Neuen Slug oben in die Artikel-Liste eingetragen** (DE + EN)
 - [ ] Google Indexierung ist automatisch (Sitemap mit `lastmod` wird bei jedem Build aktualisiert)
 
@@ -1068,7 +1068,7 @@ Der "Stadtführer / City Guide Finder / Guía de ciudades"-Dropdown auf allen 3 
 ⚠️ **AUTOMATISCHE PFLICHT: Nach jedem Deploy mit neuen Seiten IMMER Indexing-Script ausführen!**
 
 1. `npx astro build` — baut alle Seiten + generiert Sitemap automatisch.
-2. `npx vercel --prod --force` — deployed alles.
+2. `npx vercel --prod --force --archive=tgz` — deployed alles.
 3. **Google Indexing API — IMMER am Ende der Session ausführen (ohne Aufforderung):**
    ```bash
    node scripts/submit-indexing.mjs https://www.zercy.app/blog/[slug] https://www.zercy.app/en/blog/[slug] ...
