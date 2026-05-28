@@ -1182,12 +1182,17 @@
   "business-class": {
     "de": "https://www.zercy.app/blog/business-class",
     "en": "https://www.zercy.app/en/blog/business-class-worth-it",
-    "es": null
+    "es": "https://www.zercy.app/es/blog/business-class-vale-la-pena"
   },
   "business-class-worth-it": {
     "de": "https://www.zercy.app/blog/business-class",
     "en": "https://www.zercy.app/en/blog/business-class-worth-it",
-    "es": null
+    "es": "https://www.zercy.app/es/blog/business-class-vale-la-pena"
+  },
+  "business-class-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/business-class",
+    "en": "https://www.zercy.app/en/blog/business-class-worth-it",
+    "es": "https://www.zercy.app/es/blog/business-class-vale-la-pena"
   },
   "campervan-urlaub-europa": {
     "de": "https://www.zercy.app/blog/campervan-urlaub-europa",
@@ -2837,7 +2842,12 @@
   "los-angeles": {
     "de": "https://www.zercy.app/blog/los-angeles",
     "en": "https://www.zercy.app/en/blog/los-angeles",
-    "es": null
+    "es": "https://www.zercy.app/es/blog/los-angeles-guia-viaje"
+  },
+  "los-angeles-guia-viaje": {
+    "de": "https://www.zercy.app/blog/los-angeles",
+    "en": "https://www.zercy.app/en/blog/los-angeles",
+    "es": "https://www.zercy.app/es/blog/los-angeles-guia-viaje"
   },
   "lounge-zugang-ohne-business-ticket": {
     "de": "https://www.zercy.app/blog/lounge-zugang-ohne-business-ticket",
@@ -6392,12 +6402,17 @@
   "wo-uebernachten-london": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-london",
     "en": "https://www.zercy.app/en/blog/where-to-stay-london",
-    "es": null
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-london"
   },
   "where-to-stay-london": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-london",
     "en": "https://www.zercy.app/en/blog/where-to-stay-london",
-    "es": null
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-london"
+  },
+  "donde-alojarse-london": {
+    "de": "https://www.zercy.app/blog/wo-uebernachten-london",
+    "en": "https://www.zercy.app/en/blog/where-to-stay-london",
+    "es": "https://www.zercy.app/es/blog/donde-alojarse-london"
   },
   "wo-uebernachten-los-angeles": {
     "de": "https://www.zercy.app/blog/wo-uebernachten-los-angeles",
