@@ -52,6 +52,20 @@ export default async function handler(req) {
     }
   }
 
+  // Benachrichtigungs-Mail an Christine (nur bei neuer Anmeldung, nicht bei 422 = bereits registriert)
+  if (contactRes.ok) {
+    await fetch('https://api.resend.com/emails', {
+      method: 'POST',
+      headers: { 'Authorization': `Bearer ${RESEND_API_KEY}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        from: 'Zercy <info@zercy.app>',
+        to: ['christine.bork@biosacr.com'],
+        subject: `Neue Anmeldung: ${email}`,
+        text: `Neue Newsletter-Anmeldung auf zercy.app\n\nE-Mail: ${email}\nSprache: ${lang}\n`,
+      }),
+    });
+  }
+
   // Willkommens-E-Mail senden
   const isEN = lang === 'en';
   await fetch('https://api.resend.com/emails', {
