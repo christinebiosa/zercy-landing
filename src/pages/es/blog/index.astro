@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BlogSearch from '../../../components/BlogSearch.astro';
+import NewsletterSignup from '../../../components/NewsletterSignup.astro';
 
 // No PIN for ES launch — sort all by date desc.
 const posts = (await getCollection('bloges')).sort((a, b) => {
@@ -231,6 +232,8 @@ const destinationPosts = [...posts]
       return <button class="chip" data-filter={cat}><span class="chip-icon"><Fragment set:html={chipIcon} /></span>{cat}</button>;
     })}
   </div>
+
+  <NewsletterSignup lang="es" />
 
   <div class="blog-grid">
     {posts.map((post) => {
