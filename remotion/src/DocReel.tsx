@@ -1,5 +1,5 @@
 import React from 'react';
-import { AbsoluteFill, Audio, Sequence, staticFile } from 'remotion';
+import { AbsoluteFill, Audio, Sequence, interpolate, staticFile } from 'remotion';
 import { KenBurnsImage } from './components/KenBurnsImage';
 import { Chyron } from './components/Chyron';
 import { Subtitles } from './components/Subtitles';
@@ -18,8 +18,17 @@ export type DocReelProps = {
   subtitles: Array<{ startFrame: number; endFrame: number; text: string }>;
 };
 
-export const DocReel: React.FC<DocReelProps> = ({ durationInFrames, audioSrc, musicSrc, beats, subtitles }) => {
+export const DocReel: React.FC<DocReelProps> = ({ fps, durationInFrames, audioSrc, musicSrc, beats, subtitles }) => {
   const lastBeat = beats[beats.length - 1];
+
+  // Musik nur am Anfang und Ende hoerbar, im Mittelteil sehr leise (Stimme im Vordergrund).
+  const introEnd = Math.round(fps * 4);
+  const outroStart = durationInFrames - Math.round(fps * 6);
+  const musicVolume = (f: number) => {
+    const intro = interpolate(f, [0, fps, introEnd], [0, 0.4, 0.05], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+    const outro = interpolate(f, [outroStart, durationInFrames], [0.05, 0.4], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+    return Math.max(intro, outro);
+  };
   return (
     <AbsoluteFill style={{ backgroundColor: '#000' }}>
       {beats.map((b, i) => {
@@ -42,7 +51,7 @@ export const DocReel: React.FC<DocReelProps> = ({ durationInFrames, audioSrc, mu
       ) : null}
 
       {audioSrc ? <Audio src={staticFile(audioSrc)} /> : null}
-      {musicSrc ? <Audio src={staticFile(musicSrc)} volume={0.16} /> : null}
+      {musicSrc ? <Audio src={staticFile(musicSrc)} volume={musicVolume} /> : null}
     </AbsoluteFill>
   );
 };

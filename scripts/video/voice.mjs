@@ -5,7 +5,7 @@ import { writeFileSync, unlinkSync, existsSync } from 'fs';
 // Ruhige, tiefere Erzaehler-Stimmen fuer den Doku-Ton
 export const EDGE_VOICES = {
   de: 'de-DE-ConradNeural',
-  en: 'en-US-GuyNeural',
+  en: 'en-US-AndrewNeural',
   es: 'es-ES-AlvaroNeural',
 };
 
@@ -13,8 +13,8 @@ export function buildNarration(beatSheet, lang) {
   return beatSheet.narration[lang].map(s => s.trim()).join(' ');
 }
 
-// Langsameres Tempo fuer den Essay-Ton
-const RATE = '-15%';
+// Tempo: zuegig, aber ruhig (vorher -15% war zu lahm)
+const RATE = '+0%';
 
 export function synthVoice({ text, lang, audioPath, srtPath }) {
   if (existsSync(audioPath) && existsSync(srtPath)) return;
