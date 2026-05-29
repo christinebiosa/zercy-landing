@@ -51,9 +51,9 @@ for (const [, langs] of Object.entries(topicMap)) {
   if (langCount < 2) continue; // skip if only 1 language version exists
 
   const entry = {
-    de: langs.de ? `${BASE}/blog/${langs.de}` : null,
-    en: langs.en ? `${BASE}/en/blog/${langs.en}` : null,
-    es: langs.es ? `${BASE}/es/blog/${langs.es}` : null,
+    de: langs.de ? `${BASE}/blog/${langs.de}/` : null,
+    en: langs.en ? `${BASE}/en/blog/${langs.en}/` : null,
+    es: langs.es ? `${BASE}/es/blog/${langs.es}/` : null,
   };
 
   if (langs.de) hreflangMap[langs.de] = entry;

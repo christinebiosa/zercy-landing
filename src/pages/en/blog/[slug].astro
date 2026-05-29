@@ -64,7 +64,7 @@ const bg = bgMap[cat] || bgMap['Travel Tips'];
 const icon = icons[cat] || icons['Travel Tips'];
 const dateStr = post.data.pubDate.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 const metaTitle = post.data.metaTitle || (post.data.title + ' | Zercy');
-const canonicalUrl = `https://www.zercy.app/en/blog/${post.id}`;
+const canonicalUrl = `https://www.zercy.app/en/blog/${post.id}/`;
 const hreflang = (hreflangMap as Record<string, {de:string|null,en:string|null,es:string|null}>)[post.id];
 
 // FAQPage Schema — parse H3 questions from FAQ section
