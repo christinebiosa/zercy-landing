@@ -103,10 +103,21 @@ async function generateCity(slug) {
     const propsFile = path.join(TEMP_DIR, `${slug}-${lang}.props.json`);
     writeFileSync(propsFile, JSON.stringify(props));
 
-    const outFile = path.join(OUT_DIR, `${slug}-${lang}.mp4`);
+    const rawFile = path.join(TEMP_DIR, `${slug}-${lang}.raw.mp4`);
     console.log(`  🎞  Render ${lang.toUpperCase()}...`);
-    execFileSync('npx', ['remotion', 'render', 'src/index.ts', 'DocReel', outFile, `--props=${propsFile}`],
+    execFileSync('npx', ['remotion', 'render', 'src/index.ts', 'DocReel', rawFile, `--props=${propsFile}`],
       { cwd: REMOTION_DIR, stdio: 'inherit' });
+
+    // Remotion gibt Full-Range yuvj420p aus, das QuickTime/Apple-Player nicht abspielen.
+    // Auf QuickTime-sicheres Limited-Range yuv420p (bt709) normalisieren.
+    const outFile = path.join(OUT_DIR, `${slug}-${lang}.mp4`);
+    console.log(`  🎨 Normalisiere ${lang.toUpperCase()} (QuickTime-safe)...`);
+    execFileSync('ffmpeg', ['-y', '-i', rawFile,
+      '-vf', 'scale=in_range=full:out_range=tv,format=yuv420p',
+      '-c:v', 'libx264', '-profile:v', 'high', '-pix_fmt', 'yuv420p',
+      '-color_range', 'tv', '-colorspace', 'bt709', '-color_primaries', 'bt709', '-color_trc', 'bt709',
+      '-movflags', '+faststart', '-c:a', 'aac', '-b:a', '192k', outFile],
+      { stdio: 'inherit' });
     console.log(`    ✓ ${outFile}`);
   }
 
