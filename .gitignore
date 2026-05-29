@@ -30,3 +30,7 @@ pnpm-debug.log*
 .idea/
 .vercel
 .env*.local
+
+# Video-Pipeline-Artefakte (nicht committen)
+video-output/
+video-temp/
