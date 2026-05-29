@@ -36,6 +36,25 @@ export function buildCaption(sheet) {
   return `${body}\n\n${sheet.hashtags.map((h) => '#' + h).join(' ')}`;
 }
 
+// Wandelt eine fertige IG-Caption in eine FB-Variante: ersetzt den IG-only-Hinweis
+// "Full guide in our bio" durch den echten klickbaren Artikel-Link im Text.
+// Findet die Floskel nicht -> haengt den Link vor der Hashtag-Zeile an.
+export function toFacebookCaption(igCaption, articleUrl) {
+  const phrase = /full guide in (?:our|the) bio\.?/i;
+  if (phrase.test(igCaption)) {
+    return igCaption.replace(phrase, `Full guide: ${articleUrl}`);
+  }
+  const lines = igCaption.split('\n');
+  const tagIdx = lines.findIndex((l) => l.trim().startsWith('#'));
+  const insert = `Full guide: ${articleUrl}`;
+  if (tagIdx === -1) return `${igCaption.trim()}\n\n${insert}`;
+  lines.splice(tagIdx, 0, insert, '');
+  return lines.join('\n');
+}
+
+// Feste Marken-CTA-Unterzeile: plattform-neutral (stimmt auf IG + FB), nicht LLM-generiert.
+export const CTA_SUB = 'Full guide on zercy.app';
+
 const CAROUSEL_PROMPT = (slug, cityName, enBody) => `You write an English Instagram/Facebook carousel about "Where to stay in ${cityName}", from the blog article below.
 
 Article excerpt:
@@ -50,7 +69,7 @@ Return ONLY JSON in exactly this shape:
   "slides": [
     { "heading": "Neighborhood name", "line": "one vivid mood line", "bestFor": "2-4 keywords", "query": "english photo search term" }
   ],
-  "cta": { "headline": "Save this for your trip", "sub": "Full guide -> link in bio", "query": "english photo search term" },
+  "cta": { "headline": "Save this for your trip", "sub": "Full guide on zercy.app", "query": "english photo search term" },
   "caption": "IG/FB caption BODY only, no hashtags: a scroll-stopping hook line, then 2-3 short value lines, then a soft CTA 'Full guide in our bio'. Short sentences. No em-dashes.",
   "hashtags": ["wheretostay${cityName.toLowerCase().replace(/[^a-z0-9]/g, '')}", "..."]
 }
@@ -70,6 +89,7 @@ export async function generateCarouselSheet({ slug, cityName, enBody, apiKey }) 
   const block = msg.content.find((b) => b.type === 'text');
   if (!block) throw new Error('Claude-Antwort ohne Text-Block');
   const sheet = parseCarouselSheet(block.text);
+  sheet.cta.sub = CTA_SUB; // feste Marken-CTA, egal was das Modell liefert
   sheet.caption = buildCaption(sheet);
   return sheet;
 }

@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { parseCarouselSheet, cleanHashtag, buildCaption } from './carousel-beatsheet.mjs';
+import { parseCarouselSheet, cleanHashtag, buildCaption, toFacebookCaption } from './carousel-beatsheet.mjs';
 
 const VALID = JSON.stringify({
   topic: 'paris',
@@ -55,4 +55,16 @@ test('buildCaption haengt saubere Hashtag-Zeile an', () => {
 
 test('buildCaption ohne hashtags gibt nur Body zurueck', () => {
   assert.equal(buildCaption({ caption: '  Just body.  ', hashtags: [] }), 'Just body.');
+});
+
+test('toFacebookCaption ersetzt "in our bio" durch echten Link', () => {
+  const ig = 'Stay smart. Full guide in our bio.\n\n#paris #travel';
+  const fb = toFacebookCaption(ig, 'https://www.zercy.app/en/blog/where-to-stay-paris');
+  assert.equal(fb, 'Stay smart. Full guide: https://www.zercy.app/en/blog/where-to-stay-paris\n\n#paris #travel');
+});
+
+test('toFacebookCaption haengt Link vor Hashtags an, wenn Floskel fehlt', () => {
+  const ig = 'Stay smart.\n\n#paris #travel';
+  const fb = toFacebookCaption(ig, 'https://x.test/a');
+  assert.equal(fb, 'Stay smart.\n\nFull guide: https://x.test/a\n\n#paris #travel');
 });

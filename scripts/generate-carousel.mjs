@@ -8,7 +8,7 @@ import { execFileSync } from 'child_process';
 import { homedir } from 'os';
 import path from 'path';
 
-import { generateCarouselSheet } from './social/carousel-beatsheet.mjs';
+import { generateCarouselSheet, toFacebookCaption } from './social/carousel-beatsheet.mjs';
 import { buildSlideProps } from './social/carousel-props.mjs';
 import { fetchStill } from './video/stills.mjs';
 
@@ -63,7 +63,9 @@ async function generate(slug) {
   }
 
   writeFileSync(path.join(outDir, 'caption.txt'), sheet.caption + '\n');
-  console.log(`\n✅ Fertig: social-output/${slug}/ (${slides.length} Slides + caption.txt)`);
+  const articleUrl = `https://www.zercy.app/en/blog/where-to-stay-${slug}`;
+  writeFileSync(path.join(outDir, 'caption-facebook.txt'), toFacebookCaption(sheet.caption, articleUrl) + '\n');
+  console.log(`\n✅ Fertig: social-output/${slug}/ (${slides.length} Slides + caption.txt + caption-facebook.txt)`);
 }
 
 const slug = process.argv[2];
