@@ -127,7 +127,7 @@ const destinationPosts = [...posts]
     .card { background: #fff; border: 1px solid #E2E8F0; border-radius: 16px; overflow: hidden; display: flex; flex-direction: column; transition: box-shadow 0.2s, transform 0.2s; text-decoration: none; color: inherit; }
     .card:hover { box-shadow: 0 8px 32px rgba(15,23,42,0.1); transform: translateY(-3px); }
     .card-image { height: 110px; display: flex; align-items: center; justify-content: center; }
-    .card-image-photo { height: 180px; background-size: cover; background-position: center; background-repeat: no-repeat; }
+    .card-image-photo { height: 180px; width: 100%; object-fit: cover; display: block; }
     .cat-icon :global(svg) { width: 38px; height: 38px; display: block; }
     .card-body { padding: 1.4rem 1.5rem 1.5rem; flex: 1; display: flex; flex-direction: column; }
     .card-category { display: inline-block; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 0.25rem 0.7rem; border-radius: 50px; margin-bottom: 0.8rem; color: #fff; }
@@ -285,7 +285,7 @@ const destinationPosts = [...posts]
       return (
         <a href={`/blog/${post.id}`} class="card" data-category={post.data.category}>
           {post.data.heroImage ? (
-            <div class="card-image-photo" style={`background-image: url('${post.data.heroImage}');`}></div>
+            <img class="card-image-photo" src={post.data.heroImage} alt={post.data.title} loading="lazy" decoding="async" width="510" height="180" />
           ) : (
             <div class="card-image" style={`background: ${bg};`}>
               <span class="cat-icon" style={`color: ${color};`}><Fragment set:html={icon} /></span>
