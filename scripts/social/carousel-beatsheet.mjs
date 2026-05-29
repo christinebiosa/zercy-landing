@@ -17,7 +17,23 @@ export function parseCarouselSheet(text) {
   }
   if (!o.cta || !o.cta.headline || !o.cta.sub || !o.cta.query) throw new Error('cta unvollstaendig (headline/sub/query)');
   if (!o.caption || !o.caption.trim()) throw new Error('caption fehlt');
+  o.hashtags = Array.isArray(o.hashtags)
+    ? [...new Set(o.hashtags.map(cleanHashtag).filter(Boolean))]
+    : [];
   return o;
+}
+
+// Macht aus beliebigem Roh-Tag einen sauberen Single-Token-Hashtag:
+// kein fuehrendes #, keine Leerzeichen/Sonderzeichen, klein. "#travel paris!" -> "travelparis"
+export function cleanHashtag(raw) {
+  return String(raw).replace(/[^a-z0-9]/gi, '').toLowerCase();
+}
+
+// Baut die finale Caption: Body + Leerzeile + saubere Hashtag-Zeile.
+export function buildCaption(sheet) {
+  const body = sheet.caption.trim();
+  if (!sheet.hashtags || !sheet.hashtags.length) return body;
+  return `${body}\n\n${sheet.hashtags.map((h) => '#' + h).join(' ')}`;
 }
 
 const CAROUSEL_PROMPT = (slug, cityName, enBody) => `You write an English Instagram/Facebook carousel about "Where to stay in ${cityName}", from the blog article below.
@@ -35,9 +51,14 @@ Return ONLY JSON in exactly this shape:
     { "heading": "Neighborhood name", "line": "one vivid mood line", "bestFor": "2-4 keywords", "query": "english photo search term" }
   ],
   "cta": { "headline": "Save this for your trip", "sub": "Full guide -> link in bio", "query": "english photo search term" },
-  "caption": "Full IG/FB caption in English: hook line, 2-3 value lines, soft CTA 'Full guide in our bio', a few niche travel hashtags. Short sentences, no em-dashes."
+  "caption": "IG/FB caption BODY only, no hashtags: a scroll-stopping hook line, then 2-3 short value lines, then a soft CTA 'Full guide in our bio'. Short sentences. No em-dashes.",
+  "hashtags": ["wheretostay${cityName.toLowerCase().replace(/[^a-z0-9]/g, '')}", "..."]
 }
-Rules: "slides" has 4 to 6 entries (one neighborhood each, no hotel names, no prices). Every "query" is a concrete English photo search term for a vertical image.`;
+Rules:
+- "slides" has 4 to 6 entries (one neighborhood each, no hotel names, no prices).
+- Every "query" is a concrete English photo search term for a vertical image.
+- "caption" contains NO hashtags and NO '#' characters.
+- "hashtags": 6 to 8 entries. Each is ONE lowercase token, no '#', no spaces, no punctuation (e.g. "parisneighborhoods", "firsttimeparis"). Mix destination-specific and travel-niche tags.`;
 
 export async function generateCarouselSheet({ slug, cityName, enBody, apiKey }) {
   const anthropic = new Anthropic({ apiKey });
@@ -46,5 +67,9 @@ export async function generateCarouselSheet({ slug, cityName, enBody, apiKey }) 
     max_tokens: 2000,
     messages: [{ role: 'user', content: CAROUSEL_PROMPT(slug, cityName, enBody) }],
   });
-  return parseCarouselSheet(msg.content[0].text);
+  const block = msg.content.find((b) => b.type === 'text');
+  if (!block) throw new Error('Claude-Antwort ohne Text-Block');
+  const sheet = parseCarouselSheet(block.text);
+  sheet.caption = buildCaption(sheet);
+  return sheet;
 }
