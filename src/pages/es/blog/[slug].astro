@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import BookingCTA from '../../../components/BookingCTA.astro';
 import hreflangMap from '../../../data/hreflang-map.json';
+import { categoryConfig, CATEGORY_DEFAULT } from '../../../data/blogCategoryConfig';
 import NewsletterSignup from '../../../components/NewsletterSignup.astro';
 
 export async function getStaticPaths() {
@@ -15,53 +16,11 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await render(post);
 
-const categoryColors = {
-  'Consejos de viaje': '#0EA5E9',
-  'IA y viajes': '#F97316',
-  'Lugares lejanos': '#10B981',
-  'En camino': '#8B5CF6',
-  'Viaje inteligente': '#0EA5E9',
-  'Solo equipaje de mano': '#F59E0B',
-  'Dónde alojarse': '#EC4899',
-  'Viajes de negocios': '#0F172A',
-  'Viaje sostenible': '#22C55E',
-  'Joyas ocultas': '#EF4444',
-  'Destinos': '#6366F1',
-} as const;
-
-const bgMap = {
-  'Consejos de viaje': 'linear-gradient(135deg, #E0F2FE 0%, #BAE6FD 100%)',
-  'IA y viajes': 'linear-gradient(135deg, #FFF7ED 0%, #FFEDD5 100%)',
-  'Lugares lejanos': 'linear-gradient(135deg, #ECFDF5 0%, #D1FAE5 100%)',
-  'En camino': 'linear-gradient(135deg, #F5F3FF 0%, #EDE9FE 100%)',
-  'Viaje inteligente': 'linear-gradient(135deg, #E0F2FE 0%, #BAE6FD 100%)',
-  'Solo equipaje de mano': 'linear-gradient(135deg, #FFFBEB 0%, #FEF3C7 100%)',
-  'Dónde alojarse': 'linear-gradient(135deg, #FDF2F8 0%, #FCE7F3 100%)',
-  'Viajes de negocios': 'linear-gradient(135deg, #F1F5F9 0%, #E2E8F0 100%)',
-  'Viaje sostenible': 'linear-gradient(135deg, #F0FDF4 0%, #DCFCE7 100%)',
-  'Joyas ocultas': 'linear-gradient(135deg, #FEF2F2 0%, #FEE2E2 100%)',
-  'Destinos': 'linear-gradient(135deg, #EEF2FF 0%, #E0E7FF 100%)',
-} as const;
-
-const icons: Record<string, string> = {
-  'Consejos de viaje': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m22 2-7 20-4-9-9-4 20-7z"/><path d="M22 2 11 13"/></svg>`,
-  'IA y viajes': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/><path d="M20 3v4"/><path d="M22 5h-4"/><path d="M4 17v2"/><path d="M5 18H3"/></svg>`,
-  'Lugares lejanos': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>`,
-  'En camino': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.4 2.9A3.7 3.7 0 0 0 2 12v4c0 .6.4 1 1 1h2"/><circle cx="7" cy="17" r="2"/><path d="M9 17h6"/><circle cx="17" cy="17" r="2"/></svg>`,
-  'Viaje inteligente': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><path d="M9 18h6"/><path d="M10 22h4"/></svg>`,
-  'Solo equipaje de mano': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 20a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2Z"/><path d="M8 18V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v14"/><line x1="10" x2="10" y1="10" y2="14"/><line x1="14" x2="14" y1="10" y2="14"/></svg>`,
-  'Dónde alojarse': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"/><path d="M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"/><path d="M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"/><path d="M10 6h4"/><path d="M10 10h4"/><path d="M10 14h4"/><path d="M10 18h4"/></svg>`,
-  'Viajes de negocios': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="14" x="2" y="7" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>`,
-  'Viaje sostenible': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10z"/><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/></svg>`,
-  'Joyas ocultas': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12l4 6-10 13L2 9Z"/><path d="M11 3 8 9l4 13 4-13-3-6"/><line x1="2" x2="22" y1="9" y2="9"/></svg>`,
-  'Destinos': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>`,
-};
-
-type Cat = keyof typeof categoryColors;
-const cat = post.data.category as Cat;
-const color = categoryColors[cat] || '#0EA5E9';
-const bg = bgMap[cat] || bgMap['Consejos de viaje'];
-const icon = icons[cat] || icons['Consejos de viaje'];
+const cat = post.data.category;
+const catEntry = categoryConfig[cat] ?? CATEGORY_DEFAULT;
+const color = catEntry.color;
+const bg = catEntry.bg;
+const icon = catEntry.icon;
 const dateStr = post.data.pubDate.toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' });
 const metaTitle = post.data.metaTitle || (post.data.title + ' | Zercy');
 const canonicalUrl = `https://www.zercy.app/es/blog/${post.id}/`;
