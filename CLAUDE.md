@@ -37,12 +37,13 @@ Report lesen und **sofort handeln** bei:
 - CTR < 3% bei Pos ≤ 15 + ≥ 5 Impressionen → Meta Tags fixen
 - Starke Verlierer (≥ 5 Positionen verloren) → Artikel updaten oder neu deployen
 
-### Nach jedem Deploy mit neuen Seiten (PFLICHT, automatisch)
+### Bei neuen/geänderten Seiten: in die Index-Queue schreiben (NICHT manuell submitten)
+Neue URLs (alle Sprachversionen) an den **Anfang von `scripts/indexing-queue.txt`** setzen. Der tägliche LaunchAgent `app.zercy.daily-indexing` (08:30 CST) reicht die ersten 200 automatisch bei Google ein, entfernt erledigte und zeigt eine macOS-Notification.
 ```bash
-node scripts/submit-indexing.mjs [alle neuen URLs]
+{ printf '%s\n' URL1 URL2 URL3; cat scripts/indexing-queue.txt; } > q.tmp && mv q.tmp scripts/indexing-queue.txt
 ```
-- Max. 200 URLs pro Tag
-- Overflow → in `~/.claude/projects/-Users-christinebork/memory/project_gsc_indexing_queue.md` speichern
+- Das 200/Tag-Limit handhabt die Automatik selbst, Überhang bleibt einfach in der Queue.
+- `submit-indexing.mjs` nur noch für manuelle Sofort-Einreichung einzelner URLs.
 
 ### Wöchentlich (montags, beim ersten Session-Start der Woche)
 1. `node scripts/webmaster-report.mjs` ausführen
@@ -979,7 +980,7 @@ Beste Reisezeit Bali, Beste Reisezeit Costa Rica, Beste Reisezeit Griechenland, 
 
 48h Amsterdam, 48h Bangkok, 48h Berlin, 48h Budapest, 48h Dublin, 48h Dubrovnik, 48h Kopenhagen, 48h Kyoto, 48h Lissabon, 48h London, 48h Miami, 48h München, 48h New York, 48h Paris, 48h Prag, 48h Seoul, 48h Singapur, 48h Sydney, 48h Tokio, 48h Wien, 48h Rom, 48h Barcelona, 48h Istanbul, Ägypten Reiseguide, Airbnb Experiences, Airbnb vs. Hotel, Airport Hacks, Albanien Riviera, Algarve Guide 2026, All-Inclusive Urlaub, Apulien/Süditalien, Argentinien Reiseguide, Auslands-SIM Guide, Australien Rundreise, Azoren Reiseguide, Backpacking Einsteiger, Bahn vs. Flieger Europa, Bali vs. Lombok, Bangkok 3 Tage, Balkan Road Trip, Barrierefreies Reisen, Bergwandern Alpen Anfänger, Beste Badeziele weltweit 2026, Beste Frühlingsziele Europa, Beste Herbstziele, Beste Offline Apps, Beste Reise-Kreditkarten 2026, Beste Travel Apps 2026, Bolivien & Salar de Uyuni, Booking Apartments vs. Airbnb, Booking Genius, Booking vs. Direkt, Boutique Hotels, Brasilien Reiseguide, Bulgarien Reiseguide, Business Class, Business Class ohne Meilen, Campervan Europa, Capsule Wardrobe Handgepäck, Chile Reiseguide, City Cards & Museumspässe, CO2 Kompensation, Costa Rica Rundreise, Costa Rica Surfen, Cyber-Sicherheit, Dänemark Reiseguide, Digital Nomad Visa, Dominikanische Republik Guide, Ecuador & Galápagos, Europäische Städte im Winter, Färöer Inseln, Familienurlaub Europa Ziele, Familienurlaub mit Kindern Tipps, Fernwanderwege Welt, Fiji & Pazifik Inselhopping, Finnland Reiseguide, Flughafentransfer Tipps 2026, Flugverspätung Rechte, Flusskreuzfahrten Europa, Food Travel, Frühbucher vs. Last Minute, Geheimtipps Europa, Geld im Ausland, Glamping Europa, Griechenland Inseln Vergleich, Guatemala Reiseguide, Günstig Fliegen, Handgepäck Flüssigkeiten, Handgepäck vs. Aufgegeben, Hidden City Ticketing, Honeymoon Planung, Hostel Guide (Buchen), Hostel oder Hotel 2026, Hotel-Kategorien erklärt, Hotel Upgrade Tipps, Indien Reiseguide, Indonesien Reiseguide, Inselhopping Karibik, Interrail Guide 2026, Irland Rundreise, Island Reiseguide, Japan 3-Wochen-Route, Japan beyond Tokyo, Jetlag, Jordanien Reiseguide, Kambodscha Reiseguide, Kanada Reiseguide, Kanaren-Vergleich, Kap Verde Reiseguide, Kenia Reiseguide, KI & Reiseplanung (4 Artikel), Kolumbien Reiseguide, Kreuzfahrt Einsteiger, Kreuzfahrt Städte, Kroatien Island Hopping, Langstreckenflug mit Kindern, Laos Reiseguide, Lissabon Off the Beaten, Lounge Zugang, Los Angeles, Luxusreisen günstig, Madeira Reiseguide, Madrid 24h, Malediven Guide, Malta & Gozo Guide, Marokko Roadtrip, Marokko Städteguide, Mauritius Reiseguide, Meilen & Punkte Anfänger, Mexiko Rundreise, Mietwagen (3 Artikel), Mit Hund Europa, Mit Katze reisen Europa, Modena Ferrari, Nachtzüge Europa, Namibia Reiseguide, Nepal Reiseguide & Trekking, Neuseeland Guide, Niederlande Rundreise, Nordlichter 2026, Nur Handgepäck, Oman Reiseguide, Open Jaw Tickets, Osaka vs. Kyoto, Panama Reiseguide, Patagonien 3 Wochen, Pauschalreise vs. Individualreise, Peru Guide, Philippinen Reiseguide, Plastik-frei Reisen, Polen Rundreise, Porto Guide, Portugal Rundreise, Powerbank Regeln, Reise-Packliste, Reisefehler vermeiden, Reisefotografie, Reiseimpfungen Guide, Reisekreditkarte 2026, Reisen kleines Budget, Reisen mit Baby, Reisen mit Teenagern, Reisen nach 60, Reiseversicherung, Riads Marokko, Roadtrip Etappen, Route 66 USA, Ruanda & Gorilla Trekking, Rumänien Reiseguide, Sabbatical planen, Safari Ostafrika, Sansibar Stone Town, Santiago de Compostela, Schönste Strände Europa, Schottland Highlands Roadtrip, Schweden Reiseguide, Schweiz Reise-Highlights, Segelurlaub Einsteiger, Skiurlaub Europa, Skandinavien Rundreise, Slow Travel, Slowenien Guide, Solo Reisen Frauen, Sri Lanka Rundreise, Stopover Tourismus, Südafrika Rundreise, Südkorea 2-Wochen-Route, Südostasien Budget, Surfurlaub Anfänger, Taiwan Reiseguide, Tansania Reiseguide, Tauchen & Schnorcheln, Thailand 2-Wochen-Route, Tokio Foodie, Trinkgeld weltweit, Türkei Road Trip, Ungarn Reiseguide, US Westküste Roadtrip, Usbekistan Seidenstraße, Vegan Reisen, Vietnam 2-Wochen-Route, Visa-on-Arrival Länder, Wann Flüge buchen, Was ist Zercy, Wellness & Spa Reisen, Wien am Wochenende, Wintersonnen Januar, Wohnungstausch, Wohnmobil Roadtrip USA, Workation Bali 2026, Workation Portugal & Spanien, Workation Steuern, Yoga-Retreats 2026, Zercy Logbook, Zugreisen Europa
 
-**Regel:** Vor JEDEM neuen Themenartikel-Vorschlag diese Liste lesen. Nach jeder neuen Batch: Liste aktualisieren.
+**Regel:** Vor JEDEM neuen Themenartikel-Vorschlag prüfen, ob er schon existiert. **Maßgeblich sind die echten Dateien, nicht diese (driftende) Liste:** `ls src/content/blog/*<thema>*.md` (bzw. `blogen`/`bloges`). Diese Liste nur als Ergänzung lesen; nach jeder neuen Batch aktualisieren.
 
 ---
 
@@ -989,7 +990,7 @@ Beste Reisezeit Bali, Beste Reisezeit Costa Rica, Beste Reisezeit Griechenland, 
 
 **Agadir**, **Alicante**, Amsterdam, **Breslau (Wrocław)**, **Budva**, Antalya, **Antigua (Guatemala)**, **Agra**, **Amman**, **Antwerpen**, Athen, Auckland, **Austin**, **Beijing (Peking)**, Bali, Bangkok, Barcelona, Berlin, Bilbao, **Bled**, Bogotá, Bologna, Bordeaux, Boston, **Bratislava**, Brisbane, Brüssel, **Brügge**, Budapest, Bukarest, **Belgrad**, **Bath**, Buenos Aires, **Bergen**, **Busan**, **Cairns**, Cancún, Cape Town, **Cebu**, **Chengdu**, Cartagena, Chiang Mai, Chicago, **Christchurch**, Colombo, **Córdoba (Arg)**, **Córdoba (Spanien)**, Cusco, **Da Nang**, **Danzig (Gdańsk)**, **Dar es Salaam**, Delhi, **Dresden**, Dublin, Dubrovnik, Edinburgh, Florenz, Frankfurt, Funchal, **Fuerteventura**, Fukuoka, **Genf**, **Gent**, Goa, **Gold Coast**, Granada, **Gran Canaria**, **Graz**, Guadalajara, **Göteborg**, Hamburg, Hanoi, **Helsinki**, **Hiroshima**, **Hobart**, Ho Chi Minh Stadt, Hoi An, Hongkong, **Ibiza**, Innsbruck, **Interlaken**, Istanbul, Jaipur, **Kanazawa**, **Kappadokien**, Johannesburg, Kairo, Kathmandu, **Kochi**, **Koh Samui**, Kopenhagen, Kotor, **Köln**, Krakau, **Krabi**, **Kreta**, Kuala Lumpur, Kyoto, **Langkawi**, Lanzarote, Las Vegas, Lima, **Liverpool**, Lissabon, **Manchester**, Ljubljana, London, Los Angeles, **Luang Prabang**, **Luzern**, **Luxor**, **Lyon**, Madrid, Mailand, Málaga, Marrakesch, Marseille, Melbourne, Medellín, Mendoza, **Mérida (Mexiko)**, Mexico City, Miami, **Mombasa**, **Montevideo**, Montreal, **Mostar**, München, Mumbai, Mykonos, Nashville, Nairobi, Neapel, **Nha Trang**, **Nikosia**, Nizza, New Orleans, New York, Oaxaca, Osaka, Oslo, Palermo, Palma de Mallorca, Paris, Penang, **Perth**, Philadelphia, Phuket, **Phnom Penh**, Playa del Carmen, **Plovdiv**, **Pokhara**, Porto, Prag, Puerto Vallarta, Québec City, Queenstown, Reykjavik, **Rhodos**, Riga, Rio de Janeiro, Rom, **Rotorua**, **Rovaniemi**, **Rovinj**, **Salvador (Bahia)**, Salzburg, **San Diego**, **Sapporo**, **Sarajevo**, San Francisco, **San Sebastián**, Santiago, Santorini, São Paulo, Seattle, Seoul, Sevilla, **Shanghai**, Siem Reap, Singapur, **Sofia**, Split, Stockholm, **Straßburg**, Sydney, Taipei, Tallinn, Teneriffa, **Thessaloniki**, **Tirana**, Tokio, Toronto, **Turin**, **Tromsø**, Tulum, Valencia, Valletta, **Valparaíso**, Vancouver, Venedig, Verona, Vilnius, Washington D.C., **Udaipur**, **Varanasi**, **Wellington**, Warschau, Wien, **Zagreb**, **Xi'an**, Zürich
 
-**Regel:** Vor JEDEM neuen City-Guide-Vorschlag diese Liste lesen. Nach jeder neuen Batch: Liste aktualisieren.
+**Regel:** Vor JEDEM neuen City-Guide-Vorschlag prüfen, ob die Stadt schon existiert. **Maßgeblich sind die echten Dateien, nicht diese (driftende) Liste:** `ls src/content/blog/wo-uebernachten-<stadt>.md` (bzw. `where-to-stay-`/`donde-alojarse-`). Diese Liste nur als Ergänzung lesen; nach jeder neuen Batch aktualisieren.
 
 ---
 
@@ -1075,20 +1076,20 @@ Der "Stadtführer / City Guide Finder / Guía de ciudades"-Dropdown auf allen 3 
 
 ### Nach dem Schreiben — Deploy + Google Indexierung
 
-⚠️ **AUTOMATISCHE PFLICHT: Nach jedem Deploy mit neuen Seiten IMMER Indexing-Script ausführen!**
+⚠️ **AUTOMATISCHE PFLICHT: Nach jedem Deploy mit neuen Seiten die URLs in die Index-Queue schreiben!**
 
 1. `npx astro build` — baut alle Seiten + generiert Sitemap automatisch.
 2. `npx vercel --prod --force --archive=tgz` — deployed alles.
-3. **Google Indexing API — IMMER am Ende der Session ausführen (ohne Aufforderung):**
+3. **Index-Queue füllen (statt manuellem submit) — IMMER am Ende der Session (ohne Aufforderung):**
    ```bash
-   node scripts/submit-indexing.mjs https://www.zercy.app/blog/[slug] https://www.zercy.app/en/blog/[slug] ...
+   # neue URLs (DE/EN/ES) an den Anfang von scripts/indexing-queue.txt setzen
+   { printf '%s\n' https://www.zercy.app/blog/[slug] https://www.zercy.app/en/blog/[slug] https://www.zercy.app/es/blog/[slug]; cat scripts/indexing-queue.txt; } > q.tmp && mv q.tmp scripts/indexing-queue.txt
    ```
-   - Limit: **200 URLs pro Tag** (nicht mehr, sonst API-Quota überschritten)
-   - Bei mehr als 200 neuen URLs: Die ersten 200 heute einreichen, den Rest in `~/.claude/projects/-Users-christinebork/memory/project_gsc_indexing_queue.md` speichern mit Datum und Slugs — nächste Session zieht das automatisch nach
-   - Gilt für Blog-Artikel (DE/EN/ES), neue Seiten, geänderte Seiten
-   - Skript: `scripts/submit-indexing.mjs` — Token liegt in `~/.zercy-analytics/tokens.json`
+   - Der LaunchAgent `app.zercy.daily-indexing` (08:30 CST) reicht täglich die ersten 200 ein und räumt die Queue auf. **Kein manuelles `submit-indexing.mjs` nötig**, kein 200/Tag-Jonglieren von Hand (Überhang bleibt in der Queue).
+   - Gilt für Blog-Artikel (DE/EN/ES), neue Seiten, geänderte Seiten.
+   - `submit-indexing.mjs` (Token in `~/.zercy-analytics/tokens.json`) nur noch für manuelle Sofort-Einreichung einzelner URLs.
 4. **Neuen Slug in die Artikel-Liste eintragen** (damit nächste Session ihn für interne Links nutzen kann).
-5. Bestätigung an Christine: Artikel live + eingereicht.
+5. Bestätigung an Christine: Artikel live + in Index-Queue.
 
 ### Sitemap & Google Search Console — AUTOMATISCH (nicht manuell pflegen!)
 - **@astrojs/sitemap** ist im `astro.config.mjs` eingebaut (seit 2026-04-17).
