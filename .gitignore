@@ -34,3 +34,5 @@ pnpm-debug.log*
 # Video-Pipeline-Artefakte (nicht committen)
 video-output/
 video-temp/
+
+social-output/
