@@ -122,7 +122,7 @@ if (faqStart !== -1) {
     "description": post.data.description,
     "url": canonicalUrl,
     "datePublished": post.data.pubDate.toISOString(),
-    "dateModified": post.data.pubDate.toISOString(),
+    "dateModified": (post.data.updatedDate ?? post.data.pubDate).toISOString(),
     "image": post.data.heroImage ? `https://www.zercy.app${post.data.heroImage}` : "https://www.zercy.app/og-image.png",
     "inLanguage": "es",
     "author": {

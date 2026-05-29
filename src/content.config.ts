@@ -6,6 +6,7 @@ const postSchema = z.object({
   metaTitle: z.string().optional(),
   description: z.string(),
   pubDate: z.date(),
+  updatedDate: z.date().optional(),
   category: z.string(),
   readingTime: z.number(),
   heroImage: z.string().optional(),
