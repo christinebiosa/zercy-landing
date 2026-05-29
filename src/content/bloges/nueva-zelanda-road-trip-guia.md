@@ -3,7 +3,7 @@ title: "Nueva Zelanda en Road Trip: La Ruta Perfecta para tu Aventura"
 metaTitle: "Nueva Zelanda Road Trip 2026: Ruta, Costos y Consejos"
 description: "Planifica tu road trip por Nueva Zelanda: ¿Isla Norte o Isla Sur primero? ¿Auto de alquiler o campervan? Costos reales, ruta completa y mejor época para viajar."
 pubDate: 2026-05-26
-category: "Wanderlust"
+category: "Lugares lejanos"
 readingTime: 9
 heroImage: "/img/blog/new-zealand-road-trip.jpg"
 ---

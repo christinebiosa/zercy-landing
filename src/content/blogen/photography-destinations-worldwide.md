@@ -3,7 +3,7 @@ title: "The 10 Best Photography Destinations in the World for Travel Photographe
 metaTitle: "Top 10 Photography Destinations: 2026 Guide | Zercy"
 description: "Santorini, Cappadocia, Bali, Patagonia: The 10 best destinations for travel photography. Best time of day, golden hour tips, camera gear advice, and specific hotspots."
 pubDate: 2026-05-26
-category: "Wanderlust"
+category: "Off the Map"
 readingTime: 8
 heroImage: "/img/blog/photography-destinations.jpg"
 ---

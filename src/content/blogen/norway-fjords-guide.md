@@ -3,7 +3,7 @@ title: "Norway Fjords: Most Beautiful Routes and Travel Tips 2026"
 metaTitle: "Norway Fjords 2026: Routes, Costs & Travel Tips | Zercy"
 description: "Sognefjord, Geirangerfjord, Hardangerfjord: the best Norway fjord routes with costs, how to get there, and the ideal travel season for 2026 Compare options and find the best deals on Zercy."
 pubDate: 2026-05-26
-category: "Wanderlust"
+category: "Off the Map"
 readingTime: 8
 heroImage: "/img/blog/norway-fjords.jpg"
 bookingDest: "Norway"

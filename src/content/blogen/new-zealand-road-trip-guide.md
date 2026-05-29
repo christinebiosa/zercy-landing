@@ -3,7 +3,7 @@ title: "New Zealand Road Trip: The Perfect Route for Your Adventure"
 metaTitle: "New Zealand Road Trip 2026: Route, Costs & Tips | Zercy"
 description: "Plan your New Zealand road trip: North Island or South Island first? Rental car or campervan? Costs, routes and best time to visit for 2, 3 or 4 weeks in one honest guide."
 pubDate: 2026-05-26
-category: "Wanderlust"
+category: "Off the Map"
 readingTime: 9
 heroImage: "/img/blog/new-zealand-road-trip.jpg"
 ---

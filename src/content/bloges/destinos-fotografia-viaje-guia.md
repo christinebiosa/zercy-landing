@@ -3,7 +3,7 @@ title: "Los 10 Mejores Destinos de Fotografía de Viaje en el Mundo"
 metaTitle: "Top 10 Destinos Fotografía de Viaje: Guía 2026 | Zercy"
 description: "Santorini, Capadocia, Bali, Patagonia: Los 10 mejores destinos para fotografía de viaje. Mejor hora del día, consejos de equipo fotográfico y hotspots concretos."
 pubDate: 2026-05-26
-category: "Wanderlust"
+category: "Lugares lejanos"
 readingTime: 8
 heroImage: "/img/blog/photography-destinations.jpg"
 ---

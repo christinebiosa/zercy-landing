@@ -3,7 +3,7 @@ title: "Pilgrimage on the Camino de Santiago: The Perfect Digital Detox"
 metaTitle: "Camino de Santiago: Pilgrimage as a Break 2026 | Zercy"
 description: "Camino de Santiago as a digital detox escape: which route to choose, how many days you need, and what it realistically costs. A practical guide for first-time pilgrims in 2026."
 pubDate: 2026-05-26
-category: "Wanderlust"
+category: "Off the Map"
 readingTime: 8
 heroImage: "/img/blog/pilgrimage-camino.jpg"
 ---

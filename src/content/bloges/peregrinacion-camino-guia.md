@@ -3,7 +3,7 @@ title: "Peregrinación en el Camino de Santiago: La escapada perfecta"
 metaTitle: "Camino de Santiago: Peregrinación y descanso 2026 | Zercy"
 description: "El Camino de Santiago como desintoxicación digital: qué ruta elegir, cuántos días necesitas y cuánto cuesta de verdad. Guía práctica para peregrinos novatos en 2026."
 pubDate: 2026-05-26
-category: "Wanderlust"
+category: "Lugares lejanos"
 readingTime: 8
 heroImage: "/img/blog/pilgrimage-camino.jpg"
 ---
