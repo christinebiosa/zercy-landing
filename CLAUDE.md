@@ -332,6 +332,9 @@ Diese Regel ist im `You NEVER:` Block am Ende des System Prompts verankert — g
 
 Wenn ein neuer Blog-Artikel für Zercy geschrieben wird, MÜSSEN alle folgenden Punkte automatisch erfüllt sein — ohne dass Christine danach fragen muss.
 
+### 🚀 Schnellstart: Scaffold-Skript (empfohlen)
+`node scripts/new-article.mjs spec.json` legt das komplette Gerüst regelkonform an: Duplikat-Check (Slugs + Topic-Key gegen echte Dateien), 3 Sprachdateien mit vollständigem Frontmatter + AEO-Skelett (FAQ + H2-Fragen), `photo-mapping.mjs`-Einträge (eindeutiger Topic-Key), hreflang-Map, URLs in die Index-Queue. Optional `--photos` (holt Foto) und `--dry-run` (nur prüfen). spec.json: `topic`, `query`, `category` (ID: tips/ai/offmap/move/smart/carry/stay/biz/green/hidden/dest), optional `date`/`readingTime`/`bookingDest`, plus `de`/`en`/`es` mit `slug`/`title`/`metaTitle`/`description`. **Danach nur noch den Body schreiben** (TODOs ersetzen) + Build/Deploy. Erspart die handgepflegten Mechanik-Schritte (die häufigste Fehlerquelle).
+
 ### Sprachen & Dateipfade
 - DE-Artikel → `src/content/blog/[slug].md`
 - EN-Artikel → `src/content/blogen/[slug].md`
