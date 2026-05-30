@@ -5,3 +5,8 @@ prague
 edinburgh
 new-york
 london
+punta-cana
+amalfi
+manila
+galway
+izmir
