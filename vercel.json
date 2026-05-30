@@ -13,6 +13,9 @@
     { "path": "/api/cron-keepalive", "schedule": "0 4 * * *" }
   ],
   "redirects": [
+    { "source": "/blog/:slug", "has": [{ "type": "host", "value": "zercy.app" }], "destination": "https://www.zercy.app/blog/:slug/", "permanent": true },
+    { "source": "/en/blog/:slug", "has": [{ "type": "host", "value": "zercy.app" }], "destination": "https://www.zercy.app/en/blog/:slug/", "permanent": true },
+    { "source": "/es/blog/:slug", "has": [{ "type": "host", "value": "zercy.app" }], "destination": "https://www.zercy.app/es/blog/:slug/", "permanent": true },
     {
       "source": "/:path*",
       "has": [{ "type": "host", "value": "zercy.app" }],
