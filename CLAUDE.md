@@ -523,7 +523,9 @@ Jeder Artikel braucht:
 1. **3–4 interne Links im Fließtext** (vorher war 2 — zu wenig). Kontextuell eingebaut, wo sie Sinn machen. Mehr = besser für SEO.
 2. **"Read more:" / "Mehr lesen:" Block am Ende** — genau 3 interne Links.
 
-DE-Links: `/blog/[slug]` · EN-Links: `/en/blog/[slug]`
+DE-Links: `/blog/[slug]/` · EN-Links: `/en/blog/[slug]/` · ES-Links: `/es/blog/[slug]/`
+
+> ⚠️ **TRAILING-SLASH-PFLICHT (KRITISCH für SEO):** Interne Blog-Links IMMER **mit Schrägstrich am Ende** schreiben (`](/en/blog/slug/)`, nicht `](/en/blog/slug)`). Canonical + Sitemap nutzen die Slash-Form; ohne Slash erzeugt Google „Alternate page with proper canonical" (Indexing-Müll). Eine Vercel-Weiterleitung in `vercel.json` fängt No-Slash zwar ab (308→Slash), aber gleich richtig schreiben spart den Redirect-Sprung. Gilt für Fließtext-Links UND den „Mehr lesen"-Block. (Fix-Historie 2026-05-30: ~8400 Alt-Links nachträglich umgestellt.)
 
 **Bestehende ES-Artikel (Slugs für interne Verlinkung — Stand 2026-05-11):**
 - donde-alojarse-amsterdam, donde-alojarse-antalya, donde-alojarse-atenas, donde-alojarse-auckland
