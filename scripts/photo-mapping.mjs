@@ -2032,8 +2032,8 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
-  'travel-gear-flying-with-kids': 'family airport travel',
-  'best-luggage-straps': 'luggage suitcase',
+  'travel-gear-flying-with-kids': 'child suitcase travel',
+  'best-luggage-straps': 'vintage suitcase',
   'best-travel-backpacks': 'travel backpack',
   'best-travel-adapters': 'travel adapter plug',
   'best-travel-headphones': 'noise cancelling headphones',
@@ -2041,7 +2041,7 @@ export const topicToQuery = {
   'best-packing-cubes': 'packing cubes organizer',
   'best-checked-suitcases': 'large suitcase travel',
   'best-carry-on-luggage': 'carry on suitcase airport',
-  'best-luggage-scales': 'luggage scale',
+  'best-luggage-scales': 'weighing luggage airport',
   'europe-off-season': 'europe autumn quiet old town',
   'esim-travel-2026': 'smartphone travel map esim',
   'best-time-portugal': 'portugal lisbon coast tram',
