@@ -160,6 +160,21 @@ git add -A && git commit -m "Beschreibung der Änderung" && git push
 ```
 **NIEMALS** nur Vercel deployen ohne Git-Push. GitHub MUSS immer synchron sein mit dem was live ist. Nicht fragen ob gepusht werden soll — einfach machen. Das ist Teil des Deployments.
 
+## 🔗 Canonical-URL-Konvention (KRITISCH für SEO — nie brechen!)
+
+**Die einzige gültige URL-Form für Blog-Seiten: `https://www.zercy.app/<lang>/blog/<slug>/`** — also **www + trailing slash**. Canonical-Tag, Sitemap, hreflang und interne Links nutzen ALLE diese Form.
+
+**Regeln (sonst entsteht GSC-Müll wie „Alternate page with proper canonical"):**
+- **Interne Blog-Links IMMER mit trailing slash:** `](/en/blog/slug/)`, nie ohne. (Fix-Historie 2026-05-30: ~8400 Alt-Links nachträglich umgestellt.)
+- **Index-Queue-URLs IMMER www + slash.** `new-article.mjs` macht das automatisch; manuelle Einträge auch.
+- **Canonical in den 3 `[slug].astro`-Templates:** `https://www.zercy.app/<lang>/blog/${post.id}/` (mit Slash). Nicht ändern.
+
+**Enforcement in `vercel.json` (NICHT entfernen):** Weiterleitungen sorgen dafür, dass falsche Formen auto-korrigiert werden:
+- non-www → www (generische `/:path*`-Regel)
+- www no-slash Blog → www +slash (`/blog/:slug`, `/en/blog/:slug`, `/es/blog/:slug`)
+- Ergebnis: jede falsche Blog-URL landet per 308 auf der Canonical (non-www+no-slash = 2 Hops, das ist ok). `/api` + Datei-Assets (.jpg/.mp4/.xml) sind bewusst ausgenommen.
+- ⚠️ JSON erlaubt keine Kommentare — diese Doku IST die Erklärung des Redirect-Blocks. Beim Bearbeiten von `vercel.json` die Blog-Redirects + den `/api`-Schutz erhalten.
+
 ## 📲 Social Media Auto-Posting (Instagram + Facebook) — KOMPLETT AUTOMATISCH
 
 Aus einem Blog-Artikel wird automatisch ein IG-Carousel + FB-Reel und live gepostet. Kostenlos via Meta Graph API, kein Drittanbieter, kein App Review (eigenes Konto = Standard Access).
