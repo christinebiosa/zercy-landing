@@ -50,6 +50,7 @@ const CATEGORIES = {
   green:  { de: 'Nachhaltig',          en: 'Travel Green',    es: 'Viaje sostenible' },
   hidden: { de: 'Geheimtipps',         en: 'Hidden Gems',     es: 'Joyas ocultas' },
   dest:   { de: 'Reiseziele',          en: 'Destinations',    es: 'Destinos' },
+  gear:   { de: 'Reise-Gadgets',       en: 'Travel Gear',     es: 'Equipo de viaje' },
 };
 
 // Sprachspezifische Skelett-Bausteine (AEO-Struktur: FAQ-Heading + W-Wort-Fragen)

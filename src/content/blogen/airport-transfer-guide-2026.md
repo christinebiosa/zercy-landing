@@ -1,5 +1,5 @@
 ---
-title: "Airport Transfer: Taxi, Bus or Train — What's Actually Worth It?"
+title: "Airport Transfer: Taxi, Bus or Train, What's Actually Worth It?"
 metaTitle: "Airport Transfer Guide: Taxi, Bus or Train 2026 | Zercy"
 description: "Taxi, Uber, airport express, bus or shuttle: all options in an honest comparison. When each one makes sense, plus concrete tips for Heathrow, Frankfurt, CDG and Bangkok."
 pubDate: 2026-05-11
@@ -48,7 +48,7 @@ Read our [airport hacks for frequent travelers](/en/blog/airport-hacks/) for the
 
 **Amsterdam AMS:** Amsterdam Centraal by direct train: 17 minutes, 6 EUR. This is one of the best airport connections in Europe. No reason to take a taxi or Uber if you are heading into the city centre.
 
-**Bangkok Suvarnabhumi (BKK):** Airport Rail Link to the city: 30 minutes, around 45-50 Baht (about 1.30 EUR). Metered taxi: 200-300 Baht plus expressway toll. The metered taxi is legitimate here, but always insist on the meter. Never agree to a flat price at the airport — unofficial drivers circle those arrival zones.
+**Bangkok Suvarnabhumi (BKK):** Airport Rail Link to the city: 30 minutes, around 45-50 Baht (about 1.30 EUR). Metered taxi: 200-300 Baht plus expressway toll. The metered taxi is legitimate here, but always insist on the meter. Never agree to a flat price at the airport, unofficial drivers circle those arrival zones.
 
 ## How Do You Spot Unofficial Drivers at the Airport?
 

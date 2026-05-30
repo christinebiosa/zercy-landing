@@ -38,7 +38,7 @@ Seven evidence-based protective measures, sorted by importance.
 
 **6. Forget hotel WiFi passwords.** When checking out, delete the hotel WiFi from your saved networks. Otherwise your phone auto-connects to identically-named "fake WiFi" at the next hotel.
 
-**7. Backup before the trip.** iCloud, Google Drive, or external drive. If your laptop or phone gets stolen, at least your data survives. See our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) — homeowner's insurance often covers device loss.
+**7. Backup before the trip.** iCloud, Google Drive, or external drive. If your laptop or phone gets stolen, at least your data survives. See our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/), homeowner's insurance often covers device loss.
 
 ## Which apps and tools are actually useful in 2026?
 
@@ -52,7 +52,7 @@ Concrete recommendations, tested.
 
 **eSIM for secure mobile:** Airalo or Holafly. Your own data instead of hotel WiFi. $10-30 per trip.
 
-See our [solo travel guide](/en/blog/solo-travel-women-safe-countries/) — many of these tools are especially important for solo travelers.
+See our [solo travel guide](/en/blog/solo-travel-women-safe-countries/), many of these tools are especially important for solo travelers.
 
 ## What if something does happen?
 

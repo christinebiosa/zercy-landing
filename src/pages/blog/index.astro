@@ -13,6 +13,7 @@ const posts = (await getCollection('blog')).sort((a, b) => {
 });
 
 const categoryColors = {
+  'Reise-Gadgets': '#8B5CF6',
   'Reisetipps': '#0EA5E9',
   'KI & Reisen': '#F97316',
   'Fernweh': '#10B981',
@@ -26,6 +27,7 @@ const categoryColors = {
 } as const;
 
 const categoryBg = {
+  'Reise-Gadgets': 'linear-gradient(135deg, #F5F3FF 0%, #EDE9FE 100%)',
   'Reisetipps': 'linear-gradient(135deg, #E0F2FE 0%, #BAE6FD 100%)',
   'KI & Reisen': 'linear-gradient(135deg, #FFF7ED 0%, #FFEDD5 100%)',
   'Fernweh': 'linear-gradient(135deg, #ECFDF5 0%, #D1FAE5 100%)',
@@ -39,6 +41,7 @@ const categoryBg = {
 } as const;
 
 const categoryIcons: Record<string, string> = {
+  'Reise-Gadgets': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m7.5 4.27 9 5.15"/><path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/><path d="m3.3 7 8.7 5 8.7-5"/><path d="M12 22V12"/></svg>`,
   'Reisetipps': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m22 2-7 20-4-9-9-4 20-7z"/><path d="M22 2 11 13"/></svg>`,
   'KI & Reisen': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/><path d="M20 3v4"/><path d="M22 5h-4"/><path d="M4 17v2"/><path d="M5 18H3"/></svg>`,
   'Fernweh': `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>`,
@@ -53,7 +56,7 @@ const categoryIcons: Record<string, string> = {
 
 type Cat = keyof typeof categoryColors;
 
-const categoryOrder = ['Wo übernachten', 'Unterwegs', 'Reisetipps', 'Fernweh', 'Clever Reisen', 'KI & Reisen', 'Nur mit Handgepäck', 'Geheimtipps', 'Nachhaltig', 'Business Travel'];
+const categoryOrder = ['Wo übernachten', 'Unterwegs', 'Reisetipps', 'Fernweh', 'Clever Reisen', 'KI & Reisen', 'Nur mit Handgepäck', 'Geheimtipps', 'Nachhaltig', 'Business Travel', 'Reise-Gadgets'];
 const existingCats = new Set(posts.map(p => p.data.category));
 const categories = categoryOrder.filter(c => existingCats.has(c));
 

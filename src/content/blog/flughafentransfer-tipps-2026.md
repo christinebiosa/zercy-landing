@@ -1,5 +1,5 @@
 ---
-title: "Flughafentransfer: Taxi, Bus oder Bahn — was lohnt sich wirklich?"
+title: "Flughafentransfer: Taxi, Bus oder Bahn, was lohnt sich wirklich?"
 metaTitle: "Flughafentransfer: Taxi, Bus oder Bahn 2026 | Zercy"
 description: "Taxi, Uber, Airport-Express, Bus oder Shuttle: Alle Optionen im ehrlichen Vergleich. Wann welche Option lohnt, plus konkrete Tipps für Heathrow, Frankfurt, CDG und Bangkok."
 pubDate: 2026-05-11

@@ -24,7 +24,7 @@ No fixed destination? No problem. Enter your departure airport, leave the destin
 
 Filter by continent, budget, or flight duration. Southeast Asia from 380 euros? Paris this weekend from 89 euros? The map updates in real time.
 
-This is not a gimmick. For anyone searching for "somewhere warm" or "somewhere affordable," this view saves hours. Combined with flexible dates — the next trick — it becomes the most powerful feature on the entire platform. It connects naturally with the logic behind [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack/): you're not locked into flying in and out of the same city.
+This is not a gimmick. For anyone searching for "somewhere warm" or "somewhere affordable," this view saves hours. Combined with flexible dates, the next trick, it becomes the most powerful feature on the entire platform. It connects naturally with the logic behind [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack/): you're not locked into flying in and out of the same city.
 
 ## How Much Does Date Flexibility Actually Save?
 
@@ -60,7 +60,7 @@ Skip the incognito tab. Save the mental energy for something else.
 
 **Multi-city booking:** Select "Multi-city" and enter each leg separately. Frankfurt-Bangkok, Bangkok-Singapore, Singapore-Frankfurt. Google shows options for each segment independently. Often cheaper than a packaged round trip. This is closely related to the [open-jaw concept](/en/blog/open-jaw-tickets-travel-hack/): instead of flying A-B-A, you fly out to C and home from D.
 
-**Cabin class filter:** Not interested in economy prices? Filter directly for Premium Economy or Business Class. Many travelers don't realize: on some long-haul routes, Business Class costs twice as much as Economy — not five times. [Business class without miles](/en/blog/business-class-without-miles/) starting around 700 euros is a real thing. According to [IATA data](https://www.iata.org/en/publications/economics/), premium cabin demand has grown steadily while pricing has become more competitive on certain routes.
+**Cabin class filter:** Not interested in economy prices? Filter directly for Premium Economy or Business Class. Many travelers don't realize: on some long-haul routes, Business Class costs twice as much as Economy, not five times. [Business class without miles](/en/blog/business-class-without-miles/) starting around 700 euros is a real thing. According to [IATA data](https://www.iata.org/en/publications/economics/), premium cabin demand has grown steadily while pricing has become more competitive on certain routes.
 
 ## How Big Is the Difference Compared to Skyscanner or Kayak?
 
@@ -75,11 +75,11 @@ For comparison purposes, Google Flights is the most reliable starting point. The
 3. Compare with Booking.com Flights, Expedia, or Kayak
 4. Book whichever is cheapest with the best cancellation terms
 
-One thing frequently overlooked: some Google Flights results show "Basic Economy" fares. No carry-on included, no seat selection. Always read the fare conditions before booking. Sometimes the next fare tier up — with a carry-on included — works out cheaper than paying the fee at the gate.
+One thing frequently overlooked: some Google Flights results show "Basic Economy" fares. No carry-on included, no seat selection. Always read the fare conditions before booking. Sometimes the next fare tier up, with a carry-on included, works out cheaper than paying the fee at the gate.
 
 More details on Google Flights features are available in the [official Google Flights Help](https://support.google.com/travel/answer/6315436).
 
-You can also use the [airport hacks](/en/blog/airport-hacks/) playbook once you've locked in the route — it picks up where Google Flights leaves off.
+You can also use the [airport hacks](/en/blog/airport-hacks/) playbook once you've locked in the route, it picks up where Google Flights leaves off.
 
 ---
 

@@ -94,7 +94,7 @@ There's no universally best AI. For inspiration and daily plans: ChatGPT. For co
 
 ### How reliable are AI hotel recommendations?
 
-Very reliable for large chains (Marriott, Hilton, Accor). Less so for boutique hotels and small family hotels — the AI sometimes invents star ratings or reviews. Always cross-check via Booking.com or TripAdvisor before booking.
+Very reliable for large chains (Marriott, Hilton, Accor). Less so for boutique hotels and small family hotels, the AI sometimes invents star ratings or reviews. Always cross-check via Booking.com or TripAdvisor before booking.
 
 ### What does ChatGPT, Claude or Gemini cost?
 

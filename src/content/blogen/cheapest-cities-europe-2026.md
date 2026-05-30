@@ -16,43 +16,43 @@ This list gives you the 10 cheapest European cities in 2026 with hard numbers. W
 
 Cheap here means a daily budget under 65 euros, including accommodation, meals and local transport. These 10 cities deliver.
 
-**1. Tirana (Albania) — €30 to €40/day**
+**1. Tirana (Albania), €30 to €40/day**
 
 Tirana is the cheapest capital city trip in Europe. A two-course dinner with wine costs 8 to 12 euros. A private room in a hostel starts at 12 euros. The city bus costs 0.30 euros per ride. For that money you get a city reinventing itself: colorful facades, lively bars, no tourist crowds. Day trips to the [Albanian Riviera](/en/blog/albania-riviera-hidden-coast/) are easy from here and add almost nothing to the budget.
 
-**2. Skopje (North Macedonia) — €32 to €45/day**
+**2. Skopje (North Macedonia), €32 to €45/day**
 
 Skopje is bizarre, cheap and striking. The city center is crammed with statues and neoclassical buildings. Street food costs 2 euros, a sit-down lunch 4 to 6 euros. Hostel beds from 10 euros, guesthouses from 18. Transport barely registers in the budget. The Old Bazaar is one of the oldest in the Balkans and free to explore.
 
-**3. Sofia (Bulgaria) — €35 to €50/day**
+**3. Sofia (Bulgaria), €35 to €50/day**
 
 Sofia surprises people. Good museums, a functioning metro, a relaxed café culture. A main dish at a local restaurant costs 4 to 7 euros. A beer: 1.50 to 2 euros. Hostel double room: 14 to 20 euros. Metro ticket: 0.80 euros. For accommodation options by neighborhood, see [where to stay in Sofia](/en/blog/where-to-stay-sofia/).
 
-**4. Belgrade (Serbia) — €40 to €55/day**
+**4. Belgrade (Serbia), €40 to €55/day**
 
 Belgrade has an energy few European cities can match. River club nights, strong cultural programming, food that fills you up without emptying your wallet. A ćevapčići plate with sides: 4 euros. Breakfast at a café: 3 euros. Beer: 1.50 euros. Hostel double room: 15 to 22 euros. Bus fare: 0.80 euros.
 
-**5. Krakow (Poland) — €45 to €60/day**
+**5. Krakow (Poland), €45 to €60/day**
 
 Krakow has the best old town in Central Europe, a lively main square and cheap Polish beer (1.50 to 2.50 euros). A lunch at a milk bar (Bar Mleczny) costs 2 to 4 euros. Hostel from 13 euros. Guesthouse from 25 euros. Bus ticket: 0.65 euros. A full day on foot in the old town and Kazimierz district costs nothing beyond food.
 
-**6. Budapest (Hungary) — €50 to €65/day**
+**6. Budapest (Hungary), €50 to €65/day**
 
 Budapest offers the best value-to-experience ratio in Central Europe. Thermal baths from 10 euros. Lángos at a street stall: 2 euros. A three-course dinner in the ruin bar district: 12 to 18 euros. Hostel double room: 16 to 25 euros. Metro day pass: 6 euros. For neighborhood breakdowns, see [where to stay in Budapest](/en/blog/where-to-stay-budapest/).
 
-**7. Bucharest (Romania) — €45 to €60/day**
+**7. Bucharest (Romania), €45 to €60/day**
 
 Bucharest has an undeserved reputation. It's actually one of the most interesting cities in Eastern Europe, with an old town that has staged a real comeback. Local cuisine at a lunch restaurant: 5 to 8 euros. Beer: 1.50 euros. Hostel: 12 to 20 euros. Metro ticket: 0.50 euros. Full neighborhood guide: [where to stay in Bucharest](/en/blog/where-to-stay-bucharest/).
 
-**8. Tallinn (Estonia) — €50 to €65/day**
+**8. Tallinn (Estonia), €50 to €65/day**
 
 Tallinn's medieval old town is a UNESCO World Heritage Site. Lunch at a market restaurant: 6 to 10 euros. A more substantial dinner: 12 to 18 euros. Hostel double room: 18 to 28 euros. Beer: 2 to 3 euros. Day pass for bus and tram: 5 euros. The old town is entirely walkable.
 
-**9. Riga (Latvia) — €48 to €63/day**
+**9. Riga (Latvia), €48 to €63/day**
 
 Riga has Art Nouveau architecture at a scale that genuinely surprises. Over a third of the city center is listed. A lunch at the Central Market: 4 to 7 euros. Beer: 2 euros. Hostel: 14 to 22 euros. Bus day pass: 4.50 euros. Riga generally runs slightly cheaper than Tallinn. Both cities work well as a combined trip.
 
-**10. Athens (Greece) — €55 to €75/day**
+**10. Athens (Greece), €55 to €75/day**
 
 Athens just makes the list if you travel smart. Gyros at a street stall: 2.50 euros. Dinner at a taverna: 10 to 15 euros. Hostel double room: 20 to 35 euros. Metro ticket: 1.20 euros. Attractions around the Acropolis have gotten pricier. Knowing the free museums and using markets keeps costs down.
 

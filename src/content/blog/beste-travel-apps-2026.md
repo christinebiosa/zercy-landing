@@ -54,7 +54,7 @@ Drei Money-Saver, die sich amortisieren.
 
 **Mystery-Hotels via HotelTonight.** Last-minute-Hotels zu 30-50 Prozent Rabatt. Funktioniert besonders gut in Großstädten ab 18 Uhr lokal. Risiko: weniger Auswahl, kurzfristige Buchung.
 
-[Stiftung Warentest hat 2024 Reise-Apps verglichen](https://www.test.de/) — Booking, Skyscanner, Google Maps und Trainline schnitten konstant am besten ab.
+[Stiftung Warentest hat 2024 Reise-Apps verglichen](https://www.test.de/), Booking, Skyscanner, Google Maps und Trainline schnitten konstant am besten ab.
 
 ---
 

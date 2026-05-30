@@ -16,43 +16,43 @@ Esta lista te da las 10 ciudades europeas más baratas en 2026 con cifras concre
 
 Barato aquí significa un presupuesto diario de menos de 65 euros incluyendo alojamiento, comidas y transporte local. Estas 10 ciudades lo consiguen.
 
-**1. Tirana (Albania) — 30 a 40 euros/día**
+**1. Tirana (Albania), 30 a 40 euros/día**
 
 Tirana es el viaje de capital más barato de Europa. Una cena de dos platos con vino cuesta entre 8 y 12 euros. Una habitación privada en un hostal comienza desde 12 euros. El autobús urbano sale a 0,30 euros por trayecto. Por ese precio consigues una ciudad que se está reinventando: fachadas de colores, bares animados, sin masas de turistas. Desde aquí es fácil hacer excursiones a [la riviera albanesa](/es/blog/albania-riviera-escondida/).
 
-**2. Skopie (Macedonia del Norte) — 32 a 45 euros/día**
+**2. Skopie (Macedonia del Norte), 32 a 45 euros/día**
 
 Skopie es bizarra, barata e impactante. El centro está lleno de estatuas y edificios neoclásicos. La comida callejera cuesta 2 euros, un almuerzo sentado entre 4 y 6 euros. Camas en hostales desde 10 euros, pensiones desde 18 euros. El transporte apenas cuenta. El Bazar Viejo es uno de los más antiguos de los Balcanes y la entrada es gratuita.
 
-**3. Sofía (Bulgaria) — 35 a 50 euros/día**
+**3. Sofía (Bulgaria), 35 a 50 euros/día**
 
 Sofía sorprende. Buenos museos, metro funcional, cultura de café relajada. Un plato principal en un restaurante local cuesta entre 4 y 7 euros. Una cerveza: de 1,50 a 2 euros. Habitación doble en hostal: de 14 a 20 euros. Billete de metro: 0,80 euros. Para opciones de alojamiento por barrio, consulta [dónde alojarse en Sofía](/es/blog/donde-alojarse-sofia/).
 
-**4. Belgrado (Serbia) — 40 a 55 euros/día**
+**4. Belgrado (Serbia), 40 a 55 euros/día**
 
 Belgrado tiene una energía que pocas ciudades europeas pueden igualar. Noches en barcazas fluviales, programación cultural sólida y comida que sacia sin vaciar la cartera. Un plato de ćevapčići con guarnición: 4 euros. Desayuno en un café: 3 euros. Cerveza: 1,50 euros. Habitación doble en hostal: de 15 a 22 euros. Autobús: 0,80 euros.
 
-**5. Cracovia (Polonia) — 45 a 60 euros/día**
+**5. Cracovia (Polonia), 45 a 60 euros/día**
 
 Cracovia tiene el mejor casco antiguo de Europa Central, una plaza mayor animada y cerveza polaca a buen precio (de 1,50 a 2,50 euros). Un almuerzo en un bar de leche (Bar Mleczny) cuesta entre 2 y 4 euros. Hostal: desde 13 euros. Pensión: desde 25 euros. Billete de autobús: 0,65 euros. Un día entero a pie por el casco antiguo y el barrio de Kazimierz no cuesta nada más allá de la comida.
 
-**6. Budapest (Hungría) — 50 a 65 euros/día**
+**6. Budapest (Hungría), 50 a 65 euros/día**
 
 Budapest ofrece la mejor relación calidad-precio de Europa Central. Baños termales desde 10 euros. Lángos en un puesto callejero: 2 euros. Una cena de tres platos en el barrio de los ruin bars: de 12 a 18 euros. Habitación doble en hostal: de 16 a 25 euros. Abono diario de metro: 6 euros. Para una guía por barrios, consulta [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/).
 
-**7. Bucarest (Rumanía) — 45 a 60 euros/día**
+**7. Bucarest (Rumanía), 45 a 60 euros/día**
 
 Bucarest tiene una reputación inmerecida. Es en realidad una de las ciudades más interesantes de Europa del Este, con un casco antiguo que ha protagonizado un verdadero renacimiento. Cocina local en un restaurante de almuerzo: de 5 a 8 euros. Cerveza: 1,50 euros. Hostal: de 12 a 20 euros. Billete de metro: 0,50 euros. Guía completa: [dónde alojarse en Bucarest](/es/blog/donde-alojarse-bucarest/).
 
-**8. Tallin (Estonia) — 50 a 65 euros/día**
+**8. Tallin (Estonia), 50 a 65 euros/día**
 
 El casco antiguo medieval de Tallin es Patrimonio de la Humanidad de la UNESCO. Almuerzo en un restaurante de mercado: de 6 a 10 euros. Una cena más elaborada: de 12 a 18 euros. Habitación doble en hostal: de 18 a 28 euros. Cerveza: de 2 a 3 euros. Abono diario de autobús y tranvía: 5 euros. El casco antiguo se recorre completamente a pie.
 
-**9. Riga (Letonia) — 48 a 63 euros/día**
+**9. Riga (Letonia), 48 a 63 euros/día**
 
 Riga tiene arquitectura Art Nouveau a una escala que genuinamente sorprende. Más de un tercio del centro histórico está catalogado. Almuerzo en el Mercado Central: de 4 a 7 euros. Cerveza: 2 euros. Hostal: de 14 a 22 euros. Abono diario de autobús: 4,50 euros. Riga es en general algo más barata que Tallin. Las dos ciudades funcionan muy bien como viaje combinado.
 
-**10. Atenas (Grecia) — 55 a 75 euros/día**
+**10. Atenas (Grecia), 55 a 75 euros/día**
 
 Atenas entra por los pelos en esta lista si viajas de forma inteligente. Gyros en un puesto callejero: 2,50 euros. Cena en una taberna: de 10 a 15 euros. Habitación doble en hostal: de 20 a 35 euros. Billete de metro: 1,20 euros. Las atracciones alrededor de la Acrópolis se han encarecido. Conocer los museos gratuitos y usar los mercados locales mantiene el gasto bajo control.
 

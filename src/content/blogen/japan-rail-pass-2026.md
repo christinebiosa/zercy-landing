@@ -78,7 +78,7 @@ This is the most important practical point: you do not buy the JRP in Japan.
 - Available from JTB, Japan Travel, and various online travel agencies in most countries
 - Purchase is possible up to a few days before departure
 
-**What you receive:** An Exchange Order — a voucher, not the physical pass itself. The actual pass is issued in Japan.
+**What you receive:** An Exchange Order, a voucher, not the physical pass itself. The actual pass is issued in Japan.
 
 **Activating in Japan:** At any major JR station, find the JR Ticket Office (Midori no Madoguchi). Bring your Exchange Order and your passport. Choose your start date. The start date does not have to be your arrival day. If you're spending your first three days in Tokyo without long-distance trains, activate on day four and save those days.
 
