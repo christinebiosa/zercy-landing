@@ -1028,7 +1028,13 @@ Jeder Artikel endet mit einer `## Frequently Asked Questions` (EN) / `## Häufig
 - Beginnen mit: Is / Are / Do / Does / Did / Can / Could / Should / Have / Has / Will / Would
 
 ### Zercy-CTA am Artikelende
-Vor dem FAQ, nach dem `---` Trennstrich: 1–2 Sätze die Zercy erwähnen, natürlich eingebaut, nicht werblich aufdringlich. **IMMER mit Zercy-Logbook-Link ergänzen:** "Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast." (DE) bzw. "Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking." (EN)
+Vor dem FAQ, nach dem `---` Trennstrich: 1–2 Sätze die Zercy erwähnen, natürlich eingebaut, nicht werblich aufdringlich. **IMMER mit Zercy-Logbook-Link.**
+
+⚠️ **CTA MUSS zum Artikel-Typ passen (KRITISCH, sonst Logik-Bruch):** Das Logbook speichert **Reise-Optionen (Flüge, Hotels, Reiseziele/Stadtteile), keine Produkte.**
+- **Reise-/City-/Destination-Artikel:** "Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast." (EN: "Save the shortlist in your [Zercy Logbook](...) so you have all options handy when booking.")
+- **Produkt-/Gadget-Artikel (Kategorie `gear`) und andere Nicht-Reise-Themen:** NICHT „speichere die Auswahl (das Produkt) im Logbook" schreiben (Quatsch, man speichert keinen Koffer im Reise-Logbook). Stattdessen zur Reiseplanung überleiten, z.B.: "Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du Flüge und Hotels mit Live-Preisen und sicherst dir die besten Optionen in deinem [Zercy Logbook](https://www.zercy.app/logbook)." (EN: "Once your bag is sorted, the real trip begins: with Zercy you compare flights and hotels at live prices and save the best options in your Logbook.")
+
+⚠️ **ALLGEMEIN — Logik-Check (PFLICHT bei jedem neuen Artikel, besonders bei neuen Themen-Typen):** Skelett-Bausteine (CTA, FAQ-W-Fragen, „beste Reisezeit"-/Stadtteil-Struktur, `bookingDest`-Banner) sind auf Reise-/Destination-Artikel gemünzt. Bei neuen/anderen Themen-Typen IMMER prüfen, ob jeder Baustein im Kontext **logisch** ist und nicht aus dem Template „durchrutscht". Lieber den Baustein an das Thema anpassen als blind übernehmen.
 
 ### ✅ Bereits vorhandene Themenartikel — IMMER HIER PRÜFEN vor neuen Vorschlägen!
 
@@ -1121,6 +1127,7 @@ Der "Stadtführer / City Guide Finder / Guía de ciudades"-Dropdown auf allen 3 
 - [ ] Kategorie aus der gültigen Liste (verifiziert gegen `index.astro`)
 - [ ] 700+ Wörter, Ziel 800–1000
 - [ ] Keine Em-Dashes (— oder –) im ganzen Artikel
+- [ ] **LOGIK-CHECK: Liest sich der Text im Kontext sinnvoll?** CTA passt zum Artikel-Typ (Logbook = Reise-Optionen, NICHT Produkte), keine durchgerutschten Template-Bausteine, interne Links MIT trailing slash
 - [ ] **3–4 H2s als Fragen formuliert** (AEO)
 - [ ] **1–2 externe Autoritäts-Links** im Fließtext
 - [ ] **3–4 interne Links** im Fließtext (nicht nur "Mehr lesen" Block)
