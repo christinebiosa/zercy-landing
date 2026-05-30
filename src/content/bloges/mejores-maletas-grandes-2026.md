@@ -3,7 +3,7 @@ title: "Las 7 mejores maletas grandes 2026: Resistentes a la manipulación de eq
 metaTitle: "7 mejores maletas grandes facturadas 2026 | Zercy"
 description: "No todas las maletas sobreviven la manipulacion en el aeropuerto intactas. Las 7 mejores maletas grandes 2026: durabilidad, peso, cerradura TSA y precio comparados."
 pubDate: 2026-05-30
-category: "Equipo de viaje"
+category: "Equipaje y organización"
 readingTime: 8
 heroImage: "/img/blog/best-checked-suitcases.jpg"
 ---

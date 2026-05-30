@@ -3,7 +3,7 @@ title: "Las 7 mejores mochilas de viaje 2026: Aptas para cabina y para todo terr
 metaTitle: "7 mejores mochilas de viaje 2026 cabina | Zercy"
 description: "Una buena mochila de viaje reemplaza al trolley por completo y evita tasas en la puerta. Las 7 mejores mochilas de viaje 2026: volumen, laptop, sistema de carga."
 pubDate: 2026-05-30
-category: "Equipo de viaje"
+category: "Equipaje y organización"
 readingTime: 8
 heroImage: "/img/blog/best-travel-backpacks.jpg"
 ---

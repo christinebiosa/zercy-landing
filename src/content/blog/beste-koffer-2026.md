@@ -3,7 +3,7 @@ title: "Die 7 besten Koffer 2026: Aufgegebenes Gepäck, das wirklich hält"
 metaTitle: "7 beste Koffer 2026 aufgegeben im Vergleich | Zercy"
 description: "Nicht jeder Koffer uebersteht die Gepaeckabfertigung unbeschadet. Die 7 besten Koffer 2026: Hartschale vs. Softshell, TSA-Schloss und Gewicht direkt verglichen."
 pubDate: 2026-05-30
-category: "Reise-Gadgets"
+category: "Gepäck & Packen"
 readingTime: 8
 heroImage: "/img/blog/best-checked-suitcases.jpg"
 ---

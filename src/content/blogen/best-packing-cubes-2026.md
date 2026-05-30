@@ -3,7 +3,7 @@ title: "The 7 Best Packing Cubes 2026: Fit 30% More Into Your Suitcase"
 metaTitle: "7 Best Packing Cubes 2026: Tested and Ranked | Zercy"
 description: "The right packing cubes let you fit up to 30% more into your bag. The 7 best packing cubes 2026 compared by compression, material, set size, and value from $15."
 pubDate: 2026-05-30
-category: "Travel Gear"
+category: "Luggage & Packing"
 readingTime: 8
 heroImage: "/img/blog/best-packing-cubes.jpg"
 ---

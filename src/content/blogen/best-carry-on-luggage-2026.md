@@ -3,7 +3,7 @@ title: "The 7 Best Carry-On Suitcases 2026: Fits Every Overhead Bin"
 metaTitle: "7 Best Carry-On Suitcases 2026 Tested | Zercy"
 description: "The right carry-on saves you gate fees and the long wait at baggage claim. The 7 best carry-on suitcases 2026 compared by size, weight, wheels, and price from $59."
 pubDate: 2026-05-30
-category: "Travel Gear"
+category: "Luggage & Packing"
 readingTime: 8
 heroImage: "/img/blog/best-carry-on-luggage.jpg"
 ---

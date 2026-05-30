@@ -3,7 +3,7 @@ title: "The 7 Best Luggage Scales 2026: No More Overweight Fees at the Gate"
 metaTitle: "7 Best Luggage Scales 2026: Tested and Ranked | Zercy"
 description: "Stop paying overweight fees at check-in. The 7 best luggage scales 2026 compared by accuracy to 10g, portability, and price. Our top pick weighs under 60g and costs under $10."
 pubDate: 2026-05-30
-category: "Travel Gear"
+category: "Luggage & Packing"
 readingTime: 8
 heroImage: "/img/blog/best-luggage-scales.jpg"
 ---

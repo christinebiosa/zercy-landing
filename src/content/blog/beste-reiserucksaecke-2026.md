@@ -3,7 +3,7 @@ title: "Die 7 besten Reiserucksäcke 2026: Handgepäck-konform und alltagstaugli
 metaTitle: "7 beste Reiserucksaecke 2026 Handgepaeck | Zercy"
 description: "Ein guter Reiserucksack ersetzt den Trolley komplett und spart Gate-Gebuehren. Die 7 besten Reiserucksaecke 2026: Volumen, Laptopfach, Tragesystem und Preis ab 49 Euro."
 pubDate: 2026-05-30
-category: "Reise-Gadgets"
+category: "Gepäck & Packen"
 readingTime: 8
 heroImage: "/img/blog/best-travel-backpacks.jpg"
 ---

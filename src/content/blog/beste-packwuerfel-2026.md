@@ -3,7 +3,7 @@ title: "Die 7 besten Packwürfel 2026: So passt mehr in deinen Koffer"
 metaTitle: "7 beste Packwuerfel 2026 Vergleich und Test | Zercy"
 description: "Mit den richtigen Packwuerfeln passt bis zu 30 Prozent mehr in deinen Koffer. Die 7 besten Packwuerfel 2026: Kompression, Material, Set-Groesse und Preis ab 12 Euro."
 pubDate: 2026-05-30
-category: "Reise-Gadgets"
+category: "Gepäck & Packen"
 readingTime: 8
 heroImage: "/img/blog/best-packing-cubes.jpg"
 ---

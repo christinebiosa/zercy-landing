@@ -3,7 +3,7 @@ title: "Die 7 besten Handgepäck-Koffer 2026: Passt in jedes Overhead-Fach"
 metaTitle: "7 beste Handgepäck-Koffer 2026 getestet | Zercy"
 description: "Der richtige Kabinen-Koffer spart Gate-Check-Gebuehren und lange Wartezeit am Gepaeckband. Die 7 besten Handgepaeck-Koffer 2026: Masse, Gewicht, Rollen und Preis."
 pubDate: 2026-05-30
-category: "Reise-Gadgets"
+category: "Gepäck & Packen"
 readingTime: 8
 heroImage: "/img/blog/best-carry-on-luggage.jpg"
 ---

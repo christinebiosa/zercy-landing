@@ -3,7 +3,7 @@ title: "The 7 Best Checked Suitcases 2026: Built to Survive Baggage Handling"
 metaTitle: "7 Best Checked Suitcases 2026 Compared | Zercy"
 description: "Not every suitcase survives baggage handling undamaged. The 7 best checked suitcases 2026 tested: hardshell vs. softshell, TSA locks, weight, and value from $89."
 pubDate: 2026-05-30
-category: "Travel Gear"
+category: "Luggage & Packing"
 readingTime: 8
 heroImage: "/img/blog/best-checked-suitcases.jpg"
 ---

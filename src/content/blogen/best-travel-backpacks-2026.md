@@ -3,7 +3,7 @@ title: "The 7 Best Travel Backpacks 2026: Carry-On Friendly and Ready for Anythi
 metaTitle: "7 Best Travel Backpacks 2026 Reviewed | Zercy"
 description: "A great travel backpack replaces your trolley entirely and avoids gate fees. The 7 best travel backpacks 2026: volume, laptop slot, harness, and price from $49."
 pubDate: 2026-05-30
-category: "Travel Gear"
+category: "Luggage & Packing"
 readingTime: 8
 heroImage: "/img/blog/best-travel-backpacks.jpg"
 ---

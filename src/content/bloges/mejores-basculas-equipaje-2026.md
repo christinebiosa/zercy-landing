@@ -3,7 +3,7 @@ title: "Las 7 mejores básculas de equipaje 2026: Olvídate del sobrepeso"
 metaTitle: "7 mejores básculas de equipaje 2026 comparadas | Zercy"
 description: "Las tasas por exceso de equipaje son perfectamente evitables con la herramienta correcta. Las 7 mejores básculas de equipaje 2026 por precision, tamanyo y precio desde 8 euros."
 pubDate: 2026-05-30
-category: "Equipo de viaje"
+category: "Equipaje y organización"
 readingTime: 8
 heroImage: "/img/blog/best-luggage-scales.jpg"
 ---

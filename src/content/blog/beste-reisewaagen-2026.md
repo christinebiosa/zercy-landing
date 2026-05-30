@@ -3,7 +3,7 @@ title: "Die 7 besten Reisewaagen 2026: Kein Übergewicht mehr am Gate"
 metaTitle: "7 beste Reisewaagen 2026 im Vergleich getestet | Zercy"
 description: "Übergewichtsgebühren sind vermeidbar. Die 7 besten Reisewaagen 2026 direkt verglichen: Genauigkeit auf 10 g, Gewicht unter 60 g und Preis ab 8 Euro im Ueberblick."
 pubDate: 2026-05-30
-category: "Reise-Gadgets"
+category: "Gepäck & Packen"
 readingTime: 8
 heroImage: "/img/blog/best-luggage-scales.jpg"
 ---

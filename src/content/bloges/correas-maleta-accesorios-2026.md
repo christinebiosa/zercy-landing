@@ -3,7 +3,7 @@ title: "Las 7 mejores correas para maleta 2026: Tu equipaje seguro y reconocible
 metaTitle: "7 mejores correas para maleta 2026 TSA | Zercy"
 description: "Las correas para maleta cuestan muy poco y evitan que tu equipaje se abra o se confunda en la cinta. Las 7 mejores correas de maleta 2026 con cerradura TSA desde 6 euros."
 pubDate: 2026-05-30
-category: "Equipo de viaje"
+category: "Equipaje y organización"
 readingTime: 8
 heroImage: "/img/blog/best-luggage-straps.jpg"
 ---

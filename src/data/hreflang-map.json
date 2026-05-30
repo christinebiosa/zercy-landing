@@ -714,6 +714,21 @@
     "en": "https://www.zercy.app/en/blog/accessible-travel-guide/",
     "es": "https://www.zercy.app/es/blog/viajes-accesibles-guia/"
   },
+  "berg-outfit-reise-guide": {
+    "de": "https://www.zercy.app/blog/berg-outfit-reise-guide/",
+    "en": "https://www.zercy.app/en/blog/mountain-trip-outfits/",
+    "es": "https://www.zercy.app/es/blog/ropa-viaje-montana/"
+  },
+  "mountain-trip-outfits": {
+    "de": "https://www.zercy.app/blog/berg-outfit-reise-guide/",
+    "en": "https://www.zercy.app/en/blog/mountain-trip-outfits/",
+    "es": "https://www.zercy.app/es/blog/ropa-viaje-montana/"
+  },
+  "ropa-viaje-montana": {
+    "de": "https://www.zercy.app/blog/berg-outfit-reise-guide/",
+    "en": "https://www.zercy.app/en/blog/mountain-trip-outfits/",
+    "es": "https://www.zercy.app/es/blog/ropa-viaje-montana/"
+  },
   "bergwandern-alpen-anfaenger-guide": {
     "de": "https://www.zercy.app/blog/bergwandern-alpen-anfaenger-guide/",
     "en": "https://www.zercy.app/en/blog/alpine-hiking-beginners-guide/",
@@ -804,6 +819,21 @@
     "en": "https://www.zercy.app/en/blog/best-checked-suitcases-2026/",
     "es": "https://www.zercy.app/es/blog/mejores-maletas-grandes-2026/"
   },
+  "beste-kompressionssocken-flug-2026": {
+    "de": "https://www.zercy.app/blog/beste-kompressionssocken-flug-2026/",
+    "en": "https://www.zercy.app/en/blog/best-compression-socks-flying-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-calcetines-compresion-viaje-2026/"
+  },
+  "best-compression-socks-flying-2026": {
+    "de": "https://www.zercy.app/blog/beste-kompressionssocken-flug-2026/",
+    "en": "https://www.zercy.app/en/blog/best-compression-socks-flying-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-calcetines-compresion-viaje-2026/"
+  },
+  "mejores-calcetines-compresion-viaje-2026": {
+    "de": "https://www.zercy.app/blog/beste-kompressionssocken-flug-2026/",
+    "en": "https://www.zercy.app/en/blog/best-compression-socks-flying-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-calcetines-compresion-viaje-2026/"
+  },
   "beste-kopfhoerer-reise-2026": {
     "de": "https://www.zercy.app/blog/beste-kopfhoerer-reise-2026/",
     "en": "https://www.zercy.app/en/blog/best-travel-headphones-2026/",
@@ -819,6 +849,21 @@
     "en": "https://www.zercy.app/en/blog/best-travel-headphones-2026/",
     "es": "https://www.zercy.app/es/blog/mejores-auriculares-viaje-2026/"
   },
+  "beste-kulturbeutel-2026": {
+    "de": "https://www.zercy.app/blog/beste-kulturbeutel-2026/",
+    "en": "https://www.zercy.app/en/blog/best-toiletry-bags-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-neceseres-viaje-2026/"
+  },
+  "best-toiletry-bags-2026": {
+    "de": "https://www.zercy.app/blog/beste-kulturbeutel-2026/",
+    "en": "https://www.zercy.app/en/blog/best-toiletry-bags-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-neceseres-viaje-2026/"
+  },
+  "mejores-neceseres-viaje-2026": {
+    "de": "https://www.zercy.app/blog/beste-kulturbeutel-2026/",
+    "en": "https://www.zercy.app/en/blog/best-toiletry-bags-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-neceseres-viaje-2026/"
+  },
   "beste-offline-reise-apps": {
     "de": "https://www.zercy.app/blog/beste-offline-reise-apps/",
     "en": "https://www.zercy.app/en/blog/best-offline-travel-apps/",
@@ -833,6 +878,21 @@
     "de": "https://www.zercy.app/blog/beste-offline-reise-apps/",
     "en": "https://www.zercy.app/en/blog/best-offline-travel-apps/",
     "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-sin-internet/"
+  },
+  "beste-packbare-jacken-reise-2026": {
+    "de": "https://www.zercy.app/blog/beste-packbare-jacken-reise-2026/",
+    "en": "https://www.zercy.app/en/blog/best-packable-travel-jackets-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-chaquetas-plegables-viaje-2026/"
+  },
+  "best-packable-travel-jackets-2026": {
+    "de": "https://www.zercy.app/blog/beste-packbare-jacken-reise-2026/",
+    "en": "https://www.zercy.app/en/blog/best-packable-travel-jackets-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-chaquetas-plegables-viaje-2026/"
+  },
+  "mejores-chaquetas-plegables-viaje-2026": {
+    "de": "https://www.zercy.app/blog/beste-packbare-jacken-reise-2026/",
+    "en": "https://www.zercy.app/en/blog/best-packable-travel-jackets-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-chaquetas-plegables-viaje-2026/"
   },
   "beste-packwuerfel-2026": {
     "de": "https://www.zercy.app/blog/beste-packwuerfel-2026/",
@@ -908,6 +968,36 @@
     "de": "https://www.zercy.app/blog/beste-reiserucksaecke-2026/",
     "en": "https://www.zercy.app/en/blog/best-travel-backpacks-2026/",
     "es": "https://www.zercy.app/es/blog/mejores-mochilas-viaje-2026/"
+  },
+  "beste-reiseschuhe-2026": {
+    "de": "https://www.zercy.app/blog/beste-reiseschuhe-2026/",
+    "en": "https://www.zercy.app/en/blog/best-travel-shoes-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-zapatos-viaje-2026/"
+  },
+  "best-travel-shoes-2026": {
+    "de": "https://www.zercy.app/blog/beste-reiseschuhe-2026/",
+    "en": "https://www.zercy.app/en/blog/best-travel-shoes-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-zapatos-viaje-2026/"
+  },
+  "mejores-zapatos-viaje-2026": {
+    "de": "https://www.zercy.app/blog/beste-reiseschuhe-2026/",
+    "en": "https://www.zercy.app/en/blog/best-travel-shoes-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-zapatos-viaje-2026/"
+  },
+  "beste-reisetaschen-duffel-2026": {
+    "de": "https://www.zercy.app/blog/beste-reisetaschen-duffel-2026/",
+    "en": "https://www.zercy.app/en/blog/best-travel-duffel-bags-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-bolsas-viaje-duffel-2026/"
+  },
+  "best-travel-duffel-bags-2026": {
+    "de": "https://www.zercy.app/blog/beste-reisetaschen-duffel-2026/",
+    "en": "https://www.zercy.app/en/blog/best-travel-duffel-bags-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-bolsas-viaje-duffel-2026/"
+  },
+  "mejores-bolsas-viaje-duffel-2026": {
+    "de": "https://www.zercy.app/blog/beste-reisetaschen-duffel-2026/",
+    "en": "https://www.zercy.app/en/blog/best-travel-duffel-bags-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-bolsas-viaje-duffel-2026/"
   },
   "beste-reisewaagen-2026": {
     "de": "https://www.zercy.app/blog/beste-reisewaagen-2026/",
@@ -1119,6 +1209,21 @@
     "en": "https://www.zercy.app/en/blog/best-time-to-visit-vietnam/",
     "es": "https://www.zercy.app/es/blog/mejor-epoca-para-visitar-vietnam/"
   },
+  "beste-straende-florida": {
+    "de": "https://www.zercy.app/blog/beste-straende-florida/",
+    "en": "https://www.zercy.app/en/blog/best-florida-beaches/",
+    "es": "https://www.zercy.app/es/blog/mejores-playas-florida/"
+  },
+  "best-florida-beaches": {
+    "de": "https://www.zercy.app/blog/beste-straende-florida/",
+    "en": "https://www.zercy.app/en/blog/best-florida-beaches/",
+    "es": "https://www.zercy.app/es/blog/mejores-playas-florida/"
+  },
+  "mejores-playas-florida": {
+    "de": "https://www.zercy.app/blog/beste-straende-florida/",
+    "en": "https://www.zercy.app/en/blog/best-florida-beaches/",
+    "es": "https://www.zercy.app/es/blog/mejores-playas-florida/"
+  },
   "beste-travel-apps-2026": {
     "de": "https://www.zercy.app/blog/beste-travel-apps-2026/",
     "en": "https://www.zercy.app/en/blog/best-travel-apps-2026/",
@@ -1133,6 +1238,21 @@
     "de": "https://www.zercy.app/blog/beste-travel-apps-2026/",
     "en": "https://www.zercy.app/en/blog/best-travel-apps-2026/",
     "es": "https://www.zercy.app/es/blog/mejores-apps-viaje-2026/"
+  },
+  "beste-underseat-taschen-2026": {
+    "de": "https://www.zercy.app/blog/beste-underseat-taschen-2026/",
+    "en": "https://www.zercy.app/en/blog/best-underseat-bags-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-bolsas-bajo-asiento-2026/"
+  },
+  "best-underseat-bags-2026": {
+    "de": "https://www.zercy.app/blog/beste-underseat-taschen-2026/",
+    "en": "https://www.zercy.app/en/blog/best-underseat-bags-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-bolsas-bajo-asiento-2026/"
+  },
+  "mejores-bolsas-bajo-asiento-2026": {
+    "de": "https://www.zercy.app/blog/beste-underseat-taschen-2026/",
+    "en": "https://www.zercy.app/en/blog/best-underseat-bags-2026/",
+    "es": "https://www.zercy.app/es/blog/mejores-bolsas-bajo-asiento-2026/"
   },
   "bestes-handgepaeck-koffer-2026": {
     "de": "https://www.zercy.app/blog/bestes-handgepaeck-koffer-2026/",
@@ -3034,6 +3154,21 @@
     "en": "https://www.zercy.app/en/blog/lisbon-beyond-the-tourist-trail/",
     "es": "https://www.zercy.app/es/blog/lisboa-fuera-ruta-turistica/"
   },
+  "lofoten-inseln-reiseguide": {
+    "de": "https://www.zercy.app/blog/lofoten-inseln-reiseguide/",
+    "en": "https://www.zercy.app/en/blog/lofoten-islands-travel-guide/",
+    "es": "https://www.zercy.app/es/blog/islas-lofoten-guia-viaje/"
+  },
+  "lofoten-islands-travel-guide": {
+    "de": "https://www.zercy.app/blog/lofoten-inseln-reiseguide/",
+    "en": "https://www.zercy.app/en/blog/lofoten-islands-travel-guide/",
+    "es": "https://www.zercy.app/es/blog/islas-lofoten-guia-viaje/"
+  },
+  "islas-lofoten-guia-viaje": {
+    "de": "https://www.zercy.app/blog/lofoten-inseln-reiseguide/",
+    "en": "https://www.zercy.app/en/blog/lofoten-islands-travel-guide/",
+    "es": "https://www.zercy.app/es/blog/islas-lofoten-guia-viaje/"
+  },
   "los-angeles": {
     "de": "https://www.zercy.app/blog/los-angeles/",
     "en": "https://www.zercy.app/en/blog/los-angeles/",
@@ -4313,6 +4448,21 @@
     "de": "https://www.zercy.app/blog/schengen-90-tage-regel-guide/",
     "en": "https://www.zercy.app/en/blog/schengen-90-day-rule-guide/",
     "es": "https://www.zercy.app/es/blog/zona-schengen-90-dias-guia/"
+  },
+  "schoenste-fotogene-reiseziele-2026": {
+    "de": "https://www.zercy.app/blog/schoenste-fotogene-reiseziele-2026/",
+    "en": "https://www.zercy.app/en/blog/most-aesthetic-travel-destinations-2026/",
+    "es": "https://www.zercy.app/es/blog/destinos-mas-esteticos-viaje-2026/"
+  },
+  "most-aesthetic-travel-destinations-2026": {
+    "de": "https://www.zercy.app/blog/schoenste-fotogene-reiseziele-2026/",
+    "en": "https://www.zercy.app/en/blog/most-aesthetic-travel-destinations-2026/",
+    "es": "https://www.zercy.app/es/blog/destinos-mas-esteticos-viaje-2026/"
+  },
+  "destinos-mas-esteticos-viaje-2026": {
+    "de": "https://www.zercy.app/blog/schoenste-fotogene-reiseziele-2026/",
+    "en": "https://www.zercy.app/en/blog/most-aesthetic-travel-destinations-2026/",
+    "es": "https://www.zercy.app/es/blog/destinos-mas-esteticos-viaje-2026/"
   },
   "schoenste-straende-europa-2026": {
     "de": "https://www.zercy.app/blog/schoenste-straende-europa-2026/",

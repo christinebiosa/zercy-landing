@@ -3,7 +3,7 @@ title: "Las 7 mejores maletas de cabina 2026: Caben en cualquier compartimento"
 metaTitle: "7 mejores maletas de cabina 2026 comparadas | Zercy"
 description: "La maleta de cabina correcta te ahorra tasas en la puerta de embarque y largas esperas en la cinta. Las 7 mejores maletas de cabina 2026 por medidas, peso y precio."
 pubDate: 2026-05-30
-category: "Equipo de viaje"
+category: "Equipaje y organización"
 readingTime: 8
 heroImage: "/img/blog/best-carry-on-luggage.jpg"
 ---

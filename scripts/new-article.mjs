@@ -51,6 +51,8 @@ const CATEGORIES = {
   hidden: { de: 'Geheimtipps',         en: 'Hidden Gems',     es: 'Joyas ocultas' },
   dest:   { de: 'Reiseziele',          en: 'Destinations',    es: 'Destinos' },
   gear:   { de: 'Reise-Gadgets',       en: 'Travel Gear',     es: 'Equipo de viaje' },
+  clothing: { de: 'Reise-Kleidung',    en: 'Travel Clothing', es: 'Ropa de viaje' },
+  luggage:  { de: 'Gepäck & Packen',   en: 'Luggage & Packing', es: 'Equipaje y organización' },
 };
 
 // Sprachspezifische Skelett-Bausteine (AEO-Struktur: FAQ-Heading + W-Wort-Fragen)

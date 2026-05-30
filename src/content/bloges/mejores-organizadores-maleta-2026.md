@@ -3,7 +3,7 @@ title: "Los 7 mejores organizadores de maleta 2026: Mete un 30 % más en tu equi
 metaTitle: "7 mejores organizadores de maleta 2026 | Zercy"
 description: "Los organizadores correctos te permiten meter hasta un 30 por ciento mas en tu maleta. Los 7 mejores organizadores de maleta 2026 por compresion, material y precio."
 pubDate: 2026-05-30
-category: "Equipo de viaje"
+category: "Equipaje y organización"
 readingTime: 8
 heroImage: "/img/blog/best-packing-cubes.jpg"
 ---
