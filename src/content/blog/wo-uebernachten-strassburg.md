@@ -73,7 +73,7 @@ Krutenau liegt östlich der Grande Île, direkt am Ill. Studenten-Kneipen, güns
 
 Prüfe vorher auf der Buchungsseite oder beim Europäischen Parlament, ob dein Aufenthalt mit einer Plenarwoche zusammenfällt. Wenn ja, entweder früh buchen oder ausweichen.
 
-Mehr zu Frankreich: [Wo übernachten in Paris](/blog/wo-uebernachten-paris), [Wo übernachten in Marseille](/blog/wo-uebernachten-marseille) oder unsere [Tipps für schöne Strände in Europa](/blog/schoenste-straende-europa-2026).
+Mehr zu Frankreich: [Wo übernachten in Paris](/blog/wo-uebernachten-paris/), [Wo übernachten in Marseille](/blog/wo-uebernachten-marseille/) oder unsere [Tipps für schöne Strände in Europa](/blog/schoenste-straende-europa-2026/).
 
 ---
 
@@ -101,6 +101,6 @@ Winstub Zum Strissel am Münster für Flammkuchen und Baeckeoffe. Restaurant La 
 
 ## Mehr lesen
 
-- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
-- [Europäische Städte im Winter: Die besten Tipps](/blog/europaeische-staedte-winter-tipps)
-- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026)
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris/)
+- [Europäische Städte im Winter: Die besten Tipps](/blog/europaeische-staedte-winter-tipps/)
+- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026/)

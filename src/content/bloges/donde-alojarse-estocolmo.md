@@ -94,6 +94,6 @@ Arlanda Express (tren directo): 22 minutos hasta Estocolmo City, 299 SEK (unos 2
 ---
 
 **Leer más:**
-- [Dónde alojarse en Copenhague: ¿Nørrebro o Frederiksberg?](/es/blog/donde-alojarse-copenhague)
-- [Dónde alojarse en Amsterdam: ¿Canal Ring o Jordaan?](/es/blog/donde-alojarse-amsterdam)
-- [Dónde alojarse en Barcelona: ¿Barrio Gótico o Eixample?](/es/blog/donde-alojarse-barcelona)
+- [Dónde alojarse en Copenhague: ¿Nørrebro o Frederiksberg?](/es/blog/donde-alojarse-copenhague/)
+- [Dónde alojarse en Amsterdam: ¿Canal Ring o Jordaan?](/es/blog/donde-alojarse-amsterdam/)
+- [Dónde alojarse en Barcelona: ¿Barrio Gótico o Eixample?](/es/blog/donde-alojarse-barcelona/)

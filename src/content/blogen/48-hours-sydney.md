@@ -67,17 +67,17 @@ Manly has good fish and chips on the beach and relaxed bars along the Corso. For
 
 ## Where to stay in Sydney?
 
-The city centre near Circular Quay is expensive and not always the most interesting base. Surry Hills and Darlinghurst offer better value, better food access, and solid transport connections. Bondi is ideal if beach access is the priority, but adds travel time to the harbour sights. [Booking.com](https://www.booking.com/searchresults.html?ss=Sydney) lists the full range with a good map view and neighbourhood filters. For more detail, our [Australia road trip route guide](/en/blog/australia-road-trip-route) covers Sydney as a base for longer itineraries.
+The city centre near Circular Quay is expensive and not always the most interesting base. Surry Hills and Darlinghurst offer better value, better food access, and solid transport connections. Bondi is ideal if beach access is the priority, but adds travel time to the harbour sights. [Booking.com](https://www.booking.com/searchresults.html?ss=Sydney) lists the full range with a good map view and neighbourhood filters. For more detail, our [Australia road trip route guide](/en/blog/australia-road-trip-route/) covers Sydney as a base for longer itineraries.
 
 ## How much does a weekend in Sydney cost?
 
-Sydney is expensive. No surprises there. BridgeClimb: 200 to 500 AUD. Pylon Lookout: 22 AUD. Bridge walkway: free. Fish Market lunch: 25 to 40 AUD. Manly Ferry: 9 AUD, one of the city's best deals. Dinner in Surry Hills: 50 to 80 AUD per person. Public transport on Opal Card is affordable and reliable. Booking flights well in advance saves significantly, especially from Europe or North America. Our guide on [when to book flights](/en/blog/when-to-book-flights) has the honest numbers for long-haul routes.
+Sydney is expensive. No surprises there. BridgeClimb: 200 to 500 AUD. Pylon Lookout: 22 AUD. Bridge walkway: free. Fish Market lunch: 25 to 40 AUD. Manly Ferry: 9 AUD, one of the city's best deals. Dinner in Surry Hills: 50 to 80 AUD per person. Public transport on Opal Card is affordable and reliable. Booking flights well in advance saves significantly, especially from Europe or North America. Our guide on [when to book flights](/en/blog/when-to-book-flights/) has the honest numbers for long-haul routes.
 
 The official [Sydney visitor website](https://www.sydney.com) has current opening hours, ticketing, and event listings for everything covered above.
 
 Zercy finds your flights to Sydney and the right hotel in one search. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so you have all options ready when you book.
 
-Planning a long trip? Check our guide on [travel insurance worth it 2026](/en/blog/travel-insurance-worth-it-2026) before you go. Australia is far, and a cancelled connection or hospital visit there without coverage is a serious financial risk.
+Planning a long trip? Check our guide on [travel insurance worth it 2026](/en/blog/travel-insurance-worth-it-2026/) before you go. Australia is far, and a cancelled connection or hospital visit there without coverage is a serious financial risk.
 
 ---
 
@@ -102,6 +102,6 @@ Bondi is more iconic, busier, and the better base for the Coastal Walk to Coogee
 ---
 
 **Read more:**
-- [Australia Road Trip Route: 3 to 6 Weeks Done Right](/en/blog/australia-road-trip-route)
-- [Travel Insurance: When Is It Actually Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [When to Book Flights: The Honest Guide](/en/blog/when-to-book-flights)
+- [Australia Road Trip Route: 3 to 6 Weeks Done Right](/en/blog/australia-road-trip-route/)
+- [Travel Insurance: When Is It Actually Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [When to Book Flights: The Honest Guide](/en/blog/when-to-book-flights/)

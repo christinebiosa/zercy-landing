@@ -19,7 +19,7 @@ Viajar solo significa que tú decides. Viajar juntos significa que se ponen de a
 
 La diferencia principal es la coordinación. ¿Quién planifica? ¿Quién reserva? ¿Quién decide cuando las opciones parecen incompatibles? Si aclarás eso antes de salir, el viaje funciona mucho mejor. Muchas parejas dividen la planificación: uno se encarga de vuelos y alojamiento, el otro de actividades y restaurantes. Menos superposición, menos fricción.
 
-El alojamiento importa más de lo que parece. Los apartamentos de Airbnb o los hoteles con más espacio funcionan mejor que una habitación doble estándar cuando dos personas tienen hábitos de sueño distintos. Nuestro artículo [Airbnb vs. Hotel: comparación práctica](/es/blog/airbnb-vs-hotel-comparacion) explica cuándo conviene cada opción.
+El alojamiento importa más de lo que parece. Los apartamentos de Airbnb o los hoteles con más espacio funcionan mejor que una habitación doble estándar cuando dos personas tienen hábitos de sueño distintos. Nuestro artículo [Airbnb vs. Hotel: comparación práctica](/es/blog/airbnb-vs-hotel-comparacion/) explica cuándo conviene cada opción.
 
 ## ¿Cómo planifican cuando tienen intereses distintos?
 
@@ -35,7 +35,7 @@ Un viaje de calidad de luna de miel en el Mediterráneo es más accesible de lo 
 
 Las Maldivas son más caras. Un resort todo incluido para dos suele empezar en 4.000 a 6.000 EUR. Japón está en el medio: vuelo de larga distancia (alrededor de 800 EUR por persona), pero alojamiento y comida asequibles sobre el terreno. Para un viaje de 14 días a Japón, calculá entre 3.000 y 3.500 EUR por persona.
 
-Una regla útil: los viajes en pareja rara vez cuestan el doble que en solitario. El hotel se comparte. El auto de alquiler también. Y la mayoría de los restaurantes tienen menús para dos. Nuestra [guía de luna de miel](/es/blog/viaje-novios-luna-miel-guia) tiene presupuestos concretos para los destinos más populares.
+Una regla útil: los viajes en pareja rara vez cuestan el doble que en solitario. El hotel se comparte. El auto de alquiler también. Y la mayoría de los restaurantes tienen menús para dos. Nuestra [guía de luna de miel](/es/blog/viaje-novios-luna-miel-guia/) tiene presupuestos concretos para los destinos más populares.
 
 Cómo dividir los gastos es un tema aparte. Una cuenta compartida para los gastos comunes, gastos personales que cada uno maneja por su lado. Esa separación simple evita muchas discusiones pequeñas.
 
@@ -43,7 +43,7 @@ Cómo dividir los gastos es un tema aparte. Una cuenta compartida para los gasto
 
 Para **romance y playa**, Santorini es el clásico. Vistas a la caldera, catas de vino, pueblos blancos. La temporada alta (julio, agosto) es cara y masificada. Mayo o septiembre son mejores. En [Booking.com](https://www.booking.com/honeymoon) hay una sección curada de alojamiento para parejas con vistas al mar.
 
-Para **cultura más playa**, Portugal es difícil de superar. Lisboa, Sintra y el Algarve en 10 días es realizable y entrega ambas cosas. Los costos son menores que en la mayor parte de Europa occidental. Nuestro artículo sobre [slow travel](/es/blog/slow-travel-que-significa) explica por qué Portugal y el viaje tranquilo van de la mano.
+Para **cultura más playa**, Portugal es difícil de superar. Lisboa, Sintra y el Algarve en 10 días es realizable y entrega ambas cosas. Los costos son menores que en la mayor parte de Europa occidental. Nuestro artículo sobre [slow travel](/es/blog/slow-travel-que-significa/) explica por qué Portugal y el viaje tranquilo van de la mano.
 
 Para **viajes de experiencia**, Japón es la primera opción para parejas que no buscan un viaje de playa típico. Tokio, Kioto, Hiroshima, Naoshima. Cada día trae algo nuevo. Funciona especialmente bien para parejas que ya conocen el circuito mediterráneo.
 
@@ -53,7 +53,7 @@ Para **lunas de miel**, las Maldivas siguen siendo la referencia. Bungalow sobre
 
 Maletas separadas. Siempre. Parece obvio, pero tiene consecuencias reales. Cada uno empaca lo suyo. Cada uno es responsable. Sin rebuscar en una maleta compartida para encontrar tu propia camiseta. Sin discusiones sobre cuántos zapatos son razonables.
 
-Si viajan solo con equipaje de mano, un sistema coordinado tiene ventajas: el cargador, el botiquín, el adaptador se pueden dividir. Pero incluso así, cada uno debería tener su propio bolso. Nuestra guía sobre [seguro de viaje en pareja](/es/blog/seguro-viaje-vale-la-pena) explica si conviene asegurarse juntos o por separado. Las pólizas para parejas suelen ser más económicas.
+Si viajan solo con equipaje de mano, un sistema coordinado tiene ventajas: el cargador, el botiquín, el adaptador se pueden dividir. Pero incluso así, cada uno debería tener su propio bolso. Nuestra guía sobre [seguro de viaje en pareja](/es/blog/seguro-viaje-vale-la-pena/) explica si conviene asegurarse juntos o por separado. Las pólizas para parejas suelen ser más económicas.
 
 ## ¿Por qué planificar la romanticidad es mejor que esperarla?
 
@@ -98,6 +98,6 @@ Portugal es la respuesta clásica: cultura en Lisboa, playa en el Algarve, todo 
 ---
 
 **Seguir leyendo:**
-- [Luna de miel: la guía completa de planificación](/es/blog/viaje-novios-luna-miel-guia)
-- [Airbnb vs. Hotel: ¿Cuál es mejor para tu viaje?](/es/blog/airbnb-vs-hotel-comparacion)
-- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
+- [Luna de miel: la guía completa de planificación](/es/blog/viaje-novios-luna-miel-guia/)
+- [Airbnb vs. Hotel: ¿Cuál es mejor para tu viaje?](/es/blog/airbnb-vs-hotel-comparacion/)
+- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)

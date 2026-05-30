@@ -36,7 +36,7 @@ The reality: the price changed because someone else booked the cheap seats while
 
 Incognito mode does not hurt. But it does not help either. You see the same price everyone else sees right now.
 
-More on booking timing strategy: [When to Book Flights for the Best Price](/en/blog/when-to-book-flights)
+More on booking timing strategy: [When to Book Flights for the Best Price](/en/blog/when-to-book-flights/)
 
 ## Why does the same flight cost five different prices on five platforms?
 
@@ -46,7 +46,7 @@ Result: Google Flights shows $545, the airline website $520, Kayak $570, Expedia
 
 Checking the airline's direct site after comparing on aggregators is almost always worth it. Sometimes the cheapest class is only available there.
 
-More search tricks: [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026)
+More search tricks: [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026/)
 
 ## When are the cheapest booking classes available?
 
@@ -58,7 +58,7 @@ Three weeks out: last-minute mode. If the flight is not filling, cheap classes c
 
 Three days out: almost always the most expensive classes only. Business travelers book on short notice and pay for it. Airlines count on exactly that.
 
-For a different take on route strategy: [Open Jaw Tickets: The Travel Hack Most Flyers Miss](/en/blog/open-jaw-tickets-travel-hack)
+For a different take on route strategy: [Open Jaw Tickets: The Travel Hack Most Flyers Miss](/en/blog/open-jaw-tickets-travel-hack/)
 
 ## How can you use booking class logic to save money?
 
@@ -68,7 +68,7 @@ Price alerts help. Google Flights shows whether a price is currently low or high
 
 One thing fewer people do: check the airline's direct website after comparing on aggregators. Some airlines only publish their cheapest classes there. The booking class can be one step cheaper, and service fees are often lower too.
 
-More tips: [Cheap Flights: What Frequent Flyers Know](/en/blog/cheap-flights-tips)
+More tips: [Cheap Flights: What Frequent Flyers Know](/en/blog/cheap-flights-tips/)
 
 ---
 
@@ -96,6 +96,6 @@ Airlines distribute their booking class inventory differently across their direc
 
 ## Read more
 
-- [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026)
-- [When to Book Flights for the Best Price](/en/blog/when-to-book-flights)
-- [Cheap Flights: What Frequent Flyers Know](/en/blog/cheap-flights-tips)
+- [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026/)
+- [When to Book Flights for the Best Price](/en/blog/when-to-book-flights/)
+- [Cheap Flights: What Frequent Flyers Know](/en/blog/cheap-flights-tips/)

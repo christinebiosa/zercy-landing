@@ -85,6 +85,6 @@ Torres del Paine (Chile) es el parque más famoso, con mayores infraestructuras,
 ---
 
 **Más para leer:**
-- [Zanzibar y Stone Town: la guía completa](/es/blog/zanzibar-stone-town-guia)
-- [Costa Rica: la ruta completa por el país en 2 semanas](/es/blog/costa-rica-ruta-completa)
-- [Dónde alojarse en Buenos Aires: Palermo, San Telmo o Recoleta](/es/blog/donde-alojarse-buenos-aires)
+- [Zanzibar y Stone Town: la guía completa](/es/blog/zanzibar-stone-town-guia/)
+- [Costa Rica: la ruta completa por el país en 2 semanas](/es/blog/costa-rica-ruta-completa/)
+- [Dónde alojarse en Buenos Aires: Palermo, San Telmo o Recoleta](/es/blog/donde-alojarse-buenos-aires/)

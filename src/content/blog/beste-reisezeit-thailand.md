@@ -27,7 +27,7 @@ Faustregel: Wer im Oktober oder November nach Thailand will, fährt an den Golf,
 
 Chiang Mai und der Norden folgen einer anderen Logik.
 
-**November bis Februar** ist die kühlste und trockenste Zeit. Temperaturen zwischen 15 und 28 Grad, klare Luft, angenehmes Wandern in den Bergen. Die beste Saison für Trekking und Elefanten-Sanctuaries. Die [Thailand-Route für 2 Wochen](/blog/thailand-route-2-wochen) baut diese Zeit bewusst als Startpunkt im Norden ein.
+**November bis Februar** ist die kühlste und trockenste Zeit. Temperaturen zwischen 15 und 28 Grad, klare Luft, angenehmes Wandern in den Bergen. Die beste Saison für Trekking und Elefanten-Sanctuaries. Die [Thailand-Route für 2 Wochen](/blog/thailand-route-2-wochen/) baut diese Zeit bewusst als Startpunkt im Norden ein.
 
 **März bis Mai** ist heiß. Bis zu 40 Grad, dazu starker Smog durch Brandrodungen. Chiang Mai hat dann regelmäßig schlechte Luftqualität. Wer empfindlich ist, sollte diese Monate meiden.
 
@@ -49,7 +49,7 @@ Bangkok ist ganzjährig zugänglich, aber das Komfortniveau unterscheidet sich s
 
 Signifikant. Hotels in Phuket und Krabi sind in der Nebensaison (Mai bis Oktober) oft 30 bis 50 Prozent günstiger als im Winter. Auch Flüge aus Europa fallen. Wer bereit ist, gelegentlichen Regen in Kauf zu nehmen, spart erheblich.
 
-Ko Samui im Oktober ist in dieser Logik der Geheimtipp: Günstige Preise wie Nebensaison, aber ohne den Regen der Andamanensee-Küste. Mehr dazu in [48 Stunden Bangkok](/blog/48-stunden-bangkok) und der [Südostasien-Budget-Übersicht](/blog/suedostasien-budget-reisen).
+Ko Samui im Oktober ist in dieser Logik der Geheimtipp: Günstige Preise wie Nebensaison, aber ohne den Regen der Andamanensee-Küste. Mehr dazu in [48 Stunden Bangkok](/blog/48-stunden-bangkok/) und der [Südostasien-Budget-Übersicht](/blog/suedostasien-budget-reisen/).
 
 Für einen guten [Überblick zu Reiseversicherungen](blog/reiseversicherung-was-lohnt-sich) lohnt es sich übrigens, vor dem Buchen zu prüfen, ob Monsun-bedingte Stornierungen abgedeckt sind.
 
@@ -77,6 +77,6 @@ Ko Samui und der Golf von Thailand. Die Andamanensee-Küste (Phuket, Krabi) hat 
 
 ## Mehr lesen
 
-- [Thailand in 2 Wochen: Die beste Route](/blog/thailand-route-2-wochen)
-- [48 Stunden Bangkok: Was wirklich lohnt](/blog/48-stunden-bangkok)
-- [Südostasien auf kleinem Budget](/blog/suedostasien-budget-reisen)
+- [Thailand in 2 Wochen: Die beste Route](/blog/thailand-route-2-wochen/)
+- [48 Stunden Bangkok: Was wirklich lohnt](/blog/48-stunden-bangkok/)
+- [Südostasien auf kleinem Budget](/blog/suedostasien-budget-reisen/)

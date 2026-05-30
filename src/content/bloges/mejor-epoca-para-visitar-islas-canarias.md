@@ -47,9 +47,9 @@ El verano en Fuerteventura (junio-septiembre) puede tener días muy calurosos co
 
 La elección de isla importa más que la elección del mes. [Turismo de Canarias](https://www.turismodecanarias.com) tiene comparativas climáticas, calendarios de eventos y guías por isla que actualizan regularmente. Es una buena referencia antes de decidir.
 
-Para una comparación directa entre las principales islas en cuanto a ambiente, playa, naturaleza y actividades, la guía de [Islas Canarias: comparativa completa](/es/blog/islas-canarias-comparativa) lo desglosa con detalle.
+Para una comparación directa entre las principales islas en cuanto a ambiente, playa, naturaleza y actividades, la guía de [Islas Canarias: comparativa completa](/es/blog/islas-canarias-comparativa/) lo desglosa con detalle.
 
-Si ya tienes clara la isla, las guías de alojamiento te ayudan a elegir la zona: [dónde alojarse en Tenerife](/es/blog/donde-alojarse-tenerife) y [dónde alojarse en Lanzarote](/es/blog/donde-alojarse-lanzarote) tienen los barrios y zonas desglosados con recomendaciones concretas.
+Si ya tienes clara la isla, las guías de alojamiento te ayudan a elegir la zona: [dónde alojarse en Tenerife](/es/blog/donde-alojarse-tenerife/) y [dónde alojarse en Lanzarote](/es/blog/donde-alojarse-lanzarote/) tienen los barrios y zonas desglosados con recomendaciones concretas.
 
 ---
 
@@ -71,6 +71,6 @@ Tenerife y Gran Canaria tienen la mejor infraestructura para familias: parques a
 
 ## Más información
 
-- [Islas Canarias: comparativa completa](/es/blog/islas-canarias-comparativa)
-- [Dónde alojarse en Tenerife](/es/blog/donde-alojarse-tenerife)
-- [Dónde alojarse en Lanzarote](/es/blog/donde-alojarse-lanzarote)
+- [Islas Canarias: comparativa completa](/es/blog/islas-canarias-comparativa/)
+- [Dónde alojarse en Tenerife](/es/blog/donde-alojarse-tenerife/)
+- [Dónde alojarse en Lanzarote](/es/blog/donde-alojarse-lanzarote/)

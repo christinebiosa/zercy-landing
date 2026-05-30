@@ -78,6 +78,6 @@ Direct flights from Europe and the US to Quito or Guayaquil. From Europe: 600 to
 ---
 
 **Read more:**
-- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials)
-- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Costa Rica Road Trip Route](/en/blog/costa-rica-road-trip-route)
+- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials/)
+- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Costa Rica Road Trip Route](/en/blog/costa-rica-road-trip-route/)

@@ -31,7 +31,7 @@ Los Ángeles no es una ciudad. Son veinte ciudades que comparten un nombre.
 
 **Downtown LA** ha cambiado mucho en la última década. El Grand Central Market, The Broad y el Arts District: street art, cafeterías y naves industriales convertidas.
 
-Para saber en cuál de estos barrios alojarte, consulta nuestra guía sobre [dónde alojarse en Los Ángeles](/es/blog/donde-alojarse-los-angeles).
+Para saber en cuál de estos barrios alojarte, consulta nuestra guía sobre [dónde alojarse en Los Ángeles](/es/blog/donde-alojarse-los-angeles/).
 
 ## ¿Qué no te puedes perder en Los Ángeles?
 
@@ -49,11 +49,11 @@ Para saber en cuál de estos barrios alojarte, consulta nuestra guía sobre [dó
 
 Sin coche no se puede. Esta es la regla principal y no tiene excepciones reales.
 
-Uber existe, pero resulta caro y lento en el tráfico. El metro está mejorando, pero no cubre lo suficiente para un turista. Con un coche de alquiler ves tres veces más en el mismo tiempo. Lee nuestra [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche) antes de recogerlo, especialmente los puntos sobre seguros y el acta de daños.
+Uber existe, pero resulta caro y lento en el tráfico. El metro está mejorando, pero no cubre lo suficiente para un turista. Con un coche de alquiler ves tres veces más en el mismo tiempo. Lee nuestra [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche/) antes de recogerlo, especialmente los puntos sobre seguros y el acta de daños.
 
 El tráfico es real. De Venice a Downtown: 20 minutos sin tráfico, 75 minutos con tráfico. Revisa siempre Google Maps antes de salir. Aire acondicionado en el coche es imprescindible en verano.
 
-Si piensas extender el viaje al norte, el [roadtrip por la costa oeste de USA](/es/blog/costa-oeste-usa-roadtrip) parte desde LA hacia San Francisco por la Pacific Coast Highway.
+Si piensas extender el viaje al norte, el [roadtrip por la costa oeste de USA](/es/blog/costa-oeste-usa-roadtrip/) parte desde LA hacia San Francisco por la Pacific Coast Highway.
 
 ## ¿Cuántos días necesitas para Los Ángeles?
 
@@ -65,7 +65,7 @@ Con diez días puedes ser espontáneo. Koreatown sin itinerario. El mercado de a
 
 La mejor época: mayo a octubre. Septiembre y octubre son los mejores meses. Menos niebla que en junio, menos calor que en agosto, menos gente que en verano.
 
-Si te interesa comparar LA con otra ciudad americana antes de decidirte, tenemos una comparativa completa de [Nueva York vs. Los Ángeles](/es/blog/nueva-york-vs-los-angeles-comparacion).
+Si te interesa comparar LA con otra ciudad americana antes de decidirte, tenemos una comparativa completa de [Nueva York vs. Los Ángeles](/es/blog/nueva-york-vs-los-angeles-comparacion/).
 
 ---
 
@@ -93,6 +93,6 @@ Vuelo desde América Latina: $500 a $1,000. Hotel: $120 a $250 por noche. Coche 
 
 ## Más artículos
 
-- [Dónde alojarse en Los Ángeles: Los mejores barrios por tipo de viaje](/es/blog/donde-alojarse-los-angeles)
-- [Checklist de Alquiler de Coche: 10 Puntos Antes de Salir](/es/blog/checklist-alquiler-coche)
-- [Roadtrip por la Costa Oeste de EE.UU.: De San Francisco a San Diego](/es/blog/costa-oeste-usa-roadtrip)
+- [Dónde alojarse en Los Ángeles: Los mejores barrios por tipo de viaje](/es/blog/donde-alojarse-los-angeles/)
+- [Checklist de Alquiler de Coche: 10 Puntos Antes de Salir](/es/blog/checklist-alquiler-coche/)
+- [Roadtrip por la Costa Oeste de EE.UU.: De San Francisco a San Diego](/es/blog/costa-oeste-usa-roadtrip/)

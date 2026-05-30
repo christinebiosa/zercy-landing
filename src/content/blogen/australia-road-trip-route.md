@@ -85,6 +85,6 @@ At least 3 weeks. Four to five weeks is significantly better for covering multip
 3–5 months in advance. Australian summer (December to February) is peak season and expensive. Traveling in the Australian winter (June to August) often means better prices — and the weather in Sydney and Melbourne is very pleasant.
 
 ## Read more
-- [Travel Packing List: What You Really Need](/en/blog/travel-packing-list-essentials)
-- [Japan 3-Week Route: Tokyo to Kyushu](/en/blog/japan-3-week-route)
-- [India Travel Guide: Highlights and Tips](/en/blog/india-travel-guide-highlights)
+- [Travel Packing List: What You Really Need](/en/blog/travel-packing-list-essentials/)
+- [Japan 3-Week Route: Tokyo to Kyushu](/en/blog/japan-3-week-route/)
+- [India Travel Guide: Highlights and Tips](/en/blog/india-travel-guide-highlights/)

@@ -63,7 +63,7 @@ La orilla sur está conectada con la Ciudad Vieja por un puente de bambú o ferr
 
 **Mejores opciones:** Sayo River Guesthouse (sencillo, limpio, junto al río), La Residence Phou Vao (excepción de lujo en la colina, piscina panorámica), Mekong Riverview Hotel (rango medio sólido, vistas al ferry).
 
-Más sobre la [guía de viaje a Laos](/es/blog/laos-guia-viaje-highlights) y la [ruta económica por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico) en artículos separados.
+Más sobre la [guía de viaje a Laos](/es/blog/laos-guia-viaje-highlights/) y la [ruta económica por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/) en artículos separados.
 
 ## Ban Xieng Maen: Silencio en la otra orilla del Mekong
 
@@ -104,6 +104,6 @@ Temporada alta (noviembre a febrero): 3–4 meses de antelación, especialmente 
 ---
 
 **Más artículos:**
-- [Guía de viaje a Laos: Highlights y consejos](/es/blog/laos-guia-viaje-highlights)
-- [Sudeste Asiático: Viajar con poco presupuesto](/es/blog/sudeste-asiatico-viaje-economico)
-- [Dónde alojarse en Chiang Mai: Los mejores barrios](/es/blog/donde-alojarse-chiang-mai)
+- [Guía de viaje a Laos: Highlights y consejos](/es/blog/laos-guia-viaje-highlights/)
+- [Sudeste Asiático: Viajar con poco presupuesto](/es/blog/sudeste-asiatico-viaje-economico/)
+- [Dónde alojarse en Chiang Mai: Los mejores barrios](/es/blog/donde-alojarse-chiang-mai/)

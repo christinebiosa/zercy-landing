@@ -55,7 +55,7 @@ October through March is the clear peak window. Temperatures between 15 and 28 d
 
 Bani Park sits between the old town and Civil Lines. Quiet, green, without the market stress of the Pink City. Many small guesthouses and boutique hotels occupy old manor houses. Popular with backpackers and anyone staying longer without wanting to spend a fortune. Yoga in the morning, good restaurant in the evening. Bani Park makes both work.
 
-If you are also visiting [Mumbai](/en/blog/where-to-stay-mumbai) or [Delhi](/en/blog/where-to-stay-delhi), coordinating hotel choices in advance pays off. The Golden Triangle is best planned as one unit.
+If you are also visiting [Mumbai](/en/blog/where-to-stay-mumbai/) or [Delhi](/en/blog/where-to-stay-delhi/), coordinating hotel choices in advance pays off. The Golden Triangle is best planned as one unit.
 
 **Who fits here:** Budget travelers, boutique enthusiasts, longer stays, solo travelers.
 
@@ -77,7 +77,7 @@ In the south of the city. Shopping centers like Pink Square Mall, many restauran
 
 The corridor along Amer Road leads to Jaipur's most famous monument. Amber Fort sits on a hill overlooking the surrounding landscape. Hotels along this route are often housed in old havelis or built as resorts with views of the fort. Not central, but unbeatable in atmosphere.
 
-For families with children, this corridor works particularly well: no dense city traffic, space, often large gardens. Combining [Goa](/en/blog/where-to-stay-goa) after Jaipur makes a good India mix: Jaipur for history, Goa for beach.
+For families with children, this corridor works particularly well: no dense city traffic, space, often large gardens. Combining [Goa](/en/blog/where-to-stay-goa/) after Jaipur makes a good India mix: Jaipur for history, Goa for beach.
 
 **Who fits here:** Luxury travelers, families, anyone who sees heritage hotels as part of the experience itself.
 
@@ -98,7 +98,7 @@ What you get there:
 
 Booking direct at a heritage hotel can make sense if you want special packages with sightseeing transfers or dinner arrangements. For everything else: compare on Booking.com, then decide.
 
-Also useful before your trip: our [travel insurance breakdown](/en/blog/travel-insurance-worth-it-2026) for India travel coverage.
+Also useful before your trip: our [travel insurance breakdown](/en/blog/travel-insurance-worth-it-2026/) for India travel coverage.
 
 ---
 
@@ -125,6 +125,6 @@ Two full days cover the highlights: Amber Fort, Hawa Mahal, City Palace, Jantar 
 ---
 
 **Read more:**
-- [Where to Stay in Delhi: Neighborhoods and Hotels](/en/blog/where-to-stay-delhi)
-- [Where to Stay in Mumbai: Neighborhoods and Hotels](/en/blog/where-to-stay-mumbai)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Where to Stay in Delhi: Neighborhoods and Hotels](/en/blog/where-to-stay-delhi/)
+- [Where to Stay in Mumbai: Neighborhoods and Hotels](/en/blog/where-to-stay-mumbai/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

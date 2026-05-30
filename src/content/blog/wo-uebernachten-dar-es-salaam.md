@@ -77,7 +77,7 @@ Dar es Salaam als Startpunkt für Safari oder Sansibar? Erzähl Zercy deinen Pla
 
 ### Wie komme ich von Dar es Salaam nach Sansibar?
 
-Mit der Fähre ab Kivukoni Ferry Terminal. Azam Marine und Coastal Fast Ferries sind die zuverlässigsten Anbieter. Die Schnellfähre dauert 90 Minuten, kostet 35-50 USD für Touristen. Buche 1-2 Tage vorher. Morgenfahrten (7-9 Uhr) sind ruhiger als Nachmittagsfahrten. Der [Sansibar Stone Town Guide](/blog/sansibar-stone-town-guide) zeigt, was danach kommt.
+Mit der Fähre ab Kivukoni Ferry Terminal. Azam Marine und Coastal Fast Ferries sind die zuverlässigsten Anbieter. Die Schnellfähre dauert 90 Minuten, kostet 35-50 USD für Touristen. Buche 1-2 Tage vorher. Morgenfahrten (7-9 Uhr) sind ruhiger als Nachmittagsfahrten. Der [Sansibar Stone Town Guide](/blog/sansibar-stone-town-guide/) zeigt, was danach kommt.
 
 ### Was kostet ein Taxi in Dar es Salaam?
 
@@ -85,7 +85,7 @@ Taxis haben keine Taxameter. Preise vorher aushandeln. Innerhalb der Stadtteile:
 
 ### Welche Sehenswürdigkeiten gibt es in Dar es Salaam?
 
-Village Museum (Freilichtmuseum tansanischer Architektur), National Museum and House of Culture, Kariakoo Market (Montag bis Samstag morgens am belebtesten), Kivukoni Fish Market (früh morgens), Coco Beach (Stadtrand, beliebt bei Einheimischen). Der [Tansania Reiseguide](/blog/tansania-reiseguide-highlights) zeigt die komplette Übersicht.
+Village Museum (Freilichtmuseum tansanischer Architektur), National Museum and House of Culture, Kariakoo Market (Montag bis Samstag morgens am belebtesten), Kivukoni Fish Market (früh morgens), Coco Beach (Stadtrand, beliebt bei Einheimischen). Der [Tansania Reiseguide](/blog/tansania-reiseguide-highlights/) zeigt die komplette Übersicht.
 
 ### Wie sicher ist Dar es Salaam für Touristen?
 
@@ -94,6 +94,6 @@ Dar es Salaam ist für eine afrikanische Großstadt relativ sicher. Taschendiebs
 ---
 
 **Mehr lesen:**
-- [Tansania Reiseguide: Safari, Sansibar und Kilimanjaro](/blog/tansania-reiseguide-highlights)
-- [Sansibar Stone Town: Was du wissen musst](/blog/sansibar-stone-town-guide)
-- [Safari in Ostafrika: Der komplette Planungsguide](/blog/safari-ostafrika-guide)
+- [Tansania Reiseguide: Safari, Sansibar und Kilimanjaro](/blog/tansania-reiseguide-highlights/)
+- [Sansibar Stone Town: Was du wissen musst](/blog/sansibar-stone-town-guide/)
+- [Safari in Ostafrika: Der komplette Planungsguide](/blog/safari-ostafrika-guide/)

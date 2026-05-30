@@ -94,6 +94,6 @@ Fado in Porto (Fado Portuense) ist rarer als in Lissabon, aber authentischer. Di
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon)
-- [Wo übernachten in Sevilla: Triana oder Altstadt?](/blog/wo-uebernachten-sevilla)
-- [Porto: Die unterschätzte Schwester Lissabons](/blog/porto-die-unterschaetzte-schwester)
+- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon/)
+- [Wo übernachten in Sevilla: Triana oder Altstadt?](/blog/wo-uebernachten-sevilla/)
+- [Porto: Die unterschätzte Schwester Lissabons](/blog/porto-die-unterschaetzte-schwester/)

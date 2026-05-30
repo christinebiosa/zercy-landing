@@ -66,6 +66,6 @@ Gulyás (goulash soup, not what most foreigners imagine), Halászlé (fish soup 
 ---
 
 **Read more:**
-- [Balkan Road Trip Route](/en/blog/balkan-road-trip-route)
-- [Slovenia: Europe's Green Secret 2026](/en/blog/slovenia-green-secret-2026)
-- [Travel Packing List: What You Actually Need](/en/blog/travel-packing-list-essentials)
+- [Balkan Road Trip Route](/en/blog/balkan-road-trip-route/)
+- [Slovenia: Europe's Green Secret 2026](/en/blog/slovenia-green-secret-2026/)
+- [Travel Packing List: What You Actually Need](/en/blog/travel-packing-list-essentials/)

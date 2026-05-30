@@ -49,7 +49,7 @@ North Playa is the area north of the 5th Avenue strip. The energy drops noticeab
 
 **Top picks:** Mahekal Beach Resort (palapa bungalows right on the beach, loads of character), Mosquito Blue (boutique, pool, 5 minutes to the 5th Ave), Viva Wyndham Azteca (larger all-inclusive option, family-friendly).
 
-If you want to combine cenotes or Xcaret into your trip, check out our [Tulum neighborhood guide](/en/blog/where-to-stay-tulum) for day trip ideas along the Riviera Maya.
+If you want to combine cenotes or Xcaret into your trip, check out our [Tulum neighborhood guide](/en/blog/where-to-stay-tulum/) for day trip ideas along the Riviera Maya.
 
 ## When Is the Best Time to Visit Playa del Carmen?
 
@@ -75,7 +75,7 @@ Playacar is a gated residential and resort complex in the southern part of Playa
 
 **Top picks:** Iberostar Selection Paraíso Maya (large premium resort in Playacar), Royal Hideaway Playacar (adults-only, luxury), Sandos Caracol Eco Resort (family-friendly, cenote inside the resort).
 
-For a comparison between all-inclusive and independent hotel stays, check our [Airbnb vs Hotel breakdown](/en/blog/airbnb-vs-hotel-comparison).
+For a comparison between all-inclusive and independent hotel stays, check our [Airbnb vs Hotel breakdown](/en/blog/airbnb-vs-hotel-comparison/).
 
 ## Where Should You Actually Book?
 
@@ -107,6 +107,6 @@ Sargassum seaweed is most intense May through October along the Riviera Maya coa
 
 ## Read more
 
-- [Where to Stay in Tulum](/en/blog/where-to-stay-tulum)
-- [Where to Stay in Cancún](/en/blog/where-to-stay-cancun)
-- [Where to Stay in Mexico City](/en/blog/where-to-stay-mexico-city)
+- [Where to Stay in Tulum](/en/blog/where-to-stay-tulum/)
+- [Where to Stay in Cancún](/en/blog/where-to-stay-cancun/)
+- [Where to Stay in Mexico City](/en/blog/where-to-stay-mexico-city/)

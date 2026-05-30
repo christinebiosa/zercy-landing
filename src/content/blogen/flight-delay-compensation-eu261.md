@@ -30,7 +30,7 @@ Compensation amounts depend on flight distance:
 
 The key detail: delay is measured at your final destination, not at departure. A two-hour departure delay that gets absorbed in flight doesn't trigger compensation.
 
-Connecting flights add another layer — check out [how to find cheap flights](/en/blog/cheap-flights-tips) for tips on booking routes that also protect your legal position.
+Connecting flights add another layer — check out [how to find cheap flights](/en/blog/cheap-flights-tips/) for tips on booking routes that also protect your legal position.
 
 ## When does the airline not have to pay?
 
@@ -56,7 +56,7 @@ If you're **stuck overnight**: hotel accommodation and transport between the air
 
 Claim this proactively. If the airline doesn't offer it, go to the service desk and ask for vouchers. Keep receipts for anything you pay yourself — you can get reimbursed.
 
-For more smart strategies at the airport, read our [airport hacks guide](/en/blog/airport-hacks). And if you're weighing whether [travel insurance is worth it](/en/blog/travel-insurance-worth-it-2026), delays are one major reason it often is.
+For more smart strategies at the airport, read our [airport hacks guide](/en/blog/airport-hacks/). And if you're weighing whether [travel insurance is worth it](/en/blog/travel-insurance-worth-it-2026/), delays are one major reason it often is.
 
 ## How to actually get your money
 
@@ -95,6 +95,6 @@ Reply in writing with a counter-argument. Then escalate to the national enforcem
 Plan smarter from the start. Zercy helps you compare flights and make better travel decisions before things go sideways at the gate. [Start planning at zercy.app](https://www.zercy.app/logbook)
 
 **Read more:**
-- [Airport Hacks for Stress-Free Travel](/en/blog/airport-hacks)
-- [Is Travel Insurance Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [How to Find Cheap Flights](/en/blog/cheap-flights-tips)
+- [Airport Hacks for Stress-Free Travel](/en/blog/airport-hacks/)
+- [Is Travel Insurance Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [How to Find Cheap Flights](/en/blog/cheap-flights-tips/)

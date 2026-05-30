@@ -43,7 +43,7 @@ File a claim directly with the airline. Send it in writing, either via their web
 
 If the airline rejects your claim or ignores you, third-party services can help. AirHelp, Flightright, and EUclaim all handle compensation claims on a no-win no-fee basis, typically taking 25 to 30 percent of the recovered amount. You assign your claim to them, and they pursue it, including legal action if needed.
 
-For a free option, Germany's söp (Schlichtungsstelle Luft- und Schienenwege) handles arbitration at no cost to you. The process takes longer but keeps the full amount. For related protection on your trip, read our article on [travel insurance: is it worth it?](/en/blog/travel-insurance-worth-it-2026).
+For a free option, Germany's söp (Schlichtungsstelle Luft- und Schienenwege) handles arbitration at no cost to you. The process takes longer but keeps the full amount. For related protection on your trip, read our article on [travel insurance: is it worth it?](/en/blog/travel-insurance-worth-it-2026/).
 
 ## What Should You Do at the Airport Right Now?
 
@@ -53,7 +53,7 @@ If the airline doesn't offer you food and drink, buy it yourself and keep the re
 
 Be careful with vouchers. Some airlines offer travel vouchers or goodwill payments with fine print that says accepting them means you waive your right to cash compensation. Read before signing. Cash compensation is usually the better deal.
 
-If you need to rebook a flight, check our tips on [how to find cheap flights](/en/blog/cheap-flights-tips) and [when to book flights](/en/blog/when-to-book-flights) so your next trip starts better than this one.
+If you need to rebook a flight, check our tips on [how to find cheap flights](/en/blog/cheap-flights-tips/) and [when to book flights](/en/blog/when-to-book-flights/) so your next trip starts better than this one.
 
 ## Plan Your Next Trip with Zercy
 
@@ -78,6 +78,6 @@ Read the terms before accepting. Some vouchers include a waiver of your cash com
 ---
 
 **Read more:**
-- [Travel Insurance: Is It Worth It?](/en/blog/travel-insurance-worth-it-2026)
-- [Cheap Flights Tips](/en/blog/cheap-flights-tips)
-- [Airport Hacks](/en/blog/airport-hacks)
+- [Travel Insurance: Is It Worth It?](/en/blog/travel-insurance-worth-it-2026/)
+- [Cheap Flights Tips](/en/blog/cheap-flights-tips/)
+- [Airport Hacks](/en/blog/airport-hacks/)

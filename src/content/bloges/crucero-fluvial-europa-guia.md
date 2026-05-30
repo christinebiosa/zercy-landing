@@ -46,7 +46,7 @@ Esta es la pregunta más importante. Los cruceros fluviales encajan bien, pero n
 
 **Ideal para:** Parejas de 50 años en adelante, viajeros con intereses culturales, quienes quieren evitar el mareo (no hay mar abierto, no hay oleaje), parejas en luna de miel que valoran un ritmo tranquilo, viajeros que quieren ver destinos nuevos cada día sin tener que deshacer la maleta.
 
-**No es ideal para:** Viajeros con presupuesto muy ajustado (1.500-4.000 EUR por persona para 8 días es el rango realista), viajeros jóvenes que buscan ambiente de fiesta (para eso están mejor los cruceros oceánicos o los [trenes europeos](/es/blog/viajes-tren-europa)), familias con niños muy pequeños (la estructura del barco no siempre encaja bien).
+**No es ideal para:** Viajeros con presupuesto muy ajustado (1.500-4.000 EUR por persona para 8 días es el rango realista), viajeros jóvenes que buscan ambiente de fiesta (para eso están mejor los cruceros oceánicos o los [trenes europeos](/es/blog/viajes-tren-europa/)), familias con niños muy pequeños (la estructura del barco no siempre encaja bien).
 
 El pasajero típico de un crucero fluvial tiene entre 55 y 70 años, ya ha viajado mucho de forma independiente y ahora quiere un ritmo más cómodo sin renunciar a la profundidad. El público se ha rejuvenecido algo en los últimos años, pero ese sigue siendo el núcleo.
 
@@ -101,6 +101,6 @@ Directamente con el operador (Viking.com, A-Rosa.de) o a través de portales esp
 ---
 
 **Leer más:**
-- [Cruceros para principiantes: Lo que debes saber antes de reservar](/es/blog/crucero-guia-principiantes)
-- [Trenes nocturnos en Europa 2026: Rutas, precios, consejos](/es/blog/trenes-nocturnos-europa-2026)
-- [Viajes en tren por Europa: La guía completa](/es/blog/viajes-tren-europa)
+- [Cruceros para principiantes: Lo que debes saber antes de reservar](/es/blog/crucero-guia-principiantes/)
+- [Trenes nocturnos en Europa 2026: Rutas, precios, consejos](/es/blog/trenes-nocturnos-europa-2026/)
+- [Viajes en tren por Europa: La guía completa](/es/blog/viajes-tren-europa/)

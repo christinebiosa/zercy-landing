@@ -34,7 +34,7 @@ For expenses during the trip, [Splitwise](https://www.splitwise.com) is the best
 
 One frequently missed detail: pay for accommodation and flights together before departure. Booking these big-ticket items separately almost always causes friction. Someone books cheaper and ends up in a different hotel. Someone flies earlier. The group splinters before the trip even starts.
 
-Also worth reading: [Travel Budget Guide](/en/blog/travel-savings-budget-planning) for concrete numbers to help frame a realistic group budget.
+Also worth reading: [Travel Budget Guide](/en/blog/travel-savings-budget-planning/) for concrete numbers to help frame a realistic group budget.
 
 ## How Do You Plan the Day Without Everyone Being Unhappy?
 
@@ -46,7 +46,7 @@ For advance planning, a shared Google Doc works well. Not overly detailed. No mi
 
 A practical tip from experience: not every activity has to be done together. One person goes to the museum. Two go to the beach. Everyone meets for dinner. That's not the group trip failing. That's a good sign.
 
-The article on [avoiding common travel mistakes](/en/blog/travel-mistakes-avoid-common) is worth reading before your next group trip.
+The article on [avoiding common travel mistakes](/en/blog/travel-mistakes-avoid-common/) is worth reading before your next group trip.
 
 ## Which Travel Types Work Best with Friends?
 
@@ -60,7 +60,7 @@ Not every travel format is equally group-friendly.
 
 **Trekking trips.** Difficult. The pace has to match. Different fitness levels become a problem fast. Whoever walks slower feels like a burden. Whoever walks faster waits in frustration.
 
-The [Group Travel Planning Guide](/en/blog/group-travel-tips-guide) covers logistics and tools in more detail if you're organizing a bigger group.
+The [Group Travel Planning Guide](/en/blog/group-travel-tips-guide/) covers logistics and tools in more detail if you're organizing a bigger group.
 
 ## When Should You Book Separate Rooms?
 
@@ -72,7 +72,7 @@ Alternative: rent a vacation apartment instead of hotel rooms. Everyone has thei
 
 The Golden Rule of group travel: **five to six people maximum.** From seven onward, every decision becomes a vote. Waiting for the group becomes a full-time job. Restaurants with spontaneous seating for seven people are rare. Logistics eat the joy.
 
-Curious about which European cities are easiest for group travel? The [weekend getaways in Europe guide](/en/blog/weekend-getaways-europe-best) has the best bets for groups of four to six.
+Curious about which European cities are easiest for group travel? The [weekend getaways in Europe guide](/en/blog/weekend-getaways-europe-best/) has the best bets for groups of four to six.
 
 ---
 
@@ -99,6 +99,6 @@ Take a short break. Separate for a few hours. Everyone goes their own way for a 
 ---
 
 **Read more:**
-- [Group Travel Tips: The Complete Guide](/en/blog/group-travel-tips-guide)
-- [Weekend Getaways in Europe: Best Destinations](/en/blog/weekend-getaways-europe-best)
-- [Travel Mistakes Almost Everyone Makes](/en/blog/travel-mistakes-avoid-common)
+- [Group Travel Tips: The Complete Guide](/en/blog/group-travel-tips-guide/)
+- [Weekend Getaways in Europe: Best Destinations](/en/blog/weekend-getaways-europe-best/)
+- [Travel Mistakes Almost Everyone Makes](/en/blog/travel-mistakes-avoid-common/)

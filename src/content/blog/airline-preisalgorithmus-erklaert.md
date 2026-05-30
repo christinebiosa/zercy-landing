@@ -36,7 +36,7 @@ Die Realität: Der Preis ändert sich, weil Buchungsklassen ausverkauft werden. 
 
 Inkognito-Modus schadet nicht. Aber er hilft auch nicht. Du siehst denselben Preis, den auch jeder andere gerade sieht.
 
-Ausführlicher zu Buchungsstrategien: [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen)
+Ausführlicher zu Buchungsstrategien: [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen/)
 
 ## Warum kostet derselbe Flug auf 5 Plattformen 5 verschiedene Preise?
 
@@ -46,7 +46,7 @@ Lange Antwort: Airlines verteilen ihre Buchungsklassen-Kontingente nicht gleichm
 
 Das Ergebnis: Du siehst auf Google Flights 510 Euro, auf der Airline-Website 490 Euro, auf Kayak 535 Euro, auf Expedia 505 Euro und auf einer No-Name-Seite 520 Euro. Gleicher Flug. Gleicher Tag. Fünf Preise.
 
-Mehr zu Suchtricks: [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026)
+Mehr zu Suchtricks: [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026/)
 
 ## Wann sind die günstigsten Buchungsklassen verfügbar?
 
@@ -60,7 +60,7 @@ Faustregeln gibt es. Sie gelten nicht immer, aber oft.
 
 3 Tage vor Abflug: Fast immer teuerste Klassen. Business Traveller zahlen das gerne, weil sie kurzfristig buchen müssen. Airlines rechnen damit.
 
-Für strategisches Buchen lohnt sich ein Blick auf [Open Jaw Tickets als Reise-Hack](/blog/open-jaw-tickets-reise-hack). Manchmal ist ein ungewöhnliches Streckenkonzept günstiger als der Direktflug.
+Für strategisches Buchen lohnt sich ein Blick auf [Open Jaw Tickets als Reise-Hack](/blog/open-jaw-tickets-reise-hack/). Manchmal ist ein ungewöhnliches Streckenkonzept günstiger als der Direktflug.
 
 ## Wie kannst du die Logik der Buchungsklassen nutzen?
 
@@ -70,7 +70,7 @@ Preisalarme helfen. Google Flights zeigt dir, ob ein Preis gerade niedrig oder h
 
 Ein Trick, den wenige kennen: Manche Airlines veröffentlichen ihre günstigsten Klassen nur auf dem Direktkanal. Es lohnt sich also, nach dem Preisvergleich nochmal direkt auf der Airline-Website nachzuschauen. Oft sind die Gebühren dort niedriger, manchmal ist die Buchungsklasse sogar eine Stufe günstiger.
 
-Mehr Tipps: [Günstig fliegen: Was Vielflieger wissen](/blog/guenstig-fliegen-tipps)
+Mehr Tipps: [Günstig fliegen: Was Vielflieger wissen](/blog/guenstig-fliegen-tipps/)
 
 ---
 
@@ -98,6 +98,6 @@ Airlines verteilen ihre Buchungsklassen-Kontingente unterschiedlich auf Direktka
 
 ## Mehr lesen
 
-- [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026)
-- [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen)
-- [Günstig fliegen: Was Vielflieger wissen](/blog/guenstig-fliegen-tipps)
+- [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026/)
+- [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen/)
+- [Günstig fliegen: Was Vielflieger wissen](/blog/guenstig-fliegen-tipps/)

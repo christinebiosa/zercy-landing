@@ -27,7 +27,7 @@ Am Nachmittag: **Chinatown (Yaowarat Road)**. Mit dem Tuk-Tuk oder per MRT-Skytr
 
 Abend: **Rooftop Bar**. Lebua at State Tower ist berühmt als Drehort von "The Hangover Part II". Der Sirocco-Rooftop ist echtes Spektakel. Mindestbestellung gibt es, ein Cocktail kostet 600 bis 900 Baht. Das ist kein Budget-Move. Aber einmal lohnt es sich. Alternative: **Octave Rooftop Lounge** im Marriott Sukhumvit, 45. Stock, weniger berühmt, ähnliche Aussicht, etwas günstiger. Danach Silom Night Life oder einfach Nudelsuppe vom Straßenstand um Mitternacht. Beides ist Bangkok.
 
-Für Unterkunfts-Empfehlungen nach Viertel schau in den Artikel [Wo übernachten in Bangkok](/blog/wo-uebernachten-bangkok).
+Für Unterkunfts-Empfehlungen nach Viertel schau in den Artikel [Wo übernachten in Bangkok](/blog/wo-uebernachten-bangkok/).
 
 ## Was macht Tag 2 in Bangkok besonders?
 
@@ -45,7 +45,7 @@ Bangkok ist günstiger als du denkst. Ein Straßenessen kostet 50 bis 120 Baht (
 
 MRT (U-Bahn) und BTS Skytrain sind das Rückgrat des Nahverkehrs. Beide zusammen decken weite Teile der Stadt ab. Eine Fahrt kostet 16 bis 44 Baht je nach Distanz. Rabbit Card oder Touristenkarte kaufen, damit sparst du Zeit und ein wenig Geld.
 
-Budget-Richtwert für 48 Stunden ohne Flug und Unterkunft: 60 bis 120 Euro pro Person. Wer eine Rooftop-Bar und ein Museum einkalkuliert, liegt bei 150 Euro. Für Backpacking-Tipps zu ganz Südostasien gibt es den Artikel [Südostasien-Budgetreisen](/blog/suedostasien-budget-reisen).
+Budget-Richtwert für 48 Stunden ohne Flug und Unterkunft: 60 bis 120 Euro pro Person. Wer eine Rooftop-Bar und ein Museum einkalkuliert, liegt bei 150 Euro. Für Backpacking-Tipps zu ganz Südostasien gibt es den Artikel [Südostasien-Budgetreisen](/blog/suedostasien-budget-reisen/).
 
 ## Welcher Abend lohnt sich mehr: Nana Plaza oder Asiatique?
 
@@ -80,6 +80,6 @@ Thailändischer Baht (THB). Kreditkarten werden in größeren Restaurants, Hotel
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bangkok: Beste Viertel 2026](/blog/wo-uebernachten-bangkok)
-- [Thailand 2-Wochen-Route: Der komplette Roadtrip](/blog/thailand-2-wochen-route)
-- [Südostasien auf kleinem Budget: So geht's wirklich](/blog/suedostasien-budget-reisen)
+- [Wo übernachten in Bangkok: Beste Viertel 2026](/blog/wo-uebernachten-bangkok/)
+- [Thailand 2-Wochen-Route: Der komplette Roadtrip](/blog/thailand-2-wochen-route/)
+- [Südostasien auf kleinem Budget: So geht's wirklich](/blog/suedostasien-budget-reisen/)

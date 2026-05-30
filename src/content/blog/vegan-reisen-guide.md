@@ -86,6 +86,6 @@ In Deutschland: Rewe, Edeka (Eigenmarke "ja! vegan"), dm (vegane Eigenmarken). U
 
 ## Mehr lesen
 
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Backpacking Einsteiger: Erste Rucksackreise planen](/blog/backpacking-einsteiger-guide)
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Backpacking Einsteiger: Erste Rucksackreise planen](/blog/backpacking-einsteiger-guide/)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)

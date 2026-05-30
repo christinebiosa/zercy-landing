@@ -77,7 +77,7 @@ Am Lykavittos-Hügel, Athens Beverly Hills mit Designer-Shops auf der Voukourest
 
 **Top-Picks:** Hotel Grande Bretagne (legendäres 5-Sterne seit 1874, mit Akropolis-Pool-Blick), Hotel St. George Lycabettus (klassisch premium), Hilton Athens (modernes 5-Sterne mit Pool).
 
-Lies dazu auch unseren [Kreuzfahrt-Verlängerungs-Guide](/blog/kreuzfahrt-staedte-verlaengern), Athen ist ein Top-Kreuzfahrt-Hub.
+Lies dazu auch unseren [Kreuzfahrt-Verlängerungs-Guide](/blog/kreuzfahrt-staedte-verlaengern/), Athen ist ein Top-Kreuzfahrt-Hub.
 
 ## Kifissia: Familie-Athen
 
@@ -128,6 +128,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel in Monastiraki, Gyros-Tav
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Rom: Die 5 Stadtteile](/blog/wo-uebernachten-rom)
-- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon)
-- [Kreuzfahrt-Städte verlängern: Wie es funktioniert](/blog/kreuzfahrt-staedte-verlaengern)
+- [Wo übernachten in Rom: Die 5 Stadtteile](/blog/wo-uebernachten-rom/)
+- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon/)
+- [Kreuzfahrt-Städte verlängern: Wie es funktioniert](/blog/kreuzfahrt-staedte-verlaengern/)

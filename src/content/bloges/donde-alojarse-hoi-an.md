@@ -53,7 +53,7 @@ La [Organización Patrimonio Mundial de Hoi An](https://hoianworldheritage.org.v
 
 De febrero a abril es el momento ideal: seco, temperaturas agradables alrededor de 25 °C y casi sin lluvia. Octubre y noviembre es época de lluvias. Hoi An inunda con regularidad, especialmente las partes más bajas de la Ciudad Antigua. Diciembre a enero es seco pero es temporada alta con los precios más altos. Si puedes elegir, marzo es perfecto.
 
-Las combinaciones valen la pena: Hoi An está entre el aeropuerto de Da Nang (30 minutos) y Hue (2 horas en bus). Lee nuestra [guía de Vietnam en 2 semanas](/es/blog/vietnam-2-semanas-ruta) para la mejor ruta por el centro del país.
+Las combinaciones valen la pena: Hoi An está entre el aeropuerto de Da Nang (30 minutos) y Hue (2 horas en bus). Lee nuestra [guía de Vietnam en 2 semanas](/es/blog/vietnam-2-semanas-ruta/) para la mejor ruta por el centro del país.
 
 ## Playa An Bang: Arena más Ciudad Antigua
 
@@ -75,7 +75,7 @@ Si quieres vivir la experiencia de las sastrerías: hay más de 400 en la Ciudad
 
 **Cam Thanh** está al oeste, rodeado de arrozales. Eco-lodges y cabañas de bambú, paz total. La experiencia de los botes cesta (Coconut Basket Boats) es más auténtica y barata aquí que en la Ciudad Antigua. **Mejores opciones:** Hoi An Eco Lodge (arquitectura de bambú, vistas al arrozal), An Bang Eco Lodge (eco económico, bicicletas incluidas).
 
-Si vas a continuar hacia el sur después de Hoi An: [dónde alojarse en Ho Chi Minh](/es/blog/donde-alojarse-ho-chi-minh) y [dónde alojarse en Hanoi](/es/blog/donde-alojarse-hanoi) son las paradas lógicas siguientes.
+Si vas a continuar hacia el sur después de Hoi An: [dónde alojarse en Ho Chi Minh](/es/blog/donde-alojarse-ho-chi-minh/) y [dónde alojarse en Hanoi](/es/blog/donde-alojarse-hanoi/) son las paradas lógicas siguientes.
 
 ## ¿Dónde conviene reservar?
 
@@ -113,6 +113,6 @@ El Festival de Linternas de Hoi An se celebra cada mes en el día 14 del calenda
 ---
 
 **Seguir leyendo:**
-- [Dónde alojarse en Hanoi: Los 5 barrios](/es/blog/donde-alojarse-hanoi)
-- [Vietnam en 2 semanas: La mejor ruta](/es/blog/vietnam-2-semanas-ruta)
-- [Dónde alojarse en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok)
+- [Dónde alojarse en Hanoi: Los 5 barrios](/es/blog/donde-alojarse-hanoi/)
+- [Vietnam en 2 semanas: La mejor ruta](/es/blog/vietnam-2-semanas-ruta/)
+- [Dónde alojarse en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok/)

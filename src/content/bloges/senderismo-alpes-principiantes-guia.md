@@ -114,6 +114,6 @@ komoot es la más usada en la región DACH y tiene los mapas más detallados par
 ---
 
 **Leer más:**
-- [Las mejores rutas de senderismo del mundo: Top 8 rutas](/es/blog/mejores-rutas-senderismo-mundo)
-- [Suiza: Guía de viaje 2026](/es/blog/suiza-guia-viaje-2026)
-- [Dónde alojarse en Salzburgo: Los 5 barrios](/es/blog/donde-alojarse-salzburgo)
+- [Las mejores rutas de senderismo del mundo: Top 8 rutas](/es/blog/mejores-rutas-senderismo-mundo/)
+- [Suiza: Guía de viaje 2026](/es/blog/suiza-guia-viaje-2026/)
+- [Dónde alojarse en Salzburgo: Los 5 barrios](/es/blog/donde-alojarse-salzburgo/)

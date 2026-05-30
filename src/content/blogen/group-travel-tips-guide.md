@@ -38,7 +38,7 @@ Create a simple Google Form with three fields: minimum budget, target budget, ma
 
 A realistic reference for a 7-night European group trip: around $700 to $1,400 per person, depending on destination and standard. That covers flights, accommodation, and daily meals. Activities are separate.
 
-For a deeper look at managing travel costs, this guide helps: [Travel Savings and Budget Planning](/en/blog/travel-savings-budget-planning).
+For a deeper look at managing travel costs, this guide helps: [Travel Savings and Budget Planning](/en/blog/travel-savings-budget-planning/).
 
 ## What decision-making method works best for groups?
 
@@ -60,7 +60,7 @@ Hotel group rates typically start at 10 rooms. That's 20 people in double rooms.
 
 Flights are more complicated. Airlines often separate group reservations above 10 passengers into dedicated booking systems with separate pricing. These rates can be lower than individual tickets, or sometimes higher. Always compare both.
 
-Important: group discounts usually require early booking. Three to six months ahead is a common minimum. This article explains when to book for the best prices: [When to Book Flights](/en/blog/when-to-book-flights).
+Important: group discounts usually require early booking. Three to six months ahead is a common minimum. This article explains when to book for the best prices: [When to Book Flights](/en/blog/when-to-book-flights/).
 
 ## How do you divide responsibilities in a travel group?
 
@@ -78,7 +78,7 @@ This doesn't mean only three people do anything. It means three people are accou
 
 One more note: not everyone needs to do the same thing. A flexible structure works better than a rigid one. Shared hotel, shared breakfasts, free evenings. People with different travel styles can still travel together successfully.
 
-For tools that help manage all of this, check out: [Best Travel Apps 2026](/en/blog/best-travel-apps-2026).
+For tools that help manage all of this, check out: [Best Travel Apps 2026](/en/blog/best-travel-apps-2026/).
 
 ## What goes wrong most often on group trips?
 
@@ -90,7 +90,7 @@ Honest answer: punctuality, food stress, and activity disagreements. In that ord
 
 **Activity conflicts:** Some people want museums. Others want beach days. This isn't a group failure, it's completely normal. Build in free half-days. That way everyone can do what they want without anyone feeling like they sacrificed something.
 
-More on the mistakes that derail travel plans: [Common Travel Mistakes to Avoid](/en/blog/travel-mistakes-avoid-common).
+More on the mistakes that derail travel plans: [Common Travel Mistakes to Avoid](/en/blog/travel-mistakes-avoid-common/).
 
 ---
 
@@ -99,9 +99,9 @@ More on the mistakes that derail travel plans: [Common Travel Mistakes to Avoid]
 ---
 
 **Read more:**
-- [Common Travel Mistakes to Avoid](/en/blog/travel-mistakes-avoid-common)
-- [Travel Savings and Budget Planning](/en/blog/travel-savings-budget-planning)
-- [Best Travel Apps 2026](/en/blog/best-travel-apps-2026)
+- [Common Travel Mistakes to Avoid](/en/blog/travel-mistakes-avoid-common/)
+- [Travel Savings and Budget Planning](/en/blog/travel-savings-budget-planning/)
+- [Best Travel Apps 2026](/en/blog/best-travel-apps-2026/)
 
 ---
 

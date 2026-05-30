@@ -53,7 +53,7 @@ Innsbruck has two main seasons with golden opportunities in between. Winter (Dec
 
 **December:** Christkindlmarkt in front of the Golden Roof, one of Tyrol's finest.
 
-Innsbruck is a natural stop on any [Switzerland trip](/en/blog/switzerland-travel-highlights) or Alpine route. For a broader look at [European winter city breaks](/en/blog/european-cities-winter-guide), it consistently ranks at the top.
+Innsbruck is a natural stop on any [Switzerland trip](/en/blog/switzerland-travel-highlights/) or Alpine route. For a broader look at [European winter city breaks](/en/blog/european-cities-winter-guide/), it consistently ranks at the top.
 
 ## Pradl: Budget-Friendly and Practical
 
@@ -75,7 +75,7 @@ South of the Old Town, centered on Stift Wilten monastery. Quieter than the cent
 
 **Top picks:** Hotel Bierwirt (local, family-run), Pension Stoi (authentically Tyrolean), Hotel Maximilian.
 
-Innsbruck connects easily to the rest of the Alps via the Brenner motorway and train station, making it an ideal base for the [Scandinavia road trip route](/en/blog/scandinavia-road-trip-route) if you're building a broader Alpine itinerary.
+Innsbruck connects easily to the rest of the Alps via the Brenner motorway and train station, making it an ideal base for the [Scandinavia road trip route](/en/blog/scandinavia-road-trip-route/) if you're building a broader Alpine itinerary.
 
 ## Where Should You Book in the End?
 
@@ -112,6 +112,6 @@ The Golden Roof with Stadtturm views, the Nordkette cable car ride, Hofburg and 
 ---
 
 ## Read more
-- [Where to Stay in Salzburg: Old Town or Beyond?](/en/blog/where-to-stay-salzburg)
-- [European Cities in Winter: Best Destinations](/en/blog/european-cities-winter-guide)
-- [Switzerland Travel Highlights: Complete Guide](/en/blog/switzerland-travel-highlights)
+- [Where to Stay in Salzburg: Old Town or Beyond?](/en/blog/where-to-stay-salzburg/)
+- [European Cities in Winter: Best Destinations](/en/blog/european-cities-winter-guide/)
+- [Switzerland Travel Highlights: Complete Guide](/en/blog/switzerland-travel-highlights/)

@@ -46,13 +46,13 @@ The uncomfortable truth: not flying is always better than flying plus offsetting
 
 Fly less is the first. One longer trip per year instead of three weekend trips. Direct flights instead of connections (takeoff and landing account for 25 percent of emissions).
 
-Take [European night trains](/en/blog/night-trains-europe-2026) instead of flying is the second. A night train from Berlin to Vienna saves 90 percent CO2 compared to flying.
+Take [European night trains](/en/blog/night-trains-europe-2026/) instead of flying is the second. A night train from Berlin to Vienna saves 90 percent CO2 compared to flying.
 
 Daytime instead of night flights is the third. Studies show: night flights have stronger climate impact through contrails. Daytime emissions act differently.
 
 Economy instead of business is the fourth. Sounds unpleasant, but a business class seat carries about 3 times the CO2 share per person versus economy. The effect is real.
 
-See [train travel in Europe](/en/blog/train-travel-europe) for concrete alternatives.
+See [train travel in Europe](/en/blog/train-travel-europe/) for concrete alternatives.
 
 ## When does offsetting actually make sense?
 
@@ -64,7 +64,7 @@ You choose a serious provider. Atmosfair and MyClimate are the only ones with co
 
 You understand it's only part of the solution. Offsetting doesn't replace reduction. It's damage control, not climate neutrality.
 
-The [European Environment Agency](https://www.eea.europa.eu/themes/climate) publishes detailed guidance on evaluating offset providers. If you want AI tools to help with the climate question, see [how AI is changing travel planning](/en/blog/ai-changing-travel-planning).
+The [European Environment Agency](https://www.eea.europa.eu/themes/climate) publishes detailed guidance on evaluating offset providers. If you want AI tools to help with the climate question, see [how AI is changing travel planning](/en/blog/ai-changing-travel-planning/).
 
 ---
 
@@ -91,6 +91,6 @@ When the provider names no concrete projects, discloses no calculation basis, or
 ---
 
 **Read more:**
-- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026)
-- [Train travel in Europe: routes, tips and apps](/en/blog/train-travel-europe)
-- [How AI is changing travel planning](/en/blog/ai-changing-travel-planning)
+- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026/)
+- [Train travel in Europe: routes, tips and apps](/en/blog/train-travel-europe/)
+- [How AI is changing travel planning](/en/blog/ai-changing-travel-planning/)

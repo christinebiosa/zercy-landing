@@ -32,7 +32,7 @@ A concrete example: Frankfurt to Bangkok in business class. Departing Frankfurt:
 
 Istanbul is another hidden gem. Turkish Airlines offers excellent business class fares from Istanbul to Asia, Africa, and South America. Often 40 percent below Central European prices.
 
-This works because airfares are not calculated by distance. They are calculated by market logic. Understanding that principle [changes how you book every flight](/en/blog/cheap-flights-tips).
+This works because airfares are not calculated by distance. They are calculated by market logic. Understanding that principle [changes how you book every flight](/en/blog/cheap-flights-tips/).
 
 ## Positioning Flights: Fly Cheap to the Cheap Hub
 
@@ -58,7 +58,7 @@ August (peak season): around 2,400 euros. September (shoulder season): around 1,
 
 [Google Flights](https://google.com/travel/flights) has a price calendar feature. Select business class as cabin, enter your route, and click "Flexible dates." You immediately see which months are cheapest.
 
-Weekdays matter too. Tuesday through Thursday is almost always cheaper than Friday through Sunday. Flexibility on dates is how you unlock the best deals. More on timing in our guide about [when to book flights for the lowest prices](/en/blog/when-to-book-flights).
+Weekdays matter too. Tuesday through Thursday is almost always cheaper than Friday through Sunday. Flexibility on dates is how you unlock the best deals. More on timing in our guide about [when to book flights for the lowest prices](/en/blog/when-to-book-flights/).
 
 ## Flash Sales: Friday Through Sunday Windows
 
@@ -98,4 +98,4 @@ A positioning flight is a cheap feeder flight to a hub where the actual business
 
 Madrid, Lisbon, and Istanbul are consistently the three cheapest departure points for business class from Europe. Istanbul offers particularly strong pricing to Asia and Africa via Turkish Airlines. Madrid is excellent for South America routes on Iberia. The price gap compared to Frankfurt, Zurich, or London regularly sits at 30 to 50 percent.
 
-**Read more:** [Cheap Flights: 11 Tips That Actually Work](/en/blog/cheap-flights-tips) · [7 Airport Hacks for Stress-Free Travel](/en/blog/airport-hacks) · [Carry-On Only: Travel Lighter, Stress Less](/en/blog/carry-on-only)
+**Read more:** [Cheap Flights: 11 Tips That Actually Work](/en/blog/cheap-flights-tips/) · [7 Airport Hacks for Stress-Free Travel](/en/blog/airport-hacks/) · [Carry-On Only: Travel Lighter, Stress Less](/en/blog/carry-on-only/)

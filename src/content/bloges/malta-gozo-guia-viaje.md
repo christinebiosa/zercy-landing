@@ -72,6 +72,6 @@ Temprano por la mañana antes de las 9h o después de las 15h cuando los barcos 
 ---
 
 **Más sobre viajes:**
-- [Eslovenia: El Secreto Verde de Europa 2026](/es/blog/eslovenia-secreto-verde-2026)
-- [Joyas Ocultas de Europa](/es/blog/joyas-ocultas-europa)
-- [Lista de Equipaje para el Viaje: Lo Que Realmente Necesitas](/es/blog/lista-equipaje-viaje-esencial)
+- [Eslovenia: El Secreto Verde de Europa 2026](/es/blog/eslovenia-secreto-verde-2026/)
+- [Joyas Ocultas de Europa](/es/blog/joyas-ocultas-europa/)
+- [Lista de Equipaje para el Viaje: Lo Que Realmente Necesitas](/es/blog/lista-equipaje-viaje-esencial/)

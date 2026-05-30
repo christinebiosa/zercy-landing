@@ -43,7 +43,7 @@ Fußweg zur Altstadt: 15 Minuten oder 5 Minuten mit der Straßenbahn.
 - **Hotel Tournet Kazimierz:** Günstiger Einstieg ins Viertel. Einfach, sauber, gute Lage.
 - **Boutique Apartments Kazimierz:** Airbnb und Booking bieten Dutzende umgebaute Synagogengebäude als Wohnungen an. Einzigartige Atmosphäre.
 
-Wer Krakau historisch durchleuchten will, schaut sich auch unseren Artikel zu [Nachtzügen in Europa](/blog/nachtzuege-europa-2026) an, Krakau ist ein idealer Nachtzug-Stopp auf der Route Wien-Warschau.
+Wer Krakau historisch durchleuchten will, schaut sich auch unseren Artikel zu [Nachtzügen in Europa](/blog/nachtzuege-europa-2026/) an, Krakau ist ein idealer Nachtzug-Stopp auf der Route Wien-Warschau.
 
 ## Wann ist die beste Reisezeit für Krakau?
 
@@ -104,6 +104,6 @@ Mittelklasse-Hotels in Stare Miasto: 80 bis 130 Euro. In Kazimierz: 60 bis 100 E
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Wien: Die besten Viertel](/blog/wo-uebernachten-wien)
-- [Wo übernachten in Prag: 5 Viertel im Vergleich](/blog/wo-uebernachten-prag)
-- [Nachtzüge Europa 2026: Die vollständige Übersicht](/blog/nachtzuege-europa-2026)
+- [Wo übernachten in Wien: Die besten Viertel](/blog/wo-uebernachten-wien/)
+- [Wo übernachten in Prag: 5 Viertel im Vergleich](/blog/wo-uebernachten-prag/)
+- [Nachtzüge Europa 2026: Die vollständige Übersicht](/blog/nachtzuege-europa-2026/)

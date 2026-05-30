@@ -47,7 +47,7 @@ Colonial Cebu at its most unfiltered. This is where Magellan's Cross stands, whe
 
 **Top picks:** Quest Hotel and Conference Center (solid mid-range), Harolds Hotel Cebu (classic, central location), The Henry Hotel Cebu (boutique with colonial character, near the heritage district).
 
-If you're new to the Philippines, our [Philippines Travel Guide](/en/blog/philippines-travel-guide-highlights) covers the islands, logistics, and what to plan first. Cebu makes the ideal entry point.
+If you're new to the Philippines, our [Philippines Travel Guide](/en/blog/philippines-travel-guide-highlights/) covers the islands, logistics, and what to plan first. Cebu makes the ideal entry point.
 
 ## When Is the Best Time to Visit Cebu?
 
@@ -57,7 +57,7 @@ Dry season runs January through May, peak travel March through May. Diving condi
 
 Mactan is not Cebu City. A bridge connects the two. The international airport sits here, and right alongside it: the resort strip of Punta Engaño and Mactan Newtown. Calmer. Less urban. The water is warm, the reefs are a short walk from the sand.
 
-**Who belongs here:** Beach travelers, divers, snorkelers, anyone who wants to step off the plane and into the water. An excellent base for [diving and snorkeling at top destinations](/en/blog/diving-snorkeling-destinations) including Malapascua's thresher sharks and Moalboal's sardine run.
+**Who belongs here:** Beach travelers, divers, snorkelers, anyone who wants to step off the plane and into the water. An excellent base for [diving and snorkeling at top destinations](/en/blog/diving-snorkeling-destinations/) including Malapascua's thresher sharks and Moalboal's sardine run.
 
 **Prices:** Mid-range resorts 65-160 USD, premium resorts 220-500 USD, luxury 550-1,300 USD.
 
@@ -73,7 +73,7 @@ North of Cebu City proper. Less tourist-facing, local markets, light industrial 
 
 **Top picks:** Waterfront Airport Hotel (mid-range, airport-convenient), budget guesthouses near SM Mandaue for longer stays.
 
-For tips on keeping costs down across the region, check our [Southeast Asia Budget Travel guide](/en/blog/southeast-asia-budget-travel).
+For tips on keeping costs down across the region, check our [Southeast Asia Budget Travel guide](/en/blog/southeast-asia-budget-travel/).
 
 ## South Road Properties: Modern Cebu
 
@@ -122,6 +122,6 @@ Magellan's Cross and the Basilica del Santo Niño in Downtown, the Carbon Market
 ---
 
 **Read more:**
-- [Philippines Travel Guide: Islands, Diving, Highlights](/en/blog/philippines-travel-guide-highlights)
-- [Diving and Snorkeling Destinations Worldwide](/en/blog/diving-snorkeling-destinations)
-- [Southeast Asia on a Budget: Travel Tips for the Region](/en/blog/southeast-asia-budget-travel)
+- [Philippines Travel Guide: Islands, Diving, Highlights](/en/blog/philippines-travel-guide-highlights/)
+- [Diving and Snorkeling Destinations Worldwide](/en/blog/diving-snorkeling-destinations/)
+- [Southeast Asia on a Budget: Travel Tips for the Region](/en/blog/southeast-asia-budget-travel/)

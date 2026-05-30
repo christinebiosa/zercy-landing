@@ -82,6 +82,6 @@ Many African and South American countries require proof of yellow fever vaccinat
 
 ## Read more
 
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials)
-- [Australia Road Trip Route: Practical Guide](/en/blog/australia-road-trip-route)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials/)
+- [Australia Road Trip Route: Practical Guide](/en/blog/australia-road-trip-route/)

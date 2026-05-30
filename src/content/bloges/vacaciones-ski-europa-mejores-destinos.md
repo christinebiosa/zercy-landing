@@ -99,6 +99,6 @@ Las mejores condiciones de nieve son entre mediados de enero y finales de marzo.
 ---
 
 **Leer más:**
-- [Joyas ocultas de Europa: destinos que todavía no están masificados](/es/blog/joyas-ocultas-europa)
-- [Trenes nocturnos en Europa 2026: la alternativa al vuelo](/es/blog/trenes-nocturnos-europa-2026)
-- [Dónde alojarse en Cracovia: la ciudad perfecta antes o después de los Alpes](/es/blog/donde-alojarse-cracovia)
+- [Joyas ocultas de Europa: destinos que todavía no están masificados](/es/blog/joyas-ocultas-europa/)
+- [Trenes nocturnos en Europa 2026: la alternativa al vuelo](/es/blog/trenes-nocturnos-europa-2026/)
+- [Dónde alojarse en Cracovia: la ciudad perfecta antes o después de los Alpes](/es/blog/donde-alojarse-cracovia/)

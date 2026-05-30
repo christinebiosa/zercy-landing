@@ -78,6 +78,6 @@ Ambas funcionan bien para familias. Booking.com tiene más aparthoteles con infr
 ---
 
 **Más para leer:**
-- [¿Vale la pena Booking Genius? Análisis de los 3 niveles](/es/blog/booking-genius-vale-la-pena)
-- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini)
-- [Dónde alojarse en Florencia: Centro histórico u Oltrarno](/es/blog/donde-alojarse-florencia)
+- [¿Vale la pena Booking Genius? Análisis de los 3 niveles](/es/blog/booking-genius-vale-la-pena/)
+- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini/)
+- [Dónde alojarse en Florencia: Centro histórico u Oltrarno](/es/blog/donde-alojarse-florencia/)

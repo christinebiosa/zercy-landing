@@ -66,6 +66,6 @@ Gulyás (sopa de guiso, no lo que imaginamos generalmente), Halászlé (sopa de 
 ---
 
 **Más sobre Europa Central:**
-- [Balcanes Road Trip Ruta](/es/blog/balcanes-road-trip-ruta)
-- [Eslovenia: El Secreto Verde de Europa 2026](/es/blog/eslovenia-secreto-verde-2026)
-- [Lista de Equipaje para el Viaje: Lo Esencial](/es/blog/lista-equipaje-viaje-esencial)
+- [Balcanes Road Trip Ruta](/es/blog/balcanes-road-trip-ruta/)
+- [Eslovenia: El Secreto Verde de Europa 2026](/es/blog/eslovenia-secreto-verde-2026/)
+- [Lista de Equipaje para el Viaje: Lo Esencial](/es/blog/lista-equipaje-viaje-esencial/)

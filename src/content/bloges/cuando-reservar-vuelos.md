@@ -97,6 +97,6 @@ La variabilidad puede ser enorme. En rutas populares con temporada marcada, el m
 ---
 
 **Más para leer:**
-- [Cómo encontrar vuelos baratos: estrategias que funcionan](/es/blog/consejos-vuelos-baratos)
-- [Open-jaw tickets: el truco para volar más barato y ver más](/es/blog/open-jaw-tickets-truco-viaje)
-- [Tren vs avión en Europa: cuándo sale a cuenta cada opción](/es/blog/tren-vs-avion-europa-2026)
+- [Cómo encontrar vuelos baratos: estrategias que funcionan](/es/blog/consejos-vuelos-baratos/)
+- [Open-jaw tickets: el truco para volar más barato y ver más](/es/blog/open-jaw-tickets-truco-viaje/)
+- [Tren vs avión en Europa: cuándo sale a cuenta cada opción](/es/blog/tren-vs-avion-europa-2026/)

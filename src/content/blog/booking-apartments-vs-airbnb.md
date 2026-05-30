@@ -78,6 +78,6 @@ Beide funktionieren gut für Familien. Booking.com hat mehr Aparthotels mit Hote
 ---
 
 **Mehr lesen:**
-- [Booking Genius: Lohnt sich das Treueprogramm?](/blog/booking-genius-programm-lohnt-es-sich)
-- [Wo übernachten in Istanbul: Sultanahmet oder Beyoğlu?](/blog/wo-uebernachten-istanbul)
-- [Mietwagen: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden)
+- [Booking Genius: Lohnt sich das Treueprogramm?](/blog/booking-genius-programm-lohnt-es-sich/)
+- [Wo übernachten in Istanbul: Sultanahmet oder Beyoğlu?](/blog/wo-uebernachten-istanbul/)
+- [Mietwagen: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden/)

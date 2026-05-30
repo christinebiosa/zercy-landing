@@ -18,7 +18,7 @@ Ein Positioning Flight ist ein Zubringerflug, den du selbst organisierst, um an 
 
 Der Begriff kommt aus der Luftfahrt. Airlines "positionieren" ihr Crewpersonal mit Leerflügen zu bestimmten Hubs. Für Reisende bedeutet er dasselbe Prinzip: erst zum richtigen Startpunkt kommen, dann losfliegen.
 
-Das Konzept ist verwandt mit [Ex-EU-Routing](/blog/ex-eu-routing-guenstiger-fliegen), bei dem du gezielt von einem europäischen Flughafen startest, weil die Tickets von dort billiger sind als aus Deutschland. Der Unterschied: Beim Positioning Flight kommst du von Deutschland aus zu diesem Hub.
+Das Konzept ist verwandt mit [Ex-EU-Routing](/blog/ex-eu-routing-guenstiger-fliegen/), bei dem du gezielt von einem europäischen Flughafen startest, weil die Tickets von dort billiger sind als aus Deutschland. Der Unterschied: Beim Positioning Flight kommst du von Deutschland aus zu diesem Hub.
 
 ## Wann lohnt sich ein Positioning Flight wirklich?
 
@@ -36,7 +36,7 @@ Berlin nach Zürich (ab 60 Euro, auch Bahn möglich) plus Zürich nach Los Angel
 
 Der Zubringer kostet 180 Euro und spart dir am Ende nur 100 Euro. Dann machst du Verlust. Außerdem musst du Zeit einplanen: Zwei separate Flüge bedeuten mehr Wartezeit am Flughafen, früher aufstehen und länger reisen.
 
-Lies dazu auch [wann du Flüge buchen solltest](/blog/wann-fluege-buchen), weil Timing den Preisunterschied zwischen Hub und Heimatflughafen stark beeinflusst.
+Lies dazu auch [wann du Flüge buchen solltest](/blog/wann-fluege-buchen/), weil Timing den Preisunterschied zwischen Hub und Heimatflughafen stark beeinflusst.
 
 ## Wie kalkulierst du einen Positioning Flight richtig?
 
@@ -73,11 +73,11 @@ Deshalb diese Regeln:
 
 Zum Thema Gepäck: Bei vielen Kombinationen musst du am Hub das Gepäck neu aufgeben. Das kostet Zeit und manchmal Geld. Immer im Voraus klären.
 
-Weitere Sicherheitstipps rund ums Fliegen findest du in unserem [Airport Hacks Artikel](/blog/airport-hacks).
+Weitere Sicherheitstipps rund ums Fliegen findest du in unserem [Airport Hacks Artikel](/blog/airport-hacks/).
 
 ## Welche Hubs lohnen sich als Zubringerziel?
 
-Wichtiger Hinweis zuerst: Ein Flug mit Umstieg auf einem einzigen Ticket ist kein Positioning Flight. Dabei ist die Airline für den Anschluss verantwortlich. Der Positioning Flight entsteht, wenn du bewusst einen separaten Zubringer buchst. Ähnliches Prinzip wie bei [Open-Jaw Tickets](/blog/open-jaw-tickets-reise-hack): kreativer Buchen, aber mehr Eigenverantwortung.
+Wichtiger Hinweis zuerst: Ein Flug mit Umstieg auf einem einzigen Ticket ist kein Positioning Flight. Dabei ist die Airline für den Anschluss verantwortlich. Der Positioning Flight entsteht, wenn du bewusst einen separaten Zubringer buchst. Ähnliches Prinzip wie bei [Open-Jaw Tickets](/blog/open-jaw-tickets-reise-hack/): kreativer Buchen, aber mehr Eigenverantwortung.
 
 Die Hubs, die sich regelmäßig lohnen:
 
@@ -111,8 +111,8 @@ Bei getrennten Buchungen bist du selbst dafür verantwortlich, den Anschluss zu 
 
 ### Wie finde ich die günstigsten Positioning-Flight-Kombinationen?
 
-[Google Flights](/blog/google-flights-tricks-tipps-2026) im Multi-City-Modus zeigt Kombinationen. Vergleiche: Heimatflughafen direkt nach Ziel versus Zubringer plus Hub-Flug. Beliebte Hubs für Deutsche sind Wien, Amsterdam, Zürich, Madrid und Lissabon. Der Aufwand lohnt sich besonders bei Langstrecken nach Asien, Amerika und Afrika.
+[Google Flights](/blog/google-flights-tricks-tipps-2026/) im Multi-City-Modus zeigt Kombinationen. Vergleiche: Heimatflughafen direkt nach Ziel versus Zubringer plus Hub-Flug. Beliebte Hubs für Deutsche sind Wien, Amsterdam, Zürich, Madrid und Lissabon. Der Aufwand lohnt sich besonders bei Langstrecken nach Asien, Amerika und Afrika.
 
 ---
 
-**Mehr lesen:** [Ex-EU-Routing: Günstiger fliegen vom europäischen Hub](/blog/ex-eu-routing-guenstiger-fliegen) · [Open-Jaw Tickets: Der Reise-Hack](/blog/open-jaw-tickets-reise-hack) · [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026)
+**Mehr lesen:** [Ex-EU-Routing: Günstiger fliegen vom europäischen Hub](/blog/ex-eu-routing-guenstiger-fliegen/) · [Open-Jaw Tickets: Der Reise-Hack](/blog/open-jaw-tickets-reise-hack/) · [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026/)

@@ -34,13 +34,13 @@ Die Durchschnittsnote ist fast egal. 8,0 oder 8,5 unterscheidet sich kaum. Was z
 
 **Lage vs. Atmosphäre:** Beide Kategorien können sich widersprechen. Ein Hostel kann perfekt gelegen und sozial tot sein. Oder es liegt 20 Minuten vom Zentrum entfernt, hat aber eine lebhafte Gemeinschaft. Entscheide, was für dich Priorität hat.
 
-Für Tipps zum Reisen mit minimalem Gepäck, was in Hostels besonders sinnvoll ist: der [Nur-Handgepäck-Guide](/blog/nur-handgepaeck) zeigt, was du wirklich brauchst.
+Für Tipps zum Reisen mit minimalem Gepäck, was in Hostels besonders sinnvoll ist: der [Nur-Handgepäck-Guide](/blog/nur-handgepaeck/) zeigt, was du wirklich brauchst.
 
 ## Was kosten Hostels weltweit?
 
 Das ist breiter gestreut als die meisten erwarten.
 
-**Asien:** Günstigste Märkte. Vietnam: Schlafsaal-Bett für 3 bis 8 Euro. Thailand: 5 bis 15 Euro. Indonesien (Bali): 7 bis 18 Euro in Kuta, mehr in Canggu. Japan ist die Ausnahme: Tokio-Capsule-Hotels (verwandt mit Hostels) kosten 25 bis 45 Euro. Für [Bangkok Unterkunfts-Tipps](/blog/wo-uebernachten-bangkok) gibt es auch Hostel-Optionen in der Übersicht.
+**Asien:** Günstigste Märkte. Vietnam: Schlafsaal-Bett für 3 bis 8 Euro. Thailand: 5 bis 15 Euro. Indonesien (Bali): 7 bis 18 Euro in Kuta, mehr in Canggu. Japan ist die Ausnahme: Tokio-Capsule-Hotels (verwandt mit Hostels) kosten 25 bis 45 Euro. Für [Bangkok Unterkunfts-Tipps](/blog/wo-uebernachten-bangkok/) gibt es auch Hostel-Optionen in der Übersicht.
 
 **Lateinamerika:** Sehr unterschiedlich. Peru (Cusco, Lima): 6 bis 14 Euro für ein Bett. Argentinien: je nach Inflation schwankend, typisch 8 bis 18 Euro. Kolumbien (Medellín, Bogotá): 7 bis 15 Euro.
 
@@ -68,7 +68,7 @@ Für Alleinreisende: Hostels sind eine der besten Umgebungen, um andere Reisende
 
 Ein Hostel lohnt sich, wenn du flexibel bist, soziale Kontakte schätzt, oder an einem Ort bist, wo Hotelpreise unverhältnismäßig sind (Westeuropa, USA, Japan).
 
-Ein Hotel schlägt das Hostel, wenn du nach einer langen Reise Ruhe brauchst, wenn du mit Partner oder Familie reist (Privatzimmer im Hostel vs. günstiges Hotel: ähnlicher Preis), oder wenn die nächste Stage Networking oder Business ist. Der [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich) zeigt weitere Differenzierungen für diese Entscheidung.
+Ein Hotel schlägt das Hostel, wenn du nach einer langen Reise Ruhe brauchst, wenn du mit Partner oder Familie reist (Privatzimmer im Hostel vs. günstiges Hotel: ähnlicher Preis), oder wenn die nächste Stage Networking oder Business ist. Der [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich/) zeigt weitere Differenzierungen für diese Entscheidung.
 
 Viele Hostels bieten auch Privatzimmer an. Das ist der Sweet Spot: Hostel-Atmosphäre, Gemeinschaftsküche, Gemeinschaftsräume, aber eigenes Zimmer mit abschließbarer Tür. Oft günstiger als ein gleichwertiges Hotel im selben Viertel.
 
@@ -100,6 +100,6 @@ Thailand und Vietnam dominieren Preis-Leistungs-Listen. Hostelworld vergibt jäh
 
 Mehr lesen:
 
-- [Nur mit Handgepäck: Der vollständige Guide](/blog/nur-handgepaeck)
-- [Airbnb vs. Hotel: Was lohnt sich wann?](/blog/airbnb-vs-hotel-vergleich)
-- [Reisen mit kleinem Budget: Die besten Tipps](/blog/reisen-kleines-budget-tipps)
+- [Nur mit Handgepäck: Der vollständige Guide](/blog/nur-handgepaeck/)
+- [Airbnb vs. Hotel: Was lohnt sich wann?](/blog/airbnb-vs-hotel-vergleich/)
+- [Reisen mit kleinem Budget: Die besten Tipps](/blog/reisen-kleines-budget-tipps/)

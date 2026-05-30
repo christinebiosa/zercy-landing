@@ -33,7 +33,7 @@ Diese Bausteine deckt Zercy ab:
 - **Touren & Aktivitäten:** lokale Erlebnisse, Stadtführungen, Ausflüge, direkt buchbar
 - **Navigation:** Google Maps ist integriert, Fahrtzeiten vom Flughafen zum Hotel werden automatisch mitberechnet
 
-Wer nach [Santiago de Compostela](/blog/santiago-de-compostela) reist und von dort weiter nach Porto will, bekommt von Zercy den Zug, die Fahrtzeit und die passenden Abfahrtszeiten, ohne danach extra zu suchen. Das ist KI, die wirklich mitdenkt.
+Wer nach [Santiago de Compostela](/blog/santiago-de-compostela/) reist und von dort weiter nach Porto will, bekommt von Zercy den Zug, die Fahrtzeit und die passenden Abfahrtszeiten, ohne danach extra zu suchen. Das ist KI, die wirklich mitdenkt.
 
 ## Welchen Plattformen vertraut Zercy?
 
@@ -83,7 +83,7 @@ Gib deine Reiseidee ein. So wie du sie einem Freund erzählen würdest.
 
 Zercy versteht das. Stellt gezielte Rückfragen wenn nötig. Und gibt dir dann konkrete Vorschläge zurück: echte Preise, direkte Links, durchdachte Alternativen.
 
-Kein Formular, in das du dreimal dasselbe Datum tippen musst. Kein Tab-Hopping zwischen acht Seiten. Kein Vergleichen ohne Kontext. Wer [günstig fliegen](/blog/guenstig-fliegen-tipps) will, bekommt automatisch Hinweise auf den besten Buchungszeitraum. Wer mit Handgepäck reist, bekommt passende Empfehlungen.
+Kein Formular, in das du dreimal dasselbe Datum tippen musst. Kein Tab-Hopping zwischen acht Seiten. Kein Vergleichen ohne Kontext. Wer [günstig fliegen](/blog/guenstig-fliegen-tipps/) will, bekommt automatisch Hinweise auf den besten Buchungszeitraum. Wer mit Handgepäck reist, bekommt passende Empfehlungen.
 
 Zercy passt sich an dich an. Nicht umgekehrt.
 
@@ -110,6 +110,6 @@ Zercy wurde von jemandem entwickelt, der es satt hatte, Reisen auf zehn verschie
 ---
 
 Mehr lesen:
-- [Wie KI die Reiseplanung für immer verändert](/blog/ki-veraendert-reiseplanung)
-- [Wann sollte man Flüge buchen? Der optimale Zeitpunkt](/blog/wann-fluege-buchen)
-- [Günstig fliegen: 7 Tricks die Vielflieger kennen](/blog/guenstig-fliegen-tipps)
+- [Wie KI die Reiseplanung für immer verändert](/blog/ki-veraendert-reiseplanung/)
+- [Wann sollte man Flüge buchen? Der optimale Zeitpunkt](/blog/wann-fluege-buchen/)
+- [Günstig fliegen: 7 Tricks die Vielflieger kennen](/blog/guenstig-fliegen-tipps/)

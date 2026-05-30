@@ -45,7 +45,7 @@ The famous Shibuya Crossing is Tokyo's iconic landmark. All around: fashion mecc
 
 **Top picks:** Cerulean Tower Tokyu Hotel (premium with skyline view), Shibuya Stream Excel Hotel Tokyu (modern, at station), Trunk Hotel (boutique-hipster in Shibuya).
 
-If you want to explore Tokyo's foodie scene, see our [Tokyo foodie trip guide](/en/blog/tokyo-foodie-trip).
+If you want to explore Tokyo's foodie scene, see our [Tokyo foodie trip guide](/en/blog/tokyo-foodie-trip/).
 
 ## Asakusa: Traditional Tokyo
 
@@ -101,7 +101,7 @@ For Tokyo [Booking.com](https://www.booking.com) is clearly the best platform:
 
 Direct booking only worth it for traditional ryokan in Asakusa where personal communication is wanted.
 
-See also our [jet lag guide](/en/blog/jet-lag-fast-recovery), Tokyo is 13-14 hours time difference from US East Coast.
+See also our [jet lag guide](/en/blog/jet-lag-fast-recovery/), Tokyo is 13-14 hours time difference from US East Coast.
 
 ---
 
@@ -128,6 +128,6 @@ Backpacker: $1,200-1,800 per person incl. flight (hostel, konbini food, public t
 ---
 
 **Read more:**
-- [Where to stay in New York: 5 neighborhoods](/en/blog/where-to-stay-new-york)
-- [Tokyo foodie trip: what you really need to eat](/en/blog/tokyo-foodie-trip)
-- [Beat jet lag fast: 7 science-backed strategies](/en/blog/jet-lag-fast-recovery)
+- [Where to stay in New York: 5 neighborhoods](/en/blog/where-to-stay-new-york/)
+- [Tokyo foodie trip: what you really need to eat](/en/blog/tokyo-foodie-trip/)
+- [Beat jet lag fast: 7 science-backed strategies](/en/blog/jet-lag-fast-recovery/)

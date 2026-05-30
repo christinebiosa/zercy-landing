@@ -88,6 +88,6 @@ Masai Mara combined with one day in Nairobi is the classic first-timer combo. Fo
 ---
 
 **Read more:**
-- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials)
+- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials/)

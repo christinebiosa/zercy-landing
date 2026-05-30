@@ -40,7 +40,7 @@ Lo que pocos hacen: seguir el paseo fluvial hacia el sur de Belém, hacia el Par
 
 **Tasca do Chico (Bairro Alto)**: uno de los mejores restaurantes de fado improvisado de Lisboa. Las reservas se hacen con semanas de antelación. El fado aquí no es para turistas: los músicos van cuando quieren y el ambiente es el de una tasca de barrio donde alguien canta por amor al arte.
 
-Si buscas alojamiento en Lisboa, consulta nuestra guía de [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa).
+Si buscas alojamiento en Lisboa, consulta nuestra guía de [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa/).
 
 Zercy puede ayudarte a organizar tu viaje a Lisboa con todas las opciones. Guarda tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -67,6 +67,6 @@ El fado es el género musical más íntimamente ligado a Lisboa: melancólico, i
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Lisboa: Alfama, Chiado o Príncipe Real](/es/blog/donde-alojarse-lisboa)
-- [Oporto: la ciudad subestimada que vale más de lo que parece](/es/blog/oporto-hermana-subestimada)
-- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid)
+- [Dónde alojarse en Lisboa: Alfama, Chiado o Príncipe Real](/es/blog/donde-alojarse-lisboa/)
+- [Oporto: la ciudad subestimada que vale más de lo que parece](/es/blog/oporto-hermana-subestimada/)
+- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid/)

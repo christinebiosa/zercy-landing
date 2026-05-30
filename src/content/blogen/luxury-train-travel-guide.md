@@ -33,7 +33,7 @@ At the affordable end of the luxury spectrum: the Bernina Express. It runs from 
 
 The Glacier Express connects Zermatt and St. Moritz. Eight hours, 91 tunnels, 291 bridges. Again: no full-service luxury, but one of the most beautiful rail routes on earth.
 
-For more on when train travel beats flying in Europe, check out our guide on [train vs. plane in Europe 2026](/en/blog/train-vs-plane-europe-2026).
+For more on when train travel beats flying in Europe, check out our guide on [train vs. plane in Europe 2026](/en/blog/train-vs-plane-europe-2026/).
 
 ## How Far in Advance Do You Need to Book?
 
@@ -47,7 +47,7 @@ A rough guide:
 
 Flexibility helps. Cancellations happen. But don't count on the cabin of your dreams if you book last minute.
 
-If you're wondering how to combine a luxury train with business class flights or other premium travel, our article on [business class without miles](/en/blog/business-class-without-miles) breaks down how to make that work.
+If you're wondering how to combine a luxury train with business class flights or other premium travel, our article on [business class without miles](/en/blog/business-class-without-miles/) breaks down how to make that work.
 
 ## Is a Luxury Train a Good Honeymoon Trip?
 
@@ -57,7 +57,7 @@ A luxury train has everything a honeymoon needs: privacy, romance, and a sense o
 
 The VSOE has a dedicated wedding route. El Transcantábrico is ideal for couples who want to explore northern Spain without renting a car. The Rocky Mountaineer works perfectly if Canada is on your travel list.
 
-For more on planning a honeymoon trip from scratch, see our [honeymoon planning guide](/en/blog/honeymoon-planning-guide).
+For more on planning a honeymoon trip from scratch, see our [honeymoon planning guide](/en/blog/honeymoon-planning-guide/).
 
 ## FAQ: Luxury Train Travel
 
@@ -71,7 +71,7 @@ For peak-season VSOE and Transcantábrico routes: 6 to 12 months. For Swiss pano
 
 ### What's the difference between a luxury train and a regular night train?
 
-A regular [night train in Europe 2026](/en/blog/night-trains-europe-2026) gets you from A to B with a place to sleep. A luxury train is an experience product: curated dining, historic carriages, table service, atmosphere. The price difference is roughly 10 to 50 times.
+A regular [night train in Europe 2026](/en/blog/night-trains-europe-2026/) gets you from A to B with a place to sleep. A luxury train is an experience product: curated dining, historic carriages, table service, atmosphere. The price difference is roughly 10 to 50 times.
 
 ### Where does the Venice Simplon Orient Express go?
 
@@ -84,7 +84,7 @@ Zercy helps you plan your next trip. Type in your destination and Zercy finds fl
 ---
 
 **Read more:**
-- [Night Trains in Europe 2026: The Complete Guide](/en/blog/night-trains-europe-2026)
-- [Train vs. Plane in Europe: What's Actually Worth It?](/en/blog/train-vs-plane-europe-2026)
-- [Business Class Without Miles](/en/blog/business-class-without-miles)
-- [Honeymoon Planning Guide: How to Plan the Perfect Trip](/en/blog/honeymoon-planning-guide)
+- [Night Trains in Europe 2026: The Complete Guide](/en/blog/night-trains-europe-2026/)
+- [Train vs. Plane in Europe: What's Actually Worth It?](/en/blog/train-vs-plane-europe-2026/)
+- [Business Class Without Miles](/en/blog/business-class-without-miles/)
+- [Honeymoon Planning Guide: How to Plan the Perfect Trip](/en/blog/honeymoon-planning-guide/)

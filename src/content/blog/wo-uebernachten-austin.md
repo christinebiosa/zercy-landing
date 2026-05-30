@@ -49,7 +49,7 @@ Vom Süden aus sieht man das State Capitol am Ende der Congress Avenue. South Co
 
 **Top-Picks:** Hotel San José (Austin-Ikone, Pool, Musik), South Congress Hotel (modernes Boutique), Austin Motel (retro, günstig, authentisch).
 
-Unser [US-Westküsten-Roadtrip-Guide](/blog/us-westkueste-roadtrip) und der [Artikel zu Los Angeles](/blog/wo-uebernachten-los-angeles) helfen bei der Reiseplanung entlang der Westküste.
+Unser [US-Westküsten-Roadtrip-Guide](/blog/us-westkueste-roadtrip/) und der [Artikel zu Los Angeles](/blog/wo-uebernachten-los-angeles/) helfen bei der Reiseplanung entlang der Westküste.
 
 ## East Austin: Trendsetting und Foodie-Szene
 
@@ -119,6 +119,6 @@ Januar und Februar sind die günstigsten Monate. Auch Dezember (außer Weihnacht
 ---
 
 ## Mehr lesen
-- [Wo übernachten in Las Vegas: Die besten Hotels](/blog/wo-uebernachten-las-vegas)
-- [Wo übernachten in Los Angeles: 5 Stadtteile erklärt](/blog/wo-uebernachten-los-angeles)
-- [Route 66 USA: Der komplette Roadtrip-Guide](/blog/route-66-usa-roadtrip)
+- [Wo übernachten in Las Vegas: Die besten Hotels](/blog/wo-uebernachten-las-vegas/)
+- [Wo übernachten in Los Angeles: 5 Stadtteile erklärt](/blog/wo-uebernachten-los-angeles/)
+- [Route 66 USA: Der komplette Roadtrip-Guide](/blog/route-66-usa-roadtrip/)

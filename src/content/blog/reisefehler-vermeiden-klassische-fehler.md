@@ -20,11 +20,11 @@ Drei Städte in fünf Tagen. Zwei Länder, vier Flüge, acht Sehenswürdigkeiten
 
 **Fehler 2: Keine Reiseversicherung**
 
-Die meisten Reisenden denken: "Mir passiert schon nichts." Die Reiseversicherungs-Statistiken sagen etwas anderes. Ein medizinischer Notfall in den USA ohne Versicherung: schnell 50.000-200.000 Euro. In Australien oder Kanada: ähnlich. Unser [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich) erklärt was sich wann lohnt. Die Grundregel: ohne Versicherung nicht fliegen.
+Die meisten Reisenden denken: "Mir passiert schon nichts." Die Reiseversicherungs-Statistiken sagen etwas anderes. Ein medizinischer Notfall in den USA ohne Versicherung: schnell 50.000-200.000 Euro. In Australien oder Kanada: ähnlich. Unser [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/) erklärt was sich wann lohnt. Die Grundregel: ohne Versicherung nicht fliegen.
 
 **Fehler 3: Nur eine Karte mitnehmen**
 
-Deine Karte wird gesperrt. Dein Geldbeutel wird gestohlen. Das Kartenlesegerät akzeptiert deine Bank nicht. Immer zwei Karten auf verschiedene Aufbewahrungsorte aufteilen. Eine im Portemonnaie, eine im Rucksack oder Hotelzimmer. Und immer etwas Bargeld für Notfälle. Unser [Geld im Ausland Guide](/blog/geld-im-ausland-tipps) zeigt die besten gebührenfreien Reisekarten.
+Deine Karte wird gesperrt. Dein Geldbeutel wird gestohlen. Das Kartenlesegerät akzeptiert deine Bank nicht. Immer zwei Karten auf verschiedene Aufbewahrungsorte aufteilen. Eine im Portemonnaie, eine im Rucksack oder Hotelzimmer. Und immer etwas Bargeld für Notfälle. Unser [Geld im Ausland Guide](/blog/geld-im-ausland-tipps/) zeigt die besten gebührenfreien Reisekarten.
 
 **Fehler 4: Hotel in der Altstadt ohne Lärmcheck**
 
@@ -36,11 +36,11 @@ London Heathrow zu Gatwick: 1-2 Stunden. New York JFK zu Newark: 45-90 Minuten j
 
 **Fehler 6: DCC-Falle beim Zahlen**
 
-Dynamic Currency Conversion. Das Kartenlesegerät fragt: "In Euro bezahlen?" Du denkst das ist nett. Du zahlst 3-7% mehr. Immer in der lokalen Währung bezahlen. Immer. Wenn das Terminal dich fragt: "Lokal oder Heimwährung?" Die Antwort ist immer lokal. Mehr Details dazu in unserem [Geld im Ausland Guide](/blog/geld-im-ausland-tipps).
+Dynamic Currency Conversion. Das Kartenlesegerät fragt: "In Euro bezahlen?" Du denkst das ist nett. Du zahlst 3-7% mehr. Immer in der lokalen Währung bezahlen. Immer. Wenn das Terminal dich fragt: "Lokal oder Heimwährung?" Die Antwort ist immer lokal. Mehr Details dazu in unserem [Geld im Ausland Guide](/blog/geld-im-ausland-tipps/).
 
 **Fehler 7: Kein Offline-Karte, Roaming-Schock**
 
-Google Maps ohne Daten ist nutzlos. Außer du hast die Route offline gespeichert. Vor jeder Reise: Offline-Karten in Google Maps oder Maps.me herunterladen. Und Roaming prüfen bevor du fliegst, nicht danach. Ein [Auslands-SIM Guide](/blog/auslands-sim-guide) hilft dir die beste Lösung für dein Reiseziel zu finden.
+Google Maps ohne Daten ist nutzlos. Außer du hast die Route offline gespeichert. Vor jeder Reise: Offline-Karten in Google Maps oder Maps.me herunterladen. Und Roaming prüfen bevor du fliegst, nicht danach. Ein [Auslands-SIM Guide](/blog/auslands-sim-guide/) hilft dir die beste Lösung für dein Reiseziel zu finden.
 
 **Fehler 8: Hochsaison ohne Reservierung**
 
@@ -52,7 +52,7 @@ Dein Handy ist tot. Der Pass ist weg. Du kennst deine Reiseversicherungsnummer n
 
 **Fehler 10: Reisekrankenversicherung die Extremsport ausschließt**
 
-Du buchst eine Wanderreise in Nepal. Deine Versicherung deckt "Trekking" bis 4000m ab. Everest Base Camp liegt auf 5364m. Du stürzt. Kein Helikopter-Rescue. Keine Deckung. Versicherungsbedingungen lesen, nicht nur den Preis vergleichen. Extremsport (Tauchen, Klettern, Ski-Freeriding, Rafting) erfordert oft einen gesonderten Zusatz. Unser [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich) zeigt welche Policen welche Aktivitäten abdecken.
+Du buchst eine Wanderreise in Nepal. Deine Versicherung deckt "Trekking" bis 4000m ab. Everest Base Camp liegt auf 5364m. Du stürzt. Kein Helikopter-Rescue. Keine Deckung. Versicherungsbedingungen lesen, nicht nur den Preis vergleichen. Extremsport (Tauchen, Klettern, Ski-Freeriding, Rafting) erfordert oft einen gesonderten Zusatz. Unser [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/) zeigt welche Policen welche Aktivitäten abdecken.
 
 ## Was solltest du vor jeder Reise konkret prüfen?
 
@@ -98,6 +98,6 @@ Extremsport (Freeriding, Tiefseetauchen, Klettern über bestimmte Höhen), Vorer
 ---
 
 **Mehr lesen:**
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Geld im Ausland: Die besten Karten und Tipps](/blog/geld-im-ausland-tipps)
-- [Airport Hacks: So überlebst du jeden Flughafen](/blog/airport-hacks)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Geld im Ausland: Die besten Karten und Tipps](/blog/geld-im-ausland-tipps/)
+- [Airport Hacks: So überlebst du jeden Flughafen](/blog/airport-hacks/)

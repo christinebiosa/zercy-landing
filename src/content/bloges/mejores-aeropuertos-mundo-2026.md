@@ -10,7 +10,7 @@ heroImage: "/img/blog/best-airports.jpg"
 
 Un aeropuerto no es un destino. Normalmente. Luego está Changi. O Haneda. Lugares donde casi deseas que tu conexión salga un poco tarde. Los [Skytrax World Airport Awards](https://www.worldairportawards.com/) califican los mejores aeropuertos del mundo cada año. Aquí te contamos qué cuenta en 2026, qué hubs europeos sorprenden y cuáles siguen decepcionando.
 
-Si quieres usar las escalas de forma estratégica en tu próximo viaje, consulta la guía completa de [turismo de stopover](/es/blog/guia-stopover-turismo).
+Si quieres usar las escalas de forma estratégica en tu próximo viaje, consulta la guía completa de [turismo de stopover](/es/blog/guia-stopover-turismo/).
 
 ## ¿Por qué Singapore Changi sigue siendo el mejor aeropuerto del mundo?
 
@@ -18,7 +18,7 @@ Changi mantiene el primer puesto de Skytrax año tras año. No porque sea el má
 
 El Jewel Changi, el complejo cubierto por una cúpula de cristal conectado al Terminal 1, alberga el Rain Vortex. Una cascada interior de 40 metros, la más alta del mundo, rodeada de un bosque con más de 2.000 especies de plantas. Hay un jardín de mariposas con más de 1.000 mariposas, un cine, una piscina en la azotea y más de 280 restaurantes y tiendas. Todo accesible para pasajeros en tránsito sin costo adicional.
 
-Lo más valioso: si tu escala con Singapore Airlines dura cinco horas o más, puedes salir del aeropuerto y explorar la ciudad gratis. Singapore Airlines y Scoot tienen un programa oficial de visitas gratuitas que incluye transporte al centro de la ciudad. Un día en una de las ciudades más fascinantes de Asia, sin pagar nada extra. Eso es [turismo de stopover](/es/blog/guia-stopover-turismo) en su máxima expresión.
+Lo más valioso: si tu escala con Singapore Airlines dura cinco horas o más, puedes salir del aeropuerto y explorar la ciudad gratis. Singapore Airlines y Scoot tienen un programa oficial de visitas gratuitas que incluye transporte al centro de la ciudad. Un día en una de las ciudades más fascinantes de Asia, sin pagar nada extra. Eso es [turismo de stopover](/es/blog/guia-stopover-turismo/) en su máxima expresión.
 
 Para tu ruta: Zercy te ayuda a encontrar vuelos con escalas inteligentes en Singapur. Si el precio funciona y tienes cinco horas, esa conexión se convierte en un destino adicional.
 
@@ -28,7 +28,7 @@ Para tu ruta: Zercy te ayuda a encontrar vuelos con escalas inteligentes en Sing
 
 **Tokyo Haneda.** Tokio tiene dos aeropuertos. Haneda es el correcto. No Narita. Haneda está a 30 minutos del centro, tiene las salidas más puntuales del mundo y está tan limpio que los viajeros primerizos sacan fotos del suelo. Los food courts son restaurantes de verdad: sets de sushi fresco, ramen auténtico, una calidad que en cualquier otro país pagarías en un restaurante sentado. Todo está señalizado. Todo funciona.
 
-Si estás planeando Japón, revisa también los [trucos para aeropuertos](/es/blog/trucos-aeropuerto) antes de salir. Haneda ya te da una ventaja desde el inicio.
+Si estás planeando Japón, revisa también los [trucos para aeropuertos](/es/blog/trucos-aeropuerto/) antes de salir. Haneda ya te da una ventaja desde el inicio.
 
 ## ¿Qué aeropuertos europeos realmente destacan?
 
@@ -38,7 +38,7 @@ Europa tiene dos claros ganadores.
 
 **Múnich MUC** ocupa el segundo lugar en Europa según Skytrax. Lo que hace especial a MUC: hay un auténtico jardín de cerveza dentro del Terminal 2. Cerveza de verdad, pretzels frescos, Weißwurst por la mañana. En verano, los pasajeros se sientan afuera con su equipaje tomando el sol, como si estuvieran en el Jardín Inglés. Para los viajeros en tránsito que quieren llevarse una impresión genuina de Alemania, es un recuerdo inesperado.
 
-Ambos aeropuertos funcionan bien para [acceder a salas VIP sin billete de business](/es/blog/acceso-sala-vip-sin-business). Schiphol tiene varias salas con opción de Priority Pass. MUC tiene el área Lufthansa Senator para viajeros premium.
+Ambos aeropuertos funcionan bien para [acceder a salas VIP sin billete de business](/es/blog/acceso-sala-vip-sin-business/). Schiphol tiene varias salas con opción de Priority Pass. MUC tiene el área Lufthansa Senator para viajeros premium.
 
 ## ¿Por qué Heathrow y CDG siguen quedándose cortos?
 
@@ -50,9 +50,9 @@ Si tienes elección, evita ambos. Ámsterdam en lugar de Heathrow para conexione
 
 ## ¿Cómo aprovechar el turismo de stopover como hack de viaje?
 
-Cuando comparas [vuelo directo vs. conexión](/es/blog/vuelo-directo-vs-conexion), la mayoría decide solo por precio. Hay un segundo factor: la calidad de la escala. Cinco horas en Changi no es una carga. Es una experiencia. Cinco horas en Heathrow es otra historia.
+Cuando comparas [vuelo directo vs. conexión](/es/blog/vuelo-directo-vs-conexion/), la mayoría decide solo por precio. Hay un segundo factor: la calidad de la escala. Cinco horas en Changi no es una carga. Es una experiencia. Cinco horas en Heathrow es otra historia.
 
-La mejor estrategia: planifica escalas de cuatro a ocho horas en Singapur o Tokio de forma intencionada. Singapore Airlines tiene el programa Free Singapore Tour de manera oficial para pasajeros en tránsito. Factura tu equipaje, regístrate en línea, explora la ciudad, vuelve a tiempo. El desglose completo está en la [guía de trucos para aeropuertos](/es/blog/trucos-aeropuerto).
+La mejor estrategia: planifica escalas de cuatro a ocho horas en Singapur o Tokio de forma intencionada. Singapore Airlines tiene el programa Free Singapore Tour de manera oficial para pasajeros en tránsito. Factura tu equipaje, regístrate en línea, explora la ciudad, vuelve a tiempo. El desglose completo está en la [guía de trucos para aeropuertos](/es/blog/trucos-aeropuerto/).
 
 Usa Zercy para encontrar rutas con escalas inteligentes y comparar opciones en un solo lugar. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo a mano cuando llegue el momento de reservar.
 
@@ -75,6 +75,6 @@ Singapur es la mejor opción: con cinco horas tienes tiempo de llegar a Gardens 
 ---
 
 **Más artículos:**
-- [Trucos para aeropuertos: Cómo aprovechar cada escala](/es/blog/trucos-aeropuerto)
-- [Guía de turismo de stopover: Más viaje por el mismo precio](/es/blog/guia-stopover-turismo)
-- [Vuelo directo vs. conexión: Cuándo vale cada opción](/es/blog/vuelo-directo-vs-conexion)
+- [Trucos para aeropuertos: Cómo aprovechar cada escala](/es/blog/trucos-aeropuerto/)
+- [Guía de turismo de stopover: Más viaje por el mismo precio](/es/blog/guia-stopover-turismo/)
+- [Vuelo directo vs. conexión: Cuándo vale cada opción](/es/blog/vuelo-directo-vs-conexion/)

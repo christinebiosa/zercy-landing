@@ -23,7 +23,7 @@ Die Altstadt Thamel ist das Touristen-Viertel: Ausrüstungsläden, Restaurants, 
 
 ## Welche Trekkingroute passt für Einsteiger in Nepal?
 
-**Annapurna Base Camp (ABC):** 7 bis 10 Tage, maximale Höhe 4.130 Meter. Der klassische Einsteiger-Trek. Variabler Schwierigkeitsgrad, gut ausgebaute Teahouse-Infrastruktur, spektakuläre Übergänge durch Bambuswälder und Rhododendron-Haine. Keine technische Ausrüstung nötig. Ausgangspunkt ist Nayapul (per Bus von Pokhara). Wer vor oder nach dem Trek in Pokhara übernachtet, findet die besten Viertel und Hotels in unserem [Pokhara Hotelguide](/blog/wo-uebernachten-pokhara).
+**Annapurna Base Camp (ABC):** 7 bis 10 Tage, maximale Höhe 4.130 Meter. Der klassische Einsteiger-Trek. Variabler Schwierigkeitsgrad, gut ausgebaute Teahouse-Infrastruktur, spektakuläre Übergänge durch Bambuswälder und Rhododendron-Haine. Keine technische Ausrüstung nötig. Ausgangspunkt ist Nayapul (per Bus von Pokhara). Wer vor oder nach dem Trek in Pokhara übernachtet, findet die besten Viertel und Hotels in unserem [Pokhara Hotelguide](/blog/wo-uebernachten-pokhara/).
 
 **Poon Hill:** 4 bis 5 Tage, maximale Höhe 3.210 Meter. Ideal für den allerersten Trek in Nepal. Sonnenaufgang über dem Annapurna-Massiv. Kurz, erschwinglich, aber nicht enttäuschend.
 
@@ -83,6 +83,6 @@ Layering-Prinzip: Basisschicht, Fleece, Regenjacke, Daunenjacke für hohe Lagen.
 
 ## Mehr lesen
 
-- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights)
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights/)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

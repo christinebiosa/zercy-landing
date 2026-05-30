@@ -18,7 +18,7 @@ Auch Honduras punktet beim Budget. Die Bay Islands, allen voran Roatán, sind be
 
 Belize liegt dazwischen. Caye Caulker, die entspanntere Alternative zum teuren Ambergris Caye, ist für 40 bis 60 Dollar am Tag machbar. Das Snorkeln im Belize Barrier Reef ist günstig über lokale Anbieter buchbar. Wer die Nationalparks im Westen besucht, kommt mit 50 Dollar gut durch.
 
-Costa Rica ist das Sorgenkind im Backpacker-Budget. Hier startest du bei 60 bis 80 Dollar am Tag. Nationalparks kosten Eintritt, die Busnetze sind ausbaufähig, und Hostels verlangen Preise auf europäischem Niveau. Dennoch lohnt sich Costa Rica. Das Naturerlebnis ist unübertroffen. Lies dazu unseren [Costa Rica Rundreise-Guide](/blog/costa-rica-rundreise-route) für die klügste Route.
+Costa Rica ist das Sorgenkind im Backpacker-Budget. Hier startest du bei 60 bis 80 Dollar am Tag. Nationalparks kosten Eintritt, die Busnetze sind ausbaufähig, und Hostels verlangen Preise auf europäischem Niveau. Dennoch lohnt sich Costa Rica. Das Naturerlebnis ist unübertroffen. Lies dazu unseren [Costa Rica Rundreise-Guide](/blog/costa-rica-rundreise-route/) für die klügste Route.
 
 Panama ist teurer als Guatemala, aber günstiger als Costa Rica. Panama-Stadt hat ein hervorragendes Hostel-Netz. Der Kanal, San Blas Inseln, und die Kaffeehügel um Boquete sind gut erreichbar. Budget: 45 bis 65 Dollar pro Tag.
 
@@ -46,11 +46,11 @@ Eine sinnvolle 4-bis-6-Wochen-Route startet in Guatemala. Du fliegst nach Guatem
 
 Zweite Station: Belize. Von Flores geht ein direkter Bus nach Belize-Stadt. Weiter mit dem Schnellboot nach Caye Caulker. Schnorcheln, Schnorcheln, nochmals Schnorcheln.
 
-Dritte Station: Honduras. Von Belize in den Süden nach Copán, der kompakten aber beeindruckenden Mayaruine an der Grenze zu Guatemala. Dann weiter zu den Bay Islands. Roatán ist teurer, Utila das Budget-Paradies für Taucher. Unser [Guatemala Reiseguide](/blog/guatemala-reiseguide-highlights) gibt dir alle Infos zu den Highlights des Landes.
+Dritte Station: Honduras. Von Belize in den Süden nach Copán, der kompakten aber beeindruckenden Mayaruine an der Grenze zu Guatemala. Dann weiter zu den Bay Islands. Roatán ist teurer, Utila das Budget-Paradies für Taucher. Unser [Guatemala Reiseguide](/blog/guatemala-reiseguide-highlights/) gibt dir alle Infos zu den Highlights des Landes.
 
 Vierte Station: Costa Rica. Einreise über Managua oder direkt aus Honduras. Fokus auf Arenal-Vulkan, Manuel Antonio und die Osa-Halbinsel. Costa Rica kannst du günstig halten, wenn du früh buchst und Nationalparks morgens besuchst, wenn die Eintrittsgebühren niedriger sind.
 
-Finale: Panama. Der Kanal in Panama-Stadt ist ein Pflichtprogramm. Danach San Blas oder Bocas del Toro für Strand, dann Rückflug von Panama-Stadt. Schau dazu auch unseren [Panama Reiseguide](/blog/panama-reiseguide-highlights).
+Finale: Panama. Der Kanal in Panama-Stadt ist ein Pflichtprogramm. Danach San Blas oder Bocas del Toro für Strand, dann Rückflug von Panama-Stadt. Schau dazu auch unseren [Panama Reiseguide](/blog/panama-reiseguide-highlights/).
 
 ## Sicherheit in Mittelamerika: Was solltest du wissen?
 
@@ -58,7 +58,7 @@ Mittelamerika hat einen Ruf, der teilweise verdient und teilweise übertrieben i
 
 Einige Grundregeln sind trotzdem wichtig. Nachts kein Bargeld auf der Straße zeigen. In Städten kein teures Smartphone unachtsam benutzen. Mototaxis nur von offiziellen Stationen nehmen, nicht von Fremden auf der Straße. Wertgegenstände im Hostel in einem Schließfach deponieren.
 
-Guatemala-Stadt und Honduras-Großstädte wie San Pedro Sula und Tegucigalpa gelten als risikoreicher. Hier gilt: Touristenviertel kennen, in Gruppen reisen, keine Nachtmärkte ohne lokale Begleitung. Für eine gute Reiseversicherung, die auch Gepäckdiebstahl abdeckt, lies unseren Artikel zur [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich).
+Guatemala-Stadt und Honduras-Großstädte wie San Pedro Sula und Tegucigalpa gelten als risikoreicher. Hier gilt: Touristenviertel kennen, in Gruppen reisen, keine Nachtmärkte ohne lokale Begleitung. Für eine gute Reiseversicherung, die auch Gepäckdiebstahl abdeckt, lies unseren Artikel zur [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/).
 
 Das [Visit Guatemala Tourismusamt](https://visitguatemala.com) und das [Visit Costa Rica Board](https://visitcostarica.com) bieten aktuelle Sicherheitshinweise für ihre Länder.
 
@@ -82,12 +82,12 @@ Utila in Honduras gilt als eines der günstigsten Tauchorte der Welt. Ein Open-W
 
 ### Wie komme ich günstig nach Mittelamerika?
 
-Direktflüge von Europa gibt es nach Guatemala-Stadt, San José (Costa Rica) und Panama-Stadt. Günstige Routen laufen oft über Madrid, Amsterdam oder Miami. Ex-EU-Tickets aus Wien, Prag oder Porto können günstiger sein als Direktflüge aus Deutschland. Vergleiche immer die Gesamtkosten inklusive Rückflug, Einreisegebühren und Steuern. Mehr dazu in unserem Artikel zu [Südostasien Budget-Reisen](/blog/suedostasien-budget-reisen) als Alternativvergleich.
+Direktflüge von Europa gibt es nach Guatemala-Stadt, San José (Costa Rica) und Panama-Stadt. Günstige Routen laufen oft über Madrid, Amsterdam oder Miami. Ex-EU-Tickets aus Wien, Prag oder Porto können günstiger sein als Direktflüge aus Deutschland. Vergleiche immer die Gesamtkosten inklusive Rückflug, Einreisegebühren und Steuern. Mehr dazu in unserem Artikel zu [Südostasien Budget-Reisen](/blog/suedostasien-budget-reisen/) als Alternativvergleich.
 
 ---
 
 ## Mehr lesen
 
-- [Costa Rica Rundreise: Die beste Route für 3 Wochen](/blog/costa-rica-rundreise-route)
-- [Guatemala Reiseguide: Antigua, Tikal und mehr](/blog/guatemala-reiseguide-highlights)
-- [Reiseversicherung: Wann lohnt sie sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Costa Rica Rundreise: Die beste Route für 3 Wochen](/blog/costa-rica-rundreise-route/)
+- [Guatemala Reiseguide: Antigua, Tikal und mehr](/blog/guatemala-reiseguide-highlights/)
+- [Reiseversicherung: Wann lohnt sie sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

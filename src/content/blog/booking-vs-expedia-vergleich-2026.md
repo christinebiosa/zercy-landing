@@ -31,7 +31,7 @@ Hier die ehrliche Aufschlüsselung:
 | Flexibel stornieren, Kurztrip | Booking.com (kostenlose Stornierung sehr häufig) |
 | Flug + Hotel zusammen | Expedia (One Key Punkte auf beides) |
 | Viele Nächte, Stammkunde | Hotels.com (Gratisnacht-Prämie) |
-| Flugpreise vergleichen | Kayak oder [Google Flights](/blog/google-flights-tricks-tipps-2026) |
+| Flugpreise vergleichen | Kayak oder [Google Flights](/blog/google-flights-tricks-tipps-2026/) |
 | Apartments oder private Unterkünfte | Booking.com (viel Angebot) oder Airbnb |
 
 Wichtig: Kayak ist keine Buchungsplattform. Kayak ist eine Metasuchmaschine. Du siehst Preise, wirst aber zum Buchen zu einer anderen Plattform weitergeleitet. Gut zum Vergleichen. Nicht gut wenn du Treuepunkte sammeln willst.
@@ -48,7 +48,7 @@ Ein Anruf beim Hotel kann sich lohnen wenn du ein besonderes Zimmer willst (Meer
 
 Klassische Direktbuchungs-Extras: kostenloses Frühstück, früher Check-in, spätes Checkout, Zimmerkategorie-Upgrade. Das gibt Booking nicht automatisch.
 
-Trotzdem: für die meisten Buchungen bieten Booking.com und Expedia mehr Sicherheit durch Kundenschutz, bessere Stornierungsbedingungen und den Überblick über alle Alternativen. Direktbuchung ist die Ausnahme, nicht die Regel. Mehr dazu in unserem [Booking vs. Direktbuchen-Vergleich](/blog/booking-vs-direkt-buchen).
+Trotzdem: für die meisten Buchungen bieten Booking.com und Expedia mehr Sicherheit durch Kundenschutz, bessere Stornierungsbedingungen und den Überblick über alle Alternativen. Direktbuchung ist die Ausnahme, nicht die Regel. Mehr dazu in unserem [Booking vs. Direktbuchen-Vergleich](/blog/booking-vs-direkt-buchen/).
 
 ## Welche Rolle spielen Stornobedingungen bei der Wahl der Plattform?
 
@@ -58,7 +58,7 @@ Der Anteil an Hotels mit kostenloser Stornierung bis 24 oder 48 Stunden vor Anre
 
 Praktischer Tipp: Immer auf "Kostenlos stornierbar" filtern, auch wenn du nicht vorhast zu stornieren. Das gibt dir Spielraum wenn sich die Pläne ändern.
 
-Apartments für Langzeitaufenthalte (mehrere Wochen oder Monate) sind eine eigene Kategorie. Da holt sich Airbnb Pluspunkte wegen der Küche und der Wohnflächenstruktur. Booking.com hat allerdings ebenfalls eine große Auswahl an Apartments. Unser [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich) erklärt wann welche Unterkunftsform besser passt.
+Apartments für Langzeitaufenthalte (mehrere Wochen oder Monate) sind eine eigene Kategorie. Da holt sich Airbnb Pluspunkte wegen der Küche und der Wohnflächenstruktur. Booking.com hat allerdings ebenfalls eine große Auswahl an Apartments. Unser [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich/) erklärt wann welche Unterkunftsform besser passt.
 
 ## Wie buchst du Flüge am günstigsten?
 
@@ -70,7 +70,7 @@ Besser: Google Flights und Kayak zum Preisvergleich nutzen, dann direkt bei der 
 
 Google Flights zeigt außerdem den Preisverlauf der letzten Wochen. Nützlich wenn du wissen willst ob der aktuelle Preis gut ist oder noch fallen könnte.
 
-Nützliche Tricks für die Flugsuche findest du in unserem [Google Flights Guide](/blog/google-flights-tricks-tipps-2026).
+Nützliche Tricks für die Flugsuche findest du in unserem [Google Flights Guide](/blog/google-flights-tricks-tipps-2026/).
 
 ---
 
@@ -97,6 +97,6 @@ Google Flights und Kayak zeigen Preise von vielen Anbietern gleichzeitig. Beides
 ---
 
 **Mehr lesen:**
-- [Booking Genius: lohnt sich das Programm wirklich?](/blog/booking-genius-programm-lohnt-es-sich)
-- [Airbnb vs. Hotel: was lohnt sich für deinen Reisetyp?](/blog/airbnb-vs-hotel-vergleich)
-- [Booking.com vs. Direktbuchen: der ehrliche Vergleich](/blog/booking-vs-direkt-buchen)
+- [Booking Genius: lohnt sich das Programm wirklich?](/blog/booking-genius-programm-lohnt-es-sich/)
+- [Airbnb vs. Hotel: was lohnt sich für deinen Reisetyp?](/blog/airbnb-vs-hotel-vergleich/)
+- [Booking.com vs. Direktbuchen: der ehrliche Vergleich](/blog/booking-vs-direkt-buchen/)

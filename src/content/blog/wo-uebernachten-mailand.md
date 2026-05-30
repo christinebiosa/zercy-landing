@@ -96,6 +96,6 @@ Die meisten Shows finden in Venues im Ganzen Stadtgebiet statt. Wer Fashion Week
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Rom: Die 5 Stadtteile](/blog/wo-uebernachten-rom)
-- [Wo übernachten in Florenz: Welches Viertel?](/blog/wo-uebernachten-florenz)
-- [Apulien und Süditalien: Geheimtipps abseits Roms](/blog/apulien-sueditalien-guide)
+- [Wo übernachten in Rom: Die 5 Stadtteile](/blog/wo-uebernachten-rom/)
+- [Wo übernachten in Florenz: Welches Viertel?](/blog/wo-uebernachten-florenz/)
+- [Apulien und Süditalien: Geheimtipps abseits Roms](/blog/apulien-sueditalien-guide/)

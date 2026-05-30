@@ -39,7 +39,7 @@ A day with Vatican and Colosseum, but strategically planned.
 
 **Evening (7-11pm).** Last meal in Rome. Recommendation: Testaccio (neighborhood in the south, 15 minutes by taxi). Da Felice or Flavio al Velavevodetto. Roman families eat here, not tourists. Reservation mandatory.
 
-See our [Puglia guide](/en/blog/puglia-southern-italy-guide) if Rome made you hungry for more southern Italy.
+See our [Puglia guide](/en/blog/puglia-southern-italy-guide/) if Rome made you hungry for more southern Italy.
 
 ## Where should you actually stay?
 
@@ -51,7 +51,7 @@ Three neighborhoods with clear pros and cons.
 
 **Termini area.** Practical for the train station, but unromantic. Recommendation: only if you arrive by train and need to leave early. Hotels cheaper than elsewhere.
 
-See our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison). In Rome many apartments are listed on Booking.com, often better than the tourist hotel.
+See our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison/). In Rome many apartments are listed on Booking.com, often better than the tourist hotel.
 
 ## How do you get there?
 
@@ -59,7 +59,7 @@ Practical arrival tips.
 
 **Flight.** Direct flights from major US cities to Rome-Fiumicino. Round-trip: $500-1,200 depending on season. From the airport in 30 minutes to center via Leonardo Express ($16) or airport bus ($7).
 
-**Train (within Europe).** From Munich night train to Milan, then Frecciarossa to Rome. About 16 hours, but CO2-conscious. See our [night train guide](/en/blog/night-trains-europe-2026).
+**Train (within Europe).** From Munich night train to Milan, then Frecciarossa to Rome. About 16 hours, but CO2-conscious. See our [night train guide](/en/blog/night-trains-europe-2026/).
 
 **Car.** Not recommended for 48 hours. Rome has a restrictive city zone (ZTL), parking costs $33+ per day. Anyone wanting to explore the region rents a car only after Rome.
 
@@ -90,6 +90,6 @@ Buy tickets online at vatican.va in advance for 8am (opening). Plus audio guide,
 ---
 
 **Read more:**
-- [Puglia: Italy's most underrated southern region](/en/blog/puglia-southern-italy-guide)
-- [Airbnb vs hotel: which one is actually worth it?](/en/blog/airbnb-vs-hotel-comparison)
-- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026)
+- [Puglia: Italy's most underrated southern region](/en/blog/puglia-southern-italy-guide/)
+- [Airbnb vs hotel: which one is actually worth it?](/en/blog/airbnb-vs-hotel-comparison/)
+- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026/)

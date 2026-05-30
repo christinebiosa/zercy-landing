@@ -90,6 +90,6 @@ Las casas flotantes son ideales para viajes cortos porque generalmente no tienen
 
 ## Más artículos
 
-- [Glamping en Europa: las mejores destinaciones](/es/blog/glamping-vacaciones-europa)
-- [Airbnb vs. hotel: ¿cuál elegir?](/es/blog/airbnb-vs-hotel-comparacion)
-- [Hoteles boutique: la guía completa](/es/blog/hoteles-boutique-guia)
+- [Glamping en Europa: las mejores destinaciones](/es/blog/glamping-vacaciones-europa/)
+- [Airbnb vs. hotel: ¿cuál elegir?](/es/blog/airbnb-vs-hotel-comparacion/)
+- [Hoteles boutique: la guía completa](/es/blog/hoteles-boutique-guia/)

@@ -94,6 +94,6 @@ In den meisten Jahren blühen die Kirschbäume in Kyoto Ende März bis Anfang Ap
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
-- [Japan jenseits von Tokio: Kyoto, Nara, Hiroshima](/blog/japan-jenseits-von-tokio)
-- [Wo übernachten in Seoul: Gangnam oder Hongdae?](/blog/wo-uebernachten-seoul)
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio/)
+- [Japan jenseits von Tokio: Kyoto, Nara, Hiroshima](/blog/japan-jenseits-von-tokio/)
+- [Wo übernachten in Seoul: Gangnam oder Hongdae?](/blog/wo-uebernachten-seoul/)

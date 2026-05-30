@@ -77,7 +77,7 @@ El aeropuerto Al Massira está a 25 km al sureste de la ciudad. Los taxis cuesta
 
 ### ¿Qué se puede hacer en Agadir además de la playa?
 
-Souk El Had (uno de los mercados más grandes del sur de Marruecos), ruinas de la Kasbah con vistas a la bahía, Valle des Oiseaux, excursiones de un día a Tiznit (ciudad de orfebrería en plata), Taroudant (una pequeña Marrakech). La [guía de ciudades de Marruecos](/es/blog/marruecos-ciudades-guia) muestra qué vale la pena en la región.
+Souk El Had (uno de los mercados más grandes del sur de Marruecos), ruinas de la Kasbah con vistas a la bahía, Valle des Oiseaux, excursiones de un día a Tiznit (ciudad de orfebrería en plata), Taroudant (una pequeña Marrakech). La [guía de ciudades de Marruecos](/es/blog/marruecos-ciudades-guia/) muestra qué vale la pena en la región.
 
 ### ¿Cuál es la mejor playa de Agadir?
 
@@ -90,6 +90,6 @@ Agadir se considera una de las ciudades más seguras de Marruecos para turistas.
 ---
 
 **Leer más:**
-- [Guía de ciudades de Marruecos: Fez, Marrakech y la costa](/es/blog/marruecos-ciudades-guia)
-- [Dónde alojarse en Marrakech: Los 5 mejores barrios](/es/blog/donde-alojarse-marrakech)
-- [Riads en Marruecos: Qué cuestan y cómo encontrar el mejor](/es/blog/riads-marruecos-guia)
+- [Guía de ciudades de Marruecos: Fez, Marrakech y la costa](/es/blog/marruecos-ciudades-guia/)
+- [Dónde alojarse en Marrakech: Los 5 mejores barrios](/es/blog/donde-alojarse-marrakech/)
+- [Riads en Marruecos: Qué cuestan y cómo encontrar el mejor](/es/blog/riads-marruecos-guia/)

@@ -114,6 +114,6 @@ komoot is the most widely used in the DACH region and has the most detailed maps
 ---
 
 **Read more:**
-- [Best Long-Distance Hiking Trails in the World: Top 8 Routes](/en/blog/best-long-distance-hiking-trails-world)
-- [Switzerland Travel Highlights: The Guide](/en/blog/switzerland-travel-highlights)
-- [Where to Stay in Salzburg: The 5 Neighborhoods](/en/blog/where-to-stay-salzburg)
+- [Best Long-Distance Hiking Trails in the World: Top 8 Routes](/en/blog/best-long-distance-hiking-trails-world/)
+- [Switzerland Travel Highlights: The Guide](/en/blog/switzerland-travel-highlights/)
+- [Where to Stay in Salzburg: The 5 Neighborhoods](/en/blog/where-to-stay-salzburg/)

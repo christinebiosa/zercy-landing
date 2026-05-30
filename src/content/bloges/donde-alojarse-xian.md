@@ -55,7 +55,7 @@ El Ejército de Terracota está a unos 40 kilómetros al este del centro. La may
 
 Rango de precios: 50 a 160 euros. Mejores opciones: **Novotel Xi'an Airport** (servicio de shuttle directo, cómodo y fiable), **Mercure Xi'an High-Tech Zone** (asequible, buenas valoraciones), **Days Hotel & Suites Xi'an** (económico, cerca del aeropuerto).
 
-Para llegar al Ejército de Terracota: línea de metro 9 hasta la terminal Fangzhicheng, luego autobús 306. Unos 90 minutos en total, muy barato. Para más consejos de viaje económico por Asia, consulta la guía de [Sudeste Asiático viaje económico](/es/blog/sudeste-asiatico-viaje-economico).
+Para llegar al Ejército de Terracota: línea de metro 9 hasta la terminal Fangzhicheng, luego autobús 306. Unos 90 minutos en total, muy barato. Para más consejos de viaje económico por Asia, consulta la guía de [Sudeste Asiático viaje económico](/es/blog/sudeste-asiatico-viaje-economico/).
 
 ## Qujiang: Tranquilo y cultural en el sur
 
@@ -63,7 +63,7 @@ Qujiang es una zona de desarrollo cultural más nueva en el sur de la ciudad. Aq
 
 Rango de precios: 65 a 200 euros. Mejores opciones: **Renaissance Xi'an Hotel** (hotel con estilo, ambiente Qujiang, piscina), **Xi'an Tang Paradise Hotel** (cerca del parque cultural, estética histórica china), **Hampton Inn by Hilton Xi'an Qujiang** (gama media sólida, buena relación calidad-precio).
 
-Qujiang encaja bien en itinerarios más amplios por Asia. Si estás planificando un viaje largo, la guía [Japón: ruta de 3 semanas](/es/blog/japon-3-semanas-ruta) tiene mucha inspiración para armar un circuito por Asia Oriental.
+Qujiang encaja bien en itinerarios más amplios por Asia. Si estás planificando un viaje largo, la guía [Japón: ruta de 3 semanas](/es/blog/japon-3-semanas-ruta/) tiene mucha inspiración para armar un circuito por Asia Oriental.
 
 ## ¿Dónde deberías reservar al final?
 
@@ -91,6 +91,6 @@ El Ejército de Terracota es imprescindible. Además: un paseo nocturno por el B
 
 ## Leer más
 
-- [Dónde alojarse en Seúl](/es/blog/donde-alojarse-seul)
-- [Dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio)
-- [¿Vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena)
+- [Dónde alojarse en Seúl](/es/blog/donde-alojarse-seul/)
+- [Dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio/)
+- [¿Vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena/)

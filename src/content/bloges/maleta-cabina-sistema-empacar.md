@@ -28,7 +28,7 @@ Antes de empacar, necesitas saber con qué aerolínea vuelas. Las diferencias so
 
 La mayoría de viajeros va bien con una mochila de 30 a 40 litros. Cabe en casi todos los compartimentos superiores y cumple con el límite gratuito de Ryanair si no la rellenas de más. Quien viaja seguido con low-cost debería conocer las [reglas de equipaje de mano de la IATA](https://www.iata.org/en/programs/passenger/baggage/) — cada aerolínea puede apartarse de ellas.
 
-Si te preguntas cuándo conviene viajar solo con equipaje de mano, [Equipaje de mano vs. facturado](/es/blog/equipaje-mano-vs-facturado) tiene el análisis honesto.
+Si te preguntas cuándo conviene viajar solo con equipaje de mano, [Equipaje de mano vs. facturado](/es/blog/equipaje-mano-vs-facturado/) tiene el análisis honesto.
 
 ## ¿Por qué los cubos organizadores marcan la diferencia?
 
@@ -70,7 +70,7 @@ Para trajes o vestidos formales: enrolla el blazer alrededor de una camiseta par
 
 Lo que dejas atrás: el segundo par de mallas deportivas. Los vaqueros "por si acaso". El jersey grueso. Todo lo que existe para un escenario hipotético.
 
-Vale la pena leer sobre el método cápsula en [Maleta cápsula para equipaje de mano](/es/blog/maleta-capsula-equipaje-mano). Y para saber si viajar solo con equipaje de mano siempre funciona, [Solo equipaje de mano](/es/blog/solo-equipaje-de-mano) tiene la respuesta honesta.
+Vale la pena leer sobre el método cápsula en [Maleta cápsula para equipaje de mano](/es/blog/maleta-capsula-equipaje-mano/). Y para saber si viajar solo con equipaje de mano siempre funciona, [Solo equipaje de mano](/es/blog/solo-equipaje-de-mano/) tiene la respuesta honesta.
 
 ## ¿Cómo manejas los líquidos correctamente?
 
@@ -88,7 +88,7 @@ Pero la solución real está en las alternativas:
 
 Lo que compras en destino: botellas grandes de gel y champú. Baratos en cualquier supermercado. Merece la pena para evitar el estrés en el control.
 
-Para las reglas oficiales sobre qué se permite, la [página de seguridad de la Comisión Europea](https://ec.europa.eu/transport/modes/air/security/aviation_security_en) tiene la normativa vigente. Y si te preguntas si vale la pena pagar por embarque prioritario, [Embarque prioritario: ¿vale la pena?](/es/blog/embarque-prioritario-vale-la-pena) lo aclara.
+Para las reglas oficiales sobre qué se permite, la [página de seguridad de la Comisión Europea](https://ec.europa.eu/transport/modes/air/security/aviation_security_en) tiene la normativa vigente. Y si te preguntas si vale la pena pagar por embarque prioritario, [Embarque prioritario: ¿vale la pena?](/es/blog/embarque-prioritario-vale-la-pena/) lo aclara.
 
 ## ¿Qué haces con ocasiones formales o situaciones límite?
 
@@ -145,6 +145,6 @@ El champú sólido, el desodorante en barra y la hidratante sólida eliminan o v
 ---
 
 **Más artículos:**
-- [Solo equipaje de mano: qué cabe de verdad](/es/blog/solo-equipaje-de-mano)
-- [Maleta cápsula para equipaje de mano](/es/blog/maleta-capsula-equipaje-mano)
-- [Embarque prioritario: ¿vale la pena de verdad?](/es/blog/embarque-prioritario-vale-la-pena)
+- [Solo equipaje de mano: qué cabe de verdad](/es/blog/solo-equipaje-de-mano/)
+- [Maleta cápsula para equipaje de mano](/es/blog/maleta-capsula-equipaje-mano/)
+- [Embarque prioritario: ¿vale la pena de verdad?](/es/blog/embarque-prioritario-vale-la-pena/)

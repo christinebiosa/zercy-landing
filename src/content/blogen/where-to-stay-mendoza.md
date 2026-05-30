@@ -45,7 +45,7 @@ The city itself has 1 million inhabitants with Plaza Independencia as the heart.
 
 **Top picks:** Cavas Wine Lodge - Relais & Châteaux (legendary casitas with private pools), Algodon Wine Estates (5-star with golf and polo), The Vines Resort & Spa (premium with spa between vines).
 
-See our [Buenos Aires guide](/en/blog/where-to-stay-buenos-aires), Mendoza is 2 hours flight from BA and a perfect combo.
+See our [Buenos Aires guide](/en/blog/where-to-stay-buenos-aires/), Mendoza is 2 hours flight from BA and a perfect combo.
 
 ## When is the best time to visit Mendoza?
 
@@ -119,6 +119,6 @@ Backpacker: $900-1,300 per person incl. flight (hostel in the city, local steak 
 ---
 
 **Read more:**
-- [Where to stay in Buenos Aires: 5 neighborhoods](/en/blog/where-to-stay-buenos-aires)
-- [Where to stay in Lima: 4 neighborhoods](/en/blog/where-to-stay-lima)
-- [Where to stay in Cusco: 4 neighborhoods](/en/blog/where-to-stay-cusco)
+- [Where to stay in Buenos Aires: 5 neighborhoods](/en/blog/where-to-stay-buenos-aires/)
+- [Where to stay in Lima: 4 neighborhoods](/en/blog/where-to-stay-lima/)
+- [Where to stay in Cusco: 4 neighborhoods](/en/blog/where-to-stay-cusco/)

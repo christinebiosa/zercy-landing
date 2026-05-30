@@ -40,7 +40,7 @@ In Asia and Latin America, the picture is different. Thailand is the clearest ex
 
 **Practical rule:** Carry 100 to 200 euros worth of local currency as a buffer. Pay the rest by card or withdraw as needed. Never exchange everything at once. You'll end up with leftover foreign cash that's difficult to convert back.
 
-For more on stretching your budget while traveling, check out [travel savings and budget planning](/en/blog/travel-savings-budget-planning) and [Southeast Asia on a budget](/en/blog/southeast-asia-budget-travel).
+For more on stretching your budget while traveling, check out [travel savings and budget planning](/en/blog/travel-savings-budget-planning/) and [Southeast Asia on a budget](/en/blog/southeast-asia-budget-travel/).
 
 ## What is the DCC trap and how do you spot it?
 
@@ -62,9 +62,9 @@ Once verified: top up via SEPA transfer, order a physical card or set up Apple P
 
 Either beats a traditional bank charging 2 to 3 percent foreign transaction fees.
 
-If you're heading to Southeast Asia, [Southeast Asia budget travel](/en/blog/southeast-asia-budget-travel) covers cash realities on the ground in detail. For Latin America, [safety tips for Latin America](/en/blog/latin-america-safety-tips) includes practical advice on handling cash in different countries.
+If you're heading to Southeast Asia, [Southeast Asia budget travel](/en/blog/southeast-asia-budget-travel/) covers cash realities on the ground in detail. For Latin America, [safety tips for Latin America](/en/blog/latin-america-safety-tips/) includes practical advice on handling cash in different countries.
 
-And for a full comparison of the [best travel credit cards in 2026](/en/blog/travel-savings-budget-planning), the linked guide has you covered.
+And for a full comparison of the [best travel credit cards in 2026](/en/blog/travel-savings-budget-planning/), the linked guide has you covered.
 
 ---
 
@@ -92,6 +92,6 @@ DCC, or Dynamic Currency Conversion, happens when a terminal or ATM offers to co
 
 ## Read more
 
-- [Travel savings and budget planning](/en/blog/travel-savings-budget-planning)
-- [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel)
-- [Latin America safety tips for travelers](/en/blog/latin-america-safety-tips)
+- [Travel savings and budget planning](/en/blog/travel-savings-budget-planning/)
+- [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel/)
+- [Latin America safety tips for travelers](/en/blog/latin-america-safety-tips/)

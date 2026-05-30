@@ -56,7 +56,7 @@ No claim for genuine natural disasters (volcanic eruption, extreme storms), poli
 
 **Limitation period:** Generally 2 to 3 years from the flight date depending on the country. Don't wait too long.
 
-More on related rights: [flight delay compensation](/en/blog/flight-delay-compensation-eu261) and [what to do during a flight strike](/en/blog/flight-strike-rights-what-to-do).
+More on related rights: [flight delay compensation](/en/blog/flight-delay-compensation-eu261/) and [what to do during a flight strike](/en/blog/flight-strike-rights-what-to-do/).
 
 ## What else is the airline required to provide?
 
@@ -92,6 +92,6 @@ Private flights, charter flights without a purchased ticket, flights departing o
 
 ## Read more
 
-- [Flight Delay Compensation: How to Claim Under EU261](/en/blog/flight-delay-compensation-eu261)
-- [Flight Strike: Your Rights When the Airline Strikes](/en/blog/flight-strike-rights-what-to-do)
-- [Cheap Flights: The Best Tips for Saving on Airfare](/en/blog/cheap-flights-tips)
+- [Flight Delay Compensation: How to Claim Under EU261](/en/blog/flight-delay-compensation-eu261/)
+- [Flight Strike: Your Rights When the Airline Strikes](/en/blog/flight-strike-rights-what-to-do/)
+- [Cheap Flights: The Best Tips for Saving on Airfare](/en/blog/cheap-flights-tips/)

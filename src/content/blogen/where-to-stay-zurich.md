@@ -59,7 +59,7 @@ Former industrial area west of the Old Town, transformed into a creative hub ove
 
 **Top picks:** Sheraton Zürich Hotel (large, well-connected), Motel One Zürich (affordable design hotel), boutique hotels in freshly renovated industrial style.
 
-Our [Berlin neighborhood guide](/en/blog/where-to-stay-berlin) covers a similar industrial-district transformation if you want a comparison.
+Our [Berlin neighborhood guide](/en/blog/where-to-stay-berlin/) covers a similar industrial-district transformation if you want a comparison.
 
 ## Seefeld/District 8: Upscale Zurich
 
@@ -92,7 +92,7 @@ For Zurich, [Booking.com](https://www.booking.com) is well stocked:
 
 Alternatively, contact Swiss boutique hotels directly. Many are listed on Booking.com but sometimes offer lower direct rates for longer stays.
 
-Read our [Stockholm guide](/en/blog/where-to-stay-stockholm) and [Copenhagen guide](/en/blog/where-to-stay-copenhagen) for more expensive northern European cities with solid budget alternatives.
+Read our [Stockholm guide](/en/blog/where-to-stay-stockholm/) and [Copenhagen guide](/en/blog/where-to-stay-copenhagen/) for more expensive northern European cities with solid budget alternatives.
 
 ---
 
@@ -119,6 +119,6 @@ S-Bahn from the airport directly to the main station (HB) in 13 minutes, cheap a
 ---
 
 **Read more:**
-- [Where to Stay in Vienna: The 5 Neighborhoods](/en/blog/where-to-stay-vienna)
-- [Where to Stay in Berlin: The 5 Neighborhoods](/en/blog/where-to-stay-berlin)
-- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe)
+- [Where to Stay in Vienna: The 5 Neighborhoods](/en/blog/where-to-stay-vienna/)
+- [Where to Stay in Berlin: The 5 Neighborhoods](/en/blog/where-to-stay-berlin/)
+- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe/)

@@ -71,7 +71,7 @@ Amara es el barrio residencial más allá del centro, con la estación Norte (Re
 
 Para San Sebastián, [Booking.com](https://www.booking.com) es la mejor plataforma. Las pequeñas pensiones de la Parte Vieja que no tienen presencia web propia están completamente listadas allí. El Festival Internacional de Cine de San Sebastián (septiembre) y la Semana Grande (agosto) significan precios muy elevados: reservar con antelación o elegir mayo u octubre en su lugar.
 
-Consulta también: [Dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid) y [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona).
+Consulta también: [Dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid/) y [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/).
 
 ---
 
@@ -99,6 +99,6 @@ En autobús (Pesa o ALSA): unas 1 hora 20 minutos, unos 7-10 euros. En coche por
 
 ## Más artículos
 
-- [Dónde alojarse en Barcelona: Los 5 barrios](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Madrid: Barrios y hoteles](/es/blog/donde-alojarse-madrid)
-- [Ruta Portugal: El itinerario perfecto](/es/blog/ruta-portugal-completa)
+- [Dónde alojarse en Barcelona: Los 5 barrios](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Madrid: Barrios y hoteles](/es/blog/donde-alojarse-madrid/)
+- [Ruta Portugal: El itinerario perfecto](/es/blog/ruta-portugal-completa/)

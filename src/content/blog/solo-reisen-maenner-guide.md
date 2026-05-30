@@ -28,7 +28,7 @@ Nicht jedes Ziel ist gleich. Drei, die besonders gut funktionieren:
 
 **Japan** ist die klassische Empfehlung. Und das aus gutem Grund. Das Land ist sicher, sauber, logisch aufgebaut. Öffentliche Verkehrsmittel funktionieren. Als Alleinreisender bist du kein Ausnahmefall. Japaner reisen selbst häufig solo. Restaurants haben Einzelsitzplätze an der Theke, Konbinis haben alles was du brauchst, und Ryokans nehmen auch Einzelgäste. Der kulturelle Reiz ist enorm, das soziale Risiko minimal.
 
-**Kolumbien** ist das Gegenteil. Hier ist soziales Kapital die Währung. Cartagena, Medellín, Bogotá. Die Leute reden, laden ein, fragen nach. Für Männer, die aktiv Kontakte suchen, ist Kolumbien fast zu leicht. Sicherheit erfordert mehr Aufmerksamkeit als in Japan, aber wer die Grundregeln kennt (keine Displays von teuren Geräten, keine unsicheren Stadtteile nachts) kommt problemlos durch. Lies dazu vorher unsere [Latinamerika Sicherheitstipps](/blog/lateinamerika-sicherheit-tipps).
+**Kolumbien** ist das Gegenteil. Hier ist soziales Kapital die Währung. Cartagena, Medellín, Bogotá. Die Leute reden, laden ein, fragen nach. Für Männer, die aktiv Kontakte suchen, ist Kolumbien fast zu leicht. Sicherheit erfordert mehr Aufmerksamkeit als in Japan, aber wer die Grundregeln kennt (keine Displays von teuren Geräten, keine unsicheren Stadtteile nachts) kommt problemlos durch. Lies dazu vorher unsere [Latinamerika Sicherheitstipps](/blog/lateinamerika-sicherheit-tipps/).
 
 **Portugal** ist der entspannte Mittelweg. Günstiger als der Rest Westeuropas, englischfreundlich, mit einer Hostelkultur, die seit Jahren wächst. Lissabon und Porto haben starke Nomad-Szenen. Du findest immer jemanden zum Abendessen.
 
@@ -42,7 +42,7 @@ Das ist die eigentliche Frage. Und die Antwort ist weniger kompliziert als befü
 
 **Meetup.com** ist unterschätzt. In fast jeder größeren Stadt gibt es Gruppen für Hiking, Brettspiele, Sprachtausch oder einfach Expat-Drinks. Du musst keine Tickets kaufen, keine Vorgeschichte mitbringen. Einfach hinfahren. Hier geht es zu [Meetup](https://www.meetup.com/) direkt.
 
-**Couchsurfing-Events** funktionieren ähnlich, auch wenn du selbst nicht surfst. Die Plattform hat Veranstaltungen in vielen Städten. Lies dazu auch unseren [Couchsurfing Guide 2026](/blog/couchsurfing-guide-2026).
+**Couchsurfing-Events** funktionieren ähnlich, auch wenn du selbst nicht surfst. Die Plattform hat Veranstaltungen in vielen Städten. Lies dazu auch unseren [Couchsurfing Guide 2026](/blog/couchsurfing-guide-2026/).
 
 **Sportclubs vor Ort** sind der Geheimtipp. Fußball, Klettern, Laufen. Männer finden am einfachsten Kontakt über gemeinsame Aktivitäten. Ein lokaler Fußballklub der Expats, ein Kletterzentrum, ein Parkrun am Samstagmorgen. Du hast sofort ein Gesprächsthema.
 
@@ -60,7 +60,7 @@ Plane deine nächste Route einfach mit [Zercy](https://www.zercy.app/) und speic
 
 ## Wie unterscheidet sich Solo-Reisen für Männer von dem für Frauen?
 
-Ohne Vergleich fehlt der Kontext. Lies dazu auch unseren Artikel zu [Solo-Reisen für Frauen: sicherste Länder](/blog/solo-reisen-frauen-sicher).
+Ohne Vergleich fehlt der Kontext. Lies dazu auch unseren Artikel zu [Solo-Reisen für Frauen: sicherste Länder](/blog/solo-reisen-frauen-sicher/).
 
 Der Unterschied ist real. Frauen planen mit mehr Sicherheitsüberlegungen. Accommodation, Nachtrouten, Verhalten bei Belästigung. Für Männer ist das eine andere Kalibrierung. Weniger Angst vor Übergriffen, mehr Risiko für Diebstahl und Betrug. Kein Vorteil, nur eine andere Risikoverteilung.
 
@@ -74,7 +74,7 @@ Weil du dabei herausfindest, was du wirklich willst. Kein Kompromiss mit Reisebe
 
 ### Welche Länder sind am sichersten für männliche Alleinreisende?
 
-Japan, Island, Portugal und Neuseeland gehören zu den sichersten Optionen. Kolumbien und Georgien sind mit Grundvorsicht ebenfalls gut geeignet. Lies dazu auch unseren [Backpacking Einsteiger Guide](/blog/backpacking-einsteiger-guide).
+Japan, Island, Portugal und Neuseeland gehören zu den sichersten Optionen. Kolumbien und Georgien sind mit Grundvorsicht ebenfalls gut geeignet. Lies dazu auch unseren [Backpacking Einsteiger Guide](/blog/backpacking-einsteiger-guide/).
 
 ### Wie viel kostet eine Solo-Reise als Mann?
 
@@ -87,6 +87,6 @@ Weniger als du denkst. Der oft gefürchtete Einzelzimmer-Aufschlag lässt sich d
 ---
 
 **Mehr lesen:**
-- [Couchsurfing Guide 2026: So funktioniert es wirklich](/blog/couchsurfing-guide-2026)
-- [Backpacking für Einsteiger: Alles was du brauchst](/blog/backpacking-einsteiger-guide)
-- [Lateinamerika Sicherheitstipps für Alleinreisende](/blog/lateinamerika-sicherheit-tipps)
+- [Couchsurfing Guide 2026: So funktioniert es wirklich](/blog/couchsurfing-guide-2026/)
+- [Backpacking für Einsteiger: Alles was du brauchst](/blog/backpacking-einsteiger-guide/)
+- [Lateinamerika Sicherheitstipps für Alleinreisende](/blog/lateinamerika-sicherheit-tipps/)

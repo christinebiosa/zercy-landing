@@ -47,7 +47,7 @@ Gurney Drive liegt westlich von George Town direkt am Meer. Die Promenade ist ab
 
 **Top-Picks:** G Hotel Gurney (sehr gut angebundenes 4-Sterne-Hotel direkt an der Promenade), G Hotel Kelawai (etwas günstiger, ruhiger), Penang Marriott (Premium-Option mit Poolblick).
 
-Wenn du mit Kuala Lumpur kombinierst, lies unseren [Wo übernachten in Kuala Lumpur](/blog/wo-uebernachten-kuala-lumpur) Guide vorab.
+Wenn du mit Kuala Lumpur kombinierst, lies unseren [Wo übernachten in Kuala Lumpur](/blog/wo-uebernachten-kuala-lumpur/) Guide vorab.
 
 ## Wann ist die beste Reisezeit für Penang?
 
@@ -63,7 +63,7 @@ Batu Ferringhi liegt etwa 20 Minuten von George Town entfernt an der Nordküste.
 
 **Top-Picks:** Hard Rock Hotel Penang (familienfreundlich, direkt am Strand, großer Poolbereich), Lone Pine Hotel (klassisches Boutique-Beach-Hotel, sehr Atmosphäre), Bayview Beach Resort (solide Mid-Range-Option mit großzügigem Gelände).
 
-Weitere Strand-Destinationen in der Region findest du im Guide zu [Singapur als Basis für Südostasien-Reisen](/blog/wo-uebernachten-singapur).
+Weitere Strand-Destinationen in der Region findest du im Guide zu [Singapur als Basis für Südostasien-Reisen](/blog/wo-uebernachten-singapur/).
 
 ## Tanjung Tokong: Expat-Viertel
 
@@ -97,7 +97,7 @@ Für Penang ist [Booking.com](https://www.booking.com) die erste Adresse:
 
 Wer im Hochbetrieb (chinesisches Neujahr, George Town Festival) reist: mindestens 2-3 Monate im Voraus buchen. Heritage-Boutiques in George Town haben sehr wenig Zimmer und sind schnell ausgebucht.
 
-Wenn du die Reise mit weiteren Südostasien-Zielen kombinierst, schau in den [Singapur-Stadtteil-Guide](/blog/wo-uebernachten-singapur) und den [Kuala Lumpur-Guide](/blog/wo-uebernachten-kuala-lumpur).
+Wenn du die Reise mit weiteren Südostasien-Zielen kombinierst, schau in den [Singapur-Stadtteil-Guide](/blog/wo-uebernachten-singapur/) und den [Kuala Lumpur-Guide](/blog/wo-uebernachten-kuala-lumpur/).
 
 ---
 
@@ -124,6 +124,6 @@ November bis Februar ist ideal. Trockene Periode an der Westküste, angenehme Te
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Kuala Lumpur: Die 5 Stadtteile](/blog/wo-uebernachten-kuala-lumpur)
-- [Wo übernachten in Singapur: Die 5 Stadtteile](/blog/wo-uebernachten-singapur)
-- [Reisen mit kleinem Budget: Tipps für Südostasien](/blog/reisen-kleines-budget-tipps)
+- [Wo übernachten in Kuala Lumpur: Die 5 Stadtteile](/blog/wo-uebernachten-kuala-lumpur/)
+- [Wo übernachten in Singapur: Die 5 Stadtteile](/blog/wo-uebernachten-singapur/)
+- [Reisen mit kleinem Budget: Tipps für Südostasien](/blog/reisen-kleines-budget-tipps/)

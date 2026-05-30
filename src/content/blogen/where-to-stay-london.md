@@ -100,7 +100,7 @@ For London [Booking.com](https://www.booking.com) is clearly the best platform:
 
 Direct hotel booking only worth it for top hotels (Savoy, Claridge's) for welcome drinks and possible upgrades.
 
-See our [hidden city ticketing guide](/en/blog/hidden-city-ticketing-explained) — London is a top hub for this trick.
+See our [hidden city ticketing guide](/en/blog/hidden-city-ticketing-explained/) — London is a top hub for this trick.
 
 ---
 
@@ -127,6 +127,6 @@ Backpacker: £1,000-1,400 per person incl. flight (hostel, pub food, public tran
 ---
 
 **Read more:**
-- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris)
-- [Where to stay in Amsterdam: 5 neighborhoods](/en/blog/where-to-stay-amsterdam)
-- [Hidden city ticketing: how the sneaky trick works](/en/blog/hidden-city-ticketing-explained)
+- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris/)
+- [Where to stay in Amsterdam: 5 neighborhoods](/en/blog/where-to-stay-amsterdam/)
+- [Hidden city ticketing: how the sneaky trick works](/en/blog/hidden-city-ticketing-explained/)

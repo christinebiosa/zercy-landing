@@ -45,7 +45,7 @@ Justo al norte de Candelaria. El barrio más hipster de Bogotá con cientos de b
 
 **Top picks:** Hotel Click Clack (boutique de diseñador con bar en azotea), Hotel BH El Retiro (gama media moderna), 100% B&B (boutique pequeño con desayuno).
 
-Lee también nuestra [guía de Cartagena](/es/blog/donde-alojarse-cartagena), si vas a explorar Colombia completa.
+Lee también nuestra [guía de Cartagena](/es/blog/donde-alojarse-cartagena/), si vas a explorar Colombia completa.
 
 ## ¿Cuándo es la mejor época para ir a Bogotá?
 
@@ -119,6 +119,6 @@ Mochilero: 700-1.000 USD por persona incl. vuelo (hostal en Candelaria, comida l
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena)
-- [Dónde alojarse en Medellín: 4 barrios](/es/blog/donde-alojarse-medellin)
-- [Dónde alojarse en Lima: 4 barrios](/es/blog/donde-alojarse-lima)
+- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena/)
+- [Dónde alojarse en Medellín: 4 barrios](/es/blog/donde-alojarse-medellin/)
+- [Dónde alojarse en Lima: 4 barrios](/es/blog/donde-alojarse-lima/)

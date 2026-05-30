@@ -91,11 +91,11 @@ Diani Beach al sur del continente tiene la arena blanca más fina y el agua más
 
 ### ¿Cuánto cuesta Mombasa comparado con otros destinos de Kenia?
 
-Los hoteles de playa de Mombasa son más caros que los hoteles urbanos de Nairobi, pero más económicos que los lodges del Maasai Mara. Un buen hotel de playa cuesta entre 100 y 200 USD por noche. Las pensiones en la Ciudad Antigua comienzan desde 20 USD. La [guía de viaje de Kenia](/es/blog/kenia-guia-viaje-highlights) cubre las estructuras de costes completas del país.
+Los hoteles de playa de Mombasa son más caros que los hoteles urbanos de Nairobi, pero más económicos que los lodges del Maasai Mara. Un buen hotel de playa cuesta entre 100 y 200 USD por noche. Las pensiones en la Ciudad Antigua comienzan desde 20 USD. La [guía de viaje de Kenia](/es/blog/kenia-guia-viaje-highlights/) cubre las estructuras de costes completas del país.
 
 ---
 
 **Leer más:**
-- [Guía de viaje de Kenia: Safari, costa y highlights](/es/blog/kenia-guia-viaje-highlights)
-- [Safari en África Oriental: La guía completa de planificación](/es/blog/safari-africa-oriental-guia)
-- [Zanzíbar Stone Town: Lo que necesitas saber](/es/blog/zanzibar-stone-town-guia)
+- [Guía de viaje de Kenia: Safari, costa y highlights](/es/blog/kenia-guia-viaje-highlights/)
+- [Safari en África Oriental: La guía completa de planificación](/es/blog/safari-africa-oriental-guia/)
+- [Zanzíbar Stone Town: Lo que necesitas saber](/es/blog/zanzibar-stone-town-guia/)

@@ -41,7 +41,7 @@ Winter in den Karpaten (Poiana Brasov als Skizentrum) für Wintersport. Bukarest
 
 Rumänien ist ein sicheres EU-Reiseziel. Kleinkriminalität in Bukarest wie in jeder größeren Stadt. In Transsylvanien und auf dem Land ist es sehr ruhig. Hunde auf dem Land können aggressiv sein beim Wandern. Gesundheitsversorgung auf EU-Standard in den Städten, auf dem Land eingeschränkt.
 
-Reiseversicherung empfohlen wie überall. Die [offizielle rumänische Tourismusbehörde](https://www.romaniatourism.com/) hat regionale Informationen und Routenvorschläge. Für [Reiseversicherungs-Tipps](/blog/reiseversicherung-was-lohnt-sich) lies unseren separaten Guide.
+Reiseversicherung empfohlen wie überall. Die [offizielle rumänische Tourismusbehörde](https://www.romaniatourism.com/) hat regionale Informationen und Routenvorschläge. Für [Reiseversicherungs-Tipps](/blog/reiseversicherung-was-lohnt-sich/) lies unseren separaten Guide.
 
 ---
 
@@ -68,6 +68,6 @@ Mici (kleine Fleischröllchen vom Grill), Mămăligă (Polenta), Ciorbă de burt
 ---
 
 **Mehr lesen:**
-- [Balkan Roadtrip Route](/blog/balkan-roadtrip-route)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Geheimtipps Europa](/blog/geheimtipps-europa)
+- [Balkan Roadtrip Route](/blog/balkan-roadtrip-route/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Geheimtipps Europa](/blog/geheimtipps-europa/)

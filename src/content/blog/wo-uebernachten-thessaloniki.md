@@ -79,7 +79,7 @@ Kalamaria ist ein Vorort östlich der Stadtgrenze, direkt am Meer. Keine großen
 
 **Top-Picks:** Capsis Hotel Thessaloniki (größtes Hotel der Gegend, Familien-freundlich), kleine Apartments direkt am Strand über Booking.
 
-Lies auch unseren [Griechenland Inseln Vergleich](/blog/griechenste-inseln-vergleich), wenn du Thessaloniki mit Inseln kombinieren willst.
+Lies auch unseren [Griechenland Inseln Vergleich](/blog/griechenste-inseln-vergleich/), wenn du Thessaloniki mit Inseln kombinieren willst.
 
 ## Pylaia und Panorama: Luxuriöses Thessaloniki
 
@@ -125,6 +125,6 @@ Der Flughafen Thessaloniki (SKG) liegt ca. 16 km östlich vom Zentrum. Mit Taxi 
 ---
 
 **Mehr lesen:**
-- [Beste Hotels in Athen: Wo übernachten in welchem Stadtteil](/blog/wo-uebernachten-athen)
-- [Beste Hotels auf Mykonos: Wo übernachten in welchem Stadtteil](/blog/wo-uebernachten-mykonos)
-- [Beste Hotels auf Santorini: Wo übernachten in welchem Stadtteil](/blog/wo-uebernachten-santorini)
+- [Beste Hotels in Athen: Wo übernachten in welchem Stadtteil](/blog/wo-uebernachten-athen/)
+- [Beste Hotels auf Mykonos: Wo übernachten in welchem Stadtteil](/blog/wo-uebernachten-mykonos/)
+- [Beste Hotels auf Santorini: Wo übernachten in welchem Stadtteil](/blog/wo-uebernachten-santorini/)

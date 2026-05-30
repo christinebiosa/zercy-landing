@@ -53,7 +53,7 @@ Hotels im 7. Bezirk kosten 20 bis 35 Prozent weniger als im 5. Bezirk. Für Reis
 - **Corvin Hotel Budapest** (3-Sterne, solide, ca. 85 Euro)
 - **Gerloczy Rooms** (Boutique, Innenstadtnähe, ca. 100 Euro)
 
-Ähnliche Preis-Lage-Kalkulation wie Haidhausen in München oder Kadıköy in Istanbul: Schau auch in unsere Guides zu [Wo übernachten in Wien](/blog/wo-uebernachten-wien) und [Wo übernachten in Prag](/blog/wo-uebernachten-prag).
+Ähnliche Preis-Lage-Kalkulation wie Haidhausen in München oder Kadıköy in Istanbul: Schau auch in unsere Guides zu [Wo übernachten in Wien](/blog/wo-uebernachten-wien/) und [Wo übernachten in Prag](/blog/wo-uebernachten-prag/).
 
 ## Burgviertel (1. Bezirk): Für Romantik und Panorama
 
@@ -97,6 +97,6 @@ Das Széchenyi-Bad im 14. Bezirk ist das größte und bekannteste. Das Gellért-
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Wien: Die besten Stadtteile](/blog/wo-uebernachten-wien)
-- [Wo übernachten in Prag: Altstadt, Vinohrady oder Žižkov?](/blog/wo-uebernachten-prag)
-- [Günstig fliegen Tipps: Wann und wo du am meisten sparst](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in Wien: Die besten Stadtteile](/blog/wo-uebernachten-wien/)
+- [Wo übernachten in Prag: Altstadt, Vinohrady oder Žižkov?](/blog/wo-uebernachten-prag/)
+- [Günstig fliegen Tipps: Wann und wo du am meisten sparst](/blog/guenstig-fliegen-tipps/)

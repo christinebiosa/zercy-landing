@@ -47,7 +47,7 @@ Georgetown ist kein Regierungsstadtteil. Hier gibt es kein Metro-Halt. Das macht
 
 **Top-Picks:** The Graham Georgetown (klassisches Boutique-Hotel, Dachterrasse), Rosewood Washington D.C. (Luxus-Flaggschiff des Viertels), Georgetown Suites (gut für längere Aufenthalte und Familien).
 
-Unsere [New York City Hotelliste](/blog/wo-uebernachten-new-york) zeigt ähnliche Boutique-Viertel-Logik für eine weitere US-Metropole.
+Unsere [New York City Hotelliste](/blog/wo-uebernachten-new-york/) zeigt ähnliche Boutique-Viertel-Logik für eine weitere US-Metropole.
 
 ## Wann ist die beste Reisezeit für Washington D.C.?
 
@@ -63,7 +63,7 @@ Dupont Circle ist der lebhafteste Wohnbezirk der Stadt. Botschaften prägen das 
 
 **Top-Picks:** Hotel Palomar Washington D.C. (Kimpton-Boutique, gutes Design), Carlyle Georgetown (gut angebunden, solide), Dupont Circle Hotel (klassisch für das Viertel).
 
-Mehr zum Thema Stadtteil-Logik bei US-Städten: [Wo übernachten in Miami](/blog/wo-uebernachten-miami) zeigt, wie unterschiedlich Preise und Vibe in einer Stadt sein können.
+Mehr zum Thema Stadtteil-Logik bei US-Städten: [Wo übernachten in Miami](/blog/wo-uebernachten-miami/) zeigt, wie unterschiedlich Preise und Vibe in einer Stadt sein können.
 
 ## Adams Morgan: Günstig und lebendig
 
@@ -96,7 +96,7 @@ Für Washington D.C. ist [Booking.com](https://www.booking.com) gut aufgestellt:
 
 Direkt beim Hotel buchen lohnt sich bei Georgetown-Boutiques wenn du Upgrade-Behandlung und Extras willst. Für Kongress-Nähe und Business-Trips gilt: früh buchen, besonders bei Washington-Events. D.C. ist eine Event-Stadt: Inauguration, Cherry Blossom Festival, Marathons. Wer zu diesen Terminen kommt, zahlt zwei bis drei Mal mehr.
 
-Verlinke thematisch passend: Das Reiseguide-Format für Chicago funktioniert analog. Lies [Wo übernachten in Chicago](/blog/wo-uebernachten-chicago) als Vergleich zur anderen großen US-Hauptstadt-Stadt.
+Verlinke thematisch passend: Das Reiseguide-Format für Chicago funktioniert analog. Lies [Wo übernachten in Chicago](/blog/wo-uebernachten-chicago/) als Vergleich zur anderen großen US-Hauptstadt-Stadt.
 
 ---
 
@@ -123,6 +123,6 @@ Mindestens 3 Monate im Voraus für Reisen von März bis Mai (Cherry-Blossom-Zeit
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in New York: Stadtteile und Hotels](/blog/wo-uebernachten-new-york)
-- [Wo übernachten in Miami: Die 5 Stadtteile](/blog/wo-uebernachten-miami)
-- [Günstig fliegen: Tipps und Tricks 2026](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in New York: Stadtteile und Hotels](/blog/wo-uebernachten-new-york/)
+- [Wo übernachten in Miami: Die 5 Stadtteile](/blog/wo-uebernachten-miami/)
+- [Günstig fliegen: Tipps und Tricks 2026](/blog/guenstig-fliegen-tipps/)

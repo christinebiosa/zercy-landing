@@ -89,6 +89,6 @@ Motels directly along the route work well, especially in Santa Barbara and San L
 
 ## Read more
 
-- [Route 66 USA Road Trip: Highlights of the Legendary Route](/en/blog/route-66-usa-road-trip)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Australia Road Trip Route: The Best Routes for Your Journey](/en/blog/australia-road-trip-route)
+- [Route 66 USA Road Trip: Highlights of the Legendary Route](/en/blog/route-66-usa-road-trip/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Australia Road Trip Route: The Best Routes for Your Journey](/en/blog/australia-road-trip-route/)

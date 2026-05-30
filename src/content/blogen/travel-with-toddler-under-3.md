@@ -26,7 +26,7 @@ What works: beach plus pool plus a family-friendly hotel. The Canary Islands are
 
 The principle is simple. You need one fixed base where the child can play without constant packing and moving. All-inclusive hotels have a genuine advantage here: no stress finding restaurants, no negotiations over the menu.
 
-More on this: [Family Travel with Kids: The Best Tips](/en/blog/travel-with-teenagers-tips)
+More on this: [Family Travel with Kids: The Best Tips](/en/blog/travel-with-teenagers-tips/)
 
 ## How Do You Survive the Flight?
 
@@ -42,7 +42,7 @@ The flight is usually the biggest worry. Here are the points that make a real di
 
 **Ask about a bassinet for long-haul flights.** Many airlines offer a wall-mounted crib in the first row. Those seats go fast. Ask the airline directly right after booking.
 
-More tips here: [Traveling with a Baby: First Flights Made Easy](/en/blog/traveling-with-baby-first-flights)
+More tips here: [Traveling with a Baby: First Flights Made Easy](/en/blog/traveling-with-baby-first-flights/)
 
 ## What Do You Actually Need to Pack?
 
@@ -64,7 +64,7 @@ For travel within the EU, the European Health Insurance Card (EHIC) covers emerg
 
 For trips outside the EU, or for more comprehensive coverage, travel insurance is worth considering. Some providers include children at no extra cost when parents are insured. That's worth checking before you buy.
 
-Full breakdown: [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+Full breakdown: [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
 
 ## FAQ: Traveling with a Toddler Under 3
 
@@ -83,9 +83,9 @@ Within the EU, the EHIC card covers emergencies. For travel outside the EU and f
 ---
 
 **Read more:**
-- [Traveling with a Baby: First Flights Made Easy](/en/blog/traveling-with-baby-first-flights)
-- [Family Travel with Kids: The Best Tips](/en/blog/travel-with-teenagers-tips)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Traveling with a Baby: First Flights Made Easy](/en/blog/traveling-with-baby-first-flights/)
+- [Family Travel with Kids: The Best Tips](/en/blog/travel-with-teenagers-tips/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
 
 ---
 

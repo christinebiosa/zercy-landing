@@ -62,7 +62,7 @@ Bahn unmöglich oder mit Fähre 12+ Stunden.
 **4. Wenn du Sleeper-Train nicht erträgst:**
 - Nachtzüge sind super wenn du gut schlafen kannst, aber für viele zu unbequem für 8-12h Reise.
 
-Lies dazu auch unseren [Nachtzüge-Europa-Guide](/blog/nachtzuege-europa-2026) für die Nachtzug-Variante.
+Lies dazu auch unseren [Nachtzüge-Europa-Guide](/blog/nachtzuege-europa-2026/) für die Nachtzug-Variante.
 
 ## Wie viel CO2 spart Bahnfahren wirklich?
 
@@ -150,6 +150,6 @@ Interrail 7 Tage in 1 Monat (282 EUR) lohnt sich ab 3 Lang-Strecken in einem Mon
 ---
 
 **Mehr lesen:**
-- [Nachtzüge in Europa: Vollständiger Guide 2026](/blog/nachtzuege-europa-2026)
-- [Zugreisen durch Europa: 5 schöne Strecken](/blog/zugreisen-europa)
-- [CO2-Kompensation beim Fliegen: Bringt es etwas?](/blog/co2-kompensation-fliegen)
+- [Nachtzüge in Europa: Vollständiger Guide 2026](/blog/nachtzuege-europa-2026/)
+- [Zugreisen durch Europa: 5 schöne Strecken](/blog/zugreisen-europa/)
+- [CO2-Kompensation beim Fliegen: Bringt es etwas?](/blog/co2-kompensation-fliegen/)

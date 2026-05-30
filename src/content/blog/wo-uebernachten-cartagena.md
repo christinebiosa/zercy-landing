@@ -67,7 +67,7 @@ Insel-Stadtteil zwischen Centro und Bocagrande, vor 100 Jahren das Wohnviertel d
 
 **Top-Picks:** Casa Bustamante Hotel Boutique (kleines Boutique mit Innenhof), Apartments in restaurierten Manga-Häusern (über Booking.com), kleinere familiengeführte Pensionen.
 
-Lies dazu auch unseren [Workation-Steuern-Guide](/blog/workation-steuern-2026), Kolumbien hat seit 2023 ein Digital-Nomad-Visum.
+Lies dazu auch unseren [Workation-Steuern-Guide](/blog/workation-steuern-2026/), Kolumbien hat seit 2023 ein Digital-Nomad-Visum.
 
 ## Wie viel kostet eine Übernachtung in Cartagena wirklich?
 
@@ -116,6 +116,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel in Getsemaní, Lokales Es
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Buenos Aires: Die 5 Stadtteile](/blog/wo-uebernachten-buenos-aires)
-- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun)
-- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026)
+- [Wo übernachten in Buenos Aires: Die 5 Stadtteile](/blog/wo-uebernachten-buenos-aires/)
+- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun/)
+- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026/)

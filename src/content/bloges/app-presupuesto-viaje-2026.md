@@ -40,7 +40,7 @@ Antes de que cualquier app pueda ayudarte, necesitas un presupuesto. Suena a má
 
 **Alojamiento.** La partida más grande en la mayoría de los viajes. Investiga precios promedios reales para tu destino antes de salir. En Tailandia duermes bien por 20 euros por noche. En Zúrich necesitas al menos 100 euros.
 
-**Transporte.** Los vuelos y autobuses de larga distancia suelen pagarse antes del viaje. Para el transporte local (metro, taxi, coche de alquiler) establece una cantidad diaria. Lee también nuestros [consejos para ahorrar dinero en el extranjero](/es/blog/dinero-en-el-extranjero-consejos).
+**Transporte.** Los vuelos y autobuses de larga distancia suelen pagarse antes del viaje. Para el transporte local (metro, taxi, coche de alquiler) establece una cantidad diaria. Lee también nuestros [consejos para ahorrar dinero en el extranjero](/es/blog/dinero-en-el-extranjero-consejos/).
 
 **Comida.** Tú decides en qué punto de la escala estás. Mercados locales y supermercados versus restaurantes y cafés. Ambas opciones son válidas. Lo importante es que sepas qué eliges.
 
@@ -58,7 +58,7 @@ Tres cosas marcan la diferencia entre un seguimiento que funciona y apps que dej
 
 **Mantén las categorías.** Transporte, comida, alojamiento, ocio. Eso es todo lo que necesitas. Quien crea demasiadas categorías pierde rápidamente la motivación. Mantenlo simple.
 
-El seguimiento se vuelve agradable cuando ves que funciona. Si te mantienes en presupuesto durante toda una semana, es un logro real. Un buen presupuesto también te ayuda a ahorrar en el [cambio de moneda cuando viajas al extranjero](/es/blog/cambio-moneda-viaje-guia) y a evitar comisiones innecesarias.
+El seguimiento se vuelve agradable cuando ves que funciona. Si te mantienes en presupuesto durante toda una semana, es un logro real. Un buen presupuesto también te ayuda a ahorrar en el [cambio de moneda cuando viajas al extranjero](/es/blog/cambio-moneda-viaje-guia/) y a evitar comisiones innecesarias.
 
 ¿Quieres comparar tus opciones de viaje de antemano y encontrar alternativas económicas? Zercy te ayuda a filtrar vuelos y alojamientos por precio. Guarda tu lista en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano cuando reserves.
 
@@ -81,6 +81,6 @@ Wise es principalmente un servicio de pagos con tipos de cambio favorables. Como
 ---
 
 Más artículos:
-- [Dinero en el extranjero: consejos para no perder en el cambio](/es/blog/dinero-en-el-extranjero-consejos)
-- [Cambio de moneda en el viaje: qué es realmente barato](/es/blog/cambio-moneda-viaje-guia)
-- [Las mejores apps de viaje 2026: guía completa](/es/blog/mejores-apps-viaje-2026)
+- [Dinero en el extranjero: consejos para no perder en el cambio](/es/blog/dinero-en-el-extranjero-consejos/)
+- [Cambio de moneda en el viaje: qué es realmente barato](/es/blog/cambio-moneda-viaje-guia/)
+- [Las mejores apps de viaje 2026: guía completa](/es/blog/mejores-apps-viaje-2026/)

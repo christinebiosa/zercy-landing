@@ -69,7 +69,7 @@ El barrio es pequeño, tranquilo y muy caro. Los hoteles son escasos. Más bien 
 
 **Top picks:** XV Beacon Hotel (lujo boutique, a 2 minutos de la cúpula dorada), John Jeffries House (townhouse histórico, tranquilo), Liberty Hotel (antigua cárcel, ahora hotel de diseño en el límite de Beacon Hill).
 
-Lee también nuestra [guía de Nueva York](/es/blog/donde-alojarse-nueva-york) y [guía de Miami](/es/blog/donde-alojarse-miami) para comparar opciones en otros destinos de la costa este.
+Lee también nuestra [guía de Nueva York](/es/blog/donde-alojarse-nueva-york/) y [guía de Miami](/es/blog/donde-alojarse-miami/) para comparar opciones en otros destinos de la costa este.
 
 ## Cambridge/Harvard Square: El Boston intelectual
 
@@ -131,6 +131,6 @@ Cambridge está directamente al lado de Boston. La conexión de metro (línea Ro
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Miami: Las mejores zonas](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima)
+- [Dónde alojarse en Miami: Las mejores zonas](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima/)

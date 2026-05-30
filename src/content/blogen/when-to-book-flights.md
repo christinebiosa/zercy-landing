@@ -47,7 +47,7 @@ Price variance is highest here. Long-haul flights to Africa or the Pacific can r
 ## What else affects the price
 
 **Day of the week for booking**
-Booking on Tuesday or Wednesday tends to be slightly cheaper. For more tricks, see our guide [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips).
+Booking on Tuesday or Wednesday tends to be slightly cheaper. For more tricks, see our guide [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips/).
 
 **Day of the week for departure**
 Friday and Sunday are expensive. Tuesday and Wednesday are cheap. On busy routes, the difference can be 20–40%.
@@ -104,4 +104,4 @@ Not always. Airlines open their cheapest allocations early, then raise prices, a
 
 If you have a flexible schedule and plenty of lead time: price alerts work well. If the date is fixed (holiday, event, wedding), book early within the optimal window rather than waiting for a drop that might not come.
 
-**Read more:** [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips) · [Business Class: When It's Worth It](/en/blog/business-class-worth-it) · [7 Airport Tricks That Save Time](/en/blog/airport-hacks)
+**Read more:** [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips/) · [Business Class: When It's Worth It](/en/blog/business-class-worth-it/) · [7 Airport Tricks That Save Time](/en/blog/airport-hacks/)

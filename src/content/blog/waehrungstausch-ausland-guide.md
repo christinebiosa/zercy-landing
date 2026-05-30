@@ -40,7 +40,7 @@ In Asien und Lateinamerika sieht das anders aus. Thailand ist das beste Beispiel
 
 **Praktische Faustregel:** 100 bis 200 Euro in lokaler Währung als Reserve. Den Rest zahlst du mit Karte oder hebst bei Bedarf nach. Alles auf einmal tauschen lohnt sich nie, weil du am Ende Restbestände in einer Währung hast, die du daheim nicht los wirst.
 
-Mehr Tipps zum [Reise-Budget richtig planen](/blog/reise-budget-sparen-anleitung) findest du im verlinkten Artikel.
+Mehr Tipps zum [Reise-Budget richtig planen](/blog/reise-budget-sparen-anleitung/) findest du im verlinkten Artikel.
 
 ## Was ist die DCC-Falle und wie erkennst du sie?
 
@@ -62,9 +62,9 @@ Sobald das Konto verifiziert ist: Geld draufladen (Revolut und Wise akzeptieren 
 
 Beides ist besser als die Bank mit 3 Prozent Fremdwährungsgebühr.
 
-Wenn du nach Südostasien reist: [Südostasien-Budget-Reisen richtig planen](/blog/suedostasien-budget-reisen) gibt dir mehr Kontext zu Bargeld-Realitäten vor Ort. Für Lateinamerika hilft der Artikel [Lateinamerika-Sicherheit für Reisende](/blog/lateinamerika-sicherheit-tipps) beim Umgang mit Bargeld in verschiedenen Ländern.
+Wenn du nach Südostasien reist: [Südostasien-Budget-Reisen richtig planen](/blog/suedostasien-budget-reisen/) gibt dir mehr Kontext zu Bargeld-Realitäten vor Ort. Für Lateinamerika hilft der Artikel [Lateinamerika-Sicherheit für Reisende](/blog/lateinamerika-sicherheit-tipps/) beim Umgang mit Bargeld in verschiedenen Ländern.
 
-Und die beste [Reisekreditkarte 2026](/blog/beste-reise-kreditkarten-2026) findest du im verlinkten Überblick.
+Und die beste [Reisekreditkarte 2026](/blog/beste-reise-kreditkarten-2026/) findest du im verlinkten Überblick.
 
 ---
 
@@ -92,6 +92,6 @@ DCC (Dynamic Currency Conversion) ist wenn das Terminal oder der Geldautomat anb
 
 ## Mehr lesen
 
-- [Reise-Budget richtig planen und sparen](/blog/reise-budget-sparen-anleitung)
-- [Südostasien auf kleinem Budget bereisen](/blog/suedostasien-budget-reisen)
-- [Lateinamerika-Sicherheit: Was du wirklich wissen musst](/blog/lateinamerika-sicherheit-tipps)
+- [Reise-Budget richtig planen und sparen](/blog/reise-budget-sparen-anleitung/)
+- [Südostasien auf kleinem Budget bereisen](/blog/suedostasien-budget-reisen/)
+- [Lateinamerika-Sicherheit: Was du wirklich wissen musst](/blog/lateinamerika-sicherheit-tipps/)

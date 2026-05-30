@@ -78,6 +78,6 @@ De diciembre a mayo es la temporada más cálida y la época con más nacimiento
 ---
 
 **Leer más:**
-- [Lista de equipaje esencial para viajes](/es/blog/lista-equipaje-viaje-esencial)
-- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Guía de viaje Colombia](/es/blog/guia-viaje-colombia)
+- [Lista de equipaje esencial para viajes](/es/blog/lista-equipaje-viaje-esencial/)
+- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Guía de viaje Colombia](/es/blog/guia-viaje-colombia/)

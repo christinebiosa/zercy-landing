@@ -34,7 +34,7 @@ Clear yes in these situations.
 
 Height 6'1" or taller. Average economy seat pitch is 31 to 32 inches. If you're significantly taller, your knees will be pressed against the seat in front. It's not a comfort issue. It's a circulation and pain issue on longer flights.
 
-Flights over 8 hours. On a 90-minute hop, seat pitch barely matters. You sit, you read, you land. On a transatlantic or transpacific flight, the difference between 31 and 37 inches of pitch determines whether you arrive functional or stiff for the first two days. [Cheap flights tips](/en/blog/cheap-flights-tips) aside, this is one area where spending makes sense.
+Flights over 8 hours. On a 90-minute hop, seat pitch barely matters. You sit, you read, you land. On a transatlantic or transpacific flight, the difference between 31 and 37 inches of pitch determines whether you arrive functional or stiff for the first two days. [Cheap flights tips](/en/blog/cheap-flights-tips/) aside, this is one area where spending makes sense.
 
 Knee or back issues. If tight seating causes genuine pain, the surcharge pays for itself fast. A single night's accommodation costs more than most extra legroom upgrades.
 
@@ -44,7 +44,7 @@ Flights under 2 hours. You won't even finish a drink. Save the money for somethi
 
 Height under 5'9". Standard economy rows are genuinely fine. You have room. The surcharge buys you comfort you weren't lacking.
 
-If you prefer a window seat. Exit rows and bulkhead seats are almost exclusively middle and aisle. If you want to watch the clouds, extra legroom will disappoint you. Instead, travel [carry-on only](/en/blog/carry-on-only) and check in at the counter with a simple ask.
+If you prefer a window seat. Exit rows and bulkhead seats are almost exclusively middle and aisle. If you want to watch the clouds, extra legroom will disappoint you. Instead, travel [carry-on only](/en/blog/carry-on-only/) and check in at the counter with a simple ask.
 
 If you sleep well on planes. Someone who reliably falls asleep doesn't need extra inches. A neck pillow and eye mask do more work than a premium row.
 
@@ -54,7 +54,7 @@ This is the most useful question. Airlines give away exit row seats at the check
 
 The approach is simple: walk up to the desk, ask politely if the exit row is still available and whether you could be moved. No guarantee. But it costs nothing and works more often than you'd expect, especially on packed flights.
 
-Second option: status. Frequent flyer programs like Star Alliance Gold or United MileagePlus Premier grant extra legroom seating free or heavily discounted. That's a long-game strategy, not a fix for your next booking. If you want to understand the broader mileage landscape, our guide to [business class without miles](/en/blog/business-class-without-miles) breaks it down.
+Second option: status. Frequent flyer programs like Star Alliance Gold or United MileagePlus Premier grant extra legroom seating free or heavily discounted. That's a long-game strategy, not a fix for your next booking. If you want to understand the broader mileage landscape, our guide to [business class without miles](/en/blog/business-class-without-miles/) breaks it down.
 
 Third option: last-minute unlock. Many airlines release blocked extra legroom seats 24 to 48 hours before departure at lower prices than at initial booking. Worth checking if you're flexible.
 
@@ -64,7 +64,7 @@ Not all are equal. [SeatGuru](https://www.seatguru.com) shows exact seat maps fo
 
 An A320 configured for Ryanair is very different from a B787 on Lufthansa. What one airline calls a "premium row" is ordinary on another. Always check SeatGuru before paying extra. It takes two minutes.
 
-For long-haul flights, a [bid upgrade to business class](/en/blog/bid-upgrade-business-class) is sometimes cheaper than you'd expect and worth running the numbers before you commit to an extra legroom seat.
+For long-haul flights, a [bid upgrade to business class](/en/blog/bid-upgrade-business-class/) is sometimes cheaper than you'd expect and worth running the numbers before you commit to an extra legroom seat.
 
 ---
 
@@ -90,6 +90,6 @@ Children, pregnant passengers, and people with certain mobility restrictions can
 
 ## Read more
 
-- [Business Class Without Miles](/en/blog/business-class-without-miles)
-- [Bid Upgrade: How to Bid Into Business Class](/en/blog/bid-upgrade-business-class)
-- [Positioning Flight Explained: The Trick to Cheaper Long-Haul Starts](/en/blog/positioning-flight-guide)
+- [Business Class Without Miles](/en/blog/business-class-without-miles/)
+- [Bid Upgrade: How to Bid Into Business Class](/en/blog/bid-upgrade-business-class/)
+- [Positioning Flight Explained: The Trick to Cheaper Long-Haul Starts](/en/blog/positioning-flight-guide/)

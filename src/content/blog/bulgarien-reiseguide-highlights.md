@@ -17,7 +17,7 @@ Bulgarien ist für alle, die nicht das Gleiche wie die Masse wollen, aber trotzd
 
 Sofia hat mehr Geschichte als die meisten europäischen Hauptstädte. Die Alexander-Newski-Kathedrale (1912, goldene Kuppeln, faszinierender neobyzantinischer Bau) ist das Symbol der Stadt. Die Rotunde des Heiligen Georg aus dem 4. Jahrhundert liegt mitten in einem Innenhof zwischen modernen Hoteltürmen. Die Sofia-Synagoge ist eine der größten in Europa. Der Vitosha-Berg direkt neben der Stadt: in 40 Minuten per Seilbahn oder zu Fuß auf 1.800 Meter, Panorama auf die gesamte Stadt.
 
-Plovdiv ist die älteste kontinuierlich bewohnte Stadt Europas. Die Altstadt liegt auf drei Hügeln mit gut erhaltenen Häusern aus der Nationalen Wiedergeburtszeit (19. Jahrhundert). Das Amphitheater aus römischer Zeit liegt mitten in der Stadt und wird noch heute für Konzerte genutzt. Plovdiv war 2019 Europäische Kulturhauptstadt. Die Kunstszene und die Gastronomie der Stadt sind für seine Größe bemerkenswert. Wer übernachten will und die besten Viertel kennen möchte, findet alle Infos in unserem [Plovdiv Hotelguide](/blog/wo-uebernachten-plovdiv).
+Plovdiv ist die älteste kontinuierlich bewohnte Stadt Europas. Die Altstadt liegt auf drei Hügeln mit gut erhaltenen Häusern aus der Nationalen Wiedergeburtszeit (19. Jahrhundert). Das Amphitheater aus römischer Zeit liegt mitten in der Stadt und wird noch heute für Konzerte genutzt. Plovdiv war 2019 Europäische Kulturhauptstadt. Die Kunstszene und die Gastronomie der Stadt sind für seine Größe bemerkenswert. Wer übernachten will und die besten Viertel kennen möchte, findet alle Infos in unserem [Plovdiv Hotelguide](/blog/wo-uebernachten-plovdiv/).
 
 Die Schwarzmeerküste: Nessebar ist UNESCO-Welterbe, eine alte byzantinische Stadt auf einer Halbinsel mit engen Gassen und Dutzenden mittelalterlichen Kirchen. Sozopol ist ähnlich charmant und etwas ruhiger. Sunny Beach (Sonnenstrand) ist der große Pauschalreise-Hotspot, weniger interessant.
 
@@ -43,7 +43,7 @@ Bulgarien ist EU-Mitglied, kein Visum für EU-Bürger. Achtung: Bulgarien ist no
 
 Diese Frage wird häufig gestellt. Die ehrliche Antwort: Beide lohnen sich, aber für unterschiedliche Reisende. Sofia ist die historisch reichere Stadt mit mehr Museen und Monumenten. Plovdiv ist malerischer, entspannter und für die Altstadt-Atmosphäre attraktiver. Für einen Dreitagesausflug: Sofia. Für langsames Erkunden und Gastro: Plovdiv.
 
-Lies dazu auch unseren Artikel über [Reisen auf kleinem Budget](/blog/reise-packliste-was-wirklich-rein-kommt) oder vergleiche mit dem [Balkan Roadtrip Guide](/blog/balkan-roadtrip-route) für eine längere Osteuropa-Route.
+Lies dazu auch unseren Artikel über [Reisen auf kleinem Budget](/blog/reise-packliste-was-wirklich-rein-kommt/) oder vergleiche mit dem [Balkan Roadtrip Guide](/blog/balkan-roadtrip-route/) für eine längere Osteuropa-Route.
 
 ---
 
@@ -70,6 +70,6 @@ Zwischen Sofia und Plovdiv: Zug oder Bus, 2 Stunden, sehr günstig. Für die Kü
 ---
 
 **Mehr lesen:**
-- [Balkan Roadtrip Route](/blog/balkan-roadtrip-route)
-- [Geheimtipps in Europa](/blog/geheimtipps-europa)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Balkan Roadtrip Route](/blog/balkan-roadtrip-route/)
+- [Geheimtipps in Europa](/blog/geheimtipps-europa/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

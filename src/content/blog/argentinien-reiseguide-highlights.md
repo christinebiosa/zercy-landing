@@ -31,7 +31,7 @@ Mendoza liegt im Schatten der Anden, und dieser Schatten ist produktiv. Die Regi
 
 Weintouren per Fahrrad oder mit Shuttle zwischen den Bodega-Weingütern sind der Standard. Half-Day-Tour mit zwei bis drei Weingütern und Mittagessen: 50 bis 80 Euro. Empfehlenswert: Achaval Ferrer, Zuccardi, Catena Zapata, alle international preisgekrönt.
 
-Mendoza ist auch Ausgangspunkt für den Aconcagua, den höchsten Berg der Andes (6.961 Meter). Trekking bis zum Basecamp ist ohne technische Ausrüstung möglich. Das [Turismo Mendoza-Portal](https://turismo.mendoza.gov.ar/) listet aktuelle Permit-Bedingungen und Führerangebote. Wer auch Córdoba als Zwischenstopp einplant, findet alle Viertel und Unterkunftsoptionen im [Córdoba Hotelguide](/blog/wo-uebernachten-cordoba-argentinien).
+Mendoza ist auch Ausgangspunkt für den Aconcagua, den höchsten Berg der Andes (6.961 Meter). Trekking bis zum Basecamp ist ohne technische Ausrüstung möglich. Das [Turismo Mendoza-Portal](https://turismo.mendoza.gov.ar/) listet aktuelle Permit-Bedingungen und Führerangebote. Wer auch Córdoba als Zwischenstopp einplant, findet alle Viertel und Unterkunftsoptionen im [Córdoba Hotelguide](/blog/wo-uebernachten-cordoba-argentinien/).
 
 ## Was bietet Patagonien, das sonst nirgends existiert?
 
@@ -78,6 +78,6 @@ Inlandsflüge (Aerolíneas Argentinas, LATAM Argentina) sind für lange Strecken
 ---
 
 **Mehr lesen:**
-- [Patagonien 3 Wochen Route](/blog/patagonien-3-wochen-route)
-- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Kolumbien Reiseguide](/blog/kolumbien-reiseguide)
+- [Patagonien 3 Wochen Route](/blog/patagonien-3-wochen-route/)
+- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Kolumbien Reiseguide](/blog/kolumbien-reiseguide/)

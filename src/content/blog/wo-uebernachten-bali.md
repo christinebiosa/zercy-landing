@@ -47,7 +47,7 @@ An der Südwestküste, 30 Min vom Flughafen. Surfer-Hauptstadt, Co-Working-Space
 
 **Top-Picks:** The Slow (legendäres Boutique mit Restaurant), Tugu Bali (klassisches Boutique mit Geschichte), Villa Voyage (modern, Pool).
 
-Lies dazu auch unseren [Workation-Guide](/blog/workation-steuern-2026), Bali ist 2026 immer noch der Top-Spot für digitale Nomaden.
+Lies dazu auch unseren [Workation-Guide](/blog/workation-steuern-2026/), Bali ist 2026 immer noch der Top-Spot für digitale Nomaden.
 
 ## Seminyak: Das luxuriöse Bali
 
@@ -127,6 +127,6 @@ Backpacker: 700-1.000 Euro pro Person inkl. Flug (Hostel, lokales Essen, Roller-
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
-- [Wo übernachten in Bangkok: Die besten Stadtteile](/blog/wo-uebernachten-bangkok)
-- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026)
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio/)
+- [Wo übernachten in Bangkok: Die besten Stadtteile](/blog/wo-uebernachten-bangkok/)
+- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026/)

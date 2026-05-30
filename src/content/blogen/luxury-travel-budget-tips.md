@@ -20,7 +20,7 @@ Premium hotels have more rooms, higher fixed cost ratios, and therefore greater 
 
 Last-minute pricing is more aggressive in the luxury segment. Hotels at 60 percent occupancy by 7pm will cut room prices by up to 50 percent. The monitoring tools for this: HotelTonight, Booking.com last-minute, or simply calling the concierge and asking.
 
-Spontaneous upgrade strategy: book the standard room at a luxury hotel, arrive after 8pm, and ask about higher category availability. In shoulder season, this works 40-50 percent of the time. More on this in our [Hotel Upgrade Guide](/en/blog/hotel-upgrade-free-tips).
+Spontaneous upgrade strategy: book the standard room at a luxury hotel, arrive after 8pm, and ask about higher category availability. In shoulder season, this works 40-50 percent of the time. More on this in our [Hotel Upgrade Guide](/en/blog/hotel-upgrade-free-tips/).
 
 ## How do you get business class at economy prices?
 
@@ -32,7 +32,7 @@ Business class for economy money is possible. Several routes:
 
 **Buy upgrades at check-in:** Many airlines offer upgrades just before departure for $165-435. Lufthansa MyOffer, British Airways Upgrade Bidding, Singapore Airlines Kris Flyer Upgrade. Significantly below list price.
 
-**Redeem miles once:** If you've already accumulated frequent flyer miles (through credit card programs or past flights), business class is one of the best uses. More in our [Business Class Without Miles Guide](/en/blog/business-class-without-miles).
+**Redeem miles once:** If you've already accumulated frequent flyer miles (through credit card programs or past flights), business class is one of the best uses. More in our [Business Class Without Miles Guide](/en/blog/business-class-without-miles/).
 
 ## Which luxury destinations are worth it on a budget?
 
@@ -40,7 +40,7 @@ Luxury experience is relative to local price levels. What costs $850 per night i
 
 **Bali, Indonesia:** World-class villas with private pool in Ubud and Seminyak: $160-375 per night. The same level in Europe: $540-1,620. Bali is one of the best luxury-for-budget destinations in the world.
 
-**Marrakech, Morocco:** Riads (traditional townhouses with inner courtyard) with world-class service: $130-320 per night. Authentic, opulent, no compromises. See our [Morocco Riads Guide](/en/blog/morocco-riads-guide).
+**Marrakech, Morocco:** Riads (traditional townhouses with inner courtyard) with world-class service: $130-320 per night. Authentic, opulent, no compromises. See our [Morocco Riads Guide](/en/blog/morocco-riads-guide/).
 
 **Thailand:** 5-star resorts in Koh Samui or Krabi: $215-430 per night instead of $860+ in the Caribbean. Same standard, 50 percent cheaper.
 
@@ -54,7 +54,7 @@ The restaurant knows your allergies without you repeating them. The transfer wai
 
 This level of service doesn't always exist in the world's most expensive hotels. Smaller boutique resorts and family-managed properties are often more attentive than large resorts. Kimpton Hotels, Six Senses, Aman, and Singita lead here.
 
-Also check our [Boutique Hotels Guide](/en/blog/boutique-hotels) for properties that prioritize service over star ratings.
+Also check our [Boutique Hotels Guide](/en/blog/boutique-hotels/) for properties that prioritize service over star ratings.
 
 ---
 
@@ -81,6 +81,6 @@ Cheapest windows: school term time outside holidays (November-March for European
 ---
 
 **Read more:**
-- [Free Hotel Upgrades: 7 Methods That Actually Work](/en/blog/hotel-upgrade-free-tips)
-- [Business Class Without Miles: How to Fly Premium Cheaper](/en/blog/business-class-without-miles)
-- [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket)
+- [Free Hotel Upgrades: 7 Methods That Actually Work](/en/blog/hotel-upgrade-free-tips/)
+- [Business Class Without Miles: How to Fly Premium Cheaper](/en/blog/business-class-without-miles/)
+- [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket/)

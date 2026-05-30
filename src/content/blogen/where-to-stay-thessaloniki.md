@@ -79,7 +79,7 @@ Kalamaria is a suburb directly east of the city, right on the sea. No major sigh
 
 **Top picks:** Capsis Hotel Thessaloniki (largest hotel in the area, family-friendly), small apartments directly on the seafront via Booking.
 
-Also check our [Greek Islands Comparison guide](/en/blog/greek-islands-guide) if you want to combine Thessaloniki with island hopping.
+Also check our [Greek Islands Comparison guide](/en/blog/greek-islands-guide/) if you want to combine Thessaloniki with island hopping.
 
 ## Pylaia and Panorama: Upscale Thessaloniki
 
@@ -125,6 +125,6 @@ Thessaloniki Airport (SKG) is about 16 km east of the center. Taxi takes 20-30 m
 ---
 
 **Read more:**
-- [Best Hotels in Athens: Where to Stay in Each Neighborhood](/en/blog/where-to-stay-athens)
-- [Best Hotels in Mykonos: Where to Stay in Each Neighborhood](/en/blog/where-to-stay-mykonos)
-- [Best Hotels in Santorini: Where to Stay in Each Neighborhood](/en/blog/where-to-stay-santorini)
+- [Best Hotels in Athens: Where to Stay in Each Neighborhood](/en/blog/where-to-stay-athens/)
+- [Best Hotels in Mykonos: Where to Stay in Each Neighborhood](/en/blog/where-to-stay-mykonos/)
+- [Best Hotels in Santorini: Where to Stay in Each Neighborhood](/en/blog/where-to-stay-santorini/)

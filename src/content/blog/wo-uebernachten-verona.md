@@ -77,6 +77,6 @@ Die Arena di Verona (besonders zur Opernzeit), die Piazza delle Erbe, die Basili
 
 ## Mehr lesen
 
-- [Wo übernachten in Bologna](/blog/wo-uebernachten-bologna)
-- [Wo übernachten in Rom](/blog/wo-uebernachten-rom)
-- [Wo übernachten in Nizza](/blog/wo-uebernachten-nizza)
+- [Wo übernachten in Bologna](/blog/wo-uebernachten-bologna/)
+- [Wo übernachten in Rom](/blog/wo-uebernachten-rom/)
+- [Wo übernachten in Nizza](/blog/wo-uebernachten-nizza/)

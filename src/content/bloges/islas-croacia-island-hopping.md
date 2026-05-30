@@ -60,7 +60,7 @@ Más de lo que parece a primera vista. Croacia subió precios desde la entrada e
 
 ## Las cuatro islas: qué ofrece cada una
 
-**Hvar:** La más conocida y la más animada. Hvar Town tiene un puerto espectacular, una fortaleza del siglo XIII y una escena nocturna que dura hasta tarde. Los campos de lavanda están en el interior de la isla. Para escapar del turismo de masas: Stari Grad (el pueblo más antiguo) o los pueblos del interior. Si vas a alojarte aquí, la guía de [dónde alojarse en Dubrovnik](/es/blog/donde-alojarse-dubrovnik) tiene consejos similares sobre cómo evitar las zonas más caras en destinos dálmatas.
+**Hvar:** La más conocida y la más animada. Hvar Town tiene un puerto espectacular, una fortaleza del siglo XIII y una escena nocturna que dura hasta tarde. Los campos de lavanda están en el interior de la isla. Para escapar del turismo de masas: Stari Grad (el pueblo más antiguo) o los pueblos del interior. Si vas a alojarte aquí, la guía de [dónde alojarse en Dubrovnik](/es/blog/donde-alojarse-dubrovnik/) tiene consejos similares sobre cómo evitar las zonas más caras en destinos dálmatas.
 
 **Brač:** Conocida principalmente por Zlatni Rat, la playa que cambia de forma según la corriente. La playa está en el pueblo de Bol, en el sur de la isla. El interior tiene canteras de piedra caliza (la misma que usaron para construir el Palacio de Diocleciano en Split y, dicen, la Casa Blanca). Más familiar y menos de fiesta que Hvar.
 
@@ -68,7 +68,7 @@ Más de lo que parece a primera vista. Croacia subió precios desde la entrada e
 
 **Vis:** La más remota y la más auténtica. Solo se abrió al turismo internacional en los años 90 (antes era base militar). El casco de Vis Town tiene calles donde apenas entran dos personas de frente, tabernas que llevan abiertas décadas y un ritmo de vida que no tiene nada que ver con Hvar. La Cueva Azul (Modra Špilja) en la isla de Biševo, a 30 minutos en barco, es una de las atracciones más fotogénicas de todo el Adriático. Reserva el barco con antelación.
 
-Si también tienes en mente los tesoros de la costa, puedes combinar las islas con una visita a las [joyas ocultas de Europa](/es/blog/joyas-ocultas-europa) para inspirarte en destinos menos masificados.
+Si también tienes en mente los tesoros de la costa, puedes combinar las islas con una visita a las [joyas ocultas de Europa](/es/blog/joyas-ocultas-europa/) para inspirarte en destinos menos masificados.
 
 Zercy puede ayudarte a organizar el itinerario por las islas croatas, con ferries y alojamiento en cada parada. Guarda la ruta en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerla a mano cuando llegues a Split.
 
@@ -95,6 +95,6 @@ Brač es la opción más familiar. Zlatni Rat tiene aguas poco profundas en los 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Dubrovnik](/es/blog/donde-alojarse-dubrovnik)
-- [Joyas ocultas de Europa](/es/blog/joyas-ocultas-europa)
-- [Trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026)
+- [Dónde alojarse en Dubrovnik](/es/blog/donde-alojarse-dubrovnik/)
+- [Joyas ocultas de Europa](/es/blog/joyas-ocultas-europa/)
+- [Trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026/)

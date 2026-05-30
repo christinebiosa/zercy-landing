@@ -42,7 +42,7 @@ Not all cards are equally good. An honest comparison:
 
 **Barcelona Card:** Strong for transit plus many smaller museums. Weak for a pure Gaudí trip since the biggest ticket, Sagrada Família, isn't included.
 
-Read our [boutique hotels guide](/en/blog/boutique-hotels) if you're planning to stay in one of these cities: sometimes reallocating the card budget into a better hotel makes more sense for your trip.
+Read our [boutique hotels guide](/en/blog/boutique-hotels/) if you're planning to stay in one of these cities: sometimes reallocating the card budget into a better hotel makes more sense for your trip.
 
 ## What's usually included in a city card?
 
@@ -93,6 +93,6 @@ The Prague Card offers the best value for price: affordable, dense network of in
 ---
 
 **Read more:**
-- [Boutique hotels: what you're actually getting](/en/blog/boutique-hotels)
-- [Airbnb vs. hotel: honest comparison 2026](/en/blog/airbnb-vs-hotel-comparison)
-- [Booking.com Genius: is it worth it?](/en/blog/booking-vs-direct-hotel-booking)
+- [Boutique hotels: what you're actually getting](/en/blog/boutique-hotels/)
+- [Airbnb vs. hotel: honest comparison 2026](/en/blog/airbnb-vs-hotel-comparison/)
+- [Booking.com Genius: is it worth it?](/en/blog/booking-vs-direct-hotel-booking/)

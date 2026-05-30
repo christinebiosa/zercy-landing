@@ -61,7 +61,7 @@ Was ist dein Selbstbehalt? Viele Standardversicherungen decken Schäden bis zu e
 
 Viele Kreditkarten bieten Mietwagen-Kollisionsversicherung an. Prüfe das vor dem Abflug — nicht am Schalter. Gilt die Versicherung für dein Reiseland? Gilt sie auch für Unterboden- und Dachschäden? Viele Standardversicherungen (auch Kreditkarten-Policen) schließen genau das aus.
 
-Ähnlich wie beim [Lounge-Zugang am Flughafen](/blog/airport-hacks) lohnt sich die Recherche vorab — damit du am Schalter keine teuren Versicherungsupgrades kaufst, die du vielleicht gar nicht brauchst.
+Ähnlich wie beim [Lounge-Zugang am Flughafen](/blog/airport-hacks/) lohnt sich die Recherche vorab — damit du am Schalter keine teuren Versicherungsupgrades kaufst, die du vielleicht gar nicht brauchst.
 
 ### 8. GPS und Infotainment testen
 
@@ -113,4 +113,4 @@ Ja, aus mehreren Gründen. ADAC-Mitglieder bekommen bei vielen Vermietungen (Six
 
 Für die meisten Normalfälle: die Kreditkarten-Kollisionsversicherung (wenn enthalten) kombiniert mit der Haftpflicht des Vermieters. Prüfe aber die Ausschlüsse (Unterboden, Dach, Spiegel, Reifen). Für Reisen in Länder mit schwieriger Infrastruktur oder hohem Schadensrisiko: Full Protection direkt beim Vermieter.
 
-**Mehr lesen:** [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck) · [Costa Rica: Surfen & Pura Vida](/blog/costa-rica-surfen)
+**Mehr lesen:** [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks/) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck/) · [Costa Rica: Surfen & Pura Vida](/blog/costa-rica-surfen/)

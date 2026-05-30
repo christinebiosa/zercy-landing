@@ -20,7 +20,7 @@ Die ehrliche Einschätzung: Unter zwei Jahren ist der Flug für die Eltern am h�
 
 Schulkinder ab sechs oder sieben Jahren sind in der Regel unkomplizierte Flugreisende, solange sie ausreichend beschäftigt sind. Teenager brauchen nur ein Headset und eine Playlist.
 
-Unsere Tipps für allererste Flüge mit Babys findest du im Artikel zu [Reisen mit Baby: die ersten Flüge](/blog/reisen-mit-baby-erste-fluege).
+Unsere Tipps für allererste Flüge mit Babys findest du im Artikel zu [Reisen mit Baby: die ersten Flüge](/blog/reisen-mit-baby-erste-fluege/).
 
 ## Was ist das beste Equipment für den Flug mit Kindern?
 
@@ -52,7 +52,7 @@ Faustregel: Der Körper eines Kindes passt sich ungefähr genauso schnell an wie
 
 Was hilft: Gleich nach der Ankunft in der Ortszeit leben, also auch wenn das Kind um 4 Uhr morgens aufwacht. Tageslicht ist der stärkste Zeitgeber, also raus und Licht tanken. Mittagsschläfer nicht zu lang schlafen lassen. Und Geduld haben.
 
-Unsere Tipps zu [Jetlag schnell überwinden](/blog/jetlag-schnell-ueberwinden) gelten für Erwachsene, aber die Grundprinzipien (Licht, Timing, keine langen Nickerchen) funktionieren auch bei Kindern.
+Unsere Tipps zu [Jetlag schnell überwinden](/blog/jetlag-schnell-ueberwinden/) gelten für Erwachsene, aber die Grundprinzipien (Licht, Timing, keine langen Nickerchen) funktionieren auch bei Kindern.
 
 Zercy hilft dir, Familienflüge so zu planen, dass Zeiten, Verbindungen und Unterkünfte zusammenpassen. Einfach dein Reisevorhaben auf [zercy.app](https://zercy.app) beschreiben. Und alle Buchungsdetails für die Familie ordentlich ablegen im [Zercy Logbook](https://zercy.app/logbook).
 
@@ -80,6 +80,6 @@ Ruhig bleiben ist das Wichtigste. Andere Passagiere haben dafür mehr Verständn
 
 Mehr lesen:
 
-- [Reisen mit Baby: Die ersten Flüge](/blog/reisen-mit-baby-erste-fluege)
-- [Jetlag schnell überwinden](/blog/jetlag-schnell-ueberwinden)
-- [Günstig fliegen: Tipps die wirklich helfen](/blog/guenstig-fliegen-tipps)
+- [Reisen mit Baby: Die ersten Flüge](/blog/reisen-mit-baby-erste-fluege/)
+- [Jetlag schnell überwinden](/blog/jetlag-schnell-ueberwinden/)
+- [Günstig fliegen: Tipps die wirklich helfen](/blog/guenstig-fliegen-tipps/)

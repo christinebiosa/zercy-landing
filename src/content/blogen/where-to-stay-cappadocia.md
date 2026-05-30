@@ -60,7 +60,7 @@ Prices in Üçhisar run 20 to 30 percent above the Göreme average. Boutique hot
 - **Argos in Cappadocia** (luxury, historic wine cellar, infinity pool, from around €350)
 - **Anatolian Houses** (boutique, terrace with castle views, from around €170)
 
-If you're planning a longer trip through Turkey, the [Turkey Road Trip Guide](/en/blog/turkey-road-trip-highlights) covers routes, timings, and stops worth adding to your itinerary.
+If you're planning a longer trip through Turkey, the [Turkey Road Trip Guide](/en/blog/turkey-road-trip-highlights/) covers routes, timings, and stops worth adding to your itinerary.
 
 ## Avanos: Pottery and the Riverside
 
@@ -70,7 +70,7 @@ As a base for Cappadocia, Avanos is slightly less convenient than Göreme: the m
 
 Hotels in Avanos cost 20 to 40 percent less than comparable options in Göreme. Good boutique properties from €80, family guesthouses from €55.
 
-Traveling with a rental car makes Avanos significantly more practical. Check what to look for before booking in the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026).
+Traveling with a rental car makes Avanos significantly more practical. Check what to look for before booking in the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 ## Ortahisar: The Quiet Village Worth Finding
 
@@ -86,7 +86,7 @@ For most Cappadocia trips: Göreme for first-timers, Üçhisar for romance, Avan
 
 Booking.com has the widest selection of Cappadocia properties, including genuine cave hotels that are harder to find and filter on other platforms. Use the "Cave" accommodation type filter. Ratings above 8.0 are strongly recommended: the quality gap between a 7.0 and a 9.0 is noticeably larger here than in most European cities.
 
-For boutique hotels with real character, Cappadocia is one of the best destinations in the world. A cave room isn't an upgrade. It's just how people sleep here. Check out more unusual stays in the [boutique hotels guide](/en/blog/boutique-hotels).
+For boutique hotels with real character, Cappadocia is one of the best destinations in the world. A cave room isn't an upgrade. It's just how people sleep here. Check out more unusual stays in the [boutique hotels guide](/en/blog/boutique-hotels/).
 
 ---
 
@@ -115,6 +115,6 @@ The closest airport is Kayseri (ASR), about 70 km from Göreme. Nevşehir airpor
 ---
 
 **Read more:**
-- [Turkey Road Trip: Best Highlights and Routes](/en/blog/turkey-road-trip-highlights)
-- [Boutique Hotels: How to Find the Best Stays](/en/blog/boutique-hotels)
-- [Travel Insurance 2026: When Is It Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [Turkey Road Trip: Best Highlights and Routes](/en/blog/turkey-road-trip-highlights/)
+- [Boutique Hotels: How to Find the Best Stays](/en/blog/boutique-hotels/)
+- [Travel Insurance 2026: When Is It Worth It?](/en/blog/travel-insurance-worth-it-2026/)

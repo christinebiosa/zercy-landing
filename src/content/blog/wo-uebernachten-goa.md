@@ -61,7 +61,7 @@ Anjuna ist das historische Hippie-Zentrum Goas. Hier startete in den 1960er und 
 
 **Top-Picks:** Laguna Anjuna (Boutique-Pool-Resort, relaxt), Leoney Resort (klassisches Resort mit Meerblick), Vagator Beach Resort (direkt am Cliff, günstiger).
 
-Für einen ähnlichen Kontrast zwischen Party-Stränden und alternativen Vibes vergleiche auch unseren [Wo übernachten in Bali](/blog/wo-uebernachten-bali) Guide.
+Für einen ähnlichen Kontrast zwischen Party-Stränden und alternativen Vibes vergleiche auch unseren [Wo übernachten in Bali](/blog/wo-uebernachten-bali/) Guide.
 
 ## Süd-Goa/Palolem-Colva: Luxus und Ruhe
 
@@ -118,6 +118,6 @@ Der Dabolim-Flughafen (und der neue Mopa-Flughafen im Norden) sind durch Taxis v
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bali: Die besten Regionen](/blog/wo-uebernachten-bali)
-- [Wo übernachten in Phuket: Welches Gebiet passt zu dir?](/blog/wo-uebernachten-phuket)
-- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok)
+- [Wo übernachten in Bali: Die besten Regionen](/blog/wo-uebernachten-bali/)
+- [Wo übernachten in Phuket: Welches Gebiet passt zu dir?](/blog/wo-uebernachten-phuket/)
+- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok/)

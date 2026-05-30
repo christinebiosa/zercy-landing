@@ -79,7 +79,7 @@ El Gnaoua World Music Festival se celebra cada junio y es uno de los eventos mus
 
 ### ¿Qué actividades hay en Essaouira?
 
-Mercado de pescado y puerto (más animados por las mañanas), Skala de la Ville (cañones, murallas), paseo por la Medina, windsurf y kitesurf (escuelas en la playa), excursión de un día a Sidi Kaouki (playa más tranquila a 25 km al sur), cooperativas de aceite de argán. La [guía de ciudades de Marruecos](/es/blog/marruecos-ciudades-guia) muestra las mejores combinaciones.
+Mercado de pescado y puerto (más animados por las mañanas), Skala de la Ville (cañones, murallas), paseo por la Medina, windsurf y kitesurf (escuelas en la playa), excursión de un día a Sidi Kaouki (playa más tranquila a 25 km al sur), cooperativas de aceite de argán. La [guía de ciudades de Marruecos](/es/blog/marruecos-ciudades-guia/) muestra las mejores combinaciones.
 
 ### ¿Qué presupuesto hay que prever para Essaouira?
 
@@ -88,6 +88,6 @@ Essaouira es más económica que Marrakech. Los viajeros con presupuesto ajustad
 ---
 
 **Leer más:**
-- [Guía de ciudades de Marruecos: Fez, Marrakech y la costa atlántica](/es/blog/marruecos-ciudades-guia)
-- [Riads en Marruecos: Qué cuestan y cómo encontrar el mejor](/es/blog/riads-marruecos-guia)
-- [Dónde alojarse en Marrakech: Los 5 mejores barrios](/es/blog/donde-alojarse-marrakech)
+- [Guía de ciudades de Marruecos: Fez, Marrakech y la costa atlántica](/es/blog/marruecos-ciudades-guia/)
+- [Riads en Marruecos: Qué cuestan y cómo encontrar el mejor](/es/blog/riads-marruecos-guia/)
+- [Dónde alojarse en Marrakech: Los 5 mejores barrios](/es/blog/donde-alojarse-marrakech/)

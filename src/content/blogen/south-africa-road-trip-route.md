@@ -84,6 +84,6 @@ Budget trip (self-drive, basic accommodation, self-catering): from $2,500 for 2 
 ---
 
 **Read more:**
-- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide)
-- [Australia Road Trip: The Best Route](/en/blog/australia-road-trip-route)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide/)
+- [Australia Road Trip: The Best Route](/en/blog/australia-road-trip-route/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

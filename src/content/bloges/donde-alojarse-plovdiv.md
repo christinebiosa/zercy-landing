@@ -53,7 +53,7 @@ Plovdiv tiene uno de los climas más agradables de Bulgaria. La primavera (abril
 
 **Invierno:** Frío (0-5°C), algunos sitios con horarios reducidos. La época más económica.
 
-Plovdiv encaja perfectamente como parte de un [viaje por Bulgaria](/es/blog/bulgaria-guia-viaje-highlights). La costa del Mar Negro queda a 2,5 horas.
+Plovdiv encaja perfectamente como parte de un [viaje por Bulgaria](/es/blog/bulgaria-guia-viaje-highlights/). La costa del Mar Negro queda a 2,5 horas.
 
 ## Centro de la ciudad: Práctico y bien conectado
 
@@ -102,6 +102,6 @@ El Teatro Antiguo (uno de los mejor conservados del mundo, aún usado para conci
 ---
 
 ## Más artículos
-- [Bulgaria: Guía de viaje completa](/es/blog/bulgaria-guia-viaje-highlights)
-- [Dónde alojarse en Bucarest: Los mejores barrios](/es/blog/donde-alojarse-bucarest)
-- [Ruta por los Balcanes: De Eslovenia a Albania](/es/blog/balcanes-road-trip-ruta)
+- [Bulgaria: Guía de viaje completa](/es/blog/bulgaria-guia-viaje-highlights/)
+- [Dónde alojarse en Bucarest: Los mejores barrios](/es/blog/donde-alojarse-bucarest/)
+- [Ruta por los Balcanes: De Eslovenia a Albania](/es/blog/balcanes-road-trip-ruta/)

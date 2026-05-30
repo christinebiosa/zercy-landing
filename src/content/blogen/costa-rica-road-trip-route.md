@@ -61,7 +61,7 @@ The crown jewel. The Pacific surf coast. From Manuel Antonio it's 4 to 5 hours, 
 
 This is where you let go. Surf lessons, yoga, smoothie bowls, barefoot through sand. If you're in Nosara, you have Playa Guiones, one of the most consistent surf breaks in the world. If you're in Santa Teresa, you get surf lifestyle mixed with boho scene.
 
-Our [Costa Rica surfer article](/en/blog/costa-rica-surfing) dives deeper into the surf spots.
+Our [Costa Rica surfer article](/en/blog/costa-rica-surfing/) dives deeper into the surf spots.
 
 ### Return
 
@@ -71,9 +71,9 @@ From Santa Teresa there are two ways back to SJO: the ferry from Paquera to Punt
 
 4x4 isn't optional. The roads to Monteverde and Santa Teresa are unpaved. Regular cars make it only in dry season, and even then with care.
 
-**Insurance**: basic liability is mandatory in Costa Rica, full coverage strongly recommended. At the desk they aggressively upsell. Better: book everything online through a [rental consolidator](/en/blog/rental-consolidators-save-money), saves 30 to 50 percent.
+**Insurance**: basic liability is mandatory in Costa Rica, full coverage strongly recommended. At the desk they aggressively upsell. Better: book everything online through a [rental consolidator](/en/blog/rental-consolidators-save-money/), saves 30 to 50 percent.
 
-**Hidden costs**: airport surcharges, young-driver fees, one-way fees. Our [guide to hidden rental car costs](/en/blog/rental-car-hidden-costs-avoid) shows what to watch for.
+**Hidden costs**: airport surcharges, young-driver fees, one-way fees. Our [guide to hidden rental car costs](/en/blog/rental-car-hidden-costs-avoid/) shows what to watch for.
 
 **Budget**: a proper 4x4 for 2 weeks runs 700 to 1,100 euros including full coverage. This is the biggest single item of your trip, don't cut corners here.
 
@@ -104,9 +104,9 @@ Insider tip: **September and October** are rainiest on the Pacific coast, but dr
 
 ---
 
-Zercy plans your whole Costa Rica trip in one conversation. Flights, rental car, hotels. The [Zercy Logbook](/en/blog/zercy-logbook) stores all bookings in one place, so you don't lose track.
+Zercy plans your whole Costa Rica trip in one conversation. Flights, rental car, hotels. The [Zercy Logbook](/en/blog/zercy-logbook/) stores all bookings in one place, so you don't lose track.
 
-**Read more:** [Costa Rica: Surfing & Pura Vida](/en/blog/costa-rica-surfing) · [Rental consolidators: how they save you money](/en/blog/rental-consolidators-save-money) · [Rental car checklist: 10 things to check before you drive off](/en/blog/rental-car-checklist)
+**Read more:** [Costa Rica: Surfing & Pura Vida](/en/blog/costa-rica-surfing/) · [Rental consolidators: how they save you money](/en/blog/rental-consolidators-save-money/) · [Rental car checklist: 10 things to check before you drive off](/en/blog/rental-car-checklist/)
 
 ## Frequently Asked Questions
 

@@ -25,7 +25,7 @@ Then there are Vienna's coffee houses in winter. There is nowhere better for a M
 
 Prices in December: mid-range hotels 130-220 EUR, weekends before Christmas are the most expensive. For budget travelers: book early December or in the actual Christmas week (23-26 December) when it quiets down.
 
-Read our [Vienna weekend guide](/en/blog/where-to-stay-vienna) for practical neighborhood tips.
+Read our [Vienna weekend guide](/en/blog/where-to-stay-vienna/) for practical neighborhood tips.
 
 ### Prague: Medieval Winter Atmosphere on a Budget
 
@@ -49,7 +49,7 @@ Reykjavik is the northern lights base from November through March. The combinati
 
 Iceland in winter is expensive. Hotel in Reykjavik: 180-350 EUR per night. Rental car for day trips: 80-150 EUR/day. Thermal pools (Blue Lagoon or Sky Lagoon): 60-100 EUR per person. It adds up.
 
-But there is no cheap way to see northern lights. Reykjavik is the most accessible gateway to the Aurora Borealis in Europe. More detail in our [northern lights guide 2026](/en/blog/northern-lights-2026-where-when-how).
+But there is no cheap way to see northern lights. Reykjavik is the most accessible gateway to the Aurora Borealis in Europe. More detail in our [northern lights guide 2026](/en/blog/northern-lights-2026-where-when-how/).
 
 ### Porto: Rainy Charm, Almost No Tourists
 
@@ -57,7 +57,7 @@ Porto in winter is one of Europe's best-kept secrets. Grey skies, the rough Atla
 
 The practical advantage: Porto hotels cost 70-120 EUR in January, Airbnbs even less. The Douro Valley, a must-visit in summer, can be explored in complete peace.
 
-More Porto insider knowledge: [Porto, Lisbon's underrated sister](/en/blog/porto-lisbons-underrated-sister).
+More Porto insider knowledge: [Porto, Lisbon's underrated sister](/en/blog/porto-lisbons-underrated-sister/).
 
 ### Seville and Málaga: Real Winter Sun Without Flying Far
 
@@ -124,6 +124,6 @@ Basic supply and demand: fewer travelers in winter means lower prices for flight
 ---
 
 **Read more:**
-- [Where to Stay in Vienna: Neighborhoods and Weekend Tips](/en/blog/where-to-stay-vienna)
-- [Northern Lights 2026: Where, When, and How to Really See Them](/en/blog/northern-lights-2026-where-when-how)
-- [Hidden Gems in Europe: The Cities That Still Deliver](/en/blog/hidden-gems-europe)
+- [Where to Stay in Vienna: Neighborhoods and Weekend Tips](/en/blog/where-to-stay-vienna/)
+- [Northern Lights 2026: Where, When, and How to Really See Them](/en/blog/northern-lights-2026-where-when-how/)
+- [Hidden Gems in Europe: The Cities That Still Deliver](/en/blog/hidden-gems-europe/)

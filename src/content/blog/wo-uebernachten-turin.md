@@ -45,7 +45,7 @@ San Salvario liegt direkt südlich des Hauptbahnhofs Porta Nuova und ist Turins 
 
 **Top-Picks:** Combo Torino (modernes Hostel-Boutique-Hybrid, Café, Co-Working, ideal für Solo-Reisende und junge Paare), Starhotels Majestic Torino (elegantes Mittelklasse-Hotel, zentral, zuverlässige Qualität).
 
-Kein Viertel in Turin eignet sich so gut für [Slow Travel](/blog/slow-travel-bedeutet-was) wie San Salvario. Ein Aperol Spritz auf der Piazza Madama Cristina und der Abend ist gerettet.
+Kein Viertel in Turin eignet sich so gut für [Slow Travel](/blog/slow-travel-bedeutet-was/) wie San Salvario. Ein Aperol Spritz auf der Piazza Madama Cristina und der Abend ist gerettet.
 
 ## Quadrilatero Romano: Das älteste Turin
 
@@ -57,7 +57,7 @@ Das Quadrilatero Romano ist der älteste bewohnte Teil der Stadt, auf dem Raster
 
 **Top-Picks:** Townhouse 70 (stylisches Boutique in einem Palast aus dem 17. Jahrhundert, Design-Interieur, exzellente Lage), Casa Amalio (kleines Bed-and-Breakfast mit persönlichem Charakter, ideal für Paare).
 
-Lies dazu auch unseren [Boutique-Hotel-Guide](/blog/boutique-hotels) — Quadrilatero ist das Paradebeispiel warum kleine Hotels oft die bessere Wahl sind.
+Lies dazu auch unseren [Boutique-Hotel-Guide](/blog/boutique-hotels/) — Quadrilatero ist das Paradebeispiel warum kleine Hotels oft die bessere Wahl sind.
 
 ## Wann ist die beste Reisezeit für Turin?
 
@@ -115,5 +115,5 @@ Das Museo Egizio (Ägyptisches Museum, weltbeste Sammlung nach Kairo), die Mole 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Florenz: Die besten Stadtteile](/blog/wo-uebernachten-florenz)
-- [Wo übernachten in Mailand: Die besten Stadtteile](/blog/wo-uebernachten-mailand)
+- [Wo übernachten in Florenz: Die besten Stadtteile](/blog/wo-uebernachten-florenz/)
+- [Wo übernachten in Mailand: Die besten Stadtteile](/blog/wo-uebernachten-mailand/)

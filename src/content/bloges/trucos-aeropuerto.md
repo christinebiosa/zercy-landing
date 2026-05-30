@@ -40,7 +40,7 @@ Las salas de los aeropuertos son uno de los secretos mejor guardados del viaje m
 - Priority Pass da acceso a más de 1.300 salas en 148 países. Una suscripción anual se amortiza rápido si viajas 4-5 veces por año
 - LoungeBuddy: app para comprar acceso individual por 25-40 USD cuando no tienes membresía
 
-Tenemos una guía específica sobre cómo [acceder a salas VIP sin billete de business](/es/blog/acceso-sala-vip-sin-business) con todas las opciones actualizadas a 2026.
+Tenemos una guía específica sobre cómo [acceder a salas VIP sin billete de business](/es/blog/acceso-sala-vip-sin-business/) con todas las opciones actualizadas a 2026.
 
 ## Qué hacer cuando hay retrasos o cancelaciones
 
@@ -65,7 +65,7 @@ La Agencia Estatal de Seguridad Aérea en España ([aesa.gob.es](https://www.aes
 
 **El truco del check-in tardío**: en vuelos cortos con muchas plazas libres, hacer el check-in justo cuando abre (24 horas antes) te da los mejores asientos sin coste adicional. En vuelos llenos, conviene hacerlo lo antes posible.
 
-**Carga el móvil antes de llegar**: llevar el móvil a mitad de batería en un aeropuerto es un problema evitable. Las tomas de corriente en aeropuertos son escasas y competidas. Lleva siempre un powerbank cargado. Ver la guía de [normas del powerbank en el equipaje de mano](/es/blog/normas-powerbank-equipaje-mano).
+**Carga el móvil antes de llegar**: llevar el móvil a mitad de batería en un aeropuerto es un problema evitable. Las tomas de corriente en aeropuertos son escasas y competidas. Lleva siempre un powerbank cargado. Ver la guía de [normas del powerbank en el equipaje de mano](/es/blog/normas-powerbank-equipaje-mano/).
 
 **Descarga las tarjetas de embarque offline**: las apps de las aerolíneas a veces fallan con poca cobertura. Descarga el PDF del boarding pass en el móvil (no solo el enlace) o imprímelo si tienes dudas.
 
@@ -94,6 +94,6 @@ Los aeropuertos son un monopolio geográfico: no puedes salir a comprar en otro 
 ---
 
 **Más para leer:**
-- [Cómo encontrar vuelos baratos: estrategias que funcionan](/es/blog/consejos-vuelos-baratos)
-- [Acceso a salas VIP sin billete de business: todas las opciones](/es/blog/acceso-sala-vip-sin-business)
-- [Normas del powerbank en el equipaje de mano 2026](/es/blog/normas-powerbank-equipaje-mano)
+- [Cómo encontrar vuelos baratos: estrategias que funcionan](/es/blog/consejos-vuelos-baratos/)
+- [Acceso a salas VIP sin billete de business: todas las opciones](/es/blog/acceso-sala-vip-sin-business/)
+- [Normas del powerbank en el equipaje de mano 2026](/es/blog/normas-powerbank-equipaje-mano/)

@@ -29,7 +29,7 @@ Udaipur is smaller than most expect. That makes the neighborhood choice matter m
 
 The Old City is the heart of Udaipur. Cobbled alleys leading to small temples. Guesthouses with rooftop terraces where you look directly across Lake Pichola to the Taj Lake Palace. Vendors selling textiles, silver jewelry, and spices. It is cramped, colorful, and impossibly beautiful at sunset.
 
-As a base for walking to the main sights, nothing beats the Old City. The City Palace, Jagdish Temple, and the Lake Pichola boat jetty are all reachable on foot. Travelers combining Udaipur with [Jaipur](/en/blog/where-to-stay-jaipur) or Delhi as part of a Rajasthan circuit often save Udaipur for last, as an emotional high point. Official visitor information, route maps, and seasonal details are available on the [Rajasthan Tourism website](https://www.rajasthantourism.gov.in).
+As a base for walking to the main sights, nothing beats the Old City. The City Palace, Jagdish Temple, and the Lake Pichola boat jetty are all reachable on foot. Travelers combining Udaipur with [Jaipur](/en/blog/where-to-stay-jaipur/) or Delhi as part of a Rajasthan circuit often save Udaipur for last, as an emotional high point. Official visitor information, route maps, and seasonal details are available on the [Rajasthan Tourism website](https://www.rajasthantourism.gov.in).
 
 **Who fits here:** Couples, photographers, first-time visitors, anyone who wants the maximum Udaipur experience.
 
@@ -41,7 +41,7 @@ As a base for walking to the main sights, nothing beats the Old City. The City P
 
 The City Palace is the largest palace complex in Rajasthan and sits elevated above the lakes. Hotels in its immediate surroundings often have views of both the palaces and the water. Heritage properties in converted havelis dominate the offer. It is quieter than the dense Old City lanes, but you are still close to everything.
 
-Anyone wanting to reach the City Palace before the tour groups arrive benefits from staying here. The palace opens at 9:30, and arriving 20 minutes early changes the experience entirely. For broader India trip planning, our [India travel guide](/en/blog/india-travel-guide-highlights) covers the country's key routes and logistics.
+Anyone wanting to reach the City Palace before the tour groups arrive benefits from staying here. The palace opens at 9:30, and arriving 20 minutes early changes the experience entirely. For broader India trip planning, our [India travel guide](/en/blog/india-travel-guide-highlights/) covers the country's key routes and logistics.
 
 **Who fits here:** Culture travelers, history enthusiasts, anyone wanting slightly less chaos than the Old City without losing proximity.
 
@@ -57,7 +57,7 @@ October through March is ideal. Temperatures between 15 and 30 degrees, clear sk
 
 The area west and south of Lake Pichola lies just beyond the dense old town. Large resorts and boutique hotels use the hillside position for unobstructed water views. Less noise, more room. Couples choosing Udaipur as a honeymoon stop and travelers recovering from the intensity of Delhi or Mumbai gravitate here.
 
-The connection to the Old City works via tuk-tuk in 10-15 minutes. Sunset spots along the lake shore are a short ride away in the evening. If [Mumbai](/en/blog/where-to-stay-mumbai) is part of your India trip, Udaipur afterward is a deliberate pace change.
+The connection to the Old City works via tuk-tuk in 10-15 minutes. Sunset spots along the lake shore are a short ride away in the evening. If [Mumbai](/en/blog/where-to-stay-mumbai/) is part of your India trip, Udaipur afterward is a deliberate pace change.
 
 **Who fits here:** Couples, luxury travelers, anyone who wants calm after busy Indian cities.
 
@@ -69,7 +69,7 @@ The connection to the Old City works via tuk-tuk in 10-15 minutes. Sunset spots 
 
 Fateh Sagar is the more northerly of Udaipur's two main lakes. The promenade along its shore is a local gathering spot, not a tourist attraction. In the evenings, families and young people walk the waterfront. Street food, chai stalls, ordinary Indian city life. Hotels here are cheaper and less touristy.
 
-For travelers who want Udaipur beyond the postcard, Fateh Sagar is the right call. Backpackers with more time and groups prioritizing cost efficiency land here naturally. If you are still figuring out when to book flights for your India trip, our breakdown of [when to book flights](/en/blog/when-to-book-flights) covers the key windows.
+For travelers who want Udaipur beyond the postcard, Fateh Sagar is the right call. Backpackers with more time and groups prioritizing cost efficiency land here naturally. If you are still figuring out when to book flights for your India trip, our breakdown of [when to book flights](/en/blog/when-to-book-flights/) covers the key windows.
 
 **Who fits here:** Budget travelers, longer stays, anyone prioritizing local life.
 
@@ -81,7 +81,7 @@ For travelers who want Udaipur beyond the postcard, Fateh Sagar is the right cal
 
 Gangaur Ghat sits on the southern shore of Lake Pichola, away from the dense Old City crowds. The ghat is a ritual bathing spot. Locals arrive for their morning routines while the light is still low. In the evenings, one of the best boat tours departs from here. Hotels in this area are often smaller havelis and guesthouses, less well-known but deeply atmospheric.
 
-For travelers who want to know Udaipur rather than just photograph it, the Gangaur Ghat area is a quiet discovery. Before any India trip, getting travel insurance sorted is worth the 30 minutes. Our [travel insurance breakdown](/en/blog/travel-insurance-worth-it-2026) covers what actually matters for a trip to Rajasthan.
+For travelers who want to know Udaipur rather than just photograph it, the Gangaur Ghat area is a quiet discovery. Before any India trip, getting travel insurance sorted is worth the 30 minutes. Our [travel insurance breakdown](/en/blog/travel-insurance-worth-it-2026/) covers what actually matters for a trip to Rajasthan.
 
 **Who fits here:** Solo travelers, repeat visitors, anyone who values depth over convenience.
 
@@ -122,11 +122,11 @@ Basic haveli guesthouses in the Old City start around 20-40 EUR per night. Mid-r
 
 ### How many days should you plan for Udaipur?
 
-Two full days cover the City Palace, a Lake Pichola boat tour, the Jagdish Temple, and the evening light at the ghats. Three days is better if you also want the Saheliyon-ki-Bari garden and the Monsoon Palace at sunset. As part of a Rajasthan route, Udaipur pairs naturally with [Jaipur](/en/blog/where-to-stay-jaipur) and Jodhpur for a classic three-city circuit.
+Two full days cover the City Palace, a Lake Pichola boat tour, the Jagdish Temple, and the evening light at the ghats. Three days is better if you also want the Saheliyon-ki-Bari garden and the Monsoon Palace at sunset. As part of a Rajasthan route, Udaipur pairs naturally with [Jaipur](/en/blog/where-to-stay-jaipur/) and Jodhpur for a classic three-city circuit.
 
 ---
 
 **Read more:**
-- [Where to Stay in Jaipur: Neighborhoods and Hotels](/en/blog/where-to-stay-jaipur)
-- [India Travel Guide: Highlights and Planning](/en/blog/india-travel-guide-highlights)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Where to Stay in Jaipur: Neighborhoods and Hotels](/en/blog/where-to-stay-jaipur/)
+- [India Travel Guide: Highlights and Planning](/en/blog/india-travel-guide-highlights/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

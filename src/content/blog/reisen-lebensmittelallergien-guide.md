@@ -89,6 +89,6 @@ Zwei Epipens (beide im Handgepäck, nie im aufgegebenen Gepäck), schnell wirken
 ---
 
 **Mehr lesen:**
-- [Packliste für den Langstreckenflug: Was wirklich wichtig ist](/blog/reise-apotheke-guide)
-- [Reisekrankenversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Wo übernachten in Tokio: Die besten Viertel](/blog/wo-uebernachten-tokio)
+- [Packliste für den Langstreckenflug: Was wirklich wichtig ist](/blog/reise-apotheke-guide/)
+- [Reisekrankenversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Wo übernachten in Tokio: Die besten Viertel](/blog/wo-uebernachten-tokio/)

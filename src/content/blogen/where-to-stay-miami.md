@@ -102,7 +102,7 @@ For Miami [Booking.com](https://www.booking.com) is clearly the best platform:
 
 Direct booking only worth it for top premium (Setai, Faena, Mandarin) for possible upgrades and welcome drinks.
 
-See our [airport hacks guide](/en/blog/airport-hacks) — MIA is one of the most chaotic US airports.
+See our [airport hacks guide](/en/blog/airport-hacks/) — MIA is one of the most chaotic US airports.
 
 ---
 
@@ -129,6 +129,6 @@ Backpacker: $1,500-2,000 per person incl. flight (hostel SoBe, self-catering, bu
 ---
 
 **Read more:**
-- [Where to stay in New York: 5 neighborhoods](/en/blog/where-to-stay-new-york)
-- [Where to stay in Cancún: 4 neighborhoods](/en/blog/where-to-stay-cancun)
-- [Airport hacks: 7 best tips for stress-free flying](/en/blog/airport-hacks)
+- [Where to stay in New York: 5 neighborhoods](/en/blog/where-to-stay-new-york/)
+- [Where to stay in Cancún: 4 neighborhoods](/en/blog/where-to-stay-cancun/)
+- [Airport hacks: 7 best tips for stress-free flying](/en/blog/airport-hacks/)

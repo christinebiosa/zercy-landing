@@ -106,6 +106,6 @@ Dubrovnik liegt im äußersten Süden Kroatiens, nahe der bosnischen Grenze. Flu
 ---
 
 **Mehr lesen:**
-- [Geheimtipps Europa: Die unterschätzten Städte](/blog/geheimtipps-europa)
-- [Wo übernachten in Prag: Die besten Viertel](/blog/wo-uebernachten-prag)
-- [Wo übernachten in Barcelona: 5 Viertel im Vergleich](/blog/wo-uebernachten-barcelona)
+- [Geheimtipps Europa: Die unterschätzten Städte](/blog/geheimtipps-europa/)
+- [Wo übernachten in Prag: Die besten Viertel](/blog/wo-uebernachten-prag/)
+- [Wo übernachten in Barcelona: 5 Viertel im Vergleich](/blog/wo-uebernachten-barcelona/)

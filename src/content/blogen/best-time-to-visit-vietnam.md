@@ -27,7 +27,7 @@ The [Vietnam National Authority of Tourism](https://vietnam.travel) publishes re
 
 **October and November** are arguably the best two months. The summer monsoon ends, skies clear, temperatures are comfortable (20 to 26°C in Hanoi), and the landscape is at its most vivid. Halong Bay in October has calm waters and reasonable visibility. Sapa's rice terraces hit harvest season, turning golden in September and October.
 
-**December through February** is cooler. Hanoi gets down to 13 to 15°C on cold days, and Sapa can see near-freezing temperatures and occasional frost. Halong Bay in January is often foggy and grey. Not the beach weather travelers imagine, but fine for cities and cultural sites. The [Where to Stay in Hanoi guide](/en/blog/where-to-stay-hanoi) covers the best neighborhoods in the north for extended stays.
+**December through February** is cooler. Hanoi gets down to 13 to 15°C on cold days, and Sapa can see near-freezing temperatures and occasional frost. Halong Bay in January is often foggy and grey. Not the beach weather travelers imagine, but fine for cities and cultural sites. The [Where to Stay in Hanoi guide](/en/blog/where-to-stay-hanoi/) covers the best neighborhoods in the north for extended stays.
 
 **March and April** warm up again. A transitional window before the summer heat arrives. Good for Hanoi and the surrounding countryside.
 
@@ -53,7 +53,7 @@ The [Vietnam National Authority of Tourism](https://vietnam.travel) publishes re
 
 **March and April** are still dry but getting hotter. April can hit 38°C in Ho Chi Minh City. Still a workable window, particularly for Mekong Delta boat trips where the heat is slightly more bearable.
 
-**May through October** is the wet season in the south. Ho Chi Minh City gets heavy afternoon rain. The Mekong Delta floods (which is actually a remarkable sight, and some travelers time trips around it). Phu Quoc's west-coast beaches get rough seas. Prices are low. The [Where to Stay in Ho Chi Minh guide](/en/blog/where-to-stay-ho-chi-minh) covers the city's neighborhoods for extended wet-season stays.
+**May through October** is the wet season in the south. Ho Chi Minh City gets heavy afternoon rain. The Mekong Delta floods (which is actually a remarkable sight, and some travelers time trips around it). Phu Quoc's west-coast beaches get rough seas. Prices are low. The [Where to Stay in Ho Chi Minh guide](/en/blog/where-to-stay-ho-chi-minh/) covers the city's neighborhoods for extended wet-season stays.
 
 ## What Is the Cheapest Time to Visit Vietnam?
 
@@ -61,13 +61,13 @@ The [Vietnam National Authority of Tourism](https://vietnam.travel) publishes re
 
 In the south, **May through October** sees lower prices. The wet season doesn't stop Ho Chi Minh City from functioning normally (the afternoon storms usually clear within an hour), so budget travelers find good value here in summer.
 
-The cost difference is real. Hostels in Hanoi and Hoi An during wet season can be 30 to 40 percent cheaper than peak season. Mid-range hotels in Ho Chi Minh City drop noticeably from their December highs. For a full picture of regional costs in Southeast Asia, the [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel) has multi-country comparisons.
+The cost difference is real. Hostels in Hanoi and Hoi An during wet season can be 30 to 40 percent cheaper than peak season. Mid-range hotels in Ho Chi Minh City drop noticeably from their December highs. For a full picture of regional costs in Southeast Asia, the [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel/) has multi-country comparisons.
 
 ## Can You Visit All of Vietnam in One Trip?
 
 Yes, with planning. A two-week north-to-south (or south-to-north) route is one of Southeast Asia's classic journeys. The best single window to see all regions reasonably well is **late October to early November** (north and south both solid, central coast just turning) or **March to April** (central coast excellent, south getting hot but dry, north warm and clearing).
 
-The challenge is the central coast's narrow optimal window. Build the itinerary around avoiding September through November in Hoi An, and the rest falls into place. For practical route logistics: [Vietnam 2-Week Route](/en/blog/southeast-asia-budget-travel) has a breakdown of how the journey works by transport and region.
+The challenge is the central coast's narrow optimal window. Build the itinerary around avoiding September through November in Hoi An, and the rest falls into place. For practical route logistics: [Vietnam 2-Week Route](/en/blog/southeast-asia-budget-travel/) has a breakdown of how the journey works by transport and region.
 
 ---
 
@@ -93,6 +93,6 @@ Southern Vietnam is the best choice for December. Ho Chi Minh City and Phu Quoc 
 
 ## Read More
 
-- [Where to Stay in Hanoi: Best Neighborhoods](/en/blog/where-to-stay-hanoi)
-- [Where to Stay in Ho Chi Minh City](/en/blog/where-to-stay-ho-chi-minh)
-- [Southeast Asia on a Budget: Full Cost Guide](/en/blog/southeast-asia-budget-travel)
+- [Where to Stay in Hanoi: Best Neighborhoods](/en/blog/where-to-stay-hanoi/)
+- [Where to Stay in Ho Chi Minh City](/en/blog/where-to-stay-ho-chi-minh/)
+- [Southeast Asia on a Budget: Full Cost Guide](/en/blog/southeast-asia-budget-travel/)

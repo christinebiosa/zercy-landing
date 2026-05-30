@@ -18,7 +18,7 @@ Three categories make up 80 percent of travel costs: flights, accommodation, and
 
 **Flights:** The biggest lever is date flexibility. Flights on Mondays, Tuesdays, and Wednesdays average 15-20 percent cheaper than Friday through Sunday. Booking early helps for business destinations (Paris, London, Amsterdam). Booking late helps for leisure destinations where airlines need to fill seats.
 
-Search strategy: set Skyscanner to "whole month" view and pick the cheapest day. Then cross-check on Google Flights (shows price curves over recent weeks). More strategies in our [guide to the right time to book flights](/en/blog/when-to-book-flights).
+Search strategy: set Skyscanner to "whole month" view and pick the cheapest day. Then cross-check on Google Flights (shows price curves over recent weeks). More strategies in our [guide to the right time to book flights](/en/blog/when-to-book-flights/).
 
 **Accommodation:** Every night is a separate decision. Hostels with private room options are often 40-60 percent cheaper than hotels of comparable quality. Apartments from 4+ nights via Booking.com make sense (kitchen saves restaurant costs). Airbnb wins for groups of 4+ people staying 5+ nights.
 
@@ -40,7 +40,7 @@ $110/day in Zurich is nothing. In Vietnam it's excessive luxury. The cheapest de
 
 Budget travel has a threshold where cutting costs backfires. Where you shouldn't skimp:
 
-**Travel insurance:** $32-85 for a week is the cheapest insurance premium that exists, compared to what it covers. Trip cancellation, medical coverage abroad, lost luggage. Never skip it. More in our [Travel Insurance Guide](/en/blog/travel-insurance-worth-it-2026).
+**Travel insurance:** $32-85 for a week is the cheapest insurance premium that exists, compared to what it covers. Trip cancellation, medical coverage abroad, lost luggage. Never skip it. More in our [Travel Insurance Guide](/en/blog/travel-insurance-worth-it-2026/).
 
 **Health and hygiene:** Cheap street food from unhygienic vendors. The cost of a stomach illness (lost travel days, medical costs) exceeds any savings.
 
@@ -83,6 +83,6 @@ Credit card without foreign transaction fees (Revolut, N26, Charles Schwab) is e
 ---
 
 **Read more:**
-- [Cheap Flights: How to Find the Best Flight Prices](/en/blog/cheap-flights-tips)
-- [Rental Car Consolidators: Save Up to 40 Percent](/en/blog/rental-consolidators-save-money)
-- [Sabbatical Planning Guide: How to Take Time Off Without Going Broke](/en/blog/sabbatical-planning-guide)
+- [Cheap Flights: How to Find the Best Flight Prices](/en/blog/cheap-flights-tips/)
+- [Rental Car Consolidators: Save Up to 40 Percent](/en/blog/rental-consolidators-save-money/)
+- [Sabbatical Planning Guide: How to Take Time Off Without Going Broke](/en/blog/sabbatical-planning-guide/)

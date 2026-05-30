@@ -47,7 +47,7 @@ Shopping malls JR Tower, Stellar Place, and Apia sit inside the station building
 
 **Top picks:** Sapporo Grand Hotel (historic city hotel from the 1930s, a local classic), Hotel Resol Trinity Sapporo (modern, right at the station), ANA Holiday Inn Sapporo Susukino (reliable chain quality, good value).
 
-If you're exploring Japan by rail, read our [Japan 3-week itinerary guide](/en/blog/japan-3-week-route). The JR Pass covers the route from Tokyo to Hokkaido.
+If you're exploring Japan by rail, read our [Japan 3-week itinerary guide](/en/blog/japan-3-week-route/). The JR Pass covers the route from Tokyo to Hokkaido.
 
 ## Which neighborhood is best for families and quieter travelers?
 
@@ -57,7 +57,7 @@ If you're exploring Japan by rail, read our [Japan 3-week itinerary guide](/en/b
 
 **Prices:** $55-135 for guesthouses, $145-220 for nicer options.
 
-Check our [Japan budget travel tips guide](/en/blog/japan-budget-travel-tips) too. In Hokkaido, food and accommodation are noticeably cheaper than Tokyo.
+Check our [Japan budget travel tips guide](/en/blog/japan-budget-travel-tips/) too. In Hokkaido, food and accommodation are noticeably cheaper than Tokyo.
 
 ## Otaru: Day trip or overnight in the canal town
 
@@ -78,7 +78,7 @@ City base + day pass to Teine is the cheap option. Serious ski weeks: stay at th
 
 **Prices near resorts:** $135-440 per night ski-in-ski-out (December to March).
 
-For timing your Hokkaido trip around the best fares, see our [when to book flights guide](/en/blog/when-to-book-flights).
+For timing your Hokkaido trip around the best fares, see our [when to book flights guide](/en/blog/when-to-book-flights/).
 
 ## How much does a night in Sapporo actually cost?
 
@@ -126,6 +126,6 @@ Nakajima Park offers the lowest prices. Business hotels near Sapporo Station (To
 ---
 
 **Read more:**
-- [Japan 3-week route: the complete itinerary](/en/blog/japan-3-week-route)
-- [Japan budget travel tips: explore Hokkaido without overspending](/en/blog/japan-budget-travel-tips)
-- [When to book flights: the honest guide to timing](/en/blog/when-to-book-flights)
+- [Japan 3-week route: the complete itinerary](/en/blog/japan-3-week-route/)
+- [Japan budget travel tips: explore Hokkaido without overspending](/en/blog/japan-budget-travel-tips/)
+- [When to book flights: the honest guide to timing](/en/blog/when-to-book-flights/)

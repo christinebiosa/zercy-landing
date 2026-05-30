@@ -46,7 +46,7 @@ La ruta tiene docenas de lugares icónicos. Pero algunos destacan por encima de 
 
 **Muelle de Santa Mónica (California):** El punto final. La señal oficial de fin de la Ruta 66 cuelga en el muelle. Bajas del auto y caminas hacia la playa. Un road trip no puede terminar mejor.
 
-Para planificar la logística, la [guía de planificación de etapas de road trip](/en/blog/road-trip-stages-planning) tiene consejos concretos sobre kilómetros diarios y horarios de paradas.
+Para planificar la logística, la [guía de planificación de etapas de road trip](/en/blog/road-trip-stages-planning/) tiene consejos concretos sobre kilómetros diarios y horarios de paradas.
 
 ## ¿Cuándo es la mejor época para manejar la Ruta 66?
 
@@ -119,6 +119,6 @@ La app Route 66 (oficialmente de EZ Route 66) muestra todas las paradas históri
 ---
 
 **Más información:**
-- [Cómo volar barato a EE.UU.: Trucos y consejos](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Miami: Los 5 barrios](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Buenos Aires: Los 5 barrios](/es/blog/donde-alojarse-buenos-aires)
+- [Cómo volar barato a EE.UU.: Trucos y consejos](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Miami: Los 5 barrios](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Buenos Aires: Los 5 barrios](/es/blog/donde-alojarse-buenos-aires/)

@@ -55,7 +55,7 @@ Die Innenstadt liegt am Han-Fluss. Hier ist die Dragon Bridge (am Wochenende spu
 
 **Top-Picks:** Novotel Da Nang Premier Han River (Landmark-Hotel, Han-Fluss-Panorama), Azura Hotel (gute Mittelklasse, zentral, freundlich), Brilliant Hotel (erschwingliche Option mit Pool, guter Lage am Fluss).
 
-Den [Vietnam 2-Wochen-Routenplaner](/blog/vietnam-2-wochen-route) und die [Empfehlungen für Hoi An](/blog/wo-uebernachten-hoi-an) solltest du gleichzeitig lesen.
+Den [Vietnam 2-Wochen-Routenplaner](/blog/vietnam-2-wochen-route/) und die [Empfehlungen für Hoi An](/blog/wo-uebernachten-hoi-an/) solltest du gleichzeitig lesen.
 
 ## Son Tra Halbinsel: Natur, Ruhe und Meeresblick
 
@@ -106,6 +106,6 @@ Mindestens 3 Tage für Da Nang selbst: einen Tag Strand, einen Tag Son Tra und B
 ---
 
 **Mehr lesen:**
-- [Vietnam: 2-Wochen-Route mit Tipps](/blog/vietnam-2-wochen-route)
-- [Wo übernachten in Hoi An: Altstadt oder Strand?](/blog/wo-uebernachten-hoi-an)
-- [Wo übernachten in Hanoi: Die besten Stadtteile](/blog/wo-uebernachten-hanoi)
+- [Vietnam: 2-Wochen-Route mit Tipps](/blog/vietnam-2-wochen-route/)
+- [Wo übernachten in Hoi An: Altstadt oder Strand?](/blog/wo-uebernachten-hoi-an/)
+- [Wo übernachten in Hanoi: Die besten Stadtteile](/blog/wo-uebernachten-hanoi/)

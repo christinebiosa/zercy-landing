@@ -40,11 +40,11 @@ Gesamtdauer: zwischen 45 Minuten und 2 Stunden, je nachdem was du buchst.
 
 Das **Veli Bej Hamam** (auch Veli Bej Fürdő) ist ein osmanisches Bad aus dem 16. Jahrhundert, das bis heute fast original erhalten ist. Mitten im 2. Bezirk gelegen, von Ungarn und Kennern besucht, von den meisten Touristen übersehen. Das Wasser kommt aus Thermalquellen, die Kuppeln sind mit Butzenscheiben versehen. Licht und Wärme zusammen ergeben etwas, das man nicht beschreiben kann.
 
-Wer schon beim [Wo übernachten Budapest](/blog/wo-uebernachten-budapest) Beitrag nach Thermalbädern gesucht hat: Das Széchenyi Therme ist größer und bekannter. Das Veli Bej ist das Richtige für den echten Hamam-Charakter.
+Wer schon beim [Wo übernachten Budapest](/blog/wo-uebernachten-budapest/) Beitrag nach Thermalbädern gesucht hat: Das Széchenyi Therme ist größer und bekannter. Das Veli Bej ist das Richtige für den echten Hamam-Charakter.
 
 ### Marrakesch
 
-Die **Hammam-Kultur in Marrakesch** unterscheidet sich von der türkischen Tradition leicht. Die Riads haben oft eigene private Hammams. Im öffentlichen Bereich: Hammam Bab Doukkala (für wenige Euro, komplett lokal) oder die gehobenen Spa-Versionen wie Hammam de la Rose. Der Guide zu [Riads Marokko](/blog/riads-marokko-guide) erklärt den Kontext besser.
+Die **Hammam-Kultur in Marrakesch** unterscheidet sich von der türkischen Tradition leicht. Die Riads haben oft eigene private Hammams. Im öffentlichen Bereich: Hammam Bab Doukkala (für wenige Euro, komplett lokal) oder die gehobenen Spa-Versionen wie Hammam de la Rose. Der Guide zu [Riads Marokko](/blog/riads-marokko-guide/) erklärt den Kontext besser.
 
 ## Was kostet ein Hamam-Besuch?
 
@@ -72,7 +72,7 @@ Hotels mit Hamam oder integriertem Hammam-Spa findest du auf [Booking.com](https
 
 **Hungrig oder satt:** Weder das eine noch das andere. Zwei Stunden nach einer großen Mahlzeit ist ideal. Danach viel trinken.
 
-Für deinen Istanbul-Besuch lohnt auch ein Blick auf den [Wo übernachten Istanbul](/blog/wo-uebernachten-istanbul) Guide. Zentrale Unterkunft spart Zeit, wenn du mehrere Hamams ausprobieren willst.
+Für deinen Istanbul-Besuch lohnt auch ein Blick auf den [Wo übernachten Istanbul](/blog/wo-uebernachten-istanbul/) Guide. Zentrale Unterkunft spart Zeit, wenn du mehrere Hamams ausprobieren willst.
 
 ---
 
@@ -101,6 +101,6 @@ Der Cemberlitas Hamam nahe dem Großen Basar ist der bekannteste und hat das bee
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Istanbul: Stadtteil-Guide](/blog/wo-uebernachten-istanbul)
-- [Tempelhopping Asien: Die besten spirituellen Orte](/blog/tempelhopping-asien-guide)
-- [Außergewöhnliche Unterkünfte: Was wirklich besonders ist](/blog/aussergewoehnliche-unterkuenfte-guide)
+- [Wo übernachten in Istanbul: Stadtteil-Guide](/blog/wo-uebernachten-istanbul/)
+- [Tempelhopping Asien: Die besten spirituellen Orte](/blog/tempelhopping-asien-guide/)
+- [Außergewöhnliche Unterkünfte: Was wirklich besonders ist](/blog/aussergewoehnliche-unterkuenfte-guide/)

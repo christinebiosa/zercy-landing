@@ -47,7 +47,7 @@ Im Talkessel zwischen Tafelberg und Hafen. De Waterkant mit hippen Cafés, Bouti
 
 **Top-Picks:** Cape Cadogan Boutique Hotel (Boutique in restauriertem viktorianischem Haus), The Tree House Boutique Hotel (Boutique mit Pool), Apartments via Booking in De Waterkant.
 
-Lies dazu auch unseren [Faröer-Inseln-Guide](/blog/faeroeer-inseln-guide), wenn du andere Off-the-Path-Destinationen erkundest.
+Lies dazu auch unseren [Faröer-Inseln-Guide](/blog/faeroeer-inseln-guide/), wenn du andere Off-the-Path-Destinationen erkundest.
 
 ## Wann ist die beste Reisezeit für Cape Town?
 
@@ -132,6 +132,6 @@ Backpacker: 1.000-1.500 Euro pro Person inkl. Flug (Hostel in City Bowl, lokales
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Marrakesch: Die 4 Stadtteile](/blog/wo-uebernachten-marrakesch)
-- [Wo übernachten in Bali: Die besten Regionen](/blog/wo-uebernachten-bali)
-- [Solo-Reisen für Frauen: Sichere Länder](/blog/solo-reisen-frauen-sicher)
+- [Wo übernachten in Marrakesch: Die 4 Stadtteile](/blog/wo-uebernachten-marrakesch/)
+- [Wo übernachten in Bali: Die besten Regionen](/blog/wo-uebernachten-bali/)
+- [Solo-Reisen für Frauen: Sichere Länder](/blog/solo-reisen-frauen-sicher/)

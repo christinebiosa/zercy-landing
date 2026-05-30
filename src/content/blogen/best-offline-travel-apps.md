@@ -26,7 +26,7 @@ Google Maps also has an offline download mode. You select an area on the map and
 
 Rome2Rio is hard to beat here. You enter a start point and destination, and it shows every realistic connection: train, bus, flight, ferry, drive. The app works with cached data offline, which means you can use it to figure out how to get from place to place even without a signal. That is genuinely useful when plans change on the road.
 
-For European travel by train, our article on [night trains in Europe 2026](/en/blog/night-trains-europe-2026) is a good companion. And if you are planning a rail-focused trip, the guide on [train travel in Europe](/en/blog/train-travel-europe) covers practical booking strategies.
+For European travel by train, our article on [night trains in Europe 2026](/en/blog/night-trains-europe-2026/) is a good companion. And if you are planning a rail-focused trip, the guide on [train travel in Europe](/en/blog/train-travel-europe/) covers practical booking strategies.
 
 TripIt is the standard for itinerary management. Forward your booking confirmation emails to plans@tripit.com and the app automatically builds a structured travel plan. Offline, TripIt works fully: every booking detail, flight time, hotel address, and confirmation number is stored locally. That alone makes it one of the most important apps for longer trips. TripIt Pro also tracks flights for delays, which is worth it if you connect frequently.
 
@@ -36,7 +36,7 @@ Duolingo is not a real-time translation tool, but it is one of the best ways to 
 
 iTranslate offers actual offline translation for specific language pairs. The basic version handles text. The Pro version adds offline voice recognition. For travel to Asia, the Middle East, or Eastern Europe, an offline translation app is not optional. Google Translate also offers offline language packs for free download, and the quality has improved significantly. For most practical travel purposes, Google Translate offline is sufficient.
 
-If you travel light, our guide to [carry-on only travel](/en/blog/carry-on-only) covers what else to leave behind.
+If you travel light, our guide to [carry-on only travel](/en/blog/carry-on-only/) covers what else to leave behind.
 
 ## How Do You Properly Prepare Apps Before You Travel?
 
@@ -74,6 +74,6 @@ Download all offline maps and language packs over home wifi before you leave. Sy
 
 More reading:
 
-- [Night Trains in Europe 2026](/en/blog/night-trains-europe-2026)
-- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only)
-- [Airport Hacks: Less Stress at Every Terminal](/en/blog/airport-hacks)
+- [Night Trains in Europe 2026](/en/blog/night-trains-europe-2026/)
+- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only/)
+- [Airport Hacks: Less Stress at Every Terminal](/en/blog/airport-hacks/)

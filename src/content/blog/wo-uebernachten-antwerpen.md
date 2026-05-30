@@ -47,7 +47,7 @@ Het Zuid (Das Süde) ist Antwerpens Kunstboulevard. Viele Galerien, das Museum v
 
 **Top-Picks:** The Pilgrim (kleines Boutique-Hotel mit viel Charakter und Design), Moxy Antwerp (modernes Lifestyle-Hotel, gutes Preis-Leistungs-Verhältnis, urban und jung).
 
-Lies dazu auch unseren [Wo übernachten in Brüssel](/blog/wo-uebernachten-bruessel)-Guide, da das Verhältnis der Stadtteile ähnlich aufgeteilt ist.
+Lies dazu auch unseren [Wo übernachten in Brüssel](/blog/wo-uebernachten-bruessel/)-Guide, da das Verhältnis der Stadtteile ähnlich aufgeteilt ist.
 
 ## Eilandje und Havenviertel: Maritimes Antwerpen
 
@@ -96,7 +96,7 @@ Für Antwerpen ist [Booking.com](https://www.booking.com) die zuverlässigste Pl
 
 Für Luxus (De Witte Lelie, Botanic Sanctuary) lohnt ein Direktvergleich mit der Hotel-Website. Ansonsten ist Booking.com in Antwerpen erste Wahl.
 
-Lies dazu auch unseren [Wo übernachten in Brügge](/blog/wo-uebernachten-bruegge)-Guide für den idealen Tagesausflug von Antwerpen.
+Lies dazu auch unseren [Wo übernachten in Brügge](/blog/wo-uebernachten-bruegge/)-Guide für den idealen Tagesausflug von Antwerpen.
 
 ---
 
@@ -123,6 +123,6 @@ Mittelklasse (3-4-Sterne, Centrum) liegt bei 100-180 Euro. Boutique-Hotels koste
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Brüssel: Die besten Stadtteile](/blog/wo-uebernachten-bruessel)
-- [Wo übernachten in Brügge: Weltviertel mit Charme](/blog/wo-uebernachten-bruegge)
-- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
+- [Wo übernachten in Brüssel: Die besten Stadtteile](/blog/wo-uebernachten-bruessel/)
+- [Wo übernachten in Brügge: Weltviertel mit Charme](/blog/wo-uebernachten-bruegge/)
+- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich/)

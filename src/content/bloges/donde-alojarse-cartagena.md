@@ -77,7 +77,7 @@ Barrio insular entre Centro y Bocagrande, hace 100 años el barrio residencial d
 
 **Top picks:** Casa Bustamante Hotel Boutique (pequeño boutique con patio), apartamentos en casas restauradas de Manga (vía Booking.com), pequeñas pensiones familiares.
 
-Lee también nuestra [guía de Bogotá](/es/blog/donde-alojarse-bogota), si vas a explorar más de Colombia.
+Lee también nuestra [guía de Bogotá](/es/blog/donde-alojarse-bogota/), si vas a explorar más de Colombia.
 
 ## ¿Cuánto cuesta realmente una noche en Cartagena?
 
@@ -126,6 +126,6 @@ Mochilero: 700-1.000 USD por persona incl. vuelo (hostal en Getsemaní, comida l
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Bogotá: 4 barrios](/es/blog/donde-alojarse-bogota)
-- [Dónde alojarse en Medellín: 4 barrios](/es/blog/donde-alojarse-medellin)
-- [Dónde alojarse en Cancún: 4 zonas](/es/blog/donde-alojarse-cancun)
+- [Dónde alojarse en Bogotá: 4 barrios](/es/blog/donde-alojarse-bogota/)
+- [Dónde alojarse en Medellín: 4 barrios](/es/blog/donde-alojarse-medellin/)
+- [Dónde alojarse en Cancún: 4 zonas](/es/blog/donde-alojarse-cancun/)

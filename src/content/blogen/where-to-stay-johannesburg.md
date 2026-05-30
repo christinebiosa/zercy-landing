@@ -49,7 +49,7 @@ Rosebank is the creative counterpart to Sandton. Less glossy, more character. Th
 
 **Top picks:** The Peech Hotel (boutique, garden, sustainability focus), Rosebank Hotel (classic, location, solid quality), Hotel 54 on Bath (smaller boutique, personal service).
 
-If you're planning an East Africa circuit, our [Where to Stay in Nairobi guide](/en/blog/where-to-stay-nairobi) covers the Kenyan capital.
+If you're planning an East Africa circuit, our [Where to Stay in Nairobi guide](/en/blog/where-to-stay-nairobi/) covers the Kenyan capital.
 
 ## When Is the Best Time to Visit Johannesburg?
 
@@ -118,6 +118,6 @@ Hostel in Melville: 20-30 USD. Guesthouse in Rosebank: 65-130 USD. Mid-range hot
 ---
 
 **Read more:**
-- [Where to Stay in Cape Town: Best Neighborhoods 2026](/en/blog/where-to-stay-cape-town)
-- [Where to Stay in Nairobi: Westlands vs. Karen vs. CBD](/en/blog/where-to-stay-nairobi)
-- [Travel Insurance: What Actually Covers You in Africa?](/en/blog/travel-insurance-worth-it-2026)
+- [Where to Stay in Cape Town: Best Neighborhoods 2026](/en/blog/where-to-stay-cape-town/)
+- [Where to Stay in Nairobi: Westlands vs. Karen vs. CBD](/en/blog/where-to-stay-nairobi/)
+- [Travel Insurance: What Actually Covers You in Africa?](/en/blog/travel-insurance-worth-it-2026/)

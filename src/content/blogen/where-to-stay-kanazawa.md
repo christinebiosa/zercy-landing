@@ -65,7 +65,7 @@ Katamachi is Kanazawa's culinary center. Rihaku-dori and Korinbo are the main ar
 
 **Top picks:** Dormy Inn Kanazawa (reliable chain, onsen in-house), Cross Hotel Kanazawa (modern design, good evening location), Kanazawa Chaya (small boutique with local character).
 
-If you're building a longer Japan itinerary, our [Japan 3-week route](/en/blog/japan-3-week-route) includes Kanazawa as a key stop alongside Kyoto and Hiroshima.
+If you're building a longer Japan itinerary, our [Japan 3-week route](/en/blog/japan-3-week-route/) includes Kanazawa as a key stop alongside Kyoto and Hiroshima.
 
 ## Kanazawa Station Area: Arrive and Start
 
@@ -79,7 +79,7 @@ Hotels here are functional, slightly cheaper than the center, and well connected
 
 **Top picks:** JR Inn Kanazawa (right at the station, extremely practical), Kanazawa Excel Hotel Tokyu (mid-range with good service), Hotel Monterey La Mer Kanazawa (reliable, fair prices).
 
-For tips on keeping Japan affordable, see our [Japan budget travel guide](/en/blog/japan-budget-travel-tips).
+For tips on keeping Japan affordable, see our [Japan budget travel guide](/en/blog/japan-budget-travel-tips/).
 
 ## Noto Peninsula Direction: Ryokan and Ocean Views
 
@@ -120,6 +120,6 @@ For one or two days, the Kenroku-en / Castle Area is the right choice. All major
 ---
 
 **Read more:**
-- [Japan 3-week route: The ideal itinerary](/en/blog/japan-3-week-route)
-- [Japan budget travel tips: How to keep costs down](/en/blog/japan-budget-travel-tips)
-- [Hidden gems in Europe: Underrated cities worth visiting](/en/blog/hidden-gems-europe)
+- [Japan 3-week route: The ideal itinerary](/en/blog/japan-3-week-route/)
+- [Japan budget travel tips: How to keep costs down](/en/blog/japan-budget-travel-tips/)
+- [Hidden gems in Europe: Underrated cities worth visiting](/en/blog/hidden-gems-europe/)

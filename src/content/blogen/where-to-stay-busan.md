@@ -55,7 +55,7 @@ Nampo-Dong is Busan's oldest city center. Jagalchi Fish Market is one of Korea's
 
 **Top picks:** Lotte Hotel Busan (luxury in the city center, well-connected), Hotel Nongshim (mid-range with spa, tradition and comfort), PJ Hotel (budget-friendly, central, backpacker-friendly).
 
-The [South Korea 2-week itinerary](/en/blog/south-korea-2-week-route) and [Seoul neighborhood guide](/en/blog/where-to-stay-seoul) cover broader Korea planning.
+The [South Korea 2-week itinerary](/en/blog/south-korea-2-week-route/) and [Seoul neighborhood guide](/en/blog/where-to-stay-seoul/) cover broader Korea planning.
 
 ## Gwangalli: Young Neighborhood with Bridge Panorama
 
@@ -106,6 +106,6 @@ About the same or slightly cheaper. Hotels: similar price ranges in comparable l
 ---
 
 **Read more:**
-- [South Korea: 2-Week Itinerary with Tips](/en/blog/south-korea-2-week-route)
-- [Where to Stay in Seoul: Best Neighborhoods](/en/blog/where-to-stay-seoul)
-- [Japan: 3-Week Itinerary with Tips](/en/blog/japan-3-week-route)
+- [South Korea: 2-Week Itinerary with Tips](/en/blog/south-korea-2-week-route/)
+- [Where to Stay in Seoul: Best Neighborhoods](/en/blog/where-to-stay-seoul/)
+- [Japan: 3-Week Itinerary with Tips](/en/blog/japan-3-week-route/)

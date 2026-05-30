@@ -18,7 +18,7 @@ Für bestimmte Reisetypen gibt es keinen besseren Fit als ein Kettenhotel.
 
 **Geschäftsreisen.** Marriott, Hilton, Hyatt, IHG. Diese Ketten haben standardisierte Ausstattung, schnelles WLAN, Druckermöglichkeit, flexible Check-in-Zeiten und eine Rechnung, die direkt ans Unternehmen geht. Keine Überraschungen. Das ist der Hauptgrund, warum Geschäftsreisende fast immer bei Ketten landen.
 
-**Loyalitätsprogramme.** Wer oft reist, sammelt Punkte. Marriott Bonvoy, Hilton Honors, World of Hyatt: nach 20-30 Übernachtungen im Jahr bekommst du kostenlose Nächte, Zimmer-Upgrades und Lounge-Zugang. Das ist ein echter finanzieller Vorteil, den Boutique-Hotels und BnBs nicht bieten können. Mehr dazu in unserem [Hotel-Treueprogramm-Guide](/blog/hotel-treueprogramm-lohnt-sich).
+**Loyalitätsprogramme.** Wer oft reist, sammelt Punkte. Marriott Bonvoy, Hilton Honors, World of Hyatt: nach 20-30 Übernachtungen im Jahr bekommst du kostenlose Nächte, Zimmer-Upgrades und Lounge-Zugang. Das ist ein echter finanzieller Vorteil, den Boutique-Hotels und BnBs nicht bieten können. Mehr dazu in unserem [Hotel-Treueprogramm-Guide](/blog/hotel-treueprogramm-lohnt-sich/).
 
 **Vorhersehbarkeit.** Du weißt genau was dich erwartet. Ein Zimmer im Marriott London sieht fast genauso aus wie im Marriott Seoul. Gleiche Bettqualität, gleiche Badezimmer-Ausstattung, gleiches Frühstücksformat. Für Reisende denen Zuverlässigkeit wichtiger ist als Überraschungen, ist das ein echter Vorteil.
 
@@ -30,7 +30,7 @@ Preislich: Kettenhotels sind in der Mittelklasse oft konkurrenzfähig, besonders
 
 Boutique-Hotels sind das Gegenteil von Standardisierung. Und genau das ist ihr Reiz.
 
-Meistens unter 50 Zimmer. Individuelles Design. Lokale Eigentümer oder ein kleines, engagiertes Team. Oft in historischen Gebäuden: umgebaute Stadtvillen, alte Fabrikhallen, ehemalige Klöster. Lies auch unseren ausführlichen [Boutique-Hotel-Guide](/blog/boutique-hotels) für mehr Details.
+Meistens unter 50 Zimmer. Individuelles Design. Lokale Eigentümer oder ein kleines, engagiertes Team. Oft in historischen Gebäuden: umgebaute Stadtvillen, alte Fabrikhallen, ehemalige Klöster. Lies auch unseren ausführlichen [Boutique-Hotel-Guide](/blog/boutique-hotels/) für mehr Details.
 
 **Charakter und lokales Flair.** Ein gutes Boutique-Hotel weiß, welche Bars im Viertel wirklich gut sind, welches Restaurant einen Tisch reservieren kann und welche Straßen du meiden solltest. In einem 400-Zimmer-Marriott bekommst du eine Tripadvisor-Liste. In einem 20-Zimmer-Boutique-Haus bekommst du eine echte Empfehlung.
 
@@ -38,7 +38,7 @@ Meistens unter 50 Zimmer. Individuelles Design. Lokale Eigentümer oder ein klei
 
 **Kleine Extras.** Direktbuchung bei Boutique-Hotels lohnt sich fast immer. Viele bieten bessere Zimmer, Late Checkout oder ein kleines Willkommensgeschenk, wenn du direkt buchst statt über eine Plattform. Grund: sie sparen die Provision.
 
-Preis: Boutique-Hotels kosten in europäischen Städten oft 100-250 Euro pro Nacht für gute Qualität. Plattformen wie [Expedia](https://www.expedia.com) oder Booking.com haben starke Boutique-Auswahl. Für den Europa-Urlaub kannst du auch [spezielle Boutique-Plattformen wie Mr & Mrs Smith](/blog/luxusreisen-guenstig-tipps) prüfen.
+Preis: Boutique-Hotels kosten in europäischen Städten oft 100-250 Euro pro Nacht für gute Qualität. Plattformen wie [Expedia](https://www.expedia.com) oder Booking.com haben starke Boutique-Auswahl. Für den Europa-Urlaub kannst du auch [spezielle Boutique-Plattformen wie Mr & Mrs Smith](/blog/luxusreisen-guenstig-tipps/) prüfen.
 
 ## Wann lohnt sich ein BnB?
 
@@ -100,6 +100,6 @@ Lokale Tourismuswebsites empfehlen oft nicht-gelistete BnBs. Für ländliche Reg
 ---
 
 **Mehr lesen:**
-- [Airbnb-Alternativen 2026: Die besten Optionen im Vergleich](/blog/airbnb-alternativen-2026)
-- [Hotel Upgrade kostenlos: So funktioniert es wirklich](/blog/hotel-upgrade-gratis-tipps)
-- [Reisekosten-App 2026: Die besten Tools zum Budgetieren](/blog/reisekosten-app-2026)
+- [Airbnb-Alternativen 2026: Die besten Optionen im Vergleich](/blog/airbnb-alternativen-2026/)
+- [Hotel Upgrade kostenlos: So funktioniert es wirklich](/blog/hotel-upgrade-gratis-tipps/)
+- [Reisekosten-App 2026: Die besten Tools zum Budgetieren](/blog/reisekosten-app-2026/)

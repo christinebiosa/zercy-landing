@@ -67,7 +67,7 @@ Gangnam is reachable by metro afterward if time allows. Its reputation (Botox cl
 
 Two neighborhoods work well for 48 hours. Myeongdong for short routes to Bukchon, Gwanghwamun and Cheonggyecheon. Or Hongdae for the western neighborhoods and Day 2. The metro connects both in under 20 minutes.
 
-Myeongdong is more central, noisier, more tourist-facing. Hongdae is livelier at night, quieter in the morning. For first visits, Myeongdong makes more sense because of the shorter travel times. Our guide [Where to Stay in Seoul](/en/blog/where-to-stay-seoul) covers both areas by budget and neighborhood. Booking.com has solid coverage of both with verified reviews and price comparison.
+Myeongdong is more central, noisier, more tourist-facing. Hongdae is livelier at night, quieter in the morning. For first visits, Myeongdong makes more sense because of the shorter travel times. Our guide [Where to Stay in Seoul](/en/blog/where-to-stay-seoul/) covers both areas by budget and neighborhood. Booking.com has solid coverage of both with verified reviews and price comparison.
 
 ## What does Seoul actually cost?
 
@@ -75,7 +75,7 @@ Seoul is more affordable than almost any comparable city in East Asia. To give y
 
 A full lunch at a local restaurant runs 8,000 to 12,000 KRW, which is 5 to 8 euros. Coffee in a quality cafe: 5,000 to 6,000 KRW. Myeongdong street food: 2,000 to 5,000 KRW per snack. A taxi for three kilometers: around 4,000 KRW.
 
-The Incheon Airport Express (AREX) takes you from the airport to the city center in 43 minutes for 9,500 KRW. It is the fastest and most affordable option. No taxi, no shuttle. The express stops at Hongik University (Hongdae) and Seoul Station. For tips on moving through international airports smoothly, see our [airport hacks](/en/blog/airport-hacks) guide.
+The Incheon Airport Express (AREX) takes you from the airport to the city center in 43 minutes for 9,500 KRW. It is the fastest and most affordable option. No taxi, no shuttle. The express stops at Hongik University (Hongdae) and Seoul Station. For tips on moving through international airports smoothly, see our [airport hacks](/en/blog/airport-hacks/) guide.
 
 A full weekend including mid-range accommodation, meals and attraction tickets runs roughly 200 to 350 euros per person. Those staying in well-rated hotels in Myeongdong or Insadong should budget closer to the upper end.
 
@@ -89,7 +89,7 @@ Summer (July and August) is hot and humid. Temperatures above 30 degrees, high h
 
 Winter is genuinely cold. December through February regularly drops to minus 10 degrees. Those who handle cold well will find cheaper prices and the palaces covered in snow. Worth it for the right traveler.
 
-If you want to extend Seoul into a longer trip, our [South Korea 2-week route](/en/blog/south-korea-2-week-route) covers how to combine Seoul with Busan, Gyeongju and the countryside.
+If you want to extend Seoul into a longer trip, our [South Korea 2-week route](/en/blog/south-korea-2-week-route/) covers how to combine Seoul with Busan, Gyeongju and the countryside.
 
 Zercy compares long-haul flights to Seoul and helps you find the best stopover hub. Save everything in the [Zercy Logbook](https://www.zercy.app/logbook) so you don't miss anything when booking.
 
@@ -116,6 +116,6 @@ Better than in most East Asian cities. Metro stations are signed in English and 
 ---
 
 **Read more:**
-- [Where to Stay in Seoul: Best Neighborhoods and Hotels](/en/blog/where-to-stay-seoul)
-- [South Korea 2-Week Route: The Complete Travel Plan](/en/blog/south-korea-2-week-route)
-- [Airport Hacks: Move Through Any Airport Faster](/en/blog/airport-hacks)
+- [Where to Stay in Seoul: Best Neighborhoods and Hotels](/en/blog/where-to-stay-seoul/)
+- [South Korea 2-Week Route: The Complete Travel Plan](/en/blog/south-korea-2-week-route/)
+- [Airport Hacks: Move Through Any Airport Faster](/en/blog/airport-hacks/)

@@ -22,11 +22,11 @@ Lo que no esperas: el nivel. El casco antiguo de Tallin está mejor conservado q
 
 ## ¿Cuáles son las ciudades más baratas?
 
-**Belgrado** encabeza la lista. Serbia no es miembro de la UE, lo que significa que el dinar no se ve arrastrado por el euro. Una cena completa con bebida: 6 a 10 euros. Cama en hostal: desde 12 euros. Habitación de hotel decente: desde 35 euros. [Dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest) te da una referencia similar para la vecina Hungría.
+**Belgrado** encabeza la lista. Serbia no es miembro de la UE, lo que significa que el dinar no se ve arrastrado por el euro. Una cena completa con bebida: 6 a 10 euros. Cama en hostal: desde 12 euros. Habitación de hotel decente: desde 35 euros. [Dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/) te da una referencia similar para la vecina Hungría.
 
 **Sofía** es sorprendentemente asequible. Bulgaria es miembro de la UE pero conservó el lev. Los precios se mantienen por debajo de la eurozona. Café por 1,50 euros, menú del día por 4 a 5 euros, hotel desde 40 euros.
 
-**Riga y Tallin** son algo más caras que Belgrado o Sofía, pero muy por debajo de Ámsterdam o Estocolmo. La ventaja: las ciudades bálticas son visualmente extraordinarias. Tallin tiene uno de los cascos medievales mejor conservados de Europa. Más detalles en la [guía de alojamiento en Tallin](/es/blog/donde-alojarse-tallin).
+**Riga y Tallin** son algo más caras que Belgrado o Sofía, pero muy por debajo de Ámsterdam o Estocolmo. La ventaja: las ciudades bálticas son visualmente extraordinarias. Tallin tiene uno de los cascos medievales mejor conservados de Europa. Más detalles en la [guía de alojamiento en Tallin](/es/blog/donde-alojarse-tallin/).
 
 **Cracovia** es un clásico con razón. Polonia conservó el esloti a pesar de ser miembro de la UE, lo que mantiene los precios bajos. Un plato principal en un buen restaurante: 6 a 9 euros. Cerveza: 1,50 a 2,50 euros. Hotel: desde 45 euros. Hostal: desde 15 euros.
 
@@ -38,7 +38,7 @@ Lo que no esperas: el nivel. El casco antiguo de Tallin está mejor conservado q
 
 La primavera (abril, mayo) y el inicio del otoño (septiembre, octubre) ofrecen la mejor combinación de clima y precio. El verano trae precios de hotel más altos y más turistas en ciudades populares como Tallin o Cracovia. El invierno es barato, pero los días cortos y el frío limitan algunas actividades.
 
-Los vuelos en temporada alta pueden costar el doble que en temporada baja. Viajar a mediados de septiembre en vez de finales de julio puede ahorrar entre un 30 y un 40 por ciento en vuelos y hoteles. [Consejos para volar barato](/es/blog/consejos-vuelos-baratos) te explica cuándo conviene reservar para cada destino.
+Los vuelos en temporada alta pueden costar el doble que en temporada baja. Viajar a mediados de septiembre en vez de finales de julio puede ahorrar entre un 30 y un 40 por ciento en vuelos y hoteles. [Consejos para volar barato](/es/blog/consejos-vuelos-baratos/) te explica cuándo conviene reservar para cada destino.
 
 Algunos viajeros subestiman la demanda en invierno. Los mercados de Navidad de Cracovia o Budapest atraen visitantes de toda Europa. Diciembre ya no es temporada baja. Quien viaja en enero o febrero encuentra los precios más bajos y prácticamente ningún otro turista.
 
@@ -46,7 +46,7 @@ Algunos viajeros subestiman la demanda en invierno. Los mercados de Navidad de C
 
 **FlixBus y RegioJet** conectan la mayoría de las ciudades directamente. Cracovia a Budapest: desde 12 euros. Budapest a Belgrado: desde 15 euros. Los autobuses son cómodos, puntuales y tienen wifi. Para trayectos cortos y medios, es la opción más barata con diferencia.
 
-**Los trenes nocturnos** son ideales para trayectos más largos. Ahorras una noche de hotel y llegas descansado a tu destino. La ruta de Cracovia a Viena o de Budapest a Belgrado es perfectamente viable. Todas las rutas actuales y consejos de reserva están en la [guía de trenes nocturnos Europa 2026](/es/blog/trenes-nocturnos-europa-2026).
+**Los trenes nocturnos** son ideales para trayectos más largos. Ahorras una noche de hotel y llegas descansado a tu destino. La ruta de Cracovia a Viena o de Budapest a Belgrado es perfectamente viable. Todas las rutas actuales y consejos de reserva están en la [guía de trenes nocturnos Europa 2026](/es/blog/trenes-nocturnos-europa-2026/).
 
 **Las aerolíneas de bajo coste** como Ryanair y Wizz Air conectan muchas ciudades de Europa del Este con Europa occidental. Berlín a Riga o Viena a Sofía: a menudo por menos de 40 euros reservando con antelación. La clave es la flexibilidad con las fechas. Viajar tres días antes o después puede reducir el precio hasta en un tercio.
 
@@ -86,6 +86,6 @@ Para primavera y otoño, reserva vuelos y hoteles con seis a diez semanas de ant
 
 ## Más información
 
-- [Consejos para volar barato en 2026](/es/blog/consejos-vuelos-baratos)
-- [Dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest)
-- [Dónde alojarse en Tallin](/es/blog/donde-alojarse-tallin)
+- [Consejos para volar barato en 2026](/es/blog/consejos-vuelos-baratos/)
+- [Dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/)
+- [Dónde alojarse en Tallin](/es/blog/donde-alojarse-tallin/)

@@ -89,7 +89,7 @@ Los principales mercados de Navidad abren a partir del último fin de semana de 
 
 ### ¿Dónde alojarse en Viena para estar bien ubicado?
 
-El primer distrito (Innere Stadt) es el más céntrico pero el más caro. Los distritos 6, 7 y 8 (Mariahilf, Neubau y Josefstadt) tienen excelente ubicación, ambiente más local y precios más razonables. Para más detalle, consulta la guía de [dónde alojarse en Viena](/es/blog/donde-alojarse-viena).
+El primer distrito (Innere Stadt) es el más céntrico pero el más caro. Los distritos 6, 7 y 8 (Mariahilf, Neubau y Josefstadt) tienen excelente ubicación, ambiente más local y precios más razonables. Para más detalle, consulta la guía de [dónde alojarse en Viena](/es/blog/donde-alojarse-viena/).
 
 ### ¿Cómo conseguir entradas para la Ópera de Viena sin pagar precios altos?
 
@@ -98,6 +98,6 @@ Las entradas de pie (Stehplätze) cuestan 4 euros y se venden en taquilla el mis
 ---
 
 **Leer más:**
-- [Guía completa de Interrail 2026: trenes, pases y rutas](/es/blog/guia-interrail-2026)
-- [48 horas en Barcelona: Gaudí, Gótico y la Barceloneta](/es/blog/48-horas-barcelona)
-- [Joyas ocultas de Europa para salir del circuito](/es/blog/joyas-ocultas-europa)
+- [Guía completa de Interrail 2026: trenes, pases y rutas](/es/blog/guia-interrail-2026/)
+- [48 horas en Barcelona: Gaudí, Gótico y la Barceloneta](/es/blog/48-horas-barcelona/)
+- [Joyas ocultas de Europa para salir del circuito](/es/blog/joyas-ocultas-europa/)

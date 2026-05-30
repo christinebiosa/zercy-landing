@@ -57,7 +57,7 @@ Der nördliche Teil von Lakeside ist ruhiger und gehobener. Weniger Bars, mehr B
 
 **Top-Picks:** Pavilions Himalayas (Luxus-Resort mit Panorama-Pool, Himalaya-Blick bei gutem Wetter unvergesslich), Tiger Mountain Pokhara Lodge (Eco-Luxus, Bergblick, nachhaltiges Konzept), Atithi Resort (Mittelklasse, guter Seeblick, gutes Preis-Leistungs-Verhältnis).
 
-Den [Nepal Reiseguide](/blog/nepal-reiseguide-highlights) und die [Empfehlungen für Kathmandu](/blog/wo-uebernachten-kathmandu) findest du für übergreifende Nepal-Planung.
+Den [Nepal Reiseguide](/blog/nepal-reiseguide-highlights/) und die [Empfehlungen für Kathmandu](/blog/wo-uebernachten-kathmandu/) findest du für übergreifende Nepal-Planung.
 
 ## Damside: Ruhig und günstig
 
@@ -108,6 +108,6 @@ Lakeside ist die erste Wahl: alle Reisebüros, Equipment-Verleih, Trekking-Hotli
 ---
 
 **Mehr lesen:**
-- [Nepal Reiseguide: Highlights und Tipps](/blog/nepal-reiseguide-highlights)
-- [Wo übernachten in Kathmandu: Die besten Stadtteile](/blog/wo-uebernachten-kathmandu)
-- [Südostasien: Günstig reisen mit Budget-Tipps](/blog/suedostasien-budget-reisen)
+- [Nepal Reiseguide: Highlights und Tipps](/blog/nepal-reiseguide-highlights/)
+- [Wo übernachten in Kathmandu: Die besten Stadtteile](/blog/wo-uebernachten-kathmandu/)
+- [Südostasien: Günstig reisen mit Budget-Tipps](/blog/suedostasien-budget-reisen/)

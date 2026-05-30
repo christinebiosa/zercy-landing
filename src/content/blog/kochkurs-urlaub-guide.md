@@ -22,7 +22,7 @@ Das klingt nach Kleinkram. Ist es nicht. Wenn du nach Hause kommst und das Geric
 
 Kochkurse passen auch in jeden Reisestil. Als Solo-Reisende triffst du andere Menschen. Als Paar habt ihr eine gemeinsame Geschichte zu erzählen. Als Familie lernen Kinder, dass Essen hergestellt wird, nicht einfach existiert.
 
-Mehr zur kulinarischen Reiseplanung: [Essen wie ein Einheimischer: Food Travel Tipps](/blog/food-travel-essen-wie-einheimischer)
+Mehr zur kulinarischen Reiseplanung: [Essen wie ein Einheimischer: Food Travel Tipps](/blog/food-travel-essen-wie-einheimischer/)
 
 ## Welche Destinationen sind wirklich gut?
 
@@ -38,7 +38,7 @@ Nicht jede Küche eignet sich gleich für Kurse. Manche Länder haben eine Kochk
 
 **Mexiko (Oaxaca):** Mole ist das komplizierteste Gericht Mexikos. Ein guter Kurs in Oaxaca bringt dir bei, warum. Dazu Tortillas von Hand. Unbedingt einen Kurs mit Marktbesuch wählen.
 
-Für deinen nächsten Foodie-Trip: [Street Food Reise Guide: So isst du dich durch die Welt](/blog/street-food-reise-guide)
+Für deinen nächsten Foodie-Trip: [Street Food Reise Guide: So isst du dich durch die Welt](/blog/street-food-reise-guide/)
 
 ## Halbtagskurs oder Ganztag: Was passt zu dir?
 
@@ -96,6 +96,6 @@ Nichts ausser guter Laune. Schürze, Messer, Zutaten, alles wird gestellt. Kleid
 ---
 
 **Mehr lesen:**
-- [Slow Travel: Was es wirklich bedeutet](/blog/slow-travel-bedeutet-was)
-- [Tokio Foodie-Reise: Wo du wirklich essen solltest](/blog/tokio-foodie-reise)
-- [Street Food Reise Guide](/blog/street-food-reise-guide)
+- [Slow Travel: Was es wirklich bedeutet](/blog/slow-travel-bedeutet-was/)
+- [Tokio Foodie-Reise: Wo du wirklich essen solltest](/blog/tokio-foodie-reise/)
+- [Street Food Reise Guide](/blog/street-food-reise-guide/)

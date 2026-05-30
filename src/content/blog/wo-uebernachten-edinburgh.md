@@ -45,7 +45,7 @@ Direkt nördlich der Old Town, im 18. Jahrhundert geplant gebaut. Wide Georgian 
 
 **Top-Picks:** The Balmoral Hotel (legendäres 5-Sterne neben dem Bahnhof, J.K. Rowling beendete hier Harry Potter), The Caledonian Hotel (klassisch premium, jetzt Waldorf Astoria), Cheval The Edinburgh Grand (Boutique-Premium mit Apartments).
 
-Lies dazu auch unseren [Nachtzüge-Europa-Guide](/blog/nachtzuege-europa-2026), der Caledonian Sleeper London-Edinburgh ist eine Klassiker-Strecke.
+Lies dazu auch unseren [Nachtzüge-Europa-Guide](/blog/nachtzuege-europa-2026/), der Caledonian Sleeper London-Edinburgh ist eine Klassiker-Strecke.
 
 ## Wann ist die beste Reisezeit für Edinburgh?
 
@@ -117,6 +117,6 @@ Backpacker: 700-1.000 Euro pro Person inkl. Flug (Hostel, Pub-Essen, Bus). Mitte
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in London: Die 5 Stadtteile](/blog/wo-uebernachten-london)
-- [Wo übernachten in Amsterdam: Die 4 Stadtteile](/blog/wo-uebernachten-amsterdam)
-- [Nachtzüge in Europa: Vollständiger Guide 2026](/blog/nachtzuege-europa-2026)
+- [Wo übernachten in London: Die 5 Stadtteile](/blog/wo-uebernachten-london/)
+- [Wo übernachten in Amsterdam: Die 4 Stadtteile](/blog/wo-uebernachten-amsterdam/)
+- [Nachtzüge in Europa: Vollständiger Guide 2026](/blog/nachtzuege-europa-2026/)

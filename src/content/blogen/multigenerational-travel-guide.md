@@ -31,9 +31,9 @@ This decision shapes everything else.
 
 [Booking.com](https://www.booking.com/holiday-homes) lists thousands of villas and larger apartments built for groups of eight or more. Separate entrance for grandma, pool for the kids, barbecue for everyone.
 
-**All-inclusive resort.** Often the least stressful option for a mixed group. All meals are covered, no one has to calculate costs at every turn, and the kids' animation team keeps the younger ones busy while grandparents relax by the pool. The downside: limited local experience. The upside: zero financial surprises. More on the tradeoffs in our [all-inclusive holiday guide](/en/blog/all-inclusive-holiday-worth-it).
+**All-inclusive resort.** Often the least stressful option for a mixed group. All meals are covered, no one has to calculate costs at every turn, and the kids' animation team keeps the younger ones busy while grandparents relax by the pool. The downside: limited local experience. The upside: zero financial surprises. More on the tradeoffs in our [all-inclusive holiday guide](/en/blog/all-inclusive-holiday-worth-it/).
 
-**Cruise.** Underrated for multigenerational groups. The ship is your base, luggage stays in one place, and separate cabins give everyone real privacy. Kids' clubs run full days. Evening entertainment suits every age group. If you're new to cruising, see what to look for in the [cruise beginners guide](/en/blog/cruise-beginners-guide).
+**Cruise.** Underrated for multigenerational groups. The ship is your base, luggage stays in one place, and separate cabins give everyone real privacy. Kids' clubs run full days. Evening entertainment suits every age group. If you're new to cruising, see what to look for in the [cruise beginners guide](/en/blog/cruise-beginners-guide/).
 
 ## How Do You Plan an Itinerary That Satisfies Every Generation?
 
@@ -43,9 +43,9 @@ Build parallel activities deliberately. Mornings: parents take kids to the beach
 
 One shared highlight per day is enough. Two is ambitious. Three exhausts everyone.
 
-For trips involving seniors with reduced mobility, always check accessibility first. Spain's official tourism board [spain.info](https://www.spain.info/en/accessibility/) has a dedicated accessibility section covering wheelchair-friendly routes, adapted transport and accommodation filters. For destination-specific barrierfree planning, our [accessible travel guide](/en/blog/accessible-travel-guide) covers the key questions.
+For trips involving seniors with reduced mobility, always check accessibility first. Spain's official tourism board [spain.info](https://www.spain.info/en/accessibility/) has a dedicated accessibility section covering wheelchair-friendly routes, adapted transport and accommodation filters. For destination-specific barrierfree planning, our [accessible travel guide](/en/blog/accessible-travel-guide/) covers the key questions.
 
-For teens in the group, the challenges are different. Read [how to travel with teenagers](/en/blog/travel-with-teenagers-tips) before assuming they'll follow the group program without negotiation.
+For teens in the group, the challenges are different. Read [how to travel with teenagers](/en/blog/travel-with-teenagers-tips/) before assuming they'll follow the group program without negotiation.
 
 ## What Are the Best Destinations for Multigenerational Trips?
 
@@ -90,6 +90,6 @@ Earlier than a solo or couple trip. More people means more scheduling constraint
 ---
 
 **Read more:**
-- [Traveling with Teenagers: What Actually Works](/en/blog/travel-with-teenagers-tips)
-- [Accessible Travel Guide: Planning for Every Mobility Level](/en/blog/accessible-travel-guide)
-- [Cruise Beginners Guide: What to Know Before You Book](/en/blog/cruise-beginners-guide)
+- [Traveling with Teenagers: What Actually Works](/en/blog/travel-with-teenagers-tips/)
+- [Accessible Travel Guide: Planning for Every Mobility Level](/en/blog/accessible-travel-guide/)
+- [Cruise Beginners Guide: What to Know Before You Book](/en/blog/cruise-beginners-guide/)

@@ -32,7 +32,7 @@ Viele kleinere US-Flughäfen schicken Sicherheitspersonal durch die Hallen, um s
 
 Auch günstige Billigflieger-Airports machen es schwer: London Stansted schließt nachts Teile des Terminals. Luton ist klein, laut und hat kaum Rückzugsmöglichkeiten. Wer einen frühen Ryanair- oder EasyJet-Flug hat und überlegt, die Nacht dort zu verbringen, sollte das ernsthaft abwägen. Oft ist ein Airbnb in der Nähe günstiger und deutlich angenehmer.
 
-Schau dir auf Zercy an, wie andere Reisende ihre Routen planen: [Airport Hacks für clevere Reisende](/blog/airport-hacks).
+Schau dir auf Zercy an, wie andere Reisende ihre Routen planen: [Airport Hacks für clevere Reisende](/blog/airport-hacks/).
 
 ## Was packst du ein, wenn du am Flughafen schläfst?
 
@@ -44,7 +44,7 @@ Eine **leichte Decke oder ein großes Schal** hilft gegen die Klimaanlage. Flugh
 
 Für die Sicherheit: Wertgegenstände immer körpernah. Den Rucksack als Kopfkissen benutzen oder den Arm durch den Riemen führen. Reisegeldbörsen mit Halter um den Hals sind bei langen Layovern keine Übervorsicht, sie sind sinnvoll.
 
-Mehr dazu, was du auf Reisen wirklich brauchst: [Nur Handgepäck: Was wirklich reinpasst](/blog/nur-handgepaeck).
+Mehr dazu, was du auf Reisen wirklich brauchst: [Nur Handgepäck: Was wirklich reinpasst](/blog/nur-handgepaeck/).
 
 ## Lounge oder Gate: Was ist die bessere Strategie?
 
@@ -52,9 +52,9 @@ Wer Flexibilität hat, sollte die Lage im Terminal erkunden, bevor er sich irgen
 
 Eine Lounge kann den Layover komplett verändern. Für 25 bis 50 Euro Tagespauschale über LoungeBuddy oder Priority Pass bekommst du Liegen, Duschen, Essen und deutlich weniger Lärm. Nicht jede Lounge erlaubt das ohne Buchung, aber viele akzeptieren Walk-ins. Lohnt sich besonders bei Layovern über fünf Stunden.
 
-Wie du Lounge-Zugang auch ohne Business-Ticket bekommst, erklärt dieser Artikel: [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket).
+Wie du Lounge-Zugang auch ohne Business-Ticket bekommst, erklärt dieser Artikel: [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket/).
 
-Manchmal ist ein Airside-Hotel die günstigste Lösung, vor allem wenn du früh wieder im Terminal sein musst. Wie du entscheidest, ob sich das lohnt: [Flughafen-Hotel: Wann es sich wirklich lohnt](/blog/flughafen-hotel-lohnt-sich).
+Manchmal ist ein Airside-Hotel die günstigste Lösung, vor allem wenn du früh wieder im Terminal sein musst. Wie du entscheidest, ob sich das lohnt: [Flughafen-Hotel: Wann es sich wirklich lohnt](/blog/flughafen-hotel-lohnt-sich/).
 
 ## Zercy hilft dir, den Layover richtig zu planen
 
@@ -85,6 +85,6 @@ Für Layover ab vier Stunden: ja. Preise liegen zwischen 15 und 35 Euro pro Stun
 ---
 
 **Mehr lesen:**
-- [Airport Hacks für clevere Reisende](/blog/airport-hacks)
-- [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket)
-- [Flughafen-Hotel: Wann es sich wirklich lohnt](/blog/flughafen-hotel-lohnt-sich)
+- [Airport Hacks für clevere Reisende](/blog/airport-hacks/)
+- [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket/)
+- [Flughafen-Hotel: Wann es sich wirklich lohnt](/blog/flughafen-hotel-lohnt-sich/)

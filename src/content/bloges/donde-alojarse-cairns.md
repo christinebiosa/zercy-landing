@@ -91,7 +91,7 @@ Para primeros visitantes: tours de un día a los arrecifes exteriores con Cairns
 
 ### ¿Cuánto cuesta un día en la Gran Barrera de Coral?
 
-Los tours de un día al Outer Reef cuestan entre 200 y 280 AUD por persona con equipo de snorkel incluido. Con clase de snorkel algo más. Las inmersiones introductorias cuestan extra (80-120 AUD). Vuelo en helicóptero sobre el arrecife: 200-300 AUD adicionales. La [guía de road trip por Australia](/es/blog/australia-ruta-completa) ayuda con la planificación del presupuesto para la ruta completa.
+Los tours de un día al Outer Reef cuestan entre 200 y 280 AUD por persona con equipo de snorkel incluido. Con clase de snorkel algo más. Las inmersiones introductorias cuestan extra (80-120 AUD). Vuelo en helicóptero sobre el arrecife: 200-300 AUD adicionales. La [guía de road trip por Australia](/es/blog/australia-ruta-completa/) ayuda con la planificación del presupuesto para la ruta completa.
 
 ### ¿Qué otras actividades hay además del arrecife?
 
@@ -100,6 +100,6 @@ Daintree Rainforest (la selva tropical más antigua del mundo, excursión de un 
 ---
 
 **Leer más:**
-- [Australia: La ruta óptima de norte a sur](/es/blog/australia-ruta-completa)
-- [Dónde alojarse en Brisbane: Los mejores barrios](/es/blog/donde-alojarse-brisbane)
-- [Dónde alojarse en Sídney: CBD o Bondi](/es/blog/donde-alojarse-sydney)
+- [Australia: La ruta óptima de norte a sur](/es/blog/australia-ruta-completa/)
+- [Dónde alojarse en Brisbane: Los mejores barrios](/es/blog/donde-alojarse-brisbane/)
+- [Dónde alojarse en Sídney: CBD o Bondi](/es/blog/donde-alojarse-sydney/)

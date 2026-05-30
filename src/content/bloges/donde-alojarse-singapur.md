@@ -57,7 +57,7 @@ Hoteles: de 80 a 200 euros.
 **Recomendación:**
 - **Wangz Hotel** (boutique en Tiong Bahru, diseño impecable, aprox. 150 €)
 
-Para otras ciudades asiáticas de primera clase, consulta también [dónde alojarse en Hong Kong](/es/blog/donde-alojarse-hong-kong) y [dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok).
+Para otras ciudades asiáticas de primera clase, consulta también [dónde alojarse en Hong Kong](/es/blog/donde-alojarse-hong-kong/) y [dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok/).
 
 ## Sentosa Island: Resorts y entretenimiento
 
@@ -98,6 +98,6 @@ En un hawker centre, una comida completa cuesta 4-8 SGD (3-6 euros). Un café en
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Hong Kong: Tsim Sha Tsui, Central o Causeway Bay](/es/blog/donde-alojarse-hong-kong)
-- [Dónde alojarse en Bangkok: Sukhumvit, Silom o Riverside](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Bali: Seminyak, Ubud o Canggu](/es/blog/donde-alojarse-bali)
+- [Dónde alojarse en Hong Kong: Tsim Sha Tsui, Central o Causeway Bay](/es/blog/donde-alojarse-hong-kong/)
+- [Dónde alojarse en Bangkok: Sukhumvit, Silom o Riverside](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Bali: Seminyak, Ubud o Canggu](/es/blog/donde-alojarse-bali/)

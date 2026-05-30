@@ -85,6 +85,6 @@ Hot springs (especially in Furnas on São Miguel), museums in Ponta Delgada, win
 
 ## Read more
 
-- [Portugal Road Trip Route: Highlights from North to South](/en/blog/portugal-road-trip-route)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Scandinavia Road Trip: Route and Highlights](/en/blog/scandinavia-road-trip-route)
+- [Portugal Road Trip Route: Highlights from North to South](/en/blog/portugal-road-trip-route/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Scandinavia Road Trip: Route and Highlights](/en/blog/scandinavia-road-trip-route/)

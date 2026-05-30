@@ -69,7 +69,7 @@ Dos barrios al oeste y suroeste del Centro que se han convertido en favoritos pa
 
 **Recomendaciones:** Hotel Marionetas (boutique hotel familiar en Santiago, piscina, 6 habitaciones), Casa Mexilio (bed and breakfast con estilo creativo, ambiente mixto de huéspedes).
 
-Si Mérida es parte de un viaje más largo por Yucatán, revisá también nuestra [guía de ruta por México](/es/blog/mexico-ruta-completa).
+Si Mérida es parte de un viaje más largo por Yucatán, revisá también nuestra [guía de ruta por México](/es/blog/mexico-ruta-completa/).
 
 ## Altabrisa: Moderno y práctico
 
@@ -97,7 +97,7 @@ La mayoría de los hoteles en Mérida tienen web propia, pero la diferencia de p
 
 Dato importante: Mérida es un destino popular para el turismo interno mexicano. En Semana Santa y feriados nacionales, los buenos hoteles se agotan semanas antes. Para viajar entre noviembre y marzo, reservá con al menos 3 o 4 semanas de anticipación.
 
-Leé también nuestras guías sobre [dónde alojarse en Cancún](/es/blog/donde-alojarse-cancun) y [dónde alojarse en Tulum](/es/blog/donde-alojarse-tulum) para tu ruta completa por Yucatán.
+Leé también nuestras guías sobre [dónde alojarse en Cancún](/es/blog/donde-alojarse-cancun/) y [dónde alojarse en Tulum](/es/blog/donde-alojarse-tulum/) para tu ruta completa por Yucatán.
 
 ---
 
@@ -124,6 +124,6 @@ Cochinita pibil (cerdo marinado en achiote, cocinado lentamente), sopa de lima (
 ---
 
 **Leer más:**
-- [Ruta completa por México: Yucatán y más](/es/blog/mexico-ruta-completa)
-- [Dónde alojarse en Cancún: Los 4 barrios](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Tulum: Playa o centro](/es/blog/donde-alojarse-tulum)
+- [Ruta completa por México: Yucatán y más](/es/blog/mexico-ruta-completa/)
+- [Dónde alojarse en Cancún: Los 4 barrios](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Tulum: Playa o centro](/es/blog/donde-alojarse-tulum/)

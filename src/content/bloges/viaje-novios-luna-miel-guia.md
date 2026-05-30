@@ -86,6 +86,6 @@ Bali (excelentes villas por €100-200/noche), Portugal (Alentejo, Valle del Due
 
 ## Más artículos
 
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Escandinavia: La Ruta Completa](/es/blog/escandinavia-ruta-completa)
-- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Escandinavia: La Ruta Completa](/es/blog/escandinavia-ruta-completa/)
+- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial/)

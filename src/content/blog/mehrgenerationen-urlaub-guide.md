@@ -31,9 +31,9 @@ Die Unterkunftswahl entscheidet über alles andere.
 
 Plattformen wie [Booking.com/families](https://www.booking.com) bieten Ferienvillen und Apartments, die explizit auf große Gruppen ausgerichtet sind. Separater Eingang für Oma, Pool für die Kinder, Grill für Papa.
 
-**All-Inclusive-Resort.** Für viele Familien die stressfreiste Option. Alle Mahlzeiten sind abgedeckt, niemand muss über Kosten nachdenken (das Tagesgeld ist vorab geregelt), und die Animation beschäftigt die Kinder, während die Großeltern am Pool entspannen. Der Nachteil: wenig lokales Erlebnis. Der Vorteil: keine Überraschungsrechnungen. Mehr zu Vor- und Nachteilen im [All-Inclusive Urlaub Guide](/blog/all-inclusive-urlaub-lohnt-sich).
+**All-Inclusive-Resort.** Für viele Familien die stressfreiste Option. Alle Mahlzeiten sind abgedeckt, niemand muss über Kosten nachdenken (das Tagesgeld ist vorab geregelt), und die Animation beschäftigt die Kinder, während die Großeltern am Pool entspannen. Der Nachteil: wenig lokales Erlebnis. Der Vorteil: keine Überraschungsrechnungen. Mehr zu Vor- und Nachteilen im [All-Inclusive Urlaub Guide](/blog/all-inclusive-urlaub-lohnt-sich/).
 
-**Kreuzfahrt.** Unterschätzt für Mehrgenerationen-Reisen. Das Schiff ist die Basisunterkunft, das Gepäck bleibt immer am selben Ort. Separate Kabinen, gemeinsames Bordleben. Kinder-Clubs halten die Kleinen beschäftigt, während Oma und Opa beim Abendprogramm entspannen. Der Kreuzfahrt-Einsteiger-Guide zeigt, [worauf man bei der ersten Buchung achten sollte](/blog/kreuzfahrt-einsteiger-guide).
+**Kreuzfahrt.** Unterschätzt für Mehrgenerationen-Reisen. Das Schiff ist die Basisunterkunft, das Gepäck bleibt immer am selben Ort. Separate Kabinen, gemeinsames Bordleben. Kinder-Clubs halten die Kleinen beschäftigt, während Oma und Opa beim Abendprogramm entspannen. Der Kreuzfahrt-Einsteiger-Guide zeigt, [worauf man bei der ersten Buchung achten sollte](/blog/kreuzfahrt-einsteiger-guide/).
 
 ## Wie plant ihr ein Programm, das alle Generationen glücklich macht?
 
@@ -45,7 +45,7 @@ Ein gemeinsames Highlight pro Tag reicht. Zwei sind schon viel. Drei überforder
 
 Konkrete Planung für verschiedene Mobilitätsniveaus: Immer zuerst prüfen, was barrierefrei zugänglich ist. Die spanische Tourismusbehörde [Spain.info](https://www.spain.info/en/accessibility/) bietet beispielsweise eine eigene Barrierefreiheits-Sektion für Reisende mit eingeschränkter Mobilität. Für Senioren gilt: kurze Gehwege statt langer Märsche, Schatten in der Mittagshitze, und festes Schuhwerk ist keine Frage des Stils.
 
-Das Thema barrierefreie Planung generell, auch für andere Destinationen, findet ihr im [Barrierefreies Reisen Guide](/blog/barrierefreies-reisen-guide).
+Das Thema barrierefreie Planung generell, auch für andere Destinationen, findet ihr im [Barrierefreies Reisen Guide](/blog/barrierefreies-reisen-guide/).
 
 ## Welche Ziele eignen sich besonders für Mehrgenerationen-Reisen?
 
@@ -55,7 +55,7 @@ Das Thema barrierefreie Planung generell, auch für andere Destinationen, findet
 
 **Florida.** Für Familien aus Nordamerika oder transatlantische Reisen. Orlando bietet Themenparks, die buchstäblich für alle Altersgruppen gebaut wurden. Die Keys sind ruhiger, flach und fahrstuhlfreundlich. Miami für einen Abstecher. Allerdings: die Hitze im Sommer ist für Senioren anspruchsvoll. Reisezeit November bis April.
 
-Wenn Teenager mitkommen, lest vorher die Tipps im [Reisen mit Teenagern Guide](/blog/reisen-mit-teenagern-tipps). Andere Bedürfnisse als Kleinkinder, andere Lösungen.
+Wenn Teenager mitkommen, lest vorher die Tipps im [Reisen mit Teenagern Guide](/blog/reisen-mit-teenagern-tipps/). Andere Bedürfnisse als Kleinkinder, andere Lösungen.
 
 ## Wie regelt ihr das Budget in einer Mehrgenerationen-Gruppe ehrlich?
 
@@ -92,6 +92,6 @@ Frühzeitig und direkt. Bewährt hat sich ein gemeinsamer Unterkunftsfonds (glei
 ---
 
 **Mehr lesen:**
-- [Reisen mit Teenagern: Tipps für entspannte Familienreisen](/blog/reisen-mit-teenagern-tipps)
-- [Barrierefreies Reisen: Der vollständige Guide](/blog/barrierefreies-reisen-guide)
-- [Kreuzfahrt für Einsteiger: Was du wirklich wissen musst](/blog/kreuzfahrt-einsteiger-guide)
+- [Reisen mit Teenagern: Tipps für entspannte Familienreisen](/blog/reisen-mit-teenagern-tipps/)
+- [Barrierefreies Reisen: Der vollständige Guide](/blog/barrierefreies-reisen-guide/)
+- [Kreuzfahrt für Einsteiger: Was du wirklich wissen musst](/blog/kreuzfahrt-einsteiger-guide/)

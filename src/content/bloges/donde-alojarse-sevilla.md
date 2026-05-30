@@ -56,7 +56,7 @@ Hoteles en Triana: de 80 a 160 euros. Excelente relación calidad-precio.
 **Recomendación:**
 - **Hotel Zenit Sevilla** (moderno, buena ubicación en Triana, aprox. 100 €)
 
-Para otras ciudades andaluzas o mediterráneas, consulta también [dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid) y [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa).
+Para otras ciudades andaluzas o mediterráneas, consulta también [dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid/) y [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa/).
 
 ## El Arenal: Entre la plaza de toros y el río
 
@@ -97,6 +97,6 @@ Sevilla es perfectamente caminable en el centro histórico. El tranvía conecta 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid)
-- [Dónde alojarse en Lisboa: Alfama, Chiado o Príncipe Real](/es/blog/donde-alojarse-lisboa)
-- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona)
+- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid/)
+- [Dónde alojarse en Lisboa: Alfama, Chiado o Príncipe Real](/es/blog/donde-alojarse-lisboa/)
+- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona/)

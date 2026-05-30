@@ -59,7 +59,7 @@ Ponsonby. Keine Diskussion. Das Viertel rund zwei Kilometer westlich vom CBD ist
 
 **Top-Picks:** Great Ponsonby Arthotel (Boutique, Charakter, hervorragendes Frühstück), Ponsonby Backpackers (Budget, gute Atmosphäre), diverse Apartments via Booking.com.
 
-Wenn du dir unsicher bist zwischen CBD und Ponsonby, lies unseren [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich) für längere Aufenthalte.
+Wenn du dir unsicher bist zwischen CBD und Ponsonby, lies unseren [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich/) für längere Aufenthalte.
 
 ## Takapuna: Nordküste mit Strandlage
 
@@ -107,6 +107,6 @@ Ponsonby hat bessere Restaurants, mehr lokales Leben und weniger Touristen-Betri
 
 ## Mehr lesen
 
-- [Wo übernachten in Sydney](/blog/wo-uebernachten-sydney)
-- [Neuseeland Reiseguide: Die komplette Rundreise](/blog/neuseeland-reiseguide)
-- [Wo übernachten in Bali](/blog/wo-uebernachten-bali)
+- [Wo übernachten in Sydney](/blog/wo-uebernachten-sydney/)
+- [Neuseeland Reiseguide: Die komplette Rundreise](/blog/neuseeland-reiseguide/)
+- [Wo übernachten in Bali](/blog/wo-uebernachten-bali/)

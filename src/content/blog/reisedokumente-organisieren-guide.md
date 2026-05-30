@@ -22,7 +22,7 @@ Buchungsbestätigungen gehören ebenfalls in den Stapel. Flug, Hotel, Mietwagen.
 
 Für Reisen innerhalb der EU gilt: Der EHIC (Europäische Krankenversicherungsausweis) sichert dir grundlegende medizinische Versorgung in allen EU-Ländern. Die meisten deutschen Krankenkassen stellen ihn kostenlos aus, oft auf der Rückseite der Krankenversicherungskarte.
 
-Planst du eine Fernreise, lohnt sich auch der Blick in unser [Reiseimpfungen-Guide](/blog/reiseimpfungen-guide), bevor du die Dokumente zusammenstellst.
+Planst du eine Fernreise, lohnt sich auch der Blick in unser [Reiseimpfungen-Guide](/blog/reiseimpfungen-guide/), bevor du die Dokumente zusammenstellst.
 
 ## Wie sicherst du deine Dokumente digital ab?
 
@@ -39,7 +39,7 @@ Zusätzlich zur Cloud: Speichere alles offline auf deinem Handy. PDFs und Fotos 
 
 Für die Organisation aller Buchungen empfiehlt sich die App TripIt. Du leitest Buchungsbestätigungen per E-Mail weiter, TripIt erstellt daraus automatisch ein Reiseprogramm. Keine manuelle Eingabe, alles an einem Ort.
 
-Und noch ein einfacher Trick: Schicke eine Passkopie per E-Mail an dich selbst und an eine Person zu Hause. So hat jemand deine Daten, auch wenn Handy und Laptop weg sind. Mehr Absicherungstipps findest du auch im [Notfall im Ausland Guide](/blog/notfall-ausland-was-tun).
+Und noch ein einfacher Trick: Schicke eine Passkopie per E-Mail an dich selbst und an eine Person zu Hause. So hat jemand deine Daten, auch wenn Handy und Laptop weg sind. Mehr Absicherungstipps findest du auch im [Notfall im Ausland Guide](/blog/notfall-ausland-was-tun/).
 
 ## Wann brauchst du einen internationalen Führerschein?
 
@@ -47,7 +47,7 @@ Ein normaler EU-Führerschein wird in fast allen europäischen Ländern anerkann
 
 Den internationalen Führerschein beantragst du beim ADAC oder bei der zuständigen Kfz-Zulassungsstelle. Er kostet rund 15 Euro, ist drei Jahre gültig und wird nur zusammen mit dem nationalen Führerschein anerkannt. Beide Dokumente müssen bei Kontrollen vorgelegt werden.
 
-Wer in einem Land fahren möchte, das kein lateinisches Alphabet verwendet (z.B. Japan, China, Thailand), sollte den internationalen Führerschein grundsätzlich mitnehmen. Unsere [Checkliste für die Mietwagen-Buchung](/blog/mietwagen-check) hat noch mehr Details dazu.
+Wer in einem Land fahren möchte, das kein lateinisches Alphabet verwendet (z.B. Japan, China, Thailand), sollte den internationalen Führerschein grundsätzlich mitnehmen. Unsere [Checkliste für die Mietwagen-Buchung](/blog/mietwagen-check/) hat noch mehr Details dazu.
 
 ## Was tust du, wenn der Pass gestohlen wird?
 
@@ -92,6 +92,6 @@ Beim ADAC oder bei der Kfz-Zulassungsstelle in deiner Stadt. Du brauchst deinen 
 ---
 
 **Mehr lesen:**
-- [Reiseimpfungen: Was du wirklich brauchst](/blog/reiseimpfungen-guide)
-- [Notfall im Ausland: Was tun?](/blog/notfall-ausland-was-tun)
-- [Visum beantragen: Der Schritt-für-Schritt-Guide](/blog/visum-beantragen-guide)
+- [Reiseimpfungen: Was du wirklich brauchst](/blog/reiseimpfungen-guide/)
+- [Notfall im Ausland: Was tun?](/blog/notfall-ausland-was-tun/)
+- [Visum beantragen: Der Schritt-für-Schritt-Guide](/blog/visum-beantragen-guide/)

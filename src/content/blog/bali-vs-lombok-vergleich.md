@@ -86,7 +86,7 @@ Die Verbindung Bali-Lombok: Fähre 4-5 Stunden (günstig, ab Padang Bai auf Bali
 
 Mehr Infos zu Reiserouten und Unterkünften gibt es auf [Lonely Planet Indonesia](https://www.lonelyplanet.com/indonesia).
 
-Unser [Bali-Unterkunft-Guide](/blog/wo-uebernachten-bali) zeigt die besten Viertel auf Bali im Detail. Wer Südostasien breiter planen will, schaut sich unseren [Bangkok-Guide](/blog/wo-uebernachten-bangkok) an. Für alle die nur mit Handgepäck reisen, sind unsere [Handgepäck-Tipps](/blog/nur-handgepaeck) der richtige Einstieg.
+Unser [Bali-Unterkunft-Guide](/blog/wo-uebernachten-bali/) zeigt die besten Viertel auf Bali im Detail. Wer Südostasien breiter planen will, schaut sich unseren [Bangkok-Guide](/blog/wo-uebernachten-bangkok/) an. Für alle die nur mit Handgepäck reisen, sind unsere [Handgepäck-Tipps](/blog/nur-handgepaeck/) der richtige Einstieg.
 
 ---
 
@@ -113,6 +113,6 @@ Bali hat mehr Infrastruktur, mehr Tourismus, mehr Tempel und eine hinduistische 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten auf Bali: Die besten Viertel](/blog/wo-uebernachten-bali)
-- [Wo übernachten in Bangkok: Die 5 Viertel](/blog/wo-uebernachten-bangkok)
-- [Nur mit Handgepäck: So reist du effizienter](/blog/nur-handgepaeck)
+- [Wo übernachten auf Bali: Die besten Viertel](/blog/wo-uebernachten-bali/)
+- [Wo übernachten in Bangkok: Die 5 Viertel](/blog/wo-uebernachten-bangkok/)
+- [Nur mit Handgepäck: So reist du effizienter](/blog/nur-handgepaeck/)

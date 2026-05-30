@@ -22,7 +22,7 @@ Here are realistic daily budgets by travel style. These figures cover accommodat
 
 **Southeast Asia budget travel:** $40 to $60 per day. Guesthouse or dorm bed, street food, local buses. Thailand, Vietnam, Cambodia. Bali runs a bit higher, around $50 to $80.
 
-**Latin America:** $50 to $80 per day. Colombia, Peru, Ecuador, Mexico. Argentina is harder to budget due to exchange rate volatility. Check our [Southeast Asia budget guide](/en/blog/southeast-asia-budget-travel) for destination-specific breakdowns.
+**Latin America:** $50 to $80 per day. Colombia, Peru, Ecuador, Mexico. Argentina is harder to budget due to exchange rate volatility. Check our [Southeast Asia budget guide](/en/blog/southeast-asia-budget-travel/) for destination-specific breakdowns.
 
 **Luxury travel:** €300 and up. Four-star hotels, restaurants without checking the price, private transfers. No ceiling.
 
@@ -47,7 +47,7 @@ The second lever is milestone targets. Instead of "€2,000 by August," try: "�
 
 What else works: redirect lump-sum income directly to the travel account. Tax refunds, bonuses, birthday money. These amounts aren't missed in daily life because they arrive irregularly.
 
-For flights, combine a price alert on Google Flights with early booking. Our guide on [cheap flights tips](/en/blog/cheap-flights-tips) covers the specific booking windows that consistently yield lower prices. The earlier you lock in the flight, the less you need to save for it.
+For flights, combine a price alert on Google Flights with early booking. Our guide on [cheap flights tips](/en/blog/cheap-flights-tips/) covers the specific booking windows that consistently yield lower prices. The earlier you lock in the flight, the less you need to save for it.
 
 ## Which digital tools actually help with budget management?
 
@@ -65,7 +65,7 @@ A dedicated travel credit card makes sense if you take two or three internationa
 
 The most common budget errors aren't with flights or hotels. They're with line items most people don't think about at all.
 
-**Travel insurance.** Without it, you pay out of pocket in an emergency. A travel health policy for a three-week Southeast Asia trip costs roughly $30 to $80 depending on provider and coverage. Check our breakdown of [whether travel insurance is worth it in 2026](/en/blog/travel-insurance-worth-it-2026) before you skip this line.
+**Travel insurance.** Without it, you pay out of pocket in an emergency. A travel health policy for a three-week Southeast Asia trip costs roughly $30 to $80 depending on provider and coverage. Check our breakdown of [whether travel insurance is worth it in 2026](/en/blog/travel-insurance-worth-it-2026/) before you skip this line.
 
 **Visas.** Australia: AUD 20 for the ETA. USA: $21 for ESTA. India: $25 to $80 depending on type. A multi-country itinerary can add up to $100 to $200 in visa fees alone. Add this to your first budget draft, not as an afterthought.
 
@@ -81,7 +81,7 @@ The main advantage of a travel credit card: points or miles on every transaction
 
 What to check when comparing cards: calculate the annual fee against the actual benefits. A card with a €99 annual fee that includes lounge access, travel insurance, and no foreign transaction fees can be cheaper than paying for four separate services.
 
-The [cheapest cities in Europe 2026](/en/blog/cheapest-cities-europe-2026) guide helps you pick a destination that fits your budget from the start. Good planning begins with the destination, not the spreadsheet.
+The [cheapest cities in Europe 2026](/en/blog/cheapest-cities-europe-2026/) guide helps you pick a destination that fits your budget from the start. Good planning begins with the destination, not the spreadsheet.
 
 ---
 
@@ -105,4 +105,4 @@ For two weeks in Southeast Asia without luxury: €1,500 to €2,200. That inclu
 
 TravelSpend is the most purpose-built option for travel. It shows daily spending against your remaining travel days in real time. For group trips, Splitwise handles shared expenses automatically. Both are free in their basic versions and available for iOS and Android.
 
-**Read more:** [Cheap Flights Tips: 7 Tricks That Work](/en/blog/cheap-flights-tips) · [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026) · [Southeast Asia Budget Travel Guide](/en/blog/southeast-asia-budget-travel)
+**Read more:** [Cheap Flights Tips: 7 Tricks That Work](/en/blog/cheap-flights-tips/) · [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/) · [Southeast Asia Budget Travel Guide](/en/blog/southeast-asia-budget-travel/)

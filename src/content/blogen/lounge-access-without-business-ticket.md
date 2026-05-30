@@ -81,7 +81,7 @@ This method is for power travelers. If you already have status with one alliance
 
 **Mile run:** quick status acquisition through cheap, long flights. Unprofitable in 2026 with modern budget fares giving few status points.
 
-See our [business class without miles guide](/en/blog/business-class-without-miles) for the premium seat variant.
+See our [business class without miles guide](/en/blog/business-class-without-miles/) for the premium seat variant.
 
 ## What's the cheapest option per lounge visit?
 
@@ -140,6 +140,6 @@ Priority Pass is a lounge membership with access to 1,500+ lounges worldwide. St
 ---
 
 **Read more:**
-- [Business class without miles: how does it work?](/en/blog/business-class-without-miles)
-- [Airport hacks: 7 tricks that actually help](/en/blog/airport-hacks)
-- [When to book flights?](/en/blog/when-to-book-flights)
+- [Business class without miles: how does it work?](/en/blog/business-class-without-miles/)
+- [Airport hacks: 7 tricks that actually help](/en/blog/airport-hacks/)
+- [When to book flights?](/en/blog/when-to-book-flights/)

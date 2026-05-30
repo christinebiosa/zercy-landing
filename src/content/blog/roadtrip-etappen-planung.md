@@ -32,7 +32,7 @@ Dein Reisestil. Slow Travel mit Cafés und Spaziergängen verträgt nur 2-3 Stun
 
 Wer mitfährt. Mit Kindern oder älteren Eltern: maximal 3 Stunden am Stück, dann lange Pause. Mit zwei abwechselnden Fahrern: 8 Stunden möglich, aber unangenehm.
 
-Schau dir auch unsere [Mietwagen-Checkliste](/blog/mietwagen-check) an, falls du noch keinen Wagen gebucht hast.
+Schau dir auch unsere [Mietwagen-Checkliste](/blog/mietwagen-check/) an, falls du noch keinen Wagen gebucht hast.
 
 ## Wie planst du die perfekte Etappe?
 
@@ -48,7 +48,7 @@ Eine bewährte Methode aus 5 Schritten.
 
 **Schritt 5:** Markiere die längsten Tage. Schedule sie auf Wochentage, nicht aufs Wochenende. Stress plus Verkehr ist die schlechteste Kombination.
 
-Wenn du die Costa-Rica-Route planst, lies unseren Guide [Costa Rica Rundreise in 2 Wochen](/blog/costa-rica-rundreise-route). Dort haben wir die Etappen schon vorgemodelt.
+Wenn du die Costa-Rica-Route planst, lies unseren Guide [Costa Rica Rundreise in 2 Wochen](/blog/costa-rica-rundreise-route/). Dort haben wir die Etappen schon vorgemodelt.
 
 ## Was passiert wenn du zu lange fährst?
 
@@ -60,7 +60,7 @@ Reise-Resentment. Klingt psychologisch, aber: Wer auf einem Roadtrip zu viel fä
 
 Verpasste Spontaneität. Die besten Roadtrip-Erinnerungen entstehen ungeplant. Ein Aussichtspunkt, ein Café, ein Fischer der dich auf einen Kaffee einlädt. Wer auf der Straße fest in den Plan gepresst ist, sieht nichts davon.
 
-Wer einen mehrwöchigen Roadtrip plant, sollte sich auch [Mietwagen-Consolidator](/blog/mietwagen-consolidator-guenstiger-fahren) anschauen, um die Kosten zu drücken.
+Wer einen mehrwöchigen Roadtrip plant, sollte sich auch [Mietwagen-Consolidator](/blog/mietwagen-consolidator-guenstiger-fahren/) anschauen, um die Kosten zu drücken.
 
 ---
 
@@ -87,6 +87,6 @@ Pro Woche einen freien Tag einplanen. Den brauchst du entweder zum Erholen, für
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Las Vegas: Die 4 Bereiche](/blog/wo-uebernachten-las-vegas)
-- [Wo übernachten in Los Angeles: Die 5 Stadtteile](/blog/wo-uebernachten-los-angeles)
-- [Costa Rica Rundreise: Die perfekte 2-Wochen-Route](/blog/costa-rica-rundreise-route)
+- [Wo übernachten in Las Vegas: Die 4 Bereiche](/blog/wo-uebernachten-las-vegas/)
+- [Wo übernachten in Los Angeles: Die 5 Stadtteile](/blog/wo-uebernachten-los-angeles/)
+- [Costa Rica Rundreise: Die perfekte 2-Wochen-Route](/blog/costa-rica-rundreise-route/)

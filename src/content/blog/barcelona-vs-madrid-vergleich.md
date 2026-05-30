@@ -21,7 +21,7 @@ Dazu kommt La Barceloneta, der Stadtstrand. Direkt nach dem Besuch eines Gaudí-
 
 Die katalanische Küche ist eigenständig und exzellent. Pa amb tomàquet (Brot mit Tomate und Olivenöl) ist kein Tourist-Snack, sondern Alltagsessen. Dazu kommen Cava, frischer Fisch und Patatas bravas in Bars, die seit Jahrzehnten existieren.
 
-Allerdings: Barcelona ist seit 2020 deutlich teurer geworden. 2024 gab es Anti-Tourismus-Proteste, weil günstige Unterkünfte für Einheimische rarer werden. Wer flexibel reist, sollte früh buchen oder die Vororte in Betracht ziehen. Mehr dazu in unserem [Übernachtungs-Guide für Barcelona](/blog/wo-uebernachten-barcelona).
+Allerdings: Barcelona ist seit 2020 deutlich teurer geworden. 2024 gab es Anti-Tourismus-Proteste, weil günstige Unterkünfte für Einheimische rarer werden. Wer flexibel reist, sollte früh buchen oder die Vororte in Betracht ziehen. Mehr dazu in unserem [Übernachtungs-Guide für Barcelona](/blog/wo-uebernachten-barcelona/).
 
 ## Was macht Madrid zum besseren Reiseziel für manche?
 
@@ -31,7 +31,7 @@ Das Museumsdreieck in der Innenstadt ist weltklasse: das Prado-Museum mit Veláz
 
 Dazu kommt die Tapas-Kultur. Madrid lebt eine eigene Esskultur: Patatas bravas, Bocadillo de calamares, Gambas al ajillo. Die Restaurants sind im Schnitt 10 bis 20 Prozent günstiger als in Barcelona. Wer drei Abendessen in Barcelona für 40 Euro plant, bucht in Madrid für 30 Euro besser.
 
-Madrid ist außerdem zentraler. Von hier aus erreichst du Toledo in 30 Minuten mit dem Regionalzug, Segovia in 45 Minuten mit dem Hochgeschwindigkeitszug. Das ist Spanien kompakt, ohne den Aufwand einer weiteren Unterkunft. Unser [Madrid-24-Stunden-Guide](/blog/madrid-24-stunden) zeigt dir, wie viel in einem einzigen Tag drin ist.
+Madrid ist außerdem zentraler. Von hier aus erreichst du Toledo in 30 Minuten mit dem Regionalzug, Segovia in 45 Minuten mit dem Hochgeschwindigkeitszug. Das ist Spanien kompakt, ohne den Aufwand einer weiteren Unterkunft. Unser [Madrid-24-Stunden-Guide](/blog/madrid-24-stunden/) zeigt dir, wie viel in einem einzigen Tag drin ist.
 
 Für Fußballfans ist die Wahl ohnehin einfach: Real Madrid und Atlético spielen beide hier. Ein Matchday-Besuch im Bernabéu oder im Metropolitano ist unvergesslich, auch wenn man kein Fan ist.
 
@@ -51,7 +51,7 @@ Barcelona zuerst empfiehlt sich, wenn du mit dem Flieger ankommst: Die meisten T
 
 Wenn du nur eine Stadt hast: Barcelona für das besondere Erlebnis, den Strand, die Architektur, den kosmopolitischen Flair. Madrid für Museen, Tapas, Fußball und günstigeres Reisen. Beide haben genug Stoff für mindestens 3 bis 4 volle Tage.
 
-Ausführliche Tipps zu deiner Unterkunftswahl findest du in unserem [48-Stunden-Guide für Barcelona](/blog/48-stunden-barcelona) und in der [Übernachten-Guide für Madrid](/blog/wo-uebernachten-madrid).
+Ausführliche Tipps zu deiner Unterkunftswahl findest du in unserem [48-Stunden-Guide für Barcelona](/blog/48-stunden-barcelona/) und in der [Übernachten-Guide für Madrid](/blog/wo-uebernachten-madrid/).
 
 ---
 
@@ -74,6 +74,6 @@ Rund 620 Kilometer. Der AVE-Hochgeschwindigkeitszug verbindet beide Städte in 2
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Barcelona: die besten Stadtteile](/blog/wo-uebernachten-barcelona)
-- [Madrid in 24 Stunden: der perfekte Kurztrip](/blog/madrid-24-stunden)
-- [48 Stunden Barcelona: das perfekte Wochenend-Programm](/blog/48-stunden-barcelona)
+- [Wo übernachten in Barcelona: die besten Stadtteile](/blog/wo-uebernachten-barcelona/)
+- [Madrid in 24 Stunden: der perfekte Kurztrip](/blog/madrid-24-stunden/)
+- [48 Stunden Barcelona: das perfekte Wochenend-Programm](/blog/48-stunden-barcelona/)

@@ -87,6 +87,6 @@ PR1 Caldeirão Verde (levada por la selva), PR6 Encumeada (travesía de montaña
 
 ## Más artículos
 
-- [Portugal: La Ruta Completa](/es/blog/portugal-ruta-completa)
-- [Islas Canarias: Comparativa de las Islas](/es/blog/islas-canarias-comparativa)
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Portugal: La Ruta Completa](/es/blog/portugal-ruta-completa/)
+- [Islas Canarias: Comparativa de las Islas](/es/blog/islas-canarias-comparativa/)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)

@@ -100,7 +100,7 @@ For Amsterdam [Booking.com](https://www.booking.com) is clearly the best platfor
 
 Direct booking only worth it for top premium (Pulitzer, Conservatorium) for possible upgrades.
 
-See our [train travel in Europe guide](/en/blog/train-travel-europe) — Amsterdam is a top hub for Eurostar to London and Thalys to Paris/Brussels.
+See our [train travel in Europe guide](/en/blog/train-travel-europe/) — Amsterdam is a top hub for Eurostar to London and Thalys to Paris/Brussels.
 
 ---
 
@@ -127,6 +127,6 @@ Backpacker: $800-1,100 per person incl. flight (hostel, snack bars, bike rental)
 ---
 
 **Read more:**
-- [Where to stay in Berlin: 5 neighborhoods](/en/blog/where-to-stay-berlin)
-- [Where to stay in London: 5 neighborhoods](/en/blog/where-to-stay-london)
-- [Train travel in Europe: routes, tips and apps](/en/blog/train-travel-europe)
+- [Where to stay in Berlin: 5 neighborhoods](/en/blog/where-to-stay-berlin/)
+- [Where to stay in London: 5 neighborhoods](/en/blog/where-to-stay-london/)
+- [Train travel in Europe: routes, tips and apps](/en/blog/train-travel-europe/)

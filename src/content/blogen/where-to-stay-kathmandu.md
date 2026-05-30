@@ -69,7 +69,7 @@ Boudhanath Stupa is one of the world's largest Buddhist stupas and has been a pi
 
 **Top picks:** Hotel Tibet International (stupa views, Tibetan atmosphere), Stupa View Boutique Hotel (small rooftop with stupa views), Padma Guest House (simple, affordable, very close to the stupa).
 
-See our [solo travel for women guide](/en/blog/solo-travel-women-safe-countries) for specific safety tips for Nepal, which ranks as one of Asia's safest solo travel destinations.
+See our [solo travel for women guide](/en/blog/solo-travel-women-safe-countries/) for specific safety tips for Nepal, which ranks as one of Asia's safest solo travel destinations.
 
 ## Bhaktapur: The medieval city
 
@@ -127,6 +127,6 @@ Recommended vaccinations for Nepal: Hepatitis A, Typhoid, Tetanus-Diphtheria. Ma
 ---
 
 **Read more:**
-- [Solo travel for women: the safest countries](/en/blog/solo-travel-women-safe-countries)
-- [East Africa safari guide: planning and costs](/en/blog/east-africa-safari-guide)
-- [Best long-distance hiking trails in the world](/en/blog/best-long-distance-hiking-trails-world)
+- [Solo travel for women: the safest countries](/en/blog/solo-travel-women-safe-countries/)
+- [East Africa safari guide: planning and costs](/en/blog/east-africa-safari-guide/)
+- [Best long-distance hiking trails in the world](/en/blog/best-long-distance-hiking-trails-world/)

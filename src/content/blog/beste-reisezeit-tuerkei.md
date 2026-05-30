@@ -64,6 +64,6 @@ Wer Istanbul, die Ägäisküste und Kappadokien in einer Reise verbinden will, s
 ---
 
 **Mehr lesen:**
-- [Türkei Road Trip: Die besten Routen](/blog/tuerkei-roadtrip-highlights)
-- [48 Stunden Istanbul: Was wirklich lohnt](/blog/48-stunden-istanbul)
-- [Wo übernachten in Kappadokien](/blog/wo-uebernachten-kappadokien)
+- [Türkei Road Trip: Die besten Routen](/blog/tuerkei-roadtrip-highlights/)
+- [48 Stunden Istanbul: Was wirklich lohnt](/blog/48-stunden-istanbul/)
+- [Wo übernachten in Kappadokien](/blog/wo-uebernachten-kappadokien/)

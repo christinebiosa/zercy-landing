@@ -47,7 +47,7 @@ Chiaia liegt westlich des Zentrums, direkt am Lungomare Caracciolo, der Uferprom
 
 **Top-Picks:** Hotel Palazzo Alabardieri (elegantes Boutique-Hotel in einer ruhigen Seitenstraße), Romeo Hotel (Design-Luxus mit Hafen-Blick), Eurostars Hotel Excelsior (direkter Meerblick, großes Haus, guter Frühstücksbereich).
 
-Unser [Mailand-Stadtführer](/blog/wo-uebernachten-mailand) zeigt die gleiche Philosophie: elegante Wohnviertel schlagen Touristenzentrum fast immer.
+Unser [Mailand-Stadtführer](/blog/wo-uebernachten-mailand/) zeigt die gleiche Philosophie: elegante Wohnviertel schlagen Touristenzentrum fast immer.
 
 ## Wann ist die beste Reisezeit für Neapel?
 
@@ -63,7 +63,7 @@ Vomero liegt auf dem Hügel über der Stadt, erreichbar per Standseilbahn (Funic
 
 **Top-Picks:** Hotel Paradiso (toller Panoramablick, klassische Atmosphäre), Grand Hotel Parker's (historisches Haus mit einer der besten Aussichten Neapels), Hotel San Francesco al Monte (ehemaliges Kloster, Terrasse mit unverbautem Stadtblick).
 
-Zum Vergleich: unser [Apulien-Guide](/blog/apulien-sueditalien-guide) empfiehlt ähnliche Rückzugsorte abseits der Zentren.
+Zum Vergleich: unser [Apulien-Guide](/blog/apulien-sueditalien-guide/) empfiehlt ähnliche Rückzugsorte abseits der Zentren.
 
 ## Quartieri Spagnoli: Authentisch und günstig
 
@@ -96,7 +96,7 @@ Für Neapel ist [Booking.com](https://www.booking.com) gut aufgestellt:
 
 Boutique-Hotels wie Hotel Piazza Bellini oder Hotel Palazzo Alabardieri direkt zu kontaktieren kann sich lohnen, wenn du auf Upgrades oder besondere Extras Wert legst. Für den ersten Neapel-Besuch: Booking.com gibt dir den besten Vergleich in kürzester Zeit.
 
-Wer nach dem Neapel-Besuch auch Rom plant: der [48-Stunden-Rom-Guide](/blog/48-stunden-rom) zeigt, wie du das Maximum aus einem Kurztrip herausholst.
+Wer nach dem Neapel-Besuch auch Rom plant: der [48-Stunden-Rom-Guide](/blog/48-stunden-rom/) zeigt, wie du das Maximum aus einem Kurztrip herausholst.
 
 ---
 
@@ -123,6 +123,6 @@ November bis März (außer Weihnachten) bietet die niedrigsten Preise. Rund um O
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Rom: Die besten Viertel](/blog/wo-uebernachten-rom)
-- [48 Stunden Rom: Was du wirklich brauchst](/blog/48-stunden-rom)
-- [Apulien: Der Süditalien-Guide für Entdecker](/blog/apulien-sueditalien-guide)
+- [Wo übernachten in Rom: Die besten Viertel](/blog/wo-uebernachten-rom/)
+- [48 Stunden Rom: Was du wirklich brauchst](/blog/48-stunden-rom/)
+- [Apulien: Der Süditalien-Guide für Entdecker](/blog/apulien-sueditalien-guide/)

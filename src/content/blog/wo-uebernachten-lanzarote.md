@@ -59,7 +59,7 @@ Die Hochsaison liegt im Winter (November bis März), wenn Nordeuropäer Sonne su
 
 Costa Teguise liegt an der Ostküste, nördlich von Arrecife. Der Wind hier ist stärker und beständiger als anderswo auf der Insel. Das ist kein Nachteil, sondern Absicht: Costa Teguise hat sich als Windsport-Destination positioniert. Windsurf-Schulen, Kite-Verleih, Tauch-Zentren. Das Wasser vor Playa de las Cucharas ist flach und ideal für Anfänger im Windsurfen.
 
-Gleichzeitig ist Costa Teguise kein reines Sport-Resort. Der Ort hat Charakter, einen schönen Ortskern mit César-Manrique-Einflüssen, gute Restaurants. Der Aquapark ist direkt nebenan. Radfahrer schätzen die flache Umgebung für lange Touren. Für einen [Tagesausflug nach Arrecife](/blog/wo-uebernachten-arrecife) oder zu den Timanfaya-Vulkanen liegt Costa Teguise verkehrsgünstig.
+Gleichzeitig ist Costa Teguise kein reines Sport-Resort. Der Ort hat Charakter, einen schönen Ortskern mit César-Manrique-Einflüssen, gute Restaurants. Der Aquapark ist direkt nebenan. Radfahrer schätzen die flache Umgebung für lange Touren. Für einen [Tagesausflug nach Arrecife](/blog/wo-uebernachten-arrecife/) oder zu den Timanfaya-Vulkanen liegt Costa Teguise verkehrsgünstig.
 
 **Für wen es passt:** Windsurfer, Kitesurfer, Taucher, Familien mit sport-aktiven Kindern, Radfahrer.
 
@@ -102,7 +102,7 @@ Hotels gibt es wenige hier. Dafür sind die, die es gibt, auf hohem Niveau. Kein
 
 Direkt beim Hotel buchen lohnt sich nur bei wenigen Boutique-Häusern in Puerto Calero, wenn du Packages mit Yacht-Charter kombinieren willst. In allen anderen Fällen ist Booking.com die günstigere Option.
 
-Mehr zum Vergleich mit anderen Kanarenzielen findest du in unserem [Teneriffa-Guide](/blog/wo-uebernachten-teneriffa) und [Gran Canaria-Überblick](/blog/wo-uebernachten-cancun).
+Mehr zum Vergleich mit anderen Kanarenzielen findest du in unserem [Teneriffa-Guide](/blog/wo-uebernachten-teneriffa/) und [Gran Canaria-Überblick](/blog/wo-uebernachten-cancun/).
 
 ---
 
@@ -129,6 +129,6 @@ April bis Juni und Mitte September bis Oktober sind die günstigsten Reisemonate
 ---
 
 **Mehr lesen:**
-- [Beste Hotels auf Teneriffa: 5 Regionen](/blog/wo-uebernachten-teneriffa)
-- [Wo übernachten in Marrakesch](/blog/wo-uebernachten-marrakesch)
-- [Günstig Fliegen: Die besten Tipps 2026](/blog/guenstig-fliegen-tipps)
+- [Beste Hotels auf Teneriffa: 5 Regionen](/blog/wo-uebernachten-teneriffa/)
+- [Wo übernachten in Marrakesch](/blog/wo-uebernachten-marrakesch/)
+- [Günstig Fliegen: Die besten Tipps 2026](/blog/guenstig-fliegen-tipps/)

@@ -77,6 +77,6 @@ De forma gradual. Introduce el transportín como lugar de descanso cotidiano (co
 Antes de salir, fotografía el pasaporte de mascotas y los documentos de vacunación (copia digital). Búsqueda de veterinario: en países de la UE normalmente fácil vía Google Maps o PetMD. Botiquín de viaje para gatos: medicamento para la diarrea, spray para heridas, calmantes (solo tras consultar al veterinario). Algunos proveedores ofrecen seguro de viaje para mascotas.
 
 ## Más artículos
-- [Viajar con perro en Europa](/es/blog/viajar-con-perro-europa)
-- [Seguro de viaje: ¿vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Slow travel: por qué menos es más](/es/blog/slow-travel-que-significa)
+- [Viajar con perro en Europa](/es/blog/viajar-con-perro-europa/)
+- [Seguro de viaje: ¿vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Slow travel: por qué menos es más](/es/blog/slow-travel-que-significa/)

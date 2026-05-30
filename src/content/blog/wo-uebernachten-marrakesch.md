@@ -33,7 +33,7 @@ UNESCO-Welterbe, ummauerte Altstadt mit Jemaa el-Fnaa-Platz, Souks, der Koutoubi
 
 **Top-Picks:** La Sultana Marrakech (5-Sterne-Riad mit 5 Innenhöfen), Riad Le Clos des Arts (kleines Boutique-Riad), Royal Mansour Marrakech (legendäres Premium-Riad-Resort der königlichen Familie). Diese und 2.000+ weitere Marrakesch-Unterkünfte findest du auf [Booking.com](https://www.booking.com) mit Stadtteil-Filter und kostenlosem Storno.
 
-Lies dazu auch unseren ausführlichen [Riads-in-Marokko-Guide](/blog/riads-marokko-guide) für die Riad-Auswahl.
+Lies dazu auch unseren ausführlichen [Riads-in-Marokko-Guide](/blog/riads-marokko-guide/) für die Riad-Auswahl.
 
 ## Hivernage: Das Premium-Marrakesch
 
@@ -117,6 +117,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel oder einfaches Riad, loka
 ---
 
 **Mehr lesen:**
-- [Riads in Marokko: Welche lohnen sich wirklich?](/blog/riads-marokko-guide)
-- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon)
-- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
+- [Riads in Marokko: Welche lohnen sich wirklich?](/blog/riads-marokko-guide/)
+- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon/)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena/)

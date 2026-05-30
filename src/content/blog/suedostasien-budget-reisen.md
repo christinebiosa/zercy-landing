@@ -24,7 +24,7 @@ Das Budget variiert je nach Land erheblich. Die günstigste Reihenfolge 2026:
 
 **Bali (Indonesien)** ist kein klassisches Backpacker-Ziel mehr. Ubud und Seminyak haben westliche Preise in westlichen Cafés angezogen. Budget möglich in Canggu-Gegend oder Amed, aber Erwartungen anpassen. Tagesbudget: **40-60 EUR pro Person**.
 
-**Laos** ist ruhig, langsam, und günstig. Luang Prabang ist die teuerste Stadt (UNESCO). Wer die richtige Unterkunft in der richtigen Lage sucht, hilft der [Luang Prabang Hotelguide](/blog/wo-uebernachten-luang-prabang). Vang Vieng günstiger, aber touristisch. Tagesbudget: **25-40 EUR pro Person**.
+**Laos** ist ruhig, langsam, und günstig. Luang Prabang ist die teuerste Stadt (UNESCO). Wer die richtige Unterkunft in der richtigen Lage sucht, hilft der [Luang Prabang Hotelguide](/blog/wo-uebernachten-luang-prabang/). Vang Vieng günstiger, aber touristisch. Tagesbudget: **25-40 EUR pro Person**.
 
 Ein Hinweis: **Myanmar taucht in diesem Guide nicht auf.** Seit dem Militärputsch 2021 und den US/EU-Sanktionen unterstützt Tourismus dort direkt das Militär. Außerdem sind die Reisebedingungen instabil.
 
@@ -39,7 +39,7 @@ Bangkok → Chiang Mai → Laos (Luang Prabang, Vang Vieng) → Hanoi → Halong
 Kambodscha → Vietnam → Laos → Thailand. Vorteil: du startest mit den günstigsten Ländern, wenn dein Budget noch frisch ist.
 
 **Bali als Ergänzung:**
-Bali funktioniert am besten als separater Block am Anfang oder Ende. Günstige Flüge ab Singapur, Kuala Lumpur oder direkt aus Europa. Wer statt Bali eine ruhigere Inseloption sucht, ist Langkawi in Malaysia eine günstige Alternative mit weniger Tourismushype: der [Langkawi Hotelguide](/blog/wo-uebernachten-langkawi) zeigt, wo man am besten schläft.
+Bali funktioniert am besten als separater Block am Anfang oder Ende. Günstige Flüge ab Singapur, Kuala Lumpur oder direkt aus Europa. Wer statt Bali eine ruhigere Inseloption sucht, ist Langkawi in Malaysia eine günstige Alternative mit weniger Tourismushype: der [Langkawi Hotelguide](/blog/wo-uebernachten-langkawi/) zeigt, wo man am besten schläft.
 
 Interne Verbindungen: **Overnight-Busse** sind die günstigste Option. Ein Schlafbus von Hanoi nach Hue kostet 8-15 EUR und spart eine Hotelübernachtung. Züge in Vietnam sind empfehlenswert: komfortabler als Busse, Preise moderat. Fähren zwischen Inseln (Thailand/Kambodscha): 5-15 EUR.
 
@@ -69,7 +69,7 @@ Wer generell günstig reisen will, findet auf [Lonely Planet Southeast Asia](htt
 
 **Booking.com** funktioniert gut in Südostasien für Hostels, Guesthouses und Budget-Hotels. Filter nach "Frühstück inbegriffen" und "Kostenlose Stornierung" spart Nerven.
 
-Wer [Bangkok](/blog/wo-uebernachten-bangkok) oder [Hanoi](/blog/wo-uebernachten-hanoi) besucht, findet in den jeweiligen Stadtteile-Guides die besten Budget-Viertel.
+Wer [Bangkok](/blog/wo-uebernachten-bangkok/) oder [Hanoi](/blog/wo-uebernachten-hanoi/) besucht, findet in den jeweiligen Stadtteile-Guides die besten Budget-Viertel.
 
 ## Was du beim Essen beachten solltest
 
@@ -79,7 +79,7 @@ Faustregel: Sitz dort, wo Locals sitzen. Plastik-Hocker, Styroporschalen, kein e
 
 ## Wie reist du mit nur Handgepäck durch Südostasien?
 
-Es geht. Heißes Wetter bedeutet leichte Kleidung. Wäsche waschen: in jedem Guesthouse für 1-2 EUR pro Kilo. Wer mit nur einer Tasche reist, spart Gepäckgebühren bei AirAsia und anderen Billigfliegern. Mehr dazu im [Handgepäck-Guide](/blog/nur-handgepaeck).
+Es geht. Heißes Wetter bedeutet leichte Kleidung. Wäsche waschen: in jedem Guesthouse für 1-2 EUR pro Kilo. Wer mit nur einer Tasche reist, spart Gepäckgebühren bei AirAsia und anderen Billigfliegern. Mehr dazu im [Handgepäck-Guide](/blog/nur-handgepaeck/).
 
 ---
 
@@ -106,6 +106,6 @@ Thailand, Vietnam, Kambodscha, Laos und Bali gelten als grundsätzlich sichere R
 ---
 
 **Mehr lesen:**
-- [Günstig reisen: Die besten Spartipps](/blog/reisen-kleines-budget-tipps)
-- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok)
-- [Nur mit Handgepäck: Der vollständige Guide](/blog/nur-handgepaeck)
+- [Günstig reisen: Die besten Spartipps](/blog/reisen-kleines-budget-tipps/)
+- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok/)
+- [Nur mit Handgepäck: Der vollständige Guide](/blog/nur-handgepaeck/)

@@ -39,7 +39,7 @@ Empieza con la regla básica: reparte. Nunca todo en un mismo sitio.
 
 **Candado para el portátil** en los hostales. Un simple candado Kensington disuade a los ladrones oportunistas.
 
-Más sobre los riesgos digitales de viaje en la guía de [ciberseguridad para viajeros](/es/blog/ciberseguridad-viajeros). El riesgo físico y el digital suelen ir de la mano.
+Más sobre los riesgos digitales de viaje en la guía de [ciberseguridad para viajeros](/es/blog/ciberseguridad-viajeros/). El riesgo físico y el digital suelen ir de la mano.
 
 ## ¿Qué hacer cuando ocurre?
 
@@ -55,7 +55,7 @@ Sin pánico. Los primeros 30 minutos determinan si pierdes dinero, tarjetas y do
 
 **3. ¿Pasaporte robado?** Ve a tu embajada o consulado más cercano. Emiten documentos de viaje de emergencia (en 1 a 2 días en la mayoría de los casos). Sin pasaporte no puedes volver a casa. Lista de [embajadas españolas en el mundo](https://www.exteriores.gob.es/Embajadas/es/Paginas/inicio.aspx).
 
-**4. Contactar al seguro.** Llama a tu seguro de viaje. La mayoría tienen línea de emergencias 24 horas. Más información en la guía de [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena).
+**4. Contactar al seguro.** Llama a tu seguro de viaje. La mayoría tienen línea de emergencias 24 horas. Más información en la guía de [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/).
 
 ## ¿Qué no sirve de nada aunque se recomiende en todas partes?
 
@@ -91,6 +91,6 @@ Barcelona (Ramblas, metro), París (zonas turísticas, Línea 1 del Metro), Roma
 
 ## Más información
 
-- [Ciberseguridad para viajeros: Lo que necesitas saber](/es/blog/ciberseguridad-viajeros)
-- [Seguro de viaje: ¿Vale la pena contratarlo en 2026?](/es/blog/seguro-viaje-vale-la-pena)
-- [Seguridad en Latinoamérica para viajeros](/es/blog/seguridad-latinoamerica-viajeros)
+- [Ciberseguridad para viajeros: Lo que necesitas saber](/es/blog/ciberseguridad-viajeros/)
+- [Seguro de viaje: ¿Vale la pena contratarlo en 2026?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Seguridad en Latinoamérica para viajeros](/es/blog/seguridad-latinoamerica-viajeros/)

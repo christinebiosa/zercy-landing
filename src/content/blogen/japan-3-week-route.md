@@ -55,7 +55,7 @@ Convenience stores (7-Eleven, FamilyMart, Lawson) are Japan's best secret: onigi
 
 **Fushimi Inari:** 10,000 red torii gates leading up the mountain. At 6am, almost no one. At 11am, mass tourism. Getting up early pays off here more than anywhere else.
 
-**Hiroshima:** The Peace Museum and the Atomic Bomb Dome are among the most moving sights in the world. Plan at least half a day. Read more about [Tokyo for foodies](/en/blog/tokyo-foodie-trip) in our guide.
+**Hiroshima:** The Peace Museum and the Atomic Bomb Dome are among the most moving sights in the world. Plan at least half a day. Read more about [Tokyo for foodies](/en/blog/tokyo-foodie-trip/) in our guide.
 
 ## Practical Tips
 
@@ -84,6 +84,6 @@ Ramen in every variety (Sapporo/Hokkaido: miso; Tokyo: shoyu; Kyushu: tonkotsu).
 From Narita Airport: Narita Express (N'EX) to Shinjuku in about 60 minutes — approx. €30. Or the Limousine Bus for €25. No taxis (expensive). From Haneda Airport: the Monorail or Keikyu Line, 30–40 minutes for €5–8. Haneda is far more convenient for central Tokyo than Narita.
 
 ## Read more
-- [Tokyo Foodie Trip: Eat Like a Local](/en/blog/tokyo-foodie-trip)
-- [Osaka vs. Kyoto: Which City Is Right for You?](/en/blog/hidden-city-ticketing-explained)
-- [Night Trains in Europe 2026](/en/blog/night-trains-europe-2026)
+- [Tokyo Foodie Trip: Eat Like a Local](/en/blog/tokyo-foodie-trip/)
+- [Osaka vs. Kyoto: Which City Is Right for You?](/en/blog/hidden-city-ticketing-explained/)
+- [Night Trains in Europe 2026](/en/blog/night-trains-europe-2026/)

@@ -38,7 +38,7 @@ Day of the week matters too. Mondays and Tuesdays tend to have lower fares than 
 
 Flexible dates are the most powerful tool you have. Google Flights shows a full calendar view with prices for every day of the month. Moving your departure from a Friday to a Tuesday can save €30 to €50 on a single ticket. For a student budget, that is a full extra day of travel.
 
-More on this: [Cheap Flights: Insider Tips for Student Budgets](/en/blog/cheap-flights-tips)
+More on this: [Cheap Flights: Insider Tips for Student Budgets](/en/blog/cheap-flights-tips/)
 
 ## Which Cards and Passes Actually Save Money?
 
@@ -52,7 +52,7 @@ Two things every student traveler should have.
 
 **Erasmus budget.** Currently on an Erasmus exchange? Your monthly stipend is partly intended for you to explore your host country and region. A weekend in a nearby city costs under €100. Take advantage of it.
 
-For first-time backpackers: [Backpacking Beginners Guide: What You Actually Need](/en/blog/backpacking-beginners-guide)
+For first-time backpackers: [Backpacking Beginners Guide: What You Actually Need](/en/blog/backpacking-beginners-guide/)
 
 ## What Can You Do in Europe for Free?
 
@@ -66,13 +66,13 @@ Activities are where student budgets quietly collapse. Paid attractions add up f
 
 **Use Zercy.** Tell the app where you want to go and what your budget is. Zercy finds the cheapest flight options and shows you matching hostels. [Start planning here](https://zercy.app)
 
-For packing smart and avoiding baggage fees: [Carry-On Only: Travel Without Extra Charges](/en/blog/carry-on-only)
+For packing smart and avoiding baggage fees: [Carry-On Only: Travel Without Extra Charges](/en/blog/carry-on-only/)
 
 ## More to Read
 
-- [Cheap Flights: Insider Tips for Student Budgets](/en/blog/cheap-flights-tips)
-- [Backpacking Beginners Guide: What You Actually Need](/en/blog/backpacking-beginners-guide)
-- [Flexible Dates: How to Find the Cheapest Travel Day](/en/blog/flexible-dates-flight-hack)
+- [Cheap Flights: Insider Tips for Student Budgets](/en/blog/cheap-flights-tips/)
+- [Backpacking Beginners Guide: What You Actually Need](/en/blog/backpacking-beginners-guide/)
+- [Flexible Dates: How to Find the Cheapest Travel Day](/en/blog/flexible-dates-flight-hack/)
 
 ---
 

@@ -45,7 +45,7 @@ Nördlich des CBD, kein Touristenviertel. Brunswick Street ist die Hauptachse. V
 
 **Top-Picks:** The Nunnery Boutique (umgebautes historisches Gebäude, Character), Smith & Co Hotel Fitzroy (boutique, Innenhof), Tyrian Serviced Apartments (gut für längere Aufenthalte).
 
-Wer nach Sydney weiterfährt: unser [Sydney-Guide](/blog/wo-uebernachten-sydney) zeigt denselben Stadtteil-Ansatz. Sydney ist teurer, Melbourne dafür lebendiger in der Gastroszene.
+Wer nach Sydney weiterfährt: unser [Sydney-Guide](/blog/wo-uebernachten-sydney/) zeigt denselben Stadtteil-Ansatz. Sydney ist teurer, Melbourne dafür lebendiger in der Gastroszene.
 
 ## Wann ist die beste Reisezeit für Melbourne?
 
@@ -61,7 +61,7 @@ Melbourne ist das ganze Jahr bereisbar, hat aber zwei klare Peaks. März bis Mai
 
 **Top-Picks:** The Prince Hotel (Kulthotel, Musikszene, Boutique), Art Series Hotel Blackman (Designhotel), St Kilda Beach House (nah an der Promenade).
 
-Einen internen Preisvergleich findest du in unserem [Airbnb vs. Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich), der für Melbourne besonders relevant ist: Airbnb-Preise in St Kilda sind oft günstiger als Hotels.
+Einen internen Preisvergleich findest du in unserem [Airbnb vs. Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich/), der für Melbourne besonders relevant ist: Airbnb-Preise in St Kilda sind oft günstiger als Hotels.
 
 ## Southbank: Kultur am Fluss
 
@@ -83,7 +83,7 @@ Nördlich des CBD, wenige Tram-Minuten. Carlton ist Melbournes Universitätsvier
 
 **Top-Picks:** Drummond Apartments Carlton (serviced apartments, gut für eine Woche), Quest Carlton (Apartment-Hotel), Melbourne Boutique Hostel Carlton (Hostel-Option für Solosreisende).
 
-Günstigere Flüge nach Australien findest du mit unseren [Tipps zum günstigen Fliegen](/blog/guenstig-fliegen-tipps). Wer die Reiseversicherung prüfen will: unser [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich) beantwortet die wichtigsten Fragen.
+Günstigere Flüge nach Australien findest du mit unseren [Tipps zum günstigen Fliegen](/blog/guenstig-fliegen-tipps/). Wer die Reiseversicherung prüfen will: unser [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/) beantwortet die wichtigsten Fragen.
 
 ## Wo solltest du am Ende buchen?
 
@@ -121,6 +121,6 @@ Der Melbourne Airport (Tullamarine) liegt 23 km vom CBD. Der Skybus fährt direk
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Sydney: Die 5 Stadtteile](/blog/wo-uebernachten-sydney)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Günstig fliegen: Tipps für Australien und Langstrecke](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in Sydney: Die 5 Stadtteile](/blog/wo-uebernachten-sydney/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Günstig fliegen: Tipps für Australien und Langstrecke](/blog/guenstig-fliegen-tipps/)

@@ -50,7 +50,7 @@ La respuesta más práctica: elige un solo programa y quédate con él durante u
 
 **Paso 4: vincula la tarjeta.** Si tu banco ofrece tarjeta de crédito vinculada a un programa de viajero frecuente, compara las condiciones. El bono de bienvenida puede valer más que meses de acumulación por vuelos.
 
-Si quieres profundizar en opciones de viaje inteligente, la guía de [dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires) incluye consejos sobre hoteles con acuerdos en programas de puntos en la ciudad.
+Si quieres profundizar en opciones de viaje inteligente, la guía de [dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) incluye consejos sobre hoteles con acuerdos en programas de puntos en la ciudad.
 
 ## Los errores más comunes al empezar
 
@@ -89,6 +89,6 @@ Calcula primero cuánto gastas al mes en la tarjeta y multiplícalo por el ratio
 ---
 
 **Leer más:**
-- [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Lima](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico)
+- [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Lima](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico/)

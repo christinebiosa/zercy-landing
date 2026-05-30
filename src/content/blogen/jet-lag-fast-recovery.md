@@ -44,7 +44,7 @@ Tools like Zercy factor in more than price and duration when planning routes. A 
 
 Example: New York to Tokyo direct (14 hours, arrive afternoon) beats a connection through Vancouver (18 hours, arrive evening). The direct flight lets you slip into the local rhythm on arrival day.
 
-If AI travel planning interests you, see [what is Zercy?](/en/blog/what-is-zercy) and [how AI is changing travel planning](/en/blog/ai-changing-travel-planning).
+If AI travel planning interests you, see [what is Zercy?](/en/blog/what-is-zercy/) and [how AI is changing travel planning](/en/blog/ai-changing-travel-planning/).
 
 ## Which tricks are actually myths?
 
@@ -58,7 +58,7 @@ Sleep masks plus earplugs combined with wine on the plane backfires. Alcohol dis
 
 The [CDC's traveler sleep recommendations](https://wwwnc.cdc.gov/travel/page/jet-lag) cover similar ground for international travel.
 
-If you fly long-haul often, see our article on [business class: when is it actually worth it?](/en/blog/business-class-worth-it). With a lie-flat seat, jet lag is significantly easier to handle.
+If you fly long-haul often, see our article on [business class: when is it actually worth it?](/en/blog/business-class-worth-it/). With a lie-flat seat, jet lag is significantly easier to handle.
 
 ---
 
@@ -85,6 +85,6 @@ Kids benefit especially from strict routines at the destination: fixed meal time
 ---
 
 **Read more:**
-- [What is Zercy? The AI travel planner explained](/en/blog/what-is-zercy)
-- [How AI is changing travel planning](/en/blog/ai-changing-travel-planning)
-- [Business class: when is it actually worth it?](/en/blog/business-class-worth-it)
+- [What is Zercy? The AI travel planner explained](/en/blog/what-is-zercy/)
+- [How AI is changing travel planning](/en/blog/ai-changing-travel-planning/)
+- [Business class: when is it actually worth it?](/en/blog/business-class-worth-it/)

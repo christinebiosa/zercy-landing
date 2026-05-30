@@ -96,6 +96,6 @@ La Ciudad de las Artes y las Ciencias (arquitecto: Santiago Calatrava, 1998-2005
 ---
 
 **Leer más:**
-- [Dónde alojarse en Barcelona: ¿Barrio Gótico o Eixample?](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Madrid: ¿Chueca o Malasaña?](/es/blog/donde-alojarse-madrid)
-- [Dónde alojarse en Sevilla: ¿Triana o casco antiguo?](/es/blog/donde-alojarse-sevilla)
+- [Dónde alojarse en Barcelona: ¿Barrio Gótico o Eixample?](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Madrid: ¿Chueca o Malasaña?](/es/blog/donde-alojarse-madrid/)
+- [Dónde alojarse en Sevilla: ¿Triana o casco antiguo?](/es/blog/donde-alojarse-sevilla/)

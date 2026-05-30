@@ -63,7 +63,7 @@ La Plaza de los Héroes es una de las plazas públicas más impresionantes de Eu
 
 Almuerzo en Andrássy: opciones más baratas en las calles laterales. Gulyás con pan sale por 8 a 12 euros.
 
-Si planeas un viaje más largo por Hungría, nuestra [guía de viaje a Hungría con highlights](/es/blog/hungria-guia-viaje-highlights) te da una visión completa del país.
+Si planeas un viaje más largo por Hungría, nuestra [guía de viaje a Hungría con highlights](/es/blog/hungria-guia-viaje-highlights/) te da una visión completa del país.
 
 **Noche: Crucero nocturno por el Danubio**
 
@@ -87,7 +87,7 @@ Los cruceros salen varias veces por la tarde desde el muelle de Vigadó tér. Re
 
 El centro de Pest, distritos V y VI, es la opción céntrica. Los precios de los hoteles son notablemente más baratos que en Viena o Praga. Buenos hoteles de 3 estrellas desde 60 a 80 euros por noche. El Barrio Judío (Distrito VII) está perfectamente situado para la escena de los bares de ruinas y tiene buenas opciones de alojamiento.
 
-En [Booking.com](https://www.booking.com) encuentras más de 800 alojamientos en Budapest con cancelación gratuita. Más recomendaciones por barrio en la guía de [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest).
+En [Booking.com](https://www.booking.com) encuentras más de 800 alojamientos en Budapest con cancelación gratuita. Más recomendaciones por barrio en la guía de [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/).
 
 ---
 
@@ -116,6 +116,6 @@ Szimpla Kert es el más famoso y tiene valor histórico como el primer bar de ru
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Budapest: barrios y recomendaciones](/es/blog/donde-alojarse-budapest)
-- [Hungría: guía de viaje con los mejores highlights](/es/blog/hungria-guia-viaje-highlights)
-- [Seguro de viaje: ¿realmente vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Dónde alojarse en Budapest: barrios y recomendaciones](/es/blog/donde-alojarse-budapest/)
+- [Hungría: guía de viaje con los mejores highlights](/es/blog/hungria-guia-viaje-highlights/)
+- [Seguro de viaje: ¿realmente vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)

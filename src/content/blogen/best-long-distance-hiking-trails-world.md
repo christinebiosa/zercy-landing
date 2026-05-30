@@ -26,13 +26,13 @@ And trekking is affordable. Many routes cost 25-50 EUR per day all in (accommoda
 
 The most famous pilgrimage route in the world. Across northern Spain to the Cathedral of Santiago de Compostela. Perfect infrastructure: pilgrim hostels (albergues) every 10-20 km, meals for 10-15 EUR, yellow arrows guide you every step. No tent needed, no heavy pack. The social element: you meet people from everywhere, every single day. Excellent choice for first-timers on long routes.
 
-Cost: 25-45 EUR per day. Our [Santiago de Compostela guide](/en/blog/santiago-de-compostela) covers the final stages of the route.
+Cost: 25-45 EUR per day. Our [Santiago de Compostela guide](/en/blog/santiago-de-compostela/) covers the final stages of the route.
 
 ### 2. Torres del Paine W-Circuit (Chile/Patagonia)
 
 **Distance:** 100 km | **Duration:** 4-5 days | **Difficulty:** Moderate-Challenging | **Best season:** November-March
 
-The most compact top trail in the world. The granite towers of Torres del Paine are iconic. The W-Circuit passes glacial lakes, suspension bridges, and winds that inflate your jacket like a sail. Hut and campsite booking: months in advance because spots are strictly limited. National park entrance fee: around 30 USD. Our [Patagonia 3-week guide](/en/blog/patagonia-3-week-route) shows how to fit the W-Circuit into a broader Patagonia trip.
+The most compact top trail in the world. The granite towers of Torres del Paine are iconic. The W-Circuit passes glacial lakes, suspension bridges, and winds that inflate your jacket like a sail. Hut and campsite booking: months in advance because spots are strictly limited. National park entrance fee: around 30 USD. Our [Patagonia 3-week guide](/en/blog/patagonia-3-week-route/) shows how to fit the W-Circuit into a broader Patagonia trip.
 
 Cost: 60-120 USD per day (including huts).
 
@@ -48,7 +48,7 @@ Cost: 4,000-6,000 USD for a full thru-hike (5 months).
 
 **Distance:** 43 km | **Duration:** 4 days | **Difficulty:** Moderate-Challenging | **Best season:** May-September
 
-The short, famous trail ends directly at the Sun Gate of Machu Picchu. Permit required: only 500 permits per day, often sold out months in advance. Booking exclusively through licensed agencies. No independent hiking permitted. Altitude: up to 4,215 m at Dead Woman's Pass, acclimatization in Cusco beforehand is essential. Our [Cusco guide](/en/blog/where-to-stay-cusco) helps you plan your base.
+The short, famous trail ends directly at the Sun Gate of Machu Picchu. Permit required: only 500 permits per day, often sold out months in advance. Booking exclusively through licensed agencies. No independent hiking permitted. Altitude: up to 4,215 m at Dead Woman's Pass, acclimatization in Cusco beforehand is essential. Our [Cusco guide](/en/blog/where-to-stay-cusco/) helps you plan your base.
 
 Cost: 600-1,200 USD for the 4-day tour with agency.
 
@@ -120,11 +120,11 @@ For the Inca Trail: at least 6 months in advance. For Torres del Paine W-Circuit
 
 ### How dangerous are long-distance trails really?
 
-Most risks are avoidable. Altitude sickness on the EBC and Kilimanjaro from ascending too fast, weather changes in Patagonia and on the TMB, heat exhaustion on long desert sections. Preparation, proper gear and a realistic pace eliminate most dangers. A solid [travel insurance](/en/blog/travel-insurance-worth-it-2026) policy with mountain rescue coverage is essential on high-altitude trails.
+Most risks are avoidable. Altitude sickness on the EBC and Kilimanjaro from ascending too fast, weather changes in Patagonia and on the TMB, heat exhaustion on long desert sections. Preparation, proper gear and a realistic pace eliminate most dangers. A solid [travel insurance](/en/blog/travel-insurance-worth-it-2026/) policy with mountain rescue coverage is essential on high-altitude trails.
 
 ---
 
 **Read more:**
-- [Patagonia 3 Weeks: The Best Route](/en/blog/patagonia-3-week-route)
-- [Iceland Travel Guide: Everything You Need to Know](/en/blog/iceland-travel-guide)
-- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [Patagonia 3 Weeks: The Best Route](/en/blog/patagonia-3-week-route/)
+- [Iceland Travel Guide: Everything You Need to Know](/en/blog/iceland-travel-guide/)
+- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)

@@ -63,6 +63,6 @@ El verde es el color más común porque corresponde a la emisión de oxígeno a 
 ---
 
 **Más para leer:**
-- [Islandia: la guía de viaje completa 2026](/es/blog/islandia-guia-viaje)
-- [Islas Feroe: la guía para el destino más fotogénico del Atlántico Norte](/es/blog/islas-feroe-guia)
-- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa)
+- [Islandia: la guía de viaje completa 2026](/es/blog/islandia-guia-viaje/)
+- [Islas Feroe: la guía para el destino más fotogénico del Atlántico Norte](/es/blog/islas-feroe-guia/)
+- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa/)

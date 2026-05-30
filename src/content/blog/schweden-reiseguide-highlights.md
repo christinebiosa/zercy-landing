@@ -64,6 +64,6 @@ Direktflug nach Kiruna: 2 Stunden, ab 80 Euro. Nachtzug: Stockholm nach Kiruna, 
 ---
 
 **Mehr lesen:**
-- [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route)
-- [Nordlichter 2026: Wo und Wann](/blog/nordlichter-2026-wo-wann-wie)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route/)
+- [Nordlichter 2026: Wo und Wann](/blog/nordlichter-2026-wo-wann-wie/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

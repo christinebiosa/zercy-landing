@@ -49,7 +49,7 @@ Von hier aus sind Fort und Pettah in 15 Minuten erreichbar. Die Straßen sind ü
 
 **Top-Hotels:** Cinnamon Grand Colombo (etabliertes Luxushotel, direkt am Galle Face Green), Lavinia House (Boutique, gut geführt), OZO Colombo (modernes Designhotel, gutes Preis-Leistungs-Verhältnis).
 
-Lies auch unseren [Bali Stadtteil-Guide](/blog/wo-uebernachten-bali) und den [Mumbai Guide](/blog/wo-uebernachten-mumbai) für weitere Asien-Vergleiche.
+Lies auch unseren [Bali Stadtteil-Guide](/blog/wo-uebernachten-bali/) und den [Mumbai Guide](/blog/wo-uebernachten-mumbai/) für weitere Asien-Vergleiche.
 
 ## Wann ist die beste Reisezeit für Colombo?
 
@@ -104,7 +104,7 @@ Für Colombo ist [Booking.com](https://www.booking.com) gut aufgestellt:
 
 Wer direkt bucht, hat in Boutiquehäusern wie Tintagel Colombo manchmal Vorteile bei Zimmerauswahl und Extras.
 
-Vergleiche dazu auch unseren [Mumbai Guide](/blog/wo-uebernachten-mumbai) oder hol dir eine Reiseversicherung für Sri Lanka über unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich).
+Vergleiche dazu auch unseren [Mumbai Guide](/blog/wo-uebernachten-mumbai/) oder hol dir eine Reiseversicherung für Sri Lanka über unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 ---
 
@@ -131,6 +131,6 @@ Cinnamon Gardens (Colombo 7) ist das ruhigste Viertel der Stadt: keine Bazaare, 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bali: Die besten Stadtteile](/blog/wo-uebernachten-bali)
-- [Wo übernachten in Mumbai: Die besten Stadtteile](/blog/wo-uebernachten-mumbai)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Wo übernachten in Bali: Die besten Stadtteile](/blog/wo-uebernachten-bali/)
+- [Wo übernachten in Mumbai: Die besten Stadtteile](/blog/wo-uebernachten-mumbai/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

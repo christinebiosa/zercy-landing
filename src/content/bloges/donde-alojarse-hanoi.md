@@ -54,7 +54,7 @@ Hoteles: de 60 a 250 euros.
 **Recomendación:**
 - **Hotel Metropole Hanoi (Sofitel)** (el gran hotel histórico de Hanói desde 1901, aprox. 220 €)
 
-Para otras ciudades del sudeste asiático, consulta también [dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok) y [dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur).
+Para otras ciudades del sudeste asiático, consulta también [dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok/) y [dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur/).
 
 ## Tay Ho (West Lake): El barrio de los expatriados
 
@@ -95,6 +95,6 @@ El phở (sopa de fideos con caldo de ternera o pollo) es el desayuno nacional. 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Bangkok: Sukhumvit, Silom o Riverside](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Singapur: Marina Bay, Orchard Road o Chinatown](/es/blog/donde-alojarse-singapur)
-- [Dónde alojarse en Bali: Seminyak, Ubud o Canggu](/es/blog/donde-alojarse-bali)
+- [Dónde alojarse en Bangkok: Sukhumvit, Silom o Riverside](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Singapur: Marina Bay, Orchard Road o Chinatown](/es/blog/donde-alojarse-singapur/)
+- [Dónde alojarse en Bali: Seminyak, Ubud o Canggu](/es/blog/donde-alojarse-bali/)

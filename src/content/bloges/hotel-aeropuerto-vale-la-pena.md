@@ -24,7 +24,7 @@ Hay situaciones claras en las que un hotel aeroportuario es simplemente la mejor
 
 **Viajas con equipaje.** Con dos maletas, ir y volver es agotador y caro. Un hotel en el aeropuerto significa: llegas, dejas el equipaje, duermes, caminas a la terminal. Sin consigna, sin estrés con el shuttle.
 
-Para más consejos sobre cómo moverte por los aeropuertos: [7 trucos de aeropuerto para ahorrar tiempo](/es/blog/trucos-aeropuerto).
+Para más consejos sobre cómo moverte por los aeropuertos: [7 trucos de aeropuerto para ahorrar tiempo](/es/blog/trucos-aeropuerto/).
 
 ## ¿Cuándo no vale la pena?
 
@@ -50,7 +50,7 @@ Londres Heathrow (LHR): 100 a 220 euros. Uno de los aeropuertos más caros de Eu
 
 Los aeropuertos de Estados Unidos y Asia suelen ser significativamente más caros. Chicago O'Hare o Tokio Narita muchas veces empiezan en 150 euros y pueden llegar fácilmente a 250 euros.
 
-Para entender mejor los tipos de hotel y lo que obtienes por tu dinero: [Categorías de hotel explicadas: qué obtienes según lo que pagas](/es/blog/categorias-hotel-explicadas).
+Para entender mejor los tipos de hotel y lo que obtienes por tu dinero: [Categorías de hotel explicadas: qué obtienes según lo que pagas](/es/blog/categorias-hotel-explicadas/).
 
 ## ¿Cómo es el cálculo en la práctica?
 
@@ -76,7 +76,7 @@ Segundo: sé flexible con la ubicación. Los hoteles a 10 o 15 minutos del termi
 
 Tercero: compara los paquetes Park & Sleep. Cinco días de aparcamiento en el aeropuerto de Frankfurt puede costar fácilmente entre 80 y 120 euros. Un hotel con aparcamiento y una noche puede salir más barato o al mismo precio.
 
-Si quieres aprender a encontrar vuelos más baratos en general: [Cuándo reservar vuelos para conseguir el mejor precio](/es/blog/cuando-reservar-vuelos). Y si viajas [solo con equipaje de mano](/es/blog/solo-equipaje-de-mano), toda la logística del aeropuerto se simplifica considerablemente.
+Si quieres aprender a encontrar vuelos más baratos en general: [Cuándo reservar vuelos para conseguir el mejor precio](/es/blog/cuando-reservar-vuelos/). Y si viajas [solo con equipaje de mano](/es/blog/solo-equipaje-de-mano/), toda la logística del aeropuerto se simplifica considerablemente.
 
 ---
 
@@ -94,11 +94,11 @@ En grandes aeropuertos europeos como Frankfurt o Ámsterdam, los hoteles aeropor
 En Booking.com filtra por "Cerca de aeropuertos" para ver hoteles con shuttle a precios bastante más bajos que los del terminal. La web oficial del aeropuerto suele listar hoteles colaboradores con lanzadera garantizada.
 
 ### ¿Cuál es una buena alternativa al hotel para escalas largas?
-Para escalas de cuatro a seis horas, una sala VIP del aeropuerto suele ser más barata que una habitación. Los pases de día cuestan entre 30 y 60 euros e incluyen asientos cómodos, comida y WiFi. Para esperas más largas de ocho horas o más, una habitación es generalmente más cómoda y tiene un precio similar. Más sobre esto: [Acceso a sala VIP sin billete de business class](/es/blog/acceso-sala-vip-sin-business).
+Para escalas de cuatro a seis horas, una sala VIP del aeropuerto suele ser más barata que una habitación. Los pases de día cuestan entre 30 y 60 euros e incluyen asientos cómodos, comida y WiFi. Para esperas más largas de ocho horas o más, una habitación es generalmente más cómoda y tiene un precio similar. Más sobre esto: [Acceso a sala VIP sin billete de business class](/es/blog/acceso-sala-vip-sin-business/).
 
 ---
 
 **Más artículos:**
-- [7 trucos de aeropuerto para ahorrar tiempo y nervios](/es/blog/trucos-aeropuerto)
-- [Acceso a sala VIP sin billete de business class](/es/blog/acceso-sala-vip-sin-business)
-- [Categorías de hotel explicadas: qué obtienes según lo que pagas](/es/blog/categorias-hotel-explicadas)
+- [7 trucos de aeropuerto para ahorrar tiempo y nervios](/es/blog/trucos-aeropuerto/)
+- [Acceso a sala VIP sin billete de business class](/es/blog/acceso-sala-vip-sin-business/)
+- [Categorías de hotel explicadas: qué obtienes según lo que pagas](/es/blog/categorias-hotel-explicadas/)

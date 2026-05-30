@@ -65,6 +65,6 @@ Los ciudadanos de la mayoría de países latinoamericanos y europeos entran a Al
 ---
 
 **Más para leer:**
-- [Eslovenia: el secreto verde de Europa central](/es/blog/eslovenia-secreto-verde-2026)
-- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa)
-- [Road trip: cómo planificar las etapas perfectas](/es/blog/roadtrip-planificacion-etapas)
+- [Eslovenia: el secreto verde de Europa central](/es/blog/eslovenia-secreto-verde-2026/)
+- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa/)
+- [Road trip: cómo planificar las etapas perfectas](/es/blog/roadtrip-planificacion-etapas/)

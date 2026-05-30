@@ -49,7 +49,7 @@ Los hoteles en Barra son más modernos y orientados al turismo. Ideal para combi
 
 **Top picks:** Pestana Bahia Lodge (directamente en la playa de Barra, gran ubicación), Bahia Hotel e Tours (boutique en Barra), Porto da Barra (económico, cerca de la playa).
 
-Consulta también nuestra [guía de Brasil](/es/blog/brasil-guia-viaje-highlights) y el artículo sobre [Río de Janeiro](/es/blog/donde-alojarse-rio-de-janeiro) para planificar un viaje completo por Brasil.
+Consulta también nuestra [guía de Brasil](/es/blog/brasil-guia-viaje-highlights/) y el artículo sobre [Río de Janeiro](/es/blog/donde-alojarse-rio-de-janeiro/) para planificar un viaje completo por Brasil.
 
 ## ¿Cuándo es la mejor época para visitar Salvador?
 
@@ -105,6 +105,6 @@ De abril a agosto (temporada de lluvias) es más asequible y menos concurrida. S
 ---
 
 ## Más artículos
-- [Dónde alojarse en Río de Janeiro: Los mejores barrios](/es/blog/donde-alojarse-rio-de-janeiro)
-- [Brasil: Guía de viaje con los mejores highlights](/es/blog/brasil-guia-viaje-highlights)
-- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires)
+- [Dónde alojarse en Río de Janeiro: Los mejores barrios](/es/blog/donde-alojarse-rio-de-janeiro/)
+- [Brasil: Guía de viaje con los mejores highlights](/es/blog/brasil-guia-viaje-highlights/)
+- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires/)

@@ -22,7 +22,7 @@ Si vais a conducir dos personas, añadir un conductor cuesta 10-20 euros al día
 8-15 euros al día. Para un alquiler de 10 días, son 80-150 euros. Alternativa: llevar la silla propia o comprar una barata en destino (en IKEA o tiendas locales a menudo cuestan menos que el alquiler).
 
 **GPS:**
-10-20 euros al día. Como se menciona en la [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche), el móvil con Google Maps hace el mismo trabajo sin coste.
+10-20 euros al día. Como se menciona en la [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche/), el móvil con Google Maps hace el mismo trabajo sin coste.
 
 **Tarifa de conductor joven (menores de 25 años):**
 15-30 euros al día por conductores de 21-24 años. No hay forma de evitarlo si eres menor de 25.
@@ -62,7 +62,7 @@ A veces el seguro estándar tiene límites de responsabilidad civil más bajos. 
 1. Llegar con tiempo suficiente para hacer la inspección con personal presente
 2. Obtener confirmación escrita de que no hay daños
 
-Para encontrar los mejores precios de alquiler desde el principio, los [consolidadores de alquiler](/es/blog/consolidadores-alquiler-ahorrar) ofrecen las mejores tarifas del mercado.
+Para encontrar los mejores precios de alquiler desde el principio, los [consolidadores de alquiler](/es/blog/consolidadores-alquiler-ahorrar/) ofrecen las mejores tarifas del mercado.
 
 Zercy puede ayudarte a planificar el transporte de tu próximo viaje con opciones comparadas. Guarda tus preferencias en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -89,6 +89,6 @@ Las grandes cadenas internacionales (Hertz, Avis, Budget, Enterprise, Europcar, 
 ---
 
 **Más para leer:**
-- [Checklist para alquilar un coche sin sorpresas](/es/blog/checklist-alquiler-coche)
-- [Cómo ahorrar con consolidadores de alquiler de coche](/es/blog/consolidadores-alquiler-ahorrar)
-- [Seguro de viaje: cuándo vale la pena contratarlo](/es/blog/seguro-viaje-vale-la-pena)
+- [Checklist para alquilar un coche sin sorpresas](/es/blog/checklist-alquiler-coche/)
+- [Cómo ahorrar con consolidadores de alquiler de coche](/es/blog/consolidadores-alquiler-ahorrar/)
+- [Seguro de viaje: cuándo vale la pena contratarlo](/es/blog/seguro-viaje-vale-la-pena/)

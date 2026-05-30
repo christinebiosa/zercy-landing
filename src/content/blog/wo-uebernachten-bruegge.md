@@ -71,7 +71,7 @@ Hotels außerhalb des historischen Rings sind 30-50 Prozent günstiger und haben
 
 Vorsicht: Brügge ist an Wochenenden extrem voll. Midweek ist ruhiger, schöner und 20-30 Prozent günstiger.
 
-Mehr zu Belgien: [Wo übernachten in Brüssel](/blog/wo-uebernachten-bruessel) sowie [Wo übernachten in Gent](/blog/wo-uebernachten-gent). Für Europa-Planung: [Beste Frühlingsziele Europa](/blog/beste-fruehlingsziele-europa).
+Mehr zu Belgien: [Wo übernachten in Brüssel](/blog/wo-uebernachten-bruessel/) sowie [Wo übernachten in Gent](/blog/wo-uebernachten-gent/). Für Europa-Planung: [Beste Frühlingsziele Europa](/blog/beste-fruehlingsziele-europa/).
 
 ---
 
@@ -99,6 +99,6 @@ Ca. 12 Euro pro Person für eine 30-minütige Bootsfahrt. Einsteigepunkte sind �
 
 ## Mehr lesen
 
-- [Wo übernachten in Brüssel: Die besten Stadtteile](/blog/wo-uebernachten-bruessel)
-- [Wo übernachten in Gent: Stadtteile und Hotels](/blog/wo-uebernachten-gent)
-- [Beste Frühlingsziele in Europa 2026](/blog/beste-fruehlingsziele-europa)
+- [Wo übernachten in Brüssel: Die besten Stadtteile](/blog/wo-uebernachten-bruessel/)
+- [Wo übernachten in Gent: Stadtteile und Hotels](/blog/wo-uebernachten-gent/)
+- [Beste Frühlingsziele in Europa 2026](/blog/beste-fruehlingsziele-europa/)

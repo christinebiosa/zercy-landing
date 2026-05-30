@@ -17,7 +17,7 @@ Cheaper. Quieter. Better food. That's not a hot take. Ask anyone who knows both 
 
 Lisbon has changed. Rents have skyrocketed, the old town belongs to tourists, and an espresso in Alfama costs almost as much as in Paris. Porto hasn't reached that point yet.
 
-A beer at a bar on the Ribeira waterfront: 2 euros. A full dinner with wine in the center: 15 to 25 euros per person. A double room at a solid [boutique hotel](/en/blog/boutique-hotels): from 80 euros. You get more character for less money.
+A beer at a bar on the Ribeira waterfront: 2 euros. A full dinner with wine in the center: 15 to 25 euros per person. A double room at a solid [boutique hotel](/en/blog/boutique-hotels/): from 80 euros. You get more character for less money.
 
 And the crowds? In peak season, Lisbon's streets are packed. In Porto, even in July, you can still find quiet corners. That's changing slowly. But as of today, Porto still breathes.
 
@@ -45,7 +45,7 @@ Walk across the Ponte Dom Luis I to get there. The upper level has the better vi
 
 Sao Bento station is not just a place to catch a train. It's a destination. Over 20,000 azulejo tiles cover the entrance hall. They depict scenes from Portuguese history, from battles to the arrival of the railway.
 
-And it's fully operational. Regional trains to the Douro Valley depart from here. [Train travel in Europe](/en/blog/train-travel-europe) is often underrated, and the route along the Douro ranks among the continent's most scenic.
+And it's fully operational. Regional trains to the Douro Valley depart from here. [Train travel in Europe](/en/blog/train-travel-europe/) is often underrated, and the route along the Douro ranks among the continent's most scenic.
 
 ## Douro Valley: A Day Trip Worth Taking
 
@@ -77,7 +77,7 @@ Sounds aggressive. Tastes incredible. The best ones are at Cafe Santiago and Cer
 
 Porto airport (OPO) is just 20 minutes from the city center. Metro line E runs directly, and a ticket costs 2.60 euros with a rechargeable Andante card. A taxi or Uber to the center: 15 to 20 euros.
 
-If you're looking for [cheap flights to Porto](/en/blog/cheap-flights-tips), booking 6 to 8 weeks in advance tends to get you the best prices. Ryanair, easyJet, and TAP all serve Porto from major European cities.
+If you're looking for [cheap flights to Porto](/en/blog/cheap-flights-tips/), booking 6 to 8 weeks in advance tends to get you the best prices. Ryanair, easyJet, and TAP all serve Porto from major European cities.
 
 Best neighborhoods to stay in: Ribeira (central, touristy), Cedofeita (young, creative, cheaper), Bonfim (local, up-and-coming), and Foz (quiet, near the beach).
 
@@ -87,7 +87,7 @@ Best neighborhoods to stay in: Ribeira (central, touristy), Cedofeita (young, cr
 
 ---
 
-Porto is one of those cities Zercy loves to recommend. If you're planning your next trip, [Zercy](/en/blog/what-is-zercy) can help you find the best flights and connections.
+Porto is one of those cities Zercy loves to recommend. If you're planning your next trip, [Zercy](/en/blog/what-is-zercy/) can help you find the best flights and connections.
 
 ## Frequently Asked Questions
 
@@ -110,6 +110,6 @@ Ribeira is perfect for short stays because everything is walkable. Cedofeita and
 ---
 
 Read more:
-- [Hidden Gems Europe: 7 Off-Radar Places](/en/blog/hidden-gems-europe)
-- [Train Travel in Europe: The Best Routes](/en/blog/train-travel-europe)
-- [Cheap Flights: The Best Tips](/en/blog/cheap-flights-tips)
+- [Hidden Gems Europe: 7 Off-Radar Places](/en/blog/hidden-gems-europe/)
+- [Train Travel in Europe: The Best Routes](/en/blog/train-travel-europe/)
+- [Cheap Flights: The Best Tips](/en/blog/cheap-flights-tips/)

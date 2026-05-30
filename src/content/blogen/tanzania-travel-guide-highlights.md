@@ -86,6 +86,6 @@ The classic combination is 7 to 10 days on safari (Serengeti plus Ngorongoro) fo
 ---
 
 **Read more:**
-- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide)
-- [India Travel Guide: Highlights for Your Trip](/en/blog/india-travel-guide-highlights)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide/)
+- [India Travel Guide: Highlights for Your Trip](/en/blog/india-travel-guide-highlights/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

@@ -55,7 +55,7 @@ Gotemburgo es un destino de verano con excepciones. De junio a agosto: días lar
 
 **Primavera:** Abril-mayo, las temperaturas suben, los ferries al archipiélago reanudan servicios.
 
-[Visit Sweden](https://www.visitsweden.com) tiene guías detalladas sobre el archipiélago de la costa sueca occidental, perfecto para excursiones desde la ciudad. Gotemburgo es también el punto de partida natural de una [ruta por Escandinavia](/es/blog/escandinavia-ruta-completa).
+[Visit Sweden](https://www.visitsweden.com) tiene guías detalladas sobre el archipiélago de la costa sueca occidental, perfecto para excursiones desde la ciudad. Gotemburgo es también el punto de partida natural de una [ruta por Escandinavia](/es/blog/escandinavia-ruta-completa/).
 
 ## Vasastan: Central y verde
 
@@ -112,6 +112,6 @@ El mercado de pescado Feskekörka ("la Iglesia del Pescado"), el parque de atrac
 ---
 
 ## Más artículos
-- [Escandinavia: La ruta completa](/es/blog/escandinavia-ruta-completa)
-- [Dónde alojarse en Estocolmo: Los mejores barrios](/es/blog/donde-alojarse-estocolmo)
-- [Los mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa)
+- [Escandinavia: La ruta completa](/es/blog/escandinavia-ruta-completa/)
+- [Dónde alojarse en Estocolmo: Los mejores barrios](/es/blog/donde-alojarse-estocolmo/)
+- [Los mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa/)

@@ -68,6 +68,6 @@ Pierogi (filled dumplings, sweet and savory), Bigos (hunter's stew), Żurek (sou
 ---
 
 **Read more:**
-- [Balkan Road Trip Route: Highlights and Tips](/en/blog/balkan-road-trip-route)
-- [Scandinavia Road Trip Route](/en/blog/scandinavia-road-trip-route)
-- [Train vs. Plane in Europe 2026](/en/blog/train-vs-plane-europe-2026)
+- [Balkan Road Trip Route: Highlights and Tips](/en/blog/balkan-road-trip-route/)
+- [Scandinavia Road Trip Route](/en/blog/scandinavia-road-trip-route/)
+- [Train vs. Plane in Europe 2026](/en/blog/train-vs-plane-europe-2026/)

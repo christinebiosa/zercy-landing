@@ -85,6 +85,6 @@ La tarifa no reembolsable es más barata (generalmente 10-20%) pero si cancelas 
 ---
 
 **Más para leer:**
-- [Booking Genius: ¿vale la pena el programa de fidelidad?](/es/blog/booking-genius-vale-la-pena)
-- [Apartamento vs hotel: cuál elegir según el viaje](/es/blog/apartamento-vs-hotel-cual-elegir)
-- [Seguro de viaje: cuándo vale la pena contratarlo](/es/blog/seguro-viaje-vale-la-pena)
+- [Booking Genius: ¿vale la pena el programa de fidelidad?](/es/blog/booking-genius-vale-la-pena/)
+- [Apartamento vs hotel: cuál elegir según el viaje](/es/blog/apartamento-vs-hotel-cual-elegir/)
+- [Seguro de viaje: cuándo vale la pena contratarlo](/es/blog/seguro-viaje-vale-la-pena/)

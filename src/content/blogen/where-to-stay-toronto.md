@@ -94,6 +94,6 @@ The Toronto Transit Commission (TTC) covers most tourist destinations. The subwa
 ---
 
 **Read more:**
-- [Where to Stay in New York: Manhattan or Brooklyn?](/en/blog/where-to-stay-new-york)
-- [Where to Stay in Miami: South Beach or Wynwood?](/en/blog/where-to-stay-miami)
-- [Where to Stay in Los Angeles: Downtown or Santa Monica?](/en/blog/where-to-stay-los-angeles)
+- [Where to Stay in New York: Manhattan or Brooklyn?](/en/blog/where-to-stay-new-york/)
+- [Where to Stay in Miami: South Beach or Wynwood?](/en/blog/where-to-stay-miami/)
+- [Where to Stay in Los Angeles: Downtown or Santa Monica?](/en/blog/where-to-stay-los-angeles/)

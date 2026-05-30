@@ -26,7 +26,7 @@ From Trondheim in Norway down to Santiago de Compostela. If you know the classic
 **EuroVelo 6: Loire Valley section**
 The Loire Valley between Nevers and Saint-Nazaire is flat, well-signposted, and culturally rich. Castles, vineyards, small villages. The French call this stretch "La Loire à Vélo" and have invested heavily in it for years. For first-time cycle tourers, this section is a strong choice.
 
-Also worth checking out before you go: our guide to [what actually goes in your travel bag](/en/blog/travel-packing-list-essentials) to help you trim the load before you saddle up.
+Also worth checking out before you go: our guide to [what actually goes in your travel bag](/en/blog/travel-packing-list-essentials/) to help you trim the load before you saddle up.
 
 ## When is the best time of year for a cycling holiday in Europe?
 
@@ -44,7 +44,7 @@ Panniers, not a backpack. Riding with a backpack means a sweaty back and aching 
 
 What you need: three jerseys (two for riding, one for evenings), two pairs of cycling shorts, a lightweight rain jacket, tyre repair kit, spare inner tube, sunscreen. What you can leave behind: more than one pair of casual shoes, heavy paperback books (an e-reader is fine), bulky sleeping bags if you're staying in guesthouses throughout.
 
-If you plan to mix cycling with camping nights, our [camping guide for Europe](/en/blog/camping-europe-guide) has solid advice on keeping your camping kit light.
+If you plan to mix cycling with camping nights, our [camping guide for Europe](/en/blog/camping-europe-guide/) has solid advice on keeping your camping kit light.
 
 ## Where do you stay on a cycling route?
 
@@ -52,9 +52,9 @@ Cycling-friendly accommodation is common along the major EuroVelo routes. Many g
 
 For the budget: a night in a cycling guesthouse runs between 25 and 45 euros for a single room. Add meals, snacks, and occasional ferry crossings, and the 30 to 60 euro daily range is very achievable. Shopping at local supermarkets instead of eating every meal in a restaurant keeps costs firmly at the lower end.
 
-Ferries are part of the picture on some routes. The Danube route includes several river crossings, and some riders use ferry connections to skip sections or link routes. Our [ferry travel guide for Europe](/en/blog/ferry-travel-europe-guide) explains how to fit these into your itinerary.
+Ferries are part of the picture on some routes. The Danube route includes several river crossings, and some riders use ferry connections to skip sections or link routes. Our [ferry travel guide for Europe](/en/blog/ferry-travel-europe-guide/) explains how to fit these into your itinerary.
 
-If you're thinking about combining a cycling trip with some hiking, the [trekking guide for beginners](/en/blog/trekking-beginners-guide-worldwide) covers the basics of longer multi-day tours on foot.
+If you're thinking about combining a cycling trip with some hiking, the [trekking guide for beginners](/en/blog/trekking-beginners-guide-worldwide/) covers the basics of longer multi-day tours on foot.
 
 ---
 
@@ -84,6 +84,6 @@ Most long-distance trains in Europe carry bikes for a small fee. Deutsche Bahn, 
 
 ## Read more
 
-- [Camping in Europe: The Complete Travel Guide](/en/blog/camping-europe-guide)
-- [Ferry Travel in Europe: What You Need to Know](/en/blog/ferry-travel-europe-guide)
-- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials)
+- [Camping in Europe: The Complete Travel Guide](/en/blog/camping-europe-guide/)
+- [Ferry Travel in Europe: What You Need to Know](/en/blog/ferry-travel-europe-guide/)
+- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials/)

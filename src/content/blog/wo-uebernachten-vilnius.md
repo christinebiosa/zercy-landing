@@ -49,7 +49,7 @@ Das klingt nach Touristengimmick. Ist es nicht. Hier wohnen echte Künstler, Gal
 
 **Top-Picks:** Domus Maria (Klosterpension, ruhig, außergewöhnlich günstig für die Lage), Residence Vilnius (moderne Apartments im Künstlerviertel), B&B Senoji Užupis (kleines Gästehaus, sehr persönlich).
 
-Wer den Baltikum-Rundtrip plant und auch Tallinn besucht, findet im [Stadtführer Tallinn](/blog/wo-uebernachten-tallinn) ähnliche Empfehlungen für die mittelalterliche Altstadt der estnischen Hauptstadt.
+Wer den Baltikum-Rundtrip plant und auch Tallinn besucht, findet im [Stadtführer Tallinn](/blog/wo-uebernachten-tallinn/) ähnliche Empfehlungen für die mittelalterliche Altstadt der estnischen Hauptstadt.
 
 ## Wann ist die beste Reisezeit für Vilnius?
 
@@ -67,7 +67,7 @@ Naujamiestis bedeutet Neustadt. Gebaut Ende des 19. Jahrhunderts, heute das Vier
 
 **Top-Picks:** Novotel Vilnius Centre (gut angebunden, verlässliche Qualität), Congress Hotel Vilnius (zentral am Gedimino-Boulevard), Ibis Budget (günstigste verlässliche Option im Viertel).
 
-Wer Vilnius mit Riga kombiniert, findet im [Stadtführer Riga](/blog/wo-uebernachten-riga) die komplette Neighbourhood-Übersicht der lettischen Hauptstadt.
+Wer Vilnius mit Riga kombiniert, findet im [Stadtführer Riga](/blog/wo-uebernachten-riga/) die komplette Neighbourhood-Übersicht der lettischen Hauptstadt.
 
 ## Žvėrynas: Ruhiges Vilnius
 
@@ -98,7 +98,7 @@ Für Vilnius ist [Booking.com](https://www.booking.com) die beste Plattform:
 - Preise in Euro transparent, keine Währungsüberraschung
 - Stadtsteuer meist vorab ausgewiesen
 
-Wer eine Baltikum-Runde plant, sollte Tallinn, Riga und Vilnius als Block buchen. Günstigste Kombination: Fliegen nach Vilnius, Zug oder Bus nach Riga, Fliegen zurück von Tallinn. Für den Zug zwischen den Städten liefert der [Zugreisen Europa Guide](/blog/zugreisen-europa) die relevanten Verbindungsinfos.
+Wer eine Baltikum-Runde plant, sollte Tallinn, Riga und Vilnius als Block buchen. Günstigste Kombination: Fliegen nach Vilnius, Zug oder Bus nach Riga, Fliegen zurück von Tallinn. Für den Zug zwischen den Städten liefert der [Zugreisen Europa Guide](/blog/zugreisen-europa/) die relevanten Verbindungsinfos.
 
 ---
 
@@ -125,6 +125,6 @@ Užupis hat 1997 seine Unabhängigkeit von Litauen erklärt. Die Verfassung der 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tallinn: Die 5 Stadtteile](/blog/wo-uebernachten-tallinn)
-- [Wo übernachten in Riga: Die 5 Stadtteile](/blog/wo-uebernachten-riga)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
+- [Wo übernachten in Tallinn: Die 5 Stadtteile](/blog/wo-uebernachten-tallinn/)
+- [Wo übernachten in Riga: Die 5 Stadtteile](/blog/wo-uebernachten-riga/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)

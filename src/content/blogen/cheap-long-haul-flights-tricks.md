@@ -20,7 +20,7 @@ The price spread on long-haul routes can be extreme. For Frankfurt to Bangkok, t
 
 This is the best-known trick for European travelers and it still works well. Airlines calculate taxes and fees differently depending on the departure country. Germany, Austria, and Switzerland carry relatively high departure charges. Thailand, Singapore, or Brazil apply much lower fees.
 
-The principle: instead of booking Frankfurt to Bangkok, you book Bangkok-Frankfurt-Bangkok and board the flight in Bangkok. You pay Thai departure charges on the entire ticket, which makes the Frankfurt-Bangkok leg available from around €380 instead of over €700. The ticket is valid. You simply use the return leg as your outbound flight. The outbound portion you don't use just sits unused. Read the full breakdown in the [Ex-EU routing guide](/en/blog/ex-eu-routing-cheaper-flights).
+The principle: instead of booking Frankfurt to Bangkok, you book Bangkok-Frankfurt-Bangkok and board the flight in Bangkok. You pay Thai departure charges on the entire ticket, which makes the Frankfurt-Bangkok leg available from around €380 instead of over €700. The ticket is valid. You simply use the return leg as your outbound flight. The outbound portion you don't use just sits unused. Read the full breakdown in the [Ex-EU routing guide](/en/blog/ex-eu-routing-cheaper-flights/).
 
 Real price examples from practice:
 
@@ -55,7 +55,7 @@ Most people know budget carriers for European hops. Long-haul has its own low-co
 
 **Scoot** (the Singapore Airlines low-cost arm) flies from Singapore to Athens in Europe and to many destinations across Asia. Ideal for anything east of India.
 
-The trade-off with these carriers: luggage costs extra, missed connections are your problem, and service is minimal. For short trips or solo travelers with carry-on only, they are often the best value. Check the [when to book guide](/en/blog/when-to-book-flights) for timing these purchases correctly.
+The trade-off with these carriers: luggage costs extra, missed connections are your problem, and service is minimal. For short trips or solo travelers with carry-on only, they are often the best value. Check the [when to book guide](/en/blog/when-to-book-flights/) for timing these purchases correctly.
 
 ## How Does the Splitticket Strategy Work on Long-Haul?
 
@@ -63,13 +63,13 @@ Splitticket means booking outbound and return on different airlines, sometimes w
 
 Example: Frankfurt to Sydney. Standard connections or through-tickets cost upward of €1,400 quickly. With a split approach, take a cheap Frankfurt to Singapore flight (Scoot or Singapore Airlines, around €400), then a separate Singapore to Sydney ticket (around €250). Total: €650.
 
-The risk: if your first flight is delayed, the second is not automatically rebooked. Build in a generous layover, at minimum four to five hours. Use [Google Flights](https://www.google.com/travel/flights) with flexible date grids to identify the cheapest combinations. The [Google Flights tips guide](/en/blog/google-flights-tips-tricks-2026) covers the full method.
+The risk: if your first flight is delayed, the second is not automatically rebooked. Build in a generous layover, at minimum four to five hours. Use [Google Flights](https://www.google.com/travel/flights) with flexible date grids to identify the cheapest combinations. The [Google Flights tips guide](/en/blog/google-flights-tips-tricks-2026/) covers the full method.
 
 ## When Is a Round-the-World Ticket Cheaper Than Individual Bookings?
 
 RTW tickets sound like a luxury product. Sometimes they aren't. Travelers combining multiple long-haul segments in one trip, say Frankfurt to New York, then New York to Tokyo, then Tokyo to Sydney, then Sydney to Frankfurt, pay €3,000 to €5,000 for individual tickets without much difficulty.
 
-Star Alliance and oneworld offer RTW tickets with fixed mileage or route-count packages. With well-chosen routing, four intercontinental legs cost €2,000 to €2,800. The math works from three continental jumps upward. Below two long-haul segments, it doesn't make sense. The [round-the-world ticket guide](/en/blog/round-the-world-ticket-guide) covers how to structure the routing.
+Star Alliance and oneworld offer RTW tickets with fixed mileage or route-count packages. With well-chosen routing, four intercontinental legs cost €2,000 to €2,800. The math works from three continental jumps upward. Below two long-haul segments, it doesn't make sense. The [round-the-world ticket guide](/en/blog/round-the-world-ticket-guide/) covers how to structure the routing.
 
 ## How Do You Find Cheap Long-Haul Flights Systematically?
 
@@ -79,7 +79,7 @@ Combine this with the right booking window. For long-haul flights, the sweet spo
 
 For systematic searching, use [ITA Matrix](https://matrix.itasoftware.com) or Google Flights with the price grid. Both surfaces combinations that standard OTAs hide because of commission structures.
 
-For connections using alliance partners, the [airline alliances guide](/en/blog/round-the-world-ticket-guide) explains which partner carriers consistently offer better prices within the same alliance itinerary.
+For connections using alliance partners, the [airline alliances guide](/en/blog/round-the-world-ticket-guide/) explains which partner carriers consistently offer better prices within the same alliance itinerary.
 
 ---
 
@@ -103,6 +103,6 @@ An RTW ticket makes financial sense from three intercontinental long-haul segmen
 
 ## Read more
 
-- [Ex-EU Routing: How the trick works and what it saves you](/en/blog/ex-eu-routing-cheaper-flights)
-- [Round-the-World Ticket: When it's worth it and what it costs](/en/blog/round-the-world-ticket-guide)
-- [Google Flights: Tricks for finding cheap long-haul flights in 2026](/en/blog/google-flights-tips-tricks-2026)
+- [Ex-EU Routing: How the trick works and what it saves you](/en/blog/ex-eu-routing-cheaper-flights/)
+- [Round-the-World Ticket: When it's worth it and what it costs](/en/blog/round-the-world-ticket-guide/)
+- [Google Flights: Tricks for finding cheap long-haul flights in 2026](/en/blog/google-flights-tips-tricks-2026/)

@@ -69,6 +69,6 @@ Die Nine Arch Bridge ist zu Fuß in 20 bis 30 Minuten von Ella Town erreichbar. 
 
 ## Mehr lesen
 
-- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights)
-- [Südostasien Budget-Reisen](/blog/suedostasien-budget-reisen)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights/)
+- [Südostasien Budget-Reisen](/blog/suedostasien-budget-reisen/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

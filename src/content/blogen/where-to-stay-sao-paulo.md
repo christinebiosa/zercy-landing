@@ -44,7 +44,7 @@ The best time depends on events. March and April bring São Paulo Art Week, the 
 
 Rainy season runs December through March. Short, intense afternoon thunderstorms. No problem for city exploration as long as you plan with flexibility.
 
-For Brazil trips, São Paulo pairs naturally with [Where to Stay in Rio de Janeiro](/en/blog/where-to-stay-rio-de-janeiro).
+For Brazil trips, São Paulo pairs naturally with [Where to Stay in Rio de Janeiro](/en/blog/where-to-stay-rio-de-janeiro/).
 
 ## Vila Madalena: Art, Street Murals, Nightlife
 
@@ -105,6 +105,6 @@ Three days covers the highlights: Avenida Paulista, MASP, Beco do Batman, Ibirap
 ---
 
 **Read more:**
-- [Where to Stay in Rio de Janeiro: Ipanema, Copacabana or Santa Teresa?](/en/blog/where-to-stay-rio-de-janeiro)
-- [Where to Stay in Buenos Aires: Palermo, Recoleta or San Telmo?](/en/blog/where-to-stay-buenos-aires)
-- [Where to Stay in Medellin: El Poblado and the Alternatives](/en/blog/where-to-stay-medellin)
+- [Where to Stay in Rio de Janeiro: Ipanema, Copacabana or Santa Teresa?](/en/blog/where-to-stay-rio-de-janeiro/)
+- [Where to Stay in Buenos Aires: Palermo, Recoleta or San Telmo?](/en/blog/where-to-stay-buenos-aires/)
+- [Where to Stay in Medellin: El Poblado and the Alternatives](/en/blog/where-to-stay-medellin/)

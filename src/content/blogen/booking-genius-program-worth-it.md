@@ -92,6 +92,6 @@ Genius is not a points currency but direct percentage discounts and service upgr
 ---
 
 **Read more:**
-- [Cheap flights tips: When and where you save the most](/en/blog/cheap-flights-tips)
-- [Booking.com apartments vs Airbnb: Which is better?](/en/blog/booking-apartments-vs-airbnb)
-- [Rental car hidden costs to avoid](/en/blog/rental-car-hidden-costs-avoid)
+- [Cheap flights tips: When and where you save the most](/en/blog/cheap-flights-tips/)
+- [Booking.com apartments vs Airbnb: Which is better?](/en/blog/booking-apartments-vs-airbnb/)
+- [Rental car hidden costs to avoid](/en/blog/rental-car-hidden-costs-avoid/)

@@ -28,17 +28,17 @@ Un consejo importante: no aprendas en vacaciones con el tiempo encima. Si puedes
 
 Aguas cálidas o frías, arrecifes de colores, paredes oceánicas, naufragios. Hay mucho donde elegir. Estos son los destinos que los buceadores recomiendan una y otra vez.
 
-**Mar Rojo, Egipto.** El mejor punto de partida para la mayoría. Agua cálida todo el año, visibilidad excelente, corales vibrantes y vuelos accesibles. Hurghada y Sharm el-Sheikh tienen una infraestructura de buceo muy desarrollada. Una semana con todo incluido, inmersiones guiadas y alquiler de equipo parte desde unos 800 euros. Más detalles en la [guía de viaje a Egipto](/es/blog/egipto-guia-viaje-highlights).
+**Mar Rojo, Egipto.** El mejor punto de partida para la mayoría. Agua cálida todo el año, visibilidad excelente, corales vibrantes y vuelos accesibles. Hurghada y Sharm el-Sheikh tienen una infraestructura de buceo muy desarrollada. Una semana con todo incluido, inmersiones guiadas y alquiler de equipo parte desde unos 800 euros. Más detalles en la [guía de viaje a Egipto](/es/blog/egipto-guia-viaje-highlights/).
 
 **Islas Similan, Tailandia.** Uno de los mejores sitios de buceo en el sudeste asiático. Formaciones de roca submarina, tiburones ballena, mantas y jardines de coral en perfecto estado. La temporada va de noviembre a abril. Fuera de ese período, el parque nacional permanece cerrado. La mayoría de los buceadores llegan desde Phuket, muchos en liveaboard.
 
 **Galápagos, Ecuador.** No es para principiantes. Pero si tienes experiencia, no hay nada igual. Tiburones martillo en cardúmenes, iguanas marinas, lobos de mar, Mola mola. Agua fría, corrientes fuertes, precios altos. Quienes han buceado allí lo recuerdan de por vida.
 
-**Komodo, Indonesia.** Corrientes intensas, enormes rayas manta y arrecifes llenos de color. Komodo premia a los buceadores con experiencia en corriente. Se puede combinar con un itinerario más amplio por Indonesia; consulta la [guía de viaje a Indonesia](/es/blog/indonesia-guia-viaje-highlights) para planificar el resto del viaje.
+**Komodo, Indonesia.** Corrientes intensas, enormes rayas manta y arrecifes llenos de color. Komodo premia a los buceadores con experiencia en corriente. Se puede combinar con un itinerario más amplio por Indonesia; consulta la [guía de viaje a Indonesia](/es/blog/indonesia-guia-viaje-highlights/) para planificar el resto del viaje.
 
 **Gran Barrera de Belice.** La segunda barrera de coral más grande del mundo. El Gran Agujero Azul es uno de los sitios de buceo más famosos del planeta. Agua caribeña cálida, ambiente relajado y vida marina diversa. Apto para todos los niveles.
 
-Si quieres conocer más destinos para bucear y hacer snórkel, lee [Buceo y Snórkel: Los Mejores Destinos](/es/blog/buceo-snorkel-destinos-2026).
+Si quieres conocer más destinos para bucear y hacer snórkel, lee [Buceo y Snórkel: Los Mejores Destinos](/es/blog/buceo-snorkel-destinos-2026/).
 
 ## ¿Liveaboard o resort de buceo?
 
@@ -62,7 +62,7 @@ El buceo tiene fama de ser caro. Es cierto en el extremo alto. Pero el punto de 
 
 **Tu propia máscara y aletas:** Vale la pena tenerlas. Las máscaras de alquiler rara vez encajan bien y han sido usadas por mucha gente. Las tuyas ajustan mejor, son más cómodas y mucho más higiénicas. El regulador y el BCD los puedes alquilar sin problema en casi cualquier destino.
 
-**Seguro de viaje para buceadores:** No es opcional. Un seguro de viaje estándar no cubre accidentes de buceo. Necesitas una póliza que incluya el tratamiento de la enfermedad por descompresión y el acceso a cámaras hiperbáricas. La opción más reconocida en la comunidad de buceo es el **seguro DAN** (Divers Alert Network). Es asequible, ampliamente conocido y diseñado específicamente para buceadores. Más información general sobre seguros de viaje en el artículo [Seguro de viaje: ¿Vale la pena?](/es/blog/seguro-viaje-vale-la-pena).
+**Seguro de viaje para buceadores:** No es opcional. Un seguro de viaje estándar no cubre accidentes de buceo. Necesitas una póliza que incluya el tratamiento de la enfermedad por descompresión y el acceso a cámaras hiperbáricas. La opción más reconocida en la comunidad de buceo es el **seguro DAN** (Divers Alert Network). Es asequible, ampliamente conocido y diseñado específicamente para buceadores. Más información general sobre seguros de viaje en el artículo [Seguro de viaje: ¿Vale la pena?](/es/blog/seguro-viaje-vale-la-pena/).
 
 Planifica tu viaje de buceo completo con vuelos, alojamiento y presupuesto en un solo lugar con [Zercy](https://www.zercy.app). ¿Ya sabes a dónde vas? Agrega tus destinos de buceo al [diario de viaje de Zercy](https://www.zercy.app/logbook).
 
@@ -89,6 +89,6 @@ La máscara y las aletas siempre valen la pena. Una máscara que ajusta bien mej
 ---
 
 **Seguir leyendo:**
-- [Buceo y Snórkel: Los Mejores Destinos](/es/blog/buceo-snorkel-destinos-2026)
-- [Egipto Guía de Viaje: Highlights y Consejos](/es/blog/egipto-guia-viaje-highlights)
-- [Seguro de Viaje: ¿Vale la Pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
+- [Buceo y Snórkel: Los Mejores Destinos](/es/blog/buceo-snorkel-destinos-2026/)
+- [Egipto Guía de Viaje: Highlights y Consejos](/es/blog/egipto-guia-viaje-highlights/)
+- [Seguro de Viaje: ¿Vale la Pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)

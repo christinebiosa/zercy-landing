@@ -77,6 +77,6 @@ Palermo ist eine der wenigen europäischen Städte, in denen arabische, normanni
 
 ## Mehr lesen
 
-- [Wo übernachten in Rom](/blog/wo-uebernachten-rom)
-- [Wo übernachten in Bologna](/blog/wo-uebernachten-bologna)
-- [Wo übernachten in Marseille](/blog/wo-uebernachten-marseille)
+- [Wo übernachten in Rom](/blog/wo-uebernachten-rom/)
+- [Wo übernachten in Bologna](/blog/wo-uebernachten-bologna/)
+- [Wo übernachten in Marseille](/blog/wo-uebernachten-marseille/)

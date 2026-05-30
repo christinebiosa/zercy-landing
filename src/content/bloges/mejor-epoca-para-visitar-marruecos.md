@@ -31,7 +31,7 @@ Marrakech, Fez, Rabat y Meknes tienen un clima continental: veranos muy caluroso
 
 **Invierno (diciembre-febrero)** en Marrakech es soleado durante el día, con noches que bajan a 5-8 grados. Precios más bajos y medinas menos saturadas. Una opción válida si no te importa la chaqueta.
 
-Para el alojamiento en Marrakech, la guía de [riads en Marruecos](/es/blog/riads-marruecos-guia) explica qué barrios elegir y qué esperar. Y [dónde alojarse en Marrakech](/es/blog/donde-alojarse-marrakech) cubre los distintos barrios con precios reales.
+Para el alojamiento en Marrakech, la guía de [riads en Marruecos](/es/blog/riads-marruecos-guia/) explica qué barrios elegir y qué esperar. Y [dónde alojarse en Marrakech](/es/blog/donde-alojarse-marrakech/) cubre los distintos barrios con precios reales.
 
 ## ¿Cuándo es mejor visitar el desierto del Sahara?
 
@@ -41,7 +41,7 @@ El Sahara marroquí, con las dunas de Erg Chebbi cerca de Merzouga, tiene sus pr
 
 **Julio y agosto** son otra historia. Los termómetros superan los 45 grados. Los tours en camello se cancelan o se hacen de noche. No es la época para esta parte del país.
 
-Si tu viaje incluye una ruta en coche desde Marrakech hasta Merzouga, la guía de [road trip por Marruecos](/es/blog/road-trip-marruecos) tiene los tramos y tiempos de conducción reales.
+Si tu viaje incluye una ruta en coche desde Marrakech hasta Merzouga, la guía de [road trip por Marruecos](/es/blog/road-trip-marruecos/) tiene los tramos y tiempos de conducción reales.
 
 ## ¿Cuándo viajar a la costa atlántica y mediterránea?
 
@@ -51,7 +51,7 @@ La costa atlántica, con Agadir y Essaouira, tiene un clima más moderado gracia
 
 **Agadir** tiene temporada de playa larga, de abril a octubre. La costa mediterránea, menos masificada que el sur de España, funciona bien de mayo a septiembre.
 
-Para combinar ciudades imperiales y costa, la guía de [ciudades de Marruecos](/es/blog/marruecos-ciudades-guia) tiene itinerarios con los tiempos reales.
+Para combinar ciudades imperiales y costa, la guía de [ciudades de Marruecos](/es/blog/marruecos-ciudades-guia/) tiene itinerarios con los tiempos reales.
 
 ## ¿Cuándo es más barato Marruecos?
 
@@ -81,6 +81,6 @@ En diciembre el desierto del Sahara tiene días agradables de 18-22°C y noches 
 
 ## Más información
 
-- [Road trip por Marruecos: ruta completa](/es/blog/road-trip-marruecos)
-- [Riads en Marruecos: guía para elegir bien](/es/blog/riads-marruecos-guia)
-- [Ciudades de Marruecos: guía de viaje](/es/blog/marruecos-ciudades-guia)
+- [Road trip por Marruecos: ruta completa](/es/blog/road-trip-marruecos/)
+- [Riads en Marruecos: guía para elegir bien](/es/blog/riads-marruecos-guia/)
+- [Ciudades de Marruecos: guía de viaje](/es/blog/marruecos-ciudades-guia/)

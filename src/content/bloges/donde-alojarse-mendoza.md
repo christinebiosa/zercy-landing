@@ -45,7 +45,7 @@ La ciudad misma tiene 1 millón de habitantes con la Plaza Independencia como co
 
 **Top picks:** Cavas Wine Lodge - Relais & Châteaux (casitas legendarias con piscinas privadas), Algodon Wine Estates (5 estrellas con golf y polo), The Vines Resort & Spa (premium con spa entre viñedos).
 
-Lee también nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires), Mendoza está a 2 horas de vuelo desde BA y es una combinación perfecta.
+Lee también nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires/), Mendoza está a 2 horas de vuelo desde BA y es una combinación perfecta.
 
 ## ¿Cuándo es la mejor época para visitar Mendoza?
 
@@ -119,6 +119,6 @@ Mochilero: 900-1.300 USD por persona incl. vuelo (hostal en la ciudad, bife loca
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Cusco: 4 barrios](/es/blog/donde-alojarse-cusco)
-- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima)
+- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Cusco: 4 barrios](/es/blog/donde-alojarse-cusco/)
+- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima/)

@@ -24,7 +24,7 @@ Das [Booking Genius-Programm](https://www.booking.com/genius.html) ist ein echte
 
 Der Unterschied zu Level 1 ist spürbar. Level 1 gibt dir Rabatte bei einem kleineren Sortiment. Level 2 öffnet die meisten teilnehmenden Hotels. Der Trick: Die Genius-Rabatte sind oft nicht öffentlich sichtbar. Du siehst sie erst nach dem Login. Nie ohne Konto suchen, wenn du Genius-Status hast.
 
-Mehr dazu im Artikel über [Hotel-Treueprogramme im Vergleich](/blog/hotel-treueprogramm-lohnt-sich).
+Mehr dazu im Artikel über [Hotel-Treueprogramme im Vergleich](/blog/hotel-treueprogramm-lohnt-sich/).
 
 ## Wann direktes Buchen günstiger ist als Booking.com?
 
@@ -34,7 +34,7 @@ Wie findest du das heraus? Buche das Hotel auf Booking vor, aber leg es nicht fe
 
 Das funktioniert besonders gut bei unabhängigen Boutique-Hotels und kleinen Familienhotels. Große Ketten wie Hilton oder Marriott haben oft eigene Best-Price-Garantien auf ihrer Website. Diese direkt zu prüfen lohnt sich.
 
-Einen ausführlichen Vergleich der Methoden findest du in unserem Guide zu [Booking vs. direktes Buchen](/blog/booking-vs-direkt-buchen).
+Einen ausführlichen Vergleich der Methoden findest du in unserem Guide zu [Booking vs. direktes Buchen](/blog/booking-vs-direkt-buchen/).
 
 ## Welche Rate-Typen du verstehen musst: refundable vs. non-refundable
 
@@ -52,7 +52,7 @@ Nicht immer zeigen beide Portale denselben Preis. Das liegt an unterschiedlichen
 
 Vergleiche beide Plattformen immer für dasselbe Datum und Zimmertyp. Das dauert zwei Minuten und kann 20 bis 40 Euro sparen. Nutze dafür einen Inkognito-Tab, damit keine gecachten Preise stören.
 
-Einen direkten Vergleich beider Portale gibt es in unserem Artikel über [Hotel-Kategorien und was sie wirklich bedeuten](/blog/hotel-kategorien-erklaert).
+Einen direkten Vergleich beider Portale gibt es in unserem Artikel über [Hotel-Kategorien und was sie wirklich bedeuten](/blog/hotel-kategorien-erklaert/).
 
 ## Wie funktioniert Last-Minute-Buchung mit HotelTonight?
 
@@ -80,7 +80,7 @@ Zweitens: Für Upgrades. Die beste Zeit für eine Upgrade-Anfrage ist check-in-n
 
 Sag konkret: "Gibt es ein Zimmer mit besserer Aussicht oder einem höheren Stockwerk, das heute Nacht frei bleibt?" Ein freundlicher, direkter Ton hilft mehr als Schmeichelei.
 
-Mehr Upgrade-Strategien findest du im Artikel [Airbnb vs. Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich).
+Mehr Upgrade-Strategien findest du im Artikel [Airbnb vs. Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich/).
 
 ---
 
@@ -108,6 +108,6 @@ Frag direkt beim Check-in, höflich und konkret. "Ist noch ein Zimmer im höhere
 
 ## Mehr lesen
 
-- [Was direktes Buchen bringt und wann es sich nicht lohnt](/blog/booking-vs-direkt-buchen)
-- [Hotel-Kategorien erklärt: Was 3, 4 und 5 Sterne wirklich bedeuten](/blog/hotel-kategorien-erklaert)
-- [Airbnb vs. Hotel: Was lohnt sich für wen?](/blog/airbnb-vs-hotel-vergleich)
+- [Was direktes Buchen bringt und wann es sich nicht lohnt](/blog/booking-vs-direkt-buchen/)
+- [Hotel-Kategorien erklärt: Was 3, 4 und 5 Sterne wirklich bedeuten](/blog/hotel-kategorien-erklaert/)
+- [Airbnb vs. Hotel: Was lohnt sich für wen?](/blog/airbnb-vs-hotel-vergleich/)

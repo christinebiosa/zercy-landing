@@ -16,7 +16,7 @@ Si siempre has soñado con ver los fuegos artificiales sobre el puerto de Sídne
 
 Hay siete lugares que se destacan de todo lo demás.
 
-**Sídney** es la capital mundial de Nochevieja sin discusión. Los fuegos artificiales sobre el Puente Harbour y la Ópera son genuinamente únicos en su categoría. Dos espectáculos: uno familiar a las 9 de la noche, y el grande a medianoche. El problema: los hoteles cuestan entre tres y cinco veces su precio normal. La gente reserva con un año de anticipación, y hacen bien. Para entender cómo funciona este mercado en otros destinos similares, consulta nuestra guía sobre [dónde alojarse en Nueva York](/es/blog/donde-alojarse-nueva-york).
+**Sídney** es la capital mundial de Nochevieja sin discusión. Los fuegos artificiales sobre el Puente Harbour y la Ópera son genuinamente únicos en su categoría. Dos espectáculos: uno familiar a las 9 de la noche, y el grande a medianoche. El problema: los hoteles cuestan entre tres y cinco veces su precio normal. La gente reserva con un año de anticipación, y hacen bien. Para entender cómo funciona este mercado en otros destinos similares, consulta nuestra guía sobre [dónde alojarse en Nueva York](/es/blog/donde-alojarse-nueva-york/).
 
 **Nueva York** en Times Square es icónico. Pero la realidad es multitudes, frío intenso y sin posibilidad de salir una vez que estás adentro. La mejor alternativa: bares en azoteas y eventos privados con vistas panorámicas de Manhattan, sin necesidad de llegar al mediodía para conseguir un buen lugar. Los precios son altos en general, pero hay opciones para todos los presupuestos.
 
@@ -24,7 +24,7 @@ Hay siete lugares que se destacan de todo lo demás.
 
 **Hogmanay de Edimburgo** es para quienes quieren la Nochevieja como experiencia de varios días. La celebración de Año Nuevo de Escocia dura tres días: procesión de antorchas, conciertos, fiestas callejeras y la famosa tradición del First Footing. El castillo como telón de fondo hace que cada foto parezca irreal.
 
-**Berlín** es la respuesta de los viajeros con presupuesto ajustado que no quieren sacrificar el espectáculo. La fiesta de la Puerta de Brandemburgo es gratuita. Sin entradas, sin reservas. Solo aparecer. Cientos de miles de personas, escenarios con DJs y fuegos artificiales visibles desde toda la ciudad. Más consejos sobre planificación en nuestra guía de [viajes a festivales](/es/blog/viaje-festivales-guia).
+**Berlín** es la respuesta de los viajeros con presupuesto ajustado que no quieren sacrificar el espectáculo. La fiesta de la Puerta de Brandemburgo es gratuita. Sin entradas, sin reservas. Solo aparecer. Cientos de miles de personas, escenarios con DJs y fuegos artificiales visibles desde toda la ciudad. Más consejos sobre planificación en nuestra guía de [viajes a festivales](/es/blog/viaje-festivales-guia/).
 
 **Bangkok** combina calor, accesibilidad económica y drama visual real. Varios eventos simultáneos en toda la ciudad, celebraciones junto al río y precios de hotel que se mantienen razonables incluso el 31 de diciembre. Un argumento sólido para que el sudeste asiático sea la mejor región del mundo para celebrar Nochevieja con buen presupuesto.
 
@@ -38,7 +38,7 @@ Oferta y demanda, concentradas en una sola fecha del calendario. Los hoteles cer
 
 Lo que esto significa para tu planificación: reservar tarde significa pagar mucho más o no encontrar nada. Para los destinos más populares, seis meses de anticipación es el mínimo. Nueve o doce meses es más realista si quieres buenas opciones a precios razonables.
 
-Nuestra guía sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos) explica exactamente en qué momento suben los precios y cuándo desaparecen las ofertas.
+Nuestra guía sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) explica exactamente en qué momento suben los precios y cuándo desaparecen las ofertas.
 
 ## ¿Existen alternativas más económicas a las grandes ciudades?
 
@@ -51,7 +51,7 @@ Las ciudades más pequeñas celebran con la misma intensidad, sin la explosión 
 - **Chiang Mai en vez de Bangkok**: el festival de los farolillos alrededor de Año Nuevo crea algo verdaderamente mágico, más tranquilo y más económico
 - **Copenhague en vez de Edimburgo**: estilo escandinavo, entorno hermoso, sin toda la infraestructura de festival
 
-Si estás considerando Sudamérica para Nochevieja, nuestra [guía de viaje a Argentina](/es/blog/argentina-guia-viaje-highlights) tiene ideas más allá de las opciones obvias.
+Si estás considerando Sudamérica para Nochevieja, nuestra [guía de viaje a Argentina](/es/blog/argentina-guia-viaje-highlights/) tiene ideas más allá de las opciones obvias.
 
 ## ¿Cómo planificar bien un viaje de Nochevieja?
 
@@ -70,9 +70,9 @@ La web oficial de eventos de Nochevieja en Sídney tiene buena información sobr
 ---
 
 **Seguir leyendo:**
-- [Guía de viajes a festivales: Cómo planificar viajes alrededor de grandes eventos](/es/blog/viaje-festivales-guia)
-- [Cuándo reservar vuelos: La guía completa de precios](/es/blog/cuando-reservar-vuelos)
-- [Guía de viaje a Argentina: Highlights y consejos](/es/blog/argentina-guia-viaje-highlights)
+- [Guía de viajes a festivales: Cómo planificar viajes alrededor de grandes eventos](/es/blog/viaje-festivales-guia/)
+- [Cuándo reservar vuelos: La guía completa de precios](/es/blog/cuando-reservar-vuelos/)
+- [Guía de viaje a Argentina: Highlights y consejos](/es/blog/argentina-guia-viaje-highlights/)
 
 ---
 

@@ -36,7 +36,7 @@ Vietnam ist das richtige Land für Motorrad-Enthusiasten. Die Ho-Chi-Minh-Route 
 
 Das Englisch-Level ist in touristischen Gegenden gut, außerhalb davon nimmt der Komfort aber ab. Kein Problem für erfahrene Reisende, für Erstbesucher kann das gelegentlich herausfordernd sein. Die offizielle [Vietnam Tourism Plattform](https://vietnam.travel/) bietet gute Orientierung zu Regionen und Reiserouten.
 
-Kosten sind ein klarer Vietnam-Vorteil. Budget-Reisende kommen mit 30 bis 50 Euro pro Tag durch, inklusive Unterkunft, Essen und Transport. Thailand liegt zwischen 40 und 70 Euro täglich, je nach Reisestil und Region. Wer drei Wochen oder länger plant, merkt diesen Unterschied deutlich. Das gilt besonders für das Essen: Ein Pho-Bowl in Hanoi für 1,50 Euro ist keine Ausnahme. Wie du [Südostasien als Budget-Reise planst](/blog/suedostasien-budget-reisen), erklärt unser Guide mit allen Kostendetails.
+Kosten sind ein klarer Vietnam-Vorteil. Budget-Reisende kommen mit 30 bis 50 Euro pro Tag durch, inklusive Unterkunft, Essen und Transport. Thailand liegt zwischen 40 und 70 Euro täglich, je nach Reisestil und Region. Wer drei Wochen oder länger plant, merkt diesen Unterschied deutlich. Das gilt besonders für das Essen: Ein Pho-Bowl in Hanoi für 1,50 Euro ist keine Ausnahme. Wie du [Südostasien als Budget-Reise planst](/blog/suedostasien-budget-reisen/), erklärt unser Guide mit allen Kostendetails.
 
 ## Welche Reisezeit gilt für welches Land?
 
@@ -44,15 +44,15 @@ Thailand hat eine klare Trockenzeit: November bis März ist ideal für den Süde
 
 Vietnam ist komplizierter, weil das Land so lang ist. Der Norden hat eine Trockenzeit von November bis April, mit milden Temperaturen im Winter. Hoi An und die Zentralregion haben ihren besten Zeitraum ähnlich. Der Süden und Ho Chi Minh City sind das ganze Jahr warm, die Regenzeit dauert von Mai bis Oktober. Das Mekong-Delta hat seine stärkste Regenzeit von Juni bis November. Kurz: In Vietnam ist immer irgendwo gutes Wetter.
 
-Wer beide Länder kombinieren will, hat mit einem Open Jaw Flug die effizienteste Option. In Hanoi oder Ho Chi Minh City einreisen, nach Thailand weiterreisen, in Bangkok oder Phuket nach Hause fliegen, ohne denselben Weg zurück. Das spart Zeit, Kosten und erlaubt eine natürliche Route von Süden nach Norden oder umgekehrt. Was [Open Jaw Tickets sind und wie viel sie sparen](/blog/open-jaw-tickets-reise-hack), erklärt unser Artikel im Detail.
+Wer beide Länder kombinieren will, hat mit einem Open Jaw Flug die effizienteste Option. In Hanoi oder Ho Chi Minh City einreisen, nach Thailand weiterreisen, in Bangkok oder Phuket nach Hause fliegen, ohne denselben Weg zurück. Das spart Zeit, Kosten und erlaubt eine natürliche Route von Süden nach Norden oder umgekehrt. Was [Open Jaw Tickets sind und wie viel sie sparen](/blog/open-jaw-tickets-reise-hack/), erklärt unser Artikel im Detail.
 
 ## Wie findest du die günstigsten Flüge nach Südostasien?
 
 Beide Länder sind von Europa gut angebunden, aber die Preisunterschiede zwischen Buchungszeitpunkten sind erheblich. Die typische Spanne für Direktflüge nach Bangkok oder Ho Chi Minh City liegt bei 500 bis 900 Euro, abhängig von Saison und Vorlaufzeit.
 
-Für günstige Verbindungen lohnt sich die Flexible-Dates-Ansicht in [Google Flights](https://flights.google.com/). Der Preiskalender zeigt auf einen Blick, welche Tage im Monat günstiger sind. 30 bis 50 Euro Unterschied pro Ticket sind bei langen Verbindungen die Regel, nicht die Ausnahme. Mehr dazu in unserem [Google Flights Tricks und Tipps Guide](/blog/google-flights-tricks-tipps-2026).
+Für günstige Verbindungen lohnt sich die Flexible-Dates-Ansicht in [Google Flights](https://flights.google.com/). Der Preiskalender zeigt auf einen Blick, welche Tage im Monat günstiger sind. 30 bis 50 Euro Unterschied pro Ticket sind bei langen Verbindungen die Regel, nicht die Ausnahme. Mehr dazu in unserem [Google Flights Tricks und Tipps Guide](/blog/google-flights-tricks-tipps-2026/).
 
-Der [Flexible Dates Flug-Hack](/blog/flexible-dates-flug-hack) zeigt außerdem, wie du durch kleine Abweichungen vom Wunschdatum oft deutlich günstiger buchst.
+Der [Flexible Dates Flug-Hack](/blog/flexible-dates-flug-hack/) zeigt außerdem, wie du durch kleine Abweichungen vom Wunschdatum oft deutlich günstiger buchst.
 
 ---
 
@@ -80,6 +80,6 @@ Open Jaw fliegen: in ein Land rein, aus dem anderen raus. Die Route Hanoi/Ho Chi
 
 ## Mehr lesen
 
-- [Südostasien-Budgetreisen: Was eine Reise wirklich kostet](/blog/suedostasien-budget-reisen)
-- [Open Jaw Tickets: Der Reise-Hack für Rundreisen](/blog/open-jaw-tickets-reise-hack)
-- [Flexible Dates: So buchst du günstiger](/blog/flexible-dates-flug-hack)
+- [Südostasien-Budgetreisen: Was eine Reise wirklich kostet](/blog/suedostasien-budget-reisen/)
+- [Open Jaw Tickets: Der Reise-Hack für Rundreisen](/blog/open-jaw-tickets-reise-hack/)
+- [Flexible Dates: So buchst du günstiger](/blog/flexible-dates-flug-hack/)

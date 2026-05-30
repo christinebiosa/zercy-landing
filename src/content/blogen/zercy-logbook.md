@@ -8,7 +8,7 @@ readingTime: 4
 heroImage: "/img/blog/travel-journal.jpg"
 ---
 
-Zercy is not a booking portal. No price comparison, no forms, no tab chaos. Zercy is an AI travel advisor. You tell it where you want to go, and it finds real flights, hotels and connections with live prices. New to Zercy? [Start here](/en/blog/what-is-zercy).
+Zercy is not a booking portal. No price comparison, no forms, no tab chaos. Zercy is an AI travel advisor. You tell it where you want to go, and it finds real flights, hotels and connections with live prices. New to Zercy? [Start here](/en/blog/what-is-zercy/).
 
 Now there is something new. The **Zercy Logbook**.
 
@@ -42,7 +42,7 @@ The Zercy Logbook does not need a password. You enter your email address and rec
 
 Logging out does not delete any data. All your trips and bookings stay saved. The next time you log in via magic link, everything is right where you left it.
 
-If you already know [how to book flights cheaply](/en/blog/cheap-flights-tips), you can now also save time organizing everything after the booking.
+If you already know [how to book flights cheaply](/en/blog/cheap-flights-tips/), you can now also save time organizing everything after the booking.
 
 ## Why This Is Different
 
@@ -81,6 +81,6 @@ Your data is stored securely in the cloud. Logging out keeps all your trips inta
 ---
 
 Read more:
-- [What is Zercy? Your AI travel advisor explained](/en/blog/what-is-zercy)
-- [Cheap flights: The best tips](/en/blog/cheap-flights-tips)
-- [When should you book flights?](/en/blog/when-to-book-flights)
+- [What is Zercy? Your AI travel advisor explained](/en/blog/what-is-zercy/)
+- [Cheap flights: The best tips](/en/blog/cheap-flights-tips/)
+- [When should you book flights?](/en/blog/when-to-book-flights/)

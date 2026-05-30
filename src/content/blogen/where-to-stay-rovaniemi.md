@@ -43,7 +43,7 @@ These and 100+ Rovaniemi hotels are on [Booking.com](https://www.booking.com) wi
 
 **Summer:** Midnight sun from mid-May through late July. Canoe trips on the Kemijoki, hiking trails in Lapland. Tourism runs year-round, but winter remains the main draw.
 
-For the broader northern lights picture, check our [Northern Lights 2026 guide](/en/blog/northern-lights-2026-where-when-how).
+For the broader northern lights picture, check our [Northern Lights 2026 guide](/en/blog/northern-lights-2026-where-when-how/).
 
 ## Santa Claus Village: The Full Christmas Experience
 
@@ -77,7 +77,7 @@ Glass igloo hotels here are noticeably cheaper than Santa Claus Village while st
 - **Arctic Ounasvaara Hotel:** More affordable rooms with ski-in ski-out access. Good base for skiing.
 - **Rovaniemi Log Cabins:** Wooden cabins on the hill, in-house sauna, very quiet setting.
 
-If Rovaniemi is part of a larger Scandinavia trip, our [Scandinavia Road Trip Route](/en/blog/scandinavia-road-trip-route) has the full circuit covered.
+If Rovaniemi is part of a larger Scandinavia trip, our [Scandinavia Road Trip Route](/en/blog/scandinavia-road-trip-route/) has the full circuit covered.
 
 ## Napapiiri and Saarenkylä: Budget and Calm
 
@@ -122,6 +122,6 @@ Santa Claus Village is the first choice for families with children. Meeting Fath
 ---
 
 **Read more:**
-- [Northern Lights 2026: Where, When and How to See Them](/en/blog/northern-lights-2026-where-when-how)
-- [Scandinavia Road Trip: The Best Route Through Northern Europe](/en/blog/scandinavia-road-trip-route)
-- [Finland Travel Guide: The Essential Highlights](/en/blog/finland-travel-guide-highlights)
+- [Northern Lights 2026: Where, When and How to See Them](/en/blog/northern-lights-2026-where-when-how/)
+- [Scandinavia Road Trip: The Best Route Through Northern Europe](/en/blog/scandinavia-road-trip-route/)
+- [Finland Travel Guide: The Essential Highlights](/en/blog/finland-travel-guide-highlights/)

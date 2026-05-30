@@ -43,7 +43,7 @@ Kurzantwort: Es kommt drauf an, was du suchst.
 
 **Juli und August** sind Hochsaison. Vollste Hotels, höchste Preise, aber auch garantiert warmes (relatives) Wetter. 15 bis 22 Grad im Fjordgebiet sind typisch. Der Geirangerfjord ist im August sehr voll.
 
-**Winter (November bis März)** für Aurora Borealis. In den Fjordgebieten selbst selten, weil viele Routen geschlossen sind. Aber kombiniert mit einer Reise nach Tromsø oder den Lofoten ist es möglich. Lies dazu unseren [Nordlichter Guide 2026](/blog/nordlichter-2026-wo-wann-wie) für alle Details.
+**Winter (November bis März)** für Aurora Borealis. In den Fjordgebieten selbst selten, weil viele Routen geschlossen sind. Aber kombiniert mit einer Reise nach Tromsø oder den Lofoten ist es möglich. Lies dazu unseren [Nordlichter Guide 2026](/blog/nordlichter-2026-wo-wann-wie/) für alle Details.
 
 Mitternachtssonne erlebst du im Fjordgebiet von Mitte Juni bis Ende Juli. Die Sonne geht nicht wirklich unter. Nachts helles Tageslicht. Ungewohnt und wunderschön.
 
@@ -88,6 +88,6 @@ Kein Visum für EU-Bürger. Norwegen ist nicht in der EU, aber im Schengen-Raum.
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tromsø: Die besten Stadtteile und Hotels](/blog/wo-uebernachten-tromso)
-- [USA Roadtrip mit Wohnmobil: Der komplette Guide](/blog/wohnmobil-roadtrip-usa-guide)
-- [Nordlichter 2026: Wo, wann und wie du sie wirklich siehst](/blog/nordlichter-2026-wo-wann-wie)
+- [Wo übernachten in Tromsø: Die besten Stadtteile und Hotels](/blog/wo-uebernachten-tromso/)
+- [USA Roadtrip mit Wohnmobil: Der komplette Guide](/blog/wohnmobil-roadtrip-usa-guide/)
+- [Nordlichter 2026: Wo, wann und wie du sie wirklich siehst](/blog/nordlichter-2026-wo-wann-wie/)

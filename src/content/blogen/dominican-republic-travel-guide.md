@@ -78,6 +78,6 @@ Playa Rincón on the Samaná Peninsula ranks as one of the wildest and most unsp
 ---
 
 **Read more:**
-- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials)
-- [All-Inclusive Holiday: Is It Worth It?](/en/blog/all-inclusive-holiday-worth-it)
-- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials/)
+- [All-Inclusive Holiday: Is It Worth It?](/en/blog/all-inclusive-holiday-worth-it/)
+- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

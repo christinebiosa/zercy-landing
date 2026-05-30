@@ -22,7 +22,7 @@ Here's the honest breakdown.
 
 **For families:** Mallorca, Mauritius, and Turks & Caicos. Mallorca offers short flights from Europe, good water, and excellent children's infrastructure. Mauritius is the family luxury destination of the Indian Ocean: protected lagoons with no surf or undertow, family-friendly resorts with kids clubs. Turks & Caicos (Grace Bay Beach) is considered one of the safest and most beautiful beach spots on the planet. Shallow, calm water, perfect visibility.
 
-**Off the beaten path:** Seychelles, Palawan, and Milos. The Seychelles are expensive, but La Digue and Praslin are hard to beat if you want solitude and perfection. Palawan in the Philippines (Puerto Princesa, El Nido) has turquoise lagoons, dramatic limestone cliffs, and tourist infrastructure without mass market crowds. Milos in Greece is the underrated insider tip: white moonstone sand, clear Aegean water, almost no cruise ship day-trippers. Our [Scotland Highlands road trip](/en/blog/scottish-highlands-road-trip) also shows that off-the-beaten-path doesn't always mean tropical.
+**Off the beaten path:** Seychelles, Palawan, and Milos. The Seychelles are expensive, but La Digue and Praslin are hard to beat if you want solitude and perfection. Palawan in the Philippines (Puerto Princesa, El Nido) has turquoise lagoons, dramatic limestone cliffs, and tourist infrastructure without mass market crowds. Milos in Greece is the underrated insider tip: white moonstone sand, clear Aegean water, almost no cruise ship day-trippers. Our [Scotland Highlands road trip](/en/blog/scottish-highlands-road-trip/) also shows that off-the-beaten-path doesn't always mean tropical.
 
 **For surfers:** Nazaré, Bali, and Costa Rica. Nazaré in Portugal has the biggest waves in the world. Autumn and winter: waves over 65 feet. This is for experienced surfers and spectators. Bali (Uluwatu, Padang Padang) is the classic: perfect reef breaks, warm water, good options for all ability levels. Costa Rica (Playa Hermosa, Jacó) is the most reliable surf destination in the region for beginners to intermediate surfers.
 
@@ -84,7 +84,7 @@ Three tips that save real money.
 
 Zercy helps you compare: flight options, hotel categories, and prices for all these destinations. Save your favorite beach combinations in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything on hand when booking.
 
-For beach destinations specifically within Europe, we have a dedicated guide: [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026). And anyone prioritizing underwater world will find a lot of overlap in the [sailing holiday beginners guide](/en/blog/sailing-holiday-beginners-guide).
+For beach destinations specifically within Europe, we have a dedicated guide: [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026/). And anyone prioritizing underwater world will find a lot of overlap in the [sailing holiday beginners guide](/en/blog/sailing-holiday-beginners-guide/).
 
 ---
 
@@ -109,6 +109,6 @@ Mallorca (Alcúdia, Cala d'Or), Mauritius (north and east coasts), and Turks & C
 ---
 
 **Read more:**
-- [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026)
-- [Sailing Holiday for Beginners: What You Need to Know](/en/blog/sailing-holiday-beginners-guide)
-- [Caribbean Island Hopping: The Best Routes](/en/blog/caribbean-island-hopping-guide)
+- [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026/)
+- [Sailing Holiday for Beginners: What You Need to Know](/en/blog/sailing-holiday-beginners-guide/)
+- [Caribbean Island Hopping: The Best Routes](/en/blog/caribbean-island-hopping-guide/)

@@ -59,7 +59,7 @@ Detaillierte Informationen zu Reiseversicherungen findest du auf [test.de von de
 - Günstige Last-Minute-Flüge (wenn die Gesamtkosten niedrig sind)
 - Kurze Kurztrips unter 500 Euro Gesamtkosten
 
-Mehr zur Abwägung im umfassenden [Reiseversicherung-Guide](/blog/reiseversicherung-was-lohnt-sich). Besonders relevant für Kreuzfahrt-Buchungen im [Kreuzfahrt Einsteiger-Guide](/blog/kreuzfahrt-einsteiger-guide).
+Mehr zur Abwägung im umfassenden [Reiseversicherung-Guide](/blog/reiseversicherung-was-lohnt-sich/). Besonders relevant für Kreuzfahrt-Buchungen im [Kreuzfahrt Einsteiger-Guide](/blog/kreuzfahrt-einsteiger-guide/).
 
 ## Welche Alternativen gibt es zur Reiserücktrittsversicherung?
 
@@ -93,6 +93,6 @@ Das ist ein anderer Versicherungsfall (Insolvenzversicherung). Nach EU-Recht mü
 
 ## Mehr lesen
 
-- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich)
-- [Kreuzfahrt Einsteiger-Guide: Alles was du wissen musst](/blog/kreuzfahrt-einsteiger-guide)
-- [Pauschalreise vs. Individualreise: Was ist besser?](/blog/pauschalreise-vs-individualreise)
+- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/)
+- [Kreuzfahrt Einsteiger-Guide: Alles was du wissen musst](/blog/kreuzfahrt-einsteiger-guide/)
+- [Pauschalreise vs. Individualreise: Was ist besser?](/blog/pauschalreise-vs-individualreise/)

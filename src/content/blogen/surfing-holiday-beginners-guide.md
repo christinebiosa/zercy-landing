@@ -34,7 +34,7 @@ The waves in Taghazout are classic Atlantic surfing: consistent, well-shaped, wi
 
 **Best season:** October to April. Summer too windy for beginners.
 
-If you want to explore Moroccan cities too, our [Marrakech accommodation guide](/en/blog/where-to-stay-marrakech) helps with planning.
+If you want to explore Moroccan cities too, our [Marrakech accommodation guide](/en/blog/where-to-stay-marrakech/) helps with planning.
 
 ## Fuerteventura: Best Beginner Surf Spot in Europe
 
@@ -66,7 +66,7 @@ Canggu is quieter than Kuta, slightly more challenging in the waves, but trendie
 
 **Best season:** April to October (dry season, better waves). November to March is monsoon with more inconsistent conditions.
 
-For accommodation on Bali, our [Bali neighborhood guide](/en/blog/where-to-stay-bali) explains the differences between Kuta, Seminyak and Canggu.
+For accommodation on Bali, our [Bali neighborhood guide](/en/blog/where-to-stay-bali/) explains the differences between Kuta, Seminyak and Canggu.
 
 ## Nosara, Costa Rica: Organized and Clean
 
@@ -76,7 +76,7 @@ Nosara is Costa Rica's most well-organized surf village. Playa Guiones has gentl
 
 **Best season:** December to April (dry season). Off-season May to November: cheaper, waves still work well.
 
-For the broader Costa Rica trip, our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route) covers the logistics.
+For the broader Costa Rica trip, our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route/) covers the logistics.
 
 ## Where to Surf in Asia on a Beginner Budget?
 
@@ -130,6 +130,6 @@ It varies by destination. Taghazout/Morocco: October to April. Fuerteventura: Oc
 ---
 
 **Read more:**
-- [Costa Rica Road Trip: The Complete Route](/en/blog/costa-rica-road-trip-route)
-- [Where to Stay in Bali: 5 Neighborhoods](/en/blog/where-to-stay-bali)
-- [Travel Insurance: When Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [Costa Rica Road Trip: The Complete Route](/en/blog/costa-rica-road-trip-route/)
+- [Where to Stay in Bali: 5 Neighborhoods](/en/blog/where-to-stay-bali/)
+- [Travel Insurance: When Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026/)

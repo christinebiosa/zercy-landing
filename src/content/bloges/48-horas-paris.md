@@ -29,7 +29,7 @@ Por la tarde, dirígete a Le Marais. Empieza en la **Place des Vosges**, la plaz
 
 Pasa la tarde-noche en Saint-Germain-des-Prés. Sartre y de Beauvoir ya no piden en el Café de Flore ni en Les Deux Magots, pero el ambiente es genuino. Una copa, no más. Cena después en la Rue de Buci donde los restaurantes son buenos y los precios todavía razonables.
 
-Para el alojamiento, nuestro artículo sobre [dónde alojarse en París](/es/blog/donde-alojarse-paris) cubre los barrios por presupuesto y estilo de viaje.
+Para el alojamiento, nuestro artículo sobre [dónde alojarse en París](/es/blog/donde-alojarse-paris/) cubre los barrios por presupuesto y estilo de viaje.
 
 ## Día 2: Torre Eiffel o Musée d'Orsay, Palais Royal, Montmartre
 
@@ -43,13 +43,13 @@ Por la tarde, el **Palais Royal** es uno de los espacios públicos más subestim
 
 La noche le pertenece a Montmartre. La subida al Sacré-Coeur al atardecer es turística, y el panorama es real de todas formas. La Rue Lepic tiene panaderías y vinotecas que se sienten como el barrio de verdad. La Place du Tertre con los artistas callejeros es un carnaval de día, pero de noche tiene una energía extraña y persistente que merece quedarse un rato.
 
-Antes de reservar el transporte, el comparativo de [tren vs. avión a Europa](/es/blog/tren-vs-avion-europa-2026) muestra cuándo el tren gana desde más ciudades de las que la gente espera.
+Antes de reservar el transporte, el comparativo de [tren vs. avión a Europa](/es/blog/tren-vs-avion-europa-2026/) muestra cuándo el tren gana desde más ciudades de las que la gente espera.
 
 ## ¿Dónde alojarse para un fin de semana en París?
 
 Le Marais y Saint-Germain son centrales, convenientes y caros. Para mejor relación calidad-precio, mira Bastille, Oberkampf o République. Estos barrios tienen buenas conexiones de metro y se sienten como el París real. En Booking.com puedes filtrar por barrio una vez que tienes el presupuesto en mente.
 
-Para hoteles concretos y una comparativa de qué barrio encaja con cada tipo de viajero, el artículo de [dónde alojarse en París](/es/blog/donde-alojarse-paris) tiene todo lo que necesitas.
+Para hoteles concretos y una comparativa de qué barrio encaja con cada tipo de viajero, el artículo de [dónde alojarse en París](/es/blog/donde-alojarse-paris/) tiene todo lo que necesitas.
 
 ## ¿Cuánto cuesta realmente un fin de semana en París?
 
@@ -63,7 +63,7 @@ Entradas: Sainte-Chapelle unos 13 euros. Musée d'Orsay unos 16 euros. Torre Eif
 
 Todo junto, sin vuelo ni alojamiento: entre 120 y 200 euros por persona para dos días es realista.
 
-Si quieres reducir el gasto en transporte, los [trucos de aeropuerto](/es/blog/trucos-aeropuerto) valen la pena antes de reservar.
+Si quieres reducir el gasto en transporte, los [trucos de aeropuerto](/es/blog/trucos-aeropuerto/) valen la pena antes de reservar.
 
 ## ¿Cuándo es mejor visitar París?
 
@@ -98,6 +98,6 @@ Le Marais, Saint-Germain-des-Prés y Montmartre son los más adecuados para una 
 ---
 
 **Leer más:**
-- [Dónde alojarse en París: guía de barrios y opciones por presupuesto](/es/blog/donde-alojarse-paris)
-- [Tren vs. avión en Europa 2026: cuándo gana el tren](/es/blog/tren-vs-avion-europa-2026)
-- [Trucos de aeropuerto: ahorra tiempo y dinero en cada vuelo](/es/blog/trucos-aeropuerto)
+- [Dónde alojarse en París: guía de barrios y opciones por presupuesto](/es/blog/donde-alojarse-paris/)
+- [Tren vs. avión en Europa 2026: cuándo gana el tren](/es/blog/tren-vs-avion-europa-2026/)
+- [Trucos de aeropuerto: ahorra tiempo y dinero en cada vuelo](/es/blog/trucos-aeropuerto/)

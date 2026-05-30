@@ -80,6 +80,6 @@ Mietwagen ist die flexibelste Option. Linksverkehr (britisches System). Busse si
 ---
 
 **Mehr lesen:**
-- [Safari in Ostafrika: Der ehrliche Planungs-Guide](/blog/safari-ostafrika-guide)
-- [Reiseversicherung: Was sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich)
-- [Indien Reiseguide: Highlights für deinen Trip](/blog/indien-reiseguide-highlights)
+- [Safari in Ostafrika: Der ehrliche Planungs-Guide](/blog/safari-ostafrika-guide/)
+- [Reiseversicherung: Was sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/)
+- [Indien Reiseguide: Highlights für deinen Trip](/blog/indien-reiseguide-highlights/)

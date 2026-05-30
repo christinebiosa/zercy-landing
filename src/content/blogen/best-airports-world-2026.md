@@ -10,7 +10,7 @@ heroImage: "/img/blog/best-airports.jpg"
 
 An airport is not a destination. Usually. Then there is Changi. Or Haneda. Places where you almost hope your connection runs a little late. The [Skytrax World Airport Awards](https://www.worldairportawards.com/) rank the best airports on the planet every year. Here is what actually matters in 2026, which airports deliver on their promise, and which European hubs keep disappointing.
 
-If you want to use layovers strategically on your next trip, check the full [Stopover Tourism Guide](/en/blog/stopover-tourism-guide).
+If you want to use layovers strategically on your next trip, check the full [Stopover Tourism Guide](/en/blog/stopover-tourism-guide/).
 
 ## Why is Singapore Changi the best airport in the world?
 
@@ -28,7 +28,7 @@ For your routing: Zercy helps you find flights with smart layovers in Singapore.
 
 **Tokyo Haneda.** Tokyo has two airports. Haneda is the right one. Not Narita. Haneda sits 30 minutes from the city center, has the most punctual departures in the world, and is clean to a degree that surprises first-time visitors. The food courts are actual restaurants: fresh sushi sets, proper ramen shops, quality that you would pay for in a sit-down restaurant elsewhere. Signage is clear. Everything works.
 
-If you are planning Japan, the [48 Hours in Tokyo guide](/en/blog/48-hours-tokyo) covers the rest. Haneda already gives you a good start.
+If you are planning Japan, the [48 Hours in Tokyo guide](/en/blog/48-hours-tokyo/) covers the rest. Haneda already gives you a good start.
 
 ## Which European airports actually stand out?
 
@@ -38,7 +38,7 @@ Europe has two clear winners.
 
 **Munich MUC** ranks second in Europe according to Skytrax. What makes MUC stand out: there is a real beer garden inside Terminal 2. Real beer, fresh pretzels, Weißwurst in the morning. In summer, passengers sit outside with their luggage in the sun as if they had wandered into the English Garden. For transit travelers who want a genuinely local impression of Germany, it is an unexpected memory.
 
-Both airports work well for [lounge access without a business ticket](/en/blog/lounge-access-without-business-ticket). Schiphol has multiple Priority Pass lounges. MUC has the Lufthansa Senator area for premium travelers.
+Both airports work well for [lounge access without a business ticket](/en/blog/lounge-access-without-business-ticket/). Schiphol has multiple Priority Pass lounges. MUC has the Lufthansa Senator area for premium travelers.
 
 ## Why do London Heathrow and Paris CDG keep falling short?
 
@@ -50,9 +50,9 @@ If you have a choice, route around both. Amsterdam instead of Heathrow for UK an
 
 ## How do you use stopover tourism as a travel hack?
 
-When comparing [direct flight vs. connecting flight](/en/blog/direct-flight-vs-connecting), most travelers decide on price alone. There is a second factor: layover quality. Five hours in Changi is not a burden. It is an experience. Five hours in Heathrow is a different story.
+When comparing [direct flight vs. connecting flight](/en/blog/direct-flight-vs-connecting/), most travelers decide on price alone. There is a second factor: layover quality. Five hours in Changi is not a burden. It is an experience. Five hours in Heathrow is a different story.
 
-The best approach: plan layovers of four to eight hours in Singapore or Tokyo intentionally. Singapore Airlines runs the Free Singapore Tour program officially for transit passengers. Check in your luggage, register online, explore the city, come back. The full breakdown is in the [Airport Hacks guide](/en/blog/airport-hacks).
+The best approach: plan layovers of four to eight hours in Singapore or Tokyo intentionally. Singapore Airlines runs the Free Singapore Tour program officially for transit passengers. Check in your luggage, register online, explore the city, come back. The full breakdown is in the [Airport Hacks guide](/en/blog/airport-hacks/).
 
 Use Zercy to find routes with smart stopovers and compare options side by side. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
@@ -75,6 +75,6 @@ Singapore is the top choice: five hours gives you time to reach Gardens by the B
 ---
 
 **Read more:**
-- [Airport Hacks: Get the Most Out of Every Stopover](/en/blog/airport-hacks)
-- [Stopover Tourism: More Travel for the Same Price](/en/blog/stopover-tourism-guide)
-- [Direct Flight vs. Connecting: When Each Makes Sense](/en/blog/direct-flight-vs-connecting)
+- [Airport Hacks: Get the Most Out of Every Stopover](/en/blog/airport-hacks/)
+- [Stopover Tourism: More Travel for the Same Price](/en/blog/stopover-tourism-guide/)
+- [Direct Flight vs. Connecting: When Each Makes Sense](/en/blog/direct-flight-vs-connecting/)

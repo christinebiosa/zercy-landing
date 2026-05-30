@@ -32,7 +32,7 @@ A rough working estimate: one mile is worth about one euro cent in economy class
 
 Poor redemptions: using miles for merchandise, gift cards, or hotel points transfers. These typically return under 0.5 cents per mile. Also: converting miles into anything just before they expire because you haven't planned what to use them for.
 
-Transfer partners add flexibility. If you have an American Express Membership Rewards card, you can transfer points to Miles & More, Flying Blue, or Avios. This lets you pool earning from everyday spending and direct it toward whichever program has the redemption you want. More on maximizing long-haul bookings in our article on [business class without miles](/en/blog/business-class-without-miles).
+Transfer partners add flexibility. If you have an American Express Membership Rewards card, you can transfer points to Miles & More, Flying Blue, or Avios. This lets you pool earning from everyday spending and direct it toward whichever program has the redemption you want. More on maximizing long-haul bookings in our article on [business class without miles](/en/blog/business-class-without-miles/).
 
 ## What Mistakes Do Beginners Make?
 
@@ -42,7 +42,7 @@ Mistake two: spreading across too many programs at once. If you have 3,000 miles
 
 Mistake three: forgetting that miles expire. Miles & More has a 36-month inactivity window. Avios introduced similar rules. Keep the account alive with small partner purchases or check-in activity.
 
-Mistake four: assuming award seats are always available. Redemption inventory is limited. Popular routes and dates can be fully booked months in advance. Flexibility on dates and destinations dramatically increases what you can find. For tips on lounge access and elite status perks, read our article on [lounge access without a business ticket](/en/blog/lounge-access-without-business-ticket).
+Mistake four: assuming award seats are always available. Redemption inventory is limited. Popular routes and dates can be fully booked months in advance. Flexibility on dates and destinations dramatically increases what you can find. For tips on lounge access and elite status perks, read our article on [lounge access without a business ticket](/en/blog/lounge-access-without-business-ticket/).
 
 ## When Do Loyalty Programs Actually Pay Off?
 
@@ -52,7 +52,7 @@ They work less well when: you fly rarely and miles expire before you can use the
 
 Honest assessment: miles are a nice bonus, not a financial strategy. Approach them with realistic expectations and you'll eventually enjoy a free flight or a cabin upgrade. Treat them as a core optimization goal and you'll spend more time calculating transfers than actually traveling.
 
-For related smart travel strategies, check our guides on [cheap flights](/en/blog/cheap-flights-tips) and [when to book flights](/en/blog/when-to-book-flights).
+For related smart travel strategies, check our guides on [cheap flights](/en/blog/cheap-flights-tips/) and [when to book flights](/en/blog/when-to-book-flights/).
 
 ## Plan Your Next Trip with Zercy
 
@@ -77,6 +77,6 @@ Transfer partners like American Express Membership Rewards let you convert credi
 ---
 
 **Read more:**
-- [Business Class Without Miles](/en/blog/business-class-without-miles)
-- [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket)
-- [Business Class: Is It Worth It?](/en/blog/business-class-worth-it)
+- [Business Class Without Miles](/en/blog/business-class-without-miles/)
+- [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket/)
+- [Business Class: Is It Worth It?](/en/blog/business-class-worth-it/)

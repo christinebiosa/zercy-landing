@@ -29,7 +29,7 @@ La temporada verde va de **mayo a noviembre**. La lluvia no llega como en un mon
 
 Los bosques están en su momento más exuberante. Las cascadas tienen más caudal. Los animales son más activos. En temporada de lluvias, ver un tucán o un quetzal en el Bosque Nuboso de Monteverde es más probable que en enero, cuando el turismo seca literalmente algunos senderos.
 
-La temporada verde también es la mejor para surf. Las olas del Caribe (Puerto Viejo, Playa Cocles) son buenas casi todo el año, pero en el Pacífico las olas más consistentes para surf llegan con la temporada de lluvias. Hay más información sobre las mejores zonas en la guía de [surf en Costa Rica](/es/blog/costa-rica-surf).
+La temporada verde también es la mejor para surf. Las olas del Caribe (Puerto Viejo, Playa Cocles) son buenas casi todo el año, pero en el Pacífico las olas más consistentes para surf llegan con la temporada de lluvias. Hay más información sobre las mejores zonas en la guía de [surf en Costa Rica](/es/blog/costa-rica-surf/).
 
 **Los precios bajan significativamente.** Los hoteles pueden reducir tarifas un 20-40% respecto a la temporada alta. Los tours y excursiones también tienen precios más bajos. Para quienes vienen desde LATAM con presupuesto ajustado, la temporada verde transforma el viaje.
 
@@ -47,7 +47,7 @@ La Zona Norte (La Fortuna, volcán Arenal, Monteverde) tiene un patrón intermed
 
 [ICT Costa Rica](https://www.visitcostarica.com), el instituto de turismo oficial, tiene información actualizada sobre condiciones de parques nacionales, alertas de senderos y calendarios de eventos por región. Es especialmente útil para parques del interior que pueden cerrar senderos tras lluvias intensas.
 
-La guía de [ruta completa por Costa Rica](/es/blog/costa-rica-ruta-completa) tiene itinerarios para distintas duraciones y presupuestos. Para quienes se preguntan si el seguro de viaje vale la pena en Costa Rica, especialmente en temporada de lluvias cuando las cancelaciones de excursiones son más frecuentes, la guía de [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena) da una respuesta directa.
+La guía de [ruta completa por Costa Rica](/es/blog/costa-rica-ruta-completa/) tiene itinerarios para distintas duraciones y presupuestos. Para quienes se preguntan si el seguro de viaje vale la pena en Costa Rica, especialmente en temporada de lluvias cuando las cancelaciones de excursiones son más frecuentes, la guía de [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/) da una respuesta directa.
 
 ---
 
@@ -69,6 +69,6 @@ El Caribe costarricense tiene lluvia casi todo el año pero con un patrón difer
 
 ## Más información
 
-- [Ruta completa por Costa Rica: itinerario](/es/blog/costa-rica-ruta-completa)
-- [Surf en Costa Rica: mejores playas y épocas](/es/blog/costa-rica-surf)
-- [Seguro de viaje: ¿realmente vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Ruta completa por Costa Rica: itinerario](/es/blog/costa-rica-ruta-completa/)
+- [Surf en Costa Rica: mejores playas y épocas](/es/blog/costa-rica-surf/)
+- [Seguro de viaje: ¿realmente vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)

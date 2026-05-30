@@ -39,7 +39,7 @@ Ein Tag mit Vatikan und Kolosseum, aber strategisch geplant.
 
 **Abend (19-23 Uhr).** Letzte Mahlzeit in Rom. Empfehlung: in Testaccio (Stadtteil im Süden, 15 Minuten Taxi). Da Felice oder Flavio al Velavevodetto. Hier essen römische Familien, nicht Touristen. Reservierung Pflicht.
 
-Schau dir auch unseren [Apulien-Guide](/blog/apulien-sueditalien-guide) an, falls Rom dich für mehr italienisches Süden begeistert hat.
+Schau dir auch unseren [Apulien-Guide](/blog/apulien-sueditalien-guide/) an, falls Rom dich für mehr italienisches Süden begeistert hat.
 
 ## Wo solltest du wirklich übernachten?
 
@@ -51,7 +51,7 @@ Drei Stadtteile mit klaren Vor- und Nachteilen.
 
 **Termini-Nähe.** Praktisch wegen Bahnhof, aber unromantisch. Empfehlung: nur wenn du am Bahnhof ankommst und früh wieder weg musst. Hotels günstiger als anderswo.
 
-Lies dazu auch unseren [AirBnB vs Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich). In Rom gibt es viele Apartments unter Booking.com gelistet, oft besser als das Touristen-Hotel.
+Lies dazu auch unseren [AirBnB vs Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich/). In Rom gibt es viele Apartments unter Booking.com gelistet, oft besser als das Touristen-Hotel.
 
 ## Wie kommst du dorthin?
 
@@ -59,7 +59,7 @@ Praktische Anreise-Tipps.
 
 **Flug.** Direktflüge aus Frankfurt, München, Berlin, Hamburg nach Rom-Fiumicino oder Rom-Ciampino. Hin und zurück: 80-200 Euro je nach Saison. Vom Flughafen in 30 Minuten ins Zentrum mit Leonardo Express (14 Euro) oder Flughafen-Bus (6 Euro).
 
-**Zug.** Aus München mit Nachtzug nach Mailand, weiter mit Frecciarossa nach Rom. Etwa 16 Stunden, aber CO2-bewusst. Lies dazu unseren [Nachtzug-Guide](/blog/nachtzuege-europa-2026).
+**Zug.** Aus München mit Nachtzug nach Mailand, weiter mit Frecciarossa nach Rom. Etwa 16 Stunden, aber CO2-bewusst. Lies dazu unseren [Nachtzug-Guide](/blog/nachtzuege-europa-2026/).
 
 **Auto.** Nicht empfohlen für 48 Stunden. Rom hat eine restriktive Innenstadt-Zone (ZTL), Parken kostet 30+ Euro pro Tag. Wer die Region erkunden will, mietet erst nach Rom einen Wagen.
 
@@ -90,6 +90,6 @@ Tickets vorab online auf vatican.va kaufen für 8 Uhr (Öffnung). Plus Audio-Gui
 ---
 
 **Mehr lesen:**
-- [Beste Hotels in Rom: Wo übernachten in welchem Stadtteil](/blog/wo-uebernachten-rom)
-- [Apulien: Italiens unterschätzter Süden](/blog/apulien-sueditalien-guide)
-- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
+- [Beste Hotels in Rom: Wo übernachten in welchem Stadtteil](/blog/wo-uebernachten-rom/)
+- [Apulien: Italiens unterschätzter Süden](/blog/apulien-sueditalien-guide/)
+- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich/)

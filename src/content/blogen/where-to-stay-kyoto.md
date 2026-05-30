@@ -94,6 +94,6 @@ In most years, Kyoto's cherry trees bloom late March to early April, typically M
 ---
 
 **Read more:**
-- [Where to Stay in Tokyo: The 5 Neighborhoods](/en/blog/where-to-stay-tokyo)
-- [Japan Beyond Tokyo: Kyoto, Nara, Hiroshima](/en/blog/japan-beyond-tokyo-guide)
-- [Where to Stay in Seoul: Gangnam or Hongdae?](/en/blog/where-to-stay-seoul)
+- [Where to Stay in Tokyo: The 5 Neighborhoods](/en/blog/where-to-stay-tokyo/)
+- [Japan Beyond Tokyo: Kyoto, Nara, Hiroshima](/en/blog/japan-beyond-tokyo-guide/)
+- [Where to Stay in Seoul: Gangnam or Hongdae?](/en/blog/where-to-stay-seoul/)

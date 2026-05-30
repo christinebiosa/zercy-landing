@@ -71,7 +71,7 @@ Birgu, Senglea und Bormla (zusammen "Three Cities") liegen direkt gegenüber von
 - **Fort San Angelo:** Teils für Touristen zugänglich, keine Unterkunft, aber Orientierungspunkt.
 - **Various B&Bs in Birgu:** Kleine Frühstückspensionen ab 60 Euro, ideal für Ruhesuchende.
 
-Entdecker-Bonus: Wer von Geheimtipps begeistert ist, schaut sich auch [Europas unterschätzte Städte](/blog/geheimtipps-europa) an.
+Entdecker-Bonus: Wer von Geheimtipps begeistert ist, schaut sich auch [Europas unterschätzte Städte](/blog/geheimtipps-europa/) an.
 
 ## Wo solltest du auf Malta buchen?
 
@@ -104,6 +104,6 @@ Valletta ist eine der dichtesten historischen Städte Europas. 320 Denkmäler au
 ---
 
 **Mehr lesen:**
-- [Geheimtipps Europa: Unterschätzte Städte](/blog/geheimtipps-europa)
-- [Wo übernachten in Barcelona: 5 Viertel im Vergleich](/blog/wo-uebernachten-barcelona)
-- [Wo übernachten in Rom: Von Trastevere bis Prati](/blog/wo-uebernachten-rom)
+- [Geheimtipps Europa: Unterschätzte Städte](/blog/geheimtipps-europa/)
+- [Wo übernachten in Barcelona: 5 Viertel im Vergleich](/blog/wo-uebernachten-barcelona/)
+- [Wo übernachten in Rom: Von Trastevere bis Prati](/blog/wo-uebernachten-rom/)

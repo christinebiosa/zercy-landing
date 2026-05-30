@@ -61,7 +61,7 @@ Oberhalb der Altstadt, auf sanften Hügeln gelegen. Das Matisse-Museum ist hier,
 
 **Top-Picks:** Hôtel Régence (ruhig, gepflegt, gutes Preis-Leistungs-Verhältnis), Villa Gaia (kleines Boutique-Hotel mit Garten), Hôtel Villa Victoria (charaktervolle Villa mit Pool).
 
-Unser [Marseille-Guide](/blog/wo-uebernachten-marseille) ist ideal für alle, die die Côte d'Azur mit einem zweiten Kulturzentrum kombinieren wollen.
+Unser [Marseille-Guide](/blog/wo-uebernachten-marseille/) ist ideal für alle, die die Côte d'Azur mit einem zweiten Kulturzentrum kombinieren wollen.
 
 ## Carré d'Or: Nizza für Shoppingliebhaber
 
@@ -94,7 +94,7 @@ Für Nizza ist [Booking.com](https://www.booking.com) gut bestückt:
 
 Direktbuchung lohnt sich bei kleinen Boutique-Hotels wie Hôtel Windsor oder Nice Garden Hotel, weil dort oft Extras drinliegen (Zimmerwahl, spätes Checkout).
 
-Lies auch unseren [Barcelona-Guide](/blog/wo-uebernachten-barcelona) für einen perfekten Mittelmeer-Wochenendtrip oder unsere [Tipps zum günstigen Fliegen](/blog/guenstig-fliegen-tipps) um bei der Anreise zu sparen.
+Lies auch unseren [Barcelona-Guide](/blog/wo-uebernachten-barcelona/) für einen perfekten Mittelmeer-Wochenendtrip oder unsere [Tipps zum günstigen Fliegen](/blog/guenstig-fliegen-tipps/) um bei der Anreise zu sparen.
 
 ---
 
@@ -121,6 +121,6 @@ Der Aéroport Nice Côte d'Azur liegt nur sechs Kilometer westlich der Innenstad
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Marseille: Die 5 Viertel](/blog/wo-uebernachten-marseille)
-- [Wo übernachten in Barcelona: Die 6 besten Viertel](/blog/wo-uebernachten-barcelona)
-- [Günstig fliegen: Die wichtigsten Tipps](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in Marseille: Die 5 Viertel](/blog/wo-uebernachten-marseille/)
+- [Wo übernachten in Barcelona: Die 6 besten Viertel](/blog/wo-uebernachten-barcelona/)
+- [Günstig fliegen: Die wichtigsten Tipps](/blog/guenstig-fliegen-tipps/)

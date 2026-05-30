@@ -100,7 +100,7 @@ Für Paris ist [Booking.com](https://www.booking.com) klar die beste Plattform:
 
 Direkter Hotel-Buchung lohnt nur bei Premium (Ritz, Plaza Athénée) für mögliche Upgrades.
 
-Lies dazu auch unseren [Boutique-Hotels-Guide](/blog/boutique-hotels) für die besondere Auswahl.
+Lies dazu auch unseren [Boutique-Hotels-Guide](/blog/boutique-hotels/) für die besondere Auswahl.
 
 ---
 
@@ -127,6 +127,6 @@ Backpacker: 800-1.200 Euro pro Person inkl. Flug (Hostel, Picknick im Park). Mit
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Rom: Die 5 Stadtteile](/blog/wo-uebernachten-rom)
-- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon)
-- [Boutique Hotels: Kleine Häuser mit Charakter](/blog/boutique-hotels)
+- [Wo übernachten in Rom: Die 5 Stadtteile](/blog/wo-uebernachten-rom/)
+- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon/)
+- [Boutique Hotels: Kleine Häuser mit Charakter](/blog/boutique-hotels/)

@@ -27,7 +27,7 @@ Die klassische Richtung ist von Nord nach Süd: San Francisco runter nach San Di
 
 **Los Angeles (2-3 Tage):** Venice Beach, Griffith Observatory mit Blick auf das Hollywood Sign, The Getty, Silver Lake für Locals-Atmosphäre. Miet dir ein Auto mit GPS in LA, öffentlicher Verkehr funktioniert nur bedingt.
 
-**San Diego (1-2 Tage):** Gaslamp Quarter, Coronado Island per Fähre, Balboa Park mit dem Zoo. Entspannteres Tempo als LA, perfekt zum Ausklingen. Welches Viertel am besten zur eigenen Reiseart passt, zeigt der [San Diego Hotelguide](/blog/wo-uebernachten-san-diego).
+**San Diego (1-2 Tage):** Gaslamp Quarter, Coronado Island per Fähre, Balboa Park mit dem Zoo. Entspannteres Tempo als LA, perfekt zum Ausklingen. Welches Viertel am besten zur eigenen Reiseart passt, zeigt der [San Diego Hotelguide](/blog/wo-uebernachten-san-diego/).
 
 ## Wann ist die beste Reisezeit für den PCH?
 
@@ -89,6 +89,6 @@ Motels direkt an der Route, besonders in Santa Barbara und San Luis Obispo. Camp
 
 ## Mehr lesen
 
-- [Route 66 USA Roadtrip: Die Highlights der legendären Route](/blog/route-66-usa-roadtrip)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Australien Rundreise: Die besten Routen für deinen Roadtrip](/blog/australien-rundreise-route)
+- [Route 66 USA Roadtrip: Die Highlights der legendären Route](/blog/route-66-usa-roadtrip/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Australien Rundreise: Die besten Routen für deinen Roadtrip](/blog/australien-rundreise-route/)

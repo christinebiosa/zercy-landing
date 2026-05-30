@@ -18,9 +18,9 @@ The differences within the region are enormous. Some countries you can visit wit
 
 **Safe and recommended:**
 
-**Chile** is the safest country in the region. Low crime rates, stable political environment, solid infrastructure. Santiago is one of the safest large cities in Latin America. For Patagonia and the Atacama you need no special precautions beyond the usual rules for long-distance travel. Our [Patagonia 3-week route guide](/en/blog/patagonia-3-week-route) walks through the region in detail.
+**Chile** is the safest country in the region. Low crime rates, stable political environment, solid infrastructure. Santiago is one of the safest large cities in Latin America. For Patagonia and the Atacama you need no special precautions beyond the usual rules for long-distance travel. Our [Patagonia 3-week route guide](/en/blog/patagonia-3-week-route/) walks through the region in detail.
 
-**Costa Rica** is the classic introduction to Latin America, and deservedly so. No army, stable democracy, high standard of living relative to the region. Petty crime in San José exists, but serious violence targeting tourists is rare. Our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route) covers specific safety zones.
+**Costa Rica** is the classic introduction to Latin America, and deservedly so. No army, stable democracy, high standard of living relative to the region. Petty crime in San José exists, but serious violence targeting tourists is rare. Our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route/) covers specific safety zones.
 
 **Uruguay** is often overlooked but one of the safest countries in South America. Montevideo has a relaxed atmosphere. Tourists are rarely targeted.
 
@@ -48,7 +48,7 @@ Many tips sound good. These ones genuinely help:
 
 **Don't explore unfamiliar neighborhoods at night.** That sounds obvious but prevents a lot of problems. If you don't know how safe an area is: ask the hostel or hotel. They will tell you honestly. That one conversation saves trouble.
 
-A solid travel insurance policy with emergency support belongs on every Latin America trip. Our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026) explains what a good policy needs to cover.
+A solid travel insurance policy with emergency support belongs on every Latin America trip. Our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) explains what a good policy needs to cover.
 
 ## What is express kidnapping and how do you avoid it?
 
@@ -108,6 +108,6 @@ It depends heavily on the destination. For Patagonia, November to March is ideal
 ---
 
 **Read more:**
-- [Costa Rica Road Trip Route: Safety and Planning](/en/blog/costa-rica-road-trip-route)
-- [Patagonia 3-Week Route: The Complete Guide](/en/blog/patagonia-3-week-route)
-- [Travel Insurance: What's Actually Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Costa Rica Road Trip Route: Safety and Planning](/en/blog/costa-rica-road-trip-route/)
+- [Patagonia 3-Week Route: The Complete Guide](/en/blog/patagonia-3-week-route/)
+- [Travel Insurance: What's Actually Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

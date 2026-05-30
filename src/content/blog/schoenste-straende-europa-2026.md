@@ -56,7 +56,7 @@ Zwei sehr unterschiedliche Optionen.
 
 ## Geheimtipps: Albanien und Montenegro
 
-**Albanische Riviera:** Ksamil, Dhermi, Drymades. Türkisfarbenes Wasser, weiße Kieselstrände, keine Massentouristeninfrastruktur (noch). Deutlich günstiger als Griechenland, direkter Vergleich mit Mykonos: ein Viertel der Kosten. Erreichbar per Flieger nach Tirana oder Korfu, dann mit dem Bus Richtung Süden. Der [Guide zur Albanischen Riviera](/blog/albanien-riviera-geheimtipp) erklärt die Route im Detail.
+**Albanische Riviera:** Ksamil, Dhermi, Drymades. Türkisfarbenes Wasser, weiße Kieselstrände, keine Massentouristeninfrastruktur (noch). Deutlich günstiger als Griechenland, direkter Vergleich mit Mykonos: ein Viertel der Kosten. Erreichbar per Flieger nach Tirana oder Korfu, dann mit dem Bus Richtung Süden. Der [Guide zur Albanischen Riviera](/blog/albanien-riviera-geheimtipp/) erklärt die Route im Detail.
 
 **Ada Bojana, Montenegro:** Flussdreieck zwischen Bojana-Fluss und Adria, Naturschutzgebiet. Naturismus traditionell, aber nicht verpflichtend. Ruhige Lagune auf einer Seite, offenes Meer auf der anderen. Erreichbar über Ulcinj. Wenig Infrastruktur, viel Natur.
 
@@ -77,7 +77,7 @@ Manche Strände auf dieser Liste sind nur mit eigenem Fahrzeug erreichbar. Mietw
 
 Parkgebühren, Liegestühle und Bootstouren summieren sich. Ein Budget von 30-60 EUR pro Person pro Strandtag ist an Premium-Spots realistisch. An der Albanischen Riviera kommst du mit 10-15 EUR durch.
 
-Für die Mietwagenplanung lies den [Mietwagen-Check](/blog/mietwagen-check) und vermeide versteckte Kosten.
+Für die Mietwagenplanung lies den [Mietwagen-Check](/blog/mietwagen-check/) und vermeide versteckte Kosten.
 
 ---
 
@@ -104,6 +104,6 @@ Cala Mondragó auf Mallorca ist ideal: Nationalpark, flaches Wasser, kein Motorb
 ---
 
 **Mehr lesen:**
-- [Albanien Riviera: Der ultimative Geheimtipp Guide](/blog/albanien-riviera-geheimtipp)
-- [Wo übernachten in Mykonos: Die 5 Stadtteile](/blog/wo-uebernachten-mykonos)
-- [Mietwagen-Check: Worauf du wirklich achten musst](/blog/mietwagen-check)
+- [Albanien Riviera: Der ultimative Geheimtipp Guide](/blog/albanien-riviera-geheimtipp/)
+- [Wo übernachten in Mykonos: Die 5 Stadtteile](/blog/wo-uebernachten-mykonos/)
+- [Mietwagen-Check: Worauf du wirklich achten musst](/blog/mietwagen-check/)

@@ -32,7 +32,7 @@ The [U.S. Department of Transportation](https://www.transportation.gov/airconsum
 
 Hidden city ticketing makes sense when three conditions line up.
 
-First: you travel carry-on only. Checked bags get tagged to the ticket's final destination. If you exit at the connection, your luggage continues without you. See our [carry-on only guide](/en/blog/carry-on-only) for packing strategy.
+First: you travel carry-on only. Checked bags get tagged to the ticket's final destination. If you exit at the connection, your luggage continues without you. See our [carry-on only guide](/en/blog/carry-on-only/) for packing strategy.
 
 Second: it's one-way or the final leg of your trip. If you skip the outbound segment of a roundtrip, the airline auto-cancels your return. This trick only works in one direction.
 
@@ -50,7 +50,7 @@ Disruptions with rebooking are the second. If you miss a connection, the airline
 
 No refunds. If your hidden plan falls apart, the ticket is gone. No partial refunds, no recourse.
 
-A safer alternative is often [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack), where outbound and return depart from different cities. Fully legal, similar savings. If you want business class on the cheap, see [business class without miles](/en/blog/business-class-without-miles).
+A safer alternative is often [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack/), where outbound and return depart from different cities. Fully legal, similar savings. If you want business class on the cheap, see [business class without miles](/en/blog/business-class-without-miles/).
 
 ---
 
@@ -77,6 +77,6 @@ Tools like Skiplagged and Kiwi.com show hidden city options explicitly. You can 
 ---
 
 **Read more:**
-- [Open-jaw tickets: the travel hack almost nobody uses](/en/blog/open-jaw-tickets-travel-hack)
-- [Business class without miles: how it actually works](/en/blog/business-class-without-miles)
-- [When to book flights for the best prices](/en/blog/when-to-book-flights)
+- [Open-jaw tickets: the travel hack almost nobody uses](/en/blog/open-jaw-tickets-travel-hack/)
+- [Business class without miles: how it actually works](/en/blog/business-class-without-miles/)
+- [When to book flights for the best prices](/en/blog/when-to-book-flights/)

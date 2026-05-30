@@ -20,7 +20,7 @@ Sieben Methoden. Alle erprobt. Keine davon erfordert, dass du drei Monate lang A
 
 **DeepL** überzeugt bei längeren Texten. Wenn du E-Mails mit einem Hotel schreiben oder einen Vertrag verstehen musst, liefert DeepL qualitativ bessere Ergebnisse als Google Translate. Für schnelle Konversationen im Alltag ist Google Translate aber praktischer.
 
-Alle drei Apps findest du in unserem [Überblick der besten Travel Apps 2026](/blog/beste-travel-apps-2026).
+Alle drei Apps findest du in unserem [Überblick der besten Travel Apps 2026](/blog/beste-travel-apps-2026/).
 
 ## Welche 10 Sätze brauchst du immer?
 
@@ -49,7 +49,7 @@ Beim Essen: Fotos helfen überall. Zeige auf den Teller des Nachbars oder auf ei
 
 In Japan und China sind oft Plastikmodelle der Gerichte ausgestellt. Du zeigst drauf, du bekommst es. Dieses System existiert genau für Situationen wie deine.
 
-In Marokko und anderen arabischsprachigen Ländern lohnt sich der [Riads Marokko Guide](/blog/riads-marokko-guide) als Einstieg: Riad-Personal spricht oft mehrere Sprachen, und als Basis für Ausflüge auf lokale Märkte ist ein Riad ideal.
+In Marokko und anderen arabischsprachigen Ländern lohnt sich der [Riads Marokko Guide](/blog/riads-marokko-guide/) als Einstieg: Riad-Personal spricht oft mehrere Sprachen, und als Basis für Ausflüge auf lokale Märkte ist ein Riad ideal.
 
 ## In welchen Ländern hilft Englisch am wenigsten?
 
@@ -57,7 +57,7 @@ Es gibt Länder, wo du mit Englisch kaum weiterkommst:
 
 **Japan:** Außerhalb von Tokio und Kyoto spricht nur ein Bruchteil der Bevölkerung Englisch. Auf dem Land fast niemand. Schilder sind aber oft zweisprachig. Google Lens löst das Schilderproblem. Für die Kommunikation mit Menschen brauchst du Google Translate.
 
-**China:** In Peking und Shanghai gibt es einen touristischen Überbau mit Englisch. Verlasse diese Blase und Englisch funktioniert nicht mehr. Hinzu kommt, dass viele westliche Apps in China blockiert sind. Lade alles offline, bevor du einreist. Unser [Japan 3-Wochen-Route Artikel](/blog/japan-3-wochen-route) hat konkrete Hinweise zur App-Vorbereitung für die Region.
+**China:** In Peking und Shanghai gibt es einen touristischen Überbau mit Englisch. Verlasse diese Blase und Englisch funktioniert nicht mehr. Hinzu kommt, dass viele westliche Apps in China blockiert sind. Lade alles offline, bevor du einreist. Unser [Japan 3-Wochen-Route Artikel](/blog/japan-3-wochen-route/) hat konkrete Hinweise zur App-Vorbereitung für die Region.
 
 **Arabischsprachige Länder:** Marokko, Ägypten, Jordanien: In touristischen Bereichen kommt Englisch durch. Abseits davon: Arabisch oder lokal. Französisch hilft in Marokko oft weiter als Englisch.
 
@@ -79,7 +79,7 @@ Religioesen und kulturellen Stätten. Ein Guide erklärt, was du siehst. Das ist
 
 Für Stadtreisen nach Barcelona, Lissabon oder Dublin brauchst du keinen Guide. Für Japan oder den marokkanischen Süden: überleg es dir. Tipp: viele Guides bieten Halbtagstouren an. Kein Fullservice nötig.
 
-Zur Vorbereitung auf Japan hilft auch unser [Japan 3-Wochen-Route Guide](/blog/japan-3-wochen-route) mit konkreten Abschnitten zur Kommunikation vor Ort.
+Zur Vorbereitung auf Japan hilft auch unser [Japan 3-Wochen-Route Guide](/blog/japan-3-wochen-route/) mit konkreten Abschnitten zur Kommunikation vor Ort.
 
 ---
 
@@ -106,6 +106,6 @@ In China sind viele Google-Dienste gesperrt. Lade alle Sprachpakete offline heru
 ---
 
 **Mehr lesen:**
-- [Beste Travel Apps 2026: Was du wirklich brauchst](/blog/beste-travel-apps-2026)
-- [Japan 3-Wochen-Route: Vorbereitung und Apps](/blog/japan-3-wochen-route)
-- [Riads Marokko: Unterkunft und Einstieg in die Altstadt](/blog/riads-marokko-guide)
+- [Beste Travel Apps 2026: Was du wirklich brauchst](/blog/beste-travel-apps-2026/)
+- [Japan 3-Wochen-Route: Vorbereitung und Apps](/blog/japan-3-wochen-route/)
+- [Riads Marokko: Unterkunft und Einstieg in die Altstadt](/blog/riads-marokko-guide/)

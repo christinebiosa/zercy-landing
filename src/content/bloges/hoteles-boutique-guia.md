@@ -63,6 +63,6 @@ Los destinos con más tradición de alojamiento boutique de calidad: Lisboa y Op
 ---
 
 **Más para leer:**
-- [Airbnb vs. hotel: la comparación honesta para cada tipo de viaje](/es/blog/airbnb-vs-hotel-comparacion)
-- [¿Conviene reservar hotel online o directamente?](/es/blog/reservar-online-o-directo)
-- [Riads en Marruecos: cómo elegir el mejor](/es/blog/riads-marruecos-guia)
+- [Airbnb vs. hotel: la comparación honesta para cada tipo de viaje](/es/blog/airbnb-vs-hotel-comparacion/)
+- [¿Conviene reservar hotel online o directamente?](/es/blog/reservar-online-o-directo/)
+- [Riads en Marruecos: cómo elegir el mejor](/es/blog/riads-marruecos-guia/)

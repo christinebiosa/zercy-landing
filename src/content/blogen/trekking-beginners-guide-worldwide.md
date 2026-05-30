@@ -24,7 +24,7 @@ Not every "beginner trail" actually qualifies. Three factors matter: signage, in
 
 **Milford Track in New Zealand** is considered one of the world's most beautiful walks. 53 kilometres through Fiordland National Park. Fully equipped huts. Minimal elevation gain. You need advance hut bookings (from NZD 70 per night). Perfect for beginners who want comfort alongside wilderness.
 
-**Tour du Mont Blanc (selected stages)** circles the highest mountain in the Alps through France, Italy and Switzerland. The full route takes 11 days. For beginners: individual day stages between mountain huts. The French section from Chamonix is especially well signposted and has plenty of accommodation. More detail in the [alpine hiking beginners guide](/en/blog/alpine-hiking-beginners-guide).
+**Tour du Mont Blanc (selected stages)** circles the highest mountain in the Alps through France, Italy and Switzerland. The full route takes 11 days. For beginners: individual day stages between mountain huts. The French section from Chamonix is especially well signposted and has plenty of accommodation. More detail in the [alpine hiking beginners guide](/en/blog/alpine-hiking-beginners-guide/).
 
 ## What gear does a beginner trekker actually need?
 
@@ -75,7 +75,7 @@ You should be able to walk 15 to 20 kilometres in one go without being incapacit
 Camino de Santiago: from €700 to €1,200 for 4 weeks (travel, accommodation, food). Nepal trekking from €800 for 2 weeks (flight not included). Peru/Machu Picchu: €1,200 to €2,000 including flights from Europe. These are realistic budgets. Don't cut corners on shoes.
 
 ### What insurance do you need for trekking trips?
-Travel health insurance with helicopter rescue coverage is essential for Nepal and Peru. Standard EU health insurance doesn't cover those destinations. For the Camino in Spain, the European Health Insurance Card (EHIC) is sufficient. More on this in the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026).
+Travel health insurance with helicopter rescue coverage is essential for Nepal and Peru. Standard EU health insurance doesn't cover those destinations. For the Camino in Spain, the European Health Insurance Card (EHIC) is sufficient. More on this in the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 ### When is the best time for trekking routes?
 Camino de Santiago: April to June, September to October. Nepal: October to November, March to April. Peru: May to September. New Zealand: November to March (southern summer). Avoid monsoon seasons. Rain makes trails dangerous and views disappear into cloud.
@@ -84,6 +84,6 @@ Camino de Santiago: April to June, September to October. Nepal: October to Novem
 
 ## Read more
 
-- [Alpine Hiking for Beginners: Complete Guide](/en/blog/alpine-hiking-beginners-guide)
-- [Camino de Santiago: Everything You Need to Know](/en/blog/santiago-de-compostela)
-- [Nepal Travel Guide: Best Highlights](/en/blog/nepal-travel-guide-highlights)
+- [Alpine Hiking for Beginners: Complete Guide](/en/blog/alpine-hiking-beginners-guide/)
+- [Camino de Santiago: Everything You Need to Know](/en/blog/santiago-de-compostela/)
+- [Nepal Travel Guide: Best Highlights](/en/blog/nepal-travel-guide-highlights/)

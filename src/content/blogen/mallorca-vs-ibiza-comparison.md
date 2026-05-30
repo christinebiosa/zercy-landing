@@ -65,7 +65,7 @@ Mid-range hotel in Mallorca, high season: 80 to 130 euros. Same category in Ibiz
 
 Flights are comparable because both airports are well-connected. Palma (PMI) is the larger hub with more direct routes, which tends to mean lower fares, especially outside peak season.
 
-For getting the best flight prices, the Zercy blog covers what actually works: [Cheap Flights: What Really Works](/en/blog/cheap-flights-tips). For where to stay in Palma itself, there is a dedicated city guide: [Where to Stay in Palma de Mallorca](/en/blog/where-to-stay-palma-de-mallorca). And for the wider context of European beach options: [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026).
+For getting the best flight prices, the Zercy blog covers what actually works: [Cheap Flights: What Really Works](/en/blog/cheap-flights-tips/). For where to stay in Palma itself, there is a dedicated city guide: [Where to Stay in Palma de Mallorca](/en/blog/where-to-stay-palma-de-mallorca/). And for the wider context of European beach options: [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026/).
 
 ---
 
@@ -89,6 +89,6 @@ The north, especially around Sóller and Deià, is quieter and largely unchanged
 
 ## Read More
 
-- [Where to Stay in Palma de Mallorca](/en/blog/where-to-stay-palma-de-mallorca)
-- [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026)
-- [Cheap Flights: What Really Works](/en/blog/cheap-flights-tips)
+- [Where to Stay in Palma de Mallorca](/en/blog/where-to-stay-palma-de-mallorca/)
+- [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026/)
+- [Cheap Flights: What Really Works](/en/blog/cheap-flights-tips/)

@@ -45,7 +45,7 @@ Just north of the Old Town, planned and built in the 18th century. Wide Georgian
 
 **Top picks:** The Balmoral Hotel (legendary 5-star next to the station, J.K. Rowling finished Harry Potter here), The Caledonian Hotel (classic premium, now Waldorf Astoria), Cheval The Edinburgh Grand (boutique premium with apartments).
 
-See our [night trains Europe guide](/en/blog/night-trains-europe-2026), the Caledonian Sleeper London-Edinburgh is a classic route.
+See our [night trains Europe guide](/en/blog/night-trains-europe-2026/), the Caledonian Sleeper London-Edinburgh is a classic route.
 
 ## When is the best time to visit Edinburgh?
 
@@ -117,6 +117,6 @@ Backpacker: $800-1,100 per person incl. flight (hostel, pub food, bus). Mid-rang
 ---
 
 **Read more:**
-- [Where to stay in London: 5 neighborhoods](/en/blog/where-to-stay-london)
-- [Where to stay in Amsterdam: 4 neighborhoods](/en/blog/where-to-stay-amsterdam)
-- [Night trains in Europe: complete guide 2026](/en/blog/night-trains-europe-2026)
+- [Where to stay in London: 5 neighborhoods](/en/blog/where-to-stay-london/)
+- [Where to stay in Amsterdam: 4 neighborhoods](/en/blog/where-to-stay-amsterdam/)
+- [Night trains in Europe: complete guide 2026](/en/blog/night-trains-europe-2026/)

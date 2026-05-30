@@ -36,7 +36,7 @@ A proven split for moderate climates (Europe spring/fall, tropics in evening).
 
 Plus extras: 2 pairs of shoes (1 comfortable for walking, 1 dressier), 1 set of underwear per 4 travel days (you wash in between).
 
-See our detailed [carry-on guide](/en/blog/carry-on-only) for the full pack list.
+See our detailed [carry-on guide](/en/blog/carry-on-only/) for the full pack list.
 
 ## How do you combine them into 14 outfits?
 
@@ -73,7 +73,7 @@ What doesn't belong in a capsule wardrobe: linen (wrinkles madly), pure cotton (
 
 A 2023 [Outdoor Gear Lab merino comparison](https://www.outdoorgearlab.com/) ranked Icebreaker and Smartwool highest, both for odor neutrality and durability.
 
-If you want to travel carry-on only but don't have time for a perfect capsule, our [open-jaw tickets guide](/en/blog/open-jaw-tickets-travel-hack) helps reduce travel stress.
+If you want to travel carry-on only but don't have time for a perfect capsule, our [open-jaw tickets guide](/en/blog/open-jaw-tickets-travel-hack/) helps reduce travel stress.
 
 ---
 
@@ -100,6 +100,6 @@ For merino: Icebreaker, Smartwool, Woolly. For travel pants: Outlier, Bluffworks
 ---
 
 **Read more:**
-- [Carry-on only: the complete guide](/en/blog/carry-on-only)
-- [Airport hacks: 7 best tips for stress-free flying](/en/blog/airport-hacks)
-- [Open-jaw tickets: the travel hack almost nobody uses](/en/blog/open-jaw-tickets-travel-hack)
+- [Carry-on only: the complete guide](/en/blog/carry-on-only/)
+- [Airport hacks: 7 best tips for stress-free flying](/en/blog/airport-hacks/)
+- [Open-jaw tickets: the travel hack almost nobody uses](/en/blog/open-jaw-tickets-travel-hack/)

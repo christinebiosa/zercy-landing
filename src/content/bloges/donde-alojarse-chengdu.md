@@ -37,7 +37,7 @@ Si quieres sentir la Chengdu histórica, este es tu barrio. Kuanzhai Alley (el C
 
 Mejores opciones: **Niccolo Chengdu** (boutique de lujo junto a los callejones históricos), **LESS Hotel** (diseño contemporáneo en entorno histórico), **Guóxué Lù Hostel** (opción económica con carácter local genuino).
 
-Si combinas Chengdu con otros países del Sudeste Asiático, nuestra guía sobre [viajes económicos por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico) tiene consejos muy útiles. Los vuelos desde Chengdu a Bangkok o Ciudad Ho Chi Minh suelen ser bastante asequibles.
+Si combinas Chengdu con otros países del Sudeste Asiático, nuestra guía sobre [viajes económicos por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/) tiene consejos muy útiles. Los vuelos desde Chengdu a Bangkok o Ciudad Ho Chi Minh suelen ser bastante asequibles.
 
 ## ¿Cuándo es la mejor época para visitar Chengdu?
 
@@ -63,7 +63,7 @@ Chengdu tiene dos aeropuertos internacionales. El Aeropuerto Internacional de Sh
 
 Mejores opciones: **Sheraton Chengdu Lido Hotel** (calidad cerca del aeropuerto), **Holiday Inn Chengdu Xindu** (fiable, servicio de shuttle disponible), **Mercure Chengdu Airport** (sencillo, funcional, asequible).
 
-Para más consejos sobre cómo organizar un viaje a Japón después de Chengdu, consulta nuestra guía de [Japón en 3 semanas](/es/blog/japon-3-semanas-ruta). La combinación con una escala en Chengdu funciona muy bien.
+Para más consejos sobre cómo organizar un viaje a Japón después de Chengdu, consulta nuestra guía de [Japón en 3 semanas](/es/blog/japon-3-semanas-ruta/). La combinación con una escala en Chengdu funciona muy bien.
 
 ## ¿Dónde conviene reservar al final?
 
@@ -89,6 +89,6 @@ La base de pandas por la mañana temprano es imprescindible. El Callejón Ancho 
 
 ## Más artículos
 
-- [Japón en 3 semanas: ruta completa](/es/blog/japon-3-semanas-ruta)
-- [Sudeste Asiático: viaje económico](/es/blog/sudeste-asiatico-viaje-economico)
-- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Japón en 3 semanas: ruta completa](/es/blog/japon-3-semanas-ruta/)
+- [Sudeste Asiático: viaje económico](/es/blog/sudeste-asiatico-viaje-economico/)
+- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)

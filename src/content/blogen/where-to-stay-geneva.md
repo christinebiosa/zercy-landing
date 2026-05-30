@@ -77,6 +77,6 @@ Geneva offers more than the UN and watchmakers. Lac Léman, the old town, the Mu
 
 ## Read more
 
-- [Where to Stay in Nice](/en/blog/where-to-stay-nice)
-- [Where to Stay in Salzburg](/en/blog/where-to-stay-salzburg)
-- [Where to Stay in Vienna](/en/blog/where-to-stay-vienna)
+- [Where to Stay in Nice](/en/blog/where-to-stay-nice/)
+- [Where to Stay in Salzburg](/en/blog/where-to-stay-salzburg/)
+- [Where to Stay in Vienna](/en/blog/where-to-stay-vienna/)

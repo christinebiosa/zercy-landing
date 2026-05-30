@@ -59,7 +59,7 @@ Ancoats was a forgotten industrial wasteland 15 years ago. Today it's one of the
 - **Moxy Manchester City** (budget-friendly, modern design, good for short trips, approx. £85)
 - **The Whitworth Locke** (aparthotel in converted factory building, full of character, approx. £150)
 
-See our [where to stay in London](/en/blog/where-to-stay-london) guide for the classic England trip combining both cities.
+See our [where to stay in London](/en/blog/where-to-stay-london/) guide for the classic England trip combining both cities.
 
 ## Didsbury: Quiet and upscale residential
 
@@ -129,5 +129,5 @@ Ancoats is the top choice. The restaurant density is exceptional for such a smal
 ---
 
 **Read more:**
-- [Where to stay in London: The 5 neighborhoods](/en/blog/where-to-stay-london)
-- [Where to stay in Edinburgh: The best areas](/en/blog/where-to-stay-edinburgh)
+- [Where to stay in London: The 5 neighborhoods](/en/blog/where-to-stay-london/)
+- [Where to stay in Edinburgh: The best areas](/en/blog/where-to-stay-edinburgh/)

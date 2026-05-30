@@ -34,7 +34,7 @@ On most long-haul trips for experienced travelers. And on longer trips, almost a
 
 **Cost on longer trips.** A package tour is compact pricing for 7 or 14 nights. Travel for three weeks and independent planning almost always finds cheaper options. Guesthouses, local transport, markets instead of restaurants.
 
-**Southeast Asia, Japan, Europe.** These destinations have excellent tourist infrastructure. Trains, hostels, clear signage, apps in English. Nobody needs an operator here. Check our [Southeast Asia budget guide](/en/blog/southeast-asia-budget-travel) for specific numbers.
+**Southeast Asia, Japan, Europe.** These destinations have excellent tourist infrastructure. Trains, hostels, clear signage, apps in English. Nobody needs an operator here. Check our [Southeast Asia budget guide](/en/blog/southeast-asia-budget-travel/) for specific numbers.
 
 ## What is really included in all-inclusive?
 
@@ -56,13 +56,13 @@ Book flights and accommodation yourself via Booking.com, Expedia, or Google Flig
 
 Book activities and tours through local operators on the ground, or via Viator or GetYourGuide. Professional local guides for half-day excursions, but no rigid full-program commitment.
 
-Book transfers and rental cars directly. A [rental car comparison](/en/blog/rental-consolidators-save-money) often saves 30 to 40 percent compared to package transfers.
+Book transfers and rental cars directly. A [rental car comparison](/en/blog/rental-consolidators-save-money/) often saves 30 to 40 percent compared to package transfers.
 
 This gives you package tour security on core logistics and independent travel freedom on everything else.
 
 AI tools like Zercy help with this hybrid planning: compare flight and hotel options, check transfers, structure itineraries. Save your plan in your [Zercy Logbook](https://www.zercy.app/logbook) and keep all options in one place.
 
-If you want the full travel agency comparison: in our article [AI trip planner vs. travel agency](/en/blog/ai-trip-planner-vs-travel-agent) we've gone through the differences systematically.
+If you want the full travel agency comparison: in our article [AI trip planner vs. travel agency](/en/blog/ai-trip-planner-vs-travel-agent/) we've gone through the differences systematically.
 
 ---
 
@@ -87,6 +87,6 @@ Because control and flexibility become more valuable the more you travel. Someon
 ---
 
 **Read more:**
-- [AI Trip Planner vs. Travel Agency: What's Better?](/en/blog/ai-trip-planner-vs-travel-agent)
-- [Rental Consolidators: Save Money on Cars](/en/blog/rental-consolidators-save-money)
-- [Early Booking vs. Last Minute: When to Book](/en/blog/early-booking-vs-last-minute)
+- [AI Trip Planner vs. Travel Agency: What's Better?](/en/blog/ai-trip-planner-vs-travel-agent/)
+- [Rental Consolidators: Save Money on Cars](/en/blog/rental-consolidators-save-money/)
+- [Early Booking vs. Last Minute: When to Book](/en/blog/early-booking-vs-last-minute/)

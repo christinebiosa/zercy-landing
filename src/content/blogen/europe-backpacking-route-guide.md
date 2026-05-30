@@ -38,7 +38,7 @@ Travel blogs often publish dream budgets. Here are honest numbers.
 
 A four-week Western Europe trip costs at minimum 1,400 euros on the ground. Eastern Europe works out around 840 euros for the same duration. Add flights, a rail pass, and gear before you leave.
 
-Check out [Budget Travel in Eastern Europe](/en/blog/budget-travel-eastern-europe) for a deeper breakdown of costs by country.
+Check out [Budget Travel in Eastern Europe](/en/blog/budget-travel-eastern-europe/) for a deeper breakdown of costs by country.
 
 ## Is Interrail Worth It, or Should You Buy Single Tickets?
 
@@ -46,7 +46,7 @@ From three countries onward, an [Interrail Global Pass](https://www.interrail.eu
 
 Single tickets make sense when you're booking far in advance or covering a limited route. Paris to Barcelona can cost under 40 euros as an early-bird fare. Berlin to Prague is often under 30 euros. But if you're traveling spontaneously and want to make last-minute decisions, Interrail removes the friction entirely.
 
-Night trains are one of the best-value moves in European backpacking — you save a night's accommodation and cover long distances while you sleep. Read more in our guide to [Night Trains in Europe 2026](/en/blog/night-trains-europe-2026).
+Night trains are one of the best-value moves in European backpacking — you save a night's accommodation and cover long distances while you sleep. Read more in our guide to [Night Trains in Europe 2026](/en/blog/night-trains-europe-2026/).
 
 ## What Do You Actually Need to Pack?
 
@@ -61,15 +61,15 @@ The essentials:
 
 Buy anything else you need along the way. Every city has a pharmacy and a budget clothing store. Traveling light keeps you mobile and stress-free.
 
-Want to nail the carry-on-only approach? See our [Carry-On Only Travel Guide](/en/blog/carry-on-only).
+Want to nail the carry-on-only approach? See our [Carry-On Only Travel Guide](/en/blog/carry-on-only/).
 
 ---
 
 ## Read More
 
-- [Budget Travel in Eastern Europe: Complete Country Guide](/en/blog/budget-travel-eastern-europe)
-- [Backpacking Beginners Guide: Everything Before Your First Trip](/en/blog/backpacking-beginners-guide)
-- [Night Trains in Europe 2026: Routes, Prices, and Tips](/en/blog/night-trains-europe-2026)
+- [Budget Travel in Eastern Europe: Complete Country Guide](/en/blog/budget-travel-eastern-europe/)
+- [Backpacking Beginners Guide: Everything Before Your First Trip](/en/blog/backpacking-beginners-guide/)
+- [Night Trains in Europe 2026: Routes, Prices, and Tips](/en/blog/night-trains-europe-2026/)
 
 ---
 

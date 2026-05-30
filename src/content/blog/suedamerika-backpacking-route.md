@@ -32,7 +32,7 @@ Ausnahmen gibt es: **Chile und Argentinien** sind deutlich teurer. In Buenos Air
 
 **Barzahlung ist in vielen Ländern Pflicht.** Geldautomaten sind manchmal begrenzt oder verlangen hohe Gebühren. Eine Wise-Karte ist empfehlenswert: Sie rechnet zum echten Wechselkurs ab, ohne versteckte Aufschläge. Heb trotzdem immer etwas Bargeld in lokaler Währung ab, bevor du in abgelegene Regionen reist.
 
-Mehr dazu, wie du dein Reisebudget planst: [Reisebudget richtig planen](/blog/reise-budget-sparen-anleitung)
+Mehr dazu, wie du dein Reisebudget planst: [Reisebudget richtig planen](/blog/reise-budget-sparen-anleitung/)
 
 ---
 
@@ -51,7 +51,7 @@ Die klassische Route sieht ungefähr so aus:
 
 Für Langstrecken lohnt sich manchmal ein Billigflug. Innerhalb des Kontinents gibt es Anbieter wie LATAM und Sky, die regelmäßig günstige Tickets anbieten.
 
-Lies auch: [Günstig reisen in Mittelamerika](/blog/guenstig-reisen-mittelamerika-guide) und den [Backpacking Einsteiger Guide](/blog/backpacking-einsteiger-guide)
+Lies auch: [Günstig reisen in Mittelamerika](/blog/guenstig-reisen-mittelamerika-guide/) und den [Backpacking Einsteiger Guide](/blog/backpacking-einsteiger-guide/)
 
 ---
 
@@ -63,7 +63,7 @@ Das ist kompliziert, denn der Kontinent ist riesig und die Klimazonen sehr unter
 
 Ein wichtiger Punkt: Der Nordhalbkugel-Sommer (Juni bis August) ist Regenzeit in Teilen des Amazonas-Beckens. Wer den Regenwald besuchen will, muss das einplanen.
 
-Eine [fundierte Übersicht zu Sicherheit in Lateinamerika](/blog/lateinamerika-sicherheit-tipps) findest du in unserem separaten Guide.
+Eine [fundierte Übersicht zu Sicherheit in Lateinamerika](/blog/lateinamerika-sicherheit-tipps/) findest du in unserem separaten Guide.
 
 ---
 
@@ -105,6 +105,6 @@ Starte deinen Plan: [zercy.app/logbook](https://www.zercy.app/logbook)
 
 ### Mehr lesen
 
-- [Lateinamerika Sicherheitstipps für Reisende](/blog/lateinamerika-sicherheit-tipps)
-- [Backpacking für Einsteiger: Der große Guide](/blog/backpacking-einsteiger-guide)
-- [Reisebudget richtig planen und sparen](/blog/reise-budget-sparen-anleitung)
+- [Lateinamerika Sicherheitstipps für Reisende](/blog/lateinamerika-sicherheit-tipps/)
+- [Backpacking für Einsteiger: Der große Guide](/blog/backpacking-einsteiger-guide/)
+- [Reisebudget richtig planen und sparen](/blog/reise-budget-sparen-anleitung/)

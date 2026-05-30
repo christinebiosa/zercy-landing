@@ -47,7 +47,7 @@ Savamala is what Prenzlauer Berg used to be. Old warehouses under the Brankov Br
 
 **Top picks:** Savamala Bed & Breakfast (charming and central in the neighborhood), Mama Shelter Belgrade (design boutique, great bar, lively atmosphere).
 
-Read also our guide on [where to stay in Budapest](/en/blog/where-to-stay-budapest) if you're planning a Balkan and Central Europe combo.
+Read also our guide on [where to stay in Budapest](/en/blog/where-to-stay-budapest/) if you're planning a Balkan and Central Europe combo.
 
 ## Vračar: Real Belgrade
 
@@ -119,5 +119,5 @@ Novi Beograd is on the other side of the Sava River. By car or Uber: 10–15 min
 ---
 
 **Read more:**
-- [Where to Stay in Budapest: The Best Neighborhoods](/en/blog/where-to-stay-budapest)
-- [Where to Stay in Sarajevo: The Best Neighborhoods](/en/blog/where-to-stay-sarajevo)
+- [Where to Stay in Budapest: The Best Neighborhoods](/en/blog/where-to-stay-budapest/)
+- [Where to Stay in Sarajevo: The Best Neighborhoods](/en/blog/where-to-stay-sarajevo/)

@@ -54,7 +54,7 @@ Hoteles y villas en Ubud: de 30 a 300 euros.
 **Recomendación:**
 - **Komaneka at Bisma** (resort de diseño con vistas a los arrozales, aprox. 300 €)
 
-Para otros destinos de isla y cultura en el sudeste asiático, consulta también [dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur) y [dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok).
+Para otros destinos de isla y cultura en el sudeste asiático, consulta también [dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur/) y [dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok/).
 
 ## Canggu: El Bali de los nómadas digitales
 
@@ -95,6 +95,6 @@ El transporte privado con conductor (muy económico) es la forma más cómoda de
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Singapur: Marina Bay, Orchard Road o Chinatown](/es/blog/donde-alojarse-singapur)
-- [Dónde alojarse en Bangkok: Sukhumvit, Silom o Riverside](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Hanói: Barrio Antiguo o Hoan Kiem](/es/blog/donde-alojarse-hanoi)
+- [Dónde alojarse en Singapur: Marina Bay, Orchard Road o Chinatown](/es/blog/donde-alojarse-singapur/)
+- [Dónde alojarse en Bangkok: Sukhumvit, Silom o Riverside](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Hanói: Barrio Antiguo o Hoan Kiem](/es/blog/donde-alojarse-hanoi/)

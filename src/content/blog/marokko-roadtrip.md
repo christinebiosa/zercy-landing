@@ -22,7 +22,7 @@ Dieser Guide führt dich durch die klassische Route: Marrakesch als Ausgangspunk
 
 **Erg Chebbi bei Merzouga (2 Nächte):** Die Sanddünen des Erg Chebbi sind das Herzstück dieses Roadtrips. Die Dünen erreichen bis zu 150 Meter Höhe. Sonnenauf- und -untergang auf dem Kamelsattel. Nacht im Wüstencamp unter einem Himmel ohne Lichtverschmutzung. Das ist kein Klischee, das ist tatsächlich so gut wie es klingt.
 
-**Rückfahrt über Tinghir und Boumalne Dades:** Die Schlucht von Todra (Gorges du Todra) und die Dades-Schlucht liegen auf dem Rückweg. Beide sind spektakulär. Plane je einen kurzen Stopp ein. Von dort zurück über den Atlas nach Marrakesch, oder weiter nach Agadir für Meerblick und Fischmärkte. Wer die Route bis zur Atlantikküste verlängert: Unsere Guides zu den [besten Hotels in Essaouira](/blog/wo-uebernachten-essaouira) und [besten Hotels in Agadir](/blog/wo-uebernachten-agadir) helfen bei der Unterkunftssuche.
+**Rückfahrt über Tinghir und Boumalne Dades:** Die Schlucht von Todra (Gorges du Todra) und die Dades-Schlucht liegen auf dem Rückweg. Beide sind spektakulär. Plane je einen kurzen Stopp ein. Von dort zurück über den Atlas nach Marrakesch, oder weiter nach Agadir für Meerblick und Fischmärkte. Wer die Route bis zur Atlantikküste verlängert: Unsere Guides zu den [besten Hotels in Essaouira](/blog/wo-uebernachten-essaouira/) und [besten Hotels in Agadir](/blog/wo-uebernachten-agadir/) helfen bei der Unterkunftssuche.
 
 ## Welche Besonderheiten hat der Mietwagen in Marokko?
 
@@ -34,7 +34,7 @@ Grenzübertritte mit einem Mietwagen sind möglich, aber der Vertrag muss es aus
 
 Tanke überall dort, wo du kannst. Zwischen Merzouga und dem nächsten grösseren Ort liegen manchmal 150 Kilometer ohne Tankstelle.
 
-Weitere Infos zu Mietwagen findest du in unserem [Mietwagen-Check](/blog/mietwagen-check). Für die Unterkunft in Marrakesch gibt es unseren Guide zu [Riads in Marokko](/blog/riads-marokko-guide). Und wenn du die Tour nachhaltig gestalten möchtest, findest du in unserem Artikel zur [CO2-Kompensation beim Fliegen](/blog/co2-kompensation-fliegen) gute Anlaufstellen.
+Weitere Infos zu Mietwagen findest du in unserem [Mietwagen-Check](/blog/mietwagen-check/). Für die Unterkunft in Marrakesch gibt es unseren Guide zu [Riads in Marokko](/blog/riads-marokko-guide/). Und wenn du die Tour nachhaltig gestalten möchtest, findest du in unserem Artikel zur [CO2-Kompensation beim Fliegen](/blog/co2-kompensation-fliegen/) gute Anlaufstellen.
 
 Die offizielle Tourismusseite [Visit Morocco](https://www.visitmorocco.com) bietet aktuelle Informationen zu Einreisebestimmungen, Sehenswürdigkeiten und Regionalführern.
 
@@ -71,6 +71,6 @@ In kleineren Orten wie Merzouga, Tinghir und entlang des Draa-Tals gibt es zahlr
 ---
 
 **Mehr lesen:**
-- [Riads in Marokko: Die schönsten Unterkünfte](/blog/riads-marokko-guide)
-- [Mietwagen-Check: Worauf du beim Buchen achten musst](/blog/mietwagen-check)
-- [CO2-Kompensation beim Fliegen: Was bringt es wirklich?](/blog/co2-kompensation-fliegen)
+- [Riads in Marokko: Die schönsten Unterkünfte](/blog/riads-marokko-guide/)
+- [Mietwagen-Check: Worauf du beim Buchen achten musst](/blog/mietwagen-check/)
+- [CO2-Kompensation beim Fliegen: Was bringt es wirklich?](/blog/co2-kompensation-fliegen/)

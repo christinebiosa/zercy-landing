@@ -73,7 +73,7 @@ Menos es más. Esto no es un cliché de guía de viajes. Es la experiencia de lo
 
 Una regla concreta: máximo 2 actividades planificadas por día de viaje. El resto sucede solo.
 
-Para los que viajan seguido a destinos de LATAM, nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires) y [guía de Lima](/es/blog/donde-alojarse-lima) tienen los barrios con mejor relación precio-calidad para reducir el estrés de alojamiento.
+Para los que viajan seguido a destinos de LATAM, nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) y [guía de Lima](/es/blog/donde-alojarse-lima/) tienen los barrios con mejor relación precio-calidad para reducir el estrés de alojamiento.
 
 ---
 
@@ -100,6 +100,6 @@ Deportes extremos (esquí fuera de pista, buceo profundo, escalada por encima de
 ---
 
 **Más información:**
-- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Lima: Los mejores barrios](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Bogotá: Los mejores barrios](/es/blog/donde-alojarse-bogota)
+- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Lima: Los mejores barrios](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Bogotá: Los mejores barrios](/es/blog/donde-alojarse-bogota/)

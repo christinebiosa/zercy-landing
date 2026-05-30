@@ -96,6 +96,6 @@ La entrada a Tivoli cuesta unos 150 DKK (~22 USD) para adultos. Las atracciones 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Ámsterdam: Los 5 barrios](/es/blog/donde-alojarse-amsterdam)
-- [Dónde alojarse en Berlín: ¿Mitte o Prenzlauer Berg?](/es/blog/donde-alojarse-berlin)
-- [Trenes nocturnos en Europa 2026: Rutas y consejos](/es/blog/trenes-nocturnos-europa-2026)
+- [Dónde alojarse en Ámsterdam: Los 5 barrios](/es/blog/donde-alojarse-amsterdam/)
+- [Dónde alojarse en Berlín: ¿Mitte o Prenzlauer Berg?](/es/blog/donde-alojarse-berlin/)
+- [Trenes nocturnos en Europa 2026: Rutas y consejos](/es/blog/trenes-nocturnos-europa-2026/)

@@ -80,7 +80,7 @@ Stattdessen: buch den Flug separat, mit zwei Optionen:
 
 **Option A: Roundtrip** (hin und zurück zur selben Stadt). Am einfachsten. Wenn Einschiffen und Ausschiffen in derselben Stadt sind (typisch für Mittelmeer-Rundreisen).
 
-**Option B: Open-Jaw** (anderer Rückflugort). Wenn die Kreuzfahrt in einer anderen Stadt endet (z.B. Rom nach Barcelona). Ein [Open-Jaw-Ticket](/blog/open-jaw-tickets-reise-hack) kostet fast genauso viel wie ein Roundtrip, spart dir aber eine Inlandsanreise.
+**Option B: Open-Jaw** (anderer Rückflugort). Wenn die Kreuzfahrt in einer anderen Stadt endet (z.B. Rom nach Barcelona). Ein [Open-Jaw-Ticket](/blog/open-jaw-tickets-reise-hack/) kostet fast genauso viel wie ein Roundtrip, spart dir aber eine Inlandsanreise.
 
 ## Gepäck-Logistik zwischen Hotel und Schiff
 
@@ -118,9 +118,9 @@ Das ist der Preis für 2 Tage in einer der spektakulärsten Städte Europas. Meh
 
 ---
 
-Zercy hilft dir bei der kompletten Logistik: Flug optimal mit Roundtrip oder Open-Jaw, Hotel im richtigen Viertel, Transfer zum Hafen. Das [Zercy Logbook](/blog/zercy-logbook) hält Kreuzfahrt + Stadt-Verlängerung chronologisch zusammen.
+Zercy hilft dir bei der kompletten Logistik: Flug optimal mit Roundtrip oder Open-Jaw, Hotel im richtigen Viertel, Transfer zum Hafen. Das [Zercy Logbook](/blog/zercy-logbook/) hält Kreuzfahrt + Stadt-Verlängerung chronologisch zusammen.
 
-**Mehr lesen:** [Open-Jaw-Tickets: Der unterschätzte Reise-Hack](/blog/open-jaw-tickets-reise-hack) · [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks) · [Mietwagen-Consolidator: Warum damit oft günstiger](/blog/mietwagen-consolidator-guenstiger-fahren)
+**Mehr lesen:** [Open-Jaw-Tickets: Der unterschätzte Reise-Hack](/blog/open-jaw-tickets-reise-hack/) · [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks/) · [Mietwagen-Consolidator: Warum damit oft günstiger](/blog/mietwagen-consolidator-guenstiger-fahren/)
 
 ## Häufige Fragen
 

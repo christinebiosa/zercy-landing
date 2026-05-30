@@ -36,7 +36,7 @@ Business traveler with a carry-on: Airport express plus metro is almost always t
 
 Arriving after midnight: Skip the bus. Either Uber/Bolt (cheaper) or taxi (safer). Important: always confirm price upfront or check that the meter is running.
 
-Read our [airport hacks for frequent travelers](/en/blog/airport-hacks) for the best tricks around flying in general.
+Read our [airport hacks for frequent travelers](/en/blog/airport-hacks/) for the best tricks around flying in general.
 
 ## Major Airports Compared: What Works Best Where?
 
@@ -62,7 +62,7 @@ This is the biggest risk for first-time visitors nearly everywhere in the world.
 
 3. **Screenshot the Uber/Grab/Bolt price before you get in.** With ride-hailing you see the final price before boarding. No risk.
 
-More on safe payments while traveling: [money abroad guide](/en/blog/money-abroad-tips).
+More on safe payments while traveling: [money abroad guide](/en/blog/money-abroad-tips/).
 
 ## Book in Advance or Decide at the Airport?
 
@@ -99,6 +99,6 @@ Only use official taxis or ride-hailing apps. Never get in a car with someone wh
 ---
 
 **Read more:**
-- [Airport hacks: The best tricks for frequent travelers](/en/blog/airport-hacks)
-- [Money abroad: Cards, cash and exchange rates](/en/blog/money-abroad-tips)
-- [Stopover tourism: Making the most of a layover](/en/blog/stopover-tourism-guide)
+- [Airport hacks: The best tricks for frequent travelers](/en/blog/airport-hacks/)
+- [Money abroad: Cards, cash and exchange rates](/en/blog/money-abroad-tips/)
+- [Stopover tourism: Making the most of a layover](/en/blog/stopover-tourism-guide/)

@@ -43,7 +43,7 @@ Nördlicher Teil mit Wynn (Steve Wynns Premium-Imperium), Encore, Resorts World 
 
 **Top-Picks:** Wynn Las Vegas (5-Sterne mit Spa und Golfplatz), Encore at Wynn (Schwesterhotel mit nochmal mehr Pools), Resorts World Las Vegas (3 Marken: Conrad, Hilton, Crockfords).
 
-Lies dazu auch unseren [Las-Vegas-Etappenplan-Guide](/blog/roadtrip-etappen-planung), Vegas ist perfekter Stop für Südwest-USA-Roadtrips.
+Lies dazu auch unseren [Las-Vegas-Etappenplan-Guide](/blog/roadtrip-etappen-planung/), Vegas ist perfekter Stop für Südwest-USA-Roadtrips.
 
 ## Wann ist die beste Reisezeit für Las Vegas?
 
@@ -117,6 +117,6 @@ Backpacker: 800-1.200 Euro pro Person inkl. Flug (Downtown-Hotel, Buffet, Foot-T
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Los Angeles: Die 5 Stadtteile](/blog/wo-uebernachten-los-angeles)
-- [Wo übernachten in San Francisco: Die 5 Stadtteile](/blog/wo-uebernachten-san-francisco)
-- [Roadtrip Etappen-Planung: So planst du eine Strecke](/blog/roadtrip-etappen-planung)
+- [Wo übernachten in Los Angeles: Die 5 Stadtteile](/blog/wo-uebernachten-los-angeles/)
+- [Wo übernachten in San Francisco: Die 5 Stadtteile](/blog/wo-uebernachten-san-francisco/)
+- [Roadtrip Etappen-Planung: So planst du eine Strecke](/blog/roadtrip-etappen-planung/)

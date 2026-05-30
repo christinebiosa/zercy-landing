@@ -15,9 +15,9 @@ Morocco is broadly a year-round destination. But "year-round possible" doesn't m
 
 Spring and fall are the main seasons for Marrakech, Fès, and Meknes.
 
-**March to May:** The best time overall. Temperatures between 18 and 28°C, blooming gardens, and excellent conditions for medina walks, market browsing, and day trips into the High Atlas. The rose fields of the Dadès Valley typically bloom in April and May. The [Morocco cities guide](/en/blog/morocco-cities-guide) covers what to prioritize across a spring circuit.
+**March to May:** The best time overall. Temperatures between 18 and 28°C, blooming gardens, and excellent conditions for medina walks, market browsing, and day trips into the High Atlas. The rose fields of the Dadès Valley typically bloom in April and May. The [Morocco cities guide](/en/blog/morocco-cities-guide/) covers what to prioritize across a spring circuit.
 
-**September to November:** Also excellent. The worst summer heat has passed, the light turns warmer and more golden, and October brings quieter travel without spring's crowds. For Sahara tours, October and November offer ideal conditions: not too hot during the day, spectacular night skies. The [Morocco road trip route](/en/blog/morocco-road-trip) works best during this window.
+**September to November:** Also excellent. The worst summer heat has passed, the light turns warmer and more golden, and October brings quieter travel without spring's crowds. For Sahara tours, October and November offer ideal conditions: not too hot during the day, spectacular night skies. The [Morocco road trip route](/en/blog/morocco-road-trip/) works best during this window.
 
 **December to February:** Morocco in winter surprises most European visitors. In Marrakech and Agadir, daytime temperatures sit at 15 to 20°C. Cool evenings, but manageable for touring. The High Atlas has snow, and some mountain passes close. Anyone planning to cross the Atlas by road should check conditions in advance. Riad courtyards can be cold at night, so pack accordingly.
 
@@ -29,7 +29,7 @@ For the desert and southern regions, the rule is clear: October through April.
 
 Summer in the Sahara is brutal. Temperatures of 45 to 50°C are not unusual. Anyone planning camel treks, overnight camps, or sunrise at the dunes near Merzouga should travel between October and March. Nights in the desert are cold (0 to 10°C) but easy to manage with the right gear.
 
-The [Morocco road trip](/en/blog/morocco-road-trip) through the kasbahs and valley routes is doable without restrictions during this window.
+The [Morocco road trip](/en/blog/morocco-road-trip/) through the kasbahs and valley routes is doable without restrictions during this window.
 
 ## What Does Ramadan Mean for Travelers?
 
@@ -43,7 +43,7 @@ Agadir and Essaouira are the exceptions to the summer heat rule. Both sit on the
 
 Anyone visiting Morocco in summer should base themselves on the Atlantic coast and avoid the interior.
 
-For [riad stays in Marrakech](/en/blog/morocco-riads-guide), spring is the ideal season. Courtyard evenings are warm enough to sit outside, and the gardens are at their best.
+For [riad stays in Marrakech](/en/blog/morocco-riads-guide/), spring is the ideal season. Courtyard evenings are warm enough to sit outside, and the gardens are at their best.
 
 ---
 
@@ -69,6 +69,6 @@ Marrakech for the medina and Djemaa el-Fna square, Fès for the world's oldest i
 
 ## Read More
 
-- [Morocco Cities Guide: The Best Places to Visit](/en/blog/morocco-cities-guide)
-- [Morocco Road Trip: Route Through the South](/en/blog/morocco-road-trip)
-- [Riads in Morocco: What to Expect](/en/blog/morocco-riads-guide)
+- [Morocco Cities Guide: The Best Places to Visit](/en/blog/morocco-cities-guide/)
+- [Morocco Road Trip: Route Through the South](/en/blog/morocco-road-trip/)
+- [Riads in Morocco: What to Expect](/en/blog/morocco-riads-guide/)

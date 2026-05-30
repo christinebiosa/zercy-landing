@@ -49,7 +49,7 @@ Los hoteles y villas en Dobrota suelen ocupar edificios venecianos restaurados. 
 
 **Mejores opciones:** Hotel Forza Leo (pequeño hotel frente al mar con vistas a la bahía desde el balcón), Cattaro Design Hotel (diseño moderno, terraza sobre el agua), varias villas con acceso privado al mar.
 
-Si combinas Kotor con la costa croata, la [guía de barrios de Dubrovnik](/es/blog/donde-alojarse-dubrovnik) cubre la parada más popular a dos horas al norte.
+Si combinas Kotor con la costa croata, la [guía de barrios de Dubrovnik](/es/blog/donde-alojarse-dubrovnik/) cubre la parada más popular a dos horas al norte.
 
 ## ¿Cuándo es la mejor época para visitar Kotor?
 
@@ -81,7 +81,7 @@ Residentes locales, sin turistas de crucero, konobas auténticas. Los precios so
 
 **Mejores opciones:** Apartamentos en alojamientos privados, pequeñas casas de huéspedes con terraza y vistas a la bahía.
 
-Para más contexto adriático, la [guía de barrios de Split](/es/blog/donde-alojarse-split) cubre otra impresionante ciudad amurallada a pocas horas al norte en la costa croata.
+Para más contexto adriático, la [guía de barrios de Split](/es/blog/donde-alojarse-split/) cubre otra impresionante ciudad amurallada a pocas horas al norte en la costa croata.
 
 ## Tivat/Porto Montenegro: Marina de lujo y yates
 
@@ -131,6 +131,6 @@ Subir las murallas de la fortaleza hasta el Castillo San Giovanni (madrugar para
 ---
 
 **Más información:**
-- [Los mejores hoteles en Dubrovnik: Los 5 barrios](/es/blog/donde-alojarse-dubrovnik)
-- [Los mejores hoteles en Split: Palacio o playa](/es/blog/donde-alojarse-split)
-- [Albania Riviera: La costa escondida del Adriático](/es/blog/albania-riviera-escondida)
+- [Los mejores hoteles en Dubrovnik: Los 5 barrios](/es/blog/donde-alojarse-dubrovnik/)
+- [Los mejores hoteles en Split: Palacio o playa](/es/blog/donde-alojarse-split/)
+- [Albania Riviera: La costa escondida del Adriático](/es/blog/albania-riviera-escondida/)

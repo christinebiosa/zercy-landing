@@ -38,7 +38,7 @@ Four platforms dominate the market.
 
 **Cost comparison:** At 185 EUR annual fee and two or three weeks of travel, you save 1,500 to 3,000 EUR in accommodation costs compared to a hotel or Airbnb. The fee pays for itself on a single trip.
 
-For context: our [Airbnb vs. hotel comparison](/en/blog/airbnb-vs-hotel-comparison) covers when short-term rental platforms are the better choice.
+For context: our [Airbnb vs. hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) covers when short-term rental platforms are the better choice.
 
 ## Who Is Home Swapping Actually Worth It For?
 
@@ -80,7 +80,7 @@ Your profile is your pitch. A weak profile gets no requests.
 
 The more attractive your home and the bigger your city, the more options you have. Members in Berlin, Vienna, Barcelona or Lisbon get significantly more requests than members in smaller towns or rural areas. That is not a disqualifier, it just means more proactive outreach is needed if your home is in a less sought-after location.
 
-Our [slow travel guide](/en/blog/slow-travel-what-it-really-means) has more on how to get more from longer stays in one place.
+Our [slow travel guide](/en/blog/slow-travel-what-it-really-means/) has more on how to get more from longer stays in one place.
 
 ## Home Swap vs. Airbnb: Where Each One Wins
 
@@ -106,7 +106,7 @@ One. A single week in a Paris apartment instead of a hotel saves 700 to 1,500 EU
 
 ### Which alternatives exist for free or cheap accommodation while traveling?
 
-Couchsurfing is free but requires no home of your own to offer. Hostels are cheap and good for solo backpackers who want social stays. Airbnb gives more control over timing and location but at market prices. Home swapping has the biggest advantage for families and longer stays. Our [boutique hotel guide](/en/blog/boutique-hotels) covers options at different price points if you prefer something more private.
+Couchsurfing is free but requires no home of your own to offer. Hostels are cheap and good for solo backpackers who want social stays. Airbnb gives more control over timing and location but at market prices. Home swapping has the biggest advantage for families and longer stays. Our [boutique hotel guide](/en/blog/boutique-hotels/) covers options at different price points if you prefer something more private.
 
 ### When is the best time to start as a home swap newcomer?
 
@@ -115,6 +115,6 @@ As soon as you have a solid profile. First requests can come faster than most pe
 ---
 
 **Read more:**
-- [Airbnb vs. Hotel: Which Actually Makes Sense?](/en/blog/airbnb-vs-hotel-comparison)
-- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
-- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means)
+- [Airbnb vs. Hotel: Which Actually Makes Sense?](/en/blog/airbnb-vs-hotel-comparison/)
+- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)
+- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means/)

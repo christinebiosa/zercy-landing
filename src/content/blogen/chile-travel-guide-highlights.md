@@ -72,6 +72,6 @@ Chile ranks as one of Latin America's safest countries. Low violent crime rates,
 ---
 
 **Read more:**
-- [Patagonia 3-Week Route](/en/blog/patagonia-3-week-route)
-- [Argentina Travel Guide](/en/blog/argentina-travel-guide-highlights)
-- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Patagonia 3-Week Route](/en/blog/patagonia-3-week-route/)
+- [Argentina Travel Guide](/en/blog/argentina-travel-guide-highlights/)
+- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

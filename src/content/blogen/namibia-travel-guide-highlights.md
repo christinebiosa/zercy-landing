@@ -79,6 +79,6 @@ Namibia is considered one of the safest countries in Africa for tourists. Low cr
 ---
 
 **Read more:**
-- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide)
-- [Australia Road Trip: The Best Route](/en/blog/australia-road-trip-route)
-- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials)
+- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide/)
+- [Australia Road Trip: The Best Route](/en/blog/australia-road-trip-route/)
+- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials/)

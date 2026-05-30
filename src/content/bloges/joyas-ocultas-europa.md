@@ -34,7 +34,7 @@ Los Balcanes (Albania, Bosnia, Montenegro, Macedonia del Norte, Kosovo, Serbia) 
 
 **Dubrovnik:** la afluencia de cruceros en verano (hasta 8.000 pasajeros por día) y la masificación post-Game of Thrones la han convertido en un caso de overtourism. Sigue siendo impresionante pero ya no es el secreto que fue.
 
-**Oporto:** el turismo creció un 200% en 10 años. Sigue siendo menos masificada que Lisboa pero ya no es "desconocida". El fenómeno Airbnb cambió los barrios históricos. Para más sobre Oporto, lee nuestra guía de [Oporto: la ciudad subestimada](/es/blog/oporto-hermana-subestimada).
+**Oporto:** el turismo creció un 200% en 10 años. Sigue siendo menos masificada que Lisboa pero ya no es "desconocida". El fenómeno Airbnb cambió los barrios históricos. Para más sobre Oporto, lee nuestra guía de [Oporto: la ciudad subestimada](/es/blog/oporto-hermana-subestimada/).
 
 **Praga:** lleva en todas las listas de "joya oculta" desde los 90. En 2026 es una de las ciudades más visitadas de Europa del Este. El casco histórico en verano tiene más turistas que residentes.
 
@@ -65,6 +65,6 @@ Mayo-junio y septiembre son los mejores meses: clima estable (20-27°C), sin el 
 ---
 
 **Más para leer:**
-- [Albania: la riviera que nadie menciona todavía](/es/blog/albania-riviera-escondida)
-- [Eslovenia: el secreto verde de Europa central](/es/blog/eslovenia-secreto-verde-2026)
-- [Oporto: la ciudad subestimada que merece más tiempo](/es/blog/oporto-hermana-subestimada)
+- [Albania: la riviera que nadie menciona todavía](/es/blog/albania-riviera-escondida/)
+- [Eslovenia: el secreto verde de Europa central](/es/blog/eslovenia-secreto-verde-2026/)
+- [Oporto: la ciudad subestimada que merece más tiempo](/es/blog/oporto-hermana-subestimada/)

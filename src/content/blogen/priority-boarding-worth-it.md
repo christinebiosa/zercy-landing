@@ -52,7 +52,7 @@ Prices vary significantly and are often set dynamically:
 
 This matters: on Ryanair and Wizz Air, you're often not just buying early boarding. You're buying the right to bring a proper carry-on at all. That changes the math considerably.
 
-For carry-on strategy, check our guide on [traveling carry-on only](/en/blog/carry-on-only). To cut flight costs more broadly, our [cheap flights tips](/en/blog/cheap-flights-tips) cover the bigger picture.
+For carry-on strategy, check our guide on [traveling carry-on only](/en/blog/carry-on-only/). To cut flight costs more broadly, our [cheap flights tips](/en/blog/cheap-flights-tips/) cover the bigger picture.
 
 ## Is There a Free Alternative?
 
@@ -64,7 +64,7 @@ Cost: zero euros.
 
 This strategy works best on mid-sized flights with a normal carry-on. On extremely full low-cost flights with high carry-on volume, it's less reliable.
 
-More practical tricks like this are in our [airport hacks guide](/en/blog/airport-hacks).
+More practical tricks like this are in our [airport hacks guide](/en/blog/airport-hacks/).
 
 ## What Do the Numbers Say About the Boarding Time Advantage?
 
@@ -72,7 +72,7 @@ Studies show that priority passengers are typically on board 5–8 minutes earli
 
 The real time advantage comes at the end of the flight. Passengers with luggage stored near their seat deplane faster. On tight connections, that can matter.
 
-If you're flexible on travel dates, our [guide on when to book flights](/en/blog/when-to-book-flights) is worth reading. For multi-leg trips, the [flexible dates flight hack](/en/blog/flexible-dates-flight-hack) can save you more than priority boarding ever could.
+If you're flexible on travel dates, our [guide on when to book flights](/en/blog/when-to-book-flights/) is worth reading. For multi-leg trips, the [flexible dates flight hack](/en/blog/flexible-dates-flight-hack/) can save you more than priority boarding ever could.
 
 ## Verdict: When Does the Benefit Outweigh the Cost?
 
@@ -102,6 +102,6 @@ Because on some routes, carry-on volume is high enough that trolleys get gate-ch
 
 ## Read more
 
-- [Airport Hacks: What Actually Matters at Check-In](/en/blog/airport-hacks)
-- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only)
-- [Flexible Dates Flight Hack: Save More by Shifting Your Travel Days](/en/blog/flexible-dates-flight-hack)
+- [Airport Hacks: What Actually Matters at Check-In](/en/blog/airport-hacks/)
+- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only/)
+- [Flexible Dates Flight Hack: Save More by Shifting Your Travel Days](/en/blog/flexible-dates-flight-hack/)

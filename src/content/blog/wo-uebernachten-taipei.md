@@ -94,6 +94,6 @@ Taipei ist als Gesamtstadt eine der sichersten Metropolen Asiens. Alle Viertel s
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
-- [Wo übernachten in Seoul: Gangnam oder Hongdae?](/blog/wo-uebernachten-seoul)
-- [Wo übernachten in Hongkong: Welches Viertel?](/blog/wo-uebernachten-hongkong)
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio/)
+- [Wo übernachten in Seoul: Gangnam oder Hongdae?](/blog/wo-uebernachten-seoul/)
+- [Wo übernachten in Hongkong: Welches Viertel?](/blog/wo-uebernachten-hongkong/)

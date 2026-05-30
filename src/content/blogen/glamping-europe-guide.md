@@ -34,7 +34,7 @@ Europe has more good glamping regions than most travelers realize.
 
 **Croatia island hopping**: Dalmatian coast glamping on islands like Hvar, Brač and Vis. Sea views combined with quality accommodation. A fast-growing segment, especially for sailing combinations.
 
-**Algarve, Portugal**: Red cliffs, Atlantic views, mild climate from April to October. Glamping resorts near Lagos and Sagres. Pairs well with hiking the Rota Vicentina. The [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026) covers the region in detail.
+**Algarve, Portugal**: Red cliffs, Atlantic views, mild climate from April to October. Glamping resorts near Lagos and Sagres. Pairs well with hiking the Rota Vicentina. The [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026/) covers the region in detail.
 
 **Andalusia, Spain**: Olive groves, mountain ranges, nature parks. Glamping in the Sierra de Grazalema or near Ronda. Less known than Tuscany, often better reviewed.
 
@@ -90,7 +90,7 @@ The other difference is electricity. Glamping almost always means a power outlet
 
 What stays the same: nature is right outside. You sleep closer to the outdoors than in any hotel room. Morning sounds, star views through a panoramic window, a campfire area. That is the core of the offer.
 
-If you want to combine glamping with wellness elements, the [wellness and spa travel guide](/en/blog/wellness-spa-travel-destinations) covers regions where both work well together.
+If you want to combine glamping with wellness elements, the [wellness and spa travel guide](/en/blog/wellness-spa-travel-destinations/) covers regions where both work well together.
 
 Zercy helps you find the right accommodation, whether glamping resort or boutique hotel. Save your favorites in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
@@ -117,6 +117,6 @@ In some regions, yes. The Black Forest and Norway offer winter glamping with sau
 ---
 
 **Read more:**
-- [Best Long-Distance Hiking Trails in the World: Top Routes 2026](/en/blog/best-long-distance-hiking-trails-world)
-- [Wellness and Spa Travel: Best Destinations in Europe](/en/blog/wellness-spa-travel-destinations)
-- [Algarve Travel Guide 2026: Beaches, Cliffs, Insider Tips](/en/blog/algarve-travel-guide-2026)
+- [Best Long-Distance Hiking Trails in the World: Top Routes 2026](/en/blog/best-long-distance-hiking-trails-world/)
+- [Wellness and Spa Travel: Best Destinations in Europe](/en/blog/wellness-spa-travel-destinations/)
+- [Algarve Travel Guide 2026: Beaches, Cliffs, Insider Tips](/en/blog/algarve-travel-guide-2026/)

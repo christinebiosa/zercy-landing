@@ -63,13 +63,13 @@ The Swiss Travel Pass covers trains, buses, boats and many mountain railways. 20
 
 **When it doesn't:** Only one city as a base, few day trips, focused on one region.
 
-For travelers considering a rental car in Switzerland, the [rental car checklist](/en/blog/rental-car-checklist) is worth reading since Switzerland rates can be competitive when entering from Germany.
+For travelers considering a rental car in Switzerland, the [rental car checklist](/en/blog/rental-car-checklist/) is worth reading since Switzerland rates can be competitive when entering from Germany.
 
 ## When Is the Best Time to Visit Switzerland?
 
 **Summer (June to September):** The classic season. Mountain railways running, hiking trails open, pleasant temperatures. July and August are the most expensive and crowded. June and September are better.
 
-**Winter (December to March):** Ski season. The major ski resorts (Zermatt, Verbier, St. Moritz, Davos) are world-class. But more expensive than most other European ski regions. For ski options in context, the [ski holidays Europe guide](/en/blog/ski-holidays-europe-best-resorts) compares the main alternatives.
+**Winter (December to March):** Ski season. The major ski resorts (Zermatt, Verbier, St. Moritz, Davos) are world-class. But more expensive than most other European ski regions. For ski options in context, the [ski holidays Europe guide](/en/blog/ski-holidays-europe-best-resorts/) compares the main alternatives.
 
 **Spring (April/May) and Fall (October/November):** The cheapest times. Many mountain railways still or already closed. Good for city visits (Zurich, Basel, Geneva, Bern).
 
@@ -91,7 +91,7 @@ Zurich is the most common entry point for Switzerland trips. From there:
 
 Switzerland operates what is arguably the world's best train network for a country its size. Trains run on the minute. Connections are timed so you have 3-7 minutes between trains without stress. The scenic routes (Glacier Express, Bernina Express, Golden Pass) are themselves tourist attractions.
 
-The [train travel Europe guide](/en/blog/train-travel-europe) covers how to book Swiss trains from abroad and which routes offer the best mountain views.
+The [train travel Europe guide](/en/blog/train-travel-europe/) covers how to book Swiss trains from abroad and which routes offer the best mountain views.
 
 ---
 
@@ -109,7 +109,7 @@ With the Swiss Travel Pass from 3 days onward it almost always makes sense. The 
 
 ### Which city is the best starting point for Switzerland?
 
-Zurich has the largest airport (direct connections worldwide) and sits centrally for central Switzerland and the Bernese Oberland. For western Switzerland (Geneva, Lausanne, Valais) Geneva is the better entry point. Those wanting both: fly into Zurich, out of Geneva (open-jaw ticket). The [open-jaw ticket guide](/en/blog/open-jaw-tickets-travel-hack) explains how to book this type of routing.
+Zurich has the largest airport (direct connections worldwide) and sits centrally for central Switzerland and the Bernese Oberland. For western Switzerland (Geneva, Lausanne, Valais) Geneva is the better entry point. Those wanting both: fly into Zurich, out of Geneva (open-jaw ticket). The [open-jaw ticket guide](/en/blog/open-jaw-tickets-travel-hack/) explains how to book this type of routing.
 
 ### Why is Zermatt car-free?
 
@@ -118,6 +118,6 @@ Zermatt has banned conventional motor vehicles since 1930 to protect the mountai
 ---
 
 **Read more:**
-- [Ski Holidays in Europe: The Best Resorts Compared](/en/blog/ski-holidays-europe-best-resorts)
-- [Train Travel in Europe: Routes, Tips and Apps](/en/blog/train-travel-europe)
-- [Open-Jaw Tickets: The Travel Hack That Saves Money](/en/blog/open-jaw-tickets-travel-hack)
+- [Ski Holidays in Europe: The Best Resorts Compared](/en/blog/ski-holidays-europe-best-resorts/)
+- [Train Travel in Europe: Routes, Tips and Apps](/en/blog/train-travel-europe/)
+- [Open-Jaw Tickets: The Travel Hack That Saves Money](/en/blog/open-jaw-tickets-travel-hack/)

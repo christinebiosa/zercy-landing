@@ -47,7 +47,7 @@ In the basin between Table Mountain and harbor. De Waterkant with hip cafés, bo
 
 **Top picks:** Cape Cadogan Boutique Hotel (boutique in restored Victorian house), The Tree House Boutique Hotel (boutique with pool), apartments via Booking in De Waterkant.
 
-See our [Faroe Islands guide](/en/blog/faroe-islands-guide) if you're exploring other off-the-path destinations.
+See our [Faroe Islands guide](/en/blog/faroe-islands-guide/) if you're exploring other off-the-path destinations.
 
 ## When is the best time to visit Cape Town?
 
@@ -132,6 +132,6 @@ Backpacker: $1,100-1,700 per person incl. flight (hostel in City Bowl, local foo
 ---
 
 **Read more:**
-- [Where to stay in Marrakech: 4 neighborhoods](/en/blog/where-to-stay-marrakech)
-- [Where to stay in Bali: best regions](/en/blog/where-to-stay-bali)
-- [Solo travel for women: safe countries](/en/blog/solo-travel-women-safe-countries)
+- [Where to stay in Marrakech: 4 neighborhoods](/en/blog/where-to-stay-marrakech/)
+- [Where to stay in Bali: best regions](/en/blog/where-to-stay-bali/)
+- [Solo travel for women: safe countries](/en/blog/solo-travel-women-safe-countries/)

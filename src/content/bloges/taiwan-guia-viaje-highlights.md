@@ -71,6 +71,6 @@ Zhongzheng y Da'an son los barrios más prácticos para los primerizos: ubicaci�
 
 ## Más artículos
 
-- [Corea del Sur en 2 semanas: La ruta perfecta para primerizos](/es/blog/corea-sur-2-semanas-ruta)
-- [Japón 3 semanas: La ruta perfecta](/es/blog/japon-3-semanas-ruta)
-- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico)
+- [Corea del Sur en 2 semanas: La ruta perfecta para primerizos](/es/blog/corea-sur-2-semanas-ruta/)
+- [Japón 3 semanas: La ruta perfecta](/es/blog/japon-3-semanas-ruta/)
+- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico/)

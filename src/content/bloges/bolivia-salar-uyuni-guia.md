@@ -70,6 +70,6 @@ La vacuna contra la fiebre amarilla es obligatoria al entrar desde ciertos país
 ---
 
 **Leer más:**
-- [Patagonia: ruta de 3 semanas](/es/blog/patagonia-3-semanas-ruta)
-- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Argentina: Guía de viaje](/es/blog/argentina-guia-viaje-highlights)
+- [Patagonia: ruta de 3 semanas](/es/blog/patagonia-3-semanas-ruta/)
+- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Argentina: Guía de viaje](/es/blog/argentina-guia-viaje-highlights/)

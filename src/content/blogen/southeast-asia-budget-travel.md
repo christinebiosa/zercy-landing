@@ -69,7 +69,7 @@ This is the most important question for budget travelers. Three categories that 
 
 **Booking.com** works well across Southeast Asia for hostels, guesthouses, and budget hotels. Filter for "breakfast included" and "free cancellation" to reduce friction.
 
-Our [Bangkok neighborhood guide](/en/blog/where-to-stay-bangkok) and [Hanoi guide](/en/blog/where-to-stay-hanoi) identify the best budget zones in each city.
+Our [Bangkok neighborhood guide](/en/blog/where-to-stay-bangkok/) and [Hanoi guide](/en/blog/where-to-stay-hanoi/) identify the best budget zones in each city.
 
 ## What to Know About Food
 
@@ -79,7 +79,7 @@ Rule of thumb: sit where locals sit. Plastic stools, styrofoam bowls, no English
 
 ## How to Travel Southeast Asia with Carry-On Only
 
-It works. Hot weather means light clothing. Laundry: available at almost every guesthouse for 1-2 EUR per kilo. Traveling with a single bag saves luggage fees on AirAsia and other budget carriers. More in our [carry-on only guide](/en/blog/carry-on-only).
+It works. Hot weather means light clothing. Laundry: available at almost every guesthouse for 1-2 EUR per kilo. Traveling with a single bag saves luggage fees on AirAsia and other budget carriers. More in our [carry-on only guide](/en/blog/carry-on-only/).
 
 ## Why Southeast Asia Still Beats Europe on Value
 
@@ -110,6 +110,6 @@ Thailand, Vietnam, Cambodia, Laos, and Bali are considered generally safe destin
 ---
 
 **Read more:**
-- [Budget Travel Tips: How to Spend Less Without Missing Out](/en/blog/cheap-flights-tips)
-- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok)
-- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only)
+- [Budget Travel Tips: How to Spend Less Without Missing Out](/en/blog/cheap-flights-tips/)
+- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok/)
+- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only/)

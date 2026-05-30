@@ -94,6 +94,6 @@ Thao Dien en el Distrito 2 (al otro lado del río) es la zona expat más tranqui
 ---
 
 **Leer más:**
-- [Dónde alojarse en Hanói: ¿Barrio Antiguo o Ba Dinh?](/es/blog/donde-alojarse-hanoi)
-- [Dónde alojarse en Bangkok: ¿Sukhumvit o Silom?](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Singapur: ¿Marina Bay o Chinatown?](/es/blog/donde-alojarse-singapur)
+- [Dónde alojarse en Hanói: ¿Barrio Antiguo o Ba Dinh?](/es/blog/donde-alojarse-hanoi/)
+- [Dónde alojarse en Bangkok: ¿Sukhumvit o Silom?](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Singapur: ¿Marina Bay o Chinatown?](/es/blog/donde-alojarse-singapur/)

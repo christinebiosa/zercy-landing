@@ -38,7 +38,7 @@ Vier Plattformen dominieren den Markt.
 
 **Gesamtkosten im Vergleich:** Bei 185 EUR Jahresgebühr und drei Wochen Reisen spart du lokal vergleichsweise 1.500 bis 3.000 EUR an Unterkunftskosten. Die Gebühr amortisiert sich schon bei einer einzigen Reise.
 
-Zum Vergleich: Unser [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich) zeigt, wann kurzfristige Mietunterkünfte die bessere Wahl sind.
+Zum Vergleich: Unser [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich/) zeigt, wann kurzfristige Mietunterkünfte die bessere Wahl sind.
 
 ## Für wen lohnt sich Wohnungstausch wirklich?
 
@@ -96,7 +96,7 @@ Schon ein einziger gelungener Tausch amortisiert die Jahresgebühr. Wer eine Woc
 
 ### Welche Alternative gibt es zu Wohnungstausch für günstigere Übernachtungen?
 
-Couchsurfing ist kostenlos, aber ohne eigene Unterkunft zum Anbieten. Hostels sind günstig und gut für Solobackpacker. Airbnb bietet mehr Kontrolle über Zeitraum und Lage, aber zu Marktpreisen. Wohnungstausch ist am vorteilhaftesten für Familien und längere Aufenthalte. Unsere [Hostel-Guide](/blog/boutique-hotels) erklärt Alternativen für Übernachtungen im unteren Preissegment.
+Couchsurfing ist kostenlos, aber ohne eigene Unterkunft zum Anbieten. Hostels sind günstig und gut für Solobackpacker. Airbnb bietet mehr Kontrolle über Zeitraum und Lage, aber zu Marktpreisen. Wohnungstausch ist am vorteilhaftesten für Familien und längere Aufenthalte. Unsere [Hostel-Guide](/blog/boutique-hotels/) erklärt Alternativen für Übernachtungen im unteren Preissegment.
 
 ### Wann ist die beste Zeit, um als Tausch-Neuling anzufangen?
 
@@ -105,6 +105,6 @@ Sobald du ein ansprechendes Profil erstellt hast. Die ersten Anfragen kommen sch
 ---
 
 **Mehr lesen:**
-- [Airbnb vs. Hotel: Was sich wirklich lohnt](/blog/airbnb-vs-hotel-vergleich)
-- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich)
-- [Slow Travel: Was steckt wirklich dahinter?](/blog/slow-travel-bedeutet-was)
+- [Airbnb vs. Hotel: Was sich wirklich lohnt](/blog/airbnb-vs-hotel-vergleich/)
+- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/)
+- [Slow Travel: Was steckt wirklich dahinter?](/blog/slow-travel-bedeutet-was/)

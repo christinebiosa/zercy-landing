@@ -61,7 +61,7 @@ Und dann sind da noch die Faultiere. In Manuel Antonio hängen sie einfach in de
 
 **San José als Basis**: Nur als Durchgangsstation nutzen. Die Hauptstadt hat wenig zu bieten. Direkt weiter zur Küste — mit Shuttle, Kleinbus oder Inlandsflug.
 
-**Mietwagen**: Für viele Strecken empfehlenswert, besonders auf der Nicoya-Halbinsel. Aber: Manche Straßen sind nur mit 4x4 befahrbar, besonders in der Regenzeit. Prüfe das vor der Buchung — und lies vorher unseren [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check) für wichtige Hinweise zu Versicherung und Übergabe.
+**Mietwagen**: Für viele Strecken empfehlenswert, besonders auf der Nicoya-Halbinsel. Aber: Manche Straßen sind nur mit 4x4 befahrbar, besonders in der Regenzeit. Prüfe das vor der Buchung — und lies vorher unseren [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check/) für wichtige Hinweise zu Versicherung und Übergabe.
 
 **Budget**: Costa Rica ist das teuerste Land Mittelamerikas. Eine gute Unterkunft in Santa Teresa: 80–150 Euro pro Nacht. Essen: 10–20 Euro pro Mahlzeit in mittleren Restaurants. Kein Mexiko-Preisniveau. Aber es lohnt sich.
 
@@ -91,4 +91,4 @@ Ja. Besonders Jaco Beach, Nosara und Sámara sind bekannt für sanfte Wellen und
 
 Costa Rica ist deutlich teurer als Guatemala, Nicaragua oder Honduras. Ähnlich teuer wie Panama. Budgetreisende kommen mit 80–100 Euro/Tag aus (Hostel, günstig essen, lokale Busse). Wer komfortabler reisen will: 150–250 Euro/Tag ist realistisch.
 
-**Mehr lesen:** [Costa Rica Rundreise in 2 Wochen: Die perfekte Route](/blog/costa-rica-rundreise-route) · [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck)
+**Mehr lesen:** [Costa Rica Rundreise in 2 Wochen: Die perfekte Route](/blog/costa-rica-rundreise-route/) · [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check/) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck/)

@@ -53,7 +53,7 @@ The [official Bordeaux Tourism website](https://www.bordeaux-tourisme.com/en/) o
 
 Spring (April to June) and autumn (September to October) are the ideal months. The grape harvest runs in September and October: châteaux open their gates, the atmosphere in the city is particularly special. Summer (July to August) is hot (82-95°F) and touristy, hotels more expensive. Winter (November to March) is mild and affordable, wine tours run year-round.
 
-For more on smart travel around France, see our [train travel Europe guide](/en/blog/train-travel-europe).
+For more on smart travel around France, see our [train travel Europe guide](/en/blog/train-travel-europe/).
 
 ## Saint-Michel: The Bohemian Quarter
 
@@ -65,7 +65,7 @@ South of Saint-Pierre, around the imposing Basilica of Saint-Michel. This is Bor
 
 **Top picks:** Hotel Ibis Bordeaux Centre Meriadeck (clean budget), Hôtel Acanthe (small family hotel), apartments through Booking in the old quarter.
 
-Fans of neighborhood wandering will find a similar energy in our [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail).
+Fans of neighborhood wandering will find a similar energy in our [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail/).
 
 ## Triangle d'Or: The Luxury Quarter
 
@@ -124,6 +124,6 @@ September through October, depending on the vintage and terroir. Grand Cru chât
 ---
 
 **Read more:**
-- [Where to Stay in Marseille: The 4 Neighborhoods](/en/blog/where-to-stay-marseille)
-- [Where to Stay in Paris: The 5 Neighborhoods](/en/blog/where-to-stay-paris)
-- [Train Travel Europe Guide 2026](/en/blog/train-travel-europe)
+- [Where to Stay in Marseille: The 4 Neighborhoods](/en/blog/where-to-stay-marseille/)
+- [Where to Stay in Paris: The 5 Neighborhoods](/en/blog/where-to-stay-paris/)
+- [Train Travel Europe Guide 2026](/en/blog/train-travel-europe/)

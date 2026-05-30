@@ -96,6 +96,6 @@ El seguro de viaje es por viaje o anual, cubre múltiples incidentes (médico, c
 ---
 
 **Más para leer:**
-- [Airbnb vs hotel: cuál elegir para tu próximo viaje](/es/blog/airbnb-vs-hotel-comparacion)
-- [Cómo viajar solo con equipaje de mano](/es/blog/solo-equipaje-de-mano)
-- [Business class sin millas: cómo volar en la delantera pagando menos](/es/blog/business-class-sin-millas)
+- [Airbnb vs hotel: cuál elegir para tu próximo viaje](/es/blog/airbnb-vs-hotel-comparacion/)
+- [Cómo viajar solo con equipaje de mano](/es/blog/solo-equipaje-de-mano/)
+- [Business class sin millas: cómo volar en la delantera pagando menos](/es/blog/business-class-sin-millas/)

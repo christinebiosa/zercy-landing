@@ -85,6 +85,6 @@ Ask directly, do not just search online. Request photos of the room entrance, ba
 
 ## Read more
 
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials)
-- [Scandinavia Road Trip Route: Highlights](/en/blog/scandinavia-road-trip-route)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials/)
+- [Scandinavia Road Trip Route: Highlights](/en/blog/scandinavia-road-trip-route/)

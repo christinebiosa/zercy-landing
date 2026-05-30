@@ -83,6 +83,6 @@ Layering system: base layer, fleece, rain jacket, down jacket for high elevation
 
 ## Read More
 
-- [India Travel Guide: Highlights and Essential Tips](/en/blog/india-travel-guide-highlights)
-- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials)
-- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [India Travel Guide: Highlights and Essential Tips](/en/blog/india-travel-guide-highlights/)
+- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials/)
+- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026/)

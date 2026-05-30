@@ -24,7 +24,7 @@ Umsteigen lohnt sich dann wirklich, wenn du:
 - ohnehin flexibel bist und keine Meetings oder Hotelbuchungen am nächsten Tag hast
 - auf einer Langstrecke nach Asien oder Südamerika reist, wo die Direktflug-Prämie oft 40 bis 50 Prozent beträgt
 
-Mehr dazu, wie du günstigere Flüge durch clevere Routenplanung findest, erklärt unser Artikel zu [Ex-EU Routing](/blog/ex-eu-routing-guenstiger-fliegen).
+Mehr dazu, wie du günstigere Flüge durch clevere Routenplanung findest, erklärt unser Artikel zu [Ex-EU Routing](/blog/ex-eu-routing-guenstiger-fliegen/).
 
 ## Wann lohnt sich ein Direktflug klar mehr?
 
@@ -50,7 +50,7 @@ Das ist eine der häufigsten Fragen vor der Buchung. Und die Antwort ist konkret
 
 **Darunter ist es Glück.** Nicht Planung, sondern Glück. Und wer darauf angewiesen ist, sollte sich fragen, ob der Preisvorteil das Stress-Risiko wert ist.
 
-Wenn du flexibel bei den Daten bist, findest du mit dem richtigen Timing oft auch günstigere Direktflüge. Dazu mehr in unserem Artikel über [flexible Datumssuche beim Flugbuchen](/blog/flexible-dates-flug-hack).
+Wenn du flexibel bei den Daten bist, findest du mit dem richtigen Timing oft auch günstigere Direktflüge. Dazu mehr in unserem Artikel über [flexible Datumssuche beim Flugbuchen](/blog/flexible-dates-flug-hack/).
 
 ## Was kostet das Umsteigen wirklich?
 
@@ -58,15 +58,15 @@ Nicht nur in Zeit, auch in Geld. Ein verpasster Anschluss bedeutet: Hotel am Flu
 
 Dazu kommt die Erschöpfung. Ein Direktflug Frankfurt nach Bangkok dauert elf Stunden. Mit Umsteigen werden oft 15 bis 18 Stunden. Der Körper merkt das. Wer am nächsten Morgen produktiv sein will oder einen langen Ausflugstag geplant hat, zahlt die Differenz in Energie.
 
-Die Alternative zum klassischen Hin-und-Rück ist übrigens oft das [Open-Jaw-Ticket](/blog/open-jaw-tickets-reise-hack): Du fliegst in eine Stadt, reist weiter, fliegst von einer anderen zurück. Das kombiniert Flexibilität mit vernünftigen Preisen, ohne dass du unnötig zurück zum Abflugort musst.
+Die Alternative zum klassischen Hin-und-Rück ist übrigens oft das [Open-Jaw-Ticket](/blog/open-jaw-tickets-reise-hack/): Du fliegst in eine Stadt, reist weiter, fliegst von einer anderen zurück. Das kombiniert Flexibilität mit vernünftigen Preisen, ohne dass du unnötig zurück zum Abflugort musst.
 
 ## Wie buchst du die bessere Option?
 
-[Google Flights](/blog/google-flights-tricks-tipps-2026) ist das mächtigste Tool für diesen Vergleich. Gib deine Route ein, klick auf "Direktflüge" und vergleich den Preisunterschied mit Umsteigeflügen. Die Zeitersparnis siehst du auf einen Blick.
+[Google Flights](/blog/google-flights-tricks-tipps-2026/) ist das mächtigste Tool für diesen Vergleich. Gib deine Route ein, klick auf "Direktflüge" und vergleich den Preisunterschied mit Umsteigeflügen. Die Zeitersparnis siehst du auf einen Blick.
 
 Wenn der Direktflug mehr als 40 Prozent teurer ist: Umsteigen mit großzügigem Layover buchen. Wenn der Preisunterschied unter 100 Euro liegt: Direktflug ist fast immer die bessere Entscheidung.
 
-Und wenn du unsicher bist, wann du buchen sollst, hilft unser Artikel [Wann Flüge buchen](/blog/wann-fluege-buchen) weiter. Die richtige Buchungszeit macht beim Direktflug oft mehr aus als man denkt.
+Und wenn du unsicher bist, wann du buchen sollst, hilft unser Artikel [Wann Flüge buchen](/blog/wann-fluege-buchen/) weiter. Die richtige Buchungszeit macht beim Direktflug oft mehr aus als man denkt.
 
 ---
 
@@ -94,6 +94,6 @@ Auf Kurzstrecken in Europa ist der Unterschied oft gering (unter 50 Euro). Auf L
 
 Mehr lesen:
 
-- [Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack)
-- [Google Flights: Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026)
-- [Ex-EU Routing: Günstiger fliegen durch den Umweg](/blog/ex-eu-routing-guenstiger-fliegen)
+- [Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack/)
+- [Google Flights: Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026/)
+- [Ex-EU Routing: Günstiger fliegen durch den Umweg](/blog/ex-eu-routing-guenstiger-fliegen/)

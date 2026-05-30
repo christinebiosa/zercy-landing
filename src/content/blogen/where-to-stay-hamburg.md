@@ -55,7 +55,7 @@ Hamburg has an Atlantic climate: moderate, often overcast, somewhat damp. But th
 
 **Winter:** Cool (2-7°C), but Hamburg winter has its own charm: harbor lights, cozy cafés, mulled wine.
 
-Hamburg combines naturally with a [Scandinavia road trip](/en/blog/scandinavia-road-trip-route). Copenhagen is 5 hours by train. For [European winter city breaks](/en/blog/european-cities-winter-guide), Hamburg is consistently top of the list.
+Hamburg combines naturally with a [Scandinavia road trip](/en/blog/scandinavia-road-trip-route/). Copenhagen is 5 hours by train. For [European winter city breaks](/en/blog/european-cities-winter-guide/), Hamburg is consistently top of the list.
 
 ## St. Pauli / Schanzenviertel: Hamburg's Heartbeat
 
@@ -112,6 +112,6 @@ The Elbphilharmonie tour (free, Plaza deck), the Speicherstadt and Chilehaus, th
 ---
 
 ## Read more
-- [Scandinavia Road Trip: Best Route from Hamburg to the North Cape](/en/blog/scandinavia-road-trip-route)
-- [European Cities in Winter: Best Destinations](/en/blog/european-cities-winter-guide)
-- [Where to Stay in Berlin: 5 Neighborhoods](/en/blog/where-to-stay-berlin)
+- [Scandinavia Road Trip: Best Route from Hamburg to the North Cape](/en/blog/scandinavia-road-trip-route/)
+- [European Cities in Winter: Best Destinations](/en/blog/european-cities-winter-guide/)
+- [Where to Stay in Berlin: 5 Neighborhoods](/en/blog/where-to-stay-berlin/)

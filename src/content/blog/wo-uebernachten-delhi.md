@@ -71,7 +71,7 @@ Süd-Delhi ist das grüne, residenzielle Gegenstück zum geschäftigen Norden. L
 
 **Top-Picks:** The Manor New Delhi (Boutique, grüner Garten, ruhig), Olive Qutab (Boutique in der Nähe des Qutub Minar), Bloomrooms Hotel (Design-Boutique, moderner Stil).
 
-Für ähnliche Überlegungen zu Stadtteilen vergleiche unseren [Wo übernachten in Tokio](/blog/wo-uebernachten-tokio) Guide.
+Für ähnliche Überlegungen zu Stadtteilen vergleiche unseren [Wo übernachten in Tokio](/blog/wo-uebernachten-tokio/) Guide.
 
 ## Aerocity: Direkt am Flughafen
 
@@ -95,7 +95,7 @@ Für Delhi ist [Booking.com](https://www.booking.com) die beste Wahl:
 
 Direktbuchung lohnt beim The Imperial oder Oberoi New Delhi für mögliche Heritage-Wing-Upgrades.
 
-Sieh auch unseren [Wo übernachten in Hongkong](/blog/wo-uebernachten-hongkong) Guide für ähnliche Überlegungen zu Stadtteil-Wahl in einer asiatischen Metropole.
+Sieh auch unseren [Wo übernachten in Hongkong](/blog/wo-uebernachten-hongkong/) Guide für ähnliche Überlegungen zu Stadtteil-Wahl in einer asiatischen Metropole.
 
 ---
 
@@ -122,6 +122,6 @@ Der Taj Mahal ist etwa 200 km von Delhi entfernt. Schnellzug (Gatimaan Express o
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
-- [Wo übernachten in Hongkong: Central, Kowloon oder Wan Chai?](/blog/wo-uebernachten-hongkong)
-- [Wo übernachten in Bangkok: Das moderne versus das historische Bangkok](/blog/wo-uebernachten-bangkok)
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio/)
+- [Wo übernachten in Hongkong: Central, Kowloon oder Wan Chai?](/blog/wo-uebernachten-hongkong/)
+- [Wo übernachten in Bangkok: Das moderne versus das historische Bangkok](/blog/wo-uebernachten-bangkok/)

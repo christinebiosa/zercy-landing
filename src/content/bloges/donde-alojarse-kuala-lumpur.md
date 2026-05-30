@@ -104,6 +104,6 @@ KLCC y Bukit Bintang tienen los mejores hoteles familiares con piscina. Grandes 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Singapur: Marina Bay o Chinatown](/es/blog/donde-alojarse-singapur)
-- [Tailandia en 2 semanas: La ruta completa](/es/blog/tailandia-2-semanas-ruta)
+- [Dónde alojarse en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Singapur: Marina Bay o Chinatown](/es/blog/donde-alojarse-singapur/)
+- [Tailandia en 2 semanas: La ruta completa](/es/blog/tailandia-2-semanas-ruta/)

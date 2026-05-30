@@ -48,11 +48,11 @@ Las aerolíneas de bajo coste como Ryanair, easyJet o Vueling no tienen sistema 
 
 Hay situaciones en que un bid upgrade no es la mejor opción.
 
-Si la business class está actualmente a menos de 200-300 euros por encima de turista, compra directo. Eso ocurre poco, pero en rutas con baja ocupación o en temporada baja existen esas ventanas. [Los billetes de business class más baratos se encuentran con las técnicas adecuadas](/es/blog/business-class-sin-millas), a veces sin necesidad de pujar.
+Si la business class está actualmente a menos de 200-300 euros por encima de turista, compra directo. Eso ocurre poco, pero en rutas con baja ocupación o en temporada baja existen esas ventanas. [Los billetes de business class más baratos se encuentran con las técnicas adecuadas](/es/blog/business-class-sin-millas/), a veces sin necesidad de pujar.
 
 Si necesitas ese asiento garantizado (reunión por la mañana, motivos de salud, fatiga extrema), no dependas de una puja. El resultado es incierto hasta el último día.
 
-Y si la diferencia entre turista y business hace que tu puja realista supere igualmente los 600 euros, mira rápidamente los [trucos de Google Flights](/es/blog/google-flights-trucos-2026). A veces aparecen ofertas de business de último minuto a precios similares.
+Y si la diferencia entre turista y business hace que tu puja realista supere igualmente los 600 euros, mira rápidamente los [trucos de Google Flights](/es/blog/google-flights-trucos-2026/). A veces aparecen ofertas de business de último minuto a precios similares.
 
 ## ¿Qué alternativas existen al bid upgrade?
 
@@ -60,7 +60,7 @@ Dos de ellas pueden ser incluso gratuitas.
 
 **Upgrade en la puerta de embarque:** Pregunta en la puerta antes de embarcar. Las aerolíneas a veces suben pasajeros gratis cuando hay overbooking en turista o cuando business tiene plazas sin vender. Las probabilidades son bajas pero el esfuerzo es mínimo.
 
-**Upgrade por estatus:** Incluso niveles bajos como Miles & More Senator o British Airways Bronze te dan prioridad. No es automático, pero con dos pujas iguales los pasajeros con estatus casi siempre ganan. Más sobre lo que el estatus permite en [acceso a salas VIP sin billete de business](/es/blog/acceso-sala-vip-sin-business).
+**Upgrade por estatus:** Incluso niveles bajos como Miles & More Senator o British Airways Bronze te dan prioridad. No es automático, pero con dos pujas iguales los pasajeros con estatus casi siempre ganan. Más sobre lo que el estatus permite en [acceso a salas VIP sin billete de business](/es/blog/acceso-sala-vip-sin-business/).
 
 **Upgrade con millas:** Si tienes millas o Avios de vuelos anteriores, un upgrade con puntos puede salir más barato que una puja en efectivo. Lufthansa, British Airways y Singapore Airlines permiten upgrades con puntos, a veces combinados con un pequeño pago en efectivo.
 
@@ -86,4 +86,4 @@ Nada en absoluto. Vuelas como reservaste en turista, no se carga ningún importe
 
 En rutas intercontinentales de 8 o más horas, las pujas ganadoras añaden normalmente entre 150 y 500 euros al precio de turista. La regla general: apunta al 20-30% de la diferencia entre tu billete de turista y la tarifa actual de business. Ofertar demasiado bajo es un error más frecuente que ofertar demasiado alto.
 
-**Más para leer:** [Business Class sin Millas: Las Alternativas Inteligentes](/es/blog/business-class-sin-millas) · [Acceso a Sala VIP sin Billete de Business](/es/blog/acceso-sala-vip-sin-business) · [Cómo Encontrar Vuelos Baratos en 2026](/es/blog/consejos-vuelos-baratos)
+**Más para leer:** [Business Class sin Millas: Las Alternativas Inteligentes](/es/blog/business-class-sin-millas/) · [Acceso a Sala VIP sin Billete de Business](/es/blog/acceso-sala-vip-sin-business/) · [Cómo Encontrar Vuelos Baratos en 2026](/es/blog/consejos-vuelos-baratos/)

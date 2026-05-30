@@ -54,7 +54,7 @@ What gets added on top:
 
 **Real total:** One week in the Caribbean for two people, balcony cabin, drinks package, one to two excursions, gratuities, plus flights: 3,500 to 6,000 euros altogether. Not the 1,000 euros shown in the headline.
 
-Our [cruise beginners guide](/en/blog/cruise-beginners-guide) walks through the full cost breakdown in more detail.
+Our [cruise beginners guide](/en/blog/cruise-beginners-guide/) walks through the full cost breakdown in more detail.
 
 ## When Is the Best Time for a Caribbean Cruise?
 
@@ -66,7 +66,7 @@ May through November is cheaper, but the official hurricane season runs June thr
 
 For flexible travelers looking to save money: May to June and November offer solid middle ground between price and weather, often 20 to 40 percent below peak season rates.
 
-For finding flights to Miami or Fort Lauderdale at the right time, the [Caribbean island hopping guide](/en/blog/caribbean-island-hopping-guide) covers regional transport options in depth.
+For finding flights to Miami or Fort Lauderdale at the right time, the [Caribbean island hopping guide](/en/blog/caribbean-island-hopping-guide/) covers regional transport options in depth.
 
 ## Practical Tips That Actually Make a Difference
 
@@ -78,7 +78,7 @@ For finding flights to Miami or Fort Lauderdale at the right time, the [Caribbea
 
 **Internet on board:** Expensive and slow. Sufficient for messaging and quick browsing. Streaming rarely works. Most ports have free wifi in cafes near the pier.
 
-**Travel insurance:** More important for cruises than most trips. A flight cancellation can mean missing the ship entirely if you are flying in from Europe. The [travel insurance guide](/en/blog/travel-insurance-worth-it-2026) explains when coverage is genuinely worth having.
+**Travel insurance:** More important for cruises than most trips. A flight cancellation can mean missing the ship entirely if you are flying in from Europe. The [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) explains when coverage is genuinely worth having.
 
 ---
 
@@ -105,6 +105,6 @@ Typically 6 to 9 hours per stop. That covers a beach day, a short city walk or a
 ---
 
 **Read more:**
-- [Cruise Beginners Guide: What You Actually Need to Know](/en/blog/cruise-beginners-guide)
-- [Caribbean Island Hopping: The Best Routes](/en/blog/caribbean-island-hopping-guide)
-- [Travel Insurance: When It Is Actually Worth It](/en/blog/travel-insurance-worth-it-2026)
+- [Cruise Beginners Guide: What You Actually Need to Know](/en/blog/cruise-beginners-guide/)
+- [Caribbean Island Hopping: The Best Routes](/en/blog/caribbean-island-hopping-guide/)
+- [Travel Insurance: When It Is Actually Worth It](/en/blog/travel-insurance-worth-it-2026/)

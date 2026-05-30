@@ -29,7 +29,7 @@ De marzo a mayo el calor se dispara. Cuarenta grados con humedad alta en algunos
 
 De junio a octubre hay lluvias frecuentes. Bangkok nunca cierra, pero las inundaciones puntuales pueden complicar los desplazamientos por algunos barrios bajos. Si ya tienes el vuelo a Bangkok para esta época, no canceles el viaje. Simplemente planifica más actividades en interior o en centros comerciales durante las horas de lluvia.
 
-Si planeas visitar Bangkok en combinación con las islas, echa un vistazo a nuestra [guía de Bangkok en 3 días](/es/blog/bangkok-3-dias) para aprovechar al máximo el tiempo en la capital.
+Si planeas visitar Bangkok en combinación con las islas, echa un vistazo a nuestra [guía de Bangkok en 3 días](/es/blog/bangkok-3-dias/) para aprovechar al máximo el tiempo en la capital.
 
 ## ¿Cuándo es la mejor época para las islas del sur?
 
@@ -39,7 +39,7 @@ Aquí la cosa se complica. Las islas del sur se dividen en dos costas con estaci
 
 **Costa este (Koh Samui, Koh Phangan, Koh Tao):** El calendario está casi invertido. La mejor época va de febrero a agosto. De octubre a diciembre llega el monzón del noreste, que puede traer lluvias intensas durante semanas. Muchos resorts cierran en octubre y noviembre en esta zona.
 
-Para la costa este, si buscas [dónde alojarte en Phuket](/es/blog/donde-alojarse-phuket), los mejores meses son diciembre a marzo. Para Koh Samui, febrero a julio es más seguro.
+Para la costa este, si buscas [dónde alojarte en Phuket](/es/blog/donde-alojarse-phuket/), los mejores meses son diciembre a marzo. Para Koh Samui, febrero a julio es más seguro.
 
 La temporada de hombro, octubre y noviembre en la costa oeste, puede ser una buena opción si buscas precios más bajos y menos turistas. Las lluvias ya están cediendo, pero los precios no han subido todavía.
 
@@ -51,7 +51,7 @@ De marzo a mayo llega la estación calurosa. Lo peculiar del norte es la quema d
 
 Las lluvias llegan entre junio y octubre. El paisaje se vuelve exuberante y verde. El trekking por la selva está en su mejor momento. Los precios bajan considerablemente y el turismo masivo desaparece.
 
-Si combinas Chiang Mai con Bangkok, nuestra [ruta de Tailandia en 2 semanas](/es/blog/tailandia-2-semanas-ruta) te ayuda a organizar bien los días entre norte y sur.
+Si combinas Chiang Mai con Bangkok, nuestra [ruta de Tailandia en 2 semanas](/es/blog/tailandia-2-semanas-ruta/) te ayuda a organizar bien los días entre norte y sur.
 
 ## ¿Cuándo es más barato viajar a Tailandia?
 
@@ -59,9 +59,9 @@ Los meses más baratos son mayo, junio y septiembre. Están en plena temporada d
 
 Octubre puede ser una buena apuesta en la costa oeste. Las lluvias están terminando, los precios aún no han subido y los destinos como Phuket o Krabi empiezan a recuperarse climáticamente.
 
-Si tu presupuesto es ajustado y la lluvia no te preocupa, mayo a septiembre en el norte es una combinación perfecta. Chiang Mai en temporada baja es uno de los destinos más rentables de toda la [región del sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico).
+Si tu presupuesto es ajustado y la lluvia no te preocupa, mayo a septiembre en el norte es una combinación perfecta. Chiang Mai en temporada baja es uno de los destinos más rentables de toda la [región del sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico/).
 
-Para comparar Tailandia con otro destino similar en precio y clima, la [comparación entre Tailandia y Vietnam](/es/blog/tailandia-vs-vietnam-comparacion) puede ayudarte a decidir cuál encaja mejor con tus fechas.
+Para comparar Tailandia con otro destino similar en precio y clima, la [comparación entre Tailandia y Vietnam](/es/blog/tailandia-vs-vietnam-comparacion/) puede ayudarte a decidir cuál encaja mejor con tus fechas.
 
 ---
 
@@ -89,6 +89,6 @@ Para un primer viaje que combine Bangkok, una zona de playa y Chiang Mai, los me
 
 ## Más sobre Tailandia y el Sudeste Asiático
 
-- [Tailandia en 2 semanas: la mejor ruta para la primera visita](/es/blog/tailandia-2-semanas-ruta)
-- [Tailandia vs. Vietnam: ¿cuál elegir para tu viaje?](/es/blog/tailandia-vs-vietnam-comparacion)
-- [Sudeste Asiático con poco presupuesto: lo que necesitas saber](/es/blog/sudeste-asiatico-viaje-economico)
+- [Tailandia en 2 semanas: la mejor ruta para la primera visita](/es/blog/tailandia-2-semanas-ruta/)
+- [Tailandia vs. Vietnam: ¿cuál elegir para tu viaje?](/es/blog/tailandia-vs-vietnam-comparacion/)
+- [Sudeste Asiático con poco presupuesto: lo que necesitas saber](/es/blog/sudeste-asiatico-viaje-economico/)

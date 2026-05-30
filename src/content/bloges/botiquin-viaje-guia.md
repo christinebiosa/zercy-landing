@@ -52,7 +52,7 @@ Un antibiótico de amplio espectro (habitualmente ciprofloxacino o azitromicina)
 **Medicamento para la altitud**
 La acetazolamida (Diamox) reduce el riesgo de mal de altura agudo en los Andes, Nepal o el Tíbet. Requiere receta. Consúltalo con tu médico antes de meterlo en la maleta.
 
-Para más información sobre la preparación sanitaria antes de salir: [Vacunas de viaje: lo que realmente necesitas](/es/blog/vacunas-viaje-guia) y [Seguro médico de viaje: qué tener en cuenta](/es/blog/seguro-medico-viaje-guia).
+Para más información sobre la preparación sanitaria antes de salir: [Vacunas de viaje: lo que realmente necesitas](/es/blog/vacunas-viaje-guia/) y [Seguro médico de viaje: qué tener en cuenta](/es/blog/seguro-medico-viaje-guia/).
 
 ---
 
@@ -66,7 +66,7 @@ Lo que siempre va en el equipaje de mano:
 - Medicamentos con receta en su envase original, con informe médico
 - Termómetro (los de cristal mejor en la maleta facturada)
 
-Conserva siempre el envase original de cualquier medicamento con receta. Muchos países exigen en aduana la acreditación de que el medicamento está prescrito a tu nombre. ¿Viajando solo con equipaje de mano? Este artículo te ayuda: [Solo equipaje de mano: cómo hacer mejor la maleta](/es/blog/solo-equipaje-de-mano).
+Conserva siempre el envase original de cualquier medicamento con receta. Muchos países exigen en aduana la acreditación de que el medicamento está prescrito a tu nombre. ¿Viajando solo con equipaje de mano? Este artículo te ayuda: [Solo equipaje de mano: cómo hacer mejor la maleta](/es/blog/solo-equipaje-de-mano/).
 
 ---
 
@@ -78,7 +78,7 @@ Herramientas útiles: iPharmacy, apps de asociaciones farmacéuticas locales o s
 
 Los medicamentos con receta sin documentación son difíciles o imposibles de conseguir en muchos países. Lleva siempre un informe médico en inglés como mínimo, y si puedes, también en el idioma local. Tu médico de cabecera puede prepararlo sin demasiada antelación.
 
-Para emergencias más graves: [Emergencia en el extranjero: qué debes saber](/es/blog/emergencia-extranjero-que-hacer).
+Para emergencias más graves: [Emergencia en el extranjero: qué debes saber](/es/blog/emergencia-extranjero-que-hacer/).
 
 ---
 
@@ -103,6 +103,6 @@ El termómetro, la tarjeta extractora de garrapatas y el gel de aloe vera para q
 ---
 
 **Sigue leyendo:**
-- [Vacunas de viaje: lo que realmente necesitas](/es/blog/vacunas-viaje-guia)
-- [Seguro médico de viaje: qué tener en cuenta](/es/blog/seguro-medico-viaje-guia)
-- [Solo equipaje de mano: cómo hacer mejor la maleta](/es/blog/solo-equipaje-de-mano)
+- [Vacunas de viaje: lo que realmente necesitas](/es/blog/vacunas-viaje-guia/)
+- [Seguro médico de viaje: qué tener en cuenta](/es/blog/seguro-medico-viaje-guia/)
+- [Solo equipaje de mano: cómo hacer mejor la maleta](/es/blog/solo-equipaje-de-mano/)

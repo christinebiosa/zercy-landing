@@ -67,7 +67,7 @@ Hotels in Bečići sind oft etwas größer und auf Familien ausgerichtet, mit Po
 
 **Top-Picks:** Hotel Iberostar Bellevue (All-Inclusive-Option, langer Strandabschnitt), Splendid Conference Beach Resort (großes Wellnesshotel), mehrere Familienresorts mit Poollandschaft.
 
-Wer den [Balkan-Roadtrip plant](/blog/balkan-roadtrip-route), kann Budva gut mit Kotor und Dubrovnik kombinieren. Drei Städte, drei Atmosphären. Alle unter einer Stunde Fahrzeit voneinander.
+Wer den [Balkan-Roadtrip plant](/blog/balkan-roadtrip-route/), kann Budva gut mit Kotor und Dubrovnik kombinieren. Drei Städte, drei Atmosphären. Alle unter einer Stunde Fahrzeit voneinander.
 
 ## Petrovac: Südliches Montenegro, entspannt
 
@@ -81,7 +81,7 @@ Petrovac ist günstiger als Budva. Apartments und kleinere Guesthouses dominiere
 
 **Top-Picks:** Hotel Rivijera (direkt am Strand, kleines Haus), Palas Hotel (historisches Gebäude mit Meerblick), mehrere Privatunterkünfte mit Terrassenblick auf die Bucht.
 
-Wer auch die Bucht von Kotor mitnimmt: Die [wo übernachten in Kotor](/blog/wo-uebernachten-kotor) Übersicht zeigt alle Stadtteile von Kotors venezianischer Altstadt bis zur Luxusmarina Porto Montenegro.
+Wer auch die Bucht von Kotor mitnimmt: Die [wo übernachten in Kotor](/blog/wo-uebernachten-kotor/) Übersicht zeigt alle Stadtteile von Kotors venezianischer Altstadt bis zur Luxusmarina Porto Montenegro.
 
 ## Sveti Stefan: Die Luxusinsel
 
@@ -95,7 +95,7 @@ Wer nicht im Resort schläft, kann die Insel von der Promenade aus fotografieren
 
 **Top-Picks:** Aman Sveti Stefan (ikonisches Luxusresort), Villa Milocer (Haupthaus des Aman-Komplexes mit eigenem Strand), diverse Privatvillen in der Umgebung.
 
-Das [Thema schönste Strände Europas](/blog/schoenste-straende-europa-2026) vertieft, warum Montenegros Küste inzwischen ernsthaft mit Kroatien mithalten kann.
+Das [Thema schönste Strände Europas](/blog/schoenste-straende-europa-2026/) vertieft, warum Montenegros Küste inzwischen ernsthaft mit Kroatien mithalten kann.
 
 ## Wo solltest du am Ende buchen?
 
@@ -133,6 +133,6 @@ Per Mietwagen oder Bus: ca. 2,5 bis 3 Stunden Fahrt, davon ein kurzer Grenzüber
 ---
 
 **Mehr lesen:**
-- [Balkan Roadtrip: Route, Stopps, Tipps](/blog/balkan-roadtrip-route)
-- [Wo übernachten in Kotor: Altstadt, Dobrota oder Tivat?](/blog/wo-uebernachten-kotor)
-- [Schönste Strände Europas 2026: Die ehrliche Liste](/blog/schoenste-straende-europa-2026)
+- [Balkan Roadtrip: Route, Stopps, Tipps](/blog/balkan-roadtrip-route/)
+- [Wo übernachten in Kotor: Altstadt, Dobrota oder Tivat?](/blog/wo-uebernachten-kotor/)
+- [Schönste Strände Europas 2026: Die ehrliche Liste](/blog/schoenste-straende-europa-2026/)

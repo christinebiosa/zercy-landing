@@ -38,7 +38,7 @@ Scandinavia by sleeper. Hamburg through Copenhagen and Malmö to Stockholm. Swed
 
 **Paris to Nice (Intercités de Nuit, approx. 10 hours)**
 
-The French overnight from Paris to the Côte d'Azur. Paris Gare d'Austerlitz in the evening, Nice the next morning. Fares from 19 euros for a seat. The trains are older than the Nightjets, but the route is practical and cheap. A solid start for exploring [hidden gems across Europe](/en/blog/hidden-gems-europe).
+The French overnight from Paris to the Côte d'Azur. Paris Gare d'Austerlitz in the evening, Nice the next morning. Fares from 19 euros for a seat. The trains are older than the Nightjets, but the route is practical and cheap. A solid start for exploring [hidden gems across Europe](/en/blog/hidden-gems-europe/).
 
 **Brussels to Vienna (European Sleeper)**
 
@@ -58,7 +58,7 @@ A night train replaces two things at once: transport and accommodation. You save
 
 Then there's CO2. A night train from Vienna to Paris produces roughly 95% less than the equivalent flight. Those are the numbers from [Seat61](https://www.seat61.com), the best independent resource for European train travel.
 
-Combine night trains with [cheap flight strategies](/en/blog/cheap-flights-tips) and you get more of Europe for less money.
+Combine night trains with [cheap flight strategies](/en/blog/cheap-flights-tips/) and you get more of Europe for less money.
 
 ## How to Book Night Trains in Europe
 
@@ -70,7 +70,7 @@ Combine night trains with [cheap flight strategies](/en/blog/cheap-flights-tips)
 
 **Early booking rule:** Night trains are popular. The cheapest fares appear 3 to 6 months before departure. Weekends and holidays sell out fast, especially sleeper compartments. Private cabin on a Friday in July? Book very early.
 
-Traveling [carry-on only](/en/blog/carry-on-only) makes night trains even easier. No luggage hassle, just your bag and your berth.
+Traveling [carry-on only](/en/blog/carry-on-only/) makes night trains even easier. No luggage hassle, just your bag and your berth.
 
 ---
 
@@ -94,4 +94,4 @@ The biggest addition is Zürich to Barcelona via Lyon (ÖBB Nightjet). European 
 
 The newest ÖBB Nightjet carriages (Siemens Viaggio Next Level) are a big upgrade. Sleeper compartments have private showers, USB charging, climate control, and breakfast. Couchettes are solid but basic. Seat cars work for one night. If comfort matters, spend the extra for a sleeper.
 
-**Read more:** [Train Travel in Europe: 5 Routes](/en/blog/train-travel-europe) · [Hidden Gems in Europe](/en/blog/hidden-gems-europe) · [One Week, Carry-On Only](/en/blog/carry-on-only)
+**Read more:** [Train Travel in Europe: 5 Routes](/en/blog/train-travel-europe/) · [Hidden Gems in Europe](/en/blog/hidden-gems-europe/) · [One Week, Carry-On Only](/en/blog/carry-on-only/)

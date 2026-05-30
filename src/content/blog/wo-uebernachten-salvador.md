@@ -49,7 +49,7 @@ Hotels in Barra sind moderner und touristisch ausgerichtet. Gut für alle die St
 
 **Top-Picks:** Pestana Bahia Lodge (direkt am Barra-Strand, tolle Lage), Bahia Hotel e Tours (Boutique in Barra), Porto da Barra (günstig, strandnah).
 
-Unser [Brasilien-Reiseguide](/blog/brasilien-reiseguide-highlights) und der [Rio-de-Janeiro-Guide](/blog/wo-uebernachten-rio-de-janeiro) sind die besten Ergänzungen für eine Brasilien-Reise.
+Unser [Brasilien-Reiseguide](/blog/brasilien-reiseguide-highlights/) und der [Rio-de-Janeiro-Guide](/blog/wo-uebernachten-rio-de-janeiro/) sind die besten Ergänzungen für eine Brasilien-Reise.
 
 ## Wann ist die beste Reisezeit für Salvador?
 
@@ -105,6 +105,6 @@ April bis August (Regenzeit) ist günstiger und weniger überlaufen. September u
 ---
 
 ## Mehr lesen
-- [Wo übernachten in Rio de Janeiro: Die besten Stadtteile](/blog/wo-uebernachten-rio-de-janeiro)
-- [Brasilien Reiseguide: Die schönsten Highlights](/blog/brasilien-reiseguide-highlights)
-- [Wo übernachten in Buenos Aires: Die besten Viertel](/blog/wo-uebernachten-buenos-aires)
+- [Wo übernachten in Rio de Janeiro: Die besten Stadtteile](/blog/wo-uebernachten-rio-de-janeiro/)
+- [Brasilien Reiseguide: Die schönsten Highlights](/blog/brasilien-reiseguide-highlights/)
+- [Wo übernachten in Buenos Aires: Die besten Viertel](/blog/wo-uebernachten-buenos-aires/)

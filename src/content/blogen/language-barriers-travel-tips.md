@@ -20,7 +20,7 @@ Seven methods. All battle-tested. None of them require you to spend three months
 
 **DeepL** wins on longer texts. If you need to write an email to a hotel or understand a contract, DeepL produces better quality than Google Translate. For quick everyday conversation, Google Translate is more practical.
 
-All three are included in our guide to the [best travel apps 2026](/en/blog/best-travel-apps-2026).
+All three are included in our guide to the [best travel apps 2026](/en/blog/best-travel-apps-2026/).
 
 ## Which 10 phrases do you always need?
 
@@ -53,7 +53,7 @@ In Morocco and other Arabic-speaking countries, staying at a riad is a smart bas
 
 Some destinations where English rarely gets you through:
 
-**Japan:** Outside Tokyo and Kyoto, only a fraction of the population speaks English. In rural areas, almost nobody does. Signs are often bilingual though. Google Lens solves the signs problem. For conversation with locals you need Google Translate. Our [Japan 3-week route guide](/en/blog/japan-3-week-route) includes practical preparation notes.
+**Japan:** Outside Tokyo and Kyoto, only a fraction of the population speaks English. In rural areas, almost nobody does. Signs are often bilingual though. Google Lens solves the signs problem. For conversation with locals you need Google Translate. Our [Japan 3-week route guide](/en/blog/japan-3-week-route/) includes practical preparation notes.
 
 **China:** Beijing and Shanghai have a tourist layer where English works. Leave that bubble and it stops. Add to that: many Western apps are blocked in China. Download everything offline before you enter the country.
 
@@ -102,5 +102,5 @@ In China, most Google services are blocked. Download all language packs offline 
 ---
 
 **Read more:**
-- [Best Travel Apps 2026: What You Actually Need](/en/blog/best-travel-apps-2026)
-- [Japan 3-Week Route: Preparation and Apps on the Ground](/en/blog/japan-3-week-route)
+- [Best Travel Apps 2026: What You Actually Need](/en/blog/best-travel-apps-2026/)
+- [Japan 3-Week Route: Preparation and Apps on the Ground](/en/blog/japan-3-week-route/)

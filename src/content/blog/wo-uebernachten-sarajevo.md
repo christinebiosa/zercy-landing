@@ -53,7 +53,7 @@ Hotels sind hier moderner, größer, professioneller im Service. Weniger Charme 
 
 **Top-Picks:** Hotel Europe (das historische Grandhotel der Stadt), Holiday Inn Sarajevo (solide Kettenoption), Radon Plaza Hotel (moderne Alternative).
 
-Für den Balkan insgesamt lohnt sich ein Blick auf die [Balkan Roadtrip Route](/blog/balkan-roadtrip-route) — Sarajevo ist ein natürlicher Stop zwischen Mostar, Dubrovnik und Kotor.
+Für den Balkan insgesamt lohnt sich ein Blick auf die [Balkan Roadtrip Route](/blog/balkan-roadtrip-route/) — Sarajevo ist ein natürlicher Stop zwischen Mostar, Dubrovnik und Kotor.
 
 ## Wann ist die beste Reisezeit für Sarajevo?
 
@@ -73,7 +73,7 @@ Für Reisende, die ein lokales Sarajevo erleben wollen und keine Lust auf Touris
 
 **Top-Picks:** Mehrere gut bewertete Guesthouses und Apartments auf Booking.com, Hostel Mix (günstig, sozial, zentral genug).
 
-Wer das Budget-Osteuropa-Thema ausreizt: Der [Günstig reisen Osteuropa Guide](/blog/guenstig-reisen-osteuropa-guide) hat konkrete Zahlen für die Region.
+Wer das Budget-Osteuropa-Thema ausreizt: Der [Günstig reisen Osteuropa Guide](/blog/guenstig-reisen-osteuropa-guide/) hat konkrete Zahlen für die Region.
 
 ## Ilidža: Ruhig, grün, mit Thermalquellen
 
@@ -109,7 +109,7 @@ Für Sarajevo ist [Booking.com](https://www.booking.com) die beste Buchungsplatt
 - Kostenlose Stornierung auf den meisten Buchungen
 - Preisvergleich über alle Kategorien hinweg
 
-Sarajevo ist insgesamt eine der günstigsten Hauptstädte Europas. Gute Boutique-Hotels gibt es ab 80-100 EUR pro Nacht. Wer verglichen haben will bevor er bucht: [Wo übernachten in Kotor](/blog/wo-uebernachten-kotor) gibt eine gute Vergleichsbasis für die Region.
+Sarajevo ist insgesamt eine der günstigsten Hauptstädte Europas. Gute Boutique-Hotels gibt es ab 80-100 EUR pro Nacht. Wer verglichen haben will bevor er bucht: [Wo übernachten in Kotor](/blog/wo-uebernachten-kotor/) gibt eine gute Vergleichsbasis für die Region.
 
 ---
 
@@ -136,6 +136,6 @@ Der Flughafen Sarajevo liegt 6 Kilometer südwestlich des Zentrums. Taxi kostet 
 ---
 
 **Mehr lesen:**
-- [Balkan Roadtrip Route: Die beste Strecke durch den Balkan](/blog/balkan-roadtrip-route)
-- [Wo übernachten in Kotor: Altstadt oder Nordufer](/blog/wo-uebernachten-kotor)
-- [Günstig reisen in Osteuropa: Der ehrliche Guide](/blog/guenstig-reisen-osteuropa-guide)
+- [Balkan Roadtrip Route: Die beste Strecke durch den Balkan](/blog/balkan-roadtrip-route/)
+- [Wo übernachten in Kotor: Altstadt oder Nordufer](/blog/wo-uebernachten-kotor/)
+- [Günstig reisen in Osteuropa: Der ehrliche Guide](/blog/guenstig-reisen-osteuropa-guide/)

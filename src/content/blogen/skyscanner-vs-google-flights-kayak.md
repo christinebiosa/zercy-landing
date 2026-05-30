@@ -26,7 +26,7 @@ The biggest difference isn't the interface. It's whose prices they actually show
 
 For long-haul flights, Google Flights is the first stop. The Explore map is one of the best features in flight search. You enter your departure city, leave the destination open, and see on a map where flights are cheap right now. Perfect if you're flexible and looking for inspiration.
 
-Price Insights is the second major feature. You can see at a glance whether the current price is "low," "typical," or "high" for that route and time period. It helps you decide whether to book now or hold off. For more on this, check out our guide to [Google Flights tips and tricks 2026](/en/blog/google-flights-tips-tricks-2026).
+Price Insights is the second major feature. You can see at a glance whether the current price is "low," "typical," or "high" for that route and time period. It helps you decide whether to book now or hold off. For more on this, check out our guide to [Google Flights tips and tricks 2026](/en/blog/google-flights-tips-tricks-2026/).
 
 For transatlantic routes, flights to Asia, or domestic US travel, Google Flights covers almost all the relevant airlines. The missing Ryanair index barely matters on those routes.
 
@@ -40,7 +40,7 @@ For European short-haul, Skyscanner is often essential because it's the only one
 
 Skyscanner has a particularly useful "Everywhere" mode. Enter your departure date, leave the destination open, and see where flights are cheapest right now. It's the equivalent of Google's Explore map, but with low-cost carriers included.
 
-On [Skyscanner](https://www.skyscanner.net) you can also use the monthly calendar view. You see an entire month at once and can identify which dates are cheaper. Very practical when your dates are flexible. Our article on the [flexible dates flight hack](/en/blog/flexible-dates-flight-hack) shows how much this approach can save.
+On [Skyscanner](https://www.skyscanner.net) you can also use the monthly calendar view. You see an entire month at once and can identify which dates are cheaper. Very practical when your dates are flexible. Our article on the [flexible dates flight hack](/en/blog/flexible-dates-flight-hack/) shows how much this approach can save.
 
 At checkout, pay attention. Skyscanner sometimes shows prices from third-party OTAs that add booking fees at checkout. The displayed price isn't always the final price. The quickest check: if Skyscanner redirects you to an OTA, open the airline's website directly and compare.
 
@@ -48,7 +48,7 @@ At checkout, pay attention. Skyscanner sometimes shows prices from third-party O
 
 Kayak covers a similarly wide range of airlines to Skyscanner. The real value comes from two features the others don't have.
 
-The first is Price Forecast: buy or wait? Kayak shows whether the price for your route is likely to rise or fall in the coming days. The accuracy isn't perfect, but as decision support it's useful, especially when you still have time before you need to book. For more on optimal booking timing, see our article on [when to book flights](/en/blog/when-to-book-flights).
+The first is Price Forecast: buy or wait? Kayak shows whether the price for your route is likely to rise or fall in the coming days. The accuracy isn't perfect, but as decision support it's useful, especially when you still have time before you need to book. For more on optimal booking timing, see our article on [when to book flights](/en/blog/when-to-book-flights/).
 
 The second is Hacker Fares. Kayak combines two separate one-way tickets on different airlines that together come out cheaper than a combined return ticket. The savings can be substantial. But: you're responsible if a connection is missed. No automatic protection from any airline. For tight connections or less experienced travelers, the risk is higher.
 
@@ -68,7 +68,7 @@ The short answer: there's no universally best option. But there are clear streng
 
 Always verify with the airline directly. Not every airline shows its best prices through search engines. Occasionally there are exclusive offers on the airline's website that no aggregator indexes.
 
-For a full set of money-saving approaches, see our article on [cheap flights tips](/en/blog/cheap-flights-tips).
+For a full set of money-saving approaches, see our article on [cheap flights tips](/en/blog/cheap-flights-tips/).
 
 ---
 
@@ -91,6 +91,6 @@ For long-haul and intercontinental flights: Google Flights as the entry point. F
 ---
 
 **Read more:**
-- [Google Flights tips and tricks 2026](/en/blog/google-flights-tips-tricks-2026)
-- [When to book flights: the optimal booking window](/en/blog/when-to-book-flights)
-- [Cheap flights tips that actually work](/en/blog/cheap-flights-tips)
+- [Google Flights tips and tricks 2026](/en/blog/google-flights-tips-tricks-2026/)
+- [When to book flights: the optimal booking window](/en/blog/when-to-book-flights/)
+- [Cheap flights tips that actually work](/en/blog/cheap-flights-tips/)

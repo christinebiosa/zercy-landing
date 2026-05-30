@@ -49,7 +49,7 @@ High season is July and August. Then it gets crowded, especially in Ksamil and D
 
 Winter (November to April) is dead on the Riviera. Most hotels and restaurants close. If you go anyway, head to Saranda where there's life year-round.
 
-If undiscovered coastal towns interest you, see [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail).
+If undiscovered coastal towns interest you, see [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail/).
 
 ## How do you actually get there?
 
@@ -61,7 +61,7 @@ Three routes work well.
 
 **Via Athens.** Flight to Athens, then ferry via Igoumenitsa to Saranda. Longer but good for multi-stop trips combined with Greece.
 
-If you want to see the full Riviera, rent a car. The drive from Vlora to Saranda is 60 miles and takes 4 hours due to switchbacks. See our [rental car checklist](/en/blog/rental-car-checklist) before booking.
+If you want to see the full Riviera, rent a car. The drive from Vlora to Saranda is 60 miles and takes 4 hours due to switchbacks. See our [rental car checklist](/en/blog/rental-car-checklist/) before booking.
 
 ---
 
@@ -88,6 +88,6 @@ Very safe. Albania has become one of Europe's safest travel destinations. Touris
 ---
 
 **Read more:**
-- [Hidden gems in Europe: 7 places without mass tourism](/en/blog/hidden-gems-europe)
-- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail)
-- [Rental car checklist: what to know before booking](/en/blog/rental-car-checklist)
+- [Hidden gems in Europe: 7 places without mass tourism](/en/blog/hidden-gems-europe/)
+- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail/)
+- [Rental car checklist: what to know before booking](/en/blog/rental-car-checklist/)

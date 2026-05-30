@@ -30,7 +30,7 @@ Die Entschädigung richtet sich nach der Flugstrecke:
 
 Wichtig: Es geht um die Verspätung am Zielort, nicht um die Abflugverspätung. Wer nach einer 2-stündigen Verspätung am Abflughafen durch Streckenflug trotzdem pünktlich landet, hat keinen Anspruch.
 
-Beim Thema Streckenbuchungen lohnt sich außerdem ein Blick auf [günstige Flüge finden](/blog/guenstig-fliegen-tipps) — richtig gebuchte Verbindungen geben dir auch mehr Rechtssicherheit.
+Beim Thema Streckenbuchungen lohnt sich außerdem ein Blick auf [günstige Flüge finden](/blog/guenstig-fliegen-tipps/) — richtig gebuchte Verbindungen geben dir auch mehr Rechtssicherheit.
 
 ## Wann zahlt die Airline nicht?
 
@@ -56,7 +56,7 @@ Bei einer **Übernachtung**: Hotelunterkunft und Transport zwischen Flughafen un
 
 Nimm dir das. Wenn die Airline nicht von sich aus reagiert, geh zur Informationstheke und verlange die Gutscheine. Heb die Belege für alles auf, was du selbst bezahlst. Du kannst die Kosten nachträglich erstatten lassen.
 
-Mehr zu smarten Strategien am Flughafen findest du in unserem Artikel über [Airport-Hacks](/blog/airport-hacks) und dazu, ob sich ein [Flughafen-Hotel lohnt](/blog/flughafen-hotel-lohnt-sich).
+Mehr zu smarten Strategien am Flughafen findest du in unserem Artikel über [Airport-Hacks](/blog/airport-hacks/) und dazu, ob sich ein [Flughafen-Hotel lohnt](/blog/flughafen-hotel-lohnt-sich/).
 
 ## Wie du dein Geld tatsächlich bekommst
 
@@ -70,7 +70,7 @@ Portale wie **[AirHelp](https://www.airhelp.com/de/)** oder Flightright überneh
 
 Die Verjährungsfrist beträgt in Deutschland **3 Jahre**. Du musst also nicht sofort handeln — aber erledige es, bevor Belege verloren gehen.
 
-Eine [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich) kann übrigens ergänzend helfen, wenn es um Folgekosten geht, die EU261 nicht abdeckt.
+Eine [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) kann übrigens ergänzend helfen, wenn es um Folgekosten geht, die EU261 nicht abdeckt.
 
 ---
 
@@ -97,6 +97,6 @@ Erst schriftlich widersprechen. Dann nationale Schlichtungsstelle einschalten od
 Plane deinen nächsten Trip entspannter: Zercy hilft dir, Flüge zu vergleichen und smarte Entscheidungen zu treffen — bevor der Stress am Gate beginnt. [Jetzt Reise planen auf zercy.app](https://www.zercy.app/logbook)
 
 **Mehr lesen:**
-- [Airport-Hacks für stressfreie Flüge](/blog/airport-hacks)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Günstig fliegen: Die besten Tipps](/blog/guenstig-fliegen-tipps)
+- [Airport-Hacks für stressfreie Flüge](/blog/airport-hacks/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Günstig fliegen: Die besten Tipps](/blog/guenstig-fliegen-tipps/)

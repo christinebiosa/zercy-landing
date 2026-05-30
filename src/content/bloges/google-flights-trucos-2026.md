@@ -24,7 +24,7 @@ Sin destino fijo, ningún problema. Ingresa tu aeropuerto de salida, deja el cam
 
 Filtra por continente, presupuesto o duración de vuelo. ¿Sudeste asiático desde 380 euros? ¿París este fin de semana desde 89 euros? El mapa se actualiza en tiempo real.
 
-Esto no es un truco vacío. Para quienes buscan "algo cálido" o "algo barato", esta vista ahorra horas. Combinado con fechas flexibles, que es el siguiente truco, se convierte en la función más potente de toda la plataforma. Es la misma lógica que hay detrás de los [vuelos open-jaw](/es/blog/open-jaw-tickets-truco-viaje): no estás atado a entrar y salir por la misma ciudad.
+Esto no es un truco vacío. Para quienes buscan "algo cálido" o "algo barato", esta vista ahorra horas. Combinado con fechas flexibles, que es el siguiente truco, se convierte en la función más potente de toda la plataforma. Es la misma lógica que hay detrás de los [vuelos open-jaw](/es/blog/open-jaw-tickets-truco-viaje/): no estás atado a entrar y salir por la misma ciudad.
 
 ## ¿Cuánto se ahorra realmente con fechas flexibles?
 
@@ -32,7 +32,7 @@ En lugar de una fecha fija, selecciona "Fechas flexibles". Google muestra una cu
 
 El ejemplo Madrid-Bangkok: viernes 3 de octubre, 780 euros. Miércoles 1 de octubre, 520 euros. Mismo vuelo. Mismo destino. Dos días desplazados.
 
-Además, las opciones "±3 días" y "1 semana" permiten que Google destaque automáticamente el día más barato dentro de tu ventana de viaje. Combina el mapa Explore con fechas flexibles y encuentras los vuelos más baratos del mundo sin escribir ni una sola ruta específica. Es el principio que está detrás de los [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos) llevado a su máxima expresión.
+Además, las opciones "±3 días" y "1 semana" permiten que Google destaque automáticamente el día más barato dentro de tu ventana de viaje. Combina el mapa Explore con fechas flexibles y encuentras los vuelos más baratos del mundo sin escribir ni una sola ruta específica. Es el principio que está detrás de los [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) llevado a su máxima expresión.
 
 ## ¿Cuándo conviene reservar? Alertas de precio y Price Insights
 
@@ -40,7 +40,7 @@ Arriba a la derecha de cualquier resultado: haz clic en "Seguir precios". Google
 
 Luego está "Price Insights": para cada búsqueda, Google indica si el precio actual es bajo, típico o alto para esa ruta, basándose en los últimos meses de datos.
 
-¿Cuándo vale la pena esperar? Reserva vuelos de larga distancia con tres a seis meses de antelación. Las aerolíneas suelen bajar precios seis u ocho semanas antes del vuelo si quedan asientos vacíos. ¿Cuándo no vale esperar? Vacaciones escolares, Navidad, festivos locales. Los precios suben de forma fiable en esas fechas. Compra pronto, no esperes. El análisis completo por tipo de ruta y temporada está en el artículo [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos).
+¿Cuándo vale la pena esperar? Reserva vuelos de larga distancia con tres a seis meses de antelación. Las aerolíneas suelen bajar precios seis u ocho semanas antes del vuelo si quedan asientos vacíos. ¿Cuándo no vale esperar? Vacaciones escolares, Navidad, festivos locales. Los precios suben de forma fiable en esas fechas. Compra pronto, no esperes. El análisis completo por tipo de ruta y temporada está en el artículo [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/).
 
 ## Por qué el modo incógnito no sirve para nada
 
@@ -58,9 +58,9 @@ Olvida el modo incógnito. Ahorra esa energía para otra cosa.
 
 **Aeropuertos cercanos:** Google Flights muestra automáticamente opciones de salida más baratas desde aeropuertos próximos. ¿Vuelas desde Barcelona? Puede que Girona o Reus salgan más baratos. Si la diferencia de precio supera el coste de llegar hasta allí, puede valer la pena. Google no hace ese cálculo por ti. Hazlo tú: tren más aparcamiento más tiempo.
 
-**Vuelos multi-city:** Selecciona "Multi-city" e ingresa cada tramo por separado. Madrid-Bangkok, Bangkok-Singapur, Singapur-Madrid. Google muestra opciones para cada segmento de forma independiente. A menudo sale más barato que un vuelo de ida y vuelta convencional. Es el concepto relacionado con el [open-jaw](/es/blog/open-jaw-tickets-truco-viaje): en lugar de volar A-B-A, vuelas hasta C y regresas desde D.
+**Vuelos multi-city:** Selecciona "Multi-city" e ingresa cada tramo por separado. Madrid-Bangkok, Bangkok-Singapur, Singapur-Madrid. Google muestra opciones para cada segmento de forma independiente. A menudo sale más barato que un vuelo de ida y vuelta convencional. Es el concepto relacionado con el [open-jaw](/es/blog/open-jaw-tickets-truco-viaje/): en lugar de volar A-B-A, vuelas hasta C y regresas desde D.
 
-**Filtro de clase de cabina:** ¿No te interesan los precios de turista? Filtra directamente por Premium Economy o Business Class. Muchos viajeros no saben que en algunas rutas de larga distancia, la Business Class cuesta el doble de la Economy, no cinco veces más. La [business class sin millas](/es/blog/business-class-sin-millas) desde unos 700 euros no es un mito. Según datos de [IATA](https://www.iata.org/en/publications/economics/), la demanda de cabinas premium ha crecido mientras los precios se han vuelto más competitivos en ciertas rutas.
+**Filtro de clase de cabina:** ¿No te interesan los precios de turista? Filtra directamente por Premium Economy o Business Class. Muchos viajeros no saben que en algunas rutas de larga distancia, la Business Class cuesta el doble de la Economy, no cinco veces más. La [business class sin millas](/es/blog/business-class-sin-millas/) desde unos 700 euros no es un mito. Según datos de [IATA](https://www.iata.org/en/publications/economics/), la demanda de cabinas premium ha crecido mientras los precios se han vuelto más competitivos en ciertas rutas.
 
 ## ¿En qué se diferencia de Skyscanner o Kayak?
 
@@ -79,7 +79,7 @@ Algo que se suele pasar por alto: algunos resultados en Google Flights muestran 
 
 Más detalles sobre las funciones de Google Flights están disponibles en la [ayuda oficial de Google Flights](https://support.google.com/travel/answer/6315436).
 
-Y una vez que tienes claro el vuelo, los [trucos de aeropuerto](/es/blog/trucos-aeropuerto) te ayudan a que todo lo que viene después salga bien también.
+Y una vez que tienes claro el vuelo, los [trucos de aeropuerto](/es/blog/trucos-aeropuerto/) te ayudan a que todo lo que viene después salga bien también.
 
 ---
 
@@ -97,7 +97,7 @@ Ingresa tu ruta y fechas, luego haz clic en "Seguir precios" arriba a la derecha
 
 ### ¿Cuándo son más baratos los vuelos?
 
-Como norma general: vuelos europeos cortos con dos a seis semanas de antelación, larga distancia con dos a seis meses. Los martes y miércoles suelen ser más baratos que los viernes y domingos. Los vuelos muy temprano por la mañana y los últimos de la noche cuestan menos que en horarios punta. Para un análisis detallado por tipo de ruta y temporada, consulta el artículo [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos).
+Como norma general: vuelos europeos cortos con dos a seis semanas de antelación, larga distancia con dos a seis meses. Los martes y miércoles suelen ser más baratos que los viernes y domingos. Los vuelos muy temprano por la mañana y los últimos de la noche cuestan menos que en horarios punta. Para un análisis detallado por tipo de ruta y temporada, consulta el artículo [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/).
 
 ### ¿Qué vuelos no aparecen en Google Flights?
 
@@ -106,6 +106,6 @@ Ryanair, Wizz Air y varias aerolíneas ultra low-cost no están. Google Flights 
 ---
 
 **Leer más:**
-- [Open-Jaw: El truco de vuelos que realmente funciona](/es/blog/open-jaw-tickets-truco-viaje)
-- [Cuándo reservar vuelos: La respuesta honesta](/es/blog/cuando-reservar-vuelos)
-- [Trucos de aeropuerto: 7 consejos probados](/es/blog/trucos-aeropuerto)
+- [Open-Jaw: El truco de vuelos que realmente funciona](/es/blog/open-jaw-tickets-truco-viaje/)
+- [Cuándo reservar vuelos: La respuesta honesta](/es/blog/cuando-reservar-vuelos/)
+- [Trucos de aeropuerto: 7 consejos probados](/es/blog/trucos-aeropuerto/)

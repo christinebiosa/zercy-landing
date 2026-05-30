@@ -24,7 +24,7 @@ Volar con escala tiene sentido cuando:
 - tienes un horario flexible sin compromisos fijos al día siguiente
 - vuelas a Asia o Sudamérica, donde la prima del vuelo directo suele ser del 40 al 50%
 
-Nuestro artículo sobre [rutas ex-EU](/es/blog/vuelos-ex-eu-como-funciona) explica cómo encontrar tarifas más baratas gracias a un enrutamiento más inteligente.
+Nuestro artículo sobre [rutas ex-EU](/es/blog/vuelos-ex-eu-como-funciona/) explica cómo encontrar tarifas más baratas gracias a un enrutamiento más inteligente.
 
 ## ¿Cuándo conviene claramente el vuelo directo?
 
@@ -50,7 +50,7 @@ Es una de las preguntas más frecuentes antes de reservar. Y la respuesta es má
 
 **Por debajo de esos números, dependes de la suerte.** No de la planificación. De la suerte. Quien construye un itinerario sobre eso debería preguntarse si el ahorro justifica el estrés.
 
-Si eres flexible con las fechas, a veces encuentras vuelos directos más baratos simplemente cambiando el día de salida. Nuestro artículo sobre [fechas flexibles para vuelos](/es/blog/fechas-flexibles-vuelos-ahorro) explica cómo sacar partido de eso.
+Si eres flexible con las fechas, a veces encuentras vuelos directos más baratos simplemente cambiando el día de salida. Nuestro artículo sobre [fechas flexibles para vuelos](/es/blog/fechas-flexibles-vuelos-ahorro/) explica cómo sacar partido de eso.
 
 ## ¿Cuánto cuesta realmente hacer escala?
 
@@ -58,15 +58,15 @@ No solo en tiempo, también en dinero. Una conexión perdida significa: hotel en
 
 Luego está el agotamiento. Un vuelo directo de Fráncfort a Bangkok dura once horas. Con escala suele ser entre 15 y 18. El cuerpo lo nota. Si tienes planeado un día largo a la llegada o reuniones a primera hora del día siguiente, pagas la diferencia de precio en energía.
 
-Una alternativa que vale la pena conocer es el [billete open-jaw](/es/blog/open-jaw-tickets-truco-viaje): vuelas a una ciudad, viajas por tierra, y regresas desde otra ciudad diferente. Combina flexibilidad con precios razonables, sin obligarte a volver al punto de partida.
+Una alternativa que vale la pena conocer es el [billete open-jaw](/es/blog/open-jaw-tickets-truco-viaje/): vuelas a una ciudad, viajas por tierra, y regresas desde otra ciudad diferente. Combina flexibilidad con precios razonables, sin obligarte a volver al punto de partida.
 
 ## ¿Cómo encuentras la mejor opción?
 
-[Google Flights](/es/blog/trucos-google-flights-2026) es la herramienta más potente para este tipo de comparaciones. Introduce tu ruta, filtra por vuelos sin escalas y compara la diferencia de precio con las opciones con conexión. Ves la diferencia real de tiempo de un vistazo.
+[Google Flights](/es/blog/trucos-google-flights-2026/) es la herramienta más potente para este tipo de comparaciones. Introduce tu ruta, filtra por vuelos sin escalas y compara la diferencia de precio con las opciones con conexión. Ves la diferencia real de tiempo de un vistazo.
 
 Si el vuelo directo cuesta más de un 40% más: reserva el vuelo con escala con bastante margen en la conexión. Si la diferencia de precio es inferior a 100 euros: el directo es casi siempre la mejor opción.
 
-Y si no tienes claro cuándo reservar, nuestro artículo sobre [cuándo comprar billetes de avión](/es/blog/cuando-reservar-vuelos) puede ayudarte. Elegir el momento adecuado para la compra a veces reduce la diferencia entre directo y con escala de forma considerable.
+Y si no tienes claro cuándo reservar, nuestro artículo sobre [cuándo comprar billetes de avión](/es/blog/cuando-reservar-vuelos/) puede ayudarte. Elegir el momento adecuado para la compra a veces reduce la diferencia entre directo y con escala de forma considerable.
 
 ---
 
@@ -94,6 +94,6 @@ En rutas cortas europeas la diferencia suele ser pequeña, menos de 50 euros. En
 
 Más artículos:
 
-- [Open-jaw: el truco de viaje que casi nadie conoce](/es/blog/open-jaw-tickets-truco-viaje)
-- [Trucos de Google Flights 2026](/es/blog/trucos-google-flights-2026)
-- [Vuelos ex-EU: cómo volar más barato pasando por Europa](/es/blog/vuelos-ex-eu-como-funciona)
+- [Open-jaw: el truco de viaje que casi nadie conoce](/es/blog/open-jaw-tickets-truco-viaje/)
+- [Trucos de Google Flights 2026](/es/blog/trucos-google-flights-2026/)
+- [Vuelos ex-EU: cómo volar más barato pasando por Europa](/es/blog/vuelos-ex-eu-como-funciona/)

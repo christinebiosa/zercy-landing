@@ -44,7 +44,7 @@ El precio de cabina es el precio de entrada, no el precio final. Estos son los c
 
 **Costo real total** para 7 noches en el Mediterráneo (dos personas, cabina con balcón, paquete de bebidas, excursiones moderadas): entre 3.000 y 5.000 EUR en total. Por persona, entre 1.500 y 2.500 EUR. No los 600 EUR del banner publicitario.
 
-Si planeas desde el principio con el número real, no hay sorpresas desagradables. Nuestro artículo sobre [errores de viaje](/es/blog/errores-viaje-evitar-clasicos) cubre otras trampas comunes de presupuesto.
+Si planeas desde el principio con el número real, no hay sorpresas desagradables. Nuestro artículo sobre [errores de viaje](/es/blog/errores-viaje-evitar-clasicos/) cubre otras trampas comunes de presupuesto.
 
 ## ¿Qué rutas funcionan mejor para el primer crucero?
 
@@ -68,7 +68,7 @@ Tres opciones, cada una con sus ventajas.
 
 Reservar con anticipación suele valer la pena en cruceros. Las cabinas con balcón en rutas mediterráneas de verano se agotan meses antes. Las ofertas de último momento existen, pero la elección de cabina es muy limitada.
 
-Nuestro artículo sobre [reservas de hotel directas vs. intermediarios](/es/blog/reservar-online-o-directo) también explica cuándo conviene cada opción.
+Nuestro artículo sobre [reservas de hotel directas vs. intermediarios](/es/blog/reservar-online-o-directo/) también explica cuándo conviene cada opción.
 
 ## ¿Qué tan real es el mareo en el mar?
 
@@ -103,6 +103,6 @@ Royal Caribbean y Norwegian Cruise Line tienen los programas infantiles más com
 ---
 
 **Más para leer:**
-- [Cruceros: cómo ampliar la visita a cada ciudad portuaria](/es/blog/cruceros-ampliar-ciudades)
-- [Errores de viaje: las trampas más comunes](/es/blog/errores-viaje-evitar-clasicos)
-- [Seguro de viaje: ¿cuándo vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Cruceros: cómo ampliar la visita a cada ciudad portuaria](/es/blog/cruceros-ampliar-ciudades/)
+- [Errores de viaje: las trampas más comunes](/es/blog/errores-viaje-evitar-clasicos/)
+- [Seguro de viaje: ¿cuándo vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

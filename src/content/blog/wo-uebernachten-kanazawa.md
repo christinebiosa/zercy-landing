@@ -65,7 +65,7 @@ Katamachi ist Kanazawas kulinarisches Zentrum. Rihaku-dori und Korinbo sind die 
 
 **Top-Picks:** Dormy Inn Kanazawa (Ketten-Business-Hotel, zuverlässig, Onsen im Haus), Cross Hotel Kanazawa (modernes Design, gute Lage für Abendessen), Kanazawa Chaya (kleines Boutique-Hotel mit lokalem Charakter).
 
-Wenn du Japan auch jenseits der Touristenpfade erkunden willst, lohnt sich ein Blick auf unsere [Japan-3-Wochen-Route](/blog/japan-3-wochen-route), die Kanazawa als wichtigen Stopp einbaut.
+Wenn du Japan auch jenseits der Touristenpfade erkunden willst, lohnt sich ein Blick auf unsere [Japan-3-Wochen-Route](/blog/japan-3-wochen-route/), die Kanazawa als wichtigen Stopp einbaut.
 
 ## Kanazawa Station Area: Ankommen und Loslegen
 
@@ -79,7 +79,7 @@ Hotels hier sind funktional, etwas günstiger als im Zentrum und gut an das loka
 
 **Top-Picks:** JR Inn Kanazawa (direkt am Bahnhof, sehr praktisch), Kanazawa Excel Hotel Tokyu (Mittelklasse mit gutem Service), Hotel Monterey La Mer Kanazawa (ordentlich, faire Preise).
 
-Lies auch unsere Tipps zum [Japan-Budget-Reisen](/blog/japan-budget-reisen-tipps) wenn du Kanazawa günstig halten willst.
+Lies auch unsere Tipps zum [Japan-Budget-Reisen](/blog/japan-budget-reisen-tipps/) wenn du Kanazawa günstig halten willst.
 
 ## Noto Peninsula Direction: Ryokan und Meeresblick
 
@@ -120,6 +120,6 @@ Für einen oder zwei Tage ist die Kenroku-en / Castle Area die beste Wahl. Man e
 ---
 
 **Mehr lesen:**
-- [Japan in 3 Wochen: Die optimale Route](/blog/japan-3-wochen-route)
-- [Japan günstig reisen: Budget-Tipps](/blog/japan-budget-reisen-tipps)
-- [Geheimtipps Europa: Unterschätzte Städte](/blog/geheimtipps-europa)
+- [Japan in 3 Wochen: Die optimale Route](/blog/japan-3-wochen-route/)
+- [Japan günstig reisen: Budget-Tipps](/blog/japan-budget-reisen-tipps/)
+- [Geheimtipps Europa: Unterschätzte Städte](/blog/geheimtipps-europa/)

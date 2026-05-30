@@ -71,7 +71,7 @@ San Telmo es el barrio más antiguo de Buenos Aires. Calles empedradas, casas co
 
 **Top picks:** Patios de San Telmo (boutique pequeño en casa restaurada), Mansión Vitraux Boutique Hotel (pequeño, con bar de vinos), Hotel Casa San Telmo (boutique con patio).
 
-Lee también nuestra [guía de Cusco](/es/blog/donde-alojarse-cusco), una combinación clásica con Buenos Aires para sudamericanos.
+Lee también nuestra [guía de Cusco](/es/blog/donde-alojarse-cusco/), una combinación clásica con Buenos Aires para sudamericanos.
 
 ## Puerto Madero: Moderno y seguro
 
@@ -139,6 +139,6 @@ Buenos Aires está extremadamente barata en 2026 debido a la debilidad del peso.
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Cusco: 4 barrios](/es/blog/donde-alojarse-cusco)
-- [Dónde alojarse en Mendoza: 4 zonas vinícolas](/es/blog/donde-alojarse-mendoza)
-- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima)
+- [Dónde alojarse en Cusco: 4 barrios](/es/blog/donde-alojarse-cusco/)
+- [Dónde alojarse en Mendoza: 4 zonas vinícolas](/es/blog/donde-alojarse-mendoza/)
+- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima/)

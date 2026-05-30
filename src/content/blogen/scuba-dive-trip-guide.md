@@ -28,17 +28,17 @@ Already certified? The Advanced Open Water opens up deeper sites and more varied
 
 Warm or cold, colorful or mysterious, remote or easy-access. The world has a lot of options. These are the ones that come up again and again.
 
-**Red Sea, Egypt.** The best starting point for most divers. Warm water year-round, excellent visibility, vibrant coral reefs, and easy access from Europe. Hurghada and Sharm el-Sheikh have well-developed dive infrastructure. You can find great packages at surprisingly low prices. A full week all-in with guided dives starts around 800 euros. More context in the [Egypt travel guide](/en/blog/egypt-travel-guide-highlights).
+**Red Sea, Egypt.** The best starting point for most divers. Warm water year-round, excellent visibility, vibrant coral reefs, and easy access from Europe. Hurghada and Sharm el-Sheikh have well-developed dive infrastructure. You can find great packages at surprisingly low prices. A full week all-in with guided dives starts around 800 euros. More context in the [Egypt travel guide](/en/blog/egypt-travel-guide-highlights/).
 
 **Similan Islands, Thailand.** One of Southeast Asia's finest dive areas. Massive underwater rock formations, whale sharks, manta rays, and pristine coral gardens. The season runs from November to April. Outside those months, the national park is closed. Most divers reach the Similans by liveaboard from Phuket.
 
 **Galápagos, Ecuador.** Not for beginners. But for experienced divers, nothing else comes close. Hammerhead sharks schooling in the blue, Galápagos sea lions, marine iguanas, Mola mola. Cold water, strong currents, high prices. Divers who've been there talk about it for years.
 
-**Komodo, Indonesia.** Strong drift dives, enormous manta rays, colorful reefs. Komodo rewards experienced divers who are comfortable in current. Pair it with a wider Indonesia trip, and check the [Indonesia travel guide](/en/blog/indonesia-travel-guide-highlights) for planning ideas.
+**Komodo, Indonesia.** Strong drift dives, enormous manta rays, colorful reefs. Komodo rewards experienced divers who are comfortable in current. Pair it with a wider Indonesia trip, and check the [Indonesia travel guide](/en/blog/indonesia-travel-guide-highlights/) for planning ideas.
 
 **Belize Barrier Reef.** The second largest barrier reef in the world. The Great Blue Hole is one of the most iconic dive sites on the planet. Warm Caribbean water, relaxed atmosphere, diverse marine life. Good for divers at every level.
 
-For a broader list of dive and snorkel destinations, read [Diving and Snorkeling: The Best Destinations](/en/blog/diving-snorkeling-destinations).
+For a broader list of dive and snorkel destinations, read [Diving and Snorkeling: The Best Destinations](/en/blog/diving-snorkeling-destinations/).
 
 ## Liveaboard or Dive Resort?
 
@@ -62,7 +62,7 @@ Diving has a reputation for being expensive. That's true at the high end. But th
 
 **Your own mask and fins:** Buy them. Rental masks rarely fit well, and they've been on a lot of other faces. Your own gear fits better, is more comfortable, and is more hygienic. Leave the regulator and BCD for rental.
 
-**Dive travel insurance:** This is not optional. Standard travel insurance does not cover diving accidents. You need a policy that includes decompression sickness treatment and hyperbaric chamber access. The most trusted option in the dive community is **DAN Insurance** (Divers Alert Network). It's affordable, widely recognized, and specifically designed for divers. More on travel insurance in general: [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026).
+**Dive travel insurance:** This is not optional. Standard travel insurance does not cover diving accidents. You need a policy that includes decompression sickness treatment and hyperbaric chamber access. The most trusted option in the dive community is **DAN Insurance** (Divers Alert Network). It's affordable, widely recognized, and specifically designed for divers. More on travel insurance in general: [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/).
 
 Plan your entire dive trip with flights, accommodation, and budget in one place using [Zercy](https://www.zercy.app). Already know where you're going? Add your dive destinations to the [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -89,6 +89,6 @@ Your mask and fins are worth owning. A well-fitting mask dramatically improves e
 ---
 
 **More reading:**
-- [Diving and Snorkeling: The Best Destinations](/en/blog/diving-snorkeling-destinations)
-- [Egypt Travel Guide: Highlights and Tips](/en/blog/egypt-travel-guide-highlights)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Diving and Snorkeling: The Best Destinations](/en/blog/diving-snorkeling-destinations/)
+- [Egypt Travel Guide: Highlights and Tips](/en/blog/egypt-travel-guide-highlights/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

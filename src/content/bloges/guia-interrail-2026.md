@@ -48,7 +48,7 @@ Todo depende del tiempo disponible y los intereses. Aquí hay tres rutas probada
 
 **Ruta de los Balcanes y Europa del Este (14-21 días)**: Viena, Budapest, Belgrado, Sofía, Estambul, Zagreb, Liubliana. Esta ruta tiene menos turismo masivo, precios más bajos en el destino y paisajes espectaculares. Los trenes son más lentos pero el ambiente más auténtico. Para viajeros que ya conocen Europa Occidental.
 
-Lectura relacionada: para combinar algunos de estos destinos con una escapada de fin de semana, lee sobre [48 horas en Viena](/es/blog/viena-fin-de-semana) o [48 horas en Barcelona](/es/blog/48-horas-barcelona).
+Lectura relacionada: para combinar algunos de estos destinos con una escapada de fin de semana, lee sobre [48 horas en Viena](/es/blog/viena-fin-de-semana/) o [48 horas en Barcelona](/es/blog/48-horas-barcelona/).
 
 ## ¿Cómo usar la app de Interrail/Eurail correctamente?
 
@@ -100,6 +100,6 @@ En la app de Interrail/Eurail directamente, o en el sitio web de Renfe (operador
 ---
 
 **Leer más:**
-- [Trenes nocturnos por Europa en 2026: guía práctica](/es/blog/trenes-nocturnos-europa-2026)
-- [48 horas en Barcelona: el itinerario perfecto](/es/blog/48-horas-barcelona)
-- [48 horas en Viena: museos, cafés y el Schönbrunn](/es/blog/viena-fin-de-semana)
+- [Trenes nocturnos por Europa en 2026: guía práctica](/es/blog/trenes-nocturnos-europa-2026/)
+- [48 horas en Barcelona: el itinerario perfecto](/es/blog/48-horas-barcelona/)
+- [48 horas en Viena: museos, cafés y el Schönbrunn](/es/blog/viena-fin-de-semana/)

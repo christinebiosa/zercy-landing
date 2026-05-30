@@ -77,6 +77,6 @@ The Forbidden City (book tickets in advance!), the Temple of Heaven, the Nanluog
 
 ## Read more
 
-- [Where to Stay in Hong Kong](/en/blog/where-to-stay-hong-kong)
-- [Where to Stay in Seoul](/en/blog/where-to-stay-seoul)
-- [Where to Stay in Tokyo](/en/blog/where-to-stay-tokyo)
+- [Where to Stay in Hong Kong](/en/blog/where-to-stay-hong-kong/)
+- [Where to Stay in Seoul](/en/blog/where-to-stay-seoul/)
+- [Where to Stay in Tokyo](/en/blog/where-to-stay-tokyo/)

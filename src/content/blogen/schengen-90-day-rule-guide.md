@@ -48,7 +48,7 @@ The UK was in the EU until 2020 but was never in the Schengen Area. It now opera
 
 Why does this matter practically? A stay in Ireland or the UK does not count against your 90 Schengen days. You can travel to Dublin or London in between and not lose any of your allowance.
 
-More on entry requirements and the upcoming ETIAS registration: [ETIAS 2026 Guide](/en/blog/etias-2026-eu-entry-guide)
+More on entry requirements and the upcoming ETIAS registration: [ETIAS 2026 Guide](/en/blog/etias-2026-eu-entry-guide/)
 
 ## What happens if you overstay the 90 days?
 
@@ -110,7 +110,7 @@ In general, yes. If you drive through France or make a stopover there, that coun
 
 ### What is ETIAS and does it apply to everyone from 2026?
 
-ETIAS is a travel authorization for non-EU citizens from visa-exempt countries. The launch date has been postponed repeatedly and currently targets 2026 or 2027. Once it goes live, anyone entering the Schengen Area visa-free will need to register in advance. The 90/180-day rule still applies on top of that. More details in the [ETIAS 2026 Guide](/en/blog/etias-2026-eu-entry-guide).
+ETIAS is a travel authorization for non-EU citizens from visa-exempt countries. The launch date has been postponed repeatedly and currently targets 2026 or 2027. Once it goes live, anyone entering the Schengen Area visa-free will need to register in advance. The 90/180-day rule still applies on top of that. More details in the [ETIAS 2026 Guide](/en/blog/etias-2026-eu-entry-guide/).
 
 ### Can I move between Schengen countries to reset my days?
 
@@ -120,6 +120,6 @@ No. The Schengen Area counts as a single zone. Moving from Germany to Spain or f
 
 ## Read more
 
-- [ETIAS 2026: Everything You Need to Know](/en/blog/etias-2026-eu-entry-guide)
-- [Long-Term Travel Preparation: A Checklist for Months Abroad](/en/blog/long-term-travel-preparation)
-- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-guide)
+- [ETIAS 2026: Everything You Need to Know](/en/blog/etias-2026-eu-entry-guide/)
+- [Long-Term Travel Preparation: A Checklist for Months Abroad](/en/blog/long-term-travel-preparation/)
+- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-guide/)

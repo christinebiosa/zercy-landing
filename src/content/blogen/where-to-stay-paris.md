@@ -100,7 +100,7 @@ For Paris [Booking.com](https://www.booking.com) is clearly the best platform:
 
 Direct hotel booking only worth it for premium (Ritz, Plaza Athénée) for possible upgrades.
 
-See our [boutique hotels guide](/en/blog/boutique-hotels) for special selections.
+See our [boutique hotels guide](/en/blog/boutique-hotels/) for special selections.
 
 ---
 
@@ -127,6 +127,6 @@ Backpacker: $900-1,400 per person incl. flight (hostel, park picnic). Mid-range:
 ---
 
 **Read more:**
-- [Where to stay in Rome: 5 neighborhoods](/en/blog/where-to-stay-rome)
-- [Where to stay in Lisbon: 5 neighborhoods](/en/blog/where-to-stay-lisbon)
-- [Boutique hotels worldwide: small houses with character](/en/blog/boutique-hotels)
+- [Where to stay in Rome: 5 neighborhoods](/en/blog/where-to-stay-rome/)
+- [Where to stay in Lisbon: 5 neighborhoods](/en/blog/where-to-stay-lisbon/)
+- [Boutique hotels worldwide: small houses with character](/en/blog/boutique-hotels/)

@@ -29,7 +29,7 @@ Das Riff leidet unter Korallenbleiche (Klimawandel). Ein Besuch jetzt ist auch e
 
 Das Rote Meer ist das zugänglichste Tauchmeer der Welt. Direkte Flüge aus ganz Europa, günstiges Leben, warmes Wasser (26-30 Grad), exzellente Sichtweite. Hurghada ist das meistbesuchte Resortzentrum. Marsa Alam ist ruhiger und hat die bessere Unterwasserwelt (Mantas, Dugongs, Hammerhaie).
 
-Die Schiffswracks im Roten Meer (SS Thistlegorm, SS Dunravn) gehören zu den berühmtesten Tauchsites überhaupt. Für [unser Schnorchelziele-Vergleich mit Ostafrika](/blog/safari-ostafrika-guide) ist das Rote Meer die Ergänzung im Norden.
+Die Schiffswracks im Roten Meer (SS Thistlegorm, SS Dunravn) gehören zu den berühmtesten Tauchsites überhaupt. Für [unser Schnorchelziele-Vergleich mit Ostafrika](/blog/safari-ostafrika-guide/) ist das Rote Meer die Ergänzung im Norden.
 
 **Niveau:** Anfänger bis Experte. Überall Tauchschulen, PADI-Kurse für unter 300 EUR komplett.
 **Beste Zeit:** Das ganze Jahr. Beste Sichtweite Oktober bis April.
@@ -59,7 +59,7 @@ Palau ist nicht billig und nicht einfach zu erreichen (Layover nötig). Das häl
 
 Die Komodo-Drachen sind der offizielle Grund für den Trip. Der eigentliche Grund: eines der artenreichsten Meere der Welt. Das Coral Triangle erstreckt sich hier über Millionen Quadratkilometer. Mantas an Batu Bolong, Molas an der Oberfläche, Thunfisch-Tornados im Blau.
 
-Die Strömung in Komodo ist stark und unberechenbar. Das bringt Nährstoffe. Und damit alles, was davon frisst. Von [Labuan Bajo](/blog/suedostasien-budget-reisen) aus starten Liveaboards für 3-7 Tage.
+Die Strömung in Komodo ist stark und unberechenbar. Das bringt Nährstoffe. Und damit alles, was davon frisst. Von [Labuan Bajo](/blog/suedostasien-budget-reisen/) aus starten Liveaboards für 3-7 Tage.
 
 **Niveau:** Fortgeschritten. Strömungserfahrung notwendig.
 **Beste Zeit:** April bis November (trocken, beste Sicht im Süden).
@@ -133,6 +133,6 @@ Koh Tao (Thailand) gilt als günstigstes PADI-Kurs-Ziel weltweit. Hurghada (Ägy
 ---
 
 **Mehr lesen:**
-- [Safari Ostafrika: Planung und beste Reisezeit](/blog/safari-ostafrika-guide)
-- [Slowenien: Grünes Naturparadies 2026](/blog/slowenien-geheimnis-2026)
-- [Wann Flüge buchen: Die beste Strategie](/blog/wann-fluege-buchen)
+- [Safari Ostafrika: Planung und beste Reisezeit](/blog/safari-ostafrika-guide/)
+- [Slowenien: Grünes Naturparadies 2026](/blog/slowenien-geheimnis-2026/)
+- [Wann Flüge buchen: Die beste Strategie](/blog/wann-fluege-buchen/)

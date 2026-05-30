@@ -61,7 +61,7 @@ Spinut is west of the city center, right on the water. The beach here is less vi
 
 **Top picks:** Hotel Globo (family hotel with pool, right by the sea), Spinut Camping and Holiday Park (for families needing more space), various apartments in residential buildings with sea views.
 
-If you are planning several Croatian coastal stops, our [Croatia island hopping guide](/en/blog/croatia-island-hopping) covers the best routes between Split, Hvar, and Korčula. The [rental car checklist](/en/blog/rental-car-checklist) is also essential for Dalmatia.
+If you are planning several Croatian coastal stops, our [Croatia island hopping guide](/en/blog/croatia-island-hopping/) covers the best routes between Split, Hvar, and Korčula. The [rental car checklist](/en/blog/rental-car-checklist/) is also essential for Dalmatia.
 
 ## Žnjan: Modern Beach Hotels
 
@@ -83,7 +83,7 @@ Between Split and Trogir (its own UNESCO old town, 27 km north) there is a stret
 
 **Top picks:** Bluesun Hotel Elaphusa (larger resort between Split and Trogir), Villa Vili (holiday-house style, garden, pool), various apartments near Trogir for groups.
 
-For the Dubrovnik perspective, the [Dubrovnik neighborhood guide](/en/blog/where-to-stay-dubrovnik) uses the same approach for the Pearl of the Adriatic.
+For the Dubrovnik perspective, the [Dubrovnik neighborhood guide](/en/blog/where-to-stay-dubrovnik/) uses the same approach for the Pearl of the Adriatic.
 
 ## Where Should You Book in the End?
 
@@ -121,6 +121,6 @@ October and November, plus April and May. Outside Croatian school holidays (mid-
 ---
 
 **Read more:**
-- [Where to Stay in Dubrovnik: The 5 Neighborhoods](/en/blog/where-to-stay-dubrovnik)
-- [Croatia Island Hopping: The Best Routes](/en/blog/croatia-island-hopping)
-- [Rental Car Checklist: What You Need to Know Before Booking](/en/blog/rental-car-checklist)
+- [Where to Stay in Dubrovnik: The 5 Neighborhoods](/en/blog/where-to-stay-dubrovnik/)
+- [Croatia Island Hopping: The Best Routes](/en/blog/croatia-island-hopping/)
+- [Rental Car Checklist: What You Need to Know Before Booking](/en/blog/rental-car-checklist/)

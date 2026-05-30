@@ -63,7 +63,7 @@ Heroes' Square is one of the most impressive public squares in Europe, and most 
 
 Lunch on Andrássy: cheaper options in the side streets. Gulyás with bread runs 8 to 12 euros.
 
-If you're planning a longer Hungary trip, our [Hungary travel guide with highlights](/en/blog/hungary-travel-guide-highlights) covers the whole country well.
+If you're planning a longer Hungary trip, our [Hungary travel guide with highlights](/en/blog/hungary-travel-guide-highlights/) covers the whole country well.
 
 **Evening: Danube night cruise**
 
@@ -87,7 +87,7 @@ Cruises depart multiple times each evening from Vigadó tér pier. Basic 1-hour 
 
 Pest city center, Districts V and VI, is the central option. Hotel prices are significantly cheaper than Vienna or Prague. Good 3-star hotels start from 60 to 80 euros per night. The Jewish Quarter (District VII) sits perfectly for the ruin bar scene and has solid accommodation options throughout.
 
-On [Booking.com](https://www.booking.com) you'll find over 800 Budapest properties with free cancellation. More neighborhood picks in the guide to [where to stay in Budapest](/en/blog/where-to-stay-budapest).
+On [Booking.com](https://www.booking.com) you'll find over 800 Budapest properties with free cancellation. More neighborhood picks in the guide to [where to stay in Budapest](/en/blog/where-to-stay-budapest/).
 
 ---
 
@@ -116,6 +116,6 @@ Szimpla Kert is the most famous and has historical significance as the first rui
 ---
 
 **Read more:**
-- [Where to Stay in Budapest: Neighborhoods and Picks](/en/blog/where-to-stay-budapest)
-- [Cheapest Cities in Europe 2026: What You Actually Save](/en/blog/cheapest-cities-europe-2026)
-- [Hungary Travel Guide: The Best Highlights](/en/blog/hungary-travel-guide-highlights)
+- [Where to Stay in Budapest: Neighborhoods and Picks](/en/blog/where-to-stay-budapest/)
+- [Cheapest Cities in Europe 2026: What You Actually Save](/en/blog/cheapest-cities-europe-2026/)
+- [Hungary Travel Guide: The Best Highlights](/en/blog/hungary-travel-guide-highlights/)

@@ -36,7 +36,7 @@ The metro is cheap, reliable, and air-conditioned. A ten-trip card costs around 
 
 Use the bike for Gothic Quarter, El Born, and Barceloneta. Take the metro to Sagrada Família and Park Güell. Hills plus crowds plus summer heat is not a fun combination.
 
-For accommodation options across different budgets, check out our guide on [where to stay in Barcelona](/en/blog/where-to-stay-barcelona). If you are still planning your trip, our [cheap flights tips](/en/blog/cheap-flights-tips) can help you nail the best price. And if you are adding more cities to your itinerary, take a look at our [hidden gems in Europe](/en/blog/hidden-gems-europe) guide for ideas beyond the obvious.
+For accommodation options across different budgets, check out our guide on [where to stay in Barcelona](/en/blog/where-to-stay-barcelona/). If you are still planning your trip, our [cheap flights tips](/en/blog/cheap-flights-tips/) can help you nail the best price. And if you are adding more cities to your itinerary, take a look at our [hidden gems in Europe](/en/blog/hidden-gems-europe/) guide for ideas beyond the obvious.
 
 Save your picks in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything ready when booking.
 
@@ -63,6 +63,6 @@ Sagrada Família and Park Güell Monumental Zone are non-negotiable. Casa Batll�
 ---
 
 **Read more:**
-- [Where to Stay in Barcelona](/en/blog/where-to-stay-barcelona)
-- [Cheap Flights Tips: How to Find Better Prices](/en/blog/cheap-flights-tips)
-- [Hidden Gems in Europe: Beyond the Obvious](/en/blog/hidden-gems-europe)
+- [Where to Stay in Barcelona](/en/blog/where-to-stay-barcelona/)
+- [Cheap Flights Tips: How to Find Better Prices](/en/blog/cheap-flights-tips/)
+- [Hidden Gems in Europe: Beyond the Obvious](/en/blog/hidden-gems-europe/)

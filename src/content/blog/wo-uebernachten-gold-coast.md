@@ -85,7 +85,7 @@ Der Gold Coast Airport (Coolangatta) liegt 25 km südlich von Surfers Paradise. 
 
 ### Was sollte man an der Gold Coast unbedingt machen?
 
-Surfen lernen in Surfers Paradise (Kurse ab 60 AUD), Springbrook National Park Tagesausflug (Regenwald, Wasserfälle), Warner Bros. Movie World oder Dreamworld (Themenparks, gut für Familien), Sea World, Currumbin Wildlife Sanctuary (Kängurus und Koalas hautnah). Der [Australien Rundreise-Guide](/blog/australien-rundreise-route) zeigt die optimale Kombination mit Brisbane und Cairns.
+Surfen lernen in Surfers Paradise (Kurse ab 60 AUD), Springbrook National Park Tagesausflug (Regenwald, Wasserfälle), Warner Bros. Movie World oder Dreamworld (Themenparks, gut für Familien), Sea World, Currumbin Wildlife Sanctuary (Kängurus und Koalas hautnah). Der [Australien Rundreise-Guide](/blog/australien-rundreise-route/) zeigt die optimale Kombination mit Brisbane und Cairns.
 
 ### Wie weit ist die Gold Coast von Brisbane entfernt?
 
@@ -98,6 +98,6 @@ Burleigh Heads gilt unter Surfern als der beste. Coolangatta (Snapper Rocks) hat
 ---
 
 **Mehr lesen:**
-- [Australien Rundreise: Die optimale Route durch den Kontinent](/blog/australien-rundreise-route)
-- [Wo übernachten in Brisbane: Die besten Viertel](/blog/wo-uebernachten-brisbane)
-- [Wo übernachten in Sydney: CBD, Bondi oder Manly?](/blog/wo-uebernachten-sydney)
+- [Australien Rundreise: Die optimale Route durch den Kontinent](/blog/australien-rundreise-route/)
+- [Wo übernachten in Brisbane: Die besten Viertel](/blog/wo-uebernachten-brisbane/)
+- [Wo übernachten in Sydney: CBD, Bondi oder Manly?](/blog/wo-uebernachten-sydney/)

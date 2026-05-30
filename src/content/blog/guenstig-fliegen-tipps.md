@@ -20,7 +20,7 @@ Kein Geheimnis mehr, aber immer noch wahr. Der Effekt ist besonders stark bei Ku
 
 ## 2. Frühbucher gewinnen — aber nicht immer
 
-Die Faustregel: Europareisen 6–8 Wochen vorher buchen, Langstrecke 3–6 Monate vorher. Genauere Zeitfenster nach Streckentyp erklärt unser Artikel [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen).
+Die Faustregel: Europareisen 6–8 Wochen vorher buchen, Langstrecke 3–6 Monate vorher. Genauere Zeitfenster nach Streckentyp erklärt unser Artikel [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen/).
 
 Airlines füllen ihre günstigen Kontingente in Schüben: erst die Early-Bird-Tickets, dann eine Preiserhöhung, dann gegen Ende wieder Rabatte auf leere Sitze. Wer zu früh oder zu spät bucht, zahlt mehr. Der sweet spot liegt selten am Tag der Buchungsöffnung — und selten in der letzten Woche vor Abflug.
 
@@ -86,4 +86,4 @@ Nur auf stark umkämpften Kurzstrecken mit vielen Anbietern, z.B. Berlin–Londo
 
 Nicht immer günstiger — aber bei gleichem Preis empfehlenswert. Direktbuchungen bei der Airline erleichtern Umbuchungen, Upgrades und Reklamationen bei Verspätungen. Bei Buchungsplattformen sind Serviceleistungen im Problemfall oft komplizierter.
 
-**Mehr lesen:** [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen) · [7 Flughafen-Tricks die Zeit sparen](/blog/airport-hacks) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck)
+**Mehr lesen:** [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen/) · [7 Flughafen-Tricks die Zeit sparen](/blog/airport-hacks/) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck/)

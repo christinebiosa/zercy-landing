@@ -80,6 +80,6 @@ Sí, y de hecho es muy útil. Si tienes reuniones en dos ciudades diferentes, el
 ---
 
 **Más para leer:**
-- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos)
-- [Hidden city ticketing: qué es y cuándo tiene sentido](/es/blog/hidden-city-ticketing-explicado)
-- [Cuándo reservar vuelos: el timing perfecto](/es/blog/cuando-reservar-vuelos)
+- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos/)
+- [Hidden city ticketing: qué es y cuándo tiene sentido](/es/blog/hidden-city-ticketing-explicado/)
+- [Cuándo reservar vuelos: el timing perfecto](/es/blog/cuando-reservar-vuelos/)

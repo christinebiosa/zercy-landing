@@ -55,7 +55,7 @@ Pantai Tengah sits directly south of Cenang. No official boundary; the transitio
 
 **Top picks:** Holiday Villa Beach & Suites (spacious suites, direct beach, pool), Resorts World Langkawi (entertainment resort, casino, various hotel styles), Berjaya Langkawi Resort (mangrove bungalows, unique concept, pure nature).
 
-The [Penang neighborhood guide](/en/blog/where-to-stay-penang) and [Southeast Asia budget tips](/en/blog/southeast-asia-budget-travel) cover broader Malaysia planning.
+The [Penang neighborhood guide](/en/blog/where-to-stay-penang/) and [Southeast Asia budget tips](/en/blog/southeast-asia-budget-travel/) cover broader Malaysia planning.
 
 ## Datai Bay: Secluded Luxury Retreat
 
@@ -106,6 +106,6 @@ Pantai Cenang: best infrastructure, white sand, good swimming. Pantai Kok (near 
 ---
 
 **Read more:**
-- [Where to Stay in Penang: Best Neighborhoods](/en/blog/where-to-stay-penang)
-- [Southeast Asia on a Budget](/en/blog/southeast-asia-budget-travel)
-- [Where to Stay in Kuala Lumpur: Best Neighborhoods](/en/blog/where-to-stay-kuala-lumpur)
+- [Where to Stay in Penang: Best Neighborhoods](/en/blog/where-to-stay-penang/)
+- [Southeast Asia on a Budget](/en/blog/southeast-asia-budget-travel/)
+- [Where to Stay in Kuala Lumpur: Best Neighborhoods](/en/blog/where-to-stay-kuala-lumpur/)

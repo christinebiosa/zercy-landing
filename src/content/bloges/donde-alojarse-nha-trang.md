@@ -55,7 +55,7 @@ El barrio del centro, detrás del paseo marítimo, es más barato y más local. 
 
 **Mejores opciones:** Golden Rain 2 Hotel (rango medio fiable en el centro), Ibis Styles Nha Trang (cadena asequible, limpio, céntrico), Muong Thanh Holiday Nha Trang (cadena vietnamita, buena relación calidad-precio).
 
-La [ruta por Vietnam en 2 semanas](/es/blog/vietnam-2-semanas-ruta) cubre la planificación general del itinerario. Para el norte: [Dónde alojarse en Hanói](/es/blog/donde-alojarse-hanoi).
+La [ruta por Vietnam en 2 semanas](/es/blog/vietnam-2-semanas-ruta/) cubre la planificación general del itinerario. Para el norte: [Dónde alojarse en Hanói](/es/blog/donde-alojarse-hanoi/).
 
 ## Isla Vinpearl: Resort vacacional en su propia isla
 
@@ -106,6 +106,6 @@ El aeropuerto de Cam Ranh (CXR) está a 35 km al sur de la ciudad. Taxi: 15–25
 ---
 
 **Más artículos:**
-- [Vietnam: Ruta de 2 semanas con consejos](/es/blog/vietnam-2-semanas-ruta)
-- [Dónde alojarse en Hanói: Los mejores barrios](/es/blog/donde-alojarse-hanoi)
-- [Sudeste Asiático: Viajar con poco presupuesto](/es/blog/sudeste-asiatico-viaje-economico)
+- [Vietnam: Ruta de 2 semanas con consejos](/es/blog/vietnam-2-semanas-ruta/)
+- [Dónde alojarse en Hanói: Los mejores barrios](/es/blog/donde-alojarse-hanoi/)
+- [Sudeste Asiático: Viajar con poco presupuesto](/es/blog/sudeste-asiatico-viaje-economico/)

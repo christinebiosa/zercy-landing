@@ -17,7 +17,7 @@ La clave en Kioto no es el itinerario. Es la hora a la que llegas a cada lugar. 
 
 Empieza temprano. Muy temprano. Fushimi Inari Taisha, el santuario famoso por sus miles de torii bermellones, está abierto las 24 horas y es gratuito. A las 6 de la mañana lo tendrás prácticamente para ti. Los torii suben durante cuatro kilómetros hasta la cima del monte Inari. Sube al menos hasta la mitad, unos 45 minutos de caminata tranquila. La vista sobre Kioto desde arriba no es espectacular. La atmósfera del camino sí lo es.
 
-Regresa abajo hacia las 9 y toma el tren Keihan hacia el norte hasta el Mercado Nishiki. Esta galería cubierta es la cocina de Kioto en versión comprimida. Pasteles de pescado, brochetas a la parrilla, tazas de sopa miso, verduras encurtidas en todas las variantes posibles. Come aquí. Llámalo desayuno tardío o almuerzo temprano. Si estás planeando un viaje más largo, nuestra [guía de Japón en 3 semanas](/es/blog/japon-3-semanas-ruta) tiene todo el recorrido completo.
+Regresa abajo hacia las 9 y toma el tren Keihan hacia el norte hasta el Mercado Nishiki. Esta galería cubierta es la cocina de Kioto en versión comprimida. Pasteles de pescado, brochetas a la parrilla, tazas de sopa miso, verduras encurtidas en todas las variantes posibles. Come aquí. Llámalo desayuno tardío o almuerzo temprano. Si estás planeando un viaje más largo, nuestra [guía de Japón en 3 semanas](/es/blog/japon-3-semanas-ruta/) tiene todo el recorrido completo.
 
 ## ¿Cómo sacarle el máximo partido a Gion por la tarde?
 
@@ -31,7 +31,7 @@ La noche la pasas en el paseo de Gion Shijo junto al río Kamo. En verano, los r
 
 Arashiyama, al noroeste de Kioto, es el segundo gran capítulo del fin de semana. Toma el tranvía Randen o un autobús desde el centro, unos 30 minutos. Llega a las 8 de la mañana.
 
-El bosque de bambú se recorre en cinco minutos de extremo a extremo. Aun así es inolvidable. Los tallos llegan a 20 metros de altura. La luz entra de manera diferente a cualquier otro lugar. Por las mañanas puedes escuchar el viento moviéndose entre ellos. Para comparar Kioto con su ciudad vecina, nuestra guía [Osaka vs. Kioto](/es/blog/osaka-vs-kyoto) analiza qué ciudad se adapta mejor a cada estilo de viaje.
+El bosque de bambú se recorre en cinco minutos de extremo a extremo. Aun así es inolvidable. Los tallos llegan a 20 metros de altura. La luz entra de manera diferente a cualquier otro lugar. Por las mañanas puedes escuchar el viento moviéndose entre ellos. Para comparar Kioto con su ciudad vecina, nuestra guía [Osaka vs. Kioto](/es/blog/osaka-vs-kyoto/) analiza qué ciudad se adapta mejor a cada estilo de viaje.
 
 El templo Tenryuji está justo al lado del bosque. Su jardín es Patrimonio de la Humanidad por la UNESCO y uno de los más hermosos de Japón. La entrada al jardín cuesta 500 yenes, más 100 yenes para el interior del templo. El estanque central refleja las montañas boscosas del fondo cuando el cielo está despejado. Calcula entre 60 y 90 minutos para todo el recinto.
 
@@ -43,7 +43,7 @@ Vuelve al centro para comer en Nishiki Market y dedica una hora al barrio comerc
 
 La tarde termina en Kinkakuji. El Pabellón Dorado es el edificio más fotografiado de Japón. Todo el mundo lo sabe. Cuando lo ves por primera vez en persona, igual te quedas sin palabras. Tres plantas cubiertas de pan de oro, reflejadas perfectamente en el estanque que tiene delante. La entrada cuesta 500 yenes. Por las tardes, después de las 14 h, hay menos cola que por la mañana. Reserva 45 minutos.
 
-Osaka queda a 30 o 40 minutos en shinkansen o tren rápido y funciona muy bien como excursión de un día o salida nocturna desde Kioto. Dotonbori, puestos de takoyaki, la energía completamente diferente de una ciudad comercial. Un contraste útil después de los templos de Kioto. La comparativa completa está en nuestra guía [Osaka vs. Kioto](/es/blog/osaka-vs-kyoto). Si estás pensando en alojarte en otra ciudad de la región, nuestra guía de [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio) cubre la planificación por las principales ciudades de Japón.
+Osaka queda a 30 o 40 minutos en shinkansen o tren rápido y funciona muy bien como excursión de un día o salida nocturna desde Kioto. Dotonbori, puestos de takoyaki, la energía completamente diferente de una ciudad comercial. Un contraste útil después de los templos de Kioto. La comparativa completa está en nuestra guía [Osaka vs. Kioto](/es/blog/osaka-vs-kyoto/). Si estás pensando en alojarte en otra ciudad de la región, nuestra guía de [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio/) cubre la planificación por las principales ciudades de Japón.
 
 Para información oficial sobre horarios y eventos en Kioto, la web de [Kioto Turismo](https://kyoto.travel/en) es el mejor punto de partida.
 
@@ -72,6 +72,6 @@ Los ryokanes en el barrio Gion se agotan con meses de antelación y hay que rese
 ---
 
 **Leer más:**
-- [Japón en 3 semanas: la ruta completa](/es/blog/japon-3-semanas-ruta)
-- [Osaka vs. Kioto: ¿qué ciudad te conviene?](/es/blog/osaka-vs-kyoto)
-- [Dónde alojarse en Tokio: barrios y consejos](/es/blog/donde-alojarse-tokio)
+- [Japón en 3 semanas: la ruta completa](/es/blog/japon-3-semanas-ruta/)
+- [Osaka vs. Kioto: ¿qué ciudad te conviene?](/es/blog/osaka-vs-kyoto/)
+- [Dónde alojarse en Tokio: barrios y consejos](/es/blog/donde-alojarse-tokio/)

@@ -25,7 +25,7 @@ Drittens der Service. In den besten Riads kocht eine Familie für dich. Frühst�
 
 ## Welche Städte sind die beste Wahl?
 
-**Marrakesch.** Die offensichtliche erste Wahl. Größte Auswahl an Riads, lebendigste Medina. Ideal für Erstbesucher, aber auch sehr touristisch. Buche mindestens 2 Monate im Voraus für die besten Optionen. Lies dazu unseren detaillierten [Wo-übernachten-in-Marrakesch-Guide](/blog/wo-uebernachten-marrakesch) für die Stadtteil-Wahl. Plus: schau dir unseren [Guide zu Boutique Hotels](/blog/boutique-hotels) an, falls du Konzepte aus anderen Städten vergleichen willst.
+**Marrakesch.** Die offensichtliche erste Wahl. Größte Auswahl an Riads, lebendigste Medina. Ideal für Erstbesucher, aber auch sehr touristisch. Buche mindestens 2 Monate im Voraus für die besten Optionen. Lies dazu unseren detaillierten [Wo-übernachten-in-Marrakesch-Guide](/blog/wo-uebernachten-marrakesch/) für die Stadtteil-Wahl. Plus: schau dir unseren [Guide zu Boutique Hotels](/blog/boutique-hotels/) an, falls du Konzepte aus anderen Städten vergleichen willst.
 
 **Fès.** Die ältere, authentischere Schwester. Die Medina von Fès ist die größte autofreie Altstadt der Welt. Riads hier sind oft hochwertiger restauriert und weniger touristisch. Wer das wahre Marokko sucht, fährt hier hin.
 
@@ -57,7 +57,7 @@ Die wichtigste Frage. Drei verlässliche Wege.
 
 **Spezialisierte Plattformen.** Boutique-Sites wie Mr & Mrs Smith oder Tablet Hotels listen die besten Riads in Marokko mit redaktioneller Auswahl. Höhere Preise, aber garantierte Qualität.
 
-Wenn du ein Riad als Teil einer längeren Marokko-Reise planst, lies auch unsere [Geheimtipps für Europa und Nordafrika](/blog/geheimtipps-europa). Für Inspirationen jenseits der bekannten Pfade hilft auch unser Artikel zu [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade).
+Wenn du ein Riad als Teil einer längeren Marokko-Reise planst, lies auch unsere [Geheimtipps für Europa und Nordafrika](/blog/geheimtipps-europa/). Für Inspirationen jenseits der bekannten Pfade hilft auch unser Artikel zu [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/).
 
 ---
 
@@ -84,6 +84,6 @@ Nahe der Mellah (jüdisches Viertel) oder im Norden der Medina ist es ruhiger. D
 ---
 
 **Mehr lesen:**
-- [Boutique Hotels weltweit: kleine Häuser mit Charakter](/blog/boutique-hotels)
-- [Geheimtipps Europa: 7 Orte ohne Massentourismus](/blog/geheimtipps-europa)
-- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade)
+- [Boutique Hotels weltweit: kleine Häuser mit Charakter](/blog/boutique-hotels/)
+- [Geheimtipps Europa: 7 Orte ohne Massentourismus](/blog/geheimtipps-europa/)
+- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/)

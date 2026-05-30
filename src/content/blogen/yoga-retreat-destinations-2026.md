@@ -50,7 +50,7 @@ Quality varies significantly. Good retreats have an experienced lead teacher who
 
 **Costs per week:** 500-3000 EUR depending on standard. Budget ashrams around 300 EUR. Mid-range 800-1500 EUR.
 
-For accommodation around Ubud, our [Bali neighborhood guide](/en/blog/where-to-stay-bali) covers the options.
+For accommodation around Ubud, our [Bali neighborhood guide](/en/blog/where-to-stay-bali/) covers the options.
 
 ## Costa Rica: Yoga and Nature Together
 
@@ -62,7 +62,7 @@ Other retreats are in Uvita (whale watching, rainforest), the Arenal volcano reg
 
 **Best time:** December to April (dry season). May to November brings more rain but lower prices.
 
-Planning the wider trip: our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route) covers the logistics.
+Planning the wider trip: our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route/) covers the logistics.
 
 ## Thailand, Koh Phangan: Beginner-Friendly Retreat Infrastructure
 
@@ -117,6 +117,6 @@ Popular retreats in Bali, Costa Rica and Portugal book out 3-6 months ahead, esp
 ---
 
 **Read more:**
-- [Costa Rica Road Trip: The Complete Route](/en/blog/costa-rica-road-trip-route)
-- [Where to Stay in Bali: 5 Neighborhoods](/en/blog/where-to-stay-bali)
-- [Sailing Holiday for Beginners: What You Really Need to Know](/en/blog/sailing-holiday-beginners-guide)
+- [Costa Rica Road Trip: The Complete Route](/en/blog/costa-rica-road-trip-route/)
+- [Where to Stay in Bali: 5 Neighborhoods](/en/blog/where-to-stay-bali/)
+- [Sailing Holiday for Beginners: What You Really Need to Know](/en/blog/sailing-holiday-beginners-guide/)

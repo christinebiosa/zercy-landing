@@ -81,7 +81,7 @@ Christchurch als Startpunkt für die Südinsel-Rundreise? Erzähl Zercy deinen P
 
 ### Wie weit ist Queenstown von Christchurch entfernt?
 
-Queenstown liegt 360 Kilometer südwestlich. Mit dem Inlandflug: 45 Minuten, Tickets ab 60 NZD (30 EUR). Mit dem Auto oder Bus über den Scenic Highway 73 und 8: ca. 5 bis 6 Stunden, eine der schönsten Strecken der Südinsel. Mit dem InterCity-Bus: 7-8 Stunden. Fliegen empfiehlt sich für Einwegstrecken. Der [Neuseeland Guide](/blog/wo-uebernachten-queenstown) zeigt was danach kommt.
+Queenstown liegt 360 Kilometer südwestlich. Mit dem Inlandflug: 45 Minuten, Tickets ab 60 NZD (30 EUR). Mit dem Auto oder Bus über den Scenic Highway 73 und 8: ca. 5 bis 6 Stunden, eine der schönsten Strecken der Südinsel. Mit dem InterCity-Bus: 7-8 Stunden. Fliegen empfiehlt sich für Einwegstrecken. Der [Neuseeland Guide](/blog/wo-uebernachten-queenstown/) zeigt was danach kommt.
 
 ### Was muss man in Christchurch unbedingt sehen?
 
@@ -89,7 +89,7 @@ Botanic Gardens (kostenlos, Christchurchs grüne Lunge), Re:START Container Mall
 
 ### Welche Ausflüge gibt es von Christchurch aus?
 
-Akaroa (charmantes Hafendorf auf einer vulkanischen Halbinsel, 90 Minuten, Delfin-Schwimmen), Kaikōura (Walbeobachtung, 2,5 Stunden nördlich), Mount Hutt Skigebiet (75 Minuten westlich), Arthur's Pass Nationalpark (Hochgebirge, 90 Minuten, Wandern und Eisenbahn). Der [Neuseeland Reiseguide](/blog/wo-uebernachten-auckland) gibt einen Überblick über die beste Insel-Strategie.
+Akaroa (charmantes Hafendorf auf einer vulkanischen Halbinsel, 90 Minuten, Delfin-Schwimmen), Kaikōura (Walbeobachtung, 2,5 Stunden nördlich), Mount Hutt Skigebiet (75 Minuten westlich), Arthur's Pass Nationalpark (Hochgebirge, 90 Minuten, Wandern und Eisenbahn). Der [Neuseeland Reiseguide](/blog/wo-uebernachten-auckland/) gibt einen Überblick über die beste Insel-Strategie.
 
 ### Wie sicher ist Christchurch für Touristen?
 
@@ -98,6 +98,6 @@ Christchurch ist eine der sichersten Großstädte Ozeaniens. Der einzige Bereich
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Queenstown: Adventure oder Entspannung?](/blog/wo-uebernachten-queenstown)
-- [Wo übernachten in Auckland: City oder Waterfront?](/blog/wo-uebernachten-auckland)
-- [Australien Rundreise: Route und Tipps für die beste Kombination](/blog/australien-rundreise-route)
+- [Wo übernachten in Queenstown: Adventure oder Entspannung?](/blog/wo-uebernachten-queenstown/)
+- [Wo übernachten in Auckland: City oder Waterfront?](/blog/wo-uebernachten-auckland/)
+- [Australien Rundreise: Route und Tipps für die beste Kombination](/blog/australien-rundreise-route/)

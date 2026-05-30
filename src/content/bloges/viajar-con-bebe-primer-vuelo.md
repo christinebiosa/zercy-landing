@@ -75,6 +75,6 @@ En brazos horizontales para bebés pequeños que aún no se sientan. La posició
 ---
 
 **Más para leer:**
-- [Seguro de viaje: ¿vale la pena contratarlo?](/es/blog/seguro-viaje-vale-la-pena)
-- [Solo equipaje de mano: la guía definitiva](/es/blog/solo-equipaje-de-mano)
-- [Trucos en el aeropuerto para salir antes y sin estrés](/es/blog/trucos-aeropuerto)
+- [Seguro de viaje: ¿vale la pena contratarlo?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Solo equipaje de mano: la guía definitiva](/es/blog/solo-equipaje-de-mano/)
+- [Trucos en el aeropuerto para salir antes y sin estrés](/es/blog/trucos-aeropuerto/)

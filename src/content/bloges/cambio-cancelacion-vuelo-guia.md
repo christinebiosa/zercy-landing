@@ -18,7 +18,7 @@ Hay tres situaciones en las que puedes modificar tu vuelo sin pagar nada extra:
 
 **La regla de las 24 horas (vuelos hacia o desde EE.UU.):** ¿Compraste con una aerolínea estadounidense o tu vuelo sale o llega a Estados Unidos? El Departamento de Transporte de EE.UU. exige que las aerolíneas ofrezcan cancelación gratuita dentro de las 24 horas posteriores a la compra, siempre que el vuelo salga en al menos 7 días. Aplica solo para compras directas con la aerolínea.
 
-**Cambios iniciados por la aerolínea:** Si la aerolínea modifica significativamente tu vuelo (aeropuerto diferente, horario desplazado más de 3 horas, destino distinto), casi siempre tienes derecho a un cambio gratuito o a un reembolso completo. Si el vuelo es cancelado, el [Reglamento europeo de derechos del pasajero (CE 261/2004)](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_es.htm) puede darte derecho a una compensación de hasta 600 euros. Más detalles en nuestro artículo sobre [cancelación de vuelos y derechos EU261](/es/blog/cancelacion-vuelo-derechos-eu261).
+**Cambios iniciados por la aerolínea:** Si la aerolínea modifica significativamente tu vuelo (aeropuerto diferente, horario desplazado más de 3 horas, destino distinto), casi siempre tienes derecho a un cambio gratuito o a un reembolso completo. Si el vuelo es cancelado, el [Reglamento europeo de derechos del pasajero (CE 261/2004)](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_es.htm) puede darte derecho a una compensación de hasta 600 euros. Más detalles en nuestro artículo sobre [cancelación de vuelos y derechos EU261](/es/blog/cancelacion-vuelo-derechos-eu261/).
 
 ## ¿Qué cuesta cambiar el vuelo en otros casos?
 
@@ -30,7 +30,7 @@ Para billetes de economy estándar, los costos pueden ser significativos:
 
 **Un consejo que vale la pena calcular:** A veces es más barato cancelar y reservar de nuevo que pagar la tarifa de cambio más la diferencia de precio. Haz los cálculos antes de confirmar. Los impuestos y tasas aeroportuarias casi siempre se devuelven aunque el billete sea no reembolsable, y pueden sumar entre 20 y 80 euros.
 
-Reservar directamente con la aerolínea tiene una ventaja práctica en estos casos. Eres cliente directo y puedes gestionar los cambios sin intermediarios. Con plataformas como Expedia o Booking, cualquier solicitud pasa primero por ellos, lo que añade tiempo y puede complicar el proceso. Analizamos esto en detalle en nuestro artículo sobre [reservar online o directo con el hotel](/es/blog/reservar-online-o-directo).
+Reservar directamente con la aerolínea tiene una ventaja práctica en estos casos. Eres cliente directo y puedes gestionar los cambios sin intermediarios. Con plataformas como Expedia o Booking, cualquier solicitud pasa primero por ellos, lo que añade tiempo y puede complicar el proceso. Analizamos esto en detalle en nuestro artículo sobre [reservar online o directo con el hotel](/es/blog/reservar-online-o-directo/).
 
 ## ¿Cómo se hace el cambio en la práctica?
 
@@ -51,9 +51,9 @@ Cancelar significa renunciar al vuelo por completo. Solo recibes reembolso en es
 
 **Tarifa flex:** Reembolso completo, normalmente sin restricciones de tiempo.
 
-**Cancelación por la aerolínea:** Si la aerolínea cancela tu vuelo, EU261 te da derecho a un reembolso completo del precio del billete independientemente de la tarifa. Revisa nuestra guía sobre [retrasos y compensaciones por vuelo](/es/blog/retrasos-vuelo-derechos) para saber todo lo que te corresponde.
+**Cancelación por la aerolínea:** Si la aerolínea cancela tu vuelo, EU261 te da derecho a un reembolso completo del precio del billete independientemente de la tarifa. Revisa nuestra guía sobre [retrasos y compensaciones por vuelo](/es/blog/retrasos-vuelo-derechos/) para saber todo lo que te corresponde.
 
-**Seguro de cancelación de viaje:** Si tienes un seguro de viaje con cobertura de cancelación y se cumple una causa cubierta (enfermedad, emergencia familiar), el seguro absorbe la pérdida. Sin seguro, un billete no reembolsable significa perder el precio íntegro. Si no sabes si vale la pena contratar uno, lo explicamos en nuestra [guía de seguros de cancelación de viaje](/es/blog/seguro-cancelacion-viaje-guia).
+**Seguro de cancelación de viaje:** Si tienes un seguro de viaje con cobertura de cancelación y se cumple una causa cubierta (enfermedad, emergencia familiar), el seguro absorbe la pérdida. Sin seguro, un billete no reembolsable significa perder el precio íntegro. Si no sabes si vale la pena contratar uno, lo explicamos en nuestra [guía de seguros de cancelación de viaje](/es/blog/seguro-cancelacion-viaje-guia/).
 
 Siempre solicita la devolución de los impuestos y tasas aeroportuarias, incluso en billetes no reembolsables. Las aerolíneas están obligadas a devolverlos en la mayoría de los casos, y el importe puede ser mayor de lo que imaginas.
 
@@ -85,6 +85,6 @@ Según EU261, tienes derecho a un reembolso completo o a un vuelo alternativo, m
 
 ## Sigue leyendo
 
-- [Cancelación de vuelo: tus derechos según EU261](/es/blog/cancelacion-vuelo-derechos-eu261)
-- [Seguro de cancelación de viaje: ¿vale la pena?](/es/blog/seguro-cancelacion-viaje-guia)
-- [¿Reservar online o directamente con el hotel?](/es/blog/reservar-online-o-directo)
+- [Cancelación de vuelo: tus derechos según EU261](/es/blog/cancelacion-vuelo-derechos-eu261/)
+- [Seguro de cancelación de viaje: ¿vale la pena?](/es/blog/seguro-cancelacion-viaje-guia/)
+- [¿Reservar online o directamente con el hotel?](/es/blog/reservar-online-o-directo/)

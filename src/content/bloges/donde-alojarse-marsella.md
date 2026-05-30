@@ -45,7 +45,7 @@ Le Panier es literalmente la parte más antigua de Marsella, fundada por los gri
 
 Para quienes buscan la Marsella más auténtica y fotogénica: Le Panier es imprescindible. Los hoteles aquí son pocos pero con mucho carácter. Precios: 80 a 160 euros.
 
-Para otras ciudades mediterráneas con carácter propio, consulta también [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona) y [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa).
+Para otras ciudades mediterráneas con carácter propio, consulta también [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/) y [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa/).
 
 ## Prado: Para playas y tranquilidad
 
@@ -84,6 +84,6 @@ A pie (desde el Parc des Calanques al sur de la ciudad), en barco desde el Vieux
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid)
-- [Dónde alojarse en París: Marais, Saint-Germain o Montmartre](/es/blog/donde-alojarse-paris)
+- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid/)
+- [Dónde alojarse en París: Marais, Saint-Germain o Montmartre](/es/blog/donde-alojarse-paris/)

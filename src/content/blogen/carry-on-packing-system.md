@@ -28,7 +28,7 @@ Before you pack, you need to know what you're flying with. The differences are r
 
 Most travelers do well with a 30- to 40-liter backpack. It fits into almost every overhead bin and stays within Ryanair's free limit if you don't overstuff it. Anyone who flies low-cost regularly should know the [IATA baggage guidelines](https://www.iata.org/en/programs/passenger/baggage/) — individual airlines can deviate from these.
 
-For a deeper look at when it even makes sense to go carry-on only, [Carry-On vs. Checked Baggage](/en/blog/carry-on-only) lays out the honest trade-offs.
+For a deeper look at when it even makes sense to go carry-on only, [Carry-On vs. Checked Baggage](/en/blog/carry-on-only/) lays out the honest trade-offs.
 
 ## Why Packing Cubes Actually Make the Difference
 
@@ -70,7 +70,7 @@ If you need a suit or formal dress: roll the blazer around a t-shirt to prevent 
 
 What you leave behind: the second pair of sports leggings. The jeans "just in case." The thick sweater. Every "only if" item.
 
-The capsule wardrobe approach is worth a full read — [Capsule Wardrobe for Carry-On Travel](/en/blog/capsule-wardrobe-carry-on) covers the method in detail. And [One Week, Carry-On Only](/en/blog/carry-on-only) gives the honest answer to whether it always works.
+The capsule wardrobe approach is worth a full read — [Capsule Wardrobe for Carry-On Travel](/en/blog/capsule-wardrobe-carry-on/) covers the method in detail. And [One Week, Carry-On Only](/en/blog/carry-on-only/) gives the honest answer to whether it always works.
 
 ## How Do You Handle Liquids Properly?
 
@@ -88,7 +88,7 @@ But the real solution is in the alternatives:
 
 What you buy at your destination: large bottles of shower gel and shampoo. Cheap in any supermarket. Worth it for the peace of mind at check-in.
 
-For the official rules on what's allowed: the [EU aviation security page](https://ec.europa.eu/transport/modes/air/security/aviation_security_en) has the current regulations. And if you're wondering whether priority boarding is worth paying for, [Priority Boarding: Is It Worth It?](/en/blog/priority-boarding-worth-it) has the answer.
+For the official rules on what's allowed: the [EU aviation security page](https://ec.europa.eu/transport/modes/air/security/aviation_security_en) has the current regulations. And if you're wondering whether priority boarding is worth paying for, [Priority Boarding: Is It Worth It?](/en/blog/priority-boarding-worth-it/) has the answer.
 
 ## What About Formal Occasions or Edge Cases?
 
@@ -145,6 +145,6 @@ Solid shampoo, deodorant sticks, and solid moisturizer eliminate or nearly empty
 ---
 
 **Read more:**
-- [One Week, Carry-On Only: What Actually Fits](/en/blog/carry-on-only)
-- [Capsule Wardrobe for Carry-On Travel](/en/blog/capsule-wardrobe-carry-on)
-- [Priority Boarding: Is It Actually Worth It?](/en/blog/priority-boarding-worth-it)
+- [One Week, Carry-On Only: What Actually Fits](/en/blog/carry-on-only/)
+- [Capsule Wardrobe for Carry-On Travel](/en/blog/capsule-wardrobe-carry-on/)
+- [Priority Boarding: Is It Actually Worth It?](/en/blog/priority-boarding-worth-it/)

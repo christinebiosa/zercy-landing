@@ -53,7 +53,7 @@ Dresde es hermosa todo el año pero con momentos destacados claros. La primavera
 
 **Otoño:** Vendimia en las laderas del Elba en Radebeul, colores dorados, temporada de la Filarmónica de Dresde.
 
-Dresde encaja bien como parte de un viaje de [los mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa). Praga está a 2 horas en tren.
+Dresde encaja bien como parte de un viaje de [los mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa/). Praga está a 2 horas en tren.
 
 ## Blasewitz / Loschwitz: La idílica ladera del Elba
 
@@ -100,6 +100,6 @@ Visitar la Frauenkirche (subir a la cúpula), la Gemäldegalerie Alte Meister, l
 ---
 
 ## Más artículos
-- [Los mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa)
-- [Dónde alojarse en Praga: Los 4 barrios](/es/blog/donde-alojarse-praga)
-- [Ciudades europeas en invierno: Los mejores destinos](/es/blog/ciudades-europeas-invierno-guia)
+- [Los mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa/)
+- [Dónde alojarse en Praga: Los 4 barrios](/es/blog/donde-alojarse-praga/)
+- [Ciudades europeas en invierno: Los mejores destinos](/es/blog/ciudades-europeas-invierno-guia/)

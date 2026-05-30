@@ -27,7 +27,7 @@ Entry: 22 euros (standalone) or 28 euros combined ticket with Maranello.
 
 ### Museo Ferrari (in Maranello, 18 km away)
 
-**The** [Ferrari museum in Maranello](https://musei.ferrari.com/en/maranello). Where the cars are built. 25 minutes by car from Modena. No direct public transport, so rental car (see our [rental consolidator guide](/en/blog/rental-consolidators-save-money)), taxi or shuttle.
+**The** [Ferrari museum in Maranello](https://musei.ferrari.com/en/maranello). Where the cars are built. 25 minutes by car from Modena. No direct public transport, so rental car (see our [rental consolidator guide](/en/blog/rental-consolidators-save-money/)), taxi or shuttle.
 
 This has the full F1 collection, the most legendary race cars since 1947, the history from Schumacher to Leclerc. Plus the latest: the Daytona SP3, the SF90, and if you're lucky, prototypes.
 
@@ -65,7 +65,7 @@ Three-star option: **Osteria Francescana** by Massimo Bottura, frequently named 
 
 ## How do you get to Modena?
 
-**By train**: Modena is on the Milan-Bologna line. From Milan 1 hour 15 minutes, from Bologna 25 minutes. From Rome via Bologna in 3 hours. [Italo](https://www.italotreno.com/en) and [Trenitalia](https://www.trenitalia.com/) run high-speed trains. [More on train travel in Europe](/en/blog/train-travel-europe).
+**By train**: Modena is on the Milan-Bologna line. From Milan 1 hour 15 minutes, from Bologna 25 minutes. From Rome via Bologna in 3 hours. [Italo](https://www.italotreno.com/en) and [Trenitalia](https://www.trenitalia.com/) run high-speed trains. [More on train travel in Europe](/en/blog/train-travel-europe/).
 
 **By plane**: direct flights to Bologna (BLQ). From there train or rental car, 40 minutes.
 
@@ -79,7 +79,7 @@ Modena's old town is walkable. A few boutique hotels around Piazza Grande are id
 - **RMH Modena Des Arts**: modern, close to the station. 110 to 160 euros.
 - **Agriturismo outside town**: for peace and food. Many run their own balsamic Acetaias. From 90 euros per night.
 
-More on [finding boutique hotels](/en/blog/boutique-hotels) is in our dedicated article.
+More on [finding boutique hotels](/en/blog/boutique-hotels/) is in our dedicated article.
 
 ## 2-Day Plan
 
@@ -91,9 +91,9 @@ If you have 3 days: Day 3 for the Pavarotti house plus a day trip to Parma (1 ho
 
 ---
 
-Zercy finds flights to Bologna, the right train to Modena and the best hotels in one request. The [Zercy Logbook](/en/blog/zercy-logbook) collects all bookings in one timeline, so your motor-gourmet weekend flows smoothly.
+Zercy finds flights to Bologna, the right train to Modena and the best hotels in one request. The [Zercy Logbook](/en/blog/zercy-logbook/) collects all bookings in one timeline, so your motor-gourmet weekend flows smoothly.
 
-**Read more:** [Train travel through Europe](/en/blog/train-travel-europe) · [Finding boutique hotels](/en/blog/boutique-hotels) · [Hidden gems of Europe](/en/blog/hidden-gems-europe)
+**Read more:** [Train travel through Europe](/en/blog/train-travel-europe/) · [Finding boutique hotels](/en/blog/boutique-hotels/) · [Hidden gems of Europe](/en/blog/hidden-gems-europe/)
 
 ## Frequently Asked Questions
 

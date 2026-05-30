@@ -40,7 +40,7 @@ Just 3.5 hours from most European airports. Marrakech in January: 17-20°C durin
 
 For whom: Culture lovers, couples on a city break, anyone wanting a genuine contrast to Northern European winter.
 
-Read our [Marrakech neighborhood guide](/en/blog/where-to-stay-marrakech) for hotel recommendations by district.
+Read our [Marrakech neighborhood guide](/en/blog/where-to-stay-marrakech/) for hotel recommendations by district.
 
 ## 5-6 Hours: Mid-Range Distance
 
@@ -76,7 +76,7 @@ Bali in January is beautiful, but not optimal for beach holidays. January is one
 
 The upside: January is low season. Notably cheaper hotels. Fewer tourists than summer. Flights from 600-1000 EUR.
 
-Our [Bali neighborhood guide](/en/blog/where-to-stay-bali) has current hotel recommendations by area.
+Our [Bali neighborhood guide](/en/blog/where-to-stay-bali/) has current hotel recommendations by area.
 
 **Sri Lanka**
 
@@ -106,7 +106,7 @@ Rainfall risk January Cairns: high. Sydney: low. Hotel prices: 80-300 EUR.
 
 **October and November are the optimal booking window** for January travel. Flight prices are still moderate and hotel availability in popular destinations is reasonable. The Canary Islands and Maldives are popular last-minute destinations, but good properties and cheap flights are often gone by November.
 
-For those looking to [fly cheap](/en/blog/cheap-flights-tips): favor Tuesday and Wednesday departures, early morning or late night. Set price alerts on Google Flights.
+For those looking to [fly cheap](/en/blog/cheap-flights-tips/): favor Tuesday and Wednesday departures, early morning or late night. Set price alerts on Google Flights.
 
 Detailed climate comparisons for all these destinations are available at [weatherspark.com](https://weatherspark.com), with monthly temperature and rainfall statistics for every location worldwide.
 
@@ -135,6 +135,6 @@ Canary Islands: cheapest option, flight from 60 EUR, hotel from 60 EUR. Hurghada
 ---
 
 **Read more:**
-- [Where to Stay in Marrakech: The Neighborhoods](/en/blog/where-to-stay-marrakech)
-- [Where to Stay in Bali: The 5 Neighborhoods](/en/blog/where-to-stay-bali)
-- [Cheap Flights: 12 Tips That Actually Work](/en/blog/cheap-flights-tips)
+- [Where to Stay in Marrakech: The Neighborhoods](/en/blog/where-to-stay-marrakech/)
+- [Where to Stay in Bali: The 5 Neighborhoods](/en/blog/where-to-stay-bali/)
+- [Cheap Flights: 12 Tips That Actually Work](/en/blog/cheap-flights-tips/)

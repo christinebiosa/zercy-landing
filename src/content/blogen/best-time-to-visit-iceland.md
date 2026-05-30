@@ -46,9 +46,9 @@ Some things in Iceland simply don't happen year-round:
 - **Super Jeep tours to the highlands**: Late June through September only
 - **Dog sledding**: December through March, snow dependent
 
-For the [Iceland Travel Guide](/en/blog/iceland-travel-guide), we covered the full Ring Road sequence, but the timing of F-road access is the single most common mistake: travelers arrive in late May expecting to drive to the highlands and find the roads still closed until late June. Check road.is before you set the route.
+For the [Iceland Travel Guide](/en/blog/iceland-travel-guide/), we covered the full Ring Road sequence, but the timing of F-road access is the single most common mistake: travelers arrive in late May expecting to drive to the highlands and find the roads still closed until late June. Check road.is before you set the route.
 
-If you're chasing northern lights specifically, read our deep dive on [where and when to see them in 2026](/en/blog/northern-lights-2026-where-when-how). The aurora forecast tools, accommodation tips and photography settings are all covered there.
+If you're chasing northern lights specifically, read our deep dive on [where and when to see them in 2026](/en/blog/northern-lights-2026-where-when-how/). The aurora forecast tools, accommodation tips and photography settings are all covered there.
 
 ## How to Choose Between Summer and Winter
 
@@ -60,7 +60,7 @@ If you want to drive the Ring Road properly, hike, see puffins and stay in dayli
 
 May and September are the compromise months for travelers who want a bit of both. Not the full midnight sun, not the deepest aurora window, but Iceland at its most affordable with most activities available.
 
-For accommodation, [where to stay in Reykjavik](/en/blog/where-to-stay-reykjavik) breaks down the neighborhoods, from the Old Town near Hallgrimskirkja to the quieter Laugardalur district closer to the thermal pool. Reykjavik is small enough that location matters less than it would in a large city, but the neighborhood guides help with deciding between guesthouses, boutique hotels and the hostel scene.
+For accommodation, [where to stay in Reykjavik](/en/blog/where-to-stay-reykjavik/) breaks down the neighborhoods, from the Old Town near Hallgrimskirkja to the quieter Laugardalur district closer to the thermal pool. Reykjavik is small enough that location matters less than it would in a large city, but the neighborhood guides help with deciding between guesthouses, boutique hotels and the hostel scene.
 
 ---
 
@@ -84,6 +84,6 @@ Seven to ten days is the standard recommendation for a Ring Road circuit hitting
 
 ## Read more
 
-- [Iceland Travel Guide: Ring Road, Highlands & What to Actually Plan](/en/blog/iceland-travel-guide)
-- [Northern Lights 2026: Where, When and How to See Them](/en/blog/northern-lights-2026-where-when-how)
-- [Where to Stay in Reykjavik: Best Neighborhoods](/en/blog/where-to-stay-reykjavik)
+- [Iceland Travel Guide: Ring Road, Highlands & What to Actually Plan](/en/blog/iceland-travel-guide/)
+- [Northern Lights 2026: Where, When and How to See Them](/en/blog/northern-lights-2026-where-when-how/)
+- [Where to Stay in Reykjavik: Best Neighborhoods](/en/blog/where-to-stay-reykjavik/)

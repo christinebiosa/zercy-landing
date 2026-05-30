@@ -47,7 +47,7 @@ Die offizielle Tourismusbehörde [Visit Brisbane](https://www.visitbrisbane.com.
 
 **Top Picks:** Ovolo The Valley (stylisches Boutique-Hotel mit echter Persönlichkeit), The Calile Hotel (Design-Hotel, Insta-Pool), Base Backpackers Brisbane (wenn Budget-Faktor zählt).
 
-Wer Australien als Ganzes plant, findet in unserem [Sydney-Guide](/blog/wo-uebernachten-sydney) viele übertragbare Tipps für die richtige Stadtteilwahl.
+Wer Australien als Ganzes plant, findet in unserem [Sydney-Guide](/blog/wo-uebernachten-sydney/) viele übertragbare Tipps für die richtige Stadtteilwahl.
 
 ## Wann ist die beste Reisezeit für Brisbane?
 
@@ -73,7 +73,7 @@ Paddington liegt westlich des CBD auf sanften Hügeln. Die charakteristischen Vi
 
 **Top Picks:** Paddington Boutique Hotel (klassisches Queenslander-Haus, klein und persönlich), Milton Apartments (gute Lage, Flussnähe), Caxton Apartments (ruhig, lokaler Charakter).
 
-Für Melbourne als zweites Reiseziel lohnt sich ein Blick in unseren [Melbourne-Guide](/blog/wo-uebernachten-melbourne).
+Für Melbourne als zweites Reiseziel lohnt sich ein Blick in unseren [Melbourne-Guide](/blog/wo-uebernachten-melbourne/).
 
 ## Kangaroo Point: Für Aktive und Familien
 
@@ -85,7 +85,7 @@ Kangaroo Point liegt direkt am Brisbane River, gegenüber dem South Bank. Der Cl
 
 **Top Picks:** Story Bridge Hotel (historisches Hotel mit Kletterstrecken-Blick), Kangaroo Point Apartments (ideal für Familien), River View Hotel (genau das, was der Name verspricht).
 
-Wer nach Brisbane auch den Süden Australiens erkunden möchte, findet in unserem [Melbourne Nachbarschafts-Guide](/blog/wo-uebernachten-melbourne) den direkten Vergleich.
+Wer nach Brisbane auch den Süden Australiens erkunden möchte, findet in unserem [Melbourne Nachbarschafts-Guide](/blog/wo-uebernachten-melbourne/) den direkten Vergleich.
 
 ## Wo solltest du am Ende buchen?
 
@@ -98,7 +98,7 @@ Für Brisbane ist [Booking.com](https://www.booking.com) die verlässlichste Pla
 
 Direktbuchung bei Boutique-Hotels in New Farm oder Paddington kann sich lohnen, wenn du längere Aufenthalte planst. Kleine Häuser geben treuen Direktbuchern öfter Extras.
 
-Für [günstige Flüge nach Australien](/blog/guenstig-fliegen-tipps) solltest du 3-6 Monate im Voraus schauen.
+Für [günstige Flüge nach Australien](/blog/guenstig-fliegen-tipps/) solltest du 3-6 Monate im Voraus schauen.
 
 ---
 
@@ -125,6 +125,6 @@ Juni bis August: angenehme Temperaturen zwischen 20 und 25 Grad, wenig Regen, id
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Sydney: Die 5 Stadtteile](/blog/wo-uebernachten-sydney)
-- [Wo übernachten in Melbourne: Die 5 Stadtteile](/blog/wo-uebernachten-melbourne)
-- [Günstig fliegen: Tipps für den besten Flugpreis](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in Sydney: Die 5 Stadtteile](/blog/wo-uebernachten-sydney/)
+- [Wo übernachten in Melbourne: Die 5 Stadtteile](/blog/wo-uebernachten-melbourne/)
+- [Günstig fliegen: Tipps für den besten Flugpreis](/blog/guenstig-fliegen-tipps/)

@@ -43,7 +43,7 @@ Mai bis September ist ideal. Der polnische Sommer (Juni bis August) ist warm bis
 
 April und Oktober sind Übergangszeit: angenehme Temperaturen, weniger Touristen, günstigere Preise. Winter in Polen (November bis März) ist kalt, aber Weihnachtsmärkte in Krakau und Breslau sind bemerkenswert schön. Zakopane im Winter für Skifahrer attraktiv.
 
-Lies dazu auch unseren Balkan Road Trip Guide für eine weitere Osteuropa-Inspiration: [Balkan Roadtrip Route](/blog/balkan-roadtrip-route).
+Lies dazu auch unseren Balkan Road Trip Guide für eine weitere Osteuropa-Inspiration: [Balkan Roadtrip Route](/blog/balkan-roadtrip-route/).
 
 ---
 
@@ -70,6 +70,6 @@ Pierogi (Teigtaschen, süß und herzhaft), Bigos (Fleischeintopf), Żurek (saure
 ---
 
 **Mehr lesen:**
-- [Balkan Roadtrip Route: Highlights und Tipps](/blog/balkan-roadtrip-route)
-- [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route)
-- [Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026)
+- [Balkan Roadtrip Route: Highlights und Tipps](/blog/balkan-roadtrip-route/)
+- [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route/)
+- [Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026/)

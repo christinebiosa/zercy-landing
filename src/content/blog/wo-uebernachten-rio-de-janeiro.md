@@ -80,7 +80,7 @@ Rio ist günstiger als europäische Hauptstädte. Realistische Spannen pro Nacht
 
 Tipp: Mai-September (brasilianischer Winter, milder) sind 30-40 Prozent günstiger als Hochsommer (Dezember-Februar). Während Karneval (Februar/März) verdoppeln sich Preise.
 
-Lies dazu auch unseren [CO2-Kompensations-Artikel](/blog/co2-kompensation-fliegen), Rio ist ein Langstreckenflug von Europa.
+Lies dazu auch unseren [CO2-Kompensations-Artikel](/blog/co2-kompensation-fliegen/), Rio ist ein Langstreckenflug von Europa.
 
 ## Wo solltest du am Ende buchen?
 
@@ -119,6 +119,6 @@ Backpacker: 700-1.000 Euro pro Person inkl. Flug (Hostel, Lokales Essen, Bus). M
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Buenos Aires: Die 5 Stadtteile](/blog/wo-uebernachten-buenos-aires)
-- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
-- [CO2-Kompensation beim Fliegen: Bringt sie wirklich was?](/blog/co2-kompensation-fliegen)
+- [Wo übernachten in Buenos Aires: Die 5 Stadtteile](/blog/wo-uebernachten-buenos-aires/)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena/)
+- [CO2-Kompensation beim Fliegen: Bringt sie wirklich was?](/blog/co2-kompensation-fliegen/)

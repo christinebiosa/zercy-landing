@@ -47,7 +47,7 @@ The Ensanche is Bilbao's 19th-century bourgeois center. Wide boulevards, shoppin
 
 **Top picks:** Hotel Miro Bilbao (design boutique, Guggenheim view), Barceló Bilbao Nervión (well-connected, solid mid-range), Meliá Bilbao (premium on the river).
 
-See our [Seville guide](/en/blog/where-to-stay-seville) for the southern Spanish contrast.
+See our [Seville guide](/en/blog/where-to-stay-seville/) for the southern Spanish contrast.
 
 ## When is the best time to visit Bilbao?
 
@@ -128,6 +128,6 @@ Pintxos are the Basque answer to tapas, but different: small bites on bread, oft
 ---
 
 **Read more:**
-- [Where to stay in Seville: Santa Cruz, Triana and more](/en/blog/where-to-stay-seville)
-- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona)
-- [Where to stay in Madrid: Which neighborhood fits?](/en/blog/where-to-stay-madrid)
+- [Where to stay in Seville: Santa Cruz, Triana and more](/en/blog/where-to-stay-seville/)
+- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona/)
+- [Where to stay in Madrid: Which neighborhood fits?](/en/blog/where-to-stay-madrid/)

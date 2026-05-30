@@ -40,7 +40,7 @@ Bevor jede App hilft, brauchst du ein Budget. Das klingt nach mehr Arbeit als es
 
 **Unterkunft.** Der größte Posten auf den meisten Reisen. Recherchiere im Vorfeld echte Durchschnittspreise für dein Ziel. In Thailand schläfst du für 20 Euro pro Nacht gut. In Zürich brauchst du dafür mindestens 100 Euro.
 
-**Transport.** Flüge und Fernbusse sind meist schon vor der Reise bezahlt. Für lokalen Transport (U-Bahn, Taxi, Mietwagen) setzt du einen Tagesbetrag an. Lies dazu auch unsere [besten Tipps fürs günstige Fliegen](/blog/reise-budget-sparen-anleitung).
+**Transport.** Flüge und Fernbusse sind meist schon vor der Reise bezahlt. Für lokalen Transport (U-Bahn, Taxi, Mietwagen) setzt du einen Tagesbetrag an. Lies dazu auch unsere [besten Tipps fürs günstige Fliegen](/blog/reise-budget-sparen-anleitung/).
 
 **Essen.** Du entscheidest, wo du auf der Skala liegst. Lokale Märkte und Supermärkte gegen Restaurants und Cafés. Beides ist legitim. Hauptsache du weißt, wofür du dich entscheidest.
 
@@ -58,7 +58,7 @@ Drei Dinge machen den Unterschied zwischen Tracking, das hält, und Apps, die du
 
 **Kategorien einhalten.** Transport, Essen, Unterkunft, Freizeit. Mehr brauchst du nicht. Wer zu viele Kategorien anlegt, verliert schnell die Lust. Halte es simpel.
 
-Das Tracking macht Spaß, wenn du siehst, dass es funktioniert. Wenn du am Ende einer Woche auf Budget geblieben bist, ist das ein echter Erfolg. Ein Budget hilft dir auch dabei, [Geld im Ausland smartereinzusetzen](/blog/geld-im-ausland) und keine unnötigen Gebühren zu zahlen.
+Das Tracking macht Spaß, wenn du siehst, dass es funktioniert. Wenn du am Ende einer Woche auf Budget geblieben bist, ist das ein echter Erfolg. Ein Budget hilft dir auch dabei, [Geld im Ausland smartereinzusetzen](/blog/geld-im-ausland/) und keine unnötigen Gebühren zu zahlen.
 
 Willst du deine Reiseoptionen vorab vergleichen und Budget-freundliche Alternativen finden? Zercy hilft dir dabei, Flüge und Unterkünfte nach Preis zu filtern. Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
 
@@ -81,6 +81,6 @@ Wise ist primär ein Zahlungsdienst mit günstigen Wechselkursen. Als Nebeneffek
 ---
 
 Mehr lesen:
-- [Reise-Budget sparen: die komplette Anleitung](/blog/reise-budget-sparen-anleitung)
-- [Währungstausch im Ausland: was wirklich günstig ist](/blog/waehrungstausch-ausland-guide)
-- [Die besten Travel Apps 2026 im Überblick](/blog/beste-travel-apps-2026)
+- [Reise-Budget sparen: die komplette Anleitung](/blog/reise-budget-sparen-anleitung/)
+- [Währungstausch im Ausland: was wirklich günstig ist](/blog/waehrungstausch-ausland-guide/)
+- [Die besten Travel Apps 2026 im Überblick](/blog/beste-travel-apps-2026/)

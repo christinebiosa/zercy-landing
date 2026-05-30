@@ -52,7 +52,7 @@ Gornji Grad está literalmente por encima de Donji Grad. El funicular (uno de lo
 - **Hotel Jägerhorn:** El hotel más antiguo de Croacia, en funcionamiento desde 1827. Pequeño hotel boutique directamente en la ciudad alta. Sin ascensor, pero con historia real en sus paredes. Para viajeros que aprecian eso.
 - **Hotel Palace Zagreb** (4 estrellas): En el límite de Gornji Grad, fachada Art Nouveau de 1907. Renovado con el carácter intacto. Terraza preciosa.
 
-Si combinas Zagreb con otras ciudades croatas, consulta nuestra guía de [dónde alojarse en Split](/es/blog/donde-alojarse-split), que tiene un carácter completamente distinto al de Zagreb.
+Si combinas Zagreb con otras ciudades croatas, consulta nuestra guía de [dónde alojarse en Split](/es/blog/donde-alojarse-split/), que tiene un carácter completamente distinto al de Zagreb.
 
 ## Trnje: Local y mejor relación calidad-precio
 
@@ -101,7 +101,7 @@ Zagreb es notablemente más barato que otras capitales de Europa Central. Gama m
 
 ### ¿Cuántos días se necesitan para visitar Zagreb?
 
-Dos días completos cubren lo esencial: Gornji Grad, el mercado Dolac, algunos museos, la calle Tkalciceva por la noche. Tres días permiten un ritmo más tranquilo. Zagreb combina muy bien con [Liubliana](/es/blog/donde-alojarse-liubliana): cuatro horas en tren conectan ambas ciudades y se complementan perfectamente.
+Dos días completos cubren lo esencial: Gornji Grad, el mercado Dolac, algunos museos, la calle Tkalciceva por la noche. Tres días permiten un ritmo más tranquilo. Zagreb combina muy bien con [Liubliana](/es/blog/donde-alojarse-liubliana/): cuatro horas en tren conectan ambas ciudades y se complementan perfectamente.
 
 ### ¿Dónde no conviene alojarse en Zagreb?
 
@@ -110,5 +110,5 @@ Las zonas periféricas sin acceso a tranvía dificultan explorar la ciudad sin c
 ---
 
 **Leer más:**
-- [Dónde alojarse en Split: comparativa de barrios](/es/blog/donde-alojarse-split)
-- [Dónde alojarse en Liubliana: entre el castillo y el mercado](/es/blog/donde-alojarse-liubliana)
+- [Dónde alojarse en Split: comparativa de barrios](/es/blog/donde-alojarse-split/)
+- [Dónde alojarse en Liubliana: entre el castillo y el mercado](/es/blog/donde-alojarse-liubliana/)

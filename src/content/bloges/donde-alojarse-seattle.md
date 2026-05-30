@@ -45,7 +45,7 @@ Capitol Hill es el barrio más creativo de la ciudad. Gran densidad de tostadora
 
 **Opciones destacadas:** Staypineapple at The Maxwell Hotel (boutique de diseño, bien conectado), Gaslight Inn B&amp;B (casa de huéspedes histórica con mucho carácter), Sonder Capitol Hill (estilo apartamento, flexible para estancias largas).
 
-Si te gustan los barrios de escena, nuestro [artículo sobre Miami](/es/blog/donde-alojarse-miami) tiene una sección similar sobre Wynwood y South Beach.
+Si te gustan los barrios de escena, nuestro [artículo sobre Miami](/es/blog/donde-alojarse-miami/) tiene una sección similar sobre Wynwood y South Beach.
 
 ## ¿Cuándo es la mejor época para visitar Seattle?
 
@@ -117,6 +117,6 @@ De noviembre a marzo son los meses más económicos. Los precios bajan un 40-50%
 ---
 
 **Más información:**
-- [Dónde alojarse en Miami: Los mejores barrios](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Buenos Aires: Los 5 barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Cancún: Zona Hotelera o centro](/es/blog/donde-alojarse-cancun)
+- [Dónde alojarse en Miami: Los mejores barrios](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Buenos Aires: Los 5 barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Cancún: Zona Hotelera o centro](/es/blog/donde-alojarse-cancun/)

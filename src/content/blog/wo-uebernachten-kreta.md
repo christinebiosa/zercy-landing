@@ -73,7 +73,7 @@ Rethymno zwischen Heraklion und Chania ist die am wenigsten überlaufene der dre
 
 Kreta-Hotels variieren extrem zwischen Stadtzentrum-Boutiques und Küsten-Resorts. [Booking.com](https://www.booking.com) hat die beste Abdeckung beider Typen. Filter nach Region, Lage zum Strand und Pool-Ausstattung spart viel Recherche.
 
-Lies auch: [Schönste Strände Europas](/blog/schoenste-straende-europa-2026) sowie [Wo übernachten in Athen](/blog/wo-uebernachten-athen) für deinen Griechenland-Trip.
+Lies auch: [Schönste Strände Europas](/blog/schoenste-straende-europa-2026/) sowie [Wo übernachten in Athen](/blog/wo-uebernachten-athen/) für deinen Griechenland-Trip.
 
 ---
 
@@ -101,6 +101,6 @@ Für Kreta ist ein Mietwagen sehr empfehlenswert. Günstige Kleinwagen ab 25-35 
 
 ## Mehr lesen
 
-- [Wo übernachten in Athen: Stadtteile und Hotels](/blog/wo-uebernachten-athen)
-- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026)
-- [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route)
+- [Wo übernachten in Athen: Stadtteile und Hotels](/blog/wo-uebernachten-athen/)
+- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026/)
+- [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route/)

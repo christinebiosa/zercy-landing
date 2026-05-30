@@ -79,7 +79,7 @@ The neighborhood is architecturally less interesting than the old town or Florea
 
 **Top picks:** Hotel Grand (solid mid-range, good location), Radisson Blu Hotel Bucharest (reliable with good conference facilities), various apartments near Piața Unirii.
 
-For another Eastern European destination with a similar contrast between old elegance and communist-era architecture, the [Krakow neighborhood guide](/en/blog/where-to-stay-krakow) is a useful comparison.
+For another Eastern European destination with a similar contrast between old elegance and communist-era architecture, the [Krakow neighborhood guide](/en/blog/where-to-stay-krakow/) is a useful comparison.
 
 ## Iancului/Sector 2: Local, Budget, Authentic
 
@@ -129,6 +129,6 @@ The Parliament building from the inside (guided tours only), the Lipscani area i
 ---
 
 **Read more:**
-- [Where to Stay in Tallinn: Medieval City and Startup Scene](/en/blog/where-to-stay-tallinn)
-- [Where to Stay in Krakow: Old Town or Kazimierz](/en/blog/where-to-stay-krakow)
-- [Hidden Gems in Europe: Cities That Still Deliver](/en/blog/hidden-gems-europe)
+- [Where to Stay in Tallinn: Medieval City and Startup Scene](/en/blog/where-to-stay-tallinn/)
+- [Where to Stay in Krakow: Old Town or Kazimierz](/en/blog/where-to-stay-krakow/)
+- [Hidden Gems in Europe: Cities That Still Deliver](/en/blog/hidden-gems-europe/)

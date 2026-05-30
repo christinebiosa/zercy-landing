@@ -16,7 +16,7 @@ More and more travelers are discovering the same thing: the real break only begi
 
 This is not a wellness influencer trend. It is a response to a genuine state of exhaustion. Research shows that 3 to 5 days fully offline measurably reduce cortisol levels. Cortisol is the stress hormone that stays chronically elevated when you are always reachable. Sleep improves. Concentration comes back. And memories from the trip actually stick, because you were present when they happened.
 
-For many travelers, [slow travel](/en/blog/slow-travel-what-it-really-means) is the first step. The detox is the more committed version.
+For many travelers, [slow travel](/en/blog/slow-travel-what-it-really-means/) is the first step. The detox is the more committed version.
 
 ## Which destinations work best for a digital detox trip?
 
@@ -28,7 +28,7 @@ Not every place forces you to let go. Some cities are loud and connected. Others
 
 **Monasteries as accommodation** are an underrated option. In Austria, Germany, France and Catalonia, monasteries offer guest rooms. The rules are simple: no noise, no screens, structured daily rhythms. Cost: often 35 to 55 euros per night including meals.
 
-The [Faroe Islands](/en/blog/faroe-islands-guide) stand on their own. Almost no mass tourism, minimal infrastructure, no algorithm telling you what to see next.
+The [Faroe Islands](/en/blog/faroe-islands-guide/) stand on their own. Almost no mass tourism, minimal infrastructure, no algorithm telling you what to see next.
 
 ## Complete detox or social media break: which one actually works?
 
@@ -52,7 +52,7 @@ Preparation is the critical part. Going offline without it lands you in situatio
 
 Camp Grounded in the US was one of the first detox retreats with clear device-free rules. The model has since spread worldwide. Their approach is explained at [camp-grounded.org](https://www.campgrounded.org) for anyone curious about the concept.
 
-For a [wellness and spa trip](/en/blog/wellness-spa-travel-destinations), eco-lodges that deliberately offer no Wi-Fi are worth seeking out. It is not a budget compromise. It is the point.
+For a [wellness and spa trip](/en/blog/wellness-spa-travel-destinations/), eco-lodges that deliberately offer no Wi-Fi are worth seeking out. It is not a budget compromise. It is the point.
 
 ## What does a digital detox trip cost?
 
@@ -60,7 +60,7 @@ Less than you would expect. That is one of the most surprising parts.
 
 Monasteries: 35 to 55 euros per night, often including meals. Eco-lodges in the Pyrenees: 40 to 70 euros per night. Mountain huts in Norway: from 30 euros for basic accommodation, up to 90 euros for more comfortable lodges. Compared to a city hotel in Barcelona or Amsterdam that easily costs three times as much, offline travel is inexpensive.
 
-The [trekking beginners guide](/en/blog/trekking-beginners-guide-worldwide) shows how similar experiences are possible in other alpine regions. Physical activity and offline time reinforce each other in ways that are hard to replicate otherwise.
+The [trekking beginners guide](/en/blog/trekking-beginners-guide-worldwide/) shows how similar experiences are possible in other alpine regions. Physical activity and offline time reinforce each other in ways that are hard to replicate otherwise.
 
 ---
 
@@ -68,9 +68,9 @@ Zercy helps you find connections, compare options, and weigh alternatives before
 
 ## Read more
 
-- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means)
-- [Wellness & Spa Travel Destinations](/en/blog/wellness-spa-travel-destinations)
-- [Faroe Islands: The Complete Guide](/en/blog/faroe-islands-guide)
+- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means/)
+- [Wellness & Spa Travel Destinations](/en/blog/wellness-spa-travel-destinations/)
+- [Faroe Islands: The Complete Guide](/en/blog/faroe-islands-guide/)
 
 ---
 

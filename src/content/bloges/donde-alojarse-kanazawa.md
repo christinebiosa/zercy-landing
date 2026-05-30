@@ -65,7 +65,7 @@ Katamachi es el centro gastronómico de Kanazawa. Las calles Rihaku-dori y Korin
 
 **Mejores opciones:** Dormy Inn Kanazawa (cadena fiable, onsen incluido), Cross Hotel Kanazawa (diseño moderno, buena ubicación nocturna), Kanazawa Chaya (pequeño boutique con carácter local).
 
-Si estás construyendo un itinerario más largo por Japón, nuestra [ruta por Japón en 3 semanas](/es/blog/japon-3-semanas-ruta) incluye Kanazawa como parada clave junto a Kioto e Hiroshima.
+Si estás construyendo un itinerario más largo por Japón, nuestra [ruta por Japón en 3 semanas](/es/blog/japon-3-semanas-ruta/) incluye Kanazawa como parada clave junto a Kioto e Hiroshima.
 
 ## Zona de la Estación: Llegar y Salir
 
@@ -118,6 +118,6 @@ Para uno o dos días, la zona Kenroku-en / Castillo es la mejor opción. Todos l
 ---
 
 **Leer más:**
-- [Japón en 3 semanas: La ruta ideal](/es/blog/japon-3-semanas-ruta)
-- [Japón más allá de Tokio: guía completa](/es/blog/japon-mas-alla-de-tokio)
-- [Joyas ocultas de Europa: ciudades infravaloradas](/es/blog/joyas-ocultas-europa)
+- [Japón en 3 semanas: La ruta ideal](/es/blog/japon-3-semanas-ruta/)
+- [Japón más allá de Tokio: guía completa](/es/blog/japon-mas-alla-de-tokio/)
+- [Joyas ocultas de Europa: ciudades infravaloradas](/es/blog/joyas-ocultas-europa/)

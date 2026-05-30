@@ -65,7 +65,7 @@ Acropolis und Engomi sind Botschaftsviertel. Breite Alleen, Villen, wenig Touris
 
 Boutique-Preise in diesem Bereich: 120 bis 220 EUR.
 
-Wer Nikosia als Ausgangspunkt nutzt und Tagesausflüge plant, schaut sich auch [Wo übernachten in Athen](/blog/wo-uebernachten-athen) an, das ebenfalls als Städtereise mit Küstenzugang funktioniert.
+Wer Nikosia als Ausgangspunkt nutzt und Tagesausflüge plant, schaut sich auch [Wo übernachten in Athen](/blog/wo-uebernachten-athen/) an, das ebenfalls als Städtereise mit Küstenzugang funktioniert.
 
 ## Strovolos: Familienfreundlich und budgetbewusst
 
@@ -83,7 +83,7 @@ Aglantzia liegt östlich des Zentrums rund um die Universität Zypern. Studenten
 - **Budget-Guesthouses Aglantzia:** Kleine Pensionen und Zimmer ab 45 EUR. Authentisches Viertel ohne touristische Kulisse.
 - **Mid-Range Apartments:** Mehrere moderne Apartments ab 70 EUR mit Küche, ideal für Wochenaufenthalte.
 
-Vergleichbare Alternativen in mediterranen Hauptstädten findest du im Guide [Wo übernachten in Valletta](/blog/wo-uebernachten-valletta), ebenfalls eine kleine EU-Hauptstadt mit großer Altstadt-Atmosphäre.
+Vergleichbare Alternativen in mediterranen Hauptstädten findest du im Guide [Wo übernachten in Valletta](/blog/wo-uebernachten-valletta/), ebenfalls eine kleine EU-Hauptstadt mit großer Altstadt-Atmosphäre.
 
 ## Wo solltest du in Nikosia am Ende buchen?
 
@@ -118,6 +118,6 @@ Laiki Geitonia oder das Stadtzentrum rund um die Ledra-Straße. Beides liegt inn
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Athen: Stadtteil-Guide 2026](/blog/wo-uebernachten-athen)
-- [Wo übernachten in Valletta: Malta Stadtführer 2026](/blog/wo-uebernachten-valletta)
-- [Wo übernachten in Mykonos: Viertel und Strände 2026](/blog/wo-uebernachten-mykonos)
+- [Wo übernachten in Athen: Stadtteil-Guide 2026](/blog/wo-uebernachten-athen/)
+- [Wo übernachten in Valletta: Malta Stadtführer 2026](/blog/wo-uebernachten-valletta/)
+- [Wo übernachten in Mykonos: Viertel und Strände 2026](/blog/wo-uebernachten-mykonos/)

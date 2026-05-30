@@ -57,7 +57,7 @@ Los hoteles en esta zona son más caros que en otros barrios. Buenos hoteles de 
 - **Bairro Alto Hotel** (diseño y vistas, referencia de la ciudad, aprox. 280 €)
 - **Internacional Design Hotel** (buena ubicación central, aprox. 140 €)
 
-Para comparar con otras ciudades europeas, consulta también [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona) y [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest).
+Para comparar con otras ciudades europeas, consulta también [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/) y [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/).
 
 ## Príncipe Real: La alternativa tranquila y elegante
 
@@ -99,6 +99,6 @@ Sí, es una de las capitales europeas más seguras. Los carteristas existen en z
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest)
-- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini)
+- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest/)
+- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini/)

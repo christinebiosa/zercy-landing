@@ -52,7 +52,7 @@ Los precios varían bastante y suelen fijarse de forma dinámica:
 
 Esto importa: en Ryanair y Wizz Air, a menudo no solo estás comprando un embarque anticipado. Estás comprando el derecho a llevar equipaje de mano normal. Eso cambia el análisis por completo.
 
-Para la estrategia de equipaje, lee nuestra guía de [viajar solo con equipaje de mano](/es/blog/solo-equipaje-de-mano). Y para reducir costos en general, los [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos) son el punto de partida.
+Para la estrategia de equipaje, lee nuestra guía de [viajar solo con equipaje de mano](/es/blog/solo-equipaje-de-mano/). Y para reducir costos en general, los [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) son el punto de partida.
 
 ## ¿Existe alguna alternativa gratuita?
 
@@ -62,7 +62,7 @@ Costo: cero euros.
 
 Funciona bien en vuelos de tamaño mediano. En vuelos de bajo costo muy llenos, es menos confiable.
 
-Más trucos prácticos como este están en nuestra [guía de trucos en el aeropuerto](/es/blog/trucos-aeropuerto).
+Más trucos prácticos como este están en nuestra [guía de trucos en el aeropuerto](/es/blog/trucos-aeropuerto/).
 
 ## ¿Qué dicen los números sobre la ventaja de tiempo?
 
@@ -98,6 +98,6 @@ Porque en algunas rutas el volumen de equipaje de mano es tan alto que los troll
 
 ## Más para leer
 
-- [Trucos en el aeropuerto: lo que realmente importa](/es/blog/trucos-aeropuerto)
-- [Solo equipaje de mano: la guía completa](/es/blog/solo-equipaje-de-mano)
-- [Vuelos baratos con fechas flexibles: el truco que funciona](/es/blog/consejos-vuelos-baratos)
+- [Trucos en el aeropuerto: lo que realmente importa](/es/blog/trucos-aeropuerto/)
+- [Solo equipaje de mano: la guía completa](/es/blog/solo-equipaje-de-mano/)
+- [Vuelos baratos con fechas flexibles: el truco que funciona](/es/blog/consejos-vuelos-baratos/)

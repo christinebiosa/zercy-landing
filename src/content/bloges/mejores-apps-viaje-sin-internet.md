@@ -20,7 +20,7 @@ El problema es que la mayoría de apps de viaje requieren conexión para funcion
 
 **Organic Maps** es la opción más ligera y sin publicidad, también basada en OpenStreetMap. Si viajas a zonas remotas o tienes poco espacio en el móvil, es la mejor alternativa.
 
-Para viajes que incluyen trayectos largos en zonas remotas, como la [ruta de Vietnam](/es/blog/vietnam-2-semanas-ruta) o recorridos por el interior de Colombia, descargar los mapas con semanas de antelación es un paso imprescindible.
+Para viajes que incluyen trayectos largos en zonas remotas, como la [ruta de Vietnam](/es/blog/vietnam-2-semanas-ruta/) o recorridos por el interior de Colombia, descargar los mapas con semanas de antelación es un paso imprescindible.
 
 ## ¿Qué app usar para planificar transporte sin conexión?
 
@@ -79,6 +79,6 @@ TripIt, Tripit Pro o el propio Zercy Logbook permiten guardar confirmaciones y a
 ---
 
 **Leer más:**
-- [Cómo elegir y reservar un hostel sin sorpresas](/es/blog/guia-reservar-hostel)
-- [Bangkok en 3 días: el itinerario completo](/es/blog/bangkok-3-dias)
-- [Guía de viaje por Colombia: lo imprescindible](/es/blog/guia-viaje-colombia)
+- [Cómo elegir y reservar un hostel sin sorpresas](/es/blog/guia-reservar-hostel/)
+- [Bangkok en 3 días: el itinerario completo](/es/blog/bangkok-3-dias/)
+- [Guía de viaje por Colombia: lo imprescindible](/es/blog/guia-viaje-colombia/)

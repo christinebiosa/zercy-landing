@@ -50,7 +50,7 @@ Bangkok überfordert beim ersten Blick. Die Stadt hat 10 Millionen Einwohner, St
 
 Übernachte im Sukhumvit-Viertel: gute Bahnanbindung, internationale Restaurants, sauber. Oder in der Altstadt wenn du das Backpacker-Flair magst.
 
-Lies auch unseren [48-Stunden-Rom-Guide](/blog/48-stunden-rom) für ähnliche Kompakt-Stadtführer anderer Metropolen.
+Lies auch unseren [48-Stunden-Rom-Guide](/blog/48-stunden-rom/) für ähnliche Kompakt-Stadtführer anderer Metropolen.
 
 ## Chiang Mai: Warum ist der Norden so anders als Bangkok?
 
@@ -68,11 +68,11 @@ Chiang Mai ist auch Ausgangspunkt für Ausflüge nach Pai (3h nordwestlich, Berg
 
 Der südliche Teil Thailands hat Dutzende Inseln. Drei dominierende Optionen für 2-Wochen-Reisende:
 
-**Koh Samui:** Beste Infrastruktur, Direktflüge aus Bangkok, breite Hotelauswahl. Richtig für Paare und alle die Komfort wollen ohne Backpacker-Chaos. Die besten Viertel und Unterkünfte auf der Insel findest du im [Koh Samui Hotelguide](/blog/wo-uebernachten-koh-samui).
+**Koh Samui:** Beste Infrastruktur, Direktflüge aus Bangkok, breite Hotelauswahl. Richtig für Paare und alle die Komfort wollen ohne Backpacker-Chaos. Die besten Viertel und Unterkünfte auf der Insel findest du im [Koh Samui Hotelguide](/blog/wo-uebernachten-koh-samui/).
 
 **Koh Phangan:** Partystrand an Full Moon, aber auch ruhige Nordküste. Richtig für unter-30-Reisende, die Party und Strand mischen wollen.
 
-**Koh Lanta:** Ruhiger, familienfreundlicher, noch nicht überlaufen. Richtig für Entspannung, Yoga, Schnorcheln. Keine Fluganbindung: Fähre von Krabi. Wer einen Zwischenstopp in Krabi plant, hilft der [Krabi Hotelguide](/blog/wo-uebernachten-krabi) bei der Unterkunftswahl.
+**Koh Lanta:** Ruhiger, familienfreundlicher, noch nicht überlaufen. Richtig für Entspannung, Yoga, Schnorcheln. Keine Fluganbindung: Fähre von Krabi. Wer einen Zwischenstopp in Krabi plant, hilft der [Krabi Hotelguide](/blog/wo-uebernachten-krabi/) bei der Unterkunftswahl.
 
 Flug Bangkok-Koh Samui: ca. 60-120 Euro mit Bangkok Airways. Alternative: Nachtbus/Fähre für 30-40 Euro (12 Stunden, aber du sparst eine Hotelübernachtung).
 
@@ -101,6 +101,6 @@ König und Königshaus nicht beleidigen (Lese-Majestät-Gesetze sind scharf). Te
 ---
 
 **Mehr lesen:**
-- [Japan jenseits von Tokio: Kyoto, Osaka, Hiroshima](/blog/japan-jenseits-von-tokio)
-- [Solo reisen als Frau: Sicherheit und die besten Ziele](/blog/solo-reisen-frauen-sicher)
-- [Patagonien: 3 Wochen Route durch das Ende der Welt](/blog/patagonien-3-wochen-route)
+- [Japan jenseits von Tokio: Kyoto, Osaka, Hiroshima](/blog/japan-jenseits-von-tokio/)
+- [Solo reisen als Frau: Sicherheit und die besten Ziele](/blog/solo-reisen-frauen-sicher/)
+- [Patagonien: 3 Wochen Route durch das Ende der Welt](/blog/patagonien-3-wochen-route/)

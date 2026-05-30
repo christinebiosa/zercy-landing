@@ -42,13 +42,13 @@ Para vuelos, la [alerta de precios de Skyscanner](https://www.skyscanner.es/noti
 
 ## ¿Qué categorías de viaje se benefician más?
 
-**Hoteles en plataformas de reservas**: aquí está el mayor potencial. Activar el nivel Genius 2 de Booking.com con antelación tiene sentido porque las ofertas Genius se acumulan sobre los precios de Black Friday. El nivel 2 de Genius se activa tras 5 reservas completadas. Si todavía no lo tienes, unas reservas estratégicas previas valen la pena. Lee también [cuándo reservar vuelos para obtener el mejor precio](/es/blog/cuando-reservar-vuelos).
+**Hoteles en plataformas de reservas**: aquí está el mayor potencial. Activar el nivel Genius 2 de Booking.com con antelación tiene sentido porque las ofertas Genius se acumulan sobre los precios de Black Friday. El nivel 2 de Genius se activa tras 5 reservas completadas. Si todavía no lo tienes, unas reservas estratégicas previas valen la pena. Lee también [cuándo reservar vuelos para obtener el mejor precio](/es/blog/cuando-reservar-vuelos/).
 
 **Pases de sala VIP**: Priority Pass casi siempre tiene una promoción en Black Friday. El precio del pase anual baja entre un 20 y un 25%. Si vuelas con frecuencia y usas salones, se amortiza de inmediato.
 
 **Seguros de viaje**: los planes anuales para múltiples viajes suelen estar reducidos este fin de semana. Las aseguradoras principales bajan sus pólizas anuales consistentemente en Black Friday.
 
-**Vuelos? Solo para rutas específicas**: las rutas de largo radio a Asia, Latinoamérica y África Oriental pueden mostrar ofertas reales en Black Friday. No para primavera o verano, sino para octubre hasta febrero del año siguiente. Esa combinación (reservar en noviembre, viajar en otoño o invierno del año que viene) funciona mejor. Más sobre cómo ahorrar en vuelos en nuestro artículo [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos).
+**Vuelos? Solo para rutas específicas**: las rutas de largo radio a Asia, Latinoamérica y África Oriental pueden mostrar ofertas reales en Black Friday. No para primavera o verano, sino para octubre hasta febrero del año siguiente. Esa combinación (reservar en noviembre, viajar en otoño o invierno del año que viene) funciona mejor. Más sobre cómo ahorrar en vuelos en nuestro artículo [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/).
 
 **Lo que puedes saltarte**: paquetes todo incluido para Navidad o Semana Santa. En noviembre están agotados o caros independientemente del fin de semana de ofertas.
 
@@ -68,7 +68,7 @@ Solo puedes evaluar una buena oferta si tienes datos comparativos. Esta es la pr
 
 Entonces: el Cyber Monday, compara con datos frescos. Booking.com suele lanzar sus flash sales de hotel más fuertes el lunes por la mañana con una ventana de 24 horas. Ser rápido compensa.
 
-Para [reservas anticipadas y comparativas de precio](/es/blog/reserva-anticipada-vs-last-minute), la estrategia funciona durante todo el año. Pero para pases anuales, seguros y reservas de hotel en temporada baja, el fin de semana de Black Friday es uno de los mejores momentos del año.
+Para [reservas anticipadas y comparativas de precio](/es/blog/reserva-anticipada-vs-last-minute/), la estrategia funciona durante todo el año. Pero para pases anuales, seguros y reservas de hotel en temporada baja, el fin de semana de Black Friday es uno de los mejores momentos del año.
 
 ---
 
@@ -91,6 +91,6 @@ Sigue los precios desde octubre y documenta valores de comparación. Con una cap
 ---
 
 **Más artículos:**
-- [¿Cuándo reservar vuelos? La respuesta real](/es/blog/cuando-reservar-vuelos)
-- [Reserva anticipada vs. last minute: cuándo conviene cada una](/es/blog/reserva-anticipada-vs-last-minute)
-- [Consejos para vuelos baratos que realmente funcionan](/es/blog/consejos-vuelos-baratos)
+- [¿Cuándo reservar vuelos? La respuesta real](/es/blog/cuando-reservar-vuelos/)
+- [Reserva anticipada vs. last minute: cuándo conviene cada una](/es/blog/reserva-anticipada-vs-last-minute/)
+- [Consejos para vuelos baratos que realmente funcionan](/es/blog/consejos-vuelos-baratos/)

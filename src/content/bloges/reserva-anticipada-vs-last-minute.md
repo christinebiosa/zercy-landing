@@ -24,7 +24,7 @@ Para rutas de temporada alta (vuelos al Caribe en diciembre, transatlánticos en
 
 La estrategia más inteligente: configura una alerta de precio en Google Flights y compra cuando llegue a tu rango objetivo. Es más efectivo que reservar demasiado pronto o esperar sin un criterio claro.
 
-Para más detalle, consulta el artículo sobre [cómo conseguir vuelos baratos](/es/blog/donde-alojarse-miami) y la guía de [dónde alojarse en Lima](/es/blog/donde-alojarse-lima), que también cubre estrategias de reserva para destinos populares.
+Para más detalle, consulta el artículo sobre [cómo conseguir vuelos baratos](/es/blog/donde-alojarse-miami/) y la guía de [dónde alojarse en Lima](/es/blog/donde-alojarse-lima/), que también cubre estrategias de reserva para destinos populares.
 
 ## ¿Por qué el last minute funciona diferente en hoteles que en vuelos?
 
@@ -88,6 +88,6 @@ Las aerolíneas usan algoritmos de precios dinámicos que clasifican a los compr
 ---
 
 **Más información:**
-- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Bogotá: Guía por barrios](/es/blog/donde-alojarse-bogota)
-- [Dónde alojarse en Miami: Barrios y precios](/es/blog/donde-alojarse-miami)
+- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Bogotá: Guía por barrios](/es/blog/donde-alojarse-bogota/)
+- [Dónde alojarse en Miami: Barrios y precios](/es/blog/donde-alojarse-miami/)

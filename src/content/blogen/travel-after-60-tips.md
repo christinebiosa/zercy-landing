@@ -24,21 +24,21 @@ This is the most important practical point and the one most travelers underestim
 
 The most important coverage to prioritize is emergency medical evacuation. A medical flight from Southeast Asia or South America can cost upward of $50,000. That is not hypothetical. Read the fine print carefully: look for annual age limits, pre-existing condition clauses, and any caps on medical coverage. Multi-trip annual policies can be cost-effective if you travel several times a year.
 
-Also check medication rules before you go. Many countries have restrictions on importing certain prescription drugs, and what is standard in the US or UK may be controlled elsewhere. Read more about what travel coverage actually includes in our guide to [travel insurance in 2026](/en/blog/travel-insurance-worth-it-2026).
+Also check medication rules before you go. Many countries have restrictions on importing certain prescription drugs, and what is standard in the US or UK may be controlled elsewhere. Read more about what travel coverage actually includes in our guide to [travel insurance in 2026](/en/blog/travel-insurance-worth-it-2026/).
 
 ## How Do Long-Haul Flights Affect Older Travelers?
 
 Deep vein thrombosis is a concern for anyone on a long flight, but the risk increases with age. Compression socks (graduated compression, Class 1 or 2) are the single most practical item to pack. They reduce swelling and lower DVT risk significantly. Your pharmacist can advise on the right compression level.
 
-Beyond that: drink water consistently through the flight, stand up and walk the aisle every two hours, and limit alcohol. Dehydration and immobility are the main problems, and they are both avoidable. If sleep is important to you on a long flight, business class or lie-flat seating becomes a genuine health consideration rather than a luxury. See our piece on [whether business class is worth it](/en/blog/business-class-worth-it) for a realistic breakdown.
+Beyond that: drink water consistently through the flight, stand up and walk the aisle every two hours, and limit alcohol. Dehydration and immobility are the main problems, and they are both avoidable. If sleep is important to you on a long flight, business class or lie-flat seating becomes a genuine health consideration rather than a luxury. See our piece on [whether business class is worth it](/en/blog/business-class-worth-it/) for a realistic breakdown.
 
-Jet lag also hits harder with age. Our article on [fast jet lag recovery](/en/blog/jet-lag-fast-recovery) covers the techniques that actually work.
+Jet lag also hits harder with age. Our article on [fast jet lag recovery](/en/blog/jet-lag-fast-recovery/) covers the techniques that actually work.
 
 ## Which Destinations Work Best for Travelers Over 60?
 
 There is no single answer, because it depends on what you want. But a few destinations come up consistently for good reasons.
 
-**Portugal** is flat, affordable, safe, and has excellent healthcare infrastructure. Lisbon and Porto are walkable, the Algarve is perfect for beach time, and the country rewards slow travel. **Japan** surprises many first-timers: superb transport, extremely low crime, and infrastructure that handles mobility needs well. **New Zealand** is far, but the scenery, safety, and laid-back culture make it genuinely worth the journey. **Austria** and **Vienna** in particular are excellent for culture-focused travel. Our guide to [where to stay in Vienna](/en/blog/where-to-stay-vienna) has practical accommodation picks.
+**Portugal** is flat, affordable, safe, and has excellent healthcare infrastructure. Lisbon and Porto are walkable, the Algarve is perfect for beach time, and the country rewards slow travel. **Japan** surprises many first-timers: superb transport, extremely low crime, and infrastructure that handles mobility needs well. **New Zealand** is far, but the scenery, safety, and laid-back culture make it genuinely worth the journey. **Austria** and **Vienna** in particular are excellent for culture-focused travel. Our guide to [where to stay in Vienna](/en/blog/where-to-stay-vienna/) has practical accommodation picks.
 
 For travelers with mobility considerations, modern cruise ships offer excellent accessibility, onboard medical staff, and the chance to visit multiple countries without hauling luggage between hotels. The trade-off is limited time in each port. If you want depth over breadth, independent travel wins.
 
@@ -74,6 +74,6 @@ Booking.com and Airbnb both have accessibility filters. For tours, look for oper
 
 More reading:
 
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Business Class: Is It Actually Worth It?](/en/blog/business-class-worth-it)
-- [Fast Jet Lag Recovery: What Actually Works](/en/blog/jet-lag-fast-recovery)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Business Class: Is It Actually Worth It?](/en/blog/business-class-worth-it/)
+- [Fast Jet Lag Recovery: What Actually Works](/en/blog/jet-lag-fast-recovery/)

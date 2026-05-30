@@ -27,7 +27,7 @@ Por la tarde: **Chinatown (Yaowarat Road)**. En tuk-tuk o en MRT (estación Hua 
 
 Por la noche: **bar en la azotea**. Lebua at State Tower es famoso como escenario de "¿Qué pasó ayer? Parte II". La terraza Sirocco es un espectáculo. Hay un mínimo de consumo y un cóctel sale entre 600 y 900 baht. No es una opción económica. Pero una vez vale la pena. Alternativa: **Octave Rooftop Lounge** en el Marriott Sukhumvit, planta 45, menos famoso, vistas similares, algo más asequible. Después, vida nocturna en Silom, o un cuenco de sopa de fideos en un puesto callejero a medianoche. Ambas opciones son muy Bangkok.
 
-Para recomendaciones de alojamiento por barrio, consulta el artículo [Dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok).
+Para recomendaciones de alojamiento por barrio, consulta el artículo [Dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok/).
 
 ## ¿Qué hace especial el Día 2 en Bangkok?
 
@@ -45,7 +45,7 @@ Bangkok es más barata de lo que crees. El street food cuesta entre 50 y 120 bah
 
 El MRT (metro) y el BTS Skytrain son la columna vertebral del transporte público. Juntos cubren gran parte de la ciudad. Un trayecto cuesta entre 16 y 44 baht según la distancia. Consigue una Rabbit Card o un pase turístico para ahorrar tiempo y algo de dinero.
 
-Presupuesto estimado para 48 horas sin vuelos ni alojamiento: de 60 a 120 euros por persona. Si añades un bar en azotea y una entrada a un museo, llegas a 150 euros. Para consejos más amplios sobre viajes económicos por toda la región, consulta [Sudeste Asiático con poco dinero](/es/blog/sudeste-asiatico-viaje-economico).
+Presupuesto estimado para 48 horas sin vuelos ni alojamiento: de 60 a 120 euros por persona. Si añades un bar en azotea y una entrada a un museo, llegas a 150 euros. Para consejos más amplios sobre viajes económicos por toda la región, consulta [Sudeste Asiático con poco dinero](/es/blog/sudeste-asiatico-viaje-economico/).
 
 ## ¿Qué vale más la pena: Nana Plaza o Asiatique?
 
@@ -80,6 +80,6 @@ Baht tailandés (THB). Las tarjetas de crédito se aceptan en restaurantes grand
 ---
 
 **Seguir leyendo:**
-- [Dónde alojarse en Bangkok: Los mejores barrios 2026](/es/blog/donde-alojarse-bangkok)
-- [Tailandia en 2 semanas: La ruta completa](/es/blog/tailandia-2-semanas-ruta)
-- [Viaje económico por el Sudeste Asiático: Cómo se hace](/es/blog/sudeste-asiatico-viaje-economico)
+- [Dónde alojarse en Bangkok: Los mejores barrios 2026](/es/blog/donde-alojarse-bangkok/)
+- [Tailandia en 2 semanas: La ruta completa](/es/blog/tailandia-2-semanas-ruta/)
+- [Viaje económico por el Sudeste Asiático: Cómo se hace](/es/blog/sudeste-asiatico-viaje-economico/)

@@ -72,6 +72,6 @@ Early morning before 9am or after 3pm when the day-trip boats leave. July and Au
 ---
 
 **Read more:**
-- [Slovenia: Europe's Green Secret 2026](/en/blog/slovenia-green-secret-2026)
-- [Hidden Gems in Europe: 7 Underrated Places](/en/blog/hidden-gems-europe)
-- [Travel Packing List: What You Actually Need](/en/blog/travel-packing-list-essentials)
+- [Slovenia: Europe's Green Secret 2026](/en/blog/slovenia-green-secret-2026/)
+- [Hidden Gems in Europe: 7 Underrated Places](/en/blog/hidden-gems-europe/)
+- [Travel Packing List: What You Actually Need](/en/blog/travel-packing-list-essentials/)

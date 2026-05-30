@@ -44,7 +44,7 @@ Switzerland runs a high price level across all categories. Flights are no except
 
 LOT Polish Airlines offers Warsaw-Chicago and Warsaw-New York at prices Western European carriers rarely match. Tickets under $500 for North America are common. Direct from Munich? Typically $670 to $830.
 
-The [Google Flights Explore feature](/en/blog/google-flights-tips-tricks-2026) shows these price differences by hub directly on a map. Use it to scan multiple departure cities at once before committing to a route.
+The [Google Flights Explore feature](/en/blog/google-flights-tips-tricks-2026/) shows these price differences by hub directly on a map. Use it to scan multiple departure cities at once before committing to a route.
 
 ## How Do You Calculate Whether It's Actually Worth It?
 
@@ -61,7 +61,7 @@ If the flight price difference is $280 and getting there costs $100, you keep $1
 
 **Always calculate the full package price.** Train ticket plus any hotel costs plus any Frankfurt parking fees you're no longer paying, minus flight savings. Only then decide.
 
-For full booking strategy including optimal timing, [cheap flight tips and when to buy](/en/blog/cheap-flights-tips) covers the complete picture.
+For full booking strategy including optimal timing, [cheap flight tips and when to buy](/en/blog/cheap-flights-tips/) covers the complete picture.
 
 ## When Does Ex-EU Routing Not Pay Off?
 
@@ -75,7 +75,7 @@ Short trips under one week. If you're spending three days in New York, the overh
 
 Long-haul flights over 8 hours. Largest savings potential. Off-season travel, October through March excluding holidays. Flexible travel schedule. Living near the alternate hub. Someone in Salzburg reaches Vienna as easily as Munich.
 
-Timing your booking correctly matters as much as choosing the right hub. The full analysis is in [when to book flights for the best price](/en/blog/when-to-book-flights).
+Timing your booking correctly matters as much as choosing the right hub. The full analysis is in [when to book flights for the best price](/en/blog/when-to-book-flights/).
 
 ## What Are the Best Alternate Hubs for DACH Travelers?
 
@@ -89,7 +89,7 @@ A quick breakdown of the most useful departure airports:
 
 **Budapest (BUD):** Wizz Air and Ryanair make Budapest-Europe connections very affordable. Combined with a long-haul connection, savings of $100 to $200 are achievable over Western European hubs.
 
-This approach shares the logic of [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack): reaching your destination by a different route often costs noticeably less.
+This approach shares the logic of [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack/): reaching your destination by a different route often costs noticeably less.
 
 ---
 
@@ -119,6 +119,6 @@ Competitive intensity is the main driver. Airports with multiple competing long-
 
 ## Read More
 
-- [Open-Jaw Tickets: The Travel Hack Almost Nobody Uses](/en/blog/open-jaw-tickets-travel-hack)
-- [Google Flights: 8 Tips Most Travelers Miss in 2026](/en/blog/google-flights-tips-tricks-2026)
-- [When to Book Flights: The Honest Answer](/en/blog/when-to-book-flights)
+- [Open-Jaw Tickets: The Travel Hack Almost Nobody Uses](/en/blog/open-jaw-tickets-travel-hack/)
+- [Google Flights: 8 Tips Most Travelers Miss in 2026](/en/blog/google-flights-tips-tricks-2026/)
+- [When to Book Flights: The Honest Answer](/en/blog/when-to-book-flights/)

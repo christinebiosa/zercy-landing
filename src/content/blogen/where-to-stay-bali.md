@@ -47,7 +47,7 @@ On the southwest coast, 30 min from the airport. Surfer capital, co-working spac
 
 **Top picks:** The Slow (legendary boutique with restaurant), Tugu Bali (classic boutique with history), Villa Voyage (modern, pool).
 
-See our [workation guide](/en/blog/workation-tax-rules-2026), Bali is still the top spot for digital nomads in 2026.
+See our [workation guide](/en/blog/workation-tax-rules-2026/), Bali is still the top spot for digital nomads in 2026.
 
 ## Seminyak: The luxurious Bali
 
@@ -127,6 +127,6 @@ Backpacker: $800-1,100 per person incl. flight (hostel, local food, scooter rent
 ---
 
 **Read more:**
-- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo)
-- [Where to stay in Bangkok: best neighborhoods](/en/blog/where-to-stay-bangkok)
-- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026)
+- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo/)
+- [Where to stay in Bangkok: best neighborhoods](/en/blog/where-to-stay-bangkok/)
+- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026/)

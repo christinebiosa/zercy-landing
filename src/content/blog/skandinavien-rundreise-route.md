@@ -56,11 +56,11 @@ Winter (Oktober bis März) ist Nordlichter-Zeit. Norwegen und Schweden bieten da
 
 ## Praktische Tipps für die Reise
 
-**Zugverbindungen:** Die Bahn in Skandinavien ist exzellent und malerisch. Oslo–Bergen (Bergensbahn) gilt als eine der schönsten Zugstrecken der Welt. Frühbuchen spart bis zu 70%. Wer plant, in Bergen zu übernachten, findet die besten Stadtteile und Hotelempfehlungen in unserem [Bergen Hotelguide](/blog/wo-uebernachten-bergen). Für den Rückweg über Göteborg gibt unser [Göteborg Hotelguide](/blog/wo-uebernachten-goeteborg) Orientierung zu den besten Vierteln der schwedischen Küstenmetropole.
+**Zugverbindungen:** Die Bahn in Skandinavien ist exzellent und malerisch. Oslo–Bergen (Bergensbahn) gilt als eine der schönsten Zugstrecken der Welt. Frühbuchen spart bis zu 70%. Wer plant, in Bergen zu übernachten, findet die besten Stadtteile und Hotelempfehlungen in unserem [Bergen Hotelguide](/blog/wo-uebernachten-bergen/). Für den Rückweg über Göteborg gibt unser [Göteborg Hotelguide](/blog/wo-uebernachten-goeteborg/) Orientierung zu den besten Vierteln der schwedischen Küstenmetropole.
 
 **Mietwagen oder öffentlich?** In Städten überflüssig, in der Fjordregion ideal. Die Küstenstraßen (Atlantikstraße, Geiranger-Trollstigen) sind mit eigenem Auto ein Erlebnis. [Expedia Cars](https://www.expedia.com) hat gute Angebote für skandinavische Autovermieter.
 
-**Stadtpässe:** CityCard in Oslo, Stockholm City Card in Stockholm — lohnen sich bei intensivem Besichtigungsprogramm. Mehr dazu in unserem Artikel über [City Cards und Museumspässe](/blog/city-cards-museumspaesse-lohnen-sich).
+**Stadtpässe:** CityCard in Oslo, Stockholm City Card in Stockholm — lohnen sich bei intensivem Besichtigungsprogramm. Mehr dazu in unserem Artikel über [City Cards und Museumspässe](/blog/city-cards-museumspaesse-lohnen-sich/).
 
 **Essen:** Supermärkte (Rema 1000 in Norwegen, ICA in Schweden) sind günstig. Frühstück im Hotel mitnehmen, Mittag aus dem Laden, Abends einmal richtig essen.
 
@@ -85,6 +85,6 @@ Zug ist die bequemste Option zwischen Kopenhagen, Stockholm und Oslo. Günstige 
 Hostels in allen Hauptstädten bieten Dorms ab 25–35 Euro pro Nacht. Airbnb-Wohnungen mit Küche sparen beim Essen. In der Fjordregion sind Campingplätze (ab 15 Euro) beliebt — viele direkt am Wasser mit Blick auf den Fjord. Jedermannsrecht in Norwegen erlaubt sogar kostenloses Wildcampen.
 
 ## Mehr lesen
-- [Nachtzüge in Europa: Günstig und komfortabel reisen](/blog/nachtzuege-europa-2026)
-- [Interrail Guide 2026: So planst du deine Zugreise](/blog/zugreisen-europa)
-- [Nordlichter 2026: Wo und wann du sie siehst](/blog/nordlichter-2026-wo-wann-wie)
+- [Nachtzüge in Europa: Günstig und komfortabel reisen](/blog/nachtzuege-europa-2026/)
+- [Interrail Guide 2026: So planst du deine Zugreise](/blog/zugreisen-europa/)
+- [Nordlichter 2026: Wo und wann du sie siehst](/blog/nordlichter-2026-wo-wann-wie/)

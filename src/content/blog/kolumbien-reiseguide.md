@@ -32,7 +32,7 @@ Busse sind komfortabler als ihr Ruf. Für die Zona Cafetera (Bogotá nach Armeni
 
 Das Strahlende Grüsse [ProColombia](https://www.colombia.travel) bietet aktuelle Informationen zu Sehenswürdigkeiten, regionalen Festen und Einreiseregelungen.
 
-Wenn du planst, in Cartagena zu übernachten, haben wir einen eigenen Guide zu [Unterkunft in Cartagena](/blog/wo-uebernachten-cartagena). Für Medellín und Bogotá gelten ähnliche Überlegungen, mehr dazu in unseren Guides zu [Übernachten in Medellín](/blog/wo-uebernachten-medellin) und [Übernachten in Bogotá](/blog/wo-uebernachten-bogota).
+Wenn du planst, in Cartagena zu übernachten, haben wir einen eigenen Guide zu [Unterkunft in Cartagena](/blog/wo-uebernachten-cartagena/). Für Medellín und Bogotá gelten ähnliche Überlegungen, mehr dazu in unseren Guides zu [Übernachten in Medellín](/blog/wo-uebernachten-medellin/) und [Übernachten in Bogotá](/blog/wo-uebernachten-bogota/).
 
 ## Wie steht es um Sicherheit und Visum?
 
@@ -69,6 +69,6 @@ Den Cerro de Monserrate in Bogotá. Eine echte Finca-Kaffeetour in der Zona Cafe
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Cartagena: Die besten Stadtteile](/blog/wo-uebernachten-cartagena)
-- [Wo übernachten in Medellín: Viertel & Tipps](/blog/wo-uebernachten-medellin)
-- [Solo Reisen für Frauen: Sicherste Länder weltweit](/blog/solo-reisen-frauen-sicher)
+- [Wo übernachten in Cartagena: Die besten Stadtteile](/blog/wo-uebernachten-cartagena/)
+- [Wo übernachten in Medellín: Viertel & Tipps](/blog/wo-uebernachten-medellin/)
+- [Solo Reisen für Frauen: Sicherste Länder weltweit](/blog/solo-reisen-frauen-sicher/)

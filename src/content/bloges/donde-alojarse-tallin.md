@@ -61,7 +61,7 @@ El Telliskivi Creative City es un antiguo complejo de fábricas entre Kalamaja y
 
 **Mejores opciones:** Hub Hotel Tallinn (moderno, ideal para coworking), Boutique Hotel Revalia (pequeño y bien ubicado), Hostel Vana Tom (mejor relación calidad-precio de la zona).
 
-Si planeas combinar varias ciudades bálticas en un mismo viaje, la [guía de viajes en tren por Europa](/en/blog/train-travel-europe) es un excelente punto de partida.
+Si planeas combinar varias ciudades bálticas en un mismo viaje, la [guía de viajes en tren por Europa](/en/blog/train-travel-europe/) es un excelente punto de partida.
 
 ## Kadriorg: El Tallin tranquilo
 
@@ -119,6 +119,6 @@ El Aeropuerto de Tallin (Lennart Meri Tallinn Airport) está a solo 4 kilómetro
 ---
 
 **Más información:**
-- [Dónde alojarse en Miami: Los 5 barrios](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Buenos Aires: Los 5 barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Lisboa: Los 5 barrios](/es/blog/donde-alojarse-lisboa)
+- [Dónde alojarse en Miami: Los 5 barrios](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Buenos Aires: Los 5 barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Lisboa: Los 5 barrios](/es/blog/donde-alojarse-lisboa/)

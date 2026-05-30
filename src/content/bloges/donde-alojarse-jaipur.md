@@ -55,7 +55,7 @@ De octubre a marzo es claramente la mejor ventana. Temperaturas entre 15 y 28 gr
 
 Bani Park se encuentra entre el casco antiguo y Civil Lines. Tranquila, verde, sin el estrés de los mercados de la Pink City. Muchos pequeños alojamientos y hoteles boutique ocupan antiguas mansiones. Popular entre los mochileros y quienes se quedan más tiempo sin querer gastar demasiado. Yoga por la mañana, buen restaurante por la noche. Bani Park hace posible ambas cosas.
 
-Si también vas a visitar [Lima](/es/blog/donde-alojarse-lima) o [Buenos Aires](/es/blog/donde-alojarse-buenos-aires) en el mismo viaje largo, te conviene coordinar las reservas con antelación y usar el mismo criterio de barrio.
+Si también vas a visitar [Lima](/es/blog/donde-alojarse-lima/) o [Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) en el mismo viaje largo, te conviene coordinar las reservas con antelación y usar el mismo criterio de barrio.
 
 **A quién le conviene:** Viajeros con presupuesto, amantes de los boutique, estancias largas, viajeros solos.
 
@@ -77,7 +77,7 @@ Al sur de la ciudad. Centros comerciales como Pink Square Mall, muchos restauran
 
 El corredor a lo largo de Amer Road lleva al monumento más famoso de Jaipur. El Fuerte Amber se encuentra sobre una colina con vistas al paisaje circundante. Los hoteles en esta zona suelen estar alojados en antiguas havelis o construidos como resorts con vistas al fuerte. No es central, pero la atmósfera no tiene rival.
 
-Para familias con niños, este corredor funciona especialmente bien: no hay tráfico urbano denso, hay espacio y con frecuencia grandes jardines. Combinar Jaipur con [Cancún](/es/blog/donde-alojarse-cancun) como contraste playa-historia es una de las rutas largas más populares entre viajeros latinoamericanos.
+Para familias con niños, este corredor funciona especialmente bien: no hay tráfico urbano denso, hay espacio y con frecuencia grandes jardines. Combinar Jaipur con [Cancún](/es/blog/donde-alojarse-cancun/) como contraste playa-historia es una de las rutas largas más populares entre viajeros latinoamericanos.
 
 **A quién le conviene:** Viajeros de lujo, familias, quienes ven los hoteles de herencia como parte de la experiencia.
 
@@ -123,6 +123,6 @@ Dos días completos cubren los puntos más destacados: Fuerte Amber, Hawa Mahal,
 ---
 
 **Más información:**
-- [Dónde alojarse en Ciudad de México: barrios y hoteles](/es/blog/donde-alojarse-ciudad-de-mexico)
-- [Dónde alojarse en Lima: barrios y hoteles](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Buenos Aires: barrios y hoteles](/es/blog/donde-alojarse-buenos-aires)
+- [Dónde alojarse en Ciudad de México: barrios y hoteles](/es/blog/donde-alojarse-ciudad-de-mexico/)
+- [Dónde alojarse en Lima: barrios y hoteles](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Buenos Aires: barrios y hoteles](/es/blog/donde-alojarse-buenos-aires/)

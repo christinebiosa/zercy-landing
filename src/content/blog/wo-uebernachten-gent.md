@@ -100,7 +100,7 @@ Für Gent ist [Booking.com](https://www.booking.com) die beste Plattform:
 
 Gent ist günstiger als Brügge und deutlich günstiger als Brüssel. Boutique-Hotels beginnen hier, wo sie in Brüssel aufhören.
 
-Lies auch unseren [Brüssel-Stadtteil-Guide](/blog/wo-uebernachten-bruessel) und [Amsterdam-Stadtteile-Guide](/blog/wo-uebernachten-amsterdam).
+Lies auch unseren [Brüssel-Stadtteil-Guide](/blog/wo-uebernachten-bruessel/) und [Amsterdam-Stadtteile-Guide](/blog/wo-uebernachten-amsterdam/).
 
 ---
 
@@ -127,6 +127,6 @@ Das Polyptychon "Anbetung des Lammes Gottes" von Jan van Eyck (1432) gilt als Sc
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Brüssel: Die 5 Stadtteile](/blog/wo-uebernachten-bruessel)
-- [Wo übernachten in Amsterdam: Die 5 Stadtteile](/blog/wo-uebernachten-amsterdam)
-- [Wo übernachten in Kopenhagen: Die 5 Stadtteile](/blog/wo-uebernachten-kopenhagen)
+- [Wo übernachten in Brüssel: Die 5 Stadtteile](/blog/wo-uebernachten-bruessel/)
+- [Wo übernachten in Amsterdam: Die 5 Stadtteile](/blog/wo-uebernachten-amsterdam/)
+- [Wo übernachten in Kopenhagen: Die 5 Stadtteile](/blog/wo-uebernachten-kopenhagen/)

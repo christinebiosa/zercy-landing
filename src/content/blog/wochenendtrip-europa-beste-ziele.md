@@ -16,11 +16,11 @@ Dieser Guide zeigt die besten Ziele für Wochenendtrips von Deutschland, Österr
 
 Die besten Wochenendtrip-Ziele haben drei Dinge gemeinsam: Sie sind in unter drei Stunden erreichbar (oder für unter 100 Euro fliegbar), sie sind kompakt genug für zwei Tage und sie haben eine eigene Identität, die sofort wirkt.
 
-**Prag** ist von Berlin aus in drei Stunden mit dem Bus oder Zug erreichbar. Kosten ab 15 Euro einfach. Kein Flug nötig. Die Altstadt, der Wenzelsplatz, das jüdische Viertel: alles fußläufig. Günstige Stadt, gute Restaurantdichte. Für ein [48-Stunden-Prag](/blog/48-stunden-prag)-Wochenende brauchst du keinen langen Plan.
+**Prag** ist von Berlin aus in drei Stunden mit dem Bus oder Zug erreichbar. Kosten ab 15 Euro einfach. Kein Flug nötig. Die Altstadt, der Wenzelsplatz, das jüdische Viertel: alles fußläufig. Günstige Stadt, gute Restaurantdichte. Für ein [48-Stunden-Prag](/blog/48-stunden-prag/)-Wochenende brauchst du keinen langen Plan.
 
-**Wien** liegt von München aus in vier Stunden mit dem Zug. Direktverbindungen stündlich, Ticket ab 30 Euro. Wien ist dicht: Museen, Kaffeehäuser, Naschmarkt, Prater. Die Sehenswürdigkeiten liegen nah beieinander. Ein [48-Stunden-Wien](/blog/48-stunden-wien)-Wochenende lässt sich komplett ohne Auto planen.
+**Wien** liegt von München aus in vier Stunden mit dem Zug. Direktverbindungen stündlich, Ticket ab 30 Euro. Wien ist dicht: Museen, Kaffeehäuser, Naschmarkt, Prater. Die Sehenswürdigkeiten liegen nah beieinander. Ein [48-Stunden-Wien](/blog/48-stunden-wien/)-Wochenende lässt sich komplett ohne Auto planen.
 
-**Amsterdam** ist von der deutschen Grenze aus mit dem Zug schnell erreichbar. Von Köln aus ist Amsterdam in unter drei Stunden erreichbar, direkt ohne Umsteigen. Grachten, Rijksmuseum, Jordaan: kompakt. [48 Stunden Amsterdam](/blog/48-stunden-amsterdam) reichen für die wichtigsten Highlights.
+**Amsterdam** ist von der deutschen Grenze aus mit dem Zug schnell erreichbar. Von Köln aus ist Amsterdam in unter drei Stunden erreichbar, direkt ohne Umsteigen. Grachten, Rijksmuseum, Jordaan: kompakt. [48 Stunden Amsterdam](/blog/48-stunden-amsterdam/) reichen für die wichtigsten Highlights.
 
 **Lissabon** liegt zwei Stunden Flug entfernt. Von Frankfurt, München oder Berlin gibt es Direktflüge ab 60 bis 100 Euro, wenn du rechtzeitig buchst. Die Stadt hat eine eigene Energie, die sofort nach der Landung spürbar ist. Alfama, Belém, LX Factory: viel für wenig Geld.
 
@@ -34,7 +34,7 @@ Unter drei Stunden Zugreise: immer Bahn. Die An- und Abreise zum Flughafen, Chec
 
 Ab 600 Kilometer oder drei Stunden Reisezeit: Flug prüfen. Lissabon, Neapel, Barcelona sind mit dem Zug zwei Tage Reise. Das Wochenende würde die Hälfte der Zeit mit An- und Abreise verlieren.
 
-**Günstige Wochenendflüge finden:** Freitagabend-Abflüge sind teurer als Samstagmorgen-Abflüge. Das ist die meistunterschätzte Regel beim Buchen. Wenn du Samstagmorgen früh fliegst (6 bis 8 Uhr) und Sonntagabend zurückkommst, hast du oft 30 bis 50 Euro gespart. Für [günstig fliegen Tipps](/blog/guenstig-fliegen-tipps) gibt es eine eigene Seite auf Zercy.
+**Günstige Wochenendflüge finden:** Freitagabend-Abflüge sind teurer als Samstagmorgen-Abflüge. Das ist die meistunterschätzte Regel beim Buchen. Wenn du Samstagmorgen früh fliegst (6 bis 8 Uhr) und Sonntagabend zurückkommst, hast du oft 30 bis 50 Euro gespart. Für [günstig fliegen Tipps](/blog/guenstig-fliegen-tipps/) gibt es eine eigene Seite auf Zercy.
 
 Google Flights mit flexibler Datumsansicht (+/- 3 Tage) zeigt oft günstigere Alternativen. Das Preiskalender-Feature macht Unterschiede von 40 bis 80 Euro sichtbar.
 
@@ -66,12 +66,12 @@ Sparen ohne Qualitätsverlust: Frühstück weglassen (Hotelfrühstück ist über
 
 Zercy baut die aktuellen Flugpreise direkt in jeden Reiseplan ein. Gib dein Ziel ein und bekomme sofort Vergleichslinks. Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen alle Optionen zur Hand hast.
 
-Für alle, die einen Wochenendtrip mit Mietwagen planen: Der [Mietwagen-Check für Europa](/blog/mietwagen-check) zeigt, wann sich ein Auto lohnt und welche Anbieter zuverlässig sind. Mehr detaillierte Ziel-Guides findest du auf der Zercy-Blog-Übersicht.
+Für alle, die einen Wochenendtrip mit Mietwagen planen: Der [Mietwagen-Check für Europa](/blog/mietwagen-check/) zeigt, wann sich ein Auto lohnt und welche Anbieter zuverlässig sind. Mehr detaillierte Ziel-Guides findest du auf der Zercy-Blog-Übersicht.
 
 **Mehr lesen:**
-- [48 Stunden Prag: Das ehrliche Itinerar](/blog/48-stunden-prag)
-- [48 Stunden Wien: Was wirklich lohnt](/blog/48-stunden-wien)
-- [Günstig fliegen Tipps: So findest du die besten Preise](/blog/guenstig-fliegen-tipps)
+- [48 Stunden Prag: Das ehrliche Itinerar](/blog/48-stunden-prag/)
+- [48 Stunden Wien: Was wirklich lohnt](/blog/48-stunden-wien/)
+- [Günstig fliegen Tipps: So findest du die besten Preise](/blog/guenstig-fliegen-tipps/)
 
 ## Häufige Fragen
 

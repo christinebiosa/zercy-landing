@@ -70,9 +70,9 @@ The IDP costs between 15 and 20 euros. It takes ten minutes to get. The math her
 
 ## Read Next
 
-- [Rental Car Checklist: What to Check Before You Drive](/en/blog/rental-car-checklist)
-- [How Rental Consolidators Save You Money](/en/blog/rental-consolidators-save-money)
-- [Hidden Rental Car Costs and How to Avoid Them](/en/blog/rental-car-hidden-costs-avoid)
+- [Rental Car Checklist: What to Check Before You Drive](/en/blog/rental-car-checklist/)
+- [How Rental Consolidators Save You Money](/en/blog/rental-consolidators-save-money/)
+- [Hidden Rental Car Costs and How to Avoid Them](/en/blog/rental-car-hidden-costs-avoid/)
 
 ---
 
@@ -96,4 +96,4 @@ Fines, vehicle impoundment, or voided rental car insurance, depending on the cou
 
 ---
 
-*Keeping your travel documents organized before a trip saves real stress at the airport. See our [Travel Documents Guide](/en/blog/travel-documents-guide) for a complete checklist.*
+*Keeping your travel documents organized before a trip saves real stress at the airport. See our [Travel Documents Guide](/en/blog/travel-documents-guide/) for a complete checklist.*

@@ -104,6 +104,6 @@ Stanley Park: 8,8 km Seawall (Radfahren, Laufen), Totempfähle, Second Beach. Gr
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Los Angeles: Downtown oder Santa Monica?](/blog/wo-uebernachten-los-angeles)
-- [Wo übernachten in San Francisco: Union Square oder Mission?](/blog/wo-uebernachten-san-francisco)
-- [Wo übernachten in Toronto: Downtown Core oder Entertainment District?](/blog/wo-uebernachten-toronto)
+- [Wo übernachten in Los Angeles: Downtown oder Santa Monica?](/blog/wo-uebernachten-los-angeles/)
+- [Wo übernachten in San Francisco: Union Square oder Mission?](/blog/wo-uebernachten-san-francisco/)
+- [Wo übernachten in Toronto: Downtown Core oder Entertainment District?](/blog/wo-uebernachten-toronto/)

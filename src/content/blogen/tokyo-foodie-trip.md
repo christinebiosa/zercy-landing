@@ -114,7 +114,7 @@ Breakfast from the konbini saves 10 to 15 euros per day and still tastes great.
 
 Direct flights to Tokyo-Narita (NRT) or Haneda (HND). Haneda is closer to the city. Zercy finds both.
 
-Within the city: JR Pass only pays off for trips outside Tokyo. Inside Tokyo, get a Suica or Pasmo card for metro and bus. [More on train travel](/en/blog/train-travel-europe) in our train-travel piece (for Europe, but the principle is similar).
+Within the city: JR Pass only pays off for trips outside Tokyo. Inside Tokyo, get a Suica or Pasmo card for metro and bus. [More on train travel](/en/blog/train-travel-europe/) in our train-travel piece (for Europe, but the principle is similar).
 
 ## Practical Tips
 
@@ -126,9 +126,9 @@ Within the city: JR Pass only pays off for trips outside Tokyo. Inside Tokyo, ge
 
 ---
 
-Zercy plans your flights to Tokyo, the right hotel depending on which foodie district you want, and helps you with restaurant reservations. The [Zercy Logbook](/en/blog/zercy-logbook) keeps your week of eating chronologically organized.
+Zercy plans your flights to Tokyo, the right hotel depending on which foodie district you want, and helps you with restaurant reservations. The [Zercy Logbook](/en/blog/zercy-logbook/) keeps your week of eating chronologically organized.
 
-**Read more:** [Finding boutique hotels](/en/blog/boutique-hotels) · [Business class without miles](/en/blog/business-class-without-miles) · [Hidden gems of Europe](/en/blog/hidden-gems-europe)
+**Read more:** [Finding boutique hotels](/en/blog/boutique-hotels/) · [Business class without miles](/en/blog/business-class-without-miles/) · [Hidden gems of Europe](/en/blog/hidden-gems-europe/)
 
 ## Frequently Asked Questions
 

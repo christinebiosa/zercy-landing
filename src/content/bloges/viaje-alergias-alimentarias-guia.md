@@ -89,6 +89,6 @@ Como mínimo: dos EpiPens en el equipaje de mano (nunca en el facturado), antihi
 ---
 
 **Seguir leyendo:**
-- [Lista de equipaje para vuelos de larga distancia: lo que de verdad importa](/es/blog/lista-equipaje-viaje-esencial)
-- [Seguro de viaje: ¿qué vale la pena contratar?](/es/blog/seguro-viaje-vale-la-pena)
-- [Dónde alojarse en Tokio: los mejores barrios](/es/blog/donde-alojarse-tokio)
+- [Lista de equipaje para vuelos de larga distancia: lo que de verdad importa](/es/blog/lista-equipaje-viaje-esencial/)
+- [Seguro de viaje: ¿qué vale la pena contratar?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Dónde alojarse en Tokio: los mejores barrios](/es/blog/donde-alojarse-tokio/)

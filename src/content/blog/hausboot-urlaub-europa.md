@@ -58,11 +58,11 @@ Kleine Freundesgruppen mit unterschiedlichem Geschmack. Das Boot lässt sich tei
 
 Nicht geeignet für alle: Wer Sightseeing-Dichte braucht, ist auf einem Hausboot falsch. Du kommst pro Tag an zwei bis drei Orten an. Mehr nicht.
 
-Wenn du Slow Travel grundsätzlich interessant findest, ist ein Hausbooturlaub eine der reinsten Umsetzungen dieses Konzepts. Mehr dazu in [Was Slow Travel wirklich bedeutet](/blog/slow-travel-bedeutet-was).
+Wenn du Slow Travel grundsätzlich interessant findest, ist ein Hausbooturlaub eine der reinsten Umsetzungen dieses Konzepts. Mehr dazu in [Was Slow Travel wirklich bedeutet](/blog/slow-travel-bedeutet-was/).
 
-Für eine weitere Alternative zum klassischen Hotelurlaub: [Campervan Urlaub in Europa](/blog/campervan-urlaub-europa) hat eine ähnliche Logik. Eigener Schlafplatz, eigene Route, eigenes Tempo.
+Für eine weitere Alternative zum klassischen Hotelurlaub: [Campervan Urlaub in Europa](/blog/campervan-urlaub-europa/) hat eine ähnliche Logik. Eigener Schlafplatz, eigene Route, eigenes Tempo.
 
-Und wer das Reisen übers Wasser noch weiter denken will: [Fähren in Europa](/blog/faehren-europa-guide) und [Flusskreuzfahrten](/blog/flusskreuzfahrt-europa-guide) sind verwandte Konzepte mit sehr unterschiedlichem Charakter.
+Und wer das Reisen übers Wasser noch weiter denken will: [Fähren in Europa](/blog/faehren-europa-guide/) und [Flusskreuzfahrten](/blog/flusskreuzfahrt-europa-guide/) sind verwandte Konzepte mit sehr unterschiedlichem Charakter.
 
 ---
 
@@ -88,6 +88,6 @@ Mai, Juni und September. Die Hochsaison Juli bis August ist teurer, enger und w�
 
 ## Mehr lesen
 
-- [Campervan Urlaub in Europa](/blog/campervan-urlaub-europa)
-- [Slow Travel: Was das wirklich bedeutet](/blog/slow-travel-bedeutet-was)
-- [Flusskreuzfahrten Europa Guide](/blog/flusskreuzfahrt-europa-guide)
+- [Campervan Urlaub in Europa](/blog/campervan-urlaub-europa/)
+- [Slow Travel: Was das wirklich bedeutet](/blog/slow-travel-bedeutet-was/)
+- [Flusskreuzfahrten Europa Guide](/blog/flusskreuzfahrt-europa-guide/)

@@ -16,7 +16,7 @@ Whether you've dreamed of watching fireworks burst over Sydney Harbour, counting
 
 Seven places stand out from everything else.
 
-**Sydney** is the undisputed world capital of New Year's Eve. The fireworks over the Harbour Bridge and Opera House are genuinely in a class of their own. Two shows: a family-friendly display at 9 pm, then the full midnight spectacular. The catch: hotels run three to five times their normal price. People book accommodation a year in advance, and they're right to do it. If Sydney is on your list, read our guide on [where to stay in New York](/en/blog/where-to-stay-new-york) for a similar mindset on navigating inflated NYE hotel markets.
+**Sydney** is the undisputed world capital of New Year's Eve. The fireworks over the Harbour Bridge and Opera House are genuinely in a class of their own. Two shows: a family-friendly display at 9 pm, then the full midnight spectacular. The catch: hotels run three to five times their normal price. People book accommodation a year in advance, and they're right to do it. If Sydney is on your list, read our guide on [where to stay in New York](/en/blog/where-to-stay-new-york/) for a similar mindset on navigating inflated NYE hotel markets.
 
 **New York** at Times Square is iconic, but the reality is crowded, cold, and you can't leave once you're in. The smarter move: rooftop bars and private events with panoramic Manhattan views, no waiting in the cold since noon required. Prices are high across the board, but options exist at every level.
 
@@ -24,7 +24,7 @@ Seven places stand out from everything else.
 
 **Edinburgh Hogmanay** is for those who want NYE as a multi-day experience. Scotland's national New Year celebration runs three days: a torchlight procession, concerts, street parties, and the famous First Footing tradition. The castle as backdrop makes every photo look unreal.
 
-**Berlin** is the budget traveler's answer to spectacle. The Brandenburg Gate party is free. No tickets, no reservations, just show up. Hundreds of thousands of people, DJ stages, and fireworks visible from all over the city. More on timing and booking strategy in our [festival travel guide](/en/blog/festival-travel-guide).
+**Berlin** is the budget traveler's answer to spectacle. The Brandenburg Gate party is free. No tickets, no reservations, just show up. Hundreds of thousands of people, DJ stages, and fireworks visible from all over the city. More on timing and booking strategy in our [festival travel guide](/en/blog/festival-travel-guide/).
 
 **Bangkok** delivers warmth, affordability, and genuine visual drama. Multiple venues across the city, riverside celebrations, and hotel prices that stay reasonable even on December 31st. A strong case for Southeast Asia as the world's best value NYE region.
 
@@ -38,7 +38,7 @@ Supply and demand, compressed into one calendar date. Hotels near Sydney Harbour
 
 What this means for your planning: late booking means either paying dramatically more or finding nothing. For the top destinations, six months ahead is the minimum. Nine to twelve months is realistic if you want decent options at reasonable prices.
 
-Our guide on [when to book flights](/en/blog/when-to-book-flights) breaks down exactly when prices peak and when the deals disappear.
+Our guide on [when to book flights](/en/blog/when-to-book-flights/) breaks down exactly when prices peak and when the deals disappear.
 
 ## Are there budget-friendly alternatives to the big cities?
 
@@ -51,7 +51,7 @@ Smaller cities celebrate just as hard, without the price explosion. A few worth 
 - **Chiang Mai instead of Bangkok**: The lantern festival around the new year creates something genuinely magical, quieter, cheaper
 - **Copenhagen instead of Edinburgh**: Scandinavian style, beautiful setting, without the full festival infrastructure
 
-If you're considering South America for NYE, our [Argentina travel guide](/en/blog/argentina-travel-guide-highlights) has ideas beyond the obvious choices.
+If you're considering South America for NYE, our [Argentina travel guide](/en/blog/argentina-travel-guide-highlights/) has ideas beyond the obvious choices.
 
 ## How do you actually plan a New Year's trip?
 
@@ -70,9 +70,9 @@ The official Sydney NYE site has good information on viewing spots and ticketed 
 ---
 
 **Read more:**
-- [Festival Travel Guide: How to Plan Trips Around Major Events](/en/blog/festival-travel-guide)
-- [When to Book Flights: The Complete Price Guide](/en/blog/when-to-book-flights)
-- [Argentina Travel Guide: Highlights and Tips](/en/blog/argentina-travel-guide-highlights)
+- [Festival Travel Guide: How to Plan Trips Around Major Events](/en/blog/festival-travel-guide/)
+- [When to Book Flights: The Complete Price Guide](/en/blog/when-to-book-flights/)
+- [Argentina Travel Guide: Highlights and Tips](/en/blog/argentina-travel-guide-highlights/)
 
 ---
 

@@ -53,7 +53,7 @@ Kein Touristenmarkt, sondern ein echter: Eisstand, Pupusas, Ramen, griechisches 
 
 **Direktflüge**: Ab Frankfurt, München und Zürich nach LAX, ca. 11–12 Stunden. United, Lufthansa, Condor. Alternativ: über den Ostküste (New York, Chicago) oder über Mexiko.
 
-**Mietwagen**: In L.A. kommt man ohne Mietwagen nicht weit. Uber ist teuer und langsam im Stau, Busse existieren theoretisch aber sind nicht alltagstauglich für Touristen. Lies vorher unbedingt unseren [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check) — besonders die Hinweise zu Versicherung und Schädenprotokoll.
+**Mietwagen**: In L.A. kommt man ohne Mietwagen nicht weit. Uber ist teuer und langsam im Stau, Busse existieren theoretisch aber sind nicht alltagstauglich für Touristen. Lies vorher unbedingt unseren [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check/) — besonders die Hinweise zu Versicherung und Schädenprotokoll.
 
 **Fahrtzeit einplanen**: Stau in L.A. ist real. Von Venice nach Downtown: 20 Minuten ohne Stau, 75 Minuten mit. Google Maps Ankunftszeiten immer überprüfen.
 
@@ -95,4 +95,4 @@ Für Strandfans und entspannte Atmosphäre: Santa Monica oder Venice. Für urban
 
 Direktflug ab Frankfurt: 600–1.000 Euro Economy, 1.800–4.000 Euro Business. Hotel in guter Lage: 150–300 Euro/Nacht. Mietwagen: 50–100 Euro/Tag mit Versicherung. Essen: 15–50 Euro pro Mahlzeit (von In-N-Out bis Rooftop-Restaurant). Insgesamt für 7 Tage: 2.000–4.000 Euro pro Person ist realistisch.
 
-**Mehr lesen:** [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check) · [Business Class: Wann sie sich lohnt](/blog/business-class) · [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps)
+**Mehr lesen:** [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check/) · [Business Class: Wann sie sich lohnt](/blog/business-class/) · [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps/)

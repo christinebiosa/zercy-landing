@@ -44,7 +44,7 @@ Die Altstadt thront auf drei Hügeln über der Maritza. Römisches Amphitheater 
 
 Das Nachtleben ist jung, günstig und überraschend gut. Ein Bier kostet 1,50 Euro. Ein gutes Abendessen 10–15 Euro. Eine Woche in Plovdiv kostet weniger als ein Wochenende in Prag.
 
-**Anreise**: Flüge nach Sofia (1,5–2 Stunden Bus oder Zug) oder direkte Verbindungen von wenigen Städten nach Plovdiv (PDV). Mit dem [Zug durch Europa](/blog/zugreisen-europa) ist Sofia oft über Wien oder Wien–Sofia-Verbindung erreichbar.
+**Anreise**: Flüge nach Sofia (1,5–2 Stunden Bus oder Zug) oder direkte Verbindungen von wenigen Städten nach Plovdiv (PDV). Mit dem [Zug durch Europa](/blog/zugreisen-europa/) ist Sofia oft über Wien oder Wien–Sofia-Verbindung erreichbar.
 
 **Beste Reisezeit**: April bis Oktober. Sommer ist warm aber nicht extrem.
 
@@ -64,7 +64,7 @@ Ein UNESCO-Seengebiet — der Ohridsee gehört zu den ältesten und tiefsten See
 
 Weniger als 4 Flugstunden von Deutschland. Kaum Massentourismus — das Land hat keine große Marke und keine Kreuzfahrtschiffe. Fisch direkt am Seeufer essen für 8–12 Euro.
 
-Für Unterkünfte abseits des Standards lohnt sich hier besonders ein [Boutique-Hotel](/blog/boutique-hotels) — kleine Gästehäuser in der Altstadt sind das Herzstück des Erlebnisses.
+Für Unterkünfte abseits des Standards lohnt sich hier besonders ein [Boutique-Hotel](/blog/boutique-hotels/) — kleine Gästehäuser in der Altstadt sind das Herzstück des Erlebnisses.
 
 **Anreise**: Flüge nach Skopje (1,5 Stunden Bus) oder direkt nach Ohrid in der Saison von wenigen europäischen Städten.
 
@@ -114,4 +114,4 @@ Ohrid (Nordmazedonien): direkte Flüge ab Wien, Stuttgart. Plovdiv (Bulgarien): 
 
 Manche: ja. Valletta hat 2018 als Kulturhauptstadt deutlich mehr Aufmerksamkeit bekommen. Ohrid wächst. Kotor kennen Kreuzfahrtschiffe schon. Das Ziel ist: früher als der Hype hinfahren. Und wenn doch etwas bekannter wird — die richtige Jahreszeit wählen macht oft den entscheidenden Unterschied.
 
-**Mehr lesen:** [Boutique-Hotels: Warum kleine Hotels oft besser sind](/blog/boutique-hotels) · [Mit dem Zug durch Europa](/blog/zugreisen-europa) · [Tropisches Costa Rica: Surfen & Pura Vida](/blog/costa-rica-surfen)
+**Mehr lesen:** [Boutique-Hotels: Warum kleine Hotels oft besser sind](/blog/boutique-hotels/) · [Mit dem Zug durch Europa](/blog/zugreisen-europa/) · [Tropisches Costa Rica: Surfen & Pura Vida](/blog/costa-rica-surfen/)

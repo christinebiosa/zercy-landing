@@ -71,7 +71,7 @@ South Delhi is the green, residential counterpart to the bustling north. Lajpat 
 
 **Top picks:** The Manor New Delhi (boutique with a green garden, genuinely peaceful), Olive Qutab (boutique near Qutub Minar, great restaurant), Bloomrooms Hotel (design boutique, contemporary style).
 
-For similar neighborhood tradeoffs in another Asian capital, see our [Where to Stay in Tokyo](/en/blog/where-to-stay-tokyo) guide.
+For similar neighborhood tradeoffs in another Asian capital, see our [Where to Stay in Tokyo](/en/blog/where-to-stay-tokyo/) guide.
 
 ## Aerocity: Right at the Airport
 
@@ -95,7 +95,7 @@ For Delhi, [Booking.com](https://www.booking.com) is the strongest platform:
 
 Direct booking makes sense at The Imperial or Oberoi for possible heritage wing upgrades.
 
-See also our [Where to Stay in Hong Kong](/en/blog/where-to-stay-hong-kong) guide for similar neighborhood selection thinking in another Asian metropolis.
+See also our [Where to Stay in Hong Kong](/en/blog/where-to-stay-hong-kong/) guide for similar neighborhood selection thinking in another Asian metropolis.
 
 ---
 
@@ -122,6 +122,6 @@ The Taj Mahal is about 200 km from Delhi. The Gatimaan Express or Shatabdi Expre
 ---
 
 **Read more:**
-- [Where to Stay in Tokyo: The 5 Neighborhoods](/en/blog/where-to-stay-tokyo)
-- [Where to Stay in Hong Kong: Central, Kowloon or Wan Chai?](/en/blog/where-to-stay-hong-kong)
-- [Where to Stay in Bangkok: Modern vs. Historic Bangkok](/en/blog/where-to-stay-bangkok)
+- [Where to Stay in Tokyo: The 5 Neighborhoods](/en/blog/where-to-stay-tokyo/)
+- [Where to Stay in Hong Kong: Central, Kowloon or Wan Chai?](/en/blog/where-to-stay-hong-kong/)
+- [Where to Stay in Bangkok: Modern vs. Historic Bangkok](/en/blog/where-to-stay-bangkok/)

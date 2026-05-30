@@ -57,15 +57,15 @@ El Palacio de Charlottenburg merece una visita si te gustan los jardines. El par
 
 Berlín no tiene el skyline de París, pero tiene buenos miradores. El bar en azotea Klunkerkranich en Neukölln (sobre un aparcamiento), el restaurante de la Torre de Televisión en Alexanderplatz y varios rooftops en Mitte ofrecen panorámicas sólidas. La torre de Alexanderplatz gira una vez por hora; la entrada cuesta unos 25 euros.
 
-Potsdamer Platz es más animado de noche que de día. La cúpula de cristal del Sony Center, el complejo Cinestar y los restaurantes alrededor de la plaza lo convierten en una buena base para la última noche berlinesa. Menos intenso que Kreuzberg, pero central y bien comunicado. Si quieres más tiempo en Berlín, tenemos una guía completa sobre [dónde alojarse en Berlín](/es/blog/donde-alojarse-berlin) con todos los barrios por presupuesto.
+Potsdamer Platz es más animado de noche que de día. La cúpula de cristal del Sony Center, el complejo Cinestar y los restaurantes alrededor de la plaza lo convierten en una buena base para la última noche berlinesa. Menos intenso que Kreuzberg, pero central y bien comunicado. Si quieres más tiempo en Berlín, tenemos una guía completa sobre [dónde alojarse en Berlín](/es/blog/donde-alojarse-berlin/) con todos los barrios por presupuesto.
 
 ## ¿Cuánto cuesta un fin de semana en Berlín?
 
-Berlín es asequible para una capital europea. El Museo del Pérgamo cuesta 14 euros. El Memorial del Holocausto y la East Side Gallery son gratuitos. Un billete de 24 horas para el transporte público BVG cuesta 9,90 euros. Cenar en Kreuzberg o Neukölln: entre 10 y 20 euros por persona. En cuanto a alojamiento, Prenzlauer Berg y Mitte son céntricos pero más caros. Friedrichshain y Neukölln salen más baratos para un confort equivalente. Para ampliar perspectiva, nuestro artículo sobre cómo [evitar errores clásicos de viaje](/es/blog/errores-viaje-evitar-clasicos) también aplica al viaje a Berlín.
+Berlín es asequible para una capital europea. El Museo del Pérgamo cuesta 14 euros. El Memorial del Holocausto y la East Side Gallery son gratuitos. Un billete de 24 horas para el transporte público BVG cuesta 9,90 euros. Cenar en Kreuzberg o Neukölln: entre 10 y 20 euros por persona. En cuanto a alojamiento, Prenzlauer Berg y Mitte son céntricos pero más caros. Friedrichshain y Neukölln salen más baratos para un confort equivalente. Para ampliar perspectiva, nuestro artículo sobre cómo [evitar errores clásicos de viaje](/es/blog/errores-viaje-evitar-clasicos/) también aplica al viaje a Berlín.
 
 ## ¿Cuándo es mejor visitar Berlín?
 
-De mayo a septiembre. El verano activa los parques de Berlín, los escenarios al aire libre, los beach bars a orillas del Müggelsee y toda la energía exterior del Mauerpark los sábados. Septiembre es el punto dulce: todavía cálido, menos masificado que julio y agosto, y con la agenda de eventos en pleno apogeo. Antes de fijar fechas, revisar [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos) puede salirte bien si tienes flexibilidad.
+De mayo a septiembre. El verano activa los parques de Berlín, los escenarios al aire libre, los beach bars a orillas del Müggelsee y toda la energía exterior del Mauerpark los sábados. Septiembre es el punto dulce: todavía cálido, menos masificado que julio y agosto, y con la agenda de eventos en pleno apogeo. Antes de fijar fechas, revisar [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) puede salirte bien si tienes flexibilidad.
 
 Zercy encuentra el vuelo más barato a Berlín y tu hotel en un solo paso. Guarda todo en el [Zercy Logbook](https://www.zercy.app/logbook) para cuando reserves.
 
@@ -92,6 +92,6 @@ La mayoría de los Staatliche Museen en la Isla de los Museos abren de martes a 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Berlín: barrios y hoteles por presupuesto](/es/blog/donde-alojarse-berlin)
-- [Errores clásicos de viaje que puedes evitar fácilmente](/es/blog/errores-viaje-evitar-clasicos)
-- [Cuándo reservar vuelos: el momento óptimo según el destino](/es/blog/cuando-reservar-vuelos)
+- [Dónde alojarse en Berlín: barrios y hoteles por presupuesto](/es/blog/donde-alojarse-berlin/)
+- [Errores clásicos de viaje que puedes evitar fácilmente](/es/blog/errores-viaje-evitar-clasicos/)
+- [Cuándo reservar vuelos: el momento óptimo según el destino](/es/blog/cuando-reservar-vuelos/)

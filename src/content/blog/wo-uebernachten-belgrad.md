@@ -47,7 +47,7 @@ Savamala ist das, was der Prenzlauer Berg mal war. Alte Lagerhäuser unter der B
 
 **Top-Picks:** Savamala Bed & Breakfast (charmant und zentral im Viertel), Mama Shelter Belgrade (Boutique-Design, tolle Bar, lebendige Atmosphäre).
 
-Lies dazu auch unseren [Belgrad Waterfront-Guide](/blog/wo-uebernachten-sarajevo) für nahegelegene Ziele auf der Balkantour.
+Lies dazu auch unseren [Belgrad Waterfront-Guide](/blog/wo-uebernachten-sarajevo/) für nahegelegene Ziele auf der Balkantour.
 
 ## Vračar: Lokales Belgrad
 
@@ -119,5 +119,5 @@ Novi Beograd liegt auf der anderen Save-Seite, getrennt durch die Brücke. Mit d
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Budapest: Die besten Stadtteile](/blog/wo-uebernachten-budapest)
-- [Wo übernachten in Sarajevo: Die besten Stadtteile](/blog/wo-uebernachten-sarajevo)
+- [Wo übernachten in Budapest: Die besten Stadtteile](/blog/wo-uebernachten-budapest/)
+- [Wo übernachten in Sarajevo: Die besten Stadtteile](/blog/wo-uebernachten-sarajevo/)

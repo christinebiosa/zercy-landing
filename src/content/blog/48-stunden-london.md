@@ -33,7 +33,7 @@ Der Nachmittag gehört der **South Bank**. Entlang der Themse nach Westen laufen
 
 Abends: **Covent Garden** für die erste Stunde. Street-Performer, historische Markthalle, gute Stimmung. Dann weiter in Richtung **West End** wenn du ein Theaterticket hast. London hat die beste Theaterszene der Welt. Letzte-Minute-Tickets gibt es oft ab 30 bis 40 Pfund, entweder direkt an der Box Office oder über die App TKTS. Den Abend beschließt du in **Soho**: Restaurants aus jeder Küche der Welt, lebendige Bars, kaum eine andere Stadt macht das so dicht auf so engem Raum.
 
-Wer noch nicht weiß, wo er schläft: Unser Guide zu [wo du in London übernachtest](/blog/wo-uebernachten-london) hilft dir, das richtige Viertel nach Budget und Stil zu finden.
+Wer noch nicht weiß, wo er schläft: Unser Guide zu [wo du in London übernachtest](/blog/wo-uebernachten-london/) hilft dir, das richtige Viertel nach Budget und Stil zu finden.
 
 ## Tag 2: Notting Hill, Hyde Park und Chelsea
 
@@ -47,7 +47,7 @@ Chelsea lohnt sich als kurzer Spaziergang nach dem Museum, besonders die King's 
 
 Den letzten Abend gibt es in zwei Varianten. **Sky Garden** (Fenchurch Street, Buchung Pflicht, kostenlos) ist ein öffentlicher Dachgarten auf dem 35. Stockwerk mit Panoramablick über die City. **The Shard** bietet ebenfalls spektakuläre Aussicht, aber gegen Eintritt. Wer sparen will: Die Sky Garden Buchung reicht, kostet nichts außer Vorsicht beim Timing (frühzeitig buchen, die Slots sind schnell weg).
 
-Danach Abfahrt. Gatwick, Heathrow, St. Pancras für Eurostar: plane mindestens 60 Minuten Puffer ein. Mehr zu Transfers und [Flughafentransfer-Tipps](/blog/flughafentransfer-tipps-2026) findest du im Zercy-Guide.
+Danach Abfahrt. Gatwick, Heathrow, St. Pancras für Eurostar: plane mindestens 60 Minuten Puffer ein. Mehr zu Transfers und [Flughafentransfer-Tipps](/blog/flughafentransfer-tipps-2026/) findest du im Zercy-Guide.
 
 ## Wann ist die beste Reisezeit für London?
 
@@ -69,7 +69,7 @@ Sehenswürdigkeiten: Tower of London ca. 34 Pfund, Tower Bridge Experience ca. 1
 
 Alles ohne Flug und Hotel: Realistisch 150 bis 250 Pfund für zwei Tage, je nach Theaterticket und Museum-Auswahl.
 
-Wer das Reisegepäck minimieren und günstigere Flüge buchen will: Unser Guide zu [nur mit Handgepäck](/blog/nur-handgepaeck) spart dir Gepäckgebühren. Und [wann Flüge buchen](/blog/wann-fluege-buchen) zeigt, ab wann die Preise nach London wieder steigen.
+Wer das Reisegepäck minimieren und günstigere Flüge buchen will: Unser Guide zu [nur mit Handgepäck](/blog/nur-handgepaeck/) spart dir Gepäckgebühren. Und [wann Flüge buchen](/blog/wann-fluege-buchen/) zeigt, ab wann die Preise nach London wieder steigen.
 
 ---
 
@@ -93,11 +93,11 @@ Oyster Card oder kontaktlose Kreditkarte für die Tube. Tagesdeckel greift autom
 
 ### Welches Viertel eignet sich am besten für eine Übernachtung in London?
 
-Shoreditch (East) und South Bank (East/Central) sind trendy und gut erreichbar. Notting Hill und South Kensington (West) sind ruhiger und touristischer. Covent Garden liegt genau in der Mitte und ist für ein Theaterticket optimal. Details zu Hotels nach Stadtteil und Budget gibt es im [London-Übernachtungsguide](/blog/wo-uebernachten-london).
+Shoreditch (East) und South Bank (East/Central) sind trendy und gut erreichbar. Notting Hill und South Kensington (West) sind ruhiger und touristischer. Covent Garden liegt genau in der Mitte und ist für ein Theaterticket optimal. Details zu Hotels nach Stadtteil und Budget gibt es im [London-Übernachtungsguide](/blog/wo-uebernachten-london/).
 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in London: Stadtteil-Guide mit Hotel-Empfehlungen](/blog/wo-uebernachten-london)
-- [Nur mit Handgepäck: Wie du das Aufgeben sparst](/blog/nur-handgepaeck)
-- [Wann Flüge buchen: Beste Preise für London und andere Städte](/blog/wann-fluege-buchen)
+- [Wo übernachten in London: Stadtteil-Guide mit Hotel-Empfehlungen](/blog/wo-uebernachten-london/)
+- [Nur mit Handgepäck: Wie du das Aufgeben sparst](/blog/nur-handgepaeck/)
+- [Wann Flüge buchen: Beste Preise für London und andere Städte](/blog/wann-fluege-buchen/)

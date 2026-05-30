@@ -81,7 +81,7 @@ Para Christchurch, [Booking.com](https://www.booking.com) hace transparente la d
 
 ### ¿A qué distancia está Queenstown de Christchurch?
 
-Queenstown está a 360 kilómetros al suroeste. En vuelo doméstico: 45 minutos, billetes desde 60 NZD (30 EUR). En coche o autobús por las carreteras panorámicas 73 y 8: unas 5 o 6 horas, uno de los trayectos más hermosos de la Isla Sur. En autobús InterCity: 7-8 horas. El vuelo se recomienda para tramos de un solo sentido. La [guía de Queenstown](/es/blog/donde-alojarse-queenstown) cubre lo que viene después.
+Queenstown está a 360 kilómetros al suroeste. En vuelo doméstico: 45 minutos, billetes desde 60 NZD (30 EUR). En coche o autobús por las carreteras panorámicas 73 y 8: unas 5 o 6 horas, uno de los trayectos más hermosos de la Isla Sur. En autobús InterCity: 7-8 horas. El vuelo se recomienda para tramos de un solo sentido. La [guía de Queenstown](/es/blog/donde-alojarse-queenstown/) cubre lo que viene después.
 
 ### ¿Qué no hay que perderse en Christchurch?
 
@@ -89,7 +89,7 @@ Botanic Gardens (gratis, el pulmón verde de Christchurch), Re:START Container M
 
 ### ¿Qué excursiones hay desde Christchurch?
 
-Akaroa (encantador pueblo portuario en una península volcánica, 90 minutos, natación con delfines), Kaikōura (avistamiento de ballenas, 2,5 horas al norte), Campo de esquí Mount Hutt (75 minutos al oeste), Parque Nacional Arthur's Pass (montañas, 90 minutos, senderismo y ferrocarril). La [guía de Auckland](/es/blog/donde-alojarse-auckland) da una visión general de la mejor estrategia para toda la isla.
+Akaroa (encantador pueblo portuario en una península volcánica, 90 minutos, natación con delfines), Kaikōura (avistamiento de ballenas, 2,5 horas al norte), Campo de esquí Mount Hutt (75 minutos al oeste), Parque Nacional Arthur's Pass (montañas, 90 minutos, senderismo y ferrocarril). La [guía de Auckland](/es/blog/donde-alojarse-auckland/) da una visión general de la mejor estrategia para toda la isla.
 
 ### ¿Es seguro Christchurch para los turistas?
 
@@ -98,6 +98,6 @@ Christchurch es una de las grandes ciudades más seguras de Oceanía. La única 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Queenstown: ¿Aventura o relajación?](/es/blog/donde-alojarse-queenstown)
-- [Dónde alojarse en Auckland: ¿Ciudad o ribera?](/es/blog/donde-alojarse-auckland)
-- [Australia: Cómo combinarlo de forma óptima con Nueva Zelanda](/es/blog/australia-ruta-completa)
+- [Dónde alojarse en Queenstown: ¿Aventura o relajación?](/es/blog/donde-alojarse-queenstown/)
+- [Dónde alojarse en Auckland: ¿Ciudad o ribera?](/es/blog/donde-alojarse-auckland/)
+- [Australia: Cómo combinarlo de forma óptima con Nueva Zelanda](/es/blog/australia-ruta-completa/)

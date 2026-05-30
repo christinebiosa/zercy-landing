@@ -32,7 +32,7 @@ Depende de la aerolínea, pero hay estándares comunes en las principales rutas 
 
 El asiento flat bed es lo más valorado. Se convierte en cama completa. No es una inclinación generosa: es horizontal. La mayoría de las aerolíneas en rutas transoceánicas ya lo ofrecen como estándar en business.
 
-El **acceso a sala VIP** llega incluido. Puedes entrar antes del vuelo, comer, trabajar con wifi y ducharte en algunos aeropuertos. Si no tienes tarjeta con acceso, vale la pena considerarlo. Puedes leer más sobre esto en nuestra guía de [acceso a sala VIP sin clase business](/es/blog/acceso-sala-vip-sin-business).
+El **acceso a sala VIP** llega incluido. Puedes entrar antes del vuelo, comer, trabajar con wifi y ducharte en algunos aeropuertos. Si no tienes tarjeta con acceso, vale la pena considerarlo. Puedes leer más sobre esto en nuestra guía de [acceso a sala VIP sin clase business](/es/blog/acceso-sala-vip-sin-business/).
 
 La comida es otro punto diferencial. No es catering de avión genérico: hay menú con opciones, servicio en mesa y, en muchas aerolíneas, vinos decentes. En rutas premium como [Qatar Airways](https://www.qatarairways.com/es-es/onboard/qsuites.html) o Singapore Airlines, el nivel es comparable a un restaurante real.
 
@@ -42,13 +42,13 @@ El priority boarding y el equipaje extra se suman. Menos tiempo esperando, menos
 
 El precio publicado en business no es el único precio. Hay varios caminos para pagar menos.
 
-**Millas y puntos.** Es la forma más eficiente de acceder a business en rutas largas. Si acumulas millas con constancia, un vuelo de ida y vuelta a Asia puede costar entre 60.000 y 100.000 millas. Si apenas estás empezando, nuestra guía de [millas y puntos para principiantes](/es/blog/millas-puntos-principiantes) explica cómo funciona.
+**Millas y puntos.** Es la forma más eficiente de acceder a business en rutas largas. Si acumulas millas con constancia, un vuelo de ida y vuelta a Asia puede costar entre 60.000 y 100.000 millas. Si apenas estás empezando, nuestra guía de [millas y puntos para principiantes](/es/blog/millas-puntos-principiantes/) explica cómo funciona.
 
-**Bidding de upgrades.** Muchas aerolíneas permiten hacer una oferta económica para subir de clase. Lo gestionan con subastas automáticas días antes del vuelo. Explicamos el proceso completo en nuestra guía sobre [puja para upgrade a clase business](/es/blog/puja-upgrade-clase-business).
+**Bidding de upgrades.** Muchas aerolíneas permiten hacer una oferta económica para subir de clase. Lo gestionan con subastas automáticas días antes del vuelo. Explicamos el proceso completo en nuestra guía sobre [puja para upgrade a clase business](/es/blog/puja-upgrade-clase-business/).
 
 **Upgrades en el gate.** Llegar pronto al aeropuerto y preguntar directamente. Funciona mejor en vuelos poco ocupados. No siempre está disponible, pero en rutas con baja demanda, algunos agentes ofrecen el upgrade a precio reducido.
 
-**Rutas con menor demanda.** Business en vuelos Europa-Latinoamérica o rutas secundarias suele ser más accesible que en los corredores estrella como Nueva York-Londres. Buscar en fechas flexibles ayuda mucho. También puedes encontrar tarifas más bajas siguiendo los consejos de nuestra guía de [vuelos baratos](/es/blog/consejos-vuelos-baratos).
+**Rutas con menor demanda.** Business en vuelos Europa-Latinoamérica o rutas secundarias suele ser más accesible que en los corredores estrella como Nueva York-Londres. Buscar en fechas flexibles ayuda mucho. También puedes encontrar tarifas más bajas siguiendo los consejos de nuestra guía de [vuelos baratos](/es/blog/consejos-vuelos-baratos/).
 
 **Errores de tarifa.** Ocurren. Aerolíneas publican tarifas de business a precios de turista por error. Son oportunidades que duran horas. Vale la pena tener alertas activas.
 
@@ -82,12 +82,12 @@ Qatar Airways con sus Qsuites, Singapore Airlines y Emirates son consistentement
 
 ### ¿Cómo conseguir un upgrade a clase business sin pagar el precio completo?
 
-Con millas acumuladas, participando en subastas de upgrade o preguntando en el gate. Nuestra guía sobre [cómo volar en business sin millas de lotería](/es/blog/business-class-sin-millas) explica las opciones paso a paso.
+Con millas acumuladas, participando en subastas de upgrade o preguntando en el gate. Nuestra guía sobre [cómo volar en business sin millas de lotería](/es/blog/business-class-sin-millas/) explica las opciones paso a paso.
 
 ---
 
 ## Más sobre viajes inteligentes
 
-- [Clase business sin millas: las opciones reales](/es/blog/business-class-sin-millas)
-- [Cuándo reservar vuelos para pagar menos](/es/blog/cuando-reservar-vuelos)
-- [Acceso a sala VIP sin volar en business](/es/blog/acceso-sala-vip-sin-business)
+- [Clase business sin millas: las opciones reales](/es/blog/business-class-sin-millas/)
+- [Cuándo reservar vuelos para pagar menos](/es/blog/cuando-reservar-vuelos/)
+- [Acceso a sala VIP sin volar en business](/es/blog/acceso-sala-vip-sin-business/)

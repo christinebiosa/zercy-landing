@@ -85,7 +85,7 @@ Gold Coast Airport (Coolangatta) is 25 km south of Surfers Paradise. By bus (Sur
 
 ### What should you not miss on the Gold Coast?
 
-Learn to surf in Surfers Paradise (lessons from 60 AUD), Springbrook National Park day trip (rainforest, waterfalls), Warner Bros. Movie World or Dreamworld (theme parks, good for families), Sea World, Currumbin Wildlife Sanctuary (kangaroos and koalas up close). The [Australia road trip guide](/en/blog/australia-road-trip-route) maps the optimal Queensland combination.
+Learn to surf in Surfers Paradise (lessons from 60 AUD), Springbrook National Park day trip (rainforest, waterfalls), Warner Bros. Movie World or Dreamworld (theme parks, good for families), Sea World, Currumbin Wildlife Sanctuary (kangaroos and koalas up close). The [Australia road trip guide](/en/blog/australia-road-trip-route/) maps the optimal Queensland combination.
 
 ### How far is the Gold Coast from Brisbane?
 
@@ -98,6 +98,6 @@ Burleigh Heads is considered the best by surfers. Coolangatta (Snapper Rocks) ha
 ---
 
 **Read more:**
-- [Australia Road Trip: The Optimal Route through the Continent](/en/blog/australia-road-trip-route)
-- [Where to Stay in Brisbane: The Best Neighborhoods](/en/blog/where-to-stay-brisbane)
-- [Where to Stay in Sydney: CBD, Bondi or Manly?](/en/blog/where-to-stay-sydney)
+- [Australia Road Trip: The Optimal Route through the Continent](/en/blog/australia-road-trip-route/)
+- [Where to Stay in Brisbane: The Best Neighborhoods](/en/blog/where-to-stay-brisbane/)
+- [Where to Stay in Sydney: CBD, Bondi or Manly?](/en/blog/where-to-stay-sydney/)

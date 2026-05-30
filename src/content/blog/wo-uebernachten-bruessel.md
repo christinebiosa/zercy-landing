@@ -61,7 +61,7 @@ Direkt südlich des Stadtzentrums, flache Gassen, Jugendstil-Fassaden im Stil vo
 
 **Top-Picks:** Hotel Manos Premier (Boutique in einem Art-Déco-Herrenhaus), Le Berger Hotel (historisch, zentral), Pillows Grand Boutique Hotel Brussels.
 
-Lies auch unseren [Wien-Stadtteile-Guide](/blog/wo-uebernachten-wien) für ähnliche Jugendstil-Architektur-Städte.
+Lies auch unseren [Wien-Stadtteile-Guide](/blog/wo-uebernachten-wien/) für ähnliche Jugendstil-Architektur-Städte.
 
 ## Uccle/Ukkel: Das ruhige Brüssel
 
@@ -94,7 +94,7 @@ Für Brüssel ist [Booking.com](https://www.booking.com) die beste Plattform:
 
 Direktbuchung lohnt nur bei Top-Luxus-Häusern (Amigo, Hotel Brussels) für mögliche Upgrade-Behandlung.
 
-Lies auch unseren [Paris-Stadtteil-Guide](/blog/wo-uebernachten-paris) und [Amsterdam-Stadtteile-Guide](/blog/wo-uebernachten-amsterdam) für ähnlich vielfältige europäische Städte.
+Lies auch unseren [Paris-Stadtteil-Guide](/blog/wo-uebernachten-paris/) und [Amsterdam-Stadtteile-Guide](/blog/wo-uebernachten-amsterdam/) für ähnlich vielfältige europäische Städte.
 
 ---
 
@@ -121,6 +121,6 @@ Juli und August sind warm und voll. September ist die bessere Wahl. EU-Gipfelwoc
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Amsterdam: Die 5 Stadtteile](/blog/wo-uebernachten-amsterdam)
-- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
+- [Wo übernachten in Amsterdam: Die 5 Stadtteile](/blog/wo-uebernachten-amsterdam/)
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)

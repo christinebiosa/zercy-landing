@@ -38,7 +38,7 @@ The biggest fear isn't money. It's the question: Will I still have a career when
 
 **Quit with a plan.** Not a horror scenario. A strategic decision. Save aggressively for 18 months, build a buffer, give proper notice and go. Many employers hire returning travelers more readily than you'd think. The resume gap is not the problem it used to be. More on that below.
 
-**Take your work with you.** If your role allows it, work remotely. Three to four hours a day, the rest is yours. That's workation. Our [workation and tax guide for 2026](/en/blog/workation-tax-rules-2026) covers what you need to know before you go.
+**Take your work with you.** If your role allows it, work remotely. Three to four hours a day, the rest is yours. That's workation. Our [workation and tax guide for 2026](/en/blog/workation-tax-rules-2026/) covers what you need to know before you go.
 
 ---
 
@@ -58,7 +58,7 @@ Use [Zercy](https://zercy.app) to compare flight prices for your route and find 
 
 Short answer. Important one.
 
-**Health insurance:** International long-stay travel insurance starts at 50 to 80 euros a month and covers you for most destinations. Many people combine this with a policy from their home country during transition periods. Details in our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026).
+**Health insurance:** International long-stay travel insurance starts at 50 to 80 euros a month and covers you for most destinations. Many people combine this with a policy from their home country during transition periods. Details in our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 **Pension:** One year off makes little difference over a long career. Some countries allow voluntary contributions during a leave. Worth looking into if you're close to a threshold, otherwise don't overthink it.
 
@@ -70,7 +70,7 @@ Forget the classic backpacker circuit. Those routes were designed for 22-year-ol
 
 **Comfort backpacking in Southeast Asia.** Vietnam, Thailand, Cambodia, Indonesia. Private rooms over dorms, occasional boutique hotel, local food. Costs stay low, quality of life stays high.
 
-**Slow travel in Central and South America.** Costa Rica, Guatemala, Colombia. One month per country. Rent apartments instead of booking hotels. Add a language course. [What visas you actually need is covered in our digital nomad visa guide](/en/blog/digital-nomad-visa-countries-2026).
+**Slow travel in Central and South America.** Costa Rica, Guatemala, Colombia. One month per country. Rent apartments instead of booking hotels. Add a language course. [What visas you actually need is covered in our digital nomad visa guide](/en/blog/digital-nomad-visa-countries-2026/).
 
 **Workation route through Europe.** Portugal, Croatia, Georgia. Surprisingly affordable, excellent internet, welcoming to mature travelers. Ideal if you're working part-time while you go.
 
@@ -88,7 +88,7 @@ Longer answer: You spent a year learning to operate in uncertainty, building cro
 
 Prepare a clean 60-second answer: what you did, what you learned, how it applies now. Employers who ask about the gap are giving you an opening, not setting a trap.
 
-Our full [sabbatical planning guide](/en/blog/sabbatical-planning-guide) walks through how to structure the conversation with your employer before you go.
+Our full [sabbatical planning guide](/en/blog/sabbatical-planning-guide/) walks through how to structure the conversation with your employer before you go.
 
 ---
 
@@ -117,6 +117,6 @@ Start here. Compare flights, plan your route, find the cheapest travel windows: 
 ---
 
 **Read more:**
-- [How to request a sabbatical: the complete guide](/en/blog/sabbatical-planning-guide)
-- [Workation and taxes 2026: what you need to know](/en/blog/workation-tax-rules-2026)
-- [Digital nomad visas: countries that offer them in 2026](/en/blog/digital-nomad-visa-countries-2026)
+- [How to request a sabbatical: the complete guide](/en/blog/sabbatical-planning-guide/)
+- [Workation and taxes 2026: what you need to know](/en/blog/workation-tax-rules-2026/)
+- [Digital nomad visas: countries that offer them in 2026](/en/blog/digital-nomad-visa-countries-2026/)

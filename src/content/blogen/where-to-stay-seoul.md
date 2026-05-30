@@ -47,7 +47,7 @@ Seoul's Beverly Hills (made world-famous by Psy's "Gangnam Style"). Skyscrapers,
 
 **Top picks:** Park Hyatt Seoul (5-star with skyline pool), Grand InterContinental Seoul Parnas (premium at COEX), JW Marriott Hotel Seoul (modern 5-star).
 
-See our [Tokyo guide](/en/blog/where-to-stay-tokyo), Seoul and Tokyo are often joint Asia routes.
+See our [Tokyo guide](/en/blog/where-to-stay-tokyo/), Seoul and Tokyo are often joint Asia routes.
 
 ## When is the best time to visit Seoul?
 
@@ -129,6 +129,6 @@ Backpacker: $900-1,400 per person incl. flight (hostel in Hongdae, street food $
 ---
 
 **Read more:**
-- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo)
-- [Where to stay in Hong Kong: 4 neighborhoods](/en/blog/where-to-stay-hong-kong)
-- [Tokyo foodie trip: best spots](/en/blog/tokyo-foodie-trip)
+- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo/)
+- [Where to stay in Hong Kong: 4 neighborhoods](/en/blog/where-to-stay-hong-kong/)
+- [Tokyo foodie trip: best spots](/en/blog/tokyo-foodie-trip/)

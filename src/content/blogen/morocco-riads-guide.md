@@ -25,7 +25,7 @@ Third: the service. In the best riads a family cooks for you. Breakfast on the r
 
 ## Which cities are the best choice?
 
-**Marrakech.** The obvious first pick. Largest selection of riads, liveliest medina. Ideal for first-timers, but very touristy. Book at least 2 months ahead for the best options. See our [boutique hotels guide](/en/blog/boutique-hotels) if you want to compare concepts from other cities.
+**Marrakech.** The obvious first pick. Largest selection of riads, liveliest medina. Ideal for first-timers, but very touristy. Book at least 2 months ahead for the best options. See our [boutique hotels guide](/en/blog/boutique-hotels/) if you want to compare concepts from other cities.
 
 **Fes.** The older, more authentic sister city. The Fes medina is the world's largest car-free old town. Riads here are often more carefully restored and less touristy. If you want the real Morocco, this is the destination.
 
@@ -57,7 +57,7 @@ The most important question. Three reliable paths.
 
 **Specialist platforms.** Boutique sites like Mr & Mrs Smith or Tablet Hotels curate the best riads in Morocco editorially. Higher prices, guaranteed quality.
 
-If you're planning a riad as part of a longer Morocco trip, see our [European and North African hidden gems guide](/en/blog/hidden-gems-europe). For inspiration off the typical paths, our [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail) article has the same flavor.
+If you're planning a riad as part of a longer Morocco trip, see our [European and North African hidden gems guide](/en/blog/hidden-gems-europe/). For inspiration off the typical paths, our [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail/) article has the same flavor.
 
 ---
 
@@ -84,6 +84,6 @@ Near the Mellah (Jewish quarter) or in the northern medina is quieter. Right at 
 ---
 
 **Read more:**
-- [Boutique hotels worldwide: small houses with character](/en/blog/boutique-hotels)
-- [Hidden gems in Europe: 7 places without mass tourism](/en/blog/hidden-gems-europe)
-- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail)
+- [Boutique hotels worldwide: small houses with character](/en/blog/boutique-hotels/)
+- [Hidden gems in Europe: 7 places without mass tourism](/en/blog/hidden-gems-europe/)
+- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail/)

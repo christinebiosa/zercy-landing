@@ -49,7 +49,7 @@ El Aeropuerto de Santiago de Compostela (SCQ) tiene conexiones con Madrid, Barce
 
 Para los que hacen solo los últimos 100 km, Sarria (Lugo) tiene estación de tren con conexiones desde Madrid y Barcelona. Porto tiene aeropuerto internacional con excelentes conexiones.
 
-Al llegar a Santiago, la catedral y la Oficina del Peregrino (donde se recoge la Compostela) están en el centro histórico, Patrimonio de la Humanidad. Para el alojamiento en Santiago, consulta nuestra guía de [dónde alojarse en Santiago de Compostela](/es/blog/donde-alojarse-madrid) o compara opciones en [Zercy](https://www.zercy.app).
+Al llegar a Santiago, la catedral y la Oficina del Peregrino (donde se recoge la Compostela) están en el centro histórico, Patrimonio de la Humanidad. Para el alojamiento en Santiago, consulta nuestra guía de [dónde alojarse en Santiago de Compostela](/es/blog/donde-alojarse-madrid/) o compara opciones en [Zercy](https://www.zercy.app).
 
 Zercy puede ayudarte a organizar los vuelos y el alojamiento de los días en Santiago. Guarda tu itinerario en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -76,6 +76,6 @@ La llegada a la Plaza del Obradoiro frente a la catedral es uno de los momentos 
 ---
 
 **Más para leer:**
-- [Road trip: cómo planificar las etapas perfectas](/es/blog/roadtrip-planificacion-etapas)
-- [Oporto: la ciudad subestimada que merece más tiempo](/es/blog/oporto-hermana-subestimada)
-- [Lisboa fuera de la ruta turística: los barrios que visitar](/es/blog/lisboa-fuera-ruta-turistica)
+- [Road trip: cómo planificar las etapas perfectas](/es/blog/roadtrip-planificacion-etapas/)
+- [Oporto: la ciudad subestimada que merece más tiempo](/es/blog/oporto-hermana-subestimada/)
+- [Lisboa fuera de la ruta turística: los barrios que visitar](/es/blog/lisboa-fuera-ruta-turistica/)

@@ -59,7 +59,7 @@ Jordan Marriott Hotel Amman (5 estrellas justo en el eje de Rainbow Street, base
 
 **Precios:** Boutique 130-250 euros, premium 220-400 euros.
 
-Lee también nuestra [guía de viaje a Jordania](/es/blog/jordania-guia-viaje-highlights) si combinas Amán con Petra y Wadi Rum.
+Lee también nuestra [guía de viaje a Jordania](/es/blog/jordania-guia-viaje-highlights/) si combinas Amán con Petra y Wadi Rum.
 
 ## Shmeisani: central y tranquilo
 
@@ -71,7 +71,7 @@ Shmeisani tiene oficinas durante el día y una buena escena gastronómica por la
 
 **Mejores opciones:** Le Royal Hotel Amman (conocido hotel urbano con buen servicio y vistas sobre la ciudad), Holiday Inn Amman (precio medio fiable, buen desayuno, orientado a negocios).
 
-Si usas Amán como base para excursiones de día, mira también cómo funciona Estambul como hub similar en nuestra [guía de Estambul](/es/blog/donde-alojarse-estambul).
+Si usas Amán como base para excursiones de día, mira también cómo funciona Estambul como hub similar en nuestra [guía de Estambul](/es/blog/donde-alojarse-estambul/).
 
 ## ¿Cuándo es la mejor época para visitar Amán?
 
@@ -94,7 +94,7 @@ Para Amán, [Booking.com](https://www.booking.com) es la plataforma más fiable:
 
 La reserva directa solo tiene sentido en las grandes cadenas (Four Seasons, Kempinski) para posibles upgrades y puntos de fidelidad.
 
-Lee también nuestra [guía de El Cairo](/es/blog/donde-alojarse-el-cairo). Muchos viajeros combinan Amán y El Cairo en un mismo viaje por Oriente Medio.
+Lee también nuestra [guía de El Cairo](/es/blog/donde-alojarse-el-cairo/). Muchos viajeros combinan Amán y El Cairo en un mismo viaje por Oriente Medio.
 
 ---
 
@@ -121,6 +121,6 @@ Hostal económico: 15-40 euros. Precio medio (3-4 estrellas): 70-150 euros. Bout
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Estambul: los mejores barrios](/es/blog/donde-alojarse-estambul)
-- [Dónde alojarse en El Cairo: Centro, Zamalek y Giza](/es/blog/donde-alojarse-el-cairo)
-- [Jordania: guía de viaje con Petra y Wadi Rum](/es/blog/jordania-guia-viaje-highlights)
+- [Dónde alojarse en Estambul: los mejores barrios](/es/blog/donde-alojarse-estambul/)
+- [Dónde alojarse en El Cairo: Centro, Zamalek y Giza](/es/blog/donde-alojarse-el-cairo/)
+- [Jordania: guía de viaje con Petra y Wadi Rum](/es/blog/jordania-guia-viaje-highlights/)

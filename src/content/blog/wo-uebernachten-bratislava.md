@@ -103,7 +103,7 @@ Sag Zercy, was du in Bratislava planst: Altstadt-Tour, Tagesausflug nach Wien od
 
 ### Wie weit ist Bratislava von Wien entfernt?
 
-Nur 60 Kilometer. Per Zug etwa 45 Minuten (Railjet ab Bratislava Hlavná stanica). Per Auto rund eine Stunde. Viele Reisende kombinieren beide Städte. Bratislava ist dabei die deutlich günstigere Basis. Hier mehr dazu: [Wo übernachten in Wien](/blog/wo-uebernachten-wien).
+Nur 60 Kilometer. Per Zug etwa 45 Minuten (Railjet ab Bratislava Hlavná stanica). Per Auto rund eine Stunde. Viele Reisende kombinieren beide Städte. Bratislava ist dabei die deutlich günstigere Basis. Hier mehr dazu: [Wo übernachten in Wien](/blog/wo-uebernachten-wien/).
 
 ### Ist Bratislava sicher für Touristen?
 
@@ -120,6 +120,6 @@ Bratislava ist klar günstiger. Hotels kosten 30-50 Prozent weniger als vergleic
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Wien: Die 5 Bezirke](/blog/wo-uebernachten-wien)
-- [Wo übernachten in Budapest: Die 5 Viertel](/blog/wo-uebernachten-budapest)
-- [Wo übernachten in Prag: Die 4 Stadtteile](/blog/wo-uebernachten-prag)
+- [Wo übernachten in Wien: Die 5 Bezirke](/blog/wo-uebernachten-wien/)
+- [Wo übernachten in Budapest: Die 5 Viertel](/blog/wo-uebernachten-budapest/)
+- [Wo übernachten in Prag: Die 4 Stadtteile](/blog/wo-uebernachten-prag/)

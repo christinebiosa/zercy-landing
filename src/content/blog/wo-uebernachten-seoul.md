@@ -47,7 +47,7 @@ Seouls Beverly Hills (von Psy's "Gangnam Style" weltberühmt). Wolkenkratzer, De
 
 **Top-Picks:** Park Hyatt Seoul (5-Sterne mit Skyline-Pool), Grand InterContinental Seoul Parnas (Premium am COEX), JW Marriott Hotel Seoul (modernes 5-Sterne).
 
-Lies dazu auch unseren [Tokio-Guide](/blog/wo-uebernachten-tokio), Seoul und Tokio sind oft gemeinsame Asien-Routen.
+Lies dazu auch unseren [Tokio-Guide](/blog/wo-uebernachten-tokio/), Seoul und Tokio sind oft gemeinsame Asien-Routen.
 
 ## Wann ist die beste Reisezeit für Seoul?
 
@@ -129,6 +129,6 @@ Backpacker: 800-1.300 Euro pro Person inkl. Flug (Hostel in Hongdae, Streetfood 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
-- [Wo übernachten in Hongkong: Die 4 Stadtteile](/blog/wo-uebernachten-hongkong)
-- [Tokio Foodie-Reise: Die besten Spots](/blog/tokio-foodie-reise)
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio/)
+- [Wo übernachten in Hongkong: Die 4 Stadtteile](/blog/wo-uebernachten-hongkong/)
+- [Tokio Foodie-Reise: Die besten Spots](/blog/tokio-foodie-reise/)

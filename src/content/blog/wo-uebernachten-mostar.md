@@ -51,7 +51,7 @@ Mostar ist ein Sommerziel, aber mit wichtigen Einschränkungen. Juli und August 
 
 **Winter:** Mostar ist schön und leer im Winter. Kalt (0-10 Grad), aber günstig und authentisch. Wenige Hotels geöffnet.
 
-Das [Bosnia Travel Portal](https://www.tourism.ba) hat aktuelle Reiseinformationen und Öffnungszeiten für die Region. Wer [den Balkan per Roadtrip](/blog/balkan-roadtrip-route) bereist, macht in Mostar einen unverzichtbaren Stopp.
+Das [Bosnia Travel Portal](https://www.tourism.ba) hat aktuelle Reiseinformationen und Öffnungszeiten für die Region. Wer [den Balkan per Roadtrip](/blog/balkan-roadtrip-route/) bereist, macht in Mostar einen unverzichtbaren Stopp.
 
 ## Neretva-Ufer: Romantik am türkisfarbenen Fluss
 
@@ -100,6 +100,6 @@ Guesthouses in der Altstadt: 40-80 Euro. Boutique-Hotels: 80-160 Euro. Neue Stad
 ---
 
 ## Mehr lesen
-- [Balkanroadtrip: Die beste Route von Slowenien nach Albanien](/blog/balkan-roadtrip-route)
-- [Wo übernachten in Kotor: Montenegro's Altstadt](/blog/wo-uebernachten-kotor)
-- [Wo übernachten in Dubrovnik: Altstadt oder Lapad?](/blog/wo-uebernachten-dubrovnik)
+- [Balkanroadtrip: Die beste Route von Slowenien nach Albanien](/blog/balkan-roadtrip-route/)
+- [Wo übernachten in Kotor: Montenegro's Altstadt](/blog/wo-uebernachten-kotor/)
+- [Wo übernachten in Dubrovnik: Altstadt oder Lapad?](/blog/wo-uebernachten-dubrovnik/)

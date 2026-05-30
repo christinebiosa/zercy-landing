@@ -38,9 +38,9 @@ Drei Hauptunterschiede zu Reisen mit jüngeren Kindern:
 
 ## Welche Destinationen funktionieren für Teenager?
 
-**Japan** ist nahezu universell beliebt. Anime-Kultur, Street Food in Tokio, Gaming-Hallen in Akihabara, Harajuku-Mode, Konsolen-Stores in Osaka. Und nebenbei: eine der sichersten Großstädte der Welt. Teenager können in Tokio allein durch Stadtteile laufen, ohne dass Eltern sich Sorgen machen. Unser [Tokio Foodie Guide](/blog/tokio-foodie-reise) zeigt die besten Spots.
+**Japan** ist nahezu universell beliebt. Anime-Kultur, Street Food in Tokio, Gaming-Hallen in Akihabara, Harajuku-Mode, Konsolen-Stores in Osaka. Und nebenbei: eine der sichersten Großstädte der Welt. Teenager können in Tokio allein durch Stadtteile laufen, ohne dass Eltern sich Sorgen machen. Unser [Tokio Foodie Guide](/blog/tokio-foodie-reise/) zeigt die besten Spots.
 
-**New York City** liefert Energie, Diversität, alles in Laufweite. Times Square ist touristisch, aber Teenager lieben es. Brooklyn für Kultur und Streetart. Central Park, High Line, Chelsea Market. Keine Museen-Pflicht notwendig. Übernachten am besten in Midtown oder Chelsea. Unser [New York Guide](/blog/wo-uebernachten-new-york) hilft bei der Viertelwahl.
+**New York City** liefert Energie, Diversität, alles in Laufweite. Times Square ist touristisch, aber Teenager lieben es. Brooklyn für Kultur und Streetart. Central Park, High Line, Chelsea Market. Keine Museen-Pflicht notwendig. Übernachten am besten in Midtown oder Chelsea. Unser [New York Guide](/blog/wo-uebernachten-new-york/) hilft bei der Viertelwahl.
 
 **Großstädte generell** funktionieren besser als Strände. Strände sind für Eltern entspannend. Teenager brauchen Input, Impulse, Erlebnisse. Barcelona, Madrid, Lissabon, Berlin, Montreal, Buenos Aires, Bangkok: alle funktionieren gut.
 
@@ -58,7 +58,7 @@ Drei Hauptunterschiede zu Reisen mit jüngeren Kindern:
 
 ## Tech-Tipps: SIM und Offline-Navigation
 
-Eine lokale SIM oder ein eSIM ist für Teenager Pflicht. Ohne mobiles Daten fühlst sie sich abgeschnitten. Das erzeugt mehr Konflikt als es wert ist. [eSIM-Provider](/blog/cyber-sicherheit-reisen) wie Airalo oder Holafly kosten 5 bis 15 EUR für eine Woche.
+Eine lokale SIM oder ein eSIM ist für Teenager Pflicht. Ohne mobiles Daten fühlst sie sich abgeschnitten. Das erzeugt mehr Konflikt als es wert ist. [eSIM-Provider](/blog/cyber-sicherheit-reisen/) wie Airalo oder Holafly kosten 5 bis 15 EUR für eine Woche.
 
 Offline-Karte installieren (Google Maps Offline, Maps.me) bevor ihr fliegt. In Ländern mit schwachem Datennetz oder teuren Roaming-Kosten ist das wichtig.
 
@@ -71,7 +71,7 @@ Das ist keine Alterfrage. Das ist eine Kompetenzfrage. Manche 16-Jährigen sind 
 - Hat er ein funktionierendes Offline-Navigations-Setup?
 - Gibt es klare Meldepflichten (tägliche Nachricht)?
 
-Für erste Allein-Reisen: vertraute Ziele. Deutschland, Österreich, Schweiz, Niederlande. Erst wenn das sitzt: weiter weg. Unser Artikel über [Sicherheit beim Reisen](/blog/cyber-sicherheit-reisen) hat praktische Vorbereitung für genau diese Szenarien.
+Für erste Allein-Reisen: vertraute Ziele. Deutschland, Österreich, Schweiz, Niederlande. Erst wenn das sitzt: weiter weg. Unser Artikel über [Sicherheit beim Reisen](/blog/cyber-sicherheit-reisen/) hat praktische Vorbereitung für genau diese Szenarien.
 
 ---
 
@@ -98,6 +98,6 @@ Das hängt von der Person ab, nicht vom Alter. Entscheidend: Kennt er Notfall-Pr
 ---
 
 **Mehr lesen:**
-- [Familienurlaub mit Kindern: Praxistipps für 2026](/blog/reisen-mit-baby-erste-fluege)
-- [Cyber-Sicherheit auf Reisen: Was du wirklich brauchst](/blog/cyber-sicherheit-reisen)
-- [Nur mit Handgepäck: Der komplette Guide](/blog/nur-handgepaeck)
+- [Familienurlaub mit Kindern: Praxistipps für 2026](/blog/reisen-mit-baby-erste-fluege/)
+- [Cyber-Sicherheit auf Reisen: Was du wirklich brauchst](/blog/cyber-sicherheit-reisen/)
+- [Nur mit Handgepäck: Der komplette Guide](/blog/nur-handgepaeck/)

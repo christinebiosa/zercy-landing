@@ -40,7 +40,7 @@ Google Maps es la herramienta más importante. Pero hay que trabajar los filtros
 
 **Yelp** (EE. UU., Canadá) funciona bien cuando filtras por reseñadores Elite. Escriben en inglés, comen local, tienen conocimiento comparativo.
 
-Si vas a la Ciudad de México, nuestra [guía de barrios de CDMX](/es/blog/donde-alojarse-ciudad-de-mexico) te ayuda con el alojamiento cerca de las mejores zonas gastronómicas.
+Si vas a la Ciudad de México, nuestra [guía de barrios de CDMX](/es/blog/donde-alojarse-ciudad-de-mexico/) te ayuda con el alojamiento cerca de las mejores zonas gastronómicas.
 
 ## ¿Cómo funciona el street food de verdad?
 
@@ -58,7 +58,7 @@ Hacer fila. Ese es el filtro más importante. Un puesto sin fila es un puesto si
 
 **Penang, Malasia.** Los puestos de hawkers aquí se consideran el mejor street food del Sudeste Asiático. Char Koay Teow, Asam Laksa, Hokkien Mee. Todo por menos de 3 EUR.
 
-**Ciudad de México.** Tacos al Pastor de pequeños taqueros a medianoche. Sopa de Lima. Tlayudas. La ciudad tiene una de las tradiciones culinarias más ricas del mundo. Nuestra [guía de barrios de CDMX](/es/blog/donde-alojarse-ciudad-de-mexico) te ayuda con dónde quedarte.
+**Ciudad de México.** Tacos al Pastor de pequeños taqueros a medianoche. Sopa de Lima. Tlayudas. La ciudad tiene una de las tradiciones culinarias más ricas del mundo. Nuestra [guía de barrios de CDMX](/es/blog/donde-alojarse-ciudad-de-mexico/) te ayuda con dónde quedarte.
 
 **Nápoles.** Pizza. No como una oración sino como una religión mundial. Una margherita en una buena pizzería cuesta 5 EUR. Una mala pizzería en Nápoles sigue siendo mejor que casi todo lo que existe fuera de Nápoles. Más sfogliatella de la panadería y café tomado de pie en la barra.
 
@@ -95,6 +95,6 @@ Preferir los alimentos completamente cocidos. Elegir puestos con alto volumen de
 ---
 
 **Más información:**
-- [Dónde alojarse en Ciudad de México: Los mejores barrios](/es/blog/donde-alojarse-ciudad-de-mexico)
-- [Dónde alojarse en Lima: Los mejores barrios](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires)
+- [Dónde alojarse en Ciudad de México: Los mejores barrios](/es/blog/donde-alojarse-ciudad-de-mexico/)
+- [Dónde alojarse en Lima: Los mejores barrios](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires/)

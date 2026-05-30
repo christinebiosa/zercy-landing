@@ -65,7 +65,7 @@ Marina Vallarta sits between the Hotel Zone and the airport. A modern neighborho
 
 **Top picks:** Velas Vallarta (suite concept, all-inclusive, direct beach access), Villa del Palmar Beach Resort (family-friendly, multiple pools), Hotel Emporio (affordable entry in a solid location).
 
-If you're torn between a hotel and an apartment, our [Airbnb vs. Hotel comparison](/en/blog/airbnb-vs-hotel-comparison) breaks down when each option actually wins.
+If you're torn between a hotel and an apartment, our [Airbnb vs. Hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) breaks down when each option actually wins.
 
 ## Versalles: The Foodie Neighborhood
 
@@ -77,7 +77,7 @@ Versalles is the one neighborhood in Puerto Vallarta that almost no tourists kno
 
 **Top tip:** Francisco Villa Street is the restaurant strip of Puerto Vallarta. No tourist menus, just real Mexican food and local crowd.
 
-For another great Mexican destination, read our [Where to Stay in Mexico City guide](/en/blog/where-to-stay-mexico-city).
+For another great Mexican destination, read our [Where to Stay in Mexico City guide](/en/blog/where-to-stay-mexico-city/).
 
 ## Nuevo Vallarta: Luxury 30 Minutes North
 
@@ -124,6 +124,6 @@ Puerto Vallarta is considered one of Mexico's safest resort destinations. Zona R
 ---
 
 **Read more:**
-- [Where to Stay in Mexico City: Best Neighborhoods 2026](/en/blog/where-to-stay-mexico-city)
-- [Where to Stay in Cancún: Hotel Zone vs. Downtown](/en/blog/where-to-stay-cancun)
-- [Airbnb vs. Hotel: Which One Actually Wins?](/en/blog/airbnb-vs-hotel-comparison)
+- [Where to Stay in Mexico City: Best Neighborhoods 2026](/en/blog/where-to-stay-mexico-city/)
+- [Where to Stay in Cancún: Hotel Zone vs. Downtown](/en/blog/where-to-stay-cancun/)
+- [Airbnb vs. Hotel: Which One Actually Wins?](/en/blog/airbnb-vs-hotel-comparison/)

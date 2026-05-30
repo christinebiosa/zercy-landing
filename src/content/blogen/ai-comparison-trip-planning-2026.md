@@ -60,7 +60,7 @@ Hallucinations are the biggest problem of all three. The most common patterns:
 
 **Visa rules:** All three know the general rule, but edge cases (multiple entry, special passports) are often outdated. Solution: always embassy website final.
 
-See our [AI trip planner vs travel agent guide](/en/blog/ai-trip-planner-vs-travel-agent) if you want the bigger picture.
+See our [AI trip planner vs travel agent guide](/en/blog/ai-trip-planner-vs-travel-agent/) if you want the bigger picture.
 
 ## What specialized travel AIs exist beyond the generalists?
 
@@ -107,6 +107,6 @@ Training data is often 6-18 months old. Restaurants close, hotels get renamed, n
 ---
 
 **Read more:**
-- [How AI is changing trip planning](/en/blog/ai-changing-travel-planning)
-- [AI trip planner vs travel agent: which is better in 2026?](/en/blog/ai-trip-planner-vs-travel-agent)
-- [AI tools for travel: the honest comparison](/en/blog/ai-tools-travel-comparison)
+- [How AI is changing trip planning](/en/blog/ai-changing-travel-planning/)
+- [AI trip planner vs travel agent: which is better in 2026?](/en/blog/ai-trip-planner-vs-travel-agent/)
+- [AI tools for travel: the honest comparison](/en/blog/ai-tools-travel-comparison/)

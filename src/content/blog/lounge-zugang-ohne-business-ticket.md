@@ -81,7 +81,7 @@ Diese Methode ist für Power-Reisende. Wenn du bereits Status bei einer Allianz 
 
 **Mile Run:** schneller Status-Erwerb durch billige, lange Flüge. 2026 unrentabel mit modernen Spar-Tarifen die wenige Status-Punkte geben.
 
-Lies dazu auch unseren [Business-Class-ohne-Meilen-Guide](/blog/business-class-ohne-meilen) für die Premium-Sitz-Variante.
+Lies dazu auch unseren [Business-Class-ohne-Meilen-Guide](/blog/business-class-ohne-meilen/) für die Premium-Sitz-Variante.
 
 ## Was ist die billigste Option pro Lounge-Besuch?
 
@@ -140,6 +140,6 @@ Priority Pass ist eine Lounge-Mitgliedschaft mit Zugang zu 1.500+ Lounges weltwe
 ---
 
 **Mehr lesen:**
-- [Business Class ohne Meilen: Wie geht das?](/blog/business-class-ohne-meilen)
-- [Airport-Hacks: 7 Tricks die wirklich helfen](/blog/airport-hacks)
-- [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen)
+- [Business Class ohne Meilen: Wie geht das?](/blog/business-class-ohne-meilen/)
+- [Airport-Hacks: 7 Tricks die wirklich helfen](/blog/airport-hacks/)
+- [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen/)

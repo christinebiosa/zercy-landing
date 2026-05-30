@@ -69,7 +69,7 @@ Providencia is the slightly quieter, more residential version of an upscale neig
 
 **Top picks:** Hotel Presidente InterContinental Guadalajara (5-star, business center, large pool), Demetria Hotel Guadalajara (boutique with spa), Camino Real Guadalajara (classic with garden).
 
-Worth noting: our [where to stay in Mexico City guide](/en/blog/where-to-stay-mexico-city) covers similar upscale neighborhoods like Polanco, which cost 30-40 percent more than comparable Guadalajara options.
+Worth noting: our [where to stay in Mexico City guide](/en/blog/where-to-stay-mexico-city/) covers similar upscale neighborhoods like Polanco, which cost 30-40 percent more than comparable Guadalajara options.
 
 ## Zapopan: Great value outside the noise
 
@@ -81,7 +81,7 @@ Zapopan is a separate municipality west of Guadalajara, but practically part of 
 
 **Top picks:** Fiesta Inn Zapopan (reliable, pool), GHL Hotel Capital Guadalajara (modern, near convention center), Hotel Cosmopolitan Guadalajara (mid-range, central in Zapopan).
 
-Planning to rent a car? Our [rental car checklist guide](/en/blog/rental-car-checklist) covers what to watch for with Mexican car rentals specifically.
+Planning to rent a car? Our [rental car checklist guide](/en/blog/rental-car-checklist/) covers what to watch for with Mexican car rentals specifically.
 
 ## Tlaquepaque: The arts village
 
@@ -130,6 +130,6 @@ Lake Chapala (Mexico's largest lake, 40 km south) works perfectly as a day trip 
 ---
 
 **Read more:**
-- [Where to stay in Mexico City: 5 neighborhoods](/en/blog/where-to-stay-mexico-city)
-- [Where to stay in Oaxaca: best neighborhoods](/en/blog/where-to-stay-oaxaca)
-- [Where to stay in Cancún: hotel zone and beyond](/en/blog/where-to-stay-cancun)
+- [Where to stay in Mexico City: 5 neighborhoods](/en/blog/where-to-stay-mexico-city/)
+- [Where to stay in Oaxaca: best neighborhoods](/en/blog/where-to-stay-oaxaca/)
+- [Where to stay in Cancún: hotel zone and beyond](/en/blog/where-to-stay-cancun/)

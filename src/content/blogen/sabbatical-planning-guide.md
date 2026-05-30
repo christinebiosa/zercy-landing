@@ -31,7 +31,7 @@ Three points to clarify before the first conversation with your employer.
 
 **Employment law framework.** In the US, sabbaticals are not legally guaranteed. Negotiation between employee and employer. Some industries have policies, many don't. Ask HR or your manager early.
 
-**Health insurance.** With unpaid sabbatical, employer-sponsored coverage typically lapses. You must continue privately (about $300-700 per month via COBRA) or find an alternative plan. See our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026).
+**Health insurance.** With unpaid sabbatical, employer-sponsored coverage typically lapses. You must continue privately (about $300-700 per month via COBRA) or find an alternative plan. See our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 **Retirement and benefits gaps.** During the sabbatical you contribute nothing to 401(k) or social security. This minimally reduces later retirement income, but only marginally for 3-12 months. For 12 months off, retirement income reduces by about 0.5-1 percent. Negligible.
 
@@ -53,11 +53,11 @@ A pragmatic 5-step method.
 
 Three sabbatical models with concrete examples.
 
-**Slow travel with base.** You choose a city (Lisbon, Bali, Oaxaca, Bangkok) and stay 2-3 months. Live there, learn the language, can take day trips. See our [slow travel article](/en/blog/slow-travel-what-it-really-means). Cost: $1,700-3,500 per month depending on location.
+**Slow travel with base.** You choose a city (Lisbon, Bali, Oaxaca, Bangkok) and stay 2-3 months. Live there, learn the language, can take day trips. See our [slow travel article](/en/blog/slow-travel-what-it-really-means/). Cost: $1,700-3,500 per month depending on location.
 
-**Multi-stop trip.** 3-6 countries in 6 months, 4-8 weeks each. Asian classic: Thailand, Vietnam, Cambodia, Bali. Latin American classic: Mexico, Guatemala, Costa Rica, Colombia. European classic: Portugal, Spain, Greece, Turkey. See our [Albania Riviera guide](/en/blog/albania-riviera-hidden-coast) for hidden gems.
+**Multi-stop trip.** 3-6 countries in 6 months, 4-8 weeks each. Asian classic: Thailand, Vietnam, Cambodia, Bali. Latin American classic: Mexico, Guatemala, Costa Rica, Colombia. European classic: Portugal, Spain, Greece, Turkey. See our [Albania Riviera guide](/en/blog/albania-riviera-hidden-coast/) for hidden gems.
 
-**Workation-sabbatical mix.** 3 months voluntary break, 3 months workation in a digital nomad hub. Ideal if you want to combine sabbatical and career. See our [workation guide](/en/blog/workation-tax-rules-2026).
+**Workation-sabbatical mix.** 3 months voluntary break, 3 months workation in a digital nomad hub. Ideal if you want to combine sabbatical and career. See our [workation guide](/en/blog/workation-tax-rules-2026/).
 
 ## What does a sabbatical really cost?
 
@@ -96,6 +96,6 @@ At least 9-12 months before planned start you should submit the request. Plus sa
 ---
 
 **Read more:**
-- [Slow travel: what it really means (and what it doesn't)](/en/blog/slow-travel-what-it-really-means)
-- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026)
-- [Albania Riviera: Europe's last undiscovered coast](/en/blog/albania-riviera-hidden-coast)
+- [Slow travel: what it really means (and what it doesn't)](/en/blog/slow-travel-what-it-really-means/)
+- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026/)
+- [Albania Riviera: Europe's last undiscovered coast](/en/blog/albania-riviera-hidden-coast/)

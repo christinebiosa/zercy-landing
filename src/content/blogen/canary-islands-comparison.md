@@ -91,6 +91,6 @@ Tenerife for the complete offering (water parks, wildlife parks). Gran Canaria w
 
 ## Read more
 
-- [Madeira Travel Guide: Hiking and Eternal Spring](/en/blog/madeira-travel-guide)
-- [Portugal Road Trip Route: Highlights from North to South](/en/blog/portugal-road-trip-route)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Madeira Travel Guide: Hiking and Eternal Spring](/en/blog/madeira-travel-guide/)
+- [Portugal Road Trip Route: Highlights from North to South](/en/blog/portugal-road-trip-route/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

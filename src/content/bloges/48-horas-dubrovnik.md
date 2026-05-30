@@ -35,7 +35,7 @@ El segundo día empieza en el puerto viejo. Los ferries a la isla de Lokrum sale
 
 Lo que sí hay son bosques, rocas, piscinas de agua salada y pavos reales que deambulan libres por toda la isla. El Mar Muerto, un lago interior de agua salada, es el punto de baño más popular. Las rocas en el extremo sureste son más salvajes y suelen estar menos concurridas. Calcula dos o tres horas en la isla. Baño, paseo por el jardín del antiguo monasterio benedictino, almuerzo sencillo en el chiringuito de la isla.
 
-Para quien quiera extender el viaje por la costa croata, nuestra guía de [islas de Croacia e island hopping](/es/blog/islas-croacia-island-hopping) explica las mejores combinaciones en ferry por Dalmacia.
+Para quien quiera extender el viaje por la costa croata, nuestra guía de [islas de Croacia e island hopping](/es/blog/islas-croacia-island-hopping/) explica las mejores combinaciones en ferry por Dalmacia.
 
 ## ¿Qué hacer la tarde-noche del segundo día?
 
@@ -45,18 +45,18 @@ Los tours organizados salen desde la Puerta de Pile varias veces al día, duran 
 
 Cierra la tarde en la Buza Bar. Buza significa "agujero" en croata, y la descripción es exacta: una apertura en el muro exterior de la ciudad, sobre los acantilados, con el Adriático abierto delante de ti. Sillas de plástico sobre las rocas, bebidas frías, sin comida, sin wifi. Te sientas mientras el sol cae y el mar se oscurece, y es una de esas experiencias que no olvidas.
 
-Una nota sobre el turismo masivo: Dubrovnik ha limitado activamente el número de visitantes en los últimos años, incluyendo topes a los cruceros y precios de entrada más altos. Ha ayudado. Pero la diferencia entre Dubrovnik a las 8 de la mañana y Dubrovnik al mediodía sigue siendo enorme. Estructura tus días teniéndolo en cuenta. Más sobre esto en nuestra guía de [destinos alternativos para escapar del turismo masivo](/es/blog/destinos-sol-invierno-enero).
+Una nota sobre el turismo masivo: Dubrovnik ha limitado activamente el número de visitantes en los últimos años, incluyendo topes a los cruceros y precios de entrada más altos. Ha ayudado. Pero la diferencia entre Dubrovnik a las 8 de la mañana y Dubrovnik al mediodía sigue siendo enorme. Estructura tus días teniéndolo en cuenta. Más sobre esto en nuestra guía de [destinos alternativos para escapar del turismo masivo](/es/blog/destinos-sol-invierno-enero/).
 
-Para encontrar alojamiento en Dubrovnik, desde la ciudad vieja hasta opciones más económicas fuera de las murallas, consulta nuestra guía de [dónde alojarse en Dubrovnik](/es/blog/donde-alojarse-dubrovnik).
+Para encontrar alojamiento en Dubrovnik, desde la ciudad vieja hasta opciones más económicas fuera de las murallas, consulta nuestra guía de [dónde alojarse en Dubrovnik](/es/blog/donde-alojarse-dubrovnik/).
 
 Guarda tus opciones de Dubrovnik en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlo todo a mano cuando reserves.
 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Dubrovnik: ciudad vieja y alternativas](/es/blog/donde-alojarse-dubrovnik)
-- [Islas de Croacia: island hopping por Dalmacia](/es/blog/islas-croacia-island-hopping)
-- [Destinos de sol en enero: alternativas al turismo masivo](/es/blog/destinos-sol-invierno-enero)
+- [Dónde alojarse en Dubrovnik: ciudad vieja y alternativas](/es/blog/donde-alojarse-dubrovnik/)
+- [Islas de Croacia: island hopping por Dalmacia](/es/blog/islas-croacia-island-hopping/)
+- [Destinos de sol en enero: alternativas al turismo masivo](/es/blog/destinos-sol-invierno-enero/)
 
 ---
 

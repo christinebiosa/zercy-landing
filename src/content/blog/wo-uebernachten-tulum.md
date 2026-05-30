@@ -35,7 +35,7 @@ Das Stadtzentrum, 4 km vom Strand entfernt. Hier leben die meisten Locals, hier 
 
 **Achtung:** Zum Strand brauchst du Fahrrad (15 Min) oder Taxi (5 Euro). Im Pueblo selbst kein Strand.
 
-Lies dazu auch unseren [Cancún-Guide](/blog/wo-uebernachten-cancun), Tulum ist 1,5 Stunden südlich.
+Lies dazu auch unseren [Cancún-Guide](/blog/wo-uebernachten-cancun/), Tulum ist 1,5 Stunden südlich.
 
 ## Hotel Zone: Das Boutique-Beach-Tulum
 
@@ -69,7 +69,7 @@ Lokales Wohnviertel südlich vom Pueblo. Hier wohnen die Digital Nomads, die mon
 
 **Preise:** Apartments 70-180 Euro pro Nacht (oft besser für längere Aufenthalte buchen), Boutique 100-220 Euro.
 
-Lies dazu auch unseren [Workation-Guide](/blog/workation-steuern-2026), Tulum ist 2026 ein Top-Spot für digitale Nomaden.
+Lies dazu auch unseren [Workation-Guide](/blog/workation-steuern-2026/), Tulum ist 2026 ein Top-Spot für digitale Nomaden.
 
 ## Wie viel kostet eine Übernachtung in Tulum wirklich?
 
@@ -118,6 +118,6 @@ Backpacker: 700-1.000 Euro pro Person inkl. Flug (Hostel Pueblo, Tacos). Mittelk
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun)
-- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
-- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026)
+- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun/)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena/)
+- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026/)

@@ -40,7 +40,7 @@ Google Maps ist die wichtigste Waffe. Aber du musst mit den Filtern arbeiten. Be
 
 **Yelp** (USA, Kanada) funktioniert gut wenn du die Elite-Reviewer herausfilterst. Die schreiben auf Englisch, essen lokal, haben Vergleichswissen.
 
-Wer nach Tokio reist, findet im [Tokio Foodie-Guide](/blog/tokio-foodie-reise) eine kuratierte Liste von Stadtteilen mit den besten Izakayas und Ramen-Stunden.
+Wer nach Tokio reist, findet im [Tokio Foodie-Guide](/blog/tokio-foodie-reise/) eine kuratierte Liste von Stadtteilen mit den besten Izakayas und Ramen-Stunden.
 
 ## Wie funktioniert Street Food richtig?
 
@@ -58,9 +58,9 @@ Schlange stehen. Das ist der wichtigste Filter. Ein Stand ohne Schlange ist ein 
 
 **Penang, Malaysia.** Die Hawker-Stände hier gelten als das beste Street Food Südostasiens. Char Koay Teow, Asam Laksa, Hokkien Mee. Alles für weniger als 3 Euro.
 
-**Mexiko City.** Tacos al Pastor von kleinen Taqueros um Mitternacht. Sopa de Lima. Tlayudas. Die Stadt hat eine der reichsten Küchen der Welt und kaum Scheu vor experimentellen Combinationen. Unser [Mexiko City Stadtteil-Guide](/blog/wo-uebernachten-mexico-city) hilft dir bei der Unterkunft.
+**Mexiko City.** Tacos al Pastor von kleinen Taqueros um Mitternacht. Sopa de Lima. Tlayudas. Die Stadt hat eine der reichsten Küchen der Welt und kaum Scheu vor experimentellen Combinationen. Unser [Mexiko City Stadtteil-Guide](/blog/wo-uebernachten-mexico-city/) hilft dir bei der Unterkunft.
 
-**Neapel.** Pizza. Nicht als Satz, sondern als Weltreligion. Eine Margherita in einer guten Pizzeria kostet 5 Euro. Eine schlechte Pizzeria in Neapel ist noch immer besser als fast alles außerhalb Neapels. Dazu Sfogliatella vom Bäcker und Caffè stehend an der Theke. Unser [Neapel Unterkunfts-Guide](/blog/wo-uebernachten-neapel) hat die besten Stadtviertel für Foodies.
+**Neapel.** Pizza. Nicht als Satz, sondern als Weltreligion. Eine Margherita in einer guten Pizzeria kostet 5 Euro. Eine schlechte Pizzeria in Neapel ist noch immer besser als fast alles außerhalb Neapels. Dazu Sfogliatella vom Bäcker und Caffè stehend an der Theke. Unser [Neapel Unterkunfts-Guide](/blog/wo-uebernachten-neapel/) hat die besten Stadtviertel für Foodies.
 
 **Marrakesch.** Der Djemaa el-Fna Platz nach Einbruch der Dunkelheit: Garküchen, Rauch, Kessel, Tagine und Couscous für wenige Dirham. Laut, chaotisch, spektakulär.
 
@@ -95,6 +95,6 @@ Durchgegarte Speisen bevorzugen. Stände mit hohem Umsatz wählen (Schlange als 
 ---
 
 **Mehr lesen:**
-- [Tokio Foodie-Reise: Die besten Stadtteile zum Essen](/blog/tokio-foodie-reise)
-- [Wo übernachten in Mexico City: Die besten Stadtteile](/blog/wo-uebernachten-mexico-city)
-- [Wo übernachten in Neapel: Die besten Stadtteile](/blog/wo-uebernachten-neapel)
+- [Tokio Foodie-Reise: Die besten Stadtteile zum Essen](/blog/tokio-foodie-reise/)
+- [Wo übernachten in Mexico City: Die besten Stadtteile](/blog/wo-uebernachten-mexico-city/)
+- [Wo übernachten in Neapel: Die besten Stadtteile](/blog/wo-uebernachten-neapel/)

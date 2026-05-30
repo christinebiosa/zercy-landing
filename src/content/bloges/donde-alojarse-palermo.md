@@ -77,6 +77,6 @@ Palermo es una de las pocas ciudades europeas donde se pueden experimentar simul
 
 ## Más sobre Italia y el Mediterráneo
 
-- [Dónde alojarse en Roma](/es/blog/donde-alojarse-roma)
-- [Dónde alojarse en Bolonia](/es/blog/donde-alojarse-bolonia)
-- [Dónde alojarse en Marsella](/es/blog/donde-alojarse-marsella)
+- [Dónde alojarse en Roma](/es/blog/donde-alojarse-roma/)
+- [Dónde alojarse en Bolonia](/es/blog/donde-alojarse-bolonia/)
+- [Dónde alojarse en Marsella](/es/blog/donde-alojarse-marsella/)

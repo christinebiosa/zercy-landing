@@ -41,7 +41,7 @@ Abends um 18 Uhr wird es lebendig. Gallerien öffnen, Bars füllen sich, Restaur
 
 Essen in Wynwood: Kein Mangel an Optionen. Coyo Taco ist einer der bekanntesten Spots, mexikanisch, groß, kein Tischgeld. Alternativ: aimlessly walk and choose. Die Restaurants in den Wynwood Walls selbst sind teurer. Ein Block weiter draußen zahlst du 20 bis 30 Prozent weniger für ähnliche Qualität.
 
-Für die zweite Nacht empfiehlt sich ein Hotel in Wynwood oder Brickell statt South Beach. Günstiger, zentraler, und du musst abends nicht so weit fahren. Mehr dazu in unserem [Guide zu Unterkünften in Miami](/blog/wo-uebernachten-miami).
+Für die zweite Nacht empfiehlt sich ein Hotel in Wynwood oder Brickell statt South Beach. Günstiger, zentraler, und du musst abends nicht so weit fahren. Mehr dazu in unserem [Guide zu Unterkünften in Miami](/blog/wo-uebernachten-miami/).
 
 ## Was macht den zweiten Morgen in Little Havana besonders?
 
@@ -63,7 +63,7 @@ Das Pérez Art Museum Miami, kurz PAMM, ist das Highlight. Es liegt direkt am Bi
 
 Mittagessen am Museum: Das Schnellrestaurant im PAMM-Gebäude ist okay und nicht überteuert. Wer lieber in Wynwood oder Brickell isst, fährt 10 Minuten.
 
-Für einen New-York-Vergleich: Das PAMM hat eine ähnlich gezielte Sammlung wie das neue Whitney in New York. Beides lohnt sich. Wer beide Städte kennt: unser [48-Stunden-Artikel zu New York](/blog/48-stunden-new-york) hilft beim Vergleich.
+Für einen New-York-Vergleich: Das PAMM hat eine ähnlich gezielte Sammlung wie das neue Whitney in New York. Beides lohnt sich. Wer beide Städte kennt: unser [48-Stunden-Artikel zu New York](/blog/48-stunden-new-york/) hilft beim Vergleich.
 
 ## Wie endet ein perfektes 48h-Wochenende in Miami?
 
@@ -81,7 +81,7 @@ Wer noch Energie hat, bleibt. Brickell-Bars laufen bis 2 oder 3 Uhr. Wer morgen 
 
 MIA (Miami International Airport) ist groß und chaotisch. Plane mindestens 2,5 Stunden vor Abflug ein. Uber aus Brickell dauert je nach Stau 20 bis 45 Minuten. Für morgens frühe Flüge, den Uber schon am Abend buchen.
 
-Wann du für diesen Trip buchen solltest, erklärt unser Artikel über [den richtigen Zeitpunkt für Flugbuchungen](/blog/wann-fluege-buchen). Und wenn du noch andere Metropolen planst: unser [48-Stunden-Guide für Barcelona](/blog/48-stunden-barcelona) funktioniert mit derselben Logik.
+Wann du für diesen Trip buchen solltest, erklärt unser Artikel über [den richtigen Zeitpunkt für Flugbuchungen](/blog/wann-fluege-buchen/). Und wenn du noch andere Metropolen planst: unser [48-Stunden-Guide für Barcelona](/blog/48-stunden-barcelona/) funktioniert mit derselben Logik.
 
 ---
 
@@ -110,6 +110,6 @@ Hotel in South Beach: 150 bis 300 Dollar pro Nacht. Hotel in Brickell: 100 bis 2
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Miami: die besten Viertel nach Budget](/blog/wo-uebernachten-miami)
-- [Wo übernachten in New York: Manhattan oder Brooklyn?](/blog/wo-uebernachten-new-york)
-- [Wann Flüge buchen: der richtige Zeitpunkt für günstige Preise](/blog/wann-fluege-buchen)
+- [Wo übernachten in Miami: die besten Viertel nach Budget](/blog/wo-uebernachten-miami/)
+- [Wo übernachten in New York: Manhattan oder Brooklyn?](/blog/wo-uebernachten-new-york/)
+- [Wann Flüge buchen: der richtige Zeitpunkt für günstige Preise](/blog/wann-fluege-buchen/)

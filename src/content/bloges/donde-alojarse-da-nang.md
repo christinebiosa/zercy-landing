@@ -55,7 +55,7 @@ El centro está a orillas del río Han. Aquí está el Dragon Bridge (escupe fue
 
 **Mejores opciones:** Novotel Da Nang Premier Han River (hotel icónico, panorámica del río Han), Azura Hotel (buen rango medio, céntrico, amigable), Brilliant Hotel (opción asequible con piscina, buena ubicación junto al río).
 
-La [ruta por Vietnam en 2 semanas](/es/blog/vietnam-2-semanas-ruta) y la [guía de barrios de Hoi An](/es/blog/donde-alojarse-hoi-an) son lecturas complementarias.
+La [ruta por Vietnam en 2 semanas](/es/blog/vietnam-2-semanas-ruta/) y la [guía de barrios de Hoi An](/es/blog/donde-alojarse-hoi-an/) son lecturas complementarias.
 
 ## Península Son Tra: Naturaleza, tranquilidad y vistas al mar
 
@@ -106,6 +106,6 @@ Al menos 3 días para Da Nang propiamente: un día de playa, un día para Son Tr
 ---
 
 **Más artículos:**
-- [Vietnam: Ruta de 2 semanas con consejos](/es/blog/vietnam-2-semanas-ruta)
-- [Dónde alojarse en Hoi An: Ciudad Antigua o playa](/es/blog/donde-alojarse-hoi-an)
-- [Dónde alojarse en Hanói: Los mejores barrios](/es/blog/donde-alojarse-hanoi)
+- [Vietnam: Ruta de 2 semanas con consejos](/es/blog/vietnam-2-semanas-ruta/)
+- [Dónde alojarse en Hoi An: Ciudad Antigua o playa](/es/blog/donde-alojarse-hoi-an/)
+- [Dónde alojarse en Hanói: Los mejores barrios](/es/blog/donde-alojarse-hanoi/)

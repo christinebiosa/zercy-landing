@@ -38,7 +38,7 @@ El miedo más grande no es el dinero. Es la pregunta: ¿seguiré teniendo carrer
 
 **Dimitir con plan.** No es una opción de horror. Es una decisión estratégica. Ahorras fuerte durante 18 meses, construyes un colchón, das un preaviso como corresponde y te vas. Muchos empleadores contratan de nuevo a personas que regresan con experiencia internacional. La brecha en el CV ya no es el problema que era. Más adelante te cuento cómo gestionarla.
 
-**Llevarte el trabajo contigo.** Si tu puesto lo permite, trabajas en remoto. Tres o cuatro horas al día, el resto es tuyo. Eso es workation. Nuestro [guía de workation e impuestos 2026](/es/blog/workation-impuestos-2026) te explica lo que necesitas saber antes de salir.
+**Llevarte el trabajo contigo.** Si tu puesto lo permite, trabajas en remoto. Tres o cuatro horas al día, el resto es tuyo. Eso es workation. Nuestro [guía de workation e impuestos 2026](/es/blog/workation-impuestos-2026/) te explica lo que necesitas saber antes de salir.
 
 ---
 
@@ -58,7 +58,7 @@ Usa [Zercy](https://zercy.app) para comparar precios de vuelos en tu ruta y enco
 
 Respuesta corta. Pero importante.
 
-**Seguro médico:** Los seguros internacionales para estancias largas empiezan desde 50 a 80 euros al mes y te cubren en la mayoría de destinos. Muchas personas los combinan con la cobertura de su país de origen durante el período de transición. Los detalles están en nuestra [guía de seguro de viaje](/es/blog/seguro-viaje-vale-la-pena).
+**Seguro médico:** Los seguros internacionales para estancias largas empiezan desde 50 a 80 euros al mes y te cubren en la mayoría de destinos. Muchas personas los combinan con la cobertura de su país de origen durante el período de transición. Los detalles están en nuestra [guía de seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/).
 
 **Pensión:** Un año de pausa cambia poco en una carrera larga. Algunos países permiten cotizaciones voluntarias durante un período de excedencia. Merece la pena consultarlo si estás cerca de algún umbral, pero tampoco le des más vueltas de las necesarias.
 
@@ -70,7 +70,7 @@ Olvida el circuito clásico de mochilero. Esas rutas están pensadas para jóven
 
 **Mochilero de confort por el Sudeste Asiático.** Vietnam, Tailandia, Camboya, Indonesia. Habitaciones privadas en lugar de literas, algún hotel boutique de vez en cuando, comida local. Los costes se mantienen bajos, la calidad de vida se mantiene alta.
 
-**Slow travel por Centroamérica y Sudamérica.** Costa Rica, Guatemala, Colombia. Un mes por país. Alquila pisos en lugar de reservar hoteles. Mete un curso de idiomas. [Qué visados necesitas realmente lo explica nuestra guía de visado para nómadas digitales](/es/blog/visa-nomada-digital-paises-2026).
+**Slow travel por Centroamérica y Sudamérica.** Costa Rica, Guatemala, Colombia. Un mes por país. Alquila pisos en lugar de reservar hoteles. Mete un curso de idiomas. [Qué visados necesitas realmente lo explica nuestra guía de visado para nómadas digitales](/es/blog/visa-nomada-digital-paises-2026/).
 
 **Ruta workation por Europa.** Portugal, Croacia, Georgia. Sorprendentemente asequibles, con excelente internet y acogedores para viajeros maduros. Ideal si trabajas a tiempo parcial mientras viajas.
 
@@ -88,7 +88,7 @@ Respuesta más larga: pasaste un año aprendiendo a funcionar en la incertidumbr
 
 Prepara una respuesta limpia de 60 segundos: qué hiciste, qué aprendiste, cómo aplica ahora. Los empleadores que preguntan por la brecha te están dando una oportunidad, no poniendo una trampa.
 
-Nuestra [guía completa para planificar un sabbatical](/es/blog/sabbatical-guia-planificacion) te explica cómo estructurar la conversación con tu empresa antes de irte.
+Nuestra [guía completa para planificar un sabbatical](/es/blog/sabbatical-guia-planificacion/) te explica cómo estructurar la conversación con tu empresa antes de irte.
 
 ---
 
@@ -117,6 +117,6 @@ Empieza aquí. Compara vuelos, planifica tu ruta, encuentra las ventanas de viaj
 ---
 
 **Sigue leyendo:**
-- [Cómo pedir un sabbatical: la guía completa](/es/blog/sabbatical-guia-planificacion)
-- [Workation e impuestos 2026: lo que necesitas saber](/es/blog/workation-impuestos-2026)
-- [Visado para nómadas digitales: países que lo ofrecen en 2026](/es/blog/visa-nomada-digital-paises-2026)
+- [Cómo pedir un sabbatical: la guía completa](/es/blog/sabbatical-guia-planificacion/)
+- [Workation e impuestos 2026: lo que necesitas saber](/es/blog/workation-impuestos-2026/)
+- [Visado para nómadas digitales: países que lo ofrecen en 2026](/es/blog/visa-nomada-digital-paises-2026/)

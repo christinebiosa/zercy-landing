@@ -81,11 +81,11 @@ Basic entry to the Valley of the Kings is 240 EGP (around 5 USD). That includes 
 
 ### What should you not miss in Luxor?
 
-Karnak Temple (Egypt's largest, evening sound-and-light show), Luxor Temple (stunning at night), Valley of the Kings, Valley of the Queens, Hatshepsut Temple, Colossi of Memnon (free). The [Egypt travel guide](/en/blog/egypt-travel-guide-highlights) maps out the full country route including Luxor and Cairo.
+Karnak Temple (Egypt's largest, evening sound-and-light show), Luxor Temple (stunning at night), Valley of the Kings, Valley of the Queens, Hatshepsut Temple, Colossi of Memnon (free). The [Egypt travel guide](/en/blog/egypt-travel-guide-highlights/) maps out the full country route including Luxor and Cairo.
 
 ---
 
 **Read more:**
-- [Egypt Travel Guide: Cairo, Luxor and Practical Tips](/en/blog/egypt-travel-guide-highlights)
-- [Where to Stay in Cairo: The 5 Key Neighborhoods](/en/blog/where-to-stay-cairo)
-- [East Africa Safari Guide: Planning the Full Trip](/en/blog/east-africa-safari-guide)
+- [Egypt Travel Guide: Cairo, Luxor and Practical Tips](/en/blog/egypt-travel-guide-highlights/)
+- [Where to Stay in Cairo: The 5 Key Neighborhoods](/en/blog/where-to-stay-cairo/)
+- [East Africa Safari Guide: Planning the Full Trip](/en/blog/east-africa-safari-guide/)

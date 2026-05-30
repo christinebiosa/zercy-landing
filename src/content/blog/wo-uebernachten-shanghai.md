@@ -77,6 +77,6 @@ The Bund am Abend, wenn beide Skylines leuchten. Die Yu Garden (Yuyuan) mit Alts
 
 ## Mehr lesen
 
-- [Wo übernachten in Hongkong](/blog/wo-uebernachten-hongkong)
-- [Wo übernachten in Seoul](/blog/wo-uebernachten-seoul)
-- [Wo übernachten in Singapur](/blog/wo-uebernachten-singapur)
+- [Wo übernachten in Hongkong](/blog/wo-uebernachten-hongkong/)
+- [Wo übernachten in Seoul](/blog/wo-uebernachten-seoul/)
+- [Wo übernachten in Singapur](/blog/wo-uebernachten-singapur/)

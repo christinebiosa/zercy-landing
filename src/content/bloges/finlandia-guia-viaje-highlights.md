@@ -70,6 +70,6 @@ La sauna es obligatoria, preferiblemente una sauna de humo tradicional (Savusaun
 ---
 
 **Más sobre Escandinavia:**
-- [Escandinavia Ruta Completa](/es/blog/escandinavia-ruta-completa)
-- [Auroras Boreales 2026: Dónde y Cuándo](/es/blog/auroras-boreales-2026)
-- [Lista de Equipaje para el Viaje: Lo Esencial](/es/blog/lista-equipaje-viaje-esencial)
+- [Escandinavia Ruta Completa](/es/blog/escandinavia-ruta-completa/)
+- [Auroras Boreales 2026: Dónde y Cuándo](/es/blog/auroras-boreales-2026/)
+- [Lista de Equipaje para el Viaje: Lo Esencial](/es/blog/lista-equipaje-viaje-esencial/)

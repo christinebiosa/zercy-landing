@@ -45,7 +45,7 @@ Across the Guadalquivir river, former gypsy quarter, cradle of real flamenco. Th
 
 **Top picks:** Hotel Monte Triana (classic mid-range with pool), Casa Numero 7 (small boutique with only 6 rooms), apartments via Booking in Triana houses.
 
-See our [Madrid guide](/en/blog/where-to-stay-madrid) for the Spanish capital variant.
+See our [Madrid guide](/en/blog/where-to-stay-madrid/) for the Spanish capital variant.
 
 ## When is the best time to visit Seville?
 
@@ -116,6 +116,6 @@ Backpacker: $550-900 per person incl. flight (hostel in Alameda, tapas tours, bu
 ---
 
 **Read more:**
-- [Where to stay in Madrid: 5 neighborhoods](/en/blog/where-to-stay-madrid)
-- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona)
-- [Puglia Southern Italy Guide](/en/blog/puglia-southern-italy-guide)
+- [Where to stay in Madrid: 5 neighborhoods](/en/blog/where-to-stay-madrid/)
+- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona/)
+- [Puglia Southern Italy Guide](/en/blog/puglia-southern-italy-guide/)

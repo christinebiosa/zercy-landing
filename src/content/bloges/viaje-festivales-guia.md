@@ -20,7 +20,7 @@ Esta guía cubre los festivales que realmente valen un viaje internacional. Y lo
 
 **Tomorrowland (Bélgica)** es lo opuesto a lo rústico. El festival en Boom, cerca de Amberes, está perfectamente producido, es enorme y caro. La entrada ronda los 300 EUR. Sumando viaje y alojamiento, un viaje a Tomorrowland desde Latinoamérica puede costar entre 1.200 y 2.500 USD. A cambio, tenés música electrónica a un nivel que no existe en ningún otro lugar. Las entradas también se van rápido. Buscalas con al menos seis meses de anticipación.
 
-**Coachella (EE.UU.)** en el desierto de California es el festival más fotografiado del mundo. Si venís desde América del Sur, sumá vuelo internacional, hotel en Palm Springs y entrada. Los pases de fin de semana existen, pero la experiencia completa necesita al menos tres días en abril. El calor está garantizado. Para planificar los vuelos con tiempo, el artículo sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos) tiene todo lo que necesitás.
+**Coachella (EE.UU.)** en el desierto de California es el festival más fotografiado del mundo. Si venís desde América del Sur, sumá vuelo internacional, hotel en Palm Springs y entrada. Los pases de fin de semana existen, pero la experiencia completa necesita al menos tres días en abril. El calor está garantizado. Para planificar los vuelos con tiempo, el artículo sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) tiene todo lo que necesitás.
 
 ## ¿Qué festivales culturales valen el viaje?
 
@@ -28,7 +28,7 @@ No todo festival gira alrededor de la música. Algunos son la cultura misma.
 
 **Oktoberfest Munich** no necesita presentación. Seis millones de personas en dos semanas. Cerveza, trajes típicos, atracciones de feria y una energía que es difícil de describir hasta que estás ahí. La entrada a los predios es gratuita. Los gastos vienen adentro. Las reservas de mesas en las carpas para las noches se agotan con meses de anticipación. La [web oficial del Oktoberfest](https://www.oktoberfest.de) publica cuándo abren las reservas. Los hoteles en Munich durante la Wiesn se encarecen muchísimo. Reservá temprano o fijate en pueblos conectados por tren.
 
-**El Carnaval de Río de Janeiro** es espectáculo en otra escala. Escuelas de samba, el Sambódromo y fiestas callejeras que duran días. Febrero o marzo según el calendario. Para quienes viajan por primera vez a Río en Carnaval, la logística es intensa y los precios son altos. Vale la pena leer sobre los [errores de viaje más comunes](/es/blog/errores-viaje-evitar-clasicos) antes de ir.
+**El Carnaval de Río de Janeiro** es espectáculo en otra escala. Escuelas de samba, el Sambódromo y fiestas callejeras que duran días. Febrero o marzo según el calendario. Para quienes viajan por primera vez a Río en Carnaval, la logística es intensa y los precios son altos. Vale la pena leer sobre los [errores de viaje más comunes](/es/blog/errores-viaje-evitar-clasicos/) antes de ir.
 
 **La Tomatina** en Buñol, España, es el festival más absurdo de esta lista. Una hora. Tomates. Nada más. Cada último miércoles de agosto, el pueblo entero se convierte en una batalla campal de tomates. La entrada cuesta unos 12 EUR. La experiencia es ridículamente divertida.
 
@@ -46,7 +46,7 @@ Un cálculo realista para Tomorrowland desde Argentina:
 
 Glastonbury sale más si sumás alojamiento cerca. Coachella desde Sudamérica puede superar fácilmente los 2.500 USD.
 
-Hay formas de reducir los costos. El camping en el predio ahorra bastante. Tanto Glastonbury como Tomorrowland tienen opciones de camping. Te despertás adentro del festival. No gastás en taxis. Eso sí, necesitás el equipaje correcto: liviano, impermeable, funcional. La guía sobre [viajar solo con equipaje de mano](/es/blog/solo-equipaje-de-mano) cubre exactamente qué tiene sentido llevar a un festival.
+Hay formas de reducir los costos. El camping en el predio ahorra bastante. Tanto Glastonbury como Tomorrowland tienen opciones de camping. Te despertás adentro del festival. No gastás en taxis. Eso sí, necesitás el equipaje correcto: liviano, impermeable, funcional. La guía sobre [viajar solo con equipaje de mano](/es/blog/solo-equipaje-de-mano/) cubre exactamente qué tiene sentido llevar a un festival.
 
 ## ¿Qué festivales de luz y arte tenés que vivir al menos una vez?
 
@@ -54,7 +54,7 @@ Hay formas de reducir los costos. El camping en el predio ahorra bastante. Tanto
 
 **El Festival de las Linternas en Taiwán** es el contrapunto más tranquilo. Pingxi es el pueblo más famoso para soltar linternas al cielo. Miles de linternas subiendo juntas, cada una con un deseo escrito. Sin ruido. Solo luz. Parece una película, pero es real y estás ahí adentro.
 
-Ambos festivales requieren planificación anticipada. Taiwán en febrero, India en marzo. Si preferís opciones más cortas y cercanas, la guía sobre [escapadas de fin de semana en Europa](/es/blog/escapadas-fin-semana-europa) incluye festivales europeos muy accesibles.
+Ambos festivales requieren planificación anticipada. Taiwán en febrero, India en marzo. Si preferís opciones más cortas y cercanas, la guía sobre [escapadas de fin de semana en Europa](/es/blog/escapadas-fin-semana-europa/) incluye festivales europeos muy accesibles.
 
 ## ¿Cuándo comprás las entradas y con cuánto tiempo de anticipación?
 
@@ -75,10 +75,10 @@ Empezá a planificar en [www.zercy.app](https://www.zercy.app) o guardá tus ide
 
 ## Seguir leyendo
 
-- [¿Cuándo conviene reservar vuelos?](/es/blog/cuando-reservar-vuelos)
-- [Viajar solo con equipaje de mano: cómo hacerlo](/es/blog/solo-equipaje-de-mano)
-- [Errores de viaje que casi todos cometen](/es/blog/errores-viaje-evitar-clasicos)
-- [Las mejores escapadas de fin de semana en Europa](/es/blog/escapadas-fin-semana-europa)
+- [¿Cuándo conviene reservar vuelos?](/es/blog/cuando-reservar-vuelos/)
+- [Viajar solo con equipaje de mano: cómo hacerlo](/es/blog/solo-equipaje-de-mano/)
+- [Errores de viaje que casi todos cometen](/es/blog/errores-viaje-evitar-clasicos/)
+- [Las mejores escapadas de fin de semana en Europa](/es/blog/escapadas-fin-semana-europa/)
 
 ---
 

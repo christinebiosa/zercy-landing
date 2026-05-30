@@ -49,7 +49,7 @@ Die Türkei ist nach der Lira-Abwertung der letzten Jahre ein außergewöhnliche
 
 **Heißluftballon Kappadokien:** Das definitiv ikonischste Erlebnis der Türkei. 150 Ballons steigen gleichzeitig über die Feenkamine auf. Bei Sonnenaufgang. Unbedingt buchen — gute Anbieter sind wochen im Voraus ausgebucht.
 
-**Ephesos (bei Selçuk):** Die am besten erhaltene antike Stadt der Welt. Die Celsus-Bibliothek, das Große Theater, die Straße der Kureten. Besuch bei Sonnenaufgang oder Nachmittag (Mittagshitze meiden). Mehr über Istanbul findest du in unserem [Istanbul-Guide](/blog/wo-uebernachten-istanbul).
+**Ephesos (bei Selçuk):** Die am besten erhaltene antike Stadt der Welt. Die Celsus-Bibliothek, das Große Theater, die Straße der Kureten. Besuch bei Sonnenaufgang oder Nachmittag (Mittagshitze meiden). Mehr über Istanbul findest du in unserem [Istanbul-Guide](/blog/wo-uebernachten-istanbul/).
 
 **Pamukkale:** Weiße Kalkterrassen mit warmem Thermalwasser. Einzigartig auf der Welt. Zusammen mit den Ruinen von Hierapolis ein voller Tag.
 
@@ -80,6 +80,6 @@ Die großen Touristenziele (Istanbul, Kappadokien, Ägäisküste, Riviera) sind 
 Türkisches Frühstück (Kahvaltı) mit 15–20 kleinen Gerichten ist ein Ritual. Meze-Teller als Vorspeise. Adana-Kebab, İskender-Kebab, Lahmacun, Börek, Baklava, frisch gepresster Granatapfelsaft. Türkischer Chai (Çay) in kleinen Teegläsern ist das gesellschaftliche Schmiermittel — wird ständig angeboten und kostet oft nichts.
 
 ## Mehr lesen
-- [Wo übernachten in Istanbul](/blog/wo-uebernachten-istanbul)
-- [48 Stunden Istanbul](/blog/48-stunden-istanbul)
-- [Günstig fliegen: So findest du Deals für die Türkei](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in Istanbul](/blog/wo-uebernachten-istanbul/)
+- [48 Stunden Istanbul](/blog/48-stunden-istanbul/)
+- [Günstig fliegen: So findest du Deals für die Türkei](/blog/guenstig-fliegen-tipps/)

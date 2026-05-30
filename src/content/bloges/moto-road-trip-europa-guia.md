@@ -21,7 +21,7 @@ Europa tiene algunas de las mejores carreteras de montaña del mundo. Estas cuat
 
 **Carretera de los Alpes del Grossglockner, Austria:** 48 kilómetros, 36 curvas de herradura, vistas al pico más alto de Austria. El peaje ronda los 38 euros, pero vale cada céntimo. Es una de las carreteras de alta montaña mejor construidas de los Alpes, con miradores y un firme en excelente estado incluso a finales de temporada.
 
-**Ruta Romántica, Baviera:** Sin puertos de montaña. Sin alturas extremas. En cambio tienes pueblos medievales, colinas suaves y un ritmo que te permite mirar alrededor. Perfecta como entrada al viaje o como contraste después de días en los Alpes. Si ya conoces los Balcanes y quieres algo más tranquilo, esta ruta lo da. [Más ideas en la guía del road trip por los Balcanes.](/es/blog/balcanes-road-trip-ruta)
+**Ruta Romántica, Baviera:** Sin puertos de montaña. Sin alturas extremas. En cambio tienes pueblos medievales, colinas suaves y un ritmo que te permite mirar alrededor. Perfecta como entrada al viaje o como contraste después de días en los Alpes. Si ya conoces los Balcanes y quieres algo más tranquilo, esta ruta lo da. [Más ideas en la guía del road trip por los Balcanes.](/es/blog/balcanes-road-trip-ruta/)
 
 **Puertos de los Pirineos, Francia y España:** El Col du Tourmalet, el Port de la Bonaigua, el Portalet. Los Pirineos tienen menos turismo que los Alpes y las carreteras suelen ser más técnicas. En verano puedes rodar horas por los puertos del norte español sin cruzar apenas otro vehículo.
 
@@ -45,7 +45,7 @@ Dentro de la UE, tu carnet de conducir habitual es válido en todos los países 
 
 Seguro: tu póliza de responsabilidad civil cubre todos los países de la UE y la mayoría de los que aceptan la Carta Verde. Lleva siempre el documento contigo. Si tienes un accidente lo necesitarás. Un seguro de salud de viaje para ti como conductor es un buen complemento, especialmente en viajes largos.
 
-Las fronteras dentro de la UE son libres. Sin paradas, sin controles. Para países fuera de la UE como Turquía, las reglas son distintas. Todos los detalles en la [guía de highlights del road trip por Turquía.](/es/blog/turquia-road-trip-highlights)
+Las fronteras dentro de la UE son libres. Sin paradas, sin controles. Para países fuera de la UE como Turquía, las reglas son distintas. Todos los detalles en la [guía de highlights del road trip por Turquía.](/es/blog/turquia-road-trip-highlights/)
 
 ## ¿Dónde se alojan los motoristas en rutas largas?
 
@@ -57,7 +57,7 @@ Otras opciones:
 - **Booking.com con filtro de aparcamiento:** Muchos hostales tienen garaje pero no lo anuncian. Una llamada rápida antes de reservar suele resolverlo.
 - **Ser flexible en Europa del Este:** En Rumania, Bulgaria y Croacia normalmente encuentras buena alojamiento sin reserva previa, incluso en temporada alta.
 
-Para [planificar etapas y paradas nocturnas](/es/blog/roadtrip-planificacion-etapas), lo ideal es dejar entre 250 y 350 kilómetros entre cada punto de descanso.
+Para [planificar etapas y paradas nocturnas](/es/blog/roadtrip-planificacion-etapas/), lo ideal es dejar entre 250 y 350 kilómetros entre cada punto de descanso.
 
 ## ¿Cuánto cuesta un road trip en moto por Europa?
 
@@ -69,7 +69,7 @@ El desglose:
 - Peajes: 0 a 10 euros (Austria y Francia tienen peajes, Alemania no)
 - Comida: 15 a 20 euros
 
-Hacer camping baja bastante el total. Quedarse en hoteles con desayuno lo sube. El seguro de viaje no es donde ahorrar. Lo que debería cubrir una buena póliza está explicado en la [guía sobre seguro de viaje.](/es/blog/seguro-viaje-vale-la-pena)
+Hacer camping baja bastante el total. Quedarse en hoteles con desayuno lo sube. El seguro de viaje no es donde ahorrar. Lo que debería cubrir una buena póliza está explicado en la [guía sobre seguro de viaje.](/es/blog/seguro-viaje-vale-la-pena/)
 
 ## ¿Cuál es la mejor época para viajar en moto por Europa?
 
@@ -84,9 +84,9 @@ Julio y agosto son los meses más concurridos. El Grossglockner y la Ruta Román
 Antes de salir, conviene revisar vuelos, alojamiento y opciones de alquiler en un solo paso. El logbook de viajes de Zercy te ayuda a organizar tus ideas y convertirlas en planes concretos: [zercy.app/logbook](https://www.zercy.app/logbook)
 
 **Seguir leyendo:**
-- [Balcanes en moto: La mejor ruta](/es/blog/balcanes-road-trip-ruta)
-- [Turquía en moto: Highlights y consejos](/es/blog/turquia-road-trip-highlights)
-- [Planificación de etapas: Cómo hacerlo bien](/es/blog/roadtrip-planificacion-etapas)
+- [Balcanes en moto: La mejor ruta](/es/blog/balcanes-road-trip-ruta/)
+- [Turquía en moto: Highlights y consejos](/es/blog/turquia-road-trip-highlights/)
+- [Planificación de etapas: Cómo hacerlo bien](/es/blog/roadtrip-planificacion-etapas/)
 
 ---
 

@@ -71,6 +71,6 @@ Mid-range budget: 80 to 130 euros per day on the ground (accommodation, food, en
 
 ## Read More
 
-- [India Travel Guide: Highlights and Essential Tips](/en/blog/india-travel-guide-highlights)
-- [East Africa Safari Guide: What You Need to Know](/en/blog/east-africa-safari-guide)
-- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [India Travel Guide: Highlights and Essential Tips](/en/blog/india-travel-guide-highlights/)
+- [East Africa Safari Guide: What You Need to Know](/en/blog/east-africa-safari-guide/)
+- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026/)

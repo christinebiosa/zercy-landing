@@ -51,13 +51,13 @@ Se puede reducir con una campervan y más camping gratuito. Sube rápido con mot
 Tres rutas que funcionan para distintos estilos de viaje:
 
 **Costa Oeste: Los Ángeles hasta Portland**
-La ruta costera más famosa del mundo. Desde el sur: Santa Mónica, los acantilados de Big Sur (curvas cerradas, aquí es mejor una campervan), Monterey Bay, San Francisco, la Avenida de los Gigantes con sus secoyas, y la costa de Oregón hasta Portland. Tres o cuatro semanas es lo ideal. Dos semanas cubre los puntos principales. Más detalles en la [guía de road trip por la costa oeste de USA](/es/blog/costa-oeste-usa-roadtrip).
+La ruta costera más famosa del mundo. Desde el sur: Santa Mónica, los acantilados de Big Sur (curvas cerradas, aquí es mejor una campervan), Monterey Bay, San Francisco, la Avenida de los Gigantes con sus secoyas, y la costa de Oregón hasta Portland. Tres o cuatro semanas es lo ideal. Dos semanas cubre los puntos principales. Más detalles en la [guía de road trip por la costa oeste de USA](/es/blog/costa-oeste-usa-roadtrip/).
 
 **Southwest Loop: Las Vegas hasta Bryce Canyon**
 La concentración más alta de parques nacionales espectaculares en cualquier país del mundo. Empezando en Las Vegas (vuelos baratos, buenas opciones de alquiler), luego Zion National Park, Bryce Canyon, Capitol Reef, Arches, Canyonlands y vuelta por el Gran Cañón. Factible en dos semanas a buen ritmo. Evita el verano. Las temperaturas en julio y agosto superan los 45°C en Arizona. Abril y mayo, o septiembre y octubre, son las mejores épocas.
 
 **Ruta 66: Chicago hasta Santa Mónica**
-Casi 4.000 kilómetros de historia americana. Moteles abandonados, diners de los años 50, el desierto de Nuevo México, la playa final en Santa Mónica. Plan dos o tres semanas para vivirla completa. Más información en la [guía de la Ruta 66 por Estados Unidos](/es/blog/ruta-66-estados-unidos-road-trip).
+Casi 4.000 kilómetros de historia americana. Moteles abandonados, diners de los años 50, el desierto de Nuevo México, la playa final en Santa Mónica. Plan dos o tres semanas para vivirla completa. Más información en la [guía de la Ruta 66 por Estados Unidos](/es/blog/ruta-66-estados-unidos-road-trip/).
 
 ## ¿Qué apps necesitas para un viaje en autocaravana?
 
@@ -75,7 +75,7 @@ El ecosistema de apps para autocaravanistas ha crecido mucho.
 
 Las **dump stations** para vaciar los depósitos de aguas residuales se encuentran en Sanidumps.com. El **llenado de agua potable** está disponible en la mayoría de campings, en muchos estacionamientos de Walmart (gratis) y en tiendas Camping World. El **propano** para la cocina y la calefacción se compra en Walmart, Camping World y muchas gasolineras. La **conexión eléctrica** (shore power) solo está disponible en campings con hookups completos. Sin ella, funcionas con baterías cargadas por paneles solares o un generador integrado.
 
-Una nota sobre alquilar vehículos en general: la [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche) tiene consejos que aplican igual a una autocaravana, especialmente en seguros y cargos ocultos.
+Una nota sobre alquilar vehículos en general: la [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche/) tiene consejos que aplican igual a una autocaravana, especialmente en seguros y cargos ocultos.
 
 ## ¿Qué debes saber antes de alquilar?
 
@@ -110,6 +110,6 @@ Los alquileres a particulares a través de plataformas como RV Share u Outdoorsy
 ---
 
 **Leer más:**
-- [Road Trip por la Costa Oeste de USA](/es/blog/costa-oeste-usa-roadtrip)
-- [Ruta 66 por Estados Unidos](/es/blog/ruta-66-estados-unidos-road-trip)
-- [Checklist para alquilar un coche](/es/blog/checklist-alquiler-coche)
+- [Road Trip por la Costa Oeste de USA](/es/blog/costa-oeste-usa-roadtrip/)
+- [Ruta 66 por Estados Unidos](/es/blog/ruta-66-estados-unidos-road-trip/)
+- [Checklist para alquilar un coche](/es/blog/checklist-alquiler-coche/)

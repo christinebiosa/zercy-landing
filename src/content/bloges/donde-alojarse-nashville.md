@@ -45,7 +45,7 @@ The Gulch era antes un patio de maniobras ferroviarias. Hoy es el barrio más co
 
 **Opciones destacadas:** 1 Hotel Nashville (hotel de lujo sostenible con azotea, excepcional), Virgin Hotels Nashville (hotel lifestyle, bar excelente), The Joseph Nashville (Curio Collection by Hilton, enfocado en arte, muy personal).
 
-Ambiente boutique similar en otro centro musical del sur: nuestro [artículo sobre Miami](/es/blog/donde-alojarse-miami) muestra cómo funciona esto en otra ciudad con fuerte identidad cultural.
+Ambiente boutique similar en otro centro musical del sur: nuestro [artículo sobre Miami](/es/blog/donde-alojarse-miami/) muestra cómo funciona esto en otra ciudad con fuerte identidad cultural.
 
 ## ¿Cuándo es la mejor época para visitar Nashville?
 
@@ -117,6 +117,6 @@ Enero y febrero son los meses más económicos. Los precios caen un 40-50% respe
 ---
 
 **Más información:**
-- [Dónde alojarse en Miami: South Beach y más](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Nueva Orleans: barrios y hoteles](/es/blog/donde-alojarse-bogota)
-- [Dónde alojarse en Buenos Aires: Los 5 barrios](/es/blog/donde-alojarse-buenos-aires)
+- [Dónde alojarse en Miami: South Beach y más](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Nueva Orleans: barrios y hoteles](/es/blog/donde-alojarse-bogota/)
+- [Dónde alojarse en Buenos Aires: Los 5 barrios](/es/blog/donde-alojarse-buenos-aires/)

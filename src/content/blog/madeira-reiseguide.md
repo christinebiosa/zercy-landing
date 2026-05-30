@@ -85,6 +85,6 @@ PR1 Caldeirão Verde (Levada-Wanderung durch den Urwald), PR6 Encumeada (Gebirgs
 
 ## Mehr lesen
 
-- [Portugal Rundreise Route: Highlights von Nord nach Süd](/blog/portugal-rundreise-route)
-- [Kanaren Inselvergleich: Welche Insel passt zu dir?](/blog/kanaren-inseln-vergleich)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Portugal Rundreise Route: Highlights von Nord nach Süd](/blog/portugal-rundreise-route/)
+- [Kanaren Inselvergleich: Welche Insel passt zu dir?](/blog/kanaren-inseln-vergleich/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

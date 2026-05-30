@@ -16,7 +16,7 @@ Dieser Guide hilft dir beim Start. Kein romantisches Reiseblog-Gerede, sondern d
 
 Nicht jedes Land ist gleich geeignet für den Einstieg. Es geht nicht darum, dich zu schützen. Es geht darum, die erste Erfahrung gut zu machen, damit du wiederkommst.
 
-**Portugal** ist für viele der ideale Einstieg. Lissabon und Porto sind sicher, die Menschen sind freundlich, Englisch wird fast überall verstanden. Die Hostel-Szene ist lebhaft. Die Kosten sind moderat für Westeuropa. Du bekommst das Gefühl von "fremdes Land" ohne die Hürden, die dich anfangs stressen könnten. Mehr zu den besten Gebieten für deinen Aufenthalt findest du im [Lissabon-Guide für deinen ersten Besuch](/blog/lissabon-abseits-der-touristenpfade).
+**Portugal** ist für viele der ideale Einstieg. Lissabon und Porto sind sicher, die Menschen sind freundlich, Englisch wird fast überall verstanden. Die Hostel-Szene ist lebhaft. Die Kosten sind moderat für Westeuropa. Du bekommst das Gefühl von "fremdes Land" ohne die Hürden, die dich anfangs stressen könnten. Mehr zu den besten Gebieten für deinen Aufenthalt findest du im [Lissabon-Guide für deinen ersten Besuch](/blog/lissabon-abseits-der-touristenpfade/).
 
 **Thailand** ist das klassische Backpacker-Ziel, und das aus gutem Grund. Die Infrastruktur für Alleinreisende ist perfekt. Hostels, Guesthouses, Touristenbusse, geführte Tagesausflüge: alles ist darauf ausgelegt, dass Leute allein ankommen und Anschluss finden. Chiang Mai besonders: kleine Stadt, entspannte Atmosphäre, hunderte gleichgesinnte Reisende.
 
@@ -42,7 +42,7 @@ Allein reisen bedeutet nicht sorglos reisen. Ein paar einfache Maßnahmen machen
 
 **Notfallkontakt informieren.** Gib zuhause jemandem dein grobes Reiseprogramm. Nicht stündlich, aber: Stadt, Unterkunft, geplante Abreise. Tägliche kurze Whatsapp-Updates an Eltern oder Freunde halten alle ruhig. Dich auch.
 
-**[Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich).** Keine Option, die man weglassen sollte. Besonders als Alleinreisender hast du keine Begleitung, die im Notfall einspringt. Eine gute Auslandskrankenversicherung kostet weniger als eine Restaurantrechnung und kann teuer werden, wenn du sie nicht hast.
+**[Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/).** Keine Option, die man weglassen sollte. Besonders als Alleinreisender hast du keine Begleitung, die im Notfall einspringt. Eine gute Auslandskrankenversicherung kostet weniger als eine Restaurantrechnung und kann teuer werden, wenn du sie nicht hast.
 
 **Wertsachen nicht unbeaufsichtigt lassen.** Klingt banal, ist es auch. Im Hostel: Schließfach nutzen. Am Strand: Wertsachen im Zimmer lassen oder eine Person im Wechsel aufpassen. Taschendiebe arbeiten in touristischen Gebieten systematisch. Nicht paranoide werden, aber aufmerksam.
 
@@ -54,7 +54,7 @@ Das Thema, das viele unterschätzen. Eine normale EC-Karte ist für Auslandsreis
 
 **Kleines Cash-Backup.** In einigen Ländern, besonders in Südostasien oder auf Märkten, wird kein Kartenlesegerät akzeptiert. 50-100 Euro in lokaler Währung für die erste Nacht und kleine Ausgaben. Der Rest per Karte.
 
-Mehr zu den besten Reisekreditkarten und [welche Apps wirklich helfen](/blog/beste-travel-apps-2026) findest du in den verlinkten Guides.
+Mehr zu den besten Reisekreditkarten und [welche Apps wirklich helfen](/blog/beste-travel-apps-2026/) findest du in den verlinkten Guides.
 
 ## Was wirklich passiert, wenn du allein reist
 
@@ -64,7 +64,7 @@ Du kommst an, der Hostelschlafsaal ist lauter als erwartet, und du fragst dich k
 
 Am ersten Abend sprichst du wahrscheinlich mit jemandem aus einem anderen Land. Am zweiten Tag kennst du seinen oder ihren Namen. Am dritten Tag fragt dich jemand, ob du eine Tour mitkommst.
 
-Frauen, die allein reisen: viele der besten Ziele in diesem Guide sind auch für Solo-Reisende besonders geeignet. Portugal, Japan, Thailand mit den richtigen Vorsichtsmaßnahmen. Mehr dazu im ausführlichen [Guide für Solo-Reisende Frauen](/blog/solo-reisen-frauen-sicher).
+Frauen, die allein reisen: viele der besten Ziele in diesem Guide sind auch für Solo-Reisende besonders geeignet. Portugal, Japan, Thailand mit den richtigen Vorsichtsmaßnahmen. Mehr dazu im ausführlichen [Guide für Solo-Reisende Frauen](/blog/solo-reisen-frauen-sicher/).
 
 Die erste Alleinreise verändert etwas. Was genau, weißt du vorher nicht. Aber fast niemand kommt zurück und sagt: das hätte ich nicht gemacht.
 
@@ -89,6 +89,6 @@ Dokumentenkopien in der Cloud, Notfallkontakt zuhause informieren, Reiseversiche
 ---
 
 **Mehr lesen:**
-- [Solo reisen als Frau: Die sichersten Ziele und besten Tipps](/blog/solo-reisen-frauen-sicher)
-- [Backpacking für Einsteiger: Was du wirklich brauchst](/blog/backpacking-einsteiger-guide)
-- [Die besten Travel Apps 2026 für unterwegs](/blog/beste-travel-apps-2026)
+- [Solo reisen als Frau: Die sichersten Ziele und besten Tipps](/blog/solo-reisen-frauen-sicher/)
+- [Backpacking für Einsteiger: Was du wirklich brauchst](/blog/backpacking-einsteiger-guide/)
+- [Die besten Travel Apps 2026 für unterwegs](/blog/beste-travel-apps-2026/)

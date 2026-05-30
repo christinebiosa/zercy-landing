@@ -47,7 +47,7 @@ Fenton Street ist Rotoruos Haupthotelkorridor. Auf mehreren Kilometern reihen si
 
 **Top-Picks:** Sudima Hotel Rotorua (Geothermalbad im Hotel, modernes Design, gutes Preis-Leistungs-Verhältnis), Regent of Rotorua (boutique-Charakter zu vernünftigen Preisen), Tuscany Villas (selbstbewirtschaftete Apartments, ideal für Familien mit Küche).
 
-Für einen Neuseeland-Roadtrip, bei dem Rotorua nur eine Station von vielen ist, sind die Hotels an der Fenton Street die effizienteste Wahl. Lies unsere [Neuseeland-Reiseführer-Route](/blog/australien-rundreise-route) für den kompletten Überblick von Auckland bis Queenstown.
+Für einen Neuseeland-Roadtrip, bei dem Rotorua nur eine Station von vielen ist, sind die Hotels an der Fenton Street die effizienteste Wahl. Lies unsere [Neuseeland-Reiseführer-Route](/blog/australien-rundreise-route/) für den kompletten Überblick von Auckland bis Queenstown.
 
 ## Wann ist die beste Reisezeit für Rotorua?
 
@@ -75,7 +75,7 @@ Die Hotels direkt am Seeufer bieten etwas, das in Rotorua rar ist: Morgenstille.
 
 **Top-Picks:** Novotel Rotorua Lakeside (verlässlich, guter Seeblick), Rotorua Thermal Holiday Park (einzigartig: Thermalbäder direkt auf dem Campingplatz, auch für Wohnmobile und Glamping).
 
-Wellness in Rotorua ist kein Extra, es ist Bestandteil jeder Übernachtung. Wer Spa-Reisen gezielt plant, findet in unserem Artikel [Wellness und Spa Reiseziele](/blog/wellness-spa-reisen-destinationen) mehr Destinationsvergleiche. Und wer Unterwasserwelten kombinieren möchte: Die Coromandel-Küste östlich von Rotorua gehört zu den besten Schnorchelregionen des Landes, dazu mehr unter [Tauchen und Schnorcheln: Beste Reiseziele](/blog/tauchen-schnorcheln-reiseziele).
+Wellness in Rotorua ist kein Extra, es ist Bestandteil jeder Übernachtung. Wer Spa-Reisen gezielt plant, findet in unserem Artikel [Wellness und Spa Reiseziele](/blog/wellness-spa-reisen-destinationen/) mehr Destinationsvergleiche. Und wer Unterwasserwelten kombinieren möchte: Die Coromandel-Küste östlich von Rotorua gehört zu den besten Schnorchelregionen des Landes, dazu mehr unter [Tauchen und Schnorcheln: Beste Reiseziele](/blog/tauchen-schnorcheln-reiseziele/).
 
 ## Whakarewairewa: Geothermal und Māori-Kultur
 
@@ -123,6 +123,6 @@ Rotorua liegt ca. 230 km südlich von Auckland, rund 2,5 Stunden Fahrt mit dem A
 ---
 
 **Mehr lesen:**
-- [Australien Rundreise Route: Die komplette Neuseeland-Strecke](/blog/australien-rundreise-route)
-- [Wellness und Spa Reiseziele: Die besten Destinationen](/blog/wellness-spa-reisen-destinationen)
-- [Tauchen und Schnorcheln: Beste Reiseziele weltweit](/blog/tauchen-schnorcheln-reiseziele)
+- [Australien Rundreise Route: Die komplette Neuseeland-Strecke](/blog/australien-rundreise-route/)
+- [Wellness und Spa Reiseziele: Die besten Destinationen](/blog/wellness-spa-reisen-destinationen/)
+- [Tauchen und Schnorcheln: Beste Reiseziele weltweit](/blog/tauchen-schnorcheln-reiseziele/)

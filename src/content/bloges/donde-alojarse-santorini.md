@@ -56,7 +56,7 @@ Los hoteles en Fira son más baratos que en Oia. Buenos hoteles boutique con vis
 - **Tsitouras Collection** (cinco casas históricas, Fira, aprox. 300 €)
 - **Hotel Atlantis** (ubicación central, buenas instalaciones, aprox. 160 €)
 
-Para otras escapadas en el Mediterráneo, consulta también [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest) y [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul).
+Para otras escapadas en el Mediterráneo, consulta también [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/) y [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul/).
 
 ## ¿Qué pueblo es mejor para una primera visita?
 
@@ -103,6 +103,6 @@ Buenos hoteles boutique con vista a la caldera desde 220 a 350 euros por noche e
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Estambul: ¿Sultanahmet o Beyoğlu?](/es/blog/donde-alojarse-estambul)
-- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest)
-- [Dónde alojarse en Florencia: Centro histórico u Oltrarno](/es/blog/donde-alojarse-florencia)
+- [Dónde alojarse en Estambul: ¿Sultanahmet o Beyoğlu?](/es/blog/donde-alojarse-estambul/)
+- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest/)
+- [Dónde alojarse en Florencia: Centro histórico u Oltrarno](/es/blog/donde-alojarse-florencia/)

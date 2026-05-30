@@ -44,7 +44,7 @@ Suiza tiene un nivel de precios alto en todas las categorías. Los vuelos no son
 
 LOT Polish Airlines ofrece Varsovia-Chicago y Varsovia-Nueva York a precios que pocas aerolíneas de Europa Occidental igualan. Billetes por debajo de 500€ a Norteamérica son habituales. Desde Múnich directamente suele costar entre 670 y 830€.
 
-La [función Explore de Google Flights](/es/blog/google-flights-trucos-2026) muestra estas diferencias de precio por hub directamente en un mapa. Úsala para comparar varios aeropuertos de salida antes de elegir ruta.
+La [función Explore de Google Flights](/es/blog/google-flights-trucos-2026/) muestra estas diferencias de precio por hub directamente en un mapa. Úsala para comparar varios aeropuertos de salida antes de elegir ruta.
 
 ## Cómo calculas si realmente vale la pena?
 
@@ -61,7 +61,7 @@ Si la diferencia de precio del vuelo es 280€ y llegar cuesta 100€, te quedas
 
 **Calcula siempre el precio total del paquete.** Billete de tren más posibles costes de hotel más el aparcamiento en Frankfurt que ya no necesitas, menos el ahorro en el vuelo. Solo entonces decides.
 
-Para la estrategia completa de reserva, [consejos para volar barato](/es/blog/consejos-vuelos-baratos) cubre el panorama completo incluyendo el mejor momento para comprar.
+Para la estrategia completa de reserva, [consejos para volar barato](/es/blog/consejos-vuelos-baratos/) cubre el panorama completo incluyendo el mejor momento para comprar.
 
 ## Cuándo no compensa el routing ex-EU?
 
@@ -75,7 +75,7 @@ Viajes cortos de menos de una semana. Si pasas tres días en Nueva York, el tiem
 
 Vuelos de larga distancia de más de 8 horas. Aquí es donde el potencial de ahorro es mayor. Viaje en temporada baja, de octubre a marzo excepto festivos. Agenda flexible. Vivir cerca del hub alternativo. Alguien en Salzburgo llega a Viena igual de fácil que a Múnich.
 
-El momento de la reserva importa tanto como elegir el aeropuerto correcto. El análisis completo está en [cuándo reservar vuelos para obtener el mejor precio](/es/blog/cuando-reservar-vuelos).
+El momento de la reserva importa tanto como elegir el aeropuerto correcto. El análisis completo está en [cuándo reservar vuelos para obtener el mejor precio](/es/blog/cuando-reservar-vuelos/).
 
 ## Cuáles son los mejores hubs alternativos para viajeros del centro de Europa?
 
@@ -89,7 +89,7 @@ Un resumen rápido de los aeropuertos más útiles:
 
 **Budapest (BUD):** Wizz Air y Ryanair hacen las conexiones Budapest-Europa muy asequibles. Combinado con un vuelo de larga distancia desde allí, es posible ahorrar entre 100 y 200€ respecto a hubs de Europa Occidental.
 
-Esta estrategia comparte la lógica de los [vuelos open-jaw](/es/blog/open-jaw-tickets-truco-viaje): llegar a tu destino por una ruta distinta suele costar menos.
+Esta estrategia comparte la lógica de los [vuelos open-jaw](/es/blog/open-jaw-tickets-truco-viaje/): llegar a tu destino por una ruta distinta suele costar menos.
 
 ---
 
@@ -119,6 +119,6 @@ La intensidad competitiva es el factor principal. Los aeropuertos con varios ope
 
 ## Sigue leyendo
 
-- [Open-Jaw Tickets: El Truco de Viaje que Casi Nadie Conoce](/es/blog/open-jaw-tickets-truco-viaje)
-- [Google Flights: 8 Trucos que Pocos Viajeros Usan en 2026](/es/blog/google-flights-trucos-2026)
-- [Cuándo Reservar Vuelos: La Respuesta Honesta](/es/blog/cuando-reservar-vuelos)
+- [Open-Jaw Tickets: El Truco de Viaje que Casi Nadie Conoce](/es/blog/open-jaw-tickets-truco-viaje/)
+- [Google Flights: 8 Trucos que Pocos Viajeros Usan en 2026](/es/blog/google-flights-trucos-2026/)
+- [Cuándo Reservar Vuelos: La Respuesta Honesta](/es/blog/cuando-reservar-vuelos/)

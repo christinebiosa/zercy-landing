@@ -16,9 +16,9 @@ Esta guía recoge los mejores destinos para escapadas de fin de semana desde Esp
 
 Los mejores destinos de fin de semana tienen tres cosas en común: se llega en menos de tres horas (o en vuelo por menos de 100 euros), son lo bastante compactos para explorar en dos días y tienen una identidad propia que se siente desde el primer momento.
 
-**Praga** es uno de los destinos más accesibles de Europa. Vuelos directos desde Madrid o Barcelona desde 40 a 80 euros. Ciudad Vieja, Plaza de Wenceslao, barrio judío: todo a pie. Ciudad barata con buena oferta gastronómica. Una escapada de [48 horas en Praga](/es/blog/48-horas-praga) no necesita un itinerario complicado.
+**Praga** es uno de los destinos más accesibles de Europa. Vuelos directos desde Madrid o Barcelona desde 40 a 80 euros. Ciudad Vieja, Plaza de Wenceslao, barrio judío: todo a pie. Ciudad barata con buena oferta gastronómica. Una escapada de [48 horas en Praga](/es/blog/48-horas-praga/) no necesita un itinerario complicado.
 
-**Viena** tiene vuelos directos desde las principales ciudades españolas. La ciudad es densa: museos, cafeterías históricas, Naschmarkt, Prater. Los atractivos están cerca entre sí. [48 horas en Viena](/es/blog/48-horas-viena) se pueden planificar perfectamente sin coche.
+**Viena** tiene vuelos directos desde las principales ciudades españolas. La ciudad es densa: museos, cafeterías históricas, Naschmarkt, Prater. Los atractivos están cerca entre sí. [48 horas en Viena](/es/blog/48-horas-viena/) se pueden planificar perfectamente sin coche.
 
 **Amsterdam** es especialmente cómoda para los que viajan desde el norte de Europa o buscan una combinación de canales, museos y gastronomía. Vuelos directos desde España desde 50 a 90 euros. Rijksmuseum, Jordaan y los canales son el centro de todo.
 
@@ -34,7 +34,7 @@ Menos de tres horas en tren: coge siempre el tren. El desplazamiento al aeropuer
 
 A partir de 600 kilómetros o tres horas de viaje: comprueba los vuelos. Lisboa, Nápoles y el norte de Europa son demasiado lejos en tren para un fin de semana. Se perdería la mitad del tiempo en el trayecto.
 
-**Encontrar vuelos baratos para el fin de semana:** Los vuelos del viernes por la noche son más caros que los del sábado por la mañana. Es la regla más ignorada al reservar. Si vuelas el sábado temprano (entre las 6 y las 8h) y regresas el domingo por la noche, puedes ahorrar entre 30 y 50 euros. La guía de [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos) lo explica en detalle.
+**Encontrar vuelos baratos para el fin de semana:** Los vuelos del viernes por la noche son más caros que los del sábado por la mañana. Es la regla más ignorada al reservar. Si vuelas el sábado temprano (entre las 6 y las 8h) y regresas el domingo por la noche, puedes ahorrar entre 30 y 50 euros. La guía de [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) lo explica en detalle.
 
 Google Flights con fechas flexibles (+/- 3 días) muestra a menudo alternativas más baratas. El calendario de precios revela diferencias de 40 a 80 euros.
 
@@ -68,12 +68,12 @@ Consulta [visiteurope.com](https://www.visiteurope.com) para ver el calendario d
 
 Zercy integra precios de vuelo en tiempo real. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano al reservar.
 
-Para escapadas donde quieras añadir un alquiler de coche: la [guía de checklist de alquiler de coche](/es/blog/checklist-alquiler-coche) te muestra cuándo merece la pena y qué proveedores son fiables. Más guías de destino detalladas en el blog de Zercy.
+Para escapadas donde quieras añadir un alquiler de coche: la [guía de checklist de alquiler de coche](/es/blog/checklist-alquiler-coche/) te muestra cuándo merece la pena y qué proveedores son fiables. Más guías de destino detalladas en el blog de Zercy.
 
 **Más información:**
-- [48 horas en Praga: El itinerario honesto](/es/blog/48-horas-praga)
-- [48 horas en Viena: Lo que de verdad merece la pena](/es/blog/48-horas-viena)
-- [Consejos para vuelos baratos: Cómo encontrar los mejores precios](/es/blog/consejos-vuelos-baratos)
+- [48 horas en Praga: El itinerario honesto](/es/blog/48-horas-praga/)
+- [48 horas en Viena: Lo que de verdad merece la pena](/es/blog/48-horas-viena/)
+- [Consejos para vuelos baratos: Cómo encontrar los mejores precios](/es/blog/consejos-vuelos-baratos/)
 
 ## Preguntas frecuentes
 

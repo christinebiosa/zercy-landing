@@ -47,7 +47,7 @@ Westlich der Altstadt liegt Kalamaja. Früher ein Arbeiterviertel, heute Tallinn
 
 **Top-Picks:** My City Hotel (Design, sehr gut für Preis-Leistung), Telegraph Hotel (nahe Kalamaja, gute Lage), StaySimple Towers (sauber, günstig, gut angebunden).
 
-Wer Tallinn mit Helsinki kombiniert, findet im [Helsinki-Stadtführer](/blog/wo-uebernachten-oslo) ähnliche Hipster-Viertel-Tipps für die Fähre über den Finnischen Meerbusen.
+Wer Tallinn mit Helsinki kombiniert, findet im [Helsinki-Stadtführer](/blog/wo-uebernachten-oslo/) ähnliche Hipster-Viertel-Tipps für die Fähre über den Finnischen Meerbusen.
 
 ## Wann ist die beste Reisezeit für Tallinn?
 
@@ -63,7 +63,7 @@ Das Telliskivi Creative City ist ein ehemaliges Fabrikareal zwischen Kalamaja un
 
 **Top-Picks:** Hub Hotel Tallinn (modern, co-working-friendly), Boutique Hotel Revalia (kleines Boutique-Hotel, gute Lage), Hostel Vana Tom (bestes Preis-Leistungs-Verhältnis in der Gegend).
 
-Wer eine längere Reise plant und mehrere Baltikum-Städte kombinieren will, ist mit dem [Zugreisen Europa Guide](/blog/zugreisen-europa) gut beraten.
+Wer eine längere Reise plant und mehrere Baltikum-Städte kombinieren will, ist mit dem [Zugreisen Europa Guide](/blog/zugreisen-europa/) gut beraten.
 
 ## Kadriorg: Ruhiges Tallinn
 
@@ -96,7 +96,7 @@ Für Tallinn ist [Booking.com](https://www.booking.com) gut aufgestellt:
 
 Wer länger bleibt oder mit Gruppe reist, sollte Appartements in Kalamaja oder Telliskivi prüfen. Die Vanalinn-Hotels verlangen einen Aufpreis für die Lage, der sich für kurze Trips lohnt.
 
-Wer eine Reise durch das Baltikum oder Nordeuropa plant, findet im [Reiseversicherung-Guide](/blog/reiseversicherung-was-lohnt-sich) wichtige Infos zum Schutz unterwegs.
+Wer eine Reise durch das Baltikum oder Nordeuropa plant, findet im [Reiseversicherung-Guide](/blog/reiseversicherung-was-lohnt-sich/) wichtige Infos zum Schutz unterwegs.
 
 ---
 
@@ -123,6 +123,6 @@ Der Flughafen Tallinn (Lennart Meri Tallinn Airport) liegt nur 4 Kilometer vom S
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Oslo: Die 5 Stadtteile](/blog/wo-uebernachten-oslo)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
-- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich)
+- [Wo übernachten in Oslo: Die 5 Stadtteile](/blog/wo-uebernachten-oslo/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)
+- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/)

@@ -90,7 +90,7 @@ Der BTC City Bereich ist Geschäftsreisenden vorbehalten. Europas größtes Eink
 
 Ljubljana ist eine kleine Stadt. Die meisten guten Hotels sind in der Altstadt oder Center. Wer ein Ferienapartment sucht, findet in Trnovo die schönsten Optionen. Direkt beim Hotel buchen lohnt sich nur bei den wenigen Luxus-Boutique-Häusern, wenn du Spa-Pakete oder besondere Angebote willst.
 
-Für Ausflüge vom Ljubljana aus empfehlen sich der [Slowenien-Reiseguide](/blog/slowenien-geheimnis-2026) und unser [Outdoor-Guide zu Fernwanderwegen](/blog/fernwanderwege-welt-top-routen) für die Julischen Alpen.
+Für Ausflüge vom Ljubljana aus empfehlen sich der [Slowenien-Reiseguide](/blog/slowenien-geheimnis-2026/) und unser [Outdoor-Guide zu Fernwanderwegen](/blog/fernwanderwege-welt-top-routen/) für die Julischen Alpen.
 
 ---
 
@@ -117,6 +117,6 @@ November, Januar und Februar haben die niedrigsten Hotelpreise. Die teuerste Zei
 ---
 
 **Mehr lesen:**
-- [Slowenien Reise Guide 2026](/blog/slowenien-geheimnis-2026)
-- [Wo übernachten in Wien](/blog/wo-uebernachten-wien)
-- [Geheimtipps Europa: Unterschätzte Städte](/blog/geheimtipps-europa)
+- [Slowenien Reise Guide 2026](/blog/slowenien-geheimnis-2026/)
+- [Wo übernachten in Wien](/blog/wo-uebernachten-wien/)
+- [Geheimtipps Europa: Unterschätzte Städte](/blog/geheimtipps-europa/)

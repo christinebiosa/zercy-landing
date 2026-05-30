@@ -32,7 +32,7 @@ Hay excepciones: **Chile y Argentina** son más caros. Buenos Aires puede salir 
 
 **El efectivo es clave en muchos países.** Los cajeros automáticos escasean en pueblos pequeños y suelen cobrar comisiones altas. Una tarjeta Wise es una buena inversión antes de salir. Convierte al tipo de cambio real sin márgenes ocultos. Aun así, llevá siempre efectivo en moneda local antes de salir hacia zonas alejadas.
 
-Más sobre cómo planificar tus finanzas de viaje: [Cómo planificar tu presupuesto de viaje](/es/blog/planificar-presupuesto-viaje)
+Más sobre cómo planificar tus finanzas de viaje: [Cómo planificar tu presupuesto de viaje](/es/blog/planificar-presupuesto-viaje/)
 
 ---
 
@@ -51,7 +51,7 @@ La ruta clásica es más o menos así:
 
 Los vuelos de bajo costo dentro del continente valen la pena revisarlos. Aerolíneas como LATAM y Sky Airline tienen promociones frecuentes en las rutas principales.
 
-También te puede interesar: [Viaje económico por Centroamérica](/es/blog/viaje-economico-centroamerica) y la [Guía para mochileros principiantes](/es/blog/mochilero-guia-principiantes)
+También te puede interesar: [Viaje económico por Centroamérica](/es/blog/viaje-economico-centroamerica/) y la [Guía para mochileros principiantes](/es/blog/mochilero-guia-principiantes/)
 
 ---
 
@@ -63,7 +63,7 @@ Sudamérica es enorme, y las zonas climáticas son muy distintas entre sí.
 
 Un punto importante: el verano del hemisferio norte (junio a agosto) coincide con la temporada de lluvias en partes de la cuenca amazónica. Si vas a la selva, eso hay que tenerlo en cuenta.
 
-Para una visión completa sobre seguridad en la región: [Seguridad para viajeros en Latinoamérica](/es/blog/seguridad-latinoamerica-viajeros)
+Para una visión completa sobre seguridad en la región: [Seguridad para viajeros en Latinoamérica](/es/blog/seguridad-latinoamerica-viajeros/)
 
 ---
 
@@ -105,6 +105,6 @@ Empezá a armar tu plan: [zercy.app/logbook](https://www.zercy.app/logbook)
 
 ### Seguí leyendo
 
-- [Seguridad para viajeros en Latinoamérica](/es/blog/seguridad-latinoamerica-viajeros)
-- [Guía para mochileros principiantes](/es/blog/mochilero-guia-principiantes)
-- [Cómo planificar tu presupuesto de viaje](/es/blog/planificar-presupuesto-viaje)
+- [Seguridad para viajeros en Latinoamérica](/es/blog/seguridad-latinoamerica-viajeros/)
+- [Guía para mochileros principiantes](/es/blog/mochilero-guia-principiantes/)
+- [Cómo planificar tu presupuesto de viaje](/es/blog/planificar-presupuesto-viaje/)

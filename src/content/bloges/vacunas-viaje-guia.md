@@ -82,6 +82,6 @@ Muchos países africanos y sudamericanos exigen comprobante de vacunación contr
 
 ## Más artículos
 
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial)
-- [Australia: La Ruta Completa](/es/blog/australia-ruta-completa)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial/)
+- [Australia: La Ruta Completa](/es/blog/australia-ruta-completa/)

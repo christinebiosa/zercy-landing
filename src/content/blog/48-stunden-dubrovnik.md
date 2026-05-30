@@ -35,7 +35,7 @@ Tag 2 beginnt am Hafen. Fähren zur Insel Lokrum starten dort mehrmals täglich,
 
 Auf Lokrum gibt es keine Hotels, keine Ferienwohnungen, keine dauerhaften Bewohner. Nur Wald, Felsen, Meerwasserpools und Pfauen, die frei auf der Insel leben. Das Tote Meer, ein Salzwassersee im Inneren der Insel, ist der beliebteste Badespot. Die Felsklippen an der Südostseite sind wilder und meist weniger frequentiert.
 
-Plan zwei bis drei Stunden auf Lokrum. Schwimmen, durch den Benediktiner-Klostergarten schlendern, Mittag in der einfachen Bar auf der Insel essen. Für alles Weitere zur Unterkunft auf der kroatischen Küste: unser [Kroatien Inselhopping Guide](/blog/kroatien-inselhopping) zeigt dir, wie du das am besten kombinierst.
+Plan zwei bis drei Stunden auf Lokrum. Schwimmen, durch den Benediktiner-Klostergarten schlendern, Mittag in der einfachen Bar auf der Insel essen. Für alles Weitere zur Unterkunft auf der kroatischen Küste: unser [Kroatien Inselhopping Guide](/blog/kroatien-inselhopping/) zeigt dir, wie du das am besten kombinierst.
 
 ## Welche Aktivitäten warten an Tag 2 Nachmittag und Abend?
 
@@ -45,18 +45,18 @@ Organisierte Touren starten mehrmals täglich von Pile Gate, dauern rund 90 Minu
 
 Den Abend schließt du an der Buza Bar ab. Das ist keine normale Bar. Buza bedeutet auf Kroatisch "Loch", und das beschreibt es gut. Ein Loch in der Stadtmauer, direkt über den Felsen, mit Blick aufs offene Meer. Plastikstühle, einfache Getränke, kein Essen. Man sitzt auf Kalksteinfelsen oder an kleinen Tischen, die Hände um ein kaltes Getränk, und schaut auf das Adriatische Meer. Dort kein WLAN. Das ist der Plan.
 
-Hinweis zur Übertourismus-Problematik: Dubrovnik hat die Touristenzahlen seit einigen Jahren aktiv begrenzt, mit Obergrenzen für Kreuzfahrtschiffe und höheren Eintrittspreisen. Das hat geholfen. Trotzdem gilt: Früh morgens und abends nach 20 Uhr ist die Stadt deutlich angenehmer als zwischen 10 und 17 Uhr. Wer das beachtet, erlebt Dubrovnik, wie es sein soll. Mehr dazu in unserem Artikel über [Übertourismus und Alternativen](/blog/uebertourismus-alternativen-tipps).
+Hinweis zur Übertourismus-Problematik: Dubrovnik hat die Touristenzahlen seit einigen Jahren aktiv begrenzt, mit Obergrenzen für Kreuzfahrtschiffe und höheren Eintrittspreisen. Das hat geholfen. Trotzdem gilt: Früh morgens und abends nach 20 Uhr ist die Stadt deutlich angenehmer als zwischen 10 und 17 Uhr. Wer das beachtet, erlebt Dubrovnik, wie es sein soll. Mehr dazu in unserem Artikel über [Übertourismus und Alternativen](/blog/uebertourismus-alternativen-tipps/).
 
-Für Übernachtungs-Tipps in Dubrovnik haben wir einen eigenen Guide: [Wo übernachten in Dubrovnik](/blog/wo-uebernachten-dubrovnik). Innenstadt oder außerhalb, mit Bus erreichbar und deutlich günstiger.
+Für Übernachtungs-Tipps in Dubrovnik haben wir einen eigenen Guide: [Wo übernachten in Dubrovnik](/blog/wo-uebernachten-dubrovnik/). Innenstadt oder außerhalb, mit Bus erreichbar und deutlich günstiger.
 
 Plane deine Dubrovnik-Suche im [Zercy Logbook](https://www.zercy.app/logbook), damit du Flüge, Unterkunft und Aktivitäten an einem Ort hast.
 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Dubrovnik: Innenstadt vs. außerhalb](/blog/wo-uebernachten-dubrovnik)
-- [Kroatien Inselhopping: Dalmatien mit der Fähre](/blog/kroatien-inselhopping)
-- [Übertourismus: Alternativen und Tipps für ruhigere Reiseziele](/blog/uebertourismus-alternativen-tipps)
+- [Wo übernachten in Dubrovnik: Innenstadt vs. außerhalb](/blog/wo-uebernachten-dubrovnik/)
+- [Kroatien Inselhopping: Dalmatien mit der Fähre](/blog/kroatien-inselhopping/)
+- [Übertourismus: Alternativen und Tipps für ruhigere Reiseziele](/blog/uebertourismus-alternativen-tipps/)
 
 ---
 

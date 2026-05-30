@@ -46,7 +46,7 @@ La flexibilidad es el recurso más valioso en la búsqueda de vuelos baratos. Si
 
 **El truco del vuelo de madrugada o temprano**: los vuelos antes de las 7 de la mañana suelen ser más baratos porque tienen menos demanda. Son incómodos, pero el ahorro puede justificarlo para vuelos largos.
 
-Para más estrategias sobre el momento óptimo de compra, consulta nuestra guía completa sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos).
+Para más estrategias sobre el momento óptimo de compra, consulta nuestra guía completa sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/).
 
 ## ¿Vale la pena usar aerolíneas low cost para ahorrar?
 
@@ -66,7 +66,7 @@ Para vuelos solo con equipaje de mano, las low cost son imbatibles. Para viajes 
 
 **Aeropuertos alternativos**: muchos destinos tienen aeropuertos secundarios más económicos. Frankfurt tiene Frankfurt-Hahn a 90 km. París tiene Beauvais a 80 km del centro. El ahorro puede ser significativo si el transporte terrestre es barato.
 
-**Open-jaw y escalas estratégicas**: los billetes que salen de un aeropuerto y regresan desde otro a veces son más baratos que los vuelos de ida y vuelta desde el mismo punto. Explicamos esto con más detalle en nuestra guía de [open-jaw tickets](/es/blog/open-jaw-tickets-truco-viaje).
+**Open-jaw y escalas estratégicas**: los billetes que salen de un aeropuerto y regresan desde otro a veces son más baratos que los vuelos de ida y vuelta desde el mismo punto. Explicamos esto con más detalle en nuestra guía de [open-jaw tickets](/es/blog/open-jaw-tickets-truco-viaje/).
 
 **Alertas de precio**: tanto Google Flights como Skyscanner permiten activar alertas que te avisan cuando el precio de una ruta baja. Configúralas con 2-3 meses de antelación para rutas de larga distancia.
 
@@ -97,6 +97,6 @@ En Latinoamérica, las principales low cost son Volaris, VivaAerobus e Interjet 
 ---
 
 **Más para leer:**
-- [Cuándo reservar vuelos: la guía completa del timing](/es/blog/cuando-reservar-vuelos)
-- [Open-jaw tickets: el truco de viaje que pocos conocen](/es/blog/open-jaw-tickets-truco-viaje)
-- [Trucos de aeropuerto para viajar sin estrés](/es/blog/trucos-aeropuerto)
+- [Cuándo reservar vuelos: la guía completa del timing](/es/blog/cuando-reservar-vuelos/)
+- [Open-jaw tickets: el truco de viaje que pocos conocen](/es/blog/open-jaw-tickets-truco-viaje/)
+- [Trucos de aeropuerto para viajar sin estrés](/es/blog/trucos-aeropuerto/)

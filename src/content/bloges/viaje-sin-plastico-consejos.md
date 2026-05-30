@@ -36,7 +36,7 @@ El plástico de un solo uso es a veces inevitable en viajes. La opción más pra
 
 **Algunos destinos líderes en reducción de plástico:** Islandia (agua del grifo bebible en todo el país, sin necesidad de botella de plástico), la mayoría de países nórdicos, Japón (a pesar del packaging intenso en productos, el sistema de reciclaje es uno de los más eficientes del mundo), y algunos destinos conscientes como las Maldivas que han implementado restricciones de plástico de un solo uso.
 
-Para más sobre viajes sostenibles, lee [slow travel: qué significa y por qué cada vez más viajeros lo eligen](/es/blog/slow-travel-que-significa).
+Para más sobre viajes sostenibles, lee [slow travel: qué significa y por qué cada vez más viajeros lo eligen](/es/blog/slow-travel-que-significa/).
 
 Zercy puede ayudarte a planificar viajes con criterios sostenibles. Guarda tus planes en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -63,6 +63,6 @@ Alternativas ordenadas por practicidad: (1) pastillas de purificación (Micropur
 ---
 
 **Más para leer:**
-- [Compensación de CO₂ en vuelos: ¿funciona realmente?](/es/blog/compensacion-co2-vuelos)
-- [Slow travel: qué significa y por qué cada vez más viajeros lo eligen](/es/blog/slow-travel-que-significa)
-- [Solo equipaje de mano: la guía definitiva](/es/blog/solo-equipaje-de-mano)
+- [Compensación de CO₂ en vuelos: ¿funciona realmente?](/es/blog/compensacion-co2-vuelos/)
+- [Slow travel: qué significa y por qué cada vez más viajeros lo eligen](/es/blog/slow-travel-que-significa/)
+- [Solo equipaje de mano: la guía definitiva](/es/blog/solo-equipaje-de-mano/)

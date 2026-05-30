@@ -85,6 +85,6 @@ Pregunta directamente, no solo busques en línea. Solicita fotos de la entrada d
 
 ## Más artículos
 
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial)
-- [Escandinavia: La Ruta Completa](/es/blog/escandinavia-ruta-completa)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial/)
+- [Escandinavia: La Ruta Completa](/es/blog/escandinavia-ruta-completa/)

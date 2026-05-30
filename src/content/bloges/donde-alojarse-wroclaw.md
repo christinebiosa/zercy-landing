@@ -49,7 +49,7 @@ Estos y más de 600 hoteles en Wrocław están disponibles en [Booking.com](http
 - **Art Hotel Wrocław:** Hotel de diseño con habitaciones de estilo individual, ubicación central. Popular entre quienes prefieren carácter frente a una cadena estándar.
 - **ibis Wrocław Centrum:** Opción de cadena confiable, buena ubicación, el precio más bajo cerca del centro.
 
-Wrocław es una parada perfecta en una [ruta por Polonia](/es/blog/polonia-ruta-completa). Cracovia está a poco más de dos horas en tren, Varsovia a menos de tres.
+Wrocław es una parada perfecta en una [ruta por Polonia](/es/blog/polonia-ruta-completa/). Cracovia está a poco más de dos horas en tren, Varsovia a menos de tres.
 
 ## Krzyki: tranquilidad y vida local
 
@@ -60,7 +60,7 @@ Los viajeros que se quedan varios días o quieren vivir Wrocław desde adentro s
 - **Apartamentos y pisos de alquiler:** Booking.com y Airbnb ofrecen docenas de apartamentos reformados en edificios históricos. Muchas veces más baratos que un hotel para parejas o grupos pequeños.
 - **Hotel Campanile Wrocław:** Hotel de negocios moderno en Krzyki. Bien mantenido, precios justos, aparcamiento disponible.
 
-Si viajas con presupuesto ajustado, el artículo sobre [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena) te puede ahorrar sorpresas desagradables. En Wrocław los precios son bajos, pero siempre conviene ir bien cubierto.
+Si viajas con presupuesto ajustado, el artículo sobre [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/) te puede ahorrar sorpresas desagradables. En Wrocław los precios son bajos, pero siempre conviene ir bien cubierto.
 
 ## Ostrów Tumski: romance en la Isla de la Catedral
 
@@ -107,6 +107,6 @@ En tren en poco más de dos horas con conexión directa. Billetes a través de P
 ---
 
 **Leer más:**
-- [Polonia: ruta completa por Varsovia, Wrocław y Cracovia](/es/blog/polonia-ruta-completa)
-- [Dónde alojarse en Gdansk: barrios y hoteles 2026](/es/blog/donde-alojarse-varsovia)
-- [¿Vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena)
+- [Polonia: ruta completa por Varsovia, Wrocław y Cracovia](/es/blog/polonia-ruta-completa/)
+- [Dónde alojarse en Gdansk: barrios y hoteles 2026](/es/blog/donde-alojarse-varsovia/)
+- [¿Vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena/)

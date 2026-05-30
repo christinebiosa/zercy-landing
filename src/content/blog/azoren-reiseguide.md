@@ -85,6 +85,6 @@ Thermalquellen (vor allem in Furnas auf São Miguel), Museen in Ponta Delgada, W
 
 ## Mehr lesen
 
-- [Portugal Rundreise Route: Highlights von Nord nach Süd](/blog/portugal-rundreise-route)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Skandinavien Rundreise: Route und Highlights](/blog/skandinavien-rundreise-route)
+- [Portugal Rundreise Route: Highlights von Nord nach Süd](/blog/portugal-rundreise-route/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Skandinavien Rundreise: Route und Highlights](/blog/skandinavien-rundreise-route/)

@@ -60,7 +60,7 @@ Los precios en Üçhisar están entre un 20 y un 30 por ciento por encima de los
 - **Argos in Cappadocia** (lujo, bodega histórica, piscina infinita, desde unos 350 euros)
 - **Anatolian Houses** (boutique, terraza con vistas al castillo, desde unos 170 euros)
 
-Si planeas un recorrido más largo por Turquía, la [guía del road trip por Turquía](/es/blog/turquia-road-trip-highlights) incluye rutas, tiempos y paradas que merece la pena añadir al itinerario.
+Si planeas un recorrido más largo por Turquía, la [guía del road trip por Turquía](/es/blog/turquia-road-trip-highlights/) incluye rutas, tiempos y paradas que merece la pena añadir al itinerario.
 
 ## Avanos: cerámica y vistas al río
 
@@ -70,7 +70,7 @@ Como base para Capadocia, Avanos es algo menos práctico que Göreme: los valles
 
 Los hoteles en Avanos cuestan entre un 20 y un 40 por ciento menos que opciones equivalentes en Göreme. Hoteles boutique desde 80 euros, pensiones familiares desde 55 euros.
 
-Si viajas con coche de alquiler, Avanos resulta mucho más cómodo. Antes de reservar, conviene revisar qué cubre tu seguro de viaje. La [guía sobre seguros de viaje](/es/blog/seguro-viaje-vale-la-pena) te ayuda a entender cuándo merece la pena contratar uno.
+Si viajas con coche de alquiler, Avanos resulta mucho más cómodo. Antes de reservar, conviene revisar qué cubre tu seguro de viaje. La [guía sobre seguros de viaje](/es/blog/seguro-viaje-vale-la-pena/) te ayuda a entender cuándo merece la pena contratar uno.
 
 ## Ortahisar: el pueblo tranquilo que vale la pena descubrir
 
@@ -86,7 +86,7 @@ Para la mayoría de los viajes a Capadocia: Göreme para la primera visita, Üç
 
 Booking.com tiene la mayor selección de alojamientos en Capadocia, incluyendo hoteles cueva auténticos que son más difíciles de encontrar y filtrar en otras plataformas. Usa el filtro de tipo de alojamiento "Cueva". Se recomienda buscar puntuaciones por encima de 8,0. La diferencia de calidad entre un 7,0 y un 9,0 es notablemente mayor aquí que en la mayoría de destinos europeos.
 
-Para encontrar hoteles con verdadero carácter, Capadocia es uno de los mejores destinos del mundo. Una habitación cueva no es un capricho. Es simplemente cómo se duerme aquí. Más ideas de alojamientos especiales en la [guía de hoteles boutique](/es/blog/hoteles-boutique-guia).
+Para encontrar hoteles con verdadero carácter, Capadocia es uno de los mejores destinos del mundo. Una habitación cueva no es un capricho. Es simplemente cómo se duerme aquí. Más ideas de alojamientos especiales en la [guía de hoteles boutique](/es/blog/hoteles-boutique-guia/).
 
 ---
 
@@ -115,6 +115,6 @@ El aeropuerto más cercano es el de Kayseri (ASR), a unos 70 km de Göreme. El a
 ---
 
 **Seguir leyendo:**
-- [Road trip por Turquía: los mejores lugares](/es/blog/turquia-road-trip-highlights)
-- [Hoteles boutique: cómo encontrar los mejores alojamientos](/es/blog/hoteles-boutique-guia)
-- [Seguro de viaje 2026: ¿cuándo merece la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Road trip por Turquía: los mejores lugares](/es/blog/turquia-road-trip-highlights/)
+- [Hoteles boutique: cómo encontrar los mejores alojamientos](/es/blog/hoteles-boutique-guia/)
+- [Seguro de viaje 2026: ¿cuándo merece la pena?](/es/blog/seguro-viaje-vale-la-pena/)

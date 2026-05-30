@@ -73,7 +73,7 @@ Al este de Heraklion se abre la bahía de Mirabello. Agios Nikolaos es una elega
 
 Los hoteles de Creta varían enormemente entre boutiques del centro urbano y resorts costeros. [Booking.com](https://www.booking.com) tiene la mejor cobertura de ambos tipos. Los filtros por región, proximidad a la playa y equipamiento de piscina ahorran mucho tiempo de búsqueda.
 
-Lee también: [Las mejores playas de Europa](/es/blog/mejores-playas-europa-2026) y [Dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas) para tu viaje a Grecia.
+Lee también: [Las mejores playas de Europa](/es/blog/mejores-playas-europa-2026/) y [Dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas/) para tu viaje a Grecia.
 
 ---
 
@@ -101,6 +101,6 @@ Un coche es muy recomendable en Creta. Coches pequeños desde 25-35 euros al dí
 
 ## Más artículos
 
-- [Dónde alojarse en Atenas: Barrios y hoteles](/es/blog/donde-alojarse-atenas)
-- [Las mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026)
-- [Mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa)
+- [Dónde alojarse en Atenas: Barrios y hoteles](/es/blog/donde-alojarse-atenas/)
+- [Las mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)
+- [Mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa/)

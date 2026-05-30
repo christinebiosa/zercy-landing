@@ -73,7 +73,7 @@ For Lyon I recommend [Booking.com](https://www.booking.com) clearly. Over 600 pr
 
 Lyon's food scene is the real reason to stay here. Three Michelin three-star restaurants, over 2,000 restaurants on the Presqu'île, and genuine Bouchons in Vieux-Lyon. Budget more time than you think you'll need.
 
-Also read: [Where to stay in Paris](/en/blog/where-to-stay-paris) for the French capital, and our [European cities winter tips](/en/blog/european-cities-winter-tips) for seasonal planning.
+Also read: [Where to stay in Paris](/en/blog/where-to-stay-paris/) for the French capital, and our [European cities winter tips](/en/blog/european-cities-winter-tips/) for seasonal planning.
 
 ---
 
@@ -101,6 +101,6 @@ The classic Bouchons in Vieux-Lyon's Saint-Jean quarter for Quenelles, Andouille
 
 ## Read more
 
-- [Where to stay in Paris: The 5 neighborhoods](/en/blog/where-to-stay-paris)
-- [Best European cities to visit in spring](/en/blog/best-spring-destinations-europe)
-- [Portugal road trip route: The best itinerary](/en/blog/portugal-road-trip-route)
+- [Where to stay in Paris: The 5 neighborhoods](/en/blog/where-to-stay-paris/)
+- [Best European cities to visit in spring](/en/blog/best-spring-destinations-europe/)
+- [Portugal road trip route: The best itinerary](/en/blog/portugal-road-trip-route/)

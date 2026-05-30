@@ -40,7 +40,7 @@ Because the start rarely goes smoothly. The first coworking space isn't great. T
 
 With six months in savings you can absorb these bumps calmly. With two months you'll start to panic at the first dip.
 
-On top of that: nomad life has hidden costs. Short-term accommodation is more expensive than long-term. SIM cards, coworking memberships, occasional travel insurance. It adds up quickly. Check our guide to [workation tax rules 2026](/en/blog/workation-tax-rules-2026) too, because sorting out taxes early matters a lot.
+On top of that: nomad life has hidden costs. Short-term accommodation is more expensive than long-term. SIM cards, coworking memberships, occasional travel insurance. It adds up quickly. Check our guide to [workation tax rules 2026](/en/blog/workation-tax-rules-2026/) too, because sorting out taxes early matters a lot.
 
 ## Which first destination actually works for beginners?
 
@@ -50,7 +50,7 @@ Jumping into a completely different time zone, a different alphabet, a different
 
 **Portugal as a gentle entry point.** Lisbon and Porto have built active nomad communities over the past few years. Coworking spaces exist at every price point, the time zone is EU-compatible, and English works without friction. Cost of living is lower than Germany or Switzerland.
 
-**Madeira Digital Nomad Village** is a concrete program on Funchal that combines community, coworking, and infrastructure. For beginners it's ideal because you immediately meet other nomads rather than starting alone. Also check out our article on [workation Portugal and Spain 2026](/en/blog/workation-portugal-spain-2026) for concrete location decisions.
+**Madeira Digital Nomad Village** is a concrete program on Funchal that combines community, coworking, and infrastructure. For beginners it's ideal because you immediately meet other nomads rather than starting alone. Also check out our article on [workation Portugal and Spain 2026](/en/blog/workation-portugal-spain-2026/) for concrete location decisions.
 
 Nomadlist.com is a useful research tool: the platform rates cities by cost, internet quality, weather, and community factor. A solid starting point for your own research.
 
@@ -71,9 +71,9 @@ Coworking typically costs 150 to 300 euros per month. Not a small amount. But wh
 Zercy helps you plan your next leg. Enter your destination and check connections and accommodation options directly. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 Read more:
-- [Digital Nomad Visa: All Countries 2026](/en/blog/digital-nomad-visa-countries-2026)
-- [Workation Tax Rules 2026](/en/blog/workation-tax-rules-2026)
-- [Workation Portugal and Spain 2026](/en/blog/workation-portugal-spain-2026)
+- [Digital Nomad Visa: All Countries 2026](/en/blog/digital-nomad-visa-countries-2026/)
+- [Workation Tax Rules 2026](/en/blog/workation-tax-rules-2026/)
+- [Workation Portugal and Spain 2026](/en/blog/workation-portugal-spain-2026/)
 
 ## Frequently Asked Questions
 

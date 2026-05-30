@@ -36,7 +36,7 @@ La composición es cómo colocas los elementos dentro del encuadre. Hay reglas b
 
 **Cambiar el punto de vista.** La mayoría de fotos turísticas se hacen de pie, a la altura de los ojos, desde el ángulo obvio. Baja al suelo, sube a una escalera, busca el encuadre lateral. Las fotos diferentes no son las que tienen el mejor sujeto, sino las que tienen el mejor punto de vista.
 
-Si viajas a destinos con arquitectura espectacular, como los que se describen en la guía de [dónde alojarse en Cracovia](/es/blog/donde-alojarse-cracovia), estos principios de composición te permitirán sacar partido a los patios medievales y las calles adoquinadas.
+Si viajas a destinos con arquitectura espectacular, como los que se describen en la guía de [dónde alojarse en Cracovia](/es/blog/donde-alojarse-cracovia/), estos principios de composición te permitirán sacar partido a los patios medievales y las calles adoquinadas.
 
 ## ¿Qué accesorios valen la pena para el viajero?
 
@@ -65,7 +65,7 @@ Los lugares más fotogénicos del mundo son también los más llenos de gente. H
 
 **El método de espera.** En sitios muy concretos (una calle, una puerta, un paso de peatones), a veces vale la pena esperar a que el encuadre quede limpio o que aparezca el sujeto perfecto. Un minuto de paciencia puede marcar la diferencia.
 
-Para destinos mediterráneos como los que aparecen en la guía de [La Valeta](/es/blog/donde-alojarse-la-valeta), las calles estrechas y la arquitectura de piedra caliza crean condiciones de luz únicas que convierten las fotos del atardecer en algo especial.
+Para destinos mediterráneos como los que aparecen en la guía de [La Valeta](/es/blog/donde-alojarse-la-valeta/), las calles estrechas y la arquitectura de piedra caliza crean condiciones de luz únicas que convierten las fotos del atardecer en algo especial.
 
 Zercy puede ayudarte a planificar tu viaje para aprovechar la hora dorada en cada destino. Guarda el itinerario y los horarios de luz en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -92,6 +92,6 @@ El problema es la diferencia entre la luz de dentro y la luz que entra por las v
 ---
 
 **Leer más:**
-- [Dónde alojarse en Roma](/es/blog/donde-alojarse-roma)
-- [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona)
-- [Joyas ocultas de Europa](/es/blog/joyas-ocultas-europa)
+- [Dónde alojarse en Roma](/es/blog/donde-alojarse-roma/)
+- [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/)
+- [Joyas ocultas de Europa](/es/blog/joyas-ocultas-europa/)

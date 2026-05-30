@@ -55,7 +55,7 @@ Bathwick sits east of the city center, separated by the River Avon. Pulteney Bri
 
 **Top picks:** The Bath Priory (5-star with garden and spa, one of England's most acclaimed hotels outside London), Dukes Hotel Bath (elegant boutique in a Georgian corner building, family-run, great bar).
 
-Check out our [Where to Stay in London guide](/en/blog/where-to-stay-london) if you're combining Bath with the capital. Good neighborhood tips for pairing both cities on one trip.
+Check out our [Where to Stay in London guide](/en/blog/where-to-stay-london/) if you're combining Bath with the capital. Good neighborhood tips for pairing both cities on one trip.
 
 ## Bear Flat and Southgate: Budget and Local Character
 
@@ -71,7 +71,7 @@ Bear Flat is a southern residential neighborhood with genuine character. Local c
 
 April through June and September through October. Mild weather, manageable crowds. Summer (July/August) is busy but not overwhelming. Bath isn't a mass-tourism city like London.
 
-December is genuinely special. The Bath Christmas Market is one of England's best. Book early if you're going then. For a classic UK trip, our [Where to Stay in Edinburgh guide](/en/blog/where-to-stay-edinburgh) covers a natural Bath-Edinburgh pairing.
+December is genuinely special. The Bath Christmas Market is one of England's best. Book early if you're going then. For a classic UK trip, our [Where to Stay in Edinburgh guide](/en/blog/where-to-stay-edinburgh/) covers a natural Bath-Edinburgh pairing.
 
 **Dates to watch:** Badminton Horse Trials (May) and the Bath Festival (May/June) can double prices overnight. Book early or shift your dates.
 
@@ -115,5 +115,5 @@ By train from London Paddington, it's around 90 minutes. Direct services run sev
 ---
 
 **Read more:**
-- [Where to Stay in London: Best Neighborhoods](/en/blog/where-to-stay-london)
-- [Where to Stay in Edinburgh: Best Neighborhoods](/en/blog/where-to-stay-edinburgh)
+- [Where to Stay in London: Best Neighborhoods](/en/blog/where-to-stay-london/)
+- [Where to Stay in Edinburgh: Best Neighborhoods](/en/blog/where-to-stay-edinburgh/)

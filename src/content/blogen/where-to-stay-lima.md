@@ -115,6 +115,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel Miraflores, Menú-del-Dí
 ---
 
 **Read more:**
-- [Where to stay in Buenos Aires: 5 neighborhoods](/en/blog/where-to-stay-buenos-aires)
-- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena)
-- [Solo travel for women: 7 safe countries + honest tips](/en/blog/solo-travel-women-safe-countries)
+- [Where to stay in Buenos Aires: 5 neighborhoods](/en/blog/where-to-stay-buenos-aires/)
+- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena/)
+- [Solo travel for women: 7 safe countries + honest tips](/en/blog/solo-travel-women-safe-countries/)

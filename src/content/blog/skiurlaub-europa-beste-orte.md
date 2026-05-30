@@ -30,7 +30,7 @@ Zermatt in der Schweiz ist das Postkartenresort: Matterhorn im Hintergrund, auto
 
 Frankreich hat mit Les Trois Vallées das größte miteinander verbundene Skigebiet der Welt. Méribel, Courchevel und Val Thorens sind die drei Hauptorte, mit über 600 Pistenkilometern. Für Skifahrer, die eine Woche lang neue Terrain erkunden wollen, ohne sich zu wiederholen, ist das unschlagbar. Chamonix ist ein anderer Fall: weniger familiäres Anfängergebiet, mehr Alpinisten-Destination. Extremer, wilder, einzigartiger.
 
-Für die Reiseplanung dorthin ist auch unser Artikel zu [günstigen Flügen](/blog/guenstig-fliegen-tipps) relevant, da direkte Flüge in die Nähe von Skigebieten oft teurer sind als Alternativen mit Transfer.
+Für die Reiseplanung dorthin ist auch unser Artikel zu [günstigen Flügen](/blog/guenstig-fliegen-tipps/) relevant, da direkte Flüge in die Nähe von Skigebieten oft teurer sind als Alternativen mit Transfer.
 
 ## Welche Gebiete in Italien und Osteuropa sind empfehlenswert?
 
@@ -78,6 +78,6 @@ Für Weihnachten und Silvester: sechs bis acht Monate im Voraus. Für Januar und
 
 Mehr lesen:
 
-- [Günstig fliegen: Tipps die wirklich helfen](/blog/guenstig-fliegen-tipps)
-- [Wann Flüge buchen: Der beste Zeitpunkt](/blog/wann-fluege-buchen)
-- [Geheimtipps Europa: Unentdeckte Ziele](/blog/geheimtipps-europa)
+- [Günstig fliegen: Tipps die wirklich helfen](/blog/guenstig-fliegen-tipps/)
+- [Wann Flüge buchen: Der beste Zeitpunkt](/blog/wann-fluege-buchen/)
+- [Geheimtipps Europa: Unentdeckte Ziele](/blog/geheimtipps-europa/)

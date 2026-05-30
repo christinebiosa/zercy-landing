@@ -68,6 +68,6 @@ Der Norden Balis um Lovina ist im Schnitt trockener als der Süden. Nusa Penida 
 ---
 
 **Mehr lesen:**
-- [Bali vs. Lombok: Welche Insel passt zu dir?](/blog/bali-vs-lombok-vergleich)
-- [Wo übernachten auf Bali: Die besten Viertel](/blog/wo-uebernachten-bali)
-- [Südostasien auf Budget: Was du wirklich brauchst](/blog/suedostasien-budget-reisen)
+- [Bali vs. Lombok: Welche Insel passt zu dir?](/blog/bali-vs-lombok-vergleich/)
+- [Wo übernachten auf Bali: Die besten Viertel](/blog/wo-uebernachten-bali/)
+- [Südostasien auf Budget: Was du wirklich brauchst](/blog/suedostasien-budget-reisen/)

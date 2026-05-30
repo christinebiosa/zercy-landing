@@ -93,11 +93,11 @@ Foot passengers pay from 30-50 NZD per direction. With a standard car: 100-200 N
 
 ### What sights are there in Wellington?
 
-Te Papa Museum (national museum, free, 5+ hours), Cable Car to Kelburn Hill (city views), Wellington Botanic Garden (free, directly at the top), Museum of City and Sea, Zealandia Eco-Sanctuary (unique wildlife project), Weta Workshop Unleashed (for Lord of the Rings fans). The [Auckland guide](/en/blog/where-to-stay-auckland) gives the overview for the full North Island.
+Te Papa Museum (national museum, free, 5+ hours), Cable Car to Kelburn Hill (city views), Wellington Botanic Garden (free, directly at the top), Museum of City and Sea, Zealandia Eco-Sanctuary (unique wildlife project), Weta Workshop Unleashed (for Lord of the Rings fans). The [Auckland guide](/en/blog/where-to-stay-auckland/) gives the overview for the full North Island.
 
 ---
 
 **Read more:**
-- [Where to Stay in Auckland: Waterfront, City or Parnell?](/en/blog/where-to-stay-auckland)
-- [Where to Stay in Queenstown: Adventure Base or Peaceful Nature?](/en/blog/where-to-stay-queenstown)
-- [Australia Road Trip: How to Combine It Optimally with New Zealand](/en/blog/australia-road-trip-route)
+- [Where to Stay in Auckland: Waterfront, City or Parnell?](/en/blog/where-to-stay-auckland/)
+- [Where to Stay in Queenstown: Adventure Base or Peaceful Nature?](/en/blog/where-to-stay-queenstown/)
+- [Australia Road Trip: How to Combine It Optimally with New Zealand](/en/blog/australia-road-trip-route/)

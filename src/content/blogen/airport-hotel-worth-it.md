@@ -24,7 +24,7 @@ There are clear scenarios where an airport hotel is simply the better choice:
 
 **Traveling with luggage.** With two suitcases, the back-and-forth is exhausting and expensive. An airport hotel means: arrive, drop bags, sleep, walk to the terminal. No locker, no shuttle stress.
 
-For more on getting through airports efficiently: [7 Airport Hacks That Save You Time and Stress](/en/blog/airport-hacks).
+For more on getting through airports efficiently: [7 Airport Hacks That Save You Time and Stress](/en/blog/airport-hacks/).
 
 ## When Is It Not Worth It?
 
@@ -50,7 +50,7 @@ Amsterdam (AMS), Munich (MUC), Vienna (VIE): 70 to 130 euros for mid-range.
 
 US and Asian hubs tend to be significantly more expensive. Chicago O'Hare or Tokyo Narita often start at 150 euros and can easily reach 250 euros or more.
 
-For a structured overview of hotel types and what you actually get for your money: [Hotel Categories Explained: What You Get for Your Budget](/en/blog/hotel-categories-explained).
+For a structured overview of hotel types and what you actually get for your money: [Hotel Categories Explained: What You Get for Your Budget](/en/blog/hotel-categories-explained/).
 
 ## What Does the Math Look Like in Practice?
 
@@ -76,7 +76,7 @@ Second: be flexible about location. Hotels 10 to 15 minutes from the terminal ca
 
 Third: compare Park & Sleep packages. Five days of airport parking in Frankfurt at the main garage can easily cost 80 to 120 euros. A hotel with parking and one overnight stay can be cheaper, or at least cost the same.
 
-If you want to learn how to find cheaper flights in general: [When to Book Flights to Get the Best Deal](/en/blog/when-to-book-flights). And if you travel [carry-on only](/en/blog/carry-on-only), airport logistics become significantly simpler.
+If you want to learn how to find cheaper flights in general: [When to Book Flights to Get the Best Deal](/en/blog/when-to-book-flights/). And if you travel [carry-on only](/en/blog/carry-on-only/), airport logistics become significantly simpler.
 
 ---
 
@@ -94,11 +94,11 @@ At major European airports like Frankfurt or Amsterdam, airport hotels range fro
 On Booking.com, filter for "Near airports" to find hotels with shuttle service at significantly lower prices than terminal hotels. The official airport website often lists partner hotels with guaranteed shuttle connections.
 
 ### What is a good alternative to an airport hotel for long layovers?
-For layovers of four to six hours, an airport lounge is often cheaper than a hotel room. Day passes cost 30 to 60 euros and include comfortable seating, food, and WiFi. For longer waits of eight hours or more, a hotel room is generally more comfortable and comparably priced. More on this: [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket).
+For layovers of four to six hours, an airport lounge is often cheaper than a hotel room. Day passes cost 30 to 60 euros and include comfortable seating, food, and WiFi. For longer waits of eight hours or more, a hotel room is generally more comfortable and comparably priced. More on this: [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket/).
 
 ---
 
 **Read more:**
-- [7 Airport Hacks That Save You Time and Stress](/en/blog/airport-hacks)
-- [Lounge Access Without a Business Ticket: How It Works](/en/blog/lounge-access-without-business-ticket)
-- [Hotel Categories Explained: What You Get for Your Budget](/en/blog/hotel-categories-explained)
+- [7 Airport Hacks That Save You Time and Stress](/en/blog/airport-hacks/)
+- [Lounge Access Without a Business Ticket: How It Works](/en/blog/lounge-access-without-business-ticket/)
+- [Hotel Categories Explained: What You Get for Your Budget](/en/blog/hotel-categories-explained/)

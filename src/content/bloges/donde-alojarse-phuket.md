@@ -94,6 +94,6 @@ Económico: 30-50 EUR/noche hotel + 20-30 EUR/día manutención = unos 50-80 EUR
 ---
 
 **Leer más:**
-- [Dónde alojarse en Bangkok: ¿Sukhumvit o Silom?](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Bali: ¿Seminyak o Ubud?](/es/blog/donde-alojarse-bali)
-- [Dónde alojarse en Singapur: ¿Marina Bay o Chinatown?](/es/blog/donde-alojarse-singapur)
+- [Dónde alojarse en Bangkok: ¿Sukhumvit o Silom?](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Bali: ¿Seminyak o Ubud?](/es/blog/donde-alojarse-bali/)
+- [Dónde alojarse en Singapur: ¿Marina Bay o Chinatown?](/es/blog/donde-alojarse-singapur/)

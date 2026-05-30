@@ -47,7 +47,7 @@ Het Zuid (The South) is Antwerp's art boulevard. Galleries, the Royal Museum of 
 
 **Top picks:** The Pilgrim (small boutique hotel with strong design sensibility and character), Moxy Antwerp (modern lifestyle hotel, solid value, young and urban feel).
 
-Check out our [where to stay in Brussels](/en/blog/where-to-stay-brussels) guide as well — the neighborhood logic is surprisingly similar.
+Check out our [where to stay in Brussels](/en/blog/where-to-stay-brussels/) guide as well — the neighborhood logic is surprisingly similar.
 
 ## Eilandje and the Harbor Quarter: Maritime Antwerp
 
@@ -96,7 +96,7 @@ For Antwerp, [Booking.com](https://www.booking.com) is the most reliable platfor
 
 For luxury properties like De Witte Lelie or Botanic Sanctuary, compare directly with the hotel website. For everything else, Booking.com is the right starting point.
 
-Also read our [where to stay in Bruges](/en/blog/where-to-stay-bruges) guide for the perfect day trip from Antwerp.
+Also read our [where to stay in Bruges](/en/blog/where-to-stay-bruges/) guide for the perfect day trip from Antwerp.
 
 ---
 
@@ -123,6 +123,6 @@ Mid-range three- to four-star hotels in the Centrum cost 100-180 euros. Boutique
 ---
 
 **Read more:**
-- [Where to Stay in Brussels: The Best Neighborhoods](/en/blog/where-to-stay-brussels)
-- [Where to Stay in Bruges: Medieval Charm by Canal](/en/blog/where-to-stay-bruges)
-- [AirBnB vs Hotel: What Is Actually Worth It?](/en/blog/airbnb-vs-hotel-comparison)
+- [Where to Stay in Brussels: The Best Neighborhoods](/en/blog/where-to-stay-brussels/)
+- [Where to Stay in Bruges: Medieval Charm by Canal](/en/blog/where-to-stay-bruges/)
+- [AirBnB vs Hotel: What Is Actually Worth It?](/en/blog/airbnb-vs-hotel-comparison/)

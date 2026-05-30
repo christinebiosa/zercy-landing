@@ -47,7 +47,7 @@ October through March is ideal. Temperatures between 10 and 28 degrees, clearer 
 
 Assi Ghat sits at the southern end of the ghat zone. Less pilgrim traffic, more cafés, bookshops, and yoga studios. Banaras Hindu University, one of the largest universities in Asia, is within walking distance. The result is a different energy. More intellectual, more relaxed, less commercial.
 
-Long-stay travelers and anyone searching for yoga or meditation tends to gravitate here. There is also a smaller morning aarti ceremony, but without the crowd of Dashashwamedh. If you are exploring [India](/en/blog/india-travel-guide-highlights) over several weeks and want a calm base, Assi Ghat delivers that.
+Long-stay travelers and anyone searching for yoga or meditation tends to gravitate here. There is also a smaller morning aarti ceremony, but without the crowd of Dashashwamedh. If you are exploring [India](/en/blog/india-travel-guide-highlights/) over several weeks and want a calm base, Assi Ghat delivers that.
 
 **Who belongs here:** Long-stay travelers, yoga seekers, backpackers, anyone wanting distance from the chaos without losing the atmosphere.
 
@@ -61,7 +61,7 @@ Godaulia is the main hub of the old city. Lanes radiate in every direction from 
 
 Hotels in the Old City are usually small guesthouses in historic buildings. Some have just a handful of rooms. Some have rooftop terraces with views across the skyline. If you want to walk to the ghat at 4 a.m. without needing transport, this is your neighborhood.
 
-Before you go, read: [Travel Insurance: Is It Worth It?](/en/blog/travel-insurance-worth-it-2026). Varanasi has limited medical infrastructure compared to Delhi or Mumbai.
+Before you go, read: [Travel Insurance: Is It Worth It?](/en/blog/travel-insurance-worth-it-2026/). Varanasi has limited medical infrastructure compared to Delhi or Mumbai.
 
 **Who belongs here:** Adventure travelers, photographers, anyone who wants full immersion.
 
@@ -73,7 +73,7 @@ Before you go, read: [Travel Insurance: Is It Worth It?](/en/blog/travel-insuran
 
 The Cantonment was built during the British colonial period. Wide roads, a different cityscape. Varanasi Junction railway station is here. International hotel chains have their addresses in this zone. If you arrive late or depart early and need a solid night of sleep without noise, this is where you belong.
 
-The distance to the ghat zone is 20 to 30 minutes by tuk-tuk. Not ideal for spontaneous dawn walks, but for travelers who want to keep their stay and their sightseeing separate. If you plan to continue to [Nepal](/en/blog/nepal-travel-guide-highlights) via Lumbini, bus connections and flights depart close to here.
+The distance to the ghat zone is 20 to 30 minutes by tuk-tuk. Not ideal for spontaneous dawn walks, but for travelers who want to keep their stay and their sightseeing separate. If you plan to continue to [Nepal](/en/blog/nepal-travel-guide-highlights/) via Lumbini, bus connections and flights depart close to here.
 
 **Who belongs here:** Business travelers, families with young children, anyone who needs reliable infrastructure.
 
@@ -85,7 +85,7 @@ The distance to the ghat zone is 20 to 30 minutes by tuk-tuk. Not ideal for spon
 
 Ten kilometers north of Varanasi sits one of the holiest sites in Buddhism. This is where Buddha gave his first sermon after enlightenment. The Dhamek Stupa from the 5th century still stands. Several Buddhist temples from Japan, Tibet, and Sri Lanka. The atmosphere is entirely different from Varanasi.
 
-Hotels in Sarnath are smaller, with a more international mix of guests. Japanese, Tibetan, and Sri Lankan pilgrims make up a significant share of visitors. If you want to cover both sites, you do not need to commute twice. Arrive in Sarnath in the morning, head to the ghats in the evening. For flights into Varanasi, it helps to [book early](/en/blog/when-to-book-flights), especially in the peak season from October to February.
+Hotels in Sarnath are smaller, with a more international mix of guests. Japanese, Tibetan, and Sri Lankan pilgrims make up a significant share of visitors. If you want to cover both sites, you do not need to commute twice. Arrive in Sarnath in the morning, head to the ghats in the evening. For flights into Varanasi, it helps to [book early](/en/blog/when-to-book-flights/), especially in the peak season from October to February.
 
 **Who belongs here:** Buddhist travelers, spiritual seekers, anyone who wants calm and has Sarnath as a primary stop.
 
@@ -131,6 +131,6 @@ Two days cover the essential experiences: sunrise boat ride, ghat walk, Golden T
 ---
 
 **Read more:**
-- [India Travel Guide: Highlights and Tips](/en/blog/india-travel-guide-highlights)
-- [Nepal Travel Guide: Highlights for Your Trip](/en/blog/nepal-travel-guide-highlights)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [India Travel Guide: Highlights and Tips](/en/blog/india-travel-guide-highlights/)
+- [Nepal Travel Guide: Highlights for Your Trip](/en/blog/nepal-travel-guide-highlights/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

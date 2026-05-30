@@ -64,7 +64,7 @@ Siempre tené esto a mano:
 
 **Formulario de llegada completado:** Algunos países tienen formularios en papel en el mostrador, otros usan tablets digitales. Conocer los datos de antemano (dirección, fechas de viaje, ocupación) agiliza el proceso.
 
-Nuestro artículo sobre [visa de nómada digital](/es/blog/visa-nomada-digital-paises-2026) cubre las opciones de estadía más larga si pensás quedarte por meses en alguno de estos países.
+Nuestro artículo sobre [visa de nómada digital](/es/blog/visa-nomada-digital-paises-2026/) cubre las opciones de estadía más larga si pensás quedarte por meses en alguno de estos países.
 
 ## ¿Cómo verificás los requisitos de visa de forma confiable antes de viajar?
 
@@ -110,6 +110,6 @@ Muchos países permiten la VoA solo en puntos de entrada específicos, generalme
 ---
 
 **Más para leer:**
-- [Visa de nómada digital 2026: países donde podés trabajar en remoto](/es/blog/visa-nomada-digital-paises-2026)
-- [Errores de viaje: las trampas más comunes](/es/blog/errores-viaje-evitar-clasicos)
-- [Sudeste asiático con poco presupuesto: la guía práctica](/es/blog/sudeste-asiatico-viaje-economico)
+- [Visa de nómada digital 2026: países donde podés trabajar en remoto](/es/blog/visa-nomada-digital-paises-2026/)
+- [Errores de viaje: las trampas más comunes](/es/blog/errores-viaje-evitar-clasicos/)
+- [Sudeste asiático con poco presupuesto: la guía práctica](/es/blog/sudeste-asiatico-viaje-economico/)

@@ -34,7 +34,7 @@ Korčula is often called "Little Dubrovnik," and the comparison is fair. The med
 
 June and September are the sweet spot. Water temperatures are warm enough for swimming, prices are 20 to 30 percent lower than in high season, and you can actually get a table at restaurants without waiting an hour. August is beautiful but crowded. If August is your only option, book accommodation and ferries early.
 
-May is possible for cultural trips, but the sea is still cool (around 19 to 20 degrees Celsius). October suits people who care more about landscape and food than beaches. For more ideas on traveling outside peak season in Europe, check out our guide on [hidden gems in Europe](/en/blog/albania-riviera-hidden-coast).
+May is possible for cultural trips, but the sea is still cool (around 19 to 20 degrees Celsius). October suits people who care more about landscape and food than beaches. For more ideas on traveling outside peak season in Europe, check out our guide on [hidden gems in Europe](/en/blog/albania-riviera-hidden-coast/).
 
 ## How Do You Book Ferries and What Does It Cost?
 
@@ -44,7 +44,7 @@ Ferry fares as a foot passenger are low: Split to Hvar costs around 5 to 7 euros
 
 Scooters and bicycles are easy to rent on most islands. On Brač and Hvar, camping is available at designated sites. A good budget for island hopping runs from 50 to 70 euros per day (hostel dorm, simple meals, ferry tickets). With a private room or hotel, expect 100 to 150 euros per day.
 
-For accommodation planning, check our articles on [where to stay in Dubrovnik](/en/blog/where-to-stay-dubrovnik) and our [stopover tourism guide](/en/blog/stopover-tourism-guide) for building multi-stop itineraries efficiently.
+For accommodation planning, check our articles on [where to stay in Dubrovnik](/en/blog/where-to-stay-dubrovnik/) and our [stopover tourism guide](/en/blog/stopover-tourism-guide/) for building multi-stop itineraries efficiently.
 
 ## Zercy Helps You Plan the Route
 
@@ -69,6 +69,6 @@ Split is the best starting point. It has the largest ferry terminal, good connec
 ---
 
 **Read more:**
-- [Open-Jaw Tickets Travel Hack](/en/blog/open-jaw-tickets-travel-hack)
-- [Albania Riviera Hidden Coast](/en/blog/albania-riviera-hidden-coast)
-- [Stopover Tourism Guide](/en/blog/stopover-tourism-guide)
+- [Open-Jaw Tickets Travel Hack](/en/blog/open-jaw-tickets-travel-hack/)
+- [Albania Riviera Hidden Coast](/en/blog/albania-riviera-hidden-coast/)
+- [Stopover Tourism Guide](/en/blog/stopover-tourism-guide/)

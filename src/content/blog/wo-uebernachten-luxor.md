@@ -79,11 +79,11 @@ Der Basis-Eintritt ins Tal der Könige kostet 240 EGP (ca. 5 USD). Darin sind dr
 
 ### Welche Sehenswürdigkeiten sollte man in Luxor nicht verpassen?
 
-Karnak-Tempel (der größte Ägyptens, abendliche Sound-and-Light-Show), Luxor-Tempel, Tal der Könige, Tal der Königinnen, Tempel der Hatshepsut, Colossi of Memnon (kostenlos). Wer mehr sehen will: der [Ägypten Reiseguide](/blog/aegypten-reiseguide-highlights) hat die vollständige Route durch das Land.
+Karnak-Tempel (der größte Ägyptens, abendliche Sound-and-Light-Show), Luxor-Tempel, Tal der Könige, Tal der Königinnen, Tempel der Hatshepsut, Colossi of Memnon (kostenlos). Wer mehr sehen will: der [Ägypten Reiseguide](/blog/aegypten-reiseguide-highlights/) hat die vollständige Route durch das Land.
 
 ---
 
 **Mehr lesen:**
-- [Ägypten Reiseguide: Highlights und praktische Tipps](/blog/aegypten-reiseguide-highlights)
-- [Wo übernachten in Kairo: Die 5 wichtigsten Viertel](/blog/wo-uebernachten-kairo)
-- [Safari in Ostafrika: Der komplette Guide](/blog/safari-ostafrika-guide)
+- [Ägypten Reiseguide: Highlights und praktische Tipps](/blog/aegypten-reiseguide-highlights/)
+- [Wo übernachten in Kairo: Die 5 wichtigsten Viertel](/blog/wo-uebernachten-kairo/)
+- [Safari in Ostafrika: Der komplette Guide](/blog/safari-ostafrika-guide/)

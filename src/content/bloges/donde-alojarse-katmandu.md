@@ -69,7 +69,7 @@ El Stupa de Boudhanath es uno de los mayores stupas budistas del mundo y lugar d
 
 **Top picks:** Hotel Tibet International (vistas al stupa, ambiente tibetano), Stupa View Boutique Hotel (pequeña azotea con vistas al stupa), Padma Guest House (sencillo, económico, muy cerca del stupa).
 
-Mira también nuestra [guía de viaje solo para mujeres](/es/blog/viaje-solo-mujeres-seguro) para consejos de seguridad específicos sobre Nepal, que figura como uno de los destinos de viaje en solitario más seguros de Asia.
+Mira también nuestra [guía de viaje solo para mujeres](/es/blog/viaje-solo-mujeres-seguro/) para consejos de seguridad específicos sobre Nepal, que figura como uno de los destinos de viaje en solitario más seguros de Asia.
 
 ## Bhaktapur: La ciudad medieval
 
@@ -127,6 +127,6 @@ Octubre y noviembre son los meses con mayor probabilidad de vistas despejadas al
 ---
 
 **Más para leer:**
-- [Viaje solo para mujeres: los países más seguros](/es/blog/viaje-solo-mujeres-seguro)
-- [Safari en África Oriental: guía de planificación](/es/blog/safari-africa-oriental-guia)
-- [Mejores rutas de senderismo del mundo](/es/blog/mejores-rutas-senderismo-mundo)
+- [Viaje solo para mujeres: los países más seguros](/es/blog/viaje-solo-mujeres-seguro/)
+- [Safari en África Oriental: guía de planificación](/es/blog/safari-africa-oriental-guia/)
+- [Mejores rutas de senderismo del mundo](/es/blog/mejores-rutas-senderismo-mundo/)

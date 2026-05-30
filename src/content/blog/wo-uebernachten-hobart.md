@@ -65,7 +65,7 @@ North Hobart liegt rund 2 Kilometer nördlich vom CBD. Mit Uber oder Taxi in 10 
 
 **Top-Picks:** Quest North Hobart (Apartment-Style-Hotel, Küche, nah an den Restaurants), diverse Boutique-Wohnungen über Booking.com.
 
-Wenn du Hobart mit einem Australien-Roadtrip kombinierst, lies unseren [Australien-Rundreise-Leitfaden](/blog/australien-rundreise-route) für die besten Routen auf dem Festland.
+Wenn du Hobart mit einem Australien-Roadtrip kombinierst, lies unseren [Australien-Rundreise-Leitfaden](/blog/australien-rundreise-route/) für die besten Routen auf dem Festland.
 
 ## Sandy Bay: Ruhe am Yachthafen
 
@@ -79,7 +79,7 @@ Der Sandy Bay Beach ist kein Bade-Strand, aber der Blick auf den Derwent River u
 
 **Top-Picks:** Wrest Point Hotel (Hobarts bekanntestes Großhotel, Kasino, Hafenblick), Sandy Bay Motor Inn (solide Mittelklasse, gute Erreichbarkeit), Apartments über Booking.com für Familien.
 
-Für Reisende die auch Neuseeland auf dem Plan haben: Der [Neuseeland Roadtrip Guide](/blog/suedostasien-budget-reisen) gibt Inspiration für die Verlängerung nach Hobart.
+Für Reisende die auch Neuseeland auf dem Plan haben: Der [Neuseeland Roadtrip Guide](/blog/suedostasien-budget-reisen/) gibt Inspiration für die Verlängerung nach Hobart.
 
 ## Wann ist die beste Reisezeit für Hobart?
 
@@ -121,6 +121,6 @@ Dark Mofo ist das ungewöhnlichste Kulturfestival Australiens. Entstanden aus de
 
 ## Mehr lesen
 
-- [Australien Rundreise Route: Die komplette Übersicht](/blog/australien-rundreise-route)
-- [Wo übernachten in Brisbane](/blog/wo-uebernachten-brisbane)
-- [Wo übernachten in Sydney](/blog/wo-uebernachten-sydney)
+- [Australien Rundreise Route: Die komplette Übersicht](/blog/australien-rundreise-route/)
+- [Wo übernachten in Brisbane](/blog/wo-uebernachten-brisbane/)
+- [Wo übernachten in Sydney](/blog/wo-uebernachten-sydney/)

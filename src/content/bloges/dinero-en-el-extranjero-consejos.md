@@ -20,7 +20,7 @@ La respuesta depende del destino. No de tus hábitos.
 
 **Japón:** Este es el caso especial más importante. Japón funciona con efectivo. Muchos restaurantes, templos, trenes e incluso grandes almacenes no aceptan tarjeta de crédito. Retirar efectivo antes del viaje a Japón es obligatorio. Los cajeros de 7-Eleven en Japón aceptan tarjetas internacionales de forma confiable.
 
-**Estados Unidos:** La tarjeta de crédito es el estándar. Efectivo para propinas en restaurantes (25-30 USD por mesero), mercados y pequeños proveedores de servicios. Tu [planificación de presupuesto de viaje](/es/blog/donde-alojarse-cancun) funciona mejor si lo calculas antes de salir.
+**Estados Unidos:** La tarjeta de crédito es el estándar. Efectivo para propinas en restaurantes (25-30 USD por mesero), mercados y pequeños proveedores de servicios. Tu [planificación de presupuesto de viaje](/es/blog/donde-alojarse-cancun/) funciona mejor si lo calculas antes de salir.
 
 La regla básica: siempre lleva efectivo para 1-2 días como respaldo de emergencia. Todo lo demás: tarjeta donde sea posible.
 
@@ -56,7 +56,7 @@ Lo mismo aplica en los cajeros automáticos. Si pregunta "Conversión realizada 
 
 **Efectivo de emergencia:** 50-100 EUR de reserva. En un rincón de la maleta, no en la billetera. Para casos en los que el sistema de tarjetas falla completamente o terminas en una zona sin cajeros.
 
-Si también quieres [mantenerte seguro en redes públicas mientras viajas](/es/blog/donde-alojarse-bogota): nunca hagas banca móvil en redes abiertas.
+Si también quieres [mantenerte seguro en redes públicas mientras viajas](/es/blog/donde-alojarse-bogota/): nunca hagas banca móvil en redes abiertas.
 
 ## Particularidades por país: lo que debes saber antes de ir
 
@@ -97,6 +97,6 @@ Como regla general: gastos de 1-2 días en moneda local, más una pequeña reser
 ---
 
 **Más información:**
-- [Dónde alojarse en Cancún: barrios y hoteles](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Bogotá: barrios y hoteles](/es/blog/donde-alojarse-bogota)
-- [Dónde alojarse en Buenos Aires: barrios y hoteles](/es/blog/donde-alojarse-buenos-aires)
+- [Dónde alojarse en Cancún: barrios y hoteles](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Bogotá: barrios y hoteles](/es/blog/donde-alojarse-bogota/)
+- [Dónde alojarse en Buenos Aires: barrios y hoteles](/es/blog/donde-alojarse-buenos-aires/)

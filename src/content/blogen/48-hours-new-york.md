@@ -65,7 +65,7 @@ Dinner: Hell's Kitchen, west of Times Square. This is the neighborhood with the 
 
 Hotels in Manhattan are expensive. 150 to 300 dollars per night for a decent room in Midtown is normal. Cheaper options are in Midtown West (Hell's Kitchen) and in Brooklyn, especially Williamsburg and Downtown Brooklyn.
 
-Brooklyn has the advantage: more relaxed, slightly cheaper, and 20 minutes to Midtown by subway. If it is your first time in NYC and you want the classic Manhattan experience, book on the island. Anything else is a perfectly good alternative. Our full guide to [where to stay in New York](/en/blog/where-to-stay-new-york) has the breakdown by neighborhood and budget.
+Brooklyn has the advantage: more relaxed, slightly cheaper, and 20 minutes to Midtown by subway. If it is your first time in NYC and you want the classic Manhattan experience, book on the island. Anything else is a perfectly good alternative. Our full guide to [where to stay in New York](/en/blog/where-to-stay-new-york/) has the breakdown by neighborhood and budget.
 
 For comparing Brooklyn versus Midtown prices side by side, Booking.com's neighborhood filter is the most useful tool.
 
@@ -81,7 +81,7 @@ For comparing Brooklyn versus Midtown prices side by side, Booking.com's neighbo
 
 The big money traps: Uber during the day in Manhattan (traffic, expensive, slower than the subway), One World Observatory ($40 for 30 minutes, while Top of the Rock or Summit One Vanderbilt offer similar views at a better price-to-experience ratio), and planning the Statue of Liberty when you only have two days. The ferry and grounds easily take half a day.
 
-Find more flight-saving tips in our [airport hacks guide](/en/blog/airport-hacks) and our guide to [Google Flights tricks for 2026](/en/blog/google-flights-tips-tricks-2026).
+Find more flight-saving tips in our [airport hacks guide](/en/blog/airport-hacks/) and our guide to [Google Flights tricks for 2026](/en/blog/google-flights-tips-tricks-2026/).
 
 ## When Is New York at Its Best for a Short Weekend?
 
@@ -91,7 +91,7 @@ July and August: hot and humid. City life still works, but the heat on a Midtown
 
 Winter is absolutely a valid option. December with Christmas lights is touristy but genuinely impressive. January and February have the cheapest prices for flights and hotels. Cold, but New York in snow has its own energy.
 
-If you want to fly smarter on the transatlantic leg, our [lounge access guide](/en/blog/lounge-access-without-business-ticket) is worth reading before you book.
+If you want to fly smarter on the transatlantic leg, our [lounge access guide](/en/blog/lounge-access-without-business-ticket/) is worth reading before you book.
 
 ---
 
@@ -120,6 +120,6 @@ The subway runs 24 hours a day, seven days a week. One ride costs $2.90. Load th
 ---
 
 **Read more:**
-- [Where to Stay in New York: Best Neighborhoods by Budget](/en/blog/where-to-stay-new-york)
-- [Airport Hacks: Tips for Smoother Transfers](/en/blog/airport-hacks)
-- [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026)
+- [Where to Stay in New York: Best Neighborhoods by Budget](/en/blog/where-to-stay-new-york/)
+- [Airport Hacks: Tips for Smoother Transfers](/en/blog/airport-hacks/)
+- [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026/)

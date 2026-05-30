@@ -34,7 +34,7 @@ Para los gastos durante el viaje, [Splitwise](https://www.splitwise.com) es la m
 
 Un detalle que se ignora con frecuencia: paguen alojamiento y vuelos juntos antes de partir. Reservar estos gastos grandes por separado casi siempre genera fricción. Alguien reserva más barato y termina en otro hotel. Alguien vuela antes. El grupo se fragmenta antes de que empiece el viaje.
 
-También te puede ayudar el artículo sobre [cómo planificar el presupuesto del viaje](/es/blog/planificar-presupuesto-viaje) para definir cifras realistas para un grupo.
+También te puede ayudar el artículo sobre [cómo planificar el presupuesto del viaje](/es/blog/planificar-presupuesto-viaje/) para definir cifras realistas para un grupo.
 
 ## ¿Cómo planificas el día sin que todos queden insatisfechos?
 
@@ -46,7 +46,7 @@ Para la planificación anticipada, un Google Doc compartido funciona bien. Sin d
 
 Un consejo práctico de la experiencia: no todas las actividades tienen que hacerse juntos. Uno va al museo. Dos van a la playa. Todos se reúnen para cenar. Eso no es un fracaso del viaje grupal. Es una buena señal.
 
-El artículo sobre [errores de viaje que casi todos cometen](/es/blog/errores-viaje-evitar-clasicos) vale la pena antes de tu próximo viaje en grupo.
+El artículo sobre [errores de viaje que casi todos cometen](/es/blog/errores-viaje-evitar-clasicos/) vale la pena antes de tu próximo viaje en grupo.
 
 ## ¿Qué tipos de viaje funcionan mejor con amigos?
 
@@ -60,7 +60,7 @@ No todos los formatos de viaje son igual de compatibles con grupos.
 
 **Rutas de trekking.** Difíciles. El ritmo tiene que coincidir. Los diferentes niveles de condición física se convierten rápidamente en un problema. Quien camina más lento se siente una carga. Quien camina más rápido espera frustrado.
 
-La guía de [organización de viajes en grupo](/es/blog/viaje-grupo-organizar-guia) cubre la logística y las herramientas con más detalle si organizas un grupo más grande.
+La guía de [organización de viajes en grupo](/es/blog/viaje-grupo-organizar-guia/) cubre la logística y las herramientas con más detalle si organizas un grupo más grande.
 
 ## ¿Cuándo deberían reservar habitaciones separadas?
 
@@ -72,7 +72,7 @@ Alternativa: alquilar un apartamento vacacional en lugar de habitaciones de hote
 
 La regla de oro de los viajes en grupo: **máximo cinco o seis personas.** A partir de siete, cada decisión se convierte en votación. Esperar al grupo se vuelve un trabajo de tiempo completo. Los restaurantes con lugar espontáneo para siete personas son raros. La logística se come el disfrute.
 
-¿Curiosidad sobre qué destinos europeos son más fáciles para grupos? La guía de [escapadas de fin de semana en Europa](/es/blog/escapadas-fin-semana-europa) tiene las mejores opciones para grupos de cuatro a seis.
+¿Curiosidad sobre qué destinos europeos son más fáciles para grupos? La guía de [escapadas de fin de semana en Europa](/es/blog/escapadas-fin-semana-europa/) tiene las mejores opciones para grupos de cuatro a seis.
 
 ---
 
@@ -99,6 +99,6 @@ Tomar un descanso corto. Separarse unas horas. Cada quien se va a hacer algo por
 ---
 
 **Leer más:**
-- [Viajes en grupo: la guía completa para organizarlo bien](/es/blog/viaje-grupo-organizar-guia)
-- [Escapadas de fin de semana en Europa: los mejores destinos](/es/blog/escapadas-fin-semana-europa)
-- [Errores de viaje que casi todos cometen](/es/blog/errores-viaje-evitar-clasicos)
+- [Viajes en grupo: la guía completa para organizarlo bien](/es/blog/viaje-grupo-organizar-guia/)
+- [Escapadas de fin de semana en Europa: los mejores destinos](/es/blog/escapadas-fin-semana-europa/)
+- [Errores de viaje que casi todos cometen](/es/blog/errores-viaje-evitar-clasicos/)

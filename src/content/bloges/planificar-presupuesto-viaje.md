@@ -20,7 +20,7 @@ Aquí tienes presupuestos diarios realistas según el estilo de viaje. Estas cif
 
 **Ciudad europea del oeste:** 80 a 150 euros por día. Hostal u hotel económico, restaurantes de gama media, transporte público. París y Londres están en el extremo superior. Oporto o Cracovia, en el inferior.
 
-**Sudeste asiático con presupuesto ajustado:** 40 a 60 dólares por día. Guesthouse o litera de hostal, comida callejera, autobuses locales. Tailandia, Vietnam, Camboya. Bali sube un poco, entre 50 y 80 dólares. Nuestra guía de [viajes económicos por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico) tiene desgloses por destino.
+**Sudeste asiático con presupuesto ajustado:** 40 a 60 dólares por día. Guesthouse o litera de hostal, comida callejera, autobuses locales. Tailandia, Vietnam, Camboya. Bali sube un poco, entre 50 y 80 dólares. Nuestra guía de [viajes económicos por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico/) tiene desgloses por destino.
 
 **Latinoamérica:** 50 a 80 dólares por día. Colombia, Perú, Ecuador, México. Argentina es más difícil de calcular por los tipos de cambio. El rango es similar.
 
@@ -47,7 +47,7 @@ El segundo palanca son las metas por etapas. En lugar de "2.000 euros para agost
 
 Lo que también funciona bien: redirigir ingresos puntuales directamente a la cuenta de viaje. Devoluciones de impuestos, bonos, regalos de cumpleaños. Estos importes no se echan de menos en la vida cotidiana porque llegan de forma irregular.
 
-Para los vuelos, combina una alerta de precios en Google Flights con la reserva anticipada. Nuestra guía de [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos) cubre los períodos de reserva específicos que sistemáticamente ofrecen precios más bajos. Cuanto antes reserves el vuelo, menos necesitas ahorrar para él.
+Para los vuelos, combina una alerta de precios en Google Flights con la reserva anticipada. Nuestra guía de [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) cubre los períodos de reserva específicos que sistemáticamente ofrecen precios más bajos. Cuanto antes reserves el vuelo, menos necesitas ahorrar para él.
 
 ## ¿Qué herramientas digitales ayudan realmente con la gestión del presupuesto?
 
@@ -65,7 +65,7 @@ Una tarjeta de crédito de viaje tiene sentido si haces al menos dos o tres viaj
 
 Los errores de planificación más comunes no están en el vuelo o el hotel. Están en partidas que mucha gente ni siquiera tiene en mente.
 
-**Seguro de viaje.** Sin él, pagas de tu bolsillo en caso de emergencia. Un seguro de salud de viaje para un viaje de tres semanas por el sudeste asiático cuesta entre 30 y 80 euros según el proveedor y la cobertura. Antes de omitir esta línea, lee nuestro análisis sobre [si el seguro de viaje vale la pena](/es/blog/seguro-viaje-vale-la-pena).
+**Seguro de viaje.** Sin él, pagas de tu bolsillo en caso de emergencia. Un seguro de salud de viaje para un viaje de tres semanas por el sudeste asiático cuesta entre 30 y 80 euros según el proveedor y la cobertura. Antes de omitir esta línea, lee nuestro análisis sobre [si el seguro de viaje vale la pena](/es/blog/seguro-viaje-vale-la-pena/).
 
 **Visados.** Australia: 20 AUD para la ETA. EE. UU.: 21 dólares para el ESTA. India: entre 25 y 80 dólares según el tipo. Un itinerario de varios países puede sumar entre 100 y 200 dólares solo en tasas de visado. Añade esto al primer borrador del presupuesto, no como un apunte de última hora.
 
@@ -81,7 +81,7 @@ La principal ventaja de una tarjeta de crédito de viaje: puntos o millas en cad
 
 Qué verificar al comparar tarjetas: calcula la cuota anual frente a los beneficios reales. Una tarjeta con 99 euros de cuota anual que incluye acceso a salas VIP, seguro de viaje y sin comisiones de cambio puede ser más barata que pagar cuatro servicios por separado.
 
-La guía de [ciudades baratas en Europa 2026](/es/blog/ciudades-baratas-europa-2026) te ayuda a elegir el destino que se ajuste a tu presupuesto desde el principio. Una buena planificación empieza por el destino, no por la hoja de cálculo.
+La guía de [ciudades baratas en Europa 2026](/es/blog/ciudades-baratas-europa-2026/) te ayuda a elegir el destino que se ajuste a tu presupuesto desde el principio. Una buena planificación empieza por el destino, no por la hoja de cálculo.
 
 ---
 
@@ -105,4 +105,4 @@ Para dos semanas en el sudeste asiático sin lujos: entre 1.500 y 2.200 euros. E
 
 TravelSpend es la opción más específica para viajes. Muestra los gastos diarios frente a los días restantes de viaje en tiempo real. Para viajes en grupo, Splitwise gestiona los gastos compartidos automáticamente. Ambas son gratuitas en sus versiones básicas y están disponibles para iOS y Android.
 
-**Más información:** [Consejos para vuelos baratos: 7 trucos que funcionan](/es/blog/consejos-vuelos-baratos) · [Seguro de viaje: ¿Vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena) · [Guía de viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico)
+**Más información:** [Consejos para vuelos baratos: 7 trucos que funcionan](/es/blog/consejos-vuelos-baratos/) · [Seguro de viaje: ¿Vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/) · [Guía de viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico/)

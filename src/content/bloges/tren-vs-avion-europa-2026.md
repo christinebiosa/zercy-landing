@@ -70,7 +70,7 @@ El precio es la variable más cambiante. Algunas verdades sobre costes en 2026:
 
 **Trenes nocturnos**: están volviendo en Europa con fuerza. El tren nocturno de Viena a Bruselas o de Zürich a Roma tiene un coste similar al avión pero te lleva a las estaciones centrales habiendo dormido en el tren. Para quienes no les molesta dormir sentados o en literas, es una opción excelente.
 
-Para más información sobre los trenes nocturnos europeos, consulta nuestra guía de [trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026).
+Para más información sobre los trenes nocturnos europeos, consulta nuestra guía de [trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026/).
 
 ## El factor medioambiental
 
@@ -103,6 +103,6 @@ Rail Europe y Trainline tienen la cobertura más amplia para rutas internacional
 ---
 
 **Más para leer:**
-- [Trenes nocturnos en Europa 2026: la guía completa](/es/blog/trenes-nocturnos-europa-2026)
-- [Viajes en tren por Europa: cómo planificarlos](/es/blog/viajes-tren-europa)
-- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos)
+- [Trenes nocturnos en Europa 2026: la guía completa](/es/blog/trenes-nocturnos-europa-2026/)
+- [Viajes en tren por Europa: cómo planificarlos](/es/blog/viajes-tren-europa/)
+- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos/)

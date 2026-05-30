@@ -44,7 +44,7 @@ Ab drei Ländern rechnet sich ein [Interrail Global Pass](https://www.interrail.
 
 Einzeltickets lohnen sich, wenn du wenige Strecken planst oder früh buchst. Paris → Barcelona kostet per Frühbucherticket manchmal unter 40 Euro. Der Zug Berlin → Prag liegt meist unter 30 Euro. Spontan reisend ist Interrail aber unschlagbar — kein Stress beim Buchen, kein Verfallsdatum für den nächsten Zug.
 
-Wer viel Nachtzüge einplant, sollte sich den Nightjet-Kalender anschauen. Mehr dazu im Artikel [Nachtzüge in Europa 2026](/blog/nachtzuege-europa-2026).
+Wer viel Nachtzüge einplant, sollte sich den Nightjet-Kalender anschauen. Mehr dazu im Artikel [Nachtzüge in Europa 2026](/blog/nachtzuege-europa-2026/).
 
 ## Wie packst du für 4 bis 8 Wochen Europa?
 
@@ -63,9 +63,9 @@ Alles andere kaufst du unterwegs oder verzichtest drauf. Dein Rücken wird es di
 
 ## Mehr lesen
 
-- [Günstig reisen in Osteuropa: Der komplette Guide](/blog/guenstig-reisen-osteuropa-guide)
-- [Backpacking Einsteiger-Guide: Alles was du vor deiner ersten Reise wissen musst](/blog/backpacking-einsteiger-guide)
-- [Hostel oder Hotel? Was sich wirklich lohnt](/blog/hostel-oder-hotel-2026)
+- [Günstig reisen in Osteuropa: Der komplette Guide](/blog/guenstig-reisen-osteuropa-guide/)
+- [Backpacking Einsteiger-Guide: Alles was du vor deiner ersten Reise wissen musst](/blog/backpacking-einsteiger-guide/)
+- [Hostel oder Hotel? Was sich wirklich lohnt](/blog/hostel-oder-hotel-2026/)
 
 ---
 

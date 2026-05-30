@@ -116,6 +116,6 @@ Das ist ein echtes Risiko. Schlechtes Buffet kann eine Woche ruinieren. Daher vo
 ---
 
 **Mehr lesen:**
-- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
+- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich/)
 - [Früherbucher vs Last Minute: Wann günstiger buchen?](/blog/frühbucher-vs-last-minute)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

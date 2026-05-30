@@ -47,7 +47,7 @@ De octubre a marzo es ideal. Temperaturas entre 10 y 28 grados, cielo despejado,
 
 Assi Ghat está en el extremo sur de la zona de los ghats. Menos tránsito de peregrinos, más cafeterías, librerías y estudios de yoga. La Universidad Hindú de Benarés, una de las más grandes de Asia, está a poca distancia a pie. El resultado es una energía distinta. Más intelectual, más relajado, menos comercial.
 
-Los viajeros de larga estancia y quienes buscan yoga o meditación suelen acabar aquí. También hay una ceremonia de aarti matutina más pequeña, sin la multitud de Dashashwamedh. Si estás explorando [India](/es/blog/india-guia-viaje-highlights) durante varias semanas, Assi Ghat es una buena base de operaciones.
+Los viajeros de larga estancia y quienes buscan yoga o meditación suelen acabar aquí. También hay una ceremonia de aarti matutina más pequeña, sin la multitud de Dashashwamedh. Si estás explorando [India](/es/blog/india-guia-viaje-highlights/) durante varias semanas, Assi Ghat es una buena base de operaciones.
 
 **A quién le va bien aquí:** Viajeros de larga estancia, practicantes de yoga, mochileros, quienes quieren algo de distancia del caos sin perderlo del todo.
 
@@ -61,7 +61,7 @@ Godaulia es el punto central de la ciudad vieja. Los callejones salen en todas d
 
 Los hoteles de la Old City suelen ser pequeñas casas de huéspedes en edificios históricos. Algunos tienen pocas habitaciones. Otros tienen terrazas en azotea con vistas al skyline de Varanasi. Si quieres caminar hasta el ghat a las 4 de la mañana sin necesitar transporte, este es tu barrio.
 
-Antes de viajar, lee: [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena). Varanasi tiene infraestructura médica más limitada que Delhi o Mumbai.
+Antes de viajar, lee: [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/). Varanasi tiene infraestructura médica más limitada que Delhi o Mumbai.
 
 **A quién le va bien aquí:** Viajeros aventureros, fotógrafos, quienes quieren inmersión total.
 
@@ -73,7 +73,7 @@ Antes de viajar, lee: [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-v
 
 El Cantonment fue construido durante la época colonial británica. Calles anchas, otro paisaje urbano. La estación de tren Varanasi Junction está aquí. Las cadenas hoteleras internacionales tienen sus direcciones en esta zona. Si llegas tarde o sales temprano y necesitas dormir bien sin ruido, aquí es tu sitio.
 
-La distancia a la zona de los ghats es de 20 a 30 minutos en tuk-tuk. No es ideal para paseos espontáneos al amanecer, pero funciona para quienes prefieren separar alojamiento y experiencia. Si planeas continuar a [Nepal](/es/blog/nepal-guia-viaje-highlights) vía Lumbini, los autobuses y vuelos salen cerca de aquí.
+La distancia a la zona de los ghats es de 20 a 30 minutos en tuk-tuk. No es ideal para paseos espontáneos al amanecer, pero funciona para quienes prefieren separar alojamiento y experiencia. Si planeas continuar a [Nepal](/es/blog/nepal-guia-viaje-highlights/) vía Lumbini, los autobuses y vuelos salen cerca de aquí.
 
 **A quién le va bien aquí:** Viajeros de negocios, familias con niños pequeños, quienes necesitan infraestructura fiable.
 
@@ -131,6 +131,6 @@ Dos días cubren las experiencias esenciales: paseo en barca al amanecer, recorr
 ---
 
 **Más información:**
-- [India: Guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights)
-- [Nepal: Guía de viaje con los mejores highlights](/es/blog/nepal-guia-viaje-highlights)
-- [Seguro de viaje: ¿vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [India: Guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights/)
+- [Nepal: Guía de viaje con los mejores highlights](/es/blog/nepal-guia-viaje-highlights/)
+- [Seguro de viaje: ¿vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

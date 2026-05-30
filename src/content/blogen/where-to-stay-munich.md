@@ -62,7 +62,7 @@ The Gasteig cultural center is right in the neighborhood. The Isar riverbanks ar
 
 Best of all: prices are significantly lower. Good three-star hotels from around €110, apartments on Booking.com from €80.
 
-For similar European city breaks, see the guides on [where to stay in Vienna](/en/blog/where-to-stay-vienna) or [where to stay in Prague](/en/blog/where-to-stay-prague).
+For similar European city breaks, see the guides on [where to stay in Vienna](/en/blog/where-to-stay-vienna/) or [where to stay in Prague](/en/blog/where-to-stay-prague/).
 
 ## Neuhausen-Nymphenburg: For families and longer stays
 
@@ -104,6 +104,6 @@ Outside Oktoberfest, two to four weeks in advance is usually enough for most hot
 ---
 
 **Read more:**
-- [Where to stay in Vienna: The best neighborhoods](/en/blog/where-to-stay-vienna)
-- [Where to stay in Prague: Old Town, Vinohrady or Žižkov?](/en/blog/where-to-stay-prague)
-- [Train vs Plane in Europe 2026: Which is really worth it?](/en/blog/train-vs-plane-europe-2026)
+- [Where to stay in Vienna: The best neighborhoods](/en/blog/where-to-stay-vienna/)
+- [Where to stay in Prague: Old Town, Vinohrady or Žižkov?](/en/blog/where-to-stay-prague/)
+- [Train vs Plane in Europe 2026: Which is really worth it?](/en/blog/train-vs-plane-europe-2026/)

@@ -55,7 +55,7 @@ Hotels in Oltrarno kosten 10 bis 20 Prozent weniger als im Centro Storico bei ve
 - **Hotel Lungarno** (4-Sterne, Arno-Blick, romantisch, ca. 250 Euro)
 - **Soprarno Suites** (Boutique, individuelle Zimmer, ca. 230 Euro)
 
-Für weiteren Stadtteil-Vergleich in Südeuropa: Schau auch in die Guides zu [Wo übernachten in Rom](/blog/wo-uebernachten-rom) oder [Wo übernachten in München](/blog/wo-uebernachten-muenchen).
+Für weiteren Stadtteil-Vergleich in Südeuropa: Schau auch in die Guides zu [Wo übernachten in Rom](/blog/wo-uebernachten-rom/) oder [Wo übernachten in München](/blog/wo-uebernachten-muenchen/).
 
 ## Santa Croce: Für Kultur und gute Restaurants
 
@@ -102,6 +102,6 @@ Für Reisen im Sommer (Juni bis August): 2 bis 3 Monate im Voraus. Für Schulfer
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Rom: Die besten Stadtteile für jeden Reisetyp](/blog/wo-uebernachten-rom)
-- [Wo übernachten in München: Von Altstadt bis Haidhausen](/blog/wo-uebernachten-muenchen)
-- [Nachtzüge in Europa 2026: Die besten Routen und was sie kosten](/blog/nachtzuege-europa-2026)
+- [Wo übernachten in Rom: Die besten Stadtteile für jeden Reisetyp](/blog/wo-uebernachten-rom/)
+- [Wo übernachten in München: Von Altstadt bis Haidhausen](/blog/wo-uebernachten-muenchen/)
+- [Nachtzüge in Europa 2026: Die besten Routen und was sie kosten](/blog/nachtzuege-europa-2026/)

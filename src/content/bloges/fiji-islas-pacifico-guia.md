@@ -82,6 +82,6 @@ Fiji se considera uno de los destinos más seguros del Pacífico. La delincuenci
 ---
 
 **Más artículos:**
-- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia)
-- [Australia: Ruta completa](/es/blog/australia-ruta-completa)
-- [Lista de equipaje para viajes: lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial)
+- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia/)
+- [Australia: Ruta completa](/es/blog/australia-ruta-completa/)
+- [Lista de equipaje para viajes: lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial/)

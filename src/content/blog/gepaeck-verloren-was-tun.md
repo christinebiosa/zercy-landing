@@ -47,7 +47,7 @@ Das ist die Obergrenze. Was du tatsächlich bekommst, hängt vom nachgewiesenen 
 
 Für durchschnittlich gepackte Urlaubskoffer mit Kleidung sind 400 bis 600 Euro realistisch, wenn keine teuren Einzelstücke drin waren.
 
-Noch mehr Schutz beim Gepäck: Lies auch den [Reiseversicherung-Guide](/blog/reiseversicherung-was-lohnt-sich).
+Noch mehr Schutz beim Gepäck: Lies auch den [Reiseversicherung-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 ## Wie schützt du dich vor Gepäckverlust?
 
@@ -59,7 +59,7 @@ Prävention ist besser als Entschädigung.
 
 **Einzigartiger Koffer:** Ein auffälliger Aufkleber oder eine ungewöhnliche Farbe hilft. Identische schwarze Trolleys werden manchmal von anderen Passagieren mitgenommen.
 
-**Reisekrankenversicherung oder Kreditkartenschutz:** Viele Premium-Kreditkarten (z.B. American Express Gold, Visa Infinite) bieten Gepäckschutz als kostenlosen Zusatz. Check deine Karte bevor du eine separate Versicherung kaufst. Mehr dazu im Artikel [Handgepäck packen: So verlierst du nie wieder Sachen](/blog/handgepaeck-packen-system).
+**Reisekrankenversicherung oder Kreditkartenschutz:** Viele Premium-Kreditkarten (z.B. American Express Gold, Visa Infinite) bieten Gepäckschutz als kostenlosen Zusatz. Check deine Karte bevor du eine separate Versicherung kaufst. Mehr dazu im Artikel [Handgepäck packen: So verlierst du nie wieder Sachen](/blog/handgepaeck-packen-system/).
 
 ---
 
@@ -85,6 +85,6 @@ Reisegepäckversicherung deckt Verlust, Diebstahl und Beschädigung. Reisekranke
 
 ## Mehr lesen
 
-- [Handgepäck packen: Das System das funktioniert](/blog/handgepaeck-packen-system)
-- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich)
-- [Flughafen-Tricks: So überlebst du jeden Flughafen](/blog/flughafen-schlafen-guide)
+- [Handgepäck packen: Das System das funktioniert](/blog/handgepaeck-packen-system/)
+- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/)
+- [Flughafen-Tricks: So überlebst du jeden Flughafen](/blog/flughafen-schlafen-guide/)

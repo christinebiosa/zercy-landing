@@ -55,7 +55,7 @@ Bathwick liegt östlich des Stadtzentrums, getrennt durch den Fluss Avon. Pulten
 
 **Top-Picks:** The Bath Priory (5-Sterne-Haus mit Garten und Spa, eines der renommiertesten Hotels Englands außerhalb Londons), Dukes Hotel Bath (elegantes Boutique-Hotel in einem georgischen Eckgebäude, familiär geführt, großartige Bar).
 
-Lies dazu auch unseren [Wo übernachten in London-Guide](/blog/wo-uebernachten-london). Wer Bath mit London kombiniert, findet dort praktische Viertel-Tipps.
+Lies dazu auch unseren [Wo übernachten in London-Guide](/blog/wo-uebernachten-london/). Wer Bath mit London kombiniert, findet dort praktische Viertel-Tipps.
 
 ## Bear Flat und Southgate: Budget und Charakter
 
@@ -71,7 +71,7 @@ Bear Flat ist ein Südstadtviertel mit eigenem Charakter. Lokale Cafés, Bäcker
 
 April bis Juni und September bis Oktober. Das Wetter ist mild, die Menschenmassen überschaubar. Sommer (Juli/August) ist voll, aber machbar. Bath ist kein Massentourismus-Ziel wie London, das Gedränge hält sich in Grenzen.
 
-Dezember ist besonders schön. Der Weihnachtsmarkt auf dem Bath Christmas Market gehört zu den beeindruckendsten in England. Frühbuchen lohnt sich dann. Lies auch unseren [Wo übernachten in Edinburgh-Guide](/blog/wo-uebernachten-edinburgh) für eine klassische UK-Rundreise.
+Dezember ist besonders schön. Der Weihnachtsmarkt auf dem Bath Christmas Market gehört zu den beeindruckendsten in England. Frühbuchen lohnt sich dann. Lies auch unseren [Wo übernachten in Edinburgh-Guide](/blog/wo-uebernachten-edinburgh/) für eine klassische UK-Rundreise.
 
 **Zu vermeiden:** Badminton Horse Trials (Mai) und Bath Festival (Mai/Juni) können Preise kurzfristig verdoppeln. Dann früh buchen oder Datum verschieben.
 
@@ -115,5 +115,5 @@ Per Zug ab London Paddington sind es rund 90 Minuten. Direktverbindungen fahren 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in London: Die besten Stadtteile](/blog/wo-uebernachten-london)
-- [Wo übernachten in Edinburgh: Die besten Stadtteile](/blog/wo-uebernachten-edinburgh)
+- [Wo übernachten in London: Die besten Stadtteile](/blog/wo-uebernachten-london/)
+- [Wo übernachten in Edinburgh: Die besten Stadtteile](/blog/wo-uebernachten-edinburgh/)

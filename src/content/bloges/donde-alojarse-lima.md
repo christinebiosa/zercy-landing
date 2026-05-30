@@ -65,7 +65,7 @@ El Wall Street de Lima: rascacielos, bancos internacionales, hoteles premium. Ne
 
 **Top picks:** Country Club Lima Hotel (legendario desde 1927, premium colonial), The Westin Lima Hotel (premium con piscina y spa), Atemporal Boutique Hotel (pequeño boutique de diseñador).
 
-Lee también nuestra [guía de Cusco](/es/blog/donde-alojarse-cusco), Lima es la puerta de entrada para Machu Picchu.
+Lee también nuestra [guía de Cusco](/es/blog/donde-alojarse-cusco/), Lima es la puerta de entrada para Machu Picchu.
 
 ## Centro Histórico: La Lima colonial
 
@@ -127,6 +127,6 @@ Mochilero: 700-1.000 USD por persona incl. vuelo (hostal Miraflores, Menú del D
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Cusco: 4 barrios](/es/blog/donde-alojarse-cusco)
-- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Bogotá: 4 barrios](/es/blog/donde-alojarse-bogota)
+- [Dónde alojarse en Cusco: 4 barrios](/es/blog/donde-alojarse-cusco/)
+- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Bogotá: 4 barrios](/es/blog/donde-alojarse-bogota/)

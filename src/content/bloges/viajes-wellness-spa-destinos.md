@@ -44,7 +44,7 @@ La diferencia no siempre está en el resultado. Un baño termal de 10 EUR en Bud
 
 ## Retiros de yoga: Bali e Ibiza
 
-**Bali** es la capital mundial del yoga. Ubud sobre todo. Retiros de 3 días a 4 semanas, desde ashrams ecológicos económicos hasta resorts de lujo con piscinas infinitas. Una buena semana cuesta 500-1500 EUR todo incluido. La calidad varía mucho. Busca retiros con un profesor principal experimentado y un programa que vaya más allá de clases diarias de yoga (meditación, nutrición, talleres). La [guía de barrios de Bali](/es/blog/donde-alojarse-bali) ayuda con la orientación de alojamiento.
+**Bali** es la capital mundial del yoga. Ubud sobre todo. Retiros de 3 días a 4 semanas, desde ashrams ecológicos económicos hasta resorts de lujo con piscinas infinitas. Una buena semana cuesta 500-1500 EUR todo incluido. La calidad varía mucho. Busca retiros con un profesor principal experimentado y un programa que vaya más allá de clases diarias de yoga (meditación, nutrición, talleres). La [guía de barrios de Bali](/es/blog/donde-alojarse-bali/) ayuda con la orientación de alojamiento.
 
 **Ibiza** sorprende como destino de bienestar. La isla de la fiesta ha construido una sólida escena wellness en los últimos años, especialmente en Santa Eularia y San Juan en el norte. Los retiros de alto nivel con yoga, pilates, sanación con sonido y comidas orgánicas cuestan entre 2000 y 4000 EUR por semana. La combinación de naturaleza mediterránea y alto nivel hace que Ibiza sea especialmente interesante para viajeros europeos.
 
@@ -62,7 +62,7 @@ Reserva retiros de bienestar con al menos 2-3 meses de antelación. Los buenos r
 
 ## Bienestar de lujo: Maldivas y Santorini
 
-**Maldivas** es la escapada de bienestar definitiva. Bungalows sobre el agua, buceo, tratamientos de spa sobre el mar, aislamiento total de la vida cotidiana. Una semana en un buen resort: 5000-12000 EUR por persona. No es barato. Pero si el presupuesto funciona, pocas experiencias entregan el resultado (desconexión completa) de forma más efectiva. Más detalles en la [guía de viaje a Maldivas](/es/blog/maldivas-guia-viaje-2026).
+**Maldivas** es la escapada de bienestar definitiva. Bungalows sobre el agua, buceo, tratamientos de spa sobre el mar, aislamiento total de la vida cotidiana. Una semana en un buen resort: 5000-12000 EUR por persona. No es barato. Pero si el presupuesto funciona, pocas experiencias entregan el resultado (desconexión completa) de forma más efectiva. Más detalles en la [guía de viaje a Maldivas](/es/blog/maldivas-guia-viaje-2026/).
 
 **Santorini** como destino de bienestar es menos conocida que la Santorini de fiesta. Oia e Imerovigli tienen pequeños hoteles boutique con vistas a la caldera y spa que ofrecen tranquilidad real. Precio: 3000-6000 EUR por semana en un buen hotel spa. La temporada de hombro (abril a mayo, octubre) es considerablemente más asequible.
 
@@ -97,6 +97,6 @@ Con al menos 2-3 meses de antelación, para retiros populares en Bali o Kerala h
 ---
 
 **Más información:**
-- [Dónde alojarse en Bali: Los 5 barrios](/es/blog/donde-alojarse-bali)
-- [Maldivas: guía de viaje completa 2026](/es/blog/maldivas-guia-viaje-2026)
-- [Dónde alojarse en Viena: Los 5 barrios](/es/blog/donde-alojarse-viena)
+- [Dónde alojarse en Bali: Los 5 barrios](/es/blog/donde-alojarse-bali/)
+- [Maldivas: guía de viaje completa 2026](/es/blog/maldivas-guia-viaje-2026/)
+- [Dónde alojarse en Viena: Los 5 barrios](/es/blog/donde-alojarse-viena/)

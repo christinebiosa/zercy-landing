@@ -56,7 +56,7 @@ Hoteles en Neubau: de 100 a 200 euros. Mucho mejor relación calidad-precio que 
 - **Ruby Marie Hotel** (diseño, 7.º distrito, excelente relación calidad-precio, aprox. 120 €)
 - **Hotel Rathaus Wein & Design** (temático de vinos austriacos, aprox. 160 €)
 
-Para otras capitales centroeuropeas, consulta también [dónde alojarse en Praga](/es/blog/donde-alojarse-praga) y [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest).
+Para otras capitales centroeuropeas, consulta también [dónde alojarse en Praga](/es/blog/donde-alojarse-praga/) y [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/).
 
 ## Mariahilf: La opción más práctica
 
@@ -95,6 +95,6 @@ El transporte público vienés es uno de los mejores de Europa. Metro, tranvía 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Praga: Ciudad Vieja, Malá Strana o Vinohrady](/es/blog/donde-alojarse-praga)
-- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest)
-- [Dónde alojarse en París: Marais, Saint-Germain o Montmartre](/es/blog/donde-alojarse-paris)
+- [Dónde alojarse en Praga: Ciudad Vieja, Malá Strana o Vinohrady](/es/blog/donde-alojarse-praga/)
+- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest/)
+- [Dónde alojarse en París: Marais, Saint-Germain o Montmartre](/es/blog/donde-alojarse-paris/)

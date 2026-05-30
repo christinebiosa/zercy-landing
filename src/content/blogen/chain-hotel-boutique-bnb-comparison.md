@@ -18,7 +18,7 @@ For certain types of travel, nothing beats a chain hotel.
 
 **Business travel.** Marriott, Hilton, Hyatt, IHG. These chains offer standardized amenities, fast WiFi, printing facilities, flexible check-in times, and invoices that go directly to the company. No surprises. That's the main reason business travelers almost always end up at chains.
 
-**Loyalty programs.** If you travel frequently, points matter. Marriott Bonvoy, Hilton Honors, World of Hyatt: after 20-30 nights a year, you unlock free nights, room upgrades, and lounge access. That's a genuine financial advantage boutique hotels and B&Bs simply can't match. See our [hotel loyalty program guide](/en/blog/hotel-loyalty-program-worth-it) for more.
+**Loyalty programs.** If you travel frequently, points matter. Marriott Bonvoy, Hilton Honors, World of Hyatt: after 20-30 nights a year, you unlock free nights, room upgrades, and lounge access. That's a genuine financial advantage boutique hotels and B&Bs simply can't match. See our [hotel loyalty program guide](/en/blog/hotel-loyalty-program-worth-it/) for more.
 
 **Predictability.** You know exactly what to expect. A room at the Marriott London looks almost identical to the Marriott Seoul. Same bed quality, same bathroom setup, same breakfast format. For travelers who value reliability over surprises, that's a real plus.
 
@@ -30,7 +30,7 @@ On pricing: chain hotels are often competitive in the mid-range, especially if y
 
 Boutique hotels are the opposite of standardization. That's exactly the point.
 
-Usually under 50 rooms. Individual design. Local owners or a small, dedicated team. Often housed in historic buildings: converted townhouses, old factories, former monasteries. See our full [boutique hotel guide](/en/blog/boutique-hotels) for more detail.
+Usually under 50 rooms. Individual design. Local owners or a small, dedicated team. Often housed in historic buildings: converted townhouses, old factories, former monasteries. See our full [boutique hotel guide](/en/blog/boutique-hotels/) for more detail.
 
 **Character and local flavor.** A good boutique hotel knows which bars in the neighborhood are actually worth it, which restaurant can get you a reservation, and which streets to avoid. At a 400-room Marriott you get a TripAdvisor list. At a 20-room boutique house, you get a genuine recommendation.
 
@@ -100,6 +100,6 @@ Local tourism websites often recommend unlisted B&Bs. For rural areas in Ireland
 ---
 
 **Read more:**
-- [Airbnb Alternatives 2026: The Best Options Compared](/en/blog/airbnb-alternatives-2026)
-- [Hotel Upgrade for Free: How It Actually Works](/en/blog/hotel-upgrade-tricks)
-- [Travel Budget App 2026: The Best Tools for Tracking Costs](/en/blog/travel-budget-app-2026)
+- [Airbnb Alternatives 2026: The Best Options Compared](/en/blog/airbnb-alternatives-2026/)
+- [Hotel Upgrade for Free: How It Actually Works](/en/blog/hotel-upgrade-tricks/)
+- [Travel Budget App 2026: The Best Tools for Tracking Costs](/en/blog/travel-budget-app-2026/)

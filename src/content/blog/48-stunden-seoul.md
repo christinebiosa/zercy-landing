@@ -67,7 +67,7 @@ Gangnam erreicht man danach mit der Metro, falls noch Zeit ist. Der Ruf der Gege
 
 Für 48 Stunden sind zwei Lagen gut: Myeongdong für kurze Wege zu Bukchon, Gwanghwamun und dem Cheonggyecheon. Oder Hongdae für den Westbereich und Tag 2. Die Metro verbindet beides in unter 20 Minuten.
 
-Myeongdong ist zentraler, lauter, touristischer. Hongdae ist lebhafter nachts, ruhiger morgens. Für Erstbesuche empfiehlt sich Myeongdong wegen der Wegezeiten. In unserem Artikel [Wo übernachten in Seoul](/blog/wo-uebernachten-seoul) findest du Empfehlungen nach Budget und Viertel. Booking.com hat eine gute Auswahl beider Lagen mit Bewertungen und Preisvergleich.
+Myeongdong ist zentraler, lauter, touristischer. Hongdae ist lebhafter nachts, ruhiger morgens. Für Erstbesuche empfiehlt sich Myeongdong wegen der Wegezeiten. In unserem Artikel [Wo übernachten in Seoul](/blog/wo-uebernachten-seoul/) findest du Empfehlungen nach Budget und Viertel. Booking.com hat eine gute Auswahl beider Lagen mit Bewertungen und Preisvergleich.
 
 ## Was kostet Seoul wirklich?
 
@@ -89,7 +89,7 @@ Sommer (Juli und August) ist heiß und feucht. Temperaturen über 30 Grad, Luftf
 
 Winter ist kalt. Zwischen Dezember und Februar fallen die Temperaturen regelmäßig auf minus 10 Grad. Wer Kälte kennt und günstigere Preise sucht, kommt auf seine Kosten. Die Paläste sehen im Schnee gut aus.
 
-Für die Routenplanung von Langstreckenflügen nach Seoul hilft unsere Seite [Südkorea 2-Wochen-Route](/blog/suedkorea-2-wochen-route) weiter, falls du Seoul mit weiteren Stationen kombinieren willst.
+Für die Routenplanung von Langstreckenflügen nach Seoul hilft unsere Seite [Südkorea 2-Wochen-Route](/blog/suedkorea-2-wochen-route/) weiter, falls du Seoul mit weiteren Stationen kombinieren willst.
 
 Zercy vergleicht Langstreckenflüge nach Seoul und hilft dir den besten Hub für einen Stopover zu finden. Speichere alles im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen nichts vergisst.
 
@@ -116,6 +116,6 @@ Besser als in anderen ostasiatischen Städten. Die Metro-Stationen haben Englisc
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Seoul: Beste Viertel und Hotels](/blog/wo-uebernachten-seoul)
-- [Südkorea 2-Wochen-Route: Der komplette Reiseplan](/blog/suedkorea-2-wochen-route)
-- [Airport Hacks: Schneller durch den Flughafen](/blog/airport-hacks)
+- [Wo übernachten in Seoul: Beste Viertel und Hotels](/blog/wo-uebernachten-seoul/)
+- [Südkorea 2-Wochen-Route: Der komplette Reiseplan](/blog/suedkorea-2-wochen-route/)
+- [Airport Hacks: Schneller durch den Flughafen](/blog/airport-hacks/)

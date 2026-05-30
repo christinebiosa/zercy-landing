@@ -23,11 +23,11 @@ Seven top picks based on the [Global Peace Index](https://www.visionofhumanity.o
 
 **3. Japan.** Lowest crime rate worldwide. Women travel solo at night in Tokyo, Osaka or Kyoto with no issue. Language barrier is the biggest hurdle.
 
-**4. Portugal.** Lisbon and Porto are very solo-friendly. Lively enough for social contact, safe enough for nighttime walks. See our [Lisbon guide](/en/blog/lisbon-beyond-the-tourist-trail).
+**4. Portugal.** Lisbon and Porto are very solo-friendly. Lively enough for social contact, safe enough for nighttime walks. See our [Lisbon guide](/en/blog/lisbon-beyond-the-tourist-trail/).
 
 **5. Slovenia.** Hidden gem. Small country, super safe, English well spoken. Ljubljana and Lake Bled are perfect for 1-2 weeks alone.
 
-**6. Costa Rica.** "Pura Vida" is more than a slogan. Locals are extremely friendly, the country is built for tourism, women's hostels in every town. See our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route).
+**6. Costa Rica.** "Pura Vida" is more than a slogan. Locals are extremely friendly, the country is built for tourism, women's hostels in every town. See our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route/).
 
 **7. Denmark.** Scandinavian safety, excellent public transit, English practically everywhere. Copenhagen is ideal for city trips.
 
@@ -35,13 +35,13 @@ Seven top picks based on the [Global Peace Index](https://www.visionofhumanity.o
 
 Practical preparations that actually work.
 
-Insurance. International health is mandatory. If you're under 35, an annual policy costs $40 to $80. See our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026).
+Insurance. International health is mandatory. If you're under 35, an annual policy costs $40 to $80. See our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 Emergency contacts. Save embassy address, local emergency number and a reliable emergency contact at home. Check in regularly via WhatsApp or Signal.
 
 Money safety. Don't carry everything in one place. One main card plus one backup card plus $100 cash in a hidden money belt.
 
-Reviewed accommodation. Book at least the first 2 nights in advance. For solo travelers, hotels and hostels with women's areas are more recommended than Airbnb. See our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison).
+Reviewed accommodation. Book at least the first 2 nights in advance. For solo travelers, hotels and hostels with women's areas are more recommended than Airbnb. See our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison/).
 
 Local SIM card. Buy at the airport on arrival in most countries. So you're independent of hotel WiFi. Cost: $10 to $20 for 30 days of data.
 
@@ -96,6 +96,6 @@ Walking tours on day one, hostel activities (cocktail night, pub crawls), Couchs
 ---
 
 **Read more:**
-- [Travel insurance 2026: what's worth it, what's junk?](/en/blog/travel-insurance-worth-it-2026)
-- [Costa Rica road trip: the perfect 2-week route](/en/blog/costa-rica-road-trip-route)
-- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail)
+- [Travel insurance 2026: what's worth it, what's junk?](/en/blog/travel-insurance-worth-it-2026/)
+- [Costa Rica road trip: the perfect 2-week route](/en/blog/costa-rica-road-trip-route/)
+- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail/)

@@ -43,7 +43,7 @@ Kleinkinder unter 4 Jahren stellen andere Anforderungen: kein langer Marsch zu S
 
 **Gardasee (Italien):** Mildes Klima, flache Bereiche für Kleinkinder, Strandpromenade gut begehbar, lokale Küche auch für wählerische Esser. Venedig als Tagesausflug (1h), aber vor Ort kein Kinderwagen-Stress.
 
-**Mallorca (Spanien):** Kinderfreundliche Hotelanlangen mit Babyclub ab 6 Monaten, flache Pools mit separatem Kinderbecken. Heiß im August, besser Mai/Juni/September. Lies dazu auch unseren [Boutique Hotels Guide](/blog/boutique-hotels) für familienfreundliche Alternativen zu Großresorts.
+**Mallorca (Spanien):** Kinderfreundliche Hotelanlangen mit Babyclub ab 6 Monaten, flache Pools mit separatem Kinderbecken. Heiß im August, besser Mai/Juni/September. Lies dazu auch unseren [Boutique Hotels Guide](/blog/boutique-hotels/) für familienfreundliche Alternativen zu Großresorts.
 
 **Nordseeküste Deutschland/Niederlande:** Tidegebiet, Wattwandern, Sandstrände. Kein Fliegen nötig, mit dem Auto 3-8 Stunden aus den meisten deutschen Großstädten. Günstigster Familienurlaub in Europa wenn man kein großes Budget hat.
 
@@ -83,6 +83,6 @@ Faustregel: nicht mehr als 4-5 Stunden pro Tag. Mit Pausen alle 1,5 Stunden und 
 ---
 
 **Mehr lesen:**
-- [Reisen mit Baby: Erster Flug ohne Stress](/blog/reisen-mit-baby-erste-fluege)
-- [Mit Hund Europa reisen: Was du wirklich wissen musst](/blog/mit-hund-europa-reisen)
-- [Slow Travel: Warum langsamer reisen mehr bedeutet](/blog/slow-travel-bedeutet-was)
+- [Reisen mit Baby: Erster Flug ohne Stress](/blog/reisen-mit-baby-erste-fluege/)
+- [Mit Hund Europa reisen: Was du wirklich wissen musst](/blog/mit-hund-europa-reisen/)
+- [Slow Travel: Warum langsamer reisen mehr bedeutet](/blog/slow-travel-bedeutet-was/)

@@ -47,7 +47,7 @@ The center around the Cathedral, the Alcaicería (Moorish bazaar) and Gran Vía 
 
 **Top picks:** Eurostars Gran Hotel Vía (classic grand hotel), Hospes Palacio de los Patos (design boutique in old palace), Hotel Casa Catalina (small boutique with courtyard).
 
-See our [Seville guide](/en/blog/where-to-stay-seville) for Andalusia's other great city.
+See our [Seville guide](/en/blog/where-to-stay-seville/) for Andalusia's other great city.
 
 ## When is the best time to visit Granada?
 
@@ -118,6 +118,6 @@ Granada has a centuries-old tradition: every drink automatically comes with a ta
 ---
 
 **Read more:**
-- [Where to stay in Seville: Andalusia's other great city](/en/blog/where-to-stay-seville)
-- [Where to stay in Madrid: Which neighborhood fits?](/en/blog/where-to-stay-madrid)
-- [Puglia southern Italy: The underrated destination](/en/blog/puglia-southern-italy-guide)
+- [Where to stay in Seville: Andalusia's other great city](/en/blog/where-to-stay-seville/)
+- [Where to stay in Madrid: Which neighborhood fits?](/en/blog/where-to-stay-madrid/)
+- [Puglia southern Italy: The underrated destination](/en/blog/puglia-southern-italy-guide/)

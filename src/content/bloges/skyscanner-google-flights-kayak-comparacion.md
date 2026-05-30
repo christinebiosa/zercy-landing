@@ -26,7 +26,7 @@ La mayor diferencia no está en el diseño. Está en qué precios muestran y por
 
 Para vuelos de larga distancia, Google Flights es la primera opción. El mapa Explore es una de las mejores funciones en la búsqueda de vuelos. Introduces tu ciudad de salida, dejas el destino abierto y ves en un mapa a dónde están saliendo vuelos baratos ahora mismo. Ideal si tienes flexibilidad y buscas inspiración.
 
-Price Insights es la segunda gran función. Ves de un vistazo si el precio actual está "bajo", "normal" o "alto" para esa ruta y período. Ayuda a decidir si reservar ya o esperar un poco más. Puedes profundizar en nuestro artículo sobre [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos).
+Price Insights es la segunda gran función. Ves de un vistazo si el precio actual está "bajo", "normal" o "alto" para esa ruta y período. Ayuda a decidir si reservar ya o esperar un poco más. Puedes profundizar en nuestro artículo sobre [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/).
 
 Para vuelos transatlánticos, rutas a Asia o vuelos domésticos en Estados Unidos, Google Flights cubre casi todas las aerolíneas relevantes. La ausencia de Ryanair apenas importa en esas rutas.
 
@@ -40,7 +40,7 @@ Para vuelos cortos en Europa, Skyscanner es muchas veces imprescindible. Es el �
 
 Skyscanner tiene un modo "A todas partes" muy útil. Introduces tu fecha de salida, dejas el destino abierto y ves a dónde salen vuelos baratos ahora. Es el equivalente al mapa Explore de Google, pero con aerolíneas de bajo costo incluidas.
 
-En [Skyscanner](https://www.skyscanner.net) también puedes usar la vista por mes. Ves un mes completo de un vistazo y detectas qué fechas tienen precios menores. Muy práctico con fechas flexibles. Nuestro artículo sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos) explica en detalle cuánto puede marcar la diferencia.
+En [Skyscanner](https://www.skyscanner.net) también puedes usar la vista por mes. Ves un mes completo de un vistazo y detectas qué fechas tienen precios menores. Muy práctico con fechas flexibles. Nuestro artículo sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) explica en detalle cuánto puede marcar la diferencia.
 
 Al pagar, presta atención. Skyscanner muestra a veces precios de OTAs que agregan cargos al finalizar la reserva. El precio que ves no siempre es el precio final. La comprobación más rápida: si Skyscanner te redirige a una OTA, abre la web de la aerolínea directamente y compara.
 
@@ -48,7 +48,7 @@ Al pagar, presta atención. Skyscanner muestra a veces precios de OTAs que agreg
 
 Kayak cubre un rango de aerolíneas similar a Skyscanner. El valor real está en dos funciones que los otros no tienen.
 
-La primera es Price Forecast: ¿comprar o esperar? Kayak muestra si el precio de tu ruta probablemente va a subir o bajar en los próximos días. La precisión no es perfecta, pero como apoyo para decidir es útil, sobre todo si aún tienes tiempo antes de reservar. Para más sobre el momento ideal de reserva, lee nuestro artículo sobre [trucos de aeropuerto y viaje inteligente](/es/blog/trucos-aeropuerto).
+La primera es Price Forecast: ¿comprar o esperar? Kayak muestra si el precio de tu ruta probablemente va a subir o bajar en los próximos días. La precisión no es perfecta, pero como apoyo para decidir es útil, sobre todo si aún tienes tiempo antes de reservar. Para más sobre el momento ideal de reserva, lee nuestro artículo sobre [trucos de aeropuerto y viaje inteligente](/es/blog/trucos-aeropuerto/).
 
 La segunda son los Hacker Fares. Kayak combina dos billetes de ida por separado en distintas aerolíneas que juntos salen más baratos que un billete de ida y vuelta. El ahorro puede ser considerable. Pero eres responsable si pierdes el enlace. Sin protección automática de ninguna aerolínea. Para conexiones ajustadas o viajeros con menos experiencia, el riesgo es mayor.
 
@@ -89,6 +89,6 @@ Para vuelos de larga distancia e intercontinentales: empieza con Google Flights.
 ---
 
 **Más artículos:**
-- [Consejos para vuelos baratos que realmente funcionan](/es/blog/consejos-vuelos-baratos)
-- [Cuándo reservar vuelos: el momento óptimo](/es/blog/cuando-reservar-vuelos)
-- [Trucos de aeropuerto para viajar mejor](/es/blog/trucos-aeropuerto)
+- [Consejos para vuelos baratos que realmente funcionan](/es/blog/consejos-vuelos-baratos/)
+- [Cuándo reservar vuelos: el momento óptimo](/es/blog/cuando-reservar-vuelos/)
+- [Trucos de aeropuerto para viajar mejor](/es/blog/trucos-aeropuerto/)

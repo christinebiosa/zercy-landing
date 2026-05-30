@@ -51,7 +51,7 @@ Mattancherry sits directly next to Fort Kochi and is easily walkable. This neigh
 
 Jew Town is touristy today, but in a pleasant way. Small shops with Kashmiri rugs, old bronze statues, and sandalwood carvings. Good coffee roasters. Far more authentic than most Indian tourist districts.
 
-If you are planning a broader India trip, our [India travel guide with the best highlights](/en/blog/india-travel-guide-highlights) is worth reading before you finalize your route.
+If you are planning a broader India trip, our [India travel guide with the best highlights](/en/blog/india-travel-guide-highlights/) is worth reading before you finalize your route.
 
 **Who belongs here:** History lovers, photographers, anyone who wants to see Kochi's Jewish-colonial melting pot from close up.
 
@@ -95,7 +95,7 @@ Cherai is 25 kilometers north of Fort Kochi on Vypin Island. Wide, quiet beaches
 
 Cherai is noticeably quieter than central Kochi. Resorts and guesthouses with water views, local fish restaurants, and houseboat trips bookable directly from the beach. If you are coming to Kerala to combine beach time and backwaters, Cherai deserves at least two nights.
 
-If you love underwater worlds, our guide to the [best diving and snorkeling destinations worldwide](/en/blog/diving-snorkeling-destinations) is worth a look. The Lakshadweep Islands off Kochi's coast are one of India's least-known diving highlights.
+If you love underwater worlds, our guide to the [best diving and snorkeling destinations worldwide](/en/blog/diving-snorkeling-destinations/) is worth a look. The Lakshadweep Islands off Kochi's coast are one of India's least-known diving highlights.
 
 **Who belongs here:** Beach lovers, couples, families, and anyone who wants to experience Kerala's relaxed side.
 
@@ -138,6 +138,6 @@ Cochin International Airport is in Nedumbassery, about 35 kilometers northeast o
 ---
 
 **Read more:**
-- [India Travel Guide: Best Highlights and How to Plan](/en/blog/india-travel-guide-highlights)
-- [Best Diving and Snorkeling Destinations Worldwide](/en/blog/diving-snorkeling-destinations)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [India Travel Guide: Best Highlights and How to Plan](/en/blog/india-travel-guide-highlights/)
+- [Best Diving and Snorkeling Destinations Worldwide](/en/blog/diving-snorkeling-destinations/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

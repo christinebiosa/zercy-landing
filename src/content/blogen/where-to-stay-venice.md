@@ -98,6 +98,6 @@ Day visitors pay a 5 EUR entry fee on selected weekends and public holidays (Apr
 ---
 
 **Read more:**
-- [Where to Stay in Rome: Colosseum or Trastevere?](/en/blog/where-to-stay-rome)
-- [Where to Stay in Florence: Oltrarno or City Center?](/en/blog/where-to-stay-florence)
-- [Where to Stay in Milan: Duomo or Navigli?](/en/blog/where-to-stay-milan)
+- [Where to Stay in Rome: Colosseum or Trastevere?](/en/blog/where-to-stay-rome/)
+- [Where to Stay in Florence: Oltrarno or City Center?](/en/blog/where-to-stay-florence/)
+- [Where to Stay in Milan: Duomo or Navigli?](/en/blog/where-to-stay-milan/)

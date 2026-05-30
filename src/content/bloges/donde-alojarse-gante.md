@@ -100,7 +100,7 @@ Para Gante, [Booking.com](https://www.booking.com) es la mejor plataforma:
 
 Gante es más barata que Brujas y significativamente más económica que Bruselas. Los hoteles boutique aquí empiezan donde Bruselas los deja.
 
-Lee también nuestra [guía de barrios de Bruselas](/es/blog/donde-alojarse-bruselas) y la [guía de barrios de Ámsterdam](/es/blog/donde-alojarse-amsterdam).
+Lee también nuestra [guía de barrios de Bruselas](/es/blog/donde-alojarse-bruselas/) y la [guía de barrios de Ámsterdam](/es/blog/donde-alojarse-amsterdam/).
 
 ---
 
@@ -127,6 +127,6 @@ El políptico "La adoración del Cordero Místico" de Jan van Eyck (1432) es con
 ---
 
 **Leer más:**
-- [Dónde alojarse en Bruselas: Los 5 barrios](/es/blog/donde-alojarse-bruselas)
-- [Dónde alojarse en Ámsterdam: Los 5 barrios](/es/blog/donde-alojarse-amsterdam)
-- [Dónde alojarse en Copenhague: Los 5 barrios](/es/blog/donde-alojarse-copenhague)
+- [Dónde alojarse en Bruselas: Los 5 barrios](/es/blog/donde-alojarse-bruselas/)
+- [Dónde alojarse en Ámsterdam: Los 5 barrios](/es/blog/donde-alojarse-amsterdam/)
+- [Dónde alojarse en Copenhague: Los 5 barrios](/es/blog/donde-alojarse-copenhague/)

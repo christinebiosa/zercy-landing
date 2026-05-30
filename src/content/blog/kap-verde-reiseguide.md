@@ -80,6 +80,6 @@ Flug aus Europa: 400 bis 700 Euro roundtrip je nach Saison. Unterkunft auf Sal i
 ---
 
 **Mehr lesen:**
-- [Färöer Inseln Guide](/blog/faeroeer-inseln-guide)
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Färöer Inseln Guide](/blog/faeroeer-inseln-guide/)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/)

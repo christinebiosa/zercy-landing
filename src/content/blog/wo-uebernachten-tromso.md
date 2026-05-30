@@ -61,7 +61,7 @@ Kvaløya ist die Insel westlich von Tromsø, 20-30 Autominuten vom Zentrum. Hier
 
 **Top-Picks:** Tromsø Wilderness Centre (Huskies, Hütten, direkte Polarlicht-Aussicht), Malangen Resort (Luxus-Cabins am Fjord, Top-Adresse für romantische Reisende), Svensby Tursenter (einfachere Hütten, günstiger, sehr gute Lage).
 
-Lies dazu auch unseren [Nordlichter-Guide 2026](/blog/nordlichter-2026-wo-wann-wie) für alles zur besten Fotografie-Technik und den besten Standorten rund um Tromsø.
+Lies dazu auch unseren [Nordlichter-Guide 2026](/blog/nordlichter-2026-wo-wann-wie/) für alles zur besten Fotografie-Technik und den besten Standorten rund um Tromsø.
 
 ## Tromsdalstinden: Berge und Panoramen
 
@@ -95,7 +95,7 @@ Für Tromsø ist [Booking.com](https://www.booking.com) die klar beste Plattform
 
 Direktbuchung lohnt sich bei kleinen Familienunterkünften auf Kvaløya, die nicht auf Plattformen gelistet sind.
 
-Für die Skandinavien-Reise rund um Tromsø hilft unser [Skandinavien-Rundreise-Guide](/blog/skandinavien-rundreise-route). Wer weitere Norwegen-Metropolen plant, findet auch unsere [Oslo-Stadtteile-Übersicht](/blog/wo-uebernachten-oslo) nützlich.
+Für die Skandinavien-Reise rund um Tromsø hilft unser [Skandinavien-Rundreise-Guide](/blog/skandinavien-rundreise-route/). Wer weitere Norwegen-Metropolen plant, findet auch unsere [Oslo-Stadtteile-Übersicht](/blog/wo-uebernachten-oslo/) nützlich.
 
 ---
 
@@ -122,6 +122,6 @@ Tromsø Flughafen Langnes liegt 5 km westlich des Sentrum. Mit dem Bus (Linie 40
 ---
 
 **Mehr lesen:**
-- [Nordlichter 2026: Wo, wann und wie](/blog/nordlichter-2026-wo-wann-wie)
-- [Skandinavien Rundreise: Die beste Route](/blog/skandinavien-rundreise-route)
-- [Wo übernachten in Oslo: Die 5 Stadtteile](/blog/wo-uebernachten-oslo)
+- [Nordlichter 2026: Wo, wann und wie](/blog/nordlichter-2026-wo-wann-wie/)
+- [Skandinavien Rundreise: Die beste Route](/blog/skandinavien-rundreise-route/)
+- [Wo übernachten in Oslo: Die 5 Stadtteile](/blog/wo-uebernachten-oslo/)

@@ -32,7 +32,7 @@ El proceso tiene tres fases.
 
 El Logbook es el cuaderno de viaje digital de Zercy. Cuando guardas un plan en el Logbook, aparecen organizados los vuelos seleccionados, el alojamiento, el itinerario de actividades y cualquier nota que añadas. Es el equivalente digital del cuaderno donde antes anotabas la información del viaje.
 
-Para más información sobre el Logbook, lee [qué es el Zercy Logbook y para qué sirve](/es/blog/zercy-logbook-que-es).
+Para más información sobre el Logbook, lee [qué es el Zercy Logbook y para qué sirve](/es/blog/zercy-logbook-que-es/).
 
 Zercy está disponible en [zercy.app](https://www.zercy.app). El Logbook está en [zercy.app/logbook](https://www.zercy.app/logbook).
 
@@ -59,6 +59,6 @@ Zercy entiende y responde en el idioma que uses. El sistema detecta el idioma de
 ---
 
 **Más para leer:**
-- [Qué es el Zercy Logbook y para qué sirve](/es/blog/zercy-logbook-que-es)
-- [Cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes)
-- [Las mejores herramientas de IA para planificar viajes en 2026](/es/blog/herramientas-ia-comparativa-viajes)
+- [Qué es el Zercy Logbook y para qué sirve](/es/blog/zercy-logbook-que-es/)
+- [Cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes/)
+- [Las mejores herramientas de IA para planificar viajes en 2026](/es/blog/herramientas-ia-comparativa-viajes/)

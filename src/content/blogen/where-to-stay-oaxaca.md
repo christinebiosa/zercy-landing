@@ -49,7 +49,7 @@ Jalatlaco is five minutes on foot from the Zócalo and feels like another world.
 
 **Top picks:** Quinta Real Oaxaca (historic convent, courtyard pool, absolute top address in the city), La Casa de mis Recuerdos (boutique, courtyard, handcrafted charm), Hotel Parador San Miguel (mid-range, beautiful courtyard, good location).
 
-If boutique hotels are your thing, check out our [Boutique Hotel Guide](/en/blog/boutique-hotels) for tips on what to look for when booking.
+If boutique hotels are your thing, check out our [Boutique Hotel Guide](/en/blog/boutique-hotels/) for tips on what to look for when booking.
 
 ## Which Neighborhoods Work Best for Families?
 
@@ -65,7 +65,7 @@ Colonia Reforma is where Oaxacans actually live. No Instagram filter, no tourist
 
 **The logic:** The price difference between here and the Historic Centre can easily cover daily taxis or bus rides into the center, with money left for better food.
 
-For planning your wider Oaxaca region trip, our [Where to Stay in Mexico City guide](/en/blog/where-to-stay-mexico-city) covers the capital if you're doing a combined trip.
+For planning your wider Oaxaca region trip, our [Where to Stay in Mexico City guide](/en/blog/where-to-stay-mexico-city/) covers the capital if you're doing a combined trip.
 
 ## San Felipe del Agua: Villas and Mountain Views
 
@@ -112,6 +112,6 @@ Oaxaca is one of Mexico's safest tourist cities. The Historic Centre and Jalatla
 ---
 
 **Read more:**
-- [Where to Stay in Mexico City: Best Neighborhoods 2026](/en/blog/where-to-stay-mexico-city)
-- [Where to Stay in Cancún: Hotel Zone vs. Downtown](/en/blog/where-to-stay-cancun)
-- [Boutique Hotels: What to Actually Look For](/en/blog/boutique-hotels)
+- [Where to Stay in Mexico City: Best Neighborhoods 2026](/en/blog/where-to-stay-mexico-city/)
+- [Where to Stay in Cancún: Hotel Zone vs. Downtown](/en/blog/where-to-stay-cancun/)
+- [Boutique Hotels: What to Actually Look For](/en/blog/boutique-hotels/)

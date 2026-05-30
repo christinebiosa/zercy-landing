@@ -55,7 +55,7 @@ Railay is reached by boat (10 minutes from Ao Nang, about 100 Baht). No cars, no
 
 **Top picks:** Rayavadee (ultra-luxury resort, three beaches, legendarily expensive but incomparable), Sand Sea Resort (mid-range, right on Railay East), Railay Village Resort (cheaper, friendly atmosphere).
 
-More on Thailand: the [2-week itinerary](/en/blog/thailand-2-week-itinerary) and [Chiang Mai neighborhood guide](/en/blog/where-to-stay-chiang-mai).
+More on Thailand: the [2-week itinerary](/en/blog/thailand-2-week-itinerary/) and [Chiang Mai neighborhood guide](/en/blog/where-to-stay-chiang-mai/).
 
 ## Krabi Town: Local and Budget-Friendly
 
@@ -106,6 +106,6 @@ Railay Beach is a world-class climbing destination. Beginner course (half-day): 
 ---
 
 **Read more:**
-- [Thailand: 2-Week Itinerary with Tips](/en/blog/thailand-2-week-itinerary)
-- [Where to Stay in Phuket: The 5 Beach Areas](/en/blog/where-to-stay-phuket)
-- [Where to Stay in Koh Samui: Best Beaches](/en/blog/where-to-stay-koh-samui)
+- [Thailand: 2-Week Itinerary with Tips](/en/blog/thailand-2-week-itinerary/)
+- [Where to Stay in Phuket: The 5 Beach Areas](/en/blog/where-to-stay-phuket/)
+- [Where to Stay in Koh Samui: Best Beaches](/en/blog/where-to-stay-koh-samui/)

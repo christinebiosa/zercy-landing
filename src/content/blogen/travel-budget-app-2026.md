@@ -40,7 +40,7 @@ Before any app can help, you need a budget. That sounds like more work than it a
 
 **Accommodation.** The biggest item on most trips. Research real average prices for your destination beforehand. In Thailand you sleep well for 20 euros per night. In Zurich you need at least 100 euros.
 
-**Transport.** Flights and long-distance buses are usually paid before the trip. For local transport (subway, taxi, rental car) you set a daily amount. Check out our guide on [travel savings and budget planning](/en/blog/travel-savings-budget-planning) for more detail.
+**Transport.** Flights and long-distance buses are usually paid before the trip. For local transport (subway, taxi, rental car) you set a daily amount. Check out our guide on [travel savings and budget planning](/en/blog/travel-savings-budget-planning/) for more detail.
 
 **Food.** You decide where on the spectrum you land. Local markets and supermarkets versus restaurants and cafés. Both are valid. The main thing is you know what you're choosing.
 
@@ -58,7 +58,7 @@ Three things make the difference between tracking that sticks and apps you stop 
 
 **Stick to your categories.** Transport, food, accommodation, leisure. That's all you need. Anyone who creates too many categories quickly loses motivation. Keep it simple.
 
-Tracking becomes enjoyable when you see it working. If you stay on budget for a whole week, that's a real achievement. A solid budget also helps you spend smarter on [currency exchange while abroad](/en/blog/currency-exchange-travel-guide) and avoid unnecessary fees.
+Tracking becomes enjoyable when you see it working. If you stay on budget for a whole week, that's a real achievement. A solid budget also helps you spend smarter on [currency exchange while abroad](/en/blog/currency-exchange-travel-guide/) and avoid unnecessary fees.
 
 Want to compare your travel options upfront and find budget-friendly alternatives? Zercy helps you filter flights and accommodation by price. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
@@ -81,6 +81,6 @@ Wise is primarily a payment service with favorable exchange rates. As a side eff
 ---
 
 Read more:
-- [Travel Savings and Budget Planning: The Complete Guide](/en/blog/travel-savings-budget-planning)
-- [Currency Exchange While Traveling: What's Actually Cheap](/en/blog/currency-exchange-travel-guide)
-- [Best Travel Apps 2026: The Full Rundown](/en/blog/best-travel-apps-2026)
+- [Travel Savings and Budget Planning: The Complete Guide](/en/blog/travel-savings-budget-planning/)
+- [Currency Exchange While Traveling: What's Actually Cheap](/en/blog/currency-exchange-travel-guide/)
+- [Best Travel Apps 2026: The Full Rundown](/en/blog/best-travel-apps-2026/)

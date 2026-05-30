@@ -67,7 +67,7 @@ Madrid hat ein Wüstenklima im Sommer und kalte Winter. Die [offizielle Madrid-T
 
 **Top-Picks:** Hotel Wellington (klassisch premium), Hotel Único Madrid (Boutique-Premium mit Restaurant), Mandarin Oriental Ritz Madrid (legendäre 5-Sterne am Prado).
 
-Lies dazu auch unseren [48-Stunden-Rom-Guide](/blog/48-stunden-rom) für die südeuropäische Variante.
+Lies dazu auch unseren [48-Stunden-Rom-Guide](/blog/48-stunden-rom/) für die südeuropäische Variante.
 
 ## La Latina: Tapas-Madrid
 
@@ -126,6 +126,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel in Malasaña, Tapas-Toure
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona)
-- [Wo übernachten in Sevilla: Die 4 Stadtteile](/blog/wo-uebernachten-sevilla)
-- [Santiago de Compostela und der Jakobsweg](/blog/santiago-de-compostela)
+- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona/)
+- [Wo übernachten in Sevilla: Die 4 Stadtteile](/blog/wo-uebernachten-sevilla/)
+- [Santiago de Compostela und der Jakobsweg](/blog/santiago-de-compostela/)

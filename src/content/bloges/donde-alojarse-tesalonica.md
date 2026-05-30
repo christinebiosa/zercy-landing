@@ -79,7 +79,7 @@ Kalamaria es un suburbio al este de la ciudad, directamente sobre el mar. Sin gr
 
 **Mejores opciones:** Capsis Hotel Thessaloniki (el hotel más grande de la zona, apto para familias), pequeños apartamentos directamente frente al mar por Booking.
 
-Consulta también nuestra [comparativa de islas griegas](/es/blog/islas-griegas-comparativa) si quieres combinar Tesalónica con las islas.
+Consulta también nuestra [comparativa de islas griegas](/es/blog/islas-griegas-comparativa/) si quieres combinar Tesalónica con las islas.
 
 ## Pylaia y Panorama: La Tesalónica de lujo
 
@@ -125,6 +125,6 @@ El aeropuerto de Tesalónica (SKG) está a unos 16 km al este del centro. En tax
 ---
 
 **Leer más:**
-- [Los mejores hoteles en Atenas: Dónde alojarse en cada barrio](/es/blog/donde-alojarse-atenas)
-- [Los mejores hoteles en Mykonos: Dónde alojarse en cada barrio](/es/blog/donde-alojarse-mykonos)
-- [Los mejores hoteles en Santorini: Dónde alojarse en cada barrio](/es/blog/donde-alojarse-santorini)
+- [Los mejores hoteles en Atenas: Dónde alojarse en cada barrio](/es/blog/donde-alojarse-atenas/)
+- [Los mejores hoteles en Mykonos: Dónde alojarse en cada barrio](/es/blog/donde-alojarse-mykonos/)
+- [Los mejores hoteles en Santorini: Dónde alojarse en cada barrio](/es/blog/donde-alojarse-santorini/)

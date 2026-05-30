@@ -45,7 +45,7 @@ Al norte de la estación de tren, antes barrio obrero, hoy el más dinámico de 
 
 **Top picks:** Hotel Roma Bologna (bien comunicado, precio razonable), Una Hotel Bologna (hotel de diseño cerca de la estación), Starhotels Excelsior (gama media-alta con buena ubicación).
 
-Nuestra [guía de Florencia](/es/blog/donde-alojarse-florencia) es ideal para combinar Bolonia con un clásico viaje a la Toscana.
+Nuestra [guía de Florencia](/es/blog/donde-alojarse-florencia/) es ideal para combinar Bolonia con un clásico viaje a la Toscana.
 
 ## ¿Cuándo es la mejor época para visitar Bolonia?
 
@@ -94,7 +94,7 @@ Para Bolonia [Booking.com](https://www.booking.com) está bien surtido:
 
 Reservar directo vale la pena en hoteles boutique pequeños en Centro Storico: mejor elección de habitación, late check-out y extras suelen estar incluidos.
 
-Lee también nuestra [guía de Venecia](/es/blog/donde-alojarse-venecia) para una combinación perfecta de norte de Italia, nuestra [guía de Apulia](/es/blog/apulia-sur-italia-guia) para la alternativa sureña, y nuestro artículo sobre [48 horas en Roma](/es/blog/48-horas-roma) si añades la capital a tu viaje por Italia.
+Lee también nuestra [guía de Venecia](/es/blog/donde-alojarse-venecia/) para una combinación perfecta de norte de Italia, nuestra [guía de Apulia](/es/blog/apulia-sur-italia-guia/) para la alternativa sureña, y nuestro artículo sobre [48 horas en Roma](/es/blog/48-horas-roma/) si añades la capital a tu viaje por Italia.
 
 ---
 
@@ -121,6 +121,6 @@ El Motor Show es en diciembre, COSMOPROF (belleza) en marzo, Arte Fiera en enero
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Florencia: Los 5 barrios](/es/blog/donde-alojarse-florencia)
-- [Dónde alojarse en Venecia: Los 5 barrios](/es/blog/donde-alojarse-venecia)
-- [Apulia y el sur de Italia: La guía completa](/es/blog/apulia-sur-italia-guia)
+- [Dónde alojarse en Florencia: Los 5 barrios](/es/blog/donde-alojarse-florencia/)
+- [Dónde alojarse en Venecia: Los 5 barrios](/es/blog/donde-alojarse-venecia/)
+- [Apulia y el sur de Italia: La guía completa](/es/blog/apulia-sur-italia-guia/)

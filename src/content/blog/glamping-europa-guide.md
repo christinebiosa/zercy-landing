@@ -34,7 +34,7 @@ Europa hat mehr gute Glamping-Gebiete als die meisten Reisenden ahnen.
 
 **Kroatien, Inselhopping**: Dalmatinische Küste mit Glamping auf Inseln wie Hvar, Brač oder Vis. Kombination aus Meerblick und gehobener Unterkunft. Stark wachsendes Angebot, besonders für Segler-Kombis.
 
-**Algarve, Portugal**: Rote Klippen, Atlantikblick, mildes Klima von April bis Oktober. Glamping-Resorts nahe Lagos und Sagres. Gut kombinierbar mit Wandern auf der Rota Vicentina. Schau auch in den [Algarve Reiseführer 2026](/blog/algarve-reisefuehrer-2026) für mehr Details zur Region.
+**Algarve, Portugal**: Rote Klippen, Atlantikblick, mildes Klima von April bis Oktober. Glamping-Resorts nahe Lagos und Sagres. Gut kombinierbar mit Wandern auf der Rota Vicentina. Schau auch in den [Algarve Reiseführer 2026](/blog/algarve-reisefuehrer-2026/) für mehr Details zur Region.
 
 **Andalusien, Spanien**: Olivenhaine, Sierras, Naturparks. Glamping in der Sierra de Grazalema oder nahe Ronda. Weniger bekannt als die Toskana, oft besser bewertet.
 
@@ -90,7 +90,7 @@ Der andere Unterschied ist der Strom. Glamping bedeutet meistens Steckdose. Hand
 
 Was bleibt: die Natur ist direkt draußen. Du schläfst näher an der Außenwelt als in jedem Hotelzimmer. Morgengeräusche, Sternenblick aus dem Panoramafenster, Lagerfeuerplatz. Das ist der Kern des Angebots.
 
-Wer Glamping ausprobieren möchte und auch Wellness-Elemente sucht: ein Abstecher in die [Wellness-Spa-Reisen Guide](/blog/wellness-spa-reisen-destinationen) zeigt Regionen, in denen beides kombinierbar ist.
+Wer Glamping ausprobieren möchte und auch Wellness-Elemente sucht: ein Abstecher in die [Wellness-Spa-Reisen Guide](/blog/wellness-spa-reisen-destinationen/) zeigt Regionen, in denen beides kombinierbar ist.
 
 Zercy hilft dir beim Finden der passenden Unterkunft. Ob Glamping-Resort oder Boutique-Hotel. Speichere deine Favoriten im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
 
@@ -117,6 +117,6 @@ In manchen Regionen ja. Schwarzwald und Norwegen bieten Winter-Glamping mit Saun
 ---
 
 **Mehr lesen:**
-- [Die besten Fernwanderwege der Welt: Top Routen 2026](/blog/fernwanderwege-welt-top-routen)
-- [Wellness-Reisen: Die besten Spa-Destinationen Europas](/blog/wellness-spa-reisen-destinationen)
-- [Algarve Reiseführer 2026: Strände, Klippen, Insider-Tipps](/blog/algarve-reisefuehrer-2026)
+- [Die besten Fernwanderwege der Welt: Top Routen 2026](/blog/fernwanderwege-welt-top-routen/)
+- [Wellness-Reisen: Die besten Spa-Destinationen Europas](/blog/wellness-spa-reisen-destinationen/)
+- [Algarve Reiseführer 2026: Strände, Klippen, Insider-Tipps](/blog/algarve-reisefuehrer-2026/)

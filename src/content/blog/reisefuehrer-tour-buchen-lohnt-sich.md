@@ -28,7 +28,7 @@ Vier Situationen, in denen du das Geld definitiv nicht bereust.
 
 **Kulturell dichte oder fremde Umgebung.** Japan, Indien, Marokko, Ägypten. Orte, wo Kontext nicht optional ist. Ein Guide beim Besuch des Acropolis-Museums erklärt dir, was du siehst. Ohne ihn läufst du an Exponaten vorbei, die du nicht einordnen kannst. Gleiches gilt für Auschwitz: Hier macht ein Guide aus einem historischen Besuch ein ergreifendes Erlebnis. Die meisten Besuchenden sagen, ohne Guide hätten sie nicht verstanden, was sie wirklich sehen.
 
-**Wenn du nur 24 bis 48 Stunden hast.** Zeit ist das knappste Gut auf kurzen Trips. Ein guter Guide führt dich in zwei Stunden durch das, wofür du alleine einen ganzen Tag bräuchtest. Unser [48-Stunden-Tokio-Guide](/blog/48-stunden-tokio) zeigt, wie viel in kurzer Zeit möglich ist.
+**Wenn du nur 24 bis 48 Stunden hast.** Zeit ist das knappste Gut auf kurzen Trips. Ein guter Guide führt dich in zwei Stunden durch das, wofür du alleine einen ganzen Tag bräuchtest. Unser [48-Stunden-Tokio-Guide](/blog/48-stunden-tokio/) zeigt, wie viel in kurzer Zeit möglich ist.
 
 **Mit Kindern unterwegs.** Kinder langweilen sich in Museen, wenn niemand erklärt oder interagiert. Ein guter Familienguide macht Geschichte greifbar. Das ist der Unterschied zwischen einem gelungenen und einem anstrengenden Tag.
 
@@ -38,11 +38,11 @@ Vier Situationen, in denen du das Geld definitiv nicht bereust.
 
 Genauso wichtig: die Situationen, in denen du das Geld sparen kannst.
 
-Gut dokumentierte europäische Metropolen brauchen keinen Guide. London, Amsterdam, Wien, Barcelona, Prag. Diese Städte haben exzellente Audio-Guides, Museums-Apps und mehr Podcast-Episoden über ihre Geschichte als du je hören kannst. Wenn du solche Orte [mit Zeit und eigenem Tempo](/blog/slow-travel-bedeutet-was) bereist, brauchst du ohnehin keinen festen Plan.
+Gut dokumentierte europäische Metropolen brauchen keinen Guide. London, Amsterdam, Wien, Barcelona, Prag. Diese Städte haben exzellente Audio-Guides, Museums-Apps und mehr Podcast-Episoden über ihre Geschichte als du je hören kannst. Wenn du solche Orte [mit Zeit und eigenem Tempo](/blog/slow-travel-bedeutet-was/) bereist, brauchst du ohnehin keinen festen Plan.
 
 Strandurlaub und reine Erholung brauchen keine Führung. Wenn dein Plan "Strand, Pool, Essen" lautet, ist ein Guide fehl am Platz.
 
-Wenn du dich gut vorbereitet hast. Wer Podcasts, Bücher und Blog-Artikel über sein Ziel gelesen hat, braucht keinen Guide für die Basics. Das Geld ist besser in einem guten Abendessen investiert. Unsere [Food Travel Serie](/blog/food-travel-essen-wie-einheimischer) zeigt dir, wie du eigenständig wie ein Einheimischer isst.
+Wenn du dich gut vorbereitet hast. Wer Podcasts, Bücher und Blog-Artikel über sein Ziel gelesen hat, braucht keinen Guide für die Basics. Das Geld ist besser in einem guten Abendessen investiert. Unsere [Food Travel Serie](/blog/food-travel-essen-wie-einheimischer/) zeigt dir, wie du eigenständig wie ein Einheimischer isst.
 
 ## Wie findest du die besten Touren?
 
@@ -50,7 +50,7 @@ GetYourGuide und Viator sind die beiden größten Buchungsplattformen. Beide zei
 
 Lies die negativen Bewertungen, nicht die Durchschnittsnote. Gruppe zu groß? Tempo zu schnell? Zu wenig Zeit pro Sehenswürdigkeit? Das sind die Kriterien, die wirklich zählen.
 
-Free Walking Tours sind die beste Stadteinführung. Kein Risiko, kein Vorauskosten. Du bekommst einen Überblick und Empfehlungen vom Guide für den Rest deines Trips. So findest du manchmal die besten [Geheimtipps](/blog/geheimtipps-europa), die in keinem Reiseführer stehen.
+Free Walking Tours sind die beste Stadteinführung. Kein Risiko, kein Vorauskosten. Du bekommst einen Überblick und Empfehlungen vom Guide für den Rest deines Trips. So findest du manchmal die besten [Geheimtipps](/blog/geheimtipps-europa/), die in keinem Reiseführer stehen.
 
 ## Was ist das Fazit?
 
@@ -58,7 +58,7 @@ Free Walking Tours in Städten immer machen. Das Preis-Leistungs-Verhältnis ist
 
 Private Guides nur, wenn du an einem kulturell komplexen Ziel bist, wenig Zeit hast oder ein Sicherheitselement dabei ist. Für Museen mit tiefer Geschichte, Stätten in Asien oder Nordafrika, Naturtouren mit Risiko: der Guide ist sein Geld wert.
 
-Für dokumentierte europäische Städte, Strandtrips und Reisen mit Zeit und Eigeninitiative: Geld sparen und in [lokale Erfahrungen investieren](/blog/food-travel-essen-wie-einheimischer), die kein Guide bietet.
+Für dokumentierte europäische Städte, Strandtrips und Reisen mit Zeit und Eigeninitiative: Geld sparen und in [lokale Erfahrungen investieren](/blog/food-travel-essen-wie-einheimischer/), die kein Guide bietet.
 
 ---
 
@@ -85,6 +85,6 @@ Airbnb Experiences ist ein guter Startpunkt. Außerdem Hostel-Noticeboards, loka
 ---
 
 **Mehr lesen:**
-- [Food Travel: Essen wie ein Einheimischer](/blog/food-travel-essen-wie-einheimischer)
-- [Slow Travel: Was es wirklich bedeutet](/blog/slow-travel-bedeutet-was)
-- [Geheimtipps Europa: Orte abseits der Touristenströme](/blog/geheimtipps-europa)
+- [Food Travel: Essen wie ein Einheimischer](/blog/food-travel-essen-wie-einheimischer/)
+- [Slow Travel: Was es wirklich bedeutet](/blog/slow-travel-bedeutet-was/)
+- [Geheimtipps Europa: Orte abseits der Touristenströme](/blog/geheimtipps-europa/)

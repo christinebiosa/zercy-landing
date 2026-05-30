@@ -77,6 +77,6 @@ The Alexander Nevsky Cathedral (one of the world's largest Orthodox churches), t
 
 ## Read more
 
-- [Where to Stay in Bucharest](/en/blog/where-to-stay-bucharest)
-- [Where to Stay in Tallinn](/en/blog/where-to-stay-tallinn)
-- [Where to Stay in Vilnius](/en/blog/where-to-stay-vilnius)
+- [Where to Stay in Bucharest](/en/blog/where-to-stay-bucharest/)
+- [Where to Stay in Tallinn](/en/blog/where-to-stay-tallinn/)
+- [Where to Stay in Vilnius](/en/blog/where-to-stay-vilnius/)

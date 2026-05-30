@@ -47,7 +47,7 @@ Online via [Formulaire de réclamation SNCF](https://www.sncf-connect.com/train/
 
 **Eurostar, Thalys, TGV international:** Eigene Verfahren, meistens online, manchmal mit Formular am Schalter.
 
-Mehr zum Thema Bahnreisen in Europa: der [Nachtzüge Europa Guide](/blog/nachtzuege-europa-2026) und der [Bahn vs. Flieger Europa Vergleich 2026](/blog/bahn-vs-flieger-europa-2026).
+Mehr zum Thema Bahnreisen in Europa: der [Nachtzüge Europa Guide](/blog/nachtzuege-europa-2026/) und der [Bahn vs. Flieger Europa Vergleich 2026](/blog/bahn-vs-flieger-europa-2026/).
 
 ## Was steht dir außerdem bei langer Verspätung zu?
 
@@ -77,12 +77,12 @@ In Deutschland gibt es die [söp (Schlichtungsstelle für öffentlichen Personen
 EU261 gilt ausschließlich für Flüge. Für Züge gilt die EU-Verordnung 1371/2007. Ähnlicher Aufbau, aber andere Höhen (25 und 50 Prozent statt 250 bis 600 Euro Pauschale) und andere Ausnahmen. Beide Verordnungen sind Mindeststandards, Bahnen können darüber hinausgehen.
 
 ### Wann lohnt sich Bahn statt Flieger in Europa?
-Auf Strecken bis 4 bis 5 Stunden Bahnfahrzeit (z.B. Berlin-Amsterdam, Paris-Barcelona mit TGV, Wien-München) ist die Bahn oft die bessere Wahl. Kein Flughafen-Chaos, Stadtmitte zu Stadtmitte, kein Gepäckstress. Mehr dazu im [Bahn vs. Flieger Europa Vergleich](/blog/bahn-vs-flieger-europa-2026).
+Auf Strecken bis 4 bis 5 Stunden Bahnfahrzeit (z.B. Berlin-Amsterdam, Paris-Barcelona mit TGV, Wien-München) ist die Bahn oft die bessere Wahl. Kein Flughafen-Chaos, Stadtmitte zu Stadtmitte, kein Gepäckstress. Mehr dazu im [Bahn vs. Flieger Europa Vergleich](/blog/bahn-vs-flieger-europa-2026/).
 
 ---
 
 ## Mehr lesen
 
-- [Flugverspätung: Entschädigung nach EU261 beantragen](/blog/flugverspaetung-entschaedigung-eu261)
-- [Bahn vs. Flieger in Europa 2026: Der ehrliche Vergleich](/blog/bahn-vs-flieger-europa-2026)
-- [Nachtzüge in Europa 2026: Alle wichtigen Verbindungen](/blog/nachtzuege-europa-2026)
+- [Flugverspätung: Entschädigung nach EU261 beantragen](/blog/flugverspaetung-entschaedigung-eu261/)
+- [Bahn vs. Flieger in Europa 2026: Der ehrliche Vergleich](/blog/bahn-vs-flieger-europa-2026/)
+- [Nachtzüge in Europa 2026: Alle wichtigen Verbindungen](/blog/nachtzuege-europa-2026/)

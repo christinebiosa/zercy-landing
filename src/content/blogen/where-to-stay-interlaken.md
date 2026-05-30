@@ -71,7 +71,7 @@ Those who genuinely want to be in the Bernese Oberland stay in the mountain vill
 
 Interlaken and surroundings are well covered on [Booking.com](https://www.booking.com). The mountain villages (Grindelwald, Lauterbrunnen, Wengen) have many small guesthouses listed only there. Book early: Jungfraujoch travelers book months ahead and hotels follow the same pattern.
 
-Also read: [Switzerland travel highlights guide](/en/blog/switzerland-travel-highlights-guide) and [Where to stay in Lucerne](/en/blog/where-to-stay-lucerne).
+Also read: [Switzerland travel highlights guide](/en/blog/switzerland-travel-highlights-guide/) and [Where to stay in Lucerne](/en/blog/where-to-stay-lucerne/).
 
 ---
 
@@ -99,6 +99,6 @@ Tandem flight with a pilot: approximately CHF 170-220 (about €185-240). Flight
 
 ## Read more
 
-- [Switzerland travel highlights: The complete guide](/en/blog/switzerland-travel-highlights-guide)
-- [Where to stay in Lucerne: Neighborhoods and hotels](/en/blog/where-to-stay-lucerne)
-- [Best spring destinations in Europe](/en/blog/best-spring-destinations-europe)
+- [Switzerland travel highlights: The complete guide](/en/blog/switzerland-travel-highlights-guide/)
+- [Where to stay in Lucerne: Neighborhoods and hotels](/en/blog/where-to-stay-lucerne/)
+- [Best spring destinations in Europe](/en/blog/best-spring-destinations-europe/)

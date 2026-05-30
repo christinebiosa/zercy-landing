@@ -49,7 +49,7 @@ Place Royale, der Geburtsort der französischen Kolonialzivilisation in Nordamer
 
 **Top-Picks:** Auberge Saint-Pierre (historisches Boutique-Hotel direkt im Viertel), Le Port-Royal Hotel and Suites (Apartment-Stil, gut für längere Aufenthalte), Hôtel Acadia (zuverlässig, gute Lage).
 
-Unser [Kanada-Reiseguide](/blog/kanada-reiseguide-highlights) gibt einen umfassenden Überblick über das Land.
+Unser [Kanada-Reiseguide](/blog/kanada-reiseguide-highlights/) gibt einen umfassenden Überblick über das Land.
 
 ## Wann ist die beste Reisezeit für Québec City?
 
@@ -105,6 +105,6 @@ November (außer Weihnachten) und März/April nach dem Karneval sind die günsti
 ---
 
 ## Mehr lesen
-- [Kanada Reiseguide: Die schönsten Highlights](/blog/kanada-reiseguide-highlights)
-- [Wo übernachten in New York: Die 5 besten Stadtteile](/blog/wo-uebernachten-new-york)
-- [Wo übernachten in Boston: Stadtteile erklärt](/blog/wo-uebernachten-boston)
+- [Kanada Reiseguide: Die schönsten Highlights](/blog/kanada-reiseguide-highlights/)
+- [Wo übernachten in New York: Die 5 besten Stadtteile](/blog/wo-uebernachten-new-york/)
+- [Wo übernachten in Boston: Stadtteile erklärt](/blog/wo-uebernachten-boston/)

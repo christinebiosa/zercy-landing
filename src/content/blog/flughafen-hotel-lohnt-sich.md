@@ -24,7 +24,7 @@ Es gibt klare Szenarien, in denen ein Flughafen-Hotel schlicht die bessere Wahl 
 
 **Gepäck dabei.** Mit zwei Koffern ist das ständige Hin- und Herfahren nervig und teuer. Ein Flughafen-Hotel bedeutet: ankommen, Gepäck abstellen, schlafen, zum Terminal. Kein Gepäckschließfach, kein Shuttle-Stress.
 
-Für mehr Tipps rund um die Flughafenlogistik: [7 Flughafen-Tricks, die dir Zeit und Nerven sparen](/blog/airport-hacks).
+Für mehr Tipps rund um die Flughafenlogistik: [7 Flughafen-Tricks, die dir Zeit und Nerven sparen](/blog/airport-hacks/).
 
 ## Wann lohnt es sich nicht?
 
@@ -50,7 +50,7 @@ Amsterdam (AMS), München (MUC), Wien (VIE): 70 bis 130 Euro für mittlere Kateg
 
 US-amerikanische und asiatische Hubs sind deutlich teurer. London Heathrow, Chicago O'Hare oder Tokio Narita: hier beginnen Flughafen-Hotels oft erst bei 150 Euro und gehen schnell in Richtung 250 Euro.
 
-Für einen strukturierten Überblick zu Hotel-Typen und was du für dein Geld bekommst: [Hotel-Kategorien erklärt: Was du für dein Geld bekommst](/blog/hotel-kategorien-erklaert).
+Für einen strukturierten Überblick zu Hotel-Typen und was du für dein Geld bekommst: [Hotel-Kategorien erklärt: Was du für dein Geld bekommst](/blog/hotel-kategorien-erklaert/).
 
 ## Wie sieht ein konkretes Rechenbeispiel aus?
 
@@ -76,7 +76,7 @@ Zweitens: Flexibel bei der Lage sein. Hotels 10 bis 15 Minuten vom Terminal kön
 
 Drittens: Park & Sleep-Pakete vergleichen. Flughafenparken für 5 Tage in Frankfurt kostet im Parkhaus leicht 80 bis 120 Euro. Ein Hotel mit Parkplatz und einer Übernachtung kann günstiger sein oder zumindest dasselbe kosten.
 
-Falls du generell lernst, wie du günstigere Flüge findest: [Wann du Flüge buchen solltest, um das Beste zu bekommen](/blog/wann-fluege-buchen). Und wenn du mit [nur Handgepäck](/blog/nur-handgepaeck) reist, vereinfacht sich die gesamte Flughafen-Logistik erheblich.
+Falls du generell lernst, wie du günstigere Flüge findest: [Wann du Flüge buchen solltest, um das Beste zu bekommen](/blog/wann-fluege-buchen/). Und wenn du mit [nur Handgepäck](/blog/nur-handgepaeck/) reist, vereinfacht sich die gesamte Flughafen-Logistik erheblich.
 
 ---
 
@@ -94,11 +94,11 @@ An deutschen Großflughäfen wie Frankfurt (FRA) oder München (MUC) kosten Flug
 Auf Booking.com kannst du gezielt nach Flughafen-Hotels filtern. Die Filterung nach "In der Nähe von Flughäfen" zeigt Hotels mit Shuttle-Service, die deutlich günstiger sein können als Terminal-Hotels. Frühzeitiges Buchen spart zusätzlich.
 
 ### Welche Alternative gibt es zum Flughafen-Hotel bei langen Layovers?
-Bei Layovers von 4 bis 6 Stunden ist eine Airport-Lounge oft günstiger als ein Hotelzimmer. Day Passes kosten 30 bis 60 Euro und bieten bequeme Sitze, Essen und WLAN. Für längere Wartezeiten ab 8 Stunden ist ein Hotelzimmer in der Regel komfortabler und vergleichbar im Preis. Mehr dazu: [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket).
+Bei Layovers von 4 bis 6 Stunden ist eine Airport-Lounge oft günstiger als ein Hotelzimmer. Day Passes kosten 30 bis 60 Euro und bieten bequeme Sitze, Essen und WLAN. Für längere Wartezeiten ab 8 Stunden ist ein Hotelzimmer in der Regel komfortabler und vergleichbar im Preis. Mehr dazu: [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket/).
 
 ---
 
 **Mehr lesen:**
-- [7 Flughafen-Tricks, die dir Zeit und Nerven sparen](/blog/airport-hacks)
-- [Lounge-Zugang ohne Business-Ticket: So geht's](/blog/lounge-zugang-ohne-business-ticket)
-- [Hotel-Kategorien erklärt: Was du für dein Geld bekommst](/blog/hotel-kategorien-erklaert)
+- [7 Flughafen-Tricks, die dir Zeit und Nerven sparen](/blog/airport-hacks/)
+- [Lounge-Zugang ohne Business-Ticket: So geht's](/blog/lounge-zugang-ohne-business-ticket/)
+- [Hotel-Kategorien erklärt: Was du für dein Geld bekommst](/blog/hotel-kategorien-erklaert/)

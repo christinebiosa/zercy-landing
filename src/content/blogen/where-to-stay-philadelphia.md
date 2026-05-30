@@ -49,7 +49,7 @@ Hotels in Old City are pricier but uniquely located. Anyone who wants to breathe
 
 **Top picks:** Morris House Hotel (built 1787, Philadelphia's oldest boutique hotel), Penn's View Hotel (historic, on the Delaware River), Wyndham Philadelphia Historic District (modern in a historic setting).
 
-Our [New York guide](/en/blog/where-to-stay-new-york) and [Boston guide](/en/blog/where-to-stay-boston) help with East Coast trip planning.
+Our [New York guide](/en/blog/where-to-stay-new-york/) and [Boston guide](/en/blog/where-to-stay-boston/) help with East Coast trip planning.
 
 ## When Is Philadelphia Worth Visiting Most?
 
@@ -117,6 +117,6 @@ January and February are cheapest. Late November (after Thanksgiving) and early 
 ---
 
 ## Read more
-- [Where to Stay in New York: The 5 Best Neighborhoods](/en/blog/where-to-stay-new-york)
-- [Where to Stay in Boston: Neighborhoods Explained](/en/blog/where-to-stay-boston)
-- [Where to Stay in Miami: Best Areas](/en/blog/where-to-stay-miami)
+- [Where to Stay in New York: The 5 Best Neighborhoods](/en/blog/where-to-stay-new-york/)
+- [Where to Stay in Boston: Neighborhoods Explained](/en/blog/where-to-stay-boston/)
+- [Where to Stay in Miami: Best Areas](/en/blog/where-to-stay-miami/)

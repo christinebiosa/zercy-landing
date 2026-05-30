@@ -32,7 +32,7 @@ Leading lines are a powerful compositional tool. Roads, staircases, railings, sh
 
 Using frames within frames adds depth. An archway, a window, overhanging branches: placing your subject inside a natural frame gives the image layers and visual interest. Try it intentionally at your next destination and the difference will be obvious.
 
-For inspiration on visually rich destinations in Europe, read our guides on [hidden gems in Europe](/en/blog/albania-riviera-hidden-coast) and our [stopover tourism guide](/en/blog/stopover-tourism-guide) for building multi-stop itineraries that include photogenic off-the-beaten-path stops.
+For inspiration on visually rich destinations in Europe, read our guides on [hidden gems in Europe](/en/blog/albania-riviera-hidden-coast/) and our [stopover tourism guide](/en/blog/stopover-tourism-guide/) for building multi-stop itineraries that include photogenic off-the-beaten-path stops.
 
 ## How Do You Photograph People Respectfully While Traveling?
 
@@ -50,11 +50,11 @@ The latest flagship smartphone is sufficient for 95 percent of travel photograph
 
 A mirrorless or DSLR camera makes sense when you want serious low-light or night photography, when you are working with long telephoto lenses for wildlife or sports, or when you need files large enough for big prints. For social media, travel blogs, and personal memories, the smartphone almost always delivers enough quality.
 
-Practical management on the road: battery life and storage. Always travel with a power bank so your phone does not die at 3 p.m. in the middle of a city. For carry-on rules on power banks, check our article on [carry-on liquids and power bank rules](/en/blog/carry-on-liquids-rules-2026).
+Practical management on the road: battery life and storage. Always travel with a power bank so your phone does not die at 3 p.m. in the middle of a city. For carry-on rules on power banks, check our article on [carry-on liquids and power bank rules](/en/blog/carry-on-liquids-rules-2026/).
 
 For free mobile editing: Lightroom Mobile (free tier) is the strongest option for smartphone photography. Quick adjustments to exposure, white balance, and contrast turn a mediocre shot into a good one in under a minute. Snapseed is a solid free alternative with a simpler interface.
 
-For organizing your itinerary so you plan around golden hour and avoid tourist crowds, read our article on [airport hacks](/en/blog/airport-hacks) for tips on maximizing your time from the moment you land.
+For organizing your itinerary so you plan around golden hour and avoid tourist crowds, read our article on [airport hacks](/en/blog/airport-hacks/) for tips on maximizing your time from the moment you land.
 
 ## Use Zercy to Find the Best Spots
 
@@ -79,6 +79,6 @@ Arrive at popular locations before 8 a.m. Midweek visits (Wednesday, Thursday) t
 ---
 
 **Read more:**
-- [Albania Riviera Hidden Coast](/en/blog/albania-riviera-hidden-coast)
-- [Hidden Gems: Slovenia 2026](/en/blog/slovenia-green-secret-2026)
-- [Stopover Tourism Guide](/en/blog/stopover-tourism-guide)
+- [Albania Riviera Hidden Coast](/en/blog/albania-riviera-hidden-coast/)
+- [Hidden Gems: Slovenia 2026](/en/blog/slovenia-green-secret-2026/)
+- [Stopover Tourism Guide](/en/blog/stopover-tourism-guide/)

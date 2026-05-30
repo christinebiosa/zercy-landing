@@ -49,7 +49,7 @@ From the south end you see the State Capitol at the top of Congress Avenue. Sout
 
 **Top picks:** Hotel San José (Austin icon, pool, music), South Congress Hotel (modern boutique), Austin Motel (retro, affordable, authentic).
 
-Our [US West Coast road trip guide](/en/blog/us-west-coast-road-trip) and the [San Francisco neighborhood article](/en/blog/where-to-stay-san-francisco) help with planning along the West Coast.
+Our [US West Coast road trip guide](/en/blog/us-west-coast-road-trip/) and the [San Francisco neighborhood article](/en/blog/where-to-stay-san-francisco/) help with planning along the West Coast.
 
 ## East Austin: Trendsetting and Foodie Scene
 
@@ -119,6 +119,6 @@ January and February are the most affordable months. Early December (outside Chr
 ---
 
 ## Read more
-- [Where to Stay in Las Vegas: Best Hotels by Strip and Off-Strip](/en/blog/where-to-stay-las-vegas)
-- [Where to Stay in Los Angeles: 5 Neighborhoods Explained](/en/blog/where-to-stay-los-angeles)
-- [Route 66 USA: The Complete Road Trip Guide](/en/blog/route-66-usa-road-trip)
+- [Where to Stay in Las Vegas: Best Hotels by Strip and Off-Strip](/en/blog/where-to-stay-las-vegas/)
+- [Where to Stay in Los Angeles: 5 Neighborhoods Explained](/en/blog/where-to-stay-los-angeles/)
+- [Route 66 USA: The Complete Road Trip Guide](/en/blog/route-66-usa-road-trip/)

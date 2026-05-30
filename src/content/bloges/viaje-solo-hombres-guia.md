@@ -28,7 +28,7 @@ No todos los lugares son iguales. Tres que dan resultados consistentes:
 
 **Japón** es la recomendación clásica. Con razón. Seguro, limpio, bien organizado. El transporte público funciona. Viajar solo no es inusual aquí. Los propios japoneses viajan solos con frecuencia. Los restaurantes tienen asientos individuales en la barra, los konbinis tienen todo lo que necesitas y los ryokans aceptan huéspedes solos. La profundidad cultural es enorme y el riesgo social es bajo.
 
-**Colombia** es lo opuesto. Aquí la energía social es la moneda. Cartagena, Medellín, Bogotá. La gente te habla, te invita, te pregunta. Para los hombres que buscan activamente conectar, Colombia es casi demasiado fácil. La seguridad requiere más atención que en Japón, pero si sigues lo básico (sin dispositivos llamativos, evitar barrios inseguros de noche) no tendrás problemas. Lee nuestros [consejos de seguridad para Latinoamérica](/es/blog/seguridad-latinoamerica-viajeros) antes de ir.
+**Colombia** es lo opuesto. Aquí la energía social es la moneda. Cartagena, Medellín, Bogotá. La gente te habla, te invita, te pregunta. Para los hombres que buscan activamente conectar, Colombia es casi demasiado fácil. La seguridad requiere más atención que en Japón, pero si sigues lo básico (sin dispositivos llamativos, evitar barrios inseguros de noche) no tendrás problemas. Lee nuestros [consejos de seguridad para Latinoamérica](/es/blog/seguridad-latinoamerica-viajeros/) antes de ir.
 
 **Portugal** está en el punto medio. Más barato que el resto de Europa occidental, con buen nivel de inglés y una cultura hostelera que lleva años creciendo. Lisboa y Oporto tienen comunidades nómadas muy activas. Siempre encontrarás a alguien para cenar.
 
@@ -42,7 +42,7 @@ Esta es la pregunta real. Y la respuesta es menos complicada de lo que la mayor�
 
 **Meetup.com** está subestimado. Casi todas las ciudades grandes tienen grupos de senderismo, juegos de mesa, intercambio de idiomas o simplemente salidas de expatriados. No necesitas entrada ni historia previa. Solo aparecer. Entra a [Meetup](https://www.meetup.com/) para encontrar eventos cerca de tu próximo destino.
 
-**Los eventos de Couchsurfing** funcionan igual, aunque no estés haciendo surf. La plataforma organiza encuentros regulares en la mayoría de ciudades. Mira también nuestra [guía de Couchsurfing 2026](/es/blog/couchsurfing-guia-2026) para todo lo que necesitas saber.
+**Los eventos de Couchsurfing** funcionan igual, aunque no estés haciendo surf. La plataforma organiza encuentros regulares en la mayoría de ciudades. Mira también nuestra [guía de Couchsurfing 2026](/es/blog/couchsurfing-guia-2026/) para todo lo que necesitas saber.
 
 **Los clubes deportivos locales** son el movimiento secreto. Fútbol, escalada, running. Los hombres conectan más fácilmente a través de actividades compartidas. Un partido de fútbol de expatriados, un gimnasio de escalada, un parkrun del sábado por la mañana. Tienes un tema de conversación instantáneo y una razón para estar allí.
 
@@ -60,7 +60,7 @@ Planifica tu próxima ruta con [Zercy](https://www.zercy.app/) y guarda tus idea
 
 ## ¿En qué se diferencia viajar solo para hombres y para mujeres?
 
-Sin la comparación, falta el contexto. Mira también nuestro artículo sobre [viaje solo para mujeres: países seguros](/es/blog/viaje-solo-mujeres-seguro).
+Sin la comparación, falta el contexto. Mira también nuestro artículo sobre [viaje solo para mujeres: países seguros](/es/blog/viaje-solo-mujeres-seguro/).
 
 La diferencia es real. Las mujeres planifican con más consideraciones de seguridad. Alojamiento, rutas nocturnas, cómo manejar el acoso. Para los hombres, la calibración es diferente. Menos miedo a agresiones, más exposición a robos y estafas. No es una ventaja. Solo un perfil de riesgo distinto.
 
@@ -74,7 +74,7 @@ Porque descubres lo que realmente quieres. Sin compromisos con compañeros de vi
 
 ### ¿Qué países son más seguros para hombres viajando solos?
 
-Japón, Islandia, Portugal y Nueva Zelanda están entre las opciones más seguras. Colombia y Georgia también son buenas opciones con conciencia básica. Consulta nuestra [guía de mochilero para principiantes](/es/blog/mochilero-guia-principiantes) para más detalles por destino.
+Japón, Islandia, Portugal y Nueva Zelanda están entre las opciones más seguras. Colombia y Georgia también son buenas opciones con conciencia básica. Consulta nuestra [guía de mochilero para principiantes](/es/blog/mochilero-guia-principiantes/) para más detalles por destino.
 
 ### ¿Cuánto cuesta un viaje solo para hombres?
 
@@ -87,6 +87,6 @@ A través de actividades, no de conversaciones. Caminatas guiadas, clases de coc
 ---
 
 **Sigue leyendo:**
-- [Guía de Couchsurfing 2026: Cómo Funciona de Verdad](/es/blog/couchsurfing-guia-2026)
-- [Mochilero para Principiantes: Todo lo que Necesitas](/es/blog/mochilero-guia-principiantes)
-- [Consejos de Seguridad en Latinoamérica para Viajeros Solos](/es/blog/seguridad-latinoamerica-viajeros)
+- [Guía de Couchsurfing 2026: Cómo Funciona de Verdad](/es/blog/couchsurfing-guia-2026/)
+- [Mochilero para Principiantes: Todo lo que Necesitas](/es/blog/mochilero-guia-principiantes/)
+- [Consejos de Seguridad en Latinoamérica para Viajeros Solos](/es/blog/seguridad-latinoamerica-viajeros/)

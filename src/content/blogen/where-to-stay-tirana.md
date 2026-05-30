@@ -39,7 +39,7 @@ If your plan is to spend days seeing the sights, visiting national museums, and 
 
 Top picks: **Hotel Kalemi 2** (historic feel, near the square), **Rogner Hotel Tirana** (international standard, pool, business-friendly), **Art Hotel** (small boutique, local character).
 
-If you want to explore beyond Tirana, the [Albanian Riviera guide](/en/blog/albania-riviera-hidden-coast) is a natural next step. The coast is less than three hours away.
+If you want to explore beyond Tirana, the [Albanian Riviera guide](/en/blog/albania-riviera-hidden-coast/) is a natural next step. The coast is less than three hours away.
 
 ## Pazari i Ri: For Market Lovers and Street Food Fans
 
@@ -47,7 +47,7 @@ Pazari i Ri is Tirana's new market. Fresh vegetables, local cheese, handmade goo
 
 Top picks: **Veliera Boutique Hotel** (quiet, well-kept, market proximity), **Hotel Arvi** (budget-friendly, solid reviews), affordable apartments and rooms on Booking.
 
-Anyone planning a road trip through the region will find Tirana a good starting point. The [Balkan road trip route](/en/blog/balkan-road-trip-route) covers the best stages.
+Anyone planning a road trip through the region will find Tirana a good starting point. The [Balkan road trip route](/en/blog/balkan-road-trip-route/) covers the best stages.
 
 ## When Is the Best Time to Visit Tirana?
 
@@ -65,7 +65,7 @@ Dajti National Park sits right on the city's edge. The "Dajti Ekspres" cable car
 
 Top picks: **Dajti Ekspres Hotel** (right at the mountain station, mountain views), **guesthouses around the foothills** near the cable car station.
 
-Tirana also makes a great launch point for [budget travel in Eastern Europe](/en/blog/budget-travel-eastern-europe). Albania has one of the lowest price levels on the continent.
+Tirana also makes a great launch point for [budget travel in Eastern Europe](/en/blog/budget-travel-eastern-europe/). Albania has one of the lowest price levels on the continent.
 
 ## Where Should You Book in the End?
 
@@ -91,6 +91,6 @@ Skanderbeg Square with the Et'hem Bey Mosque, the National Museum, the BunkArt e
 
 ## Read more
 
-- [Albanian Riviera: Hidden Gem on the Coast](/en/blog/albania-riviera-hidden-coast)
-- [Balkan Road Trip Route: The Best Stages](/en/blog/balkan-road-trip-route)
-- [Budget Travel in Eastern Europe: The Full Guide](/en/blog/budget-travel-eastern-europe)
+- [Albanian Riviera: Hidden Gem on the Coast](/en/blog/albania-riviera-hidden-coast/)
+- [Balkan Road Trip Route: The Best Stages](/en/blog/balkan-road-trip-route/)
+- [Budget Travel in Eastern Europe: The Full Guide](/en/blog/budget-travel-eastern-europe/)

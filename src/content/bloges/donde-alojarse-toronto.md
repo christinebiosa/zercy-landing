@@ -94,6 +94,6 @@ La Toronto Transit Commission (TTC) cubre la mayoría de los destinos turístico
 ---
 
 **Leer más:**
-- [Dónde alojarse en Nueva York: ¿Manhattan o Brooklyn?](/es/blog/donde-alojarse-nueva-york)
-- [Dónde alojarse en Miami: ¿South Beach o Wynwood?](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Los Ángeles: ¿Downtown o Santa Mónica?](/es/blog/donde-alojarse-los-angeles)
+- [Dónde alojarse en Nueva York: ¿Manhattan o Brooklyn?](/es/blog/donde-alojarse-nueva-york/)
+- [Dónde alojarse en Miami: ¿South Beach o Wynwood?](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Los Ángeles: ¿Downtown o Santa Mónica?](/es/blog/donde-alojarse-los-angeles/)

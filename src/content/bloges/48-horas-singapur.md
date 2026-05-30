@@ -61,13 +61,13 @@ Sentosa con Universal Studios ocupa un día entero. Demasiado para un fin de sem
 
 Singapur está cerca del ecuador. Siempre es caluroso y húmedo. Aun así hay diferencias: febrero a abril es más seco que el resto del año. Junio a agosto es la época con más turistas por coincidir con las vacaciones escolares de muchos países. Noviembre a enero es la temporada de lluvias oficial.
 
-Singapur está a 12 horas de vuelo de Europa. Eso lo convierte en una escala natural camino a Australia o Nueva Zelanda. Consulta nuestra [guía de turismo stopover](/es/blog/guia-stopover-turismo) para saber cómo aprovecharlo. Y para llegar bien al aeropuerto, los [trucos de aeropuerto](/es/blog/trucos-aeropuerto) cubren lo más útil de Changi.
+Singapur está a 12 horas de vuelo de Europa. Eso lo convierte en una escala natural camino a Australia o Nueva Zelanda. Consulta nuestra [guía de turismo stopover](/es/blog/guia-stopover-turismo/) para saber cómo aprovecharlo. Y para llegar bien al aeropuerto, los [trucos de aeropuerto](/es/blog/trucos-aeropuerto/) cubren lo más útil de Changi.
 
 ## Dónde alojarse para un fin de semana en Singapur
 
 Los hoteles en Singapur son caros. Calcula entre 100 y 300 SGD por noche para algo decente. Chinatown y Little India son más baratos que Marina Bay y Orchard Road. Para ubicación central: la zona alrededor de Bugis MRT está bien conectada y no tan cara como el waterfront.
 
-En [Booking.com](https://www.booking.com/searchresults.html?ss=Singapore) encuentras toda la oferta con filtro por barrio. Para una comparativa detallada por zona, visita nuestra guía de [dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur).
+En [Booking.com](https://www.booking.com/searchresults.html?ss=Singapore) encuentras toda la oferta con filtro por barrio. Para una comparativa detallada por zona, visita nuestra guía de [dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur/).
 
 La web oficial [Visit Singapore](https://www.visitsingapore.com) tiene recomendaciones actualizadas y agenda de eventos.
 
@@ -98,6 +98,6 @@ Maxwell Food Centre (Chinatown) y Old Airport Road Food Centre son los más aut�
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Singapur: Barrios y hoteles por presupuesto](/es/blog/donde-alojarse-singapur)
-- [Turismo Stopover: Cómo aprovechar una escala larga](/es/blog/guia-stopover-turismo)
-- [Trucos de Aeropuerto: Pasa más rápido por cualquier aeropuerto](/es/blog/trucos-aeropuerto)
+- [Dónde alojarse en Singapur: Barrios y hoteles por presupuesto](/es/blog/donde-alojarse-singapur/)
+- [Turismo Stopover: Cómo aprovechar una escala larga](/es/blog/guia-stopover-turismo/)
+- [Trucos de Aeropuerto: Pasa más rápido por cualquier aeropuerto](/es/blog/trucos-aeropuerto/)

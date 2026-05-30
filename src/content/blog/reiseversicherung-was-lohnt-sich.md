@@ -38,7 +38,7 @@ Wann lohnt sie nicht: Bei kurzfristigen Buchungen, bei kostenlosen Stornierungs-
 
 **Mietwagen-Vollkasko ohne Selbstbeteiligung.** Wenn du einen Mietwagen über die Online-Plattform buchst, gibt es zwei Möglichkeiten. Bei der Mietwagenfirma direkt teure Vollkasko nehmen (oft 25 bis 40 Euro pro Tag) oder eine separate Mietwagen-Vollkasko über Anbieter wie [Allianz](https://www.allianz-reiseversicherung.de) oder Hanse Merkur abschließen (oft 60 bis 100 Euro pro Jahr für unbegrenzt viele Mietungen).
 
-Lies auch unsere [Mietwagen-Checkliste](/blog/mietwagen-check) zu dem Thema.
+Lies auch unsere [Mietwagen-Checkliste](/blog/mietwagen-check/) zu dem Thema.
 
 ## Welche Versicherungen sind reine Geldverschwendung?
 
@@ -62,7 +62,7 @@ Drei pragmatische Schritte.
 
 **Schritt 3:** Wähle eine Jahres-Police statt Einzelreise-Versicherung, wenn du mehr als 2 Mal pro Jahr fliegst. 25 Euro für ein ganzes Jahr ist meist günstiger als 12 Euro pro Einzelreise.
 
-Wenn du eine Workation planst, schau dir auch unseren [Workation-Steuern-Guide](/blog/workation-steuern-2026) an. Bei Langzeit-Aufenthalten gelten andere Regeln.
+Wenn du eine Workation planst, schau dir auch unseren [Workation-Steuern-Guide](/blog/workation-steuern-2026/) an. Bei Langzeit-Aufenthalten gelten andere Regeln.
 
 ---
 
@@ -89,6 +89,6 @@ Hanse Merkur, ERV, ADAC und Allianz Reiseversicherung haben in Stiftung-Warentes
 ---
 
 **Mehr lesen:**
-- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check)
-- [Workation 2026: Steuerlich richtig planen](/blog/workation-steuern-2026)
-- [Hidden City Ticketing: So sparst du legal](/blog/hidden-city-ticketing-erklaert)
+- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check/)
+- [Workation 2026: Steuerlich richtig planen](/blog/workation-steuern-2026/)
+- [Hidden City Ticketing: So sparst du legal](/blog/hidden-city-ticketing-erklaert/)

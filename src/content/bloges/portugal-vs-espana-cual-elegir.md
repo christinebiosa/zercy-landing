@@ -16,11 +16,11 @@ Aquí no vas a encontrar el típico "los dos son geniales". Lo que sigue es un a
 
 Portugal es más barato. No es una percepción subjetiva, son datos. Un almuerzo en Lisboa cuesta entre un 30 y un 40 por ciento menos que el equivalente en Madrid o Barcelona. Alojamiento, transporte, museos, café: Portugal está entre un 15 y un 25 por ciento por debajo de España en todos los aspectos. Si viajas con un presupuesto ajustado, o simplemente quieres que tu dinero rinda más, esa diferencia se nota mucho a lo largo de una semana.
 
-Pero el precio no es el único argumento. Lisboa tiene un ambiente que Barcelona ya no puede reproducir a esa escala: los tranvías, los azulejos, las noches de fado en Alfama, las vistas al Tajo desde los miradores. La ciudad es más pequeña, más manejable, menos saturada en verano que Barcelona o Madrid. Para explorar más allá de lo típico, el artículo sobre [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa) te da una buena base.
+Pero el precio no es el único argumento. Lisboa tiene un ambiente que Barcelona ya no puede reproducir a esa escala: los tranvías, los azulejos, las noches de fado en Alfama, las vistas al Tajo desde los miradores. La ciudad es más pequeña, más manejable, menos saturada en verano que Barcelona o Madrid. Para explorar más allá de lo típico, el artículo sobre [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa/) te da una buena base.
 
-Oporto es otro argumento para Portugal. Frecuentemente ignorada, frecuentemente infravalorada. La ciudad en la desembocadura del Duero combina la arquitectura medieval de la Ribeira, las bodegas de vino de Oporto en Vila Nova de Gaia y una escena creativa joven que no parece forzada. Si quieres ver las dos ciudades bien, la [ruta completa por Portugal](/es/blog/portugal-ruta-completa) marca un recorrido de 10 a 14 días incluyendo Lisboa, el Alentejo y Oporto.
+Oporto es otro argumento para Portugal. Frecuentemente ignorada, frecuentemente infravalorada. La ciudad en la desembocadura del Duero combina la arquitectura medieval de la Ribeira, las bodegas de vino de Oporto en Vila Nova de Gaia y una escena creativa joven que no parece forzada. Si quieres ver las dos ciudades bien, la [ruta completa por Portugal](/es/blog/portugal-ruta-completa/) marca un recorrido de 10 a 14 días incluyendo Lisboa, el Alentejo y Oporto.
 
-La naturaleza también habla a favor de Portugal. La [costa del Algarve](/es/blog/algarve-guia-viaje-2026) con sus acantilados de arenisca y el agua turquesa es una de las más bellas de Europa. Madeira y las Azores ofrecen algo que España no tiene: paisajes volcánicos y rutas de senderismo para quienes buscan aventura lejana sin cruzar océanos. Para planificar el viaje, [visitportugal.com](https://www.visitportugal.com/es) tiene información oficial por región.
+La naturaleza también habla a favor de Portugal. La [costa del Algarve](/es/blog/algarve-guia-viaje-2026/) con sus acantilados de arenisca y el agua turquesa es una de las más bellas de Europa. Madeira y las Azores ofrecen algo que España no tiene: paisajes volcánicos y rutas de senderismo para quienes buscan aventura lejana sin cruzar océanos. Para planificar el viaje, [visitportugal.com](https://www.visitportugal.com/es) tiene información oficial por región.
 
 **Portugal es para ti si:** quieres viajar despacio, priorizas lo auténtico sobre la comodidad, tu presupuesto es limitado, te gusta el surf, el senderismo o que el vino que tomas tenga historia detrás.
 
@@ -52,7 +52,7 @@ Los números son más útiles que las impresiones. Un cálculo aproximado para 7
 
 En Lisboa, una habitación doble decente sale entre 80 y 120 euros la noche. Almuerzo para dos en un restaurante correcto: 15 a 25 euros. En Barcelona, el alojamiento oscila entre 130 y 200 euros, el almuerzo entre 25 y 40 euros. Madrid está en niveles similares. San Sebastián e Ibiza en verano pueden superar esas cifras con facilidad.
 
-El [Algarve](/es/blog/algarve-guia-viaje-2026) ha subido de precio. Ya no es el destino económico de hace cinco años. Pero Tenerife y Mallorca en temporada alta también son caros. Viajar en mayo o en octubre baja los costos de forma notable en ambos países.
+El [Algarve](/es/blog/algarve-guia-viaje-2026/) ha subido de precio. Ya no es el destino económico de hace cinco años. Pero Tenerife y Mallorca en temporada alta también son caros. Viajar en mayo o en octubre baja los costos de forma notable en ambos países.
 
 ## ¿Cuál gana al final?
 
@@ -69,9 +69,9 @@ La buena noticia es que no tienes que decidirte para siempre. Los dos países es
 Usa [Zercy](https://www.zercy.app) para comparar vuelos y alojamiento entre Portugal y España en una sola búsqueda. Guarda tus opciones en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlas a mano cuando estés listo para reservar.
 
 **Más artículos:**
-- [Guía del Algarve 2026](/es/blog/algarve-guia-viaje-2026)
-- [Ruta completa por Portugal](/es/blog/portugal-ruta-completa)
-- [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica)
+- [Guía del Algarve 2026](/es/blog/algarve-guia-viaje-2026/)
+- [Ruta completa por Portugal](/es/blog/portugal-ruta-completa/)
+- [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica/)
 
 ## Preguntas frecuentes
 

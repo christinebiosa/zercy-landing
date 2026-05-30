@@ -47,7 +47,7 @@ Fort y Pettah están a 15 minutos. Las calles son más tranquilas y la calidad d
 
 **Tres hoteles de referencia**: Cinnamon Grand Colombo (hotel de lujo consolidado frente al Galle Face Green), Lavinia House (boutique bien gestionado), OZO Colombo (hotel de diseño moderno con buena relación calidad-precio).
 
-Consulta también [dónde alojarse en Bali](/es/blog/donde-alojarse-bali) y [dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok) para completar tu ruta por Asia.
+Consulta también [dónde alojarse en Bali](/es/blog/donde-alojarse-bali/) y [dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok/) para completar tu ruta por Asia.
 
 ## ¿Cuándo es la mejor época para visitar Colombo?
 
@@ -120,6 +120,6 @@ Cinnamon Gardens (Colombo 7) es el barrio más tranquilo de la ciudad: sin bazar
 ---
 
 **Más información:**
-- [Dónde alojarse en Bali: Las mejores zonas](/es/blog/donde-alojarse-bali)
-- [Dónde alojarse en Bangkok: Los mejores barrios](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Miami: Guía por zonas 2026](/es/blog/donde-alojarse-miami)
+- [Dónde alojarse en Bali: Las mejores zonas](/es/blog/donde-alojarse-bali/)
+- [Dónde alojarse en Bangkok: Los mejores barrios](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Miami: Guía por zonas 2026](/es/blog/donde-alojarse-miami/)

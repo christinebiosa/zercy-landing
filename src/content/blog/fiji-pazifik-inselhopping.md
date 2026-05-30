@@ -82,6 +82,6 @@ Fiji gilt als eines der sichersten Reiseziele im Pazifik. Kriminalität gegenüb
 ---
 
 **Mehr lesen:**
-- [Safari in Ostafrika: Der ehrliche Planungs-Guide](/blog/safari-ostafrika-guide)
-- [Australien Rundreise: Die beste Route](/blog/australien-rundreise-route)
-- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt)
+- [Safari in Ostafrika: Der ehrliche Planungs-Guide](/blog/safari-ostafrika-guide/)
+- [Australien Rundreise: Die beste Route](/blog/australien-rundreise-route/)
+- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)

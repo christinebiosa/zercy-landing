@@ -90,6 +90,6 @@ Budget travelers (hostels, convenience store meals): $76-98/day. Mid-range (3-4-
 ---
 
 **Read more:**
-- [Tokyo Foodie Trip: The Best Restaurants and Food Markets](/en/blog/tokyo-foodie-trip)
-- [Thailand 2-Week Itinerary: Bangkok, Chiang Mai, Islands](/en/blog/thailand-2-week-itinerary)
-- [Business Class Without Miles: How to Fly Premium Cheaper](/en/blog/business-class-without-miles)
+- [Tokyo Foodie Trip: The Best Restaurants and Food Markets](/en/blog/tokyo-foodie-trip/)
+- [Thailand 2-Week Itinerary: Bangkok, Chiang Mai, Islands](/en/blog/thailand-2-week-itinerary/)
+- [Business Class Without Miles: How to Fly Premium Cheaper](/en/blog/business-class-without-miles/)

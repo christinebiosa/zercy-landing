@@ -56,7 +56,7 @@ Abholung in München, Rückgabe in Hamburg? Das kostet extra. Bei gleicher Stadt
 
 Am Schalter wird dir erklärt, dass deine Grundversicherung 1.500 Euro Selbstbehalt hat. Ein einziger Kratzer am Stoßfänger und du zahlst. Für nur 15 Euro pro Tag gibt es die komplette Absicherung ohne Selbstbehalt.
 
-Klingt nach fairem Angebot? Ist es nicht. Die gleiche Full Protection über einen [Consolidator wie DiscoverCars](/blog/mietwagen-consolidator-guenstiger-fahren) vorab gebucht kostet 5 bis 8 Euro pro Tag. Oder deine Kreditkarte hat bereits Kollisionsschutz.
+Klingt nach fairem Angebot? Ist es nicht. Die gleiche Full Protection über einen [Consolidator wie DiscoverCars](/blog/mietwagen-consolidator-guenstiger-fahren/) vorab gebucht kostet 5 bis 8 Euro pro Tag. Oder deine Kreditkarte hat bereits Kollisionsschutz.
 
 **Vermeiden:** Nie am Schalter Versicherungen aufdrücken lassen. Vorab vergleichen: Kreditkartenschutz, Consolidator-Zusatzversicherung, Direktversicherer wie [CarProtect](https://www.car-protect.net/) oder [Allianz](https://www.allianz.de/auto/reise-mietwagen-versicherung/). Entscheidung treffen, bevor du am Schalter stehst.
 
@@ -80,9 +80,9 @@ Wer das vorab durchrechnet, unterschreibt am Schalter ohne Überraschungen. Wer 
 
 ---
 
-Zercy findet den besten Mietwagen für dein Reiseziel und zeigt direkt die realistischen Gesamtkosten, nicht nur den Werbepreis. Das [Zercy Logbook](/blog/zercy-logbook) speichert deine Buchung automatisch.
+Zercy findet den besten Mietwagen für dein Reiseziel und zeigt direkt die realistischen Gesamtkosten, nicht nur den Werbepreis. Das [Zercy Logbook](/blog/zercy-logbook/) speichert deine Buchung automatisch.
 
-**Mehr lesen:** [Mietwagen-Check: 10 Dinge prüfen bevor du losfährst](/blog/mietwagen-check) · [Mietwagen-Consolidator: Warum damit oft günstiger](/blog/mietwagen-consolidator-guenstiger-fahren) · [Zercy Logbook: Alle Reisen an einem Ort](/blog/zercy-logbook)
+**Mehr lesen:** [Mietwagen-Check: 10 Dinge prüfen bevor du losfährst](/blog/mietwagen-check/) · [Mietwagen-Consolidator: Warum damit oft günstiger](/blog/mietwagen-consolidator-guenstiger-fahren/) · [Zercy Logbook: Alle Reisen an einem Ort](/blog/zercy-logbook/)
 
 ## Häufige Fragen
 

@@ -68,6 +68,6 @@ Gulyás (Gulaschsuppe, nicht das, was Deutsche Gulasch nennen), Halászlé (Fisc
 ---
 
 **Mehr lesen:**
-- [Balkan Roadtrip Route](/blog/balkan-roadtrip-route)
-- [Slowenien: Europas grünes Geheimnis 2026](/blog/slowenien-geheimnis-2026)
-- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt)
+- [Balkan Roadtrip Route](/blog/balkan-roadtrip-route/)
+- [Slowenien: Europas grünes Geheimnis 2026](/blog/slowenien-geheimnis-2026/)
+- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)

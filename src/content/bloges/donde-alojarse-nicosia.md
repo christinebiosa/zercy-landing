@@ -65,7 +65,7 @@ Acropolis y Engomi son los barrios de las embajadas. Amplias avenidas arboladas,
 
 Precios boutique en esta zona: de 120 a 220 EUR.
 
-Si usas Nicosia como base para excursiones de un día, la guía de [dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas) cubre una dinámica similar de ciudad con acceso a la costa.
+Si usas Nicosia como base para excursiones de un día, la guía de [dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas/) cubre una dinámica similar de ciudad con acceso a la costa.
 
 ## Strovolos: familiar y económico
 
@@ -83,7 +83,7 @@ Aglantzia está al este del centro, en torno a la Universidad de Chipre. Cafés 
 - **Casas de huéspedes económicas en Aglantzia:** Pequeñas pensiones y habitaciones desde 45 EUR. Barrio auténtico sin envoltorio turístico.
 - **Apartamentos de precio medio:** Varias opciones modernas con cocina desde 70 EUR. Buenas para estancias de una semana.
 
-Para una dinámica similar en otra pequeña capital de la UE, la guía de [dónde alojarse en La Valeta](/es/blog/donde-alojarse-la-valeta) cubre Malta con opciones boutique y económicas comparables dentro del casco histórico.
+Para una dinámica similar en otra pequeña capital de la UE, la guía de [dónde alojarse en La Valeta](/es/blog/donde-alojarse-la-valeta/) cubre Malta con opciones boutique y económicas comparables dentro del casco histórico.
 
 ## ¿Dónde reservar al final?
 
@@ -118,6 +118,6 @@ Laiki Geitonia o el centro en torno a la calle Ledra. Ambos están dentro de las
 ---
 
 **Leer más:**
-- [Dónde alojarse en Atenas: guía por barrios 2026](/es/blog/donde-alojarse-atenas)
-- [Dónde alojarse en La Valeta: guía de Malta 2026](/es/blog/donde-alojarse-la-valeta)
-- [Dónde alojarse en Mykonos: barrios y playas 2026](/es/blog/donde-alojarse-mykonos)
+- [Dónde alojarse en Atenas: guía por barrios 2026](/es/blog/donde-alojarse-atenas/)
+- [Dónde alojarse en La Valeta: guía de Malta 2026](/es/blog/donde-alojarse-la-valeta/)
+- [Dónde alojarse en Mykonos: barrios y playas 2026](/es/blog/donde-alojarse-mykonos/)

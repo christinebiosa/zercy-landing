@@ -25,7 +25,7 @@ Außerdem: Wiener Kaffeehäuser im Winter. Es gibt keinen besseren Ort für eine
 
 Preise im Dezember: Mittelklassehotels 130-220 EUR, Wochenenden vor Weihnachten sind die teuersten. Wer günstig will: Anfang Dezember oder in der Weihnachtswoche selbst (23-26 Dezember) buchen.
 
-Lies dazu auch unseren [Wien-Wochenend-Guide](/blog/wien-am-wochenende) für praktische Stadtteil-Tipps.
+Lies dazu auch unseren [Wien-Wochenend-Guide](/blog/wien-am-wochenende/) für praktische Stadtteil-Tipps.
 
 ### Prag: Mittelalterliches Winter-Flair
 
@@ -49,7 +49,7 @@ Reykjavik ist von November bis März die Basis für Nordlichter. Die Kombination
 
 Island im Winter ist teuer. Hotel in Reykjavik: 180-350 EUR pro Nacht. Mietwagen für Ausflüge auf eigene Faust: 80-150 EUR/Tag. Thermalbäder (Blaue Lagune oder Sky Lagoon): 60-100 EUR pro Person. Das summiert sich.
 
-Aber: Nordlichter siehst du günstig nirgendwo. Reykjavik ist der einfachste Zugang zu Aurora Borealis in Europa. Mehr Details in unserem [Nordlichter-Guide 2026](/blog/nordlichter-2026-wo-wann-wie).
+Aber: Nordlichter siehst du günstig nirgendwo. Reykjavik ist der einfachste Zugang zu Aurora Borealis in Europa. Mehr Details in unserem [Nordlichter-Guide 2026](/blog/nordlichter-2026-wo-wann-wie/).
 
 ### Porto: Regnerischer Charme, fast keine Touristen
 
@@ -57,7 +57,7 @@ Porto im Winter ist einer der bestgehüteten Geheimtipps in Europa. Grauer Himme
 
 Praktischer Vorteil: Porto-Hotels kosten im Januar 70-120 EUR, Airbnbs noch weniger. Das Douro-Tal, im Sommer Pflicht-Ausflugsziel, kannst du in aller Ruhe erleben.
 
-Mehr Porto-Insider-Wissen: [Porto, die unterschätzte Schwester Lissabons](/blog/porto-die-unterschaetzte-schwester).
+Mehr Porto-Insider-Wissen: [Porto, die unterschätzte Schwester Lissabons](/blog/porto-die-unterschaetzte-schwester/).
 
 ## Welche Städte lohnen sich im Winter weniger?
 
@@ -101,7 +101,7 @@ Zercy hilft dir, die Winter-Destination zu finden die zu deinen Präferenzen pas
 
 ### Welche europäische Stadt hat den besten Weihnachtsmarkt?
 
-Für viele Reisende hat Wien die konsistenteste Qualität: mehrere Märkte, gesicherte Qualität des Handwerks, einzigartiges Ambiente vor historischen Gebäuden. Straßburg und Köln werden von anderen hoch gerankt. Wer Touristenströme meidet, findet in Tallinn oder Vilnius kleinere aber charmante Märkte. Für Straßburg lohnt sich ein Blick in unseren [Straßburg Hotelguide](/blog/wo-uebernachten-strassburg) mit den besten Vierteln für die Adventszeit. Lyon ist ebenfalls ein starkes Winter-Ziel: die Fête des Lumières im Dezember zieht Millionen Besucher an. Wo man dort am besten übernachtet, zeigt der [Lyon Hotelguide](/blog/wo-uebernachten-lyon).
+Für viele Reisende hat Wien die konsistenteste Qualität: mehrere Märkte, gesicherte Qualität des Handwerks, einzigartiges Ambiente vor historischen Gebäuden. Straßburg und Köln werden von anderen hoch gerankt. Wer Touristenströme meidet, findet in Tallinn oder Vilnius kleinere aber charmante Märkte. Für Straßburg lohnt sich ein Blick in unseren [Straßburg Hotelguide](/blog/wo-uebernachten-strassburg/) mit den besten Vierteln für die Adventszeit. Lyon ist ebenfalls ein starkes Winter-Ziel: die Fête des Lumières im Dezember zieht Millionen Besucher an. Wo man dort am besten übernachtet, zeigt der [Lyon Hotelguide](/blog/wo-uebernachten-lyon/).
 
 ### Wann sind Flüge und Hotels in Europa im Winter am günstigsten?
 
@@ -118,6 +118,6 @@ Einfaches Angebot-Nachfrage-Prinzip: weniger Reisende im Winter bedeuten niedrig
 ---
 
 **Mehr lesen:**
-- [Wien am Wochenende: Stadtteile, Kaffeehäuser und Museen](/blog/wien-am-wochenende)
-- [Nordlichter 2026: Wo, wann und wie du sie wirklich siehst](/blog/nordlichter-2026-wo-wann-wie)
-- [Geheimtipps Europa: Die Städte die sich noch lohnen](/blog/geheimtipps-europa)
+- [Wien am Wochenende: Stadtteile, Kaffeehäuser und Museen](/blog/wien-am-wochenende/)
+- [Nordlichter 2026: Wo, wann und wie du sie wirklich siehst](/blog/nordlichter-2026-wo-wann-wie/)
+- [Geheimtipps Europa: Die Städte die sich noch lohnen](/blog/geheimtipps-europa/)

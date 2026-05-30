@@ -38,11 +38,11 @@ Knieprobleme oder Rückenbeschwerden. Wenn enge Sitzreihen körperliche Schmerze
 
 ## Wann lohnt es sich nicht?
 
-Unter 2 Stunden Flugzeit. Du nimmst nicht einmal eine Mahlzeit ein. Spare das Geld lieber für andere Reiseausgaben. Beim [günstigen Fliegen](/blog/guenstig-fliegen-tipps) zählen diese Posten.
+Unter 2 Stunden Flugzeit. Du nimmst nicht einmal eine Mahlzeit ein. Spare das Geld lieber für andere Reiseausgaben. Beim [günstigen Fliegen](/blog/guenstig-fliegen-tipps/) zählen diese Posten.
 
 Körpergröße unter 175 cm. Standardmäßige Economy-Reihen sind kein Problem. Der Aufpreis für mehr Platz ist schlicht nicht nötig.
 
-Wenn du einen Fensterplatz bevorzugst. Exit Row und Bulkhead-Seats sind fast ausschließlich Mittel- und Gangplätze. Wer gerne ans Fenster schaut, schaut beim Extra Legroom in die Röhre. Statt 80 Euro für einen Gangplatz lieber [nur mit Handgepäck](/blog/nur-handgepaeck) reisen und am Check-in-Schalter nett fragen.
+Wenn du einen Fensterplatz bevorzugst. Exit Row und Bulkhead-Seats sind fast ausschließlich Mittel- und Gangplätze. Wer gerne ans Fenster schaut, schaut beim Extra Legroom in die Röhre. Statt 80 Euro für einen Gangplatz lieber [nur mit Handgepäck](/blog/nur-handgepaeck/) reisen und am Check-in-Schalter nett fragen.
 
 Wenn du gut schläfst. Wer auf Langstrecken problemlos einschläft, braucht keinen Extra-Centimeter. Eine Nackenkissen und Schlafmaske leisten mehr als zehn Zentimeter zusätzlicher Beinfreiheit.
 
@@ -52,7 +52,7 @@ Die wichtigste Frage überhaupt. Airlines vergeben Exit-Row-Sitze am Check-in-Sc
 
 Die Formel ist simpel: beim Schalter höflich fragen, ob die Notausgangsreihe noch frei ist und ob du umgebucht werden könntest. Kein Garantie-Rezept. Aber es kostet nichts und funktioniert häufiger als man denkt, vor allem auf vollen Flügen.
 
-Zweite Option: Status. Vielflieger-Programme wie Miles & More Senator oder Star Alliance Gold vergeben Extra Legroom häufig kostenlos oder stark vergünstigt. Das lohnt sich als langfristige Strategie, nicht für den nächsten Einzelflug. Wenn du die Grundlagen von Meilenprogrammen verstehen möchtest, hilft unser Artikel zu [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen).
+Zweite Option: Status. Vielflieger-Programme wie Miles & More Senator oder Star Alliance Gold vergeben Extra Legroom häufig kostenlos oder stark vergünstigt. Das lohnt sich als langfristige Strategie, nicht für den nächsten Einzelflug. Wenn du die Grundlagen von Meilenprogrammen verstehen möchtest, hilft unser Artikel zu [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen/).
 
 Dritte Option: Spontan-Umbuchung. Viele Airlines entsperren Exit-Row-Plätze 24 bis 48 Stunden vor dem Flug zu reduzierten Preisen. Lohnt sich, wenn du flexibel bist und kurz vor dem Abflug nochmal nachschaust.
 
@@ -62,7 +62,7 @@ Nicht alle Extra Legroom Sitze sind gleich. [SeatGuru](https://www.seatguru.com)
 
 Der A320 von Ryanair hat andere Sitzkonfigurationen als der B787 von Lufthansa. Was bei einer Airline "Premium Row" heißt, ist bei einer anderen eine ganz normale Reihe. SeatGuru vor der Buchung aufrufen ist Pflicht, nicht Kür.
 
-Beim [Bid Upgrade in die Business Class](/blog/bid-upgrade-business-class) findest du außerdem eine Alternative für Langstrecken, die manchmal günstiger ausgeht als erwartet.
+Beim [Bid Upgrade in die Business Class](/blog/bid-upgrade-business-class/) findest du außerdem eine Alternative für Langstrecken, die manchmal günstiger ausgeht als erwartet.
 
 ---
 
@@ -88,6 +88,6 @@ Du musst körperlich in der Lage sein, die Notausgangstür zu öffnen und Passag
 
 ## Mehr lesen
 
-- [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen)
-- [Bid Upgrade: So bietest du dich in die Business Class](/blog/bid-upgrade-business-class)
-- [Positioning Flight erklärt: Der Trick mit dem günstigen Langstreckenstart](/blog/positioning-flight-erklaert)
+- [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen/)
+- [Bid Upgrade: So bietest du dich in die Business Class](/blog/bid-upgrade-business-class/)
+- [Positioning Flight erklärt: Der Trick mit dem günstigen Langstreckenstart](/blog/positioning-flight-erklaert/)

@@ -86,6 +86,6 @@ Cremes und Lotionen gelten als Flüssigkeit, unabhängig von der Konsistenz. Das
 ---
 
 **Mehr lesen:**
-- [Nur mit Handgepäck reisen: Was du wirklich brauchst](/blog/nur-handgepaeck)
-- [Powerbank-Regeln im Handgepäck 2026](/blog/powerbank-regeln-handgepaeck-2026)
-- [Günstig fliegen: Tipps für Handgepäck-Tarife](/blog/guenstig-fliegen-tipps)
+- [Nur mit Handgepäck reisen: Was du wirklich brauchst](/blog/nur-handgepaeck/)
+- [Powerbank-Regeln im Handgepäck 2026](/blog/powerbank-regeln-handgepaeck-2026/)
+- [Günstig fliegen: Tipps für Handgepäck-Tarife](/blog/guenstig-fliegen-tipps/)

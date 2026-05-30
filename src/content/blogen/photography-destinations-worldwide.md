@@ -34,7 +34,7 @@ Short answer: not at midday. Harsh midday light is the enemy of good travel phot
 
 **Blue Hour** is the 20 to 30 minutes after sunset or before sunrise. The light is cooler, more even, and gives cityscapes an almost magical quality. For temples, mosques, and illuminated buildings, blue hour is often better than golden hour.
 
-**Midnight Sun in Iceland** plays by different rules. From May to August, the sun barely sets in Iceland. Golden light lasts for hours. The Westfjords, Landmannalaugar, and Jökulsárlón glacier lagoon in midnight sun conditions are photographically hard to beat. Plan your [iceland-road-trip-guide](/en/blog/iceland-road-trip-guide) route deliberately around these hours.
+**Midnight Sun in Iceland** plays by different rules. From May to August, the sun barely sets in Iceland. Golden light lasts for hours. The Westfjords, Landmannalaugar, and Jökulsárlón glacier lagoon in midnight sun conditions are photographically hard to beat. Plan your [iceland-road-trip-guide](/en/blog/iceland-road-trip-guide/) route deliberately around these hours.
 
 For Iceland accommodation near the best hotspots: Reykjavik as a base via [Booking.com](https://www.booking.com/searchresults.html?ss=Reykjavik) or directly in the south near Vík for beach shots.
 
@@ -42,7 +42,7 @@ The remaining five top destinations:
 
 **Bali, Indonesia** offers rice terraces in Tegalalang and Jatiluwih so photogenic they almost look unreal. Best time: early morning when mist still sits in the terraces. Accommodation in Ubud via [Airbnb](https://www.airbnb.com/) or [Booking.com](https://www.booking.com/searchresults.html?ss=Ubud+Bali) for genuine proximity to the terraces.
 
-**Morocco, Fes Medina** is visual chaos at its best. The Chouara tannery, the narrow alleys of the medina, traders and craftsmen everywhere. Travel photography at its finest. Our [morocco-riads-guide](/en/blog/morocco-riads-guide) covers the best accommodation right inside the medina. Book via [Airbnb](https://www.airbnb.com/) for traditional riads.
+**Morocco, Fes Medina** is visual chaos at its best. The Chouara tannery, the narrow alleys of the medina, traders and craftsmen everywhere. Travel photography at its finest. Our [morocco-riads-guide](/en/blog/morocco-riads-guide/) covers the best accommodation right inside the medina. Book via [Airbnb](https://www.airbnb.com/) for traditional riads.
 
 **Lofoten, Norway** has red fishing huts reflected in deep blue water with mountains rising straight from the fjords. Autumn and winter also frequently bring northern lights. Stay in a rorbu (traditional fishing hut) via [Booking.com](https://www.booking.com/searchresults.html?ss=Lofoten).
 
@@ -94,6 +94,6 @@ Santorini and Cappadocia deliver spectacular results with minimal technical effo
 
 ## Read more
 
-- [Where to Stay in Cappadocia: Best Areas and Cave Hotels](/en/blog/where-to-stay-cappadocia)
-- [Where to Stay in Santorini: Oia, Fira, or Imerovigli?](/en/blog/where-to-stay-santorini)
-- [Iceland Road Trip Guide: Route, Tips, and Best Photo Spots](/en/blog/iceland-road-trip-guide)
+- [Where to Stay in Cappadocia: Best Areas and Cave Hotels](/en/blog/where-to-stay-cappadocia/)
+- [Where to Stay in Santorini: Oia, Fira, or Imerovigli?](/en/blog/where-to-stay-santorini/)
+- [Iceland Road Trip Guide: Route, Tips, and Best Photo Spots](/en/blog/iceland-road-trip-guide/)

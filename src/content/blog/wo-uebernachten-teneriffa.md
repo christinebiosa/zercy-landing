@@ -102,7 +102,7 @@ Das Dorf selbst ist entspannt, alternativ, wenig vermasst. Gute Restaurants am P
 
 Direkt beim Resort buchen lohnt sich nur bei den großen Luxushäusern (Bahía del Duque, Royal Hideaway) wenn du ein Upgrade oder spezielle Extras willst. In allen anderen Fällen ist Booking.com die zuverlässigere und oft günstigere Option.
 
-Unsere [Marrakesch-Unterkunftsguide](/blog/wo-uebernachten-marrakesch) und [Lissabon-Guide](/blog/wo-uebernachten-lissabon) zeigen ähnliche Reiseregion-Entscheidungen in anderen beliebten Zielen.
+Unsere [Marrakesch-Unterkunftsguide](/blog/wo-uebernachten-marrakesch/) und [Lissabon-Guide](/blog/wo-uebernachten-lissabon/) zeigen ähnliche Reiseregion-Entscheidungen in anderen beliebten Zielen.
 
 ---
 
@@ -129,6 +129,6 @@ Juni und Anfang Oktober sind die günstigsten Monate mit guten Preisen und wenig
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Lissabon: 5 Stadtteile](/blog/wo-uebernachten-lissabon)
-- [Wo übernachten in Marrakesch: 4 Viertel](/blog/wo-uebernachten-marrakesch)
-- [Günstig Fliegen: Die besten Tipps 2026](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in Lissabon: 5 Stadtteile](/blog/wo-uebernachten-lissabon/)
+- [Wo übernachten in Marrakesch: 4 Viertel](/blog/wo-uebernachten-marrakesch/)
+- [Günstig Fliegen: Die besten Tipps 2026](/blog/guenstig-fliegen-tipps/)

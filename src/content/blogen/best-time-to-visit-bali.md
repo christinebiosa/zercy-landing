@@ -41,7 +41,7 @@ Bali isn't uniform. The experience in Ubud is different from the coast, and both
 
 **Nusa Penida:** The small island southeast of Bali has stronger swells and rougher boat crossings in the wet season. April through October is the best window for snorkeling, diving, and cliff views. November through March can mean cancelled boats.
 
-**Amed and East Bali:** Drier than Ubud, less touristy than the south. Good year-round, with the best visibility for diving typically in June through September. The [Bali vs Lombok comparison](/en/blog/bali-vs-lombok-comparison) covers Amed in more detail if you're weighing which island fits your diving plans.
+**Amed and East Bali:** Drier than Ubud, less touristy than the south. Good year-round, with the best visibility for diving typically in June through September. The [Bali vs Lombok comparison](/en/blog/bali-vs-lombok-comparison/) covers Amed in more detail if you're weighing which island fits your diving plans.
 
 ## Which Months Should You Avoid?
 
@@ -57,7 +57,7 @@ The [Indonesian Meteorology Agency](https://www.bmkg.go.id) publishes monthly cl
 
 Very. A solid mid-range hotel in Seminyak in January might cost 30 to 40 percent less than the same room in August. Villas with pools in Canggu can drop to half the high-season price. Flights from Europe and Australia are also significantly cheaper in low season.
 
-For budget travelers, the math is simple: more money left over for food, activities, and longer stays. The [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel) has a deeper breakdown of how Bali fits into a regional budget trip.
+For budget travelers, the math is simple: more money left over for food, activities, and longer stays. The [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel/) has a deeper breakdown of how Bali fits into a regional budget trip.
 
 ## What Is the Best Overall Month to Visit Bali?
 
@@ -65,7 +65,7 @@ September is the single best month for most travelers. Dry season conditions, lo
 
 October is a close second. If you can only travel in November, focus on cultural experiences rather than beaches, and book a villa in Ubud rather than a beach hotel in Seminyak.
 
-More detail on where to base yourself in each season: [Where to Stay in Bali](/en/blog/where-to-stay-bali). For a comparison with its neighbor: [Bali vs Lombok](/en/blog/bali-vs-lombok-comparison).
+More detail on where to base yourself in each season: [Where to Stay in Bali](/en/blog/where-to-stay-bali/). For a comparison with its neighbor: [Bali vs Lombok](/en/blog/bali-vs-lombok-comparison/).
 
 ---
 
@@ -91,6 +91,6 @@ Ubud and the cultural interior hold up well during the wet season. The rice terr
 
 ## Read More
 
-- [Best Time to Visit Thailand: Month by Month](/en/blog/best-time-to-visit-thailand)
-- [Where to Stay in Bali: Best Neighborhoods](/en/blog/where-to-stay-bali)
-- [Southeast Asia on a Budget: Full Cost Guide](/en/blog/southeast-asia-budget-travel)
+- [Best Time to Visit Thailand: Month by Month](/en/blog/best-time-to-visit-thailand/)
+- [Where to Stay in Bali: Best Neighborhoods](/en/blog/where-to-stay-bali/)
+- [Southeast Asia on a Budget: Full Cost Guide](/en/blog/southeast-asia-budget-travel/)

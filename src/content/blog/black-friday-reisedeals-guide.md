@@ -42,13 +42,13 @@ Für Flugpreise hilft der [Skyscanner Preisalarm](https://www.skyscanner.de/tool
 
 ## Welche Kategorien lohnen sich am meisten?
 
-**Hotels auf Buchungsplattformen**: Hier ist das Potential am höchsten. Booking.com Genius Level 2 vorab aktivieren macht Sinn, weil Genius-Deals oft on top der Black-Friday-Preise kommen. Genius Level 2 erreichst du nach 5 abgeschlossenen Buchungen. Wenn du das noch nicht hast, lohnt es sich, ein paar Buchungen strategisch davor zu machen. Lies dazu auch, [wie du Hotels generell günstiger buchst](/blog/hotel-guenstiger-buchen-tipps).
+**Hotels auf Buchungsplattformen**: Hier ist das Potential am höchsten. Booking.com Genius Level 2 vorab aktivieren macht Sinn, weil Genius-Deals oft on top der Black-Friday-Preise kommen. Genius Level 2 erreichst du nach 5 abgeschlossenen Buchungen. Wenn du das noch nicht hast, lohnt es sich, ein paar Buchungen strategisch davor zu machen. Lies dazu auch, [wie du Hotels generell günstiger buchst](/blog/hotel-guenstiger-buchen-tipps/).
 
 **Lounge-Pässe**: Priority Pass hat fast jedes Jahr eine Black-Friday-Aktion. Der Jahrespasspreis ist dann 20 bis 25% günstiger. Wenn du häufig fliegst und Lounges nutzt, amortisiert sich das sofort.
 
 **Reiseversicherungen**: Jahrestarife für Mehrfachreisen sind an diesem Wochenende oft günstiger. ADAC, HanseMerkur, Allianz Travel reduzieren ihre Jahrespolicen regelmäßig.
 
-**Flights? Nur für bestimmte Routen**: Longhaul-Strecken nach Asien, Lateinamerika, Ostafrika können echte Black-Friday-Deals zeigen. Nicht für Frühling oder Sommer, aber für Oktober bis Februar nächstes Jahres. Diese Reisezeitraum-Kombination (Buchung November, Reise Herbst/Winter nächstes Jahr) funktioniert am besten. Mehr dazu, [wann du Flüge buchen solltest](/blog/wann-fluege-buchen).
+**Flights? Nur für bestimmte Routen**: Longhaul-Strecken nach Asien, Lateinamerika, Ostafrika können echte Black-Friday-Deals zeigen. Nicht für Frühling oder Sommer, aber für Oktober bis Februar nächstes Jahres. Diese Reisezeitraum-Kombination (Buchung November, Reise Herbst/Winter nächstes Jahr) funktioniert am besten. Mehr dazu, [wann du Flüge buchen solltest](/blog/wann-fluege-buchen/).
 
 **Was du lassen kannst**: Pauschalreisen in die Karibik für Weihnachten oder Ostern. Diese sind im November ausverkauft oder teuer, unabhängig vom Deal-Wochenende.
 
@@ -68,7 +68,7 @@ Gute Deals beurteilen kannst du nur, wenn du Vergleichswerte hast. Hier die Vorb
 
 Dann: Am Cyber Monday mit frischen Preisvergleichen schauen. Booking.com macht oft ihre stärksten Hotel-Flash-Sales am Montagmorgen mit 24-Stunden-Laufzeit. Schnell sein zahlt sich aus.
 
-Für [günstige Flugreisen](/blog/guenstig-fliegen-tipps) ist das ganze Jahr Strategie, nicht nur ein Wochenende. Aber für Jahrespässe, Versicherungen und Hotel-Buchungen für die Nebensaison ist das Black-Friday-Wochenende einer der besten Momente im Jahr.
+Für [günstige Flugreisen](/blog/guenstig-fliegen-tipps/) ist das ganze Jahr Strategie, nicht nur ein Wochenende. Aber für Jahrespässe, Versicherungen und Hotel-Buchungen für die Nebensaison ist das Black-Friday-Wochenende einer der besten Momente im Jahr.
 
 ---
 
@@ -91,6 +91,6 @@ Preise ab Oktober tracken und Vergleichswerte dokumentieren. Wer einen Screensho
 ---
 
 **Mehr lesen:**
-- [Wann solltest du Flüge buchen?](/blog/wann-fluege-buchen)
-- [Wie du Hotels günstiger buchst](/blog/hotel-guenstiger-buchen-tipps)
-- [Reisebudget planen und sparen](/blog/reise-budget-sparen-anleitung)
+- [Wann solltest du Flüge buchen?](/blog/wann-fluege-buchen/)
+- [Wie du Hotels günstiger buchst](/blog/hotel-guenstiger-buchen-tipps/)
+- [Reisebudget planen und sparen](/blog/reise-budget-sparen-anleitung/)

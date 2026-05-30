@@ -47,7 +47,7 @@ Georgetown no tiene estación de metro. Eso lo mantiene más tranquilo, más len
 
 **Mejores opciones:** The Graham Georgetown (boutique clásico, terraza en la azotea), Rosewood Washington D.C. (hotel de lujo insignia del barrio), Georgetown Suites (ideal para estancias más largas y familias).
 
-Para más sobre la lógica de barrios en ciudades americanas: [Dónde alojarse en Miami](/es/blog/donde-alojarse-miami) muestra cómo el precio y el ambiente cambian radicalmente de un barrio a otro.
+Para más sobre la lógica de barrios en ciudades americanas: [Dónde alojarse en Miami](/es/blog/donde-alojarse-miami/) muestra cómo el precio y el ambiente cambian radicalmente de un barrio a otro.
 
 ## ¿Cuándo es la mejor época para visitar Washington D.C.?
 
@@ -119,6 +119,6 @@ Al menos 3 meses antes para viajes de marzo a mayo, cuando los cerezos en flor a
 ---
 
 **Más información:**
-- [Dónde alojarse en Miami: Los 5 barrios](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Buenos Aires: Barrios y hoteles](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Bogotá: Barrios y hoteles](/es/blog/donde-alojarse-bogota)
+- [Dónde alojarse en Miami: Los 5 barrios](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Buenos Aires: Barrios y hoteles](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Bogotá: Barrios y hoteles](/es/blog/donde-alojarse-bogota/)

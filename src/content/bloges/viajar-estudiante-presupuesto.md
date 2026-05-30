@@ -38,7 +38,7 @@ El día de la semana también influye. Los lunes y martes tienden a tener tarifa
 
 Las fechas flexibles son tu herramienta más potente. Google Flights muestra una vista de calendario con precios para cada día del mes. Cambiar tu salida de un viernes a un martes puede suponer entre 30 y 50 euros de diferencia en un solo billete. Para el presupuesto de un estudiante, eso es un día entero de viaje más.
 
-Más sobre esto: [Vuelos Baratos: Consejos para Estudiantes con Poco Presupuesto](/es/blog/consejos-vuelos-baratos)
+Más sobre esto: [Vuelos Baratos: Consejos para Estudiantes con Poco Presupuesto](/es/blog/consejos-vuelos-baratos/)
 
 ## ¿Qué Tarjetas y Bonos Ahorran Dinero de Verdad?
 
@@ -52,7 +52,7 @@ Dos cosas que todo estudiante viajero debería tener.
 
 **Beca Erasmus.** Si estás en un programa Erasmus o te estás planteando solicitarlo: parte de la beca mensual está pensada para que explores el país de acogida y la región. Un fin de semana en una ciudad cercana cuesta menos de 100 euros. Aprovéchalo.
 
-Para principiantes en el mundo del mochilero: [Guía para Mochileros Principiantes: Lo que Realmente Necesitas](/es/blog/mochilero-guia-principiantes)
+Para principiantes en el mundo del mochilero: [Guía para Mochileros Principiantes: Lo que Realmente Necesitas](/es/blog/mochilero-guia-principiantes/)
 
 ## ¿Qué Puedes Hacer en Europa sin Gastar Nada?
 
@@ -66,13 +66,13 @@ Las actividades son donde el presupuesto estudiantil se desinfla sin que te des 
 
 **Usa Zercy.** Dile a la app a dónde quieres ir y cuánto puedes gastar. Zercy encuentra las opciones de vuelo más baratas y te muestra albergues que encajan. [Empieza a planificar aquí](https://zercy.app)
 
-Para viajar ligero y evitar cargos por equipaje: [Solo Equipaje de Mano: Viaja sin Pagar de Más](/es/blog/solo-equipaje-de-mano)
+Para viajar ligero y evitar cargos por equipaje: [Solo Equipaje de Mano: Viaja sin Pagar de Más](/es/blog/solo-equipaje-de-mano/)
 
 ## Más Artículos
 
-- [Vuelos Baratos: Consejos para Estudiantes con Poco Presupuesto](/es/blog/consejos-vuelos-baratos)
-- [Guía para Mochileros Principiantes: Lo que Realmente Necesitas](/es/blog/mochilero-guia-principiantes)
-- [Fechas Flexibles: Cómo Encontrar el Día de Vuelo más Barato](/es/blog/fechas-flexibles-vuelos-ahorro)
+- [Vuelos Baratos: Consejos para Estudiantes con Poco Presupuesto](/es/blog/consejos-vuelos-baratos/)
+- [Guía para Mochileros Principiantes: Lo que Realmente Necesitas](/es/blog/mochilero-guia-principiantes/)
+- [Fechas Flexibles: Cómo Encontrar el Día de Vuelo más Barato](/es/blog/fechas-flexibles-vuelos-ahorro/)
 
 ---
 

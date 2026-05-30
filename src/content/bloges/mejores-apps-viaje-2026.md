@@ -75,6 +75,6 @@ La regla del viajero experimentado: descargar los mapas offline, los idiomas de 
 ---
 
 **Más para leer:**
-- [Ciberseguridad para viajeros: cómo protegerte en el exterior](/es/blog/ciberseguridad-viajeros)
-- [Superar el jet lag rápido: lo que funciona](/es/blog/superar-jetlag-rapido)
-- [Normas de powerbank y dispositivos en equipaje de mano](/es/blog/normas-powerbank-equipaje-mano)
+- [Ciberseguridad para viajeros: cómo protegerte en el exterior](/es/blog/ciberseguridad-viajeros/)
+- [Superar el jet lag rápido: lo que funciona](/es/blog/superar-jetlag-rapido/)
+- [Normas de powerbank y dispositivos en equipaje de mano](/es/blog/normas-powerbank-equipaje-mano/)

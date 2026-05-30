@@ -35,7 +35,7 @@ Start day two at the old harbour. Ferries to the island of Lokrum depart multipl
 
 What you find on Lokrum is forest, rock, saltwater pools, and peacocks that roam completely free across the island. The Dead Sea, a saltwater lake in the interior of the island, is the most popular swimming spot. The rocky cliffs on the southeast side are wilder and usually less crowded. Plan two to three hours here. Swimming, wandering through the Benedictine monastery garden, a simple lunch at the island's bar.
 
-For anyone adding more Croatian coast to their trip, our [Croatia island hopping guide](/en/blog/croatia-island-hopping) covers the ferry routes and best combinations along the Dalmatian coast.
+For anyone adding more Croatian coast to their trip, our [Croatia island hopping guide](/en/blog/croatia-island-hopping/) covers the ferry routes and best combinations along the Dalmatian coast.
 
 ## What makes the Game of Thrones tour and Buza Bar worth finishing with?
 
@@ -45,18 +45,18 @@ Organized tours leave from Pile Gate several times a day, last around 90 minutes
 
 Close your second evening at Buza Bar. Buza means "hole" in Croatian, and it describes it accurately. A gap in the outer city wall, on the cliff above the sea, with nothing between you and the open Adriatic. Plastic chairs on rock ledges, cold drinks, no food, no wifi. You sit there as the sun drops and the sea turns dark blue and it is one of the more memorable things you will do on any weekend trip in Europe.
 
-A note on overtourism: Dubrovnik has actively limited visitor numbers in recent years, including caps on cruise ship arrivals and higher entry prices for key sites. It has helped. But the gap between early morning Dubrovnik and midday Dubrovnik is still enormous. Factor that into how you structure each day. More on this in our [overtourism alternatives guide](/en/blog/overtourism-alternatives-guide).
+A note on overtourism: Dubrovnik has actively limited visitor numbers in recent years, including caps on cruise ship arrivals and higher entry prices for key sites. It has helped. But the gap between early morning Dubrovnik and midday Dubrovnik is still enormous. Factor that into how you structure each day. More on this in our [overtourism alternatives guide](/en/blog/overtourism-alternatives-guide/).
 
-For accommodation recommendations across different budgets and locations, see our guide on [where to stay in Dubrovnik](/en/blog/where-to-stay-dubrovnik). Staying outside the old town walls costs significantly less and the bus connections are straightforward.
+For accommodation recommendations across different budgets and locations, see our guide on [where to stay in Dubrovnik](/en/blog/where-to-stay-dubrovnik/). Staying outside the old town walls costs significantly less and the bus connections are straightforward.
 
 Keep all your Dubrovnik picks in your [Zercy Logbook](https://www.zercy.app/logbook) so flights, hotels, and activities are all in one place when you book.
 
 ---
 
 **Read more:**
-- [Where to Stay in Dubrovnik: Old Town vs. Outside the Walls](/en/blog/where-to-stay-dubrovnik)
-- [Croatia Island Hopping: Dalmatia by Ferry](/en/blog/croatia-island-hopping)
-- [Overtourism Alternatives: How to Travel Better in Crowded Cities](/en/blog/overtourism-alternatives-guide)
+- [Where to Stay in Dubrovnik: Old Town vs. Outside the Walls](/en/blog/where-to-stay-dubrovnik/)
+- [Croatia Island Hopping: Dalmatia by Ferry](/en/blog/croatia-island-hopping/)
+- [Overtourism Alternatives: How to Travel Better in Crowded Cities](/en/blog/overtourism-alternatives-guide/)
 
 ---
 

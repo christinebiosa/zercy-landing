@@ -53,7 +53,7 @@ Die offizielle [Tourism New Zealand](https://www.newzealand.com/de/queenstown/) 
 
 Queenstown hat zwei Hochsaisons. Sommer (Dezember bis Februar) für Wandern, Bungee, Jet Boating, und Bergwanderungen bei bis zu 25 Grad. Winter (Juli bis September) für Skifahren auf Coronet Peak und The Remarkables, zwei der bekanntesten Skigebiete der Südhalbkugel. Schulterperioden (März-Mai, Oktober-November) sind ruhiger und bis zu 40 Prozent günstiger. Frühling in Neuseeland (Oktober/November) ist besonders schön.
 
-Für Südinsel-Reisen lohnt sich eine Kombination: Queenstown, Milford Sound (2,5 Stunden), Franz Josef Glacier (5 Stunden). Lies dazu unseren [Neuseeland-Reiseguide](/blog/neuseeland-reiseguide) für die komplette Südinsel-Route.
+Für Südinsel-Reisen lohnt sich eine Kombination: Queenstown, Milford Sound (2,5 Stunden), Franz Josef Glacier (5 Stunden). Lies dazu unseren [Neuseeland-Reiseguide](/blog/neuseeland-reiseguide/) für die komplette Südinsel-Route.
 
 ## Fernhill und Arrowtown: Für Aussicht und Geschichte
 
@@ -71,7 +71,7 @@ Für Südinsel-Reisen lohnt sich eine Kombination: Queenstown, Milford Sound (2,
 
 **Top-Picks:** Gibbston Valley Lodge & Spa (Luxus-Weingut-Lodge, Premium-Erlebnis), Peregrine Wines Accommodation (direkt am Weingut, exklusiv).
 
-Für die gesamte Neuseeland-Reise: [Wo übernachten in Auckland](/blog/wo-uebernachten-auckland) und [Neuseeland-Reiseguide](/blog/neuseeland-reiseguide) geben die komplette Übersicht.
+Für die gesamte Neuseeland-Reise: [Wo übernachten in Auckland](/blog/wo-uebernachten-auckland/) und [Neuseeland-Reiseguide](/blog/neuseeland-reiseguide/) geben die komplette Übersicht.
 
 ## Wo solltest du am Ende buchen?
 
@@ -109,6 +109,6 @@ Die bekanntesten Drehorte rund um Queenstown sind die Rees Valley (Rohan-Szenen)
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Auckland: Die 5 Stadtteile](/blog/wo-uebernachten-auckland)
-- [Neuseeland Reiseguide: Die besten Routen](/blog/neuseeland-reiseguide)
-- [Mietwagen Tipps: Was du wissen musst](/blog/mietwagen-check)
+- [Wo übernachten in Auckland: Die 5 Stadtteile](/blog/wo-uebernachten-auckland/)
+- [Neuseeland Reiseguide: Die besten Routen](/blog/neuseeland-reiseguide/)
+- [Mietwagen Tipps: Was du wissen musst](/blog/mietwagen-check/)

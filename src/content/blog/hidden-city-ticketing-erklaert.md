@@ -32,7 +32,7 @@ Die [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/reise-mobili
 
 Hidden City Ticketing lohnt sich, wenn drei Bedingungen zusammenkommen.
 
-Erstens: Du hast nur Handgepäck. Aufgegebenes Gepäck wird bis zum Ticket-Endziel durchgecheckt. Wenn du aussteigst, fliegt dein Koffer weiter. Schau dir dazu unseren [Guide zum Reisen mit nur Handgepäck](/blog/nur-handgepaeck) an.
+Erstens: Du hast nur Handgepäck. Aufgegebenes Gepäck wird bis zum Ticket-Endziel durchgecheckt. Wenn du aussteigst, fliegt dein Koffer weiter. Schau dir dazu unseren [Guide zum Reisen mit nur Handgepäck](/blog/nur-handgepaeck/) an.
 
 Zweitens: Es ist ein One-Way oder die letzte Strecke deiner Reise. Wenn du das Hin-Segment einer Roundtrip-Buchung sausen lässt, storniert die Airline automatisch den Rückflug. Dieser Trick funktioniert nur einseitig.
 
@@ -50,7 +50,7 @@ Verspätungen mit Umleitung sind das zweite. Bei verpasstem Anschluss bucht die 
 
 Refunds gibt es nicht. Wenn dein Hidden-Stop-Plan nicht aufgeht, verfällt das Ticket. Es gibt keine teilweisen Rückerstattungen.
 
-Eine sicherere Spar-Strategie sind oft [Open-Jaw Tickets](/blog/open-jaw-tickets-reise-hack), bei denen Hin- und Rückflug von verschiedenen Städten gehen. Komplett legal, ähnliche Ersparnis. Falls du Business Class billiger fliegen willst, lies unseren Guide [Business Class unter 1.000 Euro](/blog/business-class-ohne-meilen).
+Eine sicherere Spar-Strategie sind oft [Open-Jaw Tickets](/blog/open-jaw-tickets-reise-hack/), bei denen Hin- und Rückflug von verschiedenen Städten gehen. Komplett legal, ähnliche Ersparnis. Falls du Business Class billiger fliegen willst, lies unseren Guide [Business Class unter 1.000 Euro](/blog/business-class-ohne-meilen/).
 
 ---
 
@@ -77,6 +77,6 @@ Tools wie Skiplagged oder Kiwi.com zeigen Hidden-City-Optionen explizit. Du kann
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in London: Beste Stadtteile für Stopover-Reisen](/blog/wo-uebernachten-london)
-- [Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack)
-- [Business Class ohne Meilen: Wie geht das?](/blog/business-class-ohne-meilen)
+- [Wo übernachten in London: Beste Stadtteile für Stopover-Reisen](/blog/wo-uebernachten-london/)
+- [Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack/)
+- [Business Class ohne Meilen: Wie geht das?](/blog/business-class-ohne-meilen/)

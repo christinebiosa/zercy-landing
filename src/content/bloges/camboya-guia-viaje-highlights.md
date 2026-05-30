@@ -83,6 +83,6 @@ El amok de pescado es el plato más conocido: pescado en una salsa cremosa de cu
 
 ## Más artículos
 
-- [Vietnam 2 semanas: De Hanoi a Ho Chi Minh](/es/blog/vietnam-2-semanas-ruta)
-- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico)
-- [Tailandia 2 semanas: La ruta perfecta](/es/blog/tailandia-2-semanas-ruta)
+- [Vietnam 2 semanas: De Hanoi a Ho Chi Minh](/es/blog/vietnam-2-semanas-ruta/)
+- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico/)
+- [Tailandia 2 semanas: La ruta perfecta](/es/blog/tailandia-2-semanas-ruta/)

@@ -34,7 +34,7 @@ Business-Class-Ticket ist nicht nötig, um Lounge-Zugang zu bekommen. Es gibt me
 
 **Kreditkarte mit Lounge-Benefit**: Amex Platinum, bestimmte Miles & More Kreditkarten, die Lufthansa-Kreditkarten von DKB — viele Reisekreditkarten enthalten Lounge-Zugang oder einen Priority Pass.
 
-**Priority Pass**: Kostet Jahresgebühr (ca. 100–400 Euro je nach Tarif), gibt dir Zugang zu über 1.300 Lounges weltweit. Ab etwa 6–8 Flügen pro Jahr lohnt es sich. Mehr zur Business Class und Lounge-Kultur: [Business Class: Wann sie sich wirklich lohnt](/blog/business-class).
+**Priority Pass**: Kostet Jahresgebühr (ca. 100–400 Euro je nach Tarif), gibt dir Zugang zu über 1.300 Lounges weltweit. Ab etwa 6–8 Flügen pro Jahr lohnt es sich. Mehr zur Business Class und Lounge-Kultur: [Business Class: Wann sie sich wirklich lohnt](/blog/business-class/).
 
 **Day Pass**: Viele Lounges verkaufen Tages-Pässe direkt vor Ort oder über Apps. Zwischen 30 und 60 Euro — manchmal günstiger als ein Flughafenrestaurant.
 
@@ -54,7 +54,7 @@ Nicht wegen der Regel an sich — sondern wegen der Konsequenzen, wenn du sie ig
 
 Am Gate aufgehalten werden, weil dein Rucksack zu groß ist, kostet Zeit, manchmal Geld (aufgegebenes Gepäck kurzfristig ist teuer), immer Nerven. Und du verpasst möglicherweise deinen bevorzugten Platz in der Gepäckablage.
 
-Die Lösung ist einfacher als gedacht. In unserem Artikel [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck) zeigen wir, wie überraschend viel in einen regelkonformen Rucksack passt.
+Die Lösung ist einfacher als gedacht. In unserem Artikel [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck/) zeigen wir, wie überraschend viel in einen regelkonformen Rucksack passt.
 
 Die Standardmaße der meisten Low-Coster: 40 × 20 × 25 cm, maximal 10 kg. Das klingt wenig. Für eine Woche reicht es locker.
 
@@ -104,4 +104,4 @@ Ja, aber selten und ohne Garantie. Die höchste Chance: Statuskunden der Airline
 
 Du wirst am Gate gestoppt. Die Tasche muss aufgegeben werden — zu einem Preis, der am Gate erheblich höher ist als wenn du Gepäck vorher gebucht hättest. Bei Ryanair: 50–80 Euro. Das lässt sich leicht vermeiden: Maße vorab prüfen, Tasche gut packen.
 
-**Mehr lesen:** [Wo übernachten in Miami: Hotels nach MIA-Ankunft](/blog/wo-uebernachten-miami) · [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps) · [Wann Flüge buchen](/blog/wann-fluege-buchen)
+**Mehr lesen:** [Wo übernachten in Miami: Hotels nach MIA-Ankunft](/blog/wo-uebernachten-miami/) · [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps/) · [Wann Flüge buchen](/blog/wann-fluege-buchen/)

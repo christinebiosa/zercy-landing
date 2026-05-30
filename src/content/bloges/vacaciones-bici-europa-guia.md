@@ -26,7 +26,7 @@ Desde Trondheim, en Noruega, hasta Santiago de Compostela. Si conoces los camino
 **EuroVelo 6: Tramo del Valle del Loira**
 El Valle del Loira entre Nevers y Saint-Nazaire es llano, bien señalizado y culturalmente rico. Castillos, viñedos, pueblos pequeños. Los franceses llaman a este tramo "La Loire à Vélo" y llevan años invirtiendo en él. Para quienes hacen su primera ruta en bici, este tramo es una opción ideal.
 
-Antes de salir, consulta nuestra guía sobre [qué llevar en la maleta de viaje](/es/blog/lista-equipaje-viaje-esencial) para reducir el peso al mínimo necesario.
+Antes de salir, consulta nuestra guía sobre [qué llevar en la maleta de viaje](/es/blog/lista-equipaje-viaje-esencial/) para reducir el peso al mínimo necesario.
 
 ## ¿Cuándo es la mejor época para un viaje en bici por Europa?
 
@@ -44,7 +44,7 @@ Alforjas, no mochila. Pedalear con una mochila en la espalda significa sudoraci�
 
 Lo que necesitas: tres maillots (dos para rodar, uno para las noches), dos culotes de ciclismo, una chaqueta impermeable ligera, kit de reparación de neumáticos, cámara de repuesto, protector solar. Lo que puedes dejar en casa: más de un par de zapatos casuales, libros en papel pesados (un e-reader es suficiente), sacos de dormir voluminosos si vas a alojarte en pensiones.
 
-Si piensas combinar la ruta en bici con noches de camping, nuestra [guía de camping en Europa](/es/blog/camping-europa-guia) tiene buenos consejos para mantener el equipo de acampada ligero.
+Si piensas combinar la ruta en bici con noches de camping, nuestra [guía de camping en Europa](/es/blog/camping-europa-guia/) tiene buenos consejos para mantener el equipo de acampada ligero.
 
 ## ¿Dónde te alojas en una ruta ciclista?
 
@@ -52,9 +52,9 @@ Los alojamientos para ciclistas abundan a lo largo de las principales rutas Euro
 
 Para el presupuesto: una noche en una pensión para ciclistas cuesta entre 25 y 45 euros por habitación individual. Sumando comidas, snacks y algún transbordado en ferry, el rango de 30 a 60 euros diarios es perfectamente alcanzable. Comprar en supermercados locales en lugar de comer todas las comidas en restaurante mantiene el gasto en la parte baja.
 
-Los ferries forman parte del recorrido en algunas rutas. El Camino del Danubio incluye varios cruces fluviales. Nuestra [guía de viajes en ferry por Europa](/es/blog/viaje-ferry-europa-guia) explica cómo integrar estos trayectos en tu itinerario.
+Los ferries forman parte del recorrido en algunas rutas. El Camino del Danubio incluye varios cruces fluviales. Nuestra [guía de viajes en ferry por Europa](/es/blog/viaje-ferry-europa-guia/) explica cómo integrar estos trayectos en tu itinerario.
 
-Si estás pensando en combinar la ruta ciclista con senderismo, la [guía de trekking para principiantes](/es/blog/trekking-principiantes-guia-mundial) cubre los fundamentos de las travesías largas a pie.
+Si estás pensando en combinar la ruta ciclista con senderismo, la [guía de trekking para principiantes](/es/blog/trekking-principiantes-guia-mundial/) cubre los fundamentos de las travesías largas a pie.
 
 ---
 
@@ -84,6 +84,6 @@ La mayoría de los trenes de larga distancia en Europa transportan bicicletas co
 
 ## Más información
 
-- [Camping en Europa: La guía completa de viaje](/es/blog/camping-europa-guia)
-- [Viajes en ferry por Europa: Lo que necesitas saber](/es/blog/viaje-ferry-europa-guia)
-- [Lista de equipaje de viaje: Lo que realmente entra](/es/blog/lista-equipaje-viaje-esencial)
+- [Camping en Europa: La guía completa de viaje](/es/blog/camping-europa-guia/)
+- [Viajes en ferry por Europa: Lo que necesitas saber](/es/blog/viaje-ferry-europa-guia/)
+- [Lista de equipaje de viaje: Lo que realmente entra](/es/blog/lista-equipaje-viaje-esencial/)

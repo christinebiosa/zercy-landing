@@ -51,7 +51,7 @@ Autumn bookings work differently than summer.
 - **Early booking (6+ months out):** Essential for Japan autumn foliage, popular Italian routes, Tuscan agriturismos.
 - **Set price alerts:** Skyscanner and Google Flights allow price alerts. Set them for autumn destinations in July, book when prices drop.
 
-More strategies in our [guide to the right time to book flights](/en/blog/when-to-book-flights).
+More strategies in our [guide to the right time to book flights](/en/blog/when-to-book-flights/).
 
 ---
 
@@ -78,6 +78,6 @@ Solo travelers benefit most from autumn: single room prices drop sharply, crowds
 ---
 
 **Read more:**
-- [Greek Islands Comparison: Santorini, Mykonos, Crete, or Rhodes?](/en/blog/greek-islands-comparison)
-- [Morocco Riads Guide: Which Ones Are Actually Worth It?](/en/blog/morocco-riads-guide)
-- [Hidden Gems Europe: Places Not Everyone Has Found](/en/blog/hidden-gems-europe)
+- [Greek Islands Comparison: Santorini, Mykonos, Crete, or Rhodes?](/en/blog/greek-islands-comparison/)
+- [Morocco Riads Guide: Which Ones Are Actually Worth It?](/en/blog/morocco-riads-guide/)
+- [Hidden Gems Europe: Places Not Everyone Has Found](/en/blog/hidden-gems-europe/)

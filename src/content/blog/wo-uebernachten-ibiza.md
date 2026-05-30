@@ -71,7 +71,7 @@ Der längste Sandstrand der Insel liegt nur 3 Kilometer von Ibiza-Stadt. Ushuaï
 
 Ibiza-Hotels haben starke Saison-Preisschwankungen: Doppelpreise im Juli-August im Vergleich zu Mai oder Oktober. [Booking.com](https://www.booking.com) ist für Preisvergleiche ideal. Achte auf Stornobedingungen: Viele Ibiza-Hotels verlangen Vollzahlung bei Buchung in der Hochsaison.
 
-Lies auch: [Wo übernachten in Barcelona](/blog/wo-uebernachten-barcelona) und [Wo übernachten in Madrid](/blog/wo-uebernachten-madrid).
+Lies auch: [Wo übernachten in Barcelona](/blog/wo-uebernachten-barcelona/) und [Wo übernachten in Madrid](/blog/wo-uebernachten-madrid/).
 
 ---
 
@@ -99,6 +99,6 @@ Ja. Santa Eulalia hat kinderfreundliche Strände. Cala Salada und Cala Gracio im
 
 ## Mehr lesen
 
-- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona)
-- [Wo übernachten in Madrid: Stadtteile und Hotels](/blog/wo-uebernachten-madrid)
-- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026)
+- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona/)
+- [Wo übernachten in Madrid: Stadtteile und Hotels](/blog/wo-uebernachten-madrid/)
+- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026/)

@@ -24,7 +24,7 @@ Für Hochsaison-Strecken (z.B. Frankfurt-Mallorca im Juli, oder Transatlantik ru
 
 Tipp zur Strategie: Leg in [Google Flights](https://www.google.com/travel/flights) einen Preisalarm an und buche, sobald der Preis in deinen Zielbereich fällt. Das ist effektiver als starres Warten oder panisches Früh-Buchen.
 
-Mehr dazu im [Günstig-fliegen-Tipps-Guide](/blog/guenstig-fliegen-tipps) und im Artikel über [Open-Jaw-Tickets](/blog/open-jaw-tickets-reise-hack), die oft deutlich günstiger sind als Hin- und Rückflug auf derselben Strecke.
+Mehr dazu im [Günstig-fliegen-Tipps-Guide](/blog/guenstig-fliegen-tipps/) und im Artikel über [Open-Jaw-Tickets](/blog/open-jaw-tickets-reise-hack/), die oft deutlich günstiger sind als Hin- und Rückflug auf derselben Strecke.
 
 ## Warum Last Minute bei Hotels anders funktioniert als bei Flügen?
 
@@ -46,7 +46,7 @@ Es gibt Reisetypen, bei denen Last Minute strukturell funktioniert:
 
 **Flexible Destinationen:** Wer sagt "Ich will irgendwohin warm, egal wohin", hat bessere Chancen auf echte Deals. Unflexible Reisende mit festem Ziel, festem Hotel und festen Daten profitieren von Last Minute so gut wie nie.
 
-Der [Wann-Flüge-buchen-Artikel](/blog/wann-fluege-buchen) geht tiefer in die Preisalgorithmen rein, mit Daten für spezifische Strecken.
+Der [Wann-Flüge-buchen-Artikel](/blog/wann-fluege-buchen/) geht tiefer in die Preisalgorithmen rein, mit Daten für spezifische Strecken.
 
 ## Wie planst du 2026 am klügsten?
 
@@ -63,7 +63,7 @@ Die ehrliche Zusammenfassung:
 
 Die beste Strategie für 2026 ist nicht früh oder spät, sondern informiert. Preisalarme in Google Flights setzen. Booking.com für Hotels nutzen, sobald ein Preis im Zielbereich liegt. Nicht warten in der Hoffnung, dass es noch günstiger wird, wenn man sich im Hochsaison-Fenster befindet.
 
-Für alle, die häufig reisen: Eine [Reisekreditkarte](/blog/reisekreditkarte-2026) kann den Unterschied machen. Meilen und Punkte funktionieren unabhängig davon, ob du früh oder last minute buchst.
+Für alle, die häufig reisen: Eine [Reisekreditkarte](/blog/reisekreditkarte-2026/) kann den Unterschied machen. Meilen und Punkte funktionieren unabhängig davon, ob du früh oder last minute buchst.
 
 ---
 
@@ -90,6 +90,6 @@ Airlines nutzen dynamische Preisalgorithmen. Wer kurzfristig bucht, wird als wen
 ---
 
 **Mehr lesen:**
-- [Günstig fliegen: Die besten Tipps für 2026](/blog/guenstig-fliegen-tipps)
-- [Wann Flüge buchen: Die optimalen Fenster](/blog/wann-fluege-buchen)
-- [Open-Jaw-Tickets: Der unterschätzte Reise-Hack](/blog/open-jaw-tickets-reise-hack)
+- [Günstig fliegen: Die besten Tipps für 2026](/blog/guenstig-fliegen-tipps/)
+- [Wann Flüge buchen: Die optimalen Fenster](/blog/wann-fluege-buchen/)
+- [Open-Jaw-Tickets: Der unterschätzte Reise-Hack](/blog/open-jaw-tickets-reise-hack/)

@@ -21,7 +21,7 @@ December shows what Europe looks like in winter. July shows what Europe looks li
 
 **Keukenhof, Netherlands (March–May):** 7 million tulips across 32 hectares. The most famous flower garden in the world — for good reason. The [official Keukenhof website](https://keukenhof.nl) has tickets and opening times. Come on weekdays before 10am for the best photos without the crowds.
 
-**Alentejo, Portugal (March–April):** Wild meadows full of poppies and chamomile. Portugal in spring is so quiet and so affordable that it's hard to believe so few people know about it. More in our [Portugal road trip guide](/en/blog/portugal-road-trip-route).
+**Alentejo, Portugal (March–April):** Wild meadows full of poppies and chamomile. Portugal in spring is so quiet and so affordable that it's hard to believe so few people know about it. More in our [Portugal road trip guide](/en/blog/portugal-road-trip-route/).
 
 **Provence, France (April–June):** Lavender blooms in June, but cherry blossoms, almond blossoms, and green rolling hills are breathtaking from April. Gordes, Roussillon, Les Baux-de-Provence — medieval villages in a blooming landscape.
 
@@ -60,9 +60,9 @@ Bloom timing varies by 1–3 weeks depending on the year's weather. The [Visit H
 
 **Plitvice, Croatia (April–May):** The waterfalls and lakes of this national park without the summer crowds. Clear, deep green, almost empty in April.
 
-**Slovenia (April–May):** Blooming apple trees in the Logarska dolina valley, turquoise Soča River, Lake Bled with spring reflections. More in our [Slovenia guide](/en/blog/slovenia-green-secret-2026).
+**Slovenia (April–May):** Blooming apple trees in the Logarska dolina valley, turquoise Soča River, Lake Bled with spring reflections. More in our [Slovenia guide](/en/blog/slovenia-green-secret-2026/).
 
-**Northern Albania (April–May):** Albanian Alps with fresh snow on the peaks, green valleys below. Almost no tourists, extraordinary hiking routes. Combine it with the [Balkan road trip](/en/blog/balkan-road-trip-route).
+**Northern Albania (April–May):** Albanian Alps with fresh snow on the peaks, green valleys below. Almost no tourists, extraordinary hiking routes. Combine it with the [Balkan road trip](/en/blog/balkan-road-trip-route/).
 
 ---
 
@@ -83,6 +83,6 @@ Easter is always busy — the week before and after is quieter and cheaper. Week
 Layering. Mornings and evenings are cooler (8–15°C), midday can be warm (18–25°C in the south). A mid-weight jacket plus a rain layer covers almost every spring scenario. Southern Europe (Portugal, Spain, Greece) is warmer than Northern Europe — adjust your packing accordingly.
 
 ## Read more
-- [Portugal Road Trip: The Perfect Route](/en/blog/portugal-road-trip-route)
-- [Slovenia: Europe's Green Secret 2026](/en/blog/slovenia-green-secret-2026)
-- [Best Beaches Europe 2026 — for the summer after](/en/blog/best-beaches-europe-2026)
+- [Portugal Road Trip: The Perfect Route](/en/blog/portugal-road-trip-route/)
+- [Slovenia: Europe's Green Secret 2026](/en/blog/slovenia-green-secret-2026/)
+- [Best Beaches Europe 2026 — for the summer after](/en/blog/best-beaches-europe-2026/)

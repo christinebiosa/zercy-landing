@@ -34,13 +34,13 @@ Six to twelve months of lead time is realistic. Not because booking flights take
 
 For most people, handing in notice is the hardest step. Lock in your last working day at least four months before departure. That gives you time to sort out housing, deregister your address, and update your health insurance situation.
 
-One important note: check with your health insurer early. Deregistering from your home country often means losing statutory coverage. If you are considering a [sabbatical instead of quitting](/en/blog/sabbatical-planning-guide), the rules are different and often more favorable.
+One important note: check with your health insurer early. Deregistering from your home country often means losing statutory coverage. If you are considering a [sabbatical instead of quitting](/en/blog/sabbatical-planning-guide/), the rules are different and often more favorable.
 
 ## RTW Ticket or Build Your Own Route: Which Wins?
 
 Round-the-world tickets from alliances like OneWorld or Star Alliance sound appealing. One ticket, the whole globe. In practice, they are usually more expensive than booking separate flights and far less flexible.
 
-Zercy tip: [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack) are almost always the smarter choice. You fly into one city, travel overland, and fly home from a completely different place. No backtracking to your origin.
+Zercy tip: [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack/) are almost always the smarter choice. You fly into one city, travel overland, and fly home from a completely different place. No backtracking to your origin.
 
 In practice: fly to Bangkok, travel through Southeast Asia, fly home from Bali. Or land in Mexico City, travel through Central America, return from Bogota. This setup almost always beats an RTW package on price.
 
@@ -59,9 +59,9 @@ Digital preparation matters just as much:
 - A travel credit card with no foreign transaction fees (Wise or Revolut work well)
 - Emergency contacts and insurance numbers saved offline
 
-On insurance: this is not the place to cut corners. Long-term travel health insurance is non-negotiable. Providers like [WorldNomads](https://www.worldnomads.com) and specialized long-stay policies are the go-to options. Check the fine print for adventure sports coverage: climbing, diving, and motorbike riding are often excluded by default. More on this in our guide to [travel insurance: what is actually worth it](/en/blog/travel-insurance-worth-it-2026).
+On insurance: this is not the place to cut corners. Long-term travel health insurance is non-negotiable. Providers like [WorldNomads](https://www.worldnomads.com) and specialized long-stay policies are the go-to options. Check the fine print for adventure sports coverage: climbing, diving, and motorbike riding are often excluded by default. More on this in our guide to [travel insurance: what is actually worth it](/en/blog/travel-insurance-worth-it-2026/).
 
-If you plan to work remotely while traveling, look into the [best digital nomad visas for 2026](/en/blog/digital-nomad-visa-countries-2026). Several countries now offer legal paths to stay and work beyond tourist visa limits.
+If you plan to work remotely while traveling, look into the [best digital nomad visas for 2026](/en/blog/digital-nomad-visa-countries-2026/). Several countries now offer legal paths to stay and work beyond tourist visa limits.
 
 ## Let Zercy Handle the Route Logic
 
@@ -89,6 +89,6 @@ Long-term travel health insurance is essential. Providers like WorldNomads offer
 
 ## Read More
 
-- [Open-Jaw Tickets: The Travel Hack Most People Miss](/en/blog/open-jaw-tickets-travel-hack)
-- [How to Plan a Sabbatical: A Practical Guide](/en/blog/sabbatical-planning-guide)
-- [Best Digital Nomad Visa Countries in 2026](/en/blog/digital-nomad-visa-countries-2026)
+- [Open-Jaw Tickets: The Travel Hack Most People Miss](/en/blog/open-jaw-tickets-travel-hack/)
+- [How to Plan a Sabbatical: A Practical Guide](/en/blog/sabbatical-planning-guide/)
+- [Best Digital Nomad Visa Countries in 2026](/en/blog/digital-nomad-visa-countries-2026/)

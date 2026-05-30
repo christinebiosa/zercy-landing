@@ -42,7 +42,7 @@ Reservar directo no es un consejo universal. Pero en situaciones concretas gana 
 
 **Cuando quieres una habitación específica.** Peticiones no configurables en Booking.com (sin humo, planta alta, lejos del ascensor) son más fáciles de gestionar por reserva directa.
 
-Más sobre este tema en nuestra guía de [reservar online o directo](/es/blog/reservar-online-o-directo).
+Más sobre este tema en nuestra guía de [reservar online o directo](/es/blog/reservar-online-o-directo/).
 
 **Lo que la reserva directa no garantiza.** Ningún upgrade automático. Ningún precio mejor sin preguntar. Las OTAs suelen negociar condiciones de cancelación más favorables que las que consigue un viajero individual.
 
@@ -50,7 +50,7 @@ Más sobre este tema en nuestra guía de [reservar online o directo](/es/blog/re
 
 Los programas de fidelidad de las OTAs son una vía legítima para sortear la paridad de tarifas.
 
-**Booking Genius** tiene tres niveles (Level 1, 2, 3). Desde el nivel 1, los hoteles participantes ofrecen descuentos del 10-15%, desayuno gratuito o taxi gratis. Se alcanza después de 2 reservas completadas. El inconveniente: no todos los hoteles participan, y los precios Genius suelen estar vinculados a tarifas no reembolsables. Más detalles en nuestra guía del [programa Booking Genius](/es/blog/booking-genius-vale-la-pena).
+**Booking Genius** tiene tres niveles (Level 1, 2, 3). Desde el nivel 1, los hoteles participantes ofrecen descuentos del 10-15%, desayuno gratuito o taxi gratis. Se alcanza después de 2 reservas completadas. El inconveniente: no todos los hoteles participan, y los precios Genius suelen estar vinculados a tarifas no reembolsables. Más detalles en nuestra guía del [programa Booking Genius](/es/blog/booking-genius-vale-la-pena/).
 
 **Expedia One Key** consolida hoteles, coches y vuelos en un solo sistema de puntos. La ventaja frente a Genius: los vuelos cuentan. Hotels.com Rewards está ahora integrado en One Key, un cambio que muchos usuarios consideran un retroceso frente al antiguo modelo de 10 noches, 1 gratis.
 
@@ -62,7 +62,7 @@ Los programas de fidelidad de las OTAs son una vía legítima para sortear la pa
 | Expedia One Key | Saldo (~2-5%) | Sí | Inmediato |
 | Hotels.com Rewards | Integrado en One Key | Sí | Inmediato |
 
-Para una comparativa completa entre plataformas, lee nuestro artículo [Booking.com vs. Expedia 2026](/es/blog/booking-vs-expedia-comparativa-2026).
+Para una comparativa completa entre plataformas, lee nuestro artículo [Booking.com vs. Expedia 2026](/es/blog/booking-vs-expedia-comparativa-2026/).
 
 ## ¿Cuándo es mejor reservar por OTA que directo?
 
@@ -95,6 +95,6 @@ Desde el nivel 1 (tras 2 reservas), Genius da descuentos del 10-15% en hoteles p
 ---
 
 **Más para leer:**
-- [¿Reservar online o directo? Comparativa honesta](/es/blog/reservar-online-o-directo)
-- [Airbnb vs. hotel: comparación real 2026](/es/blog/airbnb-vs-hotel-comparacion)
-- [Booking Genius: ¿vale la pena en 2026?](/es/blog/booking-genius-vale-la-pena)
+- [¿Reservar online o directo? Comparativa honesta](/es/blog/reservar-online-o-directo/)
+- [Airbnb vs. hotel: comparación real 2026](/es/blog/airbnb-vs-hotel-comparacion/)
+- [Booking Genius: ¿vale la pena en 2026?](/es/blog/booking-genius-vale-la-pena/)

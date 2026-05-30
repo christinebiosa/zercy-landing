@@ -79,7 +79,7 @@ Mehr Informationen zu lokalen Events und Ausstellungen findest du auf [Wien Info
 
 Die Innenstadt (1. Bezirk) ist teuer und zentral. Für ein besseres Preis-Leistungs-Verhältnis schau dir Mariahilf (6. Bezirk), Neubau (7. Bezirk) oder Josefstadt (8. Bezirk) an. Alle drei liegen in Gehweite der meisten Sehenswürdigkeiten und haben gute U-Bahn-Anbindung.
 
-Über [Booking.com](https://www.booking.com) findest du mehr als 800 Wiener Hotels mit kostenloser Stornierung. Der Filter nach Bezirk hilft, das richtige Viertel zu finden. Mehr dazu im Guide zu [wo du in Wien übernachtest](/blog/wo-uebernachten-wien).
+Über [Booking.com](https://www.booking.com) findest du mehr als 800 Wiener Hotels mit kostenloser Stornierung. Der Filter nach Bezirk hilft, das richtige Viertel zu finden. Mehr dazu im Guide zu [wo du in Wien übernachtest](/blog/wo-uebernachten-wien/).
 
 ---
 
@@ -99,7 +99,7 @@ Dezember für Weihnachtsmärkte, Mai bis Juni für mildes Wetter und langen Tag,
 
 ### Wie kommt man günstig von und nach Wien?
 
-Mit dem Zug aus München, Prag, Budapest oder Bratislava ist Wien sehr gut erreichbar und oft günstiger als der Flug, wenn man Flughafen-Transfer einrechnet. Unser Vergleich [Bahn vs. Flieger Europa 2026](/blog/bahn-vs-flieger-europa-2026) zeigt konkrete Strecken und Preisvergleiche. Mehr Tipps zu Flughäfen im [Airport Hacks Guide](/blog/airport-hacks).
+Mit dem Zug aus München, Prag, Budapest oder Bratislava ist Wien sehr gut erreichbar und oft günstiger als der Flug, wenn man Flughafen-Transfer einrechnet. Unser Vergleich [Bahn vs. Flieger Europa 2026](/blog/bahn-vs-flieger-europa-2026/) zeigt konkrete Strecken und Preisvergleiche. Mehr Tipps zu Flughäfen im [Airport Hacks Guide](/blog/airport-hacks/).
 
 ### Was kostet ein Wien-Wochenende ohne Flug?
 
@@ -108,6 +108,6 @@ Schönbrunn-Außenbereich: kostenlos. Riesenrad: 12 Euro. Museumsbesuch: 14 bis 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Wien: Bezirke, Hotels und Empfehlungen](/blog/wo-uebernachten-wien)
-- [Bahn vs. Flieger Europa 2026: Wann der Zug besser ist](/blog/bahn-vs-flieger-europa-2026)
-- [Airport Hacks: So sparst du Zeit und Geld am Flughafen](/blog/airport-hacks)
+- [Wo übernachten in Wien: Bezirke, Hotels und Empfehlungen](/blog/wo-uebernachten-wien/)
+- [Bahn vs. Flieger Europa 2026: Wann der Zug besser ist](/blog/bahn-vs-flieger-europa-2026/)
+- [Airport Hacks: So sparst du Zeit und Geld am Flughafen](/blog/airport-hacks/)

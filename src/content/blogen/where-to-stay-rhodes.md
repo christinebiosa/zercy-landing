@@ -75,7 +75,7 @@ Lindos lies 54 kilometers south of Rhodes Town. White houses, narrow alleys, an 
 
 For Rhodes: [Booking.com](https://www.booking.com) for the best overview. Note the cancellation difference between all-inclusive resorts (often less flexible) and boutique hotels in the Old Town or Lindos (usually free cancellation).
 
-Also see: [Where to stay in Athens](/en/blog/where-to-stay-athens) for Greece. And [Best beaches in Europe](/en/blog/best-beaches-europe-2026) for island inspiration.
+Also see: [Where to stay in Athens](/en/blog/where-to-stay-athens/) for Greece. And [Best beaches in Europe](/en/blog/best-beaches-europe-2026/) for island inspiration.
 
 ---
 
@@ -103,6 +103,6 @@ Access to the Old Town is free. The Palace of the Grand Masters costs about €8
 
 ## Read more
 
-- [Where to stay in Athens: Neighborhoods and hotels](/en/blog/where-to-stay-athens)
-- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026)
-- [Best spring destinations in Europe](/en/blog/best-spring-destinations-europe)
+- [Where to stay in Athens: Neighborhoods and hotels](/en/blog/where-to-stay-athens/)
+- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026/)
+- [Best spring destinations in Europe](/en/blog/best-spring-destinations-europe/)

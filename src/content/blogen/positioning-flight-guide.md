@@ -16,7 +16,7 @@ Sounds simple. It is, if you know the rules.
 
 A positioning flight is a feeder flight you organize yourself to reach a cheaper departure airport. Instead of flying from your home airport, you travel to a larger hub first and board your long-haul flight from there.
 
-The concept is closely related to [ex-EU routing](/en/blog/ex-eu-routing-cheaper-flights), where prices are lower from a European airport than from your home country. The difference: with a positioning flight, you're traveling to that hub yourself.
+The concept is closely related to [ex-EU routing](/en/blog/ex-eu-routing-cheaper-flights/), where prices are lower from a European airport than from your home country. The difference: with a positioning flight, you're traveling to that hub yourself.
 
 ## When Does a Positioning Flight Actually Pay Off?
 
@@ -32,7 +32,7 @@ Berlin to Zurich (from 60 euros, also possible by train) plus Zurich to Los Ange
 
 **When it doesn't pay off:** The feeder costs 180 euros but only saves 100 euros on the long-haul. That's a loss. Two separate flights also mean more airport time and a longer travel day overall.
 
-Also check [when to book flights](/en/blog/when-to-book-flights): timing affects the price gap between hubs and home airports significantly.
+Also check [when to book flights](/en/blog/when-to-book-flights/): timing affects the price gap between hubs and home airports significantly.
 
 ## How Do You Calculate a Positioning Flight Correctly?
 
@@ -69,13 +69,13 @@ That's why these rules matter:
 
 On baggage: with many combinations, you'll need to re-check luggage at the hub. That takes time and sometimes costs money. Always confirm in advance.
 
-For more airport logistics tips, read our [airport hacks guide](/en/blog/airport-hacks).
+For more airport logistics tips, read our [airport hacks guide](/en/blog/airport-hacks/).
 
 ## Which Hubs Are Worth a Positioning Flight?
 
 A key distinction first. If you book a flight with a layover on one ticket (say Frankfurt-Munich-Bangkok), you're protected. The airline is responsible for the connection. That's not a positioning flight.
 
-A positioning flight happens when you deliberately book a separate feeder to access cheaper hub prices. Your initiative. Your risk. Similar logic to [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack): creative booking saves money, but you manage more yourself.
+A positioning flight happens when you deliberately book a separate feeder to access cheaper hub prices. Your initiative. Your risk. Similar logic to [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack/): creative booking saves money, but you manage more yourself.
 
 Some hub combinations that work well:
 
@@ -109,8 +109,8 @@ With separate bookings, you're personally responsible for making the connection.
 
 ### How do I find the best positioning flight combinations?
 
-Use [Google Flights](/en/blog/google-flights-tips-tricks-2026) in multi-city mode to compare combinations. Compare: direct from home airport to destination versus feeder plus hub flight. Popular hubs for travelers from Germany include Vienna, Amsterdam, Zurich, Madrid, and Lisbon. The biggest savings come on long-haul routes to Asia, the Americas, and Africa.
+Use [Google Flights](/en/blog/google-flights-tips-tricks-2026/) in multi-city mode to compare combinations. Compare: direct from home airport to destination versus feeder plus hub flight. Popular hubs for travelers from Germany include Vienna, Amsterdam, Zurich, Madrid, and Lisbon. The biggest savings come on long-haul routes to Asia, the Americas, and Africa.
 
 ---
 
-**Read more:** [Ex-EU Routing: Fly Cheaper from a European Hub](/en/blog/ex-eu-routing-cheaper-flights) · [Open-Jaw Tickets: The Travel Hack Explained](/en/blog/open-jaw-tickets-travel-hack) · [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026)
+**Read more:** [Ex-EU Routing: Fly Cheaper from a European Hub](/en/blog/ex-eu-routing-cheaper-flights/) · [Open-Jaw Tickets: The Travel Hack Explained](/en/blog/open-jaw-tickets-travel-hack/) · [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026/)

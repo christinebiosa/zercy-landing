@@ -54,7 +54,7 @@ Lo que se suma después:
 
 **Total real:** Una semana en el Caribe para dos personas, camarote con balcón, paquete de bebidas, una o dos excursiones, propinas más vuelos: entre 3.500 y 6.000 euros en total. No los 1.000 euros del banner publicitario.
 
-Si empiezas desde cero, la [guía para principiantes de cruceros](/es/blog/crucero-guia-principiantes) te da el contexto completo antes de elegir.
+Si empiezas desde cero, la [guía para principiantes de cruceros](/es/blog/crucero-guia-principiantes/) te da el contexto completo antes de elegir.
 
 ## ¿Cuándo es el mejor momento para hacer un crucero por el Caribe?
 
@@ -66,7 +66,7 @@ De mayo a noviembre los precios bajan, pero la temporada oficial de huracanes va
 
 Para los viajeros con flexibilidad: mayo a junio y noviembre ofrecen un equilibrio interesante entre precio y clima, con tarifas que pueden estar entre un 20 y un 40 por ciento por debajo del pico de temporada.
 
-Para más detalles sobre las islas que visitarás: la [guía de island hopping por el Caribe](/es/blog/islas-caribe-island-hopping-guia) te ayuda a entender cada destino antes de llegar.
+Para más detalles sobre las islas que visitarás: la [guía de island hopping por el Caribe](/es/blog/islas-caribe-island-hopping-guia/) te ayuda a entender cada destino antes de llegar.
 
 ## Consejos prácticos que marcan la diferencia
 
@@ -78,7 +78,7 @@ Para más detalles sobre las islas que visitarás: la [guía de island hopping p
 
 **Internet a bordo:** Caro y lento. Suficiente para mensajes y navegación básica. Streaming raramente funciona. La mayoría de los puertos tienen wifi gratuito en cafés cerca del muelle.
 
-**Seguro de viaje:** Especialmente importante en cruceros. Una cancelación de vuelo puede significar perder el barco si vuelas desde lejos. El artículo sobre [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena) explica cuándo realmente vale la pena contratarlo.
+**Seguro de viaje:** Especialmente importante en cruceros. Una cancelación de vuelo puede significar perder el barco si vuelas desde lejos. El artículo sobre [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) explica cuándo realmente vale la pena contratarlo.
 
 ---
 
@@ -105,6 +105,6 @@ Normalmente entre 6 y 9 horas por escala. Alcanza para un día de playa, un reco
 ---
 
 **Leer más:**
-- [Crucero para principiantes: Lo que realmente necesitas saber](/es/blog/crucero-guia-principiantes)
-- [Island Hopping por el Caribe: Las mejores rutas](/es/blog/islas-caribe-island-hopping-guia)
-- [Seguro de viaje: ¿Cuándo vale la pena contratarlo?](/es/blog/seguro-viaje-vale-la-pena)
+- [Crucero para principiantes: Lo que realmente necesitas saber](/es/blog/crucero-guia-principiantes/)
+- [Island Hopping por el Caribe: Las mejores rutas](/es/blog/islas-caribe-island-hopping-guia/)
+- [Seguro de viaje: ¿Cuándo vale la pena contratarlo?](/es/blog/seguro-viaje-vale-la-pena/)

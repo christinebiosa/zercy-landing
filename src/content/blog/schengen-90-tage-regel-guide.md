@@ -48,7 +48,7 @@ Großbritannien war bis 2020 in der EU, war aber nie im Schengenraum. Heute gilt
 
 Das ist praktisch wichtig: Ein Aufenthalt in Irland oder Großbritannien zählt nicht gegen deine 90 Schengen-Tage. Du kannst also zwischendurch nach Dublin oder London reisen, ohne dein Kontingent zu verbrauchen.
 
-Mehr zu Einreiseregeln und der geplanten ETIAS-Pflicht: [ETIAS 2026 Guide](/blog/etias-2026-guide)
+Mehr zu Einreiseregeln und der geplanten ETIAS-Pflicht: [ETIAS 2026 Guide](/blog/etias-2026-guide/)
 
 ## Was passiert wenn man die 90 Tage überschreitet?
 
@@ -110,7 +110,7 @@ Grundsätzlich ja. Wenn du durch Frankreich fährst oder dort einen Zwischenstop
 
 ### Was ist ETIAS und gilt es ab 2026 für alle?
 
-ETIAS ist eine Reisegenehmigung für Nicht-EU-Bürger aus visafreien Ländern. Der Starttermin wurde mehrfach verschoben und liegt derzeit im Bereich 2026 bis 2027. Sobald ETIAS in Kraft ist, müssen visafreie Reisende sich vorab registrieren. Die 90/180-Regel gilt weiterhin. Mehr dazu im [ETIAS 2026 Guide](/blog/etias-2026-guide).
+ETIAS ist eine Reisegenehmigung für Nicht-EU-Bürger aus visafreien Ländern. Der Starttermin wurde mehrfach verschoben und liegt derzeit im Bereich 2026 bis 2027. Sobald ETIAS in Kraft ist, müssen visafreie Reisende sich vorab registrieren. Die 90/180-Regel gilt weiterhin. Mehr dazu im [ETIAS 2026 Guide](/blog/etias-2026-guide/).
 
 ### Kann ich zwischen Schengen-Ländern wechseln um die Tage zurückzusetzen?
 
@@ -120,6 +120,6 @@ Nein. Der Schengenraum gilt als eine einzige Zone. Ein Wechsel von Deutschland n
 
 ## Mehr lesen
 
-- [ETIAS 2026: Alles was du wissen musst](/blog/etias-2026-guide)
-- [Langzeitreise Vorbereitung: Checkliste für Monate im Ausland](/blog/langzeitreise-vorbereitung)
-- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-guide)
+- [ETIAS 2026: Alles was du wissen musst](/blog/etias-2026-guide/)
+- [Langzeitreise Vorbereitung: Checkliste für Monate im Ausland](/blog/langzeitreise-vorbereitung/)
+- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-guide/)

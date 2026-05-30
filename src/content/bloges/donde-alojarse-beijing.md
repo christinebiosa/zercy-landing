@@ -77,6 +77,6 @@ La Ciudad Prohibida (¡reserva entradas con anticipación!), el Templo del Cielo
 
 ## Más sobre Asia
 
-- [Dónde alojarse en Hong Kong](/es/blog/donde-alojarse-hong-kong)
-- [Dónde alojarse en Seúl](/es/blog/donde-alojarse-seul)
-- [Dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio)
+- [Dónde alojarse en Hong Kong](/es/blog/donde-alojarse-hong-kong/)
+- [Dónde alojarse en Seúl](/es/blog/donde-alojarse-seul/)
+- [Dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio/)

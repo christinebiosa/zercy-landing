@@ -18,7 +18,7 @@ Die Auswahl ist groß. Aber es gibt sieben Orte, die sich von allen anderen abhe
 
 **Sydney** ist die Silvesterwelthauptstadt. Die Harbour Bridge und die Oper als Kulisse, dazu eines der beeindruckendsten Feuerwerke der Welt. Zwei Shows: um Mitternacht und bereits um 9 Uhr abends für Familien. Der Preis: Hotels kosten Silvester 3 bis 5 Mal so viel wie üblich. Wer das erleben will, bucht 6 bis 12 Monate im Voraus.
 
-**New York** am Times Square ist Kult. Über eine Million Menschen, der Ball Drop, jede Menge Lärm und Gedränge. Aber es gibt eine bessere Alternative: Rooftop-Bars und private Events, die das Feuerwerk über Manhattan zeigen, ohne dass du stundenlang in der Kälte stehst. Mehr dazu in unserem Artikel über [Übernachtungsmöglichkeiten in New York](/blog/wo-uebernachten-new-york).
+**New York** am Times Square ist Kult. Über eine Million Menschen, der Ball Drop, jede Menge Lärm und Gedränge. Aber es gibt eine bessere Alternative: Rooftop-Bars und private Events, die das Feuerwerk über Manhattan zeigen, ohne dass du stundenlang in der Kälte stehst. Mehr dazu in unserem Artikel über [Übernachtungsmöglichkeiten in New York](/blog/wo-uebernachten-new-york/).
 
 **Rio de Janeiro** lockt mit der Copacabana. Millionen Menschen in Weiß gekleidet, dazu Samba, Wärme und ein spektakuläres Feuerwerk über dem Meer. Weiß tragen bringt laut brasilianischer Tradition Glück für das neue Jahr. Günstiger als Sydney, aber auch Rio hat im Dezember volle Hotels.
 
@@ -38,7 +38,7 @@ In Sydney kostet ein Zimmer mit Hafenblick um Silvester locker 800 bis 1.500 Eur
 
 Was das für dich bedeutet: Wer zu spät bucht, zahlt entweder drastisch mehr oder bekommt gar nichts. Für die beliebtesten Ziele gilt: 6 Monate im Voraus ist gut. 9 bis 12 Monate ist besser. Das klingt übertrieben. Es ist es nicht.
 
-Einen nüchternen Überblick, wann du Flüge und Hotels zu welchem Preis bekommst, findest du in unserem Artikel [Wann Flüge buchen](/blog/wann-fluege-buchen).
+Einen nüchternen Überblick, wann du Flüge und Hotels zu welchem Preis bekommst, findest du in unserem Artikel [Wann Flüge buchen](/blog/wann-fluege-buchen/).
 
 ## Gibt es günstigere Alternativen zu den Mega-Metropolen?
 
@@ -51,7 +51,7 @@ Kleinere Städte feiern Silvester mindestens genauso enthusiastisch, aber ohne P
 - **Chiang Mai** statt Bangkok: Laternenfest um Silvester, ruhiger, günstiger, magisch
 - **Kopenhagen** statt Edinburgh: Skandinavisches Flair ohne das Festival-Gedränge
 
-Für alle, die Silvester mit Kultur verbinden wollen, lohnt sich auch ein Blick auf unseren [Festival-Reisen Guide](/blog/festival-reisen-guide).
+Für alle, die Silvester mit Kultur verbinden wollen, lohnt sich auch ein Blick auf unseren [Festival-Reisen Guide](/blog/festival-reisen-guide/).
 
 ## Wie plane ich am besten eine Silvester-Reise?
 
@@ -65,14 +65,14 @@ Hotels reagieren noch stärker. Top-Locations in Sydney mit Hafenblick oder in N
 
 Und wenn du Hilfe brauchst, den richtigen Ort zu finden und alles zu koordinieren: [Zercy](https://www.zercy.app/logbook) hilft dir, deine Reisepläne zu strukturieren, Verbindungen zu vergleichen und nichts zu vergessen.
 
-Wer Südamerika als Silvester-Option in Betracht zieht, findet in unserem [Argentinien Reiseguide](/blog/argentinien-reiseguide-highlights) interessante Alternativen zu den klassischen Zielen.
+Wer Südamerika als Silvester-Option in Betracht zieht, findet in unserem [Argentinien Reiseguide](/blog/argentinien-reiseguide-highlights/) interessante Alternativen zu den klassischen Zielen.
 
 ---
 
 **Mehr lesen:**
-- [Festival-Reisen Guide: So planst du Reisen rund um Großevents](/blog/festival-reisen-guide)
-- [Wann Flüge buchen: Der komplette Preisguide](/blog/wann-fluege-buchen)
-- [Argentinien Reiseguide: Highlights und Tipps](/blog/argentinien-reiseguide-highlights)
+- [Festival-Reisen Guide: So planst du Reisen rund um Großevents](/blog/festival-reisen-guide/)
+- [Wann Flüge buchen: Der komplette Preisguide](/blog/wann-fluege-buchen/)
+- [Argentinien Reiseguide: Highlights und Tipps](/blog/argentinien-reiseguide-highlights/)
 
 ---
 

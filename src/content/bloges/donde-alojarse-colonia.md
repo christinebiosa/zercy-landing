@@ -55,7 +55,7 @@ Colonia es una ciudad para todo el año con dos momentos absolutamente destacado
 
 **Otoño:** Pocos turistas, buenos precios de hotel, temporada de ferias (Gamescom, Photokina).
 
-Colonia combina bien con un viaje a [Bruselas](/es/blog/donde-alojarse-bruselas): 2 horas en tren Thalys. Para una [guía completa de ciudades europeas en invierno](/es/blog/ciudades-europeas-invierno-guia), los mercados navideños de Colonia están siempre entre los primeros.
+Colonia combina bien con un viaje a [Bruselas](/es/blog/donde-alojarse-bruselas/): 2 horas en tren Thalys. Para una [guía completa de ciudades europeas en invierno](/es/blog/ciudades-europeas-invierno-guia/), los mercados navideños de Colonia están siempre entre los primeros.
 
 ## Ehrenfeld: La escena creativa de Colonia
 
@@ -112,6 +112,6 @@ Visitar el interior de la catedral y subir la torre sur (533 escalones, vista pa
 ---
 
 ## Más artículos
-- [Dónde alojarse en Bruselas: La capital de Europa](/es/blog/donde-alojarse-bruselas)
-- [Ciudades europeas en invierno: Los mejores destinos](/es/blog/ciudades-europeas-invierno-guia)
-- [Dónde alojarse en Ámsterdam: Los 5 barrios](/es/blog/donde-alojarse-amsterdam)
+- [Dónde alojarse en Bruselas: La capital de Europa](/es/blog/donde-alojarse-bruselas/)
+- [Ciudades europeas en invierno: Los mejores destinos](/es/blog/ciudades-europeas-invierno-guia/)
+- [Dónde alojarse en Ámsterdam: Los 5 barrios](/es/blog/donde-alojarse-amsterdam/)

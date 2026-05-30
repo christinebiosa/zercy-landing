@@ -61,7 +61,7 @@ La Plaza de Wenceslao es menos bonita de lo que parece en fotos. Un bulevar larg
 
 Vyšehrad en cambio: la fortaleza sobre el acantilado sobre el Moldava ofrece una de las mejores vistas de Praga. Mucho más tranquilo que Hradčany. El Cementerio Nacional Checo está aquí, con las tumbas de Dvořák, Mucha y Smetana. La entrada al recinto exterior es gratuita.
 
-Si planeas un viaje más largo por Europa Central, nuestra guía de [tren vs. avión Europa 2026](/es/blog/tren-vs-avion-europa-2026) te ayuda con la decisión de cómo llegar.
+Si planeas un viaje más largo por Europa Central, nuestra guía de [tren vs. avión Europa 2026](/es/blog/tren-vs-avion-europa-2026/) te ayuda con la decisión de cómo llegar.
 
 **Por la noche: Parque de Letná**
 
@@ -81,7 +81,7 @@ Letná está sobre el Moldava y tiene uno de los mejores jardines de cerveza de 
 
 Staré Město (Ciudad Vieja) es céntrico y caro. Para mejor relación calidad-precio mira Vinohrady, Žižkov o Smíchov. Los tres tienen buenas conexiones de metro y están a 15 o 20 minutos del centro.
 
-Praga es genuinamente una de las ciudades más económicas de Europa. 1 euro equivale a unos 25 CZK. Los buenos hoteles cuestan bastante menos que en Viena, París o Ámsterdam. En [Booking.com](https://www.booking.com) encuentras más de 600 hoteles en Praga con cancelación gratuita. Más sobre barrios y recomendaciones en la guía de [dónde alojarse en Praga](/es/blog/donde-alojarse-praga).
+Praga es genuinamente una de las ciudades más económicas de Europa. 1 euro equivale a unos 25 CZK. Los buenos hoteles cuestan bastante menos que en Viena, París o Ámsterdam. En [Booking.com](https://www.booking.com) encuentras más de 600 hoteles en Praga con cancelación gratuita. Más sobre barrios y recomendaciones en la guía de [dónde alojarse en Praga](/es/blog/donde-alojarse-praga/).
 
 ---
 
@@ -101,7 +101,7 @@ Muy barata. 1 euro equivale a unos 25 CZK. Una caña de medio litro en un bar lo
 
 ### ¿Cuándo conviene visitar el Puente de Carlos?
 
-La mejor hora es a las 7h o después de las 19h. Al mediodía está tan lleno que las estatuas barrocas apenas se ven. Temprano por la mañana está casi vacío y la luz es buena. Quien lo ha visto entre la niebla matinal entiende por qué es tan famoso. Para consejos de llegada consulta la guía de [trucos de aeropuerto](/es/blog/trucos-aeropuerto).
+La mejor hora es a las 7h o después de las 19h. Al mediodía está tan lleno que las estatuas barrocas apenas se ven. Temprano por la mañana está casi vacío y la luz es buena. Quien lo ha visto entre la niebla matinal entiende por qué es tan famoso. Para consejos de llegada consulta la guía de [trucos de aeropuerto](/es/blog/trucos-aeropuerto/).
 
 ### ¿Qué barrios de Praga son más interesantes fuera del circuito turístico?
 
@@ -110,6 +110,6 @@ La mejor hora es a las 7h o después de las 19h. Al mediodía está tan lleno qu
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Praga: barrios, hoteles y recomendaciones](/es/blog/donde-alojarse-praga)
-- [Tren vs. avión en Europa 2026: cuándo el tren gana](/es/blog/tren-vs-avion-europa-2026)
-- [Trucos de aeropuerto: cómo ahorrar tiempo y dinero](/es/blog/trucos-aeropuerto)
+- [Dónde alojarse en Praga: barrios, hoteles y recomendaciones](/es/blog/donde-alojarse-praga/)
+- [Tren vs. avión en Europa 2026: cuándo el tren gana](/es/blog/tren-vs-avion-europa-2026/)
+- [Trucos de aeropuerto: cómo ahorrar tiempo y dinero](/es/blog/trucos-aeropuerto/)

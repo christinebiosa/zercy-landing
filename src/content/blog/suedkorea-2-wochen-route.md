@@ -33,7 +33,7 @@ Das [Koreanische Tourismusbüro](https://english.visitkorea.or.kr/) bietet aktue
 
 ## Was ist das Pflichtprogramm außerhalb von Seoul?
 
-Busan ist der Gegenpol zu Seoul. Küstenstadt, Hafenstimmung, weniger Hochglanz, mehr Textur. Der Gamcheon Culture Village klebt an einem Hang über dem Hafen. Pastellfarbene Treppenhäuser, Wandmalereien, enge Gassen. Haeundae ist der bekannteste Strand des Landes. Im Sommer überfüllt, im Frühling fast leer. Das Japanische Konsulat-Viertel Nampo-dong ist die beste Gegend für Street Food am Abend. Welcher Stadtteil in Busan am besten zu deiner Reise passt, erklärt unser [Busan Hotelguide](/blog/wo-uebernachten-busan).
+Busan ist der Gegenpol zu Seoul. Küstenstadt, Hafenstimmung, weniger Hochglanz, mehr Textur. Der Gamcheon Culture Village klebt an einem Hang über dem Hafen. Pastellfarbene Treppenhäuser, Wandmalereien, enge Gassen. Haeundae ist der bekannteste Strand des Landes. Im Sommer überfüllt, im Frühling fast leer. Das Japanische Konsulat-Viertel Nampo-dong ist die beste Gegend für Street Food am Abend. Welcher Stadtteil in Busan am besten zu deiner Reise passt, erklärt unser [Busan Hotelguide](/blog/wo-uebernachten-busan/).
 
 Gyeongju liegt zwischen Seoul und Busan, perfekt für einen Zwischenstopp. Die Stadt war 1000 Jahre lang Hauptstadt des Silla-Königreichs. Das Resultat: königliche Grabhügel mitten in Stadtvierteln, der Bulguksa-Tempel (UNESCO-Weltkulturerbe), und das Freilichtmuseum Anapji. Gyeongju braucht einen Tag, ideal zwei.
 
@@ -73,6 +73,6 @@ Korean BBQ (Samgyeopsal, Galbi) ist Pflicht. Dazu Bibimbap, Sundubu-Jjigae (Tofu
 
 ## Mehr lesen
 
-- [Japan 3-Wochen-Route: Die perfekte Strecke](/blog/japan-3-wochen-route)
-- [Vietnam 2 Wochen Route: Von Hanoi bis Ho Chi Minh](/blog/vietnam-2-wochen-route)
-- [Südostasien Budget-Reisen: Günstig unterwegs in Asien](/blog/suedostasien-budget-reisen)
+- [Japan 3-Wochen-Route: Die perfekte Strecke](/blog/japan-3-wochen-route/)
+- [Vietnam 2 Wochen Route: Von Hanoi bis Ho Chi Minh](/blog/vietnam-2-wochen-route/)
+- [Südostasien Budget-Reisen: Günstig unterwegs in Asien](/blog/suedostasien-budget-reisen/)

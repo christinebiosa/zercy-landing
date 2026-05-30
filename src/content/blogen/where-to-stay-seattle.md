@@ -45,7 +45,7 @@ Capitol Hill is the most creative neighborhood in the city. Dense independent co
 
 **Top picks:** Staypineapple at The Maxwell Hotel (design boutique, well-connected), Gaslight Inn B&B (historic guesthouse with strong character), Sonder Capitol Hill (apartment-style, flexible for longer stays).
 
-Similar scene-neighborhood dynamics in US cities: our [San Francisco guide](/en/blog/where-to-stay-san-francisco) breaks down which districts offer the same energy there.
+Similar scene-neighborhood dynamics in US cities: our [San Francisco guide](/en/blog/where-to-stay-san-francisco/) breaks down which districts offer the same energy there.
 
 ## When Is the Best Time to Visit Seattle?
 
@@ -81,7 +81,7 @@ South Lake Union is new Seattle. Amazon campus, Microsoft offices, biotech clust
 
 **Top picks:** Hyatt House Seattle/Downtown (excellent for longer business stays), AC Hotel Seattle Downtown (Marriott brand, modern, well-connected), Residence Inn South Lake Union (apartment-style for week-long trips).
 
-For more business travel hotel strategy, check our [Los Angeles guide](/en/blog/where-to-stay-los-angeles) which has a dedicated business district section.
+For more business travel hotel strategy, check our [Los Angeles guide](/en/blog/where-to-stay-los-angeles/) which has a dedicated business district section.
 
 ## Where Should You Book in the End?
 
@@ -119,6 +119,6 @@ November through March are the cheapest months. Prices drop 40-50% below summer 
 ---
 
 **Read more:**
-- [Where to Stay in San Francisco: The 5 Neighborhoods](/en/blog/where-to-stay-san-francisco)
-- [Where to Stay in Los Angeles: The Best Districts](/en/blog/where-to-stay-los-angeles)
-- [Cheap Flights: How to Find the Best Prices](/en/blog/cheap-flights-tips)
+- [Where to Stay in San Francisco: The 5 Neighborhoods](/en/blog/where-to-stay-san-francisco/)
+- [Where to Stay in Los Angeles: The Best Districts](/en/blog/where-to-stay-los-angeles/)
+- [Cheap Flights: How to Find the Best Prices](/en/blog/cheap-flights-tips/)

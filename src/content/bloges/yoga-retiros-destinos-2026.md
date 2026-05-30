@@ -50,7 +50,7 @@ La calidad varía mucho. Los buenos retiros tienen un profesor principal experim
 
 **Costes por semana:** 500-3000 EUR según el nivel. Ashrams económicos alrededor de 300 EUR. Gama media 800-1500 EUR.
 
-Para el alojamiento alrededor de Ubud, nuestra [guía de barrios de Bali](/es/blog/donde-alojarse-bali) cubre todas las opciones.
+Para el alojamiento alrededor de Ubud, nuestra [guía de barrios de Bali](/es/blog/donde-alojarse-bali/) cubre todas las opciones.
 
 ## Costa Rica: Yoga y naturaleza juntos
 
@@ -62,7 +62,7 @@ Otros retiros se encuentran en Uvita (avistamiento de ballenas, selva tropical),
 
 **Mejor época:** De diciembre a abril (temporada seca). De mayo a noviembre llueve más pero los precios son más bajos.
 
-Para planificar el viaje más amplio, nuestra [guía de ruta por Costa Rica](/es/blog/costa-rica-ruta-completa) cubre la logística.
+Para planificar el viaje más amplio, nuestra [guía de ruta por Costa Rica](/es/blog/costa-rica-ruta-completa/) cubre la logística.
 
 ## Tailandia, Koh Phangan: Infraestructura de retiros para principiantes
 
@@ -117,6 +117,6 @@ Los retiros populares en Bali, Costa Rica y Portugal se llenan con 3-6 meses de 
 ---
 
 **Más información:**
-- [Costa Rica: La ruta completa](/es/blog/costa-rica-ruta-completa)
-- [Dónde alojarse en Bali: 5 barrios](/es/blog/donde-alojarse-bali)
-- [Vacaciones de vela para principiantes: Lo que realmente necesitas saber](/es/blog/vacaciones-vela-principiantes)
+- [Costa Rica: La ruta completa](/es/blog/costa-rica-ruta-completa/)
+- [Dónde alojarse en Bali: 5 barrios](/es/blog/donde-alojarse-bali/)
+- [Vacaciones de vela para principiantes: Lo que realmente necesitas saber](/es/blog/vacaciones-vela-principiantes/)

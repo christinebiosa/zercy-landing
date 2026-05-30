@@ -22,7 +22,7 @@ No todos los destinos son iguales. Los mejores combinan calidad del idioma, cost
 
 **Francés:** París es caro y no siempre facilita la práctica real. Lyon y Montpellier ofrecen la misma calidad de idioma con menor costo. Si te interesa el francés con enfoque profesional o africano, Dakar (Senegal) es una alternativa interesante.
 
-Si estás pensando en combinar un viaje de idiomas con un estilo de vida más lento, te recomendamos leer sobre [qué significa realmente el slow travel](/es/blog/slow-travel-que-significa) y por qué favorece tanto el aprendizaje.
+Si estás pensando en combinar un viaje de idiomas con un estilo de vida más lento, te recomendamos leer sobre [qué significa realmente el slow travel](/es/blog/slow-travel-que-significa/) y por qué favorece tanto el aprendizaje.
 
 ## ¿Cuánto cuesta un viaje de inmersión lingüística para adultos?
 
@@ -39,7 +39,7 @@ Lo que más influye en el costo:
 
 Plataformas como [EF Education First](https://www.ef.com/es) y [Boa Lingua](https://www.boa-lingua.com) ofrecen redes amplias de escuelas y facilitan comparar precios. Son útiles si es tu primera vez eligiendo un curso en el extranjero.
 
-Si trabajas de forma remota y quieres combinar un curso de idiomas con una experiencia de workation, consulta nuestra guía de [workation en Portugal y España 2026](/es/blog/workation-portugal-espana-2026) con ejemplos de precios por región.
+Si trabajas de forma remota y quieres combinar un curso de idiomas con una experiencia de workation, consulta nuestra guía de [workation en Portugal y España 2026](/es/blog/workation-portugal-espana-2026/) con ejemplos de precios por región.
 
 ## Escuela de idiomas, tándem o inmersión total: ¿Qué funciona mejor?
 
@@ -51,7 +51,7 @@ Tres enfoques, tres perfiles distintos.
 
 **Inmersión total:** Sin clases. Simplemente vives ahí, hablas con vecinos, en el mercado, en una cafetería. Es el método más intenso y el que produce resultados más rápidos. Pero funciona de verdad solo si ya tienes una base.
 
-Para la mayoría de adultos que trabajan, lo que mejor funciona es la combinación: clases estructuradas por la mañana, inmersión en la vida cotidiana por la tarde. Si quieres entender mejor cómo superar los momentos incómodos del aprendizaje real, lee nuestro artículo sobre [barreras del idioma durante un viaje](/es/blog/barreras-idioma-viaje-consejos).
+Para la mayoría de adultos que trabajan, lo que mejor funciona es la combinación: clases estructuradas por la mañana, inmersión en la vida cotidiana por la tarde. Si quieres entender mejor cómo superar los momentos incómodos del aprendizaje real, lee nuestro artículo sobre [barreras del idioma durante un viaje](/es/blog/barreras-idioma-viaje-consejos/).
 
 ## ¿Qué tan rápido vas a mejorar de verdad con la inmersión?
 
@@ -67,7 +67,7 @@ Lo que pueden esperar los adultos que trabajan:
 
 Lo que haces por las tardes importa tanto como las clases. Pasar cada noche con personas que hablan tu mismo idioma nativo es desperdiciar las mejores horas de aprendizaje.
 
-Si piensas en una estancia más larga o en combinar inmersión con trabajo remoto, revisa qué países ofrecen mejores condiciones en nuestra guía de [visas para nómadas digitales en 2026](/es/blog/visa-nomada-digital-paises-2026).
+Si piensas en una estancia más larga o en combinar inmersión con trabajo remoto, revisa qué países ofrecen mejores condiciones en nuestra guía de [visas para nómadas digitales en 2026](/es/blog/visa-nomada-digital-paises-2026/).
 
 ## Preguntas frecuentes: viaje de inmersión lingüística para adultos
 
@@ -95,7 +95,7 @@ Guarda tus planes de viaje en tu [Zercy Logbook](https://www.zercy.app/logbook) 
 
 ## Más artículos
 
-- [Slow Travel: qué significa realmente](/es/blog/slow-travel-que-significa)
-- [Cómo superar las barreras del idioma viajando](/es/blog/barreras-idioma-viaje-consejos)
-- [Workation en Portugal y España 2026](/es/blog/workation-portugal-espana-2026)
-- [Visas para nómadas digitales: países 2026](/es/blog/visa-nomada-digital-paises-2026)
+- [Slow Travel: qué significa realmente](/es/blog/slow-travel-que-significa/)
+- [Cómo superar las barreras del idioma viajando](/es/blog/barreras-idioma-viaje-consejos/)
+- [Workation en Portugal y España 2026](/es/blog/workation-portugal-espana-2026/)
+- [Visas para nómadas digitales: países 2026](/es/blog/visa-nomada-digital-paises-2026/)

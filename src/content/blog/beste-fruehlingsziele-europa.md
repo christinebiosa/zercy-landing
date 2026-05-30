@@ -21,7 +21,7 @@ Dezember zeigt, was Europa im Winter kann. Juli zeigt, was Europa im Sommer kann
 
 **Keukenhof, Niederlande (März–Mai):** 7 Millionen Tulpen auf 32 Hektar. Der bekannteste Blumengarten der Welt — mit gutem Grund. Die [offizielle Keukenhof-Website](https://keukenhof.nl) hat Tickets und Öffnungszeiten. Komm an Wochentagen vor 10 Uhr für die besten Fotos ohne Massen.
 
-**Alentejo, Portugal (März–April):** Wilde Wiesen voller Mohn und Kamillenblüten. Portugal im Frühling ist so ruhig und so bezahlbar, dass man nicht glauben kann, wie wenige davon wissen. Mehr über Portugal im [Portugal Rundreise Guide](/blog/portugal-rundreise-route).
+**Alentejo, Portugal (März–April):** Wilde Wiesen voller Mohn und Kamillenblüten. Portugal im Frühling ist so ruhig und so bezahlbar, dass man nicht glauben kann, wie wenige davon wissen. Mehr über Portugal im [Portugal Rundreise Guide](/blog/portugal-rundreise-route/).
 
 **Provence, Frankreich (April–Juni):** Lavendel blüht erst im Juni, aber Kirschblüten, Mandelblüten und grüne Hügel sind schon ab April atemberaubend. Gordes, Roussillon, Les Baux-de-Provence — mittelalterliche Dörfer in einer blühenden Landschaft.
 
@@ -60,13 +60,13 @@ Blütezeitpunkte variieren je nach Wetterjahr um 1–3 Wochen. [Visit-Holland-We
 
 **Plitvice, Kroatien (April–Mai):** Die Wasserfälle und Seen des Nationalparks ohne Sommermassen. Klar, satt grün, fast menschenleer im April.
 
-**Slowenien (April–Mai):** Blühende Apfelbäume im Logar-Tal, türkisfarbene Soča, Bled-See mit Frühlingsreflexionen. Mehr im [Slowenien Guide](/blog/slowenien-geheimnis-2026).
+**Slowenien (April–Mai):** Blühende Apfelbäume im Logar-Tal, türkisfarbene Soča, Bled-See mit Frühlingsreflexionen. Mehr im [Slowenien Guide](/blog/slowenien-geheimnis-2026/).
 
-**Nordalbanien (April–Mai):** Albaner Alpen mit frischem Schnee auf den Gipfeln, grüne Täler unten. Fast keine Touristen, außergewöhnliche Wanderrouten. Verbinde es mit dem [Balkan Roadtrip](/blog/balkan-roadtrip-route).
+**Nordalbanien (April–Mai):** Albaner Alpen mit frischem Schnee auf den Gipfeln, grüne Täler unten. Fast keine Touristen, außergewöhnliche Wanderrouten. Verbinde es mit dem [Balkan Roadtrip](/blog/balkan-roadtrip-route/).
 
-**Lyon (April–Mai):** Frankreichs Gastronomie-Hauptstadt blüht im Frühling auf. Die Altstadt (UNESCO-Welterbe) und die Flussterrassen am Rhône-Ufer sind im April fast touristenfrei. Wo du am besten übernachtest, zeigt unser [Lyon Hotelguide](/blog/wo-uebernachten-lyon).
+**Lyon (April–Mai):** Frankreichs Gastronomie-Hauptstadt blüht im Frühling auf. Die Altstadt (UNESCO-Welterbe) und die Flussterrassen am Rhône-Ufer sind im April fast touristenfrei. Wo du am besten übernachtest, zeigt unser [Lyon Hotelguide](/blog/wo-uebernachten-lyon/).
 
-**Ibiza (April–Mai):** Vor der Partysaison ist die Insel kaum wiederzuerkennen. Weiße Dörfer, leere Buchten, blühende Mandelbäume im Inselinneren. Wer die ruhige Seite von Ibiza erleben will, findet in unserem [Ibiza Hotelguide](/blog/wo-uebernachten-ibiza) die besten Lagen abseits der Clubs.
+**Ibiza (April–Mai):** Vor der Partysaison ist die Insel kaum wiederzuerkennen. Weiße Dörfer, leere Buchten, blühende Mandelbäume im Inselinneren. Wer die ruhige Seite von Ibiza erleben will, findet in unserem [Ibiza Hotelguide](/blog/wo-uebernachten-ibiza/) die besten Lagen abseits der Clubs.
 
 ---
 
@@ -87,6 +87,6 @@ Ostern ist immer voll — die Woche davor und danach ist ruhiger und günstiger.
 Zwiebelschalenprinzip. Morgens und abends kühler (8–15°C), mittags kann es warm sein (18–25°C im Süden). Eine mittelschwere Jacke + Regenjacke als Schicht deckt fast alle Frühlings-Szenarien ab. Südeuropa (Portugal, Spanien, Griechenland) ist wärmer als Nordeuropa — passe die Planung regional an.
 
 ## Mehr lesen
-- [Portugal Rundreise: Die perfekte Route](/blog/portugal-rundreise-route)
-- [Slowenien: Europas grünes Geheimnis 2026](/blog/slowenien-geheimnis-2026)
-- [Schönste Strände Europa 2026 — für den Sommer danach](/blog/schoenste-straende-europa-2026)
+- [Portugal Rundreise: Die perfekte Route](/blog/portugal-rundreise-route/)
+- [Slowenien: Europas grünes Geheimnis 2026](/blog/slowenien-geheimnis-2026/)
+- [Schönste Strände Europa 2026 — für den Sommer danach](/blog/schoenste-straende-europa-2026/)

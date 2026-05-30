@@ -47,7 +47,7 @@ Too much clothing is mistake number one. The second big problem: misjudging the 
 ## How Do You Pack Correctly for Different Trip Types?
 
 **City break (2–5 days, carry-on only):**
-Maximum one backpack or small trolley (20–23 liters). Separate dirty clothes in a plastic bag. Toiletries in a 100ml liquids bag (TSA-compliant). Our [carry-on only guide](/en/blog/carry-on-only) shows you exactly how.
+Maximum one backpack or small trolley (20–23 liters). Separate dirty clothes in a plastic bag. Toiletries in a 100ml liquids bag (TSA-compliant). Our [carry-on only guide](/en/blog/carry-on-only/) shows you exactly how.
 
 **Beach holiday (1–2 weeks):**
 A mid-size suitcase is enough (55–65 liters). Sandals plus one closed pair. Buy sunscreen before you leave — it's more expensive and often lower quality at the destination. Light clothing in earth tones hides beach sand better.
@@ -56,7 +56,7 @@ A mid-size suitcase is enough (55–65 liters). Sandals plus one closed pair. Bu
 40–50 liter backpack with hip belt. Quick-dry clothing is non-negotiable — no cotton (it retains moisture). Sleeping bag liner instead of a full bag (saves weight, more hygienic in hostels). Doing laundry along the way is part of the trip, not a problem.
 
 **Trekking / outdoors:**
-Technical layers over fashion clothing. Merino wool is worth its weight in gold: odor-neutral, temperature-regulating, washable. Map plus compass (not just your phone). Our guide on [long-distance hiking trails](/en/blog/best-long-distance-hiking-trails-world) covers what you need in detail.
+Technical layers over fashion clothing. Merino wool is worth its weight in gold: odor-neutral, temperature-regulating, washable. Map plus compass (not just your phone). Our guide on [long-distance hiking trails](/en/blog/best-long-distance-hiking-trails-world/) covers what you need in detail.
 
 ## What Should You Always Carry in Your Hand Luggage?
 
@@ -68,7 +68,7 @@ Regardless of destination: these things do NOT belong in checked baggage.
 - **Valuables** (jewelry, cash over €200)
 - **One change of clothes for one day** — in case of lost luggage
 
-Liquids in hand luggage: maximum 100ml per container, everything combined in a 1-liter zip bag. Current rules also in our article on [carry-on liquid rules 2026](/en/blog/powerbank-rules-carry-on-2026).
+Liquids in hand luggage: maximum 100ml per container, everything combined in a 1-liter zip bag. Current rules also in our article on [carry-on liquid rules 2026](/en/blog/powerbank-rules-carry-on-2026/).
 
 ## Practical Packing Tools
 
@@ -99,6 +99,6 @@ Quick-dry (polyester or merino wool), versatile (neutral colors that mix easily)
 The minimum: toothbrush, small toothpaste (max 100ml), deodorant, sunscreen, your personal shampoo, razor, paracetamol plus ibuprofen, plasters, anti-diarrheal tablets. Everything else is destination-specific. Buy shampoo and shower gel on arrival — saves weight and avoids liquids stress at security.
 
 ## Read more
-- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only)
-- [Capsule Wardrobe for Carry-On Travel](/en/blog/capsule-wardrobe-carry-on)
-- [Powerbank Rules on Flights 2026](/en/blog/powerbank-rules-carry-on-2026)
+- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only/)
+- [Capsule Wardrobe for Carry-On Travel](/en/blog/capsule-wardrobe-carry-on/)
+- [Powerbank Rules on Flights 2026](/en/blog/powerbank-rules-carry-on-2026/)

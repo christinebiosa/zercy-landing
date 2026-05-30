@@ -94,6 +94,6 @@ Thao Dien in District 2 (across the river) is the quietest expat area. District 
 ---
 
 **Read more:**
-- [Where to Stay in Hanoi: Old Quarter or Ba Dinh?](/en/blog/where-to-stay-hanoi)
-- [Where to Stay in Bangkok: Sukhumvit or Silom?](/en/blog/where-to-stay-bangkok)
-- [Where to Stay in Singapore: Marina Bay or Chinatown?](/en/blog/where-to-stay-singapore)
+- [Where to Stay in Hanoi: Old Quarter or Ba Dinh?](/en/blog/where-to-stay-hanoi/)
+- [Where to Stay in Bangkok: Sukhumvit or Silom?](/en/blog/where-to-stay-bangkok/)
+- [Where to Stay in Singapore: Marina Bay or Chinatown?](/en/blog/where-to-stay-singapore/)

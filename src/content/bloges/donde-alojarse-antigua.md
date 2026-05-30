@@ -49,7 +49,7 @@ Los hoteles aquí suelen ser algo más económicos que los del Parque Central pe
 
 **Top picks:** Hotel Quinta de Las Flores (jardín colonial, tranquilo, hermosa piscina), Hotel Aurora (histórico, familiar), Mesón Panza Verde (hotel boutique con restaurante y galería de arte, muy popular).
 
-Consulta también nuestra [guía de viaje a Guatemala](/es/blog/guatemala-guia-viaje-highlights) con consejos sobre Tikal, Lago Atitlán y otros atractivos.
+Consulta también nuestra [guía de viaje a Guatemala](/es/blog/guatemala-guia-viaje-highlights/) con consejos sobre Tikal, Lago Atitlán y otros atractivos.
 
 ## ¿Cuándo es la mejor época para visitar Antigua?
 
@@ -105,6 +105,6 @@ De mayo a octubre (temporada de lluvias, aguaceros por las tardes) es más asequ
 ---
 
 ## Más artículos
-- [Guatemala: Guía de viaje con Tikal, Atitlán y más](/es/blog/guatemala-guia-viaje-highlights)
-- [México: Ruta completa de viaje](/es/blog/mexico-ruta-completa)
-- [Dónde alojarse en Bogotá: Barrios explicados](/es/blog/donde-alojarse-bogota)
+- [Guatemala: Guía de viaje con Tikal, Atitlán y más](/es/blog/guatemala-guia-viaje-highlights/)
+- [México: Ruta completa de viaje](/es/blog/mexico-ruta-completa/)
+- [Dónde alojarse en Bogotá: Barrios explicados](/es/blog/donde-alojarse-bogota/)

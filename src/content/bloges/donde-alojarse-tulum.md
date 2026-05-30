@@ -35,7 +35,7 @@ El centro del pueblo, a 4 km de la playa. La mayoría de locales viven aquí, lo
 
 **Precaución:** Necesitas bici (15 min) o taxi (6 USD) hasta la playa. No hay playa en el Pueblo mismo.
 
-Lee también nuestra [guía de Cancún](/es/blog/donde-alojarse-cancun), Tulum está a 1.5 horas al sur.
+Lee también nuestra [guía de Cancún](/es/blog/donde-alojarse-cancun/), Tulum está a 1.5 horas al sur.
 
 ## Zona Hotelera: El Tulum boutique frente al mar
 
@@ -81,7 +81,7 @@ Barrio residencial local al sur del Pueblo. Donde los nómadas digitales viven p
 
 **Precios:** Apartamentos 77-200 USD por noche (a menudo mejor reservados para estancias largas), boutique 110-245 USD.
 
-Lee también nuestra [guía de Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico), CDMX es otro top spot para nómadas digitales en 2026.
+Lee también nuestra [guía de Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico/), CDMX es otro top spot para nómadas digitales en 2026.
 
 ## ¿Cuánto cuesta realmente una noche en Tulum?
 
@@ -130,6 +130,6 @@ Mochilero: 800-1.100 USD por persona incl. vuelo (hostal Pueblo, tacos). Gama me
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Cancún: 4 zonas](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Ciudad de México: 5 barrios](/es/blog/donde-alojarse-ciudad-de-mexico)
-- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena)
+- [Dónde alojarse en Cancún: 4 zonas](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Ciudad de México: 5 barrios](/es/blog/donde-alojarse-ciudad-de-mexico/)
+- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena/)

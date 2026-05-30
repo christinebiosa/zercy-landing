@@ -71,6 +71,6 @@ Zhongzheng und Da'an sind die praktischsten Stadtteile für Erstbesucher: zentra
 
 ## Mehr lesen
 
-- [Südkorea 2 Wochen: Die perfekte Route](/blog/suedkorea-2-wochen-route)
-- [Japan 3-Wochen-Route: Die perfekte Strecke](/blog/japan-3-wochen-route)
-- [Südostasien Budget-Reisen](/blog/suedostasien-budget-reisen)
+- [Südkorea 2 Wochen: Die perfekte Route](/blog/suedkorea-2-wochen-route/)
+- [Japan 3-Wochen-Route: Die perfekte Strecke](/blog/japan-3-wochen-route/)
+- [Südostasien Budget-Reisen](/blog/suedostasien-budget-reisen/)

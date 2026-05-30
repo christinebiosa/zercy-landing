@@ -49,7 +49,7 @@ Cusco selbst ist wunderschön. Die Inkamauerwerk-Fundamente, über die die Spani
 
 **Colca Canyon:** Zwei Fahrstunden von Arequipa, der zweitgrößten Stadt Perus. Der Canyon ist tiefer als der Grand Canyon (bis zu 3.400 Meter). Der Hauptattraktion ist Cruz del Cóndor, ein Aussichtspunkt, von dem aus man täglich Andenkondore beim Thermikfliegen beobachten kann. Früh morgens (8 bis 10 Uhr) ist die beste Zeit. Der Canyon lohnt 2 bis 3 Tage Aufenthalt.
 
-**Titicacasee:** Puno ist die Gateway-Stadt auf peruanischer Seite. Auf über 3.800 Metern ist die Luft dünn. Die Uros-Inseln, schwimmende Schilffloß-Inseln mit traditionellen Gemeinschaften, sind der bekannteste Besuch. Weiter draußen liegt Taquile-Insel mit einer indigenen Kultur, die als UNESCO-Weltkulturerbe eingetragen ist. Bolivien liegt direkt gegenüber: die bolivianische Seite hat Copacabana als attraktiven Grenzpunkt. Für Unterkunft in Lima und Cusco: [Lima-Unterkunft](/blog/wo-uebernachten-lima) und [Cusco-Unterkunft](/blog/wo-uebernachten-cusco).
+**Titicacasee:** Puno ist die Gateway-Stadt auf peruanischer Seite. Auf über 3.800 Metern ist die Luft dünn. Die Uros-Inseln, schwimmende Schilffloß-Inseln mit traditionellen Gemeinschaften, sind der bekannteste Besuch. Weiter draußen liegt Taquile-Insel mit einer indigenen Kultur, die als UNESCO-Weltkulturerbe eingetragen ist. Bolivien liegt direkt gegenüber: die bolivianische Seite hat Copacabana als attraktiven Grenzpunkt. Für Unterkunft in Lima und Cusco: [Lima-Unterkunft](/blog/wo-uebernachten-lima/) und [Cusco-Unterkunft](/blog/wo-uebernachten-cusco/).
 
 **Reisezeit:** Die peruanische Trockenzeit ist Mai bis Oktober. Das ist die beste Zeit für Wanderungen und Machu Picchu. Dezember bis März ist Regenzeit: Machu Picchu ist oft wolkenverhangen, grüner, aber weniger fotogen. Inca Trail schließt im Februar.
 
@@ -81,6 +81,6 @@ Deutsche Staatsbürger brauchen kein Visum für Peru. Einreise touristisch bis 1
 
 Mehr lesen:
 
-- [Wo übernachten in Lima: Miraflores, Barranco und mehr](/blog/wo-uebernachten-lima)
-- [Wo übernachten in Cusco: Machu-Picchu-Basis](/blog/wo-uebernachten-cusco)
-- [Patagonien in 3 Wochen: Die Route](/blog/patagonien-3-wochen-route)
+- [Wo übernachten in Lima: Miraflores, Barranco und mehr](/blog/wo-uebernachten-lima/)
+- [Wo übernachten in Cusco: Machu-Picchu-Basis](/blog/wo-uebernachten-cusco/)
+- [Patagonien in 3 Wochen: Die Route](/blog/patagonien-3-wochen-route/)

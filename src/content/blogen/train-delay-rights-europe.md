@@ -47,7 +47,7 @@ Via the official Renfe website or at the counter. Renfe sometimes offers automat
 
 **Eurostar and international services:** Each has its own process, usually online, sometimes requiring a form at the station.
 
-More on European rail travel in the [night trains in Europe 2026 guide](/en/blog/night-trains-europe-2026) and the [train vs. plane Europe comparison](/en/blog/train-vs-plane-europe-2026).
+More on European rail travel in the [night trains in Europe 2026 guide](/en/blog/night-trains-europe-2026/) and the [train vs. plane Europe comparison](/en/blog/train-vs-plane-europe-2026/).
 
 ## What else are you entitled to with long delays?
 
@@ -77,12 +77,12 @@ Each EU country has a National Enforcement Body for passenger rights. In the UK:
 EU261 applies exclusively to flights. For trains, EU Regulation 1371/2007 applies. Similar structure, but different amounts (25 and 50 percent of ticket price rather than a flat €250 to €600) and different exceptions. Both regulations are minimum standards, operators can offer more.
 
 ### When is train better than flying in Europe?
-On routes up to 4 to 5 hours by rail (e.g. London to Paris, Amsterdam to Brussels, Munich to Vienna), trains are often the better choice. No airport chaos, city centre to city centre, no baggage stress. More in the [train vs. plane Europe comparison](/en/blog/train-vs-plane-europe-2026).
+On routes up to 4 to 5 hours by rail (e.g. London to Paris, Amsterdam to Brussels, Munich to Vienna), trains are often the better choice. No airport chaos, city centre to city centre, no baggage stress. More in the [train vs. plane Europe comparison](/en/blog/train-vs-plane-europe-2026/).
 
 ---
 
 ## Read more
 
-- [Flight Delay Compensation: How to Claim Under EU261](/en/blog/flight-delay-compensation-eu261)
-- [Train vs. Plane in Europe 2026: The Honest Comparison](/en/blog/train-vs-plane-europe-2026)
-- [Night Trains in Europe 2026: All Major Routes](/en/blog/night-trains-europe-2026)
+- [Flight Delay Compensation: How to Claim Under EU261](/en/blog/flight-delay-compensation-eu261/)
+- [Train vs. Plane in Europe 2026: The Honest Comparison](/en/blog/train-vs-plane-europe-2026/)
+- [Night Trains in Europe 2026: All Major Routes](/en/blog/night-trains-europe-2026/)

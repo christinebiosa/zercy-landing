@@ -55,13 +55,13 @@ Färöer sind nicht billig, aber günstiger als Island.
 
 **Flug.** Atlantic Airways fliegt von Kopenhagen, Hamburg, Edinburgh und Reykjavík direkt. Hin und zurück: 250-450 Euro je nach Saison.
 
-**Mietwagen.** Pflicht für Mobilität. Etwa 60-80 Euro pro Tag. In der Hochsaison Monate vorher buchen. Lies dazu unsere [Mietwagen-Checkliste](/blog/mietwagen-check). Auf den Färöern brauchst du Vollkasko ohne Selbstbeteiligung.
+**Mietwagen.** Pflicht für Mobilität. Etwa 60-80 Euro pro Tag. In der Hochsaison Monate vorher buchen. Lies dazu unsere [Mietwagen-Checkliste](/blog/mietwagen-check/). Auf den Färöern brauchst du Vollkasko ohne Selbstbeteiligung.
 
 **Übernachtung.** Hotels in Tórshavn: 100-200 Euro pro Nacht. Guesthouses 60-100 Euro. Airbnb verfügbar, aber wenig Auswahl.
 
 **Essen.** Restaurants etwa wie in Skandinavien: Hauptgang 25-40 Euro. Supermärkte teurer als in Deutschland. Eine Woche Färöer kostet pro Person etwa 1.500-2.200 Euro inklusive Flug.
 
-Falls du dich für ähnliche Inseln-Reiseziele interessierst, lies unseren [Island-Reiseguide](/blog/island-reiseguide). Plus: Wenn du eher Sonne suchst, gefällt dir vielleicht die [Albanien-Riviera](/blog/albanien-riviera-geheimtipp) besser.
+Falls du dich für ähnliche Inseln-Reiseziele interessierst, lies unseren [Island-Reiseguide](/blog/island-reiseguide/). Plus: Wenn du eher Sonne suchst, gefällt dir vielleicht die [Albanien-Riviera](/blog/albanien-riviera-geheimtipp/) besser.
 
 ---
 
@@ -88,6 +88,6 @@ Direktflug mit Atlantic Airways aus Kopenhagen, Hamburg, Edinburgh, Reykjavík o
 ---
 
 **Mehr lesen:**
-- [Island Reiseguide: Die besten Routen und Stopps](/blog/island-reiseguide)
-- [Geheimtipps Europa: 7 Orte ohne Massentourismus](/blog/geheimtipps-europa)
-- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check)
+- [Island Reiseguide: Die besten Routen und Stopps](/blog/island-reiseguide/)
+- [Geheimtipps Europa: 7 Orte ohne Massentourismus](/blog/geheimtipps-europa/)
+- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check/)

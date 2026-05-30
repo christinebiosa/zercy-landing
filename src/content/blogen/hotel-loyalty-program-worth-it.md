@@ -30,7 +30,7 @@ First, if you travel a lot: ten or more hotel nights per year. Below that, you c
 
 Second, if you gravitate toward the same chain anyway. You book Hilton or Marriott because those hotels are good in your destinations, not out of obligation. Loyalty costs you nothing extra.
 
-Third, if you are a business traveler. Work trips generate nights fast. Upgrades, late checkout, and lounge access become genuinely useful. Pairing hotel loyalty with an [airline alliances strategy](/en/blog/airline-alliances-guide-2026) can stack benefits meaningfully.
+Third, if you are a business traveler. Work trips generate nights fast. Upgrades, late checkout, and lounge access become genuinely useful. Pairing hotel loyalty with an [airline alliances strategy](/en/blog/airline-alliances-guide-2026/) can stack benefits meaningfully.
 
 Fourth, if Gold or Platinum status is realistic. Late checkout until 4pm, guaranteed upgrades, sometimes breakfast included.
 
@@ -42,7 +42,7 @@ This is where it gets uncomfortable. If you travel two or three times a year and
 
 Take Marriott Bonvoy: a night in the lowest award category costs 5,000 points. You earn roughly 10 points per dollar. That means $500 in hotel spending for one free night in the cheapest category. The savings look thin against what the same room costs on Booking.com.
 
-And that is the biggest trap: member rates are often higher than non-member prices on booking platforms. [Hotel rate parity](/en/blog/hotel-rate-parity-explained) breaks regularly. OTAs apply Genius discounts, promotional pricing, and exclusive deals that undercut the chain's official member rate. The result: the same hotel is often 10 to 20 percent cheaper on Booking.com.
+And that is the biggest trap: member rates are often higher than non-member prices on booking platforms. [Hotel rate parity](/en/blog/hotel-rate-parity-explained/) breaks regularly. OTAs apply Genius discounts, promotional pricing, and exclusive deals that undercut the chain's official member rate. The result: the same hotel is often 10 to 20 percent cheaper on Booking.com.
 
 Always compare. That is not optional, it is required practice.
 
@@ -50,7 +50,7 @@ Always compare. That is not optional, it is required practice.
 
 The Booking.com Genius program is the direct competitor. No chain commitment. Up to 20 percent off at participating properties, earlier check-in, late checkout, occasional free breakfast. Genius Level 1 is easy to reach, and it covers independent hotels, boutique properties, and major chains.
 
-For travelers who switch hotel types by destination, Genius is often the better deal. No lock-in. For a thorough [comparison between Booking.com and Expedia](/en/blog/booking-vs-expedia-comparison-2026), that article covers where each platform wins.
+For travelers who switch hotel types by destination, Genius is often the better deal. No lock-in. For a thorough [comparison between Booking.com and Expedia](/en/blog/booking-vs-expedia-comparison-2026/), that article covers where each platform wins.
 
 ## How Do You Choose the Right Program?
 
@@ -58,7 +58,7 @@ If you decide a loyalty program is right for you, pick exactly one. Splitting ni
 
 Hilton Honors or Marriott Bonvoy are the natural starting points. Hyatt is worth considering for US cities: smaller portfolio, but the most generous upgrade policy of the major chains.
 
-Whatever you choose, always run this check: look up the loyalty rate, then check Booking.com or Expedia for the same room and dates. If the platform is cheaper, book there. The points you skip are usually worth less than the savings. [Hotel categories and star ratings](/en/blog/hotel-categories-explained) help you judge when a loyalty upgrade actually matters.
+Whatever you choose, always run this check: look up the loyalty rate, then check Booking.com or Expedia for the same room and dates. If the platform is cheaper, book there. The points you skip are usually worth less than the savings. [Hotel categories and star ratings](/en/blog/hotel-categories-explained/) help you judge when a loyalty upgrade actually matters.
 
 ---
 
@@ -81,6 +81,6 @@ For occasional travelers, no chain loyalty program is the clear winner. The Book
 ---
 
 **Read more:**
-- [Hotel Rate Parity Explained: Why the Same Room Costs the Same Everywhere](/en/blog/hotel-rate-parity-explained)
-- [Booking.com vs. Expedia: The Honest Comparison 2026](/en/blog/booking-vs-expedia-comparison-2026)
-- [Hotel Categories Explained: What 3, 4 and 5 Stars Actually Mean](/en/blog/hotel-categories-explained)
+- [Hotel Rate Parity Explained: Why the Same Room Costs the Same Everywhere](/en/blog/hotel-rate-parity-explained/)
+- [Booking.com vs. Expedia: The Honest Comparison 2026](/en/blog/booking-vs-expedia-comparison-2026/)
+- [Hotel Categories Explained: What 3, 4 and 5 Stars Actually Mean](/en/blog/hotel-categories-explained/)

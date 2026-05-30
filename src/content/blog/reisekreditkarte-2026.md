@@ -20,7 +20,7 @@ Es gibt vier sinnvolle Kategorien. Die meisten Angebote fallen in eine davon.
 
 **Cashback-Karte:** Statt Punkte gibt es echtes Geld zurück, oft 1-2% auf Reiseausgaben. Einfach zu verstehen, kein Punktewert-Rätsel. Die Barclays Rewards Card und ähnliche Modelle sind hier Klassiker. Gut für alle, die Transparenz über Gamification stellen. Jahresgebühr oft 0 EUR oder sehr gering.
 
-**Lounge-Karte (Premium):** American Express Platinum, Diners Club oder ähnliche Karten bieten Priority Pass oder direkten Zugang zu Flughafenlounges. Jahresgebühr: 400-700 EUR. Lohnt sich nur wenn du wirklich oft am Flughafen bist. Wir haben das in unserem [Lounge-Zugang-Guide](/blog/lounge-zugang-ohne-business-ticket) ausführlich durchgerechnet.
+**Lounge-Karte (Premium):** American Express Platinum, Diners Club oder ähnliche Karten bieten Priority Pass oder direkten Zugang zu Flughafenlounges. Jahresgebühr: 400-700 EUR. Lohnt sich nur wenn du wirklich oft am Flughafen bist. Wir haben das in unserem [Lounge-Zugang-Guide](/blog/lounge-zugang-ohne-business-ticket/) ausführlich durchgerechnet.
 
 **Allround-Reisekarte:** Mittelklasse. Keine Fremdwährungsgebühren, solider Reiseschutz, keine oder geringe Jahresgebühr. Haftet keine große Story, funktioniert aber zuverlässig. Typische Beispiele: DKB Visa (kostenlos), Revolut Premium, N26 You.
 
@@ -30,7 +30,7 @@ Fünf Kriterien, nach Wichtigkeit:
 
 **1. Fremdwährungsgebühren:** Das ist der häufigste versteckte Kostenfaktor. Viele Karten berechnen 1,5-3% auf jede Auslandszahlung. Bei 2000 EUR Reiseausgaben im Ausland: 30-60 EUR extra. Kostenlose Karten wie DKB Visa oder Revolut heben das auf.
 
-**2. Reiseversicherungsschutz:** Viele Premium-Karten enthalten Reiseunfall-, Gepäck- und Reiserücktrittsversicherung. Prüfe die Deckungssummen genau. Oft gilt der Schutz nur wenn du die Reise auch mit der Karte bezahlt hast. Mehr dazu in unserem [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich).
+**2. Reiseversicherungsschutz:** Viele Premium-Karten enthalten Reiseunfall-, Gepäck- und Reiserücktrittsversicherung. Prüfe die Deckungssummen genau. Oft gilt der Schutz nur wenn du die Reise auch mit der Karte bezahlt hast. Mehr dazu in unserem [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 **3. Willkommensbonus:** Meilen-Karten locken mit 20.000-60.000 Bonusmeilen für die ersten Monate. Klingt viel. Entspricht aber oft nur einem Inlandsflug oder einem Upgrade-Versuch. Trotzdem: ein guter Bonusangebote kann die ersten Jahresgebühren rechtfertigen.
 
@@ -62,7 +62,7 @@ Unabhängig von der Karte: Diese drei Regeln gelten immer.
 
 Die offizielle [Visa-Reiseseite](https://www.visa.com/de_DE/pay-with-visa/travel-with-visa.html) hat aktuelle Informationen zu Sicherheit und Nutzung weltweit.
 
-Wenn du eine längere Reise planst und die Kosten im Blick behalten willst: unser [Günstiger-Fliegen-Guide](/blog/guenstig-fliegen-tipps) zeigt, wo du wirklich sparen kannst, bevor du überhaupt die Karte zückst. Und die versteckten Mietwagenkosten addieren sich schnell, wenn du keine Karte mit guter Versicherung dabei hast, das rechnen wir in [diesem Mietwagen-Artikel](/blog/mietwagen-versteckte-kosten-vermeiden) durch.
+Wenn du eine längere Reise planst und die Kosten im Blick behalten willst: unser [Günstiger-Fliegen-Guide](/blog/guenstig-fliegen-tipps/) zeigt, wo du wirklich sparen kannst, bevor du überhaupt die Karte zückst. Und die versteckten Mietwagenkosten addieren sich schnell, wenn du keine Karte mit guter Versicherung dabei hast, das rechnen wir in [diesem Mietwagen-Artikel](/blog/mietwagen-versteckte-kosten-vermeiden/) durch.
 
 ---
 
@@ -89,6 +89,6 @@ Wenn du 8+ Mal pro Jahr fliegst und regelmäßig am Flughafen wartest. Eine Loun
 ---
 
 **Mehr lesen:**
-- [Lounge-Zugang ohne Business-Ticket: So geht's](/blog/lounge-zugang-ohne-business-ticket)
-- [Business Class ohne Meilen: Günstig upgraden](/blog/business-class-ohne-meilen)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Lounge-Zugang ohne Business-Ticket: So geht's](/blog/lounge-zugang-ohne-business-ticket/)
+- [Business Class ohne Meilen: Günstig upgraden](/blog/business-class-ohne-meilen/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

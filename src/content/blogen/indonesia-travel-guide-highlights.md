@@ -70,6 +70,6 @@ For Bali plus one other island (Komodo or Lombok): minimum 10 to 12 days. For Yo
 ---
 
 **Read more:**
-- [India Travel Guide: Highlights for Your Trip](/en/blog/india-travel-guide-highlights)
-- [Australia Road Trip: The Best Route](/en/blog/australia-road-trip-route)
-- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials)
+- [India Travel Guide: Highlights for Your Trip](/en/blog/india-travel-guide-highlights/)
+- [Australia Road Trip: The Best Route](/en/blog/australia-road-trip-route/)
+- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials/)

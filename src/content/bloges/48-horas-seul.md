@@ -67,7 +67,7 @@ Gangnam se puede visitar después en metro si queda tiempo. Su fama (clínicas d
 
 Dos zonas funcionan bien para 48 horas. Myeongdong, para tener acceso rápido a Bukchon, Gwanghwamun y el arroyo. O Hongdae, para el lado oeste y el Día 2. El metro conecta ambas zonas en menos de 20 minutos.
 
-Myeongdong es más céntrico, más ruidoso, más turístico. Hongdae es más animado de noche, más tranquilo por la mañana. Para la primera visita, Myeongdong suele ser más práctico por los tiempos de desplazamiento. En nuestra guía [dónde alojarse en Seúl](/es/blog/donde-alojarse-seul) encontrarás opciones por barrio y presupuesto. Booking.com tiene buena cobertura de las dos zonas con opiniones verificadas y comparador de precios.
+Myeongdong es más céntrico, más ruidoso, más turístico. Hongdae es más animado de noche, más tranquilo por la mañana. Para la primera visita, Myeongdong suele ser más práctico por los tiempos de desplazamiento. En nuestra guía [dónde alojarse en Seúl](/es/blog/donde-alojarse-seul/) encontrarás opciones por barrio y presupuesto. Booking.com tiene buena cobertura de las dos zonas con opiniones verificadas y comparador de precios.
 
 ## ¿Cuánto cuesta Seúl realmente?
 
@@ -75,7 +75,7 @@ Seúl es más barata que casi cualquier otra gran ciudad de Asia oriental. Para 
 
 Un almuerzo completo en un restaurante local cuesta entre 8.000 y 12.000 KRW, es decir 5 a 8 euros. Un café en un buen local: 5.000 a 6.000 KRW. Street food en Myeongdong: 2.000 a 5.000 KRW por snack. Un taxi para tres kilómetros: unos 4.000 KRW.
 
-El tren exprés AREX del Aeropuerto de Incheon lleva al centro en 43 minutos por 9.500 KRW. Es la opción más rápida y económica. Sin taxi, sin shuttle. El expreso para en Hongik University (Hongdae) y en Seoul Station. Para consejos sobre cómo moverse en aeropuertos internacionales, nuestra guía de [trucos para aeropuertos](/es/blog/trucos-aeropuerto) cubre los atajos más útiles.
+El tren exprés AREX del Aeropuerto de Incheon lleva al centro en 43 minutos por 9.500 KRW. Es la opción más rápida y económica. Sin taxi, sin shuttle. El expreso para en Hongik University (Hongdae) y en Seoul Station. Para consejos sobre cómo moverse en aeropuertos internacionales, nuestra guía de [trucos para aeropuertos](/es/blog/trucos-aeropuerto/) cubre los atajos más útiles.
 
 Para el fin de semana completo incluyendo alojamiento de nivel medio, comidas y entradas, calcula entre 200 y 350 euros por persona. Quien se aloja en hoteles bien valorados en Myeongdong o Insadong estará más cerca del límite superior.
 
@@ -87,7 +87,7 @@ Octubre y noviembre también son excelentes. Colores otoñales, tiempo más seco
 
 El verano (julio y agosto) es caluroso y húmedo, con temperaturas de más de 30 grados y lluvias frecuentes. El invierno es realmente frío, con temperaturas que caen regularmente a menos 10 grados entre diciembre y febrero. La [web oficial de turismo de Seúl](https://english.visitseoul.net) tiene información detallada sobre eventos, festivales y horarios por temporada.
 
-Si quieres combinar Seúl con más destinos, nuestra guía [Corea del Sur 2 semanas de ruta](/es/blog/corea-sur-2-semanas-ruta) explica cómo organizar Seúl junto a Busan, Gyeongju y la costa.
+Si quieres combinar Seúl con más destinos, nuestra guía [Corea del Sur 2 semanas de ruta](/es/blog/corea-sur-2-semanas-ruta/) explica cómo organizar Seúl junto a Busan, Gyeongju y la costa.
 
 Zercy compara vuelos de larga distancia a Seúl y te ayuda a encontrar la mejor escala. Guarda todo en el [Zercy Logbook](https://www.zercy.app/logbook) para cuando reserves.
 
@@ -114,6 +114,6 @@ Mejor que en la mayoría de ciudades de Asia oriental. Las estaciones de metro t
 ---
 
 **Leer más:**
-- [Dónde alojarse en Seúl: mejores barrios y hoteles](/es/blog/donde-alojarse-seul)
-- [Corea del Sur 2 semanas: la ruta completa](/es/blog/corea-sur-2-semanas-ruta)
-- [Trucos para aeropuertos: muévete más rápido](/es/blog/trucos-aeropuerto)
+- [Dónde alojarse en Seúl: mejores barrios y hoteles](/es/blog/donde-alojarse-seul/)
+- [Corea del Sur 2 semanas: la ruta completa](/es/blog/corea-sur-2-semanas-ruta/)
+- [Trucos para aeropuertos: muévete más rápido](/es/blog/trucos-aeropuerto/)

@@ -44,7 +44,7 @@ La ventana secreta de Mykonos es mayo, junio y septiembre. Temperaturas agradabl
 
 De octubre a abril es temporada baja. Muchos negocios cierran. La isla tiene un carácter completamente diferente.
 
-Si combinas Grecia con otros destinos, consulta también [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires) o [Dónde alojarse en Río de Janeiro](/es/blog/donde-alojarse-rio-de-janeiro) para más inspiración.
+Si combinas Grecia con otros destinos, consulta también [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) o [Dónde alojarse en Río de Janeiro](/es/blog/donde-alojarse-rio-de-janeiro/) para más inspiración.
 
 ## Paradise Beach: Para fiestas y presupuesto ajustado
 
@@ -107,6 +107,6 @@ La red de autobuses locales (KTEL) conecta las principales playas y pueblos. Los
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Buenos Aires: Palermo, Recoleta o San Telmo](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Río de Janeiro: Ipanema, Copacabana o Santa Teresa](/es/blog/donde-alojarse-rio-de-janeiro)
-- [Dónde alojarse en Cartagena: Barrios y precios](/es/blog/donde-alojarse-cartagena)
+- [Dónde alojarse en Buenos Aires: Palermo, Recoleta o San Telmo](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Río de Janeiro: Ipanema, Copacabana o Santa Teresa](/es/blog/donde-alojarse-rio-de-janeiro/)
+- [Dónde alojarse en Cartagena: Barrios y precios](/es/blog/donde-alojarse-cartagena/)

@@ -20,7 +20,7 @@ Hay situaciones en las que el paquete turístico es la opción inteligente. No p
 
 **Viajes complejos a varios países.** Egipto con crucero por el Nilo, o Jordania con excursión a Petra más campamento en el desierto. Estos viajes requieren coordinar traslados, vehículos especiales, guías locales y a veces permisos de acceso oficiales. Un operador experimentado lo ha hecho mil veces. Tú lo haces por primera vez.
 
-**Marruecos para los que viajan por primera vez.** La medina de Marrakech sin orientación puede ser abrumadora. La cultura de regateo en los zocos, los callejones sin señalizar, los guías autoproclamados. Un paquete te quita esas decisiones. Innecesario para quienes ya conocen el destino o viajeros experimentados, pero una ventaja real en la primera visita. Puedes profundizar en el destino con nuestra [guía de riads en Marruecos](/es/blog/riads-marruecos-guia).
+**Marruecos para los que viajan por primera vez.** La medina de Marrakech sin orientación puede ser abrumadora. La cultura de regateo en los zocos, los callejones sin señalizar, los guías autoproclamados. Un paquete te quita esas decisiones. Innecesario para quienes ya conocen el destino o viajeros experimentados, pero una ventaja real en la primera visita. Puedes profundizar en el destino con nuestra [guía de riads en Marruecos](/es/blog/riads-marruecos-guia/).
 
 **Destinos donde el conocimiento local importa.** Cuando viajas a regiones donde la acompañamiento oficial o el conocimiento local profundo añaden seguridad o calidad reales, el marco organizado vale la pena.
 
@@ -34,7 +34,7 @@ En la mayoría de los viajes de largo recorrido para viajeros experimentados. Y 
 
 **Costo en viajes más largos.** Un paquete es un precio compacto para 7 o 14 noches. Viaja tres semanas y la planificación independiente casi siempre encuentra opciones más baratas. Pensiones, transporte local, mercados en vez de restaurantes turísticos.
 
-**Sudeste Asiático, Japón, Europa.** Estos destinos tienen excelente infraestructura turística. Trenes, hostales, señalización clara, apps en español e inglés. Nadie necesita un operador aquí. Revisa nuestra [guía de viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico) para números concretos.
+**Sudeste Asiático, Japón, Europa.** Estos destinos tienen excelente infraestructura turística. Trenes, hostales, señalización clara, apps en español e inglés. Nadie necesita un operador aquí. Revisa nuestra [guía de viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/) para números concretos.
 
 ## ¿Qué incluye realmente el todo incluido?
 
@@ -56,13 +56,13 @@ Reserva vuelo y alojamiento tú mismo a través de Booking.com, Expedia o Google
 
 Reserva actividades y tours con operadores locales sobre el terreno, o a través de Viator o GetYourGuide. Guías locales profesionales para excursiones de medio día, pero sin compromiso de programa completo rígido.
 
-Reserva traslados y alquiler de autos directamente. Una comparativa de [consolidadores de alquiler de autos](/es/blog/consolidadores-alquiler-ahorrar) a menudo ahorra un 30 a 40 por ciento frente a los traslados de paquete.
+Reserva traslados y alquiler de autos directamente. Una comparativa de [consolidadores de alquiler de autos](/es/blog/consolidadores-alquiler-ahorrar/) a menudo ahorra un 30 a 40 por ciento frente a los traslados de paquete.
 
 Esto te da la seguridad del paquete turístico en la logística central y la libertad del viaje independiente en todo lo demás.
 
 Herramientas de IA como Zercy te ayudan con esta planificación híbrida: comparar opciones de vuelo y hotel, verificar traslados, estructurar itinerarios. Guarda tu plan en el [Zercy Logbook](https://www.zercy.app/logbook) y mantén todas las opciones en un solo lugar.
 
-Si quieres la comparación completa: en nuestro artículo [planificador IA vs. agencia de viajes](/es/blog/planificador-ia-vs-agencia-viajes) hemos analizado las diferencias en detalle.
+Si quieres la comparación completa: en nuestro artículo [planificador IA vs. agencia de viajes](/es/blog/planificador-ia-vs-agencia-viajes/) hemos analizado las diferencias en detalle.
 
 ---
 
@@ -87,6 +87,6 @@ Porque el control y la flexibilidad se vuelven más valiosos cuanto más viajas.
 ---
 
 **Más para leer:**
-- [Planificador IA vs. agencia de viajes: ¿Qué es mejor?](/es/blog/planificador-ia-vs-agencia-viajes)
-- [Consolidadores de alquiler: ahorra dinero en autos](/es/blog/consolidadores-alquiler-ahorrar)
-- [Reserva anticipada vs. último momento: ¿cuándo reservar?](/es/blog/reserva-anticipada-vs-last-minute)
+- [Planificador IA vs. agencia de viajes: ¿Qué es mejor?](/es/blog/planificador-ia-vs-agencia-viajes/)
+- [Consolidadores de alquiler: ahorra dinero en autos](/es/blog/consolidadores-alquiler-ahorrar/)
+- [Reserva anticipada vs. último momento: ¿cuándo reservar?](/es/blog/reserva-anticipada-vs-last-minute/)

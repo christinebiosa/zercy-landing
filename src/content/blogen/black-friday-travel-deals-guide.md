@@ -42,13 +42,13 @@ For flight prices, the [Skyscanner price alert](https://www.skyscanner.com/tips-
 
 ## Which Travel Categories Benefit the Most?
 
-**Hotels on booking platforms**: This is where the highest potential sits. Activating Booking.com Genius Level 2 in advance makes sense because Genius deals often stack on top of Black Friday prices. Genius Level 2 unlocks after 5 completed bookings. If you're not there yet, a few strategic bookings beforehand are worth it. Also read [how to book hotels cheaper](/en/blog/book-hotel-cheaper-tips) for year-round tactics.
+**Hotels on booking platforms**: This is where the highest potential sits. Activating Booking.com Genius Level 2 in advance makes sense because Genius deals often stack on top of Black Friday prices. Genius Level 2 unlocks after 5 completed bookings. If you're not there yet, a few strategic bookings beforehand are worth it. Also read [how to book hotels cheaper](/en/blog/book-hotel-cheaper-tips/) for year-round tactics.
 
 **Lounge passes**: Priority Pass almost always runs a Black Friday promotion. The annual pass price is 20 to 25% lower. If you fly regularly and use lounges, this pays for itself immediately.
 
 **Travel insurance**: Annual multi-trip plans are often reduced this weekend. Major insurers bring down their annual policies consistently at Black Friday.
 
-**Flights? Only for specific routes**: Long-haul routes to Asia, Latin America, East Africa can show genuine Black Friday deals. Not for spring or summer, but for October through February of next year. That combination (book in November, travel in fall or winter next year) works best. More on timing in our guide [when to book flights](/en/blog/when-to-book-flights).
+**Flights? Only for specific routes**: Long-haul routes to Asia, Latin America, East Africa can show genuine Black Friday deals. Not for spring or summer, but for October through February of next year. That combination (book in November, travel in fall or winter next year) works best. More on timing in our guide [when to book flights](/en/blog/when-to-book-flights/).
 
 **What to skip**: All-inclusive packages for Christmas or Easter. These are sold out or expensive in November regardless of the deal weekend.
 
@@ -68,7 +68,7 @@ You can only assess a good deal if you have comparison data. Here's the prep:
 
 Then: on Cyber Monday, compare with fresh data. Booking.com often runs its strongest hotel flash sales on Monday morning with a 24-hour window. Being quick pays off.
 
-For [cheap flights](/en/blog/cheap-flights-tips) the whole year is strategy, not just one weekend. But for annual passes, insurance, and hotel bookings in shoulder season, the Black Friday weekend is one of the best moments in the year.
+For [cheap flights](/en/blog/cheap-flights-tips/) the whole year is strategy, not just one weekend. But for annual passes, insurance, and hotel bookings in shoulder season, the Black Friday weekend is one of the best moments in the year.
 
 ---
 
@@ -91,6 +91,6 @@ Track prices from October and document comparison values. With a screenshot from
 ---
 
 **Read more:**
-- [When to Book Flights: The Real Answer](/en/blog/when-to-book-flights)
-- [How to Book Hotels Cheaper](/en/blog/book-hotel-cheaper-tips)
-- [Cheap Flights: What Actually Helps](/en/blog/cheap-flights-tips)
+- [When to Book Flights: The Real Answer](/en/blog/when-to-book-flights/)
+- [How to Book Hotels Cheaper](/en/blog/book-hotel-cheaper-tips/)
+- [Cheap Flights: What Actually Helps](/en/blog/cheap-flights-tips/)

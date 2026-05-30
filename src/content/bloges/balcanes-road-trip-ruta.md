@@ -49,7 +49,7 @@ El invierno (diciembre a marzo) es temporada baja, barato, pero muchos sitios ti
 
 **Mostar:** El puente Stari Most fue destruido durante la guerra de Bosnia en 1993 y reconstruido en 2004. Jóvenes se lanzan al Neretva a diario, un ritual antiguo. La [web oficial de turismo de Mostar](https://www.visitmostar.ba) tiene horarios y detalles.
 
-**Kotor:** Casco antiguo UNESCO en una bahía rodeada de fortalezas montañosas. Subir las murallas hasta la Fortaleza San Giovanni (1.355 escalones) vale la pena por las vistas. Nuestra [guía de alojamiento en Kotor](/es/blog/donde-alojarse-kotor) tiene todos los consejos.
+**Kotor:** Casco antiguo UNESCO en una bahía rodeada de fortalezas montañosas. Subir las murallas hasta la Fortaleza San Giovanni (1.355 escalones) vale la pena por las vistas. Nuestra [guía de alojamiento en Kotor](/es/blog/donde-alojarse-kotor/) tiene todos los consejos.
 
 **Riviera albanesa:** Entre Sarandë e Himarë encontrarás playas que solo ves en anuncios. Cañón Gjipe, Drymades, playa de Himara: casi vírgenes, casi vacías.
 
@@ -82,6 +82,6 @@ Difícil elegir: cada uno tiene sus puntos fuertes. Albania tiene la naturaleza 
 Un bucle por Bosnia, Montenegro, Albania y Macedonia del Norte cubre unos 2.000 a 2.500 km. Muy manejable en 14 días. Planifica entre 100 y 200 km por día de conducción: las carreteras de montaña son más lentas de lo esperado. Las curvas, los pueblos estrechos y las rutas costeras sinuosas convierten el trayecto en una experiencia en sí misma.
 
 ## Más artículos
-- [Riviera albanesa: el último secreto de Europa](/es/blog/albania-riviera-escondida)
-- [Dónde alojarse en Kotor](/es/blog/donde-alojarse-kotor)
-- [Planificación de road trip por etapas](/es/blog/roadtrip-planificacion-etapas)
+- [Riviera albanesa: el último secreto de Europa](/es/blog/albania-riviera-escondida/)
+- [Dónde alojarse en Kotor](/es/blog/donde-alojarse-kotor/)
+- [Planificación de road trip por etapas](/es/blog/roadtrip-planificacion-etapas/)

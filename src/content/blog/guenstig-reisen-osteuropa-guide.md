@@ -22,13 +22,13 @@ Was du nicht erwartest: Das Niveau. Die Altstadt von Tallinn ist so gut erhalten
 
 ## Welche Städte sind die günstigsten?
 
-**Belgrad** führt die Liste an. Serbien ist nicht EU-Mitglied, was bedeutet, dass der Dinar keinen Euro-Schub bekommt. Ein komplettes Abendessen mit Drink kostet 6 bis 10 Euro. Hostelbett: ab 12 Euro. Hotelbett in einer guten Unterkunft: ab 35 Euro. [Wo übernachten in Budapest](/blog/wo-uebernachten-budapest) gibt dir für den ungarischen Nachbarn ähnliche Orientierung.
+**Belgrad** führt die Liste an. Serbien ist nicht EU-Mitglied, was bedeutet, dass der Dinar keinen Euro-Schub bekommt. Ein komplettes Abendessen mit Drink kostet 6 bis 10 Euro. Hostelbett: ab 12 Euro. Hotelbett in einer guten Unterkunft: ab 35 Euro. [Wo übernachten in Budapest](/blog/wo-uebernachten-budapest/) gibt dir für den ungarischen Nachbarn ähnliche Orientierung.
 
 **Sofia** ist überraschend günstig. Bulgarien ist EU-Mitglied, hat aber den Lev behalten. Das Preisniveau bleibt unter dem Euroraum. Kaffee für 1,50 Euro, Mittagsmenü für 4 bis 5 Euro, anständiges Hotel ab 40 Euro.
 
-**Riga und Tallinn** sind teurer als Belgrad oder Sofia, aber noch weit unter Amsterdam oder Stockholm. Der Vorteil: Die baltischen Städte sind ästhetisch außergewöhnlich. Tallinn hat eine der best erhaltenen mittelalterlichen Altstädte Europas. Mehr dazu im [Übernachten-Guide Tallinn](/blog/wo-uebernachten-tallinn).
+**Riga und Tallinn** sind teurer als Belgrad oder Sofia, aber noch weit unter Amsterdam oder Stockholm. Der Vorteil: Die baltischen Städte sind ästhetisch außergewöhnlich. Tallinn hat eine der best erhaltenen mittelalterlichen Altstädte Europas. Mehr dazu im [Übernachten-Guide Tallinn](/blog/wo-uebernachten-tallinn/).
 
-**Krakau** ist ein Klassiker aus gutem Grund. Polen hat trotz EU-Mitgliedschaft den Zloty, was die Preise dämpft. Gutes Restaurant-Hauptgericht: 6 bis 9 Euro. Bier: 1,50 bis 2,50 Euro. Hotel: ab 45 Euro. Hostel: ab 15 Euro. Infos zu Unterkünften findest du im [Krakau-Übernachten-Guide](/blog/wo-uebernachten-krakau).
+**Krakau** ist ein Klassiker aus gutem Grund. Polen hat trotz EU-Mitgliedschaft den Zloty, was die Preise dämpft. Gutes Restaurant-Hauptgericht: 6 bis 9 Euro. Bier: 1,50 bis 2,50 Euro. Hotel: ab 45 Euro. Hostel: ab 15 Euro. Infos zu Unterkünften findest du im [Krakau-Übernachten-Guide](/blog/wo-uebernachten-krakau/).
 
 **Budapest** ist etwas teurer geworden, bleibt aber ein Tipp. Der Forint sorgt für Puffer gegenüber dem Euro. Thermalbadbeitritt ab 15 Euro, Abendessen ab 8 Euro.
 
@@ -38,7 +38,7 @@ Was du nicht erwartest: Das Niveau. Die Altstadt von Tallinn ist so gut erhalten
 
 Frühling (April, Mai) und früher Herbst (September, Oktober) sind die beste Kombination aus Wetter und Preis. Hochsommer bringt in touristischen Städten wie Tallinn oder Krakau höhere Hotelpreise und mehr Gedränge. Winter ist günstig, aber kurze Tage und Kälte machen manche Aktivitäten schwieriger.
 
-Flüge in die Hauptsaisonzeit kosten leicht das Doppelte gegenüber Schulterperioden. Wer Mitte September fährt statt Ende Juli, zahlt für Flug und Hotel zusammen oft 30 bis 40 Prozent weniger. [Günstig fliegen: alle aktuellen Tricks](/blog/guenstig-fliegen-tipps) hilft dir, den richtigen Buchungszeitraum zu finden.
+Flüge in die Hauptsaisonzeit kosten leicht das Doppelte gegenüber Schulterperioden. Wer Mitte September fährt statt Ende Juli, zahlt für Flug und Hotel zusammen oft 30 bis 40 Prozent weniger. [Günstig fliegen: alle aktuellen Tricks](/blog/guenstig-fliegen-tipps/) hilft dir, den richtigen Buchungszeitraum zu finden.
 
 Manche Reisenden unterschätzen die Nachfrage im Winter. Weihnachtsmärkte in Krakau oder Budapest ziehen Besucher aus ganz Europa. Dezember ist keine Nebensaison mehr. Wer im Januar oder Februar reist, findet die günstigsten Preise und überraschend wenige andere Touristen.
 
@@ -46,7 +46,7 @@ Manche Reisenden unterschätzen die Nachfrage im Winter. Weihnachtsmärkte in Kr
 
 **FlixBus und Regiojet** verbinden die meisten Städte direkt. Krakau nach Budapest: ab 12 Euro. Budapest nach Belgrad: ab 15 Euro. Die Busse sind komfortabel, pünktlich und haben WLAN. Für kürzere Strecken ist das klar die günstigste Option.
 
-**Nachtzüge** lohnen sich für längere Strecken. Du sparst eine Hotelübernachtung und bist morgens angekommen. Die Route Krakau nach Wien oder Budapest nach Belgrad ist realisierbar. Alle aktuellen Strecken und Buchungshinweise stehen im [Nachtzüge Europa 2026 Guide](/blog/nachtzuege-europa-2026).
+**Nachtzüge** lohnen sich für längere Strecken. Du sparst eine Hotelübernachtung und bist morgens angekommen. Die Route Krakau nach Wien oder Budapest nach Belgrad ist realisierbar. Alle aktuellen Strecken und Buchungshinweise stehen im [Nachtzüge Europa 2026 Guide](/blog/nachtzuege-europa-2026/).
 
 **Billigflieger** wie Ryanair und Wizz Air verbinden viele osteuropäische Städte direkt mit Westeuropa. Berlin nach Riga oder Wien nach Sofia: oft unter 40 Euro, wenn du früh buchst. Der Trick ist Flexibilität bei den Daten. Wer 3 Tage früher oder später fährt, zahlt manchmal ein Drittel des ursprünglichen Preises.
 
@@ -86,6 +86,6 @@ Flüge und Hotels für Frühjahr und Herbst am besten 6 bis 10 Wochen im Voraus 
 
 ## Mehr lesen
 
-- [Günstig fliegen: aktuelle Tipps für 2026](/blog/guenstig-fliegen-tipps)
-- [Nachtzüge in Europa 2026: Routen, Preise, Buchung](/blog/nachtzuege-europa-2026)
-- [Wo übernachten in Budapest](/blog/wo-uebernachten-budapest)
+- [Günstig fliegen: aktuelle Tipps für 2026](/blog/guenstig-fliegen-tipps/)
+- [Nachtzüge in Europa 2026: Routen, Preise, Buchung](/blog/nachtzuege-europa-2026/)
+- [Wo übernachten in Budapest](/blog/wo-uebernachten-budapest/)

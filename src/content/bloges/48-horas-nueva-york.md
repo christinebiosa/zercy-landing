@@ -65,7 +65,7 @@ Cena: Hell's Kitchen, al oeste de Times Square. Es el barrio con mejor relación
 
 Los hoteles en Manhattan son caros. Entre 150 y 300 dólares por noche por una habitación decente en Midtown es lo normal. Las opciones más económicas están en Midtown West (Hell's Kitchen) y en Brooklyn, especialmente en Williamsburg y Downtown Brooklyn.
 
-Brooklyn tiene ventajas claras: más tranquilo, algo más barato, y a 20 minutos en metro de Midtown. Si es tu primera vez y quieres la experiencia clásica de Manhattan, reserva en la isla. Si no, Brooklyn es una alternativa sólida. Consulta nuestra guía completa de [dónde alojarse en Nueva York](/es/blog/donde-alojarse-nueva-york) para ver opciones por barrio y presupuesto.
+Brooklyn tiene ventajas claras: más tranquilo, algo más barato, y a 20 minutos en metro de Midtown. Si es tu primera vez y quieres la experiencia clásica de Manhattan, reserva en la isla. Si no, Brooklyn es una alternativa sólida. Consulta nuestra guía completa de [dónde alojarse en Nueva York](/es/blog/donde-alojarse-nueva-york/) para ver opciones por barrio y presupuesto.
 
 Para comparar precios entre Brooklyn y Midtown, el filtro de barrios de Booking.com es la herramienta más útil.
 
@@ -81,7 +81,7 @@ Para comparar precios entre Brooklyn y Midtown, el filtro de barrios de Booking.
 
 Las trampas más caras: el taxi o Uber de día en Manhattan (hay atascos, es caro y más lento que el metro), el One World Observatory ($40 por 30 minutos, mientras que el Top of the Rock o el Summit One Vanderbilt ofrecen vistas comparables a mejor precio), y planear la visita a la Estatua de la Libertad cuando solo tienes dos días. El ferry y la visita se llevan fácilmente medio día.
 
-Para volar más barato, consulta nuestras [guías de Google Flights 2026](/es/blog/google-flights-trucos-2026) y los [trucos de aeropuerto](/es/blog/trucos-aeropuerto) antes de reservar.
+Para volar más barato, consulta nuestras [guías de Google Flights 2026](/es/blog/google-flights-trucos-2026/) y los [trucos de aeropuerto](/es/blog/trucos-aeropuerto/) antes de reservar.
 
 ## ¿Cuándo es mejor visitar Nueva York para un fin de semana corto?
 
@@ -118,6 +118,6 @@ El metro circula las 24 horas del día, los 7 días de la semana. Un viaje cuest
 ---
 
 **Leer más:**
-- [Dónde alojarse en Nueva York: los mejores barrios por presupuesto](/es/blog/donde-alojarse-nueva-york)
-- [Trucos de aeropuerto para viajeros inteligentes](/es/blog/trucos-aeropuerto)
-- [Google Flights: trucos y consejos 2026](/es/blog/google-flights-trucos-2026)
+- [Dónde alojarse en Nueva York: los mejores barrios por presupuesto](/es/blog/donde-alojarse-nueva-york/)
+- [Trucos de aeropuerto para viajeros inteligentes](/es/blog/trucos-aeropuerto/)
+- [Google Flights: trucos y consejos 2026](/es/blog/google-flights-trucos-2026/)

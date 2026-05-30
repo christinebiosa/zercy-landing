@@ -21,7 +21,7 @@ Nueva York también es una capital cultural de verdad. El MoMA es uno de los mus
 
 La gastronomía no tiene igual. Chinatown, Little Italy, Jackson Heights, Williamsburg: comes la cocina del mundo en una sola ciudad. La web de [NYC Tourism & Conventions](https://www.nycgo.com) tiene eventos actuales y atracciones gratuitas por barrio.
 
-Para elegir dónde alojarte: [Dónde alojarse en Nueva York](/es/blog/donde-alojarse-nueva-york) te explica los mejores barrios con rangos de precios reales.
+Para elegir dónde alojarte: [Dónde alojarse en Nueva York](/es/blog/donde-alojarse-nueva-york/) te explica los mejores barrios con rangos de precios reales.
 
 ## ¿Cuándo tiene más sentido Los Ángeles?
 
@@ -31,9 +31,9 @@ A cambio, obtienes playa, sol y otro ritmo. Santa Mónica, Venice Beach, Malibú
 
 El clima es sencillamente mejor. Unos 300 días de sol al año, temperaturas agradables durante todo el año. Nueva York tiene bajo cero en enero y calor húmedo en agosto. Los Ángeles se mantiene agradable casi siempre.
 
-LA también es el punto de partida ideal para un road trip. La Pacific Coast Highway (PCH) hacia el norte, camino de San Francisco, es una de las carreteras costeras más espectaculares del mundo. Si planeas seguir hacia el norte, LA es el arranque perfecto. Nuestra [ruta de road trip por la costa oeste de EE.UU.](/es/blog/costa-oeste-usa-roadtrip) tiene todos los detalles.
+LA también es el punto de partida ideal para un road trip. La Pacific Coast Highway (PCH) hacia el norte, camino de San Francisco, es una de las carreteras costeras más espectaculares del mundo. Si planeas seguir hacia el norte, LA es el arranque perfecto. Nuestra [ruta de road trip por la costa oeste de EE.UU.](/es/blog/costa-oeste-usa-roadtrip/) tiene todos los detalles.
 
-Para elegir barrio en LA: [Dónde alojarse en Los Ángeles](/es/blog/donde-alojarse-los-angeles) te explica las diferencias entre Santa Mónica, West Hollywood y el Downtown.
+Para elegir barrio en LA: [Dónde alojarse en Los Ángeles](/es/blog/donde-alojarse-los-angeles/) te explica las diferencias entre Santa Mónica, West Hollywood y el Downtown.
 
 La web oficial [Discover Los Angeles](https://www.discoverlosangeles.com) tiene buenas guías de barrio y eventos actualizados.
 
@@ -63,7 +63,7 @@ Las dos ciudades son caras. La diferencia entre NYC y LA es menor de lo que much
 
 El viaje clásico: llegas a Nueva York, una semana en la costa este, vuelo doméstico a LA. Los vuelos entre NYC y LAX cuestan entre 100 y 300 euros. Así tienes las dos ciudades en un viaje. Es la combinación que deja más satisfechos a los que visitan EE.UU. por primera vez.
 
-Para un itinerario completo de Nueva York: [48 horas en Nueva York](/es/blog/48-horas-nueva-york) te lleva paso a paso.
+Para un itinerario completo de Nueva York: [48 horas en Nueva York](/es/blog/48-horas-nueva-york/) te lleva paso a paso.
 
 ---
 
@@ -90,6 +90,6 @@ Nueva York es mejor de septiembre a noviembre: menos calor, colores otoñales pr
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Nueva York](/es/blog/donde-alojarse-nueva-york)
-- [Road trip por la costa oeste de EE.UU.](/es/blog/costa-oeste-usa-roadtrip)
-- [48 horas en Nueva York](/es/blog/48-horas-nueva-york)
+- [Dónde alojarse en Nueva York](/es/blog/donde-alojarse-nueva-york/)
+- [Road trip por la costa oeste de EE.UU.](/es/blog/costa-oeste-usa-roadtrip/)
+- [48 horas en Nueva York](/es/blog/48-horas-nueva-york/)

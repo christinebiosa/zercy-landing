@@ -75,7 +75,7 @@ Lindos liegt 54 Kilometer südlich von Rhodos-Stadt. Weiße Häuser, enge Gassen
 
 Für Rhodos: [Booking.com](https://www.booking.com) für beste Übersicht. Beachte den Storno-Unterschied zwischen all-inclusive-Resorts (oft weniger flexibel) und Boutique-Hotels in der Altstadt oder Lindos (meist kostenloses Storno).
 
-Schau auch: [Wo übernachten in Athen](/blog/wo-uebernachten-athen) für deinen Griechenland-Aufenthalt. Und [Schönste Strände Europas](/blog/schoenste-straende-europa-2026) für mehr Inseln-Inspiration.
+Schau auch: [Wo übernachten in Athen](/blog/wo-uebernachten-athen/) für deinen Griechenland-Aufenthalt. Und [Schönste Strände Europas](/blog/schoenste-straende-europa-2026/) für mehr Inseln-Inspiration.
 
 ---
 
@@ -103,6 +103,6 @@ Der Zutritt zur Altstadt ist kostenlos. Der Palast der Großmeister kostet ca. 8
 
 ## Mehr lesen
 
-- [Wo übernachten in Athen: Stadtteile und Hotels](/blog/wo-uebernachten-athen)
-- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026)
-- [Beste Frühlingsziele in Europa](/blog/beste-fruehlingsziele-europa)
+- [Wo übernachten in Athen: Stadtteile und Hotels](/blog/wo-uebernachten-athen/)
+- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026/)
+- [Beste Frühlingsziele in Europa](/blog/beste-fruehlingsziele-europa/)

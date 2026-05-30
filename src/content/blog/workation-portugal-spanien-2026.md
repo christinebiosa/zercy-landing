@@ -62,7 +62,7 @@ Apartments über Airbnb oder Uniplaces für 1-3 Monate: Immer frühzeitig suchen
 
 Das hängt von deiner Staatsbürgerschaft ab.
 
-**EU-Bürger:** Kein Visum nötig. Du kannst unbegrenzt im EU-Ausland leben und arbeiten. Meldepflicht nach 90 Tagen (gilt theoretisch, wird selten kontrolliert). Sozialversicherung via A1-Bescheinigung klären, falls du länger als 4 Wochen bleibst. Lies dazu auch unseren [Workation Steuern Guide](/blog/workation-steuern-2026).
+**EU-Bürger:** Kein Visum nötig. Du kannst unbegrenzt im EU-Ausland leben und arbeiten. Meldepflicht nach 90 Tagen (gilt theoretisch, wird selten kontrolliert). Sozialversicherung via A1-Bescheinigung klären, falls du länger als 4 Wochen bleibst. Lies dazu auch unseren [Workation Steuern Guide](/blog/workation-steuern-2026/).
 
 **Nicht-EU-Bürger, die in Portugal arbeiten wollen:** Das D8-Visum (Portugal Digital Nomad Visa) erfordert ein Mindesteinkommen von 3.280 Euro pro Monat (Stand 2026). Beantragung via portugiesische Botschaft, dauert 4-8 Wochen. Für Freiberufler und Remote-Angestellte geeignet.
 
@@ -82,7 +82,7 @@ Nicht jeder Monat ist gleich gut.
 
 **Dezember bis März:** Funktioniert gut. Günstigste Apartment-Preise. Málaga und Valencia haben dann oft noch 15-20 Grad. Porto und Lissabon können bewölkt und regnerisch sein, aber es ist kein echtes Problem für die Arbeit.
 
-Schau dir unsere [Wo übernachten in Lissabon](/blog/wo-uebernachten-lissabon) Übersicht an, wenn du dein Quartier im Detail planst. Für alle anderen Fragen rund ums [Digital Nomad Visum](/blog/digital-nomad-visum-laender-2026): den vollständigen Ländervergleich findest du dort.
+Schau dir unsere [Wo übernachten in Lissabon](/blog/wo-uebernachten-lissabon/) Übersicht an, wenn du dein Quartier im Detail planst. Für alle anderen Fragen rund ums [Digital Nomad Visum](/blog/digital-nomad-visum-laender-2026/): den vollständigen Ländervergleich findest du dort.
 
 ---
 
@@ -109,6 +109,6 @@ Ein fester Platz kostet in beiden Städten zwischen 150 und 250 Euro pro Monat. 
 ---
 
 **Mehr lesen:**
-- [Digital Nomad Visum: Die besten Länder 2026](/blog/digital-nomad-visum-laender-2026)
-- [Workation und Steuern: Was du wirklich wissen musst](/blog/workation-steuern-2026)
-- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon)
+- [Digital Nomad Visum: Die besten Länder 2026](/blog/digital-nomad-visum-laender-2026/)
+- [Workation und Steuern: Was du wirklich wissen musst](/blog/workation-steuern-2026/)
+- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon/)

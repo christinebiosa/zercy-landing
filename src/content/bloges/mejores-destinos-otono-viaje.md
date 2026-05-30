@@ -51,7 +51,7 @@ Las reservas de otoño funcionan de manera diferente a las del verano.
 - **Reserva anticipada (más de 6 meses):** Imprescindible para el follaje otoñal de Japón, las rutas italianas populares, los agriturismo de la Toscana.
 - **Configurar alertas de precio:** Skyscanner y Google Flights permiten alertas de precio. Configúralas para destinos de otoño en julio y reserva cuando bajen los precios.
 
-Más estrategias en nuestra [guía sobre cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos).
+Más estrategias en nuestra [guía sobre cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/).
 
 ---
 
@@ -78,6 +78,6 @@ Los viajeros solos son los que más se benefician del otoño: los precios de hab
 ---
 
 **Más para leer:**
-- [Islas griegas comparativa: Santorini, Mykonos, Creta o Rodas](/es/blog/islas-griegas-comparativa)
-- [Riads de Marruecos: guía completa](/es/blog/riads-marruecos-guia)
-- [Joyas ocultas de Europa: lugares que aún no conoce todo el mundo](/es/blog/joyas-ocultas-europa)
+- [Islas griegas comparativa: Santorini, Mykonos, Creta o Rodas](/es/blog/islas-griegas-comparativa/)
+- [Riads de Marruecos: guía completa](/es/blog/riads-marruecos-guia/)
+- [Joyas ocultas de Europa: lugares que aún no conoce todo el mundo](/es/blog/joyas-ocultas-europa/)

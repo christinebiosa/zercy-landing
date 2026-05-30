@@ -69,7 +69,7 @@ Providencia ist das Äquivalent von Polancos Kleinem Bruder: ruhigere Straßen, 
 
 **Top-Picks:** Hotel Presidente InterContinental Guadalajara (5-Sterne, Business-Center, großer Pool), Demetria Hotel Guadalajara (Boutique mit Spa), Camino Real Guadalajara (Klassiker mit Garten).
 
-Zum Vergleich: In unserem [Wo übernachten in Mexico City Guide](/blog/wo-uebernachten-mexico-city) kosten ähnlich gehobene Stadtteile wie Polanco deutlich mehr. Guadalajara ist 30-40 Prozent günstiger.
+Zum Vergleich: In unserem [Wo übernachten in Mexico City Guide](/blog/wo-uebernachten-mexico-city/) kosten ähnlich gehobene Stadtteile wie Polanco deutlich mehr. Guadalajara ist 30-40 Prozent günstiger.
 
 ## Zapopan: Guter Wert außerhalb des Trubels
 
@@ -81,7 +81,7 @@ Zapopan ist eine separate Gemeinde westlich von Guadalajara, faktisch aber Teil 
 
 **Top-Picks:** Fiesta Inn Zapopan (verlässlich, Pool), GHL Hotel Capital Guadalajara (modern, Kongress-Nähe), Hotel Cosmopolitan Guadalajara (Mittelklasse, zentrale Lage in Zapopan).
 
-Hast du Mietwagen geplant? In unserem [Mietwagen-Checkliste Guide](/blog/mietwagen-check) erfährst du, worauf du bei mexikanischen Mietwagen besonders achten musst.
+Hast du Mietwagen geplant? In unserem [Mietwagen-Checkliste Guide](/blog/mietwagen-check/) erfährst du, worauf du bei mexikanischen Mietwagen besonders achten musst.
 
 ## Tlaquepaque: Das Kunst-Dorf
 
@@ -130,6 +130,6 @@ Lago de Chapala (Mexikos größter Binnensee, 40 km südlich) ist ein Tagesausfl
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Mexico City: 5 Stadtteile](/blog/wo-uebernachten-mexico-city)
-- [Wo übernachten in Oaxaca: die besten Stadtteile](/blog/wo-uebernachten-oaxaca)
-- [Wo übernachten in Cancún: Hotelzone und mehr](/blog/wo-uebernachten-cancun)
+- [Wo übernachten in Mexico City: 5 Stadtteile](/blog/wo-uebernachten-mexico-city/)
+- [Wo übernachten in Oaxaca: die besten Stadtteile](/blog/wo-uebernachten-oaxaca/)
+- [Wo übernachten in Cancún: Hotelzone und mehr](/blog/wo-uebernachten-cancun/)

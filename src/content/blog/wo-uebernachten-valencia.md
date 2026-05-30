@@ -96,6 +96,6 @@ Die Stadt der Künste und Wissenschaften (Architekt: Santiago Calatrava, 1998-20
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Barcelona: Gothic Quarter oder Eixample?](/blog/wo-uebernachten-barcelona)
-- [Wo übernachten in Madrid: Chueca oder Malasaña?](/blog/wo-uebernachten-madrid)
-- [Wo übernachten in Sevilla: Triana oder Altstadt?](/blog/wo-uebernachten-sevilla)
+- [Wo übernachten in Barcelona: Gothic Quarter oder Eixample?](/blog/wo-uebernachten-barcelona/)
+- [Wo übernachten in Madrid: Chueca oder Malasaña?](/blog/wo-uebernachten-madrid/)
+- [Wo übernachten in Sevilla: Triana oder Altstadt?](/blog/wo-uebernachten-sevilla/)

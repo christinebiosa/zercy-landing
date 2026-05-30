@@ -58,7 +58,7 @@ Hoteles en el Jordaan: de 120 a 250 euros. Mejor ambiente que el centro a precio
 - **Conscious Hotel Westerpark** (sostenible, excelente diseño, aprox. 150 €)
 - **Hotel V Prinseneiland** (pequeño boutique en canal tranquilo, aprox. 180 €)
 
-Para otras ciudades con canales y ambiente europeo, consulta también [dónde alojarse en París](/es/blog/donde-alojarse-paris) y [dónde alojarse en Brujas] *(próximamente)*.
+Para otras ciudades con canales y ambiente europeo, consulta también [dónde alojarse en París](/es/blog/donde-alojarse-paris/) y [dónde alojarse en Brujas] *(próximamente)*.
 
 ## De Pijp: El barrio más joven y multicultural
 
@@ -99,6 +99,6 @@ La bicicleta es el medio más eficiente y el más utilizado por los residentes. 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en París: Marais, Saint-Germain o Montmartre](/es/blog/donde-alojarse-paris)
-- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest)
+- [Dónde alojarse en París: Marais, Saint-Germain o Montmartre](/es/blog/donde-alojarse-paris/)
+- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest/)

@@ -26,7 +26,7 @@ Y el trekking es asequible. Muchas rutas cuestan 25-50 EUR por día todo incluid
 
 El camino de peregrinación más famoso del mundo. A través del norte de España hasta la Catedral de Santiago de Compostela. Infraestructura perfecta: albergues cada 10-20 km, comida por 10-15 EUR, flechas amarillas que nunca te pierden. Sin tienda, sin mochila pesada. El factor social: cada día conocés gente de todo el mundo. Ideal para quienes prueban el trekking largo por primera vez.
 
-Costo: 25-45 EUR por día. Si querés explorar la ciudad al final del camino, nuestra [guía de Santiago de Compostela](/es/blog/santiago-de-compostela) te da todos los detalles.
+Costo: 25-45 EUR por día. Si querés explorar la ciudad al final del camino, nuestra [guía de Santiago de Compostela](/es/blog/santiago-de-compostela/) te da todos los detalles.
 
 ### 2. Circuito W de Torres del Paine (Chile/Patagonia)
 
@@ -48,7 +48,7 @@ Costo: 4.000-6.000 USD para un thru-hike completo (5 meses).
 
 **Distancia:** 43 km | **Duración:** 4 días | **Dificultad:** Media-Exigente | **Mejor época:** Mayo-septiembre
 
-El famoso camino corto que termina directo en la Puerta del Sol de Machu Picchu. Permiso obligatorio: solo 500 permisos por día, a menudo agotados meses antes. Reserva exclusivamente a través de agencias habilitadas. No se permite caminata independiente. Altitud: hasta 4.215 m en el Abra de la Mujer Muerta, aclimatación previa en Cusco es imprescindible. Nuestra [guía de Cusco](/es/blog/donde-alojarse-cusco) te ayuda a planificar tu base.
+El famoso camino corto que termina directo en la Puerta del Sol de Machu Picchu. Permiso obligatorio: solo 500 permisos por día, a menudo agotados meses antes. Reserva exclusivamente a través de agencias habilitadas. No se permite caminata independiente. Altitud: hasta 4.215 m en el Abra de la Mujer Muerta, aclimatación previa en Cusco es imprescindible. Nuestra [guía de Cusco](/es/blog/donde-alojarse-cusco/) te ayuda a planificar tu base.
 
 Costo: 600-1.200 USD por el tour de 4 días con agencia.
 
@@ -125,6 +125,6 @@ La mayoría de los riesgos son evitables. Mal de altura en el EBC y el Kilimanja
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Lima: Las mejores zonas](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Cusco: Guía por barrios 2026](/es/blog/donde-alojarse-cusco)
-- [Dónde alojarse en Buenos Aires: Los 5 mejores barrios](/es/blog/donde-alojarse-buenos-aires)
+- [Dónde alojarse en Lima: Las mejores zonas](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Cusco: Guía por barrios 2026](/es/blog/donde-alojarse-cusco/)
+- [Dónde alojarse en Buenos Aires: Los 5 mejores barrios](/es/blog/donde-alojarse-buenos-aires/)

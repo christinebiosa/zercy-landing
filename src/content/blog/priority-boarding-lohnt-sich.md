@@ -52,7 +52,7 @@ Die Preise variieren stark und werden oft dynamisch gesetzt:
 
 Das ist wichtig zu verstehen: Bei Ryanair und Wizz Air kaufst du mit Priority oft nicht nur das frühere Einsteigen, sondern das Recht, überhaupt ein größeres Handgepäck mitzunehmen. Das ändert die Rechnung erheblich.
 
-Wenn du zum Thema Handgepäck noch unsicher bist, lies unseren Guide zum [Reisen nur mit Handgepäck](/blog/nur-handgepaeck). Und wenn du grundsätzlich günstiger fliegen möchtest, helfen unsere [Tipps zum günstigen Fliegen](/blog/guenstig-fliegen-tipps) weiter.
+Wenn du zum Thema Handgepäck noch unsicher bist, lies unseren Guide zum [Reisen nur mit Handgepäck](/blog/nur-handgepaeck/). Und wenn du grundsätzlich günstiger fliegen möchtest, helfen unsere [Tipps zum günstigen Fliegen](/blog/guenstig-fliegen-tipps/) weiter.
 
 ## Gibt es eine kostenlose Alternative?
 
@@ -64,7 +64,7 @@ Das kostet 0 Euro.
 
 Diese Strategie funktioniert am besten auf mittelgroßen Flügen und wenn du nur ein normales Handgepäckstück hast. Auf extrem vollen Low-Cost-Flügen mit hohem Handgepäck-Aufkommen ist sie weniger zuverlässig.
 
-Mehr solche kleinen Tricks gibt es in unserem Artikel über [Airport-Hacks](/blog/airport-hacks).
+Mehr solche kleinen Tricks gibt es in unserem Artikel über [Airport-Hacks](/blog/airport-hacks/).
 
 ## Was sagen die Zahlen zum Boarding-Zeitvorteil?
 
@@ -72,7 +72,7 @@ Studien zum Boarding-Prozess zeigen, dass Priority-Passagiere im Schnitt 5–8 M
 
 Der einzige echte Zeitvorteil entsteht am Ende des Fluges, nicht beim Einsteigen. Wer sein Gepäck nah am eigenen Sitz hat, kommt beim Aussteigen schneller raus. Bei Umstiegsflügen mit knapper Zeit kann das relevant sein.
 
-Falls du flexibel bist, wann du fliegst, hilft unser [Guide zum besten Buchungszeitpunkt](/blog/wann-fluege-buchen). Und wer ein Open-Jaw-Ticket bucht und mehrere Flüge plant, findet im [Artikel über flexible Dates](/blog/flexible-dates-flug-hack) hilfreiche Tricks.
+Falls du flexibel bist, wann du fliegst, hilft unser [Guide zum besten Buchungszeitpunkt](/blog/wann-fluege-buchen/). Und wer ein Open-Jaw-Ticket bucht und mehrere Flüge plant, findet im [Artikel über flexible Dates](/blog/flexible-dates-flug-hack/) hilfreiche Tricks.
 
 ## Fazit: Wann schlägt der Vorteil die Kosten?
 
@@ -102,6 +102,6 @@ Weil auf einigen Strecken das Handgepäckvolumen so hoch ist, dass Trolleys am G
 
 ## Mehr lesen
 
-- [Airport-Hacks: Worauf es beim Check-in wirklich ankommt](/blog/airport-hacks)
-- [Reisen nur mit Handgepäck: Der vollständige Guide](/blog/nur-handgepaeck)
-- [Flexible Dates: Wie du durch Terminflexibilität günstiger fliegst](/blog/flexible-dates-flug-hack)
+- [Airport-Hacks: Worauf es beim Check-in wirklich ankommt](/blog/airport-hacks/)
+- [Reisen nur mit Handgepäck: Der vollständige Guide](/blog/nur-handgepaeck/)
+- [Flexible Dates: Wie du durch Terminflexibilität günstiger fliegst](/blog/flexible-dates-flug-hack/)

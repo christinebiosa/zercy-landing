@@ -108,4 +108,4 @@ Two JRP versions exist: Ordinary (standard class) and Green (first class equival
 
 Yes. Using both together is the standard strategy. The JRP covers all JR long-distance trains and Shinkansen. The Suica card handles the subway, private railways, and city buses. Suica also works as a contactless payment card at convenience stores, vending machines, and many restaurants.
 
-**Read more:** [48 Hours in Kyoto: What Really Stays With You](/en/blog/48-hours-kyoto) · [Japanese Ryokan: What to Expect](/en/blog/japanese-ryokan-guide) · [Where to Stay in Tokyo: What Actually Makes Sense](/en/blog/where-to-stay-tokyo)
+**Read more:** [48 Hours in Kyoto: What Really Stays With You](/en/blog/48-hours-kyoto/) · [Japanese Ryokan: What to Expect](/en/blog/japanese-ryokan-guide/) · [Where to Stay in Tokyo: What Actually Makes Sense](/en/blog/where-to-stay-tokyo/)

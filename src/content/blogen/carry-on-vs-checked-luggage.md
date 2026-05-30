@@ -28,7 +28,7 @@ The time saving is real and consistent. Traveling with carry-on only saves 20 to
 
 On short-haul routes, this is particularly significant. For a weekend trip to Lisbon or Barcelona, arriving at the hotel an hour earlier genuinely changes the day.
 
-For connecting flights with tight layovers, carry-on only is a risk reducer. Your bag is with you. It cannot be routed to the wrong destination. If you're building a multi-stop itinerary, check our guide on [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack) for more ways to structure connections efficiently.
+For connecting flights with tight layovers, carry-on only is a risk reducer. Your bag is with you. It cannot be routed to the wrong destination. If you're building a multi-stop itinerary, check our guide on [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack/) for more ways to structure connections efficiently.
 
 The European Union Aviation Safety Agency (EASA) has published guidelines on cabin baggage standards, but individual airline policies vary significantly, so always check the specific airline's size and weight limits before packing.
 
@@ -38,17 +38,17 @@ Not extremely likely, but not rare either. Globally, millions of bags are delaye
 
 The practical rule: anything essential goes in your carry-on. Medications, important documents, valuables, anything you absolutely need on day one of the trip. Everything in the hold should be replaceable or non-urgent.
 
-If you're checking a bag, travel insurance with baggage coverage is worth having. Our article on [travel insurance: is it worth it?](/en/blog/travel-insurance-worth-it-2026) breaks down what's actually useful versus what's unnecessary coverage.
+If you're checking a bag, travel insurance with baggage coverage is worth having. Our article on [travel insurance: is it worth it?](/en/blog/travel-insurance-worth-it-2026/) breaks down what's actually useful versus what's unnecessary coverage.
 
 ## Which Trips Actually Require a Full Suitcase?
 
-Short trips up to four nights: carry-on almost always works. With the right packing approach, a 10 kg backpack holds what you need. Our [capsule wardrobe for carry-on](/en/blog/capsule-wardrobe-carry-on) guide shows exactly what to include and what to leave behind.
+Short trips up to four nights: carry-on almost always works. With the right packing approach, a 10 kg backpack holds what you need. Our [capsule wardrobe for carry-on](/en/blog/capsule-wardrobe-carry-on/) guide shows exactly what to include and what to leave behind.
 
 Family holidays with young children: a checked bag often makes sense. Children's supplies, larger sunscreen bottles, toys, and extra clothing for weather changes add up quickly. One large checked bag is easier than managing three overstuffed small bags through the airport.
 
 Beach or outdoor holidays over a week: checked luggage is often practical. Multiple swimsuits, wetsuit, hiking boots, rain gear, a week of clothing. These trips genuinely use the space.
 
-Business travel for two to three nights: carry-on, always. A rolling cabin bag fits a few days of work clothes and everything you need for short trips. If you travel for business regularly, getting carry-on packing right is one of the highest-return habits you can build. More on this in our [carry-on only](/en/blog/carry-on-only) guide.
+Business travel for two to three nights: carry-on, always. A rolling cabin bag fits a few days of work clothes and everything you need for short trips. If you travel for business regularly, getting carry-on packing right is one of the highest-return habits you can build. More on this in our [carry-on only](/en/blog/carry-on-only/) guide.
 
 The general rule of thumb: if you're away for fewer than five nights and have no specialty gear, carry-on is almost always the smarter choice. For longer trips, do the quick math. Sometimes the bag fee is worth it for the comfort of extra space.
 
@@ -75,6 +75,6 @@ Lufthansa Economy Classic and most full-service carrier standard fares include o
 ---
 
 **Read more:**
-- [Carry-On Only: Packing Guide](/en/blog/carry-on-only)
-- [Capsule Wardrobe for Carry-On](/en/blog/capsule-wardrobe-carry-on)
-- [Carry-On Liquids Rules 2026](/en/blog/carry-on-liquids-rules-2026)
+- [Carry-On Only: Packing Guide](/en/blog/carry-on-only/)
+- [Capsule Wardrobe for Carry-On](/en/blog/capsule-wardrobe-carry-on/)
+- [Carry-On Liquids Rules 2026](/en/blog/carry-on-liquids-rules-2026/)

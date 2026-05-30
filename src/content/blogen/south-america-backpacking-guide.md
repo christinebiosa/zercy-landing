@@ -32,7 +32,7 @@ Two exceptions: **Chile and Argentina** are more expensive. Buenos Aires can be 
 
 **Cash is king in many countries.** ATMs can be scarce in smaller towns and often charge steep fees. A Wise card is worth getting before you leave. It converts at the real mid-market rate with no hidden margins. That said, always carry local currency when heading anywhere off the main tourist route.
 
-More on planning your travel finances: [Travel Savings and Budget Planning](/en/blog/travel-savings-budget-planning)
+More on planning your travel finances: [Travel Savings and Budget Planning](/en/blog/travel-savings-budget-planning/)
 
 ---
 
@@ -51,7 +51,7 @@ The classic route runs roughly like this:
 
 Budget flights within the continent are worth checking. Airlines like LATAM and Sky Airline run regular deals on key routes.
 
-Also worth reading: [Budget Travel in Central America](/en/blog/budget-travel-central-america) and the [Backpacking Beginners Guide](/en/blog/backpacking-beginners-guide)
+Also worth reading: [Budget Travel in Central America](/en/blog/budget-travel-central-america/) and the [Backpacking Beginners Guide](/en/blog/backpacking-beginners-guide/)
 
 ---
 
@@ -63,7 +63,7 @@ South America is massive, and the climate zones couldn't be more different.
 
 One thing to plan around: the Northern Hemisphere summer (June to August) coincides with rainy season in parts of the Amazon basin. If you're going into the jungle, that matters.
 
-For a broader look at staying safe across the region: [Latin America Safety Tips](/en/blog/latin-america-safety-tips)
+For a broader look at staying safe across the region: [Latin America Safety Tips](/en/blog/latin-america-safety-tips/)
 
 ---
 
@@ -105,6 +105,6 @@ Start building your plan: [zercy.app/logbook](https://www.zercy.app/logbook)
 
 ### Read more
 
-- [Latin America Safety Tips for Travelers](/en/blog/latin-america-safety-tips)
-- [Backpacking Beginners Guide: Everything You Need to Know](/en/blog/backpacking-beginners-guide)
-- [Travel Savings and Budget Planning Guide](/en/blog/travel-savings-budget-planning)
+- [Latin America Safety Tips for Travelers](/en/blog/latin-america-safety-tips/)
+- [Backpacking Beginners Guide: Everything You Need to Know](/en/blog/backpacking-beginners-guide/)
+- [Travel Savings and Budget Planning Guide](/en/blog/travel-savings-budget-planning/)

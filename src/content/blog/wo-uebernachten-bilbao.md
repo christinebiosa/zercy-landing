@@ -47,7 +47,7 @@ Das Ensanche ist Bilbaos bürgerliches Zentrum aus dem 19. Jahrhundert. Breite B
 
 **Top-Picks:** Hotel Miro Bilbao (Design-Boutique, Guggenheim-Blick), Barceló Bilbao Nervión (gut angebunden, solide Mittelklasse), Meliá Bilbao (Premium am Fluss).
 
-Lies auch unseren [Sevilla-Guide](/blog/wo-uebernachten-sevilla) für den südspanischen Kontrast.
+Lies auch unseren [Sevilla-Guide](/blog/wo-uebernachten-sevilla/) für den südspanischen Kontrast.
 
 ## Wann ist die beste Reisezeit für Bilbao?
 
@@ -128,6 +128,6 @@ Pintxos sind das baskische Gegenstück zur Tapas-Kultur, aber anders: kleine Hä
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Sevilla: Santa Cruz, Triana und mehr](/blog/wo-uebernachten-sevilla)
-- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona)
-- [Wo übernachten in Madrid: Welcher Stadtteil passt?](/blog/wo-uebernachten-madrid)
+- [Wo übernachten in Sevilla: Santa Cruz, Triana und mehr](/blog/wo-uebernachten-sevilla/)
+- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona/)
+- [Wo übernachten in Madrid: Welcher Stadtteil passt?](/blog/wo-uebernachten-madrid/)

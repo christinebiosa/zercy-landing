@@ -82,6 +82,6 @@ Las auroras son visibles en el norte de Escocia entre septiembre y marzo, cuando
 ---
 
 **Leer más:**
-- [Road trip por Marruecos: Marrakech al desierto](/es/blog/road-trip-marruecos)
-- [Interrail 2026: la guía completa para recorrer Europa en tren](/es/blog/guia-interrail-2026)
-- [48 horas en Estambul: el itinerario perfecto](/es/blog/48-horas-estambul)
+- [Road trip por Marruecos: Marrakech al desierto](/es/blog/road-trip-marruecos/)
+- [Interrail 2026: la guía completa para recorrer Europa en tren](/es/blog/guia-interrail-2026/)
+- [48 horas en Estambul: el itinerario perfecto](/es/blog/48-horas-estambul/)

@@ -65,7 +65,7 @@ North Hobart está a unos 2 kilómetros del centro. Diez minutos en taxi o Uber.
 
 **Mejores opciones:** Quest North Hobart (hotel estilo apartamento, cocina incluida, cerca de la calle de restaurantes), varios apartamentos boutique en Booking.com.
 
-Si combinas Hobart con un recorrido más amplio por Australia, nuestra [guía de ruta completa por Australia](/es/blog/australia-ruta-completa) tiene los itinerarios más útiles.
+Si combinas Hobart con un recorrido más amplio por Australia, nuestra [guía de ruta completa por Australia](/es/blog/australia-ruta-completa/) tiene los itinerarios más útiles.
 
 ## Sandy Bay: Tranquilidad junto al puerto deportivo
 
@@ -79,7 +79,7 @@ Para familias con niños o para quienes usan Hobart como base para excursiones h
 
 **Mejores opciones:** Wrest Point Hotel (el hotel grande más conocido de Hobart, vistas al puerto, casino), Sandy Bay Motor Inn (gama media fiable), apartamentos en Booking.com para familias que necesitan más espacio.
 
-Si Nueva Zelanda también está en tu itinerario, nuestra [guía de road trip por Nueva Zelanda](/es/blog/nueva-zelanda-road-trip-guia) complementa bien este viaje por el Pacífico sur.
+Si Nueva Zelanda también está en tu itinerario, nuestra [guía de road trip por Nueva Zelanda](/es/blog/nueva-zelanda-road-trip-guia/) complementa bien este viaje por el Pacífico sur.
 
 ## ¿Cuándo es la mejor época para visitar Hobart?
 
@@ -121,6 +121,6 @@ Dark Mofo es el festival cultural más inusual de Australia. Nació directamente
 
 ## Más artículos
 
-- [Australia: Ruta completa de road trip](/es/blog/australia-ruta-completa)
-- [Dónde alojarse en Brisbane](/es/blog/donde-alojarse-brisbane)
-- [¿Vale la pena el seguro de viaje en 2026?](/es/blog/seguro-viaje-vale-la-pena)
+- [Australia: Ruta completa de road trip](/es/blog/australia-ruta-completa/)
+- [Dónde alojarse en Brisbane](/es/blog/donde-alojarse-brisbane/)
+- [¿Vale la pena el seguro de viaje en 2026?](/es/blog/seguro-viaje-vale-la-pena/)

@@ -65,7 +65,7 @@ Drei Stadtteile machen für 48 Stunden wirklich Sinn.
 
 **Intendente** ist die günstigere Alternative. Das Viertel hat sich in den letzten Jahren stark verändert, ist jetzt gemischt und lebendig. Hotels kosten hier 80 bis 100 Euro statt 130 bis 150 Euro im Chiado.
 
-Unser Guide [Wo übernachten in Lissabon](/blog/wo-uebernachten-lissabon) zeigt dir alle Stadtteile mit konkreten Empfehlungen. Über [Booking.com](https://www.booking.com) findest du mehr als 1.000 Lissabon-Hotels mit kostenloser Stornierung.
+Unser Guide [Wo übernachten in Lissabon](/blog/wo-uebernachten-lissabon/) zeigt dir alle Stadtteile mit konkreten Empfehlungen. Über [Booking.com](https://www.booking.com) findest du mehr als 1.000 Lissabon-Hotels mit kostenloser Stornierung.
 
 ## Was kostet ein Lissabon-Wochenende?
 
@@ -89,7 +89,7 @@ Juli und August sind eine andere Sache. Die Stadt ist heiß, voll und teuer. Nic
 
 März kann noch frisch sein, aber die Stadt ist ruhig und die Preise sind niedrig. Wer Lissabon ohne Massen erleben will, bucht im März.
 
-Mehr über Lissabon abseits der Touristenpfade findest du in unserem [Lissabon Geheimtipps-Guide](/blog/lissabon-abseits-der-touristenpfade). Und wenn du über ein verlängertes Wochenende nachdenkst: [Porto](/blog/porto-die-unterschaetzte-schwester) liegt 3 Stunden entfernt und lohnt sich als Ergänzung.
+Mehr über Lissabon abseits der Touristenpfade findest du in unserem [Lissabon Geheimtipps-Guide](/blog/lissabon-abseits-der-touristenpfade/). Und wenn du über ein verlängertes Wochenende nachdenkst: [Porto](/blog/porto-die-unterschaetzte-schwester/) liegt 3 Stunden entfernt und lohnt sich als Ergänzung.
 
 ---
 
@@ -116,6 +116,6 @@ Plane 400 bis 600 Euro für zwei Personen, Flug und Hotel nicht eingerechnet. Da
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Lissabon: Die besten Stadtteile im Vergleich](/blog/wo-uebernachten-lissabon)
-- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade)
-- [Porto: Die unterschätzte Schwester](/blog/porto-die-unterschaetzte-schwester)
+- [Wo übernachten in Lissabon: Die besten Stadtteile im Vergleich](/blog/wo-uebernachten-lissabon/)
+- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/)
+- [Porto: Die unterschätzte Schwester](/blog/porto-die-unterschaetzte-schwester/)

@@ -28,7 +28,7 @@ Zermatt in Switzerland is the postcard resort: Matterhorn backdrop, car-free vil
 
 France has Les Trois Vallées, the world's largest interconnected ski area. Méribel, Courchevel, and Val Thorens are the three main resorts, with over 600 kilometers of marked runs. For skiers who want a week of new terrain every day without repetition, nothing in Europe competes. Chamonix is a different proposition: less beginner-friendly, more alpinist destination. Extreme terrain, iconic descents, legendary status. It attracts skiers who know exactly what they are looking for.
 
-For getting there cheaply, our article on [cheap flights tips](/en/blog/cheap-flights-tips) is relevant since direct flights close to ski resorts often carry a significant premium.
+For getting there cheaply, our article on [cheap flights tips](/en/blog/cheap-flights-tips/) is relevant since direct flights close to ski resorts often carry a significant premium.
 
 ## What About Italy and Eastern Europe?
 
@@ -76,6 +76,6 @@ For Christmas and New Year: six to eight months ahead. For January and February:
 
 More reading:
 
-- [Cheap Flights: Tips That Actually Work](/en/blog/cheap-flights-tips)
-- [When to Book Flights: The Best Timing](/en/blog/when-to-book-flights)
-- [Train Travel in Europe: Complete Guide](/en/blog/train-travel-europe)
+- [Cheap Flights: Tips That Actually Work](/en/blog/cheap-flights-tips/)
+- [When to Book Flights: The Best Timing](/en/blog/when-to-book-flights/)
+- [Train Travel in Europe: Complete Guide](/en/blog/train-travel-europe/)

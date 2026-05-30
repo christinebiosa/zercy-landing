@@ -34,7 +34,7 @@ Ha Long Bay belongs to a category of places where the word "place" feels inadequ
 
 Vietnam is the right country for motorcycle travelers. The Ho Chi Minh Road through the central highlands, the coastal road between Da Nang and Hoi An, the Hai Van Pass with its sea views. If you want to feel like you are crossing a country rather than visiting it, a motorbike through Vietnam delivers that completely. The official [Vietnam Tourism platform](https://vietnam.travel/) has solid regional breakdowns to help you plan a route.
 
-Cost is a clear Vietnam advantage. Budget travelers get through on 30 to 50 EUR per day, covering accommodation, food, and transport. Thailand runs 40 to 70 EUR daily depending on region and travel style. Over three weeks that difference adds up significantly. A bowl of pho in Hanoi for 1.50 EUR is not an exception. Our guide on [Southeast Asia budget travel](/en/blog/southeast-asia-budget-travel) has the full cost breakdown with real numbers.
+Cost is a clear Vietnam advantage. Budget travelers get through on 30 to 50 EUR per day, covering accommodation, food, and transport. Thailand runs 40 to 70 EUR daily depending on region and travel style. Over three weeks that difference adds up significantly. A bowl of pho in Hanoi for 1.50 EUR is not an exception. Our guide on [Southeast Asia budget travel](/en/blog/southeast-asia-budget-travel/) has the full cost breakdown with real numbers.
 
 ## Which travel season applies to which country?
 
@@ -42,15 +42,15 @@ Thailand has a clear dry season: November through March is ideal for the south a
 
 Vietnam is more complicated because of how long the country is. The north has its dry season from November through April, with mild temperatures in the winter months. Hoi An and the central coast follow a similar pattern. The south and Ho Chi Minh City are warm year-round, with the rainy season running from May through October. The Mekong Delta sees its heaviest rainfall from June through November. In short: somewhere in Vietnam always has good weather.
 
-If you are combining both countries, an open jaw flight is the most efficient option. Fly into Hanoi or Ho Chi Minh City, travel overland or by short domestic flights, then exit from Bangkok or Phuket. No backtracking to a hub airport. It saves time and often money. Our guide on [open jaw tickets and how much they save](/en/blog/open-jaw-tickets-travel-hack) explains the mechanics in detail.
+If you are combining both countries, an open jaw flight is the most efficient option. Fly into Hanoi or Ho Chi Minh City, travel overland or by short domestic flights, then exit from Bangkok or Phuket. No backtracking to a hub airport. It saves time and often money. Our guide on [open jaw tickets and how much they save](/en/blog/open-jaw-tickets-travel-hack/) explains the mechanics in detail.
 
 ## How do you find the cheapest flights to Southeast Asia?
 
 Both countries have solid connections from Europe, but price variation between booking windows is real. The typical range for a return flight to Bangkok or Ho Chi Minh City sits between 500 and 900 EUR depending on season and lead time.
 
-The flexible dates view in [Google Flights](https://flights.google.com/) is worth checking before you commit to specific dates. The price calendar shows at a glance which days in a given month are cheaper. A 30 to 50 EUR difference per ticket on a long-haul flight is the rule, not the exception. Our [Google Flights tips and tricks guide](/en/blog/google-flights-tips-tricks-2026) covers all the tools that actually move the price.
+The flexible dates view in [Google Flights](https://flights.google.com/) is worth checking before you commit to specific dates. The price calendar shows at a glance which days in a given month are cheaper. A 30 to 50 EUR difference per ticket on a long-haul flight is the rule, not the exception. Our [Google Flights tips and tricks guide](/en/blog/google-flights-tips-tricks-2026/) covers all the tools that actually move the price.
 
-The [flexible dates flight hack](/en/blog/flexible-dates-flight-hack) shows how small shifts in your travel dates often unlock significantly better fares without changing your plans in any meaningful way.
+The [flexible dates flight hack](/en/blog/flexible-dates-flight-hack/) shows how small shifts in your travel dates often unlock significantly better fares without changing your plans in any meaningful way.
 
 ---
 
@@ -78,6 +78,6 @@ Fly open jaw: into one country, out of the other. A classic route goes into Hano
 
 ## Read more
 
-- [Southeast Asia Budget Travel: What a Trip Actually Costs](/en/blog/southeast-asia-budget-travel)
-- [Open Jaw Tickets: The Travel Hack for Multi-Country Trips](/en/blog/open-jaw-tickets-travel-hack)
-- [Flexible Dates: How to Book Cheaper Flights](/en/blog/flexible-dates-flight-hack)
+- [Southeast Asia Budget Travel: What a Trip Actually Costs](/en/blog/southeast-asia-budget-travel/)
+- [Open Jaw Tickets: The Travel Hack for Multi-Country Trips](/en/blog/open-jaw-tickets-travel-hack/)
+- [Flexible Dates: How to Book Cheaper Flights](/en/blog/flexible-dates-flight-hack/)

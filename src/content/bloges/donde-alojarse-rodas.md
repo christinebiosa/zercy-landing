@@ -75,7 +75,7 @@ Lindos está a 54 kilómetros al sur de la Ciudad de Rodas. Casas blancas, calle
 
 Para Rodas: [Booking.com](https://www.booking.com) para la mejor visión de conjunto. Ten en cuenta la diferencia de cancelación entre los resorts todo incluido (a menudo menos flexibles) y los hoteles boutique en la Ciudad Antigua o Lindos (normalmente cancelación gratuita).
 
-Consulta también: [Dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas) y [Las mejores playas de Europa](/es/blog/mejores-playas-europa-2026).
+Consulta también: [Dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas/) y [Las mejores playas de Europa](/es/blog/mejores-playas-europa-2026/).
 
 ---
 
@@ -103,6 +103,6 @@ El acceso a la Ciudad Antigua es gratuito. El Palacio de los Grandes Maestros cu
 
 ## Más artículos
 
-- [Dónde alojarse en Atenas: Barrios y hoteles](/es/blog/donde-alojarse-atenas)
-- [Las mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026)
-- [Mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa)
+- [Dónde alojarse en Atenas: Barrios y hoteles](/es/blog/donde-alojarse-atenas/)
+- [Las mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)
+- [Mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa/)

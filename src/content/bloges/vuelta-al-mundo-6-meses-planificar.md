@@ -34,13 +34,13 @@ De seis a doce meses de antelación es lo realista. No porque reservar vuelos ll
 
 Para la mayoría, entregar la renuncia es el paso más difícil. Fija tu último día de trabajo al menos cuatro meses antes de salir. Así tendrás tiempo para cancelar contratos de alquiler, darte de baja en el padrón y gestionar tu seguro médico.
 
-Un consejo importante: consulta con tu aseguradora antes de irte. Quienes se dan de baja en su país de origen suelen perder la cobertura sanitaria obligatoria. Si estás valorando un [sabbatical en lugar de renunciar](/es/blog/sabbatical-guia-planificacion), las condiciones son diferentes y a menudo más favorables.
+Un consejo importante: consulta con tu aseguradora antes de irte. Quienes se dan de baja en su país de origen suelen perder la cobertura sanitaria obligatoria. Si estás valorando un [sabbatical en lugar de renunciar](/es/blog/sabbatical-guia-planificacion/), las condiciones son diferentes y a menudo más favorables.
 
 ## ¿Billete RTW o planear tu propia ruta?
 
 Los billetes round-the-world de alianzas como OneWorld o Star Alliance suenan atractivos. Un billete, el mundo entero. Pero en la práctica suelen ser más caros que reservar vuelos por separado y mucho menos flexibles.
 
-Consejo de Zercy: los [billetes open-jaw](/es/blog/open-jaw-tickets-truco-viaje) son casi siempre la opción más inteligente. Vuelas a una ciudad, viajas por tierra y regresas desde un lugar completamente diferente. Sin tener que volver al punto de origen.
+Consejo de Zercy: los [billetes open-jaw](/es/blog/open-jaw-tickets-truco-viaje/) son casi siempre la opción más inteligente. Vuelas a una ciudad, viajas por tierra y regresas desde un lugar completamente diferente. Sin tener que volver al punto de origen.
 
 Un ejemplo concreto: vuelo a Bangkok, recorres el sudeste asiático, regresas desde Bali. O llegas a Ciudad de México, atraviesas Centroamérica y vuelves desde Bogotá. Esta combinación casi siempre sale más barata que un paquete RTW.
 
@@ -59,9 +59,9 @@ La preparación digital es igual de importante:
 - Una tarjeta de crédito de viaje sin comisiones por cambio de divisa (Wise o Revolut funcionan bien)
 - Contactos de emergencia y números del seguro guardados sin conexión
 
-Sobre el seguro: no es el momento de ahorrar. Un seguro médico de viaje de larga duración es imprescindible. Proveedores como [WorldNomads](https://www.worldnomads.com) ofrecen pólizas diseñadas para viajes largos. Revisa siempre la letra pequeña sobre deportes de aventura: la escalada, el buceo y conducir motos suelen estar excluidos por defecto. Más detalles en nuestra guía sobre [seguro de viaje: qué vale realmente la pena](/es/blog/seguro-viaje-vale-la-pena).
+Sobre el seguro: no es el momento de ahorrar. Un seguro médico de viaje de larga duración es imprescindible. Proveedores como [WorldNomads](https://www.worldnomads.com) ofrecen pólizas diseñadas para viajes largos. Revisa siempre la letra pequeña sobre deportes de aventura: la escalada, el buceo y conducir motos suelen estar excluidos por defecto. Más detalles en nuestra guía sobre [seguro de viaje: qué vale realmente la pena](/es/blog/seguro-viaje-vale-la-pena/).
 
-Si tienes pensado trabajar en remoto mientras viajas, infórmate sobre los [mejores visados para nómadas digitales en 2026](/es/blog/visa-nomada-digital-paises-2026). Varios países ya ofrecen vías legales para quedarse y trabajar más allá del límite del visado de turista.
+Si tienes pensado trabajar en remoto mientras viajas, infórmate sobre los [mejores visados para nómadas digitales en 2026](/es/blog/visa-nomada-digital-paises-2026/). Varios países ya ofrecen vías legales para quedarse y trabajar más allá del límite del visado de turista.
 
 ## Deja que Zercy gestione la lógica de la ruta
 
@@ -89,6 +89,6 @@ Un seguro médico de larga duración es imprescindible. Proveedores como WorldNo
 
 ## Sigue leyendo
 
-- [Billetes open-jaw: el truco de viaje que casi nadie conoce](/es/blog/open-jaw-tickets-truco-viaje)
-- [Cómo planear un sabbatical: guía práctica](/es/blog/sabbatical-guia-planificacion)
-- [Mejores países con visado para nómadas digitales en 2026](/es/blog/visa-nomada-digital-paises-2026)
+- [Billetes open-jaw: el truco de viaje que casi nadie conoce](/es/blog/open-jaw-tickets-truco-viaje/)
+- [Cómo planear un sabbatical: guía práctica](/es/blog/sabbatical-guia-planificacion/)
+- [Mejores países con visado para nómadas digitales en 2026](/es/blog/visa-nomada-digital-paises-2026/)

@@ -94,6 +94,6 @@ Thao Dien in Distrikt 2 (über den Fluss) ist das ruhigste Expat-Gebiet. Distrik
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Hanoi: Old Quarter oder Ba Dinh?](/blog/wo-uebernachten-hanoi)
-- [Wo übernachten in Bangkok: Sukhumvit oder Silom?](/blog/wo-uebernachten-bangkok)
-- [Wo übernachten in Singapur: Marina Bay oder Chinatown?](/blog/wo-uebernachten-singapur)
+- [Wo übernachten in Hanoi: Old Quarter oder Ba Dinh?](/blog/wo-uebernachten-hanoi/)
+- [Wo übernachten in Bangkok: Sukhumvit oder Silom?](/blog/wo-uebernachten-bangkok/)
+- [Wo übernachten in Singapur: Marina Bay oder Chinatown?](/blog/wo-uebernachten-singapur/)

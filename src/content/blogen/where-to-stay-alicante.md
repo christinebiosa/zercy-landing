@@ -95,7 +95,7 @@ The Ensanche is Alicante's modern city center. Wide boulevards, shopping streets
 
 Price-wise, Alicante is significantly cheaper than other Spanish coastal cities. A good four-star hotel averages 100-150 EUR per night outside high season. In July and August prices rise by 50-70 percent. Book at least 6-8 weeks ahead for summer travel.
 
-The Ensanche and Centro also work well as a base for day trips: boat to Isla Tabarca (the only inhabited island off the Spanish coast), a visit to Elche (UNESCO palm city), or a quick train to [Valencia](/en/blog/where-to-stay-valencia) or [Palma de Mallorca](/en/blog/where-to-stay-palma-de-mallorca).
+The Ensanche and Centro also work well as a base for day trips: boat to Isla Tabarca (the only inhabited island off the Spanish coast), a visit to Elche (UNESCO palm city), or a quick train to [Valencia](/en/blog/where-to-stay-valencia/) or [Palma de Mallorca](/en/blog/where-to-stay-palma-de-mallorca/).
 
 ---
 
@@ -117,11 +117,11 @@ Tabarca is Spain's only inhabited island, just 22 km offshore. The ferry from Al
 
 ### How far is Alicante from Valencia and Barcelona?
 
-Valencia is 170 km north: about 1.5 hours by car, just under 2 hours by train. Barcelona is about 525 km away: roughly 2.5 hours by high-speed train. Alicante makes a solid stop on an east-coast Spain circuit alongside [Barcelona](/en/blog/where-to-stay-barcelona).
+Valencia is 170 km north: about 1.5 hours by car, just under 2 hours by train. Barcelona is about 525 km away: roughly 2.5 hours by high-speed train. Alicante makes a solid stop on an east-coast Spain circuit alongside [Barcelona](/en/blog/where-to-stay-barcelona/).
 
 ---
 
 **Read more:**
-- [Where to Stay in Valencia: Which Neighborhood Fits Your Visit?](/en/blog/where-to-stay-valencia)
-- [Where to Stay in Palma de Mallorca: Old Town or Beach Hotels?](/en/blog/where-to-stay-palma-de-mallorca)
-- [Where to Stay in Barcelona: Gothic Quarter or Eixample?](/en/blog/where-to-stay-barcelona)
+- [Where to Stay in Valencia: Which Neighborhood Fits Your Visit?](/en/blog/where-to-stay-valencia/)
+- [Where to Stay in Palma de Mallorca: Old Town or Beach Hotels?](/en/blog/where-to-stay-palma-de-mallorca/)
+- [Where to Stay in Barcelona: Gothic Quarter or Eixample?](/en/blog/where-to-stay-barcelona/)

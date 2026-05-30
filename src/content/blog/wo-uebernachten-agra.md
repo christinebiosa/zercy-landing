@@ -55,7 +55,7 @@ Civil Lines ist das gehobene Wohngebiet der Stadt. Hier wohnen Einheimische, kei
 
 **Preise:** Guesthouses 30-70 Euro, Boutique-Optionen 80-150 Euro.
 
-Lies auch unseren [Reiseguide für Delhi](/blog/wo-uebernachten-delhi) wenn du Agra als Teil einer Golden Triangle-Route planst.
+Lies auch unseren [Reiseguide für Delhi](/blog/wo-uebernachten-delhi/) wenn du Agra als Teil einer Golden Triangle-Route planst.
 
 ## Sadar Bazaar: Belebte Budget-Zone
 
@@ -115,6 +115,6 @@ Booking.com zeigt die breiteste Auswahl mit Karten-Filter nach Taj-Nähe. Sadar 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Delhi: Die 5 Stadtteile](/blog/wo-uebernachten-delhi)
-- [Wo übernachten in Jaipur: Die besten Viertel](/blog/wo-uebernachten-jaipur)
-- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights)
+- [Wo übernachten in Delhi: Die 5 Stadtteile](/blog/wo-uebernachten-delhi/)
+- [Wo übernachten in Jaipur: Die besten Viertel](/blog/wo-uebernachten-jaipur/)
+- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights/)

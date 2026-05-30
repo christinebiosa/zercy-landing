@@ -62,13 +62,13 @@ In drei Situationen.
 
 Die kurze Version: **Immer zuerst Consolidator checken**, dann den gefundenen Preis beim Anbieter direkt quer prüfen. Meistens bleibt der Consolidator günstiger. Wenn nicht, weißt du warum.
 
-Achte auch auf den Übergabe-Ort. Flughafen-Miete hat fast immer einen Aufschlag, oft 10 bis 25 Prozent. Eine Station 2 Kilometer vom Flughafen entfernt, erreichbar per Shuttle, spart oft 30 Prozent. Das zeigen dir die Consolidator-Plattformen direkt in der Suche. Mehr dazu im Artikel [Mietwagen-Fallen und versteckte Kosten](/blog/mietwagen-versteckte-kosten-vermeiden).
+Achte auch auf den Übergabe-Ort. Flughafen-Miete hat fast immer einen Aufschlag, oft 10 bis 25 Prozent. Eine Station 2 Kilometer vom Flughafen entfernt, erreichbar per Shuttle, spart oft 30 Prozent. Das zeigen dir die Consolidator-Plattformen direkt in der Suche. Mehr dazu im Artikel [Mietwagen-Fallen und versteckte Kosten](/blog/mietwagen-versteckte-kosten-vermeiden/).
 
 ---
 
-Zercy sucht für dich die besten Mietwagen-Angebote direkt während der Reiseplanung. Das [Zercy Logbook](/blog/zercy-logbook) speichert deine Buchung automatisch mit Datum und Ort, damit du den Überblick behältst.
+Zercy sucht für dich die besten Mietwagen-Angebote direkt während der Reiseplanung. Das [Zercy Logbook](/blog/zercy-logbook/) speichert deine Buchung automatisch mit Datum und Ort, damit du den Überblick behältst.
 
-**Mehr lesen:** [Mietwagen-Check: 10 Dinge prüfen bevor du losfährst](/blog/mietwagen-check) · [Mietwagen-Fallen: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden) · [Was ist Zercy?](/blog/was-ist-zercy)
+**Mehr lesen:** [Mietwagen-Check: 10 Dinge prüfen bevor du losfährst](/blog/mietwagen-check/) · [Mietwagen-Fallen: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden/) · [Was ist Zercy?](/blog/was-ist-zercy/)
 
 ## Häufige Fragen
 

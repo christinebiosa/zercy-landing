@@ -30,7 +30,7 @@ Upgrade chances vary significantly by time of day.
 
 **Check-in close to midnight:** Near-guaranteed upgrade if space remains. You get what's left.
 
-Also read our [Airport Hacks article](/en/blog/airport-hacks) if you're trying for upgrades at the gate.
+Also read our [Airport Hacks article](/en/blog/airport-hacks/) if you're trying for upgrades at the gate.
 
 ## What should you actually say at check-in?
 
@@ -93,6 +93,6 @@ Calmly and factually address it at the front desk. "The room is louder than expe
 ---
 
 **Read more:**
-- [Lounge Access Without a Business Ticket: Affordable Ways into the VIP Area](/en/blog/lounge-access-without-business-ticket)
-- [Luxury Travel on a Budget: 5-Star Experience at Lower Prices](/en/blog/luxury-travel-budget-tips)
-- [Booking.com Genius Program: Is It Actually Worth It?](/en/blog/booking-genius-program-worth-it)
+- [Lounge Access Without a Business Ticket: Affordable Ways into the VIP Area](/en/blog/lounge-access-without-business-ticket/)
+- [Luxury Travel on a Budget: 5-Star Experience at Lower Prices](/en/blog/luxury-travel-budget-tips/)
+- [Booking.com Genius Program: Is It Actually Worth It?](/en/blog/booking-genius-program-worth-it/)

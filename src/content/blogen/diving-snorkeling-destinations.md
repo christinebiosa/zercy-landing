@@ -29,7 +29,7 @@ The reef is suffering from coral bleaching due to climate change. Visiting now m
 
 The Red Sea is the most accessible diving sea in the world. Direct flights from across Europe, low cost of living, warm water (26-30 degrees), excellent visibility. Hurghada is the most visited resort hub. Marsa Alam is quieter and has the better underwater wildlife (mantas, dugongs, hammerheads).
 
-The shipwrecks in the Red Sea (SS Thistlegorm, SS Dunravn) are among the most famous dive sites anywhere. For anyone combining a dive trip with other African experiences, the Red Sea pairs well with an [East Africa safari](/en/blog/east-africa-safari-guide).
+The shipwrecks in the Red Sea (SS Thistlegorm, SS Dunravn) are among the most famous dive sites anywhere. For anyone combining a dive trip with other African experiences, the Red Sea pairs well with an [East Africa safari](/en/blog/east-africa-safari-guide/).
 
 **Level:** Beginner to expert. Dive schools everywhere, complete PADI courses under 300 EUR.
 **Best time:** Year-round. Best visibility October to April.
@@ -57,7 +57,7 @@ Palau is not cheap and not easy to reach (layover required). That keeps the crow
 
 ### Komodo, Indonesia
 
-The Komodo dragons are the official reason for the trip. The real reason: one of the most biodiverse seas on earth. The Coral Triangle spans millions of square kilometers here. Mantas at Batu Bolong, molas at the surface, tuna tornados in the blue. For [budget travel through Southeast Asia](/en/blog/southeast-asia-budget-travel), Komodo sits on the route between Bali and Flores.
+The Komodo dragons are the official reason for the trip. The real reason: one of the most biodiverse seas on earth. The Coral Triangle spans millions of square kilometers here. Mantas at Batu Bolong, molas at the surface, tuna tornados in the blue. For [budget travel through Southeast Asia](/en/blog/southeast-asia-budget-travel/), Komodo sits on the route between Bali and Flores.
 
 The current in Komodo is strong and unpredictable. That brings nutrients. And everything that feeds on them.
 
@@ -133,6 +133,6 @@ Koh Tao (Thailand) is considered the world's most affordable PADI course destina
 ---
 
 **Read more:**
-- [East Africa Safari: Planning and Best Season](/en/blog/east-africa-safari-guide)
-- [Slovenia: Green Nature Paradise 2026](/en/blog/slovenia-green-secret-2026)
-- [When to Book Flights: The Best Strategy](/en/blog/when-to-book-flights)
+- [East Africa Safari: Planning and Best Season](/en/blog/east-africa-safari-guide/)
+- [Slovenia: Green Nature Paradise 2026](/en/blog/slovenia-green-secret-2026/)
+- [When to Book Flights: The Best Strategy](/en/blog/when-to-book-flights/)

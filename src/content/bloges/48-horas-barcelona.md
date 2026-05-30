@@ -95,11 +95,11 @@ Evita los restaurantes en las calles inmediatamente alrededor de La Boqueria, la
 
 ### ¿Cuál es la mejor zona para alojarse en Barcelona?
 
-El Born y el Gótico son los más céntricos pero también los más ruidosos y caros. El Eixample (tanto Esquerra como Dreta) ofrece buena ubicación, más tranquilidad y mejor precio. Gràcia es el barrio con más carácter local. Para más detalle, consulta nuestra guía de [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona).
+El Born y el Gótico son los más céntricos pero también los más ruidosos y caros. El Eixample (tanto Esquerra como Dreta) ofrece buena ubicación, más tranquilidad y mejor precio. Gràcia es el barrio con más carácter local. Para más detalle, consulta nuestra guía de [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/).
 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Barcelona: barrios y opciones por presupuesto](/es/blog/donde-alojarse-barcelona)
-- [48 horas en Estambul: el itinerario perfecto](/es/blog/48-horas-estambul)
-- [Viena en un fin de semana: lo esencial sin agobios](/es/blog/viena-fin-de-semana)
+- [Dónde alojarse en Barcelona: barrios y opciones por presupuesto](/es/blog/donde-alojarse-barcelona/)
+- [48 horas en Estambul: el itinerario perfecto](/es/blog/48-horas-estambul/)
+- [Viena en un fin de semana: lo esencial sin agobios](/es/blog/viena-fin-de-semana/)

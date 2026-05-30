@@ -59,7 +59,7 @@ Ancoats war vor 15 Jahren eine vergessene Industriebrache. Heute ist es einer de
 - **Moxy Manchester City** (Budget-friendly, modernes Design, gut für Kurztrips, ca. 85 Pfund)
 - **The Whitworth Locke** (Aparthotel im umgebauten Fabrikgebäude, Charakter pur, ca. 150 Pfund)
 
-Lies dazu auch unseren [Wo übernachten in London](/blog/wo-uebernachten-london)-Guide, für die klassische England-Reise mit beiden Städten.
+Lies dazu auch unseren [Wo übernachten in London](/blog/wo-uebernachten-london/)-Guide, für die klassische England-Reise mit beiden Städten.
 
 ## Didsbury: Ruhig und gehobener Wohncharakter
 
@@ -129,5 +129,5 @@ Ancoats ist die erste Wahl. Die Restaurantdichte ist außergewöhnlich für eine
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in London: Die 5 Stadtteile](/blog/wo-uebernachten-london)
-- [Wo übernachten in Edinburgh: Die besten Viertel](/blog/wo-uebernachten-edinburgh)
+- [Wo übernachten in London: Die 5 Stadtteile](/blog/wo-uebernachten-london/)
+- [Wo übernachten in Edinburgh: Die besten Viertel](/blog/wo-uebernachten-edinburgh/)

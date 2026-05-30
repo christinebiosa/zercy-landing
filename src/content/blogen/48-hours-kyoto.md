@@ -17,7 +17,7 @@ That is the one thing no one tells you clearly enough: Kyoto is about what time 
 
 Start early. Fushimi Inari Taisha, the shrine famous for its thousands of vermilion torii gates, is open 24 hours and free to enter. At 6am you will have it almost to yourself. The gates snake up Mount Inari for roughly four kilometers. Go at least halfway, about 45 minutes of easy walking, before turning back. The view over Kyoto from the upper sections is modest. The atmosphere on the path is not.
 
-Be back at the base by 9am and take the Keihan train north to Nishiki Market. This covered arcade is Kyoto's kitchen compressed into a single narrow street. Fish paste cakes, grilled skewers, miso soup cups, pickled vegetables in every possible variation. Eat here. Call it breakfast or an early lunch. It does not matter. If you are planning a longer trip to Japan, our [Japan 3-week route guide](/en/blog/japan-3-week-route) has the full picture.
+Be back at the base by 9am and take the Keihan train north to Nishiki Market. This covered arcade is Kyoto's kitchen compressed into a single narrow street. Fish paste cakes, grilled skewers, miso soup cups, pickled vegetables in every possible variation. Eat here. Call it breakfast or an early lunch. It does not matter. If you are planning a longer trip to Japan, our [Japan 3-week route guide](/en/blog/japan-3-week-route/) has the full picture.
 
 ## How do you plan the Gion afternoon for maximum impact?
 
@@ -31,7 +31,7 @@ Spend the evening along the Gion Shijo promenade by the Kamo River. In summer, r
 
 Arashiyama, in the northwest of Kyoto, is the second major chapter of your weekend. Take the Randen tram or a bus from the city center, about 30 minutes. Arrive by 8am.
 
-The bamboo grove is a five-minute walk from end to end. It is still unforgettable. The stalks reach 20 meters. The light comes through differently than anywhere else. In the early morning you can actually hear the wind moving through them. For a comparison of Kyoto and its neighbor city, our [Osaka vs. Kyoto guide](/en/blog/osaka-vs-kyoto) breaks down which city suits which travel style.
+The bamboo grove is a five-minute walk from end to end. It is still unforgettable. The stalks reach 20 meters. The light comes through differently than anywhere else. In the early morning you can actually hear the wind moving through them. For a comparison of Kyoto and its neighbor city, our [Osaka vs. Kyoto guide](/en/blog/osaka-vs-kyoto/) breaks down which city suits which travel style.
 
 Tenryuji temple is directly adjacent to the grove. Its garden is a UNESCO World Heritage site and among the finest in Japan. Entry to the garden costs 500 yen, plus 100 yen for the temple interior. The central pond mirrors the forested mountains behind it when the weather is clear. Plan 60 to 90 minutes for the whole complex.
 
@@ -43,7 +43,7 @@ Return to the city center for lunch at Nishiki Market, then the Kawaramachi shop
 
 The afternoon ends at Kinkakuji. The Golden Pavilion is the most photographed building in Japan. Everyone knows that. You will still stop talking when you see it for the first time. Three stories covered in gold leaf, reflected perfectly in the pond in front of it. Entry is 500 yen. Afternoon lines after 2pm are shorter than the morning rush. Allow 45 minutes.
 
-Osaka is 30 to 40 minutes away by shinkansen or rapid train and works well as a day trip or evening excursion from Kyoto. Dotonbori, takoyaki stalls, the completely different energy of a commercial city. A useful contrast after Kyoto's temples. The full comparison is in our [Osaka vs. Kyoto](/en/blog/osaka-vs-kyoto) guide. If you are thinking about accommodation for a longer stay in the region, our [where to stay in Tokyo guide](/en/blog/where-to-stay-tokyo) covers planning across Japan's major cities.
+Osaka is 30 to 40 minutes away by shinkansen or rapid train and works well as a day trip or evening excursion from Kyoto. Dotonbori, takoyaki stalls, the completely different energy of a commercial city. A useful contrast after Kyoto's temples. The full comparison is in our [Osaka vs. Kyoto](/en/blog/osaka-vs-kyoto/) guide. If you are thinking about accommodation for a longer stay in the region, our [where to stay in Tokyo guide](/en/blog/where-to-stay-tokyo/) covers planning across Japan's major cities.
 
 For official travel information, opening times, and seasonal events in Kyoto, the [Kyoto Tourism website](https://kyoto.travel/en) is the best starting point.
 
@@ -72,6 +72,6 @@ Ryokan stays in the Gion district sell out months ahead and need early reservati
 ---
 
 **Read more:**
-- [Japan 3-Week Route: The Complete Itinerary](/en/blog/japan-3-week-route)
-- [Osaka vs. Kyoto: Which City Is Right for You?](/en/blog/osaka-vs-kyoto)
-- [Where to Stay in Tokyo: Neighborhoods and Tips](/en/blog/where-to-stay-tokyo)
+- [Japan 3-Week Route: The Complete Itinerary](/en/blog/japan-3-week-route/)
+- [Osaka vs. Kyoto: Which City Is Right for You?](/en/blog/osaka-vs-kyoto/)
+- [Where to Stay in Tokyo: Neighborhoods and Tips](/en/blog/where-to-stay-tokyo/)

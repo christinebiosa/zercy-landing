@@ -28,17 +28,17 @@ Für Fortgeschrittene gilt: Mit dem Open Water ist noch nicht Schluss. Der Advan
 
 Du hast die Wahl. Warm, kalt, bunt, abgelegen, günstig, spektakulär. Hier sind die Ziele, die Taucher immer wieder empfehlen.
 
-**Rotes Meer, Ägypten.** Das beste Einstiegsziel. Warmes Wasser das ganze Jahr, ausgezeichnete Sicht, bunte Korallen und keine langen Anreisen. Hurghada und Sharm el-Sheikh sind die zwei großen Hubs. Gut ausgebaute Tauchinfrastruktur, viele Tauchschulen, günstige Preise. Eine Woche all-inclusive mit Tauchen gibt es ab rund 800 Euro. Mehr dazu im [Ägypten-Reiseguide](/blog/aegypten-reiseguide-highlights).
+**Rotes Meer, Ägypten.** Das beste Einstiegsziel. Warmes Wasser das ganze Jahr, ausgezeichnete Sicht, bunte Korallen und keine langen Anreisen. Hurghada und Sharm el-Sheikh sind die zwei großen Hubs. Gut ausgebaute Tauchinfrastruktur, viele Tauchschulen, günstige Preise. Eine Woche all-inclusive mit Tauchen gibt es ab rund 800 Euro. Mehr dazu im [Ägypten-Reiseguide](/blog/aegypten-reiseguide-highlights/).
 
 **Similan Islands, Thailand.** Einer der schönsten Tauchplätze in Südostasien. Riesige Unterwasserfelsen, Walhaie, Mantas. Die beste Saison läuft von November bis April. Außerhalb davon ist das Gebiet oft gesperrt. Von Phuket aus erreichst du die Similans mit dem Boot oder als Teil eines Liveaboards.
 
 **Galápagos, Ecuador.** Nichts für Anfänger. Aber wenn du Erfahrung hast, ist Galápagos unvergleichlich. Hammerhaie in Schulen, Rochen, Meeresschildkröten. Das Wasser ist kühl, die Strömungen stark, die Preise hoch. Aber Taucher, die dort waren, reden noch Jahre davon.
 
-**Komodo, Indonesien.** Starke Strömungen, riesige Mantarochen, bunte Riffe. Komodo ist nichts für zarte Gemüter, aber für erfahrene Taucher absolut lohnenswert. Kombinierbar mit einer breiteren Indonesien-Reise, für die du im [Indonesien-Reiseguide](/blog/indonesien-reiseguide-highlights) mehr findest.
+**Komodo, Indonesien.** Starke Strömungen, riesige Mantarochen, bunte Riffe. Komodo ist nichts für zarte Gemüter, aber für erfahrene Taucher absolut lohnenswert. Kombinierbar mit einer breiteren Indonesien-Reise, für die du im [Indonesien-Reiseguide](/blog/indonesien-reiseguide-highlights/) mehr findest.
 
 **Belize Barrier Reef.** Das zweitgrößte Barrieriff der Welt. Das Blaue Loch ist eines der bekanntesten Tauchziele überhaupt. Warmes Karibikwasser, entspannte Atmosphäre, wunderschöne Korallenformationen. Gutes Ziel für alle Levels.
 
-Einen Überblick über Schnorcheln und Tauchen an weiteren Destinationen bekommst du im Artikel [Tauchen und Schnorcheln: Die besten Reiseziele](/blog/tauchen-schnorcheln-reiseziele).
+Einen Überblick über Schnorcheln und Tauchen an weiteren Destinationen bekommst du im Artikel [Tauchen und Schnorcheln: Die besten Reiseziele](/blog/tauchen-schnorcheln-reiseziele/).
 
 ## Liveaboard oder Tauchbasis?
 
@@ -62,7 +62,7 @@ Tauchen gilt als teures Hobby. Stimmt teilweise. Aber es geht auch günstiger.
 
 Spare Kosten, indem du eigene Maske und Flossen mitbringst. Das ist keine Luxus-Empfehlung, sondern praktisch. Verleihmasken passen nie richtig. Eigene Flossen sind angenehmer. Und für Hygiene ist es sowieso besser.
 
-**Reiseversicherung:** Pflicht. Eine normale Reiseversicherung reicht für Taucher nicht. Du brauchst eine, die Tauchunfälle abdeckt, inklusive Behandlung in einer Druckkammer. Die bekannteste und empfohlene Option ist die **DAN-Versicherung** (Divers Alert Network). Günstig, zuverlässig und bei Tauchschulen weltweit bekannt. Mehr zu Reiseversicherungen allgemein im Artikel [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich).
+**Reiseversicherung:** Pflicht. Eine normale Reiseversicherung reicht für Taucher nicht. Du brauchst eine, die Tauchunfälle abdeckt, inklusive Behandlung in einer Druckkammer. Die bekannteste und empfohlene Option ist die **DAN-Versicherung** (Divers Alert Network). Günstig, zuverlässig und bei Tauchschulen weltweit bekannt. Mehr zu Reiseversicherungen allgemein im Artikel [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/).
 
 Plane deine gesamte Reise, inklusive Flüge, Unterkunft und Budgetkalkulation, einfach mit [Zercy](https://www.zercy.app). Oder leg direkt los und trag deine Tauchziele ins [Zercy Logbuch](https://www.zercy.app/logbook) ein.
 
@@ -89,6 +89,6 @@ Maske und Flossen lohnen sich immer. Eine eigene Maske sitzt besser und ist hygi
 ---
 
 **Mehr lesen:**
-- [Tauchen und Schnorcheln: Die besten Reiseziele](/blog/tauchen-schnorcheln-reiseziele)
-- [Ägypten Reiseguide: Highlights und Tipps](/blog/aegypten-reiseguide-highlights)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Tauchen und Schnorcheln: Die besten Reiseziele](/blog/tauchen-schnorcheln-reiseziele/)
+- [Ägypten Reiseguide: Highlights und Tipps](/blog/aegypten-reiseguide-highlights/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

@@ -45,7 +45,7 @@ Direkt westlich von Marina Bay, Singapurs ältester Stadtteil. Buddhistisch-taoi
 
 **Top-Picks:** The Scarlet Singapore (Designer-Boutique in Shophouses), Hotel 1929 (Boutique mit Designer-Möbeln), Furama City Centre (klassisch mittelklasse).
 
-Lies dazu auch unseren [Open-Jaw-Tickets-Guide](/blog/open-jaw-tickets-reise-hack), Singapur ist ein perfekter Asien-Stopover.
+Lies dazu auch unseren [Open-Jaw-Tickets-Guide](/blog/open-jaw-tickets-reise-hack/), Singapur ist ein perfekter Asien-Stopover.
 
 ## Wann ist die beste Reisezeit für Singapur?
 
@@ -128,6 +128,6 @@ Backpacker: 800-1.300 Euro pro Person inkl. Flug (Hostel in Little India, Hawker
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
-- [Wo übernachten in Bangkok: Die besten Stadtteile](/blog/wo-uebernachten-bangkok)
-- [Stopover-Tourismus: Wie du Layovers in Mini-Reisen verwandelst](/blog/stopover-tourismus-guide)
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio/)
+- [Wo übernachten in Bangkok: Die besten Stadtteile](/blog/wo-uebernachten-bangkok/)
+- [Stopover-Tourismus: Wie du Layovers in Mini-Reisen verwandelst](/blog/stopover-tourismus-guide/)

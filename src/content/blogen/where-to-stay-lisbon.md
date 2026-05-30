@@ -35,7 +35,7 @@ Baixa is the business district rebuilt after the 1755 earthquake. Today it's the
 
 **Top picks:** Lumiares Hotel (boutique with rooftop pool), Browns Downtown (modern, central), Internacional Design Hotel (mid-range, designer rooms). These and 1,500+ more Lisbon hotels are on [Booking.com](https://www.booking.com) with neighborhood filter and free cancellation.
 
-Direct access to all sights, perfect connection via the green Metro line. The [official Portuguese tourism board](https://www.visitportugal.com/en/destinos/lisboa) has a curated overview of Lisbon's neighborhoods and recommended hotels. See our [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail) for inspiration beyond the main attractions.
+Direct access to all sights, perfect connection via the green Metro line. The [official Portuguese tourism board](https://www.visitportugal.com/en/destinos/lisboa) has a curated overview of Lisbon's neighborhoods and recommended hotels. See our [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail/) for inspiration beyond the main attractions.
 
 ## Alfama: The heart of Lisbon
 
@@ -103,7 +103,7 @@ The most important question. Three options.
 
 **Airbnb only as plan B:** Lisbon has strict regulation for short-term rentals. Many "Airbnb apartments" are illegally rented, authorities crack down regularly. On Booking.com you find the same apartments often legal and protected.
 
-See our detailed [Airbnb vs Hotel comparison](/en/blog/airbnb-vs-hotel-comparison).
+See our detailed [Airbnb vs Hotel comparison](/en/blog/airbnb-vs-hotel-comparison/).
 
 ---
 
@@ -130,6 +130,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel, self-catering). Mid-rang
 ---
 
 **Read more:**
-- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona)
-- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris)
-- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail)
+- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona/)
+- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris/)
+- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail/)

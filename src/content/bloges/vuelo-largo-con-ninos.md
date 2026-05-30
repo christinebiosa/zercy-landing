@@ -22,7 +22,7 @@ El equipaje de mano es la diferencia entre un vuelo manejable y uno desesperado.
 
 **Auriculares adaptados.** Los auriculares para niños con limitador de volumen (máximo 85 dB) protegen los oídos y hacen que el entretenimiento funcione sin molestar a otros pasajeros.
 
-Para vuelos hacia destinos como [Bangkok](/es/blog/bangkok-3-dias) o [Lima](/es/blog/donde-alojarse-lima), la preparación del equipaje de mano puede marcar el ritmo de los primeros días del viaje también.
+Para vuelos hacia destinos como [Bangkok](/es/blog/bangkok-3-dias/) o [Lima](/es/blog/donde-alojarse-lima/), la preparación del equipaje de mano puede marcar el ritmo de los primeros días del viaje también.
 
 ## ¿Cómo elegir los asientos correctos para un vuelo con niños?
 
@@ -81,6 +81,6 @@ Emirates, Singapore Airlines y Qatar Airways tienen entre las mejores valoracion
 ---
 
 **Leer más:**
-- [Viajar después de los 60: consejos prácticos](/es/blog/viajar-despues-60-consejos)
-- [Perú con familia: lo mejor del país en un solo viaje](/es/blog/peru-guia-viaje-highlights)
-- [Las mejores apps de viaje que funcionan sin internet](/es/blog/mejores-apps-viaje-sin-internet)
+- [Viajar después de los 60: consejos prácticos](/es/blog/viajar-despues-60-consejos/)
+- [Perú con familia: lo mejor del país en un solo viaje](/es/blog/peru-guia-viaje-highlights/)
+- [Las mejores apps de viaje que funcionan sin internet](/es/blog/mejores-apps-viaje-sin-internet/)

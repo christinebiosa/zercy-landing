@@ -68,9 +68,9 @@ El PIC cuesta entre 10 y 20 euros. Se tramita en diez minutos. No tiene ningún 
 
 ## Leer más
 
-- [Checklist para el alquiler de coche: qué revisar antes de salir](/es/blog/checklist-alquiler-coche)
-- [Cómo ahorrar con los consolidadores de alquiler de coches](/es/blog/consolidadores-alquiler-ahorrar)
-- [Cómo evitar los costes ocultos en el alquiler de coches](/es/blog/costes-ocultos-alquiler-coche)
+- [Checklist para el alquiler de coche: qué revisar antes de salir](/es/blog/checklist-alquiler-coche/)
+- [Cómo ahorrar con los consolidadores de alquiler de coches](/es/blog/consolidadores-alquiler-ahorrar/)
+- [Cómo evitar los costes ocultos en el alquiler de coches](/es/blog/costes-ocultos-alquiler-coche/)
 
 ---
 
@@ -94,4 +94,4 @@ Multas elevadas, inmovilización del vehículo o invalidación del seguro del co
 
 ---
 
-*Organizar tus documentos de viaje con tiempo evita problemas innecesarios. Consulta nuestra [Guía de documentos de viaje](/es/blog/documentos-viaje-guia) para tener todo listo antes de salir.*
+*Organizar tus documentos de viaje con tiempo evita problemas innecesarios. Consulta nuestra [Guía de documentos de viaje](/es/blog/documentos-viaje-guia/) para tener todo listo antes de salir.*

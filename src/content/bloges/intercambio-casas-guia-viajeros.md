@@ -38,7 +38,7 @@ Cuatro plataformas dominan el mercado.
 
 **Comparativa de costos:** Con una cuota anual de 185 EUR y dos o tres semanas de viaje, ahorras entre 1.500 y 3.000 EUR en alojamiento comparado con un hotel o Airbnb. La membresía se amortiza en un solo viaje.
 
-Para referencia: nuestro artículo de [Airbnb vs. hotel](/es/blog/airbnb-vs-hotel-comparacion) explica cuándo las plataformas de alquiler a corto plazo son la mejor opción.
+Para referencia: nuestro artículo de [Airbnb vs. hotel](/es/blog/airbnb-vs-hotel-comparacion/) explica cuándo las plataformas de alquiler a corto plazo son la mejor opción.
 
 ## ¿Para quién vale realmente la pena el intercambio de casas?
 
@@ -80,7 +80,7 @@ Tu perfil es tu carta de presentación. Un perfil débil no recibe solicitudes.
 
 Cuanto más atractiva sea tu casa y más grande tu ciudad, más opciones tenés. Los miembros en Berlín, Viena, Barcelona o Lisboa reciben muchas más solicitudes que los de pueblos pequeños. No es un problema, pero significa que hay que tomar más iniciativa si tu alojamiento está en un lugar con menos demanda.
 
-Nuestro artículo sobre [slow travel](/es/blog/slow-travel-que-significa) tiene más sobre cómo aprovechar al máximo las estancias largas en un solo lugar.
+Nuestro artículo sobre [slow travel](/es/blog/slow-travel-que-significa/) tiene más sobre cómo aprovechar al máximo las estancias largas en un solo lugar.
 
 ## Intercambio de casas vs. Airbnb: ¿en qué gana cada uno?
 
@@ -106,7 +106,7 @@ Con uno solo alcanza. Una semana en un apartamento en París en lugar de un hote
 
 ### ¿Qué alternativas existen para alojamiento gratuito o barato al viajar?
 
-Couchsurfing es gratis pero no requiere ofrecer tu propia casa. Los hostels son económicos y buenos para mochileros solos que quieren ambiente social. Airbnb da más control sobre fechas y ubicación, pero a precio de mercado. El intercambio de casas tiene la mayor ventaja para familias y estadías largas. Nuestro artículo sobre [hostels](/es/blog/guia-reservar-hostel) cubre las opciones más económicas si preferís algo más independiente.
+Couchsurfing es gratis pero no requiere ofrecer tu propia casa. Los hostels son económicos y buenos para mochileros solos que quieren ambiente social. Airbnb da más control sobre fechas y ubicación, pero a precio de mercado. El intercambio de casas tiene la mayor ventaja para familias y estadías largas. Nuestro artículo sobre [hostels](/es/blog/guia-reservar-hostel/) cubre las opciones más económicas si preferís algo más independiente.
 
 ### ¿Cuándo es el mejor momento para empezar como nuevo miembro?
 
@@ -115,6 +115,6 @@ En cuanto tengas un perfil sólido. Las primeras solicitudes pueden llegar antes
 ---
 
 **Más para leer:**
-- [Airbnb vs. hotel: ¿cuál conviene realmente?](/es/blog/airbnb-vs-hotel-comparacion)
-- [Seguro de viaje: ¿cuándo vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Slow travel: qué significa de verdad](/es/blog/slow-travel-que-significa)
+- [Airbnb vs. hotel: ¿cuál conviene realmente?](/es/blog/airbnb-vs-hotel-comparacion/)
+- [Seguro de viaje: ¿cuándo vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Slow travel: qué significa de verdad](/es/blog/slow-travel-que-significa/)

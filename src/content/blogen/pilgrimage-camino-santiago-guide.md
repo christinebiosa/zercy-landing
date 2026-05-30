@@ -99,6 +99,6 @@ Everyone. Students, retirees, solo travelers, couples, groups, people in profess
 ---
 
 **Read more:**
-- [Trekking packing list: what actually goes in the bag](/en/blog/travel-packing-list-essentials)
-- [Digital detox travel: how to actually switch off](/en/blog/digital-detox-travel-guide)
-- [Europe road trip: the best independent routes](/en/blog/balkan-road-trip-route)
+- [Trekking packing list: what actually goes in the bag](/en/blog/travel-packing-list-essentials/)
+- [Digital detox travel: how to actually switch off](/en/blog/digital-detox-travel-guide/)
+- [Europe road trip: the best independent routes](/en/blog/balkan-road-trip-route/)

@@ -59,7 +59,7 @@ The Riverside area runs along the east bank of the Ping River, a 10-minute tuk-t
 - **Ping Nakara Boutique Hotel:** 19 rooms in a restored colonial townhouse from the early 20th century. Intimate and unusual.
 - **Le Méridien Chiang Mai:** Modern city hotel near the Night Bazaar. Large pool, reliable international standard.
 
-Travelers adding Bangkok to their itinerary will find our [Bangkok neighborhood guide](/en/blog/where-to-stay-bangkok) useful for the capital portion of the trip.
+Travelers adding Bangkok to their itinerary will find our [Bangkok neighborhood guide](/en/blog/where-to-stay-bangkok/) useful for the capital portion of the trip.
 
 ## Santitham: Real Chiang Mai Life
 
@@ -106,6 +106,6 @@ Scale and pace. Chiang Mai is walkable, calm and much cheaper. The Lanna culture
 ---
 
 **Read more:**
-- [Where to Stay in Bangkok: 5 Neighborhoods Compared](/en/blog/where-to-stay-bangkok)
-- [Where to Stay in Bali: Ubud, Seminyak and Beyond](/en/blog/where-to-stay-bali)
-- [Tokyo Foodie Trip: Eat Like a Local](/en/blog/tokyo-foodie-trip)
+- [Where to Stay in Bangkok: 5 Neighborhoods Compared](/en/blog/where-to-stay-bangkok/)
+- [Where to Stay in Bali: Ubud, Seminyak and Beyond](/en/blog/where-to-stay-bali/)
+- [Tokyo Foodie Trip: Eat Like a Local](/en/blog/tokyo-foodie-trip/)

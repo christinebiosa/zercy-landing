@@ -51,7 +51,7 @@ Für den Amazonas gilt: In der Regenzeit (Dezember bis Mai) sind die Wasserstän
 
 Einreise für EU-Bürger: Ab 2025 hat Brasilien ein E-Visum-System eingeführt. Die Beantragung erfolgt online, Bearbeitungszeit 3 bis 10 Tage, Gebühr rund 80 US-Dollar. Immer aktuell prüfen, da sich Visumsregeln ändern können.
 
-Wer Bahia auf die Reiseroute nimmt, sollte Salvador als Basis wählen. Die Afrobrasilianische Kultur, die Altstadt Pelourinho und die Candomblé-Zeremonien machen die Stadt zu einem der kulturell reichsten Ziele des Landes. Die besten Viertel zum Übernachten findest du im [Salvador Hotelguide](/blog/wo-uebernachten-salvador).
+Wer Bahia auf die Reiseroute nimmt, sollte Salvador als Basis wählen. Die Afrobrasilianische Kultur, die Altstadt Pelourinho und die Candomblé-Zeremonien machen die Stadt zu einem der kulturell reichsten Ziele des Landes. Die besten Viertel zum Übernachten findest du im [Salvador Hotelguide](/blog/wo-uebernachten-salvador/).
 
 Plane deinen Brasilien-Trip und sichere alle Optionen im [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -78,6 +78,6 @@ Gelbfieber-Impfung wird empfohlen, wenn du in den Amazonas oder in bestimmte and
 ---
 
 **Mehr lesen:**
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [Solo Reisen für Frauen: Sicherste Länder](/blog/solo-reisen-frauen-sicher)
-- [Argentinien Reiseguide](/blog/argentinien-reiseguide-highlights)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [Solo Reisen für Frauen: Sicherste Länder](/blog/solo-reisen-frauen-sicher/)
+- [Argentinien Reiseguide](/blog/argentinien-reiseguide-highlights/)

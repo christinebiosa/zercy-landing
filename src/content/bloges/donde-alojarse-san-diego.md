@@ -49,7 +49,7 @@ Las tiendas y restaurantes en Prospect Street son de alto nivel. Los hoteles en 
 
 **Top picks:** The Lodge at Torrey Pines (histórico hotel Arts and Crafts sobre los acantilados), La Valencia Hotel (hotel rosado emblemático, vistas panorámicas), Estancia La Jolla Hotel and Spa (estilo hacienda, instalaciones de bienestar).
 
-Consulta también nuestra [guía de Los Ángeles](/es/blog/donde-alojarse-los-angeles) y el artículo sobre [San Francisco](/es/blog/donde-alojarse-san-francisco) para más opciones en la costa del Pacífico.
+Consulta también nuestra [guía de Los Ángeles](/es/blog/donde-alojarse-los-angeles/) y el artículo sobre [San Francisco](/es/blog/donde-alojarse-san-francisco/) para más opciones en la costa del Pacífico.
 
 ## ¿Cuándo es la mejor época para visitar San Diego?
 
@@ -117,6 +117,6 @@ De enero a marzo y en noviembre/diciembre (fuera de festivos) son los meses más
 ---
 
 ## Más artículos
-- [Dónde alojarse en Los Ángeles: 5 barrios explicados](/es/blog/donde-alojarse-los-angeles)
-- [Dónde alojarse en San Francisco: Los mejores barrios](/es/blog/donde-alojarse-san-francisco)
-- [Ruta por la costa oeste de EE.UU.](/es/blog/ruta-costa-oeste-eeuu)
+- [Dónde alojarse en Los Ángeles: 5 barrios explicados](/es/blog/donde-alojarse-los-angeles/)
+- [Dónde alojarse en San Francisco: Los mejores barrios](/es/blog/donde-alojarse-san-francisco/)
+- [Ruta por la costa oeste de EE.UU.](/es/blog/ruta-costa-oeste-eeuu/)

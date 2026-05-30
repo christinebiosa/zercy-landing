@@ -8,7 +8,7 @@ readingTime: 4
 heroImage: "/img/blog/travel-journal.jpg"
 ---
 
-Zercy ist kein Buchungsportal. Kein Preisvergleich, kein Formular, kein Tab-Chaos. Zercy ist ein KI-Reiseberater. Du erzählst, wohin du willst, und bekommst echte Flüge, Hotels und Verbindungen mit Live-Preisen. Wer das noch nicht kennt, findet [hier die Einführung](/blog/was-ist-zercy).
+Zercy ist kein Buchungsportal. Kein Preisvergleich, kein Formular, kein Tab-Chaos. Zercy ist ein KI-Reiseberater. Du erzählst, wohin du willst, und bekommst echte Flüge, Hotels und Verbindungen mit Live-Preisen. Wer das noch nicht kennt, findet [hier die Einführung](/blog/was-ist-zercy/).
 
 Und jetzt gibt es das Nächste. Das **Zercy Logbook**.
 
@@ -42,7 +42,7 @@ Das Zercy Logbook braucht kein Passwort. Du gibst deine E-Mail-Adresse ein und b
 
 Ausloggen löscht keine Daten. Alle Trips und Buchungen bleiben gespeichert. Beim nächsten Login per Magic Link ist alles wieder da, genau so wie du es hinterlassen hast.
 
-Wer [schon beim Buchen spart](/blog/guenstig-fliegen-tipps), spart mit dem Zercy Logbook auch noch Zeit bei der Organisation danach.
+Wer [schon beim Buchen spart](/blog/guenstig-fliegen-tipps/), spart mit dem Zercy Logbook auch noch Zeit bei der Organisation danach.
 
 ## Warum das anders ist
 
@@ -81,6 +81,6 @@ Deine Daten werden sicher in der Cloud gespeichert. Wenn du dich ausloggst, blei
 ---
 
 Weiterlesen:
-- [Was ist Zercy? Dein KI-Reiseberater erklärt](/blog/was-ist-zercy)
-- [Günstig fliegen: Die besten Tipps](/blog/guenstig-fliegen-tipps)
-- [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen)
+- [Was ist Zercy? Dein KI-Reiseberater erklärt](/blog/was-ist-zercy/)
+- [Günstig fliegen: Die besten Tipps](/blog/guenstig-fliegen-tipps/)
+- [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen/)

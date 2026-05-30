@@ -28,7 +28,7 @@ If you're unsure: 112 works worldwide on GSM networks even without a SIM card or
 
 **Step 3: Accept treatment.** Even if you're unsure what it will cost. Medical care comes first. Keep all invoices and receipts. The insurance will sort out the rest.
 
-Why travel health insurance is essential: [travel health insurance guide](/en/blog/travel-health-insurance-guide). For a broader look at travel coverage: [travel insurance: what's worth it](/en/blog/travel-insurance-worth-it-2026).
+Why travel health insurance is essential: [travel health insurance guide](/en/blog/travel-health-insurance-guide/). For a broader look at travel coverage: [travel insurance: what's worth it](/en/blog/travel-insurance-worth-it-2026/).
 
 ## How do you respond to a serious accident or natural disaster?
 
@@ -96,6 +96,6 @@ No full prevention is possible, but preparation helps: travel health insurance w
 
 ## Read more
 
-- [Travel Insurance: What's Actually Worth Paying For](/en/blog/travel-insurance-worth-it-2026)
-- [Travel Health Insurance: When You Need It](/en/blog/travel-health-insurance-guide)
-- [Cyber Security While Travelling: Protect Your Data](/en/blog/cyber-security-travel-2026)
+- [Travel Insurance: What's Actually Worth Paying For](/en/blog/travel-insurance-worth-it-2026/)
+- [Travel Health Insurance: When You Need It](/en/blog/travel-health-insurance-guide/)
+- [Cyber Security While Travelling: Protect Your Data](/en/blog/cyber-security-travel-2026/)

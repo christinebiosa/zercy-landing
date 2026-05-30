@@ -80,7 +80,7 @@ Instead: book the flight separately, with two options:
 
 **Option A: Roundtrip** (out and back to the same city). Simplest. When embarkation and disembarkation happen in the same city (typical for Mediterranean round trips).
 
-**Option B: Open-jaw** (different return city). When the cruise ends in a different city (e.g. Rome to Barcelona). An [open-jaw ticket](/en/blog/open-jaw-tickets-travel-hack) costs almost the same as a roundtrip but saves you a domestic connection.
+**Option B: Open-jaw** (different return city). When the cruise ends in a different city (e.g. Rome to Barcelona). An [open-jaw ticket](/en/blog/open-jaw-tickets-travel-hack/) costs almost the same as a roundtrip but saves you a domestic connection.
 
 ## Luggage Logistics Between Hotel and Ship
 
@@ -118,9 +118,9 @@ That's the price for 2 days in one of Europe's most spectacular cities. More tha
 
 ---
 
-Zercy handles the whole logistics: flight with roundtrip or open-jaw, hotel in the right neighborhood, transfer to the port. The [Zercy Logbook](/en/blog/zercy-logbook) keeps your cruise plus city extension in one chronological timeline.
+Zercy handles the whole logistics: flight with roundtrip or open-jaw, hotel in the right neighborhood, transfer to the port. The [Zercy Logbook](/en/blog/zercy-logbook/) keeps your cruise plus city extension in one chronological timeline.
 
-**Read more:** [Open-jaw tickets: the underrated travel hack](/en/blog/open-jaw-tickets-travel-hack) · [7 airport hacks for relaxed travel](/en/blog/airport-hacks) · [Rental consolidators: how they save you money](/en/blog/rental-consolidators-save-money)
+**Read more:** [Open-jaw tickets: the underrated travel hack](/en/blog/open-jaw-tickets-travel-hack/) · [7 airport hacks for relaxed travel](/en/blog/airport-hacks/) · [Rental consolidators: how they save you money](/en/blog/rental-consolidators-save-money/)
 
 ## Frequently Asked Questions
 

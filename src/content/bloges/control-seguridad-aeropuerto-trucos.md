@@ -36,7 +36,7 @@ Monedas, llaves, reloj, objetos metálicos: todo va al bolsillo del saco o dentr
 
 Y: toma el agua o tírala antes de llegar. Suena básico. Aun así, cientos de personas cada día esperan en la fila con la esperanza de negociar su botella a medias. La respuesta siempre es no.
 
-Si viajas solo con [equipaje de mano](/es/blog/solo-equipaje-de-mano), vale la pena empacar con el compartimento del laptop accesible desde arriba para no tener que sacar todo.
+Si viajas solo con [equipaje de mano](/es/blog/solo-equipaje-de-mano/), vale la pena empacar con el compartimento del laptop accesible desde arriba para no tener que sacar todo.
 
 ## ¿Cuándo vale la pena el acceso FastTrack o Priority Security?
 
@@ -48,7 +48,7 @@ Un martes o miércoles por la mañana, en aeropuertos más pequeños o fuera de 
 
 El Priority Boarding de Ryanair a veces incluye acceso FastTrack dependiendo del aeropuerto y la clase de reserva. Está en la confirmación o en la página de Ryanair para ese aeropuerto específico. No lo asumas. Verifícalo antes.
 
-El Priority Boarding y el FastTrack son cosas distintas. Uno es para el control de seguridad, el otro es para embarcar. [Si el embarque prioritario realmente vale la pena](/es/blog/embarque-prioritario-vale-la-pena) depende de tu aerolínea y aeropuerto.
+El Priority Boarding y el FastTrack son cosas distintas. Uno es para el control de seguridad, el otro es para embarcar. [Si el embarque prioritario realmente vale la pena](/es/blog/embarque-prioritario-vale-la-pena/) depende de tu aerolínea y aeropuerto.
 
 ## ¿Qué es TSA PreCheck y quién debería solicitarlo?
 
@@ -60,7 +60,7 @@ Ingresas ese número al reservar y accedes a los carriles PreCheck. En esos carr
 
 Los no ciudadanos estadounidenses también pueden aplicar. NEXUS funciona para viajes EE.UU.-Canadá. Existen programas de reciprocidad si tu país tiene un acuerdo. Todo está listado en el sitio de la TSA.
 
-Si vuelas a EE.UU. más de dos veces al año y no tienes PreCheck, esos 85 dólares se recuperan en el primer viaje. Vale más que todos los [trucos de aeropuerto](/es/blog/trucos-aeropuerto) juntos.
+Si vuelas a EE.UU. más de dos veces al año y no tienes PreCheck, esos 85 dólares se recuperan en el primer viaje. Vale más que todos los [trucos de aeropuerto](/es/blog/trucos-aeropuerto/) juntos.
 
 ## ¿Qué errores cuestan más tiempo en el control de seguridad?
 
@@ -76,7 +76,7 @@ El del agua ya fue mencionado. Pero hay más.
 
 **Entrar por el acceso equivocado del terminal.** Frankfurt T1 tiene varios puntos de control. La entrada norte casi siempre está menos llena. Usa Google Maps y la app del aeropuerto para encontrar la entrada más tranquila antes de llegar.
 
-Después del control, si tienes tiempo antes del vuelo: vale preguntarse [si un hotel en el aeropuerto tiene sentido](/es/blog/trucos-aeropuerto) para salidas muy tempranas.
+Después del control, si tienes tiempo antes del vuelo: vale preguntarse [si un hotel en el aeropuerto tiene sentido](/es/blog/trucos-aeropuerto/) para salidas muy tempranas.
 
 ## ¿Con cuánto tiempo tienes que llegar al aeropuerto?
 
@@ -88,7 +88,7 @@ Al menos 90 minutos antes del vuelo en aeropuertos grandes. Frankfurt T1, Londre
 
 **Los peores horarios:** lunes entre las 6 y las 9am, viernes entre las 4 y las 7pm, domingos a partir de las 5pm. En estos momentos el FastTrack o el Priority Security justifican su costo.
 
-Si viajas solo con [equipaje de mano](/es/blog/solo-equipaje-de-mano), ya ganas entre 15 y 20 minutos adicionales al evitar el mostrador de facturación.
+Si viajas solo con [equipaje de mano](/es/blog/solo-equipaje-de-mano/), ya ganas entre 15 y 20 minutos adicionales al evitar el mostrador de facturación.
 
 ---
 
@@ -115,6 +115,6 @@ Cualquier persona que viaje a EE.UU. más de dos veces al año. Una sola solicit
 ---
 
 **Más artículos:**
-- [7 Trucos de Aeropuerto que te Ahorran Tiempo y Estrés](/es/blog/trucos-aeropuerto)
-- [¿Vale la Pena el Embarque Prioritario?](/es/blog/embarque-prioritario-vale-la-pena)
-- [Solo Equipaje de Mano: Cómo Empacar con Inteligencia](/es/blog/solo-equipaje-de-mano)
+- [7 Trucos de Aeropuerto que te Ahorran Tiempo y Estrés](/es/blog/trucos-aeropuerto/)
+- [¿Vale la Pena el Embarque Prioritario?](/es/blog/embarque-prioritario-vale-la-pena/)
+- [Solo Equipaje de Mano: Cómo Empacar con Inteligencia](/es/blog/solo-equipaje-de-mano/)

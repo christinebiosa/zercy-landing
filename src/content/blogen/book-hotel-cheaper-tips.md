@@ -24,7 +24,7 @@ The [Booking Genius program](https://www.booking.com/genius.html) is one of the 
 
 The difference between Level 1 and Level 2 is real. Level 1 applies to a limited set of hotels. Level 2 opens most participating properties. The important detail: Genius discounts often aren't visible without logging in. Always search with your account active.
 
-For a deeper look at hotel loyalty programs, see our guide on [hotel loyalty programs and when they pay off](/en/blog/hotel-loyalty-program-worth-it).
+For a deeper look at hotel loyalty programs, see our guide on [hotel loyalty programs and when they pay off](/en/blog/hotel-loyalty-program-worth-it/).
 
 ## When Does Booking Directly Save You More Than a Portal?
 
@@ -34,7 +34,7 @@ How do you find out? Search for the hotel on Booking.com, but don't commit. Then
 
 This works best with independent boutique hotels and family-run properties. Large chains like Hilton or Marriott often have their own best-price guarantees on their websites. Those are worth checking directly.
 
-A detailed breakdown is available in our article on [booking directly vs. using a portal](/en/blog/booking-vs-direct-hotel-booking).
+A detailed breakdown is available in our article on [booking directly vs. using a portal](/en/blog/booking-vs-direct-hotel-booking/).
 
 ## What You Need to Know About Refundable vs. Non-Refundable Rates
 
@@ -52,7 +52,7 @@ The two platforms don't always show the same price. That's because they negotiat
 
 Always compare both platforms for the same date and room type. It takes two minutes and can save 20 to 40 euros. Use a private browsing tab to avoid cached prices interfering.
 
-For a guide on hotel types and pricing tiers, see our article on [hotel categories explained](/en/blog/hotel-categories-explained).
+For a guide on hotel types and pricing tiers, see our article on [hotel categories explained](/en/blog/hotel-categories-explained/).
 
 ## How Does HotelTonight Work for Last-Minute Deals?
 
@@ -80,7 +80,7 @@ Second: upgrades. The best time to ask for an upgrade is close to arrival, not a
 
 Be specific: "Is there a room on a higher floor or with a better view that's still available tonight?" A friendly, direct tone helps more than flattery.
 
-For a broader look at accommodation options, see our guide on [Airbnb vs. hotel: which is worth it?](/en/blog/airbnb-vs-hotel-comparison).
+For a broader look at accommodation options, see our guide on [Airbnb vs. hotel: which is worth it?](/en/blog/airbnb-vs-hotel-comparison/).
 
 ---
 
@@ -108,6 +108,6 @@ Ask at check-in, politely and specifically. "Is there a room on a higher floor o
 
 ## Read more
 
-- [Booking.com vs. booking directly: when each option wins](/en/blog/booking-vs-direct-hotel-booking)
-- [Hotel rate parity explained: what it means for your booking](/en/blog/hotel-rate-parity-explained)
-- [Airbnb vs. hotel: which is worth it for each type of traveler?](/en/blog/airbnb-vs-hotel-comparison)
+- [Booking.com vs. booking directly: when each option wins](/en/blog/booking-vs-direct-hotel-booking/)
+- [Hotel rate parity explained: what it means for your booking](/en/blog/hotel-rate-parity-explained/)
+- [Airbnb vs. hotel: which is worth it for each type of traveler?](/en/blog/airbnb-vs-hotel-comparison/)

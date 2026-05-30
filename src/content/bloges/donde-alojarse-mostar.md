@@ -51,7 +51,7 @@ Mostar es un destino de verano, pero con matices importantes. Julio y agosto son
 
 **Invierno:** Mostar es preciosa y vacía en invierno. Frío (0-10°C), pero asequible y auténtica. Menos hoteles abiertos.
 
-El [Portal de Turismo de Bosnia](https://www.tourism.ba) tiene información actualizada y horarios. Quien viaje por los [Balcanes en ruta](/es/blog/balcanes-road-trip-ruta) encontrará en Mostar una parada imprescindible.
+El [Portal de Turismo de Bosnia](https://www.tourism.ba) tiene información actualizada y horarios. Quien viaje por los [Balcanes en ruta](/es/blog/balcanes-road-trip-ruta/) encontrará en Mostar una parada imprescindible.
 
 ## Orilla del Neretva: Romance junto al río turquesa
 
@@ -100,6 +100,6 @@ Casas de huéspedes en el casco histórico: 40-80 EUR. Hoteles boutique: 80-160 
 ---
 
 ## Más artículos
-- [Ruta por los Balcanes: De Eslovenia a Albania](/es/blog/balcanes-road-trip-ruta)
-- [Dónde alojarse en Kotor: La ciudad vieja de Montenegro](/es/blog/donde-alojarse-kotor)
-- [Dónde alojarse en Dubrovnik: ¿Casco histórico o Lapad?](/es/blog/donde-alojarse-dubrovnik)
+- [Ruta por los Balcanes: De Eslovenia a Albania](/es/blog/balcanes-road-trip-ruta/)
+- [Dónde alojarse en Kotor: La ciudad vieja de Montenegro](/es/blog/donde-alojarse-kotor/)
+- [Dónde alojarse en Dubrovnik: ¿Casco histórico o Lapad?](/es/blog/donde-alojarse-dubrovnik/)

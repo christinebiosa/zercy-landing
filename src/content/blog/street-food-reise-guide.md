@@ -32,7 +32,7 @@ Manche Länder haben Street Food zur Kunstform gemacht. Fünf davon stehen ganz 
 
 Für Hintergrundinformationen zu diesen Küchen lohnt ein Blick auf [Serious Eats' Street Food Guides](https://www.seriouseats.com/street-food) — dort sind auch Rezepte und Kulturkontext gut erklärt.
 
-Wenn du eine Reise nach Südostasien planst: [Südostasien-Budgettipps](/blog/suedostasien-budget-reisen) zeigt dir, wie du länger bleibst und mehr isst.
+Wenn du eine Reise nach Südostasien planst: [Südostasien-Budgettipps](/blog/suedostasien-budget-reisen/) zeigt dir, wie du länger bleibst und mehr isst.
 
 ---
 
@@ -48,7 +48,7 @@ Das ist die eigentlich wichtige Frage. Und die Antwort hat wenig mit Apps zu tun
 
 **Bestell, was schnell geht.** Stände, die schnell viele Portionen abwickeln, haben Umsatz. Umsatz bedeutet: frische Zutaten, kein Stehenbleiben, kein Aufwärmen von gestern.
 
-Zum Thema Essen wie ein Einheimischer haben wir auch einen ausführlicheren Artikel: [Food Travel: Essen wie ein Einheimischer](/blog/food-travel-essen-wie-einheimischer).
+Zum Thema Essen wie ein Einheimischer haben wir auch einen ausführlicheren Artikel: [Food Travel: Essen wie ein Einheimischer](/blog/food-travel-essen-wie-einheimischer/).
 
 ---
 
@@ -79,9 +79,9 @@ Du lernst drei bis fünf Stände kennen, die du nie selbst gefunden hättest. Du
 
 In Bangkok empfiehlt [Eater's Food Guides](https://www.eater.com/maps/best-street-food-cities-world) mehrere Anbieter, die wirklich abseits der Touristenpfade gehen. Ähnliches gilt für Oaxaca und Hanoi.
 
-Wenn Marokko auf deiner Liste steht: [Marokko Städte Guide](/blog/marokko-staedte-guide) hat konkrete Empfehlungen für Marrakesch und Fes.
+Wenn Marokko auf deiner Liste steht: [Marokko Städte Guide](/blog/marokko-staedte-guide/) hat konkrete Empfehlungen für Marrakesch und Fes.
 
-Und für eine komplette Mexiko-Route mit Street-Food-Stationen: [Mexiko Rundreise Route](/blog/mexiko-rundreise-route).
+Und für eine komplette Mexiko-Route mit Street-Food-Stationen: [Mexiko Rundreise Route](/blog/mexiko-rundreise-route/).
 
 ---
 

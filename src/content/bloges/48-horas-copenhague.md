@@ -63,15 +63,15 @@ Si prefieres quedarte en la ciudad: el Castillo de Rosenborg, un palacio renacen
 
 Copenhague en bicicleta al atardecer es el mejor final posible para un fin de semana en esta ciudad. Desde Nyhavn por el canal, a través de Christianshavn, hasta el frente marítimo de Langelinie y de vuelta por el puerto. La infraestructura ciclista aquí supera a casi cualquier ciudad de Europa.
 
-Cena de la última noche: la zona de Jægersborggade en el barrio de Nørrebro, cerca de Nørreport. No es una alternativa al Noma, es el Copenhague real. Restaurantes con conceptos claros, precios razonables y menos turistas. Para una visión más amplia de lo que Dinamarca ofrece más allá de la capital, la [guía de viaje a Dinamarca](/es/blog/dinamarca-guia-viaje-highlights) tiene el panorama completo.
+Cena de la última noche: la zona de Jægersborggade en el barrio de Nørrebro, cerca de Nørreport. No es una alternativa al Noma, es el Copenhague real. Restaurantes con conceptos claros, precios razonables y menos turistas. Para una visión más amplia de lo que Dinamarca ofrece más allá de la capital, la [guía de viaje a Dinamarca](/es/blog/dinamarca-guia-viaje-highlights/) tiene el panorama completo.
 
 ## ¿Cuánto cuesta realmente Copenhague?
 
 Un presupuesto diario realista para dos comidas, una o dos entradas y transporte es de 80 a 100 euros. Para quedarte por debajo: mercados en lugar de restaurantes, agua de grifos o fuentes, bicicleta en lugar de metro.
 
-Hoteles: una opción de gama media cuesta entre 120 y 200 euros la noche. Hostels desde 35 euros, Airbnbs a menudo más baratos que hoteles pero con mucha demanda. En [Booking.com](https://www.booking.com/searchresults.html?ss=Copenhagen) tienes toda la oferta con filtro de mapa por barrio. La guía completa de alojamiento por distrito está aquí: [Dónde alojarse en Copenhague](/es/blog/donde-alojarse-copenhague).
+Hoteles: una opción de gama media cuesta entre 120 y 200 euros la noche. Hostels desde 35 euros, Airbnbs a menudo más baratos que hoteles pero con mucha demanda. En [Booking.com](https://www.booking.com/searchresults.html?ss=Copenhagen) tienes toda la oferta con filtro de mapa por barrio. La guía completa de alojamiento por distrito está aquí: [Dónde alojarse en Copenhague](/es/blog/donde-alojarse-copenhague/).
 
-Si Copenhague forma parte de un viaje más amplio por el norte de Europa, la [ruta completa por Escandinavia](/es/blog/escandinavia-ruta-completa) explica cómo conectarla con Oslo y Estocolmo de forma eficiente.
+Si Copenhague forma parte de un viaje más amplio por el norte de Europa, la [ruta completa por Escandinavia](/es/blog/escandinavia-ruta-completa/) explica cómo conectarla con Oslo y Estocolmo de forma eficiente.
 
 Zercy encuentra el vuelo más barato a Copenhague y el hotel adecuado en un solo paso. Guarda todo en tu [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano cuando reserves.
 
@@ -98,6 +98,6 @@ El paseo hasta la Sirenita si el tiempo es ajustado. La estatua es más pequeña
 ---
 
 **Más información:**
-- [Dónde alojarse en Copenhague: barrios y hoteles por presupuesto](/es/blog/donde-alojarse-copenhague)
-- [Escandinavia: la ruta completa de Oslo a Estocolmo](/es/blog/escandinavia-ruta-completa)
-- [Dinamarca: guía de viaje con los mejores highlights](/es/blog/dinamarca-guia-viaje-highlights)
+- [Dónde alojarse en Copenhague: barrios y hoteles por presupuesto](/es/blog/donde-alojarse-copenhague/)
+- [Escandinavia: la ruta completa de Oslo a Estocolmo](/es/blog/escandinavia-ruta-completa/)
+- [Dinamarca: guía de viaje con los mejores highlights](/es/blog/dinamarca-guia-viaje-highlights/)

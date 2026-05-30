@@ -77,6 +77,6 @@ La fortaleza insular de Suomenlinna (Patrimonio Mundial de la UNESCO), la iglesi
 
 ## Más sobre el norte de Europa
 
-- [Dónde alojarse en Tallin](/es/blog/donde-alojarse-tallin)
-- [Dónde alojarse en Riga](/es/blog/donde-alojarse-riga)
-- [Dónde alojarse en Vilna](/es/blog/donde-alojarse-vilna)
+- [Dónde alojarse en Tallin](/es/blog/donde-alojarse-tallin/)
+- [Dónde alojarse en Riga](/es/blog/donde-alojarse-riga/)
+- [Dónde alojarse en Vilna](/es/blog/donde-alojarse-vilna/)

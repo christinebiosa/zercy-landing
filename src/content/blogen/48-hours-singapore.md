@@ -59,15 +59,15 @@ Sentosa with Universal Studios takes an entire day. Too much for a weekend. Juro
 
 ## When is the best time to visit Singapore?
 
-Singapore sits near the equator. It's always hot and humid. That said, February to April is drier than the rest of the year. June to August is crowded because school holidays overlap in many countries. November to January is the official rainy season. If you have flexible dates, our [stopover tourism guide](/en/blog/stopover-tourism-guide) explains how to combine Singapore with a longer journey.
+Singapore sits near the equator. It's always hot and humid. That said, February to April is drier than the rest of the year. June to August is crowded because school holidays overlap in many countries. November to January is the official rainy season. If you have flexible dates, our [stopover tourism guide](/en/blog/stopover-tourism-guide/) explains how to combine Singapore with a longer journey.
 
-Singapore is 12 flight hours from Europe. That makes it a natural stopover on the way to Australia or New Zealand. For flight search strategies, our [airport hacks](/en/blog/airport-hacks) guide covers what to look for at Changi specifically.
+Singapore is 12 flight hours from Europe. That makes it a natural stopover on the way to Australia or New Zealand. For flight search strategies, our [airport hacks](/en/blog/airport-hacks/) guide covers what to look for at Changi specifically.
 
 ## Where to stay for a Singapore weekend
 
 Hotels in Singapore are expensive. Budget 100 to 300 SGD per night for a solid option. Chinatown and Little India are cheaper than Marina Bay and Orchard Road. For location: the area around Bugis MRT is central, well-connected, and not as overpriced as the waterfront.
 
-[Booking.com](https://www.booking.com/searchresults.html?ss=Singapore) has the full range with neighborhood filters. For a detailed breakdown by area, check our guide on [where to stay in Singapore](/en/blog/where-to-stay-singapore).
+[Booking.com](https://www.booking.com/searchresults.html?ss=Singapore) has the full range with neighborhood filters. For a detailed breakdown by area, check our guide on [where to stay in Singapore](/en/blog/where-to-stay-singapore/).
 
 The official tourism board [Visit Singapore](https://www.visitsingapore.com) has curated recommendations and current events.
 
@@ -98,6 +98,6 @@ Maxwell Food Centre (Chinatown) and Old Airport Road Food Centre are considered 
 ---
 
 **Read more:**
-- [Where to Stay in Singapore: Neighborhoods and Hotels by Budget](/en/blog/where-to-stay-singapore)
-- [Stopover Tourism: How to Turn a Long Layover into a Trip](/en/blog/stopover-tourism-guide)
-- [Airport Hacks: Move Faster Through Any Airport](/en/blog/airport-hacks)
+- [Where to Stay in Singapore: Neighborhoods and Hotels by Budget](/en/blog/where-to-stay-singapore/)
+- [Stopover Tourism: How to Turn a Long Layover into a Trip](/en/blog/stopover-tourism-guide/)
+- [Airport Hacks: Move Faster Through Any Airport](/en/blog/airport-hacks/)

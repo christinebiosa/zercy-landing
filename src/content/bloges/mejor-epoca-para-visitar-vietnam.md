@@ -51,9 +51,9 @@ El sur tiene la temporada más predecible de todo el país. La estación seca va
 
 ## ¿Cómo combinar norte, centro y sur en un solo viaje?
 
-La ruta clásica de Vietnam de 2 semanas baja de norte a sur. El problema es que no siempre la temporada de cada región coincide. La guía de [Vietnam en 2 semanas: ruta completa](/es/blog/vietnam-2-semanas-ruta) tiene sugerencias específicas para distintas épocas del año.
+La ruta clásica de Vietnam de 2 semanas baja de norte a sur. El problema es que no siempre la temporada de cada región coincide. La guía de [Vietnam en 2 semanas: ruta completa](/es/blog/vietnam-2-semanas-ruta/) tiene sugerencias específicas para distintas épocas del año.
 
-Si el plan incluye Hanói, la guía de [dónde alojarse en Hanói](/es/blog/donde-alojarse-hanoi) explica los barrios más prácticos para llegar y moverte. Y si Vietnam forma parte de un viaje más largo por la región, la guía de [viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico) te da el contexto completo de presupuesto y temporadas en países vecinos.
+Si el plan incluye Hanói, la guía de [dónde alojarse en Hanói](/es/blog/donde-alojarse-hanoi/) explica los barrios más prácticos para llegar y moverte. Y si Vietnam forma parte de un viaje más largo por la región, la guía de [viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/) te da el contexto completo de presupuesto y temporadas en países vecinos.
 
 ---
 
@@ -75,6 +75,6 @@ Phu Quoc en el extremo suroeste es la isla más desarrollada y con mejor infraes
 
 ## Más información
 
-- [Vietnam en 2 semanas: ruta completa](/es/blog/vietnam-2-semanas-ruta)
-- [Dónde alojarse en Hanói](/es/blog/donde-alojarse-hanoi)
-- [Viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico)
+- [Vietnam en 2 semanas: ruta completa](/es/blog/vietnam-2-semanas-ruta/)
+- [Dónde alojarse en Hanói](/es/blog/donde-alojarse-hanoi/)
+- [Viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/)

@@ -60,6 +60,6 @@ Fast alle Aktivitäten funktionieren auch in der Grünen Saison: Rafting, Zip-Li
 ---
 
 **Mehr lesen:**
-- [Costa Rica Rundreise: Die beste Route](/blog/costa-rica-rundreise-route)
-- [Costa Rica Surfen: Die besten Spots](/blog/costa-rica-surfen)
-- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich)
+- [Costa Rica Rundreise: Die beste Route](/blog/costa-rica-rundreise-route/)
+- [Costa Rica Surfen: Die besten Spots](/blog/costa-rica-surfen/)
+- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/)

@@ -71,7 +71,7 @@ Der ADAC-Schutz für Mitglieder ist eine bekannte Option. Die Stiftung Warentest
 - Rücktransport abgesichert haben möchtest
 - In Ländern mit schwachem Gesundheitssystem reist (manche Balkanländer)
 
-Weitere Infos in unserem Guide [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich) und im [USA Nationalparks Reiseguide](/blog/usa-nationalparks-reiseguide) (wo US-Kosten besonders relevant sind).
+Weitere Infos in unserem Guide [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/) und im [USA Nationalparks Reiseguide](/blog/usa-nationalparks-reiseguide/) (wo US-Kosten besonders relevant sind).
 
 ---
 
@@ -97,6 +97,6 @@ Vorerkrankungen sind der kritischste Punkt. Die meisten Policen decken akute Not
 
 ## Mehr lesen
 
-- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich)
-- [Reise-Budget sparen: Anleitung für smarte Reisende](/blog/reise-budget-sparen-anleitung)
-- [USA Nationalparks Reiseguide: Tipps und Kosten](/blog/usa-nationalparks-reiseguide)
+- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/)
+- [Reise-Budget sparen: Anleitung für smarte Reisende](/blog/reise-budget-sparen-anleitung/)
+- [USA Nationalparks Reiseguide: Tipps und Kosten](/blog/usa-nationalparks-reiseguide/)

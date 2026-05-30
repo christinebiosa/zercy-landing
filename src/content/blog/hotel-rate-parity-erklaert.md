@@ -44,7 +44,7 @@ Direktbuchung ist kein genereller Geheimtipp. Aber in bestimmten Situationen ist
 
 **Wenn du ein bestimmtes Zimmer willst.** Direktbuchung gibt dem Hotel die Möglichkeit, auf spezielle Wünsche einzugehen, die auf Booking.com schlicht nicht konfigurierbar sind: Nicht-Raucher-Zimmer, hohes Stockwerk, Abstand vom Aufzug.
 
-Mehr zu diesem Thema in unserem [Guide zur Direktbuchung vs. Booking.com](/blog/booking-vs-direkt-buchen).
+Mehr zu diesem Thema in unserem [Guide zur Direktbuchung vs. Booking.com](/blog/booking-vs-direkt-buchen/).
 
 **Was bei Direktbuchung nicht garantiert ist.** Kein automatisches Upgrade. Kein besserer Preis ohne Nachfragen. Keine bessere Stornierung (oft sogar schlechtere, weil OTA-Plattformen oft kulantere Bedingungen durchsetzen).
 
@@ -52,7 +52,7 @@ Mehr zu diesem Thema in unserem [Guide zur Direktbuchung vs. Booking.com](/blog/
 
 Loyalitätsprogramme der OTAs sind eine legale Umgehung der Rate Parity.
 
-**Booking Genius** hat drei Stufen (Level 1, 2, 3). Ab Level 1 bekommst du bei teilnehmenden Hotels 10-15 Prozent Rabatt, kostenloses Frühstück oder kostenloses Taxi. Erreicht nach 2 abgeschlossenen Buchungen. Der Vorbehalt: Nicht alle Hotels nehmen teil, und Genius-Preise sind oft an nicht-erstattbare Tarife gekoppelt. Mehr Details im [Booking Genius Programm-Guide](/blog/booking-genius-programm-lohnt-es-sich).
+**Booking Genius** hat drei Stufen (Level 1, 2, 3). Ab Level 1 bekommst du bei teilnehmenden Hotels 10-15 Prozent Rabatt, kostenloses Frühstück oder kostenloses Taxi. Erreicht nach 2 abgeschlossenen Buchungen. Der Vorbehalt: Nicht alle Hotels nehmen teil, und Genius-Preise sind oft an nicht-erstattbare Tarife gekoppelt. Mehr Details im [Booking Genius Programm-Guide](/blog/booking-genius-programm-lohnt-es-sich/).
 
 **Expedia One Key** führt Hotels, Mietwagen und Flüge in einem Punkte-System zusammen. Der Vorteil: Flüge zählen mit. Wer viel über Expedia bucht, bekommt hier echten Mehrwert. Hotels.com Rewards ist seit der One-Key-Migration integriert.
 
@@ -64,7 +64,7 @@ Loyalitätsprogramme der OTAs sind eine legale Umgehung der Rate Parity.
 | Expedia One Key | Guthaben (~2-5%) | Ja | Sofort |
 | Hotels.com Rewards | In One Key integriert | Ja | Sofort |
 
-Für einen direkten Plattform-Vergleich lies unseren Artikel [Booking.com vs. Expedia 2026](/blog/booking-vs-expedia-vergleich-2026).
+Für einen direkten Plattform-Vergleich lies unseren Artikel [Booking.com vs. Expedia 2026](/blog/booking-vs-expedia-vergleich-2026/).
 
 ## Wann ist OTA-Buchung besser als jede Direktbuchung?
 
@@ -99,6 +99,6 @@ Ab Level 1 (nach 2 Buchungen) bietet Genius 10-15 Prozent Rabatt bei teilnehmend
 ---
 
 **Mehr lesen:**
-- [Booking Genius Programm: Lohnt es sich?](/blog/booking-genius-programm-lohnt-es-sich)
-- [Booking vs. Direkt buchen: Wann welche Wahl?](/blog/booking-vs-direkt-buchen)
-- [Airbnb vs. Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
+- [Booking Genius Programm: Lohnt es sich?](/blog/booking-genius-programm-lohnt-es-sich/)
+- [Booking vs. Direkt buchen: Wann welche Wahl?](/blog/booking-vs-direkt-buchen/)
+- [Airbnb vs. Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich/)

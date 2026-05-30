@@ -94,6 +94,6 @@ Taipei as a whole is one of Asia's safest cities. All districts are safe for sol
 ---
 
 **Read more:**
-- [Where to Stay in Tokyo: Which Neighborhood to Choose?](/en/blog/where-to-stay-tokyo)
-- [Where to Stay in Seoul: Gangnam or Hongdae?](/en/blog/where-to-stay-seoul)
-- [Where to Stay in Hong Kong: Which District?](/en/blog/where-to-stay-hong-kong)
+- [Where to Stay in Tokyo: Which Neighborhood to Choose?](/en/blog/where-to-stay-tokyo/)
+- [Where to Stay in Seoul: Gangnam or Hongdae?](/en/blog/where-to-stay-seoul/)
+- [Where to Stay in Hong Kong: Which District?](/en/blog/where-to-stay-hong-kong/)

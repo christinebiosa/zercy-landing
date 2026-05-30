@@ -40,7 +40,7 @@ El Logbook está disponible en [zercy.app/logbook](https://www.zercy.app/logbook
 
 El Logbook es parte del servicio gratuito de Zercy. No hay suscripción ni plan de pago para usarlo. Como el resto de Zercy, el servicio es gratuito para usuarios y el modelo de negocio es de afiliación con proveedores de vuelos y hoteles.
 
-Para más contexto sobre cómo funciona el ecosistema completo de Zercy, lee [qué es Zercy y cómo funciona](/es/blog/que-es-zercy).
+Para más contexto sobre cómo funciona el ecosistema completo de Zercy, lee [qué es Zercy y cómo funciona](/es/blog/que-es-zercy/).
 
 Empieza tu próximo viaje en [zercy.app](https://www.zercy.app) y guarda el plan en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -67,6 +67,6 @@ TripIt organiza reservas existentes a partir de los emails de confirmación. Goo
 ---
 
 **Más para leer:**
-- [Qué es Zercy y cómo funciona el planificador de viajes con IA](/es/blog/que-es-zercy)
-- [Cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes)
-- [Las mejores apps de viaje para 2026](/es/blog/mejores-apps-viaje-2026)
+- [Qué es Zercy y cómo funciona el planificador de viajes con IA](/es/blog/que-es-zercy/)
+- [Cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes/)
+- [Las mejores apps de viaje para 2026](/es/blog/mejores-apps-viaje-2026/)

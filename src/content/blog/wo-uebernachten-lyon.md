@@ -73,7 +73,7 @@ Für Lyon empfehle ich [Booking.com](https://www.booking.com) klar. Über 600 Un
 
 Lyons Küche ist der eigentliche Grund, hier zu übernachten. Drei Sterne Michelin-Restaurants, über 2.000 Restaurants auf der Presqu'île, die echten Bouchons in Vieux-Lyon. Plane mehr Zeit ein als du denkst.
 
-Lies auch unseren [Frankreich-Reiseüberblick](/blog/wo-uebernachten-paris) für mehr Infos zu Paris und weiteren französischen Städten sowie unsere [Tipps für europäische Städte im Winter](/blog/europaeische-staedte-winter-tipps).
+Lies auch unseren [Frankreich-Reiseüberblick](/blog/wo-uebernachten-paris/) für mehr Infos zu Paris und weiteren französischen Städten sowie unsere [Tipps für europäische Städte im Winter](/blog/europaeische-staedte-winter-tipps/).
 
 ---
 
@@ -101,6 +101,6 @@ Die klassischen Bouchons in Vieux-Lyon (Saint-Jean-Viertel) für Quenelles, Ando
 
 ## Mehr lesen
 
-- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
-- [Wo übernachten in Marseille: Stadtteile und Hotels](/blog/wo-uebernachten-marseille)
-- [Beste Frühlingsziele in Europa](/blog/beste-fruehlingsziele-europa)
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris/)
+- [Wo übernachten in Marseille: Stadtteile und Hotels](/blog/wo-uebernachten-marseille/)
+- [Beste Frühlingsziele in Europa](/blog/beste-fruehlingsziele-europa/)

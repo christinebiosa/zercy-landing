@@ -30,7 +30,7 @@ Primero, si viajas mucho: diez o más noches al año. Con menos, acumulas demasi
 
 Segundo, si de todos modos sueles elegir la misma cadena. Reservas Hilton o Marriott porque esos hoteles son buenos en tus destinos, no por obligación. La lealtad no te cuesta nada extra.
 
-Tercero, si viajas por negocios. Los viajes frecuentes generan noches con rapidez. Upgrades, check-out tardío y salas VIP marcan diferencia. Nuestra guía de [business class sin millas](/es/blog/business-class-sin-millas) explica cómo combinar ambos beneficios.
+Tercero, si viajas por negocios. Los viajes frecuentes generan noches con rapidez. Upgrades, check-out tardío y salas VIP marcan diferencia. Nuestra guía de [business class sin millas](/es/blog/business-class-sin-millas/) explica cómo combinar ambos beneficios.
 
 Cuarto, si puedes aspirar al estatus Oro o Platino. Check-out hasta las 16:00, upgrades garantizados, a veces desayuno incluido.
 
@@ -42,7 +42,7 @@ Aquí viene lo incómodo. Si viajas dos o tres veces al año y alternas entre ca
 
 Tomemos Marriott Bonvoy: una noche en la categoría más baja cuesta 5.000 puntos. Ganas unos 10 puntos por dólar. Necesitas 500 dólares de gasto para una sola noche gratuita en la categoría más básica. El ahorro parece escaso comparado con el precio en Booking.com.
 
-Y ahí está la trampa más grande: los precios para miembros son con frecuencia más caros que los precios para no miembros en plataformas de reservas. La [paridad de tarifas hoteleras](/es/blog/paridad-tarifas-hoteles) se rompe constantemente. Las OTAs aplican descuentos Genius y tarifas exclusivas que recortan el precio oficial de la cadena. El resultado: en Booking.com o Expedia sueles encontrar el mismo hotel entre un 10 y un 20 por ciento más barato.
+Y ahí está la trampa más grande: los precios para miembros son con frecuencia más caros que los precios para no miembros en plataformas de reservas. La [paridad de tarifas hoteleras](/es/blog/paridad-tarifas-hoteles/) se rompe constantemente. Las OTAs aplican descuentos Genius y tarifas exclusivas que recortan el precio oficial de la cadena. El resultado: en Booking.com o Expedia sueles encontrar el mismo hotel entre un 10 y un 20 por ciento más barato.
 
 Siempre compara primero.
 
@@ -50,7 +50,7 @@ Siempre compara primero.
 
 El programa Genius de Booking.com es el competidor directo. Sin compromiso con ninguna cadena. Sin acumulación de puntos. En cambio: hasta un 20 por ciento de descuento en propiedades participantes, check-in anticipado, check-out tardío y ocasionalmente desayuno gratis. El Nivel 1 de Genius se alcanza rápido y aplica a hoteles independientes, boutique y grandes cadenas por igual.
 
-Para viajeros que cambian de tipo de alojamiento según el destino, Genius suele ser la mejor opción. Sin ataduras ni acumulación de puntos. Consulta nuestra [comparativa entre Booking.com y Expedia](/es/blog/booking-vs-expedia-comparativa-2026) para ver cuándo gana cada plataforma.
+Para viajeros que cambian de tipo de alojamiento según el destino, Genius suele ser la mejor opción. Sin ataduras ni acumulación de puntos. Consulta nuestra [comparativa entre Booking.com y Expedia](/es/blog/booking-vs-expedia-comparativa-2026/) para ver cuándo gana cada plataforma.
 
 ## ¿Cómo elegir el programa adecuado?
 
@@ -58,7 +58,7 @@ Si decides que un programa de fidelidad es lo tuyo, elige exactamente uno. Divid
 
 Hilton Honors o Marriott Bonvoy son los puntos de partida naturales. World of Hyatt vale si viajas con frecuencia a ciudades de EE. UU.: cartera más pequeña, pero la política de upgrades más generosa.
 
-Sea cual sea tu elección, compara siempre la tarifa de miembro en Booking.com o Expedia. Si la plataforma sale más barata, reserva ahí. Los puntos que dejas de ganar valen menos que el ahorro. Las [categorías de hotel](/es/blog/categorias-hotel-explicadas) te ayudan a saber cuándo un upgrade realmente importa.
+Sea cual sea tu elección, compara siempre la tarifa de miembro en Booking.com o Expedia. Si la plataforma sale más barata, reserva ahí. Los puntos que dejas de ganar valen menos que el ahorro. Las [categorías de hotel](/es/blog/categorias-hotel-explicadas/) te ayudan a saber cuándo un upgrade realmente importa.
 
 ---
 
@@ -81,6 +81,6 @@ Ningún programa de cadena gana claramente. El Genius de Booking.com suele ser l
 ---
 
 **Seguir leyendo:**
-- [Paridad de tarifas hoteleras: por qué la misma habitación cuesta igual en todas partes](/es/blog/paridad-tarifas-hoteles)
-- [Booking.com vs. Expedia: la comparativa honesta 2026](/es/blog/booking-vs-expedia-comparativa-2026)
-- [Categorías de hotel explicadas: qué significan 3, 4 y 5 estrellas](/es/blog/categorias-hotel-explicadas)
+- [Paridad de tarifas hoteleras: por qué la misma habitación cuesta igual en todas partes](/es/blog/paridad-tarifas-hoteles/)
+- [Booking.com vs. Expedia: la comparativa honesta 2026](/es/blog/booking-vs-expedia-comparativa-2026/)
+- [Categorías de hotel explicadas: qué significan 3, 4 y 5 estrellas](/es/blog/categorias-hotel-explicadas/)

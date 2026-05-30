@@ -100,7 +100,7 @@ In NYC [Booking.com](https://www.booking.com) is almost always the best choice b
 
 Direct hotel booking only worth it for premium (Plaza, Mandarin) for possible upgrades.
 
-See also our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026), for US trips international health insurance is absolutely essential.
+See also our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/), for US trips international health insurance is absolutely essential.
 
 ---
 
@@ -127,6 +127,6 @@ Backpacker: $1,500-2,000 per person incl. flight (hostel, self-catering). Mid-ra
 ---
 
 **Read more:**
-- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo)
-- [Where to stay in Mexico City: 5 neighborhoods](/en/blog/where-to-stay-mexico-city)
-- [Travel insurance 2026: what's worth it, what's junk?](/en/blog/travel-insurance-worth-it-2026)
+- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo/)
+- [Where to stay in Mexico City: 5 neighborhoods](/en/blog/where-to-stay-mexico-city/)
+- [Travel insurance 2026: what's worth it, what's junk?](/en/blog/travel-insurance-worth-it-2026/)

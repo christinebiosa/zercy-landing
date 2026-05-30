@@ -47,7 +47,7 @@ En las laderas al este de la Plaza de Armas. El barrio histórico de artistas de
 
 **Top picks:** Antigua Casona San Blas (boutique en villa colonial restaurada), Quinta San Blas by Ananay Hotels (boutique premium), Sonesta Cusco (gama media clásica).
 
-Lee también nuestra [guía de Lima](/es/blog/donde-alojarse-lima), tu probable puerta de entrada antes de Cusco.
+Lee también nuestra [guía de Lima](/es/blog/donde-alojarse-lima/), tu probable puerta de entrada antes de Cusco.
 
 ## ¿Cuándo es la mejor época para visitar Cusco?
 
@@ -122,6 +122,6 @@ Mochilero: 800-1.100 USD por persona incl. vuelo Lima-Cusco (hostal en San Pedro
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Bogotá: 4 barrios](/es/blog/donde-alojarse-bogota)
+- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Bogotá: 4 barrios](/es/blog/donde-alojarse-bogota/)

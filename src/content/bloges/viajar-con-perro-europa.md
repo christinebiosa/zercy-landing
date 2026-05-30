@@ -65,6 +65,6 @@ No planificar el transporte con tiempo. Muchos hoteles que aparecen como "pet-fr
 ---
 
 **Más para leer:**
-- [Road trip: cómo planificar las etapas perfectas](/es/blog/roadtrip-planificacion-etapas)
-- [Checklist para el alquiler de coche](/es/blog/checklist-alquiler-coche)
-- [Seguro de viaje: ¿vale la pena contratarlo?](/es/blog/seguro-viaje-vale-la-pena)
+- [Road trip: cómo planificar las etapas perfectas](/es/blog/roadtrip-planificacion-etapas/)
+- [Checklist para el alquiler de coche](/es/blog/checklist-alquiler-coche/)
+- [Seguro de viaje: ¿vale la pena contratarlo?](/es/blog/seguro-viaje-vale-la-pena/)

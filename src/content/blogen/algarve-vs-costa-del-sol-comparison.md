@@ -22,7 +22,7 @@ For hikers, the Rota Vicentina coastal trail runs through Alentejo's nature park
 
 The price difference is real. The Algarve runs roughly 15-25% below Costa del Sol levels for hotels, restaurants, and car rentals. Two weeks of budget adds up fast. A beachside lunch in Albufeira costs noticeably less than a comparable meal in Marbella.
 
-If you want to dig deeper into the region, the [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026) has everything you need. And if you're considering mixing surf into the trip: [Surfing holidays for beginners](/en/blog/surfing-holiday-beginners-guide) covers which spots match which skill level.
+If you want to dig deeper into the region, the [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026/) has everything you need. And if you're considering mixing surf into the trip: [Surfing holidays for beginners](/en/blog/surfing-holiday-beginners-guide/) covers which spots match which skill level.
 
 ## When is the Costa del Sol the better choice?
 
@@ -34,7 +34,7 @@ The Costa del Sol is also better connected by air. Málaga airport is one of the
 
 The official [Costa del Sol Tourism site](https://www.visitacostadelsol.com) has area maps and an events calendar that helps with advance planning.
 
-If you're still weighing up Portugal vs. Spain as a whole, [Portugal vs. Spain: which to choose](/en/blog/portugal-vs-spain-which-to-choose) covers the bigger picture.
+If you're still weighing up Portugal vs. Spain as a whole, [Portugal vs. Spain: which to choose](/en/blog/portugal-vs-spain-which-to-choose/) covers the bigger picture.
 
 ## How different are the beaches, really?
 
@@ -42,7 +42,7 @@ Atlantic and Mediterranean feel different. That's not a cliche.
 
 On the Algarve, beaches are often framed by cliffs and rock formations. Praia da Marinha, Praia do Camilo, Praia de Benagil. The scenery is dramatic. The water is clear because Atlantic currents keep it moving. Waves can pack a punch. That makes swimming more exciting, but also more physically demanding.
 
-On the Costa del Sol, beaches are usually long, flat, and the water is calm. The Mediterranean is warmer and quieter. Great for families with young kids, or anyone who wants relaxed beach time without wave action. [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026) includes strong picks from both coastlines.
+On the Costa del Sol, beaches are usually long, flat, and the water is calm. The Mediterranean is warmer and quieter. Great for families with young kids, or anyone who wants relaxed beach time without wave action. [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026/) includes strong picks from both coastlines.
 
 Sun loungers on the Costa del Sol are often more expensive. In Marbella, a day bed at a beach club can easily cost 30-50 euros. On many Algarve beaches, that kind of setup barely exists. Some stretches are completely wild. That's a feature, not a gap.
 
@@ -52,7 +52,7 @@ Yes, and it's one of the best ways to see southern Europe.
 
 Fly into Faro, head west to the wild coast around Sagres, then east along the Algarve to charming Tavira. From there, drive or take the train through Huelva to Seville. Two days in Seville: the cathedral, the Alcázar, tapas in the Triana neighborhood. Then south to Málaga. Ten days total is realistic if you don't overload the schedule.
 
-This combination route pairs the Algarve's raw beauty with the Costa del Sol's urban energy. For the flight side: [Cheap flights tips](/en/blog/cheap-flights-tips) explains when open-jaw tickets (fly into Faro, out of Málaga) make financial sense.
+This combination route pairs the Algarve's raw beauty with the Costa del Sol's urban energy. For the flight side: [Cheap flights tips](/en/blog/cheap-flights-tips/) explains when open-jaw tickets (fly into Faro, out of Málaga) make financial sense.
 
 ---
 
@@ -79,6 +79,6 @@ The Algarve, clearly. Sagres and the west coast spots like Arrifana and Carrapat
 ---
 
 **Read more:**
-- [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026)
-- [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026)
-- [Portugal vs. Spain: Which to Choose](/en/blog/portugal-vs-spain-which-to-choose)
+- [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026/)
+- [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026/)
+- [Portugal vs. Spain: Which to Choose](/en/blog/portugal-vs-spain-which-to-choose/)

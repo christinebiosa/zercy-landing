@@ -45,7 +45,7 @@ Direkt nördlich von Candelaria. Bogotás hippester Stadtteil mit Hunderten Indi
 
 **Top-Picks:** Hotel Click Clack (Designer-Boutique mit Rooftop-Bar), Hotel BH El Retiro (modernes Mittelklasse), 100% B&B (kleines Boutique mit Frühstück).
 
-Lies dazu auch unseren [Cartagena-Guide](/blog/wo-uebernachten-cartagena), wenn du Kolumbien komplett erkundest.
+Lies dazu auch unseren [Cartagena-Guide](/blog/wo-uebernachten-cartagena/), wenn du Kolumbien komplett erkundest.
 
 ## Wann ist die beste Reisezeit für Bogotá?
 
@@ -119,6 +119,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel in Candelaria, lokales Es
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
-- [Wo übernachten in Lima: Die 4 Stadtteile](/blog/wo-uebernachten-lima)
-- [Wo übernachten in Cusco: Die 4 Stadtteile](/blog/wo-uebernachten-cusco)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena/)
+- [Wo übernachten in Lima: Die 4 Stadtteile](/blog/wo-uebernachten-lima/)
+- [Wo übernachten in Cusco: Die 4 Stadtteile](/blog/wo-uebernachten-cusco/)

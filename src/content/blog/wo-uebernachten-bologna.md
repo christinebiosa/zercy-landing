@@ -45,7 +45,7 @@ Nördlich des Bahnhofs, einst ein Arbeiterviertel, heute das aufstrebendste Quar
 
 **Top-Picks:** Hotel Roma Bologna (gut angebunden, vernünftiger Preis), Una Hotel Bologna (Designhotel nahe Bahnhof), Starhotels Excelsior (gehobene Mittelklasse mit guter Lage).
 
-Unser [Florenz-Guide](/blog/wo-uebernachten-florenz) ist eine gute Ergänzung für alle, die Bologna mit einem klassischen Toskana-Trip kombinieren.
+Unser [Florenz-Guide](/blog/wo-uebernachten-florenz/) ist eine gute Ergänzung für alle, die Bologna mit einem klassischen Toskana-Trip kombinieren.
 
 ## Wann ist die beste Reisezeit für Bologna?
 
@@ -94,7 +94,7 @@ Für Bologna ist [Booking.com](https://www.booking.com) gut bestückt:
 
 Direktbuchung lohnt sich bei kleineren Boutique-Hotels im Centro Storico, weil dort oft bessere Zimmer und späteres Checkout inklusive sind.
 
-Lies auch unsere [Venedig-Unterkunft-Tipps](/blog/wo-uebernachten-venedig) für eine ideale Norditalien-Kombi und unseren [Apulien-Guide](/blog/apulien-sueditalien-guide) für die südliche Alternative. Wer 48 Stunden in Rom plant, findet unseren [48-Stunden-Rom-Guide](/blog/48-stunden-rom) nützlich.
+Lies auch unsere [Venedig-Unterkunft-Tipps](/blog/wo-uebernachten-venedig/) für eine ideale Norditalien-Kombi und unseren [Apulien-Guide](/blog/apulien-sueditalien-guide/) für die südliche Alternative. Wer 48 Stunden in Rom plant, findet unseren [48-Stunden-Rom-Guide](/blog/48-stunden-rom/) nützlich.
 
 ---
 
@@ -121,6 +121,6 @@ Der Motor Show findet im Dezember statt, COSMOPROF (Beauty) im März, Arte Fiera
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Florenz: Die 5 Viertel](/blog/wo-uebernachten-florenz)
-- [Wo übernachten in Venedig: Die 5 Viertel](/blog/wo-uebernachten-venedig)
-- [Apulien und Süditalien: Der große Reiseguide](/blog/apulien-sueditalien-guide)
+- [Wo übernachten in Florenz: Die 5 Viertel](/blog/wo-uebernachten-florenz/)
+- [Wo übernachten in Venedig: Die 5 Viertel](/blog/wo-uebernachten-venedig/)
+- [Apulien und Süditalien: Der große Reiseguide](/blog/apulien-sueditalien-guide/)

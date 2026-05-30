@@ -47,7 +47,7 @@ The Centrs sits immediately north of the old town and contains the world's dense
 
 **Top picks:** Radisson Blu Latvija Hotel (tower hotel with Riga's best views), Mercure Riga Centre (well-connected, reliable quality), Hotel Bergs (small boutique hotel in the Art Nouveau district, insider tip).
 
-If you want to combine Riga with other Baltic destinations, the [train travel Europe guide](/en/blog/train-travel-europe) has concrete routes and travel times.
+If you want to combine Riga with other Baltic destinations, the [train travel Europe guide](/en/blog/train-travel-europe/) has concrete routes and travel times.
 
 ## When Is the Best Time to Visit Riga?
 
@@ -73,7 +73,7 @@ The Klusais Centrs (literally: Quiet Centre) borders the Centrs to the east and 
 
 **Top picks:** Neiburgs Hotel (historic Art Nouveau house, insider tip), Romeo Hotel (small and personal boutique hotel), Grand Palace Hotel (classic luxury in a quiet setting).
 
-If you are traveling north from Riga to Tallinn, the [Tallinn neighborhood guide](/en/blog/where-to-stay-tallinn) has all the details on Estonia's capital.
+If you are traveling north from Riga to Tallinn, the [Tallinn neighborhood guide](/en/blog/where-to-stay-tallinn/) has all the details on Estonia's capital.
 
 ## Teika: Affordable Modern Riga
 
@@ -94,7 +94,7 @@ For Riga, [Booking.com](https://www.booking.com) is well stocked:
 - Prices clearly displayed in EUR
 - Excellent value compared to other European capitals
 
-For a Warsaw-to-Riga combination or the reverse, the [Warsaw neighborhood guide](/en/blog/where-to-stay-warsaw) covers all the details. For a longer Eastern European loop, the [train travel Europe guide](/en/blog/train-travel-europe) maps the best routes.
+For a Warsaw-to-Riga combination or the reverse, the [Warsaw neighborhood guide](/en/blog/where-to-stay-warsaw/) covers all the details. For a longer Eastern European loop, the [train travel Europe guide](/en/blog/train-travel-europe/) maps the best routes.
 
 ---
 
@@ -121,6 +121,6 @@ Do not miss: the Art Nouveau buildings on Alberta iela, the Central Market in th
 ---
 
 **Read more:**
-- [Where to Stay in Tallinn: The 5 Neighborhoods](/en/blog/where-to-stay-tallinn)
-- [Where to Stay in Warsaw: The 5 Neighborhoods](/en/blog/where-to-stay-warsaw)
-- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe)
+- [Where to Stay in Tallinn: The 5 Neighborhoods](/en/blog/where-to-stay-tallinn/)
+- [Where to Stay in Warsaw: The 5 Neighborhoods](/en/blog/where-to-stay-warsaw/)
+- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe/)

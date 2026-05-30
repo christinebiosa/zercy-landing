@@ -38,7 +38,7 @@ No todas las rutas son iguales. La calidad de las carreteras, la libertad para a
 
 **Escocia (NC500):** El recorrido de 500 millas alrededor del norte de Escocia. Paisaje mágico, muchos puntos legales de acampada libre, sin necesidad de autopistas. La ley escocesa de acceso público permite acampar libremente con respeto al entorno.
 
-Para más ideas de rutas en Europa, consulta también nuestra guía de [trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026) o nuestra [guía de Interrail 2026](/es/blog/guia-interrail-2026).
+Para más ideas de rutas en Europa, consulta también nuestra guía de [trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026/) o nuestra [guía de Interrail 2026](/es/blog/guia-interrail-2026/).
 
 ## ¿Cuáles son las normas de acampada libre en Europa por país?
 
@@ -95,7 +95,7 @@ El mercado se ha consolidado. Tres plataformas cubren el 90% de la oferta.
 
 Para campervans en América del Norte, lo mejor es buscar en Outdoorsy o Cruise America. Para Europa, las tres anteriores lo cubren todo.
 
-Nuestros [consejos para ahorrar en alquiler de coche](/es/blog/consolidadores-alquiler-ahorrar) aplican también a las reservas de campervan: descuentos por reserva anticipada, recogida en día laborable y condiciones de cancelación flexibles merecen revisión.
+Nuestros [consejos para ahorrar en alquiler de coche](/es/blog/consolidadores-alquiler-ahorrar/) aplican también a las reservas de campervan: descuentos por reserva anticipada, recogida en día laborable y condiciones de cancelación flexibles merecen revisión.
 
 ---
 
@@ -122,6 +122,6 @@ Para campervans de hasta 3,5 toneladas basta con el carnet de conducir estándar
 ---
 
 **Más información:**
-- [Consolidadores de alquiler de coche: cómo pagar menos](/es/blog/consolidadores-alquiler-ahorrar)
-- [Guía de Interrail 2026](/es/blog/guia-interrail-2026)
-- [Planificación de etapas en road trip](/es/blog/roadtrip-planificacion-etapas)
+- [Consolidadores de alquiler de coche: cómo pagar menos](/es/blog/consolidadores-alquiler-ahorrar/)
+- [Guía de Interrail 2026](/es/blog/guia-interrail-2026/)
+- [Planificación de etapas en road trip](/es/blog/roadtrip-planificacion-etapas/)

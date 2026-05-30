@@ -51,7 +51,7 @@ Das Viertel ist nicht perfekt für den ersten Tag, aber perfekt für alles danac
 
 **Top-Picks:** Maison du Plateau (charmantes Boutique-Hotel im Herzen des Viertels), Hotel 10 (Design-Hotel, gut für Kreative), Le Saint-Sulpice (Boutique-Suites, etwas zwischen Plateau und Vieux-Montréal).
 
-Wer Montreal als Teil einer längeren Kanada-Reise plant und auch Toronto besucht, findet im [Stadtführer Toronto](/blog/wo-uebernachten-toronto) eine ähnliche Viertel-Übersicht für die englischsprachige Schwestermetropole.
+Wer Montreal als Teil einer längeren Kanada-Reise plant und auch Toronto besucht, findet im [Stadtführer Toronto](/blog/wo-uebernachten-toronto/) eine ähnliche Viertel-Übersicht für die englischsprachige Schwestermetropole.
 
 ## Wann ist die beste Reisezeit für Montreal?
 
@@ -69,7 +69,7 @@ Mile End liegt nördlich des Plateau, zwischen Saint-Laurent und Park Avenue. In
 
 **Top-Picks:** Hotel Zéro 1 (nahe Mile End, Design-Hotel, sehr populär bei kreativer Clientele), Le Baluchon (kleines Boutique-Gästehaus, persönlicher Service), Airbnb-Wohnungen in renovierten Triplexhäusern (die lokale und günstigere Alternative).
 
-Wer die Kulinarik Montreals tief erkunden will, findet im [Food Travel Guide](/blog/food-travel-essen-wie-einheimischer) praktische Strategien um überall auf der Welt wie ein Einheimischer zu essen.
+Wer die Kulinarik Montreals tief erkunden will, findet im [Food Travel Guide](/blog/food-travel-essen-wie-einheimischer/) praktische Strategien um überall auf der Welt wie ein Einheimischer zu essen.
 
 ## NDG/Côte-des-Neiges: Ruhiges Montreal
 
@@ -117,6 +117,6 @@ Das Plateau Mont-Royal ist das kulturelle Herz Montreals. Schriftstellerinnen wi
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Toronto: Die 5 Stadtteile](/blog/wo-uebernachten-toronto)
-- [Food Travel: Essen wie ein Einheimischer weltweit](/blog/food-travel-essen-wie-einheimischer)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
+- [Wo übernachten in Toronto: Die 5 Stadtteile](/blog/wo-uebernachten-toronto/)
+- [Food Travel: Essen wie ein Einheimischer weltweit](/blog/food-travel-essen-wie-einheimischer/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)

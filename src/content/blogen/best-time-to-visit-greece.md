@@ -41,7 +41,7 @@ The Cyclades (Santorini, Mykonos, Paros, Naxos) have a shorter active season. Mo
 
 The Ionian Islands (Corfu, Zakynthos, Kefalonia) on the west coast are slightly wetter and greener than the Aegean islands. Peak season is June through September. Corfu in particular is excellent in June, before the main summer surge, with lush scenery and reasonable prices.
 
-For accommodation strategy by island: [Where to Stay in Santorini](/en/blog/where-to-stay-santorini) covers the best areas on that island by season.
+For accommodation strategy by island: [Where to Stay in Santorini](/en/blog/where-to-stay-santorini/) covers the best areas on that island by season.
 
 ## When Should You Visit Athens vs. the Islands?
 
@@ -49,7 +49,7 @@ For accommodation strategy by island: [Where to Stay in Santorini](/en/blog/wher
 
 **Islands:** May through October is the active season, with June, early July, September, and early October being the smart choices. The deep summer of late July and August is for travelers who specifically want beach party energy and don't mind paying for it.
 
-**Combining both:** A two-week Greece trip works well in May or September. Fly into Athens, spend two or three days on the mainland, then ferry to the islands. Ferries are fully running in September. The [Athens accommodation guide](/en/blog/where-to-stay-athens) has the best neighborhoods for a short city stay before island-hopping.
+**Combining both:** A two-week Greece trip works well in May or September. Fly into Athens, spend two or three days on the mainland, then ferry to the islands. Ferries are fully running in September. The [Athens accommodation guide](/en/blog/where-to-stay-athens/) has the best neighborhoods for a short city stay before island-hopping.
 
 ## What Are the Cheapest Months to Visit Greece?
 
@@ -57,7 +57,7 @@ May and October are the cheapest months with decent weather. Hotel prices in San
 
 November through April is the cheapest window overall, but the islands largely shut down. Santorini in January has almost nothing open. Athens and Thessaloniki are worth visiting in winter for culture and food, but island travelers should stick to shoulder season.
 
-For beach destinations, aim for May or October if budget is the primary concern. You'll save on both flights and accommodation while still getting good weather most days. The [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026) guide has a broader comparison across the Mediterranean for those weighing Greece against other options.
+For beach destinations, aim for May or October if budget is the primary concern. You'll save on both flights and accommodation while still getting good weather most days. The [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026/) guide has a broader comparison across the Mediterranean for those weighing Greece against other options.
 
 ## How Warm Is Greece in Spring?
 
@@ -89,6 +89,6 @@ Hotels in Santorini and Mykonos in May or October cost roughly 30 to 50 percent 
 
 ## Read More
 
-- [Where to Stay in Athens: Best Neighborhoods](/en/blog/where-to-stay-athens)
-- [Where to Stay in Santorini: Which Area Is Right?](/en/blog/where-to-stay-santorini)
-- [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026)
+- [Where to Stay in Athens: Best Neighborhoods](/en/blog/where-to-stay-athens/)
+- [Where to Stay in Santorini: Which Area Is Right?](/en/blog/where-to-stay-santorini/)
+- [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026/)

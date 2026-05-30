@@ -45,7 +45,7 @@ East of the city center, Oslo's Kreuzberg equivalent. Vintage shops, coffee bars
 
 **Top picks:** PS: Hotel (small boutique hotel with strong character), Funky Flamingo Hotel (design budget), City Box Oslo (affordable, clean, well-connected).
 
-Our [Stockholm neighborhood guide](/en/blog/where-to-stay-stockholm) covers similar Nordic hipster-district vibes.
+Our [Stockholm neighborhood guide](/en/blog/where-to-stay-stockholm/) covers similar Nordic hipster-district vibes.
 
 ## When Is the Best Time to Visit Oslo?
 
@@ -92,7 +92,7 @@ For Oslo, [Booking.com](https://www.booking.com) is well stocked:
 
 Booking direct at boutique hotels (The Thief, Camillas Hus) can be worthwhile if you want upgrade treatment and special extras.
 
-Read our [Copenhagen guide](/en/blog/where-to-stay-copenhagen) and [Stockholm guide](/en/blog/where-to-stay-stockholm) for a full Scandinavian city-break picture.
+Read our [Copenhagen guide](/en/blog/where-to-stay-copenhagen/) and [Stockholm guide](/en/blog/where-to-stay-stockholm/) for a full Scandinavian city-break picture.
 
 ---
 
@@ -119,6 +119,6 @@ Gardermoen airport is 47 km outside the city. The Flytog (airport express) bring
 ---
 
 **Read more:**
-- [Where to Stay in Stockholm: The 5 Neighborhoods](/en/blog/where-to-stay-stockholm)
-- [Where to Stay in Copenhagen: The 5 Neighborhoods](/en/blog/where-to-stay-copenhagen)
-- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe)
+- [Where to Stay in Stockholm: The 5 Neighborhoods](/en/blog/where-to-stay-stockholm/)
+- [Where to Stay in Copenhagen: The 5 Neighborhoods](/en/blog/where-to-stay-copenhagen/)
+- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe/)

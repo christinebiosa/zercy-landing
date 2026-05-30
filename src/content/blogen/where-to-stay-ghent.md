@@ -100,7 +100,7 @@ For Ghent, [Booking.com](https://www.booking.com) is the best platform:
 
 Ghent is cheaper than Bruges and significantly cheaper than Brussels. Boutique hotels here start where they end in Brussels.
 
-Read also our [Brussels neighborhood guide](/en/blog/where-to-stay-brussels) and [Amsterdam neighborhood guide](/en/blog/where-to-stay-amsterdam).
+Read also our [Brussels neighborhood guide](/en/blog/where-to-stay-brussels/) and [Amsterdam neighborhood guide](/en/blog/where-to-stay-amsterdam/).
 
 ---
 
@@ -127,6 +127,6 @@ The polyptych "Adoration of the Mystic Lamb" by Jan van Eyck (1432) is considere
 ---
 
 **Read more:**
-- [Where to Stay in Brussels: The 5 Neighborhoods](/en/blog/where-to-stay-brussels)
-- [Where to Stay in Amsterdam: The 5 Neighborhoods](/en/blog/where-to-stay-amsterdam)
-- [Where to Stay in Copenhagen: The 5 Neighborhoods](/en/blog/where-to-stay-copenhagen)
+- [Where to Stay in Brussels: The 5 Neighborhoods](/en/blog/where-to-stay-brussels/)
+- [Where to Stay in Amsterdam: The 5 Neighborhoods](/en/blog/where-to-stay-amsterdam/)
+- [Where to Stay in Copenhagen: The 5 Neighborhoods](/en/blog/where-to-stay-copenhagen/)

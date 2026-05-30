@@ -55,7 +55,7 @@ Los hoteles en Oltrarno cuestan entre un 10 y un 20 % menos que en el Centro Sto
 - **Hotel Lungarno** (4 estrellas, vistas al Arno, romántico, aprox. 250 €)
 - **Soprarno Suites** (boutique, habitaciones individuales, aprox. 230 €)
 
-Para otras ciudades italianas, consulta también [dónde alojarse en Roma](/es/blog/donde-alojarse-santorini) y nuestra guía de [dónde alojarse en Múnich](/es/blog/donde-alojarse-munich).
+Para otras ciudades italianas, consulta también [dónde alojarse en Roma](/es/blog/donde-alojarse-santorini/) y nuestra guía de [dónde alojarse en Múnich](/es/blog/donde-alojarse-munich/).
 
 ## Santa Croce: Para cultura y buenos restaurantes
 
@@ -102,6 +102,6 @@ Para viajes en verano (junio a agosto): con dos o tres meses de antelación. Par
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Múnich: de la Altstadt a Haidhausen](/es/blog/donde-alojarse-munich)
-- [Dónde alojarse en Estambul: barrios y hoteles 2026](/es/blog/donde-alojarse-estambul)
-- [Dónde alojarse en Budapest: qué barrio elegir 2026](/es/blog/donde-alojarse-budapest)
+- [Dónde alojarse en Múnich: de la Altstadt a Haidhausen](/es/blog/donde-alojarse-munich/)
+- [Dónde alojarse en Estambul: barrios y hoteles 2026](/es/blog/donde-alojarse-estambul/)
+- [Dónde alojarse en Budapest: qué barrio elegir 2026](/es/blog/donde-alojarse-budapest/)

@@ -104,6 +104,6 @@ Stanley Park: 8.8 km seawall (cycling, running), totem poles, Second Beach. Grou
 ---
 
 **Read more:**
-- [Where to Stay in Los Angeles: Downtown or Santa Monica?](/en/blog/where-to-stay-los-angeles)
-- [Where to Stay in San Francisco: Union Square or Mission?](/en/blog/where-to-stay-san-francisco)
-- [Where to Stay in Chicago: The Loop or River North?](/en/blog/where-to-stay-chicago)
+- [Where to Stay in Los Angeles: Downtown or Santa Monica?](/en/blog/where-to-stay-los-angeles/)
+- [Where to Stay in San Francisco: Union Square or Mission?](/en/blog/where-to-stay-san-francisco/)
+- [Where to Stay in Chicago: The Loop or River North?](/en/blog/where-to-stay-chicago/)

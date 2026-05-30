@@ -36,7 +36,7 @@ Accessibility information is often clearer with professional tour companies. If 
 
 For iconic attractions, mainstream tour providers often have better logistics. Skip-the-line tickets to major museums, guided access to restricted areas, or structured commentary at heavily visited sites are usually better handled by operators who specialize in them.
 
-Our article on [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison) covers the broader accommodation question. And if you are still deciding where to stay, check our guides for [where to stay in Paris](/en/blog/where-to-stay-paris) or [where to stay in Rome](/en/blog/where-to-stay-rome).
+Our article on [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) covers the broader accommodation question. And if you are still deciding where to stay, check our guides for [where to stay in Paris](/en/blog/where-to-stay-paris/) or [where to stay in Rome](/en/blog/where-to-stay-rome/).
 
 ## How Do You Spot a Quality Experience Before You Book?
 
@@ -74,6 +74,6 @@ On the Airbnb website or app under the Experiences tab. Filter by destination, d
 
 More reading:
 
-- [Airbnb vs Hotel: Which Is Better?](/en/blog/airbnb-vs-hotel-comparison)
-- [Where to Stay in Rome](/en/blog/where-to-stay-rome)
-- [Booking Direct vs Booking.com](/en/blog/booking-vs-direct-hotel-booking)
+- [Airbnb vs Hotel: Which Is Better?](/en/blog/airbnb-vs-hotel-comparison/)
+- [Where to Stay in Rome](/en/blog/where-to-stay-rome/)
+- [Booking Direct vs Booking.com](/en/blog/booking-vs-direct-hotel-booking/)

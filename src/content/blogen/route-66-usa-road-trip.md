@@ -46,7 +46,7 @@ The route has dozens of iconic spots. But some stand out.
 
 **Santa Monica Pier (California):** The end point. The official Route 66 endpoint sign hangs on the pier. You step out of the car and walk to the beach. A road trip cannot end better.
 
-For anyone planning the logistics, the [road trip stages planning guide](/en/blog/road-trip-stages-planning) has concrete tips on daily mileage and break scheduling.
+For anyone planning the logistics, the [road trip stages planning guide](/en/blog/road-trip-stages-planning/) has concrete tips on daily mileage and break scheduling.
 
 ## When Is the Best Time to Drive Route 66?
 
@@ -66,7 +66,7 @@ April through October is the window. But not every month is equal.
 
 Budget varies, but here are realistic numbers for two people, 14 days:
 
-**Rental car:** 600-1,200 USD (standard automatic, full coverage). Booking early saves money. Consolidators like Autoslash or Rentalcars.com compare prices across multiple providers. More in the [rental car guide](/en/blog/rental-car-checklist).
+**Rental car:** 600-1,200 USD (standard automatic, full coverage). Booking early saves money. Consolidators like Autoslash or Rentalcars.com compare prices across multiple providers. More in the [rental car guide](/en/blog/rental-car-checklist/).
 
 **Fuel:** 300-500 USD for an economical vehicle. US prices vary significantly by region. Oklahoma and Texas are cheaper than California.
 
@@ -78,7 +78,7 @@ Budget varies, but here are realistic numbers for two people, 14 days:
 
 **Total for 2 people, 14 days:** 2,500-4,500 USD depending on comfort level.
 
-Combining with a [cheap flight to Chicago](/en/blog/cheap-flights-tips) and a separate return from LA often reduces overall costs significantly.
+Combining with a [cheap flight to Chicago](/en/blog/cheap-flights-tips/) and a separate return from LA often reduces overall costs significantly.
 
 ## What Car Is Right for the Route?
 
@@ -92,7 +92,7 @@ Not a sports car. Not a small city car. Route 66 needs:
 
 **One-way rentals:** Chicago to LA one-way can be expensive. Round-trip rental in Chicago with a separate return flight from LA is often cheaper.
 
-A key warning on hidden costs: [rental car hidden costs](/en/blog/rental-car-hidden-costs-avoid) explains which extras are actually worth it (full coverage yes, GPS add-on no, buy a phone mount cheaper).
+A key warning on hidden costs: [rental car hidden costs](/en/blog/rental-car-hidden-costs-avoid/) explains which extras are actually worth it (full coverage yes, GPS add-on no, buy a phone mount cheaper).
 
 ---
 
@@ -119,6 +119,6 @@ The Route 66 app (officially by EZ Route 66) shows all historic stops, sights, g
 ---
 
 **Read more:**
-- [Rental Car Checklist: What to Watch for](/en/blog/rental-car-checklist)
-- [Rental Car Hidden Costs: How to Avoid Them](/en/blog/rental-car-hidden-costs-avoid)
-- [Road Trip Stage Planning: How to Calculate Your Daily Distances](/en/blog/road-trip-stages-planning)
+- [Rental Car Checklist: What to Watch for](/en/blog/rental-car-checklist/)
+- [Rental Car Hidden Costs: How to Avoid Them](/en/blog/rental-car-hidden-costs-avoid/)
+- [Road Trip Stage Planning: How to Calculate Your Daily Distances](/en/blog/road-trip-stages-planning/)

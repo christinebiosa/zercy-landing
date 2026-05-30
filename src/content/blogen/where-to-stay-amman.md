@@ -59,7 +59,7 @@ Jordan Marriott Hotel Amman (5-star right on the Rainbow Street axis, ideal base
 
 **Prices:** Boutique 130-250 euros, premium 220-400 euros.
 
-Check out our [Jordan travel guide](/en/blog/jordan-travel-guide-highlights) if you are combining Amman with Petra and Wadi Rum.
+Check out our [Jordan travel guide](/en/blog/jordan-travel-guide-highlights/) if you are combining Amman with Petra and Wadi Rum.
 
 ## Shmeisani: Central and Relaxed
 
@@ -71,7 +71,7 @@ Shmeisani has offices by day and a proper dining scene by night. The advantage: 
 
 **Top picks:** Le Royal Hotel Amman (well-known city hotel with solid service and views across the skyline), Holiday Inn Amman (reliable mid-range, good breakfast, business-friendly setup).
 
-If you are using Amman as a hub for regional day trips, take a look at how Istanbul works as a similar base in our [Istanbul guide](/en/blog/where-to-stay-istanbul).
+If you are using Amman as a hub for regional day trips, take a look at how Istanbul works as a similar base in our [Istanbul guide](/en/blog/where-to-stay-istanbul/).
 
 ## When Is the Best Time to Visit Amman?
 
@@ -94,7 +94,7 @@ For Amman, [Booking.com](https://www.booking.com) is the most reliable platform:
 
 Direct booking only makes sense at the big chains (Four Seasons, Kempinski) for potential upgrades and loyalty points.
 
-Also worth reading: our [Cairo guide](/en/blog/where-to-stay-cairo). Many travelers combine Amman and Cairo into a single Middle East loop.
+Also worth reading: our [Cairo guide](/en/blog/where-to-stay-cairo/). Many travelers combine Amman and Cairo into a single Middle East loop.
 
 ---
 
@@ -121,6 +121,6 @@ Budget hostel: 15-40 euros. Mid-range (3-4 star): 70-150 euros. Boutique and pre
 ---
 
 **Read more:**
-- [Where to Stay in Istanbul: Best Neighborhoods](/en/blog/where-to-stay-istanbul)
-- [Where to Stay in Cairo: Downtown vs. Zamalek vs. Giza](/en/blog/where-to-stay-cairo)
-- [Jordan Travel Guide: Petra, Wadi Rum and More](/en/blog/jordan-travel-guide-highlights)
+- [Where to Stay in Istanbul: Best Neighborhoods](/en/blog/where-to-stay-istanbul/)
+- [Where to Stay in Cairo: Downtown vs. Zamalek vs. Giza](/en/blog/where-to-stay-cairo/)
+- [Jordan Travel Guide: Petra, Wadi Rum and More](/en/blog/jordan-travel-guide-highlights/)

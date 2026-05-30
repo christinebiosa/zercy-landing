@@ -32,7 +32,7 @@ Statt einem Fixdatum: "Flexible Dates" auswählen. Google zeigt ein Raster mit a
 
 Das Frankfurt-Bangkok-Beispiel von oben: Freitag, 3. Oktober, 780 Euro. Mittwoch, 1. Oktober, 520 Euro. Derselbe Flug. Dasselbe Ziel. Zwei Tage verschoben.
 
-Dazu gibt es "±3 Tage" und "1 Woche" Optionen. Google zeigt den günstigsten Tag innerhalb des Fensters automatisch an. Kombination aus Explore-Karte plus flexiblem Datum: damit findest du die günstigsten Flüge weltweit, ohne eine einzige Route manuell eingeben zu müssen. Das ist das Prinzip hinter [Open-Jaw-Tickets](/blog/open-jaw-tickets-reise-hack) noch weiter gedacht.
+Dazu gibt es "±3 Tage" und "1 Woche" Optionen. Google zeigt den günstigsten Tag innerhalb des Fensters automatisch an. Kombination aus Explore-Karte plus flexiblem Datum: damit findest du die günstigsten Flüge weltweit, ohne eine einzige Route manuell eingeben zu müssen. Das ist das Prinzip hinter [Open-Jaw-Tickets](/blog/open-jaw-tickets-reise-hack/) noch weiter gedacht.
 
 ## Wann sollte man buchen? Preisalarm und Price Insights
 
@@ -40,7 +40,7 @@ Oben rechts bei jedem Suchergebnis: "Preise verfolgen" aktivieren. Google schick
 
 Dazu kommt "Price Insights": Google zeigt bei jeder Suche eine Einschätzung ob der aktuelle Preis für diese Route niedrig, typisch oder hoch ist. Basierend auf Daten der letzten Monate.
 
-Wann lohnt das Abwarten: Langstrecken 3 bis 6 Monate im Voraus. Airlines reduzieren Preise oft 6 bis 8 Wochen vor Abflug wenn Sitze leer bleiben. Wann nicht: Schulferien, Weihnachten, lokale Feiertage. Hier steigen Preise zuverlässig. Früh kaufen, nicht warten. Wann du wirklich buchen solltest: die genaue Analyse findest du im Artikel [Wann Flüge buchen: Die ehrliche Antwort](/blog/wann-fluege-buchen).
+Wann lohnt das Abwarten: Langstrecken 3 bis 6 Monate im Voraus. Airlines reduzieren Preise oft 6 bis 8 Wochen vor Abflug wenn Sitze leer bleiben. Wann nicht: Schulferien, Weihnachten, lokale Feiertage. Hier steigen Preise zuverlässig. Früh kaufen, nicht warten. Wann du wirklich buchen solltest: die genaue Analyse findest du im Artikel [Wann Flüge buchen: Die ehrliche Antwort](/blog/wann-fluege-buchen/).
 
 ## Warum das Inkognito-Tab nichts bringt
 
@@ -58,9 +58,9 @@ Kein Inkognito nötig. Zeit gespart.
 
 **Nahegelegene Flughäfen:** Google Flights zeigt automatisch günstigere Abflughäfen in der Nähe. Von München aus: Innsbruck, Salzburg, Memmingen. Wenn der Preisunterschied die An- und Abreise überwiegt, kann das lohnen. Google rechnet das nicht für dich aus. Kalkuliere selbst: Bahnticket plus Parkgebühren plus Zeit.
 
-**Multi-City Buchung:** "Multi-city" auswählen und einzelne Legs eingeben. Frankfurt-Bangkok, Bangkok-Singapur, Singapur-Frankfurt. Google zeigt Optionen für jedes Segment separat. Oft günstiger als ein offizieller Rundflug. Das ist verwandt mit dem [Open-Jaw-Konzept](/blog/open-jaw-tickets-reise-hack): statt von A nach B und zurück fliegst du raus nach C und heim aus D.
+**Multi-City Buchung:** "Multi-city" auswählen und einzelne Legs eingeben. Frankfurt-Bangkok, Bangkok-Singapur, Singapur-Frankfurt. Google zeigt Optionen für jedes Segment separat. Oft günstiger als ein offizieller Rundflug. Das ist verwandt mit dem [Open-Jaw-Konzept](/blog/open-jaw-tickets-reise-hack/): statt von A nach B und zurück fliegst du raus nach C und heim aus D.
 
-**Kabinenklassen-Filter:** Economy-Preise interessieren dich nicht? Direkt nach Premium Economy oder Business Class filtern. Viele Reisende wissen nicht: Auf manchen Langstrecken ist Business Class nur doppelt so teuer wie Economy, nicht fünfmal. [Business Class ohne Meilen ab 700 Euro](/blog/business-class-ohne-meilen) ist kein Mythos.
+**Kabinenklassen-Filter:** Economy-Preise interessieren dich nicht? Direkt nach Premium Economy oder Business Class filtern. Viele Reisende wissen nicht: Auf manchen Langstrecken ist Business Class nur doppelt so teuer wie Economy, nicht fünfmal. [Business Class ohne Meilen ab 700 Euro](/blog/business-class-ohne-meilen/) ist kein Mythos.
 
 ## Wie groß ist der Unterschied zu Skyscanner oder Kayak?
 
@@ -95,7 +95,7 @@ Route und Datum eingeben, dann oben rechts "Preise verfolgen" aktivieren. Du bra
 
 ### Wann sind Flugpreise am günstigsten?
 
-Pauschal gilt: Innereuropäische Flüge 2 bis 6 Wochen im Voraus, Langstrecken 2 bis 6 Monate im Voraus. Dienstag und Mittwoch sind meist günstiger als Freitag und Sonntag. Frühmorgendliche Abflüge und späte Nachtflüge kosten weniger als Hauptreisezeiten. Die detaillierte Analyse nach Streckentyp und Saison gibt es im Artikel [Wann Flüge buchen](/blog/wann-fluege-buchen).
+Pauschal gilt: Innereuropäische Flüge 2 bis 6 Wochen im Voraus, Langstrecken 2 bis 6 Monate im Voraus. Dienstag und Mittwoch sind meist günstiger als Freitag und Sonntag. Frühmorgendliche Abflüge und späte Nachtflüge kosten weniger als Hauptreisezeiten. Die detaillierte Analyse nach Streckentyp und Saison gibt es im Artikel [Wann Flüge buchen](/blog/wann-fluege-buchen/).
 
 ### Zeigt Google Flights wirklich alle Flüge?
 
@@ -104,6 +104,6 @@ Nein. Ryanair, Wizz Air und einige Ultra-Low-Cost-Carrier fehlen. Google Flights
 ---
 
 **Mehr lesen:**
-- [Open-Jaw Tickets: Der Reise-Hack der wirklich funktioniert](/blog/open-jaw-tickets-reise-hack)
-- [Wann Flüge buchen: Die ehrliche Antwort mit Daten](/blog/wann-fluege-buchen)
-- [Airport Hacks: 7 Tricks für entspanntere Flughäfen](/blog/airport-hacks)
+- [Open-Jaw Tickets: Der Reise-Hack der wirklich funktioniert](/blog/open-jaw-tickets-reise-hack/)
+- [Wann Flüge buchen: Die ehrliche Antwort mit Daten](/blog/wann-fluege-buchen/)
+- [Airport Hacks: 7 Tricks für entspanntere Flughäfen](/blog/airport-hacks/)

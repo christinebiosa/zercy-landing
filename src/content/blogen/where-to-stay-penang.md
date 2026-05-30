@@ -47,7 +47,7 @@ Gurney Drive sits west of George Town right on the water. The promenade fills up
 
 **Top picks:** G Hotel Gurney (well-connected 4-star hotel right on the promenade), G Hotel Kelawai (slightly cheaper, quieter), Penang Marriott (premium option with pool views).
 
-If you are combining with Kuala Lumpur, read our [Where to Stay in Kuala Lumpur](/en/blog/where-to-stay-kuala-lumpur) guide first.
+If you are combining with Kuala Lumpur, read our [Where to Stay in Kuala Lumpur](/en/blog/where-to-stay-kuala-lumpur/) guide first.
 
 ## When Is the Best Time to Visit Penang?
 
@@ -63,7 +63,7 @@ Batu Ferringhi sits about 20 minutes from George Town on the north coast. Resort
 
 **Top picks:** Hard Rock Hotel Penang (family-friendly, directly on the beach, large pool area), Lone Pine Hotel (classic boutique beach hotel, great atmosphere), Bayview Beach Resort (solid mid-range with generous grounds).
 
-For more on beach destinations in the region, check the [Where to Stay in Singapore](/en/blog/where-to-stay-singapore) guide as a regional base.
+For more on beach destinations in the region, check the [Where to Stay in Singapore](/en/blog/where-to-stay-singapore/) guide as a regional base.
 
 ## Tanjung Tokong: Expat Neighborhood
 
@@ -97,7 +97,7 @@ For Penang, [Booking.com](https://www.booking.com) covers the full range:
 
 Traveling during peak periods (Chinese New Year, George Town Festival): book two to three months in advance. Heritage boutiques in George Town have very few rooms and fill up fast.
 
-If you are extending the trip into other Southeast Asia destinations, check the [Singapore neighborhood guide](/en/blog/where-to-stay-singapore) and the [Kuala Lumpur guide](/en/blog/where-to-stay-kuala-lumpur).
+If you are extending the trip into other Southeast Asia destinations, check the [Singapore neighborhood guide](/en/blog/where-to-stay-singapore/) and the [Kuala Lumpur guide](/en/blog/where-to-stay-kuala-lumpur/).
 
 ---
 
@@ -124,6 +124,6 @@ November through February is ideal. Dry season on the west coast, pleasant tempe
 ---
 
 **Read more:**
-- [Where to Stay in Kuala Lumpur: The 5 Neighborhoods](/en/blog/where-to-stay-kuala-lumpur)
-- [Where to Stay in Singapore: The 5 Neighborhoods](/en/blog/where-to-stay-singapore)
-- [Travel on a Tight Budget: Tips That Actually Work](/en/blog/travel-tight-budget-tips)
+- [Where to Stay in Kuala Lumpur: The 5 Neighborhoods](/en/blog/where-to-stay-kuala-lumpur/)
+- [Where to Stay in Singapore: The 5 Neighborhoods](/en/blog/where-to-stay-singapore/)
+- [Travel on a Tight Budget: Tips That Actually Work](/en/blog/travel-tight-budget-tips/)

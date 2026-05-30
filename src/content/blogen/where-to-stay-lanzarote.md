@@ -59,7 +59,7 @@ High season is winter (November to March) when northern Europeans come for the s
 
 Costa Teguise sits on the east coast, north of Arrecife. The wind here is stronger and more reliable than elsewhere on the island. That is not a drawback but the point: Costa Teguise has positioned itself as a wind sports destination. Windsurf schools, kite rental, dive centers. The water at Playa de las Cucharas is shallow and ideal for beginner windsurfers.
 
-At the same time, Costa Teguise is not a purely sporty resort. The town has character, a pleasant center with César Manrique influences, and good restaurants. The aquapark is nearby. Cyclists appreciate the flat surroundings for long rides. For day trips to Timanfaya or the capital Arrecife, the location is convenient. It also links well with our [Slovenia travel article](/en/blog/slovenia-green-secret-2026) for anyone building a multi-destination trip through volcanic landscapes.
+At the same time, Costa Teguise is not a purely sporty resort. The town has character, a pleasant center with César Manrique influences, and good restaurants. The aquapark is nearby. Cyclists appreciate the flat surroundings for long rides. For day trips to Timanfaya or the capital Arrecife, the location is convenient. It also links well with our [Slovenia travel article](/en/blog/slovenia-green-secret-2026/) for anyone building a multi-destination trip through volcanic landscapes.
 
 **Who fits here:** Windsurfers, kitesurfers, divers, families with sporty kids, cyclists.
 
@@ -102,7 +102,7 @@ Few hotels exist here. Those that do are top quality. No mass tourism, no noise,
 
 Booking direct only makes sense at a handful of boutique properties in Puerto Calero when combining with yacht charter packages. In all other cases, Booking.com is the better and usually cheaper option.
 
-For comparisons with other Canary Islands destinations, see our [Tenerife guide](/en/blog/where-to-stay-tenerife) and the [where to stay in Barcelona overview](/en/blog/where-to-stay-barcelona).
+For comparisons with other Canary Islands destinations, see our [Tenerife guide](/en/blog/where-to-stay-tenerife/) and the [where to stay in Barcelona overview](/en/blog/where-to-stay-barcelona/).
 
 ---
 
@@ -129,6 +129,6 @@ April to June and mid-September to October are the most affordable months. Expen
 ---
 
 **Read more:**
-- [Best Hotels in Tenerife: 5 Areas](/en/blog/where-to-stay-tenerife)
-- [Where to Stay in Marrakech](/en/blog/where-to-stay-marrakech)
-- [Cheap Flights: Best Tips 2026](/en/blog/cheap-flights-tips)
+- [Best Hotels in Tenerife: 5 Areas](/en/blog/where-to-stay-tenerife/)
+- [Where to Stay in Marrakech](/en/blog/where-to-stay-marrakech/)
+- [Cheap Flights: Best Tips 2026](/en/blog/cheap-flights-tips/)

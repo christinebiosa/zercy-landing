@@ -77,6 +77,6 @@ The Museumsufer, a 3-km strip with 15 museums, is one of the densest museum corr
 
 ## Read more
 
-- [Where to Stay in Vienna](/en/blog/where-to-stay-vienna)
-- [Where to Stay in Amsterdam](/en/blog/where-to-stay-amsterdam)
-- [Where to Stay in Prague](/en/blog/where-to-stay-prague)
+- [Where to Stay in Vienna](/en/blog/where-to-stay-vienna/)
+- [Where to Stay in Amsterdam](/en/blog/where-to-stay-amsterdam/)
+- [Where to Stay in Prague](/en/blog/where-to-stay-prague/)

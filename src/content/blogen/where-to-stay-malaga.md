@@ -49,7 +49,7 @@ La Malagueta sits just east of the historic center. The city beach runs about 1.
 
 **Top picks:** Hotel Vincci Málaga (direct beach access), AC Hotel Málaga Palacio (panoramic views, central), MS Maestranza Hotel (quiet location, good value).
 
-Our [Seville neighborhood guide](/en/blog/where-to-stay-seville) and [Madrid guide](/en/blog/where-to-stay-madrid) cover similar options for other Andalusian and Spanish cities.
+Our [Seville neighborhood guide](/en/blog/where-to-stay-seville/) and [Madrid guide](/en/blog/where-to-stay-madrid/) cover similar options for other Andalusian and Spanish cities.
 
 ## When Is the Best Time to Visit Málaga?
 
@@ -65,7 +65,7 @@ El Soho sits between the historic center and the harbor. It has evolved into Má
 
 **Top picks:** Soho Boutique Málaga Centro (ideal location for the neighborhood), NH Collection Gran Hotel de Almería, Hotel One Shot Málaga Centro.
 
-The [Barcelona guide](/en/blog/where-to-stay-barcelona) covers similar art-district neighborhoods like El Born if you want to compare.
+The [Barcelona guide](/en/blog/where-to-stay-barcelona/) covers similar art-district neighborhoods like El Born if you want to compare.
 
 ## Pedregalejo: Authentic Fishing Village
 
@@ -123,6 +123,6 @@ November through February are the most affordable months, with one major excepti
 ---
 
 **Read more:**
-- [Where to Stay in Seville: The Best Neighborhoods](/en/blog/where-to-stay-seville)
-- [Where to Stay in Barcelona: Neighborhood Guide](/en/blog/where-to-stay-barcelona)
-- [Where to Stay in Madrid: The 5 Neighborhoods](/en/blog/where-to-stay-madrid)
+- [Where to Stay in Seville: The Best Neighborhoods](/en/blog/where-to-stay-seville/)
+- [Where to Stay in Barcelona: Neighborhood Guide](/en/blog/where-to-stay-barcelona/)
+- [Where to Stay in Madrid: The 5 Neighborhoods](/en/blog/where-to-stay-madrid/)

@@ -34,7 +34,7 @@ Europa tiene más buenas regiones de glamping de lo que la mayoría de los viaje
 
 **Croacia, island hopping**: Glamping en la costa dálmata en islas como Hvar, Brač y Vis. Vistas al mar con alojamiento de calidad. Un segmento que crece rápido, especialmente para combinaciones con velero.
 
-**Algarve, Portugal**: Acantilados rojos, vistas al Atlántico, clima suave de abril a octubre. Resorts de glamping cerca de Lagos y Sagres. Combina bien con senderismo en la Rota Vicentina. La [guía de viaje del Algarve 2026](/es/blog/algarve-guia-viaje-2026) cubre la región en detalle.
+**Algarve, Portugal**: Acantilados rojos, vistas al Atlántico, clima suave de abril a octubre. Resorts de glamping cerca de Lagos y Sagres. Combina bien con senderismo en la Rota Vicentina. La [guía de viaje del Algarve 2026](/es/blog/algarve-guia-viaje-2026/) cubre la región en detalle.
 
 **Andalucía, España**: Olivares, sierras, parques naturales. Glamping en la Sierra de Grazalema o cerca de Ronda. Menos conocido que la Toscana, a menudo mejor valorado.
 
@@ -90,7 +90,7 @@ La otra diferencia es la electricidad. El glamping casi siempre incluye enchufe.
 
 Lo que no cambia: la naturaleza está justo afuera. Duermes más cerca del exterior que en cualquier habitación de hotel. Sonidos de la mañana, vistas a las estrellas por una ventana panorámica, zona de hoguera. Ese es el núcleo de la propuesta.
 
-Si quieres combinar glamping con elementos de bienestar, la [guía de viajes wellness y spa](/es/blog/viajes-wellness-spa-destinos) cubre regiones donde ambas cosas funcionan bien juntas.
+Si quieres combinar glamping con elementos de bienestar, la [guía de viajes wellness y spa](/es/blog/viajes-wellness-spa-destinos/) cubre regiones donde ambas cosas funcionan bien juntas.
 
 Zercy te ayuda a encontrar el alojamiento adecuado, ya sea un resort glamping o un hotel boutique. Guarda tus favoritos en tu [Zercy Logbook](https://www.zercy.app/logbook) para tenerlo todo a mano al reservar.
 
@@ -117,6 +117,6 @@ En algunas regiones, sí. La Selva Negra y Noruega ofrecen glamping de invierno 
 ---
 
 **Leer más:**
-- [Las mejores rutas de senderismo de larga distancia del mundo: Top Rutas 2026](/es/blog/mejores-rutas-senderismo-mundo)
-- [Viajes wellness y spa: Los mejores destinos de Europa](/es/blog/viajes-wellness-spa-destinos)
-- [Guía de viaje del Algarve 2026: Playas, acantilados, consejos](/es/blog/algarve-guia-viaje-2026)
+- [Las mejores rutas de senderismo de larga distancia del mundo: Top Rutas 2026](/es/blog/mejores-rutas-senderismo-mundo/)
+- [Viajes wellness y spa: Los mejores destinos de Europa](/es/blog/viajes-wellness-spa-destinos/)
+- [Guía de viaje del Algarve 2026: Playas, acantilados, consejos](/es/blog/algarve-guia-viaje-2026/)

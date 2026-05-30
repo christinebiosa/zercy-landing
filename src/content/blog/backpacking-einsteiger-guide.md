@@ -51,7 +51,7 @@ Hostels sind das Herz der Backpacker-Welt. [Hostelworld](https://www.hostelworld
 
 **Südostasien-Loop (45-90 Tage):** Bangkok, Chiang Mai, Pai, durch Laos oder Vietnam, Kambodscha (Angkor Wat), zurück nach Bangkok. Die Infrastruktur ist perfekt für Einsteiger: günstig, touristenfreundlich, hervorragende Hostel-Szene. Budget: 40-60 Euro pro Tag inklusive Unterkunft.
 
-Wenn du Südostasien planst, sind die [Reisetipps für Südostasien auf einem kleinen Budget](/blog/suedostasien-budget-reisen) ein guter nächster Schritt.
+Wenn du Südostasien planst, sind die [Reisetipps für Südostasien auf einem kleinen Budget](/blog/suedostasien-budget-reisen/) ein guter nächster Schritt.
 
 **Balkan (21-30 Tage):** Ljubljana, Zagreb, Split, Dubrovnik, Kotor, Tirana, Skopje, Belgrad. Günstig, sicher, kulturell dicht, Englisch weitverbreitet. Für Europäer kein Flug nötig.
 
@@ -65,7 +65,7 @@ Südostasien: 30-50 Euro/Tag. Westeuropa: 50-80 Euro/Tag. Zentralamerika: 40-60 
 
 Budget-Hacks die wirklich funktionieren: Lokale Essen statt Touristenrestaurants. Nachtzüge statt Hotel plus Ticket. Früh buchen beim Internationalen Flug, dann flexibel bleiben. Kostenlose Stadtführungen (Free Walking Tours) in fast jeder Stadt.
 
-[Reiseversicherung für Backpacker](/blog/reiseversicherung-was-lohnt-sich) ist Pflicht, nicht optional. Für 3 Monate Reise kostet sie 100-150 Euro und rettet dich bei Gepäckverlust, Krankenhaus oder Reisestorno.
+[Reiseversicherung für Backpacker](/blog/reiseversicherung-was-lohnt-sich/) ist Pflicht, nicht optional. Für 3 Monate Reise kostet sie 100-150 Euro und rettet dich bei Gepäckverlust, Krankenhaus oder Reisestorno.
 
 Plane deine Backpacking-Route mit [Zercy](https://www.zercy.app) und speichere alle Stationen im [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -93,6 +93,6 @@ November bis März: Trockenzeit in den meisten Teilen, beste Bedingungen. April 
 
 ## Mehr lesen
 
-- [Nur mit Handgepäck reisen: So geht's wirklich](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Südostasien auf kleinem Budget: Tipps und Routen](/blog/suedostasien-budget-reisen)
+- [Nur mit Handgepäck reisen: So geht's wirklich](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Südostasien auf kleinem Budget: Tipps und Routen](/blog/suedostasien-budget-reisen/)

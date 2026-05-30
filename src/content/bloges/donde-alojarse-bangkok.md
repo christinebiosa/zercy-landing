@@ -55,7 +55,7 @@ Hoteles: de 50 a 350 euros. Los hoteles junto al río tienen precios premium per
 **Recomendación:**
 - **Riva Surya Bangkok** (boutique junto al río, atmosfera local, aprox. 120 €)
 
-Para otras ciudades asiáticas vibrantes, consulta también [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio) y [dónde alojarse en Hanói](/es/blog/donde-alojarse-hanoi).
+Para otras ciudades asiáticas vibrantes, consulta también [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio/) y [dónde alojarse en Hanói](/es/blog/donde-alojarse-hanoi/).
 
 ## Silom y Sathorn: Para negocios y elegancia
 
@@ -96,6 +96,6 @@ El BTS Skytrain y el MRT Metro son los transportes más rápidos y económicos. 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Tokio: Shinjuku, Asakusa o Shibuya](/es/blog/donde-alojarse-tokio)
-- [Dónde alojarse en Hanói: Barrio Antiguo o Hoan Kiem](/es/blog/donde-alojarse-hanoi)
-- [Dónde alojarse en Hong Kong: Tsim Sha Tsui, Central o Causeway Bay](/es/blog/donde-alojarse-hong-kong)
+- [Dónde alojarse en Tokio: Shinjuku, Asakusa o Shibuya](/es/blog/donde-alojarse-tokio/)
+- [Dónde alojarse en Hanói: Barrio Antiguo o Hoan Kiem](/es/blog/donde-alojarse-hanoi/)
+- [Dónde alojarse en Hong Kong: Tsim Sha Tsui, Central o Causeway Bay](/es/blog/donde-alojarse-hong-kong/)

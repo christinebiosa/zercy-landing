@@ -47,7 +47,7 @@ Demasiada ropa es el error número uno. El segundo gran problema: subestimar el 
 ## ¿Cómo empacar bien según el tipo de viaje?
 
 **Escapada urbana (2–5 días, solo equipaje de mano):**
-Máximo una mochila o trolley pequeño (20–23 litros). Separar la ropa sucia en una bolsa de plástico. Cosméticos en bolsa de líquidos de 100 ml (compatible TSA). Nuestra [guía de solo equipaje de mano](/es/blog/solo-equipaje-de-mano) te lo explica paso a paso.
+Máximo una mochila o trolley pequeño (20–23 litros). Separar la ropa sucia en una bolsa de plástico. Cosméticos en bolsa de líquidos de 100 ml (compatible TSA). Nuestra [guía de solo equipaje de mano](/es/blog/solo-equipaje-de-mano/) te lo explica paso a paso.
 
 **Vacaciones de playa (1–2 semanas):**
 Una maleta mediana es suficiente (55–65 litros). Sandalias más un par cerrado. Compra protector solar antes de salir: en el destino es más caro y a menudo de peor calidad. La ropa ligera en tonos tierra disimula mejor la arena de playa.
@@ -56,7 +56,7 @@ Una maleta mediana es suficiente (55–65 litros). Sandalias más un par cerrado
 Mochila de 40–50 litros con cinturón lumbar. Ropa de secado rápido es obligatoria, nada de algodón (retiene la humedad). Sábana saco en vez de saco de dormir completo (ahorra peso, más higiénico en hostales). Lavar la ropa durante el viaje es parte de la experiencia, no un problema.
 
 **Senderismo / aire libre:**
-Capas técnicas en vez de ropa de moda. La lana merino vale su peso en oro: neutraliza olores, regula la temperatura, se puede lavar. Mapa más brújula (no solo el móvil). Nuestro artículo sobre [rutas de senderismo de larga distancia](/es/blog/mejores-rutas-senderismo-mundo) lo explica con detalle.
+Capas técnicas en vez de ropa de moda. La lana merino vale su peso en oro: neutraliza olores, regula la temperatura, se puede lavar. Mapa más brújula (no solo el móvil). Nuestro artículo sobre [rutas de senderismo de larga distancia](/es/blog/mejores-rutas-senderismo-mundo/) lo explica con detalle.
 
 ## ¿Qué debes llevar siempre en el equipaje de mano?
 
@@ -68,7 +68,7 @@ Independientemente del destino, estas cosas NO van en la maleta facturada:
 - **Objetos de valor** (joyas, efectivo superior a 200 euros)
 - **Muda de ropa para un día** — por si se pierde el equipaje
 
-Líquidos en equipaje de mano: máximo 100 ml por recipiente, todo junto en una bolsa zip de 1 litro. Reglas actuales también en nuestro artículo sobre [normas de powerbank en el avión](/es/blog/normas-powerbank-equipaje-mano).
+Líquidos en equipaje de mano: máximo 100 ml por recipiente, todo junto en una bolsa zip de 1 litro. Reglas actuales también en nuestro artículo sobre [normas de powerbank en el avión](/es/blog/normas-powerbank-equipaje-mano/).
 
 ## Herramientas prácticas para hacer la maleta
 
@@ -99,6 +99,6 @@ De secado rápido (poliéster o lana merino), versátil (colores neutros que com
 Lo mínimo: cepillo de dientes, pasta pequeña (máx. 100 ml), desodorante, protector solar, tu champú personal, maquinilla, paracetamol más ibuprofeno, tiritas, pastillas para el estómago. El resto es según el destino. El champú y el gel de ducha los compras allí: ahorra peso y evita el estrés con los líquidos en seguridad.
 
 ## Más artículos
-- [Solo equipaje de mano: la guía completa](/es/blog/solo-equipaje-de-mano)
-- [Maleta cápsula: ropa para equipaje de mano](/es/blog/maleta-capsula-equipaje-mano)
-- [Normas de powerbank en aviones 2026](/es/blog/normas-powerbank-equipaje-mano)
+- [Solo equipaje de mano: la guía completa](/es/blog/solo-equipaje-de-mano/)
+- [Maleta cápsula: ropa para equipaje de mano](/es/blog/maleta-capsula-equipaje-mano/)
+- [Normas de powerbank en aviones 2026](/es/blog/normas-powerbank-equipaje-mano/)

@@ -71,6 +71,6 @@ Omani Rial (OMR). One rial equals roughly 2.40 euros. Oman is more expensive tha
 
 ## Read More
 
-- [Jordan Travel Guide: Petra, Wadi Rum, and Beyond](/en/blog/jordan-travel-guide-highlights)
-- [East Africa Safari Guide: What You Need to Know](/en/blog/east-africa-safari-guide)
-- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [Jordan Travel Guide: Petra, Wadi Rum, and Beyond](/en/blog/jordan-travel-guide-highlights/)
+- [East Africa Safari Guide: What You Need to Know](/en/blog/east-africa-safari-guide/)
+- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026/)

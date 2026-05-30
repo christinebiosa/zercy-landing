@@ -45,7 +45,7 @@ Westlich vom Centro, der lokale Stadtteil. Weniger Touristen, mehr Locals, Café
 
 **Top-Picks:** Hotel Acqua (Boutique mit Pool), Diez Hotel Categoría Colombia (modernes Mittelklasse), Sites Hotel Medellín (Boutique).
 
-Lies dazu auch unseren [Bogotá-Guide](/blog/wo-uebernachten-bogota) für die kolumbianische Hauptstadt-Variante.
+Lies dazu auch unseren [Bogotá-Guide](/blog/wo-uebernachten-bogota/) für die kolumbianische Hauptstadt-Variante.
 
 ## Wann ist die beste Reisezeit für Medellín?
 
@@ -124,6 +124,6 @@ Backpacker: 500-800 Euro pro Person inkl. Flug (Hostel in Poblado, lokales Essen
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bogotá: Die 4 Stadtteile](/blog/wo-uebernachten-bogota)
-- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
-- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026)
+- [Wo übernachten in Bogotá: Die 4 Stadtteile](/blog/wo-uebernachten-bogota/)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena/)
+- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026/)

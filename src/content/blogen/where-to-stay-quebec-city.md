@@ -49,7 +49,7 @@ Place Royale, the birthplace of French colonial civilization in North America, i
 
 **Top picks:** Auberge Saint-Pierre (historic boutique hotel right in the district), Le Port-Royal Hotel and Suites (apartment style, good for longer stays), Hôtel Acadia (reliable, good location).
 
-Our [Canada travel guide](/en/blog/canada-travel-guide-highlights) gives a comprehensive country overview.
+Our [Canada travel guide](/en/blog/canada-travel-guide-highlights/) gives a comprehensive country overview.
 
 ## When Is the Best Time to Visit Québec City?
 
@@ -105,6 +105,6 @@ November (outside Christmas) and March/April after the Carnival are the most aff
 ---
 
 ## Read more
-- [Canada Travel Guide: Best Highlights](/en/blog/canada-travel-guide-highlights)
-- [Where to Stay in New York: The 5 Best Neighborhoods](/en/blog/where-to-stay-new-york)
-- [Where to Stay in Boston: Neighborhoods Explained](/en/blog/where-to-stay-boston)
+- [Canada Travel Guide: Best Highlights](/en/blog/canada-travel-guide-highlights/)
+- [Where to Stay in New York: The 5 Best Neighborhoods](/en/blog/where-to-stay-new-york/)
+- [Where to Stay in Boston: Neighborhoods Explained](/en/blog/where-to-stay-boston/)

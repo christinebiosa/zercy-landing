@@ -69,7 +69,7 @@ Providencia es la versión más residencial y exclusiva de un barrio elegante: c
 
 **Top picks:** Hotel Presidente InterContinental Guadalajara (5 estrellas, centro de negocios, piscina grande), Demetria Hotel Guadalajara (boutique con spa), Camino Real Guadalajara (clásico con jardín).
 
-Comparado con nuestra [guía de dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico), barrios similares como Polanco cuestan entre un 30 y 40 por ciento más que en Guadalajara.
+Comparado con nuestra [guía de dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico/), barrios similares como Polanco cuestan entre un 30 y 40 por ciento más que en Guadalajara.
 
 ## Zapopan: Buena relación calidad-precio
 
@@ -81,7 +81,7 @@ Zapopan es un municipio separado al oeste de Guadalajara, pero prácticamente pa
 
 **Top picks:** Fiesta Inn Zapopan (confiable, piscina), GHL Hotel Capital Guadalajara (moderno, cerca del centro de convenciones), Hotel Cosmopolitan Guadalajara (gama media, ubicación central en Zapopan).
 
-¿Piensas alquilar un auto? En nuestra [guía de checklist para alquiler de coche](/es/blog/checklist-alquiler-coche) encontrarás lo que hay que vigilar específicamente con los alquileres mexicanos.
+¿Piensas alquilar un auto? En nuestra [guía de checklist para alquiler de coche](/es/blog/checklist-alquiler-coche/) encontrarás lo que hay que vigilar específicamente con los alquileres mexicanos.
 
 ## Tlaquepaque: El pueblo de las artes
 
@@ -130,6 +130,6 @@ El Lago de Chapala (el lago más grande de México, 40 km al sur) funciona perfe
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Ciudad de México: 5 barrios](/es/blog/donde-alojarse-ciudad-de-mexico)
-- [Dónde alojarse en Oaxaca: los mejores barrios](/es/blog/donde-alojarse-oaxaca)
-- [Dónde alojarse en Cancún: zona hotelera y más](/es/blog/donde-alojarse-cancun)
+- [Dónde alojarse en Ciudad de México: 5 barrios](/es/blog/donde-alojarse-ciudad-de-mexico/)
+- [Dónde alojarse en Oaxaca: los mejores barrios](/es/blog/donde-alojarse-oaxaca/)
+- [Dónde alojarse en Cancún: zona hotelera y más](/es/blog/donde-alojarse-cancun/)

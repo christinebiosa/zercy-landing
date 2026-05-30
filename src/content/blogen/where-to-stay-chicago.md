@@ -104,6 +104,6 @@ Lollapalooza runs annually in early August, 4 days, in Grant Park (directly on L
 ---
 
 **Read more:**
-- [Where to Stay in New York: Manhattan or Brooklyn?](/en/blog/where-to-stay-new-york)
-- [Where to Stay in Miami: South Beach or Wynwood?](/en/blog/where-to-stay-miami)
-- [Where to Stay in New Orleans: French Quarter or Garden District?](/en/blog/where-to-stay-new-orleans)
+- [Where to Stay in New York: Manhattan or Brooklyn?](/en/blog/where-to-stay-new-york/)
+- [Where to Stay in Miami: South Beach or Wynwood?](/en/blog/where-to-stay-miami/)
+- [Where to Stay in New Orleans: French Quarter or Garden District?](/en/blog/where-to-stay-new-orleans/)

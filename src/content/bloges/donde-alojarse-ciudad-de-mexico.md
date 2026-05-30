@@ -45,7 +45,7 @@ Justo al lado de Roma, ambiente similar pero algo más tranquilo. Parque México
 
 **Top picks:** Condesa DF (boutique legendario con restaurante), Octavia Casa (boutique de diseñador), Red Tree House (familiar con jardín).
 
-Lee también nuestra [guía de workation 2026](/es/blog/donde-alojarse-tulum) para combinar CDMX con playa. La [Secretaría de Turismo de CDMX](https://cdmxtravel.com/) tiene una visión curada de hoteles licenciados por barrio.
+Lee también nuestra [guía de workation 2026](/es/blog/donde-alojarse-tulum/) para combinar CDMX con playa. La [Secretaría de Turismo de CDMX](https://cdmxtravel.com/) tiene una visión curada de hoteles licenciados por barrio.
 
 ## ¿Cuándo es la mejor época para visitar Ciudad de México?
 
@@ -140,6 +140,6 @@ Mochilero: 700-1.000 USD por persona incl. vuelo (hostal, tacos, metro). Gama me
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Cancún: 4 zonas](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Tulum: Los mejores barrios](/es/blog/donde-alojarse-tulum)
-- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena)
+- [Dónde alojarse en Cancún: 4 zonas](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Tulum: Los mejores barrios](/es/blog/donde-alojarse-tulum/)
+- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena/)

@@ -47,7 +47,7 @@ Chiaia sits west of the center, right along the Lungomare Caracciolo waterfront 
 
 **Top picks:** Hotel Palazzo Alabardieri (elegant boutique in a quiet side street), Romeo Hotel (design luxury with harbor views), Eurostars Hotel Excelsior (direct sea view, large property, solid breakfast).
 
-Our [Milan neighborhood guide](/en/blog/where-to-stay-milan) follows the same logic: residential elegance beats tourist-center hotels almost every time.
+Our [Milan neighborhood guide](/en/blog/where-to-stay-milan/) follows the same logic: residential elegance beats tourist-center hotels almost every time.
 
 ## When Is the Best Time to Visit Naples?
 
@@ -63,7 +63,7 @@ Vomero sits on the hill above the city, reached by funicular railway. From Caste
 
 **Top picks:** Hotel Paradiso (great panoramic view, classic atmosphere), Grand Hotel Parker's (historic property with one of the best views in Naples), Hotel San Francesco al Monte (former monastery, terrace with unobstructed city view).
 
-For similar retreat-style accommodation away from city centers, our [Puglia guide](/en/blog/puglia-southern-italy-guide) has solid picks.
+For similar retreat-style accommodation away from city centers, our [Puglia guide](/en/blog/puglia-southern-italy-guide/) has solid picks.
 
 ## Quartieri Spagnoli: Authentic and Affordable
 
@@ -96,7 +96,7 @@ For Naples, [Booking.com](https://www.booking.com) is well stocked:
 
 Contacting boutique hotels like Hotel Piazza Bellini or Hotel Palazzo Alabardieri directly can be worthwhile if you want upgrades or special extras. For a first Naples trip: Booking.com gives you the best comparison in the shortest time.
 
-If you plan to visit Rome after Naples, the [48 Hours Rome guide](/en/blog/48-hours-rome) shows how to get the most out of a short trip.
+If you plan to visit Rome after Naples, the [48 Hours Rome guide](/en/blog/48-hours-rome/) shows how to get the most out of a short trip.
 
 ---
 
@@ -123,6 +123,6 @@ November through March (excluding Christmas) offers the lowest prices. Easter an
 ---
 
 **Read more:**
-- [Where to Stay in Rome: The Best Neighborhoods](/en/blog/where-to-stay-rome)
-- [48 Hours in Rome: What You Actually Need](/en/blog/48-hours-rome)
-- [Puglia: The Southern Italy Guide for Explorers](/en/blog/puglia-southern-italy-guide)
+- [Where to Stay in Rome: The Best Neighborhoods](/en/blog/where-to-stay-rome/)
+- [48 Hours in Rome: What You Actually Need](/en/blog/48-hours-rome/)
+- [Puglia: The Southern Italy Guide for Explorers](/en/blog/puglia-southern-italy-guide/)

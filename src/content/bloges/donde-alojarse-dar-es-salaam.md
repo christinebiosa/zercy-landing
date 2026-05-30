@@ -77,7 +77,7 @@ Para Dar es Salaam, [Booking.com](https://www.booking.com) funciona bien para la
 
 ### ¿Cómo llego de Dar es Salaam a Zanzíbar?
 
-En ferry desde el terminal de Kivukoni. Azam Marine y Coastal Fast Ferries son los operadores más fiables. El ferry rápido tarda 90 minutos y cuesta 35-50 USD para turistas. Reserva con 1-2 días de antelación. Las salidas matutinas (7-9h) son más tranquilas que las de la tarde. La [guía de Zanzíbar Stone Town](/es/blog/zanzibar-stone-town-guia) cubre lo que viene después.
+En ferry desde el terminal de Kivukoni. Azam Marine y Coastal Fast Ferries son los operadores más fiables. El ferry rápido tarda 90 minutos y cuesta 35-50 USD para turistas. Reserva con 1-2 días de antelación. Las salidas matutinas (7-9h) son más tranquilas que las de la tarde. La [guía de Zanzíbar Stone Town](/es/blog/zanzibar-stone-town-guia/) cubre lo que viene después.
 
 ### ¿Cuánto cuesta un taxi en Dar es Salaam?
 
@@ -85,7 +85,7 @@ Los taxis no tienen taxímetro. Acordar el precio antes. Dentro de los barrios: 
 
 ### ¿Qué atracciones hay en Dar es Salaam?
 
-Village Museum (museo al aire libre de arquitectura tanzana), Museo Nacional y Casa de la Cultura, Kariakoo Market (lunes a sábado por las mañanas, máxima animación), mercado de pescado de Kivukoni (muy temprano por la mañana), Coco Beach (borde de la ciudad, popular entre los lugareños). La [guía de viaje de Tanzania](/es/blog/tanzania-guia-viaje-highlights) tiene el panorama completo del país.
+Village Museum (museo al aire libre de arquitectura tanzana), Museo Nacional y Casa de la Cultura, Kariakoo Market (lunes a sábado por las mañanas, máxima animación), mercado de pescado de Kivukoni (muy temprano por la mañana), Coco Beach (borde de la ciudad, popular entre los lugareños). La [guía de viaje de Tanzania](/es/blog/tanzania-guia-viaje-highlights/) tiene el panorama completo del país.
 
 ### ¿Es seguro Dar es Salaam para los turistas?
 
@@ -94,6 +94,6 @@ Dar es Salaam es relativamente segura para una gran ciudad africana. Los carteri
 ---
 
 **Leer más:**
-- [Guía de viaje de Tanzania: Safari, Zanzíbar y Kilimanjaro](/es/blog/tanzania-guia-viaje-highlights)
-- [Zanzíbar Stone Town: Lo que necesitas saber](/es/blog/zanzibar-stone-town-guia)
-- [Safari en África Oriental: Guía completa de planificación](/es/blog/safari-africa-oriental-guia)
+- [Guía de viaje de Tanzania: Safari, Zanzíbar y Kilimanjaro](/es/blog/tanzania-guia-viaje-highlights/)
+- [Zanzíbar Stone Town: Lo que necesitas saber](/es/blog/zanzibar-stone-town-guia/)
+- [Safari en África Oriental: Guía completa de planificación](/es/blog/safari-africa-oriental-guia/)

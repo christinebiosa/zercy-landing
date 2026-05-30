@@ -49,7 +49,7 @@ Desde el extremo sur se ve el Capitolio al final de Congress Avenue. South Congr
 
 **Top picks:** Hotel San José (ícono de Austin, piscina, música), South Congress Hotel (boutique moderno), Austin Motel (retro, asequible, auténtico).
 
-Consulta también nuestra [guía de viaje a Argentina](/es/blog/argentina-guia-viaje-highlights) y el [artículo sobre San Francisco](/es/blog/donde-alojarse-san-francisco) para más inspiración americana.
+Consulta también nuestra [guía de viaje a Argentina](/es/blog/argentina-guia-viaje-highlights/) y el [artículo sobre San Francisco](/es/blog/donde-alojarse-san-francisco/) para más inspiración americana.
 
 ## East Austin: Tendencias y escena gastronómica
 
@@ -115,6 +115,6 @@ Enero y febrero son los meses más asequibles. Principios de diciembre (fuera de
 ---
 
 ## Más artículos
-- [Dónde alojarse en Miami: Las mejores zonas](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Los Ángeles: 5 barrios explicados](/es/blog/donde-alojarse-los-angeles)
-- [México: Ruta completa por los mejores destinos](/es/blog/mexico-ruta-completa)
+- [Dónde alojarse en Miami: Las mejores zonas](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Los Ángeles: 5 barrios explicados](/es/blog/donde-alojarse-los-angeles/)
+- [México: Ruta completa por los mejores destinos](/es/blog/mexico-ruta-completa/)

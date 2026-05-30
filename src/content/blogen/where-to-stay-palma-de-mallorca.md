@@ -53,7 +53,7 @@ The [official Balearic Islands tourism site](https://www.illesbalears.travel/en/
 
 May to June and September to October are ideal. 72-82°F, the cathedral without high-season queues, restaurants with open tables. July to August: 86-97°F, everything booked out, prices at annual peak. November to March: Mallorca in winter mode, many shops closed, but affordable and quiet. Northern European long-term visitors have known this trick for decades.
 
-For more on smart travel planning in Spain, see our [Madrid 24-hour guide](/en/blog/madrid-24-hours).
+For more on smart travel planning in Spain, see our [Madrid 24-hour guide](/en/blog/madrid-24-hours/).
 
 ## Santa Catalina: The Foodie Quarter
 
@@ -75,7 +75,7 @@ The seafront promenade between the city walls and the harbor. Superyachts moor h
 
 **Top picks:** Hotel Meliá Palma Bay (modern premium with harbor panorama), Palacio de Ca'n Galesa (boutique luxury), Hospes Maricel & Spa (outside city, cliff pool directly on the sea).
 
-For premium hotel tips in other Mediterranean cities, see the [Seville neighborhood guide](/en/blog/where-to-stay-seville).
+For premium hotel tips in other Mediterranean cities, see the [Seville neighborhood guide](/en/blog/where-to-stay-seville/).
 
 ## La Bonanova / Son Armadams: Quiet and Residential
 
@@ -124,6 +124,6 @@ Bus is cheap but slow. Rental car is recommended for a flexible island tour. Fro
 ---
 
 **Read more:**
-- [Where to Stay in Barcelona: The 5 Neighborhoods](/en/blog/where-to-stay-barcelona)
-- [Where to Stay in Seville: The Neighborhoods](/en/blog/where-to-stay-seville)
-- [Madrid 24-Hour Guide](/en/blog/madrid-24-hours)
+- [Where to Stay in Barcelona: The 5 Neighborhoods](/en/blog/where-to-stay-barcelona/)
+- [Where to Stay in Seville: The Neighborhoods](/en/blog/where-to-stay-seville/)
+- [Madrid 24-Hour Guide](/en/blog/madrid-24-hours/)

@@ -64,7 +64,7 @@ Always have these ready:
 
 **Completed arrival form:** Some countries have paper forms at the desk, others use digital tablets. Knowing your details in advance (address, travel dates, occupation) speeds up the process significantly.
 
-Our [digital nomad visa guide](/en/blog/digital-nomad-visa-countries-2026) covers longer-term options if you are planning an extended stay in any of these countries.
+Our [digital nomad visa guide](/en/blog/digital-nomad-visa-countries-2026/) covers longer-term options if you are planning an extended stay in any of these countries.
 
 ## How Do You Verify Visa Requirements Reliably Before Traveling?
 
@@ -110,6 +110,6 @@ Many countries allow VoA only at specific entry points, typically major internat
 ---
 
 **Read more:**
-- [Digital Nomad Visa Countries 2026: Where to Work Remotely](/en/blog/digital-nomad-visa-countries-2026)
-- [Travel Mistakes to Avoid: The Classic Ones](/en/blog/travel-mistakes-avoid-common)
-- [Southeast Asia on a Budget: The Practical Guide](/en/blog/southeast-asia-budget-travel)
+- [Digital Nomad Visa Countries 2026: Where to Work Remotely](/en/blog/digital-nomad-visa-countries-2026/)
+- [Travel Mistakes to Avoid: The Classic Ones](/en/blog/travel-mistakes-avoid-common/)
+- [Southeast Asia on a Budget: The Practical Guide](/en/blog/southeast-asia-budget-travel/)

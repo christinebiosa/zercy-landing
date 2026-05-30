@@ -16,11 +16,11 @@ This guide covers the best destinations for weekend getaways from Germany, Austr
 
 The best weekend destinations share three things: reachable in under three hours (or flyable for under €100), compact enough to explore in two days, and distinct enough that their character hits you immediately.
 
-**Prague** is reachable from Berlin by bus or train in under three hours. Tickets from €15 one way. No flight needed. The Old Town, Wenceslas Square, the Jewish Quarter: all walkable. A cheap city with good restaurant density. A [48 hours in Prague](/en/blog/48-hours-prague) weekend needs no complex itinerary.
+**Prague** is reachable from Berlin by bus or train in under three hours. Tickets from €15 one way. No flight needed. The Old Town, Wenceslas Square, the Jewish Quarter: all walkable. A cheap city with good restaurant density. A [48 hours in Prague](/en/blog/48-hours-prague/) weekend needs no complex itinerary.
 
-**Vienna** is four hours from Munich by train. Direct connections run hourly, tickets from €30. Vienna is dense: museums, coffee houses, Naschmarkt, Prater. Sights are close together. A [48 hours in Vienna](/en/blog/48-hours-vienna) weekend is entirely doable without a car.
+**Vienna** is four hours from Munich by train. Direct connections run hourly, tickets from €30. Vienna is dense: museums, coffee houses, Naschmarkt, Prater. Sights are close together. A [48 hours in Vienna](/en/blog/48-hours-vienna/) weekend is entirely doable without a car.
 
-**Amsterdam** is quickly reachable from Germany by train. From Cologne, Amsterdam is under three hours with no transfer. Canals, Rijksmuseum, Jordaan: compact. [48 hours in Amsterdam](/en/blog/48-hours-amsterdam) covers the main highlights comfortably.
+**Amsterdam** is quickly reachable from Germany by train. From Cologne, Amsterdam is under three hours with no transfer. Canals, Rijksmuseum, Jordaan: compact. [48 hours in Amsterdam](/en/blog/48-hours-amsterdam/) covers the main highlights comfortably.
 
 **Lisbon** is two hours by flight. Direct flights from Frankfurt, Munich, or Berlin start at €60 to €100 when booked ahead. The city has its own energy that hits immediately on arrival. Alfama, Belém, LX Factory: a lot for not much money.
 
@@ -34,7 +34,7 @@ Under three hours by train: always take the train. Getting to and from the airpo
 
 From 600 kilometres or three hours of travel time: check flights. Lisbon, Naples, and Barcelona are two days of train travel from Germany. A weekend would spend half its time getting there.
 
-**Finding cheap weekend flights:** Friday evening departures are more expensive than Saturday morning departures. This is the most underused rule when booking. If you fly Saturday morning (6 to 8am) and return Sunday evening, you often save €30 to €50. The [cheap flights tips](/en/blog/cheap-flights-tips) guide has a full breakdown.
+**Finding cheap weekend flights:** Friday evening departures are more expensive than Saturday morning departures. This is the most underused rule when booking. If you fly Saturday morning (6 to 8am) and return Sunday evening, you often save €30 to €50. The [cheap flights tips](/en/blog/cheap-flights-tips/) guide has a full breakdown.
 
 Google Flights with flexible dates (+/- 3 days) often surfaces cheaper alternatives. The price calendar feature reveals differences of €40 to €80.
 
@@ -68,12 +68,12 @@ Check out [visiteurope.com](https://www.visiteurope.com) for event calendars bef
 
 Zercy builds live flight prices into every travel plan. Enter your destination and get instant comparison links. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
-For weekend trips where you want to add a rental car: the [rental car checklist](/en/blog/rental-car-checklist) shows when a car makes sense and which providers are reliable. More detailed destination guides are on the Zercy blog.
+For weekend trips where you want to add a rental car: the [rental car checklist](/en/blog/rental-car-checklist/) shows when a car makes sense and which providers are reliable. More detailed destination guides are on the Zercy blog.
 
 **Read more:**
-- [48 Hours in Prague: The Honest Itinerary](/en/blog/48-hours-prague)
-- [48 Hours in Vienna: What's Actually Worth It](/en/blog/48-hours-vienna)
-- [Cheap Flights Tips: How to Find the Best Prices](/en/blog/cheap-flights-tips)
+- [48 Hours in Prague: The Honest Itinerary](/en/blog/48-hours-prague/)
+- [48 Hours in Vienna: What's Actually Worth It](/en/blog/48-hours-vienna/)
+- [Cheap Flights Tips: How to Find the Best Prices](/en/blog/cheap-flights-tips/)
 
 ## Frequently Asked Questions
 

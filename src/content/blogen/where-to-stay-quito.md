@@ -49,7 +49,7 @@ Cheaper than Centro Histórico and more internationally oriented. Not the "real"
 
 **Top picks:** Swissôtel Quito (reliable, well-positioned in Mariscal), Hotel Sebastian (boutique, well-reviewed), Nu House Hostel (boutique hostel, very popular).
 
-Our [Ecuador and Galápagos travel guide](/en/blog/ecuador-galapagos-travel-guide) is essential reading before a Quito visit.
+Our [Ecuador and Galápagos travel guide](/en/blog/ecuador-galapagos-travel-guide/) is essential reading before a Quito visit.
 
 ## When Is the Best Time to Visit Quito?
 
@@ -105,6 +105,6 @@ The equator is about 25 km north of Quito at Mitad del Mundo. The monument and c
 ---
 
 ## Read more
-- [Ecuador and Galápagos Travel Guide: What You Need to Know](/en/blog/ecuador-galapagos-travel-guide)
-- [Where to Stay in Bogotá: Neighborhoods Explained](/en/blog/where-to-stay-bogota)
-- [Where to Stay in Lima: Miraflores and More](/en/blog/where-to-stay-lima)
+- [Ecuador and Galápagos Travel Guide: What You Need to Know](/en/blog/ecuador-galapagos-travel-guide/)
+- [Where to Stay in Bogotá: Neighborhoods Explained](/en/blog/where-to-stay-bogota/)
+- [Where to Stay in Lima: Miraflores and More](/en/blog/where-to-stay-lima/)

@@ -47,7 +47,7 @@ Right on the Pacific, 16 miles west of Downtown. Santa Monica Pier with Pacific 
 
 **Top picks:** Shutters on the Beach (legendary premium at the beach), Casa del Mar (5-star historic beach hotel), Fairmont Miramar Hotel & Bungalows (classic premium with pool).
 
-See our [San Francisco guide](/en/blog/where-to-stay-san-francisco) for the northern California variant.
+See our [San Francisco guide](/en/blog/where-to-stay-san-francisco/) for the northern California variant.
 
 ## When is the best time to visit Los Angeles?
 
@@ -131,6 +131,6 @@ Backpacker: $1,400-2,000 per person incl. flight (hostel in Hollywood, rental ca
 ---
 
 **Read more:**
-- [Where to stay in San Francisco: 5 neighborhoods](/en/blog/where-to-stay-san-francisco)
-- [Where to stay in New York: 5 neighborhoods](/en/blog/where-to-stay-new-york)
-- [Road trip stages planning: how to plan a route](/en/blog/road-trip-stages-planning)
+- [Where to stay in San Francisco: 5 neighborhoods](/en/blog/where-to-stay-san-francisco/)
+- [Where to stay in New York: 5 neighborhoods](/en/blog/where-to-stay-new-york/)
+- [Road trip stages planning: how to plan a route](/en/blog/road-trip-stages-planning/)

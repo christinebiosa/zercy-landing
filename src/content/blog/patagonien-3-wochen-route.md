@@ -89,7 +89,7 @@ Hotel-Empfehlungen pro Stopp, alle via [Booking.com](https://www.booking.com) bu
 
 **Ushuaia:** Arakur Ushuaia Resort (5-Sterne mit Spa, 200m über der Stadt), Las Hayas Resort Hotel (klassisch premium), Mil 810 Hotel (modernes Boutique).
 
-Lies dazu auch unseren [Buenos-Aires-Guide](/blog/wo-uebernachten-buenos-aires) für 1-2 Stop-Over-Nächte.
+Lies dazu auch unseren [Buenos-Aires-Guide](/blog/wo-uebernachten-buenos-aires/) für 1-2 Stop-Over-Nächte.
 
 ## Welche Mietwagen-Realität gibt es in Patagonien?
 
@@ -105,7 +105,7 @@ Mietwagen klingt verlockend, ist aber komplizierter als gedacht:
 
 **Schotterpisten-Risiko:** Die berühmten Patagonien-Schotterpisten sind Mietwagen-Killer. Kies-Schäden (Steinschlag) am Tag normal. Vollkasko-Versicherung MUSS Schotterpisten-Schäden inkludieren (kostet extra 20-30 EUR/Tag).
 
-Lies dazu auch unseren [Mietwagen-versteckte-Kosten-Guide](/blog/mietwagen-versteckte-kosten-vermeiden) bevor du buchst.
+Lies dazu auch unseren [Mietwagen-versteckte-Kosten-Guide](/blog/mietwagen-versteckte-kosten-vermeiden/) bevor du buchst.
 
 ## Was musst du unbedingt wissen, bevor du nach Patagonien fliegst?
 
@@ -142,6 +142,6 @@ Laguna de los Tres unter Fitz Roy (El Chaltén, 22 km, ganzer Tag), Mirador Las 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Buenos Aires: Die 5 Stadtteile](/blog/wo-uebernachten-buenos-aires)
-- [Wo übernachten in Mendoza: Die 4 Wein-Bereiche](/blog/wo-uebernachten-mendoza)
-- [Costa Rica Rundreise: Die perfekte 2-Wochen-Route](/blog/costa-rica-rundreise-route)
+- [Wo übernachten in Buenos Aires: Die 5 Stadtteile](/blog/wo-uebernachten-buenos-aires/)
+- [Wo übernachten in Mendoza: Die 4 Wein-Bereiche](/blog/wo-uebernachten-mendoza/)
+- [Costa Rica Rundreise: Die perfekte 2-Wochen-Route](/blog/costa-rica-rundreise-route/)

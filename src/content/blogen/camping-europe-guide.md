@@ -34,7 +34,7 @@ The choice between tent, rooftop tent, and motorhome determines flexibility, cos
 
 **Rooftop tents** have grown massively in popularity. Setup under five minutes, far more comfortable than sleeping on the ground, no damp floor. Downside: you need the right vehicle and a solid roof load rating. Price: €800 to €2,500 for the tent itself.
 
-**Motorhome** is the most expensive option, but also the most relaxed. Rental prices in peak season start from €100 to €150 per day, fully equipped. For longer trips (two weeks plus), that competes favourably with hotel plus restaurant costs. A [campervan holiday in Europe](/en/blog/campervan-europe-guide) has its own logic and needs some preparation.
+**Motorhome** is the most expensive option, but also the most relaxed. Rental prices in peak season start from €100 to €150 per day, fully equipped. For longer trips (two weeks plus), that competes favourably with hotel plus restaurant costs. A [campervan holiday in Europe](/en/blog/campervan-europe-guide/) has its own logic and needs some preparation.
 
 For all options: a good sleeping bag combination (three-season plus liner) matters more than expensive accessories. And a headlamp. Always a headlamp.
 
@@ -66,18 +66,18 @@ This is where most beginners make mistakes.
 
 **Grey areas:** Spain and Croatia have unclear rules outside national parks. Local research pays off. The Park4Night community actively comments on which spots are tolerated.
 
-The [Scandinavia road trip route](/en/blog/scandinavia-road-trip-route) is particularly well-suited for wild campers. Three countries, all with everyman's right.
+The [Scandinavia road trip route](/en/blog/scandinavia-road-trip-route/) is particularly well-suited for wild campers. Three countries, all with everyman's right.
 
 ---
 
 Zercy builds live flight prices into every travel plan. Enter your destination and get instant comparison links. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
-For camping trips combined with a rental car, the [car rental checklist](/en/blog/rental-car-checklist) shows you the cheapest providers and what to check at pickup. If you're planning to stay indoors on some nights during a longer trip, take a look at [travel insurance: is it worth it?](/en/blog/travel-insurance-worth-it-2026) before you book.
+For camping trips combined with a rental car, the [car rental checklist](/en/blog/rental-car-checklist/) shows you the cheapest providers and what to check at pickup. If you're planning to stay indoors on some nights during a longer trip, take a look at [travel insurance: is it worth it?](/en/blog/travel-insurance-worth-it-2026/) before you book.
 
 **Read more:**
-- [Campervan Europe: The Complete Guide](/en/blog/campervan-europe-guide)
-- [Scandinavia Road Trip Route and Tips](/en/blog/scandinavia-road-trip-route)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Campervan Europe: The Complete Guide](/en/blog/campervan-europe-guide/)
+- [Scandinavia Road Trip Route and Tips](/en/blog/scandinavia-road-trip-route/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
 
 ## Frequently Asked Questions
 

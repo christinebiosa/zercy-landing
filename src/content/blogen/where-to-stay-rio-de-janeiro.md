@@ -80,7 +80,7 @@ Rio is cheaper than European capitals. Realistic ranges per night.
 
 Tip: May-September (Brazilian winter, milder) are 30-40 percent cheaper than peak summer (December-February). During Carnival (February/March) prices double.
 
-See our [carbon offset article](/en/blog/flight-carbon-offsets-truth) — Rio is a long-haul flight from the US East Coast and Europe.
+See our [carbon offset article](/en/blog/flight-carbon-offsets-truth/) — Rio is a long-haul flight from the US East Coast and Europe.
 
 ## Where should you actually book?
 
@@ -119,6 +119,6 @@ Backpacker: $800-1,100 per person incl. flight (hostel, local food, bus). Mid-ra
 ---
 
 **Read more:**
-- [Where to stay in Buenos Aires: 5 neighborhoods](/en/blog/where-to-stay-buenos-aires)
-- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena)
-- [Flight carbon offsets: do they actually work?](/en/blog/flight-carbon-offsets-truth)
+- [Where to stay in Buenos Aires: 5 neighborhoods](/en/blog/where-to-stay-buenos-aires/)
+- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena/)
+- [Flight carbon offsets: do they actually work?](/en/blog/flight-carbon-offsets-truth/)

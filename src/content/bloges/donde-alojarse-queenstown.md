@@ -53,7 +53,7 @@ La web oficial de [Tourism New Zealand](https://www.newzealand.com/es/queenstown
 
 Queenstown tiene dos temporadas altas. Verano (diciembre a febrero) para senderismo, puenting, jet boats y rutas de montaña con hasta 25 °C. Invierno (julio a septiembre) para esquiar en Coronet Peak y The Remarkables, dos de las estaciones de esquí más conocidas del hemisferio sur. Los hombros de temporada (marzo a mayo, octubre a noviembre) son más tranquilos y hasta un 40 por ciento más baratos. La primavera neozelandesa (octubre y noviembre) es especialmente bonita.
 
-Para un viaje por la Isla Sur, las combinaciones tienen mucho sentido: Queenstown, Milford Sound (2,5 horas), Franz Josef Glacier (5 horas). Lee nuestra [guía de viaje a Nueva Zelanda](/es/blog/guia-viaje-nueva-zelanda) para la ruta completa por la Isla Sur.
+Para un viaje por la Isla Sur, las combinaciones tienen mucho sentido: Queenstown, Milford Sound (2,5 horas), Franz Josef Glacier (5 horas). Lee nuestra [guía de viaje a Nueva Zelanda](/es/blog/guia-viaje-nueva-zelanda/) para la ruta completa por la Isla Sur.
 
 ## Fernhill y Arrowtown: Para vistas e historia
 
@@ -71,7 +71,7 @@ A 30 minutos al este de Queenstown está el Gibbston Valley, una de las regiones
 
 **Mejores opciones:** Gibbston Valley Lodge & Spa (lodge de lujo en viñedo, experiencia premium), Peregrine Wines Accommodation (directamente en la bodega, exclusivo).
 
-Para el viaje completo por Nueva Zelanda: [dónde alojarse en Auckland](/es/blog/donde-alojarse-auckland) y la [guía de viaje a Nueva Zelanda](/es/blog/guia-viaje-nueva-zelanda) dan la visión completa.
+Para el viaje completo por Nueva Zelanda: [dónde alojarse en Auckland](/es/blog/donde-alojarse-auckland/) y la [guía de viaje a Nueva Zelanda](/es/blog/guia-viaje-nueva-zelanda/) dan la visión completa.
 
 ## ¿Dónde conviene reservar?
 
@@ -109,6 +109,6 @@ Los escenarios más conocidos alrededor de Queenstown son Rees Valley (escenas d
 ---
 
 **Seguir leyendo:**
-- [Dónde alojarse en Auckland: Los 5 barrios](/es/blog/donde-alojarse-auckland)
-- [Guía de viaje a Nueva Zelanda: Las mejores rutas](/es/blog/guia-viaje-nueva-zelanda)
-- [Checklist de alquiler de coche: Todo lo que debes saber](/es/blog/checklist-alquiler-coche)
+- [Dónde alojarse en Auckland: Los 5 barrios](/es/blog/donde-alojarse-auckland/)
+- [Guía de viaje a Nueva Zelanda: Las mejores rutas](/es/blog/guia-viaje-nueva-zelanda/)
+- [Checklist de alquiler de coche: Todo lo que debes saber](/es/blog/checklist-alquiler-coche/)

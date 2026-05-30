@@ -19,7 +19,7 @@ Osaka is Japan's culinary capital. No traveler leaves without eating takoyaki (o
 
 Dotonbori is the neon-lit epicenter of it all. The canal-side strip is loud, packed, and completely unforgettable. The Glico running man, giant squid signs over restaurant doorways, takoyaki steam in the night air. It is kitsch and it is perfect. If you want nightlife, bars in Namba, karaoke until 4 AM, club culture: Osaka delivers. Kyoto does not.
 
-The atmosphere in Osaka is noticeably more relaxed than Tokyo. Less formal, more humor, more noise. Japanese people often describe Osakans as the extroverts of the country. For accommodation recommendations by neighborhood, the [where to stay in Osaka guide](/en/blog/where-to-stay-osaka) covers everything from Namba to Shinsaibashi.
+The atmosphere in Osaka is noticeably more relaxed than Tokyo. Less formal, more humor, more noise. Japanese people often describe Osakans as the extroverts of the country. For accommodation recommendations by neighborhood, the [where to stay in Osaka guide](/en/blog/where-to-stay-osaka/) covers everything from Namba to Shinsaibashi.
 
 ## What does Kyoto have that nowhere else does?
 
@@ -27,7 +27,7 @@ Kyoto was Japan's imperial capital for over a thousand years. The Second World W
 
 The Arashiyama bamboo grove. The golden Kinkaku-ji temple. Fushimi Inari with its thousands of red torii gates. The Gion district, where early in the morning you might catch a maiko, a geisha apprentice, moving through cobbled lanes. These are not tourist attractions in the Western sense. They are living institutions with centuries-old rituals still practiced today.
 
-The Japan National Tourism Organization ([jnto.go.jp](https://www.jnto.go.jp)) recommends at least three full days in Kyoto, because the city reveals itself best in the early morning before tour groups arrive. One day is not enough. For accommodation in Kyoto itself, the [where to stay in Kyoto guide](/en/blog/where-to-stay-kyoto) has neighborhood-by-neighborhood recommendations.
+The Japan National Tourism Organization ([jnto.go.jp](https://www.jnto.go.jp)) recommends at least three full days in Kyoto, because the city reveals itself best in the early morning before tour groups arrive. One day is not enough. For accommodation in Kyoto itself, the [where to stay in Kyoto guide](/en/blog/where-to-stay-kyoto/) has neighborhood-by-neighborhood recommendations.
 
 Food in Kyoto is refined but more expensive than in Osaka. Kaiseki, the traditional multi-course cuisine, can run several hundred dollars. There are affordable tofu restaurants and ramen bars too, but the average spend is higher.
 
@@ -41,7 +41,7 @@ Sleeping in Kyoto means waking up before the day-trippers from Osaka arrive. Ara
 
 The JR Shinkansen between Osaka and Kyoto takes 15 minutes and costs around $3 (included with the JR Pass). The connection is so fast and cheap that the distance becomes irrelevant. Combining both cities is not a compromise. It is the logical choice.
 
-For a broader Japan itinerary beyond these two cities, the [Japan beyond Tokyo guide](/en/blog/japan-beyond-tokyo-guide) covers other destinations that pair well with an Osaka-Kyoto base.
+For a broader Japan itinerary beyond these two cities, the [Japan beyond Tokyo guide](/en/blog/japan-beyond-tokyo-guide/) covers other destinations that pair well with an Osaka-Kyoto base.
 
 ## How much does food cost in Osaka vs Kyoto?
 
@@ -79,6 +79,6 @@ The train costs nothing extra with the JR Pass. Without a pass: around $3 for th
 
 Read more:
 
-- [Where to Stay in Kyoto: Neighborhoods and Hotels](/en/blog/where-to-stay-kyoto)
-- [Where to Stay in Osaka: Tips and Prices](/en/blog/where-to-stay-osaka)
-- [Japan Beyond Tokyo: The Best Secondary Destinations](/en/blog/japan-beyond-tokyo-guide)
+- [Where to Stay in Kyoto: Neighborhoods and Hotels](/en/blog/where-to-stay-kyoto/)
+- [Where to Stay in Osaka: Tips and Prices](/en/blog/where-to-stay-osaka/)
+- [Japan Beyond Tokyo: The Best Secondary Destinations](/en/blog/japan-beyond-tokyo-guide/)

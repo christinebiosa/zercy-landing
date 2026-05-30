@@ -47,7 +47,7 @@ Das koloniale Cebu. Hier steht Magellan's Cross, die Basilika del Santo Niño, d
 
 **Top-Picks:** Quest Hotel and Conference Center (Mittelklasse, solide), Harolds Hotel Cebu (klassisch, zentral), The Henry Hotel Cebu (Boutique mit Geschichte, nahe Kolonialviertel).
 
-Wenn du die Philippinen neu kennenlernst, schau auch in unseren [Philippinen-Reiseguide](/blog/philippinen-reiseguide-highlights). Cebu ist der perfekte Einstieg für einen größeren Trip.
+Wenn du die Philippinen neu kennenlernst, schau auch in unseren [Philippinen-Reiseguide](/blog/philippinen-reiseguide-highlights/). Cebu ist der perfekte Einstieg für einen größeren Trip.
 
 ## Wann ist die beste Reisezeit für Cebu?
 
@@ -57,7 +57,7 @@ Trockenzeit von Januar bis Mai, Hochsaison März bis Mai. Tauchsaison das ganze 
 
 Mactan ist nicht Cebu City. Eine Brücke verbindet die beiden Inseln. Hier liegt der internationale Flughafen, und direkt daneben erstrecken sich die Resort-Strände von Punta Engaño und Mactan Newtown. Entspannter. Weniger urban. Das Wasser ist warm, die Korallen sind 10 Gehminuten entfernt.
 
-**Wer hier richtig liegt:** Strandreisende, Taucher und Schnorchler, alle die direkt nach der Landung ins Wasser wollen. Ausgezeichnete Basis für [Tauchen und Schnorcheln in Topspots](/blog/tauchen-schnorcheln-reiseziele) wie den Malapascua-Thresher-Sharks oder Moalboal mit den Sardinenschwärmen.
+**Wer hier richtig liegt:** Strandreisende, Taucher und Schnorchler, alle die direkt nach der Landung ins Wasser wollen. Ausgezeichnete Basis für [Tauchen und Schnorcheln in Topspots](/blog/tauchen-schnorcheln-reiseziele/) wie den Malapascua-Thresher-Sharks oder Moalboal mit den Sardinenschwärmen.
 
 **Preise:** Mittelklasse-Resorts 60-150 Euro, Premium-Resorts 200-450 Euro, Luxus 500-1.200 Euro.
 
@@ -73,7 +73,7 @@ Nördlich von Cebu City. Weniger touristisch, lokale Märkte, Industriegebiet ne
 
 **Top-Picks:** Waterfront Airport Hotel (Mittelklasse, Airport-nah), verschiedene Budget-Guesthouses in SM Mandaue-Nähe für lange Aufenthalte.
 
-Für Reisetipps zum Budget-Reisen in der Region lies auch unseren [Südostasien-Budget-Guide](/blog/suedostasien-budget-reisen).
+Für Reisetipps zum Budget-Reisen in der Region lies auch unseren [Südostasien-Budget-Guide](/blog/suedostasien-budget-reisen/).
 
 ## South Road Properties: Das neue Cebu
 
@@ -122,6 +122,6 @@ Magellan's Cross und Basilika del Santo Niño in Downtown, der Carbon Market fü
 ---
 
 **Mehr lesen:**
-- [Philippinen Reiseguide: Inseln, Tauchen, Highlights](/blog/philippinen-reiseguide-highlights)
-- [Tauchen und Schnorcheln: Die besten Reiseziele weltweit](/blog/tauchen-schnorcheln-reiseziele)
-- [Südostasien günstig reisen: Budget-Tipps für die Region](/blog/suedostasien-budget-reisen)
+- [Philippinen Reiseguide: Inseln, Tauchen, Highlights](/blog/philippinen-reiseguide-highlights/)
+- [Tauchen und Schnorcheln: Die besten Reiseziele weltweit](/blog/tauchen-schnorcheln-reiseziele/)
+- [Südostasien günstig reisen: Budget-Tipps für die Region](/blog/suedostasien-budget-reisen/)

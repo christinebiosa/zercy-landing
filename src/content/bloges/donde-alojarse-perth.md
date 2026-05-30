@@ -93,11 +93,11 @@ Northbridge tiene los hoteles y hostels más asequibles cerca del centro. Para o
 
 ### ¿Qué no hay que perderse en Perth?
 
-Kings Park (gratis, las mejores vistas de la ciudad, flores silvestres en septiembre), atardecer en Cottesloe Beach, mercados de Fremantle (viernes a domingo), Rottnest Island con quokkas, región vinícola de Swan Valley (30 minutos al este). La [guía de road trip por Australia](/es/blog/australia-ruta-completa) muestra cómo encaja Perth en la ruta general.
+Kings Park (gratis, las mejores vistas de la ciudad, flores silvestres en septiembre), atardecer en Cottesloe Beach, mercados de Fremantle (viernes a domingo), Rottnest Island con quokkas, región vinícola de Swan Valley (30 minutos al este). La [guía de road trip por Australia](/es/blog/australia-ruta-completa/) muestra cómo encaja Perth en la ruta general.
 
 ---
 
 **Leer más:**
-- [Australia: La mejor ruta de este a oeste](/es/blog/australia-ruta-completa)
-- [Dónde alojarse en Brisbane: Los mejores barrios](/es/blog/donde-alojarse-brisbane)
-- [Dónde alojarse en Melbourne: Ciudad, Fitzroy o St Kilda](/es/blog/donde-alojarse-melbourne)
+- [Australia: La mejor ruta de este a oeste](/es/blog/australia-ruta-completa/)
+- [Dónde alojarse en Brisbane: Los mejores barrios](/es/blog/donde-alojarse-brisbane/)
+- [Dónde alojarse en Melbourne: Ciudad, Fitzroy o St Kilda](/es/blog/donde-alojarse-melbourne/)

@@ -31,7 +31,7 @@ Por la tarde, el barrio chino de Yaowarat es uno de los mejores de Asia. Empieza
 
 El río Chao Phraya merece un momento al anochecer. El Chao Phraya Express Boat cuesta entre 15 y 40 baht dependiendo del trayecto y es una forma práctica de moverse entre barrios a la vez que ves la ciudad desde el agua.
 
-Si te interesa dónde quedarte en Bangkok para combinar bien con estos puntos, puedes consultar la guía de [dónde alojarse en Bangkok](/es/blog/donde-alojarse-chiang-mai) para opciones en el centro histórico y barrios alternativos.
+Si te interesa dónde quedarte en Bangkok para combinar bien con estos puntos, puedes consultar la guía de [dónde alojarse en Bangkok](/es/blog/donde-alojarse-chiang-mai/) para opciones en el centro histórico y barrios alternativos.
 
 ## Día 3: ¿Qué ver en el Bangkok moderno?
 
@@ -68,6 +68,6 @@ Hombros y rodillas cubiertos obligatorio. Llevar una bufanda o pareo ligero en l
 ---
 
 **Leer más:**
-- [Dónde alojarse en Lima: los mejores barrios para viajeros](/es/blog/donde-alojarse-lima)
-- [Perú: lo mejor del país en un solo viaje](/es/blog/peru-guia-viaje-highlights)
-- [Vietnam en 2 semanas: la ruta completa](/es/blog/vietnam-2-semanas-ruta)
+- [Dónde alojarse en Lima: los mejores barrios para viajeros](/es/blog/donde-alojarse-lima/)
+- [Perú: lo mejor del país en un solo viaje](/es/blog/peru-guia-viaje-highlights/)
+- [Vietnam en 2 semanas: la ruta completa](/es/blog/vietnam-2-semanas-ruta/)

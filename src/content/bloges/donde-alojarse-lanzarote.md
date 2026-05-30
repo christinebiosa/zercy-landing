@@ -59,7 +59,7 @@ La temporada alta es el invierno (noviembre a marzo), cuando los europeos del no
 
 Costa Teguise está en la costa este, al norte de Arrecife. El viento aquí es más fuerte y constante que en el resto de la isla. No es un defecto, es el punto de venta: Costa Teguise se ha posicionado como destino de deportes náuticos. Escuelas de windsurf, alquiler de kites, centros de buceo. El agua de la Playa de las Cucharas es poco profunda e ideal para principiantes en windsurf.
 
-Al mismo tiempo, Costa Teguise no es solo un resort deportivo. El pueblo tiene carácter, un centro agradable con influencias de César Manrique y buenos restaurantes. El aquapark está cerca. Los ciclistas aprecian el terreno llano para rutas largas. Su posición es conveniente para excursiones a Timanfaya o a la capital. Si planeas un viaje combinado, nuestra [guía de destinos de buceo](/es/blog/buceo-snorkel-destinos-2026) tiene información adicional sobre las aguas de Lanzarote.
+Al mismo tiempo, Costa Teguise no es solo un resort deportivo. El pueblo tiene carácter, un centro agradable con influencias de César Manrique y buenos restaurantes. El aquapark está cerca. Los ciclistas aprecian el terreno llano para rutas largas. Su posición es conveniente para excursiones a Timanfaya o a la capital. Si planeas un viaje combinado, nuestra [guía de destinos de buceo](/es/blog/buceo-snorkel-destinos-2026/) tiene información adicional sobre las aguas de Lanzarote.
 
 **Para quién encaja:** Windsurfistas, kitesurfistas, buceadores, familias con niños activos, ciclistas.
 
@@ -102,7 +102,7 @@ Los hoteles escasean aquí. Los que existen son de primer nivel. Sin turismo mas
 
 Reservar directamente solo vale la pena en algunos establecimientos boutique de Puerto Calero si quieres combinar con charter de yate. En todos los demás casos, Booking.com es la opción más fiable y normalmente más económica.
 
-Para comparar con otros destinos canarios, consulta nuestra [guía de Tenerife](/es/blog/donde-alojarse-tenerife) y el [resumen de dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona).
+Para comparar con otros destinos canarios, consulta nuestra [guía de Tenerife](/es/blog/donde-alojarse-tenerife/) y el [resumen de dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/).
 
 ---
 
@@ -129,6 +129,6 @@ Playa Blanca es la mejor opción para familias por sus playas tranquilas y la Pl
 ---
 
 **Más para leer:**
-- [Los mejores hoteles en Tenerife: 5 zonas](/es/blog/donde-alojarse-tenerife)
-- [Dónde alojarse en Marrakech](/es/blog/donde-alojarse-marrakech)
-- [Consejos para vuelos baratos 2026](/es/blog/consejos-vuelos-baratos)
+- [Los mejores hoteles en Tenerife: 5 zonas](/es/blog/donde-alojarse-tenerife/)
+- [Dónde alojarse en Marrakech](/es/blog/donde-alojarse-marrakech/)
+- [Consejos para vuelos baratos 2026](/es/blog/consejos-vuelos-baratos/)

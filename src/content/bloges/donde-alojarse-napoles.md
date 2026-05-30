@@ -47,7 +47,7 @@ Chiaia está al oeste del centro, a lo largo del paseo marítimo Lungomare Carac
 
 **Hoteles recomendados:** Hotel Palazzo Alabardieri (boutique elegante en una calle tranquila), Romeo Hotel (lujo de diseño con vistas al puerto), Eurostars Hotel Excelsior (vistas directas al mar, propiedad grande, buen desayuno).
 
-Nuestra [guía de Milán](/es/blog/donde-alojarse-milan) sigue la misma lógica: los barrios residenciales elegantes superan casi siempre a los hoteles del centro turístico.
+Nuestra [guía de Milán](/es/blog/donde-alojarse-milan/) sigue la misma lógica: los barrios residenciales elegantes superan casi siempre a los hoteles del centro turístico.
 
 ## ¿Cuándo es la mejor época para visitar Nápoles?
 
@@ -63,7 +63,7 @@ Vomero está en la colina sobre la ciudad, al que se accede en funicular. Desde 
 
 **Hoteles recomendados:** Hotel Paradiso (excelentes vistas panorámicas, atmósfera clásica), Grand Hotel Parker's (propiedad histórica con una de las mejores vistas de Nápoles), Hotel San Francesco al Monte (antiguo convento, terraza con vistas a la ciudad sin obstáculos).
 
-Para opciones similares de alojamiento alejado del centro, nuestra [guía de Lima](/es/blog/donde-alojarse-lima) tiene buenas alternativas en barrios residenciales tranquilos.
+Para opciones similares de alojamiento alejado del centro, nuestra [guía de Lima](/es/blog/donde-alojarse-lima/) tiene buenas alternativas en barrios residenciales tranquilos.
 
 ## Quartieri Spagnoli: Auténtico y económico
 
@@ -96,7 +96,7 @@ Para Nápoles, [Booking.com](https://www.booking.com) está muy bien surtido:
 
 Contactar directamente con boutique-hotels como el Hotel Piazza Bellini o el Hotel Palazzo Alabardieri puede valer la pena si buscas upgrades o extras especiales. Para una primera visita a Nápoles: Booking.com te da la mejor comparativa en el menor tiempo.
 
-Si planeas visitar Roma después de Nápoles, nuestra [guía de Roma](/es/blog/donde-alojarse-roma) te ayuda a encontrar el barrio ideal según tu presupuesto y estilo de viaje.
+Si planeas visitar Roma después de Nápoles, nuestra [guía de Roma](/es/blog/donde-alojarse-roma/) te ayuda a encontrar el barrio ideal según tu presupuesto y estilo de viaje.
 
 ---
 
@@ -123,6 +123,6 @@ Pompeya está a 35-40 minutos en tren Circumvesuviana desde la Estación Central
 ---
 
 **Más información:**
-- [Dónde alojarse en Roma: Los mejores barrios](/es/blog/donde-alojarse-roma)
-- [Dónde alojarse en Buenos Aires: Barrios y precios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Lima: Guía completa por barrios](/es/blog/donde-alojarse-lima)
+- [Dónde alojarse en Roma: Los mejores barrios](/es/blog/donde-alojarse-roma/)
+- [Dónde alojarse en Buenos Aires: Barrios y precios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Lima: Guía completa por barrios](/es/blog/donde-alojarse-lima/)

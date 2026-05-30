@@ -47,7 +47,7 @@ The official [Visit Brisbane](https://www.visitbrisbane.com.au) tourism site has
 
 **Top picks:** Ovolo The Valley (stylish boutique hotel with a real personality), The Calile Hotel (design hotel, instagrammable pool), Base Backpackers Brisbane (when budget is the deciding factor).
 
-If you're planning the east coast and need a Sydney comparison, our [Sydney neighborhood guide](/en/blog/where-to-stay-sydney) has the same structure.
+If you're planning the east coast and need a Sydney comparison, our [Sydney neighborhood guide](/en/blog/where-to-stay-sydney/) has the same structure.
 
 ## When Is the Best Time to Visit Brisbane?
 
@@ -73,7 +73,7 @@ Paddington sits west of the CBD on gentle hills. Characteristic Victorian Terrac
 
 **Top picks:** Paddington Boutique Hotel (classic Queenslander house, small and personal), Milton Apartments (good position near the river), Caxton Apartments (quiet, local character).
 
-For Melbourne as a second Australian stop, our [Melbourne neighborhood guide](/en/blog/where-to-stay-melbourne) is the right next read.
+For Melbourne as a second Australian stop, our [Melbourne neighborhood guide](/en/blog/where-to-stay-melbourne/) is the right next read.
 
 ## Kangaroo Point: Active Travelers and Families
 
@@ -96,7 +96,7 @@ For Brisbane, [Booking.com](https://www.booking.com) is the most reliable platfo
 
 Direct booking at boutique hotels in New Farm or Paddington can be worth it for longer stays. Small properties give loyal direct bookers extras more often than the big chains.
 
-For [cheap flights to Australia](/en/blog/cheap-flights-tips), look 3-6 months ahead.
+For [cheap flights to Australia](/en/blog/cheap-flights-tips/), look 3-6 months ahead.
 
 ---
 
@@ -123,6 +123,6 @@ June through August: comfortable temperatures between 20 and 25 degrees Celsius,
 ---
 
 **Read more:**
-- [Where to Stay in Sydney: The 5 Neighborhoods](/en/blog/where-to-stay-sydney)
-- [Where to Stay in Melbourne: The 5 Neighborhoods](/en/blog/where-to-stay-melbourne)
-- [Cheap Flights: Tips for the Best Price](/en/blog/cheap-flights-tips)
+- [Where to Stay in Sydney: The 5 Neighborhoods](/en/blog/where-to-stay-sydney/)
+- [Where to Stay in Melbourne: The 5 Neighborhoods](/en/blog/where-to-stay-melbourne/)
+- [Cheap Flights: Tips for the Best Price](/en/blog/cheap-flights-tips/)

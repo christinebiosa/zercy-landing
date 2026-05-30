@@ -61,7 +61,7 @@ Justo al sur del centro, calles planas con fachadas Art Nouveau al estilo de Vic
 
 **Mejores opciones:** Hotel Manos Premier (boutique en una mansión Art Deco), Le Berger Hotel (histórico, bien conectado), Pillows Grand Boutique Hotel Brussels.
 
-También te puede interesar nuestra guía de [Cracovia](/es/blog/donde-alojarse-cracovia), otra ciudad europea con arquitectura histórica excepcional.
+También te puede interesar nuestra guía de [Cracovia](/es/blog/donde-alojarse-cracovia/), otra ciudad europea con arquitectura histórica excepcional.
 
 ## Uccle: La Bruselas tranquila
 
@@ -94,7 +94,7 @@ Para Bruselas, [Booking.com](https://www.booking.com) es la plataforma más comp
 
 La reserva directa solo vale la pena en hoteles de lujo (Amigo, Hotel Brussels) si te interesa la posibilidad de una mejora de habitación.
 
-Lee también nuestra guía de [París](/es/blog/donde-alojarse-paris) y la de [Roma](/es/blog/donde-alojarse-roma) para otros destinos europeos con barrios igual de variados.
+Lee también nuestra guía de [París](/es/blog/donde-alojarse-paris/) y la de [Roma](/es/blog/donde-alojarse-roma/) para otros destinos europeos con barrios igual de variados.
 
 ---
 
@@ -121,6 +121,6 @@ Julio y agosto son cálidos pero abarrotados. Septiembre es mejor opción. Las s
 ---
 
 **Más artículos:**
-- [Dónde alojarse en París: Los 5 barrios](/es/blog/donde-alojarse-paris)
-- [Dónde alojarse en Roma: Los 5 barrios](/es/blog/donde-alojarse-roma)
-- [Dónde alojarse en Cracovia](/es/blog/donde-alojarse-cracovia)
+- [Dónde alojarse en París: Los 5 barrios](/es/blog/donde-alojarse-paris/)
+- [Dónde alojarse en Roma: Los 5 barrios](/es/blog/donde-alojarse-roma/)
+- [Dónde alojarse en Cracovia](/es/blog/donde-alojarse-cracovia/)

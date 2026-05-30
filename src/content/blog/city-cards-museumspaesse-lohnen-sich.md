@@ -40,7 +40,7 @@ Nicht alle Cards sind gleich gut. Ein realistischer Vergleich:
 
 **London Pass:** Teuer (2 Tage ab 109 Pfund) aber London-Hauptattraktionen wie Tower of London (33 Pfund), Kew Gardens (22 Pfund), Windsor Castle (27 Pfund) sind alle inklusive. Achtung: Tube ist NICHT inklusive, du brauchst zusätzlich eine Oyster Card. Lohnt sich nur bei sehr intensivem Sightseeing-Plan mit 5-6 kostenpflichtigen Attraktionen pro Tag.
 
-Lies auch unseren [Hotel-Upgrade-Tipps Guide](/blog/boutique-hotels), wenn du planst in der entsprechenden Stadt ein besseres Hotel zu buchen: manchmal lohnt es sich, das Kartenbudget umzuschichten.
+Lies auch unseren [Hotel-Upgrade-Tipps Guide](/blog/boutique-hotels/), wenn du planst in der entsprechenden Stadt ein besseres Hotel zu buchen: manchmal lohnt es sich, das Kartenbudget umzuschichten.
 
 ## Was ist normalerweise in einer City Card drin?
 
@@ -91,6 +91,6 @@ Die Prag Card bietet im Verhältnis zum Preis den besten Gegenwert: günstig, di
 ---
 
 **Mehr lesen:**
-- [Boutique Hotels: Was du wirklich bekommst](/blog/boutique-hotels)
-- [Hotel Upgrade kostenlos: So funktioniert es](/blog/airbnb-vs-hotel-vergleich)
-- [Clever Reisen: Booking.com Genius lohnt sich?](/blog/booking-vs-direkt-buchen)
+- [Boutique Hotels: Was du wirklich bekommst](/blog/boutique-hotels/)
+- [Hotel Upgrade kostenlos: So funktioniert es](/blog/airbnb-vs-hotel-vergleich/)
+- [Clever Reisen: Booking.com Genius lohnt sich?](/blog/booking-vs-direkt-buchen/)

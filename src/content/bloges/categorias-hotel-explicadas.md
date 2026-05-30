@@ -35,7 +35,7 @@ No para: parejas sin tolerancia al compromiso, personas que duermen con dificult
 
 **Precios:** 10-30 EUR por noche en dormitorio, habitaciones privadas 35-70 EUR.
 
-Lo mejor de los buenos hosteles: la comunidad. Muchos viajeros encuentran aquí compañeros para excursiones o recomendaciones de restaurantes que ninguna guía menciona. Nuestro [análisis de Airbnb vs. hotel](/es/blog/donde-alojarse-cancun) cubre el espectro más amplio de alojamientos.
+Lo mejor de los buenos hosteles: la comunidad. Muchos viajeros encuentran aquí compañeros para excursiones o recomendaciones de restaurantes que ninguna guía menciona. Nuestro [análisis de Airbnb vs. hotel](/es/blog/donde-alojarse-cancun/) cubre el espectro más amplio de alojamientos.
 
 ## ¿Qué es un guesthouse o B&B?
 
@@ -81,7 +81,7 @@ Para quién: nómadas digitales, viajeros solos que buscan conexiones, trabajado
 
 **Precios:** 130-280 EUR por noche.
 
-Muchos hoteles lifestyle permiten passes diarios de co-working incluso a no huéspedes. Un detalle práctico para quienes hacen [workation](/es/blog/donde-alojarse-bogota).
+Muchos hoteles lifestyle permiten passes diarios de co-working incluso a no huéspedes. Un detalle práctico para quienes hacen [workation](/es/blog/donde-alojarse-bogota/).
 
 ## ¿Qué entrega realmente un hotel de 5 estrellas?
 
@@ -138,6 +138,6 @@ El todo incluido significa que comidas, bebidas y generalmente snacks y activida
 ---
 
 **Más información:**
-- [Dónde alojarse en Cancún: Guía de zonas](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Miami: Los mejores barrios](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Buenos Aires: Guía de barrios](/es/blog/donde-alojarse-buenos-aires)
+- [Dónde alojarse en Cancún: Guía de zonas](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Miami: Los mejores barrios](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Buenos Aires: Guía de barrios](/es/blog/donde-alojarse-buenos-aires/)

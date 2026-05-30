@@ -36,7 +36,7 @@ Das ist die größte Preis-Hebel-Frage für Familien. Der Unterschied kann 40-60
 
 **Nebensaison:** Günstigere Flüge, ruhigere Reiseziele, aber manchmal schlechteres Wetter. Für Grundschuljahrgänge lohnt es sich zu prüfen ob ein Elternteil ein Schulversäumnis beantragen kann.
 
-Tipp: Wer früh bucht, spart. Gute Familienflüge zum Peak-Preis bucht man im Oktober für den nächsten Sommer. Mehr dazu im Artikel über [Wann Flüge buchen](/blog/wann-fluege-buchen).
+Tipp: Wer früh bucht, spart. Gute Familienflüge zum Peak-Preis bucht man im Oktober für den nächsten Sommer. Mehr dazu im Artikel über [Wann Flüge buchen](/blog/wann-fluege-buchen/).
 
 ## Fliegen mit Kindern: Was wirklich hilft
 
@@ -50,7 +50,7 @@ Der Flug ist für viele Eltern die größte Quelle von Stress. Dabei gibt es ein
 
 **Noise-Cancelling-Kopfhörer:** Für Kinder ab 3-4 Jahren, aber auch für die Eltern. Qualität bei Kinderkopfhörern variiert stark. Kopfhörer mit Lautstärkebegrenzung (85 dB) kaufen.
 
-**Schlaf-Strategie:** Abendflüge funktionieren für Kleinkinder oft besser als Tagesflüge, weil die Müdigkeit natürlich kommt. Für die erste Reise mit Baby empfehlen sich [Tipps speziell für erste Flüge](/blog/reisen-mit-baby-erste-fluege).
+**Schlaf-Strategie:** Abendflüge funktionieren für Kleinkinder oft besser als Tagesflüge, weil die Müdigkeit natürlich kommt. Für die erste Reise mit Baby empfehlen sich [Tipps speziell für erste Flüge](/blog/reisen-mit-baby-erste-fluege/).
 
 ## Hotel oder Ferienwohnung: Was ist besser für Familien?
 
@@ -62,7 +62,7 @@ Weitere Vorteile der Ferienwohnung: Mehr Platz. Separate Schlafzimmer. Waschmasc
 
 Airbnb funktioniert gut für Familien, aber auf Bewertungen mit Kindern-Kommentaren achten. Booking.com hat zunehmend mehr Ferienwohnungen im Angebot, oft mit besserer Stornierungspolitik.
 
-Für Städtetrips mit Kleinkindern ist ein Family-Room im Hotel aber manchmal pragmatischer als zwei Airbnb-Objekte. Der [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich) zeigt die Abwägung im Detail.
+Für Städtetrips mit Kleinkindern ist ein Family-Room im Hotel aber manchmal pragmatischer als zwei Airbnb-Objekte. Der [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich/) zeigt die Abwägung im Detail.
 
 ## Welche Packliste-Items wirklich zählen?
 
@@ -72,7 +72,7 @@ Keine vollständige Liste. Aber die sechs Dinge, die Familien am meisten vermiss
 2. **Erst-Hilfe-Set speziell für Kinder:** Mit Fiebersenker (Dosierung nach Gewicht), Elektrolytpulver, Pflaster, Antiseptikum.
 3. **Portable Weißgeräusch-Box:** Für Kleinkinder in Hotelzimmern. Schlafrhythmus halten wenn das Zimmer fremd ist.
 4. **Faltbarer Kinderwagen:** Kompakter als Standard-Buggy, geht als Handgepäck durch, funktioniert auf Kopfsteinpflaster besser als große Räder.
-5. **Digitale Krankenversicherungskarte + Reiseversicherung:** Immer dabei. Nie die Originaldokumente im Koffer. Was [Reiseversicherung wirklich leistet](/blog/reiseversicherung-was-lohnt-sich) und wann sie sich lohnt, erklärt der separate Artikel.
+5. **Digitale Krankenversicherungskarte + Reiseversicherung:** Immer dabei. Nie die Originaldokumente im Koffer. Was [Reiseversicherung wirklich leistet](/blog/reiseversicherung-was-lohnt-sich/) und wann sie sich lohnt, erklärt der separate Artikel.
 6. **Backup-Unterhaltung offline:** Apps und Hörbücher vor dem Flug herunterladen. In der Luft gibt es kein WLAN oder es ist unzuverlässig.
 
 ## Notfall-Plan: Was gehört vor jede Familienreise?
@@ -97,7 +97,7 @@ Portugal, Kroatien, Japan und Costa Rica gelten 2026 als die besten Familien-Rei
 
 ### Wie viele Koffer sollte eine Familie auf Reisen mitnehmen?
 
-Weniger als du denkst. Eine Faustregel: ein Rollkoffer pro Erwachsener, kein separater Koffer für Kleinkinder. Kinderkleidung passt gut in die Erwachsenen-Koffer. Je weniger Gepäckstücke, desto stressfreier am Flughafen. Wer [nur mit Handgepäck](/blog/nur-handgepaeck) reist, braucht deutlich weniger als gedacht.
+Weniger als du denkst. Eine Faustregel: ein Rollkoffer pro Erwachsener, kein separater Koffer für Kleinkinder. Kinderkleidung passt gut in die Erwachsenen-Koffer. Je weniger Gepäckstücke, desto stressfreier am Flughafen. Wer [nur mit Handgepäck](/blog/nur-handgepaeck/) reist, braucht deutlich weniger als gedacht.
 
 ### Wann ist der beste Zeitpunkt für Familien um günstig zu reisen?
 
@@ -110,6 +110,6 @@ Ruhig bleiben. Europäische Krankenversicherungskarte (EHIC) für EU-Reisen gilt
 ---
 
 **Mehr lesen:**
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Reisen mit Baby: Tipps für erste Flüge](/blog/reisen-mit-baby-erste-fluege)
-- [Günstig fliegen: Tipps und Tricks 2026](/blog/guenstig-fliegen-tipps)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Reisen mit Baby: Tipps für erste Flüge](/blog/reisen-mit-baby-erste-fluege/)
+- [Günstig fliegen: Tipps und Tricks 2026](/blog/guenstig-fliegen-tipps/)

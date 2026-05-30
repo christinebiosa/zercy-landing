@@ -72,6 +72,6 @@ Chile se sitúa entre los países más seguros de América Latina. Bajas tasas d
 ---
 
 **Leer más:**
-- [Patagonia: ruta de 3 semanas](/es/blog/patagonia-3-semanas-ruta)
-- [Argentina: Guía de viaje](/es/blog/argentina-guia-viaje-highlights)
-- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Patagonia: ruta de 3 semanas](/es/blog/patagonia-3-semanas-ruta/)
+- [Argentina: Guía de viaje](/es/blog/argentina-guia-viaje-highlights/)
+- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)

@@ -61,7 +61,7 @@ Juhu Beach ist Mumbais bekanntester öffentlicher Strand. 5 km Promenade, abends
 
 **Top-Picks:** JW Marriott Mumbai Juhu (direkt am Strand, Premium), Novotel Mumbai Juhu Beach (Mittelklasse, Strandlage), Sun-n-Sand Hotel (Klassiker, günstigere Option).
 
-Lies auch unseren Artikel über [Wo übernachten in Bangkok](/blog/wo-uebernachten-bangkok) für einen ähnlichen Städtevergleich zwischen zentralen und strandnahen Stadtteilen.
+Lies auch unseren Artikel über [Wo übernachten in Bangkok](/blog/wo-uebernachten-bangkok/) für einen ähnlichen Städtevergleich zwischen zentralen und strandnahen Stadtteilen.
 
 ## Lower Parel: Das Business-Viertel
 
@@ -83,7 +83,7 @@ Andheri liegt direkt am Chhatrapati Shivaji Maharaj International Airport. Wenig
 
 **Top-Picks:** Holiday Inn Mumbai International Airport (verlässlich, Transfer inklusive), The Orchid Hotel (Umwelt-zertifiziert, gutes Preis-Leistungs-Verhältnis), Hyatt Regency Mumbai (Premium-Airport-Option).
 
-Für den Vergleich mit einem ähnlichen Budget-vs-Luxus-Spektrum in Asien schau in unseren [Wo übernachten in Singapur](/blog/wo-uebernachten-singapur) Guide.
+Für den Vergleich mit einem ähnlichen Budget-vs-Luxus-Spektrum in Asien schau in unseren [Wo übernachten in Singapur](/blog/wo-uebernachten-singapur/) Guide.
 
 ## Wo solltest du am Ende buchen?
 
@@ -97,7 +97,7 @@ Für Mumbai ist [Booking.com](https://www.booking.com) die beste Plattform:
 
 Direktbuchung lohnt nur beim Taj Mahal Palace (legendäre Welcome-Drinks und Upgrade-Chance bei Direktkontakt).
 
-Vergleiche auch unseren [Wo übernachten in Seoul](/blog/wo-uebernachten-seoul) Guide für ähnliche Stadtgröße und Vielfalt.
+Vergleiche auch unseren [Wo übernachten in Seoul](/blog/wo-uebernachten-seoul/) Guide für ähnliche Stadtgröße und Vielfalt.
 
 ---
 
@@ -124,6 +124,6 @@ Taxi oder Ola/Uber kostet 400-600 Rupien (5-7 Euro) nach Andheri, 800-1.200 Rupi
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok)
-- [Wo übernachten in Singapur: Guide für alle Budgets](/blog/wo-uebernachten-singapur)
-- [Wo übernachten in Seoul: Stadtteile im Vergleich](/blog/wo-uebernachten-seoul)
+- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok/)
+- [Wo übernachten in Singapur: Guide für alle Budgets](/blog/wo-uebernachten-singapur/)
+- [Wo übernachten in Seoul: Stadtteile im Vergleich](/blog/wo-uebernachten-seoul/)

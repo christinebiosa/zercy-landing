@@ -16,7 +16,7 @@ This comparison focuses on European travelers in 2026. We look at three cards in
 
 Amex Platinum wins on lounge access, and it is not particularly close. The card includes a Priority Pass membership covering over 1,300 lounges across 140 countries, plus access to American Express Centurion Lounges at major airports. If you travel through hubs like London Heathrow, Frankfurt, or Dubai regularly, this benefit alone can justify a large portion of the annual fee.
 
-Chase Sapphire Preferred does not include Priority Pass by default. The higher-tier Chase Sapphire Reserve does, but that card is only available to US residents. Barclays Avios Plus gives you access to British Airways lounges on Avios redemption tickets, but no standalone lounge membership. For a broader view of how to access lounges without a business ticket, see our guide on [lounge access without a business ticket](/en/blog/lounge-access-without-business-ticket).
+Chase Sapphire Preferred does not include Priority Pass by default. The higher-tier Chase Sapphire Reserve does, but that card is only available to US residents. Barclays Avios Plus gives you access to British Airways lounges on Avios redemption tickets, but no standalone lounge membership. For a broader view of how to access lounges without a business ticket, see our guide on [lounge access without a business ticket](/en/blog/lounge-access-without-business-ticket/).
 
 ## When does the Amex Platinum justify its annual fee?
 
@@ -24,7 +24,7 @@ The Amex Platinum carries an annual fee of around 720 euros in Germany or 695 do
 
 The card includes annual travel credits (up to 200 dollars on select bookings), dining credits, hotel upgrades through the Fine Hotels + Resorts program, and comprehensive travel insurance. If you take two to three international trips per year, use airport lounges regularly, and actively use Fine Hotels bookings, you will recoup the fee. If you mostly travel domestically or once a year, the math rarely works.
 
-Amex Membership Rewards points are genuinely flexible. You can transfer them to Lufthansa Miles & More, British Airways Avios, Singapore KrisFlyer, and many others, usually at a 1:1 ratio. That flexibility is what separates Amex from more restrictive co-branded cards. For ways to upgrade without collecting miles traditionally, check out [business class without miles](/en/blog/business-class-without-miles).
+Amex Membership Rewards points are genuinely flexible. You can transfer them to Lufthansa Miles & More, British Airways Avios, Singapore KrisFlyer, and many others, usually at a 1:1 ratio. That flexibility is what separates Amex from more restrictive co-branded cards. For ways to upgrade without collecting miles traditionally, check out [business class without miles](/en/blog/business-class-without-miles/).
 
 ## What does the Barclays Avios Plus card actually deliver?
 
@@ -32,13 +32,13 @@ The Barclays Avios Plus is a UK-issued card with a 20 pounds monthly fee (240 po
 
 The Companion Voucher is the headline benefit. On a long-haul business class redemption, it can be worth well over 1,000 pounds. But it requires you to spend a minimum threshold to unlock it, currently around 10,000 pounds per year. For frequent UK-based travelers who fly British Airways or partner airlines regularly, this card offers strong value.
 
-The card also offers travel accident insurance and purchase protection, but no global lounge access on its own. If you want to understand how to stack hotel and flight loyalty to get more from each trip, our [airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison) gives you a framework for thinking about accommodation strategy alongside card benefits.
+The card also offers travel accident insurance and purchase protection, but no global lounge access on its own. If you want to understand how to stack hotel and flight loyalty to get more from each trip, our [airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) gives you a framework for thinking about accommodation strategy alongside card benefits.
 
 ## How does Chase Sapphire compare for European-based travelers?
 
 Chase Sapphire Preferred is worth mentioning because many European expats living in the US or dual residents carry it. The annual fee is 95 dollars, making it one of the most accessible premium travel cards. You earn 2x points on travel and dining, and the Ultimate Rewards points transfer to United, Hyatt, Southwest, and a range of other partners.
 
-For pure Europe-focused travel, it is less optimized than Avios or Amex. But for transatlantic travelers with US bank accounts, it remains a strong first card to pair with a Europe-based option. The [carry-on only](/en/blog/carry-on-only) mindset pairs well with points travel: fewer checked bags means more flexibility on reward tickets.
+For pure Europe-focused travel, it is less optimized than Avios or Amex. But for transatlantic travelers with US bank accounts, it remains a strong first card to pair with a Europe-based option. The [carry-on only](/en/blog/carry-on-only/) mindset pairs well with points travel: fewer checked bags means more flexibility on reward tickets.
 
 Before your next trip, figure out which card you will use, which lounge you can access, and what your points balance looks like. Save your picks in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything ready when booking.
 
@@ -65,6 +65,6 @@ British Airways rewards are priced by distance zone. A long-haul business class 
 ---
 
 **Read more:**
-- [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket)
-- [Business Class Without Miles: How It Works](/en/blog/business-class-without-miles)
-- [Carry-On Only: The Complete Packing Guide](/en/blog/carry-on-only)
+- [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket/)
+- [Business Class Without Miles: How It Works](/en/blog/business-class-without-miles/)
+- [Carry-On Only: The Complete Packing Guide](/en/blog/carry-on-only/)

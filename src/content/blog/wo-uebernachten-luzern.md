@@ -71,7 +71,7 @@ Tribschen liegt östlich der Altstadt, am Ostufer der Reuss-Mündung in den See.
 
 Luzern ist teuer. Das ist Schweiz. Mit [Booking.com](https://www.booking.com) bekommst du Preisvergleiche über alle Kategorien und guten Zugang zu kostenlosen Stornierungen, was in der Schweiz wichtig ist da Wetterausweichen zum Standard-Reiseplan gehört.
 
-Lies auch unseren [Schweiz-Reise-Guide](/blog/schweiz-reise-highlights-guide) für Aktivitäten und Sehenswürdigkeiten. Und [Wo übernachten in Zürich](/blog/wo-uebernachten-zuerich) für die Schweizer Metropole.
+Lies auch unseren [Schweiz-Reise-Guide](/blog/schweiz-reise-highlights-guide/) für Aktivitäten und Sehenswürdigkeiten. Und [Wo übernachten in Zürich](/blog/wo-uebernachten-zuerich/) für die Schweizer Metropole.
 
 ---
 
@@ -99,6 +99,6 @@ Per Bahn über Brienz ca. 2 Stunden. Per Panoramazug (Golden Pass Panoramic) üb
 
 ## Mehr lesen
 
-- [Schweiz Reise Highlights: Der ultimative Guide](/blog/schweiz-reise-highlights-guide)
-- [Wo übernachten in Zürich: Stadtteile und Hotels](/blog/wo-uebernachten-zuerich)
-- [Beste Frühlingsziele in Europa](/blog/beste-fruehlingsziele-europa)
+- [Schweiz Reise Highlights: Der ultimative Guide](/blog/schweiz-reise-highlights-guide/)
+- [Wo übernachten in Zürich: Stadtteile und Hotels](/blog/wo-uebernachten-zuerich/)
+- [Beste Frühlingsziele in Europa](/blog/beste-fruehlingsziele-europa/)

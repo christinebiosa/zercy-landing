@@ -56,7 +56,7 @@ Hoteles en Malasaña: de 90 a 180 euros. Mejor relación calidad-precio que Sol.
 - **Only YOU Boutique Hotel** (Malasaña, diseño, muy valorado, aprox. 160 €)
 - **Hotel Óscar** (Chueca, moderno, buena ubicación, aprox. 120 €)
 
-Para otras ciudades del sur de Europa, consulta también [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona) y [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa).
+Para otras ciudades del sur de Europa, consulta también [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/) y [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa/).
 
 ## Salamanca: Para lujo y tranquilidad
 
@@ -101,6 +101,6 @@ Sí, Madrid es generalmente segura. Los carteristas están activos en zonas muy 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Lisboa: Alfama, Chiado o Príncipe Real](/es/blog/donde-alojarse-lisboa)
-- [Dónde alojarse en Sevilla: Santa Cruz o Triana](/es/blog/donde-alojarse-sevilla)
+- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Lisboa: Alfama, Chiado o Príncipe Real](/es/blog/donde-alojarse-lisboa/)
+- [Dónde alojarse en Sevilla: Santa Cruz o Triana](/es/blog/donde-alojarse-sevilla/)

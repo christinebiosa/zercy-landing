@@ -33,7 +33,7 @@ En el extremo más accesible: el Bernina Express. Va de Chur o Davos hasta Tiran
 
 El Glacier Express une Zermatt y St. Moritz. Ocho horas, 91 túneles, 291 puentes. Tampoco es servicio completo, pero es una de las rutas de tren más bellas del mundo.
 
-Para saber cuándo el tren gana al avión en Europa, lee nuestro artículo sobre [tren vs. avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026).
+Para saber cuándo el tren gana al avión en Europa, lee nuestro artículo sobre [tren vs. avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026/).
 
 ## ¿Con Cuánta Antelación Tienes Que Reservar?
 
@@ -47,7 +47,7 @@ Una referencia orientativa:
 
 La flexibilidad ayuda. Hay cancelaciones. Pero no cuentes con la cabina de tus sueños si reservas en el último momento.
 
-Si estás pensando en combinar el tren de lujo con vuelos en business class, nuestro artículo sobre [business class sin millas](/es/blog/business-class-sin-millas) explica cómo hacerlo sin acumular puntos.
+Si estás pensando en combinar el tren de lujo con vuelos en business class, nuestro artículo sobre [business class sin millas](/es/blog/business-class-sin-millas/) explica cómo hacerlo sin acumular puntos.
 
 ## ¿Es un Tren de Lujo una Buena Opción para la Luna de Miel?
 
@@ -57,7 +57,7 @@ Un tren de lujo tiene todo lo que una luna de miel necesita: privacidad, romanti
 
 El VSOE tiene una ruta especial para bodas. El Transcantábrico es ideal para parejas que quieren recorrer el norte de España sin alquilar un coche. El Rocky Mountaineer encaja perfectamente si Canadá está en tu lista.
 
-Para planificar tu luna de miel desde cero, consulta nuestra [guía de viaje de novios](/es/blog/viaje-novios-luna-miel-guia).
+Para planificar tu luna de miel desde cero, consulta nuestra [guía de viaje de novios](/es/blog/viaje-novios-luna-miel-guia/).
 
 ## FAQ: Viajes en Tren de Lujo
 
@@ -71,7 +71,7 @@ Para rutas del VSOE y el Transcantábrico en temporada alta: de 6 a 12 meses. Pa
 
 ### ¿Cuál es la diferencia entre un tren de lujo y un tren nocturno normal?
 
-Un [tren nocturno en Europa 2026](/es/blog/trenes-nocturnos-europa-2026) te lleva de un punto a otro con una cama para dormir. Un tren de lujo es un producto de experiencia: gastronomía cuidada, vagones históricos, servicio en mesa, atmósfera. La diferencia de precio puede ser de 10 a 50 veces.
+Un [tren nocturno en Europa 2026](/es/blog/trenes-nocturnos-europa-2026/) te lleva de un punto a otro con una cama para dormir. Un tren de lujo es un producto de experiencia: gastronomía cuidada, vagones históricos, servicio en mesa, atmósfera. La diferencia de precio puede ser de 10 a 50 veces.
 
 ### ¿A dónde va el Venice Simplon Orient Express?
 
@@ -84,7 +84,7 @@ Zercy te ayuda a planificar tu próximo viaje. Escribe tu destino y Zercy busca 
 ---
 
 **Seguir leyendo:**
-- [Trenes Nocturnos en Europa 2026: La Guía Completa](/es/blog/trenes-nocturnos-europa-2026)
-- [Tren vs. Avión en Europa: ¿Qué Vale Realmente la Pena?](/es/blog/tren-vs-avion-europa-2026)
-- [Business Class Sin Millas: Cómo Conseguirla](/es/blog/business-class-sin-millas)
-- [Guía de Luna de Miel: Cómo Planificar el Viaje Perfecto](/es/blog/viaje-novios-luna-miel-guia)
+- [Trenes Nocturnos en Europa 2026: La Guía Completa](/es/blog/trenes-nocturnos-europa-2026/)
+- [Tren vs. Avión en Europa: ¿Qué Vale Realmente la Pena?](/es/blog/tren-vs-avion-europa-2026/)
+- [Business Class Sin Millas: Cómo Conseguirla](/es/blog/business-class-sin-millas/)
+- [Guía de Luna de Miel: Cómo Planificar el Viaje Perfecto](/es/blog/viaje-novios-luna-miel-guia/)

@@ -49,7 +49,7 @@ Güemes borders Nueva Córdoba and the boundary between them is fluid.
 
 **Top picks:** Brüder Hotel Boutique (boutique in Nueva Córdoba, very popular), Howard Johnson Córdoba (solid mid-range, good location), various Airbnb apartments in Nueva Córdoba.
 
-Our [Argentina travel guide](/en/blog/argentina-travel-guide-highlights) gives a full overview of Buenos Aires, Patagonia, and more.
+Our [Argentina travel guide](/en/blog/argentina-travel-guide-highlights/) gives a full overview of Buenos Aires, Patagonia, and more.
 
 ## When Is the Best Time to Visit Córdoba?
 
@@ -105,6 +105,6 @@ June to August (winter months in the southern hemisphere) are cheapest with less
 ---
 
 ## Read more
-- [Where to Stay in Buenos Aires: Best Neighborhoods](/en/blog/where-to-stay-buenos-aires)
-- [Argentina Travel Guide: Best Highlights](/en/blog/argentina-travel-guide-highlights)
-- [Patagonia 3 Weeks: The Perfect Route](/en/blog/patagonia-3-weeks-route)
+- [Where to Stay in Buenos Aires: Best Neighborhoods](/en/blog/where-to-stay-buenos-aires/)
+- [Argentina Travel Guide: Best Highlights](/en/blog/argentina-travel-guide-highlights/)
+- [Patagonia 3 Weeks: The Perfect Route](/en/blog/patagonia-3-weeks-route/)

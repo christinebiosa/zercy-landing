@@ -38,7 +38,7 @@ Wenn Barrierefreiheit wichtig ist. Professionelle Touren auf GetYourGuide oder V
 
 Wenn du ein sehr beliebtes Erlebnis willst, z.B. eine Führung durch das Kolosseum oder den Eiffelturm, ist die Wahrscheinlichkeit hoch, dass du bei etablierten Anbietern die bessere Logistik bekommst.
 
-Für Unterkunft-Vergleiche ist unser Artikel zu [Airbnb vs. Hotel](/blog/airbnb-vs-hotel-vergleich) hilfreich. Und wenn du planst, wo du schläfst, schau auch in unsere Guides zu [Wo übernachten in Barcelona](/blog/wo-uebernachten-barcelona) oder [Wo übernachten in Rom](/blog/wo-uebernachten-rom).
+Für Unterkunft-Vergleiche ist unser Artikel zu [Airbnb vs. Hotel](/blog/airbnb-vs-hotel-vergleich/) hilfreich. Und wenn du planst, wo du schläfst, schau auch in unsere Guides zu [Wo übernachten in Barcelona](/blog/wo-uebernachten-barcelona/) oder [Wo übernachten in Rom](/blog/wo-uebernachten-rom/).
 
 ## Wie erkenne ich eine gute Experience?
 
@@ -76,6 +76,6 @@ Direkt auf der Airbnb-Website oder App unter dem Reiter "Experiences". Filtere n
 
 Mehr lesen:
 
-- [Airbnb vs. Hotel: Was ist günstiger?](/blog/airbnb-vs-hotel-vergleich)
-- [Wo übernachten in Barcelona](/blog/wo-uebernachten-barcelona)
-- [Booking.com vs. Direkt buchen](/blog/booking-vs-direkt-buchen)
+- [Airbnb vs. Hotel: Was ist günstiger?](/blog/airbnb-vs-hotel-vergleich/)
+- [Wo übernachten in Barcelona](/blog/wo-uebernachten-barcelona/)
+- [Booking.com vs. Direkt buchen](/blog/booking-vs-direkt-buchen/)

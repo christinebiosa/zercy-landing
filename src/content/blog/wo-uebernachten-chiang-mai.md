@@ -57,7 +57,7 @@ Das Riverside-Viertel liegt östlich der Altstadt, entlang des Ping-Flusses. Hie
 - **Ping Nakara Boutique Hotel:** Koloniales Herrenhaus aus dem frühen 20. Jahrhundert, 19 Zimmer, persönliche Atmosphäre.
 - **Le Méridien Chiang Mai:** Modernes Stadthotel nahe Riverside, großer Pool. Für Komfort-Ansprüche.
 
-Wer Chiang Mai mit Bangkok kombiniert, schaut sich unseren Artikel zu [Bangkok-Vierteln](/blog/wo-uebernachten-bangkok) an.
+Wer Chiang Mai mit Bangkok kombiniert, schaut sich unseren Artikel zu [Bangkok-Vierteln](/blog/wo-uebernachten-bangkok/) an.
 
 ## Santitham: Lokal und günstig
 
@@ -104,6 +104,6 @@ Chiang Mai verbindet Tempelkultur, exzellente Küche und Berglandschaft. Die Sta
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bangkok: Die besten Viertel](/blog/wo-uebernachten-bangkok)
-- [Wo übernachten in Bali: Ubud, Seminyak und mehr](/blog/wo-uebernachten-bali)
-- [Tokyo Foodie Trip: Essen wie ein Einheimischer](/blog/tokio-foodie-reise)
+- [Wo übernachten in Bangkok: Die besten Viertel](/blog/wo-uebernachten-bangkok/)
+- [Wo übernachten in Bali: Ubud, Seminyak und mehr](/blog/wo-uebernachten-bali/)
+- [Tokyo Foodie Trip: Essen wie ein Einheimischer](/blog/tokio-foodie-reise/)

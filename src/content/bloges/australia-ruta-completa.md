@@ -85,6 +85,6 @@ Mínimo 3 semanas. Cuatro o cinco semanas es mucho mejor para ver varias regione
 Con 3–5 meses de antelación. El verano austral (diciembre a febrero) es temporada alta y más caro. Viajar en invierno austral (junio a agosto) suele tener mejores precios — y el tiempo en Sídney y Melbourne es muy agradable.
 
 ## Más artículos
-- [Lista de equipaje para viajes: lo que realmente necesitas](/es/blog/lista-equipaje-viaje-esencial)
-- [Japón 3 semanas: la ruta de Tokio a Kyushu](/es/blog/japon-3-semanas-ruta)
-- [India guía de viaje: highlights y consejos](/es/blog/india-guia-viaje-highlights)
+- [Lista de equipaje para viajes: lo que realmente necesitas](/es/blog/lista-equipaje-viaje-esencial/)
+- [Japón 3 semanas: la ruta de Tokio a Kyushu](/es/blog/japon-3-semanas-ruta/)
+- [India guía de viaje: highlights y consejos](/es/blog/india-guia-viaje-highlights/)

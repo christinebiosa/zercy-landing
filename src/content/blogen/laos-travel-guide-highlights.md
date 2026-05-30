@@ -69,6 +69,6 @@ Khao niaw (steamed sticky rice) is the base of every meal. Larb is a minced meat
 
 ## Read More
 
-- [Cambodia Travel Guide: Angkor Wat and the Country's Highlights](/en/blog/cambodia-travel-guide-highlights)
-- [Vietnam 2-Week Route: From Hanoi to Ho Chi Minh City](/en/blog/vietnam-2-week-route)
-- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel)
+- [Cambodia Travel Guide: Angkor Wat and the Country's Highlights](/en/blog/cambodia-travel-guide-highlights/)
+- [Vietnam 2-Week Route: From Hanoi to Ho Chi Minh City](/en/blog/vietnam-2-week-route/)
+- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel/)

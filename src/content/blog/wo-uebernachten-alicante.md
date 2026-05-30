@@ -122,6 +122,6 @@ Valencia liegt 170 km nördlich: ca. 1,5 Stunden mit dem Auto, knapp 2 Stunden m
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Valencia: Das beste Viertel für deinen Besuch](/blog/wo-uebernachten-valencia)
-- [Wo übernachten in Palma de Mallorca: Altstadt oder Strandhotels?](/blog/wo-uebernachten-palma-de-mallorca)
-- [Wo übernachten in Barcelona: Gothic Quarter oder Eixample?](/blog/wo-uebernachten-barcelona)
+- [Wo übernachten in Valencia: Das beste Viertel für deinen Besuch](/blog/wo-uebernachten-valencia/)
+- [Wo übernachten in Palma de Mallorca: Altstadt oder Strandhotels?](/blog/wo-uebernachten-palma-de-mallorca/)
+- [Wo übernachten in Barcelona: Gothic Quarter oder Eixample?](/blog/wo-uebernachten-barcelona/)

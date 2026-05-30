@@ -60,7 +60,7 @@ Preise in Üçhisar liegen 20 bis 30 Prozent über Göreme-Durchschnitt. Boutiqu
 - **Argos in Cappadocia** (Luxus, historischer Weinkeller, Infinity-Pool, ab ca. 350 Euro)
 - **Anatolian Houses** (Boutique, Terrasse mit Burgenblick, ab ca. 170 Euro)
 
-Für weitere türkische Reiseplanung lohnt sich der [Türkei Roadtrip Guide](/blog/tuerkei-roadtrip-highlights) mit Streckenempfehlungen und Zeitplänen.
+Für weitere türkische Reiseplanung lohnt sich der [Türkei Roadtrip Guide](/blog/tuerkei-roadtrip-highlights/) mit Streckenempfehlungen und Zeitplänen.
 
 ## Avanos: Töpferkunst und Flussblick
 
@@ -70,7 +70,7 @@ Als Basis für Kappadokien ist Avanos etwas weniger praktisch als Göreme, weil 
 
 Hotels in Avanos kosten 20 bis 40 Prozent weniger als vergleichbare Unterkünfte in Göreme. Gute Boutique-Hotels ab 80 Euro, Familienbetriebe ab 55 Euro.
 
-Wer mit Mietwagen reist, hat hier einen klaren Vorteil: die Täler sind gut erreichbar, und Avanos selbst ist ein schöner Ausgangspunkt für spontane Stopps. Hinweise zum Mietwagenbuchen findest du im [Reiseversicherung-Guide](/blog/reiseversicherung-was-lohnt-sich).
+Wer mit Mietwagen reist, hat hier einen klaren Vorteil: die Täler sind gut erreichbar, und Avanos selbst ist ein schöner Ausgangspunkt für spontane Stopps. Hinweise zum Mietwagenbuchen findest du im [Reiseversicherung-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 ## Ortahisar: Der Geheimtipp im Felsdorf
 
@@ -86,7 +86,7 @@ Für die meisten Kappadokien-Reisenden lautet die Empfehlung: Göreme für Erstb
 
 Booking.com hat die breiteste Auswahl an Kappadokien-Unterkünften, inklusive echter Höhlenhotels, die auf anderen Plattformen weniger gut gefiltert werden. Filter "Cave" im Unterkunftstyp, Bewertungen ab 8,0 empfohlen. Die Qualitätsunterschiede zwischen Häusern mit 7 und 9 Punkten sind in Kappadokien oft groß.
 
-[Außergewöhnliche Unterkünfte](/blog/boutique-hotels) sind in Kappadokien keine Ausnahme, sondern die Regel. Ein Höhlenhotel buchen ist hier nicht Extrahotel, sondern die lokale Art zu übernachten.
+[Außergewöhnliche Unterkünfte](/blog/boutique-hotels/) sind in Kappadokien keine Ausnahme, sondern die Regel. Ein Höhlenhotel buchen ist hier nicht Extrahotel, sondern die lokale Art zu übernachten.
 
 ---
 
@@ -115,6 +115,6 @@ Der nächste Flughafen ist Kayseri (ASR), etwa 70 Kilometer entfernt. Nevsehir-F
 ---
 
 **Mehr lesen:**
-- [Türkei Roadtrip: Die besten Highlights](/blog/tuerkei-roadtrip-highlights)
-- [Außergewöhnliche Unterkünfte: So findest du die besten](/blog/boutique-hotels)
-- [Reiseversicherung 2026: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Türkei Roadtrip: Die besten Highlights](/blog/tuerkei-roadtrip-highlights/)
+- [Außergewöhnliche Unterkünfte: So findest du die besten](/blog/boutique-hotels/)
+- [Reiseversicherung 2026: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

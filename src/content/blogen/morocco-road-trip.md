@@ -32,7 +32,7 @@ Book with a well-known international provider or a reliable local company that i
 
 Cross-border driving is possible but your rental contract must explicitly allow it. For a Morocco-only trip this is irrelevant. Fill up whenever you see a petrol station. Between Merzouga and the next sizeable town, there can be 150 kilometers of empty road.
 
-For more on renting cars abroad, our [rental car checklist](/en/blog/rental-car-checklist) covers what to watch for when booking. For accommodation in Marrakech and beyond, our [Morocco riads guide](/en/blog/morocco-riads-guide) is worth reading before you book. If you are thinking about the environmental footprint of a long-haul flight, our article on [flight carbon offsets](/en/blog/flight-carbon-offsets-truth) gives an honest assessment.
+For more on renting cars abroad, our [rental car checklist](/en/blog/rental-car-checklist/) covers what to watch for when booking. For accommodation in Marrakech and beyond, our [Morocco riads guide](/en/blog/morocco-riads-guide/) is worth reading before you book. If you are thinking about the environmental footprint of a long-haul flight, our article on [flight carbon offsets](/en/blog/flight-carbon-offsets-truth/) gives an honest assessment.
 
 The official [Visit Morocco](https://www.visitmorocco.com) website has up-to-date entry requirements, regional guides, and information on current travel conditions.
 
@@ -69,6 +69,6 @@ In smaller towns like Merzouga, Tinghir, and along the Draa Valley, family-run g
 ---
 
 **Read more:**
-- [Morocco Riads Guide: The Best Places to Stay](/en/blog/morocco-riads-guide)
-- [Rental Car Checklist: What to Know Before You Book](/en/blog/rental-car-checklist)
-- [Solo Travel: The Safest Countries for Women Traveling Alone](/en/blog/solo-travel-women-safe-countries)
+- [Morocco Riads Guide: The Best Places to Stay](/en/blog/morocco-riads-guide/)
+- [Rental Car Checklist: What to Know Before You Book](/en/blog/rental-car-checklist/)
+- [Solo Travel: The Safest Countries for Women Traveling Alone](/en/blog/solo-travel-women-safe-countries/)

@@ -46,7 +46,7 @@ Die Route hat Dutzende ikonischer Orte. Aber einige stechen heraus.
 
 **Santa Monica Pier (Kalifornien):** Das Ende. Das offizielle Route-66-Endschild hängt am Pier. Hier steigt man aus dem Auto und geht an den Strand. Besser kann ein Roadtrip nicht enden.
 
-Wer den Roadtrip plant, findet im [Roadtrip Etappenplanung Guide](/blog/roadtrip-etappen-planung) konkrete Tipps zur Tageskilometer-Planung und Pausen-Logik.
+Wer den Roadtrip plant, findet im [Roadtrip Etappenplanung Guide](/blog/roadtrip-etappen-planung/) konkrete Tipps zur Tageskilometer-Planung und Pausen-Logik.
 
 ## Wann ist die beste Reisezeit für die Route 66?
 
@@ -66,7 +66,7 @@ April bis Oktober ist das Fenster. Aber nicht jeder Monat ist gleich.
 
 Budget ist variabel, aber hier sind realistische Zahlen für zwei Personen, 14 Tage:
 
-**Mietwagen:** 600-1.200 USD (Standard Automatic, Vollkasko). Frühbuchen spart. Konsolidatoren wie Autoslash oder Rentalcars.com vergleichen Preise über mehrere Anbieter. Mehr dazu im [Mietwagen Guide](/blog/mietwagen-check).
+**Mietwagen:** 600-1.200 USD (Standard Automatic, Vollkasko). Frühbuchen spart. Konsolidatoren wie Autoslash oder Rentalcars.com vergleichen Preise über mehrere Anbieter. Mehr dazu im [Mietwagen Guide](/blog/mietwagen-check/).
 
 **Kraftstoff:** 300-500 USD bei einem sparsamen Fahrzeug. USA-Preise schwanken stark nach Region. Oklahoma und Texas sind billiger als Kalifornien.
 
@@ -78,7 +78,7 @@ Budget ist variabel, aber hier sind realistische Zahlen für zwei Personen, 14 T
 
 **Gesamt für 2 Personen, 14 Tage:** 2.500-4.500 USD je nach Komfort.
 
-Ein [Amerika-Trip-Kombipaket](/blog/guenstig-fliegen-tipps) mit günstigem Hinflug nach Chicago und Rückflug von LA reduziert die Gesamtkosten oft erheblich.
+Ein [Amerika-Trip-Kombipaket](/blog/guenstig-fliegen-tipps/) mit günstigem Hinflug nach Chicago und Rückflug von LA reduziert die Gesamtkosten oft erheblich.
 
 ## Was für ein Fahrzeug ist das Richtige?
 
@@ -92,11 +92,11 @@ Kein Sportwagen. Kein kleiner Stadtflitzer. Der Route-66-Roadtrip braucht:
 
 **Lokale Mietwagen-Angebote:** One-Way-Miete von Chicago nach LA ist oft teurer. Rundum-Miete in Chicago und Rückflug von LA ist meistens günstiger.
 
-Ein wichtiger Hinweis zu versteckten Kosten: [Mietwagen-versteckte-Kosten](/blog/mietwagen-versteckte-kosten-vermeiden) erklärt, welche Zusatzoptionen sich wirklich lohnen (Vollkasko ja, Zusatz-GPS nein, Handy-Halterung günstiger kaufen).
+Ein wichtiger Hinweis zu versteckten Kosten: [Mietwagen-versteckte-Kosten](/blog/mietwagen-versteckte-kosten-vermeiden/) erklärt, welche Zusatzoptionen sich wirklich lohnen (Vollkasko ja, Zusatz-GPS nein, Handy-Halterung günstiger kaufen).
 
 ---
 
-Wer den Texas-Abschnitt verlängern und Austin als eigenen Stopp einplanen will: Die Stadt liegt knapp südlich der Route-66-Strecke und lässt sich gut als Abstecher kombinieren. Musik, BBQ, South Congress und ein lebendiges Ausgehviertel. Wo du dort am besten übernachtest, zeigt der [Austin Hotelguide](/blog/wo-uebernachten-austin).
+Wer den Texas-Abschnitt verlängern und Austin als eigenen Stopp einplanen will: Die Stadt liegt knapp südlich der Route-66-Strecke und lässt sich gut als Abstecher kombinieren. Musik, BBQ, South Congress und ein lebendiges Ausgehviertel. Wo du dort am besten übernachtest, zeigt der [Austin Hotelguide](/blog/wo-uebernachten-austin/).
 
 Sag Zercy, von wo du nach Chicago fliegen möchtest, wann du losfahren willst und wie viel Zeit du hast. Du bekommst Flugoptionen für Chicago plus einen Überblick über Mietwagen-Typen für den Roadtrip. Speichere die Planung im [Zercy Logbook](https://www.zercy.app/logbook), damit du alle Teile des Trips an einem Ort hast.
 
@@ -121,6 +121,6 @@ Die Route 66 App (offiziell von EZ Route 66) zeigt alle historischen Stopps, Seh
 ---
 
 **Mehr lesen:**
-- [Mietwagen-Check: Worauf du achten musst](/blog/mietwagen-check)
-- [Mietwagen: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden)
-- [Roadtrip Etappenplanung: So berechnest du deine Tagesetappen](/blog/roadtrip-etappen-planung)
+- [Mietwagen-Check: Worauf du achten musst](/blog/mietwagen-check/)
+- [Mietwagen: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden/)
+- [Roadtrip Etappenplanung: So berechnest du deine Tagesetappen](/blog/roadtrip-etappen-planung/)

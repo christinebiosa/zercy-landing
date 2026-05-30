@@ -65,7 +65,7 @@ Essen: Hell's Kitchen, westlich von Times Square. Das ist das Viertel mit der be
 
 Hotels in Manhattan sind teuer. 150 bis 300 Dollar pro Nacht für ein vernünftiges Zimmer in Midtown sind normal. Günstiger wird es in Midtown West (Hell's Kitchen) und in Brooklyn, vor allem in Williamsburg und Downtown Brooklyn.
 
-Brooklyn hat den Vorteil: entspannter, etwas billiger, und mit der Subway in 20 Minuten in Midtown. Wer das erste Mal in NYC ist und das klassische Manhattan-Gefühl will, wählt ein Hotel auf der Island. Alles andere ist eine gute Alternative. Unseren ausführlichen Guide zu [Unterkunft in New York](/blog/wo-uebernachten-new-york) liest du hier.
+Brooklyn hat den Vorteil: entspannter, etwas billiger, und mit der Subway in 20 Minuten in Midtown. Wer das erste Mal in NYC ist und das klassische Manhattan-Gefühl will, wählt ein Hotel auf der Island. Alles andere ist eine gute Alternative. Unseren ausführlichen Guide zu [Unterkunft in New York](/blog/wo-uebernachten-new-york/) liest du hier.
 
 Für Preisvergleiche zwischen Brooklyn und Midtown lohnt sich Booking.com mit dem Stadtteils-Filter.
 
@@ -81,7 +81,7 @@ Für Preisvergleiche zwischen Brooklyn und Midtown lohnt sich Booking.com mit de
 
 Die großen Kostenfallen: Uber tagsüber in Manhattan (Stau, teuer, dauert länger als die Subway), One World Observatory (40 Dollar für 30 Minuten, die Top of the Rock oder Summit One Vanderbilt bieten vergleichbare Aussichten zu fairerem Preis) und die Staten Island Ferry als Sehenswürdigkeit anreisen zu wollen, wenn man nur zwei Tage hat. Die Freiheitsstatue braucht einen halben Tag.
 
-Mehr Spartipps fürs Fliegen findest du in unserem [Airport Hacks Guide](/blog/airport-hacks) und in unserem Artikel über [Google Flights Tricks für 2026](/blog/google-flights-tricks-tipps-2026).
+Mehr Spartipps fürs Fliegen findest du in unserem [Airport Hacks Guide](/blog/airport-hacks/) und in unserem Artikel über [Google Flights Tricks für 2026](/blog/google-flights-tricks-tipps-2026/).
 
 ## Wann ist New York am besten für ein Kurzwochenende?
 
@@ -91,7 +91,7 @@ Juli und August: heiß und feucht. Das Stadtleben funktioniert noch gut, aber di
 
 Winter: unbedingt eine Option. Dezember mit Weihnachtslichtern ist touristisch, aber beeindruckend. Januar und Februar sind die günstigsten Monate für Flüge und Hotels. Kalt, aber New York im Schnee hat seinen eigenen Charakter.
 
-Wer günstiger fliegen will: Unsere [Tipps für Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket) sparen dir besonders auf langen Nordatlantikflügen Nerven.
+Wer günstiger fliegen will: Unsere [Tipps für Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket/) sparen dir besonders auf langen Nordatlantikflügen Nerven.
 
 ---
 
@@ -120,6 +120,6 @@ Die Subway fährt 24 Stunden täglich, 7 Tage die Woche. Eine Einzelfahrt kostet
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in New York: die besten Stadtteile nach Budget](/blog/wo-uebernachten-new-york)
-- [Airport Hacks: Tipps für entspanntere Flughafentransfers](/blog/airport-hacks)
-- [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026)
+- [Wo übernachten in New York: die besten Stadtteile nach Budget](/blog/wo-uebernachten-new-york/)
+- [Airport Hacks: Tipps für entspanntere Flughafentransfers](/blog/airport-hacks/)
+- [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026/)

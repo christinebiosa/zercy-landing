@@ -77,6 +77,6 @@ En islas pequeñas (El Nido, Siargao) el efectivo es indispensable: pocos termin
 
 ## Más artículos
 
-- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico)
-- [Lista de equipaje de viaje: Lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial)
-- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico/)
+- [Lista de equipaje de viaje: Lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial/)
+- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

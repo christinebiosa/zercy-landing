@@ -56,7 +56,7 @@ Pick up in Munich, return in Hamburg? Costs extra. Same city: 30 to 50 euros is 
 
 At the desk, they explain that your base insurance has a 1,500-euro excess. One scratch on the bumper and you pay. For just 15 euros per day you can have full protection with zero excess.
 
-Sounds like a fair deal? It isn't. The same full protection booked through a [consolidator like DiscoverCars](/en/blog/rental-consolidators-save-money) costs 5 to 8 euros per day. Or your credit card already has collision damage waiver.
+Sounds like a fair deal? It isn't. The same full protection booked through a [consolidator like DiscoverCars](/en/blog/rental-consolidators-save-money/) costs 5 to 8 euros per day. Or your credit card already has collision damage waiver.
 
 **How to avoid:** Never let the desk push insurance on you. Compare ahead of time: credit card coverage, consolidator add-on insurance, third-party insurer like [Allianz Travel](https://www.allianztravelinsurance.com/) or [CarInsuRent](https://www.insurance4carhire.com/). Decide before you walk up to the counter.
 
@@ -80,9 +80,9 @@ People who run the numbers before signing don't get surprised at the desk. Peopl
 
 ---
 
-Zercy finds the best rental car for your destination and shows the real total cost, not just the advertised price. The [Zercy Logbook](/en/blog/zercy-logbook) stores your booking automatically.
+Zercy finds the best rental car for your destination and shows the real total cost, not just the advertised price. The [Zercy Logbook](/en/blog/zercy-logbook/) stores your booking automatically.
 
-**Read more:** [Rental car checklist: 10 things to check before you drive off](/en/blog/rental-car-checklist) · [Rental consolidators: how they save you money](/en/blog/rental-consolidators-save-money) · [Zercy Logbook: all your trips in one place](/en/blog/zercy-logbook)
+**Read more:** [Rental car checklist: 10 things to check before you drive off](/en/blog/rental-car-checklist/) · [Rental consolidators: how they save you money](/en/blog/rental-consolidators-save-money/) · [Zercy Logbook: all your trips in one place](/en/blog/zercy-logbook/)
 
 ## Frequently Asked Questions
 

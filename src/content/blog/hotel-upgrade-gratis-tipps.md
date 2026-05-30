@@ -30,7 +30,7 @@ Upgrade-Chancen variieren stark nach Tageszeit.
 
 **Check-in kurz vor Mitternacht:** Fast garantiertes Upgrade wenn noch Platz ist. Du bekommst, was übrig ist.
 
-Lies auch unseren Artikel über [Airport-Hacks](/blog/airport-hacks) wenn du Upgrades schon am Gate anpeilst.
+Lies auch unseren Artikel über [Airport-Hacks](/blog/airport-hacks/) wenn du Upgrades schon am Gate anpeilst.
 
 ## Was solltest du beim Check-in konkret sagen?
 
@@ -93,6 +93,6 @@ Ruhig und sachlich beim Front Desk ansprechen. "Das Zimmer ist lauter als erwart
 ---
 
 **Mehr lesen:**
-- [Lounge-Zugang ohne Business-Ticket: Günstige Wege ins VIP-Bereich](/blog/lounge-zugang-ohne-business-ticket)
-- [Luxusreisen günstig: 5-Sterne-Erlebnis ohne Vollpreis](/blog/luxusreisen-guenstig-tipps)
-- [Booking.com Genius Programm: Lohnt sich das wirklich?](/blog/booking-genius-programm-lohnt-es-sich)
+- [Lounge-Zugang ohne Business-Ticket: Günstige Wege ins VIP-Bereich](/blog/lounge-zugang-ohne-business-ticket/)
+- [Luxusreisen günstig: 5-Sterne-Erlebnis ohne Vollpreis](/blog/luxusreisen-guenstig-tipps/)
+- [Booking.com Genius Programm: Lohnt sich das wirklich?](/blog/booking-genius-programm-lohnt-es-sich/)

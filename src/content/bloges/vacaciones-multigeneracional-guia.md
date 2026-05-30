@@ -31,9 +31,9 @@ Esta decisión lo condiciona todo lo demás.
 
 [Booking.com](https://www.booking.com/holiday-homes) tiene miles de villas y apartamentos grandes pensados para grupos de ocho personas o más. Entrada independiente para la abuela, piscina para los niños, barbacoa para todos.
 
-**Resort todo incluido.** A menudo la opción menos estresante para un grupo mixto. Las comidas están cubiertas, nadie tiene que calcular gastos en cada momento, y el equipo de animación mantiene a los pequeños entretenidos mientras los abuelos descansan junto a la piscina. El punto débil: poco contacto con la cultura local. El punto fuerte: ninguna sorpresa económica. Para entender mejor las ventajas e inconvenientes, lee nuestra [guía de vacaciones todo incluido](/es/blog/vacaciones-todo-incluido-vale-la-pena).
+**Resort todo incluido.** A menudo la opción menos estresante para un grupo mixto. Las comidas están cubiertas, nadie tiene que calcular gastos en cada momento, y el equipo de animación mantiene a los pequeños entretenidos mientras los abuelos descansan junto a la piscina. El punto débil: poco contacto con la cultura local. El punto fuerte: ninguna sorpresa económica. Para entender mejor las ventajas e inconvenientes, lee nuestra [guía de vacaciones todo incluido](/es/blog/vacaciones-todo-incluido-vale-la-pena/).
 
-**Crucero.** Infravalorado para grupos multigeneracionales. El barco es tu base, el equipaje se queda siempre en el mismo sitio y los camarotes separados dan privacidad real a cada familia. Los clubes infantiles funcionan durante todo el día. El programa de entretenimiento nocturno encaja con todos los grupos de edad. Si es tu primera vez, nuestra [guía para principiantes de cruceros](/es/blog/crucero-guia-principiantes) tiene lo que necesitas saber.
+**Crucero.** Infravalorado para grupos multigeneracionales. El barco es tu base, el equipaje se queda siempre en el mismo sitio y los camarotes separados dan privacidad real a cada familia. Los clubes infantiles funcionan durante todo el día. El programa de entretenimiento nocturno encaja con todos los grupos de edad. Si es tu primera vez, nuestra [guía para principiantes de cruceros](/es/blog/crucero-guia-principiantes/) tiene lo que necesitas saber.
 
 ## ¿Cómo organizas un programa que satisfaga a todas las generaciones?
 
@@ -43,9 +43,9 @@ Construye actividades paralelas de forma deliberada. Por las mañanas, los padre
 
 Un plan compartido por día es suficiente. Dos ya es ambicioso. Tres agota a todos.
 
-Para viajes con personas mayores con movilidad reducida, comprueba siempre la accesibilidad antes de elegir destino. La web oficial de turismo de España [spain.info](https://www.spain.info/es/accesibilidad/) tiene una sección dedicada con rutas adaptadas y filtros de alojamiento accesible. Para planificación accesible en otros destinos, nuestra [guía de viajes accesibles](/es/blog/viajes-accesibles-guia) cubre las preguntas esenciales.
+Para viajes con personas mayores con movilidad reducida, comprueba siempre la accesibilidad antes de elegir destino. La web oficial de turismo de España [spain.info](https://www.spain.info/es/accesibilidad/) tiene una sección dedicada con rutas adaptadas y filtros de alojamiento accesible. Para planificación accesible en otros destinos, nuestra [guía de viajes accesibles](/es/blog/viajes-accesibles-guia/) cubre las preguntas esenciales.
 
-Si hay adolescentes en el grupo, sus necesidades son muy diferentes. Lee [cómo viajar con adolescentes](/es/blog/viajar-con-adolescentes-consejos) antes de asumir que seguirán el programa familiar sin negociación.
+Si hay adolescentes en el grupo, sus necesidades son muy diferentes. Lee [cómo viajar con adolescentes](/es/blog/viajar-con-adolescentes-consejos/) antes de asumir que seguirán el programa familiar sin negociación.
 
 ## ¿Cuáles son los mejores destinos para viajes multigeneracionales?
 
@@ -90,6 +90,6 @@ Antes que un viaje de pareja o en solitario. Más personas significa más restri
 ---
 
 **Más para leer:**
-- [Viajar con adolescentes: lo que realmente funciona](/es/blog/viajar-con-adolescentes-consejos)
-- [Guía de viajes accesibles: planificación para todas las movilidades](/es/blog/viajes-accesibles-guia)
-- [Crucero para principiantes: lo que debes saber antes de reservar](/es/blog/crucero-guia-principiantes)
+- [Viajar con adolescentes: lo que realmente funciona](/es/blog/viajar-con-adolescentes-consejos/)
+- [Guía de viajes accesibles: planificación para todas las movilidades](/es/blog/viajes-accesibles-guia/)
+- [Crucero para principiantes: lo que debes saber antes de reservar](/es/blog/crucero-guia-principiantes/)

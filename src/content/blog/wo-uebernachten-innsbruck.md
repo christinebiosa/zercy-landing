@@ -53,7 +53,7 @@ Innsbruck hat zwei Hauptsaisonen, und dazwischen liegt Gold. Winter (Dezember-M�
 
 **Dezember:** Christkindlmarkt vor dem Goldenen Dachl, einer der schönsten Tirols.
 
-Innsbruck ist ein natürlicher Stopp auf jeder [Schweizer Reise](/blog/schweiz-reise-highlights-guide) oder Route durch die Alpen.
+Innsbruck ist ein natürlicher Stopp auf jeder [Schweizer Reise](/blog/schweiz-reise-highlights-guide/) oder Route durch die Alpen.
 
 ## Pradl: Günstig und zentral
 
@@ -75,7 +75,7 @@ Südlich der Altstadt, rund um das Stift Wilten. Ruhiger als das Zentrum, mit gu
 
 **Top-Picks:** Hotel Bierwirt (lokal, familiengeführt), Pension Stoi (authentisch tirolerisch), Hotel Maximilian.
 
-Innsbruck ist perfekt als Ausgangspunkt für [europäische Winterziele](/blog/europaeische-staedte-winter-tipps). Brenner-Autobahn und Bahnhof verbinden die Stadt nach Italien, Deutschland und in die Schweiz.
+Innsbruck ist perfekt als Ausgangspunkt für [europäische Winterziele](/blog/europaeische-staedte-winter-tipps/). Brenner-Autobahn und Bahnhof verbinden die Stadt nach Italien, Deutschland und in die Schweiz.
 
 ## Wo solltest du am Ende buchen?
 
@@ -112,6 +112,6 @@ Goldenes Dachl mit Stadtturm-Blick, Nordkette mit Seilbahn, Hofburg und Tiroler 
 ---
 
 ## Mehr lesen
-- [Wo übernachten in Salzburg: Altstadt oder Nonntal?](/blog/wo-uebernachten-salzburg)
-- [Europäische Städte im Winter: Die besten Ziele](/blog/europaeische-staedte-winter-tipps)
-- [Schweiz Reise-Highlights: Der komplette Guide](/blog/schweiz-reise-highlights-guide)
+- [Wo übernachten in Salzburg: Altstadt oder Nonntal?](/blog/wo-uebernachten-salzburg/)
+- [Europäische Städte im Winter: Die besten Ziele](/blog/europaeische-staedte-winter-tipps/)
+- [Schweiz Reise-Highlights: Der komplette Guide](/blog/schweiz-reise-highlights-guide/)

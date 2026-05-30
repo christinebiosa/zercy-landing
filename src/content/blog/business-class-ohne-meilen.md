@@ -44,7 +44,7 @@ Konkretes Beispiel: Frankfurt nach Bangkok in Business Class. Ab Frankfurt direk
 
 Istanbul ist ein weiterer Geheimtipp. Turkish Airlines bietet ab Istanbul hervorragende Business Class Tarife nach Asien, Afrika und Südamerika. Oft 40 Prozent unter den Preisen ab Mitteleuropa.
 
-Das funktioniert, weil Flugpreise nicht nach Distanz berechnet werden, sondern nach Marktlogik. Wer das versteht, [spart bei fast jeder Buchung](/blog/guenstig-fliegen-tipps).
+Das funktioniert, weil Flugpreise nicht nach Distanz berechnet werden, sondern nach Marktlogik. Wer das versteht, [spart bei fast jeder Buchung](/blog/guenstig-fliegen-tipps/).
 
 ## Positioning Flights: Günstig zum günstigen Hub
 
@@ -70,7 +70,7 @@ August (Hochsaison): circa 2.400 Euro. September (Nebensaison): circa 1.400 Euro
 
 [Google Flights](https://google.com/travel/flights) hat eine Preiskalender-Funktion. Wähle Business Class als Kabinenklasse, gib deine Strecke ein und klicke auf "Flexible Daten". Du siehst sofort, welche Monate am günstigsten sind.
 
-Auch Wochentage machen einen Unterschied. Dienstag bis Donnerstag ist fast immer günstiger als Freitag bis Sonntag. Wer bei den Daten flexibel ist, findet die besten Deals. Mehr dazu in unserem Guide [wann du Flüge am besten buchen solltest](/blog/wann-fluege-buchen).
+Auch Wochentage machen einen Unterschied. Dienstag bis Donnerstag ist fast immer günstiger als Freitag bis Sonntag. Wer bei den Daten flexibel ist, findet die besten Deals. Mehr dazu in unserem Guide [wann du Flüge am besten buchen solltest](/blog/wann-fluege-buchen/).
 
 ## Flash Sales: Freitag bis Sonntag zuschlagen
 
@@ -110,4 +110,4 @@ Ein Positioning Flight ist ein günstiger Zubringerflug zu einem Hub, von dem au
 
 Madrid, Lissabon und Istanbul sind die drei günstigsten Abflughäfen für Business Class in und ab Europa. Istanbul bietet besonders gute Preise nach Asien und Afrika über Turkish Airlines. Madrid ist stark für Südamerika-Routen über Iberia. Der Preisunterschied zu Frankfurt, Zürich oder London beträgt regelmäßig 30 bis 50 Prozent.
 
-**Mehr lesen:** [Beste Hotels in New York: Wo übernachten](/blog/wo-uebernachten-new-york) · [Beste Hotels in Tokio: Wo übernachten](/blog/wo-uebernachten-tokio) · [Günstig fliegen: 11 Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps)
+**Mehr lesen:** [Beste Hotels in New York: Wo übernachten](/blog/wo-uebernachten-new-york/) · [Beste Hotels in Tokio: Wo übernachten](/blog/wo-uebernachten-tokio/) · [Günstig fliegen: 11 Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps/)

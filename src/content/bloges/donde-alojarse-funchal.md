@@ -71,7 +71,7 @@ Y los toboganes. Los trineos tradicionales de mimbre con patines de paja y condu
 
 São Martinho está al oeste del Lido, entre el extrarradio de la ciudad y el aeropuerto. No es un barrio turístico. Panaderías locales, supermercados, restaurantes de pescado sin precios de turista. La Levada do Moinho sale desde aquí hacia las montañas.
 
-Si ya conoces Madeira y no quieres quedarte en el bullicio de la zona hotelera, esta zona funciona muy bien. Con un coche de alquiler, que puedes organizar con anticipación usando nuestra [guía de alquiler de coches](/es/blog/checklist-alquiler-coche), el centro de Funchal está a 10 minutos.
+Si ya conoces Madeira y no quieres quedarte en el bullicio de la zona hotelera, esta zona funciona muy bien. Con un coche de alquiler, que puedes organizar con anticipación usando nuestra [guía de alquiler de coches](/es/blog/checklist-alquiler-coche/), el centro de Funchal está a 10 minutos.
 
 **Para quién es ideal:** Viajeros con presupuesto ajustado, visitantes habituales, estancias largas.
 
@@ -101,7 +101,7 @@ Si solo vas a estar dos noches en la isla o tienes un vuelo muy temprano, te aho
 
 Reservar directamente en el resort raramente es más barato, salvo en los grandes hoteles como el Savoy Palace donde la reserva directa a veces incluye ventajas o upgrades.
 
-Para decisiones similares en otros destinos portugueses, lee nuestra [guía de barrios de Lisboa](/es/blog/donde-alojarse-lisboa) y [guía de Oporto](/es/blog/donde-alojarse-oporto).
+Para decisiones similares en otros destinos portugueses, lee nuestra [guía de barrios de Lisboa](/es/blog/donde-alojarse-lisboa/) y [guía de Oporto](/es/blog/donde-alojarse-oporto/).
 
 ---
 
@@ -128,6 +128,6 @@ De abril a junio y de septiembre a octubre se encuentran los mejores precios con
 ---
 
 **Más información:**
-- [Dónde alojarse en Lisboa: 5 barrios](/es/blog/donde-alojarse-lisboa)
-- [Dónde alojarse en Oporto: 5 barrios](/es/blog/donde-alojarse-oporto)
-- [Consejos para vuelos baratos 2026](/es/blog/consejos-vuelos-baratos)
+- [Dónde alojarse en Lisboa: 5 barrios](/es/blog/donde-alojarse-lisboa/)
+- [Dónde alojarse en Oporto: 5 barrios](/es/blog/donde-alojarse-oporto/)
+- [Consejos para vuelos baratos 2026](/es/blog/consejos-vuelos-baratos/)

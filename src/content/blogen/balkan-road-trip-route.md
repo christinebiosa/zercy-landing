@@ -49,7 +49,7 @@ Winter (December to March) is off-season — cheap, but many sights have reduced
 
 **Mostar:** The old bridge Stari Most was destroyed in the Bosnian War in 1993 and rebuilt in 2004. Young men dive into the Neretva daily — an old ritual. The [official Mostar tourism website](https://www.visitmostar.ba) has opening hours for the main sights.
 
-**Kotor:** UNESCO old town in a bay surrounded by mountain fortresses. Climbing the city walls to San Giovanni Fortress (1,355 steps) is worth it for the view. Our [Kotor accommodation guide](/en/blog/where-to-stay-kotor) has all the tips.
+**Kotor:** UNESCO old town in a bay surrounded by mountain fortresses. Climbing the city walls to San Giovanni Fortress (1,355 steps) is worth it for the view. Our [Kotor accommodation guide](/en/blog/where-to-stay-kotor/) has all the tips.
 
 **Albanian Riviera:** Between Sarandë and Himarë you'll find beaches you normally only see in ads. Gjipe Canyon, Drymades, Himara Beach — almost untouched, almost empty.
 
@@ -61,7 +61,7 @@ Winter (December to March) is off-season — cheap, but many sights have reduced
 
 **Currencies:** Euro is accepted in Montenegro and Kosovo. Bosnia uses the Convertible Mark (1 EUR ≈ 1.96 BAM), Albania uses the Lek. Currency exchange is easy, ATMs are everywhere. Carry some cash for rural areas.
 
-**Border crossings:** In summer, waiting times at border crossings can be long (Dubrovnik–Bosnia up to 2 hours). Much quicker early morning or after 8pm. Read more about budget travel options in our article on [solo budget travel in Europe](/en/blog/solo-travel-women-safe-countries).
+**Border crossings:** In summer, waiting times at border crossings can be long (Dubrovnik–Bosnia up to 2 hours). Much quicker early morning or after 8pm. Read more about budget travel options in our article on [solo budget travel in Europe](/en/blog/solo-travel-women-safe-countries/).
 
 ---
 
@@ -82,6 +82,6 @@ Hard to say — each has its strengths. Albania has the wildest nature and cheap
 A loop through Bosnia, Montenegro, Albania, and North Macedonia covers roughly 2,000 to 2,500 km. Very manageable in 14 days — plan on 100 to 200 km per driving day, mountain roads are slower than expected. Switchbacks, narrow village streets, and winding coastal routes make the driving an experience in itself.
 
 ## Read more
-- [Albania's Hidden Riviera: Europe's Last Secret](/en/blog/albania-riviera-hidden-coast)
-- [Where to Stay in Kotor](/en/blog/where-to-stay-kotor)
-- [Road Trip Planning: How to Structure Your Route](/en/blog/road-trip-stages-planning)
+- [Albania's Hidden Riviera: Europe's Last Secret](/en/blog/albania-riviera-hidden-coast/)
+- [Where to Stay in Kotor](/en/blog/where-to-stay-kotor/)
+- [Road Trip Planning: How to Structure Your Route](/en/blog/road-trip-stages-planning/)

@@ -62,7 +62,7 @@ Das Gasteig, Münchens wichtigstes Kulturzentrum, liegt direkt im Viertel. Vom W
 
 Das Beste: Hotels und Apartments kosten hier deutlich weniger. Gute 3-Sterne-Hotels ab 110 Euro, Apartments auf Booking.com ab 80 Euro.
 
-Ähnlich strukturierte Städtetrips in Europa: Schau in die Guides zu [Wo übernachten in Wien](/blog/wo-uebernachten-wien) oder [Wo übernachten in Prag](/blog/wo-uebernachten-prag).
+Ähnlich strukturierte Städtetrips in Europa: Schau in die Guides zu [Wo übernachten in Wien](/blog/wo-uebernachten-wien/) oder [Wo übernachten in Prag](/blog/wo-uebernachten-prag/).
 
 ## Neuhausen-Nymphenburg: Für Familien und lange Aufenthalte
 
@@ -104,6 +104,6 @@ Außerhalb des Oktoberfests reichen 2 bis 4 Wochen Vorlauf für die meisten Hote
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Wien: Die besten Stadtteile](/blog/wo-uebernachten-wien)
-- [Wo übernachten in Prag: Altstadt, Vinohrady oder Žižkov?](/blog/wo-uebernachten-prag)
-- [Bahn vs. Flieger in Europa 2026: Was lohnt sich wirklich?](/blog/bahn-vs-flieger-europa-2026)
+- [Wo übernachten in Wien: Die besten Stadtteile](/blog/wo-uebernachten-wien/)
+- [Wo übernachten in Prag: Altstadt, Vinohrady oder Žižkov?](/blog/wo-uebernachten-prag/)
+- [Bahn vs. Flieger in Europa 2026: Was lohnt sich wirklich?](/blog/bahn-vs-flieger-europa-2026/)

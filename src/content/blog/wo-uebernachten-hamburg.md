@@ -55,7 +55,7 @@ Hamburg hat ein atlantisch geprägtes Klima: moderat, oft bewölkt, eher feucht.
 
 **Winter:** Kühl (2-7 Grad), aber Hamburg-Winter hat seinen Charme mit Hafenlicht, Stühmann-Café und Glühwein.
 
-Hamburg ist ideal kombinierbar mit einem [Skandinavien-Roadtrip](/blog/skandinavien-rundreise-route). Kopenhagen ist 5 Stunden Zugfahrt entfernt.
+Hamburg ist ideal kombinierbar mit einem [Skandinavien-Roadtrip](/blog/skandinavien-rundreise-route/). Kopenhagen ist 5 Stunden Zugfahrt entfernt.
 
 ## St. Pauli / Schanzenviertel: Hamburgs Pulsschlag
 
@@ -112,6 +112,6 @@ Elbphilharmonie-Rundgang (kostenlos, Plaza-Deck), Speicherstadt und Chilehaus, F
 ---
 
 ## Mehr lesen
-- [Skandinavien Rundreise: Die beste Route von Hamburg bis zum Nordkap](/blog/skandinavien-rundreise-route)
-- [Europäische Städte im Winter: Die besten Ziele](/blog/europaeische-staedte-winter-tipps)
-- [Wo übernachten in Berlin: Die 5 Stadtteile](/blog/wo-uebernachten-berlin)
+- [Skandinavien Rundreise: Die beste Route von Hamburg bis zum Nordkap](/blog/skandinavien-rundreise-route/)
+- [Europäische Städte im Winter: Die besten Ziele](/blog/europaeische-staedte-winter-tipps/)
+- [Wo übernachten in Berlin: Die 5 Stadtteile](/blog/wo-uebernachten-berlin/)

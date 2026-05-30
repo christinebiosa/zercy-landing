@@ -53,13 +53,13 @@ What most people picture. Towering cliffs, rock coves, tourist infrastructure at
 
 **Lagos** is the sweet spot: beautiful old town, solid beach nearby, young international atmosphere (surfers, backpackers, families together), good restaurants. Not cheap, but worth it. The best base camp for first-timers.
 
-See our [Porto guide](/en/blog/porto-lisbons-underrated-sister) for the northern Portuguese contrast.
+See our [Porto guide](/en/blog/porto-lisbons-underrated-sister/) for the northern Portuguese contrast.
 
 ## How do you get around the Algarve?
 
 **A car is essential.** Full stop. Without a car you see 20% of the Algarve, mostly Albufeira. The best beaches (Praia da Marinha, Camilo, Praia da Luz) are only reachable by car or expensive taxi. Buses run but infrequently and slowly.
 
-Faro Airport is the main entry point. Rental cars at the airport are easy to book but expensive without advance planning. A [rental car price comparison](/en/blog/rental-consolidators-save-money) often saves 30-50% here.
+Faro Airport is the main entry point. Rental cars at the airport are easy to book but expensive without advance planning. A [rental car price comparison](/en/blog/rental-consolidators-save-money/) often saves 30-50% here.
 
 The EN125 is the main road, overloaded in summer. The A22 (Autoestrada do Algarve) is faster but toll-bearing. For beach hopping, small coastal roads are better.
 
@@ -118,6 +118,6 @@ Sagres and the west coast (Praia do Amado, Arrifana, Castelejo) are the best sur
 ---
 
 **Read more:**
-- [Porto: Portugal's underrated sister](/en/blog/porto-lisbons-underrated-sister)
-- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail)
-- [Rental consolidators: how they save you money](/en/blog/rental-consolidators-save-money)
+- [Porto: Portugal's underrated sister](/en/blog/porto-lisbons-underrated-sister/)
+- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail/)
+- [Rental consolidators: how they save you money](/en/blog/rental-consolidators-save-money/)

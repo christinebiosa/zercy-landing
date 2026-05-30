@@ -53,7 +53,7 @@ Los hoteles en el 7.° distrito cuestan entre un 20 y un 35 % menos que en el 5.
 - **Corvin Hotel Budapest** (3 estrellas, sólido, aprox. 85 €)
 - **Gerloczy Rooms** (boutique, ubicación céntrica, aprox. 100 €)
 
-Para un cálculo similar de precio frente a ubicación en otras ciudades europeas, consulta también [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul) o [dónde alojarse en Múnich](/es/blog/donde-alojarse-munich).
+Para un cálculo similar de precio frente a ubicación en otras ciudades europeas, consulta también [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul/) o [dónde alojarse en Múnich](/es/blog/donde-alojarse-munich/).
 
 ## Barrio del Castillo (1.° distrito): Para romance y vistas
 
@@ -97,6 +97,6 @@ El Balneario Széchenyi en el 14.° distrito es el más grande y famoso. El Baln
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Estambul: barrios y hoteles 2026](/es/blog/donde-alojarse-estambul)
-- [Dónde alojarse en Múnich: de la Altstadt a Haidhausen](/es/blog/donde-alojarse-munich)
-- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini)
+- [Dónde alojarse en Estambul: barrios y hoteles 2026](/es/blog/donde-alojarse-estambul/)
+- [Dónde alojarse en Múnich: de la Altstadt a Haidhausen](/es/blog/donde-alojarse-munich/)
+- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini/)

@@ -48,7 +48,7 @@ Claude (Anthropic) is the premium conversation partner. Strong in nuance, reflec
 
 ## What do travel-specialized AI tools do better?
 
-This is where tools like [Zercy](/en/blog/what-is-zercy) come in.
+This is where tools like [Zercy](/en/blog/what-is-zercy/) come in.
 
 General-purpose AI has a structural problem with travel: it doesn't see live prices. Real planning needs current flight and hotel prices, not training data.
 
@@ -60,7 +60,7 @@ The differences in summary:
 - **Claude:** Nuanced advice, no live data access
 - **Zercy:** Live prices, booking links, less small talk
 
-If a direct human-vs-AI comparison interests you, see [AI trip planner vs travel agent](/en/blog/ai-trip-planner-vs-travel-agent).
+If a direct human-vs-AI comparison interests you, see [AI trip planner vs travel agent](/en/blog/ai-trip-planner-vs-travel-agent/).
 
 ## How do you combine the tools sensibly?
 
@@ -99,6 +99,6 @@ Three quick checks: paste hotel names directly into Booking, check opening hours
 ---
 
 **Read more:**
-- [What is Zercy? The AI travel planner explained](/en/blog/what-is-zercy)
-- [AI trip planner vs travel agent: who plans better?](/en/blog/ai-trip-planner-vs-travel-agent)
-- [How AI is changing travel planning](/en/blog/ai-changing-travel-planning)
+- [What is Zercy? The AI travel planner explained](/en/blog/what-is-zercy/)
+- [AI trip planner vs travel agent: who plans better?](/en/blog/ai-trip-planner-vs-travel-agent/)
+- [How AI is changing travel planning](/en/blog/ai-changing-travel-planning/)

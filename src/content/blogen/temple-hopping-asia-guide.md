@@ -20,9 +20,9 @@ Temple hopping means visiting several sacred sites in one region over a few days
 
 **Bagan, Myanmar.** Over 2,000 pagodas and stupas spread across a vast plain. Cycling through the mist at dawn while fog drifts between ancient spires. This is one of those quiet moments you travel a long way to find. Entry: 25 USD for the Archaeological Zone, valid for multiple days.
 
-**Prambanan, Indonesia.** Near Yogyakarta on Java, one hour from Borobudur. This 9th-century Hindu temple complex is the largest in Southeast Asia. The three main towers for Brahma, Vishnu, and Shiva rise 47 meters into the sky. Combine Prambanan with [Borobudur](/en/blog/southeast-asia-budget-travel), its Buddhist counterpart, and you get two UNESCO World Heritage Sites in one day.
+**Prambanan, Indonesia.** Near Yogyakarta on Java, one hour from Borobudur. This 9th-century Hindu temple complex is the largest in Southeast Asia. The three main towers for Brahma, Vishnu, and Shiva rise 47 meters into the sky. Combine Prambanan with [Borobudur](/en/blog/southeast-asia-budget-travel/), its Buddhist counterpart, and you get two UNESCO World Heritage Sites in one day.
 
-**Ayutthaya, Thailand.** One hour north of Bangkok. The ancient capital of the Siam Kingdom now lies as a ruined landscape under open sky. Headless Buddha statues, crumbling towers, river boats drifting past. The best part: many areas have no entry fee, others cost 50 baht. Perfect as a day trip from Bangkok. For accommodation options, the article [Where to Stay in Bangkok](/en/blog/where-to-stay-bangkok) has you covered.
+**Ayutthaya, Thailand.** One hour north of Bangkok. The ancient capital of the Siam Kingdom now lies as a ruined landscape under open sky. Headless Buddha statues, crumbling towers, river boats drifting past. The best part: many areas have no entry fee, others cost 50 baht. Perfect as a day trip from Bangkok. For accommodation options, the article [Where to Stay in Bangkok](/en/blog/where-to-stay-bangkok/) has you covered.
 
 **Hampi, India.** The ruins of the Vijayanagara Empire in Karnataka state. Giant boulder formations, walkable temples, bazaar streets from the 14th century. Hampi is not a mass tourism destination. You can actually walk through a temple complex here completely alone. Entry to the main zone: 600 INR (around 6.50 Euro).
 
@@ -52,7 +52,7 @@ Entry prices vary widely. Rough overview:
 - Hampi: 600 INR (around 6.50 Euro) for the main complex
 - Ayutthaya: many areas free or 50 baht
 
-**Dress code.** Shoulders and knees must be covered. This applies almost everywhere. Some sites lend sarongs or scarves at the entrance, free or with a deposit. Better to bring your own lightweight scarf, especially in the heat. For what to pack, check the article [Packing List for a Tropical Trip](/en/blog/packing-list-tropics).
+**Dress code.** Shoulders and knees must be covered. This applies almost everywhere. Some sites lend sarongs or scarves at the entrance, free or with a deposit. Better to bring your own lightweight scarf, especially in the heat. For what to pack, check the article [Packing List for a Tropical Trip](/en/blog/packing-list-tropics/).
 
 **Guides.** At Angkor Wat and Borobudur, a guide is not mandatory but genuinely worthwhile. Without background knowledge, you see stone. With a guide, you see history. Costs: 20 to 40 USD for a half day, depending on the destination. In Hampi, official guides charge around 10 Euro for two to three hours. Worth it.
 
@@ -95,6 +95,6 @@ Ayutthaya and Prambanan are ideal for families: manageable areas, smaller crowds
 ---
 
 **Read more:**
-- [Where to Stay in Bangkok: Best Neighborhoods 2026](/en/blog/where-to-stay-bangkok)
-- [Hamam Guide: How to Experience a Turkish Bath](/en/blog/hamam-turkish-bath-guide)
-- [Packing List for a Tropical Trip: What You Really Need](/en/blog/packing-list-tropics)
+- [Where to Stay in Bangkok: Best Neighborhoods 2026](/en/blog/where-to-stay-bangkok/)
+- [Hamam Guide: How to Experience a Turkish Bath](/en/blog/hamam-turkish-bath-guide/)
+- [Packing List for a Tropical Trip: What You Really Need](/en/blog/packing-list-tropics/)

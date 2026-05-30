@@ -19,7 +19,7 @@ The [Costa Rica Tourism Board (ICT)](https://www.visitcostarica.com) describes G
 
 Crowds follow the dry season closely. December through early January is peak travel for international visitors. Christmas and New Year's week is the single most expensive time to visit. Hotel rates spike 30 to 50 percent compared to shoulder months. Book well ahead. By late January and through February, the crowds thin slightly while conditions remain excellent.
 
-For the [Costa Rica road trip route](/en/blog/costa-rica-road-trip-route), the dry season months offer the easiest driving conditions on unpaved roads, especially for routes accessing the Osa Peninsula or more remote beach towns.
+For the [Costa Rica road trip route](/en/blog/costa-rica-road-trip-route/), the dry season months offer the easiest driving conditions on unpaved roads, especially for routes accessing the Osa Peninsula or more remote beach towns.
 
 ## Why the Green Season Is Better Than Its Reputation
 
@@ -41,7 +41,7 @@ Tortuguero, on the northern Caribbean coast, is also home to sea turtle nesting.
 
 ## When Is the Best Time for Surfing in Costa Rica?
 
-Surfing follows its own calendar in Costa Rica. For Pacific coast surf, read our complete [Costa Rica surfing guide](/en/blog/costa-rica-surfing) for break-by-break conditions, but the short version: the Pacific north (Tamarindo, Witch's Rock) peaks December through March with offshore conditions. The central Pacific (Jaco, Dominical, Santa Teresa) gets consistent swells nearly year-round with a green season bump June through October from south swells. The Caribbean coast (Puerto Viejo, Salsa Brava) is best December through March.
+Surfing follows its own calendar in Costa Rica. For Pacific coast surf, read our complete [Costa Rica surfing guide](/en/blog/costa-rica-surfing/) for break-by-break conditions, but the short version: the Pacific north (Tamarindo, Witch's Rock) peaks December through March with offshore conditions. The central Pacific (Jaco, Dominical, Santa Teresa) gets consistent swells nearly year-round with a green season bump June through October from south swells. The Caribbean coast (Puerto Viejo, Salsa Brava) is best December through March.
 
 ## What About Wildlife and Jungle Activities?
 
@@ -52,7 +52,7 @@ Wildlife watching doesn't shut down in green season. In many ways it improves. H
 - **Humpback whales**: August through October (southern hemisphere migration) and December through March (northern)
 - **Corcovado and Osa Peninsula**: Drier access October through April, but the wildlife doesn't thin in the wet season
 
-If travel insurance is part of your planning, especially for adventure activities or expensive lodge packages booked months out, see our breakdown of [whether travel insurance is worth it in 2026](/en/blog/travel-insurance-worth-it-2026) before committing.
+If travel insurance is part of your planning, especially for adventure activities or expensive lodge packages booked months out, see our breakdown of [whether travel insurance is worth it in 2026](/en/blog/travel-insurance-worth-it-2026/) before committing.
 
 ---
 
@@ -76,6 +76,6 @@ For December and January travel, book hotels and tours at least three to four mo
 
 ## Read more
 
-- [Costa Rica Road Trip Route: Pacific to Caribbean](/en/blog/costa-rica-road-trip-route)
-- [Costa Rica Surfing: Best Breaks and When to Go](/en/blog/costa-rica-surfing)
-- [Is Travel Insurance Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Costa Rica Road Trip Route: Pacific to Caribbean](/en/blog/costa-rica-road-trip-route/)
+- [Costa Rica Surfing: Best Breaks and When to Go](/en/blog/costa-rica-surfing/)
+- [Is Travel Insurance Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

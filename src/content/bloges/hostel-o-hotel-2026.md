@@ -42,7 +42,7 @@ Quien necesita desconectar al final del día está mejor en un hotel. Los introv
 
 Para parejas y grupos pequeños, Airbnb suele ser la opción más barata con más espacio. Cocina, sala de estar, una puerta que se cierra en tus propios términos. En ciudades con mucho turismo como Barcelona o Lisboa, las regulaciones más estrictas han reducido la oferta y subido los precios. En América Latina y el Sudeste Asiático, Airbnb sigue siendo una de las mejores opciones en el segmento medio.
 
-Nuestra guía de [dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires) incluye una comparativa entre hoteles y apartamentos en una ciudad donde Airbnb sigue siendo muy competitivo.
+Nuestra guía de [dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) incluye una comparativa entre hoteles y apartamentos en una ciudad donde Airbnb sigue siendo muy competitivo.
 
 ## ¿Qué alojamiento para qué tipo de viaje?
 
@@ -85,6 +85,6 @@ Una habitación doble en un hostel europeo rara vez cuesta significativamente me
 ---
 
 **Más información:**
-- [Dónde alojarse en Buenos Aires: Guía de barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Lima: Miraflores vs. Barranco](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Bogotá: Los mejores barrios](/es/blog/donde-alojarse-bogota)
+- [Dónde alojarse en Buenos Aires: Guía de barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Lima: Miraflores vs. Barranco](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Bogotá: Los mejores barrios](/es/blog/donde-alojarse-bogota/)

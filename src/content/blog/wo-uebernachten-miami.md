@@ -102,7 +102,7 @@ Für Miami ist [Booking.com](https://www.booking.com) klar die beste Plattform:
 
 Direktbuchung lohnt nur bei Top-Premium (Setai, Faena, Mandarin) für mögliche Upgrades und Welcome-Drinks.
 
-Lies dazu auch unseren [Airport-Hacks-Guide](/blog/airport-hacks), MIA ist einer der chaotischsten US-Flughäfen.
+Lies dazu auch unseren [Airport-Hacks-Guide](/blog/airport-hacks/), MIA ist einer der chaotischsten US-Flughäfen.
 
 ---
 
@@ -129,6 +129,6 @@ Backpacker: 1.500-2.000 Dollar pro Person inkl. Flug (Hostel SoBe, Self-Catering
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in New York: Die 5 Stadtteile](/blog/wo-uebernachten-new-york)
-- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun)
-- [Airport Hacks: Die 7 besten Tipps für stressfreies Fliegen](/blog/airport-hacks)
+- [Wo übernachten in New York: Die 5 Stadtteile](/blog/wo-uebernachten-new-york/)
+- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun/)
+- [Airport Hacks: Die 7 besten Tipps für stressfreies Fliegen](/blog/airport-hacks/)

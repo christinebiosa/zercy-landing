@@ -61,7 +61,7 @@ Spinut liegt westlich des Stadtzentrums, direkt am Meer. Der Strand hier ist wen
 
 **Top-Picks:** Hotel Globo (Familienhotel mit Pool, direkt am Meer), Camping und Ferienpark Spinut (für Familien mit mehr Platzbedarf), diverse Apartments in Wohngebäuden mit Meerblick.
 
-Wer mehrere kroatische Küstenstädte plant, findet in unserem [Kroatien-Inseln-Hopping Guide](/blog/kroatien-inseln-hopping) die besten Routen zwischen Split, Hvar und Korčula. Auch der [Mietwagen-Check](/blog/mietwagen-check) lohnt sich für Dalmatien.
+Wer mehrere kroatische Küstenstädte plant, findet in unserem [Kroatien-Inseln-Hopping Guide](/blog/kroatien-inseln-hopping/) die besten Routen zwischen Split, Hvar und Korčula. Auch der [Mietwagen-Check](/blog/mietwagen-check/) lohnt sich für Dalmatien.
 
 ## Žnjan: Moderne Strandhotels
 
@@ -83,7 +83,7 @@ Zwischen Split und Trogir (UNESCO-Altstadt, 27 km nördlich) gibt es eine Reihe 
 
 **Top-Picks:** Bluesun Hotel Elaphusa (größeres Resort zwischen Split und Trogir), Villa Vili (Ferienhaus-Style, Garten, Pool), diverse Ferienwohnungen nahe Trogir für Gruppen.
 
-Für die Dubrovnik-Perspektive: im [Dubrovnik Stadtteilguide](/blog/wo-uebernachten-dubrovnik) findest du denselben Ansatz für die Perle der Adria.
+Für die Dubrovnik-Perspektive: im [Dubrovnik Stadtteilguide](/blog/wo-uebernachten-dubrovnik/) findest du denselben Ansatz für die Perle der Adria.
 
 ## Wo solltest du am Ende buchen?
 
@@ -121,6 +121,6 @@ Oktober und November sowie April und Mai. Außerhalb der kroatischen Sommerferie
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Dubrovnik: Die 5 Stadtteile](/blog/wo-uebernachten-dubrovnik)
-- [Kroatien Insel-Hopping: Die besten Routen](/blog/kroatien-inseln-hopping)
-- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check)
+- [Wo übernachten in Dubrovnik: Die 5 Stadtteile](/blog/wo-uebernachten-dubrovnik/)
+- [Kroatien Insel-Hopping: Die besten Routen](/blog/kroatien-inseln-hopping/)
+- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check/)

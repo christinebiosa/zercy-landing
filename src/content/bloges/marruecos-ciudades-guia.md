@@ -80,6 +80,6 @@ Oficialmente no. En la práctica, un guía oficial es útil las primeras 3 horas
 ---
 
 **Más artículos:**
-- [Riads de Marruecos: La guía para los mejores alojamientos](/es/blog/riads-marruecos-guia)
-- [India: Guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights)
-- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia)
+- [Riads de Marruecos: La guía para los mejores alojamientos](/es/blog/riads-marruecos-guia/)
+- [India: Guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights/)
+- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia/)

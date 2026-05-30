@@ -55,7 +55,7 @@ Pantai Tengah está justo al sur de Cenang. No hay un límite oficial; la transi
 
 **Mejores opciones:** Holiday Villa Beach & Suites (suites amplias, playa directa, piscina), Resorts World Langkawi (resort de entretenimiento, casino, varios estilos de hotel), Berjaya Langkawi Resort (bungalows en los manglares, concepto único, naturaleza pura).
 
-La [guía de barrios de Penang](/es/blog/donde-alojarse-penang) y los [consejos para viajar barato por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico) cubren la planificación más amplia de Malasia.
+La [guía de barrios de Penang](/es/blog/donde-alojarse-penang/) y los [consejos para viajar barato por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/) cubren la planificación más amplia de Malasia.
 
 ## Datai Bay: Retiro de lujo en aislamiento total
 
@@ -106,6 +106,6 @@ Pantai Cenang: mejor infraestructura, arena blanca, buen baño. Pantai Kok (cerc
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Penang: Los mejores barrios](/es/blog/donde-alojarse-penang)
-- [Sudeste Asiático: Viajar con poco presupuesto](/es/blog/sudeste-asiatico-viaje-economico)
-- [Dónde alojarse en Kuala Lumpur: Los mejores barrios](/es/blog/donde-alojarse-kuala-lumpur)
+- [Dónde alojarse en Penang: Los mejores barrios](/es/blog/donde-alojarse-penang/)
+- [Sudeste Asiático: Viajar con poco presupuesto](/es/blog/sudeste-asiatico-viaje-economico/)
+- [Dónde alojarse en Kuala Lumpur: Los mejores barrios](/es/blog/donde-alojarse-kuala-lumpur/)

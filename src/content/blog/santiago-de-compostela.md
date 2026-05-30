@@ -19,7 +19,7 @@ Der Jakobsweg ist kein einzelner Weg. Es gibt Dutzende Routen, die alle in der K
 
 **Camino Francés** ist die klassische Route. 780 Kilometer von Saint-Jean-Pied-de-Port in Frankreich durch Nordspanien. Über die Pyrenäen, durch Pamplona, Burgos, León, bis nach Santiago. Vier bis sechs Wochen Fußmarsch. Die bekannteste, beliebteste, vollste Route — aber auch die mit dem ausgebauten Infrastruktur: Herbergen alle 10–20 Kilometer, Cafés die genau dann öffnen wenn man Kaffee braucht.
 
-**Camino Portugués** beginnt in Lissabon oder Porto. Die Route von Porto aus ist nur 240 Kilometer — machbar in 10–12 Tagen. Beliebt bei denen, die nicht einen Monat Zeit haben. Die Landschaft ist anders: atlantische Küste, Weinregion, grüne Täler. Wer umweltbewusst anreisen will: Porto ist bequem [mit dem Zug](/blog/zugreisen-europa) erreichbar — von vielen deutschen Städten mit nur einem Umstieg.
+**Camino Portugués** beginnt in Lissabon oder Porto. Die Route von Porto aus ist nur 240 Kilometer — machbar in 10–12 Tagen. Beliebt bei denen, die nicht einen Monat Zeit haben. Die Landschaft ist anders: atlantische Küste, Weinregion, grüne Täler. Wer umweltbewusst anreisen will: Porto ist bequem [mit dem Zug](/blog/zugreisen-europa/) erreichbar — von vielen deutschen Städten mit nur einem Umstieg.
 
 **Camino del Norte** entlang der Nordküste ist wilder, schöner, einsamer. Klippen über dem Atlantik, Fischerdörfer, weniger Pilger auf dem Weg. Nicht für Anfänger, aber für alle, die echte Stille suchen.
 
@@ -95,4 +95,4 @@ Ja. Die Altstadt gehört zu den schönsten Europas, die galicische Küche ist au
 
 Mai bis Oktober. Frühling und Frühherbst (Mai, September) sind ideal: weniger Pilger, angenehme Temperaturen, grüne Landschaft. Juli und August sind heiß und voll. Winter ist möglich, aber Herbergen schließen, und Wetter in Galicien ist rau.
 
-**Mehr lesen:** [Mit dem Zug durch Europa](/blog/zugreisen-europa) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck) · [Boutique-Hotels: Warum kleine Hotels besser sind](/blog/boutique-hotels)
+**Mehr lesen:** [Mit dem Zug durch Europa](/blog/zugreisen-europa/) · [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck/) · [Boutique-Hotels: Warum kleine Hotels besser sind](/blog/boutique-hotels/)

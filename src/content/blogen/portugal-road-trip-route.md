@@ -49,13 +49,13 @@ Winter (November to February) is mild and very affordable. Lisbon and Porto are 
 
 **Ponta da Piedade (Lagos):** Golden limestone cliffs right above the Atlantic. The most beautiful coastal scenery in Portugal. Kayak rental takes you into the sea caves — unforgettable.
 
-**Douro Valley:** UNESCO World Heritage, vineyard terraces as far as you can see. Wine tour in Pinhão including tasting from €25. Check our [Algarve travel guide](/en/blog/algarve-travel-guide-2026) for tips on the south.
+**Douro Valley:** UNESCO World Heritage, vineyard terraces as far as you can see. Wine tour in Pinhão including tasting from €25. Check our [Algarve travel guide](/en/blog/algarve-travel-guide-2026/) for tips on the south.
 
 **Porto:** The city of bridges and port wine. The Lello Bookshop (tickets online in advance!) and the Ribeira district need an afternoon each. Port wine cellars in Vila Nova de Gaia: free tours, tastings from €5.
 
 ## Practical Tips
 
-**Transport:** A rental car is highly recommended for Portugal — especially for Alentejo, the Algarve, and the Douro Valley. Good train connections between major cities, but a car is key within regions. Book via [Booking.com](https://www.booking.com) for hotel deals, or search for [where to stay in Lisbon](/en/blog/where-to-stay-lisbon) and [where to stay in Porto](/en/blog/porto-lisbons-underrated-sister).
+**Transport:** A rental car is highly recommended for Portugal — especially for Alentejo, the Algarve, and the Douro Valley. Good train connections between major cities, but a car is key within regions. Book via [Booking.com](https://www.booking.com) for hotel deals, or search for [where to stay in Lisbon](/en/blog/where-to-stay-lisbon/) and [where to stay in Porto](/en/blog/porto-lisbons-underrated-sister/).
 
 **Language:** English is widely spoken in cities. In small villages, a few words of Portuguese go a long way. Obrigado (thank you) and bom dia (good morning) open doors.
 
@@ -80,6 +80,6 @@ It depends on your style. Algarve for beaches. Alentejo for calm and wine. Douro
 Portugal is consistently ranked among the safest countries in Europe. The [Global Peace Index](https://www.visionofhumanity.org) places it in the top 10 regularly. As anywhere: watch out for pickpockets in tourist crowds (Lisbon's tram 28). Otherwise, relax.
 
 ## Read more
-- [Lisbon Beyond the Tourist Trail](/en/blog/lisbon-beyond-the-tourist-trail)
-- [Porto: Lisbon's Underrated Sister](/en/blog/porto-lisbons-underrated-sister)
-- [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026)
+- [Lisbon Beyond the Tourist Trail](/en/blog/lisbon-beyond-the-tourist-trail/)
+- [Porto: Lisbon's Underrated Sister](/en/blog/porto-lisbons-underrated-sister/)
+- [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026/)

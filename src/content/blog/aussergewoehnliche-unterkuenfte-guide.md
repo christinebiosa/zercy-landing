@@ -90,6 +90,6 @@ Hausboote eignen sich perfekt für Kurztrips, da es meist keine Mindestaufenthal
 
 ## Mehr lesen
 
-- [Glamping in Europa: Die besten Destinationen](/blog/glamping-europa-guide)
-- [Airbnb vs. Hotel: Was passt wann?](/blog/airbnb-vs-hotel-vergleich)
-- [Boutique Hotels: Warum kleiner oft besser ist](/blog/boutique-hotels)
+- [Glamping in Europa: Die besten Destinationen](/blog/glamping-europa-guide/)
+- [Airbnb vs. Hotel: Was passt wann?](/blog/airbnb-vs-hotel-vergleich/)
+- [Boutique Hotels: Warum kleiner oft besser ist](/blog/boutique-hotels/)

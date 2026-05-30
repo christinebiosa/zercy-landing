@@ -26,7 +26,7 @@ Google Maps hat ebenfalls einen Offline-Download-Modus. Du wählst ein Gebiet au
 
 Rome2Rio ist in dieser Kategorie schwer zu schlagen. Du gibst Startpunkt und Ziel ein, und die App zeigt dir alle denkbaren Verbindungen: Zug, Bus, Flug, Fähre, Fahrt. Das Besondere: Die App funktioniert mit gecachten Daten auch ohne Verbindung. Nützlich, wenn du spontan entscheiden musst, wie du von Ort A nach Ort B kommst.
 
-Für Europareisen mit Zügen ist unser Artikel zu [Nachtzügen in Europa 2026](/blog/nachtzuege-europa-2026) ein guter Einstieg. Und wenn du die Bahn als Hauptverkehrsmittel planst, schau in unseren Guide zu [Zugreisen Europa](/blog/zugreisen-europa).
+Für Europareisen mit Zügen ist unser Artikel zu [Nachtzügen in Europa 2026](/blog/nachtzuege-europa-2026/) ein guter Einstieg. Und wenn du die Bahn als Hauptverkehrsmittel planst, schau in unseren Guide zu [Zugreisen Europa](/blog/zugreisen-europa/).
 
 TripIt ist die Standard-App für Itinerary-Management. Du leitest Buchungsbestätigungs-E-Mails an plans@tripit.com weiter, und die App baut automatisch einen strukturierten Reiseplan daraus. Offline funktioniert TripIt vollständig: alle Buchungsdetails, Flugzeiten, Hoteladressen, Kontaktnummern sind gespeichert und ohne Verbindung abrufbar. Das allein macht TripIt zu einer der wichtigsten Apps für lange Reisen.
 
@@ -36,7 +36,7 @@ Duolingo ist keine Echtzeit-Übersetzungs-App, aber eine gute Möglichkeit, vor 
 
 iTranslate bietet echte Offline-Übersetzungen für ausgewählte Sprachpaare. In der Basisversion kannst du Texte übersetzten lassen. In der Pro-Version funktioniert auch die Spracherkennung offline. Für Reisen nach Asien, in den arabischen Raum oder nach Osteuropa ist eine Offline-Übersetzungs-App unverzichtbar. Google Translate bietet ebenfalls Offline-Downloads pro Sprache und ist kostenlos. Die Qualität ist mittlerweile sehr gut.
 
-Für Reisen ohne Handgepäck-Probleme schau dir auch unseren Artikel zu [nur mit Handgepäck reisen](/blog/nur-handgepaeck) an.
+Für Reisen ohne Handgepäck-Probleme schau dir auch unseren Artikel zu [nur mit Handgepäck reisen](/blog/nur-handgepaeck/) an.
 
 ## Wie bereitest du Apps richtig vor der Reise vor?
 
@@ -74,6 +74,6 @@ Offline-Karten und Sprachpakete vor der Reise über WLAN herunterladen, TripIt m
 
 Mehr lesen:
 
-- [Nachtzüge in Europa 2026: Alles, was du wissen musst](/blog/nachtzuege-europa-2026)
-- [Nur mit Handgepäck: Der ultimative Guide](/blog/nur-handgepaeck)
-- [Airport Hacks: Weniger Stress am Flughafen](/blog/airport-hacks)
+- [Nachtzüge in Europa 2026: Alles, was du wissen musst](/blog/nachtzuege-europa-2026/)
+- [Nur mit Handgepäck: Der ultimative Guide](/blog/nur-handgepaeck/)
+- [Airport Hacks: Weniger Stress am Flughafen](/blog/airport-hacks/)

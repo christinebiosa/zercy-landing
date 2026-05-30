@@ -40,11 +40,11 @@ Total time: between 45 minutes and 2 hours depending on what you book.
 
 **Veli Bej Hamam** (also Veli Bej Fürdő) is an Ottoman bath from the 16th century, preserved almost entirely in its original form. Located in the 2nd district, visited by Hungarians and in-the-know travelers, overlooked by most tourists. The water comes from thermal springs, the domes are lined with bottle-glass windows. Light and heat combined into something hard to describe.
 
-If you've already read the [Where to Stay in Budapest](/en/blog/where-to-stay-budapest) guide and noticed the thermal baths section: Széchenyi is larger and more famous. Veli Bej is the right choice for the authentic hamam experience.
+If you've already read the [Where to Stay in Budapest](/en/blog/where-to-stay-budapest/) guide and noticed the thermal baths section: Széchenyi is larger and more famous. Veli Bej is the right choice for the authentic hamam experience.
 
 ### Marrakech
 
-**Hammam culture in Marrakech** differs slightly from the Turkish tradition. Many riads have their own private hammams. In the public sphere: Hammam Bab Doukkala costs just a few euros and is completely local. For a more comfortable experience: Hammam de la Rose or similar upscale spa versions. The [Morocco riads guide](/en/blog/morocco-riads-guide) gives more context on riad-style hammam stays.
+**Hammam culture in Marrakech** differs slightly from the Turkish tradition. Many riads have their own private hammams. In the public sphere: Hammam Bab Doukkala costs just a few euros and is completely local. For a more comfortable experience: Hammam de la Rose or similar upscale spa versions. The [Morocco riads guide](/en/blog/morocco-riads-guide/) gives more context on riad-style hammam stays.
 
 ## How much does a hamam visit cost?
 
@@ -72,7 +72,7 @@ Hotels with an on-site hamam or spa are easy to find on [Booking.com](https://ww
 
 **Hunger:** Neither full nor hungry. Two hours after a large meal is ideal. Drink plenty of water afterwards.
 
-For your Istanbul visit, the [Where to Stay Istanbul](/en/blog/where-to-stay-istanbul) guide is worth reading. A central location saves travel time if you plan to visit more than one hamam.
+For your Istanbul visit, the [Where to Stay Istanbul](/en/blog/where-to-stay-istanbul/) guide is worth reading. A central location saves travel time if you plan to visit more than one hamam.
 
 ---
 
@@ -101,6 +101,6 @@ Cemberlitas Hamam near the Grand Bazaar is the most famous and has the most impr
 ---
 
 **Read more:**
-- [Where to Stay in Istanbul: Neighborhood Guide](/en/blog/where-to-stay-istanbul)
-- [Temple Hopping in Asia: Best Spiritual Sites](/en/blog/temple-hopping-asia-guide)
-- [Unique Accommodation Guide: What's Actually Special](/en/blog/unique-accommodation-guide)
+- [Where to Stay in Istanbul: Neighborhood Guide](/en/blog/where-to-stay-istanbul/)
+- [Temple Hopping in Asia: Best Spiritual Sites](/en/blog/temple-hopping-asia-guide/)
+- [Unique Accommodation Guide: What's Actually Special](/en/blog/unique-accommodation-guide/)

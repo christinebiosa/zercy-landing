@@ -53,7 +53,7 @@ For business travelers and those using Nairobi as a quick stop between safari le
 - **The Tribe Hotel:** In nearby Gigiri, but considered part of the Westlands-Gigiri belt. African art collection, design-led, consistently top-rated.
 - **Serena Hotel Nairobi:** Upper Hill technically, but central to both Westlands and the CBD. Beautiful pool garden, historic character.
 
-For travelers adding Cape Town to their East Africa itinerary, our [Cape Town neighborhood guide](/en/blog/where-to-stay-cape-town) is a useful companion.
+For travelers adding Cape Town to their East Africa itinerary, our [Cape Town neighborhood guide](/en/blog/where-to-stay-cape-town/) is a useful companion.
 
 ## Gigiri: Security and Diplomacy
 
@@ -102,6 +102,6 @@ About 250 km, five to six hours by road or 45-minute bush plane from Wilson Airp
 ---
 
 **Read more:**
-- [Where to Stay in Cape Town: 5 Neighborhoods Compared](/en/blog/where-to-stay-cape-town)
-- [Zanzibar Stone Town: What Nobody Tells You](/en/blog/zanzibar-stone-town-guide)
-- [Where to Stay in Marrakech: Medina or Gueliz?](/en/blog/where-to-stay-marrakech)
+- [Where to Stay in Cape Town: 5 Neighborhoods Compared](/en/blog/where-to-stay-cape-town/)
+- [Zanzibar Stone Town: What Nobody Tells You](/en/blog/zanzibar-stone-town-guide/)
+- [Where to Stay in Marrakech: Medina or Gueliz?](/en/blog/where-to-stay-marrakech/)

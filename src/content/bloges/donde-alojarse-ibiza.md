@@ -71,7 +71,7 @@ La playa de arena más larga de la isla está a solo 3 kilómetros de la Ciudad 
 
 Los hoteles de Ibiza tienen grandes variaciones de precio según la temporada: el doble en julio-agosto comparado con mayo u octubre. [Booking.com](https://www.booking.com) es ideal para comparar precios. Revisa las condiciones de cancelación: muchos hoteles de Ibiza exigen el pago completo al reservar en temporada alta.
 
-Lee también: [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona) y [Dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid).
+Lee también: [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/) y [Dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid/).
 
 ---
 
@@ -99,6 +99,6 @@ Sí. Santa Eulalia tiene playas aptas para niños. Cala Salada y Cala Gracio en 
 
 ## Más artículos
 
-- [Dónde alojarse en Barcelona: Los 5 barrios](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Madrid: Barrios y hoteles](/es/blog/donde-alojarse-madrid)
-- [Las mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026)
+- [Dónde alojarse en Barcelona: Los 5 barrios](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Madrid: Barrios y hoteles](/es/blog/donde-alojarse-madrid/)
+- [Las mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)

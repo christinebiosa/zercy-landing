@@ -74,7 +74,7 @@ Gruž is Dubrovnik's working harbor, where ferries depart for Split and the isla
 - **Various Private Apartments in Gruž:** Studios from €40 per night on Booking.com if you book early.
 - **Hostel Providers Near Bus Station:** Several budget hostels cluster near the ferry and bus terminals.
 
-Pair a Dubrovnik trip with our [guide to hidden gems in Europe](/en/blog/hidden-gems-europe) for more off-the-beaten-path ideas nearby.
+Pair a Dubrovnik trip with our [guide to hidden gems in Europe](/en/blog/hidden-gems-europe/) for more off-the-beaten-path ideas nearby.
 
 ## Where Should You Book in Dubrovnik?
 
@@ -107,6 +107,6 @@ Direct flights from most European cities April to October. Dubrovnik Airport is 
 ---
 
 **Read more:**
-- [Hidden Gems in Europe: The Underrated Cities](/en/blog/hidden-gems-europe)
-- [Where to Stay in Prague: 5 Neighborhoods](/en/blog/where-to-stay-prague)
-- [Where to Stay in Barcelona: 5 Neighborhoods](/en/blog/where-to-stay-barcelona)
+- [Hidden Gems in Europe: The Underrated Cities](/en/blog/hidden-gems-europe/)
+- [Where to Stay in Prague: 5 Neighborhoods](/en/blog/where-to-stay-prague/)
+- [Where to Stay in Barcelona: 5 Neighborhoods](/en/blog/where-to-stay-barcelona/)

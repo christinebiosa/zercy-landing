@@ -16,7 +16,7 @@ Suena sencillo. Y lo es, siempre que conozcas las reglas.
 
 Un vuelo de posicionamiento es un vuelo de conexión que organizas tú mismo para llegar a un aeropuerto con precios más bajos. En lugar de salir desde tu aeropuerto local, primero te desplazas a un hub mayor y allí tomas el vuelo de larga distancia.
 
-Está relacionado con el [routing ex-EU](/es/blog/vuelos-ex-eu-como-funciona), donde los precios desde un aeropuerto europeo son más bajos que desde tu país de origen. La diferencia: con el vuelo de posicionamiento, eres tú quien llega hasta ese hub.
+Está relacionado con el [routing ex-EU](/es/blog/vuelos-ex-eu-como-funciona/), donde los precios desde un aeropuerto europeo son más bajos que desde tu país de origen. La diferencia: con el vuelo de posicionamiento, eres tú quien llega hasta ese hub.
 
 ## ¿Cuándo compensa realmente un vuelo de posicionamiento?
 
@@ -32,7 +32,7 @@ Berlín a Zúrich (desde 60 euros, también posible en tren) más Zúrich a Los 
 
 **Cuando no compensa:** el vuelo de conexión cuesta 180 euros pero solo ahorras 100 euros en la larga distancia. Pérdida neta. Dos vuelos separados también significan más tiempo en aeropuertos y un día de viaje más largo.
 
-Consulta [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos), porque el momento de compra influye mucho en la diferencia de precio entre el hub y tu aeropuerto.
+Consulta [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/), porque el momento de compra influye mucho en la diferencia de precio entre el hub y tu aeropuerto.
 
 ## ¿Cómo calcular correctamente un vuelo de posicionamiento?
 
@@ -68,11 +68,11 @@ Por eso estas reglas son fundamentales:
 
 Sobre el equipaje: con muchas combinaciones tendrás que volver a facturar el equipaje en el hub. Eso lleva tiempo y a veces cuesta dinero extra. Confírmalo siempre antes de volar.
 
-Más consejos sobre logística aeroportuaria en nuestra guía de [trucos de aeropuerto](/es/blog/trucos-aeropuerto).
+Más consejos sobre logística aeroportuaria en nuestra guía de [trucos de aeropuerto](/es/blog/trucos-aeropuerto/).
 
 ## ¿Qué hubs funcionan mejor como destino del vuelo de posicionamiento?
 
-Primero, una distinción importante. Si reservas un vuelo con escala en un mismo billete, la aerolínea es responsable de la conexión. Eso no es un vuelo de posicionamiento. El vuelo de posicionamiento es cuando tú mismo reservas el vuelo de conexión por separado. Lógica similar a los [billetes open-jaw](/es/blog/open-jaw-tickets-truco-viaje): más ahorro, más responsabilidad propia.
+Primero, una distinción importante. Si reservas un vuelo con escala en un mismo billete, la aerolínea es responsable de la conexión. Eso no es un vuelo de posicionamiento. El vuelo de posicionamiento es cuando tú mismo reservas el vuelo de conexión por separado. Lógica similar a los [billetes open-jaw](/es/blog/open-jaw-tickets-truco-viaje/): más ahorro, más responsabilidad propia.
 
 Los hubs que funcionan mejor:
 
@@ -106,8 +106,8 @@ Con reservas separadas, eres tú quien tiene que encargarse de llegar a tiempo a
 
 ### ¿Cómo encuentro las mejores combinaciones de vuelos de posicionamiento?
 
-Usa [Google Flights](/es/blog/google-flights-trucos-2026) en modo multidestino para comparar opciones. Compara el directo desde tu aeropuerto con la combinación de conexión más hub. Los hubs más convenientes para viajeros de Europa central son Viena, Ámsterdam, Zúrich, Madrid y Lisboa. El mayor ahorro suele estar en vuelos de larga distancia hacia Asia, América y África.
+Usa [Google Flights](/es/blog/google-flights-trucos-2026/) en modo multidestino para comparar opciones. Compara el directo desde tu aeropuerto con la combinación de conexión más hub. Los hubs más convenientes para viajeros de Europa central son Viena, Ámsterdam, Zúrich, Madrid y Lisboa. El mayor ahorro suele estar en vuelos de larga distancia hacia Asia, América y África.
 
 ---
 
-**Más artículos:** [Routing ex-EU: cómo funciona y cuándo usar un hub europeo](/es/blog/vuelos-ex-eu-como-funciona) · [Billetes open-jaw: el truco de viaje explicado](/es/blog/open-jaw-tickets-truco-viaje) · [Google Flights: trucos y consejos 2026](/es/blog/google-flights-trucos-2026)
+**Más artículos:** [Routing ex-EU: cómo funciona y cuándo usar un hub europeo](/es/blog/vuelos-ex-eu-como-funciona/) · [Billetes open-jaw: el truco de viaje explicado](/es/blog/open-jaw-tickets-truco-viaje/) · [Google Flights: trucos y consejos 2026](/es/blog/google-flights-trucos-2026/)

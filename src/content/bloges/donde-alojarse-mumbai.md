@@ -61,7 +61,7 @@ Juhu Beach es la playa pública más famosa de Mumbai. Cinco kilómetros de pase
 
 **Opciones destacadas:** JW Marriott Mumbai Juhu (directamente en la playa, premium), Novotel Mumbai Juhu Beach (rango medio, confiable), Sun-n-Sand Hotel (opción clásica, buen valor).
 
-Para comparar barrios de playa en Asia, consulta nuestra guía de [Dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok).
+Para comparar barrios de playa en Asia, consulta nuestra guía de [Dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok/).
 
 ## Lower Parel: El barrio de negocios
 
@@ -83,7 +83,7 @@ Andheri East está junto al aeropuerto internacional Chhatrapati Shivaji Maharaj
 
 **Opciones destacadas:** Holiday Inn Mumbai International Airport (confiable, traslado incluido), The Orchid Hotel (certificación ecológica, excelente relación calidad-precio), Hyatt Regency Mumbai (opción premium junto al aeropuerto).
 
-Compara también nuestra guía de [Dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur) para un dilema similar entre aeropuerto y centro.
+Compara también nuestra guía de [Dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur/) para un dilema similar entre aeropuerto y centro.
 
 ## ¿Dónde reservar tu alojamiento?
 
@@ -97,7 +97,7 @@ Para Mumbai, [Booking.com](https://www.booking.com) es la opción más clara:
 
 La reserva directa solo vale la pena en el Taj Mahal Palace, donde el contacto directo puede desbloquear bebidas de bienvenida y posibilidades de mejora de habitación.
 
-Consulta también nuestra guía de [Dónde alojarse en Seúl](/es/blog/donde-alojarse-seul) para una ciudad con escala y variedad de barrios similar.
+Consulta también nuestra guía de [Dónde alojarse en Seúl](/es/blog/donde-alojarse-seul/) para una ciudad con escala y variedad de barrios similar.
 
 ---
 
@@ -124,6 +124,6 @@ Ola o Uber cuesta unas 500-800 rupias (6-10 USD) hasta Andheri, 800-1.200 rupias
 ---
 
 **Leer más:**
-- [Dónde alojarse en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Singapur: Guía para todos los presupuestos](/es/blog/donde-alojarse-singapur)
-- [Dónde alojarse en Seúl: Barrios comparados](/es/blog/donde-alojarse-seul)
+- [Dónde alojarse en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Singapur: Guía para todos los presupuestos](/es/blog/donde-alojarse-singapur/)
+- [Dónde alojarse en Seúl: Barrios comparados](/es/blog/donde-alojarse-seul/)

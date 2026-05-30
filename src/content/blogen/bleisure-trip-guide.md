@@ -24,7 +24,7 @@ The setup is straightforward. Your company covers the flight and hotel for the w
 
 Not every business destination invites you to stay. Some cities are purely functional, with little draw once the meetings end. Others have enough going on that three extra days feel like a proper short holiday.
 
-**London** is the flagship bleisure destination. Weekend flights are usually no more expensive than weekday ones. Most museums are free. Parks, markets, theater, restaurant diversity: all excellent. After the meetings, moving to a hotel in a different neighborhood makes sense, and our guide on [where to stay in London](/en/blog/where-to-stay-london) covers which area fits which mood.
+**London** is the flagship bleisure destination. Weekend flights are usually no more expensive than weekday ones. Most museums are free. Parks, markets, theater, restaurant diversity: all excellent. After the meetings, moving to a hotel in a different neighborhood makes sense, and our guide on [where to stay in London](/en/blog/where-to-stay-london/) covers which area fits which mood.
 
 **Singapore** is often a natural stopover for Asia travel. Safe, walkable, outstanding food at every price point from hawker centres to fine dining. Infrastructure is reliable. After a week of meetings, a couple of nights to explore Chinatown, Kampong Glam, or the Botanic Gardens is a complete reset.
 
@@ -42,7 +42,7 @@ You pay for: every night after your last working day, all food and transport fro
 
 The smart angle: if you can take the same return flight you would have taken anyway, just a week later at no extra cost, your employer often has no objection. Some companies have explicit bleisure policies. Others handle it informally. It's worth asking. Most managers are fine with it as long as the work gets done and costs don't increase.
 
-If you travel frequently for work, checking whether [hotel loyalty programs are worth it](/en/blog/hotel-loyalty-program-worth-it) can pay off quickly once you start extending trips.
+If you travel frequently for work, checking whether [hotel loyalty programs are worth it](/en/blog/hotel-loyalty-program-worth-it/) can pay off quickly once you start extending trips.
 
 ## How do you negotiate bleisure with your manager?
 
@@ -54,13 +54,13 @@ If your company has a travel policy, check whether bleisure is explicitly addres
 
 One thing to sort out in advance: insurance. Your employer's business travel insurance typically only covers working days. For the leisure portion, you need your own coverage. A travel credit card with built-in protection often works. A short-term policy is the other option. It sounds like admin, but it's the one thing worth confirming before you extend.
 
-If you're flying business class for the work leg and wondering about upgrades, our guide on [getting business class without miles](/en/blog/business-class-without-miles) has the full breakdown.
+If you're flying business class for the work leg and wondering about upgrades, our guide on [getting business class without miles](/en/blog/business-class-without-miles/) has the full breakdown.
 
 ## What are the tax implications of a bleisure trip?
 
 For most countries: the business days are fully the employer's domain, tax-wise. Your private days are private expenses. No deductions, but no complications either, as long as the cost split is clean.
 
-It gets more complex if you work during your "leisure" days. At that point it starts to resemble a [workation, and different tax rules apply](/en/blog/workation-tax-rules-2026). For genuinely free days where no work happens, the tax side is simple.
+It gets more complex if you work during your "leisure" days. At that point it starts to resemble a [workation, and different tax rules apply](/en/blog/workation-tax-rules-2026/). For genuinely free days where no work happens, the tax side is simple.
 
 One scenario to handle carefully: if your employer initially pays for the full hotel stay and you reimburse for the private nights, make sure the split is clearly documented in the expense report. Mixed costs on a single invoice create audit risk in some jurisdictions.
 
@@ -70,7 +70,7 @@ The flight is the biggest lever. Weekend returns often cost the same as or less 
 
 For hotels: some chains let you extend your business booking at the corporate rate. Always worth asking. Alternatively, check out of the business hotel and move somewhere smaller and more interesting. Boutique hotels in the city's better neighborhoods often run 40 to 60 percent cheaper than conference-area chains, and the experience is more memorable.
 
-Lounge access on the return leg is also worth planning, especially on long-haul. Our article on [lounge access without a business ticket](/en/blog/lounge-access-without-business-ticket) covers the practical options.
+Lounge access on the return leg is also worth planning, especially on long-haul. Our article on [lounge access without a business ticket](/en/blog/lounge-access-without-business-ticket/) covers the practical options.
 
 ---
 
@@ -98,6 +98,6 @@ Employer-provided business travel insurance generally covers only working days. 
 
 ## Read more
 
-- [Business class without miles: how it still works](/en/blog/business-class-without-miles)
-- [Lounge access without a business ticket: all the options](/en/blog/lounge-access-without-business-ticket)
-- [Workation tax rules 2026: what you need to know](/en/blog/workation-tax-rules-2026)
+- [Business class without miles: how it still works](/en/blog/business-class-without-miles/)
+- [Lounge access without a business ticket: all the options](/en/blog/lounge-access-without-business-ticket/)
+- [Workation tax rules 2026: what you need to know](/en/blog/workation-tax-rules-2026/)

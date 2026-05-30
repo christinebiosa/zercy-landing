@@ -38,7 +38,7 @@ Noch ein konkreter Tipp: Montag und Dienstag sind statistisch die günstigsten W
 
 Flexible Daten sind dein bestes Werkzeug. Google Flights zeigt dir eine Kalenderansicht mit Preisen für den ganzen Monat. Ein Abflugtag Dienstag statt Freitag kann locker 30 bis 50 Euro Unterschied machen.
 
-Mehr dazu im Artikel: [Günstig fliegen: Insider-Tipps für Studentenbudgets](/blog/guenstig-fliegen-tipps)
+Mehr dazu im Artikel: [Günstig fliegen: Insider-Tipps für Studentenbudgets](/blog/guenstig-fliegen-tipps/)
 
 ## Welche Karten und Ausweise spart dir wirklich Geld?
 
@@ -52,7 +52,7 @@ Zwei Dinge sollte jeder reisende Student kennen.
 
 **Erasmus-Budget.** Falls du gerade in einem Erasmus-Programm bist oder dich bewirbst: Das monatliche Erasmus-Stipendium ist auch dazu gedacht, das Gastland zu erkunden. Naheliegende Städte kosten keine 100 Euro für ein Wochenende.
 
-Für Einsteiger ins Backpacking: [Backpacking-Einsteiger-Guide: Was du wirklich brauchst](/blog/backpacking-einsteiger-guide)
+Für Einsteiger ins Backpacking: [Backpacking-Einsteiger-Guide: Was du wirklich brauchst](/blog/backpacking-einsteiger-guide/)
 
 ## Was kostet in Europa gar nichts?
 
@@ -66,13 +66,13 @@ Aktivitäten sind der versteckte Kostenfaktor auf Reisen. Wer ausschließlich au
 
 **Zercy nutzen.** Sag der App einfach, wohin du willst und was du ausgeben kannst. Zercy schaut dir die günstigsten Flugoptionen und zeigt dir passende Hostels. [Hier Trip starten](https://zercy.app)
 
-Alle Tipps zu Handgepäck und Kosten sparen: [Nur Handgepäck: So reist du ohne Aufpreis](/blog/nur-handgepaeck)
+Alle Tipps zu Handgepäck und Kosten sparen: [Nur Handgepäck: So reist du ohne Aufpreis](/blog/nur-handgepaeck/)
 
 ## Mehr lesen
 
-- [Günstig fliegen: Insider-Tipps für Studentenbudgets](/blog/guenstig-fliegen-tipps)
-- [Backpacking-Einsteiger-Guide: Was du wirklich brauchst](/blog/backpacking-einsteiger-guide)
-- [Flexible Dates: So findest du den günstigsten Flugtag](/blog/flexible-dates-flug-hack)
+- [Günstig fliegen: Insider-Tipps für Studentenbudgets](/blog/guenstig-fliegen-tipps/)
+- [Backpacking-Einsteiger-Guide: Was du wirklich brauchst](/blog/backpacking-einsteiger-guide/)
+- [Flexible Dates: So findest du den günstigsten Flugtag](/blog/flexible-dates-flug-hack/)
 
 ---
 

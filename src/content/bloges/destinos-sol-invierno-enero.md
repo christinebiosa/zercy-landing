@@ -127,6 +127,6 @@ Canarias: la opción más económica, vuelo desde 60 EUR, hotel desde 60 EUR. Hu
 ---
 
 **Más información:**
-- [Dónde alojarse en Cancún: Guía por zonas](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Bali: Las mejores zonas](/es/blog/donde-alojarse-bali)
-- [Dónde alojarse en Lima: Guía por barrios](/es/blog/donde-alojarse-lima)
+- [Dónde alojarse en Cancún: Guía por zonas](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Bali: Las mejores zonas](/es/blog/donde-alojarse-bali/)
+- [Dónde alojarse en Lima: Guía por barrios](/es/blog/donde-alojarse-lima/)

@@ -22,7 +22,7 @@ Kulturell ist die Türkei intensiver. [Kappadokien](https://www.goturkey.com/des
 
 Bodrum und die Ägäis-Küste bieten Party, Strand und Yacht-Atmosphäre. Alanya in der Nähe von Antalya ist eher für jüngere Gruppen. Wer einen langen Weg bis zum ersten wirklich warmen Wasser will, profitiert: die Türkei hat April und Mai oft schon badewarm, während Griechenland erst im Juni zuverlässig warm wird.
 
-Zu den [günstig-fliegen-tipps](/blog/guenstig-fliegen-tipps): Verbindungen von Wien, Frankfurt und Zürich nach Istanbul, Antalya oder Bodrum gibt es ab 100 Euro Hin-Rückflug außerhalb der Hauptsaison.
+Zu den [günstig-fliegen-tipps](/blog/guenstig-fliegen-tipps/): Verbindungen von Wien, Frankfurt und Zürich nach Istanbul, Antalya oder Bodrum gibt es ab 100 Euro Hin-Rückflug außerhalb der Hauptsaison.
 
 ## Wann ist Griechenland die bessere Wahl?
 
@@ -34,7 +34,7 @@ Griechisches Essen schlägt die Konkurrenz für viele Westeuropäer klar. Frisch
 
 Kreta als Familien-Option: große Strände mit flachem Wasser, kurze Wege zwischen Sehenswürdigkeiten, weniger Partytourismus als auf Mykonos oder Ios. Wer mit Kindern reist, ist hier gut aufgehoben. Dazu: Griechenland bleibt bis Oktober warm. September und Oktober sind oft die schönsten Monate. Weniger Menschenmassen, noch angenehme Temperaturen, günstigere Hotels.
 
-Für den Vergleich der Inseln: [Griechenland Inseln im Vergleich](/blog/griechenland-inseln-vergleich) zeigt konkret, welche Insel zu welchem Reiseprofil passt.
+Für den Vergleich der Inseln: [Griechenland Inseln im Vergleich](/blog/griechenland-inseln-vergleich/) zeigt konkret, welche Insel zu welchem Reiseprofil passt.
 
 ## Wie teuer ist der Vergleich wirklich?
 
@@ -56,7 +56,7 @@ Konkrete Zahlen helfen mehr als pauschale Aussagen.
 
 Wer zwei Wochen Urlaub mit etwas Komfort plant und ein festes Budget hat, kann in der Türkei deutlich mehr erleben. Bei Griechenland sollte das Budget großzügiger kalkuliert sein.
 
-Den [flexible-dates-flug-hack](/blog/flexible-dates-flug-hack) anwenden: beide Destinationen sind zeitflexibel günstig zu erreichen. Eine Woche früher oder später kann 30 bis 50 Prozent beim Flug sparen.
+Den [flexible-dates-flug-hack](/blog/flexible-dates-flug-hack/) anwenden: beide Destinationen sind zeitflexibel günstig zu erreichen. Eine Woche früher oder später kann 30 bis 50 Prozent beim Flug sparen.
 
 ## Wie sicher sind beide Länder wirklich?
 
@@ -66,7 +66,7 @@ Die Türkei hat einen schlechteren Ruf als die Realität. Touristenzonen wie Ant
 
 Einreise: beide Länder sind für EU-Bürger unkompliziert. Türkei e-Visum (20 Dollar, online in wenigen Minuten), Griechenland visumsfreie Einreise als EU-Mitglied.
 
-Mehr zur Reiseplanung mit flexiblen Optionen: [Wo übernachten in Athen](/blog/wo-uebernachten-athen) für Griechenland-Reisende.
+Mehr zur Reiseplanung mit flexiblen Optionen: [Wo übernachten in Athen](/blog/wo-uebernachten-athen/) für Griechenland-Reisende.
 
 ## Was ist das Fazit?
 
@@ -81,9 +81,9 @@ Keines ist besser. Sie sind anders. Und manchmal hilft ein Werkzeug, das Preise 
 Zercy zeigt dir live, was Flüge und Hotels in beiden Destinationen kosten. Gib einfach deinen Startpunkt und den Reisezeitraum ein. Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
 
 **Mehr lesen:**
-- [Griechenland Inseln: Welche passt zu dir?](/blog/griechenland-inseln-vergleich)
-- [Günstig fliegen: Die besten Tricks](/blog/guenstig-fliegen-tipps)
-- [Flexible Dates Hack: Bis zu 50% sparen](/blog/flexible-dates-flug-hack)
+- [Griechenland Inseln: Welche passt zu dir?](/blog/griechenland-inseln-vergleich/)
+- [Günstig fliegen: Die besten Tricks](/blog/guenstig-fliegen-tipps/)
+- [Flexible Dates Hack: Bis zu 50% sparen](/blog/flexible-dates-flug-hack/)
 
 ## Häufige Fragen
 

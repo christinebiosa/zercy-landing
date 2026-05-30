@@ -70,6 +70,6 @@ Irish Stew with lamb and potatoes in traditional pubs. A Full Irish Breakfast in
 ---
 
 **Read more:**
-- [Scandinavia Road Trip: The Best Route Through the North](/en/blog/scandinavia-road-trip-route)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Train vs. Plane in Europe 2026](/en/blog/train-vs-plane-europe-2026)
+- [Scandinavia Road Trip: The Best Route Through the North](/en/blog/scandinavia-road-trip-route/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Train vs. Plane in Europe 2026](/en/blog/train-vs-plane-europe-2026/)

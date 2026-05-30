@@ -83,6 +83,6 @@ Sistema de capas: ropa interior térmica, forro polar, chaqueta impermeable, cha
 
 ## Más artículos
 
-- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights)
-- [Lista de equipaje de viaje: Lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial)
-- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights/)
+- [Lista de equipaje de viaje: Lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial/)
+- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

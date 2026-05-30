@@ -35,7 +35,7 @@ Baixa ist das nach dem Erdbeben 1755 wieder aufgebaute Geschäftsviertel. Heute 
 
 **Top-Picks:** Lumiares Hotel (Boutique mit Dachterrassen-Pool), Browns Downtown (modern, zentral), Internacional Design Hotel (mittelklasse, Designer-Zimmer). Diese und 1.500+ weitere Lissabon-Hotels findest du auf [Booking.com](https://www.booking.com) mit Stadtteil-Filter und kostenlosem Storno.
 
-Direkter Zugang zu allen Sehenswürdigkeiten, perfekte Anbindung mit der grünen Metro-Linie. Die [offizielle portugiesische Tourismusbehörde](https://www.visitportugal.com/de/destinos/lisboa) hat eine kuratierte Übersicht zu Lissabons Stadtteilen und empfohlenen Hotels. Lies dazu auch unseren [Lissabon-Guide abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade) für Inspirationen jenseits der Hauptattraktionen.
+Direkter Zugang zu allen Sehenswürdigkeiten, perfekte Anbindung mit der grünen Metro-Linie. Die [offizielle portugiesische Tourismusbehörde](https://www.visitportugal.com/de/destinos/lisboa) hat eine kuratierte Übersicht zu Lissabons Stadtteilen und empfohlenen Hotels. Lies dazu auch unseren [Lissabon-Guide abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/) für Inspirationen jenseits der Hauptattraktionen.
 
 ## Alfama: Das Herz von Lissabon
 
@@ -103,7 +103,7 @@ Die wichtigste Frage. Drei Optionen.
 
 **Airbnb nur als Plan B:** Lissabon hat strenge Regulierung für Kurzzeit-Vermietung. Viele "AirBnB-Apartments" sind illegal vermietet, Behörden räumen regelmäßig. Bei Booking.com gibts dieselben Apartments oft legal und mit Schutz.
 
-Lies dazu unseren detaillierten [AirBnB vs Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich).
+Lies dazu unseren detaillierten [AirBnB vs Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich/).
 
 ---
 
@@ -130,6 +130,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel, Selbstverpflegung). Mitt
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona)
-- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
-- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade)
+- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona/)
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris/)
+- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/)

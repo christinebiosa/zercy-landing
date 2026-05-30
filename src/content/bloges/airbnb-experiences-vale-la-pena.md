@@ -42,7 +42,7 @@ La plataforma ha crecido mucho y con eso llegaron experiencias mediocres. Señal
 
 **Descripción genérica.** Si la descripción podría aplicarse a cualquier ciudad del mundo, probablemente no sea muy especial.
 
-Para destinos latinoamericanos como [Medellín](/es/blog/donde-alojarse-medellin) o [Cartagena](/es/blog/donde-alojarse-cartagena), las Airbnb Experiences de fotografía de barrio, tour de grafiti y clases de cocina local tienen valoraciones consistentemente altas.
+Para destinos latinoamericanos como [Medellín](/es/blog/donde-alojarse-medellin/) o [Cartagena](/es/blog/donde-alojarse-cartagena/), las Airbnb Experiences de fotografía de barrio, tour de grafiti y clases de cocina local tienen valoraciones consistentemente altas.
 
 ## ¿Cuánto cuestan las Airbnb Experiences y qué alternativas existen?
 
@@ -83,6 +83,6 @@ El precio refleja varios factores: el coste de los materiales o ingredientes inc
 ---
 
 **Leer más:**
-- [Cómo elegir y reservar un hostel sin sorpresas](/es/blog/guia-reservar-hostel)
-- [Dónde alojarse en Buenos Aires: los mejores barrios](/es/blog/donde-alojarse-buenos-aires)
-- [48 horas en Barcelona: lo imprescindible](/es/blog/48-horas-barcelona)
+- [Cómo elegir y reservar un hostel sin sorpresas](/es/blog/guia-reservar-hostel/)
+- [Dónde alojarse en Buenos Aires: los mejores barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [48 horas en Barcelona: lo imprescindible](/es/blog/48-horas-barcelona/)

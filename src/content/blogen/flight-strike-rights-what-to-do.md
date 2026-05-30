@@ -24,7 +24,7 @@ Put simply: if Ryanair's staff strikes, Ryanair pays. If French air traffic cont
 
 One important note: the airline must prove that extraordinary circumstances apply. That burden is on them, not you.
 
-For a full breakdown of how EU261 works: [Flight Delay Compensation Under EU261 Explained](/en/blog/flight-delay-compensation-eu261).
+For a full breakdown of how EU261 works: [Flight Delay Compensation Under EU261 Explained](/en/blog/flight-delay-compensation-eu261/).
 
 ## What Must the Airline Provide Regardless?
 
@@ -69,9 +69,9 @@ Acting fast matters. Here is what to do right away:
 
 **5. Contact the ECC if the airline ignores you.** The European Consumer Centre mediates between you and airlines at no cost. Especially useful for cross-border EU flights.
 
-If you have travel insurance, check your policy now. Some policies cover strikes as a reason for trip cancellation. Others explicitly exclude them. The differences are significant. See our full breakdown: [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+If you have travel insurance, check your policy now. Some policies cover strikes as a reason for trip cancellation. Others explicitly exclude them. The differences are significant. See our full breakdown: [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
 
-Also worth reading before your next trip: [Airport Hacks: How to Survive Long Layovers](/en/blog/airport-hacks).
+Also worth reading before your next trip: [Airport Hacks: How to Survive Long Layovers](/en/blog/airport-hacks/).
 
 ## Frequently Asked Questions About Flight Strikes
 
@@ -95,6 +95,6 @@ The European Consumer Centre offers free advice and mediation. More information 
 
 Read more:
 
-- [Flight Delay Compensation Under EU261: How to Claim](/en/blog/flight-delay-compensation-eu261)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Airport Hacks: Survive Any Layover Like a Pro](/en/blog/airport-hacks)
+- [Flight Delay Compensation Under EU261: How to Claim](/en/blog/flight-delay-compensation-eu261/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Airport Hacks: Survive Any Layover Like a Pro](/en/blog/airport-hacks/)

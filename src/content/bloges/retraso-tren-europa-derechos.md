@@ -47,7 +47,7 @@ Online a través del portal de derechos del pasajero de la DB o mediante la app.
 
 **Eurostar y servicios internacionales:** Cada empresa tiene su propio proceso, normalmente online, a veces mediante formulario en la estación.
 
-Más sobre viajes en tren en Europa: la [guía de trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026) y la [comparativa tren vs. avión en Europa](/es/blog/tren-vs-avion-europa-2026).
+Más sobre viajes en tren en Europa: la [guía de trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026/) y la [comparativa tren vs. avión en Europa](/es/blog/tren-vs-avion-europa-2026/).
 
 ## ¿A qué más tienes derecho con retrasos largos?
 
@@ -77,12 +77,12 @@ En España puedes acudir a la Agencia Estatal de Seguridad Ferroviaria (AESF) o 
 EU261 se aplica exclusivamente a los vuelos. Para los trenes aplica el Reglamento UE 1371/2007. Estructura similar, pero importes distintos (25 y 50 por ciento del precio del billete, no una compensación plana de 250 a 600 euros) y excepciones diferentes.
 
 ### ¿Cuándo es mejor el tren que el avión en Europa?
-En trayectos de hasta 4 a 5 horas en tren (por ejemplo Madrid-París en TGV, Madrid-Barcelona en AVE, Berlín-Amsterdam) el tren suele ser la mejor opción. Sin caos aeroportuario, de centro a centro, sin estrés de equipaje. Más en la [comparativa tren vs. avión en Europa](/es/blog/tren-vs-avion-europa-2026).
+En trayectos de hasta 4 a 5 horas en tren (por ejemplo Madrid-París en TGV, Madrid-Barcelona en AVE, Berlín-Amsterdam) el tren suele ser la mejor opción. Sin caos aeroportuario, de centro a centro, sin estrés de equipaje. Más en la [comparativa tren vs. avión en Europa](/es/blog/tren-vs-avion-europa-2026/).
 
 ---
 
 ## Más información
 
-- [Retraso de vuelo: Compensación según EU261](/es/blog/retraso-vuelo-compensacion-eu261)
-- [Tren vs. avión en Europa 2026: La comparativa honesta](/es/blog/tren-vs-avion-europa-2026)
-- [Trenes nocturnos en Europa 2026: Todas las rutas](/es/blog/trenes-nocturnos-europa-2026)
+- [Retraso de vuelo: Compensación según EU261](/es/blog/retraso-vuelo-compensacion-eu261/)
+- [Tren vs. avión en Europa 2026: La comparativa honesta](/es/blog/tren-vs-avion-europa-2026/)
+- [Trenes nocturnos en Europa 2026: Todas las rutas](/es/blog/trenes-nocturnos-europa-2026/)

@@ -57,7 +57,7 @@ Esto es tan importante como saber qué llevar:
 - **Libros físicos**: usa Kindle o ebooks
 - **"Por si acaso"**: la trampa mental de llevar cosas para situaciones improbables es la que llena las maletas. Si algo solo se usaría "por si acaso", déjalo.
 
-Para los líquidos, la norma de los 100 ml sigue vigente en equipaje de mano. Ver la guía completa de [líquidos en el avión](/es/blog/liquidos-equipaje-mano-2026).
+Para los líquidos, la norma de los 100 ml sigue vigente en equipaje de mano. Ver la guía completa de [líquidos en el avión](/es/blog/liquidos-equipaje-mano-2026/).
 
 ## Cómo organizarse para viajes de más de 2 semanas con solo equipaje de mano
 
@@ -94,6 +94,6 @@ En vuelos muy llenos, el personal de puerta a veces pide que las mochilas vayan 
 ---
 
 **Más para leer:**
-- [Maleta cápsula: cómo empacar ligero con estilo](/es/blog/maleta-capsula-equipaje-mano)
-- [Líquidos en el avión: normas actualizadas 2026](/es/blog/liquidos-equipaje-mano-2026)
-- [Normas del powerbank en equipaje de mano](/es/blog/normas-powerbank-equipaje-mano)
+- [Maleta cápsula: cómo empacar ligero con estilo](/es/blog/maleta-capsula-equipaje-mano/)
+- [Líquidos en el avión: normas actualizadas 2026](/es/blog/liquidos-equipaje-mano-2026/)
+- [Normas del powerbank en equipaje de mano](/es/blog/normas-powerbank-equipaje-mano/)

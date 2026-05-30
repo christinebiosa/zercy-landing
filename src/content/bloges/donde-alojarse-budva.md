@@ -67,7 +67,7 @@ Los hoteles en Bečići suelen ser más grandes y orientados a familias, con com
 
 **Mejores opciones:** Iberostar Bellevue (opción todo incluido, larga franja de playa), Splendid Conference Beach Resort (gran hotel con spa), varios resorts familiares con piscinas.
 
-Si estás planeando un [road trip por los Balcanes](/es/blog/balcanes-road-trip-ruta), Budva se combina muy bien con Kotor y Dubrovnik. Tres ciudades, tres atmósferas distintas. Todo a menos de una hora de distancia entre sí.
+Si estás planeando un [road trip por los Balcanes](/es/blog/balcanes-road-trip-ruta/), Budva se combina muy bien con Kotor y Dubrovnik. Tres ciudades, tres atmósferas distintas. Todo a menos de una hora de distancia entre sí.
 
 ## Petrovac: Sur de Montenegro, sin prisa
 
@@ -81,7 +81,7 @@ Petrovac es más barato que Budva. Predominan los apartamentos y los pequeños g
 
 **Mejores opciones:** Hotel Rivijera (junto a la playa, pequeño y cómodo), Palas Hotel (edificio histórico con vistas al mar), varios apartamentos privados con terrazas con vistas a la bahía.
 
-Si también quieres visitar la bahía de Kotor: la guía [dónde alojarse en Kotor](/es/blog/donde-alojarse-kotor) cubre todos los barrios, desde el casco antiguo veneciano hasta el puerto deportivo de lujo de Porto Montenegro.
+Si también quieres visitar la bahía de Kotor: la guía [dónde alojarse en Kotor](/es/blog/donde-alojarse-kotor/) cubre todos los barrios, desde el casco antiguo veneciano hasta el puerto deportivo de lujo de Porto Montenegro.
 
 ## Sveti Stefan: La isla de lujo
 
@@ -95,7 +95,7 @@ Quienes no se alojan en el resort pueden fotografiar la isla desde el paseo. Las
 
 **Mejores opciones:** Aman Sveti Stefan (resort icónico de lujo), Villa Milocer (edificio principal del complejo Aman con playa privada), varias villas privadas en los alrededores.
 
-Para comparar las costas del Adriático, la guía de las [mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026) explica por qué Montenegro ya compite seriamente con Croacia.
+Para comparar las costas del Adriático, la guía de las [mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/) explica por qué Montenegro ya compite seriamente con Croacia.
 
 ## ¿Dónde conviene reservar al final?
 
@@ -133,6 +133,6 @@ En coche de alquiler o en autobús: unas 2,5 a 3 horas, con un breve cruce de fr
 ---
 
 **Más artículos:**
-- [Road Trip por los Balcanes: Ruta, Paradas y Consejos](/es/blog/balcanes-road-trip-ruta)
-- [Dónde alojarse en Kotor: Ciudad Vieja, Dobrota o Tivat](/es/blog/donde-alojarse-kotor)
-- [Las Mejores Playas de Europa 2026: La Lista Honesta](/es/blog/mejores-playas-europa-2026)
+- [Road Trip por los Balcanes: Ruta, Paradas y Consejos](/es/blog/balcanes-road-trip-ruta/)
+- [Dónde alojarse en Kotor: Ciudad Vieja, Dobrota o Tivat](/es/blog/donde-alojarse-kotor/)
+- [Las Mejores Playas de Europa 2026: La Lista Honesta](/es/blog/mejores-playas-europa-2026/)

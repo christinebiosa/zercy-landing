@@ -36,7 +36,7 @@ Three common misconceptions that distort the concept.
 
 **Slow travel isn't "anti-tourist".** You don't have to "live like a local" or avoid tourist attractions. Slow travel says: do less, but deeper. Visit the famous museum, but stay two hours, not twenty minutes.
 
-If slower transport interests you, see our [night trains guide](/en/blog/night-trains-europe-2026) and [train travel in Europe guide](/en/blog/train-travel-europe).
+If slower transport interests you, see our [night trains guide](/en/blog/night-trains-europe-2026/) and [train travel in Europe guide](/en/blog/train-travel-europe/).
 
 ## How do you actually do slow travel?
 
@@ -44,7 +44,7 @@ A method that works on every travel budget.
 
 **Step 1: Halve your destinations.** If you'd normally visit 6 cities in 14 days, do 3. Distribute by trip type: 4 nights plus 4 nights plus 6 nights.
 
-**Step 2: Book an apartment instead of a hotel.** At least for longer stops. See our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison). Booking.com also offers apartments.
+**Step 2: Book an apartment instead of a hotel.** At least for longer stops. See our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison/). Booking.com also offers apartments.
 
 **Step 3: One daily goal maximum.** Not "morning art, midday market, afternoon neighborhood tour, evening restaurant". But "today explore neighborhood X", all day. Build in café breaks.
 
@@ -56,7 +56,7 @@ A method that works on every travel budget.
 
 Three measurable and one psychological benefit.
 
-CO2 savings. Whoever moves 5 times in two weeks flies or drives 5 times. Whoever arrives once and stays 14 days, once. See our [carbon offset article](/en/blog/flight-carbon-offsets-truth).
+CO2 savings. Whoever moves 5 times in two weeks flies or drives 5 times. Whoever arrives once and stays 14 days, once. See our [carbon offset article](/en/blog/flight-carbon-offsets-truth/).
 
 Lower daily spending. Apartments cheaper per night than hotels (from 5+ nights), restaurants cheaper if you also cook, fewer entrance fees because fewer sights per day. A slow travel week usually costs 30 to 40 percent less than a rushed week.
 
@@ -91,6 +91,6 @@ About 30 to 40 percent cheaper than a comparable rushed week. Apartment instead 
 ---
 
 **Read more:**
-- [Flight carbon offsets: do they actually work?](/en/blog/flight-carbon-offsets-truth)
-- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026)
-- [Train travel in Europe: routes, tips and apps](/en/blog/train-travel-europe)
+- [Flight carbon offsets: do they actually work?](/en/blog/flight-carbon-offsets-truth/)
+- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026/)
+- [Train travel in Europe: routes, tips and apps](/en/blog/train-travel-europe/)

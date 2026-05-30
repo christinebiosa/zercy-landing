@@ -16,7 +16,7 @@ Immer mehr Reisende merken: Die echte Pause beginnt erst, wenn das Gerät weg is
 
 Es ist kein Trend der Wellness-Influencer. Es ist eine Reaktion auf einen echten Erschöpfungszustand. Studien zeigen, dass 3 bis 5 Tage vollständig offline den Cortisolspiegel messbar senken. Das ist jenes Stresshormon, das bei dauerhafter Erreichbarkeit dauerhaft erhöht bleibt. Schlaf verbessert sich. Konzentration kehrt zurück. Und Momente aus dem Urlaub bleiben im Gedächtnis, weil sie wirklich erlebt wurden.
 
-Für viele ist der [Slow Travel-Ansatz](/blog/slow-travel-bedeutet-was) der erste Schritt. Der Detox ist der konsequentere.
+Für viele ist der [Slow Travel-Ansatz](/blog/slow-travel-bedeutet-was/) der erste Schritt. Der Detox ist der konsequentere.
 
 ## Welche Destinationen eignen sich für einen Digital Detox Urlaub?
 
@@ -28,7 +28,7 @@ Nicht jeder Ort zwingt zum Loslassen. Manche Städte sind laut und vernetzt. And
 
 **Klöster als Unterkunft** sind eine unterschätzte Option. In Österreich, Deutschland, Frankreich und Katalonien bieten Klöster Gästezimmer an. Die Regeln sind einfach: kein Lärm, keine Bildschirme, strukturierte Tageszeiten. Kosten: oft 35 bis 55 Euro pro Nacht inklusive Mahlzeiten.
 
-Die [Färöer Inseln](/blog/faeroeer-inseln-guide) stehen für sich. Kaum Tourismus, wenig Infrastruktur, kein Algorithmus, der dir sagt was du als nächstes sehen sollst.
+Die [Färöer Inseln](/blog/faeroeer-inseln-guide/) stehen für sich. Kaum Tourismus, wenig Infrastruktur, kein Algorithmus, der dir sagt was du als nächstes sehen sollst.
 
 ## Vollständiger Detox oder Social-Media-Pause: Was bringt mehr?
 
@@ -52,7 +52,7 @@ Die Vorbereitung ist der kritische Teil. Wer unvorbereitet offline geht, findet 
 
 Camp Grounded in den USA war eines der ersten Detox-Retreats mit klaren Geräte-freien Regeln. Das Modell hat sich inzwischen weltweit verbreitet. Einen guten Überblick bietet [camp-grounded.org](https://www.campgrounded.org) für das Konzept dahinter.
 
-Für den [Wellness- und Spa-Urlaub](/blog/wellness-spa-reisen-destinationen) eignen sich Eco-Lodges, die gezielt kein WLAN anbieten. Das ist kein Sparmaßnahme. Das ist Programm.
+Für den [Wellness- und Spa-Urlaub](/blog/wellness-spa-reisen-destinationen/) eignen sich Eco-Lodges, die gezielt kein WLAN anbieten. Das ist kein Sparmaßnahme. Das ist Programm.
 
 ## Was kostet ein Digital Detox Urlaub?
 
@@ -60,7 +60,7 @@ Weniger als erwartet. Das ist einer der überraschendsten Aspekte.
 
 Klöster: 35 bis 55 Euro pro Nacht, oft mit Verpflegung. Eco-Lodges in den Pyrenäen: 40 bis 70 Euro pro Nacht. Hütten in Norwegen: ab 30 Euro bei einfacher Ausstattung, bis 90 Euro für komfortablere Lodges. Verglichen mit einem Stadthotel in Barcelona oder Amsterdam, das gerne das Dreifache kostet, ist Offline-Reisen günstig.
 
-Der [Trekking-Einsteiger-Guide](/blog/trekking-anfaenger-guide-weltweit) zeigt, wie ähnliche Erfahrungen in anderen alpinen Regionen möglich sind. Körperliche Aktivität und Offline-Zeit verstärken sich gegenseitig.
+Der [Trekking-Einsteiger-Guide](/blog/trekking-anfaenger-guide-weltweit/) zeigt, wie ähnliche Erfahrungen in anderen alpinen Regionen möglich sind. Körperliche Aktivität und Offline-Zeit verstärken sich gegenseitig.
 
 ---
 
@@ -68,9 +68,9 @@ Zercy hilft dir, Verbindungen zu finden, Preise zu vergleichen und Alternativen 
 
 ## Mehr lesen
 
-- [Slow Travel: Was bedeutet das wirklich?](/blog/slow-travel-bedeutet-was)
-- [Wellness & Spa Reisen: Die besten Destinationen](/blog/wellness-spa-reisen-destinationen)
-- [Färöer Inseln: Der vollständige Reiseführer](/blog/faeroeer-inseln-guide)
+- [Slow Travel: Was bedeutet das wirklich?](/blog/slow-travel-bedeutet-was/)
+- [Wellness & Spa Reisen: Die besten Destinationen](/blog/wellness-spa-reisen-destinationen/)
+- [Färöer Inseln: Der vollständige Reiseführer](/blog/faeroeer-inseln-guide/)
 
 ---
 

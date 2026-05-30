@@ -39,7 +39,7 @@ Harajuku follows: Takeshita-Dori with crepes in impossible shapes and youth fash
 
 The Golden Gai is a maze of bars holding 5 to 8 people each. System: enter, one drink, move on. Cover charge 500 to 1,000 yen. Kabukicho next door is the neon face of Tokyo at night. Safe. Overwhelming. Worth seeing once.
 
-For accommodation options, check our guide on [where to stay in Tokyo](/en/blog/where-to-stay-tokyo).
+For accommodation options, check our guide on [where to stay in Tokyo](/en/blog/where-to-stay-tokyo/).
 
 ## Day 2: Meiji Jingu, Shimokitazawa and Akihabara
 
@@ -53,7 +53,7 @@ The official [Go Tokyo tourism portal](https://www.gotokyo.org) has updated open
 
 Shimokitazawa needs no pitch. No major temple, no observation deck. Vintage stores, record collections, independent cafés, secondhand fashion. The tourists are elsewhere. Alternatively: Yanaka Ginza, shitamachi atmosphere, old craftsmen's Tokyo.
 
-For food discoveries beyond the tourist circuit: [Tokyo Foodie Trip](/en/blog/tokyo-foodie-trip).
+For food discoveries beyond the tourist circuit: [Tokyo Foodie Trip](/en/blog/tokyo-foodie-trip/).
 
 **Evening: Akihabara or Roppongi**
 
@@ -69,7 +69,7 @@ Less than most expect. Convenience stores (7-Eleven, Lawson) offer the best chea
 
 Rough budget for two people, two nights: 500 to 800 euros without flights. Load a Suica IC card at the airport (works on everything: metro, bus, shops). Buy pocket WiFi or a local SIM on arrival.
 
-For smart flight booking: [Airport Hacks](/en/blog/airport-hacks).
+For smart flight booking: [Airport Hacks](/en/blog/airport-hacks/).
 
 ## When Is the Best Time to Visit Tokyo?
 
@@ -102,6 +102,6 @@ Better than you'd think. Restaurants often have picture menus or plastic food mo
 ---
 
 **Read more:**
-- [Where to Stay in Tokyo: Best Neighborhoods and Hotels](/en/blog/where-to-stay-tokyo)
-- [Tokyo Foodie Trip: Eat Where Tokyo Actually Eats](/en/blog/tokyo-foodie-trip)
-- [Airport Hacks: Stop Wasting Time at the Airport](/en/blog/airport-hacks)
+- [Where to Stay in Tokyo: Best Neighborhoods and Hotels](/en/blog/where-to-stay-tokyo/)
+- [Tokyo Foodie Trip: Eat Where Tokyo Actually Eats](/en/blog/tokyo-foodie-trip/)
+- [Airport Hacks: Stop Wasting Time at the Airport](/en/blog/airport-hacks/)

@@ -18,7 +18,7 @@ La regla es sencilla. Si tu viaje no está completamente confirmado, siempre res
 
 En plataformas como [Booking.com](https://www.booking.com/content/terms.html), las condiciones de cancelación aparecen junto al precio. El texto en verde que dice "Cancelación gratuita" es lo que buscas. La tarifa no reembolsable solo tiene sentido cuando estás completamente seguro de que el viaje va a suceder exactamente como planeaste.
 
-Relacionado: [¿Reservar en línea o directo con el hotel? Qué conviene más](/es/blog/reservar-online-o-directo)
+Relacionado: [¿Reservar en línea o directo con el hotel? Qué conviene más](/es/blog/reservar-online-o-directo/)
 
 ## ¿Cuáles son los plazos de cancelación más comunes?
 
@@ -32,7 +32,7 @@ Los plazos varían bastante según el tipo de hotel y la época del año.
 
 Un hábito práctico: cada vez que hagas una reserva, anota el plazo de cancelación en tu calendario inmediatamente. No mañana. Ahora.
 
-Relacionado: [Cómo reservar un hotel más barato: trucos que realmente funcionan](/es/blog/reservar-hotel-barato-trucos)
+Relacionado: [Cómo reservar un hotel más barato: trucos que realmente funcionan](/es/blog/reservar-hotel-barato-trucos/)
 
 ## ¿Qué pasa si haces un no-show?
 
@@ -44,7 +44,7 @@ Hay excepciones. Una emergencia médica con documentación a veces resulta en un
 
 Aquí es donde el seguro de viaje justifica su costo. Un buen seguro de cancelación de viaje cubre los gastos del hotel cuando cancelas por enfermedad, accidente o fallecimiento de un familiar. Para quienes viajan con frecuencia, esto no es un lujo. Es una protección básica.
 
-Más información: [Seguro de cancelación de viaje: qué cubre realmente](/es/blog/seguro-cancelacion-viaje-guia)
+Más información: [Seguro de cancelación de viaje: qué cubre realmente](/es/blog/seguro-cancelacion-viaje-guia/)
 
 ## ¿Cómo cancelar correctamente y qué debes guardar?
 
@@ -81,9 +81,9 @@ Un seguro de cancelación de viaje o un seguro de viaje integral. Cubre situacio
 ---
 
 **Seguir leyendo:**
-- [Cambio o cancelación de vuelo: cómo hacerlo bien](/es/blog/cambio-cancelacion-vuelo-guia)
-- [Cómo reservar un hotel más barato: trucos que realmente funcionan](/es/blog/reservar-hotel-barato-trucos)
-- [Seguro de cancelación de viaje: qué cubre realmente](/es/blog/seguro-cancelacion-viaje-guia)
+- [Cambio o cancelación de vuelo: cómo hacerlo bien](/es/blog/cambio-cancelacion-vuelo-guia/)
+- [Cómo reservar un hotel más barato: trucos que realmente funcionan](/es/blog/reservar-hotel-barato-trucos/)
+- [Seguro de cancelación de viaje: qué cubre realmente](/es/blog/seguro-cancelacion-viaje-guia/)
 
 ---
 

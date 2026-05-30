@@ -56,7 +56,7 @@ Dos opciones muy diferentes que vale la pena destacar.
 
 ## Joyas ocultas: Albania y Montenegro
 
-**Riviera albanesa:** Ksamil, Dhermi, Drymades. Agua turquesa, playas de guijarros blancos, sin infraestructura turística masificada todavía. Significativamente más barato que Grecia. Comparación directa con Mykonos: una cuarta parte del coste. Accesible en vuelo a Tirana o Corfú, luego autobús hacia el sur. La [guía de la riviera albanesa](/es/blog/albania-riviera-escondida) explica la ruta en detalle.
+**Riviera albanesa:** Ksamil, Dhermi, Drymades. Agua turquesa, playas de guijarros blancos, sin infraestructura turística masificada todavía. Significativamente más barato que Grecia. Comparación directa con Mykonos: una cuarta parte del coste. Accesible en vuelo a Tirana o Corfú, luego autobús hacia el sur. La [guía de la riviera albanesa](/es/blog/albania-riviera-escondida/) explica la ruta en detalle.
 
 **Ada Bojana, Montenegro:** Delta fluvial entre el río Bojana y el Adriático, reserva natural. El naturismo es tradicional pero no obligatorio. Laguna tranquila en un lado, mar abierto en el otro. Accesible desde Ulcinj. Infraestructura mínima, naturaleza máxima.
 
@@ -77,7 +77,7 @@ Algunas playas de esta lista solo son accesibles en vehículo propio. Reserva lo
 
 Las tarifas de aparcamiento, las tumbonas y las excursiones en barca se acumulan rápido. Un presupuesto de 30-60 EUR por persona y día de playa es realista en los lugares premium. En la riviera albanesa puedes apañarte con 10-15 EUR.
 
-Para planificar el coche de alquiler, la [guía de alquiler de coches](/es/blog/checklist-alquiler-coche) te ayuda a evitar costes inesperados.
+Para planificar el coche de alquiler, la [guía de alquiler de coches](/es/blog/checklist-alquiler-coche/) te ayuda a evitar costes inesperados.
 
 ---
 
@@ -104,6 +104,6 @@ Cala Mondragó en Mallorca es ideal: parque natural, agua poco profunda, sin tr�
 ---
 
 **Más información:**
-- [Riviera albanesa: La costa escondida](/es/blog/albania-riviera-escondida)
-- [Dónde alojarse en Mykonos: Los 5 barrios](/es/blog/donde-alojarse-mykonos)
-- [Checklist de alquiler de coche: lo que debes revisar](/es/blog/checklist-alquiler-coche)
+- [Riviera albanesa: La costa escondida](/es/blog/albania-riviera-escondida/)
+- [Dónde alojarse en Mykonos: Los 5 barrios](/es/blog/donde-alojarse-mykonos/)
+- [Checklist de alquiler de coche: lo que debes revisar](/es/blog/checklist-alquiler-coche/)

@@ -77,6 +77,6 @@ Genf ist mehr als UN und Uhren. Der Genfer See, die Altstadt, das Musée d'Art e
 
 ## Mehr lesen
 
-- [Wo übernachten in Nizza](/blog/wo-uebernachten-nizza)
-- [Wo übernachten in Salzburg](/blog/wo-uebernachten-salzburg)
-- [Wo übernachten in Wien](/blog/wo-uebernachten-wien)
+- [Wo übernachten in Nizza](/blog/wo-uebernachten-nizza/)
+- [Wo übernachten in Salzburg](/blog/wo-uebernachten-salzburg/)
+- [Wo übernachten in Wien](/blog/wo-uebernachten-wien/)

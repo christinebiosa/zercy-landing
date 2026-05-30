@@ -40,7 +40,7 @@ Roundabouts are the biggest mental shift. In Scotland, you go around to the righ
 
 Single-track roads are common in the Highlands. When you meet oncoming traffic, pull into the nearest passing place and wait. This is the local norm. No frustration, no horn use, just patience.
 
-Before you drive, read through our [rental car checklist](/en/blog/rental-car-checklist), which covers the insurance options you need and what to watch out for in UK rental contracts specifically after Brexit.
+Before you drive, read through our [rental car checklist](/en/blog/rental-car-checklist/), which covers the insurance options you need and what to watch out for in UK rental contracts specifically after Brexit.
 
 ## When is the best time to visit the Scottish Highlands?
 
@@ -52,7 +52,7 @@ July and August: Warmest months, longest days, highest visitor numbers. Accommod
 
 September: Many seasoned Scotland visitors call September the best month. Fewer people than August, heather in full purple bloom, and often warm golden light in the evenings.
 
-If you love the idea of discovering underrated corners of Europe, our [hidden gems Europe guide](/en/blog/hidden-gems-europe) covers several destinations with a similar wild and unspoiled feel.
+If you love the idea of discovering underrated corners of Europe, our [hidden gems Europe guide](/en/blog/hidden-gems-europe/) covers several destinations with a similar wild and unspoiled feel.
 
 Book your stops, note your driving days, and organize your accommodation choices in advance. Save your picks in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything ready when booking.
 
@@ -66,7 +66,7 @@ The NC500 is roughly 500 miles of road, but the driving time is not the main con
 
 ### What does a Scottish Highlands road trip cost?
 
-A rough breakdown: rental car from 40 to 60 euros per day, B&B accommodation from 60 to 120 pounds per night, pub meals from 15 to 25 pounds per main course. Campervans reduce accommodation costs substantially. Two people doing a seven-day Highlands trip can budget from around 1,200 euros depending on choices. Edinburgh is a common and worthwhile starting or ending point. See our [where to stay in Edinburgh](/en/blog/where-to-stay-edinburgh) guide for neighbourhood and hotel recommendations.
+A rough breakdown: rental car from 40 to 60 euros per day, B&B accommodation from 60 to 120 pounds per night, pub meals from 15 to 25 pounds per main course. Campervans reduce accommodation costs substantially. Two people doing a seven-day Highlands trip can budget from around 1,200 euros depending on choices. Edinburgh is a common and worthwhile starting or ending point. See our [where to stay in Edinburgh](/en/blog/where-to-stay-edinburgh/) guide for neighbourhood and hotel recommendations.
 
 ### Where is the best place to stay during a Highlands road trip?
 
@@ -79,6 +79,6 @@ October through April sees the fewest visitors, but many facilities are closed a
 ---
 
 **Read more:**
-- [Rental Car Checklist: Insurance and Key Checks](/en/blog/rental-car-checklist)
-- [Hidden Gems Europe: Underrated Destinations Worth the Trip](/en/blog/hidden-gems-europe)
-- [Where to Stay in Edinburgh: Best Neighbourhoods and Hotels](/en/blog/where-to-stay-edinburgh)
+- [Rental Car Checklist: Insurance and Key Checks](/en/blog/rental-car-checklist/)
+- [Hidden Gems Europe: Underrated Destinations Worth the Trip](/en/blog/hidden-gems-europe/)
+- [Where to Stay in Edinburgh: Best Neighbourhoods and Hotels](/en/blog/where-to-stay-edinburgh/)

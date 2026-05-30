@@ -47,7 +47,7 @@ On the slopes east of Plaza de Armas. Cusco's historical artist quarter with hun
 
 **Top picks:** Antigua Casona San Blas (boutique in restored colonial villa), Quinta San Blas by Ananay Hotels (boutique premium), Sonesta Cusco (classic mid-range).
 
-See our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route) if you're exploring Latin America.
+See our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route/) if you're exploring Latin America.
 
 ## When is the best time to visit Cusco?
 
@@ -122,6 +122,6 @@ Backpacker: $800-1,100 per person incl. flight Lima-Cusco (hostel in San Pedro, 
 ---
 
 **Read more:**
-- [Where to stay in Lima: 4 neighborhoods](/en/blog/where-to-stay-lima)
-- [Where to stay in Bogotá: 4 neighborhoods](/en/blog/where-to-stay-bogota)
-- [Costa Rica road trip: the perfect route](/en/blog/costa-rica-road-trip-route)
+- [Where to stay in Lima: 4 neighborhoods](/en/blog/where-to-stay-lima/)
+- [Where to stay in Bogotá: 4 neighborhoods](/en/blog/where-to-stay-bogota/)
+- [Costa Rica road trip: the perfect route](/en/blog/costa-rica-road-trip-route/)

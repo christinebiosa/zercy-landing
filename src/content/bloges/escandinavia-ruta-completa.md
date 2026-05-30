@@ -60,7 +60,7 @@ El invierno (octubre a marzo) es época de auroras boreales. Noruega y Suecia of
 
 **¿Coche de alquiler o transporte público?** Innecesario en ciudades, ideal en la región de los fiordos. Las carreteras costeras (Ruta Atlántica, Geiranger-Trollstigen) son una experiencia en sí mismas. Puedes comparar opciones en [Expedia](https://www.expedia.com).
 
-**Tarjetas de ciudad:** Oslo CityCard, Stockholm City Card — rentables si vas a visitar muchos museos. Más información en nuestra guía sobre [tarjetas turísticas y pases de museos](/es/blog/tarjetas-ciudad-museos-vale-la-pena).
+**Tarjetas de ciudad:** Oslo CityCard, Stockholm City Card — rentables si vas a visitar muchos museos. Más información en nuestra guía sobre [tarjetas turísticas y pases de museos](/es/blog/tarjetas-ciudad-museos-vale-la-pena/).
 
 **Comida:** Los supermercados (Rema 1000 en Noruega, ICA en Suecia) son accesibles. Desayuna en el hotel, compra el almuerzo en una tienda, date un capricho por las noches.
 
@@ -85,6 +85,6 @@ El tren es la opción más cómoda entre Copenhague, Estocolmo y Oslo. Los vuelo
 Los hostales en las principales ciudades ofrecen camas en dormitorios desde 25–35 euros por noche. Los apartamentos de Airbnb con cocina ahorran en comida. En la región de los fiordos, los campings (desde 15 euros) son muy populares, muchos con vistas directas al fiordo. La "allemannsretten" de Noruega incluso permite acampar libremente en la naturaleza.
 
 ## Más artículos
-- [Trenes nocturnos en Europa: viaja cómodo y económico](/es/blog/trenes-nocturnos-europa-2026)
-- [Auroras boreales 2026: dónde y cuándo verlas](/es/blog/auroras-boreales-2026)
-- [Islandia: guía de viaje completa](/es/blog/islandia-guia-viaje)
+- [Trenes nocturnos en Europa: viaja cómodo y económico](/es/blog/trenes-nocturnos-europa-2026/)
+- [Auroras boreales 2026: dónde y cuándo verlas](/es/blog/auroras-boreales-2026/)
+- [Islandia: guía de viaje completa](/es/blog/islandia-guia-viaje/)

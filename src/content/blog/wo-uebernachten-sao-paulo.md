@@ -44,7 +44,7 @@ Die beste Reisezeit hängt von den Events ab. Im März und April findet die São
 
 Regensaison ist Dezember bis März. Kurze, intensive Gewitter am Nachmittag. Für Stadterkundungen kein Problem, solange man flexibel plant.
 
-Für Brasilienreisen kombinierst du São Paulo am sinnvollsten mit [Wo übernachten in Rio de Janeiro](/blog/wo-uebernachten-rio-de-janeiro).
+Für Brasilienreisen kombinierst du São Paulo am sinnvollsten mit [Wo übernachten in Rio de Janeiro](/blog/wo-uebernachten-rio-de-janeiro/).
 
 ## Vila Madalena: Kunst, Graffiti, Nachtleben
 
@@ -105,6 +105,6 @@ Ein solides 4-Sterne-Hotel in Jardins kostet 100 bis 200 Euro. Design-Hotels in 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Rio de Janeiro: Ipanema, Copacabana oder Santa Teresa?](/blog/wo-uebernachten-rio-de-janeiro)
-- [Wo übernachten in Buenos Aires: Palermo, Recoleta oder San Telmo?](/blog/wo-uebernachten-buenos-aires)
-- [Wo übernachten in Medellin: El Poblado und die Alternativen](/blog/wo-uebernachten-medellin)
+- [Wo übernachten in Rio de Janeiro: Ipanema, Copacabana oder Santa Teresa?](/blog/wo-uebernachten-rio-de-janeiro/)
+- [Wo übernachten in Buenos Aires: Palermo, Recoleta oder San Telmo?](/blog/wo-uebernachten-buenos-aires/)
+- [Wo übernachten in Medellin: El Poblado und die Alternativen](/blog/wo-uebernachten-medellin/)

@@ -96,6 +96,6 @@ The City of Arts and Sciences (architect: Santiago Calatrava, 1998-2005) is Vale
 ---
 
 **Read more:**
-- [Where to Stay in Barcelona: Gothic Quarter or Eixample?](/en/blog/where-to-stay-barcelona)
-- [Where to Stay in Madrid: Chueca or Malasaña?](/en/blog/where-to-stay-madrid)
-- [Where to Stay in Seville: Triana or Old Town?](/en/blog/where-to-stay-seville)
+- [Where to Stay in Barcelona: Gothic Quarter or Eixample?](/en/blog/where-to-stay-barcelona/)
+- [Where to Stay in Madrid: Chueca or Malasaña?](/en/blog/where-to-stay-madrid/)
+- [Where to Stay in Seville: Triana or Old Town?](/en/blog/where-to-stay-seville/)

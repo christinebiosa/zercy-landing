@@ -38,7 +38,7 @@ Nicht jede Route ist gleich gut. Das Straßennetz, die Wildcamping-Freiheiten un
 
 **Schottland (NC500):** Die 516-Meilen-Runde um Nordschottland. Magische Landschaft, viele legale Wildcamping-Spots, keine Autobahnen nötig. Achtung: Schottland hat offiziell ein Recht auf Open Access, Wildcamping ist legal mit Respekt für die Umwelt.
 
-Unsere ausführlichere Schottland-Einschätzung findest du im [Schottland Highlands Roadtrip-Guide](/blog/wo-uebernachten-edinburgh) oder beim [Segelurlaub-Einsteiger-Guide](/blog/segelurlaub-einsteiger-guide) für Küstenrouten.
+Unsere ausführlichere Schottland-Einschätzung findest du im [Schottland Highlands Roadtrip-Guide](/blog/wo-uebernachten-edinburgh/) oder beim [Segelurlaub-Einsteiger-Guide](/blog/segelurlaub-einsteiger-guide/) für Küstenrouten.
 
 ## Was sind die Wildcamping-Regeln in Europa nach Land?
 
@@ -95,7 +95,7 @@ Der Markt hat sich konsolidiert. Drei Plattformen decken 90% des Angebots ab.
 
 Wer Campervans in Nordamerika sucht, schaut sich besser [Outdoorsy](https://www.outdoorsy.com) oder Cruise America an. Für Europa reichen die drei Genannten.
 
-Unsere [Mietwagen-Tipps für günstigeres Fahren](/blog/mietwagen-consolidator-guenstiger-fahren) gelten sinngemäß auch für Campervan-Buchungen: Frühbucherrabatt, Wochentag-Abholung und flexible Stornobedingungen beachten.
+Unsere [Mietwagen-Tipps für günstigeres Fahren](/blog/mietwagen-consolidator-guenstiger-fahren/) gelten sinngemäß auch für Campervan-Buchungen: Frühbucherrabatt, Wochentag-Abholung und flexible Stornobedingungen beachten.
 
 ---
 
@@ -122,6 +122,6 @@ Für Campervans bis 3,5 Tonnen reicht Klasse B (normaler PKW-Führerschein). Das
 ---
 
 **Mehr lesen:**
-- [Mietwagen günstig buchen: Consolidator-Tipps](/blog/mietwagen-consolidator-guenstiger-fahren)
-- [Segelurlaub als Einsteiger: Was wirklich zählt](/blog/segelurlaub-einsteiger-guide)
-- [Roadtrip Etappen richtig planen](/blog/roadtrip-etappen-planung)
+- [Mietwagen günstig buchen: Consolidator-Tipps](/blog/mietwagen-consolidator-guenstiger-fahren/)
+- [Segelurlaub als Einsteiger: Was wirklich zählt](/blog/segelurlaub-einsteiger-guide/)
+- [Roadtrip Etappen richtig planen](/blog/roadtrip-etappen-planung/)

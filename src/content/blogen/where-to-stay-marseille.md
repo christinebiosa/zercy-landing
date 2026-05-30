@@ -45,7 +45,7 @@ Just north of Vieux Port, Marseille's oldest neighborhood (founded 600 BC). Colo
 
 **Top picks:** Hotel Hermès (boutique with rooftop), Mama Shelter Marseille (designer boutique by Philippe Starck), apartments via Booking in Le Panier houses.
 
-See our [Puglia Southern Italy guide](/en/blog/puglia-southern-italy-guide) for the Italian variant.
+See our [Puglia Southern Italy guide](/en/blog/puglia-southern-italy-guide/) for the Italian variant.
 
 ## When is the best time to visit Marseille?
 
@@ -116,6 +116,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel in Le Panier, bouillabais
 ---
 
 **Read more:**
-- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris)
-- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona)
-- [Puglia Southern Italy Guide](/en/blog/puglia-southern-italy-guide)
+- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris/)
+- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona/)
+- [Puglia Southern Italy Guide](/en/blog/puglia-southern-italy-guide/)

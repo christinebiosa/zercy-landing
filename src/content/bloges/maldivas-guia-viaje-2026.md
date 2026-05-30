@@ -62,7 +62,7 @@ Cuando el presupuesto no alcanza o quieres una experiencia similar por menos:
 
 **Filipinas (El Nido, Palawan):** Agua cristalina, acantilados de piedra caliza, buceo de nivel mundial. Vuelos más caros que a las Maldivas, pero costo de vida mucho más bajo.
 
-**Zanzíbar (Tanzania):** Isla de las especias, cultura swahili, Stone Town. Playa y cultura combinadas. Más barato que las Maldivas, carácter de viaje más complejo. Mira nuestra [guía de Zanzíbar](/es/blog/zanzibar-stone-town-guia).
+**Zanzíbar (Tanzania):** Isla de las especias, cultura swahili, Stone Town. Playa y cultura combinadas. Más barato que las Maldivas, carácter de viaje más complejo. Mira nuestra [guía de Zanzíbar](/es/blog/zanzibar-stone-town-guia/).
 
 ---
 
@@ -89,6 +89,6 @@ No hay vacunas obligatorias específicas para las Maldivas. Entrada con pasaport
 ---
 
 **Más para leer:**
-- [Zanzíbar Stone Town: lo que realmente necesitas saber](/es/blog/zanzibar-stone-town-guia)
-- [Patagonia: ruta de 3 semanas por el fin del mundo](/es/blog/patagonia-3-semanas-ruta)
-- [Slow travel: por qué viajar más despacio significa más](/es/blog/slow-travel-que-significa)
+- [Zanzíbar Stone Town: lo que realmente necesitas saber](/es/blog/zanzibar-stone-town-guia/)
+- [Patagonia: ruta de 3 semanas por el fin del mundo](/es/blog/patagonia-3-semanas-ruta/)
+- [Slow travel: por qué viajar más despacio significa más](/es/blog/slow-travel-que-significa/)

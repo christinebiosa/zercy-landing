@@ -73,7 +73,7 @@ Gran Canaria funciona muy bien con [Booking.com](https://www.booking.com). Los r
 
 Consejo: La época más barata es de noviembre a enero (excepto el Carnaval en febrero: entonces los precios se disparan en todo el sur).
 
-Para más información sobre España: [Dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid) y [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona).
+Para más información sobre España: [Dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid/) y [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/).
 
 ---
 
@@ -101,6 +101,6 @@ Coches pequeños desde 20-30 euros al día en temporada baja, 35-55 euros en inv
 
 ## Más artículos
 
-- [Dónde alojarse en Madrid: Barrios y hoteles](/es/blog/donde-alojarse-madrid)
-- [Las mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026)
-- [Dónde alojarse en Ibiza: Guía de zonas 2026](/es/blog/donde-alojarse-ibiza)
+- [Dónde alojarse en Madrid: Barrios y hoteles](/es/blog/donde-alojarse-madrid/)
+- [Las mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)
+- [Dónde alojarse en Ibiza: Guía de zonas 2026](/es/blog/donde-alojarse-ibiza/)

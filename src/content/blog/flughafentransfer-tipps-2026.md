@@ -36,7 +36,7 @@ Businessreisender mit einem Rollkoffer: Airport-Express plus U-Bahn ist fast imm
 
 Ankunft nach Mitternacht: Kein Bus. Entweder Uber/Bolt (günstiger) oder Taxi (sicherer). Wichtig: Preis immer vorab abklären oder Meter prüfen.
 
-Lies dazu auch unsere Tipps zu [Airport Hacks für Vielreisende](/blog/airport-hacks) für die besten Tricks rund ums Fliegen.
+Lies dazu auch unsere Tipps zu [Airport Hacks für Vielreisende](/blog/airport-hacks/) für die besten Tricks rund ums Fliegen.
 
 ## Große Flughäfen im Vergleich: Was funktioniert wo am besten?
 
@@ -62,7 +62,7 @@ Das ist das größte Risiko für Erstbesucher überall auf der Welt. Klassisches
 
 3. **Preis vorab screenshot mit Uber/Grab/Bolt.** Bei Ride-Hailing siehst du den finalen Preis vor dem Einsteigen. Kein Risiko.
 
-Mehr zum Thema sichere Reise-Zahlungen: [Geld im Ausland: Die besten Optionen](/blog/geld-im-ausland-tipps).
+Mehr zum Thema sichere Reise-Zahlungen: [Geld im Ausland: Die besten Optionen](/blog/geld-im-ausland-tipps/).
 
 ## Vorab buchen oder am Flughafen entscheiden?
 
@@ -99,6 +99,6 @@ Nur offizielle Taxis oder Ride-Hailing-Apps nutzen. Nie mit jemandem fahren der 
 ---
 
 **Mehr lesen:**
-- [Airport Hacks: Die besten Tricks für Vielreisende](/blog/airport-hacks)
-- [Geld im Ausland: Karten, Bargeld und Wechselstuben](/blog/geld-im-ausland-tipps)
-- [Stopover-Tourismus: Layover richtig nutzen](/blog/stopover-tourismus-guide)
+- [Airport Hacks: Die besten Tricks für Vielreisende](/blog/airport-hacks/)
+- [Geld im Ausland: Karten, Bargeld und Wechselstuben](/blog/geld-im-ausland-tipps/)
+- [Stopover-Tourismus: Layover richtig nutzen](/blog/stopover-tourismus-guide/)

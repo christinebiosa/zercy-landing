@@ -104,6 +104,6 @@ KLCC and Bukit Bintang have the best family hotels with pools. Large malls right
 ---
 
 **Read more:**
-- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok)
-- [Where to Stay in Singapore: Marina Bay or Chinatown?](/en/blog/where-to-stay-singapore)
-- [Thailand 2-Week Itinerary: The Complete Route](/en/blog/thailand-2-week-itinerary)
+- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok/)
+- [Where to Stay in Singapore: Marina Bay or Chinatown?](/en/blog/where-to-stay-singapore/)
+- [Thailand 2-Week Itinerary: The Complete Route](/en/blog/thailand-2-week-itinerary/)

@@ -15,7 +15,7 @@ Laos lohnt sich für Reisende, die entschleunigen wollen. Die keine perfekte Ins
 
 ## Was macht Luang Prabang besonders?
 
-Luang Prabang ist die Stadt, auf die Laos als Ganzes reduziert wird. Zu Recht. Die Altstadt liegt auf einer Halbinsel zwischen Mekong und Nam Khan. UNESCO-Weltkulturerbe seit 1995. Eine der besterhaltenen städtischen Ensembles Südostasiens. Welches Viertel für deine Unterkunft am besten passt, zeigt der [Luang Prabang Hotelguide](/blog/wo-uebernachten-luang-prabang).
+Luang Prabang ist die Stadt, auf die Laos als Ganzes reduziert wird. Zu Recht. Die Altstadt liegt auf einer Halbinsel zwischen Mekong und Nam Khan. UNESCO-Weltkulturerbe seit 1995. Eine der besterhaltenen städtischen Ensembles Südostasiens. Welches Viertel für deine Unterkunft am besten passt, zeigt der [Luang Prabang Hotelguide](/blog/wo-uebernachten-luang-prabang/).
 
 Das Kernritual: Die Almosenrunde der Mönche bei Sonnenaufgang. Jeden Morgen, kurz nach sechs Uhr, ziehen Hunderte von Mönchen in orangefarbenen Roben durch die Straßen. Die Einheimischen knien am Straßenrand und überreichen Klebreis aus Bambuskörben. Es ist keine Show. Es ist ein täglicher Akt des Glaubens, der seit Jahrhunderten nicht unterbrochen wurde.
 
@@ -69,6 +69,6 @@ Khao Niaw (gedämpfter Klebreis) ist die Grundlage jeder Mahlzeit. Larb ist ein 
 
 ## Mehr lesen
 
-- [Kambodscha Reiseguide: Angkor Wat und die Highlights](/blog/kambodscha-reiseguide-highlights)
-- [Vietnam 2 Wochen Route: Von Hanoi bis Ho Chi Minh](/blog/vietnam-2-wochen-route)
-- [Südostasien Budget-Reisen: Günstig durch Asien](/blog/suedostasien-budget-reisen)
+- [Kambodscha Reiseguide: Angkor Wat und die Highlights](/blog/kambodscha-reiseguide-highlights/)
+- [Vietnam 2 Wochen Route: Von Hanoi bis Ho Chi Minh](/blog/vietnam-2-wochen-route/)
+- [Südostasien Budget-Reisen: Günstig durch Asien](/blog/suedostasien-budget-reisen/)

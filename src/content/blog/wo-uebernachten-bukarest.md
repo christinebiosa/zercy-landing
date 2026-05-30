@@ -127,6 +127,6 @@ Das Parlament von innen (nur Führung), das Viertel Lipscani in der Altstadt, da
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tallinn: Mittelalter und Start-up-Szene](/blog/wo-uebernachten-tallinn)
-- [Wo übernachten in Krakau: Altstadt oder Kazimierz](/blog/wo-uebernachten-krakau)
-- [Europäische Geheimtipps: Städte die sich noch lohnen](/blog/geheimtipps-europa)
+- [Wo übernachten in Tallinn: Mittelalter und Start-up-Szene](/blog/wo-uebernachten-tallinn/)
+- [Wo übernachten in Krakau: Altstadt oder Kazimierz](/blog/wo-uebernachten-krakau/)
+- [Europäische Geheimtipps: Städte die sich noch lohnen](/blog/geheimtipps-europa/)

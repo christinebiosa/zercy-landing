@@ -22,7 +22,7 @@ Culturally, Turkey delivers more intensity. [Cappadocia](https://www.goturkey.co
 
 Bodrum and the Aegean coast offer beach, nightlife, and yacht culture. The Antalya region near Alanya draws younger groups. And Turkey warms up earlier: the Aegean coast is reliably warm for swimming in April and May, while Greece does not reach consistent swimming temperatures until June.
 
-On flights: connections from major European cities to Istanbul, Antalya, or Bodrum start from around 100 euros return outside peak season. Check the [cheap flights tips](/en/blog/cheap-flights-tips) for the best booking windows.
+On flights: connections from major European cities to Istanbul, Antalya, or Bodrum start from around 100 euros return outside peak season. Check the [cheap flights tips](/en/blog/cheap-flights-tips/) for the best booking windows.
 
 ## When does Greece win?
 
@@ -36,7 +36,7 @@ Crete works especially well for families: flat sandy beaches with shallow water,
 
 Greece also has a strong shoulder season. September and October remain warm, hotels drop in price, and crowds thin significantly. Turkey does too, but the Greek islands in October have a quality that is hard to describe and easy to notice.
 
-For the island breakdown: [Greek islands comparison](/en/blog/greek-islands-comparison) goes deeper into which island suits which travel profile.
+For the island breakdown: [Greek islands comparison](/en/blog/greek-islands-comparison/) goes deeper into which island suits which travel profile.
 
 ## How does the actual cost compare?
 
@@ -58,7 +58,7 @@ Concrete numbers over general statements.
 
 Two weeks with comfort and some freedom costs noticeably less in Turkey. Greece requires a more generous budget, especially if Santorini or Mykonos is on the itinerary.
 
-The [flexible dates flight hack](/en/blog/flexible-dates-flight-hack) applies to both destinations. Flying one week earlier or later can save 30 to 50 percent on the flight cost alone.
+The [flexible dates flight hack](/en/blog/flexible-dates-flight-hack/) applies to both destinations. Flying one week earlier or later can save 30 to 50 percent on the flight cost alone.
 
 ## How safe are both countries really?
 
@@ -68,7 +68,7 @@ Turkey has a worse reputation than reality warrants. Tourist zones including Ant
 
 Entry requirements: EU citizens enter Greece without any formalities. Turkey requires an e-visa (20 US dollars, applied for online in minutes). Both processes are straightforward.
 
-For Athens hotel options: [where to stay in Athens](/en/blog/where-to-stay-athens) gives a neighborhood-by-neighborhood breakdown.
+For Athens hotel options: [where to stay in Athens](/en/blog/where-to-stay-athens/) gives a neighborhood-by-neighborhood breakdown.
 
 ## What is the bottom line?
 
@@ -83,9 +83,9 @@ Neither is better. They are different. And sometimes the right tool makes the co
 Zercy shows you live flight and hotel prices for both destinations. Enter your departure point and travel dates and compare both options side by side. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 **Read more:**
-- [Greek Islands: Which One Suits You?](/en/blog/greek-islands-comparison)
-- [Cheap Flights: The Best Tricks](/en/blog/cheap-flights-tips)
-- [Flexible Dates Hack: Save Up to 50%](/en/blog/flexible-dates-flight-hack)
+- [Greek Islands: Which One Suits You?](/en/blog/greek-islands-comparison/)
+- [Cheap Flights: The Best Tricks](/en/blog/cheap-flights-tips/)
+- [Flexible Dates Hack: Save Up to 50%](/en/blog/flexible-dates-flight-hack/)
 
 ## Frequently Asked Questions
 

@@ -23,11 +23,11 @@ Sieben Top-Picks basierend auf Statistiken des [Global Peace Index](https://www.
 
 **3. Japan.** Niedrigste Verbrechensrate weltweit. Frauen reisen abends in Tokio, Osaka oder Kyoto entspannt allein. Sprachbarriere ist die größte Hürde.
 
-**4. Portugal.** Lissabon und Porto sind sehr Solo-freundlich. Lebendig genug für Sozial-Kontakt, sicher genug für nächtliche Spaziergänge. Lies dazu auch unseren [Lissabon-Guide](/blog/lissabon-abseits-der-touristenpfade).
+**4. Portugal.** Lissabon und Porto sind sehr Solo-freundlich. Lebendig genug für Sozial-Kontakt, sicher genug für nächtliche Spaziergänge. Lies dazu auch unseren [Lissabon-Guide](/blog/lissabon-abseits-der-touristenpfade/).
 
 **5. Slowenien.** Geheimtipp. Kleines Land, super sicher, Englisch wird gut gesprochen. Ljubljana und der Bled-See sind perfekt für 1-2 Wochen alleine.
 
-**6. Costa Rica.** "Pura Vida" ist mehr als ein Spruch. Lokale sind extrem freundlich, das Land ist auf Tourismus ausgelegt, Frauen-Hostels in jeder Stadt. Schau dir auch unseren Guide [Costa Rica Rundreise in 2 Wochen](/blog/costa-rica-rundreise-route) an.
+**6. Costa Rica.** "Pura Vida" ist mehr als ein Spruch. Lokale sind extrem freundlich, das Land ist auf Tourismus ausgelegt, Frauen-Hostels in jeder Stadt. Schau dir auch unseren Guide [Costa Rica Rundreise in 2 Wochen](/blog/costa-rica-rundreise-route/) an.
 
 **7. Dänemark.** Skandinavische Sicherheit, exzellente öffentliche Verkehrsmittel, Englisch praktisch überall. Kopenhagen ist ideal für Städte-Trips.
 
@@ -35,13 +35,13 @@ Sieben Top-Picks basierend auf Statistiken des [Global Peace Index](https://www.
 
 Praktische Vorbereitungen, die wirklich funktionieren.
 
-Versicherung. Auslandskranken ist Pflicht. Wenn du jünger als 35 bist, kostet eine Jahrespolice etwa 15 bis 25 Euro. Lies dazu unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich).
+Versicherung. Auslandskranken ist Pflicht. Wenn du jünger als 35 bist, kostet eine Jahrespolice etwa 15 bis 25 Euro. Lies dazu unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 Notfall-Kontakt. Speichere Botschaftsadresse, lokale Notrufnummer und einen verlässlichen Notfall-Kontakt zu Hause. Per WhatsApp oder Signal regelmäßig melden.
 
 Geld-Sicherheit. Trage nicht alles am gleichen Ort. Eine Hauptkarte plus eine Backup-Karte plus 100 Euro Bargeld in einem versteckten Geldgürtel.
 
-Unterkunft mit Bewertungen. Buche mindestens die ersten 2 Nächte vorab. Für Alleinreisende sind Hotels und Hostels mit Frauen-Bereichen empfehlenswerter als AirBnB. Schau dir unseren [AirBnB vs Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich) an.
+Unterkunft mit Bewertungen. Buche mindestens die ersten 2 Nächte vorab. Für Alleinreisende sind Hotels und Hostels mit Frauen-Bereichen empfehlenswerter als AirBnB. Schau dir unseren [AirBnB vs Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich/) an.
 
 Lokale SIM-Karte. In den meisten Ländern beim Ankommen am Flughafen kaufbar. So bist du unabhängig vom Hotel-WLAN. Kosten: 10 bis 20 Euro für 30 Tage Daten.
 
@@ -96,6 +96,6 @@ Walking Tours am ersten Tag, Hostel-Aktivitäten (Cocktail-Abend, Pub-Crawls), C
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Cape Town: Die 5 Stadtteile](/blog/wo-uebernachten-cape-town)
-- [Wo übernachten in Wien: Die 5 Bezirke](/blog/wo-uebernachten-wien)
-- [Reiseversicherung 2026: Was lohnt sich, was ist Quatsch?](/blog/reiseversicherung-was-lohnt-sich)
+- [Wo übernachten in Cape Town: Die 5 Stadtteile](/blog/wo-uebernachten-cape-town/)
+- [Wo übernachten in Wien: Die 5 Bezirke](/blog/wo-uebernachten-wien/)
+- [Reiseversicherung 2026: Was lohnt sich, was ist Quatsch?](/blog/reiseversicherung-was-lohnt-sich/)

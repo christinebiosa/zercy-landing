@@ -44,7 +44,7 @@ Die Geheimtipps für Mykonos sind Mai, Juni und September. Angenehme Temperature
 
 Oktober bis April ist die Nebensaison. Viele Betriebe schließen. Die Insel hat einen ganz anderen Charakter. Für Wanderer und Ruhesuchende kann das reizvoll sein.
 
-Für die griechische Nachbarinsel empfehlen wir auch den Vergleich: [Wo übernachten in Athen](/blog/wo-uebernachten-athen) und [Wo übernachten auf Santorini](/blog/wo-uebernachten-santorini).
+Für die griechische Nachbarinsel empfehlen wir auch den Vergleich: [Wo übernachten in Athen](/blog/wo-uebernachten-athen/) und [Wo übernachten auf Santorini](/blog/wo-uebernachten-santorini/).
 
 ## Paradise Beach: Für Party und knappes Budget
 
@@ -107,6 +107,6 @@ Das lokale Busnetz (KTEL) verbindet die wichtigsten Strände und Ortschaften. Bu
 ---
 
 **Mehr lesen:**
-- [Wo übernachten auf Santorini: Fira, Oia oder Kamari?](/blog/wo-uebernachten-santorini)
-- [Wo übernachten in Athen: Die besten Stadtteile für Besucher](/blog/wo-uebernachten-athen)
-- [Wo übernachten in Dubrovnik: Altstadt oder Lapad?](/blog/wo-uebernachten-dubrovnik)
+- [Wo übernachten auf Santorini: Fira, Oia oder Kamari?](/blog/wo-uebernachten-santorini/)
+- [Wo übernachten in Athen: Die besten Stadtteile für Besucher](/blog/wo-uebernachten-athen/)
+- [Wo übernachten in Dubrovnik: Altstadt oder Lapad?](/blog/wo-uebernachten-dubrovnik/)

@@ -47,7 +47,7 @@ Das Centrs liegt unmittelbar nördlich der Altstadt und enthält den weltweit di
 
 **Top-Picks:** Radisson Blu Latvija Hotel (Turm-Hotel mit bester Aussicht auf Riga), Mercure Riga Centre (gut angebunden, zuverlässige Qualität), Hotel Bergs (kleines Boutique-Hotel im Jugendstil-Viertel, Geheimtipp).
 
-Wer Riga mit anderen Baltikum-Städten kombinieren will, findet im [Zugreisen Europa Guide](/blog/zugreisen-europa) konkrete Routen und Fahrtzeiten.
+Wer Riga mit anderen Baltikum-Städten kombinieren will, findet im [Zugreisen Europa Guide](/blog/zugreisen-europa/) konkrete Routen und Fahrtzeiten.
 
 ## Wann ist die beste Reisezeit für Riga?
 
@@ -73,7 +73,7 @@ Der Klusais Centrs (wörtlich: Stilles Zentrum) grenzt östlich ans Centrs und i
 
 **Top-Picks:** Neiburgs Hotel (historisches Jugendstil-Haus, Geheimtipp), Romeo Hotel (kleines, persönliches Boutique-Hotel), Grand Palace Hotel (klassisches Luxushotel in ruhiger Lage).
 
-Wer von Riga aus weiter nach Norden reist, findet im [Tallinn Stadtführer](/blog/wo-uebernachten-tallinn) alle Infos zur estnischen Hauptstadt.
+Wer von Riga aus weiter nach Norden reist, findet im [Tallinn Stadtführer](/blog/wo-uebernachten-tallinn/) alle Infos zur estnischen Hauptstadt.
 
 ## Teika: Günstiges modernes Riga
 
@@ -94,7 +94,7 @@ Für Riga ist [Booking.com](https://www.booking.com) gut aufgestellt:
 - Preise in Euro transparent ausgewiesen
 - Sehr gutes Preis-Leistungs-Verhältnis verglichen mit anderen europäischen Hauptstädten
 
-Wer plant, Warschau nach Riga zu kombinieren oder umgekehrt, findet im [Warschau Stadtführer](/blog/wo-uebernachten-warschau) alle relevanten Infos. Und für eine längere Osteuropa-Runde: der [Zugreisen Europa Guide](/blog/zugreisen-europa) zeigt die besten Strecken.
+Wer plant, Warschau nach Riga zu kombinieren oder umgekehrt, findet im [Warschau Stadtführer](/blog/wo-uebernachten-warschau/) alle relevanten Infos. Und für eine längere Osteuropa-Runde: der [Zugreisen Europa Guide](/blog/zugreisen-europa/) zeigt die besten Strecken.
 
 ---
 
@@ -121,6 +121,6 @@ Auf keinen Fall verpassen: die Jugendstil-Gebäude auf der Alberta iela, den Zen
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tallinn: Die 5 Stadtteile](/blog/wo-uebernachten-tallinn)
-- [Wo übernachten in Warschau: Die 5 Stadtteile](/blog/wo-uebernachten-warschau)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
+- [Wo übernachten in Tallinn: Die 5 Stadtteile](/blog/wo-uebernachten-tallinn/)
+- [Wo übernachten in Warschau: Die 5 Stadtteile](/blog/wo-uebernachten-warschau/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)

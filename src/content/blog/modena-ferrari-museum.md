@@ -27,7 +27,7 @@ Eintritt: 22 Euro (Einzel) oder 28 Euro im Kombi-Ticket mit Maranello.
 
 ### Museo Ferrari (in Maranello, 18 km)
 
-**Das** [Ferrari-Museum in Maranello](https://musei.ferrari.com/de/maranello). Wo die Autos gebaut werden. 25 Minuten Autofahrt von Modena. Keine öffentlichen Verkehrsmittel direkt dahin, also Mietwagen (siehe [Mietwagen-Consolidator-Guide](/blog/mietwagen-consolidator-guenstiger-fahren)), Taxi oder Shuttle.
+**Das** [Ferrari-Museum in Maranello](https://musei.ferrari.com/de/maranello). Wo die Autos gebaut werden. 25 Minuten Autofahrt von Modena. Keine öffentlichen Verkehrsmittel direkt dahin, also Mietwagen (siehe [Mietwagen-Consolidator-Guide](/blog/mietwagen-consolidator-guenstiger-fahren/)), Taxi oder Shuttle.
 
 Hier steht die komplette F1-Sammlung, die legendärsten Rennwagen seit 1947, die Geschichte von Schumacher bis Leclerc. Plus die Neuheiten: den Daytona SP3, den SF90, und, wenn du Glück hast, Prototypen.
 
@@ -65,7 +65,7 @@ Drei-Sterne-Option: **Osteria Francescana** von Massimo Bottura, oft als Bestes 
 
 ## Wie kommst du am besten nach Modena?
 
-**Mit dem Zug**: Modena liegt an der Mailand-Bologna-Strecke. Von Mailand aus 1 Stunde 15 Minuten, von Bologna 25 Minuten. Von Rom über Bologna in 3 Stunden. [Italo](https://www.italotreno.com/en) und [Trenitalia](https://www.trenitalia.com/) bieten Hochgeschwindigkeitszüge. [Mehr zu Zugreisen in Europa](/blog/zugreisen-europa).
+**Mit dem Zug**: Modena liegt an der Mailand-Bologna-Strecke. Von Mailand aus 1 Stunde 15 Minuten, von Bologna 25 Minuten. Von Rom über Bologna in 3 Stunden. [Italo](https://www.italotreno.com/en) und [Trenitalia](https://www.trenitalia.com/) bieten Hochgeschwindigkeitszüge. [Mehr zu Zugreisen in Europa](/blog/zugreisen-europa/).
 
 **Mit dem Flug**: Direktflüge nach Bologna (BLQ). Von dort Zug oder Mietwagen, 40 Minuten.
 
@@ -79,7 +79,7 @@ Altstadt Modena ist überschaubar. Ein paar Boutique-Hotels direkt am Piazza Gra
 - **RMH Modena Des Arts**: modern, nah am Bahnhof. 110 bis 160 Euro.
 - **Agriturismo in der Umgebung**: falls du Ruhe und Essen mitnehmen willst. Viele betreiben eigene Balsamico-Acetaias. Ab 90 Euro pro Nacht.
 
-Infos zu [Boutique-Hotels finden](/blog/boutique-hotels) haben wir im eigenen Artikel.
+Infos zu [Boutique-Hotels finden](/blog/boutique-hotels/) haben wir im eigenen Artikel.
 
 ## 2-Tage-Plan
 
@@ -91,9 +91,9 @@ Wer 3 Tage hat: Tag 3 für das Pavarotti-Haus plus einen Tagesausflug nach Parma
 
 ---
 
-Zercy findet dir Flüge nach Bologna, den passenden Zug nach Modena und die besten Hotels in einer Anfrage. Das [Zercy Logbook](/blog/zercy-logbook) sammelt alle Buchungen in einer Timeline, damit dein Motor-Gourmet-Wochenende rund wird.
+Zercy findet dir Flüge nach Bologna, den passenden Zug nach Modena und die besten Hotels in einer Anfrage. Das [Zercy Logbook](/blog/zercy-logbook/) sammelt alle Buchungen in einer Timeline, damit dein Motor-Gourmet-Wochenende rund wird.
 
-**Mehr lesen:** [Zugreisen durch Europa](/blog/zugreisen-europa) · [Boutique-Hotels finden](/blog/boutique-hotels) · [Geheimtipps Europa](/blog/geheimtipps-europa)
+**Mehr lesen:** [Zugreisen durch Europa](/blog/zugreisen-europa/) · [Boutique-Hotels finden](/blog/boutique-hotels/) · [Geheimtipps Europa](/blog/geheimtipps-europa/)
 
 ## Häufige Fragen
 

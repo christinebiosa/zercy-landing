@@ -25,7 +25,7 @@ Local experience. If you want to live in a typical neighborhood instead of the h
 
 Cooking instead of restaurants. If dietary or financial reasons require cooking, you need a kitchen. Most hotels don't have that.
 
-If you're interested in special hotels, see our [boutique hotel guide](/en/blog/boutique-hotels).
+If you're interested in special hotels, see our [boutique hotel guide](/en/blog/boutique-hotels/).
 
 ## When is a hotel the better choice?
 
@@ -39,7 +39,7 @@ Reliability. Hotels almost never cancel reservations. Airbnb hosts do. A 2024 [B
 
 Service. Concierge, 24h reception, breakfast, luggage storage after checkout. Small things that make a big difference when traveling.
 
-See our [Morocco riads overview](/en/blog/morocco-riads-guide) for special accommodation experiences.
+See our [Morocco riads overview](/en/blog/morocco-riads-guide/) for special accommodation experiences.
 
 ## What many travelers overlook: Booking.com has both
 
@@ -79,7 +79,7 @@ A pragmatic search strategy for every trip.
 
 **Step 4:** If the apartment exists only on Airbnb, read reviews very carefully. Avoid hosts with under 4.8 stars or fewer than 30 reviews.
 
-For more travel money-saving, see our [rental consolidator guide](/en/blog/rental-consolidators-save-money).
+For more travel money-saving, see our [rental consolidator guide](/en/blog/rental-consolidators-save-money/).
 
 ---
 
@@ -106,6 +106,6 @@ Choose hosts with "Superhost" status, at least 50 reviews, response rate above 9
 ---
 
 **Read more:**
-- [Boutique hotels: small houses with character](/en/blog/boutique-hotels)
-- [Morocco riads: which ones are worth it?](/en/blog/morocco-riads-guide)
-- [Rental consolidators: save up to 40 percent](/en/blog/rental-consolidators-save-money)
+- [Boutique hotels: small houses with character](/en/blog/boutique-hotels/)
+- [Morocco riads: which ones are worth it?](/en/blog/morocco-riads-guide/)
+- [Rental consolidators: save up to 40 percent](/en/blog/rental-consolidators-save-money/)

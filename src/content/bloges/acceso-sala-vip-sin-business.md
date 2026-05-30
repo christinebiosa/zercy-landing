@@ -97,6 +97,6 @@ Depende de la membresía y la tarjeta. Priority Pass Prestige permite un acompa�
 ---
 
 **Más para leer:**
-- [Cómo viajar en business class sin pagar el precio completo](/es/blog/business-class-sin-millas)
-- [Trucos de aeropuerto para viajar sin estrés](/es/blog/trucos-aeropuerto)
-- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos)
+- [Cómo viajar en business class sin pagar el precio completo](/es/blog/business-class-sin-millas/)
+- [Trucos de aeropuerto para viajar sin estrés](/es/blog/trucos-aeropuerto/)
+- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos/)

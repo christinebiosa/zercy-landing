@@ -36,7 +36,7 @@ Realidad: el precio cambió porque otras personas compraron los asientos baratos
 
 El modo incógnito no ayuda. Ves el mismo precio que todo el mundo en ese momento.
 
-Más sobre estrategias de reserva: [Cuándo reservar vuelos para obtener el mejor precio](/es/blog/cuando-reservar-vuelos)
+Más sobre estrategias de reserva: [Cuándo reservar vuelos para obtener el mejor precio](/es/blog/cuando-reservar-vuelos/)
 
 ## ¿Por qué el mismo vuelo cuesta cinco precios distintos en cinco plataformas?
 
@@ -46,7 +46,7 @@ Resultado: Google Flights 545 euros, web de la aerolínea 520 euros, Kayak 570 e
 
 Por eso siempre vale la pena revisar la web de la aerolínea directamente después de comparar. A veces la clase más barata solo está disponible allí.
 
-Más trucos de búsqueda: [Google Flights: trucos y consejos 2026](/es/blog/google-flights-trucos-2026)
+Más trucos de búsqueda: [Google Flights: trucos y consejos 2026](/es/blog/google-flights-trucos-2026/)
 
 ## ¿Cuándo están disponibles las clases de reserva más baratas?
 
@@ -58,7 +58,7 @@ Tres semanas antes: modo last-minute. Si el vuelo no se llena, las clases barata
 
 Tres días antes: casi siempre solo las clases más caras. Los viajeros de negocios reservan a último momento y pagan sin dudarlo. Las aerolíneas cuentan con eso.
 
-Para una perspectiva diferente sobre la estrategia de rutas: [Open jaw tickets: el truco de viaje que pocos conocen](/es/blog/open-jaw-tickets-truco-viaje)
+Para una perspectiva diferente sobre la estrategia de rutas: [Open jaw tickets: el truco de viaje que pocos conocen](/es/blog/open-jaw-tickets-truco-viaje/)
 
 ## ¿Cómo puedes usar la lógica de las clases de reserva para ahorrar?
 
@@ -68,7 +68,7 @@ Las alertas de precio ayudan. Google Flights te dice si un precio está bajo o a
 
 Un truco que poca gente usa: entra directamente en la web de la aerolínea después de comparar en agregadores. Algunas solo publican sus clases más baratas en su propio canal. La tarifa puede ser un escalón menor y las comisiones suelen ser más bajas.
 
-Más consejos: [Consejos para volar barato: lo que saben los viajeros frecuentes](/es/blog/consejos-vuelos-baratos)
+Más consejos: [Consejos para volar barato: lo que saben los viajeros frecuentes](/es/blog/consejos-vuelos-baratos/)
 
 ---
 
@@ -96,6 +96,6 @@ Las aerolíneas distribuyen su inventario de clases de forma distinta entre su c
 
 ## Leer más
 
-- [Google Flights: trucos y consejos 2026](/es/blog/google-flights-trucos-2026)
-- [Cuándo reservar vuelos para obtener el mejor precio](/es/blog/cuando-reservar-vuelos)
-- [Consejos para volar barato: lo que saben los viajeros frecuentes](/es/blog/consejos-vuelos-baratos)
+- [Google Flights: trucos y consejos 2026](/es/blog/google-flights-trucos-2026/)
+- [Cuándo reservar vuelos para obtener el mejor precio](/es/blog/cuando-reservar-vuelos/)
+- [Consejos para volar barato: lo que saben los viajeros frecuentes](/es/blog/consejos-vuelos-baratos/)

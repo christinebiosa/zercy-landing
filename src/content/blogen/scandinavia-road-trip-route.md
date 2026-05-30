@@ -60,7 +60,7 @@ Winter (October to March) means northern lights. Norway and Sweden offer a compl
 
 **Hire a car or go public?** Unnecessary in cities, ideal in the fjord region. The coastal roads (Atlantic Road, Geiranger-Trollstigen) are an experience in their own right. [Expedia Cars](https://www.expedia.com) has solid deals for Scandinavian rental cars.
 
-**City passes:** Oslo CityCard, Stockholm City Card — worth it for intensive sightseeing days. More in our guide on [city cards and museum passes](/en/blog/city-cards-museum-passes-worth-it).
+**City passes:** Oslo CityCard, Stockholm City Card — worth it for intensive sightseeing days. More in our guide on [city cards and museum passes](/en/blog/city-cards-museum-passes-worth-it/).
 
 **Food:** Supermarkets (Rema 1000 in Norway, ICA in Sweden) are affordable. Grab breakfast at the hotel, buy lunch at a shop, treat yourself to one proper dinner. Smart and works perfectly.
 
@@ -85,6 +85,6 @@ Train is the most comfortable option between Copenhagen, Stockholm, and Oslo. Bu
 Hostels in all the main cities offer dorm beds from €25–35 per night. Airbnb apartments with a kitchen save money on food. In the fjord region, campsites (from €15) are popular — many right on the water with fjord views. Norway's "allemannsretten" even allows free wild camping in nature areas.
 
 ## Read more
-- [Night Trains in Europe: Travel Cheap and Comfortable](/en/blog/night-trains-europe-2026)
-- [Northern Lights 2026: Where and When to See Them](/en/blog/northern-lights-2026-where-when-how)
-- [Iceland Travel Guide: What You Need to Know](/en/blog/iceland-travel-guide)
+- [Night Trains in Europe: Travel Cheap and Comfortable](/en/blog/night-trains-europe-2026/)
+- [Northern Lights 2026: Where and When to See Them](/en/blog/northern-lights-2026-where-when-how/)
+- [Iceland Travel Guide: What You Need to Know](/en/blog/iceland-travel-guide/)

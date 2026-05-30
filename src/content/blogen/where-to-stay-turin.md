@@ -45,7 +45,7 @@ San Salvario sits just south of Porta Nuova station and is Turin's most lively n
 
 **Top picks:** Combo Torino (modern hostel-boutique hybrid with café and co-working, perfect for solo travelers and young couples), Starhotels Majestic Torino (elegant mid-range hotel, central, consistent quality).
 
-San Salvario is one of the best neighborhoods in Italy for [slow travel](/en/blog/slow-travel-what-it-really-means). A Negroni on Piazza Madama Cristina and the evening sorts itself out.
+San Salvario is one of the best neighborhoods in Italy for [slow travel](/en/blog/slow-travel-what-it-really-means/). A Negroni on Piazza Madama Cristina and the evening sorts itself out.
 
 ## Quadrilatero Romano: The Oldest Turin
 
@@ -57,7 +57,7 @@ The Quadrilatero Romano is the oldest inhabited part of the city. Built on the g
 
 **Top picks:** Townhouse 70 (stylish boutique in a 17th-century palazzo, design interiors, excellent location), Casa Amalio (small B&B with personal character, ideal for couples).
 
-Read our [boutique hotel guide](/en/blog/boutique-hotels) — the Quadrilatero is the perfect example of why small hotels usually beat the big chains.
+Read our [boutique hotel guide](/en/blog/boutique-hotels/) — the Quadrilatero is the perfect example of why small hotels usually beat the big chains.
 
 ## When Is the Best Time to Visit Turin?
 
@@ -115,5 +115,5 @@ The Museo Egizio (Egyptian Museum, world-class collection), the Mole Antonellian
 ---
 
 **Read more:**
-- [Where to Stay in Florence: The Best Neighborhoods](/en/blog/where-to-stay-florence)
-- [Where to Stay in Milan: The Best Neighborhoods](/en/blog/where-to-stay-milan)
+- [Where to Stay in Florence: The Best Neighborhoods](/en/blog/where-to-stay-florence/)
+- [Where to Stay in Milan: The Best Neighborhoods](/en/blog/where-to-stay-milan/)

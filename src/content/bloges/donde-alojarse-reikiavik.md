@@ -49,7 +49,7 @@ Hlemmur es el extremo este del 101, conocido por el Hlemmur Mathöll, el mercado
 - **Odinsve Hotel:** Aparthotel con cocinas. Ideal para estancias largas o familias.
 - **Reykjavik Residence Hotel:** Estudios con más espacio que una habitación convencional.
 
-Para preparar el resto del viaje por Islandia, consulta nuestra guía de [trenes nocturnos en Europa](/es/blog/trenes-nocturnos-europa-2026) si combinas con un viaje ferroviario por el continente.
+Para preparar el resto del viaje por Islandia, consulta nuestra guía de [trenes nocturnos en Europa](/es/blog/trenes-nocturnos-europa-2026/) si combinas con un viaje ferroviario por el continente.
 
 ## Laugardalur: piscinas geotérmicas y parque
 
@@ -100,6 +100,6 @@ Hallgrímskirkja (con ascensor a la plataforma de observación), excursión de u
 ---
 
 **Leer más:**
-- [Trenes nocturnos en Europa 2026: la guía completa](/es/blog/trenes-nocturnos-europa-2026)
-- [Joyas ocultas de Europa: ciudades infravaloradas](/es/blog/joyas-ocultas-europa)
-- [Dónde alojarse en Estambul: Sultanahmet, Beyoğlu o Karaköy](/es/blog/donde-alojarse-estambul)
+- [Trenes nocturnos en Europa 2026: la guía completa](/es/blog/trenes-nocturnos-europa-2026/)
+- [Joyas ocultas de Europa: ciudades infravaloradas](/es/blog/joyas-ocultas-europa/)
+- [Dónde alojarse en Estambul: Sultanahmet, Beyoğlu o Karaköy](/es/blog/donde-alojarse-estambul/)

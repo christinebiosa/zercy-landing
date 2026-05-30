@@ -68,6 +68,6 @@ Mici (pequeños rollitos de carne a la parrilla), Mămăligă (polenta), Ciorbă
 ---
 
 **Más sobre Europa del Este:**
-- [Balcanes Road Trip Ruta](/es/blog/balcanes-road-trip-ruta)
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Joyas Ocultas de Europa](/es/blog/joyas-ocultas-europa)
+- [Balcanes Road Trip Ruta](/es/blog/balcanes-road-trip-ruta/)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Joyas Ocultas de Europa](/es/blog/joyas-ocultas-europa/)

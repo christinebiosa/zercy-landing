@@ -35,7 +35,7 @@ Palermo ist das größte Stadtviertel von Buenos Aires und teilt sich in mehrere
 
 **Top-Picks:** Magnolia Hotel Boutique (kleines Boutique mit Innenhof), Casa Calma Wellness Hotel (eco-friendly Premium), Mine Hotel Boutique (Designer in Palermo Soho). Diese und 1.500+ weitere Buenos-Aires-Unterkünfte findest du auf [Booking.com](https://www.booking.com) mit USD-fixen Preisen (schützt vor Peso-Schwankungen).
 
-Palermo ist auch ideal für längere Aufenthalte. Lies dazu unseren [Workation-Guide](/blog/workation-steuern-2026), Argentinien ist wegen schwacher Peso aktuell extrem günstig für Digital Nomads. Die offizielle Stadt-Tourismusbehörde [Visit Buenos Aires](https://turismo.buenosaires.gob.ar/de) hat eine kuratierte Hotel-Übersicht pro Stadtteil.
+Palermo ist auch ideal für längere Aufenthalte. Lies dazu unseren [Workation-Guide](/blog/workation-steuern-2026/), Argentinien ist wegen schwacher Peso aktuell extrem günstig für Digital Nomads. Die offizielle Stadt-Tourismusbehörde [Visit Buenos Aires](https://turismo.buenosaires.gob.ar/de) hat eine kuratierte Hotel-Übersicht pro Stadtteil.
 
 ## Recoleta: Eleganz und Kultur
 
@@ -59,7 +59,7 @@ San Telmo ist das älteste Viertel von Buenos Aires. Kopfsteinpflaster-Straßen,
 
 **Top-Picks:** Patios de San Telmo (kleines Boutique in restauriertem Haus), Mansión Vitraux Boutique Hotel (klein, mit Wein-Bar), Hotel Casa San Telmo (Boutique mit Innenhof).
 
-Für Romantik-Reisende lies auch unseren [Riads-in-Marokko-Guide](/blog/riads-marokko-guide), das Konzept ist ähnlich (Innenhof-Hotels in historischen Vierteln).
+Für Romantik-Reisende lies auch unseren [Riads-in-Marokko-Guide](/blog/riads-marokko-guide/), das Konzept ist ähnlich (Innenhof-Hotels in historischen Vierteln).
 
 ## Puerto Madero: Modern und sicher
 
@@ -102,7 +102,7 @@ Für Buenos Aires ist [Booking.com](https://www.booking.com) klar die beste Plat
 
 Direktbuchung lohnt sich nur bei Top-Hotels (Alvear, Faena) für mögliche Upgrades.
 
-Lies dazu auch unseren [Solo-Reisen-Guide für Frauen](/blog/solo-reisen-frauen-sicher), Buenos Aires ist sicherer als sein Ruf, aber Stadtteil-Wahl bleibt wichtig.
+Lies dazu auch unseren [Solo-Reisen-Guide für Frauen](/blog/solo-reisen-frauen-sicher/), Buenos Aires ist sicherer als sein Ruf, aber Stadtteil-Wahl bleibt wichtig.
 
 ---
 
@@ -129,6 +129,6 @@ Buenos Aires ist 2026 extrem günstig wegen Peso-Schwäche. Backpacker: 400-600 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
-- [Wo übernachten in Mexico City: Die 5 Stadtteile](/blog/wo-uebernachten-mexico-city)
-- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena/)
+- [Wo übernachten in Mexico City: Die 5 Stadtteile](/blog/wo-uebernachten-mexico-city/)
+- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026/)

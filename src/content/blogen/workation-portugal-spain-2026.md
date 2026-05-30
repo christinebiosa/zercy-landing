@@ -62,7 +62,7 @@ For apartments on Airbnb or Uniplaces for 1-3 months: search early. Good apartme
 
 It depends on your nationality.
 
-**EU citizens:** No visa required. You can live and work in any EU country indefinitely. Formal registration applies after 90 days in practice, but is rarely enforced. Clarify your social security situation with your health insurer if staying longer than four weeks. Read our [Workation Tax Guide](/en/blog/workation-tax-rules-2026) for details.
+**EU citizens:** No visa required. You can live and work in any EU country indefinitely. Formal registration applies after 90 days in practice, but is rarely enforced. Clarify your social security situation with your health insurer if staying longer than four weeks. Read our [Workation Tax Guide](/en/blog/workation-tax-rules-2026/) for details.
 
 **Non-EU citizens wanting to work in Portugal:** The D8 visa (Portugal Digital Nomad Visa) requires a minimum monthly income of 3,280 EUR (as of 2026). Apply via the Portuguese embassy. Processing takes 4-8 weeks. Suitable for freelancers and remote employees.
 
@@ -82,7 +82,7 @@ Not every month works equally well.
 
 **December to March:** Works well. Cheapest apartment prices of the year. Málaga and Valencia often still see 15-20°C. Porto and Lisbon can be overcast and rainy but it does not affect productivity.
 
-Check our [Where to Stay in Lisbon](/en/blog/where-to-stay-lisbon) guide for detailed neighborhood advice. For everything about the [Digital Nomad Visa](/en/blog/digital-nomad-visa-countries-2026): the full country comparison is there.
+Check our [Where to Stay in Lisbon](/en/blog/where-to-stay-lisbon/) guide for detailed neighborhood advice. For everything about the [Digital Nomad Visa](/en/blog/digital-nomad-visa-countries-2026/): the full country comparison is there.
 
 ---
 
@@ -109,6 +109,6 @@ A dedicated desk costs between 150 and 250 EUR per month in both cities. Day pas
 ---
 
 **Read more:**
-- [Digital Nomad Visa: Best Countries 2026](/en/blog/digital-nomad-visa-countries-2026)
-- [Workation and Taxes: What You Really Need to Know](/en/blog/workation-tax-rules-2026)
-- [Where to Stay in Lisbon: The 5 Neighborhoods](/en/blog/where-to-stay-lisbon)
+- [Digital Nomad Visa: Best Countries 2026](/en/blog/digital-nomad-visa-countries-2026/)
+- [Workation and Taxes: What You Really Need to Know](/en/blog/workation-tax-rules-2026/)
+- [Where to Stay in Lisbon: The 5 Neighborhoods](/en/blog/where-to-stay-lisbon/)

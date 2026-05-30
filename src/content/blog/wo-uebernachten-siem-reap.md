@@ -63,7 +63,7 @@ Nördlich des Stadtzentrums, jenseits des Siem Reap River: das Viertel der groß
 
 **Top-Picks:** Raffles Grand Hotel d'Angkor (historisches Kolonial-Luxushotel, Siem Reaps Ikone), Anantara Angkor Resort (modernes Luxusresort mit Pool und Spa), Park Hyatt Siem Reap (urbanere Luxusoption im Stilmix).
 
-Wenn du Südostasien weiterbereist, hilft dir unser [Bangkok-Stadtführer](/blog/wo-uebernachten-bangkok) für die Wahl der richtigen Lage in der Millionenmetropole.
+Wenn du Südostasien weiterbereist, hilft dir unser [Bangkok-Stadtführer](/blog/wo-uebernachten-bangkok/) für die Wahl der richtigen Lage in der Millionenmetropole.
 
 ## Airport Road: Günstig und praktisch
 
@@ -85,7 +85,7 @@ Die Straße zwischen Flughafen und Stadtmitte: voll mit kleinen Guesthouses und 
 
 **Top-Picks:** Maison 557 (kleines Boutique-Hotel mit Charakter), Soria Moria Hotel (belgisch-kambodschanisches Konzept, exzellente Küche im Haus), Phum Baitang (am Stadtrand, Villen auf Stelzen, für ein besonderes Erlebnis).
 
-Wenn du deine Südostasien-Route planst, lies auch unseren [Hanoi-Stadtführer](/blog/wo-uebernachten-hanoi) für Tipps zu den besten Lagen in Vietnams Norden.
+Wenn du deine Südostasien-Route planst, lies auch unseren [Hanoi-Stadtführer](/blog/wo-uebernachten-hanoi/) für Tipps zu den besten Lagen in Vietnams Norden.
 
 ## Wo solltest du am Ende buchen?
 
@@ -123,6 +123,6 @@ Für optimales Licht und weniger Massen: Sonnenaufgang zwischen 5:30 und 6 Uhr. 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bangkok: Die 5 besten Stadtteile](/blog/wo-uebernachten-bangkok)
-- [Wo übernachten in Hanoi: Die besten Lagen](/blog/wo-uebernachten-hanoi)
-- [Reisen mit kleinem Budget: 12 Tipps die wirklich funktionieren](/blog/reisen-kleines-budget-tipps)
+- [Wo übernachten in Bangkok: Die 5 besten Stadtteile](/blog/wo-uebernachten-bangkok/)
+- [Wo übernachten in Hanoi: Die besten Lagen](/blog/wo-uebernachten-hanoi/)
+- [Reisen mit kleinem Budget: 12 Tipps die wirklich funktionieren](/blog/reisen-kleines-budget-tipps/)

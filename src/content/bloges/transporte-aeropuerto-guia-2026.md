@@ -36,7 +36,7 @@ Viajero de negocios con trolley: El tren exprés más el metro es casi siempre l
 
 Llegada después de medianoche: Nada de autobús. O Uber/Bolt (más barato) o taxi (más seguro). Importante: confirmar siempre el precio antes o comprobar que el taxímetro está en marcha.
 
-Lee también nuestros consejos en la [guía de trucos de aeropuerto](/es/blog/trucos-aeropuerto) para los mejores consejos alrededor de los vuelos.
+Lee también nuestros consejos en la [guía de trucos de aeropuerto](/es/blog/trucos-aeropuerto/) para los mejores consejos alrededor de los vuelos.
 
 ## Comparativa de grandes aeropuertos: ¿Qué funciona mejor dónde?
 
@@ -62,7 +62,7 @@ Este es el mayor riesgo para los visitantes primerizos en casi todo el mundo. El
 
 3. **Haz una captura del precio de Uber/Grab/Bolt antes de subir.** Con las apps de transporte ves el precio final antes de entrar al vehículo. Sin riesgo.
 
-Más sobre pagos seguros en viaje: [dinero en el extranjero](/es/blog/dinero-en-el-extranjero-consejos).
+Más sobre pagos seguros en viaje: [dinero en el extranjero](/es/blog/dinero-en-el-extranjero-consejos/).
 
 ## ¿Reservar con antelación o decidir en el aeropuerto?
 
@@ -99,6 +99,6 @@ Usa solo taxis oficiales o apps de transporte. Nunca subas con alguien que te ab
 ---
 
 **Seguir leyendo:**
-- [Trucos de aeropuerto: Los mejores consejos para viajeros frecuentes](/es/blog/trucos-aeropuerto)
-- [Dinero en el extranjero: Tarjetas, efectivo y tipos de cambio](/es/blog/dinero-en-el-extranjero-consejos)
-- [Turismo de escala: Cómo aprovechar una conexión](/es/blog/guia-stopover-turismo)
+- [Trucos de aeropuerto: Los mejores consejos para viajeros frecuentes](/es/blog/trucos-aeropuerto/)
+- [Dinero en el extranjero: Tarjetas, efectivo y tipos de cambio](/es/blog/dinero-en-el-extranjero-consejos/)
+- [Turismo de escala: Cómo aprovechar una conexión](/es/blog/guia-stopover-turismo/)

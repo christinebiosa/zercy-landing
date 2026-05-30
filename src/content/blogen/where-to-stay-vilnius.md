@@ -49,7 +49,7 @@ This sounds like a tourist gimmick. It isn't. Real artists live here, galleries 
 
 **Top picks:** Domus Maria (a convent guesthouse, quiet, remarkable value for the location), Residence Vilnius (modern apartments in the artists' quarter), B&B Senoji Užupis (small guesthouse, personal service).
 
-If you're doing a Baltic trip and also visiting Tallinn, the [Tallinn neighborhood guide](/en/blog/where-to-stay-tallinn) covers the medieval Old Town and its best hotel options in the same format.
+If you're doing a Baltic trip and also visiting Tallinn, the [Tallinn neighborhood guide](/en/blog/where-to-stay-tallinn/) covers the medieval Old Town and its best hotel options in the same format.
 
 ## When Is the Best Time to Visit Vilnius?
 
@@ -67,7 +67,7 @@ Naujamiestis means New Town. Built in the late 19th century, today it's the neig
 
 **Top picks:** Novotel Vilnius Centre (well-connected, reliable quality), Congress Hotel Vilnius (central on Gedimino Boulevard), Ibis Budget (cheapest reliable option in the area).
 
-Planning Vilnius alongside Riga? The [Riga neighborhood guide](/en/blog/where-to-stay-riga) covers the Latvian capital's Old Town and its best districts in the same detail.
+Planning Vilnius alongside Riga? The [Riga neighborhood guide](/en/blog/where-to-stay-riga/) covers the Latvian capital's Old Town and its best districts in the same detail.
 
 ## Žvėrynas: Quiet Vilnius
 
@@ -98,7 +98,7 @@ For Vilnius, [Booking.com](https://www.booking.com) has the best coverage:
 - Prices in euros with no currency surprises
 - City tax usually disclosed upfront
 
-Planning a Baltic circuit? Combine Vilnius, Riga and Tallinn in one trip. The cheapest routing is fly into Vilnius, travel by train or bus to Riga, fly home from Tallinn. For train connections between the Baltic capitals, the [train travel Europe guide](/en/blog/train-travel-europe) covers the main routes and booking tips.
+Planning a Baltic circuit? Combine Vilnius, Riga and Tallinn in one trip. The cheapest routing is fly into Vilnius, travel by train or bus to Riga, fly home from Tallinn. For train connections between the Baltic capitals, the [train travel Europe guide](/en/blog/train-travel-europe/) covers the main routes and booking tips.
 
 ---
 
@@ -125,6 +125,6 @@ Užupis declared independence from Lithuania in 1997. Its constitution includes 
 ---
 
 **Read more:**
-- [Where to Stay in Tallinn: The 5 Neighborhoods](/en/blog/where-to-stay-tallinn)
-- [Where to Stay in Riga: The 5 Neighborhoods](/en/blog/where-to-stay-riga)
-- [Train Travel in Europe: Routes, Tips and Apps](/en/blog/train-travel-europe)
+- [Where to Stay in Tallinn: The 5 Neighborhoods](/en/blog/where-to-stay-tallinn/)
+- [Where to Stay in Riga: The 5 Neighborhoods](/en/blog/where-to-stay-riga/)
+- [Train Travel in Europe: Routes, Tips and Apps](/en/blog/train-travel-europe/)

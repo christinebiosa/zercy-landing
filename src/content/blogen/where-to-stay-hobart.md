@@ -65,7 +65,7 @@ North Hobart is about 2 kilometers from the CBD. Ten minutes by rideshare or tax
 
 **Top picks:** Quest North Hobart (apartment-style hotel, kitchen, close to the restaurant strip), various boutique apartments via Booking.com.
 
-If you're combining Hobart with a broader Australia trip, our [Australia road trip guide](/en/blog/australia-road-trip-route) covers the best routes on the mainland.
+If you're combining Hobart with a broader Australia trip, our [Australia road trip guide](/en/blog/australia-road-trip-route/) covers the best routes on the mainland.
 
 ## Sandy Bay: Quiet by the Yacht Club
 
@@ -79,7 +79,7 @@ For families with children or anyone using Hobart as a base for day trips south 
 
 **Top picks:** Wrest Point Hotel (Hobart's most prominent large hotel, harbour views, casino on-site), Sandy Bay Motor Inn (reliable mid-range, good connectivity), apartments via Booking.com for families needing more space.
 
-If New Zealand is also on your itinerary, our [New Zealand road trip guide](/en/blog/new-zealand-road-trip-guide) is a useful companion piece for planning the wider southern Pacific leg.
+If New Zealand is also on your itinerary, our [New Zealand road trip guide](/en/blog/new-zealand-road-trip-guide/) is a useful companion piece for planning the wider southern Pacific leg.
 
 ## When Is the Best Time to Visit Hobart?
 
@@ -121,6 +121,6 @@ Dark Mofo is Australia's most unusual cultural festival. It grew directly from t
 
 ## Read More
 
-- [Australia Road Trip Route: The Complete Overview](/en/blog/australia-road-trip-route)
-- [Where to Stay in Brisbane](/en/blog/where-to-stay-brisbane)
-- [Is Travel Insurance Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Australia Road Trip Route: The Complete Overview](/en/blog/australia-road-trip-route/)
+- [Where to Stay in Brisbane](/en/blog/where-to-stay-brisbane/)
+- [Is Travel Insurance Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

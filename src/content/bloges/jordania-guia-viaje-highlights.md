@@ -71,6 +71,6 @@ Presupuesto medio: 80 a 130 euros al día sobre el terreno (alojamiento, comida,
 
 ## Más artículos
 
-- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights)
-- [Safari en África Oriental: Todo lo que necesitas saber](/es/blog/safari-africa-oriental-guia)
-- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights/)
+- [Safari en África Oriental: Todo lo que necesitas saber](/es/blog/safari-africa-oriental-guia/)
+- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

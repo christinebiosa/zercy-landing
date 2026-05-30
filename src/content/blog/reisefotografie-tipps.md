@@ -32,7 +32,7 @@ Führungslinien sind ein weiteres starkes Mittel. Straßen, Treppenstufen, Brüc
 
 Rahmen nutzen: Ein Torbogen, ein Fenster, Äste, das Motiv wird interessanter wenn es von etwas umrahmt wird. Das gibt dem Bild Tiefe. Probier es bei der nächsten Stadtbesichtigung aus, es ist verblüffend, wie viel Unterschied es macht.
 
-Lies dazu auch unsere Artikel zu [Geheimtipps Europa](/blog/geheimtipps-europa) und [48 Stunden Barcelona](https://zercy.app/blog) für Inspiration zu fotogenen Reisezielen in Europa.
+Lies dazu auch unsere Artikel zu [Geheimtipps Europa](/blog/geheimtipps-europa/) und [48 Stunden Barcelona](https://zercy.app/blog) für Inspiration zu fotogenen Reisezielen in Europa.
 
 ## Wie fotografiert man Menschen respektvoll auf Reisen?
 
@@ -50,7 +50,7 @@ Das neueste Smartphone ist für 95 Prozent der Reisesituationen gut genug. Die K
 
 Eine Spiegelreflexkamera oder spiegellose Kamera lohnt sich, wenn du echte Nachtfotografie machen willst, mit langen Teleobjektiven arbeitest oder die Bilder groß drucken möchtest. Für Reisefotos auf Social Media und zur Erinnerung reicht das Smartphone meist vollkommen aus.
 
-Wichtig auf Reisen: Akkus und Speicher managen. Nimm mindestens eine Powerbank mit, damit dein Smartphone nicht um 15 Uhr leer ist. Die Regeln zu Powerbanks im Handgepäck findest du in unserem Artikel zu [Powerbank-Regeln Handgepäck 2026](/blog/powerbank-regeln-handgepaeck-2026).
+Wichtig auf Reisen: Akkus und Speicher managen. Nimm mindestens eine Powerbank mit, damit dein Smartphone nicht um 15 Uhr leer ist. Die Regeln zu Powerbanks im Handgepäck findest du in unserem Artikel zu [Powerbank-Regeln Handgepäck 2026](/blog/powerbank-regeln-handgepaeck-2026/).
 
 Für kostenlose Bildbearbeitung: Lightroom Mobile (kostenlose Version) ist die beste Option für Smartphones. Schnelle Anpassungen von Belichtung, Weißabgleich und Kontrast machen aus einem mittelmäßigen Foto ein gutes Foto in wenigen Sekunden.
 
@@ -77,6 +77,6 @@ Früh aufstehen. Beliebte Sehenswürdigkeiten vor 8 Uhr morgens sind oft fast le
 ---
 
 **Weiterlesen:**
-- [Geheimtipps Europa](/blog/geheimtipps-europa)
-- [Albanien Riviera Geheimtipp](/blog/albanien-riviera-geheimtipp)
-- [Stopover Tourismus Guide](/blog/stopover-tourismus-guide)
+- [Geheimtipps Europa](/blog/geheimtipps-europa/)
+- [Albanien Riviera Geheimtipp](/blog/albanien-riviera-geheimtipp/)
+- [Stopover Tourismus Guide](/blog/stopover-tourismus-guide/)

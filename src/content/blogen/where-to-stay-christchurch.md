@@ -81,7 +81,7 @@ Christchurch as your starting point for a South Island road trip? Tell Zercy you
 
 ### How far is Queenstown from Christchurch?
 
-Queenstown is 360 kilometers southwest. By domestic flight: 45 minutes, tickets from 60 NZD (30 EUR). By car or bus via Scenic Highway 73 and 8: about 5 to 6 hours, one of the most beautiful drives on the South Island. By InterCity bus: 7-8 hours. Flying is recommended for one-way trips. The [Queenstown guide](/en/blog/where-to-stay-queenstown) covers what comes next.
+Queenstown is 360 kilometers southwest. By domestic flight: 45 minutes, tickets from 60 NZD (30 EUR). By car or bus via Scenic Highway 73 and 8: about 5 to 6 hours, one of the most beautiful drives on the South Island. By InterCity bus: 7-8 hours. Flying is recommended for one-way trips. The [Queenstown guide](/en/blog/where-to-stay-queenstown/) covers what comes next.
 
 ### What must you see in Christchurch?
 
@@ -89,7 +89,7 @@ Botanic Gardens (free, the green heart of Christchurch), Re:START Container Mall
 
 ### What day trips are there from Christchurch?
 
-Akaroa (charming harbor village on a volcanic peninsula, 90 minutes, dolphin swimming), Kaikōura (whale watching, 2.5 hours north), Mount Hutt ski field (75 minutes west), Arthur's Pass National Park (mountain wilderness, 90 minutes, hiking and railway). The [Auckland guide](/en/blog/where-to-stay-auckland) gives an overview of the best island strategy for the whole country.
+Akaroa (charming harbor village on a volcanic peninsula, 90 minutes, dolphin swimming), Kaikōura (whale watching, 2.5 hours north), Mount Hutt ski field (75 minutes west), Arthur's Pass National Park (mountain wilderness, 90 minutes, hiking and railway). The [Auckland guide](/en/blog/where-to-stay-auckland/) gives an overview of the best island strategy for the whole country.
 
 ### How safe is Christchurch for tourists?
 
@@ -98,6 +98,6 @@ Christchurch is one of the safest large cities in Oceania. The only area deservi
 ---
 
 **Read more:**
-- [Where to Stay in Queenstown: Adventure or Relaxation?](/en/blog/where-to-stay-queenstown)
-- [Where to Stay in Auckland: City or Waterfront?](/en/blog/where-to-stay-auckland)
-- [Australia Road Trip: How to Combine It with New Zealand](/en/blog/australia-road-trip-route)
+- [Where to Stay in Queenstown: Adventure or Relaxation?](/en/blog/where-to-stay-queenstown/)
+- [Where to Stay in Auckland: City or Waterfront?](/en/blog/where-to-stay-auckland/)
+- [Australia Road Trip: How to Combine It with New Zealand](/en/blog/australia-road-trip-route/)

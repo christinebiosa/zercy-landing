@@ -45,7 +45,7 @@ Direkt neben Roma, ähnliche Atmosphäre aber etwas ruhiger. Parque México und 
 
 **Top-Picks:** Condesa DF (legendäres Boutique mit Restaurant), Octavia Casa (Designer-Boutique), Red Tree House (familiengeführt mit Garten).
 
-Lies dazu auch unseren [Workation-Steuern-Guide](/blog/workation-steuern-2026), Mexico City ist 2026 ein Top-Spot für digitale Nomaden. Die [offizielle CDMX-Tourismus-Sekretariat](https://cdmxtravel.com/) hat eine kuratierte Übersicht zu lizenzierten Hotels pro Stadtteil.
+Lies dazu auch unseren [Workation-Steuern-Guide](/blog/workation-steuern-2026/), Mexico City ist 2026 ein Top-Spot für digitale Nomaden. Die [offizielle CDMX-Tourismus-Sekretariat](https://cdmxtravel.com/) hat eine kuratierte Übersicht zu lizenzierten Hotels pro Stadtteil.
 
 ## Polanco: Luxus und Sterne-Restaurants
 
@@ -103,7 +103,7 @@ Für Mexico City ist [Booking.com](https://www.booking.com) klar die beste Platt
 
 Direktbuchung lohnt nur bei Top-Hotels (Four Seasons, St. Regis) für mögliche Upgrades.
 
-Lies dazu auch unseren [Solo-Reisen-Guide](/blog/solo-reisen-frauen-sicher), CDMX ist sicherer als sein Ruf, aber Stadtteil-Wahl bleibt wichtig.
+Lies dazu auch unseren [Solo-Reisen-Guide](/blog/solo-reisen-frauen-sicher/), CDMX ist sicherer als sein Ruf, aber Stadtteil-Wahl bleibt wichtig.
 
 ---
 
@@ -130,6 +130,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel, Tacos, Metro). Mittelkla
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun)
-- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
-- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026)
+- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun/)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena/)
+- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026/)

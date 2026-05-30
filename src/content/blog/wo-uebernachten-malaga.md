@@ -49,7 +49,7 @@ La Malagueta liegt direkt östlich des Zentrums. Der Stadtstrand ist etwa 1,2 Ki
 
 **Top-Picks:** Hotel Vincci Málaga (direkte Strandlage), AC Hotel Málaga Palacio (Panoramablick, zentral), MS Maestranza Hotel (ruhige Lage, Preis-Leistung gut).
 
-Für [Sevilla](/blog/wo-uebernachten-sevilla) und [Madrid](/blog/wo-uebernachten-madrid) gibt es ähnliche Überblicke nach Stadtteil.
+Für [Sevilla](/blog/wo-uebernachten-sevilla/) und [Madrid](/blog/wo-uebernachten-madrid/) gibt es ähnliche Überblicke nach Stadtteil.
 
 ## Wann ist die beste Reisezeit für Málaga?
 
@@ -65,7 +65,7 @@ El Soho liegt zwischen dem historischen Zentrum und dem Hafen. Das Viertel hat s
 
 **Top-Picks:** Soho Boutique Málaga Centro (Lage passt perfekt), NH Collection Gran Hotel de Almería (Design, gut angebunden), Hotel One Shot Málaga Centro.
 
-Auch der [Barcelona-Guide](/blog/wo-uebernachten-barcelona) hat Tipps für ähnliche Kunst-Viertel wie das Eixample und das Born.
+Auch der [Barcelona-Guide](/blog/wo-uebernachten-barcelona/) hat Tipps für ähnliche Kunst-Viertel wie das Eixample und das Born.
 
 ## Pedregalejo: Authentisches Fischerviertel
 
@@ -98,7 +98,7 @@ Für Málaga ist [Booking.com](https://www.booking.com) der verlässlichste Ausg
 
 Wer ein kleines Boutique-Hotel im Centro Histórico bucht, sollte direkt vergleichen, ob der Direktpreis deutlich günstiger ist. Große Ketten wie AC oder NH bieten das selten. Kleine Familienbetriebe in Pedregalejo schon eher.
 
-Schau auch in den [Geheimtipps Europa-Guide](/blog/geheimtipps-europa) für mehr Städte wie Málaga, die oft unterschätzt werden.
+Schau auch in den [Geheimtipps Europa-Guide](/blog/geheimtipps-europa/) für mehr Städte wie Málaga, die oft unterschätzt werden.
 
 ---
 
@@ -125,6 +125,6 @@ November bis Februar sind die günstigsten Monate, mit Ausnahme der Semana Santa
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Sevilla: Die besten Stadtviertel](/blog/wo-uebernachten-sevilla)
-- [Wo übernachten in Barcelona: Stadtteil-Guide](/blog/wo-uebernachten-barcelona)
-- [Geheimtipps Europa: Unterschätzte Städte und Viertel](/blog/geheimtipps-europa)
+- [Wo übernachten in Sevilla: Die besten Stadtviertel](/blog/wo-uebernachten-sevilla/)
+- [Wo übernachten in Barcelona: Stadtteil-Guide](/blog/wo-uebernachten-barcelona/)
+- [Geheimtipps Europa: Unterschätzte Städte und Viertel](/blog/geheimtipps-europa/)

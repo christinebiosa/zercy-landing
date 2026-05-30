@@ -85,6 +85,6 @@ EU citizens don't need a traditional visa, but do need an NZeTA (New Zealand Ele
 Early. The ferry between Wellington and Picton (Interislander or Bluebridge) books out weeks or months ahead in peak season. The same goes for popular DOC huts on the Milford Track or other Great Walks. Once you have a rough route, secure the ferry and hut bookings first.
 
 ## Read more
-- [Where to Stay in Rotorua: Best Hotels and Lodges](/en/blog/where-to-stay-rotorua)
-- [RV and Camper Road Trip USA: The Complete Guide](/en/blog/rv-camper-road-trip-usa)
-- [Travel Insurance for Long-Haul Trips: What Actually Matters](/en/blog/travel-insurance-guide)
+- [Where to Stay in Rotorua: Best Hotels and Lodges](/en/blog/where-to-stay-rotorua/)
+- [RV and Camper Road Trip USA: The Complete Guide](/en/blog/rv-camper-road-trip-usa/)
+- [Travel Insurance for Long-Haul Trips: What Actually Matters](/en/blog/travel-insurance-guide/)

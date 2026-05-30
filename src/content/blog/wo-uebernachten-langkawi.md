@@ -55,7 +55,7 @@ Pantai Tengah liegt direkt südlich von Cenang. Kein offizieller Stadtbereich, d
 
 **Top-Picks:** Holiday Villa Beach & Suites (geräumige Suiten, direkter Strand, Pool), Resorts World Langkawi (Entertainment-Resort, Casino, verschiedene Hotel-Stile), Berjaya Langkawi Resort (Mangroven-Bungalows, einzigartiges Konzept, Natur pur).
 
-Den [Malaysia Reiseguide](/blog/wo-uebernachten-penang) und die [Südostasien Budget-Empfehlungen](/blog/suedostasien-budget-reisen) findest du für übergreifende Malaysia-Planung. Wer auch Penang plant: [Wo übernachten in Penang](/blog/wo-uebernachten-penang).
+Den [Malaysia Reiseguide](/blog/wo-uebernachten-penang/) und die [Südostasien Budget-Empfehlungen](/blog/suedostasien-budget-reisen/) findest du für übergreifende Malaysia-Planung. Wer auch Penang plant: [Wo übernachten in Penang](/blog/wo-uebernachten-penang/).
 
 ## Datai Bay: Abgeschiedenes Luxus-Refugium
 
@@ -106,6 +106,6 @@ Pantai Cenang: beste Infrastruktur, weißer Sand, gut zum Schwimmen. Pantai Kok 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Penang: Die besten Stadtteile](/blog/wo-uebernachten-penang)
-- [Südostasien: Günstig reisen mit Budget-Tipps](/blog/suedostasien-budget-reisen)
-- [Wo übernachten in Kuala Lumpur: Die besten Viertel](/blog/wo-uebernachten-kuala-lumpur)
+- [Wo übernachten in Penang: Die besten Stadtteile](/blog/wo-uebernachten-penang/)
+- [Südostasien: Günstig reisen mit Budget-Tipps](/blog/suedostasien-budget-reisen/)
+- [Wo übernachten in Kuala Lumpur: Die besten Viertel](/blog/wo-uebernachten-kuala-lumpur/)

@@ -38,9 +38,9 @@ Three key differences from traveling with younger children:
 
 ## Which Destinations Work for Teenagers?
 
-**Japan** is almost universally popular. Anime culture, street food in Tokyo, gaming arcades in Akihabara, Harajuku fashion, console stores in Osaka. And incidentally: one of the safest big cities in the world. Teenagers can walk through Tokyo neighborhoods alone without their parents worrying. Our [Tokyo foodie guide](/en/blog/tokyo-foodie-trip) covers the best spots.
+**Japan** is almost universally popular. Anime culture, street food in Tokyo, gaming arcades in Akihabara, Harajuku fashion, console stores in Osaka. And incidentally: one of the safest big cities in the world. Teenagers can walk through Tokyo neighborhoods alone without their parents worrying. Our [Tokyo foodie guide](/en/blog/tokyo-foodie-trip/) covers the best spots.
 
-**New York City** delivers energy, diversity, everything within walking distance. Times Square is touristy but teenagers love it. Brooklyn for culture and street art. Central Park, High Line, Chelsea Market. No museum obligations required. Best accommodation in Midtown or Chelsea. Our [New York guide](/en/blog/where-to-stay-new-york) helps with the neighborhood choice.
+**New York City** delivers energy, diversity, everything within walking distance. Times Square is touristy but teenagers love it. Brooklyn for culture and street art. Central Park, High Line, Chelsea Market. No museum obligations required. Best accommodation in Midtown or Chelsea. Our [New York guide](/en/blog/where-to-stay-new-york/) helps with the neighborhood choice.
 
 **Big cities in general** work better than beaches. Beaches are relaxing for parents. Teenagers need input, stimulation, experiences. Barcelona, Madrid, Lisbon, Berlin, Montreal, Buenos Aires, Bangkok: all work well.
 
@@ -58,7 +58,7 @@ Three key differences from traveling with younger children:
 
 ## Tech Tips: SIM Cards and Offline Navigation
 
-A local SIM or eSIM is essential for teenagers. Without mobile data they feel cut off. That creates more conflict than it is worth. eSIM providers like Airalo or Holafly cost 5 to 15 EUR for a week. Our [cyber security while traveling](/en/blog/cyber-security-travel-2026) article covers digital safety on the road.
+A local SIM or eSIM is essential for teenagers. Without mobile data they feel cut off. That creates more conflict than it is worth. eSIM providers like Airalo or Holafly cost 5 to 15 EUR for a week. Our [cyber security while traveling](/en/blog/cyber-security-travel-2026/) article covers digital safety on the road.
 
 Install an offline map (Google Maps Offline, Maps.me) before you fly. In countries with weak data networks or expensive roaming charges this is important.
 
@@ -98,6 +98,6 @@ It depends on the individual, not the age. The key factors: do they know emergen
 ---
 
 **Read more:**
-- [Traveling with a Baby: The First Flights](/en/blog/traveling-with-baby-first-flights)
-- [Cyber Security While Traveling: What You Really Need](/en/blog/cyber-security-travel-2026)
-- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only)
+- [Traveling with a Baby: The First Flights](/en/blog/traveling-with-baby-first-flights/)
+- [Cyber Security While Traveling: What You Really Need](/en/blog/cyber-security-travel-2026/)
+- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only/)

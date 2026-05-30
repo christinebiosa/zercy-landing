@@ -36,7 +36,7 @@ Esta es la palanca de precio más importante para las familias. La diferencia pu
 
 **Temporada baja:** Vuelos más baratos, destinos más tranquilos, pero a veces peor clima. Para niños en primaria vale la pena consultar si un progenitor puede solicitar una ausencia autorizada por motivo educativo.
 
-Consejo: quien reserva pronto ahorra. Los buenos vuelos de verano para familias se reservan en octubre del año anterior. Para saber cuándo es mejor reservar vuelos, consulta el artículo sobre [cuándo comprar vuelos baratos](/es/blog/donde-alojarse-cancun).
+Consejo: quien reserva pronto ahorra. Los buenos vuelos de verano para familias se reservan en octubre del año anterior. Para saber cuándo es mejor reservar vuelos, consulta el artículo sobre [cuándo comprar vuelos baratos](/es/blog/donde-alojarse-cancun/).
 
 ## ¿Qué ayuda de verdad cuando viajas en avión con niños?
 
@@ -62,7 +62,7 @@ Otras ventajas del apartamento: más espacio, dormitorios separados, lavadora, n
 
 Airbnb funciona bien para familias, pero busca opiniones que mencionen específicamente niños. Booking.com tiene una selección creciente de apartamentos vacacionales, a menudo con mejores políticas de cancelación.
 
-Para escapadas a ciudad con niños pequeños, una habitación familiar en un hotel es a veces más práctica que gestionar varios alojamientos. En el artículo sobre [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires) encontrarás más sobre la lógica de elección de barrio para familias en una gran ciudad.
+Para escapadas a ciudad con niños pequeños, una habitación familiar en un hotel es a veces más práctica que gestionar varios alojamientos. En el artículo sobre [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) encontrarás más sobre la lógica de elección de barrio para familias en una gran ciudad.
 
 ## ¿Qué items de equipaje realmente importan?
 
@@ -110,6 +110,6 @@ Mantén la calma. Verifica antes de salir que tu seguro médico cubre el país d
 ---
 
 **Más información:**
-- [Dónde alojarse en Cancún: Los 5 barrios](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Lima: Barrios y hoteles](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Buenos Aires: Barrios y hoteles](/es/blog/donde-alojarse-buenos-aires)
+- [Dónde alojarse en Cancún: Los 5 barrios](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Lima: Barrios y hoteles](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Buenos Aires: Barrios y hoteles](/es/blog/donde-alojarse-buenos-aires/)

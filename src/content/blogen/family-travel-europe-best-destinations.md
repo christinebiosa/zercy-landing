@@ -43,7 +43,7 @@ Toddlers under 4 have different requirements: no long walks to sights, nap-time 
 
 **Lake Garda (Italy):** Mild climate, flat areas for toddlers, lakeside promenade easy to navigate, local cuisine works for picky eaters. Venice as a day trip (1 hour), but no stroller chaos on-site at the lake.
 
-**Mallorca (Spain):** Family resort complexes with baby clubs from 6 months, shallow pools with separate children's area. Hot in August, better in May/June/September. Also read our [Boutique Hotels Guide](/en/blog/boutique-hotels) for family-friendly alternatives to big resorts.
+**Mallorca (Spain):** Family resort complexes with baby clubs from 6 months, shallow pools with separate children's area. Hot in August, better in May/June/September. Also read our [Boutique Hotels Guide](/en/blog/boutique-hotels/) for family-friendly alternatives to big resorts.
 
 **North Sea Coast Germany/Netherlands:** Tidal flats, mud-flat walks, sandy beaches. No flying needed, 3-8 hours by car from most German cities. Cheapest family holiday in Europe for those on a tighter budget.
 
@@ -83,6 +83,6 @@ Rule of thumb: no more than 4-5 hours per day. With breaks every 1.5 hours and o
 ---
 
 **Read more:**
-- [Traveling with Baby: First Flight Without the Stress](/en/blog/traveling-with-baby-first-flights)
-- [Traveling with a Dog in Europe: What You Really Need to Know](/en/blog/traveling-with-dog-europe)
-- [Slow Travel: Why Going Slower Means More](/en/blog/slow-travel-what-it-really-means)
+- [Traveling with Baby: First Flight Without the Stress](/en/blog/traveling-with-baby-first-flights/)
+- [Traveling with a Dog in Europe: What You Really Need to Know](/en/blog/traveling-with-dog-europe/)
+- [Slow Travel: Why Going Slower Means More](/en/blog/slow-travel-what-it-really-means/)

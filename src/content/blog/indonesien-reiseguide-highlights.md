@@ -70,6 +70,6 @@ Für Bali plus eine weitere Insel (z.B. Komodo oder Lombok) mindestens 10 bis 12
 ---
 
 **Mehr lesen:**
-- [Indien Reiseguide: Highlights für deinen Trip](/blog/indien-reiseguide-highlights)
-- [Australien Rundreise: Die beste Route](/blog/australien-rundreise-route)
-- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt)
+- [Indien Reiseguide: Highlights für deinen Trip](/blog/indien-reiseguide-highlights/)
+- [Australien Rundreise: Die beste Route](/blog/australien-rundreise-route/)
+- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)

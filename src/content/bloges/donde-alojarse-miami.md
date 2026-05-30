@@ -102,7 +102,7 @@ Miami es el destino de playa más caro de Estados Unidos. Rangos realistas por n
 
 Más: impuesto estatal de Florida 7 por ciento + tasa turística 6-9 por ciento. Tip: mayo-septiembre son 30-40 por ciento más baratos que la temporada alta (diciembre-abril), pero temporada de huracanes junio-noviembre (revisa pronóstico del clima).
 
-Lee también nuestra [guía de Cancún](/es/blog/donde-alojarse-cancun), una combinación clásica con Miami para viajeros del Caribe.
+Lee también nuestra [guía de Cancún](/es/blog/donde-alojarse-cancun/), una combinación clásica con Miami para viajeros del Caribe.
 
 ## ¿Dónde deberías reservar al final?
 
@@ -141,6 +141,6 @@ Mochilero: 1.500-2.000 USD por persona incl. vuelo (hostal SoBe, autosuficiente,
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Cancún: 4 zonas](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena)
-- [Dónde alojarse en Tulum: Los mejores barrios](/es/blog/donde-alojarse-tulum)
+- [Dónde alojarse en Cancún: 4 zonas](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena/)
+- [Dónde alojarse en Tulum: Los mejores barrios](/es/blog/donde-alojarse-tulum/)

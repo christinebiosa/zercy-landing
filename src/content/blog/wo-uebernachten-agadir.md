@@ -77,7 +77,7 @@ Der Al Massira Airport liegt 25 km südöstlich der Stadt. Taxis kosten 100-150 
 
 ### Was kann man in Agadir neben dem Strand machen?
 
-Souk El Had (einer der größten Märkte Südmarokkos), Kasbah-Ruinen mit Aussicht über die Bucht, Valle des Oiseaux (Vogelpark), Tagesausflüge nach Tiznit (Silberschmiede-Stadt), Taroudant (kleine Marrakesch-Version). Der [Marokko-Städteguide](/blog/marokko-staedte-guide) zeigt, was in der Region sehenswert ist.
+Souk El Had (einer der größten Märkte Südmarokkos), Kasbah-Ruinen mit Aussicht über die Bucht, Valle des Oiseaux (Vogelpark), Tagesausflüge nach Tiznit (Silberschmiede-Stadt), Taroudant (kleine Marrakesch-Version). Der [Marokko-Städteguide](/blog/marokko-staedte-guide/) zeigt, was in der Region sehenswert ist.
 
 ### Welcher Strand ist der beste in Agadir?
 
@@ -90,6 +90,6 @@ Agadir gilt als eine der sichersten Städte Marokkos für Touristen. Die Strandp
 ---
 
 **Mehr lesen:**
-- [Marokko Städteguide: Fès, Marrakesch und die Küste](/blog/marokko-staedte-guide)
-- [Wo übernachten in Marrakesch: Die 5 besten Viertel](/blog/wo-uebernachten-marrakesch)
-- [Riads in Marokko: Was sie kosten und wo die besten sind](/blog/riads-marokko-guide)
+- [Marokko Städteguide: Fès, Marrakesch und die Küste](/blog/marokko-staedte-guide/)
+- [Wo übernachten in Marrakesch: Die 5 besten Viertel](/blog/wo-uebernachten-marrakesch/)
+- [Riads in Marokko: Was sie kosten und wo die besten sind](/blog/riads-marokko-guide/)

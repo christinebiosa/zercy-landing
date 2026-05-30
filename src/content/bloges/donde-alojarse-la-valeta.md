@@ -64,7 +64,7 @@ Birgu, Senglea y Bormla —las Tres Ciudades— están justo frente a La Valeta,
 - **The Birgu Suite:** Apartamentos de lujo en casas históricas. Ambiente genuinamente único.
 - **Casas de huéspedes en Birgu:** Pequeñas pensiones desde 60 euros, ideales para quienes buscan atmósfera sin la masificación de La Valeta.
 
-Para los amantes de los destinos poco comunes, nuestra guía de [joyas ocultas de Europa](/es/blog/joyas-ocultas-europa) tiene más ideas parecidas.
+Para los amantes de los destinos poco comunes, nuestra guía de [joyas ocultas de Europa](/es/blog/joyas-ocultas-europa/) tiene más ideas parecidas.
 
 ## ¿Dónde deberías reservar en Malta?
 
@@ -97,6 +97,6 @@ La Valeta es una de las ciudades históricamente más densas de Europa: 320 monu
 ---
 
 **Leer más:**
-- [Joyas ocultas de Europa: ciudades infravaloradas](/es/blog/joyas-ocultas-europa)
-- [Dónde alojarse en Barcelona: 5 barrios comparados](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Roma: de Trastevere a Prati](/es/blog/donde-alojarse-roma)
+- [Joyas ocultas de Europa: ciudades infravaloradas](/es/blog/joyas-ocultas-europa/)
+- [Dónde alojarse en Barcelona: 5 barrios comparados](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Roma: de Trastevere a Prati](/es/blog/donde-alojarse-roma/)

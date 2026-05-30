@@ -69,7 +69,7 @@ Gruž es el puerto de trabajo de Dubrovnik, desde donde salen los ferries a Spli
 - **Apartamentos privados en Gruž:** Estudios desde 40 euros la noche en Booking.com si reservas con antelación.
 - **Albergues cerca de la terminal:** Varios albergues concentrados junto a la terminal de buses y ferries.
 
-Para más ideas de destinos alternativos en Europa, consulta nuestra guía de [joyas ocultas de Europa](/es/blog/joyas-ocultas-europa).
+Para más ideas de destinos alternativos en Europa, consulta nuestra guía de [joyas ocultas de Europa](/es/blog/joyas-ocultas-europa/).
 
 ## ¿Dónde deberías reservar en Dubrovnik?
 
@@ -102,6 +102,6 @@ Vuelos directos desde la mayoría de ciudades europeas de abril a octubre. El ae
 ---
 
 **Leer más:**
-- [Joyas ocultas de Europa: las ciudades infravaloradas](/es/blog/joyas-ocultas-europa)
-- [Dónde alojarse en Praga: los 5 barrios principales](/es/blog/donde-alojarse-praga)
-- [Dónde alojarse en Barcelona: 5 barrios comparados](/es/blog/donde-alojarse-barcelona)
+- [Joyas ocultas de Europa: las ciudades infravaloradas](/es/blog/joyas-ocultas-europa/)
+- [Dónde alojarse en Praga: los 5 barrios principales](/es/blog/donde-alojarse-praga/)
+- [Dónde alojarse en Barcelona: 5 barrios comparados](/es/blog/donde-alojarse-barcelona/)

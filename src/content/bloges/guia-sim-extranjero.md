@@ -53,7 +53,7 @@ Si tienes un operador europeo y viajas dentro de la UE (más Noruega, Islandia y
 
 El roaming sin activar paquete fuera de la UE puede costar entre 5 y 20 euros por MB. Eso no es typo: por megabyte. Si no activas un paquete antes de salir, desactiva los datos móviles en el aeropuerto o recibirás una factura inesperada.
 
-Para viajes a países de Latinoamérica como los destinos de la guía de [dónde alojarse en Cartagena](/es/blog/donde-alojarse-cartagena), la SIM local o una eSIM es casi siempre la opción más sensata.
+Para viajes a países de Latinoamérica como los destinos de la guía de [dónde alojarse en Cartagena](/es/blog/donde-alojarse-cartagena/), la SIM local o una eSIM es casi siempre la opción más sensata.
 
 ## ¿Qué funciona mejor según la región?
 
@@ -67,7 +67,7 @@ Para viajes a países de Latinoamérica como los destinos de la guía de [dónde
 
 **Estados Unidos y Canadá:** el roaming desde Europa puede ser viable si tu operador tiene un buen paquete norteamericano. Alternativa: eSIM de un operador local (AT&T, T-Mobile) a través de Airalo. Las SIMs locales en EE.UU. suelen requerir verificación de identidad más compleja.
 
-Si viajas a Chiang Mai u otros destinos del sudeste asiático, la guía de [dónde alojarse en Chiang Mai](/es/blog/donde-alojarse-chiang-mai) incluye información sobre cómo moverse por la ciudad, donde el dato móvil es especialmente útil para los tuk-tuk y mapas.
+Si viajas a Chiang Mai u otros destinos del sudeste asiático, la guía de [dónde alojarse en Chiang Mai](/es/blog/donde-alojarse-chiang-mai/) incluye información sobre cómo moverse por la ciudad, donde el dato móvil es especialmente útil para los tuk-tuk y mapas.
 
 Zercy puede ayudarte a planificar la conectividad de tu viaje junto con vuelos y alojamiento. Guarda todos los detalles en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -94,6 +94,6 @@ Porque en la eSIM pagas también la comodidad de no tener que buscar una tienda 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Chiang Mai](/es/blog/donde-alojarse-chiang-mai)
-- [Dónde alojarse en Cartagena](/es/blog/donde-alojarse-cartagena)
-- [Dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico)
+- [Dónde alojarse en Chiang Mai](/es/blog/donde-alojarse-chiang-mai/)
+- [Dónde alojarse en Cartagena](/es/blog/donde-alojarse-cartagena/)
+- [Dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico/)

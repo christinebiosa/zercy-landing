@@ -29,7 +29,7 @@ Udaipur es más pequeña de lo que muchos esperan. Eso hace que la elección del
 
 La Ciudad Vieja es el corazón de Udaipur. Callejones adoquinados que llevan a pequeños templos. Alojamientos en havelis con terrazas desde las que se ve directamente el lago Pichola y el Taj Lake Palace al fondo. Vendedores de textiles, joyería de plata y especias. Es estrecha, colorida y, al atardecer, sencillamente impresionante.
 
-Como base para recorrer a pie los principales atractivos, nada supera la Ciudad Vieja. El City Palace, el templo Jagdish y el embarcadero para las excursiones en barca están a unos minutos caminando. Quienes combinan Udaipur con [Jaipur](/es/blog/donde-alojarse-jaipur) en una ruta por Rajastán suelen guardar Udaipur para el final, como punto culminante del viaje. Toda la información sobre horarios de visita y rutas está disponible en la web del [Departamento de Turismo de Rajastán](https://www.rajasthantourism.gov.in).
+Como base para recorrer a pie los principales atractivos, nada supera la Ciudad Vieja. El City Palace, el templo Jagdish y el embarcadero para las excursiones en barca están a unos minutos caminando. Quienes combinan Udaipur con [Jaipur](/es/blog/donde-alojarse-jaipur/) en una ruta por Rajastán suelen guardar Udaipur para el final, como punto culminante del viaje. Toda la información sobre horarios de visita y rutas está disponible en la web del [Departamento de Turismo de Rajastán](https://www.rajasthantourism.gov.in).
 
 **A quién le conviene:** Parejas, fotógrafos, primerizos, quienes quieren vivir Udaipur al máximo.
 
@@ -41,7 +41,7 @@ Como base para recorrer a pie los principales atractivos, nada supera la Ciudad 
 
 El City Palace es el complejo de palacios más grande de Rajastán y se eleva sobre los lagos. Los hoteles en sus inmediaciones suelen tener vistas tanto a los palacios como al agua. Los establecimientos de herencia en antiguas havelis dominan la oferta. Es más tranquilo que los callejones de la Ciudad Vieja, pero sigues estando cerca de todo.
 
-Quienes quieren llegar al City Palace antes de que lleguen los grupos organizados se benefician de alojarse aquí. El palacio abre a las 9:30, y aparecer 20 minutos antes cambia por completo la experiencia. Para planificar India en general, nuestra [guía de viaje a India](/es/blog/india-guia-viaje-highlights) ofrece una visión completa de las rutas principales.
+Quienes quieren llegar al City Palace antes de que lleguen los grupos organizados se benefician de alojarse aquí. El palacio abre a las 9:30, y aparecer 20 minutos antes cambia por completo la experiencia. Para planificar India en general, nuestra [guía de viaje a India](/es/blog/india-guia-viaje-highlights/) ofrece una visión completa de las rutas principales.
 
 **A quién le conviene:** Viajeros culturales, amantes de la historia, quienes quieren menos caos que en la Ciudad Vieja sin perder la proximidad.
 
@@ -57,7 +57,7 @@ De octubre a marzo es lo ideal. Temperaturas entre 15 y 30 grados, cielo despeja
 
 La zona al oeste y al sur del lago Pichola está justo más allá de la ciudad vieja densa. Grandes resorts y hoteles boutique aprovechan la posición en la ladera para ofrecer vistas sin obstáculos. Menos ruido, más espacio. Las parejas que eligen Udaipur como destino de luna de miel y quienes necesitan desconectar del ritmo intenso de Delhi o Mumbai se orientan hacia aquí.
 
-La conexión con la Ciudad Vieja funciona en tuk-tuk en 10-15 minutos. Los mejores puntos para ver el atardecer junto al lago quedan a un trayecto corto por las tardes. Si [Mumbai](/es/blog/donde-alojarse-mumbai) también está en tu itinerario, Udaipur después es un cambio de ritmo deliberado y muy bien merecido.
+La conexión con la Ciudad Vieja funciona en tuk-tuk en 10-15 minutos. Los mejores puntos para ver el atardecer junto al lago quedan a un trayecto corto por las tardes. Si [Mumbai](/es/blog/donde-alojarse-mumbai/) también está en tu itinerario, Udaipur después es un cambio de ritmo deliberado y muy bien merecido.
 
 **A quién le conviene:** Parejas, viajeros de lujo, quienes buscan tranquilidad después de ciudades intensas.
 
@@ -69,7 +69,7 @@ La conexión con la Ciudad Vieja funciona en tuk-tuk en 10-15 minutos. Los mejor
 
 Fateh Sagar es el más septentrional de los dos grandes lagos de Udaipur. El paseo marítimo junto a sus orillas es un punto de encuentro local, no una atracción turística. Por las tardes, familias y jóvenes pasean frente al agua. Comida callejera, puestos de chai, vida urbana cotidiana de India. Los hoteles aquí son más baratos y mucho menos turistificados.
 
-Para los viajeros que quieren conocer Udaipur más allá de la postal, Fateh Sagar es la elección correcta. Los mochileros con más tiempo y los grupos que priorizan el presupuesto llegan aquí de forma natural. Si todavía estás pensando cuándo reservar los vuelos para tu viaje a India, nuestro análisis sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos) cubre las ventanas clave.
+Para los viajeros que quieren conocer Udaipur más allá de la postal, Fateh Sagar es la elección correcta. Los mochileros con más tiempo y los grupos que priorizan el presupuesto llegan aquí de forma natural. Si todavía estás pensando cuándo reservar los vuelos para tu viaje a India, nuestro análisis sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) cubre las ventanas clave.
 
 **A quién le conviene:** Viajeros con presupuesto, estancias largas, quienes prefieren la vida local.
 
@@ -81,7 +81,7 @@ Para los viajeros que quieren conocer Udaipur más allá de la postal, Fateh Sag
 
 Gangaur Ghat está en la orilla sur del lago Pichola, lejos de las multitudes del casco antiguo. Es un lugar de baño ritual. Por las mañanas llegan los locales para su rutina matinal cuando la luz aún es baja. Por las tardes, una de las mejores excursiones en barca sale precisamente desde aquí. Los hoteles en esta zona suelen ser havelis y alojamientos pequeños, menos conocidos pero con mucha atmósfera.
 
-Para los viajeros que quieren conocer de verdad Udaipur y no solo fotografiarla, la zona de Gangaur Ghat es un descubrimiento tranquilo. Antes de cualquier viaje a India conviene tener el seguro en orden. Nuestro análisis sobre el [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena) cubre lo que realmente importa para Rajastán.
+Para los viajeros que quieren conocer de verdad Udaipur y no solo fotografiarla, la zona de Gangaur Ghat es un descubrimiento tranquilo. Antes de cualquier viaje a India conviene tener el seguro en orden. Nuestro análisis sobre el [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) cubre lo que realmente importa para Rajastán.
 
 **A quién le conviene:** Viajeros solos, visitantes con experiencia en India, quienes valoran la profundidad más que la comodidad.
 
@@ -122,11 +122,11 @@ Las havelis más básicas en la Ciudad Vieja empiezan alrededor de 20-40 EUR por
 
 ### ¿Cuántos días deberías planear para Udaipur?
 
-Dos días completos cubren el City Palace, una excursión en barca por el lago Pichola, el templo Jagdish y la luz del atardecer en los ghats. Tres días es mejor si también quieres visitar el jardín Saheliyon-ki-Bari y el Monsoon Palace al anochecer. Como parte de una ruta por Rajastán, Udaipur se combina muy bien con [Jaipur](/es/blog/donde-alojarse-jaipur) y Jodhpur para un circuito clásico de tres ciudades.
+Dos días completos cubren el City Palace, una excursión en barca por el lago Pichola, el templo Jagdish y la luz del atardecer en los ghats. Tres días es mejor si también quieres visitar el jardín Saheliyon-ki-Bari y el Monsoon Palace al anochecer. Como parte de una ruta por Rajastán, Udaipur se combina muy bien con [Jaipur](/es/blog/donde-alojarse-jaipur/) y Jodhpur para un circuito clásico de tres ciudades.
 
 ---
 
 **Más información:**
-- [Dónde alojarse en Jaipur: barrios y hoteles](/es/blog/donde-alojarse-jaipur)
-- [Guía de viaje a India: highlights y planificación](/es/blog/india-guia-viaje-highlights)
-- [Seguro de viaje: ¿Vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
+- [Dónde alojarse en Jaipur: barrios y hoteles](/es/blog/donde-alojarse-jaipur/)
+- [Guía de viaje a India: highlights y planificación](/es/blog/india-guia-viaje-highlights/)
+- [Seguro de viaje: ¿Vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)

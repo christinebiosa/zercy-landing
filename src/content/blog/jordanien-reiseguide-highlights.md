@@ -71,6 +71,6 @@ Mittleres Budget: 80 bis 130 Euro pro Tag vor Ort (Unterkunft, Essen, Eintrittsg
 
 ## Mehr lesen
 
-- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights)
-- [Safari Ostafrika Guide: Was du wissen musst](/blog/safari-ostafrika-guide)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights/)
+- [Safari Ostafrika Guide: Was du wissen musst](/blog/safari-ostafrika-guide/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

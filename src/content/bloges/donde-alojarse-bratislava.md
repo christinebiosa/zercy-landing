@@ -103,7 +103,7 @@ Dile a Zercy qué planeas en Bratislava: paseos por la ciudad antigua, una excur
 
 ### ¿A qué distancia está Bratislava de Viena?
 
-Solo 60 kilómetros. En tren unos 45 minutos (Railjet desde Bratislava Hlavná stanica). En coche aproximadamente una hora. Muchos viajeros combinan ambas ciudades. Bratislava es la base notablemente más económica. Más información aquí: [Dónde alojarse en Viena](/es/blog/donde-alojarse-viena).
+Solo 60 kilómetros. En tren unos 45 minutos (Railjet desde Bratislava Hlavná stanica). En coche aproximadamente una hora. Muchos viajeros combinan ambas ciudades. Bratislava es la base notablemente más económica. Más información aquí: [Dónde alojarse en Viena](/es/blog/donde-alojarse-viena/).
 
 ### ¿Es Bratislava segura para los turistas?
 
@@ -120,6 +120,6 @@ Bratislava es claramente más barata. Los hoteles cuestan entre un 30 y un 50 po
 ---
 
 **Leer más:**
-- [Dónde alojarse en Viena: Los 5 distritos](/es/blog/donde-alojarse-viena)
-- [Dónde alojarse en Budapest: Los 5 barrios](/es/blog/donde-alojarse-budapest)
-- [Dónde alojarse en Praga: Los 4 barrios](/es/blog/donde-alojarse-praga)
+- [Dónde alojarse en Viena: Los 5 distritos](/es/blog/donde-alojarse-viena/)
+- [Dónde alojarse en Budapest: Los 5 barrios](/es/blog/donde-alojarse-budapest/)
+- [Dónde alojarse en Praga: Los 4 barrios](/es/blog/donde-alojarse-praga/)

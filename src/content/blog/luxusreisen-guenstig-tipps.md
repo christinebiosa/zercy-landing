@@ -20,7 +20,7 @@ Premiumhotels haben mehr Zimmer, höheren Fixkostenanteil und deshalb größeren
 
 Last-Minute-Pricing ist im Luxussegment aggressiver. Hotels die um 19 Uhr noch 60 Prozent Auslastung haben, setzen Zimmerpreise um bis zu 50 Prozent herunter. Das Monitoring-Tool dafür: HotelTonight, booking.com Last-Minute, oder direkt beim Concierge anrufen und fragen.
 
-Spontan-Upgrade-Strategie: Buche das Standardzimmer eines Luxushotels, erscheine nach 20 Uhr und frage nach Verfügbarkeit für die höhere Kategorie. In der Nebensaison klappt das in 40-50 Prozent der Fälle. Mehr dazu im [Hotel-Upgrade-Guide](/blog/hotel-upgrade-gratis-tipps).
+Spontan-Upgrade-Strategie: Buche das Standardzimmer eines Luxushotels, erscheine nach 20 Uhr und frage nach Verfügbarkeit für die höhere Kategorie. In der Nebensaison klappt das in 40-50 Prozent der Fälle. Mehr dazu im [Hotel-Upgrade-Guide](/blog/hotel-upgrade-gratis-tipps/).
 
 ## Wie kommt man günstig an Business-Class-Tickets?
 
@@ -32,7 +32,7 @@ Business Class für Economy-Preis ist möglich. Mehrere Wege:
 
 **Upgrades beim Check-in kaufen:** Viele Airlines bieten kurz vor Abflug Upgrades für 150-400 Euro an. Lufthansa MyOffer, British Airways Upgrade Bidding, Singapore Airlines Kris Flyer Upgrade. Deutlich unter dem Listenpreis.
 
-**Einmal Meilen nutzen:** Wenn du schon Frequent-Flyer-Meilen angesammelt hast (durch Kreditkartenprogramme oder frühere Flüge), ist Business Class eine der besten Einlösemöglichkeiten. Mehr dazu im [Business-Class-ohne-Meilen-Guide](/blog/business-class-ohne-meilen).
+**Einmal Meilen nutzen:** Wenn du schon Frequent-Flyer-Meilen angesammelt hast (durch Kreditkartenprogramme oder frühere Flüge), ist Business Class eine der besten Einlösemöglichkeiten. Mehr dazu im [Business-Class-ohne-Meilen-Guide](/blog/business-class-ohne-meilen/).
 
 ## Welche Luxusreiseziele lohnen sich auch im Budget?
 
@@ -40,7 +40,7 @@ Luxus-Erlebnis ist relativ zum lokalen Preisniveau. Was in London 800 Euro pro N
 
 **Bali, Indonesien:** Weltklasse-Villen mit Privatpool in Ubud und Seminyak: 150-350 Euro pro Nacht. Das gleiche Niveau in Europa: 500-1.500 Euro. Bali ist eines der besten Luxus-für-Budget-Ziele weltweit.
 
-**Marrakesch, Marokko:** Riads (traditionelle Stadthäuser mit Innenhof) mit Weltklasse-Service: 120-300 Euro pro Nacht. Authentisch, opulent, keine Kompromisse. Sieh unseren [Riads-Guide](/blog/riads-marokko-guide).
+**Marrakesch, Marokko:** Riads (traditionelle Stadthäuser mit Innenhof) mit Weltklasse-Service: 120-300 Euro pro Nacht. Authentisch, opulent, keine Kompromisse. Sieh unseren [Riads-Guide](/blog/riads-marokko-guide/).
 
 **Thailand:** 5-Sterne-Resorts in Koh Samui oder Krabi: 200-400 Euro pro Nacht statt 800+ Euro in der Karibik. Gleicher Standard, 50 Prozent günstiger.
 
@@ -54,7 +54,7 @@ Das Restaurant kennt deine Allergien ohne dass du es wiederholen musst. Der Tran
 
 Diese Art von Service findet sich nicht immer in den teuersten Hotels der Welt. Kleinere Boutique-Resorts und Familiengeführte Häuser sind oft aufmerksamer als Großresorts. Kimpton Hotels, Six Senses, Aman und Singita sind hier führend.
 
-Sieh auch unseren [Boutique Hotels Guide](/blog/boutique-hotels) für Häuser die Service über Sterne stellen.
+Sieh auch unseren [Boutique Hotels Guide](/blog/boutique-hotels/) für Häuser die Service über Sterne stellen.
 
 ---
 
@@ -81,6 +81,6 @@ Günstigste Fenster: Schulzeiten außerhalb der Ferien (November-März für euro
 ---
 
 **Mehr lesen:**
-- [Hotel-Upgrade gratis: 7 Methoden die wirklich funktionieren](/blog/hotel-upgrade-gratis-tipps)
-- [Business Class günstig: Ohne Meilen zum Premium-Sitz](/blog/business-class-ohne-meilen)
-- [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket)
+- [Hotel-Upgrade gratis: 7 Methoden die wirklich funktionieren](/blog/hotel-upgrade-gratis-tipps/)
+- [Business Class günstig: Ohne Meilen zum Premium-Sitz](/blog/business-class-ohne-meilen/)
+- [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket/)

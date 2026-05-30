@@ -20,7 +20,7 @@ Three cities in five days. Two countries, four flights, eight attractions per da
 
 **Mistake 2: No Travel Insurance**
 
-Most travelers think: "Nothing will happen to me." Travel insurance statistics say otherwise. A medical emergency in the USA without insurance: quickly 50,000-200,000 EUR. In Australia or Canada: similar. Our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026) explains what's worth it and when. The base rule: don't fly without insurance.
+Most travelers think: "Nothing will happen to me." Travel insurance statistics say otherwise. A medical emergency in the USA without insurance: quickly 50,000-200,000 EUR. In Australia or Canada: similar. Our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) explains what's worth it and when. The base rule: don't fly without insurance.
 
 **Mistake 3: Taking Only One Card**
 
@@ -52,7 +52,7 @@ Your phone is dead. Your passport is gone. You don't know your travel insurance 
 
 **Mistake 10: Travel Insurance That Excludes Extreme Sports**
 
-You book a trekking trip in Nepal. Your insurance covers "trekking" up to 4,000m. Everest Base Camp is at 5,364m. You fall. No helicopter rescue. No coverage. Read the policy conditions, don't just compare the price. Extreme sports (diving, climbing, off-piste skiing, rafting) often require a separate add-on. Our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026) shows which policies cover which activities.
+You book a trekking trip in Nepal. Your insurance covers "trekking" up to 4,000m. Everest Base Camp is at 5,364m. You fall. No helicopter rescue. No coverage. Read the policy conditions, don't just compare the price. Extreme sports (diving, climbing, off-piste skiing, rafting) often require a separate add-on. Our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) shows which policies cover which activities.
 
 ## What Should You Check Before Every Trip?
 
@@ -73,7 +73,7 @@ Less is more. This is not a guidebook cliché. It's experience from long-term tr
 
 A concrete rule: a maximum of 2 planned activities per travel day. The rest happens on its own.
 
-For airport-specific stress reduction, our [airport hacks guide](/en/blog/airport-hacks) covers everything from fast-track security to lounge access without a business ticket.
+For airport-specific stress reduction, our [airport hacks guide](/en/blog/airport-hacks/) covers everything from fast-track security to lounge access without a business ticket.
 
 ---
 
@@ -100,6 +100,6 @@ Extreme sports (off-piste skiing, deep-sea diving, climbing above certain altitu
 ---
 
 **Read more:**
-- [Travel Insurance: What's Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
-- [Airport Hacks: How to Survive Any Airport](/en/blog/airport-hacks)
-- [Cyber Security While Traveling: What You Need to Know](/en/blog/cyber-security-travel-2026)
+- [Travel Insurance: What's Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)
+- [Airport Hacks: How to Survive Any Airport](/en/blog/airport-hacks/)
+- [Cyber Security While Traveling: What You Need to Know](/en/blog/cyber-security-travel-2026/)

@@ -22,7 +22,7 @@ Culturalmente, Turquía ofrece más intensidad. [Capadocia](https://www.goturkey
 
 Bodrum y la costa del Egeo ofrecen playa, vida nocturna y ambiente náutico. La región de Antalya, especialmente Alanya, atrae a grupos más jóvenes. Y Turquía se calienta antes: la costa del Egeo ya tiene temperatura agradable para bañarse en abril y mayo, mientras que Grecia no alcanza temperaturas estables de baño hasta junio.
 
-Para los vuelos: las conexiones desde ciudades europeas importantes a Estambul, Antalya o Bodrum salen desde aproximadamente 100 euros de ida y vuelta fuera de la temporada punta. Consulta los [consejos vuelos baratos](/es/blog/consejos-vuelos-baratos) para los mejores momentos de reserva.
+Para los vuelos: las conexiones desde ciudades europeas importantes a Estambul, Antalya o Bodrum salen desde aproximadamente 100 euros de ida y vuelta fuera de la temporada punta. Consulta los [consejos vuelos baratos](/es/blog/consejos-vuelos-baratos/) para los mejores momentos de reserva.
 
 ## ¿Cuándo gana Grecia?
 
@@ -36,7 +36,7 @@ Creta funciona especialmente bien para familias: playas de arena llana con aguas
 
 Grecia también tiene una temporada baja de calidad. Septiembre y octubre siguen siendo cálidos, los hoteles bajan de precio y la masificación disminuye notablemente. Para quien no está atado a julio y agosto, el otoño griego es una revelación.
 
-Para comparar las islas en detalle: [comparativa islas griegas](/es/blog/islas-griegas-comparativa) profundiza en qué isla encaja con cada perfil de viaje.
+Para comparar las islas en detalle: [comparativa islas griegas](/es/blog/islas-griegas-comparativa/) profundiza en qué isla encaja con cada perfil de viaje.
 
 ## ¿Cuánto cuesta realmente cada destino?
 
@@ -58,7 +58,7 @@ Números concretos mejor que generalidades.
 
 Dos semanas con algo de comodidad y libertad cuestan notablemente menos en Turquía. Grecia requiere un presupuesto más generoso, sobre todo si Santorini o Mykonos están en el itinerario.
 
-El truco de las [fechas flexibles para ahorrar en vuelos](/es/blog/fechas-flexibles-vuelos-ahorro) aplica a los dos destinos. Volar una semana antes o después puede ahorrar entre un 30 y un 50 por ciento solo en el vuelo.
+El truco de las [fechas flexibles para ahorrar en vuelos](/es/blog/fechas-flexibles-vuelos-ahorro/) aplica a los dos destinos. Volar una semana antes o después puede ahorrar entre un 30 y un 50 por ciento solo en el vuelo.
 
 ## ¿Qué tan seguros son ambos países?
 
@@ -68,7 +68,7 @@ Turquía tiene peor reputación que lo que la realidad justifica. Las zonas tur�
 
 Entrada: los ciudadanos de la UE entran a Grecia sin ningún trámite más allá del pasaporte. Turquía requiere un e-visado (20 dólares, solicitud online en minutos). Ambos procesos son sencillos.
 
-Para opciones de alojamiento en Atenas: [dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas) ofrece un desglose por barrios.
+Para opciones de alojamiento en Atenas: [dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas/) ofrece un desglose por barrios.
 
 ## ¿Cuál es la conclusión final?
 
@@ -83,9 +83,9 @@ Ninguno es mejor. Son diferentes. Y a veces la herramienta adecuada hace la comp
 Zercy te muestra precios de vuelos y hoteles en tiempo real para los dos destinos. Introduce tu punto de partida y las fechas del viaje para comparar ambas opciones al mismo tiempo. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano cuando reserves.
 
 **Seguir leyendo:**
-- [Islas griegas: ¿cuál te conviene?](/es/blog/islas-griegas-comparativa)
-- [Consejos para volar barato](/es/blog/consejos-vuelos-baratos)
-- [Fechas flexibles: ahorra hasta un 50% en vuelos](/es/blog/fechas-flexibles-vuelos-ahorro)
+- [Islas griegas: ¿cuál te conviene?](/es/blog/islas-griegas-comparativa/)
+- [Consejos para volar barato](/es/blog/consejos-vuelos-baratos/)
+- [Fechas flexibles: ahorra hasta un 50% en vuelos](/es/blog/fechas-flexibles-vuelos-ahorro/)
 
 ## Preguntas frecuentes
 

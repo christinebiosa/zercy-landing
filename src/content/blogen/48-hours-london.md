@@ -33,7 +33,7 @@ The afternoon belongs to the **South Bank**. Walk west along the Thames: piers, 
 
 Evening: **Covent Garden** for the first hour. Street performers, the historic market hall, good energy. Then move on toward the **West End** if you have a theater ticket. London has the best theater scene in the world. Last-minute tickets are often available from 30 to 40 pounds at the box office or through the TKTS app. End the night in **Soho**: restaurants from every cuisine, lively bars, nowhere else does density like this.
 
-Not sure where to sleep yet? Our guide on [where to stay in London](/en/blog/where-to-stay-london) covers neighborhoods by budget and travel style.
+Not sure where to sleep yet? Our guide on [where to stay in London](/en/blog/where-to-stay-london/) covers neighborhoods by budget and travel style.
 
 ## Day 2: Notting Hill, Hyde Park and Chelsea
 
@@ -47,7 +47,7 @@ Chelsea is worth a short walk after the museum, particularly the King's Road. No
 
 Two options for the final evening. **Sky Garden** (Fenchurch Street, free with advance booking) is a public rooftop garden on the 35th floor with a panoramic view of the City. **The Shard** offers equally impressive views, but charges entry around 30 pounds. The Sky Garden booking is the smart move. It fills up fast, so book a few days ahead.
 
-Then departure. Gatwick, Heathrow, or St Pancras for the Eurostar: budget at least 60 minutes of buffer. More on transfers and airport connections in our [airport transfer guide](/en/blog/airport-transfer-guide-2026).
+Then departure. Gatwick, Heathrow, or St Pancras for the Eurostar: budget at least 60 minutes of buffer. More on transfers and airport connections in our [airport transfer guide](/en/blog/airport-transfer-guide-2026/).
 
 ## When Is the Best Time to Visit London?
 
@@ -69,7 +69,7 @@ Sights: Tower of London around 34 pounds, Tower Bridge Experience around 18 poun
 
 Everything excluding flights and hotel: realistically 150 to 250 pounds for two days, depending on theater tickets and museum choices.
 
-If you want to save on flights, packing [carry-on only](/en/blog/carry-on-only) cuts baggage fees, and our guide on [when to book flights](/en/blog/when-to-book-flights) shows when London prices start climbing.
+If you want to save on flights, packing [carry-on only](/en/blog/carry-on-only/) cuts baggage fees, and our guide on [when to book flights](/en/blog/when-to-book-flights/) shows when London prices start climbing.
 
 ---
 
@@ -93,11 +93,11 @@ Use an Oyster Card or contactless card on the Tube. A daily spending cap applies
 
 ### Which neighborhood works best for staying in London?
 
-Shoreditch and Southwark (East/South) are trendy and well connected. Notting Hill and South Kensington (West) are quieter and more residential. Covent Garden sits in the center and is ideal if you have a theater evening planned. Specific hotel picks and neighborhood breakdowns are in the [London where to stay guide](/en/blog/where-to-stay-london).
+Shoreditch and Southwark (East/South) are trendy and well connected. Notting Hill and South Kensington (West) are quieter and more residential. Covent Garden sits in the center and is ideal if you have a theater evening planned. Specific hotel picks and neighborhood breakdowns are in the [London where to stay guide](/en/blog/where-to-stay-london/).
 
 ---
 
 **Read more:**
-- [Where to Stay in London: Neighborhood Guide with Hotel Picks](/en/blog/where-to-stay-london)
-- [Carry-On Only: How to Skip Checked Baggage Every Time](/en/blog/carry-on-only)
-- [Airport Transfer Guide 2026: Getting In and Out Without Overpaying](/en/blog/airport-transfer-guide-2026)
+- [Where to Stay in London: Neighborhood Guide with Hotel Picks](/en/blog/where-to-stay-london/)
+- [Carry-On Only: How to Skip Checked Baggage Every Time](/en/blog/carry-on-only/)
+- [Airport Transfer Guide 2026: Getting In and Out Without Overpaying](/en/blog/airport-transfer-guide-2026/)

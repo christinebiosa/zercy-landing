@@ -17,7 +17,7 @@ Günstiger. Ruhiger. Und ja, das Essen ist besser. Keine heiße Meinung. Frag je
 
 Lissabon hat sich verändert. Die Mieten sind explodiert, die Altstadt gehört den Touristen, und ein Espresso in Alfama kostet inzwischen fast so viel wie in Paris. Porto hat diesen Punkt noch nicht erreicht.
 
-Ein Bier in einer Bar an der Ribeira: 2 Euro. Ein komplettes Abendessen mit Wein im Zentrum: 15 bis 25 Euro pro Person. Ein Doppelzimmer in einem guten Boutique-Hotel: ab 80 Euro. [Boutique-Hotels](/blog/boutique-hotels) in Porto bieten oft mehr Charakter als die großen Ketten in Lissabon.
+Ein Bier in einer Bar an der Ribeira: 2 Euro. Ein komplettes Abendessen mit Wein im Zentrum: 15 bis 25 Euro pro Person. Ein Doppelzimmer in einem guten Boutique-Hotel: ab 80 Euro. [Boutique-Hotels](/blog/boutique-hotels/) in Porto bieten oft mehr Charakter als die großen Ketten in Lissabon.
 
 Und die Massen? In der Hochsaison schiebst du dich in Lissabon durch die Straßen. In Porto hast du selbst im Juli noch ruhige Ecken. Das ändert sich langsam. Aber Stand heute: Porto atmet noch.
 
@@ -45,7 +45,7 @@ Tipp: Lauf über die Ponte Dom Luis I. Die obere Ebene hat den besseren Blick. U
 
 Der Bahnhof São Bento ist kein Durchgangsort. Er ist eine Sehenswürdigkeit. 20.000 Azulejo-Fliesen bedecken die Eingangshalle. Sie erzählen Szenen aus der portugiesischen Geschichte, von Schlachten bis zur Ankunft der Eisenbahn.
 
-Und er ist voll funktionsfähig. Von hier fahren Regionalzüge ins Douro-Tal. [Zugreisen in Europa](/blog/zugreisen-europa) sind oft unterschätzt, und die Strecke entlang des Douro gehört zu den schönsten des Kontinents.
+Und er ist voll funktionsfähig. Von hier fahren Regionalzüge ins Douro-Tal. [Zugreisen in Europa](/blog/zugreisen-europa/) sind oft unterschätzt, und die Strecke entlang des Douro gehört zu den schönsten des Kontinents.
 
 ## Douro Valley: Ein Tagesausflug, der sich lohnt
 
@@ -79,11 +79,11 @@ Beste Viertel zum Übernachten: Ribeira (zentral, touristisch), Cedofeita (jung,
 
 Laut [Visit Portugal](https://www.visitportugal.com/en/destinos/porto-e-norte) ist die Region Porto e Norte eine der vielfältigsten des Landes. Das stimmt. Porto allein reicht für eine Woche. Mit dem Douro-Tal und der Küste locker für zwei.
 
-Und wenn du nach günstigen Flügen suchst: [hier findest du die besten Tipps](/blog/guenstig-fliegen-tipps).
+Und wenn du nach günstigen Flügen suchst: [hier findest du die besten Tipps](/blog/guenstig-fliegen-tipps/).
 
 ---
 
-Porto ist eine Stadt, die Zercy besonders gern empfiehlt. Wenn du deine nächste Reise planst, hilft dir [Zercy](/blog/was-ist-zercy) dabei, die besten Flüge und Verbindungen zu finden.
+Porto ist eine Stadt, die Zercy besonders gern empfiehlt. Wenn du deine nächste Reise planst, hilft dir [Zercy](/blog/was-ist-zercy/) dabei, die besten Flüge und Verbindungen zu finden.
 
 ## Häufige Fragen
 
@@ -106,6 +106,6 @@ Ribeira ist perfekt für kurze Aufenthalte, weil alles zu Fuß erreichbar ist. C
 ---
 
 Read more:
-- [Geheimtipps Europa: 7 Orte abseits](/blog/geheimtipps-europa)
-- [Zugreisen in Europa: Die besten Strecken](/blog/zugreisen-europa)
-- [Günstig fliegen: Die besten Tipps](/blog/guenstig-fliegen-tipps)
+- [Geheimtipps Europa: 7 Orte abseits](/blog/geheimtipps-europa/)
+- [Zugreisen in Europa: Die besten Strecken](/blog/zugreisen-europa/)
+- [Günstig fliegen: Die besten Tipps](/blog/guenstig-fliegen-tipps/)

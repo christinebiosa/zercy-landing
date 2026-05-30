@@ -45,7 +45,7 @@ New Orleans' tourist center and oldest neighborhood (founded 1718). Bourbon Stre
 
 **Top picks:** Henry Howard Hotel (boutique in restored 1867 mansion), The Pontchartrain Hotel (classic premium since 1927), Maison de la Luz (5-star boutique).
 
-See our [stopover tourism guide](/en/blog/stopover-tourism-guide), New Orleans is a perfect layover stop.
+See our [stopover tourism guide](/en/blog/stopover-tourism-guide/), New Orleans is a perfect layover stop.
 
 ## When is the best time to visit New Orleans?
 
@@ -119,6 +119,6 @@ Backpacker: $1,100-1,700 per person incl. flight (hostel in Marigny, po-boys, st
 ---
 
 **Read more:**
-- [Where to stay in Miami: 5 neighborhoods](/en/blog/where-to-stay-miami)
-- [Where to stay in Los Angeles: 5 neighborhoods](/en/blog/where-to-stay-los-angeles)
-- [Stopover tourism: turn layovers into mini-trips](/en/blog/stopover-tourism-guide)
+- [Where to stay in Miami: 5 neighborhoods](/en/blog/where-to-stay-miami/)
+- [Where to stay in Los Angeles: 5 neighborhoods](/en/blog/where-to-stay-los-angeles/)
+- [Stopover tourism: turn layovers into mini-trips](/en/blog/stopover-tourism-guide/)

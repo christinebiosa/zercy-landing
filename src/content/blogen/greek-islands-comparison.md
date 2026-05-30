@@ -55,7 +55,7 @@ Crete for all traveler types:
 
 Crete is the only one of these four islands you can stretch to more than a week without running out of things to do.
 
-Also read our [Iceland Travel Guide](/en/blog/iceland-travel-guide) for other spectacular European island experiences.
+Also read our [Iceland Travel Guide](/en/blog/iceland-travel-guide/) for other spectacular European island experiences.
 
 ## What makes Rhodes different from the other three?
 
@@ -92,6 +92,6 @@ Minimum 4 nights, ideally 6-7 nights on one island. Less doesn't justify the exp
 ---
 
 **Read more:**
-- [Iceland Travel Guide: What You Need to Know](/en/blog/iceland-travel-guide)
-- [Hidden Gems Europe: Places Not Everyone Has Found](/en/blog/hidden-gems-europe)
-- [Northern Lights 2026: Where, When, and How to Plan the Trip](/en/blog/northern-lights-2026-where-when-how)
+- [Iceland Travel Guide: What You Need to Know](/en/blog/iceland-travel-guide/)
+- [Hidden Gems Europe: Places Not Everyone Has Found](/en/blog/hidden-gems-europe/)
+- [Northern Lights 2026: Where, When, and How to Plan the Trip](/en/blog/northern-lights-2026-where-when-how/)

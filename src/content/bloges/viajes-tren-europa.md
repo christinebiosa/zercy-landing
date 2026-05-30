@@ -54,7 +54,7 @@ Para reservas internacionales con comparador: Rail Europe (raileurope.com), Trai
 
 **Ruta costera Portugal (Porto-Lagos):** el tren por la costa atlántica del Algarve, con vistas al océano desde los últimos pueblos del continente europeo.
 
-Para combinar el viaje en tren con las mejores ciudades, consulta nuestra guía de [trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026) o los artículos sobre [48 horas en Roma](/es/blog/48-horas-roma) y [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica).
+Para combinar el viaje en tren con las mejores ciudades, consulta nuestra guía de [trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026/) o los artículos sobre [48 horas en Roma](/es/blog/48-horas-roma/) y [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica/).
 
 Zercy puede ayudarte a comparar opciones de transporte para tu ruta europea. Guarda tu itinerario en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -81,6 +81,6 @@ Muy accesible. El Eurail Pass se compra online antes de viajar desde cualquier p
 ---
 
 **Más para leer:**
-- [Trenes nocturnos en Europa 2026: la guía definitiva](/es/blog/trenes-nocturnos-europa-2026)
-- [Cruceros como base: cómo explorar más ciudades en cada escala](/es/blog/cruceros-ampliar-ciudades)
-- [Lisboa fuera de la ruta turística: los barrios que visitar](/es/blog/lisboa-fuera-ruta-turistica)
+- [Trenes nocturnos en Europa 2026: la guía definitiva](/es/blog/trenes-nocturnos-europa-2026/)
+- [Cruceros como base: cómo explorar más ciudades en cada escala](/es/blog/cruceros-ampliar-ciudades/)
+- [Lisboa fuera de la ruta turística: los barrios que visitar](/es/blog/lisboa-fuera-ruta-turistica/)

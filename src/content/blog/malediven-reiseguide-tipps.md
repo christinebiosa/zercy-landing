@@ -62,7 +62,7 @@ Wenn das Budget nicht reicht oder du ähnliches Erlebnis günstiger willst:
 
 **Philippinen (El Nido, Palawan):** Kristallklares Wasser, Karstfelsen, Tauchen auf Weltklasse-Niveau. Flüge teurer als nach Malediven, aber Lebenshaltungskosten deutlich günstiger.
 
-**Zanzibar (Tansania):** Spice Island, Swahili-Kultur, Sansibar Stone Town. Strand und Kultur kombiniert. Günstiger als Malediven, komplexerer Reise-Charakter. Sieh unseren [Sansibar-Guide](/blog/sansibar-stone-town-guide).
+**Zanzibar (Tansania):** Spice Island, Swahili-Kultur, Sansibar Stone Town. Strand und Kultur kombiniert. Günstiger als Malediven, komplexerer Reise-Charakter. Sieh unseren [Sansibar-Guide](/blog/sansibar-stone-town-guide/).
 
 ---
 
@@ -89,6 +89,6 @@ Keine spezifischen Pflichtimpfungen für Malediven. Einreise mit EU-Reisepass vi
 ---
 
 **Mehr lesen:**
-- [Sansibar Stone Town Guide: Was du wirklich wissen musst](/blog/sansibar-stone-town-guide)
-- [Patagonien: 3 Wochen Route durch das Ende der Welt](/blog/patagonien-3-wochen-route)
-- [Slow Travel: Warum langsamer reisen mehr bedeutet](/blog/slow-travel-bedeutet-was)
+- [Sansibar Stone Town Guide: Was du wirklich wissen musst](/blog/sansibar-stone-town-guide/)
+- [Patagonien: 3 Wochen Route durch das Ende der Welt](/blog/patagonien-3-wochen-route/)
+- [Slow Travel: Warum langsamer reisen mehr bedeutet](/blog/slow-travel-bedeutet-was/)

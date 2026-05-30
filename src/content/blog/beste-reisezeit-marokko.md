@@ -15,7 +15,7 @@ Marokko ist ein Ganzjahresziel im Großen und Ganzen. Aber "ganzjährig möglich
 
 Frühling und Herbst sind die Hauptsaisons für Marrakesch, Fès und Meknès.
 
-**März bis Mai:** Die beste Zeit insgesamt. Temperaturen zwischen 18 und 28 Grad, blühende Gärten, angenehme Bedingungen für Märkte, Medina-Spaziergänge und Ausflüge in den Hohen Atlas. Die Rosenfelder im Dadestal blühen typischerweise im April und Mai. Der Marokko-Städteguide erklärt die [besten Stadttouren](/blog/marokko-staedte-guide) für diese Saison.
+**März bis Mai:** Die beste Zeit insgesamt. Temperaturen zwischen 18 und 28 Grad, blühende Gärten, angenehme Bedingungen für Märkte, Medina-Spaziergänge und Ausflüge in den Hohen Atlas. Die Rosenfelder im Dadestal blühen typischerweise im April und Mai. Der Marokko-Städteguide erklärt die [besten Stadttouren](/blog/marokko-staedte-guide/) für diese Saison.
 
 **September bis November:** Ebenfalls ausgezeichnet. Die schlimmste Sommerhitze ist gebrochen, die Farben des Lichts werden wärmer, und Oktober bringt ein ruhigeres Reisen ohne die Frühlingsspitze. Wer Sahara-Touren plant, hat im Oktober und November ideale Bedingungen: nicht zu heiß, klare Sternenhimmel.
 
@@ -29,7 +29,7 @@ Für Sahara-Ausflüge und die Wüstenregionen gilt eine klare Faustformel: Oktob
 
 Der Sommer in der Sahara ist lebensfeindlich heiß. Temperaturen von 45 bis 50 Grad in der Wüste sind keine Seltenheit. Wer Kameltouren, Overnight-Camps oder den Dünenkamm bei Merzouga sehen will, reist am besten von Oktober bis März. Die Nächte sind kalt (0 bis 10 Grad), aber das ist leicht zu handhaben.
 
-Der [Marokko-Roadtrip](/blog/marokko-roadtrip) entlang der Kasbahs und Dünentäler lässt sich in dieser Zeit ohne Einschränkungen durchführen.
+Der [Marokko-Roadtrip](/blog/marokko-roadtrip/) entlang der Kasbahs und Dünentäler lässt sich in dieser Zeit ohne Einschränkungen durchführen.
 
 ## Was bedeutet Ramadan für Reisende?
 
@@ -43,7 +43,7 @@ Agadir und Essaouira sind die Ausnahmen von der Sommerhitzregel. Beide liegen am
 
 Wer im Sommer nach Marokko reist, bleibt an der Atlantikküste und vermeidet das Landesinnere.
 
-Für [Riad-Aufenthalte in Marrakesch](/blog/riads-marokko-guide) ist die Frühlingszeit mit offenen Terrassenflächen ideal, da die Abendtemperaturen zum Sitzen unter freiem Himmel einladen.
+Für [Riad-Aufenthalte in Marrakesch](/blog/riads-marokko-guide/) ist die Frühlingszeit mit offenen Terrassenflächen ideal, da die Abendtemperaturen zum Sitzen unter freiem Himmel einladen.
 
 ---
 
@@ -69,6 +69,6 @@ Marrakesch für Medina und Djemaa el-Fna, Fès für die älteste Altstadt der We
 
 ## Mehr lesen
 
-- [Marokko Städteguide: Die besten Orte](/blog/marokko-staedte-guide)
-- [Marokko Roadtrip: Route durch den Süden](/blog/marokko-roadtrip)
-- [Riads in Marokko: Was du wissen musst](/blog/riads-marokko-guide)
+- [Marokko Städteguide: Die besten Orte](/blog/marokko-staedte-guide/)
+- [Marokko Roadtrip: Route durch den Süden](/blog/marokko-roadtrip/)
+- [Riads in Marokko: Was du wissen musst](/blog/riads-marokko-guide/)

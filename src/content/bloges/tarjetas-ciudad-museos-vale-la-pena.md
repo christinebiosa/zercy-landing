@@ -40,7 +40,7 @@ No todas las tarjetas son iguales. Una comparación honesta:
 
 **Barcelona Card:** Buena para transporte más muchos museos pequeños. Débil para un viaje centrado en Gaudí ya que la Sagrada Família no está incluida.
 
-Lee también nuestra [guía de apartamento vs. hotel](/es/blog/apartamento-vs-hotel-cual-elegir): a veces redistribuir el presupuesto de la tarjeta en un mejor alojamiento tiene más sentido para tu viaje.
+Lee también nuestra [guía de apartamento vs. hotel](/es/blog/apartamento-vs-hotel-cual-elegir/): a veces redistribuir el presupuesto de la tarjeta en un mejor alojamiento tiene más sentido para tu viaje.
 
 ## ¿Qué suele incluir una tarjeta de ciudad?
 
@@ -91,6 +91,6 @@ La Tarjeta de Praga ofrece la mejor relación calidad-precio: asequible, red den
 ---
 
 **Más para leer:**
-- [Hoteles boutique: qué obtienes realmente](/es/blog/hoteles-boutique-guia)
-- [Airbnb vs. hotel: comparación honesta 2026](/es/blog/airbnb-vs-hotel-comparacion)
-- [Booking.com Genius: ¿vale la pena?](/es/blog/booking-genius-vale-la-pena)
+- [Hoteles boutique: qué obtienes realmente](/es/blog/hoteles-boutique-guia/)
+- [Airbnb vs. hotel: comparación honesta 2026](/es/blog/airbnb-vs-hotel-comparacion/)
+- [Booking.com Genius: ¿vale la pena?](/es/blog/booking-genius-vale-la-pena/)

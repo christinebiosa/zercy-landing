@@ -57,7 +57,7 @@ Leidseplein und Rembrandtplein sind die lebhaftesten Plätze der Stadt am Abend.
 
 ## Wo übernachten für ein Amsterdam-Wochenende?
 
-Jordaan und Centrum sind zentral, aber teurer. Hotels in De Pijp oder Oud-West liegen 20 bis 30 Gehminuten von den Sehenswürdigkeiten und kosten deutlich weniger. Rechne mit 100 bis 200 Euro pro Nacht für ein solides Mittelklasse-Hotel. Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) findest du die gesamte Bandbreite mit Stadtteil-Filter. Für eine detaillierte Unterkunft-Übersicht nach Viertel hilft unser Guide zu [wo übernachten in Amsterdam](/blog/wo-uebernachten-amsterdam).
+Jordaan und Centrum sind zentral, aber teurer. Hotels in De Pijp oder Oud-West liegen 20 bis 30 Gehminuten von den Sehenswürdigkeiten und kosten deutlich weniger. Rechne mit 100 bis 200 Euro pro Nacht für ein solides Mittelklasse-Hotel. Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) findest du die gesamte Bandbreite mit Stadtteil-Filter. Für eine detaillierte Unterkunft-Übersicht nach Viertel hilft unser Guide zu [wo übernachten in Amsterdam](/blog/wo-uebernachten-amsterdam/).
 
 ## Was kostet ein Wochenende in Amsterdam?
 
@@ -65,9 +65,9 @@ Rijksmuseum: 20 Euro. Anne Frank Haus: 16 Euro. GVB-Tagesticket für alle U-Bahn
 
 ## Wann ist Amsterdam am schönsten?
 
-April und Mai. Dann blühen die Tulpen, der Keukenhof (30 Minuten mit dem Bus vom Zentrum) hat gerade geöffnet, und die Stadt ist noch nicht überfüllt. Juni bis August ist schön, aber voll und teurer. Der Herbst ist malerisch durch die Blätter an den Grachten, aber regnerisch. Wenn du flexibel bist, lohnt sich ein Blick auf [wann Flüge buchen](/blog/wann-fluege-buchen), bevor du die Daten festlegst.
+April und Mai. Dann blühen die Tulpen, der Keukenhof (30 Minuten mit dem Bus vom Zentrum) hat gerade geöffnet, und die Stadt ist noch nicht überfüllt. Juni bis August ist schön, aber voll und teurer. Der Herbst ist malerisch durch die Blätter an den Grachten, aber regnerisch. Wenn du flexibel bist, lohnt sich ein Blick auf [wann Flüge buchen](/blog/wann-fluege-buchen/), bevor du die Daten festlegst.
 
-Für die Anreise: Amsterdam Schiphol ist einer der meistfrequentierten Hubs Europas. Unsere [Airport-Hacks](/blog/airport-hacks) helfen beim schnellen Durchkommen. Und falls du überlegst, ob Zug oder Flug sinnvoller ist, findest du eine ehrliche Analyse in unserem Vergleich [Bahn vs. Flieger Europa 2026](/blog/bahn-vs-flieger-europa-2026).
+Für die Anreise: Amsterdam Schiphol ist einer der meistfrequentierten Hubs Europas. Unsere [Airport-Hacks](/blog/airport-hacks/) helfen beim schnellen Durchkommen. Und falls du überlegst, ob Zug oder Flug sinnvoller ist, findest du eine ehrliche Analyse in unserem Vergleich [Bahn vs. Flieger Europa 2026](/blog/bahn-vs-flieger-europa-2026/).
 
 Zercy findet den günstigsten Flug nach Amsterdam und dein Hotel in einem Schritt. Speichere alles im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen nichts vergisst.
 
@@ -81,7 +81,7 @@ In der Hochsaison (April bis August, Feiertage, Schulferien) gehen Tickets oft M
 
 ### Welches Viertel ist am besten zum Wohnen in Amsterdam?
 
-Jordaan ist das beliebteste Viertel: zentral, schön, aber entsprechend teuer. De Pijp ist lebendiger, günstiger und hat gute Restaurantdichte. Oud-West liegt ruhig und ist gut angebunden. Die Unterschiede nach Budget und Reisestil sind real. Details dazu im Guide zu [wo übernachten in Amsterdam](/blog/wo-uebernachten-amsterdam).
+Jordaan ist das beliebteste Viertel: zentral, schön, aber entsprechend teuer. De Pijp ist lebendiger, günstiger und hat gute Restaurantdichte. Oud-West liegt ruhig und ist gut angebunden. Die Unterschiede nach Budget und Reisestil sind real. Details dazu im Guide zu [wo übernachten in Amsterdam](/blog/wo-uebernachten-amsterdam/).
 
 ### Was kann ich in Amsterdam weglassen?
 
@@ -94,6 +94,6 @@ Der Sprinter von Schiphol Airport nach Amsterdam Centraal fährt jede paar Minut
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Amsterdam: Viertel und Hotels nach Budget](/blog/wo-uebernachten-amsterdam)
-- [Bahn vs. Flieger in Europa 2026: Wann lohnt sich was?](/blog/bahn-vs-flieger-europa-2026)
-- [Airport Hacks: Schneller durch jeden Flughafen](/blog/airport-hacks)
+- [Wo übernachten in Amsterdam: Viertel und Hotels nach Budget](/blog/wo-uebernachten-amsterdam/)
+- [Bahn vs. Flieger in Europa 2026: Wann lohnt sich was?](/blog/bahn-vs-flieger-europa-2026/)
+- [Airport Hacks: Schneller durch jeden Flughafen](/blog/airport-hacks/)

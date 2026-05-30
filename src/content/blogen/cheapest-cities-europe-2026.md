@@ -18,7 +18,7 @@ Cheap here means a daily budget under 65 euros, including accommodation, meals a
 
 **1. Tirana (Albania) — €30 to €40/day**
 
-Tirana is the cheapest capital city trip in Europe. A two-course dinner with wine costs 8 to 12 euros. A private room in a hostel starts at 12 euros. The city bus costs 0.30 euros per ride. For that money you get a city reinventing itself: colorful facades, lively bars, no tourist crowds. Day trips to the [Albanian Riviera](/en/blog/albania-riviera-hidden-coast) are easy from here and add almost nothing to the budget.
+Tirana is the cheapest capital city trip in Europe. A two-course dinner with wine costs 8 to 12 euros. A private room in a hostel starts at 12 euros. The city bus costs 0.30 euros per ride. For that money you get a city reinventing itself: colorful facades, lively bars, no tourist crowds. Day trips to the [Albanian Riviera](/en/blog/albania-riviera-hidden-coast/) are easy from here and add almost nothing to the budget.
 
 **2. Skopje (North Macedonia) — €32 to €45/day**
 
@@ -26,7 +26,7 @@ Skopje is bizarre, cheap and striking. The city center is crammed with statues a
 
 **3. Sofia (Bulgaria) — €35 to €50/day**
 
-Sofia surprises people. Good museums, a functioning metro, a relaxed café culture. A main dish at a local restaurant costs 4 to 7 euros. A beer: 1.50 to 2 euros. Hostel double room: 14 to 20 euros. Metro ticket: 0.80 euros. For accommodation options by neighborhood, see [where to stay in Sofia](/en/blog/where-to-stay-sofia).
+Sofia surprises people. Good museums, a functioning metro, a relaxed café culture. A main dish at a local restaurant costs 4 to 7 euros. A beer: 1.50 to 2 euros. Hostel double room: 14 to 20 euros. Metro ticket: 0.80 euros. For accommodation options by neighborhood, see [where to stay in Sofia](/en/blog/where-to-stay-sofia/).
 
 **4. Belgrade (Serbia) — €40 to €55/day**
 
@@ -38,11 +38,11 @@ Krakow has the best old town in Central Europe, a lively main square and cheap P
 
 **6. Budapest (Hungary) — €50 to €65/day**
 
-Budapest offers the best value-to-experience ratio in Central Europe. Thermal baths from 10 euros. Lángos at a street stall: 2 euros. A three-course dinner in the ruin bar district: 12 to 18 euros. Hostel double room: 16 to 25 euros. Metro day pass: 6 euros. For neighborhood breakdowns, see [where to stay in Budapest](/en/blog/where-to-stay-budapest).
+Budapest offers the best value-to-experience ratio in Central Europe. Thermal baths from 10 euros. Lángos at a street stall: 2 euros. A three-course dinner in the ruin bar district: 12 to 18 euros. Hostel double room: 16 to 25 euros. Metro day pass: 6 euros. For neighborhood breakdowns, see [where to stay in Budapest](/en/blog/where-to-stay-budapest/).
 
 **7. Bucharest (Romania) — €45 to €60/day**
 
-Bucharest has an undeserved reputation. It's actually one of the most interesting cities in Eastern Europe, with an old town that has staged a real comeback. Local cuisine at a lunch restaurant: 5 to 8 euros. Beer: 1.50 euros. Hostel: 12 to 20 euros. Metro ticket: 0.50 euros. Full neighborhood guide: [where to stay in Bucharest](/en/blog/where-to-stay-bucharest).
+Bucharest has an undeserved reputation. It's actually one of the most interesting cities in Eastern Europe, with an old town that has staged a real comeback. Local cuisine at a lunch restaurant: 5 to 8 euros. Beer: 1.50 euros. Hostel: 12 to 20 euros. Metro ticket: 0.50 euros. Full neighborhood guide: [where to stay in Bucharest](/en/blog/where-to-stay-bucharest/).
 
 **8. Tallinn (Estonia) — €50 to €65/day**
 
@@ -70,7 +70,7 @@ EU countries like Bulgaria and Romania have not yet adopted the euro (as of 2026
 
 ## Which hidden gems should you consider beyond this list?
 
-If you want to go further off the beaten track, Moldova (Chișinău), Kosovo (Pristina) and Bosnia (Sarajevo) come in at similar or lower price points with even fewer tourists. For a broader overview, take a look at [hidden gems in Europe](/en/blog/hidden-gems-europe).
+If you want to go further off the beaten track, Moldova (Chișinău), Kosovo (Pristina) and Bosnia (Sarajevo) come in at similar or lower price points with even fewer tourists. For a broader overview, take a look at [hidden gems in Europe](/en/blog/hidden-gems-europe/).
 
 ---
 
@@ -97,6 +97,6 @@ May to June and September to October are the best months for Balkan city trips. 
 ---
 
 **Read more:**
-- [Hidden Gems in Europe: Cities Beyond the Mainstream](/en/blog/hidden-gems-europe)
-- [Albania Riviera: Europe's Hidden Coast](/en/blog/albania-riviera-hidden-coast)
-- [Where to Stay in Budapest: Best Neighborhoods](/en/blog/where-to-stay-budapest)
+- [Hidden Gems in Europe: Cities Beyond the Mainstream](/en/blog/hidden-gems-europe/)
+- [Albania Riviera: Europe's Hidden Coast](/en/blog/albania-riviera-hidden-coast/)
+- [Where to Stay in Budapest: Best Neighborhoods](/en/blog/where-to-stay-budapest/)

@@ -78,6 +78,6 @@ Domestic flights (Aerolíneas Argentinas, LATAM Argentina) are the standard for 
 ---
 
 **Read more:**
-- [Patagonia 3-Week Route](/en/blog/patagonia-3-week-route)
-- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Costa Rica Road Trip Route](/en/blog/costa-rica-road-trip-route)
+- [Patagonia 3-Week Route](/en/blog/patagonia-3-week-route/)
+- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Costa Rica Road Trip Route](/en/blog/costa-rica-road-trip-route/)

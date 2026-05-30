@@ -10,7 +10,7 @@ heroImage: "/img/blog/best-airports.jpg"
 
 Ein Flughafen ist kein Ziel. Normalerweise. Dann gibt es Changi. Oder Haneda. Orte, an denen du dir fast wünscht, dass dein Anschlussflug etwas später geht. Die [Skytrax World Airport Awards](https://www.worldairportawards.com/) küren jedes Jahr die besten Airports weltweit. Wir schauen uns an, was 2026 wirklich zählt und welche europäischen Flughäfen herausragen oder enttäuschen.
 
-Wenn du deine nächste Reise planst und Layover strategisch nutzen willst, lohnt sich ein Blick auf den [Stopover-Tourismus-Guide](/blog/stopover-tourismus-guide).
+Wenn du deine nächste Reise planst und Layover strategisch nutzen willst, lohnt sich ein Blick auf den [Stopover-Tourismus-Guide](/blog/stopover-tourismus-guide/).
 
 ## Warum ist Singapore Changi der beste Flughafen der Welt?
 
@@ -28,7 +28,7 @@ Für deine Route: Mit Zercy findest du Flüge mit sinnvollen Layovers in Singapu
 
 **Tokyo Haneda.** Tokio hat zwei Flughäfen. Haneda ist der bessere. Nicht Narita. Haneda liegt 30 Minuten vom Stadtzentrum entfernt, hat die pünktlichsten Abflüge der Welt und ist so sauber, dass Reisende regelmäßig Fotos vom Boden machen. Die Food Courts in Haneda sind kein Notfallessen, sondern echte Restaurants mit frischen Sushi-Sets und Ramen-Shops, die du in Deutschland für ein solches Qualitätsniveau in einer Gaststätte suchen würdest. Alles ist beschildert, alles funktioniert.
 
-Wer Japan plant, sollte [48 Stunden Tokio-Tipps](/blog/48-stunden-tokio) kennen. Haneda macht den Start schon einfacher als anderswo.
+Wer Japan plant, sollte [48 Stunden Tokio-Tipps](/blog/48-stunden-tokio/) kennen. Haneda macht den Start schon einfacher als anderswo.
 
 ## Welche europäischen Flughäfen überzeugen wirklich?
 
@@ -38,7 +38,7 @@ Europa hat zwei klare Gewinner.
 
 **München MUC** ist auf dem zweiten Platz in Europa laut Skytrax-Ranking. Was MUC besonders macht: Es gibt einen echten Biergarten im Terminal 2. Mit echtem Bier, frischen Brezeln und Weißwurst. Im Sommer sitzen dort Reisende mit Gepäck in der Sonne, als würden sie im Englischen Garten hocken. Für Transit-Reisende, die den Eindruck von Deutschland mitnehmen wollen, ist das eine unerwartete Erinnerung.
 
-Beide Flughäfen sind gut für [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket). Schiphol hat mehrere Lounges mit Priority-Pass-Option, MUC hat den Lufthansa Senator Bereich für First-Class-Reisende.
+Beide Flughäfen sind gut für [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket/). Schiphol hat mehrere Lounges mit Priority-Pass-Option, MUC hat den Lufthansa Senator Bereich für First-Class-Reisende.
 
 ## Warum scheitern London Heathrow und Paris CDG?
 
@@ -50,9 +50,9 @@ Wer die Wahl hat, umgeht beide. Amsterdam als Drehkreuz statt Heathrow. Lyon ode
 
 ## Stopover-Tourismus als Reise-Hack nutzen
 
-Wer [Direktflug vs. Umsteigen](/blog/direktflug-vs-umsteigen) vergleicht, entscheidet oft rein nach Preis. Dabei gibt es einen zweiten Faktor: die Layover-Qualität. Fünf Stunden in Changi sind kein Aufwand, sondern ein kleines Erlebnis. Fünf Stunden in Heathrow sind ein Albtraum.
+Wer [Direktflug vs. Umsteigen](/blog/direktflug-vs-umsteigen/) vergleicht, entscheidet oft rein nach Preis. Dabei gibt es einen zweiten Faktor: die Layover-Qualität. Fünf Stunden in Changi sind kein Aufwand, sondern ein kleines Erlebnis. Fünf Stunden in Heathrow sind ein Albtraum.
 
-Die beste Taktik: Layovers von 4 bis 8 Stunden gezielt in Singapur oder Tokio einplanen. Singapore Airlines bietet das Free Singapore Tour-Programm für Transit-Reisende offiziell an. Einfach bei Singapore Airlines anmelden, Gepäck eingecheckt lassen, Stadt erkunden. Mehr dazu im ausführlichen [Airport Hacks-Artikel](/blog/airport-hacks).
+Die beste Taktik: Layovers von 4 bis 8 Stunden gezielt in Singapur oder Tokio einplanen. Singapore Airlines bietet das Free Singapore Tour-Programm für Transit-Reisende offiziell an. Einfach bei Singapore Airlines anmelden, Gepäck eingecheckt lassen, Stadt erkunden. Mehr dazu im ausführlichen [Airport Hacks-Artikel](/blog/airport-hacks/).
 
 Nutze Zercy, um Routen mit smarten Stopovers zu finden und direkt die besten Optionen zu vergleichen. Speichere deine Wunschroute im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Varianten auf einen Blick hast.
 
@@ -75,6 +75,6 @@ Singapur ist die beste Option: Fünf Stunden und du hast Zeit für Gardens by th
 ---
 
 **Mehr lesen:**
-- [Airport Hacks: So machst du das Beste aus jedem Flughafen](/blog/airport-hacks)
-- [Stopover-Tourismus: Mehr Reise für denselben Preis](/blog/stopover-tourismus-guide)
-- [Direktflug vs. Umsteigen: Wann sich was lohnt](/blog/direktflug-vs-umsteigen)
+- [Airport Hacks: So machst du das Beste aus jedem Flughafen](/blog/airport-hacks/)
+- [Stopover-Tourismus: Mehr Reise für denselben Preis](/blog/stopover-tourismus-guide/)
+- [Direktflug vs. Umsteigen: Wann sich was lohnt](/blog/direktflug-vs-umsteigen/)

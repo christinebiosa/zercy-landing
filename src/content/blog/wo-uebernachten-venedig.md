@@ -98,6 +98,6 @@ Tagesbesucher zahlen seit 2024 einen Eintritt von 5 Euro an ausgewählten Wochen
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Rom: Kolosseum oder Trastevere?](/blog/wo-uebernachten-rom)
-- [Wo übernachten in Florenz: Oltrarno oder Stadtzentrum?](/blog/wo-uebernachten-florenz)
-- [Wo übernachten in Mailand: Duomo oder Navigli?](/blog/wo-uebernachten-mailand)
+- [Wo übernachten in Rom: Kolosseum oder Trastevere?](/blog/wo-uebernachten-rom/)
+- [Wo übernachten in Florenz: Oltrarno oder Stadtzentrum?](/blog/wo-uebernachten-florenz/)
+- [Wo übernachten in Mailand: Duomo oder Navigli?](/blog/wo-uebernachten-mailand/)

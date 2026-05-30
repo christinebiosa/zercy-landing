@@ -122,6 +122,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel, local food, public trans
 ---
 
 **Read more:**
-- [Where to stay in Berlin: 5 neighborhoods](/en/blog/where-to-stay-berlin)
-- [Where to stay in Prague: 4 neighborhoods](/en/blog/where-to-stay-prague)
-- [Night trains in Europe: complete guide 2026](/en/blog/night-trains-europe-2026)
+- [Where to stay in Berlin: 5 neighborhoods](/en/blog/where-to-stay-berlin/)
+- [Where to stay in Prague: 4 neighborhoods](/en/blog/where-to-stay-prague/)
+- [Night trains in Europe: complete guide 2026](/en/blog/night-trains-europe-2026/)

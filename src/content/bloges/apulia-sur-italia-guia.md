@@ -66,6 +66,6 @@ Los precios son muy accesibles para los estándares italianos. Un plato de pasta
 ---
 
 **Más para leer:**
-- [48 horas en Roma: el itinerario perfecto](/es/blog/48-horas-roma)
-- [Módena y el Museo Ferrari: el viaje para fanáticos del motor](/es/blog/modena-museo-ferrari)
-- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa)
+- [48 horas en Roma: el itinerario perfecto](/es/blog/48-horas-roma/)
+- [Módena y el Museo Ferrari: el viaje para fanáticos del motor](/es/blog/modena-museo-ferrari/)
+- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa/)

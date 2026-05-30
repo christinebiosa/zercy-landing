@@ -20,7 +20,7 @@ Four categories cover most of what is on the market.
 
 **Cashback card:** Instead of points, you get real money back, often 1-2% on travel spending. Simple to understand, no points-value puzzle. Cards like Barclays Rewards or similar models are classics here. Good for anyone who values transparency over gamification. Annual fee often 0 or very low.
 
-**Lounge card (premium):** American Express Platinum, Diners Club, or similar cards offer Priority Pass or direct lounge access. Annual fee: 400-700 EUR/USD. Only worthwhile if you are genuinely at airports often. We ran the numbers in our [lounge access guide](/en/blog/lounge-access-without-business-ticket).
+**Lounge card (premium):** American Express Platinum, Diners Club, or similar cards offer Priority Pass or direct lounge access. Annual fee: 400-700 EUR/USD. Only worthwhile if you are genuinely at airports often. We ran the numbers in our [lounge access guide](/en/blog/lounge-access-without-business-ticket/).
 
 **All-round travel card:** Mid-tier. No foreign transaction fees, solid travel protection, low or no annual fee. No exciting story attached, but reliably useful. Examples: Revolut Premium, Wise card, N26 You, Chase Sapphire (US).
 
@@ -30,7 +30,7 @@ Five criteria, ranked by importance.
 
 **1. Foreign transaction fees:** This is the most common hidden cost. Many cards charge 1.5-3% on every foreign payment. On 2,000 EUR of overseas spending: 30-60 EUR extra, invisible until you check the statement. Cards like Revolut or Wise eliminate this completely.
 
-**2. Travel insurance coverage:** Many premium cards include travel accident, baggage, and trip cancellation insurance. Check the coverage amounts carefully. Often the protection only applies if you also booked the trip with that card. More on this in our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026).
+**2. Travel insurance coverage:** Many premium cards include travel accident, baggage, and trip cancellation insurance. Check the coverage amounts carefully. Often the protection only applies if you also booked the trip with that card. More on this in our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 **3. Welcome bonus:** Miles cards advertise 20,000-60,000 bonus miles for the first few months of spending. It sounds like a lot. It often equals one domestic flight or one upgrade attempt. Still: a good bonus offer can justify the first year's fee.
 
@@ -54,7 +54,7 @@ No universal answer. But clear patterns.
 
 Regardless of card type, three rules hold everywhere.
 
-**Bring a backup card.** Visa and Mastercard. One of them will not be accepted somewhere, or will get flagged. Two cards on different networks protects you. Especially important on long-haul trips in Southeast Asia or Latin America. Check our [cheap flights guide](/en/blog/cheap-flights-tips) to see how card choice ties into overall trip budgeting.
+**Bring a backup card.** Visa and Mastercard. One of them will not be accepted somewhere, or will get flagged. Two cards on different networks protects you. Especially important on long-haul trips in Southeast Asia or Latin America. Check our [cheap flights guide](/en/blog/cheap-flights-tips/) to see how card choice ties into overall trip budgeting.
 
 **Always pay in local currency.** When a terminal abroad asks "EUR or local currency?" always choose local currency. The conversion to EUR done by the terminal (dynamic currency conversion, DCC) usually costs 3-7% extra. Legal, but expensive. Always decline DCC.
 
@@ -62,7 +62,7 @@ Regardless of card type, three rules hold everywhere.
 
 The official [Visa travel page](https://www.visa.com/de_DE/pay-with-visa/travel-with-visa.html) has current information on security features and global card acceptance.
 
-If you are planning a longer trip and want to track costs properly, our [rental car hidden costs guide](/en/blog/rental-car-hidden-costs-avoid) shows where card choice and insurance coverage intersect in ways most people miss.
+If you are planning a longer trip and want to track costs properly, our [rental car hidden costs guide](/en/blog/rental-car-hidden-costs-avoid/) shows where card choice and insurance coverage intersect in ways most people miss.
 
 ---
 
@@ -89,6 +89,6 @@ When you fly 8+ times per year and regularly have layover time at airports. A lo
 ---
 
 **Read more:**
-- [Lounge Access Without a Business Ticket: How It Works](/en/blog/lounge-access-without-business-ticket)
-- [Business Class Without Miles: Upgrade Cheaper](/en/blog/business-class-without-miles)
-- [Travel Insurance: What Is Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [Lounge Access Without a Business Ticket: How It Works](/en/blog/lounge-access-without-business-ticket/)
+- [Business Class Without Miles: Upgrade Cheaper](/en/blog/business-class-without-miles/)
+- [Travel Insurance: What Is Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)

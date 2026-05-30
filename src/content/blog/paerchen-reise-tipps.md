@@ -19,7 +19,7 @@ Allein reisen bedeutet: du entscheidest. Zu zweit heißt das: ihr einigt euch. D
 
 Der Hauptunterschied zu Solo-Trips ist die Abstimmung. Wer plant? Wer bucht? Wer entscheidet, wenn die Optionen unvereinbar erscheinen? Wenn ihr das vorab klärt, läuft der Urlaub deutlich glatter. Viele Paare teilen die Reiseplanung auf: einer übernimmt Flüge und Unterkünfte, der andere Aktivitäten und Restaurants. Das spart Zeit und schafft klare Verantwortlichkeiten.
 
-Auch die Unterkunft spielt eine andere Rolle. Hotels mit getrennten Schlafzimmer-Optionen oder Airbnb-Wohnungen mit mehr Rückzugsraum eignen sich oft besser als klassische Hotelzimmer, wenn zwei Menschen unterschiedliche Schlafgewohnheiten haben. Zum Vergleich lohnt sich ein Blick in unseren [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich).
+Auch die Unterkunft spielt eine andere Rolle. Hotels mit getrennten Schlafzimmer-Optionen oder Airbnb-Wohnungen mit mehr Rückzugsraum eignen sich oft besser als klassische Hotelzimmer, wenn zwei Menschen unterschiedliche Schlafgewohnheiten haben. Zum Vergleich lohnt sich ein Blick in unseren [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich/).
 
 ## Wie plant ihr bei unterschiedlichen Interessen?
 
@@ -35,7 +35,7 @@ Honeymoon-Qualität im Mittelmeer ist günstiger als viele denken. Richtwert: ab
 
 Malediven sind teurer. Dort startet das All-Inclusive-Resort für zwei oft bei 4.000 bis 6.000 Euro. Japan liegt dazwischen: Langstreckenflug (ca. 800 Euro p.P.), aber günstigere Unterkünfte und Essen vor Ort. Für ein Japan-Erlebnis-Pärchen-Trip rechnet ihr mit ca. 3.000 bis 3.500 Euro pro Person für 14 Tage.
 
-Eine Faustregel: Pärchen-Reisen kosten selten doppelt so viel wie Solo. Hotels werden geteilt. Mietwagen auch. Und viele Restaurants haben Menüs für zwei. Wer den [Honeymoon Planungs-Guide](/blog/honeymoon-planung-guide) durchgeht, findet konkrete Budgetvorlagen für die beliebtesten Ziele.
+Eine Faustregel: Pärchen-Reisen kosten selten doppelt so viel wie Solo. Hotels werden geteilt. Mietwagen auch. Und viele Restaurants haben Menüs für zwei. Wer den [Honeymoon Planungs-Guide](/blog/honeymoon-planung-guide/) durchgeht, findet konkrete Budgetvorlagen für die beliebtesten Ziele.
 
 Die Budgetaufteilung selbst ist ein eigenes Thema. Gemeinsames Reisekonto für Kosten, die beide betreffen. Private Ausgaben jeder selbst. Diese Trennung verhindert viele kleine Diskussionen.
 
@@ -43,7 +43,7 @@ Die Budgetaufteilung selbst ist ein eigenes Thema. Gemeinsames Reisekonto für K
 
 Für **Romantik und Strandbad** ist Santorini das klassische Ziel. Caldera-Blick, Weinproben, weiße Dörfer. Hochsaison (Juli, August) ist teuer und überfüllt. Mai oder September sind besser. Auf [Booking.com](https://www.booking.com/honeymoon) findest du kuratierte Unterkünfte für Paare mit Meerblick.
 
-Für **Kultur plus Strand** ist Portugal unschlagbar. Lissabon-Sintra-Algarve in 10 Tagen ist machbar und liefert beides. Kosten sind niedriger als im übrigen Westeuropa. Unsere [Portugal Rundreise-Route](/blog/portugal-rundreise-route) zeigt eine konkrete Streckenplanung.
+Für **Kultur plus Strand** ist Portugal unschlagbar. Lissabon-Sintra-Algarve in 10 Tagen ist machbar und liefert beides. Kosten sind niedriger als im übrigen Westeuropa. Unsere [Portugal Rundreise-Route](/blog/portugal-rundreise-route/) zeigt eine konkrete Streckenplanung.
 
 Für **Erlebnis-Trips** ist Japan die erste Wahl für Paare. Tokio, Kyoto, Hiroshima, Naoshima. Kein Strand, aber jeder Tag bringt neue Eindrücke. Japan funktioniert besonders gut für Paare, die keine klassische Strandidylle suchen.
 
@@ -53,7 +53,7 @@ Für **Flitterwochen und Luxus** bleiben die Malediven das Referenzziel. Overwat
 
 Getrennte Koffer. Immer. Das klingt banal, hat aber Konsequenzen: Jeder packt selbst. Jeder ist verantwortlich. Kein Suchen nach dem eigenen T-Shirt im gemeinsamen Gepäck. Kein Ärger, wenn einer mehr Schuhe mitnimmt als der andere für sinnvoll hält.
 
-Wenn ihr nur mit Handgepäck reist, ist das anders. Dann bietet ein geteilt-koordiniertes System Vorteile: Charger, Reiseapotheke, Adapter teilen sich. Aber selbst dann gilt: jeder hat seinen eigenen Rucksack. Unsere [Reiseversicherung Guide](/blog/reiseversicherung-was-lohnt-sich) erklärt, ob ihr gemeinsam oder getrennt versichert sein solltet. Tipp: Paartarife sind oft günstiger.
+Wenn ihr nur mit Handgepäck reist, ist das anders. Dann bietet ein geteilt-koordiniertes System Vorteile: Charger, Reiseapotheke, Adapter teilen sich. Aber selbst dann gilt: jeder hat seinen eigenen Rucksack. Unsere [Reiseversicherung Guide](/blog/reiseversicherung-was-lohnt-sich/) erklärt, ob ihr gemeinsam oder getrennt versichert sein solltet. Tipp: Paartarife sind oft günstiger.
 
 ## Romantik bewusst einplanen statt drauf hoffen
 
@@ -98,6 +98,6 @@ Portugal ist der Klassiker: Kultur in Lissabon, Strand in der Algarve, alles err
 ---
 
 **Mehr lesen:**
-- [Honeymoon Planung: Der vollständige Guide](/blog/honeymoon-planung-guide)
-- [Slow Travel: Was es wirklich bedeutet](/blog/slow-travel-bedeutet-was)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Honeymoon Planung: Der vollständige Guide](/blog/honeymoon-planung-guide/)
+- [Slow Travel: Was es wirklich bedeutet](/blog/slow-travel-bedeutet-was/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

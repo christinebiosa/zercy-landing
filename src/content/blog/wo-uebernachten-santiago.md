@@ -59,7 +59,7 @@ Bellavista. Eindeutig. Das Viertel nördlich des Río Mapocho ist Santiagos Boh�
 
 **Top-Picks:** Aubrey Hotel Bellavista (Boutique in historischer Herrenhaus, einer der besten Pools in Santiago), La Casa Roja (Boutique-Hostel, Terrace, Gemeinschaftsgefühl), Providencia Hostel (Budget, gute Atmosphäre am Rand von Bellavista).
 
-Wenn du die Weinregion Maipo Valley tagesausflugsartig kombinieren willst, lies unseren [Mietwagen-Guide für Südamerika](/blog/mietwagen-check).
+Wenn du die Weinregion Maipo Valley tagesausflugsartig kombinieren willst, lies unseren [Mietwagen-Guide für Südamerika](/blog/mietwagen-check/).
 
 ## Barrio Italia: Kreativ und entspannt
 
@@ -105,6 +105,6 @@ Cerro San Cristóbal (Panoramablick über die Stadt und die Anden), Barrio Itali
 
 ## Mehr lesen
 
-- [Wo übernachten in Buenos Aires](/blog/wo-uebernachten-buenos-aires)
-- [Wo übernachten in Lima](/blog/wo-uebernachten-lima)
-- [Wo übernachten in Mendoza](/blog/wo-uebernachten-mendoza)
+- [Wo übernachten in Buenos Aires](/blog/wo-uebernachten-buenos-aires/)
+- [Wo übernachten in Lima](/blog/wo-uebernachten-lima/)
+- [Wo übernachten in Mendoza](/blog/wo-uebernachten-mendoza/)

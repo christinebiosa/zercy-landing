@@ -45,7 +45,7 @@ On the other side of Charles Bridge, on the hill toward Prague Castle. Baroque p
 
 **Top picks:** Aria Hotel Prague (boutique with music theme), Hotel U Páva (small, 14th century), Mandarin Oriental Prague (5-star in a former monastery).
 
-See our [Europe hidden gems guide](/en/blog/hidden-gems-europe) for day trips from Prague.
+See our [Europe hidden gems guide](/en/blog/hidden-gems-europe/) for day trips from Prague.
 
 ## When is the best time to visit Prague?
 
@@ -114,6 +114,6 @@ Backpacker: $450-770 per person incl. flight (hostel in Žižkov, local beer $1.
 ---
 
 **Read more:**
-- [Where to stay in Vienna: 5 districts](/en/blog/where-to-stay-vienna)
-- [Where to stay in Berlin: 5 neighborhoods](/en/blog/where-to-stay-berlin)
-- [Night trains in Europe: complete guide 2026](/en/blog/night-trains-europe-2026)
+- [Where to stay in Vienna: 5 districts](/en/blog/where-to-stay-vienna/)
+- [Where to stay in Berlin: 5 neighborhoods](/en/blog/where-to-stay-berlin/)
+- [Night trains in Europe: complete guide 2026](/en/blog/night-trains-europe-2026/)

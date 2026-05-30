@@ -45,7 +45,7 @@ Capitol Hill ist das kreativste Viertel der Stadt. Dichter Besatz an Kaffeehäus
 
 **Top-Picks:** Staypineapple at The Maxwell Hotel (Design-Boutique, gut angebunden), Gaslight Inn B&B (historisches Gästehaus mit viel Charakter), Sonder Capitol Hill (Apartment-Stil, flexibel für längere Aufenthalte).
 
-Ähnliche Szene-Viertel in anderen US-Städten: unser [San-Francisco-Guide](/blog/wo-uebernachten-san-francisco) erklärt, welche Stadtteile dort das gleiche bieten.
+Ähnliche Szene-Viertel in anderen US-Städten: unser [San-Francisco-Guide](/blog/wo-uebernachten-san-francisco/) erklärt, welche Stadtteile dort das gleiche bieten.
 
 ## Wann ist die beste Reisezeit für Seattle?
 
@@ -81,7 +81,7 @@ South Lake Union ist das neue Seattle. Amazon-Campus, Microsoft-Büros, Biotech-
 
 **Top-Picks:** Hyatt House Seattle/Downtown (sehr gut für längere Business-Aufenthalte), AC Hotel Seattle Downtown (Marriott, modern, gut angebunden), Residence Inn South Lake Union (Apartment-Stil für Wochen-Trips).
 
-Für Business-Reisende auch interessant: unser [Los-Angeles-Guide](/blog/wo-uebernachten-los-angeles) hat einen eigenen Abschnitt zu Business-Vierteln.
+Für Business-Reisende auch interessant: unser [Los-Angeles-Guide](/blog/wo-uebernachten-los-angeles/) hat einen eigenen Abschnitt zu Business-Vierteln.
 
 ## Wo solltest du am Ende buchen?
 
@@ -119,6 +119,6 @@ November bis März sind die günstigsten Monate. Preise fallen auf 40-50% unter 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in San Francisco: Die 5 Stadtteile](/blog/wo-uebernachten-san-francisco)
-- [Wo übernachten in Los Angeles: Die besten Viertel](/blog/wo-uebernachten-los-angeles)
-- [Günstig fliegen: So findest du die besten Flugpreise](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in San Francisco: Die 5 Stadtteile](/blog/wo-uebernachten-san-francisco/)
+- [Wo übernachten in Los Angeles: Die besten Viertel](/blog/wo-uebernachten-los-angeles/)
+- [Günstig fliegen: So findest du die besten Flugpreise](/blog/guenstig-fliegen-tipps/)

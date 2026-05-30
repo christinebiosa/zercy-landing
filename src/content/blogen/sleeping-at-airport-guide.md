@@ -32,7 +32,7 @@ Many smaller US airports send security staff through the terminals to wake sleep
 
 Budget airline airports in Europe create their own problems. London Stansted closes sections of the terminal overnight. Luton is small, noisy, and has almost no comfortable spots. If you're flying Ryanair or EasyJet early morning and thinking about sleeping there: a nearby Airbnb often works out cheaper and far more comfortable.
 
-For tips on making the most of any airport, read: [Airport Hacks for Smart Travelers](/en/blog/airport-hacks).
+For tips on making the most of any airport, read: [Airport Hacks for Smart Travelers](/en/blog/airport-hacks/).
 
 ## What should you pack if you're sleeping at the airport?
 
@@ -44,7 +44,7 @@ A **light blanket or large scarf** protects against air conditioning. Airports c
 
 For security: keep valuables close at all times. Use your backpack as a pillow or thread your arm through the strap. A travel wallet worn around your neck isn't paranoid on long layovers. It's practical.
 
-More on packing light: read the guide on [carry-on only travel](/en/blog/airport-hacks).
+More on packing light: read the guide on [carry-on only travel](/en/blog/airport-hacks/).
 
 ## Gate waiting area, lounge, or airside hotel: what's the right move?
 
@@ -52,9 +52,9 @@ Before settling anywhere, walk the terminal. Remote gates far from the main hub 
 
 A lounge changes the entire equation. For 25 to 50 euros through LoungeBuddy or Priority Pass, you get recliners, showers, food, and significantly less noise. Not every lounge takes walk-ins, but many do. For layovers over five hours, it's often worth the cost.
 
-How to access a lounge without a business class ticket: [Lounge Access Without Business Class](/en/blog/lounge-access-without-business-ticket).
+How to access a lounge without a business class ticket: [Lounge Access Without Business Class](/en/blog/lounge-access-without-business-ticket/).
 
-Sometimes the airside hotel is the smartest move, especially when you need to be back at the gate early and don't want to stress about missing the flight. Whether it's worth it depends on the length of your layover and the airport: [Airport Hotel: Is It Worth It?](/en/blog/airport-hotel-worth-it).
+Sometimes the airside hotel is the smartest move, especially when you need to be back at the gate early and don't want to stress about missing the flight. Whether it's worth it depends on the length of your layover and the airport: [Airport Hotel: Is It Worth It?](/en/blog/airport-hotel-worth-it/).
 
 ## Plan your layover with Zercy
 
@@ -85,6 +85,6 @@ For layovers of four hours or more: generally yes. Prices range from 15 to 35 eu
 ---
 
 **Read more:**
-- [Airport Hacks for Smart Travelers](/en/blog/airport-hacks)
-- [Lounge Access Without Business Class](/en/blog/lounge-access-without-business-ticket)
-- [Airport Hotel: Is It Worth It?](/en/blog/airport-hotel-worth-it)
+- [Airport Hacks for Smart Travelers](/en/blog/airport-hacks/)
+- [Lounge Access Without Business Class](/en/blog/lounge-access-without-business-ticket/)
+- [Airport Hotel: Is It Worth It?](/en/blog/airport-hotel-worth-it/)

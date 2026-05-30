@@ -49,7 +49,7 @@ North Playa ist der Bereich nördlich der 5th Avenue. Hier wird es spürbar ruhi
 
 **Top-Picks:** Mahekal Beach Resort (Palapa-Hütten direkt am Strand, Charakter), Mosquito Blue (Boutique, Pool, 5-Minuten zur 5th Ave), Viva Wyndham Azteca (größeres All-Inclusive-Option, familienfreundlich).
 
-Wenn du Cenoten oder Xcaret kombinieren willst: Lies unseren [Mexiko-Reiseführer Tulum](/blog/wo-uebernachten-tulum) für Ausflüge entlang der Riviera Maya.
+Wenn du Cenoten oder Xcaret kombinieren willst: Lies unseren [Mexiko-Reiseführer Tulum](/blog/wo-uebernachten-tulum/) für Ausflüge entlang der Riviera Maya.
 
 ## Wann ist die beste Reisezeit für Playa del Carmen?
 
@@ -75,7 +75,7 @@ Playacar ist eine geschlossene Wohnanlage im südlichen Teil von Playa del Carme
 
 **Top-Picks:** Iberostar Selection Paraíso Maya (großes Premium-Resort in Playacar), Royal Hideaway Playacar (adults-only, Luxus), Sandos Caracol Eco Resort (familienfreundlich, Cenote im Resort).
 
-Für einen Vergleich zwischen All-Inclusive und freier Buchung lies unseren Artikel [Airbnb vs. Hotel: Wann lohnt sich was](/blog/airbnb-vs-hotel-vergleich).
+Für einen Vergleich zwischen All-Inclusive und freier Buchung lies unseren Artikel [Airbnb vs. Hotel: Wann lohnt sich was](/blog/airbnb-vs-hotel-vergleich/).
 
 ## Wo solltest du am Ende buchen?
 
@@ -107,6 +107,6 @@ Sargassum-Algen sind von Mai bis Oktober am stärksten an den Stränden der Rivi
 
 ## Mehr lesen
 
-- [Wo übernachten in Tulum](/blog/wo-uebernachten-tulum)
-- [Wo übernachten in Cancún](/blog/wo-uebernachten-cancun)
-- [Wo übernachten in Mexico City](/blog/wo-uebernachten-mexico-city)
+- [Wo übernachten in Tulum](/blog/wo-uebernachten-tulum/)
+- [Wo übernachten in Cancún](/blog/wo-uebernachten-cancun/)
+- [Wo übernachten in Mexico City](/blog/wo-uebernachten-mexico-city/)

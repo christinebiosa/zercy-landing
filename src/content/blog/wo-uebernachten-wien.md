@@ -122,6 +122,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel, lokales Essen, Öffis). 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Berlin: Die 5 Stadtteile](/blog/wo-uebernachten-berlin)
-- [Wo übernachten in Prag: Die 4 Stadtteile](/blog/wo-uebernachten-prag)
-- [Nachtzüge in Europa: Vollständiger Guide 2026](/blog/nachtzuege-europa-2026)
+- [Wo übernachten in Berlin: Die 5 Stadtteile](/blog/wo-uebernachten-berlin/)
+- [Wo übernachten in Prag: Die 4 Stadtteile](/blog/wo-uebernachten-prag/)
+- [Nachtzüge in Europa: Vollständiger Guide 2026](/blog/nachtzuege-europa-2026/)

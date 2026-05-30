@@ -34,7 +34,7 @@ You don't need a business class ticket to get into airport lounges.
 
 **Travel credit card with lounge benefit**: American Express Platinum, certain airline co-branded cards — many premium travel credit cards include lounge access or a Priority Pass membership.
 
-**Priority Pass**: Costs an annual fee, gives you access to 1,400+ lounges worldwide. Worth it from around 6–8 flights per year. More on lounge culture and business class: [Business Class: When It's Actually Worth It](/en/blog/business-class-worth-it).
+**Priority Pass**: Costs an annual fee, gives you access to 1,400+ lounges worldwide. Worth it from around 6–8 flights per year. More on lounge culture and business class: [Business Class: When It's Actually Worth It](/en/blog/business-class-worth-it/).
 
 **Day pass**: Many lounges sell day passes at the door or via apps, typically €30–60.
 
@@ -54,7 +54,7 @@ Not because the rule itself is the issue — but because of the consequences whe
 
 Being stopped at the gate because your backpack is too large costs time, sometimes money, always nerves. At Ryanair: €50–80 at the gate for oversized bags.
 
-The solution is simpler than it sounds. Our guide [One Week, Carry-On Only](/en/blog/carry-on-only) shows how much actually fits in a compliant backpack. Most low-cost standard: 40 × 20 × 25 cm, max 10 kg. That sounds small. For a week, it's plenty.
+The solution is simpler than it sounds. Our guide [One Week, Carry-On Only](/en/blog/carry-on-only/) shows how much actually fits in a compliant backpack. Most low-cost standard: 40 × 20 × 25 cm, max 10 kg. That sounds small. For a week, it's plenty.
 
 ## 6. Get Free Water After Security
 
@@ -102,4 +102,4 @@ Yes, but rarely and with no guarantee. Best chances: status customers of the air
 
 You get stopped at the gate. The bag has to be checked — at a price significantly higher than pre-booking checked baggage. Easily avoided: check dimensions before packing, use a bag that genuinely fits.
 
-**Read more:** [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips) · [When to Book Flights](/en/blog/when-to-book-flights) · [One Week, Carry-On Only](/en/blog/carry-on-only)
+**Read more:** [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips/) · [When to Book Flights](/en/blog/when-to-book-flights/) · [One Week, Carry-On Only](/en/blog/carry-on-only/)

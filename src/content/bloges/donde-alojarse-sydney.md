@@ -96,6 +96,6 @@ La subida al Harbour Bridge (~330 AUD) ofrece una vista única. El tour de la Ó
 ---
 
 **Leer más:**
-- [Dónde alojarse en Los Ángeles: Los 5 barrios](/es/blog/donde-alojarse-los-angeles)
-- [Dónde alojarse en Miami: ¿Playa o Downtown?](/es/blog/donde-alojarse-miami)
-- [Patagonia en 3 semanas: La ruta completa](/es/blog/patagonia-3-semanas-ruta)
+- [Dónde alojarse en Los Ángeles: Los 5 barrios](/es/blog/donde-alojarse-los-angeles/)
+- [Dónde alojarse en Miami: ¿Playa o Downtown?](/es/blog/donde-alojarse-miami/)
+- [Patagonia en 3 semanas: La ruta completa](/es/blog/patagonia-3-semanas-ruta/)

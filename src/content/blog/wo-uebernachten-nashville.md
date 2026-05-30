@@ -45,7 +45,7 @@ The Gulch war früher ein Güterbahnhof-Areal. Heute ist es Nashvilles begehrtes
 
 **Top-Picks:** 1 Hotel Nashville (nachhaltiges Luxushotel mit Rooftop, überragend), Virgin Hotels Nashville (Lifestyle-Hotel, exzellente Bar), The Joseph Nashville (Curio Collection by Hilton, Kunst-focused, sehr persönlich).
 
-Ähnlicher Boutique-Vibe: unser [New-Orleans-Guide](/blog/wo-uebernachten-new-orleans) zeigt, wie das in einem anderen südlichen US-Musikzentrum aussieht.
+Ähnlicher Boutique-Vibe: unser [New-Orleans-Guide](/blog/wo-uebernachten-new-orleans/) zeigt, wie das in einem anderen südlichen US-Musikzentrum aussieht.
 
 ## Wann ist die beste Reisezeit für Nashville?
 
@@ -81,7 +81,7 @@ Music Row ist die Straße der Recording Studios. RCA Studio B (wo Elvis aufnahm)
 
 **Top-Picks:** Hutton Hotel (unabhängiges Luxus-Boutique-Hotel, bestes in Midtown), Loews Vanderbilt Hotel (komfortabel, groß, gute Lage), Marriott Nashville at Vanderbilt (verlässlich, gut angebunden).
 
-Für Music-Enthusiasten auch interessant: unser [Chicago-Guide](/blog/wo-uebernachten-chicago) hat einen Abschnitt zur dortigen Musikgeschichte und den passenden Vierteln.
+Für Music-Enthusiasten auch interessant: unser [Chicago-Guide](/blog/wo-uebernachten-chicago/) hat einen Abschnitt zur dortigen Musikgeschichte und den passenden Vierteln.
 
 ## Wo solltest du am Ende buchen?
 
@@ -119,6 +119,6 @@ Januar und Februar sind die günstigsten Monate. Preise fallen auf 40-50% unter 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in New Orleans: Stadtteile und Hotels](/blog/wo-uebernachten-new-orleans)
-- [Wo übernachten in Miami: South Beach bis Wynwood](/blog/wo-uebernachten-miami)
-- [Günstig fliegen: So findest du die besten Flugpreise](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in New Orleans: Stadtteile und Hotels](/blog/wo-uebernachten-new-orleans/)
+- [Wo übernachten in Miami: South Beach bis Wynwood](/blog/wo-uebernachten-miami/)
+- [Günstig fliegen: So findest du die besten Flugpreise](/blog/guenstig-fliegen-tipps/)

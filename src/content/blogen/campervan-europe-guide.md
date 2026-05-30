@@ -93,9 +93,9 @@ The market has consolidated. Three platforms cover about 90% of the supply.
 
 For campervans in North America, look at Outdoorsy or Cruise America instead. For Europe, the three above cover everything.
 
-Our [tips for saving on rental cars](/en/blog/rental-consolidators-save-money) apply equally to campervan bookings: early booking discounts, weekday pickups, and flexible cancellation terms are worth checking.
+Our [tips for saving on rental cars](/en/blog/rental-consolidators-save-money/) apply equally to campervan bookings: early booking discounts, weekday pickups, and flexible cancellation terms are worth checking.
 
-For longer European road trip planning, our [road trip stages guide](/en/blog/road-trip-stages-planning) has practical frameworks for structuring your route.
+For longer European road trip planning, our [road trip stages guide](/en/blog/road-trip-stages-planning/) has practical frameworks for structuring your route.
 
 ---
 
@@ -122,6 +122,6 @@ For campervans up to 3.5 tonnes, a standard Category B driving license (regular 
 ---
 
 **Read more:**
-- [Rental Car Consolidators: How to Save Money](/en/blog/rental-consolidators-save-money)
-- [Road Trip Stages: How to Plan Smart](/en/blog/road-trip-stages-planning)
-- [Sailing Holiday as a Beginner: What Really Matters](/en/blog/sailing-holiday-beginners-guide)
+- [Rental Car Consolidators: How to Save Money](/en/blog/rental-consolidators-save-money/)
+- [Road Trip Stages: How to Plan Smart](/en/blog/road-trip-stages-planning/)
+- [Sailing Holiday as a Beginner: What Really Matters](/en/blog/sailing-holiday-beginners-guide/)

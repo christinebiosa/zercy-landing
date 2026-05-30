@@ -52,7 +52,7 @@ Gornji Grad sits literally above Donji Grad. The funicular (one of the world's s
 - **Hotel Jägerhorn:** The oldest hotel in Croatia, in operation since 1827. Small boutique hotel right in the upper town. No elevator, but real history in the walls. For travelers who appreciate that.
 - **Hotel Palace Zagreb** (4-star): On the edge of Gornji Grad, Art Nouveau facade from 1907. Renovated with character preserved. Beautiful terrace.
 
-If you're combining with other Croatian cities, read our guide on [where to stay in Split](/en/blog/where-to-stay-split), which has a completely different character from Zagreb.
+If you're combining with other Croatian cities, read our guide on [where to stay in Split](/en/blog/where-to-stay-split/), which has a completely different character from Zagreb.
 
 ## Trnje: Local and Better Value
 
@@ -105,10 +105,10 @@ Very outskirts areas without tram access make Zagreb harder to explore without a
 
 ### How many days do you need in Zagreb?
 
-Two full days cover the highlights: Gornji Grad, Dolac market, a few museums, Tkalciceva Street in the evening. Three days gives you a more relaxed pace. Zagreb pairs well with [Ljubljana](/en/blog/where-to-stay-ljubljana): four hours by train connects both cities and they complement each other well.
+Two full days cover the highlights: Gornji Grad, Dolac market, a few museums, Tkalciceva Street in the evening. Three days gives you a more relaxed pace. Zagreb pairs well with [Ljubljana](/en/blog/where-to-stay-ljubljana/): four hours by train connects both cities and they complement each other well.
 
 ---
 
 **Read more:**
-- [Where to Stay in Split: Neighborhoods Compared](/en/blog/where-to-stay-split)
-- [Where to Stay in Ljubljana: Between Castle and Market](/en/blog/where-to-stay-ljubljana)
+- [Where to Stay in Split: Neighborhoods Compared](/en/blog/where-to-stay-split/)
+- [Where to Stay in Ljubljana: Between Castle and Market](/en/blog/where-to-stay-ljubljana/)

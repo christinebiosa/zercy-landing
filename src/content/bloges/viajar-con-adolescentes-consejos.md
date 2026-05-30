@@ -46,7 +46,7 @@ Japón es casi universalmente popular entre los adolescentes. Cultura anime, com
 
 Energía, diversidad, todo a pie. Times Square es turístico pero los adolescentes lo adoran. Brooklyn para cultura y arte urbano. Central Park, High Line, Chelsea Market. No se requieren visitas a museos obligatorias.
 
-Lo mejor es alojarse en Midtown o Chelsea para tener todo cerca. Nuestra [guía de dónde alojarse en Miami](/es/blog/donde-alojarse-miami) tiene consejos similares sobre elegir el barrio correcto en ciudades grandes.
+Lo mejor es alojarse en Midtown o Chelsea para tener todo cerca. Nuestra [guía de dónde alojarse en Miami](/es/blog/donde-alojarse-miami/) tiene consejos similares sobre elegir el barrio correcto en ciudades grandes.
 
 ### Grandes ciudades en general
 
@@ -83,7 +83,7 @@ No es una pregunta de edad. Es una pregunta de competencia. Algunos jóvenes de 
 
 Para los primeros viajes solos: destinos familiares. Dentro del país o en países vecinos primero. Una vez que eso funciona, más lejos.
 
-En nuestra [guía de dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires) encontrarás los barrios más seguros y accesibles para familias con adolescentes en esa ciudad.
+En nuestra [guía de dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) encontrarás los barrios más seguros y accesibles para familias con adolescentes en esa ciudad.
 
 ---
 
@@ -110,6 +110,6 @@ Depende del individuo, no de la edad. Los factores clave: ¿conoce los procedimi
 ---
 
 **Más información:**
-- [Dónde alojarse en Buenos Aires: Guía de barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Miami: Los mejores barrios](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Lima: Guía completa](/es/blog/donde-alojarse-lima)
+- [Dónde alojarse en Buenos Aires: Guía de barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Miami: Los mejores barrios](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Lima: Guía completa](/es/blog/donde-alojarse-lima/)

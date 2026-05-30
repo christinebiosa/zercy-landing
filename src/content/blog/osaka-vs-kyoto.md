@@ -21,7 +21,7 @@ Dotonbori ist das Herzstück des Nachtlebens. Die neonfarbene Flaniermeile entla
 
 Die Atmosphäre in Osaka ist spürbar lockerer als in Tokio. Weniger steif, mehr Humor, mehr Lärm. Japaner selbst beschreiben Osaker als die Extrovertierteren des Landes.
 
-Für Unterkunft in Osaka: schau in das detaillierte [Osaka-Unterkunfts-Special](/blog/wo-uebernachten-osaka) für Viertel-Empfehlungen von Namba bis Shinsaibashi.
+Für Unterkunft in Osaka: schau in das detaillierte [Osaka-Unterkunfts-Special](/blog/wo-uebernachten-osaka/) für Viertel-Empfehlungen von Namba bis Shinsaibashi.
 
 ## Was hat Kyoto, was keine andere Stadt hat?
 
@@ -29,7 +29,7 @@ Kyoto war über tausend Jahre die kaiserliche Hauptstadt Japans. Der zweite Welt
 
 Der Arashiyama-Bambus-Hain. Der goldene Kinkaku-ji-Tempel. Der Fushimi Inari mit seinen tausend roten Torii-Toren. Der Gion-Bezirk, wo du früh morgens vielleicht eine Maiko siehst, eine Geishin-Lehrling, die durch gepflasterte Gassen huscht. Das sind keine Touristenattraktionen im westlichen Sinne. Das sind lebendige Institutionen mit jahrhundertealten Ritualen.
 
-Die Japan National Tourism Organization ([jnto.go.jp](https://www.jnto.go.jp)) empfiehlt, für Kyoto mindestens drei volle Tage einzuplanen, weil die Stadt ihre besten Momente früh am Morgen zeigt, bevor die Gruppen ankommen. Wer nur einen Tag für Kyoto hat, verpasst das Wesentliche. Für Unterkunft direkt in Kyoto hilft das [Kyoto-Unterkunfts-Special](/blog/wo-uebernachten-kyoto).
+Die Japan National Tourism Organization ([jnto.go.jp](https://www.jnto.go.jp)) empfiehlt, für Kyoto mindestens drei volle Tage einzuplanen, weil die Stadt ihre besten Momente früh am Morgen zeigt, bevor die Gruppen ankommen. Wer nur einen Tag für Kyoto hat, verpasst das Wesentliche. Für Unterkunft direkt in Kyoto hilft das [Kyoto-Unterkunfts-Special](/blog/wo-uebernachten-kyoto/).
 
 Das Essen in Kyoto ist feiner, aber teurer als in Osaka. Kaiseki, das traditionelle mehrgängige Menü, kann mehrere hundert Euro kosten. Es gibt aber auch günstige Tofu-Restaurants und Ramen-Bars für Normalsterbliche.
 
@@ -43,7 +43,7 @@ Wer in Kyoto schläft, wacht auf, bevor die Tagestouristen aus Osaka ankommen. A
 
 Der JR-Shinkansen zwischen Osaka und Kyoto braucht 15 Minuten und kostet rund 3 Euro (mit JR-Pass inklusive). Die Verbindung ist so schnell und so günstig, dass die Distanz irrelevant wird. Beides zu kombinieren ist keine Kompromisslösung, es ist die logische Wahl.
 
-Für eine breitere Japan-Reiseroute jenseits dieser beiden Städte: der Guide zu [Japan abseits von Tokio](/blog/japan-jenseits-von-tokio) zeigt weitere Ziele, die sich mit Osaka und Kyoto kombinieren lassen.
+Für eine breitere Japan-Reiseroute jenseits dieser beiden Städte: der Guide zu [Japan abseits von Tokio](/blog/japan-jenseits-von-tokio/) zeigt weitere Ziele, die sich mit Osaka und Kyoto kombinieren lassen.
 
 ## Was kostet Essen in Osaka vs. Kyoto?
 
@@ -81,6 +81,6 @@ Die Bahnfahrt kostet mit dem JR-Pass nichts extra (der Pass deckt die Strecke ab
 
 Mehr lesen:
 
-- [Wo übernachten in Kyoto: Viertel und Hotels](/blog/wo-uebernachten-kyoto)
-- [Wo übernachten in Osaka: Tipps und Preise](/blog/wo-uebernachten-osaka)
-- [Japan jenseits von Tokio: Die besten Nebenziele](/blog/japan-jenseits-von-tokio)
+- [Wo übernachten in Kyoto: Viertel und Hotels](/blog/wo-uebernachten-kyoto/)
+- [Wo übernachten in Osaka: Tipps und Preise](/blog/wo-uebernachten-osaka/)
+- [Japan jenseits von Tokio: Die besten Nebenziele](/blog/japan-jenseits-von-tokio/)

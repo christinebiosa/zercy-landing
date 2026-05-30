@@ -55,7 +55,7 @@ Köln ist eine Ganzjahresstadt mit zwei absoluten Highlights. Karneval (Donnerst
 
 **Herbst:** Wenig Touristen, gute Hotelpreise, Messe-Saison (Gamescom, Photokina).
 
-Köln lässt sich gut mit einem [Ausflug nach Brüssel](/blog/wo-uebernachten-bruessel) kombinieren: 2 Stunden Zug, Thalys-Verbindung.
+Köln lässt sich gut mit einem [Ausflug nach Brüssel](/blog/wo-uebernachten-bruessel/) kombinieren: 2 Stunden Zug, Thalys-Verbindung.
 
 ## Ehrenfeld: Kölns Kreativszene
 
@@ -112,6 +112,6 @@ Dom innen besichtigen und Südturm besteigen (533 Stufen, spektakulärer Panoram
 ---
 
 ## Mehr lesen
-- [Wo übernachten in Brüssel: Europas Hauptstadt](/blog/wo-uebernachten-bruessel)
-- [Europäische Städte im Winter: Die besten Ziele](/blog/europaeische-staedte-winter-tipps)
-- [Wo übernachten in Amsterdam: Die 5 Viertel](/blog/wo-uebernachten-amsterdam)
+- [Wo übernachten in Brüssel: Europas Hauptstadt](/blog/wo-uebernachten-bruessel/)
+- [Europäische Städte im Winter: Die besten Ziele](/blog/europaeische-staedte-winter-tipps/)
+- [Wo übernachten in Amsterdam: Die 5 Viertel](/blog/wo-uebernachten-amsterdam/)

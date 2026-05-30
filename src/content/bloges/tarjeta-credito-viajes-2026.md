@@ -62,7 +62,7 @@ Sin importar el tipo de tarjeta, tres reglas se cumplen en todas partes.
 
 La página oficial de [Visa para viajeros](https://www.visa.com/de_DE/pay-with-visa/travel-with-visa.html) tiene información actualizada sobre seguridad y aceptación global de tarjetas.
 
-Si estás planeando un viaje a una ciudad de LATAM y quieres comparar opciones de alojamiento, nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires) es un buen punto de partida para entender cómo manejar el presupuesto en destino.
+Si estás planeando un viaje a una ciudad de LATAM y quieres comparar opciones de alojamiento, nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) es un buen punto de partida para entender cómo manejar el presupuesto en destino.
 
 ---
 
@@ -89,6 +89,6 @@ Cuando vuelas más de 8 veces al año y regularmente tienes tiempo de espera en 
 ---
 
 **Más información:**
-- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Bogotá: Guía de barrios y precios](/es/blog/donde-alojarse-bogota)
-- [Dónde alojarse en Medellín: El Poblado y más allá](/es/blog/donde-alojarse-medellin)
+- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Bogotá: Guía de barrios y precios](/es/blog/donde-alojarse-bogota/)
+- [Dónde alojarse en Medellín: El Poblado y más allá](/es/blog/donde-alojarse-medellin/)

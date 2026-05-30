@@ -53,7 +53,7 @@ Hoteles: de 100 a 200 euros. Menos oferta que en Union Square pero más opciones
 **Recomendación:**
 - **The Inn San Francisco** (mansion victoriana, jardín con bañera exterior, aprox. 180 €)
 
-Para otras ciudades de la Costa Oeste de EE.UU., consulta también [dónde alojarse en Los Ángeles](/es/blog/donde-alojarse-los-angeles) y [dónde alojarse en Las Vegas](/es/blog/donde-alojarse-las-vegas).
+Para otras ciudades de la Costa Oeste de EE.UU., consulta también [dónde alojarse en Los Ángeles](/es/blog/donde-alojarse-los-angeles/) y [dónde alojarse en Las Vegas](/es/blog/donde-alojarse-las-vegas/).
 
 ## Fisherman's Wharf y North Beach: Turismo clásico con sabor
 
@@ -94,6 +94,6 @@ El BART (metro regional) conecta el Aeropuerto Internacional de San Francisco (S
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Los Ángeles: Downtown, Santa Mónica o Hollywood](/es/blog/donde-alojarse-los-angeles)
-- [Dónde alojarse en Las Vegas: El Strip, Downtown o Off-Strip](/es/blog/donde-alojarse-las-vegas)
-- [Dónde alojarse en Nueva York: Midtown, Brooklyn o Upper West Side](/es/blog/donde-alojarse-nueva-york)
+- [Dónde alojarse en Los Ángeles: Downtown, Santa Mónica o Hollywood](/es/blog/donde-alojarse-los-angeles/)
+- [Dónde alojarse en Las Vegas: El Strip, Downtown o Off-Strip](/es/blog/donde-alojarse-las-vegas/)
+- [Dónde alojarse en Nueva York: Midtown, Brooklyn o Upper West Side](/es/blog/donde-alojarse-nueva-york/)

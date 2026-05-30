@@ -59,13 +59,13 @@ Guinness Storehouse. 25 Euro Eintritt, endlose Warteschlangen, und am Ende trink
 
 Mai und Juni sind die besten Monate. Mild, grün, die Tage lang. September und Oktober sind ruhiger und ebenfalls angenehm. Winter: günstig, regnerisch, aber Dublin ist keine Stadt, die schlechtes Wetter schlechter macht. Pub-Atmosphäre ist bei Regen manchmal besser als bei Sonne.
 
-Direktflüge aus Deutschland gibt es von mehreren Flughäfen, meistens mit Ryanair oder Aer Lingus. Für den Preisvergleich hilft ein Blick auf [Bahn vs. Flieger Europa 2026](/blog/bahn-vs-flieger-europa-2026), auch wenn Dublin per Zug nicht direkt erreichbar ist. Das Prinzip der Vergleiche ist das gleiche.
+Direktflüge aus Deutschland gibt es von mehreren Flughäfen, meistens mit Ryanair oder Aer Lingus. Für den Preisvergleich hilft ein Blick auf [Bahn vs. Flieger Europa 2026](/blog/bahn-vs-flieger-europa-2026/), auch wenn Dublin per Zug nicht direkt erreichbar ist. Das Prinzip der Vergleiche ist das gleiche.
 
 ## Wo übernachten für ein Dublin-Wochenende?
 
 Die besten Lagen: Temple Bar-Gebiet für Nachtleben-Nähe, aber laut. Ballsbridge und Ranelagh für ruhigere, gehobene Optionen. Parnell Square und Mountjoy Square für günstigere Preise nördlich des Flusses.
 
-Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Dublin) findest du die gesamte Bandbreite. Für eine detaillierte Viertel-Übersicht hilft unser [Irland-Rundreise-Guide](/blog/irland-rundreise-route), der auch Dublin eingebettet in einen größeren Trip erklärt.
+Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Dublin) findest du die gesamte Bandbreite. Für eine detaillierte Viertel-Übersicht hilft unser [Irland-Rundreise-Guide](/blog/irland-rundreise-route/), der auch Dublin eingebettet in einen größeren Trip erklärt.
 
 Das offizielle Tourismus-Board [Visit Dublin](https://www.visitdublin.com) hat aktuelle Empfehlungen und Eventlisten.
 
@@ -73,7 +73,7 @@ Das offizielle Tourismus-Board [Visit Dublin](https://www.visitdublin.com) hat a
 
 Zercy vergleicht Direktflüge nach Dublin aus deutschen, österreichischen und Schweizer Flughäfen. Speichere alles im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen nichts vergisst.
 
-Für Tipps zum Durchkommen am Flughafen Dublin schau auf unsere [Airport-Hacks](/blog/airport-hacks).
+Für Tipps zum Durchkommen am Flughafen Dublin schau auf unsere [Airport-Hacks](/blog/airport-hacks/).
 
 ---
 
@@ -98,6 +98,6 @@ So früh wie möglich. In der Hochsaison (Mai bis August) sind Tickets oft Woche
 ---
 
 **Mehr lesen:**
-- [Irland Rundreise Route: Highlights in 7 bis 14 Tagen](/blog/irland-rundreise-route)
-- [Bahn vs. Flieger in Europa 2026: Wann lohnt sich was?](/blog/bahn-vs-flieger-europa-2026)
-- [Airport Hacks: Schneller durch jeden Flughafen](/blog/airport-hacks)
+- [Irland Rundreise Route: Highlights in 7 bis 14 Tagen](/blog/irland-rundreise-route/)
+- [Bahn vs. Flieger in Europa 2026: Wann lohnt sich was?](/blog/bahn-vs-flieger-europa-2026/)
+- [Airport Hacks: Schneller durch jeden Flughafen](/blog/airport-hacks/)

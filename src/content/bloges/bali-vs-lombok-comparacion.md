@@ -86,7 +86,7 @@ La conexión Bali-Lombok: ferry de 4-5 horas (barato, desde Padang Bai en Bali a
 
 Más información sobre rutas y alojamiento en [Lonely Planet Indonesia](https://www.lonelyplanet.com/indonesia).
 
-Nuestra [guía de alojamiento en Bali](/es/blog/donde-alojarse-bali) cubre las mejores zonas de la isla en detalle. Para planificar más amplio el Sudeste Asiático, echa un vistazo a nuestra [guía de Bangkok](/es/blog/donde-alojarse-bangkok). Y si viajas solo con equipaje de mano, nuestro artículo sobre [viaje sin maleta facturada](/es/blog/solo-equipaje-de-mano) es el punto de partida correcto.
+Nuestra [guía de alojamiento en Bali](/es/blog/donde-alojarse-bali/) cubre las mejores zonas de la isla en detalle. Para planificar más amplio el Sudeste Asiático, echa un vistazo a nuestra [guía de Bangkok](/es/blog/donde-alojarse-bangkok/). Y si viajas solo con equipaje de mano, nuestro artículo sobre [viaje sin maleta facturada](/es/blog/solo-equipaje-de-mano/) es el punto de partida correcto.
 
 ---
 
@@ -113,6 +113,6 @@ Bali tiene más infraestructura, más turismo, más templos y una cultura hindú
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Bali: Las mejores zonas](/es/blog/donde-alojarse-bali)
-- [Dónde alojarse en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok)
-- [Solo con equipaje de mano: Viaja más inteligente](/es/blog/solo-equipaje-de-mano)
+- [Dónde alojarse en Bali: Las mejores zonas](/es/blog/donde-alojarse-bali/)
+- [Dónde alojarse en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok/)
+- [Solo con equipaje de mano: Viaja más inteligente](/es/blog/solo-equipaje-de-mano/)

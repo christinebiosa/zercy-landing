@@ -77,6 +77,6 @@ El Bund de noche con los dos horizontes iluminados. El Jardín Yu (Yuyuan) con l
 
 ## Más sobre Asia
 
-- [Dónde alojarse en Hong Kong](/es/blog/donde-alojarse-hong-kong)
-- [Dónde alojarse en Seúl](/es/blog/donde-alojarse-seul)
-- [Dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur)
+- [Dónde alojarse en Hong Kong](/es/blog/donde-alojarse-hong-kong/)
+- [Dónde alojarse en Seúl](/es/blog/donde-alojarse-seul/)
+- [Dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur/)

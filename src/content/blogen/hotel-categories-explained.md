@@ -35,7 +35,7 @@ Not for: couples without compromise tolerance, light sleepers, business traveler
 
 **Prices:** 10-30 EUR per night in a dorm, private rooms 35-70 EUR.
 
-The best thing about good hostels: the community. Many travelers find day-trip companions here or get restaurant tips no guidebook covers. Our [airbnb vs. hotel comparison](/en/blog/airbnb-vs-hotel-comparison) covers the broader accommodation spectrum too.
+The best thing about good hostels: the community. Many travelers find day-trip companions here or get restaurant tips no guidebook covers. Our [airbnb vs. hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) covers the broader accommodation spectrum too.
 
 ## What Is a Guesthouse or B&B?
 
@@ -69,7 +69,7 @@ For whom: couples on city breaks, design-minded travelers, repeat visitors who w
 
 **Prices:** 120-350 EUR per night, depending on city and star rating.
 
-Especially worthwhile in: Portugal, Morocco, Italy, Spain, Mexico. The density of excellent boutique properties in these markets is high. Our [boutique hotel guide](/en/blog/boutique-hotels) goes deeper.
+Especially worthwhile in: Portugal, Morocco, Italy, Spain, Mexico. The density of excellent boutique properties in these markets is high. Our [boutique hotel guide](/en/blog/boutique-hotels/) goes deeper.
 
 ## What Sets a Lifestyle Hotel Apart from a Regular Hotel?
 
@@ -81,7 +81,7 @@ For whom: digital nomads, solo travelers looking for connections, creative indus
 
 **Prices:** 130-280 EUR per night.
 
-Many lifestyle hotels also allow day passes for co-working even for non-guests. A useful detail for [workation travelers](/en/blog/workation-tax-rules-2026).
+Many lifestyle hotels also allow day passes for co-working even for non-guests. A useful detail for [workation travelers](/en/blog/workation-tax-rules-2026/).
 
 ## What Does a 5-Star Hotel Actually Deliver?
 
@@ -138,6 +138,6 @@ All-inclusive means meals, drinks, and usually snacks and local activities are i
 ---
 
 **Read more:**
-- [Airbnb vs. Hotel: The Honest Comparison](/en/blog/airbnb-vs-hotel-comparison)
-- [Boutique Hotels: What to Really Expect](/en/blog/boutique-hotels)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Airbnb vs. Hotel: The Honest Comparison](/en/blog/airbnb-vs-hotel-comparison/)
+- [Boutique Hotels: What to Really Expect](/en/blog/boutique-hotels/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

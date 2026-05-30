@@ -71,7 +71,7 @@ Hotels outside the historic ring are 30-50% cheaper and often have parking. The 
 
 Caution: Bruges is extremely crowded on weekends. Midweek is quieter, more enjoyable and 20-30% cheaper.
 
-For more Belgium: [Where to stay in Brussels](/en/blog/where-to-stay-brussels) and [Where to stay in Ghent](/en/blog/where-to-stay-ghent). For Europe planning: [Best spring destinations in Europe](/en/blog/best-spring-destinations-europe).
+For more Belgium: [Where to stay in Brussels](/en/blog/where-to-stay-brussels/) and [Where to stay in Ghent](/en/blog/where-to-stay-ghent/). For Europe planning: [Best spring destinations in Europe](/en/blog/best-spring-destinations-europe/).
 
 ---
 
@@ -99,6 +99,6 @@ About €12 per person for a 30-minute boat trip. Boarding points are spread acr
 
 ## Read more
 
-- [Where to stay in Brussels: Best neighborhoods](/en/blog/where-to-stay-brussels)
-- [Best spring destinations in Europe 2026](/en/blog/best-spring-destinations-europe)
-- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026)
+- [Where to stay in Brussels: Best neighborhoods](/en/blog/where-to-stay-brussels/)
+- [Best spring destinations in Europe 2026](/en/blog/best-spring-destinations-europe/)
+- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026/)

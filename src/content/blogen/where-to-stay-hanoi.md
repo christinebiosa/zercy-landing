@@ -45,7 +45,7 @@ Just south of Hoan Kiem Lake, the former French colonial quarter (1888-1945). Wi
 
 **Top picks:** Sofitel Legend Metropole Hanoi (legendary 5-star since 1901, Charlie Chaplin and Graham Greene stayed here), Apricot Hotel (boutique premium at the lake), Movenpick Hotel Hanoi (modern premium).
 
-See our [Bangkok guide](/en/blog/where-to-stay-bangkok), Vietnam and Thailand are often joint SEA routes.
+See our [Bangkok guide](/en/blog/where-to-stay-bangkok/), Vietnam and Thailand are often joint SEA routes.
 
 ## When is the best time to visit Hanoi?
 
@@ -117,6 +117,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel in Old Quarter, Pho $1-2,
 ---
 
 **Read more:**
-- [Where to stay in Bangkok: 5 neighborhoods](/en/blog/where-to-stay-bangkok)
-- [Where to stay in Singapore: 5 neighborhoods](/en/blog/where-to-stay-singapore)
-- [Open-jaw tickets: the travel hack](/en/blog/open-jaw-tickets-travel-hack)
+- [Where to stay in Bangkok: 5 neighborhoods](/en/blog/where-to-stay-bangkok/)
+- [Where to stay in Singapore: 5 neighborhoods](/en/blog/where-to-stay-singapore/)
+- [Open-jaw tickets: the travel hack](/en/blog/open-jaw-tickets-travel-hack/)

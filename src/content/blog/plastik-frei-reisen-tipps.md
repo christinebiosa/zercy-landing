@@ -58,7 +58,7 @@ Hotels (vor allem mittlere Klasse) sind Plastik-Sünden-Wunder. Mini-Shampoo, Mi
 
 **5. Eigenes Sonnencreme-Stück.** Festes Sonnencreme-Stück (Sun Bum, Stream2Sea). Weniger gefährlich für Korallenriffe in Asien (chemische Sonnencremes verboten in Hawaii, Mexiko-Riffe-Zonen).
 
-Lies dazu auch unseren [Capsule-Wardrobe-Guide](/blog/capsule-wardrobe-handgepaeck) für minimalistisches Packen.
+Lies dazu auch unseren [Capsule-Wardrobe-Guide](/blog/capsule-wardrobe-handgepaeck/) für minimalistisches Packen.
 
 ## Wie sagst du "ohne Plastik" auf der Reise?
 
@@ -142,6 +142,6 @@ Realistische Schätzung: 30-50 Plastikflaschen (mit Wasserfilter), 5-10 Plastikb
 ---
 
 **Mehr lesen:**
-- [CO2-Kompensation beim Fliegen: Was bringt es?](/blog/co2-kompensation-fliegen)
-- [Slow Travel: Was es wirklich bedeutet](/blog/slow-travel-bedeutet-was)
-- [Capsule Wardrobe für Handgepäck](/blog/capsule-wardrobe-handgepaeck)
+- [CO2-Kompensation beim Fliegen: Was bringt es?](/blog/co2-kompensation-fliegen/)
+- [Slow Travel: Was es wirklich bedeutet](/blog/slow-travel-bedeutet-was/)
+- [Capsule Wardrobe für Handgepäck](/blog/capsule-wardrobe-handgepaeck/)

@@ -36,7 +36,7 @@ Metal items, loose change, watch, keys: all go into your jacket pocket or bag be
 
 And: drink your water or throw it out. It sounds obvious. But hundreds of people every day stand at the checkpoint hoping to negotiate keeping their half-full bottle. The answer is no.
 
-If you're traveling with [carry-on only](/en/blog/carry-on-only), it's even more important to pack your bag so the laptop compartment is easy to reach.
+If you're traveling with [carry-on only](/en/blog/carry-on-only/), it's even more important to pack your bag so the laptop compartment is easy to reach.
 
 ## When is FastTrack or Priority Security actually worth it?
 
@@ -48,7 +48,7 @@ On a Tuesday or Wednesday morning, at smaller airports, or off-peak, FastTrack i
 
 Ryanair Priority Boarding sometimes includes FastTrack access depending on the airport and booking class. It's in your confirmation or on Ryanair's page for that specific airport. Don't assume. Check first.
 
-Priority Boarding and FastTrack are different things. One is for the security checkpoint, the other is for the gate. [Whether Priority Boarding is worth it](/en/blog/priority-boarding-worth-it) depends on your airline and airport.
+Priority Boarding and FastTrack are different things. One is for the security checkpoint, the other is for the gate. [Whether Priority Boarding is worth it](/en/blog/priority-boarding-worth-it/) depends on your airline and airport.
 
 ## What is TSA PreCheck and who should get it?
 
@@ -60,7 +60,7 @@ You enter that number when booking and get access to PreCheck lanes. In those la
 
 Non-US citizens can also apply. NEXUS works for US-Canada travel. Reciprocal programs exist if your country has an agreement. All of it listed on the TSA website.
 
-If you fly to the US more than twice a year and don't have PreCheck yet, those 85 dollars pay for themselves on the first trip. It's worth more than all the other [airport hacks](/en/blog/airport-hacks) put together.
+If you fly to the US more than twice a year and don't have PreCheck yet, those 85 dollars pay for themselves on the first trip. It's worth more than all the other [airport hacks](/en/blog/airport-hacks/) put together.
 
 ## Which mistakes cost the most time at security?
 
@@ -76,7 +76,7 @@ The water bottle mistake has been covered. But there's more:
 
 **Wrong terminal entrance.** Frankfurt T1 has multiple checkpoints. The north entrance is almost always less crowded. Use Google Maps plus the airport app to find the quieter entrance before you get there.
 
-After clearing security, if you have time before your flight: [whether an airport hotel is worth it](/en/blog/airport-hotel-worth-it) for early morning departures is a fair question.
+After clearing security, if you have time before your flight: [whether an airport hotel is worth it](/en/blog/airport-hotel-worth-it/) for early morning departures is a fair question.
 
 ## When should you arrive at the airport?
 
@@ -88,7 +88,7 @@ At least 90 minutes before departure at major hubs. Frankfurt T1, London Heathro
 
 **Worst times:** Monday mornings from 6 to 9am, Friday evenings from 4 to 7pm, Sunday evenings from 5pm onward. At these times FastTrack or Priority Security earns its cost.
 
-If you're flying with [carry-on only](/en/blog/carry-on-only), you gain another 15 to 20 minutes right away by skipping bag drop entirely.
+If you're flying with [carry-on only](/en/blog/carry-on-only/), you gain another 15 to 20 minutes right away by skipping bag drop entirely.
 
 ---
 
@@ -115,6 +115,6 @@ Anyone flying to the US more than twice a year. One application, 85 dollars for 
 ---
 
 **Read more:**
-- [7 Airport Hacks That Save You Time and Stress](/en/blog/airport-hacks)
-- [Is Priority Boarding Actually Worth It?](/en/blog/priority-boarding-worth-it)
-- [Carry-On Only: How to Pack Smart](/en/blog/carry-on-only)
+- [7 Airport Hacks That Save You Time and Stress](/en/blog/airport-hacks/)
+- [Is Priority Boarding Actually Worth It?](/en/blog/priority-boarding-worth-it/)
+- [Carry-On Only: How to Pack Smart](/en/blog/carry-on-only/)

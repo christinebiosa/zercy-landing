@@ -71,7 +71,7 @@ Amara is the residential district beyond the center, with the Norte train statio
 
 For San Sebastián, [Booking.com](https://www.booking.com) is the best platform. The small pensions in the Old Town that have no web presence of their own are fully listed there. The San Sebastián Film Festival in September and Semana Grande (August) mean extremely high prices: book early or choose May or October instead.
 
-Also check: [Where to stay in Madrid](/en/blog/where-to-stay-madrid) and [Where to stay in Barcelona](/en/blog/where-to-stay-barcelona).
+Also check: [Where to stay in Madrid](/en/blog/where-to-stay-madrid/) and [Where to stay in Barcelona](/en/blog/where-to-stay-barcelona/).
 
 ---
 
@@ -99,6 +99,6 @@ By bus (Pesa or ALSA): about 1 hour 20 minutes, approximately €7-10. By car on
 
 ## Read more
 
-- [Where to stay in Barcelona: The 5 neighborhoods](/en/blog/where-to-stay-barcelona)
-- [Where to stay in Madrid: Neighborhoods and hotels](/en/blog/where-to-stay-madrid)
-- [Portugal road trip route: The best itinerary](/en/blog/portugal-road-trip-route)
+- [Where to stay in Barcelona: The 5 neighborhoods](/en/blog/where-to-stay-barcelona/)
+- [Where to stay in Madrid: Neighborhoods and hotels](/en/blog/where-to-stay-madrid/)
+- [Portugal road trip route: The best itinerary](/en/blog/portugal-road-trip-route/)

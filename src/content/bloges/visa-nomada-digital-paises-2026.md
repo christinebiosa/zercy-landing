@@ -26,7 +26,7 @@ Portugal fue uno de los primeros países del mundo en crear un visado específic
 
 **Impuestos:** Los nuevos residentes pueden beneficiarse de tasas impositivas reducidas a través del programa sucesor del NHR (IFICI). Pero el asesoramiento fiscal antes de mudarse es indispensable.
 
-**Dónde viven los nómadas:** Lisboa, Oporto, Madeira (Funchal tiene una comunidad nómada activa con apoyo gubernamental). Nuestro [artículo sobre Lisboa](/es/blog/donde-alojarse-lima) muestra qué barrios funcionan mejor para alquileres semanales o mensuales.
+**Dónde viven los nómadas:** Lisboa, Oporto, Madeira (Funchal tiene una comunidad nómada activa con apoyo gubernamental). Nuestro [artículo sobre Lisboa](/es/blog/donde-alojarse-lima/) muestra qué barrios funcionan mejor para alquileres semanales o mensuales.
 
 ## España: Visado para trabajadores remotos desde 2023
 
@@ -64,7 +64,7 @@ México ofrece una Residencia Temporal como vía práctica para trabajadores rem
 
 **Impuestos:** México tiene un sistema fiscal global. Quienes pasen más de 183 días al año en México pueden tener obligaciones fiscales allí. Importante: consultar a un asesor fiscal local.
 
-**Dónde viven los nómadas:** Ciudad de México (Roma Norte, Condesa), Oaxaca, Playa del Carmen, Mérida. Nuestro [artículo sobre Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico) muestra los mejores barrios para estancias largas.
+**Dónde viven los nómadas:** Ciudad de México (Roma Norte, Condesa), Oaxaca, Playa del Carmen, Mérida. Nuestro [artículo sobre Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico/) muestra los mejores barrios para estancias largas.
 
 ## Tailandia: Visado LTR (Long-Term Resident)
 
@@ -110,7 +110,7 @@ Colombia ofrece una categoría de visa de migrante para trabajadores remotos.
 
 **Impuestos:** Colombia tiene un sistema fiscal global. Después de 183 días en el país pueden surgir obligaciones fiscales locales. Se recomienda asesoría local.
 
-**Dónde viven los nómadas:** Medellín (El Poblado, Laureles), Bogotá (Chapinero), Cartagena. Medellín es la opción más popular: económica y con alta densidad de nómadas. Nuestro [artículo sobre Medellín](/es/blog/donde-alojarse-medellin) muestra dónde alojarse en cada barrio.
+**Dónde viven los nómadas:** Medellín (El Poblado, Laureles), Bogotá (Chapinero), Cartagena. Medellín es la opción más popular: económica y con alta densidad de nómadas. Nuestro [artículo sobre Medellín](/es/blog/donde-alojarse-medellin/) muestra dónde alojarse en cada barrio.
 
 ## Lo que siempre debes tener en cuenta
 
@@ -145,6 +145,6 @@ Mientras mantengas tu domicilio registrado en tu país de origen, sigues siendo 
 ---
 
 **Más información:**
-- [Dónde alojarse en Medellín: El Poblado y más barrios](/es/blog/donde-alojarse-medellin)
-- [Dónde alojarse en Ciudad de México: Los mejores barrios](/es/blog/donde-alojarse-ciudad-de-mexico)
-- [Dónde alojarse en Lima: Miraflores y otros barrios](/es/blog/donde-alojarse-lima)
+- [Dónde alojarse en Medellín: El Poblado y más barrios](/es/blog/donde-alojarse-medellin/)
+- [Dónde alojarse en Ciudad de México: Los mejores barrios](/es/blog/donde-alojarse-ciudad-de-mexico/)
+- [Dónde alojarse en Lima: Miraflores y otros barrios](/es/blog/donde-alojarse-lima/)

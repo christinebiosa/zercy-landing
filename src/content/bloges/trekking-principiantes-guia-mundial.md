@@ -24,7 +24,7 @@ No todo "sendero para principiantes" lo es realmente. Tres factores importan: se
 
 **Milford Track en Nueva Zelanda** está considerado uno de los senderos más bellos del mundo. 53 kilómetros por el Parque Nacional Fiordland. Refugios bien equipados. Poco desnivel. Necesitas reservar los refugios con antelación (desde 70 NZD por noche). Perfecto para principiantes que quieren comodidad sin renunciar a la naturaleza.
 
-**Tour du Mont Blanc (etapas seleccionadas)** rodea la montaña más alta de los Alpes por Francia, Italia y Suiza. La ruta completa dura 11 días. Para principiantes: etapas individuales entre refugios. El tramo francés desde Chamonix es especialmente bien señalizado. Más detalles en la guía de [senderismo en los Alpes para principiantes](/es/blog/senderismo-alpes-principiantes-guia).
+**Tour du Mont Blanc (etapas seleccionadas)** rodea la montaña más alta de los Alpes por Francia, Italia y Suiza. La ruta completa dura 11 días. Para principiantes: etapas individuales entre refugios. El tramo francés desde Chamonix es especialmente bien señalizado. Más detalles en la guía de [senderismo en los Alpes para principiantes](/es/blog/senderismo-alpes-principiantes-guia/).
 
 ## ¿Qué equipo básico necesita un senderista principiante?
 
@@ -75,7 +75,7 @@ Deberías poder caminar 15 a 20 kilómetros seguidos sin quedar incapacitado al 
 Camino de Santiago: desde 700 a 1.200 euros para 4 semanas (viaje, alojamiento, comida). Trekking Nepal desde 800 euros para 2 semanas (vuelo no incluido). Perú/Machu Picchu: 1.200 a 2.000 euros incluyendo vuelos desde Europa. Estos son presupuestos realistas. No escatimes en botas.
 
 ### Qué seguro necesitas para viajes de trekking?
-Un seguro médico de viaje con cobertura de rescate en helicóptero es imprescindible para Nepal y Perú. El seguro sanitario europeo no cubre esos destinos. Para el Camino en España, la Tarjeta Sanitaria Europea es suficiente. Más información en [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena).
+Un seguro médico de viaje con cobertura de rescate en helicóptero es imprescindible para Nepal y Perú. El seguro sanitario europeo no cubre esos destinos. Para el Camino en España, la Tarjeta Sanitaria Europea es suficiente. Más información en [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/).
 
 ### Cuándo es la mejor época para cada ruta de senderismo?
 Camino de Santiago: abril a junio, septiembre a octubre. Nepal: octubre a noviembre, marzo a abril. Perú: mayo a septiembre. Nueva Zelanda: noviembre a marzo (verano austral). Evita los períodos de monzón. La lluvia hace los senderos peligrosos y las vistas desaparecen entre nubes.
@@ -84,6 +84,6 @@ Camino de Santiago: abril a junio, septiembre a octubre. Nepal: octubre a noviem
 
 ## Más información
 
-- [Senderismo en los Alpes: Guía para principiantes](/es/blog/senderismo-alpes-principiantes-guia)
-- [Camino de Santiago: Todo lo que necesitas saber](/es/blog/santiago-de-compostela-ruta)
-- [Nepal: Guía de viaje y mejores highlights](/es/blog/nepal-guia-viaje-highlights)
+- [Senderismo en los Alpes: Guía para principiantes](/es/blog/senderismo-alpes-principiantes-guia/)
+- [Camino de Santiago: Todo lo que necesitas saber](/es/blog/santiago-de-compostela-ruta/)
+- [Nepal: Guía de viaje y mejores highlights](/es/blog/nepal-guia-viaje-highlights/)

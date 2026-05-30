@@ -78,6 +78,6 @@ Playa Rincón en la Península de Samaná es una de las más salvajes e intactas
 ---
 
 **Leer más:**
-- [Lista de equipaje esencial para viajes](/es/blog/lista-equipaje-viaje-esencial)
-- [Vacaciones todo incluido: ¿vale la pena?](/es/blog/vacaciones-todo-incluido-vale-la-pena)
-- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Lista de equipaje esencial para viajes](/es/blog/lista-equipaje-viaje-esencial/)
+- [Vacaciones todo incluido: ¿vale la pena?](/es/blog/vacaciones-todo-incluido-vale-la-pena/)
+- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)

@@ -49,7 +49,7 @@ Hotels in Barra are more modern and tourist-oriented. Good for anyone combining 
 
 **Top picks:** Pestana Bahia Lodge (right on Barra beach, great location), Bahia Hotel e Tours (boutique in Barra), Porto da Barra (affordable, close to the beach).
 
-Our [Brazil travel guide](/en/blog/brazil-travel-guide-highlights) and [Rio de Janeiro guide](/en/blog/where-to-stay-rio-de-janeiro) are the best supplements for a Brazil trip.
+Our [Brazil travel guide](/en/blog/brazil-travel-guide-highlights/) and [Rio de Janeiro guide](/en/blog/where-to-stay-rio-de-janeiro/) are the best supplements for a Brazil trip.
 
 ## When Is the Best Time to Visit Salvador?
 
@@ -105,6 +105,6 @@ April to August (rainy season) is more affordable and less crowded. September an
 ---
 
 ## Read more
-- [Where to Stay in Rio de Janeiro: Best Neighborhoods](/en/blog/where-to-stay-rio-de-janeiro)
-- [Brazil Travel Guide: Best Highlights](/en/blog/brazil-travel-guide-highlights)
-- [Where to Stay in Buenos Aires: Best Neighborhoods](/en/blog/where-to-stay-buenos-aires)
+- [Where to Stay in Rio de Janeiro: Best Neighborhoods](/en/blog/where-to-stay-rio-de-janeiro/)
+- [Brazil Travel Guide: Best Highlights](/en/blog/brazil-travel-guide-highlights/)
+- [Where to Stay in Buenos Aires: Best Neighborhoods](/en/blog/where-to-stay-buenos-aires/)

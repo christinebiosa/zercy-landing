@@ -57,7 +57,7 @@ El Leidseplein y el Rembrandtplein son las plazas más animadas de la ciudad al 
 
 ## ¿Dónde alojarse para un fin de semana en Ámsterdam?
 
-Jordaan y el centro histórico son céntricos pero caros. Los hoteles en De Pijp o Oud-West están a 20 o 30 minutos andando de las principales atracciones y cuestan bastante menos. Cuenta con entre 100 y 200 euros por noche para una opción de gama media sólida. En [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) encuentras toda la oferta con filtro por barrio. Para un desglose detallado por zona, nuestra guía sobre [dónde alojarse en Ámsterdam](/es/blog/donde-alojarse-amsterdam) cubre todas las opciones.
+Jordaan y el centro histórico son céntricos pero caros. Los hoteles en De Pijp o Oud-West están a 20 o 30 minutos andando de las principales atracciones y cuestan bastante menos. Cuenta con entre 100 y 200 euros por noche para una opción de gama media sólida. En [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) encuentras toda la oferta con filtro por barrio. Para un desglose detallado por zona, nuestra guía sobre [dónde alojarse en Ámsterdam](/es/blog/donde-alojarse-amsterdam/) cubre todas las opciones.
 
 ## ¿Cuánto cuesta un fin de semana en Ámsterdam?
 
@@ -65,9 +65,9 @@ Rijksmuseum: 20 euros. Casa de Ana Frank: 16 euros. Billete diario GVB para tran
 
 ## ¿Cuándo está Ámsterdam más bonita?
 
-En abril y mayo. Los tulipanes están en flor, el Keukenhof (a 30 minutos en autobús desde el centro) está abierto y la ciudad aún no está desbordada de turistas de verano. De junio a agosto hace buen tiempo pero los precios suben y la gente aumenta. El otoño es muy fotogénico por las hojas sobre los canales, aunque llueve. Si tienes fechas flexibles, revisar [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos) antes de confirmar puede salirte bien.
+En abril y mayo. Los tulipanes están en flor, el Keukenhof (a 30 minutos en autobús desde el centro) está abierto y la ciudad aún no está desbordada de turistas de verano. De junio a agosto hace buen tiempo pero los precios suben y la gente aumenta. El otoño es muy fotogénico por las hojas sobre los canales, aunque llueve. Si tienes fechas flexibles, revisar [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) antes de confirmar puede salirte bien.
 
-Para el trayecto: el aeropuerto de Schiphol es uno de los más transitados de Europa. Nuestras [guía del aeropuerto](/es/blog/trucos-aeropuerto) explica cómo moverte más rápido.
+Para el trayecto: el aeropuerto de Schiphol es uno de los más transitados de Europa. Nuestras [guía del aeropuerto](/es/blog/trucos-aeropuerto/) explica cómo moverte más rápido.
 
 Zercy encuentra el vuelo más barato a Ámsterdam y tu hotel en un solo paso. Guarda todo en el [Zercy Logbook](https://www.zercy.app/logbook) para cuando reserves.
 
@@ -81,7 +81,7 @@ En temporada alta (de abril a agosto, vacaciones escolares y festivos) las entra
 
 ### ¿Qué barrio es mejor para alojarse en Ámsterdam?
 
-Jordaan es el más querido pero también el más caro. De Pijp es más animado, más asequible y tiene la mayor densidad de restaurantes de la ciudad. Oud-West es más tranquilo y bien comunicado. La comparativa completa por presupuesto y estilo de viaje está en nuestra guía de [dónde alojarse en Ámsterdam](/es/blog/donde-alojarse-amsterdam).
+Jordaan es el más querido pero también el más caro. De Pijp es más animado, más asequible y tiene la mayor densidad de restaurantes de la ciudad. Oud-West es más tranquilo y bien comunicado. La comparativa completa por presupuesto y estilo de viaje está en nuestra guía de [dónde alojarse en Ámsterdam](/es/blog/donde-alojarse-amsterdam/).
 
 ### ¿Qué se puede saltarse en Ámsterdam?
 
@@ -94,6 +94,6 @@ El tren directo del aeropuerto de Schiphol a Amsterdam Centraal sale cada pocos 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Ámsterdam: barrios y hoteles por presupuesto](/es/blog/donde-alojarse-amsterdam)
-- [Tren vs. avión en Europa 2026: ¿cuál merece la pena?](/es/blog/tren-vs-avion-europa-2026)
-- [Trucos de aeropuerto: pasa más rápido por cualquier aeropuerto](/es/blog/trucos-aeropuerto)
+- [Dónde alojarse en Ámsterdam: barrios y hoteles por presupuesto](/es/blog/donde-alojarse-amsterdam/)
+- [Tren vs. avión en Europa 2026: ¿cuál merece la pena?](/es/blog/tren-vs-avion-europa-2026/)
+- [Trucos de aeropuerto: pasa más rápido por cualquier aeropuerto](/es/blog/trucos-aeropuerto/)

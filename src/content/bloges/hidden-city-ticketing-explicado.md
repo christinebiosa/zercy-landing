@@ -49,7 +49,7 @@ La práctica no viola ninguna ley. Es una violación de los Términos y Condicio
 
 No hay registro de viajeros individuales que hayan tenido problemas legales por hidden city ticketing de uso ocasional.
 
-Una alternativa sin riesgos para ahorrar en vuelos es el [open-jaw ticketing](/es/blog/open-jaw-tickets-truco-viaje), que es completamente aceptado por las aerolíneas y a veces igual de económico.
+Una alternativa sin riesgos para ahorrar en vuelos es el [open-jaw ticketing](/es/blog/open-jaw-tickets-truco-viaje/), que es completamente aceptado por las aerolíneas y a veces igual de económico.
 
 Zercy muestra opciones de vuelos con comparativa de precios para que puedas tomar las mejores decisiones. Guarda tus opciones en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -76,6 +76,6 @@ Con cuidado. Si compras un billete de ida y vuelta y quieres usar hidden city so
 ---
 
 **Más para leer:**
-- [Open-jaw tickets: el truco legal para ver más y pagar menos](/es/blog/open-jaw-tickets-truco-viaje)
-- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos)
-- [Stopover turismo: convertir la escala en un destino extra](/es/blog/guia-stopover-turismo)
+- [Open-jaw tickets: el truco legal para ver más y pagar menos](/es/blog/open-jaw-tickets-truco-viaje/)
+- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos/)
+- [Stopover turismo: convertir la escala en un destino extra](/es/blog/guia-stopover-turismo/)

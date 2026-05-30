@@ -26,7 +26,7 @@ Was funktioniert: Strand plus Pool plus babyfreundliches Hotel. Die Kanaren sind
 
 Das Prinzip ist einfach. Du brauchst einen festen Ort, an dem das Kind spielen kann, ohne dass du ständig packst und fährst. All-inclusive-Hotels haben dabei einen echten Vorteil: kein Stress beim Restaurantsuchen, keine Diskussion wegen der Speisekarte.
 
-Mehr dazu: [Familienurlaub mit Kindern: Die besten Tipps](/blog/familienurlaub-mit-kindern-tipps)
+Mehr dazu: [Familienurlaub mit Kindern: Die besten Tipps](/blog/familienurlaub-mit-kindern-tipps/)
 
 ## Wie übersteht ihr den Flug?
 
@@ -42,7 +42,7 @@ Der Flug ist meist die größte Sorge. Hier sind die Punkte, die wirklich einen 
 
 **Bassinet bei Langstrecke vorab anfragen.** Viele Airlines bieten in der ersten Reihe eine Wiege an, die an der Wand befestigt wird. Die Plätze gehen schnell weg. Direkt nach der Buchung bei der Airline anfragen.
 
-Weitere Infos: [Mit dem Baby fliegen: Erste Flüge entspannt meistern](/blog/reisen-mit-baby-erste-fluege)
+Weitere Infos: [Mit dem Baby fliegen: Erste Flüge entspannt meistern](/blog/reisen-mit-baby-erste-fluege/)
 
 ## Was packt man wirklich ein?
 
@@ -64,7 +64,7 @@ Für Reisen innerhalb der EU gilt: Die europäische Krankenversicherungskarte (E
 
 Außerhalb der EU oder für umfassenderen Schutz empfiehlt sich eine Auslandsreisekrankenversicherung. Für Kinder unter einem bestimmten Alter zahlen manche Anbieter keinen Aufpreis, wenn die Eltern versichert sind. Das lohnt sich zu prüfen.
 
-Alles dazu: [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+Alles dazu: [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
 
 ## FAQ: Reisen mit Kleinkind unter 3
 
@@ -83,9 +83,9 @@ Innerhalb der EU reicht die EHIC-Karte für Notfälle. Für Reisen außerhalb de
 ---
 
 **Mehr lesen:**
-- [Mit dem Baby fliegen: Erste Flüge entspannt meistern](/blog/reisen-mit-baby-erste-fluege)
-- [Familienurlaub mit Kindern: Die besten Tipps](/blog/familienurlaub-mit-kindern-tipps)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Mit dem Baby fliegen: Erste Flüge entspannt meistern](/blog/reisen-mit-baby-erste-fluege/)
+- [Familienurlaub mit Kindern: Die besten Tipps](/blog/familienurlaub-mit-kindern-tipps/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
 
 ---
 

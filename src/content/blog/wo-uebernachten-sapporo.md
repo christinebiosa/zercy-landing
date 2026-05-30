@@ -47,7 +47,7 @@ Direkt am Bahnhof: Einkaufsmalls JR Tower, Stellar Place und Apia im Gebäude. U
 
 **Top-Picks:** Sapporo Grand Hotel (historisches Stadthotel aus den 1930er Jahren, Klassiker), Hotel Resol Trinity Sapporo (modern, direkt am Bahnhof), ANA Holiday Inn Sapporo Susukino (zuverlässige Kettenqualität, gute Preise).
 
-Wenn du Japan mit der Bahn erkundest, lies dazu unseren [Japan 3-Wochen-Route-Guide](/blog/japan-3-wochen-route). Der JR Pass deckt die Strecke von Tokio nach Hokkaido ab.
+Wenn du Japan mit der Bahn erkundest, lies dazu unseren [Japan 3-Wochen-Route-Guide](/blog/japan-3-wochen-route/). Der JR Pass deckt die Strecke von Tokio nach Hokkaido ab.
 
 ## Welcher Stadtteil ist am besten für Familien und ruhigere Reisende?
 
@@ -57,7 +57,7 @@ Wenn du Japan mit der Bahn erkundest, lies dazu unseren [Japan 3-Wochen-Route-Gu
 
 **Preise:** 50-120 Euro für Guesthouses, 130-200 Euro für gehobene Optionen.
 
-Schau dir auch unsere [Japan Budget-Reisetipps](/blog/japan-budget-reisen-tipps) an. In Hokkaido sind Preise deutlich niedriger als in Tokio.
+Schau dir auch unsere [Japan Budget-Reisetipps](/blog/japan-budget-reisen-tipps/) an. In Hokkaido sind Preise deutlich niedriger als in Tokio.
 
 ## Otaru: Tagesausflug oder Nacht im Kanal-Städtchen
 
@@ -76,7 +76,7 @@ Sapporo hat einen eigenen Stadtski-Berg: Sapporo Teine (20 Minuten vom Zentrum).
 
 **Preise:** Ski-in-Ski-out-Hotels 120-400 Euro pro Nacht (Dezember bis März).
 
-Für Vergleiche mit europäischen Skigebieten lies den [Skiurlaub Europa Beste Ziele Guide](/blog/skiurlaub-europa-beste-ziele).
+Für Vergleiche mit europäischen Skigebieten lies den [Skiurlaub Europa Beste Ziele Guide](/blog/skiurlaub-europa-beste-ziele/).
 
 ## Wie viel kostet eine Übernachtung in Sapporo?
 
@@ -97,7 +97,7 @@ Für Sapporo funktioniert [Booking.com](https://www.booking.com) sehr gut:
 - Kostenlose Stornierung oft möglich, wichtig für Winterreisen wenn Wetterbedingungen Pläne ändern können
 - Bewertungen von tatsächlichen Gästen, sehr verlässlich
 
-Für den Snow Festival-Zeitraum: Expedia und Booking.com beide prüfen, da Verfügbarkeit in Spitzenzeiten begrenzt ist. Wann du buchen solltest erfährst du in unserem [Wann Flüge buchen Guide](/blog/wann-fluege-buchen).
+Für den Snow Festival-Zeitraum: Expedia und Booking.com beide prüfen, da Verfügbarkeit in Spitzenzeiten begrenzt ist. Wann du buchen solltest erfährst du in unserem [Wann Flüge buchen Guide](/blog/wann-fluege-buchen/).
 
 ---
 
@@ -124,6 +124,6 @@ Nakajima Park und Ruhigere Wohnviertel außerhalb des Zentrums bieten die günst
 ---
 
 **Mehr lesen:**
-- [Japan 3-Wochen-Route: Die komplette Rundreise](/blog/japan-3-wochen-route)
-- [Japan Budget-Reisetipps: Günstig reisen ohne Abstriche](/blog/japan-budget-reisen-tipps)
-- [Skiurlaub Europa: Die besten Ziele für jeden Typ](/blog/skiurlaub-europa-beste-ziele)
+- [Japan 3-Wochen-Route: Die komplette Rundreise](/blog/japan-3-wochen-route/)
+- [Japan Budget-Reisetipps: Günstig reisen ohne Abstriche](/blog/japan-budget-reisen-tipps/)
+- [Skiurlaub Europa: Die besten Ziele für jeden Typ](/blog/skiurlaub-europa-beste-ziele/)

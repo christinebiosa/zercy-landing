@@ -22,7 +22,7 @@ Die ehrliche Sortierung sieht so aus.
 
 **Für Familien:** Mallorca, Mauritius und Turks & Caicos. Mallorca hat kurze Flüge aus Europa, gutes Wasser, exzellente Kinderinfrastruktur. Mauritius ist das Familien-Luxusziel des Indischen Ozeans: geschützte Lagunen ohne Brandung, kinderfreundliche Resorts. Turks & Caicos (Grace Bay Beach) gilt als einer der sichersten und schönsten Strandstandorte der Welt. Flaches Wasser, perfekte Sicht, kaum Wellen.
 
-**Abseits der Touristenpfade:** Seychellen, Palawan und Milos. Die Seychellen sind teuer, aber La Digue und Praslin sind schwer zu toppen wenn du Einsamkeit und Perfektion willst. Palawan auf den Philippinen (Puerto Princesa, El Nido) hat turquoise Lagunen, dramatische Kalksteinfelsen, und Tourist-Infrastruktur ohne Massenmarkt. Milos in Griechenland ist der unterschätzte Geheimtipp: weißer Mondstein-Sand, klares Ägäis-Wasser, kaum Tagestouristen von Kreuzfahrten. Auch unser [Schottland Highlands Roadtrip](/blog/schottland-highlands-roadtrip) zeigt, dass Off-the-Beaten-Path nicht immer tropisch sein muss.
+**Abseits der Touristenpfade:** Seychellen, Palawan und Milos. Die Seychellen sind teuer, aber La Digue und Praslin sind schwer zu toppen wenn du Einsamkeit und Perfektion willst. Palawan auf den Philippinen (Puerto Princesa, El Nido) hat turquoise Lagunen, dramatische Kalksteinfelsen, und Tourist-Infrastruktur ohne Massenmarkt. Milos in Griechenland ist der unterschätzte Geheimtipp: weißer Mondstein-Sand, klares Ägäis-Wasser, kaum Tagestouristen von Kreuzfahrten. Auch unser [Schottland Highlands Roadtrip](/blog/schottland-highlands-roadtrip/) zeigt, dass Off-the-Beaten-Path nicht immer tropisch sein muss.
 
 **Für Surfer:** Nazaré, Bali und Costa Rica. Nazaré in Portugal hat die größten Wellen der Welt. Herbst und Winter: Wellen über 20 Meter. Das ist für erfahrene Surfer und Zuschauer. Bali (Uluwatu, Padang Padang) ist der Klassiker: perfekte Reef-Breaks, warmes Wasser, gutes Niveau für alle Stufen. Costa Rica (Playa Hermosa, Jacó) ist der zuverlässigste Surf-Spot für Anfänger bis Fortgeschrittene in der Karibik-Region.
 
@@ -84,7 +84,7 @@ Drei Tipps, die echtes Geld sparen.
 
 Zercy hilft dir beim Vergleich: Flugoptionen, Hotel-Kategorien und Preise für alle diese Ziele. Speichere deine Favoriten-Strand-Kombis im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
 
-Für Strandziele innerhalb Europas haben wir einen separaten Guide: [Schönste Strände Europa 2026](/blog/schoenste-straende-europa-2026). Und wer Unterwasser-Welt priorisiert, findet im [Segelurlaub-Einsteiger-Guide](/blog/segelurlaub-einsteiger-guide) viele Überschneidungen.
+Für Strandziele innerhalb Europas haben wir einen separaten Guide: [Schönste Strände Europa 2026](/blog/schoenste-straende-europa-2026/). Und wer Unterwasser-Welt priorisiert, findet im [Segelurlaub-Einsteiger-Guide](/blog/segelurlaub-einsteiger-guide/) viele Überschneidungen.
 
 ---
 
@@ -109,6 +109,6 @@ Mallorca (Alcúdia, Cala d'Or), Mauritius (Nordküste, Ostküste) und Turks & Ca
 ---
 
 **Mehr lesen:**
-- [Schönste Strände Europa 2026](/blog/schoenste-straende-europa-2026)
-- [Segelurlaub als Einsteiger: Was du wissen musst](/blog/segelurlaub-einsteiger-guide)
-- [Inselhopping Karibik: Die besten Routen](/blog/inselhopping-karibik-guide)
+- [Schönste Strände Europa 2026](/blog/schoenste-straende-europa-2026/)
+- [Segelurlaub als Einsteiger: Was du wissen musst](/blog/segelurlaub-einsteiger-guide/)
+- [Inselhopping Karibik: Die besten Routen](/blog/inselhopping-karibik-guide/)

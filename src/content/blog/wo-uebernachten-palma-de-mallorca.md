@@ -53,7 +53,7 @@ Die [offizielle Tourismus-Seite der Balearen](https://www.illesbalears.travel/de
 
 Mai-Juni und September-Oktober sind optimal. 22-28 Grad, die Kathedrale ohne Hochsaison-Schlangen, Restaurants mit freien Tischen. Juli-August: 30-36 Grad, alles ausgebucht, Preise auf Jahres-Peak. November-März: Mallorca im Wintermodus, viele Läden geschlossen, aber günstig und ruhig. Überwinterer aus Nordeuropa kennen diesen Trick seit Jahrzehnten.
 
-Mehr zum cleveren Reiseplanen in Spanien findest du in unserem [Madrid 24-Stunden-Guide](/blog/madrid-24-stunden).
+Mehr zum cleveren Reiseplanen in Spanien findest du in unserem [Madrid 24-Stunden-Guide](/blog/madrid-24-stunden/).
 
 ## Santa Catalina: Das Foodie-Viertel
 
@@ -75,7 +75,7 @@ Die Uferpromenade zwischen Stadtbefestigung und Hafen. Hier ankern Superyachten,
 
 **Top-Picks:** Hotel Meliá Palma Bay (modernes Premium mit Hafen-Panorama), Palacio de Ca'n Galesa (Boutique-Luxus), Hospes Maricel & Spa (außerhalb, Fels-Pool direkt am Meer).
 
-Für Tipps zu Premium-Hotels in anderen Mittelmeer-Städten lies auch den [Sevilla-Stadtführer](/blog/wo-uebernachten-sevilla).
+Für Tipps zu Premium-Hotels in anderen Mittelmeer-Städten lies auch den [Sevilla-Stadtführer](/blog/wo-uebernachten-sevilla/).
 
 ## La Bonanova / Son Armadams: Ruhig und Wohnquartier
 
@@ -124,6 +124,6 @@ Bus ist günstig aber langsam. Mietwagen empfehlenswert für flexible Inselrundf
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona)
-- [Wo übernachten in Sevilla: Die Stadtteile](/blog/wo-uebernachten-sevilla)
-- [Madrid 24-Stunden-Guide](/blog/madrid-24-stunden)
+- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona/)
+- [Wo übernachten in Sevilla: Die Stadtteile](/blog/wo-uebernachten-sevilla/)
+- [Madrid 24-Stunden-Guide](/blog/madrid-24-stunden/)

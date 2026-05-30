@@ -20,7 +20,7 @@ Not a secret anymore, but still true. The effect is most pronounced on short-hau
 
 ## 2. Book early — but not always
 
-The rule of thumb: European routes 6–8 weeks out, long-haul 3–6 months out. For a more precise breakdown by route type, see our guide [When Should You Book Flights?](/en/blog/when-to-book-flights).
+The rule of thumb: European routes 6–8 weeks out, long-haul 3–6 months out. For a more precise breakdown by route type, see our guide [When Should You Book Flights?](/en/blog/when-to-book-flights/).
 
 Airlines sell their cheapest seats first in batches: early-bird tickets, then a price jump, then discounts again on empty seats close to departure. Booking too early or too late costs more. The sweet spot is rarely the day booking opens — and rarely the last week before departure.
 
@@ -86,4 +86,4 @@ Only on heavily competitive short-haul routes with many carriers, e.g. London–
 
 Not always cheaper — but recommended at equal prices. Direct bookings with the airline make rebooking, upgrades, and delay claims easier. With third-party platforms, service in a problem situation is often more complicated.
 
-**Read more:** [When to Book Flights — The Optimal Timing](/en/blog/when-to-book-flights) · [7 Airport Tricks That Save Time](/en/blog/airport-hacks) · [One Week, Carry-On Only](/en/blog/carry-on-only)
+**Read more:** [When to Book Flights — The Optimal Timing](/en/blog/when-to-book-flights/) · [7 Airport Tricks That Save Time](/en/blog/airport-hacks/) · [One Week, Carry-On Only](/en/blog/carry-on-only/)

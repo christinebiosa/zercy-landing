@@ -61,7 +61,7 @@ Kvaløya is the island west of Tromsø, 20-30 minutes by car from the center. He
 
 **Top picks:** Tromsø Wilderness Centre (huskies, cabins, direct northern lights views), Malangen Resort (luxury cabins on the fjord, top address for romantic trips), Svensby Tursenter (simpler cabins, more affordable, excellent location).
 
-Also read our [Northern Lights Guide 2026](/en/blog/northern-lights-2026-where-when-how) for everything on photography technique and the best spots around Tromsø.
+Also read our [Northern Lights Guide 2026](/en/blog/northern-lights-2026-where-when-how/) for everything on photography technique and the best spots around Tromsø.
 
 ## Tromsdalstinden: Mountains and panoramas
 
@@ -95,7 +95,7 @@ For Tromsø, [Booking.com](https://www.booking.com) is clearly the best platform
 
 Direct booking makes sense for small family-run properties on Kvaløya that are not listed on platforms.
 
-For planning a full Scandinavian trip around Tromsø, our [Scandinavia Road Trip Guide](/en/blog/scandinavia-road-trip-route) covers the full route. If you're adding another Norwegian city, our [Where to Stay in Oslo guide](/en/blog/where-to-stay-tromso) is a useful complement.
+For planning a full Scandinavian trip around Tromsø, our [Scandinavia Road Trip Guide](/en/blog/scandinavia-road-trip-route/) covers the full route. If you're adding another Norwegian city, our [Where to Stay in Oslo guide](/en/blog/where-to-stay-tromso/) is a useful complement.
 
 ---
 
@@ -122,6 +122,6 @@ Tromsø Airport Langnes is 5 km west of Sentrum. By bus (line 40) about 15 minut
 ---
 
 **Read more:**
-- [Northern Lights 2026: Where, When and How](/en/blog/northern-lights-2026-where-when-how)
-- [Scandinavia Road Trip: The Best Route](/en/blog/scandinavia-road-trip-route)
-- [Where to Stay in Oslo: The 5 Neighborhoods](/en/blog/where-to-stay-tromso)
+- [Northern Lights 2026: Where, When and How](/en/blog/northern-lights-2026-where-when-how/)
+- [Scandinavia Road Trip: The Best Route](/en/blog/scandinavia-road-trip-route/)
+- [Where to Stay in Oslo: The 5 Neighborhoods](/en/blog/where-to-stay-tromso/)

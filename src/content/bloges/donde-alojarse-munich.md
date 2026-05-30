@@ -62,7 +62,7 @@ El Gasteig, el principal centro cultural de Múnich, está en el barrio. Las ori
 
 Lo mejor: los precios son considerablemente más bajos. Buenos hoteles de tres estrellas desde unos 110 €, apartamentos en Booking.com desde 80 €.
 
-Para otras ciudades europeas con gran oferta hotelera, consulta nuestra guía de [dónde alojarse en Florencia](/es/blog/donde-alojarse-florencia) o [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest).
+Para otras ciudades europeas con gran oferta hotelera, consulta nuestra guía de [dónde alojarse en Florencia](/es/blog/donde-alojarse-florencia/) o [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/).
 
 ## Neuhausen-Nymphenburg: Para familias y estancias largas
 
@@ -104,6 +104,6 @@ Fuera del Oktoberfest, con dos a cuatro semanas de antelación suele ser suficie
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Florencia: Centro Storico o Oltrarno](/es/blog/donde-alojarse-florencia)
-- [Dónde alojarse en Budapest: barrios y hoteles 2026](/es/blog/donde-alojarse-budapest)
-- [Apartamento vs hotel: qué elegir según tu viaje](/es/blog/apartamento-vs-hotel-cual-elegir)
+- [Dónde alojarse en Florencia: Centro Storico o Oltrarno](/es/blog/donde-alojarse-florencia/)
+- [Dónde alojarse en Budapest: barrios y hoteles 2026](/es/blog/donde-alojarse-budapest/)
+- [Apartamento vs hotel: qué elegir según tu viaje](/es/blog/apartamento-vs-hotel-cual-elegir/)

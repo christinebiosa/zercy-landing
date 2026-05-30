@@ -47,7 +47,7 @@ La isla Gezira en el Nilo. Más verde, más tranquila y más internacional que e
 
 **Mejores opciones:** Four Seasons Hotel Cairo at Nile Plaza (una de las mejores direcciones de la ciudad, vistas directas al Nilo), Kempinski Nile Hotel Garden City (rooftop, acceso al Nilo), Cairo Marriott Hotel (edificio histórico, jardines, ubicación en Zamalek).
 
-Nuestra [guía de Marrakech](/es/blog/donde-alojarse-marrakech) sigue la misma lógica: el barrio correcto es la diferencia entre dormir bien o mal en ciudades de contrastes fuertes.
+Nuestra [guía de Marrakech](/es/blog/donde-alojarse-marrakech/) sigue la misma lógica: el barrio correcto es la diferencia entre dormir bien o mal en ciudades de contrastes fuertes.
 
 ## ¿Cuándo es la mejor época para visitar El Cairo?
 
@@ -83,7 +83,7 @@ Sur de El Cairo, a orillas del Nilo. Villas, zonas verdes, colegios internaciona
 
 **Mejores opciones:** Semiramis InterContinental Cairo (hotel amplio, junto al Nilo, buena infraestructura), Kempinski Maadi (lujo con carácter residencial), varios apartamentos con servicios para estancias largas.
 
-Un buen [seguro de viaje](/es/blog/donde-alojarse-buenos-aires) es recomendable para Egipto. No por la seguridad, sino porque la infraestructura médica privada fuera de las zonas turísticas puede ser impredecible.
+Un buen [seguro de viaje](/es/blog/donde-alojarse-buenos-aires/) es recomendable para Egipto. No por la seguridad, sino porque la infraestructura médica privada fuera de las zonas turísticas puede ser impredecible.
 
 ## ¿Dónde conviene reservar al final?
 
@@ -121,6 +121,6 @@ Del centro de El Cairo (plaza Tahrir) a Giza: unos 12-15 km, en taxi 30-45 minut
 ---
 
 **Más información:**
-- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Lima: Guía de barrios 2026](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Miami: Los mejores barrios](/es/blog/donde-alojarse-miami)
+- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Lima: Guía de barrios 2026](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Miami: Los mejores barrios](/es/blog/donde-alojarse-miami/)

@@ -58,7 +58,7 @@ Open-Jaw ist perfekt für bestimmte Reisetypen. Nicht für alle.
 
 **Ideal bei:**
 
-- Europa-Rundreisen. Fliege nach Rom, reise über Florenz nach Mailand, fliege von dort zurück. [Zugreisen durch Europa](/blog/zugreisen-europa) machen die Strecke dazwischen komfortabel und günstig.
+- Europa-Rundreisen. Fliege nach Rom, reise über Florenz nach Mailand, fliege von dort zurück. [Zugreisen durch Europa](/blog/zugreisen-europa/) machen die Strecke dazwischen komfortabel und günstig.
 - Roadtrips. Mietwagen in Barcelona abholen, in Nizza abgeben. Einwegmiete kostet oft nur 30 bis 50 Euro extra.
 - Längere Reisen ab 10 Tagen. Je mehr Zeit du hast, desto mehr lohnt sich die offene Route.
 - Multi-City-Trips. Drei Städte in zwei Wochen? Open-Jaw spart den Rückweg zur ersten Stadt.
@@ -87,9 +87,9 @@ Wie [Lonely Planet](https://www.lonelyplanet.com/articles/cheap-flights-using-go
 
 ## Zercys Geheimwaffe
 
-Open-Jaw ist eine von Zercys Kernfunktionen. Wenn du sagst "Ich will nach Portugal und Spanien", schlägt Zercy automatisch Open-Jaw vor. Du musst nicht wissen, dass es diesen Trick gibt. [Zercy erkennt das Muster](/blog/was-ist-zercy) und zeigt dir die Route mit Preisen, Bodentransfer und Alternativen.
+Open-Jaw ist eine von Zercys Kernfunktionen. Wenn du sagst "Ich will nach Portugal und Spanien", schlägt Zercy automatisch Open-Jaw vor. Du musst nicht wissen, dass es diesen Trick gibt. [Zercy erkennt das Muster](/blog/was-ist-zercy/) und zeigt dir die Route mit Preisen, Bodentransfer und Alternativen.
 
-Keine manuelle Multi-City-Suche. Kein Vergleichen auf drei Plattformen. Zercy denkt mit, damit du mehr reisen kannst und weniger suchen musst. Weitere Tipps zum günstigen Fliegen findest du in unserem Artikel [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps).
+Keine manuelle Multi-City-Suche. Kein Vergleichen auf drei Plattformen. Zercy denkt mit, damit du mehr reisen kannst und weniger suchen musst. Weitere Tipps zum günstigen Fliegen findest du in unserem Artikel [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps/).
 
 ---
 
@@ -117,6 +117,6 @@ Open-Jaw lohnt sich vor allem bei Europa-Rundreisen, Roadtrips und Reisen ab 10 
 
 Read more:
 
-- [Wo übernachten in Bangkok: Beste Stadtteile für Stopover](/blog/wo-uebernachten-bangkok)
-- [Günstig fliegen: 7 Tricks, die Vielflieger kennen](/blog/guenstig-fliegen-tipps)
-- [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen)
+- [Wo übernachten in Bangkok: Beste Stadtteile für Stopover](/blog/wo-uebernachten-bangkok/)
+- [Günstig fliegen: 7 Tricks, die Vielflieger kennen](/blog/guenstig-fliegen-tipps/)
+- [Wann sollte man Flüge buchen?](/blog/wann-fluege-buchen/)

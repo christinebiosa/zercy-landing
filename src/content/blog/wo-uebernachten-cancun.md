@@ -49,7 +49,7 @@ Was die meisten Touristen nie sehen. El Centro ist das eigentliche Cancún, wo d
 
 **Nachteil:** Zum Strand brauchst du Bus oder Taxi. ADO-Bus oder Uber-Taxi kostet 5-10 Euro one-way zur Hotel Zone.
 
-Lies dazu auch unseren [Costa Rica Rundreise Guide](/blog/costa-rica-rundreise-route), falls Mittelamerika dein Reiseziel ist.
+Lies dazu auch unseren [Costa Rica Rundreise Guide](/blog/costa-rica-rundreise-route/), falls Mittelamerika dein Reiseziel ist.
 
 ## Puerto Morelos: Ruhe und Riff
 
@@ -89,7 +89,7 @@ Die meisten Reisenden buchen Cancún über Pauschalreise-Anbieter. Das ist nicht
 
 Konkretes Beispiel: Riu Palace Las Americas (5 Sterne, All-Inclusive), 7 Nächte für 2 Personen. Bei TUI/DERTOUR oft 2.800-3.200 Euro inkl. Flug. Bei Booking.com nur Hotel: 1.400 Euro plus separater Flug 500-700 Euro. Differenz: 500-1.000 Euro Ersparnis bei mehr Flexibilität.
 
-Lies dazu auch unseren [AirBnB vs Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich) für die richtige Plattform-Wahl.
+Lies dazu auch unseren [AirBnB vs Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich/) für die richtige Plattform-Wahl.
 
 ---
 
@@ -116,6 +116,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel in El Centro, Bus zum Str
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Mexico City: Die 5 Stadtteile](/blog/wo-uebernachten-mexico-city)
-- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
-- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
+- [Wo übernachten in Mexico City: Die 5 Stadtteile](/blog/wo-uebernachten-mexico-city/)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena/)
+- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich/)

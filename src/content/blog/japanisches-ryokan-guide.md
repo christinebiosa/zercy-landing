@@ -23,7 +23,7 @@ Der Onsen ist ein Kernbestandteil des Ryokan-Erlebnisses. Heiße Quellen, oft di
 
 Das Kaiseki-Abendessen ist der kulinarische Höhepunkt. Es handelt sich um ein mehrgängiges Menü aus saisonalen Zutaten, das traditionell sechs bis zwölf Gänge umfasst. Gebratener Fisch, Tofu-Suppe, gegrilltes Fleisch, Reisbrei zum Abschluss. Die Präsentation ist künstlerisch. Das Essen kommt ins Zimmer oder wird im Esszimmer serviert. Wer nur wegen des Kaiseki bucht, liegt nicht falsch.
 
-Mehr zur Planung deines Japan-Aufenthalts findest du in unserem [Japan 3-Wochen-Route Guide](/blog/japan-3-wochen-route) sowie im [Japan Budget Reisen Guide](/blog/japan-budget-reisen-tipps).
+Mehr zur Planung deines Japan-Aufenthalts findest du in unserem [Japan 3-Wochen-Route Guide](/blog/japan-3-wochen-route/) sowie im [Japan Budget Reisen Guide](/blog/japan-budget-reisen-tipps/).
 
 ## Was kostet eine Ryokan-Nacht?
 
@@ -33,7 +33,7 @@ Wichtig: Die Preise gelten fast immer pro Person und beinhalten in der Regel Abe
 
 Was außerdem im Preis steckt: Onsen-Nutzung, Bettwäsche und Futon-Service, Yukata, Begrüßungstee und manchmal Desserts am Abend. Einige Häuser verlangen eine zusätzliche Onsen-Steuer von 150 bis 300 Yen, die direkt vor Ort bezahlt wird.
 
-Budget-Ryokans ohne Mahlzeiten gibt es ebenfalls. Diese kosten ab etwa 6.000 bis 8.000 Yen pro Person. Sie sind eine gute Option, wenn du lieber außerhalb isst oder Kyotos Streetfood-Szene erkunden möchtest. Mehr dazu im [48 Stunden Kyoto Guide](/blog/48-stunden-kyoto).
+Budget-Ryokans ohne Mahlzeiten gibt es ebenfalls. Diese kosten ab etwa 6.000 bis 8.000 Yen pro Person. Sie sind eine gute Option, wenn du lieber außerhalb isst oder Kyotos Streetfood-Szene erkunden möchtest. Mehr dazu im [48 Stunden Kyoto Guide](/blog/48-stunden-kyoto/).
 
 ## Welche Benimmregeln gelten im Ryokan?
 
@@ -59,7 +59,7 @@ Für größere Auswahl und oft günstigere Preise bei lokalen Häusern empfiehlt
 
 Ein paar praktische Hinweise zur Buchung: Überprüfe, ob der Ryokan Ausländer willkommen heißt. Nicht alle Häuser nehmen internationale Gäste an, oft wegen Sprachbarrieren. Im Profil auf Booking.com ist das in der Regel vermerkt. Buche möglichst früh, besonders für Kyoto und Hakone in der Kirschblüten- oder Herbstfarbensaison. Die besten Häuser sind Monate im Voraus ausgebucht.
 
-Kyoto ist das klassische Ryokan-Ziel. Hakone, eine Stunde von Tokio entfernt, ebenfalls. Nikko, Kinosaki Onsen und Yufuin sind Alternativen abseits der Touristenrouten. Wer eine Ryokan-Nacht als Highlight einer größeren Reise plant, findet Informationen zur Unterkunftswahl im Umfeld in unserem [Wo übernachten in Kyoto Guide](/blog/wo-uebernachten-kyoto).
+Kyoto ist das klassische Ryokan-Ziel. Hakone, eine Stunde von Tokio entfernt, ebenfalls. Nikko, Kinosaki Onsen und Yufuin sind Alternativen abseits der Touristenrouten. Wer eine Ryokan-Nacht als Highlight einer größeren Reise plant, findet Informationen zur Unterkunftswahl im Umfeld in unserem [Wo übernachten in Kyoto Guide](/blog/wo-uebernachten-kyoto/).
 
 ---
 
@@ -87,6 +87,6 @@ Booking.com hat die größte englischsprachige Auswahl mit Bewertungen. Für lok
 
 ## Mehr lesen
 
-- [Wo übernachten in Kyoto: Beste Stadtteile 2026](/blog/wo-uebernachten-kyoto)
-- [48 Stunden in Kyoto: Dein perfektes Wochenende](/blog/48-stunden-kyoto)
-- [Japan Rail Pass 2026: Lohnt er sich noch?](/blog/japan-rail-pass-2026-guide)
+- [Wo übernachten in Kyoto: Beste Stadtteile 2026](/blog/wo-uebernachten-kyoto/)
+- [48 Stunden in Kyoto: Dein perfektes Wochenende](/blog/48-stunden-kyoto/)
+- [Japan Rail Pass 2026: Lohnt er sich noch?](/blog/japan-rail-pass-2026-guide/)

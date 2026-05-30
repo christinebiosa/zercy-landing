@@ -47,9 +47,9 @@ Winter (Dezember bis März) ist off-season — günstig, aber viele Sehenswürdi
 
 ## Was darf auf keinem Balkan-Roadtrip fehlen?
 
-**Mostar:** Die alte Brücke Stari Most wurde im Bosnienkrieg 1993 zerstört und 2004 wiederaufgebaut. Junge Männer springen täglich in die Neretva — ein altes Ritual. Die [offizielle Tourismus-Website von Mostar](https://www.visitmostar.ba) informiert über Öffnungszeiten der Sehenswürdigkeiten. Wer mehrere Nächte in der Stadt plant, findet Empfehlungen zu Stadtteilen und Hotels in unserem [Mostar Hotelguide](/blog/wo-uebernachten-mostar).
+**Mostar:** Die alte Brücke Stari Most wurde im Bosnienkrieg 1993 zerstört und 2004 wiederaufgebaut. Junge Männer springen täglich in die Neretva — ein altes Ritual. Die [offizielle Tourismus-Website von Mostar](https://www.visitmostar.ba) informiert über Öffnungszeiten der Sehenswürdigkeiten. Wer mehrere Nächte in der Stadt plant, findet Empfehlungen zu Stadtteilen und Hotels in unserem [Mostar Hotelguide](/blog/wo-uebernachten-mostar/).
 
-**Kotor:** UNESCO-Altstadt in einer Bucht, umgeben von Bergfestungen. Die Stadtmauern bis zur Burg San Giovanni zu erklimmen (1.355 Stufen) lohnt sich für den Ausblick. Unser [Reiseführer für Kotor](/blog/wo-uebernachten-kotor) hat alle Übernachtungs-Tipps.
+**Kotor:** UNESCO-Altstadt in einer Bucht, umgeben von Bergfestungen. Die Stadtmauern bis zur Burg San Giovanni zu erklimmen (1.355 Stufen) lohnt sich für den Ausblick. Unser [Reiseführer für Kotor](/blog/wo-uebernachten-kotor/) hat alle Übernachtungs-Tipps.
 
 **Albanische Riviera:** Zwischen Sarandë und Himarë liegen Strände die du sonst nur auf Werbeplakaten siehst. Gjipe Canyon, Drymades, Himara Strand — fast unberührt, fast leer.
 
@@ -61,7 +61,7 @@ Winter (Dezember bis März) ist off-season — günstig, aber viele Sehenswürdi
 
 **Währungen:** Euro wird in Montenegro und Kosovo akzeptiert, Bosnien nutzt die Konvertible Mark (1 EUR = ca. 1,96 BAM), Albanien den Lek. Geldwechsel kein Problem, ATMs überall. Bargeld für ländliche Gebiete mitnehmen.
 
-**Grenzübergänge:** Im Sommer können Wartezeiten an Grenzübergängen lang sein (Dubrovnik–Bosnien bis zu 2 Stunden). Früh morgens oder nach 20 Uhr deutlich kürzer. Wer die Route nach Norden ausdehnt und Slowenien anhängt: Der Bled-See ist nur wenige Stunden von Sarajevo entfernt und ein idealer Abschluss des Trips. Die besten Unterkünfte am See und in der Umgebung findest du im [Bled Hotelguide](/blog/wo-uebernachten-bled). Mehr über günstige Reiseoptionen in unserem Artikel [Suedostasien vs. Balkan Budget-Reisen](/blog/suedostasien-budget-reisen).
+**Grenzübergänge:** Im Sommer können Wartezeiten an Grenzübergängen lang sein (Dubrovnik–Bosnien bis zu 2 Stunden). Früh morgens oder nach 20 Uhr deutlich kürzer. Wer die Route nach Norden ausdehnt und Slowenien anhängt: Der Bled-See ist nur wenige Stunden von Sarajevo entfernt und ein idealer Abschluss des Trips. Die besten Unterkünfte am See und in der Umgebung findest du im [Bled Hotelguide](/blog/wo-uebernachten-bled/). Mehr über günstige Reiseoptionen in unserem Artikel [Suedostasien vs. Balkan Budget-Reisen](/blog/suedostasien-budget-reisen/).
 
 ---
 
@@ -82,6 +82,6 @@ Schwer zu sagen — alle haben ihre Stärken. Albanien hat die wildeste Natur un
 Eine Schleife durch Bosnien, Montenegro, Albanien und Nordmazedonien umfasst ca. 2.000 bis 2.500 km. Das ist gut machbar in 14 Tagen — plant 100 bis 200 km pro Fahrtag ein, Bergstraßen sind langsamer als gedacht. Serpentinen, enge Ortsstraßen und kurvenreiche Küstenrouten machen das Fahren zu einem Erlebnis.
 
 ## Mehr lesen
-- [Albanien Riviera: Europas letztes Geheimnis](/blog/albanien-riviera-geheimtipp)
-- [Wo übernachten in Kotor](/blog/wo-uebernachten-kotor)
-- [Roadtrip Etappenplanung: So strukturierst du deine Route](/blog/roadtrip-etappen-planung)
+- [Albanien Riviera: Europas letztes Geheimnis](/blog/albanien-riviera-geheimtipp/)
+- [Wo übernachten in Kotor](/blog/wo-uebernachten-kotor/)
+- [Roadtrip Etappenplanung: So strukturierst du deine Route](/blog/roadtrip-etappen-planung/)

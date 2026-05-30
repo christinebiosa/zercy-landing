@@ -62,7 +62,7 @@ When the budget doesn't stretch or you want a similar experience for less:
 
 **Philippines (El Nido, Palawan):** Crystal-clear water, karst cliffs, world-class diving. Flights more expensive than to the Maldives, but living costs far lower.
 
-**Zanzibar (Tanzania):** Spice island, Swahili culture, Stone Town. Beach and culture combined. Cheaper than the Maldives, more complex travel character. See our [Zanzibar guide](/en/blog/zanzibar-stone-town-guide).
+**Zanzibar (Tanzania):** Spice island, Swahili culture, Stone Town. Beach and culture combined. Cheaper than the Maldives, more complex travel character. See our [Zanzibar guide](/en/blog/zanzibar-stone-town-guide/).
 
 ---
 
@@ -89,6 +89,6 @@ No specific mandatory vaccinations for the Maldives. Entry with EU passport visa
 ---
 
 **Read more:**
-- [Zanzibar Stone Town Guide: What You Really Need to Know](/en/blog/zanzibar-stone-town-guide)
-- [Patagonia: 3-Week Route Through the End of the World](/en/blog/patagonia-3-week-route)
-- [Slow Travel: Why Going Slower Means More](/en/blog/slow-travel-what-it-really-means)
+- [Zanzibar Stone Town Guide: What You Really Need to Know](/en/blog/zanzibar-stone-town-guide/)
+- [Patagonia: 3-Week Route Through the End of the World](/en/blog/patagonia-3-week-route/)
+- [Slow Travel: Why Going Slower Means More](/en/blog/slow-travel-what-it-really-means/)

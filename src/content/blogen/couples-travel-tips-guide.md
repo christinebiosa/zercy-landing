@@ -19,7 +19,7 @@ Traveling alone means you decide. Traveling together means you agree. That sound
 
 The main difference is coordination. Who plans? Who books? Who decides when options seem incompatible? Sorting that out before you leave makes the whole trip run smoother. Many couples divide the planning: one handles flights and accommodation, the other handles activities and restaurants. Less overlap, less friction.
 
-Accommodation matters more than you'd think. Airbnb apartments or hotels with more space often work better than a standard double room when two people have different sleep habits. Check our [Airbnb vs. Hotel Comparison](/en/blog/airbnb-vs-hotel-comparison) for a practical breakdown of which works when.
+Accommodation matters more than you'd think. Airbnb apartments or hotels with more space often work better than a standard double room when two people have different sleep habits. Check our [Airbnb vs. Hotel Comparison](/en/blog/airbnb-vs-hotel-comparison/) for a practical breakdown of which works when.
 
 ## How Do You Plan When You Have Different Interests?
 
@@ -35,7 +35,7 @@ Honeymoon-quality travel in the Mediterranean is more affordable than most peopl
 
 The Maldives are more expensive. An all-inclusive resort for two often starts at 4,000 to 6,000 EUR. Japan sits in between: long-haul flight (around 800 EUR per person), but affordable accommodation and food on the ground. Budget around 3,000 to 3,500 EUR per person for 14 days in Japan.
 
-A useful rule: couples trips rarely cost double what solo costs. Hotels are shared. Rental cars too. And most restaurants offer menus designed for two. The [Honeymoon Planning Guide](/en/blog/honeymoon-planning-guide) has concrete budget templates for the most popular destinations.
+A useful rule: couples trips rarely cost double what solo costs. Hotels are shared. Rental cars too. And most restaurants offer menus designed for two. The [Honeymoon Planning Guide](/en/blog/honeymoon-planning-guide/) has concrete budget templates for the most popular destinations.
 
 How you split costs is a separate question. A shared travel account for joint expenses, private spending handled individually. That simple separation prevents a lot of small arguments.
 
@@ -43,7 +43,7 @@ How you split costs is a separate question. A shared travel account for joint ex
 
 For **romance and beach**, Santorini is the classic. Caldera views, wine tastings, white villages. High season (July, August) is expensive and crowded. May or September are better. [Booking.com](https://www.booking.com/honeymoon) has a curated section for couples with sea-view accommodation.
 
-For **culture plus beach**, Portugal is hard to beat. Lisbon to Sintra to the Algarve in 10 days is doable and delivers both. Costs are lower than most of Western Europe. Our slow travel guide covers why [Portugal and slow travel](/en/blog/slow-travel-what-it-really-means) are a natural match.
+For **culture plus beach**, Portugal is hard to beat. Lisbon to Sintra to the Algarve in 10 days is doable and delivers both. Costs are lower than most of Western Europe. Our slow travel guide covers why [Portugal and slow travel](/en/blog/slow-travel-what-it-really-means/) are a natural match.
 
 For **experience trips**, Japan is the top choice for couples who aren't looking for beach holidays. Tokyo, Kyoto, Hiroshima, Naoshima. Every day brings something new. It's particularly good for couples who've already done the Mediterranean circuit.
 
@@ -53,7 +53,7 @@ For **honeymoons**, the Maldives remain the reference. Overwater bungalow, all-i
 
 Separate bags. Always. That sounds obvious, but it has real implications. Each person packs their own stuff. Each person is accountable. No digging through a shared suitcase for your own shirt. No disagreements about how many shoes are reasonable.
 
-If you're traveling carry-on only, a coordinated shared system has advantages: charger, travel pharmacy, adapter can be split. But even then, each person should have their own bag. Our guide on [travel insurance for couples](/en/blog/travel-insurance-worth-it-2026) covers whether to insure jointly or separately. Couples policies are often cheaper.
+If you're traveling carry-on only, a coordinated shared system has advantages: charger, travel pharmacy, adapter can be split. But even then, each person should have their own bag. Our guide on [travel insurance for couples](/en/blog/travel-insurance-worth-it-2026/) covers whether to insure jointly or separately. Couples policies are often cheaper.
 
 ## Why Planning Romance Is Better Than Waiting for It
 
@@ -98,6 +98,6 @@ Portugal is the classic answer: culture in Lisbon, beach in the Algarve, accessi
 ---
 
 **Read more:**
-- [Honeymoon Planning: The Complete Guide](/en/blog/honeymoon-planning-guide)
-- [Airbnb vs. Hotel: Which Is Right for You?](/en/blog/airbnb-vs-hotel-comparison)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Honeymoon Planning: The Complete Guide](/en/blog/honeymoon-planning-guide/)
+- [Airbnb vs. Hotel: Which Is Right for You?](/en/blog/airbnb-vs-hotel-comparison/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

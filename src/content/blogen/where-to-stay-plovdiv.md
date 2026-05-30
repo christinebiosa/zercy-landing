@@ -53,7 +53,7 @@ Plovdiv has one of the most pleasant climates in Bulgaria. Spring (April-May) is
 
 **Winter:** Cold (0-5°C), some sights have reduced hours. Cheapest time to visit.
 
-Plovdiv works perfectly as part of a [Bulgaria trip](/en/blog/bulgaria-travel-guide-highlights). The Black Sea coast is 2.5 hours away.
+Plovdiv works perfectly as part of a [Bulgaria trip](/en/blog/bulgaria-travel-guide-highlights/). The Black Sea coast is 2.5 hours away.
 
 ## City Center: Practical and Well-Connected
 
@@ -102,6 +102,6 @@ The Ancient Theatre (one of the best preserved in the world, still used for conc
 ---
 
 ## Read more
-- [Bulgaria Travel Guide: What You Really Need to See](/en/blog/bulgaria-travel-guide-highlights)
-- [Where to Stay in Bucharest: Best Neighborhoods](/en/blog/where-to-stay-bucharest)
-- [Balkan Road Trip: Best Route from Slovenia to Albania](/en/blog/balkan-road-trip-route)
+- [Bulgaria Travel Guide: What You Really Need to See](/en/blog/bulgaria-travel-guide-highlights/)
+- [Where to Stay in Bucharest: Best Neighborhoods](/en/blog/where-to-stay-bucharest/)
+- [Balkan Road Trip: Best Route from Slovenia to Albania](/en/blog/balkan-road-trip-route/)

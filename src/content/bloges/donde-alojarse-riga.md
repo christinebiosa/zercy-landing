@@ -47,7 +47,7 @@ El Centrs está justo al norte de la ciudad vieja y concentra la mayor densidad 
 
 **Mejores opciones:** Radisson Blu Latvija Hotel (hotel torre con las mejores vistas de Riga), Mercure Riga Centre (bien conectado, calidad confiable), Hotel Bergs (pequeño boutique en el barrio art nouveau, joya desconocida).
 
-Si quieres combinar Riga con otras ciudades bálticas, la [guía de trenes por Europa](/en/blog/train-travel-europe) tiene rutas y tiempos de viaje concretos.
+Si quieres combinar Riga con otras ciudades bálticas, la [guía de trenes por Europa](/en/blog/train-travel-europe/) tiene rutas y tiempos de viaje concretos.
 
 ## ¿Cuándo es la mejor época para visitar Riga?
 
@@ -73,7 +73,7 @@ El Klusais Centrs (literalmente: Centro Tranquilo) bordea el Centrs por el este 
 
 **Mejores opciones:** Neiburgs Hotel (histórico edificio art nouveau, uno de los mejores secretos de la ciudad), Romeo Hotel (pequeño y personal), Grand Palace Hotel (lujo clásico en entorno tranquilo).
 
-Si viajas al norte desde Riga hacia Tallin, la [guía de barrios de Tallin](/es/blog/donde-alojarse-tallin) tiene todo lo que necesitas sobre la capital estonia.
+Si viajas al norte desde Riga hacia Tallin, la [guía de barrios de Tallin](/es/blog/donde-alojarse-tallin/) tiene todo lo que necesitas sobre la capital estonia.
 
 ## Teika: La Riga moderna y asequible
 
@@ -121,6 +121,6 @@ Imprescindible: los edificios art nouveau en Alberta iela, el Mercado Central en
 ---
 
 **Más información:**
-- [Dónde alojarse en Tallin: Los 5 barrios](/es/blog/donde-alojarse-tallin)
-- [Dónde alojarse en Buenos Aires: Los 5 barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Miami: Los 5 barrios](/es/blog/donde-alojarse-miami)
+- [Dónde alojarse en Tallin: Los 5 barrios](/es/blog/donde-alojarse-tallin/)
+- [Dónde alojarse en Buenos Aires: Los 5 barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Miami: Los 5 barrios](/es/blog/donde-alojarse-miami/)

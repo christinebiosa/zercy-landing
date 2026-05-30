@@ -47,7 +47,7 @@ Gezira Island in the Nile. Greener, quieter, more international than the rest of
 
 **Top picks:** Four Seasons Hotel Cairo at Nile Plaza (one of the city's best addresses, direct Nile views), Kempinski Nile Hotel Garden City (rooftop, Nile access), Cairo Marriott Hotel (historic building, gardens, Zamalek location).
 
-Our [Marrakech guide](/en/blog/where-to-stay-marrakech) follows the same principle: the right neighborhood is the difference between sleeping badly and sleeping well in a city with strong contrasts.
+Our [Marrakech guide](/en/blog/where-to-stay-marrakech/) follows the same principle: the right neighborhood is the difference between sleeping badly and sleeping well in a city with strong contrasts.
 
 ## When Is the Best Time to Visit Cairo?
 
@@ -73,7 +73,7 @@ West Cairo, west of the Nile. Not a tourist neighborhood. Good restaurants (loca
 
 **Top picks:** Le Méridien Pyramids (solid mid-range, not far from Giza), Amir Palace Hotel (local favorite, clean, practical), Golden Tulip Flamenco Hotel Cairo (reliable, mid-price, good location).
 
-The same logic applies in our [Zanzibar Stone Town guide](/en/blog/zanzibar-stone-town-guide): the neighborhoods outside the tourist core offer more authenticity at lower prices.
+The same logic applies in our [Zanzibar Stone Town guide](/en/blog/zanzibar-stone-town-guide/): the neighborhoods outside the tourist core offer more authenticity at lower prices.
 
 ## Maadi: The Expat Neighborhood
 
@@ -85,7 +85,7 @@ South Cairo, on the Nile. Villas, green spaces, international schools, foreign c
 
 **Top picks:** Semiramis InterContinental Cairo (larger hotel, on the Nile, good infrastructure), Kempinski Maadi (luxury with residential character), various serviced apartment buildings for longer-term tenants.
 
-A solid [travel insurance policy](/en/blog/travel-insurance-worth-it-2026) is recommended for Egypt. Not because of safety, but because private medical infrastructure outside tourist areas can be unpredictable.
+A solid [travel insurance policy](/en/blog/travel-insurance-worth-it-2026/) is recommended for Egypt. Not because of safety, but because private medical infrastructure outside tourist areas can be unpredictable.
 
 ## Where Should You Book in the End?
 
@@ -123,6 +123,6 @@ From central Cairo (Tahrir Square) to Giza: about 12-15 km, by taxi 30-45 minute
 ---
 
 **Read more:**
-- [Where to Stay in Marrakech: The 5 Best Neighborhoods](/en/blog/where-to-stay-marrakech)
-- [Zanzibar Stone Town Guide: What You Need to Know](/en/blog/zanzibar-stone-town-guide)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Where to Stay in Marrakech: The 5 Best Neighborhoods](/en/blog/where-to-stay-marrakech/)
+- [Zanzibar Stone Town Guide: What You Need to Know](/en/blog/zanzibar-stone-town-guide/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

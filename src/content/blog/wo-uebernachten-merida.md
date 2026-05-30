@@ -69,7 +69,7 @@ Zwei Nachbarschaften westlich und südwestlich des Zentrums, die sich in den let
 
 **Top-Picks:** Hotel Marionetas (familiengeführtes Boutique-Hotel in Santiago, Pool, 6 Zimmer), Casa Mexilio (Bed & Breakfast mit kreativem Stil, gemischter Gäste-Mix).
 
-Lies dazu auch den [Mexiko Rundreise Guide](/blog/mexiko-rundreise-route) falls Mérida Teil einer größeren Yucatán-Tour wird.
+Lies dazu auch den [Mexiko Rundreise Guide](/blog/mexiko-rundreise-route/) falls Mérida Teil einer größeren Yucatán-Tour wird.
 
 ## Altabrisa: Modern und praktisch
 
@@ -97,7 +97,7 @@ Die meisten Mérida-Hotels haben eigene Websites, aber der Preisunterschied zu B
 
 Tipp: Mérida ist ein beliebtes Ziel für Mexikaner selbst. An Semana Santa und nationalen Feiertagen sind gute Hotels wochenlang ausgebucht. Bei Reisen November bis März mindestens 3-4 Wochen im Voraus buchen.
 
-Lies dazu auch unsere Guides zu [Wo übernachten in Cancún](/blog/wo-uebernachten-cancun) und [Wo übernachten in Tulum](/blog/wo-uebernachten-tulum) für deine komplette Yucatán-Route.
+Lies dazu auch unsere Guides zu [Wo übernachten in Cancún](/blog/wo-uebernachten-cancun/) und [Wo übernachten in Tulum](/blog/wo-uebernachten-tulum/) für deine komplette Yucatán-Route.
 
 ---
 
@@ -124,6 +124,6 @@ Cochinita Pibil (langsam gegarter Schweinefleisch in Achiote-Marinade), Sopa de 
 ---
 
 **Mehr lesen:**
-- [Mexiko Rundreise Route: Yucatán und mehr](/blog/mexiko-rundreise-route)
-- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun)
-- [Wo übernachten in Tulum: Strand oder Zentrum?](/blog/wo-uebernachten-tulum)
+- [Mexiko Rundreise Route: Yucatán und mehr](/blog/mexiko-rundreise-route/)
+- [Wo übernachten in Cancún: Die 4 Stadtteile](/blog/wo-uebernachten-cancun/)
+- [Wo übernachten in Tulum: Strand oder Zentrum?](/blog/wo-uebernachten-tulum/)

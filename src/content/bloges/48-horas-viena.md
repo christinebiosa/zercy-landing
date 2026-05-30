@@ -79,7 +79,7 @@ Para eventos locales y exposiciones, [Wien Info](https://www.wien.info) es la we
 
 El centro histórico (primer distrito) es caro y céntrico. Para mejor relación calidad-precio mira Mariahilf (sexto), Neubau (séptimo) o Josefstadt (octavo). Los tres están a distancia caminable de la mayoría de lugares y tienen buena conexión de metro.
 
-En [Booking.com](https://www.booking.com) encuentras más de 800 hoteles en Viena con cancelación gratuita. El filtro por distrito ayuda a encontrar el barrio adecuado. Más detalles en la guía de [dónde alojarse en Viena](/es/blog/donde-alojarse-viena).
+En [Booking.com](https://www.booking.com) encuentras más de 800 hoteles en Viena con cancelación gratuita. El filtro por distrito ayuda a encontrar el barrio adecuado. Más detalles en la guía de [dónde alojarse en Viena](/es/blog/donde-alojarse-viena/).
 
 ---
 
@@ -99,7 +99,7 @@ Diciembre para los mercados navideños, mayo a junio para clima suave y días la
 
 ### ¿Cómo llegar a Viena sin gastar demasiado?
 
-En tren desde Múnich, Praga, Budapest o Bratislava, Viena está muy bien conectada y a menudo sale más barato que volar si se cuenta el traslado al aeropuerto. Nuestra comparativa [tren vs. avión Europa 2026](/es/blog/tren-vs-avion-europa-2026) cubre rutas específicas con precios reales. Más consejos de aeropuerto en la [guía de trucos aeropuerto](/es/blog/trucos-aeropuerto).
+En tren desde Múnich, Praga, Budapest o Bratislava, Viena está muy bien conectada y a menudo sale más barato que volar si se cuenta el traslado al aeropuerto. Nuestra comparativa [tren vs. avión Europa 2026](/es/blog/tren-vs-avion-europa-2026/) cubre rutas específicas con precios reales. Más consejos de aeropuerto en la [guía de trucos aeropuerto](/es/blog/trucos-aeropuerto/).
 
 ### ¿Cuánto cuesta un fin de semana en Viena?
 
@@ -108,6 +108,6 @@ Exterior de Schönbrunn: gratis. Noria del Prater: 12 euros. Visita a museo: 14 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Viena: barrios, hoteles y recomendaciones](/es/blog/donde-alojarse-viena)
-- [Tren vs. avión en Europa 2026: cuándo el tren gana](/es/blog/tren-vs-avion-europa-2026)
-- [Trucos de aeropuerto: cómo ahorrar tiempo y dinero](/es/blog/trucos-aeropuerto)
+- [Dónde alojarse en Viena: barrios, hoteles y recomendaciones](/es/blog/donde-alojarse-viena/)
+- [Tren vs. avión en Europa 2026: cuándo el tren gana](/es/blog/tren-vs-avion-europa-2026/)
+- [Trucos de aeropuerto: cómo ahorrar tiempo y dinero](/es/blog/trucos-aeropuerto/)

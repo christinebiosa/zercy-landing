@@ -44,7 +44,7 @@ Der Kabinenpeis ist der Einstiegspreis, nicht der Gesamtpreis. Schau auf diese P
 
 **Realer Gesamtpreis** für 7 Nächte Mittelmeer (2 Personen, Balkonkabine, Getränkepaket, moderate Ausflüge): 3.000 bis 5.000 EUR insgesamt. Pro Person also 1.500 bis 2.500 EUR. Nicht die 600 EUR, die im Banner stehen.
 
-Wer das von Anfang an einplant, hat keine bösen Überraschungen. Unser [Reisefehler-Artikel](/blog/reisefehler-vermeiden-klassische-fehler) zeigt weitere typische Budget-Fallen.
+Wer das von Anfang an einplant, hat keine bösen Überraschungen. Unser [Reisefehler-Artikel](/blog/reisefehler-vermeiden-klassische-fehler/) zeigt weitere typische Budget-Fallen.
 
 ## Welche Routen lohnen sich für die erste Kreuzfahrt?
 
@@ -101,6 +101,6 @@ Royal Caribbean und Norwegian Cruise Line haben die umfangreichsten Kinderprogra
 ---
 
 **Mehr lesen:**
-- [Kreuzfahrt: Wie du Städte verlängerst und mehr siehst](/blog/kreuzfahrt-staedte-verlaengern)
-- [Reisefehler vermeiden: Die klassischen Fallen](/blog/reisefehler-vermeiden-klassische-fehler)
-- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich)
+- [Kreuzfahrt: Wie du Städte verlängerst und mehr siehst](/blog/kreuzfahrt-staedte-verlaengern/)
+- [Reisefehler vermeiden: Die klassischen Fallen](/blog/reisefehler-vermeiden-klassische-fehler/)
+- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/)

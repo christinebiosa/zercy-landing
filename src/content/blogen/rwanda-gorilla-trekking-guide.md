@@ -80,6 +80,6 @@ In high season (June to September) book 3 to 6 months ahead. In low season (Octo
 ---
 
 **Read more:**
-- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide)
-- [India Travel Guide: Highlights for Your Trip](/en/blog/india-travel-guide-highlights)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide/)
+- [India Travel Guide: Highlights for Your Trip](/en/blog/india-travel-guide-highlights/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

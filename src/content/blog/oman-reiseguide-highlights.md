@@ -71,6 +71,6 @@ Omani Rial (OMR). Ein Rial ist rund 2,40 Euro. Oman ist teurer als Jordanien, ab
 
 ## Mehr lesen
 
-- [Jordanien Reiseguide: Petra, Wadi Rum und mehr](/blog/jordanien-reiseguide-highlights)
-- [Safari Ostafrika Guide: Was du wissen musst](/blog/safari-ostafrika-guide)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Jordanien Reiseguide: Petra, Wadi Rum und mehr](/blog/jordanien-reiseguide-highlights/)
+- [Safari Ostafrika Guide: Was du wissen musst](/blog/safari-ostafrika-guide/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

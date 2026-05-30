@@ -45,7 +45,7 @@ Right next to Roma, similar atmosphere but slightly quieter. Parque México and 
 
 **Top picks:** Condesa DF (legendary boutique with restaurant), Octavia Casa (designer boutique), Red Tree House (family-run with garden).
 
-See our [workation tax rules guide](/en/blog/workation-tax-rules-2026), Mexico City is a top spot for digital nomads in 2026. The [official CDMX Tourism Secretariat](https://cdmxtravel.com/) has a curated overview of licensed hotels by neighborhood.
+See our [workation tax rules guide](/en/blog/workation-tax-rules-2026/), Mexico City is a top spot for digital nomads in 2026. The [official CDMX Tourism Secretariat](https://cdmxtravel.com/) has a curated overview of licensed hotels by neighborhood.
 
 ## Polanco: Luxury and Michelin restaurants
 
@@ -103,7 +103,7 @@ For Mexico City [Booking.com](https://www.booking.com) is clearly the best platf
 
 Direct booking only worth it for top hotels (Four Seasons, St. Regis) for possible upgrades.
 
-See our [solo travel for women guide](/en/blog/solo-travel-women-safe-countries), CDMX is safer than its reputation, but neighborhood choice still matters.
+See our [solo travel for women guide](/en/blog/solo-travel-women-safe-countries/), CDMX is safer than its reputation, but neighborhood choice still matters.
 
 ---
 
@@ -130,6 +130,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel, tacos, metro). Mid-range
 ---
 
 **Read more:**
-- [Where to stay in Cancún: 4 neighborhoods](/en/blog/where-to-stay-cancun)
-- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena)
-- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026)
+- [Where to stay in Cancún: 4 neighborhoods](/en/blog/where-to-stay-cancun/)
+- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena/)
+- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026/)

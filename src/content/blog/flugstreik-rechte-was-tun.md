@@ -24,7 +24,7 @@ Kurz gesagt: Streikt Ryanair-Personal, zahlt Ryanair. Streiken die Fluglotsen in
 
 Wichtig dabei: Die Airline muss beweisen, dass es sich um einen außergewöhnlichen Umstand handelt. Nicht du.
 
-Mehr dazu, wie EU261 im Detail funktioniert: [Flugverspätung und Entschädigung nach EU261](/blog/flugverspaetung-entschaedigung-eu261).
+Mehr dazu, wie EU261 im Detail funktioniert: [Flugverspätung und Entschädigung nach EU261](/blog/flugverspaetung-entschaedigung-eu261/).
 
 ## Was muss die Airline trotzdem leisten?
 
@@ -69,7 +69,7 @@ Schnell handeln lohnt sich. Das hier solltest du sofort erledigen:
 
 **5. Bei Nicht-Reaktion: EVZ einschalten.** Das Europäische Verbraucherzentrum vermittelt kostenlos zwischen dir und der Airline. Besonders hilfreich bei grenzüberschreitenden EU-Flügen.
 
-Wenn du eine Reiseversicherung hast, prüf jetzt die Bedingungen. Manche Policen decken Streik als Reiserücktrittsgrund ab, andere explizit nicht. Die Unterschiede sind erheblich. Was wirklich sinnvoll ist, liest du in unserem Artikel: [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+Wenn du eine Reiseversicherung hast, prüf jetzt die Bedingungen. Manche Policen decken Streik als Reiserücktrittsgrund ab, andere explizit nicht. Die Unterschiede sind erheblich. Was wirklich sinnvoll ist, liest du in unserem Artikel: [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
 
 ## Häufige Fragen zum Flugstreik
 
@@ -93,6 +93,6 @@ Das Europäische Verbraucherzentrum bietet kostenlose Beratung und Vermittlung a
 
 Mehr lesen:
 
-- [Flugverspätung: So holst du deine EU261-Entschädigung](/blog/flugverspaetung-entschaedigung-eu261)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Airport Hacks: So überlebst du lange Layovers](/blog/airport-hacks)
+- [Flugverspätung: So holst du deine EU261-Entschädigung](/blog/flugverspaetung-entschaedigung-eu261/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Airport Hacks: So überlebst du lange Layovers](/blog/airport-hacks/)

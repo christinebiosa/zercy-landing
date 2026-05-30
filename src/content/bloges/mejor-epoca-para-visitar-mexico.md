@@ -23,7 +23,7 @@ El Caribe mexicano tiene dos períodos claramente diferenciados.
 
 **Mayo** es un mes de transición. Técnicamente antes de la temporada de huracanes, con precios más bajos que en enero pero todavía buen tiempo. Muchos viajeros de LATAM que tienen flexibilidad eligen mayo por esa combinación.
 
-La guía de [dónde alojarse en Cancún](/es/blog/donde-alojarse-cancun) explica las diferencias entre la Zona Hotelera y el Centro, que son mundos aparte en precios y ambiente.
+La guía de [dónde alojarse en Cancún](/es/blog/donde-alojarse-cancun/) explica las diferencias entre la Zona Hotelera y el Centro, que son mundos aparte en precios y ambiente.
 
 ## ¿Cuál es la mejor época para Ciudad de México, Oaxaca y el interior del país?
 
@@ -45,11 +45,11 @@ Las tortugas llegan a desovar en las playas del Caribe y del Pacífico de **juni
 
 ## ¿Cómo combinar costa y cultura en un mismo viaje?
 
-La ruta clásica de México combina Cancún o Tulum con el interior del país. La guía de [México: ruta completa](/es/blog/mexico-ruta-completa) tiene itinerarios de 10, 14 y 21 días con distintas combinaciones de costa y ciudades coloniales.
+La ruta clásica de México combina Cancún o Tulum con el interior del país. La guía de [México: ruta completa](/es/blog/mexico-ruta-completa/) tiene itinerarios de 10, 14 y 21 días con distintas combinaciones de costa y ciudades coloniales.
 
 [Visit Mexico](https://www.visitmexico.com), la agencia de turismo oficial, publica información sobre eventos, festividades y condiciones por estado. Es especialmente útil para planificar el viaje alrededor del Día de Muertos o el Carnaval de Veracruz, que requieren reserva anticipada de alojamiento.
 
-Si Playa del Carmen es parte del plan, la guía de [dónde alojarse en Playa del Carmen](/es/blog/donde-alojarse-playa-del-carmen) desglosa la Quinta Avenida, las zonas de playa y las colonias más tranquilas para distintos presupuestos.
+Si Playa del Carmen es parte del plan, la guía de [dónde alojarse en Playa del Carmen](/es/blog/donde-alojarse-playa-del-carmen/) desglosa la Quinta Avenida, las zonas de playa y las colonias más tranquilas para distintos presupuestos.
 
 ---
 
@@ -71,6 +71,6 @@ Diciembre en CDMX es seco, soleado y fresco. Las temperaturas están entre 10 y 
 
 ## Más información
 
-- [México: ruta completa e itinerarios](/es/blog/mexico-ruta-completa)
-- [Dónde alojarse en Cancún](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Playa del Carmen](/es/blog/donde-alojarse-playa-del-carmen)
+- [México: ruta completa e itinerarios](/es/blog/mexico-ruta-completa/)
+- [Dónde alojarse en Cancún](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Playa del Carmen](/es/blog/donde-alojarse-playa-del-carmen/)

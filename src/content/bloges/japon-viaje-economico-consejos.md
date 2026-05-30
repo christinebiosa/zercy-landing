@@ -26,7 +26,7 @@ El JR Pass vale la pena si conectas varias ciudades en Shinkansen. Tokio, Kioto,
 
 Si solo te quedas en una ciudad o haces trayectos cortos en Tokio u Osaka, la IC Card (Suica o ICOCA) es más barata. Esta tarjeta recargable funciona en metros, autobuses, trenes e incluso en tiendas de conveniencia. Un trayecto en Tokio suele costar menos de 2 euros. Sin razón para un pase.
 
-Para un viaje de tres semanas por todo Japón, consulta la [guía de ruta de 3 semanas por Japón](/es/blog/japon-mas-alla-de-tokio). Para estancias más cortas o centradas en Tokio, mejor la IC Card.
+Para un viaje de tres semanas por todo Japón, consulta la [guía de ruta de 3 semanas por Japón](/es/blog/japon-mas-alla-de-tokio/). Para estancias más cortas o centradas en Tokio, mejor la IC Card.
 
 ## ¿Qué cuesta realmente comer en Japón?
 
@@ -38,7 +38,7 @@ Este es el mayor mito sobre los viajes a Japón. Comer es barato. A veces muy ba
 
 **Izakayas al mediodía.** Muchos izakayas (tabernas japonesas) abren al mediodía con un menú de almuerzo: plato principal, miso, arroz, ensalada por 8 a 12 euros. Por la noche los mismos platos cuestan el doble. El almuerzo es la comida más económica del día en Japón.
 
-**Sushi de cinta transportadora.** Sushiro o Kura Sushi: desde 1 euro por plato. Un almuerzo satisfactorio sale por 10 a 15 euros. Si quieres profundizar en la experiencia gastronómica de Tokio, mira la [guía de viaje gastronómico a Tokio](/es/blog/tokio-viaje-gastronomico).
+**Sushi de cinta transportadora.** Sushiro o Kura Sushi: desde 1 euro por plato. Un almuerzo satisfactorio sale por 10 a 15 euros. Si quieres profundizar en la experiencia gastronómica de Tokio, mira la [guía de viaje gastronómico a Tokio](/es/blog/tokio-viaje-gastronomico/).
 
 Presupuesto diario realista para comida: 15 a 25 euros si combinas opciones.
 
@@ -54,7 +54,7 @@ El alojamiento es el coste más variable. Aquí tienes las opciones de menor a m
 
 **Hoteles de negocios.** Cadenas como Toyoko Inn o Dormy Inn: limpios, funcionales, desayuno a veces incluido. Habitaciones individuales desde 50 a 70 euros en ubicación céntrica. La relación calidad-precio es excelente.
 
-Si quieres ahorrar también en vuelos, la [guía de vuelos baratos](/es/blog/consejos-vuelos-baratos) tiene estrategias concretas.
+Si quieres ahorrar también en vuelos, la [guía de vuelos baratos](/es/blog/consejos-vuelos-baratos/) tiene estrategias concretas.
 
 ## ¿Cuánto cuesta realmente el turismo en Japón?
 
@@ -103,6 +103,6 @@ En una tienda de conveniencia (7-Eleven, FamilyMart, Lawson) pagas 3 a 5 euros p
 ---
 
 **Más información:**
-- [Japón más allá de Tokio: guía de destinos](/es/blog/japon-mas-alla-de-tokio)
-- [Tokio: viaje gastronómico completo](/es/blog/tokio-viaje-gastronomico)
-- [Consejos para vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos)
+- [Japón más allá de Tokio: guía de destinos](/es/blog/japon-mas-alla-de-tokio/)
+- [Tokio: viaje gastronómico completo](/es/blog/tokio-viaje-gastronomico/)
+- [Consejos para vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos/)

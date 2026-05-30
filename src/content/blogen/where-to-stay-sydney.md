@@ -96,6 +96,6 @@ The Harbour Bridge Climb (~$330 AUD) gives a once-in-a-lifetime view. Opera Hous
 ---
 
 **Read more:**
-- [Where to Stay in Los Angeles: The 5 Neighborhoods](/en/blog/where-to-stay-los-angeles)
-- [Where to Stay in Miami: Beach or Downtown?](/en/blog/where-to-stay-miami)
-- [Sabbatical Planning: How to Organize a Career Break](/en/blog/sabbatical-planning-guide)
+- [Where to Stay in Los Angeles: The 5 Neighborhoods](/en/blog/where-to-stay-los-angeles/)
+- [Where to Stay in Miami: Beach or Downtown?](/en/blog/where-to-stay-miami/)
+- [Sabbatical Planning: How to Organize a Career Break](/en/blog/sabbatical-planning-guide/)

@@ -47,7 +47,7 @@ Fenton Street is Rotorua's main hotel corridor. Motels, guesthouses, and mid-ran
 
 **Top picks:** Sudima Hotel Rotorua (geothermal pool on-site, modern design, strong value), Regent of Rotorua (boutique character at honest prices), Tuscany Villas (self-catering apartments, ideal for families needing a kitchen).
 
-On a New Zealand road trip where Rotorua is one stop of many, Fenton Street hotels are the efficient choice. Our [Australia road trip route guide](/en/blog/australia-road-trip-route) covers the full North and South Island loop from Auckland to Queenstown.
+On a New Zealand road trip where Rotorua is one stop of many, Fenton Street hotels are the efficient choice. Our [Australia road trip route guide](/en/blog/australia-road-trip-route/) covers the full North and South Island loop from Auckland to Queenstown.
 
 ## When Is the Best Time to Visit Rotorua?
 
@@ -75,7 +75,7 @@ Lakefront hotels offer something rare in Rotorua: genuine morning quiet. The lak
 
 **Top picks:** Novotel Rotorua Lakeside (consistent, solid lake-facing rooms), Rotorua Thermal Holiday Park (unique: thermal pools on the campsite grounds, available for campervans and glamping too).
 
-Wellness in Rotorua is not an add-on — it is built into the destination. Our [wellness and spa travel guide](/en/blog/wellness-spa-travel-destinations) compares the best spa destinations worldwide for anyone building a dedicated wellness trip. And if you want to combine geothermal pools with underwater adventures, the Coromandel Peninsula east of Rotorua is one of New Zealand's top diving and snorkeling regions, covered in our [diving and snorkeling destinations guide](/en/blog/diving-snorkeling-destinations).
+Wellness in Rotorua is not an add-on — it is built into the destination. Our [wellness and spa travel guide](/en/blog/wellness-spa-travel-destinations/) compares the best spa destinations worldwide for anyone building a dedicated wellness trip. And if you want to combine geothermal pools with underwater adventures, the Coromandel Peninsula east of Rotorua is one of New Zealand's top diving and snorkeling regions, covered in our [diving and snorkeling destinations guide](/en/blog/diving-snorkeling-destinations/).
 
 ## Whakarewairewa: Geothermal and Māori Culture
 
@@ -123,6 +123,6 @@ Rotorua is about 230 km south of Auckland, around 2.5 hours by car or intercity 
 ---
 
 **Read more:**
-- [Australia Road Trip Route: The Full New Zealand Loop](/en/blog/australia-road-trip-route)
-- [Wellness and Spa Travel Destinations: Best Picks Worldwide](/en/blog/wellness-spa-travel-destinations)
-- [Diving and Snorkeling Destinations: Top Spots Worldwide](/en/blog/diving-snorkeling-destinations)
+- [Australia Road Trip Route: The Full New Zealand Loop](/en/blog/australia-road-trip-route/)
+- [Wellness and Spa Travel Destinations: Best Picks Worldwide](/en/blog/wellness-spa-travel-destinations/)
+- [Diving and Snorkeling Destinations: Top Spots Worldwide](/en/blog/diving-snorkeling-destinations/)

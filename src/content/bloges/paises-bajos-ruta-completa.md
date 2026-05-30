@@ -66,6 +66,6 @@ Stroopwafels (barquillos con caramelo), Haring (arenque salado crudo con cebolla
 ---
 
 **Más sobre Europa del Norte:**
-- [Tren vs. Avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026)
-- [Lista de Equipaje para el Viaje: Lo Esencial](/es/blog/lista-equipaje-viaje-esencial)
-- [Eslovenia: El Secreto Verde de Europa 2026](/es/blog/eslovenia-secreto-verde-2026)
+- [Tren vs. Avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026/)
+- [Lista de Equipaje para el Viaje: Lo Esencial](/es/blog/lista-equipaje-viaje-esencial/)
+- [Eslovenia: El Secreto Verde de Europa 2026](/es/blog/eslovenia-secreto-verde-2026/)

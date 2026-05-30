@@ -67,7 +67,7 @@ East of Centro, Madrid's Beverly Hills with Calle Serrano (designer mile: Hermè
 
 **Top picks:** Hotel Wellington (classic premium), Hotel Único Madrid (boutique premium with restaurant), Mandarin Oriental Ritz Madrid (legendary 5-star at the Prado).
 
-See our [48 hours in Rome guide](/en/blog/48-hours-rome) for the southern European variant.
+See our [48 hours in Rome guide](/en/blog/48-hours-rome/) for the southern European variant.
 
 ## La Latina: Tapas Madrid
 
@@ -126,6 +126,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel in Malasaña, tapas tours
 ---
 
 **Read more:**
-- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona)
-- [Where to stay in Seville: 4 neighborhoods](/en/blog/where-to-stay-seville)
-- [Santiago de Compostela and the Camino](/en/blog/santiago-de-compostela)
+- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona/)
+- [Where to stay in Seville: 4 neighborhoods](/en/blog/where-to-stay-seville/)
+- [Santiago de Compostela and the Camino](/en/blog/santiago-de-compostela/)

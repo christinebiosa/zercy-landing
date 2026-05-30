@@ -45,7 +45,7 @@ Al norte del CBD, sin trampas turísticas. Brunswick Street es la arteria princi
 
 **Mejores opciones:** The Nunnery Boutique (edificio histórico reconvertido, mucho carácter), Smith & Co Hotel Fitzroy (boutique, patio interior), Tyrian Serviced Apartments (ideal para estadías de una semana o más).
 
-Para comparar con Sídney, nuestro artículo sobre [dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires) muestra una dinámica similar de barrios con precios muy distintos.
+Para comparar con Sídney, nuestro artículo sobre [dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) muestra una dinámica similar de barrios con precios muy distintos.
 
 ## ¿Cuándo es mejor visitar Melbourne?
 
@@ -61,7 +61,7 @@ A 8 km al sur del CBD, 20 minutos en tranvía. St Kilda es el barrio playero de 
 
 **Mejores opciones:** The Prince Hotel (hotel boutique icónico de Melbourne, fuerte conexión con la escena cultural), Art Series Hotel Blackman (hotel de diseño con arte rotativo), St Kilda Beach House (cerca del paseo marítimo).
 
-Si dudas entre hotel y apartamento, nuestra guía de [dónde alojarse en Miami](/es/blog/donde-alojarse-miami) también analiza esta disyuntiva en destinos costeros con turismo intenso.
+Si dudas entre hotel y apartamento, nuestra guía de [dónde alojarse en Miami](/es/blog/donde-alojarse-miami/) también analiza esta disyuntiva en destinos costeros con turismo intenso.
 
 ## Southbank: Cultura junto al río
 
@@ -119,6 +119,6 @@ El Aeropuerto de Melbourne (Tullamarine) está a 23 km del CBD. El Skybus va dir
 ---
 
 **Más información:**
-- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Miami: Guía de barrios 2026](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Lima: Miraflores vs. Barranco](/es/blog/donde-alojarse-lima)
+- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Miami: Guía de barrios 2026](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Lima: Miraflores vs. Barranco](/es/blog/donde-alojarse-lima/)

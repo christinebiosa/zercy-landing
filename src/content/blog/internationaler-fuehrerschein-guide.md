@@ -66,9 +66,9 @@ Der internationale Führerschein kostet 15 Euro und ist in 10 Minuten beantragt.
 
 ## Mehr lesen
 
-- [Mietwagen-Checkliste: Was du vor der Abfahrt prüfen musst](/blog/mietwagen-check)
-- [Mietwagen günstiger buchen mit Consolidatoren](/blog/mietwagen-consolidator-guenstiger-fahren)
-- [Versteckte Kosten beim Mietwagen vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden)
+- [Mietwagen-Checkliste: Was du vor der Abfahrt prüfen musst](/blog/mietwagen-check/)
+- [Mietwagen günstiger buchen mit Consolidatoren](/blog/mietwagen-consolidator-guenstiger-fahren/)
+- [Versteckte Kosten beim Mietwagen vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden/)
 
 ---
 
@@ -92,4 +92,4 @@ Drei Jahre ab Ausstellungsdatum. Er ist nur in Kombination mit deinem nationalen
 
 ---
 
-*Vergiss nicht, deine Reisedokumente schon vor dem Urlaub zu organisieren. Wie das am besten geht, zeigt dir unser [Reisedokumente-Guide](/blog/reisedokumente-organisieren-guide).*
+*Vergiss nicht, deine Reisedokumente schon vor dem Urlaub zu organisieren. Wie das am besten geht, zeigt dir unser [Reisedokumente-Guide](/blog/reisedokumente-organisieren-guide/).*

@@ -40,7 +40,7 @@ Das klingt nach Kleinigkeit. Wird aber wichtig, wenn du verschiedene Airlines au
 
 Wer Gold-Status bei Lufthansa Miles & More hat, darf auch in Singapore Airlines Lounges auf Star Alliance Flügen. Das ist einer der wertvollsten Benefits. Lounges in Asien, besonders Singapore Airlines SilverKris und Cathay Pacific The Wing, gehören zu den besten der Welt. Mit einem europäischen Status bekommst du dort trotzdem rein.
 
-Mehr zur Lounge-Strategie: [Lounge-Zugang ohne Business Class](/blog/lounge-zugang-ohne-business-ticket)
+Mehr zur Lounge-Strategie: [Lounge-Zugang ohne Business Class](/blog/lounge-zugang-ohne-business-ticket/)
 
 **Code-Share-Flüge für bessere Verbindungen**
 
@@ -68,7 +68,7 @@ Ab 30.000 Meilen ändert sich die Rechnung. Hier die typischen Status-Levels:
 
 Silver-Status reicht für Komfort-Benefits. Wer Gold erreicht, bekommt Lounge-Zugang auch auf Partnerflügen. Platinum ist für wenige. Für die meisten Vielreisenden ist Gold das realistische und lohnende Ziel.
 
-Hier hilft auch [Business Class ohne Meilen](/blog/business-class-ohne-meilen): Status und günstige Business Class Tickets können sich sinnvoll ergänzen.
+Hier hilft auch [Business Class ohne Meilen](/blog/business-class-ohne-meilen/): Status und günstige Business Class Tickets können sich sinnvoll ergänzen.
 
 ## Welche Allianz passt zu welcher Hauptroute?
 
@@ -82,13 +82,13 @@ Lufthansa, Swiss und Austrian sind alle Star Alliance. Wer ab Frankfurt, Münche
 
 British Airways ist das Rückgrat von oneworld. Heathrow ist einer der besten Hubs für Verbindungen weltweit. Wer ab London fliegt, sollte das British Airways Executive Club nutzen. Qatar Airways ist ebenfalls oneworld und hat für Langstrecken nach Asien und Australien ein hervorragendes Produkt.
 
-Interessant für Verbindungen nach Asien: Cathay Pacific ist oneworld und bietet aus Hongkong ausgezeichnete Anschlüsse. Und [Google Flights Tricks 2026](/blog/google-flights-tricks-tipps-2026) zeigt, wie du die besten Preise innerhalb einer Allianz findest.
+Interessant für Verbindungen nach Asien: Cathay Pacific ist oneworld und bietet aus Hongkong ausgezeichnete Anschlüsse. Und [Google Flights Tricks 2026](/blog/google-flights-tricks-tipps-2026/) zeigt, wie du die besten Preise innerhalb einer Allianz findest.
 
 **Frankreich und Niederlande: SkyTeam**
 
 Air France und KLM sind beide SkyTeam. Das Flying Blue Programm ist eines der flexibelsten in Europa. Wer aus Paris oder Amsterdam regelmäßig fliegt, kommt mit SkyTeam am schnellsten zu echtem Status. Delta ist SkyTeam-Partner für Nordamerika, Korean Air für Asien.
 
-Wer über ein Upgrade nachdenkt: [Bid Upgrade für Business Class](/blog/bid-upgrade-business-class) erklärt, wie das Bieten-System bei vielen Allianzairlines funktioniert.
+Wer über ein Upgrade nachdenkt: [Bid Upgrade für Business Class](/blog/bid-upgrade-business-class/) erklärt, wie das Bieten-System bei vielen Allianzairlines funktioniert.
 
 Die Allianz-Wahl ist letztlich eine Frage der Heimatairline. Die Hauptairline deiner häufigsten Strecke bestimmt das Programm. Alles andere ergibt sich dann aus dem Netzwerk.
 
@@ -114,4 +114,4 @@ Wenn du die Hauptrouten wechselst oder einen neuen Heimatflughafen hast, macht e
 
 Das variiert stark je nach Programm und Strecke. Mit Miles & More kostet ein Business Class Freiflug Frankfurt nach New York etwa 85.000 Prämienmeilen. Mit Flying Blue sind es oft 60.000 bis 75.000. Wer die Meilen konsequent auf einer Allianz sammelt statt verteilt, kommt in 2 bis 3 Jahren bei regelmäßigen Reisen ans Ziel.
 
-**Mehr lesen:** [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen) · [Lounge-Zugang ohne Business Ticket](/blog/lounge-zugang-ohne-business-ticket) · [Bid Upgrade auf Business Class](/blog/bid-upgrade-business-class)
+**Mehr lesen:** [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen/) · [Lounge-Zugang ohne Business Ticket](/blog/lounge-zugang-ohne-business-ticket/) · [Bid Upgrade auf Business Class](/blog/bid-upgrade-business-class/)

@@ -23,7 +23,7 @@ Das ist die wichtigste Frage. Und sie hat mehrere Antworten, je nachdem wie lang
 
 **E33G Digital Nomad Visa:** Indonesiens Antwort auf das Bedürfnis legaler Remote-Arbeit. Das Visum gilt bis zu 5 Jahre und erlaubt legal die Arbeit für ausländische Auftraggeber von Bali aus. Der Haken: Es ist teuer und bürokratisch aufwendig. Kosten liegen je nach Anbieter zwischen 1.500 und 3.000 USD, dazu kommen Einkommensnachweise (in der Regel mindestens 2.000 USD monatlich). Für Digital Nomaden, die längerfristig auf Bali planen und rechtliche Sicherheit wollen, ist es die sauberste Option.
 
-Weitere Details zu Visum-Optionen für digitale Nomaden weltweit findest du in unserem Artikel über [Digital Nomad Visa in verschiedenen Ländern 2026](/blog/digital-nomad-visum-laender-2026).
+Weitere Details zu Visum-Optionen für digitale Nomaden weltweit findest du in unserem Artikel über [Digital Nomad Visa in verschiedenen Ländern 2026](/blog/digital-nomad-visum-laender-2026/).
 
 ## Wo arbeitest du am besten in Bali?
 
@@ -49,7 +49,7 @@ Bali ist günstiger als Europa. Aber billiger als vor fünf Jahren ist es nicht 
 
 **Transport:** Ein Motorroller kostet 5-7 USD pro Tag, monatlich 60-90 USD. In Canggu und Ubud ist das das Standardtransportmittel. Alternativ Grab (Ride-Hailing) für kürzere Strecken. Für Ausflüge auf die Insel empfiehlt sich ein privater Fahrer für den Tag, Kosten rund 40-60 USD.
 
-Einen detaillierten Überblick zu steuerlichen Aspekten deiner Workation findest du in unserem [Workation Steuern Guide 2026](/blog/workation-steuern-2026).
+Einen detaillierten Überblick zu steuerlichen Aspekten deiner Workation findest du in unserem [Workation Steuern Guide 2026](/blog/workation-steuern-2026/).
 
 ## Was solltest du über Bali wissen, bevor du reist?
 
@@ -65,7 +65,7 @@ Ein paar Dinge, die die meisten Erstbesucher kalt erwischen.
 
 **Gesundheit:** Dengue-Fieber ist auf Bali präsent. Mückenschutz ist kein optionales Zubehör, vor allem in der Regenzeit. Sonne und Dehydration sind die häufigsten Gründe, warum Besucher einen Tag im Bett verbringen. Wasser aus der Flasche, nicht aus dem Hahn.
 
-Für Übernachtungsoptionen auf Bali von Budget bis Luxus schau in unseren Guide [Wo übernachten in Bali](/blog/wo-uebernachten-bali). Und wenn du Bali mit anderen Workation-Zielen in Portugal oder Spanien vergleichen willst, hilft dir [Workation Portugal und Spanien 2026](/blog/workation-portugal-spanien-2026) weiter.
+Für Übernachtungsoptionen auf Bali von Budget bis Luxus schau in unseren Guide [Wo übernachten in Bali](/blog/wo-uebernachten-bali/). Und wenn du Bali mit anderen Workation-Zielen in Portugal oder Spanien vergleichen willst, hilft dir [Workation Portugal und Spanien 2026](/blog/workation-portugal-spanien-2026/) weiter.
 
 ---
 
@@ -87,6 +87,6 @@ In etablierten Co-Working-Spaces wie Dojo Bali oder Hubud ist das Internet gut (
 
 ## Mehr lesen
 
-- [Digital Nomad Visa: Die besten Länder 2026](/blog/digital-nomad-visum-laender-2026)
-- [Workation Steuern 2026: Was du wirklich zahlen musst](/blog/workation-steuern-2026)
-- [Workation Portugal und Spanien 2026](/blog/workation-portugal-spanien-2026)
+- [Digital Nomad Visa: Die besten Länder 2026](/blog/digital-nomad-visum-laender-2026/)
+- [Workation Steuern 2026: Was du wirklich zahlen musst](/blog/workation-steuern-2026/)
+- [Workation Portugal und Spanien 2026](/blog/workation-portugal-spanien-2026/)

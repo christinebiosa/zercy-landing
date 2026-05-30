@@ -27,7 +27,7 @@ Rule of thumb: if you're traveling in October or November, go to the Gulf side, 
 
 Chiang Mai and the north operate on different logic from the south.
 
-**November to February** is the coolest and driest time. Temperatures between 15 and 28°C, clean air, excellent conditions for hiking in the mountains. The best season for trekking and elephant sanctuaries. The [Thailand 2-week itinerary](/en/blog/thailand-2-week-itinerary) deliberately starts in the north during this window.
+**November to February** is the coolest and driest time. Temperatures between 15 and 28°C, clean air, excellent conditions for hiking in the mountains. The best season for trekking and elephant sanctuaries. The [Thailand 2-week itinerary](/en/blog/thailand-2-week-itinerary/) deliberately starts in the north during this window.
 
 **March to May** is hot. Up to 40°C, with significant smoke and smog from agricultural burning in the region. Chiang Mai regularly records some of Asia's worst air quality during these months. Anyone with respiratory issues should avoid this period.
 
@@ -49,9 +49,9 @@ Bangkok itself is accessible year-round, but the comfort level varies widely. No
 
 Significantly. Hotels in Phuket and Krabi during low season (May to October) are often 30 to 50 percent cheaper than in winter. Flights from Europe drop too. If you can tolerate occasional rain, the savings are real.
 
-Ko Samui in October is the classic insider move: low-season prices, without the Andaman coast's actual monsoon. Worth pairing with the [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel) for a full cost picture.
+Ko Samui in October is the classic insider move: low-season prices, without the Andaman coast's actual monsoon. Worth pairing with the [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel/) for a full cost picture.
 
-If you're booking travel insurance for any Thailand trip in shoulder season, check whether monsoon-related cancellations are covered. The [travel insurance guide](/en/blog/travel-insurance-worth-it-2026) covers what to look for.
+If you're booking travel insurance for any Thailand trip in shoulder season, check whether monsoon-related cancellations are covered. The [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) covers what to look for.
 
 ---
 
@@ -77,6 +77,6 @@ Ko Samui and the Gulf of Thailand coast. The Andaman coast (Phuket, Krabi) has O
 
 ## Read More
 
-- [Thailand in 2 Weeks: Best Route for First-Timers](/en/blog/thailand-2-week-itinerary)
-- [48 Hours in Bangkok: What's Actually Worth It](/en/blog/48-hours-bangkok)
-- [Southeast Asia on a Budget](/en/blog/southeast-asia-budget-travel)
+- [Thailand in 2 Weeks: Best Route for First-Timers](/en/blog/thailand-2-week-itinerary/)
+- [48 Hours in Bangkok: What's Actually Worth It](/en/blog/48-hours-bangkok/)
+- [Southeast Asia on a Budget](/en/blog/southeast-asia-budget-travel/)

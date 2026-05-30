@@ -47,7 +47,7 @@ Hotels in Wrzeszcz are 20 to 30 percent cheaper than in the Old Town. The right 
 - **Aparthotel Neptun Wrzeszcz:** Serviced apartments, ideal for 3+ nights. Kitchen in-room, residential feel.
 - **Various Guesthouses:** Booking.com lists dozens of private rooms and small B&Bs in the neighborhood.
 
-If you're building an Eastern European itinerary, our [budget travel Eastern Europe guide](/en/blog/budget-travel-eastern-europe) has practical tips on prices and routing across the region.
+If you're building an Eastern European itinerary, our [budget travel Eastern Europe guide](/en/blog/budget-travel-eastern-europe/) has practical tips on prices and routing across the region.
 
 ## When is the best time to visit Gdańsk?
 
@@ -95,7 +95,7 @@ For **history and location:** Główne Miasto. For **authentic daily life and va
 
 Gdańsk is cheaper than Prague or Krakow, and hotel prices in the Old Town are still well below Western European levels. A solid boutique hotel in Główne Miasto for 120 euros. An excellent dinner for 15 euros.
 
-If you're planning more Polish cities, our [Poland road trip route](/en/blog/poland-road-trip-route) covers a full circuit including Warsaw, Krakow and Gdańsk. And for the next leg northward, our guide to [where to stay in Tallinn](/en/blog/where-to-stay-tallinn) covers Estonia's answer to the Baltic city break.
+If you're planning more Polish cities, our [Poland road trip route](/en/blog/poland-road-trip-route/) covers a full circuit including Warsaw, Krakow and Gdańsk. And for the next leg northward, our guide to [where to stay in Tallinn](/en/blog/where-to-stay-tallinn/) covers Estonia's answer to the Baltic city break.
 
 Tell Zercy what you need. You'll get specific hotel options for the Gdańsk neighborhood that fits your travel style. Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
@@ -122,6 +122,6 @@ Gdańsk was a Free City for centuries with strong Hanseatic roots. World War II 
 ---
 
 **Read more:**
-- [Poland Road Trip Route: Warsaw, Krakow, Gdańsk](/en/blog/poland-road-trip-route)
-- [Budget Travel Eastern Europe: The Honest Guide](/en/blog/budget-travel-eastern-europe)
-- [Where to Stay in Tallinn: Best Neighborhoods](/en/blog/where-to-stay-tallinn)
+- [Poland Road Trip Route: Warsaw, Krakow, Gdańsk](/en/blog/poland-road-trip-route/)
+- [Budget Travel Eastern Europe: The Honest Guide](/en/blog/budget-travel-eastern-europe/)
+- [Where to Stay in Tallinn: Best Neighborhoods](/en/blog/where-to-stay-tallinn/)

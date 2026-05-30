@@ -55,7 +55,7 @@ Cologne is a year-round city with two absolute highlights. Carnival (Thursday be
 
 **Autumn:** Few tourists, good hotel prices, trade fair season (Gamescom, Photokina).
 
-Cologne pairs well with a trip to [Brussels](/en/blog/where-to-stay-brussels): 2 hours by Thalys train. For a broader [European winter cities guide](/en/blog/european-cities-winter-guide), Cologne's Christmas markets consistently rank at the top.
+Cologne pairs well with a trip to [Brussels](/en/blog/where-to-stay-brussels/): 2 hours by Thalys train. For a broader [European winter cities guide](/en/blog/european-cities-winter-guide/), Cologne's Christmas markets consistently rank at the top.
 
 ## Ehrenfeld: Cologne's Creative Scene
 
@@ -112,6 +112,6 @@ Visit the interior of the cathedral and climb the south tower (533 steps, specta
 ---
 
 ## Read more
-- [Where to Stay in Brussels: Europe's Capital](/en/blog/where-to-stay-brussels)
-- [European Cities in Winter: Best Destinations](/en/blog/european-cities-winter-guide)
-- [Where to Stay in Amsterdam: 5 Neighborhoods](/en/blog/where-to-stay-amsterdam)
+- [Where to Stay in Brussels: Europe's Capital](/en/blog/where-to-stay-brussels/)
+- [European Cities in Winter: Best Destinations](/en/blog/european-cities-winter-guide/)
+- [Where to Stay in Amsterdam: 5 Neighborhoods](/en/blog/where-to-stay-amsterdam/)

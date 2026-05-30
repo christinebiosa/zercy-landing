@@ -63,7 +63,7 @@ Antes de reservar tus vuelos, organiza la ruta con el [Zercy Logbook](https://ww
 
 **Rotorua** en la Isla Norte cierra el círculo cultural. El hangi maorí (festín tradicional cocinado bajo tierra) es una experiencia que vale su precio, y los géiseres de Whakarewarewa son espectaculares.
 
-Para inspirarte con más destinos lejanos, lee también nuestra [ruta de dos semanas por Vietnam](/es/blog/vietnam-2-semanas-ruta) o la [guía completa de Tailandia](/es/blog/tailandia-2-semanas-ruta).
+Para inspirarte con más destinos lejanos, lee también nuestra [ruta de dos semanas por Vietnam](/es/blog/vietnam-2-semanas-ruta/) o la [guía completa de Tailandia](/es/blog/tailandia-2-semanas-ruta/).
 
 ---
 
@@ -79,7 +79,7 @@ Los ciudadanos de la mayoría de países latinoamericanos necesitan visa de turi
 
 ### ¿Dónde conviene hospedarse en la Isla Sur?
 
-Queenstown y Wanaka son las bases más prácticas para explorar el sur. Christchurch funciona bien como punto de entrada o salida. Para Milford Sound, existen lodges dentro del parque o cruceros con pernocta. Consulta nuestra guía de [dónde alojarse en los destinos de Nueva Zelanda](/es/blog/donde-alojarse-nueva-zelanda) para más opciones.
+Queenstown y Wanaka son las bases más prácticas para explorar el sur. Christchurch funciona bien como punto de entrada o salida. Para Milford Sound, existen lodges dentro del parque o cruceros con pernocta. Consulta nuestra guía de [dónde alojarse en los destinos de Nueva Zelanda](/es/blog/donde-alojarse-nueva-zelanda/) para más opciones.
 
 ### ¿Cuál es la mejor ruta para dos semanas solo en la Isla Sur?
 
@@ -88,6 +88,6 @@ Christchurch, lago Tekapo, Aoraki/Mount Cook, Queenstown, Fiordland (Milford Sou
 ---
 
 **Leer más:**
-- [Ruta Vietnam 2 semanas: de Hanói a Ho Chi Minh](/es/blog/vietnam-2-semanas-ruta)
-- [Road trip por Marruecos: Marrakech al desierto](/es/blog/road-trip-marruecos)
-- [Tailandia en 2 semanas: la ruta perfecta](/es/blog/tailandia-2-semanas-ruta)
+- [Ruta Vietnam 2 semanas: de Hanói a Ho Chi Minh](/es/blog/vietnam-2-semanas-ruta/)
+- [Road trip por Marruecos: Marrakech al desierto](/es/blog/road-trip-marruecos/)
+- [Tailandia en 2 semanas: la ruta perfecta](/es/blog/tailandia-2-semanas-ruta/)

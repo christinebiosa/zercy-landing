@@ -23,7 +23,7 @@ Hier sind die acht besten Weihnachtsmärkte Europas. Mit allem, was du für die 
 
 **Wien** bietet den wohl schönsten Rahmen. Der Markt vor dem Rathausplatz ist der größte Österreichs. Riesenrad im Hintergrund. Über 150 Stände. Dazu gibt es in Wien mehrere kleinere Märkte gleichzeitig, zum Beispiel am Schönbrunner Schlosspark oder am Karlsplatz. Wien ist der Markt-Plural. Details auf [wienerchristkindlmarkt.at](https://www.wienerchristkindlmarkt.at).
 
-**Prag** ist der günstigste unter den Top-Destinationen. Märkte auf dem Altstädter Ring und dem Wenzelsplatz. Tschechischer Glühwein, gegrillte Klobása, Trdelník. Alles deutlich billiger als in Deutschland oder Österreich. Prag ist für alle, die märchenhafte Kulisse wollen, ohne viel Geld auszugeben. Mehr dazu: [48 Stunden Prag](/blog/48-stunden-prag).
+**Prag** ist der günstigste unter den Top-Destinationen. Märkte auf dem Altstädter Ring und dem Wenzelsplatz. Tschechischer Glühwein, gegrillte Klobása, Trdelník. Alles deutlich billiger als in Deutschland oder Österreich. Prag ist für alle, die märchenhafte Kulisse wollen, ohne viel Geld auszugeben. Mehr dazu: [48 Stunden Prag](/blog/48-stunden-prag/).
 
 **Colmar im Elsass** ist der romantischste. Klein, mittelalterlich, fast kitschig schön. Fachwerkhäuser in Pastellfarben, Blumenkästen, Lichterketten. Fünf verschiedene Märkte verteilt über die Altstadt. Wer Straßburg zu groß ist, fährt nach Colmar. Nur 70 Kilometer entfernt.
 
@@ -59,7 +59,7 @@ Straßburg liegt in der Mitte. Tallinn ist angenehm günstig für Westeuropäer.
 
 Übernachtung ist der größte Kostenfaktor. Hotelmittelklasse in Nürnberg oder Straßburg im Dezember: 100 bis 180 Euro pro Nacht. Wien ähnlich. Tipp: Nachbarstädte als Basis nehmen. Von Karlsruhe nach Straßburg sind es 80 km. Von Linz nach Wien 2 Stunden Zug.
 
-Mehr dazu: [Reise-Budget sparen: Eine ehrliche Anleitung](/blog/reise-budget-sparen-anleitung).
+Mehr dazu: [Reise-Budget sparen: Eine ehrliche Anleitung](/blog/reise-budget-sparen-anleitung/).
 
 ---
 
@@ -98,6 +98,6 @@ Für Erstbesucher: Nürnberg oder Straßburg. Für Romantiker: Colmar. Für Budg
 **Plane deinen Weihnachtsmarkt-Trip mit Zercy.** Sage einfach, wohin du willst und wann. Zercy findet Flüge, schlägt Unterkünfte vor und denkt mit. [Logbuch öffnen](https://www.zercy.app/logbook).
 
 **Mehr lesen:**
-- [Europäische Städte im Winter: Tipps für die kalte Jahreszeit](/blog/europaeische-staedte-winter-tipps)
-- [Wo übernachten in Wien: Die besten Lagen](/blog/wo-uebernachten-wien)
-- [48 Stunden in Prag: Was wirklich lohnt](/blog/48-stunden-prag)
+- [Europäische Städte im Winter: Tipps für die kalte Jahreszeit](/blog/europaeische-staedte-winter-tipps/)
+- [Wo übernachten in Wien: Die besten Lagen](/blog/wo-uebernachten-wien/)
+- [48 Stunden in Prag: Was wirklich lohnt](/blog/48-stunden-prag/)

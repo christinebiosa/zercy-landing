@@ -65,7 +65,7 @@ Tres barrios tienen sentido real para 48 horas.
 
 **Intendente** es la alternativa más económica. El barrio ha cambiado mucho en los últimos años, ahora es mixto y animado. Los hoteles aquí cuestan entre 80 y 100 euros en vez de los 130 a 150 euros del Chiado.
 
-Nuestra guía [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa) cubre todos los barrios con recomendaciones concretas. En [Booking.com](https://www.booking.com) encontrarás más de 1.000 hoteles en Lisboa con cancelación gratuita.
+Nuestra guía [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa/) cubre todos los barrios con recomendaciones concretas. En [Booking.com](https://www.booking.com) encontrarás más de 1.000 hoteles en Lisboa con cancelación gratuita.
 
 ## ¿Cuánto cuesta un fin de semana en Lisboa?
 
@@ -89,7 +89,7 @@ Julio y agosto son otra historia. La ciudad está caliente, llena y cara. No nec
 
 Marzo todavía puede ser fresco, pero la ciudad está tranquila y los precios son bajos. Quien quiera Lisboa sin masas reserva en marzo.
 
-Para más sobre lo que hace especial a Lisboa más allá de las rutas turísticas, mira nuestra guía [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica). Y si estás pensando en alargar el viaje: [Oporto](/es/blog/oporto-hermana-subestimada) está a 3 horas y vale mucho la pena.
+Para más sobre lo que hace especial a Lisboa más allá de las rutas turísticas, mira nuestra guía [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica/). Y si estás pensando en alargar el viaje: [Oporto](/es/blog/oporto-hermana-subestimada/) está a 3 horas y vale mucho la pena.
 
 ---
 
@@ -116,6 +116,6 @@ Calcula entre 400 y 600 euros para dos personas, sin vuelo ni hotel. Eso cubre c
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Lisboa: los mejores barrios comparados](/es/blog/donde-alojarse-lisboa)
-- [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica)
-- [Oporto: la hermana subestimada de Lisboa](/es/blog/oporto-hermana-subestimada)
+- [Dónde alojarse en Lisboa: los mejores barrios comparados](/es/blog/donde-alojarse-lisboa/)
+- [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica/)
+- [Oporto: la hermana subestimada de Lisboa](/es/blog/oporto-hermana-subestimada/)

@@ -47,7 +47,7 @@ El Cebú colonial sin filtros. Aquí está la Cruz de Magallanes, la Basílica d
 
 **Mejores opciones:** Quest Hotel and Conference Center (gama media sólida), Harolds Hotel Cebu (clásico, ubicación central), The Henry Hotel Cebu (boutique con carácter colonial, cerca del barrio histórico).
 
-Si estás descubriendo Filipinas por primera vez, consulta nuestra [guía de viaje a Filipinas](/es/blog/filipinas-guia-viaje-highlights). Cebú es el punto de entrada ideal para un viaje más amplio por el archipiélago.
+Si estás descubriendo Filipinas por primera vez, consulta nuestra [guía de viaje a Filipinas](/es/blog/filipinas-guia-viaje-highlights/). Cebú es el punto de entrada ideal para un viaje más amplio por el archipiélago.
 
 ## ¿Cuándo es la mejor época para visitar Cebú?
 
@@ -57,7 +57,7 @@ Temporada seca de enero a mayo, pico de turismo de marzo a mayo. La temporada de
 
 Mactan no es Cebú City. Un puente conecta ambas. El aeropuerto internacional está aquí, y directamente al lado: la franja de resorts de Punta Engaño y Mactan Newtown. Más tranquilo. Menos urbano. El agua está cálida y los arrecifes están a pocos minutos a pie.
 
-**Quién encaja aquí:** Viajeros de playa, buceadores, los que quieren bajar del avión y meterse al agua. Una base excelente para [buceo y snorkel en destinos top](/es/blog/buceo-snorkel-destinos-2026) como los tiburones zorro de Malapascua o la lluvia de sardinas en Moalboal.
+**Quién encaja aquí:** Viajeros de playa, buceadores, los que quieren bajar del avión y meterse al agua. Una base excelente para [buceo y snorkel en destinos top](/es/blog/buceo-snorkel-destinos-2026/) como los tiburones zorro de Malapascua o la lluvia de sardinas en Moalboal.
 
 **Precios:** Resorts de gama media 65-160 USD, resorts premium 220-500 USD, lujo 550-1.300 USD.
 
@@ -73,7 +73,7 @@ Al norte de Cebú City. Menos orientado al turismo, mercados locales, zonas indu
 
 **Mejores opciones:** Waterfront Airport Hotel (gama media, conveniente para el aeropuerto), pensiones económicas cerca del SM Mandaue para estadías largas.
 
-Para consejos sobre cómo viajar con presupuesto por la región, consulta nuestra guía de [viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico).
+Para consejos sobre cómo viajar con presupuesto por la región, consulta nuestra guía de [viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/).
 
 ## South Road Properties: El Cebú moderno
 
@@ -122,6 +122,6 @@ La Cruz de Magallanes y la Basílica del Santo Niño en el centro, el mercado de
 ---
 
 **Más artículos:**
-- [Guía de viaje a Filipinas: islas, buceo y lo mejor del país](/es/blog/filipinas-guia-viaje-highlights)
-- [Buceo y snorkel: los mejores destinos del mundo en 2026](/es/blog/buceo-snorkel-destinos-2026)
-- [Sudeste Asiático con presupuesto: consejos para viajar barato](/es/blog/sudeste-asiatico-viaje-economico)
+- [Guía de viaje a Filipinas: islas, buceo y lo mejor del país](/es/blog/filipinas-guia-viaje-highlights/)
+- [Buceo y snorkel: los mejores destinos del mundo en 2026](/es/blog/buceo-snorkel-destinos-2026/)
+- [Sudeste Asiático con presupuesto: consejos para viajar barato](/es/blog/sudeste-asiatico-viaje-economico/)

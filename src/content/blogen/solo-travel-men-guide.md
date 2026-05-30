@@ -28,7 +28,7 @@ Not every place is created equal. Three that consistently deliver:
 
 **Japan** is the classic recommendation. For good reason. Safe, clean, logically organized. Public transit works. Traveling alone isn't unusual here. The Japanese themselves often travel solo. Restaurants have single counter seats, convenience stores have everything you need, and ryokans accept single guests. The cultural depth is enormous, and the social risk is low.
 
-**Colombia** is the opposite. Here, social energy is the currency. Cartagena, Medellín, Bogotá. People talk to you, invite you in, ask questions. For men actively looking to connect, Colombia is almost effortless. Safety requires more attention than Japan, but stick to basics (no flashy devices, avoid unsafe neighborhoods at night) and you'll be fine. Read our [Latin America safety tips](/en/blog/latin-america-safety-tips) before you go.
+**Colombia** is the opposite. Here, social energy is the currency. Cartagena, Medellín, Bogotá. People talk to you, invite you in, ask questions. For men actively looking to connect, Colombia is almost effortless. Safety requires more attention than Japan, but stick to basics (no flashy devices, avoid unsafe neighborhoods at night) and you'll be fine. Read our [Latin America safety tips](/en/blog/latin-america-safety-tips/) before you go.
 
 **Portugal** sits in the middle. Cheaper than most of Western Europe, English-friendly, with a hostel culture that has been growing for years. Lisbon and Porto have strong nomad communities. You'll always find someone for dinner.
 
@@ -42,7 +42,7 @@ This is the real question. And the answer is less complicated than most fear.
 
 **Meetup.com** is underrated. Nearly every major city has groups for hiking, board games, language exchange, or just expat drinks. No ticket required, no backstory needed. Just show up. Check out [Meetup](https://www.meetup.com/) directly to find events near your next destination.
 
-**Couchsurfing events** work similarly, even if you're not surfing. The platform hosts regular meetups in most cities. See also our [Couchsurfing Guide 2026](/en/blog/couchsurfing-guide-2026-en) for everything you need to know.
+**Couchsurfing events** work similarly, even if you're not surfing. The platform hosts regular meetups in most cities. See also our [Couchsurfing Guide 2026](/en/blog/couchsurfing-guide-2026-en/) for everything you need to know.
 
 **Local sports clubs** are the hidden move. Football, climbing, running. Men connect most naturally through shared activity. A local expat football game, a climbing gym, a Saturday parkrun. You have an instant topic and an instant reason to be there.
 
@@ -60,7 +60,7 @@ Plan your next route with [Zercy](https://www.zercy.app/) and save your ideas in
 
 ## How Is Solo Travel for Men Different from Solo Travel for Women?
 
-Without the comparison, the context is missing. See also our article on [solo travel for women in safe countries](/en/blog/solo-travel-women-safe-countries).
+Without the comparison, the context is missing. See also our article on [solo travel for women in safe countries](/en/blog/solo-travel-women-safe-countries/).
 
 The difference is real. Women plan with more safety considerations. Accommodation choices, night routes, handling harassment. For men, the calibration is different. Less fear of assault, more exposure to theft and scams. Not an advantage. Just a different risk profile.
 
@@ -74,7 +74,7 @@ Because you find out what you actually want. No compromise with travel companion
 
 ### Which countries are safest for solo male travelers?
 
-Japan, Iceland, Portugal, and New Zealand rank among the safest options. Colombia and Georgia are also strong picks with basic awareness. Check our [backpacking beginners guide](/en/blog/backpacking-beginners-guide) for destination breakdowns.
+Japan, Iceland, Portugal, and New Zealand rank among the safest options. Colombia and Georgia are also strong picks with basic awareness. Check our [backpacking beginners guide](/en/blog/backpacking-beginners-guide/) for destination breakdowns.
 
 ### How much does solo travel cost for men?
 
@@ -87,6 +87,6 @@ Through activities, not conversations. Guided hikes, cooking classes, sports eve
 ---
 
 **Read more:**
-- [Couchsurfing Guide 2026: How It Really Works](/en/blog/couchsurfing-guide-2026-en)
-- [Backpacking for Beginners: Everything You Need](/en/blog/backpacking-beginners-guide)
-- [Latin America Safety Tips for Solo Travelers](/en/blog/latin-america-safety-tips)
+- [Couchsurfing Guide 2026: How It Really Works](/en/blog/couchsurfing-guide-2026-en/)
+- [Backpacking for Beginners: Everything You Need](/en/blog/backpacking-beginners-guide/)
+- [Latin America Safety Tips for Solo Travelers](/en/blog/latin-america-safety-tips/)

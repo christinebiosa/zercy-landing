@@ -47,7 +47,7 @@ Het Zuid (El Sur) es el bulevar artístico de Amberes. Galerías de arte, el Mus
 
 **Top picks:** The Pilgrim (pequeño hotel boutique con fuerte personalidad de diseño), Moxy Antwerp (hotel lifestyle moderno, buena relación calidad-precio, ambiente joven y urbano).
 
-Consulta también nuestra guía de [dónde alojarse en Bruselas](/es/blog/donde-alojarse-bruselas), ya que la lógica de barrios es sorprendentemente similar.
+Consulta también nuestra guía de [dónde alojarse en Bruselas](/es/blog/donde-alojarse-bruselas/), ya que la lógica de barrios es sorprendentemente similar.
 
 ## Eilandje y el Barrio del Puerto: El Amberes marítimo
 
@@ -96,7 +96,7 @@ Para Amberes, [Booking.com](https://www.booking.com) es la plataforma más fiabl
 
 Para propiedades de lujo como De Witte Lelie o Botanic Sanctuary, compara directamente con la web del hotel. Para todo lo demás, Booking.com es el punto de partida correcto.
 
-Lee también nuestra guía de [dónde alojarse en Brujas](/es/blog/donde-alojarse-brujas) para la excursión perfecta desde Amberes.
+Lee también nuestra guía de [dónde alojarse en Brujas](/es/blog/donde-alojarse-brujas/) para la excursión perfecta desde Amberes.
 
 ---
 
@@ -123,6 +123,6 @@ Desde Bruselas son 45 minutos en tren IC o Thalys. Desde Brujas, unos 70 minutos
 ---
 
 **Más leer:**
-- [Dónde alojarse en Bruselas: los mejores barrios](/es/blog/donde-alojarse-bruselas)
-- [Dónde alojarse en Brujas: encanto medieval junto al canal](/es/blog/donde-alojarse-brujas)
-- [AirBnB vs hotel: ¿qué merece realmente la pena?](/es/blog/airbnb-vs-hotel-comparacion)
+- [Dónde alojarse en Bruselas: los mejores barrios](/es/blog/donde-alojarse-bruselas/)
+- [Dónde alojarse en Brujas: encanto medieval junto al canal](/es/blog/donde-alojarse-brujas/)
+- [AirBnB vs hotel: ¿qué merece realmente la pena?](/es/blog/airbnb-vs-hotel-comparacion/)

@@ -22,11 +22,11 @@ Offiziell empfiehlt [Tourism New Zealand](https://www.newzealand.com) die Schult
 
 ## Nordinsel oder Südinsel: Welche zuerst?
 
-Klassischerweise landet man in Auckland (Nordinsel) und fliegt aus Queenstown oder Christchurch ab (Südinsel). Das macht logistisch Sinn. Du brauchst nur einen One-Way-Mietwagen und machst keine unnötigen Umwege. Open-Jaw-Tickets sind hier ideal, mehr dazu in unserem Artikel über [Open-Jaw-Tickets als Reise-Hack](/blog/open-jaw-tickets-reise-hack).
+Klassischerweise landet man in Auckland (Nordinsel) und fliegt aus Queenstown oder Christchurch ab (Südinsel). Das macht logistisch Sinn. Du brauchst nur einen One-Way-Mietwagen und machst keine unnötigen Umwege. Open-Jaw-Tickets sind hier ideal, mehr dazu in unserem Artikel über [Open-Jaw-Tickets als Reise-Hack](/blog/open-jaw-tickets-reise-hack/).
 
 Nordinsel in Kürze: Auckland ist die größte Stadt. Rotorua zeigt dir aktive Geothermik und Maori-Kultur. Tongariro Alpine Crossing ist einer der besten Tageswanderungen der Welt. Hobbiton ist touristisch, aber für viele ein Must. Die Bay of Islands im Norden ist unvergleichlich schön.
 
-Südinsel in Kürze: Christchurch als Einstieg. Abel Tasman Nationalpark im Norden mit türkisem Wasser und goldenen Stränden. Dann südwärts: Kaikoura für Walbeobachtung, Franz Josef Gletscher, Queenstown als Abenteuerzentrum, und schließlich Milford Sound, der fotografisch beeindruckendste Fjord des Landes. Wer eine Nacht in Christchurch oder Wellington einplant, findet die besten Hotels in unserem [Christchurch Hotelguide](/blog/wo-uebernachten-christchurch) und im [Wellington Hotelguide](/blog/wo-uebernachten-wellington).
+Südinsel in Kürze: Christchurch als Einstieg. Abel Tasman Nationalpark im Norden mit türkisem Wasser und goldenen Stränden. Dann südwärts: Kaikoura für Walbeobachtung, Franz Josef Gletscher, Queenstown als Abenteuerzentrum, und schließlich Milford Sound, der fotografisch beeindruckendste Fjord des Landes. Wer eine Nacht in Christchurch oder Wellington einplant, findet die besten Hotels in unserem [Christchurch Hotelguide](/blog/wo-uebernachten-christchurch/) und im [Wellington Hotelguide](/blog/wo-uebernachten-wellington/).
 
 ## Mietwagen oder Campervan: Was ist besser?
 
@@ -34,7 +34,7 @@ Neuseeland ist ein Roadtrip-Land. Öffentliche Verkehrsmittel existieren, sind a
 
 Mietwagen: Flexibel, komfortabel, keine Buchungspflicht für Campingplätze. Du übernachtest in Hostels, B&Bs oder Motels. Kosten für Unterkunft addieren sich schnell. Gut für Paare und alle, die nachts ein eigenes Bett wollen.
 
-Campervan: Alles dabei. Du kannst spontan bleiben, wo du willst, auf vielen kostenlosen DOC-Campingplätzen schlafen und Küche selbst nutzen. Der Nachteil: Größere Fahrzeuge auf engen Bergstraßen brauchen Gewöhnung. Für Alleinreisende oder Gruppen ab zwei Personen oft günstiger als Mietwagen plus Unterkunft. Lies vorher unseren [Mietwagen-Check](/blog/mietwagen-check) für die wichtigsten Tipps zu Versicherungen und Buchung.
+Campervan: Alles dabei. Du kannst spontan bleiben, wo du willst, auf vielen kostenlosen DOC-Campingplätzen schlafen und Küche selbst nutzen. Der Nachteil: Größere Fahrzeuge auf engen Bergstraßen brauchen Gewöhnung. Für Alleinreisende oder Gruppen ab zwei Personen oft günstiger als Mietwagen plus Unterkunft. Lies vorher unseren [Mietwagen-Check](/blog/mietwagen-check/) für die wichtigsten Tipps zu Versicherungen und Buchung.
 
 ## Wie viel Zeit brauchst du wirklich?
 
@@ -44,7 +44,7 @@ Drei Wochen: Beide Inseln machbar. Nordinsel fünf Tage, Fähre über die Cook S
 
 Vier Wochen: Das Traum-Szenario. Zeit für Wanderungen wie den Milford Track, längere Aufenthalte in Abel Tasman, Wairarapa auf der Nordinsel, vielleicht sogar Stewart Island im äußersten Süden.
 
-Für die Flugplanung ist Neuseeland ideal für einen [Stopover auf dem Weg](/blog/stopover-tourismus-guide), zum Beispiel in Singapur, Tokio oder Dubai.
+Für die Flugplanung ist Neuseeland ideal für einen [Stopover auf dem Weg](/blog/stopover-tourismus-guide/), zum Beispiel in Singapur, Tokio oder Dubai.
 
 Wenn du weißt, welche Highlights du nicht verpassen willst, bring sie in Ordnung. Speichere deine Auswahl im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen alles zur Hand hast.
 
@@ -54,7 +54,7 @@ Wenn du weißt, welche Highlights du nicht verpassen willst, bring sie in Ordnun
 
 ### Wie lange ist der Flug von Deutschland nach Neuseeland?
 
-Von Frankfurt oder München nach Auckland dauert der Flug in der Regel zwischen 22 und 26 Stunden, meist mit einem oder zwei Stopps. Beliebte Verbindungen gehen über Singapur, Dubai oder Doha. Direktflüge gibt es nicht ab Deutschland. Wer günstig buchen will, sollte [Flüge frühzeitig buchen](/blog/wann-fluege-buchen) und Preisalerts einrichten.
+Von Frankfurt oder München nach Auckland dauert der Flug in der Regel zwischen 22 und 26 Stunden, meist mit einem oder zwei Stopps. Beliebte Verbindungen gehen über Singapur, Dubai oder Doha. Direktflüge gibt es nicht ab Deutschland. Wer günstig buchen will, sollte [Flüge frühzeitig buchen](/blog/wann-fluege-buchen/) und Preisalerts einrichten.
 
 ### Was kostet ein Campervan in Neuseeland?
 
@@ -71,6 +71,6 @@ Neuseeland gehört zu den sichersten Reisezielen der Welt. Alleinreisende, auch 
 ---
 
 **Mehr lesen:**
-- [Open-Jaw-Tickets: Der clevere Reise-Hack](/blog/open-jaw-tickets-reise-hack)
-- [Stopover-Tourismus: Gratis Zwischenstopp nutzen](/blog/stopover-tourismus-guide)
-- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check)
+- [Open-Jaw-Tickets: Der clevere Reise-Hack](/blog/open-jaw-tickets-reise-hack/)
+- [Stopover-Tourismus: Gratis Zwischenstopp nutzen](/blog/stopover-tourismus-guide/)
+- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check/)

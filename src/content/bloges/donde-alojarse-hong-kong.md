@@ -55,7 +55,7 @@ Hoteles: de 150 a 800 euros.
 **Recomendación:**
 - **Four Seasons Hotel Hong Kong** (lujo absoluto, junto a la Star Ferry, aprox. 700 €)
 
-Para otras grandes ciudades asiáticas, consulta también [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio) y [dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur).
+Para otras grandes ciudades asiáticas, consulta también [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio/) y [dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur/).
 
 ## Mong Kok: El Hong Kong más auténtico
 
@@ -96,6 +96,6 @@ El MTR es el transporte más eficiente: limpio, puntual y con cobertura excelent
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Tokio: Shinjuku, Asakusa o Shibuya](/es/blog/donde-alojarse-tokio)
-- [Dónde alojarse en Singapur: Marina Bay, Orchard Road o Chinatown](/es/blog/donde-alojarse-singapur)
-- [Dónde alojarse en Seúl: Myeongdong, Hongdae o Gangnam](/es/blog/donde-alojarse-seul)
+- [Dónde alojarse en Tokio: Shinjuku, Asakusa o Shibuya](/es/blog/donde-alojarse-tokio/)
+- [Dónde alojarse en Singapur: Marina Bay, Orchard Road o Chinatown](/es/blog/donde-alojarse-singapur/)
+- [Dónde alojarse en Seúl: Myeongdong, Hongdae o Gangnam](/es/blog/donde-alojarse-seul/)

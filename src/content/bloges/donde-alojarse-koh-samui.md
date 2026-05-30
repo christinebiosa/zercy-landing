@@ -53,7 +53,7 @@ Lamai es el vecino más tranquilo de Chaweng. Arena blanca bonita, menos hoteles
 
 **Mejores opciones:** Pavilion Samui Boutique Resort (elegante hotel boutique, buena ubicación en Lamai), Samui Resotel Beach Resort (frente a la playa, gran piscina), Rocky's Boutique Resort (ubicación en acantilado, vistas espectaculares al mar, algo fuera del pueblo).
 
-La [ruta por Tailandia en 2 semanas](/es/blog/tailandia-2-semanas-ruta) y la [guía de Phuket](/es/blog/donde-alojarse-phuket) cubren la planificación más amplia de Tailandia.
+La [ruta por Tailandia en 2 semanas](/es/blog/tailandia-2-semanas-ruta/) y la [guía de Phuket](/es/blog/donde-alojarse-phuket/) cubren la planificación más amplia de Tailandia.
 
 ## Bophut: El encanto del pueblo pesquero
 
@@ -104,6 +104,6 @@ Al menos 4–5 días para la isla. Una semana es ideal: explorar playas, excursi
 ---
 
 **Más artículos:**
-- [Tailandia: Ruta de 2 semanas con consejos](/es/blog/tailandia-2-semanas-ruta)
-- [Dónde alojarse en Phuket: Las 5 zonas de playa](/es/blog/donde-alojarse-phuket)
-- [Dónde alojarse en Bangkok: Los mejores barrios](/es/blog/donde-alojarse-bangkok)
+- [Tailandia: Ruta de 2 semanas con consejos](/es/blog/tailandia-2-semanas-ruta/)
+- [Dónde alojarse en Phuket: Las 5 zonas de playa](/es/blog/donde-alojarse-phuket/)
+- [Dónde alojarse en Bangkok: Los mejores barrios](/es/blog/donde-alojarse-bangkok/)

@@ -19,7 +19,7 @@ Sakura season is the most famous reason to visit in spring. In Tokyo, cherry tre
 
 The bloom at any single location lasts only seven to ten days before the petals fall. This makes timing tricky: arrive too early and you'll see bare branches, too late and there's nothing but green leaves. The Japan Meteorological Corporation publishes [annual bloom forecasts](https://sakura.weathermap.jp/) starting in January, which is essential reading for anyone planning around sakura.
 
-Prices during this period are the highest of the year. Booking six to eight months in advance for the sakura window is not excessive — it's standard practice. The [Japan 3-week route](/en/blog/japan-3-week-route) shows how to combine bloom timing across multiple regions.
+Prices during this period are the highest of the year. Booking six to eight months in advance for the sakura window is not excessive — it's standard practice. The [Japan 3-week route](/en/blog/japan-3-week-route/) shows how to combine bloom timing across multiple regions.
 
 ## Why Should You Avoid Golden Week?
 
@@ -27,7 +27,7 @@ Golden Week (late April to early May) is Japan's major national holiday cluster.
 
 For international tourists, Golden Week is expensive and overcrowded. Unless you specifically want to experience the full spectacle of mass Japanese domestic tourism, it's better to travel a few weeks earlier and accept a little more uncertainty about the sakura forecast.
 
-A [Japan Rail Pass](/en/blog/japan-rail-pass-2026) is still useful if you do travel during Golden Week, since Shinkansen seat reservations sell out fast during this period and the pass lets you hold reservations in advance.
+A [Japan Rail Pass](/en/blog/japan-rail-pass-2026/) is still useful if you do travel during Golden Week, since Shinkansen seat reservations sell out fast during this period and the pass lets you hold reservations in advance.
 
 ## When Is Fall the Best Time to Visit Japan?
 
@@ -37,7 +37,7 @@ September through November brings the second great season: koyo, the autumn foli
 
 **October:** Typhoon risk falls off. Temperatures pleasant (20-28°C), foliage begins in the north. One of the best months to travel in Japan.
 
-**November:** Koyo peak in Tokyo and Kyoto, typically mid to late November. Cool (15-22°C), dry, and very photogenic. A [ryokan stay](/en/blog/japanese-ryokan-guide) during this period is particularly atmospheric, with gardens at their finest.
+**November:** Koyo peak in Tokyo and Kyoto, typically mid to late November. Cool (15-22°C), dry, and very photogenic. A [ryokan stay](/en/blog/japanese-ryokan-guide/) during this period is particularly atmospheric, with gardens at their finest.
 
 ## Which Season Is Cheapest for Japan?
 
@@ -45,7 +45,7 @@ Summer (July and August) and winter (December to February) are the most affordab
 
 **Summer:** Very hot and humid (35°C+ in Tokyo and Osaka). But summer is Matsuri season, with traditional festivals, fireworks over rivers, and rooftop beer gardens. Anyone who can handle the heat gets a completely different side of Japan. Hokkaido in summer is a notable exception: cool, green, and far less crowded.
 
-**Winter:** Cold in the cities (5-15°C in Tokyo), but Hokkaido and the Japanese Alps offer world-class skiing. Temples and shrines in Kyoto and Nara are quiet and significantly cheaper. [Japan beyond Tokyo](/en/blog/japan-beyond-tokyo-guide) rewards winter visitors especially, since crowds thin out considerably. Budget tips for any season are in the [Japan budget travel guide](/en/blog/japan-budget-travel-tips).
+**Winter:** Cold in the cities (5-15°C in Tokyo), but Hokkaido and the Japanese Alps offer world-class skiing. Temples and shrines in Kyoto and Nara are quiet and significantly cheaper. [Japan beyond Tokyo](/en/blog/japan-beyond-tokyo-guide/) rewards winter visitors especially, since crowds thin out considerably. Budget tips for any season are in the [Japan budget travel guide](/en/blog/japan-budget-travel-tips/).
 
 ---
 
@@ -71,6 +71,6 @@ Japan is significantly more expensive than Southeast Asia but more moderate than
 
 ## Read More
 
-- [Japan in 3 Weeks: Best Route](/en/blog/japan-3-week-route)
-- [Japan Rail Pass 2026: Is It Worth It?](/en/blog/japan-rail-pass-2026)
-- [Japanese Ryokan: What to Expect](/en/blog/japanese-ryokan-guide)
+- [Japan in 3 Weeks: Best Route](/en/blog/japan-3-week-route/)
+- [Japan Rail Pass 2026: Is It Worth It?](/en/blog/japan-rail-pass-2026/)
+- [Japanese Ryokan: What to Expect](/en/blog/japanese-ryokan-guide/)

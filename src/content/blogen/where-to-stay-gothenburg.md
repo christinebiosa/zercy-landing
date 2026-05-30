@@ -55,7 +55,7 @@ Gothenburg is a summer destination with exceptions. June through August: long da
 
 **Spring:** April-May, temperatures rising, ferries to the archipelago coast restart.
 
-Gothenburg is the natural starting point of a [Scandinavia road trip](/en/blog/scandinavia-road-trip-route). Oslo is 3 hours away, Copenhagen 3.5 hours. [Visit Sweden](https://www.visitsweden.com) has detailed guides to the West Swedish archipelago, perfect for day trips from the city.
+Gothenburg is the natural starting point of a [Scandinavia road trip](/en/blog/scandinavia-road-trip-route/). Oslo is 3 hours away, Copenhagen 3.5 hours. [Visit Sweden](https://www.visitsweden.com) has detailed guides to the West Swedish archipelago, perfect for day trips from the city.
 
 ## Vasastan: Central and Green
 
@@ -112,6 +112,6 @@ Feskekörka fish market ("Fish Church"), Liseberg amusement park, Haga lanes wit
 ---
 
 ## Read more
-- [Scandinavia Road Trip: The Best Route](/en/blog/scandinavia-road-trip-route)
-- [Where to Stay in Stockholm: Best Neighborhoods](/en/blog/where-to-stay-stockholm)
-- [Best Spring Destinations in Europe](/en/blog/best-spring-destinations-europe)
+- [Scandinavia Road Trip: The Best Route](/en/blog/scandinavia-road-trip-route/)
+- [Where to Stay in Stockholm: Best Neighborhoods](/en/blog/where-to-stay-stockholm/)
+- [Best Spring Destinations in Europe](/en/blog/best-spring-destinations-europe/)

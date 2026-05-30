@@ -79,7 +79,7 @@ La lista de artículos prohibidos en cabina es más larga de lo que parece y var
 - **Cremalleras de queso y alimentos sólidos:** en general permitidos en cabina. Los líquidos como yogur, sopas o salsas en tarrinas grandes no pasan el control.
 - **Artículos médicos (insulina, jeringas):** permitidos con documentación médica. Conviene llevar el informe del médico.
 
-Para viajes donde planeas llevar solo equipaje de cabina, la guía de [dónde alojarse en París](/es/blog/donde-alojarse-paris) tiene consejos sobre dónde guardar la mochila si llegas antes del check-in y necesitas moverte ligero por la ciudad.
+Para viajes donde planeas llevar solo equipaje de cabina, la guía de [dónde alojarse en París](/es/blog/donde-alojarse-paris/) tiene consejos sobre dónde guardar la mochila si llegas antes del check-in y necesitas moverte ligero por la ciudad.
 
 Zercy puede ayudarte a comparar tarifas con y sin equipaje incluido para encontrar la opción más económica en cada ruta. Guarda la comparativa en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -106,6 +106,6 @@ Para viajes de más de dos semanas en destinos baratos (Asia, Centroamérica, Su
 ---
 
 **Leer más:**
-- [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en París](/es/blog/donde-alojarse-paris)
-- [Dónde alojarse en Roma](/es/blog/donde-alojarse-roma)
+- [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en París](/es/blog/donde-alojarse-paris/)
+- [Dónde alojarse en Roma](/es/blog/donde-alojarse-roma/)

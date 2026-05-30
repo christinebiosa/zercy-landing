@@ -29,11 +29,11 @@ Sechs Top-Reiseziele für Nordlicht-Jagd, sortiert nach Erfolgsquote.
 
 **2. Schwedisch Lappland (Abisko).** Statistisch der wolkenfreieste Ort der Welt für Aurora. Ein Mikroklima-Loch sorgt dafür, dass es selbst wenn überall Wolken sind, in Abisko oft klar ist. Beste Erfolgsquote pro Nacht.
 
-**3. Island.** Touristen-Klassiker. Ganz Island ist im Aurora-Bereich. Vorteil: kompakt, gut zu bereisen, viele Tour-Anbieter. Lies dazu unseren [Island-Reiseguide](/blog/island-reiseguide). Nachteil: schnell wechselndes Wetter.
+**3. Island.** Touristen-Klassiker. Ganz Island ist im Aurora-Bereich. Vorteil: kompakt, gut zu bereisen, viele Tour-Anbieter. Lies dazu unseren [Island-Reiseguide](/blog/island-reiseguide/). Nachteil: schnell wechselndes Wetter.
 
 **4. Finnisch Lappland (Rovaniemi, Saariselkä).** Beste Chancen kombiniert mit Glas-Iglu-Hotels. Du siehst die Polarlichter vom Bett aus, falls sie kommen. Teuer, aber besonderes Erlebnis.
 
-**5. Färöer-Inseln.** Geheimtipp. Weniger touristisch als Island oder Norwegen, dramatische Landschaft. Lies dazu unseren [Färöer-Inseln-Guide](/blog/faeroeer-inseln-guide).
+**5. Färöer-Inseln.** Geheimtipp. Weniger touristisch als Island oder Norwegen, dramatische Landschaft. Lies dazu unseren [Färöer-Inseln-Guide](/blog/faeroeer-inseln-guide/).
 
 **6. Schottland (Highlands).** Erstmals 2024-2025 wurden in den Highlands sehr starke Polarlichter gesichtet. 2026 sollte ähnlich gut werden. Günstigere Alternative zu Norwegen.
 
@@ -92,6 +92,6 @@ Tromsø Januar: minus 10 bis minus 25 Grad. Lappland: bis minus 40 Grad. Island:
 ---
 
 **Mehr lesen:**
-- [Island Reiseguide: Die besten Routen und Stopps](/blog/island-reiseguide)
-- [Färöer-Inseln: Wilde Schönheit ohne Massentourismus](/blog/faeroeer-inseln-guide)
-- [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026)
+- [Island Reiseguide: Die besten Routen und Stopps](/blog/island-reiseguide/)
+- [Färöer-Inseln: Wilde Schönheit ohne Massentourismus](/blog/faeroeer-inseln-guide/)
+- [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026/)

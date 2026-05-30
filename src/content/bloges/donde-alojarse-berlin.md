@@ -53,7 +53,7 @@ Hoteles: de 90 a 170 euros.
 **Recomendación:**
 - **Hotel Oderberger** (antigua piscina pública del siglo XIX reconvertida, aprox. 150 €)
 
-Para otras ciudades con historia y vida cultural vibrante, consulta también [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest) y [dónde alojarse en Praga](/es/blog/donde-alojarse-praga).
+Para otras ciudades con historia y vida cultural vibrante, consulta también [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/) y [dónde alojarse en Praga](/es/blog/donde-alojarse-praga/).
 
 ## Kreuzberg y Neukölln: La escena creativa
 
@@ -100,6 +100,6 @@ No, Berlín es considerablemente más económica que Londres, París o Ámsterda
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Ámsterdam: Centrum, Jordaan o De Pijp](/es/blog/donde-alojarse-amsterdam)
-- [Dónde alojarse en Praga: Ciudad Vieja, Malá Strana o Vinohrady](/es/blog/donde-alojarse-praga)
-- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest)
+- [Dónde alojarse en Ámsterdam: Centrum, Jordaan o De Pijp](/es/blog/donde-alojarse-amsterdam/)
+- [Dónde alojarse en Praga: Ciudad Vieja, Malá Strana o Vinohrady](/es/blog/donde-alojarse-praga/)
+- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest/)

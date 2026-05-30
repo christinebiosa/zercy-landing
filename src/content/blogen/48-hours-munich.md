@@ -83,7 +83,7 @@ Food: bakery breakfast 3 to 5 euros. Lunch at a traditional restaurant 12 to 16 
 
 Museums: Alte Pinakothek on Sunday costs 1 euro. BMW Welt is free. Olympiapark grounds are free. Nymphenburg park is free. With a little planning the cultural spend stays low.
 
-For cutting travel costs, the [cheap flights guide](/en/blog/cheap-flights-tips) covers the best strategies for booking Munich flights. Our [48 hours Vienna guide](/en/blog/48-hours-vienna) shows how a very similar Central European city weekend works.
+For cutting travel costs, the [cheap flights guide](/en/blog/cheap-flights-tips/) covers the best strategies for booking Munich flights. Our [48 hours Vienna guide](/en/blog/48-hours-vienna/) shows how a very similar Central European city weekend works.
 
 ## When Is Munich at Its Best?
 
@@ -122,6 +122,6 @@ Train connections from Vienna, Zurich, Frankfurt and Berlin are excellent and of
 ---
 
 **Read more:**
-- [Cheap Flights: The Best Tricks for Low-Cost Tickets](/en/blog/cheap-flights-tips)
-- [48 Hours Vienna: What You Can Actually Do in a Weekend](/en/blog/48-hours-vienna)
-- [Airport Hacks: Save Time and Money at Every Airport](/en/blog/airport-hacks)
+- [Cheap Flights: The Best Tricks for Low-Cost Tickets](/en/blog/cheap-flights-tips/)
+- [48 Hours Vienna: What You Can Actually Do in a Weekend](/en/blog/48-hours-vienna/)
+- [Airport Hacks: Save Time and Money at Every Airport](/en/blog/airport-hacks/)

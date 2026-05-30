@@ -55,13 +55,13 @@ Günstiger geht mit Campervan und mehr Free Camping. Teurer wird es mit luxuriö
 Drei klassische Routen, die auf verschiedene Geschmäcker passen:
 
 **West Coast: Los Angeles bis Portland**
-Die schönste Küstenfahrt der Welt. Vom Süden kommend: Santa Monica Pier, Big Sur (enge Kurven, also lieber mit Campervan), Monterey Bay, San Francisco, Avenue of the Giants mit den Redwood-Riesen, dann Oregon Coast bis Portland. Drei bis vier Wochen ideal, zwei Wochen für eine Schnellversion. Der [US-Westkustenroadtrip](/blog/us-westkueste-roadtrip) hat mehr Details zur Route.
+Die schönste Küstenfahrt der Welt. Vom Süden kommend: Santa Monica Pier, Big Sur (enge Kurven, also lieber mit Campervan), Monterey Bay, San Francisco, Avenue of the Giants mit den Redwood-Riesen, dann Oregon Coast bis Portland. Drei bis vier Wochen ideal, zwei Wochen für eine Schnellversion. Der [US-Westkustenroadtrip](/blog/us-westkueste-roadtrip/) hat mehr Details zur Route.
 
 **Southwest Loop: Las Vegas bis Bryce Canyon**
-Das ist die Nationalpark-Dichte-Route schlechthin. Las Vegas als Startpunkt (günstige Flüge, großer Flughafen), dann Zion National Park, Bryce Canyon, Capitol Reef, Arches, Canyonlands und zurück über den Grand Canyon. In zwei Wochen gut machbar. Sommer vermeiden, es ist brutal heiß. April/Mai und September/Oktober sind ideal. Mehr zum Thema Nationalparks im [USA Nationalparks Reiseguide](/blog/usa-nationalparks-reiseguide).
+Das ist die Nationalpark-Dichte-Route schlechthin. Las Vegas als Startpunkt (günstige Flüge, großer Flughafen), dann Zion National Park, Bryce Canyon, Capitol Reef, Arches, Canyonlands und zurück über den Grand Canyon. In zwei Wochen gut machbar. Sommer vermeiden, es ist brutal heiß. April/Mai und September/Oktober sind ideal. Mehr zum Thema Nationalparks im [USA Nationalparks Reiseguide](/blog/usa-nationalparks-reiseguide/).
 
 **Route 66: Chicago bis Santa Monica**
-4.000 Kilometer, die ganze amerikanische Geschichte dazwischen. Nicht die schnellste Verbindung, aber eine der authentischsten. Verlassene Motels, Diners aus den 50ern, Wüstenlandschaften in New Mexico. Zwei bis drei Wochen für das volle Erlebnis. Details dazu im [Route 66 Roadtrip Guide](/blog/route-66-usa-roadtrip).
+4.000 Kilometer, die ganze amerikanische Geschichte dazwischen. Nicht die schnellste Verbindung, aber eine der authentischsten. Verlassene Motels, Diners aus den 50ern, Wüstenlandschaften in New Mexico. Zwei bis drei Wochen für das volle Erlebnis. Details dazu im [Route 66 Roadtrip Guide](/blog/route-66-usa-roadtrip/).
 
 ## Welche Apps brauchst du wirklich für einen RV-Trip?
 
@@ -81,7 +81,7 @@ Das Ökosystem der RV-Apps hat sich in den letzten Jahren stark entwickelt.
 
 Dump Stations (Abwasserentsorgung) findet man über Sanidumps.com. Frisches Wasser bekommt du an den meisten Campgrounds, auch als "Water Fill-up" an vielen Walmart-Parkplätzen und einigen Campground-Büros. Propan für Herd und Heizung gibt es an Walmart, Camping World und vielen kleinen Tankstellen. Shore Power (Stromanschluss) gibt es nur an Campgrounds mit Hookups, also plane für Generator-Campgrounds eine externe Powerstation ein oder achte auf den Batteriestand.
 
-Beim [Mietwagen-Check](/blog/mietwagen-check) findest du allgemeine Tipps zu Fahrzeugmiete in den USA, die auch für RVs gelten.
+Beim [Mietwagen-Check](/blog/mietwagen-check/) findest du allgemeine Tipps zu Fahrzeugmiete in den USA, die auch für RVs gelten.
 
 ---
 
@@ -108,6 +108,6 @@ RVs haben zwei Wassertanks: Grauwasser (Dusche, Spüle) und Schwarzwasser (Toile
 ---
 
 **Mehr lesen:**
-- [US-Westküsten-Roadtrip: Die komplette Route](/blog/us-westkueste-roadtrip)
-- [USA Nationalparks: Der Reiseguide](/blog/usa-nationalparks-reiseguide)
-- [Route 66 Roadtrip: Was du wissen musst](/blog/route-66-usa-roadtrip)
+- [US-Westküsten-Roadtrip: Die komplette Route](/blog/us-westkueste-roadtrip/)
+- [USA Nationalparks: Der Reiseguide](/blog/usa-nationalparks-reiseguide/)
+- [Route 66 Roadtrip: Was du wissen musst](/blog/route-66-usa-roadtrip/)

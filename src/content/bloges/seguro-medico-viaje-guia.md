@@ -69,7 +69,7 @@ La OCU y la Organización de Consumidores y Usuarios comparan regularmente segur
 
 **También útil dentro de la UE** si quieres acceso a clínicas privadas, cobertura de traslado o viajas a países con sistemas sanitarios más débiles.
 
-Más en la guía [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena) y en la guía de [parques nacionales de EE.UU.](/es/blog/parques-nacionales-usa-guia).
+Más en la guía [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/) y en la guía de [parques nacionales de EE.UU.](/es/blog/parques-nacionales-usa-guia/).
 
 ---
 
@@ -95,5 +95,5 @@ Las enfermedades preexistentes son el punto más crítico. La mayoría de póliz
 
 ## Más información
 
-- [Seguro de viaje: ¿Vale la pena contratarlo en 2026?](/es/blog/seguro-viaje-vale-la-pena)
-- [Parques nacionales de EE.UU.: Guía de viaje](/es/blog/parques-nacionales-usa-guia)
+- [Seguro de viaje: ¿Vale la pena contratarlo en 2026?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Parques nacionales de EE.UU.: Guía de viaje](/es/blog/parques-nacionales-usa-guia/)

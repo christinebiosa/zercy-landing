@@ -59,7 +59,7 @@ Busca una póliza sin exclusión por preexistencia o con cláusula suavizada. Es
 - Vuelos baratos de última hora con costes totales bajos
 - Escapadas cortas de menos de 500 euros en total
 
-Más sobre este equilibrio en la guía completa de [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena). Especialmente relevante para cruceros en la [guía de cruceros para principiantes](/es/blog/crucero-guia-principiantes).
+Más sobre este equilibrio en la guía completa de [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/). Especialmente relevante para cruceros en la [guía de cruceros para principiantes](/es/blog/crucero-guia-principiantes/).
 
 ## ¿Qué alternativas existen al seguro de cancelación?
 
@@ -93,6 +93,6 @@ Eso es una cobertura diferente (seguro de insolvencia). Según la legislación d
 
 ## Más información
 
-- [Seguro de viaje: ¿Vale la pena contratarlo en 2026?](/es/blog/seguro-viaje-vale-la-pena)
-- [Cruceros para principiantes: Todo lo que necesitas saber](/es/blog/crucero-guia-principiantes)
-- [Viaje organizado vs. viaje independiente: ¿Cuál es mejor?](/es/blog/viaje-organizado-vs-independiente)
+- [Seguro de viaje: ¿Vale la pena contratarlo en 2026?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Cruceros para principiantes: Todo lo que necesitas saber](/es/blog/crucero-guia-principiantes/)
+- [Viaje organizado vs. viaje independiente: ¿Cuál es mejor?](/es/blog/viaje-organizado-vs-independiente/)

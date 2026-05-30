@@ -115,6 +115,6 @@ El mínimo recomendado es 72 horas antes del vuelo. Lo ideal es solicitarlo con 
 ---
 
 **Más información:**
-- [Guía para solicitar un visado: todo el proceso paso a paso](/es/blog/solicitud-visa-guia)
-- [Países con visa a la llegada 2026: sin visado previo](/es/blog/paises-visa-llegada-2026)
-- [Documentos de viaje: lo que realmente necesitas](/es/blog/documentos-viaje-guia)
+- [Guía para solicitar un visado: todo el proceso paso a paso](/es/blog/solicitud-visa-guia/)
+- [Países con visa a la llegada 2026: sin visado previo](/es/blog/paises-visa-llegada-2026/)
+- [Documentos de viaje: lo que realmente necesitas](/es/blog/documentos-viaje-guia/)

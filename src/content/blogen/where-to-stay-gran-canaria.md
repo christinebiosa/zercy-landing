@@ -73,7 +73,7 @@ Gran Canaria works very well with [Booking.com](https://www.booking.com). The al
 
 Tip: The cheapest time is November to January (except Carnival in February: then prices across the south spike dramatically).
 
-More Spain: [Where to stay in Madrid](/en/blog/where-to-stay-madrid), [Where to stay in Barcelona](/en/blog/where-to-stay-barcelona).
+More Spain: [Where to stay in Madrid](/en/blog/where-to-stay-madrid/), [Where to stay in Barcelona](/en/blog/where-to-stay-barcelona/).
 
 ---
 
@@ -101,6 +101,6 @@ Small cars from €20-30 per day in low season, €35-55 in winter/high season. 
 
 ## Read more
 
-- [Where to stay in Madrid: Neighborhoods and hotels](/en/blog/where-to-stay-madrid)
-- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026)
-- [Where to stay in Ibiza: Area guide 2026](/en/blog/where-to-stay-ibiza)
+- [Where to stay in Madrid: Neighborhoods and hotels](/en/blog/where-to-stay-madrid/)
+- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026/)
+- [Where to stay in Ibiza: Area guide 2026](/en/blog/where-to-stay-ibiza/)

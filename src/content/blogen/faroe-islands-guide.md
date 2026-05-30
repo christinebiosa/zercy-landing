@@ -55,13 +55,13 @@ The Faroes aren't cheap, but cheaper than Iceland.
 
 **Flight.** Atlantic Airways flies direct from Copenhagen, Hamburg, Edinburgh and Reykjavík. Round-trip: $280-500 depending on season.
 
-**Rental car.** Mandatory for mobility. About $70-90 per day. Book months ahead in high season. See our [rental car checklist](/en/blog/rental-car-checklist). On the Faroes you need full insurance with no deductible.
+**Rental car.** Mandatory for mobility. About $70-90 per day. Book months ahead in high season. See our [rental car checklist](/en/blog/rental-car-checklist/). On the Faroes you need full insurance with no deductible.
 
 **Lodging.** Hotels in Tórshavn: $110-220 per night. Guesthouses $65-110. Airbnb available but limited.
 
 **Food.** Restaurants similar to Scandinavia: main course $28-45. Supermarkets pricier than the US. A week in the Faroes costs about $1,700-2,500 per person including flight.
 
-If similar island destinations interest you, see our [Iceland travel guide](/en/blog/iceland-travel-guide). Plus: if you want sun instead, you might prefer the [Albania Riviera](/en/blog/albania-riviera-hidden-coast).
+If similar island destinations interest you, see our [Iceland travel guide](/en/blog/iceland-travel-guide/). Plus: if you want sun instead, you might prefer the [Albania Riviera](/en/blog/albania-riviera-hidden-coast/).
 
 ---
 
@@ -88,6 +88,6 @@ Direct flight with Atlantic Airways from Copenhagen, Hamburg, Edinburgh, Reykjav
 ---
 
 **Read more:**
-- [Iceland travel guide: best routes and stops](/en/blog/iceland-travel-guide)
-- [Hidden gems in Europe: 7 places without mass tourism](/en/blog/hidden-gems-europe)
-- [Rental car checklist: what to know before booking](/en/blog/rental-car-checklist)
+- [Iceland travel guide: best routes and stops](/en/blog/iceland-travel-guide/)
+- [Hidden gems in Europe: 7 places without mass tourism](/en/blog/hidden-gems-europe/)
+- [Rental car checklist: what to know before booking](/en/blog/rental-car-checklist/)

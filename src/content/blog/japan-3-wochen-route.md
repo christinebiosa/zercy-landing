@@ -55,7 +55,7 @@ Convenience Stores (7-Eleven, FamilyMart, Lawson) sind Japans bestes Geheimnis: 
 
 **Fushimi Inari:** 10.000 rote Torii-Tore den Berg hinauf. Um 6 Uhr morgens fast menschenleer. Um 11 Uhr Massentourismus. Früh aufstehen lohnt sich hier wie nirgendwo sonst.
 
-**Hiroshima:** Das Friedensmuseum und das Atombombenkuppel-Mahnmal gehören zu den bewegendsten Sehenswürdigkeiten der Welt. Plane mindestens einen halben Tag ein. Wer in Hiroshima oder Fukuoka übernachten möchte, findet die besten Viertel in unserem [Hiroshima Hotelguide](/blog/wo-uebernachten-hiroshima) und im [Fukuoka Hotelguide](/blog/wo-uebernachten-fukuoka). Mehr über [Tokio für Foodie-Reisende](/blog/tokio-foodie-reise) in unserem Artikel.
+**Hiroshima:** Das Friedensmuseum und das Atombombenkuppel-Mahnmal gehören zu den bewegendsten Sehenswürdigkeiten der Welt. Plane mindestens einen halben Tag ein. Wer in Hiroshima oder Fukuoka übernachten möchte, findet die besten Viertel in unserem [Hiroshima Hotelguide](/blog/wo-uebernachten-hiroshima/) und im [Fukuoka Hotelguide](/blog/wo-uebernachten-fukuoka/). Mehr über [Tokio für Foodie-Reisende](/blog/tokio-foodie-reise/) in unserem Artikel.
 
 ## Praktische Tipps
 
@@ -84,6 +84,6 @@ Ramen in jeder Variante (Sapporo/Hokkaido: Miso; Tokio: Shoyu; Kyushu: Tonkotsu)
 Von Narita Airport: Narita Express (N'EX) in ca. 60 Minuten nach Shinjuku — ca. 30 Euro. Oder Limousine Bus für 25 Euro. Kein Taxi (teuer). Von Haneda Airport: Monorail oder Keikyu-Linie, ca. 30–40 Minuten für 5–8 Euro. Haneda ist für Tokio deutlich praktischer als Narita.
 
 ## Mehr lesen
-- [Tokio Foodie-Reise: Essen wie ein Einheimischer](/blog/tokio-foodie-reise)
-- [Osaka vs. Kyoto: Welche Stadt passt zu dir?](/blog/hidden-city-ticketing-erklaert)
-- [Nachtzüge in Europa und Asien 2026](/blog/nachtzuege-europa-2026)
+- [Tokio Foodie-Reise: Essen wie ein Einheimischer](/blog/tokio-foodie-reise/)
+- [Osaka vs. Kyoto: Welche Stadt passt zu dir?](/blog/hidden-city-ticketing-erklaert/)
+- [Nachtzüge in Europa und Asien 2026](/blog/nachtzuege-europa-2026/)

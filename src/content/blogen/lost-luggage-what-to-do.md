@@ -47,7 +47,7 @@ That's the ceiling. What you actually receive depends on the proven value of the
 
 For an averagely packed holiday suitcase with clothing, €400 to €600 is realistic if there were no expensive individual items.
 
-For extra protection, see the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026).
+For extra protection, see the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 ## How do you protect yourself against luggage loss?
 
@@ -59,7 +59,7 @@ Prevention is better than compensation.
 
 **Distinctive bag:** A striking sticker or unusual colour helps. Identical black trolleys sometimes get taken by other passengers.
 
-**Travel insurance or credit card cover:** Many premium credit cards (American Express Gold, Visa Infinite and others) include baggage protection as a free benefit. Check your card before buying a separate policy. More on this in the [carry-on packing guide](/en/blog/carry-on-packing-system).
+**Travel insurance or credit card cover:** Many premium credit cards (American Express Gold, Visa Infinite and others) include baggage protection as a free benefit. Check your card before buying a separate policy. More on this in the [carry-on packing guide](/en/blog/carry-on-packing-system/).
 
 ---
 
@@ -85,6 +85,6 @@ Travel baggage insurance covers loss, theft and damage. Standard travel health i
 
 ## Read more
 
-- [Carry-On Packing: The System That Works](/en/blog/carry-on-packing-system)
-- [Travel Insurance: What's Worth Having in 2026](/en/blog/travel-insurance-worth-it-2026)
-- [Airport Guide: Sleeping and Surviving Every Airport](/en/blog/sleeping-at-airport-guide)
+- [Carry-On Packing: The System That Works](/en/blog/carry-on-packing-system/)
+- [Travel Insurance: What's Worth Having in 2026](/en/blog/travel-insurance-worth-it-2026/)
+- [Airport Guide: Sleeping and Surviving Every Airport](/en/blog/sleeping-at-airport-guide/)

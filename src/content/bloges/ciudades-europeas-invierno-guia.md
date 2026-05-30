@@ -25,7 +25,7 @@ Y luego están los cafés vieneses en invierno. No hay mejor lugar para tomar un
 
 Precios en diciembre: hoteles de gama media 130-220 EUR, los fines de semana previos a Navidad son los más caros. Para presupuestos ajustados: reservar a principios de diciembre o durante la semana de Navidad (23-26 de diciembre) cuando baja la afluencia.
 
-Consulta también nuestra [guía de barrios de Viena](/es/blog/donde-alojarse-viena) para consejos prácticos de alojamiento.
+Consulta también nuestra [guía de barrios de Viena](/es/blog/donde-alojarse-viena/) para consejos prácticos de alojamiento.
 
 ### Praga: Atmósfera medieval invernal y precios accesibles
 
@@ -49,7 +49,7 @@ Reikiavik es la base para las auroras boreales de noviembre a marzo. La combinac
 
 Islandia en invierno es cara. Hotel en Reikiavik: 180-350 EUR por noche. Auto de alquiler para excursiones: 80-150 EUR/día. Piscinas termales (Laguna Azul o Sky Lagoon): 60-100 EUR por persona. Todo suma.
 
-Pero no hay manera barata de ver auroras boreales. Reikiavik es la puerta de entrada más accesible a la Aurora Boreal en Europa. Más detalles en nuestra [guía de auroras boreales 2026](/es/blog/auroras-boreales-2026).
+Pero no hay manera barata de ver auroras boreales. Reikiavik es la puerta de entrada más accesible a la Aurora Boreal en Europa. Más detalles en nuestra [guía de auroras boreales 2026](/es/blog/auroras-boreales-2026/).
 
 ### Oporto: Encanto lluvioso, casi sin turistas
 
@@ -57,7 +57,7 @@ Oporto en invierno es uno de los secretos mejor guardados de Europa. Cielo gris,
 
 La ventaja práctica: los hoteles en Oporto cuestan 70-120 EUR en enero, los Airbnbs incluso menos. El Valle del Duero, visita obligada en verano, se puede disfrutar en completa calma.
 
-Para más información sobre Oporto: [Los mejores hoteles en Oporto](/es/blog/donde-alojarse-oporto).
+Para más información sobre Oporto: [Los mejores hoteles en Oporto](/es/blog/donde-alojarse-oporto/).
 
 ### Sevilla y Málaga: Sol de invierno real sin volar lejos
 
@@ -124,6 +124,6 @@ Es básicamente oferta y demanda: menos viajeros en invierno significa precios m
 ---
 
 **Más información:**
-- [Los mejores hoteles en Viena: Dónde alojarse en 2026](/es/blog/donde-alojarse-viena)
-- [Auroras boreales 2026: Dónde, cuándo y cómo verlas de verdad](/es/blog/auroras-boreales-2026)
-- [Joyas ocultas de Europa: Las ciudades que todavía valen la pena](/es/blog/joyas-ocultas-europa)
+- [Los mejores hoteles en Viena: Dónde alojarse en 2026](/es/blog/donde-alojarse-viena/)
+- [Auroras boreales 2026: Dónde, cuándo y cómo verlas de verdad](/es/blog/auroras-boreales-2026/)
+- [Joyas ocultas de Europa: Las ciudades que todavía valen la pena](/es/blog/joyas-ocultas-europa/)

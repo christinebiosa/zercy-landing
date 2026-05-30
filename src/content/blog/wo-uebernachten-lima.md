@@ -115,6 +115,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel Miraflores, Menú-del-Dí
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Buenos Aires: Die 5 Stadtteile](/blog/wo-uebernachten-buenos-aires)
-- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
-- [Solo-Reisen als Frau: 7 sichere Länder + Tipps](/blog/solo-reisen-frauen-sicher)
+- [Wo übernachten in Buenos Aires: Die 5 Stadtteile](/blog/wo-uebernachten-buenos-aires/)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena/)
+- [Solo-Reisen als Frau: 7 sichere Länder + Tipps](/blog/solo-reisen-frauen-sicher/)

@@ -106,4 +106,4 @@ Es gibt zwei JRP-Versionen: Ordinary (Standardklasse) und Green (entspricht der 
 
 Ja. Beide nebeneinander zu nutzen ist die Standardstrategie. Den JRP für alle JR-Langstrecken und Shinkansen. Die Suica-Karte für die U-Bahn, Privatbahnen und städtische Busse. Suica funktioniert zudem als kontaktlose Zahlungskarte in Supermärkten, Automaten und vielen Restaurants.
 
-**Mehr lesen:** [48 Stunden Kyoto: Was wirklich bleibt](/blog/48-stunden-kyoto) · [Ryokan in Japan: Was dich erwartet](/blog/japanisches-ryokan-guide) · [Tokio: Wo übernachten wirklich lohnt](/blog/wo-uebernachten-tokio)
+**Mehr lesen:** [48 Stunden Kyoto: Was wirklich bleibt](/blog/48-stunden-kyoto/) · [Ryokan in Japan: Was dich erwartet](/blog/japanisches-ryokan-guide/) · [Tokio: Wo übernachten wirklich lohnt](/blog/wo-uebernachten-tokio/)

@@ -56,7 +56,7 @@ Two very different options worth highlighting.
 
 ## Hidden Gems: Albania and Montenegro
 
-**Albanian Riviera:** Ksamil, Dhermi, Drymades. Turquoise water, white pebble beaches, no mass tourism infrastructure yet. Significantly cheaper than Greece. Direct comparison with Mykonos: a quarter of the cost. Reachable via flight to Tirana or Corfu, then bus south. The [Albania Riviera guide](/en/blog/albania-riviera-hidden-coast) covers the route in detail.
+**Albanian Riviera:** Ksamil, Dhermi, Drymades. Turquoise water, white pebble beaches, no mass tourism infrastructure yet. Significantly cheaper than Greece. Direct comparison with Mykonos: a quarter of the cost. Reachable via flight to Tirana or Corfu, then bus south. The [Albania Riviera guide](/en/blog/albania-riviera-hidden-coast/) covers the route in detail.
 
 **Ada Bojana, Montenegro:** River delta between the Bojana River and the Adriatic, nature reserve. Naturism is traditional but not required. Calm lagoon on one side, open sea on the other. Accessible via Ulcinj. Minimal infrastructure, maximum nature.
 
@@ -77,7 +77,7 @@ Some beaches on this list are only accessible with your own vehicle. Book rental
 
 Parking fees, sunbeds, and boat tours add up fast. A budget of 30-60 EUR per person per beach day is realistic at premium spots. On the Albanian Riviera you can manage on 10-15 EUR.
 
-For rental car planning, the [rental car checklist](/en/blog/rental-car-checklist) helps avoid unexpected costs.
+For rental car planning, the [rental car checklist](/en/blog/rental-car-checklist/) helps avoid unexpected costs.
 
 ---
 
@@ -104,6 +104,6 @@ Cala Mondragó on Mallorca is ideal: national park, shallow water, no motorboat 
 ---
 
 **Read more:**
-- [Albania Riviera: The Hidden Coast Guide](/en/blog/albania-riviera-hidden-coast)
-- [Where to Stay in Mykonos: The 5 Neighborhoods](/en/blog/where-to-stay-mykonos)
-- [Rental Car Checklist: What You Really Need to Check](/en/blog/rental-car-checklist)
+- [Albania Riviera: The Hidden Coast Guide](/en/blog/albania-riviera-hidden-coast/)
+- [Where to Stay in Mykonos: The 5 Neighborhoods](/en/blog/where-to-stay-mykonos/)
+- [Rental Car Checklist: What You Really Need to Check](/en/blog/rental-car-checklist/)

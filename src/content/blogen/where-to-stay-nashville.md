@@ -45,7 +45,7 @@ The Gulch was once a freight rail yard. Today it is Nashville's most sought-afte
 
 **Top picks:** 1 Hotel Nashville (sustainable luxury hotel with a rooftop, exceptional), Virgin Hotels Nashville (lifestyle hotel, excellent bar), The Joseph Nashville (Curio Collection by Hilton, art-focused, very personal).
 
-Similar boutique vibes in another Southern music city: our [New Orleans guide](/en/blog/where-to-stay-new-orleans) shows what that looks like there.
+Similar boutique vibes in another Southern music city: our [New Orleans guide](/en/blog/where-to-stay-new-orleans/) shows what that looks like there.
 
 ## When Is the Best Time to Visit Nashville?
 
@@ -117,6 +117,6 @@ January and February are the cheapest months. Prices drop 40-50% below summer le
 ---
 
 **Read more:**
-- [Where to Stay in New Orleans: Neighborhoods and Hotels](/en/blog/where-to-stay-new-orleans)
-- [Where to Stay in Miami: South Beach to Wynwood](/en/blog/where-to-stay-miami)
-- [Cheap Flights: How to Find the Best Prices](/en/blog/cheap-flights-tips)
+- [Where to Stay in New Orleans: Neighborhoods and Hotels](/en/blog/where-to-stay-new-orleans/)
+- [Where to Stay in Miami: South Beach to Wynwood](/en/blog/where-to-stay-miami/)
+- [Cheap Flights: How to Find the Best Prices](/en/blog/cheap-flights-tips/)

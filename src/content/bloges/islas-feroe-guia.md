@@ -72,6 +72,6 @@ Por la combinación de precio elevado, clima incierto y vuelos limitados. A pesa
 ---
 
 **Más para leer:**
-- [Islandia: la guía de viaje completa 2026](/es/blog/islandia-guia-viaje)
-- [Auroras boreales 2026: dónde y cuándo verlas](/es/blog/auroras-boreales-2026)
-- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa)
+- [Islandia: la guía de viaje completa 2026](/es/blog/islandia-guia-viaje/)
+- [Auroras boreales 2026: dónde y cuándo verlas](/es/blog/auroras-boreales-2026/)
+- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa/)

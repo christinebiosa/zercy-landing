@@ -20,7 +20,7 @@ Las cancelaciones de anfitriones son el segundo problema. Los hosts de Airbnb pu
 
 Y luego están las variaciones de calidad. Las fotos están retocadas. Las descripciones son optimistas. Lo que te espera al llegar puede sorprenderte, para bien o para mal.
 
-Para un análisis más completo, lee nuestra [comparativa Airbnb vs. hotel](/es/blog/airbnb-vs-hotel-comparacion) y descubre cuándo Airbnb realmente gana.
+Para un análisis más completo, lee nuestra [comparativa Airbnb vs. hotel](/es/blog/airbnb-vs-hotel-comparacion/) y descubre cuándo Airbnb realmente gana.
 
 ## ¿Qué alternativa encaja con tu viaje?
 
@@ -42,7 +42,7 @@ Otra ventaja: en VRBO reservas directamente con el propietario. El contacto suel
 
 Las comisiones de VRBO son similares a las de Airbnb, a veces algo menores. Pero el inventario en Europa es más reducido. Para un apartamento en Lisboa o Barcelona, Booking.com es la alternativa más fuerte.
 
-Si necesitas un coche de alquiler, consulta también nuestra guía de [reserva online o directa](/es/blog/reservar-online-o-directo) para conseguir el mejor precio.
+Si necesitas un coche de alquiler, consulta también nuestra guía de [reserva online o directa](/es/blog/reservar-online-o-directo/) para conseguir el mejor precio.
 
 ## ¿Cómo funciona Booking.com como alternativa a Airbnb?
 
@@ -56,7 +56,7 @@ Precios transparentes. Booking.com muestra precios totales con más claridad. La
 
 Las cancelaciones de anfitriones son más raras porque Booking.com aplica políticas más estrictas.
 
-Ideal para: viajes a ciudades europeas, estancias cortas, viajeros que necesitan flexibilidad de cancelación. Más sobre esto en nuestro artículo sobre el [programa Booking Genius y si vale la pena](/es/blog/booking-genius-vale-la-pena).
+Ideal para: viajes a ciudades europeas, estancias cortas, viajeros que necesitan flexibilidad de cancelación. Más sobre esto en nuestro artículo sobre el [programa Booking Genius y si vale la pena](/es/blog/booking-genius-vale-la-pena/).
 
 ## ¿Qué es Plum Guide y cuándo merece la pena?
 
@@ -115,6 +115,6 @@ Muchos anfitriones de Airbnb tienen su propia página web. Busca el nombre del a
 ---
 
 Más artículos:
-- [Airbnb vs. hotel: ¿qué vale realmente la pena?](/es/blog/airbnb-vs-hotel-comparacion)
-- [¿Reservar online o directo: qué es más barato?](/es/blog/reservar-online-o-directo)
-- [¿Booking Genius vale la pena?](/es/blog/booking-genius-vale-la-pena)
+- [Airbnb vs. hotel: ¿qué vale realmente la pena?](/es/blog/airbnb-vs-hotel-comparacion/)
+- [¿Reservar online o directo: qué es más barato?](/es/blog/reservar-online-o-directo/)
+- [¿Booking Genius vale la pena?](/es/blog/booking-genius-vale-la-pena/)

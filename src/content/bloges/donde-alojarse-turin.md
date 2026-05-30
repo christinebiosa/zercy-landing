@@ -45,7 +45,7 @@ San Salvario está justo al sur de la estación Porta Nuova y es el barrio más 
 
 **Mejores opciones:** Combo Torino (moderno híbrido hostel-boutique con café y coworking, perfecto para viajeros solos y parejas jóvenes), Starhotels Majestic Torino (hotel de gama media elegante, central, calidad constante).
 
-San Salvario es uno de los mejores barrios de Italia para el [turismo lento](/es/blog/slow-travel-que-significa). Un Negroni en la Piazza Madama Cristina y la velada se organiza sola.
+San Salvario es uno de los mejores barrios de Italia para el [turismo lento](/es/blog/slow-travel-que-significa/). Un Negroni en la Piazza Madama Cristina y la velada se organiza sola.
 
 ## Quadrilatero Romano: El Turín más antiguo
 
@@ -57,7 +57,7 @@ El Quadrilatero Romano es la parte habitada más antigua de la ciudad, trazada s
 
 **Mejores opciones:** Townhouse 70 (boutique con estilo en un palazzo del siglo XVII, interiores de diseño, excelente ubicación), Casa Amalio (pequeño B&B con carácter personal, ideal para parejas).
 
-Lee nuestra [guía de hoteles boutique](/es/blog/hoteles-boutique-guia): el Quadrilatero es el ejemplo perfecto de por qué los hoteles pequeños suelen superar a las grandes cadenas.
+Lee nuestra [guía de hoteles boutique](/es/blog/hoteles-boutique-guia/): el Quadrilatero es el ejemplo perfecto de por qué los hoteles pequeños suelen superar a las grandes cadenas.
 
 ## ¿Cuándo es la mejor época para visitar Turín?
 
@@ -115,5 +115,5 @@ El Museo Egizio (colección egipcia de primer nivel mundial), la Mole Antonellia
 ---
 
 **Seguir leyendo:**
-- [Dónde alojarse en Florencia: Los mejores barrios](/es/blog/donde-alojarse-florencia)
-- [Dónde alojarse en Milán: Los mejores barrios](/es/blog/donde-alojarse-milan)
+- [Dónde alojarse en Florencia: Los mejores barrios](/es/blog/donde-alojarse-florencia/)
+- [Dónde alojarse en Milán: Los mejores barrios](/es/blog/donde-alojarse-milan/)

@@ -74,6 +74,6 @@ Libra egipcia (EGP). Tipo de cambio: aproximadamente 60 a 70 EGP por euro (2026,
 ---
 
 **Más artículos:**
-- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia)
-- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
-- [India: Guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights)
+- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia/)
+- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)
+- [India: Guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights/)

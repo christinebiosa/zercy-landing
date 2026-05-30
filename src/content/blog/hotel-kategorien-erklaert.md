@@ -35,7 +35,7 @@ Nicht für: Paare ohne Kompromissbereitschaft, Schläfer die Ruhe brauchen, Gesc
 
 **Preise:** 10 bis 30 EUR pro Nacht im Schlafsaal, Privatzimmer 35 bis 70 EUR.
 
-Das Beste an guten Hostels: die Gemeinschaft. Viele Reisende finden hier Reisepartner für Ausflüge oder Restaurantempfehlungen, die kein Reiseführer kennt. Unsere [Hostel-Buchungsguide](/blog/boutique-hotels) erklärt, worauf du bei der Auswahl achten solltest.
+Das Beste an guten Hostels: die Gemeinschaft. Viele Reisende finden hier Reisepartner für Ausflüge oder Restaurantempfehlungen, die kein Reiseführer kennt. Unsere [Hostel-Buchungsguide](/blog/boutique-hotels/) erklärt, worauf du bei der Auswahl achten solltest.
 
 ## Was ist ein Guesthouse oder B&B?
 
@@ -69,7 +69,7 @@ Für wen: Paare auf Städtereise, Design-Interessierte, Wiederholungsbesucher di
 
 **Preise:** 120 bis 350 EUR pro Nacht, je nach Stadt und Sterne-Klasse.
 
-Lohnend besonders in: Portugal, Marokko, Italien, Spanien, Mexiko. Hier ist die Dichte an exzellenten Boutique-Häusern hoch. Unser Artikel [Boutique Hotels: Was dich erwartet](/blog/boutique-hotels) geht tiefer ins Thema.
+Lohnend besonders in: Portugal, Marokko, Italien, Spanien, Mexiko. Hier ist die Dichte an exzellenten Boutique-Häusern hoch. Unser Artikel [Boutique Hotels: Was dich erwartet](/blog/boutique-hotels/) geht tiefer ins Thema.
 
 ## Was unterscheidet ein Lifestyle Hotel vom klassischen Hotel?
 
@@ -81,7 +81,7 @@ Für wen: Digital Nomads, Alleinreisende die Kontakte suchen, Kreativbranche, al
 
 **Preise:** 130 bis 280 EUR pro Nacht.
 
-Viele Lifestyle Hotels erlauben Tages-Co-Working auch für Nicht-Gäste. Ein praktisches Detail für [Workation-Reisende](/blog/workation-steuern-2026).
+Viele Lifestyle Hotels erlauben Tages-Co-Working auch für Nicht-Gäste. Ein praktisches Detail für [Workation-Reisende](/blog/workation-steuern-2026/).
 
 ## Was leistet ein 5-Sterne Hotel wirklich?
 
@@ -138,6 +138,6 @@ All-Inclusive bedeutet, dass Mahlzeiten, Getränke und meist auch Snacks und lok
 ---
 
 **Mehr lesen:**
-- [Hostel oder Hotel: Was ist besser?](/blog/airbnb-vs-hotel-vergleich)
-- [Airbnb vs. Hotel: Der ehrliche Vergleich](/blog/airbnb-vs-hotel-vergleich)
-- [Boutique Hotels: Was dich wirklich erwartet](/blog/boutique-hotels)
+- [Hostel oder Hotel: Was ist besser?](/blog/airbnb-vs-hotel-vergleich/)
+- [Airbnb vs. Hotel: Der ehrliche Vergleich](/blog/airbnb-vs-hotel-vergleich/)
+- [Boutique Hotels: Was dich wirklich erwartet](/blog/boutique-hotels/)

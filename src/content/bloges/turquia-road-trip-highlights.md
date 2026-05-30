@@ -49,7 +49,7 @@ Tras la depreciación de la lira en los últimos años, Turquía es un destino d
 
 **Globo aerostático en Capadocia:** La experiencia más icónica de Turquía sin duda. 150 globos se elevan simultáneamente sobre las chimeneas de hadas al amanecer. Reserva con antelación, los buenos operadores se agotan semanas antes.
 
-**Éfeso (cerca de Selçuk):** La ciudad antigua mejor conservada del mundo. La Biblioteca de Celso, el Gran Teatro, la Calle de los Curetes. Visita al amanecer o por la tarde (evitar el calor del mediodía). Más sobre Estambul en nuestra [guía de alojamiento en Estambul](/es/blog/donde-alojarse-estambul).
+**Éfeso (cerca de Selçuk):** La ciudad antigua mejor conservada del mundo. La Biblioteca de Celso, el Gran Teatro, la Calle de los Curetes. Visita al amanecer o por la tarde (evitar el calor del mediodía). Más sobre Estambul en nuestra [guía de alojamiento en Estambul](/es/blog/donde-alojarse-estambul/).
 
 **Pamukkale:** Terrazas de travertino blanco con agua termal cálida. Único en el mundo. Combinado con las ruinas de Hierápolis, es un día completo de aventura.
 
@@ -80,6 +80,6 @@ Los grandes destinos turísticos (Estambul, Capadocia, costa egea, Riviera) son 
 El desayuno turco (Kahvaltı) con 15–20 pequeños platos es un ritual. Platos de meze como entrante. Kebab Adana, İskender kebab, lahmacun, börek, baklava, zumo de granada recién exprimido. El té turco (çay) en vasitos es el lubricante social: se ofrece constantemente y a menudo es gratis.
 
 ## Más artículos
-- [Dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul)
-- [48 horas en Estambul](/es/blog/48-horas-estambul)
-- [Vuelos baratos: cómo encontrar las mejores ofertas](/es/blog/consejos-vuelos-baratos)
+- [Dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul/)
+- [48 horas en Estambul](/es/blog/48-horas-estambul/)
+- [Vuelos baratos: cómo encontrar las mejores ofertas](/es/blog/consejos-vuelos-baratos/)

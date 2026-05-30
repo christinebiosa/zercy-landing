@@ -49,7 +49,7 @@ Hotels und Villen in Dobrota sind oft in restaurierten venezianischen Bauten unt
 
 **Top-Picks:** Hotel Forza Leo (kleines Uferhotel mit Balkonblick auf die Bucht), Cattaro Design Hotel (modernes Design, Uferterrasse), diverse Villen mit Privatstrand.
 
-Wer die kroatische Küste dazunimmt: Der [Kotor-Dubrovnik-Korridor](/blog/wo-uebernachten-dubrovnik) ist eine der schönsten Küstenfahrten in Europa.
+Wer die kroatische Küste dazunimmt: Der [Kotor-Dubrovnik-Korridor](/blog/wo-uebernachten-dubrovnik/) ist eine der schönsten Küstenfahrten in Europa.
 
 ## Wann ist die beste Reisezeit für Kotor?
 
@@ -81,7 +81,7 @@ Lokale Einheimische, keine Kreuzfahrttouristen, echte Konobas. Preise sind deutl
 
 **Top-Picks:** Apartments in Privatunterkünften, einige kleine Guesthouses mit Terrassenblick auf die Bucht.
 
-Auch einen Abstecher wert: [Montenegro hat mit dem Budva-Korridor](/blog/wo-uebernachten-split) eine weitere attraktive Adria-Alternative.
+Auch einen Abstecher wert: [Montenegro hat mit dem Budva-Korridor](/blog/wo-uebernachten-split/) eine weitere attraktive Adria-Alternative.
 
 ## Tivat/Porto Montenegro: Luxusmarina und Yachten
 
@@ -131,6 +131,6 @@ Die Festungsmauer bis zum Schloss San Giovanni hochlaufen (früh morgens), die A
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Dubrovnik: Die 5 Stadtteile](/blog/wo-uebernachten-dubrovnik)
-- [Wo übernachten in Split: Palast oder Strand](/blog/wo-uebernachten-split)
-- [Albanien Riviera: Der Geheimtipp an der Adria](/blog/albanien-riviera-geheimtipp)
+- [Wo übernachten in Dubrovnik: Die 5 Stadtteile](/blog/wo-uebernachten-dubrovnik/)
+- [Wo übernachten in Split: Palast oder Strand](/blog/wo-uebernachten-split/)
+- [Albanien Riviera: Der Geheimtipp an der Adria](/blog/albanien-riviera-geheimtipp/)

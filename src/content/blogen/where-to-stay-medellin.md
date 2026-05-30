@@ -45,7 +45,7 @@ West of Centro, the local neighborhood. Fewer tourists, more locals, coffee spec
 
 **Top picks:** Hotel Acqua (boutique with pool), Diez Hotel Categoría Colombia (modern mid-range), Sites Hotel Medellín (boutique).
 
-See our [Bogotá guide](/en/blog/where-to-stay-bogota) for the Colombian capital variant.
+See our [Bogotá guide](/en/blog/where-to-stay-bogota/) for the Colombian capital variant.
 
 ## When is the best time to visit Medellín?
 
@@ -124,6 +124,6 @@ Backpacker: $550-900 per person incl. flight (hostel in Poblado, local food $5-1
 ---
 
 **Read more:**
-- [Where to stay in Bogotá: 4 neighborhoods](/en/blog/where-to-stay-bogota)
-- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena)
-- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026)
+- [Where to stay in Bogotá: 4 neighborhoods](/en/blog/where-to-stay-bogota/)
+- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena/)
+- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026/)

@@ -23,7 +23,7 @@ Es la pregunta más importante. La respuesta depende de cuánto tiempo vas a que
 
 **Visa E33G para Nómadas Digitales:** La respuesta de Indonesia a la demanda de trabajo remoto legal. Válida hasta 5 años, permite trabajar legalmente para empleadores no indonesios desde Bali. El inconveniente: es cara y burocráticamente exigente. Los costos rondan entre 1.500 y 3.000 USD dependiendo del proveedor, además de documentación de ingresos (generalmente al menos 2.000 USD mensuales). Para nómadas que planean establecerse en Bali a largo plazo con plena seguridad legal, es la opción más limpia.
 
-Para comparar las opciones de visa nómada digital en distintos países, consulta nuestra guía de [Países con Visa Nómada Digital 2026](/es/blog/visa-nomada-digital-paises-2026).
+Para comparar las opciones de visa nómada digital en distintos países, consulta nuestra guía de [Países con Visa Nómada Digital 2026](/es/blog/visa-nomada-digital-paises-2026/).
 
 ## ¿Desde dónde trabajar mejor en Bali?
 
@@ -49,7 +49,7 @@ Bali es más barato que Europa. Pero no es más barato que hace cinco años.
 
 **Transporte:** Un scooter cuesta entre 5 y 7 USD por día, o 60-90 USD al mes. En Canggu y Ubud es el medio de transporte estándar. Grab (servicio de transporte por app) es útil para trayectos cortos. Para excursiones por la isla, un conductor privado para el día sale por unos 40-60 USD.
 
-Para entender las implicaciones fiscales del trabajo remoto desde el extranjero, consulta nuestra guía sobre [Workation e Impuestos 2026](/es/blog/workation-impuestos-2026).
+Para entender las implicaciones fiscales del trabajo remoto desde el extranjero, consulta nuestra guía sobre [Workation e Impuestos 2026](/es/blog/workation-impuestos-2026/).
 
 ## ¿Qué debes saber de Bali antes de ir?
 
@@ -65,7 +65,7 @@ Algunas cosas que pillan desprevenidos a la mayoría de los que van por primera 
 
 **Salud:** El dengue está presente en Bali. El repelente de mosquitos no es opcional, especialmente en temporada de lluvias. Las quemaduras solares y la deshidratación son los motivos más frecuentes por los que los visitantes pierden un día en cama. Bebe siempre agua embotellada.
 
-Para opciones de alojamiento en todos los rangos de precio, consulta nuestra guía de [Dónde alojarse en Bali](/es/blog/donde-alojarse-bali). Si quieres comparar Bali con otros destinos de workation, nuestra guía de [Workation en Portugal y España 2026](/es/blog/workation-portugal-espana-2026) ofrece una buena referencia.
+Para opciones de alojamiento en todos los rangos de precio, consulta nuestra guía de [Dónde alojarse en Bali](/es/blog/donde-alojarse-bali/). Si quieres comparar Bali con otros destinos de workation, nuestra guía de [Workation en Portugal y España 2026](/es/blog/workation-portugal-espana-2026/) ofrece una buena referencia.
 
 ---
 
@@ -87,6 +87,6 @@ En coworkings establecidos como Dojo Bali o Hubud, el internet es sólido (50-20
 
 ## Seguir leyendo
 
-- [Países con Visa Nómada Digital 2026: Dónde Puedes Trabajar Legalmente](/es/blog/visa-nomada-digital-paises-2026)
-- [Workation e Impuestos 2026: Lo Que Realmente Pagas](/es/blog/workation-impuestos-2026)
-- [Dónde Alojarse en Bali: Las Mejores Zonas y Hoteles](/es/blog/donde-alojarse-bali)
+- [Países con Visa Nómada Digital 2026: Dónde Puedes Trabajar Legalmente](/es/blog/visa-nomada-digital-paises-2026/)
+- [Workation e Impuestos 2026: Lo Que Realmente Pagas](/es/blog/workation-impuestos-2026/)
+- [Dónde Alojarse en Bali: Las Mejores Zonas y Hoteles](/es/blog/donde-alojarse-bali/)

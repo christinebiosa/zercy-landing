@@ -34,7 +34,7 @@ Korčula nennt sich "Klein-Dubrovnik" mit Recht. Die mittelalterliche Stadt auf 
 
 Juni und September sind die klare Empfehlung. Das Wasser ist warm genug zum Schwimmen, die Preise sind günstiger als im Hochsommer, und die Fähren sind nicht überfüllt. Im August sind Hvar und Brač extrem voll. Jadrolinija-Fähren fahren dann zwar häufiger, aber Tickets werden teilweise Tage vorher ausgebucht.
 
-Mai geht auch, das Wasser ist aber noch etwas frisch (um die 20 Grad). Oktober ist für Kulturreisen ideal, Strände sind dann leer. Lies dazu auch unseren Artikel zu [Geheimtipps in Europa](/blog/geheimtipps-europa) für weitere Ideen zur Saisonplanung.
+Mai geht auch, das Wasser ist aber noch etwas frisch (um die 20 Grad). Oktober ist für Kulturreisen ideal, Strände sind dann leer. Lies dazu auch unseren Artikel zu [Geheimtipps in Europa](/blog/geheimtipps-europa/) für weitere Ideen zur Saisonplanung.
 
 ## Wie planst du die Fähren und Kosten?
 
@@ -44,7 +44,7 @@ Fähre Split nach Hvar kostet pro Person circa 5 bis 7 Euro. Mit Auto wird es te
 
 Camping ist auf einigen Inseln möglich, besonders auf Brač und Hvar. Günstige Option für Backpacker. Prüfe vorher die aktuellen Öffnungszeiten der Campingplätze, viele öffnen erst ab Mitte Mai.
 
-Für deine Unterkunftsplanung auf den Inseln findest du Tipps in unserem Guide zu [wo übernachten in Dubrovnik](/blog/wo-uebernachten-dubrovnik) als Inspiration für die Küstenregion, sowie im Artikel über [Stopover Tourismus](/blog/stopover-tourismus-guide) für mehrstufige Reiserouten.
+Für deine Unterkunftsplanung auf den Inseln findest du Tipps in unserem Guide zu [wo übernachten in Dubrovnik](/blog/wo-uebernachten-dubrovnik/) als Inspiration für die Küstenregion, sowie im Artikel über [Stopover Tourismus](/blog/stopover-tourismus-guide/) für mehrstufige Reiserouten.
 
 Plane pro Tag auf einer Insel mindestens 40 bis 60 Euro ein (Budget: Unterkunft im Hostel, günstiges Essen, Fähre). Mit mittlerem Komfort eher 80 bis 120 Euro.
 
@@ -71,6 +71,6 @@ Vis gilt als authentischste Insel der Region: wenig Massentourismus, klares Wass
 ---
 
 **Weiterlesen:**
-- [Open-Jaw-Tickets als Reise-Hack](/blog/open-jaw-tickets-reise-hack)
-- [Geheimtipps Europa](/blog/geheimtipps-europa)
-- [Stopover Tourismus Guide](/blog/stopover-tourismus-guide)
+- [Open-Jaw-Tickets als Reise-Hack](/blog/open-jaw-tickets-reise-hack/)
+- [Geheimtipps Europa](/blog/geheimtipps-europa/)
+- [Stopover Tourismus Guide](/blog/stopover-tourismus-guide/)

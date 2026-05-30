@@ -28,7 +28,7 @@ Four situations where you won't regret the money.
 
 **Culturally dense or unfamiliar destinations.** Japan, India, Morocco, Egypt. Places where context isn't optional. A guide at the Acropolis Museum explains what you're looking at. Without one, you walk past exhibits you can't place. The same applies to Auschwitz: here a guide transforms a historical visit into something genuinely affecting. Most visitors say they wouldn't have understood what they were seeing without one.
 
-**When you have only 24 to 48 hours.** Time is the scarcest resource on short trips. A good guide covers in two hours what you'd spend a full day navigating alone. Our [48 Hours in Tokyo guide](/en/blog/48-hours-tokyo) shows how much fits into a tight window.
+**When you have only 24 to 48 hours.** Time is the scarcest resource on short trips. A good guide covers in two hours what you'd spend a full day navigating alone. Our [48 Hours in Tokyo guide](/en/blog/48-hours-tokyo/) shows how much fits into a tight window.
 
 **Traveling with kids.** Children disengage in museums when nobody explains or interacts. A good family guide makes history tangible. That's the difference between a successful and an exhausting day.
 
@@ -38,11 +38,11 @@ Four situations where you won't regret the money.
 
 Just as important: when to save the money.
 
-Well-documented European cities don't need a guide. London, Amsterdam, Vienna, Barcelona, Prague. These cities have excellent audio guides, museum apps, and more podcast content about their history than you could consume in a week. If you're exploring them [at your own pace](/en/blog/slow-travel-what-it-really-means), a fixed itinerary is the last thing you need.
+Well-documented European cities don't need a guide. London, Amsterdam, Vienna, Barcelona, Prague. These cities have excellent audio guides, museum apps, and more podcast content about their history than you could consume in a week. If you're exploring them [at your own pace](/en/blog/slow-travel-what-it-really-means/), a fixed itinerary is the last thing you need.
 
 Beach trips and pure relaxation don't need a guide. If your plan is "beach, pool, food," a tour simply doesn't fit.
 
-When you've done the homework. If you've read books, listened to podcasts, and prepped before the trip, you don't need a guide for the basics. That money is better spent on a good dinner. Our [food travel guide](/en/blog/food-travel-eat-like-a-local) shows how to eat like a local without any help.
+When you've done the homework. If you've read books, listened to podcasts, and prepped before the trip, you don't need a guide for the basics. That money is better spent on a good dinner. Our [food travel guide](/en/blog/food-travel-eat-like-a-local/) shows how to eat like a local without any help.
 
 ## How Do You Find the Best Tours?
 
@@ -50,7 +50,7 @@ GetYourGuide and Viator are the two main booking platforms. Both show ratings an
 
 Read the negative reviews, not the average score. Group too large? Pace too fast? Not enough time at each stop? Those criteria matter more than the star rating.
 
-Free walking tours are almost always the best city introduction. No risk, nothing upfront. You get an overview plus the guide's personal tips for the rest of your stay. It's also where you often find the best [hidden gems](/en/blog/hidden-gems-europe) no guidebook mentions.
+Free walking tours are almost always the best city introduction. No risk, nothing upfront. You get an overview plus the guide's personal tips for the rest of your stay. It's also where you often find the best [hidden gems](/en/blog/hidden-gems-europe/) no guidebook mentions.
 
 ## What's the Verdict?
 
@@ -58,7 +58,7 @@ Do free walking tours in cities. Always. Even with a mediocre guide, you get ori
 
 Book private guides only at culturally complex destinations, when you have limited time, or when safety is involved. Museums with deep history, cultural sites in Asia or North Africa, nature tours with risk: worth every euro.
 
-For well-documented European cities, beach trips, and travel with enough time: save the money and invest in [local experiences](/en/blog/food-travel-eat-like-a-local) no guide can package.
+For well-documented European cities, beach trips, and travel with enough time: save the money and invest in [local experiences](/en/blog/food-travel-eat-like-a-local/) no guide can package.
 
 ---
 
@@ -85,6 +85,6 @@ Airbnb Experiences is the best starting point. Also check hostel noticeboards, l
 ---
 
 **Read more:**
-- [Food Travel: How to Eat Like a Local](/en/blog/food-travel-eat-like-a-local)
-- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means)
-- [Hidden Gems in Europe](/en/blog/hidden-gems-europe)
+- [Food Travel: How to Eat Like a Local](/en/blog/food-travel-eat-like-a-local/)
+- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means/)
+- [Hidden Gems in Europe](/en/blog/hidden-gems-europe/)

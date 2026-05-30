@@ -76,6 +76,6 @@ Yellow fever vaccination is recommended if you travel to the Amazon or certain o
 ---
 
 **Read more:**
-- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials)
-- [Solo Travel for Women: Safest Countries](/en/blog/solo-travel-women-safe-countries)
-- [Argentina Travel Guide](/en/blog/argentina-travel-guide-highlights)
+- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials/)
+- [Solo Travel for Women: Safest Countries](/en/blog/solo-travel-women-safe-countries/)
+- [Argentina Travel Guide](/en/blog/argentina-travel-guide-highlights/)

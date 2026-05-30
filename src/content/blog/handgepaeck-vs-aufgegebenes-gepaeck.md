@@ -28,7 +28,7 @@ Der Zeitgewinn ist real und messbar. Wer nur mit Handgepäck reist, spart an Abf
 
 Bei einem Wochenendtrip nach Lissabon kann die Zeitersparnis bedeuten, dass du früher im Café sitzt statt am Förderband. Bei einem zweiwöchigen Familienurlaub fällt der Unterschied weniger ins Gewicht.
 
-Verbindungsflüge mit kurzem Umstieg funktionieren zuverlässiger ohne aufgegebenes Gepäck. Kein Risiko, dass der Koffer einen anderen Flug nimmt als du. Das ist ein echter Vorteil, den viele unterschätzen. Dazu passend: unser Artikel zu [Open-Jaw-Tickets als Reise-Hack](/blog/open-jaw-tickets-reise-hack) zeigt, wie du Strecken clever kombinierst.
+Verbindungsflüge mit kurzem Umstieg funktionieren zuverlässiger ohne aufgegebenes Gepäck. Kein Risiko, dass der Koffer einen anderen Flug nimmt als du. Das ist ein echter Vorteil, den viele unterschätzen. Dazu passend: unser Artikel zu [Open-Jaw-Tickets als Reise-Hack](/blog/open-jaw-tickets-reise-hack/) zeigt, wie du Strecken clever kombinierst.
 
 ## Wie hoch ist das Risiko, dass aufgegebenes Gepäck verloren geht?
 
@@ -36,17 +36,17 @@ Verluste sind selten, aber nicht negligibel. Laut Statistiken des Airline Passag
 
 Wer wichtige Medikamente, Wertsachen oder Kleidung für einen wichtigen Termin in den Koffer packt, geht ein Risiko ein. Alles was unverzichtbar ist, kommt ins Handgepäck. Das ist die Grundregel.
 
-Wer trotzdem aufgibt: Verpflichtend eine Gepäckversicherung oder eine Kreditkarte mit eingeschlossener Reiseversicherung nutzen. Mehr dazu in unserem Artikel über [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich).
+Wer trotzdem aufgibt: Verpflichtend eine Gepäckversicherung oder eine Kreditkarte mit eingeschlossener Reiseversicherung nutzen. Mehr dazu in unserem Artikel über [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/).
 
 ## Für welche Reisen braucht man wirklich einen Koffer?
 
-Kurztrips bis vier Nächte: Handgepäck reicht in aller Regel aus. Mit der richtigen Packliste passt das Wesentliche in einen 10 kg Rucksack. Unser Guide zur [Capsule Wardrobe fürs Handgepäck](/blog/capsule-wardrobe-handgepaeck) zeigt, was wirklich reinpasst.
+Kurztrips bis vier Nächte: Handgepäck reicht in aller Regel aus. Mit der richtigen Packliste passt das Wesentliche in einen 10 kg Rucksack. Unser Guide zur [Capsule Wardrobe fürs Handgepäck](/blog/capsule-wardrobe-handgepaeck/) zeigt, was wirklich reinpasst.
 
 Familienurlaub mit Kindern: Aufgegebenes Gepäck ist oft sinnvoller. Kindersachen, Sonnencreme in Großflaschen, Spielzeug, Windeln, das passt nicht ins Handgepäck. Hier lohnt es sich, einen großen Koffer aufzugeben statt drei kleine Taschen durch den Flughafen zu schleppen.
 
 Strand- oder Aktivurlaub über eine Woche: Hier ist Koffer oft praktischer. Drei Badekleidung, Sonnenschutzcreme, Wanderschuhe, dickere Kleidung für kühle Abende, das summiert sich schnell.
 
-Geschäftsreisen zwei bis drei Tage: Handgepäck. Immer. Wer regelmäßig auf Dienstreisen ist und seinen Koffer clever packt, spart Zeit und Nerven. Tipps dazu findest du in unserem Artikel [Nur Handgepäck](/blog/nur-handgepaeck).
+Geschäftsreisen zwei bis drei Tage: Handgepäck. Immer. Wer regelmäßig auf Dienstreisen ist und seinen Koffer clever packt, spart Zeit und Nerven. Tipps dazu findest du in unserem Artikel [Nur Handgepäck](/blog/nur-handgepaeck/).
 
 Die Faustregel: Wenn du weniger als fünf Nächte weg bist und keine speziellen Ausrüstungen brauchst, ist Handgepäck fast immer die bessere Wahl. Für alle anderen Reisen rechne die Kosten kurz durch, oft lohnt sich der Koffer trotz Gebühr.
 
@@ -65,7 +65,7 @@ Bei Trips bis vier bis fünf Nächte ohne spezielle Ausrüstung ist Handgepäck 
 Je nach Strecke und Buchungszeitpunkt zwischen 10 und 40 Euro pro Strecke für 20 kg. Online deutlich günstiger als am Flughafen.
 
 #### Welche Gegenstände dürfen nicht ins Handgepäck?
-Flüssigkeiten über 100 ml, spitze Gegenstände, Powerbanks über 100 Wh. Details dazu in unserem Artikel zu [Powerbank-Regeln Handgepäck 2026](/blog/powerbank-regeln-handgepaeck-2026).
+Flüssigkeiten über 100 ml, spitze Gegenstände, Powerbanks über 100 Wh. Details dazu in unserem Artikel zu [Powerbank-Regeln Handgepäck 2026](/blog/powerbank-regeln-handgepaeck-2026/).
 
 #### Wie groß ist das Risiko, dass aufgegebenes Gepäck verloren geht?
 Weltweit gehen jährlich Millionen Gepäckstücke verloren oder kommen verspätet an. Kurzfristige Verzögerungen passieren häufiger als totaler Verlust. Wertsachen gehören immer ins Handgepäck.
@@ -73,6 +73,6 @@ Weltweit gehen jährlich Millionen Gepäckstücke verloren oder kommen verspäte
 ---
 
 **Weiterlesen:**
-- [Nur Handgepäck: Tipps](/blog/nur-handgepaeck)
-- [Capsule Wardrobe fürs Handgepäck](/blog/capsule-wardrobe-handgepaeck)
-- [Handgepäck: Flüssigkeiten-Regeln 2026](/blog/handgepaeck-fluessigkeiten-regeln-2026)
+- [Nur Handgepäck: Tipps](/blog/nur-handgepaeck/)
+- [Capsule Wardrobe fürs Handgepäck](/blog/capsule-wardrobe-handgepaeck/)
+- [Handgepäck: Flüssigkeiten-Regeln 2026](/blog/handgepaeck-fluessigkeiten-regeln-2026/)

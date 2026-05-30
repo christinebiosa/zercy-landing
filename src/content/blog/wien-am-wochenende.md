@@ -38,7 +38,7 @@ Tafelspitz ist das zweite Wiener Pflichgericht. Gekochtes Rindfleisch, Brühe, K
 
 Zum Nachtisch: Apfelstrudel und eine Melange im Café Central. Das Café Central in der Herrengasse ist touristisch, aber es ist auch wirklich schön. Einmal kann das sein.
 
-Für Unterkunftsideen in Wien empfiehlt sich ein Blick auf unseren [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich). Wenn du planst, mit dem Zug anzureisen, findest du alle wichtigen Infos in unserem Guide zu [Zugreisen in Europa](/blog/zugreisen-europa). Und falls du Wien mit anderen Städten kombinieren möchtest, hilft dir der [Geheimtipps Europa Guide](/blog/geheimtipps-europa) bei der Streckenplanung.
+Für Unterkunftsideen in Wien empfiehlt sich ein Blick auf unseren [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich/). Wenn du planst, mit dem Zug anzureisen, findest du alle wichtigen Infos in unserem Guide zu [Zugreisen in Europa](/blog/zugreisen-europa/). Und falls du Wien mit anderen Städten kombinieren möchtest, hilft dir der [Geheimtipps Europa Guide](/blog/geheimtipps-europa/) bei der Streckenplanung.
 
 Die offizielle Tourismusseite [wien.info](https://www.wien.info) bietet aktuelle Veranstaltungskalender und Ticketinformationen für alle grossen Museen und Schlösser.
 
@@ -67,6 +67,6 @@ Café Hawelka (Dorotheergasse), Café Landtmann (Dr.-Karl-Lueger-Ring) und Café
 ---
 
 **Mehr lesen:**
-- [Airbnb vs. Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
-- [Zugreisen in Europa: Der grosse Guide](/blog/zugreisen-europa)
-- [Geheimtipps Europa: Die besten unbekannten Ziele](/blog/geheimtipps-europa)
+- [Airbnb vs. Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich/)
+- [Zugreisen in Europa: Der grosse Guide](/blog/zugreisen-europa/)
+- [Geheimtipps Europa: Die besten unbekannten Ziele](/blog/geheimtipps-europa/)

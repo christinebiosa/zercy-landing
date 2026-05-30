@@ -34,7 +34,7 @@ Key things to watch when buying a policy: many have an age cap. Some end at 70, 
 
 If you travel more than once a year, an annual senior travel insurance policy is often much cheaper than individual policies per trip. Comparison sites and consumer organizations like Which? in the UK or similar bodies in your country regularly test these — worth a quick check before buying.
 
-More on this: [Travel Insurance — Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+More on this: [Travel Insurance — Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
 
 ## Comfort Is Not Luxury — It's Smart Planning
 
@@ -46,7 +46,7 @@ On long-haul flights, business class is at least worth considering. If you have 
 
 Rental car over public transport is another topic worth thinking through. Not everywhere, but in certain regions — the Canary Islands, southern Portugal, rural Spain — a car is the more comfortable and often cheaper solution than buses or taxis.
 
-For accessible travel — whether due to mobility limitations or simply wanting a more relaxed trip: [Accessible Travel: The Complete Guide](/en/blog/accessible-travel-guide)
+For accessible travel — whether due to mobility limitations or simply wanting a more relaxed trip: [Accessible Travel: The Complete Guide](/en/blog/accessible-travel-guide/)
 
 ## Where to Go? Best Destinations for 60+ Travelers
 
@@ -58,7 +58,7 @@ Not every destination suits every traveler. Here are places that 60+ travelers c
 
 **Cruises** deserve their own category for 60+ travelers. Board once, everything included, a new port every morning. No repacking for each hotel, no transfers to arrange, no question of where to eat. Especially for people traveling solo for the first time, or couples who simply want to switch off, it's often the best choice.
 
-Everything about cruises for first-timers: [Cruise Beginner's Guide](/en/blog/cruise-beginners-guide)
+Everything about cruises for first-timers: [Cruise Beginner's Guide](/en/blog/cruise-beginners-guide/)
 
 **Group tours for 60+** are widely popular too. You're not alone, everything is organized, and you meet people quickly. The downside: the pace and program follow the group. Sometimes faster than you'd like, sometimes slower. And group tours aren't always cheaper than independent travel.
 
@@ -79,9 +79,9 @@ The only things you genuinely need: solid travel health insurance, a little plan
 ---
 
 **Read more:**
-- [Travel Insurance — Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Accessible Travel: The Complete Guide](/en/blog/accessible-travel-guide)
-- [Cruise Beginner's Guide](/en/blog/cruise-beginners-guide)
+- [Travel Insurance — Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Accessible Travel: The Complete Guide](/en/blog/accessible-travel-guide/)
+- [Cruise Beginner's Guide](/en/blog/cruise-beginners-guide/)
 
 ---
 

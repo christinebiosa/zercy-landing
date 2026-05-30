@@ -63,6 +63,6 @@ Perfectamente. Eslovenia está en el cruce entre Italia, Austria, Croacia y Hung
 ---
 
 **Más para leer:**
-- [Albania: la riviera que nadie menciona todavía](/es/blog/albania-riviera-escondida)
-- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa)
-- [Viajar en tren por Europa: la guía completa 2026](/es/blog/viajes-tren-europa)
+- [Albania: la riviera que nadie menciona todavía](/es/blog/albania-riviera-escondida/)
+- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa/)
+- [Viajar en tren por Europa: la guía completa 2026](/es/blog/viajes-tren-europa/)

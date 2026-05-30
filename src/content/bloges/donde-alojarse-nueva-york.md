@@ -53,7 +53,7 @@ Hoteles en Brooklyn: de 90 a 220 euros.
 **Recomendación:**
 - **1 Hotel Brooklyn Bridge** (sostenible, vistas al puente, aprox. 250 €)
 
-Para otras grandes ciudades de EE.UU., consulta también [dónde alojarse en Los Ángeles](/es/blog/donde-alojarse-los-angeles) y [dónde alojarse en Nueva Orleans](/es/blog/donde-alojarse-nueva-orleans).
+Para otras grandes ciudades de EE.UU., consulta también [dónde alojarse en Los Ángeles](/es/blog/donde-alojarse-los-angeles/) y [dónde alojarse en Nueva Orleans](/es/blog/donde-alojarse-nueva-orleans/).
 
 ## Upper West Side: Cultura y Central Park
 
@@ -94,6 +94,6 @@ Nueva York en la lluvia sigue funcionando perfectamente. Los museos (Met, MOMA, 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Los Ángeles: Downtown, Santa Mónica o Hollywood](/es/blog/donde-alojarse-los-angeles)
-- [Dónde alojarse en San Francisco: Union Square, Mission o Fisherman's Wharf](/es/blog/donde-alojarse-san-francisco)
-- [Dónde alojarse en Nueva Orleans: French Quarter, Garden District o Marigny](/es/blog/donde-alojarse-nueva-orleans)
+- [Dónde alojarse en Los Ángeles: Downtown, Santa Mónica o Hollywood](/es/blog/donde-alojarse-los-angeles/)
+- [Dónde alojarse en San Francisco: Union Square, Mission o Fisherman's Wharf](/es/blog/donde-alojarse-san-francisco/)
+- [Dónde alojarse en Nueva Orleans: French Quarter, Garden District o Marigny](/es/blog/donde-alojarse-nueva-orleans/)

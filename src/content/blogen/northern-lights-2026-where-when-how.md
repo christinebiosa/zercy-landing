@@ -29,11 +29,11 @@ Six top destinations for aurora hunting, ranked by success rate.
 
 **2. Swedish Lapland (Abisko).** Statistically the most cloud-free aurora spot in the world. A microclimate hole keeps it clear in Abisko even when everywhere else is clouded. Best success rate per night.
 
-**3. Iceland.** Tourist classic. All of Iceland is in the aurora zone. Pro: compact, easy to travel, many tour operators. See our [Iceland travel guide](/en/blog/iceland-travel-guide). Con: rapidly changing weather.
+**3. Iceland.** Tourist classic. All of Iceland is in the aurora zone. Pro: compact, easy to travel, many tour operators. See our [Iceland travel guide](/en/blog/iceland-travel-guide/). Con: rapidly changing weather.
 
 **4. Finnish Lapland (Rovaniemi, Saariselkä).** Best chances combined with glass igloo hotels. You see northern lights from bed if they come. Expensive but special.
 
-**5. Faroe Islands.** Hidden gem. Less touristy than Iceland or Norway, dramatic landscape. See our [Faroe Islands guide](/en/blog/faroe-islands-guide).
+**5. Faroe Islands.** Hidden gem. Less touristy than Iceland or Norway, dramatic landscape. See our [Faroe Islands guide](/en/blog/faroe-islands-guide/).
 
 **6. Scotland (Highlands).** First in 2024-2025 very strong aurora was spotted in the Highlands. 2026 should be similarly good. Cheaper alternative to Norway.
 
@@ -92,6 +92,6 @@ Tromsø January: 14 to minus 13°F. Lapland: down to minus 40°F. Iceland: 23 to
 ---
 
 **Read more:**
-- [Iceland travel guide: best routes and stops](/en/blog/iceland-travel-guide)
-- [Faroe Islands: wild beauty without the crowds](/en/blog/faroe-islands-guide)
-- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026)
+- [Iceland travel guide: best routes and stops](/en/blog/iceland-travel-guide/)
+- [Faroe Islands: wild beauty without the crowds](/en/blog/faroe-islands-guide/)
+- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026/)

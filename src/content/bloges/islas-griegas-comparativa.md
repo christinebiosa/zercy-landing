@@ -55,7 +55,7 @@ Creta para todos los perfiles:
 
 Creta es la única de estas cuatro islas que puedes aprovechar durante más de una semana sin aburrirte.
 
-Lee también nuestra [guía de Islandia](/es/blog/islandia-guia-viaje) para comparar con otras experiencias insulares espectaculares en Europa.
+Lee también nuestra [guía de Islandia](/es/blog/islandia-guia-viaje/) para comparar con otras experiencias insulares espectaculares en Europa.
 
 ## ¿Qué hace diferente a Rodas de las otras tres?
 
@@ -92,6 +92,6 @@ Mínimo 4 noches, idealmente 6-7 noches en una isla. Menos no justifica el viaje
 ---
 
 **Más para leer:**
-- [Islandia: guía de viaje completa](/es/blog/islandia-guia-viaje)
-- [Joyas ocultas de Europa: lugares que aún no conoce todo el mundo](/es/blog/joyas-ocultas-europa)
-- [Auroras boreales 2026: dónde, cuándo y cómo planificar bien el viaje](/es/blog/auroras-boreales-2026)
+- [Islandia: guía de viaje completa](/es/blog/islandia-guia-viaje/)
+- [Joyas ocultas de Europa: lugares que aún no conoce todo el mundo](/es/blog/joyas-ocultas-europa/)
+- [Auroras boreales 2026: dónde, cuándo y cómo planificar bien el viaje](/es/blog/auroras-boreales-2026/)

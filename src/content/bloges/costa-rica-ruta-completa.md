@@ -53,7 +53,7 @@ Presupuesto de referencia para 14 días (sin vuelo internacional): 1.800-3.500 U
 
 **Buses públicos:** los más baratos (2-10 USD por trayecto) pero lentos y con menos frecuencias en destinos remotos.
 
-Para más información sobre el surf en Costa Rica, consulta nuestra guía de [Costa Rica para surfistas](/es/blog/costa-rica-surf).
+Para más información sobre el surf en Costa Rica, consulta nuestra guía de [Costa Rica para surfistas](/es/blog/costa-rica-surf/).
 
 Zercy puede ayudarte a planificar el transporte y el alojamiento para la ruta por Costa Rica. Guarda el itinerario completo en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -80,6 +80,6 @@ Dos semanas es el mínimo para ver el país de forma representativa. Con 10 día
 ---
 
 **Más para leer:**
-- [Costa Rica para surfistas: las mejores playas y temporadas](/es/blog/costa-rica-surf)
-- [Patagonia en 3 semanas: la ruta completa](/es/blog/patagonia-3-semanas-ruta)
-- [Dónde alojarse en Lima: Miraflores, Barranco o San Isidro](/es/blog/donde-alojarse-lima)
+- [Costa Rica para surfistas: las mejores playas y temporadas](/es/blog/costa-rica-surf/)
+- [Patagonia en 3 semanas: la ruta completa](/es/blog/patagonia-3-semanas-ruta/)
+- [Dónde alojarse en Lima: Miraflores, Barranco o San Isidro](/es/blog/donde-alojarse-lima/)

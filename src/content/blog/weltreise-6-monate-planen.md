@@ -34,13 +34,13 @@ Sechs bis zwölf Monate Vorlauf sind realistisch. Nicht weil du so lang brauchst
 
 Die Kündigung ist für die meisten der härteste Schritt. Plane deinen letzten Arbeitstag mindestens vier Monate vor Abreise fest ein. Dann hast du Zeit, Wohnung aufzulösen, Abmeldung beim Einwohnermeldeamt zu erledigen und Versicherungen anzupassen.
 
-Ein Tipp: Sprich früh mit deiner Krankenkasse. Wer sich ins Ausland abmeldet, verliert den gesetzlichen Versicherungsschutz. Wenn du ein [Sabbatical planst statt kündigst](/blog/sabbatical-planen-guide), gibt es andere Optionen.
+Ein Tipp: Sprich früh mit deiner Krankenkasse. Wer sich ins Ausland abmeldet, verliert den gesetzlichen Versicherungsschutz. Wenn du ein [Sabbatical planst statt kündigst](/blog/sabbatical-planen-guide/), gibt es andere Optionen.
 
 ## RTW-Ticket oder Eigenplanung: Was ist besser?
 
 RTW-Tickets von Allianzen wie OneWorld oder Star Alliance klingen verlockend. Ein Ticket, die ganze Welt. In der Praxis sind sie aber oft teurer als einzeln gebuchte Flüge und deutlich unflexibler.
 
-Zercy-Tipp: [Open-Jaw-Tickets](/blog/open-jaw-tickets-reise-hack) sind in den meisten Fällen die bessere Wahl. Du fliegst irgendwo hin, reist auf dem Landweg weiter und fliegst von einem anderen Ort zurück. Das spart Geld und du musst nicht zurück zum Startpunkt.
+Zercy-Tipp: [Open-Jaw-Tickets](/blog/open-jaw-tickets-reise-hack/) sind in den meisten Fällen die bessere Wahl. Du fliegst irgendwo hin, reist auf dem Landweg weiter und fliegst von einem anderen Ort zurück. Das spart Geld und du musst nicht zurück zum Startpunkt.
 
 Konkret: Hinflug nach Bangkok, durch Südostasien reisen, Rückflug von Bali. Oder nach Mexiko City fliegen, Mittelamerika bereisen, von Bogotá zurück. Diese Kombination ist fast immer günstiger als ein RTW-Paket.
 
@@ -59,9 +59,9 @@ Digitale Vorbereitung ist genauso wichtig:
 - Eine Reisekreditkarte ohne Auslandsgebühren (z.B. Wise oder Revolut)
 - Notfallkontakte und Versicherungsnummern offline gespeichert
 
-Zur Versicherung: Das ist kein Bereich zum Sparen. Eine Langzeit-Reisekrankenversicherung ist Pflicht. Anbieter wie [WorldNomads](https://www.worldnomads.com) oder HanseMerkur Langzeit-Reiseschutz sind bewährt. Vergleiche die Bedingungen für Sportarten und Aktivitäten, die du planst, denn Klettern oder Tauchen sind nicht immer inklusive. Mehr dazu findest du in unserem Artikel zur [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich).
+Zur Versicherung: Das ist kein Bereich zum Sparen. Eine Langzeit-Reisekrankenversicherung ist Pflicht. Anbieter wie [WorldNomads](https://www.worldnomads.com) oder HanseMerkur Langzeit-Reiseschutz sind bewährt. Vergleiche die Bedingungen für Sportarten und Aktivitäten, die du planst, denn Klettern oder Tauchen sind nicht immer inklusive. Mehr dazu findest du in unserem Artikel zur [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/).
 
-Wenn du dir vorstellt, nebenbei zu arbeiten, gibt es noch einen anderen Aspekt. Das [Digital-Nomad-Visum für verschiedene Länder 2026](/blog/digital-nomad-visum-laender-2026) ermöglicht dir legal vor Ort zu arbeiten, ohne im Touristenstatus zu bleiben.
+Wenn du dir vorstellt, nebenbei zu arbeiten, gibt es noch einen anderen Aspekt. Das [Digital-Nomad-Visum für verschiedene Länder 2026](/blog/digital-nomad-visum-laender-2026/) ermöglicht dir legal vor Ort zu arbeiten, ohne im Touristenstatus zu bleiben.
 
 ## Zercy hilft dir bei der Routenplanung
 
@@ -89,6 +89,6 @@ Eine Langzeit-Reisekrankenversicherung ist Pflicht. Anbieter wie WorldNomads ode
 
 ## Mehr lesen
 
-- [Open-Jaw-Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack)
-- [Sabbatical planen: So überzeugst du deinen Chef](/blog/sabbatical-planen-guide)
-- [Digital Nomad Visum: Die besten Länder 2026](/blog/digital-nomad-visum-laender-2026)
+- [Open-Jaw-Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack/)
+- [Sabbatical planen: So überzeugst du deinen Chef](/blog/sabbatical-planen-guide/)
+- [Digital Nomad Visum: Die besten Länder 2026](/blog/digital-nomad-visum-laender-2026/)

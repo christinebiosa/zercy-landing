@@ -34,7 +34,7 @@ Si has reservado todo tu viaje en un solo billete (un PNR), la aerolínea factur
 
 La situación es diferente si has reservado dos billetes por separado. Entonces vas por tu cuenta. Es posible que tengas que recoger la maleta y volver a facturarla. Y si pierdes la conexión, nadie paga tu nuevo billete salvo tú. Los itinerarios baratos que combinan dos aerolíneas parecen atractivos sobre el papel, pero ahí es exactamente donde está el riesgo.
 
-[¿Vale realmente la pena un vuelo directo?](/es/blog/vuelo-directo-vs-conexion) La respuesta depende con frecuencia de estos mismos factores.
+[¿Vale realmente la pena un vuelo directo?](/es/blog/vuelo-directo-vs-conexion/) La respuesta depende con frecuencia de estos mismos factores.
 
 ---
 
@@ -46,7 +46,7 @@ Al bajar del avión: ve directamente al agente de puerta. No a información gene
 
 Si eso no funciona: ve al mostrador de cambios de la aerolínea de inmediato. Allí gestionan los rebookings de pasajeros con conexiones perdidas. Cuanto antes llegues, mejores opciones tendrás. Si esperas demasiado, acabarás en un vuelo lleno al día siguiente.
 
-Conocer tus derechos también ayuda. Para vuelos de la UE o con destino a la UE, se aplica el Reglamento EU261. [Lo que te corresponde cuando un retraso te hace perder la conexión](/es/blog/retraso-vuelo-compensacion-eu261) lo explica con todo detalle.
+Conocer tus derechos también ayuda. Para vuelos de la UE o con destino a la UE, se aplica el Reglamento EU261. [Lo que te corresponde cuando un retraso te hace perder la conexión](/es/blog/retraso-vuelo-compensacion-eu261/) lo explica con todo detalle.
 
 ---
 
@@ -56,7 +56,7 @@ Antes de salir, abre Google Flights o Flightradar24 y busca tu primer vuelo. Amb
 
 Consulta directamente en Google Flights si hay alternativas para tu ruta de conexión. Anota números de vuelo y horarios de salida. A veces hay una opción más tarde ese mismo día que todavía tiene asientos. Cuando llegas al mostrador de cambios y dices directamente "quiero que me pongan en el vuelo LH407 a las 19:30", todo va mucho más rápido que "no sé qué hay disponible."
 
-El seguimiento de vuelos también es útil en aeropuertos como Frankfurt o Ámsterdam. Las puertas pueden cambiar en el último momento. [Todos los trucos para sobrevivir a cualquier aeropuerto sin estrés](/es/blog/trucos-aeropuerto) los tienes recogidos en ese artículo.
+El seguimiento de vuelos también es útil en aeropuertos como Frankfurt o Ámsterdam. Las puertas pueden cambiar en el último momento. [Todos los trucos para sobrevivir a cualquier aeropuerto sin estrés](/es/blog/trucos-aeropuerto/) los tienes recogidos en ese artículo.
 
 Y si estás planificando tu próximo viaje y no sabes cuánto tiempo de escala necesitas: [Zercy](https://www.zercy.app/logbook) analiza tu ruta y te dice si la conexión es realista.
 
@@ -80,6 +80,6 @@ Si todo está en una sola reserva, el equipaje va facturado de extremo a extremo
 
 ## Sigue leyendo
 
-- [Vuelo directo vs. con escala: ¿qué compensa de verdad?](/es/blog/vuelo-directo-vs-conexion)
-- [EU261: tus derechos cuando un retraso te hace perder la conexión](/es/blog/retraso-vuelo-compensacion-eu261)
-- [Trucos de aeropuerto: cómo sobrevivir a cualquier terminal](/es/blog/trucos-aeropuerto)
+- [Vuelo directo vs. con escala: ¿qué compensa de verdad?](/es/blog/vuelo-directo-vs-conexion/)
+- [EU261: tus derechos cuando un retraso te hace perder la conexión](/es/blog/retraso-vuelo-compensacion-eu261/)
+- [Trucos de aeropuerto: cómo sobrevivir a cualquier terminal](/es/blog/trucos-aeropuerto/)

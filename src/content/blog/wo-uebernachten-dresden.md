@@ -53,7 +53,7 @@ Dresden ist schön in allen Jahreszeiten aber mit klaren Highlights. Frühling (
 
 **Herbst:** Weinernte an den Elbhängen in Radebeul, goldene Farben, Dresdner Philharmonie-Saison.
 
-Dresden kombiniert gut mit einer [Osteuropa-Frühlingsziele](/blog/beste-fruehlingsziele-europa)-Tour. Prag ist 2 Stunden entfernt.
+Dresden kombiniert gut mit einer [Osteuropa-Frühlingsziele](/blog/beste-fruehlingsziele-europa/)-Tour. Prag ist 2 Stunden entfernt.
 
 ## Blasewitz / Loschwitz: Elbhang-Idylle
 
@@ -100,6 +100,6 @@ Frauenkirche besichtigen (Kuppel besteigen!), Gemäldegalerie Alte Meister, Zwin
 ---
 
 ## Mehr lesen
-- [Beste Frühlingsziele in Europa: Die schönsten Städte](/blog/beste-fruehlingsziele-europa)
-- [Wo übernachten in Prag: Die 4 Stadtteile](/blog/wo-uebernachten-prag)
-- [Europäische Städte im Winter: Die besten Ziele](/blog/europaeische-staedte-winter-tipps)
+- [Beste Frühlingsziele in Europa: Die schönsten Städte](/blog/beste-fruehlingsziele-europa/)
+- [Wo übernachten in Prag: Die 4 Stadtteile](/blog/wo-uebernachten-prag/)
+- [Europäische Städte im Winter: Die besten Ziele](/blog/europaeische-staedte-winter-tipps/)

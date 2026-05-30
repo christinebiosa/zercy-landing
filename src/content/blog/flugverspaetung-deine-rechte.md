@@ -42,7 +42,7 @@ Schritt zwei: Flug-Claim direkt an die Airline schicken. Das geht per E-Mail ode
 
 Wenn die Airline nicht antwortet oder ablehnt: Dienste wie Flightright, AirHelp oder EUclaim übernehmen deinen Fall gegen Provision, meistens 25 bis 30 Prozent der Entschädigung. Du trittst deinen Anspruch ab, die Firma kümmert sich um alles weitere, inklusiv Klagen. Das lohnt sich vor allem bei höheren Beträgen.
 
-Alternativ kannst du dich kostenlos an die Schlichtungsstelle Luft- und Schienenwege (söp) wenden. Der Weg dauert länger, kostet dich aber nichts. Informationen zu Reiseversicherungen, die bei solchen Fällen ebenfalls helfen können, findest du in unserem Artikel zur [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich).
+Alternativ kannst du dich kostenlos an die Schlichtungsstelle Luft- und Schienenwege (söp) wenden. Der Weg dauert länger, kostet dich aber nichts. Informationen zu Reiseversicherungen, die bei solchen Fällen ebenfalls helfen können, findest du in unserem Artikel zur [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/).
 
 ## Was tust du am Flughafen sofort?
 
@@ -52,7 +52,7 @@ Lass dir Bon-Belege für alles geben, was du in der Wartezeit kaufst. Mahlzeiten
 
 Nimm keine Gutscheine oder Voucher an, ohne vorher zu prüfen, ob dein Baranspruch damit verfällt. Manche Airlines legen Gutscheine so aus, dass du mit der Annahme auf Entschädigungszahlungen verzichtest. Das steht manchmal im Kleingedruckten.
 
-Für die Planung deines nächsten Fluges: Unser Artikel zu [günstigen Flügen finden](/blog/guenstig-fliegen-tipps) zeigt, welche Buchungsstrategien wirklich funktionieren. Und wenn du weißt, wann du buchst, lohnt sich auch der Blick auf [wann Flüge buchen](/blog/wann-fluege-buchen) für die besten Preise.
+Für die Planung deines nächsten Fluges: Unser Artikel zu [günstigen Flügen finden](/blog/guenstig-fliegen-tipps/) zeigt, welche Buchungsstrategien wirklich funktionieren. Und wenn du weißt, wann du buchst, lohnt sich auch der Blick auf [wann Flüge buchen](/blog/wann-fluege-buchen/) für die besten Preise.
 
 ## Zercy hilft dir, entspannter zu reisen
 
@@ -77,6 +77,6 @@ Außerordentliche Umstände wie Streiks der Flugsicherung oder extreme Unwettere
 ---
 
 **Weiterlesen:**
-- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Günstig fliegen: Tipps](/blog/guenstig-fliegen-tipps)
-- [Airport Hacks](/blog/airport-hacks)
+- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Günstig fliegen: Tipps](/blog/guenstig-fliegen-tipps/)
+- [Airport Hacks](/blog/airport-hacks/)

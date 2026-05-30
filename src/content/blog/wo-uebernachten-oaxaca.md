@@ -49,7 +49,7 @@ Jalatlaco liegt fünf Minuten zu Fuß vom Zócalo entfernt und fühlt sich an wi
 
 **Top-Empfehlungen:** Quinta Real Oaxaca (historisches Kloster, Innenhof-Pool, absolute Top-Adresse der Stadt), La Casa de mis Recuerdos (Boutique, Innenhof, handgemachter Charme), Hotel Parador San Miguel (Mittelklasse, schöner Innenhof, gute Lage).
 
-Lies dazu auch unseren [Boutique Hotel Guide](/blog/boutique-hotels) wenn Designhotels dein Thema sind.
+Lies dazu auch unseren [Boutique Hotel Guide](/blog/boutique-hotels/) wenn Designhotels dein Thema sind.
 
 ## Welche Stadtteile eignen sich am besten für Familien?
 
@@ -65,7 +65,7 @@ Colonia Reforma ist das Viertel wo die Oaxacaner wohnen. Keine Instagram-Filter,
 
 **Vorteil:** Tagesausflüge zum Zócalo kosten nichts (Taxi 2-3 Euro oder Bus unter 1 Euro). Für die Preisdifferenz zwischen hier und Centro Histórico kannst du gut schlafen und das Geld für gutes Essen ausgeben.
 
-Wenn du die Oaxaca-Region erkunden willst, schau dir auch unseren [Mexiko City Guide](/blog/wo-uebernachten-mexico-city) an.
+Wenn du die Oaxaca-Region erkunden willst, schau dir auch unseren [Mexiko City Guide](/blog/wo-uebernachten-mexico-city/) an.
 
 ## San Felipe del Agua: Villen und Bergblick
 
@@ -112,6 +112,6 @@ Oaxaca gehört zu den sichersten Touristenstädten Mexikos. Das Centro Históric
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Mexico City: Die 5 Stadtteile](/blog/wo-uebernachten-mexico-city)
-- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena)
-- [Boutique Hotels: Worauf du wirklich achten solltest](/blog/boutique-hotels)
+- [Wo übernachten in Mexico City: Die 5 Stadtteile](/blog/wo-uebernachten-mexico-city/)
+- [Wo übernachten in Cartagena: Die 4 Stadtteile](/blog/wo-uebernachten-cartagena/)
+- [Boutique Hotels: Worauf du wirklich achten solltest](/blog/boutique-hotels/)

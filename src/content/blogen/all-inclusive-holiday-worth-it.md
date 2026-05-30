@@ -116,6 +116,6 @@ That is a real risk. Poor buffet quality can ruin a week. Read reviews very care
 ---
 
 **Read more:**
-- [Airbnb vs Hotel: What is actually better?](/en/blog/airbnb-vs-hotel-comparison)
-- [Travel insurance: Is it worth it in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Hotel categories explained: What do the stars mean?](/en/blog/hotel-categories-explained)
+- [Airbnb vs Hotel: What is actually better?](/en/blog/airbnb-vs-hotel-comparison/)
+- [Travel insurance: Is it worth it in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Hotel categories explained: What do the stars mean?](/en/blog/hotel-categories-explained/)

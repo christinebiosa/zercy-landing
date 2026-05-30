@@ -31,7 +31,7 @@ Drei Punkte, die du vor dem ersten Gespräch mit dem Arbeitgeber klären solltes
 
 **Arbeitsrechtlicher Rahmen.** In Deutschland gibt es kein gesetzliches Recht auf Sabbatical. Es ist Verhandlungssache zwischen Arbeitnehmer und Arbeitgeber. Manche Branchen-Tarifverträge regeln es, viele nicht. Frage frühzeitig deinen Personalrat oder die Personalabteilung.
 
-**Krankenversicherung.** Bei unbezahltem Sabbatical entfällt die Pflichtversicherung über den Arbeitgeber. Du musst dich freiwillig weiterversichern (etwa 200-450 Euro pro Monat) oder eine Anwartschaftsversicherung bei deiner Krankenkasse abschließen. Lies dazu unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich).
+**Krankenversicherung.** Bei unbezahltem Sabbatical entfällt die Pflichtversicherung über den Arbeitgeber. Du musst dich freiwillig weiterversichern (etwa 200-450 Euro pro Monat) oder eine Anwartschaftsversicherung bei deiner Krankenkasse abschließen. Lies dazu unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 **Renten- und Sozialversicherungs-Lücken.** Während des Sabbaticals zahlst du nichts ein. Das schmälert deine spätere Rente, aber nur minimal bei 3-12 Monaten. Bei 12 Monaten Auszeit reduziert sich die Rente um etwa 0,5-1 Prozent. Vernachlässigbar.
 
@@ -53,11 +53,11 @@ Eine pragmatische 5-Schritte-Methode.
 
 Drei Sabbatical-Modelle mit konkreten Beispielen.
 
-**Slow Travel mit Basis.** Du wählst eine Stadt (Lissabon, Bali, Oaxaca, Bangkok) und bleibst 2-3 Monate. Lebst dort, lernst die Sprache, kannst Tagesausflüge machen. Lies dazu unseren [Slow-Travel-Artikel](/blog/slow-travel-bedeutet-was). Kosten: 1.500-3.000 Euro pro Monat je nach Standort.
+**Slow Travel mit Basis.** Du wählst eine Stadt (Lissabon, Bali, Oaxaca, Bangkok) und bleibst 2-3 Monate. Lebst dort, lernst die Sprache, kannst Tagesausflüge machen. Lies dazu unseren [Slow-Travel-Artikel](/blog/slow-travel-bedeutet-was/). Kosten: 1.500-3.000 Euro pro Monat je nach Standort.
 
-**Multi-Stop-Reise.** 3-6 Länder in 6 Monaten, jeweils 4-8 Wochen. Asiatischer Klassiker: Thailand, Vietnam, Kambodscha, Bali. Lateinamerikanischer Klassiker: Mexiko, Guatemala, Costa Rica, Kolumbien. Europäischer Klassiker: Portugal, Spanien, Griechenland, Türkei. Lies dazu unseren [Albanien-Riviera-Guide](/blog/albanien-riviera-geheimtipp) für Geheimtipps.
+**Multi-Stop-Reise.** 3-6 Länder in 6 Monaten, jeweils 4-8 Wochen. Asiatischer Klassiker: Thailand, Vietnam, Kambodscha, Bali. Lateinamerikanischer Klassiker: Mexiko, Guatemala, Costa Rica, Kolumbien. Europäischer Klassiker: Portugal, Spanien, Griechenland, Türkei. Lies dazu unseren [Albanien-Riviera-Guide](/blog/albanien-riviera-geheimtipp/) für Geheimtipps.
 
-**Workation-Sabbatical-Mix.** 3 Monate freiwillige Auszeit, 3 Monate Workation in einem digitalen Nomaden-Hub. Ideal wenn du Sabbatical und Karriere kombinieren willst. Lies dazu unseren [Workation-Guide](/blog/workation-steuern-2026).
+**Workation-Sabbatical-Mix.** 3 Monate freiwillige Auszeit, 3 Monate Workation in einem digitalen Nomaden-Hub. Ideal wenn du Sabbatical und Karriere kombinieren willst. Lies dazu unseren [Workation-Guide](/blog/workation-steuern-2026/).
 
 ## Was kostet ein Sabbatical wirklich?
 
@@ -96,6 +96,6 @@ Mindestens 9-12 Monate vor geplantem Beginn solltest du den Antrag stellen. Plus
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Medellín: Die 4 Stadtteile](/blog/wo-uebernachten-medellin)
-- [Wo übernachten in Mendoza: Die 4 Wein-Bereiche](/blog/wo-uebernachten-mendoza)
-- [Slow Travel: Was es wirklich bedeutet (und was nicht)](/blog/slow-travel-bedeutet-was)
+- [Wo übernachten in Medellín: Die 4 Stadtteile](/blog/wo-uebernachten-medellin/)
+- [Wo übernachten in Mendoza: Die 4 Wein-Bereiche](/blog/wo-uebernachten-mendoza/)
+- [Slow Travel: Was es wirklich bedeutet (und was nicht)](/blog/slow-travel-bedeutet-was/)

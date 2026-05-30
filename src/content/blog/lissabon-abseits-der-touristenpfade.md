@@ -13,7 +13,7 @@ Lissabon hat ein Problem. Alle wollen hin. Und alle landen in denselben drei Str
 
 Das ist schade. Denn die Stadt hat so viel mehr als Belém, die Straßenbahn 28 und den Elevador de Santa Justa. Du musst nur zwei Ecken weiter gehen.
 
-Wenn du noch nicht weißt in welchem Stadtteil du übernachten willst, lies vorher unseren [Wo-übernachten-in-Lissabon-Guide](/blog/wo-uebernachten-lissabon) zur Hotel-Wahl.
+Wenn du noch nicht weißt in welchem Stadtteil du übernachten willst, lies vorher unseren [Wo-übernachten-in-Lissabon-Guide](/blog/wo-uebernachten-lissabon/) zur Hotel-Wahl.
 
 ## Mouraria statt Alfama
 
@@ -35,7 +35,7 @@ Marvila ist das Viertel, über das noch kein Reiseführer schreibt. Ehemalige In
 
 Die [Underdogs Gallery](https://www.underdogs.com/) zeigt internationale Street Art auf Museumsniveau. Der Eintritt ist frei. Zwei Cervejarias (Dois Corvos und Lince) brauen exzellentes Bier und schenken es ab 3 Euro aus. Das ganze Viertel erreichst du mit der Buslinie 728 oder dem Zug bis Marvila.
 
-Wenn du [Geheimtipps in Europa](/blog/geheimtipps-europa) magst, ist Marvila ein Viertel das du dir merken solltest. Noch.
+Wenn du [Geheimtipps in Europa](/blog/geheimtipps-europa/) magst, ist Marvila ein Viertel das du dir merken solltest. Noch.
 
 ## Die Pastéis-Frage: Vergiss Belém
 
@@ -65,7 +65,7 @@ Die Straßenbahn 28 ist die berühmteste der Welt. Sie ist auch die vollste. Tas
 
 Nimm die Tram 12. Ähnliche Route, ein Bruchteil der Touristen. Oder lauf. Die Aussichten auf dem Weg nach oben sind der eigentliche Grund, warum du hier bist.
 
-Die Metro funktioniert hervorragend. Tagesticket: 6,80 Euro (Viva Viagem Karte plus Tagestarif). Wenn du ohnehin [günstig reisen](/blog/guenstig-fliegen-tipps) willst, spar dir die teuren Tuk-Tuks.
+Die Metro funktioniert hervorragend. Tagesticket: 6,80 Euro (Viva Viagem Karte plus Tagestarif). Wenn du ohnehin [günstig reisen](/blog/guenstig-fliegen-tipps/) willst, spar dir die teuren Tuk-Tuks.
 
 ## Bairro Alto: Nachts um halb zwölf
 
@@ -106,6 +106,6 @@ Rechne mit 50 bis 70 Euro pro Tag bei normalem Budget. Mittagsmenü 8 bis 12 Eur
 ---
 
 Read more:
-- [Geheimtipps Europa: 7 Orte abseits der Massen](/blog/geheimtipps-europa)
-- [Zugreisen Europa: Die besten Strecken](/blog/zugreisen-europa)
-- [Günstig fliegen: Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps)
+- [Geheimtipps Europa: 7 Orte abseits der Massen](/blog/geheimtipps-europa/)
+- [Zugreisen Europa: Die besten Strecken](/blog/zugreisen-europa/)
+- [Günstig fliegen: Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps/)

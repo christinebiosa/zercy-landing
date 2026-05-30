@@ -66,7 +66,7 @@ Over 8 hours without a viable night train: flying usually wins on time.
 
 A seat you can actually move in. A view that changes every few minutes. The ability to walk to a dining car. No liquid restrictions. No gate. No boarding queue. Arrival in a city center, not an airport 40 minutes from anything.
 
-For [boutique hotel stays](/en/blog/boutique-hotels) in city centers, train travel pairs naturally — you arrive where the hotel is, not 45 minutes away.
+For [boutique hotel stays](/en/blog/boutique-hotels/) in city centers, train travel pairs naturally — you arrive where the hotel is, not 45 minutes away.
 
 ## Booking Train Tickets in Europe
 
@@ -103,4 +103,4 @@ Several compete: the Glacier Express through the Swiss Alps (Zermatt to St. Mori
 
 On many routes, yes — but with restrictions. High-speed trains often don't allow full-size bikes; some require a bike booking and a fee, others only allow folding bikes in a bag. Regional trains are more flexible. Check with the specific operator for each leg of your journey.
 
-**Read more:** [Hidden Gems in Europe](/en/blog/hidden-gems-europe) · [7 Airport Tricks That Save Time](/en/blog/airport-hacks) · [One Week, Carry-On Only](/en/blog/carry-on-only)
+**Read more:** [Hidden Gems in Europe](/en/blog/hidden-gems-europe/) · [7 Airport Tricks That Save Time](/en/blog/airport-hacks/) · [One Week, Carry-On Only](/en/blog/carry-on-only/)

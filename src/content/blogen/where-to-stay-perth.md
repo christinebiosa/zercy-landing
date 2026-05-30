@@ -93,11 +93,11 @@ Northbridge has the most affordable hotels and hostels near the city center. For
 
 ### What should you not miss in Perth?
 
-Kings Park (free, best city views, wildflowers in September), Cottesloe Beach sunset, Fremantle Markets (Friday to Sunday), Rottnest Island with quokkas, Swan Valley wine region (30 minutes east). The [Australia road trip guide](/en/blog/australia-road-trip-route) shows how Perth fits into the overall route.
+Kings Park (free, best city views, wildflowers in September), Cottesloe Beach sunset, Fremantle Markets (Friday to Sunday), Rottnest Island with quokkas, Swan Valley wine region (30 minutes east). The [Australia road trip guide](/en/blog/australia-road-trip-route/) shows how Perth fits into the overall route.
 
 ---
 
 **Read more:**
-- [Australia Road Trip: The Best Route from East to West](/en/blog/australia-road-trip-route)
-- [Where to Stay in Brisbane: The Best Neighborhoods](/en/blog/where-to-stay-brisbane)
-- [Where to Stay in Melbourne: City, Fitzroy or St Kilda?](/en/blog/where-to-stay-melbourne)
+- [Australia Road Trip: The Best Route from East to West](/en/blog/australia-road-trip-route/)
+- [Where to Stay in Brisbane: The Best Neighborhoods](/en/blog/where-to-stay-brisbane/)
+- [Where to Stay in Melbourne: City, Fitzroy or St Kilda?](/en/blog/where-to-stay-melbourne/)

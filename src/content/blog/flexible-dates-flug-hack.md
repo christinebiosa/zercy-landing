@@ -30,9 +30,9 @@ Drei Tools sind hier besonders nützlich:
 
 **Hopper.** Die App [analysiert historische Preisentwicklungen](https://www.hopper.com) und gibt eine Prognose: jetzt kaufen oder noch warten. Nützlich vor allem, wenn der Wunschtermin schon feststeht und man wissen will, ob der Preis noch fällt. Hopper arbeitet mit Wahrscheinlichkeiten, keine Garantie.
 
-**Kayak Explore.** Für wirklich offene Reisepläne. Man gibt nur den Abflugort ein und sieht auf einer Weltkarte, was wohin kostet. Gut kombinierbar mit dem [Open-Jaw-Ticket-Ansatz](/blog/open-jaw-tickets-reise-hack): hinein nach A, zurück aus B.
+**Kayak Explore.** Für wirklich offene Reisepläne. Man gibt nur den Abflugort ein und sieht auf einer Weltkarte, was wohin kostet. Gut kombinierbar mit dem [Open-Jaw-Ticket-Ansatz](/blog/open-jaw-tickets-reise-hack/): hinein nach A, zurück aus B.
 
-Mehr zur Suche mit diesen Tools erklärt unser Artikel zu [Google Flights Tricks und Tipps für 2026](/blog/google-flights-tricks-tipps-2026).
+Mehr zur Suche mit diesen Tools erklärt unser Artikel zu [Google Flights Tricks und Tipps für 2026](/blog/google-flights-tricks-tipps-2026/).
 
 ## Warum ist der Rückflug oft die größere Stellschraube?
 
@@ -42,7 +42,7 @@ Im Frankfurt-Tokio-Beispiel oben war die Rückflug-Differenz größer als die Hi
 
 Flexible Reisende denken von Anfang an in Hin-und-Rück-Kombinationen. Das Google-Date-Grid zeigt genau das: eine Matrix beider Reiserichtungen. Günstigste Kombination ist oft nicht das, was man intuitiv gewählt hätte.
 
-Das hängt auch mit dem [Airline-Preisalgorithmus](/blog/airline-preisalgorithmus-erklaert) zusammen: Preise für Hin- und Rückflug werden nicht unabhängig kalkuliert, sondern als Paar bewertet.
+Das hängt auch mit dem [Airline-Preisalgorithmus](/blog/airline-preisalgorithmus-erklaert/) zusammen: Preise für Hin- und Rückflug werden nicht unabhängig kalkuliert, sondern als Paar bewertet.
 
 ## Wann funktioniert die Strategie nicht?
 
@@ -50,7 +50,7 @@ Schulferien. Weihnachten. Ostern. Lokale Feiertage am Zielort. In diesen Zeiträ
 
 Dasselbe gilt für Großereignisse: Olympia, Weltmeisterschaften, lokale Festivals. Wer nach Barcelona während des Stadtfests will oder nach München im Oktober: kein Wochentag-Hack hilft.
 
-In diesen Phasen lohnt [frühes Buchen](/blog/wann-fluege-buchen) mehr als Wochentag-Flexibilität. Sechs bis acht Monate Vorlauf auf beliebten Strecken in der Hochsaison ist eine solide Strategie.
+In diesen Phasen lohnt [frühes Buchen](/blog/wann-fluege-buchen/) mehr als Wochentag-Flexibilität. Sechs bis acht Monate Vorlauf auf beliebten Strecken in der Hochsaison ist eine solide Strategie.
 
 Außerhalb der Peaks ist der ±7-Tage-Ansatz dagegen fast immer wirksam. Besonders auf Langstrecken: USA, Japan, Südostasien. Und besonders bei Rückflügen, die Reisende oft unbedacht buchen.
 
@@ -84,4 +84,4 @@ In der Hochsaison: Sommerferien, Weihnachten, Ostern, große lokale Feiertage. I
 
 Im Kalender-Modus auf Google Flights sieht man für jeden Abflugtag den aktuellen Preis. Klickt man auf "Günstigste" oder aktiviert die ±3-Tage-Option, erscheint eine Matrix mit Hinflug-Tagen in der Vertikalen und Rückflug-Tagen in der Horizontalen. Die günstigste Kombination ist grün markiert. Das gesamte Grid aktualisiert sich in Echtzeit.
 
-**Mehr lesen:** [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026) · [Wann Flüge buchen](/blog/wann-fluege-buchen) · [Airline-Preisalgorithmus erklärt](/blog/airline-preisalgorithmus-erklaert)
+**Mehr lesen:** [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026/) · [Wann Flüge buchen](/blog/wann-fluege-buchen/) · [Airline-Preisalgorithmus erklärt](/blog/airline-preisalgorithmus-erklaert/)

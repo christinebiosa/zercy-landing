@@ -96,6 +96,6 @@ Most shows take place in venues spread across the city. For Fashion Week, ideal 
 ---
 
 **Read more:**
-- [Where to Stay in Rome: The 5 Neighborhoods](/en/blog/where-to-stay-rome)
-- [Where to Stay in Florence: Which District?](/en/blog/where-to-stay-florence)
-- [Puglia and Southern Italy: Hidden Gems Beyond Rome](/en/blog/puglia-southern-italy-guide)
+- [Where to Stay in Rome: The 5 Neighborhoods](/en/blog/where-to-stay-rome/)
+- [Where to Stay in Florence: Which District?](/en/blog/where-to-stay-florence/)
+- [Puglia and Southern Italy: Hidden Gems Beyond Rome](/en/blog/puglia-southern-italy-guide/)

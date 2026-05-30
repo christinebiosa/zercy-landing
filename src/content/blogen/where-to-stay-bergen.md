@@ -55,7 +55,7 @@ Bergen is famous for its rain. That's not a myth: it's one of Europe's rainiest 
 
 **Winter:** Dark (sunrise around 9:30am, sunset around 3:30pm in December) but cozy in cafés and restaurants. Affordable hotels.
 
-The [Visit Norway Tourism Board](https://www.visitnorway.com) has comprehensive fjord tour information and current weather reports for Bergen. Anyone coming to Bergen nearly always plans a [Scandinavia road trip](/en/blog/scandinavia-road-trip-route) around it. The Flåm Railway and Sognefjord are 2-3 hours away.
+The [Visit Norway Tourism Board](https://www.visitnorway.com) has comprehensive fjord tour information and current weather reports for Bergen. Anyone coming to Bergen nearly always plans a [Scandinavia road trip](/en/blog/scandinavia-road-trip-route/) around it. The Flåm Railway and Sognefjord are 2-3 hours away.
 
 ## Sandviken: The Quiet Northeast
 
@@ -112,6 +112,6 @@ The Fløibanen cable car with viewing platform (best view over Bergen), a walk t
 ---
 
 ## Read more
-- [Scandinavia Road Trip: Best Route from Hamburg to the North Cape](/en/blog/scandinavia-road-trip-route)
-- [Where to Stay in Gothenburg: Best Neighborhoods](/en/blog/where-to-stay-gothenburg)
-- [Northern Lights 2026: Where, When and How](/en/blog/northern-lights-2026-where-when-how)
+- [Scandinavia Road Trip: Best Route from Hamburg to the North Cape](/en/blog/scandinavia-road-trip-route/)
+- [Where to Stay in Gothenburg: Best Neighborhoods](/en/blog/where-to-stay-gothenburg/)
+- [Northern Lights 2026: Where, When and How](/en/blog/northern-lights-2026-where-when-how/)

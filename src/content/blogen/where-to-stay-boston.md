@@ -69,7 +69,7 @@ The neighborhood is small, quiet, and very expensive. Hotels are rare here. More
 
 **Top picks:** XV Beacon Hotel (luxury boutique, 2 minutes from the gold dome), John Jeffries House (historic townhouse, quiet), Liberty Hotel (former jail, now a design hotel on the edge of Beacon Hill).
 
-Our [New York neighborhood guide](/en/blog/where-to-stay-new-york) and [Washington D.C. guide](/en/blog/where-to-stay-washington-dc) cover similar district decisions along the East Coast.
+Our [New York neighborhood guide](/en/blog/where-to-stay-new-york/) and [Washington D.C. guide](/en/blog/where-to-stay-washington-dc/) cover similar district decisions along the East Coast.
 
 ## Cambridge/Harvard Square: Intellectual Boston
 
@@ -131,6 +131,6 @@ January and February are the most affordable months with low hotel prices and fe
 ---
 
 **Read more:**
-- [Where to Stay in New York: The 5 Best Neighborhoods](/en/blog/where-to-stay-new-york)
-- [Where to Stay in Washington D.C.: Neighborhoods Explained](/en/blog/where-to-stay-washington-dc)
-- [Cheap Flights: Best Tips 2026](/en/blog/cheap-flights-tips)
+- [Where to Stay in New York: The 5 Best Neighborhoods](/en/blog/where-to-stay-new-york/)
+- [Where to Stay in Washington D.C.: Neighborhoods Explained](/en/blog/where-to-stay-washington-dc/)
+- [Cheap Flights: Best Tips 2026](/en/blog/cheap-flights-tips/)

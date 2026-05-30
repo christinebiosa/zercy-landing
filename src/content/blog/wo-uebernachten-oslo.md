@@ -45,7 +45,7 @@ Um den Oslo S (Hauptbahnhof) und die Karl Johans gate herum: Nationalmuseum (ger
 
 **Top-Picks:** PS: Hotel (kleines Boutique-Hotel mit viel Charakter), Funky Flamingo Hotel (Design-Budget), City Box Oslo (günstig, klar, gut angebunden).
 
-Lies auch unseren [Stockholm-Guide](/blog/wo-uebernachten-stockholm) für ähnliches nordisches Hipster-Flair.
+Lies auch unseren [Stockholm-Guide](/blog/wo-uebernachten-stockholm/) für ähnliches nordisches Hipster-Flair.
 
 ## Wann ist die beste Reisezeit für Oslo?
 
@@ -92,7 +92,7 @@ Für Oslo ist [Booking.com](https://www.booking.com) gut aufgestellt:
 
 Direkt beim Hotel buchen kann bei Boutique-Hotels in Oslo lohnen (Thief, Camillas Hus) wenn du Upgrade-Behandlung und besondere Extras willst.
 
-Lies auch unseren [Kopenhagen-Guide](/blog/wo-uebernachten-kopenhagen) und [Stockholm-Guide](/blog/wo-uebernachten-stockholm) für eine Skandinavien-Runde mit Stadtteile-Überblick.
+Lies auch unseren [Kopenhagen-Guide](/blog/wo-uebernachten-kopenhagen/) und [Stockholm-Guide](/blog/wo-uebernachten-stockholm/) für eine Skandinavien-Runde mit Stadtteile-Überblick.
 
 ---
 
@@ -119,6 +119,6 @@ Flughafen Gardermoen liegt 47 km außerhalb. Flytog (Flughafen-Express) bringt d
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Stockholm: Die 5 Stadtteile](/blog/wo-uebernachten-stockholm)
-- [Wo übernachten in Kopenhagen: Die 5 Stadtteile](/blog/wo-uebernachten-kopenhagen)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
+- [Wo übernachten in Stockholm: Die 5 Stadtteile](/blog/wo-uebernachten-stockholm/)
+- [Wo übernachten in Kopenhagen: Die 5 Stadtteile](/blog/wo-uebernachten-kopenhagen/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)

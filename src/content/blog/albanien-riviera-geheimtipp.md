@@ -49,7 +49,7 @@ Hochsaison ist Juli und August. Dann wird es voll, vor allem in Ksamil und Dhër
 
 Winter (November bis April) ist auf der Riviera tot. Die meisten Hotels und Restaurants schließen. Wer trotzdem hin will, sollte nach Saranda fahren, dort ist ganzjährig etwas los.
 
-Falls du dich für unentdeckte Küstenstädte interessierst, schau dir auch [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade) an.
+Falls du dich für unentdeckte Küstenstädte interessierst, schau dir auch [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/) an.
 
 ## Wie kommst du am besten hin?
 
@@ -61,7 +61,7 @@ Drei Routen funktionieren gut.
 
 **Über Athen.** Flug nach Athen, dann Fähre über Igoumenitsa nach Saranda. Längere Variante, aber gut für Multi-Stop-Reisen kombiniert mit Griechenland.
 
-Wer die volle Riviera sehen will, mietet einen Wagen. Die Strecke Vlora bis Saranda ist 100 Kilometer und braucht wegen der Serpentinen 4 Stunden. Lies dazu unsere [Mietwagen-Checkliste](/blog/mietwagen-check) vor der Buchung.
+Wer die volle Riviera sehen will, mietet einen Wagen. Die Strecke Vlora bis Saranda ist 100 Kilometer und braucht wegen der Serpentinen 4 Stunden. Lies dazu unsere [Mietwagen-Checkliste](/blog/mietwagen-check/) vor der Buchung.
 
 ---
 
@@ -88,6 +88,6 @@ Sehr sicher. Albanien ist eines der sichersten Reiseländer Europas geworden. To
 ---
 
 **Mehr lesen:**
-- [Geheimtipps Europa: 7 Orte ohne Massentourismus](/blog/geheimtipps-europa)
-- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade)
-- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check)
+- [Geheimtipps Europa: 7 Orte ohne Massentourismus](/blog/geheimtipps-europa/)
+- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/)
+- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check/)

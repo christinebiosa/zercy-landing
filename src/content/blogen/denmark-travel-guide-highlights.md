@@ -66,6 +66,6 @@ Noma (founded 2003 by René Redzepi) made Nordic cuisine famous worldwide. It ha
 ---
 
 **Read more:**
-- [Scandinavia Road Trip Route](/en/blog/scandinavia-road-trip-route)
-- [Train vs. Plane in Europe 2026](/en/blog/train-vs-plane-europe-2026)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Scandinavia Road Trip Route](/en/blog/scandinavia-road-trip-route/)
+- [Train vs. Plane in Europe 2026](/en/blog/train-vs-plane-europe-2026/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

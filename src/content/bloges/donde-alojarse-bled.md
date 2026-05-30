@@ -51,7 +51,7 @@ Bled funciona todo el año pero con picos claros. De mayo a septiembre es tempor
 
 **Abril y octubre:** Tranquilo, asequible, muy fotogénico con colores otoñales o flores primaverales. Muy pocos turistas.
 
-La mayoría de los viajeros a Bled lo combinan con [Eslovenia como destino completo](/es/blog/eslovenia-secreto-verde-2026). Liubliana queda a solo 55 km. Para una [ruta por los Balcanes](/es/blog/balcanes-road-trip-ruta), Bled es el punto de partida perfecto hacia Croacia o Bosnia.
+La mayoría de los viajeros a Bled lo combinan con [Eslovenia como destino completo](/es/blog/eslovenia-secreto-verde-2026/). Liubliana queda a solo 55 km. Para una [ruta por los Balcanes](/es/blog/balcanes-road-trip-ruta/), Bled es el punto de partida perfecto hacia Croacia o Bosnia.
 
 ## Fuera de Bled: Económico y relajado
 
@@ -98,6 +98,6 @@ Tomar una barca Pletna a la iglesia de la isla, tocar la campana de los deseos, 
 ---
 
 ## Más artículos
-- [Eslovenia 2026: El secreto verde de Europa](/es/blog/eslovenia-secreto-verde-2026)
-- [Ruta por los Balcanes: De Eslovenia a Albania](/es/blog/balcanes-road-trip-ruta)
-- [Dónde alojarse en Liubliana: Los mejores barrios](/es/blog/donde-alojarse-liubliana)
+- [Eslovenia 2026: El secreto verde de Europa](/es/blog/eslovenia-secreto-verde-2026/)
+- [Ruta por los Balcanes: De Eslovenia a Albania](/es/blog/balcanes-road-trip-ruta/)
+- [Dónde alojarse en Liubliana: Los mejores barrios](/es/blog/donde-alojarse-liubliana/)

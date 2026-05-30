@@ -36,7 +36,7 @@ This is the single biggest price lever for families. The difference can be 40-60
 
 **Off-peak:** Cheaper flights, quieter destinations, but sometimes worse weather. For primary school ages, it is worth checking whether a parent can request authorized absence for an educational trip.
 
-Tip: early booking saves money. Good family summer flights are booked in October of the previous year. More on timing in the guide to [when to book flights](/en/blog/when-to-book-flights).
+Tip: early booking saves money. Good family summer flights are booked in October of the previous year. More on timing in the guide to [when to book flights](/en/blog/when-to-book-flights/).
 
 ## What Really Helps When Flying with Kids?
 
@@ -50,7 +50,7 @@ The flight is the biggest source of stress for many parents. There are practical
 
 **Noise-cancelling headphones:** For kids aged 3 and up, and for the parents too. Quality varies widely for children's headphones. Buy headphones with a volume limiter (85 dB) to protect young ears.
 
-**Sleep strategy:** Evening flights work better for toddlers than morning flights because natural tiredness kicks in. For your first trip with a baby, read the dedicated guide on [traveling with a baby and first flights](/en/blog/traveling-with-baby-first-flights).
+**Sleep strategy:** Evening flights work better for toddlers than morning flights because natural tiredness kicks in. For your first trip with a baby, read the dedicated guide on [traveling with a baby and first flights](/en/blog/traveling-with-baby-first-flights/).
 
 ## Hotel or Vacation Rental: Which Is Better for Families?
 
@@ -62,7 +62,7 @@ Other advantages of vacation rentals: more space, separate bedrooms, a washing m
 
 Airbnb works well for families, but look for reviews that specifically mention kids. Booking.com has a growing selection of vacation rentals, often with better cancellation policies.
 
-For city trips with toddlers, a family room in a hotel is sometimes more practical than managing two separate accommodation units. The full [Airbnb vs. hotel comparison](/en/blog/airbnb-vs-hotel-comparison) lays out the tradeoffs in detail.
+For city trips with toddlers, a family room in a hotel is sometimes more practical than managing two separate accommodation units. The full [Airbnb vs. hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) lays out the tradeoffs in detail.
 
 ## Which Packing Items Really Matter?
 
@@ -72,7 +72,7 @@ No complete list here. But the six items families miss most when they forget the
 2. **Children-specific first aid kit:** With fever reducer (dosed by weight), electrolyte powder, plasters, antiseptic.
 3. **Portable white noise machine:** For toddlers in hotel rooms. Maintaining sleep rhythms in unfamiliar environments matters.
 4. **Compact foldable stroller:** Smaller than a standard buggy, fits as carry-on, handles cobblestones better than large wheels.
-5. **Digital health insurance card and travel insurance:** Always on you. Never in the checked bag. What [travel insurance actually covers](/en/blog/travel-insurance-worth-it-2026) and when it is worth buying is covered in a separate article.
+5. **Digital health insurance card and travel insurance:** Always on you. Never in the checked bag. What [travel insurance actually covers](/en/blog/travel-insurance-worth-it-2026/) and when it is worth buying is covered in a separate article.
 6. **Offline backup entertainment:** Download apps and audiobooks before the flight. In-flight Wi-Fi is unreliable or unavailable.
 
 ## What Emergency Planning Should Every Family Do Before a Trip?
@@ -97,7 +97,7 @@ Portugal, Croatia, Japan and Costa Rica rank among the best family travel destin
 
 ### How much luggage should a family bring on vacation?
 
-Less than you think. A practical rule: one rolling suitcase per adult, no separate suitcase for small children. Kids' clothing fits easily into adult luggage. Fewer bags means a smoother airport experience. Families who travel [carry-on only](/en/blog/carry-on-only) typically find they need far less than expected.
+Less than you think. A practical rule: one rolling suitcase per adult, no separate suitcase for small children. Kids' clothing fits easily into adult luggage. Fewer bags means a smoother airport experience. Families who travel [carry-on only](/en/blog/carry-on-only/) typically find they need far less than expected.
 
 ### When is the cheapest time for families to travel?
 
@@ -110,6 +110,6 @@ Stay calm. The European Health Insurance Card (EHIC) covers EU travel as a basel
 ---
 
 **Read more:**
-- [Travel Insurance: What Is Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
-- [Traveling with a Baby: Tips for First Flights](/en/blog/traveling-with-baby-first-flights)
-- [Cheap Flights: Tips and Tricks 2026](/en/blog/cheap-flights-tips)
+- [Travel Insurance: What Is Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)
+- [Traveling with a Baby: Tips for First Flights](/en/blog/traveling-with-baby-first-flights/)
+- [Cheap Flights: Tips and Tricks 2026](/en/blog/cheap-flights-tips/)

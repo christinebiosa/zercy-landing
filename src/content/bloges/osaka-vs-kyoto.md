@@ -71,7 +71,7 @@ Depende del estilo de viaje y el presupuesto.
 
 **La solución más habitual:** empezar en Osaka (llegada por Kansai) y terminar o pasar a Kyoto los últimos días antes de coger el Shinkansen a Tokio. Este circuito está muy rodado y funciona bien.
 
-Para ver qué tipo de alojamiento encaja mejor en cada ciudad, nuestra guía de [Reikiavik](/es/blog/donde-alojarse-reikiavik) describe el mismo dilema de base vs. excursiones en un contexto diferente, y los principios son aplicables.
+Para ver qué tipo de alojamiento encaja mejor en cada ciudad, nuestra guía de [Reikiavik](/es/blog/donde-alojarse-reikiavik/) describe el mismo dilema de base vs. excursiones en un contexto diferente, y los principios son aplicables.
 
 Zercy puede ayudarte a armar el itinerario completo para Japón con vuelos, tren y alojamiento en Osaka y Kyoto. Guarda todo en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlo organizado desde el primer día.
 
@@ -98,6 +98,6 @@ Fushimi Inari recibe millones de visitantes al año. De 9 a 17h el camino de ent
 ---
 
 **Leer más:**
-- [Dónde alojarse en Chiang Mai](/es/blog/donde-alojarse-chiang-mai)
-- [Dónde alojarse en Reikiavik](/es/blog/donde-alojarse-reikiavik)
-- [Trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026)
+- [Dónde alojarse en Chiang Mai](/es/blog/donde-alojarse-chiang-mai/)
+- [Dónde alojarse en Reikiavik](/es/blog/donde-alojarse-reikiavik/)
+- [Trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026/)

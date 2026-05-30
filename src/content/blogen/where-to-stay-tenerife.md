@@ -102,7 +102,7 @@ The village itself is relaxed and alternative with little mass tourism. Good res
 
 Booking direct at the resort makes sense only at the big luxury names (Bahía del Duque, Royal Hideaway) if you want an upgrade or special extras. In all other cases, Booking.com is the more reliable and usually cheaper option.
 
-Our [Lisbon neighborhood guide](/en/blog/where-to-stay-lisbon) and [Marrakech guide](/en/blog/where-to-stay-marrakech) cover similar zone-choice decisions in other popular destinations.
+Our [Lisbon neighborhood guide](/en/blog/where-to-stay-lisbon/) and [Marrakech guide](/en/blog/where-to-stay-marrakech/) cover similar zone-choice decisions in other popular destinations.
 
 ---
 
@@ -129,6 +129,6 @@ June and early October are the most affordable months with good weather and few 
 ---
 
 **Read more:**
-- [Where to Stay in Lisbon: 5 Neighborhoods](/en/blog/where-to-stay-lisbon)
-- [Where to Stay in Marrakech: 4 Neighborhoods](/en/blog/where-to-stay-marrakech)
-- [Cheap Flights: Best Tips 2026](/en/blog/cheap-flights-tips)
+- [Where to Stay in Lisbon: 5 Neighborhoods](/en/blog/where-to-stay-lisbon/)
+- [Where to Stay in Marrakech: 4 Neighborhoods](/en/blog/where-to-stay-marrakech/)
+- [Cheap Flights: Best Tips 2026](/en/blog/cheap-flights-tips/)

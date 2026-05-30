@@ -77,7 +77,7 @@ Dar es Salaam as your starting point for safari or Zanzibar? Tell Zercy your pla
 
 ### How do I get from Dar es Salaam to Zanzibar?
 
-By ferry from Kivukoni Ferry Terminal. Azam Marine and Coastal Fast Ferries are the most reliable operators. The fast ferry takes 90 minutes and costs 35-50 USD for tourists. Book 1-2 days ahead. Morning sailings (7-9am) are calmer than afternoon ones. The [Zanzibar Stone Town guide](/en/blog/zanzibar-stone-town-guide) covers what comes next.
+By ferry from Kivukoni Ferry Terminal. Azam Marine and Coastal Fast Ferries are the most reliable operators. The fast ferry takes 90 minutes and costs 35-50 USD for tourists. Book 1-2 days ahead. Morning sailings (7-9am) are calmer than afternoon ones. The [Zanzibar Stone Town guide](/en/blog/zanzibar-stone-town-guide/) covers what comes next.
 
 ### What does a taxi cost in Dar es Salaam?
 
@@ -85,7 +85,7 @@ Taxis have no meters. Agree on the price beforehand. Within neighborhoods: 5-10 
 
 ### What sights are there in Dar es Salaam?
 
-Village Museum (open-air museum of Tanzanian architecture), National Museum and House of Culture, Kariakoo Market (Monday to Saturday mornings, most lively), Kivukoni Fish Market (early morning), Coco Beach (city edge, popular with locals). The [Tanzania travel guide](/en/blog/tanzania-travel-guide-highlights) has the full country overview.
+Village Museum (open-air museum of Tanzanian architecture), National Museum and House of Culture, Kariakoo Market (Monday to Saturday mornings, most lively), Kivukoni Fish Market (early morning), Coco Beach (city edge, popular with locals). The [Tanzania travel guide](/en/blog/tanzania-travel-guide-highlights/) has the full country overview.
 
 ### How safe is Dar es Salaam for tourists?
 
@@ -94,6 +94,6 @@ Dar es Salaam is relatively safe for an African metropolis. Pickpocketing in Kar
 ---
 
 **Read more:**
-- [Tanzania Travel Guide: Safari, Zanzibar and Kilimanjaro](/en/blog/tanzania-travel-guide-highlights)
-- [Zanzibar Stone Town: What You Need to Know](/en/blog/zanzibar-stone-town-guide)
-- [East Africa Safari Guide: Planning the Full Trip](/en/blog/east-africa-safari-guide)
+- [Tanzania Travel Guide: Safari, Zanzibar and Kilimanjaro](/en/blog/tanzania-travel-guide-highlights/)
+- [Zanzibar Stone Town: What You Need to Know](/en/blog/zanzibar-stone-town-guide/)
+- [East Africa Safari Guide: Planning the Full Trip](/en/blog/east-africa-safari-guide/)

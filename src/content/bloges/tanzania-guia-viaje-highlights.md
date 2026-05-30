@@ -86,6 +86,6 @@ La combinación clásica es 7 a 10 días de safari (Serengeti más Ngorongoro) s
 ---
 
 **Más artículos:**
-- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia)
-- [India: Guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights)
-- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
+- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia/)
+- [India: Guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights/)
+- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)

@@ -48,7 +48,7 @@ Claude (Anthropic) ist der Premium-Konversationspartner. Stark in Nuancen, Refle
 
 ## Was machen reisespezialisierte KI-Tools besser?
 
-Hier kommen Tools wie [Zercy](/blog/was-ist-zercy) ins Spiel.
+Hier kommen Tools wie [Zercy](/blog/was-ist-zercy/) ins Spiel.
 
 Allgemeine KI hat ein strukturelles Problem bei Reisen: Sie sieht keine Live-Preise. Eine echte Reiseplanung braucht aktuelle Flug- und Hotelpreise, nicht Trainingsdaten.
 
@@ -60,7 +60,7 @@ Die Unterschiede zusammengefasst:
 - **Claude:** Nuancierte Beratung, kein Live-Datenzugriff
 - **Zercy:** Live-Preise, Buchungs-Links, weniger Smalltalk
 
-Wenn dich ein direkter Vergleich Mensch versus KI interessiert, lies [KI-Reiseplaner vs Reisebüro](/blog/ki-reiseplaner-vs-reisebuero).
+Wenn dich ein direkter Vergleich Mensch versus KI interessiert, lies [KI-Reiseplaner vs Reisebüro](/blog/ki-reiseplaner-vs-reisebuero/).
 
 ## Wie kombinierst du die Tools sinnvoll?
 
@@ -99,6 +99,6 @@ Drei schnelle Checks: Hotelnamen direkt bei Booking eingeben, Öffnungszeiten au
 ---
 
 **Mehr lesen:**
-- [Was ist Zercy? Der KI-Reiseplaner erklärt](/blog/was-ist-zercy)
-- [KI-Reiseplaner vs Reisebüro: Wer plant besser?](/blog/ki-reiseplaner-vs-reisebuero)
-- [Wie KI die Reiseplanung verändert](/blog/ki-veraendert-reiseplanung)
+- [Was ist Zercy? Der KI-Reiseplaner erklärt](/blog/was-ist-zercy/)
+- [KI-Reiseplaner vs Reisebüro: Wer plant besser?](/blog/ki-reiseplaner-vs-reisebuero/)
+- [Wie KI die Reiseplanung verändert](/blog/ki-veraendert-reiseplanung/)

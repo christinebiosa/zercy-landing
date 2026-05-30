@@ -73,6 +73,6 @@ Korean BBQ is the starting point: samgyeopsal (pork belly) and galbi (beef short
 
 ## Read More
 
-- [Japan 3-Week Route: The Perfect Itinerary](/en/blog/japan-3-week-route)
-- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel)
-- [India Travel Guide: Highlights and Essential Tips](/en/blog/india-travel-guide-highlights)
+- [Japan 3-Week Route: The Perfect Itinerary](/en/blog/japan-3-week-route/)
+- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel/)
+- [India Travel Guide: Highlights and Essential Tips](/en/blog/india-travel-guide-highlights/)

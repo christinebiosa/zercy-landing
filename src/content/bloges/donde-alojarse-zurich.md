@@ -90,7 +90,7 @@ Para Zúrich, [Booking.com](https://www.booking.com) tiene buena oferta:
 
 También puedes contactar directamente a los hoteles boutique suizos. Muchos están en Booking.com pero a veces ofrecen tarifas directas más bajas para estancias largas.
 
-Lee también nuestra guía de [Reikiavik](/es/blog/donde-alojarse-reikiavik) para otro destino europeo con precios elevados pero paisajes únicos.
+Lee también nuestra guía de [Reikiavik](/es/blog/donde-alojarse-reikiavik/) para otro destino europeo con precios elevados pero paisajes únicos.
 
 ---
 
@@ -117,6 +117,6 @@ S-Bahn desde el aeropuerto directo a la estación central (HB) en 13 minutos, ec
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Reikiavik](/es/blog/donde-alojarse-reikiavik)
-- [Dónde alojarse en París: Los 5 barrios](/es/blog/donde-alojarse-paris)
-- [Dónde alojarse en Barcelona: Los 5 barrios](/es/blog/donde-alojarse-barcelona)
+- [Dónde alojarse en Reikiavik](/es/blog/donde-alojarse-reikiavik/)
+- [Dónde alojarse en París: Los 5 barrios](/es/blog/donde-alojarse-paris/)
+- [Dónde alojarse en Barcelona: Los 5 barrios](/es/blog/donde-alojarse-barcelona/)

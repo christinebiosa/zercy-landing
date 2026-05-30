@@ -66,6 +66,6 @@ Stroopwafeln (Karamell-Waffel-Sandwiches), Haring (roher Salzhering mit Zwiebeln
 ---
 
 **Mehr lesen:**
-- [Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026)
-- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [Slowenien: Europas grünes Geheimnis 2026](/blog/slowenien-geheimnis-2026)
+- [Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026/)
+- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [Slowenien: Europas grünes Geheimnis 2026](/blog/slowenien-geheimnis-2026/)

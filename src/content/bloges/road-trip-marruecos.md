@@ -100,6 +100,6 @@ Al amanecer o al atardecer. El mediodía en el desierto es demasiado caluroso en
 ---
 
 **Leer más:**
-- [Guía de viaje Colombia: lo esencial del país más biodiverso](/es/blog/guia-viaje-colombia)
-- [Road trip por las Highlands de Escocia: la ruta NC500](/es/blog/road-trip-highlands-escocia)
-- [Joyas ocultas de Europa para salir del circuito turístico](/es/blog/joyas-ocultas-europa)
+- [Guía de viaje Colombia: lo esencial del país más biodiverso](/es/blog/guia-viaje-colombia/)
+- [Road trip por las Highlands de Escocia: la ruta NC500](/es/blog/road-trip-highlands-escocia/)
+- [Joyas ocultas de Europa para salir del circuito turístico](/es/blog/joyas-ocultas-europa/)

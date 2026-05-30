@@ -100,7 +100,7 @@ In NYC ist [Booking.com](https://www.booking.com) fast immer die beste Wahl, wei
 
 Direkter Hotel-Buchung lohnt nur bei Premium (Plaza, Mandarin) für mögliche Upgrades.
 
-Lies dazu auch unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich), bei US-Reisen ist Auslandskranken absolut unverzichtbar.
+Lies dazu auch unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/), bei US-Reisen ist Auslandskranken absolut unverzichtbar.
 
 ---
 
@@ -127,6 +127,6 @@ Backpacker: 1.500-2.000 Dollar pro Person inkl. Flug (Hostel, Selbstverpflegung)
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
-- [Wo übernachten in Mexico City: Die 5 Stadtteile](/blog/wo-uebernachten-mexico-city)
-- [Reiseversicherung 2026: Was lohnt sich, was ist Quatsch?](/blog/reiseversicherung-was-lohnt-sich)
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio/)
+- [Wo übernachten in Mexico City: Die 5 Stadtteile](/blog/wo-uebernachten-mexico-city/)
+- [Reiseversicherung 2026: Was lohnt sich, was ist Quatsch?](/blog/reiseversicherung-was-lohnt-sich/)

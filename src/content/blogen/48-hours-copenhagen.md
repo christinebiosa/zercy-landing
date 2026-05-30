@@ -63,15 +63,15 @@ If you want to stay in the city: Rosenborg Castle, a Renaissance palace in Copen
 
 Copenhagen by bike at dusk is the best possible ending to a weekend in this city. From Nyhavn along the canal, through Christianshavn, out to the waterfront at Langelinie, and back over the harbor. The cycling infrastructure is better here than almost anywhere in Europe.
 
-Dinner on the last evening: the area around Jægersborggade in the Nørrebro neighborhood near Nørreport. Not a Noma alternative, but the real Copenhagen. Restaurants with clear concepts, approachable prices, and fewer tourists. For a broader overview of what Copenhagen and Denmark offer beyond the capital, the [Denmark travel guide highlights](/en/blog/denmark-travel-guide-highlights) has the full picture.
+Dinner on the last evening: the area around Jægersborggade in the Nørrebro neighborhood near Nørreport. Not a Noma alternative, but the real Copenhagen. Restaurants with clear concepts, approachable prices, and fewer tourists. For a broader overview of what Copenhagen and Denmark offer beyond the capital, the [Denmark travel guide highlights](/en/blog/denmark-travel-guide-highlights/) has the full picture.
 
 ## How expensive is Copenhagen, really?
 
 A realistic daily budget for two meals, one or two admissions, and transport is 80 to 100 euros. To stay under that: market halls instead of restaurants, water from taps and fountains, bike instead of metro.
 
-Hotels: a solid mid-range option runs 120 to 200 euros per night. Hostels from 35 euros, Airbnbs often cheaper than hotels but high demand. [Booking.com](https://www.booking.com/searchresults.html?ss=Copenhagen) has the full range with a map filter by neighborhood. The detailed accommodation guide by district is here: [Where to stay in Copenhagen](/en/blog/where-to-stay-copenhagen).
+Hotels: a solid mid-range option runs 120 to 200 euros per night. Hostels from 35 euros, Airbnbs often cheaper than hotels but high demand. [Booking.com](https://www.booking.com/searchresults.html?ss=Copenhagen) has the full range with a map filter by neighborhood. The detailed accommodation guide by district is here: [Where to stay in Copenhagen](/en/blog/where-to-stay-copenhagen/).
 
-If Copenhagen is part of a wider northern Europe trip, the [Scandinavia road trip route](/en/blog/scandinavia-road-trip-route) lays out how to connect it with Oslo and Stockholm efficiently.
+If Copenhagen is part of a wider northern Europe trip, the [Scandinavia road trip route](/en/blog/scandinavia-road-trip-route/) lays out how to connect it with Oslo and Stockholm efficiently.
 
 Zercy finds the cheapest flight to Copenhagen and the right hotel in one step. Save everything in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options ready when you book.
 
@@ -98,6 +98,6 @@ The walk to the Little Mermaid if you are budgeting time carefully. The statue i
 ---
 
 **Read more:**
-- [Where to Stay in Copenhagen: Neighborhoods and Hotels by Budget](/en/blog/where-to-stay-copenhagen)
-- [Scandinavia Road Trip: The Best Route from Oslo to Stockholm](/en/blog/scandinavia-road-trip-route)
-- [Denmark Travel Guide: What Actually Deserves Your Time](/en/blog/denmark-travel-guide-highlights)
+- [Where to Stay in Copenhagen: Neighborhoods and Hotels by Budget](/en/blog/where-to-stay-copenhagen/)
+- [Scandinavia Road Trip: The Best Route from Oslo to Stockholm](/en/blog/scandinavia-road-trip-route/)
+- [Denmark Travel Guide: What Actually Deserves Your Time](/en/blog/denmark-travel-guide-highlights/)

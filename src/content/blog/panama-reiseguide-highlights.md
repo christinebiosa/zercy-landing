@@ -74,6 +74,6 @@ Etwa 5 Prozent des Welthandels fließen durch den Panamakanal. Für die USA ist 
 ---
 
 **Mehr lesen:**
-- [Costa Rica Rundreise Route](/blog/costa-rica-rundreise-route)
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Costa Rica Rundreise Route](/blog/costa-rica-rundreise-route/)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/)

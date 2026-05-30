@@ -22,7 +22,7 @@ Parece algo pequeño. No lo es. Cuando vuelves a casa y repites el plato, te acu
 
 Las clases de cocina también funcionan para todos los estilos de viaje. Solo, conoces a otras personas. En pareja, construyes una historia para contar. En familia, los niños aprenden que la comida se hace, no simplemente aparece.
 
-Más sobre viajes gastronómicos: [Turismo Gastronómico: Cómo Comer como un Local](/es/blog/turismo-gastronomico-comer-como-local)
+Más sobre viajes gastronómicos: [Turismo Gastronómico: Cómo Comer como un Local](/es/blog/turismo-gastronomico-comer-como-local/)
 
 ## ¿Qué Destinos Realmente Valen la Pena?
 
@@ -38,7 +38,7 @@ No todas las cocinas funcionan igual en un formato de clase. Algunos países han
 
 **México (Oaxaca):** El mole es uno de los platos más complejos de la cocina mexicana. Un buen curso en Oaxaca explica exactamente por qué. Suma tortillas hechas a mano. Siempre elige un curso que incluya visita al mercado.
 
-Planea tu próximo viaje foodie: [Guía Street Food: Cómo Comer por el Mundo](/es/blog/guia-street-food-viaje)
+Planea tu próximo viaje foodie: [Guía Street Food: Cómo Comer por el Mundo](/es/blog/guia-street-food-viaje/)
 
 ## ¿Medio Día o Día Completo? ¿Qué Te Conviene?
 
@@ -96,6 +96,6 @@ Solo ganas. El delantal, los cuchillos y todos los ingredientes los proveen. Us�
 ---
 
 **Seguí leyendo:**
-- [Slow Travel: Qué Significa de Verdad](/es/blog/slow-travel-que-significa)
-- [Tokio: Viaje Gastronómico Completo](/es/blog/tokio-viaje-gastronomico)
-- [Guía Street Food para Viajeros](/es/blog/guia-street-food-viaje)
+- [Slow Travel: Qué Significa de Verdad](/es/blog/slow-travel-que-significa/)
+- [Tokio: Viaje Gastronómico Completo](/es/blog/tokio-viaje-gastronomico/)
+- [Guía Street Food para Viajeros](/es/blog/guia-street-food-viaje/)

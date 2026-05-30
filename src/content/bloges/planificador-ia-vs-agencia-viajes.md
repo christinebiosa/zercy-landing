@@ -41,7 +41,7 @@ La pregunta "¿agencia de viajes o IA?" es un falso dilema en la mayoría de cas
 | Grupo familiar de 10+ personas | Agencia o freelance de viajes |
 | Viaje de aventura a destino remoto | IA para investigación + agencia local |
 
-Para entender cómo las herramientas de IA más avanzadas de 2026 manejan la planificación, lee nuestra guía de [comparativa de herramientas de IA para viajes](/es/blog/herramientas-ia-comparativa-viajes) o [cómo la IA está cambiando la planificación de viajes](/es/blog/ia-cambia-planificacion-viajes).
+Para entender cómo las herramientas de IA más avanzadas de 2026 manejan la planificación, lee nuestra guía de [comparativa de herramientas de IA para viajes](/es/blog/herramientas-ia-comparativa-viajes/) o [cómo la IA está cambiando la planificación de viajes](/es/blog/ia-cambia-planificacion-viajes/).
 
 Zercy combina la velocidad de la IA con datos reales de vuelos y hoteles. Empieza en [zercy.app](https://www.zercy.app) y guarda tus planes en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -68,6 +68,6 @@ La IA puede orientarte sobre qué hacer (buscar vuelo alternativo, qué derechos
 ---
 
 **Más para leer:**
-- [Cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes)
-- [Las mejores herramientas de IA para planificar viajes](/es/blog/herramientas-ia-comparativa-viajes)
-- [¿Vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena)
+- [Cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes/)
+- [Las mejores herramientas de IA para planificar viajes](/es/blog/herramientas-ia-comparativa-viajes/)
+- [¿Vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena/)

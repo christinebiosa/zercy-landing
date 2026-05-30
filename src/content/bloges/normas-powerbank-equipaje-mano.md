@@ -56,7 +56,7 @@ Evita los powerbanks de marcas desconocidas sin certificación CE o UL: además 
 
 **Ryanair, easyJet, Vueling**: no tienen restricciones adicionales más allá de la normativa estándar para powerbanks que estén dentro del límite de 100 Wh.
 
-Si viajas con equipaje de mano solamente, el powerbank puede ser tu salvavidas en viajes largos. Consulta nuestra guía completa de [cómo viajar solo con equipaje de mano](/es/blog/solo-equipaje-de-mano) para más consejos.
+Si viajas con equipaje de mano solamente, el powerbank puede ser tu salvavidas en viajes largos. Consulta nuestra guía completa de [cómo viajar solo con equipaje de mano](/es/blog/solo-equipaje-de-mano/) para más consejos.
 
 Zercy puede ayudarte a planificar vuelos con la información de equipaje incluida. Guarda tus preferencias en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -83,6 +83,6 @@ Los powerbanks solares con baterías de litio integradas siguen exactamente las 
 ---
 
 **Más para leer:**
-- [Cómo viajar solo con equipaje de mano: guía completa](/es/blog/solo-equipaje-de-mano)
-- [Líquidos en el equipaje de mano: normas actualizadas 2026](/es/blog/liquidos-equipaje-mano-2026)
-- [Trucos de aeropuerto para viajar sin estrés](/es/blog/trucos-aeropuerto)
+- [Cómo viajar solo con equipaje de mano: guía completa](/es/blog/solo-equipaje-de-mano/)
+- [Líquidos en el equipaje de mano: normas actualizadas 2026](/es/blog/liquidos-equipaje-mano-2026/)
+- [Trucos de aeropuerto para viajar sin estrés](/es/blog/trucos-aeropuerto/)

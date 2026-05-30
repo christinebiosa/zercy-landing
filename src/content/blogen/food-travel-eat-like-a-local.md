@@ -40,7 +40,7 @@ Google Maps is the most important tool. But you need to work the filters. Restau
 
 **Yelp** (USA, Canada) works well when you filter by Elite reviewers. They write in English, eat locally, have the comparison knowledge.
 
-If you're heading to Tokyo, our [Tokyo Foodie Guide](/en/blog/tokyo-foodie-trip) has a curated list of neighborhoods with the best izakayas and ramen spots by time of day.
+If you're heading to Tokyo, our [Tokyo Foodie Guide](/en/blog/tokyo-foodie-trip/) has a curated list of neighborhoods with the best izakayas and ramen spots by time of day.
 
 ## How Does Street Food Actually Work?
 
@@ -58,9 +58,9 @@ Join the queue. That is the most important filter. A stall without a queue is a 
 
 **Penang, Malaysia.** The hawker stalls here are considered the best street food in Southeast Asia. Char Koay Teow, Asam Laksa, Hokkien Mee. Everything under 3 EUR.
 
-**Mexico City.** Tacos al Pastor from small taqueros at midnight. Sopa de Lima. Tlayudas. The city has one of the richest culinary traditions in the world and barely any reluctance toward experimental combinations. Our [Mexico City neighborhood guide](/en/blog/where-to-stay-mexico-city) will help with accommodation near the best food districts.
+**Mexico City.** Tacos al Pastor from small taqueros at midnight. Sopa de Lima. Tlayudas. The city has one of the richest culinary traditions in the world and barely any reluctance toward experimental combinations. Our [Mexico City neighborhood guide](/en/blog/where-to-stay-mexico-city/) will help with accommodation near the best food districts.
 
-**Naples.** Pizza. Not as a sentence but as a world religion. A margherita at a good pizzeria costs 5 EUR. A bad pizzeria in Naples is still better than almost everything outside Naples. Plus sfogliatella from the bakery and coffee standing at the bar. Our [Naples neighborhood guide](/en/blog/where-to-stay-rome) covers the areas with the best local food scenes nearby.
+**Naples.** Pizza. Not as a sentence but as a world religion. A margherita at a good pizzeria costs 5 EUR. A bad pizzeria in Naples is still better than almost everything outside Naples. Plus sfogliatella from the bakery and coffee standing at the bar. Our [Naples neighborhood guide](/en/blog/where-to-stay-rome/) covers the areas with the best local food scenes nearby.
 
 **Marrakech.** The Djemaa el-Fna square after dark: food stalls, smoke, cauldrons, tagine and couscous for a few dirhams. Loud, chaotic, spectacular.
 
@@ -95,6 +95,6 @@ Prefer fully cooked items. Choose stalls with high turnover (a queue as a proxy 
 ---
 
 **Read more:**
-- [Tokyo Foodie Trip: The Best Neighborhoods for Eating](/en/blog/tokyo-foodie-trip)
-- [Where to Stay in Mexico City: The Best Neighborhoods](/en/blog/where-to-stay-mexico-city)
-- [Where to Stay in Rome: The Best Neighborhoods](/en/blog/where-to-stay-rome)
+- [Tokyo Foodie Trip: The Best Neighborhoods for Eating](/en/blog/tokyo-foodie-trip/)
+- [Where to Stay in Mexico City: The Best Neighborhoods](/en/blog/where-to-stay-mexico-city/)
+- [Where to Stay in Rome: The Best Neighborhoods](/en/blog/where-to-stay-rome/)

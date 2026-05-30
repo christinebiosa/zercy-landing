@@ -37,7 +37,7 @@ Mayo y septiembre-octubre son los meses ideales: temporada seca, menos turistas 
 
 Lima tiene un microclima propio: la garúa (niebla costera) es frecuente de junio a noviembre, con cielos grises pero sin lluvia. El verano limeño (diciembre-marzo) tiene días soleados y playa. Para Lima, cualquier época del año funciona.
 
-Si combinas Perú con Colombia en el mismo viaje, puedes cruzar a [Bogotá](/es/blog/donde-alojarse-bogota) o [Cartagena](/es/blog/donde-alojarse-cartagena) fácilmente desde Lima con vuelos directos de menos de 3 horas.
+Si combinas Perú con Colombia en el mismo viaje, puedes cruzar a [Bogotá](/es/blog/donde-alojarse-bogota/) o [Cartagena](/es/blog/donde-alojarse-cartagena/) fácilmente desde Lima con vuelos directos de menos de 3 horas.
 
 ## ¿Cuánto cuesta un viaje a Perú?
 
@@ -49,7 +49,7 @@ Hay dos formas distintas de hacer Perú.
 
 El mayor gasto fijo es la entrada a Machu Picchu más el tren. Planifica esos costes primero y ajusta el resto al presupuesto que te quede. Reserva la entrada a Machu Picchu con al menos 2 meses de antelación en temporada alta: los cupos se agotan.
 
-Si planeas también otros destinos de Latinoamérica, la guía de [dónde alojarse en Lima](/es/blog/donde-alojarse-lima) y la de [dónde alojarse en Cusco](/es/blog/donde-alojarse-cusco) te ayudan a encontrar el barrio correcto para cada etapa.
+Si planeas también otros destinos de Latinoamérica, la guía de [dónde alojarse en Lima](/es/blog/donde-alojarse-lima/) y la de [dónde alojarse en Cusco](/es/blog/donde-alojarse-cusco/) te ayudan a encontrar el barrio correcto para cada etapa.
 
 Zercy te ayuda a planificar vuelos y alojamiento para un itinerario de dos semanas por Perú en cuestión de minutos. Guarda tu ruta en el [Zercy Logbook](https://www.zercy.app/logbook) para no perder ningún detalle.
 
@@ -76,6 +76,6 @@ El tren sale desde Poroy (cerca de Cusco) u Ollantaytambo (Valle Sagrado). Desde
 ---
 
 **Leer más:**
-- [Dónde alojarse en Cusco: los mejores barrios](/es/blog/donde-alojarse-cusco)
-- [Dónde alojarse en Lima: Miraflores, Barranco o el Centro](/es/blog/donde-alojarse-lima)
-- [Buenos Aires: dónde alojarse según tu estilo de viaje](/es/blog/donde-alojarse-buenos-aires)
+- [Dónde alojarse en Cusco: los mejores barrios](/es/blog/donde-alojarse-cusco/)
+- [Dónde alojarse en Lima: Miraflores, Barranco o el Centro](/es/blog/donde-alojarse-lima/)
+- [Buenos Aires: dónde alojarse según tu estilo de viaje](/es/blog/donde-alojarse-buenos-aires/)

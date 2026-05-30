@@ -36,7 +36,7 @@ Drei Einsteiger-Reviere in Europa, eines für Fernreisende.
 
 **Karibik (Fernreisende):** British Virgin Islands oder Grenadinen. Konstanter Passatwind, entspanntes Segeln zwischen kleinen Inseln, türkisblaues Wasser auf einem anderen Niveau. Teurer als Europa (Bootscharter ab 3.000 USD/Woche), aber ein Traumerlebnis. Beste Monate: November bis April.
 
-Unser [Kroatien Inseln Hopping Guide](/blog/kroatien-inseln-hopping) zeigt dir die besten Routen zwischen Split und Dubrovnik.
+Unser [Kroatien Inseln Hopping Guide](/blog/kroatien-inseln-hopping/) zeigt dir die besten Routen zwischen Split und Dubrovnik.
 
 ## Was solltest du beim Segelurlaub wirklich beachten?
 
@@ -62,7 +62,7 @@ Zusammenfassung für eine Woche Kroatien, 8 Personen, Skippered Charter:
 
 **Gesamtkosten pro Person (8er Gruppe):** 500-750 EUR für eine Woche, ohne Flug. Mit Flug 700-1.150 EUR. Günstiger als manches Pauschalhotel, aber mit völlig anderem Erlebnis.
 
-Wenn du einen Mietwagen für die An- und Abreise brauchst, hilft dir unser [Mietwagen-Ratgeber](/blog/mietwagen-check).
+Wenn du einen Mietwagen für die An- und Abreise brauchst, hilft dir unser [Mietwagen-Ratgeber](/blog/mietwagen-check/).
 
 ## Welche Ausrüstung brauchst du wirklich?
 
@@ -102,6 +102,6 @@ Typisch 3-6 Stunden Fahrtzeit pro Tag, 20-50 Seemeilen (40-90 km). Der Rest ist:
 ---
 
 **Mehr lesen:**
-- [Kroatien Inseln Hopping: Die besten Routen](/blog/kroatien-inseln-hopping)
-- [Mietwagen: Worauf du wirklich achten musst](/blog/mietwagen-check)
-- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich)
+- [Kroatien Inseln Hopping: Die besten Routen](/blog/kroatien-inseln-hopping/)
+- [Mietwagen: Worauf du wirklich achten musst](/blog/mietwagen-check/)
+- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/)

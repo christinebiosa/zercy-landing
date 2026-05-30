@@ -52,7 +52,7 @@ Ein Breitbandantibiotikum (oft Ciprofloxacin oder Azithromycin) für schwere Mag
 **Höhenmedikament**
 Acetazolamid (Diamox) reduziert das Risiko einer akuten Höhenkrankheit in den Anden, Nepal oder Tibet. Auch hier: Rezept erforderlich, vorher Arzt fragen. Wer die Symptome der Höhenkrankheit kennen möchte, findet bei der [WHO](https://www.who.int/news-room/fact-sheets) dazu fundierte Informationen.
 
-Mehr zum Thema Gesundheitsvorsorge vor der Abreise: [Reiseimpfungen – Was wirklich nötig ist](/blog/reiseimpfungen-guide) und [Reisekrankenversicherung: Worauf es ankommt](/blog/reisekrankenversicherung-guide).
+Mehr zum Thema Gesundheitsvorsorge vor der Abreise: [Reiseimpfungen – Was wirklich nötig ist](/blog/reiseimpfungen-guide/) und [Reisekrankenversicherung: Worauf es ankommt](/blog/reisekrankenversicherung-guide/).
 
 ---
 
@@ -65,7 +65,7 @@ Was du immer ins Handgepäck nimmst:
 - Verschreibungspflichtige Medikamente mit Originalpackung und Attest
 - Thermometer (Glas ist im Aufgabegepäck besser aufgehoben)
 
-Beim Fliegen mit Medikamenten gilt: Immer die Originalverpackung behalten. Viele Länder verlangen beim Zoll den Nachweis, dass ein Medikament tatsächlich auf deinen Namen verschrieben ist. Auf Reisen nur mit Handgepäck? Dann hilft dieser Artikel weiter: [Nur Handgepäck: So packst du smarter](/blog/nur-handgepaeck).
+Beim Fliegen mit Medikamenten gilt: Immer die Originalverpackung behalten. Viele Länder verlangen beim Zoll den Nachweis, dass ein Medikament tatsächlich auf deinen Namen verschrieben ist. Auf Reisen nur mit Handgepäck? Dann hilft dieser Artikel weiter: [Nur Handgepäck: So packst du smarter](/blog/nur-handgepaeck/).
 
 ---
 
@@ -77,7 +77,7 @@ Hilfreich: Apps wie iPharmacy oder die lokale Variante des nationalen Apothekenv
 
 Verschreibungspflichtige Medikamente ohne Attest sind in vielen Ländern nicht erhältlich oder nur schwer. Deshalb: Immer ein mehrsprachiges Attest mitnehmen (Englisch mindestens, besser auch die Landessprache). Dein Hausarzt stellt das auf Nachfrage aus.
 
-Was zu tun ist, wenn es wirklich ernst wird: [Notfall im Ausland, das musst du wissen](/blog/notfall-ausland-was-tun).
+Was zu tun ist, wenn es wirklich ernst wird: [Notfall im Ausland, das musst du wissen](/blog/notfall-ausland-was-tun/).
 
 ---
 
@@ -102,6 +102,6 @@ Körperthermometer, Zeckenkarte und Sonnenbrand-Gel. Außerdem das mehrsprachige
 ---
 
 **Mehr lesen:**
-- [Reiseimpfungen: Was wirklich nötig ist](/blog/reiseimpfungen-guide)
-- [Reisekrankenversicherung: Worauf es ankommt](/blog/reisekrankenversicherung-guide)
-- [Nur Handgepäck: So packst du smarter](/blog/nur-handgepaeck)
+- [Reiseimpfungen: Was wirklich nötig ist](/blog/reiseimpfungen-guide/)
+- [Reisekrankenversicherung: Worauf es ankommt](/blog/reisekrankenversicherung-guide/)
+- [Nur Handgepäck: So packst du smarter](/blog/nur-handgepaeck/)

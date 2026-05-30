@@ -57,7 +57,7 @@ Hace quince años Ancoats era una zona industrial olvidada. Hoy es uno de los ba
 - **Moxy Manchester City** (económico, diseño moderno, buena opción para viajes cortos, aprox. £85)
 - **The Whitworth Locke** (aparthotel en fábrica reconvertida, con mucho carácter, aprox. £150)
 
-Consulta también [dónde alojarse en Londres](/es/blog/donde-alojarse-london) para el viaje clásico por Inglaterra combinando las dos ciudades.
+Consulta también [dónde alojarse en Londres](/es/blog/donde-alojarse-london/) para el viaje clásico por Inglaterra combinando las dos ciudades.
 
 ## ¿Cuándo es la mejor época para visitar Manchester?
 
@@ -127,5 +127,5 @@ Ancoats es la primera opción. La densidad de restaurantes es excepcional para u
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Londres: Los mejores barrios](/es/blog/donde-alojarse-london)
-- [Dónde alojarse en Edimburgo: Centro histórico o Leith](/es/blog/donde-alojarse-edimburgo)
+- [Dónde alojarse en Londres: Los mejores barrios](/es/blog/donde-alojarse-london/)
+- [Dónde alojarse en Edimburgo: Centro histórico o Leith](/es/blog/donde-alojarse-edimburgo/)

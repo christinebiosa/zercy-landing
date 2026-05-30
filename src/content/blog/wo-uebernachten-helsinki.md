@@ -77,6 +77,6 @@ Die Inselzitadelle Suomenlinna (UNESCO), der Temppeliaukio-Felskirche, der Desig
 
 ## Mehr lesen
 
-- [Wo übernachten in Tallinn](/blog/wo-uebernachten-tallinn)
-- [Wo übernachten in Riga](/blog/wo-uebernachten-riga)
-- [Wo übernachten in Vilnius](/blog/wo-uebernachten-vilnius)
+- [Wo übernachten in Tallinn](/blog/wo-uebernachten-tallinn/)
+- [Wo übernachten in Riga](/blog/wo-uebernachten-riga/)
+- [Wo übernachten in Vilnius](/blog/wo-uebernachten-vilnius/)

@@ -39,7 +39,7 @@ Harajuku sigue: Takeshita-Dori con crepes en formas impensables y moda juvenil s
 
 El Golden Gai es un laberinto de bares para 5 a 8 personas cada uno. Sistema: entrar, una copa, seguir. Cover 500 a 1.000 yenes. Kabukicho al lado es la cara de neón de Tokio por la noche. Seguro. Abrumador. Hay que verlo una vez.
 
-Para opciones de alojamiento, consulta nuestra guía sobre [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio).
+Para opciones de alojamiento, consulta nuestra guía sobre [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio/).
 
 ## Día 2: Meiji Jingu, Shimokitazawa y Akihabara
 
@@ -53,7 +53,7 @@ El [portal oficial de turismo Go Tokyo](https://www.gotokyo.org) tiene horarios 
 
 Shimokitazawa no necesita presentación. Sin gran templo, sin plataforma de observación. Tiendas vintage, colecciones de discos, cafeterías independientes, ropa de segunda mano. Los turistas están en otro lado. Alternativa: Yanaka Ginza, atmósfera shitamachi, el Tokio artesanal de antes.
 
-Para gastronomía más allá del circuito turístico: [viaje gastronómico a Tokio](/es/blog/tokio-viaje-gastronomico).
+Para gastronomía más allá del circuito turístico: [viaje gastronómico a Tokio](/es/blog/tokio-viaje-gastronomico/).
 
 **Noche: Akihabara o Roppongi**
 
@@ -69,7 +69,7 @@ Menos de lo que la mayoría espera. Las tiendas de conveniencia (7-Eleven, Lawso
 
 Presupuesto orientativo para dos personas, dos noches: 500 a 800 euros sin vuelos. Carga una tarjeta IC Suica al llegar (metro, bus, tiendas) y recoge WiFi de bolsillo o una SIM local en el aeropuerto.
 
-Para vuelos más baratos: [trucos de aeropuerto](/es/blog/trucos-aeropuerto).
+Para vuelos más baratos: [trucos de aeropuerto](/es/blog/trucos-aeropuerto/).
 
 ## ¿Cuál es la mejor época para visitar Tokio?
 
@@ -102,6 +102,6 @@ Mejor de lo que esperás. Muchos restaurantes tienen menús con fotos o modelos 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Tokio: Mejores barrios y hoteles](/es/blog/donde-alojarse-tokio)
-- [Viaje gastronómico a Tokio: Come donde come Tokio](/es/blog/tokio-viaje-gastronomico)
-- [Trucos de aeropuerto: Pierde menos tiempo en el aeropuerto](/es/blog/trucos-aeropuerto)
+- [Dónde alojarse en Tokio: Mejores barrios y hoteles](/es/blog/donde-alojarse-tokio/)
+- [Viaje gastronómico a Tokio: Come donde come Tokio](/es/blog/tokio-viaje-gastronomico/)
+- [Trucos de aeropuerto: Pierde menos tiempo en el aeropuerto](/es/blog/trucos-aeropuerto/)

@@ -53,7 +53,7 @@ Lo que la mayoría imagina. Acantilados imponentes, calas rocosas, infraestructu
 
 **Lagos** es el punto medio perfecto: casco antiguo bonito, buena playa cerca, ambiente joven e internacional (surfistas, mochileros, familias mezclados), buenos restaurantes. No es barato, pero vale la pena. El mejor campamento base para primera visita.
 
-Para comparar con el norte de Portugal, consulta también [dónde alojarse en Oporto](/es/blog/donde-alojarse-oporto) y la guía de [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica).
+Para comparar con el norte de Portugal, consulta también [dónde alojarse en Oporto](/es/blog/donde-alojarse-oporto/) y la guía de [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica/).
 
 ## ¿Cómo moverse por el Algarve?
 
@@ -118,6 +118,6 @@ Sagres y la costa occidental (Praia do Amado, Arrifana, Castelejo) son los mejor
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Oporto: el norte de Portugal](/es/blog/donde-alojarse-oporto)
-- [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica)
-- [Consolidadores de alquiler de coche: cómo ahorrar](/es/blog/consolidadores-alquiler-ahorrar)
+- [Dónde alojarse en Oporto: el norte de Portugal](/es/blog/donde-alojarse-oporto/)
+- [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica/)
+- [Consolidadores de alquiler de coche: cómo ahorrar](/es/blog/consolidadores-alquiler-ahorrar/)

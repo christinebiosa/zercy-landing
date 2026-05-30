@@ -85,7 +85,7 @@ El aeropuerto de Gold Coast (Coolangatta) está a 25 km al sur de Surfers Paradi
 
 ### ¿Qué no hay que perderse en Gold Coast?
 
-Aprender a surfear en Surfers Paradise (clases desde 60 AUD), excursión de un día al Parque Nacional Springbrook (selva tropical, cataratas), Warner Bros. Movie World o Dreamworld (parques temáticos, buenos para familias), Sea World, Currumbin Wildlife Sanctuary (canguros y koalas de cerca). La [guía de road trip por Australia](/es/blog/australia-ruta-completa) mapea la combinación óptima con Brisbane y Cairns.
+Aprender a surfear en Surfers Paradise (clases desde 60 AUD), excursión de un día al Parque Nacional Springbrook (selva tropical, cataratas), Warner Bros. Movie World o Dreamworld (parques temáticos, buenos para familias), Sea World, Currumbin Wildlife Sanctuary (canguros y koalas de cerca). La [guía de road trip por Australia](/es/blog/australia-ruta-completa/) mapea la combinación óptima con Brisbane y Cairns.
 
 ### ¿A qué distancia está Gold Coast de Brisbane?
 
@@ -98,6 +98,6 @@ Burleigh Heads es considerada la mejor por los surfistas. Coolangatta (Snapper R
 ---
 
 **Leer más:**
-- [Australia: La ruta óptima por el continente](/es/blog/australia-ruta-completa)
-- [Dónde alojarse en Brisbane: Los mejores barrios](/es/blog/donde-alojarse-brisbane)
-- [Dónde alojarse en Sídney: CBD, Bondi o Manly](/es/blog/donde-alojarse-sydney)
+- [Australia: La ruta óptima por el continente](/es/blog/australia-ruta-completa/)
+- [Dónde alojarse en Brisbane: Los mejores barrios](/es/blog/donde-alojarse-brisbane/)
+- [Dónde alojarse en Sídney: CBD, Bondi o Manly](/es/blog/donde-alojarse-sydney/)

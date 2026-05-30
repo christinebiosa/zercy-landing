@@ -80,6 +80,6 @@ Vuelo desde Europa: entre 400 y 700 euros de ida y vuelta según la temporada. H
 ---
 
 **Leer más:**
-- [Islas Feroe: guía de viaje](/es/blog/islas-feroe-guia)
-- [Lista de equipaje esencial para viajes](/es/blog/lista-equipaje-viaje-esencial)
-- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Islas Feroe: guía de viaje](/es/blog/islas-feroe-guia/)
+- [Lista de equipaje esencial para viajes](/es/blog/lista-equipaje-viaje-esencial/)
+- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)

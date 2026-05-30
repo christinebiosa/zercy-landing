@@ -33,7 +33,7 @@ Here's what Zercy covers:
 - **Tours & activities:** local experiences, city tours, day trips, bookable directly
 - **Navigation:** Google Maps is integrated, travel times from airport to hotel are calculated automatically
 
-If you're heading to [Santiago de Compostela](/en/blog/santiago-de-compostela) and want to continue to Porto, Zercy gives you the train, the travel time and the right departure schedule, without you having to search for it separately. That's AI that genuinely thinks ahead.
+If you're heading to [Santiago de Compostela](/en/blog/santiago-de-compostela/) and want to continue to Porto, Zercy gives you the train, the travel time and the right departure schedule, without you having to search for it separately. That's AI that genuinely thinks ahead.
 
 ## Which platforms does Zercy trust?
 
@@ -83,7 +83,7 @@ Just type your travel idea. The way you'd tell a friend.
 
 Zercy understands that. It asks clarifying questions when needed. Then it gives you concrete suggestions: real prices, direct links and well-thought-out alternatives.
 
-No form where you type the same date three times. No tab-hopping between eight sites. No comparing without context. Travelers who want to [fly cheap](/en/blog/cheap-flights-tips) automatically get tips on the best booking window. Those traveling carry-on only get tailored recommendations.
+No form where you type the same date three times. No tab-hopping between eight sites. No comparing without context. Travelers who want to [fly cheap](/en/blog/cheap-flights-tips/) automatically get tips on the best booking window. Those traveling carry-on only get tailored recommendations.
 
 Zercy adapts to you. Not the other way around.
 
@@ -110,6 +110,6 @@ Zercy was built by someone who got tired of planning trips across ten different 
 ---
 
 Read more:
-- [How AI is changing travel planning forever](/en/blog/ai-changing-travel-planning)
-- [When should you book flights? The optimal timing](/en/blog/when-to-book-flights)
-- [Cheap flights: 7 tricks frequent flyers know](/en/blog/cheap-flights-tips)
+- [How AI is changing travel planning forever](/en/blog/ai-changing-travel-planning/)
+- [When should you book flights? The optimal timing](/en/blog/when-to-book-flights/)
+- [Cheap flights: 7 tricks frequent flyers know](/en/blog/cheap-flights-tips/)

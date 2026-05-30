@@ -21,7 +21,7 @@ New York is also a cultural capital in the truest sense. MoMA is one of the worl
 
 NYC's restaurant scene is unmatched. Chinatown, Little Italy, Jackson Heights, Williamsburg: you eat the cuisine of the entire world in one city. The [NYC Tourism & Conventions](https://www.nycgo.com) website is worth bookmarking for current events and free attractions by borough.
 
-For where to sleep in the city: [Where to Stay in New York](/en/blog/where-to-stay-new-york) breaks down the best neighborhoods with realistic price ranges.
+For where to sleep in the city: [Where to Stay in New York](/en/blog/where-to-stay-new-york/) breaks down the best neighborhoods with realistic price ranges.
 
 ## When does Los Angeles make more sense?
 
@@ -31,9 +31,9 @@ What you get in return: beaches, sunshine, a different pace. Santa Monica Beach,
 
 The weather is simply better. Around 300 sunny days per year. New York goes below freezing in January and hits humid heat in August. LA stays pleasant.
 
-LA is also the perfect base for a road trip. The Pacific Coast Highway north toward San Francisco is one of the most beautiful coastal drives anywhere. Our [US West Coast Road Trip](/en/blog/us-west-coast-road-trip) has the full itinerary.
+LA is also the perfect base for a road trip. The Pacific Coast Highway north toward San Francisco is one of the most beautiful coastal drives anywhere. Our [US West Coast Road Trip](/en/blog/us-west-coast-road-trip/) has the full itinerary.
 
-For the full neighborhood picture: [Where to Stay in Los Angeles](/en/blog/where-to-stay-los-angeles) explains the difference between Santa Monica, West Hollywood, and Downtown LA.
+For the full neighborhood picture: [Where to Stay in Los Angeles](/en/blog/where-to-stay-los-angeles/) explains the difference between Santa Monica, West Hollywood, and Downtown LA.
 
 The [Discover Los Angeles](https://www.discoverlosangeles.com) official tourism site is a solid resource for neighborhood guides and current events.
 
@@ -63,7 +63,7 @@ Both cities are expensive. The gap between NYC and LA is smaller than most expec
 
 Classic USA trip: fly into New York, spend a week on the East Coast, then take a domestic flight to LA. Flights between NYC and LAX run 100 to 300 euros. That way you get both cities in one trip. Most first-time USA visitors leave happy with this combo.
 
-Need a detailed itinerary? [48 Hours in New York](/en/blog/48-hours-new-york) walks you through the whole thing.
+Need a detailed itinerary? [48 Hours in New York](/en/blog/48-hours-new-york/) walks you through the whole thing.
 
 ---
 
@@ -90,6 +90,6 @@ New York is best from September to November: less heat, beautiful fall colors, f
 ---
 
 **Read more:**
-- [Where to Stay in New York](/en/blog/where-to-stay-new-york)
-- [US West Coast Road Trip](/en/blog/us-west-coast-road-trip)
-- [48 Hours in New York](/en/blog/48-hours-new-york)
+- [Where to Stay in New York](/en/blog/where-to-stay-new-york/)
+- [US West Coast Road Trip](/en/blog/us-west-coast-road-trip/)
+- [48 Hours in New York](/en/blog/48-hours-new-york/)

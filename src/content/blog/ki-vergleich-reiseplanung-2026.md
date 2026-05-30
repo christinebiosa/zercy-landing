@@ -60,7 +60,7 @@ Halluzinationen sind das größte Problem aller drei. Hier die häufigsten Patte
 
 **Visumsregeln:** Alle drei können die generelle Regel, aber Edge-Cases (mehrfache Einreise, spezielle Pässe) sind oft veraltet. Lösung: immer Botschafts-Website final.
 
-Lies dazu auch unseren [KI-Reiseplaner-vs-Reisebüro-Guide](/blog/ki-reiseplaner-vs-reisebuero), wenn du das größere Bild willst.
+Lies dazu auch unseren [KI-Reiseplaner-vs-Reisebüro-Guide](/blog/ki-reiseplaner-vs-reisebuero/), wenn du das größere Bild willst.
 
 ## Welche spezialisierten Reise-KIs gibt es jenseits der Generalisten?
 
@@ -107,6 +107,6 @@ Trainingsdaten sind oft 6-18 Monate alt. Restaurants schließen, Hotels werden u
 ---
 
 **Mehr lesen:**
-- [Wie KI die Reiseplanung verändert](/blog/ki-veraendert-reiseplanung)
-- [KI-Reiseplaner vs Reisebüro: Was ist 2026 besser?](/blog/ki-reiseplaner-vs-reisebuero)
-- [KI-Tools für die Reise: Der ehrliche Vergleich](/blog/ki-tools-reise-vergleich)
+- [Wie KI die Reiseplanung verändert](/blog/ki-veraendert-reiseplanung/)
+- [KI-Reiseplaner vs Reisebüro: Was ist 2026 besser?](/blog/ki-reiseplaner-vs-reisebuero/)
+- [KI-Tools für die Reise: Der ehrliche Vergleich](/blog/ki-tools-reise-vergleich/)

@@ -47,7 +47,7 @@ Das Zentrum um die Kathedrale, die Alcaicería (maurischer Basar) und die Gran V
 
 **Top-Picks:** Eurostars Gran Hotel Vía (klassisches Gran-Hotel), Hospes Palacio de los Patos (Design-Boutique im alten Palast), Hotel Casa Catalina (kleine Boutique, Innenhof).
 
-Lies auch unseren [Sevilla-Guide](/blog/wo-uebernachten-sevilla) für Andalusiens zweite Hochburg.
+Lies auch unseren [Sevilla-Guide](/blog/wo-uebernachten-sevilla/) für Andalusiens zweite Hochburg.
 
 ## Wann ist die beste Reisezeit für Granada?
 
@@ -118,6 +118,6 @@ Granada hat eine Jahrhunderte alte Tradition: Jedes Getränk kommt automatisch m
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Sevilla: Andalusiens andere Hauptstadt](/blog/wo-uebernachten-sevilla)
-- [Wo übernachten in Madrid: Welcher Stadtteil passt?](/blog/wo-uebernachten-madrid)
-- [Apulien Süditalien Guide: Das unterschätzte Reiseziel](/blog/apulien-sueditalien-guide)
+- [Wo übernachten in Sevilla: Andalusiens andere Hauptstadt](/blog/wo-uebernachten-sevilla/)
+- [Wo übernachten in Madrid: Welcher Stadtteil passt?](/blog/wo-uebernachten-madrid/)
+- [Apulien Süditalien Guide: Das unterschätzte Reiseziel](/blog/apulien-sueditalien-guide/)

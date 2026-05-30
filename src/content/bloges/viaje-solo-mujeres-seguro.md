@@ -73,6 +73,6 @@ Para destinos específicos o actividades con lógística difícil (safaris, trek
 ---
 
 **Más para leer:**
-- [Seguro de viaje: ¿vale la pena contratarlo?](/es/blog/seguro-viaje-vale-la-pena)
-- [Solo equipaje de mano: la guía definitiva](/es/blog/solo-equipaje-de-mano)
-- [Costa Rica: la ruta completa por el país en 2 semanas](/es/blog/costa-rica-ruta-completa)
+- [Seguro de viaje: ¿vale la pena contratarlo?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Solo equipaje de mano: la guía definitiva](/es/blog/solo-equipaje-de-mano/)
+- [Costa Rica: la ruta completa por el país en 2 semanas](/es/blog/costa-rica-ruta-completa/)

@@ -24,7 +24,7 @@ El esquema es sencillo: la empresa cubre el vuelo y el hotel para los días labo
 
 No todos los destinos de negocios invitan a quedarse. Algunas ciudades son funcionales pero poco atractivas fuera del trabajo. Otras tienen tanto que ofrecer que tres días extra se convierten en unas minivacaciones de verdad.
 
-**Londres** es el destino bleisure por excelencia. Los vuelos de fin de semana suelen costar lo mismo que los de entre semana. La mayoría de los museos son gratuitos. Parques, mercados, teatro, gastronomía de todo el mundo: todo excelente. Nuestra guía sobre [dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur) y otros destinos asiáticos te ayuda a elegir barrio después de la semana de trabajo.
+**Londres** es el destino bleisure por excelencia. Los vuelos de fin de semana suelen costar lo mismo que los de entre semana. La mayoría de los museos son gratuitos. Parques, mercados, teatro, gastronomía de todo el mundo: todo excelente. Nuestra guía sobre [dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur/) y otros destinos asiáticos te ayuda a elegir barrio después de la semana de trabajo.
 
 **Singapur** es a menudo la primera parada en los viajes de negocios a Asia. Segura, bien comunicada, con una cultura gastronómica extraordinaria desde los hawker centres hasta los restaurantes de alto nivel. Después de una semana de reuniones, dos noches para explorar Chinatown o el Jardín Botánico son un auténtico descanso.
 
@@ -42,7 +42,7 @@ Tú pones: todas las noches después del último día de trabajo, la comida y el
 
 El punto inteligente: si puedes tomar el mismo vuelo de regreso que habrías tomado de todas formas, pero una semana después sin coste extra, tu empresa normalmente no tiene inconveniente. Algunas tienen políticas explícitas sobre bleisure. Otras lo resuelven informalmente. Vale la pena preguntar. La mayoría de los responsables no tienen problema siempre que el trabajo esté hecho y los costes no aumenten.
 
-Si viajas frecuentemente, revisar si los [programas de fidelización de hoteles valen la pena](/es/blog/donde-alojarse-singapur) es algo que se amortiza rápido cuando empiezas a alargar viajes.
+Si viajas frecuentemente, revisar si los [programas de fidelización de hoteles valen la pena](/es/blog/donde-alojarse-singapur/) es algo que se amortiza rápido cuando empiezas a alargar viajes.
 
 ## ¿Cómo negocias el bleisure con tu jefe?
 
@@ -54,13 +54,13 @@ Si tu empresa tiene una política de viajes, comprueba si el bleisure está cont
 
 Algo importante que aclarar de antemano: el seguro. El seguro de viaje de negocios de tu empresa cubre normalmente solo los días laborables. Para los días de ocio necesitas tu propia cobertura. Una tarjeta de crédito con seguro de viaje integrado suele funcionar. Una póliza temporal es la otra opción. Parece un trámite menor, pero es lo único que merece confirmación antes de salir.
 
-Si viajas en business en el tramo de trabajo y quieres entender las opciones de [acceso a la sala VIP sin billete business](/es/blog/acceso-sala-vip-sin-business), hay más alternativas de lo que crees.
+Si viajas en business en el tramo de trabajo y quieres entender las opciones de [acceso a la sala VIP sin billete business](/es/blog/acceso-sala-vip-sin-business/), hay más alternativas de lo que crees.
 
 ## ¿Qué implicaciones fiscales tiene un viaje bleisure?
 
 Para la mayoría de los países: los días de trabajo son responsabilidad de la empresa, fiscalmente hablando. Los días privados son gastos personales. Sin deducciones, pero tampoco complicaciones, siempre que el desglose de costes esté claro.
 
-Se complica si trabajas durante tus "días de ocio". En ese caso empieza a parecerse más a una [workation, y aplican reglas fiscales distintas](/es/blog/workation-impuestos-2026). Para días genuinamente libres en los que no hay trabajo, la parte fiscal es simple.
+Se complica si trabajas durante tus "días de ocio". En ese caso empieza a parecerse más a una [workation, y aplican reglas fiscales distintas](/es/blog/workation-impuestos-2026/). Para días genuinamente libres en los que no hay trabajo, la parte fiscal es simple.
 
 Un caso que conviene gestionar con cuidado: si tu empresa paga inicialmente todo el hotel y tú reembolsas las noches privadas, asegúrate de que el desglose quede documentado en la nota de gastos. Los costes mezclados en una sola factura pueden crear problemas en algunas jurisdicciones.
 
@@ -70,7 +70,7 @@ El vuelo es el mayor palanca. Los vuelos de fin de semana suelen costar lo mismo
 
 Para el hotel: algunas cadenas permiten extender tu reserva corporativa a la misma tarifa. Siempre vale la pena preguntarlo. Si no, sal del hotel de conferencias y muévete a algo más pequeño e interesante en un barrio mejor. Los hoteles boutique en zonas más auténticas suelen costar entre un 40 y un 60 por ciento menos que los hoteles de zona de negocios, y la experiencia es más memorable.
 
-El acceso a la sala VIP en el vuelo de regreso también es algo que planificar, especialmente en vuelos de larga distancia. Nuestro artículo sobre [acceso a la sala VIP sin billete business](/es/blog/acceso-sala-vip-sin-business) cubre las opciones prácticas.
+El acceso a la sala VIP en el vuelo de regreso también es algo que planificar, especialmente en vuelos de larga distancia. Nuestro artículo sobre [acceso a la sala VIP sin billete business](/es/blog/acceso-sala-vip-sin-business/) cubre las opciones prácticas.
 
 ---
 
@@ -98,6 +98,6 @@ El seguro de viaje corporativo de tu empresa generalmente cubre solo los días l
 
 ## Más información
 
-- [Business class sin millas: cómo conseguirlo igualmente](/es/blog/business-class-sin-millas)
-- [Acceso a sala VIP sin billete business: todas las opciones](/es/blog/acceso-sala-vip-sin-business)
-- [Workation e impuestos 2026: lo que necesitas saber](/es/blog/workation-impuestos-2026)
+- [Business class sin millas: cómo conseguirlo igualmente](/es/blog/business-class-sin-millas/)
+- [Acceso a sala VIP sin billete business: todas las opciones](/es/blog/acceso-sala-vip-sin-business/)
+- [Workation e impuestos 2026: lo que necesitas saber](/es/blog/workation-impuestos-2026/)

@@ -20,7 +20,7 @@ The shoulder seasons, October to November and March to April, are often the swee
 
 ## North Island or South Island: Which should you do first?
 
-The classic approach is to fly into Auckland on the North Island and depart from Queenstown or Christchurch on the South Island. This is logistically sensible. You need only a one-way rental car and avoid unnecessary backtracking. Open-jaw flights work well here: for a primer on how those tickets work, read our guide to [open-jaw tickets as a travel hack](/en/blog/open-jaw-tickets-travel-hack).
+The classic approach is to fly into Auckland on the North Island and depart from Queenstown or Christchurch on the South Island. This is logistically sensible. You need only a one-way rental car and avoid unnecessary backtracking. Open-jaw flights work well here: for a primer on how those tickets work, read our guide to [open-jaw tickets as a travel hack](/en/blog/open-jaw-tickets-travel-hack/).
 
 North Island essentials: Auckland as your arrival city. Rotorua for geothermal landscapes and Maori culture. The Tongariro Alpine Crossing ranks among the best day hikes on earth. Hobbiton is touristy, but genuinely impressive in person. Bay of Islands in the far north offers stunning coastline and history.
 
@@ -32,7 +32,7 @@ New Zealand is built for road trips. Public transport exists but is slow and fra
 
 Rental car: Maximum flexibility, comfortable sleeping in hostels or motels, no need to book campgrounds in advance. Accommodation costs stack up quickly, especially in peak season. This works well for couples and anyone who wants a proper bed each night.
 
-Campervan: Everything comes with you. You can stay spontaneously on DOC (Department of Conservation) campgrounds, many of which are free or very cheap. Cooking your own meals cuts costs significantly. The downside: larger vehicles on narrow mountain roads take adjustment. For two or more travelers, a campervan often works out cheaper than a rental car plus accommodation. Our [rental car checklist](/en/blog/rental-car-checklist) covers the key insurance traps and booking tips that apply whether you choose a car or van.
+Campervan: Everything comes with you. You can stay spontaneously on DOC (Department of Conservation) campgrounds, many of which are free or very cheap. Cooking your own meals cuts costs significantly. The downside: larger vehicles on narrow mountain roads take adjustment. For two or more travelers, a campervan often works out cheaper than a rental car plus accommodation. Our [rental car checklist](/en/blog/rental-car-checklist/) covers the key insurance traps and booking tips that apply whether you choose a car or van.
 
 ## How much time do you actually need?
 
@@ -42,7 +42,7 @@ Three weeks: Both islands are manageable. Five days on the North Island, then th
 
 Four weeks: The ideal scenario. Time for multi-day hikes like the Milford Track, longer stays in Abel Tasman, the Wairarapa wine region on the North Island, and possibly Stewart Island at the southern tip of the country.
 
-New Zealand also works well as part of a longer Pacific itinerary. A stopover in Singapore, Tokyo, or Doha on the way out or back can add serious value without much extra cost, as explained in our [stopover tourism guide](/en/blog/stopover-tourism-guide).
+New Zealand also works well as part of a longer Pacific itinerary. A stopover in Singapore, Tokyo, or Doha on the way out or back can add serious value without much extra cost, as explained in our [stopover tourism guide](/en/blog/stopover-tourism-guide/).
 
 Once you know your itinerary, save your picks in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything ready when booking.
 
@@ -69,6 +69,6 @@ Milford Sound is the emotional high point for most visitors. Beyond that: Abel T
 ---
 
 **Read more:**
-- [Open-Jaw Tickets: The Smart Travel Hack](/en/blog/open-jaw-tickets-travel-hack)
-- [Stopover Tourism: Making Layovers Work for You](/en/blog/stopover-tourism-guide)
-- [Rental Car Checklist: What to Check Before You Drive](/en/blog/rental-car-checklist)
+- [Open-Jaw Tickets: The Smart Travel Hack](/en/blog/open-jaw-tickets-travel-hack/)
+- [Stopover Tourism: Making Layovers Work for You](/en/blog/stopover-tourism-guide/)
+- [Rental Car Checklist: What to Check Before You Drive](/en/blog/rental-car-checklist/)

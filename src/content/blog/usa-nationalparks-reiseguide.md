@@ -10,7 +10,7 @@ heroImage: "/img/blog/usa-national-parks.jpg"
 
 Die USA hat über 400 Nationalparks. Nur acht davon werden so oft fotografiert, dass sie jeder kennt. Aber selbst unter den bekannten gibt es riesige Unterschiede: beim Erlebnis, bei der besten Reisezeit, beim Eintrittspreis. Dieser Guide bringt die wichtigsten Fakten auf den Punkt, damit du direkt loslegen kannst.
 
-Für einen guten Start lohnt es sich auch, unseren [US-Westküste-Roadtrip-Guide](/blog/us-westkueste-roadtrip) zu lesen, denn viele Top-Parks liegen direkt auf klassischen Roadtrip-Routen.
+Für einen guten Start lohnt es sich auch, unseren [US-Westküste-Roadtrip-Guide](/blog/us-westkueste-roadtrip/) zu lesen, denn viele Top-Parks liegen direkt auf klassischen Roadtrip-Routen.
 
 ## Was kostet der Eintritt in die US-Nationalparks wirklich?
 
@@ -28,7 +28,7 @@ Wichtig: Der Pass gilt pro Fahrzeug bei Parks mit Einzel-Fahrzeuggebühr. Bei Pa
 
 **Yosemite (Kalifornien)** zeigt El Capitan und Half Dome bei schönem Wetter von überall im Tal. Von April bis Oktober ist eine Einfahrtreservierung Pflicht. Ohne Reservierung kein Einlass mit dem Auto. Details unter [nps.gov/yose](https://www.nps.gov/yose).
 
-**Zion (Utah)** hat die engste, beeindruckendste Schlucht der USA: The Narrows. Wandern durch den Virgin River bis zu den Knien im Wasser. Shuttlebus-System im Sommer, eigenes Auto nur auf dem Hauptparkplatz erlaubt. Wer nach Utah kommt, findet auf der klassischen [Route 66](/blog/route-66-usa-roadtrip) Anschlusspunkte.
+**Zion (Utah)** hat die engste, beeindruckendste Schlucht der USA: The Narrows. Wandern durch den Virgin River bis zu den Knien im Wasser. Shuttlebus-System im Sommer, eigenes Auto nur auf dem Hauptparkplatz erlaubt. Wer nach Utah kommt, findet auf der klassischen [Route 66](/blog/route-66-usa-roadtrip/) Anschlusspunkte.
 
 **Great Smoky Mountains (Tennessee/North Carolina)** ist kostenlos. Kein Eintritt. Deshalb der meistbesuchte Nationalpark der USA. Bestes Laubbild-Erlebnis im Oktober, Nebel in den Bergen fast täglich im Frühjahr.
 
@@ -52,7 +52,7 @@ Winter lohnt sich für Grand Canyon (Südrim + seltene Schneeszenen) und Great S
 
 Buchungsfenster öffnen oft 6 Monate im Voraus auf den Tag genau, um 10 Uhr Eastern Time. Beliebte Plätze in Yosemite Valley oder Zion sind in Minuten weg. Kalender-Alert einrichten, pünktlich einloggen.
 
-Alternativ: First-come-first-served-Plätze außerhalb der Hauptsaison. Weniger planbar, aber gut für spontane Trips. Fürs Auto braucht ihr einen [gut organisierten Mietwagen](/blog/mietwagen-check), besonders auf langen Strecken zwischen den Parks.
+Alternativ: First-come-first-served-Plätze außerhalb der Hauptsaison. Weniger planbar, aber gut für spontane Trips. Fürs Auto braucht ihr einen [gut organisierten Mietwagen](/blog/mietwagen-check/), besonders auf langen Strecken zwischen den Parks.
 
 Wer nicht zelten will: Lodges innerhalb der Parks bieten Zimmerkategorien von rustikal bis komfortabel. Preise ab ca. 120 Dollar, Verfügbarkeit meist 12 Monate im Voraus buchbar.
 
@@ -62,7 +62,7 @@ Die Liste ist kurz, aber jeder Punkt zählt.
 
 Wasserflasche mit Filter oder 2+ Liter Fassungsvermögen. Quellen sind in vielen Parks rar, Wasser kaufen teuer und umweltunfreundlich. Sonnenschutz SPF 50+, auch bei bewölktem Himmel. Wanderschuhe mit Knöchelstütze, kein Turnschuh. Layering-Kleidung, selbst im Sommer können Temperaturen zwischen Mittag und Abend um 20 Grad variieren.
 
-Handy-Empfang ist in den meisten Parks schlecht bis null. Offline-Karten via Google Maps oder AllTrails vorher herunterladen. Das gilt auch für die [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich), die du im Zweifel schon vor der Einreise benötigst.
+Handy-Empfang ist in den meisten Parks schlecht bis null. Offline-Karten via Google Maps oder AllTrails vorher herunterladen. Das gilt auch für die [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/), die du im Zweifel schon vor der Einreise benötigst.
 
 ## Was ist der Unterschied zwischen Nationalpark, National Monument und National Forest?
 
@@ -93,6 +93,6 @@ Great Smoky Mountains ist kostenlos, gut erschlossen und bietet ein breites Wege
 ---
 
 **Mehr lesen:**
-- [US-Westküste Roadtrip: Die komplette Route](/blog/us-westkueste-roadtrip)
-- [Route 66 USA Roadtrip: Was du wissen musst](/blog/route-66-usa-roadtrip)
-- [Mietwagen in den USA: Checkliste + Tipps](/blog/mietwagen-check)
+- [US-Westküste Roadtrip: Die komplette Route](/blog/us-westkueste-roadtrip/)
+- [Route 66 USA Roadtrip: Was du wissen musst](/blog/route-66-usa-roadtrip/)
+- [Mietwagen in den USA: Checkliste + Tipps](/blog/mietwagen-check/)

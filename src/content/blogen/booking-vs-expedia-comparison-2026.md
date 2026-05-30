@@ -31,7 +31,7 @@ Here's the honest breakdown:
 | Flexible cancellation, short trip | Booking.com (free cancellation options widely available) |
 | Flight + hotel together | Expedia (One Key points on both) |
 | Frequent traveler, many nights | Hotels.com (free night reward) |
-| Comparing flight prices | Kayak or [Google Flights](/en/blog/google-flights-tips-tricks-2026) |
+| Comparing flight prices | Kayak or [Google Flights](/en/blog/google-flights-tips-tricks-2026/) |
 | Apartments or private rentals | Booking.com (large inventory) or Airbnb |
 
 One important clarification: Kayak is not a booking platform. It's a metasearch engine. You see prices but get redirected to other sites to actually book. Great for comparing. Not useful for earning loyalty points.
@@ -46,7 +46,7 @@ Hotels have real motivation to win you back from Booking and Expedia. They typic
 
 Calling the hotel directly can pay off when you want a specific room type (ocean view, top floor, quiet side), when you're booking a small boutique hotel without rate parity contracts, or when you're staying for multiple weeks and want to negotiate a weekly rate.
 
-Classic direct booking perks: free breakfast, early check-in, late checkout, room category upgrade. None of that is guaranteed through Booking. For a full breakdown, see our [Booking vs. direct booking comparison](/en/blog/booking-vs-direct-hotel-booking).
+Classic direct booking perks: free breakfast, early check-in, late checkout, room category upgrade. None of that is guaranteed through Booking. For a full breakdown, see our [Booking vs. direct booking comparison](/en/blog/booking-vs-direct-hotel-booking/).
 
 That said: for most standard bookings, Booking.com and Expedia offer more security through buyer protection, better cancellation policies, and a complete overview of alternatives. Direct booking is the exception, not the default.
 
@@ -58,7 +58,7 @@ The share of hotels with free cancellation up to 24 or 48 hours before arrival i
 
 Practical tip: always filter for "Free cancellation" even if you don't plan to cancel. It gives you room to maneuver if plans change.
 
-For long stays of several weeks or months, apartments become a separate category. Airbnb earns points here for kitchen access and living space. But Booking.com has a large apartment inventory too. Our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison) explains when each accommodation type fits best.
+For long stays of several weeks or months, apartments become a separate category. Airbnb earns points here for kitchen access and living space. But Booking.com has a large apartment inventory too. Our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) explains when each accommodation type fits best.
 
 ## How do you find the cheapest flights?
 
@@ -68,7 +68,7 @@ Both Expedia and Booking.com offer flights. But the price difference compared to
 
 Better approach: use Google Flights and Kayak to scan prices, then book directly with the airline. Why directly? Because flight changes, cancellations, and refunds go much more smoothly when you're dealing with the airline rather than an intermediary.
 
-Google Flights also shows price history for the past weeks. Useful when you want to know if the current price is good or if it might drop. More on that in our [Google Flights tricks guide](/en/blog/google-flights-tips-tricks-2026).
+Google Flights also shows price history for the past weeks. Useful when you want to know if the current price is good or if it might drop. More on that in our [Google Flights tricks guide](/en/blog/google-flights-tips-tricks-2026/).
 
 ---
 
@@ -95,6 +95,6 @@ Google Flights and Kayak show prices from many providers at once. Both are metas
 ---
 
 **Read more:**
-- [Booking.com vs. direct hotel booking: the honest comparison](/en/blog/booking-vs-direct-hotel-booking)
-- [Airbnb vs hotel: which works better for your travel style?](/en/blog/airbnb-vs-hotel-comparison)
-- [Google Flights tips and tricks for 2026](/en/blog/google-flights-tips-tricks-2026)
+- [Booking.com vs. direct hotel booking: the honest comparison](/en/blog/booking-vs-direct-hotel-booking/)
+- [Airbnb vs hotel: which works better for your travel style?](/en/blog/airbnb-vs-hotel-comparison/)
+- [Google Flights tips and tricks for 2026](/en/blog/google-flights-tips-tricks-2026/)

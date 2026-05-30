@@ -41,7 +41,7 @@ Diese und 600+ weitere Breslau-Hotels findest du auf [Booking.com](https://www.b
 - **Art Hotel Wrocław:** Designhotel mit individuellen Zimmern, zentral gelegen. Beliebter bei Reisenden, die Persönlichkeit über Kette stellen.
 - **ibis Wrocław Centrum:** Verlässliches Kettenhotel, gute Lage, günstigster Einstieg in die Zentrumsnähe.
 
-Breslau ist ein idealer Stopp auf einer [Polen-Rundreise](/blog/polen-rundreise-route). Von hier aus ist Krakau mit dem Zug in gut zwei Stunden erreichbar, Warschau in knapp drei.
+Breslau ist ein idealer Stopp auf einer [Polen-Rundreise](/blog/polen-rundreise-route/). Von hier aus ist Krakau mit dem Zug in gut zwei Stunden erreichbar, Warschau in knapp drei.
 
 ## Wann ist die beste Reisezeit für Breslau?
 
@@ -60,7 +60,7 @@ Wer mehrere Nächte bleibt oder Breslau aus dem Blickwinkel der Einheimischen er
 - **Apartments und Ferienwohnungen:** Auf Booking.com und Airbnb gibt es Dutzende renovierter Wohnungen in Altbau-Gebäuden. Für Paare oder kleine Gruppen oft günstiger als ein Hotelzimmer.
 - **Hotel Campanile Wrocław:** Modernes Businesshotel in Krzyki. Gut gewartet, faire Preise, Parkplatz vorhanden.
 
-Wenn günstig Reisen dein Thema ist, lohnt sich auch unser Artikel über [Osteuropa-Budget-Reisen](/blog/guenstig-reisen-osteuropa-guide). Breslau gehört zu den preiswertesten Großstädten auf dem Kontinent.
+Wenn günstig Reisen dein Thema ist, lohnt sich auch unser Artikel über [Osteuropa-Budget-Reisen](/blog/guenstig-reisen-osteuropa-guide/). Breslau gehört zu den preiswertesten Großstädten auf dem Kontinent.
 
 ## Ostrów Tumski: Romantik auf der Kathedralinsel
 
@@ -107,6 +107,6 @@ Per Zug in gut zwei Stunden direkter Verbindung. Tickets über PKP Intercity buc
 ---
 
 **Mehr lesen:**
-- [Polen Rundreise: Route durch Warschau, Breslau und Krakau](/blog/polen-rundreise-route)
-- [Günstig Reisen in Osteuropa: Der komplette Guide](/blog/guenstig-reisen-osteuropa-guide)
-- [Beste Hotels in Krakau: Wo übernachten nach Viertel](/blog/wo-uebernachten-krakau)
+- [Polen Rundreise: Route durch Warschau, Breslau und Krakau](/blog/polen-rundreise-route/)
+- [Günstig Reisen in Osteuropa: Der komplette Guide](/blog/guenstig-reisen-osteuropa-guide/)
+- [Beste Hotels in Krakau: Wo übernachten nach Viertel](/blog/wo-uebernachten-krakau/)

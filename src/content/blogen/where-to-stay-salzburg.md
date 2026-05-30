@@ -61,7 +61,7 @@ Schallmoos and Lehen are classic Salzburg residential neighborhoods. No museums,
 
 **Top picks:** A&O Salzburg Main Station (hostel and hotel in one building, good connections), Hotel Garni Lehenerhof (well-kept, quiet, affordable), various serviced apartments for week-long stays.
 
-If you plan to use Salzburg as a base for day trips, our [train travel Europe guide](/en/blog/train-travel-europe) covers the best regional connections.
+If you plan to use Salzburg as a base for day trips, our [train travel Europe guide](/en/blog/train-travel-europe/) covers the best regional connections.
 
 ## Aigen/Nonntal: Green and Quiet
 
@@ -94,7 +94,7 @@ For Salzburg, [Booking.com](https://www.booking.com) is the most reliable starti
 
 Booking direct at the hotel makes sense for smaller family-run guesthouses like Hotel Auersperg or guesthouses in Aigen if you are planning a longer stay.
 
-Our [Vienna guide](/en/blog/where-to-stay-vienna) uses the same neighborhood breakdown. For Munich: same approach, different city.
+Our [Vienna guide](/en/blog/where-to-stay-vienna/) uses the same neighborhood breakdown. For Munich: same approach, different city.
 
 ---
 
@@ -121,6 +121,6 @@ November through March (outside Advent season) and the months of April and Octob
 ---
 
 **Read more:**
-- [Where to Stay in Vienna: The 5 Neighborhoods](/en/blog/where-to-stay-vienna)
-- [Where to Stay in Munich: The 5 Neighborhoods](/en/blog/where-to-stay-munich)
-- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe)
+- [Where to Stay in Vienna: The 5 Neighborhoods](/en/blog/where-to-stay-vienna/)
+- [Where to Stay in Munich: The 5 Neighborhoods](/en/blog/where-to-stay-munich/)
+- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe/)

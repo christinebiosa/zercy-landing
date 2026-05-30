@@ -42,7 +42,7 @@ En 2026 hay más herramientas de IA para planificar viajes que nunca. El problem
 
 **Privacidad:** las herramientas de IA procesan tus datos de viaje (destinos, fechas, preferencias). Revisar las políticas de privacidad si el viaje incluye información personal sensible.
 
-Para entender el contexto más amplio de cómo la IA está transformando el sector, lee [cómo la IA está cambiando la planificación de viajes](/es/blog/ia-cambia-planificacion-viajes).
+Para entender el contexto más amplio de cómo la IA está transformando el sector, lee [cómo la IA está cambiando la planificación de viajes](/es/blog/ia-cambia-planificacion-viajes/).
 
 Zercy es la herramienta diseñada para todo el proceso, desde la idea hasta las opciones con precios reales. Empieza en [zercy.app](https://www.zercy.app) y guarda tus planes en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -69,6 +69,6 @@ Las aerolíneas ya usan algoritmos de revenue management sofisticados. La IA no 
 ---
 
 **Más para leer:**
-- [Cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes)
-- [IA vs. agencia de viajes: qué conviene en 2026](/es/blog/planificador-ia-vs-agencia-viajes)
-- [Cuándo reservar los vuelos para conseguir el mejor precio](/es/blog/cuando-reservar-vuelos)
+- [Cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes/)
+- [IA vs. agencia de viajes: qué conviene en 2026](/es/blog/planificador-ia-vs-agencia-viajes/)
+- [Cuándo reservar los vuelos para conseguir el mejor precio](/es/blog/cuando-reservar-vuelos/)

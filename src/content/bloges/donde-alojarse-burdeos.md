@@ -52,7 +52,7 @@ La [web oficial de turismo de Burdeos](https://www.bordeaux-tourisme.com/fr/) ti
 
 Primavera (abril a junio) y otoño (septiembre a octubre) son los meses ideales. La vendimia en septiembre y octubre es la mejor época: los châteaux abren sus puertas y el ambiente en la ciudad es especial. El verano (julio y agosto) es caluroso (28-35°C) y con mucho turismo, los hoteles suben de precio. El invierno es suave y económico.
 
-Para más opciones de viaje inteligente en Europa, lee también nuestra guía de [trenes nocturnos en Europa](/es/blog/trenes-nocturnos-europa-2026).
+Para más opciones de viaje inteligente en Europa, lee también nuestra guía de [trenes nocturnos en Europa](/es/blog/trenes-nocturnos-europa-2026/).
 
 ## Saint-Michel: El barrio bohemio
 
@@ -64,7 +64,7 @@ Al sur de Saint-Pierre, alrededor de la Basílica de Saint-Michel. Aquí Burdeos
 
 **Hoteles recomendados**: Hotel Ibis Bordeaux Centre Meriadeck (económico y limpio), Hôtel Acanthe (hotel familiar pequeño), apartamentos en Booking en el barrio histórico.
 
-Los amantes de los barrios con carácter también disfrutarán de nuestra guía de [dónde alojarse en Marsella](/es/blog/donde-alojarse-marsella) y [dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla).
+Los amantes de los barrios con carácter también disfrutarán de nuestra guía de [dónde alojarse en Marsella](/es/blog/donde-alojarse-marsella/) y [dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla/).
 
 ## Triangle d'Or: El barrio de lujo
 
@@ -123,6 +123,6 @@ Desde París en TGV son dos horas (salida de Gare Montparnasse). El aeropuerto d
 ---
 
 **Más información:**
-- [Dónde alojarse en Marsella](/es/blog/donde-alojarse-marsella)
-- [Dónde alojarse en París](/es/blog/donde-alojarse-paris)
-- [Trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026)
+- [Dónde alojarse en Marsella](/es/blog/donde-alojarse-marsella/)
+- [Dónde alojarse en París](/es/blog/donde-alojarse-paris/)
+- [Trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026/)

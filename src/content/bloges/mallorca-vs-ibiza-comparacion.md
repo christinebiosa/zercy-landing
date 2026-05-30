@@ -65,7 +65,7 @@ Hotel de gama media en Mallorca en temporada alta: de 80 a 130 euros. La misma c
 
 Los vuelos son similares porque ambos aeropuertos están bien conectados. Palma (PMI) es el hub más grande con más rutas directas, lo que suele traducirse en tarifas más bajas, especialmente fuera de temporada alta.
 
-Para conseguir los mejores precios de vuelo, el blog de Zercy explica lo que realmente funciona: [Consejos para volar barato](/es/blog/consejos-vuelos-baratos). Para elegir dónde alojarse en Palma, hay una guía dedicada: [Dónde alojarse en Palma de Mallorca](/es/blog/donde-alojarse-palma-de-mallorca). Y para comparar las mejores playas del continente: [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026).
+Para conseguir los mejores precios de vuelo, el blog de Zercy explica lo que realmente funciona: [Consejos para volar barato](/es/blog/consejos-vuelos-baratos/). Para elegir dónde alojarse en Palma, hay una guía dedicada: [Dónde alojarse en Palma de Mallorca](/es/blog/donde-alojarse-palma-de-mallorca/). Y para comparar las mejores playas del continente: [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/).
 
 ---
 
@@ -89,6 +89,6 @@ El norte, especialmente alrededor de Sóller y Deià, es mucho más tranquilo y 
 
 ## Seguir leyendo
 
-- [Dónde alojarse en Palma de Mallorca](/es/blog/donde-alojarse-palma-de-mallorca)
-- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026)
-- [Consejos para volar barato](/es/blog/consejos-vuelos-baratos)
+- [Dónde alojarse en Palma de Mallorca](/es/blog/donde-alojarse-palma-de-mallorca/)
+- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)
+- [Consejos para volar barato](/es/blog/consejos-vuelos-baratos/)

@@ -36,7 +36,7 @@ Three beginner-friendly regions in Europe, one for long-haul travelers.
 
 **Caribbean (long-haul):** British Virgin Islands or the Grenadines. Consistent trade winds, relaxed sailing between small islands, turquoise water on a completely different level. More expensive than Europe (boat charter from 3,000 USD per week), but a genuine dream experience. Best months: November through April.
 
-Our [Croatia island hopping guide](/en/blog/croatia-island-hopping) covers the best routes between Split and Dubrovnik.
+Our [Croatia island hopping guide](/en/blog/croatia-island-hopping/) covers the best routes between Split and Dubrovnik.
 
 ## What Should You Actually Watch Out for on a Sailing Holiday?
 
@@ -62,7 +62,7 @@ Summary for one week in Croatia, 8 people, skippered charter:
 
 **Total per person (group of 8):** 500-750 EUR for one week, excluding flights. With flights 700-1,150 EUR. Cheaper than many all-inclusive hotel packages, but a completely different experience.
 
-If you need a rental car for the journey to the marina, our [rental car checklist](/en/blog/rental-car-checklist) has everything you need to know.
+If you need a rental car for the journey to the marina, our [rental car checklist](/en/blog/rental-car-checklist/) has everything you need to know.
 
 ## What Gear Do You Actually Need?
 
@@ -102,6 +102,6 @@ Usually 3-6 hours of sailing per day, 20-50 nautical miles (40-90 km). The rest 
 ---
 
 **Read more:**
-- [Croatia Island Hopping: The Best Routes](/en/blog/croatia-island-hopping)
-- [Rental Car Checklist: What to Watch Out For](/en/blog/rental-car-checklist)
-- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [Croatia Island Hopping: The Best Routes](/en/blog/croatia-island-hopping/)
+- [Rental Car Checklist: What to Watch Out For](/en/blog/rental-car-checklist/)
+- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)

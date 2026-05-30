@@ -77,6 +77,6 @@ La catedral de Alejandro Nevski (una de las iglesias ortodoxas más grandes del 
 
 ## Más sobre Europa del Este
 
-- [Dónde alojarse en Bucarest](/es/blog/donde-alojarse-bucarest)
-- [Dónde alojarse en Tallin](/es/blog/donde-alojarse-tallin)
-- [Dónde alojarse en Vilna](/es/blog/donde-alojarse-vilna)
+- [Dónde alojarse en Bucarest](/es/blog/donde-alojarse-bucarest/)
+- [Dónde alojarse en Tallin](/es/blog/donde-alojarse-tallin/)
+- [Dónde alojarse en Vilna](/es/blog/donde-alojarse-vilna/)

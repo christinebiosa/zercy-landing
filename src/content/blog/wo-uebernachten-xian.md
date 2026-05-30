@@ -55,7 +55,7 @@ Die Terrakotta-Armee liegt ca. 40 Kilometer östlich der Innenstadt. Die meisten
 
 Preisspanne: 50 bis 160 Euro. Top-Picks: **Novotel Xi'an Airport** (direkter Shuttleservice, praktisch und verlässlich), **Mercure Xi'an High-Tech Zone** (günstiger, gut bewertet), **Days Hotel & Suites Xi'an** (Budget-freundlich, Flughafennähe).
 
-Für den Transfer zur Terrakotta-Armee empfiehlt sich die Metro-Linie 9 bis Endstation Fangzhicheng, dann Bus 306. Dauert ca. 90 Minuten, kostet wenig. Wer auf [Suedostasien-Budget-Reisen](/blog/suedostasien-budget-reisen) setzt, findet in dieser Gegend gute Deals.
+Für den Transfer zur Terrakotta-Armee empfiehlt sich die Metro-Linie 9 bis Endstation Fangzhicheng, dann Bus 306. Dauert ca. 90 Minuten, kostet wenig. Wer auf [Suedostasien-Budget-Reisen](/blog/suedostasien-budget-reisen/) setzt, findet in dieser Gegend gute Deals.
 
 ## Qujiang: Ruhig und kulturell im Süden
 
@@ -63,7 +63,7 @@ Qujiang ist ein neueres Stadtentwicklungsgebiet im Süden, das auf Kultur und To
 
 Preisspanne: 65 bis 200 Euro. Top-Picks: **Renaissance Xi'an Hotel** (stilvolles Haus, Qujiang-Atmosphäre, Pool), **Xi'an Tang Paradise Hotel** (nah am gleichnamigen Kulturpark, chinesisch-historisches Flair), **Hampton Inn by Hilton Xi'an Qujiang** (solide Mittelklasse, guter Preis).
 
-Qujiang lässt sich gut mit anderen asiatischen Metropolen kombinieren. Für eine größere Asienreise liefert [Japan 3-Wochen-Route](/blog/japan-3-wochen-route) viele Anregungen.
+Qujiang lässt sich gut mit anderen asiatischen Metropolen kombinieren. Für eine größere Asienreise liefert [Japan 3-Wochen-Route](/blog/japan-3-wochen-route/) viele Anregungen.
 
 ## Wo solltest du am Ende buchen?
 
@@ -91,6 +91,6 @@ Die Terrakotta-Armee ist Pflicht. Daneben: ein Abendspaziergang im Muslimischen 
 
 ## Mehr lesen
 
-- [Wo übernachten in Seoul](/blog/wo-uebernachten-seoul)
-- [Wo übernachten in Tokio](/blog/wo-uebernachten-tokio)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Wo übernachten in Seoul](/blog/wo-uebernachten-seoul/)
+- [Wo übernachten in Tokio](/blog/wo-uebernachten-tokio/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

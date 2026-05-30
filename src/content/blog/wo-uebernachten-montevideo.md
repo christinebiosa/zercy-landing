@@ -49,7 +49,7 @@ Hotels in Pocitos sind moderner als in Ciudad Vieja und oft günstiger. Restaura
 
 **Top-Picks:** NH Collection Montevideo Victoria (modern, Rambla-Nähe), Starpoint Hotel (Pocitos, gute Bewertungen), Dazzler by Wyndham Montevideo (zuverlässig, Strandnähe).
 
-Unser [Argentinien-Reiseguide](/blog/argentinien-reiseguide-highlights) und [Buenos-Aires-Guide](/blog/wo-uebernachten-buenos-aires) helfen bei der Rio-de-la-Plata-Reiseplanung.
+Unser [Argentinien-Reiseguide](/blog/argentinien-reiseguide-highlights/) und [Buenos-Aires-Guide](/blog/wo-uebernachten-buenos-aires/) helfen bei der Rio-de-la-Plata-Reiseplanung.
 
 ## Wann ist die beste Reisezeit für Montevideo?
 
@@ -107,6 +107,6 @@ Juni bis August (Winter auf der Südhalbkugel) ist am günstigsten. Auch April/M
 ---
 
 ## Mehr lesen
-- [Wo übernachten in Buenos Aires: Die besten Viertel](/blog/wo-uebernachten-buenos-aires)
-- [Argentinien Reiseguide: Die schönsten Highlights](/blog/argentinien-reiseguide-highlights)
-- [Patagonien 3 Wochen: Die perfekte Route](/blog/patagonien-3-wochen-route)
+- [Wo übernachten in Buenos Aires: Die besten Viertel](/blog/wo-uebernachten-buenos-aires/)
+- [Argentinien Reiseguide: Die schönsten Highlights](/blog/argentinien-reiseguide-highlights/)
+- [Patagonien 3 Wochen: Die perfekte Route](/blog/patagonien-3-wochen-route/)

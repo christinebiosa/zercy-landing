@@ -59,7 +59,7 @@ Guinness Storehouse. Twenty-five euros entry, long queues, and at the end you dr
 
 May and June are the best months. Mild, green, long days. September and October are quieter and also pleasant. Winter: cheap, rainy, but Dublin doesn't suffer from bad weather the way some cities do. Pub atmosphere is sometimes better in the rain than in the sun.
 
-Direct flights from most European airports are available, usually with Ryanair or Aer Lingus. For comparison strategies, our [airport hacks](/en/blog/airport-hacks) cover what to look for on Dublin arrivals specifically. For building a longer Ireland trip around this weekend, the [Ireland road trip route](/en/blog/ireland-road-trip-route) guide explains the rest of the country.
+Direct flights from most European airports are available, usually with Ryanair or Aer Lingus. For comparison strategies, our [airport hacks](/en/blog/airport-hacks/) cover what to look for on Dublin arrivals specifically. For building a longer Ireland trip around this weekend, the [Ireland road trip route](/en/blog/ireland-road-trip-route/) guide explains the rest of the country.
 
 ## Where to stay for a Dublin weekend
 
@@ -67,7 +67,7 @@ Best locations: Temple Bar area for nightlife proximity, but noisy. Ballsbridge 
 
 [Booking.com](https://www.booking.com/searchresults.html?ss=Dublin) has the full range with neighborhood filters. The official tourism board [Visit Dublin](https://www.visitdublin.com) has curated hotel listings and current events.
 
-For building a longer Ireland trip around this weekend, see our [Ireland road trip route guide](/en/blog/ireland-road-trip-route) for what to add before or after Dublin.
+For building a longer Ireland trip around this weekend, see our [Ireland road trip route guide](/en/blog/ireland-road-trip-route/) for what to add before or after Dublin.
 
 ---
 
@@ -96,6 +96,6 @@ As early as possible. In peak season (May through August) tickets often sell out
 ---
 
 **Read more:**
-- [Ireland Road Trip Route: Highlights in 7 to 14 Days](/en/blog/ireland-road-trip-route)
-- [Train vs. Plane in Europe 2026: When Does Each Make Sense?](/en/blog/train-vs-plane-europe-2026)
-- [Airport Hacks: Move Faster Through Any Airport](/en/blog/airport-hacks)
+- [Ireland Road Trip Route: Highlights in 7 to 14 Days](/en/blog/ireland-road-trip-route/)
+- [Train vs. Plane in Europe 2026: When Does Each Make Sense?](/en/blog/train-vs-plane-europe-2026/)
+- [Airport Hacks: Move Faster Through Any Airport](/en/blog/airport-hacks/)

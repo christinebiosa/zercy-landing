@@ -90,6 +90,6 @@ La forma más directa: preguntar amablemente en el check-in si hay actualizacion
 ---
 
 **Más para leer:**
-- [Acceso a salas VIP sin billete de business: todas las opciones](/es/blog/acceso-sala-vip-sin-business)
-- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos)
-- [Open-jaw tickets: el truco para ver más por menos](/es/blog/open-jaw-tickets-truco-viaje)
+- [Acceso a salas VIP sin billete de business: todas las opciones](/es/blog/acceso-sala-vip-sin-business/)
+- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos/)
+- [Open-jaw tickets: el truco para ver más por menos](/es/blog/open-jaw-tickets-truco-viaje/)

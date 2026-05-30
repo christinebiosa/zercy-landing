@@ -54,7 +54,7 @@ Independientemente de si habrá compensación económica o no, la aerolínea tie
 
 Si la aerolínea no te ofrece estos servicios, guarda los tickets de lo que gastes en comida y alojamiento. Puedes reclamarlo después.
 
-Si planeas tu próximo viaje con escala, la guía sobre [cuándo conviene hacer escala estratégica](/es/blog/donde-alojarse-lima) y cómo organizar las conexiones puede ayudarte a evitar situaciones de riesgo.
+Si planeas tu próximo viaje con escala, la guía sobre [cuándo conviene hacer escala estratégica](/es/blog/donde-alojarse-lima/) y cómo organizar las conexiones puede ayudarte a evitar situaciones de riesgo.
 
 ## ¿Qué hacer paso a paso en el aeropuerto?
 
@@ -101,6 +101,6 @@ Los problemas técnicos normales del avión no se consideran circunstancias extr
 ---
 
 **Leer más:**
-- [Consejos para encontrar vuelos baratos](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Miami](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Roma](/es/blog/donde-alojarse-roma)
+- [Consejos para encontrar vuelos baratos](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Miami](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Roma](/es/blog/donde-alojarse-roma/)

@@ -47,7 +47,7 @@ Fenton Street es la avenida hotelera de Rotorua. A lo largo de varios kilómetro
 
 **Mejores opciones:** Sudima Hotel Rotorua (piscina geotérmica en el hotel, diseño moderno, buena relación calidad-precio), Regent of Rotorua (carácter boutique a precio razonable), Tuscany Villas (apartamentos con cocina, ideales para familias).
 
-Para un road trip por Nueva Zelanda en el que Rotorua sea una parada entre Auckland y Queenstown, los hoteles de Fenton Street son la opción más eficiente. Nuestra [guía de road trip por Australia y Nueva Zelanda](/es/blog/australia-ruta-completa) tiene el itinerario completo.
+Para un road trip por Nueva Zelanda en el que Rotorua sea una parada entre Auckland y Queenstown, los hoteles de Fenton Street son la opción más eficiente. Nuestra [guía de road trip por Australia y Nueva Zelanda](/es/blog/australia-ruta-completa/) tiene el itinerario completo.
 
 ## ¿Cuándo es la mejor época para visitar Rotorua?
 
@@ -75,7 +75,7 @@ Los hoteles junto al lago ofrecen algo escaso en Rotorua: silencio por la mañan
 
 **Mejores opciones:** Novotel Rotorua Lakeside (fiable, habitaciones con vista al lago), Rotorua Thermal Holiday Park (singular: piscinas termales en el propio camping, también para autocaravanas y glamping).
 
-El bienestar en Rotorua no es un extra, es parte de lo que viene con el destino. Si buscas otros destinos wellness de nivel, nuestra [guía de viajes wellness y spa](/es/blog/viajes-wellness-spa-destinos) compara las mejores opciones del mundo. Y si quieres combinar aguas termales con inmersiones, la Península de Coromandel, al este de Rotorua, es una de las mejores zonas de buceo y snorkel de Nueva Zelanda, con más detalles en nuestra [guía de destinos de buceo y snorkel](/es/blog/buceo-snorkel-destinos-2026).
+El bienestar en Rotorua no es un extra, es parte de lo que viene con el destino. Si buscas otros destinos wellness de nivel, nuestra [guía de viajes wellness y spa](/es/blog/viajes-wellness-spa-destinos/) compara las mejores opciones del mundo. Y si quieres combinar aguas termales con inmersiones, la Península de Coromandel, al este de Rotorua, es una de las mejores zonas de buceo y snorkel de Nueva Zelanda, con más detalles en nuestra [guía de destinos de buceo y snorkel](/es/blog/buceo-snorkel-destinos-2026/).
 
 ## Whakarewairewa: geotérmico y cultura māori
 
@@ -123,6 +123,6 @@ Rotorua está a unos 230 km al sur de Auckland, unas 2,5 horas en coche o en aut
 ---
 
 **Seguir leyendo:**
-- [Australia: ruta completa por Nueva Zelanda](/es/blog/australia-ruta-completa)
-- [Viajes wellness y spa: los mejores destinos](/es/blog/viajes-wellness-spa-destinos)
-- [Buceo y snorkel: los mejores destinos del mundo](/es/blog/buceo-snorkel-destinos-2026)
+- [Australia: ruta completa por Nueva Zelanda](/es/blog/australia-ruta-completa/)
+- [Viajes wellness y spa: los mejores destinos](/es/blog/viajes-wellness-spa-destinos/)
+- [Buceo y snorkel: los mejores destinos del mundo](/es/blog/buceo-snorkel-destinos-2026/)

@@ -39,7 +39,7 @@ Fang mit der Grundregel an: teile auf. Nie alles an einem Ort.
 
 **Laptop-Schloss** für Notebooks im Hostel. Ein einfaches Kensington-Schloss hält opportunistische Diebe ab.
 
-**Informationen zur Cyber-Sicherheit auf Reisen** findest du im Artikel [Cyber-Sicherheit auf Reisen](/blog/cyber-sicherheit-reisen). Das digitale und das physische Risiko hängen oft zusammen.
+**Informationen zur Cyber-Sicherheit auf Reisen** findest du im Artikel [Cyber-Sicherheit auf Reisen](/blog/cyber-sicherheit-reisen/). Das digitale und das physische Risiko hängen oft zusammen.
 
 ## Was tust du wenn es passiert?
 
@@ -56,7 +56,7 @@ Deine Hausbank hat auch eine Notrufnummer. Im Idealfall hast du sie gespeichert.
 
 **3. Pass verloren?** Zur deutschen Botschaft oder zum Konsulat. Die stellen einen vorläufigen Reisepass aus (innerhalb von 1 bis 2 Tagen). Ohne Pass kommst du nicht nach Hause. Liste aller [deutschen Botschaften weltweit](https://www.auswaertiges-amt.de/de/aussenpolitik/laender) auf der offiziellen Website des Auswärtigen Amts.
 
-**4. Versicherung informieren.** Reisegepäck- oder Reisekrankenversicherung anrufen. Die meisten haben eine 24h-Notfallnummer. Mehr zum Thema im Guide [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich).
+**4. Versicherung informieren.** Reisegepäck- oder Reisekrankenversicherung anrufen. Die meisten haben eine 24h-Notfallnummer. Mehr zum Thema im Guide [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/).
 
 ## Was hilft nicht, auch wenn es überall empfohlen wird?
 
@@ -92,6 +92,6 @@ Barcelona (Ramblas, Metro), Paris (touristischer Bereich, Metro Linie 1), Rom (K
 
 ## Mehr lesen
 
-- [Cyber-Sicherheit auf Reisen: Was du wissen musst](/blog/cyber-sicherheit-reisen)
-- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich)
-- [Sicherheit in Lateinamerika: Tipps für Reisende](/blog/lateinamerika-sicherheit-tipps)
+- [Cyber-Sicherheit auf Reisen: Was du wissen musst](/blog/cyber-sicherheit-reisen/)
+- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/)
+- [Sicherheit in Lateinamerika: Tipps für Reisende](/blog/lateinamerika-sicherheit-tipps/)

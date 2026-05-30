@@ -91,11 +91,11 @@ Diani Beach south of the mainland has the finest white sand and clearest water. 
 
 ### What does Mombasa cost compared to other Kenya destinations?
 
-Mombasa beach hotels are more expensive than Nairobi city hotels but cheaper than Maasai Mara lodges. A good beach hotel costs 100-200 USD per night. Budget guesthouses in the Old Town start from 20 USD. The [Kenya travel guide](/en/blog/kenya-travel-guide-highlights) covers full cost structures for the country.
+Mombasa beach hotels are more expensive than Nairobi city hotels but cheaper than Maasai Mara lodges. A good beach hotel costs 100-200 USD per night. Budget guesthouses in the Old Town start from 20 USD. The [Kenya travel guide](/en/blog/kenya-travel-guide-highlights/) covers full cost structures for the country.
 
 ---
 
 **Read more:**
-- [Kenya Travel Guide: Safari, Coast and Highlights](/en/blog/kenya-travel-guide-highlights)
-- [East Africa Safari Guide: Planning Your Trip](/en/blog/east-africa-safari-guide)
-- [Zanzibar Stone Town: What You Need to Know](/en/blog/zanzibar-stone-town-guide)
+- [Kenya Travel Guide: Safari, Coast and Highlights](/en/blog/kenya-travel-guide-highlights/)
+- [East Africa Safari Guide: Planning Your Trip](/en/blog/east-africa-safari-guide/)
+- [Zanzibar Stone Town: What You Need to Know](/en/blog/zanzibar-stone-town-guide/)

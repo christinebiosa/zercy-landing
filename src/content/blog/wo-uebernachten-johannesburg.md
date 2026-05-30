@@ -49,7 +49,7 @@ Rosebank ist das kreative Pendant zu Sandton. Weniger Hochglanz, mehr Charakter.
 
 **Top-Empfehlungen:** The Peech Hotel (Boutique, Garten, Nachhaltigkeit), Rosebank Hotel (klassisch, Lage, solide Qualität), Hotel 54 on Bath (kleineres Boutique, persönlicher Service).
 
-Lies dazu auch unseren [Nairobi City Guide](/blog/wo-uebernachten-nairobi) für Planung einer Ostafrika-Rundreise.
+Lies dazu auch unseren [Nairobi City Guide](/blog/wo-uebernachten-nairobi/) für Planung einer Ostafrika-Rundreise.
 
 ## Wann ist die beste Reisezeit für Johannesburg?
 
@@ -118,6 +118,6 @@ Hostel in Melville: 20-30 Euro. Gästehaus in Rosebank: 60-120 Euro. Mittelklass
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Cape Town: Die 5 Stadtteile](/blog/wo-uebernachten-cape-town)
-- [Wo übernachten in Nairobi: Westlands vs. Karen vs. CBD](/blog/wo-uebernachten-nairobi)
-- [Reiseversicherung: Was lohnt sich wirklich für Südafrika?](/blog/reiseversicherung-was-lohnt-sich)
+- [Wo übernachten in Cape Town: Die 5 Stadtteile](/blog/wo-uebernachten-cape-town/)
+- [Wo übernachten in Nairobi: Westlands vs. Karen vs. CBD](/blog/wo-uebernachten-nairobi/)
+- [Reiseversicherung: Was lohnt sich wirklich für Südafrika?](/blog/reiseversicherung-was-lohnt-sich/)

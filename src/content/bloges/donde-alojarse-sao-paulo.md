@@ -44,7 +44,7 @@ El mejor momento depende de los eventos. En marzo y abril se celebra la São Pau
 
 La temporada de lluvias va de diciembre a marzo. Tormentas cortas e intensas por la tarde, sin mayor problema para explorar la ciudad con algo de flexibilidad.
 
-Para viajes por Brasil, São Paulo combina naturalmente con [Dónde alojarse en Río de Janeiro](/es/blog/donde-alojarse-rio-de-janeiro).
+Para viajes por Brasil, São Paulo combina naturalmente con [Dónde alojarse en Río de Janeiro](/es/blog/donde-alojarse-rio-de-janeiro/).
 
 ## Vila Madalena: Arte, grafiti y vida nocturna
 
@@ -105,6 +105,6 @@ Con tres días cubres los puntos principales: Avenida Paulista, MASP, Beco do Ba
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Río de Janeiro: Ipanema, Copacabana o Santa Teresa](/es/blog/donde-alojarse-rio-de-janeiro)
-- [Dónde alojarse en Buenos Aires: Palermo, Recoleta o San Telmo](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Medellin: El Poblado y más](/es/blog/donde-alojarse-medellin)
+- [Dónde alojarse en Río de Janeiro: Ipanema, Copacabana o Santa Teresa](/es/blog/donde-alojarse-rio-de-janeiro/)
+- [Dónde alojarse en Buenos Aires: Palermo, Recoleta o San Telmo](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Medellin: El Poblado y más](/es/blog/donde-alojarse-medellin/)

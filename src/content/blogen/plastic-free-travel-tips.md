@@ -58,7 +58,7 @@ Hotels (especially mid-range) are plastic sin wonders. Mini-shampoo, mini-condit
 
 **5. Own solid sunscreen stick.** Solid sunscreen stick (Sun Bum, Stream2Sea). Less dangerous for coral reefs in Asia (chemical sunscreens banned in Hawaii, Mexico reef zones).
 
-See our [capsule wardrobe guide](/en/blog/capsule-wardrobe-carry-on) for minimalist packing.
+See our [capsule wardrobe guide](/en/blog/capsule-wardrobe-carry-on/) for minimalist packing.
 
 ## How do you say "no plastic" while traveling?
 
@@ -142,6 +142,6 @@ Realistic estimate: 30-50 plastic bottles (with water filter), 5-10 plastic bags
 ---
 
 **Read more:**
-- [Carbon offsets for flying: what does it bring?](/en/blog/flight-carbon-offsets-truth)
-- [Slow travel: what it really means](/en/blog/slow-travel-what-it-really-means)
-- [Capsule wardrobe for carry-on](/en/blog/capsule-wardrobe-carry-on)
+- [Carbon offsets for flying: what does it bring?](/en/blog/flight-carbon-offsets-truth/)
+- [Slow travel: what it really means](/en/blog/slow-travel-what-it-really-means/)
+- [Capsule wardrobe for carry-on](/en/blog/capsule-wardrobe-carry-on/)

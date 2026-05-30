@@ -22,7 +22,7 @@ Not every destination is equally good. The best ones combine language quality, a
 
 **French:** Paris is expensive. Lyon and Montpellier offer the same language quality at significantly lower costs. French-speaking Switzerland (Geneva, Lausanne) appeals to professionals who want DACH market exposure with French fluency.
 
-If you're thinking about combining language learning with a longer stay, our guide to [slow travel and what it actually means](/en/blog/slow-travel-what-it-really-means) explains why a slower pace makes language acquisition stick better.
+If you're thinking about combining language learning with a longer stay, our guide to [slow travel and what it actually means](/en/blog/slow-travel-what-it-really-means/) explains why a slower pace makes language acquisition stick better.
 
 ## What Does a Language Immersion Trip Cost for Adults?
 
@@ -39,7 +39,7 @@ Key cost factors:
 
 Platforms like [EF Education First](https://www.ef.com) and [Boa Lingua](https://www.boa-lingua.com) offer broad school networks and easy price comparisons. Useful if you're booking your first language course abroad.
 
-Working professionals combining a language course with remote work will find specific region-by-region pricing in our [workation guide for Portugal and Spain 2026](/en/blog/workation-portugal-spain-2026).
+Working professionals combining a language course with remote work will find specific region-by-region pricing in our [workation guide for Portugal and Spain 2026](/en/blog/workation-portugal-spain-2026/).
 
 ## Language School, Tandem, or Full Immersion: Which Works Better?
 
@@ -51,7 +51,7 @@ Three approaches, three different profiles.
 
 **Full immersion:** No class. You just live there, talk to neighbors, shopkeepers, people at the bar. This is the most intense method and the fastest. But it only really works once you have a baseline to build on.
 
-For most working adults, the combination works best: structured classes in the morning, immersion in daily life in the afternoon. Our piece on [dealing with language barriers while traveling](/en/blog/language-barriers-travel-tips) covers how to push through the discomfort that makes immersion actually work.
+For most working adults, the combination works best: structured classes in the morning, immersion in daily life in the afternoon. Our piece on [dealing with language barriers while traveling](/en/blog/language-barriers-travel-tips/) covers how to push through the discomfort that makes immersion actually work.
 
 ## How Fast Will You Really Improve When You Immerse?
 
@@ -67,7 +67,7 @@ What working adults can realistically expect:
 
 What you do in the evenings matters as much as the classes. If you spend every night with other people from your home country speaking your native language, you're leaving the best learning hours on the table.
 
-If you're thinking about a longer stay or combining immersion with a remote work setup, check which countries offer the best options in our [digital nomad visa guide for 2026](/en/blog/digital-nomad-visa-countries-2026).
+If you're thinking about a longer stay or combining immersion with a remote work setup, check which countries offer the best options in our [digital nomad visa guide for 2026](/en/blog/digital-nomad-visa-countries-2026/).
 
 ## FAQ: Language Immersion Travel for Adults
 
@@ -95,7 +95,7 @@ Save your travel plans in your [Zercy Logbook](https://www.zercy.app/logbook) an
 
 ## Read more
 
-- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means)
-- [Language Barriers While Traveling: How to Handle Them](/en/blog/language-barriers-travel-tips)
-- [Workation in Portugal and Spain 2026](/en/blog/workation-portugal-spain-2026)
-- [Digital Nomad Visa Countries 2026](/en/blog/digital-nomad-visa-countries-2026)
+- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means/)
+- [Language Barriers While Traveling: How to Handle Them](/en/blog/language-barriers-travel-tips/)
+- [Workation in Portugal and Spain 2026](/en/blog/workation-portugal-spain-2026/)
+- [Digital Nomad Visa Countries 2026](/en/blog/digital-nomad-visa-countries-2026/)

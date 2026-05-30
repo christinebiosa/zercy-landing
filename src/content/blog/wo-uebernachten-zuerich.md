@@ -59,7 +59,7 @@ Ehemaliges Industriegebiet westlich der Altstadt, in den letzten 15 Jahren zur K
 
 **Top-Picks:** Sheraton Zürich Hotel (groß, gut angebunden), Motel One Zürich (günstiger Design-Hotel), Boutique-Hotels im frisch renovierten Industriestyle.
 
-Lies auch unseren [Berlin-Stadtteile-Guide](/blog/wo-uebernachten-berlin) für ähnlich spannende Industrieviertel-Transformation.
+Lies auch unseren [Berlin-Stadtteile-Guide](/blog/wo-uebernachten-berlin/) für ähnlich spannende Industrieviertel-Transformation.
 
 ## Seefeld/Kreis 8: Das gehobene Zürich
 
@@ -92,7 +92,7 @@ Für Zürich ist [Booking.com](https://www.booking.com) gut aufgestellt:
 
 Alternativ direkt bei Schweizer Boutique-Hotels anfragen, die sind oft auf Booking.com, bieten aber manchmal günstigere Direktraten für längere Aufenthalte.
 
-Lies auch unseren [Stockholm-Guide](/blog/wo-uebernachten-stockholm) und [Kopenhagen-Guide](/blog/wo-uebernachten-kopenhagen) für weitere teure nordeuropäische Städte mit guten Budget-Alternativen.
+Lies auch unseren [Stockholm-Guide](/blog/wo-uebernachten-stockholm/) und [Kopenhagen-Guide](/blog/wo-uebernachten-kopenhagen/) für weitere teure nordeuropäische Städte mit guten Budget-Alternativen.
 
 ---
 
@@ -119,6 +119,6 @@ S-Bahn vom Flughafen direkt zum Hauptbahnhof (HB) in 13 Minuten, günstig und se
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Wien: Die 5 Stadtteile](/blog/wo-uebernachten-wien)
-- [Wo übernachten in Berlin: Die 5 Stadtteile](/blog/wo-uebernachten-berlin)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
+- [Wo übernachten in Wien: Die 5 Stadtteile](/blog/wo-uebernachten-wien/)
+- [Wo übernachten in Berlin: Die 5 Stadtteile](/blog/wo-uebernachten-berlin/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)

@@ -65,7 +65,7 @@ Three neighborhoods make real sense for 48 hours.
 
 **Intendente** is the cheaper alternative. The neighborhood has changed a lot in recent years, now mixed and lively. Hotels here cost 80 to 100 euros instead of 130 to 150 euros in Chiado.
 
-Our guide [where to stay in Lisbon](/en/blog/where-to-stay-lisbon) covers all neighborhoods with specific recommendations. Over [Booking.com](https://www.booking.com) you'll find more than 1,000 Lisbon hotels with free cancellation.
+Our guide [where to stay in Lisbon](/en/blog/where-to-stay-lisbon/) covers all neighborhoods with specific recommendations. Over [Booking.com](https://www.booking.com) you'll find more than 1,000 Lisbon hotels with free cancellation.
 
 ## How much does a Lisbon weekend cost?
 
@@ -89,7 +89,7 @@ July and August are a different story. The city is hot, crowded and expensive. N
 
 March can still be cool, but the city is quiet and prices are low. Anyone wanting Lisbon without the crowds books in March.
 
-For more on what makes Lisbon special beyond the tourist trail, see our [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail). And if you're thinking about extending the trip: [Porto](/en/blog/porto-lisbons-underrated-sister) is 3 hours away and makes a perfect addition.
+For more on what makes Lisbon special beyond the tourist trail, see our [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail/). And if you're thinking about extending the trip: [Porto](/en/blog/porto-lisbons-underrated-sister/) is 3 hours away and makes a perfect addition.
 
 ---
 
@@ -116,6 +116,6 @@ Plan 400 to 600 euros for two people, not including flights and hotel. That cove
 ---
 
 **Read more:**
-- [Where to stay in Lisbon: the best neighborhoods compared](/en/blog/where-to-stay-lisbon)
-- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail)
-- [Porto: Lisbon's underrated sister](/en/blog/porto-lisbons-underrated-sister)
+- [Where to stay in Lisbon: the best neighborhoods compared](/en/blog/where-to-stay-lisbon/)
+- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail/)
+- [Porto: Lisbon's underrated sister](/en/blog/porto-lisbons-underrated-sister/)

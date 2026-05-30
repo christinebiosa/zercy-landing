@@ -45,7 +45,7 @@ Direkt nördlich vom Vieux Port, Marseilles ältestes Viertel (gegründet 600 v.
 
 **Top-Picks:** Hotel Hermès (Boutique mit Dachterrasse), Mama Shelter Marseille (Designer-Boutique von Philippe Starck), Apartments via Booking in Le-Panier-Häusern.
 
-Lies dazu auch unseren [Apulien-Süditalien-Guide](/blog/apulien-sueditalien-guide) für die italienische Variante.
+Lies dazu auch unseren [Apulien-Süditalien-Guide](/blog/apulien-sueditalien-guide/) für die italienische Variante.
 
 ## Wann ist die beste Reisezeit für Marseille?
 
@@ -116,6 +116,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel in Le Panier, Bouillabais
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
-- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona)
-- [Apulien Süditalien Guide](/blog/apulien-sueditalien-guide)
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris/)
+- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona/)
+- [Apulien Süditalien Guide](/blog/apulien-sueditalien-guide/)

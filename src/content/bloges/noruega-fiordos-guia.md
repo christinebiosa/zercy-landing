@@ -43,7 +43,7 @@ Depende de lo que busques.
 
 **Julio y agosto** son temporada alta. Hoteles llenos, precios más elevados, pero clima confiable. Entre 15 y 22 grados Celsius en la zona de los fiordos es lo habitual. El Geirangerfjord se llena especialmente en agosto.
 
-**Invierno (noviembre a marzo)** para ver la aurora boreal. En la zona de los fiordos el acceso es limitado porque muchas rutas están cerradas. Pero combinado con un viaje a Tromsø o las Islas Lofoten es posible. Consulta nuestra [guía de auroras boreales 2026](/es/blog/auroras-boreales-2026) para más información.
+**Invierno (noviembre a marzo)** para ver la aurora boreal. En la zona de los fiordos el acceso es limitado porque muchas rutas están cerradas. Pero combinado con un viaje a Tromsø o las Islas Lofoten es posible. Consulta nuestra [guía de auroras boreales 2026](/es/blog/auroras-boreales-2026/) para más información.
 
 El sol de medianoche en la región de los fiordos ocurre de mediados de junio a finales de julio. El sol no se pone del todo. Luz de día a medianoche. Extraño y hermoso.
 
@@ -88,6 +88,6 @@ No se necesita visa para ciudadanos de la mayoría de los países de América La
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Tromsø: Los mejores barrios y hoteles](/es/blog/donde-alojarse-tromso)
-- [Autocaravana road trip por Estados Unidos: La guía completa](/es/blog/autocaravana-road-trip-usa)
-- [Auroras boreales 2026: dónde, cuándo y cómo verlas de verdad](/es/blog/auroras-boreales-2026)
+- [Dónde alojarse en Tromsø: Los mejores barrios y hoteles](/es/blog/donde-alojarse-tromso/)
+- [Autocaravana road trip por Estados Unidos: La guía completa](/es/blog/autocaravana-road-trip-usa/)
+- [Auroras boreales 2026: dónde, cuándo y cómo verlas de verdad](/es/blog/auroras-boreales-2026/)

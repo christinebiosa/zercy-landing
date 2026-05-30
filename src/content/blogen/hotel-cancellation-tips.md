@@ -18,7 +18,7 @@ The rule is straightforward. If your trip is not completely locked in, always bo
 
 On platforms like [Booking.com](https://www.booking.com/content/terms.html), cancellation policies appear right next to the price. Green text reading "Free cancellation" is what you want. Non-refundable is only acceptable when you are 100 percent certain the trip is happening exactly as planned.
 
-Related reading: [Booking.com vs. Booking Direct: Which One Is Worth It?](/en/blog/booking-vs-direct-hotel-booking)
+Related reading: [Booking.com vs. Booking Direct: Which One Is Worth It?](/en/blog/booking-vs-direct-hotel-booking/)
 
 ## What Are the Standard Cancellation Deadlines?
 
@@ -32,7 +32,7 @@ Deadlines vary more than most travelers expect.
 
 One practical habit: after every booking, immediately add the cancellation deadline to your calendar. Not tomorrow. Right now.
 
-Related: [How to Book a Hotel Cheaper: Tips That Actually Work](/en/blog/book-hotel-cheaper-tips)
+Related: [How to Book a Hotel Cheaper: Tips That Actually Work](/en/blog/book-hotel-cheaper-tips/)
 
 ## What Happens If You Are a No-Show?
 
@@ -44,7 +44,7 @@ There are exceptions. Medical emergencies with documentation sometimes result in
 
 This is where travel insurance earns its place. A good trip cancellation or travel health insurance policy covers hotel costs when you cancel due to illness, injury, or a family emergency. For frequent travelers, this is not optional. It is a basic layer of protection.
 
-More on this: [Trip Cancellation Insurance: What It Actually Covers](/en/blog/trip-cancellation-insurance-guide)
+More on this: [Trip Cancellation Insurance: What It Actually Covers](/en/blog/trip-cancellation-insurance-guide/)
 
 ## How Do You Cancel Correctly, and What Should You Keep?
 
@@ -83,9 +83,9 @@ Trip cancellation insurance or comprehensive travel insurance. Coverage applies 
 ---
 
 **Keep reading:**
-- [Flight Rebooking and Cancellation: How to Do It Right](/en/blog/flight-rebooking-guide)
-- [How to Book a Hotel Cheaper: Tips That Actually Work](/en/blog/book-hotel-cheaper-tips)
-- [Trip Cancellation Insurance: What It Actually Covers](/en/blog/trip-cancellation-insurance-guide)
+- [Flight Rebooking and Cancellation: How to Do It Right](/en/blog/flight-rebooking-guide/)
+- [How to Book a Hotel Cheaper: Tips That Actually Work](/en/blog/book-hotel-cheaper-tips/)
+- [Trip Cancellation Insurance: What It Actually Covers](/en/blog/trip-cancellation-insurance-guide/)
 
 ---
 

@@ -40,7 +40,7 @@ For dessert, Apfelstrudel at Café Central on Herrengasse. Yes, it is touristy. 
 
 The official [Wien Tourism website](https://www.wien.info) has current event calendars, palace opening hours, and ticket booking for all the major museums and concert venues.
 
-For accommodation across different styles and budgets, our [boutique hotels guide](/en/blog/boutique-hotels) has good options across European cities. If you are arriving by train, check our [train travel in Europe guide](/en/blog/train-travel-europe). And if you want to combine Vienna with other Central European destinations, our [hidden gems Europe guide](/en/blog/hidden-gems-europe) has solid ideas.
+For accommodation across different styles and budgets, our [boutique hotels guide](/en/blog/boutique-hotels/) has good options across European cities. If you are arriving by train, check our [train travel in Europe guide](/en/blog/train-travel-europe/). And if you want to combine Vienna with other Central European destinations, our [hidden gems Europe guide](/en/blog/hidden-gems-europe/) has solid ideas.
 
 Save your picks in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything ready when booking.
 
@@ -67,6 +67,6 @@ Café Hawelka (Dorotheergasse), Café Landtmann (Dr.-Karl-Lueger-Ring), and Caf�
 ---
 
 **Read more:**
-- [Boutique Hotels: The Best Alternatives to Chain Hotels](/en/blog/boutique-hotels)
-- [Train Travel in Europe: Everything You Need to Know](/en/blog/train-travel-europe)
-- [Hidden Gems in Europe: Beyond the Obvious Destinations](/en/blog/hidden-gems-europe)
+- [Boutique Hotels: The Best Alternatives to Chain Hotels](/en/blog/boutique-hotels/)
+- [Train Travel in Europe: Everything You Need to Know](/en/blog/train-travel-europe/)
+- [Hidden Gems in Europe: Beyond the Obvious Destinations](/en/blog/hidden-gems-europe/)

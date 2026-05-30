@@ -45,7 +45,7 @@ Daun Penh ist das administrative und historische Zentrum. Hier stehen der Royal 
 
 **Top-Picks:** Sofitel Phnom Penh Phokeethra (5-Sterne-Stadtresort, Spa, mehrere Pools, direkte Palast-Nähe), Palace Gate Hotel & Resort (koloniales Herrenhaus, Boutique-Atmosphäre, kleiner Pool).
 
-Lies dazu auch unseren [Siem Reap-Stadtteilführer](/blog/wo-uebernachten-siem-reap), wer beide Städte kombiniert, kommt an Daun Penh nicht vorbei.
+Lies dazu auch unseren [Siem Reap-Stadtteilführer](/blog/wo-uebernachten-siem-reap/), wer beide Städte kombiniert, kommt an Daun Penh nicht vorbei.
 
 ## BKK1 / Tonle Bassac: Das beste Viertel für Komfort
 
@@ -75,7 +75,7 @@ Das Viertel rund um den Psar Tuol Tom Pong (wegen seiner russischen Händler in 
 
 **Top-Picks:** Pavilion Hotel (verstecktes Boutique-Juwel, zwei koloniale Villen, Pool, Garten, einzigartige Atmosphäre), Hotel Cambodia (modernes Mittelklasse-Hotel, gutes Preis-Leistung-Verhältnis).
 
-Für die Gesamtroute lohnt sich auch ein Blick in unseren [Ho-Chi-Minh-Stadt-Stadtteilführer](/blog/wo-uebernachten-ho-chi-minh-stadt), die meisten Kambodscha-Reisen enden mit dem Bus oder Flug nach Vietnam.
+Für die Gesamtroute lohnt sich auch ein Blick in unseren [Ho-Chi-Minh-Stadt-Stadtteilführer](/blog/wo-uebernachten-ho-chi-minh-stadt/), die meisten Kambodscha-Reisen enden mit dem Bus oder Flug nach Vietnam.
 
 ## Wo solltest du am Ende buchen?
 
@@ -114,6 +114,6 @@ Tuol Sleng Genocide Museum und die Killing Fields in Choeung Ek gehören zu den 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Siem Reap: Die besten Stadtteile](/blog/wo-uebernachten-siem-reap)
-- [Wo übernachten in Ho Chi Minh Stadt: Die 5 Stadtteile](/blog/wo-uebernachten-ho-chi-minh-stadt)
-- [Kambodscha Reiseguide: Highlights und Tipps](/blog/kambodscha-reiseguide-highlights)
+- [Wo übernachten in Siem Reap: Die besten Stadtteile](/blog/wo-uebernachten-siem-reap/)
+- [Wo übernachten in Ho Chi Minh Stadt: Die 5 Stadtteile](/blog/wo-uebernachten-ho-chi-minh-stadt/)
+- [Kambodscha Reiseguide: Highlights und Tipps](/blog/kambodscha-reiseguide-highlights/)

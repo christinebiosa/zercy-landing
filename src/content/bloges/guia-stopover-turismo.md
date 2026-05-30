@@ -80,6 +80,6 @@ Depende del país y tu pasaporte. Singapur y los EAU son fáciles para la mayor�
 ---
 
 **Más para leer:**
-- [Open-jaw tickets: ve a más destinos por el mismo precio](/es/blog/open-jaw-tickets-truco-viaje)
-- [Hidden city ticketing: qué es y cuándo funciona](/es/blog/hidden-city-ticketing-explicado)
-- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos)
+- [Open-jaw tickets: ve a más destinos por el mismo precio](/es/blog/open-jaw-tickets-truco-viaje/)
+- [Hidden city ticketing: qué es y cuándo funciona](/es/blog/hidden-city-ticketing-explicado/)
+- [Cómo encontrar vuelos baratos en 2026](/es/blog/consejos-vuelos-baratos/)

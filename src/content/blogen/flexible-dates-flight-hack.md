@@ -30,9 +30,9 @@ Three tools stand out:
 
 **Hopper.** The app [analyzes historical price trends](https://www.hopper.com) and predicts whether to book now or wait. Most useful when your target date is already set and you want to know if the price will drop. Hopper works with probabilities, not guarantees.
 
-**Kayak Explore.** Built for travelers with genuinely open plans. Enter your departure city, and a world map shows what it costs to fly anywhere. Pairs well with the [open-jaw ticket approach](/en/blog/open-jaw-tickets-travel-hack): fly into city A, return from city B.
+**Kayak Explore.** Built for travelers with genuinely open plans. Enter your departure city, and a world map shows what it costs to fly anywhere. Pairs well with the [open-jaw ticket approach](/en/blog/open-jaw-tickets-travel-hack/): fly into city A, return from city B.
 
-More on getting the most out of these tools in our guide to [Google Flights tips and tricks for 2026](/en/blog/google-flights-tips-tricks-2026).
+More on getting the most out of these tools in our guide to [Google Flights tips and tricks for 2026](/en/blog/google-flights-tips-tricks-2026/).
 
 ## Why Is the Return Flight Often the Bigger Lever?
 
@@ -42,7 +42,7 @@ In the Frankfurt-Tokyo example above, the return flight gap was larger than the 
 
 Flexible travelers think in round-trip combinations from the start. The Google Date Grid shows exactly that: a matrix of both directions. The cheapest combination is often not what you'd intuitively choose.
 
-This connects directly to how [airline pricing algorithms](/en/blog/airline-pricing-algorithm-explained) work: outbound and return prices are not calculated independently. They interact.
+This connects directly to how [airline pricing algorithms](/en/blog/airline-pricing-algorithm-explained/) work: outbound and return prices are not calculated independently. They interact.
 
 ## When Does This Strategy Not Work?
 
@@ -50,7 +50,7 @@ School holidays. Christmas. Easter. Local public holidays at your destination. I
 
 The same applies to major events: Olympics, World Cups, local festivals. Going to Barcelona during the city's main festival or to Munich in October? No day-of-week trick will help.
 
-During these peaks, [booking early](/en/blog/when-to-book-flights) matters more than date flexibility. Six to eight months ahead on popular routes in high season is a reliable strategy.
+During these peaks, [booking early](/en/blog/when-to-book-flights/) matters more than date flexibility. Six to eight months ahead on popular routes in high season is a reliable strategy.
 
 Outside the peaks, the ±7-day approach works consistently. Especially on long-haul: North America, Japan, Southeast Asia. And especially on return flights, which travelers often book without thinking twice.
 
@@ -84,4 +84,4 @@ During peak travel periods: summer school holidays, Christmas, Easter, major loc
 
 In calendar mode on Google Flights, each departure date shows the current price. Activating the ±3-day option generates a matrix: departure dates on one axis, return dates on the other. The cheapest combination is highlighted in green. The entire grid updates in real time as you adjust your search.
 
-**Read more:** [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026) · [When to Book Flights](/en/blog/when-to-book-flights) · [Airline Pricing Algorithm Explained](/en/blog/airline-pricing-algorithm-explained)
+**Read more:** [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026/) · [When to Book Flights](/en/blog/when-to-book-flights/) · [Airline Pricing Algorithm Explained](/en/blog/airline-pricing-algorithm-explained/)

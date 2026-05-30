@@ -55,7 +55,7 @@ Bathwick está al este del centro, separado por el río Avon. El Puente Pulteney
 
 **Mejores opciones:** The Bath Priory (5 estrellas con jardín y spa, uno de los hoteles más reconocidos de Inglaterra fuera de Londres), Dukes Hotel Bath (boutique elegante en un edificio georgiano de esquina, gestión familiar, bar excelente).
 
-Consulta también nuestra [guía de dónde alojarse en Londres](/es/blog/donde-alojarse-london) si combinas Bath con la capital. Tiene buenos consejos por barrios para organizar los dos destinos juntos.
+Consulta también nuestra [guía de dónde alojarse en Londres](/es/blog/donde-alojarse-london/) si combinas Bath con la capital. Tiene buenos consejos por barrios para organizar los dos destinos juntos.
 
 ## Bear Flat y Southgate: presupuesto y carácter local
 
@@ -71,7 +71,7 @@ Bear Flat es un barrio residencial del sur con carácter propio. Cafeterías loc
 
 Abril a junio y septiembre a octubre. Tiempo suave, aglomeraciones controladas. El verano (julio/agosto) es animado pero no agotador. Bath no es un destino de turismo masivo como Londres.
 
-Diciembre es especialmente bonito. El mercado navideño de Bath es uno de los mejores de Inglaterra. Si vas en esa época, reserva con antelación. Para un viaje por el Reino Unido, nuestra [guía de dónde alojarse en Edimburgo](/es/blog/donde-alojarse-edimburgo) completa bien un itinerario Bath-Edimburgo.
+Diciembre es especialmente bonito. El mercado navideño de Bath es uno de los mejores de Inglaterra. Si vas en esa época, reserva con antelación. Para un viaje por el Reino Unido, nuestra [guía de dónde alojarse en Edimburgo](/es/blog/donde-alojarse-edimburgo/) completa bien un itinerario Bath-Edimburgo.
 
 **Fechas a vigilar:** Las Badminton Horse Trials (mayo) y el Bath Festival (mayo/junio) pueden duplicar los precios de golpe. Reserva con tiempo o cambia las fechas.
 
@@ -115,5 +115,5 @@ En tren desde London Paddington son unos 90 minutos. Hay servicios directos vari
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Londres: los mejores barrios](/es/blog/donde-alojarse-london)
-- [Dónde alojarse en Edimburgo: los mejores barrios](/es/blog/donde-alojarse-edimburgo)
+- [Dónde alojarse en Londres: los mejores barrios](/es/blog/donde-alojarse-london/)
+- [Dónde alojarse en Edimburgo: los mejores barrios](/es/blog/donde-alojarse-edimburgo/)

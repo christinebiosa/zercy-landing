@@ -70,6 +70,6 @@ Yellow fever vaccination is mandatory on entry from certain countries and recomm
 ---
 
 **Read more:**
-- [Patagonia 3-Week Route](/en/blog/patagonia-3-week-route)
-- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Argentina Travel Guide](/en/blog/argentina-travel-guide-highlights)
+- [Patagonia 3-Week Route](/en/blog/patagonia-3-week-route/)
+- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Argentina Travel Guide](/en/blog/argentina-travel-guide-highlights/)

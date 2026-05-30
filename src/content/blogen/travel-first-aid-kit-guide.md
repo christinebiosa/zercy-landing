@@ -52,7 +52,7 @@ A broad-spectrum antibiotic (often ciprofloxacin or azithromycin) for severe gas
 **Altitude medication**
 Acetazolamide (Diamox) reduces the risk of acute altitude sickness in the Andes, Nepal, or Tibet. Prescription required. Talk to your doctor before packing this one.
 
-For more on health prep before departure: [Travel Vaccinations: What You Actually Need](/en/blog/travel-vaccinations-guide) and [Travel Health Insurance: What to Look For](/en/blog/travel-health-insurance-guide).
+For more on health prep before departure: [Travel Vaccinations: What You Actually Need](/en/blog/travel-vaccinations-guide/) and [Travel Health Insurance: What to Look For](/en/blog/travel-health-insurance-guide/).
 
 ---
 
@@ -66,7 +66,7 @@ What always goes in your carry-on:
 - Prescription medications in original packaging with a doctor's note
 - Thermometer (glass thermometers are better off in checked luggage)
 
-Keep original packaging for every prescription medication. Many countries require customs proof that a medication is legitimately prescribed in your name. Traveling carry-on only? This article has you covered: [Carry-On Only: How to Pack Smarter](/en/blog/carry-on-only).
+Keep original packaging for every prescription medication. Many countries require customs proof that a medication is legitimately prescribed in your name. Traveling carry-on only? This article has you covered: [Carry-On Only: How to Pack Smarter](/en/blog/carry-on-only/).
 
 ---
 
@@ -78,7 +78,7 @@ Useful tools: iPharmacy, local pharmacy association apps, or simply looking for 
 
 Prescription medications without documentation are difficult or impossible to obtain in many countries. Always carry a multilingual doctor's note in English at minimum, ideally also in the local language. Your GP can prepare this without much lead time.
 
-For serious emergencies: [Emergency Abroad: What You Need to Know](/en/blog/emergency-abroad-what-to-do).
+For serious emergencies: [Emergency Abroad: What You Need to Know](/en/blog/emergency-abroad-what-to-do/).
 
 ---
 
@@ -103,6 +103,6 @@ A thermometer, a tick removal card, and aloe vera gel for sunburn. Also commonly
 ---
 
 **Read more:**
-- [Travel Vaccinations: What You Actually Need](/en/blog/travel-vaccinations-guide)
-- [Travel Health Insurance: What to Look For](/en/blog/travel-health-insurance-guide)
-- [Carry-On Only: How to Pack Smarter](/en/blog/carry-on-only)
+- [Travel Vaccinations: What You Actually Need](/en/blog/travel-vaccinations-guide/)
+- [Travel Health Insurance: What to Look For](/en/blog/travel-health-insurance-guide/)
+- [Carry-On Only: How to Pack Smarter](/en/blog/carry-on-only/)

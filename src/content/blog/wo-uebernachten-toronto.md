@@ -94,6 +94,6 @@ Toronto Transit Commission (TTC) deckt die meisten Touristenziele ab. Subway ist
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in New York: Manhattan oder Brooklyn?](/blog/wo-uebernachten-new-york)
-- [Wo übernachten in Miami: South Beach oder Wynwood?](/blog/wo-uebernachten-miami)
-- [Wo übernachten in Los Angeles: Downtown oder Santa Monica?](/blog/wo-uebernachten-los-angeles)
+- [Wo übernachten in New York: Manhattan oder Brooklyn?](/blog/wo-uebernachten-new-york/)
+- [Wo übernachten in Miami: South Beach oder Wynwood?](/blog/wo-uebernachten-miami/)
+- [Wo übernachten in Los Angeles: Downtown oder Santa Monica?](/blog/wo-uebernachten-los-angeles/)

@@ -38,7 +38,7 @@ Sieben evidenzbasierte Schutzmaßnahmen, sortiert nach Wichtigkeit.
 
 **6. Hotel-WLAN-Passwort wechseln.** Beim Check-out im Hotel das Hotel-WLAN aus den gespeicherten Netzwerken löschen. Sonst verbindet sich dein Handy automatisch mit gleichnamigen "Fake-WLAN" am nächsten Hotel.
 
-**7. Backup vor der Reise.** iCloud, Google Drive oder externe Festplatte. Wenn dein Laptop oder Handy gestohlen wird, hast du wenigstens deine Daten. Lies dazu auch unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich) — Hausratsversicherung deckt oft Geräte-Verlust.
+**7. Backup vor der Reise.** iCloud, Google Drive oder externe Festplatte. Wenn dein Laptop oder Handy gestohlen wird, hast du wenigstens deine Daten. Lies dazu auch unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/) — Hausratsversicherung deckt oft Geräte-Verlust.
 
 ## Welche Apps und Tools sind 2026 wirklich nützlich?
 
@@ -52,7 +52,7 @@ Konkrete Empfehlungen, getestet.
 
 **eSIM für sicheres Mobilnetz:** Airalo oder Holafly. Eigene Daten statt Hotel-WLAN. 10-30 Euro pro Trip.
 
-Schau dir auch unseren [Solo-Reisen-Guide](/blog/solo-reisen-frauen-sicher) an — viele dieser Tools sind besonders wichtig für Alleinreisende.
+Schau dir auch unseren [Solo-Reisen-Guide](/blog/solo-reisen-frauen-sicher/) an — viele dieser Tools sind besonders wichtig für Alleinreisende.
 
 ## Was tun wenn doch etwas passiert?
 
@@ -91,6 +91,6 @@ ATMs in Bankfilialen statt freistehende. Mit der Hand die PIN-Eingabe abdecken. 
 ---
 
 **Mehr lesen:**
-- [Reiseversicherung 2026: Was lohnt sich, was ist Quatsch?](/blog/reiseversicherung-was-lohnt-sich)
-- [Solo-Reisen als Frau: 7 sichere Länder + Tipps](/blog/solo-reisen-frauen-sicher)
-- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026)
+- [Reiseversicherung 2026: Was lohnt sich, was ist Quatsch?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Solo-Reisen als Frau: 7 sichere Länder + Tipps](/blog/solo-reisen-frauen-sicher/)
+- [Workation 2026: So planst du sie steuerlich richtig](/blog/workation-steuern-2026/)

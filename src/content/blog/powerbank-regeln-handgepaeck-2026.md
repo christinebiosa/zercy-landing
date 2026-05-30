@@ -56,7 +56,7 @@ Drei Methoden, von einfach zu kompliziert:
 - Anker PowerHouse II 200 (60.000 mAh, 3.7V) = 222 Wh - VERBOTEN
 - DJI Power 100W (39.000 mAh, 7.4V) = 288 Wh - VERBOTEN
 
-Lies dazu auch unseren [Capsule-Wardrobe-Handgepäck-Guide](/blog/capsule-wardrobe-handgepaeck) für effizientes Packen.
+Lies dazu auch unseren [Capsule-Wardrobe-Handgepäck-Guide](/blog/capsule-wardrobe-handgepaeck/) für effizientes Packen.
 
 ## Was passiert bei Verstoß gegen Powerbank-Regeln am Flughafen?
 
@@ -109,6 +109,6 @@ Anker (Premium-Standard, beste Qualität), Xiaomi (gutes Preis-Leistungs-Verhäl
 ---
 
 **Mehr lesen:**
-- [Capsule Wardrobe für Handgepäck](/blog/capsule-wardrobe-handgepaeck)
-- [Beste Reise-Apps 2026](/blog/beste-travel-apps-2026)
-- [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck)
+- [Capsule Wardrobe für Handgepäck](/blog/capsule-wardrobe-handgepaeck/)
+- [Beste Reise-Apps 2026](/blog/beste-travel-apps-2026/)
+- [Eine Woche nur mit Handgepäck](/blog/nur-handgepaeck/)

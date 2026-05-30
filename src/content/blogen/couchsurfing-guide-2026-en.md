@@ -50,7 +50,7 @@ The platform has gained serious competition.
 
 **Warmshowers** is exclusively for cyclists. If you're traveling by bike, this is one of the densest and most welcoming travel communities anywhere.
 
-For longer stays, it's worth looking at [house-swapping as a travel model](/en/blog/house-swap-travel-guide) or [house sitting as a free travel option](/en/blog/house-sitting-free-travel-guide). Both offer more space and privacy, but follow different logics.
+For longer stays, it's worth looking at [house-swapping as a travel model](/en/blog/house-swap-travel-guide/) or [house sitting as a free travel option](/en/blog/house-sitting-free-travel-guide/). Both offer more space and privacy, but follow different logics.
 
 ## Guest Etiquette: What to Keep in Mind
 
@@ -66,11 +66,11 @@ Write a reference. Always. Even when you're in a rush to move on.
 
 ## Which Countries Work Best for Couchsurfing?
 
-Western Europe and North America still have the largest communities. Berlin, Amsterdam, Paris, New York, Montreal. If you [find cheap flights to Europe](/en/blog/cheap-flights-tips) and travel flexibly, your chances of finding a Couchsurfing host are solid.
+Western Europe and North America still have the largest communities. Berlin, Amsterdam, Paris, New York, Montreal. If you [find cheap flights to Europe](/en/blog/cheap-flights-tips/) and travel flexibly, your chances of finding a Couchsurfing host are solid.
 
 In Latin America and Southeast Asia, the community is growing again, especially in capital cities and along backpacker routes. Smaller towns and rural areas are thinly covered.
 
-In some countries, Couchsurfing is simply the wrong choice. Wherever internet penetration is low, where the platform is culturally unfamiliar, or where 15 dollars for a membership is a genuine barrier. Local networks, hostels, or community organizations often make more sense. For [budget travel on a tight budget](/en/blog/cheap-flights-tips), a mix of platforms is usually the smartest approach.
+In some countries, Couchsurfing is simply the wrong choice. Wherever internet penetration is low, where the platform is culturally unfamiliar, or where 15 dollars for a membership is a genuine barrier. Local networks, hostels, or community organizations often make more sense. For [budget travel on a tight budget](/en/blog/cheap-flights-tips/), a mix of platforms is usually the smartest approach.
 
 ## When Is Couchsurfing the Wrong Choice?
 
@@ -78,7 +78,7 @@ When you need privacy. When you're arriving late at night and leaving early the 
 
 Couchsurfing doesn't work on autopilot. It takes time, energy, and genuine interest in exchange. If you can't bring that, you're not doing anyone a favor, least of all yourself.
 
-A solid travel insurance policy remains essential regardless. See our guide on [travel insurance in 2026](/en/blog/travel-insurance-worth-it-2026) for what's actually worth getting.
+A solid travel insurance policy remains essential regardless. See our guide on [travel insurance in 2026](/en/blog/travel-insurance-worth-it-2026/) for what's actually worth getting.
 
 ---
 
@@ -106,6 +106,6 @@ The platform was free for years, funded by venture capital. In 2020, during the 
 
 ## Read more
 
-- [House Sitting: How to Travel Free in Other People's Homes](/en/blog/house-sitting-free-travel-guide)
-- [House Swap Travel: The Complete Guide](/en/blog/house-swap-travel-guide)
-- [Travel Insurance in 2026: What's Actually Worth It](/en/blog/travel-insurance-worth-it-2026)
+- [House Sitting: How to Travel Free in Other People's Homes](/en/blog/house-sitting-free-travel-guide/)
+- [House Swap Travel: The Complete Guide](/en/blog/house-swap-travel-guide/)
+- [Travel Insurance in 2026: What's Actually Worth It](/en/blog/travel-insurance-worth-it-2026/)

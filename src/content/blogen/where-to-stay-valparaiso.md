@@ -49,7 +49,7 @@ Hotels here are small guesthouses and B&Bs. For anyone who wants the Cerro Alegr
 
 **Top picks:** Hotel Brighton (historic hotel, Cerro Concepción, panoramic views), La Bicyclette (small boutique hotel, very well reviewed), Hostal Jacaranda (affordable, welcoming).
 
-Our [Chile travel guide](/en/blog/chile-travel-guide-highlights) and [Santiago neighborhood guide](/en/blog/where-to-stay-santiago) complement the Valparaíso visit.
+Our [Chile travel guide](/en/blog/chile-travel-guide-highlights/) and [Santiago neighborhood guide](/en/blog/where-to-stay-santiago/) complement the Valparaíso visit.
 
 ## When Is the Best Time to Visit Valparaíso?
 
@@ -105,6 +105,6 @@ Cerro Alegre and Cerro Concepción during the day are very safe and tourist-frie
 ---
 
 ## Read more
-- [Where to Stay in Santiago: Best Neighborhoods](/en/blog/where-to-stay-santiago)
-- [Chile Travel Guide: Best Highlights](/en/blog/chile-travel-guide-highlights)
-- [Patagonia 3 Weeks: The Perfect Route](/en/blog/patagonia-3-weeks-route)
+- [Where to Stay in Santiago: Best Neighborhoods](/en/blog/where-to-stay-santiago/)
+- [Chile Travel Guide: Best Highlights](/en/blog/chile-travel-guide-highlights/)
+- [Patagonia 3 Weeks: The Perfect Route](/en/blog/patagonia-3-weeks-route/)

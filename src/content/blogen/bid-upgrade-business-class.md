@@ -48,11 +48,11 @@ Low-cost carriers like Ryanair, easyJet, or Wizz Air have no bid system. The con
 
 There are situations where a bid upgrade is the wrong move.
 
-If business class is currently priced within 200 to 300 euros of economy, book directly. That happens rarely, but on low-demand routes or in shoulder season those windows exist. [Cheap business class tickets are findable with the right strategies](/en/blog/business-class-without-miles), sometimes without any bidding at all.
+If business class is currently priced within 200 to 300 euros of economy, book directly. That happens rarely, but on low-demand routes or in shoulder season those windows exist. [Cheap business class tickets are findable with the right strategies](/en/blog/business-class-without-miles/), sometimes without any bidding at all.
 
 If you need that seat guaranteed (morning meeting the next day, health reasons, severe fatigue), do not rely on a bid. The outcome is uncertain until the last day.
 
-And if the gap between economy and business means your realistic bid would still exceed 600 euros, quickly check [Google Flights tips](/en/blog/google-flights-tips-tricks-2026). Last-minute business deals occasionally appear at similar price points.
+And if the gap between economy and business means your realistic bid would still exceed 600 euros, quickly check [Google Flights tips](/en/blog/google-flights-tips-tricks-2026/). Last-minute business deals occasionally appear at similar price points.
 
 ## What are the alternatives to a bid upgrade?
 
@@ -60,7 +60,7 @@ Two of them can even be free.
 
 **Gate upgrade:** Ask at the gate shortly before boarding. "Are there any business class seats available for an upgrade?" Airlines occasionally upgrade passengers at no cost when economy is overbooked or when business has unsold seats. The odds are low but the effort is also minimal. The worst outcome is a polite no.
 
-**Status upgrade:** Frequent flyer status, even lower tiers like Miles & More Senator or British Airways Bronze, gives you priority when upgrades are processed. Not automatic, but when two bid amounts are identical, status holders almost always win. Check out [lounge access without a business ticket](/en/blog/lounge-access-without-business-ticket) to see what else status unlocks.
+**Status upgrade:** Frequent flyer status, even lower tiers like Miles & More Senator or British Airways Bronze, gives you priority when upgrades are processed. Not automatic, but when two bid amounts are identical, status holders almost always win. Check out [lounge access without a business ticket](/en/blog/lounge-access-without-business-ticket/) to see what else status unlocks.
 
 **Miles upgrade:** If you have miles or Avios from past flights or a co-branded card, a points upgrade may cost less than a cash bid. Lufthansa, British Airways, and Singapore Airlines allow upgrades with points, sometimes as a combined cash-plus-miles offer.
 
@@ -86,4 +86,4 @@ Nothing at all. You fly as originally booked in economy, your card is not charge
 
 On intercontinental routes of 8 or more hours, successful bids typically add between 150 and 500 euros to the economy price. The rule of thumb: aim for 20 to 30 percent of the current price gap between your economy ticket and the business class fare. Bidding too low is a more common mistake than bidding too high.
 
-**Read more:** [Business Class Without Miles: The Smart Alternatives](/en/blog/business-class-without-miles) · [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket) · [Cheap Flights: 11 Tips That Actually Work](/en/blog/cheap-flights-tips)
+**Read more:** [Business Class Without Miles: The Smart Alternatives](/en/blog/business-class-without-miles/) · [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket/) · [Cheap Flights: 11 Tips That Actually Work](/en/blog/cheap-flights-tips/)

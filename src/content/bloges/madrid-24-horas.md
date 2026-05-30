@@ -36,7 +36,7 @@ Madrid es una de las ciudades europeas más económicas para el viajero:
 - Tapas: 2-4 euros por tapa, 1,50-2 euros por cerveza o vino
 - Cena en restaurante informal: 20-35 euros por persona
 
-Si tienes más tiempo, consulta también [dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid) para elegir el barrio que mejor encaja con tu viaje.
+Si tienes más tiempo, consulta también [dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid/) para elegir el barrio que mejor encaja con tu viaje.
 
 Zercy puede ayudarte a encontrar los mejores vuelos y alojamiento para Madrid. Guarda tus planes en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -63,6 +63,6 @@ Los restaurantes alrededor de la Puerta del Sol y la Plaza Mayor tienen precios 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid)
-- [48 horas en Roma: el itinerario sin carreras](/es/blog/48-horas-roma)
-- [Lisboa fuera de la ruta turística: los barrios que visitar](/es/blog/lisboa-fuera-ruta-turistica)
+- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid/)
+- [48 horas en Roma: el itinerario sin carreras](/es/blog/48-horas-roma/)
+- [Lisboa fuera de la ruta turística: los barrios que visitar](/es/blog/lisboa-fuera-ruta-turistica/)

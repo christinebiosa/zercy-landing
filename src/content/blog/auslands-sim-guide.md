@@ -36,7 +36,7 @@ Hier wird es interessant. In vielen Ländern schlägt die lokale SIM jede eSIM b
 
 **Asien:** Vietnam, Thailand, Indonesien gehören zu den günstigsten Märkten weltweit. In Vietnam bekommst du 30 GB für umgerechnet 3 bis 5 Euro. Thailand: True Move H verkauft 30-Tage-Pakete mit 30 GB für etwa 8 Euro. Japan ist teurer, dort zahlt man für 10 GB rund 15 Euro, aber das Netz ist exzellent. In Singapur kostet 100 GB kaum mehr als 15 Euro.
 
-**Amerika:** USA sind teurer. Eine lokale Prepaid-SIM bei T-Mobile oder AT&T kostet für 7 Tage mit 15 GB etwa 25 bis 35 Dollar. In Mexiko bekommst du bei Telcel für 10 Euro schon großzügige Pakete. Peru und andere lateinamerikanische Länder sind günstig: 10 GB oft unter 5 Euro. Für Peru-Reisende lohnt ein Blick in den [Peru Reiseguide](/blog/peru-reiseguide-highlights) für praktische Vor-Ort-Tipps.
+**Amerika:** USA sind teurer. Eine lokale Prepaid-SIM bei T-Mobile oder AT&T kostet für 7 Tage mit 15 GB etwa 25 bis 35 Dollar. In Mexiko bekommst du bei Telcel für 10 Euro schon großzügige Pakete. Peru und andere lateinamerikanische Länder sind günstig: 10 GB oft unter 5 Euro. Für Peru-Reisende lohnt ein Blick in den [Peru Reiseguide](/blog/peru-reiseguide-highlights/) für praktische Vor-Ort-Tipps.
 
 **Afrika:** Sehr unterschiedlich. In Marokko kostet 1 GB etwa 1 Euro. Kenia ist ähnlich günstig. Südafrika liegt im Mittelfeld. Das Netz in Städten ist überraschend gut.
 
@@ -52,9 +52,9 @@ Stelle Social-Media-Apps auf manuelle Aktualisierung um. Instagram, TikTok und Y
 
 Nutze Hotels, Cafes und Flughäfen für große Downloads. Podcasts, Netflix-Folgen, Dokumente: alles vorab über WLAN. Dein Datenpaket bleibt dann für Navigation, Übersetzer und Messaging.
 
-Für Trips mit mehreren Zielen, etwa Thailand kombiniert mit einem [Stopover in Singapur](/blog/stopover-tourismus-guide), kann eine regionale eSIM sinnvoller sein als drei separate lokale SIMs.
+Für Trips mit mehreren Zielen, etwa Thailand kombiniert mit einem [Stopover in Singapur](/blog/stopover-tourismus-guide/), kann eine regionale eSIM sinnvoller sein als drei separate lokale SIMs.
 
-Und wenn du mit nur Handgepäck reist: Auch der [Carry-on-Guide](/blog/nur-handgepaeck) hat Tipps zu Tech-Essentials. Alles, was Platz spart, zählt.
+Und wenn du mit nur Handgepäck reist: Auch der [Carry-on-Guide](/blog/nur-handgepaeck/) hat Tipps zu Tech-Essentials. Alles, was Platz spart, zählt.
 
 ---
 
@@ -84,6 +84,6 @@ iPhone XS (2018) und alle neueren iPhones. Samsung Galaxy S20 und neuer. Google 
 
 Mehr lesen:
 
-- [Airport Hacks: Schlauer durch den Flughafen](/blog/airport-hacks)
-- [Nur mit Handgepäck reisen: Der vollständige Guide](/blog/nur-handgepaeck)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Airport Hacks: Schlauer durch den Flughafen](/blog/airport-hacks/)
+- [Nur mit Handgepäck reisen: Der vollständige Guide](/blog/nur-handgepaeck/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

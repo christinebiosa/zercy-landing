@@ -30,9 +30,9 @@ Tres herramientas destacan:
 
 **Hopper.** La app [analiza tendencias históricas de precios](https://www.hopper.com) y predice si conviene reservar ahora o esperar. Útil sobre todo cuando la fecha ya está definida y quieres saber si el precio bajará. Hopper trabaja con probabilidades, no con garantías.
 
-**Kayak Explore.** Para viajeros con planes realmente abiertos. Introduces tu ciudad de origen y un mapa del mundo muestra cuánto cuesta volar a cualquier destino. Combina bien con el [enfoque open-jaw](/es/blog/open-jaw-tickets-truco-viaje): llegar a la ciudad A y regresar desde la ciudad B.
+**Kayak Explore.** Para viajeros con planes realmente abiertos. Introduces tu ciudad de origen y un mapa del mundo muestra cuánto cuesta volar a cualquier destino. Combina bien con el [enfoque open-jaw](/es/blog/open-jaw-tickets-truco-viaje/): llegar a la ciudad A y regresar desde la ciudad B.
 
-Más sobre cómo aprovechar estas herramientas en nuestra guía de [trucos y consejos de Google Flights para 2026](/es/blog/google-flights-trucos-2026).
+Más sobre cómo aprovechar estas herramientas en nuestra guía de [trucos y consejos de Google Flights para 2026](/es/blog/google-flights-trucos-2026/).
 
 ## ¿Por qué el vuelo de regreso suele ser la palanca más grande?
 
@@ -40,7 +40,7 @@ La mayoría solo optimizan la ida. Mueven la salida dos días, ahorran 80 euros 
 
 En el ejemplo Frankfurt-Tokio, la diferencia en el regreso fue mayor: 280 euros entre domingo y lunes, frente a 350 euros entre viernes y miércoles. El ahorro total viene de ambas direcciones.
 
-El Google Date Grid muestra exactamente eso: una matriz de ida y vuelta. La combinación más barata a menudo no es la que se elegiría intuitivamente. Esto está relacionado con el [algoritmo de precios de las aerolíneas](/es/blog/algoritmo-precios-vuelos-aerolineas): los precios de ida y vuelta interactúan entre sí.
+El Google Date Grid muestra exactamente eso: una matriz de ida y vuelta. La combinación más barata a menudo no es la que se elegiría intuitivamente. Esto está relacionado con el [algoritmo de precios de las aerolíneas](/es/blog/algoritmo-precios-vuelos-aerolineas/): los precios de ida y vuelta interactúan entre sí.
 
 ## ¿Cuándo no funciona esta estrategia?
 
@@ -48,7 +48,7 @@ Vacaciones escolares. Navidad. Semana Santa. Festivos locales en el destino. En 
 
 Lo mismo aplica a grandes eventos: Juegos Olímpicos, Mundiales, festivales locales. ¿Ir a Barcelona durante las fiestas mayores o a Múnich en octubre? Ningún truco de día de la semana va a ayudar.
 
-En estos períodos, [reservar con anticipación](/es/blog/cuando-reservar-vuelos) importa más que la flexibilidad de fechas. Seis u ocho meses de antelación en rutas populares en temporada alta es una estrategia sólida.
+En estos períodos, [reservar con anticipación](/es/blog/cuando-reservar-vuelos/) importa más que la flexibilidad de fechas. Seis u ocho meses de antelación en rutas populares en temporada alta es una estrategia sólida.
 
 Fuera de los picos, el enfoque ±7 días funciona de forma consistente. Especialmente en vuelos de larga distancia: Norteamérica, Japón, Sudeste Asiático. Y especialmente en vuelos de regreso, que los viajeros suelen reservar sin pensar demasiado.
 
@@ -82,4 +82,4 @@ En períodos de alta demanda: vacaciones de verano, Navidad, Semana Santa, grand
 
 En el modo calendario de Google Flights, cada fecha de salida muestra el precio actual. Al activar la opción ±3 días, se genera una matriz: fechas de ida en un eje, fechas de vuelta en el otro. La combinación más barata aparece resaltada en verde. Todo el grid se actualiza en tiempo real mientras ajustas la búsqueda.
 
-**Leer más:** [Trucos y consejos Google Flights 2026](/es/blog/google-flights-trucos-2026) · [Cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos) · [Algoritmo de precios de aerolíneas](/es/blog/algoritmo-precios-vuelos-aerolineas)
+**Leer más:** [Trucos y consejos Google Flights 2026](/es/blog/google-flights-trucos-2026/) · [Cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) · [Algoritmo de precios de aerolíneas](/es/blog/algoritmo-precios-vuelos-aerolineas/)

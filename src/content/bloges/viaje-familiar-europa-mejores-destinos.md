@@ -43,7 +43,7 @@ Los menores de 4 años tienen requisitos diferentes: sin largas caminatas a punt
 
 **Lago de Garda (Italia):** Clima suave, zonas planas para bebés, paseo lacustre fácil de recorrer, la cocina local funciona también para los comedores exigentes. Venecia como excursión de un día (1 hora), pero sin estrés con el carrito en el lago.
 
-**Mallorca (España):** Complejos hoteleros con baby club desde los 6 meses, piscinas de poca profundidad con zona infantil separada. Calor en agosto, mejor en mayo, junio o septiembre. Lee también nuestra [guía de hoteles boutique](/es/blog/hoteles-boutique-guia) para alternativas más íntimas a los grandes resorts.
+**Mallorca (España):** Complejos hoteleros con baby club desde los 6 meses, piscinas de poca profundidad con zona infantil separada. Calor en agosto, mejor en mayo, junio o septiembre. Lee también nuestra [guía de hoteles boutique](/es/blog/hoteles-boutique-guia/) para alternativas más íntimas a los grandes resorts.
 
 **Costa del Mar del Norte (Alemania/Países Bajos):** Zonas intermareales, paseos por las marismas, playas de arena. Sin necesidad de vuelo, a 3-8 horas en coche desde la mayoría de ciudades de LATAM con conexión. La opción más económica de vacaciones familiares en Europa.
 
@@ -83,6 +83,6 @@ Regla general: no más de 4-5 horas al día. Con paradas cada hora y media y opo
 ---
 
 **Más para leer:**
-- [Viajar con bebé: el primer vuelo sin estrés](/es/blog/viajar-con-bebe-primer-vuelo)
-- [Viajar con perro por Europa: lo que realmente necesitas saber](/es/blog/viajar-con-perro-europa)
-- [Slow travel: por qué viajar más despacio significa más](/es/blog/slow-travel-que-significa)
+- [Viajar con bebé: el primer vuelo sin estrés](/es/blog/viajar-con-bebe-primer-vuelo/)
+- [Viajar con perro por Europa: lo que realmente necesitas saber](/es/blog/viajar-con-perro-europa/)
+- [Slow travel: por qué viajar más despacio significa más](/es/blog/slow-travel-que-significa/)

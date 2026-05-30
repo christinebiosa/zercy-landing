@@ -77,6 +77,6 @@ Auf kleinen Inseln (El Nido, Siargao) ist Bargeld Pflicht: kaum Kartenterminals,
 
 ## Mehr lesen
 
-- [Südostasien Budget-Reisen: Günstig durch Asien](/blog/suedostasien-budget-reisen)
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Südostasien Budget-Reisen: Günstig durch Asien](/blog/suedostasien-budget-reisen/)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

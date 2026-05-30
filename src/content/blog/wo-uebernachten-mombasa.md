@@ -91,11 +91,11 @@ Diani Beach südlich des Festlands hat den schönsten weißen Sand und das klars
 
 ### Was kostet Mombasa im Vergleich zu anderen Kenia-Reisezielen?
 
-Mombasa-Strand ist teurer als Nairobi-Stadthotels aber günstiger als Lodges im Maasai Mara. Ein gutes Strandhotel kostet 100-200 USD pro Nacht. Budget-Guesthouses in der Altstadt gibt es ab 20 USD. Der [Kenia-Reiseguide](/blog/kenia-reiseguide-highlights) zeigt die kompletten Kostenstrukturen.
+Mombasa-Strand ist teurer als Nairobi-Stadthotels aber günstiger als Lodges im Maasai Mara. Ein gutes Strandhotel kostet 100-200 USD pro Nacht. Budget-Guesthouses in der Altstadt gibt es ab 20 USD. Der [Kenia-Reiseguide](/blog/kenia-reiseguide-highlights/) zeigt die kompletten Kostenstrukturen.
 
 ---
 
 **Mehr lesen:**
-- [Kenia Reiseguide: Highlights, Safari und Küste](/blog/kenia-reiseguide-highlights)
-- [Safari in Ostafrika: Der komplette Guide](/blog/safari-ostafrika-guide)
-- [Sansibar Stone Town: Was du wissen musst](/blog/sansibar-stone-town-guide)
+- [Kenia Reiseguide: Highlights, Safari und Küste](/blog/kenia-reiseguide-highlights/)
+- [Safari in Ostafrika: Der komplette Guide](/blog/safari-ostafrika-guide/)
+- [Sansibar Stone Town: Was du wissen musst](/blog/sansibar-stone-town-guide/)

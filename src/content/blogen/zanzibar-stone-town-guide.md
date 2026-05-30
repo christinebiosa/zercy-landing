@@ -35,7 +35,7 @@ The honest top list, with time recommendations:
 
 **5. Spice tour (half day, optional).** Zanzibar = spice island. Tour to local spice plantations with tasting of vanilla, cloves, cardamom directly from the soil. Touristy but educational. $28-44.
 
-See our [Cape Town guide](/en/blog/where-to-stay-cape-town) for the African southern variant.
+See our [Cape Town guide](/en/blog/where-to-stay-cape-town/) for the African southern variant.
 
 ## When is the best time to visit Zanzibar?
 
@@ -123,6 +123,6 @@ Backpacker: $1,100-1,500 per person incl. flight (hostel in Stone Town, local fo
 ---
 
 **Read more:**
-- [Where to stay in Cape Town: 5 neighborhoods](/en/blog/where-to-stay-cape-town)
-- [Where to stay in Marrakech: 4 neighborhoods](/en/blog/where-to-stay-marrakech)
-- [Solo travel for women: safe countries](/en/blog/solo-travel-women-safe-countries)
+- [Where to stay in Cape Town: 5 neighborhoods](/en/blog/where-to-stay-cape-town/)
+- [Where to stay in Marrakech: 4 neighborhoods](/en/blog/where-to-stay-marrakech/)
+- [Solo travel for women: safe countries](/en/blog/solo-travel-women-safe-countries/)

@@ -66,6 +66,6 @@ April und Mai haben auf den Inseln wenig Niederschlag. Das Festland ist im Früh
 ---
 
 **Mehr lesen:**
-- [Griechische Inseln im Vergleich: Welche passt zu dir?](/blog/schoenste-straende-europa-2026)
-- [Wo übernachten auf Santorini](/blog/wo-uebernachten-santorini)
-- [48 Stunden Athen: Was wirklich lohnt](/blog/48-stunden-athen)
+- [Griechische Inseln im Vergleich: Welche passt zu dir?](/blog/schoenste-straende-europa-2026/)
+- [Wo übernachten auf Santorini](/blog/wo-uebernachten-santorini/)
+- [48 Stunden Athen: Was wirklich lohnt](/blog/48-stunden-athen/)

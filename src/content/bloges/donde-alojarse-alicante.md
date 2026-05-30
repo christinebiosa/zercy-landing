@@ -95,7 +95,7 @@ El Ensanche es el centro moderno de Alicante. Bulevares anchos, calles comercial
 
 En cuanto a precios, Alicante es notablemente más económica que otras ciudades costeras españolas. Un buen hotel de cuatro estrellas cuesta en promedio entre 100 y 150 EUR por noche fuera de temporada alta. En julio y agosto los precios suben un 50-70%. Para viajes en verano, reserva con al menos 6-8 semanas de antelación.
 
-El Ensanche y el Centro también son buenas bases para excursiones: barco a la Isla Tabarca, visita a Elche (ciudad de palmeras UNESCO) o tren a [Valencia](/es/blog/donde-alojarse-valencia) o [Palma de Mallorca](/es/blog/donde-alojarse-palma-de-mallorca).
+El Ensanche y el Centro también son buenas bases para excursiones: barco a la Isla Tabarca, visita a Elche (ciudad de palmeras UNESCO) o tren a [Valencia](/es/blog/donde-alojarse-valencia/) o [Palma de Mallorca](/es/blog/donde-alojarse-palma-de-mallorca/).
 
 ---
 
@@ -117,11 +117,11 @@ Tabarca es la única isla habitada de España, a solo 22 km de la costa. El ferr
 
 ### ¿A qué distancia está Alicante de Valencia y Barcelona?
 
-Valencia está a 170 km al norte: unas 1,5 horas en coche, casi 2 horas en tren. Barcelona está a unos 525 km: aproximadamente 2,5 horas en tren de alta velocidad. Alicante es una buena parada en un recorrido por la costa este de España junto a [Barcelona](/es/blog/donde-alojarse-barcelona).
+Valencia está a 170 km al norte: unas 1,5 horas en coche, casi 2 horas en tren. Barcelona está a unos 525 km: aproximadamente 2,5 horas en tren de alta velocidad. Alicante es una buena parada en un recorrido por la costa este de España junto a [Barcelona](/es/blog/donde-alojarse-barcelona/).
 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Valencia: ¿Qué barrio se adapta a tu visita?](/es/blog/donde-alojarse-valencia)
-- [Dónde alojarse en Palma de Mallorca: ¿Casco antiguo o hoteles de playa?](/es/blog/donde-alojarse-palma-de-mallorca)
-- [Dónde alojarse en Barcelona: ¿Barrio Gótico o Eixample?](/es/blog/donde-alojarse-barcelona)
+- [Dónde alojarse en Valencia: ¿Qué barrio se adapta a tu visita?](/es/blog/donde-alojarse-valencia/)
+- [Dónde alojarse en Palma de Mallorca: ¿Casco antiguo o hoteles de playa?](/es/blog/donde-alojarse-palma-de-mallorca/)
+- [Dónde alojarse en Barcelona: ¿Barrio Gótico o Eixample?](/es/blog/donde-alojarse-barcelona/)

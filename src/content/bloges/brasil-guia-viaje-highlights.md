@@ -76,6 +76,6 @@ Brasil tiene un nivel de seguridad muy desigual según la región y el barrio. L
 ---
 
 **Leer más:**
-- [Lista de equipaje esencial para viajes](/es/blog/lista-equipaje-viaje-esencial)
-- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Argentina: Guía de viaje](/es/blog/argentina-guia-viaje-highlights)
+- [Lista de equipaje esencial para viajes](/es/blog/lista-equipaje-viaje-esencial/)
+- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Argentina: Guía de viaje](/es/blog/argentina-guia-viaje-highlights/)

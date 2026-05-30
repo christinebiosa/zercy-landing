@@ -77,6 +77,6 @@ Fuerteventura hat die längste Küstenlinie aller Kanarischen Inseln und die wei
 
 ## Mehr lesen
 
-- [Wo übernachten auf Lanzarote](/blog/wo-uebernachten-lanzarote)
-- [Wo übernachten auf Teneriffa](/blog/wo-uebernachten-teneriffa)
-- [Wo übernachten auf Palma de Mallorca](/blog/wo-uebernachten-palma-de-mallorca)
+- [Wo übernachten auf Lanzarote](/blog/wo-uebernachten-lanzarote/)
+- [Wo übernachten auf Teneriffa](/blog/wo-uebernachten-teneriffa/)
+- [Wo übernachten auf Palma de Mallorca](/blog/wo-uebernachten-palma-de-mallorca/)

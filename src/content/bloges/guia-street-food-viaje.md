@@ -32,7 +32,7 @@ Hay destinos que prácticamente se definen por lo que se cocina en sus aceras.
 
 Para contexto cultural sobre estas cocinas, los [guías de street food de Serious Eats](https://www.seriouseats.com/street-food) son una lectura estupenda antes de viajar.
 
-Si estás planificando un viaje al sudeste asiático, nuestra guía de [viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico) tiene todo lo que necesitas para comer bien gastando poco.
+Si estás planificando un viaje al sudeste asiático, nuestra guía de [viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico/) tiene todo lo que necesitas para comer bien gastando poco.
 
 ---
 
@@ -48,7 +48,7 @@ La respuesta real tiene poco que ver con aplicaciones.
 
 **Pide lo que sale rápido.** Alta rotación significa ingredientes frescos. Si el cocinero está haciendo cuarenta porciones por hora, nada lleva tiempo parado. Los puestos lentos con mucha comida ya emplatada son otra historia.
 
-Hablamos más de esta forma de viajar en nuestra guía de [turismo gastronómico: comer como un local](/es/blog/turismo-gastronomico-comer-como-local).
+Hablamos más de esta forma de viajar en nuestra guía de [turismo gastronómico: comer como un local](/es/blog/turismo-gastronomico-comer-como-local/).
 
 ---
 
@@ -79,9 +79,9 @@ Un buen tour te lleva a tres o cinco lugares que nunca habrías encontrado solo.
 
 [La guía de Eater sobre las mejores ciudades del mundo para street food](https://www.eater.com/maps/best-street-food-cities-world) tiene recomendaciones sólidas sobre qué operadores realmente van a donde comen los locales.
 
-Si Marruecos está en tu lista, nuestra [guía de ciudades de Marruecos](/es/blog/marruecos-ciudades-guia) tiene opciones concretas para Marrakech y Fez.
+Si Marruecos está en tu lista, nuestra [guía de ciudades de Marruecos](/es/blog/marruecos-ciudades-guia/) tiene opciones concretas para Marrakech y Fez.
 
-Y si México te llama: la [ruta completa por México](/es/blog/mexico-ruta-completa) incluye las mejores paradas de street food desde Ciudad de México hasta Oaxaca.
+Y si México te llama: la [ruta completa por México](/es/blog/mexico-ruta-completa/) incluye las mejores paradas de street food desde Ciudad de México hasta Oaxaca.
 
 ---
 

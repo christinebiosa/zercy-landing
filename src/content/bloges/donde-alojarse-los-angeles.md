@@ -55,7 +55,7 @@ Hoteles en Hollywood: de 100 a 300 euros.
 **Recomendación:**
 - **The Hollywood Roosevelt** (el hotel donde se celebraron los primeros Oscar, historia y glamour, aprox. 200 €)
 
-Para otras ciudades de la costa oeste y el suroeste de EE.UU., consulta también [dónde alojarse en San Francisco](/es/blog/donde-alojarse-san-francisco) y [dónde alojarse en Las Vegas](/es/blog/donde-alojarse-las-vegas).
+Para otras ciudades de la costa oeste y el suroeste de EE.UU., consulta también [dónde alojarse en San Francisco](/es/blog/donde-alojarse-san-francisco/) y [dónde alojarse en Las Vegas](/es/blog/donde-alojarse-las-vegas/).
 
 ## West Hollywood: La noche y el estilo
 
@@ -96,6 +96,6 @@ Santa Mónica es la más accesible y familiar. Venice Beach tiene el ambiente m�
 ---
 
 **Más para leer:**
-- [Dónde alojarse en San Francisco: Union Square, Mission o Fisherman's Wharf](/es/blog/donde-alojarse-san-francisco)
-- [Dónde alojarse en Las Vegas: El Strip, Downtown o Off-Strip](/es/blog/donde-alojarse-las-vegas)
-- [Dónde alojarse en Nueva York: Midtown, Brooklyn o Upper West Side](/es/blog/donde-alojarse-nueva-york)
+- [Dónde alojarse en San Francisco: Union Square, Mission o Fisherman's Wharf](/es/blog/donde-alojarse-san-francisco/)
+- [Dónde alojarse en Las Vegas: El Strip, Downtown o Off-Strip](/es/blog/donde-alojarse-las-vegas/)
+- [Dónde alojarse en Nueva York: Midtown, Brooklyn o Upper West Side](/es/blog/donde-alojarse-nueva-york/)

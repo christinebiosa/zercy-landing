@@ -39,7 +39,7 @@ Direct booking is worth it in exactly three scenarios:
 
 **3. With longer stays (2+ weeks).** Most hotels give you a discount on direct request for 2+ week stays. 10-25 percent is standard. Booking.com doesn't offer that as standard.
 
-See our [boutique hotels guide](/en/blog/boutique-hotels) for the boutique variant.
+See our [boutique hotels guide](/en/blog/boutique-hotels/) for the boutique variant.
 
 ## When is Booking.com CLEARLY the better choice?
 
@@ -110,6 +110,6 @@ Risky. If the hotel goes bankrupt, scams or doesn't exist, your money is gone. S
 ---
 
 **Read more:**
-- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo)
-- [Boutique hotels: why they're better than chains](/en/blog/boutique-hotels)
-- [Rental consolidators: save up to 40 percent](/en/blog/rental-consolidators-save-money)
+- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo/)
+- [Boutique hotels: why they're better than chains](/en/blog/boutique-hotels/)
+- [Rental consolidators: save up to 40 percent](/en/blog/rental-consolidators-save-money/)

@@ -20,7 +20,7 @@ Die Buchung läuft privat zwischen dir und dem Host ab. Workaway überprüft die
 
 Typische Einsätze: Sprachunterricht für Kinder oder Erwachsene, Hostel-Rezeption und Reinigung, Mitarbeit auf Öko-Farmen, Schildkrötenschutz in Küstenregionen, Renovierungs- und Bauprojekte, Social-Media-Hilfe für kleine Unternehmen.
 
-Wenn du eine [Costa Rica Rundreise](/blog/costa-rica-rundreise-route) planst, findest du auf Workaway Hosts von der Karibikküste bis in den Dschungel, die Reisebegleitung und Freiwilligenarbeit kombinieren.
+Wenn du eine [Costa Rica Rundreise](/blog/costa-rica-rundreise-route/) planst, findest du auf Workaway Hosts von der Karibikküste bis in den Dschungel, die Reisebegleitung und Freiwilligenarbeit kombinieren.
 
 ## Was unterscheidet echte Freiwilligenarbeit von Voluntourismus-Tourismus?
 
@@ -46,19 +46,19 @@ Neben Workaway und WWOOF gibt es weitere Optionen, die unterschiedlich gut funkt
 
 **Volunteers World** und ähnliche NGO-Plattformen vermitteln strukturiertere Programme. Oft mit Programmgebühren von mehreren Hundert bis Tausend Dollar. Hier lohnt genaues Recherchieren, welche Organisation den Erlös wirklich investiert.
 
-Für Reisen durch Südostasien auf kleinem Budget ist Workaway besonders relevant. Kombiniert gut mit einem [Südostasien Budget Reisen](/blog/suedostasien-budget-reisen) Ansatz.
+Für Reisen durch Südostasien auf kleinem Budget ist Workaway besonders relevant. Kombiniert gut mit einem [Südostasien Budget Reisen](/blog/suedostasien-budget-reisen/) Ansatz.
 
 ## Was kostet Freiwilligenarbeit wirklich?
 
 Die Grundkosten sind niedrig. Workaway oder WWOOF-Mitgliedschaft: 20 bis 50 Dollar. Flug zum Zielort: dein größter Posten. Am Host selbst: keine Kosten, Unterkunft und Essen sind inklusive.
 
-Das klingt fast zu gut. Der Haken: Du musst ankommen. Flüge nach Costa Rica, Thailand, Peru oder Nepal kosten Geld. Und du brauchst eine Reiseversicherung, egal wie günstig das Programm ist. Was eine gute [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich) wirklich abdecken muss, ist nicht trivial.
+Das klingt fast zu gut. Der Haken: Du musst ankommen. Flüge nach Costa Rica, Thailand, Peru oder Nepal kosten Geld. Und du brauchst eine Reiseversicherung, egal wie günstig das Programm ist. Was eine gute [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) wirklich abdecken muss, ist nicht trivial.
 
 Zusätzliche Kosten: Transport zwischen Hosts, Visa-Gebühren (Nepal, Vietnam, Peru haben unterschiedliche Regelungen), Verpflegung an freien Tagen wenn du außerhalb des Programms isst.
 
 Realistische Gesamtkosten für drei Monate Freiwilligenarbeit in einem Entwicklungsland: Flug (400 bis 900 Euro), Visum (30 bis 100 Euro), Plattform-Mitgliedschaft (50 Euro), persönliche Ausgaben (100 bis 200 Euro/Monat). Deutlich weniger als eine klassische Backpackingreise.
 
-Wenn du noch in der Studienzeit bist und Kosten minimieren willst: [Reisen als Student Budget](/blog/reisen-als-student-budget) zeigt, wie das kombinierbar ist.
+Wenn du noch in der Studienzeit bist und Kosten minimieren willst: [Reisen als Student Budget](/blog/reisen-als-student-budget/) zeigt, wie das kombinierbar ist.
 
 ## Welche Destinationen eignen sich am besten?
 
@@ -74,7 +74,7 @@ Freiwilligenarbeit funktioniert nicht überall gleich gut. Der Kontext macht den
 
 **Nepal** hat nach dem Erdbeben 2015 viele Wiederaufbauprojekte entwickelt, die seriöse NGOs koordinieren. Weniger Workaway-typisch, mehr strukturierte Programme.
 
-Digitale Nomaden verbinden manchmal Workaway-Aufenthalte mit Arbeit aus dem Home Office. Welche Länder dafür Visa haben: [Digitaler Nomade werden Anfänger](/blog/digitaler-nomade-werden-anfaenger).
+Digitale Nomaden verbinden manchmal Workaway-Aufenthalte mit Arbeit aus dem Home Office. Welche Länder dafür Visa haben: [Digitaler Nomade werden Anfänger](/blog/digitaler-nomade-werden-anfaenger/).
 
 ## Ethische Überlegungen: Was wirklich hilft und was Schaden anrichtet
 
@@ -115,6 +115,6 @@ Schau auf das Profil-Alter und die Anzahl der Reviews. Hosts mit 20+ aktuellen B
 ---
 
 **Mehr lesen:**
-- [Costa Rica Rundreise Route: Planung und beste Strecken](/blog/costa-rica-rundreise-route)
-- [Digitaler Nomade werden: Guide für Anfänger](/blog/digitaler-nomade-werden-anfaenger)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Costa Rica Rundreise Route: Planung und beste Strecken](/blog/costa-rica-rundreise-route/)
+- [Digitaler Nomade werden: Guide für Anfänger](/blog/digitaler-nomade-werden-anfaenger/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

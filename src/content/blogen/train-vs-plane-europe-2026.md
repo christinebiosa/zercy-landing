@@ -62,7 +62,7 @@ Train impossible or with ferry 12+ hours.
 **4. If you can't tolerate sleeper trains:**
 - Night trains are super if you sleep well, but for many too uncomfortable for 8-12h trip.
 
-See our [night trains Europe guide](/en/blog/night-trains-europe-2026) for the night train variant.
+See our [night trains Europe guide](/en/blog/night-trains-europe-2026/) for the night train variant.
 
 ## How much CO2 does train travel really save?
 
@@ -150,6 +150,6 @@ Book saver fares 3-6 months ahead (DB Saver from $20, TGV Prem'Art from $28, Eur
 ---
 
 **Read more:**
-- [Night trains in Europe: complete guide 2026](/en/blog/night-trains-europe-2026)
-- [Train travel through Europe: 5 beautiful routes](/en/blog/train-travel-europe)
-- [Carbon offsets for flying: does it bring anything?](/en/blog/flight-carbon-offsets-truth)
+- [Night trains in Europe: complete guide 2026](/en/blog/night-trains-europe-2026/)
+- [Train travel through Europe: 5 beautiful routes](/en/blog/train-travel-europe/)
+- [Carbon offsets for flying: does it bring anything?](/en/blog/flight-carbon-offsets-truth/)

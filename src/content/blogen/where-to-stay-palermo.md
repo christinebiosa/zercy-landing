@@ -77,6 +77,6 @@ Palermo is one of the few European cities where Arab, Norman, Byzantine, and Bar
 
 ## Read more
 
-- [Where to Stay in Rome](/en/blog/where-to-stay-rome)
-- [Where to Stay in Bologna](/en/blog/where-to-stay-bologna)
-- [Where to Stay in Marseille](/en/blog/where-to-stay-marseille)
+- [Where to Stay in Rome](/en/blog/where-to-stay-rome/)
+- [Where to Stay in Bologna](/en/blog/where-to-stay-bologna/)
+- [Where to Stay in Marseille](/en/blog/where-to-stay-marseille/)

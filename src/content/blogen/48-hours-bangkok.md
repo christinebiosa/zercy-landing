@@ -27,7 +27,7 @@ Afternoon: **Chinatown (Yaowarat Road)**. By tuk-tuk or MRT (Hua Lamphong statio
 
 Evening: **Rooftop bar**. Lebua at State Tower is famous as the filming location for "The Hangover Part II." The Sirocco rooftop is spectacular. There's a minimum spend, and a cocktail runs 600 to 900 baht. Not a budget move. But worth it once. Alternative: **Octave Rooftop Lounge** at the Marriott Sukhumvit, 45th floor, less famous, similar views, slightly cheaper. After that: Silom nightlife, or a bowl of noodle soup from a street stall at midnight. Both are very Bangkok.
 
-For accommodation recommendations by neighborhood, check out [Where to Stay in Bangkok](/en/blog/where-to-stay-bangkok).
+For accommodation recommendations by neighborhood, check out [Where to Stay in Bangkok](/en/blog/where-to-stay-bangkok/).
 
 ## What makes Day 2 in Bangkok stand out?
 
@@ -45,7 +45,7 @@ Bangkok is cheaper than you think. Street food costs 50 to 120 baht (1.50 to 3.5
 
 The MRT (subway) and BTS Skytrain are the backbone of public transport. Together they cover large parts of the city. A ride costs 16 to 44 baht depending on distance. Pick up a Rabbit Card or tourist pass to save time and a little money.
 
-Budget estimate for 48 hours excluding flights and accommodation: 60 to 120 euros per person. Add a rooftop bar and a museum visit and you're looking at 150 euros. For broader Southeast Asia budget tips, see [Southeast Asia Budget Travel](/en/blog/southeast-asia-budget-travel).
+Budget estimate for 48 hours excluding flights and accommodation: 60 to 120 euros per person. Add a rooftop bar and a museum visit and you're looking at 150 euros. For broader Southeast Asia budget tips, see [Southeast Asia Budget Travel](/en/blog/southeast-asia-budget-travel/).
 
 ## Which evening is worth more: Nana Plaza or Asiatique?
 
@@ -80,6 +80,6 @@ Thai Baht (THB). Credit cards are accepted in larger restaurants, hotels, and ma
 ---
 
 **Read more:**
-- [Where to Stay in Bangkok: Best Neighborhoods 2026](/en/blog/where-to-stay-bangkok)
-- [Thailand 2-Week Route: The Complete Road Trip](/en/blog/thailand-2-week-route)
-- [Southeast Asia on a Budget: How It Actually Works](/en/blog/southeast-asia-budget-travel)
+- [Where to Stay in Bangkok: Best Neighborhoods 2026](/en/blog/where-to-stay-bangkok/)
+- [Thailand 2-Week Route: The Complete Road Trip](/en/blog/thailand-2-week-route/)
+- [Southeast Asia on a Budget: How It Actually Works](/en/blog/southeast-asia-budget-travel/)

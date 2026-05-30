@@ -44,7 +44,7 @@ A realistic daily budget for 14 days runs 50 to 90 euros per person, including a
 
 The visa is straightforward for most European passport holders: an e-visa through the official [Vietnam National Administration of Tourism](https://www.vietnamtourism.gov.vn) portal. A 90-day single-entry visa costs around 25 US dollars. Apply at least five working days before departure.
 
-For accommodation ideas across the route, our [boutique hotels guide](/en/blog/boutique-hotels) covers smaller properties worth seeking out. If you want to extend your trip into the wider region, the [Costa Rica road trip route guide](/en/blog/costa-rica-road-trip-route) is a useful comparison for planning another immersive long-haul itinerary. And for booking your flights at the best price, check our [cheap flights tips](/en/blog/cheap-flights-tips).
+For accommodation ideas across the route, our [boutique hotels guide](/en/blog/boutique-hotels/) covers smaller properties worth seeking out. If you want to extend your trip into the wider region, the [Costa Rica road trip route guide](/en/blog/costa-rica-road-trip-route/) is a useful comparison for planning another immersive long-haul itinerary. And for booking your flights at the best price, check our [cheap flights tips](/en/blog/cheap-flights-tips/).
 
 Save your picks in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything ready when booking.
 
@@ -71,6 +71,6 @@ Many smaller businesses, street food vendors, and transport providers only accep
 ---
 
 **Read more:**
-- [Cheap Flights Tips: How to Find Better Prices](/en/blog/cheap-flights-tips)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Boutique Hotels: The Better Alternative to Chain Hotels](/en/blog/boutique-hotels)
+- [Cheap Flights Tips: How to Find Better Prices](/en/blog/cheap-flights-tips/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Boutique Hotels: The Better Alternative to Chain Hotels](/en/blog/boutique-hotels/)

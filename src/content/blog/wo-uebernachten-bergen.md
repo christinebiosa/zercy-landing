@@ -57,7 +57,7 @@ Bergen ist berühmt für seinen Regen. Das ist kein Gerücht: die Stadt ist eine
 
 Das [Visit Norway Tourismusbüro](https://www.visitnorway.com) hat umfassende Fjord-Tour-Informationen und aktuelle Wetterberichte für Bergen.
 
-Wer nach Bergen kommt, plant fast immer auch den [Skandinavien-Roadtrip](/blog/skandinavien-rundreise-route) mit. Flåm-Bahn und Sognefjord sind 2-3 Stunden entfernt.
+Wer nach Bergen kommt, plant fast immer auch den [Skandinavien-Roadtrip](/blog/skandinavien-rundreise-route/) mit. Flåm-Bahn und Sognefjord sind 2-3 Stunden entfernt.
 
 ## Sandviken: Das ruhige Nordöstliche
 
@@ -114,6 +114,6 @@ Fløibahn mit Aussichtsplattform (beste Aussicht auf Bergen), Bryggen Hanseviert
 ---
 
 ## Mehr lesen
-- [Skandinavien Rundreise: Die beste Route von Hamburg bis zum Nordkap](/blog/skandinavien-rundreise-route)
-- [Wo übernachten in Göteborg: Die besten Stadtteile](/blog/wo-uebernachten-goeteborg)
-- [Nordlichter 2026: Wo, Wann und Wie](/blog/nordlichter-2026-wo-wann-wie)
+- [Skandinavien Rundreise: Die beste Route von Hamburg bis zum Nordkap](/blog/skandinavien-rundreise-route/)
+- [Wo übernachten in Göteborg: Die besten Stadtteile](/blog/wo-uebernachten-goeteborg/)
+- [Nordlichter 2026: Wo, Wann und Wie](/blog/nordlichter-2026-wo-wann-wie/)

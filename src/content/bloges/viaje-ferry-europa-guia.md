@@ -18,7 +18,7 @@ Tiempo versus experiencia. Ese es el dilema central. Un vuelo de Barcelona a Ibi
 
 La otra ventaja es el equipaje. Sin límites de diez kilos, sin cargos extra por una segunda maleta. Los ferries aceptan bicicletas, motos y coches. Eso abre posibilidades que ningún vuelo de bajo coste puede igualar. En muchas rutas de las islas croatas directamente no existe una opción razonable de vuelo.
 
-Para quienes buscan viajar con menor impacto ambiental, el argumento es sólido. Los ferries emiten significativamente menos CO2 por pasajero que los vuelos de corta distancia. Nuestro [análisis sobre tren vs. avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026) muestra cuán grande es la diferencia en distancias cortas.
+Para quienes buscan viajar con menor impacto ambiental, el argumento es sólido. Los ferries emiten significativamente menos CO2 por pasajero que los vuelos de corta distancia. Nuestro [análisis sobre tren vs. avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026/) muestra cuán grande es la diferencia en distancias cortas.
 
 ## ¿Cuáles son las mejores rutas de ferry en Europa?
 
@@ -30,9 +30,9 @@ Las navieras griegas Minoan Lines y Anek Lines son operadores de referencia. Pue
 
 **Croacia: Split como base para las islas**
 
-Desde [Split](/es/blog/donde-alojarse-split) llegas a Hvar en 55 minutos en catamarán o en 2 horas en ferry convencional. Hay conexiones adicionales a Korčula, Vis y Brač. Los precios para viajeros a pie son muy asequibles: Hvar desde unos 5 euros. Con coche, bastante más. Viajar sin vehículo mantiene los costos bajos y te da acceso al horario completo.
+Desde [Split](/es/blog/donde-alojarse-split/) llegas a Hvar en 55 minutos en catamarán o en 2 horas en ferry convencional. Hay conexiones adicionales a Korčula, Vis y Brač. Los precios para viajeros a pie son muy asequibles: Hvar desde unos 5 euros. Con coche, bastante más. Viajar sin vehículo mantiene los costos bajos y te da acceso al horario completo.
 
-Jadrolinija es la naviera estatal croata y cubre casi todas las rutas. Se puede reservar a través de Ferryscanner o directamente en jadrolinija.hr. Lectura relacionada: nuestro artículo sobre [island hopping en Croacia](/es/blog/islas-croacia-island-hopping) tiene más ideas de rutas.
+Jadrolinija es la naviera estatal croata y cubre casi todas las rutas. Se puede reservar a través de Ferryscanner o directamente en jadrolinija.hr. Lectura relacionada: nuestro artículo sobre [island hopping en Croacia](/es/blog/islas-croacia-island-hopping/) tiene más ideas de rutas.
 
 **Baleares: Los ferries nocturnos como opción inteligente**
 
@@ -40,7 +40,7 @@ Barcelona a Palma de Mallorca: ferry nocturno de 8 horas desde unos 55 euros. Va
 
 **Europa del Norte: Estocolmo, Helsinki, Tallin**
 
-Los ferries entre Estocolmo y Helsinki (Silja Line, Viking Line) son básicamente pequeños cruceros, con restaurantes, bares, saunas y entretenimiento a bordo. El trayecto dura entre 15 y 17 horas. Especialmente interesante: Estocolmo a Tallin con una escala nocturna en Helsinki. Para una ruta circular por Escandinavia, esta opción ahorra mucho tiempo y dinero. Quien visite la región puede consultar también nuestra [comparativa de islas griegas](/es/blog/islas-griegas-comparativa) para entender la lógica del island hopping.
+Los ferries entre Estocolmo y Helsinki (Silja Line, Viking Line) son básicamente pequeños cruceros, con restaurantes, bares, saunas y entretenimiento a bordo. El trayecto dura entre 15 y 17 horas. Especialmente interesante: Estocolmo a Tallin con una escala nocturna en Helsinki. Para una ruta circular por Escandinavia, esta opción ahorra mucho tiempo y dinero. Quien visite la región puede consultar también nuestra [comparativa de islas griegas](/es/blog/islas-griegas-comparativa/) para entender la lógica del island hopping.
 
 **Adriático: Ancona a Split**
 
@@ -78,7 +78,7 @@ Reserva los camarotes con anticipación. En verano (julio y agosto) los ferries 
 
 **Europa del Norte:** Variable. Helsinki a Estocolmo en verano tiene bastante disponibilidad. Los camarotes mejor reservarlos con antelación de todas formas.
 
-Para rutas de island hopping y itinerarios más complejos, [Zercy](/es/blog/zercy-logbook-que-es) es un buen punto de partida: introduce tu destino y fechas, obtén precios de vuelos en tiempo real como base comparativa y evalúa ambas opciones en paralelo.
+Para rutas de island hopping y itinerarios más complejos, [Zercy](/es/blog/zercy-logbook-que-es/) es un buen punto de partida: introduce tu destino y fechas, obtén precios de vuelos en tiempo real como base comparativa y evalúa ambas opciones en paralelo.
 
 ---
 
@@ -106,6 +106,6 @@ Porque viajas y duermes al mismo tiempo. Un camarote en el ferry nocturno de Bar
 
 ## Más información
 
-- [Tren vs. avión en Europa 2026: cuándo gana cada opción](/es/blog/tren-vs-avion-europa-2026)
-- [Dónde alojarse en Split: los mejores barrios para cada viajero](/es/blog/donde-alojarse-split)
-- [Island hopping en Croacia: rutas, islas y consejos prácticos](/es/blog/islas-croacia-island-hopping)
+- [Tren vs. avión en Europa 2026: cuándo gana cada opción](/es/blog/tren-vs-avion-europa-2026/)
+- [Dónde alojarse en Split: los mejores barrios para cada viajero](/es/blog/donde-alojarse-split/)
+- [Island hopping en Croacia: rutas, islas y consejos prácticos](/es/blog/islas-croacia-island-hopping/)

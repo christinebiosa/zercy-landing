@@ -45,7 +45,7 @@ North of the CBD, no tourist traps. Brunswick Street is the main drag. Specialty
 
 **Top picks:** The Nunnery Boutique (converted historic building, strong character), Smith & Co Hotel Fitzroy (boutique, courtyard), Tyrian Serviced Apartments (ideal for stays of a week or more).
 
-For a Sydney comparison, our [Sydney neighborhood guide](/en/blog/where-to-stay-sydney) covers similar dynamics. Sydney runs about 15-20% more expensive at comparable quality.
+For a Sydney comparison, our [Sydney neighborhood guide](/en/blog/where-to-stay-sydney/) covers similar dynamics. Sydney runs about 15-20% more expensive at comparable quality.
 
 ## When Is the Best Time to Visit Melbourne?
 
@@ -61,7 +61,7 @@ March to May (Australian autumn) is the sweet spot: 18-25 degrees, no school hol
 
 **Top picks:** The Prince Hotel (iconic Melbourne boutique hotel, strong music and arts connection), Art Series Hotel Blackman (design hotel with rotating art), St Kilda Beach House (close to the promenade).
 
-If you are weighing hotels versus apartments, our [Airbnb vs. Hotel comparison](/en/blog/airbnb-vs-hotel-comparison) is worth a read. In St Kilda specifically, Airbnb apartments often undercut hotel prices by 30-40%.
+If you are weighing hotels versus apartments, our [Airbnb vs. Hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) is worth a read. In St Kilda specifically, Airbnb apartments often undercut hotel prices by 30-40%.
 
 ## Southbank: Culture on the River
 
@@ -83,7 +83,7 @@ North of the CBD, a few tram stops. Carlton is Melbourne's university district. 
 
 **Top picks:** Drummond Apartments Carlton (serviced apartments, excellent for weekly stays), Quest Carlton (apartment-hotel format), Melbourne Boutique Hostel Carlton (hostel option for solo travelers).
 
-For tips on keeping the whole Australia trip budget in check: our [cheap flights guide](/en/blog/cheap-flights-tips) covers long-haul booking strategy. If you are sorting out travel insurance before flying: our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026) breaks down what is and is not worth paying for.
+For tips on keeping the whole Australia trip budget in check: our [cheap flights guide](/en/blog/cheap-flights-tips/) covers long-haul booking strategy. If you are sorting out travel insurance before flying: our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) breaks down what is and is not worth paying for.
 
 ## Where Should You Book in the End?
 
@@ -121,6 +121,6 @@ Melbourne Airport (Tullamarine) is 23 km from the CBD. The Skybus runs directly 
 ---
 
 **Read more:**
-- [Where to Stay in Sydney: The 5 Neighborhoods](/en/blog/where-to-stay-sydney)
-- [Travel Insurance: What Is Actually Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Cheap Flights Tips: How to Book Long-Haul for Less](/en/blog/cheap-flights-tips)
+- [Where to Stay in Sydney: The 5 Neighborhoods](/en/blog/where-to-stay-sydney/)
+- [Travel Insurance: What Is Actually Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Cheap Flights Tips: How to Book Long-Haul for Less](/en/blog/cheap-flights-tips/)

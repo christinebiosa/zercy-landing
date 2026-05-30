@@ -57,7 +57,7 @@ Leidseplein and Rembrandtplein are the most lively squares in the city after dar
 
 ## Where should you stay for an Amsterdam weekend?
 
-Jordaan and Centrum are central but expensive. Hotels in De Pijp or Oud-West sit 20 to 30 minutes' walk from the main sights and cost noticeably less. Budget 100 to 200 euros per night for a solid mid-range option. [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) covers the full range with a neighborhood filter. For a detailed breakdown by district, our guide on [where to stay in Amsterdam](/en/blog/where-to-stay-amsterdam) covers all the tradeoffs.
+Jordaan and Centrum are central but expensive. Hotels in De Pijp or Oud-West sit 20 to 30 minutes' walk from the main sights and cost noticeably less. Budget 100 to 200 euros per night for a solid mid-range option. [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) covers the full range with a neighborhood filter. For a detailed breakdown by district, our guide on [where to stay in Amsterdam](/en/blog/where-to-stay-amsterdam/) covers all the tradeoffs.
 
 ## How much does a weekend in Amsterdam cost?
 
@@ -65,9 +65,9 @@ Rijksmuseum: 20 euros. Anne Frank House: 16 euros. GVB day ticket for all trams,
 
 ## When is Amsterdam at its best?
 
-April and May. The tulips are out, the Keukenhof (30 minutes by bus from the center) is open, and the city is not yet overwhelmed with summer crowds. June through August is beautiful but expensive and busy. Autumn is picturesque because of the leaves over the canals, though wet. If your dates are flexible, it is worth checking [when to book flights](/en/blog/when-to-book-flights) before you lock anything in.
+April and May. The tulips are out, the Keukenhof (30 minutes by bus from the center) is open, and the city is not yet overwhelmed with summer crowds. June through August is beautiful but expensive and busy. Autumn is picturesque because of the leaves over the canals, though wet. If your dates are flexible, it is worth checking [when to book flights](/en/blog/when-to-book-flights/) before you lock anything in.
 
-For the journey in: Amsterdam Schiphol is one of Europe's busiest hubs. Our [airport hacks](/en/blog/airport-hacks) cover how to move through it faster.
+For the journey in: Amsterdam Schiphol is one of Europe's busiest hubs. Our [airport hacks](/en/blog/airport-hacks/) cover how to move through it faster.
 
 Zercy finds the cheapest flight to Amsterdam and your hotel in one step. Save everything in the [Zercy Logbook](https://www.zercy.app/logbook) so you don't forget anything when booking.
 
@@ -81,7 +81,7 @@ During peak season (April through August, school holidays, public holidays) tick
 
 ### What neighborhoods are best for staying in Amsterdam?
 
-Jordaan is the most beloved but also the priciest. De Pijp is livelier, more affordable, and has the best restaurant density in the city. Oud-West is quieter and well connected. The full breakdown by budget and travel style is in our [where to stay in Amsterdam](/en/blog/where-to-stay-amsterdam) guide.
+Jordaan is the most beloved but also the priciest. De Pijp is livelier, more affordable, and has the best restaurant density in the city. Oud-West is quieter and well connected. The full breakdown by budget and travel style is in our [where to stay in Amsterdam](/en/blog/where-to-stay-amsterdam/) guide.
 
 ### What should you skip in Amsterdam?
 
@@ -94,6 +94,6 @@ The direct train from Schiphol Airport to Amsterdam Centraal runs every few minu
 ---
 
 **Read more:**
-- [Where to Stay in Amsterdam: Neighborhoods and Hotels by Budget](/en/blog/where-to-stay-amsterdam)
-- [Train vs. Plane in Europe 2026: Which Is Actually Worth It?](/en/blog/train-vs-plane-europe-2026)
-- [Airport Hacks: Get Through Any Airport Faster](/en/blog/airport-hacks)
+- [Where to Stay in Amsterdam: Neighborhoods and Hotels by Budget](/en/blog/where-to-stay-amsterdam/)
+- [Train vs. Plane in Europe 2026: Which Is Actually Worth It?](/en/blog/train-vs-plane-europe-2026/)
+- [Airport Hacks: Get Through Any Airport Faster](/en/blog/airport-hacks/)

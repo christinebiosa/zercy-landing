@@ -26,13 +26,13 @@ Außerdem ist Fernwandern erschwinglich. Viele Routen kosten 25-50 EUR pro Tag a
 
 Der bekannteste Pilgerweg der Welt. Durch Nordspanien zum Jakobsdom in Santiago de Compostela. Perfekte Infrastruktur: Herbergen (Albergues) alle 10-20 km, Essen für 10-15 EUR, der gelbe Pfeil führt dich nie in die Irre. Kein Zelt nötig, kein schwerer Rucksack. Die soziale Komponente: du triffst täglich Menschen aus aller Welt. Sehr gut geeignet für Erstlinge auf langen Routen.
 
-Kosten: 25-45 EUR pro Tag. Unser [Santiago de Compostela Guide](/blog/santiago-de-compostela) zeigt dir die letzten Etappen.
+Kosten: 25-45 EUR pro Tag. Unser [Santiago de Compostela Guide](/blog/santiago-de-compostela/) zeigt dir die letzten Etappen.
 
 ### 2. Torres del Paine W-Circuit (Chile/Patagonien)
 
 **Länge:** 100 km | **Dauer:** 4-5 Tage | **Schwierigkeit:** Mittel-Anspruchsvoll | **Beste Saison:** November-März
 
-Der compakteste Top-Trail der Welt. Die Granitürme des Torres del Paine sind ikonisch. Der W-Circuit führt durch Gletscherseen, über Hängebrücken, durch Wind der dir die Jacke aufbläst. Buchung der Hütten und Campsites: Monate im Voraus, weil Plätze limitiert sind. Eintrittsgebühr in den Nationalpark: rund 30 USD. Unser [Patagonien 3-Wochen-Guide](/blog/patagonien-3-wochen-route) zeigt, wie du den W-Circuit in eine größere Patagonien-Reise einbaust.
+Der compakteste Top-Trail der Welt. Die Granitürme des Torres del Paine sind ikonisch. Der W-Circuit führt durch Gletscherseen, über Hängebrücken, durch Wind der dir die Jacke aufbläst. Buchung der Hütten und Campsites: Monate im Voraus, weil Plätze limitiert sind. Eintrittsgebühr in den Nationalpark: rund 30 USD. Unser [Patagonien 3-Wochen-Guide](/blog/patagonien-3-wochen-route/) zeigt, wie du den W-Circuit in eine größere Patagonien-Reise einbaust.
 
 Kosten: 60-120 USD pro Tag (inkl. Hütten).
 
@@ -48,7 +48,7 @@ Kosten: 4.000-6.000 USD für einen Full-Thru-Hike (5 Monate).
 
 **Länge:** 43 km | **Dauer:** 4 Tage | **Schwierigkeit:** Mittel-Anspruchsvoll | **Beste Saison:** Mai-September
 
-Der kurze, berühmte Trail endet direkt am Sonnentor von Machu Picchu. Permit-Pflicht: nur 500 Permits täglich, oft Monate im Voraus ausgebucht. Buchung ausschließlich über lizenzierte Agenturen. Keine Selbst-Navigation erlaubt. Höhe: bis 4.215 m am Dead Woman's Pass, Akklimatisierung in Cusco vorher zwingend. Unser [Cusco und Machu Picchu Guide](/blog/wo-uebernachten-cusco) hilft dir bei der Basis-Planung.
+Der kurze, berühmte Trail endet direkt am Sonnentor von Machu Picchu. Permit-Pflicht: nur 500 Permits täglich, oft Monate im Voraus ausgebucht. Buchung ausschließlich über lizenzierte Agenturen. Keine Selbst-Navigation erlaubt. Höhe: bis 4.215 m am Dead Woman's Pass, Akklimatisierung in Cusco vorher zwingend. Unser [Cusco und Machu Picchu Guide](/blog/wo-uebernachten-cusco/) hilft dir bei der Basis-Planung.
 
 Kosten: 600-1.200 USD für die 4-Tages-Tour mit Agentur.
 
@@ -120,11 +120,11 @@ Für den Inca Trail mindestens 6 Monate im Voraus, für Torres del Paine W-Circu
 
 ### Wie gefährlich sind Fernwanderwege wirklich?
 
-Die meisten Gefahren sind vermeidbar. Höhenkrankheit beim EBC und Kilimanjaro durch zu schnelles Aufsteigen, Wetterumschwünge in Patagonien und auf dem TMB, Überhitzung auf langen Wüstenpassagen. Vorbereitung, richtige Ausrüstung und ein realistisches Tempo eliminieren die meisten Risiken. Eine gute [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich) mit Bergrettungs-Baustein ist bei Hochgebirgs-Trails Pflicht.
+Die meisten Gefahren sind vermeidbar. Höhenkrankheit beim EBC und Kilimanjaro durch zu schnelles Aufsteigen, Wetterumschwünge in Patagonien und auf dem TMB, Überhitzung auf langen Wüstenpassagen. Vorbereitung, richtige Ausrüstung und ein realistisches Tempo eliminieren die meisten Risiken. Eine gute [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) mit Bergrettungs-Baustein ist bei Hochgebirgs-Trails Pflicht.
 
 ---
 
 **Mehr lesen:**
-- [Patagonien 3 Wochen: Die optimale Route](/blog/patagonien-3-wochen-route)
-- [Island Reiseguide: Alles was du wissen musst](/blog/island-reiseguide)
-- [Reiseversicherung: Wann lohnt sie sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Patagonien 3 Wochen: Die optimale Route](/blog/patagonien-3-wochen-route/)
+- [Island Reiseguide: Alles was du wissen musst](/blog/island-reiseguide/)
+- [Reiseversicherung: Wann lohnt sie sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

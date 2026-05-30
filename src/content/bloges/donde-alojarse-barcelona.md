@@ -55,7 +55,7 @@ Buenos hoteles de 4 estrellas en el Eixample: de 120 a 220 euros.
 - **Hotel Omm** (diseño de referencia, Passeig de Gràcia, aprox. 220 €)
 - **Praktik Rambla** (bien ubicado, buena relación calidad-precio, aprox. 110 €)
 
-Para otras ciudades mediterráneas, consulta también [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa) y [dónde alojarse en Roma](/es/blog/donde-alojarse-roma).
+Para otras ciudades mediterráneas, consulta también [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa/) y [dónde alojarse en Roma](/es/blog/donde-alojarse-roma/).
 
 ## Gràcia: Para vivir Barcelona sin ser turista
 
@@ -100,6 +100,6 @@ El metro es la forma más eficiente. La T-Casual (10 viajes) cubre metro, bus y 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Lisboa: Alfama, Chiado o Príncipe Real](/es/blog/donde-alojarse-lisboa)
-- [Dónde alojarse en Roma: Centro histórico o Trastevere](/es/blog/donde-alojarse-roma)
-- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest)
+- [Dónde alojarse en Lisboa: Alfama, Chiado o Príncipe Real](/es/blog/donde-alojarse-lisboa/)
+- [Dónde alojarse en Roma: Centro histórico o Trastevere](/es/blog/donde-alojarse-roma/)
+- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest/)

@@ -19,7 +19,7 @@ Die Sakura-Saison ist der bekannteste Grund, im Frühling nach Japan zu reisen. 
 
 Die Blüte dauert nur sieben bis zehn Tage pro Standort. Danach fallen die Blüten. Das macht die genaue Reiseplanung zur Herausforderung: Wer zu früh kommt, sieht kahle Bäume. Wer zu spät kommt, grüne Blätter. Die Japan Meteorological Corporation veröffentlicht jährlich ab Januar [Blütenprognosen](https://sakura.weathermap.jp/) für alle Regionen.
 
-Die Reisepreise in dieser Zeit sind die höchsten des Jahres. Frühbucherrabatte von sechs bis acht Monaten im Voraus sind in der Sakura-Saison keine Übertreibung, sondern die Norm. Die [Japan 3-Wochen-Route](/blog/japan-3-wochen-route) erklärt, wie du Blütenzeiten regional kombinierst.
+Die Reisepreise in dieser Zeit sind die höchsten des Jahres. Frühbucherrabatte von sechs bis acht Monaten im Voraus sind in der Sakura-Saison keine Übertreibung, sondern die Norm. Die [Japan 3-Wochen-Route](/blog/japan-3-wochen-route/) erklärt, wie du Blütenzeiten regional kombinierst.
 
 ## Warum sollte man die Golden Week vermeiden?
 
@@ -27,7 +27,7 @@ Die Golden Week (Ende April bis Anfang Mai) ist Japans wichtigste Urlaubswoche. 
 
 Für internationale Touristen ist die Golden Week teuer und stressig. Es sei denn, das volle Erlebnis von Massen-Tourismus gehört zum Reiseziel. Wer Sakura sehen will, fährt lieber zwei Wochen früher und akzeptiert etwas mehr Unsicherheit bei der Blütenvorhersage.
 
-Ein [Japan Rail Pass](/blog/japan-rail-pass-2026-guide) in der Golden Week ist trotzdem nützlich, weil Shinkansen-Reservierungen in dieser Zeit schnell ausgebucht sind.
+Ein [Japan Rail Pass](/blog/japan-rail-pass-2026-guide/) in der Golden Week ist trotzdem nützlich, weil Shinkansen-Reservierungen in dieser Zeit schnell ausgebucht sind.
 
 ## Wann ist der Herbst die beste Reisezeit für Japan?
 
@@ -37,7 +37,7 @@ September bis November bringt die zweite große Saison: Koyo, die Laubfärbung. 
 
 **Oktober:** Das Typhon-Risiko sinkt. Angenehme Temperaturen (20-28°C), die Laubfärbung beginnt im Norden. Einer der besten Monate für Japan.
 
-**November:** Koyo-Spitze in Tokio und Kyoto, oft gegen Mitte bis Ende November. Kühl (15-22°C), aber trocken und sehr schön. Ein [Ryokan-Aufenthalt](/blog/japanisches-ryokan-guide) in dieser Zeit ist besonders atmosphärisch.
+**November:** Koyo-Spitze in Tokio und Kyoto, oft gegen Mitte bis Ende November. Kühl (15-22°C), aber trocken und sehr schön. Ein [Ryokan-Aufenthalt](/blog/japanisches-ryokan-guide/) in dieser Zeit ist besonders atmosphärisch.
 
 ## Welche Jahreszeit ist für Japan am günstigsten?
 
@@ -45,7 +45,7 @@ Sommer (Juli und August) und Winter (Dezember bis Februar) sind die günstigsten
 
 **Sommer:** Sehr heiß und feucht (35°C+), besonders in Tokio und Osaka. Aber die Matsuri-Saison (traditionelle Festivals) ist im Sommer. Bon Odori Festivals, Feuerwerk über den Flüssen, Biergärten auf Dächern. Wer Hitze aushält, erlebt Japan von einer anderen Seite. Hokkaido im Sommer ist dagegen angenehm kühl.
 
-**Winter:** Kalt in den Städten (5-15°C in Tokio), aber Hokkaido und die Japanischen Alpen bieten weltklasse Skigebiete. Die Tempel und Schreine in Kyoto und Nara sind in der Winternebensaison ruhig und günstig. [Japan abseits von Tokio](/blog/japan-jenseits-von-tokio) wird im Winter noch interessanter, weil weniger Touristen unterwegs sind.
+**Winter:** Kalt in den Städten (5-15°C in Tokio), aber Hokkaido und die Japanischen Alpen bieten weltklasse Skigebiete. Die Tempel und Schreine in Kyoto und Nara sind in der Winternebensaison ruhig und günstig. [Japan abseits von Tokio](/blog/japan-jenseits-von-tokio/) wird im Winter noch interessanter, weil weniger Touristen unterwegs sind.
 
 ---
 
@@ -71,6 +71,6 @@ Japan ist deutlich teurer als Südostasien, aber moderater als oft erwartet. Bud
 
 ## Mehr lesen
 
-- [Japan in 3 Wochen: Die beste Route](/blog/japan-3-wochen-route)
-- [Japan Rail Pass 2026: Wann er sich lohnt](/blog/japan-rail-pass-2026-guide)
-- [Japanisches Ryokan: Was du wissen musst](/blog/japanisches-ryokan-guide)
+- [Japan in 3 Wochen: Die beste Route](/blog/japan-3-wochen-route/)
+- [Japan Rail Pass 2026: Wann er sich lohnt](/blog/japan-rail-pass-2026-guide/)
+- [Japanisches Ryokan: Was du wissen musst](/blog/japanisches-ryokan-guide/)

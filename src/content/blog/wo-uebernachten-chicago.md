@@ -104,6 +104,6 @@ Lollapalooza ist jährlich Anfang August, 4 Tage, im Grant Park (direkt am Michi
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in New York: Manhattan oder Brooklyn?](/blog/wo-uebernachten-new-york)
-- [Wo übernachten in Miami: South Beach oder Wynwood?](/blog/wo-uebernachten-miami)
-- [Wo übernachten in New Orleans: French Quarter oder Garden District?](/blog/wo-uebernachten-new-orleans)
+- [Wo übernachten in New York: Manhattan oder Brooklyn?](/blog/wo-uebernachten-new-york/)
+- [Wo übernachten in Miami: South Beach oder Wynwood?](/blog/wo-uebernachten-miami/)
+- [Wo übernachten in New Orleans: French Quarter oder Garden District?](/blog/wo-uebernachten-new-orleans/)

@@ -24,7 +24,7 @@ America leads this category. Tipping in the US is not a gesture, it is part of t
 
 Canada largely follows the US model. 15-20% at restaurants, similar for taxis. Mexico has a strong tipping culture with 10-15% at sit-down restaurants. Street food and markets do not require tips. All-inclusive resorts often post suggested amounts at check-out.
 
-Check our guide on [cheap flights](/en/blog/cheap-flights-tips) before booking North America: with the right timing you can save more on the flight than you spend on tips.
+Check our guide on [cheap flights](/en/blog/cheap-flights-tips/) before booking North America: with the right timing you can save more on the flight than you spend on tips.
 
 ## Where Is Tipping Customary But Not Mandatory?
 
@@ -85,7 +85,7 @@ In Asia and Southern Europe, cash is almost always better. Card tips often get l
 
 A useful reference for country-specific tipping norms is [tipping.org](https://www.tipping.org), an international database with detailed rules by country.
 
-Before you travel, read our guide on [money abroad](/en/blog/cheap-flights-tips) for exchange rate strategies and avoiding foreign transaction fees.
+Before you travel, read our guide on [money abroad](/en/blog/cheap-flights-tips/) for exchange rate strategies and avoiding foreign transaction fees.
 
 ---
 
@@ -112,6 +112,6 @@ Local currency is almost always the better choice. In strongly tourist-facing re
 ---
 
 **Read more:**
-- [Cheap Flights: 12 Tips That Actually Work](/en/blog/cheap-flights-tips)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Carry-On Only: The Complete Packing System](/en/blog/carry-on-only)
+- [Cheap Flights: 12 Tips That Actually Work](/en/blog/cheap-flights-tips/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Carry-On Only: The Complete Packing System](/en/blog/carry-on-only/)

@@ -72,7 +72,7 @@ Independent consumer organisations like the UK's Which? or Germany's Stiftung Wa
 - Want repatriation cover
 - Travel in countries with weaker healthcare systems
 
-More in our guide [travel insurance: what's actually worth it](/en/blog/travel-insurance-worth-it-2026) and the [USA national parks guide](/en/blog/usa-national-parks-guide) (where US medical costs are particularly relevant).
+More in our guide [travel insurance: what's actually worth it](/en/blog/travel-insurance-worth-it-2026/) and the [USA national parks guide](/en/blog/usa-national-parks-guide/) (where US medical costs are particularly relevant).
 
 ---
 
@@ -98,5 +98,5 @@ Pre-existing conditions are the most critical point. Most policies cover acute e
 
 ## Read more
 
-- [Travel Insurance: What's Actually Worth Paying For](/en/blog/travel-insurance-worth-it-2026)
-- [USA National Parks Guide: Tips and Costs](/en/blog/usa-national-parks-guide)
+- [Travel Insurance: What's Actually Worth Paying For](/en/blog/travel-insurance-worth-it-2026/)
+- [USA National Parks Guide: Tips and Costs](/en/blog/usa-national-parks-guide/)

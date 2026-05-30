@@ -49,7 +49,7 @@ July and August are crowded and expensive. Hotels triple their prices, beaches a
 
 October and April work too, especially for city trips. Swimming isn't always possible anymore, but burrata tastes great year-round.
 
-If other underrated Italian destinations interest you, see our [Modena Ferrari Museum guide](/en/blog/modena-ferrari-museum).
+If other underrated Italian destinations interest you, see our [Modena Ferrari Museum guide](/en/blog/modena-ferrari-museum/).
 
 ## How do you actually get there?
 
@@ -59,9 +59,9 @@ Three routes work well.
 
 **Flight to Naples plus rental car.** Naples is well-connected, then about 4 hours drive to Bari. Worth it if you also want to see Naples and the Amalfi Coast.
 
-**Train from Northern Europe.** From Munich or Vienna night train to Milan, then high-speed rail to Bari. About 16 hours total, but exciting alternative for CO2-conscious travelers. See our [night train guide](/en/blog/night-trains-europe-2026).
+**Train from Northern Europe.** From Munich or Vienna night train to Milan, then high-speed rail to Bari. About 16 hours total, but exciting alternative for CO2-conscious travelers. See our [night train guide](/en/blog/night-trains-europe-2026/).
 
-Rental car is mandatory, public transit is weak outside major cities. See our [rental car checklist](/en/blog/rental-car-checklist) before booking. About $35 to $70 per day in Puglia.
+Rental car is mandatory, public transit is weak outside major cities. See our [rental car checklist](/en/blog/rental-car-checklist/) before booking. About $35 to $70 per day in Puglia.
 
 ---
 
@@ -88,6 +88,6 @@ Direct at a trabocco (wooden pier in the sea with restaurant) for fish, in famil
 ---
 
 **Read more:**
-- [Modena Ferrari Museum: Italy's day trip with tradition](/en/blog/modena-ferrari-museum)
-- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026)
-- [Rental car checklist: what to know before booking](/en/blog/rental-car-checklist)
+- [Modena Ferrari Museum: Italy's day trip with tradition](/en/blog/modena-ferrari-museum/)
+- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026/)
+- [Rental car checklist: what to know before booking](/en/blog/rental-car-checklist/)

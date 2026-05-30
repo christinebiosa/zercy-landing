@@ -102,7 +102,7 @@ Für Bangkok ist [Booking.com](https://www.booking.com) klar die beste Plattform
 
 Direktbuchung lohnt nur bei Top-Premium (Mandarin Oriental, Peninsula) für mögliche Upgrades und Lobby-Welcome-Drinks.
 
-Lies dazu auch unseren [Open-Jaw Tickets-Guide](/blog/open-jaw-tickets-reise-hack), Bangkok ist Top-Hub für Asien-Open-Jaw-Routen.
+Lies dazu auch unseren [Open-Jaw Tickets-Guide](/blog/open-jaw-tickets-reise-hack/), Bangkok ist Top-Hub für Asien-Open-Jaw-Routen.
 
 ---
 
@@ -129,6 +129,6 @@ Backpacker: 500-800 Euro pro Person inkl. Flug (Hostel Khao San, Street Food, BT
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
-- [Wo übernachten in Bali: Die besten Regionen](/blog/wo-uebernachten-bali)
-- [Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack)
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio/)
+- [Wo übernachten in Bali: Die besten Regionen](/blog/wo-uebernachten-bali/)
+- [Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack/)

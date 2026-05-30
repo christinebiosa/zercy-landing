@@ -65,9 +65,9 @@ Mallorca, Hochsaison, Mitteklasse-Hotel: 80 bis 130 Euro. Ibiza, Hochsaison, ver
 
 Flüge sind für beide ähnlich, weil beide auf Mallorca (PMI) und Ibiza (IBZ) gut angeflogen sind. PMI ist größer und hat mehr Direktverbindungen. Das beeinflusst den Preis zu Gunsten von Mallorca.
 
-Wer günstig fliegen will, findet auf dem Zercy-Blog die passenden Tipps: [Günstig fliegen: Was wirklich funktioniert](/blog/guenstig-fliegen-tipps). Für die Unterkunft in Palma gibt es einen eigenen Stadtführer: [Wo übernachten in Palma de Mallorca](/blog/wo-uebernachten-palma-de-mallorca).
+Wer günstig fliegen will, findet auf dem Zercy-Blog die passenden Tipps: [Günstig fliegen: Was wirklich funktioniert](/blog/guenstig-fliegen-tipps/). Für die Unterkunft in Palma gibt es einen eigenen Stadtführer: [Wo übernachten in Palma de Mallorca](/blog/wo-uebernachten-palma-de-mallorca/).
 
-Einen Überblick über die schönsten Strände, nicht nur auf Mallorca, gibt es hier: [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026).
+Einen Überblick über die schönsten Strände, nicht nur auf Mallorca, gibt es hier: [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026/).
 
 ---
 
@@ -91,6 +91,6 @@ Der Norden, besonders rund um Sóller und Deià, ist deutlich ruhiger und naturb
 
 ## Mehr lesen
 
-- [Wo übernachten in Palma de Mallorca](/blog/wo-uebernachten-palma-de-mallorca)
-- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026)
-- [Günstig fliegen: Was wirklich funktioniert](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in Palma de Mallorca](/blog/wo-uebernachten-palma-de-mallorca/)
+- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026/)
+- [Günstig fliegen: Was wirklich funktioniert](/blog/guenstig-fliegen-tipps/)

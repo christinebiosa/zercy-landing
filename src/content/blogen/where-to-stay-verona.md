@@ -77,6 +77,6 @@ The Arena di Verona, especially during opera season. The Piazza delle Erbe. The 
 
 ## Read more
 
-- [Where to Stay in Bologna](/en/blog/where-to-stay-bologna)
-- [Where to Stay in Rome](/en/blog/where-to-stay-rome)
-- [Where to Stay in Nice](/en/blog/where-to-stay-nice)
+- [Where to Stay in Bologna](/en/blog/where-to-stay-bologna/)
+- [Where to Stay in Rome](/en/blog/where-to-stay-rome/)
+- [Where to Stay in Nice](/en/blog/where-to-stay-nice/)

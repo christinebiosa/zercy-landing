@@ -104,7 +104,7 @@ If you're not tired: Madrid is just getting started now. Malasaña for indie bar
 
 **Luggage**: if you're only in for a day, you don't want to carry bags. **Bounce** or **Radical Storage** have depots in the old town, 5 to 7 euros per day.
 
-**Hotel for one night**: in the Sol or La Latina old-town areas. [Boutique hotels are plentiful](/en/blog/boutique-hotels). From 90 euros for 3-star, 150 to 250 euros for 4-star.
+**Hotel for one night**: in the Sol or La Latina old-town areas. [Boutique hotels are plentiful](/en/blog/boutique-hotels/). From 90 euros for 3-star, 150 to 250 euros for 4-star.
 
 **Getting around**: old town is walkable. Use the metro once for Retiro plus Prado. A 10-ride Metro/bus strip costs 12 euros and covers 10 single rides.
 
@@ -118,9 +118,9 @@ Alternative routes:
 
 ---
 
-Zercy finds flights to Madrid, the right hotel in the old-town neighborhood and helps you organize museum tickets and flamenco reservations. The [Zercy Logbook](/en/blog/zercy-logbook) stores everything in one place.
+Zercy finds flights to Madrid, the right hotel in the old-town neighborhood and helps you organize museum tickets and flamenco reservations. The [Zercy Logbook](/en/blog/zercy-logbook/) stores everything in one place.
 
-**Read more:** [Finding boutique hotels](/en/blog/boutique-hotels) · [7 airport hacks for relaxed travel](/en/blog/airport-hacks) · [Hidden gems of Europe](/en/blog/hidden-gems-europe)
+**Read more:** [Finding boutique hotels](/en/blog/boutique-hotels/) · [7 airport hacks for relaxed travel](/en/blog/airport-hacks/) · [Hidden gems of Europe](/en/blog/hidden-gems-europe/)
 
 ## Frequently Asked Questions
 

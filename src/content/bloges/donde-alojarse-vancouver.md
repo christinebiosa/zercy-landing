@@ -104,6 +104,6 @@ Stanley Park: 8,8 km de paseo marítimo (ciclismo, running), tótems, Second Bea
 ---
 
 **Leer más:**
-- [Dónde alojarse en Los Ángeles: Downtown o Santa Mónica?](/es/blog/donde-alojarse-los-angeles)
-- [Dónde alojarse en Miami: South Beach o Wynwood?](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Chicago: The Loop o River North?](/es/blog/donde-alojarse-chicago)
+- [Dónde alojarse en Los Ángeles: Downtown o Santa Mónica?](/es/blog/donde-alojarse-los-angeles/)
+- [Dónde alojarse en Miami: South Beach o Wynwood?](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Chicago: The Loop o River North?](/es/blog/donde-alojarse-chicago/)

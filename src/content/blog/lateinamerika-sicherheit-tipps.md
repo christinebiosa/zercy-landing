@@ -18,9 +18,9 @@ Die Unterschiede innerhalb der Region sind enorm. Es gibt Länder, die du ohne e
 
 **Sicher und empfehlenswert:**
 
-**Chile** ist das sicherste Land der Region. Niedrige Kriminalitätsrate, stabile politische Lage, gute Infrastruktur. Santiago ist eine der sichersten Großstädte Lateinamerikas. Für Patagonien und die Atacama brauchst du keine besondere Vorsicht, nur die üblichen Regeln für Fernreisen. Unser [Patagonien 3-Wochen-Route Guide](/blog/patagonien-3-wochen-route) zeigt dir, wie die Region sicher bereist werden kann.
+**Chile** ist das sicherste Land der Region. Niedrige Kriminalitätsrate, stabile politische Lage, gute Infrastruktur. Santiago ist eine der sichersten Großstädte Lateinamerikas. Für Patagonien und die Atacama brauchst du keine besondere Vorsicht, nur die üblichen Regeln für Fernreisen. Unser [Patagonien 3-Wochen-Route Guide](/blog/patagonien-3-wochen-route/) zeigt dir, wie die Region sicher bereist werden kann.
 
-**Costa Rica** ist der klassische Einstieg in Lateinamerika, und das aus gutem Grund. Keine Armee, stabile Demokratie, hoher Lebensstandard für die Region. Kleinkriminalität in San José gibt es, schwere Gewalt gegenüber Touristen ist selten. Unser [Costa Rica Rundreise Guide](/blog/costa-rica-rundreise-route) geht auf konkrete Sicherheitszonen ein.
+**Costa Rica** ist der klassische Einstieg in Lateinamerika, und das aus gutem Grund. Keine Armee, stabile Demokratie, hoher Lebensstandard für die Region. Kleinkriminalität in San José gibt es, schwere Gewalt gegenüber Touristen ist selten. Unser [Costa Rica Rundreise Guide](/blog/costa-rica-rundreise-route/) geht auf konkrete Sicherheitszonen ein.
 
 **Uruguay** ist oft vergessen, aber eines der sichersten Länder Südamerikas. Montevideo hat eine entspannte Atmosphäre. Touristen sind selten Ziel von Kriminalität.
 
@@ -48,7 +48,7 @@ Viele Tipps klingen gut, aber die folgenden haben echten Unterschied gemacht:
 
 **Nachts kein unbekanntes Viertel erkunden.** Das klingt banal, rettet aber viele Situationen. Wenn du nicht weißt, wie sicher eine Gegend ist: frag das Hostel oder Hotel. Die sind ehrlich. Das spart Probleme.
 
-Eine gute Reiseversicherung mit Notfallunterstützung gehört zu jedem Lateinamerika-Trip. Unser [Reiseversicherung Guide](/blog/reiseversicherung-was-lohnt-sich) zeigt dir, was eine gute Police leisten muss.
+Eine gute Reiseversicherung mit Notfallunterstützung gehört zu jedem Lateinamerika-Trip. Unser [Reiseversicherung Guide](/blog/reiseversicherung-was-lohnt-sich/) zeigt dir, was eine gute Police leisten muss.
 
 ## Was ist Express-Kidnapping und wie vermeidest du es?
 
@@ -81,7 +81,7 @@ Konkrete Beispiele:
 
 Die Faustregel gilt überall: Frag Locals. Guides, Hostel-Personal, Airbnb-Hosts. Sie wissen, was in ihrer Stadt gerade gilt. Kein Reiseführer ist so aktuell wie ein Gespräch.
 
-Für Vergleiche mit anderen Reiseregionen: unser [Südostasien Budget-Reisen Guide](/blog/suedostasien-budget-reisen) zeigt, wie sich die Sicherheitslage in anderen Weltregionen unterscheidet.
+Für Vergleiche mit anderen Reiseregionen: unser [Südostasien Budget-Reisen Guide](/blog/suedostasien-budget-reisen/) zeigt, wie sich die Sicherheitslage in anderen Weltregionen unterscheidet.
 
 ---
 
@@ -108,6 +108,6 @@ Das hängt stark vom Ziel ab. Für Patagonien sind November bis März ideal (Sü
 ---
 
 **Mehr lesen:**
-- [Costa Rica Rundreise: Route, Sicherheit und Tipps](/blog/costa-rica-rundreise-route)
-- [Patagonien 3 Wochen: Die komplette Route](/blog/patagonien-3-wochen-route)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Costa Rica Rundreise: Route, Sicherheit und Tipps](/blog/costa-rica-rundreise-route/)
+- [Patagonien 3 Wochen: Die komplette Route](/blog/patagonien-3-wochen-route/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

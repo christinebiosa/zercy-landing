@@ -23,11 +23,11 @@ Die Schweiz hat fünf Kategorien von Attraktionen. Einige sind weltberühmt und 
 
 **Matterhorn aus Zermatt:** Du musst es nicht besteigen. Du musst es sehen. Zermatt selbst ist autofrei, die Anfahrt per Zahnradbahn von Täsch. Das Matterhorn aus Richtung Riffelalp am frühen Morgen, wenn kein Dunst liegt und keine anderen Reisenden das Bild füllen, ist einer der stärksten Momente die die Schweiz zu bieten hat.
 
-**Luzern in unter 3 Stunden:** Kapellbrücke (14. Jahrhundert), Wasserturm, Löwendenkmal. Alles walkable vom Bahnhof. Luzern ist der beste Beweis für das Prinzip: Wenig Zeit, hohe Dichte an Eindrücken. Perfekter Tagesausflug von Zürich (50 Minuten Zug). Wer mindestens eine Nacht bleibt, findet die besten Stadtteile und Hotelempfehlungen in unserem [Luzern Hotelguide](/blog/wo-uebernachten-luzern).
+**Luzern in unter 3 Stunden:** Kapellbrücke (14. Jahrhundert), Wasserturm, Löwendenkmal. Alles walkable vom Bahnhof. Luzern ist der beste Beweis für das Prinzip: Wenig Zeit, hohe Dichte an Eindrücken. Perfekter Tagesausflug von Zürich (50 Minuten Zug). Wer mindestens eine Nacht bleibt, findet die besten Stadtteile und Hotelempfehlungen in unserem [Luzern Hotelguide](/blog/wo-uebernachten-luzern/).
 
 **Kategorie 2: Sehr gut, wenn Zeit übrig ist**
 
-**Interlaken:** Schöne Lage zwischen zwei Seen, guter Ausgangspunkt, selbst als Stadt nicht besonders. Der Wert liegt in den Ausflügen von hier: Jungfraujoch, Grindelwald, Mürren. Wer die Umgebung als Basis nutzen will, findet passende Unterkünfte in unserem [Interlaken Hotelguide](/blog/wo-uebernachten-interlaken).
+**Interlaken:** Schöne Lage zwischen zwei Seen, guter Ausgangspunkt, selbst als Stadt nicht besonders. Der Wert liegt in den Ausflügen von hier: Jungfraujoch, Grindelwald, Mürren. Wer die Umgebung als Basis nutzen will, findet passende Unterkünfte in unserem [Interlaken Hotelguide](/blog/wo-uebernachten-interlaken/).
 
 **Genf:** Älteste private Uhren-Ateliers, UN-Hauptquartier, Lac Léman. Eher ein urbanes als ein Natur-Erlebnis. Für Erstbesucher wichtiger als für Wiederholer.
 
@@ -63,13 +63,13 @@ Der Swiss Travel Pass gilt für Züge, Busse, Schiffe und viele Bergbahnen inklu
 
 **Wann er sich nicht lohnt:** Nur eine Stadt als Basis, wenige Ausflüge, Konzentration auf eine Region.
 
-Für Mietwagen-Reisende in der Schweiz lohnt der [Mietwagen-Kostencheck](/blog/mietwagen-check) ein genauer Blick, da Schweiz-Tarife gut sein können wenn man von Deutschland einreist.
+Für Mietwagen-Reisende in der Schweiz lohnt der [Mietwagen-Kostencheck](/blog/mietwagen-check/) ein genauer Blick, da Schweiz-Tarife gut sein können wenn man von Deutschland einreist.
 
 ## Wann ist die beste Reisezeit für die Schweiz?
 
 **Sommer (Juni bis September):** Die klassische Saison. Bergbahnen in Betrieb, Wanderwege offen, Temperaturen angenehm. Juli und August sind am teuersten und vollsten. Juni und September sind besser.
 
-**Winter (Dezember bis März):** Skiurlaub. Die großen Skigebiete (Zermatt, Verbier, St. Moritz, Davos) sind Weltklasse. Aber teurer als die meisten anderen europäischen Skiregionen. Für Skifahren im [Skiurlaub Europa Guide](/blog/skiurlaub-europa-beste-orte) findest du den Vergleich der besten Optionen.
+**Winter (Dezember bis März):** Skiurlaub. Die großen Skigebiete (Zermatt, Verbier, St. Moritz, Davos) sind Weltklasse. Aber teurer als die meisten anderen europäischen Skiregionen. Für Skifahren im [Skiurlaub Europa Guide](/blog/skiurlaub-europa-beste-orte/) findest du den Vergleich der besten Optionen.
 
 **Frühling (April/Mai) und Herbst (Oktober/November):** Günstigste Zeiten. Viele Bergbahnen noch/schon geschlossen. Für Stadtbesuche (Zürich, Basel, Genf, Bern) gut geeignet.
 
@@ -112,6 +112,6 @@ Zermatt hat seit 1930 ein Fahrverbot für normale Autos, um die Bergluft und das
 ---
 
 **Mehr lesen:**
-- [Skiurlaub Europa: Die besten Skigebiete im Vergleich](/blog/skiurlaub-europa-beste-orte)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
-- [Mietwagen Kosten und Checkliste](/blog/mietwagen-check)
+- [Skiurlaub Europa: Die besten Skigebiete im Vergleich](/blog/skiurlaub-europa-beste-orte/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)
+- [Mietwagen Kosten und Checkliste](/blog/mietwagen-check/)

@@ -34,7 +34,7 @@ Wichtig beim Abschluss: Viele Policen haben eine Altersgrenze. Manche enden bei 
 
 Empfehlenswert: Eine Jahres-Reisekrankenversicherung für Senioren, wenn du mehrmals im Jahr verreist. Deutlich günstiger als Einzelpolicen. Der ADAC und Stiftung Warentest testen diese regelmäßig — lohnt sich, die aktuellen Testergebnisse kurz zu checken.
 
-Mehr dazu: [Reiseversicherung — was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+Mehr dazu: [Reiseversicherung — was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
 
 ## Komfort ist kein Luxus — es ist kluge Planung
 
@@ -46,7 +46,7 @@ Bei Langstreckenflügen lohnt sich Business Class zumindest als Überlegung. Wer
 
 Mietwagen statt ÖPNV ist ein weiteres Thema. Nicht überall, aber in manchen Regionen (Kanaren, Südportugal, ländliches Spanien) ist ein Auto die komfortablere und oft günstigere Lösung als Busse oder Taxis.
 
-Für barrierefreies Reisen — Thema für viele, die bestimmte körperliche Einschränkungen haben oder einfach komfortabler reisen wollen — gibt es mittlerweile sehr gute Ressourcen: [Barrierefreies Reisen: der komplette Guide](/blog/barrierefreies-reisen-guide)
+Für barrierefreies Reisen — Thema für viele, die bestimmte körperliche Einschränkungen haben oder einfach komfortabler reisen wollen — gibt es mittlerweile sehr gute Ressourcen: [Barrierefreies Reisen: der komplette Guide](/blog/barrierefreies-reisen-guide/)
 
 ## Wohin reisen? Die besten Ziele für 60+
 
@@ -58,7 +58,7 @@ Nicht jedes Ziel passt gleich gut. Hier sind Orte, die 60+ Reisende besonders of
 
 **Kreuzfahrten** sind für 60+ eine eigene Kategorie. Einmal einsteigen, alles inklusive, jeden Morgen ein neuer Hafen. Kein Kofferpacken für jedes Hotel, keine Transfers buchen, keine Fragen, wo man isst. Gerade für Menschen, die zum ersten Mal alleine reisen, oder für Paare, die einfach entspannen wollen, oft die beste Wahl.
 
-Alles zur Kreuzfahrt für Einsteiger: [Kreuzfahrt-Einsteiger-Guide](/blog/kreuzfahrt-einsteiger-guide)
+Alles zur Kreuzfahrt für Einsteiger: [Kreuzfahrt-Einsteiger-Guide](/blog/kreuzfahrt-einsteiger-guide/)
 
 **Gruppenreisen für 60+** sind ebenfalls beliebt. Du bist nicht allein, alles ist organisiert, und du findest schnell Anschluss. Der Nachteil: Das Tempo und das Programm richten sich nach der Gruppe. Manchmal geht es schneller als du möchtest, manchmal langsamer. Und günstiger als Individualreisen sind Gruppenreisen oft nicht.
 
@@ -79,9 +79,9 @@ Die einzigen Dinge, die du wirklich brauchst: eine gute Reisekrankenversicherung
 ---
 
 **Mehr lesen:**
-- [Reiseversicherung — was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Barrierefreies Reisen: der komplette Guide](/blog/barrierefreies-reisen-guide)
-- [Kreuzfahrt-Einsteiger-Guide](/blog/kreuzfahrt-einsteiger-guide)
+- [Reiseversicherung — was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Barrierefreies Reisen: der komplette Guide](/blog/barrierefreies-reisen-guide/)
+- [Kreuzfahrt-Einsteiger-Guide](/blog/kreuzfahrt-einsteiger-guide/)
 
 ---
 

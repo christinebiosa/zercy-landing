@@ -40,7 +40,7 @@ Porque el inicio rara vez sale sin problemas. El primer coworking no te convence
 
 Con seis meses de ahorros puedes absorber estos golpes con calma. Con dos meses empezarás a ponerte nervioso en cuanto llegue el primer bache.
 
-Además, la vida nómada tiene costos ocultos. El alojamiento a corto plazo es más caro que a largo plazo. SIM cards, coworking, seguro de viaje ocasional. Se acumula rápido. Revisa también nuestra guía sobre [impuestos para workation 2026](/es/blog/workation-impuestos-2026), porque resolver la cuestión fiscal a tiempo es fundamental.
+Además, la vida nómada tiene costos ocultos. El alojamiento a corto plazo es más caro que a largo plazo. SIM cards, coworking, seguro de viaje ocasional. Se acumula rápido. Revisa también nuestra guía sobre [impuestos para workation 2026](/es/blog/workation-impuestos-2026/), porque resolver la cuestión fiscal a tiempo es fundamental.
 
 ## ¿Qué primer destino funciona realmente para principiantes?
 
@@ -50,7 +50,7 @@ Saltar a una zona horaria completamente diferente, otro alfabeto, otra cultura e
 
 **Portugal como entrada suave.** Lisboa y Oporto han construido comunidades activas de nómadas en los últimos años. Hay espacios de coworking en todos los rangos de precio, la zona horaria es compatible con Europa, y el inglés funciona sin fricción. El costo de vida es menor que en Alemania o Suiza.
 
-**Madeira Digital Nomad Village** es un programa concreto en Funchal que combina comunidad, coworking e infraestructura. Para principiantes es ideal porque inmediatamente conoces a otros nómadas en lugar de empezar solo. También echa un vistazo a nuestro artículo sobre [workation en Portugal y España 2026](/es/blog/workation-portugal-espana-2026) para tomar decisiones concretas de destino.
+**Madeira Digital Nomad Village** es un programa concreto en Funchal que combina comunidad, coworking e infraestructura. Para principiantes es ideal porque inmediatamente conoces a otros nómadas en lugar de empezar solo. También echa un vistazo a nuestro artículo sobre [workation en Portugal y España 2026](/es/blog/workation-portugal-espana-2026/) para tomar decisiones concretas de destino.
 
 Nomadlist.com es una herramienta de investigación útil: la plataforma evalúa ciudades por costo, calidad de internet, clima y factor comunidad. Un buen punto de partida para tu propia investigación.
 
@@ -71,9 +71,9 @@ El coworking cuesta típicamente entre 150 y 300 euros al mes. No es poco. Pero 
 Zercy te ayuda a planificar tu próxima etapa. Escribe tu destino y consulta conexiones y opciones de alojamiento directamente. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano cuando reserves.
 
 Leer más:
-- [Visa de nómada digital: Todos los países 2026](/es/blog/visa-nomada-digital-paises-2026)
-- [Workation e impuestos 2026](/es/blog/workation-impuestos-2026)
-- [Workation en Portugal y España 2026](/es/blog/workation-portugal-espana-2026)
+- [Visa de nómada digital: Todos los países 2026](/es/blog/visa-nomada-digital-paises-2026/)
+- [Workation e impuestos 2026](/es/blog/workation-impuestos-2026/)
+- [Workation en Portugal y España 2026](/es/blog/workation-portugal-espana-2026/)
 
 ## Preguntas frecuentes
 

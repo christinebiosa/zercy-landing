@@ -78,6 +78,6 @@ Los vuelos domésticos (Aerolíneas Argentinas, LATAM Argentina) son el estánda
 ---
 
 **Leer más:**
-- [Patagonia: ruta de 3 semanas](/es/blog/patagonia-3-semanas-ruta)
-- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Guía de viaje Colombia](/es/blog/guia-viaje-colombia)
+- [Patagonia: ruta de 3 semanas](/es/blog/patagonia-3-semanas-ruta/)
+- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Guía de viaje Colombia](/es/blog/guia-viaje-colombia/)

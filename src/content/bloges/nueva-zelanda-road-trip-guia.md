@@ -85,6 +85,6 @@ Los ciudadanos de la UE no necesitan visado tradicional, pero sí una NZeTA (New
 Con bastante antelación. El ferry entre Wellington y Picton (Interislander o Bluebridge) se llena semanas o meses antes en temporada alta. Lo mismo ocurre con las cabañas del DOC en el Milford Track u otros Great Walks. En cuanto tengas una ruta aproximada, asegura primero el ferry y los alojamientos clave.
 
 ## Más artículos
-- [Dónde alojarse en Rotorua: los mejores hoteles y lodges](/es/blog/donde-alojarse-rotorua)
-- [Road trip en autocaravana por EE.UU.: la guía completa](/es/blog/autocaravana-road-trip-usa)
-- [Seguro de viaje para viajes largos: lo que realmente importa](/es/blog/seguro-viaje-guia)
+- [Dónde alojarse en Rotorua: los mejores hoteles y lodges](/es/blog/donde-alojarse-rotorua/)
+- [Road trip en autocaravana por EE.UU.: la guía completa](/es/blog/autocaravana-road-trip-usa/)
+- [Seguro de viaje para viajes largos: lo que realmente importa](/es/blog/seguro-viaje-guia/)

@@ -24,7 +24,7 @@ El [programa Genius de Booking](https://www.booking.com/genius.html) es una de l
 
 La diferencia entre el Nivel 1 y el Nivel 2 es real. El Nivel 1 aplica a un conjunto limitado de hoteles. El Nivel 2 abre la mayoría de las propiedades participantes. El detalle importante: los descuentos Genius muchas veces no son visibles sin iniciar sesión. Busca siempre con tu cuenta activa.
 
-Para saber más sobre programas de fidelidad, consulta nuestro artículo sobre [Booking Genius: ¿vale la pena?](/es/blog/booking-genius-vale-la-pena).
+Para saber más sobre programas de fidelidad, consulta nuestro artículo sobre [Booking Genius: ¿vale la pena?](/es/blog/booking-genius-vale-la-pena/).
 
 ## ¿Cuándo reservar directamente es más barato que usar un portal?
 
@@ -34,7 +34,7 @@ La paridad de tarifas significa que los hoteles se comprometen contractualmente 
 
 Esto funciona especialmente bien con hoteles boutique independientes y propiedades familiares. Las grandes cadenas como Hilton o Marriott suelen tener garantías de mejor precio en sus webs. Vale la pena revisarlas directamente.
 
-Puedes ver una comparativa detallada en nuestro artículo sobre [reservar online o directamente en el hotel](/es/blog/reservar-online-o-directo).
+Puedes ver una comparativa detallada en nuestro artículo sobre [reservar online o directamente en el hotel](/es/blog/reservar-online-o-directo/).
 
 ## ¿Qué diferencia hay entre tarifa reembolsable y no reembolsable?
 
@@ -52,7 +52,7 @@ Las dos plataformas no siempre muestran el mismo precio. Negocian condiciones di
 
 Compara siempre las dos plataformas para la misma fecha y tipo de habitación. Tarda dos minutos y puede ahorrarte entre 20 y 40 euros. Usa una ventana de incógnito para que los precios en caché no interfieran.
 
-Para entender qué incluye cada categoría de alojamiento, revisa nuestra guía sobre [categorías de hotel explicadas](/es/blog/categorias-hotel-explicadas).
+Para entender qué incluye cada categoría de alojamiento, revisa nuestra guía sobre [categorías de hotel explicadas](/es/blog/categorias-hotel-explicadas/).
 
 ## ¿Cómo funcionan las ofertas de última hora en HotelTonight?
 
@@ -80,7 +80,7 @@ Segunda: upgrades. El mejor momento para pedir un upgrade es justo antes de la l
 
 Sé específico: "¿Queda alguna habitación en un piso más alto o con mejor vista para esta noche?" Un tono amable y directo funciona mejor que la adulación.
 
-Para más opciones de alojamiento, consulta nuestra comparativa de [Airbnb vs. hotel: ¿cuál conviene más?](/es/blog/airbnb-vs-hotel-comparacion).
+Para más opciones de alojamiento, consulta nuestra comparativa de [Airbnb vs. hotel: ¿cuál conviene más?](/es/blog/airbnb-vs-hotel-comparacion/).
 
 ---
 
@@ -108,6 +108,6 @@ Pregunta al hacer el check-in, con amabilidad y concreción. "¿Queda alguna hab
 
 ## Más información
 
-- [Reservar online o directamente: cuándo cada opción gana](/es/blog/reservar-online-o-directo)
-- [Categorías de hotel explicadas: qué significan realmente las estrellas](/es/blog/categorias-hotel-explicadas)
-- [Airbnb vs. hotel: ¿qué conviene más según el tipo de viajero?](/es/blog/airbnb-vs-hotel-comparacion)
+- [Reservar online o directamente: cuándo cada opción gana](/es/blog/reservar-online-o-directo/)
+- [Categorías de hotel explicadas: qué significan realmente las estrellas](/es/blog/categorias-hotel-explicadas/)
+- [Airbnb vs. hotel: ¿qué conviene más según el tipo de viajero?](/es/blog/airbnb-vs-hotel-comparacion/)

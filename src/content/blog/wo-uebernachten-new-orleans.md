@@ -45,7 +45,7 @@ New Orleans' touristisches Zentrum und ältester Stadtteil (gegründet 1718). Bo
 
 **Top-Picks:** Henry Howard Hotel (Boutique in restaurierter 1867-Villa), The Pontchartrain Hotel (klassisch premium seit 1927), Maison de la Luz (5-Sterne-Boutique).
 
-Lies dazu auch unseren [Stopover-Tourismus-Guide](/blog/stopover-tourismus-guide), New Orleans ist ein perfekter Layover-Stop.
+Lies dazu auch unseren [Stopover-Tourismus-Guide](/blog/stopover-tourismus-guide/), New Orleans ist ein perfekter Layover-Stop.
 
 ## Wann ist die beste Reisezeit für New Orleans?
 
@@ -119,6 +119,6 @@ Backpacker: 1.000-1.500 Euro pro Person inkl. Flug (Hostel in Marigny, Po-Boys, 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Miami: Die 5 Stadtteile](/blog/wo-uebernachten-miami)
-- [Wo übernachten in Los Angeles: Die 5 Stadtteile](/blog/wo-uebernachten-los-angeles)
-- [Stopover-Tourismus: Wie du Layovers in Mini-Reisen verwandelst](/blog/stopover-tourismus-guide)
+- [Wo übernachten in Miami: Die 5 Stadtteile](/blog/wo-uebernachten-miami/)
+- [Wo übernachten in Los Angeles: Die 5 Stadtteile](/blog/wo-uebernachten-los-angeles/)
+- [Stopover-Tourismus: Wie du Layovers in Mini-Reisen verwandelst](/blog/stopover-tourismus-guide/)

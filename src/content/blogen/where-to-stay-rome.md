@@ -35,7 +35,7 @@ The historic center with Pantheon, Piazza Navona, Trevi Fountain, Spanish Steps,
 
 **Top picks:** J.K. Place Roma (5-star near Spanish Steps), Hotel de la Ville (premium with rooftop), Albergo del Senato (mid-range right at Pantheon). These and 3,000+ more Rome hotels are listed on [Booking.com](https://www.booking.com) with precise neighborhood filters and free cancellation.
 
-The official city tourism board [Turismo Roma](https://www.turismoroma.it/en) has a curated overview of licensed hotels by neighborhood. See our [48 hours in Rome guide](/en/blog/48-hours-rome) for the optimal route.
+The official city tourism board [Turismo Roma](https://www.turismoroma.it/en) has a curated overview of licensed hotels by neighborhood. See our [48 hours in Rome guide](/en/blog/48-hours-rome/) for the optimal route.
 
 ## Trastevere: The lively Rome
 
@@ -102,7 +102,7 @@ For Rome [Booking.com](https://www.booking.com) is clearly the best platform:
 
 Direct hotel booking only worth it for premium (Hassler, J.K. Place) for possible upgrades.
 
-See our [Puglia guide](/en/blog/puglia-southern-italy-guide) if you're planning Southern Italy as extension.
+See our [Puglia guide](/en/blog/puglia-southern-italy-guide/) if you're planning Southern Italy as extension.
 
 ---
 
@@ -129,6 +129,6 @@ Backpacker: $800-1,100 per person incl. flight (hostel, pizza al taglio). Mid-ra
 ---
 
 **Read more:**
-- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris)
-- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona)
-- [48 hours in Rome: the honest short-trip route](/en/blog/48-hours-rome)
+- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris/)
+- [Where to stay in Barcelona: 5 neighborhoods](/en/blog/where-to-stay-barcelona/)
+- [48 hours in Rome: the honest short-trip route](/en/blog/48-hours-rome/)

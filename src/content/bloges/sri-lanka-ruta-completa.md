@@ -69,6 +69,6 @@ El horario de apertura es de 7am a 5:30pm. Temprano en la mañana (desde las 7am
 
 ## Más artículos
 
-- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights)
-- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico)
-- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights/)
+- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico/)
+- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

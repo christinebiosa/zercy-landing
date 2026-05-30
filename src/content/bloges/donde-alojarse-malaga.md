@@ -49,7 +49,7 @@ La Malagueta está justo al este del centro histórico. La playa urbana mide uno
 
 **Opciones destacadas:** Hotel Vincci Málaga (acceso directo a la playa), AC Hotel Málaga Palacio (vistas panorámicas, céntrico), MS Maestranza Hotel (ubicación tranquila, buena relación calidad-precio).
 
-También te puede interesar nuestra guía de [dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires) y [dónde alojarse en Lima](/es/blog/donde-alojarse-lima) para comparar ciudades con buena escena de barrio.
+También te puede interesar nuestra guía de [dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) y [dónde alojarse en Lima](/es/blog/donde-alojarse-lima/) para comparar ciudades con buena escena de barrio.
 
 ## ¿Cuándo es la mejor época para visitar Málaga?
 
@@ -121,6 +121,6 @@ De noviembre a febrero son los meses más económicos, con una excepción import
 ---
 
 **Más información:**
-- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Lima: Guía por barrios](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Cartagena: Dónde quedarse](/es/blog/donde-alojarse-cartagena)
+- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Lima: Guía por barrios](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Cartagena: Dónde quedarse](/es/blog/donde-alojarse-cartagena/)

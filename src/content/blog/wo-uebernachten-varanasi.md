@@ -47,7 +47,7 @@ Oktober bis März ist ideal. Temperaturen zwischen 10 und 28 Grad, klares Wasser
 
 Assi Ghat liegt am südlichen Rand der Ghats-Zone. Weniger Pilgerstrom, mehr Cafés, Buchläden und Yogastudios. Die Banaras Hindu University, eine der größten Universitäten Asiens, ist in Fußnähe. Das Resultat: eine andere Energie. Intellektueller, entspannter, weniger kommerziell.
 
-Wer länger bleibt oder Yoga und Meditation sucht, ist hier richtig. Morgens gibt es auch hier eine kleinere Aarti-Zeremonie, aber ohne die Massenandrang des Dashashwamedh. Für alle, die [Indien](/blog/indien-reiseguide-highlights) als Langzeitdestination erkunden, ist Assi Ghat ein guter Anker.
+Wer länger bleibt oder Yoga und Meditation sucht, ist hier richtig. Morgens gibt es auch hier eine kleinere Aarti-Zeremonie, aber ohne die Massenandrang des Dashashwamedh. Für alle, die [Indien](/blog/indien-reiseguide-highlights/) als Langzeitdestination erkunden, ist Assi Ghat ein guter Anker.
 
 **Wer hier richtig liegt:** Langzeitreisende, Yoga-Suchende, Rucksackreisende, alle die etwas Abstand vom Trubel wollen ohne ihn aufzugeben.
 
@@ -61,7 +61,7 @@ Godaulia ist der wichtigste Knotenpunkt der Altstadt. Von hier aus gehen Gassen 
 
 Hotels in der Old City sind oft kleine Guesthouses, die in historischen Gebäuden stecken. Manche haben nur wenige Zimmer, manche haben Dachterrassen mit Blick über die Dächerkulisse. Wer morgens um 4 Uhr zum Ghat laufen will, ohne Transport zu brauchen, ist hier am besten aufgehoben.
 
-Lies vorher: [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich). Varanasi ist medizinisch weniger gut versorgt als Delhi oder Mumbai.
+Lies vorher: [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/). Varanasi ist medizinisch weniger gut versorgt als Delhi oder Mumbai.
 
 **Wer hier richtig liegt:** Abenteuerlustige, Fotografen, alle die Stadt-DNA wollen.
 
@@ -73,7 +73,7 @@ Lies vorher: [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicheru
 
 Das Cantonment wurde während der britischen Kolonialzeit angelegt. Breite Straßen, ein anderes Stadtbild. Der Bahnhof Varanasi Junction ist hier. Internationale Hotelketten haben hier ihre Adressen. Wer früh anreist oder spät abreist und einen guten Schlaf ohne Lärm braucht, ist hier richtig.
 
-Die Distanz zur Ghat-Zone beträgt 20-30 Minuten per Tuk-Tuk. Nicht ideal für Spontan-Morgenspaziergänge, aber für alle, die Varanasi methodisch erkunden und Unterkunft und Erlebnis klar trennen wollen. Wer von hier aus auch [Nepal](/blog/nepal-reiseguide-highlights) über Lumbini besuchen will, ist gut angebunden: Busverbindungen und Flüge starten nahe des Bahnhofs.
+Die Distanz zur Ghat-Zone beträgt 20-30 Minuten per Tuk-Tuk. Nicht ideal für Spontan-Morgenspaziergänge, aber für alle, die Varanasi methodisch erkunden und Unterkunft und Erlebnis klar trennen wollen. Wer von hier aus auch [Nepal](/blog/nepal-reiseguide-highlights/) über Lumbini besuchen will, ist gut angebunden: Busverbindungen und Flüge starten nahe des Bahnhofs.
 
 **Wer hier richtig liegt:** Geschäftsreisende, Familien mit kleinen Kindern, alle die zuverlässige Infrastruktur brauchen.
 
@@ -85,7 +85,7 @@ Die Distanz zur Ghat-Zone beträgt 20-30 Minuten per Tuk-Tuk. Nicht ideal für S
 
 10 Kilometer nördlich von Varanasi liegt einer der heiligsten Orte des Buddhismus. Hier predigte Buddha nach seiner Erleuchtung zum ersten Mal. Der Dhamek Stupa aus dem 5. Jahrhundert steht noch. Mehrere buddhistische Tempel verschiedener Nationen. Eine völlig andere Atmosphäre als Varanasi.
 
-Hotels in Sarnath sind kleiner, internationaler in der Kundschaft. Japanische, tibetische und sri-lankische Reisende kommen hierher. Wer beide Orte besuchen will, muss kein Taxi zweimal bezahlen. Einfach früh aufbrechen, Sarnath morgens, Ghats abends. Für Varanasi-Flüge lohnt es sich, die Preise [frühzeitig zu buchen](/blog/wann-fluege-buchen) besonders in der Hochsaison Oktober bis Februar.
+Hotels in Sarnath sind kleiner, internationaler in der Kundschaft. Japanische, tibetische und sri-lankische Reisende kommen hierher. Wer beide Orte besuchen will, muss kein Taxi zweimal bezahlen. Einfach früh aufbrechen, Sarnath morgens, Ghats abends. Für Varanasi-Flüge lohnt es sich, die Preise [frühzeitig zu buchen](/blog/wann-fluege-buchen/) besonders in der Hochsaison Oktober bis Februar.
 
 **Wer hier richtig liegt:** Buddhisten, spirituelle Reisende, alle die Ruhe suchen und Sarnath als Hauptziel haben.
 
@@ -131,6 +131,6 @@ Zwei Tage reichen für die wesentlichen Erlebnisse: Morgenfahrt auf dem Ganges, 
 ---
 
 **Mehr lesen:**
-- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights)
-- [Nepal Reiseguide: Highlights für deine Reise](/blog/nepal-reiseguide-highlights)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights/)
+- [Nepal Reiseguide: Highlights für deine Reise](/blog/nepal-reiseguide-highlights/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

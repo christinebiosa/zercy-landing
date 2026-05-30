@@ -52,7 +52,7 @@ Der Nachtzug von Budapest über Wien, Prag nach Berlin — ein Klassiker der wie
 
 Man spart eine Übernachtung (der Zug ist gleichzeitig Transportmittel und Hotel). Man verliert keine Zeit (man schläft, während man fährt). Und man wacht in einer anderen Stadt auf, die man vielleicht auf der Hinfahrt noch nicht kannte.
 
-Wer diese Route fährt, entdeckt unterwegs auch einige der [schönsten Geheimtipps Europas](/blog/geheimtipps-europa) — Städte wie Prag, die erst von der Zugfahrt aus ihre ganze Wirkung entfalten.
+Wer diese Route fährt, entdeckt unterwegs auch einige der [schönsten Geheimtipps Europas](/blog/geheimtipps-europa/) — Städte wie Prag, die erst von der Zugfahrt aus ihre ganze Wirkung entfalten.
 
 Die ÖBB Nightjets (österreichische Bahn) betreiben viele dieser Nachtverbindungen. Buchung unter nightjet.com oder oebb.at.
 
@@ -98,4 +98,4 @@ Für 3+ Strecken innerhalb eines Monats: oft ja. Für eine oder zwei Strecken: e
 
 Interrail: für EU-Bürger und Bürger mit festem Wohnsitz in einem Interrail-Teilnehmerland (inkl. Großbritannien, Türkei, einige andere). Eurail: für alle anderen (USA, Australien, etc.). Gleicher Pass, anderer Name — und das Heimatland ist ausgeschlossen.
 
-**Mehr lesen:** [Wo übernachten in Amsterdam: Hub für Eurostar & Thalys](/blog/wo-uebernachten-amsterdam) · [7 Geheimtipps in Europa](/blog/geheimtipps-europa) · [Boutique-Hotels: Warum kleine Hotels besser sind](/blog/boutique-hotels)
+**Mehr lesen:** [Wo übernachten in Amsterdam: Hub für Eurostar & Thalys](/blog/wo-uebernachten-amsterdam/) · [7 Geheimtipps in Europa](/blog/geheimtipps-europa/) · [Boutique-Hotels: Warum kleine Hotels besser sind](/blog/boutique-hotels/)

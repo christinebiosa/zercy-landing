@@ -39,7 +39,7 @@ Direktbuchung lohnt sich bei genau drei Szenarien:
 
 **3. Bei längeren Aufenthalten (2+ Wochen).** Die meisten Hotels geben dir bei Direkt-Anfrage einen Rabatt für 2+ Wochen-Aufenthalte. 10-25 Prozent ist üblich. Booking.com bietet das nicht standardmäßig.
 
-Lies dazu auch unseren [Boutique-Hotels-Guide](/blog/boutique-hotels) für die Mietwagen-Variante.
+Lies dazu auch unseren [Boutique-Hotels-Guide](/blog/boutique-hotels/) für die Mietwagen-Variante.
 
 ## Wann ist Booking.com KLAR die bessere Wahl?
 
@@ -110,6 +110,6 @@ Risikoreich. Wenn das Hotel pleite geht, betrügt oder nicht existiert, ist dein
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
-- [Boutique-Hotels: Warum sie besser sind als Ketten](/blog/boutique-hotels)
-- [Mietwagen-Consolidator: Bis zu 40 Prozent günstiger](/blog/mietwagen-consolidator-guenstiger-fahren)
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio/)
+- [Boutique-Hotels: Warum sie besser sind als Ketten](/blog/boutique-hotels/)
+- [Mietwagen-Consolidator: Bis zu 40 Prozent günstiger](/blog/mietwagen-consolidator-guenstiger-fahren/)

@@ -53,7 +53,7 @@ Plovdiv hat eines der angenehmsten Klimas Bulgariens. Frühling (April-Mai) ist 
 
 **Winter:** Kalt (0-5 Grad), einige Sehenswürdigkeiten eingeschränkt offen. Günstigste Zeit.
 
-Plovdiv eignet sich perfekt als Teil einer [Bulgarien-Reise](/blog/bulgarien-reiseguide-highlights). Die Schwarzmeerküste ist 2,5 Stunden entfernt.
+Plovdiv eignet sich perfekt als Teil einer [Bulgarien-Reise](/blog/bulgarien-reiseguide-highlights/). Die Schwarzmeerküste ist 2,5 Stunden entfernt.
 
 ## Stadtzentrum: Praktisch und gut angebunden
 
@@ -102,6 +102,6 @@ Das Antike Theater (eines der besterhaltenen der Welt, noch immer für Konzerte 
 ---
 
 ## Mehr lesen
-- [Bulgarien Reiseguide: Was man wirklich sehen muss](/blog/bulgarien-reiseguide-highlights)
-- [Wo übernachten in Bukarest: Die besten Viertel](/blog/wo-uebernachten-bukarest)
-- [Balkanroadtrip: Die beste Route von Slowenien nach Albanien](/blog/balkan-roadtrip-route)
+- [Bulgarien Reiseguide: Was man wirklich sehen muss](/blog/bulgarien-reiseguide-highlights/)
+- [Wo übernachten in Bukarest: Die besten Viertel](/blog/wo-uebernachten-bukarest/)
+- [Balkanroadtrip: Die beste Route von Slowenien nach Albanien](/blog/balkan-roadtrip-route/)

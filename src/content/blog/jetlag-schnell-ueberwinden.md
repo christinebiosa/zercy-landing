@@ -44,7 +44,7 @@ Tools wie Zercy berücksichtigen bei der Routenplanung mehr als nur Preis und Da
 
 Beispiel: Frankfurt nach Tokio direkt (12 Stunden, Ankunft 9 Uhr morgens) ist besser als ein Flug mit Zwischenstopp in Bangkok (15 Stunden, Ankunft mittags). Der Direktflug erlaubt dir, am Ankunftstag direkt in den lokalen Tagesrhythmus zu kommen.
 
-Wenn du KI-Tools für die Reiseplanung interessant findest, lies auch [Was ist Zercy?](/blog/was-ist-zercy) und [Wie KI die Reiseplanung verändert](/blog/ki-veraendert-reiseplanung).
+Wenn du KI-Tools für die Reiseplanung interessant findest, lies auch [Was ist Zercy?](/blog/was-ist-zercy/) und [Wie KI die Reiseplanung verändert](/blog/ki-veraendert-reiseplanung/).
 
 ## Welche Tricks sind eigentlich Mythen?
 
@@ -58,7 +58,7 @@ Im Flugzeug Schlafmasken plus Ohrstöpsel kombiniert mit Wein wirken kontraprodu
 
 Die [Bundeszentrale für gesundheitliche Aufklärung](https://www.bzga.de/) hat ähnliche Empfehlungen zu erholsamem Schlaf, die direkt auf Reisen anwendbar sind.
 
-Wenn du oft Langstrecke fliegst, lies auch unseren Artikel zu [Business Class: Wann lohnt sie sich wirklich?](/blog/business-class). Mit Liegesitz ist Jetlag deutlich besser zu überstehen.
+Wenn du oft Langstrecke fliegst, lies auch unseren Artikel zu [Business Class: Wann lohnt sie sich wirklich?](/blog/business-class/). Mit Liegesitz ist Jetlag deutlich besser zu überstehen.
 
 ---
 
@@ -85,6 +85,6 @@ Kinder profitieren besonders von strikten Routinen am Zielort: feste Mahlzeiten,
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Singapur: Die 5 Stadtteile](/blog/wo-uebernachten-singapur)
-- [Wo übernachten in Hongkong: Die 4 Stadtteile](/blog/wo-uebernachten-hongkong)
-- [Business Class: Wann lohnt sie sich wirklich?](/blog/business-class)
+- [Wo übernachten in Singapur: Die 5 Stadtteile](/blog/wo-uebernachten-singapur/)
+- [Wo übernachten in Hongkong: Die 4 Stadtteile](/blog/wo-uebernachten-hongkong/)
+- [Business Class: Wann lohnt sie sich wirklich?](/blog/business-class/)

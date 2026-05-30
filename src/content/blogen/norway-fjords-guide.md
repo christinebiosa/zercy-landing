@@ -43,7 +43,7 @@ Short answer: it depends on what you want.
 
 **July and August** are high season. Fullest hotels, highest prices, but guaranteed reasonable weather. Temperatures of 15 to 22 degrees Celsius in the fjord areas are typical. Geirangerfjord gets very busy in August.
 
-**Winter (November to March)** is for Northern Lights. In the fjord areas themselves, conditions are limited because many routes are closed. But combined with a trip to Tromsø or the Lofoten Islands, it's absolutely possible. Check our [Northern Lights Guide 2026](/en/blog/northern-lights-2026-where-when-how) for details.
+**Winter (November to March)** is for Northern Lights. In the fjord areas themselves, conditions are limited because many routes are closed. But combined with a trip to Tromsø or the Lofoten Islands, it's absolutely possible. Check our [Northern Lights Guide 2026](/en/blog/northern-lights-2026-where-when-how/) for details.
 
 The midnight sun in the fjord region runs from mid-June to late July. The sun doesn't really set. Daylight at midnight. Strange and stunning.
 
@@ -88,6 +88,6 @@ No visa required for EU and US citizens. Norway is not in the EU but is part of 
 ---
 
 **Read more:**
-- [Where to Stay in Tromsø: Best Neighborhoods and Hotels](/en/blog/where-to-stay-tromso)
-- [RV and Camper Road Trip USA: The Complete Guide](/en/blog/rv-camper-road-trip-usa)
-- [Northern Lights 2026: Where, When and How to See Them](/en/blog/northern-lights-2026-where-when-how)
+- [Where to Stay in Tromsø: Best Neighborhoods and Hotels](/en/blog/where-to-stay-tromso/)
+- [RV and Camper Road Trip USA: The Complete Guide](/en/blog/rv-camper-road-trip-usa/)
+- [Northern Lights 2026: Where, When and How to See Them](/en/blog/northern-lights-2026-where-when-how/)

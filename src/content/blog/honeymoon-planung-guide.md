@@ -86,6 +86,6 @@ Bali (exzellente Villas für 100-200 Euro/Nacht), Portugal (Alentejo, Douro-Tal)
 
 ## Mehr lesen
 
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Malediven Reiseguide 2026](/blog/australien-rundreise-route)
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Malediven Reiseguide 2026](/blog/australien-rundreise-route/)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)

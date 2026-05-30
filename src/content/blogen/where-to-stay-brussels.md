@@ -61,7 +61,7 @@ Right south of the city center, flat streets lined with Art Nouveau facades in t
 
 **Top picks:** Hotel Manos Premier (boutique in an Art Deco mansion), Le Berger Hotel (historic, centrally accessible), Pillows Grand Boutique Hotel Brussels.
 
-Check out our [Vienna neighborhood guide](/en/blog/where-to-stay-vienna) for more Art Nouveau architecture cities with similar pricing dynamics.
+Check out our [Vienna neighborhood guide](/en/blog/where-to-stay-vienna/) for more Art Nouveau architecture cities with similar pricing dynamics.
 
 ## Uccle: Quiet Brussels
 
@@ -94,7 +94,7 @@ For Brussels, [Booking.com](https://www.booking.com) is the strongest platform:
 
 Direct booking only makes sense at top-luxury properties (Amigo, Hotel Brussels) if upgrade treatment matters to you.
 
-Read our [Paris neighborhood guide](/en/blog/where-to-stay-paris) and [Amsterdam neighborhood guide](/en/blog/where-to-stay-amsterdam) for comparably layered European city-break destinations.
+Read our [Paris neighborhood guide](/en/blog/where-to-stay-paris/) and [Amsterdam neighborhood guide](/en/blog/where-to-stay-amsterdam/) for comparably layered European city-break destinations.
 
 ---
 
@@ -121,6 +121,6 @@ July and August are warm but crowded. September is the better call. EU summit we
 ---
 
 **Read more:**
-- [Where to Stay in Amsterdam: The 5 Neighborhoods](/en/blog/where-to-stay-amsterdam)
-- [Where to Stay in Paris: The 5 Neighborhoods](/en/blog/where-to-stay-paris)
-- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe)
+- [Where to Stay in Amsterdam: The 5 Neighborhoods](/en/blog/where-to-stay-amsterdam/)
+- [Where to Stay in Paris: The 5 Neighborhoods](/en/blog/where-to-stay-paris/)
+- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe/)

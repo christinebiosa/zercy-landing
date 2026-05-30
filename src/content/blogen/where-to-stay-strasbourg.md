@@ -71,7 +71,7 @@ Krutenau sits east of the Grande Île, directly on the Ill. Student bars, afford
 
 [Booking.com](https://www.booking.com) is the best option for Strasbourg. Price comparison is especially important here because of the extreme swings caused by European Parliament sessions. Check whether your stay coincides with a plenary week. If so, either book early or shift dates.
 
-For more French cities: [Where to stay in Paris](/en/blog/where-to-stay-paris). Also check our guide to [European cities in winter](/en/blog/european-cities-winter-tips) for seasonal context.
+For more French cities: [Where to stay in Paris](/en/blog/where-to-stay-paris/). Also check our guide to [European cities in winter](/en/blog/european-cities-winter-tips/) for seasonal context.
 
 ---
 
@@ -99,6 +99,6 @@ Winstub Zum Strissel near the Cathedral for Flammkuchen and Baeckeoffe. La Maiso
 
 ## Read more
 
-- [Where to stay in Paris: The 5 neighborhoods](/en/blog/where-to-stay-paris)
-- [European cities in winter: Best tips](/en/blog/european-cities-winter-tips)
-- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026)
+- [Where to stay in Paris: The 5 neighborhoods](/en/blog/where-to-stay-paris/)
+- [European cities in winter: Best tips](/en/blog/european-cities-winter-tips/)
+- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026/)

@@ -28,7 +28,7 @@ Drei Arten von Stopovers gibt es.
 
 Sechs Top-Stopover-Städte 2026.
 
-**Reykjavík (Icelandair).** Icelandair bietet kostenlosen Stopover bis zu 7 Tage zwischen Europa und Nordamerika. Du siehst Reykjavík plus Goldener Kreis ohne Aufpreis. Lies dazu unseren [Island-Reiseguide](/blog/island-reiseguide).
+**Reykjavík (Icelandair).** Icelandair bietet kostenlosen Stopover bis zu 7 Tage zwischen Europa und Nordamerika. Du siehst Reykjavík plus Goldener Kreis ohne Aufpreis. Lies dazu unseren [Island-Reiseguide](/blog/island-reiseguide/).
 
 **Singapur.** Mit Singapore Airlines: kostenloser Stopover bis 96 Stunden in Premium-Hotel inklusive. Plus Stadtführung kostenlos. Eines der besten Stopover-Programme weltweit.
 
@@ -36,7 +36,7 @@ Sechs Top-Stopover-Städte 2026.
 
 **Istanbul (Turkish Airlines).** "TourIstanbul": kostenlose Stadtführung mit Bus und Guide für Layover über 6 Stunden. Plus Hotel-Übernachtung für 35-50 Euro bei Stopover über 20 Stunden.
 
-**Lissabon (TAP Portugal).** Kostenloser Stopover bis 5 Tage zwischen Nordamerika und Europa. Lissabon plus Sintra plus Cascais ohne Aufpreis. Lies dazu auch unseren [Lissabon-Guide](/blog/lissabon-abseits-der-touristenpfade).
+**Lissabon (TAP Portugal).** Kostenloser Stopover bis 5 Tage zwischen Nordamerika und Europa. Lissabon plus Sintra plus Cascais ohne Aufpreis. Lies dazu auch unseren [Lissabon-Guide](/blog/lissabon-abseits-der-touristenpfade/).
 
 ## Wie buchst du Stopovers richtig?
 
@@ -48,7 +48,7 @@ Eine pragmatische 4-Schritt-Methode.
 
 **Schritt 3: Buche mindestens 24 Stunden Stopover.** Alles unter 12 Stunden ist Stress, alles unter 8 Stunden ist Flughafen-Sitzen. Idealerweise 36-72 Stunden für echtes Erlebnis.
 
-**Schritt 4: Visa vorab klären.** Manche Stopover-Länder geben Transit-Visa, andere nicht. Singapur 96 Stunden ohne Visa, Island und Helsinki für EU-Bürger visumsfrei. Schau dir auch unseren [Hidden City Ticketing-Guide](/blog/hidden-city-ticketing-erklaert) an für ähnliche Tricks.
+**Schritt 4: Visa vorab klären.** Manche Stopover-Länder geben Transit-Visa, andere nicht. Singapur 96 Stunden ohne Visa, Island und Helsinki für EU-Bürger visumsfrei. Schau dir auch unseren [Hidden City Ticketing-Guide](/blog/hidden-city-ticketing-erklaert/) an für ähnliche Tricks.
 
 ## Was kostet das wirklich?
 
@@ -60,7 +60,7 @@ Eine ehrliche Kostenrechnung im Vergleich.
 
 Differenz: 170 Euro für ein zusätzliches Reiseziel. Pro Tag in Singapur kostet dich der Trip 85 Euro extra. Schwer zu schlagen, wenn man es als Reise zählt.
 
-Wenn du die Sache mit Mietwagen kombinierst, lies unseren [Mietwagen-Check](/blog/mietwagen-check). In manchen Stopover-Städten ist Mietwagen nicht nötig (Singapur, Helsinki), in anderen sehr nützlich (Reykjavík, Island-Umgebung).
+Wenn du die Sache mit Mietwagen kombinierst, lies unseren [Mietwagen-Check](/blog/mietwagen-check/). In manchen Stopover-Städten ist Mietwagen nicht nötig (Singapur, Helsinki), in anderen sehr nützlich (Reykjavík, Island-Umgebung).
 
 Die [Skytrax-Bewertungen](https://www.worldairlineawards.com/) zu Airline-Stopover-Programmen geben einen guten Überblick über die wirklich besten Anbieter, jährlich aktualisiert.
 
@@ -89,6 +89,6 @@ Meistens 50 bis 200 Euro mehr als ein Direktflug. Plus Hotel und Mahlzeiten. Ins
 ---
 
 **Mehr lesen:**
-- [Hidden City Ticketing: So sparst du legal](/blog/hidden-city-ticketing-erklaert)
-- [Island Reiseguide: Die besten Routen und Stopps](/blog/island-reiseguide)
-- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade)
+- [Hidden City Ticketing: So sparst du legal](/blog/hidden-city-ticketing-erklaert/)
+- [Island Reiseguide: Die besten Routen und Stopps](/blog/island-reiseguide/)
+- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/)

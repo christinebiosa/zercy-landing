@@ -51,7 +51,7 @@ Mattancherry está directamente al lado de Fort Kochi y se puede llegar a pie. E
 
 Jew Town es turístico hoy, pero de manera agradable. Pequeñas tiendas con alfombras de Cachemira, viejas estatuas de bronce y tallas de madera de sándalo. Buenas tostadoras de café. Mucho más auténtico que la mayoría de los barrios turísticos de India.
 
-Si planeas un viaje más amplio por India, merece la pena leer nuestra [guía de viaje a India con los mejores highlights](/es/blog/india-guia-viaje-highlights) antes de definir tu ruta.
+Si planeas un viaje más amplio por India, merece la pena leer nuestra [guía de viaje a India con los mejores highlights](/es/blog/india-guia-viaje-highlights/) antes de definir tu ruta.
 
 **A quién le va bien:** Amantes de la historia, fotógrafos, quienes quieran ver el crisol judío-colonial de Kochi de cerca.
 
@@ -95,7 +95,7 @@ Cherai está 25 kilómetros al norte de Fort Kochi, en la isla Vypin. Playas amp
 
 Cherai es notablemente más tranquila que el centro de Kochi. Resorts y casas de huéspedes con vistas al agua, restaurantes locales de pescado y excursiones en barca de casa reservables directamente desde la playa. Si vas a Kerala a combinar playa y remansos, Cherai merece al menos dos noches.
 
-Si te gustan los mundos submarinos, nuestro artículo sobre los [mejores destinos de buceo y snorkel del mundo](/es/blog/buceo-snorkel-destinos-2026) vale mucho la pena. Las islas Lakshadweep frente a Kochi son uno de los secretos del buceo en India.
+Si te gustan los mundos submarinos, nuestro artículo sobre los [mejores destinos de buceo y snorkel del mundo](/es/blog/buceo-snorkel-destinos-2026/) vale mucho la pena. Las islas Lakshadweep frente a Kochi son uno de los secretos del buceo en India.
 
 **A quién le va bien:** Amantes de la playa, parejas, familias y quienes quieran el lado más relajado de Kerala.
 
@@ -138,6 +138,6 @@ El Aeropuerto Internacional de Cochin está en Nedumbassery, unos 35 kilómetros
 ---
 
 **Seguir leyendo:**
-- [Guía de viaje a India: Los mejores highlights](/es/blog/india-guia-viaje-highlights)
-- [Buceo y snorkel: Los mejores destinos del mundo](/es/blog/buceo-snorkel-destinos-2026)
-- [Seguro de viaje: ¿Vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
+- [Guía de viaje a India: Los mejores highlights](/es/blog/india-guia-viaje-highlights/)
+- [Buceo y snorkel: Los mejores destinos del mundo](/es/blog/buceo-snorkel-destinos-2026/)
+- [Seguro de viaje: ¿Vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)

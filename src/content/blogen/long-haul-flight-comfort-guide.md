@@ -22,7 +22,7 @@ Most people leave this decision to chance and regret it somewhere over the Atlan
 
 Before booking, always check [SeatGuru](https://www.seatguru.com). It maps every aircraft type for each airline and flags misaligned windows, limited recline, seats with missing overhead bin access, and high-traffic spots near lavatories. Five minutes of research, significantly less misery in the air.
 
-For more on whether extra legroom seats are worth the upgrade cost: [Extra Legroom Seat: When It's Actually Worth It](/en/blog/extra-legroom-seat-worth-it).
+For more on whether extra legroom seats are worth the upgrade cost: [Extra Legroom Seat: When It's Actually Worth It](/en/blog/extra-legroom-seat-worth-it/).
 
 ## What goes in your sleep kit?
 
@@ -68,7 +68,7 @@ In-flight Wi-Fi is expensive, slow, and unreliable. Netflix and Spotify both sup
 
 ### When should you set your watch to the destination timezone?
 
-The moment you board. Not after landing. Not at the connecting airport. Right when you sit down. Then behave accordingly: if it's nighttime at your destination, try to sleep. If it's daytime there, stay awake. This is the most effective and least disruptive method for minimizing jet lag. For more detail: [Jet Lag Fast Recovery: What Actually Works](/en/blog/jet-lag-fast-recovery).
+The moment you board. Not after landing. Not at the connecting airport. Right when you sit down. Then behave accordingly: if it's nighttime at your destination, try to sleep. If it's daytime there, stay awake. This is the most effective and least disruptive method for minimizing jet lag. For more detail: [Jet Lag Fast Recovery: What Actually Works](/en/blog/jet-lag-fast-recovery/).
 
 ### What clothing is best for a long flight?
 
@@ -77,9 +77,9 @@ Layers work better than a single thick item because cabin temperature fluctuates
 ---
 
 **Read more:**
-- [Jet Lag Fast Recovery: What Actually Works](/en/blog/jet-lag-fast-recovery)
-- [Business Class Without Miles: How to Upgrade](/en/blog/business-class-without-miles)
-- [Carry-On Only: The Complete Packing Guide](/en/blog/carry-on-only)
+- [Jet Lag Fast Recovery: What Actually Works](/en/blog/jet-lag-fast-recovery/)
+- [Business Class Without Miles: How to Upgrade](/en/blog/business-class-without-miles/)
+- [Carry-On Only: The Complete Packing Guide](/en/blog/carry-on-only/)
 
 ---
 

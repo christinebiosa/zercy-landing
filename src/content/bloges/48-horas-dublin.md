@@ -59,13 +59,13 @@ Guinness Storehouse. Veinticinco euros de entrada, largas filas, y al final te t
 
 Mayo y junio son los mejores meses. Templados, verdes, días largos. Septiembre y octubre son más tranquilos y también agradables. Invierno: barato, lluvioso, pero Dublín no sufre el mal tiempo como otras ciudades. El ambiente en los pubs a veces es mejor con lluvia que con sol.
 
-Los vuelos directos desde la mayoría de aeropuertos europeos existen, normalmente con Ryanair o Aer Lingus. Para sacar el máximo del aeropuerto, los [trucos de aeropuerto](/es/blog/trucos-aeropuerto) cubren los aspectos prácticos de Dublin Airport. Y si quieres construir un viaje más largo alrededor de este fin de semana, la [guía de ruta por Irlanda](/es/blog/irlanda-ruta-completa) explica qué agregar antes o después de Dublín.
+Los vuelos directos desde la mayoría de aeropuertos europeos existen, normalmente con Ryanair o Aer Lingus. Para sacar el máximo del aeropuerto, los [trucos de aeropuerto](/es/blog/trucos-aeropuerto/) cubren los aspectos prácticos de Dublin Airport. Y si quieres construir un viaje más largo alrededor de este fin de semana, la [guía de ruta por Irlanda](/es/blog/irlanda-ruta-completa/) explica qué agregar antes o después de Dublín.
 
 ## Dónde alojarse para un fin de semana en Dublín
 
 Las mejores zonas: Temple Bar para proximidad al ambiente nocturno, pero ruidoso. Ballsbridge y Ranelagh para opciones más tranquilas y algo más caras. Parnell Square y Mountjoy Square para precios más bajos al norte del Liffey.
 
-En [Booking.com](https://www.booking.com/searchresults.html?ss=Dublin) encuentras toda la oferta con filtro por barrio. Para una comparativa más detallada por zona, consulta nuestra guía de [dónde alojarse en Dublín](/es/blog/donde-alojarse-dublin).
+En [Booking.com](https://www.booking.com/searchresults.html?ss=Dublin) encuentras toda la oferta con filtro por barrio. Para una comparativa más detallada por zona, consulta nuestra guía de [dónde alojarse en Dublín](/es/blog/donde-alojarse-dublin/).
 
 La web oficial [Visit Dublin](https://www.visitdublin.com) tiene recomendaciones actualizadas y eventos en la ciudad.
 
@@ -96,6 +96,6 @@ Cuanto antes, mejor. En temporada alta (mayo a agosto) las entradas se agotan co
 ---
 
 **Más artículos:**
-- [Irlanda Ruta Completa: Highlights en 7 a 14 Días](/es/blog/irlanda-ruta-completa)
-- [Tren vs. Avión en Europa 2026: ¿Cuándo conviene cada opción?](/es/blog/tren-vs-avion-europa-2026)
-- [Trucos de Aeropuerto: Pasa más rápido por cualquier aeropuerto](/es/blog/trucos-aeropuerto)
+- [Irlanda Ruta Completa: Highlights en 7 a 14 Días](/es/blog/irlanda-ruta-completa/)
+- [Tren vs. Avión en Europa 2026: ¿Cuándo conviene cada opción?](/es/blog/tren-vs-avion-europa-2026/)
+- [Trucos de Aeropuerto: Pasa más rápido por cualquier aeropuerto](/es/blog/trucos-aeropuerto/)

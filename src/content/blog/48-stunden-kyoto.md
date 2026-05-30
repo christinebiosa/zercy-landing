@@ -17,7 +17,7 @@ Der entscheidende Faktor in Kyoto ist die Uhrzeit. Viele Highlights sehen morgen
 
 Starte früh. Sehr früh. Fushimi Inari Taisha, der Schrein mit den tausend leuchtend roten Torii-Toren, ist rund um die Uhr zugänglich und kostenlos. Um 6 Uhr bist du hier fast allein. Die Tore winden sich den Berg Inari hinauf, knapp vier Kilometer bis zum Gipfel. Geh mindestens bis zur Mitte hoch, etwa 45 Minuten. Die Aussicht über Kyoto von dort oben ist unspektakulär, aber die Stimmung auf dem Weg ist es nicht.
 
-Sei gegen 9 Uhr zurück unten und nimm die Keihan-Bahn nach Norden zum Nishiki Market. Der überdachte Markt ist Kyotos Küche in komprimierter Form. Fischpasteten, Misosuppe zum Mitnehmen, frisch gegrillte Reisbällchen, mariniertes Gemüse in hundert Varianten. Iss hier. Frühstück oder frühes Mittagessen, das ist egal. Mehr Details zur Planung deines Japan-Aufenthalts findest du in unserem [Japan 3-Wochen-Route Guide](/blog/japan-3-wochen-route).
+Sei gegen 9 Uhr zurück unten und nimm die Keihan-Bahn nach Norden zum Nishiki Market. Der überdachte Markt ist Kyotos Küche in komprimierter Form. Fischpasteten, Misosuppe zum Mitnehmen, frisch gegrillte Reisbällchen, mariniertes Gemüse in hundert Varianten. Iss hier. Frühstück oder frühes Mittagessen, das ist egal. Mehr Details zur Planung deines Japan-Aufenthalts findest du in unserem [Japan 3-Wochen-Route Guide](/blog/japan-3-wochen-route/).
 
 ## Wie planst du den Nachmittag in Gion am besten?
 
@@ -31,7 +31,7 @@ Den Abend verbringst du entlang der Gion Shijo Promenade am Kamo-Fluss. Im Somme
 
 Arashiyama im Nordwesten Kyotos ist das zweite große Kapitel deines Wochenendes. Nimm die Randen-Bahn oder den Bus, Fahrzeit etwa 30 Minuten vom Stadtzentrum. Sei um 8 Uhr dort.
 
-Das Bambuswäldchen ist in fünf Minuten durchquert. Es ist trotzdem unvergesslich. Die Halme reichen bis 20 Meter hoch, das Licht fällt anders als irgendwo sonst. Und morgens ist es ruhig genug, um das Rauschen des Windes in den Stämmen zu hören. Lies auch unseren direkten Vergleich der beiden Städte: [Osaka vs. Kyoto](/blog/osaka-vs-kyoto) zeigt, welche Stadt zu welchem Reisestil besser passt.
+Das Bambuswäldchen ist in fünf Minuten durchquert. Es ist trotzdem unvergesslich. Die Halme reichen bis 20 Meter hoch, das Licht fällt anders als irgendwo sonst. Und morgens ist es ruhig genug, um das Rauschen des Windes in den Stämmen zu hören. Lies auch unseren direkten Vergleich der beiden Städte: [Osaka vs. Kyoto](/blog/osaka-vs-kyoto/) zeigt, welche Stadt zu welchem Reisestil besser passt.
 
 Direkt daneben liegt der Tenryuji-Tempel. Der zugehörige Garten ist ein UNESCO-Welterbe und einer der schönsten in ganz Japan. Eintritt kostet 500 Yen für den Garten, 100 Yen mehr für das Tempelinnere. Der Teich im Zentrum spiegelt bei gutem Wetter die Berge dahinter. Gesamtbesuch 60 bis 90 Minuten.
 
@@ -43,7 +43,7 @@ Zurück in der Stadt: Nishiki Market nochmal für ein Mittagessen, danach Kawara
 
 Den Nachmittag schließt du mit Kinkakuji ab. Der Goldene Pavillon ist das meistfotografierte Gebäude Japans. Das weiß jeder, und trotzdem: Wenn du ihn das erste Mal siehst, bleibt der Mund auf. Drei Stockwerke mit Blattgold bedeckt, spiegelgleich im Teich davor. Eintrittspreis 500 Yen, die Schlangen sind nachmittags nach 14 Uhr kürzer als morgens. Plane 45 Minuten ein.
 
-Osaka liegt 30 bis 40 Minuten per Shinkansen oder Schnellzug entfernt und lässt sich gut als Tagesausflug oder Abendausflug aus Kyoto kombinieren. Dotonbori, Takoyaki, das quirlige Stadtleben. Ein kompletter Kontrast zu Kyotos Ruhe. Mehr dazu im [Osaka vs. Kyoto Vergleich](/blog/osaka-vs-kyoto). Übernachtungsempfehlungen für den Fall, dass du einen dritten Tag in der Region einplanst, findest du in unserem [Wo übernachten in Tokio Guide](/blog/wo-uebernachten-tokio) mit Hinweisen für die gesamte Kansai-Region.
+Osaka liegt 30 bis 40 Minuten per Shinkansen oder Schnellzug entfernt und lässt sich gut als Tagesausflug oder Abendausflug aus Kyoto kombinieren. Dotonbori, Takoyaki, das quirlige Stadtleben. Ein kompletter Kontrast zu Kyotos Ruhe. Mehr dazu im [Osaka vs. Kyoto Vergleich](/blog/osaka-vs-kyoto/). Übernachtungsempfehlungen für den Fall, dass du einen dritten Tag in der Region einplanst, findest du in unserem [Wo übernachten in Tokio Guide](/blog/wo-uebernachten-tokio/) mit Hinweisen für die gesamte Kansai-Region.
 
 Offizielle Reiseinformationen zu Kyoto, Öffnungszeiten und saisonalen Events findest du auf der Website von [Kyoto Tourism](https://kyoto.travel/en).
 
@@ -72,6 +72,6 @@ Beliebte Ryokan-Übernachtungen im Gion-Viertel sind schnell ausgebucht und soll
 ---
 
 **Mehr lesen:**
-- [Japan 3-Wochen-Route: Die komplette Rundreise](/blog/japan-3-wochen-route)
-- [Osaka vs. Kyoto: Welche Stadt passt zu dir?](/blog/osaka-vs-kyoto)
-- [Wo übernachten in Tokio: Stadtteile und Tipps](/blog/wo-uebernachten-tokio)
+- [Japan 3-Wochen-Route: Die komplette Rundreise](/blog/japan-3-wochen-route/)
+- [Osaka vs. Kyoto: Welche Stadt passt zu dir?](/blog/osaka-vs-kyoto/)
+- [Wo übernachten in Tokio: Stadtteile und Tipps](/blog/wo-uebernachten-tokio/)

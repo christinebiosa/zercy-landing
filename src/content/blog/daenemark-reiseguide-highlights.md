@@ -66,6 +66,6 @@ Das Noma (gegründet 2003 von René Redzepi) hat die nordische Küche weltweit b
 ---
 
 **Mehr lesen:**
-- [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route)
-- [Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route/)
+- [Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

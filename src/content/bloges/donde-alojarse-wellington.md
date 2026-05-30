@@ -93,11 +93,11 @@ Los peatones pagan desde 30-50 NZD por dirección. Con coche estándar: 100-200 
 
 ### ¿Qué atracciones hay en Wellington?
 
-Museo Te Papa (museo nacional, gratuito, 5+ horas), teleférico al Kelburn Hill (vistas de la ciudad), Jardín Botánico de Wellington (gratuito, justo arriba), Museum of City and Sea, Zealandia Eco-Sanctuary (proyecto único de fauna silvestre), Weta Workshop Unleashed (para fans de El Señor de los Anillos). La [guía de Auckland](/es/blog/donde-alojarse-auckland) da la visión general de toda la Isla Norte.
+Museo Te Papa (museo nacional, gratuito, 5+ horas), teleférico al Kelburn Hill (vistas de la ciudad), Jardín Botánico de Wellington (gratuito, justo arriba), Museum of City and Sea, Zealandia Eco-Sanctuary (proyecto único de fauna silvestre), Weta Workshop Unleashed (para fans de El Señor de los Anillos). La [guía de Auckland](/es/blog/donde-alojarse-auckland/) da la visión general de toda la Isla Norte.
 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Auckland: ¿Waterfront, ciudad o Parnell?](/es/blog/donde-alojarse-auckland)
-- [Dónde alojarse en Queenstown: ¿Aventura o naturaleza tranquila?](/es/blog/donde-alojarse-queenstown)
-- [Australia: Cómo combinarlo de forma óptima con Nueva Zelanda](/es/blog/australia-ruta-completa)
+- [Dónde alojarse en Auckland: ¿Waterfront, ciudad o Parnell?](/es/blog/donde-alojarse-auckland/)
+- [Dónde alojarse en Queenstown: ¿Aventura o naturaleza tranquila?](/es/blog/donde-alojarse-queenstown/)
+- [Australia: Cómo combinarlo de forma óptima con Nueva Zelanda](/es/blog/australia-ruta-completa/)

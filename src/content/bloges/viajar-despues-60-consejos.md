@@ -32,7 +32,7 @@ No hay una lista única porque depende de la movilidad, los intereses y el presu
 
 **Clima predecible.** Destinos donde puedes planificar con semanas de antelación sin preocuparte por el tiempo. El Mediterráneo en primavera o otoño. El norte de España de mayo a septiembre. Perú en temporada seca (mayo-octubre).
 
-Para ciudades como [París](/es/blog/donde-alojarse-paris) o [Barcelona](/es/blog/donde-alojarse-barcelona), el truco es alojarse bien ubicado para minimizar los desplazamientos. Un hotel o apartamento a 10 minutos caminando de los puntos de interés principales cambia completamente la experiencia.
+Para ciudades como [París](/es/blog/donde-alojarse-paris/) o [Barcelona](/es/blog/donde-alojarse-barcelona/), el truco es alojarse bien ubicado para minimizar los desplazamientos. Un hotel o apartamento a 10 minutos caminando de los puntos de interés principales cambia completamente la experiencia.
 
 ## ¿Cómo elegir el alojamiento correcto a los 60?
 
@@ -83,6 +83,6 @@ Temporada media o baja en destinos populares. Menos colas, menos masificación, 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Roma: Trastevere, Centro o Vaticano](/es/blog/donde-alojarse-roma)
-- [Dónde alojarse en París: el barrio correcto para cada viajero](/es/blog/donde-alojarse-paris)
-- [Consejos para vuelos de larga distancia con tranquilidad](/es/blog/vuelo-largo-con-ninos)
+- [Dónde alojarse en Roma: Trastevere, Centro o Vaticano](/es/blog/donde-alojarse-roma/)
+- [Dónde alojarse en París: el barrio correcto para cada viajero](/es/blog/donde-alojarse-paris/)
+- [Consejos para vuelos de larga distancia con tranquilidad](/es/blog/vuelo-largo-con-ninos/)

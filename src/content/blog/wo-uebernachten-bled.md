@@ -51,7 +51,7 @@ Bled ist ein Ganzjahresziel, aber mit klaren Peaks. Mai bis September ist Haupts
 
 **April und Oktober:** Ruhig, günstig, sehr atmosphärisch mit Herbstfarben oder Frühlingsblüte. Wenig Touristen.
 
-Wer nach Bled kommt, verbindet es oft mit [Slowenien als komplettem Reiseziel](/blog/slowenien-geheimnis-2026). Die Hauptstadt Ljubljana ist nur 55 km entfernt.
+Wer nach Bled kommt, verbindet es oft mit [Slowenien als komplettem Reiseziel](/blog/slowenien-geheimnis-2026/). Die Hauptstadt Ljubljana ist nur 55 km entfernt.
 
 ## Außerhalb von Bled: Günstig und entspannt
 
@@ -63,7 +63,7 @@ Ribno, Lesce, Bohinjska Bela: Dörfer 3-5 km von Bled, oft doppelt so günstige 
 
 **Top-Picks:** Apartments in Ribno, B&Bs in Lesce (Bahnhof Bled-Lesce), Bauernhof-Unterkünfte.
 
-Bled ist auch ideal als Stopp auf dem [Balkanroadtrip](/blog/balkan-roadtrip-route). Von hier sind Kroatien und Bosnien gut erreichbar.
+Bled ist auch ideal als Stopp auf dem [Balkanroadtrip](/blog/balkan-roadtrip-route/). Von hier sind Kroatien und Bosnien gut erreichbar.
 
 ## Wo solltest du am Ende buchen?
 
@@ -100,6 +100,6 @@ Pletna-Boot zur Seeinsel, Wunsch-Glocke läuten in der Kirche, Burg Bled mit Pan
 ---
 
 ## Mehr lesen
-- [Slowenien 2026: Das grüne Geheimnis Europas](/blog/slowenien-geheimnis-2026)
-- [Balkanroadtrip: Die beste Route von Slowenien nach Albanien](/blog/balkan-roadtrip-route)
-- [Wo übernachten in Zagreb: Die besten Stadtteile](/blog/wo-uebernachten-zagreb)
+- [Slowenien 2026: Das grüne Geheimnis Europas](/blog/slowenien-geheimnis-2026/)
+- [Balkanroadtrip: Die beste Route von Slowenien nach Albanien](/blog/balkan-roadtrip-route/)
+- [Wo übernachten in Zagreb: Die besten Stadtteile](/blog/wo-uebernachten-zagreb/)

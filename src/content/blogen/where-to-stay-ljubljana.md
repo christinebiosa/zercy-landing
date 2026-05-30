@@ -59,7 +59,7 @@ Winter in Ljubljana is authentic: Christmas market, mulled wine, ice skating nea
 
 Trnovo sits south of the Old Town, directly on the river. It is the neighborhood of students, artists, and slow-living types. Small bars hidden behind old facades. Bookshops, studios, vegetarian restaurants. The Trnovo church and bridge, designed by Jože Plečnik (Slovenia's answer to Manrique), are unmissable.
 
-Staying here means atmosphere. No tourist streams, no noise after midnight. Just the sound of the river. Still 15 minutes on foot to the Old Town. Hotels are few, but apartments and Airbnb options are plentiful. For anyone who wants to understand Ljubljana rather than just tick it off. The area pairs well with a side trip through [Slovenia's green landscapes](/en/blog/slovenia-green-secret-2026).
+Staying here means atmosphere. No tourist streams, no noise after midnight. Just the sound of the river. Still 15 minutes on foot to the Old Town. Hotels are few, but apartments and Airbnb options are plentiful. For anyone who wants to understand Ljubljana rather than just tick it off. The area pairs well with a side trip through [Slovenia's green landscapes](/en/blog/slovenia-green-secret-2026/).
 
 **Who fits here:** Creative travelers, solo visitors, culture seekers, anyone wanting the studenty Ljubljana experience.
 
@@ -90,7 +90,7 @@ The BTC City area is for business travelers. Europe's largest shopping center is
 
 Ljubljana is a small city. Most good hotels are in the Old Town or Center. For apartment stays, Trnovo has the most charming options. Booking direct only makes sense at the few luxury boutique properties when you want spa packages or special extras.
 
-For day trips from Ljubljana, see the [Slovenia travel guide](/en/blog/slovenia-green-secret-2026) and the [where to stay in Prague overview](/en/blog/where-to-stay-prague) for another Central European city comparison.
+For day trips from Ljubljana, see the [Slovenia travel guide](/en/blog/slovenia-green-secret-2026/) and the [where to stay in Prague overview](/en/blog/where-to-stay-prague/) for another Central European city comparison.
 
 ---
 
@@ -117,6 +117,6 @@ November, January, and February have the lowest hotel prices. The most expensive
 ---
 
 **Read more:**
-- [Slovenia: Europe's Green Secret 2026](/en/blog/slovenia-green-secret-2026)
-- [Where to Stay in Vienna](/en/blog/where-to-stay-vienna)
-- [Hidden Gems Europe: Underrated Cities](/en/blog/hidden-gems-europe)
+- [Slovenia: Europe's Green Secret 2026](/en/blog/slovenia-green-secret-2026/)
+- [Where to Stay in Vienna](/en/blog/where-to-stay-vienna/)
+- [Hidden Gems Europe: Underrated Cities](/en/blog/hidden-gems-europe/)

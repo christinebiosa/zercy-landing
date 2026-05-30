@@ -22,7 +22,7 @@ Diese Frage stellen sich die meisten zu spät, nämlich beim Check-in. Dabei ent
 
 Nutze immer [SeatGuru](https://www.seatguru.com) bevor du buchst. Die Seite zeigt dir für jedes Flugzeugmodell und jede Airline, welche Plätze eingeschränkte Beinfreiheit haben, welche Fensterplätze keine Ablage haben und wo die Servicewagen im Gang hängen bleiben. Ein paar Minuten Recherche, erheblich weniger Frust an Bord.
 
-Mehr zu Extra-Legroom-Plätzen und ob sie sich lohnen: [Extra Legroom Sitzplatz: Wann er sich wirklich rechnet](/blog/extra-legroom-sitzplatz-lohnt-sich).
+Mehr zu Extra-Legroom-Plätzen und ob sie sich lohnen: [Extra Legroom Sitzplatz: Wann er sich wirklich rechnet](/blog/extra-legroom-sitzplatz-lohnt-sich/).
 
 ## Was gehört in dein Schlaf-Kit?
 
@@ -77,9 +77,9 @@ Mehrere Schichten sind besser als ein dicker Pullover. Flugzeugkabinen wechseln 
 ---
 
 **Mehr zum Thema:**
-- [Jetlag schnell überwinden: Was wirklich hilft](/blog/jetlag-schnell-ueberwinden)
-- [Business Class ohne Meilen: So geht Upgrade](/blog/business-class-ohne-meilen)
-- [Nur Handgepäck: Der vollständige Packliste-Guide](/blog/nur-handgepaeck)
+- [Jetlag schnell überwinden: Was wirklich hilft](/blog/jetlag-schnell-ueberwinden/)
+- [Business Class ohne Meilen: So geht Upgrade](/blog/business-class-ohne-meilen/)
+- [Nur Handgepäck: Der vollständige Packliste-Guide](/blog/nur-handgepaeck/)
 
 ---
 

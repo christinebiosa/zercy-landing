@@ -62,7 +62,7 @@ The value for money at luxury hotels is exceptional: five-star hotels in Jaipur 
 
 **Visa:** Apply for an e-visa online (usually 30 days, multiple entry possible). Apply at least 72 hours before departure. Costs approximately €25–80 depending on your country.
 
-**Health:** Check travel vaccinations (Hepatitis A, Typhoid, possibly malaria prophylaxis for Goa/Kerala). Don't drink tap water — sealed bottles only. [Travel insurance](/en/blog/travel-insurance-worth-it-2026) with medical evacuation coverage is essential in India.
+**Health:** Check travel vaccinations (Hepatitis A, Typhoid, possibly malaria prophylaxis for Goa/Kerala). Don't drink tap water — sealed bottles only. [Travel insurance](/en/blog/travel-insurance-worth-it-2026/) with medical evacuation coverage is essential in India.
 
 **Tuk-tuk vs. taxi:** Ola and Uber work reliably in Indian cities with fixed prices — better than tuk-tuks for longer distances. Tuk-tuks for short bazaar trips: always agree on the price first.
 
@@ -85,6 +85,6 @@ Hepatitis A and Typhoid are recommended by most travel medicine specialists. Dep
 Entry fee for foreign visitors: ₹1,100 (approx. €13). Plus an optional buggy service from the car parks (another €2). Best experience: arrive at sunrise (first entry is about 30 minutes after sunrise). The Friday mosque is closed to non-Muslims.
 
 ## Read more
-- [Travel Insurance: What's Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
-- [East Africa Safari Guide](/en/blog/east-africa-safari-guide)
-- [Digital Nomad Visa Countries 2026](/en/blog/digital-nomad-visa-countries-2026)
+- [Travel Insurance: What's Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)
+- [East Africa Safari Guide](/en/blog/east-africa-safari-guide/)
+- [Digital Nomad Visa Countries 2026](/en/blog/digital-nomad-visa-countries-2026/)

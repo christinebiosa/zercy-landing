@@ -23,7 +23,7 @@ The onsen is central to the ryokan experience. Hot spring baths, often fed by vo
 
 The kaiseki dinner is the culinary highlight. A multi-course menu of seasonal ingredients, typically six to twelve courses. Grilled fish, tofu soup, braised meats, rice porridge to finish. The presentation is artistic. Food arrives in the room or is served in a dining area. Booking a ryokan just for the kaiseki is a perfectly valid reason.
 
-For more on planning your Japan trip, see the [Japan 3-Week Route Guide](/en/blog/japan-3-week-route) and the [Japan Budget Travel Tips Guide](/en/blog/japan-budget-travel-tips).
+For more on planning your Japan trip, see the [Japan 3-Week Route Guide](/en/blog/japan-3-week-route/) and the [Japan Budget Travel Tips Guide](/en/blog/japan-budget-travel-tips/).
 
 ## What does a ryokan night cost?
 
@@ -33,7 +33,7 @@ One important note: prices are almost always per person and typically include di
 
 Also included in most rates: onsen access, futon service, yukata, welcome tea, and sometimes evening sweets. Some properties charge a small onsen tax of ¥150 to ¥300, paid on-site.
 
-Budget ryokans without meals also exist, starting around ¥6,000 to ¥8,000 per person. A good option if you prefer eating out or want to explore the local food scene. More on that in the [48 Hours in Kyoto Guide](/en/blog/48-hours-kyoto).
+Budget ryokans without meals also exist, starting around ¥6,000 to ¥8,000 per person. A good option if you prefer eating out or want to explore the local food scene. More on that in the [48 Hours in Kyoto Guide](/en/blog/48-hours-kyoto/).
 
 ## What etiquette rules apply in a ryokan?
 
@@ -59,7 +59,7 @@ For wider selection and often better prices at local properties, [Jalan.net](htt
 
 A few practical booking notes: check whether the ryokan accepts foreign guests. Not all properties do, often due to language barriers. This is usually noted on the Booking.com listing. Book early, especially for Kyoto and Hakone during cherry blossom or autumn foliage season. The best properties sell out months in advance.
 
-Kyoto is the classic ryokan destination. Hakone, one hour from Tokyo, is another top choice. Nikko, Kinosaki Onsen, and Yufuin are less-visited alternatives. If you're planning a ryokan night as part of a longer trip, the [Where to Stay in Kyoto Guide](/en/blog/where-to-stay-kyoto) covers the accommodation options in the surrounding area.
+Kyoto is the classic ryokan destination. Hakone, one hour from Tokyo, is another top choice. Nikko, Kinosaki Onsen, and Yufuin are less-visited alternatives. If you're planning a ryokan night as part of a longer trip, the [Where to Stay in Kyoto Guide](/en/blog/where-to-stay-kyoto/) covers the accommodation options in the surrounding area.
 
 ---
 
@@ -87,6 +87,6 @@ Booking.com has the largest English-language selection with reviews. For local p
 
 ## Read more
 
-- [Where to Stay in Kyoto: Best Neighborhoods 2026](/en/blog/where-to-stay-kyoto)
-- [48 Hours in Kyoto: Your Perfect Weekend Guide](/en/blog/48-hours-kyoto)
-- [Japan Rail Pass 2026: Is It Still Worth It?](/en/blog/japan-rail-pass-2026)
+- [Where to Stay in Kyoto: Best Neighborhoods 2026](/en/blog/where-to-stay-kyoto/)
+- [48 Hours in Kyoto: Your Perfect Weekend Guide](/en/blog/48-hours-kyoto/)
+- [Japan Rail Pass 2026: Is It Still Worth It?](/en/blog/japan-rail-pass-2026/)

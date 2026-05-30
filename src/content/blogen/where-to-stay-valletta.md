@@ -66,7 +66,7 @@ Birgu, Senglea and Bormla — the Three Cities — sit directly across the Grand
 - **The Birgu Suite:** Luxury apartments inside historic houses. Genuinely unique setting.
 - **Various B&Bs in Birgu:** Small guesthouses from €60, ideal for those who want atmosphere without the Valletta crowds.
 
-Fans of off-the-beaten-path Europe will also enjoy our guide to [Europe's hidden gem cities](/en/blog/hidden-gems-europe).
+Fans of off-the-beaten-path Europe will also enjoy our guide to [Europe's hidden gem cities](/en/blog/hidden-gems-europe/).
 
 ## Where Should You Book in Malta?
 
@@ -99,6 +99,6 @@ Valletta is among the most historically dense cities in Europe. 320 monuments in
 ---
 
 **Read more:**
-- [Hidden Gems in Europe: The Underrated Cities](/en/blog/hidden-gems-europe)
-- [Where to Stay in Barcelona: 5 Neighborhoods Compared](/en/blog/where-to-stay-barcelona)
-- [Where to Stay in Rome: From Trastevere to Prati](/en/blog/where-to-stay-rome)
+- [Hidden Gems in Europe: The Underrated Cities](/en/blog/hidden-gems-europe/)
+- [Where to Stay in Barcelona: 5 Neighborhoods Compared](/en/blog/where-to-stay-barcelona/)
+- [Where to Stay in Rome: From Trastevere to Prati](/en/blog/where-to-stay-rome/)

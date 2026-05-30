@@ -41,7 +41,7 @@ Un road trip de 2 semanas por el sur de Europa podría quedar así:
 
 **Dejar flexible:** los alojamientos intermedios si la ruta es flexible. En temporada media, encontrar alojamiento el mismo día es posible en la mayoría de destinos con apps como Booking.com. El margen de improvisación es parte del atractivo del road trip.
 
-**Lo que siempre hay que reservar para el coche:** el alquiler con tiempo suficiente. Los coches sin límite de kilómetros en temporada alta se agotan. Compara consolidadores antes de reservar directamente con una empresa. Nuestra guía sobre [cómo ahorrar en alquiler de coche](/es/blog/consolidadores-alquiler-ahorrar) explica cómo funciona.
+**Lo que siempre hay que reservar para el coche:** el alquiler con tiempo suficiente. Los coches sin límite de kilómetros en temporada alta se agotan. Compara consolidadores antes de reservar directamente con una empresa. Nuestra guía sobre [cómo ahorrar en alquiler de coche](/es/blog/consolidadores-alquiler-ahorrar/) explica cómo funciona.
 
 ## ¿Qué aplicaciones son imprescindibles para un road trip?
 
@@ -55,7 +55,7 @@ Un road trip de 2 semanas por el sur de Europa podría quedar así:
 
 **Inshallah una buena playlist:** esto no es una app pero debería serlo.
 
-Para el checklist completo antes de recoger el coche, lee nuestra guía de [qué revisar al alquilar un coche](/es/blog/checklist-alquiler-coche).
+Para el checklist completo antes de recoger el coche, lee nuestra guía de [qué revisar al alquilar un coche](/es/blog/checklist-alquiler-coche/).
 
 Zercy puede ayudarte a organizar el alojamiento en cada etapa de tu road trip. Guarda los planes en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -82,6 +82,6 @@ Subestimar los tiempos de conducción (Google Maps no cuenta paradas ni cansanci
 ---
 
 **Más para leer:**
-- [Checklist completo para el alquiler de coche](/es/blog/checklist-alquiler-coche)
-- [Cómo ahorrar en alquiler de coche con consolidadores](/es/blog/consolidadores-alquiler-ahorrar)
-- [Costa Rica: la ruta completa en 2 semanas](/es/blog/costa-rica-ruta-completa)
+- [Checklist completo para el alquiler de coche](/es/blog/checklist-alquiler-coche/)
+- [Cómo ahorrar en alquiler de coche con consolidadores](/es/blog/consolidadores-alquiler-ahorrar/)
+- [Costa Rica: la ruta completa en 2 semanas](/es/blog/costa-rica-ruta-completa/)

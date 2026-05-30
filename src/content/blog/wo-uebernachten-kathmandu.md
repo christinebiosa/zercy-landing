@@ -69,7 +69,7 @@ Das Boudhanath Stupa ist eines der größten buddhistischen Stupas der Welt und 
 
 **Top-Picks:** Hotel Tibet International (Blick auf Stupa, tibetische Atmosphäre), Stupa View Boutique Hotel (kleine Dachterrasse mit Stupa-Blick), Padma Guest House (einfach, günstig, sehr nah am Stupa).
 
-Lies dazu auch: unser [Solo-Reisen für Frauen Guide](/blog/solo-reisen-frauen-sicher) enthält spezifische Sicherheitstipps für Nepal, das als eines der sichersten Solo-Reiseziele in Asien gilt.
+Lies dazu auch: unser [Solo-Reisen für Frauen Guide](/blog/solo-reisen-frauen-sicher/) enthält spezifische Sicherheitstipps für Nepal, das als eines der sichersten Solo-Reiseziele in Asien gilt.
 
 ## Bhaktapur: Die mittelalterliche Stadt
 
@@ -127,6 +127,6 @@ Für Nepal empfohlene Impfungen: Hepatitis A, Typhus, Tetanus-Diphtherie. Malari
 ---
 
 **Mehr lesen:**
-- [Solo Reisen als Frau: Die sichersten Länder](/blog/solo-reisen-frauen-sicher)
-- [Safari Ostafrika Guide: Planung und Kosten](/blog/safari-ostafrika-guide)
-- [Fernwanderwege weltweit: Die besten Routen](/blog/fernwanderwege-welt-top-routen)
+- [Solo Reisen als Frau: Die sichersten Länder](/blog/solo-reisen-frauen-sicher/)
+- [Safari Ostafrika Guide: Planung und Kosten](/blog/safari-ostafrika-guide/)
+- [Fernwanderwege weltweit: Die besten Routen](/blog/fernwanderwege-welt-top-routen/)

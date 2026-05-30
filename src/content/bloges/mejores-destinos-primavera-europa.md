@@ -21,7 +21,7 @@ Diciembre muestra lo que Europa puede en invierno. Julio muestra lo que Europa p
 
 **Keukenhof, Países Bajos (marzo–mayo):** 7 millones de tulipanes en 32 hectáreas. El jardín de flores más famoso del mundo, con razón. La [web oficial de Keukenhof](https://keukenhof.nl) tiene entradas y horarios. Ven entre semana antes de las 10 de la mañana para las mejores fotos sin multitudes.
 
-**Alentejo, Portugal (marzo–abril):** Prados silvestres llenos de amapolas y manzanilla. Portugal en primavera es tan tranquilo y tan asequible que cuesta creer que tan pocos lo sepan. Más en nuestra [guía de ruta por Portugal](/es/blog/portugal-ruta-completa).
+**Alentejo, Portugal (marzo–abril):** Prados silvestres llenos de amapolas y manzanilla. Portugal en primavera es tan tranquilo y tan asequible que cuesta creer que tan pocos lo sepan. Más en nuestra [guía de ruta por Portugal](/es/blog/portugal-ruta-completa/).
 
 **Provenza, Francia (abril–junio):** La lavanda florece en junio, pero los cerezos, los almendros y las colinas verdes ya son impresionantes desde abril. Gordes, Roussillon, Les Baux-de-Provence: pueblos medievales en un paisaje en flor.
 
@@ -60,9 +60,9 @@ Los momentos de floración varían entre 1 y 3 semanas según el clima de cada a
 
 **Plitvice, Croacia (abril–mayo):** Las cascadas y los lagos del parque nacional sin las multitudes del verano. Cristalino, verde intenso, casi vacío en abril.
 
-**Eslovenia (abril–mayo):** Manzanos en flor en el Valle de Logarska, río Soča turquesa, Lago Bled con reflejos de primavera. Más en nuestra [guía de Eslovenia](/es/blog/eslovenia-secreto-verde-2026).
+**Eslovenia (abril–mayo):** Manzanos en flor en el Valle de Logarska, río Soča turquesa, Lago Bled con reflejos de primavera. Más en nuestra [guía de Eslovenia](/es/blog/eslovenia-secreto-verde-2026/).
 
-**Norte de Albania (abril–mayo):** Alpes albaneses con nieve fresca en las cimas, valles verdes abajo. Casi sin turistas, rutas de senderismo extraordinarias. Combínalo con el [road trip por los Balcanes](/es/blog/balcanes-road-trip-ruta).
+**Norte de Albania (abril–mayo):** Alpes albaneses con nieve fresca en las cimas, valles verdes abajo. Casi sin turistas, rutas de senderismo extraordinarias. Combínalo con el [road trip por los Balcanes](/es/blog/balcanes-road-trip-ruta/).
 
 ---
 
@@ -83,6 +83,6 @@ La Semana Santa siempre es concurrida: la semana anterior y posterior es más tr
 Capas. Por las mañanas y noches más fresco (8–15°C), al mediodía puede hacer calor (18–25°C en el sur). Una chaqueta de peso medio más un impermeable cubre casi todos los escenarios de primavera. Europa del Sur (Portugal, España, Grecia) es más cálida que Europa del Norte, ajusta el equipaje según la región.
 
 ## Más artículos
-- [Ruta por Portugal: el itinerario perfecto](/es/blog/portugal-ruta-completa)
-- [Eslovenia: el secreto verde de Europa 2026](/es/blog/eslovenia-secreto-verde-2026)
-- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026)
+- [Ruta por Portugal: el itinerario perfecto](/es/blog/portugal-ruta-completa/)
+- [Eslovenia: el secreto verde de Europa 2026](/es/blog/eslovenia-secreto-verde-2026/)
+- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)

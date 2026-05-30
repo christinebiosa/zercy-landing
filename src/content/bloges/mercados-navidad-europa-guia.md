@@ -23,7 +23,7 @@ Aquí tienes ocho mercados navideños que deberían estar en tu lista.
 
 **Viena** ofrece el mejor escenario. El mercado frente al Ayuntamiento es el más grande de Austria. La noria histórica del Prater ilumina el fondo. Más de 150 puestos. Y eso es solo uno de los mercados. Viena tiene varios al mismo tiempo: el Palacio de Schönbrunn, la Karlsplatz, el barrio de Spittelberg. Viena es mercados navideños en plural. Toda la información en [wienerchristkindlmarkt.at](https://www.wienerchristkindlmarkt.at).
 
-**Praga** es la opción más económica entre los destinos top. Mercados en la Plaza de la Ciudad Vieja y en la Plaza de Wenceslao. Vino caliente checo, salchicha klobása a la brasa, trdelník. Todo notablemente más barato que en Alemania o Austria. Praga es para quienes quieren el escenario de cuento de hadas sin gastar una fortuna. Más detalles: [Dónde alojarse en Viena: las mejores zonas](/es/blog/donde-alojarse-viena).
+**Praga** es la opción más económica entre los destinos top. Mercados en la Plaza de la Ciudad Vieja y en la Plaza de Wenceslao. Vino caliente checo, salchicha klobása a la brasa, trdelník. Todo notablemente más barato que en Alemania o Austria. Praga es para quienes quieren el escenario de cuento de hadas sin gastar una fortuna. Más detalles: [Dónde alojarse en Viena: las mejores zonas](/es/blog/donde-alojarse-viena/).
 
 **Colmar en Alsacia** es el más romántico. Pequeño, medieval, casi demasiado bonito para ser real. Casas de entramado en colores pastel, jardineras con flores, guirnaldas de luz. Cinco mercados distintos repartidos por el casco antiguo. Si Estrasburgo te parece demasiado grande, Colmar es la respuesta. Está a solo 70 kilómetros.
 
@@ -59,7 +59,7 @@ Estrasburgo está en el punto medio. Tallin es agradablemente barata para los es
 
 El alojamiento es el mayor gasto. Hoteles de gama media en Núremberg o Estrasburgo en diciembre: entre 100 y 180 euros por noche. Viena es similar. Consejo: usa una ciudad cercana como base. De Karlsruhe a Estrasburgo son 80 km. De Linz a Viena hay dos horas en tren.
 
-Más consejos de ahorro: [Cómo planificar tu presupuesto de viaje](/es/blog/planificar-presupuesto-viaje).
+Más consejos de ahorro: [Cómo planificar tu presupuesto de viaje](/es/blog/planificar-presupuesto-viaje/).
 
 ---
 
@@ -98,6 +98,6 @@ Para quienes van por primera vez: Núremberg o Estrasburgo. Para parejas: Colmar
 **Planifica tu viaje a los mercados navideños con Zercy.** Dile a dónde quieres ir y cuándo. Zercy encuentra vuelos, sugiere hoteles y organiza todo el viaje. [Abre tu cuaderno de viaje](https://www.zercy.app/logbook).
 
 **Seguir leyendo:**
-- [Ciudades europeas en invierno: guía práctica](/es/blog/ciudades-europeas-invierno-guia)
-- [Escapadas de fin de semana por Europa](/es/blog/escapadas-fin-semana-europa)
-- [Cómo planificar tu presupuesto de viaje paso a paso](/es/blog/planificar-presupuesto-viaje)
+- [Ciudades europeas en invierno: guía práctica](/es/blog/ciudades-europeas-invierno-guia/)
+- [Escapadas de fin de semana por Europa](/es/blog/escapadas-fin-semana-europa/)
+- [Cómo planificar tu presupuesto de viaje paso a paso](/es/blog/planificar-presupuesto-viaje/)

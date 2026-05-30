@@ -47,7 +47,7 @@ Chengdu ist nicht nur Kultur. Die Stadt ist ein bedeutendes Tech-Cluster mit Pr�
 
 Top-Picks: **Crowne Plaza Chengdu City Center South** (international, Konferenzmöglichkeiten), **Hyatt Regency Chengdu** (verlässliche Hyatt-Qualität, gut erreichbar), **DoubleTree by Hilton Hotel Chengdu** (kompetente Mittelklasse für Businesstrips).
 
-Für Reisende, die nach Chengdu fliegen und auch andere asiatische Städte besuchen, lohnt sich ein Blick auf [offene Rückflüge und Multistop-Routen](/blog/wann-fluege-buchen). Kombinationen mit Bangkok oder Seoul sind preislich oft attraktiv.
+Für Reisende, die nach Chengdu fliegen und auch andere asiatische Städte besuchen, lohnt sich ein Blick auf [offene Rückflüge und Multistop-Routen](/blog/wann-fluege-buchen/). Kombinationen mit Bangkok oder Seoul sind preislich oft attraktiv.
 
 ## Chenghua: Budget und Panda-Nähe
 
@@ -63,7 +63,7 @@ Chengdu Tianfu International Airport ist der neuere der beiden Flughäfen. Shuan
 
 Top-Picks: **Sheraton Chengdu Lido Hotel** (Qualität mit Airportnähe), **Holiday Inn Chengdu Xindu** (verlässlich, Shuttle-Service), **Mercure Chengdu Airport** (nüchtern, funktional, günstig).
 
-Wer Chengdu mit Südostasien kombiniert, findet in unserem Guide zu [Südostasien-Budgetreisen](/blog/suedostasien-budget-reisen) praktische Tipps für die Weiterreise.
+Wer Chengdu mit Südostasien kombiniert, findet in unserem Guide zu [Südostasien-Budgetreisen](/blog/suedostasien-budget-reisen/) praktische Tipps für die Weiterreise.
 
 ## Wo solltest du am Ende buchen?
 
@@ -89,6 +89,6 @@ Die Panda Research Base morgens früh ist Pflicht. Dazu die Kuanzhai Alley für 
 
 ## Mehr lesen
 
-- [Japan 3-Wochen-Route](/blog/japan-3-wochen-route)
-- [Südostasien Budgetreisen](/blog/suedostasien-budget-reisen)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Japan 3-Wochen-Route](/blog/japan-3-wochen-route/)
+- [Südostasien Budgetreisen](/blog/suedostasien-budget-reisen/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

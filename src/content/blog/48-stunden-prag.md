@@ -61,7 +61,7 @@ Wenzelsplatz ist weniger schön, als er auf Fotos aussieht. Langer Platz, viel V
 
 Vyšehrad dagegen: die Festung auf dem Felsen über der Moldau bietet einen der schönsten Ausblicke auf Prag. Deutlich ruhiger als Hradčany. Der Nationaler Friedhof Prags liegt dort, mit den Gräbern von Dvořák, Mucha, Smetana. Der Eintritt zum Außengelände ist kostenlos.
 
-Wenn du eine längere Reise durch Mitteleuropa planst, hilft dir unser Guide zu [Bahn vs. Flieger Europa 2026](/blog/bahn-vs-flieger-europa-2026) bei der Anreise-Entscheidung.
+Wenn du eine längere Reise durch Mitteleuropa planst, hilft dir unser Guide zu [Bahn vs. Flieger Europa 2026](/blog/bahn-vs-flieger-europa-2026/) bei der Anreise-Entscheidung.
 
 **Abend: Letná Park**
 
@@ -81,7 +81,7 @@ Letná liegt oberhalb der Moldau und hat einen der besten Biergärten der Stadt.
 
 Staré Město (Altstadt) ist zentral und teuer. Für ein besseres Preis-Leistungs-Verhältnis schau dir Vinohrady, Žižkov oder Smíchov an. Alle drei haben gute Metroverbindungen und liegen in 15 bis 20 Minuten Fahrzeit vom Zentrum.
 
-Prag ist generell eine der günstigsten Metropolen Europas. 1 Euro entspricht rund 25 CZK. Für gute Hotels zahlt man deutlich weniger als in Wien, Paris oder Amsterdam. Über [Booking.com](https://www.booking.com) findet man gut 600 Prager Hotels mit kostenloser Stornierung. Mehr zu Vierteln und Empfehlungen im Guide zu [wo du in Prag übernachtest](/blog/wo-uebernachten-prag).
+Prag ist generell eine der günstigsten Metropolen Europas. 1 Euro entspricht rund 25 CZK. Für gute Hotels zahlt man deutlich weniger als in Wien, Paris oder Amsterdam. Über [Booking.com](https://www.booking.com) findet man gut 600 Prager Hotels mit kostenloser Stornierung. Mehr zu Vierteln und Empfehlungen im Guide zu [wo du in Prag übernachtest](/blog/wo-uebernachten-prag/).
 
 ---
 
@@ -101,7 +101,7 @@ Sehr günstig. 1 Euro entspricht rund 25 CZK. Ein Pils 0,5 Liter in einem lokale
 
 ### Wann sollte man die Karlsbrücke besuchen?
 
-Am besten um 7 Uhr morgens oder nach 19 Uhr. Mittags ist sie so überfüllt, dass die Barockstatuen kaum sichtbar sind. Früh morgens ist sie nahezu leer und das Licht ist gut. Wer die Brücke im Morgennebel gesehen hat, versteht warum sie so berühmt ist. Mehr Tipps im [Airport Hacks Guide](/blog/airport-hacks) zur An- und Abreise.
+Am besten um 7 Uhr morgens oder nach 19 Uhr. Mittags ist sie so überfüllt, dass die Barockstatuen kaum sichtbar sind. Früh morgens ist sie nahezu leer und das Licht ist gut. Wer die Brücke im Morgennebel gesehen hat, versteht warum sie so berühmt ist. Mehr Tipps im [Airport Hacks Guide](/blog/airport-hacks/) zur An- und Abreise.
 
 ### Welche Viertel sind in Prag am interessantesten abseits der Touristenpfade?
 
@@ -110,6 +110,6 @@ Am besten um 7 Uhr morgens oder nach 19 Uhr. Mittags ist sie so überfüllt, das
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Prag: Viertel, Hotels und Empfehlungen](/blog/wo-uebernachten-prag)
-- [Bahn vs. Flieger Europa 2026: Wann der Zug besser ist](/blog/bahn-vs-flieger-europa-2026)
-- [Airport Hacks: So sparst du Zeit und Geld am Flughafen](/blog/airport-hacks)
+- [Wo übernachten in Prag: Viertel, Hotels und Empfehlungen](/blog/wo-uebernachten-prag/)
+- [Bahn vs. Flieger Europa 2026: Wann der Zug besser ist](/blog/bahn-vs-flieger-europa-2026/)
+- [Airport Hacks: So sparst du Zeit und Geld am Flughafen](/blog/airport-hacks/)

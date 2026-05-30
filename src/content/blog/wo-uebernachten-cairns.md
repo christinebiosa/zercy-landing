@@ -91,7 +91,7 @@ Für Erstbesucher: Tagestouren zu den äußeren Riffen (Outer Reef) mit Cairns D
 
 ### Was kostet ein Tag am Great Barrier Reef?
 
-Tagestouren zum Outer Reef kosten 200-280 AUD pro Person inklusive Schnorchelausrüstung. Mit Schnorchelkurs etwas mehr. Introductory Dives kosten extra (80-120 AUD). Mit Helikopter-Flug über das Riff: 200-300 AUD zusätzlich. Der [Australien Rundreise-Guide](/blog/australien-rundreise-route) hilft bei der Budgetplanung für die gesamte Route.
+Tagestouren zum Outer Reef kosten 200-280 AUD pro Person inklusive Schnorchelausrüstung. Mit Schnorchelkurs etwas mehr. Introductory Dives kosten extra (80-120 AUD). Mit Helikopter-Flug über das Riff: 200-300 AUD zusätzlich. Der [Australien Rundreise-Guide](/blog/australien-rundreise-route/) hilft bei der Budgetplanung für die gesamte Route.
 
 ### Welche anderen Aktivitäten gibt es außer dem Riff?
 
@@ -100,6 +100,6 @@ Daintree Rainforest (ältester Regenwald der Welt, Tagesausflug von Cairns), Sky
 ---
 
 **Mehr lesen:**
-- [Australien Rundreise: Die optimale Route von Ost nach West](/blog/australien-rundreise-route)
-- [Wo übernachten in Brisbane: Die besten Viertel](/blog/wo-uebernachten-brisbane)
-- [Wo übernachten in Sydney: CBD oder Bondi?](/blog/wo-uebernachten-sydney)
+- [Australien Rundreise: Die optimale Route von Ost nach West](/blog/australien-rundreise-route/)
+- [Wo übernachten in Brisbane: Die besten Viertel](/blog/wo-uebernachten-brisbane/)
+- [Wo übernachten in Sydney: CBD oder Bondi?](/blog/wo-uebernachten-sydney/)

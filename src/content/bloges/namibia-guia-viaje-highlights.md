@@ -79,6 +79,6 @@ Alquiler de 4WD (14 días): entre 800 y 1.500 euros. Alojamiento (lodges de gama
 ---
 
 **Más artículos:**
-- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia)
-- [Australia: Ruta completa](/es/blog/australia-ruta-completa)
-- [Lista de equipaje para viajes: lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial)
+- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia/)
+- [Australia: Ruta completa](/es/blog/australia-ruta-completa/)
+- [Lista de equipaje para viajes: lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial/)

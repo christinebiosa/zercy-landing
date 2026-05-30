@@ -54,7 +54,7 @@ Hoteles: de 40 a 120 euros.
 **Recomendación:**
 - **Golden Nugget Las Vegas** (el hotel más elegante de Downtown, aprox. 80 €)
 
-Para otras ciudades del oeste americano, consulta también [dónde alojarse en Los Ángeles](/es/blog/donde-alojarse-los-angeles) y [dónde alojarse en San Francisco](/es/blog/donde-alojarse-san-francisco).
+Para otras ciudades del oeste americano, consulta también [dónde alojarse en Los Ángeles](/es/blog/donde-alojarse-los-angeles/) y [dónde alojarse en San Francisco](/es/blog/donde-alojarse-san-francisco/).
 
 ## ¿Dónde deberías reservar?
 
@@ -87,6 +87,6 @@ Sí. El High Roller (la rueda de observación más grande del mundo), el MSG Sph
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Los Ángeles: Santa Mónica, Hollywood o Downtown](/es/blog/donde-alojarse-los-angeles)
-- [Dónde alojarse en San Francisco: Union Square, Mission o Fisherman's Wharf](/es/blog/donde-alojarse-san-francisco)
-- [Dónde alojarse en Nueva York: Midtown, Brooklyn o Upper West Side](/es/blog/donde-alojarse-nueva-york)
+- [Dónde alojarse en Los Ángeles: Santa Mónica, Hollywood o Downtown](/es/blog/donde-alojarse-los-angeles/)
+- [Dónde alojarse en San Francisco: Union Square, Mission o Fisherman's Wharf](/es/blog/donde-alojarse-san-francisco/)
+- [Dónde alojarse en Nueva York: Midtown, Brooklyn o Upper West Side](/es/blog/donde-alojarse-nueva-york/)

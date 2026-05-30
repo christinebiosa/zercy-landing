@@ -29,7 +29,7 @@ Aber Udaipur ist kleiner als erwartet. Und die Lage entscheidet, wie sich die St
 
 Die Old City ist das Herz von Udaipur. Gepflasterte Gässchen, die zu kleinen Tempeln führen. Guesthouses mit Dachterrassen, auf denen du direkt auf den Lake Pichola und das Taj Lake Palace Hotel blickst. Händler mit Textilien, Silberschmuck und Gewürzen. Es ist eng, es ist bunt, und bei Sonnenuntergang ist kein Ort schöner.
 
-Als Fußgängerzone für Reisende ist die Altstadt unschlagbar. City Palace, Jagdish Tempel und die Bootsanlegestelle für Lake Pichola-Fahrten sind in wenigen Minuten zu Fuß erreichbar. Wer Rajasthan besucht und auch [Jaipur](/blog/wo-uebernachten-jaipur) oder Delhi auf der Route hat, benutzt Udaipur oft als emotionalen Höhepunkt der Reise. Alle Informationen zu Öffnungszeiten und Routen in Rajasthan findest du auf der Website des [Rajasthan Tourism Department](https://www.rajasthantourism.gov.in).
+Als Fußgängerzone für Reisende ist die Altstadt unschlagbar. City Palace, Jagdish Tempel und die Bootsanlegestelle für Lake Pichola-Fahrten sind in wenigen Minuten zu Fuß erreichbar. Wer Rajasthan besucht und auch [Jaipur](/blog/wo-uebernachten-jaipur/) oder Delhi auf der Route hat, benutzt Udaipur oft als emotionalen Höhepunkt der Reise. Alle Informationen zu Öffnungszeiten und Routen in Rajasthan findest du auf der Website des [Rajasthan Tourism Department](https://www.rajasthantourism.gov.in).
 
 **Wer hier richtig liegt:** Paare, Fotografen, Erstbesucher, alle die das maximale Udaipur-Erlebnis wollen.
 
@@ -41,7 +41,7 @@ Als Fußgängerzone für Reisende ist die Altstadt unschlagbar. City Palace, Jag
 
 Der City Palace ist der größte Palastkomplex Rajasthans und liegt erhöht über dem See. Hotels in seiner direkten Umgebung bieten oft Blick auf die Paläste und die Seen. Heritage-Hotels in alten Havelis dominieren das Angebot. Es ist ruhiger als die engen Altstadtgassen, aber du bist immer noch nah am Geschehen.
 
-Wer morgens früh in den City Palace möchte, bevor die Touristengruppen eintreffen, ist in diesem Bereich ideal aufgehoben. Der Stadtpalast öffnet um 9:30 Uhr, und 20 Minuten vorher da zu sein macht den Unterschied. Für eine vollständige Indien-Reise lohnt sich auch der Blick auf unseren [Indien Reiseguide](/blog/indien-reiseguide-highlights) für übergeordnete Planung.
+Wer morgens früh in den City Palace möchte, bevor die Touristengruppen eintreffen, ist in diesem Bereich ideal aufgehoben. Der Stadtpalast öffnet um 9:30 Uhr, und 20 Minuten vorher da zu sein macht den Unterschied. Für eine vollständige Indien-Reise lohnt sich auch der Blick auf unseren [Indien Reiseguide](/blog/indien-reiseguide-highlights/) für übergeordnete Planung.
 
 **Wer hier richtig liegt:** Kulturreisende, Geschichtsinteressierte, alle die weniger Trubel als in der Altstadt wollen.
 
@@ -57,7 +57,7 @@ Oktober bis März ist die ideale Zeit. Temperaturen zwischen 15 und 30 Grad, kla
 
 Der Bereich westlich und südlich des Lake Pichola liegt schon etwas außerhalb der dichten Altstadt. Große Resorts und Boutique-Hotels nutzen die Hanglage für unverbaubaren Seeblick. Weniger Lärm, mehr Platz. Hier buchen Paare, die Udaipur als Honeymoon-Destination wählen, und alle, die nach Indien-Trubel in Delhi oder Mumbai zur Erholung hierher kommen.
 
-Die Verbindung in die Altstadt funktioniert per Tuk-Tuk (10-15 Minuten), abends sind die Sonnenuntergangs-Spots am See in kurzer Fahrt erreichbar. Wenn du auch [Mumbai](/blog/wo-uebernachten-mumbai) auf der Reise hast, ist Udaipur danach ein deutlicher Tempowechsel.
+Die Verbindung in die Altstadt funktioniert per Tuk-Tuk (10-15 Minuten), abends sind die Sonnenuntergangs-Spots am See in kurzer Fahrt erreichbar. Wenn du auch [Mumbai](/blog/wo-uebernachten-mumbai/) auf der Reise hast, ist Udaipur danach ein deutlicher Tempowechsel.
 
 **Wer hier richtig liegt:** Paare, Luxusreisende, alle die nach lebhaften Indien-Städten Ruhe suchen.
 
@@ -69,7 +69,7 @@ Die Verbindung in die Altstadt funktioniert per Tuk-Tuk (10-15 Minuten), abends 
 
 Fateh Sagar ist der nördlichere der beiden großen Seen. Die Uferpromenade am Fateh Sagar ist ein lokaler Treffpunkt, keine Touristenattraktion. Abends spazieren Familien und Jugendliche entlang des Sees. Straßenkost, Chai-Stände, normales indisches Stadtleben. Hotels hier sind günstiger und weniger touristisch.
 
-Wer Udaipur nicht nur als Postkartenmotiv sehen will, sondern auch spüren möchte, was die Stadt außerhalb der Altstadtblase ist, liegt hier richtig. Für Rucksackreisende mit mehr Zeit oder Gruppen die Wert auf Kosteneffizienz legen, ist Fateh Sagar die logische Wahl. Wer plant, wann Flüge gebucht werden sollten, findet dazu unsere Analyse auf [Wann Flüge buchen](/blog/wann-fluege-buchen).
+Wer Udaipur nicht nur als Postkartenmotiv sehen will, sondern auch spüren möchte, was die Stadt außerhalb der Altstadtblase ist, liegt hier richtig. Für Rucksackreisende mit mehr Zeit oder Gruppen die Wert auf Kosteneffizienz legen, ist Fateh Sagar die logische Wahl. Wer plant, wann Flüge gebucht werden sollten, findet dazu unsere Analyse auf [Wann Flüge buchen](/blog/wann-fluege-buchen/).
 
 **Wer hier richtig liegt:** Budget-Reisende, Langzeitaufenthalte, alle die lokales Leben bevorzugen.
 
@@ -81,7 +81,7 @@ Wer Udaipur nicht nur als Postkartenmotiv sehen will, sondern auch spüren möch
 
 Gangaur Ghat liegt am südlichen Ufer des Lake Pichola, abseits der dichten Altstadt-Ströme. Der Ghat ist ein ritueller Badeplatz, morgens kommen Einheimische für ihre Morgenroutine. Abends fährt von hier eine der Bootstouren auf den See. Hotels in diesem Bereich sind oft kleinere Havelis und Guesthouses, die weniger bekannt, aber sehr authentisch sind.
 
-Für alle, die Udaipur wirklich kennenlernen wollen und nicht das typische Touristenprogramm abarbeiten, ist der Gangaur Ghat-Bereich ein Geheimtipp. Eine Reiseversicherung für Indien lohnt sich in jedem Fall. Mehr dazu in unserer [Reiseversicherungs-Analyse](/blog/reiseversicherung-was-lohnt-sich).
+Für alle, die Udaipur wirklich kennenlernen wollen und nicht das typische Touristenprogramm abarbeiten, ist der Gangaur Ghat-Bereich ein Geheimtipp. Eine Reiseversicherung für Indien lohnt sich in jedem Fall. Mehr dazu in unserer [Reiseversicherungs-Analyse](/blog/reiseversicherung-was-lohnt-sich/).
 
 **Wer hier richtig liegt:** Alleinreisende, Repeat-Visitors, alle die Tiefe statt Bequemlichkeit suchen.
 
@@ -122,11 +122,11 @@ Günstige Haveli-Guesthouses in der Altstadt beginnen bei rund 20-40 EUR pro Nac
 
 ### Wie viele Tage sollte man für Udaipur einplanen?
 
-Zwei volle Tage reichen für City Palace, Lake Palace Bootstour, Jagdish Tempel und die Abendstimmung am See. Drei Tage sind besser, wenn du auch den Saheliyon-ki-Bari Garten und das Monsoon Palace besuchen möchtest. Als Teil einer Rajasthan-Rundreise kombiniert sich Udaipur gut mit [Jaipur](/blog/wo-uebernachten-jaipur) (Pink City) und Jodhpur (Blaue Stadt).
+Zwei volle Tage reichen für City Palace, Lake Palace Bootstour, Jagdish Tempel und die Abendstimmung am See. Drei Tage sind besser, wenn du auch den Saheliyon-ki-Bari Garten und das Monsoon Palace besuchen möchtest. Als Teil einer Rajasthan-Rundreise kombiniert sich Udaipur gut mit [Jaipur](/blog/wo-uebernachten-jaipur/) (Pink City) und Jodhpur (Blaue Stadt).
 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Jaipur: Stadtteile und Hotels](/blog/wo-uebernachten-jaipur)
-- [Indien Reiseguide: Highlights und Planung](/blog/indien-reiseguide-highlights)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Wo übernachten in Jaipur: Stadtteile und Hotels](/blog/wo-uebernachten-jaipur/)
+- [Indien Reiseguide: Highlights und Planung](/blog/indien-reiseguide-highlights/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

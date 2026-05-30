@@ -24,7 +24,7 @@ Not all visas work the same way. The type you need depends on your destination a
 
 **Visa Exemption:** Many countries require nothing at all for EU passport holders. Show your passport, enter, done. For an up-to-date overview, check the [IATA Travel Centre](https://www.iata.org/en/services/consulting/iata-travel-centre/).
 
-Want to know which countries you can enter without applying in advance? Read our guide on [Visa on Arrival Countries 2026](/en/blog/visa-on-arrival-countries-2026).
+Want to know which countries you can enter without applying in advance? Read our guide on [Visa on Arrival Countries 2026](/en/blog/visa-on-arrival-countries-2026/).
 
 ## Which Documents Do You Need?
 
@@ -34,7 +34,7 @@ Preparation is everything. A single missing document can delay or sink your enti
 
 **Passport photo:** Every country has its own specifications. White background, specific dimensions, recent photo. Getting it done professionally is worth the small cost.
 
-**Travel insurance:** Many consulates require proof of coverage with a minimum of $30,000 or equivalent. Not sure what a solid travel insurance policy should cover? We break it down in [Travel Insurance: Is It Worth It?](/en/blog/travel-insurance-worth-it-2026)
+**Travel insurance:** Many consulates require proof of coverage with a minimum of $30,000 or equivalent. Not sure what a solid travel insurance policy should cover? We break it down in [Travel Insurance: Is It Worth It?](/en/blog/travel-insurance-worth-it-2026/)
 
 **Hotel confirmation:** A booking confirmation, even a refundable one, shows the consulate you have a plan. Some countries are flexible, others want a firm reservation.
 
@@ -42,7 +42,7 @@ Preparation is everything. A single missing document can delay or sink your enti
 
 **Invitation letter:** Required for some countries with stricter entry policies. China sometimes asks for one if you're not traveling with a tour.
 
-**Traveling with children:** If only one parent is traveling with a minor, you'll need a notarized consent letter from the other parent. Missing this can mean being turned away at the border. See also our full guide on [organizing travel documents](/en/blog/travel-documents-guide).
+**Traveling with children:** If only one parent is traveling with a minor, you'll need a notarized consent letter from the other parent. Missing this can mean being turned away at the border. See also our full guide on [organizing travel documents](/en/blog/travel-documents-guide/).
 
 ## Embassy, Visa Center, or Agency?
 
@@ -99,6 +99,6 @@ Keep all your travel plans organized in the [Zercy Logbook](https://www.zercy.ap
 ---
 
 **Read more:**
-- [Visa on Arrival Countries 2026](/en/blog/visa-on-arrival-countries-2026)
-- [How to Organize Your Travel Documents](/en/blog/travel-documents-guide)
-- [USA National Parks Guide](/en/blog/usa-national-parks-guide)
+- [Visa on Arrival Countries 2026](/en/blog/visa-on-arrival-countries-2026/)
+- [How to Organize Your Travel Documents](/en/blog/travel-documents-guide/)
+- [USA National Parks Guide](/en/blog/usa-national-parks-guide/)

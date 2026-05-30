@@ -24,7 +24,7 @@ Nicht jedes Visum ist gleich. Je nach Zielland und Aufenthaltszweck stehen versc
 
 **Visumbefreiung:** Viele Länder brauchen für EU-Bürger gar nichts. Pass vorzeigen, einreisen, fertig. Eine aktuelle Liste findest du beim [Auswärtigen Amt](https://www.auswaertiges-amt.de/de/service/visa-einreise-aufenthalt).
 
-Einen Überblick über alle Länder mit Visa on Arrival für deutsche Reisende findest du in unserem Artikel [Visa on Arrival: Länder 2026](/blog/digital-nomad-visum-laender-2026).
+Einen Überblick über alle Länder mit Visa on Arrival für deutsche Reisende findest du in unserem Artikel [Visa on Arrival: Länder 2026](/blog/digital-nomad-visum-laender-2026/).
 
 ## Was brauchst du, bevor du den Antrag stellst?
 
@@ -34,7 +34,7 @@ Gute Vorbereitung ist die halbe Miete. Ohne vollständige Unterlagen riskierst d
 
 **Lichtbild:** Jedes Land hat eigene Vorgaben. Weißer Hintergrund, bestimmte Maße, aktuelles Foto. Lass das lieber beim Fotografen machen als zu Hause auszuprobieren.
 
-**Reiseversicherungsnachweis:** Viele Konsulate verlangen eine Police mit Mindestdeckung von 30.000 Euro. Was eine gute Reiseversicherung können sollte, erklären wir im Artikel [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+**Reiseversicherungsnachweis:** Viele Konsulate verlangen eine Police mit Mindestdeckung von 30.000 Euro. Was eine gute Reiseversicherung können sollte, erklären wir im Artikel [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
 
 **Hotelbestätigung:** Nicht immer ein festes Buchungsdokument. Manchmal reicht eine stornierbare Reservierung. Zeigt dem Konsulat, dass du einen Plan hast.
 
@@ -42,7 +42,7 @@ Gute Vorbereitung ist die halbe Miete. Ohne vollständige Unterlagen riskierst d
 
 **Einladungsschreiben:** Bei Ländern mit strikterer Visumpolitik manchmal Pflicht. China zum Beispiel fragt danach, wenn du keine Buchung eines organisierten Programms vorweisen kannst.
 
-**Reisende mit Kindern:** Fährt nur ein Elternteil mit, brauchst du ein notariell beglaubigtes Einwilligungsschreiben des anderen Elternteils. Ohne dieses Dokument kann die Einreise verweigert werden. Lies dazu auch unseren Guide zu [Reisedokumenten richtig organisieren](/blog/reisedokumente-organisieren-guide).
+**Reisende mit Kindern:** Fährt nur ein Elternteil mit, brauchst du ein notariell beglaubigtes Einwilligungsschreiben des anderen Elternteils. Ohne dieses Dokument kann die Einreise verweigert werden. Lies dazu auch unseren Guide zu [Reisedokumenten richtig organisieren](/blog/reisedokumente-organisieren-guide/).
 
 ## Botschaft, Visastelle oder Agentur?
 
@@ -99,6 +99,6 @@ Alle Reiseunterlagen im Griff? Im [Zercy Logbook](https://www.zercy.app/logbook)
 ---
 
 **Mehr lesen:**
-- [Visa on Arrival: Alle Länder 2026](/blog/digital-nomad-visum-laender-2026)
-- [Reisedokumente richtig organisieren](/blog/reisedokumente-organisieren-guide)
-- [USA Nationalparks Reiseguide](/blog/usa-nationalparks-reiseguide)
+- [Visa on Arrival: Alle Länder 2026](/blog/digital-nomad-visum-laender-2026/)
+- [Reisedokumente richtig organisieren](/blog/reisedokumente-organisieren-guide/)
+- [USA Nationalparks Reiseguide](/blog/usa-nationalparks-reiseguide/)

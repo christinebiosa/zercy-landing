@@ -49,7 +49,7 @@ Los hoteles aquí son pequeñas pensiones y casas de huéspedes. Para quienes qu
 
 **Top picks:** Hotel Brighton (hotel histórico, Cerro Concepción, vistas panorámicas), La Bicyclette (pequeño hotel boutique, muy bien valorado), Hostal Jacaranda (económico, acogedor).
 
-Consulta también nuestra [guía de Santiago](/es/blog/donde-alojarse-santiago) y la [guía de viaje a Chile](/es/blog/chile-guia-viaje-highlights) para completar tu visita.
+Consulta también nuestra [guía de Santiago](/es/blog/donde-alojarse-santiago/) y la [guía de viaje a Chile](/es/blog/chile-guia-viaje-highlights/) para completar tu visita.
 
 ## ¿Cuándo es la mejor época para visitar Valparaíso?
 
@@ -105,6 +105,6 @@ Cerro Alegre y Cerro Concepción de día son muy seguros y acogedores para los t
 ---
 
 ## Más artículos
-- [Dónde alojarse en Santiago: Los mejores barrios](/es/blog/donde-alojarse-santiago)
-- [Chile: Guía de viaje con los mejores highlights](/es/blog/chile-guia-viaje-highlights)
-- [Patagonia en 3 semanas: La ruta perfecta](/es/blog/patagonia-3-semanas-ruta)
+- [Dónde alojarse en Santiago: Los mejores barrios](/es/blog/donde-alojarse-santiago/)
+- [Chile: Guía de viaje con los mejores highlights](/es/blog/chile-guia-viaje-highlights/)
+- [Patagonia en 3 semanas: La ruta perfecta](/es/blog/patagonia-3-semanas-ruta/)

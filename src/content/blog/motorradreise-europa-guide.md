@@ -21,7 +21,7 @@ Europa hat einige der schönsten Bergstraßen der Welt. Hier sind vier, die kein
 
 **Grossglockner Hochalpenstraße, Österreich:** 48 Kilometer, 36 Kehren, Ausblick auf den höchsten Gipfel Österreichs. Die Maut kostet um die 38 Euro, aber die lohnt sich. Auf dem [ADAC-Ratgeber für Auslandsfahrten](https://www.adac.de/reise-freizeit/reiseplanung/ausland/) findest du alle Details zur Vignettenpflicht in Österreich.
 
-**Romantische Straße, Bayern:** Keine Alpenpässe, keine Extremhöhen. Dafür mittelalterliche Dörfer, weiche Hügel und entspanntes Fahren von Würzburg bis Füssen. Perfekt als Einstieg oder als Kontrast zum alpinen Abenteuer. Wer den Balkan kennt, wird hier die Ruhe schätzen. [Mehr dazu im Balkan-Roadtrip-Guide.](/blog/balkan-roadtrip-route)
+**Romantische Straße, Bayern:** Keine Alpenpässe, keine Extremhöhen. Dafür mittelalterliche Dörfer, weiche Hügel und entspanntes Fahren von Würzburg bis Füssen. Perfekt als Einstieg oder als Kontrast zum alpinen Abenteuer. Wer den Balkan kennt, wird hier die Ruhe schätzen. [Mehr dazu im Balkan-Roadtrip-Guide.](/blog/balkan-roadtrip-route/)
 
 **Pyrenäen-Pässe, Frankreich/Spanien:** Der Col du Tourmalet, der Port de la Bonaigua, der Portalet. Die Pyrenäen sind weniger touristisch als die Alpen, die Straßen dafür oft noch kurvenreicher. Manchmal begegnest du auf einem Pass stundenlang keinem anderen Fahrzeug. Das ist kein Nachteil.
 
@@ -45,7 +45,7 @@ Innerhalb der EU brauchst du keinen internationalen Führerschein. Der EU-Führe
 
 Zur Versicherung: Deine deutsche Kfz-Haftpflichtversicherung gilt in allen EU-Ländern und in vielen weiteren Ländern, die die Grüne Karte anerkannt haben. Das Dokument immer mitführen. Im Schadenfall ist es entscheidend. Eine Auslandsreisekrankenversicherung für dich als Fahrer ist zusätzlich sinnvoll, besonders auf langen Touren.
 
-Grenzübertritte innerhalb der EU sind problemlos. Kein Stopp, keine Kontrolle. In die Türkei oder auf den Balkan außerhalb der EU gelten andere Regeln. Mehr dazu im [Türkei-Roadtrip-Guide.](/blog/tuerkei-roadtrip-highlights)
+Grenzübertritte innerhalb der EU sind problemlos. Kein Stopp, keine Kontrolle. In die Türkei oder auf den Balkan außerhalb der EU gelten andere Regeln. Mehr dazu im [Türkei-Roadtrip-Guide.](/blog/tuerkei-roadtrip-highlights/)
 
 ## Wo übernachten Motorradfahrer am besten?
 
@@ -57,7 +57,7 @@ Alternativen:
 - **Booking.com mit Filter "Motorradstellplatz":** Viele Unterkünfte haben eigene Garagen, tragen das aber nicht als Filterkriterium ein. Einfach vorher anrufen.
 - **Spontan bleiben:** Gerade in Osteuropa finden sich auch ohne Vorausbuchung um 17 Uhr noch gute Optionen.
 
-Für [strukturierte Etappenplanung](/blog/roadtrip-etappen-planung) lohnt sich eine Route, die übernachtungsfreundliche Orte alle 250 bis 350 Kilometer vorsieht.
+Für [strukturierte Etappenplanung](/blog/roadtrip-etappen-planung/) lohnt sich eine Route, die übernachtungsfreundliche Orte alle 250 bis 350 Kilometer vorsieht.
 
 ## Was kostet eine Motorradreise durch Europa?
 
@@ -69,7 +69,7 @@ Aufschlüsselung:
 - Maut: 0 bis 10 Euro (je nach Land, Österreich und Frankreich haben Maut)
 - Essen: 15 bis 20 Euro
 
-Wer campt, kommt deutlich günstiger weg. Wer in Hotels mit Frühstück übernachtet, kann die Obergrenze auch überschreiten. Eine gute Reiseversicherung ist kein Posten zum Sparen. Was sie abdecken sollte, erklärt der [Guide zur Reiseversicherung.](/blog/reiseversicherung-was-lohnt-sich)
+Wer campt, kommt deutlich günstiger weg. Wer in Hotels mit Frühstück übernachtet, kann die Obergrenze auch überschreiten. Eine gute Reiseversicherung ist kein Posten zum Sparen. Was sie abdecken sollte, erklärt der [Guide zur Reiseversicherung.](/blog/reiseversicherung-was-lohnt-sich/)
 
 ## Die beste Reisezeit: Wann lohnt sich die Tour?
 
@@ -84,9 +84,9 @@ Juli und August: Voll. Besonders die Grossglockner Hochalpenstraße und die Roma
 Bevor du losfahrst, lohnt es sich, die Route nicht nur grob zu skizzieren, sondern Flüge, Unterkunft und Mietmöglichkeiten in einem Schritt zu prüfen. Das Zercy-Reiselogbuch hilft dir, Ideen zu sortieren und konkrete Pläne zu machen: [zercy.app/logbook](https://www.zercy.app/logbook)
 
 **Mehr lesen:**
-- [Balkan-Roadtrip: Die beste Route](/blog/balkan-roadtrip-route)
-- [Türkei-Roadtrip: Highlights und Tipps](/blog/tuerkei-roadtrip-highlights)
-- [Roadtrip-Etappenplanung: So machst du es richtig](/blog/roadtrip-etappen-planung)
+- [Balkan-Roadtrip: Die beste Route](/blog/balkan-roadtrip-route/)
+- [Türkei-Roadtrip: Highlights und Tipps](/blog/tuerkei-roadtrip-highlights/)
+- [Roadtrip-Etappenplanung: So machst du es richtig](/blog/roadtrip-etappen-planung/)
 
 ---
 

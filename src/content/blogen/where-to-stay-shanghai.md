@@ -77,6 +77,6 @@ The Bund at night when both skylines light up. Yu Garden (Yuyuan) with the old t
 
 ## Read more
 
-- [Where to Stay in Hong Kong](/en/blog/where-to-stay-hong-kong)
-- [Where to Stay in Seoul](/en/blog/where-to-stay-seoul)
-- [Where to Stay in Singapore](/en/blog/where-to-stay-singapore)
+- [Where to Stay in Hong Kong](/en/blog/where-to-stay-hong-kong/)
+- [Where to Stay in Seoul](/en/blog/where-to-stay-seoul/)
+- [Where to Stay in Singapore](/en/blog/where-to-stay-singapore/)

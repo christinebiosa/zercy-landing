@@ -94,6 +94,6 @@ Taipéi en su conjunto es una de las metrópolis más seguras de Asia. Todos los
 ---
 
 **Leer más:**
-- [Dónde alojarse en Tokio: ¿Qué barrio elegir?](/es/blog/donde-alojarse-tokio)
-- [Dónde alojarse en Seúl: ¿Gangnam o Hongdae?](/es/blog/donde-alojarse-seul)
-- [Dónde alojarse en Singapur: ¿Marina Bay o Chinatown?](/es/blog/donde-alojarse-singapur)
+- [Dónde alojarse en Tokio: ¿Qué barrio elegir?](/es/blog/donde-alojarse-tokio/)
+- [Dónde alojarse en Seúl: ¿Gangnam o Hongdae?](/es/blog/donde-alojarse-seul/)
+- [Dónde alojarse en Singapur: ¿Marina Bay o Chinatown?](/es/blog/donde-alojarse-singapur/)

@@ -38,7 +38,7 @@ Los presupuestos que ves en blogs de viaje suelen ser optimistas. Aquí van núm
 
 Cuatro semanas en Europa occidental suman al menos 1.400 euros sobre el terreno. En Europa oriental, el mismo tiempo puede costar unos 840 euros. A eso hay que sumar vuelos, el pase de tren y el equipo antes de salir.
 
-Más detalles de costos por país en nuestro artículo [Viaje económico por Europa del Este](/es/blog/viaje-economico-europa-del-este).
+Más detalles de costos por país en nuestro artículo [Viaje económico por Europa del Este](/es/blog/viaje-economico-europa-del-este/).
 
 ## ¿Vale la Pena Interrail o Conviene Comprar Billetes Sueltos?
 
@@ -46,7 +46,7 @@ A partir de tres países, un [Pase Global de Interrail](https://www.interrail.eu
 
 Los billetes sueltos convienen cuando reservas con mucha anticipación o cubres una ruta limitada. París a Barcelona puede costar menos de 40 euros si compras con tiempo. Berlín a Praga suele estar por debajo de 30 euros. Pero si viajas de forma espontánea y quieres tomar decisiones sobre la marcha, Interrail elimina la fricción.
 
-Los trenes nocturnos son una de las mejores jugadas del mochilero europeo: ahorras una noche de hostel y cubres distancias largas mientras duermes. Te lo contamos todo en nuestra guía de [Trenes Nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026).
+Los trenes nocturnos son una de las mejores jugadas del mochilero europeo: ahorras una noche de hostel y cubres distancias largas mientras duermes. Te lo contamos todo en nuestra guía de [Trenes Nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026/).
 
 ## ¿Qué Llevar en la Mochila para 4 a 8 Semanas?
 
@@ -61,15 +61,15 @@ Lo esencial:
 
 Lo que te falte lo compras en el camino. Cada ciudad tiene farmacia y tienda de ropa económica. Viajar liviano te da movilidad y te quita estrés.
 
-¿Quieres dominar el viaje solo con equipaje de mano? Lee nuestra guía [Solo Equipaje de Mano](/es/blog/solo-equipaje-de-mano).
+¿Quieres dominar el viaje solo con equipaje de mano? Lee nuestra guía [Solo Equipaje de Mano](/es/blog/solo-equipaje-de-mano/).
 
 ---
 
 ## Seguir Leyendo
 
-- [Viaje Económico por Europa del Este: Guía Completa por País](/es/blog/viaje-economico-europa-del-este)
-- [Guía para Mochileros Principiantes: Todo Antes de tu Primer Viaje](/es/blog/mochilero-guia-principiantes)
-- [Trenes Nocturnos en Europa 2026: Rutas, Precios y Consejos](/es/blog/trenes-nocturnos-europa-2026)
+- [Viaje Económico por Europa del Este: Guía Completa por País](/es/blog/viaje-economico-europa-del-este/)
+- [Guía para Mochileros Principiantes: Todo Antes de tu Primer Viaje](/es/blog/mochilero-guia-principiantes/)
+- [Trenes Nocturnos en Europa 2026: Rutas, Precios y Consejos](/es/blog/trenes-nocturnos-europa-2026/)
 
 ---
 

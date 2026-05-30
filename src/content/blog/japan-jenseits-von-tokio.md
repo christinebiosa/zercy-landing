@@ -90,6 +90,6 @@ Budget-Reisende (Hostels, Convenience-Store-Mahlzeiten): 70-90 Euro/Tag. Mittelk
 ---
 
 **Mehr lesen:**
-- [Tokio Foodie-Reise: Die besten Restaurants und Foodmärkte](/blog/tokio-foodie-reise)
-- [Thailand 2-Wochen-Route: Bangkok, Chiang Mai, Inseln](/blog/thailand-route-2-wochen)
-- [Business Class ohne Meilen: So fliegst du günstiger](/blog/business-class-ohne-meilen)
+- [Tokio Foodie-Reise: Die besten Restaurants und Foodmärkte](/blog/tokio-foodie-reise/)
+- [Thailand 2-Wochen-Route: Bangkok, Chiang Mai, Inseln](/blog/thailand-route-2-wochen/)
+- [Business Class ohne Meilen: So fliegst du günstiger](/blog/business-class-ohne-meilen/)

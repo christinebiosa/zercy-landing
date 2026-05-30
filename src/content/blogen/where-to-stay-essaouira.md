@@ -79,7 +79,7 @@ The Gnaoua World Music Festival takes place every June and is one of Africa's la
 
 ### What activities are there in Essaouira?
 
-Fish market and harbor (most alive in the mornings), Skala de la Ville (cannons, city walls), Medina stroll, wind- and kite-surfing (schools on the beach), day trip to Sidi Kaouki (quieter beach 25 km south), argan oil cooperatives. The [Morocco cities guide](/en/blog/morocco-cities-guide) maps out the best combinations.
+Fish market and harbor (most alive in the mornings), Skala de la Ville (cannons, city walls), Medina stroll, wind- and kite-surfing (schools on the beach), day trip to Sidi Kaouki (quieter beach 25 km south), argan oil cooperatives. The [Morocco cities guide](/en/blog/morocco-cities-guide/) maps out the best combinations.
 
 ### What budget should you plan for Essaouira?
 
@@ -88,6 +88,6 @@ Essaouira is cheaper than Marrakech. Budget travelers manage on 40-60 EUR per da
 ---
 
 **Read more:**
-- [Morocco Cities Guide: Fès, Marrakech and the Atlantic Coast](/en/blog/morocco-cities-guide)
-- [Morocco Riads: What They Cost and How to Find the Best](/en/blog/morocco-riads-guide)
-- [Where to Stay in Marrakech: The 5 Best Neighborhoods](/en/blog/where-to-stay-marrakech)
+- [Morocco Cities Guide: Fès, Marrakech and the Atlantic Coast](/en/blog/morocco-cities-guide/)
+- [Morocco Riads: What They Cost and How to Find the Best](/en/blog/morocco-riads-guide/)
+- [Where to Stay in Marrakech: The 5 Best Neighborhoods](/en/blog/where-to-stay-marrakech/)

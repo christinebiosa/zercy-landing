@@ -103,6 +103,6 @@ El Cerro San Cristóbal para vistas panorámicas de la ciudad y los Andes, el Ba
 
 ## Seguir leyendo
 
-- [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Lima](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Bogotá](/es/blog/donde-alojarse-bogota)
+- [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Lima](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Bogotá](/es/blog/donde-alojarse-bogota/)

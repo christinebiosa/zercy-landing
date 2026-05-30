@@ -22,7 +22,7 @@ Nicht jede Stadt ist gleich gut. Die besten Destinationen kombinieren Sprachqual
 
 **Französisch:** Paris ist verlockend, aber teuer. Lyon und Montpellier bieten dieselbe Sprachqualität bei deutlich niedrigeren Kosten. Frankophone Schweiz (Genf, Lausanne) ist teuer, dafür mit DACH-Kontext interessant für Berufstätige.
 
-Lies dazu auch unsere Erfahrungen mit [Slow Travel als Methode](/blog/slow-travel-bedeutet-was), denn Sprachreisen funktionieren am besten, wenn du dich wirklich einlässt.
+Lies dazu auch unsere Erfahrungen mit [Slow Travel als Methode](/blog/slow-travel-bedeutet-was/), denn Sprachreisen funktionieren am besten, wenn du dich wirklich einlässt.
 
 ## Was kostet eine Sprachreise für Erwachsene?
 
@@ -39,7 +39,7 @@ Was die Kosten beeinflusst:
 
 Etablierte Vermittler wie [EF Education First](https://www.ef.de) oder [Boa Lingua](https://www.boa-lingua.de) haben breite Schulnetzwerke und ermöglichen einfache Preisvergleiche. Gut geeignet für Erstbucher.
 
-Für Berufstätige, die eine Workation mit Sprachkurs kombinieren wollen, bietet unser Artikel zu [Workation in Portugal und Spanien 2026](/blog/workation-portugal-spanien-2026) konkrete Regionen und Preisbeispiele.
+Für Berufstätige, die eine Workation mit Sprachkurs kombinieren wollen, bietet unser Artikel zu [Workation in Portugal und Spanien 2026](/blog/workation-portugal-spanien-2026/) konkrete Regionen und Preisbeispiele.
 
 ## Sprachschule, Tandem oder echte Immersion: Was bringt mehr?
 
@@ -51,7 +51,7 @@ Drei Ansätze, drei verschiedene Profile.
 
 **Vollimmersion:** Kein Unterricht. Du lebst einfach dort, redest mit Nachbarn, Supermarktverkäufern, Kneipengästen. Das ist die intensivste Form und die schnellste. Aber sie funktioniert erst ab einem gewissen Grundniveau wirklich.
 
-Die Kombination aus Kurs morgens und Alltagsimmersion nachmittags ist für die meisten Erwachsenen der beste Ansatz. Wenn du verstehst, wie [Sprachbarrieren auf Reisen](/blog/sprachbarrieren-reisen-tipps) entstehen, weißt du auch, wie du sie gezielt abbaust.
+Die Kombination aus Kurs morgens und Alltagsimmersion nachmittags ist für die meisten Erwachsenen der beste Ansatz. Wenn du verstehst, wie [Sprachbarrieren auf Reisen](/blog/sprachbarrieren-reisen-tipps/) entstehen, weißt du auch, wie du sie gezielt abbaust.
 
 ## Wie schnell lernst du wirklich, wenn du eintauchst?
 
@@ -67,7 +67,7 @@ Was Berufstätige konkret erwarten können:
 
 Entscheidend ist, was du abends machst. Wer nach dem Unterricht mit anderen Deutschen zusammensitzt und Deutsch redet, lernt weniger als jemand, der Abendessen mit Einheimischen sucht.
 
-Für alle, die langfristig ins Ausland wollen: unser Guide zu [Digital Nomad Visa für 2026](/blog/digital-nomad-visum-laender-2026) zeigt, welche Länder echte Optionen für längere Sprachaufenthalte bieten.
+Für alle, die langfristig ins Ausland wollen: unser Guide zu [Digital Nomad Visa für 2026](/blog/digital-nomad-visum-laender-2026/) zeigt, welche Länder echte Optionen für längere Sprachaufenthalte bieten.
 
 ## FAQ: Sprachreise für Erwachsene
 
@@ -95,7 +95,7 @@ Speicher deine Reisepläne in deinem [Zercy Logbook](https://www.zercy.app/logbo
 
 ## Mehr lesen
 
-- [Slow Travel: Was das wirklich bedeutet](/blog/slow-travel-bedeutet-was)
-- [Sprachbarrieren auf Reisen überwinden](/blog/sprachbarrieren-reisen-tipps)
-- [Workation in Portugal und Spanien 2026](/blog/workation-portugal-spanien-2026)
-- [Digital Nomad Visa Länder 2026](/blog/digital-nomad-visum-laender-2026)
+- [Slow Travel: Was das wirklich bedeutet](/blog/slow-travel-bedeutet-was/)
+- [Sprachbarrieren auf Reisen überwinden](/blog/sprachbarrieren-reisen-tipps/)
+- [Workation in Portugal und Spanien 2026](/blog/workation-portugal-spanien-2026/)
+- [Digital Nomad Visa Länder 2026](/blog/digital-nomad-visum-laender-2026/)

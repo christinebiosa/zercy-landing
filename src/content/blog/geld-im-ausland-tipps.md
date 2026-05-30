@@ -20,7 +20,7 @@ Die Antwort hängt vom Reiseziel ab. Nicht von deiner Gewohnheit.
 
 **Japan:** Das ist der wichtigste Sonderfall. Japan läuft auf Bargeld. Viele Restaurants, Tempel, Züge und selbst große Kaufhäuser nehmen keine Kreditkarte. Abheben vor dem Japan-Trip ist Pflicht. 7-Eleven-Geldautomaten in Japan akzeptieren internationale Karten zuverlässig.
 
-**USA:** Kreditkarte ist Standard. Cash für Trinkgeld in bar (25-30 USD pro Servicekraft bei Dinner), Märkte, kleinere Dienstleister. Dein [Reisebudget](/blog/guenstig-fliegen-tipps) planst du am besten schon vor dem Abflug durch.
+**USA:** Kreditkarte ist Standard. Cash für Trinkgeld in bar (25-30 USD pro Servicekraft bei Dinner), Märkte, kleinere Dienstleister. Dein [Reisebudget](/blog/guenstig-fliegen-tipps/) planst du am besten schon vor dem Abflug durch.
 
 Die Grundregel: 1-2 Tage Bargeld für den Notfall immer dabei. Alles andere: Karte, wenn möglich.
 
@@ -54,9 +54,9 @@ Am Geldautomaten gilt dasselbe. Fragt er "Conversion done by your bank" oder "Co
 
 **Zwei Karten sind Pflicht.** Karte 1 verloren oder gesperrt: Karte 2 ist da. Getrennt aufbewahren. Nie beide Karten im selben Portemonnaie. Eine Karte in den Koffer, eine im Handgepäck.
 
-**Notfall-Bargeld:** 50-100 EUR als Reserve. In eine Ecke des Koffers, nicht im Portemonnaie. Für den Fall dass das Kartensystem komplett ausfällt oder du in einer Region ohne Bankautomaten strandest. Mehr zu Backup-Planung und [Reiseversicherung findest du hier](/blog/reiseversicherung-was-lohnt-sich).
+**Notfall-Bargeld:** 50-100 EUR als Reserve. In eine Ecke des Koffers, nicht im Portemonnaie. Für den Fall dass das Kartensystem komplett ausfällt oder du in einer Region ohne Bankautomaten strandest. Mehr zu Backup-Planung und [Reiseversicherung findest du hier](/blog/reiseversicherung-was-lohnt-sich/).
 
-Wenn du auf Reisen auch [sicher im öffentlichen WLAN bleiben](/blog/cyber-sicherheit-reisen) willst: nie Mobile-Banking über offene Netzwerke.
+Wenn du auf Reisen auch [sicher im öffentlichen WLAN bleiben](/blog/cyber-sicherheit-reisen/) willst: nie Mobile-Banking über offene Netzwerke.
 
 ## Länderspezifische Besonderheiten: Was du vorher wissen musst
 
@@ -95,6 +95,6 @@ Als Faustregel: 1-2 Tage Ausgaben in der lokalen Währung plus ein kleines Euro-
 ---
 
 **Mehr lesen:**
-- [Günstig fliegen: Tricks die wirklich funktionieren](/blog/guenstig-fliegen-tipps)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Cyber-Sicherheit auf Reisen: WLAN, Banking und Datenschutz](/blog/cyber-sicherheit-reisen)
+- [Günstig fliegen: Tricks die wirklich funktionieren](/blog/guenstig-fliegen-tipps/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Cyber-Sicherheit auf Reisen: WLAN, Banking und Datenschutz](/blog/cyber-sicherheit-reisen/)

@@ -55,7 +55,7 @@ Nampo-Dong ist das älteste Stadtzentrum Busans. Jagalchi Fish Market ist einer 
 
 **Top-Picks:** Lotte Hotel Busan (Luxus im Stadtzentrum, gut angebunden), Hotel Nongshim (Mittelklasse mit Spa, Tradition und Komfort), PJ Hotel (günstig, zentral, Backpacker-freundlich).
 
-Den [Südkorea 2-Wochen-Reiseguide](/blog/suedkorea-2-wochen-route) und die [Seoul-Empfehlungen](/blog/wo-uebernachten-seoul) findest du für übergreifende Korea-Planung.
+Den [Südkorea 2-Wochen-Reiseguide](/blog/suedkorea-2-wochen-route/) und die [Seoul-Empfehlungen](/blog/wo-uebernachten-seoul/) findest du für übergreifende Korea-Planung.
 
 ## Gwangalli: Junges Viertel mit Brückenpanorama
 
@@ -106,6 +106,6 @@ Etwa gleich teuer bis etwas günstiger. Hotels: ähnliche Preisklassen in vergle
 ---
 
 **Mehr lesen:**
-- [Südkorea: 2-Wochen-Route mit Tipps](/blog/suedkorea-2-wochen-route)
-- [Wo übernachten in Seoul: Die besten Stadtteile](/blog/wo-uebernachten-seoul)
-- [Japan: 3-Wochen-Route mit Tipps](/blog/japan-3-wochen-route)
+- [Südkorea: 2-Wochen-Route mit Tipps](/blog/suedkorea-2-wochen-route/)
+- [Wo übernachten in Seoul: Die besten Stadtteile](/blog/wo-uebernachten-seoul/)
+- [Japan: 3-Wochen-Route mit Tipps](/blog/japan-3-wochen-route/)

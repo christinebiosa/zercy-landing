@@ -66,6 +66,6 @@ El Noma (fundado en 2003 por René Redzepi) hizo famosa la cocina nórdica en to
 ---
 
 **Más sobre Escandinavia:**
-- [Escandinavia Ruta Completa](/es/blog/escandinavia-ruta-completa)
-- [Tren vs. Avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026)
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Escandinavia Ruta Completa](/es/blog/escandinavia-ruta-completa/)
+- [Tren vs. Avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026/)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)

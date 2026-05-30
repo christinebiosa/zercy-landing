@@ -53,7 +53,7 @@ Walking distance to Old Town: 15 minutes or 5 minutes by tram.
 - **Hotel Tournet Kazimierz:** Budget entry into the neighborhood. Simple, clean, good location.
 - **Boutique Apartments Kazimierz:** Multiple historic buildings converted to apartments. Some inside former synagogue buildings. Unique setting.
 
-Krakow is a natural stop on the Vienna-Warsaw night train route. See our [Night Trains Europe 2026](/en/blog/night-trains-europe-2026) guide for timing and booking details.
+Krakow is a natural stop on the Vienna-Warsaw night train route. See our [Night Trains Europe 2026](/en/blog/night-trains-europe-2026/) guide for timing and booking details.
 
 ## Podgórze: Authentic and Emerging
 
@@ -105,6 +105,6 @@ Three days for Old Town, Kazimierz and Auschwitz-Birkenau (non-negotiable). Four
 ---
 
 **Read more:**
-- [Where to Stay in Vienna: Historic Center to Naschmarkt](/en/blog/where-to-stay-vienna)
-- [Where to Stay in Prague: 5 Neighborhoods Compared](/en/blog/where-to-stay-prague)
-- [Night Trains Europe 2026: The Complete Guide](/en/blog/night-trains-europe-2026)
+- [Where to Stay in Vienna: Historic Center to Naschmarkt](/en/blog/where-to-stay-vienna/)
+- [Where to Stay in Prague: 5 Neighborhoods Compared](/en/blog/where-to-stay-prague/)
+- [Night Trains Europe 2026: The Complete Guide](/en/blog/night-trains-europe-2026/)

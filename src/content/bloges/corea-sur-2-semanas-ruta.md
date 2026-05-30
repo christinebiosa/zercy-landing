@@ -73,6 +73,6 @@ El Korean BBQ es el punto de partida: samgyeopsal (panceta de cerdo) y galbi (co
 
 ## Más artículos
 
-- [Japón 3 semanas: La ruta perfecta](/es/blog/japon-3-semanas-ruta)
-- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico)
-- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights)
+- [Japón 3 semanas: La ruta perfecta](/es/blog/japon-3-semanas-ruta/)
+- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico/)
+- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights/)

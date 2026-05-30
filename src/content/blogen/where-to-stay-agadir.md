@@ -77,7 +77,7 @@ Al Massira Airport is 25 km southeast of the city. Taxis cost 100-150 MAD (about
 
 ### What can you do in Agadir besides the beach?
 
-Souk El Had (one of southern Morocco's largest markets), Kasbah ruins with views over the bay, Vallee des Oiseaux bird park, day trips to Tiznit (silver-craft town), Taroudant (a smaller Marrakech). The [Morocco cities guide](/en/blog/morocco-cities-guide) shows what is worth seeing in the region.
+Souk El Had (one of southern Morocco's largest markets), Kasbah ruins with views over the bay, Vallee des Oiseaux bird park, day trips to Tiznit (silver-craft town), Taroudant (a smaller Marrakech). The [Morocco cities guide](/en/blog/morocco-cities-guide/) shows what is worth seeing in the region.
 
 ### Which beach is the best in Agadir?
 
@@ -90,6 +90,6 @@ Agadir is considered one of Morocco's safest cities for tourists. The beach prom
 ---
 
 **Read more:**
-- [Morocco Cities Guide: Fès, Marrakech and the Coast](/en/blog/morocco-cities-guide)
-- [Where to Stay in Marrakech: The 5 Best Neighborhoods](/en/blog/where-to-stay-marrakech)
-- [Morocco Riads Guide: What They Cost and Where to Find Them](/en/blog/morocco-riads-guide)
+- [Morocco Cities Guide: Fès, Marrakech and the Coast](/en/blog/morocco-cities-guide/)
+- [Where to Stay in Marrakech: The 5 Best Neighborhoods](/en/blog/where-to-stay-marrakech/)
+- [Morocco Riads Guide: What They Cost and Where to Find Them](/en/blog/morocco-riads-guide/)

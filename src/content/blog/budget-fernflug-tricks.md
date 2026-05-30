@@ -20,7 +20,7 @@ Die Preisunterschiede auf Fernstrecken können enorm sein. Für Frankfurt-Bangko
 
 Das ist der bekannteste Trick für Europäer und er funktioniert noch immer. Airlines berechnen Steuern und Gebühren unterschiedlich je nach Abflugsland. Deutschland, Österreich und die Schweiz haben relativ hohe Abgaben. Thailand, Singapur oder Brasilien deutlich weniger.
 
-Das Prinzip: Statt Frankfurt-Bangkok buchst du Bangkok-Frankfurt-Bangkok und steigst erst in Bangkok ein. Du zahlst thailändische Abgaben auf den Gesamtflug, was Frankfurt-Bangkok ab 380 Euro statt über 700 Euro möglich macht. Das Ticket ist gültig, du nützt einfach den Rückflug als Hinflug. Wichtig: Einwegtitel nicht wegwerfen, nur nicht nutzen. Mehr dazu im [Ex-EU Routing Guide](/blog/ex-eu-routing-guenstiger-fliegen).
+Das Prinzip: Statt Frankfurt-Bangkok buchst du Bangkok-Frankfurt-Bangkok und steigst erst in Bangkok ein. Du zahlst thailändische Abgaben auf den Gesamtflug, was Frankfurt-Bangkok ab 380 Euro statt über 700 Euro möglich macht. Das Ticket ist gültig, du nützt einfach den Rückflug als Hinflug. Wichtig: Einwegtitel nicht wegwerfen, nur nicht nutzen. Mehr dazu im [Ex-EU Routing Guide](/blog/ex-eu-routing-guenstiger-fliegen/).
 
 Konkrete Preisbeispiele aus der Praxis:
 
@@ -63,7 +63,7 @@ Splitticket bedeutet: Du buchst Hin- und Rückflug bei unterschiedlichen Airline
 
 Beispiel Frankfurt-Sydney: Direkttickets oder Standard-Verbindungen kosten schnell 1.400 Euro. Mit Splitticket nimmst du einen günstigen Flug Frankfurt-Singapur (Scoot oder Singapore Airlines, ca. 400 Euro), dann Singapur-Sydney separat (ca. 250 Euro). Macht zusammen 650 Euro.
 
-Das Risiko: Bei Verspätung des ersten Flugs ist der zweite nicht automatisch umgebucht. Plane großzügig Layover ein, mindestens vier bis fünf Stunden. Für mehr Tricks beim Buchen, lies den [Google Flights Guide](/blog/google-flights-tricks-tipps-2026).
+Das Risiko: Bei Verspätung des ersten Flugs ist der zweite nicht automatisch umgebucht. Plane großzügig Layover ein, mindestens vier bis fünf Stunden. Für mehr Tricks beim Buchen, lies den [Google Flights Guide](/blog/google-flights-tricks-tipps-2026/).
 
 ## Warum ist Round-the-World manchmal günstiger als Einzeltickets?
 
@@ -75,11 +75,11 @@ Star Alliance und oneworld bieten RTW-Tickets mit festen Meilen- oder Strecken-K
 
 Das Wichtigste: Flexible Dates. Auf Langstrecke kann ein Unterschied von drei Tagen 200 bis 400 Euro ausmachen. Google Flights zeigt den günstigsten Tag des Monats direkt in der Kalenderansicht.
 
-Kombiniere das mit [Wann buchen Analyse](/blog/wann-fluege-buchen): Für Langstrecken gibt es ein Fenster von zwei bis fünf Monaten vor Abflug, in dem die Preise oft am günstigsten sind. Zu früh buchen zahlt sich auf Fernstrecke nicht aus, weil Airlines erst sechs Monate vor Abflug alle Klassen öffnen.
+Kombiniere das mit [Wann buchen Analyse](/blog/wann-fluege-buchen/): Für Langstrecken gibt es ein Fenster von zwei bis fünf Monaten vor Abflug, in dem die Preise oft am günstigsten sind. Zu früh buchen zahlt sich auf Fernstrecke nicht aus, weil Airlines erst sechs Monate vor Abflug alle Klassen öffnen.
 
 Für systematische Recherche nutze [ITA Matrix](https://matrix.itasoftware.com) oder [Google Flights](https://www.google.com/travel/flights) mit dem Preis-Grid. Beide zeigen Kombinationen, die Booking-Sites aus Provisions-Gründen verstecken.
 
-Und noch ein Tipp für Verbindungen mit Allianz-Partnern: Der [Airline-Allianzen Guide](/blog/airline-allianzen-guide-2026) erklärt, welche Carrier innerhalb der Allianzen oft deutlich günstiger buchen lassen.
+Und noch ein Tipp für Verbindungen mit Allianz-Partnern: Der [Airline-Allianzen Guide](/blog/airline-allianzen-guide-2026/) erklärt, welche Carrier innerhalb der Allianzen oft deutlich günstiger buchen lassen.
 
 ---
 
@@ -103,6 +103,6 @@ Ein RTW-Ticket lohnt sich ab drei kontinentalen Langstrecken innerhalb einer Rei
 
 ## Mehr lesen
 
-- [Ex-EU Routing: Wie der Trick funktioniert und was er kostet](/blog/ex-eu-routing-guenstiger-fliegen)
-- [Round-the-World-Ticket: Wann es sich lohnt und was es kostet](/blog/round-the-world-ticket-erklaert)
-- [Google Flights meistern: Tricks für günstige Fernflüge 2026](/blog/google-flights-tricks-tipps-2026)
+- [Ex-EU Routing: Wie der Trick funktioniert und was er kostet](/blog/ex-eu-routing-guenstiger-fliegen/)
+- [Round-the-World-Ticket: Wann es sich lohnt und was es kostet](/blog/round-the-world-ticket-erklaert/)
+- [Google Flights meistern: Tricks für günstige Fernflüge 2026](/blog/google-flights-tricks-tipps-2026/)

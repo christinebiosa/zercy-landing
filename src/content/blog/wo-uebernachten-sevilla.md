@@ -45,7 +45,7 @@ Sevillas mittelalterliches Herz. UNESCO-Welterbe Alcázar (maurischer Königspal
 
 **Top-Picks:** Hotel Monte Triana (klassisch mittelklasse mit Pool), Casa Numero 7 (kleines Boutique mit nur 6 Zimmern), Apartments via Booking in Triana-Häusern.
 
-Lies dazu auch unseren [Madrid-Guide](/blog/wo-uebernachten-madrid) für die spanische Hauptstadt-Variante.
+Lies dazu auch unseren [Madrid-Guide](/blog/wo-uebernachten-madrid/) für die spanische Hauptstadt-Variante.
 
 ## Wann ist die beste Reisezeit für Sevilla?
 
@@ -116,6 +116,6 @@ Backpacker: 500-800 Euro pro Person inkl. Flug (Hostel in Alameda, Tapas-Touren,
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Madrid: Die 5 Stadtteile](/blog/wo-uebernachten-madrid)
-- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona)
-- [Apulien Süditalien Guide](/blog/apulien-sueditalien-guide)
+- [Wo übernachten in Madrid: Die 5 Stadtteile](/blog/wo-uebernachten-madrid/)
+- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona/)
+- [Apulien Süditalien Guide](/blog/apulien-sueditalien-guide/)

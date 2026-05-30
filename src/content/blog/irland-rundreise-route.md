@@ -70,6 +70,6 @@ Irish Stew (Lamm mit Kartoffeln) und Boxty (Kartoffelkuchen) in traditionellen P
 ---
 
 **Mehr lesen:**
-- [Skandinavien Rundreise: Die beste Route durch den Norden](/blog/skandinavien-rundreise-route)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026)
+- [Skandinavien Rundreise: Die beste Route durch den Norden](/blog/skandinavien-rundreise-route/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026/)

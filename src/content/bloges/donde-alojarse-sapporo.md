@@ -52,7 +52,7 @@ Para quien llega en transporte desde otra ciudad o tiene que salir temprano, est
 - **Sapporo Grand Hotel** (clásico de la ciudad desde los años 30, historia y ubicación, aprox. 160 €)
 - **Hotel Resol Trinity Sapporo** (moderno, junto a la estación, buen precio, aprox. 100 €)
 
-Para los que viajan por Japón en tren, consulta también [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio) para completar tu ruta por el país.
+Para los que viajan por Japón en tren, consulta también [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio/) para completar tu ruta por el país.
 
 ## ¿Cuál es la mejor época para visitar Sapporo?
 
@@ -68,7 +68,7 @@ Nakajima Park queda a pocos minutos del centro en metro. Sin clubs ni masificaci
 
 **Precios:** 50-100 euros para guesthouses económicos, 120-190 euros para hoteles boutique.
 
-Consulta [la ruta de 3 semanas por Japón](/es/blog/japon-3-semanas-ruta) para ver cómo encaja Sapporo en una vuelta completa al país.
+Consulta [la ruta de 3 semanas por Japón](/es/blog/japon-3-semanas-ruta/) para ver cómo encaja Sapporo en una vuelta completa al país.
 
 ## Otaru: La ciudad del canal a 30 minutos
 
@@ -87,7 +87,7 @@ Base en Sapporo + pase de día en Teine: la opción más económica. Semanas de 
 
 **Precios en resorts:** 130-420 euros por noche en temporada alta (diciembre a marzo).
 
-Para las mejores ofertas de vuelo hacia Japón en invierno, lee nuestro artículo sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos).
+Para las mejores ofertas de vuelo hacia Japón en invierno, lee nuestro artículo sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/).
 
 ## ¿Dónde deberías reservar?
 
@@ -120,11 +120,11 @@ Menos que en Tokio. Hostales y guesthouses: 28-65 euros. Hoteles gama media: 75-
 
 ### ¿Vale la pena combinar Sapporo con otras ciudades de Japón?
 
-Sí. La ruta Tokio-Kioto-Sapporo cubre el Japón más representativo. Desde Sapporo, Otaru está a 30 minutos y Furano (campos de lavanda) a 2 horas. Para más ideas, consulta [Japón más allá de Tokio](/es/blog/japon-mas-alla-de-tokio).
+Sí. La ruta Tokio-Kioto-Sapporo cubre el Japón más representativo. Desde Sapporo, Otaru está a 30 minutos y Furano (campos de lavanda) a 2 horas. Para más ideas, consulta [Japón más allá de Tokio](/es/blog/japon-mas-alla-de-tokio/).
 
 ---
 
 **Más para leer:**
-- [Japón 3 semanas: la ruta completa por el país](/es/blog/japon-3-semanas-ruta)
-- [Japón más allá de Tokio: Hokkaido, Kyushu y el Japón rural](/es/blog/japon-mas-alla-de-tokio)
-- [Cuándo reservar vuelos: la guía honesta](/es/blog/cuando-reservar-vuelos)
+- [Japón 3 semanas: la ruta completa por el país](/es/blog/japon-3-semanas-ruta/)
+- [Japón más allá de Tokio: Hokkaido, Kyushu y el Japón rural](/es/blog/japon-mas-alla-de-tokio/)
+- [Cuándo reservar vuelos: la guía honesta](/es/blog/cuando-reservar-vuelos/)

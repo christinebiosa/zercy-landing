@@ -36,13 +36,13 @@ Istiklal-Straße: Die Hauptshoppingmeile von Beyoğlu, drei Kilometer lang, imme
 
 Karaköy und Balık Ekmek: Der Fischbrötchenstand am Hafen von Eminönü (auf dem Weg zurück oder als Mittag). Frisch gegrillter Fisch im Brot, rund 3 Euro. Eines der besten Straßenessen der Stadt.
 
-Nachmittag Kadıköy: Mit der Fähre auf die asiatische Seite (10 Minuten, billig). Kadıköy ist das hipste Viertel Istanbuls: Straßenmärkte, unabhängige Cafés, keine Touristen. Der Balık Pazarı (Fischmarkt) und die umliegenden Gassen sind ideal zum Schlendern. Für Unterkunfts-Tipps in Istanbul gibt es unseren Artikel [Wo übernachten in Istanbul](/blog/wo-uebernachten-istanbul).
+Nachmittag Kadıköy: Mit der Fähre auf die asiatische Seite (10 Minuten, billig). Kadıköy ist das hipste Viertel Istanbuls: Straßenmärkte, unabhängige Cafés, keine Touristen. Der Balık Pazarı (Fischmarkt) und die umliegenden Gassen sind ideal zum Schlendern. Für Unterkunfts-Tipps in Istanbul gibt es unseren Artikel [Wo übernachten in Istanbul](/blog/wo-uebernachten-istanbul/).
 
 ## Was kostet Istanbul wirklich?
 
 Istanbul ist für eine Großstadt dieser Bedeutung überraschend günstig. Eine Fährt mit der Metro oder Fähre kostet unter einem Euro mit der Istanbulkarte. Ein Midrange-Restaurant im Stadtzentrum kostet pro Person ohne Alkohol rund 15 bis 25 Euro. Ein Bier im Restaurant kostet 8 bis 12 Euro (Alkohol ist in der Türkei hoch besteuert). Ein einfaches türkisches Frühstück mit Tee, Käse, Oliven und Eiern kostet 5 bis 8 Euro.
 
-Budget-Richtwert für 48 Stunden inklusive Unterkunft in einem guten Mittelklasse-Hotel: 200 bis 350 Euro pro Person. Wer in einem Boutique-Hotel in Sultanahmet übernachtet, zahlt mehr, hat dafür aber die Hagia Sophia direkt vor der Tür. Vergleiche Boutique-Hotels in Istanbul in unserem Artikel über [Boutique Hotels](/blog/boutique-hotels).
+Budget-Richtwert für 48 Stunden inklusive Unterkunft in einem guten Mittelklasse-Hotel: 200 bis 350 Euro pro Person. Wer in einem Boutique-Hotel in Sultanahmet übernachtet, zahlt mehr, hat dafür aber die Hagia Sophia direkt vor der Tür. Vergleiche Boutique-Hotels in Istanbul in unserem Artikel über [Boutique Hotels](/blog/boutique-hotels/).
 
 ## Welche praktischen Tipps brauchst du für Istanbul?
 
@@ -79,6 +79,6 @@ Sultanahmet für historische Nähe und kurze Wege zu den Hauptattraktionen. Beyo
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Istanbul: Beste Viertel und Hotels](/blog/wo-uebernachten-istanbul)
-- [Boutique Hotels: Kleiner als ein Hotel, persönlicher als alles andere](/blog/boutique-hotels)
-- [Geheimtipps Europa: Unterschätzte Reiseziele 2026](/blog/geheimtipps-europa)
+- [Wo übernachten in Istanbul: Beste Viertel und Hotels](/blog/wo-uebernachten-istanbul/)
+- [Boutique Hotels: Kleiner als ein Hotel, persönlicher als alles andere](/blog/boutique-hotels/)
+- [Geheimtipps Europa: Unterschätzte Reiseziele 2026](/blog/geheimtipps-europa/)

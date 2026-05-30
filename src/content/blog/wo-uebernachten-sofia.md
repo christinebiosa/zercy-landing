@@ -77,6 +77,6 @@ Die Alexander-Newski-Kathedrale (eines der größten orthodoxen Gotteshäuser de
 
 ## Mehr lesen
 
-- [Wo übernachten in Bukarest](/blog/wo-uebernachten-bukarest)
-- [Wo übernachten in Tallinn](/blog/wo-uebernachten-tallinn)
-- [Wo übernachten in Vilnius](/blog/wo-uebernachten-vilnius)
+- [Wo übernachten in Bukarest](/blog/wo-uebernachten-bukarest/)
+- [Wo übernachten in Tallinn](/blog/wo-uebernachten-tallinn/)
+- [Wo übernachten in Vilnius](/blog/wo-uebernachten-vilnius/)

@@ -36,7 +36,7 @@ Varios factores convergentes:
 
 **Reserva con más margen:** el slow travel requiere aceptar que algunos días no "harás" nada notable. Sentarse en una terraza, perder el tiempo, volver a un sitio que te gustó. Eso es parte del plan, no una falla del itinerario.
 
-**Muévete en tren donde sea posible:** el tren es el transporte más congruente con el slow travel. El recorrido es parte de la experiencia. Descubres el paisaje entre destinos. Lee nuestra guía de [trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026) para ideas concretas.
+**Muévete en tren donde sea posible:** el tren es el transporte más congruente con el slow travel. El recorrido es parte de la experiencia. Descubres el paisaje entre destinos. Lee nuestra guía de [trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026/) para ideas concretas.
 
 **Prioriza los barrios sobre las atracciones:** los mejores momentos de slow travel suelen no estar en el "top 10 que ver". Están en el desayuno en el bar de la esquina, en la conversación con el dueño de la librería pequeña, en el mercado de los sábados.
 
@@ -65,6 +65,6 @@ Los que tienen suficiente densidad de barrios para explorar sin agotar las opcio
 ---
 
 **Más para leer:**
-- [Compensación de CO₂ en vuelos: ¿funciona realmente?](/es/blog/compensacion-co2-vuelos)
-- [Trenes nocturnos en Europa 2026: la guía definitiva](/es/blog/trenes-nocturnos-europa-2026)
-- [Sabbatical: la guía para planificarlo bien](/es/blog/sabbatical-guia-planificacion)
+- [Compensación de CO₂ en vuelos: ¿funciona realmente?](/es/blog/compensacion-co2-vuelos/)
+- [Trenes nocturnos en Europa 2026: la guía definitiva](/es/blog/trenes-nocturnos-europa-2026/)
+- [Sabbatical: la guía para planificarlo bien](/es/blog/sabbatical-guia-planificacion/)

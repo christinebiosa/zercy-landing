@@ -64,6 +64,6 @@ Vuelo directo a Kiruna: 2 horas, desde 80 euros. Tren nocturno: Estocolmo a Kiru
 ---
 
 **Más sobre Escandinavia:**
-- [Escandinavia Ruta Completa](/es/blog/escandinavia-ruta-completa)
-- [Auroras Boreales 2026: Dónde y Cuándo](/es/blog/auroras-boreales-2026)
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Escandinavia Ruta Completa](/es/blog/escandinavia-ruta-completa/)
+- [Auroras Boreales 2026: Dónde y Cuándo](/es/blog/auroras-boreales-2026/)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)

@@ -69,7 +69,7 @@ Süd-zentral, San Franciscos Latino-Hub und hipsterstes Viertel. Beste Burritos 
 
 **Top-Picks:** Hotel Inn at Mission (klassisch mittelklasse), Apartments via Booking in restaurierten Mission-Häusern, kleine B&Bs.
 
-Lies dazu auch unseren [Los-Angeles-Guide](/blog/los-angeles), für die kalifornische Süd-Variante.
+Lies dazu auch unseren [Los-Angeles-Guide](/blog/los-angeles/), für die kalifornische Süd-Variante.
 
 ## North Beach: Italien-SF
 
@@ -129,6 +129,6 @@ Backpacker: 1.300-1.800 Euro pro Person inkl. Flug (Hostel in Mission, Burritos 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Los Angeles: Die 5 Stadtteile](/blog/wo-uebernachten-los-angeles)
-- [Wo übernachten in New York: Die 5 Stadtteile](/blog/wo-uebernachten-new-york)
-- [Hidden City Ticketing: Wie du legal sparst](/blog/hidden-city-ticketing-erklaert)
+- [Wo übernachten in Los Angeles: Die 5 Stadtteile](/blog/wo-uebernachten-los-angeles/)
+- [Wo übernachten in New York: Die 5 Stadtteile](/blog/wo-uebernachten-new-york/)
+- [Hidden City Ticketing: Wie du legal sparst](/blog/hidden-city-ticketing-erklaert/)

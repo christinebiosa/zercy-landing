@@ -59,7 +59,7 @@ El Born ist Barcelonas trendigster Stadtteil: schmale Gassen wie im Gothic Quart
 
 **Top-Picks:** Hotel Banys Orientals (Boutique mit Design), Casa Fortuna (kleines Boutique mit Innenhof), Born Boutique Hotel (Designer-Mittelklasse).
 
-Lies dazu auch unseren [Slow Travel-Guide](/blog/slow-travel-bedeutet-was), El Born eignet sich perfekt für 5-7 Nächte ohne Stadt-Wechsel.
+Lies dazu auch unseren [Slow Travel-Guide](/blog/slow-travel-bedeutet-was/), El Born eignet sich perfekt für 5-7 Nächte ohne Stadt-Wechsel.
 
 ## Gràcia: Lokales Barcelona
 
@@ -104,7 +104,7 @@ Für Barcelona ist [Booking.com](https://www.booking.com) klar die beste Plattfo
 
 Direktbuchung lohnt nur bei Premium (W Barcelona, Mandarin) für mögliche Upgrades.
 
-Lies dazu auch unseren [AirBnB vs Hotel-Guide](/blog/airbnb-vs-hotel-vergleich), Barcelona ist das Paradebeispiel warum Booking-Hotels oft die bessere Wahl sind.
+Lies dazu auch unseren [AirBnB vs Hotel-Guide](/blog/airbnb-vs-hotel-vergleich/), Barcelona ist das Paradebeispiel warum Booking-Hotels oft die bessere Wahl sind.
 
 ---
 
@@ -131,6 +131,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel, Tapas-Bars). Mittelklass
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon)
-- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
-- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
+- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon/)
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris/)
+- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich/)

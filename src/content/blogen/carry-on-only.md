@@ -71,7 +71,7 @@ Liquids in carry-on: max 100ml per container, everything in a transparent 1-lite
 
 What many don't know: small refillable travel containers cost €5–10 for a set. Decant shampoo, conditioner, shower gel, sunscreen — all into the little bottles. That's enough for a week easily.
 
-With a well-packed backpack, security also goes faster — more tips in our guide [7 Airport Tricks That Save Time](/en/blog/airport-hacks).
+With a well-packed backpack, security also goes faster — more tips in our guide [7 Airport Tricks That Save Time](/en/blog/airport-hacks/).
 
 ## Which backpacks actually work
 
@@ -113,4 +113,4 @@ Pack earlier — not the night before, but 2–3 days out. Whatever you'd miss, 
 
 Yes, with adjustments. For 2–3 weeks or a longer trip: either wash strategically (laundromat every 5–7 days), or buy cheap clothes at your destination and leave them behind. Many long-term travelers do exactly this — deliberately own less, be freer.
 
-**Read more:** [7 Airport Tricks That Save Time](/en/blog/airport-hacks) · [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips) · [10 Things to Check Before You Drive Off in a Rental Car](/en/blog/rental-car-checklist)
+**Read more:** [7 Airport Tricks That Save Time](/en/blog/airport-hacks/) · [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips/) · [10 Things to Check Before You Drive Off in a Rental Car](/en/blog/rental-car-checklist/)

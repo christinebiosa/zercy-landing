@@ -34,7 +34,7 @@ La elección entre tienda, techo-tienda y autocaravana determina flexibilidad, c
 
 **Las tiendas de techo** han ganado mucha popularidad. Montaje en menos de cinco minutos, mucho más cómodo que dormir en el suelo, sin suelo húmedo. Inconveniente: necesitas el vehículo adecuado y una carga de techo suficiente. Precio: entre 800 y 2.500 euros solo para la tienda.
 
-**La autocaravana** es la opción más cara pero también la más cómoda. Precios de alquiler en temporada alta desde 100 a 150 euros al día, con equipamiento completo. Para viajes largos (dos semanas o más), compite bien con hotel más restaurante. Una [escapada en campervan por Europa](/es/blog/campervan-vacaciones-europa) tiene su propia lógica y requiere cierta preparación.
+**La autocaravana** es la opción más cara pero también la más cómoda. Precios de alquiler en temporada alta desde 100 a 150 euros al día, con equipamiento completo. Para viajes largos (dos semanas o más), compite bien con hotel más restaurante. Una [escapada en campervan por Europa](/es/blog/campervan-vacaciones-europa/) tiene su propia lógica y requiere cierta preparación.
 
 Para todas las opciones: un buen saco de dormir (tres estaciones más liner) importa más que los accesorios caros. Y una linterna frontal. Siempre una linterna frontal.
 
@@ -66,18 +66,18 @@ Aquí es donde la mayoría de los principiantes cometen errores.
 
 **Zonas grises:** España y Croacia tienen normativas poco claras fuera de los parques nacionales. Vale la pena investigar localmente. La comunidad de Park4Night comenta activamente qué parcelas son toleradas.
 
-La [ruta por Escandinavia](/es/blog/escandinavia-ruta-completa) es especialmente recomendable para el camping libre. Tres países, todos con derecho de libre acceso a la naturaleza.
+La [ruta por Escandinavia](/es/blog/escandinavia-ruta-completa/) es especialmente recomendable para el camping libre. Tres países, todos con derecho de libre acceso a la naturaleza.
 
 ---
 
 Zercy integra precios de vuelo en tiempo real. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano al reservar.
 
-Para viajes de camping combinados con alquiler de coche: la [guía de alquiler de coche](/es/blog/checklist-alquiler-coche) te muestra los proveedores más económicos y qué revisar al recoger el vehículo. Si planeas dormir bajo techo alguna noche en un viaje largo, revisa [¿vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena) antes de reservar.
+Para viajes de camping combinados con alquiler de coche: la [guía de alquiler de coche](/es/blog/checklist-alquiler-coche/) te muestra los proveedores más económicos y qué revisar al recoger el vehículo. Si planeas dormir bajo techo alguna noche en un viaje largo, revisa [¿vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena/) antes de reservar.
 
 **Más información:**
-- [Campervan en Europa: la guía completa](/es/blog/campervan-vacaciones-europa)
-- [Ruta por Escandinavia: itinerario y consejos](/es/blog/escandinavia-ruta-completa)
-- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
+- [Campervan en Europa: la guía completa](/es/blog/campervan-vacaciones-europa/)
+- [Ruta por Escandinavia: itinerario y consejos](/es/blog/escandinavia-ruta-completa/)
+- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)
 
 ## Preguntas frecuentes
 

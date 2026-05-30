@@ -26,7 +26,7 @@ Der größte Unterschied liegt nicht im Interface. Er liegt darin, wessen Preise
 
 Für Langstreckenflüge ist Google Flights die erste Adresse. Die Explore-Karte ist eines der besten Features überhaupt. Du gibst deinen Abflugort ein, lässt das Ziel offen und siehst auf einer Karte, welche Verbindungen gerade günstig sind. Ideal, wenn du flexibel bist und Inspiration suchst.
 
-Price Insights ist das zweite große Feature. Du siehst auf einen Blick, ob der aktuelle Preis "niedrig", "typisch" oder "hoch" für diese Route und diesen Zeitraum ist. Das hilft dir einzuschätzen, ob du jetzt buchen solltest oder noch abwarten kannst. Mehr dazu findest du auch in unserem Artikel über [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026).
+Price Insights ist das zweite große Feature. Du siehst auf einen Blick, ob der aktuelle Preis "niedrig", "typisch" oder "hoch" für diese Route und diesen Zeitraum ist. Das hilft dir einzuschätzen, ob du jetzt buchen solltest oder noch abwarten kannst. Mehr dazu findest du auch in unserem Artikel über [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026/).
 
 Für transatlantische Strecken, Asien-Flüge oder inneramerikanische Verbindungen deckt Google Flights fast alle relevanten Airlines ab. Der fehlende Ryanair-Index fällt dort kaum ins Gewicht.
 
@@ -40,7 +40,7 @@ Für Europa-Kurzstrecken ist Skyscanner oft unverzichtbar, weil es die einzige d
 
 Skyscanner hat eine besonders nützliche Funktion: den "Überall"-Modus. Du gibst dein Abflugdatum ein, lässt das Ziel offen und siehst, wohin Flüge gerade günstig sind. Das ist das Equivalent zur Google-Explore-Karte, aber mit Low-Cost-Carriern.
 
-Auf [Skyscanner](https://www.skyscanner.net) gibt es auch den Monats-View. Du siehst einen ganzen Monat auf einmal und erkennst, welche Reisetage günstiger sind. Sehr praktisch, wenn du flexible Daten hast. Der Artikel über den [Flexible-Dates-Flug-Hack](/blog/flexible-dates-flug-hack) zeigt, wie viel das bringen kann.
+Auf [Skyscanner](https://www.skyscanner.net) gibt es auch den Monats-View. Du siehst einen ganzen Monat auf einmal und erkennst, welche Reisetage günstiger sind. Sehr praktisch, wenn du flexible Daten hast. Der Artikel über den [Flexible-Dates-Flug-Hack](/blog/flexible-dates-flug-hack/) zeigt, wie viel das bringen kann.
 
 Beim Checkout immer aufmerksam sein. Skyscanner zeigt manchmal Preise von Drittanbietern (OTAs), die beim Checkout Buchungsgebühren addieren. Der angezeigte Preis ist nicht immer der Endpreis. Der einfachste Test: Wenn Skyscanner dich zu einer OTA weiterleitet, öffne kurz die Airline-Website direkt und prüf den Preis dort.
 
@@ -48,7 +48,7 @@ Beim Checkout immer aufmerksam sein. Skyscanner zeigt manchmal Preise von Dritta
 
 Kayak deckt ähnlich viele Airlines ab wie Skyscanner. Der echte Mehrwert liegt in zwei Features, die die anderen nicht haben.
 
-Das erste ist das Price Forecast Feature: kaufen oder warten? Kayak zeigt dir an, ob der Preis für deine Route in den nächsten Tagen voraussichtlich steigen oder fallen wird. Die Trefferquote ist nicht perfekt, aber als Entscheidungshilfe ist es nützlich, besonders wenn du noch etwas Zeit hast. Mehr zur optimalen Buchungszeit findest du in unserem Artikel [Wann Flüge buchen](/blog/wann-fluege-buchen).
+Das erste ist das Price Forecast Feature: kaufen oder warten? Kayak zeigt dir an, ob der Preis für deine Route in den nächsten Tagen voraussichtlich steigen oder fallen wird. Die Trefferquote ist nicht perfekt, aber als Entscheidungshilfe ist es nützlich, besonders wenn du noch etwas Zeit hast. Mehr zur optimalen Buchungszeit findest du in unserem Artikel [Wann Flüge buchen](/blog/wann-fluege-buchen/).
 
 Das zweite Feature sind Hacker Fares. Kayak kombiniert zwei separate One-Way-Tickets auf verschiedenen Airlines, die zusammen günstiger sind als ein Kombi-Ticket. Das kann erhebliche Ersparnisse bringen. Aber: Du bist dann verantwortlich, falls ein Anschluss verpasst wird. Kein automatischer Schutz durch die Airline. Für enge Verbindungen oder reiseunerfahrene Personen ist das Risiko höher.
 
@@ -68,7 +68,7 @@ Die kurze Antwort: Es gibt keine universell beste Option. Aber es gibt klare St�
 
 Direktbuchung bei der Airline immer nachprüfen. Nicht alle Airlines können in Suchmaschinen ihre besten Preise zeigen. Gelegentlich gibt es auf der Airline-Website exklusive Angebote, die keine Suchmaschine indexiert.
 
-Unsere gesammelten Spartipps findest du im Artikel [Günstig fliegen: Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps).
+Unsere gesammelten Spartipps findest du im Artikel [Günstig fliegen: Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps/).
 
 ---
 
@@ -91,6 +91,6 @@ Für Langstrecken und Interkontinentalflüge: Google Flights als Einstieg. Für 
 ---
 
 **Mehr lesen:**
-- [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026)
-- [Wann Flüge buchen: Die optimale Vorbuchweit](/blog/wann-fluege-buchen)
-- [Günstig fliegen: Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps)
+- [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026/)
+- [Wann Flüge buchen: Die optimale Vorbuchweit](/blog/wann-fluege-buchen/)
+- [Günstig fliegen: Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps/)

@@ -47,7 +47,7 @@ Ese es el techo. Lo que recibes realmente depende del valor demostrado del conte
 
 Para una maleta de vacaciones típica con ropa, entre 400 y 600 euros es realista si no había objetos caros individuales.
 
-Para protección adicional, consulta la guía de [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena).
+Para protección adicional, consulta la guía de [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/).
 
 ## ¿Cómo te proteges contra la pérdida de equipaje?
 
@@ -59,7 +59,7 @@ Prevenir es mejor que compensar.
 
 **Maleta distintiva:** Una pegatina llamativa o un color poco común ayuda. Las maletas negras idénticas a veces se las lleva otro pasajero por error.
 
-**Seguro de viaje o cobertura de tarjeta de crédito:** Muchas tarjetas premium (American Express Gold, Visa Infinite y otras) incluyen protección de equipaje como beneficio gratuito. Revisa tu tarjeta antes de contratar una póliza aparte. Más en la guía de [maleta de cabina: cómo hacer la maleta perfecta](/es/blog/maleta-cabina-sistema-empacar).
+**Seguro de viaje o cobertura de tarjeta de crédito:** Muchas tarjetas premium (American Express Gold, Visa Infinite y otras) incluyen protección de equipaje como beneficio gratuito. Revisa tu tarjeta antes de contratar una póliza aparte. Más en la guía de [maleta de cabina: cómo hacer la maleta perfecta](/es/blog/maleta-cabina-sistema-empacar/).
 
 ---
 
@@ -85,5 +85,5 @@ El seguro de equipaje de viaje cubre pérdida, robo y daños. El seguro médico 
 
 ## Más información
 
-- [Maleta de cabina: El sistema que funciona](/es/blog/maleta-cabina-sistema-empacar)
-- [Seguro de viaje: ¿Vale la pena contratarlo en 2026?](/es/blog/seguro-viaje-vale-la-pena)
+- [Maleta de cabina: El sistema que funciona](/es/blog/maleta-cabina-sistema-empacar/)
+- [Seguro de viaje: ¿Vale la pena contratarlo en 2026?](/es/blog/seguro-viaje-vale-la-pena/)

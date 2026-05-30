@@ -51,7 +51,7 @@ Hostels are the heart of the backpacker world. [Hostelworld](https://www.hostelw
 
 **Southeast Asia loop (45-90 days):** Bangkok, Chiang Mai, Pai, through Laos or Vietnam, Cambodia (Angkor Wat), back to Bangkok. The infrastructure is perfect for beginners: cheap, tourist-friendly, excellent hostel scene. Budget: €40-60 per day including accommodation.
 
-If you are planning Southeast Asia, our [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel) is a good next read.
+If you are planning Southeast Asia, our [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel/) is a good next read.
 
 **Balkans (21-30 days):** Ljubljana, Zagreb, Split, Dubrovnik, Kotor, Tirana, Skopje, Belgrade. Affordable, safe, culturally rich, English widely spoken. For Europeans, no flight needed.
 
@@ -65,7 +65,7 @@ Southeast Asia: €30-50/day. Western Europe: €50-80/day. Central America: €
 
 Budget hacks that genuinely work: local food stalls instead of tourist restaurants. Night trains instead of hotel plus ticket. Book international flights early, then stay flexible. Free walking tours exist in almost every major city.
 
-[Travel insurance for backpackers](/en/blog/travel-insurance-worth-it-2026) is essential, not optional. For 3 months of travel it costs €100-150 and saves you in case of lost luggage, hospitalization or trip cancellation.
+[Travel insurance for backpackers](/en/blog/travel-insurance-worth-it-2026/) is essential, not optional. For 3 months of travel it costs €100-150 and saves you in case of lost luggage, hospitalization or trip cancellation.
 
 Plan your backpacking route with [Zercy](https://www.zercy.app) and save all your stops in the [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -93,6 +93,6 @@ November to March: dry season in most areas, best conditions. April and May: ver
 
 ## Read more
 
-- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Southeast Asia Budget Travel: Tips and Routes](/en/blog/southeast-asia-budget-travel)
+- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Southeast Asia Budget Travel: Tips and Routes](/en/blog/southeast-asia-budget-travel/)

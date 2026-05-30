@@ -92,6 +92,6 @@ Genius ist keine Points-Währung, sondern direkte prozentuale Rabatte und Servic
 ---
 
 **Mehr lesen:**
-- [Günstig fliegen: Wann und wo du am meisten sparst](/blog/guenstig-fliegen-tipps)
-- [Booking.com Ferienwohnung oder Airbnb: Was ist besser?](/blog/booking-apartments-vs-airbnb)
-- [Mietwagen: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden)
+- [Günstig fliegen: Wann und wo du am meisten sparst](/blog/guenstig-fliegen-tipps/)
+- [Booking.com Ferienwohnung oder Airbnb: Was ist besser?](/blog/booking-apartments-vs-airbnb/)
+- [Mietwagen: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden/)

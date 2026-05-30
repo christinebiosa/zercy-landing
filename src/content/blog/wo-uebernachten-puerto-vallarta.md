@@ -65,7 +65,7 @@ Marina Vallarta liegt zwischen der Hotel Zone und dem Flughafen. Ein modernes Vi
 
 **Top-Empfehlungen:** Velas Vallarta (Suite-Konzept, All-Inclusive, direkter Strand), Villa del Palmar Beach Resort (familienfreundlich, mehrere Pools), Hotel Emporio (günstiger Einstieg in guter Lage).
 
-Lies dazu auch unseren [Hotel vs. Airbnb Vergleich](/blog/airbnb-vs-hotel-vergleich) wenn du zwischen Apartment und Hotel abwägst.
+Lies dazu auch unseren [Hotel vs. Airbnb Vergleich](/blog/airbnb-vs-hotel-vergleich/) wenn du zwischen Apartment und Hotel abwägst.
 
 ## Versalles: Für Foodies und Locals
 
@@ -77,7 +77,7 @@ Versalles ist das einzige Viertel in Puerto Vallarta, das kaum Touristen kennen.
 
 **Top-Tipp:** Die Francisco Villa Straße gilt als die Restaurant-Straße von Puerto Vallarta. Kein Touristenmenü, dafür wirkliche mexikanische Küche.
 
-Wenn du auch Mexiko City planst: Unser [Wo übernachten in Mexico City Guide](/blog/wo-uebernachten-mexico-city) hat die Stadtteile im Detail.
+Wenn du auch Mexiko City planst: Unser [Wo übernachten in Mexico City Guide](/blog/wo-uebernachten-mexico-city/) hat die Stadtteile im Detail.
 
 ## Nuevo Vallarta: Luxus 30 Minuten nördlich
 
@@ -124,6 +124,6 @@ Puerto Vallarta gilt als eines der sichersten Urlaubsziele Mexikos. Die Zona Rom
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Mexico City: Die besten Stadtteile 2026](/blog/wo-uebernachten-mexico-city)
-- [Wo übernachten in Cancún: Hotel Zone vs. El Centro](/blog/wo-uebernachten-cancun)
-- [Airbnb vs. Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
+- [Wo übernachten in Mexico City: Die besten Stadtteile 2026](/blog/wo-uebernachten-mexico-city/)
+- [Wo übernachten in Cancún: Hotel Zone vs. El Centro](/blog/wo-uebernachten-cancun/)
+- [Airbnb vs. Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich/)

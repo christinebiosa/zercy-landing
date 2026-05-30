@@ -85,6 +85,6 @@ Aguas termales (especialmente en Furnas en São Miguel), museos en Ponta Delgada
 
 ## Más artículos
 
-- [Portugal: La Ruta Completa](/es/blog/portugal-ruta-completa)
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Escandinavia: La Ruta Completa](/es/blog/escandinavia-ruta-completa)
+- [Portugal: La Ruta Completa](/es/blog/portugal-ruta-completa/)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Escandinavia: La Ruta Completa](/es/blog/escandinavia-ruta-completa/)

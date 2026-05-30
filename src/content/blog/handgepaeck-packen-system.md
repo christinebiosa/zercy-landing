@@ -28,7 +28,7 @@ Bevor du packst, musst du wissen, womit du fliegst. Die Unterschiede sind erhebl
 
 Die meisten Reisenden fahren gut mit einem Rucksack im 40-Liter-Bereich. Der passt in fast alle Gepäckfächer und hält sich an Ryanairs kostenloses Limit, wenn du ihn nicht aufbläst. Wer regelmäßig mit Low-Cost fliegt, sollte die [IATA-Handgepäckregeln](https://www.iata.org/en/programs/passenger/baggage/) kennen. Airlinesregeln können von dort abweichen.
 
-Mehr zum Thema [Handgepäck vs. aufgegebenes Gepäck](/blog/handgepaeck-vs-aufgegeben) zeigt, wann es sich lohnt, überhaupt darüber nachzudenken.
+Mehr zum Thema [Handgepäck vs. aufgegebenes Gepäck](/blog/handgepaeck-vs-aufgegeben/) zeigt, wann es sich lohnt, überhaupt darüber nachzudenken.
 
 ## Warum Packing Cubes den Unterschied machen
 
@@ -70,7 +70,7 @@ Wenn du einen Anzug oder ein formelles Kleid brauchst: Blazer um ein T-Shirt rol
 
 Was du weglässt: Das zweite Paar Sport-Leggings. Die Jeans "für alle Fälle". Den dicken Pullover. Der "nur-für-den-Fall"-Block.
 
-Einen guten Überblick über die Capsule-Wardrobe-Methode bietet der Artikel [Capsule Wardrobe für Handgepäck-Reisen](/blog/capsule-wardrobe-handgepaeck). Und wer sich fragt, ob Nur-Handgepäck wirklich immer funktioniert, findet die ehrliche Antwort in [Eine Woche, nur Handgepäck](/blog/nur-handgepaeck).
+Einen guten Überblick über die Capsule-Wardrobe-Methode bietet der Artikel [Capsule Wardrobe für Handgepäck-Reisen](/blog/capsule-wardrobe-handgepaeck/). Und wer sich fragt, ob Nur-Handgepäck wirklich immer funktioniert, findet die ehrliche Antwort in [Eine Woche, nur Handgepäck](/blog/nur-handgepaeck/).
 
 ## Wie gehst du mit Flüssigkeiten richtig um?
 
@@ -88,7 +88,7 @@ Aber der Clou liegt in den Alternativen:
 
 Was du am Zielort kaufst: große Flaschen Duschgel und Shampoo. Die sind in jedem Supermarkt günstig. Das spart dir die Nerven beim Check-in.
 
-Wenn du dich fragst, was am Gate wirklich gilt: Die offiziellen Regeln sind bei der [EU-Kommission zu Flüssigkeiten im Handgepäck](https://ec.europa.eu/transport/modes/air/security/aviation_security_en) einsehbar. Und der Artikel [Priority Boarding: Lohnt es sich?](/blog/priority-boarding-lohnt-sich) klärt, ob der Boarding-Aufpreis für dich Sinn macht.
+Wenn du dich fragst, was am Gate wirklich gilt: Die offiziellen Regeln sind bei der [EU-Kommission zu Flüssigkeiten im Handgepäck](https://ec.europa.eu/transport/modes/air/security/aviation_security_en) einsehbar. Und der Artikel [Priority Boarding: Lohnt es sich?](/blog/priority-boarding-lohnt-sich/) klärt, ob der Boarding-Aufpreis für dich Sinn macht.
 
 ## Was tun bei formellen Anlässen oder Grenzfällen?
 
@@ -145,6 +145,6 @@ Festes Shampoo, Deo-Sticks und Gesichtspflege in fester Form sparen den gesamten
 ---
 
 **Mehr lesen:**
-- [Eine Woche, nur Handgepäck: Was wirklich reinpasst](/blog/nur-handgepaeck)
-- [Capsule Wardrobe für Handgepäck-Reisen](/blog/capsule-wardrobe-handgepaeck)
-- [Priority Boarding: Lohnt es sich wirklich?](/blog/priority-boarding-lohnt-sich)
+- [Eine Woche, nur Handgepäck: Was wirklich reinpasst](/blog/nur-handgepaeck/)
+- [Capsule Wardrobe für Handgepäck-Reisen](/blog/capsule-wardrobe-handgepaeck/)
+- [Priority Boarding: Lohnt es sich wirklich?](/blog/priority-boarding-lohnt-sich/)

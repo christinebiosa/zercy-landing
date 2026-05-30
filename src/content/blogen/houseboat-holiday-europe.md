@@ -58,11 +58,11 @@ Small groups of friends with different preferences. The boat gives everyone thei
 
 Not ideal for everyone: if you need dense sightseeing you'll feel constrained. You arrive at two or three places per day. That's the deal.
 
-If slow travel appeals to you as a concept, a houseboat holiday is one of its purest expressions. More on that in [What Slow Travel Really Means](/en/blog/slow-travel-what-it-really-means).
+If slow travel appeals to you as a concept, a houseboat holiday is one of its purest expressions. More on that in [What Slow Travel Really Means](/en/blog/slow-travel-what-it-really-means/).
 
-For another alternative to the standard hotel formula: [Campervan Travel in Europe](/en/blog/campervan-europe-guide) follows a similar logic. Your own sleeping space, your own route, your own pace.
+For another alternative to the standard hotel formula: [Campervan Travel in Europe](/en/blog/campervan-europe-guide/) follows a similar logic. Your own sleeping space, your own route, your own pace.
 
-And if you want to take water travel further: [Ferry Travel in Europe](/en/blog/ferry-travel-europe-guide) and [River Cruises in Europe](/en/blog/river-cruise-europe-guide) are related formats with very different characters.
+And if you want to take water travel further: [Ferry Travel in Europe](/en/blog/ferry-travel-europe-guide/) and [River Cruises in Europe](/en/blog/river-cruise-europe-guide/) are related formats with very different characters.
 
 ---
 
@@ -88,6 +88,6 @@ May, June, and September. High season July to August is more expensive, busier, 
 
 ## Read more
 
-- [Campervan Travel in Europe](/en/blog/campervan-europe-guide)
-- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means)
-- [River Cruise Europe Guide](/en/blog/river-cruise-europe-guide)
+- [Campervan Travel in Europe](/en/blog/campervan-europe-guide/)
+- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means/)
+- [River Cruise Europe Guide](/en/blog/river-cruise-europe-guide/)

@@ -49,7 +49,7 @@ The Baltic Triangle sits south of the city centre and was long a forgotten indus
 
 **Top picks:** Staycity Aparthotel Liverpool (well-equipped apartments, ideal for longer stays), Hope Street Hotel (boutique in a historic building on the border with the Georgian Quarter, known for excellent food).
 
-For a similar creative-quarter vibe in the UK, read our [Edinburgh neighborhood guide](/en/blog/where-to-stay-edinburgh). Scotland's most vibrant city has comparable characteristics to Liverpool's Baltic Triangle.
+For a similar creative-quarter vibe in the UK, read our [Edinburgh neighborhood guide](/en/blog/where-to-stay-edinburgh/). Scotland's most vibrant city has comparable characteristics to Liverpool's Baltic Triangle.
 
 ## Ropewalks: Nightlife and Energy
 
@@ -73,7 +73,7 @@ The Georgian Quarter is Liverpool's most elegant residential area. Uniform 18th-
 
 **Top picks:** Aloft Liverpool (modern city hotel, well positioned between the Georgian Quarter and the city centre, lively bar scene in-house).
 
-Similar Georgian architecture and pub culture in another Irish Sea city: our [Dublin neighborhood guide](/en/blog/where-to-stay-dublin) covers comparable territory.
+Similar Georgian architecture and pub culture in another Irish Sea city: our [Dublin neighborhood guide](/en/blog/where-to-stay-dublin/) covers comparable territory.
 
 ## When Is the Best Time to Visit Liverpool?
 
@@ -121,5 +121,5 @@ Waterfront or city centre, close to Albert Dock. Titanic Hotel Liverpool or 30 J
 ---
 
 **Read more:**
-- [Where to Stay in London: Best Neighborhoods](/en/blog/where-to-stay-london)
-- [Where to Stay in Dublin: Neighborhood Guide 2026](/en/blog/where-to-stay-dublin)
+- [Where to Stay in London: Best Neighborhoods](/en/blog/where-to-stay-london/)
+- [Where to Stay in Dublin: Neighborhood Guide 2026](/en/blog/where-to-stay-dublin/)

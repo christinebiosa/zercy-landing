@@ -33,7 +33,7 @@ Midday: Floating Markets. The most famous is Damnoen Saduak (90 minutes from Ban
 
 Evening: Chinatown (Yaowarat Road). This is Bangkok's top culinary evening destination. The street comes alive after dark. Grilled lobster stalls, dim sum kitchens, rose water ice cream, fresh seafood on charcoal carts. Budget for a proper evening: 200 to 400 baht.
 
-If Bangkok is part of a longer Southeast Asia trip, the [where to stay in Bangkok guide](/en/blog/where-to-stay-bangkok) breaks down the best neighborhoods by travel style.
+If Bangkok is part of a longer Southeast Asia trip, the [where to stay in Bangkok guide](/en/blog/where-to-stay-bangkok/) breaks down the best neighborhoods by travel style.
 
 ## What does Bangkok actually cost?
 
@@ -47,7 +47,7 @@ Temple entrance fees add up. Budget around 1,000 baht for three days of temple-h
 
 The [Tourism Authority of Thailand](https://www.tourismthailand.org) publishes current entrance fees and seasonal opening hours for all major sights.
 
-For the broader regional context, the [stopover tourism guide](/en/blog/stopover-tourism-guide) explains how Bangkok works as a layover base for exploring the rest of Thailand or Southeast Asia.
+For the broader regional context, the [stopover tourism guide](/en/blog/stopover-tourism-guide/) explains how Bangkok works as a layover base for exploring the rest of Thailand or Southeast Asia.
 
 ## Day 3: Rooftop Bar, Jim Thompson House, and Khao San Road
 
@@ -87,6 +87,6 @@ Sukhumvit is central, international, lots of restaurants and nightlife. Silom is
 
 Read more:
 
-- [Where to Stay in Bangkok: Neighborhoods Compared](/en/blog/where-to-stay-bangkok)
-- [Stopover Tourism: Make the Most of a Layover](/en/blog/stopover-tourism-guide)
-- [Where to Stay in Singapore: Neighborhoods and Hotels](/en/blog/where-to-stay-singapore)
+- [Where to Stay in Bangkok: Neighborhoods Compared](/en/blog/where-to-stay-bangkok/)
+- [Stopover Tourism: Make the Most of a Layover](/en/blog/stopover-tourism-guide/)
+- [Where to Stay in Singapore: Neighborhoods and Hotels](/en/blog/where-to-stay-singapore/)

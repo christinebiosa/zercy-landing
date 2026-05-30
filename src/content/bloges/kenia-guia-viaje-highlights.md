@@ -88,6 +88,6 @@ La combinación clásica es Masai Mara más un día en Nairobi. Para 7 noches, u
 ---
 
 **Más artículos:**
-- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia)
-- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
-- [Lista de equipaje para viajes: lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial)
+- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia/)
+- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Lista de equipaje para viajes: lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial/)

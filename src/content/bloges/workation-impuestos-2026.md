@@ -69,6 +69,6 @@ Si eres empleado de una empresa española y trabajas desde otro país de la UE, 
 ---
 
 **Más para leer:**
-- [Sabbatical: la guía para planificarlo bien](/es/blog/sabbatical-guia-planificacion)
-- [Slow travel: qué significa y por qué cada vez más viajeros lo eligen](/es/blog/slow-travel-que-significa)
-- [Ciberseguridad para viajeros: cómo protegerte en el exterior](/es/blog/ciberseguridad-viajeros)
+- [Sabbatical: la guía para planificarlo bien](/es/blog/sabbatical-guia-planificacion/)
+- [Slow travel: qué significa y por qué cada vez más viajeros lo eligen](/es/blog/slow-travel-que-significa/)
+- [Ciberseguridad para viajeros: cómo protegerte en el exterior](/es/blog/ciberseguridad-viajeros/)

@@ -34,7 +34,7 @@ Wenn du deine gesamte Reise auf einer einzigen Buchung (einer PNR) gebucht hast,
 
 Anders sieht es aus, wenn du zwei separate Tickets gebucht hast. Dann bist du auf dich gestellt. Das Gepäck musst du eventuell selbst abholen und neu aufgeben. Und wenn du den Anschluss verpasst, zahlt niemand dein neues Ticket außer dir. Günstige Kombinations-Tickets aus verschiedenen Airlines klingen verlockend, aber genau hier liegt das Risiko.
 
-[Lohnt sich ein Direktflug wirklich?](/blog/direktflug-vs-umsteigen) Die Antwort hängt oft genau von diesen Faktoren ab.
+[Lohnt sich ein Direktflug wirklich?](/blog/direktflug-vs-umsteigen/) Die Antwort hängt oft genau von diesen Faktoren ab.
 
 ---
 
@@ -46,7 +46,7 @@ Beim Aussteigen: Geh direkt zum Gate-Agent. Nicht zur allgemeinen Information, n
 
 Wenn das nichts bringt: Sofort zum Airline-Umbuchungsschalter. Dort werden Passagiere mit verpassten Anschlüssen neu eingeplant. Je früher du dort bist, desto bessere Optionen bekommst du. Wer zu lange wartet, landet auf einer vollen Maschine am nächsten Morgen.
 
-Deine Rechte kennen hilft auch. Bei EU-Flügen oder Flügen in die EU greift die EU-Fluggastrechte-Verordnung EU261. [Was dir bei Verspätung und verpasstem Anschluss zusteht](/blog/flugverspaetung-entschaedigung-eu261) erklärt das genau.
+Deine Rechte kennen hilft auch. Bei EU-Flügen oder Flügen in die EU greift die EU-Fluggastrechte-Verordnung EU261. [Was dir bei Verspätung und verpasstem Anschluss zusteht](/blog/flugverspaetung-entschaedigung-eu261/) erklärt das genau.
 
 ---
 
@@ -56,7 +56,7 @@ Starte vor dem Abflug Google Flights oder Flightradar24 und suche nach deinem Er
 
 Schau auf Google Flights direkt, ob es Alternativen für deine Anschlussverbindung gibt. Notiere dir Flugnummern und Abflugzeiten. Manchmal gibt es eine spätere Option desselben Tages, die noch Plätze hat. Wenn du beim Umbuchungsschalter ankommst und direkt sagst "ich möchte auf Flug LH407 um 19:30 umgebucht werden", geht es schneller als "ich weiß nicht was geht".
 
-Flugtracking lohnt sich auch bei kurzen Layovers an Flughäfen wie Frankfurt oder Amsterdam. Manchmal wechselt ein Gate kurzfristig. [Alle Tricks für cleveres Reisen am Flughafen](/blog/airport-hacks) findest du gesammelt in diesem Artikel.
+Flugtracking lohnt sich auch bei kurzen Layovers an Flughäfen wie Frankfurt oder Amsterdam. Manchmal wechselt ein Gate kurzfristig. [Alle Tricks für cleveres Reisen am Flughafen](/blog/airport-hacks/) findest du gesammelt in diesem Artikel.
 
 Und wenn du deine nächste Reise planst und unsicher bist, wie viel Umsteigezeit du einplanen solltest: [Zercy](https://www.zercy.app/logbook) analysiert deine Route und sagt dir, ob die Verbindung realistisch ist.
 
@@ -80,6 +80,6 @@ Wenn alles auf einer Buchung steht, wird das Gepäck durchgecheckt. Du musst es 
 
 ## Mehr zum Thema
 
-- [Direktflug vs. Umsteigen: Was lohnt sich wirklich?](/blog/direktflug-vs-umsteigen)
-- [EU261: Deine Rechte bei Flugverspätung und verpasstem Anschluss](/blog/flugverspaetung-entschaedigung-eu261)
-- [Airport Hacks: So überlebst du jeden Flughafen](/blog/airport-hacks)
+- [Direktflug vs. Umsteigen: Was lohnt sich wirklich?](/blog/direktflug-vs-umsteigen/)
+- [EU261: Deine Rechte bei Flugverspätung und verpasstem Anschluss](/blog/flugverspaetung-entschaedigung-eu261/)
+- [Airport Hacks: So überlebst du jeden Flughafen](/blog/airport-hacks/)

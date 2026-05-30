@@ -53,7 +53,7 @@ Graz funciona bien en todas las estaciones, pero mayo y junio son los meses de r
 
 **Julio-agosto:** Calor (hasta 35°C), el Altstadt se llena. Hoteles entre un 20-30% más caros.
 
-**Primavera y otoño:** La mejor combinación de tiempo, eventos y precios. Graz es además un punto de partida ideal para [una ruta por los Balcanes](/es/blog/balcanes-road-trip-ruta) hacia Eslovenia o Croacia.
+**Primavera y otoño:** La mejor combinación de tiempo, eventos y precios. Graz es además un punto de partida ideal para [una ruta por los Balcanes](/es/blog/balcanes-road-trip-ruta/) hacia Eslovenia o Croacia.
 
 ## Lend: El Graz creativo
 
@@ -75,7 +75,7 @@ Entre Geidorf y el Altstadt. El Stadtpark está cerca, los tranvías te llevan a
 
 **Mejores opciones:** Schlossberg Hotel (vistas panorámicas del Altstadt), Hotel Steirerhof (estilo estirio tradicional), Aparthotel St. Leonhard.
 
-Graz también es una excelente base para [excursiones a Eslovenia](/es/blog/eslovenia-secreto-verde-2026). Liubliana queda a solo 90 minutos en tren o coche.
+Graz también es una excelente base para [excursiones a Eslovenia](/es/blog/eslovenia-secreto-verde-2026/). Liubliana queda a solo 90 minutos en tren o coche.
 
 ## ¿Dónde deberías reservar al final?
 
@@ -87,7 +87,7 @@ Para Graz, [Booking.com](https://www.booking.com) es la plataforma más útil:
 - Cancelación gratuita como norma, útil si los planes cambian
 - Precios finales claros incluyendo tasa turística (1,50 EUR por noche)
 
-Para [Viena](/es/blog/donde-alojarse-viena) o [Salzburgo](/es/blog/donde-alojarse-salzburgo), la misma lógica aplica.
+Para [Viena](/es/blog/donde-alojarse-viena/) o [Salzburgo](/es/blog/donde-alojarse-salzburgo/), la misma lógica aplica.
 
 ---
 
@@ -114,6 +114,6 @@ El reloj del Schlossberg con vistas sobre los tejados, el Kunsthaus "Friendly Al
 ---
 
 ## Más artículos
-- [Dónde alojarse en Viena: Los mejores barrios](/es/blog/donde-alojarse-viena)
-- [Dónde alojarse en Salzburgo: ¿Casco histórico o más allá?](/es/blog/donde-alojarse-salzburgo)
-- [Eslovenia 2026: El secreto verde de Europa](/es/blog/eslovenia-secreto-verde-2026)
+- [Dónde alojarse en Viena: Los mejores barrios](/es/blog/donde-alojarse-viena/)
+- [Dónde alojarse en Salzburgo: ¿Casco histórico o más allá?](/es/blog/donde-alojarse-salzburgo/)
+- [Eslovenia 2026: El secreto verde de Europa](/es/blog/eslovenia-secreto-verde-2026/)

@@ -47,7 +47,7 @@ Hotels in Wrzeszcz sind 20 bis 30 Prozent günstiger als in der Altstadt. Für L
 - **Aparthotel Neptun Wrzeszcz:** Serviced Apartments, ideal für 3+ Nächte. Küche im Zimmer, Wohnflair.
 - **Diverse Gästehäuser:** Booking.com zeigt Dutzende private Unterkünfte und kleine B&Bs im Viertel.
 
-Wer Danzig historisch durchleuchten will und Osteuropa schätzt, findet in unserem [Osteuropa-Budget-Reiseguide](/blog/guenstig-reisen-osteuropa-guide) praktische Tipps zu Preisen und Reiserouten.
+Wer Danzig historisch durchleuchten will und Osteuropa schätzt, findet in unserem [Osteuropa-Budget-Reiseguide](/blog/guenstig-reisen-osteuropa-guide/) praktische Tipps zu Preisen und Reiserouten.
 
 ## Wann ist die beste Reisezeit für Danzig?
 
@@ -95,7 +95,7 @@ Für **Geschichte und Lage:** Główne Miasto. Für **Authentizität und Preis:*
 
 Danzig ist günstiger als Prag oder Krakau, und die Preise für Hotels liegen selbst in der Altstadt unter westeuropäischem Niveau. Ein solides Boutique-Hotel in Główne Miasto für 120 Euro, ein exzellentes Abendessen für 15 Euro.
 
-Wer mehr polnische Städte plant, findet in unserem [Polen-Rundreise-Artikel](/blog/polen-rundreise-route) eine vollständige Route mit Warschau, Krakau und Danzig. Und wer danach weiter nordwärts will, zeigt unser Artikel über [Wo übernachten in Tallinn](/blog/wo-uebernachten-tallinn) die estnische Alternative.
+Wer mehr polnische Städte plant, findet in unserem [Polen-Rundreise-Artikel](/blog/polen-rundreise-route/) eine vollständige Route mit Warschau, Krakau und Danzig. Und wer danach weiter nordwärts will, zeigt unser Artikel über [Wo übernachten in Tallinn](/blog/wo-uebernachten-tallinn/) die estnische Alternative.
 
 Sag Zercy, was du suchst. Du bekommst konkrete Hotel-Vorschläge für das Danziger Viertel, das zu deinem Reisestil passt. Speichere die Shortlist im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen nichts vergisst.
 
@@ -122,6 +122,6 @@ Danzig war für Jahrhunderte eine Freie Stadt mit hanseatischer Prägung. Hier b
 ---
 
 **Mehr lesen:**
-- [Polen Rundreise Route: Warschau, Krakau, Danzig](/blog/polen-rundreise-route)
-- [Günstig Reisen in Osteuropa: Der ehrliche Guide](/blog/guenstig-reisen-osteuropa-guide)
-- [Wo übernachten in Tallinn: Die besten Viertel](/blog/wo-uebernachten-tallinn)
+- [Polen Rundreise Route: Warschau, Krakau, Danzig](/blog/polen-rundreise-route/)
+- [Günstig Reisen in Osteuropa: Der ehrliche Guide](/blog/guenstig-reisen-osteuropa-guide/)
+- [Wo übernachten in Tallinn: Die besten Viertel](/blog/wo-uebernachten-tallinn/)

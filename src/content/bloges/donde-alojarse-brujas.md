@@ -71,7 +71,7 @@ Los hoteles fuera del anillo histórico son un 30-50% más baratos y muchos tien
 
 Atención: Brujas está extremadamente concurrida los fines de semana. Entre semana es más tranquila, más agradable y un 20-30% más barata.
 
-Para más información sobre Bélgica: [Dónde alojarse en Bruselas](/es/blog/donde-alojarse-bruselas). Para Europa: [Mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa).
+Para más información sobre Bélgica: [Dónde alojarse en Bruselas](/es/blog/donde-alojarse-bruselas/). Para Europa: [Mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa/).
 
 ---
 
@@ -99,6 +99,6 @@ Unos 12 euros por persona para un recorrido de 30 minutos. Los puntos de embarqu
 
 ## Más artículos
 
-- [Dónde alojarse en Bruselas: Los mejores barrios](/es/blog/donde-alojarse-bruselas)
-- [Mejores destinos de primavera en Europa 2026](/es/blog/mejores-destinos-primavera-europa)
-- [Las mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026)
+- [Dónde alojarse en Bruselas: Los mejores barrios](/es/blog/donde-alojarse-bruselas/)
+- [Mejores destinos de primavera en Europa 2026](/es/blog/mejores-destinos-primavera-europa/)
+- [Las mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)

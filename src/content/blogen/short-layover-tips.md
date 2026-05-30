@@ -34,7 +34,7 @@ If you've booked your entire journey on a single ticket (one PNR), the airline a
 
 It's a different story if you've booked two separate tickets. Then you're on your own. You may need to collect your bag and re-check it yourself. And if you miss the connection, nobody pays for your new ticket except you. Cheap self-built itineraries combining two airlines can look attractive on paper — but this is exactly where the risk lives.
 
-[Is a direct flight actually worth it?](/en/blog/direct-flight-vs-connecting) The answer often comes down to exactly these factors.
+[Is a direct flight actually worth it?](/en/blog/direct-flight-vs-connecting/) The answer often comes down to exactly these factors.
 
 ---
 
@@ -46,7 +46,7 @@ When you deplane: go straight to the gate agent. Not to general information, not
 
 If that doesn't work: get to the airline's rebooking counter immediately. That's where passengers with missed connections get rescheduled. The earlier you arrive, the better your options. Wait too long and you'll end up on a packed flight the next morning.
 
-Knowing your rights helps too. For EU flights or flights into the EU, Regulation EU261 applies. [What you're entitled to when a delay causes a missed connection](/en/blog/flight-delay-compensation-eu261) breaks it all down.
+Knowing your rights helps too. For EU flights or flights into the EU, Regulation EU261 applies. [What you're entitled to when a delay causes a missed connection](/en/blog/flight-delay-compensation-eu261/) breaks it all down.
 
 ---
 
@@ -56,7 +56,7 @@ Before departure, open Google Flights or Flightradar24 and search for your first
 
 Check Google Flights directly for alternatives on your onward route. Write down flight numbers and departure times. Sometimes there's a later option the same day that still has seats. When you arrive at the rebooking counter and immediately say "I'd like to be moved to flight LH407 at 19:30", things move much faster than "I don't know what's available."
 
-Flight tracking pays off at airports like Frankfurt or Amsterdam too. Gates can change last-minute. [Every airport hack you need for stress-free travel](/en/blog/airport-hacks) is collected in that article.
+Flight tracking pays off at airports like Frankfurt or Amsterdam too. Gates can change last-minute. [Every airport hack you need for stress-free travel](/en/blog/airport-hacks/) is collected in that article.
 
 And if you're planning your next trip and aren't sure how much connection time to build in: [Zercy](https://www.zercy.app/logbook) analyzes your route and tells you whether the connection is realistic.
 
@@ -80,6 +80,6 @@ If everything is on one booking, your bag is checked through — you don't need 
 
 ## Read More
 
-- [Direct Flight vs. Connecting Flight: What's Actually Worth It?](/en/blog/direct-flight-vs-connecting)
-- [EU261: Your Rights When a Delay Causes a Missed Connection](/en/blog/flight-delay-compensation-eu261)
-- [Airport Hacks: How to Survive Any Airport](/en/blog/airport-hacks)
+- [Direct Flight vs. Connecting Flight: What's Actually Worth It?](/en/blog/direct-flight-vs-connecting/)
+- [EU261: Your Rights When a Delay Causes a Missed Connection](/en/blog/flight-delay-compensation-eu261/)
+- [Airport Hacks: How to Survive Any Airport](/en/blog/airport-hacks/)

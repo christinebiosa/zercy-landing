@@ -63,7 +63,7 @@ Sudeste Asiático: €30-50/día. Europa Occidental: €50-80/día. Centroaméri
 
 Trucos de presupuesto que realmente funcionan: puestos de comida local en lugar de restaurantes turísticos. Trenes nocturnos en lugar de hotel más tiquete. Reservar vuelos internacionales con anticipación, luego mantener flexibilidad. Free walking tours en casi todas las ciudades principales.
 
-El [seguro de viaje para mochileros](/es/blog/seguro-viaje-vale-la-pena) es esencial, no opcional. Para 3 meses de viaje cuesta €100-150 y te salva en caso de pérdida de equipaje, hospitalización o cancelación.
+El [seguro de viaje para mochileros](/es/blog/seguro-viaje-vale-la-pena/) es esencial, no opcional. Para 3 meses de viaje cuesta €100-150 y te salva en caso de pérdida de equipaje, hospitalización o cancelación.
 
 Planifica tu ruta mochilera con [Zercy](https://www.zercy.app) y guarda todas tus paradas en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -91,6 +91,6 @@ De noviembre a marzo: temporada seca en la mayoría de áreas, mejores condicion
 
 ## Más artículos
 
-- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial)
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Sudeste Asiático: Viaje Económico, Rutas y Consejos](/es/blog/sudeste-asiatico-viaje-economico)
+- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial/)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Sudeste Asiático: Viaje Económico, Rutas y Consejos](/es/blog/sudeste-asiatico-viaje-economico/)

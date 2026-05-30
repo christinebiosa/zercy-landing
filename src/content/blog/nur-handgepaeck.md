@@ -76,7 +76,7 @@ Maximal 100ml pro Behälter, alles in einem transparenten 1-Liter-Beutel. Das ke
 
 Was viele nicht wissen: Es gibt winzige, nachfüllbare Reisebehälter für 5–10 Euro das Set. Shampoo, Conditioner, Duschgel, Sonnencreme — alles umfüllen in die kleinen Behälter. Das reicht für eine Woche locker.
 
-Mit einem gut gepackten Rucksack läuft auch die Sicherheitskontrolle besser — mehr Tipps dazu in unserem Artikel [7 Flughafen-Tricks](/blog/airport-hacks).
+Mit einem gut gepackten Rucksack läuft auch die Sicherheitskontrolle besser — mehr Tipps dazu in unserem Artikel [7 Flughafen-Tricks](/blog/airport-hacks/).
 
 ## Welche Rucksäcke wirklich funktionieren
 
@@ -118,4 +118,4 @@ Pack früher. Nicht am Abend vorher, sondern 2–3 Tage vorher. Was du vermissen
 
 Ja, aber mit Anpassungen. Für 2–3 Wochen oder eine Weltreise: Entweder strategisch unterwegs waschen (Waschsalon alle 5–7 Tage), oder nach 1–2 Wochen Kleidung kaufen und zuhause lassen. Viele Langzeitreisende machen genau das — bewusst weniger besitzen, dafür freier sein.
 
-**Mehr lesen:** [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks) · [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps) · [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check)
+**Mehr lesen:** [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks/) · [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps/) · [Mietwagen-Check: 10 Dinge vor der Abfahrt](/blog/mietwagen-check/)

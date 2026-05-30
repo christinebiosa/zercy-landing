@@ -96,6 +96,6 @@ Harbour Bridge Climb (ca. 300 AUD) bietet einen einmaligen Ausblick. Opera House
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Los Angeles: Die 5 Stadtteile](/blog/wo-uebernachten-los-angeles)
-- [Wo übernachten in Miami: Beach oder Downtown?](/blog/wo-uebernachten-miami)
-- [Sabbatical planen: Wie du eine Auszeit organisierst](/blog/sabbatical-planen-guide)
+- [Wo übernachten in Los Angeles: Die 5 Stadtteile](/blog/wo-uebernachten-los-angeles/)
+- [Wo übernachten in Miami: Beach oder Downtown?](/blog/wo-uebernachten-miami/)
+- [Sabbatical planen: Wie du eine Auszeit organisierst](/blog/sabbatical-planen-guide/)

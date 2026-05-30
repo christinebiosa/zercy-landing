@@ -28,7 +28,7 @@ Three types of stopovers exist.
 
 Six top stopover cities for 2026.
 
-**Reykjavík (Icelandair).** Icelandair offers free stopover up to 7 days between Europe and North America. You see Reykjavík plus Golden Circle without extra cost. See our [Iceland travel guide](/en/blog/iceland-travel-guide).
+**Reykjavík (Icelandair).** Icelandair offers free stopover up to 7 days between Europe and North America. You see Reykjavík plus Golden Circle without extra cost. See our [Iceland travel guide](/en/blog/iceland-travel-guide/).
 
 **Singapore.** With Singapore Airlines: free stopover up to 96 hours with premium hotel included. Plus free city tour. One of the world's best stopover programs.
 
@@ -36,7 +36,7 @@ Six top stopover cities for 2026.
 
 **Istanbul (Turkish Airlines).** "TourIstanbul": free city tour with bus and guide for layovers over 6 hours. Plus hotel night for $40-55 with stopovers over 20 hours.
 
-**Lisbon (TAP Portugal).** Free stopover up to 5 days between North America and Europe. Lisbon plus Sintra plus Cascais without extra cost. See our [Lisbon guide](/en/blog/lisbon-beyond-the-tourist-trail).
+**Lisbon (TAP Portugal).** Free stopover up to 5 days between North America and Europe. Lisbon plus Sintra plus Cascais without extra cost. See our [Lisbon guide](/en/blog/lisbon-beyond-the-tourist-trail/).
 
 ## How do you book stopovers correctly?
 
@@ -48,7 +48,7 @@ A pragmatic 4-step method.
 
 **Step 3: Book at least 24 hours of stopover.** Anything under 12 hours is stress, anything under 8 hours is airport sitting. Ideally 36-72 hours for real experience.
 
-**Step 4: Sort visa beforehand.** Some stopover countries grant transit visas, others don't. Singapore 96 hours visa-free, Iceland and Helsinki visa-free for EU and most Western passport holders. See our [hidden city ticketing guide](/en/blog/hidden-city-ticketing-explained) for similar tricks.
+**Step 4: Sort visa beforehand.** Some stopover countries grant transit visas, others don't. Singapore 96 hours visa-free, Iceland and Helsinki visa-free for EU and most Western passport holders. See our [hidden city ticketing guide](/en/blog/hidden-city-ticketing-explained/) for similar tricks.
 
 ## What does it really cost?
 
@@ -60,7 +60,7 @@ An honest cost comparison.
 
 Difference: $210 for one additional destination. Per day in Singapore the trip costs you $105 extra. Hard to beat if you count it as a trip.
 
-If you combine this with rental cars, see our [rental car checklist](/en/blog/rental-car-checklist). In some stopover cities a rental isn't needed (Singapore, Helsinki), in others very useful (Reykjavík, Iceland surroundings).
+If you combine this with rental cars, see our [rental car checklist](/en/blog/rental-car-checklist/). In some stopover cities a rental isn't needed (Singapore, Helsinki), in others very useful (Reykjavík, Iceland surroundings).
 
 The [Skytrax World Airline Awards](https://www.worldairlineawards.com/) include rankings of stopover programs, updated annually with traveler feedback.
 
@@ -89,6 +89,6 @@ Usually $60-250 more than a direct flight. Plus hotel and meals. Total about $20
 ---
 
 **Read more:**
-- [Hidden city ticketing: how the sneaky trick works](/en/blog/hidden-city-ticketing-explained)
-- [Iceland travel guide: best routes and stops](/en/blog/iceland-travel-guide)
-- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail)
+- [Hidden city ticketing: how the sneaky trick works](/en/blog/hidden-city-ticketing-explained/)
+- [Iceland travel guide: best routes and stops](/en/blog/iceland-travel-guide/)
+- [Lisbon beyond the tourist trail](/en/blog/lisbon-beyond-the-tourist-trail/)

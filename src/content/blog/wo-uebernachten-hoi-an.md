@@ -53,7 +53,7 @@ Die offizielle [Hoi An World Heritage Organisation](https://hoianworldheritage.o
 
 Februar bis April ist ideal: trocken, angenehme Temperaturen um 25 Grad, kaum Regen. Oktober und November ist Regenzeit. Hoi An überschwemmt regelmäßig, besonders die tiefer gelegene Altstadt. Dezember bis Januar ist ebenfalls trocken, aber die Hochsaison mit den höchsten Preisen. Wer flexibel ist, kommt am besten im März.
 
-Kombinationen lohnen sich: Hoi An liegt zwischen Da Nang (Flughafen, 30 Minuten) und Hue (2 Stunden Bus). Lies dazu unseren [Vietnam 2-Wochen-Route-Guide](/blog/vietnam-2-wochen-route) für die beste Reiseroute durch Zentralvietnam.
+Kombinationen lohnen sich: Hoi An liegt zwischen Da Nang (Flughafen, 30 Minuten) und Hue (2 Stunden Bus). Lies dazu unseren [Vietnam 2-Wochen-Route-Guide](/blog/vietnam-2-wochen-route/) für die beste Reiseroute durch Zentralvietnam.
 
 ## An Bang Beach: Strand plus Altstadt
 
@@ -75,7 +75,7 @@ Wer den Schneider-Erlebnis in Hoi An ausprobieren will: In der Altstadt gibt es 
 
 **Cam Thanh** liegt Richtung Westen, Reisfelder ringsum. Eco-Lodges und Bambushütten, Ruhestimmung. Das Korbboot-Erlebnis (Coconut Basket Boats) ist hier authentischer und günstiger als in der Altstadt. **Top-Picks:** Hoi An Eco Lodge (Bambus-Architektur, Reisfeld-Blick), An Bang Eco Lodge (Budget-Eco, Fahrräder inklusive).
 
-Wer nach Hoi An noch weiter Richtung Süden reist: [Wo übernachten in Ho Chi Minh Stadt](/blog/wo-uebernachten-ho-chi-minh-stadt) und [Wo übernachten in Hanoi](/blog/wo-uebernachten-hanoi) sind die nächsten logischen Stationen.
+Wer nach Hoi An noch weiter Richtung Süden reist: [Wo übernachten in Ho Chi Minh Stadt](/blog/wo-uebernachten-ho-chi-minh-stadt/) und [Wo übernachten in Hanoi](/blog/wo-uebernachten-hanoi/) sind die nächsten logischen Stationen.
 
 ## Wo solltest du am Ende buchen?
 
@@ -113,6 +113,6 @@ Das Laternenfest (Hoi An Lantern Festival) findet jeden Monat zum Neumond statt,
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Hanoi: Die 5 Stadtteile](/blog/wo-uebernachten-hanoi)
-- [Vietnam 2-Wochen-Route: Die beste Reiseroute](/blog/vietnam-2-wochen-route)
-- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok)
+- [Wo übernachten in Hanoi: Die 5 Stadtteile](/blog/wo-uebernachten-hanoi/)
+- [Vietnam 2-Wochen-Route: Die beste Reiseroute](/blog/vietnam-2-wochen-route/)
+- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok/)

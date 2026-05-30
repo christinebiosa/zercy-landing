@@ -47,7 +47,7 @@ Georgetown has no metro stop. That keeps it quieter, slower and more beautiful. 
 
 **Top picks:** The Graham Georgetown (classic boutique, rooftop terrace), Rosewood Washington D.C. (luxury flagship of the neighborhood), Georgetown Suites (well-suited for longer stays and families).
 
-Our [New York City neighborhood guide](/en/blog/where-to-stay-new-york) covers a similar boutique-district logic for another major US city.
+Our [New York City neighborhood guide](/en/blog/where-to-stay-new-york/) covers a similar boutique-district logic for another major US city.
 
 ## When Is the Best Time to Visit Washington D.C.?
 
@@ -63,7 +63,7 @@ Dupont Circle is the liveliest residential neighborhood in the city. Embassies s
 
 **Top picks:** Hotel Palomar Washington D.C. (Kimpton boutique, strong design), Carlyle Georgetown (well-connected, reliable), Dupont Circle Hotel (classic neighborhood choice).
 
-For the same neighborhood-logic applied to the US South: [Where to Stay in Miami](/en/blog/where-to-stay-miami) shows how drastically price and vibe shift between areas in one city.
+For the same neighborhood-logic applied to the US South: [Where to Stay in Miami](/en/blog/where-to-stay-miami/) shows how drastically price and vibe shift between areas in one city.
 
 ## Adams Morgan: Affordable and Alive
 
@@ -96,7 +96,7 @@ For Washington D.C., [Booking.com](https://www.booking.com) is well stocked:
 
 Booking direct at Georgetown boutiques can be worthwhile if you want upgrade treatment or added perks. For everything else: early booking matters more in D.C. than in most cities. It is an event capital: inaugurations, the Cherry Blossom Festival, national marathons, congressional sessions. Around those dates, availability drops and prices spike sharply.
 
-For a comparable US city breakdown: [Where to Stay in Chicago](/en/blog/where-to-stay-chicago) covers the same five-neighborhood logic for the Midwest's biggest city.
+For a comparable US city breakdown: [Where to Stay in Chicago](/en/blog/where-to-stay-chicago/) covers the same five-neighborhood logic for the Midwest's biggest city.
 
 ---
 
@@ -123,6 +123,6 @@ At least 3 months ahead for travel in March through May, when cherry blossoms dr
 ---
 
 **Read more:**
-- [Where to Stay in New York: Neighborhoods and Hotels](/en/blog/where-to-stay-new-york)
-- [Where to Stay in Miami: The 5 Neighborhoods](/en/blog/where-to-stay-miami)
-- [Where to Stay in Chicago: Neighborhoods and Hotels](/en/blog/where-to-stay-chicago)
+- [Where to Stay in New York: Neighborhoods and Hotels](/en/blog/where-to-stay-new-york/)
+- [Where to Stay in Miami: The 5 Neighborhoods](/en/blog/where-to-stay-miami/)
+- [Where to Stay in Chicago: Neighborhoods and Hotels](/en/blog/where-to-stay-chicago/)

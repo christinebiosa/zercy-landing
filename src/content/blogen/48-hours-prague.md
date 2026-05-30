@@ -61,7 +61,7 @@ Wenceslas Square is less beautiful than it looks in photos. A long boulevard, lo
 
 Vyšehrad by contrast: the fortress on the rock above the Vltava offers one of the best views of Prague. Much quieter than Hradčany. Prague's National Cemetery is here, with the graves of Dvořák, Mucha and Smetana. Entry to the grounds is free.
 
-If you're planning a longer Central European trip, our [train vs. plane Europe 2026 guide](/en/blog/train-vs-plane-europe-2026) helps with the journey decision.
+If you're planning a longer Central European trip, our [train vs. plane Europe 2026 guide](/en/blog/train-vs-plane-europe-2026/) helps with the journey decision.
 
 **Evening: Letná Park**
 
@@ -81,7 +81,7 @@ Letná sits above the Vltava and has one of the best beer gardens in the city. S
 
 Staré Město (Old Town) is central and expensive. For better value look at Vinohrady, Žižkov or Smíchov. All three have good metro connections and are 15 to 20 minutes from the center.
 
-Prague is genuinely one of the cheapest major cities in Europe. 1 euro equals around 25 CZK. Good hotels cost significantly less than in Vienna, Paris or Amsterdam. On [Booking.com](https://www.booking.com) you'll find over 600 Prague hotels with free cancellation. More on neighborhoods and picks in the guide to [where to stay in Prague](/en/blog/where-to-stay-prague).
+Prague is genuinely one of the cheapest major cities in Europe. 1 euro equals around 25 CZK. Good hotels cost significantly less than in Vienna, Paris or Amsterdam. On [Booking.com](https://www.booking.com) you'll find over 600 Prague hotels with free cancellation. More on neighborhoods and picks in the guide to [where to stay in Prague](/en/blog/where-to-stay-prague/).
 
 ---
 
@@ -101,7 +101,7 @@ Very cheap. 1 euro equals around 25 CZK. A half-liter of pilsner in a local pub 
 
 ### When should you visit Charles Bridge?
 
-The best time is 7am or after 7pm. At midday it's so crowded that the Baroque statues are barely visible. Early morning it's nearly empty and the light is right. Anyone who's seen the bridge in morning mist understands why it's so famous. For arrival tips check the [Airport Hacks guide](/en/blog/airport-hacks).
+The best time is 7am or after 7pm. At midday it's so crowded that the Baroque statues are barely visible. Early morning it's nearly empty and the light is right. Anyone who's seen the bridge in morning mist understands why it's so famous. For arrival tips check the [Airport Hacks guide](/en/blog/airport-hacks/).
 
 ### Which Prague neighborhoods are most interesting off the tourist trail?
 
@@ -110,6 +110,6 @@ The best time is 7am or after 7pm. At midday it's so crowded that the Baroque st
 ---
 
 **Read more:**
-- [Where to Stay in Prague: Neighborhoods, Hotels and Picks](/en/blog/where-to-stay-prague)
-- [Train vs. Plane Europe 2026: When the Train Wins](/en/blog/train-vs-plane-europe-2026)
-- [Airport Hacks: Save Time and Money at Any Airport](/en/blog/airport-hacks)
+- [Where to Stay in Prague: Neighborhoods, Hotels and Picks](/en/blog/where-to-stay-prague/)
+- [Train vs. Plane Europe 2026: When the Train Wins](/en/blog/train-vs-plane-europe-2026/)
+- [Airport Hacks: Save Time and Money at Any Airport](/en/blog/airport-hacks/)

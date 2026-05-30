@@ -50,7 +50,7 @@ Die Qualität variiert stark. Gute Retreats haben einen erfahrenen Hauptlehrer d
 
 **Kosten pro Woche:** 500-3000 EUR, je nach Standard. Günstigste Ashrams um 300 EUR. Mittelklasse 800-1500 EUR.
 
-Für die Unterkunft um Ubud hilft unser [Bali-Viertelguide](/blog/wo-uebernachten-bali).
+Für die Unterkunft um Ubud hilft unser [Bali-Viertelguide](/blog/wo-uebernachten-bali/).
 
 ## Costa Rica: Yoga und Natur im Doppelpack
 
@@ -62,7 +62,7 @@ Andere Retreats finden sich in Uvita (Walbuckel, Regenwald), in der Arenal-Vulka
 
 **Beste Reisezeit:** Dezember bis April (Trockenzeit). Mai bis November regnet es mehr aber die Preise sind niedriger.
 
-Wer vorher die Route plant: unser [Costa Rica Rundreise-Guide](/blog/costa-rica-rundreise-route) zeigt die Logistik.
+Wer vorher die Route plant: unser [Costa Rica Rundreise-Guide](/blog/costa-rica-rundreise-route/) zeigt die Logistik.
 
 ## Thailand, Koh Phangan: Einsteiger-freundliche Retreat-Infrastruktur
 
@@ -117,6 +117,6 @@ Beliebte Retreats in Bali, Costa Rica und Portugal buchen sich 3-6 Monate im Vor
 ---
 
 **Mehr lesen:**
-- [Costa Rica Rundreise: Die komplette Route](/blog/costa-rica-rundreise-route)
-- [Wo übernachten in Bali: 5 Viertel](/blog/wo-uebernachten-bali)
-- [Segelurlaub für Einsteiger: Was du wirklich wissen musst](/blog/segelurlaub-einsteiger-guide)
+- [Costa Rica Rundreise: Die komplette Route](/blog/costa-rica-rundreise-route/)
+- [Wo übernachten in Bali: 5 Viertel](/blog/wo-uebernachten-bali/)
+- [Segelurlaub für Einsteiger: Was du wirklich wissen musst](/blog/segelurlaub-einsteiger-guide/)

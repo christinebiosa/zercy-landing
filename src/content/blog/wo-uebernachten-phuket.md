@@ -94,6 +94,6 @@ Budget: 30-50 Euro/Nacht Hotel + 20-30 Euro/Tag Leben = ca. 50-80 Euro/Tag. Mitt
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok)
-- [Wo übernachten in Bali: Seminyak oder Ubud?](/blog/wo-uebernachten-bali)
-- [Thailand: 2 Wochen Route mit Tipps](/blog/thailand-route-2-wochen)
+- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok/)
+- [Wo übernachten in Bali: Seminyak oder Ubud?](/blog/wo-uebernachten-bali/)
+- [Thailand: 2 Wochen Route mit Tipps](/blog/thailand-route-2-wochen/)

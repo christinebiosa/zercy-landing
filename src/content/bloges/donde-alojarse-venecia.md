@@ -98,6 +98,6 @@ Los visitantes de día pagan 5 EUR en determinados fines de semana y festivos (a
 ---
 
 **Leer más:**
-- [Dónde alojarse en Roma: ¿Coliseo o Trastevere?](/es/blog/donde-alojarse-roma)
-- [Dónde alojarse en Barcelona: ¿Barrio Gótico o Eixample?](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Madrid: ¿Chueca o Malasaña?](/es/blog/donde-alojarse-madrid)
+- [Dónde alojarse en Roma: ¿Coliseo o Trastevere?](/es/blog/donde-alojarse-roma/)
+- [Dónde alojarse en Barcelona: ¿Barrio Gótico o Eixample?](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Madrid: ¿Chueca o Malasaña?](/es/blog/donde-alojarse-madrid/)

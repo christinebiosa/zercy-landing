@@ -63,7 +63,7 @@ Tagesbudget realistisch: 150 bis 250 Euro für zwei Personen, ohne Flüge.
 
 Für die Logistik hilft Zercy bei der Routenplanung: verschiedene Insel-Kombinationen vergleichen, Flugoptionen sortieren, Mietwagenpreise checken. Speichere deine Route im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
 
-Wer nach ähnlichen Multi-Insel-Trips sucht, findet Inspiration in unserem [Kroatien Inseln-Hopping Guide](/blog/kroatien-inseln-hopping) oder dem [Griechenland Inseln-Vergleich](/blog/griechenland-inseln-vergleich).
+Wer nach ähnlichen Multi-Insel-Trips sucht, findet Inspiration in unserem [Kroatien Inseln-Hopping Guide](/blog/kroatien-inseln-hopping/) oder dem [Griechenland Inseln-Vergleich](/blog/griechenland-inseln-vergleich/).
 
 ---
 
@@ -88,6 +88,6 @@ Ein Dokument, mehrere offene Rückflug-Optionen und Flexibilität. Viele Inseln 
 ---
 
 **Mehr lesen:**
-- [Kroatien: Inseln-Hopping an der Adria](/blog/kroatien-inseln-hopping)
-- [Griechenland Inseln: Welche passt zu wem?](/blog/griechenland-inseln-vergleich)
-- [Schönste Strände Europa 2026](/blog/schoenste-straende-europa-2026)
+- [Kroatien: Inseln-Hopping an der Adria](/blog/kroatien-inseln-hopping/)
+- [Griechenland Inseln: Welche passt zu wem?](/blog/griechenland-inseln-vergleich/)
+- [Schönste Strände Europa 2026](/blog/schoenste-straende-europa-2026/)

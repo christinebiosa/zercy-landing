@@ -21,7 +21,7 @@ New York ist außerdem eine Kulturhauptstadt im besten Sinne. Das MoMA gehört z
 
 Die Restaurantszene ist unschlagbar vielfältig. Chinatown, Little Italy, Jackson Heights, Williamsburg: Du isst die Küche der ganzen Welt in einer einzigen Stadt. Die [NYC Tourism & Conventions](https://www.nycgo.com) Website hat aktuelle Veranstaltungen und kostenlose Attraktionen nach Bezirk sortiert.
 
-Für deinen NYC-Aufenthalt: [Wo übernachten in New York](/blog/wo-uebernachten-new-york) zeigt dir die besten Stadtteile mit Preisangaben.
+Für deinen NYC-Aufenthalt: [Wo übernachten in New York](/blog/wo-uebernachten-new-york/) zeigt dir die besten Stadtteile mit Preisangaben.
 
 ## Wann lohnt sich Los Angeles mehr?
 
@@ -31,11 +31,11 @@ Dafür bekommst du etwas anderes. Strand. Sonne. Entspannung. Santa Monica Beach
 
 Das Wetter ist schlicht besser. 300 Sonnentage im Jahr, milde Temperaturen das ganze Jahr über. New York hat im Januar minus Grad, im August drückende Hitze. LA bleibt angenehm.
 
-LA ist außerdem der perfekte Ausgangspunkt für einen Roadtrip. Der Pacific Coast Highway (PCH) nach San Francisco gehört zu den schönsten Küstenstraßen der Welt. Unsere [US-Westküste Roadtrip-Route](/blog/us-westkueste-roadtrip) hat alle Details.
+LA ist außerdem der perfekte Ausgangspunkt für einen Roadtrip. Der Pacific Coast Highway (PCH) nach San Francisco gehört zu den schönsten Küstenstraßen der Welt. Unsere [US-Westküste Roadtrip-Route](/blog/us-westkueste-roadtrip/) hat alle Details.
 
 Auf [Discover Los Angeles](https://www.discoverlosangeles.com) findest du aktuelle Neighborhood-Guides und Event-Tipps von der offiziellen Tourismus-Website der Stadt.
 
-Für LA direkt: [Wo übernachten in Los Angeles](/blog/wo-uebernachten-los-angeles) erklärt dir den Unterschied zwischen Santa Monica, West Hollywood und Downtown.
+Für LA direkt: [Wo übernachten in Los Angeles](/blog/wo-uebernachten-los-angeles/) erklärt dir den Unterschied zwischen Santa Monica, West Hollywood und Downtown.
 
 ## Wie unterscheiden sich Flüge und Preise?
 
@@ -63,7 +63,7 @@ Beide Städte sind teuer. NYC schlägt LA kaum. Wer in der Innenstadt übernacht
 
 Klassischer USA-Trip: Du fliegst nach New York ein, verbringst eine Woche an der Ostküste, dann ein Inlandsflug nach LA. Die Flüge zwischen NYC und LAX kosten zwischen 100 und 300 Euro je nach Buchungszeit. So bekommst du beide Städte in einem Trip. Das ist die Kombination, die die meisten USA-Erstbesucher glücklich macht.
 
-Wenn du noch mehr Inspiration brauchst: [48 Stunden New York](/blog/48-stunden-new-york) zeigt dir ein vollständiges 2-Tages-Itinerar.
+Wenn du noch mehr Inspiration brauchst: [48 Stunden New York](/blog/48-stunden-new-york/) zeigt dir ein vollständiges 2-Tages-Itinerar.
 
 ---
 
@@ -90,6 +90,6 @@ New York ist von September bis November am angenehmsten: Weniger Hitze, schöne 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in New York](/blog/wo-uebernachten-new-york)
-- [US-Westküste Roadtrip Route](/blog/us-westkueste-roadtrip)
-- [48 Stunden New York](/blog/48-stunden-new-york)
+- [Wo übernachten in New York](/blog/wo-uebernachten-new-york/)
+- [US-Westküste Roadtrip Route](/blog/us-westkueste-roadtrip/)
+- [48 Stunden New York](/blog/48-stunden-new-york/)

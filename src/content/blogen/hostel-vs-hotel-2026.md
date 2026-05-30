@@ -26,7 +26,7 @@ Backpackers under 35 know the format and like it. Anyone who is flexible, coveri
 
 Community seekers, those who actively want to meet other travelers, find better infrastructure in hostels. Many organize tours, communal dinners, and pub crawls as part of the stay.
 
-In major capital cities, do the math carefully. London and Paris hostels are more expensive than people expect. The budget argument does not apply equally everywhere. Our [cheap flights guide](/en/blog/cheap-flights-tips) covers where the biggest long-haul savings actually are.
+In major capital cities, do the math carefully. London and Paris hostels are more expensive than people expect. The budget argument does not apply equally everywhere. Our [cheap flights guide](/en/blog/cheap-flights-tips/) covers where the biggest long-haul savings actually are.
 
 ## For Whom Hotels Are the Better Call
 
@@ -42,7 +42,7 @@ Anyone who needs to decompress after a long day is better served by a hotel. Int
 
 For couples and small groups, Airbnb is often the cheapest option with the most space. A kitchen, a living room, a door that locks on your terms. In high-tourism cities like Barcelona or Lisbon, stricter Airbnb regulations have shrunk the supply and pushed up prices. In Latin America and Southeast Asia, Airbnb remains one of the strongest mid-range options.
 
-Our [Airbnb vs. Hotel comparison](/en/blog/airbnb-vs-hotel-comparison) goes deeper: when each platform makes sense and which hidden costs to factor in.
+Our [Airbnb vs. Hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) goes deeper: when each platform makes sense and which hidden costs to factor in.
 
 ## Which Accommodation for Which Travel Style?
 
@@ -56,7 +56,7 @@ Our [Airbnb vs. Hotel comparison](/en/blog/airbnb-vs-hotel-comparison) goes deep
 | Business traveler | Hotel (city center or business district) |
 | Festival or event in a major city | Hostel if budget is tight, hotel if sleep matters |
 
-On longer trips, mixing works well: first nights in a hostel to land and meet people, hotel or Airbnb for recovery phases in the middle, flexible again at the end. It does not have to be one or the other. If you travel carry-on only, both formats work easily. Our [carry-on guide](/en/blog/carry-on-only) covers the practical side.
+On longer trips, mixing works well: first nights in a hostel to land and meet people, hotel or Airbnb for recovery phases in the middle, flexible again at the end. It does not have to be one or the other. If you travel carry-on only, both formats work easily. Our [carry-on guide](/en/blog/carry-on-only/) covers the practical side.
 
 [Hostelworld](https://www.hostelworld.com) is the most reliable hostel search platform. Reviews break down community, cleanliness, and noise separately. Filter for "Private Room" and read the noise comments in reviews before booking.
 
@@ -85,6 +85,6 @@ A double room in a European hostel rarely costs significantly less than a budget
 ---
 
 **Read more:**
-- [Airbnb vs. Hotel: When Does Each One Make Sense?](/en/blog/airbnb-vs-hotel-comparison)
-- [Solo Travel for Women: Safe Countries and Real Tips](/en/blog/solo-travel-women-safe-countries)
-- [Cheap Flights Tips: How to Book Smart in 2026](/en/blog/cheap-flights-tips)
+- [Airbnb vs. Hotel: When Does Each One Make Sense?](/en/blog/airbnb-vs-hotel-comparison/)
+- [Solo Travel for Women: Safe Countries and Real Tips](/en/blog/solo-travel-women-safe-countries/)
+- [Cheap Flights Tips: How to Book Smart in 2026](/en/blog/cheap-flights-tips/)

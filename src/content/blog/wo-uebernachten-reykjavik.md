@@ -69,13 +69,13 @@ Wer ein Auto mietet und Island abfährt, braucht keine zentrale Unterkunft. Graf
 - **Guesthouse Básar:** Einfache, saubere Zimmer. Perfekt für reine Übernachtungstouristen auf Island-Rundreise.
 - **Various Guesthouses Kópavogur:** Auf Booking.com ab 80 Euro pro Nacht, deutlich günstiger als Miðborg.
 
-Unseren ausführlichen [Island Reiseguide](/blog/island-reiseguide) lohnt sich als Vorbereitung.
+Unseren ausführlichen [Island Reiseguide](/blog/island-reiseguide/) lohnt sich als Vorbereitung.
 
 ## Wo solltest du in Reykjavik buchen?
 
 **Erster Besuch:** Miðborg. Laugavegur zu Fuß, kein Auto nötig, alles erlebbar. Das Preis-Erlebnis-Verhältnis stimmt trotz hoher Preise.
 
-**Nordlicht-Trip:** Kombiniere Miðborg-Hotel mit Nordlicht-Tour. Die meisten Touren starten mitten in der Stadt. Schau dir die [Nachtzüge Europa 2026](/blog/nachtzuege-europa-2026) an, wenn du Reykjavik mit einer Europareise verbindest.
+**Nordlicht-Trip:** Kombiniere Miðborg-Hotel mit Nordlicht-Tour. Die meisten Touren starten mitten in der Stadt. Schau dir die [Nachtzüge Europa 2026](/blog/nachtzuege-europa-2026/) an, wenn du Reykjavik mit einer Europareise verbindest.
 
 **Budget:** Hlemmur oder Laugardalur. 20 bis 30 Prozent günstiger, noch immer sehr zentral.
 
@@ -104,6 +104,6 @@ Hallgrímskirkja (mit Aufzug auf die Aussichtsplattform), Golden Circle Tagestou
 ---
 
 **Mehr lesen:**
-- [Island Reiseguide: Was du wirklich wissen musst](/blog/island-reiseguide)
-- [Nachtzüge Europa 2026: Die vollständige Übersicht](/blog/nachtzuege-europa-2026)
-- [Geheimtipps Europa: Unterschätzte Städte](/blog/geheimtipps-europa)
+- [Island Reiseguide: Was du wirklich wissen musst](/blog/island-reiseguide/)
+- [Nachtzüge Europa 2026: Die vollständige Übersicht](/blog/nachtzuege-europa-2026/)
+- [Geheimtipps Europa: Unterschätzte Städte](/blog/geheimtipps-europa/)

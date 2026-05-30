@@ -18,7 +18,7 @@ Zeit gegen Erlebnis. Das ist der Kern. Ein Flug von Barcelona nach Ibiza dauert 
 
 Der andere Vorteil: Gepäck. Keine 10-Kilo-Limits, keine Zusatzgebühren für einen zweiten Koffer. Fähren nehmen auch Fahrräder, Motorräder und Autos mit. Das öffnet Reisemöglichkeiten, die kein Billigflug bietet. Für viele Inselrouten in Kroatien gibt es gar keine sinnvolle Flugoption.
 
-Wer nachhaltiger reisen will, hat damit ohnehin ein starkes Argument. Fähren emittieren pro Passagier deutlich weniger CO2 als Kurzstreckenflüge. Unsere [Analyse zum Thema Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026) zeigt, wie groß der Unterschied bei kürzeren Strecken wirklich ist.
+Wer nachhaltiger reisen will, hat damit ohnehin ein starkes Argument. Fähren emittieren pro Passagier deutlich weniger CO2 als Kurzstreckenflüge. Unsere [Analyse zum Thema Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026/) zeigt, wie groß der Unterschied bei kürzeren Strecken wirklich ist.
 
 ## Welche sind die besten Fährrouten in Europa?
 
@@ -30,9 +30,9 @@ Die griechische Reederei Minoan Lines und Anek Lines sind etablierte Anbieter. B
 
 **Kroatien: Split als Basis für die Inseln**
 
-Von [Split aus](/blog/wo-uebernachten-split) erreichst du Hvar in 55 Minuten (Katamaran) oder 2 Stunden (klassische Fähre). Weiter geht es nach Korčula, Vis und Brač. Die Preise für Fußgänger sind extrem günstig: Hvar ab ca. 5 Euro. Mit Auto deutlich mehr. Wer die Inseln ohne Auto erkunden will, zahlt wenig und hat flexiblen Taktfahrplan.
+Von [Split aus](/blog/wo-uebernachten-split/) erreichst du Hvar in 55 Minuten (Katamaran) oder 2 Stunden (klassische Fähre). Weiter geht es nach Korčula, Vis und Brač. Die Preise für Fußgänger sind extrem günstig: Hvar ab ca. 5 Euro. Mit Auto deutlich mehr. Wer die Inseln ohne Auto erkunden will, zahlt wenig und hat flexiblen Taktfahrplan.
 
-Jadrolinija ist die staatliche kroatische Reederei und deckt fast alle Routen ab. Buchbar auch über Ferryscanner oder direkt auf jadrolinija.hr. Interne Verlinkung: Unser Artikel zum [Inselhopping in Kroatien und Griechenland](/blog/geheimtipps-europa) gibt weitere Routen-Ideen.
+Jadrolinija ist die staatliche kroatische Reederei und deckt fast alle Routen ab. Buchbar auch über Ferryscanner oder direkt auf jadrolinija.hr. Interne Verlinkung: Unser Artikel zum [Inselhopping in Kroatien und Griechenland](/blog/geheimtipps-europa/) gibt weitere Routen-Ideen.
 
 **Balearen: Nachtfähren als Geheimwaffe**
 
@@ -40,7 +40,7 @@ Barcelona nach Palma de Mallorca: 8 Stunden Nachtfähre, ab ca. 55 Euro. Valenci
 
 **Nordeuropa: Stockholm, Helsinki, Tallinn**
 
-Die Fähren zwischen Stockholm und Helsinki (Silja Line, Viking Line) sind eigentlich Kreuzfahrtschiffe in Miniformat. Mit Restaurants, Bars, Saunas und Unterhaltung an Bord. Fahrzeit ca. 15 bis 17 Stunden. Besonders lohnend: Stockholm nach Tallinn mit einer Zwischenübernachtung in Helsinki. Für Nordeuropa-Rundreisen lässt sich damit viel Zeit und Geld sparen. Wer Helsinki besucht, findet einen eigenen [Stadtguide als Inspiration](/blog/zugreisen-europa).
+Die Fähren zwischen Stockholm und Helsinki (Silja Line, Viking Line) sind eigentlich Kreuzfahrtschiffe in Miniformat. Mit Restaurants, Bars, Saunas und Unterhaltung an Bord. Fahrzeit ca. 15 bis 17 Stunden. Besonders lohnend: Stockholm nach Tallinn mit einer Zwischenübernachtung in Helsinki. Für Nordeuropa-Rundreisen lässt sich damit viel Zeit und Geld sparen. Wer Helsinki besucht, findet einen eigenen [Stadtguide als Inspiration](/blog/zugreisen-europa/).
 
 **Adria: Ancona nach Split**
 
@@ -78,7 +78,7 @@ Kabinen buchen früh. Im Sommer (Juli, August) sind Griechenland-Fähren ausgebu
 
 **Nordeuropa:** Schwankend. Helsinki-Stockholm im Sommer relativ gut verfügbar. Kabinen lieber früh buchen.
 
-Für Inselhopping und komplexere Routen ist [Zercy](/blog/was-ist-zercy) gut geeignet: Du gibst dein Reiseziel und Datum ein, bekommst Live-Flugpreise als Vergleichsbasis und kannst beides direkt gegenüberstellen.
+Für Inselhopping und komplexere Routen ist [Zercy](/blog/was-ist-zercy/) gut geeignet: Du gibst dein Reiseziel und Datum ein, bekommst Live-Flugpreise als Vergleichsbasis und kannst beides direkt gegenüberstellen.
 
 ---
 
@@ -106,6 +106,6 @@ Weil du gleichzeitig reist und schläfst. Eine Kabine auf der Barcelona-Mallorca
 
 ## Mehr lesen
 
-- [Bahn vs. Flieger in Europa 2026: Wann welche Option besser ist](/blog/bahn-vs-flieger-europa-2026)
-- [Zugreisen Europa: Routen, Pässe und Tipps für Interrail 2026](/blog/zugreisen-europa)
-- [Mallorca vs. Ibiza: Welche Insel passt besser zu dir?](/blog/mallorca-vs-ibiza-vergleich)
+- [Bahn vs. Flieger in Europa 2026: Wann welche Option besser ist](/blog/bahn-vs-flieger-europa-2026/)
+- [Zugreisen Europa: Routen, Pässe und Tipps für Interrail 2026](/blog/zugreisen-europa/)
+- [Mallorca vs. Ibiza: Welche Insel passt besser zu dir?](/blog/mallorca-vs-ibiza-vergleich/)

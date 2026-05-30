@@ -81,6 +81,6 @@ Plov (Pilaw) ist das Nationalgericht: ein Reistopf mit Lammfleisch, Karotten, Zw
 
 ## Mehr lesen
 
-- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights)
-- [Nepal Reiseguide: Highlights und Trekking](/blog/nepal-reiseguide-highlights)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Indien Reiseguide: Highlights und Tipps](/blog/indien-reiseguide-highlights/)
+- [Nepal Reiseguide: Highlights und Trekking](/blog/nepal-reiseguide-highlights/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

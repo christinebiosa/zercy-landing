@@ -16,11 +16,11 @@ You won't get a "both are great!" answer here. Instead: a clear breakdown of whe
 
 Portugal is cheaper. That's not an impression, it's a fact. A sit-down lunch in Lisbon costs 30 to 40 percent less than the equivalent in Madrid or Barcelona. Accommodation, transport, museums, coffee: Portugal runs 15 to 25 percent below Spain across the board. If you're travelling on a tighter budget, or simply want more for your money, this difference adds up fast over a week.
 
-But price isn't the only reason. Lisbon has an atmosphere that Barcelona can no longer replicate at scale: the trams, the azulejo tiles, the fado evenings in Alfama, the hilltop views over the Tagus. The city is smaller, more manageable, less overwhelmed by summer crowds than Barcelona or Madrid. For ideas on exploring beyond the postcard spots, the [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail) is a good start.
+But price isn't the only reason. Lisbon has an atmosphere that Barcelona can no longer replicate at scale: the trams, the azulejo tiles, the fado evenings in Alfama, the hilltop views over the Tagus. The city is smaller, more manageable, less overwhelmed by summer crowds than Barcelona or Madrid. For ideas on exploring beyond the postcard spots, the [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail/) is a good start.
 
-Porto is another reason to pick Portugal. Often overlooked. The city at the Douro estuary combines medieval Ribeira, the port wine lodges of Vila Nova de Gaia, and a young creative scene that doesn't feel performed. If you want to see both cities properly, the [Portugal road trip route](/en/blog/portugal-road-trip-route) maps out a 10 to 14 day loop including Lisbon, the Alentejo wine region, and Porto.
+Porto is another reason to pick Portugal. Often overlooked. The city at the Douro estuary combines medieval Ribeira, the port wine lodges of Vila Nova de Gaia, and a young creative scene that doesn't feel performed. If you want to see both cities properly, the [Portugal road trip route](/en/blog/portugal-road-trip-route/) maps out a 10 to 14 day loop including Lisbon, the Alentejo wine region, and Porto.
 
-The nature is also in Portugal's favour. The [Algarve coast](/en/blog/algarve-travel-guide-2026) with its sandstone cliffs and turquoise water is among Europe's finest. Madeira and the Azores offer something Spain simply can't match: volcanic landscapes and hiking trails for travellers who want long-haul adventure without the long-haul flight. For regional travel planning, [visitportugal.com](https://www.visitportugal.com/en) is the official source.
+The nature is also in Portugal's favour. The [Algarve coast](/en/blog/algarve-travel-guide-2026/) with its sandstone cliffs and turquoise water is among Europe's finest. Madeira and the Azores offer something Spain simply can't match: volcanic landscapes and hiking trails for travellers who want long-haul adventure without the long-haul flight. For regional travel planning, [visitportugal.com](https://www.visitportugal.com/en) is the official source.
 
 **Portugal suits you if:** You want to travel slowly. Authenticity matters more to you than infrastructure. Your budget is tight. You surf, hike, or care what region your wine comes from.
 
@@ -52,7 +52,7 @@ Numbers are more useful than impressions. A rough comparison for 7 nights, mid-r
 
 In Lisbon, a good double room runs 80 to 120 euros per night. Lunch for two at a decent restaurant: 15 to 25 euros. In Barcelona, expect 130 to 200 euros for accommodation, 25 to 40 euros for lunch. Madrid sits similarly. San Sebastián and Ibiza in summer push higher still.
 
-The [Algarve](/en/blog/algarve-travel-guide-2026) has become pricier. It's not the budget destination it was five years ago. But Tenerife and Mallorca in peak summer are also expensive. Travel in May or October and both countries drop significantly in cost.
+The [Algarve](/en/blog/algarve-travel-guide-2026/) has become pricier. It's not the budget destination it was five years ago. But Tenerife and Mallorca in peak summer are also expensive. Travel in May or October and both countries drop significantly in cost.
 
 ## Which Country Wins Overall?
 
@@ -69,9 +69,9 @@ The good news is you don't have to decide permanently. Both countries are a few 
 Use [Zercy](https://www.zercy.app) to compare prices for Portugal and Spain in one search. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so you have all options ready when you're ready to book.
 
 **Read more:**
-- [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026)
-- [Portugal Road Trip Route](/en/blog/portugal-road-trip-route)
-- [Lisbon Beyond the Tourist Trail](/en/blog/lisbon-beyond-the-tourist-trail)
+- [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026/)
+- [Portugal Road Trip Route](/en/blog/portugal-road-trip-route/)
+- [Lisbon Beyond the Tourist Trail](/en/blog/lisbon-beyond-the-tourist-trail/)
 
 ## Frequently Asked Questions
 

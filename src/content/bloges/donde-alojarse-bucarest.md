@@ -79,7 +79,7 @@ El barrio es arquitectónicamente menos interesante que la ciudad vieja o Florea
 
 **Mejores opciones:** Hotel Grand (sólida gama media, buena ubicación), Radisson Blu Hotel Bucharest (confiable, con buenas instalaciones para conferencias), varios apartamentos cerca de Piața Unirii.
 
-Para otro destino de Europa del Este con un contraste similar entre elegancia histórica y arquitectura comunista, la [guía de barrios de Varsovia](/es/blog/donde-alojarse-varsovia) es una buena comparación.
+Para otro destino de Europa del Este con un contraste similar entre elegancia histórica y arquitectura comunista, la [guía de barrios de Varsovia](/es/blog/donde-alojarse-varsovia/) es una buena comparación.
 
 ## Iancului/Sector 2: Local, económico, auténtico
 
@@ -129,6 +129,6 @@ El Parlamento por dentro (solo con visita guiada), el barrio Lipscani en la ciud
 ---
 
 **Más información:**
-- [Los mejores hoteles en Tallinn: Ciudad medieval y escena startup](/es/blog/donde-alojarse-tallin)
-- [Los mejores hoteles en Varsovia: Dónde alojarse en 2026](/es/blog/donde-alojarse-varsovia)
-- [Joyas ocultas de Europa: Las ciudades que todavía valen la pena](/es/blog/joyas-ocultas-europa)
+- [Los mejores hoteles en Tallinn: Ciudad medieval y escena startup](/es/blog/donde-alojarse-tallin/)
+- [Los mejores hoteles en Varsovia: Dónde alojarse en 2026](/es/blog/donde-alojarse-varsovia/)
+- [Joyas ocultas de Europa: Las ciudades que todavía valen la pena](/es/blog/joyas-ocultas-europa/)

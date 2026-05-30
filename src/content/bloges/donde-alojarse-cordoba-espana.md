@@ -77,6 +77,6 @@ La Mezquita-Catedral (¡compra las entradas con anticipación!), las calles de L
 
 ## Más sobre Andalucía
 
-- [Dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla)
-- [Dónde alojarse en Granada](/es/blog/donde-alojarse-granada)
-- [Dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid)
+- [Dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla/)
+- [Dónde alojarse en Granada](/es/blog/donde-alojarse-granada/)
+- [Dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid/)

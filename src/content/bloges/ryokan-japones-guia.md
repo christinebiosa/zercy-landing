@@ -23,7 +23,7 @@ El onsen es parte central del ryokan. Baños de aguas termales, alimentados a me
 
 La cena kaiseki es el punto culminante gastronómico. Un menú de varios tiempos con ingredientes de temporada, entre seis y doce pasos en los mejores casos. Pescado a la parrilla, sopa de tofu, carne estofada, gachas de arroz al cierre. La presentación es casi artística. La comida llega a la habitación o se sirve en el comedor. Reservar un ryokan solo por el kaiseki es una razón completamente válida.
 
-Para más información sobre la planificación de tu viaje a Japón, consulta la [guía de ruta de 3 semanas por Japón](/es/blog/japon-3-semanas-ruta) y la guía de [viaje económico por Japón](/es/blog/japon-mas-alla-de-tokio).
+Para más información sobre la planificación de tu viaje a Japón, consulta la [guía de ruta de 3 semanas por Japón](/es/blog/japon-3-semanas-ruta/) y la guía de [viaje económico por Japón](/es/blog/japon-mas-alla-de-tokio/).
 
 ## ¿Cuánto cuesta una noche en un ryokan?
 
@@ -33,7 +33,7 @@ Un dato importante: los precios casi siempre son por persona e incluyen cena y d
 
 Lo que también suele incluir el precio: acceso al onsen, servicio de futón, yukata, té de bienvenida y a veces dulces al anochecer. Algunos establecimientos cobran un impuesto de onsen adicional de 150 a 300 yenes, que se paga directamente en el lugar.
 
-También hay ryokans económicos sin comidas, desde unos 6.000 a 8.000 yenes por persona. Una buena alternativa si preferís comer fuera o explorar la gastronomía local. Más sobre esto en la guía de [48 horas en Kioto](/es/blog/48-horas-kioto).
+También hay ryokans económicos sin comidas, desde unos 6.000 a 8.000 yenes por persona. Una buena alternativa si preferís comer fuera o explorar la gastronomía local. Más sobre esto en la guía de [48 horas en Kioto](/es/blog/48-horas-kioto/).
 
 ## ¿Qué reglas de etiqueta se aplican en un ryokan?
 
@@ -59,7 +59,7 @@ Para mayor variedad y a menudo mejores precios en establecimientos locales, [Jal
 
 Algunos consejos prácticos para la reserva: verificá si el ryokan acepta huéspedes internacionales. No todos lo hacen, a menudo por la barrera del idioma. Esto suele indicarse en el perfil de Booking.com. Reservá con anticipación, especialmente para Kioto y Hakone durante la temporada de flores de cerezo o los colores del otoño. Los mejores establecimientos se agotan con meses de anticipación.
 
-Kioto es el destino clásico para hospedarse en un ryokan. Hakone, a una hora de Tokio, es otra opción muy popular. Nikko, Kinosaki Onsen y Yufuin son alternativas menos concurridas. Si estás planificando una noche en ryokan como parte de un viaje más largo, la guía de [dónde alojarse en Kioto](/es/blog/donde-alojarse-kioto) cubre las opciones de alojamiento en la zona.
+Kioto es el destino clásico para hospedarse en un ryokan. Hakone, a una hora de Tokio, es otra opción muy popular. Nikko, Kinosaki Onsen y Yufuin son alternativas menos concurridas. Si estás planificando una noche en ryokan como parte de un viaje más largo, la guía de [dónde alojarse en Kioto](/es/blog/donde-alojarse-kioto/) cubre las opciones de alojamiento en la zona.
 
 ---
 
@@ -87,6 +87,6 @@ Booking.com tiene la mayor selección con reseñas en varios idiomas. Para estab
 
 ## Más para leer
 
-- [Dónde alojarse en Kioto: mejores barrios 2026](/es/blog/donde-alojarse-kioto)
-- [48 horas en Kioto: tu fin de semana perfecto](/es/blog/48-horas-kioto)
-- [Japan Rail Pass 2026: ¿todavía vale la pena?](/es/blog/japan-rail-pass-2026-guia)
+- [Dónde alojarse en Kioto: mejores barrios 2026](/es/blog/donde-alojarse-kioto/)
+- [48 horas en Kioto: tu fin de semana perfecto](/es/blog/48-horas-kioto/)
+- [Japan Rail Pass 2026: ¿todavía vale la pena?](/es/blog/japan-rail-pass-2026-guia/)

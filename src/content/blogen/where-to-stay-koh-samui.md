@@ -53,7 +53,7 @@ Lamai is Chaweng's calmer neighbor. Beautiful white sand, fewer hotels, less bus
 
 **Top picks:** Pavilion Samui Boutique Resort (stylish boutique hotel, good location in Lamai), Samui Resotel Beach Resort (direct beachfront, large pool), Rocky's Boutique Resort (cliff location, spectacular sea views, slightly outside the village).
 
-The [Thailand 2-week travel guide](/en/blog/thailand-2-week-itinerary) and the [Phuket neighborhood guide](/en/blog/where-to-stay-phuket) cover broader Thailand planning.
+The [Thailand 2-week travel guide](/en/blog/thailand-2-week-itinerary/) and the [Phuket neighborhood guide](/en/blog/where-to-stay-phuket/) cover broader Thailand planning.
 
 ## Bophut: Fishing Village Charm and Boutique Style
 
@@ -104,6 +104,6 @@ At least 4–5 days for the island itself. A week is ideal: explore beaches, tak
 ---
 
 **Read more:**
-- [Thailand: 2-Week Itinerary with Tips](/en/blog/thailand-2-week-itinerary)
-- [Where to Stay in Phuket: The 5 Beach Areas](/en/blog/where-to-stay-phuket)
-- [Where to Stay in Bangkok: Best Neighborhoods](/en/blog/where-to-stay-bangkok)
+- [Thailand: 2-Week Itinerary with Tips](/en/blog/thailand-2-week-itinerary/)
+- [Where to Stay in Phuket: The 5 Beach Areas](/en/blog/where-to-stay-phuket/)
+- [Where to Stay in Bangkok: Best Neighborhoods](/en/blog/where-to-stay-bangkok/)

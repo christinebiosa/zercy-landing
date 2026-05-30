@@ -86,6 +86,6 @@ Germany: Rewe, Edeka ("ja! vegan" own brand), dm (vegan own brands). UK: Marks &
 
 ## Read more
 
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Backpacking Beginners Guide: Plan Your First Trip](/en/blog/backpacking-beginners-guide)
-- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Backpacking Beginners Guide: Plan Your First Trip](/en/blog/backpacking-beginners-guide/)
+- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials/)

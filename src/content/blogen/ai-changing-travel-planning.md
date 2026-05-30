@@ -43,7 +43,7 @@ A travel agency consultant would do exactly this. Ask questions. Understand prio
 Many travelers don't exactly know themselves. "Something different from last year" is a real requirement. A good AI system asks targeted questions: How long? Solo or with someone? Active or relaxed? Beach or city? And builds a real travel profile from the answers.
 
 **Phase 2: Calculating options instead of displaying them**
-Instead of showing you 40 search results, AI works through it: Which airports are realistic? Which dates are cheap? What's the price difference between Tuesday and Friday on this route? See our guide on [When to Book Flights](/en/blog/when-to-book-flights) for more. The result isn't a list — it's a recommendation.
+Instead of showing you 40 search results, AI works through it: Which airports are realistic? Which dates are cheap? What's the price difference between Tuesday and Friday on this route? See our guide on [When to Book Flights](/en/blog/when-to-book-flights/) for more. The result isn't a list — it's a recommendation.
 
 **Phase 3: Making "what if" possible**
 "What if we fly a week earlier?" — "Are there cheaper airports nearby?" — "How much would business class cost on this route?" A form can't answer these follow-up questions. A conversation can.
@@ -66,7 +66,7 @@ You no longer have to search through everything yourself. You describe what you 
 
 Travel planning becomes a conversation. One where you set the direction and AI does the work. This doesn't just save time — it opens up possibilities you'd never have found searching manually.
 
-Someone looking for [hidden gems in Europe](/en/blog/hidden-gems-europe) often doesn't even know the names of the places. Ohrid, Matera, Évora — you can't find these if you don't already know them. AI can tell you: "Based on what you're describing, Plovdiv or Kotor sound interesting for you."
+Someone looking for [hidden gems in Europe](/en/blog/hidden-gems-europe/) often doesn't even know the names of the places. Ohrid, Matera, Évora — you can't find these if you don't already know them. AI can tell you: "Based on what you're describing, Plovdiv or Kotor sound interesting for you."
 
 That's not magic. That's what a good advisor has always done.
 
@@ -94,4 +94,4 @@ For standard trips: no. For very complex journeys (cruises, group travel, multi-
 
 Zercy uses Claude by Anthropic with access to live flight prices via SerpAPI. Other options: Google Gemini for general travel research, Perplexity for current information, ChatGPT for travel planning without live prices. For specific flight options with real prices, a specialized tool beats a general chatbot.
 
-**Read more:** [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips) · [When to Book Flights](/en/blog/when-to-book-flights) · [Hidden Gems in Europe](/en/blog/hidden-gems-europe)
+**Read more:** [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips/) · [When to Book Flights](/en/blog/when-to-book-flights/) · [Hidden Gems in Europe](/en/blog/hidden-gems-europe/)

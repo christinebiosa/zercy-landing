@@ -32,7 +32,7 @@ Muchos aeropuertos pequeños de Estados Unidos envían personal de seguridad par
 
 Los aeropuertos de aerolíneas de bajo coste en Europa crean sus propios problemas. London Stansted cierra partes de la terminal por la noche. Luton es pequeño, ruidoso y tiene muy pocos rincones cómodos. Si tienes un vuelo temprano de Ryanair o EasyJet y piensas quedarte allí: un Airbnb cercano suele salir más barato y es mucho más cómodo.
 
-Para sacar el máximo partido a cualquier aeropuerto, lee: [Trucos de aeropuerto para viajeros inteligentes](/es/blog/trucos-aeropuerto).
+Para sacar el máximo partido a cualquier aeropuerto, lee: [Trucos de aeropuerto para viajeros inteligentes](/es/blog/trucos-aeropuerto/).
 
 ## ¿Qué debes llevar si vas a dormir en el aeropuerto?
 
@@ -50,9 +50,9 @@ Antes de instalarte en cualquier sitio, recorre la terminal. Los gates alejados 
 
 Una sala VIP cambia completamente la experiencia. Por 25-50 euros a través de LoungeBuddy o Priority Pass tienes tumbonas, duchas, comida y mucho menos ruido. No todas las salas aceptan visitas sin reserva, pero muchas sí. Para escalas de más de cinco horas, suele merecer la pena.
 
-Cómo acceder a una sala VIP sin billete de business class: [Acceso a sala VIP sin business](/es/blog/acceso-sala-vip-sin-business).
+Cómo acceder a una sala VIP sin billete de business class: [Acceso a sala VIP sin business](/es/blog/acceso-sala-vip-sin-business/).
 
-A veces el hotel airside es la solución más inteligente, sobre todo cuando tienes que estar en la puerta de embarque temprano y no quieres arriesgar perder el vuelo. Si merece la pena depende de la duración de tu escala y del aeropuerto: [Hotel en el aeropuerto: ¿vale la pena?](/es/blog/hotel-aeropuerto-vale-la-pena).
+A veces el hotel airside es la solución más inteligente, sobre todo cuando tienes que estar en la puerta de embarque temprano y no quieres arriesgar perder el vuelo. Si merece la pena depende de la duración de tu escala y del aeropuerto: [Hotel en el aeropuerto: ¿vale la pena?](/es/blog/hotel-aeropuerto-vale-la-pena/).
 
 ## Planifica tu escala con Zercy
 
@@ -83,6 +83,6 @@ Para escalas de cuatro horas o más: generalmente sí. Los precios oscilan entre
 ---
 
 **Leer más:**
-- [Trucos de aeropuerto para viajeros inteligentes](/es/blog/trucos-aeropuerto)
-- [Acceso a sala VIP sin billete de business](/es/blog/acceso-sala-vip-sin-business)
-- [Hotel en el aeropuerto: ¿vale la pena?](/es/blog/hotel-aeropuerto-vale-la-pena)
+- [Trucos de aeropuerto para viajeros inteligentes](/es/blog/trucos-aeropuerto/)
+- [Acceso a sala VIP sin billete de business](/es/blog/acceso-sala-vip-sin-business/)
+- [Hotel en el aeropuerto: ¿vale la pena?](/es/blog/hotel-aeropuerto-vale-la-pena/)

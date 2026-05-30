@@ -28,7 +28,7 @@ Wenn du dir nicht sicher bist: 112 funktioniert weltweit auf GSM-Netzen auch ohn
 
 **Schritt 3: Behandlung annehmen.** Auch wenn du dir nicht sicher bist was es kostet. Medizinische Versorgung geht vor. Alle Rechnungen und Belege aufheben. Die Versicherung wird das klären.
 
-Warum eine Reisekrankenversicherung Pflicht ist: [Reisekrankenversicherung Guide](/blog/reisekrankenversicherung-guide). Mehr zur Reiseversicherung allgemein: [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich).
+Warum eine Reisekrankenversicherung Pflicht ist: [Reisekrankenversicherung Guide](/blog/reisekrankenversicherung-guide/). Mehr zur Reiseversicherung allgemein: [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/).
 
 ## Wie reagierst du bei einem schweren Unfall oder einer Naturkatastrophe?
 
@@ -96,6 +96,6 @@ Keine vollständige Prävention möglich, aber vorbereiten: Reisekrankenversiche
 
 ## Mehr lesen
 
-- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich)
-- [Reisekrankenversicherung: Wann sie nötig ist](/blog/reisekrankenversicherung-guide)
-- [Cyber-Sicherheit auf Reisen: Daten schützen](/blog/cyber-sicherheit-reisen)
+- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/)
+- [Reisekrankenversicherung: Wann sie nötig ist](/blog/reisekrankenversicherung-guide/)
+- [Cyber-Sicherheit auf Reisen: Daten schützen](/blog/cyber-sicherheit-reisen/)

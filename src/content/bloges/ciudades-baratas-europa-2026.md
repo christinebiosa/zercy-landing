@@ -18,7 +18,7 @@ Barato aquí significa un presupuesto diario de menos de 65 euros incluyendo alo
 
 **1. Tirana (Albania) — 30 a 40 euros/día**
 
-Tirana es el viaje de capital más barato de Europa. Una cena de dos platos con vino cuesta entre 8 y 12 euros. Una habitación privada en un hostal comienza desde 12 euros. El autobús urbano sale a 0,30 euros por trayecto. Por ese precio consigues una ciudad que se está reinventando: fachadas de colores, bares animados, sin masas de turistas. Desde aquí es fácil hacer excursiones a [la riviera albanesa](/es/blog/albania-riviera-escondida).
+Tirana es el viaje de capital más barato de Europa. Una cena de dos platos con vino cuesta entre 8 y 12 euros. Una habitación privada en un hostal comienza desde 12 euros. El autobús urbano sale a 0,30 euros por trayecto. Por ese precio consigues una ciudad que se está reinventando: fachadas de colores, bares animados, sin masas de turistas. Desde aquí es fácil hacer excursiones a [la riviera albanesa](/es/blog/albania-riviera-escondida/).
 
 **2. Skopie (Macedonia del Norte) — 32 a 45 euros/día**
 
@@ -26,7 +26,7 @@ Skopie es bizarra, barata e impactante. El centro está lleno de estatuas y edif
 
 **3. Sofía (Bulgaria) — 35 a 50 euros/día**
 
-Sofía sorprende. Buenos museos, metro funcional, cultura de café relajada. Un plato principal en un restaurante local cuesta entre 4 y 7 euros. Una cerveza: de 1,50 a 2 euros. Habitación doble en hostal: de 14 a 20 euros. Billete de metro: 0,80 euros. Para opciones de alojamiento por barrio, consulta [dónde alojarse en Sofía](/es/blog/donde-alojarse-sofia).
+Sofía sorprende. Buenos museos, metro funcional, cultura de café relajada. Un plato principal en un restaurante local cuesta entre 4 y 7 euros. Una cerveza: de 1,50 a 2 euros. Habitación doble en hostal: de 14 a 20 euros. Billete de metro: 0,80 euros. Para opciones de alojamiento por barrio, consulta [dónde alojarse en Sofía](/es/blog/donde-alojarse-sofia/).
 
 **4. Belgrado (Serbia) — 40 a 55 euros/día**
 
@@ -38,11 +38,11 @@ Cracovia tiene el mejor casco antiguo de Europa Central, una plaza mayor animada
 
 **6. Budapest (Hungría) — 50 a 65 euros/día**
 
-Budapest ofrece la mejor relación calidad-precio de Europa Central. Baños termales desde 10 euros. Lángos en un puesto callejero: 2 euros. Una cena de tres platos en el barrio de los ruin bars: de 12 a 18 euros. Habitación doble en hostal: de 16 a 25 euros. Abono diario de metro: 6 euros. Para una guía por barrios, consulta [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest).
+Budapest ofrece la mejor relación calidad-precio de Europa Central. Baños termales desde 10 euros. Lángos en un puesto callejero: 2 euros. Una cena de tres platos en el barrio de los ruin bars: de 12 a 18 euros. Habitación doble en hostal: de 16 a 25 euros. Abono diario de metro: 6 euros. Para una guía por barrios, consulta [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/).
 
 **7. Bucarest (Rumanía) — 45 a 60 euros/día**
 
-Bucarest tiene una reputación inmerecida. Es en realidad una de las ciudades más interesantes de Europa del Este, con un casco antiguo que ha protagonizado un verdadero renacimiento. Cocina local en un restaurante de almuerzo: de 5 a 8 euros. Cerveza: 1,50 euros. Hostal: de 12 a 20 euros. Billete de metro: 0,50 euros. Guía completa: [dónde alojarse en Bucarest](/es/blog/donde-alojarse-bucarest).
+Bucarest tiene una reputación inmerecida. Es en realidad una de las ciudades más interesantes de Europa del Este, con un casco antiguo que ha protagonizado un verdadero renacimiento. Cocina local en un restaurante de almuerzo: de 5 a 8 euros. Cerveza: 1,50 euros. Hostal: de 12 a 20 euros. Billete de metro: 0,50 euros. Guía completa: [dónde alojarse en Bucarest](/es/blog/donde-alojarse-bucarest/).
 
 **8. Tallin (Estonia) — 50 a 65 euros/día**
 
@@ -70,7 +70,7 @@ Países de la UE como Bulgaria y Rumanía todavía no han adoptado el euro (a fe
 
 ## ¿Qué joyas ocultas vale la pena considerar más allá de esta lista?
 
-Si quieres explorar fuera del camino habitual, Moldavia (Chișinău), Kosovo (Pristina) y Bosnia (Sarajevo) tienen precios similares o más bajos con todavía menos turistas. Para una visión más amplia, lee [joyas ocultas de Europa](/es/blog/joyas-ocultas-europa).
+Si quieres explorar fuera del camino habitual, Moldavia (Chișinău), Kosovo (Pristina) y Bosnia (Sarajevo) tienen precios similares o más bajos con todavía menos turistas. Para una visión más amplia, lee [joyas ocultas de Europa](/es/blog/joyas-ocultas-europa/).
 
 ---
 
@@ -97,6 +97,6 @@ Mayo y junio, y septiembre y octubre son los mejores meses para viajar a ciudade
 ---
 
 **Más información:**
-- [Joyas ocultas de Europa: ciudades fuera de lo común](/es/blog/joyas-ocultas-europa)
-- [Dónde alojarse en Budapest: los mejores barrios](/es/blog/donde-alojarse-budapest)
-- [Dónde alojarse en Sofía: guía por barrios](/es/blog/donde-alojarse-sofia)
+- [Joyas ocultas de Europa: ciudades fuera de lo común](/es/blog/joyas-ocultas-europa/)
+- [Dónde alojarse en Budapest: los mejores barrios](/es/blog/donde-alojarse-budapest/)
+- [Dónde alojarse en Sofía: guía por barrios](/es/blog/donde-alojarse-sofia/)

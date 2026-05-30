@@ -35,7 +35,7 @@ Das historische Zentrum mit Pantheon, Piazza Navona, Trevi-Brunnen, Spanische Tr
 
 **Top-Picks:** J.K. Place Roma (5-Sterne nahe Spanische Treppe), Hotel de la Ville (Premium mit Dachterrasse), Albergo del Senato (mittelklasse direkt am Pantheon). Diese und 3.000+ weitere Rom-Hotels sind auf [Booking.com](https://www.booking.com) gelistet mit präzisen Stadtteil-Filtern und kostenlosem Storno.
 
-Die offizielle Stadt-Tourismusbehörde [Turismo Roma](https://www.turismoroma.it/de) hat eine kuratierte Übersicht zu lizenzierten Hotels pro Stadtteil. Lies dazu auch unseren [48 Stunden in Rom-Guide](/blog/48-stunden-rom) für die optimale Route.
+Die offizielle Stadt-Tourismusbehörde [Turismo Roma](https://www.turismoroma.it/de) hat eine kuratierte Übersicht zu lizenzierten Hotels pro Stadtteil. Lies dazu auch unseren [48 Stunden in Rom-Guide](/blog/48-stunden-rom/) für die optimale Route.
 
 ## Trastevere: Das lebendige Rom
 
@@ -102,7 +102,7 @@ Für Rom ist [Booking.com](https://www.booking.com) klar die beste Plattform:
 
 Direkter Hotel-Buchung lohnt nur bei Premium (Hassler, J.K. Place) für mögliche Upgrades.
 
-Lies dazu auch unseren [Apulien-Guide](/blog/apulien-sueditalien-guide), wenn du Süditalien als Verlängerung planst.
+Lies dazu auch unseren [Apulien-Guide](/blog/apulien-sueditalien-guide/), wenn du Süditalien als Verlängerung planst.
 
 ---
 
@@ -129,6 +129,6 @@ Backpacker: 700-1.000 Euro pro Person inkl. Flug (Hostel, Pizza al taglio). Mitt
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
-- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona)
-- [48 Stunden in Rom: Die ehrliche Kurz-Reise-Route](/blog/48-stunden-rom)
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris/)
+- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona/)
+- [48 Stunden in Rom: Die ehrliche Kurz-Reise-Route](/blog/48-stunden-rom/)

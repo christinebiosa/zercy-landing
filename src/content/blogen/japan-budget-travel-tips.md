@@ -26,7 +26,7 @@ The JR Pass pays off if you are connecting multiple cities by Shinkansen. Tokyo,
 
 If you are staying in one city or just taking short trips in Tokyo or Osaka, the IC Card (Suica or ICOCA) is cheaper. This rechargeable card works on subways, buses, trains, and even in convenience stores. A single ride in Tokyo often costs under 2 euros. No reason for a pass.
 
-For a three-week trip across Japan, check the [Japan 3-Week Route guide](/en/blog/japan-3-week-route). For shorter trips or Tokyo-focused stays, stick with the IC Card.
+For a three-week trip across Japan, check the [Japan 3-Week Route guide](/en/blog/japan-3-week-route/). For shorter trips or Tokyo-focused stays, stick with the IC Card.
 
 ## What does food in Japan actually cost?
 
@@ -38,7 +38,7 @@ This is the biggest myth about Japan travel. Food is cheap. Sometimes very cheap
 
 **Izakayas at lunch.** Many izakayas (Japanese pubs) open at lunch and offer a set: main course, miso, rice, salad for 8 to 12 euros. The same dishes at dinner cost twice as much. Lunch is the most affordable meal of the day in Japan.
 
-**Conveyor belt sushi.** Kaiten sushi spots like Sushiro or Kura Sushi: from 1 euro per plate. A satisfying lunch comes to 10 to 15 euros. This applies to Tokyo food experiences too, covered in the [Tokyo Foodie Trip guide](/en/blog/tokyo-foodie-trip).
+**Conveyor belt sushi.** Kaiten sushi spots like Sushiro or Kura Sushi: from 1 euro per plate. A satisfying lunch comes to 10 to 15 euros. This applies to Tokyo food experiences too, covered in the [Tokyo Foodie Trip guide](/en/blog/tokyo-foodie-trip/).
 
 Realistic daily food budget: 15 to 25 euros if you mix (convenience store in the morning, ramen at noon, izakaya lunch).
 
@@ -54,7 +54,7 @@ Accommodation is the most variable cost. Here are the options from cheap to comf
 
 **Business hotels.** Chains like Toyoko Inn or Dormy Inn: clean, functional, breakfast sometimes included. Single rooms from 50 to 70 euros in a central location. The value for money is excellent.
 
-If you want to save on flights too, the [Cheap Flights Tips guide](/en/blog/cheap-flights-tips) has concrete strategies.
+If you want to save on flights too, the [Cheap Flights Tips guide](/en/blog/cheap-flights-tips/) has concrete strategies.
 
 ## What does sightseeing actually cost?
 
@@ -103,6 +103,6 @@ At a convenience store (7-Eleven, FamilyMart, Lawson) you pay 3 to 5 euros for a
 ---
 
 **Read more:**
-- [Japan 3-Week Route: Complete Itinerary Planning](/en/blog/japan-3-week-route)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Night Trains Europe 2026: Everything You Need to Know](/en/blog/night-trains-europe-2026)
+- [Japan 3-Week Route: Complete Itinerary Planning](/en/blog/japan-3-week-route/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Night Trains Europe 2026: Everything You Need to Know](/en/blog/night-trains-europe-2026/)

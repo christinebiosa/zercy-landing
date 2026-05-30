@@ -81,6 +81,6 @@ El plov es el plato nacional: una olla de arroz con cordero, zanahorias, cebolla
 
 ## Más artículos
 
-- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights)
-- [Nepal: Guía de viaje con highlights y trekking esencial](/es/blog/nepal-guia-viaje-highlights)
-- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights/)
+- [Nepal: Guía de viaje con highlights y trekking esencial](/es/blog/nepal-guia-viaje-highlights/)
+- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

@@ -25,7 +25,7 @@ Lokales Erlebnis. Wenn du in einem typischen Stadtviertel wohnen willst, statt i
 
 Kochen statt Restaurant. Wer aus diätetischen oder finanziellen Gründen selbst kochen will, braucht eine Küche. Die meisten Hotels haben das nicht.
 
-Falls du dich für besondere Hotels interessierst, lies auch unseren [Boutique Hotel-Guide](/blog/boutique-hotels).
+Falls du dich für besondere Hotels interessierst, lies auch unseren [Boutique Hotel-Guide](/blog/boutique-hotels/).
 
 ## Wann ist ein Hotel die bessere Wahl?
 
@@ -39,7 +39,7 @@ Zuverlässigkeit. Hotels stornieren Buchungen extrem selten. AirBnB-Hosts schon.
 
 Service. Concierge, 24h-Rezeption, Frühstück, Gepäckaufbewahrung nach Checkout. Kleine Dinge, die beim Reisen einen großen Unterschied machen.
 
-Lies auch unsere [Riads in Marokko-Übersicht](/blog/riads-marokko-guide) für besondere Unterkunftserlebnisse.
+Lies auch unsere [Riads in Marokko-Übersicht](/blog/riads-marokko-guide/) für besondere Unterkunftserlebnisse.
 
 ## Was viele übersehen: Booking.com hat beides
 
@@ -79,7 +79,7 @@ Eine pragmatische Such-Strategie für jede Reise.
 
 **Schritt 4:** Wenn das Apartment nur auf AirBnB existiert, lies sehr genau die Bewertungen. Vermeide Hosts mit weniger als 4,8 Sternen oder weniger als 30 Bewertungen.
 
-Falls du auf Reisen Geld sparen willst, schau dir auch unseren [Mietwagen-Consolidator-Guide](/blog/mietwagen-consolidator-guenstiger-fahren) an.
+Falls du auf Reisen Geld sparen willst, schau dir auch unseren [Mietwagen-Consolidator-Guide](/blog/mietwagen-consolidator-guenstiger-fahren/) an.
 
 ---
 
@@ -106,6 +106,6 @@ Wähle Hosts mit "Superhost"-Status, mindestens 50 Bewertungen, Antwortrate übe
 ---
 
 **Mehr lesen:**
-- [Boutique Hotels: Kleine Häuser mit Charakter](/blog/boutique-hotels)
-- [Riads in Marokko: Welche lohnen sich wirklich?](/blog/riads-marokko-guide)
-- [Mietwagen-Consolidator: Bis zu 40 Prozent günstiger](/blog/mietwagen-consolidator-guenstiger-fahren)
+- [Boutique Hotels: Kleine Häuser mit Charakter](/blog/boutique-hotels/)
+- [Riads in Marokko: Welche lohnen sich wirklich?](/blog/riads-marokko-guide/)
+- [Mietwagen-Consolidator: Bis zu 40 Prozent günstiger](/blog/mietwagen-consolidator-guenstiger-fahren/)

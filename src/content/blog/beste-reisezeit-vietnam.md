@@ -66,6 +66,6 @@ Für einen ersten Vietnam-Besuch empfehlen sich Ho Chi Minh Stadt, Hoi An und Ha
 ---
 
 **Mehr lesen:**
-- [Vietnam 2 Wochen: Die beste Route](/blog/vietnam-2-wochen-route)
-- [Südostasien auf Budget: Was du wirklich brauchst](/blog/suedostasien-budget-reisen)
-- [Wo übernachten in Hanoi](/blog/wo-uebernachten-hanoi)
+- [Vietnam 2 Wochen: Die beste Route](/blog/vietnam-2-wochen-route/)
+- [Südostasien auf Budget: Was du wirklich brauchst](/blog/suedostasien-budget-reisen/)
+- [Wo übernachten in Hanoi](/blog/wo-uebernachten-hanoi/)

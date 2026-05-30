@@ -55,7 +55,7 @@ The downtown area behind the promenade is cheaper and more local. Dam Market (Nh
 
 **Top picks:** Golden Rain 2 Hotel (reliable mid-range in the center), Ibis Styles Nha Trang (affordable chain, clean, central), Muong Thanh Holiday Nha Trang (Vietnamese chain, good value).
 
-The [Vietnam 2-week travel guide](/en/blog/vietnam-2-week-itinerary) covers overall route planning. For the north: [Where to Stay in Hanoi](/en/blog/where-to-stay-hanoi).
+The [Vietnam 2-week travel guide](/en/blog/vietnam-2-week-itinerary/) covers overall route planning. For the north: [Where to Stay in Hanoi](/en/blog/where-to-stay-hanoi/).
 
 ## Vinpearl Island: Holiday Resort on Its Own Island
 
@@ -106,6 +106,6 @@ Cam Ranh Airport (CXR) is 35 km south of the city. Taxi: 15–25 EUR (45–60 mi
 ---
 
 **Read more:**
-- [Vietnam: 2-Week Itinerary with Tips](/en/blog/vietnam-2-week-itinerary)
-- [Where to Stay in Hanoi: Best Neighborhoods](/en/blog/where-to-stay-hanoi)
-- [Southeast Asia on a Budget](/en/blog/southeast-asia-budget-travel)
+- [Vietnam: 2-Week Itinerary with Tips](/en/blog/vietnam-2-week-itinerary/)
+- [Where to Stay in Hanoi: Best Neighborhoods](/en/blog/where-to-stay-hanoi/)
+- [Southeast Asia on a Budget](/en/blog/southeast-asia-budget-travel/)

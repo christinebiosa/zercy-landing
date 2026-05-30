@@ -40,7 +40,7 @@ Costa Rica no es el destino más económico de América Central, pero tampoco es
 - **Clase de surf (2 horas)**: 45-70 USD con instructor certificado
 - **Comida (restaurantes locales)**: 8-15 USD por comida
 
-Para una visita más completa al país, consulta nuestra guía de [ruta completa por Costa Rica](/es/blog/costa-rica-ruta-completa).
+Para una visita más completa al país, consulta nuestra guía de [ruta completa por Costa Rica](/es/blog/costa-rica-ruta-completa/).
 
 Zercy puede ayudarte a organizar el vuelo y el alojamiento para tu viaje de surf en Costa Rica. Guarda tus planes en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -67,6 +67,6 @@ La temporada lluviosa (mayo-octubre) tiene lluvia intensa pero en intervalos, no
 ---
 
 **Más para leer:**
-- [Costa Rica: ruta completa por el país en 2 semanas](/es/blog/costa-rica-ruta-completa)
-- [Dónde alojarse en Bali: Seminyak, Ubud o Canggu](/es/blog/donde-alojarse-bali)
-- [Islandia: guía de viaje completa 2026](/es/blog/islandia-guia-viaje)
+- [Costa Rica: ruta completa por el país en 2 semanas](/es/blog/costa-rica-ruta-completa/)
+- [Dónde alojarse en Bali: Seminyak, Ubud o Canggu](/es/blog/donde-alojarse-bali/)
+- [Islandia: guía de viaje completa 2026](/es/blog/islandia-guia-viaje/)

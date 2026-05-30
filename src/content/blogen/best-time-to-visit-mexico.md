@@ -21,7 +21,7 @@ December through April is reliable and deservedly popular. The water is clear, t
 
 June through October carries risk. Rain doesn't make the coast unbearable, but a category 3 or 4 hurricane is a real possibility, particularly in September and October. Most travelers skip September entirely. The risk isn't daily thunderstorms, which are manageable. The risk is a major storm that cancels your trip or strands you. If cost is the priority and you're willing to monitor forecasts carefully, late June and early October can work. If certainty matters, stay within the dry season window.
 
-For accommodation along the coast, our [where to stay in Cancún](/en/blog/where-to-stay-cancun) and [where to stay in Tulum](/en/blog/where-to-stay-tulum) guides cover the neighborhood breakdowns. Cancún's Hotel Zone versus downtown has a different audience. Tulum's beach strip versus the town center has a significant price gap worth understanding before booking.
+For accommodation along the coast, our [where to stay in Cancún](/en/blog/where-to-stay-cancun/) and [where to stay in Tulum](/en/blog/where-to-stay-tulum/) guides cover the neighborhood breakdowns. Cancún's Hotel Zone versus downtown has a different audience. Tulum's beach strip versus the town center has a significant price gap worth understanding before booking.
 
 ## What Is the Best Time to Visit Mexico City and Colonial Cities?
 
@@ -47,7 +47,7 @@ Chiapas, home to Palenque, the Sumidero Canyon, the jungle rivers and the highla
 
 July through September in Chiapas means mud, slippery trails and some road closures in remote areas. Palenque, the Mayan ruins in the jungle, is still accessible year-round but the heat and humidity in July and August can be genuinely punishing. Walking among temples in 35-degree heat with 80 percent humidity is not everyone's idea of a highlight.
 
-For travelers building a full [Mexico road trip route](/en/blog/mexico-road-trip-route), the scheduling challenge is combining the Caribbean coast with Mexico City and Chiapas in a way that doesn't split your trip across conflicting seasons. November and December solve most of that: dry in all three regions, warm on the coast, comfortable in the cities.
+For travelers building a full [Mexico road trip route](/en/blog/mexico-road-trip-route/), the scheduling challenge is combining the Caribbean coast with Mexico City and Chiapas in a way that doesn't split your trip across conflicting seasons. November and December solve most of that: dry in all three regions, warm on the coast, comfortable in the cities.
 
 ## What Are the Cheapest Months to Visit Mexico?
 
@@ -77,6 +77,6 @@ At least four to five months ahead, ideally by June for late October to early No
 
 ## Read more
 
-- [Mexico Road Trip Route: Yucatán, Oaxaca and Beyond](/en/blog/mexico-road-trip-route)
-- [Where to Stay in Cancún: Best Areas and Hotels](/en/blog/where-to-stay-cancun)
-- [Where to Stay in Tulum: Best Areas and Hotels](/en/blog/where-to-stay-tulum)
+- [Mexico Road Trip Route: Yucatán, Oaxaca and Beyond](/en/blog/mexico-road-trip-route/)
+- [Where to Stay in Cancún: Best Areas and Hotels](/en/blog/where-to-stay-cancun/)
+- [Where to Stay in Tulum: Best Areas and Hotels](/en/blog/where-to-stay-tulum/)

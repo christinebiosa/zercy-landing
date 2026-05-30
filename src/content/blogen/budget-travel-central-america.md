@@ -18,7 +18,7 @@ Honduras is equally budget-friendly. The Bay Islands, especially Utila, are famo
 
 Belize sits in the middle. Caye Caulker, the laid-back alternative to pricier Ambergris Caye, is manageable at $40 to $60 per day. Snorkeling in the Belize Barrier Reef is affordable through local operators. The western jungle parks run around $50 per day.
 
-Costa Rica is the budget traveler's challenge. You start at $60 to $80 per day here. National park fees add up, bus networks are thin in parts, and hostels charge near-European prices. Costa Rica is still worth it. The wildlife experience is unmatched anywhere in the region. Our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route) walks you through the smartest route.
+Costa Rica is the budget traveler's challenge. You start at $60 to $80 per day here. National park fees add up, bus networks are thin in parts, and hostels charge near-European prices. Costa Rica is still worth it. The wildlife experience is unmatched anywhere in the region. Our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route/) walks you through the smartest route.
 
 Panama falls between Costa Rica and Guatemala. Panama City has excellent hostels. The Canal, San Blas Islands, and the coffee highlands around Boquete are all reachable by public transport. Budget $45 to $65 per day.
 
@@ -46,11 +46,11 @@ A solid 4 to 6-week route starts in Guatemala. Fly into Guatemala City and head 
 
 Second stop: Belize. A direct bus runs from Flores to Belize City. Then a speedboat to Caye Caulker. Snorkel, snorkel, snorkel some more.
 
-Third stop: Honduras. From Belize down to Copán, the compact but stunning Mayan ruin near the Guatemalan border. Then out to the Bay Islands. Roatán is pricier, Utila is the budget diver's paradise. Our [Guatemala travel guide](/en/blog/guatemala-travel-guide-highlights) covers all the country's highlights in detail.
+Third stop: Honduras. From Belize down to Copán, the compact but stunning Mayan ruin near the Guatemalan border. Then out to the Bay Islands. Roatán is pricier, Utila is the budget diver's paradise. Our [Guatemala travel guide](/en/blog/guatemala-travel-guide-highlights/) covers all the country's highlights in detail.
 
 Fourth stop: Costa Rica. Enter via land from Honduras or Nicaragua. Focus on the Arenal volcano area, Manuel Antonio, and the Osa Peninsula if budget allows. Costa Rica stays affordable if you book hostels early and hit national parks in the morning when entrance fees are lower.
 
-Final stop: Panama. The Canal in Panama City is mandatory. After that, San Blas or Bocas del Toro for beaches, then fly home from Tocumen International. A good travel insurance policy matters here too. Our article on [travel insurance worth it 2026](/en/blog/travel-insurance-worth-it-2026) breaks down what you actually need.
+Final stop: Panama. The Canal in Panama City is mandatory. After that, San Blas or Bocas del Toro for beaches, then fly home from Tocumen International. A good travel insurance policy matters here too. Our article on [travel insurance worth it 2026](/en/blog/travel-insurance-worth-it-2026/) breaks down what you actually need.
 
 ## What should you know about safety in Central America?
 
@@ -82,12 +82,12 @@ Utila in Honduras is considered one of the most affordable dive destinations in 
 
 ### Which Central American countries should you skip on a tight budget?
 
-No country is completely off-limits on a budget, but Costa Rica requires the most planning to keep costs under control. National park fees, limited cheap transport, and higher accommodation costs make it the most expensive country in the region. Panama City can also drain a budget quickly if you eat in tourist restaurants. Both countries are worth the extra spend if you prioritize nature and wildlife. For a comparison with another affordable long-haul region, see our [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel).
+No country is completely off-limits on a budget, but Costa Rica requires the most planning to keep costs under control. National park fees, limited cheap transport, and higher accommodation costs make it the most expensive country in the region. Panama City can also drain a budget quickly if you eat in tourist restaurants. Both countries are worth the extra spend if you prioritize nature and wildlife. For a comparison with another affordable long-haul region, see our [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel/).
 
 ---
 
 ## Read more
 
-- [Costa Rica Road Trip: The Best Route for 3 Weeks](/en/blog/costa-rica-road-trip-route)
-- [Guatemala Travel Guide: Antigua, Tikal and More](/en/blog/guatemala-travel-guide-highlights)
-- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [Costa Rica Road Trip: The Best Route for 3 Weeks](/en/blog/costa-rica-road-trip-route/)
+- [Guatemala Travel Guide: Antigua, Tikal and More](/en/blog/guatemala-travel-guide-highlights/)
+- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)

@@ -23,7 +23,7 @@ This is the most important question. The answer depends on how long you're stayi
 
 **E33G Digital Nomad Visa:** Indonesia's answer to the growing demand for legal remote work. Valid for up to 5 years, allowing you to legally work for non-Indonesian employers from Bali. The catch: it's expensive and administratively demanding. Costs typically run between $1,500 and $3,000 USD depending on the service provider, plus income documentation (generally at least $2,000 per month). For nomads planning a long-term base in Bali and wanting full legal clarity, it's the cleanest option.
 
-For a broader comparison of digital nomad visas across different countries, see our guide on [Digital Nomad Visa Countries 2026](/en/blog/digital-nomad-visa-countries-2026).
+For a broader comparison of digital nomad visas across different countries, see our guide on [Digital Nomad Visa Countries 2026](/en/blog/digital-nomad-visa-countries-2026/).
 
 ## Where should you work from in Bali?
 
@@ -49,7 +49,7 @@ Bali is cheaper than Europe. But it's not cheaper than it was five years ago.
 
 **Transport:** A scooter costs $5-7 per day, or $60-90 per month. In Canggu and Ubud this is the standard way to get around. Grab (ride-hailing) works well for shorter trips. For day excursions around the island, a private driver costs roughly $40-60 for the day.
 
-For a full breakdown of tax considerations when working remotely from abroad, see our [Workation Tax Rules 2026](/en/blog/workation-tax-rules-2026) guide.
+For a full breakdown of tax considerations when working remotely from abroad, see our [Workation Tax Rules 2026](/en/blog/workation-tax-rules-2026/) guide.
 
 ## What should you know about Bali before you go?
 
@@ -65,7 +65,7 @@ A few things that catch most first-time visitors off guard.
 
 **Health:** Dengue fever is present in Bali. Mosquito repellent is not optional, especially in rainy season. Sunburn and dehydration are the most common reasons visitors spend a day in bed. Stick to bottled water.
 
-For accommodation options across all budgets, check our guide on [Where to Stay in Bali](/en/blog/where-to-stay-bali). If you're comparing Bali to European workation destinations, our [Workation Portugal and Spain 2026](/en/blog/workation-portugal-spain-2026) guide has a useful counterpoint.
+For accommodation options across all budgets, check our guide on [Where to Stay in Bali](/en/blog/where-to-stay-bali/). If you're comparing Bali to European workation destinations, our [Workation Portugal and Spain 2026](/en/blog/workation-portugal-spain-2026/) guide has a useful counterpoint.
 
 ---
 
@@ -87,6 +87,6 @@ At established coworking spaces like Dojo Bali or Hubud, internet is solid (50-2
 
 ## Read more
 
-- [Digital Nomad Visa Countries 2026: Where You Can Work Legally](/en/blog/digital-nomad-visa-countries-2026)
-- [Workation Tax Rules 2026: What You Actually Owe](/en/blog/workation-tax-rules-2026)
-- [Where to Stay in Bali: Best Areas and Hotels](/en/blog/where-to-stay-bali)
+- [Digital Nomad Visa Countries 2026: Where You Can Work Legally](/en/blog/digital-nomad-visa-countries-2026/)
+- [Workation Tax Rules 2026: What You Actually Owe](/en/blog/workation-tax-rules-2026/)
+- [Where to Stay in Bali: Best Areas and Hotels](/en/blog/where-to-stay-bali/)

@@ -34,7 +34,7 @@ Die Entscheidung Zelt vs. Dachzelt vs. Wohnmobil bestimmt Flexibilität, Kosten 
 
 **Dachzelt** hat in den letzten Jahren stark zugelegt. Aufbauzeit unter fünf Minuten, deutlich mehr Komfort als ein Bodenzelt, kein feuchter Boden. Nachteil: Du brauchst ein passendes Auto und eine stabile Dachlast-Freigabe. Preis: 800 bis 2.500 Euro für das Zelt selbst.
 
-**Wohnmobil** ist die teuerste Option, aber auch die entspannteste. Mietpreise in der Hauptsaison ab 100 bis 150 Euro pro Tag, inkl. Vollausrüstung. Für längere Reisen (zwei Wochen plus) rechnet sich das im Vergleich zu Hotel plus Restaurant. Ein [Campervan-Urlaub in Europa](/blog/campervan-urlaub-europa) hat seine eigene Logik und braucht etwas Vorbereitung.
+**Wohnmobil** ist die teuerste Option, aber auch die entspannteste. Mietpreise in der Hauptsaison ab 100 bis 150 Euro pro Tag, inkl. Vollausrüstung. Für längere Reisen (zwei Wochen plus) rechnet sich das im Vergleich zu Hotel plus Restaurant. Ein [Campervan-Urlaub in Europa](/blog/campervan-urlaub-europa/) hat seine eigene Logik und braucht etwas Vorbereitung.
 
 Für alle Varianten gilt: Eine gute Schlafsack-Kombination (3-Jahreszeiten + Liner) ist wichtiger als teures Zubehör. Und eine Stirnlampe. Immer eine Stirnlampe.
 
@@ -66,18 +66,18 @@ Das ist der Punkt, an dem die meisten Einsteiger Fehler machen.
 
 **Grauzonen:** Spanien und Kroatien haben unklare Regeln außerhalb von Nationalparks. Lokale Recherche vor Ort zahlt sich aus. Die Park4Night-Community kommentiert aktiv, welche Plätze toleriert werden.
 
-Die [Skandinavien Rundreise](/blog/skandinavien-rundreise-route) ist für Wildcamper besonders gut geeignet. Drei Länder, alle mit Jedermannsrecht.
+Die [Skandinavien Rundreise](/blog/skandinavien-rundreise-route/) ist für Wildcamper besonders gut geeignet. Drei Länder, alle mit Jedermannsrecht.
 
 ---
 
 Zercy baut die aktuellen Flugpreise direkt in jeden Reiseplan ein. Gib dein Ziel ein und bekomme sofort Vergleichslinks. Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen alle Optionen zur Hand hast.
 
-Für Camping-Trips, die du mit dem Mietwagen kombinierst: [Mietwagen-Check für Europa](/blog/mietwagen-check) zeigt dir die günstigen Anbieter und was du beim Abholen beachten musst. Und wenn du planst, auf einem langen Trip auch mal eine Nacht innen zu schlafen, lohnt sich der Blick auf [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich) bevor du buchst.
+Für Camping-Trips, die du mit dem Mietwagen kombinierst: [Mietwagen-Check für Europa](/blog/mietwagen-check/) zeigt dir die günstigen Anbieter und was du beim Abholen beachten musst. Und wenn du planst, auf einem langen Trip auch mal eine Nacht innen zu schlafen, lohnt sich der Blick auf [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/) bevor du buchst.
 
 **Mehr lesen:**
-- [Campervan Urlaub Europa: Der komplette Guide](/blog/campervan-urlaub-europa)
-- [Skandinavien Rundreise: Route und Tipps](/blog/skandinavien-rundreise-route)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Campervan Urlaub Europa: Der komplette Guide](/blog/campervan-urlaub-europa/)
+- [Skandinavien Rundreise: Route und Tipps](/blog/skandinavien-rundreise-route/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
 
 ## Häufige Fragen
 

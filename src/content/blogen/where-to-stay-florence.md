@@ -55,7 +55,7 @@ Hotels in Oltrarno cost 10 to 20 percent less than in Centro Storico for compara
 - **Hotel Lungarno** (4-star, Arno views, romantic, around €250)
 - **Soprarno Suites** (boutique, individual rooms, around €230)
 
-For other Italian city comparisons, see our guides on [where to stay in Rome](/en/blog/where-to-stay-rome) or [where to stay in Munich](/en/blog/where-to-stay-munich).
+For other Italian city comparisons, see our guides on [where to stay in Rome](/en/blog/where-to-stay-rome/) or [where to stay in Munich](/en/blog/where-to-stay-munich/).
 
 ## Santa Croce: For culture and great restaurants
 
@@ -102,6 +102,6 @@ For summer travel (June to August): two to three months ahead. For school holida
 ---
 
 **Read more:**
-- [Where to stay in Rome: The best neighborhoods for every type of trip](/en/blog/where-to-stay-rome)
-- [Where to stay in Munich: From Altstadt to Haidhausen](/en/blog/where-to-stay-munich)
-- [Night trains in Europe 2026: Best routes and what they cost](/en/blog/night-trains-europe-2026)
+- [Where to stay in Rome: The best neighborhoods for every type of trip](/en/blog/where-to-stay-rome/)
+- [Where to stay in Munich: From Altstadt to Haidhausen](/en/blog/where-to-stay-munich/)
+- [Night trains in Europe 2026: Best routes and what they cost](/en/blog/night-trains-europe-2026/)

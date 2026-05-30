@@ -45,7 +45,7 @@ Direkt südlich vom Hoan-Kiem-See, das ehemalige französische Kolonialviertel (
 
 **Top-Picks:** Sofitel Legend Metropole Hanoi (legendäres 5-Sterne seit 1901, Charlie Chaplin und Graham Greene wohnten hier), Apricot Hotel (Boutique-Premium am See), Movenpick Hotel Hanoi (modernes Premium).
 
-Lies dazu auch unseren [Bangkok-Guide](/blog/wo-uebernachten-bangkok), Vietnam und Thailand sind oft gemeinsame SEA-Routen.
+Lies dazu auch unseren [Bangkok-Guide](/blog/wo-uebernachten-bangkok/), Vietnam und Thailand sind oft gemeinsame SEA-Routen.
 
 ## Wann ist die beste Reisezeit für Hanoi?
 
@@ -117,6 +117,6 @@ Backpacker: 600-900 Euro pro Person inkl. Flug (Hostel im Old Quarter, Pho 1-2 E
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok)
-- [Wo übernachten in Singapur: Die 5 Stadtteile](/blog/wo-uebernachten-singapur)
-- [Open-Jaw Tickets: Der Reise-Hack](/blog/open-jaw-tickets-reise-hack)
+- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok/)
+- [Wo übernachten in Singapur: Die 5 Stadtteile](/blog/wo-uebernachten-singapur/)
+- [Open-Jaw Tickets: Der Reise-Hack](/blog/open-jaw-tickets-reise-hack/)

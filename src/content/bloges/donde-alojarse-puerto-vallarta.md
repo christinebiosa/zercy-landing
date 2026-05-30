@@ -65,7 +65,7 @@ Marina Vallarta se ubica entre la Zona Hotelera y el aeropuerto. Un barrio moder
 
 **Opciones recomendadas:** Velas Vallarta (concepto de suites, todo incluido, acceso directo a playa), Villa del Palmar Beach Resort (familiar, varias piscinas), Hotel Emporio (entrada económica en buena ubicación).
 
-Si estás pensando en otros destinos de México, lee nuestra guía de [dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico).
+Si estás pensando en otros destinos de México, lee nuestra guía de [dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico/).
 
 ## Versalles: Para los que Saben Comer
 
@@ -122,6 +122,6 @@ Puerto Vallarta es considerado uno de los destinos turísticos más seguros de M
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Ciudad de México: los mejores barrios](/es/blog/donde-alojarse-ciudad-de-mexico)
-- [Dónde alojarse en Cancún: Zona Hotelera vs. Centro](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Tulum: playa vs. pueblo](/es/blog/donde-alojarse-tulum)
+- [Dónde alojarse en Ciudad de México: los mejores barrios](/es/blog/donde-alojarse-ciudad-de-mexico/)
+- [Dónde alojarse en Cancún: Zona Hotelera vs. Centro](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Tulum: playa vs. pueblo](/es/blog/donde-alojarse-tulum/)

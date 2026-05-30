@@ -92,7 +92,7 @@ Hotel recommendations per stop, all bookable via [Booking.com](https://www.booki
 - Casa Vladi (boutique B&B in old town)
 - Hotel Tartini (modern mid-range at Tartini Plaza)
 
-See our [Vienna guide](/en/blog/where-to-stay-vienna) for the Central European variant.
+See our [Vienna guide](/en/blog/where-to-stay-vienna/) for the Central European variant.
 
 ## What does a week in Slovenia really cost?
 
@@ -141,6 +141,6 @@ Backpacker: $770-1,000 per person incl. flight (hostel, local food, bus). Mid-ra
 ---
 
 **Read more:**
-- [Where to stay in Vienna: 5 districts](/en/blog/where-to-stay-vienna)
-- [Albania Riviera: Europe's last undiscovered coast](/en/blog/albania-riviera-hidden-coast)
-- [Hidden gems in Europe: 7 underrated places](/en/blog/hidden-gems-europe)
+- [Where to stay in Vienna: 5 districts](/en/blog/where-to-stay-vienna/)
+- [Albania Riviera: Europe's last undiscovered coast](/en/blog/albania-riviera-hidden-coast/)
+- [Hidden gems in Europe: 7 underrated places](/en/blog/hidden-gems-europe/)

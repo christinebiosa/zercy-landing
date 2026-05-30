@@ -13,7 +13,7 @@ Eine Costa Rica Rundreise in 2 Wochen funktioniert, wenn du die richtige Route w
 
 Hier ist die Route, die sich wirklich fahren lässt.
 
-Falls du nach der Rundreise noch Strand-Tage in Mittelamerika willst, schau dir auch unseren [Wo-übernachten-in-Cancún-Guide](/blog/wo-uebernachten-cancun) an, gut kombinierbar als Add-on.
+Falls du nach der Rundreise noch Strand-Tage in Mittelamerika willst, schau dir auch unseren [Wo-übernachten-in-Cancún-Guide](/blog/wo-uebernachten-cancun/) an, gut kombinierbar als Add-on.
 
 ## Warum sind 2 Wochen die optimale Länge?
 
@@ -63,7 +63,7 @@ Der krönende Abschluss. Die Pazifik-Surf-Küste. Von Manuel Antonio fährst du 
 
 Hier lässt du los. Surfen lernen, Yoga, Smoothie-Bowls, barfuß durch Sand. Wenn du in Nosara bist, hast du Playa Guiones, einer der konsistentesten Surf-Strände der Welt. Wenn du in Santa Teresa bist, mischt sich Surf-Lifestyle mit Boho-Szene.
 
-Die [Costa Rica Surfer-Artikel](/blog/costa-rica-surfen) gehen tiefer auf die Surf-Spots ein.
+Die [Costa Rica Surfer-Artikel](/blog/costa-rica-surfen/) gehen tiefer auf die Surf-Spots ein.
 
 ### Rückweg
 
@@ -73,9 +73,9 @@ Von Santa Teresa gibt es zwei Wege zurück nach SJO: die Fähre von Paquera nach
 
 4x4 ist nicht optional. Die Straßen nach Monteverde und Santa Teresa sind ungepflastert. Normale Autos schaffen es nur in der Trockenzeit, und auch dann mit Vorsicht.
 
-**Versicherung**: Die gesetzliche Haftpflicht in Costa Rica ist Pflicht, Vollkasko dringend empfohlen. Vor Ort am Schalter wird aggressiv hochverkauft. Besser: vorab über einen [Mietwagen-Consolidator](/blog/mietwagen-consolidator-guenstiger-fahren) komplett abschließen, spart 30 bis 50 Prozent.
+**Versicherung**: Die gesetzliche Haftpflicht in Costa Rica ist Pflicht, Vollkasko dringend empfohlen. Vor Ort am Schalter wird aggressiv hochverkauft. Besser: vorab über einen [Mietwagen-Consolidator](/blog/mietwagen-consolidator-guenstiger-fahren/) komplett abschließen, spart 30 bis 50 Prozent.
 
-**Versteckte Kosten**: Airport-Zuschlag, Junge-Fahrer-Gebühr, Einweg-Gebühren. Der [Artikel zu versteckten Mietwagen-Kosten](/blog/mietwagen-versteckte-kosten-vermeiden) zeigt, worauf du achten musst.
+**Versteckte Kosten**: Airport-Zuschlag, Junge-Fahrer-Gebühr, Einweg-Gebühren. Der [Artikel zu versteckten Mietwagen-Kosten](/blog/mietwagen-versteckte-kosten-vermeiden/) zeigt, worauf du achten musst.
 
 **Budget**: Ein ordentlicher 4x4 für 2 Wochen kostet 700 bis 1.100 Euro inklusive Vollkasko. Das ist der größte Einzelposten deiner Reise, spar hier nicht am falschen Ende.
 
@@ -106,9 +106,9 @@ Insider-Tipp: **September und Oktober** sind am Pazifik am regenreichsten, aber 
 
 ---
 
-Zercy plant dir den kompletten Costa-Rica-Trip in einer Unterhaltung. Von Flügen über Mietwagen bis Hotels. Das [Zercy Logbook](/blog/zercy-logbook) speichert alle Buchungen an einem Ort, damit du nichts verlierst.
+Zercy plant dir den kompletten Costa-Rica-Trip in einer Unterhaltung. Von Flügen über Mietwagen bis Hotels. Das [Zercy Logbook](/blog/zercy-logbook/) speichert alle Buchungen an einem Ort, damit du nichts verlierst.
 
-**Mehr lesen:** [Costa Rica: Surfen & Pura Vida](/blog/costa-rica-surfen) · [Mietwagen-Consolidator: Warum damit oft günstiger](/blog/mietwagen-consolidator-guenstiger-fahren) · [Mietwagen-Check: 10 Dinge prüfen bevor du losfährst](/blog/mietwagen-check)
+**Mehr lesen:** [Costa Rica: Surfen & Pura Vida](/blog/costa-rica-surfen/) · [Mietwagen-Consolidator: Warum damit oft günstiger](/blog/mietwagen-consolidator-guenstiger-fahren/) · [Mietwagen-Check: 10 Dinge prüfen bevor du losfährst](/blog/mietwagen-check/)
 
 ## Häufige Fragen
 
@@ -131,6 +131,6 @@ Mittelklasse-Ecolodges in La Fortuna, Monteverde und Manuel Antonio kombinieren 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tulum: Beste Stadtteile für deine Karibik-Reise](/blog/wo-uebernachten-tulum)
-- [Costa Rica Surfen: Die besten Spots](/blog/costa-rica-surfen)
-- [Mietwagen in Costa Rica: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden)
+- [Wo übernachten in Tulum: Beste Stadtteile für deine Karibik-Reise](/blog/wo-uebernachten-tulum/)
+- [Costa Rica Surfen: Die besten Spots](/blog/costa-rica-surfen/)
+- [Mietwagen in Costa Rica: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden/)

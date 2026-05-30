@@ -59,7 +59,7 @@ El invierno en Liubliana es auténtico: mercado navideño, vino caliente, patina
 
 Trnovo está al sur del casco antiguo, junto al río. Es el barrio de los estudiantes, los artistas y los amantes del slow living. Pequeños bares escondidos tras fachadas antiguas. Librerías, talleres de arte, restaurantes vegetarianos. La iglesia y el puente de Trnovo, diseñados por Jože Plečnik (el equivalente esloveno de Manrique), son inconfundibles.
 
-Alojarse aquí significa vivir la atmósfera. Sin flujos de turistas, sin ruido después de medianoche. Solo el sonido del río. Y aun así, a 15 minutos andando del casco antiguo. Los hoteles escasean, pero los apartamentos y opciones de alojamiento privado abundan. Para quienes quieren entender Liubliana más que simplemente visitarla. La zona combina bien con una excursión por el [paisaje verde de Eslovenia](/es/blog/eslovenia-secreto-verde-2026).
+Alojarse aquí significa vivir la atmósfera. Sin flujos de turistas, sin ruido después de medianoche. Solo el sonido del río. Y aun así, a 15 minutos andando del casco antiguo. Los hoteles escasean, pero los apartamentos y opciones de alojamiento privado abundan. Para quienes quieren entender Liubliana más que simplemente visitarla. La zona combina bien con una excursión por el [paisaje verde de Eslovenia](/es/blog/eslovenia-secreto-verde-2026/).
 
 **Para quién encaja:** Viajeros creativos, viajeros solos, amantes de la cultura, quienes quieren la Liubliana estudiantil.
 
@@ -90,7 +90,7 @@ La zona de BTC City es para viajeros de negocios. El centro comercial más grand
 
 Liubliana es una ciudad pequeña. La mayoría de buenos hoteles están en el casco antiguo o en Center. Para apartamentos, Trnovo tiene las opciones más con encanto. Reservar directamente solo vale la pena en los pocos hoteles boutique de lujo si quieres paquetes de spa o extras especiales.
 
-Para excursiones desde Liubliana, consulta la [guía de viaje de Eslovenia](/es/blog/eslovenia-secreto-verde-2026) y nuestra comparativa de [dónde alojarse en Viena](/es/blog/donde-alojarse-viena) para otra ciudad centroeuropea.
+Para excursiones desde Liubliana, consulta la [guía de viaje de Eslovenia](/es/blog/eslovenia-secreto-verde-2026/) y nuestra comparativa de [dónde alojarse en Viena](/es/blog/donde-alojarse-viena/) para otra ciudad centroeuropea.
 
 ---
 
@@ -117,6 +117,6 @@ Noviembre, enero y febrero tienen los precios hoteleros más bajos. Los período
 ---
 
 **Más para leer:**
-- [Eslovenia: El secreto verde de Europa 2026](/es/blog/eslovenia-secreto-verde-2026)
-- [Dónde alojarse en Viena](/es/blog/donde-alojarse-viena)
-- [Joyas ocultas de Europa: Ciudades subestimadas](/es/blog/joyas-ocultas-europa)
+- [Eslovenia: El secreto verde de Europa 2026](/es/blog/eslovenia-secreto-verde-2026/)
+- [Dónde alojarse en Viena](/es/blog/donde-alojarse-viena/)
+- [Joyas ocultas de Europa: Ciudades subestimadas](/es/blog/joyas-ocultas-europa/)

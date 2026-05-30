@@ -75,9 +75,9 @@ Iceland is the only place in the world where the Mid-Atlantic Ridge sits above w
 
 A rental car in Iceland is more expensive than almost anywhere else. 80 to 150 euros per day for a regular SUV. In summer for the F-roads (highlands) absolutely a 4x4 with high ground clearance.
 
-**Insurance**: Iceland has special insurances you only get there. Gravel Protection, sand and ash storm protection are important because those damages happen often. A [rental consolidator](/en/blog/rental-consolidators-save-money) helps bundle all these insurances up front.
+**Insurance**: Iceland has special insurances you only get there. Gravel Protection, sand and ash storm protection are important because those damages happen often. A [rental consolidator](/en/blog/rental-consolidators-save-money/) helps bundle all these insurances up front.
 
-**Hidden costs**: gasoline is expensive (about 2.20 euros per liter). Plan 150 to 250 euros for fuel on the Ring Road. More on [hidden rental car costs](/en/blog/rental-car-hidden-costs-avoid) in our dedicated article.
+**Hidden costs**: gasoline is expensive (about 2.20 euros per liter). Plan 150 to 250 euros for fuel on the Ring Road. More on [hidden rental car costs](/en/blog/rental-car-hidden-costs-avoid/) in our dedicated article.
 
 ## How expensive is Iceland really?
 
@@ -101,9 +101,9 @@ Savings tips: Bónus supermarket instead of restaurants. Hot dogs (pylsur) are t
 
 ---
 
-Zercy helps you find flights to Keflavik, the right rental car with proper insurance and accommodations along the Ring Road. The [Zercy Logbook](/en/blog/zercy-logbook) organizes all bookings as a timeline, so your 8-day Ring Road trip stays manageable.
+Zercy helps you find flights to Keflavik, the right rental car with proper insurance and accommodations along the Ring Road. The [Zercy Logbook](/en/blog/zercy-logbook/) organizes all bookings as a timeline, so your 8-day Ring Road trip stays manageable.
 
-**Read more:** [Rental consolidators: how they save you money](/en/blog/rental-consolidators-save-money) · [Car rental traps: hidden costs and how to avoid them](/en/blog/rental-car-hidden-costs-avoid) · [Hidden gems of Europe](/en/blog/hidden-gems-europe)
+**Read more:** [Rental consolidators: how they save you money](/en/blog/rental-consolidators-save-money/) · [Car rental traps: hidden costs and how to avoid them](/en/blog/rental-car-hidden-costs-avoid/) · [Hidden gems of Europe](/en/blog/hidden-gems-europe/)
 
 ## Frequently Asked Questions
 

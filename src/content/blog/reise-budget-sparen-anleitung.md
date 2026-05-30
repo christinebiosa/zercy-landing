@@ -22,7 +22,7 @@ Hier sind realistische Tagesbudgets nach Reisestil. Diese Zahlen gelten für Unt
 
 **Südostasien Budget:** 40 bis 60 US-Dollar pro Tag. Guesthouse oder Hostel, Straßenessen, lokale Busse. Thailand, Vietnam, Kambodscha. Bali liegt etwas höher, ca. 50 bis 80 Dollar.
 
-**Lateinamerika:** 50 bis 80 US-Dollar pro Tag. Kolumbien, Peru, Ecuador. Argentinien ist schwieriger zu kalkulieren wegen der Wechselkurse. Mexiko liegt ähnlich. In [Südostasien und Lateinamerika](/blog/suedostasien-budget-reisen) gilt: wer flexibel bleibt und lokale Angebote nutzt, kommt mit der unteren Grenze aus.
+**Lateinamerika:** 50 bis 80 US-Dollar pro Tag. Kolumbien, Peru, Ecuador. Argentinien ist schwieriger zu kalkulieren wegen der Wechselkurse. Mexiko liegt ähnlich. In [Südostasien und Lateinamerika](/blog/suedostasien-budget-reisen/) gilt: wer flexibel bleibt und lokale Angebote nutzt, kommt mit der unteren Grenze aus.
 
 **Luxusreise:** 300 Euro und mehr. Vier-Sterne-Hotels, Restaurants ohne Preisblick, private Transfers. Diese Kategorie hat nach oben keine Grenze.
 
@@ -47,7 +47,7 @@ Der zweite Hebel sind Etappenziele. Statt "bis August 2.000 Euro" lieber: "bis E
 
 Was funktioniert noch gut: Bonuseinnahmen direkt aufs Reisekonto. Steuerrückerstattung, Prämien, Geburtstagsgeld. Diese Beträge fehlen im Alltag nicht, weil sie unregelmäßig kommen.
 
-Für günstige Flüge lohnt sich die Kombination aus Preisalarm bei Google Flights und den Tipps aus unserem Artikel [Günstig fliegen: Was wirklich hilft](/blog/guenstig-fliegen-tipps). Je früher du den Flug buchst, desto weniger musst du für ihn ansparen.
+Für günstige Flüge lohnt sich die Kombination aus Preisalarm bei Google Flights und den Tipps aus unserem Artikel [Günstig fliegen: Was wirklich hilft](/blog/guenstig-fliegen-tipps/). Je früher du den Flug buchst, desto weniger musst du für ihn ansparen.
 
 ## Welche digitalen Tools helfen beim Budgetmanagement?
 
@@ -65,7 +65,7 @@ Eine Reisekreditkarte lohnt sich besonders dann, wenn du Punkte oder Meilen samm
 
 Die häufigsten Planungsfehler sind nicht bei Flug oder Hotel, sondern bei Positionen, die viele gar nicht auf dem Radar haben.
 
-**Reiseversicherung.** Wer ohne reist, zahlt im Notfall selbst. Eine Reisekrankenversicherung für eine dreiwöchige Südostasienreise kostet ca. 30 bis 80 Euro, je nach Anbieter und Umfang. Mehr dazu im Artikel [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich).
+**Reiseversicherung.** Wer ohne reist, zahlt im Notfall selbst. Eine Reisekrankenversicherung für eine dreiwöchige Südostasienreise kostet ca. 30 bis 80 Euro, je nach Anbieter und Umfang. Mehr dazu im Artikel [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/).
 
 **Visa.** Australien: 20 AUD für die ETA. USA: 21 US-Dollar für ESTA. Indien: je nach Typ 25 bis 80 US-Dollar. Bei Mehrländer-Reisen kommen schnell 100 bis 200 Euro zusammen. Diesen Posten am besten beim ersten Budget-Draft direkt eintragen.
 
@@ -81,7 +81,7 @@ Der Hauptvorteil einer Reisekreditkarte: Punkte oder Meilen auf jede Ausgabe. We
 
 Worauf achten beim Vergleich? Jahresgebühr gegen tatsächliche Vorteile rechnen. Eine Karte mit 99 Euro Jahresgebühr, die Lounges, eine Reiseversicherung und günstige Wechselkurse bietet, kann günstiger sein als vier separate Leistungen.
 
-Für konkrete Empfehlungen, was 2026 wirklich lohnt, schau dir unsere Übersicht der [günstigsten Flugtipps 2026](/blog/guenstig-fliegen-tipps) an. Und wenn du schon beim Planen bist: das [Günstigste-Städte-Ranking für Europa 2026](/blog/guenstigste-staedte-europa-2026) hilft dir, die Destination zu finden, die zu deinem Budget passt.
+Für konkrete Empfehlungen, was 2026 wirklich lohnt, schau dir unsere Übersicht der [günstigsten Flugtipps 2026](/blog/guenstig-fliegen-tipps/) an. Und wenn du schon beim Planen bist: das [Günstigste-Städte-Ranking für Europa 2026](/blog/guenstigste-staedte-europa-2026/) hilft dir, die Destination zu finden, die zu deinem Budget passt.
 
 Gute Budgetplanung beginnt mit dem Ziel, nicht mit dem Sparbuch. Leg die Zahl fest, dann kommt der Rest von selbst.
 
@@ -107,4 +107,4 @@ Für zwei Wochen Südostasien ohne Luxus: 1.500 bis 2.200 Euro. Darin enthalten 
 
 Kleiner Dauerauftrag schlägt kein Dauerauftrag. Schon 50 Euro im Monat ergeben in einem Jahr 600 Euro. Dazu kommen unregelmäßige Einnahmen: Steuerrückerstattung, Prämien, Verkauf von Gegenständen. Wer außerdem Bonuseinnahmen direkt aufs Reisekonto bucht, kommt schneller ans Ziel als gedacht.
 
-**Mehr lesen:** [Günstig fliegen: 7 Tricks die wirklich funktionieren](/blog/guenstig-fliegen-tipps) · [Reiseversicherung: Wann lohnt sie sich?](/blog/reiseversicherung-was-lohnt-sich) · [Südostasien mit kleinem Budget: So geht's](/blog/suedostasien-budget-reisen)
+**Mehr lesen:** [Günstig fliegen: 7 Tricks die wirklich funktionieren](/blog/guenstig-fliegen-tipps/) · [Reiseversicherung: Wann lohnt sie sich?](/blog/reiseversicherung-was-lohnt-sich/) · [Südostasien mit kleinem Budget: So geht's](/blog/suedostasien-budget-reisen/)

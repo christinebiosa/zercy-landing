@@ -87,4 +87,4 @@ All kinds. Solo travelers who need a pause. Couples looking for a reset. Retiree
 
 April–June and September–October are ideal: good weather, manageable crowds, all albergues open. July and August are peak season — the route is crowded, albergues fill early, and Spain is hot. March is quiet and can be beautiful but cold in the mountains. Winter walkers exist and love the solitude, but some facilities close.
 
-**Read more:** [Hidden Gems in Europe](/en/blog/hidden-gems-europe) · [Boutique Hotels: Why Small Is Often the Better Choice](/en/blog/boutique-hotels) · [Trains Through Europe](/en/blog/train-travel-europe)
+**Read more:** [Hidden Gems in Europe](/en/blog/hidden-gems-europe/) · [Boutique Hotels: Why Small Is Often the Better Choice](/en/blog/boutique-hotels/) · [Trains Through Europe](/en/blog/train-travel-europe/)

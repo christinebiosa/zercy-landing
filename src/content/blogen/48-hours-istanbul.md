@@ -36,13 +36,13 @@ Istiklal Avenue: The main pedestrian street of Beyoglu, three kilometers long an
 
 Karakoy and Balik Ekmek: The fish sandwich stand at Eminonu waterfront, best as a midday stop. Fresh grilled fish in bread, around 3 euros. One of the best street foods in the city.
 
-Afternoon in Kadikoy: Take the ferry to the Asian side (10 minutes, very cheap). Kadikoy is Istanbul's most neighborhood-like district: street markets, independent cafes, almost no tourists. The Balik Pazari (Fish Market) and surrounding lanes are ideal for an afternoon walk. For accommodation options across the city, our [where to stay in Istanbul](/en/blog/where-to-stay-istanbul) guide covers all major neighborhoods.
+Afternoon in Kadikoy: Take the ferry to the Asian side (10 minutes, very cheap). Kadikoy is Istanbul's most neighborhood-like district: street markets, independent cafes, almost no tourists. The Balik Pazari (Fish Market) and surrounding lanes are ideal for an afternoon walk. For accommodation options across the city, our [where to stay in Istanbul](/en/blog/where-to-stay-istanbul/) guide covers all major neighborhoods.
 
 ## What does Istanbul actually cost?
 
 Istanbul is surprisingly affordable for a city of this scale. A single metro or ferry ride costs under one euro with the Istanbulkart. A mid-range restaurant meal runs around 15 to 25 euros per person without drinks. Beer in a restaurant costs 8 to 12 euros, as alcohol is heavily taxed in Turkey. A proper Turkish breakfast with tea, cheese, olives, and eggs costs 5 to 8 euros.
 
-Rough budget for 48 hours including a good mid-range hotel: 200 to 350 euros per person. Boutique hotels in Sultanahmet cost more but put the Hagia Sophia five minutes from your door. If accommodation quality matters to you, our [boutique hotels](/en/blog/boutique-hotels) guide helps you understand what to look for and where the value actually lies.
+Rough budget for 48 hours including a good mid-range hotel: 200 to 350 euros per person. Boutique hotels in Sultanahmet cost more but put the Hagia Sophia five minutes from your door. If accommodation quality matters to you, our [boutique hotels](/en/blog/boutique-hotels/) guide helps you understand what to look for and where the value actually lies.
 
 ## Which practical tips do you need before arriving in Istanbul?
 
@@ -79,6 +79,6 @@ Sultanahmet for proximity to historic sights and short walking distances between
 ---
 
 **Read more:**
-- [Where to Stay in Istanbul: Best Neighborhoods and Hotels](/en/blog/where-to-stay-istanbul)
-- [Boutique Hotels: What They Are and When They Win](/en/blog/boutique-hotels)
-- [Hidden Gems Europe: Underrated Destinations Worth the Trip](/en/blog/hidden-gems-europe)
+- [Where to Stay in Istanbul: Best Neighborhoods and Hotels](/en/blog/where-to-stay-istanbul/)
+- [Boutique Hotels: What They Are and When They Win](/en/blog/boutique-hotels/)
+- [Hidden Gems Europe: Underrated Destinations Worth the Trip](/en/blog/hidden-gems-europe/)

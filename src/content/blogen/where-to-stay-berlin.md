@@ -100,7 +100,7 @@ For Berlin [Booking.com](https://www.booking.com) is clearly the best platform:
 
 Direct booking only worth it for top premium (Adlon, Waldorf) for possible upgrades.
 
-See our [night trains guide](/en/blog/night-trains-europe-2026) — Berlin is a top hub for ÖBB Nightjet to Vienna, Zurich, Brussels.
+See our [night trains guide](/en/blog/night-trains-europe-2026/) — Berlin is a top hub for ÖBB Nightjet to Vienna, Zurich, Brussels.
 
 ---
 
@@ -127,6 +127,6 @@ Backpacker: $550-900 per person incl. flight (hostel, bratwurst, public transpor
 ---
 
 **Read more:**
-- [Where to stay in Amsterdam: 5 neighborhoods](/en/blog/where-to-stay-amsterdam)
-- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris)
-- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026)
+- [Where to stay in Amsterdam: 5 neighborhoods](/en/blog/where-to-stay-amsterdam/)
+- [Where to stay in Paris: 5 neighborhoods](/en/blog/where-to-stay-paris/)
+- [Night trains in Europe: the complete 2026 guide](/en/blog/night-trains-europe-2026/)

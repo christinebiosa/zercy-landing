@@ -40,7 +40,7 @@ Parece un detalle. Pero importa cuando usas distintas aerolíneas en distintas r
 
 Quien tiene estatus Gold en Miles & More puede entrar a las salas VIP de Singapore Airlines en vuelos Star Alliance. Ese es uno de los beneficios más valiosos. Las lounges en Asia, en especial Singapore Airlines SilverKris y Cathay Pacific The Wing, están entre las mejores del mundo. Con un estatus europeo puedes entrar igualmente.
 
-Más sobre estrategia de lounges: [Acceso a sala VIP sin billete business](/es/blog/acceso-sala-vip-sin-business)
+Más sobre estrategia de lounges: [Acceso a sala VIP sin billete business](/es/blog/acceso-sala-vip-sin-business/)
 
 **Vuelos en código compartido para mejores conexiones**
 
@@ -68,7 +68,7 @@ A partir de 30.000 millas el cálculo cambia. Los niveles de estatus típicos:
 
 Silver da beneficios de confort. Gold abre las lounges en vuelos con socias. Platinum es para muy pocos. Para la mayoría de viajeros frecuentes, Gold es el objetivo realista y rentable.
 
-Para combinar estatus con billetes económicos: [Business class sin millas](/es/blog/business-class-sin-millas) explica las estrategias de reserva que funcionan junto al estatus.
+Para combinar estatus con billetes económicos: [Business class sin millas](/es/blog/business-class-sin-millas/) explica las estrategias de reserva que funcionan junto al estatus.
 
 ## ¿Qué alianza conviene según tu ruta principal?
 
@@ -82,13 +82,13 @@ Lufthansa, Swiss y Austrian son todas Star Alliance. Quien vuela habitualmente d
 
 British Airways es la columna vertebral de oneworld. Heathrow es uno de los mejores hubs de conexión del mundo. Quien vuela desde Londres con frecuencia tiene en el BA Executive Club su elección natural. Qatar Airways también es oneworld y ofrece un producto de larga distancia excelente para Asia y Australia.
 
-[Trucos de Google Flights 2026](/es/blog/google-flights-trucos-2026) explica cómo encontrar las mejores tarifas dentro de una red de alianza.
+[Trucos de Google Flights 2026](/es/blog/google-flights-trucos-2026/) explica cómo encontrar las mejores tarifas dentro de una red de alianza.
 
 **Base en Francia o Países Bajos: SkyTeam**
 
 Air France y KLM son las dos SkyTeam. El programa Flying Blue es uno de los más flexibles de Europa. Quien vuela regularmente desde París o Ámsterdam acumula estatus antes con SkyTeam que con cualquier otra alianza. Delta cubre Norteamérica y Korean Air las conexiones con Asia Oriental.
 
-Si estás pensando en pedir un upgrade en vuelos de alianza: [Puja de upgrade a clase business](/es/blog/puja-upgrade-clase-business) explica cómo funciona el sistema de ofertas en la mayoría de aerolíneas aliadas.
+Si estás pensando en pedir un upgrade en vuelos de alianza: [Puja de upgrade a clase business](/es/blog/puja-upgrade-clase-business/) explica cómo funciona el sistema de ofertas en la mayoría de aerolíneas aliadas.
 
 La elección de alianza depende de tu aerolínea de base. La aerolínea que más usas en tu ruta principal determina el programa. Todo lo demás se construye desde ahí.
 
@@ -116,4 +116,4 @@ Si tus rutas principales cambian o te mudas a otra ciudad, cambiar de programa s
 
 Varía según el programa y la ruta. Con Miles & More, un premio en business de Fráncfort a Nueva York cuesta alrededor de 85.000 millas. Con Flying Blue suele ser entre 60.000 y 75.000. Concentrar las millas en una sola alianza, en lugar de repartirlas, hace que un canje real sea alcanzable en dos o tres años para quien viaja con regularidad.
 
-**Más para leer:** [Business class sin millas](/es/blog/business-class-sin-millas) · [Acceso a sala VIP sin billete business](/es/blog/acceso-sala-vip-sin-business) · [Puja de upgrade a clase business](/es/blog/puja-upgrade-clase-business)
+**Más para leer:** [Business class sin millas](/es/blog/business-class-sin-millas/) · [Acceso a sala VIP sin billete business](/es/blog/acceso-sala-vip-sin-business/) · [Puja de upgrade a clase business](/es/blog/puja-upgrade-clase-business/)

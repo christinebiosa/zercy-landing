@@ -71,6 +71,6 @@ Zhongzheng and Da'an are the most practical districts for first-time visitors: c
 
 ## Read More
 
-- [South Korea 2-Week Route: Perfect Itinerary for First-Timers](/en/blog/south-korea-2-week-route)
-- [Japan 3-Week Route: The Perfect Itinerary](/en/blog/japan-3-week-route)
-- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel)
+- [South Korea 2-Week Route: Perfect Itinerary for First-Timers](/en/blog/south-korea-2-week-route/)
+- [Japan 3-Week Route: The Perfect Itinerary](/en/blog/japan-3-week-route/)
+- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel/)

@@ -51,7 +51,7 @@ Cusco itself is beautiful. Inca stone foundations, which the Spanish built their
 
 **Lake Titicaca:** Puno is the gateway city on the Peruvian side. At over 3,800 meters, the air is thin. The Uros floating reed islands, with traditional communities living on them, are the most visited attraction. Further out, Taquile Island hosts an indigenous culture recognized as UNESCO Intangible Heritage. Bolivia sits directly across the lake. Copacabana on the Bolivian side is an attractive border destination.
 
-For accommodation: the [where to stay in Lima guide](/en/blog/where-to-stay-lima) and the [where to stay in Cusco guide](/en/blog/where-to-stay-cusco) have neighborhood-by-neighborhood recommendations.
+For accommodation: the [where to stay in Lima guide](/en/blog/where-to-stay-lima/) and the [where to stay in Cusco guide](/en/blog/where-to-stay-cusco/) have neighborhood-by-neighborhood recommendations.
 
 **When to visit:** The dry season runs May through October. Best for trekking and Machu Picchu visibility. December to March is rainy season: Machu Picchu is often cloud-covered, greener but less photogenic. The Inca Trail closes in February.
 
@@ -83,6 +83,6 @@ Most Western nationalities including US, UK, and EU citizens do not need a visa 
 
 Read more:
 
-- [Where to Stay in Lima: Miraflores, Barranco and More](/en/blog/where-to-stay-lima)
-- [Where to Stay in Cusco: Machu Picchu Base](/en/blog/where-to-stay-cusco)
-- [Patagonia in 3 Weeks: The Route](/en/blog/patagonia-3-week-route)
+- [Where to Stay in Lima: Miraflores, Barranco and More](/en/blog/where-to-stay-lima/)
+- [Where to Stay in Cusco: Machu Picchu Base](/en/blog/where-to-stay-cusco/)
+- [Patagonia in 3 Weeks: The Route](/en/blog/patagonia-3-week-route/)

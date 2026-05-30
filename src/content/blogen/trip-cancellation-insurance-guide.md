@@ -59,7 +59,7 @@ Look for a policy without a pre-existing condition exclusion or one with a soft 
 - Cheap last-minute flights where total costs are low
 - Short city breaks under €500 total cost
 
-More on this balance in the comprehensive [travel insurance guide](/en/blog/travel-insurance-worth-it-2026). Especially relevant for cruise bookings in the [cruise beginners guide](/en/blog/cruise-beginners-guide).
+More on this balance in the comprehensive [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/). Especially relevant for cruise bookings in the [cruise beginners guide](/en/blog/cruise-beginners-guide/).
 
 ## What alternatives exist to trip cancellation insurance?
 
@@ -93,6 +93,6 @@ That's a different type of cover (insolvency protection). Under EU law, package 
 
 ## Read more
 
-- [Travel Insurance: What's Actually Worth Paying For](/en/blog/travel-insurance-worth-it-2026)
-- [Cruise Beginners Guide: Everything You Need to Know](/en/blog/cruise-beginners-guide)
-- [Package Tour vs. Independent Travel: Which is Better?](/en/blog/package-tour-vs-independent-travel)
+- [Travel Insurance: What's Actually Worth Paying For](/en/blog/travel-insurance-worth-it-2026/)
+- [Cruise Beginners Guide: Everything You Need to Know](/en/blog/cruise-beginners-guide/)
+- [Package Tour vs. Independent Travel: Which is Better?](/en/blog/package-tour-vs-independent-travel/)

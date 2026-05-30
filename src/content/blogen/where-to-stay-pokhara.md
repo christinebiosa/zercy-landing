@@ -57,7 +57,7 @@ The northern part of Lakeside is quieter and more refined. Fewer bars, better bo
 
 **Top picks:** Pavilions Himalayas (luxury resort with panoramic pool, Himalayan views on clear days are unforgettable), Tiger Mountain Pokhara Lodge (eco-luxury, mountain views, sustainable concept), Atithi Resort (mid-range, good lake view, good value).
 
-The [Nepal travel guide](/en/blog/nepal-travel-guide-highlights) and [Kathmandu neighborhood guide](/en/blog/where-to-stay-kathmandu) cover broader Nepal planning.
+The [Nepal travel guide](/en/blog/nepal-travel-guide-highlights/) and [Kathmandu neighborhood guide](/en/blog/where-to-stay-kathmandu/) cover broader Nepal planning.
 
 ## Damside: Quiet and Budget-Friendly
 
@@ -108,6 +108,6 @@ Lakeside is the first choice: all travel agencies, equipment rental, trekking ho
 ---
 
 **Read more:**
-- [Nepal Travel Guide: Highlights and Tips](/en/blog/nepal-travel-guide-highlights)
-- [Where to Stay in Kathmandu: Best Neighborhoods](/en/blog/where-to-stay-kathmandu)
-- [Southeast Asia on a Budget](/en/blog/southeast-asia-budget-travel)
+- [Nepal Travel Guide: Highlights and Tips](/en/blog/nepal-travel-guide-highlights/)
+- [Where to Stay in Kathmandu: Best Neighborhoods](/en/blog/where-to-stay-kathmandu/)
+- [Southeast Asia on a Budget](/en/blog/southeast-asia-budget-travel/)

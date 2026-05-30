@@ -24,7 +24,7 @@ Dicho de forma sencilla: si hace huelga el personal de Ryanair, Ryanair paga. Si
 
 Importante recordar: es la aerolínea quien debe demostrar que se trata de una circunstancia extraordinaria. No tú.
 
-Para entender mejor cómo funciona EU261 en detalle: [Retraso de vuelo y compensación EU261](/es/blog/retraso-vuelo-compensacion-eu261).
+Para entender mejor cómo funciona EU261 en detalle: [Retraso de vuelo y compensación EU261](/es/blog/retraso-vuelo-compensacion-eu261/).
 
 ## ¿Qué debe ofrecerte la aerolínea de todas formas?
 
@@ -69,11 +69,11 @@ Actuar rápido marca la diferencia. Esto es lo que debes hacer de inmediato:
 
 **5. Contacta al CEC si la aerolínea no responde.** El Centro Europeo del Consumidor media entre tú y las aerolíneas de forma gratuita. Muy útil en vuelos internacionales dentro de la UE.
 
-Si tienes un seguro de viaje, revisa las condiciones ahora mismo. Algunos cubren las huelgas como motivo de cancelación del viaje. Otros las excluyen expresamente. Las diferencias son considerables. Más detalles en: [Seguro de viaje: ¿Merece la pena?](/es/blog/seguro-viaje-vale-la-pena)
+Si tienes un seguro de viaje, revisa las condiciones ahora mismo. Algunos cubren las huelgas como motivo de cancelación del viaje. Otros las excluyen expresamente. Las diferencias son considerables. Más detalles en: [Seguro de viaje: ¿Merece la pena?](/es/blog/seguro-viaje-vale-la-pena/)
 
-Y si quieres prepararte mejor para la próxima vez: [Trucos en el aeropuerto: cómo sobrevivir a las esperas largas](/es/blog/trucos-aeropuerto).
+Y si quieres prepararte mejor para la próxima vez: [Trucos en el aeropuerto: cómo sobrevivir a las esperas largas](/es/blog/trucos-aeropuerto/).
 
-También te puede interesar: [Retrasos de vuelo: derechos que muchos desconocen](/es/blog/retrasos-vuelo-derechos).
+También te puede interesar: [Retrasos de vuelo: derechos que muchos desconocen](/es/blog/retrasos-vuelo-derechos/).
 
 ## Preguntas frecuentes sobre huelgas de vuelo
 
@@ -97,6 +97,6 @@ El Centro Europeo del Consumidor ofrece asesoramiento y mediación gratuita. Má
 
 Seguir leyendo:
 
-- [Retraso de vuelo: cómo reclamar tu compensación EU261](/es/blog/retraso-vuelo-compensacion-eu261)
-- [Seguro de viaje: ¿Merece la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
-- [Trucos en el aeropuerto: sobrevive a cualquier escala](/es/blog/trucos-aeropuerto)
+- [Retraso de vuelo: cómo reclamar tu compensación EU261](/es/blog/retraso-vuelo-compensacion-eu261/)
+- [Seguro de viaje: ¿Merece la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Trucos en el aeropuerto: sobrevive a cualquier escala](/es/blog/trucos-aeropuerto/)

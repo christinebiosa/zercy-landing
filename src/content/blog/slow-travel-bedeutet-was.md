@@ -36,7 +36,7 @@ Drei verbreitete Missverständnisse, die das Konzept verzerren.
 
 **Slow Travel ist nicht "anti-Tourist".** Du musst nicht "wie ein Local leben" oder Touristen-Attraktionen meiden. Slow Travel sagt: Mach weniger, aber tiefer. Geh in das berühmte Museum, aber bleib zwei Stunden, nicht zwanzig Minuten.
 
-Falls dich das Thema langsame Verkehrsmittel interessiert, lies unseren [Nachtzug-Guide](/blog/nachtzuege-europa-2026) und unseren [Zugreisen-in-Europa-Guide](/blog/zugreisen-europa).
+Falls dich das Thema langsame Verkehrsmittel interessiert, lies unseren [Nachtzug-Guide](/blog/nachtzuege-europa-2026/) und unseren [Zugreisen-in-Europa-Guide](/blog/zugreisen-europa/).
 
 ## Wie setzt du Slow Travel konkret um?
 
@@ -44,7 +44,7 @@ Eine Methode, die in jedem Reise-Budget funktioniert.
 
 **Schritt 1: Halbiere deine Reiseziele.** Wenn du normalerweise 6 Städte in 14 Tagen besuchst, mach 3. Verteilbar je nach Reiseart: 4 Nächte plus 4 Nächte plus 6 Nächte.
 
-**Schritt 2: Buche eine Wohnung statt Hotel.** Mindestens für die längeren Stationen. Schau dir unseren [AirBnB vs Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich) an. Auch via Booking.com gibt es Wohnungen.
+**Schritt 2: Buche eine Wohnung statt Hotel.** Mindestens für die längeren Stationen. Schau dir unseren [AirBnB vs Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich/) an. Auch via Booking.com gibt es Wohnungen.
 
 **Schritt 3: Ein Tagesziel maximal.** Nicht "Vormittags Kunst, mittags Markt, nachmittags Stadtteil-Tour, abends Restaurant". Sondern "Heute den Stadtteil X erkunden", den ganzen Tag. Pause im Café einbauen.
 
@@ -56,7 +56,7 @@ Eine Methode, die in jedem Reise-Budget funktioniert.
 
 Drei messbare und ein psychologischer Vorteil.
 
-CO2-Einsparung. Wer 5 Mal in zwei Wochen umzieht, fliegt oder fährt 5 Mal. Wer einmal anreist und 14 Tage bleibt, einmal. Lies dazu unseren [CO2-Kompensations-Artikel](/blog/co2-kompensation-fliegen).
+CO2-Einsparung. Wer 5 Mal in zwei Wochen umzieht, fliegt oder fährt 5 Mal. Wer einmal anreist und 14 Tage bleibt, einmal. Lies dazu unseren [CO2-Kompensations-Artikel](/blog/co2-kompensation-fliegen/).
 
 Geringere Ausgaben pro Tag. Wohnungen pro Nacht günstiger als Hotels (ab 5+ Nächten), Restaurants günstiger wenn du auch selber kochst, weniger Eintrittsgelder weil weniger Sehenswürdigkeiten pro Tag. Eine Slow-Travel-Woche kostet meist 30 bis 40 Prozent weniger als eine Hetz-Woche.
 
@@ -91,6 +91,6 @@ Etwa 30 bis 40 Prozent günstiger als eine vergleichbare Hetz-Woche. Wohnung sta
 ---
 
 **Mehr lesen:**
-- [CO2-Kompensation beim Fliegen: Bringt sie wirklich was?](/blog/co2-kompensation-fliegen)
-- [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
+- [CO2-Kompensation beim Fliegen: Bringt sie wirklich was?](/blog/co2-kompensation-fliegen/)
+- [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)

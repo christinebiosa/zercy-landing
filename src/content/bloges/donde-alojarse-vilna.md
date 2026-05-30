@@ -49,7 +49,7 @@ Suena a trampa para turistas. No lo es. Aquí viven artistas de verdad, galería
 
 **Mejores opciones:** Domus Maria (pensión en un convento, tranquila, precio extraordinario para la ubicación), Residence Vilnius (apartamentos modernos en el barrio de artistas), B&B Senoji Užupis (pequeña casa de huéspedes, atención personalizada).
 
-Si planeas un viaje por los países bálticos e incluyes Tallin, la [guía de barrios de Tallin](/es/blog/donde-alojarse-tallin) tiene el mismo desglose detallado para la capital estonia.
+Si planeas un viaje por los países bálticos e incluyes Tallin, la [guía de barrios de Tallin](/es/blog/donde-alojarse-tallin/) tiene el mismo desglose detallado para la capital estonia.
 
 ## ¿Cuándo es mejor visitar Vilna?
 
@@ -67,7 +67,7 @@ Naujamiestis significa Ciudad Nueva. Construida a finales del siglo XIX, hoy es 
 
 **Mejores opciones:** Novotel Vilnius Centre (bien comunicado, calidad fiable), Congress Hotel Vilnius (central en el bulevar Gedimino), Ibis Budget (opción más económica y fiable de la zona).
 
-Si combinas Vilna con Riga, la [guía de barrios de Riga](/es/blog/donde-alojarse-riga) tiene el desglose completo de la capital letona.
+Si combinas Vilna con Riga, la [guía de barrios de Riga](/es/blog/donde-alojarse-riga/) tiene el desglose completo de la capital letona.
 
 ## Žvėrynas: La Vilna tranquila
 
@@ -98,7 +98,7 @@ Para Vilna, [Booking.com](https://www.booking.com) tiene la mejor cobertura:
 - Precios en euros sin sorpresas de cambio de moneda
 - Tasa de turismo generalmente indicada desde el principio
 
-Si planeas un circuito báltico combinando Vilna, Riga y Tallin, la conexión más económica es volar a Vilna, viajar en tren o autobús a Riga y volver desde Tallin. Para los trenes entre capitales bálticas, la [guía de trenes en Europa](/es/blog/viajes-tren-europa) tiene la información de conexiones y reservas.
+Si planeas un circuito báltico combinando Vilna, Riga y Tallin, la conexión más económica es volar a Vilna, viajar en tren o autobús a Riga y volver desde Tallin. Para los trenes entre capitales bálticas, la [guía de trenes en Europa](/es/blog/viajes-tren-europa/) tiene la información de conexiones y reservas.
 
 ---
 
@@ -125,6 +125,6 @@ Užupis declaró su independencia de Lituania en 1997. Su constitución incluye 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Tallin: Los 5 barrios](/es/blog/donde-alojarse-tallin)
-- [Dónde alojarse en Riga: Los 5 barrios](/es/blog/donde-alojarse-riga)
-- [Viajes en tren por Europa: rutas, consejos y apps](/es/blog/viajes-tren-europa)
+- [Dónde alojarse en Tallin: Los 5 barrios](/es/blog/donde-alojarse-tallin/)
+- [Dónde alojarse en Riga: Los 5 barrios](/es/blog/donde-alojarse-riga/)
+- [Viajes en tren por Europa: rutas, consejos y apps](/es/blog/viajes-tren-europa/)

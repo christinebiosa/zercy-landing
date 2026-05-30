@@ -92,7 +92,7 @@ Río es más barato que las capitales europeas. Rangos realistas por noche.
 
 Tip: mayo-septiembre (invierno brasileño, más templado) son 30-40 por ciento más baratos que el verano de pico (diciembre-febrero). Durante el Carnaval (febrero/marzo) los precios se duplican.
 
-Lee también nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires), una clásica combinación con Río para viajeros sudamericanos.
+Lee también nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires/), una clásica combinación con Río para viajeros sudamericanos.
 
 ## ¿Dónde deberías reservar al final?
 
@@ -131,6 +131,6 @@ Mochilero: 800-1.100 USD por persona incl. vuelo (hostal, comida local, autobús
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena)
-- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima)
+- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena/)
+- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima/)

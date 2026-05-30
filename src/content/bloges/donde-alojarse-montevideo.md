@@ -49,7 +49,7 @@ Los hoteles en Pocitos son más modernos que en Ciudad Vieja y a menudo más eco
 
 **Top picks:** NH Collection Montevideo Victoria (moderno, cerca de la Rambla), Starpoint Hotel (Pocitos, buenas reseñas), Dazzler by Wyndham Montevideo (fiable, cerca de la playa).
 
-Consulta también nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires) y el [artículo sobre Argentina](/es/blog/argentina-guia-viaje-highlights) para planificar un viaje por el Río de la Plata.
+Consulta también nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) y el [artículo sobre Argentina](/es/blog/argentina-guia-viaje-highlights/) para planificar un viaje por el Río de la Plata.
 
 ## ¿Cuándo es la mejor época para visitar Montevideo?
 
@@ -107,6 +107,6 @@ De junio a agosto (invierno en el hemisferio sur) es el período más asequible.
 ---
 
 ## Más artículos
-- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Argentina: Guía de viaje con los mejores highlights](/es/blog/argentina-guia-viaje-highlights)
-- [Patagonia en 3 semanas: La ruta perfecta](/es/blog/patagonia-3-semanas-ruta)
+- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Argentina: Guía de viaje con los mejores highlights](/es/blog/argentina-guia-viaje-highlights/)
+- [Patagonia en 3 semanas: La ruta perfecta](/es/blog/patagonia-3-semanas-ruta/)

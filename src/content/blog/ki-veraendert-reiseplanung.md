@@ -43,7 +43,7 @@ Ein Reisebüro-Berater würde genau das tun. Fragen stellen. Prioritäten verste
 Viele Reisende wissen selbst nicht genau, was sie suchen. "Etwas anderes als letztes Jahr" ist eine echte Anforderung. Ein gutes KI-System stellt gezielte Fragen: Wie lange? Alleine oder zu zweit? Aktiv oder entspannt? Strand oder Stadt? Und baut daraus ein echtes Reiseprofil.
 
 **Phase 2: Optionen berechnen statt anzeigen**
-Statt dir 40 Suchergebnisse zu zeigen, rechnet KI durch: Welche Airports sind realistisch? Welche Daten sind günstig? Wo liegt der Preisunterschied zwischen Dienstag und Freitag auf dieser Strecke? Mehr dazu in [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen). Das Ergebnis ist keine Liste, sondern eine Empfehlung.
+Statt dir 40 Suchergebnisse zu zeigen, rechnet KI durch: Welche Airports sind realistisch? Welche Daten sind günstig? Wo liegt der Preisunterschied zwischen Dienstag und Freitag auf dieser Strecke? Mehr dazu in [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen/). Das Ergebnis ist keine Liste, sondern eine Empfehlung.
 
 **Phase 3: Nachdenken möglich machen**
 "Was wäre wenn wir eine Woche früher fliegen?" — "Gibt es günstigere Flughäfen in der Nähe?" — "Wie teuer wäre Business Class auf dieser Strecke?" Diese Folgefragen kann ein Formular nicht beantworten. Ein Gespräch schon.
@@ -66,7 +66,7 @@ Du musst nicht mehr selbst alles durchsuchen. Du beschreibst, was du willst. Du 
 
 Reiseplanung wird zu einem Gespräch. Einem, bei dem du die Richtung vorgibst und die KI die Arbeit macht. Das spart nicht nur Zeit — es öffnet Möglichkeiten, die du beim manuellen Suchen nie gesehen hättest.
 
-Wer zum Beispiel nach [Geheimtipps in Europa](/blog/geheimtipps-europa) sucht, kennt oft die Namen der Orte nicht mal. Ohrid, Matera, Évora — diese Orte findest du nicht, wenn du sie nicht schon kennst. KI kann dir sagen: "Basierend auf dem, was du beschreibst, klingt Plovdiv oder Kotor interessant für dich."
+Wer zum Beispiel nach [Geheimtipps in Europa](/blog/geheimtipps-europa/) sucht, kennt oft die Namen der Orte nicht mal. Ohrid, Matera, Évora — diese Orte findest du nicht, wenn du sie nicht schon kennst. KI kann dir sagen: "Basierend auf dem, was du beschreibst, klingt Plovdiv oder Kotor interessant für dich."
 
 Das ist keine Magie. Das ist das, was ein guter Berater schon immer gemacht hat.
 
@@ -94,4 +94,4 @@ Für Standardreisen: nein. Für sehr komplexe Reisen (Kreuzfahrten, Gruppenreise
 
 Zercy nutzt Claude von Anthropic mit Zugriff auf Live-Flugpreise via SerpAPI. Andere Optionen: Google Gemini für allgemeine Reiserecherche, Perplexity für aktuelle Infos, ChatGPT für Reiseplanung ohne Live-Preise. Für konkrete Flugoptionen mit echten Preisen ist ein spezialisiertes Tool besser als ein allgemeiner Chatbot.
 
-**Mehr lesen:** [Günstig fliegen: 7 Tricks die Vielflieger kennen](/blog/guenstig-fliegen-tipps) · [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen) · [7 Geheimtipps in Europa](/blog/geheimtipps-europa)
+**Mehr lesen:** [Günstig fliegen: 7 Tricks die Vielflieger kennen](/blog/guenstig-fliegen-tipps/) · [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen/) · [7 Geheimtipps in Europa](/blog/geheimtipps-europa/)

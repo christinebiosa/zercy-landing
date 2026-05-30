@@ -44,7 +44,7 @@ The insider window for Mykonos is May, June, and September. Comfortable temperat
 
 October through April is the off-season. Many businesses close. The island has a completely different character. For hikers and those seeking peace, it can be genuinely appealing.
 
-For more Greek island context, check out [Where to Stay in Athens](/en/blog/where-to-stay-athens) and [Where to Stay in Santorini](/en/blog/where-to-stay-santorini).
+For more Greek island context, check out [Where to Stay in Athens](/en/blog/where-to-stay-athens/) and [Where to Stay in Santorini](/en/blog/where-to-stay-santorini/).
 
 ## Paradise Beach: For Parties and Tight Budgets
 
@@ -107,6 +107,6 @@ The local KTEL bus network connects the main beaches and villages. Buses run reg
 ---
 
 **Read more:**
-- [Where to Stay in Santorini: Fira, Oia or Kamari?](/en/blog/where-to-stay-santorini)
-- [Where to Stay in Athens: Best Neighborhoods for Visitors](/en/blog/where-to-stay-athens)
-- [Where to Stay in Dubrovnik: Old Town or Lapad?](/en/blog/where-to-stay-dubrovnik)
+- [Where to Stay in Santorini: Fira, Oia or Kamari?](/en/blog/where-to-stay-santorini/)
+- [Where to Stay in Athens: Best Neighborhoods for Visitors](/en/blog/where-to-stay-athens/)
+- [Where to Stay in Dubrovnik: Old Town or Lapad?](/en/blog/where-to-stay-dubrovnik/)

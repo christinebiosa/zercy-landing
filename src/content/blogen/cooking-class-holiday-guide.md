@@ -22,7 +22,7 @@ That sounds small. It isn't. When you get home and recreate the dish, you rememb
 
 Cooking classes also work for every travel style. Solo, you meet other travellers. As a couple, you build a shared story to tell. As a family, kids learn that food is made, not just served.
 
-More on planning a food-focused trip: [Food Travel: How to Eat Like a Local](/en/blog/food-travel-eat-like-a-local)
+More on planning a food-focused trip: [Food Travel: How to Eat Like a Local](/en/blog/food-travel-eat-like-a-local/)
 
 ## Which Destinations Are Really Worth It?
 
@@ -38,7 +38,7 @@ Not every cuisine translates equally well into a class setting. Some countries h
 
 **Mexico (Oaxaca):** Mole is one of the most complex dishes in Mexican cooking. A good course in Oaxaca explains exactly why. Add handmade tortillas. Always choose a course that includes a market visit.
 
-Planning a foodie trip? [Street Food Travel Guide: How to Eat Your Way Around the World](/en/blog/street-food-travel-guide)
+Planning a foodie trip? [Street Food Travel Guide: How to Eat Your Way Around the World](/en/blog/street-food-travel-guide/)
 
 ## Half-Day or Full-Day: Which One Fits You?
 
@@ -96,6 +96,6 @@ Nothing except enthusiasm. Aprons, knives, and all ingredients are provided. Wea
 ---
 
 **More reading:**
-- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means)
-- [Tokyo Foodie Trip: Where to Actually Eat](/en/blog/tokyo-foodie-trip)
-- [Street Food Travel Guide](/en/blog/street-food-travel-guide)
+- [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means/)
+- [Tokyo Foodie Trip: Where to Actually Eat](/en/blog/tokyo-foodie-trip/)
+- [Street Food Travel Guide](/en/blog/street-food-travel-guide/)

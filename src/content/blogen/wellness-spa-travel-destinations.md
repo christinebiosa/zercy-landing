@@ -44,7 +44,7 @@ The difference is not always in the outcome. A 10 EUR thermal bath in Budapest c
 
 ## Yoga Retreats: Bali and Ibiza
 
-**Bali** is the global yoga capital. Ubud above all. Retreats from 3 days to 4 weeks, from budget eco-ashrams to luxury resorts with infinity pools. A good week costs 500-1500 EUR all-inclusive. Quality varies significantly. Look for retreats with an experienced lead teacher and a program that goes beyond daily yoga classes (meditation, nutrition, workshops). The [Bali neighborhood guide](/en/blog/where-to-stay-bali) helps with accommodation orientation.
+**Bali** is the global yoga capital. Ubud above all. Retreats from 3 days to 4 weeks, from budget eco-ashrams to luxury resorts with infinity pools. A good week costs 500-1500 EUR all-inclusive. Quality varies significantly. Look for retreats with an experienced lead teacher and a program that goes beyond daily yoga classes (meditation, nutrition, workshops). The [Bali neighborhood guide](/en/blog/where-to-stay-bali/) helps with accommodation orientation.
 
 **Ibiza** surprises as a wellness destination. The party island has built a strong wellness scene over recent years, especially in Santa Eularia and San Juan in the north. High-end retreats with yoga, pilates, sound healing, and organic meals run 2000-4000 EUR for one week. The combination of Mediterranean nature and high quality makes Ibiza particularly interesting for European travelers.
 
@@ -62,7 +62,7 @@ Book wellness retreats at least 2-3 months ahead. Good retreats and small resort
 
 ## Luxury Wellness: Maldives and Santorini
 
-**Maldives** is the ultimate wellness escape. Overwater bungalows, diving, spa treatments over the water, complete isolation from daily life. One week at a good resort: 5000-12000 EUR per person. Not cheap. But if the budget works, few experiences deliver the result (complete disconnection) more effectively. Details in the [Maldives travel guide](/en/blog/maldives-travel-guide-tips).
+**Maldives** is the ultimate wellness escape. Overwater bungalows, diving, spa treatments over the water, complete isolation from daily life. One week at a good resort: 5000-12000 EUR per person. Not cheap. But if the budget works, few experiences deliver the result (complete disconnection) more effectively. Details in the [Maldives travel guide](/en/blog/maldives-travel-guide-tips/).
 
 **Santorini** as a wellness destination is less known than party Santorini. Oia and Imerovigli have small boutique hotels with caldera views and spa facilities that offer genuine quiet. Price: 3000-6000 EUR for one week at a good spa hotel. Shoulder season (April through May, October) is considerably more affordable.
 
@@ -97,6 +97,6 @@ At least 2-3 months in advance, for popular retreats in Bali or Kerala up to 6 m
 ---
 
 **Read more:**
-- [Where to Stay in Bali: The 5 Neighborhoods](/en/blog/where-to-stay-bali)
-- [Maldives Travel Guide: What You Really Need to Know](/en/blog/maldives-travel-guide-tips)
-- [Where to Stay in Vienna: The 5 Neighborhoods](/en/blog/where-to-stay-vienna)
+- [Where to Stay in Bali: The 5 Neighborhoods](/en/blog/where-to-stay-bali/)
+- [Maldives Travel Guide: What You Really Need to Know](/en/blog/maldives-travel-guide-tips/)
+- [Where to Stay in Vienna: The 5 Neighborhoods](/en/blog/where-to-stay-vienna/)

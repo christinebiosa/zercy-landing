@@ -100,7 +100,7 @@ Für Amsterdam ist [Booking.com](https://www.booking.com) klar die beste Plattfo
 
 Direktbuchung lohnt nur bei Top-Premium (Pulitzer, Conservatorium) für mögliche Upgrades.
 
-Lies dazu auch unseren [Zugreisen-in-Europa-Guide](/blog/zugreisen-europa), Amsterdam ist Top-Hub für Eurostar nach London und Thalys nach Paris/Brüssel.
+Lies dazu auch unseren [Zugreisen-in-Europa-Guide](/blog/zugreisen-europa/), Amsterdam ist Top-Hub für Eurostar nach London und Thalys nach Paris/Brüssel.
 
 ---
 
@@ -127,6 +127,6 @@ Backpacker: 700-1.000 Euro pro Person inkl. Flug (Hostel, Snackbars, Fahrrad-Mie
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Berlin: Die 5 Stadtteile](/blog/wo-uebernachten-berlin)
-- [Wo übernachten in London: Die 5 Stadtteile](/blog/wo-uebernachten-london)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
+- [Wo übernachten in Berlin: Die 5 Stadtteile](/blog/wo-uebernachten-berlin/)
+- [Wo übernachten in London: Die 5 Stadtteile](/blog/wo-uebernachten-london/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)

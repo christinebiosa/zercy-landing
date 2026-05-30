@@ -61,7 +61,7 @@ Juhu Beach is Mumbai's most famous public beach. A five-kilometer promenade, pac
 
 **Top picks:** JW Marriott Mumbai Juhu (direct beachfront, premium), Novotel Mumbai Juhu Beach (mid-range, reliable), Sun-n-Sand Hotel (classic option, good value for the location).
 
-For a similar comparison of beach-adjacent neighborhoods in Asia, see our [Where to Stay in Bangkok](/en/blog/where-to-stay-bangkok) guide.
+For a similar comparison of beach-adjacent neighborhoods in Asia, see our [Where to Stay in Bangkok](/en/blog/where-to-stay-bangkok/) guide.
 
 ## Lower Parel: Mumbai's Business District
 
@@ -83,7 +83,7 @@ Andheri East is directly adjacent to Chhatrapati Shivaji Maharaj International A
 
 **Top picks:** Holiday Inn Mumbai International Airport (reliable, airport shuttle included), The Orchid Hotel (eco-certified, strong price-value), Hyatt Regency Mumbai (premium airport option).
 
-For a similar airport-vs-city-center tradeoff in Southeast Asia, check our [Where to Stay in Singapore](/en/blog/where-to-stay-singapore) guide.
+For a similar airport-vs-city-center tradeoff in Southeast Asia, check our [Where to Stay in Singapore](/en/blog/where-to-stay-singapore/) guide.
 
 ## Where Should You Book?
 
@@ -97,7 +97,7 @@ For Mumbai, [Booking.com](https://www.booking.com) is the clearest choice:
 
 Direct booking only makes sense for the Taj Mahal Palace, where direct contact can unlock welcome drinks and upgrade possibilities.
 
-Compare also our [Where to Stay in Seoul](/en/blog/where-to-stay-seoul) guide for a city with similar scale and neighborhood variety.
+Compare also our [Where to Stay in Seoul](/en/blog/where-to-stay-seoul/) guide for a city with similar scale and neighborhood variety.
 
 ---
 
@@ -124,6 +124,6 @@ Ola or Uber costs roughly 500-800 rupees (6-10 USD) to Andheri, 800-1,200 rupees
 ---
 
 **Read more:**
-- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok)
-- [Where to Stay in Singapore: Guide for All Budgets](/en/blog/where-to-stay-singapore)
-- [Where to Stay in Seoul: Neighborhoods Compared](/en/blog/where-to-stay-seoul)
+- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok/)
+- [Where to Stay in Singapore: Guide for All Budgets](/en/blog/where-to-stay-singapore/)
+- [Where to Stay in Seoul: Neighborhoods Compared](/en/blog/where-to-stay-seoul/)

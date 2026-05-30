@@ -71,7 +71,7 @@ Amara ist das Wohnviertel jenseits des Zentrums, mit dem Bahnhof Norte (Renfe) u
 
 Für San Sebastián ist [Booking.com](https://www.booking.com) klar die beste Plattform. Besonders die kleinen Pensiones der Altstadt, die keinen eigenen Webauftritt haben, sind dort vollständig gelistet. Das La Concha Festival im Juli und die Semana Grande (August) bedeuten extrem hohe Preise: dann früh buchen oder Mai/September wählen.
 
-Schaue auch: [Wo übernachten in Madrid](/blog/wo-uebernachten-madrid) und [Wo übernachten in Barcelona](/blog/wo-uebernachten-barcelona) sowie [Wo übernachten in Bilbao](/blog/wo-uebernachten-bilbao).
+Schaue auch: [Wo übernachten in Madrid](/blog/wo-uebernachten-madrid/) und [Wo übernachten in Barcelona](/blog/wo-uebernachten-barcelona/) sowie [Wo übernachten in Bilbao](/blog/wo-uebernachten-bilbao/).
 
 ---
 
@@ -99,6 +99,6 @@ Mit dem Bus (Pesa oder ALSA) in ca. 1 Stunde 20 Minuten, ca. 7-10 Euro. Mit dem 
 
 ## Mehr lesen
 
-- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona)
-- [Wo übernachten in Madrid: Stadtteile und Hotels](/blog/wo-uebernachten-madrid)
-- [Portugal Rundreise Route: Die beste Strecke](/blog/portugal-rundreise-route)
+- [Wo übernachten in Barcelona: Die 5 Stadtteile](/blog/wo-uebernachten-barcelona/)
+- [Wo übernachten in Madrid: Stadtteile und Hotels](/blog/wo-uebernachten-madrid/)
+- [Portugal Rundreise Route: Die beste Strecke](/blog/portugal-rundreise-route/)

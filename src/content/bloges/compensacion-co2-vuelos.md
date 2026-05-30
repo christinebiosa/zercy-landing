@@ -45,7 +45,7 @@ El "CO₂ equivalente" incluye otros efectos climáticos del avión (óxidos de 
 
 **Evitar vuelos con conexiones innecesarias:** el despegue y el aterrizaje son las fases de mayor consumo. Menos vuelos, aunque sean más largos, suelen tener menor huella que múltiples cortos.
 
-Para viajes en tren por Europa, lee nuestra guía de [viajar en tren por Europa 2026](/es/blog/viajes-tren-europa).
+Para viajes en tren por Europa, lee nuestra guía de [viajar en tren por Europa 2026](/es/blog/viajes-tren-europa/).
 
 Zercy puede ayudarte a comparar opciones de transporte y a encontrar rutas con menor impacto. Guarda tu itinerario en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -72,6 +72,6 @@ Por orden de impacto: (1) volar menos y hacer los vuelos que haces más largos, 
 ---
 
 **Más para leer:**
-- [Viajar en tren por Europa: la guía completa 2026](/es/blog/viajes-tren-europa)
-- [Slow travel: qué significa y por qué cada vez más viajeros lo eligen](/es/blog/slow-travel-que-significa)
-- [Viajar sin plástico: consejos prácticos para reducir residuos](/es/blog/viaje-sin-plastico-consejos)
+- [Viajar en tren por Europa: la guía completa 2026](/es/blog/viajes-tren-europa/)
+- [Slow travel: qué significa y por qué cada vez más viajeros lo eligen](/es/blog/slow-travel-que-significa/)
+- [Viajar sin plástico: consejos prácticos para reducir residuos](/es/blog/viaje-sin-plastico-consejos/)

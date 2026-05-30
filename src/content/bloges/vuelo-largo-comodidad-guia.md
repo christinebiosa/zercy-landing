@@ -22,7 +22,7 @@ La mayoría deja esta decisión para el momento del check-in y lo lamenta en alg
 
 Antes de reservar, consulta siempre [SeatGuru](https://www.seatguru.com). La página mapea cada tipo de avión por aerolínea y señala ventanas desalineadas, asientos sin reclinación, espacios reducidos y zonas de mucho tráfico cerca de los baños. Cinco minutos de investigación evitan muchas horas de incomodidad.
 
-Si quieres saber cuándo vale la pena pagar más por un asiento con mayor espacio para las piernas: [Asiento extra legroom: ¿cuándo merece la pena?](/es/blog/acceso-sala-vip-sin-business).
+Si quieres saber cuándo vale la pena pagar más por un asiento con mayor espacio para las piernas: [Asiento extra legroom: ¿cuándo merece la pena?](/es/blog/acceso-sala-vip-sin-business/).
 
 ## ¿Qué va en tu kit de sueño?
 
@@ -68,7 +68,7 @@ El Wi-Fi a bordo es caro, lento y no siempre disponible. Netflix y Spotify permi
 
 ### ¿Cuándo debes cambiar el reloj a la hora de destino?
 
-En el momento en que te sientas en el avión. No al aterrizar. No en el aeropuerto de escala. Inmediatamente. Y a partir de ese momento actúa en consecuencia: si en tu destino es de noche, intenta dormir. Si es de día, mantente despierto. Es el método más eficaz y menos agresivo para reducir el jetlag. Para más detalle: [Superar el jetlag rápido: lo que de verdad funciona](/es/blog/superar-jetlag-rapido).
+En el momento en que te sientas en el avión. No al aterrizar. No en el aeropuerto de escala. Inmediatamente. Y a partir de ese momento actúa en consecuencia: si en tu destino es de noche, intenta dormir. Si es de día, mantente despierto. Es el método más eficaz y menos agresivo para reducir el jetlag. Para más detalle: [Superar el jetlag rápido: lo que de verdad funciona](/es/blog/superar-jetlag-rapido/).
 
 ### ¿Qué ropa es mejor para un vuelo largo?
 
@@ -77,9 +77,9 @@ Las capas funcionan mejor que una prenda gruesa porque la temperatura de la cabi
 ---
 
 **Sigue leyendo:**
-- [Superar el jetlag rápido: lo que de verdad funciona](/es/blog/superar-jetlag-rapido)
-- [Business class sin millas: cómo conseguir el upgrade](/es/blog/business-class-sin-millas)
-- [Solo equipaje de mano: la guía completa](/es/blog/solo-equipaje-de-mano)
+- [Superar el jetlag rápido: lo que de verdad funciona](/es/blog/superar-jetlag-rapido/)
+- [Business class sin millas: cómo conseguir el upgrade](/es/blog/business-class-sin-millas/)
+- [Solo equipaje de mano: la guía completa](/es/blog/solo-equipaje-de-mano/)
 
 ---
 

@@ -18,7 +18,7 @@ Honduras también favorece al presupuesto ajustado. Las Islas de la Bahía, espe
 
 Belice está en el medio. Caye Caulker, la alternativa más tranquila y barata que Ambergris Caye, es manejable con 40 a 60 dólares al día. El snorkel en la Barrera de Coral de Belice es accesible a través de operadores locales. Las reservas naturales del oeste cuestan alrededor de 50 dólares por día.
 
-Costa Rica es el reto del mochilero con presupuesto ajustado. Aquí empiezas en 60 a 80 dólares por día. Las entradas a los parques nacionales se suman rápido, las redes de buses son limitadas en algunas zonas, y los hosteles cobran precios casi europeos. Aun así, Costa Rica vale la pena. La experiencia de naturaleza no tiene comparación. Nuestra [guía completa de Costa Rica](/es/blog/guia-viaje-costa-rica) te explica la mejor ruta para aprovecharla al máximo.
+Costa Rica es el reto del mochilero con presupuesto ajustado. Aquí empiezas en 60 a 80 dólares por día. Las entradas a los parques nacionales se suman rápido, las redes de buses son limitadas en algunas zonas, y los hosteles cobran precios casi europeos. Aun así, Costa Rica vale la pena. La experiencia de naturaleza no tiene comparación. Nuestra [guía completa de Costa Rica](/es/blog/guia-viaje-costa-rica/) te explica la mejor ruta para aprovecharla al máximo.
 
 Panamá está entre Costa Rica y Guatemala en términos de costo. La Ciudad de Panamá tiene una red excelente de hosteles. El Canal, las Islas San Blas y las tierras cafetaleras de Boquete son accesibles en transporte público. Presupuesta 45 a 65 dólares por día.
 
@@ -46,11 +46,11 @@ Una ruta sólida de 4 a 6 semanas comienza en Guatemala. Vuelas a Ciudad de Guat
 
 Segunda parada: Belice. Un bus directo va de Flores a Ciudad de Belice. Luego una lancha hasta Caye Caulker. Snorkel, más snorkel, y algo más de snorkel.
 
-Tercera parada: Honduras. Desde Belice bajas a Copán, la ruina maya compacta pero impresionante junto a la frontera guatemalteca. Luego las Islas de la Bahía. Roatán es más cara, Utila es el paraíso del mochilero buceador. Nuestra [guía de viaje a Guatemala](/es/blog/guatemala-guia-viaje-highlights) cubre en detalle todos los puntos imprescindibles del país.
+Tercera parada: Honduras. Desde Belice bajas a Copán, la ruina maya compacta pero impresionante junto a la frontera guatemalteca. Luego las Islas de la Bahía. Roatán es más cara, Utila es el paraíso del mochilero buceador. Nuestra [guía de viaje a Guatemala](/es/blog/guatemala-guia-viaje-highlights/) cubre en detalle todos los puntos imprescindibles del país.
 
 Cuarta parada: Costa Rica. Entra por tierra desde Honduras. Enfócate en el volcán Arenal, Manuel Antonio y la Península de Osa si el presupuesto lo permite. Costa Rica se mantiene asequible si reservas los hosteles con antelación y visitas los parques nacionales por la mañana, cuando las tarifas de entrada suelen ser menores.
 
-Última parada: Panamá. El Canal en Ciudad de Panamá es obligatorio. Después San Blas o Bocas del Toro para playa, y vuelo de regreso desde el Aeropuerto Internacional de Tocumen. Para esta ruta también vale la pena revisar qué cobertura necesitas. Nuestro artículo sobre [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena) lo explica con detalle.
+Última parada: Panamá. El Canal en Ciudad de Panamá es obligatorio. Después San Blas o Bocas del Toro para playa, y vuelo de regreso desde el Aeropuerto Internacional de Tocumen. Para esta ruta también vale la pena revisar qué cobertura necesitas. Nuestro artículo sobre [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) lo explica con detalle.
 
 ## ¿Qué debes saber sobre seguridad en Centroamérica?
 
@@ -60,7 +60,7 @@ Algunas reglas básicas aplican en todos lados. Nada de efectivo ni joyas visibl
 
 Ciudad de Guatemala y los centros urbanos hondureños como San Pedro Sula y Tegucigalpa tienen más riesgo. Quédate en los barrios turísticos, viaja en grupo y evita los mercados nocturnos sin acompañante local. Lo mismo aplica para los cruces fronterizos: hazlos de día y por rutas concurridas.
 
-La [Oficina de Turismo de Guatemala](https://visitguatemala.com) y [Visit Costa Rica](https://visitcostarica.com) publican avisos de seguridad actualizados para sus países. Consúltalos antes de salir. Para una comparativa con otra región económica de largo recorrido, mira nuestra guía de [viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico).
+La [Oficina de Turismo de Guatemala](https://visitguatemala.com) y [Visit Costa Rica](https://visitcostarica.com) publican avisos de seguridad actualizados para sus países. Consúltalos antes de salir. Para una comparativa con otra región económica de largo recorrido, mira nuestra guía de [viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/).
 
 ---
 
@@ -82,12 +82,12 @@ Utila en Honduras está considerada uno de los destinos de buceo más asequibles
 
 ### ¿Cómo se llega a Centroamérica de forma económica?
 
-Los vuelos directos desde Europa llegan a Ciudad de Guatemala, San José (Costa Rica) y Ciudad de Panamá. Las rutas más baratas suelen pasar por Madrid, Ámsterdam o Miami. Los billetes con salida desde otras ciudades europeas como Viena, Lisboa o Praga pueden salir más baratos que los vuelos directos desde ciudades grandes. Compara siempre el coste total incluyendo vuelo de regreso, tasas de entrada y impuestos. Para otra referencia de presupuesto en destino de largo recorrido, consulta nuestra guía de [viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico).
+Los vuelos directos desde Europa llegan a Ciudad de Guatemala, San José (Costa Rica) y Ciudad de Panamá. Las rutas más baratas suelen pasar por Madrid, Ámsterdam o Miami. Los billetes con salida desde otras ciudades europeas como Viena, Lisboa o Praga pueden salir más baratos que los vuelos directos desde ciudades grandes. Compara siempre el coste total incluyendo vuelo de regreso, tasas de entrada y impuestos. Para otra referencia de presupuesto en destino de largo recorrido, consulta nuestra guía de [viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/).
 
 ---
 
 ## Más información
 
-- [Guía completa de Costa Rica: La mejor ruta para 3 semanas](/es/blog/guia-viaje-costa-rica)
-- [Guatemala: Antigua, Tikal y los mejores lugares](/es/blog/guatemala-guia-viaje-highlights)
-- [Seguro de viaje: ¿Cuándo vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Guía completa de Costa Rica: La mejor ruta para 3 semanas](/es/blog/guia-viaje-costa-rica/)
+- [Guatemala: Antigua, Tikal y los mejores lugares](/es/blog/guatemala-guia-viaje-highlights/)
+- [Seguro de viaje: ¿Cuándo vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

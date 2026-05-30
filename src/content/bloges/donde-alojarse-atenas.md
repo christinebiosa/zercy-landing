@@ -57,7 +57,7 @@ Hoteles en Monastiraki: de 80 a 160 euros. Buena relación calidad-precio.
 **Recomendación:**
 - **A for Athens** (rooftop bar con vistas increíbles a la Acrópolis, aprox. 140 €)
 
-Para otras ciudades mediterráneas con historia antigua, consulta también [dónde alojarse en Roma](/es/blog/donde-alojarse-roma) y [dónde alojarse en Santorini](/es/blog/donde-alojarse-santorini).
+Para otras ciudades mediterráneas con historia antigua, consulta también [dónde alojarse en Roma](/es/blog/donde-alojarse-roma/) y [dónde alojarse en Santorini](/es/blog/donde-alojarse-santorini/).
 
 ## Kolonaki: El barrio más elegante de Atenas
 
@@ -100,6 +100,6 @@ Muy asequible para estándares europeos occidentales. Un menú de almuerzo compl
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini)
-- [Dónde alojarse en Estambul: ¿Sultanahmet o Beyoğlu?](/es/blog/donde-alojarse-estambul)
-- [Dónde alojarse en Roma: Centro histórico o Trastevere](/es/blog/donde-alojarse-roma)
+- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini/)
+- [Dónde alojarse en Estambul: ¿Sultanahmet o Beyoğlu?](/es/blog/donde-alojarse-estambul/)
+- [Dónde alojarse en Roma: Centro histórico o Trastevere](/es/blog/donde-alojarse-roma/)

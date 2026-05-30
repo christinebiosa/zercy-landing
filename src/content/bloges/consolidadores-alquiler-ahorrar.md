@@ -49,7 +49,7 @@ Para comparar de forma justa entre consolidadores y empresas directas:
 3. Compara el precio total con impuestos, no la tarifa base
 4. Verifica la política de cancelación y modificación: algunos consolidadores tienen políticas más restrictivas que las empresas directas
 
-Para evitar sorpresas, combina los consolidadores con la [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche) para la recogida y devolución.
+Para evitar sorpresas, combina los consolidadores con la [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche/) para la recogida y devolución.
 
 Zercy puede ayudarte a planificar el transporte de tu próximo viaje. Guarda tus opciones en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -76,6 +76,6 @@ Sí, especialmente en destinos turísticos populares de Latinoamérica (México,
 ---
 
 **Más para leer:**
-- [Checklist de alquiler de coche: qué revisar antes de firmar](/es/blog/checklist-alquiler-coche)
-- [Costes ocultos del alquiler de coche: cómo evitarlos](/es/blog/costes-ocultos-alquiler-coche)
-- [Reservar hotel online o directo: comparativa real](/es/blog/reservar-online-o-directo)
+- [Checklist de alquiler de coche: qué revisar antes de firmar](/es/blog/checklist-alquiler-coche/)
+- [Costes ocultos del alquiler de coche: cómo evitarlos](/es/blog/costes-ocultos-alquiler-coche/)
+- [Reservar hotel online o directo: comparativa real](/es/blog/reservar-online-o-directo/)

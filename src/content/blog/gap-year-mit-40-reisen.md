@@ -38,7 +38,7 @@ Die größte Angst ist nicht das Geld. Es ist die Frage: Habe ich danach noch ei
 
 **Kündigung mit Plan.** Keine Horrorvariante, sondern eine strategische Entscheidung. Du sparst 18 Monate lang, baust einen Puffer auf, kündigst mit Ankündigung und gehst. Viele Arbeitgeber nehmen Rückkehrer mit Auslandserfahrung sogar lieber. Der Lebenslauf-Gap ist 2026 kein Problem mehr. Dazu später mehr.
 
-**Remote Work mitnehmen.** Wenn dein Job es erlaubt, nimmst du ihn einfach mit. 3 bis 4 Stunden täglich arbeiten, Rest des Tages für dich. Das nennt sich Workation. Mehr dazu findest du in unserem [Workation-Guide mit Steuertipps 2026](/blog/workation-steuern-2026).
+**Remote Work mitnehmen.** Wenn dein Job es erlaubt, nimmst du ihn einfach mit. 3 bis 4 Stunden täglich arbeiten, Rest des Tages für dich. Das nennt sich Workation. Mehr dazu findest du in unserem [Workation-Guide mit Steuertipps 2026](/blog/workation-steuern-2026/).
 
 ---
 
@@ -58,7 +58,7 @@ Nutze [Zercy](https://zercy.app), um Flugpreise für deine Route zu vergleichen 
 
 Wichtige Frage, kurze Antwort.
 
-**Krankenversicherung:** Du kannst dich freiwillig in der gesetzlichen Krankenversicherung weiterversichern. Kostet je nach Einkommen ca. 200 Euro pro Monat. Alternativ gibt es internationale Reisekrankenversicherungen für Langzeitreisende ab 50 bis 80 Euro pro Monat. Mehr dazu in unserem [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich).
+**Krankenversicherung:** Du kannst dich freiwillig in der gesetzlichen Krankenversicherung weiterversichern. Kostet je nach Einkommen ca. 200 Euro pro Monat. Alternativ gibt es internationale Reisekrankenversicherungen für Langzeitreisende ab 50 bis 80 Euro pro Monat. Mehr dazu in unserem [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 **Rentenversicherung:** Ein Jahr Pause macht bei einer langen Erwerbsbiografie wenig aus. Wer möchte, kann freiwillige Beiträge einzahlen. Das ist keine Pflicht.
 
@@ -70,7 +70,7 @@ Vergiss die Backpacker-Routen aus dem Lonely-Planet-Klassiker. Die sind für 22-
 
 **Komfort-Backpacking in Südostasien.** Vietnam, Thailand, Kambodscha, Indonesien. Eigene Zimmer statt Schlafsäle, gelegentliches Boutique-Hotel, lokales Essen. Kosten bleiben niedrig, Lebensqualität hoch.
 
-**Slow Travel in Mittelamerika.** Costa Rica, Guatemala, Kolumbien. Einen Monat pro Land. Wohnungen statt Hotels. Spanischkurs einbauen. [Welche Visa-Optionen du brauchst, erklärt unser Digital-Nomad-Visum-Guide](/blog/digital-nomad-visum-laender-2026).
+**Slow Travel in Mittelamerika.** Costa Rica, Guatemala, Kolumbien. Einen Monat pro Land. Wohnungen statt Hotels. Spanischkurs einbauen. [Welche Visa-Optionen du brauchst, erklärt unser Digital-Nomad-Visum-Guide](/blog/digital-nomad-visum-laender-2026/).
 
 **Workation-Route in Europa.** Portugal, Kroatien, Georgien. Überraschend günstig, exzellentes Internet, reife Reisende willkommen. Ideal, wenn du parallel arbeitest.
 
@@ -88,7 +88,7 @@ Lange Antwort: Du hast ein Jahr investiert, um dich selbst besser zu verstehen, 
 
 Viele Arbeitgeber sehen ein Gap Year heute als Zeichen von Eigeninitiative. Wer es strategisch kommuniziert, hat keinen Nachteil. Bereite eine klare Ein-Minuten-Antwort vor: Was hast du gemacht, was hast du gelernt, wie hilft dir das jetzt.
 
-Das Sabbatical richtig planen erklärt unser ausführlicher [Sabbatical-Guide](/blog/sabbatical-planen-guide).
+Das Sabbatical richtig planen erklärt unser ausführlicher [Sabbatical-Guide](/blog/sabbatical-planen-guide/).
 
 ---
 
@@ -117,6 +117,6 @@ Starte hier. Vergleiche Flüge, plane deine Route, finde die günstigsten Reisez
 ---
 
 **Mehr lesen:**
-- [Sabbatical beantragen: der vollständige Guide](/blog/sabbatical-planen-guide)
-- [Workation und Steuern 2026: Was du wissen musst](/blog/workation-steuern-2026)
-- [Digital-Nomad-Visum: Diese Länder haben es 2026](/blog/digital-nomad-visum-laender-2026)
+- [Sabbatical beantragen: der vollständige Guide](/blog/sabbatical-planen-guide/)
+- [Workation und Steuern 2026: Was du wissen musst](/blog/workation-steuern-2026/)
+- [Digital-Nomad-Visum: Diese Länder haben es 2026](/blog/digital-nomad-visum-laender-2026/)

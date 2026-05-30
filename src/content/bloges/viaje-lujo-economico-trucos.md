@@ -20,7 +20,7 @@ Los hoteles premium tienen más habitaciones, mayor proporción de costos fijos 
 
 La tarificación de última hora es más agresiva en el segmento de lujo. Los hoteles con un 60 por ciento de ocupación a las 19h bajan los precios de las habitaciones hasta un 50 por ciento. Las herramientas para monitorizar esto: HotelTonight, Booking.com de última hora, o simplemente llamar al concierge y preguntar.
 
-Estrategia de upgrade espontáneo: reserva la habitación estándar de un hotel de lujo, llega después de las 20h y pregunta por la disponibilidad de una categoría superior. En temporada baja, esto funciona entre el 40 y el 50 por ciento de las veces. Más en nuestra [guía de upgrades de hotel](/es/blog/trucos-upgrade-hotel-gratis).
+Estrategia de upgrade espontáneo: reserva la habitación estándar de un hotel de lujo, llega después de las 20h y pregunta por la disponibilidad de una categoría superior. En temporada baja, esto funciona entre el 40 y el 50 por ciento de las veces. Más en nuestra [guía de upgrades de hotel](/es/blog/trucos-upgrade-hotel-gratis/).
 
 ## ¿Cómo conseguir business class a precio de turista?
 
@@ -32,7 +32,7 @@ Business class por el precio de turista es posible. Varios caminos:
 
 **Comprar upgrades en el check-in:** Muchas aerolíneas ofrecen upgrades justo antes del despegue por 165-435 euros. Lufthansa MyOffer, British Airways Upgrade Bidding, Singapore Airlines Kris Flyer Upgrade. Notablemente por debajo del precio de lista.
 
-**Usar millas una vez:** Si ya has acumulado millas de viajero frecuente (a través de programas de tarjetas de crédito o vuelos anteriores), la business class es una de las mejores formas de canjearlas. Más en nuestra [guía de business class sin millas](/es/blog/business-class-sin-millas).
+**Usar millas una vez:** Si ya has acumulado millas de viajero frecuente (a través de programas de tarjetas de crédito o vuelos anteriores), la business class es una de las mejores formas de canjearlas. Más en nuestra [guía de business class sin millas](/es/blog/business-class-sin-millas/).
 
 ## ¿Qué destinos de lujo merecen la pena con presupuesto reducido?
 
@@ -40,7 +40,7 @@ La experiencia de lujo es relativa al nivel de precios local. Lo que en Londres 
 
 **Bali, Indonesia:** Villas de categoría mundial con piscina privada en Ubud y Seminyak: 160-375 euros por noche. El mismo nivel en Europa: 540-1.620 euros. Bali es uno de los mejores destinos de lujo asequible del mundo.
 
-**Marrakech, Marruecos:** Riads (casas tradicionales con patio interior) con servicio de categoría mundial: 130-320 euros por noche. Auténtico, opulento, sin compromisos. Mira nuestra [guía de riads de Marruecos](/es/blog/riads-marruecos-guia).
+**Marrakech, Marruecos:** Riads (casas tradicionales con patio interior) con servicio de categoría mundial: 130-320 euros por noche. Auténtico, opulento, sin compromisos. Mira nuestra [guía de riads de Marruecos](/es/blog/riads-marruecos-guia/).
 
 **Tailandia:** Resorts de 5 estrellas en Koh Samui o Krabi: 215-430 euros por noche en lugar de 860+ euros en el Caribe. El mismo nivel, un 50 por ciento más barato.
 
@@ -54,7 +54,7 @@ El restaurante conoce tus alergias sin que tengas que repetirlas. El traslado es
 
 Este nivel de servicio no siempre se encuentra en los hoteles más caros del mundo. Los resorts boutique más pequeños y las propiedades de gestión familiar suelen ser más atentos que los grandes resorts. Kimpton Hotels, Six Senses, Aman y Singita lideran aquí.
 
-Consulta también nuestra [guía de hoteles boutique](/es/blog/hoteles-boutique-guia) para establecimientos que priorizan el servicio sobre las estrellas.
+Consulta también nuestra [guía de hoteles boutique](/es/blog/hoteles-boutique-guia/) para establecimientos que priorizan el servicio sobre las estrellas.
 
 ---
 
@@ -81,6 +81,6 @@ Las ventanas más económicas: período lectivo fuera de vacaciones (noviembre-m
 ---
 
 **Más para leer:**
-- [Upgrade de hotel gratis: 7 métodos que realmente funcionan](/es/blog/trucos-upgrade-hotel-gratis)
-- [Business class sin millas: cómo volar en premium más barato](/es/blog/business-class-sin-millas)
-- [Acceso a sala VIP sin billete business](/es/blog/acceso-sala-vip-sin-business)
+- [Upgrade de hotel gratis: 7 métodos que realmente funcionan](/es/blog/trucos-upgrade-hotel-gratis/)
+- [Business class sin millas: cómo volar en premium más barato](/es/blog/business-class-sin-millas/)
+- [Acceso a sala VIP sin billete business](/es/blog/acceso-sala-vip-sin-business/)

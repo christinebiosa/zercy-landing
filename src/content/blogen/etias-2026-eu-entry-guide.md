@@ -115,6 +115,6 @@ At least 72 hours before departure is the minimum. One week ahead is the safer b
 ---
 
 **Read more:**
-- [Visa Application Guide: How to Get Any Visa](/en/blog/visa-application-guide)
-- [Visa on Arrival: Countries That Don't Need Advance Visas 2026](/en/blog/visa-on-arrival-countries-2026)
-- [Travel Documents Guide: What You Actually Need](/en/blog/travel-documents-guide)
+- [Visa Application Guide: How to Get Any Visa](/en/blog/visa-application-guide/)
+- [Visa on Arrival: Countries That Don't Need Advance Visas 2026](/en/blog/visa-on-arrival-countries-2026/)
+- [Travel Documents Guide: What You Actually Need](/en/blog/travel-documents-guide/)

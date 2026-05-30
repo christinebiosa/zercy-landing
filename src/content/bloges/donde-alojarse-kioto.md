@@ -94,6 +94,6 @@ La mayoría de los años los cerezos de Kioto florecen de finales de marzo a pri
 ---
 
 **Leer más:**
-- [Dónde alojarse en Tokio: Los 5 barrios](/es/blog/donde-alojarse-tokio)
-- [Japón más allá de Tokio: Kioto, Nara, Hiroshima](/es/blog/japon-mas-alla-de-tokio)
-- [Dónde alojarse en Seúl: Gangnam o Hongdae](/es/blog/donde-alojarse-seul)
+- [Dónde alojarse en Tokio: Los 5 barrios](/es/blog/donde-alojarse-tokio/)
+- [Japón más allá de Tokio: Kioto, Nara, Hiroshima](/es/blog/japon-mas-alla-de-tokio/)
+- [Dónde alojarse en Seúl: Gangnam o Hongdae](/es/blog/donde-alojarse-seul/)

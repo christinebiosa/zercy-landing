@@ -37,7 +37,7 @@ La reputación de Tokio como ciudad cara es un mito para la comida cotidiana:
 
 Los convenience stores japoneses tienen la mejor comida preparada del mundo al menor precio. El onigiri (arroz relleno envuelto en alga) y las bentos de los kombini son perfectos para comer bien sin gastar.
 
-Para planificar la visita a Tokio, consulta nuestra guía de [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio).
+Para planificar la visita a Tokio, consulta nuestra guía de [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio/).
 
 Zercy puede ayudarte a organizar tu viaje gastronómico a Tokio. Guarda tus planes en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -64,6 +64,6 @@ El mercado exterior de Tsukiji por la mañana. Los restaurantes de sushi alreded
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Tokio: Shinjuku, Asakusa o Shibuya](/es/blog/donde-alojarse-tokio)
-- [Dónde alojarse en Bangkok: Sukhumvit, Silom o Riverside](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Seúl: Myeongdong, Hongdae o Gangnam](/es/blog/donde-alojarse-seul)
+- [Dónde alojarse en Tokio: Shinjuku, Asakusa o Shibuya](/es/blog/donde-alojarse-tokio/)
+- [Dónde alojarse en Bangkok: Sukhumvit, Silom o Riverside](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Seúl: Myeongdong, Hongdae o Gangnam](/es/blog/donde-alojarse-seul/)

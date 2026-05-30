@@ -61,13 +61,13 @@ Sentosa mit Universal Studios Studio Singapore nimmt einen ganzen Tag in Anspruc
 
 Singapur liegt nahe dem Äquator. Es ist immer heiß und feucht. Trotzdem gibt es Unterschiede: Februar bis April ist trockener als der Rest des Jahres. Juni bis August ist voll, weil Schulferien in vielen Ländern zusammenfallen. November bis Januar ist die offizielle Regenzeit. Wer flexibel buchen will, findet im [Zercy Logbook](https://www.zercy.app/logbook) Preisverläufe über mehrere Monate.
 
-Singapur liegt 12 Flugstunden von Europa entfernt. Das macht es zu einem möglichen Zwischenstopp auf dem Weg nach Australien oder Neuseeland. Wie das funktioniert, erklärt unser [Stopover-Guide](/blog/stopover-tourismus-guide).
+Singapur liegt 12 Flugstunden von Europa entfernt. Das macht es zu einem möglichen Zwischenstopp auf dem Weg nach Australien oder Neuseeland. Wie das funktioniert, erklärt unser [Stopover-Guide](/blog/stopover-tourismus-guide/).
 
 ## Wo übernachten für ein Singapur-Wochenende?
 
 Hotels in Singapur sind teuer. Rechne mit 100 bis 300 SGD pro Nacht für ein solides Hotel. Chinatown und Little India sind günstiger als Marina Bay und Orchard Road. Wer Wert auf Lage legt: Das Gebiet rund um Bugis MRT ist zentral, gut angebunden und nicht so überteuert wie das Waterfront-Gebiet.
 
-Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Singapore) findest du die gesamte Bandbreite mit Stadtteil-Filter. Für eine detaillierte Übersicht nach Viertel hilft unser Guide zu [wo übernachten in Singapur](/blog/wo-uebernachten-singapur).
+Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Singapore) findest du die gesamte Bandbreite mit Stadtteil-Filter. Für eine detaillierte Übersicht nach Viertel hilft unser Guide zu [wo übernachten in Singapur](/blog/wo-uebernachten-singapur/).
 
 Das offizielle Tourismusbüro [Visit Singapore](https://www.visitsingapore.com) bietet kuratierte Empfehlungen und aktuelle Events.
 
@@ -75,7 +75,7 @@ Das offizielle Tourismusbüro [Visit Singapore](https://www.visitsingapore.com) 
 
 Zercy plant Singapur-Trips inklusive Stopover-Optionen und findet den besten Flug aus deinem Abflughafen. Speichere alles im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen nichts vergisst.
 
-Für die Anreise lohnt ein Blick auf unsere [Airport-Hacks](/blog/airport-hacks) und auf [Google Flights Tricks 2026](/blog/google-flights-tricks-tipps-2026), wenn du flexible Reisedaten hast.
+Für die Anreise lohnt ein Blick auf unsere [Airport-Hacks](/blog/airport-hacks/) und auf [Google Flights Tricks 2026](/blog/google-flights-tricks-tipps-2026/), wenn du flexible Reisedaten hast.
 
 ---
 
@@ -100,6 +100,6 @@ Maxwell Food Centre (Chinatown) und Old Airport Road Food Centre gelten als auth
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Singapur: Viertel und Hotels nach Budget](/blog/wo-uebernachten-singapur)
-- [Stopover-Tourismus: Wie du einen langen Layover sinnvoll nutzt](/blog/stopover-tourismus-guide)
-- [Airport Hacks: Schneller durch jeden Flughafen](/blog/airport-hacks)
+- [Wo übernachten in Singapur: Viertel und Hotels nach Budget](/blog/wo-uebernachten-singapur/)
+- [Stopover-Tourismus: Wie du einen langen Layover sinnvoll nutzt](/blog/stopover-tourismus-guide/)
+- [Airport Hacks: Schneller durch jeden Flughafen](/blog/airport-hacks/)

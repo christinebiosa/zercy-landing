@@ -18,7 +18,7 @@ Günstig bedeutet hier: Tagesbudget unter 65 Euro inklusive Unterkunft, Mahlzeit
 
 **1. Tirana (Albanien) — 30 bis 40 Euro/Tag**
 
-Tirana ist der günstigste Hauptstadttrip in Europa. Ein Abendessen mit zwei Gängen und Wein kostet 8 bis 12 Euro. Ein Hostel-Bett im Doppelzimmer gibt es ab 12 Euro. Der Stadtbus kostet umgerechnet 0,30 Euro pro Fahrt. Für das Geld bekommst du eine Stadt, die sich gerade neu erfindet: bunte Fassaden, lebhafte Bars, keine Touristenmassen. Zum Tagesausflug eignet sich die albanische Riviera. Wer mehr dazu lesen möchte: [Albanische Riviera als Geheimtipp](/blog/albanien-riviera-geheimtipp).
+Tirana ist der günstigste Hauptstadttrip in Europa. Ein Abendessen mit zwei Gängen und Wein kostet 8 bis 12 Euro. Ein Hostel-Bett im Doppelzimmer gibt es ab 12 Euro. Der Stadtbus kostet umgerechnet 0,30 Euro pro Fahrt. Für das Geld bekommst du eine Stadt, die sich gerade neu erfindet: bunte Fassaden, lebhafte Bars, keine Touristenmassen. Zum Tagesausflug eignet sich die albanische Riviera. Wer mehr dazu lesen möchte: [Albanische Riviera als Geheimtipp](/blog/albanien-riviera-geheimtipp/).
 
 **2. Skopje (Nordmazedonien) — 32 bis 45 Euro/Tag**
 
@@ -26,7 +26,7 @@ Skopje ist bizarr, günstig und eindrücklich. Die Innenstadt ist vollgestopft m
 
 **3. Sofia (Bulgarien) — 35 bis 50 Euro/Tag**
 
-Sofia überrascht. Gute Museen, ein funktionierendes Metro-Netz, entspannte Kaffeehauskultur. Ein Hauptgericht im Lokal kostet 4 bis 7 Euro. Ein Bier: 1,50 bis 2 Euro. Hostel-Doppelzimmer: 14 bis 20 Euro. Das Metro-Ticket: 0,80 Euro. Für Unterkünfte lohnt sich ein Blick in die Gegend rund um Studentski Grad. Mehr dazu im [Wo übernachten Sofia](/blog/wo-uebernachten-sofia).
+Sofia überrascht. Gute Museen, ein funktionierendes Metro-Netz, entspannte Kaffeehauskultur. Ein Hauptgericht im Lokal kostet 4 bis 7 Euro. Ein Bier: 1,50 bis 2 Euro. Hostel-Doppelzimmer: 14 bis 20 Euro. Das Metro-Ticket: 0,80 Euro. Für Unterkünfte lohnt sich ein Blick in die Gegend rund um Studentski Grad. Mehr dazu im [Wo übernachten Sofia](/blog/wo-uebernachten-sofia/).
 
 **4. Belgrad (Serbien) — 40 bis 55 Euro/Tag**
 
@@ -34,15 +34,15 @@ Belgrad hat eine Energie, die wenige Städte haben. Nächte auf Flussschiffen, e
 
 **5. Krakau (Polen) — 45 bis 60 Euro/Tag**
 
-Krakau hat die beste Altstadt in Mitteleuropa, einen lebhaften Marktplatz und günstiges polnisches Bier (1,50 bis 2,50 Euro). Ein Mittagsgericht in einem Milk Bar (Bar Mleczny) kostet 2 bis 4 Euro. Hostel: ab 13 Euro. Gästehaus: ab 25 Euro. Busticket: 0,65 Euro. Wer übernachten plant, findet konkrete Optionen unter [Wo übernachten Krakau](/blog/wo-uebernachten-krakau).
+Krakau hat die beste Altstadt in Mitteleuropa, einen lebhaften Marktplatz und günstiges polnisches Bier (1,50 bis 2,50 Euro). Ein Mittagsgericht in einem Milk Bar (Bar Mleczny) kostet 2 bis 4 Euro. Hostel: ab 13 Euro. Gästehaus: ab 25 Euro. Busticket: 0,65 Euro. Wer übernachten plant, findet konkrete Optionen unter [Wo übernachten Krakau](/blog/wo-uebernachten-krakau/).
 
 **6. Budapest (Ungarn) — 50 bis 65 Euro/Tag**
 
-Budapest bietet das beste Preis-Erlebnis-Verhältnis in Mitteleuropa. Thermalbäder ab 10 Euro. Lángos am Stand: 2 Euro. Ein Drei-Gänge-Menü im Ruin-Pub-Viertel: 12 bis 18 Euro. Hostel-Doppelzimmer: 16 bis 25 Euro. U-Bahn-Tageskarte: 6 Euro. Die Stadt ist mit öffentlichen Verkehrsmitteln vollständig erschließbar. Mehr Optionen unter [Wo übernachten Budapest](/blog/wo-uebernachten-budapest).
+Budapest bietet das beste Preis-Erlebnis-Verhältnis in Mitteleuropa. Thermalbäder ab 10 Euro. Lángos am Stand: 2 Euro. Ein Drei-Gänge-Menü im Ruin-Pub-Viertel: 12 bis 18 Euro. Hostel-Doppelzimmer: 16 bis 25 Euro. U-Bahn-Tageskarte: 6 Euro. Die Stadt ist mit öffentlichen Verkehrsmitteln vollständig erschließbar. Mehr Optionen unter [Wo übernachten Budapest](/blog/wo-uebernachten-budapest/).
 
 **7. Bukarest (Rumänien) — 45 bis 60 Euro/Tag**
 
-Bukarest hat einen unverdienten Ruf. Tatsächlich ist es eine der aufregendsten Städte Osteuropas, mit einer Altstadt, die nach Jahren des Verfalls wieder auflebt. Lokale Küche im Mittagsrestaurant: 5 bis 8 Euro. Bier: 1,50 Euro. Hostel: 12 bis 20 Euro. Metro-Ticket: 0,50 Euro. Für mehr Infos: [Wo übernachten Bukarest](/blog/wo-uebernachten-bukarest).
+Bukarest hat einen unverdienten Ruf. Tatsächlich ist es eine der aufregendsten Städte Osteuropas, mit einer Altstadt, die nach Jahren des Verfalls wieder auflebt. Lokale Küche im Mittagsrestaurant: 5 bis 8 Euro. Bier: 1,50 Euro. Hostel: 12 bis 20 Euro. Metro-Ticket: 0,50 Euro. Für mehr Infos: [Wo übernachten Bukarest](/blog/wo-uebernachten-bukarest/).
 
 **8. Tallinn (Estland) — 50 bis 65 Euro/Tag**
 
@@ -70,7 +70,7 @@ EU-Länder wie Bulgarien und Rumänien haben den Euro noch nicht eingeführt (St
 
 ## Welche Geheimtipps gibt es noch in Europa?
 
-Wer über diese Liste hinausdenken will: Moldau (Chisinau), Kosovo (Pristina) und Bosnien (Sarajevo) sind ähnlich günstig, aber noch weniger touristisch erschlossen. Für eine ausführlichere Liste von Geheimtipps in Europa empfiehlt sich ein Blick in den Artikel [Geheimtipps Europa](/blog/geheimtipps-europa).
+Wer über diese Liste hinausdenken will: Moldau (Chisinau), Kosovo (Pristina) und Bosnien (Sarajevo) sind ähnlich günstig, aber noch weniger touristisch erschlossen. Für eine ausführlichere Liste von Geheimtipps in Europa empfiehlt sich ein Blick in den Artikel [Geheimtipps Europa](/blog/geheimtipps-europa/).
 
 ---
 
@@ -97,6 +97,6 @@ Die beste Reisezeit für Balkanziele wie Belgrad, Skopje oder Tirana ist Mai bis
 ---
 
 **Mehr lesen:**
-- [Geheimtipps Europa: Städte abseits des Mainstreams](/blog/geheimtipps-europa)
-- [Albanische Riviera: Geheimtipp am Mittelmeer](/blog/albanien-riviera-geheimtipp)
-- [Wo übernachten Budapest: die besten Viertel](/blog/wo-uebernachten-budapest)
+- [Geheimtipps Europa: Städte abseits des Mainstreams](/blog/geheimtipps-europa/)
+- [Albanische Riviera: Geheimtipp am Mittelmeer](/blog/albanien-riviera-geheimtipp/)
+- [Wo übernachten Budapest: die besten Viertel](/blog/wo-uebernachten-budapest/)

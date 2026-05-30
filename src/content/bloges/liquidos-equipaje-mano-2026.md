@@ -86,6 +86,6 @@ Sí. Las cremas y lociones se tratan como líquidos independientemente de su con
 ---
 
 **Más para leer:**
-- [¿Vale la pena Booking Genius? Análisis de los 3 niveles](/es/blog/booking-genius-vale-la-pena)
-- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini)
-- [¿Apartamento en Booking o Airbnb? Cuál elegir en 2026](/es/blog/apartamento-vs-hotel-cual-elegir)
+- [¿Vale la pena Booking Genius? Análisis de los 3 niveles](/es/blog/booking-genius-vale-la-pena/)
+- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini/)
+- [¿Apartamento en Booking o Airbnb? Cuál elegir en 2026](/es/blog/apartamento-vs-hotel-cual-elegir/)

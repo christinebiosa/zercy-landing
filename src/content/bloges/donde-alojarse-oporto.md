@@ -94,6 +94,6 @@ El fado en Oporto (Fado Portuense) es más escaso que en Lisboa pero más autén
 ---
 
 **Leer más:**
-- [Dónde alojarse en Lisboa: Los 5 barrios](/es/blog/donde-alojarse-lisboa)
-- [Dónde alojarse en Sevilla: ¿Triana o casco antiguo?](/es/blog/donde-alojarse-sevilla)
-- [Oporto: La hermana subestimada de Lisboa](/es/blog/oporto-hermana-subestimada)
+- [Dónde alojarse en Lisboa: Los 5 barrios](/es/blog/donde-alojarse-lisboa/)
+- [Dónde alojarse en Sevilla: ¿Triana o casco antiguo?](/es/blog/donde-alojarse-sevilla/)
+- [Oporto: La hermana subestimada de Lisboa](/es/blog/oporto-hermana-subestimada/)

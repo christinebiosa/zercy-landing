@@ -38,7 +38,7 @@ When it doesn't pay off: short-notice bookings, free-cancellation options (hotel
 
 **Rental car CDW with no deductible.** When booking a rental car, two paths exist. Take expensive collision damage waiver at the counter (often $25 to $40 per day) or a separate rental car insurance through providers like [Allianz Travel](https://www.allianztravelinsurance.com/) or RentalCover.com (often $60 to $100 per year for unlimited rentals).
 
-See our [rental car checklist](/en/blog/rental-car-checklist) on this topic.
+See our [rental car checklist](/en/blog/rental-car-checklist/) on this topic.
 
 ## Which insurances are pure waste of money?
 
@@ -62,7 +62,7 @@ Three pragmatic steps.
 
 **Step 3:** Choose annual policy instead of single-trip if you fly more than 2 times per year. $80 for a full year is usually cheaper than $25 per single trip.
 
-If you're planning a workation, see our [workation tax rules guide](/en/blog/workation-tax-rules-2026). Long stays follow different rules.
+If you're planning a workation, see our [workation tax rules guide](/en/blog/workation-tax-rules-2026/). Long stays follow different rules.
 
 ---
 
@@ -89,6 +89,6 @@ Allianz Travel, World Nomads, Travel Guard and IMG have scored consistently well
 ---
 
 **Read more:**
-- [Rental car checklist: what to know before booking](/en/blog/rental-car-checklist)
-- [Workation 2026: planning the tax side correctly](/en/blog/workation-tax-rules-2026)
-- [Hidden city ticketing: how the sneaky trick works](/en/blog/hidden-city-ticketing-explained)
+- [Rental car checklist: what to know before booking](/en/blog/rental-car-checklist/)
+- [Workation 2026: planning the tax side correctly](/en/blog/workation-tax-rules-2026/)
+- [Hidden city ticketing: how the sneaky trick works](/en/blog/hidden-city-ticketing-explained/)

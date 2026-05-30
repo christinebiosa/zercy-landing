@@ -119,6 +119,6 @@ Octubre y noviembre, y también abril y mayo. Fuera de las vacaciones escolares 
 ---
 
 **Más información:**
-- [Los mejores hoteles en Dubrovnik: Los 5 barrios](/es/blog/donde-alojarse-dubrovnik)
-- [Croacia de isla en isla: Las mejores rutas](/es/blog/croacia-isla-hopping)
-- [Alquiler de autos: Lo que debes saber antes de reservar](/es/blog/alquiler-autos-checklist)
+- [Los mejores hoteles en Dubrovnik: Los 5 barrios](/es/blog/donde-alojarse-dubrovnik/)
+- [Croacia de isla en isla: Las mejores rutas](/es/blog/croacia-isla-hopping/)
+- [Alquiler de autos: Lo que debes saber antes de reservar](/es/blog/alquiler-autos-checklist/)

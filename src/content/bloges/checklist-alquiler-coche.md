@@ -61,7 +61,7 @@ Esta es la parte que más gente omite y que genera el 80% de los conflictos:
 
 **Fotografía también la devolución**: misma vuelta completa fotografiada que a la recogida.
 
-Para encontrar las mejores tarifas de alquiler, los [consolidadores de alquiler de coche](/es/blog/consolidadores-alquiler-ahorrar) ofrecen precios que las empresas directas raramente igualan.
+Para encontrar las mejores tarifas de alquiler, los [consolidadores de alquiler de coche](/es/blog/consolidadores-alquiler-ahorrar/) ofrecen precios que las empresas directas raramente igualan.
 
 Zercy puede ayudarte a comparar opciones de transporte para tu destino. Guarda tus planes en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -88,6 +88,6 @@ Casi siempre no. El GPS de alquiler cuesta 10-20 euros al día. El GPS de tu tel
 ---
 
 **Más para leer:**
-- [Costes ocultos del alquiler de coche: cómo evitarlos](/es/blog/costes-ocultos-alquiler-coche)
-- [Consolidadores de alquiler: cómo pagar menos por el mismo coche](/es/blog/consolidadores-alquiler-ahorrar)
-- [Cómo viajar solo con equipaje de mano](/es/blog/solo-equipaje-de-mano)
+- [Costes ocultos del alquiler de coche: cómo evitarlos](/es/blog/costes-ocultos-alquiler-coche/)
+- [Consolidadores de alquiler: cómo pagar menos por el mismo coche](/es/blog/consolidadores-alquiler-ahorrar/)
+- [Cómo viajar solo con equipaje de mano](/es/blog/solo-equipaje-de-mano/)

@@ -71,7 +71,7 @@ And the toboggan. The traditional wicker basket sleds with straw runners and whi
 
 São Martinho lies west of the Lido, between the city edge and the airport road. Not a tourist neighborhood. Local bakeries, supermarkets, fish restaurants without tourist prices. The Levada do Moinho starts here into the mountains.
 
-If you already know Madeira and don't want to stay in the hotel zone bustle, this area works well. With a rental car, which you can plan ahead using our [rental car guide](/en/blog/rental-car-checklist), Funchal center is 10 minutes away.
+If you already know Madeira and don't want to stay in the hotel zone bustle, this area works well. With a rental car, which you can plan ahead using our [rental car guide](/en/blog/rental-car-checklist/), Funchal center is 10 minutes away.
 
 **Who it suits:** Budget travelers, repeat visitors, longer stays.
 
@@ -101,7 +101,7 @@ If you are only on the island for two nights or have an early flight, you save t
 
 Booking direct is rarely cheaper except at the large flagships like Savoy Palace where direct booking sometimes brings room upgrades or extras.
 
-For similar decisions in other Portuguese destinations, check our [Lisbon neighborhood guide](/en/blog/where-to-stay-lisbon) and [Porto guide](/en/blog/where-to-stay-porto).
+For similar decisions in other Portuguese destinations, check our [Lisbon neighborhood guide](/en/blog/where-to-stay-lisbon/) and [Porto guide](/en/blog/where-to-stay-porto/).
 
 ---
 
@@ -128,6 +128,6 @@ April to June and September to October offer the best prices with little mass to
 ---
 
 **Read more:**
-- [Where to Stay in Lisbon: 5 Neighborhoods](/en/blog/where-to-stay-lisbon)
-- [Where to Stay in Porto: 5 Neighborhoods](/en/blog/where-to-stay-porto)
-- [Cheap Flights: Best Tips 2026](/en/blog/cheap-flights-tips)
+- [Where to Stay in Lisbon: 5 Neighborhoods](/en/blog/where-to-stay-lisbon/)
+- [Where to Stay in Porto: 5 Neighborhoods](/en/blog/where-to-stay-porto/)
+- [Cheap Flights: Best Tips 2026](/en/blog/cheap-flights-tips/)

@@ -22,7 +22,7 @@ Para los senderistas, la Rota Vicentina recorre los parques naturales del Alente
 
 La diferencia de precio es real. El Algarve está aproximadamente un 15-25% por debajo de la Costa del Sol en hoteles, restaurantes y alquiler de coches. En dos semanas, la diferencia se nota. Un almuerzo en Albufeira cuesta bastante menos que uno similar en Marbella.
 
-Si quieres conocer mejor la región, la [Guía de viaje del Algarve 2026](/es/blog/algarve-guia-viaje-2026) te da todo lo que necesitas. Y si estás pensando en combinar surf con el viaje, en [mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026) encontrarás opciones para todos los niveles.
+Si quieres conocer mejor la región, la [Guía de viaje del Algarve 2026](/es/blog/algarve-guia-viaje-2026/) te da todo lo que necesitas. Y si estás pensando en combinar surf con el viaje, en [mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/) encontrarás opciones para todos los niveles.
 
 ## ¿Cuándo la Costa del Sol es la mejor opción?
 
@@ -34,7 +34,7 @@ La Costa del Sol también está mejor conectada por aire. El aeropuerto de Mála
 
 La web oficial de [Costa del Sol Turismo](https://www.visitacostadelsol.com) tiene mapas por zonas y un calendario de eventos útil para planificar con antelación.
 
-Si aún estás dudando entre Portugal y España como destino en general, [Portugal vs. España: cuál elegir](/es/blog/portugal-vs-espana-cual-elegir) cubre el panorama más amplio.
+Si aún estás dudando entre Portugal y España como destino en general, [Portugal vs. España: cuál elegir](/es/blog/portugal-vs-espana-cual-elegir/) cubre el panorama más amplio.
 
 ## ¿En qué se diferencian las playas de verdad?
 
@@ -42,7 +42,7 @@ El Atlántico y el Mediterráneo se sienten distintos. No es un tópico.
 
 En el Algarve, las playas suelen estar enmarcadas por acantilados y formaciones rocosas. Praia da Marinha, Praia do Camilo, Praia de Benagil. El paisaje es dramático. El agua es clara porque las corrientes atlánticas la mantienen en movimiento. Las olas pueden ser potentes. Eso hace el baño más emocionante, pero también más exigente físicamente.
 
-En la Costa del Sol, las playas suelen ser largas, planas y con aguas tranquilas. El Mediterráneo es más cálido y más en calma. Ideal para familias con niños pequeños o para quien quiere una experiencia de playa relajada sin olas. En [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026) hay opciones fuertes de ambas costas.
+En la Costa del Sol, las playas suelen ser largas, planas y con aguas tranquilas. El Mediterráneo es más cálido y más en calma. Ideal para familias con niños pequeños o para quien quiere una experiencia de playa relajada sin olas. En [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/) hay opciones fuertes de ambas costas.
 
 Las hamacas y bañadores en la Costa del Sol suelen ser más caros. En Marbella, una tumbona en un beach club puede costar fácilmente 30-50 euros. En muchas playas del Algarve, ese tipo de infraestructura casi no existe. Algunos tramos son completamente vírgenes. Eso es una característica, no una carencia.
 
@@ -52,7 +52,7 @@ Sí, y es una de las mejores formas de conocer el sur de Europa.
 
 Vuela a Faro, ve hacia el oeste hasta la costa salvaje de Sagres, luego hacia el este por el Algarve hasta Tavira. Desde allí, conduce o toma el tren por Huelva hasta Sevilla. Dos días en Sevilla: la catedral, el Alcázar, tapas en el barrio de Triana. Después al sur hacia Málaga. Diez días en total son realistas si no sobrecargas el itinerario.
 
-Esta ruta combina la autenticidad del Algarve con la energía urbana de la Costa del Sol. Para los vuelos: en [consejos para volar barato](/es/blog/consejos-vuelos-baratos) explicamos cuándo los billetes open-jaw (entrar por Faro, salir por Málaga) tienen sentido económico.
+Esta ruta combina la autenticidad del Algarve con la energía urbana de la Costa del Sol. Para los vuelos: en [consejos para volar barato](/es/blog/consejos-vuelos-baratos/) explicamos cuándo los billetes open-jaw (entrar por Faro, salir por Málaga) tienen sentido económico.
 
 ---
 
@@ -79,6 +79,6 @@ En el Algarve, sin duda. Sagres y los spots de la costa oeste como Arrifana y Ca
 ---
 
 **Seguir leyendo:**
-- [Guía de viaje del Algarve 2026](/es/blog/algarve-guia-viaje-2026)
-- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026)
-- [Portugal vs. España: cuál elegir](/es/blog/portugal-vs-espana-cual-elegir)
+- [Guía de viaje del Algarve 2026](/es/blog/algarve-guia-viaje-2026/)
+- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)
+- [Portugal vs. España: cuál elegir](/es/blog/portugal-vs-espana-cual-elegir/)

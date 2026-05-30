@@ -89,7 +89,7 @@ Hotel recommendations per stop, all bookable via [Booking.com](https://www.booki
 
 **Ushuaia:** Arakur Ushuaia Resort (5-star with spa, 650 ft above the city), Las Hayas Resort Hotel (classic premium), Mil 810 Hotel (modern boutique).
 
-See our [Buenos Aires guide](/en/blog/where-to-stay-buenos-aires) for 1-2 stopover nights.
+See our [Buenos Aires guide](/en/blog/where-to-stay-buenos-aires/) for 1-2 stopover nights.
 
 ## What's the rental car reality in Patagonia?
 
@@ -105,7 +105,7 @@ Rental car sounds tempting, but is more complicated than expected:
 
 **Gravel road risk:** The famous Patagonia gravel roads are rental car killers. Gravel damage (rock chips) per day normal. Comprehensive insurance MUST include gravel road damage (costs extra $22-33/day).
 
-See our [rental car hidden costs guide](/en/blog/rental-car-hidden-costs-avoid) before you book.
+See our [rental car hidden costs guide](/en/blog/rental-car-hidden-costs-avoid/) before you book.
 
 ## What do you absolutely need to know before flying to Patagonia?
 
@@ -142,6 +142,6 @@ Laguna de los Tres under Fitz Roy (El Chaltén, 14 miles, full day), Mirador Las
 ---
 
 **Read more:**
-- [Where to stay in Buenos Aires: 5 neighborhoods](/en/blog/where-to-stay-buenos-aires)
-- [Where to stay in Mendoza: 4 wine regions](/en/blog/where-to-stay-mendoza)
-- [Costa Rica road trip: the perfect 2-week route](/en/blog/costa-rica-road-trip-route)
+- [Where to stay in Buenos Aires: 5 neighborhoods](/en/blog/where-to-stay-buenos-aires/)
+- [Where to stay in Mendoza: 4 wine regions](/en/blog/where-to-stay-mendoza/)
+- [Costa Rica road trip: the perfect 2-week route](/en/blog/costa-rica-road-trip-route/)

@@ -55,7 +55,7 @@ Hoteles: de 100 a 220 euros.
 **Recomendación:**
 - **De Waterkant House** (boutique, bien valorado, corazón del barrio, aprox. 160 €)
 
-Para otros destinos con naturaleza y ciudad combinados, consulta también [dónde alojarse en Marrakech](/es/blog/donde-alojarse-marrakech) y [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul).
+Para otros destinos con naturaleza y ciudad combinados, consulta también [dónde alojarse en Marrakech](/es/blog/donde-alojarse-marrakech/) y [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul/).
 
 ## Camps Bay: Playa y puestas de sol espectaculares
 
@@ -94,6 +94,6 @@ El MyCiTi Bus conecta el Waterfront, el centro y el aeropuerto. Para Camps Bay, 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Marrakech: Medina, Guéliz o Hivernage](/es/blog/donde-alojarse-marrakech)
-- [Dónde alojarse en Estambul: ¿Sultanahmet o Beyoğlu?](/es/blog/donde-alojarse-estambul)
-- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona)
+- [Dónde alojarse en Marrakech: Medina, Guéliz o Hivernage](/es/blog/donde-alojarse-marrakech/)
+- [Dónde alojarse en Estambul: ¿Sultanahmet o Beyoğlu?](/es/blog/donde-alojarse-estambul/)
+- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona/)

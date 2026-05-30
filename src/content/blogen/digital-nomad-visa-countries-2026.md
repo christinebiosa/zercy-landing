@@ -26,7 +26,7 @@ Portugal was one of the first countries worldwide with a dedicated remote worker
 
 **Taxes:** New arrivals can benefit from reduced tax rates through the NHR successor program (IFICI). But tax advice before moving is essential.
 
-**Where nomads live:** Lisbon, Porto, Madeira (Funchal has an active nomad community with government support). Our [Lisbon guide](/en/blog/where-to-stay-lisbon) shows which neighborhoods work best for weekly or monthly rentals.
+**Where nomads live:** Lisbon, Porto, Madeira (Funchal has an active nomad community with government support). Our [Lisbon guide](/en/blog/where-to-stay-lisbon/) shows which neighborhoods work best for weekly or monthly rentals.
 
 ## Spain: Remote Worker Visa Since 2023
 
@@ -64,7 +64,7 @@ Mexico offers a Residente Temporal (temporary residency permit) as a practical p
 
 **Taxes:** Mexico has a global tax system. Those spending more than 183 days per year in Mexico may become taxable there. Important: consult a local tax advisor.
 
-**Where nomads live:** Mexico City (Roma Norte, Condesa), Oaxaca, Playa del Carmen, Mérida. Our [Mexico City guide](/en/blog/where-to-stay-mexico-city) shows the best neighborhoods for longer stays.
+**Where nomads live:** Mexico City (Roma Norte, Condesa), Oaxaca, Playa del Carmen, Mérida. Our [Mexico City guide](/en/blog/where-to-stay-mexico-city/) shows the best neighborhoods for longer stays.
 
 ## Thailand: LTR Visa (Long-Term Resident)
 
@@ -145,6 +145,6 @@ As long as you keep your registered home address, you remain fully tax liable in
 ---
 
 **Read more:**
-- [Workation Tax Rules 2026: What You Need to Know](/en/blog/workation-tax-rules-2026)
-- [Cyber Security While Traveling: Protect Your Data](/en/blog/cyber-security-travel-2026)
-- [Where to Stay in Lisbon: The Best Neighborhoods](/en/blog/where-to-stay-lisbon)
+- [Workation Tax Rules 2026: What You Need to Know](/en/blog/workation-tax-rules-2026/)
+- [Cyber Security While Traveling: Protect Your Data](/en/blog/cyber-security-travel-2026/)
+- [Where to Stay in Lisbon: The Best Neighborhoods](/en/blog/where-to-stay-lisbon/)

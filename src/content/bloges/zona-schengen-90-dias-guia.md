@@ -48,7 +48,7 @@ El Reino Unido estuvo en la UE hasta 2020 pero nunca perteneció al espacio Sche
 
 ¿Por qué importa esto en la práctica? Una estadía en Irlanda o en el Reino Unido no cuenta contra tus 90 días Schengen. Podés viajar a Dublín o Londres durante tu viaje sin consumir tu cuota.
 
-Más sobre los requisitos de entrada y el próximo sistema ETIAS: [Guía ETIAS 2026](/es/blog/etias-2026-guia)
+Más sobre los requisitos de entrada y el próximo sistema ETIAS: [Guía ETIAS 2026](/es/blog/etias-2026-guia/)
 
 ## ¿Qué pasa si superás los 90 días?
 
@@ -110,7 +110,7 @@ En general, sí. Si cruzás Francia en auto o hacés una escala allí, eso cuent
 
 ### ¿Qué es ETIAS y aplica para todos a partir de 2026?
 
-ETIAS es una autorización de viaje para ciudadanos no pertenecientes a la UE de países exentos de visa. La fecha de lanzamiento se ha pospuesto en varias ocasiones y actualmente apunta a 2026 o 2027. Una vez que entre en vigor, quienes viajan sin visa deberán registrarse con antelación. La regla 90/180 días sigue aplicando igual. Más detalles en la [Guía ETIAS 2026](/es/blog/etias-2026-guia).
+ETIAS es una autorización de viaje para ciudadanos no pertenecientes a la UE de países exentos de visa. La fecha de lanzamiento se ha pospuesto en varias ocasiones y actualmente apunta a 2026 o 2027. Una vez que entre en vigor, quienes viajan sin visa deberán registrarse con antelación. La regla 90/180 días sigue aplicando igual. Más detalles en la [Guía ETIAS 2026](/es/blog/etias-2026-guia/).
 
 ### ¿Puedo cambiar entre países Schengen para resetear mis días?
 
@@ -120,6 +120,6 @@ No. El espacio Schengen cuenta como una sola zona. Moverse de Alemania a España
 
 ## Seguir leyendo
 
-- [ETIAS 2026: Todo lo que necesitás saber](/es/blog/etias-2026-guia)
-- [Preparación para un viaje largo: Lista de control para meses en el exterior](/es/blog/preparacion-viaje-largo)
-- [Seguro de viaje: ¿Cuándo vale la pena de verdad?](/es/blog/seguro-viaje-guia)
+- [ETIAS 2026: Todo lo que necesitás saber](/es/blog/etias-2026-guia/)
+- [Preparación para un viaje largo: Lista de control para meses en el exterior](/es/blog/preparacion-viaje-largo/)
+- [Seguro de viaje: ¿Cuándo vale la pena de verdad?](/es/blog/seguro-viaje-guia/)

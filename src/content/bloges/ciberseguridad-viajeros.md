@@ -67,6 +67,6 @@ Antes de salir. Muchos bancos bloquean automáticamente las transacciones en pa�
 ---
 
 **Más para leer:**
-- [Las mejores apps de viaje para 2026](/es/blog/mejores-apps-viaje-2026)
-- [Superar el jet lag rápido: lo que funciona](/es/blog/superar-jetlag-rapido)
-- [Trucos en el aeropuerto para salir antes y sin estrés](/es/blog/trucos-aeropuerto)
+- [Las mejores apps de viaje para 2026](/es/blog/mejores-apps-viaje-2026/)
+- [Superar el jet lag rápido: lo que funciona](/es/blog/superar-jetlag-rapido/)
+- [Trucos en el aeropuerto para salir antes y sin estrés](/es/blog/trucos-aeropuerto/)

@@ -39,7 +39,7 @@ Start with the basic rule: split everything up. Never keep everything in one pla
 
 **Laptop lock** for notebooks in hostels. A basic Kensington lock stops opportunistic theft.
 
-More on digital risks while travelling in the [cyber security travel guide](/en/blog/cyber-security-travel-2026). Physical and digital risk often go together.
+More on digital risks while travelling in the [cyber security travel guide](/en/blog/cyber-security-travel-2026/). Physical and digital risk often go together.
 
 ## What do you do when it happens?
 
@@ -55,7 +55,7 @@ Your bank's emergency line should be saved before you travel, not searched for a
 
 **3. Passport stolen?** Go to your nearest embassy or consulate. They issue emergency travel documents (within 1 to 2 days in most cases). Without a passport you can't go home. List of [UK consular services abroad](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) or your country's equivalent.
 
-**4. Contact your insurer.** Call your travel insurance or travel health insurance. Most have a 24-hour emergency line. More in the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026).
+**4. Contact your insurer.** Call your travel insurance or travel health insurance. Most have a 24-hour emergency line. More in the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 ## What doesn't help, even if it's often recommended?
 
@@ -91,6 +91,6 @@ Barcelona (Ramblas, metro), Paris (tourist areas, Metro Line 1), Rome (Colosseum
 
 ## Read more
 
-- [Cyber Security While Travelling: What You Need to Know](/en/blog/cyber-security-travel-2026)
-- [Travel Insurance: What's Actually Worth Paying For](/en/blog/travel-insurance-worth-it-2026)
-- [Latin America Safety Tips for Travellers](/en/blog/latin-america-safety-tips)
+- [Cyber Security While Travelling: What You Need to Know](/en/blog/cyber-security-travel-2026/)
+- [Travel Insurance: What's Actually Worth Paying For](/en/blog/travel-insurance-worth-it-2026/)
+- [Latin America Safety Tips for Travellers](/en/blog/latin-america-safety-tips/)

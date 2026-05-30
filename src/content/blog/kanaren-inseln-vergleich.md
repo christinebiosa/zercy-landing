@@ -35,7 +35,7 @@ Lanzarote lohnt sich für: Design-Interessierte, Naturliebhaber, Paare, Wiederho
 
 Gran Canaria hat alles auf kleinstem Raum. Las Palmas ist eine echte Metropole (400.000 Einwohner), mit Museen, Universitäten, einer Altstadt und dem legendären Strand Playa de las Canteras direkt in der Stadt. Der Süden: Maspalomas mit Sanddünen, die sich bis ans Meer ziehen. Fast wie Sahara-Ausblick mit Atlantik dahinter.
 
-Gran Canaria ist außerdem bekannt als weltoffen und LGBTQ-freundlich, besonders das Viertel Yumbo in Playa del Inglés. Die besten Stadtteile und Unterkünfte auf Gran Canaria findest du in unserem [Gran Canaria Hotelguide](/blog/wo-uebernachten-gran-canaria).
+Gran Canaria ist außerdem bekannt als weltoffen und LGBTQ-freundlich, besonders das Viertel Yumbo in Playa del Inglés. Die besten Stadtteile und Unterkünfte auf Gran Canaria findest du in unserem [Gran Canaria Hotelguide](/blog/wo-uebernachten-gran-canaria/).
 
 Gran Canaria lohnt sich für: Alleinreisende, Stadtliebhaber, LGBTQ-Reisende, alle die Meer + Dünen + Großstadt wollen.
 
@@ -91,6 +91,6 @@ Teneriffa für das komplette Angebot (Wasserparks, Tierparks, Samsara Aqua World
 
 ## Mehr lesen
 
-- [Madeira Reiseguide: Wandern und ewiger Frühling](/blog/madeira-reiseguide)
-- [Portugal Rundreise Route: Highlights von Nord nach Süd](/blog/portugal-rundreise-route)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Madeira Reiseguide: Wandern und ewiger Frühling](/blog/madeira-reiseguide/)
+- [Portugal Rundreise Route: Highlights von Nord nach Süd](/blog/portugal-rundreise-route/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

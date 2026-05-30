@@ -71,7 +71,7 @@ Tribschen lies east of the Old Town, at the mouth of the Reuss into the lake. Ri
 
 Lucerne is expensive. That's Switzerland. With [Booking.com](https://www.booking.com) you get price comparisons across all categories and good access to free cancellation, which matters in Switzerland where adjusting for weather is a standard part of any travel plan.
 
-Also read our [Switzerland travel highlights guide](/en/blog/switzerland-travel-highlights-guide) for activities and sights. And [Where to stay in Zurich](/en/blog/where-to-stay-zurich) for the Swiss metropolis.
+Also read our [Switzerland travel highlights guide](/en/blog/switzerland-travel-highlights-guide/) for activities and sights. And [Where to stay in Zurich](/en/blog/where-to-stay-zurich/) for the Swiss metropolis.
 
 ---
 
@@ -99,6 +99,6 @@ By train via Brienz: about 2 hours. By panorama train (Golden Pass Panoramic) ov
 
 ## Read more
 
-- [Switzerland travel highlights: The complete guide](/en/blog/switzerland-travel-highlights-guide)
-- [Where to stay in Interlaken: Area guide 2026](/en/blog/where-to-stay-interlaken)
-- [Best spring destinations in Europe](/en/blog/best-spring-destinations-europe)
+- [Switzerland travel highlights: The complete guide](/en/blog/switzerland-travel-highlights-guide/)
+- [Where to stay in Interlaken: Area guide 2026](/en/blog/where-to-stay-interlaken/)
+- [Best spring destinations in Europe](/en/blog/best-spring-destinations-europe/)

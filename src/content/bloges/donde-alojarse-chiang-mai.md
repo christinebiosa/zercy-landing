@@ -59,7 +59,7 @@ La zona Riverside discurre por la orilla este del río Ping, a 10 minutos en tuk
 - **Ping Nakara Boutique Hotel:** 19 habitaciones en una casa colonial de principios del siglo XX. Íntimo e inusual.
 - **Le Méridien Chiang Mai:** Hotel urbano moderno cerca del Night Bazaar. Piscina grande, estándar internacional fiable.
 
-Los viajeros que añaden Bangkok al itinerario encontrarán útil nuestra guía de [barrios de Bangkok](/es/blog/donde-alojarse-bangkok).
+Los viajeros que añaden Bangkok al itinerario encontrarán útil nuestra guía de [barrios de Bangkok](/es/blog/donde-alojarse-bangkok/).
 
 ## Santitham: Chiang Mai real a precio de mercado local
 
@@ -106,6 +106,6 @@ La escala y el ritmo. Chiang Mai es recorrible a pie, tranquila y mucho más bar
 ---
 
 **Leer más:**
-- [Dónde alojarse en Bangkok: 5 barrios comparados](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Bali: Ubud, Seminyak y más](/es/blog/donde-alojarse-bali)
-- [Dónde alojarse en Tokio: de Shinjuku a Asakusa](/es/blog/donde-alojarse-tokio)
+- [Dónde alojarse en Bangkok: 5 barrios comparados](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Bali: Ubud, Seminyak y más](/es/blog/donde-alojarse-bali/)
+- [Dónde alojarse en Tokio: de Shinjuku a Asakusa](/es/blog/donde-alojarse-tokio/)

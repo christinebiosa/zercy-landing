@@ -49,7 +49,7 @@ El Baltic Triangle está al sur del centro y fue durante años un área industri
 
 **Mejores opciones:** Staycity Aparthotel Liverpool (apartamentos bien equipados, ideal para estancias largas), Hope Street Hotel (boutique en edificio histórico en el límite con el Georgian Quarter, conocido por su buena cocina).
 
-Si buscas algo similar en otra ciudad del norte de Europa, nuestro [guía de Dublín](/es/blog/donde-alojarse-dublin) cubre un ambiente comparable de barrio creativo con herencia histórica.
+Si buscas algo similar en otra ciudad del norte de Europa, nuestro [guía de Dublín](/es/blog/donde-alojarse-dublin/) cubre un ambiente comparable de barrio creativo con herencia histórica.
 
 ## Ropewalks: Noche y energía
 
@@ -73,7 +73,7 @@ El Georgian Quarter es el barrio más elegante de Liverpool. Terrazas uniformes 
 
 **Mejores opciones:** Aloft Liverpool (hotel urbano moderno, bien ubicado entre el Georgian Quarter y el centro, animado bar dentro del hotel).
 
-Una arquitectura georgiana parecida con fuerte cultura de pub la encuentras también en nuestro [guía de Londres](/es/blog/donde-alojarse-london). Dos ciudades inglesas con carácter muy distinto pero herencia arquitectónica común.
+Una arquitectura georgiana parecida con fuerte cultura de pub la encuentras también en nuestro [guía de Londres](/es/blog/donde-alojarse-london/). Dos ciudades inglesas con carácter muy distinto pero herencia arquitectónica común.
 
 ## ¿Cuándo es la mejor época para visitar Liverpool?
 
@@ -121,5 +121,5 @@ Waterfront o centro, cerca del Albert Dock. El Titanic Hotel Liverpool o 30 Jame
 ---
 
 **Más artículos:**
-- [Los mejores hoteles en Londres: dónde alojarse por barrio](/es/blog/donde-alojarse-london)
-- [Los mejores hoteles en Dublín: dónde alojarse por barrio](/es/blog/donde-alojarse-dublin)
+- [Los mejores hoteles en Londres: dónde alojarse por barrio](/es/blog/donde-alojarse-london/)
+- [Los mejores hoteles en Dublín: dónde alojarse por barrio](/es/blog/donde-alojarse-dublin/)

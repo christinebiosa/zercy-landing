@@ -33,7 +33,7 @@ Marvila is the neighborhood no guidebook writes about yet. Former industrial bui
 
 The [Underdogs Gallery](https://www.underdogs.com/) shows international street art at museum level. Admission is free. Two cervejarias (Dois Corvos and Lince) brew excellent beer and pour it from 3 euros. You can reach the whole neighborhood on bus 728 or the train to Marvila station.
 
-If you love [hidden gems in Europe](/en/blog/hidden-gems-europe), Marvila is a neighborhood to bookmark. For now.
+If you love [hidden gems in Europe](/en/blog/hidden-gems-europe/), Marvila is a neighborhood to bookmark. For now.
 
 ## The Pastéis Question: Skip Belém
 
@@ -63,7 +63,7 @@ Tram 28 is the most famous in the world. It is also the most crowded. Pickpocket
 
 Take Tram 12 instead. Similar route, a fraction of the tourists. Or just walk. The views on the way up are the real reason you came here.
 
-The metro works brilliantly. Day pass: 6.80 euros (Viva Viagem card plus daily rate). If you are looking to [travel on a budget](/en/blog/cheap-flights-tips), skip the overpriced tuk-tuks.
+The metro works brilliantly. Day pass: 6.80 euros (Viva Viagem card plus daily rate). If you are looking to [travel on a budget](/en/blog/cheap-flights-tips/), skip the overpriced tuk-tuks.
 
 ## Bairro Alto After Dark
 
@@ -104,6 +104,6 @@ Budget around 50 to 70 euros per day for a normal trip. Lunch menu 8 to 12 euros
 ---
 
 Read more:
-- [Hidden Gems Europe: 7 Off-Radar Places](/en/blog/hidden-gems-europe)
-- [Train Travel Europe: The Best Routes](/en/blog/train-travel-europe)
-- [Cheap Flights: Tips That Actually Work](/en/blog/cheap-flights-tips)
+- [Hidden Gems Europe: 7 Off-Radar Places](/en/blog/hidden-gems-europe/)
+- [Train Travel Europe: The Best Routes](/en/blog/train-travel-europe/)
+- [Cheap Flights: Tips That Actually Work](/en/blog/cheap-flights-tips/)

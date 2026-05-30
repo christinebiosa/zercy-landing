@@ -26,7 +26,7 @@ Europe has five classic river routes. Each has its own character.
 
 **Douro: Porto to the Spanish border.** Steep wine terraces, Port wine quintas, Salamanca as a possible endpoint. Less well-known than the Rhine and Danube, but more authentic and less crowded. Starting in Porto is a bonus in itself.
 
-For first-time river cruisers: Danube or Rhine. Both offer broad ship selection, many departure dates and a reliable experience. If you are planning ahead, check [night trains in Europe](/en/blog/night-trains-europe-2026) as an alternative for the same scenic approach.
+For first-time river cruisers: Danube or Rhine. Both offer broad ship selection, many departure dates and a reliable experience. If you are planning ahead, check [night trains in Europe](/en/blog/night-trains-europe-2026/) as an alternative for the same scenic approach.
 
 ## What Is Included in a River Cruise?
 
@@ -46,7 +46,7 @@ This is the most important question. River cruises fit well, but not for everyon
 
 **Good fit:** Couples aged 50+, culturally interested travelers, anyone who wants to avoid seasickness (no open water, no swell), honeymooners who appreciate relaxed travel, people who want to see new places every day without repacking their bag each morning.
 
-**Not a good fit:** Travelers on tight budgets (1,500-4,000 EUR per person for 8 days is the realistic range), younger travelers looking for a party atmosphere (ocean cruises or [train travel in Europe](/en/blog/train-travel-europe) are better options there), families with very small children (the ship structure does not always work well).
+**Not a good fit:** Travelers on tight budgets (1,500-4,000 EUR per person for 8 days is the realistic range), younger travelers looking for a party atmosphere (ocean cruises or [train travel in Europe](/en/blog/train-travel-europe/) are better options there), families with very small children (the ship structure does not always work well).
 
 The typical river cruise passenger is 55-70 years old, has already done a lot of independent travel and now wants a more relaxed pace without sacrificing depth. The audience has shifted slightly younger in recent years, but the core remains.
 
@@ -101,6 +101,6 @@ Book directly through the operator (Viking.com, A-Rosa.de) or through specialize
 ---
 
 **Read more:**
-- [Cruises for Beginners: What You Really Need to Know Before Booking](/en/blog/cruise-beginners-guide)
-- [Night Trains in Europe 2026: Routes, Prices, Tips](/en/blog/night-trains-europe-2026)
-- [Train Travel in Europe: The Complete Guide](/en/blog/train-travel-europe)
+- [Cruises for Beginners: What You Really Need to Know Before Booking](/en/blog/cruise-beginners-guide/)
+- [Night Trains in Europe 2026: Routes, Prices, Tips](/en/blog/night-trains-europe-2026/)
+- [Train Travel in Europe: The Complete Guide](/en/blog/train-travel-europe/)

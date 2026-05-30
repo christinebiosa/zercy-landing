@@ -77,6 +77,6 @@ The Mezquita-Catedral (buy tickets in advance!), the lanes of La Judería, the A
 
 ## Read more
 
-- [Where to Stay in Seville](/en/blog/where-to-stay-seville)
-- [Where to Stay in Granada](/en/blog/where-to-stay-granada)
-- [Where to Stay in Madrid](/en/blog/where-to-stay-madrid)
+- [Where to Stay in Seville](/en/blog/where-to-stay-seville/)
+- [Where to Stay in Granada](/en/blog/where-to-stay-granada/)
+- [Where to Stay in Madrid](/en/blog/where-to-stay-madrid/)

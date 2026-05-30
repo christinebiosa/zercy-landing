@@ -78,6 +78,6 @@ Both work well for families. Booking.com has more apart-hotels with hotel infras
 ---
 
 **Read more:**
-- [Is Booking Genius worth it? All 3 levels reviewed](/en/blog/booking-genius-program-worth-it)
-- [Where to stay in Istanbul: Sultanahmet or Beyoğlu?](/en/blog/where-to-stay-istanbul)
-- [Rental car hidden costs to avoid](/en/blog/rental-car-hidden-costs-avoid)
+- [Is Booking Genius worth it? All 3 levels reviewed](/en/blog/booking-genius-program-worth-it/)
+- [Where to stay in Istanbul: Sultanahmet or Beyoğlu?](/en/blog/where-to-stay-istanbul/)
+- [Rental car hidden costs to avoid](/en/blog/rental-car-hidden-costs-avoid/)

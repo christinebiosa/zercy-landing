@@ -44,7 +44,7 @@ The cabin price is the entry price, not the final price. Here is what you are ac
 
 **Real all-in cost** for 7 nights Mediterranean (two people, balcony cabin, drinks package, moderate excursions): 3,000 to 5,000 EUR total. Per person roughly 1,500 to 2,500 EUR. Not the 600 EUR in the banner ad.
 
-Plan for the real number from the start and there are no unpleasant surprises. Our [travel mistakes article](/en/blog/travel-mistakes-avoid-common) covers other common budget traps.
+Plan for the real number from the start and there are no unpleasant surprises. Our [travel mistakes article](/en/blog/travel-mistakes-avoid-common/) covers other common budget traps.
 
 ## Which Routes Work Best for a First Cruise?
 
@@ -68,7 +68,7 @@ Three options, each with trade-offs.
 
 Booking early usually makes sense for cruises. Balcony cabins on popular summer Mediterranean routes sell out months ahead. Last-minute deals exist but cabin choice is very limited. Flexible travelers can find late availability on platforms like CruiseDirect.
 
-Our [smart booking guide](/en/blog/booking-vs-direct-hotel-booking) covers when to book direct versus through intermediaries for other types of travel too.
+Our [smart booking guide](/en/blog/booking-vs-direct-hotel-booking/) covers when to book direct versus through intermediaries for other types of travel too.
 
 ## What Is the Real Story on Seasickness?
 
@@ -103,6 +103,6 @@ Royal Caribbean and Norwegian Cruise Line have the most extensive children's pro
 ---
 
 **Read more:**
-- [Cruise Port Cities: How to Extend Your Visit Beyond the Ship](/en/blog/cruise-extend-port-cities)
-- [Travel Mistakes to Avoid: The Classic Ones](/en/blog/travel-mistakes-avoid-common)
-- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [Cruise Port Cities: How to Extend Your Visit Beyond the Ship](/en/blog/cruise-extend-port-cities/)
+- [Travel Mistakes to Avoid: The Classic Ones](/en/blog/travel-mistakes-avoid-common/)
+- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)

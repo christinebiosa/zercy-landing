@@ -33,7 +33,7 @@ UNESCO World Heritage, walled old city with Jemaa el-Fnaa square, souks, the Kou
 
 **Top picks:** La Sultana Marrakech (5-star riad with 5 courtyards), Riad Le Clos des Arts (small boutique riad), Royal Mansour Marrakech (legendary premium riad resort by the royal family). These and 2,000+ more Marrakech accommodations are on [Booking.com](https://www.booking.com) with neighborhood filter and free cancellation.
 
-See our detailed [Morocco riads guide](/en/blog/morocco-riads-guide) for riad selection.
+See our detailed [Morocco riads guide](/en/blog/morocco-riads-guide/) for riad selection.
 
 ## Hivernage: The premium Marrakech
 
@@ -117,6 +117,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel or simple riad, local foo
 ---
 
 **Read more:**
-- [Morocco riads: which ones are actually worth it?](/en/blog/morocco-riads-guide)
-- [Where to stay in Lisbon: 5 neighborhoods](/en/blog/where-to-stay-lisbon)
-- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena)
+- [Morocco riads: which ones are actually worth it?](/en/blog/morocco-riads-guide/)
+- [Where to stay in Lisbon: 5 neighborhoods](/en/blog/where-to-stay-lisbon/)
+- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena/)

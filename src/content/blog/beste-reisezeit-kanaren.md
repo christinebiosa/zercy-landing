@@ -60,6 +60,6 @@ La Palma hat die dichtesten Wandernetze und die grünsten Landschaften. La Gomer
 ---
 
 **Mehr lesen:**
-- [Kanaren Inseln im Vergleich: Welche passt zu dir?](/blog/kanaren-inseln-vergleich)
-- [Wo übernachten auf Teneriffa](/blog/wo-uebernachten-teneriffa)
-- [Wo übernachten auf Lanzarote](/blog/wo-uebernachten-lanzarote)
+- [Kanaren Inseln im Vergleich: Welche passt zu dir?](/blog/kanaren-inseln-vergleich/)
+- [Wo übernachten auf Teneriffa](/blog/wo-uebernachten-teneriffa/)
+- [Wo übernachten auf Lanzarote](/blog/wo-uebernachten-lanzarote/)

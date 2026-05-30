@@ -65,6 +65,6 @@ Los cruceros mediterráneos (Grecia, Adriático, Turquía, Malta, Italia) tienen
 ---
 
 **Más para leer:**
-- [Trenes nocturnos en Europa 2026: la guía completa](/es/blog/trenes-nocturnos-europa-2026)
-- [48 horas en Roma: el itinerario perfecto](/es/blog/48-horas-roma)
-- [Dónde alojarse en Estambul: Sultanahmet, Beyoğlu o Karaköy](/es/blog/donde-alojarse-estambul)
+- [Trenes nocturnos en Europa 2026: la guía completa](/es/blog/trenes-nocturnos-europa-2026/)
+- [48 horas en Roma: el itinerario perfecto](/es/blog/48-horas-roma/)
+- [Dónde alojarse en Estambul: Sultanahmet, Beyoğlu o Karaköy](/es/blog/donde-alojarse-estambul/)

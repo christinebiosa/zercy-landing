@@ -71,7 +71,7 @@ The island's longest sand beach lies just 3 kilometers from Ibiza Town. Ushuaïa
 
 Ibiza hotels have strong seasonal price swings: double prices in July-August compared to May or October. [Booking.com](https://www.booking.com) is ideal for price comparison. Check cancellation terms: many Ibiza hotels require full payment on booking in high season.
 
-Also read: [Where to stay in Barcelona](/en/blog/where-to-stay-barcelona) and [Where to stay in Madrid](/en/blog/where-to-stay-madrid).
+Also read: [Where to stay in Barcelona](/en/blog/where-to-stay-barcelona/) and [Where to stay in Madrid](/en/blog/where-to-stay-madrid/).
 
 ---
 
@@ -99,6 +99,6 @@ Yes. Santa Eulalia has child-friendly beaches. Cala Salada and Cala Gracio in th
 
 ## Read more
 
-- [Where to stay in Barcelona: The 5 neighborhoods](/en/blog/where-to-stay-barcelona)
-- [Where to stay in Madrid: Neighborhoods and hotels](/en/blog/where-to-stay-madrid)
-- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026)
+- [Where to stay in Barcelona: The 5 neighborhoods](/en/blog/where-to-stay-barcelona/)
+- [Where to stay in Madrid: Neighborhoods and hotels](/en/blog/where-to-stay-madrid/)
+- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026/)

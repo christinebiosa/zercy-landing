@@ -86,6 +86,6 @@ Bali (excellent villas for €100-200/night), Portugal (Alentejo, Douro Valley),
 
 ## Read more
 
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Scandinavia Road Trip Route: Highlights](/en/blog/scandinavia-road-trip-route)
-- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Scandinavia Road Trip Route: Highlights](/en/blog/scandinavia-road-trip-route/)
+- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials/)

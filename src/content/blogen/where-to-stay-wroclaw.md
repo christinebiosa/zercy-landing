@@ -49,7 +49,7 @@ These and 600+ Wrocław hotels are on [Booking.com](https://www.booking.com) wit
 - **Art Hotel Wrocław:** Design hotel with individually styled rooms, centrally located. Popular with travelers who prefer personality over chain consistency.
 - **ibis Wrocław Centrum:** Dependable chain option, good location, lowest price point near the center.
 
-Wrocław makes an excellent stop on a [Poland road trip](/en/blog/poland-road-trip-route). Kraków is just over two hours by train, Warsaw under three.
+Wrocław makes an excellent stop on a [Poland road trip](/en/blog/poland-road-trip-route/). Kraków is just over two hours by train, Warsaw under three.
 
 ## Krzyki: Quiet, Green, For Explorers
 
@@ -60,7 +60,7 @@ Travelers staying several nights or wanting to experience Wrocław from a local 
 - **Apartments and vacation rentals:** Booking.com and Airbnb have dozens of renovated apartments in period buildings. Often cheaper than a hotel room for couples or small groups.
 - **Hotel Campanile Wrocław:** Modern business hotel in Krzyki. Well-maintained, fair prices, parking available.
 
-If budget travel is your priority, the [Eastern Europe budget guide](/en/blog/budget-travel-eastern-europe) covers the wider region. Wrocław consistently ranks among the most affordable major cities on the continent.
+If budget travel is your priority, the [Eastern Europe budget guide](/en/blog/budget-travel-eastern-europe/) covers the wider region. Wrocław consistently ranks among the most affordable major cities on the continent.
 
 ## Ostrów Tumski: Romance on Cathedral Island
 
@@ -107,6 +107,6 @@ By train in just over two hours on a direct connection. Tickets via PKP Intercit
 ---
 
 **Read more:**
-- [Poland Road Trip: Route Through Warsaw, Wrocław and Kraków](/en/blog/poland-road-trip-route)
-- [Budget Travel in Eastern Europe: The Complete Guide](/en/blog/budget-travel-eastern-europe)
-- [Best Hotels in Warsaw: Where to Stay by Neighborhood](/en/blog/where-to-stay-warsaw)
+- [Poland Road Trip: Route Through Warsaw, Wrocław and Kraków](/en/blog/poland-road-trip-route/)
+- [Budget Travel in Eastern Europe: The Complete Guide](/en/blog/budget-travel-eastern-europe/)
+- [Best Hotels in Warsaw: Where to Stay by Neighborhood](/en/blog/where-to-stay-warsaw/)

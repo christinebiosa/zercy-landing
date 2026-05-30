@@ -47,7 +47,7 @@ Gezira Island im Nil. Grüner, ruhiger, internationaler als der Rest der Stadt. 
 
 **Top-Picks:** Four Seasons Hotel Cairo at Nile Plaza (eine der besten Adressen der Stadt, direkter Nilblick), Kempinski Nile Hotel Garden City (Luxus, Rooftop, fußläufig zum Nil), Cairo Marriott Hotel (historischer Bau, Garten, Zamalek-Lage).
 
-Für unseren [Marrakesch-Guide](/blog/wo-uebernachten-marrakesch) gilt ähnliches wie für Zamalek: wer Atmosphäre mit Schlafkomfort kombinieren will, braucht das richtige Viertel.
+Für unseren [Marrakesch-Guide](/blog/wo-uebernachten-marrakesch/) gilt ähnliches wie für Zamalek: wer Atmosphäre mit Schlafkomfort kombinieren will, braucht das richtige Viertel.
 
 ## Wann ist die beste Reisezeit für Kairo?
 
@@ -73,7 +73,7 @@ West-Kairo, westlich des Nils. Kein Touristenviertel. Gute Restaurants (lokale K
 
 **Top-Picks:** Le Méridien Pyramids (gutes Mittelklasse-Haus, nicht weit von Giza), Amir Palace Hotel (locals Liebling, sauber, praktisch), Golden Tulip Flamenco Hotel Cairo (bewährt, mittelpreisig, gute Lage).
 
-Auch beim [Sansibar Stone Town Guide](/blog/sansibar-stone-town-guide) gilt das Prinzip: die lokalen Viertel außerhalb der Touristenhochburgen bieten mehr für weniger.
+Auch beim [Sansibar Stone Town Guide](/blog/sansibar-stone-town-guide/) gilt das Prinzip: die lokalen Viertel außerhalb der Touristenhochburgen bieten mehr für weniger.
 
 ## Maadi: Das Expatviertel
 
@@ -85,7 +85,7 @@ Im Süden Kairos, am Nil. Villen, Grünflächen, internationale Schulen, auslän
 
 **Top-Picks:** Semiramis InterContinental Cairo (größer, am Nil, gute Infrastruktur), Kempinski Maadi (Luxus mit Residenz-Charakter), diverse Serviced Apartments für Wochen-/Monatsmieter.
 
-Eine [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich) ist für Ägypten empfehlenswert. Nicht wegen der Sicherheitslage, sondern wegen der medizinischen Infrastruktur außerhalb der Tourismusbereiche.
+Eine [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) ist für Ägypten empfehlenswert. Nicht wegen der Sicherheitslage, sondern wegen der medizinischen Infrastruktur außerhalb der Tourismusbereiche.
 
 ## Wo solltest du am Ende buchen?
 
@@ -123,6 +123,6 @@ Von Kairo-Zentrum (Tahrir-Platz) nach Giza: etwa 12 bis 15 km, mit Taxi 30 bis 4
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Marrakesch: Die 5 besten Viertel](/blog/wo-uebernachten-marrakesch)
-- [Sansibar Stone Town Guide: Was du wissen musst](/blog/sansibar-stone-town-guide)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Wo übernachten in Marrakesch: Die 5 besten Viertel](/blog/wo-uebernachten-marrakesch/)
+- [Sansibar Stone Town Guide: Was du wissen musst](/blog/sansibar-stone-town-guide/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

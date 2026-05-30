@@ -114,7 +114,7 @@ Frühstück aus dem Konbini spart dir 10 bis 15 Euro pro Tag, schmeckt aber trot
 
 Direktflüge nach Tokio-Narita (NRT) oder Haneda (HND). Haneda ist näher zur City. Zercy findet dir beides.
 
-In der Stadt: JR Pass lohnt sich erst bei Reisen außerhalb Tokios. Innerhalb Tokios nimm eine Suica oder Pasmo Karte für Metro und Bus. [Mehr zu japanischen Zugreisen](/blog/zugreisen-europa) findest du im Zugreisen-Artikel (für Europa, aber das Prinzip ähnelt).
+In der Stadt: JR Pass lohnt sich erst bei Reisen außerhalb Tokios. Innerhalb Tokios nimm eine Suica oder Pasmo Karte für Metro und Bus. [Mehr zu japanischen Zugreisen](/blog/zugreisen-europa/) findest du im Zugreisen-Artikel (für Europa, aber das Prinzip ähnelt).
 
 ## Praktische Tipps
 
@@ -126,9 +126,9 @@ In der Stadt: JR Pass lohnt sich erst bei Reisen außerhalb Tokios. Innerhalb To
 
 ---
 
-Zercy plant dir Flüge nach Tokio, das richtige Hotel je nach Foodie-Viertel und hilft dir bei den Restaurant-Reservierungen. Das [Zercy Logbook](/blog/zercy-logbook) hält deine Woche voller Essen chronologisch zusammen.
+Zercy plant dir Flüge nach Tokio, das richtige Hotel je nach Foodie-Viertel und hilft dir bei den Restaurant-Reservierungen. Das [Zercy Logbook](/blog/zercy-logbook/) hält deine Woche voller Essen chronologisch zusammen.
 
-**Mehr lesen:** [Boutique-Hotels finden](/blog/boutique-hotels) · [Business Class ohne Meilen](/blog/business-class-ohne-meilen) · [Geheimtipps Europa](/blog/geheimtipps-europa)
+**Mehr lesen:** [Boutique-Hotels finden](/blog/boutique-hotels/) · [Business Class ohne Meilen](/blog/business-class-ohne-meilen/) · [Geheimtipps Europa](/blog/geheimtipps-europa/)
 
 ## Häufige Fragen
 
@@ -151,6 +151,6 @@ Alle mit Michelin-Sternen, alle großen Omakase-Sushi-Bars (Jiro, Saito, Yoshita
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
-- [Wo übernachten in Seoul: Die 5 Stadtteile](/blog/wo-uebernachten-seoul)
-- [Wo übernachten in Hongkong: Die 4 Stadtteile](/blog/wo-uebernachten-hongkong)
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio/)
+- [Wo übernachten in Seoul: Die 5 Stadtteile](/blog/wo-uebernachten-seoul/)
+- [Wo übernachten in Hongkong: Die 4 Stadtteile](/blog/wo-uebernachten-hongkong/)

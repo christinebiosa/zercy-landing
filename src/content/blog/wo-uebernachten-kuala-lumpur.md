@@ -104,6 +104,6 @@ KLCC und Bukit Bintang haben die besten Familien-Hotels mit Pool. Große Malls d
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok)
-- [Wo übernachten in Singapur: Marina Bay oder Chinatown?](/blog/wo-uebernachten-singapur)
-- [Thailand: 2 Wochen Route mit Tipps](/blog/thailand-route-2-wochen)
+- [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok/)
+- [Wo übernachten in Singapur: Marina Bay oder Chinatown?](/blog/wo-uebernachten-singapur/)
+- [Thailand: 2 Wochen Route mit Tipps](/blog/thailand-route-2-wochen/)

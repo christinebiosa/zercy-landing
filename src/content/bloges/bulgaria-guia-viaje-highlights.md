@@ -68,6 +68,6 @@ Entre Sofía y Plovdiv: tren o autobús, 2 horas, muy económico. Para la costa 
 ---
 
 **Más sobre Europa del Este:**
-- [Balcanes Road Trip Ruta](/es/blog/balcanes-road-trip-ruta)
-- [Joyas Ocultas de Europa](/es/blog/joyas-ocultas-europa)
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Balcanes Road Trip Ruta](/es/blog/balcanes-road-trip-ruta/)
+- [Joyas Ocultas de Europa](/es/blog/joyas-ocultas-europa/)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)

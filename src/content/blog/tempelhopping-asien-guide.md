@@ -20,9 +20,9 @@ Tempelhopping bedeutet: mehrere heilige Stätten in einer Region in wenigen Tage
 
 **Bagan, Myanmar.** Über 2.000 Pagoden und Stupas verteilt auf einer Ebene. Mit dem Fahrrad durchs Morgengrauen fahren, während der Nebel zwischen den Türmen liegt. Das ist einer der stillen Momente, für die man lange reist. Eintritt: 25 USD für die Archäologische Zone, gültig für mehrere Tage.
 
-**Prambanan, Indonesien.** Nahe Yogyakarta auf Java, eine Stunde von Borobudur entfernt. Der hinduistische Tempelkomplex aus dem 9. Jahrhundert ist der größte Südostasiens. Die drei Haupttürme für Brahma, Vishnu und Shiva ragen 47 Meter in den Himmel. Kombinierst du Prambanan mit [Borobudur](/blog/suedostasien-budget-reisen), dem buddhistischen Gegenstück, bekommst du zwei Weltkulturerbe an einem Tag.
+**Prambanan, Indonesien.** Nahe Yogyakarta auf Java, eine Stunde von Borobudur entfernt. Der hinduistische Tempelkomplex aus dem 9. Jahrhundert ist der größte Südostasiens. Die drei Haupttürme für Brahma, Vishnu und Shiva ragen 47 Meter in den Himmel. Kombinierst du Prambanan mit [Borobudur](/blog/suedostasien-budget-reisen/), dem buddhistischen Gegenstück, bekommst du zwei Weltkulturerbe an einem Tag.
 
-**Ayutthaya, Thailand.** Eine Stunde nördlich von Bangkok. Die alte Hauptstadt des Königreichs Siam liegt heute als Ruinenlandschaft unter freiem Himmel. Kopflose Buddha-Statuen, Tempelruinen, Flusskähne. Das Besondere: Kein Eintritt für viele Bereiche, andere kosten 50 Baht. Perfekt als Tagestipp aus Bangkok. Für Unterkünfte in der Nähe hilft der Artikel [Wo übernachten in Bangkok](/blog/wo-uebernachten-bangkok).
+**Ayutthaya, Thailand.** Eine Stunde nördlich von Bangkok. Die alte Hauptstadt des Königreichs Siam liegt heute als Ruinenlandschaft unter freiem Himmel. Kopflose Buddha-Statuen, Tempelruinen, Flusskähne. Das Besondere: Kein Eintritt für viele Bereiche, andere kosten 50 Baht. Perfekt als Tagestipp aus Bangkok. Für Unterkünfte in der Nähe hilft der Artikel [Wo übernachten in Bangkok](/blog/wo-uebernachten-bangkok/).
 
 **Hampi, Indien.** Die Ruinen des Vijayanagara-Reiches im Bundesstaat Karnataka. Gigantische Felsformationen, begehbare Tempel, Basarstraßen aus dem 14. Jahrhundert. Hampi ist kein Massentourismusziel. Du kannst hier tatsächlich alleine durch eine Tempelanlage laufen. Eintritt für die Hauptzone: 600 INR (rund 6,50 Euro).
 
@@ -52,7 +52,7 @@ Die Eintrittspreise schwanken stark. Grob zusammengefasst:
 - Hampi: 600 INR (rund 6,50 Euro) für den Hauptkomplex
 - Ayutthaya: viele Bereiche kostenlos oder 50 Baht
 
-**Dress Code.** Schultern und Knie müssen bedeckt sein. Das gilt fast überall. Einige Anlagen verleihen Sarongs oder Schals am Eingang kostenlos oder gegen Pfand. Lieber selbst einen leichten Schal mitnehmen, gerade in der Hitze bequemer als die Leihsachen. Für eine passende Packliste hilft der Artikel [Packliste für den Tropenurlaub](/blog/packliste-tropenurlaub).
+**Dress Code.** Schultern und Knie müssen bedeckt sein. Das gilt fast überall. Einige Anlagen verleihen Sarongs oder Schals am Eingang kostenlos oder gegen Pfand. Lieber selbst einen leichten Schal mitnehmen, gerade in der Hitze bequemer als die Leihsachen. Für eine passende Packliste hilft der Artikel [Packliste für den Tropenurlaub](/blog/packliste-tropenurlaub/).
 
 **Guide-Pflicht.** Bei Angkor Wat und Borobudur ist ein Guide nicht verpflichtend, aber sinnvoll. Ohne Hintergrundwissen sieht man Steine. Mit Guide sieht man Geschichte. Kosten: 20 bis 40 USD für einen Halbtag, je nach Destination. In Hampi gibt es offizielle Guides für rund 10 Euro für zwei bis drei Stunden. Lohnt sich.
 
@@ -95,6 +95,6 @@ Ayutthaya und Prambanan sind ideal für Familien: überschaubare Areale, weniger
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bangkok: Die besten Stadtteile 2026](/blog/wo-uebernachten-bangkok)
-- [Hamam-Guide: Das türkische Bad richtig erleben](/blog/hamam-tuerkisches-bad-guide)
-- [Packliste für den Tropenurlaub: Was wirklich rein muss](/blog/packliste-tropenurlaub)
+- [Wo übernachten in Bangkok: Die besten Stadtteile 2026](/blog/wo-uebernachten-bangkok/)
+- [Hamam-Guide: Das türkische Bad richtig erleben](/blog/hamam-tuerkisches-bad-guide/)
+- [Packliste für den Tropenurlaub: Was wirklich rein muss](/blog/packliste-tropenurlaub/)

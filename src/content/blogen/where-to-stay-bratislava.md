@@ -103,7 +103,7 @@ Tell Zercy what you are planning in Bratislava: old town walks, a day trip to Vi
 
 ### How far is Bratislava from Vienna?
 
-Just 60 kilometers. By train about 45 minutes (Railjet from Bratislava Hlavná stanica). By car roughly one hour. Many travelers combine both cities. Bratislava is the significantly cheaper base. More here: [Where to stay in Vienna](/en/blog/where-to-stay-vienna).
+Just 60 kilometers. By train about 45 minutes (Railjet from Bratislava Hlavná stanica). By car roughly one hour. Many travelers combine both cities. Bratislava is the significantly cheaper base. More here: [Where to stay in Vienna](/en/blog/where-to-stay-vienna/).
 
 ### Is Bratislava safe for tourists?
 
@@ -120,6 +120,6 @@ Bratislava is clearly cheaper. Hotels cost 30-50 percent less than comparable pr
 ---
 
 **Read more:**
-- [Where to stay in Vienna: 5 districts](/en/blog/where-to-stay-vienna)
-- [Where to stay in Budapest: 5 neighborhoods](/en/blog/where-to-stay-budapest)
-- [Where to stay in Prague: 4 neighborhoods](/en/blog/where-to-stay-prague)
+- [Where to stay in Vienna: 5 districts](/en/blog/where-to-stay-vienna/)
+- [Where to stay in Budapest: 5 neighborhoods](/en/blog/where-to-stay-budapest/)
+- [Where to stay in Prague: 4 neighborhoods](/en/blog/where-to-stay-prague/)

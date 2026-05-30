@@ -55,7 +55,7 @@ Civil Lines es el barrio residencial de clase media-alta de Agra. Viven locales,
 
 **Precios:** Guesthouses 35-80 USD, opciones boutique 90-170 USD.
 
-Si estás planificando el Triángulo de Oro, consulta también nuestra [guía de dónde alojarse en Delhi](/es/blog/donde-alojarse-delhi) con recomendaciones por barrio.
+Si estás planificando el Triángulo de Oro, consulta también nuestra [guía de dónde alojarse en Delhi](/es/blog/donde-alojarse-delhi/) con recomendaciones por barrio.
 
 ## Sadar Bazaar: Economía y ambiente local
 
@@ -115,6 +115,6 @@ Booking.com ofrece la selección más amplia con filtro de distancia al Taj. Gue
 ---
 
 **Más información:**
-- [Dónde alojarse en Delhi: los mejores barrios](/es/blog/donde-alojarse-delhi)
-- [Dónde alojarse en Jaipur: las mejores zonas](/es/blog/donde-alojarse-jaipur)
-- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights)
+- [Dónde alojarse en Delhi: los mejores barrios](/es/blog/donde-alojarse-delhi/)
+- [Dónde alojarse en Jaipur: las mejores zonas](/es/blog/donde-alojarse-jaipur/)
+- [India: guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights/)

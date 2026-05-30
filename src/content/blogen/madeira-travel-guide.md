@@ -85,6 +85,6 @@ PR1 Caldeirão Verde (levada walk through jungle), PR6 Encumeada (mountain trave
 
 ## Read more
 
-- [Portugal Road Trip Route: Highlights from North to South](/en/blog/portugal-road-trip-route)
-- [Canary Islands Comparison: Which Island Is Right for You?](/en/blog/canary-islands-comparison)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Portugal Road Trip Route: Highlights from North to South](/en/blog/portugal-road-trip-route/)
+- [Canary Islands Comparison: Which Island Is Right for You?](/en/blog/canary-islands-comparison/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

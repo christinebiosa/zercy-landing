@@ -23,7 +23,7 @@ Three mandatory documents and one recommendation.
 
 **Microchip.** Mandatory in the entire EU. Inserted at the vet, once in the dog's life. About $35.
 
-**Recommendation: travel health insurance for your dog.** Treatments abroad are often expensive. A dog surgery in Italy can cost $2,200. Insurance costs $100-330 per year. See our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026).
+**Recommendation: travel health insurance for your dog.** Treatments abroad are often expensive. A dog surgery in Italy can cost $2,200. Insurance costs $100-330 per year. See our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 ## Which transport is most dog-friendly?
 
@@ -31,7 +31,7 @@ Three options with clear pros and cons.
 
 **Car.** The simplest choice. Dog in crate or with seat belt, regular breaks every 2 hours. Pro: maximum flexibility, your own pace, no stress. Con: long distances are tiring for dog and owner.
 
-**Train.** Very dog-friendly in many European countries. Germany: dog costs 50 percent of an adult ticket. Switzerland and Austria: similar. Italy: muzzle plus leash required. See our [train travel in Europe guide](/en/blog/train-travel-europe).
+**Train.** Very dog-friendly in many European countries. Germany: dog costs 50 percent of an adult ticket. Switzerland and Austria: similar. Italy: muzzle plus leash required. See our [train travel in Europe guide](/en/blog/train-travel-europe/).
 
 **Plane.** Most complicated option. Small dogs (under 18 lbs) can travel in the cabin in a carrier. Larger dogs must go in cargo (climate-controlled, pressurized, but stressful). Costs $50-300 depending on airline. Only sensible for longer routes.
 
@@ -59,7 +59,7 @@ Three strategies for stress-free booking.
 
 **Booking.com with pet filter.** When searching, use "pets allowed" as filter. Shows only actually dog-friendly hotels with clear conditions (max 1 dog, size, fee per night). Recommendation: call the hotel directly before booking for details.
 
-**Airbnb with "pet-friendly".** Larger selection than hotels, especially vacation homes. Clarify in chat beforehand whether the garden is fenced and what rules apply. See our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison).
+**Airbnb with "pet-friendly".** Larger selection than hotels, especially vacation homes. Clarify in chat beforehand whether the garden is fenced and what rules apply. See our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison/).
 
 **Specialist platforms.** BringFido (international) and Pet-friendly.io list exclusively dog-friendly accommodations with detailed pet profiles. Smaller selection but reliable.
 
@@ -92,6 +92,6 @@ Fees: $11-33 per night at hotels, 50 percent of adult fare on trains, $50-300 pe
 ---
 
 **Read more:**
-- [Travel insurance 2026: what's worth it, what's junk?](/en/blog/travel-insurance-worth-it-2026)
-- [Train travel in Europe: routes, tips and apps](/en/blog/train-travel-europe)
-- [Airbnb vs hotel: which one is actually worth it?](/en/blog/airbnb-vs-hotel-comparison)
+- [Travel insurance 2026: what's worth it, what's junk?](/en/blog/travel-insurance-worth-it-2026/)
+- [Train travel in Europe: routes, tips and apps](/en/blog/train-travel-europe/)
+- [Airbnb vs hotel: which one is actually worth it?](/en/blog/airbnb-vs-hotel-comparison/)

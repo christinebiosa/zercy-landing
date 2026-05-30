@@ -55,7 +55,7 @@ Colombia es barata comparada con Europa o Norteamérica, pero más cara que hace
 
 **Bogotá:** La capital sorprende. El barrio de La Candelaria con el Museo del Oro y el Botero, el mercado de Usaquén los domingos, la gastronomía en el barrio de Chapinero. La ciudad está a 2.600 metros: los primeros días se nota el soroche si vienes del nivel del mar.
 
-**Medellín:** La transformación urbanística de Medellín es uno de los casos de estudio más citados del mundo. El Metrocable sobre las comunas, el Parque Arví, los cafés de El Poblado. Para los amantes de la arquitectura: las bibliotecas y parques urbanos del alcalde Fajardo siguen siendo referencia. Si planeas alojarte allí, nuestra guía de [dónde alojarse en Medellín](/es/blog/donde-alojarse-medellin) desglosa los barrios más cómodos para turistas.
+**Medellín:** La transformación urbanística de Medellín es uno de los casos de estudio más citados del mundo. El Metrocable sobre las comunas, el Parque Arví, los cafés de El Poblado. Para los amantes de la arquitectura: las bibliotecas y parques urbanos del alcalde Fajardo siguen siendo referencia. Si planeas alojarte allí, nuestra guía de [dónde alojarse en Medellín](/es/blog/donde-alojarse-medellin/) desglosa los barrios más cómodos para turistas.
 
 **Eje Cafetero:** Salento, el Valle del Cocora y los campos de café alrededor de Armenia y Manizales. Es la Colombia que no imaginas antes de venir. El paisaje cafetero tiene declaración UNESCO. Alquilar una jeep Willys para subir al Valle del Cocora es casi obligatorio.
 
@@ -67,7 +67,7 @@ Los buses intermunicipales son seguros y cómodos en las rutas principales (Mede
 
 Uber funciona en Bogotá y Medellín aunque con restricciones legales periódicas. InDriver e indigo son alternativas locales. Los taxis en Cartagena tienen tarifas fijas por zonas.
 
-Si planeas combinar Colombia con otros destinos latinoamericanos, visita nuestra guía de [dónde alojarse en Bogotá](/es/blog/donde-alojarse-bogota) para saber dónde instalarte en la capital.
+Si planeas combinar Colombia con otros destinos latinoamericanos, visita nuestra guía de [dónde alojarse en Bogotá](/es/blog/donde-alojarse-bogota/) para saber dónde instalarte en la capital.
 
 Zercy puede ayudarte a armar el itinerario completo por Colombia con opciones de vuelo y alojamiento en cada ciudad. Guarda el plan en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo a mano cuando reserves.
 
@@ -94,6 +94,6 @@ Dos semanas es el mínimo razonable para ver Cartagena, Bogotá, Medellín y el 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Cartagena](/es/blog/donde-alojarse-cartagena)
-- [Dónde alojarse en Medellín](/es/blog/donde-alojarse-medellin)
-- [Dónde alojarse en Bogotá](/es/blog/donde-alojarse-bogota)
+- [Dónde alojarse en Cartagena](/es/blog/donde-alojarse-cartagena/)
+- [Dónde alojarse en Medellín](/es/blog/donde-alojarse-medellin/)
+- [Dónde alojarse en Bogotá](/es/blog/donde-alojarse-bogota/)

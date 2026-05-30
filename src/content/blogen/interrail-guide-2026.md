@@ -26,7 +26,7 @@ This is the central question, and the answer depends entirely on your route.
 
 The pass wins when you have a multi-country itinerary with several long-distance segments. High-speed routes like Paris to Barcelona or Vienna to Zurich can cost 150 to 300 euros each when booked close to the travel date. A flexible Global Pass covering 15 travel days within a month runs around 350 to 450 euros for adults. With heavy use across multiple countries, the math works clearly in the pass's favor.
 
-The pass loses when you have a fixed, well-planned route and book early. A early-bird fare from Munich to Amsterdam can be as low as 29 euros. That beats any pass calculation. Anyone with a set itinerary who plans two or three months ahead is almost always better served by point-to-point tickets. Check our [train travel Europe guide](/en/blog/train-travel-europe) for a broader comparison of booking strategies.
+The pass loses when you have a fixed, well-planned route and book early. A early-bird fare from Munich to Amsterdam can be as low as 29 euros. That beats any pass calculation. Anyone with a set itinerary who plans two or three months ahead is almost always better served by point-to-point tickets. Check our [train travel Europe guide](/en/blog/train-travel-europe/) for a broader comparison of booking strategies.
 
 One important detail: even with a pass, mandatory seat reservations apply on most high-speed trains. TGV in France, AVE in Spain, Frecciarossa in Italy, and Eurostar all require reservations costing between 4 and 15 euros per leg. On a 10-leg itinerary that adds up. Factor it into your calculation.
 
@@ -40,7 +40,7 @@ Two weeks: Southern and eastern mix. Vienna, Ljubljana, Zagreb, Split, Sarajevo,
 
 Three weeks: Grand Tour. London (Eurostar priced separately), Paris, Barcelona, Madrid, Lisbon, back via Bordeaux, Lyon, Milan, Venice, Vienna, Prague, Berlin, Hamburg. Ambitious to plan but very doable for experienced rail travelers.
 
-Night trains deserve special mention. The Nightjet operated by Austrian Federal Railways (OBB) now runs Vienna to Paris, Vienna to Amsterdam, and several other routes. With an Interrail pass you only pay the reservation and berth supplement. It is one of the best values in European rail travel. Our full overview of [night trains in Europe 2026](/en/blog/night-trains-europe-2026) covers current routes and booking tips.
+Night trains deserve special mention. The Nightjet operated by Austrian Federal Railways (OBB) now runs Vienna to Paris, Vienna to Amsterdam, and several other routes. With an Interrail pass you only pay the reservation and berth supplement. It is one of the best values in European rail travel. Our full overview of [night trains in Europe 2026](/en/blog/night-trains-europe-2026/) covers current routes and booking tips.
 
 ## How do you buy and use an Interrail pass in practice?
 
@@ -50,7 +50,7 @@ The app works offline, which matters in tunnels and mountain regions across the 
 
 Age-based pricing applies. EU residents under 28 get youth prices, typically around 25 percent lower than adult fares. Travelers over 60 receive a senior discount. Compare the rates for your age group before buying.
 
-If you are combining rail with flights, our [train vs plane Europe 2026](/en/blog/train-vs-plane-europe-2026) article helps you decide which is better for each specific leg of your trip.
+If you are combining rail with flights, our [train vs plane Europe 2026](/en/blog/train-vs-plane-europe-2026/) article helps you decide which is better for each specific leg of your trip.
 
 Set your route, note your must-have connections, and track reservation deadlines. Save your picks in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything ready when booking.
 
@@ -77,6 +77,6 @@ Interrail is for residents of EU and EEA countries plus UK, Switzerland, Turkey,
 ---
 
 **Read more:**
-- [Night Trains Europe 2026: All Routes and Booking Tips](/en/blog/night-trains-europe-2026)
-- [Train vs Plane in Europe 2026: When Rail Wins](/en/blog/train-vs-plane-europe-2026)
-- [Train Travel in Europe: The Complete Guide](/en/blog/train-travel-europe)
+- [Night Trains Europe 2026: All Routes and Booking Tips](/en/blog/night-trains-europe-2026/)
+- [Train vs Plane in Europe 2026: When Rail Wins](/en/blog/train-vs-plane-europe-2026/)
+- [Train Travel in Europe: The Complete Guide](/en/blog/train-travel-europe/)

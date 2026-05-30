@@ -42,7 +42,7 @@ May and June hit the sweet spot: warm temperatures, blooming parks, active outdo
 
 Winter Warsaw is underrated. The Christmas market on Castle Square is one of the city's nicest seasonal events. January and February are quiet and cheap. The most moving time to visit is August 1st, when sirens mark the anniversary of the Warsaw Uprising. The city stops for 60 seconds. It stays with you.
 
-If you're combining Poland with neighboring countries, check out our guides to [Where to Stay in Prague](/en/blog/where-to-stay-prague) and [Where to Stay in Krakow](/en/blog/where-to-stay-krakow) for easy cross-trip planning.
+If you're combining Poland with neighboring countries, check out our guides to [Where to Stay in Prague](/en/blog/where-to-stay-prague/) and [Where to Stay in Krakow](/en/blog/where-to-stay-krakow/) for easy cross-trip planning.
 
 ## Śródmieście: Centre with the Best Transport Links
 
@@ -105,6 +105,6 @@ A solid four-star hotel in the centre runs 90 to 150 euros per night. Boutique h
 ---
 
 **Read more:**
-- [Where to Stay in Prague: Old Town, Vinohrady or Žižkov?](/en/blog/where-to-stay-prague)
-- [Where to Stay in Vienna: Best Neighborhoods](/en/blog/where-to-stay-vienna)
-- [Where to Stay in Berlin: Mitte, Prenzlauer Berg or Kreuzberg?](/en/blog/where-to-stay-berlin)
+- [Where to Stay in Prague: Old Town, Vinohrady or Žižkov?](/en/blog/where-to-stay-prague/)
+- [Where to Stay in Vienna: Best Neighborhoods](/en/blog/where-to-stay-vienna/)
+- [Where to Stay in Berlin: Mitte, Prenzlauer Berg or Kreuzberg?](/en/blog/where-to-stay-berlin/)

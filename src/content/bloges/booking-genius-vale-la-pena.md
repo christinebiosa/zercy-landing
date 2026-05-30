@@ -92,6 +92,6 @@ Genius no es una moneda de puntos, sino descuentos porcentuales directos y mejor
 ---
 
 **Más para leer:**
-- [¿Apartamento en Booking o Airbnb? Cuál elegir en 2026](/es/blog/apartamento-vs-hotel-cual-elegir)
-- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini)
-- [Dónde alojarse en Florencia: Centro histórico u Oltrarno](/es/blog/donde-alojarse-florencia)
+- [¿Apartamento en Booking o Airbnb? Cuál elegir en 2026](/es/blog/apartamento-vs-hotel-cual-elegir/)
+- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini/)
+- [Dónde alojarse en Florencia: Centro histórico u Oltrarno](/es/blog/donde-alojarse-florencia/)

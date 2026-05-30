@@ -40,7 +40,7 @@ Varies significantly by airline and route. But the standard on intercontinental 
 
 **Food**: Multiple courses, real cutlery, menus often developed by Michelin-starred chefs on premium routes. No comparison to economy.
 
-**Lounge access**: Before the flight and at connecting airports. Showers, quiet seating, buffet, bar. More in our article [7 Airport Tricks That Save Time](/en/blog/airport-hacks).
+**Lounge access**: Before the flight and at connecting airports. Showers, quiet seating, buffet, bar. More in our article [7 Airport Tricks That Save Time](/en/blog/airport-hacks/).
 
 **Priority boarding**: You board first. No jostling, no overhead bin problem.
 
@@ -49,7 +49,7 @@ Varies significantly by airline and route. But the standard on intercontinental 
 ## How to Get Business Class Cheaper
 
 **Miles and points**
-Miles & More, Flying Blue, British Airways Avios, Turkish Miles&Smiles — frequent flyers who actually use their miles can book long-haul business class well below list price. See [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips) for how to book smarter overall.
+Miles & More, Flying Blue, British Airways Avios, Turkish Miles&Smiles — frequent flyers who actually use their miles can book long-haul business class well below list price. See [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips/) for how to book smarter overall.
 
 Especially interesting: transferring credit card points (American Express Membership Rewards, for example) to airline mileage programs. There are often transfer bonus events.
 
@@ -104,4 +104,4 @@ Rarely, but it happens. Error fares, miles redemptions, and extreme sale events 
 
 Generally: yes. A business class flight to New York (worth roughly €3,000–5,000) costs about 110,000–130,000 Miles & More miles. Earning miles through credit card spending at 1 point/euro — that gives a miles value of roughly 2–5 cents, depending on redemption.
 
-**Read more:** [When to Book Flights — The Optimal Timing](/en/blog/when-to-book-flights) · [7 Airport Tricks That Save Time](/en/blog/airport-hacks) · [L.A. Baby: Los Angeles Is Always Worth It](/en/blog/los-angeles)
+**Read more:** [When to Book Flights — The Optimal Timing](/en/blog/when-to-book-flights/) · [7 Airport Tricks That Save Time](/en/blog/airport-hacks/) · [L.A. Baby: Los Angeles Is Always Worth It](/en/blog/los-angeles/)

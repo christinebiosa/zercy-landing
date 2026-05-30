@@ -94,6 +94,6 @@ Arlanda Express (direct train): 22 minutes to Stockholm City, 299 SEK (around 27
 ---
 
 **Read more:**
-- [Where to Stay in Copenhagen: Nørrebro or Frederiksberg?](/en/blog/where-to-stay-copenhagen)
-- [Where to Stay in Amsterdam: Canal Ring or Jordaan?](/en/blog/where-to-stay-amsterdam)
-- [Night Trains in Europe 2026: The Best Routes](/en/blog/night-trains-europe-2026)
+- [Where to Stay in Copenhagen: Nørrebro or Frederiksberg?](/en/blog/where-to-stay-copenhagen/)
+- [Where to Stay in Amsterdam: Canal Ring or Jordaan?](/en/blog/where-to-stay-amsterdam/)
+- [Night Trains in Europe 2026: The Best Routes](/en/blog/night-trains-europe-2026/)

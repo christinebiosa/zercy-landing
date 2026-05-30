@@ -20,7 +20,7 @@ La reserva es privada entre tú y el anfitrión. Workaway no inspecciona a los a
 
 Tareas habituales: clases de idiomas para niños o adultos, recepción y limpieza en hostels, trabajo en fincas ecológicas, protección de tortugas marinas en costas, proyectos de construcción y renovación, ayuda con redes sociales para negocios locales.
 
-Si estás planificando tu [guía de viaje a Costa Rica](/es/blog/guia-viaje-costa-rica), en Workaway encontrarás anfitriones desde la costa caribeña hasta el interior del bosque tropical que combinan viaje y trabajo real.
+Si estás planificando tu [guía de viaje a Costa Rica](/es/blog/guia-viaje-costa-rica/), en Workaway encontrarás anfitriones desde la costa caribeña hasta el interior del bosque tropical que combinan viaje y trabajo real.
 
 ## ¿Qué diferencia el voluntariado real del turismo solidario vacío?
 
@@ -46,13 +46,13 @@ Además de Workaway y WWOOF hay otras opciones con distintas fortalezas:
 
 **Volunteers World** y plataformas similares de ONG ofrecen programas más estructurados, a menudo con tarifas de participación de cientos o miles de dólares. Investiga bien qué organizaciones realmente reinvierten los ingresos.
 
-Para viajes de bajo presupuesto por Asia, Workaway se combina bien con una estrategia de [viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico).
+Para viajes de bajo presupuesto por Asia, Workaway se combina bien con una estrategia de [viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico/).
 
 ## ¿Cuánto cuesta realmente el volunturismo?
 
 Los costos base son bajos. Membresía en Workaway o WWOOF: 20 a 50 dólares. El vuelo al destino: tu gasto más importante. Con el anfitrión: sin costo. Alojamiento y comida están incluidos.
 
-Suena demasiado bien. El problema es que igual tienes que llegar. Los vuelos a Costa Rica, Tailandia, Perú o Nepal cuestan dinero real. Y un seguro de viaje es imprescindible sin importar lo económico que sea el programa. Qué cubre de verdad un [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena) no siempre es obvio.
+Suena demasiado bien. El problema es que igual tienes que llegar. Los vuelos a Costa Rica, Tailandia, Perú o Nepal cuestan dinero real. Y un seguro de viaje es imprescindible sin importar lo económico que sea el programa. Qué cubre de verdad un [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) no siempre es obvio.
 
 Costos adicionales a considerar: transporte entre anfitriones, tarifas de visado (Nepal, Vietnam y Perú tienen reglas distintas), comida en los días libres cuando comes fuera de casa del anfitrión.
 
@@ -72,7 +72,7 @@ El volunturismo no funciona igual en todos lados. El contexto importa mucho.
 
 **Nepal** desarrolló numerosos proyectos de reconstrucción tras el terremoto de 2015, coordinados por ONG legítimas. Menos territorio típico de Workaway, más programas estructurados.
 
-Los nómadas digitales combinan cada vez más estancias en Workaway con trabajo remoto. Qué países tienen visas específicas para esto: [visa nómada digital países 2026](/es/blog/visa-nomada-digital-paises-2026).
+Los nómadas digitales combinan cada vez más estancias en Workaway con trabajo remoto. Qué países tienen visas específicas para esto: [visa nómada digital países 2026](/es/blog/visa-nomada-digital-paises-2026/).
 
 ## ¿Qué ayuda de verdad y qué hace daño?
 
@@ -113,6 +113,6 @@ Fíjate en la antigüedad del perfil y el número de reseñas. Los anfitriones c
 ---
 
 **Más información:**
-- [Guía completa de viaje a Costa Rica: ruta y consejos](/es/blog/guia-viaje-costa-rica)
-- [Viaje económico por el sudeste asiático: cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico)
-- [Seguro de viaje 2026: ¿cuándo vale la pena de verdad?](/es/blog/seguro-viaje-vale-la-pena)
+- [Guía completa de viaje a Costa Rica: ruta y consejos](/es/blog/guia-viaje-costa-rica/)
+- [Viaje económico por el sudeste asiático: cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico/)
+- [Seguro de viaje 2026: ¿cuándo vale la pena de verdad?](/es/blog/seguro-viaje-vale-la-pena/)

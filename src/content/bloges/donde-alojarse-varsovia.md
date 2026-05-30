@@ -42,7 +42,7 @@ Mayo y junio son ideales: temperatura agradable, parques en flor, vida callejera
 
 El invierno varsoviano está muy subestimado. El mercado navideño en la Plaza del Castillo es uno de los mejores de la región. Enero y febrero son tranquilos y económicos. El 1 de agosto, las sirenas recuerdan el aniversario del Levantamiento de Varsovia. La ciudad se detiene 60 segundos. Es un momento que no se olvida.
 
-Si combinas Polonia con otros destinos, revisa también nuestra guía de [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires) o [Dónde alojarse en Medellin](/es/blog/donde-alojarse-medellin) para viajes multidestino.
+Si combinas Polonia con otros destinos, revisa también nuestra guía de [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) o [Dónde alojarse en Medellin](/es/blog/donde-alojarse-medellin/) para viajes multidestino.
 
 ## Śródmieście: Centro con las mejores conexiones
 
@@ -105,6 +105,6 @@ Un hotel de cuatro estrellas en el centro cuesta entre 90 y 150 euros por noche.
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Buenos Aires: Palermo, Recoleta o San Telmo](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Medellin: El Poblado y más allá](/es/blog/donde-alojarse-medellin)
-- [Dónde alojarse en Cartagena: Barrios y precios](/es/blog/donde-alojarse-cartagena)
+- [Dónde alojarse en Buenos Aires: Palermo, Recoleta o San Telmo](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Medellin: El Poblado y más allá](/es/blog/donde-alojarse-medellin/)
+- [Dónde alojarse en Cartagena: Barrios y precios](/es/blog/donde-alojarse-cartagena/)

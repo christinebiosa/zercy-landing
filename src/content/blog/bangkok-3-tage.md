@@ -33,7 +33,7 @@ Mittags: Floating Markets. Die bekanntesten sind Damnoen Saduak (90 Minuten von 
 
 Abends: Chinatown (Yaowarat Road). Das ist Bangkoks kulinarisches Abendprogramm Nummer eins. Die Straße erwacht nach Einbruch der Dunkelheit. Hummer-Grillstände, Dim-Sum-Küchen, Eiscremes mit Rosenwasser, frische Meeresfrüchte auf Grill-Karren. Budget für ein gutes Abendessen: 200 bis 400 Baht.
 
-Das [Thailand-Routenguide](/blog/thailand-route-2-wochen) gibt Orientierung, falls du Bangkok als Teil einer längeren Südostasienreise planst.
+Das [Thailand-Routenguide](/blog/thailand-route-2-wochen/) gibt Orientierung, falls du Bangkok als Teil einer längeren Südostasienreise planst.
 
 ## Was kostet Bangkok wirklich?
 
@@ -47,7 +47,7 @@ Tempel-Eintritte: Summieren sich. Plane für drei Tempel-intensive Tage etwa 1.0
 
 Die [Tourism Authority of Thailand](https://www.tourismthailand.org) veröffentlicht aktuelle Eintrittpreise und saisonale Öffnungszeiten für alle wichtigen Sehenswürdigkeiten.
 
-Für Unterkunft: Der [Bangkok Unterkunfts-Guide](/blog/wo-uebernachten-bangkok) erklärt die Unterschiede zwischen Sukhumvit, Silom und Rattanakosin, den drei Hauptquartieren für Touristen.
+Für Unterkunft: Der [Bangkok Unterkunfts-Guide](/blog/wo-uebernachten-bangkok/) erklärt die Unterschiede zwischen Sukhumvit, Silom und Rattanakosin, den drei Hauptquartieren für Touristen.
 
 ## Tag 3: Skybar, Jim Thompson House und Khao San Road
 
@@ -87,6 +87,6 @@ Sukhumvit ist zentral, international, viele Restaurants. Silom ist ruhiger, näh
 
 Mehr lesen:
 
-- [Wo übernachten in Bangkok: Viertel im Vergleich](/blog/wo-uebernachten-bangkok)
-- [Thailand Route: 2 Wochen im Land](/blog/thailand-route-2-wochen)
-- [Stopover-Tourismus: Zwischenstopp sinnvoll nutzen](/blog/stopover-tourismus-guide)
+- [Wo übernachten in Bangkok: Viertel im Vergleich](/blog/wo-uebernachten-bangkok/)
+- [Thailand Route: 2 Wochen im Land](/blog/thailand-route-2-wochen/)
+- [Stopover-Tourismus: Zwischenstopp sinnvoll nutzen](/blog/stopover-tourismus-guide/)

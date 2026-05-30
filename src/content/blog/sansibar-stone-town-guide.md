@@ -35,7 +35,7 @@ Die ehrliche Top-Liste, mit Zeit-Empfehlungen:
 
 **5. Spice Tour (halber Tag, optional).** Sansibar = Gewürzinsel. Tour zu lokalen Gewürzplantagen mit Verkostung von Vanille, Nelken, Kardamom direkt aus dem Boden. Touristisch aber lehrreich. 25-40 USD.
 
-Lies dazu auch unseren [Cape-Town-Guide](/blog/wo-uebernachten-cape-town) für die afrikanische Süd-Variante.
+Lies dazu auch unseren [Cape-Town-Guide](/blog/wo-uebernachten-cape-town/) für die afrikanische Süd-Variante.
 
 ## Wann ist die beste Reisezeit für Sansibar?
 
@@ -123,6 +123,6 @@ Backpacker: 1.000-1.400 EUR pro Person inkl. Flug (Hostel in Stone Town, lokales
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Cape Town: Die 5 Stadtteile](/blog/wo-uebernachten-cape-town)
-- [Wo übernachten in Marrakesch: Die 4 Stadtteile](/blog/wo-uebernachten-marrakesch)
-- [Solo-Reisen für Frauen: Sichere Länder](/blog/solo-reisen-frauen-sicher)
+- [Wo übernachten in Cape Town: Die 5 Stadtteile](/blog/wo-uebernachten-cape-town/)
+- [Wo übernachten in Marrakesch: Die 4 Stadtteile](/blog/wo-uebernachten-marrakesch/)
+- [Solo-Reisen für Frauen: Sichere Länder](/blog/solo-reisen-frauen-sicher/)

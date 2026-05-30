@@ -43,7 +43,7 @@ Auf der Kowloon-Seite, direkt gegenüber Hong Kong Island. Die berühmte Skyline
 
 **Top-Picks:** The Peninsula Hong Kong (legendäres 5-Sterne seit 1928, Rolls-Royce-Flotte), Regent Hong Kong (Premium am Wasser mit Skyline-Pool), Hyatt Centric Victoria Harbour Hong Kong (modernes Premium).
 
-Lies dazu auch unseren [Singapur-Guide](/blog/wo-uebernachten-singapur), Hongkong und Singapur sind oft beide auf Asien-Routen.
+Lies dazu auch unseren [Singapur-Guide](/blog/wo-uebernachten-singapur/), Hongkong und Singapur sind oft beide auf Asien-Routen.
 
 ## Wann ist die beste Reisezeit für Hongkong?
 
@@ -115,6 +115,6 @@ Backpacker: 1.000-1.500 Euro pro Person inkl. Flug (Hostel in Mong Kok, Streetfo
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Singapur: Die 5 Stadtteile](/blog/wo-uebernachten-singapur)
-- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio)
-- [Stopover-Tourismus: Wie du Layovers in Mini-Reisen verwandelst](/blog/stopover-tourismus-guide)
+- [Wo übernachten in Singapur: Die 5 Stadtteile](/blog/wo-uebernachten-singapur/)
+- [Wo übernachten in Tokio: Die 5 Stadtteile](/blog/wo-uebernachten-tokio/)
+- [Stopover-Tourismus: Wie du Layovers in Mini-Reisen verwandelst](/blog/stopover-tourismus-guide/)

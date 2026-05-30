@@ -102,7 +102,7 @@ El pueblo en sí es relajado y alternativo, con poco turismo masivo. Buenos rest
 
 Reservar directamente en el resort solo vale la pena en los grandes hoteles de lujo (Bahía del Duque, Royal Hideaway) si quieres un upgrade o extras especiales. En todos los demás casos, Booking.com es la opción más fiable y normalmente más económica.
 
-Lee también nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires) y [guía de Miami](/es/blog/donde-alojarse-miami) para comparar opciones en otros destinos populares.
+Lee también nuestra [guía de Buenos Aires](/es/blog/donde-alojarse-buenos-aires/) y [guía de Miami](/es/blog/donde-alojarse-miami/) para comparar opciones en otros destinos populares.
 
 ---
 
@@ -129,6 +129,6 @@ Costa Adeje y el norte de Playa de las Américas son ideales para familias: reso
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Miami: Las mejores zonas](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima)
+- [Dónde alojarse en Buenos Aires: 5 barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Miami: Las mejores zonas](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Lima: 4 distritos](/es/blog/donde-alojarse-lima/)

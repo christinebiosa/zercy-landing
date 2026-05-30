@@ -50,7 +50,7 @@ Die Plattform hat Konkurrenz bekommen, und zwar gute.
 
 **Warmshowers** richtet sich ausschließlich an Radreisende. Wer mit dem Fahrrad unterwegs ist, findet hier eine der dichtesten und freundlichsten Reise-Communities überhaupt.
 
-Für längere Aufenthalte lohnt sich auch ein Blick auf [Wohnungstausch als Reisemodell](/blog/wohnungstausch-urlaub-guide) oder [House Sitting als Alternative](/blog/house-sitting-gratis-urlaub). Beides bietet mehr Platz und Privatsphäre, funktioniert aber nach anderen Logiken.
+Für längere Aufenthalte lohnt sich auch ein Blick auf [Wohnungstausch als Reisemodell](/blog/wohnungstausch-urlaub-guide/) oder [House Sitting als Alternative](/blog/house-sitting-gratis-urlaub/). Beides bietet mehr Platz und Privatsphäre, funktioniert aber nach anderen Logiken.
 
 ## Couchsurfing-Etikette: Was du als Gast beachten solltest
 
@@ -66,11 +66,11 @@ Schreib eine Referenz. Immer. Auch wenn du schnell weiterziehst.
 
 ## In welchen Ländern funktioniert Couchsurfing am besten?
 
-Westeuropa und Nordamerika haben nach wie vor die größten Communities. Berlin, Amsterdam, Paris, New York, Montreal. Wer [günstig nach Europa fliegen](/blog/guenstig-fliegen-tipps) will und dann flexibel reist, hat gute Chancen auf einen Couchsurfing-Aufenthalt.
+Westeuropa und Nordamerika haben nach wie vor die größten Communities. Berlin, Amsterdam, Paris, New York, Montreal. Wer [günstig nach Europa fliegen](/blog/guenstig-fliegen-tipps/) will und dann flexibel reist, hat gute Chancen auf einen Couchsurfing-Aufenthalt.
 
 In Lateinamerika und Südostasien wächst die Community wieder, besonders in Hauptstädten und bei Backpacker-Routen. Kleinere Städte und ländliche Regionen sind dagegen dünn besetzt.
 
-In manchen Ländern ist Couchsurfing schlicht die falsche Wahl. Überall dort, wo es kaum Internetpenetration gibt, wo die Plattform kulturell fremd ist oder wo 15 Dollar für eine Mitgliedschaft eine echte Hürde darstellen. Hier sind lokale Netzwerke, Hostels oder Community-Organisationen oft sinnvoller. Gerade für [Reisen als Student mit kleinem Budget](/blog/reisen-als-student-budget) lohnt sich ein Mix aus Plattformen.
+In manchen Ländern ist Couchsurfing schlicht die falsche Wahl. Überall dort, wo es kaum Internetpenetration gibt, wo die Plattform kulturell fremd ist oder wo 15 Dollar für eine Mitgliedschaft eine echte Hürde darstellen. Hier sind lokale Netzwerke, Hostels oder Community-Organisationen oft sinnvoller. Gerade für [Reisen als Student mit kleinem Budget](/blog/reisen-als-student-budget/) lohnt sich ein Mix aus Plattformen.
 
 ## Wann ist Couchsurfing die falsche Wahl?
 
@@ -78,7 +78,7 @@ Wenn du Privatsphäre brauchst. Wenn du spät nachts anreist und früh morgens w
 
 Couchsurfing funktioniert nicht auf Knopfdruck. Es braucht Zeit, Energie und echtes Interesse am Austausch. Wer das nicht mitbringt, tut niemandem einen Gefallen, am wenigsten sich selbst.
 
-Eine gute Reiseversicherung bleibt übrigens unabhängig davon Pflicht. Mehr dazu in unserem Artikel zur [Reiseversicherung im Vergleich](/blog/reiseversicherung-was-lohnt-sich).
+Eine gute Reiseversicherung bleibt übrigens unabhängig davon Pflicht. Mehr dazu in unserem Artikel zur [Reiseversicherung im Vergleich](/blog/reiseversicherung-was-lohnt-sich/).
 
 ---
 
@@ -106,6 +106,6 @@ Die Plattform war lange Zeit kostenlos und finanzierte sich durch Investoren. 20
 
 ## Mehr lesen
 
-- [House Sitting: So reist du kostenlos in fremde Häuser](/blog/house-sitting-gratis-urlaub)
-- [Wohnungstausch als Urlaubsstrategie: Wie es funktioniert](/blog/wohnungstausch-urlaub-guide)
-- [Reisen als Student: Budget-Tipps für günstige Trips](/blog/reisen-als-student-budget)
+- [House Sitting: So reist du kostenlos in fremde Häuser](/blog/house-sitting-gratis-urlaub/)
+- [Wohnungstausch als Urlaubsstrategie: Wie es funktioniert](/blog/wohnungstausch-urlaub-guide/)
+- [Reisen als Student: Budget-Tipps für günstige Trips](/blog/reisen-als-student-budget/)

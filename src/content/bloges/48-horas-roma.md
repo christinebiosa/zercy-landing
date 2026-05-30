@@ -40,7 +40,7 @@ El Panteón (siglo II, perfectamente conservado) ahora tiene entrada de pago (5 
 **20:00 — Cena en el centro histórico o Trastevere:**
 La carbonara y la amatriciana son los platos de Roma. Restaurantes con estas recetas bien hechas en el centro: Da Enzo al 29 (Trastevere), Roscioli (centro), Osteria dell'Ingegno (Piazza di Pietra).
 
-Si tienes más tiempo, [dónde alojarse en Roma](/es/blog/donde-alojarse-roma) te ayuda a elegir el barrio perfecto.
+Si tienes más tiempo, [dónde alojarse en Roma](/es/blog/donde-alojarse-roma/) te ayuda a elegir el barrio perfecto.
 
 Zercy puede ayudarte a organizar vuelo y alojamiento en Roma. Guarda tu itinerario en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -67,6 +67,6 @@ Primavera (abril-junio) y otoño (septiembre-noviembre) son ideales: temperatura
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Roma: Trastevere, el Centro o el Vaticano](/es/blog/donde-alojarse-roma)
-- [Madrid en 24 horas: lo imprescindible](/es/blog/madrid-24-horas)
-- [Oporto: la hermana subestimada de Lisboa](/es/blog/oporto-hermana-subestimada)
+- [Dónde alojarse en Roma: Trastevere, el Centro o el Vaticano](/es/blog/donde-alojarse-roma/)
+- [Madrid en 24 horas: lo imprescindible](/es/blog/madrid-24-horas/)
+- [Oporto: la hermana subestimada de Lisboa](/es/blog/oporto-hermana-subestimada/)

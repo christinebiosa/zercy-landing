@@ -21,7 +21,7 @@ Then there is La Barceloneta, the city beach. Visiting a Gaudí masterpiece and 
 
 Catalan cuisine is distinct and excellent. Pa amb tomàquet (bread rubbed with tomato and olive oil) is everyday food, not a tourist gimmick. Add fresh seafood, cava, and tapas bars that have been serving the same neighbourhood for decades.
 
-One caveat: Barcelona has gotten significantly more expensive since 2020. In 2024, anti-tourism protests broke out as affordable housing became scarcer for locals. Book early or look at neighbourhoods outside the Eixample. Our full [where to stay guide for Barcelona](/en/blog/where-to-stay-barcelona) has the neighbourhood breakdown.
+One caveat: Barcelona has gotten significantly more expensive since 2020. In 2024, anti-tourism protests broke out as affordable housing became scarcer for locals. Book early or look at neighbourhoods outside the Eixample. Our full [where to stay guide for Barcelona](/en/blog/where-to-stay-barcelona/) has the neighbourhood breakdown.
 
 ## What Makes Madrid the Better Choice for Some Travellers?
 
@@ -31,7 +31,7 @@ The museum triangle in the city centre is world-class: the Prado with Velázquez
 
 Then there is the tapas culture. Madrid lives a distinct food culture: patatas bravas, bocadillo de calamares, gambas al ajillo. Restaurants are on average 10 to 20 percent cheaper than in Barcelona. A dinner that costs 40 euros in Barcelona regularly runs 30 euros in Madrid, for the same quality.
 
-Madrid is also more central. Toledo is 30 minutes away by regional train, Segovia 45 minutes by high-speed rail. Spain in compact form, without the cost of another overnight stay. Our [Madrid in 24 Hours guide](/en/blog/madrid-24-hours) shows you how much fits into a single day.
+Madrid is also more central. Toledo is 30 minutes away by regional train, Segovia 45 minutes by high-speed rail. Spain in compact form, without the cost of another overnight stay. Our [Madrid in 24 Hours guide](/en/blog/madrid-24-hours/) shows you how much fits into a single day.
 
 For football fans, the choice is easy: Real Madrid and Atlético both play here. A matchday visit to the Bernabéu or the Metropolitano is memorable even if you are not a regular fan.
 
@@ -49,7 +49,7 @@ The classic Spain combination: 3 nights Barcelona, high-speed train (2.5 hours, 
 
 Start in Barcelona if you are flying in: most long-haul connections arrive in Barcelona. Start in Madrid if you want to build in day trips, since Toledo and Segovia are easiest from there.
 
-If you only have one city: Barcelona for the standout experience, the beach, the architecture, the cosmopolitan energy. Madrid for museums, tapas, football, and a lower daily spend. Both cities have enough for at least three to four full days. Check our [48 hours in Barcelona guide](/en/blog/48-hours-barcelona) and our [where to stay in Madrid guide](/en/blog/where-to-stay-madrid) for the details.
+If you only have one city: Barcelona for the standout experience, the beach, the architecture, the cosmopolitan energy. Madrid for museums, tapas, football, and a lower daily spend. Both cities have enough for at least three to four full days. Check our [48 hours in Barcelona guide](/en/blog/48-hours-barcelona/) and our [where to stay in Madrid guide](/en/blog/where-to-stay-madrid/) for the details.
 
 The official tourism sites for both cities are worth a look before you go: [barcelonaturisme.com](https://www.barcelonaturisme.com) for Barcelona and [esmadrid.com](https://www.esmadrid.com) for Madrid both have updated event calendars and neighbourhood maps.
 
@@ -74,6 +74,6 @@ In 2024, thousands of Barcelona residents demonstrated against the effects of ma
 ---
 
 **Read more:**
-- [Where to Stay in Barcelona: Best Neighbourhoods](/en/blog/where-to-stay-barcelona)
-- [Madrid in 24 Hours: The Perfect Short Trip](/en/blog/madrid-24-hours)
-- [48 Hours in Barcelona: The Perfect Weekend Plan](/en/blog/48-hours-barcelona)
+- [Where to Stay in Barcelona: Best Neighbourhoods](/en/blog/where-to-stay-barcelona/)
+- [Madrid in 24 Hours: The Perfect Short Trip](/en/blog/madrid-24-hours/)
+- [48 Hours in Barcelona: The Perfect Weekend Plan](/en/blog/48-hours-barcelona/)

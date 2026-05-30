@@ -49,7 +49,7 @@ Juli und August sind voll und teuer. Hotels verdreifachen ihre Preise, Strände 
 
 Oktober und April funktionieren auch, vor allem für Städtetrips. Schwimmen ist nicht mehr immer möglich, aber Burrata schmeckt das ganze Jahr.
 
-Falls du dich für andere unterschätzte italienische Reiseziele interessierst, lies auch unseren [Modena-Ferrari-Museum-Guide](/blog/modena-ferrari-museum).
+Falls du dich für andere unterschätzte italienische Reiseziele interessierst, lies auch unseren [Modena-Ferrari-Museum-Guide](/blog/modena-ferrari-museum/).
 
 ## Wie kommst du am besten hin?
 
@@ -59,9 +59,9 @@ Drei Routen funktionieren gut.
 
 **Flug nach Neapel plus Mietwagen.** Neapel ist gut angeschlossen, dann etwa 4 Stunden Fahrt nach Bari. Lohnt sich, wenn du Neapel und die Amalfiküste auch sehen willst.
 
-**Direktverbindung mit dem Zug.** Aus München oder Wien Nachtzug nach Mailand, dann ICE bis Bari. Etwa 16 Stunden insgesamt, aber spannende Alternative für CO2-bewusste Reisende. Lies dazu unseren [Nachtzug-Guide](/blog/nachtzuege-europa-2026).
+**Direktverbindung mit dem Zug.** Aus München oder Wien Nachtzug nach Mailand, dann ICE bis Bari. Etwa 16 Stunden insgesamt, aber spannende Alternative für CO2-bewusste Reisende. Lies dazu unseren [Nachtzug-Guide](/blog/nachtzuege-europa-2026/).
 
-Mietwagen ist Pflicht, die öffentlichen Verkehrsmittel sind außerhalb der großen Städte schwach. Lies dazu unsere [Mietwagen-Checkliste](/blog/mietwagen-check) vor der Buchung. Etwa 30 bis 60 Euro pro Tag in Apulien.
+Mietwagen ist Pflicht, die öffentlichen Verkehrsmittel sind außerhalb der großen Städte schwach. Lies dazu unsere [Mietwagen-Checkliste](/blog/mietwagen-check/) vor der Buchung. Etwa 30 bis 60 Euro pro Tag in Apulien.
 
 ---
 
@@ -88,6 +88,6 @@ Direkt am Trabocco (Holz-Stege im Meer mit Restaurant) für Fisch, in Familien-T
 ---
 
 **Mehr lesen:**
-- [Modena Ferrari Museum: Italiens Tagestrip mit Tradition](/blog/modena-ferrari-museum)
-- [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026)
-- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check)
+- [Modena Ferrari Museum: Italiens Tagestrip mit Tradition](/blog/modena-ferrari-museum/)
+- [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026/)
+- [Mietwagen-Check: Was du vor der Buchung wissen musst](/blog/mietwagen-check/)

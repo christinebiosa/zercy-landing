@@ -34,7 +34,7 @@ La Bahía de Ha Long pertenece a una categoría de lugares donde la palabra "lug
 
 Vietnam es el país correcto para los viajeros en moto. La Ruta Ho Chi Minh a través de las tierras altas centrales, la carretera costera entre Da Nang y Hoi An, el Paso Hai Van con sus vistas al mar. Si quieres sentir que atraviesas un país en lugar de simplemente visitarlo, una moto por Vietnam lo consigue. La plataforma oficial de [Vietnam Tourism](https://vietnam.travel/) tiene buenos desglosamentos regionales para planificar tu ruta.
 
-El costo es una ventaja clara de Vietnam. Los viajeros con presupuesto ajustado se mueven por 30 a 50 EUR al día incluyendo alojamiento, comida y transporte. Tailandia ronda los 40 a 70 EUR diarios según la región y el estilo de viaje. En tres semanas esa diferencia es significativa. Un tazón de pho en Hanói por 1,50 EUR no es la excepción. Nuestro artículo sobre [viajes económicos por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico) tiene el desglose completo con cifras reales.
+El costo es una ventaja clara de Vietnam. Los viajeros con presupuesto ajustado se mueven por 30 a 50 EUR al día incluyendo alojamiento, comida y transporte. Tailandia ronda los 40 a 70 EUR diarios según la región y el estilo de viaje. En tres semanas esa diferencia es significativa. Un tazón de pho en Hanói por 1,50 EUR no es la excepción. Nuestro artículo sobre [viajes económicos por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/) tiene el desglose completo con cifras reales.
 
 ## ¿Qué temporada corresponde a cada país?
 
@@ -42,15 +42,15 @@ Tailandia tiene una estación seca clara: de noviembre a marzo es ideal para el 
 
 Vietnam es más complejo por la extensión del país. El norte tiene su mejor época de noviembre a abril, con temperaturas suaves en invierno. Hoi An y la costa central siguen un patrón similar. El sur y Ciudad Ho Chi Minh son cálidos durante todo el año, con temporada de lluvias de mayo a octubre. El Delta del Mekong recibe las lluvias más intensas de junio a noviembre. En resumen: en Vietnam siempre hay alguna región con buen clima.
 
-Si planeas combinar ambos países, un vuelo open jaw es la opción más eficiente. Entras por Hanói o Ciudad Ho Chi Minh, viajas por tierra o con vuelos domésticos cortos, y sales desde Bangkok o Phuket. Sin tener que deshacer el camino hasta un hub de conexión. Nuestro artículo sobre [open jaw tickets y cuánto ahorran](/es/blog/open-jaw-tickets-truco-viaje) explica cómo funciona paso a paso.
+Si planeas combinar ambos países, un vuelo open jaw es la opción más eficiente. Entras por Hanói o Ciudad Ho Chi Minh, viajas por tierra o con vuelos domésticos cortos, y sales desde Bangkok o Phuket. Sin tener que deshacer el camino hasta un hub de conexión. Nuestro artículo sobre [open jaw tickets y cuánto ahorran](/es/blog/open-jaw-tickets-truco-viaje/) explica cómo funciona paso a paso.
 
 ## ¿Cómo encuentras los vuelos más baratos al Sudeste Asiático?
 
 Ambos países tienen buenas conexiones desde América Latina y España, pero la variación de precios entre distintas fechas de reserva es real. El rango típico para un vuelo de ida y vuelta a Bangkok o Ciudad Ho Chi Minh oscila entre 600 y 1.100 EUR dependiendo de la temporada y con cuánta antelación reserves.
 
-La vista de fechas flexibles en [Google Flights](https://flights.google.com/) vale la pena revisarla antes de comprometerte con días concretos. El calendario de precios muestra de un vistazo qué días del mes son más baratos. Una diferencia de 40 a 80 EUR por billete en un vuelo de largo recorrido es lo habitual. Nuestra [guía de trucos para Google Flights](/es/blog/trucos-google-flights-2026) cubre todas las herramientas que realmente mueven el precio.
+La vista de fechas flexibles en [Google Flights](https://flights.google.com/) vale la pena revisarla antes de comprometerte con días concretos. El calendario de precios muestra de un vistazo qué días del mes son más baratos. Una diferencia de 40 a 80 EUR por billete en un vuelo de largo recorrido es lo habitual. Nuestra [guía de trucos para Google Flights](/es/blog/trucos-google-flights-2026/) cubre todas las herramientas que realmente mueven el precio.
 
-El [truco de fechas flexibles para vuelos](/es/blog/fechas-flexibles-vuelos-ahorro) muestra cómo pequeños ajustes en tus fechas de viaje permiten encontrar tarifas significativamente mejores sin cambiar en nada tus planes reales.
+El [truco de fechas flexibles para vuelos](/es/blog/fechas-flexibles-vuelos-ahorro/) muestra cómo pequeños ajustes en tus fechas de viaje permiten encontrar tarifas significativamente mejores sin cambiar en nada tus planes reales.
 
 ---
 
@@ -78,6 +78,6 @@ Volando open jaw: entras por un país y sales por el otro. Una ruta clásica es 
 
 ## Más artículos
 
-- [Viaje económico por el Sudeste Asiático: lo que cuesta de verdad](/es/blog/sudeste-asiatico-viaje-economico)
-- [Open jaw tickets: el truco para viajes multi-destino](/es/blog/open-jaw-tickets-truco-viaje)
-- [Fechas flexibles: cómo reservar vuelos más baratos](/es/blog/fechas-flexibles-vuelos-ahorro)
+- [Viaje económico por el Sudeste Asiático: lo que cuesta de verdad](/es/blog/sudeste-asiatico-viaje-economico/)
+- [Open jaw tickets: el truco para viajes multi-destino](/es/blog/open-jaw-tickets-truco-viaje/)
+- [Fechas flexibles: cómo reservar vuelos más baratos](/es/blog/fechas-flexibles-vuelos-ahorro/)

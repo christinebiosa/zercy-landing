@@ -77,6 +77,6 @@ Fuerteventura tiene la costa más larga de todas las islas Canarias y las playas
 
 ## Más sobre las Islas Canarias
 
-- [Dónde alojarse en Lanzarote](/es/blog/donde-alojarse-lanzarote)
-- [Dónde alojarse en Tenerife](/es/blog/donde-alojarse-tenerife)
-- [Dónde alojarse en Palma de Mallorca](/es/blog/donde-alojarse-palma-de-mallorca)
+- [Dónde alojarse en Lanzarote](/es/blog/donde-alojarse-lanzarote/)
+- [Dónde alojarse en Tenerife](/es/blog/donde-alojarse-tenerife/)
+- [Dónde alojarse en Palma de Mallorca](/es/blog/donde-alojarse-palma-de-mallorca/)

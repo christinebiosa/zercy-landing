@@ -31,7 +31,7 @@ Klare Regel: zur Hauptschlafzeit deines Babys. Wenn dein Baby normalerweise von 
 
 **Was auch nicht funktioniert:** Mittags-Flug bei Mittagsschlaf. Klingt logisch, aber Mittagsschlaf-Babys schlafen oft nicht in fremder Umgebung ein.
 
-Lies dazu auch unseren [Jetlag-Guide](/blog/jetlag-schnell-ueberwinden), wenn du Langstrecke planst.
+Lies dazu auch unseren [Jetlag-Guide](/blog/jetlag-schnell-ueberwinden/), wenn du Langstrecke planst.
 
 ## Was musst du beim Flug mit Baby alles dabei haben?
 
@@ -89,7 +89,7 @@ Wenig Eltern wissen, dass sie viele kostenlose Vorteile haben:
 
 **Spielzeug an Bord:** Lufthansa, KLM, Singapore Airlines verteilen kleine Spielzeug-Pakete an Familien. Frage die Crew explizit.
 
-Lies dazu auch unseren [Airport-Hacks-Guide](/blog/airport-hacks) für allgemeine Flughafen-Tipps.
+Lies dazu auch unseren [Airport-Hacks-Guide](/blog/airport-hacks/) für allgemeine Flughafen-Tipps.
 
 ## Welche Flugziele sind am besten für die Erstreise mit Baby?
 
@@ -131,6 +131,6 @@ Saugen während Start (Steigflug) und Landung. Stillen, Flasche, Schnuller - all
 ---
 
 **Mehr lesen:**
-- [Airport-Hacks: 7 Tricks die wirklich helfen](/blog/airport-hacks)
-- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon)
-- [Mit dem Hund nach Europa reisen](/blog/mit-hund-europa-reisen)
+- [Airport-Hacks: 7 Tricks die wirklich helfen](/blog/airport-hacks/)
+- [Wo übernachten in Lissabon: Die 5 Stadtteile](/blog/wo-uebernachten-lissabon/)
+- [Mit dem Hund nach Europa reisen](/blog/mit-hund-europa-reisen/)

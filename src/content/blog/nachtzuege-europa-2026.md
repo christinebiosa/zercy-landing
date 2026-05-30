@@ -38,7 +38,7 @@ Skandinavien per Nachtzug. Von Hamburg über Kopenhagen und Malmö bis Stockholm
 
 **Paris nach Nizza (Intercités de Nuit, ca. 10 Stunden)**
 
-Der französische Nachtzug von der Hauptstadt an die Côte d'Azur. Paris Gare d'Austerlitz abends, Nizza am Morgen. Preise ab etwa 19 Euro im Sitzwagen. Die Züge sind älter als die Nightjets, aber die Strecke ist praktisch und günstig. Perfekt als Start für einen Trip entlang der [schönsten Geheimtipps Europas](/blog/geheimtipps-europa).
+Der französische Nachtzug von der Hauptstadt an die Côte d'Azur. Paris Gare d'Austerlitz abends, Nizza am Morgen. Preise ab etwa 19 Euro im Sitzwagen. Die Züge sind älter als die Nightjets, aber die Strecke ist praktisch und günstig. Perfekt als Start für einen Trip entlang der [schönsten Geheimtipps Europas](/blog/geheimtipps-europa/).
 
 **Brüssel nach Wien (European Sleeper)**
 
@@ -58,7 +58,7 @@ Ein Nachtzug ersetzt zwei Dinge gleichzeitig: Transport und Unterkunft. Du spars
 
 Dazu kommt der Umweltfaktor. Ein Nachtzug Wien nach Paris verursacht etwa 95% weniger CO2 als der Flug auf derselben Strecke. Das ist kein Marketing, das sind die [Zahlen von Seat61](https://www.seat61.com), der besten Quelle für europäische Zugreisen.
 
-Wer beim Reisen sowieso aufs Budget achtet und [günstig fliegen](/blog/guenstig-fliegen-tipps) mit Nachtzügen kombiniert, bekommt mehr Europa für weniger Geld.
+Wer beim Reisen sowieso aufs Budget achtet und [günstig fliegen](/blog/guenstig-fliegen-tipps/) mit Nachtzügen kombiniert, bekommt mehr Europa für weniger Geld.
 
 ## So buchst du Nachtzüge in Europa
 
@@ -92,4 +92,4 @@ Die wichtigste Neuerung ist Zürich nach Barcelona über Lyon (ÖBB Nightjet). D
 
 Die neuen ÖBB-Nightjet-Garnituren (Siemens Viaggio Next Level) sind ein deutlicher Sprung. Schlafwagen-Abteile haben eigene Dusche und WC, USB-Ladestationen, Klimaanlage und Frühstück inklusive. Liegewagen sind solide, aber einfach. Sitzwagen sind für eine Nacht machbar, für erholsamen Schlaf aber nicht ideal.
 
-**Mehr lesen:** [Wo übernachten in Berlin: Top-Hub für Nachtzüge](/blog/wo-uebernachten-berlin) · [Zugreisen in Europa: 5 Strecken](/blog/zugreisen-europa) · [Geheimtipps in Europa](/blog/geheimtipps-europa)
+**Mehr lesen:** [Wo übernachten in Berlin: Top-Hub für Nachtzüge](/blog/wo-uebernachten-berlin/) · [Zugreisen in Europa: 5 Strecken](/blog/zugreisen-europa/) · [Geheimtipps in Europa](/blog/geheimtipps-europa/)

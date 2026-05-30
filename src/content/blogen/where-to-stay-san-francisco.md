@@ -69,7 +69,7 @@ South-central, San Francisco's Latino hub and most hipster neighborhood. Best bu
 
 **Top picks:** Hotel Inn at Mission (classic mid-range), apartments via Booking in restored Mission houses, small B&Bs.
 
-See our [Los Angeles guide](/en/blog/los-angeles) for the southern California variant.
+See our [Los Angeles guide](/en/blog/los-angeles/) for the southern California variant.
 
 ## North Beach: Italy SF
 
@@ -129,6 +129,6 @@ Backpacker: $1,400-2,000 per person incl. flight (hostel in Mission, burritos $1
 ---
 
 **Read more:**
-- [Where to stay in Los Angeles: 5 neighborhoods](/en/blog/where-to-stay-los-angeles)
-- [Where to stay in New York: 5 neighborhoods](/en/blog/where-to-stay-new-york)
-- [Hidden city ticketing: how to legally save](/en/blog/hidden-city-ticketing-explained)
+- [Where to stay in Los Angeles: 5 neighborhoods](/en/blog/where-to-stay-los-angeles/)
+- [Where to stay in New York: 5 neighborhoods](/en/blog/where-to-stay-new-york/)
+- [Hidden city ticketing: how to legally save](/en/blog/hidden-city-ticketing-explained/)

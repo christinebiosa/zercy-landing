@@ -80,6 +80,6 @@ Officially no. Practically, a licensed guide is useful for the first 3 hours to 
 ---
 
 **Read more:**
-- [Morocco Riads Guide: The Best Places to Stay](/en/blog/morocco-riads-guide)
-- [India Travel Guide: Highlights for Your Trip](/en/blog/india-travel-guide-highlights)
-- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide)
+- [Morocco Riads Guide: The Best Places to Stay](/en/blog/morocco-riads-guide/)
+- [India Travel Guide: Highlights for Your Trip](/en/blog/india-travel-guide-highlights/)
+- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide/)

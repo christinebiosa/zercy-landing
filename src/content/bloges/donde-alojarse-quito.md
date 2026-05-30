@@ -49,7 +49,7 @@ Más económico que el Centro Histórico y con más orientación internacional. 
 
 **Top picks:** Swissôtel Quito (fiable, bien ubicado en Mariscal), Hotel Sebastian (boutique, bien valorado), Nu House Hostel (hostal boutique, muy popular).
 
-Nuestra [guía de Ecuador y Galápagos](/es/blog/ecuador-galapagos-guia-viaje) es lectura obligada antes de visitar Quito.
+Nuestra [guía de Ecuador y Galápagos](/es/blog/ecuador-galapagos-guia-viaje/) es lectura obligada antes de visitar Quito.
 
 ## ¿Cuándo es la mejor época para visitar Quito?
 
@@ -105,6 +105,6 @@ El ecuador está a unos 25 km al norte de Quito, en Mitad del Mundo. El monument
 ---
 
 ## Más artículos
-- [Ecuador y Galápagos: Guía de viaje completa](/es/blog/ecuador-galapagos-guia-viaje)
-- [Dónde alojarse en Bogotá: Barrios explicados](/es/blog/donde-alojarse-bogota)
-- [Dónde alojarse en Lima: Miraflores y más](/es/blog/donde-alojarse-lima)
+- [Ecuador y Galápagos: Guía de viaje completa](/es/blog/ecuador-galapagos-guia-viaje/)
+- [Dónde alojarse en Bogotá: Barrios explicados](/es/blog/donde-alojarse-bogota/)
+- [Dónde alojarse en Lima: Miraflores y más](/es/blog/donde-alojarse-lima/)

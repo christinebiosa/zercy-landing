@@ -34,7 +34,7 @@ Bei den meisten Fernreisen für erfahrene Reisende. Und bei längeren Reisen fas
 
 **Kosten bei längeren Trips.** Eine Pauschalreise ist kompaktes Pricing für 7 oder 14 Nächte. Wer drei Wochen fährt, findet in der Individualplanung fast immer günstigere Optionen. Guesthouses, Lokaltransport, Märkte statt Restaurants.
 
-**Südostasien, Japan, Europa.** Diese Reiseziele haben hervorragende touristische Infrastruktur. Züge, Hostels, klare Wegweiser, Apps in englischer Sprache. Hier braucht niemand einen Veranstalter. Lies dazu auch unseren [Südostasien Budget-Guide](/blog/suedostasien-budget-reisen) für konkrete Zahlen.
+**Südostasien, Japan, Europa.** Diese Reiseziele haben hervorragende touristische Infrastruktur. Züge, Hostels, klare Wegweiser, Apps in englischer Sprache. Hier braucht niemand einen Veranstalter. Lies dazu auch unseren [Südostasien Budget-Guide](/blog/suedostasien-budget-reisen/) für konkrete Zahlen.
 
 ## Was ist wirklich in All-inclusive enthalten?
 
@@ -56,13 +56,13 @@ Flug und Unterkunft selbst buchen (über Booking.com, Expedia, Google Flights). 
 
 Aktivitäten und Touren über Anbieter vor Ort oder über Viator/GetYourGuide buchen. Professionelle lokale Guides für Halbtages-Touren, aber kein starres Gesamt-Programm.
 
-Transfer und Mietwagen direkt buchen. Ein [Mietwagen-Vergleich](/blog/mietwagen-consolidator-guenstiger-fahren) spart oft 30 bis 40 Prozent gegenüber Paket-Transfers.
+Transfer und Mietwagen direkt buchen. Ein [Mietwagen-Vergleich](/blog/mietwagen-consolidator-guenstiger-fahren/) spart oft 30 bis 40 Prozent gegenüber Paket-Transfers.
 
 Das gibt dir Pauschalreise-Sicherheit bei Kernlogistik und Individualreise-Freiheit beim Erleben.
 
 KI-Tools wie Zercy helfen dir bei dieser Hybrid-Planung: Flug- und Hoteloptionen vergleichen, Transfers checken, Reiserouten strukturieren. Speichere deinen Plan im [Zercy Logbook](https://www.zercy.app/logbook) und hab alles in einer Übersicht.
 
-Wer den großen Reisebuero-Vergleich sucht: in unserem Artikel [KI-Reiseplaner vs. Reisebüro](/blog/ki-reiseplaner-vs-reisebuero) haben wir die Unterschiede systematisch durchgegangen.
+Wer den großen Reisebuero-Vergleich sucht: in unserem Artikel [KI-Reiseplaner vs. Reisebüro](/blog/ki-reiseplaner-vs-reisebuero/) haben wir die Unterschiede systematisch durchgegangen.
 
 ---
 
@@ -87,6 +87,6 @@ Weil Kontrolle und Flexibilität mit Reiseerfahrung wertvoller werden. Wer ein L
 ---
 
 **Mehr lesen:**
-- [KI-Reiseplaner vs. Reisebüro: Was ist besser?](/blog/ki-reiseplaner-vs-reisebuero)
-- [Mietwagen-Consolidator: Günstiger fahren](/blog/mietwagen-consolidator-guenstiger-fahren)
-- [Frühbucher vs. Last Minute: Wann buchen?](/blog/fruehbucher-vs-last-minute)
+- [KI-Reiseplaner vs. Reisebüro: Was ist besser?](/blog/ki-reiseplaner-vs-reisebuero/)
+- [Mietwagen-Consolidator: Günstiger fahren](/blog/mietwagen-consolidator-guenstiger-fahren/)
+- [Frühbucher vs. Last Minute: Wann buchen?](/blog/fruehbucher-vs-last-minute/)

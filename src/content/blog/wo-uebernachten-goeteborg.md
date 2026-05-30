@@ -55,7 +55,7 @@ Göteborg ist ein Sommer-Ziel mit Ausnahmen. Juni bis August: langer Tag (22 Uhr
 
 **Frühling:** April-Mai, Temperaturen steigen, Fähren zur Archipel-Küste starten wieder.
 
-Göteborg ist der natürliche Ausgangspunkt eines [Skandinavien-Roadtrips](/blog/skandinavien-rundreise-route). Oslo ist 3 Stunden entfernt, Kopenhagen 3,5 Stunden.
+Göteborg ist der natürliche Ausgangspunkt eines [Skandinavien-Roadtrips](/blog/skandinavien-rundreise-route/). Oslo ist 3 Stunden entfernt, Kopenhagen 3,5 Stunden.
 
 ## Vasastan: Zentral und grün
 
@@ -112,6 +112,6 @@ Fischmarkt Feskekörka ("Fischkirche"), Liseberg-Vergnügungspark, Haga-Gassen m
 ---
 
 ## Mehr lesen
-- [Skandinavien Rundreise: Die beste Route](/blog/skandinavien-rundreise-route)
-- [Wo übernachten in Stockholm: Die besten Stadtteile](/blog/wo-uebernachten-stockholm)
-- [Beste Frühlingsziele in Europa](/blog/beste-fruehlingsziele-europa)
+- [Skandinavien Rundreise: Die beste Route](/blog/skandinavien-rundreise-route/)
+- [Wo übernachten in Stockholm: Die besten Stadtteile](/blog/wo-uebernachten-stockholm/)
+- [Beste Frühlingsziele in Europa](/blog/beste-fruehlingsziele-europa/)

@@ -52,7 +52,7 @@ Bangkok overwhelms on first impression. 10 million people, traffic at any hour, 
 
 Stay in the Sukhumvit area: good rail access, international restaurants, clean. Or in the old city if you prefer the backpacker energy.
 
-Also read our [48 Hours in Rome guide](/en/blog/48-hours-rome) for similar compact city guides in other destinations.
+Also read our [48 Hours in Rome guide](/en/blog/48-hours-rome/) for similar compact city guides in other destinations.
 
 ## Chiang Mai: Why is the north so different from Bangkok?
 
@@ -103,6 +103,6 @@ Never disrespect the king or royal family (lese-majesty laws are strictly enforc
 ---
 
 **Read more:**
-- [Japan Beyond Tokyo: Kyoto, Osaka, Hiroshima](/en/blog/japan-beyond-tokyo-guide)
-- [Solo Travel for Women: Safety and the Best Countries](/en/blog/solo-travel-women-safe-countries)
-- [Patagonia: 3-Week Route Through the End of the World](/en/blog/patagonia-3-week-route)
+- [Japan Beyond Tokyo: Kyoto, Osaka, Hiroshima](/en/blog/japan-beyond-tokyo-guide/)
+- [Solo Travel for Women: Safety and the Best Countries](/en/blog/solo-travel-women-safe-countries/)
+- [Patagonia: 3-Week Route Through the End of the World](/en/blog/patagonia-3-week-route/)

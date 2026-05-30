@@ -67,7 +67,7 @@ Island neighborhood between Centro and Bocagrande, 100 years ago the residential
 
 **Top picks:** Casa Bustamante Hotel Boutique (small boutique with courtyard), apartments in restored Manga houses (via Booking.com), smaller family-run pensions.
 
-See our [workation tax rules guide](/en/blog/workation-tax-rules-2026), Colombia has had a digital nomad visa since 2023.
+See our [workation tax rules guide](/en/blog/workation-tax-rules-2026/), Colombia has had a digital nomad visa since 2023.
 
 ## How much does a night in Cartagena really cost?
 
@@ -116,6 +116,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel in Getsemaní, local food
 ---
 
 **Read more:**
-- [Where to stay in Buenos Aires: 5 neighborhoods](/en/blog/where-to-stay-buenos-aires)
-- [Where to stay in Cancún: 4 neighborhoods](/en/blog/where-to-stay-cancun)
-- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026)
+- [Where to stay in Buenos Aires: 5 neighborhoods](/en/blog/where-to-stay-buenos-aires/)
+- [Where to stay in Cancún: 4 neighborhoods](/en/blog/where-to-stay-cancun/)
+- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026/)

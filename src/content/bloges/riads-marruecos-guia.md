@@ -71,6 +71,6 @@ Con 3 días ves lo esencial: la plaza Djemaa el-Fna, el Jardín Majorelle y Muse
 ---
 
 **Más para leer:**
-- [Zanzíbar y Stone Town: la guía completa](/es/blog/zanzibar-stone-town-guia)
-- [Dónde alojarse en Marrakech: la medina, Gueliz o Hivernage](/es/blog/donde-alojarse-marrakesch)
-- [Apulia: la guía del sur de Italia que se come a Toscana](/es/blog/apulia-sur-italia-guia)
+- [Zanzíbar y Stone Town: la guía completa](/es/blog/zanzibar-stone-town-guia/)
+- [Dónde alojarse en Marrakech: la medina, Gueliz o Hivernage](/es/blog/donde-alojarse-marrakesch/)
+- [Apulia: la guía del sur de Italia que se come a Toscana](/es/blog/apulia-sur-italia-guia/)

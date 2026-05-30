@@ -39,7 +39,7 @@ Wer tagsüber die Sehenswürdigkeiten abläuft, die Nationalmuseen besucht und a
 
 Top-Picks: **Hotel Kalemi 2** (historisches Flair, nahe dem Platz), **Rogner Hotel Tirana** (internationaler Standard, Pool, Business-freundlich), **Art Hotel** (kleines Boutique-Hotel, lokaler Charakter).
 
-Wenn du Albanien weiter erkunden willst, lohnt ein Blick auf den [albanischen Riviera-Guide](/blog/albanien-riviera-geheimtipp). Die Küste liegt weniger als drei Stunden entfernt.
+Wenn du Albanien weiter erkunden willst, lohnt ein Blick auf den [albanischen Riviera-Guide](/blog/albanien-riviera-geheimtipp/). Die Küste liegt weniger als drei Stunden entfernt.
 
 ## Pazari i Ri: Für Marktliebhaber und Street-Food-Fans
 
@@ -47,7 +47,7 @@ Pazari i Ri ist Tiranas Neumarkt. Frisches Gemüse, lokaler Käse, handgemachte 
 
 Top-Picks: **Veliera Boutique Hotel** (ruhig, gepflegt, Markt-Nähe), **Hotel Arvi** (Budget-freundlich, solide Bewertungen), günstige Apartments und Zimmer über Booking.
 
-Wer einen Roadtrip durch den Balkan plant, kann Tirana gut als Ausgangspunkt nutzen. Die [Balkan Roadtrip Route](/blog/balkan-roadtrip-route) zeigt die besten Etappen.
+Wer einen Roadtrip durch den Balkan plant, kann Tirana gut als Ausgangspunkt nutzen. Die [Balkan Roadtrip Route](/blog/balkan-roadtrip-route/) zeigt die besten Etappen.
 
 ## Wann ist die beste Reisezeit für Tirana?
 
@@ -65,7 +65,7 @@ Der Dajti-Nationalpark liegt direkt an der Stadtgrenze. Mit der Seilbahn "Dajti 
 
 Top-Picks: **Dajti Ekspres Hotel** (direkt an der Bergstation, Bergblick), **guesthouses im Vorgebirge** rund um die Seilbahnstation.
 
-Auch [günstig reisen in Osteuropa](/blog/guenstig-reisen-osteuropa-guide) kann mit Tirana als Startpunkt sehr gut funktionieren. Albanien hat eine der niedrigsten Preisniveaus des Kontinents.
+Auch [günstig reisen in Osteuropa](/blog/guenstig-reisen-osteuropa-guide/) kann mit Tirana als Startpunkt sehr gut funktionieren. Albanien hat eine der niedrigsten Preisniveaus des Kontinents.
 
 ## Wo solltest du am Ende buchen?
 
@@ -91,6 +91,6 @@ Der Skanderbeg-Platz mit der Et'hem-Bey-Moschee, das Nationalmuseum, die Bunkart
 
 ## Mehr lesen
 
-- [Albanische Riviera: Geheimtipp an der Küste](/blog/albanien-riviera-geheimtipp)
-- [Balkan Roadtrip Route: Die besten Etappen](/blog/balkan-roadtrip-route)
-- [Günstig reisen in Osteuropa: Der große Guide](/blog/guenstig-reisen-osteuropa-guide)
+- [Albanische Riviera: Geheimtipp an der Küste](/blog/albanien-riviera-geheimtipp/)
+- [Balkan Roadtrip Route: Die besten Etappen](/blog/balkan-roadtrip-route/)
+- [Günstig reisen in Osteuropa: Der große Guide](/blog/guenstig-reisen-osteuropa-guide/)

@@ -42,7 +42,7 @@ Fly to Sofia, then 2 hours by bus or train. Or fly direct to Plovdiv — there a
 
 Sintra is well-known by now. In July and August it's packed with queues, selfie sticks, and buses. In October, November, or March? Almost empty. Ticket prices the same, hotel prices half as much. The fairy-tale palaces and gardens are just as beautiful — arguably more so with mist rolling through the mountains.
 
-Same destination. Completely different experience. This applies to other overcrowded places too — see [How AI Is Changing Travel Planning](/en/blog/ai-changing-travel-planning) for how to find less-crowded versions of popular places.
+Same destination. Completely different experience. This applies to other overcrowded places too — see [How AI Is Changing Travel Planning](/en/blog/ai-changing-travel-planning/) for how to find less-crowded versions of popular places.
 
 ## 5. Ohrid, North Macedonia
 
@@ -74,7 +74,7 @@ Fly directly from most major European cities in under 3 hours. Ryanair and Air M
 - **Lecce, Puglia**: The Florence of the South, with a fraction of the visitors.
 - **Faroe Islands**: Not for everyone. But if grey cliffs, dramatic ocean, and almost no one around sound like your version of paradise — go.
 
-More on boutique stays in lesser-known places: [Boutique Hotels: Why Small Is Often the Better Choice](/en/blog/boutique-hotels).
+More on boutique stays in lesser-known places: [Boutique Hotels: Why Small Is Often the Better Choice](/en/blog/boutique-hotels/).
 
 ---
 
@@ -98,4 +98,4 @@ Usually, yes. Ohrid, Plovdiv, Matera, and Évora are significantly cheaper than 
 
 Shoulder season: May–June or September–October. Crowds are lower, weather is pleasant, and prices haven't peaked. For a place like Sintra that's already busy, off-season (November–March) makes a dramatic difference. For Valletta, April–June and September–November are ideal — summer is hot and slightly more crowded.
 
-**Read more:** [Boutique Hotels: Why Small Is Often the Better Choice](/en/blog/boutique-hotels) · [How AI Is Changing Travel Planning](/en/blog/ai-changing-travel-planning) · [Santiago de Compostela & The Camino](/en/blog/santiago-de-compostela)
+**Read more:** [Boutique Hotels: Why Small Is Often the Better Choice](/en/blog/boutique-hotels/) · [How AI Is Changing Travel Planning](/en/blog/ai-changing-travel-planning/) · [Santiago de Compostela & The Camino](/en/blog/santiago-de-compostela/)

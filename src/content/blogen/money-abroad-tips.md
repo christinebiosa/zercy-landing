@@ -20,7 +20,7 @@ The answer depends on your destination. Not your habits.
 
 **Japan:** This is the biggest exception. Japan runs on cash. Many restaurants, temples, trains, and even large department stores do not accept credit cards. Withdrawing cash before a Japan trip is non-negotiable. 7-Eleven ATMs in Japan reliably accept international cards.
 
-**USA:** Credit card is standard. Cash for tipping at dinner (25-30 USD per server), markets, smaller service providers. Your [travel budget planning](/en/blog/cheap-flights-tips) works best if you map this out before departure.
+**USA:** Credit card is standard. Cash for tipping at dinner (25-30 USD per server), markets, smaller service providers. Your [travel budget planning](/en/blog/cheap-flights-tips/) works best if you map this out before departure.
 
 The baseline rule: always carry 1-2 days of cash as emergency backup. Everything else: card where possible.
 
@@ -54,9 +54,9 @@ The same applies at ATMs. If it asks "Conversion done by your bank" or "Conversi
 
 **Two cards are mandatory.** Card 1 lost or blocked: card 2 is there. Store them separately. Never both cards in the same wallet. One card in checked luggage, one in carry-on.
 
-**Emergency cash:** 50-100 EUR as a reserve. In a corner of your suitcase, not your wallet. For situations where the card system completely fails or you end up in a region without ATMs. More on backup planning and [travel insurance here](/en/blog/travel-insurance-worth-it-2026).
+**Emergency cash:** 50-100 EUR as a reserve. In a corner of your suitcase, not your wallet. For situations where the card system completely fails or you end up in a region without ATMs. More on backup planning and [travel insurance here](/en/blog/travel-insurance-worth-it-2026/).
 
-If you also want to stay [secure on public Wi-Fi while traveling](/en/blog/cyber-security-travel-2026): never do mobile banking over open networks.
+If you also want to stay [secure on public Wi-Fi while traveling](/en/blog/cyber-security-travel-2026/): never do mobile banking over open networks.
 
 ## Country-Specific Quirks: What You Should Know Beforehand
 
@@ -97,6 +97,6 @@ A good rule of thumb: 1-2 days of expenses in local currency, plus a small EUR e
 ---
 
 **Read more:**
-- [Cheap Flights: Tricks That Actually Work](/en/blog/cheap-flights-tips)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Cyber Security While Traveling: Wi-Fi, Banking and Privacy](/en/blog/cyber-security-travel-2026)
+- [Cheap Flights: Tricks That Actually Work](/en/blog/cheap-flights-tips/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Cyber Security While Traveling: Wi-Fi, Banking and Privacy](/en/blog/cyber-security-travel-2026/)

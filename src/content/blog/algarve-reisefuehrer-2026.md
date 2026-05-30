@@ -53,13 +53,13 @@ Das was die meisten erwarten. Steilklippen, Felsbuchten, Touristeninfrastruktur 
 
 **Lagos** ist der Sweet Spot: schöne Altstadt, gute Infrastruktur, junges internationales Flair, beste Strände in kurzer Distanz. Das empfehlenswerteste Basiscamp für Erstbesucher.
 
-Lies dazu unseren [Portugal-Guide zu Porto](/blog/porto-die-unterschaetzte-schwester) für den nördlichen Kontrast.
+Lies dazu unseren [Portugal-Guide zu Porto](/blog/porto-die-unterschaetzte-schwester/) für den nördlichen Kontrast.
 
 ## Wie kommt man durch die Algarve?
 
 **Auto ist Pflicht.** Kein Wenn und Aber. Wer ohne Auto kommt, sieht 20% der Algarve, hauptsächlich Albufeira. Die besten Strände (Praia da Marinha, Camilo, Praia da Luz) sind nur per Auto oder teurem Taxi erreichbar. Busse fahren, aber selten und langsam.
 
-Faro-Flughafen ist der Hauptzugang. Mietwagen am Flughafen sind einfach buchbar, aber teuer ohne Vorabplanung. Ein [Mietwagen-Preisvergleich](/blog/mietwagen-consolidator-guenstiger-fahren) spart hier oft 30-50%.
+Faro-Flughafen ist der Hauptzugang. Mietwagen am Flughafen sind einfach buchbar, aber teuer ohne Vorabplanung. Ein [Mietwagen-Preisvergleich](/blog/mietwagen-consolidator-guenstiger-fahren/) spart hier oft 30-50%.
 
 Die EN125 ist die Hauptstraße, überlastet im Sommer. Die A22 (Autoestrada do Algarve) ist schneller aber mautpflichtig. Für Strandfahrten sind kleine Küstenstraßen besser.
 
@@ -118,6 +118,6 @@ Sagres und die Westküste (Praia do Amado, Arrifana, Castelejo) sind die besten 
 ---
 
 **Mehr lesen:**
-- [Porto: Portugals unterschätzte Schwester](/blog/porto-die-unterschaetzte-schwester)
-- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade)
-- [Mietwagen-Consolidator: Günstiger Fahren](/blog/mietwagen-consolidator-guenstiger-fahren)
+- [Porto: Portugals unterschätzte Schwester](/blog/porto-die-unterschaetzte-schwester/)
+- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/)
+- [Mietwagen-Consolidator: Günstiger Fahren](/blog/mietwagen-consolidator-guenstiger-fahren/)

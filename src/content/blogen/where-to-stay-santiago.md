@@ -59,7 +59,7 @@ Bellavista. Clearly. The neighborhood north of the Río Mapocho is Santiago's bo
 
 **Top picks:** Aubrey Hotel Bellavista (boutique in a historic mansion, one of Santiago's best pools), La Casa Roja (boutique hostel with terrace and community feel), Providencia Hostel (budget, good atmosphere on the Bellavista border).
 
-If you're planning to combine Santiago with the Maipo Valley wine region as a day trip, check our [rental car checklist](/en/blog/rental-car-checklist) for driving tips.
+If you're planning to combine Santiago with the Maipo Valley wine region as a day trip, check our [rental car checklist](/en/blog/rental-car-checklist/) for driving tips.
 
 ## Barrio Italia: Creative and Relaxed
 
@@ -105,6 +105,6 @@ Cerro San Cristóbal for panoramic views of the city and Andes, Barrio Italia fo
 
 ## Read more
 
-- [Where to Stay in Buenos Aires](/en/blog/where-to-stay-buenos-aires)
-- [Where to Stay in Lima](/en/blog/where-to-stay-lima)
-- [Where to Stay in Mendoza](/en/blog/where-to-stay-mendoza)
+- [Where to Stay in Buenos Aires](/en/blog/where-to-stay-buenos-aires/)
+- [Where to Stay in Lima](/en/blog/where-to-stay-lima/)
+- [Where to Stay in Mendoza](/en/blog/where-to-stay-mendoza/)

@@ -77,6 +77,6 @@ On smaller islands (El Nido, Siargao), cash is essential: few card terminals, li
 
 ## Read More
 
-- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel)
-- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials)
-- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel/)
+- [Travel Packing List: What Actually Goes In](/en/blog/travel-packing-list-essentials/)
+- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026/)

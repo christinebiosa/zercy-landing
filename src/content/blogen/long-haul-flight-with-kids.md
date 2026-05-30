@@ -20,7 +20,7 @@ The honest take: under two years old, the flight is hardest on the parents. The 
 
 School-age kids from around six or seven are generally straightforward long-haul passengers, as long as they are occupied. Teenagers just need headphones and a playlist.
 
-For tips on the very first flights with babies, see our guide on [traveling with a baby: first flights](/en/blog/traveling-with-baby-first-flights).
+For tips on the very first flights with babies, see our guide on [traveling with a baby: first flights](/en/blog/traveling-with-baby-first-flights/).
 
 ## What Is the Best Gear for Flying with Kids?
 
@@ -52,7 +52,7 @@ A useful rule of thumb: children adjust to new time zones at roughly the same ra
 
 What helps: live on local time immediately on arrival, even when it is painful. Natural light is the strongest reset signal, so get outside during daylight hours. Do not let children sleep too long during the day. Keep nap time short. Have patience. The adjustment does come.
 
-Our article on [fast jet lag recovery](/en/blog/jet-lag-fast-recovery) is written for adults, but the core principles, light exposure, timing, and avoiding long naps, apply to children too.
+Our article on [fast jet lag recovery](/en/blog/jet-lag-fast-recovery/) is written for adults, but the core principles, light exposure, timing, and avoiding long naps, apply to children too.
 
 Zercy helps you plan family flights so that departure times, connections, and accommodation all fit together. Describe your trip in plain language at [zercy.app](https://zercy.app) and get suggestions built around your timeline. The [Zercy Logbook](https://zercy.app/logbook) keeps all your family's booking details organized in one place.
 
@@ -80,6 +80,6 @@ Stay calm. Other passengers are generally more understanding than you expect. Tr
 
 More reading:
 
-- [Traveling with a Baby: First Flights](/en/blog/traveling-with-baby-first-flights)
-- [Fast Jet Lag Recovery: What Actually Works](/en/blog/jet-lag-fast-recovery)
-- [Cheap Flights: Tips That Actually Work](/en/blog/cheap-flights-tips)
+- [Traveling with a Baby: First Flights](/en/blog/traveling-with-baby-first-flights/)
+- [Fast Jet Lag Recovery: What Actually Works](/en/blog/jet-lag-fast-recovery/)
+- [Cheap Flights: Tips That Actually Work](/en/blog/cheap-flights-tips/)

@@ -20,7 +20,7 @@ Dieser Guide zeigt dir, welche Festivals wirklich eine Reise wert sind. Und was 
 
 **Tomorrowland (Belgien)** ist das Gegenteil von rustikal. Das Festival in Boom bei Antwerpen ist durchgestylt, riesig und teuer. Ticket um die 300 Euro, dazu Reise und Unterkunft. Ein Tomorrowland-Trip kostet dich realistisch 800 bis 1.500 Euro. Dafür kriegst du Electronic Music auf einem Niveau, das anderswo nicht existiert. Auch hier: Tickets früh sichern, mindestens 6 Monate im Voraus.
 
-**Coachella (USA)** in der kalifornischen Wüste ist das meistfotografierte Festival der Welt. Wer aus Europa anreist, plant Flug, Hotel in Palm Springs und Ticket ein. Tagestickets gibt es, aber das volle Erlebnis funktioniert nur über das Wochenende. Anfang April, heißes Wetter garantiert. Mehr zur Planung weiter langer Trips findest du im Artikel über [wann Flüge buchen](/blog/wann-fluege-buchen).
+**Coachella (USA)** in der kalifornischen Wüste ist das meistfotografierte Festival der Welt. Wer aus Europa anreist, plant Flug, Hotel in Palm Springs und Ticket ein. Tagestickets gibt es, aber das volle Erlebnis funktioniert nur über das Wochenende. Anfang April, heißes Wetter garantiert. Mehr zur Planung weiter langer Trips findest du im Artikel über [wann Flüge buchen](/blog/wann-fluege-buchen/).
 
 ## Welche Kultur-Festivals sind eine Reise wert?
 
@@ -28,7 +28,7 @@ Nicht jedes Festival dreht sich um Musik. Manchmal ist das Festival die Kultur s
 
 **Oktoberfest München** braucht keine lange Erklärung. Sechs Millionen Besucher in zwei Wochen. Bier, Tracht, Riesenrad, Stimmung. Das Oktoberfest ist kostenlos zu betreten, die Ausgaben kommen innen. Zelt-Tisch-Reservierungen für Abendveranstaltungen sind Monate im Voraus weg. Die [offizielle Seite](https://www.oktoberfest.de) verrät dir, wann Reservierungen öffnen. Hotels in München zur Wiesn-Zeit sind teuer. Früh buchen oder Umgebung prüfen.
 
-**Karneval in Rio de Janeiro** ist Spektakel auf einem anderen Level. Samba-Schulen, Sambódromo, tagelange Straßenpartys. Februar oder März, abhängig vom Kalender. Achtung: Rio zur Karnevalszeit ist teuer und komplex. Wer zum ersten Mal reist, sollte Fehler anderer meiden. Der Artikel [Reisefehler vermeiden](/blog/reisefehler-vermeiden-klassische-fehler) hilft dabei.
+**Karneval in Rio de Janeiro** ist Spektakel auf einem anderen Level. Samba-Schulen, Sambódromo, tagelange Straßenpartys. Februar oder März, abhängig vom Kalender. Achtung: Rio zur Karnevalszeit ist teuer und komplex. Wer zum ersten Mal reist, sollte Fehler anderer meiden. Der Artikel [Reisefehler vermeiden](/blog/reisefehler-vermeiden-klassische-fehler/) hilft dabei.
 
 **La Tomatina** im spanischen Buñol ist das kurioseste Festival dieser Liste. Eine Stunde lang Tomaten werfen. Das war es. Klingt simpel, macht aber offenbar süchtig. Jeden letzten Mittwoch im August. Tickets kosten rund 12 Euro, das Erlebnis ist unbezahlbar absurd.
 
@@ -46,7 +46,7 @@ Hier eine realistische Kalkulation für Tomorrowland aus Deutschland:
 
 Glastonbury ist noch teurer, wenn du Flug und Unterkunft dazurechnest. Coachella mit Flug aus Europa schnell mal 2.000 Euro aufwärts.
 
-Es geht günstiger. Camping vor Ort spart viel. Glastonbury und Tomorrowland bieten beide Camping-Optionen. Du bist näher am Geschehen, sparst Taxi-Kosten und wachst mitten im Festival auf. Dafür brauchst du das richtige Gepäck. Leicht, wetterfest, funktional. Tipps dazu im Artikel über [Reisen mit nur Handgepäck](/blog/nur-handgepaeck).
+Es geht günstiger. Camping vor Ort spart viel. Glastonbury und Tomorrowland bieten beide Camping-Optionen. Du bist näher am Geschehen, sparst Taxi-Kosten und wachst mitten im Festival auf. Dafür brauchst du das richtige Gepäck. Leicht, wetterfest, funktional. Tipps dazu im Artikel über [Reisen mit nur Handgepäck](/blog/nur-handgepaeck/).
 
 ## Welche Licht- und Kunst-Festivals solltest du einmal erlebt haben?
 
@@ -54,7 +54,7 @@ Es geht günstiger. Camping vor Ort spart viel. Glastonbury und Tomorrowland bie
 
 **Lantern Festival in Taiwan** ist das ruhigere Gegenstück. Pingxi ist das bekannteste Dorf für das Steigen der Laternen. Tausende Laternen gleichzeitig am Himmel, jede mit einem Wunsch. Stille statt Lärm. Ein Erlebnis, das sich anfühlt wie ein Film.
 
-Beide Festivals erfordern gute Planung. Taiwan im Februar, Indien im März. Wer beide kombinieren will: machbar, aber ambitioniert. Wer eher Kurztrips bevorzugt, findet im Artikel [Wochenendtrip Europa: beste Ziele](/blog/wochenendtrip-europa-beste-ziele) auch kleinere Festival-Optionen in der Nähe.
+Beide Festivals erfordern gute Planung. Taiwan im Februar, Indien im März. Wer beide kombinieren will: machbar, aber ambitioniert. Wer eher Kurztrips bevorzugt, findet im Artikel [Wochenendtrip Europa: beste Ziele](/blog/wochenendtrip-europa-beste-ziele/) auch kleinere Festival-Optionen in der Nähe.
 
 ## Wann kaufst du Tickets und wie planst du am besten?
 
@@ -75,10 +75,10 @@ Starte deine Planung: [www.zercy.app](https://www.zercy.app) oder speicher deine
 
 ## Mehr lesen
 
-- [Wann solltest du Flüge buchen?](/blog/wann-fluege-buchen)
-- [Reisen mit nur Handgepäck: So geht's](/blog/nur-handgepaeck)
-- [Diese Reisefehler machen fast alle](/blog/reisefehler-vermeiden-klassische-fehler)
-- [Die besten Wochenendtrips in Europa](/blog/wochenendtrip-europa-beste-ziele)
+- [Wann solltest du Flüge buchen?](/blog/wann-fluege-buchen/)
+- [Reisen mit nur Handgepäck: So geht's](/blog/nur-handgepaeck/)
+- [Diese Reisefehler machen fast alle](/blog/reisefehler-vermeiden-klassische-fehler/)
+- [Die besten Wochenendtrips in Europa](/blog/wochenendtrip-europa-beste-ziele/)
 
 ---
 

@@ -68,6 +68,6 @@ Between Sofia and Plovdiv: train or bus, 2 hours, very cheap. For the coast and 
 ---
 
 **Read more:**
-- [Balkan Road Trip Route](/en/blog/balkan-road-trip-route)
-- [Hidden Gems in Europe](/en/blog/hidden-gems-europe)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Balkan Road Trip Route](/en/blog/balkan-road-trip-route/)
+- [Hidden Gems in Europe](/en/blog/hidden-gems-europe/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

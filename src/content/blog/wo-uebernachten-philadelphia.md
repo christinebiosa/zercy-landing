@@ -49,7 +49,7 @@ Hotels in Old City sind teurer aber einzigartig gelegen. Wer historisches Philly
 
 **Top-Picks:** Morris House Hotel (1787 erbaut, Philly ältestes Boutique-Hotel), Penn's View Hotel (historisch, am Delaware River), Wyndham Philadelphia Historic District (modern in historischer Lage).
 
-Unser [Artikel zu New York](/blog/wo-uebernachten-new-york) und der [Boston-Guide](/blog/wo-uebernachten-boston) helfen bei der Ostküsten-Planung.
+Unser [Artikel zu New York](/blog/wo-uebernachten-new-york/) und der [Boston-Guide](/blog/wo-uebernachten-boston/) helfen bei der Ostküsten-Planung.
 
 ## Wann lohnt sich Philadelphia am meisten?
 
@@ -117,6 +117,6 @@ Januar und Februar sind am günstigsten. Auch November (nach Thanksgiving) und f
 ---
 
 ## Mehr lesen
-- [Wo übernachten in New York: Die 5 besten Stadtteile](/blog/wo-uebernachten-new-york)
-- [Wo übernachten in Boston: Stadtteile erklärt](/blog/wo-uebernachten-boston)
-- [Wo übernachten in Washington D.C.: Stadtteile erklärt](/blog/wo-uebernachten-washington-dc)
+- [Wo übernachten in New York: Die 5 besten Stadtteile](/blog/wo-uebernachten-new-york/)
+- [Wo übernachten in Boston: Stadtteile erklärt](/blog/wo-uebernachten-boston/)
+- [Wo übernachten in Washington D.C.: Stadtteile erklärt](/blog/wo-uebernachten-washington-dc/)

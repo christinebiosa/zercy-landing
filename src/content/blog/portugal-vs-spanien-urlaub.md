@@ -16,11 +16,11 @@ Hier bekommst du keine neutrale "beide sind toll!"-Antwort. Sondern eine klare E
 
 Portugal ist günstiger. Das ist keine Meinung, das sind Zahlen. Ein Mittagessen in Lissabon kostet im Schnitt 30 bis 40 Prozent weniger als in Madrid oder Barcelona. Unterkunft, Transport, Museen, Kaffee: überall liegt Portugal 15 bis 25 Prozent unter dem spanischen Niveau. Wer mit begrenztem Budget reist oder einfach mehr für sein Geld will, hat hier einen strukturellen Vorteil.
 
-Aber Preis ist nicht der einzige Grund. Lissabon hat ein Flair, das Barcelona heute schwer reproduzieren kann: die Straßenbahnen, die Kacheln, die Fado-Abende in Alfama, die Hügel mit Meeresblick. Die Stadt ist kleiner, überschaubarer, weniger überlaufen als Barcelona oder Madrid im Hochsommer. Tipps zum Erkunden der Altstadt abseits der Touristenpfade findest du im [Lissabon-Guide](/blog/lissabon-abseits-der-touristenpfade).
+Aber Preis ist nicht der einzige Grund. Lissabon hat ein Flair, das Barcelona heute schwer reproduzieren kann: die Straßenbahnen, die Kacheln, die Fado-Abende in Alfama, die Hügel mit Meeresblick. Die Stadt ist kleiner, überschaubarer, weniger überlaufen als Barcelona oder Madrid im Hochsommer. Tipps zum Erkunden der Altstadt abseits der Touristenpfade findest du im [Lissabon-Guide](/blog/lissabon-abseits-der-touristenpfade/).
 
-Porto ist ein weiteres Argument für Portugal. Oft unterschätzt, oft übersehen. Die Stadt an der Douro-Mündung kombiniert mittelalterliche Architektur, die Portwein-Lodges von Vila Nova de Gaia und ein junges, kreatives Stadtbild. Wer beides möchte, ist mit der [Portugal Rundreise-Route](/blog/portugal-rundreise-route) gut beraten: Lissabon, Alentejo, Porto in 10 bis 14 Tagen.
+Porto ist ein weiteres Argument für Portugal. Oft unterschätzt, oft übersehen. Die Stadt an der Douro-Mündung kombiniert mittelalterliche Architektur, die Portwein-Lodges von Vila Nova de Gaia und ein junges, kreatives Stadtbild. Wer beides möchte, ist mit der [Portugal Rundreise-Route](/blog/portugal-rundreise-route/) gut beraten: Lissabon, Alentejo, Porto in 10 bis 14 Tagen.
 
-Auch die Natur spricht für Portugal: die [Algarve-Küste](/blog/algarve-reisefuehrer-2026) mit Sandsteinfelsen und türkisem Wasser zählt zu den schönsten Stränden Europas. Madeira und die Azoren bieten etwas, das Spanien nicht hat: vulkanische Landschaften und Wanderrouten für alle, die Fernreise-Abenteuer ohne Langstrecke suchen. Offizielle Reiseinfos zu den Regionen liefert [visitportugal.com](https://www.visitportugal.com/de).
+Auch die Natur spricht für Portugal: die [Algarve-Küste](/blog/algarve-reisefuehrer-2026/) mit Sandsteinfelsen und türkisem Wasser zählt zu den schönsten Stränden Europas. Madeira und die Azoren bieten etwas, das Spanien nicht hat: vulkanische Landschaften und Wanderrouten für alle, die Fernreise-Abenteuer ohne Langstrecke suchen. Offizielle Reiseinfos zu den Regionen liefert [visitportugal.com](https://www.visitportugal.com/de).
 
 **Portugal passt zu dir wenn:** Du langsam reisen willst. Wenn Authentizität wichtiger ist als Infrastruktur. Wenn du ein knappes Budget hast. Wenn du surfen willst (Nazaré, Ericeira) oder Portwein der Flaschenform nach erkennst.
 
@@ -52,7 +52,7 @@ Zahlen helfen mehr als Eindrücke. Hier ein grober Überblick für 7 Nächte, Mi
 
 In Lissabon kommt ein gutes Doppelzimmer für 80 bis 120 Euro pro Nacht. Essen für zwei zu Mittag: 15 bis 25 Euro in einem anständigen Restaurant. In Barcelona sind es 130 bis 200 Euro für Unterkunft, 25 bis 40 Euro fürs Mittagessen. Madrid liegt ähnlich. Nur San Sebastián und Ibiza liegen teils noch darüber.
 
-Die [Algarve](/blog/algarve-reisefuehrer-2026) hat im Sommer angezogen. Günstiger als vor fünf Jahren ist sie nicht mehr. Aber Teneriffa und Mallorca im Hochsommer sind ebenfalls teuer. Wer im Mai oder Oktober reist, zahlt in beiden Ländern deutlich weniger.
+Die [Algarve](/blog/algarve-reisefuehrer-2026/) hat im Sommer angezogen. Günstiger als vor fünf Jahren ist sie nicht mehr. Aber Teneriffa und Mallorca im Hochsommer sind ebenfalls teuer. Wer im Mai oder Oktober reist, zahlt in beiden Ländern deutlich weniger.
 
 ## Welches Land ist das Fazit-Sieger?
 
@@ -69,9 +69,9 @@ Die gute Nachricht: Du musst dich nicht für immer entscheiden. Beide Länder si
 Nutz [Zercy](https://www.zercy.app) um Flugpreise und Unterkünfte für beide Länder direkt zu vergleichen. Speichere die Optionen im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Alternativen zur Hand hast.
 
 **Mehr lesen:**
-- [Algarve Reiseführer 2026](/blog/algarve-reisefuehrer-2026)
-- [Portugal Rundreise: die beste Route](/blog/portugal-rundreise-route)
-- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade)
+- [Algarve Reiseführer 2026](/blog/algarve-reisefuehrer-2026/)
+- [Portugal Rundreise: die beste Route](/blog/portugal-rundreise-route/)
+- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/)
 
 ## Häufige Fragen
 

@@ -89,6 +89,6 @@ Los moteles directamente en la ruta funcionan bien, especialmente en Santa Bárb
 
 ## Más artículos
 
-- [Ruta 66 Estados Unidos: Los Imperdibles de la Ruta Legendaria](/es/blog/ruta-66-estados-unidos-road-trip)
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Australia: La Ruta Completa para tu Road Trip](/es/blog/australia-ruta-completa)
+- [Ruta 66 Estados Unidos: Los Imperdibles de la Ruta Legendaria](/es/blog/ruta-66-estados-unidos-road-trip/)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Australia: La Ruta Completa para tu Road Trip](/es/blog/australia-ruta-completa/)

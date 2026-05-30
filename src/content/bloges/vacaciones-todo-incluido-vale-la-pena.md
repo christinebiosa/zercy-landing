@@ -116,6 +116,6 @@ Es un riesgo real. Un buffet de mala calidad puede arruinar una semana. Por eso 
 ---
 
 **Leer más:**
-- [Airbnb vs hotel: ¿Qué compensa realmente?](/es/blog/airbnb-vs-hotel-comparacion)
-- [Seguro de viaje: ¿Vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
-- [Categorías de hotel explicadas: ¿Qué significan las estrellas?](/es/blog/categorias-hotel-explicadas)
+- [Airbnb vs hotel: ¿Qué compensa realmente?](/es/blog/airbnb-vs-hotel-comparacion/)
+- [Seguro de viaje: ¿Vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Categorías de hotel explicadas: ¿Qué significan las estrellas?](/es/blog/categorias-hotel-explicadas/)

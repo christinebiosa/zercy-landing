@@ -51,7 +51,7 @@ Mattancherry liegt direkt neben Fort Kochi und ist zu Fuß erreichbar. Das Viert
 
 Jew Town ist heute touristisch, aber auf eine angenehme Weise. Kleine Läden mit Kashmiri-Teppichen, alten Bronzestatuen und Sandelholzschnitzereien. Gute Kaffeeröstereien. Viel echter als die meisten indischen Touristenviertel.
 
-Für Indien-Reisen lohnt sich auch ein Blick auf unseren [Indien Reiseguide mit den wichtigsten Highlights](/blog/indien-reiseguide-highlights), bevor du die Route planst.
+Für Indien-Reisen lohnt sich auch ein Blick auf unseren [Indien Reiseguide mit den wichtigsten Highlights](/blog/indien-reiseguide-highlights/), bevor du die Route planst.
 
 **Wer hier richtig liegt:** Geschichtsinteressierte, Fotografen, alle die Kochis jüdisch-kolonialen Schmelztiegel aus nächster Nähe sehen wollen.
 
@@ -95,7 +95,7 @@ Cherai liegt 25 Kilometer nördlich von Fort Kochi auf Vypin Island. Breite, ruh
 
 Cherai ist deutlich ruhiger als Kochis Innenstadt. Resorts und Guesthouses mit Blick aufs Wasser, lokale Fischrestaurants, Hausboot-Ausflüge direkt vom Strand aus buchbar. Wer nach Kerala kommt und Backwaters und Meer kombinieren will, übernachtet hier mindestens zwei Nächte.
 
-Wenn du Unterwasserwelten liebst, schau auch unsere [besten Tauchdestinationen weltweit](/blog/tauchen-schnorcheln-reiseziele) an. Die Lakkadiven vor Kochis Küste gehören zu den weniger bekannten Highlights.
+Wenn du Unterwasserwelten liebst, schau auch unsere [besten Tauchdestinationen weltweit](/blog/tauchen-schnorcheln-reiseziele/) an. Die Lakkadiven vor Kochis Küste gehören zu den weniger bekannten Highlights.
 
 **Wer hier richtig liegt:** Strandliebhaber, Paare, Familien und alle die Kerala von seiner entspannten Seite erleben wollen.
 
@@ -138,6 +138,6 @@ Der Cochin International Airport liegt in Nedumbassery, rund 35 Kilometer nordö
 ---
 
 **Mehr lesen:**
-- [Indien Reiseguide: Die wichtigsten Highlights](/blog/indien-reiseguide-highlights)
-- [Tauchen und Schnorcheln: Die besten Reiseziele weltweit](/blog/tauchen-schnorcheln-reiseziele)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Indien Reiseguide: Die wichtigsten Highlights](/blog/indien-reiseguide-highlights/)
+- [Tauchen und Schnorcheln: Die besten Reiseziele weltweit](/blog/tauchen-schnorcheln-reiseziele/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

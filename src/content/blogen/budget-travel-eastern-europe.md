@@ -22,11 +22,11 @@ What you don't expect: the quality. Tallinn's old town is better preserved than 
 
 ## Which cities are the cheapest?
 
-**Belgrade** tops the list. Serbia isn't an EU member, which means the dinar doesn't get pulled up by the euro. A full dinner with drinks: €6 to €10. Hostel bed: from €12. A decent hotel room: from €35. [Where to stay in Budapest](/en/blog/where-to-stay-budapest) gives you a similar orientation for the Hungarian neighbour just up the road.
+**Belgrade** tops the list. Serbia isn't an EU member, which means the dinar doesn't get pulled up by the euro. A full dinner with drinks: €6 to €10. Hostel bed: from €12. A decent hotel room: from €35. [Where to stay in Budapest](/en/blog/where-to-stay-budapest/) gives you a similar orientation for the Hungarian neighbour just up the road.
 
 **Sofia** is surprisingly affordable. Bulgaria is an EU member but kept the lev. Price levels stay below the eurozone. Coffee for €1.50, lunch menu for €4 to €5, good hotel from €40.
 
-**Riga and Tallinn** are pricier than Belgrade or Sofia but well below Amsterdam or Stockholm. The upside: these Baltic cities are visually extraordinary. Tallinn has one of the best-preserved medieval old towns in Europe. More on this in the [where to stay in Tallinn guide](/en/blog/where-to-stay-tallinn).
+**Riga and Tallinn** are pricier than Belgrade or Sofia but well below Amsterdam or Stockholm. The upside: these Baltic cities are visually extraordinary. Tallinn has one of the best-preserved medieval old towns in Europe. More on this in the [where to stay in Tallinn guide](/en/blog/where-to-stay-tallinn/).
 
 **Krakow** is a classic for a reason. Poland has kept the zloty despite EU membership, which keeps prices down. Good restaurant main: €6 to €9. Beer: €1.50 to €2.50. Hotel: from €45. Hostel: from €15.
 
@@ -38,7 +38,7 @@ What you don't expect: the quality. Tallinn's old town is better preserved than 
 
 Spring (April, May) and early autumn (September, October) give you the best combination of weather and price. High summer brings higher hotel prices and bigger crowds in tourist-heavy cities like Tallinn or Krakow. Winter is cheap, but short days and cold temperatures limit some activities.
 
-Flights into peak season can cost twice as much as shoulder periods. Travelling in mid-September instead of late July can save 30 to 40 percent on flights and hotels combined. [Cheap flights: tips and tricks for 2026](/en/blog/cheap-flights-tips) walks you through the best booking windows.
+Flights into peak season can cost twice as much as shoulder periods. Travelling in mid-September instead of late July can save 30 to 40 percent on flights and hotels combined. [Cheap flights: tips and tricks for 2026](/en/blog/cheap-flights-tips/) walks you through the best booking windows.
 
 Some travellers underestimate winter demand. Christmas markets in Krakow or Budapest pull visitors from across Europe. December is no longer off-season. Travel in January or February and you'll find the cheapest prices and surprisingly few other tourists.
 
@@ -46,7 +46,7 @@ Some travellers underestimate winter demand. Christmas markets in Krakow or Buda
 
 **FlixBus and RegioJet** connect most cities directly. Krakow to Budapest: from €12. Budapest to Belgrade: from €15. The buses are comfortable, reliable, and have Wi-Fi. For shorter routes, this is clearly the cheapest option.
 
-**Night trains** make sense for longer legs. You save a hotel night and wake up at your destination. The Krakow to Vienna or Budapest to Belgrade routes are doable. Full route details and booking tips are in the [night trains Europe 2026 guide](/en/blog/night-trains-europe-2026).
+**Night trains** make sense for longer legs. You save a hotel night and wake up at your destination. The Krakow to Vienna or Budapest to Belgrade routes are doable. Full route details and booking tips are in the [night trains Europe 2026 guide](/en/blog/night-trains-europe-2026/).
 
 **Budget airlines** like Ryanair and Wizz Air connect many Eastern European cities directly to Western Europe. Berlin to Riga or Vienna to Sofia: often under €40 if you book early. The key is flexibility on dates. Travelling three days earlier or later can cut the price by a third.
 
@@ -86,6 +86,6 @@ Book flights and hotels for spring and autumn six to ten weeks in advance. For s
 
 ## Read more
 
-- [Cheap flights: tips and tricks for 2026](/en/blog/cheap-flights-tips)
-- [Night trains in Europe 2026: routes, prices, booking](/en/blog/night-trains-europe-2026)
-- [Where to stay in Budapest](/en/blog/where-to-stay-budapest)
+- [Cheap flights: tips and tricks for 2026](/en/blog/cheap-flights-tips/)
+- [Night trains in Europe 2026: routes, prices, booking](/en/blog/night-trains-europe-2026/)
+- [Where to stay in Budapest](/en/blog/where-to-stay-budapest/)

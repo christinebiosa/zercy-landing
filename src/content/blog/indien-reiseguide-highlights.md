@@ -62,7 +62,7 @@ Das Preis-Leistungs-Verhältnis bei Luxus-Hotels ist außergewöhnlich: Fünf-St
 
 **Visum:** e-Visum online beantragen (meist 30 Tage, mehrfache Einreise möglich). Mindestens 72 Stunden vor Abreise beantragen. Kosten ca. 25–80 Euro je nach Herkunftsland.
 
-**Gesundheit:** Reiseimpfungen prüfen (Hepatitis A, Typhus, ggf. Malariaprophylaxe für Goa/Kerala). Kein Leitungswasser trinken — nur versiegelte Flaschen. [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich) mit medizinischer Evakuierung ist in Indien Pflicht.
+**Gesundheit:** Reiseimpfungen prüfen (Hepatitis A, Typhus, ggf. Malariaprophylaxe für Goa/Kerala). Kein Leitungswasser trinken — nur versiegelte Flaschen. [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) mit medizinischer Evakuierung ist in Indien Pflicht.
 
 **Tuk-Tuk vs. Taxi:** Ola und Uber funktionieren in indischen Großstädten zuverlässig und haben feste Preise — besser als Tuk-Tuks für längere Strecken. Tuk-Tuks für kurze Fahrten im Basar: immer Preis vorher aushandeln.
 
@@ -85,6 +85,6 @@ Hepatitis A und Typhus werden von den meisten Reismedizinern empfohlen. Je nach 
 Eintritt für ausländische Besucher: 1.100 INR (ca. 13 Euro). Dazu kommt ein optionaler Buggy-Service von den Parkplätzen (weitere 2 Euro). Bestes Erlebnis: bei Sonnenaufgang (erste Einlasszeit ca. 30 Minuten nach Sonnenaufgang), Freitagsmoschee ist geschlossen für Nichtmuslime.
 
 ## Mehr lesen
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Safari Ostafrika Guide — für Vergleich Fernreisen](/blog/safari-ostafrika-guide)
-- [Digital Nomad Visum Länder 2026](/blog/digital-nomad-visum-laender-2026)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Safari Ostafrika Guide — für Vergleich Fernreisen](/blog/safari-ostafrika-guide/)
+- [Digital Nomad Visum Länder 2026](/blog/digital-nomad-visum-laender-2026/)

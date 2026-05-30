@@ -79,7 +79,7 @@ Das Gnaoua World Music Festival findet jedes Jahr im Juni statt und ist eines de
 
 ### Welche Aktivitäten gibt es in Essaouira?
 
-Fischmarkt und Hafen (morgens am lebhaftesten), Skala de la Ville (Kanonen, Stadtmauer), Medina-Bummel, Windsurfen und Kitesurfen (Schulen am Strand), Tagesausflug nach Sidi Kaouki (ruhigerer Strand 25 km südlich), Arganöl-Kooperativen. Für den Überblick: der [Marokko-Städteguide](/blog/marokko-staedte-guide) zeigt die besten Kombinationen.
+Fischmarkt und Hafen (morgens am lebhaftesten), Skala de la Ville (Kanonen, Stadtmauer), Medina-Bummel, Windsurfen und Kitesurfen (Schulen am Strand), Tagesausflug nach Sidi Kaouki (ruhigerer Strand 25 km südlich), Arganöl-Kooperativen. Für den Überblick: der [Marokko-Städteguide](/blog/marokko-staedte-guide/) zeigt die besten Kombinationen.
 
 ### Welches Budget sollte man für Essaouira einplanen?
 
@@ -88,6 +88,6 @@ Essaouira ist günstiger als Marrakesch. Budget-Reisende kommen mit 40-60 EUR pr
 ---
 
 **Mehr lesen:**
-- [Marokko Städteguide: Fès, Marrakesch und die Küste](/blog/marokko-staedte-guide)
-- [Riads in Marokko: Was sie kosten und wie du das beste findest](/blog/riads-marokko-guide)
-- [Wo übernachten in Marrakesch: Die 5 besten Viertel](/blog/wo-uebernachten-marrakesch)
+- [Marokko Städteguide: Fès, Marrakesch und die Küste](/blog/marokko-staedte-guide/)
+- [Riads in Marokko: Was sie kosten und wie du das beste findest](/blog/riads-marokko-guide/)
+- [Wo übernachten in Marrakesch: Die 5 besten Viertel](/blog/wo-uebernachten-marrakesch/)

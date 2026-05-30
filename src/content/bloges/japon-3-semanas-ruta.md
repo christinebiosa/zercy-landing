@@ -55,7 +55,7 @@ Los konbini (tiendas de conveniencia: 7-Eleven, FamilyMart, Lawson) son el mejor
 
 **Fushimi Inari:** 10.000 puertas torii rojas que suben por la montaña. A las 6 de la mañana, casi nadie. A las 11, turismo masivo. Madrugar aquí merece más la pena que en ningún otro lugar.
 
-**Hiroshima:** El Museo de la Paz y la Cúpula de la Bomba Atómica están entre los lugares más conmovedores del mundo. Reserva al menos medio día. Lee más sobre [Tokio para los amantes de la gastronomía](/es/blog/tokio-viaje-gastronomico) en nuestra guía.
+**Hiroshima:** El Museo de la Paz y la Cúpula de la Bomba Atómica están entre los lugares más conmovedores del mundo. Reserva al menos medio día. Lee más sobre [Tokio para los amantes de la gastronomía](/es/blog/tokio-viaje-gastronomico/) en nuestra guía.
 
 ## Consejos prácticos
 
@@ -84,6 +84,6 @@ Ramen en todas sus variedades (Sapporo/Hokkaido: miso; Tokio: shoyu; Kyushu: ton
 Desde el Aeropuerto de Narita: el Narita Express (N'EX) a Shinjuku en unos 60 minutos, aproximadamente 30 euros. O el Limousine Bus por 25 euros. Sin taxi (caro). Desde el Aeropuerto de Haneda: el Monorail o la línea Keikyu, 30–40 minutos por 5–8 euros. Haneda es mucho más conveniente para el centro de Tokio que Narita.
 
 ## Más artículos
-- [Tokio: viaje gastronómico](/es/blog/tokio-viaje-gastronomico)
-- [Osaka vs. Kyoto: ¿cuál te conviene más?](/es/blog/osaka-vs-kyoto)
-- [Trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026)
+- [Tokio: viaje gastronómico](/es/blog/tokio-viaje-gastronomico/)
+- [Osaka vs. Kyoto: ¿cuál te conviene más?](/es/blog/osaka-vs-kyoto/)
+- [Trenes nocturnos en Europa 2026](/es/blog/trenes-nocturnos-europa-2026/)

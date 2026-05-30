@@ -49,7 +49,7 @@ Place Royale, el lugar de nacimiento de la civilización colonial francesa en Am
 
 **Top picks:** Auberge Saint-Pierre (histórico hotel boutique en el propio barrio), Le Port-Royal Hotel and Suites (estilo apartamento, ideal para estancias largas), Hôtel Acadia (fiable, buena ubicación).
 
-Consulta también nuestra [guía de viaje a Canadá](/es/blog/canada-guia-viaje-highlights) para una visión general del país.
+Consulta también nuestra [guía de viaje a Canadá](/es/blog/canada-guia-viaje-highlights/) para una visión general del país.
 
 ## ¿Cuándo es la mejor época para visitar Ciudad de Québec?
 
@@ -105,6 +105,6 @@ Noviembre (fuera de Navidad) y marzo/abril después del Carnaval son los meses m
 ---
 
 ## Más artículos
-- [Canadá: Los mejores highlights para tu viaje](/es/blog/canada-guia-viaje-highlights)
-- [Dónde alojarse en Nueva York: Los 5 mejores barrios](/es/blog/donde-alojarse-nueva-york)
-- [Dónde alojarse en Boston: Barrios explicados](/es/blog/donde-alojarse-boston)
+- [Canadá: Los mejores highlights para tu viaje](/es/blog/canada-guia-viaje-highlights/)
+- [Dónde alojarse en Nueva York: Los 5 mejores barrios](/es/blog/donde-alojarse-nueva-york/)
+- [Dónde alojarse en Boston: Barrios explicados](/es/blog/donde-alojarse-boston/)

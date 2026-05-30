@@ -43,7 +43,7 @@ On the Kowloon side, directly opposite Hong Kong Island. The famous skyline view
 
 **Top picks:** The Peninsula Hong Kong (legendary 5-star since 1928, Rolls-Royce fleet), Regent Hong Kong (premium at the water with skyline pool), Hyatt Centric Victoria Harbour Hong Kong (modern premium).
 
-See our [Singapore guide](/en/blog/where-to-stay-singapore), Hong Kong and Singapore are often both on Asia routes.
+See our [Singapore guide](/en/blog/where-to-stay-singapore/), Hong Kong and Singapore are often both on Asia routes.
 
 ## When is the best time to visit Hong Kong?
 
@@ -115,6 +115,6 @@ Backpacker: $1,100-1,700 per person incl. flight (hostel in Mong Kok, street foo
 ---
 
 **Read more:**
-- [Where to stay in Singapore: 5 neighborhoods](/en/blog/where-to-stay-singapore)
-- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo)
-- [Stopover tourism: turn layovers into mini-trips](/en/blog/stopover-tourism-guide)
+- [Where to stay in Singapore: 5 neighborhoods](/en/blog/where-to-stay-singapore/)
+- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo/)
+- [Stopover tourism: turn layovers into mini-trips](/en/blog/stopover-tourism-guide/)

@@ -81,6 +81,6 @@ Plov is the national dish: a rice pot with lamb, carrots, onions, and spices, co
 
 ## Read More
 
-- [India Travel Guide: Highlights and Essential Tips](/en/blog/india-travel-guide-highlights)
-- [Nepal Travel Guide: Highlights and Trekking](/en/blog/nepal-travel-guide-highlights)
-- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [India Travel Guide: Highlights and Essential Tips](/en/blog/india-travel-guide-highlights/)
+- [Nepal Travel Guide: Highlights and Trekking](/en/blog/nepal-travel-guide-highlights/)
+- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026/)

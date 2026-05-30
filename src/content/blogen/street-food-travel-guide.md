@@ -32,7 +32,7 @@ Some destinations are practically defined by what gets cooked on their sidewalks
 
 For more context on these food cultures, [Serious Eats' street food guides](https://www.seriouseats.com/street-food) are worth reading before you go.
 
-Planning a trip to Southeast Asia? Our [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel) has everything you need on eating well for less.
+Planning a trip to Southeast Asia? Our [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel/) has everything you need on eating well for less.
 
 ---
 
@@ -48,7 +48,7 @@ The real answer has nothing to do with apps.
 
 **Order what comes fast.** High turnover means fresh ingredients. If the cook is making 40 portions an hour, nothing is sitting around getting reheated. Slow stalls with a lot of stuff already plated are a different story.
 
-We wrote more about this approach in our guide to [eating like a local when you travel](/en/blog/food-travel-eat-like-a-local).
+We wrote more about this approach in our guide to [eating like a local when you travel](/en/blog/food-travel-eat-like-a-local/).
 
 ---
 
@@ -79,9 +79,9 @@ A good tour takes you to three to five spots you would never have found alone. Y
 
 [Eater's guide to the world's best street food cities](https://www.eater.com/maps/best-street-food-cities-world) has solid recommendations for which tour operators actually go where locals eat rather than sticking to the tourist circuit.
 
-For Morocco specifically, our [Morocco cities guide](/en/blog/morocco-cities-guide) has on-the-ground picks for Marrakech and Fes.
+For Morocco specifically, our [Morocco cities guide](/en/blog/morocco-cities-guide/) has on-the-ground picks for Marrakech and Fes.
 
-And if Mexico is on your list: the [Mexico road trip route](/en/blog/mexico-road-trip-route) maps out the best street food stops from Mexico City down to Oaxaca.
+And if Mexico is on your list: the [Mexico road trip route](/en/blog/mexico-road-trip-route/) maps out the best street food stops from Mexico City down to Oaxaca.
 
 ---
 

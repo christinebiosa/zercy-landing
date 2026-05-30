@@ -100,7 +100,7 @@ Für Berlin ist [Booking.com](https://www.booking.com) klar die beste Plattform:
 
 Direktbuchung lohnt nur bei Top-Premium (Adlon, Waldorf) für mögliche Upgrades.
 
-Lies dazu auch unseren [Nachtzug-Guide](/blog/nachtzuege-europa-2026), Berlin ist Top-Hub für ÖBB Nightjet nach Wien, Zürich, Brüssel.
+Lies dazu auch unseren [Nachtzug-Guide](/blog/nachtzuege-europa-2026/), Berlin ist Top-Hub für ÖBB Nightjet nach Wien, Zürich, Brüssel.
 
 ---
 
@@ -127,6 +127,6 @@ Backpacker: 500-800 Euro pro Person inkl. Flug (Hostel, Bratwurst-Imbiss, ÖPNV)
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Amsterdam: Die 5 Stadtteile](/blog/wo-uebernachten-amsterdam)
-- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
-- [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026)
+- [Wo übernachten in Amsterdam: Die 5 Stadtteile](/blog/wo-uebernachten-amsterdam/)
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris/)
+- [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026/)

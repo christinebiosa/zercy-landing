@@ -41,7 +41,7 @@ Zelte und einfaches Camping gibt es als günstigere Alternative zu Hütten. Wett
 
 ## Welche weiteren Highlights bietet Chile?
 
-Valparaíso, eine Hafenstadt zwei Stunden von Santiago entfernt, ist bunt, chaotisch und voller Street Art. Die Hügel (Cerros) mit Treppengassen und Aussichtsplattformen, die Aufzüge (Ascensores) die sie verbinden. Es fühlt sich nichts so an wie der Rest Chiles. Wer in Valparaíso übernachten will, findet die besten Viertel in unserem [Valparaíso Hotelguide](/blog/wo-uebernachten-valparaiso).
+Valparaíso, eine Hafenstadt zwei Stunden von Santiago entfernt, ist bunt, chaotisch und voller Street Art. Die Hügel (Cerros) mit Treppengassen und Aussichtsplattformen, die Aufzüge (Ascensores) die sie verbinden. Es fühlt sich nichts so an wie der Rest Chiles. Wer in Valparaíso übernachten will, findet die besten Viertel in unserem [Valparaíso Hotelguide](/blog/wo-uebernachten-valparaiso/).
 
 Die Carretera Austral ist eine der legendärsten Straßenrouten Südamerikas: 1.200 Kilometer durch Patagonien, kaum asphaltiert, durch Regenwälder, Fjorde und Gletscher. Reisende machen sie per Mietwagen, Motorrad oder Fahrrad in 2 bis 3 Wochen.
 
@@ -72,6 +72,6 @@ Chile gilt als eines der sichersten Länder Lateinamerikas. Niedrige Gewaltkrimi
 ---
 
 **Mehr lesen:**
-- [Patagonien 3 Wochen Route](/blog/patagonien-3-wochen-route)
-- [Argentinien Reiseguide](/blog/argentinien-reiseguide-highlights)
-- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Patagonien 3 Wochen Route](/blog/patagonien-3-wochen-route/)
+- [Argentinien Reiseguide](/blog/argentinien-reiseguide-highlights/)
+- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/)

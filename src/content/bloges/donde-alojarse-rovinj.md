@@ -61,7 +61,7 @@ Zlatni Rt es una zona natural protegida directamente al sur del casco antiguo. P
 
 **Los mejores:** Maistra Select Resort Lone (hotel de diseño en el bosque de pinos, premiado, vistas al mar), Amarin Resort by Maistra (resort familiar con acceso directo a la playa e instalaciones deportivas), Hotel Eden (resort de gama media fiable junto al parque natural).
 
-Si combinas varias ciudades de la costa croata, nuestra [guía de island hopping en Croacia](/es/blog/islas-croacia-island-hopping) cubre las mejores rutas de Rovinj a Dubrovnik.
+Si combinas varias ciudades de la costa croata, nuestra [guía de island hopping en Croacia](/es/blog/islas-croacia-island-hopping/) cubre las mejores rutas de Rovinj a Dubrovnik.
 
 ## Monte: Vistas Panorámicas sobre la Ciudad
 
@@ -73,7 +73,7 @@ Monte es el tranquilo barrio de la ladera sobre el casco antiguo. No hay grandes
 
 **Los mejores:** Pequeñas casas de huéspedes y apartamentos buscables en Booking.com con el filtro "Rovinj parte alta" o "Monte." Las pensiones familiares locales a veces ofrecen mejores tarifas en reserva directa, aunque la flexibilidad varía.
 
-La [guía de road trip por los Balcanes](/es/blog/balcanes-road-trip-ruta) muestra cómo Rovinj funciona como primera parada de un viaje más largo por la Istria y Dalmacia.
+La [guía de road trip por los Balcanes](/es/blog/balcanes-road-trip-ruta/) muestra cómo Rovinj funciona como primera parada de un viaje más largo por la Istria y Dalmacia.
 
 ## Bale/Valle: Agroturismo y la Istria Auténtica
 
@@ -121,6 +121,6 @@ Abril, mayo y octubre. Fuera de las vacaciones escolares croatas (mediados de ju
 ---
 
 **Seguir leyendo:**
-- [Islas de Croacia Island Hopping: Las mejores rutas](/es/blog/islas-croacia-island-hopping)
-- [Balcanes Road Trip: De la Istria a Kotor](/es/blog/balcanes-road-trip-ruta)
-- [Dónde alojarse en Split: Los 5 barrios](/es/blog/donde-alojarse-split)
+- [Islas de Croacia Island Hopping: Las mejores rutas](/es/blog/islas-croacia-island-hopping/)
+- [Balcanes Road Trip: De la Istria a Kotor](/es/blog/balcanes-road-trip-ruta/)
+- [Dónde alojarse en Split: Los 5 barrios](/es/blog/donde-alojarse-split/)

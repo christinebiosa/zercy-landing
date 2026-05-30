@@ -49,7 +49,7 @@ Die Shops und Restaurants auf Prospect Street sind gehoben. Hotels in La Jolla s
 
 **Top-Picks:** The Lodge at Torrey Pines (historisches Arts-and-Crafts-Hotel über den Cliffs), La Valencia Hotel (pink Landmark-Hotel, Panorama-Ausblick), Estancia La Jolla Hotel and Spa (Hacienda-Stil, Wellnessanlage).
 
-Unser [Los Angeles-Guide](/blog/wo-uebernachten-los-angeles) und [San Francisco-Artikel](/blog/wo-uebernachten-san-francisco) helfen bei der Planung entlang der Pazifikküste.
+Unser [Los Angeles-Guide](/blog/wo-uebernachten-los-angeles/) und [San Francisco-Artikel](/blog/wo-uebernachten-san-francisco/) helfen bei der Planung entlang der Pazifikküste.
 
 ## Wann ist die beste Reisezeit für San Diego?
 
@@ -117,6 +117,6 @@ Januar bis März und November/Dezember (außer Feiertagen) sind die günstigsten
 ---
 
 ## Mehr lesen
-- [Wo übernachten in Los Angeles: 5 Stadtteile erklärt](/blog/wo-uebernachten-los-angeles)
-- [Wo übernachten in San Francisco: Die besten Viertel](/blog/wo-uebernachten-san-francisco)
-- [US-Westküsten-Roadtrip: Die komplette Route](/blog/us-westkueste-roadtrip)
+- [Wo übernachten in Los Angeles: 5 Stadtteile erklärt](/blog/wo-uebernachten-los-angeles/)
+- [Wo übernachten in San Francisco: Die besten Viertel](/blog/wo-uebernachten-san-francisco/)
+- [US-Westküsten-Roadtrip: Die komplette Route](/blog/us-westkueste-roadtrip/)

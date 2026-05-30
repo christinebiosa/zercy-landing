@@ -44,7 +44,7 @@ Aggregadores como [Raileurope](https://www.raileurope.com), Trainline o Omio tam
 
 **Con cuánta antelación:** para trenes nocturnos en temporada alta (verano), reservar con 2-3 meses de antelación es lo normal. Las cabinas privadas con ducha se agotan más rápido. En temporada baja, con 2-4 semanas suele ser suficiente.
 
-Para más contexto sobre viajes en tren en Europa, lee nuestra guía de [viajar en tren por Europa](/es/blog/viajes-tren-europa). Si planificas una ruta que incluya ciudades como [Lisboa](/es/blog/donde-alojarse-lisboa) o [Roma](/es/blog/48-horas-roma), el tren nocturno puede ser la conexión perfecta.
+Para más contexto sobre viajes en tren en Europa, lee nuestra guía de [viajar en tren por Europa](/es/blog/viajes-tren-europa/). Si planificas una ruta que incluya ciudades como [Lisboa](/es/blog/donde-alojarse-lisboa/) o [Roma](/es/blog/48-horas-roma/), el tren nocturno puede ser la conexión perfecta.
 
 Zercy puede ayudarte a organizar las etapas de tu ruta europea con tren. Guarda el itinerario en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -71,6 +71,6 @@ Por varias razones simultáneas. Las emisiones de CO₂ por tren son 6-10 veces 
 ---
 
 **Más para leer:**
-- [Viajar en tren por Europa: guía completa 2026](/es/blog/viajes-tren-europa)
-- [Road trip: cómo planificar las etapas perfectas](/es/blog/roadtrip-planificacion-etapas)
-- [Lisboa fuera de la ruta turística: los barrios que visitar](/es/blog/lisboa-fuera-ruta-turistica)
+- [Viajar en tren por Europa: guía completa 2026](/es/blog/viajes-tren-europa/)
+- [Road trip: cómo planificar las etapas perfectas](/es/blog/roadtrip-planificacion-etapas/)
+- [Lisboa fuera de la ruta turística: los barrios que visitar](/es/blog/lisboa-fuera-ruta-turistica/)

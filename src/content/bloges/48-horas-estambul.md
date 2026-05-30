@@ -79,7 +79,7 @@ Los vuelos directos desde Madrid o desde ciudades de tránsito europeas cuestan 
 
 ### ¿Qué barrio de Estambul es mejor para hospedarse?
 
-Sultanahmet tiene la mayor concentración de monumentos históricos y es conveniente para visitantes con poco tiempo. Beyoğlu y Karaköy tienen más vida nocturna y restaurantes modernos. Consulta también nuestra guía de [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul) para más opciones por zona y presupuesto.
+Sultanahmet tiene la mayor concentración de monumentos históricos y es conveniente para visitantes con poco tiempo. Beyoğlu y Karaköy tienen más vida nocturna y restaurantes modernos. Consulta también nuestra guía de [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul/) para más opciones por zona y presupuesto.
 
 ### ¿Cómo se tramita el e-Visa turco para viajeros latinoamericanos?
 
@@ -92,6 +92,6 @@ La primavera (abril-mayo) y el otoño (septiembre-octubre) son las épocas ideal
 ---
 
 **Leer más:**
-- [48 horas en Barcelona: Gaudí, Gótico y La Barceloneta](/es/blog/48-horas-barcelona)
-- [Viena en un fin de semana: museos, Schönbrunn y cafés](/es/blog/viena-fin-de-semana)
-- [Joyas ocultas de Europa que pocos turistas conocen](/es/blog/joyas-ocultas-europa)
+- [48 horas en Barcelona: Gaudí, Gótico y La Barceloneta](/es/blog/48-horas-barcelona/)
+- [Viena en un fin de semana: museos, Schönbrunn y cafés](/es/blog/viena-fin-de-semana/)
+- [Joyas ocultas de Europa que pocos turistas conocen](/es/blog/joyas-ocultas-europa/)

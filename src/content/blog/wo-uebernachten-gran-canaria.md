@@ -73,7 +73,7 @@ Gran Canaria funktioniert mit [Booking.com](https://www.booking.com) sehr gut. D
 
 Tipp: Günstigste Zeit ist November bis Januar (außer Karneval im Februar: dann explodieren die Preise im ganzen Süden).
 
-Mehr zu Spanien: [Wo übernachten in Madrid](/blog/wo-uebernachten-madrid), [Wo übernachten in Barcelona](/blog/wo-uebernachten-barcelona) und [Wo übernachten auf Lanzarote](/blog/wo-uebernachten-lanzarote).
+Mehr zu Spanien: [Wo übernachten in Madrid](/blog/wo-uebernachten-madrid/), [Wo übernachten in Barcelona](/blog/wo-uebernachten-barcelona/) und [Wo übernachten auf Lanzarote](/blog/wo-uebernachten-lanzarote/).
 
 ---
 
@@ -101,6 +101,6 @@ Klein-Wagen ab 20-30 Euro pro Tag in der Nebensaison, 35-55 Euro im Winter/Hochs
 
 ## Mehr lesen
 
-- [Wo übernachten auf Lanzarote: Insel-Guide](/blog/wo-uebernachten-lanzarote)
-- [Wo übernachten auf Teneriffa: Stadtteile und Hotels](/blog/wo-uebernachten-teneriffa)
-- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026)
+- [Wo übernachten auf Lanzarote: Insel-Guide](/blog/wo-uebernachten-lanzarote/)
+- [Wo übernachten auf Teneriffa: Stadtteile und Hotels](/blog/wo-uebernachten-teneriffa/)
+- [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026/)

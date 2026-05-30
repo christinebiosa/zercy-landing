@@ -89,6 +89,6 @@ At minimum: two EpiPens in your carry-on (never in checked luggage), fast-acting
 ---
 
 **Read more:**
-- [Packing List for Long-Haul Flights: What Really Matters](/en/blog/travel-first-aid-kit-guide)
-- [Travel Insurance: What's Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
-- [Where to Stay in Tokyo: Best Neighborhoods](/en/blog/where-to-stay-tokyo)
+- [Packing List for Long-Haul Flights: What Really Matters](/en/blog/travel-first-aid-kit-guide/)
+- [Travel Insurance: What's Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)
+- [Where to Stay in Tokyo: Best Neighborhoods](/en/blog/where-to-stay-tokyo/)

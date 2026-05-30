@@ -49,7 +49,7 @@ El invierno (noviembre a febrero) es suave y muy económico. Lisboa y Oporto est
 
 **Ponta da Piedade (Lagos):** Acantilados de piedra caliza dorada sobre el Atlántico. El paisaje costero más hermoso de Portugal. Alquiler de kayak para entrar en las cuevas marinas, inolvidable.
 
-**Valle del Duero:** Patrimonio Mundial UNESCO, terrazas de viñedos hasta donde alcanza la vista. Tour de vinos en Pinhão con cata desde 25 euros. Consulta nuestra [guía del Algarve](/es/blog/algarve-guia-viaje-2026) para consejos sobre el sur.
+**Valle del Duero:** Patrimonio Mundial UNESCO, terrazas de viñedos hasta donde alcanza la vista. Tour de vinos en Pinhão con cata desde 25 euros. Consulta nuestra [guía del Algarve](/es/blog/algarve-guia-viaje-2026/) para consejos sobre el sur.
 
 **Oporto:** La ciudad de los puentes y el vino de Oporto. La Librería Lello (entradas online con antelación) y el barrio de Ribeira necesitan una tarde cada uno. Bodegas en Vila Nova de Gaia: visitas gratuitas, catas desde 5 euros.
 
@@ -80,6 +80,6 @@ Depende de tu estilo. Algarve para playa. Alentejo para tranquilidad y vino. Val
 Portugal es constantemente uno de los países más seguros de Europa. El [Índice de Paz Global](https://www.visionofhumanity.org) lo coloca entre los 10 primeros. Como en cualquier lugar: atención a los carteristas en zonas turísticas (el tranvía 28 de Lisboa). Por lo demás, muy tranquilo.
 
 ## Más artículos
-- [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica)
-- [Oporto: la hermana subestimada de Lisboa](/es/blog/oporto-hermana-subestimada)
-- [Guía del Algarve 2026](/es/blog/algarve-guia-viaje-2026)
+- [Lisboa fuera de la ruta turística](/es/blog/lisboa-fuera-ruta-turistica/)
+- [Oporto: la hermana subestimada de Lisboa](/es/blog/oporto-hermana-subestimada/)
+- [Guía del Algarve 2026](/es/blog/algarve-guia-viaje-2026/)

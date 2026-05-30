@@ -18,9 +18,9 @@ Drei essenzielle Tools für Transport.
 
 **Google Flights.** Der ehrliche Marktführer. Schnellste Suche, beste Datums-Flexibilität ("ganzer Monat" Ansicht), keine versteckten Gebühren. Kein direkter Buchungs-Mechanismus, aber leitet dich zu Airline-Webseiten weiter.
 
-**Skyscanner.** Backup-Suche. Findet manchmal Verbindungen die Google Flights übersieht (vor allem mit Low-Cost-Carriern wie Wizz Air). Lies dazu unseren Vergleich [KI-Tools für Reisen](/blog/ki-tools-reise-vergleich).
+**Skyscanner.** Backup-Suche. Findet manchmal Verbindungen die Google Flights übersieht (vor allem mit Low-Cost-Carriern wie Wizz Air). Lies dazu unseren Vergleich [KI-Tools für Reisen](/blog/ki-tools-reise-vergleich/).
 
-**Trainline.** Beste Bahn-App für Europa. Aggregiert Zug-Tickets aus 47 europäischen Bahnunternehmen. Spart Zeit gegenüber DB Navigator wenn du grenzüberschreitend reist. Lies dazu auch unseren [Zugreisen-in-Europa-Guide](/blog/zugreisen-europa).
+**Trainline.** Beste Bahn-App für Europa. Aggregiert Zug-Tickets aus 47 europäischen Bahnunternehmen. Spart Zeit gegenüber DB Navigator wenn du grenzüberschreitend reist. Lies dazu auch unseren [Zugreisen-in-Europa-Guide](/blog/zugreisen-europa/).
 
 ## Welche Apps helfen vor Ort wirklich?
 
@@ -42,7 +42,7 @@ Drei Apps die das Reiseplanen revolutionieren.
 
 **Perplexity.** Search-Engine plus KI. Gibt Antworten mit verifizierten Quellen. Perfekt für Visa-Regeln, Wettervorhersagen, lokale Events. Gratis in Grundversion, 20 Euro pro Monat für Pro.
 
-**Zercy.** Reisespezialisiert mit Live-Preisen. Anders als ChatGPT bekommst du echte Flug- und Hotelpreise plus Buchungs-Links. Ideal für die Phase zwischen "Idee" und "Buchung". Schau dir [Was ist Zercy?](/blog/was-ist-zercy) an für Details.
+**Zercy.** Reisespezialisiert mit Live-Preisen. Anders als ChatGPT bekommst du echte Flug- und Hotelpreise plus Buchungs-Links. Ideal für die Phase zwischen "Idee" und "Buchung". Schau dir [Was ist Zercy?](/blog/was-ist-zercy/) an für Details.
 
 ## Welche Apps können dich wirklich Geld sparen?
 
@@ -50,7 +50,7 @@ Drei Money-Saver, die sich amortisieren.
 
 **Hopper.** Sagt vorher, ob Flug- und Hotelpreise steigen oder fallen werden. KI-basiert, etwa 70 Prozent Trefferquote. Ideal um den richtigen Buchungs-Zeitpunkt zu erwischen.
 
-**Booking.com.** Trotz Mainstream-Image die beste App für Hotels plus Apartments. Mehr als 28 Millionen Unterkünfte, davon viele die auch auf AirBnB sind aber bei Booking besseren Service haben. Lies dazu unseren [AirBnB vs Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich).
+**Booking.com.** Trotz Mainstream-Image die beste App für Hotels plus Apartments. Mehr als 28 Millionen Unterkünfte, davon viele die auch auf AirBnB sind aber bei Booking besseren Service haben. Lies dazu unseren [AirBnB vs Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich/).
 
 **Mystery-Hotels via HotelTonight.** Last-minute-Hotels zu 30-50 Prozent Rabatt. Funktioniert besonders gut in Großstädten ab 18 Uhr lokal. Risiko: weniger Auswahl, kurzfristige Buchung.
 
@@ -81,6 +81,6 @@ eSIM via Airalo oder Holafly kaufen vor der Reise. 30 Tage Daten kosten meist 10
 ---
 
 **Mehr lesen:**
-- [Was ist Zercy? Der KI-Reiseplaner erklärt](/blog/was-ist-zercy)
-- [KI-Tools für Reisen: Der ehrliche Vergleich](/blog/ki-tools-reise-vergleich)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
+- [Was ist Zercy? Der KI-Reiseplaner erklärt](/blog/was-ist-zercy/)
+- [KI-Tools für Reisen: Der ehrliche Vergleich](/blog/ki-tools-reise-vergleich/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)

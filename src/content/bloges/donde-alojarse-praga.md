@@ -57,7 +57,7 @@ Hoteles en Malá Strana: de 110 a 220 euros. Buena relación calidad-precio resp
 **Recomendación:**
 - **Aria Hotel Prague** (temático musical, jardines, vistas al Castillo, aprox. 220 €)
 
-Para otras capitales centroeuropeas, consulta también [dónde alojarse en Viena](/es/blog/donde-alojarse-viena) y [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest).
+Para otras capitales centroeuropeas, consulta también [dónde alojarse en Viena](/es/blog/donde-alojarse-viena/) y [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/).
 
 ## Vinohrady: El barrio favorito de los que repiten
 
@@ -98,6 +98,6 @@ El transporte público es excelente y muy económico. Metro, tranvía y autobús
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Viena: Innere Stadt o Neubau](/es/blog/donde-alojarse-viena)
-- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest)
-- [Dónde alojarse en Berlín: Mitte, Prenzlauer Berg o Kreuzberg](/es/blog/donde-alojarse-berlin)
+- [Dónde alojarse en Viena: Innere Stadt o Neubau](/es/blog/donde-alojarse-viena/)
+- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest/)
+- [Dónde alojarse en Berlín: Mitte, Prenzlauer Berg o Kreuzberg](/es/blog/donde-alojarse-berlin/)

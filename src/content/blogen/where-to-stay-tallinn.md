@@ -47,7 +47,7 @@ West of the old town lies Kalamaja. Once a working-class district, now Tallinn's
 
 **Top picks:** My City Hotel (design, excellent price-to-quality ratio), Telegraph Hotel (close to Kalamaja, good location), StaySimple Towers (clean, affordable, well-connected).
 
-If you are combining Tallinn with Helsinki, the [Helsinki city guide](/en/blog/where-to-stay-oslo) covers similar hipster neighborhood vibes for a short ferry crossing.
+If you are combining Tallinn with Helsinki, the [Helsinki city guide](/en/blog/where-to-stay-oslo/) covers similar hipster neighborhood vibes for a short ferry crossing.
 
 ## When Is the Best Time to Visit Tallinn?
 
@@ -63,7 +63,7 @@ The Telliskivi Creative City is a former factory complex between Kalamaja and th
 
 **Top picks:** Hub Hotel Tallinn (modern, co-working-friendly), Boutique Hotel Revalia (small boutique, good location), Hostel Vana Tom (best price-to-value in the area).
 
-If you are planning a longer trip combining several Baltic cities, the [train travel Europe guide](/en/blog/train-travel-europe) is a solid starting point.
+If you are planning a longer trip combining several Baltic cities, the [train travel Europe guide](/en/blog/train-travel-europe/) is a solid starting point.
 
 ## Kadriorg: Quiet Tallinn
 
@@ -96,7 +96,7 @@ For Tallinn, [Booking.com](https://www.booking.com) is well stocked:
 
 If you are staying longer or traveling as a group, check apartments in Kalamaja or Telliskivi. The Vanalinn hotels charge a location premium that is worth it for short trips, less so for a week-long stay.
 
-For anyone planning a Baltic or Northern European trip, the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026) covers what you actually need.
+For anyone planning a Baltic or Northern European trip, the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) covers what you actually need.
 
 ---
 
@@ -123,6 +123,6 @@ Tallinn Airport (Lennart Meri Tallinn Airport) is just 4 kilometers from the cit
 ---
 
 **Read more:**
-- [Where to Stay in Oslo: The 5 Neighborhoods](/en/blog/where-to-stay-oslo)
-- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe)
-- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [Where to Stay in Oslo: The 5 Neighborhoods](/en/blog/where-to-stay-oslo/)
+- [Train Travel Europe: Routes, Tips and Apps](/en/blog/train-travel-europe/)
+- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)

@@ -44,7 +44,7 @@ Die Schweiz hat ein hohes Preisniveau quer durch alle Kategorien. Flüge sind da
 
 LOT Polish Airlines bietet Warschau-Chicago und Warschau-New York zu Preisen, die West-EU-Airlines selten unterbieten. 400 bis 500 Euro für Nordamerika sind keine Seltenheit. Von München direkt? Eher 650 bis 800 Euro.
 
-Die [Google Flights Explore-Funktion](/blog/google-flights-tricks-tipps-2026) zeigt diese Preisunterschiede nach Hub direkt auf einer Karte.
+Die [Google Flights Explore-Funktion](/blog/google-flights-tricks-tipps-2026/) zeigt diese Preisunterschiede nach Hub direkt auf einer Karte.
 
 ## Wie rechnest du das korrekt durch?
 
@@ -61,7 +61,7 @@ Wenn der Flugpreisunterschied 250 Euro beträgt und die Anreise 100 Euro kostet,
 
 **Kalkuliere immer den Gesamtpaketpreis.** Zugticket plus eventuelle Hotelkosten plus Parkgebühren am Heimatflughafen, die du jetzt nicht hast, minus Flugersparnis. Erst dann entscheidest du.
 
-[Günstig fliegen in der Praxis](/blog/guenstig-fliegen-tipps) erklärt die vollständige Preisoptimierung inklusive Buchungszeitpunkt und Wochentag.
+[Günstig fliegen in der Praxis](/blog/guenstig-fliegen-tipps/) erklärt die vollständige Preisoptimierung inklusive Buchungszeitpunkt und Wochentag.
 
 ## Wann lohnt sich Ex-EU Routing nicht?
 
@@ -75,7 +75,7 @@ Kurze Reisen unter einer Woche. Wenn du drei Tage nach New York fliegst, verlier
 
 Langstreckenflüge über 8 Stunden. Hier ist das Einsparpotenzial am größten. Reisen in der Nebensaison (Oktober bis März außer Feiertage). Flexible An- und Abreise. Du wohnst ohnehin in der Nähe des alternativen Hubs. Wer in Salzburg wohnt, fliegt von Wien genauso bequem wie von München.
 
-Für die richtige Buchungsstrategie lohnt auch ein Blick auf [Wann Flüge buchen: Die ehrliche Antwort](/blog/wann-fluege-buchen).
+Für die richtige Buchungsstrategie lohnt auch ein Blick auf [Wann Flüge buchen: Die ehrliche Antwort](/blog/wann-fluege-buchen/).
 
 ## Was sind die besten alternativen Hubs für DACH-Reisende?
 
@@ -89,7 +89,7 @@ Kurzübersicht der lohnendsten Ausweichflughäfen:
 
 **Budapest (BUD):** Wizzair und Ryanair machen Budapest-Europa-Verbindungen sehr günstig. Kombiniert mit einem Weiterflug lassen sich manchmal 100 bis 200 Euro sparen.
 
-Diese Überlegungen ähneln dem Prinzip von [Open-Jaw Tickets](/blog/open-jaw-tickets-reise-hack): andere Wege zum Ziel, oft deutlich günstiger.
+Diese Überlegungen ähneln dem Prinzip von [Open-Jaw Tickets](/blog/open-jaw-tickets-reise-hack/): andere Wege zum Ziel, oft deutlich günstiger.
 
 ---
 
@@ -119,6 +119,6 @@ Wettbewerbsintensität ist der Hauptfaktor. Flughäfen mit mehreren konkurrieren
 
 ## Mehr zum Thema
 
-- [Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack)
-- [Google Flights: 8 Tricks die kaum jemand kennt 2026](/blog/google-flights-tricks-tipps-2026)
-- [Wann Flüge buchen: Die ehrliche Antwort](/blog/wann-fluege-buchen)
+- [Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack/)
+- [Google Flights: 8 Tricks die kaum jemand kennt 2026](/blog/google-flights-tricks-tipps-2026/)
+- [Wann Flüge buchen: Die ehrliche Antwort](/blog/wann-fluege-buchen/)

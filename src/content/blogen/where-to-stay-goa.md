@@ -61,7 +61,7 @@ Anjuna is Goa's historic hippie center. The Goa trance scene started here in the
 
 **Top picks:** Laguna Anjuna (boutique pool resort, relaxed atmosphere), Leoney Resort (classic resort with sea views), Vagator Beach Resort (directly on the cliff, more affordable).
 
-For a similar contrast between party beaches and alternative vibes in another destination, see our [Where to Stay in Bali](/en/blog/where-to-stay-bali) guide.
+For a similar contrast between party beaches and alternative vibes in another destination, see our [Where to Stay in Bali](/en/blog/where-to-stay-bali/) guide.
 
 ## South Goa/Palolem: Quiet Luxury
 
@@ -93,7 +93,7 @@ For Goa, [Booking.com](https://www.booking.com) works especially well:
 - Luxury resorts (Taj Exotica, Park Hyatt) with reliable premium reviews
 - Quick overview of availability for peak season weekends (sell out fast)
 
-For comparison of similar beach destination diversity, check our [Where to Stay in Phuket](/en/blog/where-to-stay-phuket) guide.
+For comparison of similar beach destination diversity, check our [Where to Stay in Phuket](/en/blog/where-to-stay-phuket/) guide.
 
 ---
 
@@ -120,6 +120,6 @@ Dabolim airport (and the newer Mopa airport in the north) are served by taxis. P
 ---
 
 **Read more:**
-- [Where to Stay in Bali: The Best Areas](/en/blog/where-to-stay-bali)
-- [Where to Stay in Phuket: Which Area Fits You?](/en/blog/where-to-stay-phuket)
-- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok)
+- [Where to Stay in Bali: The Best Areas](/en/blog/where-to-stay-bali/)
+- [Where to Stay in Phuket: Which Area Fits You?](/en/blog/where-to-stay-phuket/)
+- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok/)

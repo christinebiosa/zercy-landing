@@ -70,6 +70,6 @@ Gelbfieber-Impfung ist bei Einreise aus bestimmten Ländern Pflicht und für Rei
 ---
 
 **Mehr lesen:**
-- [Patagonien 3 Wochen Route](/blog/patagonien-3-wochen-route)
-- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Kolumbien Reiseguide](/blog/kolumbien-reiseguide)
+- [Patagonien 3 Wochen Route](/blog/patagonien-3-wochen-route/)
+- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Kolumbien Reiseguide](/blog/kolumbien-reiseguide/)

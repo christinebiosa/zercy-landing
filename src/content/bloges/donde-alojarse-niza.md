@@ -61,7 +61,7 @@ Sobre el casco antiguo, en suaves colinas. El Museo Matisse está aquí, el Mus�
 
 **Top picks:** Hôtel Régence (tranquilo, bien cuidado, buena relación calidad-precio), Villa Gaia (pequeño hotel boutique con jardín), Hôtel Villa Victoria (villa con carácter y piscina).
 
-Nuestra [guía de Marsella](/es/blog/donde-alojarse-marsella) es ideal para combinar la Costa Azul con otra ciudad cultural del sur de Francia.
+Nuestra [guía de Marsella](/es/blog/donde-alojarse-marsella/) es ideal para combinar la Costa Azul con otra ciudad cultural del sur de Francia.
 
 ## Carré d'Or: Niza para los amantes de las compras
 
@@ -119,6 +119,6 @@ El Aeropuerto Niza Costa Azul está a solo seis kilómetros al oeste del centro.
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Marsella: Los 5 barrios](/es/blog/donde-alojarse-marsella)
-- [Dónde alojarse en Barcelona: Los mejores barrios](/es/blog/donde-alojarse-barcelona)
-- [Vuelos baratos: Los mejores consejos](/es/blog/consejos-vuelos-baratos)
+- [Dónde alojarse en Marsella: Los 5 barrios](/es/blog/donde-alojarse-marsella/)
+- [Dónde alojarse en Barcelona: Los mejores barrios](/es/blog/donde-alojarse-barcelona/)
+- [Vuelos baratos: Los mejores consejos](/es/blog/consejos-vuelos-baratos/)

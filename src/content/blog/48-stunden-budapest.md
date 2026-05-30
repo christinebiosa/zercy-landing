@@ -63,7 +63,7 @@ Der Heldenplatz ist einer der eindrucksvollsten Plätze Europas, ohne dass viele
 
 Mittagessen auf der Andrássy: günstigere Optionen in den Seitenstraßen. Gulasch (Gulyás) mit Brot liegt bei 8 bis 12 Euro.
 
-Wenn du eine längere Ungarn-Reise planst, gibt dir unser [Ungarn Reiseguide mit Highlights](/blog/ungarn-reiseguide-highlights) einen guten Überblick über die ganze Region.
+Wenn du eine längere Ungarn-Reise planst, gibt dir unser [Ungarn Reiseguide mit Highlights](/blog/ungarn-reiseguide-highlights/) einen guten Überblick über die ganze Region.
 
 **Abend: Donau-Kreuzfahrt bei Nacht**
 
@@ -87,7 +87,7 @@ Kreuzfahrten starten mehrmals abendlich am Vigadó tér Pier. Einfache 1-Stunden
 
 Das Pestzentrum, Distrikt V und VI, ist zentral. Hotel-Preise sind deutlich günstiger als in Wien oder Prag. Gute 3-Sterne-Hotels gibt es ab 60 bis 80 Euro pro Nacht. Das Jüdische Viertel (Bezirk VII) liegt ideal für die Ruinenbar-Szene und hat ausreichend gute Unterkünfte.
 
-Auf [Booking.com](https://www.booking.com) findest du über 800 Budapest-Unterkünfte mit kostenloser Stornierung. Mehr Empfehlungen und Stadtteil-Tipps im detaillierten Guide zu [wo du in Budapest übernachtest](/blog/wo-uebernachten-budapest).
+Auf [Booking.com](https://www.booking.com) findest du über 800 Budapest-Unterkünfte mit kostenloser Stornierung. Mehr Empfehlungen und Stadtteil-Tipps im detaillierten Guide zu [wo du in Budapest übernachtest](/blog/wo-uebernachten-budapest/).
 
 ---
 
@@ -116,6 +116,6 @@ Szimpla Kert ist die bekannteste und hat historischen Wert als erste Ruinenbar B
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Budapest: Viertel und Empfehlungen](/blog/wo-uebernachten-budapest)
-- [Günstigste Städte Europa 2026: Was du wirklich sparst](/blog/guenstigste-staedte-europa-2026)
-- [Ungarn Reiseguide: Die wichtigsten Highlights](/blog/ungarn-reiseguide-highlights)
+- [Wo übernachten in Budapest: Viertel und Empfehlungen](/blog/wo-uebernachten-budapest/)
+- [Günstigste Städte Europa 2026: Was du wirklich sparst](/blog/guenstigste-staedte-europa-2026/)
+- [Ungarn Reiseguide: Die wichtigsten Highlights](/blog/ungarn-reiseguide-highlights/)

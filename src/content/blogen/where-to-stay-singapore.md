@@ -45,7 +45,7 @@ Just west of Marina Bay, Singapore's oldest neighborhood. Buddhist-Taoist temple
 
 **Top picks:** The Scarlet Singapore (designer boutique in shophouses), Hotel 1929 (boutique with designer furniture), Furama City Centre (classic mid-range).
 
-See our [open-jaw tickets guide](/en/blog/open-jaw-tickets-travel-hack), Singapore is a perfect Asia stopover.
+See our [open-jaw tickets guide](/en/blog/open-jaw-tickets-travel-hack/), Singapore is a perfect Asia stopover.
 
 ## When is the best time to visit Singapore?
 
@@ -128,6 +128,6 @@ Backpacker: $900-1,500 per person incl. flight (hostel in Little India, hawker c
 ---
 
 **Read more:**
-- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo)
-- [Where to stay in Bangkok: best neighborhoods](/en/blog/where-to-stay-bangkok)
-- [Stopover tourism: turn layovers into mini-trips](/en/blog/stopover-tourism-guide)
+- [Where to stay in Tokyo: 5 neighborhoods](/en/blog/where-to-stay-tokyo/)
+- [Where to stay in Bangkok: best neighborhoods](/en/blog/where-to-stay-bangkok/)
+- [Stopover tourism: turn layovers into mini-trips](/en/blog/stopover-tourism-guide/)

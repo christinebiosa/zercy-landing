@@ -53,7 +53,7 @@ Graz rewards every season differently. May and June are peak for good reason: ro
 
 **July-August:** Warm (sometimes 35°C), Old Town gets busy. Hotels cost 20-30% more.
 
-**Spring and autumn:** Best combination of weather, events and pricing. For a [Balkan road trip](/en/blog/balkan-road-trip-route), Graz is a natural starting point toward Slovenia or Croatia.
+**Spring and autumn:** Best combination of weather, events and pricing. For a [Balkan road trip](/en/blog/balkan-road-trip-route/), Graz is a natural starting point toward Slovenia or Croatia.
 
 ## Lend: The Creative Side of Graz
 
@@ -75,7 +75,7 @@ Between Geidorf and the Altstadt. Stadtpark is nearby, trams connect to the cent
 
 **Top picks:** Schlossberg Hotel (panoramic views of Old Town), Hotel Steirerhof (traditional Styrian), Aparthotel St. Leonhard.
 
-Graz is also an excellent base for [Slovenia day trips](/en/blog/slovenia-green-secret-2026). Ljubljana is just 90 minutes away by train or car.
+Graz is also an excellent base for [Slovenia day trips](/en/blog/slovenia-green-secret-2026/). Ljubljana is just 90 minutes away by train or car.
 
 ## Where Should You Book in the End?
 
@@ -87,7 +87,7 @@ For Graz, [Booking.com](https://www.booking.com) is the most useful platform:
 - Free cancellation is standard, useful if plans change
 - Clear prices including local tourism tax (1.50 EUR per night)
 
-For [Vienna](/en/blog/where-to-stay-vienna) or [Salzburg](/en/blog/where-to-stay-salzburg), the same logic applies.
+For [Vienna](/en/blog/where-to-stay-vienna/) or [Salzburg](/en/blog/where-to-stay-salzburg/), the same logic applies.
 
 ---
 
@@ -114,6 +114,6 @@ The Schlossberg clock tower with views over the red rooftops, the Kunsthaus "Fri
 ---
 
 ## Read more
-- [Where to Stay in Vienna: Best Districts](/en/blog/where-to-stay-vienna)
-- [Where to Stay in Salzburg: Old Town or Beyond?](/en/blog/where-to-stay-salzburg)
-- [Slovenia 2026: Europe's Green Secret](/en/blog/slovenia-green-secret-2026)
+- [Where to Stay in Vienna: Best Districts](/en/blog/where-to-stay-vienna/)
+- [Where to Stay in Salzburg: Old Town or Beyond?](/en/blog/where-to-stay-salzburg/)
+- [Slovenia 2026: Europe's Green Secret](/en/blog/slovenia-green-secret-2026/)

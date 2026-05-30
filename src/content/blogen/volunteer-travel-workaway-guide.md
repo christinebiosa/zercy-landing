@@ -20,7 +20,7 @@ Booking works privately between you and the host. Workaway doesn't inspect hosts
 
 Typical placements include: teaching languages to children or adults, hostel front desk and cleaning shifts, working on organic farms, sea turtle conservation on coastal stretches, renovation and construction projects, social media help for small businesses.
 
-If you're planning a [Costa Rica road trip](/en/blog/costa-rica-road-trip-route), Workaway has hosts from the Caribbean coast to deep jungle that combine travel with meaningful work.
+If you're planning a [Costa Rica road trip](/en/blog/costa-rica-road-trip-route/), Workaway has hosts from the Caribbean coast to deep jungle that combine travel with meaningful work.
 
 ## What separates genuine volunteering from voluntourism tourism?
 
@@ -46,13 +46,13 @@ Beyond Workaway and WWOOF, there are several other options, each with different 
 
 **Volunteers World** and similar NGO platforms offer more structured programs, often with program fees in the hundreds or thousands of dollars. Research carefully which organizations actually reinvest proceeds into the communities they serve.
 
-For budget travel through Southeast Asia, Workaway pairs especially well. See the [Southeast Asia budget travel](/en/blog/southeast-asia-budget-travel) guide for how to combine the two.
+For budget travel through Southeast Asia, Workaway pairs especially well. See the [Southeast Asia budget travel](/en/blog/southeast-asia-budget-travel/) guide for how to combine the two.
 
 ## What does volunteer travel actually cost?
 
 The baseline costs are low. Workaway or WWOOF membership: 20 to 50 dollars. Flight to your destination: your biggest expense. At the host: nothing. Accommodation and meals are included.
 
-That sounds almost too good. The catch is that you still have to get there. Flights to Costa Rica, Thailand, Peru, or Nepal cost real money. And a travel insurance policy is non-negotiable regardless of how cheap the program is. What [travel insurance actually covers](/en/blog/travel-insurance-worth-it-2026) is not obvious.
+That sounds almost too good. The catch is that you still have to get there. Flights to Costa Rica, Thailand, Peru, or Nepal cost real money. And a travel insurance policy is non-negotiable regardless of how cheap the program is. What [travel insurance actually covers](/en/blog/travel-insurance-worth-it-2026/) is not obvious.
 
 Additional costs to budget for: transport between hosts, visa fees (Nepal, Vietnam, Peru each have different rules), food on free days when you eat outside the host's kitchen.
 
@@ -72,7 +72,7 @@ Volunteer travel doesn't work equally well everywhere. Context makes all the dif
 
 **Nepal** developed numerous rebuild programs after the 2015 earthquake, coordinated by legitimate NGOs. Less typical Workaway territory, more structured program-based involvement.
 
-Digital nomads increasingly combine Workaway stays with remote work. Which countries offer visas for this: [digital nomad visa countries 2026](/en/blog/digital-nomad-visa-countries-2026).
+Digital nomads increasingly combine Workaway stays with remote work. Which countries offer visas for this: [digital nomad visa countries 2026](/en/blog/digital-nomad-visa-countries-2026/).
 
 ## What actually helps and what causes harm?
 
@@ -113,6 +113,6 @@ Look at profile age and number of reviews. Hosts with 20 or more recent reviews 
 ---
 
 **Read more:**
-- [Costa Rica Road Trip Route: Planning and Best Stops](/en/blog/costa-rica-road-trip-route)
-- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel)
-- [Travel Insurance 2026: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [Costa Rica Road Trip Route: Planning and Best Stops](/en/blog/costa-rica-road-trip-route/)
+- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel/)
+- [Travel Insurance 2026: When Is It Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)

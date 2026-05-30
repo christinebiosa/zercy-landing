@@ -43,7 +43,7 @@ Northern part with Wynn (Steve Wynn's premium empire), Encore, Resorts World (ne
 
 **Top picks:** Wynn Las Vegas (5-star with spa and golf course), Encore at Wynn (sister hotel with even more pools), Resorts World Las Vegas (3 brands: Conrad, Hilton, Crockfords).
 
-See our [road trip stages guide](/en/blog/road-trip-stages-planning), Vegas is a perfect stop for southwest USA road trips.
+See our [road trip stages guide](/en/blog/road-trip-stages-planning/), Vegas is a perfect stop for southwest USA road trips.
 
 ## When is the best time to visit Las Vegas?
 
@@ -117,6 +117,6 @@ Backpacker: $900-1,300 per person incl. flight (Downtown hotel, buffet, foot tou
 ---
 
 **Read more:**
-- [Where to stay in Los Angeles: 5 neighborhoods](/en/blog/where-to-stay-los-angeles)
-- [Where to stay in San Francisco: 5 neighborhoods](/en/blog/where-to-stay-san-francisco)
-- [Road trip stages planning: how to plan a route](/en/blog/road-trip-stages-planning)
+- [Where to stay in Los Angeles: 5 neighborhoods](/en/blog/where-to-stay-los-angeles/)
+- [Where to stay in San Francisco: 5 neighborhoods](/en/blog/where-to-stay-san-francisco/)
+- [Road trip stages planning: how to plan a route](/en/blog/road-trip-stages-planning/)

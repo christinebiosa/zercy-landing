@@ -49,7 +49,7 @@ Hotels hier sind kleine Pensionen und Gästehäuser. Für alle die Cerro-Alegre-
 
 **Top-Picks:** Hotel Brighton (historisches Hotel, Cerro Concepción, Panoramablick), La Bicyclette (kleines Boutique-Hotel, sehr gut bewertet), Hostal Jacaranda (günstig, herzlich).
 
-Unser [Chile-Reiseguide](/blog/chile-reiseguide-highlights) und der [Santiago-Stadtführer](/blog/wo-uebernachten-santiago) ergänzen den Valparaíso-Besuch.
+Unser [Chile-Reiseguide](/blog/chile-reiseguide-highlights/) und der [Santiago-Stadtführer](/blog/wo-uebernachten-santiago/) ergänzen den Valparaíso-Besuch.
 
 ## Wann ist die beste Reisezeit für Valparaíso?
 
@@ -105,6 +105,6 @@ Cerro Alegre und Cerro Concepción tagsüber sind sehr sicher und touristisch. N
 ---
 
 ## Mehr lesen
-- [Wo übernachten in Santiago: Die besten Stadtteile](/blog/wo-uebernachten-santiago)
-- [Chile Reiseguide: Die schönsten Highlights](/blog/chile-reiseguide-highlights)
-- [Patagonien 3 Wochen: Die perfekte Route](/blog/patagonien-3-wochen-route)
+- [Wo übernachten in Santiago: Die besten Stadtteile](/blog/wo-uebernachten-santiago/)
+- [Chile Reiseguide: Die schönsten Highlights](/blog/chile-reiseguide-highlights/)
+- [Patagonien 3 Wochen: Die perfekte Route](/blog/patagonien-3-wochen-route/)

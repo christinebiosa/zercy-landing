@@ -49,7 +49,7 @@ Güemes limita con Nueva Córdoba y la frontera entre ambos es difusa.
 
 **Top picks:** Brüder Hotel Boutique (boutique en Nueva Córdoba, muy popular), Howard Johnson Córdoba (gama media sólida, buena ubicación), varios apartamentos Airbnb en Nueva Córdoba.
 
-Consulta también nuestra [guía de viaje a Argentina](/es/blog/argentina-guia-viaje-highlights) para una visión completa de Buenos Aires, la Patagonia y más.
+Consulta también nuestra [guía de viaje a Argentina](/es/blog/argentina-guia-viaje-highlights/) para una visión completa de Buenos Aires, la Patagonia y más.
 
 ## ¿Cuándo es la mejor época para visitar Córdoba?
 
@@ -105,6 +105,6 @@ De junio a agosto (meses de invierno en el hemisferio sur) son los más económi
 ---
 
 ## Más artículos
-- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires)
-- [Argentina: Guía de viaje con los mejores highlights](/es/blog/argentina-guia-viaje-highlights)
-- [Patagonia en 3 semanas: La ruta perfecta](/es/blog/patagonia-3-semanas-ruta)
+- [Dónde alojarse en Buenos Aires: Los mejores barrios](/es/blog/donde-alojarse-buenos-aires/)
+- [Argentina: Guía de viaje con los mejores highlights](/es/blog/argentina-guia-viaje-highlights/)
+- [Patagonia en 3 semanas: La ruta perfecta](/es/blog/patagonia-3-semanas-ruta/)

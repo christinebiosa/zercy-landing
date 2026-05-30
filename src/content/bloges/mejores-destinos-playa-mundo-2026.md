@@ -22,9 +22,9 @@ Aquí está la clasificación honesta.
 
 **Para familias:** Mallorca, Mauricio y Turks y Caicos. Mallorca ofrece vuelos cortos desde Latinoamérica vía escalas en Europa, buen mar y excelente infraestructura para niños. Mauricio es el destino de lujo familiar del Océano Índico: lagunas protegidas sin oleaje ni corrientes, resorts con clubs infantiles. Turks y Caicos (Grace Bay Beach) se considera uno de los destinos de playa más seguros y hermosos del planeta. Agua poco profunda y tranquila, visibilidad perfecta.
 
-**Fuera del circuito turístico masivo:** Seychelles, Palawan y Milos. Las Seychelles son caras, pero La Digue y Praslin son difíciles de superar si buscas soledad y perfección. Palawan en Filipinas (Puerto Princesa, El Nido) tiene lagunas turquesa, acantilados dramáticos de caliza y una infraestructura turística sin multitudes masivas. Milos en Grecia es el dato secreto subestimado: arena blanca de piedra lunar, agua clara del Egeo, casi sin turistas de crucero de día. Nuestro artículo sobre [Eslovenia como destino verde](/es/blog/eslovenia-secreto-verde-2026) también demuestra que fuera del circuito no siempre significa tropical.
+**Fuera del circuito turístico masivo:** Seychelles, Palawan y Milos. Las Seychelles son caras, pero La Digue y Praslin son difíciles de superar si buscas soledad y perfección. Palawan en Filipinas (Puerto Princesa, El Nido) tiene lagunas turquesa, acantilados dramáticos de caliza y una infraestructura turística sin multitudes masivas. Milos en Grecia es el dato secreto subestimado: arena blanca de piedra lunar, agua clara del Egeo, casi sin turistas de crucero de día. Nuestro artículo sobre [Eslovenia como destino verde](/es/blog/eslovenia-secreto-verde-2026/) también demuestra que fuera del circuito no siempre significa tropical.
 
-**Para surfistas:** Nazaré, Bali y Costa Rica. Nazaré en Portugal tiene las olas más grandes del mundo. Otoño e invierno: olas de más de 20 metros. Para surfistas experimentados y espectadores. Bali (Uluwatu, Padang Padang) es el clásico: rompientes de arrecife perfectas, agua cálida, buenas opciones para todos los niveles. Costa Rica (Playa Hermosa, Jacó) es el destino de surf más confiable de la región para principiantes e intermedios. Lee también nuestra [guía de surf en Costa Rica](/es/blog/costa-rica-surf) para más detalles.
+**Para surfistas:** Nazaré, Bali y Costa Rica. Nazaré en Portugal tiene las olas más grandes del mundo. Otoño e invierno: olas de más de 20 metros. Para surfistas experimentados y espectadores. Bali (Uluwatu, Padang Padang) es el clásico: rompientes de arrecife perfectas, agua cálida, buenas opciones para todos los niveles. Costa Rica (Playa Hermosa, Jacó) es el destino de surf más confiable de la región para principiantes e intermedios. Lee también nuestra [guía de surf en Costa Rica](/es/blog/costa-rica-surf/) para más detalles.
 
 ## ¿Cuándo es la mejor época para cada destino de playa?
 
@@ -84,7 +84,7 @@ Tres consejos que ahorran dinero real.
 
 Zercy te ayuda a comparar: opciones de vuelo, categorías de hotel y precios para todos estos destinos. Guarda tus combinaciones favoritas de playa en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo a mano cuando vayas a reservar.
 
-Para destinos de playa específicamente dentro de Europa, tenemos una guía dedicada: [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026). Y quien prioriza el mundo submarino encontrará mucho en común con la [guía de vacaciones en velero para principiantes](/es/blog/vacaciones-vela-principiantes).
+Para destinos de playa específicamente dentro de Europa, tenemos una guía dedicada: [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/). Y quien prioriza el mundo submarino encontrará mucho en común con la [guía de vacaciones en velero para principiantes](/es/blog/vacaciones-vela-principiantes/).
 
 ---
 
@@ -109,6 +109,6 @@ Mallorca (Alcúdia, Cala d'Or), Mauricio (costas norte y este) y Turks y Caicos.
 ---
 
 **Más para leer:**
-- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026)
-- [Vacaciones en velero para principiantes](/es/blog/vacaciones-vela-principiantes)
-- [Island hopping en el Caribe: las mejores rutas](/es/blog/islas-caribe-island-hopping-guia)
+- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)
+- [Vacaciones en velero para principiantes](/es/blog/vacaciones-vela-principiantes/)
+- [Island hopping en el Caribe: las mejores rutas](/es/blog/islas-caribe-island-hopping-guia/)

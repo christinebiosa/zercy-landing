@@ -94,6 +94,6 @@ Arlanda Express (Direktzug): 22 Minuten nach Stockholm City, 299 SEK (ca. 27 Eur
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Kopenhagen: Nørrebro oder Frederiksberg?](/blog/wo-uebernachten-kopenhagen)
-- [Wo übernachten in Amsterdam: Canal Ring oder Jordaan?](/blog/wo-uebernachten-amsterdam)
-- [Nachtzüge in Europa 2026: Die besten Routen](/blog/nachtzuege-europa-2026)
+- [Wo übernachten in Kopenhagen: Nørrebro oder Frederiksberg?](/blog/wo-uebernachten-kopenhagen/)
+- [Wo übernachten in Amsterdam: Canal Ring oder Jordaan?](/blog/wo-uebernachten-amsterdam/)
+- [Nachtzüge in Europa 2026: Die besten Routen](/blog/nachtzuege-europa-2026/)

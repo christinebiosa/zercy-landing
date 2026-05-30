@@ -66,7 +66,7 @@ La técnica de enrollado (roll packing) reduce el espacio ocupado y las arrugas:
 
 Los cubos organizadores (packing cubes) son opcionales pero muy útiles: permiten separar categorías de ropa y localizar cualquier prenda sin deshacer toda la mochila.
 
-Si viajas [solo con equipaje de mano](/es/blog/solo-equipaje-de-mano) la maleta cápsula es el complemento perfecto para maximizar las opciones con el mínimo volumen.
+Si viajas [solo con equipaje de mano](/es/blog/solo-equipaje-de-mano/) la maleta cápsula es el complemento perfecto para maximizar las opciones con el mínimo volumen.
 
 Zercy puede ayudarte a planificar tu próximo viaje minimalista. Guarda tus destinos favoritos en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -93,6 +93,6 @@ Sí, con un ajuste: la técnica de capas. Una camiseta + camisa abierta + jersey
 ---
 
 **Más para leer:**
-- [Cómo viajar solo con equipaje de mano: guía completa](/es/blog/solo-equipaje-de-mano)
-- [Líquidos en el avión: qué puedes llevar en 2026](/es/blog/liquidos-equipaje-mano-2026)
-- [Trucos de aeropuerto para viajar sin estrés](/es/blog/trucos-aeropuerto)
+- [Cómo viajar solo con equipaje de mano: guía completa](/es/blog/solo-equipaje-de-mano/)
+- [Líquidos en el avión: qué puedes llevar en 2026](/es/blog/liquidos-equipaje-mano-2026/)
+- [Trucos de aeropuerto para viajar sin estrés](/es/blog/trucos-aeropuerto/)

@@ -76,6 +76,6 @@ Zanzíbar es una isla de mayoría musulmana. En Stone Town se espera ropa cubrie
 ---
 
 **Más para leer:**
-- [Patagonia en 3 semanas: la ruta completa](/es/blog/patagonia-3-semanas-ruta)
-- [Islandia: la guía de viaje completa 2026](/es/blog/islandia-guia-viaje)
-- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa)
+- [Patagonia en 3 semanas: la ruta completa](/es/blog/patagonia-3-semanas-ruta/)
+- [Islandia: la guía de viaje completa 2026](/es/blog/islandia-guia-viaje/)
+- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa/)

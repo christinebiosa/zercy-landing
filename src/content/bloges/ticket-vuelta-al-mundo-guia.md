@@ -26,7 +26,7 @@ Los precios de entrada parten de unos 2.500 euros para clase económica con tres
 
 Parece mucho. Pero comparado con reservar por separado, a menudo no lo es. Si compras cinco segmentos de larga distancia individualmente (por ejemplo, Madrid a Nueva York, Nueva York a Los Ángeles, Los Ángeles a Tokio, Tokio a Bangkok y Bangkok de vuelta a Madrid), puedes llegar fácilmente a 4.000 o 5.500 euros, según cuándo reserves.
 
-El ticket RTW empieza a ser interesante a partir de cuatro o cinco vuelos de larga distancia. Por debajo de ese umbral, los billetes individuales son casi siempre más baratos, especialmente si sabes [cómo encontrar vuelos baratos](/es/blog/consejos-vuelos-baratos) y tienes margen con las fechas.
+El ticket RTW empieza a ser interesante a partir de cuatro o cinco vuelos de larga distancia. Por debajo de ese umbral, los billetes individuales son casi siempre más baratos, especialmente si sabes [cómo encontrar vuelos baratos](/es/blog/consejos-vuelos-baratos/) y tienes margen con las fechas.
 
 ## ¿Cuándo merece la pena un ticket RTW?
 
@@ -42,7 +42,7 @@ Tres escenarios en los que el ticket de vuelta al mundo gana claramente:
 
 Los tickets RTW tienen puntos débiles reales. Conocerlos antes de reservar te evita sorpresas.
 
-No puedes volar en dos direcciones. Si quieres ir de Madrid a Bangkok, luego a Australia y luego volver por India, tienes un problema: eso ya no es una ruta en un solo sentido. Los [tickets open-jaw](/es/blog/open-jaw-tickets-truco-viaje) son la mejor opción en esos casos.
+No puedes volar en dos direcciones. Si quieres ir de Madrid a Bangkok, luego a Australia y luego volver por India, tienes un problema: eso ya no es una ruta en un solo sentido. Los [tickets open-jaw](/es/blog/open-jaw-tickets-truco-viaje/) son la mejor opción en esos casos.
 
 Tienes menos de cuatro paradas planificadas. El paquete no se justifica. Tres vuelos de larga distancia reservados por separado son casi siempre más baratos, sobre todo con fechas flexibles y algo de antelación.
 
@@ -58,7 +58,7 @@ También puedes acudir a agencias especializadas como Airtreks. Pueden combinar 
 
 La regla básica: menos de cuatro vuelos de larga distancia, casi siempre mejor con billetes individuales. A partir de cinco, hay que comparar con cuidado. Con seis o más, el paquete RTW suele salir más barato.
 
-Pero el precio no lo es todo. Los billetes individuales te dan más libertad de ruta, mejor configuración de paradas y la posibilidad de elegir el momento exacto de reserva. Saber [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos) para pagar menos es una habilidad que importa más cuando reservas por separado que con un paquete RTW.
+Pero el precio no lo es todo. Los billetes individuales te dan más libertad de ruta, mejor configuración de paradas y la posibilidad de elegir el momento exacto de reserva. Saber [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) para pagar menos es una habilidad que importa más cuando reservas por separado que con un paquete RTW.
 
 Un detalle más: las aerolíneas de bajo coste no forman parte de los paquetes de alianza. Si un segmento de tu ruta lo cubre un vuelo low-cost mucho más barato, el ticket RTW no te va a ayudar ahí.
 
@@ -88,6 +88,6 @@ La ruta clásica Europa a América a Asia de vuelta a Europa es el caso de uso i
 
 **Más información:**
 
-- [Open-Jaw Tickets: el truco de viaje que pocos conocen](/es/blog/open-jaw-tickets-truco-viaje)
-- [Consejos para encontrar vuelos baratos](/es/blog/consejos-vuelos-baratos)
-- [Cuándo reservar vuelos para pagar menos](/es/blog/cuando-reservar-vuelos)
+- [Open-Jaw Tickets: el truco de viaje que pocos conocen](/es/blog/open-jaw-tickets-truco-viaje/)
+- [Consejos para encontrar vuelos baratos](/es/blog/consejos-vuelos-baratos/)
+- [Cuándo reservar vuelos para pagar menos](/es/blog/cuando-reservar-vuelos/)

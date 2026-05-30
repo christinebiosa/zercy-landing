@@ -53,7 +53,7 @@ The official [Tourism New Zealand](https://www.newzealand.com/us/queenstown/) si
 
 Queenstown has two high seasons. Summer (December to February) for hiking, bungee jumping, jet boating, and mountain trails in up to 25°C. Winter (July to September) for skiing at Coronet Peak and The Remarkables, two of the Southern Hemisphere's best-known ski areas. Shoulder periods (March to May, October to November) are quieter and up to 40 percent cheaper. Spring in New Zealand (October and November) is especially beautiful.
 
-For a South Island trip, combinations work well: Queenstown, Milford Sound (2.5 hours), Franz Josef Glacier (5 hours). Read our [New Zealand travel guide](/en/blog/new-zealand-travel-guide) for the complete South Island route.
+For a South Island trip, combinations work well: Queenstown, Milford Sound (2.5 hours), Franz Josef Glacier (5 hours). Read our [New Zealand travel guide](/en/blog/new-zealand-travel-guide/) for the complete South Island route.
 
 ## Fernhill and Arrowtown: For Views and History
 
@@ -71,7 +71,7 @@ Thirty minutes east of Queenstown lies the Gibbston Valley, one of the world's s
 
 **Top picks:** Gibbston Valley Lodge & Spa (luxury winery lodge, premium experience), Peregrine Wines Accommodation (right at the winery, exclusive).
 
-For the broader New Zealand trip: [Where to stay in Auckland](/en/blog/where-to-stay-auckland) and our [New Zealand travel guide](/en/blog/new-zealand-travel-guide) give the complete overview.
+For the broader New Zealand trip: [Where to stay in Auckland](/en/blog/where-to-stay-auckland/) and our [New Zealand travel guide](/en/blog/new-zealand-travel-guide/) give the complete overview.
 
 ## Where Should You Book?
 
@@ -109,6 +109,6 @@ The best-known filming locations around Queenstown include Rees Valley (Rohan sc
 ---
 
 **Read more:**
-- [Where to stay in Auckland: The 5 neighborhoods](/en/blog/where-to-stay-auckland)
-- [New Zealand travel guide: Best routes](/en/blog/new-zealand-travel-guide)
-- [Rental car tips: What you need to know](/en/blog/rental-car-checklist)
+- [Where to stay in Auckland: The 5 neighborhoods](/en/blog/where-to-stay-auckland/)
+- [New Zealand travel guide: Best routes](/en/blog/new-zealand-travel-guide/)
+- [Rental car tips: What you need to know](/en/blog/rental-car-checklist/)

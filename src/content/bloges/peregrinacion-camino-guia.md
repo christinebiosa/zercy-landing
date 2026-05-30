@@ -99,6 +99,6 @@ El Camino Portugués desde Oporto es la opción más recomendada para quienes pe
 ---
 
 **Seguir leyendo:**
-- [Lista de equipaje para trekking: qué poner de verdad en la mochila](/es/blog/lista-equipaje-viaje-esencial)
-- [Viaje sin smartphone: cómo desconectarse de verdad](/es/blog/ciberseguridad-viajeros)
-- [Road trip por Europa: las mejores rutas para viajeros independientes](/es/blog/balcanes-road-trip-ruta)
+- [Lista de equipaje para trekking: qué poner de verdad en la mochila](/es/blog/lista-equipaje-viaje-esencial/)
+- [Viaje sin smartphone: cómo desconectarse de verdad](/es/blog/ciberseguridad-viajeros/)
+- [Road trip por Europa: las mejores rutas para viajeros independientes](/es/blog/balcanes-road-trip-ruta/)

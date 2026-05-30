@@ -34,7 +34,7 @@ Las olas en Taghazout son surf atlántico clásico: constantes, bien formadas, c
 
 **Mejor temporada:** De octubre a abril. Verano demasiado ventoso para principiantes.
 
-Si también quieres explorar las ciudades de Marruecos, nuestra [guía de alojamiento en Marrakech](/es/blog/donde-alojarse-marrakech) ayuda a planificar.
+Si también quieres explorar las ciudades de Marruecos, nuestra [guía de alojamiento en Marrakech](/es/blog/donde-alojarse-marrakech/) ayuda a planificar.
 
 ## Fuerteventura: El mejor spot de surf para principiantes en Europa
 
@@ -66,7 +66,7 @@ Canggu es más tranquila que Kuta, las olas son algo más exigentes, pero es má
 
 **Mejor temporada:** De abril a octubre (temporada seca, mejores olas). De noviembre a marzo es monzón con condiciones más inconsistentes.
 
-Para el alojamiento en Bali, nuestra [guía de barrios de Bali](/es/blog/donde-alojarse-bali) explica las diferencias entre Kuta, Seminyak y Canggu.
+Para el alojamiento en Bali, nuestra [guía de barrios de Bali](/es/blog/donde-alojarse-bali/) explica las diferencias entre Kuta, Seminyak y Canggu.
 
 ## Nosara, Costa Rica: Organizado y limpio
 
@@ -76,7 +76,7 @@ Nosara es el pueblo de surf más bien organizado de Costa Rica. Playa Guiones ti
 
 **Mejor temporada:** De diciembre a abril (temporada seca). Temporada baja de mayo a noviembre: más barato, las olas siguen funcionando bien.
 
-Para el viaje más amplio por Costa Rica, nuestra [guía de ruta por Costa Rica](/es/blog/costa-rica-ruta-completa) cubre la logística.
+Para el viaje más amplio por Costa Rica, nuestra [guía de ruta por Costa Rica](/es/blog/costa-rica-ruta-completa/) cubre la logística.
 
 ## ¿Dónde surfear en Asia con presupuesto de principiante?
 
@@ -130,6 +130,6 @@ Varía según el destino. Taghazout/Marruecos: de octubre a abril. Fuerteventura
 ---
 
 **Más información:**
-- [Costa Rica: La ruta completa](/es/blog/costa-rica-ruta-completa)
-- [Dónde alojarse en Bali: 5 barrios](/es/blog/donde-alojarse-bali)
-- [Seguro de viaje: ¿Cuándo vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Costa Rica: La ruta completa](/es/blog/costa-rica-ruta-completa/)
+- [Dónde alojarse en Bali: 5 barrios](/es/blog/donde-alojarse-bali/)
+- [Seguro de viaje: ¿Cuándo vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)

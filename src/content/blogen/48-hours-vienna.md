@@ -79,7 +79,7 @@ For local events and exhibitions, [Wien Info](https://www.wien.info) is the offi
 
 The city center (1st district) is expensive and central. For better value look at Mariahilf (6th), Neubau (7th) or Josefstadt (8th). All three are within walking distance of most sights and have good U-Bahn connections.
 
-On [Booking.com](https://www.booking.com) you'll find more than 800 Vienna hotels with free cancellation. The district filter helps find the right neighborhood. More in the guide to [where to stay in Vienna](/en/blog/where-to-stay-vienna).
+On [Booking.com](https://www.booking.com) you'll find more than 800 Vienna hotels with free cancellation. The district filter helps find the right neighborhood. More in the guide to [where to stay in Vienna](/en/blog/where-to-stay-vienna/).
 
 ---
 
@@ -99,7 +99,7 @@ December for Christmas markets, May to June for mild weather and long days, Sept
 
 ### How do you get to Vienna without spending too much?
 
-By train from Munich, Prague, Budapest or Bratislava, Vienna is very well connected and often cheaper than flying once you factor in airport transfers. Our [train vs. plane Europe 2026 comparison](/en/blog/train-vs-plane-europe-2026) covers specific routes and price breakdowns. More tips on airports in the [Airport Hacks guide](/en/blog/airport-hacks).
+By train from Munich, Prague, Budapest or Bratislava, Vienna is very well connected and often cheaper than flying once you factor in airport transfers. Our [train vs. plane Europe 2026 comparison](/en/blog/train-vs-plane-europe-2026/) covers specific routes and price breakdowns. More tips on airports in the [Airport Hacks guide](/en/blog/airport-hacks/).
 
 ### What does a Vienna weekend actually cost?
 
@@ -108,6 +108,6 @@ Schönbrunn exterior: free. Ferris wheel: 12 euros. Museum visit: 14 to 15 euros
 ---
 
 **Read more:**
-- [Where to Stay in Vienna: Districts, Hotels and Recommendations](/en/blog/where-to-stay-vienna)
-- [Train vs. Plane Europe 2026: When the Train Wins](/en/blog/train-vs-plane-europe-2026)
-- [Airport Hacks: Save Time and Money at Any Airport](/en/blog/airport-hacks)
+- [Where to Stay in Vienna: Districts, Hotels and Recommendations](/en/blog/where-to-stay-vienna/)
+- [Train vs. Plane Europe 2026: When the Train Wins](/en/blog/train-vs-plane-europe-2026/)
+- [Airport Hacks: Save Time and Money at Any Airport](/en/blog/airport-hacks/)

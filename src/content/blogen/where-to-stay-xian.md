@@ -55,7 +55,7 @@ The Terracotta Army is located roughly 40 kilometers east of the city center. Mo
 
 Price range: 50 to 160 euros. Top picks: **Novotel Xi'an Airport** (direct shuttle service, convenient and reliable), **Mercure Xi'an High-Tech Zone** (affordable, good reviews), **Days Hotel & Suites Xi'an** (budget-friendly, airport proximity).
 
-For the transfer to the Terracotta Army: take Metro Line 9 to Fangzhicheng terminus, then Bus 306. About 90 minutes total, very cheap. For more tips on budget travel across Asia, check out [Southeast Asia Budget Travel](/en/blog/southeast-asia-budget-travel).
+For the transfer to the Terracotta Army: take Metro Line 9 to Fangzhicheng terminus, then Bus 306. About 90 minutes total, very cheap. For more tips on budget travel across Asia, check out [Southeast Asia Budget Travel](/en/blog/southeast-asia-budget-travel/).
 
 ## Qujiang: Calm and cultural in the south
 
@@ -63,7 +63,7 @@ Qujiang is a newer cultural development zone in the southern part of the city. T
 
 Price range: 65 to 200 euros. Top picks: **Renaissance Xi'an Hotel** (stylish property, Qujiang atmosphere, pool), **Xi'an Tang Paradise Hotel** (close to the cultural park, historic Chinese aesthetic), **Hampton Inn by Hilton Xi'an Qujiang** (solid mid-range, good value).
 
-Qujiang pairs well with broader Asia itineraries. If you're planning a bigger trip, [Japan 3-Week Route](/en/blog/japan-3-week-route) has plenty of inspiration for building an east Asia loop.
+Qujiang pairs well with broader Asia itineraries. If you're planning a bigger trip, [Japan 3-Week Route](/en/blog/japan-3-week-route/) has plenty of inspiration for building an east Asia loop.
 
 ## Where should you book in the end?
 
@@ -91,6 +91,6 @@ The Terracotta Army is non-negotiable. Beyond that: an evening walk through the 
 
 ## Read more
 
-- [Where to Stay in Seoul](/en/blog/where-to-stay-seoul)
-- [Where to Stay in Tokyo](/en/blog/where-to-stay-tokyo)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Where to Stay in Seoul](/en/blog/where-to-stay-seoul/)
+- [Where to Stay in Tokyo](/en/blog/where-to-stay-tokyo/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

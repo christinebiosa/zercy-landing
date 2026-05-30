@@ -22,7 +22,7 @@ Für Wanderer gibt es die Rota Vicentina: ein Küstenpfad entlang der Naturparks
 
 Der Preisunterschied ist real. Die Algarve liegt etwa 15-25% unter dem Niveau der Costa del Sol. Hotels, Restaurants, Mietwagen. Wer zwei Wochen plant, spürt das. Ein Strandrestaurant in Albufeira kostet deutlich weniger als ein vergleichbares in Marbella.
 
-Schau auch in den [Algarve-Reisefuehrer 2026](/blog/algarve-reisefuehrer-2026), wenn du die Region tiefer kennenlernen willst. Und wenn du mit dem Gedanken spielst, Surf-Urlaub zu kombinieren: [Surfurlaub für Anfänger](/blog/surfurlaub-anfaenger-destinations) zeigt dir, welche Spots auf welchem Level realistisch sind.
+Schau auch in den [Algarve-Reisefuehrer 2026](/blog/algarve-reisefuehrer-2026/), wenn du die Region tiefer kennenlernen willst. Und wenn du mit dem Gedanken spielst, Surf-Urlaub zu kombinieren: [Surfurlaub für Anfänger](/blog/surfurlaub-anfaenger-destinations/) zeigt dir, welche Spots auf welchem Level realistisch sind.
 
 ## Wann ist die Costa del Sol die bessere Wahl?
 
@@ -34,7 +34,7 @@ Die Costa del Sol ist auch besser vernetzt. Málaga-Flughafen gehört zu den mei
 
 Der offizielle Tourismusauftritt unter [Costa del Sol Tourismus](https://www.visitacostadelsol.com) bietet Stadtteil-Karten und Event-Kalender, die beim Vorausplanen helfen.
 
-Wenn du noch unsicher bist zwischen Spanien und Portugal als Reiseland insgesamt, hilft [Portugal vs. Spanien Urlaub](/blog/portugal-vs-spanien-urlaub) mit dem größeren Vergleich.
+Wenn du noch unsicher bist zwischen Spanien und Portugal als Reiseland insgesamt, hilft [Portugal vs. Spanien Urlaub](/blog/portugal-vs-spanien-urlaub/) mit dem größeren Vergleich.
 
 ## Wie unterscheiden sich die Strände wirklich?
 
@@ -42,7 +42,7 @@ Atlantik und Mittelmeer fühlen sich anders an. Das ist kein Klischee.
 
 An der Algarve sind die Strände oft von Felsen eingerahmt. Praia da Marinha, Praia do Camilo, Praia de Benagil. Die Kulisse ist dramatisch. Das Wasser ist klar, weil die Atlantikströmung es durchmischt. Die Wellen können Schläge sein. Das macht das Baden aufregender, aber auch körperlich fordernder.
 
-An der Costa del Sol sind die Strände meist lang, flach, mit ruhigerem Wasser. Das Mittelmeer ist wärmer, aber auch stiller. Ideal für Familien mit kleinen Kindern, für alle, die entspanntes Strandleben ohne Wellenaction suchen. In [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026) sind Vertreter beider Küsten aufgelistet.
+An der Costa del Sol sind die Strände meist lang, flach, mit ruhigerem Wasser. Das Mittelmeer ist wärmer, aber auch stiller. Ideal für Familien mit kleinen Kindern, für alle, die entspanntes Strandleben ohne Wellenaction suchen. In [Schönste Strände Europas 2026](/blog/schoenste-straende-europa-2026/) sind Vertreter beider Küsten aufgelistet.
 
 Preislich liegen die Strandliegenstühle an der Costa del Sol oft höher. In Marbella zahlst du für eine Tagesliege problemlos 30-50 Euro. An vielen Algarve-Stränden gibt es solche Infrastruktur kaum. Manche Strände sind komplett wild. Das ist ein Stilmerkmal, kein Fehlen.
 
@@ -52,7 +52,7 @@ Ja, und das ist sogar einer der schönsten Wege, Südeuropa kennenzulernen.
 
 Faro (Algarve) anreisen, nach Westen zur wilden Küste bei Sagres, dann entlang der Ostküste nach Tavira. Von dort mit dem Mietwagen oder Zug über Huelva nach Sevilla. Zwei Tage Sevilla: Kathedrale, Alcázar, Tapas im Triana-Viertel. Dann südwärts nach Málaga. Zehn Tage insgesamt sind realistisch, wenn du nicht zu viel Pensum willst.
 
-Diese Kombiroute verbindet das Ursprüngliche der Algarve mit dem Städteangebot der Costa del Sol. Günstiger fliegen für die Kombination: [Günstig fliegen Tipps](/blog/guenstig-fliegen-tipps) zeigt, wann Open-Jaw-Tickets (Faro rein, Málaga raus) Sinn ergeben.
+Diese Kombiroute verbindet das Ursprüngliche der Algarve mit dem Städteangebot der Costa del Sol. Günstiger fliegen für die Kombination: [Günstig fliegen Tipps](/blog/guenstig-fliegen-tipps/) zeigt, wann Open-Jaw-Tickets (Faro rein, Málaga raus) Sinn ergeben.
 
 ---
 
@@ -79,6 +79,6 @@ Klar die Algarve. Sagres und die Westküste (Arrifana, Carrapateira) haben konst
 ---
 
 **Mehr lesen:**
-- [Algarve Reisefuehrer 2026](/blog/algarve-reisefuehrer-2026)
-- [Schoenste Straende Europas 2026](/blog/schoenste-straende-europa-2026)
-- [Portugal vs. Spanien Urlaub](/blog/portugal-vs-spanien-urlaub)
+- [Algarve Reisefuehrer 2026](/blog/algarve-reisefuehrer-2026/)
+- [Schoenste Straende Europas 2026](/blog/schoenste-straende-europa-2026/)
+- [Portugal vs. Spanien Urlaub](/blog/portugal-vs-spanien-urlaub/)

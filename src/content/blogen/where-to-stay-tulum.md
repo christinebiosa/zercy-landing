@@ -35,7 +35,7 @@ The town center, 2.5 miles from the beach. Most locals live here, the cheapest r
 
 **Caution:** You need bike (15 min) or taxi ($6) to the beach. No beach in the Pueblo itself.
 
-See our [Cancún guide](/en/blog/where-to-stay-cancun) — Tulum is 1.5 hours south.
+See our [Cancún guide](/en/blog/where-to-stay-cancun/) — Tulum is 1.5 hours south.
 
 ## Hotel Zone: The boutique beach Tulum
 
@@ -69,7 +69,7 @@ Local residential neighborhood south of the Pueblo. Where digital nomads live fo
 
 **Prices:** Apartments $77-200 per night (often better booked for longer stays), boutique $110-245.
 
-See our [workation guide](/en/blog/workation-tax-rules-2026), Tulum is a top spot for digital nomads in 2026.
+See our [workation guide](/en/blog/workation-tax-rules-2026/), Tulum is a top spot for digital nomads in 2026.
 
 ## How much does a night in Tulum really cost?
 
@@ -118,6 +118,6 @@ Backpacker: $800-1,100 per person incl. flight (hostel Pueblo, tacos). Mid-range
 ---
 
 **Read more:**
-- [Where to stay in Cancún: 4 neighborhoods](/en/blog/where-to-stay-cancun)
-- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena)
-- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026)
+- [Where to stay in Cancún: 4 neighborhoods](/en/blog/where-to-stay-cancun/)
+- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena/)
+- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026/)

@@ -59,7 +59,7 @@ Ponsonby. No debate. Located about two kilometers west of the CBD, it's Auckland
 
 **Top picks:** Great Ponsonby Arthotel (boutique, lots of character, great breakfast), Ponsonby Backpackers (budget, good atmosphere), various apartments on Booking.com.
 
-If you're torn between a hotel and an apartment for a longer stay, check our [Airbnb vs Hotel comparison](/en/blog/airbnb-vs-hotel-comparison) for a full breakdown.
+If you're torn between a hotel and an apartment for a longer stay, check our [Airbnb vs Hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) for a full breakdown.
 
 ## Takapuna: North Shore Beach Base
 
@@ -107,6 +107,6 @@ Ponsonby has better restaurants, more local energy, and fewer tourists. After a 
 
 ## Read more
 
-- [Where to Stay in Sydney](/en/blog/where-to-stay-sydney)
-- [New Zealand Travel Guide: The Complete Road Trip](/en/blog/new-zealand-travel-guide)
-- [Where to Stay in Bali](/en/blog/where-to-stay-bali)
+- [Where to Stay in Sydney](/en/blog/where-to-stay-sydney/)
+- [New Zealand Travel Guide: The Complete Road Trip](/en/blog/new-zealand-travel-guide/)
+- [Where to Stay in Bali](/en/blog/where-to-stay-bali/)

@@ -51,7 +51,7 @@ The neighborhood isn't ideal for day one, but it's perfect for everything after.
 
 **Top picks:** Maison du Plateau (charming boutique hotel in the heart of the neighborhood), Hotel 10 (design hotel popular with creative visitors), Le Saint-Sulpice (boutique suites positioned between the Plateau and Vieux-Montréal).
 
-Planning Montreal as part of a longer Canada trip with Toronto? The [Toronto neighborhood guide](/en/blog/where-to-stay-toronto) covers the English-speaking sister city in the same detail.
+Planning Montreal as part of a longer Canada trip with Toronto? The [Toronto neighborhood guide](/en/blog/where-to-stay-toronto/) covers the English-speaking sister city in the same detail.
 
 ## When Is the Best Time to Visit Montreal?
 
@@ -69,7 +69,7 @@ Mile End sits north of the Plateau between Saint-Laurent and Park Avenue. Within
 
 **Top picks:** Hotel Zéro 1 (near Mile End, design hotel popular with a creative clientele), Le Baluchon (small boutique guesthouse with personal service), apartment rentals in renovated triplex buildings (the local and more affordable alternative).
 
-To make the most of Montreal's food culture, the [food travel guide](/en/blog/food-travel-eat-like-a-local) covers practical strategies for eating like a local in any city.
+To make the most of Montreal's food culture, the [food travel guide](/en/blog/food-travel-eat-like-a-local/) covers practical strategies for eating like a local in any city.
 
 ## NDG/Côte-des-Neiges: Quiet Montreal
 
@@ -117,6 +117,6 @@ Montréal smoked meat is a Jewish deli tradition brought by Eastern European imm
 ---
 
 **Read more:**
-- [Where to Stay in Toronto: The 5 Neighborhoods](/en/blog/where-to-stay-toronto)
-- [Food Travel: Eating Like a Local Worldwide](/en/blog/food-travel-eat-like-a-local)
-- [Train Travel in Europe: Routes, Tips and Apps](/en/blog/train-travel-europe)
+- [Where to Stay in Toronto: The 5 Neighborhoods](/en/blog/where-to-stay-toronto/)
+- [Food Travel: Eating Like a Local Worldwide](/en/blog/food-travel-eat-like-a-local/)
+- [Train Travel in Europe: Routes, Tips and Apps](/en/blog/train-travel-europe/)

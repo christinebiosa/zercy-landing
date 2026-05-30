@@ -54,7 +54,7 @@ Hoteles: de 80 a 250 euros.
 **Recomendación:**
 - **The Pontchartrain Hotel** (hotel histórico restaurado, Margaret Place, aprox. 180 €)
 
-Para otros destinos del sur de EE.UU. y el Caribe americano, consulta también [dónde alojarse en Miami](/es/blog/donde-alojarse-miami) y [dónde alojarse en Nueva York](/es/blog/donde-alojarse-nueva-york).
+Para otros destinos del sur de EE.UU. y el Caribe americano, consulta también [dónde alojarse en Miami](/es/blog/donde-alojarse-miami/) y [dónde alojarse en Nueva York](/es/blog/donde-alojarse-nueva-york/).
 
 ## Marigny: La música auténtica de Nueva Orleans
 
@@ -95,6 +95,6 @@ En las zonas turísticas (French Quarter, Garden District, Magazine Street) sí 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Miami: South Beach, Brickell o Wynwood](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Nueva York: Midtown, Brooklyn o Upper West Side](/es/blog/donde-alojarse-nueva-york)
-- [Dónde alojarse en Los Ángeles: Santa Mónica, Hollywood o Downtown](/es/blog/donde-alojarse-los-angeles)
+- [Dónde alojarse en Miami: South Beach, Brickell o Wynwood](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Nueva York: Midtown, Brooklyn o Upper West Side](/es/blog/donde-alojarse-nueva-york/)
+- [Dónde alojarse en Los Ángeles: Santa Mónica, Hollywood o Downtown](/es/blog/donde-alojarse-los-angeles/)

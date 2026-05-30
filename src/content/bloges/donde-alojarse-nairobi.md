@@ -55,7 +55,7 @@ Para viajeros de negocios y quienes usan Nairobi como escala entre tramos de saf
 - **The Tribe Hotel:** En el cercano Gigiri, pero asociado al eje Westlands-Gigiri. Colección de arte africano, diseño cuidado, siempre bien valorado.
 - **Serena Hotel Nairobi:** Técnicamente en Upper Hill, pero central para ambos barrios. Piscina en jardín tropical, carácter histórico.
 
-Para los viajeros que añaden Ciudad del Cabo al viaje, nuestra guía de [barrios de Ciudad del Cabo](/es/blog/donde-alojarse-ciudad-del-cabo) es una referencia útil.
+Para los viajeros que añaden Ciudad del Cabo al viaje, nuestra guía de [barrios de Ciudad del Cabo](/es/blog/donde-alojarse-ciudad-del-cabo/) es una referencia útil.
 
 ## Gigiri: seguridad y ambiente diplomático
 
@@ -104,6 +104,6 @@ Unos 250 km, cinco o seis horas en coche o 45 minutos en avión de campo desde e
 ---
 
 **Leer más:**
-- [Dónde alojarse en Ciudad del Cabo: 5 barrios comparados](/es/blog/donde-alojarse-ciudad-del-cabo)
-- [Dónde alojarse en Marrakech: Medina o Guéliz](/es/blog/donde-alojarse-marrakech)
-- [Dónde alojarse en Miami: South Beach y más allá](/es/blog/donde-alojarse-miami)
+- [Dónde alojarse en Ciudad del Cabo: 5 barrios comparados](/es/blog/donde-alojarse-ciudad-del-cabo/)
+- [Dónde alojarse en Marrakech: Medina o Guéliz](/es/blog/donde-alojarse-marrakech/)
+- [Dónde alojarse en Miami: South Beach y más allá](/es/blog/donde-alojarse-miami/)

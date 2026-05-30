@@ -94,6 +94,6 @@ A pint of Guinness in Temple Bar or the tourist zone costs 7-8 EUR. In local pub
 ---
 
 **Read more:**
-- [Where to Stay in London: Soho or Shoreditch?](/en/blog/where-to-stay-london)
-- [Where to Stay in Edinburgh: Old Town or New Town?](/en/blog/where-to-stay-edinburgh)
-- [Where to Stay in Amsterdam: Canal Ring or Jordaan?](/en/blog/where-to-stay-amsterdam)
+- [Where to Stay in London: Soho or Shoreditch?](/en/blog/where-to-stay-london/)
+- [Where to Stay in Edinburgh: Old Town or New Town?](/en/blog/where-to-stay-edinburgh/)
+- [Where to Stay in Amsterdam: Canal Ring or Jordaan?](/en/blog/where-to-stay-amsterdam/)

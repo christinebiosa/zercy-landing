@@ -93,11 +93,11 @@ Northbridge hat die günstigsten Hotels und Hostels im stadtnahen Bereich. Für 
 
 ### Was sollte man in Perth unbedingt gesehen haben?
 
-Kings Park (kostenlos, bester Stadtblick, Wildblumen im September), Cottesloe Beach Sonnenuntergang, Fremantle Markets (freitags bis sonntags), Rottnest Island mit Quokkas, Swan Valley Weinregion (30 Minuten östlich). Der [Australien Rundreise-Guide](/blog/australien-rundreise-route) zeigt, wie Perth in die Gesamtroute passt.
+Kings Park (kostenlos, bester Stadtblick, Wildblumen im September), Cottesloe Beach Sonnenuntergang, Fremantle Markets (freitags bis sonntags), Rottnest Island mit Quokkas, Swan Valley Weinregion (30 Minuten östlich). Der [Australien Rundreise-Guide](/blog/australien-rundreise-route/) zeigt, wie Perth in die Gesamtroute passt.
 
 ---
 
 **Mehr lesen:**
-- [Australien Rundreise: Die beste Route von Ost nach West](/blog/australien-rundreise-route)
-- [Wo übernachten in Brisbane: Die besten Viertel](/blog/wo-uebernachten-brisbane)
-- [Wo übernachten in Melbourne: City, Fitzroy oder St Kilda?](/blog/wo-uebernachten-melbourne)
+- [Australien Rundreise: Die beste Route von Ost nach West](/blog/australien-rundreise-route/)
+- [Wo übernachten in Brisbane: Die besten Viertel](/blog/wo-uebernachten-brisbane/)
+- [Wo übernachten in Melbourne: City, Fitzroy oder St Kilda?](/blog/wo-uebernachten-melbourne/)

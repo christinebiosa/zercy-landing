@@ -69,6 +69,6 @@ El khao niaw (arroz glutinoso al vapor) es la base de cada comida. El larb es un
 
 ## Más artículos
 
-- [Camboya: Guía de viaje con Angkor Wat y los mejores highlights](/es/blog/camboya-guia-viaje-highlights)
-- [Vietnam 2 semanas: De Hanoi a Ho Chi Minh](/es/blog/vietnam-2-semanas-ruta)
-- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico)
+- [Camboya: Guía de viaje con Angkor Wat y los mejores highlights](/es/blog/camboya-guia-viaje-highlights/)
+- [Vietnam 2 semanas: De Hanoi a Ho Chi Minh](/es/blog/vietnam-2-semanas-ruta/)
+- [Sudeste asiático con poco dinero: Cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico/)

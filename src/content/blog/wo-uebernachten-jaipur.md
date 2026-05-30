@@ -55,7 +55,7 @@ Oktober bis März ist die klar beste Zeit. Angenehme Temperaturen zwischen 15 un
 
 Bani Park liegt zwischen der Altstadt und Civil Lines. Ruhig, grün, ohne den Markt-Stress der Pink City. Viele kleine Gästehäuser und Boutique-Hotels, die in alten Herrenhäusern untergebracht sind. Beliebte Wahl für Rucksackreisende und alle, die länger bleiben und kein Vermögen ausgeben wollen. Wer morgens zum Yoga und abends in ein gutes Restaurant will, ist hier ideal aufgehoben.
 
-Wenn du auch [Mumbai](/blog/wo-uebernachten-mumbai) oder [Delhi](/blog/wo-uebernachten-delhi) besuchst, lohnt es sich, die Hotelwahl im Voraus zu koordinieren. Das Golden Triangle lässt sich gut als Einheit planen.
+Wenn du auch [Mumbai](/blog/wo-uebernachten-mumbai/) oder [Delhi](/blog/wo-uebernachten-delhi/) besuchst, lohnt es sich, die Hotelwahl im Voraus zu koordinieren. Das Golden Triangle lässt sich gut als Einheit planen.
 
 **Wer hier richtig liegt:** Budget-Reisende, Boutique-Liebhaber, Langzeitaufenthalte, Solo-Traveler.
 
@@ -77,7 +77,7 @@ Im Süden der Stadt. Einkaufszentren wie das Pink Square Mall, viele Restaurants
 
 Der Korridor entlang der Amer Road führt zum bekanntesten Monument Jaipurs. Das Amber Fort liegt auf einem Hügel, Elefanten-Trekking (heute kontrovers und weitgehend ersetzt durch Jeep-Touren), Ausblick auf die umliegende Hügellandschaft. Hotels entlang dieser Route sind oft in alten Havelis untergebracht oder als Resorts mit Sicht auf die Festung konzipiert. Nicht zentral, aber unschlagbar in Atmosphäre.
 
-Für Familien mit Kindern ist dieser Korridor besonders gut: Kein dichter Stadtverkehr, Platz, oft große Gärten. Wer [Goa](/blog/wo-uebernachten-goa) anschließt, hat eine gute Kombination: Jaipur für Geschichte, Goa für Strand.
+Für Familien mit Kindern ist dieser Korridor besonders gut: Kein dichter Stadtverkehr, Platz, oft große Gärten. Wer [Goa](/blog/wo-uebernachten-goa/) anschließt, hat eine gute Kombination: Jaipur für Geschichte, Goa für Strand.
 
 **Wer hier richtig liegt:** Luxusreisende, Familien, alle die Heritage-Hotels als Teil des Erlebnisses sehen.
 
@@ -98,7 +98,7 @@ Was du dort bekommst:
 
 Direkt beim Heritage-Hotel zu buchen lohnt sich manchmal, wenn du spezielle Pakete (Sightseeing-Transfers, Dinner-Arrangements) haben willst. Für alles andere: Preisvergleich auf Booking.com, dann entscheiden.
 
-Lies auch: [Unsere Reiseversicherungs-Analyse](/blog/reiseversicherung-was-lohnt-sich), damit du bei Stornierungen abgesichert bist.
+Lies auch: [Unsere Reiseversicherungs-Analyse](/blog/reiseversicherung-was-lohnt-sich/), damit du bei Stornierungen abgesichert bist.
 
 ---
 
@@ -125,6 +125,6 @@ Zwei volle Tage reichen für die Highlights: Amber Fort, Hawa Mahal, Stadtpalast
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Delhi: Stadtteile und Hotels](/blog/wo-uebernachten-delhi)
-- [Wo übernachten in Mumbai: Stadtteile und Hotels](/blog/wo-uebernachten-mumbai)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Wo übernachten in Delhi: Stadtteile und Hotels](/blog/wo-uebernachten-delhi/)
+- [Wo übernachten in Mumbai: Stadtteile und Hotels](/blog/wo-uebernachten-mumbai/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

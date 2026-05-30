@@ -77,6 +77,6 @@ Fuerteventura has the longest coastline of all the Canary Islands and the whites
 
 ## Read more
 
-- [Where to Stay on Lanzarote](/en/blog/where-to-stay-lanzarote)
-- [Where to Stay on Tenerife](/en/blog/where-to-stay-tenerife)
-- [Where to Stay in Palma de Mallorca](/en/blog/where-to-stay-palma-de-mallorca)
+- [Where to Stay on Lanzarote](/en/blog/where-to-stay-lanzarote/)
+- [Where to Stay on Tenerife](/en/blog/where-to-stay-tenerife/)
+- [Where to Stay in Palma de Mallorca](/en/blog/where-to-stay-palma-de-mallorca/)

@@ -39,7 +39,7 @@ Si tu plan es recorrer monumentos durante el día, visitar los museos nacionales
 
 Mejores opciones: **Hotel Kalemi 2** (ambiente histórico, cerca de la plaza), **Rogner Hotel Tirana** (estándar internacional, piscina, orientado a negocios), **Art Hotel** (pequeño hotel boutique, carácter local).
 
-Si quieres explorar más allá de Tirana, la [guía de la Riviera albanesa](/es/blog/albania-riviera-escondida) es el siguiente paso natural. La costa está a menos de tres horas.
+Si quieres explorar más allá de Tirana, la [guía de la Riviera albanesa](/es/blog/albania-riviera-escondida/) es el siguiente paso natural. La costa está a menos de tres horas.
 
 ## Pazari i Ri: Para los amantes del mercado y el street food
 
@@ -47,7 +47,7 @@ Pazari i Ri es el Mercado Nuevo de Tirana. Verduras frescas, queso local, produc
 
 Mejores opciones: **Veliera Boutique Hotel** (tranquilo, cuidado, cerca del mercado), **Hotel Arvi** (económico, buenas reseñas), apartamentos y habitaciones económicas a través de Booking.
 
-Si planeas un road trip por la región, Tirana es un buen punto de partida. La [ruta road trip por los Balcanes](/es/blog/balcanes-road-trip-ruta) cubre las mejores etapas.
+Si planeas un road trip por la región, Tirana es un buen punto de partida. La [ruta road trip por los Balcanes](/es/blog/balcanes-road-trip-ruta/) cubre las mejores etapas.
 
 ## ¿Cuándo es la mejor época para visitar Tirana?
 
@@ -65,7 +65,7 @@ El Parque Nacional de Dajti está justo en el límite de la ciudad. El teleféri
 
 Mejores opciones: **Dajti Ekspres Hotel** (junto a la estación de montaña, vistas a los picos), **casas rurales en las estribaciones** cerca de la estación del teleférico.
 
-Tirana también es un excelente punto de partida para el [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena), especialmente si vas a explorar zonas montañosas y rutas menos trilladas.
+Tirana también es un excelente punto de partida para el [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/), especialmente si vas a explorar zonas montañosas y rutas menos trilladas.
 
 ## ¿Dónde deberías reservar al final?
 
@@ -91,6 +91,6 @@ La Plaza Skanderbeg con la Mezquita Et'hem Bey, el Museo Nacional, las exposicio
 
 ## Más sobre los Balcanes
 
-- [Riviera albanesa: costa escondida en el Mediterráneo](/es/blog/albania-riviera-escondida)
-- [Road trip por los Balcanes: las mejores etapas](/es/blog/balcanes-road-trip-ruta)
-- [¿Merece la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena)
+- [Riviera albanesa: costa escondida en el Mediterráneo](/es/blog/albania-riviera-escondida/)
+- [Road trip por los Balcanes: las mejores etapas](/es/blog/balcanes-road-trip-ruta/)
+- [¿Merece la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena/)

@@ -100,7 +100,7 @@ Für London ist [Booking.com](https://www.booking.com) klar die beste Plattform:
 
 Direkter Hotel-Buchung lohnt nur bei Top-Hotels (Savoy, Claridge's) für Welcome-Drinks und mögliche Upgrades.
 
-Lies dazu auch unseren [Hidden City Ticketing-Guide](/blog/hidden-city-ticketing-erklaert), London ist Top-Hub für diesen Trick.
+Lies dazu auch unseren [Hidden City Ticketing-Guide](/blog/hidden-city-ticketing-erklaert/), London ist Top-Hub für diesen Trick.
 
 ---
 
@@ -127,6 +127,6 @@ Backpacker: 1.000-1.400 GBP pro Person inkl. Flug (Hostel, Pub-Essen, Public Tra
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
-- [Wo übernachten in Amsterdam: Die 5 Stadtteile](/blog/wo-uebernachten-amsterdam)
-- [Hidden City Ticketing: So sparst du legal](/blog/hidden-city-ticketing-erklaert)
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris/)
+- [Wo übernachten in Amsterdam: Die 5 Stadtteile](/blog/wo-uebernachten-amsterdam/)
+- [Hidden City Ticketing: So sparst du legal](/blog/hidden-city-ticketing-erklaert/)

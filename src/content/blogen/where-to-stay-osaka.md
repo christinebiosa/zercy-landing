@@ -96,6 +96,6 @@ Namba and Dotonbori are unbeatable for street food: takoyaki, kushikatsu, okonom
 ---
 
 **Read more:**
-- [Where to Stay in Tokyo: The 5 Neighborhoods](/en/blog/where-to-stay-tokyo)
-- [Japan Beyond Tokyo: Kyoto, Nara, Hiroshima](/en/blog/japan-beyond-tokyo-guide)
-- [Where to Stay in Seoul: Gangnam or Hongdae?](/en/blog/where-to-stay-seoul)
+- [Where to Stay in Tokyo: The 5 Neighborhoods](/en/blog/where-to-stay-tokyo/)
+- [Japan Beyond Tokyo: Kyoto, Nara, Hiroshima](/en/blog/japan-beyond-tokyo-guide/)
+- [Where to Stay in Seoul: Gangnam or Hongdae?](/en/blog/where-to-stay-seoul/)

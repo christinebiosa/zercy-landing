@@ -63,7 +63,7 @@ Realistic daily budget for two: $165 to $275, excluding flights.
 
 For logistics, Zercy helps with route planning: compare island combinations, sort flight options, check rental car prices. Save your route in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything in one place when booking.
 
-If you enjoy multi-island trips, see also our [Croatia Island Hopping guide](/en/blog/croatia-island-hopping) or the [Greek Islands comparison](/en/blog/greek-islands-comparison) for European alternatives.
+If you enjoy multi-island trips, see also our [Croatia Island Hopping guide](/en/blog/croatia-island-hopping/) or the [Greek Islands comparison](/en/blog/greek-islands-comparison/) for European alternatives.
 
 ---
 
@@ -88,6 +88,6 @@ A valid passport and proof of onward travel for most islands. Many Caribbean isl
 ---
 
 **Read more:**
-- [Croatia Island Hopping: The Adriatic Route](/en/blog/croatia-island-hopping)
-- [Greek Islands: Which One is Right for You?](/en/blog/greek-islands-comparison)
-- [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026)
+- [Croatia Island Hopping: The Adriatic Route](/en/blog/croatia-island-hopping/)
+- [Greek Islands: Which One is Right for You?](/en/blog/greek-islands-comparison/)
+- [Best Beaches in Europe 2026](/en/blog/best-beaches-europe-2026/)

@@ -26,7 +26,7 @@ Der JR Pass lohnt sich, wenn du mehrere Städte mit dem Shinkansen verbindest. T
 
 Wenn du aber nur in einer Stadt bleibst oder kurze Strecken in Tokio oder Osaka fährst, ist die IC Card (Suica oder ICOCA) günstiger. Diese aufladbare Karte funktioniert in U-Bahnen, Bussen, Zügen und sogar in Convenience Stores. Für einen reinen Tokio-Aufenthalt zahlt man pro Fahrt oft unter 2 Euro. Kein Grund für einen Pass.
 
-Für eine Drei-Wochen-Reise durch ganz Japan empfehlen wir den [Japan 3-Wochen-Route Artikel](/blog/japan-3-wochen-route). Für kürzere Trips oder Tokio-fokussierte Reisen lieber auf die IC Card setzen.
+Für eine Drei-Wochen-Reise durch ganz Japan empfehlen wir den [Japan 3-Wochen-Route Artikel](/blog/japan-3-wochen-route/). Für kürzere Trips oder Tokio-fokussierte Reisen lieber auf die IC Card setzen.
 
 ## Was kostet Essen wirklich in Japan?
 
@@ -38,7 +38,7 @@ Das ist der größte Mythos rund um Japan-Reisen. Essen ist günstig. Teilweise 
 
 **Izakaya zu Mittag.** Viele Izakayas (japanische Kneipen) öffnen mittags und bieten ein Lunch-Set an: Hauptgericht, Miso, Reis, Salat für 8 bis 12 Euro. Abends dieselben Gerichte kosten doppelt so viel. Mittagessen ist die preiswerteste Mahlzeit in Japan.
 
-**Sushi vom Laufband.** Kaiten-Sushi wie bei Sushiro oder Kura Sushi: ab 1 Euro pro Teller. Ein satter Mittagstisch kostet 10 bis 15 Euro. Das gilt auch für Tokio-Foodie-Erlebnisse, die du dir im [Tokio-Foodie-Reise-Artikel](/blog/tokio-foodie-reise) detailliert anschauen kannst.
+**Sushi vom Laufband.** Kaiten-Sushi wie bei Sushiro oder Kura Sushi: ab 1 Euro pro Teller. Ein satter Mittagstisch kostet 10 bis 15 Euro. Das gilt auch für Tokio-Foodie-Erlebnisse, die du dir im [Tokio-Foodie-Reise-Artikel](/blog/tokio-foodie-reise/) detailliert anschauen kannst.
 
 Tagesbudget Essen realistisch: 15 bis 25 Euro, wenn du mischst (Conbini morgens, Ramen mittags, Izakaya abends).
 
@@ -54,7 +54,7 @@ Die Unterkunft ist der variabelste Kostenfaktor. Hier die Optionen von günstig 
 
 **Business Hotels.** Kette wie Toyoko Inn oder Dormy Inn: sauber, funktional, Frühstück manchmal inklusive. Einzelzimmer ab 50 bis 70 Euro in zentraler Lage. Das Preis-Leistungs-Verhältnis ist exzellent.
 
-Wer günstig fliegen will, bekommt konkrete Tricks im [Günstig Fliegen-Artikel](/blog/guenstig-fliegen-tipps).
+Wer günstig fliegen will, bekommt konkrete Tricks im [Günstig Fliegen-Artikel](/blog/guenstig-fliegen-tipps/).
 
 ## Was kostet Sightseeing wirklich?
 
@@ -103,6 +103,6 @@ Im Convenience Store (7-Eleven, FamilyMart, Lawson) zahlt man 3 bis 5 Euro für 
 ---
 
 **Mehr lesen:**
-- [Japan 3-Wochen-Route: Komplette Streckenplanung](/blog/japan-3-wochen-route)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Nachtzüge Europa 2026: Alles was du wissen musst](/blog/nachtzuege-europa-2026)
+- [Japan 3-Wochen-Route: Komplette Streckenplanung](/blog/japan-3-wochen-route/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Nachtzüge Europa 2026: Alles was du wissen musst](/blog/nachtzuege-europa-2026/)

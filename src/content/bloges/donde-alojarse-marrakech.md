@@ -51,7 +51,7 @@ Los riads son el corazón de la experiencia en Marrakech. Desde fuera, una puert
 
 Para una primera visita a Marrakech: alojarse en un riad en la Medina es prácticamente obligatorio. La diferencia con un hotel convencional de cadena es total.
 
-Para comparar con otros destinos con arquitectura histórica única, consulta también [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul) y [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa).
+Para comparar con otros destinos con arquitectura histórica única, consulta también [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul/) y [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa/).
 
 ## Guéliz: Para quienes prefieren la comodidad moderna
 
@@ -98,6 +98,6 @@ El dírham marroquí (MAD). El cambio se puede hacer en los bancos o en las casa
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Estambul: ¿Sultanahmet o Beyoğlu?](/es/blog/donde-alojarse-estambul)
-- [Dónde alojarse en Lisboa: Alfama, Chiado o Príncipe Real](/es/blog/donde-alojarse-lisboa)
-- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona)
+- [Dónde alojarse en Estambul: ¿Sultanahmet o Beyoğlu?](/es/blog/donde-alojarse-estambul/)
+- [Dónde alojarse en Lisboa: Alfama, Chiado o Príncipe Real](/es/blog/donde-alojarse-lisboa/)
+- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona/)

@@ -79,6 +79,6 @@ Quebec y las Marítimas (New Brunswick, Nueva Escocia) son considerados los luga
 
 ## Más artículos
 
-- [Escandinavia: La Ruta Completa](/es/blog/escandinavia-ruta-completa)
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial)
+- [Escandinavia: La Ruta Completa](/es/blog/escandinavia-ruta-completa/)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial/)

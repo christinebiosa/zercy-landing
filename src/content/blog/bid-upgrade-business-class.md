@@ -48,11 +48,11 @@ Low-Cost-Airlines wie Ryanair, easyJet oder Wizz Air haben kein Bid-System. Das 
 
 Es gibt Situationen, in denen ein Bid Upgrade die falsche Wahl ist.
 
-Wenn Business Class aktuell weniger als 200 bis 300 Euro über Economy liegt, buche direkt. Das kommt selten vor, aber auf Strecken mit schlechter Auslastung oder in der Nebensaison gibt es solche Preisfenster. [Günstige Business-Class-Tickets findest du mit den richtigen Tricks](/blog/business-class-ohne-meilen). Manchmal reichen bereits die Techniken aus dem Artikel.
+Wenn Business Class aktuell weniger als 200 bis 300 Euro über Economy liegt, buche direkt. Das kommt selten vor, aber auf Strecken mit schlechter Auslastung oder in der Nebensaison gibt es solche Preisfenster. [Günstige Business-Class-Tickets findest du mit den richtigen Tricks](/blog/business-class-ohne-meilen/). Manchmal reichen bereits die Techniken aus dem Artikel.
 
 Wenn du den Sitzplatz garantiert brauchst (Meeting am nächsten Morgen, medizinische Notwendigkeit, reisebedingte Übermüdung), setz nicht auf ein Gebot. Das Ergebnis ist unsicher.
 
-Und wenn die Differenz zwischen Economy und Business so hoch ist, dass dein realistisches Gebot trotzdem über 600 Euro liegt, vergleiche kurz mit [Google Flights Tricks](/blog/google-flights-tricks-tipps-2026). Dort findest du manchmal Last-Minute-Angebote in Business zu ähnlichen Preisen.
+Und wenn die Differenz zwischen Economy und Business so hoch ist, dass dein realistisches Gebot trotzdem über 600 Euro liegt, vergleiche kurz mit [Google Flights Tricks](/blog/google-flights-tricks-tipps-2026/). Dort findest du manchmal Last-Minute-Angebote in Business zu ähnlichen Preisen.
 
 ## Gibt es Alternativen zum Bid Upgrade?
 
@@ -60,7 +60,7 @@ Ja, zwei davon sind sogar kostenlos.
 
 **Gate-Upgrade:** Kurz vor Abflug am Gate direkt fragen. "Gibt es noch Plätze in Business, die ich upgraden könnte?" Airlines upgraden manchmal gratis bei Überbuchung in Economy oder wenn Business nicht ausgebucht ist. Die Erfolgschancen sind gering, aber der Aufwand auch. Das Schlimmste das passieren kann: ein Nein.
 
-**Status-Upgrade:** Wer einen Vielfliegerstatus hat (auch niedrige Stufen wie Miles & More Senator oder British Airways Bronze), wird bei Upgrades bevorzugt. Nicht automatisch, aber bei Bid-Geboten identischer Höhe gewinnen Statuskunden fast immer. [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket) zeigt, was mit Status noch drin ist.
+**Status-Upgrade:** Wer einen Vielfliegerstatus hat (auch niedrige Stufen wie Miles & More Senator oder British Airways Bronze), wird bei Upgrades bevorzugt. Nicht automatisch, aber bei Bid-Geboten identischer Höhe gewinnen Statuskunden fast immer. [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket/) zeigt, was mit Status noch drin ist.
 
 **Miles-Upgrade:** Hast du Meilen oder Avios aus früheren Flügen oder einer Kreditkarte, kann ein Upgrade damit günstiger sein als ein Bargebot. Lufthansa, British Airways und Singapore Airlines ermöglichen Upgrades mit Punkten, teils in Kombination mit einem niedrigen Bargebot (Cash + Miles).
 
@@ -86,4 +86,4 @@ Nichts. Du fliegst wie gebucht in Economy, es wird kein Betrag belastet, und du 
 
 Auf Interkontinentalflügen (8+ Stunden) liegen erfolgreiche Gebote oft zwischen 150 und 500 Euro zusätzlich zum Economy-Preis. Die Faustregel: 20 bis 30 Prozent der Preisdifferenz zwischen deinem Economy-Ticket und dem aktuellen Business-Class-Tarif. Zu niedrig bieten ist häufiger der Fehler als zu hoch bieten.
 
-**Mehr lesen:** [Business Class ohne Meilen: die cleveren Alternativen](/blog/business-class-ohne-meilen) · [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket) · [Günstig fliegen: 11 Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps)
+**Mehr lesen:** [Business Class ohne Meilen: die cleveren Alternativen](/blog/business-class-ohne-meilen/) · [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket/) · [Günstig fliegen: 11 Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps/)

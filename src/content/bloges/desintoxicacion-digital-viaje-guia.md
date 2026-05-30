@@ -16,7 +16,7 @@ Cada vez más viajeros descubren lo mismo: el descanso real solo comienza cuando
 
 No es una tendencia de influencers de bienestar. Es una respuesta a un estado real de agotamiento. Los estudios muestran que 3 a 5 días completamente desconectados reducen el cortisol de forma medible. Ese es la hormona del estrés que se mantiene crónicamente elevada cuando siempre estás disponible. El sueño mejora. La concentración vuelve. Y los recuerdos del viaje se fijan, porque estuviste presente cuando ocurrieron.
 
-Para muchos viajeros, el [slow travel](/es/blog/slow-travel-que-significa) es el primer paso. La desintoxicación digital es la versión más comprometida.
+Para muchos viajeros, el [slow travel](/es/blog/slow-travel-que-significa/) es el primer paso. La desintoxicación digital es la versión más comprometida.
 
 ## ¿Qué destinos son los mejores para un viaje de desintoxicación digital?
 
@@ -28,7 +28,7 @@ No cualquier lugar te obliga a soltar el teléfono. Algunas ciudades son ruidosa
 
 **Los monasterios como alojamiento** son una opción subestimada. En Austria, Alemania, Francia y Cataluña, los monasterios ofrecen habitaciones para visitantes. Las reglas son simples: sin ruido, sin pantallas, horarios estructurados. Costo: a menudo entre 35 y 55 euros por noche con comidas incluidas.
 
-Las [Islas Feroe](/es/blog/islas-feroe-guia) son únicas. Casi sin turismo masivo, infraestructura mínima, ningún algoritmo diciéndote qué ver a continuación.
+Las [Islas Feroe](/es/blog/islas-feroe-guia/) son únicas. Casi sin turismo masivo, infraestructura mínima, ningún algoritmo diciéndote qué ver a continuación.
 
 ## Desconexión total o pausa de redes sociales: ¿cuál funciona mejor?
 
@@ -52,7 +52,7 @@ La preparación es la parte crítica. Desconectarte sin ella te lleva a situacio
 
 Camp Grounded en Estados Unidos fue uno de los primeros retiros de desintoxicación con reglas claras sin dispositivos. El modelo se ha expandido por todo el mundo. Su enfoque está explicado en [camp-grounded.org](https://www.campgrounded.org) para quienes quieran entender el concepto.
 
-Para un [viaje de bienestar y spa](/es/blog/viajes-wellness-spa-destinos), vale la pena buscar ecolodges que deliberadamente no ofrecen WiFi. No es una concesión al presupuesto. Es el objetivo.
+Para un [viaje de bienestar y spa](/es/blog/viajes-wellness-spa-destinos/), vale la pena buscar ecolodges que deliberadamente no ofrecen WiFi. No es una concesión al presupuesto. Es el objetivo.
 
 ## ¿Cuánto cuesta un viaje de desintoxicación digital?
 
@@ -60,7 +60,7 @@ Menos de lo que esperarías. Esa es una de las partes más sorprendentes.
 
 Monasterios: 35 a 55 euros por noche, con frecuencia incluyendo comidas. Ecolodges en los Pirineos: 40 a 70 euros por noche. Cabañas de montaña en Noruega: desde 30 euros para alojamiento básico, hasta 90 euros para opciones más cómodas. Comparado con un hotel en Barcelona o Ámsterdam que fácilmente cuesta el triple, viajar sin conexión resulta económico.
 
-La [guía de trekking para principiantes](/es/blog/trekking-principiantes-guia-mundial) muestra cómo vivir experiencias similares en otras regiones alpinas. La actividad física y el tiempo desconectado se refuerzan mutuamente de formas que difícilmente se replican en otro contexto.
+La [guía de trekking para principiantes](/es/blog/trekking-principiantes-guia-mundial/) muestra cómo vivir experiencias similares en otras regiones alpinas. La actividad física y el tiempo desconectado se refuerzan mutuamente de formas que difícilmente se replican en otro contexto.
 
 ---
 
@@ -68,9 +68,9 @@ Zercy te ayuda a encontrar opciones, comparar precios y evaluar alternativas ant
 
 ## Leer más
 
-- [Slow travel: qué significa de verdad](/es/blog/slow-travel-que-significa)
-- [Viajes wellness y spa: mejores destinos](/es/blog/viajes-wellness-spa-destinos)
-- [Islas Feroe: guía completa](/es/blog/islas-feroe-guia)
+- [Slow travel: qué significa de verdad](/es/blog/slow-travel-que-significa/)
+- [Viajes wellness y spa: mejores destinos](/es/blog/viajes-wellness-spa-destinos/)
+- [Islas Feroe: guía completa](/es/blog/islas-feroe-guia/)
 
 ---
 

@@ -61,7 +61,7 @@ Anjuna es el centro hippie histórico de Goa. La escena de trance de Goa empezó
 
 **Opciones destacadas:** Laguna Anjuna (resort boutique con piscina, atmósfera relajada), Leoney Resort (resort clásico con vistas al mar), Vagator Beach Resort (directamente en el acantilado, más asequible).
 
-Para una comparación similar entre playas de fiesta y ambientes alternativos, consulta nuestra guía de [Dónde alojarse en Bali](/es/blog/donde-alojarse-bali).
+Para una comparación similar entre playas de fiesta y ambientes alternativos, consulta nuestra guía de [Dónde alojarse en Bali](/es/blog/donde-alojarse-bali/).
 
 ## Sur de Goa/Palolem: Lujo y tranquilidad
 
@@ -93,7 +93,7 @@ Para Goa, [Booking.com](https://www.booking.com) funciona especialmente bien:
 - Resorts de lujo (Taj Exotica, Park Hyatt) con reseñas premium confiables
 - Vista rápida de disponibilidad para fines de semana de temporada alta (se agotan rápido)
 
-Para comparar la diversidad de destinos de playa similares, consulta nuestra guía de [Dónde alojarse en Phuket](/es/blog/donde-alojarse-phuket).
+Para comparar la diversidad de destinos de playa similares, consulta nuestra guía de [Dónde alojarse en Phuket](/es/blog/donde-alojarse-phuket/).
 
 ---
 
@@ -120,6 +120,6 @@ El aeropuerto de Dabolim (y el nuevo aeropuerto de Mopa en el norte) están cone
 ---
 
 **Leer más:**
-- [Dónde alojarse en Bali: Las mejores zonas](/es/blog/donde-alojarse-bali)
-- [Dónde alojarse en Phuket: ¿Qué zona te conviene?](/es/blog/donde-alojarse-phuket)
-- [Dónde alojarse en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok)
+- [Dónde alojarse en Bali: Las mejores zonas](/es/blog/donde-alojarse-bali/)
+- [Dónde alojarse en Phuket: ¿Qué zona te conviene?](/es/blog/donde-alojarse-phuket/)
+- [Dónde alojarse en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok/)

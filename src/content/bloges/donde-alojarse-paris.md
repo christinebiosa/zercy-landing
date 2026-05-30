@@ -54,7 +54,7 @@ Los hoteles en Saint-Germain son caros incluso para estándares parisinos. Bueno
 - **Hôtel Bel Ami** (diseño moderno en Saint-Germain, aprox. 220 €)
 - **Relais Christine** (palacete del siglo XVI, aprox. 300 €)
 
-Para otras capitales europeas, consulta también [dónde alojarse en Roma](/es/blog/donde-alojarse-roma) y [dónde alojarse en Viena](/es/blog/donde-alojarse-viena).
+Para otras capitales europeas, consulta también [dónde alojarse en Roma](/es/blog/donde-alojarse-roma/) y [dónde alojarse en Viena](/es/blog/donde-alojarse-viena/).
 
 ## Montmartre: Romance, vistas y calles de artistas
 
@@ -101,6 +101,6 @@ Para el Louvre y el Museo d'Orsay: sí, especialmente en temporada alta. Las col
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Roma: Centro histórico o Trastevere](/es/blog/donde-alojarse-roma)
-- [Dónde alojarse en Viena: Innere Stadt o Neubau](/es/blog/donde-alojarse-viena)
-- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona)
+- [Dónde alojarse en Roma: Centro histórico o Trastevere](/es/blog/donde-alojarse-roma/)
+- [Dónde alojarse en Viena: Innere Stadt o Neubau](/es/blog/donde-alojarse-viena/)
+- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona/)

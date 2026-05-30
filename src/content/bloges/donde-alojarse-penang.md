@@ -47,7 +47,7 @@ Gurney Drive está al oeste de George Town, directamente frente al mar. El paseo
 
 **Mejores opciones:** G Hotel Gurney (hotel 4 estrellas bien conectado directamente en el paseo), G Hotel Kelawai (algo más económico, más tranquilo), Penang Marriott (opción premium con vistas a la piscina).
 
-Si combinas con Kuala Lumpur, lee antes nuestra guía [Dónde alojarse en Kuala Lumpur](/es/blog/donde-alojarse-kuala-lumpur).
+Si combinas con Kuala Lumpur, lee antes nuestra guía [Dónde alojarse en Kuala Lumpur](/es/blog/donde-alojarse-kuala-lumpur/).
 
 ## ¿Cuándo es la mejor época para visitar Penang?
 
@@ -63,7 +63,7 @@ Batu Ferringhi está a unos 20 minutos de George Town en la costa norte. Los res
 
 **Mejores opciones:** Hard Rock Hotel Penang (apto para familias, directamente en la playa, gran zona de piscinas), Lone Pine Hotel (clásico hotel boutique de playa con mucho ambiente), Bayview Beach Resort (sólida opción de gama media con amplias instalaciones).
 
-Para más destinos de playa en la región, consulta la guía [Dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur).
+Para más destinos de playa en la región, consulta la guía [Dónde alojarse en Singapur](/es/blog/donde-alojarse-singapur/).
 
 ## Tanjung Tokong: Barrio expat
 
@@ -97,7 +97,7 @@ Para Penang, [Booking.com](https://www.booking.com) cubre toda la gama:
 
 Si viajas en temporada alta (Año Nuevo Chino, George Town Festival): reserva con dos o tres meses de antelación. Las boutiques heritage de George Town tienen muy pocas habitaciones y se llenan rápido.
 
-Si extiendes el viaje a otros destinos del Sudeste Asiático, consulta la [guía de barrios de Singapur](/es/blog/donde-alojarse-singapur) y la [guía de Kuala Lumpur](/es/blog/donde-alojarse-kuala-lumpur).
+Si extiendes el viaje a otros destinos del Sudeste Asiático, consulta la [guía de barrios de Singapur](/es/blog/donde-alojarse-singapur/) y la [guía de Kuala Lumpur](/es/blog/donde-alojarse-kuala-lumpur/).
 
 ---
 
@@ -124,6 +124,6 @@ De noviembre a febrero es la época ideal. Temporada seca en la costa oeste, tem
 ---
 
 **Más información:**
-- [Dónde alojarse en Kuala Lumpur: Los 5 barrios](/es/blog/donde-alojarse-kuala-lumpur)
-- [Dónde alojarse en Singapur: Los 5 barrios](/es/blog/donde-alojarse-singapur)
-- [Viajar con poco dinero: consejos que funcionan](/es/blog/viajar-con-poco-dinero-consejos)
+- [Dónde alojarse en Kuala Lumpur: Los 5 barrios](/es/blog/donde-alojarse-kuala-lumpur/)
+- [Dónde alojarse en Singapur: Los 5 barrios](/es/blog/donde-alojarse-singapur/)
+- [Viajar con poco dinero: consejos que funcionan](/es/blog/viajar-con-poco-dinero-consejos/)

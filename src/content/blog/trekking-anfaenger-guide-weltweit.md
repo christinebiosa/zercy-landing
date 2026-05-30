@@ -24,7 +24,7 @@ Nicht jeder "Anfänger-Trail" ist wirklich anfängerfreundlich. Entscheidend sin
 
 **Milford Track in Neuseeland** gilt als einer der schönsten Wanderwege der Welt. 53 Kilometer durch den Fiordland-Nationalpark. Gut ausgestattet mit Hütten. Wenig Höhenunterschied. Du brauchst eine Buchung für die Hütten (ab 70 NZD pro Nacht). Perfekt für Einsteiger, die Komfort wollen, ohne auf Natur zu verzichten.
 
-**Tour du Mont Blanc (Teiletappen)** läuft rund um den höchsten Berg der Alpen durch Frankreich, Italien und die Schweiz. Die komplette Route dauert 11 Tage. Für Anfänger: Einzelne Tagesetappen zwischen Hütten. Besonders der französische Abschnitt ab Chamonix ist gut markiert und hat reichlich Unterkünfte. Mehr dazu im [Bergwandern Alpen Anfänger-Guide](/blog/bergwandern-alpen-anfaenger-guide).
+**Tour du Mont Blanc (Teiletappen)** läuft rund um den höchsten Berg der Alpen durch Frankreich, Italien und die Schweiz. Die komplette Route dauert 11 Tage. Für Anfänger: Einzelne Tagesetappen zwischen Hütten. Besonders der französische Abschnitt ab Chamonix ist gut markiert und hat reichlich Unterkünfte. Mehr dazu im [Bergwandern Alpen Anfänger-Guide](/blog/bergwandern-alpen-anfaenger-guide/).
 
 ## Was gehört zur Grundausrüstung beim Trekking?
 
@@ -75,7 +75,7 @@ Du solltest 15 bis 20 Kilometer an einem Stück gehen können, ohne am nächsten
 Der Camino de Santiago kostet ab 700 bis 1.200 Euro für 4 Wochen (Anreise, Unterkunft, Essen). Nepal-Trekking ab 800 Euro für 2 Wochen (Flug nicht inbegriffen). Peru/Machu Picchu: 1.200 bis 2.000 Euro inklusive Anreise aus Europa. Das sind realistische Budgets. Spare nicht bei Schuhen.
 
 ### Welche Versicherung brauchst du für Trekking-Reisen?
-Eine Reisekrankenversicherung mit Höhenrettungsschutz ist bei Nepal und Peru Pflicht. Standard-Krankenversicherung zahlt dort nicht. Für den Camino in Spanien reicht die europäische Krankenversichertenkarte (EHIC). Mehr dazu im Artikel [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich).
+Eine Reisekrankenversicherung mit Höhenrettungsschutz ist bei Nepal und Peru Pflicht. Standard-Krankenversicherung zahlt dort nicht. Für den Camino in Spanien reicht die europäische Krankenversichertenkarte (EHIC). Mehr dazu im Artikel [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/).
 
 ### Wann ist die beste Reisezeit für Trekking-Routen?
 Camino de Santiago: April bis Juni, September bis Oktober. Nepal: Oktober bis November, März bis April. Peru: Mai bis September. Neuseeland: November bis März (Südsommer). Vermeide Monsunzeiten. Regen macht Trails gefährlich und Aussichten verschwinden im Nebel.
@@ -84,6 +84,6 @@ Camino de Santiago: April bis Juni, September bis Oktober. Nepal: Oktober bis No
 
 ## Mehr lesen
 
-- [Bergwandern in den Alpen: Guide für Einsteiger](/blog/bergwandern-alpen-anfaenger-guide)
-- [Camino de Santiago: Alles was du wissen musst](/blog/santiago-de-compostela)
-- [Nepal Reiseguide: Die besten Highlights](/blog/nepal-reiseguide-highlights)
+- [Bergwandern in den Alpen: Guide für Einsteiger](/blog/bergwandern-alpen-anfaenger-guide/)
+- [Camino de Santiago: Alles was du wissen musst](/blog/santiago-de-compostela/)
+- [Nepal Reiseguide: Die besten Highlights](/blog/nepal-reiseguide-highlights/)

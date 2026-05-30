@@ -63,15 +63,15 @@ Wer lieber in der Stadt bleibt: Rosenborg Slot, ein Renaissanceschloss in Kopenh
 
 Kopenhagen mit dem Fahrrad in der Dämmerung ist das beste Ende eines Wochenendes in dieser Stadt. Vom Nyhavn am Kanal entlang, durch Christianshavn, ans Wasser bei Langelinie und zurück über den Hafen. Die Infrastruktur für Radfahrer ist besser als fast überall in Europa.
 
-Essen am letzten Abend: Nørreport und das Quartier um die Jægersborggade im Nørrebro-Viertel. Das ist keine Noma-Alternative, das ist das echte Kopenhagen. Restaurants mit klaren Konzepten, erreichbaren Preisen und weniger Touristenandrang. Für einen Überblick über die besten Optionen hilft der [dänische Reiseguide mit Highlights](/blog/daenemark-reiseguide-highlights).
+Essen am letzten Abend: Nørreport und das Quartier um die Jægersborggade im Nørrebro-Viertel. Das ist keine Noma-Alternative, das ist das echte Kopenhagen. Restaurants mit klaren Konzepten, erreichbaren Preisen und weniger Touristenandrang. Für einen Überblick über die besten Optionen hilft der [dänische Reiseguide mit Highlights](/blog/daenemark-reiseguide-highlights/).
 
 ## Wie teuer ist Kopenhagen wirklich?
 
 Das ist die Frage, die jeder stellt, und sie verdient eine ehrliche Antwort. Kopenhagen ist teuer. Nicht Paris-teuer, sondern Oslo-teuer. Ein Tagesbudget von 80 bis 100 Euro für zwei Mahlzeiten, ein bis zwei Eintritte und Transport ist realistisch. Wer unter dem Budget bleibt: Markthallen statt Restaurants, Wasser vom Brunnen, Fahrrad statt U-Bahn.
 
-Hotels: Ein solides Mittelklasse-Hotel liegt bei 120 bis 200 Euro die Nacht. Hostels ab 35 Euro, Airbnbs oft günstiger als Hotels, aber stark nachgefragt. Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Copenhagen) findest du die Bandbreite mit Karten-Filter nach Viertel. Den kompletten Unterkunfts-Guide nach Stadtteilen findest du hier: [Wo übernachten in Kopenhagen](/blog/wo-uebernachten-kopenhagen).
+Hotels: Ein solides Mittelklasse-Hotel liegt bei 120 bis 200 Euro die Nacht. Hostels ab 35 Euro, Airbnbs oft günstiger als Hotels, aber stark nachgefragt. Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Copenhagen) findest du die Bandbreite mit Karten-Filter nach Viertel. Den kompletten Unterkunfts-Guide nach Stadtteilen findest du hier: [Wo übernachten in Kopenhagen](/blog/wo-uebernachten-kopenhagen/).
 
-Für den Weg dorthin: Wenn du noch weitere Städte im Norden planst, lohnt sich ein Blick auf die [Skandinavien-Rundreiseroute](/blog/skandinavien-rundreise-route). Kopenhagen liegt am Anfang oder Ende fast jeder Skandinavien-Reise.
+Für den Weg dorthin: Wenn du noch weitere Städte im Norden planst, lohnt sich ein Blick auf die [Skandinavien-Rundreiseroute](/blog/skandinavien-rundreise-route/). Kopenhagen liegt am Anfang oder Ende fast jeder Skandinavien-Reise.
 
 Zercy findet dir den günstigsten Flug nach Kopenhagen und passende Hotels in einem Schritt. Speichere alles im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen nichts vergisst.
 
@@ -98,6 +98,6 @@ Den Spaziergang zur Kleinen Meerjungfrau, wenn du dafür eine Stunde einplanst. 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Kopenhagen: Hotels nach Viertel und Budget](/blog/wo-uebernachten-kopenhagen)
-- [Skandinavien-Rundreise: Die beste Route von Oslo bis Stockholm](/blog/skandinavien-rundreise-route)
-- [Dänemark Reiseguide: Was sich wirklich lohnt](/blog/daenemark-reiseguide-highlights)
+- [Wo übernachten in Kopenhagen: Hotels nach Viertel und Budget](/blog/wo-uebernachten-kopenhagen/)
+- [Skandinavien-Rundreise: Die beste Route von Oslo bis Stockholm](/blog/skandinavien-rundreise-route/)
+- [Dänemark Reiseguide: Was sich wirklich lohnt](/blog/daenemark-reiseguide-highlights/)

@@ -54,7 +54,7 @@ Was on top kommt:
 
 **Reales Budget:** Eine Woche Karibik-Kreuzfahrt (2 Personen, Balkonkabine, Getränkepaket, ein bis zwei Ausflüge, Trinkgeld, Anreise) liegt bei 3.500 bis 6.000 Euro insgesamt. Nicht die 1.000 Euro, die im Banner stehen.
 
-Wer mit dem [Kreuzfahrt-Einsteiger-Guide](/blog/kreuzfahrt-einsteiger-guide) bereits die Grundlagen kennt, ist besser vorbereitet für diese Kalkulation.
+Wer mit dem [Kreuzfahrt-Einsteiger-Guide](/blog/kreuzfahrt-einsteiger-guide/) bereits die Grundlagen kennt, ist besser vorbereitet für diese Kalkulation.
 
 ## Wann ist die beste Zeit für eine Karibik-Kreuzfahrt?
 
@@ -66,7 +66,7 @@ Mai bis November ist günstiger, aber die Hurrikan-Saison läuft offiziell von J
 
 Wer flexibel ist und Geld sparen will: Mai bis Juni und November bieten gute Kompromisse zwischen Preis und Wetter. Viele Reedereien bieten in diesen Schultermonaten Preise, die 20 bis 40 Prozent unter der Hauptsaison liegen.
 
-Zur Flugplanung in die Abflughäfen: Wie du günstige Flüge nach Miami oder Fort Lauderdale findest, erklärt der Artikel zum [richtigen Zeitpunkt für die Flugbuchung](/blog/wann-fluege-buchen).
+Zur Flugplanung in die Abflughäfen: Wie du günstige Flüge nach Miami oder Fort Lauderdale findest, erklärt der Artikel zum [richtigen Zeitpunkt für die Flugbuchung](/blog/wann-fluege-buchen/).
 
 ## Einsteiger-Tipps, die wirklich einen Unterschied machen
 
@@ -78,9 +78,9 @@ Zur Flugplanung in die Abflughäfen: Wie du günstige Flüge nach Miami oder For
 
 **Internet:** Schiffsinternet ist teuer und langsam. Für Social Media oder kurze Nachrichten reicht es. Streaming ist meist nicht möglich. In den Häfen gibt es oft freies WLAN in Cafés.
 
-**Reiseversicherung:** Bei Kreuzfahrten besonders wichtig. Eine Flugannullierung kann dazu führen, dass du das Schiff verpasst. Der Artikel zur [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich) erklärt, wann sie sich wirklich lohnt.
+**Reiseversicherung:** Bei Kreuzfahrten besonders wichtig. Eine Flugannullierung kann dazu führen, dass du das Schiff verpasst. Der Artikel zur [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) erklärt, wann sie sich wirklich lohnt.
 
-Mehr Details zum Karibik-Inselerlebnis über die Kreuzfahrt hinaus findest du im [Inselhopping-Guide für die Karibik](/blog/inselhopping-karibik-guide).
+Mehr Details zum Karibik-Inselerlebnis über die Kreuzfahrt hinaus findest du im [Inselhopping-Guide für die Karibik](/blog/inselhopping-karibik-guide/).
 
 ---
 
@@ -107,6 +107,6 @@ Typisch 6 bis 9 Stunden pro Stopp. Das reicht für einen Strandtag, eine kurze S
 ---
 
 **Mehr lesen:**
-- [Kreuzfahrt für Einsteiger: Was du wirklich wissen musst](/blog/kreuzfahrt-einsteiger-guide)
-- [Inselhopping Karibik: Die schönsten Routen](/blog/inselhopping-karibik-guide)
-- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich)
+- [Kreuzfahrt für Einsteiger: Was du wirklich wissen musst](/blog/kreuzfahrt-einsteiger-guide/)
+- [Inselhopping Karibik: Die schönsten Routen](/blog/inselhopping-karibik-guide/)
+- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/)

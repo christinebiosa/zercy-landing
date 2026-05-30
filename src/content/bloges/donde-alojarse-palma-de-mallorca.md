@@ -52,7 +52,7 @@ La [web oficial de turismo de las Islas Baleares](https://www.illesbalears.trave
 
 Mayo a junio y septiembre a octubre son los meses ideales. Entre 22 y 28°C, la catedral sin colas, restaurantes con mesa disponible. Julio y agosto: entre 30 y 36°C, todo reservado, precios en máximos anuales. Noviembre a marzo: Mallorca en modo invernada, muchos locales cerrados, pero económico y tranquilo. Los viajeros del norte de Europa llevan décadas aprovechando este secreto.
 
-Para más ideas de destinos inteligentes, consulta también nuestra guía de [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona).
+Para más ideas de destinos inteligentes, consulta también nuestra guía de [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/).
 
 ## Santa Catalina: El barrio gastronómico
 
@@ -64,7 +64,7 @@ Santa Catalina fue barrio obrero y pescador durante mucho tiempo. Hoy es el barr
 
 **Hoteles recomendados**: NAKAR Hotel (boutique con rooftop pool sobre Santa Catalina), apartamentos boutique cerca del Mercat Santa Catalina, Hotel Nixe Palace (ligeramente fuera, premium con vistas al mar).
 
-Los amantes de los barrios gastronómicos también encontrarán mucho de interés en [dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla).
+Los amantes de los barrios gastronómicos también encontrarán mucho de interés en [dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla/).
 
 ## Paseo Marítimo: Lujo frente al mar
 
@@ -123,6 +123,6 @@ El autobús es económico pero lento. El coche de alquiler es la mejor opción p
 ---
 
 **Más información:**
-- [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla)
-- [Dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid)
+- [Dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla/)
+- [Dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid/)

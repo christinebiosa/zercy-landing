@@ -64,7 +64,7 @@ Immer dabei haben solltest du:
 
 **Antragsformular:** Manche Länder haben Formulare am Schalter, andere digital auf Tablets. Wer die Daten vorab kennt (Adresse, Reisedaten, Beruf), kommt schneller durch.
 
-Für deine Reisepläne ohne Visum-Stress hilft unser [Digital Nomad Visum Guide](/blog/digital-nomad-visum-laender-2026) weiter.
+Für deine Reisepläne ohne Visum-Stress hilft unser [Digital Nomad Visum Guide](/blog/digital-nomad-visum-laender-2026/) weiter.
 
 ## Wie prüfst du Visa-Anforderungen zuverlässig vor der Reise?
 
@@ -110,6 +110,6 @@ Viele Länder erlauben VoA nur an bestimmten Einreisestellen, meist internationa
 ---
 
 **Mehr lesen:**
-- [Digital Nomad Visum: Welche Länder du wirklich wählen kannst](/blog/digital-nomad-visum-laender-2026)
-- [Reisefehler vermeiden: Die klassischen Fallen](/blog/reisefehler-vermeiden-klassische-fehler)
-- [Thailand 2 Wochen Route: Der praktische Reiseplan](/blog/suedostasien-budget-reisen)
+- [Digital Nomad Visum: Welche Länder du wirklich wählen kannst](/blog/digital-nomad-visum-laender-2026/)
+- [Reisefehler vermeiden: Die klassischen Fallen](/blog/reisefehler-vermeiden-klassische-fehler/)
+- [Thailand 2 Wochen Route: Der praktische Reiseplan](/blog/suedostasien-budget-reisen/)

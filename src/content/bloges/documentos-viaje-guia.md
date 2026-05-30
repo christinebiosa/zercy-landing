@@ -20,7 +20,7 @@ Luego, la visa. Algunos países la otorgan al llegar (visa on arrival), otros ex
 
 Las confirmaciones de reserva también van en el paquete. Vuelo, hotel, auto de alquiler. No porque te las pidan en cada control, sino porque quieres acceso inmediato si algo sale mal. Una póliza de seguro de viaje con el número de emergencias completa el mínimo indispensable.
 
-Para viajes dentro de la Unión Europea, la TSJE (Tarjeta Sanitaria Europea) cubre atención médica básica en todos los países de la UE y el EEE. La emite tu aseguradora pública de forma gratuita. Antes de armar tu carpeta de documentos, revisa nuestra [guía de vacunas para viajes](/es/blog/vacunas-viaje-guia) para ver si necesitas certificados de salud adicionales.
+Para viajes dentro de la Unión Europea, la TSJE (Tarjeta Sanitaria Europea) cubre atención médica básica en todos los países de la UE y el EEE. La emite tu aseguradora pública de forma gratuita. Antes de armar tu carpeta de documentos, revisa nuestra [guía de vacunas para viajes](/es/blog/vacunas-viaje-guia/) para ver si necesitas certificados de salud adicionales.
 
 ## ¿Cómo haces copias de seguridad digitales de tus documentos?
 
@@ -37,7 +37,7 @@ Más allá de la nube: guarda todo offline en tu teléfono también. Los PDFs y 
 
 Para organizar todas tus reservas en un solo lugar, la aplicación TripIt es una buena opción. Reenvías los correos de confirmación y TripIt construye automáticamente tu itinerario. Sin carga manual, todo centralizado.
 
-Un truco sencillo más: envíate por correo una copia del pasaporte a ti mismo y a alguien en casa. Así alguien tiene tus datos aunque pierdas el teléfono y el laptop al mismo tiempo. Para más estrategias de seguridad, nuestra [guía de emergencias en el extranjero](/es/blog/emergencia-extranjero-que-hacer) te explica paso a paso qué hacer si algo va mal.
+Un truco sencillo más: envíate por correo una copia del pasaporte a ti mismo y a alguien en casa. Así alguien tiene tus datos aunque pierdas el teléfono y el laptop al mismo tiempo. Para más estrategias de seguridad, nuestra [guía de emergencias en el extranjero](/es/blog/emergencia-extranjero-que-hacer/) te explica paso a paso qué hacer si algo va mal.
 
 ## ¿Cuándo necesitas una licencia de conducir internacional?
 
@@ -45,7 +45,7 @@ Una licencia de conducir estándar se reconoce en la mayoría de países donde e
 
 La tramitas a través de tu automóvil club nacional o en las oficinas correspondientes de tu país. Cuesta alrededor de 15 a 20 dólares o el equivalente local, es válida por un año y debe portarse siempre junto con tu licencia nacional. Las dos juntas son las que la hacen válida.
 
-Si vas a alquilar un auto, revisa nuestra [checklist de alquiler de auto](/es/blog/checklist-alquiler-coche) para ver exactamente qué documentos te pedirán en el mostrador.
+Si vas a alquilar un auto, revisa nuestra [checklist de alquiler de auto](/es/blog/checklist-alquiler-coche/) para ver exactamente qué documentos te pedirán en el mostrador.
 
 ## ¿Qué haces si te roban el pasaporte?
 
@@ -53,7 +53,7 @@ Tu primera llamada es a la embajada o el consulado de tu país más cercano. Bus
 
 La embajada emite un documento de emergencia que te permite volver a casa. Necesitas: una foto tamaño pasaporte, un comprobante de identidad (como una copia del pasaporte robado) y una denuncia ante la policía local.
 
-Por eso la copia del pasaporte importa tanto. Si la tienes guardada digitalmente y dejaste una copia con alguien en casa, el proceso en la embajada es mucho más rápido. Para entender también cómo gestionar visas y permisos con anticipación, revisa nuestra [guía de solicitud de visa](/es/blog/solicitud-visa-guia).
+Por eso la copia del pasaporte importa tanto. Si la tienes guardada digitalmente y dejaste una copia con alguien en casa, el proceso en la embajada es mucho más rápido. Para entender también cómo gestionar visas y permisos con anticipación, revisa nuestra [guía de solicitud de visa](/es/blog/solicitud-visa-guia/).
 
 ## ¿Qué documentos olvidan más los viajeros?
 
@@ -63,7 +63,7 @@ Menos conocido: varios países de América Latina exigen una carta notariada del
 
 Para viajes largos o con múltiples destinos, organiza todos los documentos en una carpeta física que puedas tomar rápido. No reorganices antes de cada viaje. En su lugar, repasa un checklist 24 horas antes de salir: pasaporte vigente, visa lista, reservas guardadas sin conexión, seguro activo.
 
-Ese hábito toma cinco minutos y evita el pánico en el aeropuerto que arruina el comienzo de un viaje. Si organizas tu equipaje alrededor de documentos accesibles, nuestra [lista de equipaje esencial](/es/blog/lista-equipaje-viaje-esencial) tiene consejos prácticos sobre qué va en qué bolsillo.
+Ese hábito toma cinco minutos y evita el pánico en el aeropuerto que arruina el comienzo de un viaje. Si organizas tu equipaje alrededor de documentos accesibles, nuestra [lista de equipaje esencial](/es/blog/lista-equipaje-viaje-esencial/) tiene consejos prácticos sobre qué va en qué bolsillo.
 
 ---
 
@@ -90,6 +90,6 @@ En México a través de la Secretaría de Comunicaciones y Transportes o el auto
 ---
 
 **Leer más:**
-- [Vacunas para el viaje: Lo que realmente necesitas](/es/blog/vacunas-viaje-guia)
-- [Emergencia en el extranjero: Qué hacer](/es/blog/emergencia-extranjero-que-hacer)
-- [Guía de solicitud de visa: Paso a paso](/es/blog/solicitud-visa-guia)
+- [Vacunas para el viaje: Lo que realmente necesitas](/es/blog/vacunas-viaje-guia/)
+- [Emergencia en el extranjero: Qué hacer](/es/blog/emergencia-extranjero-que-hacer/)
+- [Guía de solicitud de visa: Paso a paso](/es/blog/solicitud-visa-guia/)

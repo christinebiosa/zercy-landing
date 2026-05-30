@@ -71,7 +71,7 @@ South Delhi es el contrapunto residencial y verde al norte bullicioso. Lajpat Na
 
 **Opciones destacadas:** The Manor New Delhi (boutique con jardín verde, genuinamente tranquilo), Olive Qutab (boutique cerca del Qutub Minar, gran restaurante), Bloomrooms Hotel (boutique de diseño, estilo contemporáneo).
 
-Para comparar la elección de barrios en otra capital asiática, consulta nuestra guía de [Dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio).
+Para comparar la elección de barrios en otra capital asiática, consulta nuestra guía de [Dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio/).
 
 ## Aerocity: Junto al aeropuerto
 
@@ -95,7 +95,7 @@ Para Delhi, [Booking.com](https://www.booking.com) es la mejor plataforma:
 
 La reserva directa tiene sentido en The Imperial o Oberoi para posibles mejoras de habitación en ala histórica.
 
-Consulta también nuestra guía de [Dónde alojarse en Hong Kong](/es/blog/donde-alojarse-hong-kong) para un razonamiento similar sobre elección de barrios en otra metrópoli asiática.
+Consulta también nuestra guía de [Dónde alojarse en Hong Kong](/es/blog/donde-alojarse-hong-kong/) para un razonamiento similar sobre elección de barrios en otra metrópoli asiática.
 
 ---
 
@@ -122,6 +122,6 @@ El Taj Mahal está a unos 200 km de Delhi. El Gatimaan Express o el Shatabdi Exp
 ---
 
 **Leer más:**
-- [Dónde alojarse en Tokio: Los 5 barrios](/es/blog/donde-alojarse-tokio)
-- [Dónde alojarse en Hong Kong: Central, Kowloon o Wan Chai](/es/blog/donde-alojarse-hong-kong)
-- [Dónde alojarse en Bangkok: El Bangkok moderno vs. el histórico](/es/blog/donde-alojarse-bangkok)
+- [Dónde alojarse en Tokio: Los 5 barrios](/es/blog/donde-alojarse-tokio/)
+- [Dónde alojarse en Hong Kong: Central, Kowloon o Wan Chai](/es/blog/donde-alojarse-hong-kong/)
+- [Dónde alojarse en Bangkok: El Bangkok moderno vs. el histórico](/es/blog/donde-alojarse-bangkok/)

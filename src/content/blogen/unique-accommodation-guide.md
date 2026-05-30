@@ -90,6 +90,6 @@ Houseboats are great for short stays since there's usually no minimum nights req
 
 ## Read more
 
-- [Glamping in Europe: Best Destinations](/en/blog/glamping-europe-guide)
-- [Airbnb vs. Hotel: Which One When?](/en/blog/airbnb-vs-hotel-comparison)
-- [Boutique Hotels: Why Smaller Is Often Better](/en/blog/boutique-hotels)
+- [Glamping in Europe: Best Destinations](/en/blog/glamping-europe-guide/)
+- [Airbnb vs. Hotel: Which One When?](/en/blog/airbnb-vs-hotel-comparison/)
+- [Boutique Hotels: Why Smaller Is Often Better](/en/blog/boutique-hotels/)

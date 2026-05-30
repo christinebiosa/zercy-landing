@@ -26,7 +26,7 @@ There are clear travel profiles where paying extra makes sense.
 
 **Early flight departures.** If you're leaving for the airport at 6am, nothing is open. The hotel buffet is your only real option besides a vending machine sandwich. In this case, the included breakfast is worth it for convenience alone, regardless of the price math.
 
-**Expensive breakfast cities.** Paris, London, Zurich, Amsterdam, Stockholm, Oslo: a café breakfast costs €15 to €25 per person, with no quality guarantee. The hotel buffet with eggs, fresh fruit, and coffee is often a better deal at a similar price. Anyone [staying in Paris](/en/blog/where-to-stay-paris) knows that eating out in the morning can cost more than expected.
+**Expensive breakfast cities.** Paris, London, Zurich, Amsterdam, Stockholm, Oslo: a café breakfast costs €15 to €25 per person, with no quality guarantee. The hotel buffet with eggs, fresh fruit, and coffee is often a better deal at a similar price. Anyone [staying in Paris](/en/blog/where-to-stay-paris/) knows that eating out in the morning can cost more than expected.
 
 **Large groups or families.** With kids, the math changes. Children eat less but often pay the same café prices. A hotel with included or flat-rate family breakfast cuts the per-person cost considerably.
 
@@ -38,7 +38,7 @@ There are clear travel profiles where paying extra makes sense.
 
 This is the list you rarely see in travel marketing.
 
-**Lisbon.** A café galão and a pastel de nata at the counter costs €2 to €3. A full breakfast at the market or a local café runs €4 to €6. Hotel breakfast: €22 to €30. That's a difference of €24 per person per day. On a seven-night trip, that's €168 per person, almost €340 for two. Anyone wanting to truly [experience Lisbon](/en/blog/where-to-stay-lisbon) should eat breakfast outside the hotel.
+**Lisbon.** A café galão and a pastel de nata at the counter costs €2 to €3. A full breakfast at the market or a local café runs €4 to €6. Hotel breakfast: €22 to €30. That's a difference of €24 per person per day. On a seven-night trip, that's €168 per person, almost €340 for two. Anyone wanting to truly [experience Lisbon](/en/blog/where-to-stay-lisbon/) should eat breakfast outside the hotel.
 
 **Barcelona.** Tortilla, pan con tomate, café con leche at the market: €5 to €8. Hotel breakfast: €18 to €28. Same logic as Lisbon.
 
@@ -56,7 +56,7 @@ Then compare that number to what a similar breakfast would cost outside. A quick
 
 Sometimes it's even simpler. The difference between the two rates is €8. Coffee and a croissant around the corner costs €6. The breakfast is essentially free. This happens more often than you'd expect, particularly in countries with high living costs.
 
-The comparison also matters when looking at platforms. [Booking vs. Expedia](/en/blog/booking-vs-expedia-comparison-2026) sometimes shows different breakfast-included rates for the same hotel.
+The comparison also matters when looking at platforms. [Booking vs. Expedia](/en/blog/booking-vs-expedia-comparison-2026/) sometimes shows different breakfast-included rates for the same hotel.
 
 ## What Does Real Experience Say Across Different Cities?
 
@@ -64,9 +64,9 @@ In Northern Europe and expensive cities like Paris or London, the included break
 
 In Southern Europe the opposite is true. Spain, Portugal, Italy, Greece: local cafés and markets offer better quality at a fraction of the hotel price. Eating breakfast outside is part of the travel experience there, not a compromise.
 
-If you're not sure whether your destination falls into the "worth it" category, [hotel category](/en/blog/hotel-categories-explained) gives you a clue. City-center hotels in tourist areas typically charge more for breakfast than boutique hotels in residential neighborhoods.
+If you're not sure whether your destination falls into the "worth it" category, [hotel category](/en/blog/hotel-categories-explained/) gives you a clue. City-center hotels in tourist areas typically charge more for breakfast than boutique hotels in residential neighborhoods.
 
-Anyone familiar with [hotel rate parity](/en/blog/hotel-rate-parity-explained) also knows: the cheapest breakfast add-ons are almost always on the platform you were going to book on anyway.
+Anyone familiar with [hotel rate parity](/en/blog/hotel-rate-parity-explained/) also knows: the cheapest breakfast add-ons are almost always on the platform you were going to book on anyway.
 
 ---
 
@@ -93,6 +93,6 @@ Open two browser tabs: one with breakfast included, one without. The price diffe
 ---
 
 **Read more:**
-- [Hotel Categories Explained: What You Get for Your Money](/en/blog/hotel-categories-explained)
-- [Booking.com vs. Expedia: Which Platform Wins in 2026?](/en/blog/booking-vs-expedia-comparison-2026)
-- [Hotel Rate Parity Explained: Why Hotels Cost the Same Everywhere](/en/blog/hotel-rate-parity-explained)
+- [Hotel Categories Explained: What You Get for Your Money](/en/blog/hotel-categories-explained/)
+- [Booking.com vs. Expedia: Which Platform Wins in 2026?](/en/blog/booking-vs-expedia-comparison-2026/)
+- [Hotel Rate Parity Explained: Why Hotels Cost the Same Everywhere](/en/blog/hotel-rate-parity-explained/)

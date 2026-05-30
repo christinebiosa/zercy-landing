@@ -55,7 +55,7 @@ Hoteles: de 40 a 120 euros.
 **Recomendación:**
 - **Hotel Atrio** (moderno, céntrico en Hongdae, aprox. 80 €)
 
-Para otras ciudades asiáticas con una mezcla fascinante de tradición y modernidad, consulta también [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio) y [dónde alojarse en Hong Kong](/es/blog/donde-alojarse-hong-kong).
+Para otras ciudades asiáticas con una mezcla fascinante de tradición y modernidad, consulta también [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio/) y [dónde alojarse en Hong Kong](/es/blog/donde-alojarse-hong-kong/).
 
 ## Gangnam: El lujo contemporáneo de Corea
 
@@ -96,6 +96,6 @@ El metro de Seúl es uno de los más eficientes del mundo: limpio, puntual, con 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Tokio: Shinjuku, Asakusa o Shibuya](/es/blog/donde-alojarse-tokio)
-- [Dónde alojarse en Hong Kong: Tsim Sha Tsui, Central o Causeway Bay](/es/blog/donde-alojarse-hong-kong)
-- [Dónde alojarse en Bangkok: Sukhumvit, Silom o Riverside](/es/blog/donde-alojarse-bangkok)
+- [Dónde alojarse en Tokio: Shinjuku, Asakusa o Shibuya](/es/blog/donde-alojarse-tokio/)
+- [Dónde alojarse en Hong Kong: Tsim Sha Tsui, Central o Causeway Bay](/es/blog/donde-alojarse-hong-kong/)
+- [Dónde alojarse en Bangkok: Sukhumvit, Silom o Riverside](/es/blog/donde-alojarse-bangkok/)

@@ -55,7 +55,7 @@ Das Stadtzentrum hinter der Strandpromenade ist günstiger und lokaler. Hier lie
 
 **Top-Picks:** Golden Rain 2 Hotel (zuverlässige Mittelklasse im Zentrum), Ibis Styles Nha Trang (günstige Kette, sauber, zentral), Muong Thanh Holiday Nha Trang (vietnamesische Kette, gutes Preis-Leistungs-Verhältnis).
 
-Den [Vietnam 2-Wochen-Reiseguide](/blog/vietnam-2-wochen-route) findest du für die übergreifende Routenplanung. Wer auch den Norden plant: [Wo übernachten in Hanoi](/blog/wo-uebernachten-hanoi).
+Den [Vietnam 2-Wochen-Reiseguide](/blog/vietnam-2-wochen-route/) findest du für die übergreifende Routenplanung. Wer auch den Norden plant: [Wo übernachten in Hanoi](/blog/wo-uebernachten-hanoi/).
 
 ## Vinpearl Insel: Ferienresort auf eigener Insel
 
@@ -106,6 +106,6 @@ Der Flughafen Cam Ranh (CXR) liegt 35 km südlich der Stadt. Taxi: 15–25 Euro 
 ---
 
 **Mehr lesen:**
-- [Vietnam: 2-Wochen-Route mit Tipps](/blog/vietnam-2-wochen-route)
-- [Wo übernachten in Hanoi: Die besten Stadtteile](/blog/wo-uebernachten-hanoi)
-- [Südostasien: Günstig reisen mit Budget-Tipps](/blog/suedostasien-budget-reisen)
+- [Vietnam: 2-Wochen-Route mit Tipps](/blog/vietnam-2-wochen-route/)
+- [Wo übernachten in Hanoi: Die besten Stadtteile](/blog/wo-uebernachten-hanoi/)
+- [Südostasien: Günstig reisen mit Budget-Tipps](/blog/suedostasien-budget-reisen/)

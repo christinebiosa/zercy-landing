@@ -49,7 +49,7 @@ Hotels in Pocitos are more modern than in Ciudad Vieja and often cheaper. Restau
 
 **Top picks:** NH Collection Montevideo Victoria (modern, near the Rambla), Starpoint Hotel (Pocitos, good reviews), Dazzler by Wyndham Montevideo (reliable, close to the beach).
 
-Our [Argentina travel guide](/en/blog/argentina-travel-guide-highlights) and [Buenos Aires guide](/en/blog/where-to-stay-buenos-aires) help with Río de la Plata trip planning.
+Our [Argentina travel guide](/en/blog/argentina-travel-guide-highlights/) and [Buenos Aires guide](/en/blog/where-to-stay-buenos-aires/) help with Río de la Plata trip planning.
 
 ## When Is the Best Time to Visit Montevideo?
 
@@ -107,6 +107,6 @@ June to August (winter in the southern hemisphere) is most affordable. April/May
 ---
 
 ## Read more
-- [Where to Stay in Buenos Aires: Best Neighborhoods](/en/blog/where-to-stay-buenos-aires)
-- [Argentina Travel Guide: Best Highlights](/en/blog/argentina-travel-guide-highlights)
-- [Patagonia 3 Weeks: The Perfect Route](/en/blog/patagonia-3-weeks-route)
+- [Where to Stay in Buenos Aires: Best Neighborhoods](/en/blog/where-to-stay-buenos-aires/)
+- [Argentina Travel Guide: Best Highlights](/en/blog/argentina-travel-guide-highlights/)
+- [Patagonia 3 Weeks: The Perfect Route](/en/blog/patagonia-3-weeks-route/)

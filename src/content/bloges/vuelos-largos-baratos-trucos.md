@@ -20,7 +20,7 @@ La diferencia de precios en larga distancia puede ser enorme. Para Frankfurt-Ban
 
 Es el truco más conocido para viajeros europeos y sigue funcionando. Las aerolíneas calculan tasas e impuestos de manera diferente según el país de salida. Alemania, Austria y Suiza tienen cargos de salida relativamente altos. Tailandia, Singapur o Brasil aplican tasas mucho más bajas.
 
-El principio: en lugar de reservar Frankfurt-Bangkok, reservas Bangkok-Frankfurt-Bangkok y subes al avión en Bangkok. Pagas los impuestos de salida tailandeses sobre el billete completo, lo que hace posible el tramo Frankfurt-Bangkok desde unos 380 euros en lugar de más de 700. El billete es válido. Simplemente usas el vuelo de regreso como tu vuelo de ida. El tramo de ida que no usas simplemente queda sin utilizar. Más detalles en la [guía de consejos de vuelos baratos](/es/blog/consejos-vuelos-baratos).
+El principio: en lugar de reservar Frankfurt-Bangkok, reservas Bangkok-Frankfurt-Bangkok y subes al avión en Bangkok. Pagas los impuestos de salida tailandeses sobre el billete completo, lo que hace posible el tramo Frankfurt-Bangkok desde unos 380 euros en lugar de más de 700. El billete es válido. Simplemente usas el vuelo de regreso como tu vuelo de ida. El tramo de ida que no usas simplemente queda sin utilizar. Más detalles en la [guía de consejos de vuelos baratos](/es/blog/consejos-vuelos-baratos/).
 
 Ejemplos de precios reales:
 
@@ -63,13 +63,13 @@ El billete dividido significa reservar ida y vuelta en aerolíneas diferentes, a
 
 Ejemplo: Frankfurt-Sídney. Los billetes estándar o las conexiones habituales superan fácilmente los 1.400 euros. Con enfoque dividido, tomas un vuelo barato Frankfurt-Singapur (Scoot o Singapore Airlines, unos 400 euros), luego un billete separado Singapur-Sídney (unos 250 euros). Total: 650 euros.
 
-El riesgo: si tu primer vuelo sufre retraso, el segundo no se reorganiza automáticamente. Planifica escalas generosas, mínimo cuatro o cinco horas. Para saber cuándo reservar, consulta la [guía de cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos).
+El riesgo: si tu primer vuelo sufre retraso, el segundo no se reorganiza automáticamente. Planifica escalas generosas, mínimo cuatro o cinco horas. Para saber cuándo reservar, consulta la [guía de cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/).
 
 ## ¿Cuándo es más barato un billete de vuelta al mundo que comprar vuelos por separado?
 
 Los billetes RTW (vuelta al mundo) suenan a producto de lujo. A veces ya no lo son. Quien combina varios tramos intercontinentales en un solo viaje, por ejemplo Frankfurt-Nueva York, luego Nueva York-Tokio, Tokio-Sídney y Sídney-Frankfurt, paga fácilmente entre 3.000 y 5.000 euros en billetes individuales.
 
-Star Alliance y oneworld ofrecen billetes RTW con paquetes de millas o tramos fijos. Con un routing bien elegido, cuatro tramos intercontinentales cuestan entre 2.000 y 2.800 euros. El cálculo sale a partir de tres saltos continentales. Con menos de dos tramos de larga distancia no tiene sentido. La [guía del billete de vuelta al mundo](/es/blog/ticket-vuelta-al-mundo-guia) explica cómo estructurar el routing.
+Star Alliance y oneworld ofrecen billetes RTW con paquetes de millas o tramos fijos. Con un routing bien elegido, cuatro tramos intercontinentales cuestan entre 2.000 y 2.800 euros. El cálculo sale a partir de tres saltos continentales. Con menos de dos tramos de larga distancia no tiene sentido. La [guía del billete de vuelta al mundo](/es/blog/ticket-vuelta-al-mundo-guia/) explica cómo estructurar el routing.
 
 ## ¿Cómo buscar vuelos de larga distancia baratos de forma sistemática?
 
@@ -101,6 +101,6 @@ Un billete RTW tiene sentido económico a partir de tres tramos intercontinental
 
 ## Más información
 
-- [Consejos para vuelos baratos: guía completa](/es/blog/consejos-vuelos-baratos)
-- [Cuándo reservar vuelos: la ventana exacta para cada destino](/es/blog/cuando-reservar-vuelos)
-- [Billete de vuelta al mundo: cuándo compensa y cómo se estructura](/es/blog/ticket-vuelta-al-mundo-guia)
+- [Consejos para vuelos baratos: guía completa](/es/blog/consejos-vuelos-baratos/)
+- [Cuándo reservar vuelos: la ventana exacta para cada destino](/es/blog/cuando-reservar-vuelos/)
+- [Billete de vuelta al mundo: cuándo compensa y cómo se estructura](/es/blog/ticket-vuelta-al-mundo-guia/)

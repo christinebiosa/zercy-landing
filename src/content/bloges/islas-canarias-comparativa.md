@@ -91,6 +91,6 @@ Tenerife por la oferta completa (parques acuáticos, parques de animales). Gran 
 
 ## Más artículos
 
-- [Guía de Viaje a Madeira: Senderismo y Primavera Eterna](/es/blog/madeira-guia-viaje)
-- [Portugal: La Ruta Completa](/es/blog/portugal-ruta-completa)
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Guía de Viaje a Madeira: Senderismo y Primavera Eterna](/es/blog/madeira-guia-viaje/)
+- [Portugal: La Ruta Completa](/es/blog/portugal-ruta-completa/)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)

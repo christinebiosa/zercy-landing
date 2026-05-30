@@ -43,11 +43,11 @@ Ubud, en el centro de la isla, tiene su propio microclima. Más lluvia que el su
 
 ## ¿Cómo comparar Bali con otros destinos del Sudeste Asiático?
 
-Bali no está sola. Si tienes flexibilidad de fechas, vale la pena ver el panorama completo del Sudeste Asiático. En temporada de monzón en Bali, destinos como las Filipinas del norte o el norte de Tailandia pueden estar en plena temporada seca. La guía de [viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico) te ayuda a ver las opciones con perspectiva.
+Bali no está sola. Si tienes flexibilidad de fechas, vale la pena ver el panorama completo del Sudeste Asiático. En temporada de monzón en Bali, destinos como las Filipinas del norte o el norte de Tailandia pueden estar en plena temporada seca. La guía de [viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/) te ayuda a ver las opciones con perspectiva.
 
-Si tu duda es Bali vs. Lombok, la [comparación directa entre Bali y Lombok](/es/blog/bali-vs-lombok-comparacion) te explica exactamente en qué se diferencian las temporadas de ambas islas y qué isla conviene más según tu estilo de viaje.
+Si tu duda es Bali vs. Lombok, la [comparación directa entre Bali y Lombok](/es/blog/bali-vs-lombok-comparacion/) te explica exactamente en qué se diferencian las temporadas de ambas islas y qué isla conviene más según tu estilo de viaje.
 
-Para el alojamiento, la guía de [dónde alojarse en Bali](/es/blog/donde-alojarse-bali) desglosa los barrios y qué zona conviene según lo que buscas.
+Para el alojamiento, la guía de [dónde alojarse en Bali](/es/blog/donde-alojarse-bali/) desglosa los barrios y qué zona conviene según lo que buscas.
 
 ---
 
@@ -69,6 +69,6 @@ Ubud es la zona que mejor aguanta el monzón. Sus arrozales se ponen increíblem
 
 ## Más información
 
-- [Bali vs. Lombok: comparación completa](/es/blog/bali-vs-lombok-comparacion)
-- [Dónde alojarse en Bali: barrios y zonas](/es/blog/donde-alojarse-bali)
-- [Viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico)
+- [Bali vs. Lombok: comparación completa](/es/blog/bali-vs-lombok-comparacion/)
+- [Dónde alojarse en Bali: barrios y zonas](/es/blog/donde-alojarse-bali/)
+- [Viaje económico por el Sudeste Asiático](/es/blog/sudeste-asiatico-viaje-economico/)

@@ -67,7 +67,7 @@ Hotels in Bečići tend to be larger and more family-oriented, with pool complex
 
 **Top picks:** Iberostar Bellevue (all-inclusive option, long beach section), Splendid Conference Beach Resort (large wellness hotel), several family resorts with pool areas.
 
-If you are planning a [Balkan road trip](/en/blog/balkan-road-trip-route), Budva pairs well with Kotor and Dubrovnik. Three cities, three atmospheres. All under an hour from each other.
+If you are planning a [Balkan road trip](/en/blog/balkan-road-trip-route/), Budva pairs well with Kotor and Dubrovnik. Three cities, three atmospheres. All under an hour from each other.
 
 ## Petrovac: Southern Montenegro, Relaxed
 
@@ -81,7 +81,7 @@ Petrovac is cheaper than Budva. Apartments and small guesthouses dominate. The s
 
 **Top picks:** Hotel Rivijera (right on the beach, small property), Palas Hotel (historic building with sea view), several private apartments with terrace views over the bay.
 
-For neighboring Montenegro: the [where to stay in Kotor](/en/blog/where-to-stay-kotor) guide covers all neighborhoods from the Venetian old town to the luxury marina at Porto Montenegro.
+For neighboring Montenegro: the [where to stay in Kotor](/en/blog/where-to-stay-kotor/) guide covers all neighborhoods from the Venetian old town to the luxury marina at Porto Montenegro.
 
 ## Sveti Stefan: The Luxury Island
 
@@ -95,7 +95,7 @@ Non-guests can photograph the island from the promenade. The view is one of the 
 
 **Top picks:** Aman Sveti Stefan (iconic luxury resort), Villa Milocer (main house of the Aman complex with private beach), various private villas nearby.
 
-If you want to see how Montenegro stacks up against the rest of the Adriatic, the [best beaches in Europe 2026](/en/blog/best-beaches-europe-2026) guide puts the region in context.
+If you want to see how Montenegro stacks up against the rest of the Adriatic, the [best beaches in Europe 2026](/en/blog/best-beaches-europe-2026/) guide puts the region in context.
 
 ## Where Should You Actually Book?
 
@@ -133,6 +133,6 @@ By rental car or bus: roughly 2.5 to 3 hours, including a short border crossing 
 ---
 
 **Read more:**
-- [Balkan Road Trip: Route, Stops, Tips](/en/blog/balkan-road-trip-route)
-- [Where to Stay in Kotor: Old Town, Dobrota, or Tivat?](/en/blog/where-to-stay-kotor)
-- [Best Beaches in Europe 2026: The Honest List](/en/blog/best-beaches-europe-2026)
+- [Balkan Road Trip: Route, Stops, Tips](/en/blog/balkan-road-trip-route/)
+- [Where to Stay in Kotor: Old Town, Dobrota, or Tivat?](/en/blog/where-to-stay-kotor/)
+- [Best Beaches in Europe 2026: The Honest List](/en/blog/best-beaches-europe-2026/)

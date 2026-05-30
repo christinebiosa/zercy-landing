@@ -43,7 +43,7 @@ Llega a las 6 de la tarde. Las galerías abren. Los bares se llenan. Los restaur
 
 Cena: Coyo Taco siempre tiene fila por algo. Si no quieres esperar, camina una manzana fuera del complejo Walls. Misma vibra, mejores precios. Presupuesto para cenar con bebidas: 30 a 50 dólares por persona.
 
-Para la segunda noche, considera quedarte en Wynwood o en Brickell en vez de South Beach. Más central, mejor relación calidad-precio y sin Uber largo de vuelta. En nuestra [guía de dónde alojarse en Miami](/es/blog/donde-alojarse-miami) encontrarás todos los barrios comparados por presupuesto.
+Para la segunda noche, considera quedarte en Wynwood o en Brickell en vez de South Beach. Más central, mejor relación calidad-precio y sin Uber largo de vuelta. En nuestra [guía de dónde alojarse en Miami](/es/blog/donde-alojarse-miami/) encontrarás todos los barrios comparados por presupuesto.
 
 ## ¿Qué tiene de especial La Pequeña Habana por la mañana?
 
@@ -65,7 +65,7 @@ El Pérez Art Museum Miami, o PAMM, es el plato fuerte. Está directamente sobre
 
 El café dentro del museo tiene precios razonables para ser un museo. Funciona bien para almorzar.
 
-Si ya conoces las ciudades de la costa este, el PAMM tiene una intencionalidad similar al Whitney de Nueva York. Ambos se disfrutan si le dedicas tiempo real. Y si Nueva York está en tu lista, nuestra [guía de 48 horas en Nueva York](/es/blog/donde-alojarse-nueva-york) te ayuda a planificar el mismo formato.
+Si ya conoces las ciudades de la costa este, el PAMM tiene una intencionalidad similar al Whitney de Nueva York. Ambos se disfrutan si le dedicas tiempo real. Y si Nueva York está en tu lista, nuestra [guía de 48 horas en Nueva York](/es/blog/donde-alojarse-nueva-york/) te ayuda a planificar el mismo formato.
 
 ## ¿Cómo termina un fin de semana perfecto en Miami?
 
@@ -83,7 +83,7 @@ Si tienes energía, quédate. Los bares de Brickell funcionan hasta las 2 o 3 de
 
 El MIA es grande y puede volverse caótico. Calcula al menos 2,5 horas antes del vuelo. Uber desde Brickell tarda entre 20 y 45 minutos dependiendo del tráfico. Si tienes vuelo muy temprano, reserva el auto la noche anterior.
 
-Para saber cuándo reservar el vuelo de regreso, nuestro artículo sobre [cuándo reservar vuelos baratos](/es/blog/cuando-reservar-vuelos) explica las ventanas óptimas de compra. Y si estás comparando destinos americanos, nuestra [guía de 48 horas en Nueva York](/es/blog/donde-alojarse-nueva-york) sigue el mismo formato.
+Para saber cuándo reservar el vuelo de regreso, nuestro artículo sobre [cuándo reservar vuelos baratos](/es/blog/cuando-reservar-vuelos/) explica las ventanas óptimas de compra. Y si estás comparando destinos americanos, nuestra [guía de 48 horas en Nueva York](/es/blog/donde-alojarse-nueva-york/) sigue el mismo formato.
 
 ---
 
@@ -112,6 +112,6 @@ Hotel en South Beach: 150 a 300 dólares por noche. Hotel en Brickell: 100 a 200
 ---
 
 **Seguir leyendo:**
-- [Dónde alojarse en Miami: los mejores barrios por presupuesto](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Nueva York: Manhattan o Brooklyn](/es/blog/donde-alojarse-nueva-york)
-- [Cuándo reservar vuelos: el momento exacto para conseguir buenos precios](/es/blog/cuando-reservar-vuelos)
+- [Dónde alojarse en Miami: los mejores barrios por presupuesto](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Nueva York: Manhattan o Brooklyn](/es/blog/donde-alojarse-nueva-york/)
+- [Cuándo reservar vuelos: el momento exacto para conseguir buenos precios](/es/blog/cuando-reservar-vuelos/)

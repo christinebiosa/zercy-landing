@@ -40,7 +40,7 @@ That sounds minor. But it matters once you use different airlines on different r
 
 A Lufthansa Miles & More Gold card holder can access Singapore Airlines lounges on Star Alliance flights. That is one of the most valuable benefits. Lounges in Asia, especially Singapore Airlines SilverKris and Cathay Pacific The Wing, rank among the best in the world. A European status card still gets you in.
 
-More on lounge strategy: [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket)
+More on lounge strategy: [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket/)
 
 **Codeshare flights for better connections**
 
@@ -68,7 +68,7 @@ Above 30,000 miles, the calculation shifts. Here are the typical status levels:
 
 Silver gives comfort upgrades. Gold unlocks lounges on partner flights. Platinum is for the few. For most frequent travelers, Gold is the realistic and rewarding goal.
 
-For context on how status pairs with cheap tickets: [Business Class Without Miles](/en/blog/business-class-without-miles) covers the booking strategies that work alongside status benefits.
+For context on how status pairs with cheap tickets: [Business Class Without Miles](/en/blog/business-class-without-miles/) covers the booking strategies that work alongside status benefits.
 
 ## Which alliance fits which route?
 
@@ -82,13 +82,13 @@ Lufthansa, Swiss, and Austrian are all Star Alliance. Anyone flying regularly fr
 
 British Airways is the backbone of oneworld. Heathrow is one of the best hubs for global connections. Flying regularly from London means the BA Executive Club is your natural home. Qatar Airways is also oneworld and offers an outstanding long-haul product for Asia and Australia routes.
 
-[Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026) shows how to find the best fares within an alliance network.
+[Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026/) shows how to find the best fares within an alliance network.
 
 **France and Netherlands: SkyTeam**
 
 Air France and KLM are both SkyTeam. The Flying Blue program is one of the most flexible in Europe. Regular flyers from Paris or Amsterdam build status faster with SkyTeam than with the other two. Delta covers North America, Korean Air handles East Asia connections.
 
-If you are thinking about upgrading on alliance flights: [Bid Upgrade to Business Class](/en/blog/bid-upgrade-business-class) explains how the bidding system works across most alliance carriers.
+If you are thinking about upgrading on alliance flights: [Bid Upgrade to Business Class](/en/blog/bid-upgrade-business-class/) explains how the bidding system works across most alliance carriers.
 
 Choosing an alliance comes down to your home carrier. The airline you use most on your main route determines the program. Everything else follows from that network.
 
@@ -116,4 +116,4 @@ If your main routes change or you move to a new home airport, switching programs
 
 It varies by program and route. With Miles & More, a business class award Frankfurt to New York costs around 85,000 award miles. With Flying Blue it is often 60,000 to 75,000. Concentrating miles on one alliance rather than spreading them across programs puts a realistic redemption within reach in two to three years for regular travelers.
 
-**Read more:** [Business Class Without Miles](/en/blog/business-class-without-miles) · [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket) · [Bid Upgrade to Business Class](/en/blog/bid-upgrade-business-class)
+**Read more:** [Business Class Without Miles](/en/blog/business-class-without-miles/) · [Lounge Access Without a Business Ticket](/en/blog/lounge-access-without-business-ticket/) · [Bid Upgrade to Business Class](/en/blog/bid-upgrade-business-class/)

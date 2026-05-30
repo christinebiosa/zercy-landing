@@ -32,7 +32,7 @@ Buses are more comfortable than their reputation suggests. For the Zona Cafetera
 
 For general travel planning and destination information, the official [ProColombia tourism site](https://www.colombia.travel) is comprehensive and up to date with entry requirements, regional festivals, and things to do.
 
-If you are planning your accommodation in Cartagena, our guide on [where to stay in Cartagena](/en/blog/where-to-stay-cartagena) covers the best neighborhoods. For Medellín and Bogotá, see our guides on [where to stay in Medellín](/en/blog/where-to-stay-medellin) and [where to stay in Bogotá](/en/blog/where-to-stay-bogota).
+If you are planning your accommodation in Cartagena, our guide on [where to stay in Cartagena](/en/blog/where-to-stay-cartagena/) covers the best neighborhoods. For Medellín and Bogotá, see our guides on [where to stay in Medellín](/en/blog/where-to-stay-medellin/) and [where to stay in Bogotá](/en/blog/where-to-stay-bogota/).
 
 ## What about safety and visa requirements?
 
@@ -69,6 +69,6 @@ Cerro Monserrate in Bogotá. A real coffee farm tour in the Zona Cafetera. Barri
 ---
 
 **Read more:**
-- [Where to Stay in Cartagena: Best Neighborhoods](/en/blog/where-to-stay-cartagena)
-- [Where to Stay in Medellín: Neighborhoods and Tips](/en/blog/where-to-stay-medellin)
-- [Solo Travel for Women: The Safest Countries Worldwide](/en/blog/solo-travel-women-safe-countries)
+- [Where to Stay in Cartagena: Best Neighborhoods](/en/blog/where-to-stay-cartagena/)
+- [Where to Stay in Medellín: Neighborhoods and Tips](/en/blog/where-to-stay-medellin/)
+- [Solo Travel for Women: The Safest Countries Worldwide](/en/blog/solo-travel-women-safe-countries/)

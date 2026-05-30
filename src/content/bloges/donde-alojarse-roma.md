@@ -54,7 +54,7 @@ Los hoteles en Trastevere son principalmente pensiones y pequeños boutique. Pre
 - **Hotel Santa Maria** (claustro del siglo XVI, Trastevere, aprox. 180 €)
 - **Arco del Lauro** (pequeño boutique, bien valorado, aprox. 110 €)
 
-Para otras ciudades mediterráneas con mucha historia, consulta también [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona) y [dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas).
+Para otras ciudades mediterráneas con mucha historia, consulta también [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/) y [dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas/).
 
 ## Prati: La opción práctica junto al Vaticano
 
@@ -99,6 +99,6 @@ Roma es muy caminable en el centro histórico. El metro tiene solo dos líneas p
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Florencia: Centro histórico u Oltrarno](/es/blog/donde-alojarse-florencia)
-- [Dónde alojarse en Atenas: Pláka o Kolonaki](/es/blog/donde-alojarse-atenas)
+- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Florencia: Centro histórico u Oltrarno](/es/blog/donde-alojarse-florencia/)
+- [Dónde alojarse en Atenas: Pláka o Kolonaki](/es/blog/donde-alojarse-atenas/)

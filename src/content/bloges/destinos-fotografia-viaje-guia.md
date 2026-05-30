@@ -34,7 +34,7 @@ Respuesta corta: no al mediodía. La luz dura del mediodía es el enemigo de las
 
 **Hora Azul** son los 20 a 30 minutos después del atardecer o antes del amanecer. La luz es más fría, más uniforme y le da a los paisajes urbanos una calidad casi mágica. Para templos, mezquitas y edificios iluminados, la hora azul suele ser mejor que la dorada.
 
-**Sol de Medianoche en Islandia** juega con reglas distintas. De mayo a agosto, el sol apenas se pone en Islandia. La luz dorada dura horas. Los Fiordos del Oeste, Landmannalaugar y la laguna glaciar Jökulsárlón bajo el sol de medianoche son difíciles de superar fotográficamente. Planifica tu ruta de [guia-road-trip-islandia](/es/blog/guia-road-trip-islandia) deliberadamente alrededor de estas horas.
+**Sol de Medianoche en Islandia** juega con reglas distintas. De mayo a agosto, el sol apenas se pone en Islandia. La luz dorada dura horas. Los Fiordos del Oeste, Landmannalaugar y la laguna glaciar Jökulsárlón bajo el sol de medianoche son difíciles de superar fotográficamente. Planifica tu ruta de [guia-road-trip-islandia](/es/blog/guia-road-trip-islandia/) deliberadamente alrededor de estas horas.
 
 Para alojamiento en Islandia cerca de los mejores hotspots: Reikiavik como base a través de [Booking.com](https://www.booking.com/searchresults.html?ss=Reykjavik) o directamente en el sur cerca de Vík para las playas.
 
@@ -42,7 +42,7 @@ Los cinco destinos restantes:
 
 **Bali, Indonesia** ofrece terrazas de arroz en Tegalalang y Jatiluwih tan fotogénicas que casi parecen irreales. Mejor momento: temprano por la mañana cuando la niebla aún reposa en las terrazas. Alojamiento en Ubud a través de [Airbnb](https://www.airbnb.com/) o [Booking.com](https://www.booking.com/searchresults.html?ss=Ubud+Bali) para estar cerca de las terrazas.
 
-**Marruecos, Medina de Fez** es caos visual en el mejor sentido. La tenería Chouara, los callejones estrechos de la medina, comerciantes y artesanos por todos lados. Fotografía de viaje en su máxima expresión. Nuestros [riads-marruecos-guia](/es/blog/riads-marruecos-guia) cubren el mejor alojamiento justo dentro de la medina. Reserva a través de [Airbnb](https://www.airbnb.com/) para riads tradicionales.
+**Marruecos, Medina de Fez** es caos visual en el mejor sentido. La tenería Chouara, los callejones estrechos de la medina, comerciantes y artesanos por todos lados. Fotografía de viaje en su máxima expresión. Nuestros [riads-marruecos-guia](/es/blog/riads-marruecos-guia/) cubren el mejor alojamiento justo dentro de la medina. Reserva a través de [Airbnb](https://www.airbnb.com/) para riads tradicionales.
 
 **Islas Lofoten, Noruega** tienen cabañas de pescadores rojas reflejadas en agua azul profundo con montañas que se elevan directamente desde los fiordos. En otoño e invierno también aparecen con frecuencia auroras boreales. Alójate en un rorbu (cabaña de pescador tradicional) a través de [Booking.com](https://www.booking.com/searchresults.html?ss=Lofoten).
 
@@ -94,6 +94,6 @@ Santorini y Capadocia entregan resultados espectaculares con mínimo esfuerzo t�
 
 ## Más artículos
 
-- [Dónde alojarse en Capadocia: Mejores zonas y hoteles cueva](/es/blog/donde-alojarse-capadocia)
-- [Dónde alojarse en Santorini: ¿Oia, Fira o Imerovigli?](/es/blog/donde-alojarse-santorini)
-- [Guía road trip Islandia: Ruta, consejos y mejores spots fotográficos](/es/blog/guia-road-trip-islandia)
+- [Dónde alojarse en Capadocia: Mejores zonas y hoteles cueva](/es/blog/donde-alojarse-capadocia/)
+- [Dónde alojarse en Santorini: ¿Oia, Fira o Imerovigli?](/es/blog/donde-alojarse-santorini/)
+- [Guía road trip Islandia: Ruta, consejos y mejores spots fotográficos](/es/blog/guia-road-trip-islandia/)

@@ -45,7 +45,7 @@ Auf der anderen Seite der Karlsbrücke, am Hügel zur Prager Burg. Barocke Palä
 
 **Top-Picks:** Aria Hotel Prague (Boutique mit Musikthema), Hotel U Páva (klein, 14. Jahrhundert), Mandarin Oriental Prague (5-Sterne in einem ehemaligen Kloster).
 
-Lies dazu auch unseren [Geheimtipps-Europa-Guide](/blog/geheimtipps-europa) für Tagesausflüge ab Prag.
+Lies dazu auch unseren [Geheimtipps-Europa-Guide](/blog/geheimtipps-europa/) für Tagesausflüge ab Prag.
 
 ## Wann ist die beste Reisezeit für Prag?
 
@@ -114,6 +114,6 @@ Backpacker: 400-700 Euro pro Person inkl. Flug (Hostel in Žižkov, lokales Bier
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Wien: Die 5 Bezirke](/blog/wo-uebernachten-wien)
-- [Wo übernachten in Berlin: Die 5 Stadtteile](/blog/wo-uebernachten-berlin)
-- [Nachtzüge in Europa: Vollständiger Guide 2026](/blog/nachtzuege-europa-2026)
+- [Wo übernachten in Wien: Die 5 Bezirke](/blog/wo-uebernachten-wien/)
+- [Wo übernachten in Berlin: Die 5 Stadtteile](/blog/wo-uebernachten-berlin/)
+- [Nachtzüge in Europa: Vollständiger Guide 2026](/blog/nachtzuege-europa-2026/)

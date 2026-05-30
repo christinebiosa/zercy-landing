@@ -36,7 +36,7 @@ This is where things get interesting. In many countries, a local SIM beats any e
 
 **Asia:** Vietnam, Thailand, and Indonesia are among the cheapest telecom markets in the world. In Vietnam, you can get 30 GB for the equivalent of $3 to $5. Thailand: True Move H sells 30-day packages with 30 GB for around $8. Japan is pricier, around $15 for 10 GB, but the network quality is exceptional. Singapore: 100 GB for barely $15.
 
-**Americas:** The US is expensive. A local prepaid SIM from T-Mobile or AT&T runs $25 to $35 for 7 days with 15 GB. Mexico is much cheaper: Telcel packages with generous data for under $10. Peru and other Latin American countries are affordable. 10 GB often costs under $5. If you are heading to Peru, the [Peru travel guide](/en/blog/peru-travel-guide-highlights) has practical on-the-ground tips including telecom logistics.
+**Americas:** The US is expensive. A local prepaid SIM from T-Mobile or AT&T runs $25 to $35 for 7 days with 15 GB. Mexico is much cheaper: Telcel packages with generous data for under $10. Peru and other Latin American countries are affordable. 10 GB often costs under $5. If you are heading to Peru, the [Peru travel guide](/en/blog/peru-travel-guide-highlights/) has practical on-the-ground tips including telecom logistics.
 
 **Africa:** Highly variable. In Morocco, 1 GB costs roughly $1. Kenya is similarly cheap. South Africa sits in the middle. City coverage is often surprisingly strong.
 
@@ -52,7 +52,7 @@ Set social media apps to manual refresh. Instagram, TikTok, and YouTube will dra
 
 Use hotel and cafe wifi for large downloads. Podcasts, Netflix episodes, documents: download everything in advance. Your mobile data package stays reserved for navigation, translation apps, and messaging.
 
-If you are traveling to multiple countries on one trip, say a Thailand route with a [stopover in Singapore](/en/blog/stopover-tourism-guide), a regional eSIM covering Southeast Asia can be more practical than buying separate SIMs in each country. For carry-on-only travelers, the [carry-on guide](/en/blog/carry-on-only) also covers tech essentials worth packing.
+If you are traveling to multiple countries on one trip, say a Thailand route with a [stopover in Singapore](/en/blog/stopover-tourism-guide/), a regional eSIM covering Southeast Asia can be more practical than buying separate SIMs in each country. For carry-on-only travelers, the [carry-on guide](/en/blog/carry-on-only/) also covers tech essentials worth packing.
 
 ---
 
@@ -82,6 +82,6 @@ iPhone XS (2018) and all newer iPhones. Samsung Galaxy S20 and newer. Google Pix
 
 Read more:
 
-- [Airport Hacks: Smarter Through the Terminal](/en/blog/airport-hacks)
-- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Airport Hacks: Smarter Through the Terminal](/en/blog/airport-hacks/)
+- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

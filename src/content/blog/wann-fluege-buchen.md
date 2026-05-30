@@ -44,12 +44,12 @@ Wichtig: Überprüfe Visa-Anforderungen frühzeitig. Japan und Thailand benötig
 
 Hier ist die Preisspanne am größten. Langstreckenflüge nach Afrika oder in den Pazifik können zwischen 400 und 1.200 Euro variieren — je nach Airline, Buchungszeitpunkt und Saison. Die Preisstruktur reagiert stark auf aktuelle Buchungsnachfrage.
 
-Marktbeobachtung und Preisalarme lohnen sich hier besonders. Wer ein konkretes Datum hat, sollte es setzen und dann warten. Wer in der Premium-Klasse fliegen will, findet mit den richtigen Tricks regelmäßig [Business Class unter 1.000 Euro](/blog/business-class-ohne-meilen).
+Marktbeobachtung und Preisalarme lohnen sich hier besonders. Wer ein konkretes Datum hat, sollte es setzen und dann warten. Wer in der Premium-Klasse fliegen will, findet mit den richtigen Tricks regelmäßig [Business Class unter 1.000 Euro](/blog/business-class-ohne-meilen/).
 
 ## Was den Preis noch beeinflusst
 
 **Wochentag der Buchung**
-Dienstags und mittwochs buchen weniger Menschen — das spiegelt sich direkt in niedrigeren Preisen. Der Effekt ist real, aber nicht dramatisch. Trotzdem: Wer die Wahl hat, bucht Mitte der Woche. Mehr dazu in unserem Artikel [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps).
+Dienstags und mittwochs buchen weniger Menschen — das spiegelt sich direkt in niedrigeren Preisen. Der Effekt ist real, aber nicht dramatisch. Trotzdem: Wer die Wahl hat, bucht Mitte der Woche. Mehr dazu in unserem Artikel [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps/).
 
 **Wochentag des Abflugs**
 Freitag und Sonntag sind teuer. Dienstag und Mittwoch sind günstig. Auf stark frequentierten Strecken kann der Unterschied 20–40% betragen. Wer flexibel ist beim Abflugtag, kann erheblich sparen.
@@ -108,4 +108,4 @@ Nicht immer. Airlines öffnen ihre günstigsten Kontingente früh, erhöhen dann
 
 Bei flexiblem Zeitplan und langem Vorlauf: Ja. Preisalarme über Google Flights oder Kayak funktionieren gut. Wenn das Datum aber fix ist (Urlaub, Hochzeit, Event), buche lieber früh im optimalen Fenster statt auf einen Fall zu warten, der vielleicht nicht eintritt.
 
-**Mehr lesen:** [Günstig fliegen: 7 Tricks die Vielflieger kennen](/blog/guenstig-fliegen-tipps) · [Business Class: Wann sie sich lohnt](/blog/business-class) · [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks)
+**Mehr lesen:** [Günstig fliegen: 7 Tricks die Vielflieger kennen](/blog/guenstig-fliegen-tipps/) · [Business Class: Wann sie sich lohnt](/blog/business-class/) · [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks/)

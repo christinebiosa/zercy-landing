@@ -49,7 +49,7 @@ Los hoteles en Old City son más caros pero únicos en su ubicación. Quien quie
 
 **Top picks:** Morris House Hotel (construido en 1787, el hotel boutique más antiguo de Filadelfia), Penn's View Hotel (histórico, junto al río Delaware), Wyndham Philadelphia Historic District (moderno en entorno histórico).
 
-Lee también nuestra [guía de Nueva York](/es/blog/donde-alojarse-nueva-york) y el [artículo sobre Miami](/es/blog/donde-alojarse-miami) para más opciones en la costa este.
+Lee también nuestra [guía de Nueva York](/es/blog/donde-alojarse-nueva-york/) y el [artículo sobre Miami](/es/blog/donde-alojarse-miami/) para más opciones en la costa este.
 
 ## ¿Cuándo vale más la pena visitar Filadelfia?
 
@@ -117,6 +117,6 @@ Enero y febrero son los meses más baratos. Finales de noviembre (después de Ac
 ---
 
 ## Más artículos
-- [Dónde alojarse en Nueva York: Los 5 mejores barrios](/es/blog/donde-alojarse-nueva-york)
-- [Dónde alojarse en Miami: Las mejores zonas](/es/blog/donde-alojarse-miami)
-- [Dónde alojarse en Boston: Barrios explicados](/es/blog/donde-alojarse-boston)
+- [Dónde alojarse en Nueva York: Los 5 mejores barrios](/es/blog/donde-alojarse-nueva-york/)
+- [Dónde alojarse en Miami: Las mejores zonas](/es/blog/donde-alojarse-miami/)
+- [Dónde alojarse en Boston: Barrios explicados](/es/blog/donde-alojarse-boston/)

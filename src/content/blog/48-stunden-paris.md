@@ -29,7 +29,7 @@ Am Nachmittag: Le Marais. Beginne mit der **Place des Vosges**, dem ältesten Pl
 
 Den Abend verbringst du in Saint-Germain-des-Prés. Im Café de Flore oder Les Deux Magots bestellen Sartre und de Beauvoir seit Jahrzehnten nicht mehr, aber die Atmosphäre ist real. Ein Getränk, nicht mehr. Danach Abendessen in der Rue de Buci, wo die Restaurants gut und die Preise noch erträglich sind.
 
-Wenn du noch nicht weißt, wo du schlafen wirst: Unser Guide zu [wo du in Paris übernachtest](/blog/wo-uebernachten-paris) hilft dir mit konkreten Empfehlungen nach Stadtteil und Budget.
+Wenn du noch nicht weißt, wo du schlafen wirst: Unser Guide zu [wo du in Paris übernachtest](/blog/wo-uebernachten-paris/) hilft dir mit konkreten Empfehlungen nach Stadtteil und Budget.
 
 ## Tag 2: Eiffelturm oder d'Orsay, Palais Royal, Montmartre
 
@@ -43,13 +43,13 @@ Nachmittags: der **Palais Royal**. Die Colonnes de Buren, das Skulpturenprojekt 
 
 Der Abend gehört Montmartre. Die Treppe hoch zum Sacré-Coeur beim Sonnenuntergang ist touristisch, aber das Panorama ist real. Die Rue Lepic hat Bäckereien und Weinfachgeschäfte. Die Place du Tertre mit den Straßenkünstlern wirkt tagsüber wie ein Karneval, abends hat sie eine eigenartige, trotzige Energie. Es lohnt sich.
 
-Beim Hin- und Rückweg empfiehlt sich ein Blick auf die Optionen: unser Vergleich von [Bahn vs. Flieger nach Paris](/blog/bahn-vs-flieger-europa-2026) zeigt, wann der Zug günstiger und schneller ist als das Flugzeug.
+Beim Hin- und Rückweg empfiehlt sich ein Blick auf die Optionen: unser Vergleich von [Bahn vs. Flieger nach Paris](/blog/bahn-vs-flieger-europa-2026/) zeigt, wann der Zug günstiger und schneller ist als das Flugzeug.
 
 ## Wo übernachten für ein Paris-Wochenende?
 
 Le Marais und Saint-Germain sind zentral, teuer und gut. Für ein besseres Preis-Leistungs-Verhältnis schau nach Bastille, Oberkampf oder République. Diese Viertel haben gute Metroverbindungen und echte Nachbarschaften statt Touristenfallen. Auf Booking.com lässt sich nach Stadtteil filtern.
 
-Details zu Preisen, Hotel-Picks und welcher Stadtteil zu welchem Reisestil passt, findest du im Guide zu [wo du in Paris übernachtest](/blog/wo-uebernachten-paris). Dort sind auch Hostels und Boutique-Optionen mit drin.
+Details zu Preisen, Hotel-Picks und welcher Stadtteil zu welchem Reisestil passt, findest du im Guide zu [wo du in Paris übernachtest](/blog/wo-uebernachten-paris/). Dort sind auch Hostels und Boutique-Optionen mit drin.
 
 ## Was kostet ein Paris-Wochenende wirklich?
 
@@ -63,7 +63,7 @@ Eintritt: Sainte-Chapelle rund 13 Euro. Musée d'Orsay rund 16 Euro. Eiffelturm 
 
 Alles zusammen ohne Flug und Hotel: realistisch 120 bis 200 Euro pro Person für zwei Tage.
 
-Wer auf Flugkosten sparen will, sollte sich die [Airport Hacks](/blog/airport-hacks) und [Google Flights Tricks](/blog/google-flights-tricks-tipps-2026) ansehen.
+Wer auf Flugkosten sparen will, sollte sich die [Airport Hacks](/blog/airport-hacks/) und [Google Flights Tricks](/blog/google-flights-tricks-tipps-2026/) ansehen.
 
 ## Wann ist Paris am besten?
 
@@ -98,6 +98,6 @@ Le Marais, Saint-Germain-des-Prés und Montmartre sind für 48 Stunden am besten
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Paris: Stadtteil-Guide mit Empfehlungen](/blog/wo-uebernachten-paris)
-- [Bahn vs. Flieger Europa 2026: Wann der Zug günstiger ist](/blog/bahn-vs-flieger-europa-2026)
-- [Google Flights Tricks: So findest du günstigere Flüge](/blog/google-flights-tricks-tipps-2026)
+- [Wo übernachten in Paris: Stadtteil-Guide mit Empfehlungen](/blog/wo-uebernachten-paris/)
+- [Bahn vs. Flieger Europa 2026: Wann der Zug günstiger ist](/blog/bahn-vs-flieger-europa-2026/)
+- [Google Flights Tricks: So findest du günstigere Flüge](/blog/google-flights-tricks-tipps-2026/)

@@ -69,6 +69,6 @@ Opening hours are 7am to 5:30pm. Early morning (from 7am) is the only sensible t
 
 ## Read More
 
-- [India Travel Guide: Highlights and Essential Tips](/en/blog/india-travel-guide-highlights)
-- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel)
-- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026)
+- [India Travel Guide: Highlights and Essential Tips](/en/blog/india-travel-guide-highlights/)
+- [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel/)
+- [Travel Insurance: Is It Really Worth It?](/en/blog/travel-insurance-worth-it-2026/)

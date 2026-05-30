@@ -63,7 +63,7 @@ En [Booking.com](https://www.booking.com) encuentras alojamiento en todas las is
 
 Para la logística, Zercy te ayuda con la planificación de rutas: comparar combinaciones de islas, ordenar opciones de vuelo, verificar precios de alquiler de autos. Guarda tu ruta en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo a mano cuando vayas a reservar.
 
-Si te gustan los viajes multi-isla, también puedes ver nuestra [guía de island hopping en Croacia](/es/blog/islas-croacia-island-hopping) o la [comparativa de islas griegas](/es/blog/islas-griegas-comparativa) para alternativas europeas.
+Si te gustan los viajes multi-isla, también puedes ver nuestra [guía de island hopping en Croacia](/es/blog/islas-croacia-island-hopping/) o la [comparativa de islas griegas](/es/blog/islas-griegas-comparativa/) para alternativas europeas.
 
 ---
 
@@ -88,6 +88,6 @@ Pasaporte válido y prueba de viaje de continuación para la mayoría de las isl
 ---
 
 **Más para leer:**
-- [Island hopping en Croacia: la ruta adriática](/es/blog/islas-croacia-island-hopping)
-- [Islas griegas: ¿cuál te conviene?](/es/blog/islas-griegas-comparativa)
-- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026)
+- [Island hopping en Croacia: la ruta adriática](/es/blog/islas-croacia-island-hopping/)
+- [Islas griegas: ¿cuál te conviene?](/es/blog/islas-griegas-comparativa/)
+- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)

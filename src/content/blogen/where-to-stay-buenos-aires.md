@@ -35,7 +35,7 @@ Palermo is the largest neighborhood of Buenos Aires and splits into multiple sub
 
 **Top picks:** Magnolia Hotel Boutique (small boutique with courtyard), Casa Calma Wellness Hotel (eco-friendly premium), Mine Hotel Boutique (designer in Palermo Soho). These and 1,500+ more Buenos Aires accommodations are on [Booking.com](https://www.booking.com) with USD-fixed prices (protects against peso fluctuations).
 
-Palermo is also ideal for longer stays. See our [workation guide](/en/blog/workation-tax-rules-2026), Argentina is currently extremely cheap for digital nomads due to weak peso. The official city tourism board [Visit Buenos Aires](https://turismo.buenosaires.gob.ar/en) has a curated hotel overview by neighborhood.
+Palermo is also ideal for longer stays. See our [workation guide](/en/blog/workation-tax-rules-2026/), Argentina is currently extremely cheap for digital nomads due to weak peso. The official city tourism board [Visit Buenos Aires](https://turismo.buenosaires.gob.ar/en) has a curated hotel overview by neighborhood.
 
 ## Recoleta: Elegance and culture
 
@@ -59,7 +59,7 @@ San Telmo is the oldest neighborhood of Buenos Aires. Cobblestone streets, resto
 
 **Top picks:** Patios de San Telmo (small boutique in restored house), Mansión Vitraux Boutique Hotel (small, with wine bar), Hotel Casa San Telmo (boutique with courtyard).
 
-For romantic travelers see also our [Morocco riads guide](/en/blog/morocco-riads-guide), the concept is similar (courtyard hotels in historic neighborhoods).
+For romantic travelers see also our [Morocco riads guide](/en/blog/morocco-riads-guide/), the concept is similar (courtyard hotels in historic neighborhoods).
 
 ## Puerto Madero: Modern and safe
 
@@ -102,7 +102,7 @@ For Buenos Aires [Booking.com](https://www.booking.com) is clearly the best plat
 
 Direct booking only worth it for top hotels (Alvear, Faena) for possible upgrades.
 
-See also our [solo travel for women guide](/en/blog/solo-travel-women-safe-countries), Buenos Aires is safer than its reputation, but neighborhood choice still matters.
+See also our [solo travel for women guide](/en/blog/solo-travel-women-safe-countries/), Buenos Aires is safer than its reputation, but neighborhood choice still matters.
 
 ---
 
@@ -129,6 +129,6 @@ Buenos Aires is extremely cheap in 2026 due to peso weakness. Backpacker: $450-7
 ---
 
 **Read more:**
-- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena)
-- [Where to stay in Mexico City: 5 neighborhoods](/en/blog/where-to-stay-mexico-city)
-- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026)
+- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena/)
+- [Where to stay in Mexico City: 5 neighborhoods](/en/blog/where-to-stay-mexico-city/)
+- [Workation 2026: how to plan it without a tax mess](/en/blog/workation-tax-rules-2026/)

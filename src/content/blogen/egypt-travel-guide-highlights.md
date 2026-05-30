@@ -74,6 +74,6 @@ Egyptian Pound (EGP). Exchange rate: approximately 60 to 70 EGP per euro (2026, 
 ---
 
 **Read more:**
-- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [India Travel Guide: Highlights for Your Trip](/en/blog/india-travel-guide-highlights)
+- [East Africa Safari Guide: The Honest Planning Guide](/en/blog/east-africa-safari-guide/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [India Travel Guide: Highlights for Your Trip](/en/blog/india-travel-guide-highlights/)

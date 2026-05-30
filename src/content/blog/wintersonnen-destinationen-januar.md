@@ -40,7 +40,7 @@ Nur 3,5 Stunden von Frankfurt. Januar in Marrakesch: 17-20 Grad tagsüber, Näch
 
 Für wen: Kulturliebhaber, Paare auf Städtereise, alle die ein echtes Kontrastprogramm zu Nordeuropa wollen.
 
-Lies auch unseren [Marrakesch Stadtteil-Guide](/blog/wo-uebernachten-marrakesch) für Hoteltipps nach Viertel.
+Lies auch unseren [Marrakesch Stadtteil-Guide](/blog/wo-uebernachten-marrakesch/) für Hoteltipps nach Viertel.
 
 ## 5-6 Stunden Flug: Die mittlere Distanz
 
@@ -78,7 +78,7 @@ Bali im Januar ist schön, aber nicht optimal. Januar ist einer der regenreichst
 
 Der Vorteil: Januar ist Nebensaison. Deutlich günstigere Hotels. Weniger Touristen als im Sommer. Flüge ab 600-1000 EUR.
 
-Lies unseren [Bali Stadtteil-Guide](/blog/wo-uebernachten-bali) für die aktuellen Hotel-Empfehlungen.
+Lies unseren [Bali Stadtteil-Guide](/blog/wo-uebernachten-bali/) für die aktuellen Hotel-Empfehlungen.
 
 **Sri Lanka**
 
@@ -108,7 +108,7 @@ Regen-Risiko Januar Cairns: hoch. Sydney: gering. Preis Hotel: 80-300 EUR.
 
 **Oktober und November sind der optimale Buchungszeitraum** für den Januar-Urlaub. Flugpreise sind dann noch moderat, Hotelverfügbarkeit gut. Kanaren und Malediven sind beliebte Last-Minute-Ziele, aber gute Häuser und günstige Flüge sind oft schon im November weg.
 
-Wer [günstig fliegen](/blog/guenstig-fliegen-tipps) will: Dienstag und Mittwoch für Abflüge bevorzugen, frühmorgens oder spät abends. Preisalarme auf Google Flights einrichten.
+Wer [günstig fliegen](/blog/guenstig-fliegen-tipps/) will: Dienstag und Mittwoch für Abflüge bevorzugen, frühmorgens oder spät abends. Preisalarme auf Google Flights einrichten.
 
 Die detaillierten Klimadaten für alle Destinationen im Vergleich findest du auf [weatherspark.com](https://weatherspark.com), mit Temperatur- und Regentag-Statistiken pro Monat.
 
@@ -137,6 +137,6 @@ Kanaren: günstigste Option ab 80 EUR Flug, Hotel ab 60 EUR. Hurghada: All-inclu
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Marrakesch: Die besten Stadtteile](/blog/wo-uebernachten-marrakesch)
-- [Wo übernachten in Bali: Die besten Stadtteile](/blog/wo-uebernachten-bali)
-- [Günstig fliegen: 12 Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in Marrakesch: Die besten Stadtteile](/blog/wo-uebernachten-marrakesch/)
+- [Wo übernachten in Bali: Die besten Stadtteile](/blog/wo-uebernachten-bali/)
+- [Günstig fliegen: 12 Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps/)

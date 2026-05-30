@@ -104,7 +104,7 @@ Wer nicht müde ist: Madrid geht jetzt erst richtig los. Malasaña-Viertel für 
 
 **Gepäck**: wer nur einen Tag bleibt, will nicht schleppen. **Bounce** oder **Radical Storage** haben Depots in der Altstadt, 5 bis 7 Euro pro Tag.
 
-**Hotel für eine Nacht**: ins Altstadt-Viertel Sol oder La Latina. [Boutique-Hotels gibt es reichlich](/blog/boutique-hotels). Ab 90 Euro für 3-Sterne, 150 bis 250 Euro für 4-Sterne.
+**Hotel für eine Nacht**: ins Altstadt-Viertel Sol oder La Latina. [Boutique-Hotels gibt es reichlich](/blog/boutique-hotels/). Ab 90 Euro für 3-Sterne, 150 bis 250 Euro für 4-Sterne.
 
 **Fortbewegung**: Altstadt ist zu Fuß machbar. Für Retiro + Prado einmal die Metro nehmen. Ein 10er-Streifen Metro/Bus kostet 12 Euro und reicht für 10 Einzelfahrten.
 
@@ -118,9 +118,9 @@ Alternative Routen:
 
 ---
 
-Zercy findet dir Flüge nach Madrid, das richtige Hotel im Altstadtviertel und hilft dir, Museums-Tickets und Flamenco-Reservierungen zu organisieren. Das [Zercy Logbook](/blog/zercy-logbook) speichert alles an einem Ort.
+Zercy findet dir Flüge nach Madrid, das richtige Hotel im Altstadtviertel und hilft dir, Museums-Tickets und Flamenco-Reservierungen zu organisieren. Das [Zercy Logbook](/blog/zercy-logbook/) speichert alles an einem Ort.
 
-**Mehr lesen:** [Boutique-Hotels finden](/blog/boutique-hotels) · [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks) · [Geheimtipps Europa](/blog/geheimtipps-europa)
+**Mehr lesen:** [Boutique-Hotels finden](/blog/boutique-hotels/) · [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks/) · [Geheimtipps Europa](/blog/geheimtipps-europa/)
 
 ## Häufige Fragen
 
@@ -143,6 +143,6 @@ La Latina ist das klassische Tapas-Viertel mit der Cava Baja als Hauptachse. Lav
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Madrid: Die 5 Stadtteile](/blog/wo-uebernachten-madrid)
-- [Wo übernachten in Sevilla: Die 4 Stadtteile](/blog/wo-uebernachten-sevilla)
-- [Geheimtipps in Europa](/blog/geheimtipps-europa)
+- [Wo übernachten in Madrid: Die 5 Stadtteile](/blog/wo-uebernachten-madrid/)
+- [Wo übernachten in Sevilla: Die 4 Stadtteile](/blog/wo-uebernachten-sevilla/)
+- [Geheimtipps in Europa](/blog/geheimtipps-europa/)

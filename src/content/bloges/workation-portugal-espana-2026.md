@@ -62,7 +62,7 @@ Para apartamentos en Airbnb o Uniplaces para 1-3 meses: busca con antelación. L
 
 Depende de tu nacionalidad.
 
-**Ciudadanos de la UE:** No se necesita visado. Puedes vivir y trabajar en cualquier país de la UE sin límite de tiempo. El registro formal aplica técnicamente a partir de los 90 días, aunque rara vez se controla. Si eres empleado que trabaja en remoto, consulta con tu seguradora de salud para aclarar la situación de la seguridad social. Lee también nuestra [guía de workation e impuestos](/es/blog/workation-impuestos-2026) para más detalles.
+**Ciudadanos de la UE:** No se necesita visado. Puedes vivir y trabajar en cualquier país de la UE sin límite de tiempo. El registro formal aplica técnicamente a partir de los 90 días, aunque rara vez se controla. Si eres empleado que trabaja en remoto, consulta con tu seguradora de salud para aclarar la situación de la seguridad social. Lee también nuestra [guía de workation e impuestos](/es/blog/workation-impuestos-2026/) para más detalles.
 
 **Ciudadanos no europeos que quieran trabajar en Portugal:** El visado D8 (Visa de Nómada Digital de Portugal) exige un ingreso mínimo mensual de 3.280 EUR (a partir de 2026). Se solicita en la embajada portuguesa. El trámite tarda 4-8 semanas. Válido para freelancers y empleados remotos.
 
@@ -82,7 +82,7 @@ No todos los meses funcionan igual de bien.
 
 **Diciembre a marzo:** Funciona bien. Los precios de apartamentos son los más bajos del año. Málaga y Valencia suelen tener 15-20°C. Oporto y Lisboa pueden estar nublados y lluviosos, pero eso no afecta a la productividad.
 
-Consulta nuestra guía de [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa) para consejos detallados por barrio. Para todo lo relacionado con la [visa de nómada digital](/es/blog/visa-nomada-digital-paises-2026): encontrarás la comparativa completa de países allí.
+Consulta nuestra guía de [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa/) para consejos detallados por barrio. Para todo lo relacionado con la [visa de nómada digital](/es/blog/visa-nomada-digital-paises-2026/): encontrarás la comparativa completa de países allí.
 
 ---
 
@@ -109,6 +109,6 @@ Un puesto fijo cuesta entre 150 y 250 EUR al mes en ambas ciudades. Los pases di
 ---
 
 **Leer más:**
-- [Visa de nómada digital: Los mejores países 2026](/es/blog/visa-nomada-digital-paises-2026)
-- [Workation e impuestos: Lo que realmente necesitas saber](/es/blog/workation-impuestos-2026)
-- [Dónde alojarse en Lisboa: Los 5 barrios](/es/blog/donde-alojarse-lisboa)
+- [Visa de nómada digital: Los mejores países 2026](/es/blog/visa-nomada-digital-paises-2026/)
+- [Workation e impuestos: Lo que realmente necesitas saber](/es/blog/workation-impuestos-2026/)
+- [Dónde alojarse en Lisboa: Los 5 barrios](/es/blog/donde-alojarse-lisboa/)

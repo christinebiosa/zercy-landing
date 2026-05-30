@@ -94,6 +94,6 @@ Ein Pint Guinness in Temple Bar oder Touristengegend kostet 7-8 Euro. In lokalen
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in London: Soho oder Shoreditch?](/blog/wo-uebernachten-london)
-- [Wo übernachten in Edinburgh: Old Town oder New Town?](/blog/wo-uebernachten-edinburgh)
-- [Wo übernachten in Amsterdam: Canal Ring oder Jordaan?](/blog/wo-uebernachten-amsterdam)
+- [Wo übernachten in London: Soho oder Shoreditch?](/blog/wo-uebernachten-london/)
+- [Wo übernachten in Edinburgh: Old Town oder New Town?](/blog/wo-uebernachten-edinburgh/)
+- [Wo übernachten in Amsterdam: Canal Ring oder Jordaan?](/blog/wo-uebernachten-amsterdam/)

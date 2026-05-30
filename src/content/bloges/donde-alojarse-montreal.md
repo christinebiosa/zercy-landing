@@ -51,7 +51,7 @@ El barrio no es ideal para el primer día, pero es perfecto para todo lo demás.
 
 **Mejores opciones:** Maison du Plateau (encantador hotel boutique en el corazón del barrio), Hotel 10 (hotel de diseño popular entre viajeros creativos), Le Saint-Sulpice (suites boutique a medio camino entre el Plateau y el Vieux-Montréal).
 
-¿Planeas Montreal dentro de un viaje más largo por Canadá e incluyes Toronto? La [guía de barrios de Toronto](/es/blog/donde-alojarse-toronto) cubre la ciudad anglófona hermana con el mismo nivel de detalle.
+¿Planeas Montreal dentro de un viaje más largo por Canadá e incluyes Toronto? La [guía de barrios de Toronto](/es/blog/donde-alojarse-toronto/) cubre la ciudad anglófona hermana con el mismo nivel de detalle.
 
 ## ¿Cuándo es mejor visitar Montreal?
 
@@ -69,7 +69,7 @@ Mile End está al norte del Plateau entre Saint-Laurent y Park Avenue. En diez m
 
 **Mejores opciones:** Hotel Zéro 1 (cerca de Mile End, hotel de diseño popular entre clientela creativa), Le Baluchon (pequeña casa de huéspedes boutique con atención personalizada), apartamentos en alquiler en edificios triplex renovados (la alternativa local y más asequible).
 
-Para sacarle el máximo partido a la gastronomía de Montreal, la [guía de turismo gastronómico](/es/blog/turismo-gastronomico-comer-como-local) tiene estrategias prácticas para comer como un local en cualquier ciudad.
+Para sacarle el máximo partido a la gastronomía de Montreal, la [guía de turismo gastronómico](/es/blog/turismo-gastronomico-comer-como-local/) tiene estrategias prácticas para comer como un local en cualquier ciudad.
 
 ## NDG/Côte-des-Neiges: La Montreal tranquila
 
@@ -117,6 +117,6 @@ Montreal tiene una tradición culinaria única en Norteamérica. La viande fumé
 ---
 
 **Leer más:**
-- [Dónde alojarse en Toronto: Los 5 barrios](/es/blog/donde-alojarse-toronto)
-- [Turismo gastronómico: comer como un local en el mundo](/es/blog/turismo-gastronomico-comer-como-local)
-- [Viajes en tren por Europa: rutas, consejos y apps](/es/blog/viajes-tren-europa)
+- [Dónde alojarse en Toronto: Los 5 barrios](/es/blog/donde-alojarse-toronto/)
+- [Turismo gastronómico: comer como un local en el mundo](/es/blog/turismo-gastronomico-comer-como-local/)
+- [Viajes en tren por Europa: rutas, consejos y apps](/es/blog/viajes-tren-europa/)

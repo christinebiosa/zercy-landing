@@ -51,7 +51,7 @@ Herbst-Buchungen funktionieren anders als Sommer.
 - **Frühbuchung (6+ Monate):** Für Japan-Herbstfarben, populäre Italienrouten, Toskana-Agriturismo unbedingt nötig.
 - **Preisalarm setzen:** Skyscanner und Google Flights erlauben Preisalarme. Für Herbstziele im Juli setzen, sobald Preise fallen buchen.
 
-Mehr Strategien im [Guide zum optimalen Buchungszeitpunkt für Flüge](/blog/wann-fluege-buchen).
+Mehr Strategien im [Guide zum optimalen Buchungszeitpunkt für Flüge](/blog/wann-fluege-buchen/).
 
 ---
 
@@ -78,6 +78,6 @@ Alleinreisende profitieren am meisten vom Herbst: Hotpreise für Einzelzimmer fa
 ---
 
 **Mehr lesen:**
-- [Griechische Inseln Vergleich: Santorini, Mykonos, Kreta oder Rhodos?](/blog/griechenland-inseln-vergleich)
-- [Marokko Riads: Welche lohnen sich wirklich?](/blog/riads-marokko-guide)
-- [Geheimtipps Europa: Orte die noch nicht jeder kennt](/blog/geheimtipps-europa)
+- [Griechische Inseln Vergleich: Santorini, Mykonos, Kreta oder Rhodos?](/blog/griechenland-inseln-vergleich/)
+- [Marokko Riads: Welche lohnen sich wirklich?](/blog/riads-marokko-guide/)
+- [Geheimtipps Europa: Orte die noch nicht jeder kennt](/blog/geheimtipps-europa/)

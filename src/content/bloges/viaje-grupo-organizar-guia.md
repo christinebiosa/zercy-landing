@@ -38,7 +38,7 @@ Crea un Google Forms con tres preguntas: presupuesto mínimo, presupuesto ideal,
 
 Un punto de referencia real para un viaje en grupo de 7 noches por Europa: entre 700 y 1.400 euros por persona, según el destino y el nivel de alojamiento. Eso incluye vuelo, alojamiento y comidas diarias. Las actividades aparte.
 
-Para una guía más detallada sobre cómo manejar el presupuesto del viaje: [Planificar el presupuesto del viaje](/es/blog/planificar-presupuesto-viaje).
+Para una guía más detallada sobre cómo manejar el presupuesto del viaje: [Planificar el presupuesto del viaje](/es/blog/planificar-presupuesto-viaje/).
 
 ## ¿Qué método de decisión funciona mejor en grupo?
 
@@ -60,7 +60,7 @@ Las tarifas de grupo en hoteles suelen empezar a partir de 10 habitaciones, es d
 
 Los vuelos son más complejos. Las aerolíneas suelen separar las reservas de grupo por encima de 10 pasajeros en sistemas propios con precios distintos. Esas tarifas pueden ser más baratas que los billetes individuales, o a veces más caras. Siempre compara las dos opciones.
 
-Importante: los descuentos de grupo requieren reservar con antelación. Lo habitual es entre 3 y 6 meses antes. Este artículo explica cuándo conviene reservar para conseguir los mejores precios: [Cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos).
+Importante: los descuentos de grupo requieren reservar con antelación. Lo habitual es entre 3 y 6 meses antes. Este artículo explica cuándo conviene reservar para conseguir los mejores precios: [Cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/).
 
 ## ¿Cómo se reparten las tareas en un grupo de viaje?
 
@@ -78,7 +78,7 @@ Esto no significa que solo tres personas trabajen. Significa que tres personas t
 
 Un apunte más: no todo el mundo tiene que hacer lo mismo. Un modelo flexible funciona mejor que uno rígido. Hotel compartido, desayunos juntos, tardes libres. Las personas con estilos de viaje diferentes pueden viajar juntas sin problemas si hay espacio para ello.
 
-Para conocer las apps que mejor ayudan con todo esto: [Las mejores apps de viaje 2026](/es/blog/mejores-apps-viaje-2026).
+Para conocer las apps que mejor ayudan con todo esto: [Las mejores apps de viaje 2026](/es/blog/mejores-apps-viaje-2026/).
 
 ## ¿Qué suele salir mal en los viajes en grupo?
 
@@ -90,7 +90,7 @@ Respuesta directa: la puntualidad, el estrés con la comida y los conflictos de 
 
 **Conflictos de actividades:** Unas personas quieren museos. Otras quieren playa. Esto no es un fallo del grupo, es completamente normal. Planifica medias jornadas libres. Así cada uno puede hacer lo que quiere sin que nadie sienta que ha cedido demasiado.
 
-Más sobre los errores que arruinan los viajes: [Errores de viaje que debes evitar](/es/blog/errores-viaje-evitar-clasicos).
+Más sobre los errores que arruinan los viajes: [Errores de viaje que debes evitar](/es/blog/errores-viaje-evitar-clasicos/).
 
 ---
 
@@ -99,9 +99,9 @@ Más sobre los errores que arruinan los viajes: [Errores de viaje que debes evit
 ---
 
 **Más información:**
-- [Errores de viaje que debes evitar](/es/blog/errores-viaje-evitar-clasicos)
-- [Cómo planificar el presupuesto del viaje](/es/blog/planificar-presupuesto-viaje)
-- [Las mejores apps de viaje 2026](/es/blog/mejores-apps-viaje-2026)
+- [Errores de viaje que debes evitar](/es/blog/errores-viaje-evitar-clasicos/)
+- [Cómo planificar el presupuesto del viaje](/es/blog/planificar-presupuesto-viaje/)
+- [Las mejores apps de viaje 2026](/es/blog/mejores-apps-viaje-2026/)
 
 ---
 

@@ -58,7 +58,7 @@ Para quienes combinan arte, gastronomía moderna y comodidad urbana: el Ensanche
 
 **Referencia**: Hotel Miro Bilbao (diseño, vistas al Guggenheim, aprox. 200 €).
 
-Para comparar con otra ciudad vasca o del norte de España, consulta también [dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla) y [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona).
+Para comparar con otra ciudad vasca o del norte de España, consulta también [dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla/) y [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/).
 
 ## Abando: Practicidad y buenas conexiones
 
@@ -97,6 +97,6 @@ El Guggenheim Bilbao es la visita imprescindible. Pero igual de importante es de
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Sevilla: Santa Cruz, Triana y más](/es/blog/donde-alojarse-sevilla)
-- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona)
-- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid)
+- [Dónde alojarse en Sevilla: Santa Cruz, Triana y más](/es/blog/donde-alojarse-sevilla/)
+- [Dónde alojarse en Barcelona: Gótico, Eixample o Born](/es/blog/donde-alojarse-barcelona/)
+- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid/)

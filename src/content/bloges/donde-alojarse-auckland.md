@@ -105,6 +105,6 @@ Ponsonby tiene mejores restaurantes, más vida local y menos turistas. Después 
 
 ## Seguir leyendo
 
-- [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires)
-- [Dónde alojarse en Lima](/es/blog/donde-alojarse-lima)
-- [Dónde alojarse en Río de Janeiro](/es/blog/donde-alojarse-rio-de-janeiro)
+- [Dónde alojarse en Buenos Aires](/es/blog/donde-alojarse-buenos-aires/)
+- [Dónde alojarse en Lima](/es/blog/donde-alojarse-lima/)
+- [Dónde alojarse en Río de Janeiro](/es/blog/donde-alojarse-rio-de-janeiro/)

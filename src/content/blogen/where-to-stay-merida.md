@@ -69,7 +69,7 @@ Two neighborhoods west and south of the Centro that have become a quiet favorite
 
 **Top picks:** Hotel Marionetas (family-run boutique hotel in Santiago, pool, 6 rooms), Casa Mexilio (creative bed and breakfast, mixed guest community).
 
-If Mérida is part of a bigger Yucatán journey, also check our [Mexico Road Trip Guide](/en/blog/mexico-road-trip-route) for route ideas.
+If Mérida is part of a bigger Yucatán journey, also check our [Mexico Road Trip Guide](/en/blog/mexico-road-trip-route/) for route ideas.
 
 ## Altabrisa: Modern and Efficient
 
@@ -97,7 +97,7 @@ Most Mérida hotels have their own websites, but the price difference compared t
 
 Important note: Mérida is a popular domestic travel destination for Mexicans. During Semana Santa and national holidays, good hotels book up weeks in advance. For November-March travel, book 3-4 weeks ahead at minimum.
 
-Also see our guides to [Where to Stay in Cancún](/en/blog/where-to-stay-cancun) and [Where to Stay in Tulum](/en/blog/where-to-stay-tulum) for your full Yucatán itinerary.
+Also see our guides to [Where to Stay in Cancún](/en/blog/where-to-stay-cancun/) and [Where to Stay in Tulum](/en/blog/where-to-stay-tulum/) for your full Yucatán itinerary.
 
 ---
 
@@ -124,6 +124,6 @@ Cochinita Pibil (slow-cooked pork in achiote marinade, traditionally wrapped in 
 ---
 
 **Read more:**
-- [Mexico Road Trip Route: Yucatán and Beyond](/en/blog/mexico-road-trip-route)
-- [Where to Stay in Cancún: The 4 Neighborhoods](/en/blog/where-to-stay-cancun)
-- [Where to Stay in Tulum: Beach or Town?](/en/blog/where-to-stay-tulum)
+- [Mexico Road Trip Route: Yucatán and Beyond](/en/blog/mexico-road-trip-route/)
+- [Where to Stay in Cancún: The 4 Neighborhoods](/en/blog/where-to-stay-cancun/)
+- [Where to Stay in Tulum: Beach or Town?](/en/blog/where-to-stay-tulum/)

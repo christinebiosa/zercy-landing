@@ -52,7 +52,7 @@ Gornji Grad liegt buchstäblich über Donji Grad. Die Standseilbahn (eine der k�
 - **Hotel Jägerhorn**: Das älteste Hotel Kroatiens, seit 1827 in Betrieb. Kleines Boutique-Hotel direkt in der Oberstadt. Kein Aufzug, aber echte Geschichte in den Wänden. Für alle, die das schätzen.
 - **Hotel Palace Zagreb** (4-Sterne): Am Rand von Gornji Grad, Art-Nouveau-Fassade aus 1907. Renoviert, aber Charakter erhalten. Schöne Terrasse.
 
-Lies dazu auch unseren [Städte-Guide für Split](/blog/wo-uebernachten-split), Kroatiens zweite große Reisestadt ist ganz anders als Zagreb.
+Lies dazu auch unseren [Städte-Guide für Split](/blog/wo-uebernachten-split/), Kroatiens zweite große Reisestadt ist ganz anders als Zagreb.
 
 ## Trnje: Lokal und günstiger
 
@@ -105,10 +105,10 @@ Hochsommer (Juli/August) ist heiß und Hotels teuer, obwohl weniger überlaufen 
 
 ### Wie viele Tage braucht man für Zagreb?
 
-Zwei volle Tage reichen für die Highlights: Gornji Grad, Dolac-Markt, einige Museen, Tkalciceva-Straße abends. Für ein entspanntes Zagreb-Gefühl empfehlen sich drei Tage. Kombination mit [Ljubljana](/blog/wo-uebernachten-ljubljana) ist beliebt: vier Stunden Zug verbinden beide Städte.
+Zwei volle Tage reichen für die Highlights: Gornji Grad, Dolac-Markt, einige Museen, Tkalciceva-Straße abends. Für ein entspanntes Zagreb-Gefühl empfehlen sich drei Tage. Kombination mit [Ljubljana](/blog/wo-uebernachten-ljubljana/) ist beliebt: vier Stunden Zug verbinden beide Städte.
 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Split: Die Stadtteile im Vergleich](/blog/wo-uebernachten-split)
-- [Wo übernachten in Ljubljana: Zwischen Burg und Markt](/blog/wo-uebernachten-ljubljana)
+- [Wo übernachten in Split: Die Stadtteile im Vergleich](/blog/wo-uebernachten-split/)
+- [Wo übernachten in Ljubljana: Zwischen Burg und Markt](/blog/wo-uebernachten-ljubljana/)

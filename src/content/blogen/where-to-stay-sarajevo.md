@@ -53,7 +53,7 @@ Hotels here are more modern, larger, and more consistent in service. Less intima
 
 **Top picks:** Hotel Europe (the city's historic grand hotel), Holiday Inn Sarajevo (solid chain option), Radon Plaza Hotel (modern alternative with river views).
 
-Planning the full Balkan circuit? The [Balkan Road Trip Route](/en/blog/balkan-road-trip-route) puts Sarajevo in context — it's a natural stop between Mostar, Dubrovnik, and Kotor.
+Planning the full Balkan circuit? The [Balkan Road Trip Route](/en/blog/balkan-road-trip-route/) puts Sarajevo in context — it's a natural stop between Mostar, Dubrovnik, and Kotor.
 
 ## When Is the Best Time to Visit Sarajevo?
 
@@ -73,7 +73,7 @@ For travelers who want to experience a local Sarajevo and skip tourist pricing, 
 
 **Top picks:** Several well-reviewed guesthouses and apartments on Booking.com, Hostel Mix (budget-friendly, social, accessible enough).
 
-Looking to stretch your budget across the region? The [Budget Travel Eastern Europe guide](/en/blog/budget-travel-eastern-europe) has real numbers for the whole corridor.
+Looking to stretch your budget across the region? The [Budget Travel Eastern Europe guide](/en/blog/budget-travel-eastern-europe/) has real numbers for the whole corridor.
 
 ## Ilidža: Quiet, Green, and Thermal
 
@@ -109,7 +109,7 @@ For Sarajevo, [Booking.com](https://www.booking.com) is the most practical platf
 - Free cancellation on most bookings
 - Real price comparison across all property types
 
-Sarajevo is one of the most affordable capitals in Europe. Good boutique hotels from 80-100 EUR per night. For a regional comparison, [Where to Stay in Kotor](/en/blog/where-to-stay-kotor) gives a sense of what you'll find along the Adriatic coast.
+Sarajevo is one of the most affordable capitals in Europe. Good boutique hotels from 80-100 EUR per night. For a regional comparison, [Where to Stay in Kotor](/en/blog/where-to-stay-kotor/) gives a sense of what you'll find along the Adriatic coast.
 
 ---
 
@@ -136,6 +136,6 @@ Sarajevo Airport is 6 kilometers southwest of the center. Taxi costs 15-20 EUR, 
 ---
 
 **Read more:**
-- [Balkan Road Trip Route: The Best Drive Through the Balkans](/en/blog/balkan-road-trip-route)
-- [Where to Stay in Kotor: Old Town or Quiet Shore](/en/blog/where-to-stay-kotor)
-- [Budget Travel Eastern Europe: The Honest Guide](/en/blog/budget-travel-eastern-europe)
+- [Balkan Road Trip Route: The Best Drive Through the Balkans](/en/blog/balkan-road-trip-route/)
+- [Where to Stay in Kotor: Old Town or Quiet Shore](/en/blog/where-to-stay-kotor/)
+- [Budget Travel Eastern Europe: The Honest Guide](/en/blog/budget-travel-eastern-europe/)

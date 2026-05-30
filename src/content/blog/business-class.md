@@ -40,7 +40,7 @@ Je nach Airline und Strecke sehr unterschiedlich. Aber der Standard auf Interkon
 
 **Essen**: Mehrere Gänge, echtes Besteck, oft von Sterneköchen entwickelte Menüs auf Premium-Strecken. Kein Vergleich zu Economy.
 
-**Lounge-Zugang**: Vor dem Flug und an Umsteigeflughäfen. Duschen, ruhige Sitzbereiche, Buffet, Bar. Mehr dazu im Artikel [7 Flughafen-Tricks](/blog/airport-hacks).
+**Lounge-Zugang**: Vor dem Flug und an Umsteigeflughäfen. Duschen, ruhige Sitzbereiche, Buffet, Bar. Mehr dazu im Artikel [7 Flughafen-Tricks](/blog/airport-hacks/).
 
 **Priority-Boarding**: Du steigst zuerst ein. Kein Drängeln, kein Gepäckfach-Problem.
 
@@ -49,7 +49,7 @@ Je nach Airline und Strecke sehr unterschiedlich. Aber der Standard auf Interkon
 ## Wie man günstiger in die Business Class kommt
 
 **Meilen und Punkte nutzen**
-Miles & More, Flying Blue, British Airways Avios, Turkish Miles&Smiles — wer regelmäßig fliegt und seine Meilen nicht ignoriert, kann damit Business Class Langstrecken deutlich unter Listenpreis buchen. Wie du generell günstiger buchst, erklären wir in [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps).
+Miles & More, Flying Blue, British Airways Avios, Turkish Miles&Smiles — wer regelmäßig fliegt und seine Meilen nicht ignoriert, kann damit Business Class Langstrecken deutlich unter Listenpreis buchen. Wie du generell günstiger buchst, erklären wir in [Günstig fliegen: 7 Tricks](/blog/guenstig-fliegen-tipps/).
 
 Besonders interessant: Transfers von Kreditkarten-Punkten (American Express Membership Rewards, z.B.) zu Airline-Meilenprogrammen. Hier gibt es regelmäßig Transfer-Bonusaktionen.
 
@@ -104,4 +104,4 @@ Selten, aber es passiert. Fehltarife, Meilenredemptions und extreme Sale-Events 
 
 In der Regel: Ja. Ein Business-Class-Flug nach New York (Wert ca. 3.000–5.000 Euro) kostet bei Miles & More rund 110.000–130.000 Meilen. Meilen über Kreditkarten-Ausgaben sammeln zu 1 Punkt/Euro — das ergibt einen Meilenwert von ca. 2–5 Cent, je nach Redemption.
 
-**Mehr lesen:** [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen) · [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks) · [L.A. Baby: Los Angeles lohnt sich immer](/blog/los-angeles)
+**Mehr lesen:** [Wann Flüge buchen — der optimale Zeitpunkt](/blog/wann-fluege-buchen/) · [7 Flughafen-Tricks für entspanntes Reisen](/blog/airport-hacks/) · [L.A. Baby: Los Angeles lohnt sich immer](/blog/los-angeles/)

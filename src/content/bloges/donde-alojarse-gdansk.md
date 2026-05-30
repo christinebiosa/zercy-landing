@@ -47,7 +47,7 @@ Los hoteles en Wrzeszcz son entre un 20 y un 30 por ciento más baratos que en l
 - **Aparthotel Neptun Wrzeszcz:** Apartamentos con servicios, ideal para 3 o más noches. Cocina en la habitación, ambiente residencial.
 - **Casas de huéspedes variadas:** Booking.com lista decenas de habitaciones privadas y pequeños B&B en el barrio.
 
-Si estás construyendo una ruta por Europa del Este, nuestra guía de [Polonia completa](/es/blog/polonia-ruta-completa) tiene una ruta detallada con Varsovia, Cracovia y Gdansk.
+Si estás construyendo una ruta por Europa del Este, nuestra guía de [Polonia completa](/es/blog/polonia-ruta-completa/) tiene una ruta detallada con Varsovia, Cracovia y Gdansk.
 
 ## ¿Cuándo es mejor visitar Gdansk?
 
@@ -95,7 +95,7 @@ Para **historia y ubicación:** Główne Miasto. Para **vida auténtica y precio
 
 Gdansk es más barata que Praga o Cracovia, y los precios de los hoteles en la Ciudad Vieja siguen por debajo del nivel de Europa occidental. Un buen hotel boutique en Główne Miasto por 120 euros. Una cena excelente por 15 euros.
 
-Si después de Gdansk sigues hacia el norte, nuestra guía de [dónde alojarse en Tallin](/es/blog/donde-alojarse-tallin) tiene la respuesta para Estonia. Y para proteger el viaje, nuestro artículo sobre [seguro de viaje, si vale la pena](/es/blog/seguro-viaje-vale-la-pena) te da los números reales.
+Si después de Gdansk sigues hacia el norte, nuestra guía de [dónde alojarse en Tallin](/es/blog/donde-alojarse-tallin/) tiene la respuesta para Estonia. Y para proteger el viaje, nuestro artículo sobre [seguro de viaje, si vale la pena](/es/blog/seguro-viaje-vale-la-pena/) te da los números reales.
 
 Dile a Zercy qué buscas. Recibirás propuestas concretas de hoteles en el barrio de Gdansk que encaje con tu estilo de viaje. Guarda la lista en tu [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano cuando reserves.
 
@@ -122,6 +122,6 @@ Gdansk fue durante siglos una ciudad libre con fuerte raíz hanseática. La Segu
 ---
 
 **Más artículos:**
-- [Polonia ruta completa: Varsovia, Cracovia, Gdansk](/es/blog/polonia-ruta-completa)
-- [Dónde alojarse en Tallin: Los mejores barrios](/es/blog/donde-alojarse-tallin)
-- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Polonia ruta completa: Varsovia, Cracovia, Gdansk](/es/blog/polonia-ruta-completa/)
+- [Dónde alojarse en Tallin: Los mejores barrios](/es/blog/donde-alojarse-tallin/)
+- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

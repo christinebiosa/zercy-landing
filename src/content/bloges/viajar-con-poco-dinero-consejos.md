@@ -18,7 +18,7 @@ Tres categorías representan el 80 por ciento de los costos de viaje: vuelo, alo
 
 **Vuelo:** La palanca más grande es la flexibilidad de fechas. Los vuelos los lunes, martes y miércoles son en promedio entre un 15 y un 20 por ciento más baratos que del viernes al domingo. Reservar con anticipación ayuda para destinos de negocios (París, Londres, Amsterdam). Reservar tarde ayuda para destinos de ocio donde las aerolíneas necesitan llenar asientos.
 
-Estrategia de búsqueda: usar Skyscanner en modo "mes completo" y elegir el día más barato. Luego verificar en Google Flights (muestra curvas de precios de las últimas semanas). Más estrategias en nuestra [guía sobre cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos).
+Estrategia de búsqueda: usar Skyscanner en modo "mes completo" y elegir el día más barato. Luego verificar en Google Flights (muestra curvas de precios de las últimas semanas). Más estrategias en nuestra [guía sobre cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/).
 
 **Alojamiento:** Cada noche es una decisión independiente. Los hostels con opción de habitación privada suelen ser entre un 40 y un 60 por ciento más baratos que hoteles de calidad comparable. Apartamentos desde 4 noches a través de Booking.com son una buena opción (la cocina ahorra costos de restaurante). Airbnb gana para grupos de 4 o más personas con 5 o más noches.
 
@@ -40,7 +40,7 @@ Estrategia de búsqueda: usar Skyscanner en modo "mes completo" y elegir el día
 
 El viaje con presupuesto ajustado tiene un límite donde recortar se vuelve contraproducente. Dónde no conviene ahorrar:
 
-**Seguro de viaje:** 32-85 USD por semana es la prima de seguro más barata que existe comparada con lo que cubre. Cancelación de viaje, cobertura médica en el extranjero, pérdida de equipaje. Nunca omitirlo. Más en nuestra [guía de seguros de viaje](/es/blog/seguro-viaje-vale-la-pena).
+**Seguro de viaje:** 32-85 USD por semana es la prima de seguro más barata que existe comparada con lo que cubre. Cancelación de viaje, cobertura médica en el extranjero, pérdida de equipaje. Nunca omitirlo. Más en nuestra [guía de seguros de viaje](/es/blog/seguro-viaje-vale-la-pena/).
 
 **Salud e higiene:** Comida callejera barata de proveedores poco higiénicos. El costo de una intoxicación (días de viaje perdidos, costos médicos) supera cualquier ahorro.
 
@@ -83,6 +83,6 @@ Tarjeta de crédito sin comisión de cambio de divisas (Revolut, N26, Nubank). E
 ---
 
 **Más para leer:**
-- [Consejos para vuelos baratos: cómo encontrar los mejores precios](/es/blog/consejos-vuelos-baratos)
-- [Consolidadores de alquiler: ahorra hasta un 40 por ciento](/es/blog/consolidadores-alquiler-ahorrar)
-- [Guía para planificar un sabbatical: cómo tomarte un descanso sin quedarte sin dinero](/es/blog/sabbatical-guia-planificacion)
+- [Consejos para vuelos baratos: cómo encontrar los mejores precios](/es/blog/consejos-vuelos-baratos/)
+- [Consolidadores de alquiler: ahorra hasta un 40 por ciento](/es/blog/consolidadores-alquiler-ahorrar/)
+- [Guía para planificar un sabbatical: cómo tomarte un descanso sin quedarte sin dinero](/es/blog/sabbatical-guia-planificacion/)

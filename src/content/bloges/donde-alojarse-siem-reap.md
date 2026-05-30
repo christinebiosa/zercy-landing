@@ -63,7 +63,7 @@ Al norte del centro de la ciudad, al otro lado del río Siem Reap: el barrio de 
 
 **Top picks:** Raffles Grand Hotel d'Angkor (hotel de lujo histórico colonial, el más icónico de Siem Reap), Anantara Angkor Resort (lujo moderno con piscina y spa), Park Hyatt Siem Reap (opción de lujo más urbana).
 
-Si continuás tu ruta por el Sudeste Asiático, nuestra [guía de Bangkok](/es/blog/donde-alojarse-bangkok) te ayuda a elegir el barrio correcto en la metrópolis.
+Si continuás tu ruta por el Sudeste Asiático, nuestra [guía de Bangkok](/es/blog/donde-alojarse-bangkok/) te ayuda a elegir el barrio correcto en la metrópolis.
 
 ## Airport Road: Económico y práctico
 
@@ -85,7 +85,7 @@ Al este del río Siem Reap está el barrio que la mayoría de los turistas nunca
 
 **Top picks:** Maison 557 (pequeño hotel boutique con carácter genuino), Soria Moria Hotel (concepto belga-camboyano, cocina excelente en el lugar), Phum Baitang (al borde de la ciudad, villas en palafitos, para una experiencia memorable).
 
-Si estás armando tu ruta por el Sudeste Asiático, leé también nuestra [guía de Hanoi](/es/blog/donde-alojarse-hanoi) para conocer las mejores zonas del norte de Vietnam.
+Si estás armando tu ruta por el Sudeste Asiático, leé también nuestra [guía de Hanoi](/es/blog/donde-alojarse-hanoi/) para conocer las mejores zonas del norte de Vietnam.
 
 ## ¿Dónde deberías reservar al final?
 
@@ -123,6 +123,6 @@ Para mejor luz y menos multitudes: amanecer entre las 5:30 y las 6 am. Los grupo
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Bangkok: Los 5 mejores barrios](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Hanoi: Las mejores zonas](/es/blog/donde-alojarse-hanoi)
-- [Dónde alojarse en Bali: Guía por zonas 2026](/es/blog/donde-alojarse-bali)
+- [Dónde alojarse en Bangkok: Los 5 mejores barrios](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Hanoi: Las mejores zonas](/es/blog/donde-alojarse-hanoi/)
+- [Dónde alojarse en Bali: Guía por zonas 2026](/es/blog/donde-alojarse-bali/)

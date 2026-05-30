@@ -56,7 +56,7 @@ Hotels in Fira are cheaper than Oia. Good boutique hotels with caldera views: �
 - **Tsitouras Collection** (five historic houses, Fira, around €300)
 - **Hotel Atlantis** (central location, solid facilities, around €160)
 
-For other Mediterranean city trips, see our guides on [where to stay in Athens](/en/blog/where-to-stay-athens) and [where to stay in Istanbul](/en/blog/where-to-stay-istanbul).
+For other Mediterranean city trips, see our guides on [where to stay in Athens](/en/blog/where-to-stay-athens/) and [where to stay in Istanbul](/en/blog/where-to-stay-istanbul/).
 
 ## Which village is best for a first visit?
 
@@ -103,6 +103,6 @@ Good boutique hotels with caldera views from €220 to €350 per night in shoul
 ---
 
 **Read more:**
-- [Where to stay in Athens: Old Town or Kolonaki?](/en/blog/where-to-stay-athens)
-- [Where to stay in Istanbul: Sultanahmet or Beyoğlu?](/en/blog/where-to-stay-istanbul)
-- [Where to stay in Florence: Historic center or Oltrarno?](/en/blog/where-to-stay-florence)
+- [Where to stay in Athens: Old Town or Kolonaki?](/en/blog/where-to-stay-athens/)
+- [Where to stay in Istanbul: Sultanahmet or Beyoğlu?](/en/blog/where-to-stay-istanbul/)
+- [Where to stay in Florence: Historic center or Oltrarno?](/en/blog/where-to-stay-florence/)

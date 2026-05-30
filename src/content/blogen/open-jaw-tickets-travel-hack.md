@@ -58,7 +58,7 @@ Open-jaw works brilliantly for certain trip types. Not all.
 
 **Ideal for:**
 
-- European road trips. Fly into Rome, travel through Florence to Milan, fly home from there. [Train routes across Europe](/en/blog/train-travel-europe) make the overland stretch comfortable and cheap.
+- European road trips. Fly into Rome, travel through Florence to Milan, fly home from there. [Train routes across Europe](/en/blog/train-travel-europe/) make the overland stretch comfortable and cheap.
 - Car rentals. Pick up in Barcelona, drop off in Nice. One-way fees are often just 30 to 50 euros extra.
 - Longer trips of 10 days or more. The more time you have, the more value an open route delivers.
 - Multi-city itineraries. Three cities in two weeks? Open-jaw saves you the return leg to city one.
@@ -87,9 +87,9 @@ As [Lonely Planet](https://www.lonelyplanet.com/articles/cheap-flights-using-goo
 
 ## Zercy's secret weapon
 
-Open-jaw is one of Zercy's core features. When you say "I want to visit Portugal and Spain," Zercy automatically suggests an open-jaw route. You do not need to know the trick exists. [Zercy recognizes the pattern](/en/blog/what-is-zercy) and shows you the route with prices, ground transfers and alternatives.
+Open-jaw is one of Zercy's core features. When you say "I want to visit Portugal and Spain," Zercy automatically suggests an open-jaw route. You do not need to know the trick exists. [Zercy recognizes the pattern](/en/blog/what-is-zercy/) and shows you the route with prices, ground transfers and alternatives.
 
-No manual multi-city searching. No comparing across three platforms. Zercy thinks ahead so you can spend more time traveling and less time searching. For more ways to save on flights, check out [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips).
+No manual multi-city searching. No comparing across three platforms. Zercy thinks ahead so you can spend more time traveling and less time searching. For more ways to save on flights, check out [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips/).
 
 ---
 
@@ -117,6 +117,6 @@ Open-jaw delivers the most value on European road trips, car rental routes and t
 
 Read more:
 
-- [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips)
-- [When Should You Book Flights?](/en/blog/when-to-book-flights)
-- [Train Travel in Europe: The Best Routes](/en/blog/train-travel-europe)
+- [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips/)
+- [When Should You Book Flights?](/en/blog/when-to-book-flights/)
+- [Train Travel in Europe: The Best Routes](/en/blog/train-travel-europe/)

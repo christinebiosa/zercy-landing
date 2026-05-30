@@ -26,7 +26,7 @@ Hay perfiles de viajero para los que pagar el suplemento tiene sentido claro.
 
 **Vuelos madrugadores.** Si tienes que salir al aeropuerto a las 6 de la mañana, no hay nada abierto. El bufé del hotel es tu única opción real. En ese caso, el desayuno incluido vale la pena solo por comodidad, sin necesidad de hacer cálculos.
 
-**Ciudades con desayunos caros.** París, Londres, Zúrich, Ámsterdam, Estocolmo, Oslo: un desayuno en una cafetería cuesta entre 15 y 25 euros por persona, sin garantía de calidad. El bufé del hotel con huevos, fruta fresca y café suele ser una opción mejor a un precio parecido. Quien [se aloja en París](/es/blog/donde-alojarse-paris) sabe que desayunar fuera puede salir más caro de lo esperado.
+**Ciudades con desayunos caros.** París, Londres, Zúrich, Ámsterdam, Estocolmo, Oslo: un desayuno en una cafetería cuesta entre 15 y 25 euros por persona, sin garantía de calidad. El bufé del hotel con huevos, fruta fresca y café suele ser una opción mejor a un precio parecido. Quien [se aloja en París](/es/blog/donde-alojarse-paris/) sabe que desayunar fuera puede salir más caro de lo esperado.
 
 **Grupos grandes o familias.** Con niños, el cálculo cambia. Los niños comen menos pero a menudo pagan los mismos precios en cafeterías. Un hotel con desayuno incluido o tarifa familiar reduce bastante el precio por persona.
 
@@ -38,7 +38,7 @@ Hay perfiles de viajero para los que pagar el suplemento tiene sentido claro.
 
 Esta es la lista que rara vez aparece en la publicidad turística.
 
-**Lisboa.** Un galão y un pastel de nata en el mostrador cuestan 2 o 3 euros. Un desayuno completo en el mercado o en una cafetería local sale por 4 o 6 euros. El desayuno del hotel: entre 22 y 30 euros. Eso es una diferencia de 24 euros por persona al día. En siete noches, son 168 euros por persona, casi 340 euros para dos. Quien quiere [conocer Lisboa de verdad](/es/blog/donde-alojarse-lisboa) debería desayunar fuera.
+**Lisboa.** Un galão y un pastel de nata en el mostrador cuestan 2 o 3 euros. Un desayuno completo en el mercado o en una cafetería local sale por 4 o 6 euros. El desayuno del hotel: entre 22 y 30 euros. Eso es una diferencia de 24 euros por persona al día. En siete noches, son 168 euros por persona, casi 340 euros para dos. Quien quiere [conocer Lisboa de verdad](/es/blog/donde-alojarse-lisboa/) debería desayunar fuera.
 
 **Barcelona.** Tortilla, pan con tomate, café con leche en el mercado: 5 a 8 euros. Desayuno del hotel: 18 a 28 euros. La misma lógica que Lisboa.
 
@@ -56,7 +56,7 @@ Luego compara ese número con lo que costaría desayunar fuera en condiciones si
 
 A veces es incluso más sencillo. La diferencia entre las dos tarifas es de 8 euros. Un café y un croissant a la vuelta de la esquina cuestan 6. El desayuno es prácticamente gratis. Esto pasa con más frecuencia de lo que parece, especialmente en países con alto coste de vida.
 
-La comparación también importa entre plataformas. [Booking vs. Expedia](/es/blog/booking-vs-expedia-comparativa-2026) a veces muestra tarifas distintas con y sin desayuno para el mismo hotel.
+La comparación también importa entre plataformas. [Booking vs. Expedia](/es/blog/booking-vs-expedia-comparativa-2026/) a veces muestra tarifas distintas con y sin desayuno para el mismo hotel.
 
 ## ¿Qué dice la experiencia real según la ciudad?
 
@@ -64,9 +64,9 @@ En el norte de Europa y en ciudades caras como París o Londres, el desayuno inc
 
 En el sur de Europa ocurre lo contrario. España, Portugal, Italia, Grecia: las cafeterías y mercados locales ofrecen mejor calidad a una fracción del precio del hotel. Desayunar fuera aquí es parte de la experiencia, no una renuncia.
 
-Si no sabes si tu destino cae en la categoría "vale la pena", la [categoría del hotel](/es/blog/categorias-hotel-explicadas) te da una pista. Los hoteles en el centro de zonas turísticas cobran más por el desayuno que los hoteles boutique en barrios residenciales.
+Si no sabes si tu destino cae en la categoría "vale la pena", la [categoría del hotel](/es/blog/categorias-hotel-explicadas/) te da una pista. Los hoteles en el centro de zonas turísticas cobran más por el desayuno que los hoteles boutique en barrios residenciales.
 
-Quien conoce las [reglas de paridad de tarifas](/es/blog/paridad-tarifas-hoteles) también sabe que los complementos de desayuno más baratos casi siempre están en la plataforma en la que ibas a reservar de todas formas.
+Quien conoce las [reglas de paridad de tarifas](/es/blog/paridad-tarifas-hoteles/) también sabe que los complementos de desayuno más baratos casi siempre están en la plataforma en la que ibas a reservar de todas formas.
 
 ---
 
@@ -93,6 +93,6 @@ Abre dos pestañas: una con desayuno incluido, otra sin él. La diferencia de pr
 ---
 
 **Leer más:**
-- [Categorías de hotel explicadas: qué obtienes por tu dinero](/es/blog/categorias-hotel-explicadas)
-- [Booking.com vs. Expedia: ¿Qué plataforma gana en 2026?](/es/blog/booking-vs-expedia-comparativa-2026)
-- [Paridad de tarifas hoteleras explicada: por qué el mismo hotel cuesta igual en todas partes](/es/blog/paridad-tarifas-hoteles)
+- [Categorías de hotel explicadas: qué obtienes por tu dinero](/es/blog/categorias-hotel-explicadas/)
+- [Booking.com vs. Expedia: ¿Qué plataforma gana en 2026?](/es/blog/booking-vs-expedia-comparativa-2026/)
+- [Paridad de tarifas hoteleras explicada: por qué el mismo hotel cuesta igual en todas partes](/es/blog/paridad-tarifas-hoteles/)

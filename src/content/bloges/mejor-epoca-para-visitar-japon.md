@@ -24,7 +24,7 @@ Sin embargo, cada estación tiene algo genuino que ofrecer:
 - **Otoño (septiembre a noviembre):** hojas rojas y doradas, temperaturas perfectas, segunda temporada alta
 - **Invierno (diciembre a febrero):** nieve en el norte, Hokkaido en su esplendor, precios más accesibles
 
-Las diferencias regionales también son grandes. Tokio y Kyoto siguen patrones similares. Hokkaido, en cambio, es un país aparte: los inviernos son siberianos y los veranos, sorprendentemente frescos. Si planeás una [ruta por Japón en tres semanas](/es/blog/japon-3-semanas-ruta), vale la pena armar el itinerario alrededor de la estación que más te interese.
+Las diferencias regionales también son grandes. Tokio y Kyoto siguen patrones similares. Hokkaido, en cambio, es un país aparte: los inviernos son siberianos y los veranos, sorprendentemente frescos. Si planeás una [ruta por Japón en tres semanas](/es/blog/japon-3-semanas-ruta/), vale la pena armar el itinerario alrededor de la estación que más te interese.
 
 ## ¿Cuándo florecen los cerezos en Japón?
 
@@ -39,7 +39,7 @@ Fechas orientativas para 2026:
 
 Tokio tiene algunos de los mejores parques para el hanami, el ritual de contemplar los cerezos. El parque Shinjuku Gyoen, el parque Yoyogi y Ueno son los más famosos. El problema es que todo el mundo lo sabe: los hoteles se llenan meses antes y los precios se disparan. Si querés disfrutar el sakura sin apretarte contra miles de turistas, considerá ciudades secundarias como Hirosaki (famosa por su castillo rodeado de cerezos) o los jardines menos concurridos de Nara.
 
-Para los cerezos en Kyoto, los templos de Maruyama y el camino Philosopher's Path son los más fotogénicos. También podés combinar flores y cultura visitando los barrios que explorás en detalle en nuestra guía de [Japón más allá de Tokio](/es/blog/japon-mas-alla-de-tokio).
+Para los cerezos en Kyoto, los templos de Maruyama y el camino Philosopher's Path son los más fotogénicos. También podés combinar flores y cultura visitando los barrios que explorás en detalle en nuestra guía de [Japón más allá de Tokio](/es/blog/japon-mas-alla-de-tokio/).
 
 El [Japan Guide](https://www.japan-guide.com) publica un mapa de floración actualizado cada año. Es el recurso más confiable para afinar fechas antes de comprar los vuelos.
 
@@ -55,7 +55,7 @@ La temporada del momiji avanza de norte a sur entre mediados de octubre y finale
 
 Kyoto en noviembre es, para muchos viajeros, el momento más hermoso de Japón. Los jardines del templo Tofukuji y el pabellón dorado Kinkakuji rodeado de rojos son difíciles de superar. La demanda también lo sabe: es la temporada más cara del año junto con la del sakura.
 
-Si buscás el momiji sin aglomeraciones, Nikko (a dos horas de Tokio en tren) ofrece paisajes espectaculares con bastante menos turismo. Podés ver las opciones de alojamiento en nuestra guía de [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio).
+Si buscás el momiji sin aglomeraciones, Nikko (a dos horas de Tokio en tren) ofrece paisajes espectaculares con bastante menos turismo. Podés ver las opciones de alojamiento en nuestra guía de [dónde alojarse en Tokio](/es/blog/donde-alojarse-tokio/).
 
 ## ¿Cuándo es más barato viajar a Japón?
 
@@ -67,9 +67,9 @@ Si el presupuesto importa, las mejores épocas son:
 - **Julio y agosto:** verano húmedo y caluroso, precios moderados. Los festivales de verano (matsuri) y los fuegos artificiales compensan el calor.
 - **Enero y febrero (excepto Hokkaido):** invierno frío, precios bajos, ciudades tranquilas. Ideal para explorar templos sin multitudes.
 
-Hokkaido es la excepción invernal: enero y febrero son temporada alta para el esquí. El resort de Niseko es el más conocido de Asia. Si venís a esquiar, planificá con anticipación. Una estadía en un [ryokan japonés](/es/blog/ryokan-japones-guia) cerca de las pistas es la combinación perfecta de nieve y tradición.
+Hokkaido es la excepción invernal: enero y febrero son temporada alta para el esquí. El resort de Niseko es el más conocido de Asia. Si venís a esquiar, planificá con anticipación. Una estadía en un [ryokan japonés](/es/blog/ryokan-japones-guia/) cerca de las pistas es la combinación perfecta de nieve y tradición.
 
-Para cualquier época del año, Tokio es imbatible en gastronomía. Más de 200 restaurantes con estrella Michelin en una sola ciudad. Nuestra guía del [viaje gastronómico a Tokio](/es/blog/tokio-viaje-gastronomico) te ayuda a aprovechar cada comida.
+Para cualquier época del año, Tokio es imbatible en gastronomía. Más de 200 restaurantes con estrella Michelin en una sola ciudad. Nuestra guía del [viaje gastronómico a Tokio](/es/blog/tokio-viaje-gastronomico/) te ayuda a aprovechar cada comida.
 
 La [Japan Tourism Agency](https://www.mlit.go.jp/kankocho/en/) publica datos de afluencia turística por mes para ayudarte a elegir la ventana menos saturada.
 
@@ -97,6 +97,6 @@ Hokkaido es la estrella del invierno. El resort de Niseko ofrece nieve en polvo 
 
 ## Más sobre Japón
 
-- [Japón en 3 semanas: la ruta completa con highlights del camino](/es/blog/japon-3-semanas-ruta)
-- [Japón más allá de Tokio: destinos que pocos conocen](/es/blog/japon-mas-alla-de-tokio)
-- [Ryokan japonés: qué esperar y cómo elegir el tuyo](/es/blog/ryokan-japones-guia)
+- [Japón en 3 semanas: la ruta completa con highlights del camino](/es/blog/japon-3-semanas-ruta/)
+- [Japón más allá de Tokio: destinos que pocos conocen](/es/blog/japon-mas-alla-de-tokio/)
+- [Ryokan japonés: qué esperar y cómo elegir el tuyo](/es/blog/ryokan-japones-guia/)

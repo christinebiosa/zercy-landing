@@ -45,7 +45,7 @@ North of the train station, once a working-class district, now the city's most d
 
 **Top picks:** Hotel Roma Bologna (well-connected, reasonable price), Una Hotel Bologna (design hotel near the station), Starhotels Excelsior (upper mid-range with good location).
 
-Our [Florence guide](/en/blog/where-to-stay-florence) is a great companion for anyone combining Bologna with a classic Tuscany trip.
+Our [Florence guide](/en/blog/where-to-stay-florence/) is a great companion for anyone combining Bologna with a classic Tuscany trip.
 
 ## When Is the Best Time to Visit Bologna?
 
@@ -94,7 +94,7 @@ For Bologna, [Booking.com](https://www.booking.com) is well stocked:
 
 Booking direct makes sense at smaller boutique hotels in Centro Storico: better room selection, late checkout and extras often included.
 
-Read also our [Venice guide](/en/blog/where-to-stay-venice) for the perfect northern Italy combination, our [Puglia guide](/en/blog/puglia-southern-italy-guide) for the southern alternative, and our [48 hours in Rome](/en/blog/48-hours-rome) guide if you're adding the capital to your Italy trip.
+Read also our [Venice guide](/en/blog/where-to-stay-venice/) for the perfect northern Italy combination, our [Puglia guide](/en/blog/puglia-southern-italy-guide/) for the southern alternative, and our [48 hours in Rome](/en/blog/48-hours-rome/) guide if you're adding the capital to your Italy trip.
 
 ---
 
@@ -121,6 +121,6 @@ Motor Show is in December, COSMOPROF (beauty) in March, Arte Fiera in January, C
 ---
 
 **Read more:**
-- [Where to Stay in Florence: The 5 Neighborhoods](/en/blog/where-to-stay-florence)
-- [Where to Stay in Venice: The 5 Neighborhoods](/en/blog/where-to-stay-venice)
-- [Puglia and Southern Italy: The Complete Guide](/en/blog/puglia-southern-italy-guide)
+- [Where to Stay in Florence: The 5 Neighborhoods](/en/blog/where-to-stay-florence/)
+- [Where to Stay in Venice: The 5 Neighborhoods](/en/blog/where-to-stay-venice/)
+- [Puglia and Southern Italy: The Complete Guide](/en/blog/puglia-southern-italy-guide/)

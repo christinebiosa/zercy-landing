@@ -77,6 +77,6 @@ Die Verbotene Stadt (unbedingt Tickets im Voraus buchen!), der Tempel des Himmel
 
 ## Mehr lesen
 
-- [Wo übernachten in Hongkong](/blog/wo-uebernachten-hongkong)
-- [Wo übernachten in Seoul](/blog/wo-uebernachten-seoul)
-- [Wo übernachten in Tokio](/blog/wo-uebernachten-tokio)
+- [Wo übernachten in Hongkong](/blog/wo-uebernachten-hongkong/)
+- [Wo übernachten in Seoul](/blog/wo-uebernachten-seoul/)
+- [Wo übernachten in Tokio](/blog/wo-uebernachten-tokio/)

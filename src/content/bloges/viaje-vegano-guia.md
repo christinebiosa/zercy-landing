@@ -86,6 +86,6 @@ En México: Chedraui y La Comer tienen secciones orgánicas/veganas crecientes. 
 
 ## Más artículos
 
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Guía para Mochileros Principiantes](/es/blog/mochilero-guia-principiantes)
-- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Guía para Mochileros Principiantes](/es/blog/mochilero-guia-principiantes/)
+- [Lista de Equipaje de Viaje: Lo Que Realmente Va Dentro](/es/blog/lista-equipaje-viaje-esencial/)

@@ -51,7 +51,7 @@ Hlemmur is the eastern side of 101, anchored by Hlemmur Mathöll, Reykjavik's fo
 - **Odinsve Hotel:** Aparthotel with kitchens. Good for longer stays or families needing space.
 - **Reykjavik Residence Hotel:** Studio apartments, more room than a hotel room, popular with independent travelers.
 
-For a broader Iceland picture, our [Iceland Travel Guide](/en/blog/iceland-travel-guide) covers the full ring road and seasonal advice.
+For a broader Iceland picture, our [Iceland Travel Guide](/en/blog/iceland-travel-guide/) covers the full ring road and seasonal advice.
 
 ## Laugardalur: Hot Pools and Green Space
 
@@ -70,7 +70,7 @@ If you're renting a car and driving Iceland's Ring Road, a central location isn'
 - **Various Guesthouses Kópavogur:** Studios from around €80 on Booking.com. Practical, decent.
 - **Northern Lights Inn Grindavík:** Closer to the Blue Lagoon than to the city center. Best for Blue Lagoon priority.
 
-If you're combining Reykjavik with European rail travel, check out our [Night Trains Europe 2026](/en/blog/night-trains-europe-2026) guide for onward connections.
+If you're combining Reykjavik with European rail travel, check out our [Night Trains Europe 2026](/en/blog/night-trains-europe-2026/) guide for onward connections.
 
 ## Where Should You Book in Reykjavik?
 
@@ -105,6 +105,6 @@ Hallgrímskirkja (elevator to the viewing platform), Golden Circle day trip (Þi
 ---
 
 **Read more:**
-- [Iceland Travel Guide: What You Really Need to Know](/en/blog/iceland-travel-guide)
-- [Night Trains Europe 2026: The Complete Guide](/en/blog/night-trains-europe-2026)
-- [Hidden Gems in Europe: The Underrated Cities](/en/blog/hidden-gems-europe)
+- [Iceland Travel Guide: What You Really Need to Know](/en/blog/iceland-travel-guide/)
+- [Night Trains Europe 2026: The Complete Guide](/en/blog/night-trains-europe-2026/)
+- [Hidden Gems in Europe: The Underrated Cities](/en/blog/hidden-gems-europe/)

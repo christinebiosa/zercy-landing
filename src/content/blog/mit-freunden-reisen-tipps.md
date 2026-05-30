@@ -34,7 +34,7 @@ Für die Abrechnung während der Reise ist [Splitwise](https://www.splitwise.com
 
 Ein häufig übersehenes Detail: Zahlt Unterkunft und Flüge vor Reiseantritt gemeinsam. Diese großen Posten separat zu buchen führt fast immer zu Unmut. Jemand bucht günstiger und sitzt im anderen Hotel. Jemand fliegt früher. Das splittert die Gruppe.
 
-Schau auch in den Artikel [Reise-Budget sparen](/blog/reise-budget-sparen-anleitung) für konkrete Zahlen, mit denen du den Rahmen gut setzen kannst.
+Schau auch in den Artikel [Reise-Budget sparen](/blog/reise-budget-sparen-anleitung/) für konkrete Zahlen, mit denen du den Rahmen gut setzen kannst.
 
 ## Wie planst du den Tag, ohne dass alle unglücklich werden?
 
@@ -46,7 +46,7 @@ Für die Vorplanung empfiehlt sich ein geteiltes Google Doc. Nicht zu detaillier
 
 Wichtiger Tipp aus der Praxis: Nicht jeder Aktivitätswunsch muss gemeinsam erlebt werden. Einer geht ins Museum. Zwei ans Meer. Abends trifft man sich. Das ist kein Scheitern der Gruppenreise. Das ist ein gutes Zeichen.
 
-Den Artikel [Gruppenreisen organisieren](/blog/gruppenreisen-organisieren-guide) lohnt sich vor der nächsten größeren Gruppenreise zu lesen.
+Den Artikel [Gruppenreisen organisieren](/blog/gruppenreisen-organisieren-guide/) lohnt sich vor der nächsten größeren Gruppenreise zu lesen.
 
 ## Welche Reisetypen funktionieren besonders gut mit Freunden?
 
@@ -60,7 +60,7 @@ Nicht jeder Reisetyp ist gleichmäßig gruppenkompatibel.
 
 **Trekkingtouren.** Schwierig. Das Tempo muss passen. Unterschiedliche Fitness-Level werden schnell zum Problem. Wer langsamer geht, fühlt sich zur Last. Wer schneller geht, wartet frustriert.
 
-Die klassischen [Reisefehler beim Gruppenreisen](/blog/reisefehler-vermeiden-klassische-fehler) passieren übrigens selten beim Buchen. Sie passieren meistens beim Planen der Aktivitäten.
+Die klassischen [Reisefehler beim Gruppenreisen](/blog/reisefehler-vermeiden-klassische-fehler/) passieren übrigens selten beim Buchen. Sie passieren meistens beim Planen der Aktivitäten.
 
 ## Wann solltet ihr getrennte Zimmer buchen?
 
@@ -97,6 +97,6 @@ Kurze Auszeit. Getrennte Stunden. Jeder geht kurz seinen eigenen Weg. Das entspa
 ---
 
 **Mehr lesen:**
-- [Gruppenreisen organisieren: der komplette Guide](/blog/gruppenreisen-organisieren-guide)
-- [Wochenendtrip Europa: die besten Ziele für Gruppen](/blog/wochenendtrip-europa-beste-ziele)
-- [Reisefehler, die fast jeder macht](/blog/reisefehler-vermeiden-klassische-fehler)
+- [Gruppenreisen organisieren: der komplette Guide](/blog/gruppenreisen-organisieren-guide/)
+- [Wochenendtrip Europa: die besten Ziele für Gruppen](/blog/wochenendtrip-europa-beste-ziele/)
+- [Reisefehler, die fast jeder macht](/blog/reisefehler-vermeiden-klassische-fehler/)

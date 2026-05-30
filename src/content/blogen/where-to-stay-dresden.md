@@ -53,7 +53,7 @@ Dresden is beautiful year-round but with clear highlights. Spring (April-May) is
 
 **Autumn:** Grape harvest on the Elbe slopes in Radebeul, golden colors, Dresden Philharmonic season.
 
-Dresden pairs well with a [European spring destinations](/en/blog/best-spring-destinations-europe) trip. Prague is 2 hours away by train.
+Dresden pairs well with a [European spring destinations](/en/blog/best-spring-destinations-europe/) trip. Prague is 2 hours away by train.
 
 ## Blasewitz / Loschwitz: Elbe Slope Idyll
 
@@ -100,6 +100,6 @@ Visit the Frauenkirche (climb the dome!), Gemäldegalerie Alte Meister, Zwinger 
 ---
 
 ## Read more
-- [Best Spring Destinations in Europe](/en/blog/best-spring-destinations-europe)
-- [Where to Stay in Prague: 4 Neighborhoods](/en/blog/where-to-stay-prague)
-- [European Cities in Winter: Best Destinations](/en/blog/european-cities-winter-guide)
+- [Best Spring Destinations in Europe](/en/blog/best-spring-destinations-europe/)
+- [Where to Stay in Prague: 4 Neighborhoods](/en/blog/where-to-stay-prague/)
+- [European Cities in Winter: Best Destinations](/en/blog/european-cities-winter-guide/)

@@ -56,7 +56,7 @@ Sin derecho a compensación: catástrofes naturales reales (erupción volcánica
 
 **Plazo de prescripción:** En España, 5 años desde la fecha del vuelo. No hay prisa, pero cuanto antes actúes, más fácil es la documentación.
 
-Más sobre derechos relacionados: [retraso de vuelo y compensación EU261](/es/blog/retraso-vuelo-compensacion-eu261) y [huelga de vuelo: qué hacer](/es/blog/huelga-vuelo-derechos).
+Más sobre derechos relacionados: [retraso de vuelo y compensación EU261](/es/blog/retraso-vuelo-compensacion-eu261/) y [huelga de vuelo: qué hacer](/es/blog/huelga-vuelo-derechos/).
 
 ## ¿Qué más está obligada a dar la aerolínea?
 
@@ -92,6 +92,6 @@ Vuelos privados, vuelos chárter sin billete comprado, vuelos que salen fuera de
 
 ## Más información
 
-- [Retraso de vuelo: Compensación según EU261](/es/blog/retraso-vuelo-compensacion-eu261)
-- [Huelga de vuelo: Tus derechos como pasajero](/es/blog/huelga-vuelo-derechos)
-- [Consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos)
+- [Retraso de vuelo: Compensación según EU261](/es/blog/retraso-vuelo-compensacion-eu261/)
+- [Huelga de vuelo: Tus derechos como pasajero](/es/blog/huelga-vuelo-derechos/)
+- [Consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/)

@@ -63,7 +63,7 @@ The south bank is connected to the Old Town by a bamboo bridge or ferry (3,000 k
 
 **Top picks:** Sayo River Guesthouse (simple, clean, right by the river), La Residence Phou Vao (luxury exception on the hill, panoramic pool), Mekong Riverview Hotel (solid mid-range, ferry views).
 
-More on the [Laos travel guide](/en/blog/laos-travel-guide-highlights) and the [Southeast Asia budget route](/en/blog/southeast-asia-budget-travel) are covered in separate articles.
+More on the [Laos travel guide](/en/blog/laos-travel-guide-highlights/) and the [Southeast Asia budget route](/en/blog/southeast-asia-budget-travel/) are covered in separate articles.
 
 ## Ban Xieng Maen: Quiet on the Other Side of the Mekong
 
@@ -104,6 +104,6 @@ High season (November to February): 3–4 months ahead, especially for boutique 
 ---
 
 **Read more:**
-- [Laos Travel Guide: Highlights and Tips](/en/blog/laos-travel-guide-highlights)
-- [Southeast Asia on a Budget](/en/blog/southeast-asia-budget-travel)
-- [Where to Stay in Chiang Mai: Best Neighborhoods](/en/blog/where-to-stay-chiang-mai)
+- [Laos Travel Guide: Highlights and Tips](/en/blog/laos-travel-guide-highlights/)
+- [Southeast Asia on a Budget](/en/blog/southeast-asia-budget-travel/)
+- [Where to Stay in Chiang Mai: Best Neighborhoods](/en/blog/where-to-stay-chiang-mai/)

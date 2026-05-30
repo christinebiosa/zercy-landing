@@ -39,7 +39,7 @@ Harajuku folgt: Takeshita-Dori mit Crepes in unmöglichen Formen und Jugendmode 
 
 Das Golden Gai ist ein Labyrinth aus winzigen Bars für je 5 bis 8 Personen. System: rein, einen Drink, weiterziehen. Cover 500 bis 1.000 Yen. Kabukicho daneben ist das Neon-Gesicht von Tokio bei Nacht. Sicher, überwältigend, einmalig.
 
-Unterkunfts-Tipps findest du in unserem Artikel [Wo übernachten in Tokio](/blog/wo-uebernachten-tokio).
+Unterkunfts-Tipps findest du in unserem Artikel [Wo übernachten in Tokio](/blog/wo-uebernachten-tokio/).
 
 ## Tag 2: Meiji Jingu, Shimokitazawa und Akihabara
 
@@ -53,7 +53,7 @@ Das offizielle [Go Tokyo Tourismusportal](https://www.gotokyo.org) hat aktuelle 
 
 Shimokitazawa braucht keine Werbung. Kein Tempel, keine Aussichtsplattform. Vintage-Läden, Plattensammlungen, unabhängige Cafés, Secondhand-Mode. Die Touristen sind woanders. Alternativ: Yanaka Ginza. Shitamachi-Atmosphäre, alte Handwerkerstadt, ehrliches altes Tokio.
 
-Mehr zur Küche jenseits der Touristenzone: [Tokio Foodie Reise](/blog/tokio-foodie-reise).
+Mehr zur Küche jenseits der Touristenzone: [Tokio Foodie Reise](/blog/tokio-foodie-reise/).
 
 **Abend: Akihabara oder Roppongi**
 
@@ -69,13 +69,13 @@ Weniger als die meisten erwarten. Convenience Stores (7-Eleven, Lawson) sind bes
 
 Richtwerte für 2 Personen, 2 Nächte: 500 bis 800 Euro ohne Flug. Suica-IC-Karte laden (alles akzeptiert sie: Metro, Bus, Shops). Pocket WiFi oder SIM am Flughafen kaufen.
 
-Für smarte Flugtipps: [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026).
+Für smarte Flugtipps: [Google Flights Tricks und Tipps 2026](/blog/google-flights-tricks-tipps-2026/).
 
 ## Wann ist die beste Reisezeit für Tokio?
 
 März und April: Kirschblüte, außergewöhnlich, Hotels 3 Monate vorher buchen. Oktober und November: Herbstfarben, angenehme Temperaturen, weniger Massen. Das ist die objektiv beste Zeit. Sommer: heiß, feucht, Taifun-Saison. Dezember bis Februar: kalt, trocken, günstigere Preise.
 
-Für den Flughafen-Transfer: [Airport Hacks](/blog/airport-hacks).
+Für den Flughafen-Transfer: [Airport Hacks](/blog/airport-hacks/).
 
 ---
 
@@ -104,6 +104,6 @@ Typisch Ende März bis Mitte April, Höhepunkt um den 25. bis 30. März. Variier
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Tokio: Beste Viertel und Hotels](/blog/wo-uebernachten-tokio)
-- [Tokio Foodie Reise: Essen wo Tokio wirklich isst](/blog/tokio-foodie-reise)
-- [Airport Hacks: Weniger Zeit verlieren am Flughafen](/blog/airport-hacks)
+- [Wo übernachten in Tokio: Beste Viertel und Hotels](/blog/wo-uebernachten-tokio/)
+- [Tokio Foodie Reise: Essen wo Tokio wirklich isst](/blog/tokio-foodie-reise/)
+- [Airport Hacks: Weniger Zeit verlieren am Flughafen](/blog/airport-hacks/)

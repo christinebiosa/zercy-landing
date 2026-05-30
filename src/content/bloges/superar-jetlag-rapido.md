@@ -59,6 +59,6 @@ Es una de las herramientas mejor respaldadas científicamente (diseñada con el 
 ---
 
 **Más para leer:**
-- [Ciberseguridad para viajeros: cómo protegerte en el exterior](/es/blog/ciberseguridad-viajeros)
-- [Las mejores apps de viaje para 2026](/es/blog/mejores-apps-viaje-2026)
-- [Trucos en el aeropuerto para salir antes y sin estrés](/es/blog/trucos-aeropuerto)
+- [Ciberseguridad para viajeros: cómo protegerte en el exterior](/es/blog/ciberseguridad-viajeros/)
+- [Las mejores apps de viaje para 2026](/es/blog/mejores-apps-viaje-2026/)
+- [Trucos en el aeropuerto para salir antes y sin estrés](/es/blog/trucos-aeropuerto/)

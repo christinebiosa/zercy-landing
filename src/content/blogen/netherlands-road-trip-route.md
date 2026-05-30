@@ -66,6 +66,6 @@ Stroopwafels (caramel waffle sandwiches), Haring (raw salt herring with onions),
 ---
 
 **Read more:**
-- [Train vs. Plane in Europe 2026](/en/blog/train-vs-plane-europe-2026)
-- [Travel Packing List: What You Actually Need](/en/blog/travel-packing-list-essentials)
-- [Slovenia: Europe's Green Secret 2026](/en/blog/slovenia-green-secret-2026)
+- [Train vs. Plane in Europe 2026](/en/blog/train-vs-plane-europe-2026/)
+- [Travel Packing List: What You Actually Need](/en/blog/travel-packing-list-essentials/)
+- [Slovenia: Europe's Green Secret 2026](/en/blog/slovenia-green-secret-2026/)

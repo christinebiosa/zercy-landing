@@ -55,7 +55,7 @@ Hamburgo tiene un clima atlántico: moderado, frecuentemente nublado, algo húme
 
 **Invierno:** Fresco (2-7°C), pero el invierno hamburgués tiene su encanto: luces del puerto, cafés acogedores, vino caliente.
 
-Hamburgo combina perfectamente con una [ruta por Escandinavia](/es/blog/escandinavia-ruta-completa). Copenhague está a 5 horas en tren.
+Hamburgo combina perfectamente con una [ruta por Escandinavia](/es/blog/escandinavia-ruta-completa/). Copenhague está a 5 horas en tren.
 
 ## St. Pauli / Schanzenviertel: El pulso de Hamburgo
 
@@ -112,6 +112,6 @@ La visita a la Elbphilharmonie (gratis, terraza Plaza), la Speicherstadt y el Ch
 ---
 
 ## Más artículos
-- [Escandinavia: La ruta completa de Hamburgo al Cabo Norte](/es/blog/escandinavia-ruta-completa)
-- [Ciudades europeas en invierno: Los mejores destinos](/es/blog/ciudades-europeas-invierno-guia)
-- [Dónde alojarse en Berlín: Los 5 barrios](/es/blog/donde-alojarse-berlin)
+- [Escandinavia: La ruta completa de Hamburgo al Cabo Norte](/es/blog/escandinavia-ruta-completa/)
+- [Ciudades europeas en invierno: Los mejores destinos](/es/blog/ciudades-europeas-invierno-guia/)
+- [Dónde alojarse en Berlín: Los 5 barrios](/es/blog/donde-alojarse-berlin/)

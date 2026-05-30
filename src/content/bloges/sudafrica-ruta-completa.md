@@ -84,6 +84,6 @@ Viaje económico (conducción propia, alojamiento básico, autoabastecimiento): 
 ---
 
 **Más artículos:**
-- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia)
-- [Australia: Ruta completa](/es/blog/australia-ruta-completa)
-- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
+- [Safari en África Oriental: La guía honesta de planificación](/es/blog/safari-africa-oriental-guia/)
+- [Australia: Ruta completa](/es/blog/australia-ruta-completa/)
+- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)

@@ -63,7 +63,7 @@ Das Südufer ist per Bambussteg oder Fähre (3.000 Kip, ca. 15 Cent) mit der Alt
 
 **Top-Picks:** Sayo River Guesthouse (einfach, sauber, direkt am Fluss), La Residence Phou Vao (Luxus-Ausnahme am Hügel, Panorama-Pool), Mekong Riverview Hotel (solide Mittelklasse, Fährblick).
 
-Mehr zum [Laos-Reiseguide](/blog/laos-reiseguide-highlights) und zur [Südostasien Budget-Route](/blog/suedostasien-budget-reisen) findest du in separaten Artikeln.
+Mehr zum [Laos-Reiseguide](/blog/laos-reiseguide-highlights/) und zur [Südostasien Budget-Route](/blog/suedostasien-budget-reisen/) findest du in separaten Artikeln.
 
 ## Ban Xieng Maen: Ruhe auf der anderen Seite des Mekong
 
@@ -104,6 +104,6 @@ Hochsaison (November bis Februar): 3–4 Monate im Voraus, besonders für Boutiq
 ---
 
 **Mehr lesen:**
-- [Laos Reiseguide: Highlights und Tipps](/blog/laos-reiseguide-highlights)
-- [Südostasien: Günstig reisen mit Budget-Tipps](/blog/suedostasien-budget-reisen)
-- [Wo übernachten in Chiang Mai: Die besten Viertel](/blog/wo-uebernachten-chiang-mai)
+- [Laos Reiseguide: Highlights und Tipps](/blog/laos-reiseguide-highlights/)
+- [Südostasien: Günstig reisen mit Budget-Tipps](/blog/suedostasien-budget-reisen/)
+- [Wo übernachten in Chiang Mai: Die besten Viertel](/blog/wo-uebernachten-chiang-mai/)

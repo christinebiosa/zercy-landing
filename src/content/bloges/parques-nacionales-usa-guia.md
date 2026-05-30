@@ -10,7 +10,7 @@ heroImage: "/img/blog/usa-national-parks.jpg"
 
 EE.UU. tiene más de 400 parques nacionales. Solo ocho de ellos aparecen en tantas fotos que todo el mundo los reconoce. Pero incluso entre los más famosos hay diferencias enormes: en experiencia, en la mejor época para visitarlos, en precio de entrada. Esta guía va al grano para que puedas empezar a planificar hoy mismo.
 
-Un buen punto de partida es nuestra [guía de road trip por la Costa Oeste de EE.UU.](/es/blog/costa-oeste-usa-roadtrip), ya que muchos de los parques están a lo largo de rutas clásicas en coche.
+Un buen punto de partida es nuestra [guía de road trip por la Costa Oeste de EE.UU.](/es/blog/costa-oeste-usa-roadtrip/), ya que muchos de los parques están a lo largo de rutas clásicas en coche.
 
 ## ¿Cuánto cuesta realmente la entrada a los parques nacionales?
 
@@ -28,7 +28,7 @@ Un detalle importante: el pase cubre un vehículo en los parques con tarifa por 
 
 **Yosemite (California)** muestra El Capitan y Half Dome desde casi cualquier punto del valle en un día despejado. De abril a octubre es obligatorio reservar la entrada con antelación. Sin reserva no se puede acceder en coche. Consulta los detalles en [nps.gov/yose](https://www.nps.gov/yose).
 
-**Zion (Utah)** tiene el cañón más estrecho y espectacular de EE.UU.: The Narrows. Senderismo por el río Virgin hasta la rodilla en el agua. Sistema de lanzadera en verano, coches privados solo en los aparcamientos principales. Quienes exploran Utah a menudo lo conectan con rutas de la [Ruta 66](/es/blog/ruta-66-estados-unidos-road-trip).
+**Zion (Utah)** tiene el cañón más estrecho y espectacular de EE.UU.: The Narrows. Senderismo por el río Virgin hasta la rodilla en el agua. Sistema de lanzadera en verano, coches privados solo en los aparcamientos principales. Quienes exploran Utah a menudo lo conectan con rutas de la [Ruta 66](/es/blog/ruta-66-estados-unidos-road-trip/).
 
 **Great Smoky Mountains (Tennessee/Carolina del Norte)** es gratuito. Sin entrada. Por eso es el parque nacional más visitado de EE.UU. Los colores del otoño en octubre son espectaculares, y la niebla entre las montañas aparece casi cada mañana de primavera.
 
@@ -52,7 +52,7 @@ A través de [recreation.gov](https://www.recreation.gov). Casi todos los campin
 
 Las ventanas de reserva suelen abrirse 6 meses antes, a las 10 de la mañana hora del Este. Las parcelas más populares en el Valle de Yosemite o en Zion desaparecen en minutos. Pon una alerta en el calendario y entra a tiempo.
 
-Alternativa: parcelas por orden de llegada fuera de la temporada alta. Menos predecible, pero perfecto para viajes espontáneos. Para conducir entre parques, tener una buena [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche) facilita mucho los tramos largos.
+Alternativa: parcelas por orden de llegada fuera de la temporada alta. Menos predecible, pero perfecto para viajes espontáneos. Para conducir entre parques, tener una buena [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche/) facilita mucho los tramos largos.
 
 Si acampar no es lo tuyo, los lodges dentro de los parques ofrecen desde opciones rústicas hasta confortables. Precios desde unos 120 dólares, y la disponibilidad suele abrirse 12 meses antes.
 
@@ -93,6 +93,6 @@ Great Smoky Mountains es gratuito, está bien equipado y tiene senderos para tod
 ---
 
 **Más información:**
-- [Road Trip por la Costa Oeste de EE.UU.: La ruta completa](/es/blog/costa-oeste-usa-roadtrip)
-- [Ruta 66 Estados Unidos: Todo lo que necesitas saber](/es/blog/ruta-66-estados-unidos-road-trip)
-- [Checklist para alquilar un coche en EE.UU.](/es/blog/checklist-alquiler-coche)
+- [Road Trip por la Costa Oeste de EE.UU.: La ruta completa](/es/blog/costa-oeste-usa-roadtrip/)
+- [Ruta 66 Estados Unidos: Todo lo que necesitas saber](/es/blog/ruta-66-estados-unidos-road-trip/)
+- [Checklist para alquilar un coche en EE.UU.](/es/blog/checklist-alquiler-coche/)

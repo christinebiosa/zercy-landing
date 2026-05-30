@@ -49,7 +49,7 @@ La zona norte de la 5ta Avenida tiene otra energía. Menos bares, más restauran
 
 **Mejores opciones:** Mahekal Beach Resort (bungalows de palapa directo en la playa, mucho carácter), Mosquito Blue (boutique, pileta, a 5 minutos de la 5ta), Viva Wyndham Azteca (opción todo incluido más grande, apta para familias).
 
-Si querés combinar cenotes o Xcaret en tu viaje, revisá nuestra guía de [dónde alojarse en Tulum](/es/blog/donde-alojarse-tulum) para ideas de excursiones por la Riviera Maya.
+Si querés combinar cenotes o Xcaret en tu viaje, revisá nuestra guía de [dónde alojarse en Tulum](/es/blog/donde-alojarse-tulum/) para ideas de excursiones por la Riviera Maya.
 
 ## ¿Cuándo es la Mejor Época para Visitar Playa del Carmen?
 
@@ -105,6 +105,6 @@ El sargazo es más intenso de mayo a octubre en toda la Riviera Maya. De diciemb
 
 ## Seguir leyendo
 
-- [Dónde alojarse en Tulum](/es/blog/donde-alojarse-tulum)
-- [Dónde alojarse en Cancún](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico)
+- [Dónde alojarse en Tulum](/es/blog/donde-alojarse-tulum/)
+- [Dónde alojarse en Cancún](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico/)

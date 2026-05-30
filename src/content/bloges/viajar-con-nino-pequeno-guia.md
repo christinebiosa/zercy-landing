@@ -26,7 +26,7 @@ Lo que funciona: playa más piscina más hotel familiar. Las Islas Canarias son 
 
 El principio es sencillo. Necesitas una base fija donde el niño pueda jugar sin tener que hacer y deshacer maletas constantemente. Los hoteles todo incluido tienen aquí una ventaja real: sin estrés para encontrar restaurante, sin negociaciones con la carta.
 
-Más sobre esto: [Vacaciones en familia: los mejores consejos](/es/blog/vacaciones-en-familia-consejos)
+Más sobre esto: [Vacaciones en familia: los mejores consejos](/es/blog/vacaciones-en-familia-consejos/)
 
 ## ¿Cómo sobrevivir al vuelo?
 
@@ -42,7 +42,7 @@ El vuelo suele ser la mayor preocupación. Estos son los puntos que marcan una d
 
 **Pide una cuna para vuelos de larga distancia.** Muchas aerolíneas ofrecen una cuna fijada a la pared en la primera fila. Esos asientos se agotan rápido. Pídelo directamente a la aerolínea justo después de hacer la reserva.
 
-Más consejos aquí: [Viajar con bebé: primer vuelo sin estrés](/es/blog/viajar-con-bebe-primer-vuelo)
+Más consejos aquí: [Viajar con bebé: primer vuelo sin estrés](/es/blog/viajar-con-bebe-primer-vuelo/)
 
 ## ¿Qué llevas realmente en la maleta?
 
@@ -64,7 +64,7 @@ Para viajes dentro de la UE, la Tarjeta Sanitaria Europea (TSE) cubre la atenci�
 
 Para viajes fuera de la UE, o para una cobertura más amplia, un seguro de viaje merece la pena. Algunos proveedores incluyen a los niños sin coste adicional cuando los padres están asegurados. Vale la pena comprobarlo antes de contratar.
 
-Todo sobre esto: [Seguro de viaje: ¿merece la pena?](/es/blog/seguro-viaje-vale-la-pena)
+Todo sobre esto: [Seguro de viaje: ¿merece la pena?](/es/blog/seguro-viaje-vale-la-pena/)
 
 ## FAQ: Viajar con niño menor de 3 años
 
@@ -83,9 +83,9 @@ Dentro de la UE, la TSE cubre urgencias. Para viajes fuera de la UE y para cober
 ---
 
 **Leer más:**
-- [Viajar con bebé: primer vuelo sin estrés](/es/blog/viajar-con-bebe-primer-vuelo)
-- [Vacaciones en familia: los mejores consejos](/es/blog/vacaciones-en-familia-consejos)
-- [Seguro de viaje: ¿merece la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Viajar con bebé: primer vuelo sin estrés](/es/blog/viajar-con-bebe-primer-vuelo/)
+- [Vacaciones en familia: los mejores consejos](/es/blog/vacaciones-en-familia-consejos/)
+- [Seguro de viaje: ¿merece la pena?](/es/blog/seguro-viaje-vale-la-pena/)
 
 ---
 

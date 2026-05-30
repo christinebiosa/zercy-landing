@@ -77,6 +77,6 @@ Ginebra ofrece mucho más que la ONU y los fabricantes de relojes. El Lago Lemá
 
 ## Más sobre Europa
 
-- [Dónde alojarse en Niza](/es/blog/donde-alojarse-niza)
-- [Dónde alojarse en Salzburgo](/es/blog/donde-alojarse-salzburgo)
-- [Dónde alojarse en Viena](/es/blog/donde-alojarse-viena)
+- [Dónde alojarse en Niza](/es/blog/donde-alojarse-niza/)
+- [Dónde alojarse en Salzburgo](/es/blog/donde-alojarse-salzburgo/)
+- [Dónde alojarse en Viena](/es/blog/donde-alojarse-viena/)

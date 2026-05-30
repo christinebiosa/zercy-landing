@@ -80,6 +80,6 @@ In der Hauptsaison (Juni bis September) 3 bis 6 Monate im Voraus. In der Nebensa
 ---
 
 **Mehr lesen:**
-- [Safari in Ostafrika: Der ehrliche Planungs-Guide](/blog/safari-ostafrika-guide)
-- [Indien Reiseguide: Highlights für deinen Trip](/blog/indien-reiseguide-highlights)
-- [Reiseversicherung: Was sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich)
+- [Safari in Ostafrika: Der ehrliche Planungs-Guide](/blog/safari-ostafrika-guide/)
+- [Indien Reiseguide: Highlights für deinen Trip](/blog/indien-reiseguide-highlights/)
+- [Reiseversicherung: Was sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/)

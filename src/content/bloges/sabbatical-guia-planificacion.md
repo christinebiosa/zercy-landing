@@ -77,6 +77,6 @@ Cuando se hace como huida de algo, no como decisión hacia algo. Los sabbaticals
 ---
 
 **Más para leer:**
-- [Workation e impuestos 2026: lo que necesitas saber](/es/blog/workation-impuestos-2026)
-- [Slow travel: qué significa y por qué cada vez más viajeros lo eligen](/es/blog/slow-travel-que-significa)
-- [Dónde alojarse en Medellín: El Poblado, Laureles o Envigado](/es/blog/donde-alojarse-medellin)
+- [Workation e impuestos 2026: lo que necesitas saber](/es/blog/workation-impuestos-2026/)
+- [Slow travel: qué significa y por qué cada vez más viajeros lo eligen](/es/blog/slow-travel-que-significa/)
+- [Dónde alojarse en Medellín: El Poblado, Laureles o Envigado](/es/blog/donde-alojarse-medellin/)

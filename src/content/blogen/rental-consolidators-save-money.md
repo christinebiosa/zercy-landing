@@ -62,13 +62,13 @@ Three situations.
 
 The short version: **always check consolidator first**, then cross-reference the price with the provider direct. Usually the consolidator wins. If not, you know why.
 
-Also watch the pickup location. Airport rentals almost always have a surcharge of 10 to 25 percent. A station 2 kilometers from the airport, reachable by free shuttle, often saves 30 percent. Consolidator platforms show this directly in the search results. More in our [guide to hidden rental car costs](/en/blog/rental-car-hidden-costs-avoid).
+Also watch the pickup location. Airport rentals almost always have a surcharge of 10 to 25 percent. A station 2 kilometers from the airport, reachable by free shuttle, often saves 30 percent. Consolidator platforms show this directly in the search results. More in our [guide to hidden rental car costs](/en/blog/rental-car-hidden-costs-avoid/).
 
 ---
 
-Zercy finds the best rental cars for your destination during the planning phase. The [Zercy Logbook](/en/blog/zercy-logbook) stores your booking automatically so you don't lose track.
+Zercy finds the best rental cars for your destination during the planning phase. The [Zercy Logbook](/en/blog/zercy-logbook/) stores your booking automatically so you don't lose track.
 
-**Read more:** [Rental car checklist: 10 things to check before you drive off](/en/blog/rental-car-checklist) · [Hidden car rental costs and how to avoid them](/en/blog/rental-car-hidden-costs-avoid) · [What is Zercy?](/en/blog/what-is-zercy)
+**Read more:** [Rental car checklist: 10 things to check before you drive off](/en/blog/rental-car-checklist/) · [Hidden car rental costs and how to avoid them](/en/blog/rental-car-hidden-costs-avoid/) · [What is Zercy?](/en/blog/what-is-zercy/)
 
 ## Frequently Asked Questions
 

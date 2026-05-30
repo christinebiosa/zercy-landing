@@ -63,7 +63,7 @@ Viele Erstbesucher aus Europa wählen Gigiri für das Sicherheitsgefühl.
 - **Crowne Plaza Nairobi Airport:** Nicht Gigiri, aber praktisch für frühe Abflüge. Am Wilson Airport und JKIA nahe.
 - **Various Guesthouses Gigiri:** Auf Booking.com ab 80 US-Dollar pro Nacht, deutlich günstiger als die Haupthotels.
 
-Für Reisende, die Nairobi als Safari-Basis nutzen, lohnt sich auch unser Artikel zu [Kapstadt-Vierteln](/blog/wo-uebernachten-cape-town) als Vergleich für den weiteren Afrika-Trip.
+Für Reisende, die Nairobi als Safari-Basis nutzen, lohnt sich auch unser Artikel zu [Kapstadt-Vierteln](/blog/wo-uebernachten-cape-town/) als Vergleich für den weiteren Afrika-Trip.
 
 ## Upper Hill: Businessviertel mit Hafenblick auf Kenia
 
@@ -111,6 +111,6 @@ Ca. 250 Kilometer, 5 bis 6 Stunden Fahrt oder 45 Minuten Buschflug. Die meisten 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Kapstadt: 5 Viertel im Vergleich](/blog/wo-uebernachten-cape-town)
-- [Sansibar Stone Town: Was du wirklich wissen musst](/blog/sansibar-stone-town-guide)
-- [Wo übernachten in Marrakesch: Medina oder Gueliz?](/blog/wo-uebernachten-marrakesch)
+- [Wo übernachten in Kapstadt: 5 Viertel im Vergleich](/blog/wo-uebernachten-cape-town/)
+- [Sansibar Stone Town: Was du wirklich wissen musst](/blog/sansibar-stone-town-guide/)
+- [Wo übernachten in Marrakesch: Medina oder Gueliz?](/blog/wo-uebernachten-marrakesch/)

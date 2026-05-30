@@ -20,7 +20,7 @@ Siete métodos. Todos probados en la práctica. Ninguno requiere que aprendas á
 
 **DeepL** gana en textos largos. Si necesitas escribir un correo a un hotel o entender un contrato, DeepL produce resultados de mejor calidad que Google Translate. Para la conversación cotidiana, Google Translate es más práctico.
 
-Las tres apps están en nuestra guía de las [mejores apps de viaje 2026](/es/blog/mejores-apps-viaje-2026).
+Las tres apps están en nuestra guía de las [mejores apps de viaje 2026](/es/blog/mejores-apps-viaje-2026/).
 
 ## ¿Qué 10 frases siempre necesitas?
 
@@ -55,7 +55,7 @@ En Marruecos y otros países de habla árabe, hospedarse en un riad es una base 
 
 Algunos destinos donde el inglés rara vez te saca del apuro:
 
-**Japón:** Fuera de Tokio y Kioto, solo una pequeña parte de la población habla inglés. En zonas rurales, casi nadie. Las señales suelen ser bilingües. Google Lens resuelve el problema de los carteles. Para hablar con locales necesitas Google Translate. Nuestra [guía de Japón más allá de Tokio](/es/blog/japon-mas-alla-de-tokio) incluye notas prácticas de preparación.
+**Japón:** Fuera de Tokio y Kioto, solo una pequeña parte de la población habla inglés. En zonas rurales, casi nadie. Las señales suelen ser bilingües. Google Lens resuelve el problema de los carteles. Para hablar con locales necesitas Google Translate. Nuestra [guía de Japón más allá de Tokio](/es/blog/japon-mas-alla-de-tokio/) incluye notas prácticas de preparación.
 
 **China:** En Pekín y Shanghái hay una capa turística donde el inglés funciona. Sal de esa burbuja y deja de funcionar. Además, muchas apps occidentales están bloqueadas en China. Descarga todo offline antes de entrar al país.
 
@@ -104,5 +104,5 @@ En China, la mayoría de los servicios de Google están bloqueados. Descarga tod
 ---
 
 **Más artículos:**
-- [Mejores apps de viaje 2026: Las que realmente necesitas](/es/blog/mejores-apps-viaje-2026)
-- [Japón más allá de Tokio: Preparación y apps sobre el terreno](/es/blog/japon-mas-alla-de-tokio)
+- [Mejores apps de viaje 2026: Las que realmente necesitas](/es/blog/mejores-apps-viaje-2026/)
+- [Japón más allá de Tokio: Preparación y apps sobre el terreno](/es/blog/japon-mas-alla-de-tokio/)

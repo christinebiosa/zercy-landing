@@ -49,9 +49,9 @@ A Calima event typically lasts two to five days. Visibility drops, air quality w
 
 Tenerife and Gran Canaria are less affected because their mountainous terrain disrupts the Saharan airflow.
 
-For island-by-island accommodation decisions, check our guides on [where to stay in Tenerife](/en/blog/where-to-stay-tenerife) and [where to stay in Lanzarote](/en/blog/where-to-stay-lanzarote). Both cover neighborhood choices, resort strip versus inland options and what the price difference actually buys you.
+For island-by-island accommodation decisions, check our guides on [where to stay in Tenerife](/en/blog/where-to-stay-tenerife/) and [where to stay in Lanzarote](/en/blog/where-to-stay-lanzarote/). Both cover neighborhood choices, resort strip versus inland options and what the price difference actually buys you.
 
-If you're weighing the Canaries against other Atlantic destinations, our full [Canary Islands comparison](/en/blog/canary-islands-comparison) runs through island personalities, what each one is best for and which ones to combine in a single trip.
+If you're weighing the Canaries against other Atlantic destinations, our full [Canary Islands comparison](/en/blog/canary-islands-comparison/) runs through island personalities, what each one is best for and which ones to combine in a single trip.
 
 ---
 
@@ -75,6 +75,6 @@ Sea temperatures range from 18 to 20 degrees Celsius from December through March
 
 ## Read more
 
-- [Canary Islands Comparison: Which Island Is Right for You?](/en/blog/canary-islands-comparison)
-- [Where to Stay in Tenerife: Best Areas and Hotels](/en/blog/where-to-stay-tenerife)
-- [Where to Stay in Lanzarote: Best Areas and Hotels](/en/blog/where-to-stay-lanzarote)
+- [Canary Islands Comparison: Which Island Is Right for You?](/en/blog/canary-islands-comparison/)
+- [Where to Stay in Tenerife: Best Areas and Hotels](/en/blog/where-to-stay-tenerife/)
+- [Where to Stay in Lanzarote: Best Areas and Hotels](/en/blog/where-to-stay-lanzarote/)

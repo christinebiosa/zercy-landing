@@ -45,7 +45,7 @@ Cappadocia is the destination that changes the calculation. Most people add it a
 
 **July and August:** Cappadocia is hot (35 to 38°C in the valleys), dusty, and at peak tourist density. Balloon flights still run but the heat makes afternoon exploration uncomfortable. Morning activities are essential.
 
-**November through March:** Cappadocia can see snow, which turns the fairy chimneys into something genuinely magical. Cold (below 0°C at night), fewer tourists, cheap prices. Many cave hotels stay open year-round. For photographers, a winter Cappadocia trip with fresh snow is hard to beat. Balloon flights operate on calm-weather days only, so success rates drop in winter. For where to base yourself in the region: [Where to Stay in Cappadocia](/en/blog/where-to-stay-cappadocia) covers the different village options.
+**November through March:** Cappadocia can see snow, which turns the fairy chimneys into something genuinely magical. Cold (below 0°C at night), fewer tourists, cheap prices. Many cave hotels stay open year-round. For photographers, a winter Cappadocia trip with fresh snow is hard to beat. Balloon flights operate on calm-weather days only, so success rates drop in winter. For where to base yourself in the region: [Where to Stay in Cappadocia](/en/blog/where-to-stay-cappadocia/) covers the different village options.
 
 ## What Month Is Cheapest to Visit Turkey?
 
@@ -59,7 +59,7 @@ Yes. **May and September are the best months to see all three.** The itinerary w
 
 In May, Istanbul is in spring bloom, Cappadocia has great balloon weather, and the coast is fully open without the summer heat. In September, all three destinations are at or near their best: post-summer crowds in Istanbul, ideal balloon conditions in Cappadocia, and the warmest sea of the year on the coast.
 
-The [Turkey road trip highlights guide](/en/blog/turkey-road-trip-highlights) covers the logistics of moving between regions and which routes work best. For Istanbul specifically: [48 Hours in Istanbul](/en/blog/48-hours-istanbul) has the city's best sites and neighborhoods broken down by day.
+The [Turkey road trip highlights guide](/en/blog/turkey-road-trip-highlights/) covers the logistics of moving between regions and which routes work best. For Istanbul specifically: [48 Hours in Istanbul](/en/blog/48-hours-istanbul/) has the city's best sites and neighborhoods broken down by day.
 
 ---
 
@@ -85,6 +85,6 @@ November through March is the cheapest period overall. Istanbul is worth visitin
 
 ## Read More
 
-- [48 Hours in Istanbul: What's Worth It](/en/blog/48-hours-istanbul)
-- [Where to Stay in Cappadocia](/en/blog/where-to-stay-cappadocia)
-- [Turkey Road Trip Highlights](/en/blog/turkey-road-trip-highlights)
+- [48 Hours in Istanbul: What's Worth It](/en/blog/48-hours-istanbul/)
+- [Where to Stay in Cappadocia](/en/blog/where-to-stay-cappadocia/)
+- [Turkey Road Trip Highlights](/en/blog/turkey-road-trip-highlights/)

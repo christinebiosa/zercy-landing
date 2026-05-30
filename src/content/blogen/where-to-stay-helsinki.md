@@ -77,6 +77,6 @@ The island fortress of Suomenlinna (UNESCO World Heritage), the Temppeliaukio ro
 
 ## Read more
 
-- [Where to Stay in Tallinn](/en/blog/where-to-stay-tallinn)
-- [Where to Stay in Riga](/en/blog/where-to-stay-riga)
-- [Where to Stay in Vilnius](/en/blog/where-to-stay-vilnius)
+- [Where to Stay in Tallinn](/en/blog/where-to-stay-tallinn/)
+- [Where to Stay in Riga](/en/blog/where-to-stay-riga/)
+- [Where to Stay in Vilnius](/en/blog/where-to-stay-vilnius/)

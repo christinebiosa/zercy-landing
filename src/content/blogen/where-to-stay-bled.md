@@ -51,7 +51,7 @@ Bled works year-round but with clear peaks. May through September is high season
 
 **April and October:** Quiet, affordable, atmospheric with autumn colors or spring blossoms. Very few tourists.
 
-Most visitors to Bled combine it with [Slovenia as a whole destination](/en/blog/slovenia-green-secret-2026). Ljubljana is just 55 km away. For a broader [Balkan road trip route](/en/blog/balkan-road-trip-route), Bled is the perfect starting point heading toward Croatia or Bosnia.
+Most visitors to Bled combine it with [Slovenia as a whole destination](/en/blog/slovenia-green-secret-2026/). Ljubljana is just 55 km away. For a broader [Balkan road trip route](/en/blog/balkan-road-trip-route/), Bled is the perfect starting point heading toward Croatia or Bosnia.
 
 ## Outside Bled: Budget-Friendly and Relaxed
 
@@ -98,6 +98,6 @@ Take a Pletna rowing boat to the island church, ring the wishing bell, visit Ble
 ---
 
 ## Read more
-- [Slovenia 2026: Europe's Green Secret](/en/blog/slovenia-green-secret-2026)
-- [Balkan Road Trip: Best Route from Slovenia to Albania](/en/blog/balkan-road-trip-route)
-- [Where to Stay in Ljubljana: Best Neighborhoods](/en/blog/where-to-stay-ljubljana)
+- [Slovenia 2026: Europe's Green Secret](/en/blog/slovenia-green-secret-2026/)
+- [Balkan Road Trip: Best Route from Slovenia to Albania](/en/blog/balkan-road-trip-route/)
+- [Where to Stay in Ljubljana: Best Neighborhoods](/en/blog/where-to-stay-ljubljana/)

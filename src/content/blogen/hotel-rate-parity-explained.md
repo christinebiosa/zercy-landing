@@ -42,7 +42,7 @@ Direct booking isn't a universal secret tip. But in specific situations it clear
 
 **When you want a specific room.** Requests that aren't configurable on Booking.com (non-smoking, high floor, away from the elevator) are easier to handle via direct booking.
 
-More on this in our [guide to direct booking vs. Booking.com](/en/blog/booking-vs-direct-hotel-booking).
+More on this in our [guide to direct booking vs. Booking.com](/en/blog/booking-vs-direct-hotel-booking/).
 
 **What direct booking does not guarantee.** No automatic upgrade. No better price without asking. OTA platforms often negotiate more favorable cancellation terms than individual travelers can secure on their own.
 
@@ -62,7 +62,7 @@ OTA loyalty programs are a legitimate route around rate parity.
 | Expedia One Key | Credit (~2-5%) | Yes | Immediate |
 | Hotels.com Rewards | Integrated into One Key | Yes | Immediate |
 
-For a full platform comparison, see our article [Booking.com vs. Expedia 2026](/en/blog/booking-vs-expedia-comparison-2026).
+For a full platform comparison, see our article [Booking.com vs. Expedia 2026](/en/blog/booking-vs-expedia-comparison-2026/).
 
 ## When is OTA booking better than any direct booking?
 
@@ -97,6 +97,6 @@ From Level 1 (after 2 bookings), Genius provides 10-15 percent discounts at part
 ---
 
 **Read more:**
-- [Booking vs. direct hotel booking: when does each win?](/en/blog/booking-vs-direct-hotel-booking)
-- [Airbnb vs. hotel: which is actually worth it?](/en/blog/airbnb-vs-hotel-comparison)
-- [Booking.com vs. Expedia 2026: full comparison](/en/blog/booking-vs-expedia-comparison-2026)
+- [Booking vs. direct hotel booking: when does each win?](/en/blog/booking-vs-direct-hotel-booking/)
+- [Airbnb vs. hotel: which is actually worth it?](/en/blog/airbnb-vs-hotel-comparison/)
+- [Booking.com vs. Expedia 2026: full comparison](/en/blog/booking-vs-expedia-comparison-2026/)

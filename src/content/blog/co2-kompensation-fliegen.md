@@ -46,13 +46,13 @@ Die unbequeme Wahrheit: Nicht fliegen ist immer besser als fliegen plus kompensi
 
 Weniger fliegen ist der erste. Statt drei Wochenendreisen pro Jahr eine längere Reise. Direktflüge statt Verbindungen mit Zwischenstopp (Start und Landung machen 25 Prozent der Emissionen aus).
 
-Mit dem [Nachtzug durch Europa](/blog/nachtzuege-europa-2026) statt zu fliegen ist der zweite. Ein Nachtzug von Berlin nach Wien spart 90 Prozent CO2 gegenüber dem Flug.
+Mit dem [Nachtzug durch Europa](/blog/nachtzuege-europa-2026/) statt zu fliegen ist der zweite. Ein Nachtzug von Berlin nach Wien spart 90 Prozent CO2 gegenüber dem Flug.
 
 Tagsüber statt nachts fliegen ist der dritte. Studien zeigen: Nachtflüge haben einen stärkeren Klimaeffekt durch Kondensstreifen. Tagsüber wirkt der Effekt anders.
 
 Economy statt Business ist der vierte. Klingt unangenehm, aber ein Business-Class-Sitz hat etwa 3-mal so viel CO2-Anteil pro Person wie Economy. Die Wirkung ist real.
 
-Schau dir auch [Zugreisen in Europa](/blog/zugreisen-europa) an, wenn du nach konkreten Alternativen suchst.
+Schau dir auch [Zugreisen in Europa](/blog/zugreisen-europa/) an, wenn du nach konkreten Alternativen suchst.
 
 ## Wann macht Kompensation überhaupt Sinn?
 
@@ -64,7 +64,7 @@ Du wählst einen seriösen Anbieter. Atmosfair und MyClimate sind die einzigen m
 
 Du verstehst, dass es nur ein Teil der Lösung ist. Kompensation ersetzt keine Reduktion. Es ist Schadensbegrenzung, nicht Klimaneutralität.
 
-Das [Umweltbundesamt](https://www.umweltbundesamt.de/themen/klima-energie/klimaschutz-energiepolitik-in-deutschland/freiwillige-co2-kompensation) hat einen detaillierten Ratgeber zur Bewertung von Kompensationsanbietern. Wenn KI-Tools dir bei der Klima-Frage helfen sollen, lies auch [Wie KI die Reiseplanung verändert](/blog/ki-veraendert-reiseplanung).
+Das [Umweltbundesamt](https://www.umweltbundesamt.de/themen/klima-energie/klimaschutz-energiepolitik-in-deutschland/freiwillige-co2-kompensation) hat einen detaillierten Ratgeber zur Bewertung von Kompensationsanbietern. Wenn KI-Tools dir bei der Klima-Frage helfen sollen, lies auch [Wie KI die Reiseplanung verändert](/blog/ki-veraendert-reiseplanung/).
 
 ---
 
@@ -91,6 +91,6 @@ Wenn der Anbieter keine konkreten Projekte nennt, keine Berechnungsgrundlage off
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Rio de Janeiro: Beste Stadtteile für deine Brasilien-Reise](/blog/wo-uebernachten-rio-de-janeiro)
-- [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
+- [Wo übernachten in Rio de Janeiro: Beste Stadtteile für deine Brasilien-Reise](/blog/wo-uebernachten-rio-de-janeiro/)
+- [Nachtzüge in Europa: Der vollständige Guide 2026](/blog/nachtzuege-europa-2026/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)

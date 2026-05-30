@@ -85,6 +85,6 @@ EU-Bürger benötigen kein traditionelles Visum, aber eine NZeTA (New Zealand El
 Frühzeitig. Die Fähre zwischen Wellington und Picton (Interislander oder Bluebridge) ist in der Hochsaison oft wochen- oder monatelang ausgebucht. Gleiches gilt für beliebte DOC-Hütten auf dem Milford Track oder Great Walks. Sobald du eine grobe Route hast, die Fähre und Hüttenplätze zuerst sichern.
 
 ## Mehr lesen
-- [Wo übernachten in Rotorua: beste Hotels und Lodges](/blog/wo-uebernachten-rotorua)
-- [Wohnmobil Roadtrip USA: der komplette Guide](/blog/wohnmobil-roadtrip-usa-guide)
-- [Reiseversicherung für Fernreisen: was wirklich wichtig ist](/blog/reiseversicherung-guide)
+- [Wo übernachten in Rotorua: beste Hotels und Lodges](/blog/wo-uebernachten-rotorua/)
+- [Wohnmobil Roadtrip USA: der komplette Guide](/blog/wohnmobil-roadtrip-usa-guide/)
+- [Reiseversicherung für Fernreisen: was wirklich wichtig ist](/blog/reiseversicherung-guide/)

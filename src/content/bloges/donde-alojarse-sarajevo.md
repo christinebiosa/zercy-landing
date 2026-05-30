@@ -53,7 +53,7 @@ Los hoteles aquí son más modernos, grandes y consistentes en el servicio. Meno
 
 **Mejores opciones:** Hotel Europe (el gran hotel histórico de la ciudad), Holiday Inn Sarajevo (opción de cadena sólida), Radon Plaza Hotel (alternativa moderna con vistas al río).
 
-¿Planeas el circuito completo por los Balcanes? La [Ruta road trip por los Balcanes](/es/blog/balcanes-road-trip-ruta) pone Sarajevo en contexto: es una parada natural entre Mostar, Dubrovnik y Kotor.
+¿Planeas el circuito completo por los Balcanes? La [Ruta road trip por los Balcanes](/es/blog/balcanes-road-trip-ruta/) pone Sarajevo en contexto: es una parada natural entre Mostar, Dubrovnik y Kotor.
 
 ## ¿Cuándo es la mejor época para visitar Sarajevo?
 
@@ -73,7 +73,7 @@ Para viajeros que quieren vivir un Sarajevo local y evitar los precios turístic
 
 **Mejores opciones:** Varios hostales y apartamentos bien valorados en Booking.com, Hostel Mix (económico, social, bien ubicado).
 
-¿Quieres aprovechar al máximo tu presupuesto en la región? La [guía de dónde alojarse en Kotor](/es/blog/donde-alojarse-kotor) da una buena comparativa de precios en los Balcanes.
+¿Quieres aprovechar al máximo tu presupuesto en la región? La [guía de dónde alojarse en Kotor](/es/blog/donde-alojarse-kotor/) da una buena comparativa de precios en los Balcanes.
 
 ## Ilidža: Tranquilo, verde y termal
 
@@ -136,6 +136,6 @@ El aeropuerto de Sarajevo está a 6 kilómetros al suroeste del centro. El taxi 
 ---
 
 **Sigue leyendo:**
-- [Ruta road trip por los Balcanes: El mejor recorrido](/es/blog/balcanes-road-trip-ruta)
-- [Dónde alojarse en Kotor: Ciudad Vieja o ribera tranquila](/es/blog/donde-alojarse-kotor)
-- [Viajar con poco dinero por Europa del Este](/es/blog/seguro-viaje-vale-la-pena)
+- [Ruta road trip por los Balcanes: El mejor recorrido](/es/blog/balcanes-road-trip-ruta/)
+- [Dónde alojarse en Kotor: Ciudad Vieja o ribera tranquila](/es/blog/donde-alojarse-kotor/)
+- [Viajar con poco dinero por Europa del Este](/es/blog/seguro-viaje-vale-la-pena/)

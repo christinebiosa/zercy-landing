@@ -50,7 +50,7 @@ La plataforma tiene competencia seria hoy.
 
 **Warmshowers** es exclusivamente para ciclistas. Si viajas en bicicleta, esta es una de las comunidades de viaje más densas y acogedoras que existen.
 
-Para estadías más largas, vale la pena considerar el [intercambio de casas como estrategia de viaje](/es/blog/intercambio-casas-guia-viajeros) o el [house sitting como opción de alojamiento gratuito](/es/blog/house-sitting-viaje-gratis). Ambas opciones ofrecen más espacio y privacidad, pero funcionan con lógicas distintas.
+Para estadías más largas, vale la pena considerar el [intercambio de casas como estrategia de viaje](/es/blog/intercambio-casas-guia-viajeros/) o el [house sitting como opción de alojamiento gratuito](/es/blog/house-sitting-viaje-gratis/). Ambas opciones ofrecen más espacio y privacidad, pero funcionan con lógicas distintas.
 
 ## Etiqueta como huésped: qué tener en cuenta
 
@@ -66,11 +66,11 @@ Escribe una referencia. Siempre. Incluso cuando tengas prisa por seguir viajando
 
 ## ¿En qué países funciona mejor Couchsurfing?
 
-Europa Occidental y América del Norte siguen teniendo las comunidades más grandes. Berlín, Ámsterdam, París, Nueva York, Montreal. Si encuentras [vuelos baratos a tu destino](/es/blog/consejos-vuelos-baratos) y viajas con flexibilidad, las probabilidades de encontrar un anfitrión son buenas.
+Europa Occidental y América del Norte siguen teniendo las comunidades más grandes. Berlín, Ámsterdam, París, Nueva York, Montreal. Si encuentras [vuelos baratos a tu destino](/es/blog/consejos-vuelos-baratos/) y viajas con flexibilidad, las probabilidades de encontrar un anfitrión son buenas.
 
 En América Latina y el Sudeste Asiático, la comunidad vuelve a crecer, especialmente en capitales y rutas mochileras. Las ciudades pequeñas y las zonas rurales tienen poca cobertura.
 
-En algunos países, Couchsurfing simplemente no es la opción correcta. En lugares con baja penetración de internet, donde la plataforma es culturalmente desconocida, o donde 15 dólares anuales representan una barrera real. Ahí, las redes locales, los hostales o las organizaciones comunitarias suelen tener más sentido. Para [viajes con presupuesto ajustado](/es/blog/consejos-vuelos-baratos), combinar plataformas es siempre lo más inteligente.
+En algunos países, Couchsurfing simplemente no es la opción correcta. En lugares con baja penetración de internet, donde la plataforma es culturalmente desconocida, o donde 15 dólares anuales representan una barrera real. Ahí, las redes locales, los hostales o las organizaciones comunitarias suelen tener más sentido. Para [viajes con presupuesto ajustado](/es/blog/consejos-vuelos-baratos/), combinar plataformas es siempre lo más inteligente.
 
 ## ¿Cuándo es Couchsurfing la opción equivocada?
 
@@ -78,7 +78,7 @@ Cuando necesitas privacidad. Cuando llegas tarde de noche y sales temprano por l
 
 Couchsurfing no funciona en piloto automático. Requiere tiempo, energía e interés genuino en el intercambio. Si no puedes aportar eso, no le estás haciendo un favor a nadie, y menos a ti mismo.
 
-Un buen seguro de viaje sigue siendo imprescindible independientemente de cómo te alojes. Más detalles en nuestra guía sobre [seguros de viaje: qué vale la pena contratar](/es/blog/seguro-viaje-vale-la-pena).
+Un buen seguro de viaje sigue siendo imprescindible independientemente de cómo te alojes. Más detalles en nuestra guía sobre [seguros de viaje: qué vale la pena contratar](/es/blog/seguro-viaje-vale-la-pena/).
 
 ---
 
@@ -106,6 +106,6 @@ La plataforma fue gratuita durante años, financiada por inversores. En 2020, en
 
 ## Más información
 
-- [House Sitting: cómo viajar gratis en casas de otras personas](/es/blog/house-sitting-viaje-gratis)
-- [Intercambio de casas: guía completa para viajeros](/es/blog/intercambio-casas-guia-viajeros)
-- [Seguro de viaje: ¿qué vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [House Sitting: cómo viajar gratis en casas de otras personas](/es/blog/house-sitting-viaje-gratis/)
+- [Intercambio de casas: guía completa para viajeros](/es/blog/intercambio-casas-guia-viajeros/)
+- [Seguro de viaje: ¿qué vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

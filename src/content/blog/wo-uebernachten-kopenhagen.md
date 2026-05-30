@@ -94,6 +94,6 @@ Tivoli-Eintritt kostet ca. 150 DKK (ca. 20 Euro) für Erwachsene. Fahrattraktion
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Amsterdam: Die 5 Stadtteile](/blog/wo-uebernachten-amsterdam)
-- [Wo übernachten in Berlin: Mitte oder Prenzlberg?](/blog/wo-uebernachten-berlin)
-- [Nachtzüge in Europa 2026: Routen und Tipps](/blog/nachtzuege-europa-2026)
+- [Wo übernachten in Amsterdam: Die 5 Stadtteile](/blog/wo-uebernachten-amsterdam/)
+- [Wo übernachten in Berlin: Mitte oder Prenzlberg?](/blog/wo-uebernachten-berlin/)
+- [Nachtzüge in Europa 2026: Routen und Tipps](/blog/nachtzuege-europa-2026/)

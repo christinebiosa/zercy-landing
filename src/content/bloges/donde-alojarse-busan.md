@@ -55,7 +55,7 @@ Nampo-Dong es el centro histórico más antiguo de Busan. El Mercado de Pescado 
 
 **Mejores opciones:** Lotte Hotel Busan (lujo en el centro, bien conectado), Hotel Nongshim (rango medio con spa, tradición y comodidad), PJ Hotel (económico, céntrico, apto para mochileros).
 
-La [ruta por Corea del Sur en 2 semanas](/es/blog/corea-sur-2-semanas-ruta) y la [guía de Seúl](/es/blog/donde-alojarse-seul) cubren la planificación más amplia de Corea.
+La [ruta por Corea del Sur en 2 semanas](/es/blog/corea-sur-2-semanas-ruta/) y la [guía de Seúl](/es/blog/donde-alojarse-seul/) cubren la planificación más amplia de Corea.
 
 ## Gwangalli: Barrio joven con panorámica del puente
 
@@ -106,6 +106,6 @@ Aproximadamente igual o algo más barato. Hoteles: rangos de precios similares e
 ---
 
 **Más artículos:**
-- [Corea del Sur: Ruta de 2 semanas con consejos](/es/blog/corea-sur-2-semanas-ruta)
-- [Dónde alojarse en Seúl: Los mejores barrios](/es/blog/donde-alojarse-seul)
-- [Japón: Ruta de 3 semanas con consejos](/es/blog/japon-3-semanas-ruta)
+- [Corea del Sur: Ruta de 2 semanas con consejos](/es/blog/corea-sur-2-semanas-ruta/)
+- [Dónde alojarse en Seúl: Los mejores barrios](/es/blog/donde-alojarse-seul/)
+- [Japón: Ruta de 3 semanas con consejos](/es/blog/japon-3-semanas-ruta/)

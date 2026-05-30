@@ -61,7 +61,7 @@ Above the old town, on gentle hills. The Matisse Museum is here, the Musée Marc
 
 **Top picks:** Hôtel Régence (quiet, well-kept, good value), Villa Gaia (small boutique hotel with garden), Hôtel Villa Victoria (characterful villa with pool).
 
-Our [Marseille guide](/en/blog/where-to-stay-marseille) is ideal for anyone combining the Côte d'Azur with a second cultural hub.
+Our [Marseille guide](/en/blog/where-to-stay-marseille/) is ideal for anyone combining the Côte d'Azur with a second cultural hub.
 
 ## Carré d'Or: Nice for Shoppers
 
@@ -94,7 +94,7 @@ For Nice, [Booking.com](https://www.booking.com) is well stocked:
 
 Booking direct can be worthwhile at small boutique hotels like Hôtel Windsor or Nice Garden Hotel: room preferences, late checkout, small extras often included.
 
-Read also our [Barcelona neighborhood guide](/en/blog/where-to-stay-barcelona) for a great Mediterranean weekend combination, or our [cheap flights guide](/en/blog/cheap-flights-tips) to save on the journey there.
+Read also our [Barcelona neighborhood guide](/en/blog/where-to-stay-barcelona/) for a great Mediterranean weekend combination, or our [cheap flights guide](/en/blog/cheap-flights-tips/) to save on the journey there.
 
 ---
 
@@ -121,6 +121,6 @@ Nice Côte d'Azur Airport is just six kilometers west of the city center. Tram l
 ---
 
 **Read more:**
-- [Where to Stay in Marseille: The 5 Neighborhoods](/en/blog/where-to-stay-marseille)
-- [Where to Stay in Barcelona: The Best Neighborhoods](/en/blog/where-to-stay-barcelona)
-- [Cheap Flights: The Best Tips](/en/blog/cheap-flights-tips)
+- [Where to Stay in Marseille: The 5 Neighborhoods](/en/blog/where-to-stay-marseille/)
+- [Where to Stay in Barcelona: The Best Neighborhoods](/en/blog/where-to-stay-barcelona/)
+- [Cheap Flights: The Best Tips](/en/blog/cheap-flights-tips/)

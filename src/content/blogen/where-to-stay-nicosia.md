@@ -65,7 +65,7 @@ Acropolis and Engomi are the embassy districts of Nicosia. Wide tree-lined avenu
 
 Boutique pricing in this zone: €120 to €220.
 
-If you're using Nicosia as a base for day trips, the guide on [where to stay in Athens](/en/blog/where-to-stay-athens) covers a similar city-with-coastal-access setup.
+If you're using Nicosia as a base for day trips, the guide on [where to stay in Athens](/en/blog/where-to-stay-athens/) covers a similar city-with-coastal-access setup.
 
 ## Strovolos: Family-Friendly and Budget-Conscious
 
@@ -83,7 +83,7 @@ Aglantzia sits east of the city center around the University of Cyprus. Student 
 - **Budget guesthouses in Aglantzia:** Small pensions and rooms from €45. Authentic neighborhood without tourist packaging.
 - **Mid-range apartments:** Several modern options with kitchens from €70. Good for week-long stays.
 
-For a similar experience in another small EU capital, the [where to stay in Valletta](/en/blog/where-to-stay-valletta) guide covers Malta's Old Town with comparable boutique-versus-budget dynamics.
+For a similar experience in another small EU capital, the [where to stay in Valletta](/en/blog/where-to-stay-valletta/) guide covers Malta's Old Town with comparable boutique-versus-budget dynamics.
 
 ## Where Should You Book in the End?
 
@@ -118,6 +118,6 @@ Laiki Geitonia or the City Center around Ledra Street. Both are inside the Venet
 ---
 
 **Read more:**
-- [Where to Stay in Athens: Neighborhood Guide 2026](/en/blog/where-to-stay-athens)
-- [Where to Stay in Valletta: Malta City Guide 2026](/en/blog/where-to-stay-valletta)
-- [Where to Stay in Mykonos: Neighborhoods and Beaches 2026](/en/blog/where-to-stay-mykonos)
+- [Where to Stay in Athens: Neighborhood Guide 2026](/en/blog/where-to-stay-athens/)
+- [Where to Stay in Valletta: Malta City Guide 2026](/en/blog/where-to-stay-valletta/)
+- [Where to Stay in Mykonos: Neighborhoods and Beaches 2026](/en/blog/where-to-stay-mykonos/)

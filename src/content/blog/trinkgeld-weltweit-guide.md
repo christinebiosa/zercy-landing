@@ -24,7 +24,7 @@ Amerika führt diese Kategorie an. Trinkgeld ist in den USA keine Geste, sondern
 
 Kanada folgt weitgehend dem US-Modell. 15-20% im Restaurant, ähnlich beim Taxi. Mexiko hat eine starke Trinkgeldkultur mit 10-15% in Restaurants. Streetfood und Märkte brauchen kein Trinkgeld. Resorts mit All-Inclusive haben oft eigene Empfehlungen am Check-out.
 
-Lies unseren Guide zu [günstig fliegen](/blog/guenstig-fliegen-tipps) bevor du nach Nordamerika buchst: mit dem richtigen Timing sparst du manchmal mehr als du an Trinkgeld gibst.
+Lies unseren Guide zu [günstig fliegen](/blog/guenstig-fliegen-tipps/) bevor du nach Nordamerika buchst: mit dem richtigen Timing sparst du manchmal mehr als du an Trinkgeld gibst.
 
 ## Wo ist Trinkgeld üblich aber nicht zwingend?
 
@@ -85,7 +85,7 @@ In Asien und Südeuropa ist Bargeld immer besser. Kreditkarte-Trinkgeld landet o
 
 Eine praktische Ressource für lokale Trinkgeldgewohnheiten ist [tipping.org](https://www.tipping.org), die internationale Trinkgeld-Datenbank mit länderspezifischen Regeln.
 
-Damit du beim Reisen nie auf dem Trockenen sitzt: lies unseren Guide zu [Geld im Ausland](/blog/geld-im-ausland-tipps) für die besten Strategien zu Wechselkursen und Gebühren.
+Damit du beim Reisen nie auf dem Trockenen sitzt: lies unseren Guide zu [Geld im Ausland](/blog/geld-im-ausland-tipps/) für die besten Strategien zu Wechselkursen und Gebühren.
 
 ---
 
@@ -112,6 +112,6 @@ Lokale Währung ist fast immer die bessere Wahl. In stark touristischen Regionen
 ---
 
 **Mehr lesen:**
-- [Geld im Ausland: Die besten Strategien](/blog/geld-im-ausland-tipps)
-- [Günstig fliegen: 12 Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps)
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Geld im Ausland: Die besten Strategien](/blog/geld-im-ausland-tipps/)
+- [Günstig fliegen: 12 Tipps die wirklich funktionieren](/blog/guenstig-fliegen-tipps/)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

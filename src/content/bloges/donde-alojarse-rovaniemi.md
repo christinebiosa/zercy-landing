@@ -43,7 +43,7 @@ Estos y más de 100 hoteles en Rovaniemi están en [Booking.com](https://www.boo
 
 **Verano:** sol de medianoche desde mediados de mayo hasta finales de julio. Rutas en canoa por el Kemijoki, senderismo en Laponia. El turismo funciona todo el año, pero el invierno sigue siendo la temporada principal.
 
-Para planificar la caza de auroras, consulta nuestra guía de [auroras boreales 2026](/es/blog/auroras-boreales-2026).
+Para planificar la caza de auroras, consulta nuestra guía de [auroras boreales 2026](/es/blog/auroras-boreales-2026/).
 
 ## Santa Claus Village: la experiencia navideña completa
 
@@ -77,7 +77,7 @@ Los hoteles de iglús de cristal aquí son notablemente más baratos que en Sant
 - **Arctic Ounasvaara Hotel:** Habitaciones más asequibles con acceso directo a las pistas. Buena base para esquiar.
 - **Rovaniemi Log Cabins:** Cabañas de madera en la colina, sauna propia, entorno muy tranquilo.
 
-Si Rovaniemi forma parte de un viaje más amplio por el norte de Europa, nuestra guía de [ruta por Escandinavia](/es/blog/escandinavia-ruta-completa) tiene el circuito completo.
+Si Rovaniemi forma parte de un viaje más amplio por el norte de Europa, nuestra guía de [ruta por Escandinavia](/es/blog/escandinavia-ruta-completa/) tiene el circuito completo.
 
 ## Napapiiri y Saarenkylä: presupuesto y tranquilidad
 
@@ -122,6 +122,6 @@ Santa Claus Village es la primera opción para familias con niños. Conocer a Pa
 ---
 
 **Leer más:**
-- [Auroras boreales 2026: dónde, cuándo y cómo verlas](/es/blog/auroras-boreales-2026)
-- [Escandinavia: la ruta completa por el norte de Europa](/es/blog/escandinavia-ruta-completa)
-- [Finlandia: guía de viaje con los highlights esenciales](/es/blog/finlandia-guia-viaje-highlights)
+- [Auroras boreales 2026: dónde, cuándo y cómo verlas](/es/blog/auroras-boreales-2026/)
+- [Escandinavia: la ruta completa por el norte de Europa](/es/blog/escandinavia-ruta-completa/)
+- [Finlandia: guía de viaje con los highlights esenciales](/es/blog/finlandia-guia-viaje-highlights/)

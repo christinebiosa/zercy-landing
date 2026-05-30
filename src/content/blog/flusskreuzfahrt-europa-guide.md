@@ -50,7 +50,7 @@ Das ist die wichtigste Frage. Denn Flusskreuzfahrten passen gut, aber nicht für
 
 Der typische Flusskreuzfahrtgast ist 55-70 Jahre alt, hat bereits viel individuell gereist und will jetzt entspannter reisen ohne auf Tiefe zu verzichten. Das Publikum hat sich in den letzten Jahren etwas verjüngt, aber der Kern bleibt.
 
-Alternativ: Wer gerne langsam reist, aber günstiger, dem empfehle ich [Nachtzüge in Europa](/blog/nachtzuege-europa-2026). Oder für Individualreisende: [Interrail 2026](/blog/interrail-guide-2026).
+Alternativ: Wer gerne langsam reist, aber günstiger, dem empfehle ich [Nachtzüge in Europa](/blog/nachtzuege-europa-2026/). Oder für Individualreisende: [Interrail 2026](/blog/interrail-guide-2026/).
 
 ## Wie viel kostet eine Flusskreuzfahrt?
 
@@ -103,6 +103,6 @@ Direkt beim Anbieter (z.B. Viking.com, A-Rosa.de) oder über spezialisierte Port
 ---
 
 **Mehr lesen:**
-- [Kreuzfahrt für Einsteiger: Was du wirklich wissen musst](/blog/kreuzfahrt-einsteiger-guide)
-- [Nachtzüge Europa 2026: Routen, Preise, Tipps](/blog/nachtzuege-europa-2026)
-- [Interrail Guide 2026: So planst du deine Bahnreise durch Europa](/blog/interrail-guide-2026)
+- [Kreuzfahrt für Einsteiger: Was du wirklich wissen musst](/blog/kreuzfahrt-einsteiger-guide/)
+- [Nachtzüge Europa 2026: Routen, Preise, Tipps](/blog/nachtzuege-europa-2026/)
+- [Interrail Guide 2026: So planst du deine Bahnreise durch Europa](/blog/interrail-guide-2026/)

@@ -49,7 +49,7 @@ Auch Güemes grenzt an Nueva Córdoba und die Grenze ist fließend.
 
 **Top-Picks:** Brüder Hotel Boutique (Boutique in Nueva Córdoba, sehr beliebt), Howard Johnson Córdoba (solide Mittelklasse, gute Lage), diverse Airbnbs in Nueva Córdoba-Apartments.
 
-Unser [Argentinien-Reiseguide](/blog/argentinien-reiseguide-highlights) bietet eine umfassende Übersicht zu Buenos Aires, Patagonia und mehr.
+Unser [Argentinien-Reiseguide](/blog/argentinien-reiseguide-highlights/) bietet eine umfassende Übersicht zu Buenos Aires, Patagonia und mehr.
 
 ## Wann ist die beste Reisezeit für Córdoba?
 
@@ -105,6 +105,6 @@ Juni bis August (Wintermonate auf der Südhalbkugel) sind am günstigsten, da we
 ---
 
 ## Mehr lesen
-- [Wo übernachten in Buenos Aires: Die besten Viertel](/blog/wo-uebernachten-buenos-aires)
-- [Argentinien Reiseguide: Die schönsten Highlights](/blog/argentinien-reiseguide-highlights)
-- [Patagonien 3 Wochen: Die perfekte Route](/blog/patagonien-3-wochen-route)
+- [Wo übernachten in Buenos Aires: Die besten Viertel](/blog/wo-uebernachten-buenos-aires/)
+- [Argentinien Reiseguide: Die schönsten Highlights](/blog/argentinien-reiseguide-highlights/)
+- [Patagonien 3 Wochen: Die perfekte Route](/blog/patagonien-3-wochen-route/)

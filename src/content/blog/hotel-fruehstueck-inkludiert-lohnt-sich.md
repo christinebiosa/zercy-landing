@@ -26,7 +26,7 @@ Es gibt Reise-Profile für die der Aufpreis klar sinnvoll ist.
 
 **Frühabflug.** Wer um 6 Uhr morgens zum Flughafen muss, findet kein offenes Café. Das Hotel-Buffet ist dann die einzige Option außer Automaten-Sandwich. In diesem Fall ist das inklusive Frühstück schon aus Bequemlichkeit sinnvoll, nicht aus finanzieller Überlegung.
 
-**Teure Frühstücksstädte.** Paris, London, Zürich, Amsterdam, Stockholm, Oslo: Ein Café-Frühstück kostet hier 15 bis 25 Euro pro Person, ohne Qualitätsgarantie. Das Hotel-Buffet mit Eiern, frischem Obst und Kaffee ist da häufig das bessere Angebot für einen ähnlichen Preis. Wer [in Paris übernachtet](/blog/wo-uebernachten-paris) zahlt auswärts oft mehr als erwartet.
+**Teure Frühstücksstädte.** Paris, London, Zürich, Amsterdam, Stockholm, Oslo: Ein Café-Frühstück kostet hier 15 bis 25 Euro pro Person, ohne Qualitätsgarantie. Das Hotel-Buffet mit Eiern, frischem Obst und Kaffee ist da häufig das bessere Angebot für einen ähnlichen Preis. Wer [in Paris übernachtet](/blog/wo-uebernachten-paris/) zahlt auswärts oft mehr als erwartet.
 
 **Große Gruppe oder Familie.** Mit Kindern ist die Rechnung anders. Kinder essen weniger, bezahlen aber oft denselben Café-Preis. Im Hotel-Buffet mit Familien-Tarif oder inklusive Frühstück schrumpft der Pro-Kopf-Preis erheblich.
 
@@ -38,7 +38,7 @@ Es gibt Reise-Profile für die der Aufpreis klar sinnvoll ist.
 
 Das ist die Liste, die in der Reisewerbung selten vorkommt.
 
-**Lissabon.** Ein Café Galão und ein Pastel de Nata an der Theke kostet 2 bis 3 Euro. Ein vollständiges Frühstück am Markt oder in einem lokalen Café liegt bei 4 bis 6 Euro. Das Hotel-Frühstück kostet 22 bis 30 Euro. Das ist eine Differenz von 24 Euro pro Person und Tag. Bei einem Sieben-Nächte-Trip macht das 168 Euro pro Person, fast 340 Euro für zwei. Wer [Lissabon kennenlernen](/blog/wo-uebernachten-lissabon) will, sollte das Frühstück draußen nehmen.
+**Lissabon.** Ein Café Galão und ein Pastel de Nata an der Theke kostet 2 bis 3 Euro. Ein vollständiges Frühstück am Markt oder in einem lokalen Café liegt bei 4 bis 6 Euro. Das Hotel-Frühstück kostet 22 bis 30 Euro. Das ist eine Differenz von 24 Euro pro Person und Tag. Bei einem Sieben-Nächte-Trip macht das 168 Euro pro Person, fast 340 Euro für zwei. Wer [Lissabon kennenlernen](/blog/wo-uebernachten-lissabon/) will, sollte das Frühstück draußen nehmen.
 
 **Barcelona.** Tortilla, Pan con Tomate, Café con Leche am Markt: 5 bis 8 Euro. Hotel-Frühstück: 18 bis 28 Euro. Dieselbe Logik wie Lissabon.
 
@@ -56,7 +56,7 @@ Vergleiche den Aufpreis mit dem, was ein gleichwertiges Frühstück außerhalb k
 
 Manchmal ist es noch einfacher. Der Unterschied zwischen den Tarifen liegt bei 8 Euro. Kaffee und Croissant an der Ecke kosten 6 Euro. Dann ist das Frühstück fast gratis dazu. Das kommt häufiger vor als man denkt, vor allem in Ländern mit hohen Lebenshaltungskosten.
 
-Der Vergleich lohnt auch bei [Booking vs. Expedia](/blog/booking-vs-expedia-vergleich-2026): Verschiedene Plattformen haben manchmal unterschiedliche Frühstücks-Tarife für dasselbe Hotel.
+Der Vergleich lohnt auch bei [Booking vs. Expedia](/blog/booking-vs-expedia-vergleich-2026/): Verschiedene Plattformen haben manchmal unterschiedliche Frühstücks-Tarife für dasselbe Hotel.
 
 ## Was sagt die Erfahrung aus verschiedenen Städten?
 
@@ -64,9 +64,9 @@ In Nordeuropa und Großstädten wie Paris oder London ist das inklusive Frühst�
 
 In Südeuropa ist das Gegenteil richtig. Spanien, Portugal, Italien, Griechenland: Lokale Cafés und Märkte bieten oft bessere Qualität zu einem Viertel des Hotel-Preises. Das Frühstück draußen ist hier Teil der Reiseerfahrung, nicht der Verzicht darauf.
 
-Wenn du noch nicht weißt ob dein Ziel ein Frühstücks-Aufpreis-Ziel ist, hilft die [Hotel-Kategorie](/blog/hotel-kategorien-erklaert) als Hinweis. Stadthotels in Touristenzentren haben häufig höhere Frühstückspreise als Boutique-Hotels in Wohnvierteln.
+Wenn du noch nicht weißt ob dein Ziel ein Frühstücks-Aufpreis-Ziel ist, hilft die [Hotel-Kategorie](/blog/hotel-kategorien-erklaert/) als Hinweis. Stadthotels in Touristenzentren haben häufig höhere Frühstückspreise als Boutique-Hotels in Wohnvierteln.
 
-Wer die [Hotel-Rate-Parity-Regeln](/blog/hotel-rate-parity-erklaert) kennt, weiß außerdem: Die günstigsten Frühstücks-Add-ons findest du fast immer auf der Plattform auf der du ohnehin buchen wolltest.
+Wer die [Hotel-Rate-Parity-Regeln](/blog/hotel-rate-parity-erklaert/) kennt, weiß außerdem: Die günstigsten Frühstücks-Add-ons findest du fast immer auf der Plattform auf der du ohnehin buchen wolltest.
 
 ---
 
@@ -93,6 +93,6 @@ Beim Suchen einfach zwei Tabs öffnen: einen mit Frühstück, einen ohne. Die Pr
 ---
 
 **Mehr lesen:**
-- [Hotel-Kategorien erklärt: Was du für dein Geld bekommst](/blog/hotel-kategorien-erklaert)
-- [Booking.com vs. Expedia: Welche Plattform lohnt sich 2026?](/blog/booking-vs-expedia-vergleich-2026)
-- [Hotel-Rate-Parity erklärt: Warum kostet dasselbe Hotel überall gleich?](/blog/hotel-rate-parity-erklaert)
+- [Hotel-Kategorien erklärt: Was du für dein Geld bekommst](/blog/hotel-kategorien-erklaert/)
+- [Booking.com vs. Expedia: Welche Plattform lohnt sich 2026?](/blog/booking-vs-expedia-vergleich-2026/)
+- [Hotel-Rate-Parity erklärt: Warum kostet dasselbe Hotel überall gleich?](/blog/hotel-rate-parity-erklaert/)

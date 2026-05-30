@@ -26,13 +26,13 @@ Die Einstiegspreise beginnen bei rund 2.500 Euro für drei Kontinente und drei b
 
 Klingt nach viel. Im Vergleich zu Einzeltickets ist es das aber oft nicht. Wenn du fünf Langstreckensegmente einzeln buchst (z.B. Frankfurt nach New York, New York nach Los Angeles, Los Angeles nach Tokio, Tokio nach Bangkok, Bangkok zurück nach Frankfurt), zahlst du schnell 4.000 bis 5.500 Euro, je nach Buchungszeitpunkt.
 
-Das RTW-Ticket wird ab vier bis fünf Langstreckenflügen interessant. Darunter sind Einzeltickets fast immer günstiger. Das gilt besonders dann, wenn du [günstige Flüge taktisch buchen](/blog/guenstig-fliegen-tipps) kannst und Flexibilität bei Routen hast.
+Das RTW-Ticket wird ab vier bis fünf Langstreckenflügen interessant. Darunter sind Einzeltickets fast immer günstiger. Das gilt besonders dann, wenn du [günstige Flüge taktisch buchen](/blog/guenstig-fliegen-tipps/) kannst und Flexibilität bei Routen hast.
 
 ## Wann lohnt sich ein RTW-Ticket?
 
 Drei Szenarien, in denen RTW-Tickets klar punkten:
 
-**Sabbatical oder Auszeit.** Du nimmst drei bis sechs Monate frei und willst wirklich um die Welt. Fünf oder mehr Stopps, verschiedene Regionen, lange Aufenthalte. Hier zahlt sich das Paket aus. Mehr zur Planung einer solchen Reise findest du im [Weltreise-Planungsguide](/blog/weltreise-6-monate-planen).
+**Sabbatical oder Auszeit.** Du nimmst drei bis sechs Monate frei und willst wirklich um die Welt. Fünf oder mehr Stopps, verschiedene Regionen, lange Aufenthalte. Hier zahlt sich das Paket aus. Mehr zur Planung einer solchen Reise findest du im [Weltreise-Planungsguide](/blog/weltreise-6-monate-planen/).
 
 **Keine Flexibilität beim Datum.** Wer feste Termine braucht und nicht monatelang auf Sale-Angebote warten kann, findet im RTW-Ticket eine planbare Lösung mit bekannten Gesamtkosten.
 
@@ -42,7 +42,7 @@ Drei Szenarien, in denen RTW-Tickets klar punkten:
 
 RTW-Tickets haben echte Schwächen. Kennst du die nicht, buchst du etwas, das nicht zu dir passt.
 
-Du kannst nicht in zwei Richtungen fliegen. Wer zum Beispiel von Frankfurt nach Bangkok will, dann nach Australien und dann zurück durch Indien, hat ein Problem: Das ist keine Einwegstrecke mehr. [Open-Jaw-Tickets](/blog/open-jaw-tickets-reise-hack) sind in solchen Fällen die bessere Wahl.
+Du kannst nicht in zwei Richtungen fliegen. Wer zum Beispiel von Frankfurt nach Bangkok will, dann nach Australien und dann zurück durch Indien, hat ein Problem: Das ist keine Einwegstrecke mehr. [Open-Jaw-Tickets](/blog/open-jaw-tickets-reise-hack/) sind in solchen Fällen die bessere Wahl.
 
 Du hast weniger als vier Stopps geplant. Dann rechnet sich das Paket nicht. Drei Langstrecken buchst du günstiger als Einzeltickets, vor allem mit flexiblen Daten und etwas Vorlauf.
 
@@ -54,13 +54,13 @@ Direkt über die Alliance-Websites. Star Alliance hat einen interaktiven Routenp
 
 Alternativ gibt es spezialisierte Reisebüros wie Airtreks oder Flight Centre, die RTW-Tickets aus verschiedenen Allianzen kombinieren und Off-Alliance-Routen anbieten. Der Aufpreis lohnt sich, wenn deine Wunschroute nicht durch eine einzige Allianz abgedeckt wird.
 
-Vergleich vor dem Kauf: Ein [Airline-Allianzen Guide](/blog/airline-allianzen-guide-2026) hilft dir zu verstehen, welche Allianz welche Regionen besonders stark abdeckt. Star Alliance ist in Asien-Pazifik stark, OneWorld in den Amerikas.
+Vergleich vor dem Kauf: Ein [Airline-Allianzen Guide](/blog/airline-allianzen-guide-2026/) hilft dir zu verstehen, welche Allianz welche Regionen besonders stark abdeckt. Star Alliance ist in Asien-Pazifik stark, OneWorld in den Amerikas.
 
 ## RTW vs. Einzeltickets: Was sagt der Vergleich?
 
 Die einfache Formel: Unter vier Langstrecken fast immer Einzeltickets. Ab fünf Langstrecken prüfen. Ab sechs Langstrecken ist RTW oft günstiger.
 
-Aber Preise allein entscheiden nicht. Einzeltickets ermöglichen mehr Route-Freiheit, bessere Stopp-Konfiguration und gezieltere Buchungszeitpunkte. Wann du idealerweise buchst, zeigt dir unser Artikel zu [Flüge richtig buchen und Preise optimieren](/blog/wann-fluege-buchen).
+Aber Preise allein entscheiden nicht. Einzeltickets ermöglichen mehr Route-Freiheit, bessere Stopp-Konfiguration und gezieltere Buchungszeitpunkte. Wann du idealerweise buchst, zeigt dir unser Artikel zu [Flüge richtig buchen und Preise optimieren](/blog/wann-fluege-buchen/).
 
 ---
 
@@ -88,6 +88,6 @@ Die klassische Route Europa nach Amerika nach Asien zurück nach Europa ist idea
 
 **Mehr lesen:**
 
-- [Weltreise 6 Monate planen: Der komplette Guide](/blog/weltreise-6-monate-planen)
-- [Open-Jaw-Tickets: Der unterschätzte Reise-Hack](/blog/open-jaw-tickets-reise-hack)
-- [Airline-Allianzen verstehen und nutzen](/blog/airline-allianzen-guide-2026)
+- [Weltreise 6 Monate planen: Der komplette Guide](/blog/weltreise-6-monate-planen/)
+- [Open-Jaw-Tickets: Der unterschätzte Reise-Hack](/blog/open-jaw-tickets-reise-hack/)
+- [Airline-Allianzen verstehen und nutzen](/blog/airline-allianzen-guide-2026/)

@@ -68,6 +68,6 @@ Pierogi (empanadillas rellenas, dulces y saladas), Bigos (estofado de carne), Ż
 ---
 
 **Más sobre Europa del Este:**
-- [Balcanes Road Trip Ruta](/es/blog/balcanes-road-trip-ruta)
-- [Escandinavia Ruta Completa](/es/blog/escandinavia-ruta-completa)
-- [Tren vs. Avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026)
+- [Balcanes Road Trip Ruta](/es/blog/balcanes-road-trip-ruta/)
+- [Escandinavia Ruta Completa](/es/blog/escandinavia-ruta-completa/)
+- [Tren vs. Avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026/)

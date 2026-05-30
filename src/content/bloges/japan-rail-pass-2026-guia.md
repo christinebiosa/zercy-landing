@@ -108,4 +108,4 @@ Existen dos versiones del JRP: Ordinary (clase estándar) y Green (equivalente a
 
 Sí. Usar ambos a la vez es la estrategia estándar. El JRP cubre todos los trenes JR de larga distancia y el Shinkansen. La tarjeta Suica se usa para el metro, los trenes privados y los colectivos urbanos. La Suica también funciona como medio de pago sin contacto en kioscos, máquinas expendedoras y muchos restaurantes.
 
-**Seguir leyendo:** [48 horas en Kioto: lo que vale la pena](/es/blog/48-horas-kioto) · [Ryokan japonés: qué esperar](/es/blog/ryokan-japones-guia) · [Dónde alojarse en Tokio: lo que realmente conviene](/es/blog/donde-alojarse-tokio)
+**Seguir leyendo:** [48 horas en Kioto: lo que vale la pena](/es/blog/48-horas-kioto/) · [Ryokan japonés: qué esperar](/es/blog/ryokan-japones-guia/) · [Dónde alojarse en Tokio: lo que realmente conviene](/es/blog/donde-alojarse-tokio/)

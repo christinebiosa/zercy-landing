@@ -68,6 +68,6 @@ Mici (small grilled meat rolls), Mămăligă (polenta), Ciorbă de burtă (tripe
 ---
 
 **Read more:**
-- [Balkan Road Trip Route](/en/blog/balkan-road-trip-route)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Hidden Gems in Europe](/en/blog/hidden-gems-europe)
+- [Balkan Road Trip Route](/en/blog/balkan-road-trip-route/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Hidden Gems in Europe](/en/blog/hidden-gems-europe/)

@@ -45,7 +45,7 @@ Die berühmte Shibuya Crossing ist Tokios Wahrzeichen schlechthin. Ringsum: Mode
 
 **Top-Picks:** Cerulean Tower Tokyu Hotel (Premium mit Skyline-Blick), Shibuya Stream Excel Hotel Tokyu (modern, am Bahnhof), Trunk Hotel (Boutique-Hipster in Shibuya).
 
-Wenn du Tokios Foodie-Szene erkunden willst, lies dazu unseren [Tokio Foodie-Reise-Guide](/blog/tokio-foodie-reise).
+Wenn du Tokios Foodie-Szene erkunden willst, lies dazu unseren [Tokio Foodie-Reise-Guide](/blog/tokio-foodie-reise/).
 
 ## Asakusa: Das traditionelle Tokio
 
@@ -101,7 +101,7 @@ Für Tokio ist [Booking.com](https://www.booking.com) klar die beste Plattform:
 
 Direkt-Buchung lohnt nur bei traditionellen Ryokan in Asakusa wo persönliche Kommunikation gewollt ist.
 
-Lies dazu auch unseren [Jetlag-Guide](/blog/jetlag-schnell-ueberwinden), Tokio ist 7-8 Stunden Zeitverschiebung von Mitteleuropa.
+Lies dazu auch unseren [Jetlag-Guide](/blog/jetlag-schnell-ueberwinden/), Tokio ist 7-8 Stunden Zeitverschiebung von Mitteleuropa.
 
 ---
 
@@ -128,6 +128,6 @@ Backpacker: 1.000-1.500 Euro pro Person inkl. Flug (Hostel, Konbini-Essen, ÖPNV
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in New York: Die 5 Stadtteile](/blog/wo-uebernachten-new-york)
-- [Tokio Foodie-Reise: Was du wirklich essen musst](/blog/tokio-foodie-reise)
-- [Jetlag überwinden: 7 Tricks, die wirklich funktionieren](/blog/jetlag-schnell-ueberwinden)
+- [Wo übernachten in New York: Die 5 Stadtteile](/blog/wo-uebernachten-new-york/)
+- [Tokio Foodie-Reise: Was du wirklich essen musst](/blog/tokio-foodie-reise/)
+- [Jetlag überwinden: 7 Tricks, die wirklich funktionieren](/blog/jetlag-schnell-ueberwinden/)

@@ -38,7 +38,7 @@ Schreib in dein Google Doc drei Zahlen auf: Untergrenze, Zielbudget, Obergrenze.
 
 Ein realistischer Richtwert für europäische Gruppenreisen (7 Nächte): 600 bis 1.200 Euro pro Person, je nach Destination und Standard. Darin enthalten: Flug, Unterkunft, tägliches Essen. Ausflüge extra.
 
-Wenn du mehr über Budgetplanung wissen willst, hilft dir dieser Artikel weiter: [Reisebudget sparen: Die praktische Anleitung](/blog/reise-budget-sparen-anleitung).
+Wenn du mehr über Budgetplanung wissen willst, hilft dir dieser Artikel weiter: [Reisebudget sparen: Die praktische Anleitung](/blog/reise-budget-sparen-anleitung/).
 
 ## Welche Abstimmungsmethode funktioniert bei Gruppenreisen?
 
@@ -60,7 +60,7 @@ Bei Hotels fangen Gruppenraten oft bei 10 Zimmern an. Das bedeutet: 10 Doppelzim
 
 Bei Flügen ist es komplizierter. Airlines trennen Gruppenreservierungen ab 10 Personen oft in eigene Buchungssysteme mit eigenen Preisen. Diese können günstiger sein, manchmal aber auch teurer als Einzelbuchungen. Immer vergleichen.
 
-Wichtig: Gruppenrabatte erfordern oft eine frühe Buchung. Mindestens 3 bis 6 Monate im Voraus. Wann du buchen solltest, erklärt dieser Artikel: [Wann solltest du Flüge buchen?](/blog/wann-fluege-buchen)
+Wichtig: Gruppenrabatte erfordern oft eine frühe Buchung. Mindestens 3 bis 6 Monate im Voraus. Wann du buchen solltest, erklärt dieser Artikel: [Wann solltest du Flüge buchen?](/blog/wann-fluege-buchen/)
 
 ## Wie teilt man Aufgaben in einer Reisegruppe auf?
 
@@ -78,7 +78,7 @@ Das bedeutet nicht, dass nur diese drei Personen Arbeit haben. Aber jemand ist v
 
 Nebenbei: Nicht jeder muss dasselbe machen. Ein flexibles Modell, bei dem alle gemeinsam schlafen (gleiches Hotel), aber Abende frei sind, funktioniert für gemischte Gruppen viel besser als ein Durchprogrammieren.
 
-Welche Apps bei der Reiseorganisation helfen, findest du hier: [Die besten Travel Apps 2026](/blog/beste-travel-apps-2026)
+Welche Apps bei der Reiseorganisation helfen, findest du hier: [Die besten Travel Apps 2026](/blog/beste-travel-apps-2026/)
 
 ## Was läuft bei Gruppenreisen am häufigsten schief?
 
@@ -90,7 +90,7 @@ Ehrliche Antwort: Pünktlichkeit, Verpflegungsstress und Aktivitätenkonflikte. 
 
 **Aktivitätenkonflikte:** Manche wollen Museen. Andere Strand. Das ist kein Versagen der Gruppe, das ist Normalzustand. Plane freie Halbtage ein. Dann kann jeder machen, was er will, ohne dass jemand Kompromisse machen muss, die sich später nach Verlust anfühlen.
 
-Mehr dazu, was bei Reisen typischerweise schief geht: [Reisefehler vermeiden](/blog/reisefehler-vermeiden-klassische-fehler)
+Mehr dazu, was bei Reisen typischerweise schief geht: [Reisefehler vermeiden](/blog/reisefehler-vermeiden-klassische-fehler/)
 
 ---
 
@@ -99,9 +99,9 @@ Mehr dazu, was bei Reisen typischerweise schief geht: [Reisefehler vermeiden](/b
 ---
 
 **Mehr lesen:**
-- [Reisefehler vermeiden: Die häufigsten Fallen](/blog/reisefehler-vermeiden-klassische-fehler)
-- [Reisebudget sparen: So planst du richtig](/blog/reise-budget-sparen-anleitung)
-- [Die besten Travel Apps 2026](/blog/beste-travel-apps-2026)
+- [Reisefehler vermeiden: Die häufigsten Fallen](/blog/reisefehler-vermeiden-klassische-fehler/)
+- [Reisebudget sparen: So planst du richtig](/blog/reise-budget-sparen-anleitung/)
+- [Die besten Travel Apps 2026](/blog/beste-travel-apps-2026/)
 
 ---
 

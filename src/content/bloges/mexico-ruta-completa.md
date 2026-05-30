@@ -80,6 +80,6 @@ Los destinos principales de esta ruta se consideran seguros. Reglas básicas: Ub
 ---
 
 **Leer más:**
-- [Lista de equipaje esencial para viajes](/es/blog/lista-equipaje-viaje-esencial)
-- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Ruta completa por Costa Rica](/es/blog/costa-rica-ruta-completa)
+- [Lista de equipaje esencial para viajes](/es/blog/lista-equipaje-viaje-esencial/)
+- [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Ruta completa por Costa Rica](/es/blog/costa-rica-ruta-completa/)

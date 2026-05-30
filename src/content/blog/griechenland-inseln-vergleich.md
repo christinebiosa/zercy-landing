@@ -53,9 +53,9 @@ Kreta für alle Reisetypen:
 - **Wanderer**: E4-Fernwanderweg, Schluchtenwanderungen
 - **Strandliebhaber**: Elafonisi, Balos, Falassarna, Matala
 
-Kreta ist die einzige dieser vier Inseln, die du länger als eine Woche ausreizen kannst ohne Langeweile zu kriegen. Wo du auf Kreta am besten schläfst, zeigt unser [Kreta Hotelguide](/blog/wo-uebernachten-kreta).
+Kreta ist die einzige dieser vier Inseln, die du länger als eine Woche ausreizen kannst ohne Langeweile zu kriegen. Wo du auf Kreta am besten schläfst, zeigt unser [Kreta Hotelguide](/blog/wo-uebernachten-kreta/).
 
-Lies auch unseren [Island-Reiseguide](/blog/island-reiseguide) für Vergleiche mit anderen europäischen Inselerlebnissen.
+Lies auch unseren [Island-Reiseguide](/blog/island-reiseguide/) für Vergleiche mit anderen europäischen Inselerlebnissen.
 
 ## Rhodos: Wann ist die ritterliche Insel die bessere Wahl?
 
@@ -65,7 +65,7 @@ Gleichzeitig hat Rhodos auf der Westküste manche der windigsten Strände der Ä
 
 Preislich liegt Rhodos zwischen Kreta und Santorini. Nicht so günstig wie Kreta, nicht so brutal wie Santorini im Hochsommer.
 
-Rhodos lohnt sich besonders wenn du: Geschichte und Strand kombinieren willst. Oder wenn du Wind- und Kitesurfen planst. Oder wenn du Ende September/Oktober reist, wenn Kreta und Santorini schon schließen. Die besten Hotels auf Rhodos findest du in unserem [Rhodos Hotelguide](/blog/wo-uebernachten-rhodos).
+Rhodos lohnt sich besonders wenn du: Geschichte und Strand kombinieren willst. Oder wenn du Wind- und Kitesurfen planst. Oder wenn du Ende September/Oktober reist, wenn Kreta und Santorini schon schließen. Die besten Hotels auf Rhodos findest du in unserem [Rhodos Hotelguide](/blog/wo-uebernachten-rhodos/).
 
 ---
 
@@ -92,6 +92,6 @@ Minimum 4 Nächte, ideal 6-7 Nächte auf einer Insel. Weniger lohnt die teure An
 ---
 
 **Mehr lesen:**
-- [Island-Reiseguide: Europas spektakulärste Insellandschaft](/blog/island-reiseguide)
-- [Geheimtipps Europa: Orte, die noch nicht jeder kennt](/blog/geheimtipps-europa)
-- [Nordlichter 2026: Wo, wann und wie planst du die Reise richtig](/blog/nordlichter-2026-wo-wann-wie)
+- [Island-Reiseguide: Europas spektakulärste Insellandschaft](/blog/island-reiseguide/)
+- [Geheimtipps Europa: Orte, die noch nicht jeder kennt](/blog/geheimtipps-europa/)
+- [Nordlichter 2026: Wo, wann und wie planst du die Reise richtig](/blog/nordlichter-2026-wo-wann-wie/)

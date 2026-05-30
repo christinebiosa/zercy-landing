@@ -69,7 +69,7 @@ Das Viertel ist klein, ruhig und sehr teuer. Hotels sind selten, eher Boutique-H
 
 **Top-Picks:** XV Beacon Hotel (luxuriöses Boutique-Hotel, 2 Minuten von der Goldkuppel), John Jeffries House (historisches Townhouse, ruhig), Liberty Hotel (ehemaliges Gefängnis, jetzt Designer-Hotel am Rand von Beacon Hill).
 
-Unsere [New-York-Stadtführer](/blog/wo-uebernachten-new-york) und [Washington-D.C.-Guide](/blog/wo-uebernachten-washington-dc) zeigen ähnliche Stadtteil-Entscheidungen an der Ostküste.
+Unsere [New-York-Stadtführer](/blog/wo-uebernachten-new-york/) und [Washington-D.C.-Guide](/blog/wo-uebernachten-washington-dc/) zeigen ähnliche Stadtteil-Entscheidungen an der Ostküste.
 
 ## Cambridge/Harvard Square: Intellektuelles Boston
 
@@ -131,6 +131,6 @@ Januar und Februar sind die günstigsten Monate mit sehr niedrigen Hotelpreisen 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in New York: Die 5 besten Stadtteile](/blog/wo-uebernachten-new-york)
-- [Wo übernachten in Washington D.C.: Stadtteile erklärt](/blog/wo-uebernachten-washington-dc)
-- [Günstig Fliegen: Die besten Tipps 2026](/blog/guenstig-fliegen-tipps)
+- [Wo übernachten in New York: Die 5 besten Stadtteile](/blog/wo-uebernachten-new-york/)
+- [Wo übernachten in Washington D.C.: Stadtteile erklärt](/blog/wo-uebernachten-washington-dc/)
+- [Günstig Fliegen: Die besten Tipps 2026](/blog/guenstig-fliegen-tipps/)

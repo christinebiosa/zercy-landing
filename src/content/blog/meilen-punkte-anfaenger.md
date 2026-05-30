@@ -32,7 +32,7 @@ Die grobe Faustregel: Eine Meile ist in der Economy circa 1 Cent wert, in der Bu
 
 Schlechte Einlösungen: Meilen gegen Merchandise-Artikel oder Sachprämien. Hier bekommst du oft unter 0,5 Cent pro Meile. Ebenfalls schlechte Idee: Meilen kurz vor Verfall in irgendwas umwandeln, nur damit sie nicht verfallen. Lieber strategisch sammeln und zielgerichtet einlösen.
 
-Transferpartner machen das System interessant. Wenn du eine American Express Membership Rewards-Karte hast, kannst du deine Punkte zu Miles & More, Flying Blue oder Avios übertragen. Damit hast du mehr Flexibilität und kannst auf mehrere Programme zugreifen ohne alles auf eine Karte zu setzen. Mehr zu klugen Buchungsstrategien findest du in unserem Artikel zu [Business Class ohne Meilen](/blog/business-class-ohne-meilen).
+Transferpartner machen das System interessant. Wenn du eine American Express Membership Rewards-Karte hast, kannst du deine Punkte zu Miles & More, Flying Blue oder Avios übertragen. Damit hast du mehr Flexibilität und kannst auf mehrere Programme zugreifen ohne alles auf eine Karte zu setzen. Mehr zu klugen Buchungsstrategien findest du in unserem Artikel zu [Business Class ohne Meilen](/blog/business-class-ohne-meilen/).
 
 ## Welche Fehler machen Anfänger beim Meilen sammeln?
 
@@ -42,7 +42,7 @@ Fehler Nummer zwei: Auf zu vielen Programmen gleichzeitig sammeln. Dann bist du 
 
 Fehler Nummer drei: Vergessen dass Meilen verfallen. Miles & More-Meilen verfallen nach 36 Monaten Inaktivität. Avios haben zuletzt ähnliche Regeln eingeführt. Konto aktiv halten durch kleine Einkäufe über Partner oder gelegentliche Flüge.
 
-Fehler Nummer vier: Annehmen, dass Business-Class-Meilenbuchungen immer verfügbar sind. Prämienflüge sind kontingentiert. Beliebte Strecken und Zeiten sind Monate im Voraus ausgebucht. Wer flexibel bei Datum und Ziel ist, findet mehr Optionen. Unsere Artikel zu [Business Class](/blog/business-class) und [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket) geben weitere Einblicke in den cleveren Einsatz von Vielfliegerstatus.
+Fehler Nummer vier: Annehmen, dass Business-Class-Meilenbuchungen immer verfügbar sind. Prämienflüge sind kontingentiert. Beliebte Strecken und Zeiten sind Monate im Voraus ausgebucht. Wer flexibel bei Datum und Ziel ist, findet mehr Optionen. Unsere Artikel zu [Business Class](/blog/business-class/) und [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket/) geben weitere Einblicke in den cleveren Einsatz von Vielfliegerstatus.
 
 ## Wann lohnt es sich wirklich?
 
@@ -75,6 +75,6 @@ Transferpartner wie American Express Membership Rewards erlauben dir, Punkte in 
 ---
 
 **Weiterlesen:**
-- [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen)
-- [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket)
-- [Business Class: Lohnt sie sich?](/blog/business-class)
+- [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen/)
+- [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket/)
+- [Business Class: Lohnt sie sich?](/blog/business-class/)

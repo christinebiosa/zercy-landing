@@ -45,7 +45,7 @@ Al oeste del Centro, el barrio local. Menos turistas, más locales, especialista
 
 **Top picks:** Hotel Acqua (boutique con piscina), Diez Hotel Categoría Colombia (gama media moderna), Sites Hotel Medellín (boutique).
 
-Lee también nuestra [guía de Bogotá](/es/blog/donde-alojarse-bogota), para la variante de la capital colombiana.
+Lee también nuestra [guía de Bogotá](/es/blog/donde-alojarse-bogota/), para la variante de la capital colombiana.
 
 ## ¿Cuándo es la mejor época para ir a Medellín?
 
@@ -124,6 +124,6 @@ Mochilero: 500-800 USD por persona incl. vuelo (hostal en Poblado, comida local 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Bogotá: 4 barrios](/es/blog/donde-alojarse-bogota)
-- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena)
-- [Dónde alojarse en Cancún: 4 zonas](/es/blog/donde-alojarse-cancun)
+- [Dónde alojarse en Bogotá: 4 barrios](/es/blog/donde-alojarse-bogota/)
+- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena/)
+- [Dónde alojarse en Cancún: 4 zonas](/es/blog/donde-alojarse-cancun/)

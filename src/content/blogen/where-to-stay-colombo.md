@@ -49,7 +49,7 @@ Fort and Pettah are 15 minutes away. Streets are calmer than in the old town and
 
 **Top picks:** Cinnamon Grand Colombo (established luxury hotel right at Galle Face Green), Lavinia House (boutique, well-run), OZO Colombo (modern design hotel, strong value).
 
-Check our [Bali neighborhood guide](/en/blog/where-to-stay-bali) for more Southeast Asia comparisons.
+Check our [Bali neighborhood guide](/en/blog/where-to-stay-bali/) for more Southeast Asia comparisons.
 
 ## When Is the Best Time to Visit Colombo?
 
@@ -81,7 +81,7 @@ Mount Lavinia Beach is popular with locals on weekends. Hotels right on the wate
 
 **Top picks:** Mount Lavinia Hotel (historic colonial hotel directly on the beach, genuinely unmissable), Jetwing Columbo (modern, good sea views), Blue Water Hotel (further south, very quiet).
 
-Our [Bangkok neighborhood guide](/en/blog/where-to-stay-bangkok) covers another great Southeast Asian city worth pairing with a Sri Lanka trip.
+Our [Bangkok neighborhood guide](/en/blog/where-to-stay-bangkok/) covers another great Southeast Asian city worth pairing with a Sri Lanka trip.
 
 ## Wellawatta and Dehiwala: Local Colombo
 
@@ -106,7 +106,7 @@ For Colombo, [Booking.com](https://www.booking.com) covers the full range well:
 
 Booking direct at boutique properties like Tintagel Colombo can get you room upgrades and extras if you ask.
 
-Read our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026) before a Sri Lanka trip. Medical care outside Colombo can be limited.
+Read our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) before a Sri Lanka trip. Medical care outside Colombo can be limited.
 
 ---
 
@@ -133,6 +133,6 @@ Cinnamon Gardens (Colombo 7) is the quietest area: no bazaars, no bus terminals,
 ---
 
 **Read more:**
-- [Where to Stay in Bali: The 5 Neighborhoods](/en/blog/where-to-stay-bali)
-- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Where to Stay in Bali: The 5 Neighborhoods](/en/blog/where-to-stay-bali/)
+- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

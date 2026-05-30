@@ -16,7 +16,7 @@ This guide is not a travel blog fantasy. It's what you actually need to know bef
 
 Not every country is equally good for the first time. The goal isn't to protect you from the world. It's to make the first experience good enough that you go back.
 
-**Portugal** is where many first-timers get it right. Lisbon and Porto are safe, people are friendly, English is spoken almost everywhere. The hostel scene is alive. Costs are reasonable for Western Europe. You get the "foreign country" feeling without the friction that can wear you down early on. For where to stay specifically, check the [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail).
+**Portugal** is where many first-timers get it right. Lisbon and Porto are safe, people are friendly, English is spoken almost everywhere. The hostel scene is alive. Costs are reasonable for Western Europe. You get the "foreign country" feeling without the friction that can wear you down early on. For where to stay specifically, check the [Lisbon beyond the tourist trail guide](/en/blog/lisbon-beyond-the-tourist-trail/).
 
 **Thailand** is the classic backpacker destination, and there's a reason for that. The infrastructure for solo travelers is purpose-built. Hostels, guesthouses, tourist buses, day tours: everything is designed for people who arrive alone and want to connect. Chiang Mai especially: small city, relaxed pace, hundreds of like-minded travelers.
 
@@ -42,7 +42,7 @@ Traveling alone doesn't mean traveling carelessly. A few simple measures make a 
 
 **Tell someone your plan.** Give someone at home a rough outline: city, accommodation, planned departure. Daily short WhatsApp updates to family or friends keep everyone calm. You too.
 
-**[Travel insurance](/en/blog/travel-insurance-worth-it-2026).** Not optional. As a solo traveler, you have no companion to step in during an emergency. A solid international health insurance policy costs less than a restaurant bill and can become expensive fast when you don't have it.
+**[Travel insurance](/en/blog/travel-insurance-worth-it-2026/).** Not optional. As a solo traveler, you have no companion to step in during an emergency. A solid international health insurance policy costs less than a restaurant bill and can become expensive fast when you don't have it.
 
 **Don't leave valuables unattended.** Sounds obvious, because it is. At a hostel: use the locker. At the beach: leave valuables in your room or take turns watching. Pickpockets work systematically in tourist areas. Stay aware, not paranoid.
 
@@ -54,7 +54,7 @@ The topic most people underestimate. A regular debit card is expensive abroad. F
 
 **Small cash backup.** In some countries, especially in Southeast Asia or at markets, no card reader is available. 50-100 EUR in local currency for the first night and small purchases. The rest by card.
 
-More on the best travel credit cards and [which apps actually help](/en/blog/best-travel-apps-2026) is in the linked guides.
+More on the best travel credit cards and [which apps actually help](/en/blog/best-travel-apps-2026/) is in the linked guides.
 
 ## What actually happens when you travel alone
 
@@ -64,7 +64,7 @@ You arrive, the hostel dorm is louder than expected, and you wonder briefly why 
 
 On the first evening, you probably talk to someone from another country. By the second day, you know their name. By the third, someone asks if you want to join a tour.
 
-Women traveling solo: many of the best destinations in this guide are particularly well-suited. Portugal, Japan, Thailand with the right precautions. For a full breakdown, read the [solo travel guide for women](/en/blog/solo-travel-women-safe-countries).
+Women traveling solo: many of the best destinations in this guide are particularly well-suited. Portugal, Japan, Thailand with the right precautions. For a full breakdown, read the [solo travel guide for women](/en/blog/solo-travel-women-safe-countries/).
 
 The first solo trip changes something. You won't know what until it happens. But almost no one comes back and says: I wish I hadn't done that.
 
@@ -89,6 +89,6 @@ Document copies in the cloud, notify an emergency contact at home, get travel in
 ---
 
 **Read more:**
-- [Solo travel for women: The safest countries and best tips](/en/blog/solo-travel-women-safe-countries)
-- [Backpacking for beginners: What you actually need](/en/blog/backpacking-beginners-guide)
-- [The best travel apps 2026 for on the road](/en/blog/best-travel-apps-2026)
+- [Solo travel for women: The safest countries and best tips](/en/blog/solo-travel-women-safe-countries/)
+- [Backpacking for beginners: What you actually need](/en/blog/backpacking-beginners-guide/)
+- [The best travel apps 2026 for on the road](/en/blog/best-travel-apps-2026/)

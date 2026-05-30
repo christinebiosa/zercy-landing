@@ -79,6 +79,6 @@ Schrittweise. Box im Alltag als normaler Schlafplatz einführen (Decke mit vertr
 Vor der Reise den EU-Heimtierausweis und Impfunterlagen fotografieren (Digital-Backup). Tierarzt-Suche: in EU-Ländern meist problemlos via Google Maps oder PetMD. Reiseapotheke für Katzen: Durchfall-Mittel (z.B. Prokolin), Wundspray, Beruhigungsmittel (nur nach Tierarztrücksprache). Reiseversicherung für Haustiere gibt es bei einigen Anbietern.
 
 ## Mehr lesen
-- [Mit Hund reisen in Europa](/blog/mit-hund-europa-reisen)
-- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Slow Travel: Warum weniger mehr ist](/blog/slow-travel-bedeutet-was)
+- [Mit Hund reisen in Europa](/blog/mit-hund-europa-reisen/)
+- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Slow Travel: Warum weniger mehr ist](/blog/slow-travel-bedeutet-was/)

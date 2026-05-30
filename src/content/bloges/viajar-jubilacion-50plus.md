@@ -34,7 +34,7 @@ Lo importante al contratar: muchas pólizas tienen un límite de edad. Algunas t
 
 Si viajas más de una vez al año, una póliza anual para seniors suele ser mucho más barata que pólizas individuales por viaje. Las organizaciones de consumidores en tu país las analizan regularmente — merece la pena echar un vistazo antes de contratar.
 
-Más sobre esto: [Seguro de viaje — ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
+Más sobre esto: [Seguro de viaje — ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)
 
 ## La comodidad no es un lujo — es planificación inteligente
 
@@ -46,7 +46,7 @@ En vuelos de larga distancia, la clase business merece al menos pensarse. Si tie
 
 Coche de alquiler en lugar de transporte público es otro tema a valorar. No en todos los destinos, pero en algunos — Canarias, sur de Portugal, interior de España — un coche es la solución más cómoda y a menudo más barata que autobuses o taxis.
 
-Para el viaje accesible — ya sea por limitaciones de movilidad o simplemente porque quieres viajar con más comodidad: [Viajes accesibles: la guía completa](/es/blog/viajes-accesibles-guia)
+Para el viaje accesible — ya sea por limitaciones de movilidad o simplemente porque quieres viajar con más comodidad: [Viajes accesibles: la guía completa](/es/blog/viajes-accesibles-guia/)
 
 ## ¿A dónde ir? Los mejores destinos para mayores de 60
 
@@ -58,7 +58,7 @@ No todos los destinos se adaptan igual de bien. Aquí tienes los que los viajero
 
 **Los cruceros** merecen su propia categoría para los viajeros de 60+. Subes una vez, todo incluido, un puerto nuevo cada mañana. Sin volver a hacer la maleta para cada hotel, sin organizar traslados, sin preguntarte dónde comer. Especialmente para quienes viajan solos por primera vez, o parejas que simplemente quieren desconectar, suele ser la mejor opción.
 
-Todo sobre cruceros para principiantes: [Guía de cruceros para principiantes](/es/blog/crucero-guia-principiantes)
+Todo sobre cruceros para principiantes: [Guía de cruceros para principiantes](/es/blog/crucero-guia-principiantes/)
 
 **Los viajes en grupo para +60** también son muy populares. No estás solo, todo está organizado y conoces gente rápidamente. El inconveniente: el ritmo y el programa siguen al grupo. A veces más rápido de lo que querrías, a veces más lento. Y los viajes en grupo no siempre son más baratos que el viaje independiente.
 
@@ -79,9 +79,9 @@ Lo único que necesitas de verdad: un buen seguro médico de viaje, un poco de p
 ---
 
 **Leer más:**
-- [Seguro de viaje — ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Viajes accesibles: la guía completa](/es/blog/viajes-accesibles-guia)
-- [Guía de cruceros para principiantes](/es/blog/crucero-guia-principiantes)
+- [Seguro de viaje — ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Viajes accesibles: la guía completa](/es/blog/viajes-accesibles-guia/)
+- [Guía de cruceros para principiantes](/es/blog/crucero-guia-principiantes/)
 
 ---
 

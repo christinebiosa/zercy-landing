@@ -26,7 +26,7 @@ Von Trondheim in Norwegen bis Santiago de Compostela. Wer die klassischen Camino
 **EuroVelo 6: Loire-Abschnitt**
 Das Loire-Tal zwischen Nevers und Saint-Nazaire ist flach, gut beschildert und kulturell reich. Schlösser, Weinberge, kleine Dörfer. Die Franzosen nennen diesen Weg "La Loire à Vélo" und investieren seit Jahren in den Ausbau. Für Einsteigerinnen und Einsteiger ist dieser Abschnitt ideal.
 
-Auch die [reise-packliste-was-wirklich-rein-kommt](/blog/reise-packliste-was-wirklich-rein-kommt) hilft dir, das Gepäck für die Radreise auf das Wesentliche zu reduzieren.
+Auch die [reise-packliste-was-wirklich-rein-kommt](/blog/reise-packliste-was-wirklich-rein-kommt/) hilft dir, das Gepäck für die Radreise auf das Wesentliche zu reduzieren.
 
 ## Wann ist die beste Jahreszeit für einen Radurlaub in Europa?
 
@@ -44,7 +44,7 @@ Packtaschen statt Rucksack ist Pflicht. Ein Rucksack auf dem Rücken beim Radfah
 
 Was rein muss: Drei Trikots (zwei zum Fahren, eines für abends), zwei Radhosen, eine leichte Regenjacke, Werkzeug für den Reifenwechsel, Ersatzschlauch, Sonnencreme. Was nicht rein muss: mehr als zwei Paar Freizeitschuhe, Bücher (E-Reader reicht), schwere Schlafsäcke bei Hoteltouren.
 
-Wer plant, auch mal zelten zu gehen, findet bei unserem [Camping-Guide für Europa](/blog/camping-europa-reiseguide) gute Tipps zur leichten Campingausrüstung.
+Wer plant, auch mal zelten zu gehen, findet bei unserem [Camping-Guide für Europa](/blog/camping-europa-reiseguide/) gute Tipps zur leichten Campingausrüstung.
 
 ## Wo übernachtest du unterwegs am besten?
 
@@ -52,9 +52,9 @@ Radlerunterkünfte sind entlang der großen EuroVelo-Routen keine Seltenheit. Vi
 
 Für die Budgetrechnung: Eine Nacht in einer Radlerpension liegt zwischen 25 und 45 Euro im Einzelzimmer. Dazu kommen Mahlzeiten und Getränke, Snacks unterwegs sowie gelegentliche Fährüberfahrten, etwa über Flüsse oder den Bodensee. Wer sparsam isst und regelmäßig einkauft statt im Restaurant speist, bleibt gut unter 60 Euro pro Tag.
 
-Fähren spielen auf manchen Routen eine Rolle. Auf dem Donauradweg gibt es mehrere Flussüberfahrten. Unser [Fähren-Guide für Europa](/blog/faehren-europa-guide) erklärt, wie du diese Verbindungen in deine Route einplanst.
+Fähren spielen auf manchen Routen eine Rolle. Auf dem Donauradweg gibt es mehrere Flussüberfahrten. Unser [Fähren-Guide für Europa](/blog/faehren-europa-guide/) erklärt, wie du diese Verbindungen in deine Route einplanst.
 
-Wer von einer Radreise in eine längere Trekkingtour wechseln will, findet auch im [Trekking-Anfänger-Guide](/blog/trekking-anfaenger-guide-weltweit) hilfreiche Grundlagen zur Vorbereitung auf längere Touren zu Fuß.
+Wer von einer Radreise in eine längere Trekkingtour wechseln will, findet auch im [Trekking-Anfänger-Guide](/blog/trekking-anfaenger-guide-weltweit/) hilfreiche Grundlagen zur Vorbereitung auf längere Touren zu Fuß.
 
 ---
 
@@ -84,6 +84,6 @@ Die meisten Fernzüge in Europa transportieren Fahrräder gegen Aufpreis. Die De
 
 ## Mehr lesen
 
-- [Camping in Europa: Der komplette Reiseguide](/blog/camping-europa-reiseguide)
-- [Mit der Fähre durch Europa: Was du wissen musst](/blog/faehren-europa-guide)
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
+- [Camping in Europa: Der komplette Reiseguide](/blog/camping-europa-reiseguide/)
+- [Mit der Fähre durch Europa: Was du wissen musst](/blog/faehren-europa-guide/)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)

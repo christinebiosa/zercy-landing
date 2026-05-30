@@ -26,7 +26,7 @@ Entry prices start around 2,500 euros for economy class with three continents an
 
 That sounds like a lot. Compared to booking individually, it often is not. If you book five long-haul segments separately (Frankfurt to New York, New York to Los Angeles, Los Angeles to Tokyo, Tokyo to Bangkok, Bangkok back to Frankfurt), you can easily hit 4,000 to 5,500 euros depending on when you book.
 
-RTW tickets start making financial sense at four to five long-haul flights. Below that threshold, individual tickets are almost always cheaper, especially if you know how to [find cheap flights strategically](/en/blog/cheap-flights-tips) and have flexibility on dates.
+RTW tickets start making financial sense at four to five long-haul flights. Below that threshold, individual tickets are almost always cheaper, especially if you know how to [find cheap flights strategically](/en/blog/cheap-flights-tips/) and have flexibility on dates.
 
 ## When is an RTW ticket worth it?
 
@@ -42,7 +42,7 @@ Three scenarios where RTW tickets clearly win:
 
 RTW tickets have real weaknesses. Know them before booking.
 
-You cannot fly in two directions. If you want to fly from Frankfurt to Bangkok, then to Australia, then back through India, you have a problem: that is no longer a one-way route. [Open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack) handle those situations better.
+You cannot fly in two directions. If you want to fly from Frankfurt to Bangkok, then to Australia, then back through India, you have a problem: that is no longer a one-way route. [Open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack/) handle those situations better.
 
 You have fewer than four stops planned. The package does not justify itself. Three long-haul flights booked individually are almost always cheaper, especially with flexible dates and some lead time.
 
@@ -52,13 +52,13 @@ You want to focus heavily on South America. RTW tickets typically include only o
 
 Directly through the alliance websites. Star Alliance has an interactive route planner at staralliance.com/en/round-the-world. OneWorld handles bookings through oneworld.com. The interfaces vary in quality, but the process is similar: choose continents, enter stops, review the route, and book.
 
-Specialized agencies like Airtreks or Flight Centre are another option. They can combine tickets across alliances and offer off-alliance routes. The premium is worth considering if your ideal route is not served by a single alliance. Understanding which alliance covers which regions best is key. Our [airline alliances guide](/en/blog/airline-alliances-guide-2026) breaks that down in detail.
+Specialized agencies like Airtreks or Flight Centre are another option. They can combine tickets across alliances and offer off-alliance routes. The premium is worth considering if your ideal route is not served by a single alliance. Understanding which alliance covers which regions best is key. Our [airline alliances guide](/en/blog/airline-alliances-guide-2026/) breaks that down in detail.
 
 ## RTW vs. individual tickets: What does the comparison show?
 
 The simple rule: fewer than four long-haul flights, almost always go with individual tickets. At five, compare carefully. At six or more, RTW usually comes out ahead.
 
-But price is not the only factor. Individual tickets allow more route flexibility, better stop configuration, and targeted booking timing. Knowing [when to book flights](/en/blog/when-to-book-flights) is a separate skill that matters more for individual tickets than for RTW packages.
+But price is not the only factor. Individual tickets allow more route flexibility, better stop configuration, and targeted booking timing. Knowing [when to book flights](/en/blog/when-to-book-flights/) is a separate skill that matters more for individual tickets than for RTW packages.
 
 One more thing to check: cheap flights on low-cost carriers are not included in alliance packages. If your route has a segment where a budget airline is dramatically cheaper, an RTW ticket will not help you there.
 
@@ -88,6 +88,6 @@ The classic Europe to Americas to Asia back to Europe route is an ideal fit for 
 
 **Read more:**
 
-- [Open-Jaw Tickets: The Underrated Travel Hack](/en/blog/open-jaw-tickets-travel-hack)
-- [Airline Alliances Explained: How to Use Them to Save](/en/blog/airline-alliances-guide-2026)
-- [When to Book Flights for the Lowest Price](/en/blog/when-to-book-flights)
+- [Open-Jaw Tickets: The Underrated Travel Hack](/en/blog/open-jaw-tickets-travel-hack/)
+- [Airline Alliances Explained: How to Use Them to Save](/en/blog/airline-alliances-guide-2026/)
+- [When to Book Flights for the Lowest Price](/en/blog/when-to-book-flights/)

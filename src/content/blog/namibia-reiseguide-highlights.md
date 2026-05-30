@@ -79,6 +79,6 @@ Mietwagen (4WD, 14 Tage): 800 bis 1.500 Euro. Unterkunft (Mittelklasse-Lodges): 
 ---
 
 **Mehr lesen:**
-- [Safari in Ostafrika: Der ehrliche Planungs-Guide](/blog/safari-ostafrika-guide)
-- [Australien Rundreise: Die beste Route](/blog/australien-rundreise-route)
-- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt)
+- [Safari in Ostafrika: Der ehrliche Planungs-Guide](/blog/safari-ostafrika-guide/)
+- [Australien Rundreise: Die beste Route](/blog/australien-rundreise-route/)
+- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)

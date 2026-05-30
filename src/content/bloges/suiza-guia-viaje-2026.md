@@ -63,13 +63,13 @@ El Swiss Travel Pass cubre trenes, autobuses, barcos y muchos teleféricos de mo
 
 **Cuándo no conviene:** Base en una sola ciudad, pocas excursiones, concentración en una sola región.
 
-Para los viajeros que consideran el coche de alquiler en Suiza, la [guía de alquiler de coche](/es/blog/checklist-alquiler-coche) merece consultarse, ya que las tarifas suizas pueden ser competitivas cuando se entra desde Alemania.
+Para los viajeros que consideran el coche de alquiler en Suiza, la [guía de alquiler de coche](/es/blog/checklist-alquiler-coche/) merece consultarse, ya que las tarifas suizas pueden ser competitivas cuando se entra desde Alemania.
 
 ## ¿Cuándo es mejor visitar Suiza?
 
 **Verano (junio a septiembre):** La temporada clásica. Teleféricos en funcionamiento, senderos abiertos, temperaturas agradables. Julio y agosto son los meses más caros y concurridos. Junio y septiembre son mejores.
 
-**Invierno (diciembre a marzo):** Temporada de esquí. Las grandes estaciones (Zermatt, Verbier, St. Moritz, Davos) son de primera mundial. Pero más caras que la mayoría de las estaciones europeas. Para comparar opciones de esquí, la [guía de vacaciones de esquí en Europa](/es/blog/vacaciones-ski-europa-mejores-destinos) compara las principales alternativas.
+**Invierno (diciembre a marzo):** Temporada de esquí. Las grandes estaciones (Zermatt, Verbier, St. Moritz, Davos) son de primera mundial. Pero más caras que la mayoría de las estaciones europeas. Para comparar opciones de esquí, la [guía de vacaciones de esquí en Europa](/es/blog/vacaciones-ski-europa-mejores-destinos/) compara las principales alternativas.
 
 **Primavera (abril/mayo) y otoño (octubre/noviembre):** Las épocas más económicas. Muchos teleféricos aún cerrados o ya cerrados. Ideales para visitas urbanas (Zúrich, Basilea, Ginebra, Berna).
 
@@ -91,7 +91,7 @@ Zúrich es el punto de entrada más frecuente para los viajes a Suiza. Desde all
 
 Suiza tiene posiblemente la mejor red de trenes del mundo para el tamaño del país. Los trenes salen al minuto. Los enlaces están sincronizados para que entre conexiones haya 3-7 minutos sin estrés. Las rutas panorámicas (Glacier Express, Bernina Express, Golden Pass) son atracciones turísticas en sí mismas.
 
-La [guía de viajes en tren por Europa](/es/blog/viajes-tren-europa) explica cómo reservar trenes suizos desde el extranjero y qué rutas ofrecen las mejores vistas de montaña.
+La [guía de viajes en tren por Europa](/es/blog/viajes-tren-europa/) explica cómo reservar trenes suizos desde el extranjero y qué rutas ofrecen las mejores vistas de montaña.
 
 ---
 
@@ -109,7 +109,7 @@ Con el Swiss Travel Pass a partir de 3 días casi siempre es la mejor opción. L
 
 ### ¿Qué ciudad es el mejor punto de partida para Suiza?
 
-Zúrich tiene el mayor aeropuerto (conexiones directas de todo el mundo) y está bien ubicado para la Suiza central y el Oberland bernés. Para la Suiza occidental (Ginebra, Lausana, el Valais) Ginebra es mejor punto de entrada. Quien quiera ambas: entrar por Zúrich y salir por Ginebra (billete open-jaw). La [guía de vuelos open-jaw](/es/blog/open-jaw-tickets-truco-viaje) explica cómo reservar este tipo de ruta.
+Zúrich tiene el mayor aeropuerto (conexiones directas de todo el mundo) y está bien ubicado para la Suiza central y el Oberland bernés. Para la Suiza occidental (Ginebra, Lausana, el Valais) Ginebra es mejor punto de entrada. Quien quiera ambas: entrar por Zúrich y salir por Ginebra (billete open-jaw). La [guía de vuelos open-jaw](/es/blog/open-jaw-tickets-truco-viaje/) explica cómo reservar este tipo de ruta.
 
 ### ¿Por qué Zermatt no tiene coches?
 
@@ -118,6 +118,6 @@ Zermatt tiene prohibición de vehículos de motor convencionales desde 1930 para
 ---
 
 **Leer más:**
-- [Vacaciones de esquí en Europa: las mejores estaciones comparadas](/es/blog/vacaciones-ski-europa-mejores-destinos)
-- [Viajes en tren por Europa: rutas, consejos y apps](/es/blog/viajes-tren-europa)
-- [Vuelos open-jaw: el truco de viaje que ahorra dinero](/es/blog/open-jaw-tickets-truco-viaje)
+- [Vacaciones de esquí en Europa: las mejores estaciones comparadas](/es/blog/vacaciones-ski-europa-mejores-destinos/)
+- [Viajes en tren por Europa: rutas, consejos y apps](/es/blog/viajes-tren-europa/)
+- [Vuelos open-jaw: el truco de viaje que ahorra dinero](/es/blog/open-jaw-tickets-truco-viaje/)

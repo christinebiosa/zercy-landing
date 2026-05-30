@@ -78,6 +78,6 @@ Playa Rincón auf der Samaná-Halbinsel gilt als einer der wildesten und unberü
 ---
 
 **Mehr lesen:**
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [All-Inclusive Urlaub: Lohnt sich das?](/blog/all-inclusive-urlaub-lohnt-sich)
-- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [All-Inclusive Urlaub: Lohnt sich das?](/blog/all-inclusive-urlaub-lohnt-sich/)
+- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/)

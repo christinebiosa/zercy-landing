@@ -57,7 +57,7 @@ Hotels in Beyoğlu kosten 15 bis 30 Prozent weniger als in Sultanahmet für verg
 - **The Pera Hill Hotel** (Boutique, Pera-Viertel, ca. 110 Euro)
 - **Vault Karaköy** (Design-Hotel, Karaköy, Nähe Galata, ca. 170 Euro)
 
-Für weitere Städtetrips mit gutem Preis-Lage-Verhältnis: Schau auch in die Guides zu [Wo übernachten in Budapest](/blog/wo-uebernachten-budapest) oder [Wo übernachten in Athen](/blog/wo-uebernachten-athen).
+Für weitere Städtetrips mit gutem Preis-Lage-Verhältnis: Schau auch in die Guides zu [Wo übernachten in Budapest](/blog/wo-uebernachten-budapest/) oder [Wo übernachten in Athen](/blog/wo-uebernachten-athen/).
 
 ## Kadıköy: Die asiatische Seite für Entdecker
 
@@ -98,6 +98,6 @@ Hagia Sophia und Topkapi-Palast: Besuche morgens direkt bei Öffnung oder am sp�
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Budapest: Buda oder Pest?](/blog/wo-uebernachten-budapest)
-- [Wo übernachten in Athen: Altstadt oder Kolonaki?](/blog/wo-uebernachten-athen)
-- [Reiseversicherung 2026: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
+- [Wo übernachten in Budapest: Buda oder Pest?](/blog/wo-uebernachten-budapest/)
+- [Wo übernachten in Athen: Altstadt oder Kolonaki?](/blog/wo-uebernachten-athen/)
+- [Reiseversicherung 2026: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)

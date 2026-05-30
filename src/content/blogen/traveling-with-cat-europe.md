@@ -77,6 +77,6 @@ Gradually. Introduce the carrier as a normal everyday sleeping spot (place a bla
 Before the trip, photograph the EU pet passport and vaccination records (digital backup). Finding a vet: in EU countries usually straightforward via Google Maps or PetMD. Cat travel first aid kit: diarrhea treatment (e.g., Prokolin), wound spray, calming aids (only after consulting your vet). Pet travel insurance is available from some providers.
 
 ## Read more
-- [Traveling with a Dog in Europe](/en/blog/traveling-with-dog-europe)
-- [Travel Insurance: What's Actually Worth It?](/en/blog/travel-insurance-worth-it-2026)
-- [Slow Travel: Why Less Is More](/en/blog/slow-travel-what-it-really-means)
+- [Traveling with a Dog in Europe](/en/blog/traveling-with-dog-europe/)
+- [Travel Insurance: What's Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)
+- [Slow Travel: Why Less Is More](/en/blog/slow-travel-what-it-really-means/)

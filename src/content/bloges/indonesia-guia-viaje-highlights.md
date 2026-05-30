@@ -70,6 +70,6 @@ Para Bali más otra isla (Komodo o Lombok): mínimo 10 a 12 días. Para Yogyakar
 ---
 
 **Más artículos:**
-- [India: Guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights)
-- [Australia: Ruta completa](/es/blog/australia-ruta-completa)
-- [Lista de equipaje para viajes: lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial)
+- [India: Guía de viaje con los mejores highlights](/es/blog/india-guia-viaje-highlights/)
+- [Australia: Ruta completa](/es/blog/australia-ruta-completa/)
+- [Lista de equipaje para viajes: lo que realmente va dentro](/es/blog/lista-equipaje-viaje-esencial/)

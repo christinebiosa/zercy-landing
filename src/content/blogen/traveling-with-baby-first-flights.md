@@ -31,7 +31,7 @@ Clear rule: at your baby's main sleep time. If your baby normally sleeps through
 
 **What also doesn't work:** noon flight at nap time. Sounds logical, but nap-time babies often don't sleep in unfamiliar surroundings.
 
-See our [jet lag guide](/en/blog/jet-lag-fast-recovery) if you're planning long-haul.
+See our [jet lag guide](/en/blog/jet-lag-fast-recovery/) if you're planning long-haul.
 
 ## What do you need to bring on a flight with baby?
 
@@ -89,7 +89,7 @@ Few parents know they have many free advantages:
 
 **Toys on board:** Lufthansa, KLM, Singapore Airlines distribute small toy packages to families. Ask the crew explicitly.
 
-See our [airport hacks guide](/en/blog/airport-hacks) for general airport tips.
+See our [airport hacks guide](/en/blog/airport-hacks/) for general airport tips.
 
 ## Which destinations are best for first trip with baby?
 
@@ -131,6 +131,6 @@ Sucking during takeoff (climb) and landing. Breastfeeding, bottle, pacifier — 
 ---
 
 **Read more:**
-- [Airport hacks: 7 tricks that actually help](/en/blog/airport-hacks)
-- [Where to stay in Lisbon: 5 neighborhoods](/en/blog/where-to-stay-lisbon)
-- [Traveling with dog in Europe](/en/blog/traveling-with-dog-europe)
+- [Airport hacks: 7 tricks that actually help](/en/blog/airport-hacks/)
+- [Where to stay in Lisbon: 5 neighborhoods](/en/blog/where-to-stay-lisbon/)
+- [Traveling with dog in Europe](/en/blog/traveling-with-dog-europe/)

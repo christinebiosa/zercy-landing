@@ -55,7 +55,7 @@ Bergen es famosa por su lluvia. No es un mito: es una de las ciudades más lluvi
 
 **Invierno:** Oscuro (amanecer alrededor de las 9:30h, puesta de sol alrededor de las 15:30h en diciembre) pero acogedor en cafés y restaurantes. Hoteles asequibles.
 
-La [Oficina de Turismo de Noruega](https://www.visitnorway.com) tiene información completa sobre tours a los fiordos e informes meteorológicos actualizados para Bergen. Quien visita Bergen casi siempre planea también una [ruta por Escandinavia](/es/blog/escandinavia-ruta-completa). El ferrocarril de Flåm y el Sognefjord están a 2-3 horas.
+La [Oficina de Turismo de Noruega](https://www.visitnorway.com) tiene información completa sobre tours a los fiordos e informes meteorológicos actualizados para Bergen. Quien visita Bergen casi siempre planea también una [ruta por Escandinavia](/es/blog/escandinavia-ruta-completa/). El ferrocarril de Flåm y el Sognefjord están a 2-3 horas.
 
 ## Sandviken: El tranquilo noreste
 
@@ -112,6 +112,6 @@ El teleférico Fløibanen con plataforma de observación (la mejor vista de Berg
 ---
 
 ## Más artículos
-- [Escandinavia: La ruta completa](/es/blog/escandinavia-ruta-completa)
-- [Dónde alojarse en Gotemburgo: Los mejores barrios](/es/blog/donde-alojarse-gotemburgo)
-- [Auroras boreales 2026: Dónde, cuándo y cómo verlas](/es/blog/auroras-boreales-2026)
+- [Escandinavia: La ruta completa](/es/blog/escandinavia-ruta-completa/)
+- [Dónde alojarse en Gotemburgo: Los mejores barrios](/es/blog/donde-alojarse-gotemburgo/)
+- [Auroras boreales 2026: Dónde, cuándo y cómo verlas](/es/blog/auroras-boreales-2026/)

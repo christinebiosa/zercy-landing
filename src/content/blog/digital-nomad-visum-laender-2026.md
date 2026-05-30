@@ -26,7 +26,7 @@ Portugal war eines der ersten Länder weltweit mit einem speziellen Fernarbeiter
 
 **Steuern:** Neuzuzügler können über das NHR-Nachfolgeprogramm (IFICI) von vergünstigten Steuersätzen profitieren. Steuerberatung ist aber Pflicht vor dem Umzug.
 
-**Wo Nomaden wohnen:** Lissabon, Porto, Madeira (Funchal hat eine aktive Nomad-Community mit staatlicher Förderung). Unser [Lissabon-Guide](/blog/wo-uebernachten-lissabon) zeigt, welche Stadtteile für Wochen- oder Monatsmieten am besten geeignet sind.
+**Wo Nomaden wohnen:** Lissabon, Porto, Madeira (Funchal hat eine aktive Nomad-Community mit staatlicher Förderung). Unser [Lissabon-Guide](/blog/wo-uebernachten-lissabon/) zeigt, welche Stadtteile für Wochen- oder Monatsmieten am besten geeignet sind.
 
 ## Spanien: Fernarbeiter-Visum seit 2023
 
@@ -64,7 +64,7 @@ Mexiko bietet eine Residente Temporal (temporäre Aufenthaltserlaubnis) als prak
 
 **Steuern:** Mexiko hat ein globales Steuersystem. Wer mehr als 183 Tage im Jahr in Mexiko verbringt, kann steuerpflichtig werden. Wichtig: Steuerberater vor Ort konsultieren.
 
-**Wo Nomaden wohnen:** Mexico City (Roma Norte, Condesa), Oaxaca, Playa del Carmen, Mérida. Unser [Mexico-City-Guide](/blog/wo-uebernachten-mexico-city) zeigt die besten Viertel für längere Aufenthalte.
+**Wo Nomaden wohnen:** Mexico City (Roma Norte, Condesa), Oaxaca, Playa del Carmen, Mérida. Unser [Mexico-City-Guide](/blog/wo-uebernachten-mexico-city/) zeigt die besten Viertel für längere Aufenthalte.
 
 ## Thailand: LTR Visum (Long-Term Resident)
 
@@ -116,7 +116,7 @@ Kolumbien bietet eine Mietvisum-Kategorie ("Migrante") für Fernarbeiter.
 
 Krankenversicherung ist das wichtigste Thema. Jedes Nomad-Visum setzt eine gültige Krankenversicherung voraus, die im Zielland gilt. Deutsche Krankenkassen decken oft nur kurze Auslandsaufenthalte ab. Für längere Trips: internationale Krankenversicherung (z.B. SafetyWing, Cigna Global).
 
-Steuerliche Ansässigkeit in Deutschland bleibt bestehen, wenn du deinen Wohnsitz nicht aufgibst. Das bedeutet: Du bleibst steuerpflichtig in Deutschland, auch mit Visum in Thailand oder Costa Rica. Unser Artikel zu [Workation und Steuern](/blog/workation-steuern-2026) erklärt die genauen Schwellenwerte.
+Steuerliche Ansässigkeit in Deutschland bleibt bestehen, wenn du deinen Wohnsitz nicht aufgibst. Das bedeutet: Du bleibst steuerpflichtig in Deutschland, auch mit Visum in Thailand oder Costa Rica. Unser Artikel zu [Workation und Steuern](/blog/workation-steuern-2026/) erklärt die genauen Schwellenwerte.
 
 Konten: Viele Fernarbeiter nutzen N26 oder Wise für internationales Banking. Wichtig vor dem Abflug einrichten, nicht danach.
 
@@ -145,6 +145,6 @@ Solange du deinen deutschen Wohnsitz nicht aufgibst, bleibst du in Deutschland u
 ---
 
 **Mehr lesen:**
-- [Workation und Steuern 2026: Was du wissen musst](/blog/workation-steuern-2026)
-- [Cyber-Sicherheit auf Reisen: So schützt du deine Daten](/blog/cyber-sicherheit-reisen)
-- [Wo übernachten in Lissabon: Die besten Stadtteile](/blog/wo-uebernachten-lissabon)
+- [Workation und Steuern 2026: Was du wissen musst](/blog/workation-steuern-2026/)
+- [Cyber-Sicherheit auf Reisen: So schützt du deine Daten](/blog/cyber-sicherheit-reisen/)
+- [Wo übernachten in Lissabon: Die besten Stadtteile](/blog/wo-uebernachten-lissabon/)

@@ -21,7 +21,7 @@ Europe has some of the finest riding roads on the planet. These four deserve a s
 
 **Grossglockner High Alpine Road, Austria:** 48 kilometers, 36 hairpin turns, views of Austria's highest peak. The toll is around 38 euros, but you will not regret it. One of the most engineered roads in the Alps, with viewing platforms and a riding surface that stays excellent even late in the season.
 
-**Romantic Road, Bavaria:** No mountain passes. No altitude drama. Instead you get medieval towns, soft hills, and a pace that lets you actually look around. Perfect as a warm-up or as contrast after days of alpine riding. If you have done the Balkans and want something gentler, this delivers. [More ideas in the Balkan road trip guide.](/en/blog/balkan-road-trip-route)
+**Romantic Road, Bavaria:** No mountain passes. No altitude drama. Instead you get medieval towns, soft hills, and a pace that lets you actually look around. Perfect as a warm-up or as contrast after days of alpine riding. If you have done the Balkans and want something gentler, this delivers. [More ideas in the Balkan road trip guide.](/en/blog/balkan-road-trip-route/)
 
 **Pyrenees Passes, France and Spain:** The Col du Tourmalet, Port de la Bonaigua, Portalet. The Pyrenees are less crowded than the Alps and the roads are often more technical. You can ride for hours in high summer and barely see another vehicle on some of the northern Spanish passes.
 
@@ -45,7 +45,7 @@ Within the EU, your regular driver's license is valid. No international permit n
 
 Insurance: your standard motorcycle liability policy covers all EU countries and most countries that accept the Green Card system. Carry the Green Card document with you at all times. If you are involved in an accident, you will need it. A separate travel health insurance policy for yourself as the rider is worth adding, especially on longer trips.
 
-EU border crossings are seamless. No stops, no inspection. For non-EU countries like Turkey, the rules are different. Full details in the [Turkey road trip highlights guide.](/en/blog/turkey-road-trip-highlights)
+EU border crossings are seamless. No stops, no inspection. For non-EU countries like Turkey, the rules are different. Full details in the [Turkey road trip highlights guide.](/en/blog/turkey-road-trip-highlights/)
 
 ## Where Do Motorcyclists Stay on Long Tours?
 
@@ -57,7 +57,7 @@ Other options:
 - **Booking.com with a parking filter:** Many guesthouses have garages but do not advertise it. A quick phone call beforehand often solves it.
 - **Stay flexible in Eastern Europe:** In Romania, Bulgaria, and Croatia you can usually find good accommodation without advance booking, even in peak season.
 
-For [planning stages and overnight stops](/en/blog/road-trip-stages-planning), the sweet spot is around 250 to 350 kilometers between overnight towns.
+For [planning stages and overnight stops](/en/blog/road-trip-stages-planning/), the sweet spot is around 250 to 350 kilometers between overnight towns.
 
 ## What Does a Motorcycle Road Trip Through Europe Cost?
 
@@ -69,7 +69,7 @@ Here is how that breaks down:
 - Tolls: 0 to 10 euros (Austria and France have tolls, Germany does not)
 - Food: 15 to 20 euros
 
-Camping brings the total down significantly. Comfortable hotels with breakfast push it up. Travel insurance is not where you cut costs. What a good policy should include is covered in the [travel insurance guide for 2026.](/en/blog/travel-insurance-worth-it-2026)
+Camping brings the total down significantly. Comfortable hotels with breakfast push it up. Travel insurance is not where you cut costs. What a good policy should include is covered in the [travel insurance guide for 2026.](/en/blog/travel-insurance-worth-it-2026/)
 
 ## When Is the Best Time to Ride?
 
@@ -84,9 +84,9 @@ July and August are the most crowded months. The Grossglockner and the Romantic 
 Before you head out, it helps to check flights, accommodation, and rental options together. The Zercy travel logbook lets you build out your trip from the first idea to the final booking: [zercy.app/logbook](https://www.zercy.app/logbook)
 
 **Read more:**
-- [Balkan Road Trip: The Best Route](/en/blog/balkan-road-trip-route)
-- [Turkey Road Trip: Highlights and Tips](/en/blog/turkey-road-trip-highlights)
-- [Road Trip Stage Planning: How to Do It Right](/en/blog/road-trip-stages-planning)
+- [Balkan Road Trip: The Best Route](/en/blog/balkan-road-trip-route/)
+- [Turkey Road Trip: Highlights and Tips](/en/blog/turkey-road-trip-highlights/)
+- [Road Trip Stage Planning: How to Do It Right](/en/blog/road-trip-stages-planning/)
 
 ---
 

@@ -40,7 +40,7 @@ Die größte Falle sind Kreisverkehre. In Schottland fährt du rechts am Kreisve
 
 Auf den Single-Track Roads der Highlands gibt es ausgewiesene Ausweichstellen. Wenn Gegenverkehr kommt, fährst du an die nächste Stelle und wartest. Das ist der Standard, kein Einlenken nötig.
 
-Lies vor der Fahrt unseren [Mietwagen-Check](/blog/mietwagen-check) durch, der erklärt, welche Versicherungen du brauchst und was du beim Mietvertrag beachten solltest, gerade in Großbritannien nach dem Brexit.
+Lies vor der Fahrt unseren [Mietwagen-Check](/blog/mietwagen-check/) durch, der erklärt, welche Versicherungen du brauchst und was du beim Mietvertrag beachten solltest, gerade in Großbritannien nach dem Brexit.
 
 ## Wann ist die beste Reisezeit für die schottischen Highlands?
 
@@ -52,7 +52,7 @@ Juli und August: Warmste Monate, längste Tage, aber auch die meisten Touristen.
 
 September: Viele Schottland-Kenner nennen September den perfekten Monat. Weniger Besucher als im August, Heidekraut in voller Blüte, oft goldenes Licht.
 
-Wer ein Geheimtipp-Erlebnis sucht, schaut sich auch unser [Geheimtipps-Europa-Guide](/blog/geheimtipps-europa) an.
+Wer ein Geheimtipp-Erlebnis sucht, schaut sich auch unser [Geheimtipps-Europa-Guide](/blog/geheimtipps-europa/) an.
 
 Markiere deine Wunschstopps, Unterkünfte und Routen jetzt. Speichere deine Auswahl im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen alles zur Hand hast.
 
@@ -70,7 +70,7 @@ Grob gerechnet: Mietwagen ab 40 bis 60 Euro pro Tag, Unterkunft in B&Bs oder Gue
 
 ### Wo übernachtet man am besten auf dem Highlands Road Trip?
 
-B&Bs und Guesthouses sind die typische Unterkunft. Sie sind oft charmant, frühstücksinklusive und persönlicher als Hotels. Auf der NC500 gibt es außerdem Glamping-Optionen und Campingplätze mit guten Einrichtungen. Buchung im Sommer: je früher, desto besser. Empfehlungen für Edinburgh als Basis findest du in unserem Artikel [Wo übernachten in Edinburgh](/blog/wo-uebernachten-edinburgh).
+B&Bs und Guesthouses sind die typische Unterkunft. Sie sind oft charmant, frühstücksinklusive und persönlicher als Hotels. Auf der NC500 gibt es außerdem Glamping-Optionen und Campingplätze mit guten Einrichtungen. Buchung im Sommer: je früher, desto besser. Empfehlungen für Edinburgh als Basis findest du in unserem Artikel [Wo übernachten in Edinburgh](/blog/wo-uebernachten-edinburgh/).
 
 ### Wie viel kostet der Eintritt bei den wichtigsten Sehenswürdigkeiten?
 
@@ -79,6 +79,6 @@ Eilean Donan Castle: rund 14 Pfund. Urquhart Castle (Loch Ness): rund 12 Pfund. 
 ---
 
 **Mehr lesen:**
-- [Mietwagen-Check: Versicherungen und was du wissen musst](/blog/mietwagen-check)
-- [Geheimtipps Europa: Unterschätzte Reiseziele](/blog/geheimtipps-europa)
-- [Wo übernachten in Edinburgh: Beste Viertel und Hotels](/blog/wo-uebernachten-edinburgh)
+- [Mietwagen-Check: Versicherungen und was du wissen musst](/blog/mietwagen-check/)
+- [Geheimtipps Europa: Unterschätzte Reiseziele](/blog/geheimtipps-europa/)
+- [Wo übernachten in Edinburgh: Beste Viertel und Hotels](/blog/wo-uebernachten-edinburgh/)

@@ -18,7 +18,7 @@ Drei Bereiche machen 80 Prozent der Reisekosten aus: Flug, Unterkunft, Transport
 
 **Flug:** Der größte Hebel ist Flexibilität beim Datum. Flüge montags, dienstags und mittwochs sind durchschnittlich 15-20 Prozent günstiger als Freitag-Sonntag. Frühbuchen hilft bei Business-Destinationen (Paris, London, Amsterdam). Spätbuchen hilft bei Leisure-Destinationen wo Abfüllung das Ziel ist.
 
-Suchstrategie: Skyscanner auf "ganzer Monat" setzen und günstigsten Tag wählen. Dann auf Google Flights prüfen (zeigt Preiskurven der letzten Wochen). Mehr Tipps in unserem [Guide zum richtigen Zeitpunkt beim Flug buchen](/blog/wann-fluege-buchen).
+Suchstrategie: Skyscanner auf "ganzer Monat" setzen und günstigsten Tag wählen. Dann auf Google Flights prüfen (zeigt Preiskurven der letzten Wochen). Mehr Tipps in unserem [Guide zum richtigen Zeitpunkt beim Flug buchen](/blog/wann-fluege-buchen/).
 
 **Unterkunft:** Jede Nacht ist eine eigene Entscheidung. Hostels mit Privatraumoption sind oft 40-60 Prozent günstiger als Hotels gleicher Qualität. Appartements ab 4+ Nächten via Booking.com günstig (Kochküche spart Restaurantkosten). Airbnb für Gruppen ab 4 Personen mit 5+ Nächten oft schlagende Option.
 
@@ -40,7 +40,7 @@ Suchstrategie: Skyscanner auf "ganzer Monat" setzen und günstigsten Tag wählen
 
 Budget-Reisen hat eine Grenze wo Sparen sich umkehrt. Wo du nicht sparen solltest:
 
-**Reiseversicherung:** 30-80 Euro für eine Woche sind die günstigsten Versicherungsprämien die es gibt, verglichen mit möglichen Kosten. Stornoschutz, Krankenversicherung im Ausland, Gepäckverlust. Nie weglassen. Mehr dazu im [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich).
+**Reiseversicherung:** 30-80 Euro für eine Woche sind die günstigsten Versicherungsprämien die es gibt, verglichen mit möglichen Kosten. Stornoschutz, Krankenversicherung im Ausland, Gepäckverlust. Nie weglassen. Mehr dazu im [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 **Gesundheit und Hygiene:** Billiges Straßenessen von unhygienischen Anbietern. Die Kosten eines Magen-Darm-Infekts (verlorene Reisetage, Arztkosten) übertreffen jede Ersparnis.
 
@@ -83,6 +83,6 @@ Kreditkarte ohne Auslandseinsatzgebühr (z.B. DKB Visa, Revolut) mitnehmen. Barg
 ---
 
 **Mehr lesen:**
-- [Günstig fliegen: Wie du die besten Flugpreise findest](/blog/guenstig-fliegen-tipps)
-- [Mietwagen-Consolidator: Bis zu 40 Prozent günstiger](/blog/mietwagen-consolidator-guenstiger-fahren)
-- [Sabbatical planen: Wie du dir eine Auszeit nimmst ohne pleite zu gehen](/blog/sabbatical-planen-guide)
+- [Günstig fliegen: Wie du die besten Flugpreise findest](/blog/guenstig-fliegen-tipps/)
+- [Mietwagen-Consolidator: Bis zu 40 Prozent günstiger](/blog/mietwagen-consolidator-guenstiger-fahren/)
+- [Sabbatical planen: Wie du dir eine Auszeit nimmst ohne pleite zu gehen](/blog/sabbatical-planen-guide/)

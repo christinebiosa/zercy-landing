@@ -47,7 +47,7 @@ Savamala es lo que fue Prenzlauer Berg en sus mejores tiempos. Almacenes reconve
 
 **Los mejores:** Savamala Bed & Breakfast (con encanto, en el corazón del barrio), Mama Shelter Belgrade (boutique de diseño, bar animado, ambiente vibrante).
 
-Lee también nuestra guía sobre [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest) si planeas combinar los Balcanes con Europa Central.
+Lee también nuestra guía sobre [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/) si planeas combinar los Balcanes con Europa Central.
 
 ## Vračar: el Belgrado de verdad
 
@@ -119,5 +119,5 @@ Novi Beograd y el área de la Belgrade Waterfront son la opción natural para vi
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Budapest: los mejores barrios](/es/blog/donde-alojarse-budapest)
-- [Dónde alojarse en Sarajevo: los mejores barrios](/es/blog/donde-alojarse-sarajevo)
+- [Dónde alojarse en Budapest: los mejores barrios](/es/blog/donde-alojarse-budapest/)
+- [Dónde alojarse en Sarajevo: los mejores barrios](/es/blog/donde-alojarse-sarajevo/)

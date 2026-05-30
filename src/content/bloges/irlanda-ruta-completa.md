@@ -70,6 +70,6 @@ Irish Stew con cordero y patatas en pubs tradicionales. Un Full Irish Breakfast 
 ---
 
 **Más sobre viajes por Europa:**
-- [Escandinavia Ruta Completa](/es/blog/escandinavia-ruta-completa)
-- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Tren vs. Avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026)
+- [Escandinavia Ruta Completa](/es/blog/escandinavia-ruta-completa/)
+- [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Tren vs. Avión en Europa 2026](/es/blog/tren-vs-avion-europa-2026/)

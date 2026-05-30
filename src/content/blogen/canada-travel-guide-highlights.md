@@ -79,6 +79,6 @@ Quebec and the Maritimes (New Brunswick, Nova Scotia) are considered the most sp
 
 ## Read more
 
-- [Scandinavia Road Trip: Route and Highlights](/en/blog/scandinavia-road-trip-route)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
-- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials)
+- [Scandinavia Road Trip: Route and Highlights](/en/blog/scandinavia-road-trip-route/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+- [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials/)

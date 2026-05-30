@@ -37,7 +37,7 @@ If you want to feel old Chengdu, come here. Kuanzhai Alley (Wide and Narrow Alle
 
 Top picks: **Niccolo Chengdu** (luxury boutique near the old-town lanes), **LESS Hotel** (modern design in a historic setting), **Guóxué Lù Hostel** (budget option with genuine local character).
 
-If you plan to combine Chengdu with other parts of Asia, the guide on [Southeast Asia budget travel](/en/blog/southeast-asia-budget-travel) is a useful companion. Flights from Chengdu to Bangkok or Ho Chi Minh City are often very affordable.
+If you plan to combine Chengdu with other parts of Asia, the guide on [Southeast Asia budget travel](/en/blog/southeast-asia-budget-travel/) is a useful companion. Flights from Chengdu to Bangkok or Ho Chi Minh City are often very affordable.
 
 ## When Is the Best Time to Visit Chengdu?
 
@@ -49,7 +49,7 @@ Chengdu is not just culture. The city is a significant tech hub with offices fro
 
 Top picks: **Crowne Plaza Chengdu City Center South** (international standard, conference facilities), **Hyatt Regency Chengdu** (reliable Hyatt quality, well connected), **DoubleTree by Hilton Hotel Chengdu** (competent mid-range for business trips).
 
-Traveling to Chengdu and other Asian cities? Check our guide on [when to book flights](/en/blog/when-to-book-flights) for tips on multi-stop itineraries. Combinations with Tokyo or Seoul often have strong fare competition.
+Traveling to Chengdu and other Asian cities? Check our guide on [when to book flights](/en/blog/when-to-book-flights/) for tips on multi-stop itineraries. Combinations with Tokyo or Seoul often have strong fare competition.
 
 ## Chenghua: Budget-Friendly and Close to the Pandas
 
@@ -89,6 +89,6 @@ The Panda Research Base early in the morning is non-negotiable. Add Kuanzhai All
 
 ## Read more
 
-- [Japan 3-Week Route](/en/blog/japan-3-week-route)
-- [Southeast Asia Budget Travel](/en/blog/southeast-asia-budget-travel)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Japan 3-Week Route](/en/blog/japan-3-week-route/)
+- [Southeast Asia Budget Travel](/en/blog/southeast-asia-budget-travel/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

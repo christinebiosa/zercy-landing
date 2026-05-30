@@ -24,7 +24,7 @@ No todas las visas funcionan igual. El tipo que necesitas depende del país de d
 
 **Exención de visa:** Muchos países no requieren visa para ciertos pasaportes. Presentas tu documento, entras, listo. Puedes revisar los requisitos actualizados en el [Centro de Viajes de IATA](https://www.iata.org/en/services/consulting/iata-travel-centre/).
 
-¿Quieres saber en qué países puedes entrar sin solicitar visa con antelación? Lee nuestra guía sobre [países con visa a la llegada 2026](/es/blog/paises-visa-llegada-2026).
+¿Quieres saber en qué países puedes entrar sin solicitar visa con antelación? Lee nuestra guía sobre [países con visa a la llegada 2026](/es/blog/paises-visa-llegada-2026/).
 
 ## ¿Qué documentos necesitas?
 
@@ -34,7 +34,7 @@ La preparación lo es todo. Un documento que falta puede retrasar o hundir toda 
 
 **Foto de pasaporte:** Cada país tiene sus propias especificaciones. Fondo blanco, medidas exactas, foto reciente. Hacerla con un fotógrafo profesional vale el pequeño costo.
 
-**Seguro de viaje:** Muchos consulados exigen una póliza con cobertura mínima de 30.000 euros o su equivalente. ¿No estás seguro de qué debe incluir un buen seguro de viaje? Lo explicamos en [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena)
+**Seguro de viaje:** Muchos consulados exigen una póliza con cobertura mínima de 30.000 euros o su equivalente. ¿No estás seguro de qué debe incluir un buen seguro de viaje? Lo explicamos en [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)
 
 **Confirmación de alojamiento:** Una reserva confirmada, incluso reembolsable, muestra al consulado que tienes un plan. Algunos países son flexibles. Otros piden una reserva firme.
 
@@ -42,7 +42,7 @@ La preparación lo es todo. Un documento que falta puede retrasar o hundir toda 
 
 **Carta de invitación:** Necesaria en algunos países con políticas de entrada más estrictas. China a veces la solicita si no viajas con un tour organizado.
 
-**Viajes con menores:** Si solo uno de los padres viaja con un menor, necesitas una carta notarial de autorización del otro progenitor. Sin este documento, la entrada puede ser denegada. Consulta también nuestra guía completa para [organizar documentos de viaje](/es/blog/documentos-viaje-guia).
+**Viajes con menores:** Si solo uno de los padres viaja con un menor, necesitas una carta notarial de autorización del otro progenitor. Sin este documento, la entrada puede ser denegada. Consulta también nuestra guía completa para [organizar documentos de viaje](/es/blog/documentos-viaje-guia/).
 
 ## ¿Embajada, centro de visa o agencia?
 
@@ -99,6 +99,6 @@ Guarda todos tus planes de viaje en el [Zercy Logbook](https://www.zercy.app/log
 ---
 
 **Seguir leyendo:**
-- [Países con visa a la llegada 2026](/es/blog/paises-visa-llegada-2026)
-- [Cómo organizar tus documentos de viaje](/es/blog/documentos-viaje-guia)
-- [Guía de parques nacionales de EE. UU.](/es/blog/parques-nacionales-usa-guia)
+- [Países con visa a la llegada 2026](/es/blog/paises-visa-llegada-2026/)
+- [Cómo organizar tus documentos de viaje](/es/blog/documentos-viaje-guia/)
+- [Guía de parques nacionales de EE. UU.](/es/blog/parques-nacionales-usa-guia/)

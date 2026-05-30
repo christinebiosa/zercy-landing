@@ -58,6 +58,6 @@ Für einen ersten Mexiko-Besuch kombinieren viele die Karibikküste (Cancún, Tu
 ---
 
 **Mehr lesen:**
-- [Mexiko Rundreise: Die beste Route](/blog/mexiko-rundreise-route)
-- [Wo übernachten in Cancún](/blog/wo-uebernachten-cancun)
-- [Wo übernachten in Tulum](/blog/wo-uebernachten-tulum)
+- [Mexiko Rundreise: Die beste Route](/blog/mexiko-rundreise-route/)
+- [Wo übernachten in Cancún](/blog/wo-uebernachten-cancun/)
+- [Wo übernachten in Tulum](/blog/wo-uebernachten-tulum/)

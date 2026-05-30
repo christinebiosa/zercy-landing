@@ -46,7 +46,7 @@ Para planear mejor tu visita, la [web oficial de turismo de Londres Visit London
 
 South Kensington es el barrio de los museos gratuitos más impresionantes de Europa. El Natural History Museum, el Victoria and Albert Museum y el Science Museum están literalmente en la misma calle. Chelsea es residencial, caro y tranquilo.
 
-Perfecto para familias con niños, para viajeros que quieren lujo sin estar en medio del caos turístico, y para quienes planean pasar tiempo en museos. Si te hospedas en [South Kensington o Bloomsbury](/es/blog/donde-alojarse-berlin) y comparas con otras capitales europeas, los museos gratuitos de Londres compensan mucho el coste del alojamiento.
+Perfecto para familias con niños, para viajeros que quieren lujo sin estar en medio del caos turístico, y para quienes planean pasar tiempo en museos. Si te hospedas en [South Kensington o Bloomsbury](/es/blog/donde-alojarse-berlin/) y comparas con otras capitales europeas, los museos gratuitos de Londres compensan mucho el coste del alojamiento.
 
 Los hoteles rondan entre 180 y 500 GBP por noche.
 
@@ -59,7 +59,7 @@ Los hoteles rondan entre 180 y 500 GBP por noche.
 
 Shoreditch es donde viven los diseñadores, los chefs con estrella Michelin que abren bares sin pretensiones, y los artistas que llenan las paredes de la calle con murales enormes. Brick Lane, el mercado de Old Spitalfields, los pop-ups de comida y la escena nocturna más interesante de la ciudad.
 
-No es el Londres de las postales. Es el Londres de hoy. Para viajeros que prefieren algo más auténtico y menos turístico, Shoreditch compite bien con barrios similares en otras ciudades como [Prenzlauer Berg en Berlín](/es/blog/donde-alojarse-berlin) o [Le Marais en París](/es/blog/donde-alojarse-paris).
+No es el Londres de las postales. Es el Londres de hoy. Para viajeros que prefieren algo más auténtico y menos turístico, Shoreditch compite bien con barrios similares en otras ciudades como [Prenzlauer Berg en Berlín](/es/blog/donde-alojarse-berlin/) o [Le Marais en París](/es/blog/donde-alojarse-paris/).
 
 Los hoteles son más económicos aquí. Buenos hoteles de diseño desde 130 GBP.
 
@@ -72,7 +72,7 @@ Los hoteles son más económicos aquí. Buenos hoteles de diseño desde 130 GBP.
 
 Notting Hill es ese barrio de fachadas de colores, mercado de Portobello Road los sábados y casas victorianas que parecen salidas de una película. Porque literalmente son de una película. Más tranquilo que Soho, más residencial, con una vibra diferente.
 
-Ideal para parejas, para quienes vuelven a Londres por segunda o tercera vez, y para quienes buscan esa sensación de barrio que los hoteles de aeropuerto nunca dan. Para viajeros que también consideran Amsterdam, [dónde alojarse en Amsterdam](/es/blog/donde-alojarse-amsterdam) tiene una guía similar por barrios.
+Ideal para parejas, para quienes vuelven a Londres por segunda o tercera vez, y para quienes buscan esa sensación de barrio que los hoteles de aeropuerto nunca dan. Para viajeros que también consideran Amsterdam, [dónde alojarse en Amsterdam](/es/blog/donde-alojarse-amsterdam/) tiene una guía similar por barrios.
 
 Hoteles de boutique en Notting Hill: entre 160 y 350 GBP por noche.
 
@@ -125,6 +125,6 @@ Londres introdujo una Visitor Levy de 1,50 GBP por persona y noche a partir de 2
 ---
 
 **Más para leer:**
-- [Dónde alojarse en París: Le Marais, Saint-Germain o Montmartre](/es/blog/donde-alojarse-paris)
-- [Dónde alojarse en Amsterdam: Jordaan, De Pijp o el Centro](/es/blog/donde-alojarse-amsterdam)
-- [Dónde alojarse en Berlín: Mitte, Prenzlauer Berg o Kreuzberg](/es/blog/donde-alojarse-berlin)
+- [Dónde alojarse en París: Le Marais, Saint-Germain o Montmartre](/es/blog/donde-alojarse-paris/)
+- [Dónde alojarse en Amsterdam: Jordaan, De Pijp o el Centro](/es/blog/donde-alojarse-amsterdam/)
+- [Dónde alojarse en Berlín: Mitte, Prenzlauer Berg o Kreuzberg](/es/blog/donde-alojarse-berlin/)

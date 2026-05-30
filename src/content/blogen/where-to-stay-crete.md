@@ -73,7 +73,7 @@ East of Heraklion, the Mirabello Bay opens up. Agios Nikolaos is an elegant smal
 
 Crete hotels vary enormously between city center boutiques and coastal resorts. [Booking.com](https://www.booking.com) has the best coverage of both types. Filters by region, beach proximity and pool availability save a lot of research time.
 
-Also read: [Best beaches in Europe](/en/blog/best-beaches-europe-2026) and [Where to stay in Athens](/en/blog/where-to-stay-athens) for your Greece trip.
+Also read: [Best beaches in Europe](/en/blog/best-beaches-europe-2026/) and [Where to stay in Athens](/en/blog/where-to-stay-athens/) for your Greece trip.
 
 ---
 
@@ -101,6 +101,6 @@ A car is highly recommended for Crete. Small cars from €25-35 per day in sprin
 
 ## Read more
 
-- [Where to stay in Athens: Neighborhoods and hotels](/en/blog/where-to-stay-athens)
-- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026)
-- [Best spring destinations in Europe](/en/blog/best-spring-destinations-europe)
+- [Where to stay in Athens: Neighborhoods and hotels](/en/blog/where-to-stay-athens/)
+- [Best beaches in Europe 2026](/en/blog/best-beaches-europe-2026/)
+- [Best spring destinations in Europe](/en/blog/best-spring-destinations-europe/)

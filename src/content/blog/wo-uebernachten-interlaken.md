@@ -71,7 +71,7 @@ Wer wirklich im Berner Oberland sein will, übernachtet in den Bergdörfern. Gri
 
 Interlaken und Umgebung ist mit [Booking.com](https://www.booking.com) gut abgedeckt. Die Bergdörfer (Grindelwald, Lauterbrunnen, Wengen) haben viele kleine Pensionen, die nur dort gelistet sind. Früh buchen: Jungfraujoch-Reisende buchen Monate im Voraus, Hotels folgen demselben Muster.
 
-Lies auch: [Schweiz Reise Highlights Guide](/blog/schweiz-reise-highlights-guide) und [Wo übernachten in Luzern](/blog/wo-uebernachten-luzern).
+Lies auch: [Schweiz Reise Highlights Guide](/blog/schweiz-reise-highlights-guide/) und [Wo übernachten in Luzern](/blog/wo-uebernachten-luzern/).
 
 ---
 
@@ -99,6 +99,6 @@ Tandemflug mit Pilot: ca. 170-220 Schweizer Franken (ca. 185-240 Euro). Flugdaue
 
 ## Mehr lesen
 
-- [Schweiz Reise Highlights: Der ultimative Guide](/blog/schweiz-reise-highlights-guide)
-- [Wo übernachten in Luzern: Stadtteile und Hotels](/blog/wo-uebernachten-luzern)
-- [Alpenhopping: Die schönsten Bergdörfer Europas](/blog/beste-fruehlingsziele-europa)
+- [Schweiz Reise Highlights: Der ultimative Guide](/blog/schweiz-reise-highlights-guide/)
+- [Wo übernachten in Luzern: Stadtteile und Hotels](/blog/wo-uebernachten-luzern/)
+- [Alpenhopping: Die schönsten Bergdörfer Europas](/blog/beste-fruehlingsziele-europa/)

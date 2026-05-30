@@ -97,11 +97,11 @@ Los vuelos internos son baratos y rápidos para las distancias largas (Hanói a 
 
 ### ¿Dónde alojarse en Hoi An para estar bien ubicado?
 
-Lo ideal es alojarse dentro o muy cerca del casco histórico. Los hoteles en la calle Nguyen Thai Hoc y alrededor de la zona de los carpinteros tienen la mejor ubicación. Hay opciones para todos los presupuestos desde 20 hasta 200 dólares por noche. Para más detalle consulta nuestra guía de [dónde alojarse en Vietnam](/es/blog/donde-alojarse-hoi-an).
+Lo ideal es alojarse dentro o muy cerca del casco histórico. Los hoteles en la calle Nguyen Thai Hoc y alrededor de la zona de los carpinteros tienen la mejor ubicación. Hay opciones para todos los presupuestos desde 20 hasta 200 dólares por noche. Para más detalle consulta nuestra guía de [dónde alojarse en Vietnam](/es/blog/donde-alojarse-hoi-an/).
 
 ---
 
 **Leer más:**
-- [Tailandia en 2 semanas: la ruta perfecta](/es/blog/tailandia-2-semanas-ruta)
-- [Guía de viaje a Nueva Zelanda 2026](/es/blog/guia-viaje-nueva-zelanda)
-- [Road trip por Marruecos: Marrakech al desierto](/es/blog/road-trip-marruecos)
+- [Tailandia en 2 semanas: la ruta perfecta](/es/blog/tailandia-2-semanas-ruta/)
+- [Guía de viaje a Nueva Zelanda 2026](/es/blog/guia-viaje-nueva-zelanda/)
+- [Road trip por Marruecos: Marrakech al desierto](/es/blog/road-trip-marruecos/)

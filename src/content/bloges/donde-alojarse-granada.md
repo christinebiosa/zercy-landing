@@ -62,7 +62,7 @@ Es la zona más cómoda pero también la más masificada en temporada alta. Los 
 
 **Referencia**: Hospes Palacio de los Patos (boutique de lujo en un palacio del siglo XIX, aprox. 220 €).
 
-Para comparar con otra ciudad andaluza, consulta [dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla) y [dónde alojarse en Málaga](/es/blog/donde-alojarse-malaga).
+Para comparar con otra ciudad andaluza, consulta [dónde alojarse en Sevilla](/es/blog/donde-alojarse-sevilla/) y [dónde alojarse en Málaga](/es/blog/donde-alojarse-malaga/).
 
 ## Realejo: El barrio judío y la escena artística
 
@@ -109,6 +109,6 @@ Desde Málaga: autobús directo (ALSA) en unas 2 horas, frecuencia alta. Desde S
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Sevilla: Andalucía en su versión más intensa](/es/blog/donde-alojarse-sevilla)
-- [Dónde alojarse en Málaga: Centro histórico o Málagueta](/es/blog/donde-alojarse-malaga)
-- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid)
+- [Dónde alojarse en Sevilla: Andalucía en su versión más intensa](/es/blog/donde-alojarse-sevilla/)
+- [Dónde alojarse en Málaga: Centro histórico o Málagueta](/es/blog/donde-alojarse-malaga/)
+- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid/)

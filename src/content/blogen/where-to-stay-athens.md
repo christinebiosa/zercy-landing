@@ -77,7 +77,7 @@ At Lykavittos hill, Athens' Beverly Hills with designer shops on Voukourestiou S
 
 **Top picks:** Hotel Grande Bretagne (legendary 5-star since 1874, with Acropolis pool view), Hotel St. George Lycabettus (classic premium), Hilton Athens (modern 5-star with pool).
 
-See our [cruise port city extension guide](/en/blog/cruise-extend-port-cities), Athens is a top cruise hub.
+See our [cruise port city extension guide](/en/blog/cruise-extend-port-cities/), Athens is a top cruise hub.
 
 ## Kifissia: Family Athens
 
@@ -128,6 +128,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel in Monastiraki, gyros tav
 ---
 
 **Read more:**
-- [Where to stay in Rome: 5 neighborhoods](/en/blog/where-to-stay-rome)
-- [Where to stay in Lisbon: 5 neighborhoods](/en/blog/where-to-stay-lisbon)
-- [Cruise port city extensions: how it works](/en/blog/cruise-extend-port-cities)
+- [Where to stay in Rome: 5 neighborhoods](/en/blog/where-to-stay-rome/)
+- [Where to stay in Lisbon: 5 neighborhoods](/en/blog/where-to-stay-lisbon/)
+- [Cruise port city extensions: how it works](/en/blog/cruise-extend-port-cities/)

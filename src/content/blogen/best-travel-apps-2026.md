@@ -18,9 +18,9 @@ Three essential transport tools.
 
 **Google Flights.** The honest market leader. Fastest search, best date flexibility ("whole month" view), no hidden fees. No direct booking mechanism, but redirects to airline websites.
 
-**Skyscanner.** Backup search. Sometimes finds connections Google Flights misses (especially with low-cost carriers like Wizz Air or Spirit). See our [AI tools for travel comparison](/en/blog/ai-tools-travel-comparison).
+**Skyscanner.** Backup search. Sometimes finds connections Google Flights misses (especially with low-cost carriers like Wizz Air or Spirit). See our [AI tools for travel comparison](/en/blog/ai-tools-travel-comparison/).
 
-**Trainline.** Best train app for Europe. Aggregates train tickets from 47 European rail operators. Saves time vs DB Navigator if you cross borders. See our [train travel in Europe guide](/en/blog/train-travel-europe).
+**Trainline.** Best train app for Europe. Aggregates train tickets from 47 European rail operators. Saves time vs DB Navigator if you cross borders. See our [train travel in Europe guide](/en/blog/train-travel-europe/).
 
 ## Which apps actually help on the ground?
 
@@ -42,7 +42,7 @@ Three apps revolutionizing trip planning.
 
 **Perplexity.** Search engine plus AI. Gives answers with verified sources. Perfect for visa rules, weather forecasts, local events. Free in basic version, $20 per month for Pro.
 
-**Zercy.** Travel-specialized with live prices. Unlike ChatGPT you get real flight and hotel prices plus booking links. Ideal for the phase between "idea" and "booking". See [what is Zercy?](/en/blog/what-is-zercy) for details.
+**Zercy.** Travel-specialized with live prices. Unlike ChatGPT you get real flight and hotel prices plus booking links. Ideal for the phase between "idea" and "booking". See [what is Zercy?](/en/blog/what-is-zercy/) for details.
 
 ## Which apps can actually save you money?
 
@@ -50,7 +50,7 @@ Three money-savers that pay off.
 
 **Hopper.** Predicts whether flight and hotel prices will rise or fall. AI-based, about 70 percent hit rate. Ideal for catching the right booking moment.
 
-**Booking.com.** Despite mainstream image the best app for hotels plus apartments. Over 28 million accommodations, many of which are also on Airbnb but with better service through Booking. See our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison).
+**Booking.com.** Despite mainstream image the best app for hotels plus apartments. Over 28 million accommodations, many of which are also on Airbnb but with better service through Booking. See our [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison/).
 
 **Mystery hotels via HotelTonight.** Last-minute hotels at 30-50 percent off. Works especially well in major cities from 6pm local time. Risk: less choice, short notice booking.
 
@@ -81,6 +81,6 @@ Buy eSIM via Airalo or Holafly before the trip. 30 days of data usually cost $11
 ---
 
 **Read more:**
-- [What is Zercy? The AI travel planner explained](/en/blog/what-is-zercy)
-- [AI tools for travel: the honest comparison](/en/blog/ai-tools-travel-comparison)
-- [Train travel in Europe: routes, tips and apps](/en/blog/train-travel-europe)
+- [What is Zercy? The AI travel planner explained](/en/blog/what-is-zercy/)
+- [AI tools for travel: the honest comparison](/en/blog/ai-tools-travel-comparison/)
+- [Train travel in Europe: routes, tips and apps](/en/blog/train-travel-europe/)

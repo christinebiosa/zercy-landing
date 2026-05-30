@@ -45,7 +45,7 @@ Daun Penh is the administrative and historic heart of the city. The Royal Palace
 
 **Top picks:** Sofitel Phnom Penh Phokeethra (5-star city resort, spa, multiple pools, steps from the Palace), Palace Gate Hotel & Resort (colonial manor house, boutique atmosphere, small pool).
 
-Check out our [Siem Reap neighborhood guide](/en/blog/where-to-stay-siem-reap) as well — most Cambodia trips combine both cities.
+Check out our [Siem Reap neighborhood guide](/en/blog/where-to-stay-siem-reap/) as well — most Cambodia trips combine both cities.
 
 ## BKK1 / Tonle Bassac: The Best Area for Comfort
 
@@ -75,7 +75,7 @@ The neighborhood around Psar Tuol Tom Pong (nicknamed Russian Market because of 
 
 **Top picks:** Pavilion Hotel (a hidden boutique gem, two restored colonial villas, pool, garden, genuinely unique atmosphere), Hotel Cambodia (modern midrange, solid value).
 
-Many Cambodia trips end with a bus or flight to Vietnam. Our [Ho Chi Minh City neighborhood guide](/en/blog/where-to-stay-ho-chi-minh-city) covers what comes next.
+Many Cambodia trips end with a bus or flight to Vietnam. Our [Ho Chi Minh City neighborhood guide](/en/blog/where-to-stay-ho-chi-minh-city/) covers what comes next.
 
 ## Where Should You Book in the End?
 
@@ -114,6 +114,6 @@ The Tuol Sleng Genocide Museum and the Killing Fields at Choeung Ek are among th
 ---
 
 **Read more:**
-- [Where to Stay in Siem Reap: Best Neighborhoods](/en/blog/where-to-stay-siem-reap)
-- [Where to Stay in Ho Chi Minh City: The 5 Neighborhoods](/en/blog/where-to-stay-ho-chi-minh-city)
-- [Cambodia Travel Guide: Highlights and Tips](/en/blog/cambodia-travel-guide-highlights)
+- [Where to Stay in Siem Reap: Best Neighborhoods](/en/blog/where-to-stay-siem-reap/)
+- [Where to Stay in Ho Chi Minh City: The 5 Neighborhoods](/en/blog/where-to-stay-ho-chi-minh-city/)
+- [Cambodia Travel Guide: Highlights and Tips](/en/blog/cambodia-travel-guide-highlights/)

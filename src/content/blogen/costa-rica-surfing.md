@@ -59,7 +59,7 @@ Domestic flights are quick and affordable. Flying from San José to Quepos (gate
 - **Budget**: Costa Rica is mid-range for Central America — not Mexico prices, not Caribbean prices. Good accommodation runs €60–150 per night. Food is cheap if you eat local sodas (small family restaurants).
 - **Health**: No malaria prophylaxis needed in most areas. Drink bottled water. Sun protection is critical — the UV index is intense year-round.
 
-More on finding the right flight: [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips) and [When to Book Flights](/en/blog/when-to-book-flights).
+More on finding the right flight: [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips/) and [When to Book Flights](/en/blog/when-to-book-flights/).
 
 ---
 
@@ -85,4 +85,4 @@ Jaco or Samara. Both have gentle beach breaks, plenty of surf schools, and calm 
 
 EU citizens (including Germans, Austrians, and Swiss nationals) can enter Costa Rica without a visa for up to 90 days. You need a valid passport (at least 6 months validity), proof of onward travel, and sufficient funds. No tourist card or arrival fee.
 
-**Read more:** [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips) · [When to Book Flights](/en/blog/when-to-book-flights) · [10 Things to Check Before You Drive Off in a Rental Car](/en/blog/rental-car-checklist)
+**Read more:** [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips/) · [When to Book Flights](/en/blog/when-to-book-flights/) · [10 Things to Check Before You Drive Off in a Rental Car](/en/blog/rental-car-checklist/)

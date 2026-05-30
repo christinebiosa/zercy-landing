@@ -32,7 +32,7 @@ Your travel style. Slow travel with cafés and walks tolerates only 2-3 hours of
 
 Who's coming along. With kids or older parents: maximum 3 hours at a stretch, then long break. With two alternating drivers: 8 hours possible, but unpleasant.
 
-See our [rental car checklist](/en/blog/rental-car-checklist) if you haven't booked a car yet.
+See our [rental car checklist](/en/blog/rental-car-checklist/) if you haven't booked a car yet.
 
 ## How do you plan the perfect stage?
 
@@ -48,7 +48,7 @@ A proven 5-step method.
 
 **Step 5:** Mark the longest days. Schedule them on weekdays, not weekends. Stress plus traffic is the worst combination.
 
-If you're planning a Costa Rica route, see our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route). We've already pre-modeled the stages there.
+If you're planning a Costa Rica route, see our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route/). We've already pre-modeled the stages there.
 
 ## What happens if you drive too long?
 
@@ -60,7 +60,7 @@ Travel resentment. Sounds psychological, but: drivers who cover too much ground 
 
 Missed spontaneity. The best road trip memories happen unplanned. A viewpoint, a café, a fisherman who invites you for coffee. If you're locked into the plan, you see none of it.
 
-For a multi-week road trip, also see [rental consolidators](/en/blog/rental-consolidators-save-money) for cutting costs.
+For a multi-week road trip, also see [rental consolidators](/en/blog/rental-consolidators-save-money/) for cutting costs.
 
 ---
 
@@ -87,6 +87,6 @@ Plan one free day per week. You'll need it for recovery, an extended stay somewh
 ---
 
 **Read more:**
-- [Rental car checklist: what to know before booking](/en/blog/rental-car-checklist)
-- [Rental consolidators: save up to 40 percent](/en/blog/rental-consolidators-save-money)
-- [Costa Rica road trip: the perfect 2-week route](/en/blog/costa-rica-road-trip-route)
+- [Rental car checklist: what to know before booking](/en/blog/rental-car-checklist/)
+- [Rental consolidators: save up to 40 percent](/en/blog/rental-consolidators-save-money/)
+- [Costa Rica road trip: the perfect 2-week route](/en/blog/costa-rica-road-trip-route/)

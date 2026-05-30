@@ -40,11 +40,11 @@ Duración total: entre 45 minutos y 2 horas según lo que reserves.
 
 El **Veli Bej Hamam** (también Veli Bej Fürdő) es un baño otomano del siglo XVI conservado casi en su forma original. Ubicado en el 2.° distrito, visitado por húngaros y viajeros con buen ojo, ignorado por la mayoría de los turistas. El agua viene de fuentes termales, las cúpulas tienen vitrales de botella. Luz y calor combinados en algo difícil de describir.
 
-Si ya leíste la guía de [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest) y buscaste sobre baños termales: el Széchenyi es más grande y famoso. El Veli Bej es la opción correcta para la experiencia auténtica de hamam.
+Si ya leíste la guía de [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/) y buscaste sobre baños termales: el Széchenyi es más grande y famoso. El Veli Bej es la opción correcta para la experiencia auténtica de hamam.
 
 ### Marrakech
 
-**La cultura del hammam en Marrakech** difiere levemente de la tradición turca. Los riads suelen tener sus propios hammams privados. En el ámbito público: el Hammam Bab Doukkala cuesta pocos euros y es completamente local. Para mayor comodidad: Hammam de la Rose u opciones similares de tipo spa. La guía de [riads en Marruecos](/es/blog/riads-marruecos-guia) da más contexto sobre las estancias con hammam en riad.
+**La cultura del hammam en Marrakech** difiere levemente de la tradición turca. Los riads suelen tener sus propios hammams privados. En el ámbito público: el Hammam Bab Doukkala cuesta pocos euros y es completamente local. Para mayor comodidad: Hammam de la Rose u opciones similares de tipo spa. La guía de [riads en Marruecos](/es/blog/riads-marruecos-guia/) da más contexto sobre las estancias con hammam en riad.
 
 ## ¿Cuánto cuesta visitar un hamam?
 
@@ -72,7 +72,7 @@ Los hoteles con hamam o spa integrado se encuentran fácilmente en [Booking.com]
 
 **Hambre:** Ni muy lleno ni muy vacío. Dos horas después de una comida grande es lo ideal. Bebe bastante agua después.
 
-Para tu visita a Estambul, la guía de [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul) vale la pena. Una ubicación central ahorra tiempo si quieres visitar más de un hamam.
+Para tu visita a Estambul, la guía de [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul/) vale la pena. Una ubicación central ahorra tiempo si quieres visitar más de un hamam.
 
 ---
 
@@ -101,6 +101,6 @@ El Cemberlitas Hamam, cerca del Gran Bazar, es el más famoso y tiene el entorno
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Estambul: guía por barrios](/es/blog/donde-alojarse-estambul)
-- [Templos de Asia: los mejores lugares espirituales](/es/blog/templos-asia-guia)
-- [Alojamientos insólitos: lo que realmente vale la pena](/es/blog/alojamientos-insolitos-guia)
+- [Dónde alojarse en Estambul: guía por barrios](/es/blog/donde-alojarse-estambul/)
+- [Templos de Asia: los mejores lugares espirituales](/es/blog/templos-asia-guia/)
+- [Alojamientos insólitos: lo que realmente vale la pena](/es/blog/alojamientos-insolitos-guia/)

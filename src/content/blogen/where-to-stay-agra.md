@@ -55,7 +55,7 @@ Civil Lines is Agra's upscale residential area. Locals live here. Tourists mostl
 
 **Prices:** Guesthouses 35-80 USD, boutique options 90-170 USD.
 
-If you're doing the Golden Triangle, also check our [guide to where to stay in Delhi](/en/blog/where-to-stay-delhi) for neighborhood recommendations there.
+If you're doing the Golden Triangle, also check our [guide to where to stay in Delhi](/en/blog/where-to-stay-delhi/) for neighborhood recommendations there.
 
 ## Sadar Bazaar: Budget and Local Atmosphere
 
@@ -115,6 +115,6 @@ Booking.com shows the widest selection with a map filter for Taj proximity. Simp
 ---
 
 **Read more:**
-- [Where to Stay in Delhi: The Best Neighborhoods](/en/blog/where-to-stay-delhi)
-- [Where to Stay in Jaipur: The Best Areas](/en/blog/where-to-stay-jaipur)
-- [India Travel Guide: Highlights and Tips](/en/blog/india-travel-guide-highlights)
+- [Where to Stay in Delhi: The Best Neighborhoods](/en/blog/where-to-stay-delhi/)
+- [Where to Stay in Jaipur: The Best Areas](/en/blog/where-to-stay-jaipur/)
+- [India Travel Guide: Highlights and Tips](/en/blog/india-travel-guide-highlights/)

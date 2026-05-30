@@ -36,7 +36,7 @@ Eine bewährte Aufteilung für moderate Klimazonen (Europa-Frühling/Herbst, Tro
 
 Plus extra: 2 Paar Schuhe (1x bequem zum Laufen, 1x etwas eleganter), 1 Set Unterwäsche pro 4 Reisetage (du wäschst zwischendurch).
 
-Schau dir auch unseren detaillierten [Handgepäck-Guide](/blog/nur-handgepaeck) an, der die ganze Pack-Liste umfasst.
+Schau dir auch unseren detaillierten [Handgepäck-Guide](/blog/nur-handgepaeck/) an, der die ganze Pack-Liste umfasst.
 
 ## Wie kombinierst du sie auf 14 Outfits?
 
@@ -73,7 +73,7 @@ Was nicht in eine Capsule Wardrobe gehört: Leinen (knittert wahnsinnig), reine 
 
 [Stiftung Warentest hat 2023 Reisekleidung verglichen](https://www.test.de/) — Merino-Pullis von Icebreaker und Engel schnitten am besten ab, sowohl in Geruchsneutralität als auch in Haltbarkeit.
 
-Falls du nur mit Handgepäck reisen willst aber nicht die Zeit für eine perfekte Capsule hast, hilft auch unser [Open-Jaw Tickets-Guide](/blog/open-jaw-tickets-reise-hack), um den Reisestress zu reduzieren.
+Falls du nur mit Handgepäck reisen willst aber nicht die Zeit für eine perfekte Capsule hast, hilft auch unser [Open-Jaw Tickets-Guide](/blog/open-jaw-tickets-reise-hack/), um den Reisestress zu reduzieren.
 
 ---
 
@@ -100,6 +100,6 @@ Für Merino: Icebreaker, Smartwool, Woolly. Für Reise-Hosen: Outlier, Bluffwork
 ---
 
 **Mehr lesen:**
-- [Nur mit Handgepäck reisen: Der vollständige Guide](/blog/nur-handgepaeck)
-- [Airport Hacks: Die 7 besten Tipps für stressfreies Fliegen](/blog/airport-hacks)
-- [Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack)
+- [Nur mit Handgepäck reisen: Der vollständige Guide](/blog/nur-handgepaeck/)
+- [Airport Hacks: Die 7 besten Tipps für stressfreies Fliegen](/blog/airport-hacks/)
+- [Open-Jaw Tickets: Der Reise-Hack, den kaum jemand kennt](/blog/open-jaw-tickets-reise-hack/)

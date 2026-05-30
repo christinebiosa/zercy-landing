@@ -18,7 +18,7 @@ Das kommt stark auf den Tarif an, den du gebucht hast. Drei Situationen, in dene
 
 **24-Stunden-Stornofrist (USA):** Hast du bei einer US-amerikanischen Airline gebucht oder dein Flug startet oder endet in den USA? Dann greift die Regel des US Department of Transportation. Buchungen können innerhalb von 24 Stunden nach Kaufabschluss kostenlos storniert werden, solange der Abflug noch mindestens 7 Tage entfernt ist. Das gilt bei Direktbuchung bei der Airline.
 
-**Airline-initiierte Änderungen:** Hat die Airline deinen Flug erheblich geändert (anderer Abflugort, mehr als 3 Stunden Zeitverschiebung, anderes Ziel), hast du fast immer das Recht auf kostenlose Umbuchung oder volle Erstattung. Bei Annullierungen greift zusätzlich die [EU-Fluggastrechteverordnung (EU261/2004)](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_de.htm), die dir Entschädigungen von bis zu 600 Euro sichert. Mehr dazu in unserem Artikel zu [Flugannullierung und EU261-Rechten](/blog/flug-annullierung-rechte-eu261).
+**Airline-initiierte Änderungen:** Hat die Airline deinen Flug erheblich geändert (anderer Abflugort, mehr als 3 Stunden Zeitverschiebung, anderes Ziel), hast du fast immer das Recht auf kostenlose Umbuchung oder volle Erstattung. Bei Annullierungen greift zusätzlich die [EU-Fluggastrechteverordnung (EU261/2004)](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_de.htm), die dir Entschädigungen von bis zu 600 Euro sichert. Mehr dazu in unserem Artikel zu [Flugannullierung und EU261-Rechten](/blog/flug-annullierung-rechte-eu261/).
 
 ## Was kostet das Umbuchen sonst?
 
@@ -30,7 +30,7 @@ Bei Standard-Economy-Tarifen wird es teuer. Die typischen Kosten:
 
 **Kurz-Tipp:** Manchmal ist es günstiger, den alten Flug zu stornieren (du verlierst den Ticketpreis, bekommst aber zumindest Steuern und Gebühren zurück) und neu zu buchen, wenn der neue Flug deutlich billiger ist. Rechne das durch, bevor du umbuchst.
 
-Direktbuchung bei der Airline hat hier einen klaren Vorteil: Du bist direkt Kunde der Airline und kannst Änderungen ohne Umweg beantragen. Bei OTAs wie Booking oder Expedia läuft alles über den Vermittler, der die Änderung dann bei der Airline beantragen muss. Das dauert länger und kann zu Mehrkosten führen. Mehr zum Thema findest du in unserem Artikel [Direktbuchung vs. OTA](/blog/booking-vs-direkt-buchen).
+Direktbuchung bei der Airline hat hier einen klaren Vorteil: Du bist direkt Kunde der Airline und kannst Änderungen ohne Umweg beantragen. Bei OTAs wie Booking oder Expedia läuft alles über den Vermittler, der die Änderung dann bei der Airline beantragen muss. Das dauert länger und kann zu Mehrkosten führen. Mehr zum Thema findest du in unserem Artikel [Direktbuchung vs. OTA](/blog/booking-vs-direkt-buchen/).
 
 ## Wie läuft das Umbuchen konkret ab?
 
@@ -51,9 +51,9 @@ Stornieren bedeutet, dass du den Flug komplett aufgibst. Eine Erstattung bekomms
 
 **Flex-Tarif:** Volle Rückzahlung, oft ohne Frist.
 
-**Airline-Annullierung:** Die Airline storniert deinen Flug. Dann hast du nach EU261 das Recht auf vollständige Erstattung des Ticketpreises, unabhängig vom Tarif. Mehr dazu in unserem [EU261-Entschädigungsguide](/blog/flugverspaetung-entschaedigung-eu261).
+**Airline-Annullierung:** Die Airline storniert deinen Flug. Dann hast du nach EU261 das Recht auf vollständige Erstattung des Ticketpreises, unabhängig vom Tarif. Mehr dazu in unserem [EU261-Entschädigungsguide](/blog/flugverspaetung-entschaedigung-eu261/).
 
-**Reiseabbruch-Versicherung:** Wenn du eine Reiserücktrittsversicherung hast und ein versicherter Grund vorliegt (Krankheit, Todesfall in der Familie), übernimmt die Versicherung den Schaden. Ohne Versicherung verlierst du bei einem nicht-erstattungsfähigen Ticket den kompletten Ticketpreis. Ob sich eine Versicherung lohnt, haben wir im [Reiserücktrittsversicherungs-Guide](/blog/reiseruecktrittsversicherung-guide) ausführlich aufgeschlüsselt.
+**Reiseabbruch-Versicherung:** Wenn du eine Reiserücktrittsversicherung hast und ein versicherter Grund vorliegt (Krankheit, Todesfall in der Familie), übernimmt die Versicherung den Schaden. Ohne Versicherung verlierst du bei einem nicht-erstattungsfähigen Ticket den kompletten Ticketpreis. Ob sich eine Versicherung lohnt, haben wir im [Reiserücktrittsversicherungs-Guide](/blog/reiseruecktrittsversicherung-guide/) ausführlich aufgeschlüsselt.
 
 Steuern und Flughafengebühren bekommst du übrigens fast immer zurück, auch bei nicht-erstattungsfähigen Tickets. Das sind oft 20 bis 80 Euro. Es lohnt sich, das explizit zu beantragen.
 
@@ -85,6 +85,6 @@ Bei Annullierungen durch die Airline hast du nach EU261 Anspruch auf vollständi
 
 ## Mehr lesen
 
-- [Deine Rechte bei Flugannullierungen (EU261)](/blog/flug-annullierung-rechte-eu261)
-- [Reiserücktrittsversicherung: Wann sie sich lohnt](/blog/reiseruecktrittsversicherung-guide)
-- [Direktbuchung vs. OTA: Was ist besser?](/blog/booking-vs-direkt-buchen)
+- [Deine Rechte bei Flugannullierungen (EU261)](/blog/flug-annullierung-rechte-eu261/)
+- [Reiserücktrittsversicherung: Wann sie sich lohnt](/blog/reiseruecktrittsversicherung-guide/)
+- [Direktbuchung vs. OTA: Was ist besser?](/blog/booking-vs-direkt-buchen/)

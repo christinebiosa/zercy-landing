@@ -74,6 +74,6 @@ Around 40 to 60 percent of Guatemala's population is Maya, divided into 22 diffe
 ---
 
 **Read more:**
-- [Costa Rica Road Trip Route](/en/blog/costa-rica-road-trip-route)
-- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials)
-- [Solo Travel for Women: Safest Countries](/en/blog/solo-travel-women-safe-countries)
+- [Costa Rica Road Trip Route](/en/blog/costa-rica-road-trip-route/)
+- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials/)
+- [Solo Travel for Women: Safest Countries](/en/blog/solo-travel-women-safe-countries/)

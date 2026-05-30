@@ -115,6 +115,6 @@ TSA PreCheck ist ein US-Programm für Vielflieger: einmalige Bewerbung, 85 Dolla
 ---
 
 **Mehr lesen:**
-- [7 Flughafen-Tricks die dir Zeit und Nerven sparen](/blog/airport-hacks)
-- [Lohnt sich Priority Boarding wirklich?](/blog/priority-boarding-lohnt-sich)
-- [Nur Handgepäck: So packst du smart](/blog/nur-handgepaeck)
+- [7 Flughafen-Tricks die dir Zeit und Nerven sparen](/blog/airport-hacks/)
+- [Lohnt sich Priority Boarding wirklich?](/blog/priority-boarding-lohnt-sich/)
+- [Nur Handgepäck: So packst du smart](/blog/nur-handgepaeck/)

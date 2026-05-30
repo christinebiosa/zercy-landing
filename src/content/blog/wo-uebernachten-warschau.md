@@ -42,7 +42,7 @@ Warschau ist das ganze Jahr bereisbar, aber es gibt klare Höhepunkte. Mai und J
 
 Der Winter ist für Warschau unterschätzt. Die Stadt hat eine ausgeprägte Weihnachtstradition. Der Markt am Schlossplatz und der Park Lazienkowski im Schnee sind sehenswert. Januar und Februar sind preiswert und ruhig. Im August füllt sich die Stadt mit Festivals und dem Warschauer Aufstand-Gedenken am 1. August, einem sehr bewegenden Moment.
 
-Verlinke deine Reiseplanung am besten direkt mit [Wo übernachten in Prag](/blog/wo-uebernachten-prag) oder [Wo übernachten in Krakau](/blog/wo-uebernachten-krakau), wenn du Osteuropa kombinieren möchtest.
+Verlinke deine Reiseplanung am besten direkt mit [Wo übernachten in Prag](/blog/wo-uebernachten-prag/) oder [Wo übernachten in Krakau](/blog/wo-uebernachten-krakau/), wenn du Osteuropa kombinieren möchtest.
 
 ## Śródmieście: Zentrum mit Hauptbahnhof-Anbindung
 
@@ -107,6 +107,6 @@ Ein solides 4-Sterne-Hotel im Zentrum kostet 90 bis 150 Euro pro Nacht. Boutique
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Krakau: Altstadt oder Kazimierz?](/blog/wo-uebernachten-krakau)
-- [Wo übernachten in Wien: Die besten Bezirke](/blog/wo-uebernachten-wien)
-- [Wo übernachten in Berlin: Mitte, Prenzlauer Berg oder Kreuzberg?](/blog/wo-uebernachten-berlin)
+- [Wo übernachten in Krakau: Altstadt oder Kazimierz?](/blog/wo-uebernachten-krakau/)
+- [Wo übernachten in Wien: Die besten Bezirke](/blog/wo-uebernachten-wien/)
+- [Wo übernachten in Berlin: Mitte, Prenzlauer Berg oder Kreuzberg?](/blog/wo-uebernachten-berlin/)

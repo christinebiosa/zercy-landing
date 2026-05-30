@@ -61,7 +61,7 @@ Schallmoos und Lehen sind klassische Salzburger Wohnviertel. Keine Museen, keine
 
 **Top-Picks:** A&O Salzburg Hauptbahnhof (Hostel und Hotel im selben Haus, gute Verbindungen), Hotel Garni Lehenerhof (gepflegt, ruhig, preiswert), diverse Serviced Apartments für Wochenaufenthalte.
 
-Wer Salzburg als Basis für Ausflüge nutzt, findet in unserem [Zugreisen Europa Guide](/blog/zugreisen-europa) die besten Verbindungen in die Umgebung.
+Wer Salzburg als Basis für Ausflüge nutzt, findet in unserem [Zugreisen Europa Guide](/blog/zugreisen-europa/) die besten Verbindungen in die Umgebung.
 
 ## Aigen/Nonntal: Grün und ruhig
 
@@ -94,7 +94,7 @@ Für Salzburg lohnt sich [Booking.com](https://www.booking.com) besonders:
 
 Direkt beim Hotel buchen lohnt sich bei kleineren Familienbetrieben wie dem Hotel Auersperg oder Gästehäusern in Aigen, wenn du längere Aufenthalte planst.
 
-Wer Wien plant, findet im [Wien Stadtführer](/blog/wo-uebernachten-wien) denselben Aufbau nach Vierteln. Für München: [wo übernachten in München](/blog/wo-uebernachten-muenchen).
+Wer Wien plant, findet im [Wien Stadtführer](/blog/wo-uebernachten-wien/) denselben Aufbau nach Vierteln. Für München: [wo übernachten in München](/blog/wo-uebernachten-muenchen/).
 
 ---
 
@@ -121,6 +121,6 @@ November bis März (außer Adventzeit) und die Monate April, Oktober. Die Festsp
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Wien: Die 5 Stadtteile](/blog/wo-uebernachten-wien)
-- [Wo übernachten in München: Die 5 Stadtteile](/blog/wo-uebernachten-muenchen)
-- [Zugreisen Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
+- [Wo übernachten in Wien: Die 5 Stadtteile](/blog/wo-uebernachten-wien/)
+- [Wo übernachten in München: Die 5 Stadtteile](/blog/wo-uebernachten-muenchen/)
+- [Zugreisen Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)

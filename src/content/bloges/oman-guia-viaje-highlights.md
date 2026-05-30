@@ -71,6 +71,6 @@ Presupuesto medio: 70 a 110 euros al día sobre el terreno (alojamiento, comida,
 
 ## Más artículos
 
-- [Jordania: Guía de viaje con Petra, Wadi Rum y más](/es/blog/jordania-guia-viaje-highlights)
-- [Safari en África Oriental: Todo lo que necesitas saber](/es/blog/safari-africa-oriental-guia)
-- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
+- [Jordania: Guía de viaje con Petra, Wadi Rum y más](/es/blog/jordania-guia-viaje-highlights/)
+- [Safari en África Oriental: Todo lo que necesitas saber](/es/blog/safari-africa-oriental-guia/)
+- [Seguro de viaje: ¿Vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

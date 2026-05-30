@@ -49,7 +49,7 @@ The shops and restaurants on Prospect Street are upscale. Hotels in La Jolla are
 
 **Top picks:** The Lodge at Torrey Pines (historic Arts and Crafts hotel above the cliffs), La Valencia Hotel (pink landmark hotel, panoramic views), Estancia La Jolla Hotel and Spa (hacienda style, wellness facilities).
 
-Our [Los Angeles guide](/en/blog/where-to-stay-los-angeles) and [San Francisco article](/en/blog/where-to-stay-san-francisco) help with planning along the Pacific coast.
+Our [Los Angeles guide](/en/blog/where-to-stay-los-angeles/) and [San Francisco article](/en/blog/where-to-stay-san-francisco/) help with planning along the Pacific coast.
 
 ## When Is the Best Time to Visit San Diego?
 
@@ -117,6 +117,6 @@ January to March and November/December (outside holidays) are the most affordabl
 ---
 
 ## Read more
-- [Where to Stay in Los Angeles: 5 Neighborhoods Explained](/en/blog/where-to-stay-los-angeles)
-- [Where to Stay in San Francisco: Best Districts](/en/blog/where-to-stay-san-francisco)
-- [US West Coast Road Trip: The Complete Route](/en/blog/us-west-coast-road-trip)
+- [Where to Stay in Los Angeles: 5 Neighborhoods Explained](/en/blog/where-to-stay-los-angeles/)
+- [Where to Stay in San Francisco: Best Districts](/en/blog/where-to-stay-san-francisco/)
+- [US West Coast Road Trip: The Complete Route](/en/blog/us-west-coast-road-trip/)

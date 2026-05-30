@@ -30,7 +30,7 @@ Las posibilidades de upgrade varían mucho según la hora del día.
 
 **Check-in cerca de medianoche:** Upgrade casi garantizado si hay espacio disponible. Consigues lo que queda.
 
-Lee también nuestro artículo sobre [trucos en el aeropuerto](/es/blog/trucos-aeropuerto) si también intentas conseguir upgrades en la puerta de embarque.
+Lee también nuestro artículo sobre [trucos en el aeropuerto](/es/blog/trucos-aeropuerto/) si también intentas conseguir upgrades en la puerta de embarque.
 
 ## ¿Qué decir concretamente en el check-in?
 
@@ -93,6 +93,6 @@ Comentarlo en recepción con calma y de forma objetiva. "La habitación tiene m�
 ---
 
 **Más para leer:**
-- [Acceso a sala VIP sin billete business: opciones económicas](/es/blog/acceso-sala-vip-sin-business)
-- [Viaje de lujo económico: experiencia de 5 estrellas sin pagar el precio completo](/es/blog/viaje-lujo-economico-trucos)
-- [Reservar online o directo: comparativa honesta](/es/blog/reservar-online-o-directo)
+- [Acceso a sala VIP sin billete business: opciones económicas](/es/blog/acceso-sala-vip-sin-business/)
+- [Viaje de lujo económico: experiencia de 5 estrellas sin pagar el precio completo](/es/blog/viaje-lujo-economico-trucos/)
+- [Reservar online o directo: comparativa honesta](/es/blog/reservar-online-o-directo/)

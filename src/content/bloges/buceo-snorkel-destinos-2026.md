@@ -29,7 +29,7 @@ El arrecife sufre blanqueamiento de coral por el cambio climático. Visitarlo ah
 
 El Mar Rojo es el mar de buceo más accesible del mundo. Vuelos directos desde toda Europa, bajo coste de vida, agua cálida (26-30 grados), excelente visibilidad. Hurghada es el hub de resort más visitado. Marsa Alam es más tranquila y tiene mejor fauna marina (mantas, dugongos, tiburones martillo).
 
-Los pecios del Mar Rojo (SS Thistlegorm, SS Dunravn) son algunos de los lugares de buceo más famosos del planeta. Para quien quiera combinar el viaje submarino con una experiencia africana más amplia, el Mar Rojo complementa bien un [safari en África oriental](/es/blog/safari-africa-oriental-guia).
+Los pecios del Mar Rojo (SS Thistlegorm, SS Dunravn) son algunos de los lugares de buceo más famosos del planeta. Para quien quiera combinar el viaje submarino con una experiencia africana más amplia, el Mar Rojo complementa bien un [safari en África oriental](/es/blog/safari-africa-oriental-guia/).
 
 **Nivel:** Principiantes hasta expertos. Escuelas de buceo en todas partes, cursos PADI completos por menos de 300 EUR.
 **Mejor época:** Todo el año. Mejor visibilidad de octubre a abril.
@@ -57,7 +57,7 @@ Palau no es barata y no es fácil de llegar (con escala obligatoria). Eso mantie
 
 ### Komodo, Indonesia
 
-Los dragones de Komodo son la razón oficial del viaje. La razón real: uno de los mares más biodiversos de la tierra. El Triángulo de Coral se extiende aquí por millones de kilómetros cuadrados. Mantas en Batu Bolong, peces luna en la superficie, tornados de atunes en el azul. Para [viajar por el sudeste asiático con presupuesto ajustado](/es/blog/sudeste-asiatico-viaje-economico), Komodo está en la ruta entre Bali y Flores.
+Los dragones de Komodo son la razón oficial del viaje. La razón real: uno de los mares más biodiversos de la tierra. El Triángulo de Coral se extiende aquí por millones de kilómetros cuadrados. Mantas en Batu Bolong, peces luna en la superficie, tornados de atunes en el azul. Para [viajar por el sudeste asiático con presupuesto ajustado](/es/blog/sudeste-asiatico-viaje-economico/), Komodo está en la ruta entre Bali y Flores.
 
 La corriente en Komodo es fuerte e impredecible. Eso trae nutrientes. Y todo lo que se alimenta de ellos.
 
@@ -133,6 +133,6 @@ Koh Tao (Tailandia) es considerado el destino de cursos PADI más económico del
 ---
 
 **Más para leer:**
-- [Safari en África Oriental: Planificación y mejor época](/es/blog/safari-africa-oriental-guia)
-- [Eslovenia: Paraíso natural verde 2026](/es/blog/eslovenia-secreto-verde-2026)
-- [Cuándo reservar vuelos: La mejor estrategia](/es/blog/cuando-reservar-vuelos)
+- [Safari en África Oriental: Planificación y mejor época](/es/blog/safari-africa-oriental-guia/)
+- [Eslovenia: Paraíso natural verde 2026](/es/blog/eslovenia-secreto-verde-2026/)
+- [Cuándo reservar vuelos: La mejor estrategia](/es/blog/cuando-reservar-vuelos/)

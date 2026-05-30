@@ -43,7 +43,7 @@ Die Top-Optionen aus deutscher Sicht im Überblick.
 
 **Costa Rica.** Rentista-Visa mit 2.500 USD nachgewiesenem Einkommen pro Monat. Steuerfrei für ausländische Einkünfte. Sehr beliebt bei Selbstständigen.
 
-Schau dir auch unseren Guide [Costa Rica Rundreise in 2 Wochen](/blog/costa-rica-rundreise-route) an, falls du dich für Mittelamerika interessierst. Für digitale Nomaden besonders relevant: [Wo übernachten in Bali](/blog/wo-uebernachten-bali) und [Wo übernachten in Tulum](/blog/wo-uebernachten-tulum).
+Schau dir auch unseren Guide [Costa Rica Rundreise in 2 Wochen](/blog/costa-rica-rundreise-route/) an, falls du dich für Mittelamerika interessierst. Für digitale Nomaden besonders relevant: [Wo übernachten in Bali](/blog/wo-uebernachten-bali/) und [Wo übernachten in Tulum](/blog/wo-uebernachten-tulum/).
 
 ## Was musst du vor der Workation klären?
 
@@ -59,7 +59,7 @@ Viertens: Aufenthaltstitel klären. Innerhalb der EU brauchst du nichts, in Cost
 
 Fünftens: Versicherung anpassen. Die gesetzliche Krankenversicherung deckt im EU-Ausland viel ab, außerhalb fast nichts. Eine Auslandskrankenversicherung für Langzeit-Aufenthalte kostet etwa 50 bis 100 Euro pro Monat.
 
-Wenn du Business Class fliegen willst, ohne Vermögen auszugeben, lies unseren Guide [Business Class unter 1.000 Euro](/blog/business-class-ohne-meilen).
+Wenn du Business Class fliegen willst, ohne Vermögen auszugeben, lies unseren Guide [Business Class unter 1.000 Euro](/blog/business-class-ohne-meilen/).
 
 ---
 
@@ -86,6 +86,6 @@ Bei mehr als 6 Wochen Workation am Stück, bei Wiederholungen am gleichen Ort, o
 ---
 
 **Mehr lesen:**
-- [Was ist Zercy? Der KI-Reiseplaner erklärt](/blog/was-ist-zercy)
-- [Business Class: Wann lohnt sie sich wirklich?](/blog/business-class)
-- [Costa Rica Rundreise: Die perfekte 2-Wochen-Route](/blog/costa-rica-rundreise-route)
+- [Was ist Zercy? Der KI-Reiseplaner erklärt](/blog/was-ist-zercy/)
+- [Business Class: Wann lohnt sie sich wirklich?](/blog/business-class/)
+- [Costa Rica Rundreise: Die perfekte 2-Wochen-Route](/blog/costa-rica-rundreise-route/)

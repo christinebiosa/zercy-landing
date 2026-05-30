@@ -24,9 +24,9 @@ Das Prinzip ist einfach: Die Firma übernimmt Flug und Hotel für die Arbeitstag
 
 Nicht jede Dienstreise lädt zum Bleiben ein. Manche Städte sind reine Businessdestinationen mit wenig Freizeitwert. Andere haben genug zu bieten, dass drei zusätzliche Tage wie ein richtiger Kurzurlaub wirken.
 
-**London** ist die Königin der Bleisure-Destinationen. Günstiger Rückflug am Sonntag statt Donnerstag. Dazu: Museen (die meisten kostenlos), Parks, Theater, Restaurants aus aller Welt. Das Wochenende in London kostet vor allem Lebenshaltung, kaum Eintritt. Unser Guide zu [wo übernachten in London](/blog/wo-uebernachten-london) zeigt, welche Viertel sich nach den Meetings lohnen.
+**London** ist die Königin der Bleisure-Destinationen. Günstiger Rückflug am Sonntag statt Donnerstag. Dazu: Museen (die meisten kostenlos), Parks, Theater, Restaurants aus aller Welt. Das Wochenende in London kostet vor allem Lebenshaltung, kaum Eintritt. Unser Guide zu [wo übernachten in London](/blog/wo-uebernachten-london/) zeigt, welche Viertel sich nach den Meetings lohnen.
 
-**Singapur** ist für viele der erste Stopp auf Asienreisen. Perfekt für Bleisure: exzellente Infrastruktur, sicher, hochwertige Essenskultur von Hawker Centres bis Fine Dining. Wer den Umweg nach Singapur bucht, sollte auch die Hotelwahl überdenken. Nach der Businesswoche zieht Sentosa für den letzten Abend, für alle anderen Nächte empfiehlt unser [Singapur-Übernachtungsguide](/blog/wo-uebernachten-singapur) konkrete Viertel.
+**Singapur** ist für viele der erste Stopp auf Asienreisen. Perfekt für Bleisure: exzellente Infrastruktur, sicher, hochwertige Essenskultur von Hawker Centres bis Fine Dining. Wer den Umweg nach Singapur bucht, sollte auch die Hotelwahl überdenken. Nach der Businesswoche zieht Sentosa für den letzten Abend, für alle anderen Nächte empfiehlt unser [Singapur-Übernachtungsguide](/blog/wo-uebernachten-singapur/) konkrete Viertel.
 
 **Amsterdam** hat kurze Wege und dichtes Kulturangebot. Nach einem Kongress im RAI Convention Centre bleibt fast nichts anderes übrig als noch zwei Nächte dranzuhängen. Rijksmuseum, Jordaan, Noord: alles nah beieinander, und Flüge nach Deutschland kosten ab 50 Euro.
 
@@ -42,7 +42,7 @@ Du trägst selbst: Alle Nächte nach dem letzten Arbeitstag. Verpflegung, Transp
 
 Der clevere Punkt: Falls du denselben Rückflug buchst, aber eine Woche später, entsteht dem Arbeitgeber oft kein Mehraufwand. Manche Unternehmen haben dafür explizite Richtlinien. Andere handeln es informell. Es lohnt sich, kurz zu fragen. Die meisten Vorgesetzten haben kein Problem damit, solange die Arbeit erledigt ist und keine Mehrkosten entstehen.
 
-Für günstigere Buchungen bei der Hotelsuche nach den Businesstagen lohnt sich ein Blick auf das [Hotel-Treueprogramm](/blog/hotel-treueprogramm-lohnt-sich), falls du regelmäßig reist.
+Für günstigere Buchungen bei der Hotelsuche nach den Businesstagen lohnt sich ein Blick auf das [Hotel-Treueprogramm](/blog/hotel-treueprogramm-lohnt-sich/), falls du regelmäßig reist.
 
 ## Wie verhandelst du Bleisure mit dem Chef?
 
@@ -54,13 +54,13 @@ Falls die Firma eine Reisekostenrichtlinie hat: prüfe, ob sie Bleisure explizit
 
 Wichtig: Kläre die Versicherungsfrage. Deine Dienstreise-Unfallversicherung gilt meist nur während der Arbeitstage. Für die Freizeittage brauchst du entweder eigene Reiseversicherung oder Kreditkartenschutz. Das klingt technisch, aber es ist der einzige Punkt, den du wirklich vorab klären musst.
 
-Wenn du regelmäßig fliegst und eine gute [Business Class ohne Meilenprogramm](/blog/business-class-ohne-meilen) suchst, lohnt sich dabei auch die Frage nach Upgrades bei verlängerten Trips.
+Wenn du regelmäßig fliegst und eine gute [Business Class ohne Meilenprogramm](/blog/business-class-ohne-meilen/) suchst, lohnt sich dabei auch die Frage nach Upgrades bei verlängerten Trips.
 
 ## Steuerliche Aspekte: Was musst du beim Finanzamt beachten?
 
 Für Deutschland: Die Businesstage sind steuerlich komplett beim Arbeitgeber. Die Privatausgaben nach dem letzten Arbeitstag sind rein privat, kein Abzug möglich. Solange du die Kostentrennung sauber hältst, gibt es keinen Spielraum für Fehler.
 
-Komplizierter wird es, wenn du auch während der "Freizeittage" arbeitest. Dann handelt es sich eher um eine [Workation](/blog/workation-steuern-2026), und andere Regeln greifen. Für reine Freizeittage ist die steuerliche Seite simpel: du hast keine Sonderabzüge, aber auch keine besonderen Pflichten.
+Komplizierter wird es, wenn du auch während der "Freizeittage" arbeitest. Dann handelt es sich eher um eine [Workation](/blog/workation-steuern-2026/), und andere Regeln greifen. Für reine Freizeittage ist die steuerliche Seite simpel: du hast keine Sonderabzüge, aber auch keine besonderen Pflichten.
 
 Falls der Arbeitgeber das Hotel auch für die Freizeittage zahlt und du später erstattest: das korrekt dokumentieren. In der Abrechnung klar trennen, was Business ist und was privat.
 
@@ -70,7 +70,7 @@ Der größte Hebel beim Bleisure ist der Flug. Fliegst du donnerstags zurück st
 
 Beim Hotel: Manche Ketten erlauben es, die Business-Rate für private Nächte zu übernehmen, wenn du dieselbe Buchung verlängerst. Das lohnt sich nachzufragen. Alternativ: nach dem Checkout in ein kleineres Boutique-Hotel wechseln. Die Qualität stimmt oft, und du sparst 40 bis 60 Prozent.
 
-Für den Lounge-Zugang auf dem Rückflug gibt es auch ohne Business-Ticket Wege: unser Artikel zu [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket) zeigt die besten Optionen.
+Für den Lounge-Zugang auf dem Rückflug gibt es auch ohne Business-Ticket Wege: unser Artikel zu [Lounge-Zugang ohne Business-Ticket](/blog/lounge-zugang-ohne-business-ticket/) zeigt die besten Optionen.
 
 ---
 
@@ -98,6 +98,6 @@ Dienstreise-Versicherungen des Arbeitgebers decken meist nur die Arbeitstage ab.
 
 ## Mehr lesen
 
-- [Business Class ohne Meilen: wie es trotzdem klappt](/blog/business-class-ohne-meilen)
-- [Lounge-Zugang ohne Business-Ticket: alle Optionen im Überblick](/blog/lounge-zugang-ohne-business-ticket)
-- [Workation und Steuern 2026: was du beachten musst](/blog/workation-steuern-2026)
+- [Business Class ohne Meilen: wie es trotzdem klappt](/blog/business-class-ohne-meilen/)
+- [Lounge-Zugang ohne Business-Ticket: alle Optionen im Überblick](/blog/lounge-zugang-ohne-business-ticket/)
+- [Workation und Steuern 2026: was du beachten musst](/blog/workation-steuern-2026/)

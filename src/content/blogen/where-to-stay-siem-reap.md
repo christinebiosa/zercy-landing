@@ -63,7 +63,7 @@ North of the city center, beyond the Siem Reap River: the neighborhood of large 
 
 **Top picks:** Raffles Grand Hotel d'Angkor (historic colonial luxury hotel, Siem Reap's most iconic property), Anantara Angkor Resort (modern luxury with pool and spa), Park Hyatt Siem Reap (more urban luxury option in a mixed style).
 
-If you are continuing through Southeast Asia, our [Bangkok neighborhood guide](/en/blog/where-to-stay-bangkok) covers the right areas in the megacity.
+If you are continuing through Southeast Asia, our [Bangkok neighborhood guide](/en/blog/where-to-stay-bangkok/) covers the right areas in the megacity.
 
 ## Airport Road: Budget and Practical
 
@@ -85,7 +85,7 @@ East of the Siem Reap River lies the neighborhood most tourists never enter. Loc
 
 **Top picks:** Maison 557 (small boutique hotel with genuine character), Soria Moria Hotel (Belgian-Cambodian concept, excellent in-house kitchen), Phum Baitang (at the city edge, stilted villas, for a memorable stay).
 
-If you are building a Southeast Asia route, read our [Hanoi neighborhood guide](/en/blog/where-to-stay-hanoi) for the best locations in Vietnam's north.
+If you are building a Southeast Asia route, read our [Hanoi neighborhood guide](/en/blog/where-to-stay-hanoi/) for the best locations in Vietnam's north.
 
 ## Where Should You Book in the End?
 
@@ -123,6 +123,6 @@ For ideal light and smaller crowds: sunrise between 5:30 and 6 am. Main tour gro
 ---
 
 **Read more:**
-- [Where to Stay in Bangkok: The 5 Best Neighborhoods](/en/blog/where-to-stay-bangkok)
-- [Where to Stay in Hanoi: Best Locations](/en/blog/where-to-stay-hanoi)
-- [Travel on a Budget: 12 Tips That Actually Work](/en/blog/cheap-flights-tips)
+- [Where to Stay in Bangkok: The 5 Best Neighborhoods](/en/blog/where-to-stay-bangkok/)
+- [Where to Stay in Hanoi: Best Locations](/en/blog/where-to-stay-hanoi/)
+- [Travel on a Budget: 12 Tips That Actually Work](/en/blog/cheap-flights-tips/)

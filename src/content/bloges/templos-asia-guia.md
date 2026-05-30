@@ -20,9 +20,9 @@ Visitar varios templos en una región durante pocos días tiene mucho sentido. L
 
 **Bagan, Myanmar.** Más de 2.000 pagodas y estupas repartidas por una llanura enorme. Recorrerla en bicicleta al amanecer, con la neblina flotando entre las torres antiguas. Uno de esos momentos silenciosos por los que se viaja lejos. Entrada: 25 USD para la Zona Arqueológica, válida varios días.
 
-**Prambanan, Indonesia.** Cerca de Yogyakarta en Java, a una hora de Borobudur. Este complejo hindú del siglo IX es el más grande del Sudeste Asiático. Las tres torres principales dedicadas a Brahma, Vishnu y Shiva alcanzan los 47 metros de altura. Si combinas Prambanan con [Borobudur](/es/blog/sudeste-asiatico-viaje-economico), su contraparte budista, tienes dos Patrimonios de la Humanidad en un mismo día.
+**Prambanan, Indonesia.** Cerca de Yogyakarta en Java, a una hora de Borobudur. Este complejo hindú del siglo IX es el más grande del Sudeste Asiático. Las tres torres principales dedicadas a Brahma, Vishnu y Shiva alcanzan los 47 metros de altura. Si combinas Prambanan con [Borobudur](/es/blog/sudeste-asiatico-viaje-economico/), su contraparte budista, tienes dos Patrimonios de la Humanidad en un mismo día.
 
-**Ayutthaya, Tailandia.** A una hora al norte de Bangkok. La antigua capital del Reino de Siam es hoy un paisaje de ruinas al aire libre. Budas sin cabeza, torres en ruinas, barcas en el río. Lo mejor: muchas zonas son gratuitas, otras cuestan 50 baht. Perfecto como excursión desde Bangkok. Para opciones de alojamiento, el artículo [Dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok) tiene todo lo que necesitas.
+**Ayutthaya, Tailandia.** A una hora al norte de Bangkok. La antigua capital del Reino de Siam es hoy un paisaje de ruinas al aire libre. Budas sin cabeza, torres en ruinas, barcas en el río. Lo mejor: muchas zonas son gratuitas, otras cuestan 50 baht. Perfecto como excursión desde Bangkok. Para opciones de alojamiento, el artículo [Dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok/) tiene todo lo que necesitas.
 
 **Hampi, India.** Las ruinas del Imperio Vijayanagara en el estado de Karnataka. Formaciones de rocas gigantes, templos que puedes recorrer, calles de bazar del siglo XIV. Hampi no es un destino masivo. Puedes caminar solo por un complejo de templos sin ver a nadie más. Entrada a la zona principal: 600 INR (unos 6,50 euros).
 
@@ -52,7 +52,7 @@ Los precios varían mucho. Resumen rápido:
 - Hampi: 600 INR (unos 6,50 euros) para el complejo principal
 - Ayutthaya: muchas zonas gratuitas o 50 baht
 
-**Vestimenta.** Hombros y rodillas cubiertos. Esto aplica en casi todos los sitios. Algunos templos prestan sarongs o pañuelos en la entrada. Mejor llevar tu propio pañuelo ligero, especialmente con calor. Para saber qué empacar, el artículo [Lista de equipaje para el trópico](/es/blog/lista-equipaje-tropico) es una buena referencia.
+**Vestimenta.** Hombros y rodillas cubiertos. Esto aplica en casi todos los sitios. Algunos templos prestan sarongs o pañuelos en la entrada. Mejor llevar tu propio pañuelo ligero, especialmente con calor. Para saber qué empacar, el artículo [Lista de equipaje para el trópico](/es/blog/lista-equipaje-tropico/) es una buena referencia.
 
 **Guías.** En Angkor Wat y Borobudur no son obligatorios, pero sí muy útiles. Sin contexto, ves piedras. Con guía, ves historia. Coste: entre 20 y 40 USD por medio día según el destino. En Hampi, los guías oficiales cobran alrededor de 10 euros por dos o tres horas. Vale la pena.
 
@@ -95,6 +95,6 @@ Ayutthaya y Prambanan son ideales para familias: áreas manejables, menos aglome
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Bangkok: Los mejores barrios 2026](/es/blog/donde-alojarse-bangkok)
-- [Guía del hamam: Cómo disfrutar un baño turco](/es/blog/hamam-bano-turco-guia)
-- [Lista de equipaje para el trópico: Lo que realmente necesitas](/es/blog/lista-equipaje-tropico)
+- [Dónde alojarse en Bangkok: Los mejores barrios 2026](/es/blog/donde-alojarse-bangkok/)
+- [Guía del hamam: Cómo disfrutar un baño turco](/es/blog/hamam-bano-turco-guia/)
+- [Lista de equipaje para el trópico: Lo que realmente necesitas](/es/blog/lista-equipaje-tropico/)

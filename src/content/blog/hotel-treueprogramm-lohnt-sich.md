@@ -44,7 +44,7 @@ Hier wird es unbequem. Wer zwei- bis dreimal im Jahr reist und zwischen Ketten w
 
 Marriott Bonvoy beispielsweise: Eine Standardnacht in der untersten Kategorie kostet 5.000 Punkte. Du verdienst rund 10 Punkte pro Dollar. Für eine einzige Freinacht brauchst du also 500 Dollar Ausgaben. Das klingt machbar, bis du schaust, was dieselbe Nacht auf Booking.com kostet.
 
-Und da liegt der größte Fallstrick: Mitgliederpreise sind oft teurer als Nicht-Mitglied-Preise auf Booking.com oder Expedia. [Hotel Rate Parity](/blog/hotel-rate-parity-erklaert) existiert zwar als Vertragsprinzip, wird aber laufend gebrochen. OTAs dürfen nicht-öffentliche Preise anbieten, Genius-Rabatte einrechnen, Promotionspreise aktivieren. Das Ergebnis: Du findest auf Booking.com für dasselbe Hotel oft 10 bis 20 Prozent weniger als der offizielle Mitgliederpreis der Kette.
+Und da liegt der größte Fallstrick: Mitgliederpreise sind oft teurer als Nicht-Mitglied-Preise auf Booking.com oder Expedia. [Hotel Rate Parity](/blog/hotel-rate-parity-erklaert/) existiert zwar als Vertragsprinzip, wird aber laufend gebrochen. OTAs dürfen nicht-öffentliche Preise anbieten, Genius-Rabatte einrechnen, Promotionspreise aktivieren. Das Ergebnis: Du findest auf Booking.com für dasselbe Hotel oft 10 bis 20 Prozent weniger als der offizielle Mitgliederpreis der Kette.
 
 Immer vergleichen. Das ist keine Option, das ist Pflicht.
 
@@ -52,7 +52,7 @@ Immer vergleichen. Das ist keine Option, das ist Pflicht.
 
 Das Booking.com Genius-Programm ist der direkte Konkurrent. Keine Ketten-Bindung. Kein Punkte-Sammeln. Stattdessen: bis zu 20 Prozent Rabatt in teilnehmenden Hotels, früherer Einlass, spätes Auschecken, kostenlose Frühstücks-Upgrades. Voraussetzung ist eine gewisse Buchungsaktivität auf der Plattform, aber der Level 1 ist schnell erreicht.
 
-Das Genius-Programm funktioniert kettenunabhängig. Ein Boutique-Hotel in Lissabon mit Genius-Rabatt genauso wie ein Marriott in New York. Für Gelegenheits-Reisende oft die bessere Wahl. Den [vollständigen Vergleich zwischen Booking.com und Expedia](/blog/booking-vs-expedia-vergleich-2026) lohnt es sich zu lesen, bevor du festlegst, wo du hauptsächlich buchst.
+Das Genius-Programm funktioniert kettenunabhängig. Ein Boutique-Hotel in Lissabon mit Genius-Rabatt genauso wie ein Marriott in New York. Für Gelegenheits-Reisende oft die bessere Wahl. Den [vollständigen Vergleich zwischen Booking.com und Expedia](/blog/booking-vs-expedia-vergleich-2026/) lohnt es sich zu lesen, bevor du festlegst, wo du hauptsächlich buchst.
 
 ## Wie wählst du das richtige Programm aus?
 
@@ -60,9 +60,9 @@ Wenn du ein Treueprogramm willst, wähle genau eines. Punkte aufteilen auf drei 
 
 Hilton Honors oder Marriott Bonvoy sind die naheliegenden Kandidaten, weil sie mit ihren Portfolios fast jeden Reisetyp abdecken. Hyatt lohnt sich, wenn du häufig in US-amerikanische Städte reist: kleineres Portfolio, aber deutlich großzügiger mit Upgrades.
 
-Unabhängig davon gilt: Jede Buchung bei einem Ketten-Hotel via Treueprogramm zuerst auf Booking.com oder Expedia gegenchecken. Wenn die Plattform günstiger ist, buche dort. Die paar Punkte, die du verlierst, sparen dir bares Geld. Wie [Hotel-Kategorien und Preisklassen](/blog/hotel-kategorien-erklaert) aufgebaut sind, hilft dir dabei einzuschätzen, wann Upgrades realistisch sind.
+Unabhängig davon gilt: Jede Buchung bei einem Ketten-Hotel via Treueprogramm zuerst auf Booking.com oder Expedia gegenchecken. Wenn die Plattform günstiger ist, buche dort. Die paar Punkte, die du verlierst, sparen dir bares Geld. Wie [Hotel-Kategorien und Preisklassen](/blog/hotel-kategorien-erklaert/) aufgebaut sind, hilft dir dabei einzuschätzen, wann Upgrades realistisch sind.
 
-Ähnliche Überlegungen gelten für Flüge: [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen) zeigt, wann sich Meilenprogramme für Flüge lohnen.
+Ähnliche Überlegungen gelten für Flüge: [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen/) zeigt, wann sich Meilenprogramme für Flüge lohnen.
 
 ---
 
@@ -85,6 +85,6 @@ Für Gelegenheits-Reisende empfiehlt sich kein Ketten-Treueprogramm, sondern das
 ---
 
 **Mehr lesen:**
-- [Hotel Rate Parity erklärt: Warum kostet dasselbe Zimmer überall gleich viel?](/blog/hotel-rate-parity-erklaert)
-- [Booking.com vs. Expedia: Der ehrliche Vergleich 2026](/blog/booking-vs-expedia-vergleich-2026)
-- [Hotel-Kategorien erklärt: Was steckt hinter 3, 4 und 5 Sternen?](/blog/hotel-kategorien-erklaert)
+- [Hotel Rate Parity erklärt: Warum kostet dasselbe Zimmer überall gleich viel?](/blog/hotel-rate-parity-erklaert/)
+- [Booking.com vs. Expedia: Der ehrliche Vergleich 2026](/blog/booking-vs-expedia-vergleich-2026/)
+- [Hotel-Kategorien erklärt: Was steckt hinter 3, 4 und 5 Sternen?](/blog/hotel-kategorien-erklaert/)

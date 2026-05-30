@@ -81,11 +81,11 @@ La entrada básica al Valle de los Reyes cuesta 240 EGP (unos 5 USD). Incluye tr
 
 ### ¿Qué no hay que perderse en Luxor?
 
-El templo de Karnak (el más grande de Egipto, espectáculo de luz y sonido por las noches), el templo de Luxor (precioso de noche), el Valle de los Reyes, el Valle de las Reinas, el templo de Hatshepsut, los Colosos de Memnon (gratis). La [guía de viaje de Egipto](/es/blog/egipto-guia-viaje-highlights) mapea la ruta completa por el país incluyendo Luxor y El Cairo.
+El templo de Karnak (el más grande de Egipto, espectáculo de luz y sonido por las noches), el templo de Luxor (precioso de noche), el Valle de los Reyes, el Valle de las Reinas, el templo de Hatshepsut, los Colosos de Memnon (gratis). La [guía de viaje de Egipto](/es/blog/egipto-guia-viaje-highlights/) mapea la ruta completa por el país incluyendo Luxor y El Cairo.
 
 ---
 
 **Leer más:**
-- [Guía de viaje de Egipto: El Cairo, Luxor y consejos prácticos](/es/blog/egipto-guia-viaje-highlights)
-- [Dónde alojarse en El Cairo: Los 5 barrios clave](/es/blog/donde-alojarse-el-cairo)
-- [Safari en África Oriental: Guía completa de planificación](/es/blog/safari-africa-oriental-guia)
+- [Guía de viaje de Egipto: El Cairo, Luxor y consejos prácticos](/es/blog/egipto-guia-viaje-highlights/)
+- [Dónde alojarse en El Cairo: Los 5 barrios clave](/es/blog/donde-alojarse-el-cairo/)
+- [Safari en África Oriental: Guía completa de planificación](/es/blog/safari-africa-oriental-guia/)

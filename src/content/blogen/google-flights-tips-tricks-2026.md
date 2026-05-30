@@ -24,7 +24,7 @@ No fixed destination? No problem. Enter your departure airport, leave the destin
 
 Filter by continent, budget, or flight duration. Southeast Asia from 380 euros? Paris this weekend from 89 euros? The map updates in real time.
 
-This is not a gimmick. For anyone searching for "somewhere warm" or "somewhere affordable," this view saves hours. Combined with flexible dates — the next trick — it becomes the most powerful feature on the entire platform. It connects naturally with the logic behind [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack): you're not locked into flying in and out of the same city.
+This is not a gimmick. For anyone searching for "somewhere warm" or "somewhere affordable," this view saves hours. Combined with flexible dates — the next trick — it becomes the most powerful feature on the entire platform. It connects naturally with the logic behind [open-jaw tickets](/en/blog/open-jaw-tickets-travel-hack/): you're not locked into flying in and out of the same city.
 
 ## How Much Does Date Flexibility Actually Save?
 
@@ -32,7 +32,7 @@ Instead of a fixed date, select "Flexible Dates." Google shows a full calendar g
 
 The Frankfurt-Bangkok example: Friday, October 3rd, 780 euros. Wednesday, October 1st, 520 euros. Same flight. Same destination. Two days shifted.
 
-On top of that, "±3 days" and "1 week" options let Google automatically highlight the cheapest day within your travel window. Combine the Explore map with flexible dates and you're finding the cheapest flights in the world without entering a single specific route. This is the principle behind [cheap flights](/en/blog/cheap-flights-tips) pushed to its logical limit.
+On top of that, "±3 days" and "1 week" options let Google automatically highlight the cheapest day within your travel window. Combine the Explore map with flexible dates and you're finding the cheapest flights in the world without entering a single specific route. This is the principle behind [cheap flights](/en/blog/cheap-flights-tips/) pushed to its logical limit.
 
 ## When Should You Book? Price Alerts and Price Insights
 
@@ -40,7 +40,7 @@ Top right of any search result: click "Track prices." Google sends an email when
 
 Then there's "Price Insights": for every search, Google shows whether the current price is low, typical, or high for this route, based on the last several months of data.
 
-When waiting makes sense: book long-haul flights three to six months out. Airlines often drop prices six to eight weeks before departure when seats remain empty. When waiting doesn't help: school holidays, Christmas, local public holidays. Prices rise reliably in these windows. Buy early. Don't wait. For the full breakdown by route type and season, the article [when to book flights](/en/blog/when-to-book-flights) covers it in detail.
+When waiting makes sense: book long-haul flights three to six months out. Airlines often drop prices six to eight weeks before departure when seats remain empty. When waiting doesn't help: school holidays, Christmas, local public holidays. Prices rise reliably in these windows. Buy early. Don't wait. For the full breakdown by route type and season, the article [when to book flights](/en/blog/when-to-book-flights/) covers it in detail.
 
 ## Why the Incognito Tab Does Nothing
 
@@ -58,9 +58,9 @@ Skip the incognito tab. Save the mental energy for something else.
 
 **Nearby airports:** Google Flights automatically shows cheaper departure options near your home airport. Flying from Munich? Innsbruck, Salzburg, and Memmingen might be cheaper. Whether the price difference outweighs getting there is something you need to calculate yourself. Train ticket plus parking plus time. Google won't do that math for you.
 
-**Multi-city booking:** Select "Multi-city" and enter each leg separately. Frankfurt-Bangkok, Bangkok-Singapore, Singapore-Frankfurt. Google shows options for each segment independently. Often cheaper than a packaged round trip. This is closely related to the [open-jaw concept](/en/blog/open-jaw-tickets-travel-hack): instead of flying A-B-A, you fly out to C and home from D.
+**Multi-city booking:** Select "Multi-city" and enter each leg separately. Frankfurt-Bangkok, Bangkok-Singapore, Singapore-Frankfurt. Google shows options for each segment independently. Often cheaper than a packaged round trip. This is closely related to the [open-jaw concept](/en/blog/open-jaw-tickets-travel-hack/): instead of flying A-B-A, you fly out to C and home from D.
 
-**Cabin class filter:** Not interested in economy prices? Filter directly for Premium Economy or Business Class. Many travelers don't realize: on some long-haul routes, Business Class costs twice as much as Economy — not five times. [Business class without miles](/en/blog/business-class-without-miles) starting around 700 euros is a real thing. According to [IATA data](https://www.iata.org/en/publications/economics/), premium cabin demand has grown steadily while pricing has become more competitive on certain routes.
+**Cabin class filter:** Not interested in economy prices? Filter directly for Premium Economy or Business Class. Many travelers don't realize: on some long-haul routes, Business Class costs twice as much as Economy — not five times. [Business class without miles](/en/blog/business-class-without-miles/) starting around 700 euros is a real thing. According to [IATA data](https://www.iata.org/en/publications/economics/), premium cabin demand has grown steadily while pricing has become more competitive on certain routes.
 
 ## How Big Is the Difference Compared to Skyscanner or Kayak?
 
@@ -79,7 +79,7 @@ One thing frequently overlooked: some Google Flights results show "Basic Economy
 
 More details on Google Flights features are available in the [official Google Flights Help](https://support.google.com/travel/answer/6315436).
 
-You can also use the [airport hacks](/en/blog/airport-hacks) playbook once you've locked in the route — it picks up where Google Flights leaves off.
+You can also use the [airport hacks](/en/blog/airport-hacks/) playbook once you've locked in the route — it picks up where Google Flights leaves off.
 
 ---
 
@@ -97,7 +97,7 @@ Enter your route and dates, then click "Track prices" in the top right. You need
 
 ### When are flight prices cheapest?
 
-As a rough guide: book short-haul European flights two to six weeks out, long-haul two to six months out. Tuesday and Wednesday tend to be cheaper than Friday and Sunday. Early morning and late-night departures cost less than peak travel times. For a detailed breakdown by route type and season, see [when to book flights](/en/blog/when-to-book-flights).
+As a rough guide: book short-haul European flights two to six weeks out, long-haul two to six months out. Tuesday and Wednesday tend to be cheaper than Friday and Sunday. Early morning and late-night departures cost less than peak travel times. For a detailed breakdown by route type and season, see [when to book flights](/en/blog/when-to-book-flights/).
 
 ### Which flights does Google Flights not show?
 
@@ -106,6 +106,6 @@ Ryanair, Wizz Air, and several ultra-low-cost carriers are missing. Google Fligh
 ---
 
 **Read more:**
-- [Open-Jaw Tickets: The Travel Hack That Actually Works](/en/blog/open-jaw-tickets-travel-hack)
-- [When to Book Flights: The Honest Answer](/en/blog/when-to-book-flights)
-- [Airport Hacks: 7 Tricks for Smoother Travel](/en/blog/airport-hacks)
+- [Open-Jaw Tickets: The Travel Hack That Actually Works](/en/blog/open-jaw-tickets-travel-hack/)
+- [When to Book Flights: The Honest Answer](/en/blog/when-to-book-flights/)
+- [Airport Hacks: 7 Tricks for Smoother Travel](/en/blog/airport-hacks/)

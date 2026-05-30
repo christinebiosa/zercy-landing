@@ -49,7 +49,7 @@ Winter (November bis Februar) ist mild und sehr günstig. Lissabon und Porto sin
 
 **Ponta da Piedade (Lagos):** Goldene Kalksteinfelsen direkt über dem Atlantik. Das schönste Küstenpanorama Portugals. Kajakverleih bringt dich in die Grotten — unvergesslich.
 
-**Douro-Tal:** UNESCO-Welterbe, Weinberg-Terrassen soweit das Auge reicht. Wein-Tour in Pinhão inklusive Tasting ab 25 Euro. Mehr dazu in unserem [Algarve Reiseführer](/blog/algarve-reisefuehrer-2026) für Tipps zum Süden.
+**Douro-Tal:** UNESCO-Welterbe, Weinberg-Terrassen soweit das Auge reicht. Wein-Tour in Pinhão inklusive Tasting ab 25 Euro. Mehr dazu in unserem [Algarve Reiseführer](/blog/algarve-reisefuehrer-2026/) für Tipps zum Süden.
 
 **Porto:** Die Stadt der Brücken und des Portweins. Lello-Buchhandlung (Tickets vorab online!) und Ribeira-Viertel brauchen ein Nachmittag. Weinlager in Vila Nova de Gaia: kostenlose Besichtigung, Tasting ab 5 Euro.
 
@@ -59,7 +59,7 @@ Winter (November bis Februar) ist mild und sehr günstig. Lissabon und Porto sin
 
 **Sprache:** Englisch wird überall in Städten gesprochen. In kleinen Dörfern hilft ein paar Wörter Portugiesisch enorm. Obrigado (Danke) und bom dia (guten Morgen) öffnen Türen.
 
-**Geld:** Portugal ist weitgehend bargeldlos, aber in kleinen Cafés und Märkten auf dem Land lohnt sich Bargeld. ATMs sind überall verfügbar. Buche auch [Wo man übernachten kann in Lissabon](/blog/wo-uebernachten-lissabon) und [Wo man übernachten kann in Porto](/blog/porto-die-unterschaetzte-schwester) für Stadtteil-Empfehlungen.
+**Geld:** Portugal ist weitgehend bargeldlos, aber in kleinen Cafés und Märkten auf dem Land lohnt sich Bargeld. ATMs sind überall verfügbar. Buche auch [Wo man übernachten kann in Lissabon](/blog/wo-uebernachten-lissabon/) und [Wo man übernachten kann in Porto](/blog/porto-die-unterschaetzte-schwester/) für Stadtteil-Empfehlungen.
 
 ---
 
@@ -80,6 +80,6 @@ Das hängt vom Typ ab. Algarve für Strandurlaub. Alentejo für Ruhe und Wein. D
 Portugal gilt als eines der sichersten Reiseziele Europas. Der [Global Peace Index](https://www.visionofhumanity.org) listet es regelmäßig unter den Top 10. Wie überall: Taschendiebstahl in Touristenmassen (Lissabons Straßenbahn 28) im Auge behalten. Ansonsten entspannt.
 
 ## Mehr lesen
-- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade)
-- [Porto — Lissabons unterschätzte Schwester](/blog/porto-die-unterschaetzte-schwester)
-- [Algarve Reiseführer 2026](/blog/algarve-reisefuehrer-2026)
+- [Lissabon abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/)
+- [Porto — Lissabons unterschätzte Schwester](/blog/porto-die-unterschaetzte-schwester/)
+- [Algarve Reiseführer 2026](/blog/algarve-reisefuehrer-2026/)

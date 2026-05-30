@@ -49,7 +49,7 @@ Der Baltic Triangle liegt südlich der Innenstadt und war lange ein vergessenes 
 
 **Top-Picks:** Staycity Aparthotel Liverpool (gut ausgestattete Apartments, ideal für längere Aufenthalte), Hope Street Hotel (Boutique im historischen Gebäude an der Grenze zum Georgian Quarter, bekannt für gute Küche).
 
-Lies dazu auch unseren [Stadtführer für Edinburgh](/blog/wo-uebernachten-edinburgh), Schottlands kreativste Städteszene hat ähnliche Charakteristika wie Liverpools Baltic Triangle.
+Lies dazu auch unseren [Stadtführer für Edinburgh](/blog/wo-uebernachten-edinburgh/), Schottlands kreativste Städteszene hat ähnliche Charakteristika wie Liverpools Baltic Triangle.
 
 ## Ropewalks: Nightlife und Energie
 
@@ -73,7 +73,7 @@ Das Georgian Quarter ist Liverpools elegantestes Wohnviertel. Uniformierte Reihe
 
 **Top-Picks:** Aloft Liverpool (modernes Stadthotel, gut gelegen zwischen Georgian Quarter und Innenstadt, lebhafte Bar-Szene im Haus selbst).
 
-Ähnliche historische Stadtteile findest du in unserem [Dublin-Stadtführer](/blog/wo-uebernachten-dublin). Beide Städte haben starke Georgian-Architektur und lebendige Pub-Kultur.
+Ähnliche historische Stadtteile findest du in unserem [Dublin-Stadtführer](/blog/wo-uebernachten-dublin/). Beide Städte haben starke Georgian-Architektur und lebendige Pub-Kultur.
 
 ## Wann ist die beste Reisezeit für Liverpool?
 
@@ -121,5 +121,5 @@ Waterfront oder Innenstadt, direkte Nähe zum Albert Dock. Das Titanic Hotel Liv
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in London: Die besten Stadtteile](/blog/wo-uebernachten-london)
-- [Wo übernachten in Dublin: Stadtteil-Guide 2026](/blog/wo-uebernachten-dublin)
+- [Wo übernachten in London: Die besten Stadtteile](/blog/wo-uebernachten-london/)
+- [Wo übernachten in Dublin: Stadtteil-Guide 2026](/blog/wo-uebernachten-dublin/)

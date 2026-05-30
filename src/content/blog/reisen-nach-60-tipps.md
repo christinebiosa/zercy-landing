@@ -24,21 +24,21 @@ Das ist der Punkt, den viele unterschätzen. Reiseversicherungen werden ab 60 sp
 
 Wichtig: Immer das Kleingedruckte lesen. Viele Policen haben Altersgrenzen für bestimmte Leistungen, oder sie verlangen eine separate Erklärung zu Vorerkrankungen. Wer regelmäßig Medikamente nimmt, sollte prüfen, ob diese im Zielland legal einführbar sind. Und: Krankenrücktransport ist nach 60 keine Luxusleistung mehr, sondern Pflicht. Eine Evakuierung aus Asien oder Südamerika kann leicht 30.000 Euro kosten.
 
-Lies dazu auch unseren Artikel zu [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich).
+Lies dazu auch unseren Artikel zu [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/).
 
 ## Wie wirken sich Langstreckenflüge auf ältere Reisende aus?
 
 Tiefe Beinvenenthrombosen sind bei langen Flügen für alle ein Thema, aber das Risiko steigt mit dem Alter. Kompressionsstrümpfe (Klasse 1 oder 2) gehören in jedes Handgepäck. Sie helfen nicht nur bei Thrombosen, sondern reduzieren auch das unangenehme Anschwellen der Beine. Apotheken beraten dazu gut.
 
-Dazu kommen: ausreichend trinken (mindestens alle zwei Stunden ein Glas Wasser), regelmäßig aufstehen und durch die Kabine laufen, und Alkohol im Flieger eher meiden. Wer schlecht schläft, sollte über Business Class oder Lie-Flat-Seats nachdenken. Das ist keine Extravaganz, sondern beim ersten Longhaul nach der Pensionierung vielleicht genau richtig. Mehr dazu in unserem Guide zu [Business Class: Wann es sich lohnt](/blog/business-class).
+Dazu kommen: ausreichend trinken (mindestens alle zwei Stunden ein Glas Wasser), regelmäßig aufstehen und durch die Kabine laufen, und Alkohol im Flieger eher meiden. Wer schlecht schläft, sollte über Business Class oder Lie-Flat-Seats nachdenken. Das ist keine Extravaganz, sondern beim ersten Longhaul nach der Pensionierung vielleicht genau richtig. Mehr dazu in unserem Guide zu [Business Class: Wann es sich lohnt](/blog/business-class/).
 
-Jetlag trifft ältere Reisende oft intensiver. Unser Artikel zu [Jetlag schnell überwinden](/blog/jetlag-schnell-ueberwinden) erklärt, was wirklich hilft.
+Jetlag trifft ältere Reisende oft intensiver. Unser Artikel zu [Jetlag schnell überwinden](/blog/jetlag-schnell-ueberwinden/) erklärt, was wirklich hilft.
 
 ## Welche Reiseziele sind besonders gut für Ü60?
 
 Es kommt natürlich darauf an, was du magst. Aber ein paar Ziele empfehlen sich aus verschiedenen Gründen besonders:
 
-**Portugal** ist flach, sicher, günstig und hat ein hervorragendes Gesundheitssystem. Lissabon und Porto sind gut zu Fuß erkundbar, die Algarve für Strandurlaub ideal. **Japan** überrascht viele: Perfekte Infrastruktur, extrem sicher, kein Massentourismus in den ruhigeren Regionen, und das Land ist für Menschen jeden Alters gut zugänglich. **Neuseeland** ist weit, aber das Preis-Leistungs-Verhältnis und die Natur entschädigen. **Wien** ist für Kulturreisen unschlagbar, mehr dazu in unserem Artikel [Wo übernachten in Wien](/blog/wo-uebernachten-wien).
+**Portugal** ist flach, sicher, günstig und hat ein hervorragendes Gesundheitssystem. Lissabon und Porto sind gut zu Fuß erkundbar, die Algarve für Strandurlaub ideal. **Japan** überrascht viele: Perfekte Infrastruktur, extrem sicher, kein Massentourismus in den ruhigeren Regionen, und das Land ist für Menschen jeden Alters gut zugänglich. **Neuseeland** ist weit, aber das Preis-Leistungs-Verhältnis und die Natur entschädigen. **Wien** ist für Kulturreisen unschlagbar, mehr dazu in unserem Artikel [Wo übernachten in Wien](/blog/wo-uebernachten-wien/).
 
 Wer gesundheitlich eingeschränkt ist, sollte barrierefreie Hotels oder Kreuzfahrten in Betracht ziehen. Moderne Kreuzfahrtschiffe bieten hervorragende Barrierefreiheit, medizinisches Personal an Bord und die Möglichkeit, viele Länder ohne Koffer-Schleppen zu sehen. Der Nachteil: Du siehst Hafenstädte oft nur für ein paar Stunden. Wer tiefer eintauchen will, ist mit der Individualreise besser bedient.
 
@@ -74,6 +74,6 @@ Booking.com und Airbnb haben Filter für barrierefreie Unterkünfte. Für Destin
 
 Mehr lesen:
 
-- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich)
-- [Business Class: Wann es sich lohnt](/blog/business-class)
-- [Jetlag schnell überwinden](/blog/jetlag-schnell-ueberwinden)
+- [Reiseversicherung: Was lohnt sich wirklich](/blog/reiseversicherung-was-lohnt-sich/)
+- [Business Class: Wann es sich lohnt](/blog/business-class/)
+- [Jetlag schnell überwinden](/blog/jetlag-schnell-ueberwinden/)

@@ -77,6 +77,6 @@ Die Mezquita-Catedral (Ticket im Voraus kaufen!), die Gassen von La Judería, de
 
 ## Mehr lesen
 
-- [Wo übernachten in Sevilla](/blog/wo-uebernachten-sevilla)
-- [Wo übernachten in Granada](/blog/wo-uebernachten-granada)
-- [Wo übernachten in Madrid](/blog/wo-uebernachten-madrid)
+- [Wo übernachten in Sevilla](/blog/wo-uebernachten-sevilla/)
+- [Wo übernachten in Granada](/blog/wo-uebernachten-granada/)
+- [Wo übernachten in Madrid](/blog/wo-uebernachten-madrid/)

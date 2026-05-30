@@ -67,17 +67,17 @@ Manly tiene buen fish and chips en la playa y bares tranquilos por el Corso. Par
 
 ## ¿Dónde alojarse en Sídney?
 
-El centro cerca de Circular Quay es caro y no siempre el mejor punto de partida. Surry Hills y Darlinghurst ofrecen mejor relación calidad-precio, mejor acceso a la gastronomía y buenas conexiones de transporte. Bondi es ideal si la playa es la prioridad, pero añade tiempo de viaje al puerto. En [Booking.com](https://www.booking.com/searchresults.html?ss=Sydney) encuentras todas las opciones con vista de mapa y filtros por barrio. Para un viaje más largo, nuestro artículo sobre la [ruta completa por Australia](/es/blog/australia-ruta-completa) cubre Sídney como base para itinerarios de varias semanas.
+El centro cerca de Circular Quay es caro y no siempre el mejor punto de partida. Surry Hills y Darlinghurst ofrecen mejor relación calidad-precio, mejor acceso a la gastronomía y buenas conexiones de transporte. Bondi es ideal si la playa es la prioridad, pero añade tiempo de viaje al puerto. En [Booking.com](https://www.booking.com/searchresults.html?ss=Sydney) encuentras todas las opciones con vista de mapa y filtros por barrio. Para un viaje más largo, nuestro artículo sobre la [ruta completa por Australia](/es/blog/australia-ruta-completa/) cubre Sídney como base para itinerarios de varias semanas.
 
 ## ¿Cuánto cuesta un fin de semana en Sídney?
 
-Sídney es cara. Sin sorpresas. BridgeClimb: 200 a 500 AUD. Pylon Lookout: 22 AUD. Paso peatonal por el puente: gratuito. Almuerzo en el Fish Market: 25 a 40 AUD. Ferry a Manly: 9 AUD. Cena en Surry Hills: 50 a 80 AUD por persona. El transporte público con tarjeta Opal es asequible y funciona bien. Reservar los vuelos con antelación marca una diferencia importante, sobre todo desde Europa o América Latina. Nuestro artículo sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos) tiene los números reales para rutas de largo recorrido.
+Sídney es cara. Sin sorpresas. BridgeClimb: 200 a 500 AUD. Pylon Lookout: 22 AUD. Paso peatonal por el puente: gratuito. Almuerzo en el Fish Market: 25 a 40 AUD. Ferry a Manly: 9 AUD. Cena en Surry Hills: 50 a 80 AUD por persona. El transporte público con tarjeta Opal es asequible y funciona bien. Reservar los vuelos con antelación marca una diferencia importante, sobre todo desde Europa o América Latina. Nuestro artículo sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) tiene los números reales para rutas de largo recorrido.
 
 La web oficial del [turismo de Sídney](https://www.sydney.com) tiene horarios actualizados, entradas y eventos para todo lo que aparece en esta guía.
 
 Zercy busca tu vuelo a Sídney y el hotel adecuado en un solo paso. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo a mano cuando reserves.
 
-Si el viaje es largo, consulta también nuestra guía sobre [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena). Australia está lejos, y una conexión cancelada o una visita al hospital sin cobertura puede salir muy caro.
+Si el viaje es largo, consulta también nuestra guía sobre [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/). Australia está lejos, y una conexión cancelada o una visita al hospital sin cobertura puede salir muy caro.
 
 ---
 
@@ -102,6 +102,6 @@ El BridgeClimb oficial cuesta entre 198 y 498 AUD por persona según el recorrid
 ---
 
 **Más artículos:**
-- [Australia: ruta completa de 3 a 6 semanas](/es/blog/australia-ruta-completa)
-- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena)
-- [Cuándo reservar vuelos: la guía honesta](/es/blog/cuando-reservar-vuelos)
+- [Australia: ruta completa de 3 a 6 semanas](/es/blog/australia-ruta-completa/)
+- [Seguro de viaje: ¿vale la pena en 2026?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Cuándo reservar vuelos: la guía honesta](/es/blog/cuando-reservar-vuelos/)

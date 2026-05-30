@@ -101,6 +101,6 @@ Masai Mara (Kenia) und Serengeti (Tansania) sind Teil desselben Ökosystems, nur
 ---
 
 **Mehr lesen:**
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Wo übernachten in Nairobi: Stadtteile und Hotels](/blog/wo-uebernachten-nairobi)
-- [Reisefotografie-Tipps: Bessere Fotos auf Reisen](/blog/reisefotografie-tipps)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Wo übernachten in Nairobi: Stadtteile und Hotels](/blog/wo-uebernachten-nairobi/)
+- [Reisefotografie-Tipps: Bessere Fotos auf Reisen](/blog/reisefotografie-tipps/)

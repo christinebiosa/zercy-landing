@@ -10,7 +10,7 @@ heroImage: "/img/blog/usa-national-parks.jpg"
 
 The US has over 400 national parks. Only eight of them get photographed so often that everyone knows them. But even among the famous ones, there are huge differences: in experience, in the best time to visit, in entrance fees. This guide cuts through the noise so you can start planning right away.
 
-For a good starting point, check out our [US West Coast road trip guide](/en/blog/us-west-coast-road-trip), since many top parks sit directly along classic driving routes.
+For a good starting point, check out our [US West Coast road trip guide](/en/blog/us-west-coast-road-trip/), since many top parks sit directly along classic driving routes.
 
 ## What does it actually cost to visit US national parks?
 
@@ -28,7 +28,7 @@ One detail: the pass covers one vehicle at parks with a per-vehicle fee. At park
 
 **Yosemite (California)** shows El Capitan and Half Dome from nearly everywhere in the valley on a clear day. From April through October, an entry reservation is required. No reservation means no car access. Check details at [nps.gov/yose](https://www.nps.gov/yose).
 
-**Zion (Utah)** has the tightest, most dramatic canyon in the US: The Narrows. Hiking through the Virgin River up to your knees in water. Shuttle system in summer, private cars only at the main trailheads. Those exploring Utah often connect it with routes covered in the [Route 66 road trip guide](/en/blog/route-66-usa-road-trip).
+**Zion (Utah)** has the tightest, most dramatic canyon in the US: The Narrows. Hiking through the Virgin River up to your knees in water. Shuttle system in summer, private cars only at the main trailheads. Those exploring Utah often connect it with routes covered in the [Route 66 road trip guide](/en/blog/route-66-usa-road-trip/).
 
 **Great Smoky Mountains (Tennessee/North Carolina)** is free. No entrance fee. That makes it the most visited national park in the US. Best foliage in October, mist in the mountains nearly every spring morning.
 
@@ -52,7 +52,7 @@ Through [recreation.gov](https://www.recreation.gov). Nearly all official campgr
 
 Booking windows typically open 6 months in advance to the day, at 10am Eastern Time. Popular sites in Yosemite Valley or Zion go in minutes. Set a calendar alert, log in on time.
 
-Alternatively, first-come-first-served sites work outside of peak season. Less predictable, but great for spontaneous trips. For driving between parks, a well-organized [rental car checklist](/en/blog/rental-car-checklist) helps a lot on long stretches.
+Alternatively, first-come-first-served sites work outside of peak season. Less predictable, but great for spontaneous trips. For driving between parks, a well-organized [rental car checklist](/en/blog/rental-car-checklist/) helps a lot on long stretches.
 
 If camping isn't for you, lodges inside the parks range from rustic to comfortable. Prices from around 120 dollars, availability usually bookable 12 months out.
 
@@ -93,6 +93,6 @@ Great Smoky Mountains is free, well-developed, and has trails for every fitness 
 ---
 
 **Read more:**
-- [US West Coast Road Trip: The Complete Route](/en/blog/us-west-coast-road-trip)
-- [Route 66 USA Road Trip: What You Need to Know](/en/blog/route-66-usa-road-trip)
-- [Rental Car Checklist for the USA](/en/blog/rental-car-checklist)
+- [US West Coast Road Trip: The Complete Route](/en/blog/us-west-coast-road-trip/)
+- [Route 66 USA Road Trip: What You Need to Know](/en/blog/route-66-usa-road-trip/)
+- [Rental Car Checklist for the USA](/en/blog/rental-car-checklist/)

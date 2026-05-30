@@ -99,6 +99,6 @@ Der Camino ist einer der sichersten Wege der Welt für Alleinreisende. Die Pilge
 ---
 
 **Mehr lesen:**
-- [Packliste für Trekking und Wanderreisen](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [Digital Detox im Urlaub: Wie du wirklich abschaltest](/blog/digital-detox-urlaub-guide)
-- [Europa Roadtrip: Die besten Routen für unabhängige Reisende](/blog/balkan-roadtrip-route)
+- [Packliste für Trekking und Wanderreisen](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [Digital Detox im Urlaub: Wie du wirklich abschaltest](/blog/digital-detox-urlaub-guide/)
+- [Europa Roadtrip: Die besten Routen für unabhängige Reisende](/blog/balkan-roadtrip-route/)

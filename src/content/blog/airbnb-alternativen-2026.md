@@ -20,7 +20,7 @@ Host-Stornierungen sind ein zweites Problem. Airbnb-Gastgeber können Buchungen 
 
 Und dann die Qualitätsschwankungen. Fotos sind optimiert. Beschreibungen überzeugend. Aber was dich erwartet, kann sehr verschieden sein.
 
-Lies dazu auch unseren [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich), der zeigt, wann Airbnb wirklich gewinnt und wann nicht.
+Lies dazu auch unseren [Airbnb vs. Hotel Vergleich](/blog/airbnb-vs-hotel-vergleich/), der zeigt, wann Airbnb wirklich gewinnt und wann nicht.
 
 ## Welche Alternative passt zu deiner Reise?
 
@@ -42,7 +42,7 @@ Ein weiterer Vorteil: Auf VRBO buchst du direkt beim Eigentümer. Der persönlic
 
 Die Plattform-Gebühren bei VRBO sind ähnlich wie bei Airbnb, manchmal etwas niedriger. Aber das Angebot in Europa ist schmaler. Für eine Ferienwohnung in Lissabon oder Wien ist Booking.com die stärkere Alternative.
 
-Falls du ein Mietauto brauchst, lies auch unseren [Mietwagen-Guide](/blog/mietwagen-check) für gute Startpreise bei größeren Unterkünften außerhalb der Stadt.
+Falls du ein Mietauto brauchst, lies auch unseren [Mietwagen-Guide](/blog/mietwagen-check/) für gute Startpreise bei größeren Unterkünften außerhalb der Stadt.
 
 ## Wie funktioniert Booking.com als Airbnb-Alternative?
 
@@ -56,7 +56,7 @@ Keine bösen Überraschungen beim Endpreis. Booking.com zeigt Gesamtpreise trans
 
 Freie Stornierung durch den Host ist seltener, weil Booking.com strengere Richtlinien hat.
 
-Ideal für: Städtereisen in Europa, kurze Aufenthalte, alle die Wert auf flexible Storno legen. Mehr dazu in unserem Artikel [Booking.com vs. Direktbuchung](/blog/booking-vs-direkt-buchen).
+Ideal für: Städtereisen in Europa, kurze Aufenthalte, alle die Wert auf flexible Storno legen. Mehr dazu in unserem Artikel [Booking.com vs. Direktbuchung](/blog/booking-vs-direkt-buchen/).
 
 ## Was ist Plum Guide und lohnt es sich?
 
@@ -78,7 +78,7 @@ Wie findest du die direkte Website? Oft steht der Name der Unterkunft in den Fot
 
 Der Nachteil: Du verlierst den Airbnb-Kundenschutz. Wenn etwas schiefläuft, bist du auf den Host angewiesen. Für bekannte, gut bewertete Hosts mit vielen Reviews ist das kein Problem. Für erste Buchungen ohne Bewertungen eher riskant.
 
-Für mehr Budget-Tipps lies unseren Artikel [Günstig buchen: wie Hotels wirklich funktionieren](/blog/hotel-guenstiger-buchen-tipps).
+Für mehr Budget-Tipps lies unseren Artikel [Günstig buchen: wie Hotels wirklich funktionieren](/blog/hotel-guenstiger-buchen-tipps/).
 
 ## Wann ist Airbnb trotzdem die beste Wahl?
 
@@ -117,6 +117,6 @@ Viele Airbnb-Hosts haben eigene Websites. Suche den Namen der Unterkunft direkt 
 ---
 
 Mehr lesen:
-- [Airbnb vs. Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
-- [Booking.com vs. direkt buchen: Was ist günstiger?](/blog/booking-vs-direkt-buchen)
-- [Wann Flüge buchen: So sparst du am meisten](/blog/wann-fluege-buchen)
+- [Airbnb vs. Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich/)
+- [Booking.com vs. direkt buchen: Was ist günstiger?](/blog/booking-vs-direkt-buchen/)
+- [Wann Flüge buchen: So sparst du am meisten](/blog/wann-fluege-buchen/)

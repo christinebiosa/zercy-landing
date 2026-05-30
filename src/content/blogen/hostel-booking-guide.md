@@ -34,13 +34,13 @@ The average score matters less than you think. The difference between an 8.0 and
 
 **Location vs. atmosphere:** These two categories can contradict each other. A hostel can be perfectly located and socially dead. Or it can be 20 minutes from the center but have a genuinely lively community. Decide which matters more to you.
 
-For packing tips that make hostel life easier, the [carry-on only guide](/en/blog/carry-on-only) covers what you actually need for backpacker-style travel.
+For packing tips that make hostel life easier, the [carry-on only guide](/en/blog/carry-on-only/) covers what you actually need for backpacker-style travel.
 
 ## What do hostels cost around the world?
 
 The range is wider than most people expect.
 
-**Asia:** Cheapest markets. Vietnam: dorm bed for $3 to $8. Thailand: $5 to $15. Indonesia (Bali): $7 to $18 in Kuta, more in Canggu. Japan is the exception: Tokyo capsule hotels (adjacent category to hostels) run $25 to $45. The [where to stay in Bangkok guide](/en/blog/where-to-stay-bangkok) also covers hostel options by neighborhood.
+**Asia:** Cheapest markets. Vietnam: dorm bed for $3 to $8. Thailand: $5 to $15. Indonesia (Bali): $7 to $18 in Kuta, more in Canggu. Japan is the exception: Tokyo capsule hotels (adjacent category to hostels) run $25 to $45. The [where to stay in Bangkok guide](/en/blog/where-to-stay-bangkok/) also covers hostel options by neighborhood.
 
 **Latin America:** Highly variable. Peru (Cusco, Lima): $6 to $14 per bed. Argentina: fluctuates with the exchange rate, typically $8 to $18. Colombia (Medellin, Bogota): $7 to $15.
 
@@ -68,7 +68,7 @@ For solo travelers: hostels are genuinely one of the best environments for meeti
 
 A hostel makes sense when you are flexible, value social connection, or are in a city where hotel prices are disproportionate (Western Europe, USA, Japan).
 
-A hotel beats the hostel when you need rest after a long stretch of travel, when you are traveling with a partner or family (private hostel room vs. budget hotel: often similar price), or when your next move involves networking or business. The [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison) goes deeper into this decision.
+A hotel beats the hostel when you need rest after a long stretch of travel, when you are traveling with a partner or family (private hostel room vs. budget hotel: often similar price), or when your next move involves networking or business. The [Airbnb vs hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) goes deeper into this decision.
 
 Many hostels offer private rooms. This is the sweet spot: hostel atmosphere, communal kitchen, social spaces, but your own room with a locking door. Often cheaper than an equivalent hotel in the same neighborhood.
 
@@ -100,6 +100,6 @@ Thailand and Vietnam dominate value-for-money rankings. Hostelworld gives out an
 
 Read more:
 
-- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only)
-- [Airbnb vs Hotel: What Works When](/en/blog/airbnb-vs-hotel-comparison)
-- [Travel on a Tight Budget: The Best Tips](/en/blog/travel-tight-budget-tips)
+- [Carry-On Only: The Complete Guide](/en/blog/carry-on-only/)
+- [Airbnb vs Hotel: What Works When](/en/blog/airbnb-vs-hotel-comparison/)
+- [Travel on a Tight Budget: The Best Tips](/en/blog/travel-tight-budget-tips/)

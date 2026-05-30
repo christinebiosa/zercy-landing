@@ -82,6 +82,6 @@ Porque rodea la isla entera siguiendo aproximadamente la costa. La Route 1 no es
 ---
 
 **Más para leer:**
-- [Auroras boreales 2026: dónde y cuándo verlas](/es/blog/auroras-boreales-2026)
-- [Islas Feroe: la guía para el destino más fotogénico del Atlántico Norte](/es/blog/islas-feroe-guia)
-- [Patagonia en 3 semanas: la ruta completa](/es/blog/patagonia-3-semanas-ruta)
+- [Auroras boreales 2026: dónde y cuándo verlas](/es/blog/auroras-boreales-2026/)
+- [Islas Feroe: la guía para el destino más fotogénico del Atlántico Norte](/es/blog/islas-feroe-guia/)
+- [Patagonia en 3 semanas: la ruta completa](/es/blog/patagonia-3-semanas-ruta/)

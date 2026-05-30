@@ -55,7 +55,7 @@ Graz ist eine Vier-Jahreszeiten-Stadt mit klaren Peakzeiten. Mai und Juni sind p
 
 **Frühling und Herbst:** Beste Zeit. Angenehme Temperaturen, Veranstaltungen, günstigere Preise.
 
-Für einen [Balkanroadtrip](/blog/balkan-roadtrip-route) ist Graz ein idealer Einstiegsort Richtung Slowenien oder Kroatien.
+Für einen [Balkanroadtrip](/blog/balkan-roadtrip-route/) ist Graz ein idealer Einstiegsort Richtung Slowenien oder Kroatien.
 
 ## Lend: Das kreative Graz
 
@@ -77,7 +77,7 @@ Zwischen Geidorf und Altstadt. Viele Grünflächen, Stadtpark direkt nebenan, St
 
 **Top-Picks:** Schlossberg Hotel (Panoramablick auf Altstadt), Hotel Steirerhof (klassisch steirisch), Aparthotel St. Leonhard.
 
-Graz ist außerdem eine ideale Basis für Ausflüge ins steirische Weinland oder nach [Slowenien](/blog/slowenien-geheimnis-2026). Ljubljana ist nur 90 Minuten entfernt.
+Graz ist außerdem eine ideale Basis für Ausflüge ins steirische Weinland oder nach [Slowenien](/blog/slowenien-geheimnis-2026/). Ljubljana ist nur 90 Minuten entfernt.
 
 ## Wo solltest du am Ende buchen?
 
@@ -89,7 +89,7 @@ Für Graz ist [Booking.com](https://www.booking.com) die erste Adresse:
 - Kostenloser Storno als Standard, gut für Wet-Weather-Risiko
 - Klare Endpreise inklusive Kurtaxe (1,50 Euro/Nacht in Graz)
 
-Für [Wien](/blog/wo-uebernachten-wien) oder [Salzburg](/blog/wo-uebernachten-salzburg) gilt dasselbe Prinzip.
+Für [Wien](/blog/wo-uebernachten-wien/) oder [Salzburg](/blog/wo-uebernachten-salzburg/) gilt dasselbe Prinzip.
 
 ---
 
@@ -116,6 +116,6 @@ Schlossberg-Uhr und Blick über die roten Dächer, Kunsthaus Graz ("Friendly Ali
 ---
 
 ## Mehr lesen
-- [Wo übernachten in Wien: Die besten Bezirke](/blog/wo-uebernachten-wien)
-- [Wo übernachten in Salzburg: Altstadt oder Nonntal?](/blog/wo-uebernachten-salzburg)
-- [Slowenien 2026: Das grüne Geheimnis Europas](/blog/slowenien-geheimnis-2026)
+- [Wo übernachten in Wien: Die besten Bezirke](/blog/wo-uebernachten-wien/)
+- [Wo übernachten in Salzburg: Altstadt oder Nonntal?](/blog/wo-uebernachten-salzburg/)
+- [Slowenien 2026: Das grüne Geheimnis Europas](/blog/slowenien-geheimnis-2026/)

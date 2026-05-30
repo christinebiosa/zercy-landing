@@ -29,7 +29,7 @@ In the afternoon, head to Le Marais. Start at the **Place des Vosges**, the olde
 
 Spend the evening in Saint-Germain-des-Prés. Sartre and de Beauvoir no longer order at Café de Flore or Les Deux Magots, but the atmosphere is genuine. One drink, not more. Dinner afterward in the Rue de Buci where the restaurants are solid and the prices are still reasonable.
 
-For where to sleep, our guide on [where to stay in Paris](/en/blog/where-to-stay-paris) covers neighborhoods by budget and travel style.
+For where to sleep, our guide on [where to stay in Paris](/en/blog/where-to-stay-paris/) covers neighborhoods by budget and travel style.
 
 ## Day 2: Eiffel Tower or Musée d'Orsay, Palais Royal, Montmartre
 
@@ -43,13 +43,13 @@ In the afternoon, the **Palais Royal** is one of the most underrated public spac
 
 The evening belongs to Montmartre. The climb to Sacré-Coeur at sunset is touristy, and the view is real anyway. Rue Lepic has bakeries and wine shops that feel like the actual neighborhood. The Place du Tertre with the street artists is a carnival during the day, but at night it has a strange, defiant energy that makes it worth staying.
 
-Check our comparison of [trains vs. planes to Paris](/en/blog/train-vs-plane-europe-2026) before you book your transport. The train wins from more cities than most people expect.
+Check our comparison of [trains vs. planes to Paris](/en/blog/train-vs-plane-europe-2026/) before you book your transport. The train wins from more cities than most people expect.
 
 ## Where to Stay for a Paris Weekend?
 
 Le Marais and Saint-Germain are central, convenient, and expensive. For better value, look at Bastille, Oberkampf, or République. These neighborhoods have solid metro connections and feel like real Paris rather than a tourist corridor. Booking.com lets you filter by neighborhood once you have a budget in mind.
 
-For specific hotel picks and a breakdown of which neighborhood suits which kind of trip, the [where to stay in Paris guide](/en/blog/where-to-stay-paris) has everything you need.
+For specific hotel picks and a breakdown of which neighborhood suits which kind of trip, the [where to stay in Paris guide](/en/blog/where-to-stay-paris/) has everything you need.
 
 ## What Does a Paris Weekend Actually Cost?
 
@@ -63,7 +63,7 @@ Entry: Sainte-Chapelle around 13 euros. Musée d'Orsay around 16 euros. Eiffel T
 
 Everything together, excluding flights and accommodation: 120 to 200 euros per person for two days is realistic.
 
-For cutting flight costs, the [airport hacks guide](/en/blog/airport-hacks) is worth reading before you book.
+For cutting flight costs, the [airport hacks guide](/en/blog/airport-hacks/) is worth reading before you book.
 
 ## When Is Paris at Its Best?
 
@@ -98,6 +98,6 @@ Le Marais, Saint-Germain-des-Prés, and Montmartre are the best fit for a short 
 ---
 
 **Read more:**
-- [Where to Stay in Paris: Neighborhood Guide with Hotel Picks](/en/blog/where-to-stay-paris)
-- [Train vs. Plane Europe 2026: When the Train Wins](/en/blog/train-vs-plane-europe-2026)
-- [Airport Hacks: Save Time and Money at Every Airport](/en/blog/airport-hacks)
+- [Where to Stay in Paris: Neighborhood Guide with Hotel Picks](/en/blog/where-to-stay-paris/)
+- [Train vs. Plane Europe 2026: When the Train Wins](/en/blog/train-vs-plane-europe-2026/)
+- [Airport Hacks: Save Time and Money at Every Airport](/en/blog/airport-hacks/)

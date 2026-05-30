@@ -30,7 +30,7 @@ La indemnización depende de la distancia del vuelo:
 
 Importante: el retraso se mide en el destino final, no en el aeropuerto de salida. Si el vuelo sale con dos horas de retraso pero aterriza a tiempo, no hay derecho a compensación.
 
-Si viajas con escalas y quieres entender mejor cómo estructurar tu itinerario, nuestros [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos) también te ayudan a tomar decisiones con mayor seguridad jurídica.
+Si viajas con escalas y quieres entender mejor cómo estructurar tu itinerario, nuestros [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) también te ayudan a tomar decisiones con mayor seguridad jurídica.
 
 ## ¿Cuándo no está obligada a pagar la aerolínea?
 
@@ -56,7 +56,7 @@ Si hay **pernocta**: alojamiento en hotel y transporte entre el aeropuerto y el 
 
 Reclámalo de forma activa. Si la aerolínea no lo ofrece, acércate al mostrador de información y pide los vales. Guarda los recibos de cualquier gasto que hagas por tu cuenta. Puedes pedir el reembolso después.
 
-Para más estrategias en el aeropuerto, consulta nuestra guía de [trucos para el aeropuerto](/es/blog/trucos-aeropuerto). Y si te preguntas si [un seguro de viaje vale la pena](/es/blog/seguro-viaje-vale-la-pena), los retrasos son uno de los motivos principales por los que suele merecer la inversión.
+Para más estrategias en el aeropuerto, consulta nuestra guía de [trucos para el aeropuerto](/es/blog/trucos-aeropuerto/). Y si te preguntas si [un seguro de viaje vale la pena](/es/blog/seguro-viaje-vale-la-pena/), los retrasos son uno de los motivos principales por los que suele merecer la inversión.
 
 ## ¿Cómo consigues el dinero de verdad?
 
@@ -70,7 +70,7 @@ Servicios como **[AirHelp](https://www.airhelp.com/es/)** gestionan todo el proc
 
 El plazo de prescripción varía según el país. En España son **3 años**. En la mayoría de países de la UE oscila entre 2 y 5 años. No esperes demasiado: guarda la tarjeta de embarque y la confirmación de reserva en un lugar accesible.
 
-También puedes consultar [tus derechos adicionales en caso de retrasos](/es/blog/retrasos-vuelo-derechos) para entender qué más puedes exigir más allá de la compensación económica.
+También puedes consultar [tus derechos adicionales en caso de retrasos](/es/blog/retrasos-vuelo-derechos/) para entender qué más puedes exigir más allá de la compensación económica.
 
 ---
 
@@ -97,6 +97,6 @@ Responde por escrito con tus argumentos. Luego escala al organismo nacional de s
 Planifica con más tranquilidad desde el principio. Zercy te ayuda a comparar vuelos y tomar mejores decisiones de viaje antes de que todo se complique en la puerta de embarque. [Empieza a planificar en zercy.app](https://www.zercy.app/logbook)
 
 **Más artículos:**
-- [Trucos para el aeropuerto](/es/blog/trucos-aeropuerto)
-- [¿Vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena)
-- [Consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos)
+- [Trucos para el aeropuerto](/es/blog/trucos-aeropuerto/)
+- [¿Vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/)

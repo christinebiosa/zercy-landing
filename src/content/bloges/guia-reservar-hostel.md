@@ -50,7 +50,7 @@ Para viajes a ciudades de gran demanda, las plataformas [Hostelworld](https://ww
 
 **Reservation directa.** Muchos hostels tienen web propia y precios iguales o mejores que las plataformas. Si ya tienes claro el hostel, comprueba siempre su web antes de confirmar en la plataforma.
 
-Una búsqueda en Booking.com para comparar hostels en tu próximo destino con la guía de [dónde alojarse en Medellín](/es/blog/donde-alojarse-medellin) te da una imagen completa del mercado de alojamiento en ciudades latinoamericanas donde los hostels tienen mucha presencia.
+Una búsqueda en Booking.com para comparar hostels en tu próximo destino con la guía de [dónde alojarse en Medellín](/es/blog/donde-alojarse-medellin/) te da una imagen completa del mercado de alojamiento en ciudades latinoamericanas donde los hostels tienen mucha presencia.
 
 Si tu próximo viaje combina varios destinos, organiza las reservas en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo centralizado y no perder ninguna confirmación.
 
@@ -77,6 +77,6 @@ En destinos de alta demanda durante temporada alta (Bangkok en noviembre-febrero
 ---
 
 **Leer más:**
-- [Dónde alojarse en Cartagena: los mejores barrios](/es/blog/donde-alojarse-cartagena)
-- [Apartamento vs. hotel: ¿cuál elegir según el tipo de viaje?](/es/blog/airbnb-experiences-vale-la-pena)
-- [Viaje inteligente: las mejores apps que funcionan sin internet](/es/blog/mejores-apps-viaje-sin-internet)
+- [Dónde alojarse en Cartagena: los mejores barrios](/es/blog/donde-alojarse-cartagena/)
+- [Apartamento vs. hotel: ¿cuál elegir según el tipo de viaje?](/es/blog/airbnb-experiences-vale-la-pena/)
+- [Viaje inteligente: las mejores apps que funcionan sin internet](/es/blog/mejores-apps-viaje-sin-internet/)

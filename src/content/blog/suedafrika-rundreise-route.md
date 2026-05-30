@@ -84,6 +84,6 @@ Budget-Trip (eigene Fahrt, einfache Unterkünfte, Selbstverpflegung): ab 2.500 E
 ---
 
 **Mehr lesen:**
-- [Safari in Ostafrika: Der ehrliche Planungs-Guide](/blog/safari-ostafrika-guide)
-- [Australien Rundreise: Die beste Route](/blog/australien-rundreise-route)
-- [Reiseversicherung: Was sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich)
+- [Safari in Ostafrika: Der ehrliche Planungs-Guide](/blog/safari-ostafrika-guide/)
+- [Australien Rundreise: Die beste Route](/blog/australien-rundreise-route/)
+- [Reiseversicherung: Was sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/)

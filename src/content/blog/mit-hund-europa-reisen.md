@@ -23,7 +23,7 @@ Drei Pflicht-Dokumente und eine Empfehlung.
 
 **Mikrochip.** Pflicht in der gesamten EU. Wird beim Tierarzt eingesetzt, ein Mal im Hundeleben. Etwa 30 Euro.
 
-**Empfehlung: Reisekrankenversicherung für den Hund.** Behandlungen im Ausland sind oft teuer. Eine Tier-OP in Italien kann 2.000 Euro kosten. Versicherungen kosten 100-300 Euro pro Jahr. Lies dazu auch unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich).
+**Empfehlung: Reisekrankenversicherung für den Hund.** Behandlungen im Ausland sind oft teuer. Eine Tier-OP in Italien kann 2.000 Euro kosten. Versicherungen kosten 100-300 Euro pro Jahr. Lies dazu auch unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 ## Welches Verkehrsmittel ist am hundefreundlichsten?
 
@@ -31,7 +31,7 @@ Drei Optionen mit klaren Vor- und Nachteilen.
 
 **Auto.** Die einfachste Wahl. Hund in Box oder mit Sicherheitsgurt, regelmäßige Pausen alle 2 Stunden. Vorteil: maximale Flexibilität, eigene Pausen, kein Stress. Nachteil: lange Strecken anstrengend für Hund und Halter.
 
-**Bahn.** Sehr hundefreundlich in vielen europäischen Ländern. Deutschland: Hund kostet 50 Prozent eines Erwachsenentickets. Schweiz und Österreich: ähnlich. Italien: Maulkorb plus Leine vorgeschrieben. Lies dazu unseren [Zugreisen-in-Europa-Guide](/blog/zugreisen-europa).
+**Bahn.** Sehr hundefreundlich in vielen europäischen Ländern. Deutschland: Hund kostet 50 Prozent eines Erwachsenentickets. Schweiz und Österreich: ähnlich. Italien: Maulkorb plus Leine vorgeschrieben. Lies dazu unseren [Zugreisen-in-Europa-Guide](/blog/zugreisen-europa/).
 
 **Flug.** Komplizierteste Option. Kleine Hunde (unter 8 kg) können in der Kabine in einer Transportbox. Größere müssen in den Frachtraum (klimatisiert, druckkontrolliert, aber stressig). Kosten 50-300 Euro je nach Airline. Nur für längere Strecken (Spanien, Portugal) sinnvoll.
 
@@ -59,7 +59,7 @@ Drei Strategien für stressfreie Buchung.
 
 **Booking.com mit Hunde-Filter.** Bei der Suche "Haustiere erlaubt" als Filter. Zeigt nur tatsächlich hundefreundliche Hotels mit klaren Bedingungen (max 1 Hund, Größe, Aufpreis pro Nacht). Empfehlung: vor Buchung das Hotel direkt anrufen für Details.
 
-**AirBnB mit "Pet-friendly".** Größere Auswahl als Hotels, vor allem Ferienhäuser. Klärt vorab im Chat ob der Garten eingezäunt ist und welche Regeln gelten. Lies dazu unseren [AirBnB vs Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich).
+**AirBnB mit "Pet-friendly".** Größere Auswahl als Hotels, vor allem Ferienhäuser. Klärt vorab im Chat ob der Garten eingezäunt ist und welche Regeln gelten. Lies dazu unseren [AirBnB vs Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich/).
 
 **Spezialisierte Plattformen.** Bringfido (international) und Travelpets.de listen ausschließlich hundefreundliche Unterkünfte mit detaillierten Hunde-Profilen. Kleinere Auswahl, aber dafür verlässlich.
 
@@ -92,6 +92,6 @@ Aufpreise: 10-30 Euro pro Nacht im Hotel, 50 Prozent des Erwachsenenpreises in d
 ---
 
 **Mehr lesen:**
-- [Reiseversicherung 2026: Was lohnt sich, was ist Quatsch?](/blog/reiseversicherung-was-lohnt-sich)
-- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa)
-- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich)
+- [Reiseversicherung 2026: Was lohnt sich, was ist Quatsch?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Zugreisen in Europa: Routen, Tipps und Apps](/blog/zugreisen-europa/)
+- [AirBnB vs Hotel: Was lohnt sich wirklich?](/blog/airbnb-vs-hotel-vergleich/)

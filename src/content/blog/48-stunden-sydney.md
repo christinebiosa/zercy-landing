@@ -67,17 +67,17 @@ Manly selbst hat gute Fisch & Chips am Strand und entspannte Bars auf der Corso.
 
 ## Wo übernachten in Sydney?
 
-Das Stadtzentrum nahe Circular Quay ist teuer und nicht immer das Lohnendste. Surry Hills und Darlinghurst sind günstiger, zentraler für die Gastronomie, und gut angebunden. Bondi ist ideal, wenn Strand Priorität hat, kostet aber extra Fahrtzeit. Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Sydney) findest du alle Optionen mit Kartenansicht und guten Stadtteil-Filtern. Mehr Details in unserem Guide zu [wo übernachten in Sydney](/blog/wo-uebernachten-sydney) oder, wenn du eine längere Reise planst, in unserer [Australien Rundreise Route](/blog/australien-rundreise-route).
+Das Stadtzentrum nahe Circular Quay ist teuer und nicht immer das Lohnendste. Surry Hills und Darlinghurst sind günstiger, zentraler für die Gastronomie, und gut angebunden. Bondi ist ideal, wenn Strand Priorität hat, kostet aber extra Fahrtzeit. Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Sydney) findest du alle Optionen mit Kartenansicht und guten Stadtteil-Filtern. Mehr Details in unserem Guide zu [wo übernachten in Sydney](/blog/wo-uebernachten-sydney/) oder, wenn du eine längere Reise planst, in unserer [Australien Rundreise Route](/blog/australien-rundreise-route/).
 
 ## Wie teuer ist ein Wochenende in Sydney?
 
-Sydney ist teuer. Das ist keine Überraschung, aber es gibt Spielraum. BridgeClimb: 200 bis 500 AUD. Fußweg über die Brücke: kostenlos. Fish Market Lunch: 25 bis 40 AUD. Manly Ferry: 9 AUD (einer der besten Deals der Stadt). Abendessen in Surry Hills: 50 bis 80 AUD pro Person. Öffentlicher Nahverkehr mit Opal Card ist günstig und funktioniert gut. Wer früh bucht, spart erheblich bei der Unterkunft. Ein Blick auf [wann Flüge buchen](/blog/wann-fluege-buchen) lohnt sich besonders für Langstreckenflüge nach Sydney.
+Sydney ist teuer. Das ist keine Überraschung, aber es gibt Spielraum. BridgeClimb: 200 bis 500 AUD. Fußweg über die Brücke: kostenlos. Fish Market Lunch: 25 bis 40 AUD. Manly Ferry: 9 AUD (einer der besten Deals der Stadt). Abendessen in Surry Hills: 50 bis 80 AUD pro Person. Öffentlicher Nahverkehr mit Opal Card ist günstig und funktioniert gut. Wer früh bucht, spart erheblich bei der Unterkunft. Ein Blick auf [wann Flüge buchen](/blog/wann-fluege-buchen/) lohnt sich besonders für Langstreckenflüge nach Sydney.
 
 Das offizielle [Sydney Tourismusportal](https://www.sydney.com) hat aktuelle Öffnungszeiten, Events und Ticketlinks für alle Sehenswürdigkeiten.
 
 Zercy findet deinen Flug nach Sydney und passende Hotels in einem Schritt. Speichere alles im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen nichts vergisst.
 
-Wenn du eine Reise mit mehr Sicherheit planst, schau dir auch unseren Leitfaden zur [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich) an. Australien ist weit, und ein abgebrochener Flug oder ein Krankenhausbesuch dort kostet ohne Versicherung empfindlich viel.
+Wenn du eine Reise mit mehr Sicherheit planst, schau dir auch unseren Leitfaden zur [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) an. Australien ist weit, und ein abgebrochener Flug oder ein Krankenhausbesuch dort kostet ohne Versicherung empfindlich viel.
 
 ---
 
@@ -102,6 +102,6 @@ Bondi ist ikonischer, voller und besser angebunden für den Coastal Walk. Manly 
 ---
 
 **Mehr lesen:**
-- [Australien Rundreise Route: 3 bis 6 Wochen perfekt planen](/blog/australien-rundreise-route)
-- [Reiseversicherung: Was sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich)
-- [Wann Flüge buchen: Der ehrliche Guide](/blog/wann-fluege-buchen)
+- [Australien Rundreise Route: 3 bis 6 Wochen perfekt planen](/blog/australien-rundreise-route/)
+- [Reiseversicherung: Was sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/)
+- [Wann Flüge buchen: Der ehrliche Guide](/blog/wann-fluege-buchen/)

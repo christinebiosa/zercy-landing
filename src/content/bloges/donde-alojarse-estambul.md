@@ -57,7 +57,7 @@ Los hoteles en Beyoğlu cuestan entre un 15 y un 30 % menos que en Sultanahmet p
 - **The Pera Hill Hotel** (boutique, barrio de Pera, aprox. 110 €)
 - **Vault Karaköy** (hotel de diseño, Karaköy, cerca de Gálata, aprox. 170 €)
 
-Para otras ciudades con buena relación calidad-precio, consulta también [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest) o [dónde alojarse en Múnich](/es/blog/donde-alojarse-munich).
+Para otras ciudades con buena relación calidad-precio, consulta también [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/) o [dónde alojarse en Múnich](/es/blog/donde-alojarse-munich/).
 
 ## Kadıköy: El lado asiático para exploradores
 
@@ -98,6 +98,6 @@ Santa Sofía y el Palacio de Topkapi: visítalos justo al abrir o a última hora
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest)
-- [Dónde alojarse en Múnich: de la Altstadt a Haidhausen](/es/blog/donde-alojarse-munich)
-- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini)
+- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest/)
+- [Dónde alojarse en Múnich: de la Altstadt a Haidhausen](/es/blog/donde-alojarse-munich/)
+- [Dónde alojarse en Santorini: los mejores pueblos 2026](/es/blog/donde-alojarse-santorini/)

@@ -33,7 +33,7 @@ Am unteren Ende des Luxus-Spektrums, aber trotzdem außergewöhnlich: der Bernin
 
 Der Glacier Express verbindet Zermatt und St. Moritz. 8 Stunden, 91 Tunnels, 291 Brücken. Auch hier: kein Vollservice-Luxus, aber eine der schönsten Zugstrecken der Welt.
 
-Mehr zur Entscheidung Zug vs. Flugzeug für Europastrecken findest du in unserem Artikel über [Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026).
+Mehr zur Entscheidung Zug vs. Flugzeug für Europastrecken findest du in unserem Artikel über [Bahn vs. Flieger in Europa 2026](/blog/bahn-vs-flieger-europa-2026/).
 
 ## Wann musst du buchen?
 
@@ -47,7 +47,7 @@ Konkret:
 
 Wer flexibel ist, kann manchmal auch kurzfristig buchen. Absagen gibt es. Aber auf die Traumkabine zählen solltest du dann nicht.
 
-Wenn du noch nicht weißt, ob du den Luxuszug kombinieren willst mit Business Class Flügen oder anderen Premium-Optionen: unser Artikel über [Business Class ohne Meilen](/blog/business-class-ohne-meilen) zeigt, wie das funktioniert.
+Wenn du noch nicht weißt, ob du den Luxuszug kombinieren willst mit Business Class Flügen oder anderen Premium-Optionen: unser Artikel über [Business Class ohne Meilen](/blog/business-class-ohne-meilen/) zeigt, wie das funktioniert.
 
 ## Ist ein Luxuszug ein guter Honeymoon-Trip?
 
@@ -57,7 +57,7 @@ Ein Luxuszug hat alles, was eine Hochzeitsreise braucht: Abgeschiedenheit, Roman
 
 Der VSOE hat eine eigene Hochzeitsroute. Der Transcantábrico eignet sich besonders für Paare, die Nord-Spanien erkunden wollen, ohne Auto zu fahren. Der Rocky Mountaineer ist ideal, wenn du Kanada auf der Reiseplanung hast.
 
-Mehr zum Thema Flitterwochenplanung in unserem [Honeymoon-Planungsguide](/blog/honeymoon-planung-guide).
+Mehr zum Thema Flitterwochenplanung in unserem [Honeymoon-Planungsguide](/blog/honeymoon-planung-guide/).
 
 ## FAQ: Luxuszüge
 
@@ -71,7 +71,7 @@ Für Hochsaisonstrecken des VSOE und Transcantábrico: 6 bis 12 Monate. Für Pan
 
 ### Was ist der Unterschied zwischen einem Luxuszug und einem normalen Nachtzug?
 
-Ein normaler [Nachtzug in Europa 2026](/blog/nachtzuege-europa-2026) ist Transportmittel mit Schlafabteil. Ein Luxuszug ist ein Erlebnisprodukt: curated dining, historische Wagen, Service am Tisch, Atmosphäre. Der Preis ist 10 bis 50 Mal höher.
+Ein normaler [Nachtzug in Europa 2026](/blog/nachtzuege-europa-2026/) ist Transportmittel mit Schlafabteil. Ein Luxuszug ist ein Erlebnisprodukt: curated dining, historische Wagen, Service am Tisch, Atmosphäre. Der Preis ist 10 bis 50 Mal höher.
 
 ### Wohin fährt der Venice Simplon Orient Express?
 
@@ -84,7 +84,7 @@ Zercy hilft dir, Zugreisen zu planen. Du gibst dein Reiseziel ein, Zercy sucht F
 ---
 
 **Mehr lesen:**
-- [Nachtzüge in Europa 2026: Der komplette Guide](/blog/nachtzuege-europa-2026)
-- [Bahn vs. Flieger in Europa: Was lohnt sich wirklich?](/blog/bahn-vs-flieger-europa-2026)
-- [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen)
-- [Honeymoon-Planungsguide: So planst du die perfekte Hochzeitsreise](/blog/honeymoon-planung-guide)
+- [Nachtzüge in Europa 2026: Der komplette Guide](/blog/nachtzuege-europa-2026/)
+- [Bahn vs. Flieger in Europa: Was lohnt sich wirklich?](/blog/bahn-vs-flieger-europa-2026/)
+- [Business Class ohne Meilen buchen](/blog/business-class-ohne-meilen/)
+- [Honeymoon-Planungsguide: So planst du die perfekte Hochzeitsreise](/blog/honeymoon-planung-guide/)

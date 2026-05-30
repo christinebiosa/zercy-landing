@@ -61,7 +61,7 @@ Zlatni Rt is a protected nature area directly south of the old town. Pine trees 
 
 **Top picks:** Maistra Select Resort Lone (design hotel in the pine forest, award-winning, sea views), Amarin Resort by Maistra (family resort with direct beach access and sport facilities), Hotel Eden (reliable mid-range resort near the nature park).
 
-If you're combining several Croatian coastal towns, our [Croatia Island Hopping guide](/en/blog/croatia-island-hopping) covers the best routes from Rovinj to Dubrovnik.
+If you're combining several Croatian coastal towns, our [Croatia Island Hopping guide](/en/blog/croatia-island-hopping/) covers the best routes from Rovinj to Dubrovnik.
 
 ## Monte: Panoramic Views Above the Town
 
@@ -73,7 +73,7 @@ Monte is the quiet hillside quarter above the old town. No major hotel clusters,
 
 **Top picks:** Small guesthouses and apartments searchable on Booking.com under "Rovinj upper town" or "Monte." Local family-run pensions sometimes offer better rates on direct booking, though flexibility varies.
 
-The [Balkan Road Trip guide](/en/blog/balkan-road-trip-route) shows how Rovinj works as the first stop on a longer Istria-Dalmatia journey.
+The [Balkan Road Trip guide](/en/blog/balkan-road-trip-route/) shows how Rovinj works as the first stop on a longer Istria-Dalmatia journey.
 
 ## Bale/Valle: Agriturismo and Real Istrian Life
 
@@ -121,6 +121,6 @@ April, May, and October. Outside Croatian school holidays (mid-July to end of Au
 ---
 
 **Read more:**
-- [Croatia Island Hopping: The Best Routes](/en/blog/croatia-island-hopping)
-- [Balkan Road Trip Route: Istria to Kotor](/en/blog/balkan-road-trip-route)
-- [Where to Stay in Split: The 5 Neighborhoods](/en/blog/where-to-stay-split)
+- [Croatia Island Hopping: The Best Routes](/en/blog/croatia-island-hopping/)
+- [Balkan Road Trip Route: Istria to Kotor](/en/blog/balkan-road-trip-route/)
+- [Where to Stay in Split: The 5 Neighborhoods](/en/blog/where-to-stay-split/)

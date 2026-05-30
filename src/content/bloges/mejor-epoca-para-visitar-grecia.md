@@ -45,11 +45,11 @@ El único inconveniente de septiembre es que algunos negocios más pequeños, es
 
 ## ¿Cómo elegir entre las diferentes islas?
 
-La elección entre islas es uno de los temas más consultados sobre Grecia. No es solo de temporada: es también de qué tipo de viaje buscas. Para playas de primer nivel en Europa, la guía de [mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026) pone a Grecia en contexto con el resto del continente.
+La elección entre islas es uno de los temas más consultados sobre Grecia. No es solo de temporada: es también de qué tipo de viaje buscas. Para playas de primer nivel en Europa, la guía de [mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/) pone a Grecia en contexto con el resto del continente.
 
-Si tienes pensado Santorini, consulta primero la guía de [dónde alojarse en Santorini](/es/blog/donde-alojarse-santorini): la ubicación del hotel importa mucho más en Santorini que en casi cualquier otro destino del mundo.
+Si tienes pensado Santorini, consulta primero la guía de [dónde alojarse en Santorini](/es/blog/donde-alojarse-santorini/): la ubicación del hotel importa mucho más en Santorini que en casi cualquier otro destino del mundo.
 
-Para Atenas, la guía de [dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas) explica qué barrios convienen según si priorizas el acceso a monumentos, la gastronomía o la vida nocturna.
+Para Atenas, la guía de [dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas/) explica qué barrios convienen según si priorizas el acceso a monumentos, la gastronomía o la vida nocturna.
 
 ---
 
@@ -71,6 +71,6 @@ Abril, mayo y octubre son los mejores meses para Atenas. Temperaturas agradables
 
 ## Más información
 
-- [Dónde alojarse en Santorini](/es/blog/donde-alojarse-santorini)
-- [Dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas)
-- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026)
+- [Dónde alojarse en Santorini](/es/blog/donde-alojarse-santorini/)
+- [Dónde alojarse en Atenas](/es/blog/donde-alojarse-atenas/)
+- [Mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)

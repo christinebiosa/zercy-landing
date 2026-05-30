@@ -80,6 +80,6 @@ Flights from Europe: 400 to 700 dollars roundtrip depending on season. Mid-range
 ---
 
 **Read more:**
-- [Faroe Islands Guide](/en/blog/faroe-islands-guide)
-- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials)
-- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Faroe Islands Guide](/en/blog/faroe-islands-guide/)
+- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials/)
+- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

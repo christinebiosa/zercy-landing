@@ -62,6 +62,6 @@ Primavera (abril-junio) y otoño (septiembre-octubre) son los mejores meses: tem
 ---
 
 **Más para leer:**
-- [Apulia: la guía del sur de Italia que se come a Toscana](/es/blog/apulia-sur-italia-guia)
-- [48 horas en Roma: el itinerario perfecto](/es/blog/48-horas-roma)
-- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa)
+- [Apulia: la guía del sur de Italia que se come a Toscana](/es/blog/apulia-sur-italia-guia/)
+- [48 horas en Roma: el itinerario perfecto](/es/blog/48-horas-roma/)
+- [Las joyas ocultas de Europa que pocos viajeros conocen](/es/blog/joyas-ocultas-europa/)

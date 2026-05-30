@@ -239,7 +239,7 @@ const destinationPosts = [...posts]
     <div class="city-finder-panel" id="city-finder-panel">
       {destinationPosts.map(post => {
         const cityName = post.data.title.match(/Best Hotels (?:in|on|at) (.+?):/)?.[1] ?? '';
-        return <a href={`/en/blog/${post.id}`} class="city-link">{cityName}</a>;
+        return <a href={`/en/blog/${post.id}/`} class="city-link">{cityName}</a>;
       })}
     </div>
   </div>
@@ -269,7 +269,7 @@ const destinationPosts = [...posts]
       const icon = categoryIcons[cat] || categoryIcons['Travel Tips'];
       const dateStr = post.data.pubDate.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
       return (
-        <a href={`/en/blog/${post.id}`} class="card" data-category={post.data.category}>
+        <a href={`/en/blog/${post.id}/`} class="card" data-category={post.data.category}>
           {post.data.heroImage ? (
             <img class="card-image-photo" src={post.data.heroImage} alt={post.data.title} loading="lazy" decoding="async" width="510" height="180" />
           ) : (

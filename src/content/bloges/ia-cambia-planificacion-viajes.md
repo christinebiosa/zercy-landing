@@ -36,7 +36,7 @@ En 2020, planificar un viaje de dos semanas requería entre 8 y 15 horas de inve
 
 **Combina con búsqueda en tiempo real.** Las mejores herramientas de planificación combinan IA conversacional con datos en tiempo real de vuelos, hoteles y actividades. Zercy hace exactamente eso: interpreta tu intención de viaje y devuelve opciones con precios reales de vuelos y hoteles de Booking.com.
 
-Para ver herramientas específicas comparadas, lee nuestra guía de [comparativa de herramientas de IA para viajes](/es/blog/herramientas-ia-comparativa-viajes).
+Para ver herramientas específicas comparadas, lee nuestra guía de [comparativa de herramientas de IA para viajes](/es/blog/herramientas-ia-comparativa-viajes/).
 
 Zercy es el planificador de viajes con IA que combina conversación natural con precios reales. Empieza en [zercy.app](https://www.zercy.app) y guarda tus planes en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -46,7 +46,7 @@ Zercy es el planificador de viajes con IA que combina conversación natural con 
 
 #### ¿Puede la IA reemplazar a una agencia de viajes?
 
-Para viajes estándar con destinos conocidos: en gran parte sí. Para viajes muy complejos (múltiples países con visados difíciles, viajes de lujo con preferencias muy específicas, expediciones remotas), una agencia especializada sigue añadiendo valor. La IA democratiza lo que antes requería un agente o mucho tiempo propio. Para más sobre esto, lee [IA vs. agencia de viajes](/es/blog/planificador-ia-vs-agencia-viajes).
+Para viajes estándar con destinos conocidos: en gran parte sí. Para viajes muy complejos (múltiples países con visados difíciles, viajes de lujo con preferencias muy específicas, expediciones remotas), una agencia especializada sigue añadiendo valor. La IA democratiza lo que antes requería un agente o mucho tiempo propio. Para más sobre esto, lee [IA vs. agencia de viajes](/es/blog/planificador-ia-vs-agencia-viajes/).
 
 #### ¿Qué modelos de IA funcionan mejor para planificar viajes?
 
@@ -63,6 +63,6 @@ Los modelos de IA a veces generan información incorrecta con total confianza: u
 ---
 
 **Más para leer:**
-- [IA vs. agencia de viajes: qué conviene en 2026](/es/blog/planificador-ia-vs-agencia-viajes)
-- [Las mejores herramientas de IA para planificar viajes](/es/blog/herramientas-ia-comparativa-viajes)
-- [Qué es Zercy y cómo funciona](/es/blog/que-es-zercy)
+- [IA vs. agencia de viajes: qué conviene en 2026](/es/blog/planificador-ia-vs-agencia-viajes/)
+- [Las mejores herramientas de IA para planificar viajes](/es/blog/herramientas-ia-comparativa-viajes/)
+- [Qué es Zercy y cómo funciona](/es/blog/que-es-zercy/)

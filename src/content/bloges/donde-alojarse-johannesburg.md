@@ -49,7 +49,7 @@ Rosebank es la contraparte creativa de Sandton. Menos brillante, más carácter.
 
 **Opciones recomendadas:** The Peech Hotel (boutique, jardín, enfoque en sostenibilidad), Rosebank Hotel (clásico, ubicación, calidad sólida), Hotel 54 on Bath (boutique pequeño, servicio personal).
 
-Si planeas un circuito por África oriental, nuestra guía de [dónde alojarse en Nairobi](/es/blog/donde-alojarse-nairobi) te ayuda con la etapa keniana.
+Si planeas un circuito por África oriental, nuestra guía de [dónde alojarse en Nairobi](/es/blog/donde-alojarse-nairobi/) te ayuda con la etapa keniana.
 
 ## ¿Cuándo es la Mejor Época para Visitar Johannesburgo?
 
@@ -118,6 +118,6 @@ Hostel en Melville: 20-30 USD. Casa de huéspedes en Rosebank: 65-130 USD. Hotel
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Ciudad del Cabo: los mejores barrios 2026](/es/blog/donde-alojarse-ciudad-del-cabo)
-- [Dónde alojarse en Nairobi: Westlands vs. Karen vs. CBD](/es/blog/donde-alojarse-nairobi)
-- [Buenos Aires: dónde alojarse por barrio](/es/blog/donde-alojarse-buenos-aires)
+- [Dónde alojarse en Ciudad del Cabo: los mejores barrios 2026](/es/blog/donde-alojarse-ciudad-del-cabo/)
+- [Dónde alojarse en Nairobi: Westlands vs. Karen vs. CBD](/es/blog/donde-alojarse-nairobi/)
+- [Buenos Aires: dónde alojarse por barrio](/es/blog/donde-alojarse-buenos-aires/)

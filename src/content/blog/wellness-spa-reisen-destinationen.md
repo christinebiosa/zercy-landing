@@ -28,7 +28,7 @@ Der Unterschied liegt nicht immer im Ergebnis. Ein 10-Euro-Thermalbad in Budapes
 
 ## Thermalbäder: Budapest, Baden-Baden und die Blue Lagoon
 
-**Budapest** ist die Welthauptstadt der Thermalbäder. Széchenyi, Gellért, Rudas. Das Rudas ist das authentischste, mit osmanischer Architektur aus dem 16. Jahrhundert. Széchenyi ist fotogener und größer. Gellért hat den besten historischen Flair. Eintritt: 15-25 EUR, mit Massage 40-60 EUR. Hotels in Pest kosten 80-150 EUR die Nacht, [Wo übernachten in Wien](/blog/wo-uebernachten-wien) als Einstieg in die Region empfehlenswert wenn du kombinierst.
+**Budapest** ist die Welthauptstadt der Thermalbäder. Széchenyi, Gellért, Rudas. Das Rudas ist das authentischste, mit osmanischer Architektur aus dem 16. Jahrhundert. Széchenyi ist fotogener und größer. Gellért hat den besten historischen Flair. Eintritt: 15-25 EUR, mit Massage 40-60 EUR. Hotels in Pest kosten 80-150 EUR die Nacht, [Wo übernachten in Wien](/blog/wo-uebernachten-wien/) als Einstieg in die Region empfehlenswert wenn du kombinierst.
 
 **Baden-Baden** in Deutschland ist das Thermalbad für alle, die kein Flugzeug nehmen wollen. Caracalla Therme (modern, Spaß-Bad) und Friedrichsbad (klassisch, historisch, Textilfrei im Hauptbereich). Tages-Budget inklusive Eintritt und gutem Hotel: 150-250 EUR. Bahnverbindung von Frankfurt in 1,5 Stunden.
 
@@ -44,7 +44,7 @@ Der Unterschied liegt nicht immer im Ergebnis. Ein 10-Euro-Thermalbad in Budapes
 
 ## Yoga Retreats: Bali und Ibiza
 
-**Bali** ist die globale Yoga-Hauptstadt. Ubud vor allem. Retreats von 3 Tagen bis 4 Wochen, von Budget-Eco-Ashrams bis zu Luxus-Resorts mit Infinity-Pool. Eine gute Woche kostet 500-1500 EUR all-inclusive. Die Qualität variiert stark. Suche nach Retreats mit einem erfahrenen Hauptlehrer und einem Programm das über tägliche Yoga-Klassen hinausgeht (Meditation, Ernährung, Workshops). Den [Bali-Guide](/blog/wo-uebernachten-bali) lesen lohnt sich für die Unterkunfts-Orientierung.
+**Bali** ist die globale Yoga-Hauptstadt. Ubud vor allem. Retreats von 3 Tagen bis 4 Wochen, von Budget-Eco-Ashrams bis zu Luxus-Resorts mit Infinity-Pool. Eine gute Woche kostet 500-1500 EUR all-inclusive. Die Qualität variiert stark. Suche nach Retreats mit einem erfahrenen Hauptlehrer und einem Programm das über tägliche Yoga-Klassen hinausgeht (Meditation, Ernährung, Workshops). Den [Bali-Guide](/blog/wo-uebernachten-bali/) lesen lohnt sich für die Unterkunfts-Orientierung.
 
 **Ibiza** überrascht als Wellness-Destination. Die Party-Insel hat sich in den letzten Jahren eine starke Wellness-Szene aufgebaut, besonders in Santa Eularia und San Juan im Norden. High-End-Retreats mit Yoga, Pilates, Sound-Healing und organischen Mahlzeiten kosten 2000-4000 EUR für eine Woche. Die Kombination aus mediterraner Natur und hohem Niveau macht Ibiza besonders für europäische Reisende interessant.
 
@@ -62,7 +62,7 @@ Buche Wellness-Retreats mindestens 2-3 Monate im Voraus. Gute Retreats und klein
 
 ## Luxus-Wellness: Malediven und Santorini
 
-**Malediven** sind die ultimative Wellness-Eskapade. Overwater-Bungalows, Tauchgänge, Spa-Behandlungen über dem Wasser, Isolation vom Rest der Welt. Eine Woche in einem guten Resort: 5000-12000 EUR pro Person. Nicht günstig. Aber wenn das Budget stimmt, gibt es wenig, was das Ergebnis (vollständige Abschaltung vom Alltag) besser liefert. Details im [Malediven Reiseguide](/blog/malediven-reiseguide-tipps).
+**Malediven** sind die ultimative Wellness-Eskapade. Overwater-Bungalows, Tauchgänge, Spa-Behandlungen über dem Wasser, Isolation vom Rest der Welt. Eine Woche in einem guten Resort: 5000-12000 EUR pro Person. Nicht günstig. Aber wenn das Budget stimmt, gibt es wenig, was das Ergebnis (vollständige Abschaltung vom Alltag) besser liefert. Details im [Malediven Reiseguide](/blog/malediven-reiseguide-tipps/).
 
 **Santorini** als Wellness-Destination ist weniger bekannt als das Party-Santorini. Oia und Imerovigli haben kleine Boutique-Hotels mit Caldera-Blick und Spa, die echte Ruhe bieten. Preis: 3000-6000 EUR für eine Woche in einem guten Spa-Hotel, Shoulder-Season (April-Mai, Oktober) deutlich günstiger.
 
@@ -97,6 +97,6 @@ Mindestens 2-3 Monate im Voraus, bei beliebten Retreats in Bali oder Kerala bis 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Bali: Die 5 Stadtteile](/blog/wo-uebernachten-bali)
-- [Malediven Reiseguide: Was du wirklich wissen musst](/blog/malediven-reiseguide-tipps)
-- [Wo übernachten in Wien: Die 5 Stadtteile](/blog/wo-uebernachten-wien)
+- [Wo übernachten in Bali: Die 5 Stadtteile](/blog/wo-uebernachten-bali/)
+- [Malediven Reiseguide: Was du wirklich wissen musst](/blog/malediven-reiseguide-tipps/)
+- [Wo übernachten in Wien: Die 5 Stadtteile](/blog/wo-uebernachten-wien/)

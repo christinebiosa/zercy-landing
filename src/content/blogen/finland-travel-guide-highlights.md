@@ -70,6 +70,6 @@ Sauna is mandatory, ideally a traditional smoke sauna (Savusauna). The Saimaa la
 ---
 
 **Read more:**
-- [Scandinavia Road Trip Route](/en/blog/scandinavia-road-trip-route)
-- [Northern Lights 2026: Where and When](/en/blog/northern-lights-2026-where-when-how)
-- [Travel Packing List: What You Actually Need](/en/blog/travel-packing-list-essentials)
+- [Scandinavia Road Trip Route](/en/blog/scandinavia-road-trip-route/)
+- [Northern Lights 2026: Where and When](/en/blog/northern-lights-2026-where-when-how/)
+- [Travel Packing List: What You Actually Need](/en/blog/travel-packing-list-essentials/)

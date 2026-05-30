@@ -64,6 +64,6 @@ Direct flight to Kiruna: 2 hours, from 80 euros. Overnight train: Stockholm to K
 ---
 
 **Read more:**
-- [Scandinavia Road Trip Route](/en/blog/scandinavia-road-trip-route)
-- [Northern Lights 2026: Where and When](/en/blog/northern-lights-2026-where-when-how)
-- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Scandinavia Road Trip Route](/en/blog/scandinavia-road-trip-route/)
+- [Northern Lights 2026: Where and When](/en/blog/northern-lights-2026-where-when-how/)
+- [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

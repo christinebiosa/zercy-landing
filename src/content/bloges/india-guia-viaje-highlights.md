@@ -62,7 +62,7 @@ La relación calidad-precio en hoteles de lujo es excepcional: hoteles de cinco 
 
 **Visa:** Solicita el e-visa online (normalmente 30 días, entrada múltiple posible). Solicítalo al menos 72 horas antes de la salida. Costo aproximado 25–80 euros según el país de origen.
 
-**Salud:** Revisa las vacunas de viaje (Hepatitis A, Tifoidea, posiblemente profilaxis antipalúdica para Goa/Kerala). No beber agua del grifo, solo botellas selladas. El [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena) con cobertura de evacuación médica es imprescindible en India.
+**Salud:** Revisa las vacunas de viaje (Hepatitis A, Tifoidea, posiblemente profilaxis antipalúdica para Goa/Kerala). No beber agua del grifo, solo botellas selladas. El [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) con cobertura de evacuación médica es imprescindible en India.
 
 **Tuk-tuk vs. taxi:** Ola y Uber funcionan de forma fiable en las ciudades indias con precios fijos, mejor que los tuk-tuks para trayectos largos. Tuk-tuks para viajes cortos en el bazar: siempre acordar el precio antes.
 
@@ -85,6 +85,6 @@ Hepatitis A y tifoidea son las que recomiendan la mayoría de los médicos de vi
 Entrada para visitantes extranjeros: 1.100 INR (aprox. 13 euros). Más un servicio de buggy opcional desde los aparcamientos (otros 2 euros). La mejor experiencia: llegar al amanecer (la primera entrada es unos 30 minutos después del amanecer). La mezquita del viernes está cerrada para no musulmanes.
 
 ## Más artículos
-- [Seguro de viaje: ¿vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena)
-- [Guía de safari en África Oriental](/es/blog/safari-africa-oriental-guia)
-- [Países con visa a la llegada 2026](/es/blog/paises-visa-llegada-2026)
+- [Seguro de viaje: ¿vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Guía de safari en África Oriental](/es/blog/safari-africa-oriental-guia/)
+- [Países con visa a la llegada 2026](/es/blog/paises-visa-llegada-2026/)

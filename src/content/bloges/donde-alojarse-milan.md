@@ -96,6 +96,6 @@ La mayoría de los desfiles tienen lugar en diferentes sedes de toda la ciudad. 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Roma: Los 5 barrios](/es/blog/donde-alojarse-roma)
-- [Dónde alojarse en Florencia: ¿Qué barrio elegir?](/es/blog/donde-alojarse-florencia)
-- [Apulia y el sur de Italia: Joyas ocultas más allá de Roma](/es/blog/apulia-sur-italia-guia)
+- [Dónde alojarse en Roma: Los 5 barrios](/es/blog/donde-alojarse-roma/)
+- [Dónde alojarse en Florencia: ¿Qué barrio elegir?](/es/blog/donde-alojarse-florencia/)
+- [Apulia y el sur de Italia: Joyas ocultas más allá de Roma](/es/blog/apulia-sur-italia-guia/)

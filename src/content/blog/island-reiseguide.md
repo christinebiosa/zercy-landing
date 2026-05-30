@@ -75,9 +75,9 @@ Island ist der einzige Ort der Welt, wo die atlantische Mittelatlantische Rift �
 
 Ein Mietwagen in Island ist teurer als fast überall sonst. 80 bis 150 Euro pro Tag für einen normalen SUV. Im Sommer für die F-Roads (Hochland) unbedingt 4x4 mit hoher Bodenfreiheit.
 
-**Versicherung**: Island hat spezielle Versicherungen, die du nur dort bekommst. Gravel Protection (Kies-Schutz), Sand- und Aschesturm-Schutz sind wichtig, weil diese Schäden häufig auftreten. Ein [Mietwagen-Consolidator](/blog/mietwagen-consolidator-guenstiger-fahren) hilft, alle Versicherungen aufs einmal zu bündeln.
+**Versicherung**: Island hat spezielle Versicherungen, die du nur dort bekommst. Gravel Protection (Kies-Schutz), Sand- und Aschesturm-Schutz sind wichtig, weil diese Schäden häufig auftreten. Ein [Mietwagen-Consolidator](/blog/mietwagen-consolidator-guenstiger-fahren/) hilft, alle Versicherungen aufs einmal zu bündeln.
 
-**Versteckte Kosten**: Benzin ist teuer (ca. 2,20 Euro pro Liter). Plan 150 bis 250 Euro Sprit für die Ring Road ein. Mehr zu [versteckten Mietwagen-Kosten](/blog/mietwagen-versteckte-kosten-vermeiden) im dedizierten Artikel.
+**Versteckte Kosten**: Benzin ist teuer (ca. 2,20 Euro pro Liter). Plan 150 bis 250 Euro Sprit für die Ring Road ein. Mehr zu [versteckten Mietwagen-Kosten](/blog/mietwagen-versteckte-kosten-vermeiden/) im dedizierten Artikel.
 
 ## Wie teuer ist Island wirklich?
 
@@ -101,9 +101,9 @@ Spar-Tipps: Supermarkt Bónus statt Restaurant. Hot Dogs (pylsur) sind der islä
 
 ---
 
-Zercy hilft dir, Flüge nach Keflavik, den Mietwagen mit richtiger Versicherung und Unterkünfte auf der Ring Road zu finden. Das [Zercy Logbook](/blog/zercy-logbook) ordnet alle Buchungen als Timeline, damit deine 8-Tage-Ring-Road-Reise überschaubar bleibt.
+Zercy hilft dir, Flüge nach Keflavik, den Mietwagen mit richtiger Versicherung und Unterkünfte auf der Ring Road zu finden. Das [Zercy Logbook](/blog/zercy-logbook/) ordnet alle Buchungen als Timeline, damit deine 8-Tage-Ring-Road-Reise überschaubar bleibt.
 
-**Mehr lesen:** [Mietwagen-Consolidator: Warum damit oft günstiger](/blog/mietwagen-consolidator-guenstiger-fahren) · [Mietwagen-Fallen: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden) · [Geheimtipps Europa](/blog/geheimtipps-europa)
+**Mehr lesen:** [Mietwagen-Consolidator: Warum damit oft günstiger](/blog/mietwagen-consolidator-guenstiger-fahren/) · [Mietwagen-Fallen: Versteckte Kosten vermeiden](/blog/mietwagen-versteckte-kosten-vermeiden/) · [Geheimtipps Europa](/blog/geheimtipps-europa/)
 
 ## Häufige Fragen
 

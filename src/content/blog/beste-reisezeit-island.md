@@ -58,6 +58,6 @@ Für einen ersten Besuch ist der **Golden Circle plus Südküste** ideal: Geysir
 ---
 
 **Mehr lesen:**
-- [Island Reiseguide: Alles was du wissen musst](/blog/island-reiseguide)
-- [Nordlichter 2026: Wo und wann du sie siehst](/blog/nordlichter-2026-wo-wann-wie)
-- [Wo übernachten in Reykjavik](/blog/wo-uebernachten-reykjavik)
+- [Island Reiseguide: Alles was du wissen musst](/blog/island-reiseguide/)
+- [Nordlichter 2026: Wo und wann du sie siehst](/blog/nordlichter-2026-wo-wann-wie/)
+- [Wo übernachten in Reykjavik](/blog/wo-uebernachten-reykjavik/)

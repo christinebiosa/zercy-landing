@@ -56,7 +56,7 @@ Hoteles: de 90 a 200 euros. Mejor relación calidad-precio que la Old Town.
 **Recomendación:**
 - **The Balmoral** (el gran hotel victoriano de Edimburgo, junto a Princes Street, aprox. 350 €)
 
-Para otras ciudades con castillos y barrios medievales, consulta también [dónde alojarse en Praga](/es/blog/donde-alojarse-praga) y [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest).
+Para otras ciudades con castillos y barrios medievales, consulta también [dónde alojarse en Praga](/es/blog/donde-alojarse-praga/) y [dónde alojarse en Budapest](/es/blog/donde-alojarse-budapest/).
 
 ## Leith: El barrio emergente con mejor gastronomía
 
@@ -97,6 +97,6 @@ Edimburgo tiene fama de lluviosa pero es más ventosa que húmeda en comparació
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Praga: Ciudad Vieja, Malá Strana o Vinohrady](/es/blog/donde-alojarse-praga)
-- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest)
-- [Dónde alojarse en Ámsterdam: Centrum, Jordaan o De Pijp](/es/blog/donde-alojarse-amsterdam)
+- [Dónde alojarse en Praga: Ciudad Vieja, Malá Strana o Vinohrady](/es/blog/donde-alojarse-praga/)
+- [Dónde alojarse en Budapest: ¿Buda o Pest?](/es/blog/donde-alojarse-budapest/)
+- [Dónde alojarse en Ámsterdam: Centrum, Jordaan o De Pijp](/es/blog/donde-alojarse-amsterdam/)

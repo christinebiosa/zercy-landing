@@ -26,7 +26,7 @@ Backpacker unter 35 kennen das Format und schätzen es. Wer flexibel ist, mehrer
 
 Community-Suchende, also alle, die Mitreisende kennenlernen wollen, finden im Hostel die bessere Infrastruktur. Viele Hostels organisieren Touren, Abendessen oder Pub Crawls.
 
-Wer in Großstädten auf Hostels setzt, muss gut recherchieren: In London oder Paris sind gute Hostels teurer als gedacht. Das Budget-Argument gilt nicht überall. Unser [Artikel über günstiges Fliegen](/blog/guenstig-fliegen-tipps) zeigt, wo sich bei Langstreckenreisen das meiste Geld sparen lässt.
+Wer in Großstädten auf Hostels setzt, muss gut recherchieren: In London oder Paris sind gute Hostels teurer als gedacht. Das Budget-Argument gilt nicht überall. Unser [Artikel über günstiges Fliegen](/blog/guenstig-fliegen-tipps/) zeigt, wo sich bei Langstreckenreisen das meiste Geld sparen lässt.
 
 ## Für wen ist das Hotel die bessere Wahl?
 
@@ -42,7 +42,7 @@ Alle, die nach einem langen Tag Ruhe brauchen, sind im Hotel besser aufgehoben. 
 
 Für Paare und kleine Gruppen ist Airbnb oft die günstigste Option mit dem meisten Platz. Küche, Wohnraum, eigene Tür. In Städten mit hohem Tourismusanteil wie Barcelona oder Lissabon ist die Airbnb-Regulierung komplizierter geworden, das Angebot kleiner. In Lateinamerika und Südostasien ist Airbnb dagegen oft die attraktivste Wahl im mittleren Preissegment.
 
-Unser [Airbnb vs. Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich) geht in die Tiefe: wann sich welche Buchungsplattform lohnt und welche versteckten Kosten du einrechnen musst.
+Unser [Airbnb vs. Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich/) geht in die Tiefe: wann sich welche Buchungsplattform lohnt und welche versteckten Kosten du einrechnen musst.
 
 ## Welche Unterkunft für welche Reiseart?
 
@@ -56,7 +56,7 @@ Unser [Airbnb vs. Hotel-Vergleich](/blog/airbnb-vs-hotel-vergleich) geht in die 
 | Business | Hotel (Stadthotels, Businessquartiere) |
 | Festival / Event in Großstadt | Hostel wenn Budget knapp, Hotel wenn Schlaf wichtig |
 
-Bei Langstreckenreisen lohnt sich eine Kombination: erstes Hostel zum Ankommen und Leute kennenlernen, dann Hotel für ruhigere Erholungsphasen. Wer seinen Gepäckaufwand reduziert, hat in beiden Unterkunftstypen Vorteile. Unser [Nur-Handgepäck-Guide](/blog/nur-handgepaeck) erklärt, wie das praktisch funktioniert.
+Bei Langstreckenreisen lohnt sich eine Kombination: erstes Hostel zum Ankommen und Leute kennenlernen, dann Hotel für ruhigere Erholungsphasen. Wer seinen Gepäckaufwand reduziert, hat in beiden Unterkunftstypen Vorteile. Unser [Nur-Handgepäck-Guide](/blog/nur-handgepaeck/) erklärt, wie das praktisch funktioniert.
 
 [Hostelworld](https://www.hostelworld.com) ist die verlässlichste Plattform für Hostel-Suche: Bewertungen nach Community, Sauberkeit und Ruhe getrennt. Wer ein Privatraum-Hostel sucht, filtert nach "Private Room" und checkt die Lärmeinschätzung in den Reviews.
 
@@ -85,6 +85,6 @@ Ein Doppelzimmer im Hostel kostet in Europa kaum weniger als ein Budget-Hotel-Do
 ---
 
 **Mehr lesen:**
-- [Airbnb vs. Hotel: Wann lohnt sich was?](/blog/airbnb-vs-hotel-vergleich)
-- [Solo reisen als Frau: Sichere Länder und Tipps](/blog/solo-reisen-frauen-sicher)
-- [Günstig fliegen: Die besten Strategien 2026](/blog/guenstig-fliegen-tipps)
+- [Airbnb vs. Hotel: Wann lohnt sich was?](/blog/airbnb-vs-hotel-vergleich/)
+- [Solo reisen als Frau: Sichere Länder und Tipps](/blog/solo-reisen-frauen-sicher/)
+- [Günstig fliegen: Die besten Strategien 2026](/blog/guenstig-fliegen-tipps/)

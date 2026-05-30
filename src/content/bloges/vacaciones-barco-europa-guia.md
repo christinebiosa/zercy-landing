@@ -58,9 +58,9 @@ Grupos pequeños de amigos con gustos distintos. El barco da espacio a cada uno.
 
 No es para todos: si necesitas una agenda densa de atracciones, te sentirás limitado. Llegas a dos o tres lugares por día. Eso es lo que hay.
 
-Si el concepto de [slow travel te resulta interesante](/es/blog/slow-travel-que-significa), las vacaciones en casa flotante son una de sus expresiones más puras. Para otra alternativa al hotel convencional: [Vacaciones en campervan por Europa](/es/blog/campervan-vacaciones-europa) sigue una lógica similar. Tu propio espacio para dormir, tu ruta, tu ritmo.
+Si el concepto de [slow travel te resulta interesante](/es/blog/slow-travel-que-significa/), las vacaciones en casa flotante son una de sus expresiones más puras. Para otra alternativa al hotel convencional: [Vacaciones en campervan por Europa](/es/blog/campervan-vacaciones-europa/) sigue una lógica similar. Tu propio espacio para dormir, tu ruta, tu ritmo.
 
-Y si quieres llevar más lejos los viajes por agua: los [viajes en ferry por Europa](/es/blog/viaje-ferry-europa-guia) y los [cruceros fluviales europeos](/es/blog/crucero-fluvial-europa-guia) son formatos relacionados con caracteres muy distintos.
+Y si quieres llevar más lejos los viajes por agua: los [viajes en ferry por Europa](/es/blog/viaje-ferry-europa-guia/) y los [cruceros fluviales europeos](/es/blog/crucero-fluvial-europa-guia/) son formatos relacionados con caracteres muy distintos.
 
 ---
 
@@ -86,6 +86,6 @@ Mayo, junio y septiembre. La temporada alta de julio a agosto es más cara, más
 
 ## Más artículos
 
-- [Vacaciones en campervan por Europa](/es/blog/campervan-vacaciones-europa)
-- [Slow travel: qué significa de verdad](/es/blog/slow-travel-que-significa)
-- [Crucero fluvial por Europa: guía completa](/es/blog/crucero-fluvial-europa-guia)
+- [Vacaciones en campervan por Europa](/es/blog/campervan-vacaciones-europa/)
+- [Slow travel: qué significa de verdad](/es/blog/slow-travel-que-significa/)
+- [Crucero fluvial por Europa: guía completa](/es/blog/crucero-fluvial-europa-guia/)

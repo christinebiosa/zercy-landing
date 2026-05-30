@@ -51,7 +51,7 @@ Innsbruck tiene dos temporadas principales con oportunidades doradas entre media
 
 **Primavera (abril-mayo) y otoño (octubre):** Precios más bajos. Pocos turistas. Ideales para pasear por la ciudad y hacer rutas cortas. Los hoteles cuestan hasta un 40% menos que en temporada alta.
 
-**Diciembre:** Christkindlmarkt frente al Tejado Dorado, uno de los mejores del Tirol. Innsbruck es también una parada perfecta en cualquier ruta más amplia por los [mejores destinos de invierno en Europa](/es/blog/ciudades-europeas-invierno-guia).
+**Diciembre:** Christkindlmarkt frente al Tejado Dorado, uno de los mejores del Tirol. Innsbruck es también una parada perfecta en cualquier ruta más amplia por los [mejores destinos de invierno en Europa](/es/blog/ciudades-europeas-invierno-guia/).
 
 ## Pradl: Económico y práctico
 
@@ -73,7 +73,7 @@ Al sur del casco histórico, centrado en el monasterio Stift Wilten. Más tranqu
 
 **Mejores opciones:** Hotel Bierwirt (local, familiar), Pension Stoi (auténticamente tirolés), Hotel Maximilian.
 
-Para quienes planean una [ruta más amplia por Escandinavia](/es/blog/escandinavia-ruta-completa) o los Alpes, Innsbruck conecta fácilmente con Alemania, Italia y Suiza por autopista y tren.
+Para quienes planean una [ruta más amplia por Escandinavia](/es/blog/escandinavia-ruta-completa/) o los Alpes, Innsbruck conecta fácilmente con Alemania, Italia y Suiza por autopista y tren.
 
 ## ¿Dónde deberías reservar al final?
 
@@ -110,6 +110,6 @@ El Tejado Dorado con vistas desde la Stadtturm, el teleférico Nordkette, el Hof
 ---
 
 ## Más artículos
-- [Dónde alojarse en Salzburgo: ¿Casco histórico o más allá?](/es/blog/donde-alojarse-salzburgo)
-- [Ciudades europeas en invierno: Guía completa](/es/blog/ciudades-europeas-invierno-guia)
-- [Suiza: Lo mejor que ver y hacer](/es/blog/suiza-guia-viaje-2026)
+- [Dónde alojarse en Salzburgo: ¿Casco histórico o más allá?](/es/blog/donde-alojarse-salzburgo/)
+- [Ciudades europeas en invierno: Guía completa](/es/blog/ciudades-europeas-invierno-guia/)
+- [Suiza: Lo mejor que ver y hacer](/es/blog/suiza-guia-viaje-2026/)

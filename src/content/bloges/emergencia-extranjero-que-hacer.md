@@ -28,7 +28,7 @@ Si no estás seguro: el 112 funciona en todo el mundo en redes GSM incluso sin t
 
 **Paso 3: Aceptar el tratamiento.** Aunque no estés seguro de cuánto costará. La atención médica es lo primero. Guarda todas las facturas y recibos. El seguro lo resolverá.
 
-Por qué el seguro médico de viaje es imprescindible: [guía de seguro médico de viaje](/es/blog/seguro-medico-viaje-guia). Para una visión más amplia: [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena).
+Por qué el seguro médico de viaje es imprescindible: [guía de seguro médico de viaje](/es/blog/seguro-medico-viaje-guia/). Para una visión más amplia: [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/).
 
 ## ¿Cómo reaccionas ante un accidente grave o una catástrofe natural?
 
@@ -96,6 +96,6 @@ No hay prevención total posible, pero sí preparación: seguro médico de viaje
 
 ## Más información
 
-- [Seguro de viaje: ¿Vale la pena contratarlo en 2026?](/es/blog/seguro-viaje-vale-la-pena)
-- [Seguro médico de viaje: Cuándo es necesario](/es/blog/seguro-medico-viaje-guia)
-- [Ciberseguridad para viajeros: Protege tus datos](/es/blog/ciberseguridad-viajeros)
+- [Seguro de viaje: ¿Vale la pena contratarlo en 2026?](/es/blog/seguro-viaje-vale-la-pena/)
+- [Seguro médico de viaje: Cuándo es necesario](/es/blog/seguro-medico-viaje-guia/)
+- [Ciberseguridad para viajeros: Protege tus datos](/es/blog/ciberseguridad-viajeros/)

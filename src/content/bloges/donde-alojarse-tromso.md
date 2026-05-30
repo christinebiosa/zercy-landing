@@ -59,7 +59,7 @@ Kvaløya es la isla al oeste de Tromsø, a 20 o 30 minutos en coche desde el cen
 
 **Opciones recomendadas**: Tromsø Wilderness Centre (huskies, cabañas, vistas directas a las auroras), Malangen Resort (cabañas de lujo en el fiordo, opción top para viajes románticos), Svensby Tursenter (cabañas más sencillas, precio más ajustado, excelente ubicación).
 
-También puede interesarte nuestra guía de [Auroras Boreales 2026](/es/blog/auroras-boreales-2026) con todo sobre técnica fotográfica y los mejores puntos alrededor de Tromsø.
+También puede interesarte nuestra guía de [Auroras Boreales 2026](/es/blog/auroras-boreales-2026/) con todo sobre técnica fotográfica y los mejores puntos alrededor de Tromsø.
 
 ## Tromsdalstinden: Montañas y panorámicas
 
@@ -93,7 +93,7 @@ Para Tromsø, [Booking.com](https://www.booking.com) es claramente la mejor plat
 
 Reservar directamente puede valer la pena en pequeños alojamientos familiares en Kvaløya que no están en plataformas.
 
-Para planificar el viaje completo por Escandinavia, nuestra [guía de ruta por Escandinavia](/es/blog/escandinavia-ruta-completa) cubre el itinerario completo. Si añades más ciudades noruegas, consulta también nuestra [guía de dónde alojarse en Oslo](/es/blog/donde-alojarse-tromso).
+Para planificar el viaje completo por Escandinavia, nuestra [guía de ruta por Escandinavia](/es/blog/escandinavia-ruta-completa/) cubre el itinerario completo. Si añades más ciudades noruegas, consulta también nuestra [guía de dónde alojarse en Oslo](/es/blog/donde-alojarse-tromso/).
 
 ---
 
@@ -120,6 +120,6 @@ El aeropuerto de Tromsø Langnes está a 5 km al oeste de Sentrum. En autobús (
 ---
 
 **Más artículos:**
-- [Auroras Boreales 2026: Dónde, cuándo y cómo](/es/blog/auroras-boreales-2026)
-- [Escandinavia: La ruta completa](/es/blog/escandinavia-ruta-completa)
-- [Dónde alojarse en Oslo: Los 5 barrios](/es/blog/donde-alojarse-tromso)
+- [Auroras Boreales 2026: Dónde, cuándo y cómo](/es/blog/auroras-boreales-2026/)
+- [Escandinavia: La ruta completa](/es/blog/escandinavia-ruta-completa/)
+- [Dónde alojarse en Oslo: Los 5 barrios](/es/blog/donde-alojarse-tromso/)

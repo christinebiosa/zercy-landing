@@ -33,7 +33,7 @@ La tarde es para la **South Bank**. Camina hacia el oeste a lo largo del Támesi
 
 Por la noche: **Covent Garden** durante la primera hora. Artistas callejeros, la histórica sala de mercado, buen ambiente. Luego hacia el **West End** si tienes entrada de teatro. Londres tiene la mejor escena teatral del mundo. Las entradas de última hora suelen salir desde 30 o 40 libras en la taquilla o a través de la app TKTS. Cierra la noche en **Soho**: restaurantes de todas las cocinas del mundo, bares animados, pocos sitios concentran tanta variedad en tan poco espacio.
 
-Si aún no sabes dónde dormir, nuestro artículo sobre [dónde alojarse en Londres](/es/blog/donde-alojarse-londres) cubre barrios por presupuesto y tipo de viaje.
+Si aún no sabes dónde dormir, nuestro artículo sobre [dónde alojarse en Londres](/es/blog/donde-alojarse-londres/) cubre barrios por presupuesto y tipo de viaje.
 
 ## Día 2: Notting Hill, Hyde Park y Chelsea
 
@@ -47,7 +47,7 @@ Chelsea vale un paseo corto después del museo, especialmente la King's Road. No
 
 Para la última noche, dos opciones. **Sky Garden** (Fenchurch Street, gratuito con reserva previa) es un jardín en la azotea del piso 35 con vistas panorámicas sobre la City. **The Shard** tiene vistas igual de espectaculares, pero con entrada de unos 30 libras. La reserva del Sky Garden es la opción inteligente. Las plazas se agotan rápido, así que reserva con unos días de antelación.
 
-Después, la salida. Gatwick, Heathrow o St Pancras para el Eurostar: calcula al menos 60 minutos de margen. Más sobre traslados en nuestra guía de [transporte desde el aeropuerto](/es/blog/transporte-aeropuerto-guia-2026).
+Después, la salida. Gatwick, Heathrow o St Pancras para el Eurostar: calcula al menos 60 minutos de margen. Más sobre traslados en nuestra guía de [transporte desde el aeropuerto](/es/blog/transporte-aeropuerto-guia-2026/).
 
 ## ¿Cuándo es mejor visitar Londres?
 
@@ -69,7 +69,7 @@ Atracciones: Torre de Londres unos 34 libras, Tower Bridge Experience unos 18 li
 
 Todo sin vuelo ni alojamiento: entre 150 y 250 libras por persona para dos días es un cálculo realista, según el ticket de teatro y las opciones de museo.
 
-Si quieres ahorrar en el vuelo, viajar [solo con equipaje de mano](/es/blog/solo-equipaje-de-mano) elimina las tasas de facturación. Y si quieres saber cuándo comprar el vuelo, nuestra guía sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos) te dice cuándo suben los precios a Londres.
+Si quieres ahorrar en el vuelo, viajar [solo con equipaje de mano](/es/blog/solo-equipaje-de-mano/) elimina las tasas de facturación. Y si quieres saber cuándo comprar el vuelo, nuestra guía sobre [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) te dice cuándo suben los precios a Londres.
 
 ---
 
@@ -93,11 +93,11 @@ Usa una Oyster Card o tarjeta de contacto en el Tube. El tope diario se aplica a
 
 ### ¿Qué barrio es mejor para alojarse en Londres?
 
-Shoreditch y Southwark (este/sur) son modernos y bien conectados. Notting Hill y South Kensington (oeste) son más tranquilos y residenciales. Covent Garden está en el centro y es ideal si tienes una noche de teatro planeada. Hoteles concretos y comparativa de barrios en el artículo sobre [dónde alojarse en Londres](/es/blog/donde-alojarse-londres).
+Shoreditch y Southwark (este/sur) son modernos y bien conectados. Notting Hill y South Kensington (oeste) son más tranquilos y residenciales. Covent Garden está en el centro y es ideal si tienes una noche de teatro planeada. Hoteles concretos y comparativa de barrios en el artículo sobre [dónde alojarse en Londres](/es/blog/donde-alojarse-londres/).
 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Londres: guía de barrios y hoteles por presupuesto](/es/blog/donde-alojarse-londres)
-- [Solo equipaje de mano: cómo evitar siempre las tasas de facturación](/es/blog/solo-equipaje-de-mano)
-- [Guía de transporte desde el aeropuerto 2026](/es/blog/transporte-aeropuerto-guia-2026)
+- [Dónde alojarse en Londres: guía de barrios y hoteles por presupuesto](/es/blog/donde-alojarse-londres/)
+- [Solo equipaje de mano: cómo evitar siempre las tasas de facturación](/es/blog/solo-equipaje-de-mano/)
+- [Guía de transporte desde el aeropuerto 2026](/es/blog/transporte-aeropuerto-guia-2026/)

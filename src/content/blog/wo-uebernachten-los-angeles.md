@@ -47,7 +47,7 @@ Direkt am Pazifik, 25 km westlich von Downtown. Santa Monica Pier mit Pacific Pa
 
 **Top-Picks:** Shutters on the Beach (legendäres Premium am Strand), Casa del Mar (5-Sterne historisches Beach-Hotel), Fairmont Miramar Hotel & Bungalows (klassisch premium mit Pool).
 
-Lies dazu auch unseren [San-Francisco-Guide](/blog/wo-uebernachten-san-francisco) für die nordkalifornische Variante.
+Lies dazu auch unseren [San-Francisco-Guide](/blog/wo-uebernachten-san-francisco/) für die nordkalifornische Variante.
 
 ## Wann ist die beste Reisezeit für Los Angeles?
 
@@ -131,6 +131,6 @@ Backpacker: 1.300-1.800 Euro pro Person inkl. Flug (Hostel in Hollywood, Mietwag
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in San Francisco: Die 5 Stadtteile](/blog/wo-uebernachten-san-francisco)
-- [Wo übernachten in New York: Die 5 Stadtteile](/blog/wo-uebernachten-new-york)
-- [Roadtrip Etappen-Planung: So planst du eine Strecke](/blog/roadtrip-etappen-planung)
+- [Wo übernachten in San Francisco: Die 5 Stadtteile](/blog/wo-uebernachten-san-francisco/)
+- [Wo übernachten in New York: Die 5 Stadtteile](/blog/wo-uebernachten-new-york/)
+- [Roadtrip Etappen-Planung: So planst du eine Strecke](/blog/roadtrip-etappen-planung/)

@@ -52,7 +52,7 @@ Bangkok abruma a primera vista. 10 millones de habitantes, tráfico a cualquier 
 
 Alójate en el barrio de Sukhumvit: buena conexión con el tren, restaurantes internacionales, limpio. O en la ciudad antigua si prefieres el ambiente mochilero.
 
-Lee también nuestra [guía de 48 horas en Roma](/es/blog/48-horas-roma) para otros guías de ciudad compactos.
+Lee también nuestra [guía de 48 horas en Roma](/es/blog/48-horas-roma/) para otros guías de ciudad compactos.
 
 ## Chiang Mai: ¿por qué el norte es tan diferente a Bangkok?
 
@@ -103,6 +103,6 @@ Nunca faltar el respeto al rey ni a la familia real (las leyes de lesa majestad 
 ---
 
 **Más para leer:**
-- [Japón más allá de Tokio: Kioto, Osaka, Hiroshima](/es/blog/japon-mas-alla-de-tokio)
-- [Viaje en solitario para mujeres: seguridad y mejores destinos](/es/blog/viaje-solo-mujeres-seguro)
-- [Patagonia: ruta de 3 semanas por el fin del mundo](/es/blog/patagonia-3-semanas-ruta)
+- [Japón más allá de Tokio: Kioto, Osaka, Hiroshima](/es/blog/japon-mas-alla-de-tokio/)
+- [Viaje en solitario para mujeres: seguridad y mejores destinos](/es/blog/viaje-solo-mujeres-seguro/)
+- [Patagonia: ruta de 3 semanas por el fin del mundo](/es/blog/patagonia-3-semanas-ruta/)

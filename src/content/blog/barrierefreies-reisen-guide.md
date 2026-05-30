@@ -85,6 +85,6 @@ Direkt fragen (nicht nur online suchen). Fotos anfordern von Zimmereingang, Bad,
 
 ## Mehr lesen
 
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [Skandinavien Rundreise: Route und Highlights](/blog/skandinavien-rundreise-route)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [Skandinavien Rundreise: Route und Highlights](/blog/skandinavien-rundreise-route/)

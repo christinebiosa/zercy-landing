@@ -40,7 +40,7 @@ En Asia y Latinoamérica la situación es diferente. Tailandia es el ejemplo má
 
 **Regla práctica:** lleva un margen de entre 100 y 200 euros en moneda local. El resto págalo con tarjeta o retira a medida que necesites. Nunca cambies todo de una sola vez. Terminarás con moneda extranjera sobrante difícil de convertir de vuelta.
 
-Para más consejos sobre economizar en viaje, consulta la guía de [presupuesto de viaje paso a paso](/es/blog/planificar-presupuesto-viaje) y el artículo sobre [viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico).
+Para más consejos sobre economizar en viaje, consulta la guía de [presupuesto de viaje paso a paso](/es/blog/planificar-presupuesto-viaje/) y el artículo sobre [viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico/).
 
 ## ¿Qué es la trampa del DCC y cómo la reconoces?
 
@@ -62,9 +62,9 @@ Una vez verificada la cuenta: carga dinero via transferencia SEPA, pide la tarje
 
 Cualquiera de los dos es mejor que un banco tradicional cobrando entre un 2 y un 3 por ciento de comisión por divisa extranjera.
 
-Si viajas al sudeste asiático, el artículo de [viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico) cubre la realidad del efectivo sobre el terreno. Para Latinoamérica, los [consejos de seguridad para Latinoamérica](/es/blog/seguridad-latinoamerica-viajeros) incluyen consejos prácticos sobre el manejo del dinero en efectivo.
+Si viajas al sudeste asiático, el artículo de [viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico/) cubre la realidad del efectivo sobre el terreno. Para Latinoamérica, los [consejos de seguridad para Latinoamérica](/es/blog/seguridad-latinoamerica-viajeros/) incluyen consejos prácticos sobre el manejo del dinero en efectivo.
 
-Para un análisis completo de las [mejores tarjetas de crédito para viajeros 2026](/es/blog/dinero-en-el-extranjero-consejos), el artículo enlazado tiene todos los detalles.
+Para un análisis completo de las [mejores tarjetas de crédito para viajeros 2026](/es/blog/dinero-en-el-extranjero-consejos/), el artículo enlazado tiene todos los detalles.
 
 ---
 
@@ -92,6 +92,6 @@ DCC, o conversión dinámica de divisas, ocurre cuando un terminal o cajero auto
 
 ## Más artículos
 
-- [Cómo planificar tu presupuesto de viaje paso a paso](/es/blog/planificar-presupuesto-viaje)
-- [Viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico)
-- [Consejos de seguridad para viajeros en Latinoamérica](/es/blog/seguridad-latinoamerica-viajeros)
+- [Cómo planificar tu presupuesto de viaje paso a paso](/es/blog/planificar-presupuesto-viaje/)
+- [Viaje económico por el sudeste asiático](/es/blog/sudeste-asiatico-viaje-economico/)
+- [Consejos de seguridad para viajeros en Latinoamérica](/es/blog/seguridad-latinoamerica-viajeros/)

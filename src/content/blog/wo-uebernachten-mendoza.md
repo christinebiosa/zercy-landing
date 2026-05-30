@@ -45,7 +45,7 @@ Die Stadt selbst hat 1 Million Einwohner mit Plaza Independencia als Herz. Calle
 
 **Top-Picks:** Cavas Wine Lodge - Relais & Châteaux (legendäre Casitas mit privaten Pools), Algodon Wine Estates (5-Sterne mit Golf und Polo), The Vines Resort & Spa (Premium mit Spa zwischen Reben).
 
-Lies dazu auch unseren [Buenos-Aires-Guide](/blog/wo-uebernachten-buenos-aires), Mendoza ist 2 Stunden Flug von BA und perfekte Kombi.
+Lies dazu auch unseren [Buenos-Aires-Guide](/blog/wo-uebernachten-buenos-aires/), Mendoza ist 2 Stunden Flug von BA und perfekte Kombi.
 
 ## Wann ist die beste Reisezeit für Mendoza?
 
@@ -119,6 +119,6 @@ Backpacker: 800-1.200 Euro pro Person inkl. Flug (Hostel in der Stadt, lokales S
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Buenos Aires: Die 5 Stadtteile](/blog/wo-uebernachten-buenos-aires)
-- [Wo übernachten in Lima: Die 4 Stadtteile](/blog/wo-uebernachten-lima)
-- [Wo übernachten in Cusco: Die 4 Stadtteile](/blog/wo-uebernachten-cusco)
+- [Wo übernachten in Buenos Aires: Die 5 Stadtteile](/blog/wo-uebernachten-buenos-aires/)
+- [Wo übernachten in Lima: Die 4 Stadtteile](/blog/wo-uebernachten-lima/)
+- [Wo übernachten in Cusco: Die 4 Stadtteile](/blog/wo-uebernachten-cusco/)

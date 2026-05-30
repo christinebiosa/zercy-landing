@@ -86,7 +86,7 @@ The connection between Bali and Lombok: ferry 4-5 hours (cheap, from Padang Bai 
 
 More route and accommodation info is available via [Lonely Planet Indonesia](https://www.lonelyplanet.com/indonesia).
 
-Our [Bali accommodation guide](/en/blog/where-to-stay-bali) covers the best areas on Bali in detail. Anyone planning broader Southeast Asia can check our [Bangkok guide](/en/blog/where-to-stay-bangkok). For anyone traveling carry-on only, our [carry-on tips](/en/blog/carry-on-only) are the right starting point.
+Our [Bali accommodation guide](/en/blog/where-to-stay-bali/) covers the best areas on Bali in detail. Anyone planning broader Southeast Asia can check our [Bangkok guide](/en/blog/where-to-stay-bangkok/). For anyone traveling carry-on only, our [carry-on tips](/en/blog/carry-on-only/) are the right starting point.
 
 ---
 
@@ -113,6 +113,6 @@ Bali has more infrastructure, more tourism, more temples and a Hindu culture. Lo
 ---
 
 **Read more:**
-- [Where to Stay in Bali: The Best Areas](/en/blog/where-to-stay-bali)
-- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok)
-- [Carry-On Only: Travel Smarter and Lighter](/en/blog/carry-on-only)
+- [Where to Stay in Bali: The Best Areas](/en/blog/where-to-stay-bali/)
+- [Where to Stay in Bangkok: The 5 Neighborhoods](/en/blog/where-to-stay-bangkok/)
+- [Carry-On Only: Travel Smarter and Lighter](/en/blog/carry-on-only/)

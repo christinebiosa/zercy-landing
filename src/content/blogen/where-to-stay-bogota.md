@@ -45,7 +45,7 @@ Just north of Candelaria. Bogotá's hippest neighborhood with hundreds of indie 
 
 **Top picks:** Hotel Click Clack (designer boutique with rooftop bar), Hotel BH El Retiro (modern mid-range), 100% B&B (small boutique with breakfast).
 
-See our [Cartagena guide](/en/blog/where-to-stay-cartagena) if you're exploring Colombia fully.
+See our [Cartagena guide](/en/blog/where-to-stay-cartagena/) if you're exploring Colombia fully.
 
 ## When is the best time to visit Bogotá?
 
@@ -119,6 +119,6 @@ Backpacker: $700-1,000 per person incl. flight (hostel in Candelaria, local food
 ---
 
 **Read more:**
-- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena)
-- [Where to stay in Lima: 4 neighborhoods](/en/blog/where-to-stay-lima)
-- [Where to stay in Cusco: 4 neighborhoods](/en/blog/where-to-stay-cusco)
+- [Where to stay in Cartagena: 4 neighborhoods](/en/blog/where-to-stay-cartagena/)
+- [Where to stay in Lima: 4 neighborhoods](/en/blog/where-to-stay-lima/)
+- [Where to stay in Cusco: 4 neighborhoods](/en/blog/where-to-stay-cusco/)

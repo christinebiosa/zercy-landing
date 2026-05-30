@@ -57,15 +57,15 @@ Charlottenburg Palace is worth a detour if you like garden architecture. The par
 
 Berlin does not have a Parisian skyline, but it has good vantage points. The Klunkerkranich rooftop bar in Neukölln (built on a parking deck), the TV Tower restaurant at Alexanderplatz, and various rooftop bars in Mitte offer solid panoramas. The Alexanderplatz tower rotates once per hour; tickets cost around 25 euros.
 
-Potsdamer Platz is livelier in the evening than during the day. The Sony Center glass dome, the Cinestar complex, and restaurants around the square make it a solid base for your last Berlin evening. Less intense than Kreuzberg, but central and well connected. If you want more time in Berlin, our guide on [where to stay in Berlin](/en/blog/where-to-stay-berlin) covers every neighbourhood by budget and travel style.
+Potsdamer Platz is livelier in the evening than during the day. The Sony Center glass dome, the Cinestar complex, and restaurants around the square make it a solid base for your last Berlin evening. Less intense than Kreuzberg, but central and well connected. If you want more time in Berlin, our guide on [where to stay in Berlin](/en/blog/where-to-stay-berlin/) covers every neighbourhood by budget and travel style.
 
 ## How much does a weekend in Berlin cost?
 
-Berlin is affordable by European capital standards. The Pergamon Museum costs 14 euros. The Holocaust Memorial and East Side Gallery are free. A 24-hour BVG transit card costs 9.90 euros. Dinner in Kreuzberg or Neukölln: 10 to 20 euros per person. For hotels, Prenzlauer Berg and Mitte are central but pricier. Friedrichshain and Neukölln cost noticeably less for equivalent comfort. For a wider perspective, our roundup of the [cheapest cities in Europe 2026](/en/blog/cheapest-cities-europe-2026) puts Berlin in context.
+Berlin is affordable by European capital standards. The Pergamon Museum costs 14 euros. The Holocaust Memorial and East Side Gallery are free. A 24-hour BVG transit card costs 9.90 euros. Dinner in Kreuzberg or Neukölln: 10 to 20 euros per person. For hotels, Prenzlauer Berg and Mitte are central but pricier. Friedrichshain and Neukölln cost noticeably less for equivalent comfort. For a wider perspective, our roundup of the [cheapest cities in Europe 2026](/en/blog/cheapest-cities-europe-2026/) puts Berlin in context.
 
 ## When is Berlin at its best?
 
-May through September. Summer brings Berlin's parks to life, along with open-air stages, beach bars on the Müggelsee, and the full outdoor energy of Mauerpark on Saturdays. September is the sweet spot: still warm, less crowded than July and August, and the city's event calendar is still packed. Flights to Berlin run frequently from most European cities. Our guide on [when to book flights](/en/blog/when-to-book-flights) shows how to find Berlin from around 30 euros.
+May through September. Summer brings Berlin's parks to life, along with open-air stages, beach bars on the Müggelsee, and the full outdoor energy of Mauerpark on Saturdays. September is the sweet spot: still warm, less crowded than July and August, and the city's event calendar is still packed. Flights to Berlin run frequently from most European cities. Our guide on [when to book flights](/en/blog/when-to-book-flights/) shows how to find Berlin from around 30 euros.
 
 Zercy finds the cheapest flight to Berlin and your hotel in one step. Save everything in the [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
@@ -92,6 +92,6 @@ Most of the Staatliche Museen on Museum Island open Tuesday through Sunday at 10
 ---
 
 **Read more:**
-- [Where to Stay in Berlin: Neighbourhoods and Hotels by Budget](/en/blog/where-to-stay-berlin)
-- [Cheapest Cities in Europe 2026: Where Your Money Goes Furthest](/en/blog/cheapest-cities-europe-2026)
-- [When to Book Flights: The Optimal Timing by Destination](/en/blog/when-to-book-flights)
+- [Where to Stay in Berlin: Neighbourhoods and Hotels by Budget](/en/blog/where-to-stay-berlin/)
+- [Cheapest Cities in Europe 2026: Where Your Money Goes Furthest](/en/blog/cheapest-cities-europe-2026/)
+- [When to Book Flights: The Optimal Timing by Destination](/en/blog/when-to-book-flights/)

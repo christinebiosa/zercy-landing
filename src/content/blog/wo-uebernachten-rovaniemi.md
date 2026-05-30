@@ -43,7 +43,7 @@ Diese und 100+ weitere Hotels in Rovaniemi findest du auf [Booking.com](https://
 
 **Sommer:** Mitternachtssonne von Mitte Mai bis Ende Juli. Kanufahrten auf dem Kemijoki, Wanderungen in Lappland. Tourismus läuft das ganze Jahr, Schwerpunkt bleibt Winter.
 
-Mehr zur Nordlicht-Jagd in unserem [Nordlichter 2026 Guide](/blog/nordlichter-2026-wo-wann-wie).
+Mehr zur Nordlicht-Jagd in unserem [Nordlichter 2026 Guide](/blog/nordlichter-2026-wo-wann-wie/).
 
 ## Santa Claus Village: Das Weihnachtsmann-Erlebnis
 
@@ -67,7 +67,7 @@ Die Glasiglu-Hotels hier sind deutlich günstiger als im Santa Claus Village und
 - **Arctic Ounasvaara Hotel:** Günstigere Zimmer mit Ski-in-Ski-out-Lage. Gut für Skiurlaub.
 - **Rovaniemi Log Cabins:** Holzhütten auf dem Hügel, Sauna im Haus, ruhige Lage.
 
-Unseren [Skandinavien Rundreise Guide](/blog/skandinavien-rundreise-route) lohnt es sich zu lesen, wenn Rovaniemi Teil einer größeren Nordeuropa-Reise sein soll.
+Unseren [Skandinavien Rundreise Guide](/blog/skandinavien-rundreise-route/) lohnt es sich zu lesen, wenn Rovaniemi Teil einer größeren Nordeuropa-Reise sein soll.
 
 ## Napapiiri und Saarenkylä: Budget und Ruhe
 
@@ -122,6 +122,6 @@ Santa Claus Village ist für Familien mit Kindern die erste Wahl. Das Erlebnis, 
 ---
 
 **Mehr lesen:**
-- [Nordlichter 2026: Wo, wann und wie du sie siehst](/blog/nordlichter-2026-wo-wann-wie)
-- [Skandinavien Rundreise: Die beste Route für Nordeuropa](/blog/skandinavien-rundreise-route)
-- [Finnland Reiseguide: Die wichtigsten Highlights](/blog/finnland-reiseguide-highlights)
+- [Nordlichter 2026: Wo, wann und wie du sie siehst](/blog/nordlichter-2026-wo-wann-wie/)
+- [Skandinavien Rundreise: Die beste Route für Nordeuropa](/blog/skandinavien-rundreise-route/)
+- [Finnland Reiseguide: Die wichtigsten Highlights](/blog/finnland-reiseguide-highlights/)

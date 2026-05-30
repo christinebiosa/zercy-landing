@@ -47,7 +47,7 @@ Kleine Unterkünfte in Gozo (B&Bs in alten Farmhäusern, sogenannte Farmhouses) 
 
 Die Alte Zitadelle in Rabat (Gozo) ist gratis zugänglich und bietet Panoramablick über die ganze Insel. Das Malta War Museum in Valletta zeigt die Geschichte der Belagerung im Zweiten Weltkrieg, als Malta am stärksten bombardierten Ort der Erde war.
 
-Interne Verlinkung: Wenn du Valletta mit weiteren Mittelmeer-Inseln kombinieren möchtest, lies auch unseren Guide zu den [schönsten Stränden Europas](/blog/schoenste-straende-europa-2026) und den [Tipps zu Griechenland-Inseln](/blog/geheimtipps-europa).
+Interne Verlinkung: Wenn du Valletta mit weiteren Mittelmeer-Inseln kombinieren möchtest, lies auch unseren Guide zu den [schönsten Stränden Europas](/blog/schoenste-straende-europa-2026/) und den [Tipps zu Griechenland-Inseln](/blog/geheimtipps-europa/).
 
 ---
 
@@ -74,6 +74,6 @@ Am besten früh morgens (vor 9 Uhr) oder am frühen Nachmittag nach 15 Uhr, wenn
 ---
 
 **Mehr lesen:**
-- [Slowenien: Europas grünes Geheimnis 2026](/blog/slowenien-geheimnis-2026)
-- [Geheimtipps in Europa: 7 unterschätzte Orte](/blog/geheimtipps-europa)
-- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt)
+- [Slowenien: Europas grünes Geheimnis 2026](/blog/slowenien-geheimnis-2026/)
+- [Geheimtipps in Europa: 7 unterschätzte Orte](/blog/geheimtipps-europa/)
+- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)

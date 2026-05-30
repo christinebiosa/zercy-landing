@@ -49,7 +49,7 @@ Günstiger als Centro Histórico und international gewandter. Nicht das "echte" 
 
 **Top-Picks:** Swissôtel Quito (zuverlässig, gut im Mariscal), Hotel Sebastian (Boutique, gut bewertet), Nu House Hostel (boutique Hostel, sehr beliebt).
 
-Unser [Ecuador und Galápagos Reiseguide](/blog/ecuador-galapagos-reiseguide) ist die Pflichtlektüre vor einem Quito-Besuch.
+Unser [Ecuador und Galápagos Reiseguide](/blog/ecuador-galapagos-reiseguide/) ist die Pflichtlektüre vor einem Quito-Besuch.
 
 ## Wann ist die beste Reisezeit für Quito?
 
@@ -105,6 +105,6 @@ Der Äquator liegt ca. 25 km nördlich von Quito bei Mitad del Mundo. Das Denkma
 ---
 
 ## Mehr lesen
-- [Ecuador und Galápagos Reiseguide: Was du wissen musst](/blog/ecuador-galapagos-reiseguide)
-- [Wo übernachten in Bogotá: Stadtteile erklärt](/blog/wo-uebernachten-bogota)
-- [Wo übernachten in Lima: Miraflores und mehr](/blog/wo-uebernachten-lima)
+- [Ecuador und Galápagos Reiseguide: Was du wissen musst](/blog/ecuador-galapagos-reiseguide/)
+- [Wo übernachten in Bogotá: Stadtteile erklärt](/blog/wo-uebernachten-bogota/)
+- [Wo übernachten in Lima: Miraflores und mehr](/blog/wo-uebernachten-lima/)

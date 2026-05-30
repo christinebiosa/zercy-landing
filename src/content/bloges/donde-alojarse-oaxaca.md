@@ -49,7 +49,7 @@ Jalatlaco está a cinco minutos a pie del Zócalo y parece otro mundo. Callecita
 
 **Opciones recomendadas:** Quinta Real Oaxaca (convento histórico, piscina en patio, la mejor dirección de la ciudad), La Casa de mis Recuerdos (boutique, patio, encanto artesanal), Hotel Parador San Miguel (categoría media, bello patio, buena ubicación).
 
-Si tienes pensado combinar el viaje con la capital, nuestra guía de [dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico) te ayuda a planificar bien.
+Si tienes pensado combinar el viaje con la capital, nuestra guía de [dónde alojarse en Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico/) te ayuda a planificar bien.
 
 ## ¿Qué Barrios Funcionan Mejor para Familias?
 
@@ -114,6 +114,6 @@ Oaxaca es una de las ciudades turísticas más seguras de México. El Centro His
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Ciudad de México: los mejores barrios](/es/blog/donde-alojarse-ciudad-de-mexico)
-- [Dónde alojarse en Cancún: Zona Hotelera vs. Centro](/es/blog/donde-alojarse-cancun)
-- [Dónde alojarse en Cartagena: los 4 barrios clave](/es/blog/donde-alojarse-cartagena)
+- [Dónde alojarse en Ciudad de México: los mejores barrios](/es/blog/donde-alojarse-ciudad-de-mexico/)
+- [Dónde alojarse en Cancún: Zona Hotelera vs. Centro](/es/blog/donde-alojarse-cancun/)
+- [Dónde alojarse en Cartagena: los 4 barrios clave](/es/blog/donde-alojarse-cartagena/)

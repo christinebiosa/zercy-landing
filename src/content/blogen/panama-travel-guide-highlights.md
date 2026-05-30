@@ -74,6 +74,6 @@ Roughly 5 percent of global trade passes through the Panama Canal. For the US, i
 ---
 
 **Read more:**
-- [Costa Rica Road Trip Route](/en/blog/costa-rica-road-trip-route)
-- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials)
-- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026)
+- [Costa Rica Road Trip Route](/en/blog/costa-rica-road-trip-route/)
+- [Travel Packing List Essentials](/en/blog/travel-packing-list-essentials/)
+- [Travel Insurance: Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)

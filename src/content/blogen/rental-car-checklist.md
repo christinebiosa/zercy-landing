@@ -62,7 +62,7 @@ Full-cover insurance with zero deductible is available from third-party provider
 
 Navigation included in the car or not? Works offline or requires a SIM data connection?
 
-Cheaper option: download Google Maps or Maps.me offline for your destination before you travel. It costs nothing, works without a signal, and is often more up-to-date than built-in car navigation. See also our guide [7 Airport Tricks That Save Time](/en/blog/airport-hacks) for how to prepare before arriving somewhere new.
+Cheaper option: download Google Maps or Maps.me offline for your destination before you travel. It costs nothing, works without a signal, and is often more up-to-date than built-in car navigation. See also our guide [7 Airport Tricks That Save Time](/en/blog/airport-hacks/) for how to prepare before arriving somewhere new.
 
 ## 8. Check Your Coverage for Cross-Border Driving
 
@@ -106,4 +106,4 @@ Document everything. If a dispute arises, you'll need your pre-rental photos, th
 
 In most of Western and Central Europe, yes — EU countries, Switzerland, Norway, and others are generally permitted. Restrictions usually apply to Albania, Kosovo, Bosnia & Herzegovina, Ukraine, Belarus, and Russia. Always confirm in writing with the rental company before booking.
 
-**Read more:** [One Week, Carry-On Only](/en/blog/carry-on-only) · [7 Airport Tricks That Save Time](/en/blog/airport-hacks) · [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips)
+**Read more:** [One Week, Carry-On Only](/en/blog/carry-on-only/) · [7 Airport Tricks That Save Time](/en/blog/airport-hacks/) · [7 Tricks to Find Cheaper Flights](/en/blog/cheap-flights-tips/)

@@ -49,7 +49,7 @@ After the lira's depreciation over recent years, Turkey is an extraordinary valu
 
 **Hot air balloon in Cappadocia:** Turkey's most iconic experience without question. 150 balloons rise simultaneously above the fairy chimneys at sunrise. Book in advance — good operators sell out weeks ahead.
 
-**Ephesus (near Selçuk):** The best-preserved ancient city in the world. The Library of Celsus, the Great Theatre, the Curetes Street. Visit at sunrise or in the afternoon (avoid the midday heat). More on Istanbul in our [Istanbul accommodation guide](/en/blog/where-to-stay-istanbul).
+**Ephesus (near Selçuk):** The best-preserved ancient city in the world. The Library of Celsus, the Great Theatre, the Curetes Street. Visit at sunrise or in the afternoon (avoid the midday heat). More on Istanbul in our [Istanbul accommodation guide](/en/blog/where-to-stay-istanbul/).
 
 **Pamukkale:** White travertine terraces with warm thermal water. Unique in the world. Combined with the ruins of Hierapolis, this is a full day's adventure.
 
@@ -80,6 +80,6 @@ The major tourist destinations (Istanbul, Cappadocia, Aegean coast, Riviera) are
 Turkish breakfast (Kahvaltı) with 15–20 small dishes is a ritual. Meze plates as a starter. Adana kebab, İskender kebab, lahmacun, börek, baklava, freshly squeezed pomegranate juice. Turkish tea (çay) in small glasses is the social lubricant — offered constantly and often free.
 
 ## Read more
-- [Where to Stay in Istanbul](/en/blog/where-to-stay-istanbul)
-- [48 Hours in Istanbul](/en/blog/48-hours-istanbul)
-- [Cheap Flights: How to Find the Best Deals](/en/blog/cheap-flights-tips)
+- [Where to Stay in Istanbul](/en/blog/where-to-stay-istanbul/)
+- [48 Hours in Istanbul](/en/blog/48-hours-istanbul/)
+- [Cheap Flights: How to Find the Best Deals](/en/blog/cheap-flights-tips/)

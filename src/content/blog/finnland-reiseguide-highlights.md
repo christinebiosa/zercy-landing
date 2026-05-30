@@ -45,7 +45,7 @@ Winter (Dezember bis März): Nordlichter, Lappland-Aktivitäten, Icehotel-Erfahr
 
 Frühling (April, Mai) und Herbst (September, Oktober): günstigere Preise, weniger Touristen. Herbst mit Ruska (Herbstlaub-Periode in Lappland, besonders im September) ist ein Geheimtipp.
 
-Für mehr Skandinavien-Inspiration lies auch [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route) und unseren Guide zu [Nordlichtern 2026](/blog/nordlichter-2026-wo-wann-wie).
+Für mehr Skandinavien-Inspiration lies auch [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route/) und unseren Guide zu [Nordlichtern 2026](/blog/nordlichter-2026-wo-wann-wie/).
 
 ---
 
@@ -72,6 +72,6 @@ Sauna ist Pflicht, am besten die traditionelle Rauchsauna (Savusauna). Saimaa-Se
 ---
 
 **Mehr lesen:**
-- [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route)
-- [Nordlichter 2026: Wo und Wann](/blog/nordlichter-2026-wo-wann-wie)
-- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt)
+- [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route/)
+- [Nordlichter 2026: Wo und Wann](/blog/nordlichter-2026-wo-wann-wie/)
+- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)

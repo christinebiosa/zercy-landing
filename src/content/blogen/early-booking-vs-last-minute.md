@@ -24,7 +24,7 @@ For peak-season routes (London-Ibiza in August, transatlantic over Thanksgiving 
 
 Strategy tip: Set a price alert in Google Flights and buy when the price hits your target range. That beats both rigid early booking and hopeful waiting.
 
-For more detail, the [cheap flights tips guide](/en/blog/cheap-flights-tips) and the [open-jaw tickets guide](/en/blog/open-jaw-tickets-travel-hack) cover additional strategies, including how one-way combinations often beat round trips on price.
+For more detail, the [cheap flights tips guide](/en/blog/cheap-flights-tips/) and the [open-jaw tickets guide](/en/blog/open-jaw-tickets-travel-hack/) cover additional strategies, including how one-way combinations often beat round trips on price.
 
 ## Why Last Minute Works Differently for Hotels Than for Flights
 
@@ -46,7 +46,7 @@ There are trip types where last minute is a structural advantage, not a gamble:
 
 **Open-destination travel:** "I want to go somewhere warm, anything goes" is the mindset last minute rewards. Fixed destination, fixed hotel, fixed dates? Last minute almost never helps.
 
-The [when to book flights article](/en/blog/when-to-book-flights) goes deeper into pricing algorithms with data for specific route types.
+The [when to book flights article](/en/blog/when-to-book-flights/) goes deeper into pricing algorithms with data for specific route types.
 
 ## How Should You Plan Smartest in 2026?
 
@@ -90,6 +90,6 @@ Airlines use dynamic pricing algorithms that classify last-minute bookers as les
 ---
 
 **Read more:**
-- [Cheap Flights: The Best Tips for 2026](/en/blog/cheap-flights-tips)
-- [When to Book Flights: The Optimal Windows](/en/blog/when-to-book-flights)
-- [Open-Jaw Tickets: The Underrated Travel Hack](/en/blog/open-jaw-tickets-travel-hack)
+- [Cheap Flights: The Best Tips for 2026](/en/blog/cheap-flights-tips/)
+- [When to Book Flights: The Optimal Windows](/en/blog/when-to-book-flights/)
+- [Open-Jaw Tickets: The Underrated Travel Hack](/en/blog/open-jaw-tickets-travel-hack/)

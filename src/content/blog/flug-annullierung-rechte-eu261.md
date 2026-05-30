@@ -56,7 +56,7 @@ Kein Anspruch bei echten Naturkatastrophen (Vulkanausbruch, extremer Sturm), pol
 
 **Verjährungsfrist:** In Deutschland 3 Jahre. Also keine Panik wenn du den Zettel nicht sofort parat hast.
 
-Mehr zu deinen Rechten bei verwandten Themen: [Flugverspätung: Was dir zusteht](/blog/flugverspaetung-entschaedigung-eu261) und [Flugstreik: Was du jetzt tun kannst](/blog/flugstreik-rechte-was-tun).
+Mehr zu deinen Rechten bei verwandten Themen: [Flugverspätung: Was dir zusteht](/blog/flugverspaetung-entschaedigung-eu261/) und [Flugstreik: Was du jetzt tun kannst](/blog/flugstreik-rechte-was-tun/).
 
 ## Was steht dir noch zu, wenn der Flug gestrichen wird?
 
@@ -92,6 +92,6 @@ Privatflüge, Charter ohne Ticketkauf, Flüge die außerhalb der EU starten (wen
 
 ## Mehr lesen
 
-- [Flugverspätung: Entschädigung nach EU261 beantragen](/blog/flugverspaetung-entschaedigung-eu261)
-- [Flugstreik: Deine Rechte wenn die Airline streikt](/blog/flugstreik-rechte-was-tun)
-- [Günstig Fliegen: Die besten Spartipps](/blog/guenstig-fliegen-tipps)
+- [Flugverspätung: Entschädigung nach EU261 beantragen](/blog/flugverspaetung-entschaedigung-eu261/)
+- [Flugstreik: Deine Rechte wenn die Airline streikt](/blog/flugstreik-rechte-was-tun/)
+- [Günstig Fliegen: Die besten Spartipps](/blog/guenstig-fliegen-tipps/)

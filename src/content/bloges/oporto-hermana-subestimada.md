@@ -36,7 +36,7 @@ Oporto tiene un problema de narrativa. Todo el mundo va a Lisboa y añade Oporto
 
 **Una semana para disfrutarlo de verdad:** con tiempo para hacer excursiones al Douro Valley (los viñedos en terrazas del interior son de los paisajes más bonitos de Europa), Guimarães (primera capital del Reino de Portugal, 50 minutos en tren) y Braga.
 
-Si quieres quedarte, consulta nuestra guía de [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa) (que incluye referencias a Oporto).
+Si quieres quedarte, consulta nuestra guía de [dónde alojarse en Lisboa](/es/blog/donde-alojarse-lisboa/) (que incluye referencias a Oporto).
 
 Zercy puede ayudarte a combinar vuelo y alojamiento en Oporto. Guarda tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -63,6 +63,6 @@ Las bodegas están en la orilla sur del Duero (Vila Nova de Gaia), cruzando el P
 ---
 
 **Más para leer:**
-- [Lisboa fuera de la ruta turística: los barrios auténticos](/es/blog/lisboa-fuera-ruta-turistica)
-- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid)
-- [48 horas en Roma: el itinerario perfecto](/es/blog/48-horas-roma)
+- [Lisboa fuera de la ruta turística: los barrios auténticos](/es/blog/lisboa-fuera-ruta-turistica/)
+- [Dónde alojarse en Madrid: Sol, Malasaña o Salamanca](/es/blog/donde-alojarse-madrid/)
+- [48 horas en Roma: el itinerario perfecto](/es/blog/48-horas-roma/)

@@ -50,7 +50,7 @@ Los precios de Airbnb han subido considerablemente desde 2020. El fenómeno de l
 - Compara el precio total de la estancia completa con lo que costaría el hotel equivalente en Booking.com
 - Los hoteles tienen incluida la limpieza diaria. En Airbnb esa limpieza se paga una sola vez, pero hay que hacer las camas y sacar la basura.
 
-Para una comparativa más detallada con opciones de apartamentos en plataformas, consulta nuestra guía de [apartamento vs hotel](/es/blog/apartamento-vs-hotel-cual-elegir).
+Para una comparativa más detallada con opciones de apartamentos en plataformas, consulta nuestra guía de [apartamento vs hotel](/es/blog/apartamento-vs-hotel-cual-elegir/).
 
 ## Factores que la gente no considera
 
@@ -85,6 +85,6 @@ Muchas ciudades (Barcelona, Ámsterdam, París, Nueva York) han regulado o limit
 ---
 
 **Más para leer:**
-- [Apartamento vs hotel: cuál elegir para cada viaje](/es/blog/apartamento-vs-hotel-cual-elegir)
-- [Reservar online o directo: comparativa honesta](/es/blog/reservar-online-o-directo)
-- [Seguro de viaje: cuándo vale la pena contratarlo](/es/blog/seguro-viaje-vale-la-pena)
+- [Apartamento vs hotel: cuál elegir para cada viaje](/es/blog/apartamento-vs-hotel-cual-elegir/)
+- [Reservar online o directo: comparativa honesta](/es/blog/reservar-online-o-directo/)
+- [Seguro de viaje: cuándo vale la pena contratarlo](/es/blog/seguro-viaje-vale-la-pena/)

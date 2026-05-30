@@ -43,7 +43,7 @@ Come at 6 p.m. Galleries open. Bars fill up. Restaurants put their full menus ou
 
 Dinner: Coyo Taco is packed for good reason. If you don't want to wait, walk one block out from the Walls complex. Better prices, same vibe. Budget 30 to 50 dollars per person for dinner with drinks.
 
-For your second night, consider staying in Wynwood or Brickell instead of South Beach. More central, better value, and no late Uber ride back across town. Our [guide to where to stay in Miami](/en/blog/where-to-stay-miami) breaks down every neighborhood by budget.
+For your second night, consider staying in Wynwood or Brickell instead of South Beach. More central, better value, and no late Uber ride back across town. Our [guide to where to stay in Miami](/en/blog/where-to-stay-miami/) breaks down every neighborhood by budget.
 
 ## What Makes Little Havana Worth a Morning?
 
@@ -65,7 +65,7 @@ The Pérez Art Museum Miami, or PAMM, is the main event. It sits directly on Bis
 
 The café inside is reasonably priced for a museum. Lunch here works fine.
 
-For context: if you've done New York's museums, the PAMM has a similar intentionality to the Whitney. Both reward spending real time. And if New York is next on your list, our [48 hours in New York guide](/en/blog/48-hours-new-york) is the same format as this one.
+For context: if you've done New York's museums, the PAMM has a similar intentionality to the Whitney. Both reward spending real time. And if New York is next on your list, our [48 hours in New York guide](/en/blog/48-hours-new-york/) is the same format as this one.
 
 ## How Does the Perfect Miami Weekend End?
 
@@ -83,7 +83,7 @@ If you have energy, stay. Brickell bars run until 2 or 3 a.m. If your flight is 
 
 MIA is large and can get chaotic. Allow at least 2.5 hours before your flight. Uber from Brickell takes 20 to 45 minutes depending on traffic. Book the night before if you have an early morning departure.
 
-For when to book your flight home, our article on [when to book flights](/en/blog/when-to-book-flights) explains the optimal booking window for US domestic and transatlantic routes. And if you're planning other US cities, our [48 hours in New York](/en/blog/48-hours-new-york) works the same way as this guide.
+For when to book your flight home, our article on [when to book flights](/en/blog/when-to-book-flights/) explains the optimal booking window for US domestic and transatlantic routes. And if you're planning other US cities, our [48 hours in New York](/en/blog/48-hours-new-york/) works the same way as this guide.
 
 ---
 
@@ -112,6 +112,6 @@ Hotel in South Beach: 150 to 300 dollars per night. Hotel in Brickell: 100 to 20
 ---
 
 **Read more:**
-- [Where to Stay in Miami: Best Neighborhoods by Budget](/en/blog/where-to-stay-miami)
-- [Where to Stay in New York: Manhattan or Brooklyn?](/en/blog/where-to-stay-new-york)
-- [When to Book Flights: The Right Timing for Cheap Fares](/en/blog/when-to-book-flights)
+- [Where to Stay in Miami: Best Neighborhoods by Budget](/en/blog/where-to-stay-miami/)
+- [Where to Stay in New York: Manhattan or Brooklyn?](/en/blog/where-to-stay-new-york/)
+- [When to Book Flights: The Right Timing for Cheap Fares](/en/blog/when-to-book-flights/)

@@ -81,7 +81,7 @@ Un mes en Tailandia, Vietnam y Camboya: aproximadamente 1.200-1.800 EUR en total
 
 ## ¿Cómo viajar por el Sudeste Asiático con solo equipaje de mano?
 
-Se puede. El clima cálido significa ropa liviana. Lavandería: disponible en casi todas las guesthouses por 1-2 EUR por kilo. Viajar con una sola mochila ahorra tarifas de equipaje en AirAsia y otras aerolíneas de bajo costo. Más detalles en nuestra [guía de solo equipaje de mano](/es/blog/solo-equipaje-de-mano).
+Se puede. El clima cálido significa ropa liviana. Lavandería: disponible en casi todas las guesthouses por 1-2 EUR por kilo. Viajar con una sola mochila ahorra tarifas de equipaje en AirAsia y otras aerolíneas de bajo costo. Más detalles en nuestra [guía de solo equipaje de mano](/es/blog/solo-equipaje-de-mano/).
 
 ---
 
@@ -108,6 +108,6 @@ Tailandia, Vietnam, Camboya, Laos y Bali se consideran destinos generalmente seg
 ---
 
 **Más información:**
-- [Consejos para viajar con poco dinero](/es/blog/consejos-viaje-economico)
-- [Los mejores hoteles en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok)
-- [Solo equipaje de mano: La guía completa](/es/blog/solo-equipaje-de-mano)
+- [Consejos para viajar con poco dinero](/es/blog/consejos-viaje-economico/)
+- [Los mejores hoteles en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok/)
+- [Solo equipaje de mano: La guía completa](/es/blog/solo-equipaje-de-mano/)

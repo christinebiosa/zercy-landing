@@ -57,7 +57,7 @@ Hoteles en Asakusa: de 70 a 200 euros. Buena oferta de hostales y hoteles boutiq
 **Recomendación:**
 - **Asakusa Tokyu REI Hotel** (moderno, junto al templo, aprox. 110 €)
 
-Para otras ciudades asiáticas vibrantes, consulta también [dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok) y [dónde alojarse en Seúl](/es/blog/donde-alojarse-seul).
+Para otras ciudades asiáticas vibrantes, consulta también [dónde alojarse en Bangkok](/es/blog/donde-alojarse-bangkok/) y [dónde alojarse en Seúl](/es/blog/donde-alojarse-seul/).
 
 ## Shibuya y Harajuku: Cultura pop y moda
 
@@ -98,6 +98,6 @@ El Narita Express (N'EX) cuesta unos 30 euros de ida. El Limousine Bus es más e
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Bangkok: Sukhumvit, Silom o la Ciudad Vieja](/es/blog/donde-alojarse-bangkok)
-- [Dónde alojarse en Seúl: Myeongdong, Hongdae o Gangnam](/es/blog/donde-alojarse-seul)
-- [Dónde alojarse en Bali: Seminyak, Ubud o Canggu](/es/blog/donde-alojarse-bali)
+- [Dónde alojarse en Bangkok: Sukhumvit, Silom o la Ciudad Vieja](/es/blog/donde-alojarse-bangkok/)
+- [Dónde alojarse en Seúl: Myeongdong, Hongdae o Gangnam](/es/blog/donde-alojarse-seul/)
+- [Dónde alojarse en Bali: Seminyak, Ubud o Canggu](/es/blog/donde-alojarse-bali/)

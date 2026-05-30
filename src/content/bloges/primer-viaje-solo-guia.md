@@ -16,7 +16,7 @@ Esta guía no es romanticismo de blog de viajes. Es lo que de verdad necesitas s
 
 No todos los países son igual de apropiados para empezar. No se trata de protegerte del mundo. Se trata de que la primera experiencia sea buena para que quieras repetirla.
 
-**Portugal** es donde muchos principiantes aciertan. Lisboa y Oporto son seguros, la gente es amable, el inglés se entiende en casi cualquier parte. La escena de hostales es animada. Los precios son razonables para Europa Occidental. Obtienes la sensación de "país extranjero" sin los obstáculos que al principio pueden agotarte. Para saber exactamente dónde alojarte, consulta la [guía de Lisboa fuera de las rutas turísticas](/es/blog/lisboa-fuera-ruta-turistica).
+**Portugal** es donde muchos principiantes aciertan. Lisboa y Oporto son seguros, la gente es amable, el inglés se entiende en casi cualquier parte. La escena de hostales es animada. Los precios son razonables para Europa Occidental. Obtienes la sensación de "país extranjero" sin los obstáculos que al principio pueden agotarte. Para saber exactamente dónde alojarte, consulta la [guía de Lisboa fuera de las rutas turísticas](/es/blog/lisboa-fuera-ruta-turistica/).
 
 **Tailandia** es el destino clásico para mochileros, y no es casualidad. La infraestructura para viajeros en solitario está diseñada a propósito. Hostales, guesthouses, autobuses turísticos, excursiones de día: todo está pensado para personas que llegan solas y quieren conectar. Chiang Mai especialmente: ciudad pequeña, ritmo relajado, cientos de viajeros con la misma mentalidad.
 
@@ -42,7 +42,7 @@ Viajar solo no significa viajar de forma descuidada. Unas pocas medidas simples 
 
 **Informa a alguien de tu plan.** Deja en casa un esquema básico: ciudad, alojamiento, salida prevista. Actualizaciones cortas diarias por WhatsApp a familiares o amigos mantienen a todos tranquilos. A ti también.
 
-**[Seguro de viaje](/es/blog/seguro-viaje-vale-la-pena).** No es opcional. Como viajero en solitario no tienes un acompañante que intervenga en una emergencia. Un buen seguro médico internacional cuesta menos que una cena y puede salirte carísimo si no lo tienes.
+**[Seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/).** No es opcional. Como viajero en solitario no tienes un acompañante que intervenga en una emergencia. Un buen seguro médico internacional cuesta menos que una cena y puede salirte carísimo si no lo tienes.
 
 **No dejes objetos de valor sin vigilar.** Parece obvio, porque lo es. En el hostal: usa la taquilla. En la playa: deja los objetos de valor en la habitación o turnaos para vigilar. Los carteristas trabajan de forma sistemática en zonas turísticas. Mantente atento, no paranoico.
 
@@ -54,7 +54,7 @@ El tema que más se subestima. Una tarjeta de débito normal resulta cara en el 
 
 **Un pequeño fondo en efectivo.** En algunos países, especialmente en el Sudeste Asiático o en mercados locales, no hay datáfono. 50-100 EUR en moneda local para la primera noche y pequeños gastos. El resto con tarjeta.
 
-Más sobre las mejores tarjetas para viajes y [qué aplicaciones realmente ayudan](/es/blog/mejores-apps-viaje-2026) lo encontrarás en las guías enlazadas.
+Más sobre las mejores tarjetas para viajes y [qué aplicaciones realmente ayudan](/es/blog/mejores-apps-viaje-2026/) lo encontrarás en las guías enlazadas.
 
 ## Lo que de verdad pasa cuando viajas solo
 
@@ -64,7 +64,7 @@ Llegas, el dormitorio del hostal es más ruidoso de lo esperado, y por un moment
 
 La primera noche, probablemente hablas con alguien de otro país. Al segundo día ya sabes su nombre. Al tercero, alguien te pregunta si quieres unirte a una excursión.
 
-Mujeres que viajan solas: muchos de los mejores destinos de esta guía son especialmente adecuados. Portugal, Japón, Tailandia con las precauciones correctas. Para un desglose completo, lee la [guía para mujeres que viajan solas](/es/blog/viaje-solo-mujeres-seguro).
+Mujeres que viajan solas: muchos de los mejores destinos de esta guía son especialmente adecuados. Portugal, Japón, Tailandia con las precauciones correctas. Para un desglose completo, lee la [guía para mujeres que viajan solas](/es/blog/viaje-solo-mujeres-seguro/).
 
 El primer viaje solo cambia algo. No sabrás qué hasta que suceda. Pero casi nadie vuelve y dice: ojalá no lo hubiera hecho.
 
@@ -89,6 +89,6 @@ Copias de documentos en la nube, notificar a un contacto de emergencia en casa, 
 ---
 
 **Leer más:**
-- [Viaje solo para mujeres: Los países más seguros y mejores consejos](/es/blog/viaje-solo-mujeres-seguro)
-- [Mochilero para principiantes: Lo que de verdad necesitas](/es/blog/mochilero-guia-principiantes)
-- [Las mejores apps de viaje 2026 para la carretera](/es/blog/mejores-apps-viaje-2026)
+- [Viaje solo para mujeres: Los países más seguros y mejores consejos](/es/blog/viaje-solo-mujeres-seguro/)
+- [Mochilero para principiantes: Lo que de verdad necesitas](/es/blog/mochilero-guia-principiantes/)
+- [Las mejores apps de viaje 2026 para la carretera](/es/blog/mejores-apps-viaje-2026/)

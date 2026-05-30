@@ -53,7 +53,7 @@ Die [offizielle Bordeaux-Tourismus-Behörde](https://www.bordeaux-tourisme.com) 
 
 Frühling (April-Juni) und Herbst (September-Oktober) sind die idealen Monate. Weinlese ist im September/Oktober: Châteaux öffnen ihre Tore, die Stimmung in der Stadt ist besonders. Sommer (Juli-August) ist heiß (28-35 Grad) und touristisch voll, Hotels teurer. Winter (November-März) mild und günstig, Weintouren laufen ganzjährig.
 
-Mehr Tipps für cleveres Reisen in Frankreich findest du in unserem [Guide zu Zugreisen Europa](/blog/zugreisen-europa).
+Mehr Tipps für cleveres Reisen in Frankreich findest du in unserem [Guide zu Zugreisen Europa](/blog/zugreisen-europa/).
 
 ## Saint-Michel: Das Bohemien-Viertel
 
@@ -65,7 +65,7 @@ Südlich von Saint-Pierre, rund um die mächtige Basilika Saint-Michel. Hier ist
 
 **Top-Picks:** Hotel Ibis Bordeaux Centre Meriadeck (sauberes Budget), Hôtel Acanthe (kleines Familien-Hotel), Apartments über Booking im Vieux-Quartier.
 
-Wer Flaneur-Stadtteile liebt, findet ähnliche Energie im [Lissabon Guide abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade).
+Wer Flaneur-Stadtteile liebt, findet ähnliche Energie im [Lissabon Guide abseits der Touristenpfade](/blog/lissabon-abseits-der-touristenpfade/).
 
 ## Triangle d'Or: Bordeaux' Luxusviertel
 
@@ -124,6 +124,6 @@ September bis Oktober, je nach Jahrgang und Terroir. Grand Cru Châteaux beginne
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Marseille: Die 4 Stadtteile](/blog/wo-uebernachten-marseille)
-- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris)
-- [Zugreisen Europa Guide 2026](/blog/zugreisen-europa)
+- [Wo übernachten in Marseille: Die 4 Stadtteile](/blog/wo-uebernachten-marseille/)
+- [Wo übernachten in Paris: Die 5 Stadtteile](/blog/wo-uebernachten-paris/)
+- [Zugreisen Europa Guide 2026](/blog/zugreisen-europa/)

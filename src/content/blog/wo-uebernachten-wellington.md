@@ -93,11 +93,11 @@ Fußgänger zahlen ab 30-50 NZD pro Richtung. Mit Auto (Standard-PKW): 100-200 N
 
 ### Welche Sehenswürdigkeiten gibt es in Wellington?
 
-Te Papa Museum (nationales Museum, kostenlos, 5+ Stunden), Cable Car auf den Kelburn Hill (Stadtblick), Wellington Botanic Garden (kostenlos, direkt oben), Museum of City and Sea, Zealandia Eco-Sanctuary (einzigartiges Wildtierprojekt), Weta Workshop Unleashed (für Herr der Ringe Fans). Der [Neuseeland Reiseguide](/blog/wo-uebernachten-auckland) gibt den Überblick für die gesamte Insel.
+Te Papa Museum (nationales Museum, kostenlos, 5+ Stunden), Cable Car auf den Kelburn Hill (Stadtblick), Wellington Botanic Garden (kostenlos, direkt oben), Museum of City and Sea, Zealandia Eco-Sanctuary (einzigartiges Wildtierprojekt), Weta Workshop Unleashed (für Herr der Ringe Fans). Der [Neuseeland Reiseguide](/blog/wo-uebernachten-auckland/) gibt den Überblick für die gesamte Insel.
 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Auckland: Waterfront, City oder Parnell?](/blog/wo-uebernachten-auckland)
-- [Wo übernachten in Queenstown: Adventure-Base oder ruhige Natur?](/blog/wo-uebernachten-queenstown)
-- [Australien Rundreise: Wie du Neuseeland optimal kombinierst](/blog/australien-rundreise-route)
+- [Wo übernachten in Auckland: Waterfront, City oder Parnell?](/blog/wo-uebernachten-auckland/)
+- [Wo übernachten in Queenstown: Adventure-Base oder ruhige Natur?](/blog/wo-uebernachten-queenstown/)
+- [Australien Rundreise: Wie du Neuseeland optimal kombinierst](/blog/australien-rundreise-route/)

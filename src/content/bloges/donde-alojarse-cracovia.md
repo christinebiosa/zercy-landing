@@ -51,7 +51,7 @@ Tiempo a pie hasta la Ciudad Vieja: 15 minutos, o 5 minutos en tranvía.
 - **Hotel Tournet Kazimierz:** Entrada económica al barrio. Sencillo, limpio, buena ubicación.
 - **Apartamentos boutique en Kazimierz:** Varios edificios históricos convertidos en apartamentos. Algunos en antiguas sinagogas. Ambiente único.
 
-Cracovia es una parada natural en la ruta de [trenes nocturnos Viena-Varsovia](/es/blog/trenes-nocturnos-europa-2026).
+Cracovia es una parada natural en la ruta de [trenes nocturnos Viena-Varsovia](/es/blog/trenes-nocturnos-europa-2026/).
 
 ## Podgórze: auténtico y en auge
 
@@ -102,6 +102,6 @@ Tres días para la Ciudad Vieja, Kazimierz y Auschwitz-Birkenau (imprescindible)
 ---
 
 **Leer más:**
-- [Dónde alojarse en Budapest: Pest, Buda o el Distrito de las Ruinas](/es/blog/donde-alojarse-budapest)
-- [Trenes nocturnos en Europa 2026: la guía completa](/es/blog/trenes-nocturnos-europa-2026)
-- [Joyas ocultas de Europa: ciudades infravaloradas](/es/blog/joyas-ocultas-europa)
+- [Dónde alojarse en Budapest: Pest, Buda o el Distrito de las Ruinas](/es/blog/donde-alojarse-budapest/)
+- [Trenes nocturnos en Europa 2026: la guía completa](/es/blog/trenes-nocturnos-europa-2026/)
+- [Joyas ocultas de Europa: ciudades infravaloradas](/es/blog/joyas-ocultas-europa/)

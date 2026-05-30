@@ -18,7 +18,7 @@ Die Regel ist simpel. Wenn deine Reise noch nicht zu 100 Prozent sicher ist, buc
 
 Auf Plattformen wie [Booking.com](https://www.booking.com/content/terms.html) siehst du die Stornobedingungen direkt beim Preis. Grüner Text mit "Kostenlose Stornierung" ist dein Freund. Alles andere, nur wenn du absolut sicher bist.
 
-Mehr zum Thema: [Booking.com vs. direkt buchen: Was lohnt sich wirklich?](/blog/booking-vs-direkt-buchen)
+Mehr zum Thema: [Booking.com vs. direkt buchen: Was lohnt sich wirklich?](/blog/booking-vs-direkt-buchen/)
 
 ## Was sind die üblichen Stornierungsfristen?
 
@@ -32,7 +32,7 @@ Die meisten Hotels arbeiten mit folgenden Fristen:
 
 Tipp: Immer die Stornofristen direkt nach der Buchung in deinen Kalender eintragen. Nicht "morgen". Sofort.
 
-Verwandtes Thema: [Hotel günstiger buchen: Diese Tricks funktionieren wirklich](/blog/hotel-guenstiger-buchen-tipps)
+Verwandtes Thema: [Hotel günstiger buchen: Diese Tricks funktionieren wirklich](/blog/hotel-guenstiger-buchen-tipps/)
 
 ## Was passiert beim No-Show?
 
@@ -44,7 +44,7 @@ Es gibt Ausnahmen. Bei einem medizinischen Notfall mit entsprechendem Nachweis k
 
 Eine gute Reisekrankenversicherung, manchmal auch als Reiserücktrittsversicherung abgeschlossen, deckt Hotel-Stornierungskosten bei unvorhergesehenen Erkrankungen oder Unfällen. Das ist kein Luxus. Das ist Pflicht für alle, die regelmäßig reisen.
 
-Mehr dazu: [Reiserücktrittsversicherung: Was sie wirklich abdeckt](/blog/reiseruecktrittsversicherung-guide)
+Mehr dazu: [Reiserücktrittsversicherung: Was sie wirklich abdeckt](/blog/reiseruecktrittsversicherung-guide/)
 
 ## Wie stornierst du richtig, und was musst du aufheben?
 
@@ -81,9 +81,9 @@ Eine Reiserücktrittsversicherung oder eine umfassende Reisekrankenversicherung.
 ---
 
 **Mehr lesen:**
-- [Flug umbuchen oder stornieren: So geht's richtig](/blog/flug-umbuchen-stornieren-guide)
-- [Hotel günstiger buchen: Diese Tricks funktionieren wirklich](/blog/hotel-guenstiger-buchen-tipps)
-- [Reiserücktrittsversicherung: Was sie wirklich abdeckt](/blog/reiseruecktrittsversicherung-guide)
+- [Flug umbuchen oder stornieren: So geht's richtig](/blog/flug-umbuchen-stornieren-guide/)
+- [Hotel günstiger buchen: Diese Tricks funktionieren wirklich](/blog/hotel-guenstiger-buchen-tipps/)
+- [Reiserücktrittsversicherung: Was sie wirklich abdeckt](/blog/reiseruecktrittsversicherung-guide/)
 
 ---
 

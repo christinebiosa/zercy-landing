@@ -24,7 +24,7 @@ Connecting makes sense when you:
 - have a flexible schedule with no fixed commitments the next morning
 - are flying a long-haul route to Asia or South America, where the direct-flight premium often hits 40 to 50 percent
 
-Our guide to [ex-EU routing](/en/blog/ex-eu-routing-cheaper-flights) covers more ways to find cheaper fares through smarter routing.
+Our guide to [ex-EU routing](/en/blog/ex-eu-routing-cheaper-flights/) covers more ways to find cheaper fares through smarter routing.
 
 ## When is a direct flight clearly the better choice?
 
@@ -50,7 +50,7 @@ This is one of the most common pre-booking questions. And the answer is more spe
 
 **Below those numbers, you're relying on luck.** Not planning. Luck. Anyone building an itinerary around that should ask whether the price saving is worth the stress exposure.
 
-If you're flexible on dates, you can often find cheaper direct flights by shifting your departure by a few days. Our article on [flexible date searches](/en/blog/flexible-dates-flight-hack) explains how to use that to your advantage.
+If you're flexible on dates, you can often find cheaper direct flights by shifting your departure by a few days. Our article on [flexible date searches](/en/blog/flexible-dates-flight-hack/) explains how to use that to your advantage.
 
 ## What does connecting really cost?
 
@@ -58,15 +58,15 @@ Not just in time, also in money. A missed connection means: airport hotel, extra
 
 Then there's exhaustion. A direct flight from Frankfurt to Bangkok takes eleven hours. With a connection you're often looking at 15 to 18. Your body notices. If you have a long day planned on arrival, or meetings the morning after, you're paying the price difference in energy.
 
-One alternative worth knowing about is the [open-jaw ticket](/en/blog/open-jaw-tickets-travel-hack): you fly into one city, travel overland, and fly home from another. It combines flexibility with fair pricing, without forcing you to backtrack to your departure point.
+One alternative worth knowing about is the [open-jaw ticket](/en/blog/open-jaw-tickets-travel-hack/): you fly into one city, travel overland, and fly home from another. It combines flexibility with fair pricing, without forcing you to backtrack to your departure point.
 
 ## How do you find the better option?
 
-[Google Flights](/en/blog/google-flights-tips-tricks-2026) is the most powerful tool for this comparison. Enter your route, filter for non-stop, and compare the price gap with connecting options. You see the real time difference at a glance.
+[Google Flights](/en/blog/google-flights-tips-tricks-2026/) is the most powerful tool for this comparison. Enter your route, filter for non-stop, and compare the price gap with connecting options. You see the real time difference at a glance.
 
 If the direct flight costs more than 40 percent extra: book a connecting flight with a generous layover. If the price gap is under €100: direct is almost always the better call.
 
-And if you're unsure when to book at all, check our guide on [when to book flights](/en/blog/when-to-book-flights). Timing the purchase right can sometimes close the gap between direct and connecting pricing entirely.
+And if you're unsure when to book at all, check our guide on [when to book flights](/en/blog/when-to-book-flights/). Timing the purchase right can sometimes close the gap between direct and connecting pricing entirely.
 
 ---
 
@@ -94,6 +94,6 @@ On short European routes the gap is often small, under €50. On long-haul to As
 
 Read more:
 
-- [Open-Jaw Tickets: The Travel Hack Almost Nobody Uses](/en/blog/open-jaw-tickets-travel-hack)
-- [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026)
-- [Ex-EU Routing: How to Fly Cheaper via Europe](/en/blog/ex-eu-routing-cheaper-flights)
+- [Open-Jaw Tickets: The Travel Hack Almost Nobody Uses](/en/blog/open-jaw-tickets-travel-hack/)
+- [Google Flights Tips and Tricks 2026](/en/blog/google-flights-tips-tricks-2026/)
+- [Ex-EU Routing: How to Fly Cheaper via Europe](/en/blog/ex-eu-routing-cheaper-flights/)

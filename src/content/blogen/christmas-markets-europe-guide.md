@@ -23,7 +23,7 @@ Here are eight Christmas markets that deserve a spot on your travel list.
 
 **Vienna** gives you the best setting. The market on the Rathausplatz is the largest in Austria. The Ferris wheel from the Prater lights the background. Over 150 stalls. And that's just one market. Vienna runs several simultaneously: Schönbrunn Palace, Karlsplatz, the Spittelberg quarter. Vienna is Christmas markets plural. See [wienerchristkindlmarkt.at](https://www.wienerchristkindlmarkt.at) for this year's dates.
 
-**Prague** is the most affordable of the top destinations. Markets on the Old Town Square and Wenceslas Square. Czech mulled wine, grilled klobása sausage, chimney cake. Everything noticeably cheaper than Germany or Austria. Prague is where you get the fairy-tale setting without the eye-watering prices. More on visiting: [48 Hours in Prague](/en/blog/48-hours-prague).
+**Prague** is the most affordable of the top destinations. Markets on the Old Town Square and Wenceslas Square. Czech mulled wine, grilled klobása sausage, chimney cake. Everything noticeably cheaper than Germany or Austria. Prague is where you get the fairy-tale setting without the eye-watering prices. More on visiting: [48 Hours in Prague](/en/blog/48-hours-prague/).
 
 **Colmar in Alsace** is the most romantic. Small, medieval, almost unrealistically pretty. Pastel-colored half-timbered houses, flower boxes, light strings. Five separate markets spread through the old town. If Strasbourg feels too large, Colmar is the answer. It's only 70 kilometers away.
 
@@ -57,9 +57,9 @@ Vienna and Zurich are the most expensive. Mulled wine runs 5 to 7 euros. A cone 
 
 Strasbourg sits in the middle. Tallinn is pleasantly cheap by Western European standards.
 
-Accommodation is the biggest cost. Mid-range hotels in Nuremberg or Strasbourg in December: 100 to 180 euros per night. Vienna is similar. Tip: use a nearby city as your base. Karlsruhe to Strasbourg is 80 km. Linz to Vienna is a two-hour train ride. More on this: [Where to Stay in Vienna: Best Neighborhoods](/en/blog/where-to-stay-vienna).
+Accommodation is the biggest cost. Mid-range hotels in Nuremberg or Strasbourg in December: 100 to 180 euros per night. Vienna is similar. Tip: use a nearby city as your base. Karlsruhe to Strasbourg is 80 km. Linz to Vienna is a two-hour train ride. More on this: [Where to Stay in Vienna: Best Neighborhoods](/en/blog/where-to-stay-vienna/).
 
-Budget planning guide: [Travel Savings and Budget Planning](/en/blog/travel-savings-budget-planning).
+Budget planning guide: [Travel Savings and Budget Planning](/en/blog/travel-savings-budget-planning/).
 
 ---
 
@@ -98,6 +98,6 @@ First-timers: Nuremberg or Strasbourg. Couples: Colmar. Budget travelers: Prague
 **Plan your Christmas market trip with Zercy.** Tell it where you want to go and when. Zercy finds flights, suggests hotels, and keeps the whole trip organized. [Open your logbook](https://www.zercy.app/logbook).
 
 **Read more:**
-- [European Cities in Winter: A Practical Guide](/en/blog/european-cities-winter-guide)
-- [Where to Stay in Vienna: Best Areas and Neighborhoods](/en/blog/where-to-stay-vienna)
-- [48 Hours in Prague: What's Actually Worth It](/en/blog/48-hours-prague)
+- [European Cities in Winter: A Practical Guide](/en/blog/european-cities-winter-guide/)
+- [Where to Stay in Vienna: Best Areas and Neighborhoods](/en/blog/where-to-stay-vienna/)
+- [48 Hours in Prague: What's Actually Worth It](/en/blog/48-hours-prague/)

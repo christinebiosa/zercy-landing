@@ -49,7 +49,7 @@ Lo que la mayoría de turistas nunca ve. El Centro es el Cancún real, donde los
 
 **Desventaja:** Necesitas autobús o taxi a la playa. El autobús ADO o Uber cuesta 6-12 USD ida a la Zona Hotelera.
 
-Lee también nuestra [guía de la Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico) si vas a explorar más del país.
+Lee también nuestra [guía de la Ciudad de México](/es/blog/donde-alojarse-ciudad-de-mexico/) si vas a explorar más del país.
 
 ## Puerto Morelos: Tranquilo y arrecife
 
@@ -114,6 +114,6 @@ Mochilero: 700-1.000 USD por persona incl. vuelo (hostal en El Centro, autobús 
 ---
 
 **Más para leer:**
-- [Dónde alojarse en Ciudad de México: 5 barrios](/es/blog/donde-alojarse-ciudad-de-mexico)
-- [Dónde alojarse en Tulum: Los mejores barrios](/es/blog/donde-alojarse-tulum)
-- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena)
+- [Dónde alojarse en Ciudad de México: 5 barrios](/es/blog/donde-alojarse-ciudad-de-mexico/)
+- [Dónde alojarse en Tulum: Los mejores barrios](/es/blog/donde-alojarse-tulum/)
+- [Dónde alojarse en Cartagena: 4 barrios](/es/blog/donde-alojarse-cartagena/)

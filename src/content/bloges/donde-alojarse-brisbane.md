@@ -47,7 +47,7 @@ La web oficial de turismo [Visit Brisbane](https://www.visitbrisbane.com.au) tie
 
 **Mejores opciones:** Ovolo The Valley (hotel boutique con personalidad auténtica), The Calile Hotel (hotel de diseño con piscina icónica), Base Backpackers Brisbane (cuando el presupuesto es lo primero).
 
-Si también vas a visitar Sydney, nuestra [guía de barrios de Sydney](/es/blog/donde-alojarse-sydney) tiene la misma estructura para comparar.
+Si también vas a visitar Sydney, nuestra [guía de barrios de Sydney](/es/blog/donde-alojarse-sydney/) tiene la misma estructura para comparar.
 
 ## ¿Cuándo es la mejor época para visitar Brisbane?
 
@@ -73,7 +73,7 @@ Paddington está al oeste del CBD en suaves colinas. Las características casas 
 
 **Mejores opciones:** Paddington Boutique Hotel (clásica casa queenslander, pequeño y personal), Milton Apartments (buena ubicación cerca del río), Caxton Apartments (tranquilo, carácter local).
 
-Para Melbourne como segundo destino australiano, nuestra [guía de barrios de Melbourne](/es/blog/donde-alojarse-melbourne) es la siguiente lectura.
+Para Melbourne como segundo destino australiano, nuestra [guía de barrios de Melbourne](/es/blog/donde-alojarse-melbourne/) es la siguiente lectura.
 
 ## Kangaroo Point: Para activos y familias
 
@@ -121,6 +121,6 @@ De junio a agosto: temperaturas agradables entre 20 y 25 grados, poca lluvia, id
 ---
 
 **Más información:**
-- [Dónde alojarse en Sídney: Los 5 barrios](/es/blog/donde-alojarse-sydney)
-- [Dónde alojarse en Melbourne: Los 5 barrios](/es/blog/donde-alojarse-melbourne)
-- [Vuelos baratos: consejos para encontrar el mejor precio](/es/blog/vuelos-baratos-consejos)
+- [Dónde alojarse en Sídney: Los 5 barrios](/es/blog/donde-alojarse-sydney/)
+- [Dónde alojarse en Melbourne: Los 5 barrios](/es/blog/donde-alojarse-melbourne/)
+- [Vuelos baratos: consejos para encontrar el mejor precio](/es/blog/vuelos-baratos-consejos/)

@@ -53,7 +53,7 @@ The [Hoi An World Heritage Organisation](https://hoianworldheritage.org.vn) has 
 
 February through April is ideal: dry, comfortable temperatures around 25°C, almost no rain. October and November is rainy season. Hoi An floods regularly, especially the lower-lying parts of the Ancient Town. December to January is dry but high season with the highest prices. If you have flexibility, March is the sweet spot.
 
-Combinations work well: Hoi An sits between Da Nang airport (30 minutes) and Hue (2 hours by bus). Read our [Vietnam 2-week itinerary guide](/en/blog/vietnam-2-week-route) for the best route through central Vietnam.
+Combinations work well: Hoi An sits between Da Nang airport (30 minutes) and Hue (2 hours by bus). Read our [Vietnam 2-week itinerary guide](/en/blog/vietnam-2-week-route/) for the best route through central Vietnam.
 
 ## An Bang Beach: Sand Plus Old Town
 
@@ -75,7 +75,7 @@ If you want the tailor experience Hoi An is famous for: there are over 400 tailo
 
 **Cam Thanh** is to the west, surrounded by rice paddies. Eco lodges and bamboo huts, total calm. The basket boat experience (Coconut Basket Boats) is more authentic and cheaper here than in the Ancient Town. **Top picks:** Hoi An Eco Lodge (bamboo architecture, rice field views), An Bang Eco Lodge (budget eco, bicycles included).
 
-If you're continuing south after Hoi An: [Where to stay in Ho Chi Minh City](/en/blog/where-to-stay-ho-chi-minh-city) and [Where to stay in Hanoi](/en/blog/where-to-stay-hanoi) are the natural next stops.
+If you're continuing south after Hoi An: [Where to stay in Ho Chi Minh City](/en/blog/where-to-stay-ho-chi-minh-city/) and [Where to stay in Hanoi](/en/blog/where-to-stay-hanoi/) are the natural next stops.
 
 ## Where Should You Book?
 
@@ -113,6 +113,6 @@ The Hoi An Lantern Festival takes place every month on the 14th day of the lunar
 ---
 
 **Read more:**
-- [Where to stay in Hanoi: The 5 neighborhoods](/en/blog/where-to-stay-hanoi)
-- [Vietnam 2-week itinerary: The best route](/en/blog/vietnam-2-week-route)
-- [Where to stay in Bangkok: The 5 neighborhoods](/en/blog/where-to-stay-bangkok)
+- [Where to stay in Hanoi: The 5 neighborhoods](/en/blog/where-to-stay-hanoi/)
+- [Vietnam 2-week itinerary: The best route](/en/blog/vietnam-2-week-route/)
+- [Where to stay in Bangkok: The 5 neighborhoods](/en/blog/where-to-stay-bangkok/)

@@ -82,6 +82,6 @@ Die touristischen Kernziele dieser Route gelten als sicher. Grundregeln: Uber st
 ---
 
 **Mehr lesen:**
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Costa Rica Rundreise Route](/blog/costa-rica-rundreise-route)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Costa Rica Rundreise Route](/blog/costa-rica-rundreise-route/)

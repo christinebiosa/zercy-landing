@@ -43,7 +43,7 @@ Top picks for remote workers right now.
 
 **Costa Rica.** Rentista visa with $2,500 monthly proven income. Foreign income is tax-free. Very popular with freelancers.
 
-If Central America interests you, check our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route).
+If Central America interests you, check our [Costa Rica road trip guide](/en/blog/costa-rica-road-trip-route/).
 
 ## What should you sort out before you go?
 
@@ -59,7 +59,7 @@ Fourth: visa requirements. No paperwork inside the EU. Costa Rica or Bali might 
 
 Fifth: adjust your insurance. Statutory health insurance covers a lot inside the EU, almost nothing outside. International health insurance for long stays runs €50 to €100 per month.
 
-If you want to fly business class without burning your savings, see our [business class without miles guide](/en/blog/business-class-without-miles).
+If you want to fly business class without burning your savings, see our [business class without miles guide](/en/blog/business-class-without-miles/).
 
 ---
 
@@ -86,6 +86,6 @@ For workations over 6 weeks straight, repeated visits to the same location, or i
 ---
 
 **Read more:**
-- [What is Zercy? The AI travel planner explained](/en/blog/what-is-zercy)
-- [Business class: when is it actually worth it?](/en/blog/business-class-worth-it)
-- [Costa Rica road trip: the perfect 2-week route](/en/blog/costa-rica-road-trip-route)
+- [What is Zercy? The AI travel planner explained](/en/blog/what-is-zercy/)
+- [Business class: when is it actually worth it?](/en/blog/business-class-worth-it/)
+- [Costa Rica road trip: the perfect 2-week route](/en/blog/costa-rica-road-trip-route/)

@@ -86,6 +86,6 @@ Yes. Creams and lotions are treated as liquids regardless of consistency. This i
 ---
 
 **Read more:**
-- [Carry-on only travel: What you actually need](/en/blog/carry-on-only)
-- [Powerbank rules for carry-on luggage 2026](/en/blog/powerbank-rules-carry-on-2026)
-- [Cheap flights tips: Making the most of carry-on fares](/en/blog/cheap-flights-tips)
+- [Carry-on only travel: What you actually need](/en/blog/carry-on-only/)
+- [Powerbank rules for carry-on luggage 2026](/en/blog/powerbank-rules-carry-on-2026/)
+- [Cheap flights tips: Making the most of carry-on fares](/en/blog/cheap-flights-tips/)

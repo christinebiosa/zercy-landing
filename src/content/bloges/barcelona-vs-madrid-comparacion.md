@@ -21,7 +21,7 @@ Luego está La Barceloneta, la playa urbana. Visitar una obra de Gaudí y tirart
 
 La cocina catalana es propia y excelente. El pa amb tomàquet (pan con tomate y aceite) es comida cotidiana, no un truco para turistas. A eso se suman los mariscos frescos, el cava y los bares de tapas que llevan décadas sirviendo al mismo barrio.
 
-Un matiz importante: Barcelona se ha encarecido mucho desde 2020. En 2024 hubo protestas contra el turismo masivo, porque el alojamiento asequible para los residentes escasea. Reserva con tiempo o mira barrios fuera del Eixample. Nuestra guía de [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona) tiene el desglose por barrios.
+Un matiz importante: Barcelona se ha encarecido mucho desde 2020. En 2024 hubo protestas contra el turismo masivo, porque el alojamiento asequible para los residentes escasea. Reserva con tiempo o mira barrios fuera del Eixample. Nuestra guía de [dónde alojarse en Barcelona](/es/blog/donde-alojarse-barcelona/) tiene el desglose por barrios.
 
 ## ¿Qué convierte a Madrid en la mejor opción para algunos?
 
@@ -31,7 +31,7 @@ El triángulo de museos en el centro es de categoría mundial: el Prado con Vel�
 
 Luego está la cultura de tapas. Madrid vive una gastronomía propia: patatas bravas, bocadillo de calamares, gambas al ajillo. Los restaurantes son en promedio un 10 a 20 por ciento más baratos que en Barcelona. Una cena que cuesta 40 euros en Barcelona sale por 30 euros en Madrid, con la misma calidad.
 
-Madrid también es más central. Toledo está a 30 minutos en tren regional, Segovia a 45 minutos en alta velocidad. España en formato compacto, sin el coste de otra noche de alojamiento. Nuestra [guía de Madrid en 24 horas](/es/blog/madrid-24-horas) te muestra todo lo que cabe en un solo día.
+Madrid también es más central. Toledo está a 30 minutos en tren regional, Segovia a 45 minutos en alta velocidad. España en formato compacto, sin el coste de otra noche de alojamiento. Nuestra [guía de Madrid en 24 horas](/es/blog/madrid-24-horas/) te muestra todo lo que cabe en un solo día.
 
 Para los aficionados al fútbol, la elección es sencilla: el Real Madrid y el Atlético juegan aquí. Una visita al Bernabéu o al Metropolitano en día de partido es memorable, aunque no seas seguidor habitual.
 
@@ -43,7 +43,7 @@ Los restaurantes siguen el mismo patrón. Un menú del día en Madrid (entrada, 
 
 La playa es el comodín de Barcelona. Ninguna otra gran ciudad cultural europea tiene una playa urbana a este nivel. Si quieres cultura y playa en el mismo viaje, no hay alternativa. Para vacaciones de playa puras, Barcelona es mucho más cara que los destinos de la Costa Brava o la Costa Daurada.
 
-Puedes encontrar más detalles sobre dónde hospedarte en nuestra guía de [dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid).
+Puedes encontrar más detalles sobre dónde hospedarte en nuestra guía de [dónde alojarse en Madrid](/es/blog/donde-alojarse-madrid/).
 
 ## ¿Cuándo tiene sentido combinar las dos ciudades?
 
@@ -53,7 +53,7 @@ Empieza en Barcelona si llegas en avión: la mayoría de los vuelos intercontine
 
 Si solo tienes una ciudad: Barcelona para la experiencia que te deja boquiabierto, la playa, la arquitectura, la energía cosmopolita. Madrid para museos, tapas, fútbol y un gasto diario menor. Ambas ciudades tienen suficiente para al menos tres o cuatro días completos.
 
-Consulta las webs de turismo oficial de ambas ciudades antes de ir: [barcelonaturisme.com](https://www.barcelonaturisme.com) y [esmadrid.com](https://www.esmadrid.com) tienen calendarios de eventos actualizados y mapas de barrios. Nuestra guía de [48 horas en Barcelona](/es/blog/48-horas-barcelona) te ayuda a aprovechar al máximo el tiempo.
+Consulta las webs de turismo oficial de ambas ciudades antes de ir: [barcelonaturisme.com](https://www.barcelonaturisme.com) y [esmadrid.com](https://www.esmadrid.com) tienen calendarios de eventos actualizados y mapas de barrios. Nuestra guía de [48 horas en Barcelona](/es/blog/48-horas-barcelona/) te ayuda a aprovechar al máximo el tiempo.
 
 ---
 
@@ -76,6 +76,6 @@ En 2024, miles de barceloneses se manifestaron contra los efectos del turismo ma
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Barcelona: los mejores barrios](/es/blog/donde-alojarse-barcelona)
-- [Madrid en 24 horas: la escapada perfecta](/es/blog/madrid-24-horas)
-- [48 horas en Barcelona: el plan de fin de semana perfecto](/es/blog/48-horas-barcelona)
+- [Dónde alojarse en Barcelona: los mejores barrios](/es/blog/donde-alojarse-barcelona/)
+- [Madrid en 24 horas: la escapada perfecta](/es/blog/madrid-24-horas/)
+- [48 horas en Barcelona: el plan de fin de semana perfecto](/es/blog/48-horas-barcelona/)

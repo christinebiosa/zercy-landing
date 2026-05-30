@@ -96,6 +96,6 @@ Lara Beach hat den schönsten feinen Kies-Sand und das klarste Wasser. Konyaalt�
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Istanbul: Galata oder Sultanahmet?](/blog/wo-uebernachten-istanbul)
-- [Wo übernachten in Marrakesch: Medina oder Gueliz?](/blog/wo-uebernachten-marrakesch)
-- [Griechenland Inseln Vergleich: Welche Insel passt zu dir?](/blog/griechenland-inseln-vergleich)
+- [Wo übernachten in Istanbul: Galata oder Sultanahmet?](/blog/wo-uebernachten-istanbul/)
+- [Wo übernachten in Marrakesch: Medina oder Gueliz?](/blog/wo-uebernachten-marrakesch/)
+- [Griechenland Inseln Vergleich: Welche Insel passt zu dir?](/blog/griechenland-inseln-vergleich/)

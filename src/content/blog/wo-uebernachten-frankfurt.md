@@ -77,6 +77,6 @@ Das Museumsufer mit 15 Museen auf 3 km ist weltweit einzigartig. Der Römerberg-
 
 ## Mehr lesen
 
-- [Wo übernachten in Wien](/blog/wo-uebernachten-wien)
-- [Wo übernachten in Amsterdam](/blog/wo-uebernachten-amsterdam)
-- [Wo übernachten in Prag](/blog/wo-uebernachten-prag)
+- [Wo übernachten in Wien](/blog/wo-uebernachten-wien/)
+- [Wo übernachten in Amsterdam](/blog/wo-uebernachten-amsterdam/)
+- [Wo übernachten in Prag](/blog/wo-uebernachten-prag/)

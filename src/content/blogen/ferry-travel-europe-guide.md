@@ -18,7 +18,7 @@ Time versus experience. That is the core trade-off. A flight from Barcelona to I
 
 The other advantage is luggage. No 10-kilogram limits, no extra fees for a second bag. Ferries take bicycles, motorbikes, and cars. That opens travel options no budget flight can match. For many island routes in Croatia, there is no reasonable flying option anyway.
 
-For travellers who want lower-impact trips, the case is strong. Ferries emit significantly less CO2 per passenger than short-haul flights. Our [comparison of train vs. plane travel in Europe 2026](/en/blog/train-vs-plane-europe-2026) shows how large the difference is on shorter distances.
+For travellers who want lower-impact trips, the case is strong. Ferries emit significantly less CO2 per passenger than short-haul flights. Our [comparison of train vs. plane travel in Europe 2026](/en/blog/train-vs-plane-europe-2026/) shows how large the difference is on shorter distances.
 
 ## Which are the best ferry routes in Europe?
 
@@ -30,9 +30,9 @@ Greek operator Minoan Lines and Anek Lines are established providers. Book direc
 
 **Croatia: Split as the island base**
 
-From [Split](/en/blog/where-to-stay-split), you reach Hvar in 55 minutes by catamaran or 2 hours on a classic ferry. Further connections go to Korčula, Vis, and Brač. Foot passenger prices are extremely affordable: Hvar from around 5 euros. With a car, considerably more. Travelling carless keeps costs very low and gives you access to the full timetable.
+From [Split](/en/blog/where-to-stay-split/), you reach Hvar in 55 minutes by catamaran or 2 hours on a classic ferry. Further connections go to Korčula, Vis, and Brač. Foot passenger prices are extremely affordable: Hvar from around 5 euros. With a car, considerably more. Travelling carless keeps costs very low and gives you access to the full timetable.
 
-Jadrolinija is the state Croatian ferry company and covers almost all routes. Bookable through Ferryscanner or directly at jadrolinija.hr. Related reading: our piece on [island hopping across Europe's hidden gems](/en/blog/hidden-gems-europe) has more routing ideas.
+Jadrolinija is the state Croatian ferry company and covers almost all routes. Bookable through Ferryscanner or directly at jadrolinija.hr. Related reading: our piece on [island hopping across Europe's hidden gems](/en/blog/hidden-gems-europe/) has more routing ideas.
 
 **Balearics: Overnight ferries as the smart move**
 
@@ -40,7 +40,7 @@ Barcelona to Palma de Mallorca: 8-hour overnight ferry from around 55 euros. Val
 
 **Northern Europe: Stockholm, Helsinki, Tallinn**
 
-The ferries between Stockholm and Helsinki (Silja Line, Viking Line) are essentially small cruise ships, with restaurants, bars, saunas, and entertainment on board. Journey time is around 15 to 17 hours. Particularly worthwhile: Stockholm to Tallinn with an overnight stop in Helsinki. For a Scandinavia loop, you can save a lot of time and money. Anyone visiting the region should check our [island hopping in Bali vs Lombok comparison](/en/blog/bali-vs-lombok-comparison) for how island routing logic applies even in northern climates.
+The ferries between Stockholm and Helsinki (Silja Line, Viking Line) are essentially small cruise ships, with restaurants, bars, saunas, and entertainment on board. Journey time is around 15 to 17 hours. Particularly worthwhile: Stockholm to Tallinn with an overnight stop in Helsinki. For a Scandinavia loop, you can save a lot of time and money. Anyone visiting the region should check our [island hopping in Bali vs Lombok comparison](/en/blog/bali-vs-lombok-comparison/) for how island routing logic applies even in northern climates.
 
 **Adriatic: Ancona to Split**
 
@@ -78,7 +78,7 @@ Book cabins early. In summer (July and August), Greek ferries sell out. Book in 
 
 **Northern Europe:** Variable. Helsinki to Stockholm in summer is reasonably available. Cabins are better booked early regardless.
 
-For island hopping and more complex routes, [Zercy](/en/blog/what-is-zercy) is a useful starting point: enter your destination and travel dates, get live flight prices as a comparison baseline, and evaluate both options side by side.
+For island hopping and more complex routes, [Zercy](/en/blog/what-is-zercy/) is a useful starting point: enter your destination and travel dates, get live flight prices as a comparison baseline, and evaluate both options side by side.
 
 ---
 
@@ -106,6 +106,6 @@ Because you travel and sleep at the same time. A cabin on the Barcelona to Mallo
 
 ## Read more
 
-- [Train vs. Plane in Europe 2026: When Each Option Wins](/en/blog/train-vs-plane-europe-2026)
-- [Where to Stay in Split: Best Neighbourhoods for Every Traveller](/en/blog/where-to-stay-split)
-- [Hidden Gems in Europe: Lesser-Known Destinations Worth the Trip](/en/blog/hidden-gems-europe)
+- [Train vs. Plane in Europe 2026: When Each Option Wins](/en/blog/train-vs-plane-europe-2026/)
+- [Where to Stay in Split: Best Neighbourhoods for Every Traveller](/en/blog/where-to-stay-split/)
+- [Hidden Gems in Europe: Lesser-Known Destinations Worth the Trip](/en/blog/hidden-gems-europe/)

@@ -82,6 +82,6 @@ Viele afrikanische und südamerikanische Länder verlangen den Gelbfieber-Impfna
 
 ## Mehr lesen
 
-- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich)
-- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt)
-- [Australien Rundreise: Route und praktische Tipps](/blog/australien-rundreise-route)
+- [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+- [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- [Australien Rundreise: Route und praktische Tipps](/blog/australien-rundreise-route/)

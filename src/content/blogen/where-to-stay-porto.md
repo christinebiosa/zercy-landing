@@ -94,6 +94,6 @@ Fado in Porto (Fado Portuense) is rarer than in Lisbon but more authentic. Best 
 ---
 
 **Read more:**
-- [Where to Stay in Lisbon: The 5 Neighborhoods](/en/blog/where-to-stay-lisbon)
-- [Where to Stay in Seville: Triana or Old Town?](/en/blog/where-to-stay-seville)
-- [Porto: Lisbon's Underrated Sister City](/en/blog/porto-lisbons-underrated-sister)
+- [Where to Stay in Lisbon: The 5 Neighborhoods](/en/blog/where-to-stay-lisbon/)
+- [Where to Stay in Seville: Triana or Old Town?](/en/blog/where-to-stay-seville/)
+- [Porto: Lisbon's Underrated Sister City](/en/blog/porto-lisbons-underrated-sister/)

@@ -45,7 +45,7 @@ Daun Penh es el corazón administrativo e histórico de la ciudad. Aquí están 
 
 **Mejores opciones:** Sofitel Phnom Penh Phokeethra (resort urbano de 5 estrellas, spa, varias piscinas, a pasos del Palacio), Palace Gate Hotel & Resort (mansión colonial reconvertida en boutique, pequeña piscina).
 
-Consulta también nuestra [guía de barrios de Siem Reap](/es/blog/donde-alojarse-siem-reap): la mayoría de los viajes a Camboya combinan ambas ciudades.
+Consulta también nuestra [guía de barrios de Siem Reap](/es/blog/donde-alojarse-siem-reap/): la mayoría de los viajes a Camboya combinan ambas ciudades.
 
 ## BKK1 / Tonle Bassac: La mejor zona para comodidad
 
@@ -75,7 +75,7 @@ El barrio que rodea el Psar Tuol Tom Pong (apodado Russian Market por los comerc
 
 **Mejores opciones:** Pavilion Hotel (joya boutique escondida en dos villas coloniales restauradas, piscina, jardín, atmósfera única), Hotel Cambodia (hotel de rango medio moderno, buena relación calidad-precio).
 
-Muchos viajes a Camboya terminan con un autobús o vuelo a Vietnam. Nuestra [guía de barrios de Ho Chi Minh](/es/blog/donde-alojarse-ho-chi-minh) te dice qué esperar allí.
+Muchos viajes a Camboya terminan con un autobús o vuelo a Vietnam. Nuestra [guía de barrios de Ho Chi Minh](/es/blog/donde-alojarse-ho-chi-minh/) te dice qué esperar allí.
 
 ## ¿Dónde deberías reservar?
 
@@ -114,6 +114,6 @@ El Museo del Genocidio de Tuol Sleng y los Campos de la Muerte en Choeung Ek son
 ---
 
 **Leer más:**
-- [Dónde alojarse en Siem Reap: los mejores barrios](/es/blog/donde-alojarse-siem-reap)
-- [Dónde alojarse en Ho Chi Minh: los 5 barrios](/es/blog/donde-alojarse-ho-chi-minh)
-- [Guía de viaje a Camboya: highlights y consejos](/es/blog/camboya-guia-viaje-highlights)
+- [Dónde alojarse en Siem Reap: los mejores barrios](/es/blog/donde-alojarse-siem-reap/)
+- [Dónde alojarse en Ho Chi Minh: los 5 barrios](/es/blog/donde-alojarse-ho-chi-minh/)
+- [Guía de viaje a Camboya: highlights y consejos](/es/blog/camboya-guia-viaje-highlights/)

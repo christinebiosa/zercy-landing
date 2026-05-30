@@ -47,7 +47,7 @@ Auf den Hängen östlich der Plaza de Armas. Cuscos historisches Künstler-Viert
 
 **Top-Picks:** Antigua Casona San Blas (Boutique in restaurierter Kolonialvilla), Quinta San Blas by Ananay Hotels (Boutique-Premium), Sonesta Cusco (klassisch mittelklasse).
 
-Lies dazu auch unseren [Costa-Rica-Rundreise-Guide](/blog/costa-rica-rundreise-route), wenn du Lateinamerika erkundest.
+Lies dazu auch unseren [Costa-Rica-Rundreise-Guide](/blog/costa-rica-rundreise-route/), wenn du Lateinamerika erkundest.
 
 ## Wann ist die beste Reisezeit für Cusco?
 
@@ -122,6 +122,6 @@ Backpacker: 700-1.000 Euro pro Person inkl. Flug Lima-Cusco (Hostel in San Pedro
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Lima: Die 4 Stadtteile](/blog/wo-uebernachten-lima)
-- [Wo übernachten in Bogotá: Die 4 Stadtteile](/blog/wo-uebernachten-bogota)
-- [Costa Rica Rundreise: Die perfekte Route](/blog/costa-rica-rundreise-route)
+- [Wo übernachten in Lima: Die 4 Stadtteile](/blog/wo-uebernachten-lima/)
+- [Wo übernachten in Bogotá: Die 4 Stadtteile](/blog/wo-uebernachten-bogota/)
+- [Costa Rica Rundreise: Die perfekte Route](/blog/costa-rica-rundreise-route/)

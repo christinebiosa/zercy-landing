@@ -20,7 +20,7 @@ Host cancellations are the second problem. Airbnb hosts can cancel bookings. Ind
 
 Then there's the quality gap. Photos are edited. Descriptions are optimistic. What actually waits for you varies widely.
 
-For a deeper breakdown, read our [Airbnb vs. hotel comparison](/en/blog/airbnb-vs-hotel-comparison) on when Airbnb actually wins and when it doesn't.
+For a deeper breakdown, read our [Airbnb vs. hotel comparison](/en/blog/airbnb-vs-hotel-comparison/) on when Airbnb actually wins and when it doesn't.
 
 ## Which alternative fits your trip?
 
@@ -42,7 +42,7 @@ Another advantage: on VRBO, you book directly with the property owner. The conne
 
 Platform fees at VRBO are similar to Airbnb, sometimes slightly lower. But the inventory in Europe is thinner. For a city apartment in Lisbon or Amsterdam, Booking.com is the stronger choice.
 
-If you need a rental car for your trip, check our [rental car guide](/en/blog/book-hotel-cheaper-tips) for tips on getting the best deal.
+If you need a rental car for your trip, check our [rental car guide](/en/blog/book-hotel-cheaper-tips/) for tips on getting the best deal.
 
 ## How does Booking.com work as an Airbnb alternative?
 
@@ -56,7 +56,7 @@ Transparent pricing. Booking.com shows total prices more clearly. Cleaning fees 
 
 Host cancellations are rarer, because Booking.com holds hosts to stricter standards.
 
-Best for: European city trips, short stays, travelers who need cancellation flexibility. More on this in our article [booking direct vs. online platforms](/en/blog/booking-vs-direct-hotel-booking).
+Best for: European city trips, short stays, travelers who need cancellation flexibility. More on this in our article [booking direct vs. online platforms](/en/blog/booking-vs-direct-hotel-booking/).
 
 ## What is Plum Guide and is it worth it?
 
@@ -78,7 +78,7 @@ How to find the direct website: the property name often appears in the photos or
 
 The downside: you lose Airbnb's guest protection. If something goes wrong, you rely on the host to resolve it. For well-reviewed hosts with hundreds of reviews, that's rarely a problem. For first-time hosts without track records, the risk is higher.
 
-For more money-saving tips, see our article on [how to book hotels cheaper](/en/blog/book-hotel-cheaper-tips).
+For more money-saving tips, see our article on [how to book hotels cheaper](/en/blog/book-hotel-cheaper-tips/).
 
 ## When is Airbnb still the best option?
 
@@ -117,6 +117,6 @@ Many Airbnb hosts have their own websites. Search the property name directly on 
 ---
 
 Read more:
-- [Airbnb vs. hotel: which is really worth it?](/en/blog/airbnb-vs-hotel-comparison)
-- [Booking.com vs. direct hotel booking: what's cheaper?](/en/blog/booking-vs-direct-hotel-booking)
-- [When to book flights: how to save the most](/en/blog/when-to-book-flights)
+- [Airbnb vs. hotel: which is really worth it?](/en/blog/airbnb-vs-hotel-comparison/)
+- [Booking.com vs. direct hotel booking: what's cheaper?](/en/blog/booking-vs-direct-hotel-booking/)
+- [When to book flights: how to save the most](/en/blog/when-to-book-flights/)

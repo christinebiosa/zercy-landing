@@ -22,7 +22,7 @@ Booking confirmations belong in the mix too. Flight, hotel, rental car. Not beca
 
 If you're traveling within the EU, the EHIC (European Health Insurance Card) covers basic medical care across all EU and EEA countries. Most public health insurers issue it for free, often printed on the back of your regular insurance card.
 
-Before you finalize your document stack, it's worth checking our [travel vaccinations guide](/en/blog/travel-vaccinations-guide) to see if any health documents are required for your destination.
+Before you finalize your document stack, it's worth checking our [travel vaccinations guide](/en/blog/travel-vaccinations-guide/) to see if any health documents are required for your destination.
 
 ## How Do You Back Up Your Documents Digitally?
 
@@ -39,7 +39,7 @@ Beyond the cloud: save everything offline on your phone too. PDFs and photos ope
 
 For keeping all your bookings organized, TripIt is worth adding to your toolkit. Forward booking confirmation emails, and TripIt automatically builds a travel itinerary. No manual entry, everything in one place.
 
-One more low-tech trick: email a passport copy to yourself and to someone at home. That way someone has your details even if your phone and laptop are both gone. For a broader safety net, our [emergency abroad guide](/en/blog/emergency-abroad-what-to-do) walks through what to do when things go wrong.
+One more low-tech trick: email a passport copy to yourself and to someone at home. That way someone has your details even if your phone and laptop are both gone. For a broader safety net, our [emergency abroad guide](/en/blog/emergency-abroad-what-to-do/) walks through what to do when things go wrong.
 
 ## When Do You Need an International Driving Permit?
 
@@ -47,7 +47,7 @@ A standard EU or US driver's license is recognized in most countries you'll real
 
 You apply for an IDP through your national automobile association (AAA in the US, ADAC in Germany). It costs around $15 to $20, is valid for one year, and must be carried alongside your regular license. Both documents together are what makes it valid.
 
-If you're renting a car abroad, check our [rental car checklist](/en/blog/rental-car-checklist) for more details on what documentation rental companies actually ask for.
+If you're renting a car abroad, check our [rental car checklist](/en/blog/rental-car-checklist/) for more details on what documentation rental companies actually ask for.
 
 ## What Do You Do If Your Passport Is Stolen?
 
@@ -55,7 +55,7 @@ Your first call is the nearest embassy or consulate of your home country. Look u
 
 The embassy issues an emergency travel document that gets you home. You'll need: a passport photo, proof of identity (like a copy of the stolen passport), and a police report from local authorities.
 
-That's exactly why the passport copy matters so much. If you have it saved digitally and left a copy with someone at home, you move through the embassy process much faster. For step-by-step guidance on visa applications and renewals, see our [visa application guide](/en/blog/visa-application-guide).
+That's exactly why the passport copy matters so much. If you have it saved digitally and left a copy with someone at home, you move through the embassy process much faster. For step-by-step guidance on visa applications and renewals, see our [visa application guide](/en/blog/visa-application-guide/).
 
 ## Which Documents Do Travelers Most Often Forget?
 
@@ -67,7 +67,7 @@ For longer haul or complex trips, keep all documents in one physical folder you 
 
 That habit takes five minutes and prevents the kind of airport panic that ruins the start of a trip.
 
-Also worth keeping in mind: if you're packing everything into carry-on luggage, make sure your documents are in an accessible pocket. Digging through a bag at immigration is stressful. Our [packing list guide](/en/blog/travel-packing-list-essentials) has a section on document organization that fits into a minimal packing setup.
+Also worth keeping in mind: if you're packing everything into carry-on luggage, make sure your documents are in an accessible pocket. Digging through a bag at immigration is stressful. Our [packing list guide](/en/blog/travel-packing-list-essentials/) has a section on document organization that fits into a minimal packing setup.
 
 ---
 
@@ -94,6 +94,6 @@ In the US, through AAA. In Germany, through the ADAC or your local Kfz-Zulassung
 ---
 
 **Read more:**
-- [Travel Vaccinations: What You Actually Need](/en/blog/travel-vaccinations-guide)
-- [Emergency Abroad: What to Do](/en/blog/emergency-abroad-what-to-do)
-- [Visa Application Guide: Step by Step](/en/blog/visa-application-guide)
+- [Travel Vaccinations: What You Actually Need](/en/blog/travel-vaccinations-guide/)
+- [Emergency Abroad: What to Do](/en/blog/emergency-abroad-what-to-do/)
+- [Visa Application Guide: Step by Step](/en/blog/visa-application-guide/)

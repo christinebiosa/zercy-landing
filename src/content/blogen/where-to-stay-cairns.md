@@ -91,7 +91,7 @@ For first-timers: day tours to the outer reefs with Cairns Dive Centre or Sunlov
 
 ### What does a day at the Great Barrier Reef cost?
 
-Day tours to the Outer Reef cost 200-280 AUD per person including snorkel gear. With a snorkel lesson slightly more. Introductory dives cost extra (80-120 AUD). Helicopter flight over the reef: 200-300 AUD additional. The [Australia road trip guide](/en/blog/australia-road-trip-route) helps with budget planning for the full route.
+Day tours to the Outer Reef cost 200-280 AUD per person including snorkel gear. With a snorkel lesson slightly more. Introductory dives cost extra (80-120 AUD). Helicopter flight over the reef: 200-300 AUD additional. The [Australia road trip guide](/en/blog/australia-road-trip-route/) helps with budget planning for the full route.
 
 ### What other activities are there besides the reef?
 
@@ -100,6 +100,6 @@ Daintree Rainforest (world's oldest rainforest, day trip from Cairns), Skyrail R
 ---
 
 **Read more:**
-- [Australia Road Trip: The Optimal Route through the Continent](/en/blog/australia-road-trip-route)
-- [Where to Stay in Brisbane: The Best Neighborhoods](/en/blog/where-to-stay-brisbane)
-- [Where to Stay in Sydney: CBD or Bondi?](/en/blog/where-to-stay-sydney)
+- [Australia Road Trip: The Optimal Route through the Continent](/en/blog/australia-road-trip-route/)
+- [Where to Stay in Brisbane: The Best Neighborhoods](/en/blog/where-to-stay-brisbane/)
+- [Where to Stay in Sydney: CBD or Bondi?](/en/blog/where-to-stay-sydney/)

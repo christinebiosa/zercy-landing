@@ -115,6 +115,6 @@ Mindestens 72 Stunden vor dem Abflug, empfohlen ist eine Woche. Da die meisten A
 ---
 
 **Mehr lesen:**
-- [Visum beantragen: der komplette Guide](/blog/visum-beantragen-guide)
-- [Visa on Arrival: Länder ohne Vorab-Visum 2026](/blog/visa-on-arrival-laender-2026)
-- [Reisedokumente organisieren: Checkliste für stressfreie Trips](/blog/reisedokumente-organisieren-guide)
+- [Visum beantragen: der komplette Guide](/blog/visum-beantragen-guide/)
+- [Visa on Arrival: Länder ohne Vorab-Visum 2026](/blog/visa-on-arrival-laender-2026/)
+- [Reisedokumente organisieren: Checkliste für stressfreie Trips](/blog/reisedokumente-organisieren-guide/)

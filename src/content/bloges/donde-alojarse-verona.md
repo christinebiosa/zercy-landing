@@ -77,6 +77,6 @@ La Arena di Verona, especialmente en temporada de ópera. La Piazza delle Erbe. 
 
 ## Más sobre Italia
 
-- [Dónde alojarse en Bolonia](/es/blog/donde-alojarse-bolonia)
-- [Dónde alojarse en Roma](/es/blog/donde-alojarse-roma)
-- [Dónde alojarse en Florencia](/es/blog/donde-alojarse-florencia)
+- [Dónde alojarse en Bolonia](/es/blog/donde-alojarse-bolonia/)
+- [Dónde alojarse en Roma](/es/blog/donde-alojarse-roma/)
+- [Dónde alojarse en Florencia](/es/blog/donde-alojarse-florencia/)

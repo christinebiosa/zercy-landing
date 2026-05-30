@@ -49,7 +49,7 @@ Hotels and villas in Dobrota are often in restored Venetian buildings. Many have
 
 **Top picks:** Hotel Forza Leo (small waterfront hotel with balcony views of the bay), Cattaro Design Hotel (modern design, waterfront terrace), various villas with private waterfront access.
 
-If you are combining Kotor with the Croatian coast, the [Dubrovnik neighborhood guide](/en/blog/where-to-stay-dubrovnik) covers the most popular stop just two hours north.
+If you are combining Kotor with the Croatian coast, the [Dubrovnik neighborhood guide](/en/blog/where-to-stay-dubrovnik/) covers the most popular stop just two hours north.
 
 ## When Is the Best Time to Visit Kotor?
 
@@ -81,7 +81,7 @@ Local residents, no cruise tourists, genuine konobas. Prices are noticeably lowe
 
 **Top picks:** Apartments in private accommodations, small guesthouses with terrace views over the bay.
 
-For more Adriatic context, the [Split neighborhood guide](/en/blog/where-to-stay-split) covers another stunning walled city a few hours north on the Croatian coast.
+For more Adriatic context, the [Split neighborhood guide](/en/blog/where-to-stay-split/) covers another stunning walled city a few hours north on the Croatian coast.
 
 ## Tivat/Porto Montenegro: Marina Luxury and Yachts
 
@@ -131,6 +131,6 @@ Climbing the fortress wall to Castel San Giovanni (go early morning), experienci
 ---
 
 **Read more:**
-- [Where to Stay in Dubrovnik: The 5 Neighborhoods](/en/blog/where-to-stay-dubrovnik)
-- [Where to Stay in Split: Palace or Beach](/en/blog/where-to-stay-split)
-- [Albania Riviera: The Hidden Coast of the Adriatic](/en/blog/albania-riviera-hidden-coast)
+- [Where to Stay in Dubrovnik: The 5 Neighborhoods](/en/blog/where-to-stay-dubrovnik/)
+- [Where to Stay in Split: Palace or Beach](/en/blog/where-to-stay-split/)
+- [Albania Riviera: The Hidden Coast of the Adriatic](/en/blog/albania-riviera-hidden-coast/)

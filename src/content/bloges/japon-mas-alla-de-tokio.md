@@ -90,6 +90,6 @@ Viajeros con presupuesto ajustado (hostels, comidas en tiendas de conveniencia):
 ---
 
 **Más para leer:**
-- [Tokio: viaje gastronómico por los mejores restaurantes y mercados](/es/blog/tokio-viaje-gastronomico)
-- [Tailandia en 2 semanas: ruta Bangkok, Chiang Mai e islas](/es/blog/tailandia-2-semanas-ruta)
-- [Business class sin millas: cómo volar en premium más barato](/es/blog/business-class-sin-millas)
+- [Tokio: viaje gastronómico por los mejores restaurantes y mercados](/es/blog/tokio-viaje-gastronomico/)
+- [Tailandia en 2 semanas: ruta Bangkok, Chiang Mai e islas](/es/blog/tailandia-2-semanas-ruta/)
+- [Business class sin millas: cómo volar en premium más barato](/es/blog/business-class-sin-millas/)

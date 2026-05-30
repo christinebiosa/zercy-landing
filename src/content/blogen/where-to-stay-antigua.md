@@ -49,7 +49,7 @@ Hotels here are often slightly cheaper than directly on Parque Central but still
 
 **Top picks:** Hotel Quinta de Las Flores (colonial garden, quiet, beautiful pool), Hotel Aurora (historic, family-run), Mesón Panza Verde (boutique hotel with restaurant and art gallery, very popular).
 
-Our [Guatemala travel guide](/en/blog/guatemala-travel-guide-highlights) gives a complete overview with tips on Tikal, Lago Atitlán, and other highlights.
+Our [Guatemala travel guide](/en/blog/guatemala-travel-guide-highlights/) gives a complete overview with tips on Tikal, Lago Atitlán, and other highlights.
 
 ## When Is the Best Time to Visit Antigua?
 
@@ -105,6 +105,6 @@ May to October (rainy season, afternoon showers) is more affordable and less cro
 ---
 
 ## Read more
-- [Guatemala Travel Guide: Tikal, Atitlán and More](/en/blog/guatemala-travel-guide-highlights)
-- [Mexico Road Trip: The Best Route](/en/blog/mexico-road-trip-route)
-- [Where to Stay in Bogotá: Neighborhoods Explained](/en/blog/where-to-stay-bogota)
+- [Guatemala Travel Guide: Tikal, Atitlán and More](/en/blog/guatemala-travel-guide-highlights/)
+- [Mexico Road Trip: The Best Route](/en/blog/mexico-road-trip-route/)
+- [Where to Stay in Bogotá: Neighborhoods Explained](/en/blog/where-to-stay-bogota/)

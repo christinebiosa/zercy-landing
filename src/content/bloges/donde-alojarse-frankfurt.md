@@ -77,6 +77,6 @@ El Museumsufer, un corredor de 3 km con 15 museos, es uno de los más densos del
 
 ## Más sobre Europa
 
-- [Dónde alojarse en Viena](/es/blog/donde-alojarse-viena)
-- [Dónde alojarse en Ámsterdam](/es/blog/donde-alojarse-amsterdam)
-- [Dónde alojarse en Praga](/es/blog/donde-alojarse-praga)
+- [Dónde alojarse en Viena](/es/blog/donde-alojarse-viena/)
+- [Dónde alojarse en Ámsterdam](/es/blog/donde-alojarse-amsterdam/)
+- [Dónde alojarse en Praga](/es/blog/donde-alojarse-praga/)

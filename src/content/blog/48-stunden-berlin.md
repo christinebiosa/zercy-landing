@@ -57,15 +57,15 @@ Das Schloss Charlottenburg ist einen Abstecher wert, wenn du Gartenanlagen magst
 
 Berlin hat keine Paris-artige Skyline, aber gute Aussichtspunkte. Das Deck am Mitte-Bereich, die Klunkerkranich-Bar in Neukölln (auf einem Parkdeck) oder das TV-Turm-Restaurant am Alexanderplatz bieten stadtweit gute Aussichtspunkte. Der Alexanderplatz-Turm dreht sich einmal pro Stunde, das Ticket kostet rund 25 Euro.
 
-Der Potsdamer Platz ist abends belebter als tagsüber. Die Sony Center-Kuppel, die Cinestar-Kinoanlage und die Restaurants rund um den Platz machen ihn zu einem guten Ausgangspunkt für den letzten Berliner Abend. Weniger wild als Kreuzberg, aber mitten im Stadtgefüge. Wenn du mehr Zeit in Berlin verbringen willst, haben wir dazu den Guide zu [wo übernachten in Berlin](/blog/wo-uebernachten-berlin), der alle Stadtteile nach Budget und Reisestil aufschlüsselt.
+Der Potsdamer Platz ist abends belebter als tagsüber. Die Sony Center-Kuppel, die Cinestar-Kinoanlage und die Restaurants rund um den Platz machen ihn zu einem guten Ausgangspunkt für den letzten Berliner Abend. Weniger wild als Kreuzberg, aber mitten im Stadtgefüge. Wenn du mehr Zeit in Berlin verbringen willst, haben wir dazu den Guide zu [wo übernachten in Berlin](/blog/wo-uebernachten-berlin/), der alle Stadtteile nach Budget und Reisestil aufschlüsselt.
 
 ## Wie viel kostet ein Berlin-Wochenende?
 
-Berlin ist für eine europäische Hauptstadt verhältnismäßig günstig. Das Pergamonmuseum kostet 14 Euro. Das Holocaust-Mahnmal und die East Side Gallery sind kostenlos. Eine 24-Stunden-Karte für den BVG-Nahverkehr liegt bei 9,90 Euro. Essen in Kreuzberg oder Neukölln: 10 bis 20 Euro pro Person. Für Hotels gilt: Prenzlauer Berg und Mitte sind zentral, aber teurer. In Friedrichshain oder Neukölln zahlst du spürbar weniger. Ein Überblick über günstige Städte generell findet sich in unserem Vergleich der [günstigsten Städte Europas 2026](/blog/guenstigste-staedte-europa-2026).
+Berlin ist für eine europäische Hauptstadt verhältnismäßig günstig. Das Pergamonmuseum kostet 14 Euro. Das Holocaust-Mahnmal und die East Side Gallery sind kostenlos. Eine 24-Stunden-Karte für den BVG-Nahverkehr liegt bei 9,90 Euro. Essen in Kreuzberg oder Neukölln: 10 bis 20 Euro pro Person. Für Hotels gilt: Prenzlauer Berg und Mitte sind zentral, aber teurer. In Friedrichshain oder Neukölln zahlst du spürbar weniger. Ein Überblick über günstige Städte generell findet sich in unserem Vergleich der [günstigsten Städte Europas 2026](/blog/guenstigste-staedte-europa-2026/).
 
 ## Wann ist Berlin am besten?
 
-Mai bis September. Im Sommer öffnen Berlins Parks, Freiluftbühnen und Strandbars am Müggelsee und der Spree. Der Mauerpark-Flohmarkt ist samstags und bei gutem Wetter besonders lively. September ist ideal: noch warm, weniger voll als Juli und August. Wer günstig hinfliegen will, sollte frühzeitig buchen. Unser Guide zu [wann Flüge buchen](/blog/wann-fluege-buchen) zeigt, wie du Berlin ab 30 Euro erreichst.
+Mai bis September. Im Sommer öffnen Berlins Parks, Freiluftbühnen und Strandbars am Müggelsee und der Spree. Der Mauerpark-Flohmarkt ist samstags und bei gutem Wetter besonders lively. September ist ideal: noch warm, weniger voll als Juli und August. Wer günstig hinfliegen will, sollte frühzeitig buchen. Unser Guide zu [wann Flüge buchen](/blog/wann-fluege-buchen/) zeigt, wie du Berlin ab 30 Euro erreichst.
 
 Zercy findet dir den günstigsten Flug nach Berlin und dein Hotel in einem Schritt. Speichere alles im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen nichts vergisst.
 
@@ -92,6 +92,6 @@ Die meisten Staatlichen Museen auf der Museumsinsel öffnen täglich außer mont
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Berlin: Stadtteile und Hotels nach Budget](/blog/wo-uebernachten-berlin)
-- [Günstigste Städte Europas 2026: Wo du wirklich günstig reist](/blog/guenstigste-staedte-europa-2026)
-- [Wann Flüge buchen: Der optimale Zeitpunkt nach Reiseziel](/blog/wann-fluege-buchen)
+- [Wo übernachten in Berlin: Stadtteile und Hotels nach Budget](/blog/wo-uebernachten-berlin/)
+- [Günstigste Städte Europas 2026: Wo du wirklich günstig reist](/blog/guenstigste-staedte-europa-2026/)
+- [Wann Flüge buchen: Der optimale Zeitpunkt nach Reiseziel](/blog/wann-fluege-buchen/)

@@ -53,7 +53,7 @@ Hotels in the 7th district cost 20 to 35 percent less than in the 5th district. 
 - **Corvin Hotel Budapest** (3-star, solid, around €85)
 - **Gerloczy Rooms** (boutique, central location, around €100)
 
-For similar value-to-location calculations in other European cities, see our guides on [where to stay in Vienna](/en/blog/where-to-stay-vienna) and [where to stay in Prague](/en/blog/where-to-stay-prague).
+For similar value-to-location calculations in other European cities, see our guides on [where to stay in Vienna](/en/blog/where-to-stay-vienna/) and [where to stay in Prague](/en/blog/where-to-stay-prague/).
 
 ## Castle District (1st District): For romance and views
 
@@ -97,6 +97,6 @@ Széchenyi Bath in the 14th district is the largest and most famous. Gellért Ba
 ---
 
 **Read more:**
-- [Where to stay in Vienna: The best neighborhoods](/en/blog/where-to-stay-vienna)
-- [Where to stay in Prague: Old Town, Vinohrady or Žižkov?](/en/blog/where-to-stay-prague)
-- [Cheap flights tips: When and where you save the most](/en/blog/cheap-flights-tips)
+- [Where to stay in Vienna: The best neighborhoods](/en/blog/where-to-stay-vienna/)
+- [Where to stay in Prague: Old Town, Vinohrady or Žižkov?](/en/blog/where-to-stay-prague/)
+- [Cheap flights tips: When and where you save the most](/en/blog/cheap-flights-tips/)

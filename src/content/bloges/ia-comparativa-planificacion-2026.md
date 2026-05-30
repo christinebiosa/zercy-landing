@@ -39,7 +39,7 @@ La mayoría de productos en el mercado hacen bien una de las dos cosas: o hablan
 
 La tendencia es hacia lo que se llama "agentes de viaje": sistemas que no solo planifican sino que ejecutan reservas en tu nombre. Gestionar cambios de vuelo, buscar alternativas cuando hay cancelaciones, reservar restaurantes, coordinar traslados. Algunos prototipos ya existen pero la adopción masiva requiere resolver problemas de confianza (¿dejaría a una IA hacer una compra de 1.500 euros en tu nombre?) y de responsabilidad legal cuando algo sale mal.
 
-Para entender la evolución del sector, lee [cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes).
+Para entender la evolución del sector, lee [cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes/).
 
 Zercy está en el punto de la curva donde la conversación ya funciona y los precios son reales. Empieza en [zercy.app](https://www.zercy.app) y guarda tus planes en el [Zercy Logbook](https://www.zercy.app/logbook).
 
@@ -66,6 +66,6 @@ Depende del producto. Los grandes modelos de lenguaje (ChatGPT, Claude, Gemini) 
 ---
 
 **Más para leer:**
-- [Las mejores herramientas de IA para planificar viajes en 2026](/es/blog/herramientas-ia-comparativa-viajes)
-- [Qué es Zercy y cómo funciona](/es/blog/que-es-zercy)
-- [Cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes)
+- [Las mejores herramientas de IA para planificar viajes en 2026](/es/blog/herramientas-ia-comparativa-viajes/)
+- [Qué es Zercy y cómo funciona](/es/blog/que-es-zercy/)
+- [Cómo la IA está cambiando la planificación de viajes en 2026](/es/blog/ia-cambia-planificacion-viajes/)

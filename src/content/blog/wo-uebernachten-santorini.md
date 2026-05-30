@@ -56,7 +56,7 @@ Hotels in Fira sind günstiger als in Oia. Gute Boutique-Hotels mit Caldera-Blic
 - **Tsitouras Collection** (fünf historische Häuser, Fira, ca. 300 €)
 - **Hotel Atlantis** (zentrale Lage, solide Ausstattung, ca. 160 €)
 
-Für andere Mittelmeer-Reisen schau auch in unsere Guides zu [Wo übernachten in Athen](/blog/wo-uebernachten-athen) und [Wo übernachten in Istanbul](/blog/wo-uebernachten-istanbul).
+Für andere Mittelmeer-Reisen schau auch in unsere Guides zu [Wo übernachten in Athen](/blog/wo-uebernachten-athen/) und [Wo übernachten in Istanbul](/blog/wo-uebernachten-istanbul/).
 
 ## Welches Dorf ist das beste für einen Erstbesuch?
 
@@ -103,6 +103,6 @@ Gute Boutique-Hotels mit Caldera-Blick ab 220 bis 350 Euro pro Nacht in der Nebe
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Athen: Plaka oder Kolonaki?](/blog/wo-uebernachten-athen)
-- [Wo übernachten in Istanbul: Sultanahmet oder Beyoğlu?](/blog/wo-uebernachten-istanbul)
-- [Wo übernachten in Rom: Historisches Zentrum oder Trastevere?](/blog/wo-uebernachten-rom)
+- [Wo übernachten in Athen: Plaka oder Kolonaki?](/blog/wo-uebernachten-athen/)
+- [Wo übernachten in Istanbul: Sultanahmet oder Beyoğlu?](/blog/wo-uebernachten-istanbul/)
+- [Wo übernachten in Rom: Historisches Zentrum oder Trastevere?](/blog/wo-uebernachten-rom/)

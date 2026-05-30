@@ -96,6 +96,6 @@ Tivoli admission costs around 150 DKK ($22) for adults. Rides cost extra (30-80 
 ---
 
 **Read more:**
-- [Where to Stay in Amsterdam: The 5 Neighborhoods](/en/blog/where-to-stay-amsterdam)
-- [Where to Stay in Berlin: Mitte or Prenzlauer Berg?](/en/blog/where-to-stay-berlin)
-- [Night Trains in Europe 2026: Routes and Tips](/en/blog/night-trains-europe-2026)
+- [Where to Stay in Amsterdam: The 5 Neighborhoods](/en/blog/where-to-stay-amsterdam/)
+- [Where to Stay in Berlin: Mitte or Prenzlauer Berg?](/en/blog/where-to-stay-berlin/)
+- [Night Trains in Europe 2026: Routes and Tips](/en/blog/night-trains-europe-2026/)

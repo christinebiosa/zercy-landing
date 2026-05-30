@@ -34,7 +34,7 @@ Kurz gesagt: Nicht mittags. Hartes Mittagslicht ist der Feind guter Reisefotos.
 
 **Blue Hour** ist die 20 bis 30 Minuten nach Sonnenuntergang oder vor Sonnenaufgang. Das Licht ist kühler, gleichmäßiger und gibt Stadtlandschaften eine fast magische Qualität. Für Tempel, Moscheen und beleuchtete Gebäude ist Blue Hour oft besser als Golden Hour.
 
-**Mitternachtssonne auf Island** spielt nach anderen Regeln. Von Mai bis August geht die Sonne auf Island kaum unter. Das goldene Licht hält stundenlang. Die Westfjorde, Landmannalaugar und der Jökulsárlón Gletschersee bei Mitternachtssonne sind fotografisch kaum zu toppen. Plane die [island-roadtrip-guide](/blog/island-roadtrip-guide) Route bewusst um diese Stunden herum.
+**Mitternachtssonne auf Island** spielt nach anderen Regeln. Von Mai bis August geht die Sonne auf Island kaum unter. Das goldene Licht hält stundenlang. Die Westfjorde, Landmannalaugar und der Jökulsárlón Gletschersee bei Mitternachtssonne sind fotografisch kaum zu toppen. Plane die [island-roadtrip-guide](/blog/island-roadtrip-guide/) Route bewusst um diese Stunden herum.
 
 Für Island-Unterkünfte nahe der besten Hotspots: Reykjavik als Basis über [Booking.com](https://www.booking.com/searchresults.html?ss=Reykjavik) oder direkt im Süden bei Vík für Strand-Spots.
 
@@ -42,7 +42,7 @@ Die restlichen fünf Top-Destinationen:
 
 **Bali, Indonesien** bietet mit den Reisterrassen von Tegalalang und Jatiluwih eine Fotografie, die so fotogen ist, dass sie fast unwirklich wirkt. Beste Zeit: früh morgens, wenn der Nebel noch in den Terrassen liegt. Unterkunft in Ubud über [Airbnb](https://www.airbnb.com/) oder [Booking.com](https://www.booking.com/searchresults.html?ss=Ubud+Bali) für echte Terrassen-Nähe.
 
-**Marokko, Medina von Fes** ist ein visuelles Chaos im besten Sinne. Die Gerberei Chouara, die engen Gassen der Medina, Händler und Handwerker. Reisefotografie vom Feinsten. Empfehle dazu unseren [riads-marokko-guide](/blog/riads-marokko-guide), der die besten Unterkünfte direkt in der Medina zeigt. Buchen über [Airbnb](https://www.airbnb.com/) für traditionelle Riads.
+**Marokko, Medina von Fes** ist ein visuelles Chaos im besten Sinne. Die Gerberei Chouara, die engen Gassen der Medina, Händler und Handwerker. Reisefotografie vom Feinsten. Empfehle dazu unseren [riads-marokko-guide](/blog/riads-marokko-guide/), der die besten Unterkünfte direkt in der Medina zeigt. Buchen über [Airbnb](https://www.airbnb.com/) für traditionelle Riads.
 
 **Lofoten, Norwegen** mit den roten Fischerhütten spiegeln sich in tiefblauem Wasser. Berge steigen direkt aus dem Fjord auf. Herbst und Winter liefern häufig auch Nordlichter. Unterkunft in einem Rorbu (traditionelle Fischerhütte) über [Booking.com](https://www.booking.com/searchresults.html?ss=Lofoten).
 
@@ -94,6 +94,6 @@ Santorini und Kappadokien liefern spektakuläre Ergebnisse mit minimalem technis
 
 ## Mehr lesen
 
-- [Wo übernachten in Kappadokien: Beste Stadtteile und Höhlenhotels](/blog/wo-uebernachten-kappadokien)
-- [Wo übernachten in Santorini: Oia, Fira oder Imerovigli?](/blog/wo-uebernachten-santorini)
-- [Island Roadtrip Guide: Route, Tipps und beste Fotospots](/blog/island-roadtrip-guide)
+- [Wo übernachten in Kappadokien: Beste Stadtteile und Höhlenhotels](/blog/wo-uebernachten-kappadokien/)
+- [Wo übernachten in Santorini: Oia, Fira oder Imerovigli?](/blog/wo-uebernachten-santorini/)
+- [Island Roadtrip Guide: Route, Tipps und beste Fotospots](/blog/island-roadtrip-guide/)

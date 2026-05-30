@@ -59,7 +59,7 @@ Jordan Marriott Hotel Amman (5-Sterne direkt an der Rainbow-Achse, guter Ausgang
 
 **Preise:** Boutique 130-250 Euro, Premium 220-400 Euro.
 
-Lies auch unseren [Jordanien-Reiseguide](/blog/jordanien-reiseguide-highlights), wenn du Petra und Wadi Rum mit Amman kombinierst.
+Lies auch unseren [Jordanien-Reiseguide](/blog/jordanien-reiseguide-highlights/), wenn du Petra und Wadi Rum mit Amman kombinierst.
 
 ## Shmeisani: Zentral und entspannt
 
@@ -71,7 +71,7 @@ Shmeisani hat tagsüber Büros und abends Leben. Der Vorteil: Hotels hier kosten
 
 **Top-Picks:** Le Royal Hotel Amman (bekanntes Stadthotel mit gutem Service und Blick über die Stadt), Holiday Inn Amman (zuverlässige Mittelklasse, gutes Frühstück, Businessfreundlich).
 
-Für Reisende, die von Amman nach Petra weiterfahren: schau dir auch unseren [Istanbul-Guide](/blog/wo-uebernachten-istanbul) an. Beide Städte funktionieren als Hub für regionale Kurztrips sehr ähnlich.
+Für Reisende, die von Amman nach Petra weiterfahren: schau dir auch unseren [Istanbul-Guide](/blog/wo-uebernachten-istanbul/) an. Beide Städte funktionieren als Hub für regionale Kurztrips sehr ähnlich.
 
 ## Wann ist die beste Reisezeit für Amman?
 
@@ -94,7 +94,7 @@ Für Amman ist [Booking.com](https://www.booking.com) die verlässlichste Plattf
 
 Direktbuchung lohnt nur bei den großen Ketten (Four Seasons, Kempinski) für mögliche Upgrades und Mitgliederpunkte.
 
-Lies dazu auch unseren [Kairo-Guide](/blog/wo-uebernachten-kairo). Wer Amman besucht, kombiniert oft beide Städte zu einer Nahost-Runde.
+Lies dazu auch unseren [Kairo-Guide](/blog/wo-uebernachten-kairo/). Wer Amman besucht, kombiniert oft beide Städte zu einer Nahost-Runde.
 
 ---
 
@@ -121,6 +121,6 @@ Budget-Hostel: 15-40 Euro. Mittelklasse (3-4-Sterne): 70-150 Euro. Boutique und 
 ---
 
 **Mehr lesen:**
-- [Wo übernachten in Istanbul: Die besten Stadtteile](/blog/wo-uebernachten-istanbul)
-- [Wo übernachten in Kairo: Downtown vs. Zamalek vs. Giza](/blog/wo-uebernachten-kairo)
-- [Jordanien Reiseguide: Petra, Wadi Rum und mehr](/blog/jordanien-reiseguide-highlights)
+- [Wo übernachten in Istanbul: Die besten Stadtteile](/blog/wo-uebernachten-istanbul/)
+- [Wo übernachten in Kairo: Downtown vs. Zamalek vs. Giza](/blog/wo-uebernachten-kairo/)
+- [Jordanien Reiseguide: Petra, Wadi Rum und mehr](/blog/jordanien-reiseguide-highlights/)

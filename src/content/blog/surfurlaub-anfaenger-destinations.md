@@ -34,7 +34,7 @@ Die Wellen in Taghazout sind klassisches Atlantik-Surfen: konstant, gut struktur
 
 **Beste Saison:** Oktober bis April. Sommer zu windig für Anfänger.
 
-Wer in Marokko auch die Städte erkunden will: unser [Marrakesch-Unterkunftsguide](/blog/wo-uebernachten-marrakesch) hilft beim Planen.
+Wer in Marokko auch die Städte erkunden will: unser [Marrakesch-Unterkunftsguide](/blog/wo-uebernachten-marrakesch/) hilft beim Planen.
 
 ## Fuerteventura: Bestes Surf-Einsteiger-Spot in Europa
 
@@ -66,7 +66,7 @@ Canggu ist ruhiger als Kuta, etwas anspruchsvoller in den Wellen, aber trendiger
 
 **Beste Saison:** April bis Oktober (Trockenzeit, bessere Wellen). November bis März Monsun und unbeständigere Bedingungen.
 
-Für die Unterkunft auf Bali: unser [Bali-Viertelguide](/blog/wo-uebernachten-bali) zeigt die Unterschiede zwischen Kuta, Seminyak und Canggu.
+Für die Unterkunft auf Bali: unser [Bali-Viertelguide](/blog/wo-uebernachten-bali/) zeigt die Unterschiede zwischen Kuta, Seminyak und Canggu.
 
 ## Nosara, Costa Rica: Organisierter und sauber
 
@@ -76,7 +76,7 @@ Nosara ist das am besten organisierte Surfdorf in Costa Rica. Playa Guiones hat 
 
 **Beste Saison:** Dezember bis April (Trockenzeit). Nebensaison Mai bis November: günstiger, Wellen trotzdem gut.
 
-Mehr zu Costa Rica insgesamt: unser [Costa Rica Rundreise-Guide](/blog/costa-rica-rundreise-route).
+Mehr zu Costa Rica insgesamt: unser [Costa Rica Rundreise-Guide](/blog/costa-rica-rundreise-route/).
 
 ## Wo surft man in Asien am günstigsten als Anfänger?
 
@@ -130,6 +130,6 @@ Das variiert je nach Ziel. Taghazout/Marokko: Oktober bis April. Fuerteventura: 
 ---
 
 **Mehr lesen:**
-- [Costa Rica Rundreise: Die komplette Route](/blog/costa-rica-rundreise-route)
-- [Wo übernachten in Bali: 5 Viertel](/blog/wo-uebernachten-bali)
-- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich)
+- [Costa Rica Rundreise: Die komplette Route](/blog/costa-rica-rundreise-route/)
+- [Wo übernachten in Bali: 5 Viertel](/blog/wo-uebernachten-bali/)
+- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/)

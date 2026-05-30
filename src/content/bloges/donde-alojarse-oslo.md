@@ -45,7 +45,7 @@ Al este del centro, el equivalente osloense al Kreuzberg berlinés. Tiendas vint
 
 **Mejores opciones:** PS: Hotel (pequeño hotel boutique con mucho carácter), Funky Flamingo Hotel (diseño económico), City Box Oslo (asequible, claro y bien conectado).
 
-También te puede interesar nuestra guía de [Reikiavik](/es/blog/donde-alojarse-reikiavik), otra capital nórdica con barrios con mucha personalidad.
+También te puede interesar nuestra guía de [Reikiavik](/es/blog/donde-alojarse-reikiavik/), otra capital nórdica con barrios con mucha personalidad.
 
 ## ¿Cuándo es la mejor época para visitar Oslo?
 
@@ -92,7 +92,7 @@ Para Oslo, [Booking.com](https://www.booking.com) tiene buena oferta:
 
 Reservar directamente en hoteles boutique (The Thief, Camillas Hus) puede valer la pena si te interesa la posibilidad de una mejora de habitación.
 
-Lee también nuestra guía de [Barcelona](/es/blog/donde-alojarse-barcelona) y la de [París](/es/blog/donde-alojarse-paris) para comparar ciudades europeas con barrios igual de variados.
+Lee también nuestra guía de [Barcelona](/es/blog/donde-alojarse-barcelona/) y la de [París](/es/blog/donde-alojarse-paris/) para comparar ciudades europeas con barrios igual de variados.
 
 ---
 
@@ -119,6 +119,6 @@ El aeropuerto Gardermoen está a 47 km fuera de la ciudad. El Flytog (tren expre
 ---
 
 **Más artículos:**
-- [Dónde alojarse en Reikiavik](/es/blog/donde-alojarse-reikiavik)
-- [Dónde alojarse en París: Los 5 barrios](/es/blog/donde-alojarse-paris)
-- [Dónde alojarse en Roma: Los 5 barrios](/es/blog/donde-alojarse-roma)
+- [Dónde alojarse en Reikiavik](/es/blog/donde-alojarse-reikiavik/)
+- [Dónde alojarse en París: Los 5 barrios](/es/blog/donde-alojarse-paris/)
+- [Dónde alojarse en Roma: Los 5 barrios](/es/blog/donde-alojarse-roma/)
