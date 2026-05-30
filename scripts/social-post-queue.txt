@@ -1,0 +1,7 @@
+rome
+lisbon
+amsterdam
+prague
+edinburgh
+new-york
+london
