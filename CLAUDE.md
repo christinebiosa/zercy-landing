@@ -160,6 +160,45 @@ git add -A && git commit -m "Beschreibung der Änderung" && git push
 ```
 **NIEMALS** nur Vercel deployen ohne Git-Push. GitHub MUSS immer synchron sein mit dem was live ist. Nicht fragen ob gepusht werden soll — einfach machen. Das ist Teil des Deployments.
 
+## 📲 Social Media Auto-Posting (Instagram + Facebook) — KOMPLETT AUTOMATISCH
+
+Aus einem Blog-Artikel wird automatisch ein IG-Carousel + FB-Reel und live gepostet. Kostenlos via Meta Graph API, kein Drittanbieter, kein App Review (eigenes Konto = Standard Access).
+
+### Der EINE Befehl (für jede Stadt)
+```bash
+cd "$HOME/Claude Code Projects/zercy-landing"
+node scripts/social-pipeline.mjs <city-slug>     # z.B. tokyo, barcelona
+```
+Macht alles: Carousel+Captions erzeugen (falls noch nicht da) → FB-Slideshow-Video → Medien aufbereiten (PNG→JPEG) → git push → Vercel-Deploy → warten bis Medien öffentlich → IG-Carousel + FB-Reel posten.
+Flags: `--skip-deploy` (Medien schon live), `--ig-only`, `--fb-only`, `--no-post` (bauen+deployen ohne posten).
+
+### Pipeline-Bausteine (scripts/)
+| Script | Zweck |
+|---|---|
+| `generate-carousel.mjs <slug>` | Claude → Beat-Sheet (EN) → 6–8 Slides (1080×1350) + `caption.txt` (IG) + `caption-facebook.txt` (FB, echter Link) in `social-output/<slug>/` |
+| `make-fb-slideshow.mjs <slug>` | ffmpeg → `slideshow-facebook.mp4` (4:5, ~18s, Crossfades) aus den Slides |
+| `prep-social-media.mjs <slug>` | PNG→JPEG (`sips`) + MP4 → `public/social/<slug>/` (wird via zercy.app öffentlich) |
+| `post-social.mjs <slug>` | postet via Meta API. IG: item-Container je Slide → CAROUSEL-Container → media_publish. FB: `POST /{page-id}/videos` mit `file_url` (wird als Reel veröffentlicht). |
+| `social-pipeline.mjs <slug>` | Orchestrator = der EINE Befehl oben |
+| `remotion/src/CarouselSlide.tsx` | Slide-Design (cover/content/cta), Composition `Carousel` |
+
+### Meta-Zugang (KRITISCH)
+- Alle Credentials lokal in **`~/.zercy-analytics/meta-api.json`** (NICHT in GitHub): app_id, app_secret, **system_user_token (läuft NIE ab)**, ig_user_id `17841426150732053`, fb_page_id `1152952871226938`.
+- Meta-App „Zercy Poster" (Dev-Mode, NICHT publishen/Tech-Provider), System-User „Zercy Poster Bot" im Business „Zercy Travel". Graph API v21.0.
+- **⚠️ Es gibt 2 FB-Seiten:** **„Zercy Travel"** (Page 1152952871226938, IG @zercytravel verknüpft, hier wird gepostet = die RICHTIGE) und **„Zercy App"** (61590442321489, leere Karteileiche, ignorieren). Cover/Bio/alles auf „Zercy Travel".
+
+### Wichtige Regeln / Gotchas
+- **IG-API akzeptiert nur JPEG** (kein PNG) → `prep-social-media.mjs` konvertiert. Pflicht.
+- Medien müssen **öffentliche HTTPS-URLs** sein → liegen in `public/social/<slug>/`, deployt nach `zercy.app/social/<slug>/`. Werden committet (wie Blog-Bilder), damit Vercel sie sicher ausliefert.
+- IG-Caption = `caption.txt` (Hashtags + „link in bio"). FB-Caption = `caption-facebook.txt` (echter Link im Text). CTA-Slide sagt plattform-neutral „Full guide on zercy.app".
+- Identischer Text auf IG+FB ist KEIN SEO-/Reichweiten-Problem (geprüft).
+- FB-Cover-Foto + IG-Bio-Link gehen NICHT per API → manuell (IG-Bio-Link nur in der Handy-App änderbar).
+- Rate-Limit IG: ~50–100 Posts/24h (für Blog irrelevant). Carousel max 10 Slides = 1 Post.
+
+### Status (2026-05-29)
+- System gebaut + live getestet. Gepostet: Tokyo (IG+FB), Paris (IG manuell + FB auto). 8 Städte vorbereitet (rome, lisbon, amsterdam, prague, edinburgh, new-york, london; barcelona im Lauf).
+- Posten am besten zeitlich verteilt (nicht alle auf einmal). Optional künftig: LaunchAgent/Queue für ~2×/Tag.
+
 ## Domain-Struktur
 - `zercy.app` → Landing Page (dieses Repo)
 - `www.zercy.app` → Landing Page
