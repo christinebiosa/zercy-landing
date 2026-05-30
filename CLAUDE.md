@@ -1125,7 +1125,8 @@ Der "Stadtführer / City Guide Finder / Guía de ciudades"-Dropdown auf allen 3 
 3. **Index-Queue füllen (statt manuellem submit) — IMMER am Ende der Session (ohne Aufforderung):**
    ```bash
    # neue URLs (DE/EN/ES) an den Anfang von scripts/indexing-queue.txt setzen
-   { printf '%s\n' https://www.zercy.app/blog/[slug] https://www.zercy.app/en/blog/[slug] https://www.zercy.app/es/blog/[slug]; cat scripts/indexing-queue.txt; } > q.tmp && mv q.tmp scripts/indexing-queue.txt
+   # WICHTIG: URLs MIT trailing slash (= Canonical-Form), sonst „Alternate page with proper canonical" in GSC
+   { printf '%s\n' https://www.zercy.app/blog/[slug]/ https://www.zercy.app/en/blog/[slug]/ https://www.zercy.app/es/blog/[slug]/; cat scripts/indexing-queue.txt; } > q.tmp && mv q.tmp scripts/indexing-queue.txt
    ```
    - Der LaunchAgent `app.zercy.daily-indexing` (08:30 CST) reicht täglich die ersten 200 ein und räumt die Queue auf. **Kein manuelles `submit-indexing.mjs` nötig**, kein 200/Tag-Jonglieren von Hand (Überhang bleibt in der Queue).
    - Gilt für Blog-Artikel (DE/EN/ES), neue Seiten, geänderte Seiten.

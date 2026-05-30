@@ -199,7 +199,7 @@ if (withPhotos) {
 }
 
 // 5. Index-Queue (oben)
-const urls = ['de', 'en', 'es'].map((l) => `${URL_PREFIX[l]}/${spec[l].slug}`).join('\n') + '\n';
+const urls = ['de', 'en', 'es'].map((l) => `${URL_PREFIX[l]}/${spec[l].slug}/`).join('\n') + '\n';
 writeFileSync(QUEUE, urls + readFileSync(QUEUE, 'utf8'));
 console.log('  ✓ 3 URLs oben in scripts/indexing-queue.txt (Automatik reicht ein)');
 
