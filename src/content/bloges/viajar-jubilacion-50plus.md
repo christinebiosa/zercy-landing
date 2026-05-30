@@ -5,7 +5,7 @@ description: "La jubilación es el mejor pasaporte que tendrás. Descubre qué s
 pubDate: 2026-05-25
 category: "Viaje inteligente"
 readingTime: 9
-heroImage: "/img/blog/senior-travel.jpg"
+heroImage: "/img/blog/senior-travel-50plus.jpg"
 ---
 
 La jubilación es el mejor pasaporte que jamás tendrás. Sin contar días de vacaciones. Sin preocuparte por el calendario escolar. Sin la presión de la temporada alta. Viajas cuando quieres — y eso lo cambia todo.

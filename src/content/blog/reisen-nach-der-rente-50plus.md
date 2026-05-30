@@ -5,7 +5,7 @@ description: "Rente bedeutet endlich Zeit zum Reisen. Welche Versicherungen du b
 pubDate: 2026-05-25
 category: "Clever Reisen"
 readingTime: 9
-heroImage: "/img/blog/senior-travel.jpg"
+heroImage: "/img/blog/senior-travel-50plus.jpg"
 ---
 
 Die Rente ist der beste Reisepass, den du je bekommen wirst. Keine Urlaubstage zählen. Kein Schuljahr im Blick haben. Kein Hochsaison-Stress. Du reist wann du willst — und das verändert alles.

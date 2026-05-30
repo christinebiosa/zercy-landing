@@ -5,7 +5,7 @@ description: "Retirement is the best travel passport you'll ever have. Learn whi
 pubDate: 2026-05-25
 category: "Smart Travel"
 readingTime: 9
-heroImage: "/img/blog/senior-travel.jpg"
+heroImage: "/img/blog/senior-travel-50plus.jpg"
 ---
 
 Retirement is the best travel passport you'll ever receive. No more counting vacation days. No school year to work around. No peak season pressure. You travel when you want — and that changes everything.

@@ -3,6 +3,36 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  'europa-nebensaison-reise-guide': 'europe-off-season',
+  'europe-off-season-travel-guide': 'europe-off-season',
+  'europa-temporada-baja-guia': 'europe-off-season',
+  'esim-reise-guide-2026': 'esim-travel-2026',
+  'travel-esim-guide-2026': 'esim-travel-2026',
+  'esim-viaje-guia-2026': 'esim-travel-2026',
+  'beste-reisezeit-portugal': 'best-time-portugal',
+  'best-time-to-visit-portugal': 'best-time-portugal',
+  'mejor-epoca-para-visitar-portugal': 'best-time-portugal',
+  'beste-reisezeit-neuseeland': 'best-time-new-zealand',
+  'best-time-to-visit-new-zealand': 'best-time-new-zealand',
+  'mejor-epoca-para-visitar-nueva-zelanda': 'best-time-new-zealand',
+  'paris-vs-rom-vergleich': 'paris-vs-rome',
+  'paris-vs-rome-comparison': 'paris-vs-rome',
+  'paris-vs-roma-comparacion': 'paris-vs-rome',
+  'wo-uebernachten-izmir': 'izmir',
+  'where-to-stay-izmir': 'izmir',
+  'donde-alojarse-izmir': 'izmir',
+  'wo-uebernachten-galway': 'galway',
+  'where-to-stay-galway': 'galway',
+  'donde-alojarse-galway': 'galway',
+  'wo-uebernachten-manila': 'manila',
+  'where-to-stay-manila': 'manila',
+  'donde-alojarse-manila': 'manila',
+  'wo-uebernachten-amalfi': 'amalfi',
+  'where-to-stay-amalfi': 'amalfi',
+  'donde-alojarse-amalfi': 'amalfi',
+  'wo-uebernachten-punta-cana': 'punta-cana',
+  'where-to-stay-punta-cana': 'punta-cana',
+  'donde-alojarse-punta-cana': 'punta-cana',
   // ===== CITY GUIDES (3-4 slug variants per city, share photo) =====
   // Where to Stay - Europa
   'wo-uebernachten-amsterdam': 'amsterdam',
@@ -1972,6 +2002,16 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'europe-off-season': 'europe autumn quiet old town',
+  'esim-travel-2026': 'smartphone travel map esim',
+  'best-time-portugal': 'portugal lisbon coast tram',
+  'best-time-new-zealand': 'new zealand mountains lake landscape',
+  'paris-vs-rome': 'rome colosseum paris eiffel travel',
+  'izmir': 'izmir turkey city',
+  'galway': 'galway ireland city',
+  'manila': 'manila philippines bay skyline',
+  'amalfi': 'amalfi coast italy',
+  'punta-cana': 'punta cana beach palm resort',
   // Cities
   'amsterdam': 'amsterdam canal houses',
   'athens': 'athens acropolis greece',
