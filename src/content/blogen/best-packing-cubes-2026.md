@@ -63,7 +63,7 @@ For up-to-date carry-on size rules by airline, the [IATA baggage page](https://w
 
 ---
 
-Packing cubes help you fit more into less luggage. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Once your bag is sorted, the real trip begins: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Best carry-on luggage 2026](/en/blog/best-carry-on-luggage-2026/)

@@ -59,7 +59,7 @@ Wer das Gewicht vor dem Check-in immer im Griff haben will, findet in den [beste
 
 ---
 
-Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
+Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du Flüge und Hotels mit Live-Preisen und sicherst dir die besten Optionen in deinem [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Mehr lesen:**
 - [Nur mit Handgepäck fliegen: das komplette System](/blog/nur-handgepaeck/)

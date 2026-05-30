@@ -63,7 +63,7 @@ Para consultar las medidas permitidas de equipaje de mano por aerolínea, la [p�
 
 ---
 
-Los organizadores de maleta te ayudan a meter más en menos espacio. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano al reservar.
+Cuando tengas el equipaje listo, empieza el viaje de verdad: con Zercy comparas vuelos y hoteles con precios en vivo y guardas las mejores opciones en tu [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Más artículos:**
 - [Las mejores maletas de cabina 2026](/es/blog/mejores-maletas-cabina-2026/)

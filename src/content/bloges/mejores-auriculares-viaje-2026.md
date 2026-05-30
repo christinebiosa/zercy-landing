@@ -53,7 +53,7 @@ Por encima de 300 euros están el Sony XM5, los AirPods Max y el Bose Ultra. Mod
 
 ---
 
-Zercy te ayuda a planificar tu próximo viaje. Guarda tu selección de auriculares en tu [Zercy Logbook](https://www.zercy.app/logbook) para tener todo a mano al hacer la maleta.
+Cuando tengas el equipaje listo, empieza el viaje de verdad: con Zercy comparas vuelos y hoteles con precios en vivo y guardas las mejores opciones en tu [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Más artículos:**
 - [Guía de comodidad en vuelos largos](/es/blog/vuelo-largo-comodidad-guia/)

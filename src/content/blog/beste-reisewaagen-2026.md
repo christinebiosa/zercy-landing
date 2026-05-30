@@ -55,7 +55,7 @@ Wer mit Kindern reist, braucht die Waage fast zwingend. Kinderzubehör ist schwe
 
 ---
 
-Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
+Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du Flüge und Hotels mit Live-Preisen und sicherst dir die besten Optionen in deinem [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Mehr lesen:**
 - [Die besten Packwürfel 2026: So sparst du Platz im Koffer](/blog/beste-packwuerfel-2026/)

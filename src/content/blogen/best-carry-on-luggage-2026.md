@@ -55,7 +55,7 @@ More than 20 trips a year: Rimowa or Travelpro. The higher price pays off over f
 
 ---
 
-Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Once your bag is sorted, the real trip begins: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Carry-on only: the complete system](/en/blog/carry-on-only/)

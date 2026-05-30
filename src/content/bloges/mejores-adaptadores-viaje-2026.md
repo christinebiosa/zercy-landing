@@ -61,7 +61,7 @@ Para viajes con mucho equipo, combina un buen adaptador con una regleta local si
 
 ---
 
-Zercy te ayuda a planificar cada viaje desde la idea hasta la reserva. Guarda la selección en tu [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano al reservar.
+Cuando tengas el equipaje listo, empieza el viaje de verdad: con Zercy comparas vuelos y hoteles con precios en vivo y guardas las mejores opciones en tu [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Más artículos:**
 - [Mejores baterías externas para viaje 2026](/es/blog/mejores-baterias-externas-viaje-2026/)

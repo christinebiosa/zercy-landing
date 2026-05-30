@@ -55,7 +55,7 @@ Für die Packstrategie: [Beste Packwürfel 2026](/blog/beste-packwuerfel-2026/) 
 
 ---
 
-Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
+Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du Flüge und Hotels mit Live-Preisen und sicherst dir die besten Optionen in deinem [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Mehr lesen:**
 - [Reisen mit Baby: Erste Fluege](/blog/reisen-mit-baby-erste-fluege/)

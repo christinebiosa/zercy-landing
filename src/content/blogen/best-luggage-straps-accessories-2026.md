@@ -67,7 +67,7 @@ Trackers like the Apple AirTag add a digital layer. You know where your bag is a
 
 ---
 
-Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Once your bag is sorted, the real trip begins: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Carry-on only: how to travel without checked luggage](/en/blog/carry-on-only/)

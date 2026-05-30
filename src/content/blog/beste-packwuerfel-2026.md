@@ -63,7 +63,7 @@ Informationen zu zugelassenem Gepäckvolumen findest du direkt bei deiner Airlin
 
 ---
 
-Packwürfel helfen dir, mehr in weniger Koffer zu packen. Speichere deine Lieblingsoptionen im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim nächsten Kauf direkt weißt, welches Set du meinst.
+Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du Flüge und Hotels mit Live-Preisen und sicherst dir die besten Optionen in deinem [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Mehr lesen:**
 - [Das beste Handgepäck 2026](/blog/bestes-handgepaeck-koffer-2026/)

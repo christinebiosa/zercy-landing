@@ -55,7 +55,7 @@ Noch ein Gedanke: Deine [Reise-Kopfhörer](/blog/beste-kopfhoerer-reise-2026/) u
 
 ---
 
-Plane dein nächstes Gadget-Setup mit [Zercy](https://www.zercy.app): Gib dein Reiseziel ein und sieh, welche Ausrüstung wirklich Sinn macht. Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
+Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du Flüge und Hotels mit Live-Preisen und sicherst dir die besten Optionen in deinem [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Mehr lesen:**
 - [Powerbank-Regeln im Handgepäck 2026](/blog/powerbank-regeln-handgepaeck-2026/)

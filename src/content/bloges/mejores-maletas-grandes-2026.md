@@ -89,7 +89,7 @@ Una fórmula simple: divide el precio entre los años de uso previstos. 300 euro
 
 ---
 
-Guarda la selección en tu [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano al reservar. Zercy también te ayuda a comparar vuelos y hoteles cuando la maleta ya está lista.
+Cuando tengas el equipaje listo, empieza el viaje de verdad: con Zercy comparas vuelos y hoteles con precios en vivo y guardas las mejores opciones en tu [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Más artículos:**
 - [Mejores maletas de cabina 2026: Equipaje de mano comparado](/es/blog/mejores-maletas-cabina-2026/)

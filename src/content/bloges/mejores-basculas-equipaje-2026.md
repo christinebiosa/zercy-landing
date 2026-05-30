@@ -55,7 +55,7 @@ Las familias son quienes más se benefician. El equipaje infantil pesa, varias m
 
 ---
 
-Guarda la selección en tu [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano al reservar.
+Cuando tengas el equipaje listo, empieza el viaje de verdad: con Zercy comparas vuelos y hoteles con precios en vivo y guardas las mejores opciones en tu [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Más artículos:**
 - [Mejores organizadores de maleta 2026: ordena el espacio de una vez](/es/blog/mejores-organizadores-maleta-2026/)

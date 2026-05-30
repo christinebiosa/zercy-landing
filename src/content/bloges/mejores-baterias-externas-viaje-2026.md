@@ -55,7 +55,7 @@ Un último apunte: tus [auriculares de viaje](/es/blog/mejores-auriculares-viaje
 
 ---
 
-Planifica tu próximo equipamiento de viaje con [Zercy](https://www.zercy.app): introduce tu destino y descubre qué dispositivos tienen sentido para ese viaje. Guarda la selección en tu [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano al reservar.
+Cuando tengas el equipaje listo, empieza el viaje de verdad: con Zercy comparas vuelos y hoteles con precios en vivo y guardas las mejores opciones en tu [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Más artículos:**
 - [Normas para baterías externas en equipaje de mano](/es/blog/normas-powerbank-equipaje-mano/)

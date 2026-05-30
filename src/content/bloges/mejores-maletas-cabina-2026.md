@@ -55,7 +55,7 @@ Más de 20 viajes al año: Rimowa o Travelpro. El precio se amortiza rápido. Pa
 
 ---
 
-Guarda la selección en tu [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano al reservar.
+Cuando tengas el equipaje listo, empieza el viaje de verdad: con Zercy comparas vuelos y hoteles con precios en vivo y guardas las mejores opciones en tu [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Más artículos:**
 - [Solo equipaje de mano: el sistema completo](/es/blog/solo-equipaje-de-mano/)

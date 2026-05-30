@@ -89,7 +89,7 @@ Eine grobe Formel: Teile den Kaufpreis durch die geplanten Reisejahre. 300 Euro 
 
 ---
 
-Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast. Zercy hilft dir außerdem, Flüge und Hotels direkt zu vergleichen, sobald der Koffer gepackt ist.
+Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du Flüge und Hotels mit Live-Preisen und sicherst dir die besten Optionen in deinem [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Mehr lesen:**
 - [Bestes Handgepäck 2026: Koffer im Vergleich](/blog/bestes-handgepaeck-koffer-2026/)

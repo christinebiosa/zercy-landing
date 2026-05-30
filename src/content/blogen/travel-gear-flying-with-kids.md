@@ -55,7 +55,7 @@ For packing strategy, see [Best Packing Cubes 2026](/en/blog/best-packing-cubes-
 
 ---
 
-Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Once your bag is sorted, the real trip begins: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Traveling with a Baby: First Flights](/en/blog/traveling-with-baby-first-flights/)

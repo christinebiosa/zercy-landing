@@ -45,7 +45,7 @@ La mayoría de las aerolíneas grandes en Europa y América permiten hasta 45 x 
 
 ---
 
-Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano al reservar.
+Cuando tengas el equipaje listo, empieza el viaje de verdad: con Zercy comparas vuelos y hoteles con precios en vivo y guardas las mejores opciones en tu [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Más artículos:**
 - [Solo equipaje de mano: todo lo que necesitas saber](/es/blog/solo-equipaje-de-mano/)

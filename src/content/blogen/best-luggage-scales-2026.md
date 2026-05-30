@@ -55,7 +55,7 @@ Families benefit most. Children's gear is heavy, multiple bags add up fast, and 
 
 ---
 
-Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Once your bag is sorted, the real trip begins: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Best packing cubes 2026: maximize every inch of your bag](/en/blog/best-packing-cubes-2026/)

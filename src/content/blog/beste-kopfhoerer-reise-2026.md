@@ -53,7 +53,7 @@ Ab 300 Euro spielen Sony XM5, AirPods Max und Bose Ultra. Das sind Spitzenmodell
 
 ---
 
-Zercy hilft dir beim Planen deiner nächsten Reise. Speichere deine Kopfhörer-Shortlist im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Packen nichts vergisst.
+Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du Flüge und Hotels mit Live-Preisen und sicherst dir die besten Optionen in deinem [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Mehr lesen:**
 - [Langstreckenflug-Komfort-Guide](/blog/langstreckenflug-komfort-guide/)

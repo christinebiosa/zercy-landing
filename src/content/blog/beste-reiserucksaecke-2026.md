@@ -45,7 +45,7 @@ Reisen auf Langstrecken? Dann sorge dafür, dass du auch eine gute [Powerbank im
 
 ---
 
-Speichere deine Favoriten im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
+Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du Flüge und Hotels mit Live-Preisen und sicherst dir die besten Optionen in deinem [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Mehr lesen:**
 - [Nur Handgepäck: Alles, was du wissen musst](/blog/nur-handgepaeck/)
