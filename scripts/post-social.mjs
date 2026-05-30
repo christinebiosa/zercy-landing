@@ -47,6 +47,19 @@ async function waitFinished(containerId, token, label) {
   throw new Error(`${label}: Container nicht rechtzeitig FINISHED`);
 }
 
+// media_publish wirft manchmal 9007 ("Media ID is not available"), obwohl der Container
+// FINISHED meldet — kurze Verzoegerung + Retry loest das zuverlaessig.
+async function publishWithRetry(igId, creationId, token) {
+  for (let i = 0; i < 6; i++) {
+    try {
+      return await graph(`${igId}/media_publish`, { method: 'POST', params: { creation_id: creationId }, token });
+    } catch (e) {
+      if (/9007|not available/i.test(e.message) && i < 5) { await sleep(6000); continue; }
+      throw e;
+    }
+  }
+}
+
 async function postInstagram(slug, pageTok) {
   const igId = cfg.ig_user_id;
   const dir = path.join(BASE, 'public', 'social', slug);
@@ -61,12 +74,14 @@ async function postInstagram(slug, pageTok) {
   const children = [];
   for (const u of urls) {
     const c = await graph(`${igId}/media`, { method: 'POST', params: { image_url: u, is_carousel_item: 'true' }, token: pageTok });
+    await waitFinished(c.id, pageTok, 'IG-Slide'); // jede Slide fertig verarbeiten lassen
     children.push(c.id);
   }
   console.log('  📸 IG: Carousel-Container...');
   const car = await graph(`${igId}/media`, { method: 'POST', params: { media_type: 'CAROUSEL', children: children.join(','), caption }, token: pageTok });
   await waitFinished(car.id, pageTok, 'IG-Carousel');
-  const pub = await graph(`${igId}/media_publish`, { method: 'POST', params: { creation_id: car.id }, token: pageTok });
+  await sleep(3000);
+  const pub = await publishWithRetry(igId, car.id, pageTok);
   console.log(`  ✅ IG veroeffentlicht: media id ${pub.id}`);
   return pub.id;
 }
