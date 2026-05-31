@@ -1,5 +1,3 @@
-lisbon
-amsterdam
 prague
 edinburgh
 new-york
