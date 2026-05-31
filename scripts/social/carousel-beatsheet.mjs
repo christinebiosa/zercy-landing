@@ -79,12 +79,41 @@ Rules:
 - "caption" contains NO hashtags and NO '#' characters.
 - "hashtags": 6 to 8 entries. Each is ONE lowercase token, no '#', no spaces, no punctuation (e.g. "parisneighborhoods", "firsttimeparis"). Mix destination-specific and travel-niche tags.`;
 
-export async function generateCarouselSheet({ slug, cityName, enBody, apiKey }) {
+const PRODUCT_PROMPT = (slug, productName, category, enBody) => `You write an English Instagram/Facebook carousel for a travel-product roundup titled "${productName}" (category: ${category}), from the blog article below.
+
+Article excerpt:
+${enBody.slice(0, 1400)}
+
+Tone: direct, "you", short punchy sentences, no em-dashes, no fluff. Like a savvy traveler sharing a tight shortlist.
+
+Return ONLY JSON in exactly this shape:
+{
+  "topic": "${slug}",
+  "cover": { "title": "scroll-stopping hook headline (max 7 words)", "hook": "one short promise line", "query": "english photo search term" },
+  "slides": [
+    { "heading": "short buying angle (max 3 words, e.g. Best overall, Best budget, Best lightweight, Best for camping)", "line": "the actual pick by its real name from the article + one reason, one vivid line", "bestFor": "2-4 keywords (who it suits)", "query": "english photo search term for a vertical lifestyle image of this product type in use" }
+  ],
+  "cta": { "headline": "Save this for your trip", "sub": "Full guide on zercy.app", "query": "english photo search term" },
+  "caption": "IG/FB caption BODY only, no hashtags: a scroll-stopping hook line, then 2-3 short value lines, then a soft CTA 'Full guide in our bio'. Short sentences. No em-dashes.",
+  "hashtags": ["travelgear", "..."]
+}
+Rules:
+- "slides" has 4 to 6 entries. Each is ONE curated pick; put the real product name from the article in "line".
+- "heading" is a short buying angle (Best overall / Best budget / Best lightweight / Best for X), never a price.
+- Every "query" is a concrete English photo search term for a vertical lifestyle image matching that product type (e.g. "person using power bank outdoors", "merino wool shirt travel").
+- "caption" contains NO hashtags and NO '#' characters.
+- "hashtags": 6 to 8 entries. Each is ONE lowercase token, no '#', no spaces, no punctuation (e.g. "travelgear", "packingtips", "traveltech"). Mix product and travel-niche tags.`;
+
+export async function generateCarouselSheet({ slug, name, cityName, enBody, apiKey, mode = 'city', category = '' }) {
+  const displayName = name || cityName;
   const anthropic = new Anthropic({ apiKey });
+  const prompt = mode === 'product'
+    ? PRODUCT_PROMPT(slug, displayName, category, enBody)
+    : CAROUSEL_PROMPT(slug, displayName, enBody);
   const msg = await anthropic.messages.create({
     model: 'claude-sonnet-4-6',
     max_tokens: 2000,
-    messages: [{ role: 'user', content: CAROUSEL_PROMPT(slug, cityName, enBody) }],
+    messages: [{ role: 'user', content: prompt }],
   });
   const block = msg.content.find((b) => b.type === 'text');
   if (!block) throw new Error('Claude-Antwort ohne Text-Block');

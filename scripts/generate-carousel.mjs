@@ -18,23 +18,39 @@ const OUT_DIR = path.join(BASE_DIR, 'social-output');
 const REMOTION_DIR = path.join(BASE_DIR, 'remotion');
 const PUBLIC_SOCIAL = path.join(REMOTION_DIR, 'public', 'renders-social');
 
-function readEnArticle(slug) {
-  for (const name of [`where-to-stay-${slug}`, slug]) {
-    const p = path.join(BASE_DIR, 'src/content/blogen', `${name}.md`);
-    if (existsSync(p)) return readFileSync(p, 'utf8');
+function fmField(md, key) {
+  const m = md.match(/^---([\s\S]*?)---/);
+  if (!m) return '';
+  const r = m[1].match(new RegExp(`^${key}:\\s*"?([^"\\n]+)"?`, 'm'));
+  return r ? r[1].trim() : '';
+}
+// City-Guides (where-to-stay-<slug>) -> Neighborhood-Carousel + where-to-stay-URL.
+// Alle anderen Artikel (Produkt-Roundups: gear/clothing/comfort/luggage) -> Produkt-Carousel + /en/blog/<slug>/-URL.
+function resolveArticle(slug) {
+  const cityPath = path.join(BASE_DIR, 'src/content/blogen', `where-to-stay-${slug}.md`);
+  if (existsSync(cityPath)) {
+    const md = readFileSync(cityPath, 'utf8');
+    const name = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    return { md, mode: 'city', name, category: '', url: `https://www.zercy.app/en/blog/where-to-stay-${slug}/` };
   }
-  return '';
+  const p = path.join(BASE_DIR, 'src/content/blogen', `${slug}.md`);
+  if (existsSync(p)) {
+    const md = readFileSync(p, 'utf8');
+    const name = (fmField(md, 'title').replace(/\s*\|\s*Zercy\s*$/, '').trim()) || slug;
+    return { md, mode: 'product', name, category: fmField(md, 'category'), url: `https://www.zercy.app/en/blog/${slug}/` };
+  }
+  return null;
 }
 function body(md) { return md.replace(/^---[\s\S]+?---\n/, '').replace(/[#*`]/g, '').trim(); }
 
 async function generate(slug) {
   console.log(`\n🎠 Carousel fuer: ${slug}`);
-  const enMd = readEnArticle(slug);
-  if (!enMd) throw new Error(`Kein EN-Artikel fuer: ${slug} (src/content/blogen/where-to-stay-${slug}.md)`);
-  const cityName = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  const art = resolveArticle(slug);
+  if (!art) throw new Error(`Kein EN-Artikel fuer: ${slug} (weder where-to-stay-${slug}.md noch ${slug}.md in src/content/blogen)`);
+  console.log(`  📂 Modus: ${art.mode} ("${art.name}")`);
 
   console.log('  📝 Beat-Sheet (Claude)...');
-  const sheet = await generateCarouselSheet({ slug, cityName, enBody: body(enMd), apiKey: KEYS.anthropic_api_key });
+  const sheet = await generateCarouselSheet({ slug, name: art.name, enBody: body(art.md), apiKey: KEYS.anthropic_api_key, mode: art.mode, category: art.category });
 
   const imgDir = path.join(PUBLIC_SOCIAL, slug);
   if (!existsSync(imgDir)) mkdirSync(imgDir, { recursive: true });
@@ -63,8 +79,7 @@ async function generate(slug) {
   }
 
   writeFileSync(path.join(outDir, 'caption.txt'), sheet.caption + '\n');
-  const articleUrl = `https://www.zercy.app/en/blog/where-to-stay-${slug}`;
-  writeFileSync(path.join(outDir, 'caption-facebook.txt'), toFacebookCaption(sheet.caption, articleUrl) + '\n');
+  writeFileSync(path.join(outDir, 'caption-facebook.txt'), toFacebookCaption(sheet.caption, art.url) + '\n');
   console.log(`\n✅ Fertig: social-output/${slug}/ (${slides.length} Slides + caption.txt + caption-facebook.txt)`);
 }
 
