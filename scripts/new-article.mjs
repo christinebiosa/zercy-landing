@@ -53,6 +53,7 @@ const CATEGORIES = {
   gear:   { de: 'Reise-Gadgets',       en: 'Travel Gear',     es: 'Equipo de viaje' },
   clothing: { de: 'Reise-Kleidung',    en: 'Travel Clothing', es: 'Ropa de viaje' },
   luggage:  { de: 'Gepäck & Packen',   en: 'Luggage & Packing', es: 'Equipaje y organización' },
+  comfort:  { de: 'Reise-Komfort',     en: 'Travel Comfort',    es: 'Comodidad y bienestar' },
 };
 
 // Sprachspezifische Skelett-Bausteine (AEO-Struktur: FAQ-Heading + W-Wort-Fragen)
