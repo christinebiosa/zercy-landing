@@ -38,6 +38,16 @@
 - [ ] weekender — im Postfach (2026-05-31)
 → ALLE 10 gepusht. Wenn alle gepostet: nächster Reel-Batch (Komfort/Gear/Kleidung-Artikel haben alle Slides; neu rendern + pushen). Optional: City-Guides auch als TikTok (Carousel-Generator kann beides).
 
+## Regeln (Reels)
+- **MAX 5 Hashtags** pro Caption (TikTok löscht mehr). Hart begrenzt in carousel-beatsheet.mjs.
+- Captions IMMER als ein durchgehender Block geben (kein Zeilenumbruch, keine Doppel-Leerzeichen) — Christine kopiert direkt.
+- IG/FB = slideshow-music.mp4 (Musik + Credit). TikTok = stumme slideshow-facebook.mp4 (Trending-Sound manuell).
+
+## Bereit für morgen (TikTok-Entwürfe im Postfach)
+- [ ] madrid — im Postfach (2026-06-01), 5 Hashtags
+- [ ] bali — im Postfach (2026-06-01), 5 Hashtags
+
 ## Log
+- 2026-06-01: lisbon + amsterdam (clean, ohne SWIPE) gepostet ✓. SWIPE aus allen Reels entfernt, Musik (CC BY) für IG/FB. madrid + bali neu gebaut + ins TikTok-Postfach für morgen.
 - 2026-05-30: IG+FB = rome (+ lisbon, amsterdam). TikTok-Pipeline gebaut.
 - 2026-05-31 DAILY RUN ✅: IG+FB = prague + edinburgh (je Carousel+Reel, Claude gepostet). TikTok = neck-pillows + weekender als Entwurf gepusht → damit alle 10 Reels durch. Christine postet TikTok semi-auto. (lisbon/amsterdam waren gestern.)
