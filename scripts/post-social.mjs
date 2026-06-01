@@ -37,8 +37,8 @@ async function assertPublic(u) {
   if (!r.ok) throw new Error(`Medium nicht oeffentlich erreichbar (deploy noetig?): ${u} -> ${r.status}`);
 }
 
-async function waitFinished(containerId, token, label) {
-  for (let i = 0; i < 30; i++) {
+async function waitFinished(containerId, token, label, tries = 30) {
+  for (let i = 0; i < tries; i++) {
     const s = await graph(containerId, { params: { fields: 'status_code' }, token });
     if (s.status_code === 'FINISHED') return;
     if (s.status_code === 'ERROR') throw new Error(`${label}: Container-Verarbeitung fehlgeschlagen`);
@@ -61,28 +61,23 @@ async function publishWithRetry(igId, creationId, token) {
 }
 
 async function postInstagram(slug, pageTok) {
+  // IG als REEL (9:16-Video) statt Carousel -> mehr Reichweite. Gleiche Video-Datei wie FB/TikTok.
   const igId = cfg.ig_user_id;
-  const dir = path.join(BASE, 'public', 'social', slug);
-  const slides = readdirSync(dir).filter((f) => /^slide-\d+\.jpg$/.test(f)).sort();
-  const urls = slides.map((f) => `${PUBLIC_BASE}/${slug}/${f}`);
+  const videoUrl = `${PUBLIC_BASE}/${slug}/slideshow-facebook.mp4`;
   const caption = readFileSync(path.join(BASE, 'social-output', slug, 'caption.txt'), 'utf8').trim();
 
-  console.log(`  📸 IG: ${urls.length} Slides pruefen...`);
-  for (const u of urls) await assertPublic(u);
-
-  console.log('  📸 IG: Slide-Container erstellen...');
-  const children = [];
-  for (const u of urls) {
-    const c = await graph(`${igId}/media`, { method: 'POST', params: { image_url: u, is_carousel_item: 'true' }, token: pageTok });
-    await waitFinished(c.id, pageTok, 'IG-Slide'); // jede Slide fertig verarbeiten lassen
-    children.push(c.id);
-  }
-  console.log('  📸 IG: Carousel-Container...');
-  const car = await graph(`${igId}/media`, { method: 'POST', params: { media_type: 'CAROUSEL', children: children.join(','), caption }, token: pageTok });
-  await waitFinished(car.id, pageTok, 'IG-Carousel');
+  console.log('  📸 IG: Reel-Video pruefen...');
+  await assertPublic(videoUrl);
+  console.log('  📸 IG: Reel-Container erstellen (Video-Verarbeitung dauert etwas)...');
+  const c = await graph(`${igId}/media`, {
+    method: 'POST',
+    params: { media_type: 'REELS', video_url: videoUrl, caption, share_to_feed: 'true' },
+    token: pageTok,
+  });
+  await waitFinished(c.id, pageTok, 'IG-Reel', 45); // Video braucht laenger
   await sleep(3000);
-  const pub = await publishWithRetry(igId, car.id, pageTok);
-  console.log(`  ✅ IG veroeffentlicht: media id ${pub.id}`);
+  const pub = await publishWithRetry(igId, c.id, pageTok);
+  console.log(`  ✅ IG-Reel veroeffentlicht: media id ${pub.id}`);
   return pub.id;
 }
 
