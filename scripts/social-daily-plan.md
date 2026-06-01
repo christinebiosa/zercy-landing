@@ -3,7 +3,7 @@
 **Trigger:** Christine sagt **„daily"** (1×/Tag) → Claude macht alle 3 Kanäle + aktualisiert diese Datei.
 
 ## Kadenz (Stand 2026-05-31, neue Konten — später hochfahren)
-- **Instagram:** 2/Tag (Carousel) — **Claude postet** (Meta API, automatisch)
+- **Instagram:** 2/Tag (**REEL** = 9:16-Video, seit 2026-06-01 statt Carousel — mehr Reichweite) — **Claude postet** (Meta API, automatisch)
 - **Facebook:** 2/Tag (Reel) — **Claude postet** (Meta API, automatisch)
 - **TikTok:** 2/Tag (Produkt-Reel) — **Claude pusht Entwurf + gibt Caption**, **Christine postet** (bis Audit durch → dann postet Claude auch hier automatisch)
 
@@ -16,8 +16,8 @@
 ## IG + FB Queue (City-Guides: Carousel + Reel gebaut + deployed)
 - [x] prague — 2026-05-31
 - [x] edinburgh — 2026-05-31
-- [ ] new-york
-- [ ] london
+- [x] new-york — 2026-06-01 (IG-Reel + FB-Reel)
+- [x] london — 2026-06-01 (IG-Reel + FB-Reel)
 - [ ] punta-cana
 - [ ] amalfi
 - [ ] manila
