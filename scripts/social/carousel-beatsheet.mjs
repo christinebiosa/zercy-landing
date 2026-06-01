@@ -18,7 +18,7 @@ export function parseCarouselSheet(text) {
   if (!o.cta || !o.cta.headline || !o.cta.sub || !o.cta.query) throw new Error('cta unvollstaendig (headline/sub/query)');
   if (!o.caption || !o.caption.trim()) throw new Error('caption fehlt');
   o.hashtags = Array.isArray(o.hashtags)
-    ? [...new Set(o.hashtags.map(cleanHashtag).filter(Boolean))]
+    ? [...new Set(o.hashtags.map(cleanHashtag).filter(Boolean))].slice(0, 5) // TikTok: max 5 Hashtags (mehr werden geloescht)
     : [];
   return o;
 }
@@ -77,7 +77,7 @@ Rules:
 - "slides" has 4 to 6 entries (one neighborhood each, no hotel names, no prices).
 - Every "query" is a concrete English photo search term for a vertical image.
 - "caption" contains NO hashtags and NO '#' characters.
-- "hashtags": 6 to 8 entries. Each is ONE lowercase token, no '#', no spaces, no punctuation (e.g. "parisneighborhoods", "firsttimeparis"). Mix destination-specific and travel-niche tags.`;
+- "hashtags": EXACTLY 5 entries (TikTok deletes posts with more). Each is ONE lowercase token, no '#', no spaces, no punctuation (e.g. "parisneighborhoods", "firsttimeparis"). Mix destination-specific and travel-niche tags.`;
 
 const PRODUCT_PROMPT = (slug, productName, category, enBody) => `You write an English Instagram/Facebook carousel for a travel-product roundup titled "${productName}" (category: ${category}), from the blog article below.
 
@@ -102,7 +102,7 @@ Rules:
 - "heading" is a short buying angle (Best overall / Best budget / Best lightweight / Best for X), never a price.
 - Every "query" is a concrete English photo search term for a vertical lifestyle image matching that product type (e.g. "person using power bank outdoors", "merino wool shirt travel").
 - "caption" contains NO hashtags and NO '#' characters.
-- "hashtags": 6 to 8 entries. Each is ONE lowercase token, no '#', no spaces, no punctuation (e.g. "travelgear", "packingtips", "traveltech"). Mix product and travel-niche tags.`;
+- "hashtags": EXACTLY 5 entries (TikTok deletes posts with more). Each is ONE lowercase token, no '#', no spaces, no punctuation (e.g. "travelgear", "packingtips", "traveltech"). Mix product and travel-niche tags.`;
 
 export async function generateCarouselSheet({ slug, name, cityName, enBody, apiKey, mode = 'city', category = '' }) {
   const displayName = name || cityName;

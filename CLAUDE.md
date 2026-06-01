@@ -203,6 +203,8 @@ Flags: `--skip-deploy` (Medien schon live), `--ig-only`, `--fb-only`, `--no-post
 - **⚠️ Es gibt 2 FB-Seiten:** **„Zercy Travel"** (Page 1152952871226938, IG @zercytravel verknüpft, hier wird gepostet = die RICHTIGE) und **„Zercy App"** (61590442321489, leere Karteileiche, ignorieren). Cover/Bio/alles auf „Zercy Travel".
 
 ### Wichtige Regeln / Gotchas
+- **MAX 5 Hashtags** in Reel-Captions (TikTok löscht Posts/Tags bei mehr). Hart begrenzt in `carousel-beatsheet.mjs` (`.slice(0,5)` + Prompt „EXACTLY 5 entries"). Gilt für alle Reel-Captions.
+- **Reel-Musik:** IG/FB nutzen `slideshow-music.mp4` (lizenzfreier Track „Carefree", Kevin MacLeod, CC BY 4.0 → Credit-Zeile hängt `post-social.mjs` automatisch an). TikTok nutzt die stumme `slideshow-facebook.mp4` (Trending-Sound kommt manuell drauf, kein Doppel-Ton). Track: `assets/music/zercy-reel-music.mp3`. Cover-Slide hat KEIN „SWIPE" mehr (Video, kein Carousel).
 - **IG-API akzeptiert nur JPEG** (kein PNG) → `prep-social-media.mjs` konvertiert. Pflicht.
 - Medien müssen **öffentliche HTTPS-URLs** sein → liegen in `public/social/<slug>/`, deployt nach `zercy.app/social/<slug>/`. Werden committet (wie Blog-Bilder), damit Vercel sie sicher ausliefert.
 - IG-Caption = `caption.txt` (Hashtags + „link in bio"). FB-Caption = `caption-facebook.txt` (echter Link im Text). CTA-Slide sagt plattform-neutral „Full guide on zercy.app".

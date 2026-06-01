@@ -17,8 +17,13 @@ export async function fetchStill({ query, apiKey, outPath }) {
   const data = await res.json();
   const imgUrl = selectStill(data);
   if (!imgUrl) throw new Error(`Kein Hochformat-Still fuer "${query}"`);
-  const imgRes = await fetch(imgUrl);
+  // User-Agent noetig, sonst blockt der Pexels-CDN (Cloudflare) und liefert eine HTML-Seite.
+  const imgRes = await fetch(imgUrl, { headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124.0 Safari/537.36' } });
   const buf = Buffer.from(await imgRes.arrayBuffer());
+  // JPEG-Magic-Bytes pruefen (FF D8 FF) -> nie HTML/Fehlerseiten als .jpg schreiben.
+  if (buf.length < 1000 || buf[0] !== 0xff || buf[1] !== 0xd8) {
+    throw new Error(`Kein gueltiges JPEG fuer "${query}" (CDN-Block/Fehlerseite, ${buf.length} bytes)`);
+  }
   writeFileSync(outPath, buf);
   return outPath;
 }
