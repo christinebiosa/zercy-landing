@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BlogSearch from '../../../components/BlogSearch.astro';
 import NewsletterSignup from '../../../components/NewsletterSignup.astro';
+import SocialLinks from "../../../components/SocialLinks.astro";
 
 // Pin: until we get DC affiliate approval, keep the rental-consolidators article
 // at the top-left position, no matter what new articles we publish.
@@ -347,6 +348,7 @@ const destinationPosts = [...posts]
     <div class="footer-inner">
       <div class="footer-logo"><span style="font-size:1.4rem">✈</span><span>Zercy</span></div>
       <p class="footer-tagline">Travel idea or ready to book — Zercy thinks it through.</p>
+      <SocialLinks />
       <p class="footer-links"><a href="/about">About</a> &nbsp;·&nbsp; <a href="/en/blog">Blog</a> &nbsp;·&nbsp; <a href="/privacy">Privacy Policy</a> &nbsp;·&nbsp; <a href="/impressum">Impressum</a> &nbsp;·&nbsp; <a href="/terms">Terms</a> &nbsp;·&nbsp; <a href="mailto:info@zercy.app">info@zercy.app</a></p>
       <p class="footer-copy">© 2026 Zercy. Made with love and a lot of AI.</p>
     </div>

@@ -4,6 +4,7 @@ import BookingCTA from '../../../components/BookingCTA.astro';
 import hreflangMap from '../../../data/hreflang-map.json';
 import { categoryConfig, CATEGORY_DEFAULT } from '../../../data/blogCategoryConfig';
 import NewsletterSignup from '../../../components/NewsletterSignup.astro';
+import SocialLinks from "../../../components/SocialLinks.astro";
 
 export async function getStaticPaths() {
   const posts = await getCollection('bloges');
@@ -329,6 +330,7 @@ if (faqStart !== -1) {
     <div class="footer-inner">
       <div class="footer-logo"><span style="font-size:1.4rem">✈</span><span>Zercy</span></div>
       <p class="footer-tagline">Idea de viaje o lista para reservar — Zercy lo piensa por ti.</p>
+      <SocialLinks />
       <p class="footer-links"><a href="/about">About</a> &nbsp;·&nbsp; <a href="/es/blog">Blog</a> &nbsp;·&nbsp; <a href="/privacy">Privacidad</a> &nbsp;·&nbsp; <a href="/impressum">Impressum</a> &nbsp;·&nbsp; <a href="/terms">Términos</a> &nbsp;·&nbsp; <a href="mailto:info@zercy.app">info@zercy.app</a></p>
       <p class="footer-copy">© 2026 Zercy. Hecho con amor y mucha IA.</p>
     </div>

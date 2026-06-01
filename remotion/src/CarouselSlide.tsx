@@ -35,7 +35,6 @@ export const CarouselSlide: React.FC<SlideProps> = (p) => {
         <div style={{ position: 'absolute', left: 56, right: 56, bottom: 150, color: '#fff', fontFamily: FONT }}>
           <div style={{ fontSize: 78, fontWeight: 800, lineHeight: 1.05, textShadow: '0 2px 16px rgba(0,0,0,0.6)' }}>{p.title}</div>
           <div style={{ fontSize: 40, fontWeight: 500, marginTop: 22, color: 'rgba(255,255,255,0.92)' }}>{p.hook}</div>
-          <div style={{ fontSize: 30, fontWeight: 700, marginTop: 30, color: SUNSET, letterSpacing: 2 }}>SWIPE {'→'}</div>
         </div>
       )}
       {p.kind === 'content' && (
