@@ -14,6 +14,11 @@ const GV = 'v21.0';
 const PUBLIC_BASE = 'https://www.zercy.app/social';
 const cfg = JSON.parse(readFileSync(`${homedir()}/.zercy-analytics/meta-api.json`, 'utf8'));
 
+// IG/FB-Reels nutzen die Musik-Version (slideshow-music.mp4), falls vorhanden -> Pflicht-Credit (CC BY 4.0).
+// TikTok bleibt bei der stummen slideshow-facebook.mp4 (Trending-Sound kommt manuell drauf).
+const MUSIC_CREDIT = '\n\n🎵 Music: "Carefree" by Kevin MacLeod (incompetech.com), licensed under CC BY 4.0';
+const videoFile = (slug) => existsSync(path.join(BASE, 'public', 'social', slug, 'slideshow-music.mp4')) ? 'slideshow-music.mp4' : 'slideshow-facebook.mp4';
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function graph(endpoint, { params = {}, method = 'GET', token }) {
@@ -63,8 +68,10 @@ async function publishWithRetry(igId, creationId, token) {
 async function postInstagram(slug, pageTok) {
   // IG als REEL (9:16-Video) statt Carousel -> mehr Reichweite. Gleiche Video-Datei wie FB/TikTok.
   const igId = cfg.ig_user_id;
-  const videoUrl = `${PUBLIC_BASE}/${slug}/slideshow-facebook.mp4`;
-  const caption = readFileSync(path.join(BASE, 'social-output', slug, 'caption.txt'), 'utf8').trim();
+  const vf = videoFile(slug);
+  const videoUrl = `${PUBLIC_BASE}/${slug}/${vf}`;
+  let caption = readFileSync(path.join(BASE, 'social-output', slug, 'caption.txt'), 'utf8').trim();
+  if (vf === 'slideshow-music.mp4') caption += MUSIC_CREDIT;
 
   console.log('  📸 IG: Reel-Video pruefen...');
   await assertPublic(videoUrl);
@@ -83,8 +90,10 @@ async function postInstagram(slug, pageTok) {
 
 async function postFacebook(slug, pageTok) {
   const pageId = cfg.fb_page_id;
-  const videoUrl = `${PUBLIC_BASE}/${slug}/slideshow-facebook.mp4`;
-  const caption = readFileSync(path.join(BASE, 'social-output', slug, 'caption-facebook.txt'), 'utf8').trim();
+  const vf = videoFile(slug);
+  const videoUrl = `${PUBLIC_BASE}/${slug}/${vf}`;
+  let caption = readFileSync(path.join(BASE, 'social-output', slug, 'caption-facebook.txt'), 'utf8').trim();
+  if (vf === 'slideshow-music.mp4') caption += MUSIC_CREDIT;
 
   console.log('  🎬 FB: Video pruefen...');
   await assertPublic(videoUrl);

@@ -26,6 +26,9 @@ function prep(slug) {
   const mp4 = path.join(src, 'slideshow-facebook.mp4');
   const hasVideo = existsSync(mp4);
   if (hasVideo) copyFileSync(mp4, path.join(dst, 'slideshow-facebook.mp4'));
+  // Musik-Version (IG/FB) mitkopieren, falls vorhanden
+  const musicMp4 = path.join(src, 'slideshow-music.mp4');
+  if (existsSync(musicMp4)) copyFileSync(musicMp4, path.join(dst, 'slideshow-music.mp4'));
 
   console.log(`✅ prep ${slug}: ${slides.length} JPEGs${hasVideo ? ' + Video' : ''} -> public/social/${slug}/`);
   console.log(`   Danach deployen, dann: node scripts/post-social.mjs ${slug}`);

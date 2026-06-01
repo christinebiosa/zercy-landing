@@ -7,6 +7,7 @@
 import { readdirSync, existsSync } from 'fs';
 import { execFileSync } from 'child_process';
 import path from 'path';
+import { muxMusic } from './add-reel-music.mjs';
 
 const BASE_DIR = path.resolve('/Users/christinebork/Claude Code Projects/zercy-landing');
 const W = 1080, H = 1920, FPS = 30;   // 9:16 vertikal (TikTok-Vollbild)
@@ -68,6 +69,10 @@ function build(slug) {
   console.log(`🎬 Slideshow fuer ${slug}: ${slides.length} Slides, ~${total.toFixed(0)}s, 9:16 ...`);
   execFileSync('ffmpeg', args, { stdio: ['ignore', 'ignore', 'inherit'] });
   console.log(`✅ Fertig: social-output/${slug}/slideshow-facebook.mp4`);
+  // Musik-Version fuer IG/FB (stumme Datei bleibt fuer TikTok)
+  try {
+    if (muxMusic(outPath, path.join(dir, 'slideshow-music.mp4'))) console.log(`✅ + slideshow-music.mp4 (IG/FB)`);
+  } catch (e) { console.log(`  ⚠ Musik-Version uebersprungen: ${e.message}`); }
 }
 
 const slug = process.argv[2];
