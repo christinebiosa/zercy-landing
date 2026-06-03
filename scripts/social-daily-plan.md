@@ -38,6 +38,9 @@
 - [ ] weekender — im Postfach (2026-05-31)
 → ALLE 10 gepusht. Wenn alle gepostet: nächster Reel-Batch (Komfort/Gear/Kleidung-Artikel haben alle Slides; neu rendern + pushen). Optional: City-Guides auch als TikTok (Carousel-Generator kann beides).
 
+## Captions → Google Doc (ab 2026-06-02)
+Christine kopiert Captions vom Handy in WhatsApp. Statt sie in den Chat zu schreiben (nerviges Formatieren): **Captions ins Google Doc** „Zercy TikTok Captions" (ID `1FUWgeWezIdTeSxwZVQW4_RaPZpshyA6NDUUbvHOiCC8`, christine.bork@biosacr.com) anhängen — jede Caption als EINE Zeile (Dreifachklick markiert den Block). Tool: `mcp__google-workspace__batch_update_doc` mit `end_of_segment=true`. Format: `— STADT —` Zeile, dann Caption-Zeile (ein Emoji + 5 Hashtags). Neue immer unten anhängen, nicht überschreiben.
+
 ## Regeln (Reels)
 - **MAX 5 Hashtags** pro Caption (TikTok löscht mehr). Hart begrenzt in carousel-beatsheet.mjs.
 - Captions IMMER als ein durchgehender Block geben (kein Zeilenumbruch, keine Doppel-Leerzeichen) — Christine kopiert direkt.
