@@ -1151,6 +1151,7 @@ Der "Stadtführer / City Guide Finder / Guía de ciudades"-Dropdown auf allen 3 
 - [ ] `npx astro build` erfolgreich + `npx vercel --prod --force --archive=tgz` deployed
 - [ ] **Neuen Slug oben in die Artikel-Liste eingetragen** (DE + EN)
 - [ ] Google Indexierung ist automatisch (Sitemap mit `lastmod` wird bei jedem Build aktualisiert)
+- [ ] **Pinterest-CSV erzeugt** (`node scripts/make-pinterest-csv.mjs`) + Christine gesagt, sie soll sie hochladen (Import content → Upload .csv)
 
 ### Nach dem Schreiben — Deploy + Google Indexierung
 
@@ -1168,7 +1169,14 @@ Der "Stadtführer / City Guide Finder / Guía de ciudades"-Dropdown auf allen 3 
    - Gilt für Blog-Artikel (DE/EN/ES), neue Seiten, geänderte Seiten.
    - `submit-indexing.mjs` (Token in `~/.zercy-analytics/tokens.json`) nur noch für manuelle Sofort-Einreichung einzelner URLs.
 4. **Neuen Slug in die Artikel-Liste eintragen** (damit nächste Session ihn für interne Links nutzen kann).
-5. Bestätigung an Christine: Artikel live + in Index-Queue.
+5. **📌 PINTEREST-CSV ERZEUGEN (PFLICHT bei jedem neuen Batch, ohne Aufforderung):**
+   ```bash
+   node scripts/make-pinterest-csv.mjs        # nimmt alle Artikel mit pubDate==heute, alle 3 Sprachen, geplant 30/Tag ab morgen
+   ```
+   → CSV landet auf `~/Desktop/zercy-pinterest-<datum>.csv`. **Christine sagen, sie soll sie hochladen:** pinterest.com → Settings (˅ oben rechts) → **Import content** → **„Upload .csv or .txt file"**.
+   - Bei >67 Artikeln (>200 Pins) warnt das Script → dann mit `--langs` aufteilen (z.B. erst `de,en`, dann `es`) oder `--since`/`--date` nutzen.
+   - **NIE dieselben Artikel doppelt** (sofort UND in einer Cutoff-Welle) pinnen → Dubletten. Das Script nimmt per Default nur den heutigen Batch, das ist sauber.
+6. Bestätigung an Christine: Artikel live + in Index-Queue + **Pinterest-CSV liegt auf dem Desktop, bitte hochladen**.
 
 ### Sitemap & Google Search Console — AUTOMATISCH (nicht manuell pflegen!)
 - **@astrojs/sitemap** ist im `astro.config.mjs` eingebaut (seit 2026-04-17).
