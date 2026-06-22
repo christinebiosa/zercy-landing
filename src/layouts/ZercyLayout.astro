@@ -69,7 +69,7 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
   <script is:inline>
     (function(){
       if(!localStorage.getItem('zercy_beta_ok')){
-        document.getElementById('beta-banner').style.display='block';
+        /* beta-banner deaktiviert fuer Booking-Review (2026-06-22) */
       }
     })();
     function dismissBeta(){

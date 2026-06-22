@@ -1616,7 +1616,8 @@ Zercy reads it like a human and extracts everything automatically." style="min-h
     (function(){
       if(!localStorage.getItem('zercy_beta_ok')){
         const b=document.getElementById('beta-banner');
-        if(b) b.style.display='block';
+        /* beta-banner deaktiviert fuer Booking-Review (2026-06-22) */
+        if(b && false) b.style.display='block';
       }
     })();
     function dismissBeta(){
