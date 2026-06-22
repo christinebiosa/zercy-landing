@@ -31,7 +31,8 @@ rm -f "$TMPFILE"
 # Nur die TATSÄCHLICH erfolgreich eingereichten URLs aus der Queue entfernen.
 # Fehlgeschlagene bleiben in der Queue für den nächsten Lauf → kein Datenverlust.
 OKFILE=$(mktemp /tmp/zercy-ok-XXXX.txt)
-echo "$RESULT" | grep -E '^[[:space:]]+✅' | sed -E 's/^[[:space:]]+✅[[:space:]]+//' > "$OKFILE"
+# Robust: aus jeder ✅-Zeile die nackte URL ziehen (Emoji-/Variation-Selector-sicher).
+echo "$RESULT" | grep '✅' | grep -oE 'https://[^[:space:]]+' > "$OKFILE"
 OK=$(grep -c . "$OKFILE" 2>/dev/null || echo 0)
 
 if [ "$OK" -gt 0 ]; then
