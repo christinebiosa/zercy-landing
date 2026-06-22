@@ -16,7 +16,7 @@ Cuándo ir, qué ver, dónde alojarte y cómo moverte. Todo lo que necesitas par
 
 La temporada seca va de diciembre a abril. Temperaturas entre 24 y 28 grados, poca lluvia. Temporada alta por algo: los hoteles se llenan y los precios suben, pero el clima cumple.
 
-La temporada de huracanes va de junio a noviembre, con mayor riesgo entre agosto y octubre. Muchos días son soleados y los precios bajan. Reserva con tarifas reembolsables y lleva un [seguro de viaje](https://ektatraveling.com/).
+La temporada de huracanes va de junio a noviembre, con mayor riesgo entre agosto y octubre. Muchos días son soleados y los precios bajan. Reserva con tarifas reembolsables y lleva un seguro de viaje.
 
 El Festival de la Calle San Sebastián en enero llena el Viejo San Juan. Ambiente increíble, pero los hoteles se agotan meses antes. Si no vas por el festival, evita esa semana.
 

@@ -47,7 +47,7 @@ Zercy vergleicht Flüge nach Cancún, Mexico City und anderen mexikanischen Stä
 Das Karibikwasser vor Cancún und Tulum hat von Juni bis Oktober die höchsten Temperaturen mit 29 bis 30 Grad. In der Hochsaison von Dezember bis März sind es noch 26 bis 27 Grad. Das Pazifikwasser ist kühler und schwankt zwischen 22 und 27 Grad je nach Saison und Region.
 
 ### Wie gefährlich sind Hurrikane in Mexiko?
-Die offizielle Hurrikansaison läuft von Juni bis November, mit Peaks im August und September. Die Karibikküste und Yucatán sind am stärksten gefährdet. Wer in dieser Zeit reist, bucht stornierbare Hotels und prüft die [Reiseversicherung](https://ektatraveling.com/). Die meisten Jahre verlaufen ohne direkten Hurrikaneinschlag, aber das Risiko besteht.
+Die offizielle Hurrikansaison läuft von Juni bis November, mit Peaks im August und September. Die Karibikküste und Yucatán sind am stärksten gefährdet. Wer in dieser Zeit reist, bucht stornierbare Hotels und prüft die Reiseversicherung. Die meisten Jahre verlaufen ohne direkten Hurrikaneinschlag, aber das Risiko besteht.
 
 ### Was kostet Mexiko im Vergleich zu anderen Karibikzielen?
 Mexiko gehört zu den günstigsten Karibikzielen für Europäer. Ein All-Inclusive-Resort in Cancún kostet in der Hochsaison ab 100 bis 150 Euro pro Person und Nacht, in der Nebensaison ab 60 Euro. Oaxaca und die Kolonialstädte sind mit 50 bis 80 Euro täglich für Unterkunft und Essen gut budgetierbar.

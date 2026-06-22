@@ -18,7 +18,7 @@ Sin ranking teórico. Estos 10 vienen de la experiencia real de viajeros frecuen
 
 Tres ciudades en cinco días. Dos países, cuatro vuelos, ocho atracciones por día. Eso no es vacaciones, eso es logística. La queja más común de los viajeros que regresan: "Lo vimos todo pero no experimentamos nada." Planea un máximo de una atracción principal por día. Todo lo demás es un bonus. El tiempo libre en un itinerario no es un error. Es el plan.
 
-**Error 2: Sin [seguro de viaje](https://ektatraveling.com/)**
+**Error 2: Sin seguro de viaje**
 
 La mayoría de los viajeros piensa: "A mí no me va a pasar nada." Las estadísticas de los seguros de viaje dicen otra cosa. Una emergencia médica en EE. UU. sin cobertura: fácilmente entre 50,000 y 200,000 EUR. En Australia o Canadá: similar. La regla básica: no volar sin seguro.
 

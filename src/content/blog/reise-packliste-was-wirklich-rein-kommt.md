@@ -18,7 +18,7 @@ Einige Dinge sind absolut universell. Egal ob Städtetrip, Strandurlaub oder Tre
 - Reisepass / Personalausweis (immer original, nie nur Foto)
 - Kopie aller Dokumente (digitale Kopie in Cloud + eine Papier-Kopie separat im Gepäck)
 - Kreditkarte ohne Auslandsgebühr + etwas Bargeld in Landeswährung
-- [Reiseversicherung](https://ektatraveling.com/)-App oder -Karte
+- Reiseversicherung-App oder -Karte
 
 **Elektronik (Basis):**
 - Smartphone + Ladekabel

@@ -10,7 +10,7 @@ heroImage: "/img/blog/senior-travel.jpg"
 
 Travel after 60 often gets better than anything that came before. No coordinating with school calendars. No cramped annual leave windows. No choosing between your own trip and the family holiday budget. Most people in their 60s have more money, more flexibility, and a much clearer idea of what they actually want from a trip.
 
-That said, a few things do change. The body responds differently to long-haul flights. [Travel insurance](https://ektatraveling.com/) becomes more expensive and sometimes harder to get. And some destinations that looked appealing at 35 feel different now. This guide covers what genuinely changes, what to look out for, and how to make the most of one of the best times in life to travel.
+That said, a few things do change. The body responds differently to long-haul flights. Travel insurance becomes more expensive and sometimes harder to get. And some destinations that looked appealing at 35 feel different now. This guide covers what genuinely changes, what to look out for, and how to make the most of one of the best times in life to travel.
 
 ## What Gets Better About Traveling After 60?
 

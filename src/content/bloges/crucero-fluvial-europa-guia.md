@@ -92,7 +92,7 @@ Las cabinas estándar en los barcos fluviales suelen medir entre 15 y 20 metros 
 
 ### ¿Qué pasa cuando el nivel del agua del Rin o el Danubio es demasiado bajo?
 
-Los períodos extremos de bajo nivel de agua (como el verano de 2022) pueden impedir que los barcos lleguen a todos los puertos previstos. Los operadores serios organizan traslados en autobús entre el barco y los puntos de excursión en esos casos. Es poco frecuente, pero es un riesgo real. Un buen [seguro de viaje](https://ektatraveling.com/) es especialmente recomendable para los cruceros fluviales.
+Los períodos extremos de bajo nivel de agua (como el verano de 2022) pueden impedir que los barcos lleguen a todos los puertos previstos. Los operadores serios organizan traslados en autobús entre el barco y los puntos de excursión en esos casos. Es poco frecuente, pero es un riesgo real. Un buen seguro de viaje es especialmente recomendable para los cruceros fluviales.
 
 ### ¿Cómo se reserva un crucero fluvial al mejor precio?
 

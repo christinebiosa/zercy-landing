@@ -31,7 +31,7 @@ Hier sind realistische Tagesbudgets nach Reisestil. Diese Zahlen gelten für Unt
 - Unterkunft (50$/Tag): 500 Dollar
 - Essen + Transport (30$/Tag): 300 Dollar
 - Ausflüge + Diverses: 200 Dollar
-- [Reiseversicherung](https://ektatraveling.com/): 60 bis 80 Euro
+- Reiseversicherung: 60 bis 80 Euro
 
 **Gesamtbudget: rund 1.700 bis 2.100 Euro.** Das ist die Zahl, auf die du hinsparst.
 

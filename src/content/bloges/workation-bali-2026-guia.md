@@ -61,7 +61,7 @@ Algunas cosas que pillan desprevenidos a la mayoría de los que van por primera 
 
 **Temporada de lluvias:** De noviembre a marzo hay chaparrones diarios, normalmente por la tarde o noche. Trabajar es posible, pero las actividades al aire libre, los paseos en scooter y las visitas a la playa quedan más limitadas. La temporada ideal para workation es de mayo a octubre.
 
-**Seguridad:** Bali es generalmente segura. Los robos menores (scooters, móviles) ocurren, pero no más que en cualquier otro centro turístico del Sudeste Asiático. No dejes objetos de valor en la cesta del scooter. El mayor peligro real en Bali son los accidentes de moto: conduce con calma, usa siempre casco y verifica que tu [seguro de viaje](https://ektatraveling.com/) cubra incidentes con motocicleta.
+**Seguridad:** Bali es generalmente segura. Los robos menores (scooters, móviles) ocurren, pero no más que en cualquier otro centro turístico del Sudeste Asiático. No dejes objetos de valor en la cesta del scooter. El mayor peligro real en Bali son los accidentes de moto: conduce con calma, usa siempre casco y verifica que tu seguro de viaje cubra incidentes con motocicleta.
 
 **Salud:** El dengue está presente en Bali. El repelente de mosquitos no es opcional, especialmente en temporada de lluvias. Las quemaduras solares y la deshidratación son los motivos más frecuentes por los que los visitantes pierden un día en cama. Bebe siempre agua embotellada.
 

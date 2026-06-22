@@ -50,7 +50,7 @@ Your ticket value can be fully forfeited. Only taxes and airport fees are someti
 **Best case: delayed incoming flight, EU protection applies**
 No cost to you. Free rebooking, meals included, hotel if needed, and potentially 600 euros in compensation.
 
-**[Travel insurance](https://ektatraveling.com/): underrated protection**
+**Travel insurance: underrated protection**
 A solid travel insurance policy from providers like Allianz Travel or AXA often covers "missed departures" as a specific benefit. Some even cover own-fault delays if you can document the cause (traffic report, public transport disruption). Annual policy costs: 60 to 120 euros for a single traveler. Compared to a lost 400-euro ticket, that's quickly recovered.
 
 The full breakdown is in the [travel insurance: is it worth it guide](/en/blog/travel-insurance-worth-it-2026/). Key differences between basic and premium policies matter a lot in these situations.

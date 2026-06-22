@@ -50,7 +50,7 @@ Third stop: Honduras. From Belize down to Copán, the compact but stunning Mayan
 
 Fourth stop: Costa Rica. Enter via land from Honduras or Nicaragua. Focus on the Arenal volcano area, Manuel Antonio, and the Osa Peninsula if budget allows. Costa Rica stays affordable if you book hostels early and hit national parks in the morning when entrance fees are lower.
 
-Final stop: Panama. The Canal in Panama City is mandatory. After that, San Blas or Bocas del Toro for beaches, then fly home from Tocumen International. A good [travel insurance](https://ektatraveling.com/) policy matters here too. Our article on [travel insurance worth it 2026](/en/blog/travel-insurance-worth-it-2026/) breaks down what you actually need.
+Final stop: Panama. The Canal in Panama City is mandatory. After that, San Blas or Bocas del Toro for beaches, then fly home from Tocumen International. A good travel insurance policy matters here too. Our article on [travel insurance worth it 2026](/en/blog/travel-insurance-worth-it-2026/) breaks down what you actually need.
 
 ## What should you know about safety in Central America?
 

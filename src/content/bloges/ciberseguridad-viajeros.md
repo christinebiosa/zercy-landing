@@ -40,7 +40,7 @@ Los viajeros son un objetivo especialmente atractivo para el fraude digital. Usa
 
 **Llamar al banco:** bloquear las tarjetas comprometidas. La mayoría de bancos tiene número de atención internacional disponible 24/7.
 
-**Denunciar:** en destinos donde se necesita el número de denuncia policial para el [seguro de viaje](https://ektatraveling.com/).
+**Denunciar:** en destinos donde se necesita el número de denuncia policial para el seguro de viaje.
 
 Para organizar tus viajes de forma segura desde el inicio, usa el [Zercy Logbook](https://www.zercy.app/logbook) para guardar tu itinerario con datos de reservas.
 

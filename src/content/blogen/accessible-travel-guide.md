@@ -57,7 +57,7 @@ Most major rental car providers offer vehicles with special equipment: hand cont
 
 Specialist providers in some countries offer vehicles with fold-out ramps or lifts for power wheelchairs. Research for your specific destination is necessary.
 
-**Check your [travel insurance](https://ektatraveling.com/):** Standard travel insurance often does not cover disability-specific additional costs. Verify whether wheelchair transport, medical aids and disability-related extra costs for emergency evacuation are covered.
+**Check your travel insurance:** Standard travel insurance often does not cover disability-specific additional costs. Verify whether wheelchair transport, medical aids and disability-related extra costs for emergency evacuation are covered.
 
 Plan your accessible trip with [Zercy](https://www.zercy.app) and keep all the important details in your [Zercy Logbook](https://www.zercy.app/logbook).
 

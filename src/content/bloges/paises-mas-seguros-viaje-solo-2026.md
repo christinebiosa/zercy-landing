@@ -82,7 +82,7 @@ Portugal, Japón e Irlanda se consideran países de entrada ideales para 2026. L
 Estadísticamente, viajar solo no es más peligroso que viajar en grupo. Los incidentes más comunes son el carterismo y las estafas, ambos fácilmente evitables con precaución normal. Los delitos violentos graves contra turistas en países seguros son extremadamente raros. Tu elección de destino importa más que si viajas solo o acompañado.
 
 ### ¿Qué debo llevar siempre como viajero en solitario?
-Un teléfono completamente cargado con SIM local, copias de todos los documentos (digital y en papel), el número de emergencia de tu embajada en el destino, los datos del [seguro de viaje](https://ektatraveling.com/) y un mapa sin conexión (Maps.me o Google Maps offline). Eso cubre el 95% de las situaciones.
+Un teléfono completamente cargado con SIM local, copias de todos los documentos (digital y en papel), el número de emergencia de tu embajada en el destino, los datos del seguro de viaje y un mapa sin conexión (Maps.me o Google Maps offline). Eso cubre el 95% de las situaciones.
 
 ### ¿Dónde es más fácil conocer a otras personas como viajero en solitario?
 En hostales con cocinas y salas comunes. Free walking tours (disponibles en casi todas las ciudades). Eventos de Workaway o Couchsurfing. Tours de día organizados por proveedores de hostales. Los viajeros en solitario suelen crear una red social más rápido que los viajeros en grupo porque se acercan activamente a los demás.

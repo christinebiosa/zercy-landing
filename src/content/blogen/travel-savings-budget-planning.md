@@ -31,7 +31,7 @@ Here are realistic daily budgets by travel style. These figures cover accommodat
 - Accommodation ($50/day): $500
 - Food and transport ($30/day): $300
 - Activities and miscellaneous: $200
-- [Travel insurance](https://ektatraveling.com/): €60 to €80
+- Travel insurance: €60 to €80
 
 **Total: roughly €1,700 to €2,100.** That's your savings target.
 

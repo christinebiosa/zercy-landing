@@ -57,7 +57,7 @@ Esta es la pregunta más importante para viajeros con presupuesto. Tres categor�
 
 **Visas:** E-visa de Vietnam: 25 USD. Visa de Camboya al llegar: 30 USD. Tailandia: libre de visa hasta 30 días para ciudadanos de muchos países latinoamericanos, pero la extensión tiene costo.
 
-**[Seguro de viaje](https://ektatraveling.com/):** Un tema subestimado. Una póliza sólida con evacuación médica para 6 semanas en el Sudeste Asiático cuesta alrededor de 80-150 EUR. Imprescindible si alquilas motos.
+**Seguro de viaje:** Un tema subestimado. Una póliza sólida con evacuación médica para 6 semanas en el Sudeste Asiático cuesta alrededor de 80-150 EUR. Imprescindible si alquilas motos.
 
 La [guía de Lonely Planet para el Sudeste Asiático](https://www.lonelyplanet.com/southeast-asia) tiene información de precios actualizada y recomendaciones de hostels independientes para toda la región.
 

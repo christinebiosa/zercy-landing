@@ -61,7 +61,7 @@ A few things that catch most first-time visitors off guard.
 
 **Rainy season:** November through March brings daily showers, usually in the afternoon or evening. Work is possible, but outdoor activities, scooter rides, and beach time are more limited. Peak workation season is May through October.
 
-**Safety:** Bali is broadly safe. Petty crime (scooter theft, phone snatching) occurs but isn't unusual for any major tourist hub in Southeast Asia. Don't leave valuables in your scooter basket. The biggest real danger on Bali is motorbike accidents: ride conservatively, always wear a helmet, and check that your [travel insurance](https://ektatraveling.com/) covers motorcycle incidents.
+**Safety:** Bali is broadly safe. Petty crime (scooter theft, phone snatching) occurs but isn't unusual for any major tourist hub in Southeast Asia. Don't leave valuables in your scooter basket. The biggest real danger on Bali is motorbike accidents: ride conservatively, always wear a helmet, and check that your travel insurance covers motorcycle incidents.
 
 **Health:** Dengue fever is present in Bali. Mosquito repellent is not optional, especially in rainy season. Sunburn and dehydration are the most common reasons visitors spend a day in bed. Stick to bottled water.
 

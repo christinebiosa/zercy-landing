@@ -68,7 +68,7 @@ Depending on route and airline: 20-60 percent below standard price. Long-haul ro
 
 ### Which credit cards give the most travel benefits?
 
-In the US: Chase Sapphire Reserve (Priority Pass, strong [travel insurance](https://ektatraveling.com/), flexible points). Amex Platinum (Centurion lounges, hotel status, transfer partners). Capital One Venture X (simple earnings, Priority Pass, good value). Annual fee amortizes itself with 3+ trips per year.
+In the US: Chase Sapphire Reserve (Priority Pass, strong travel insurance, flexible points). Amex Platinum (Centurion lounges, hotel status, transfer partners). Capital One Venture X (simple earnings, Priority Pass, good value). Annual fee amortizes itself with 3+ trips per year.
 
 ### What's the difference between a 4-star and 5-star hotel?
 

@@ -69,7 +69,7 @@ Aufschlüsselung:
 - Maut: 0 bis 10 Euro (je nach Land, Österreich und Frankreich haben Maut)
 - Essen: 15 bis 20 Euro
 
-Wer campt, kommt deutlich günstiger weg. Wer in Hotels mit Frühstück übernachtet, kann die Obergrenze auch überschreiten. Eine gute [Reiseversicherung](https://ektatraveling.com/) ist kein Posten zum Sparen. Was sie abdecken sollte, erklärt der [Guide zur Reiseversicherung.](/blog/reiseversicherung-was-lohnt-sich/)
+Wer campt, kommt deutlich günstiger weg. Wer in Hotels mit Frühstück übernachtet, kann die Obergrenze auch überschreiten. Eine gute Reiseversicherung ist kein Posten zum Sparen. Was sie abdecken sollte, erklärt der [Guide zur Reiseversicherung.](/blog/reiseversicherung-was-lohnt-sich/)
 
 ## Die beste Reisezeit: Wann lohnt sich die Tour?
 

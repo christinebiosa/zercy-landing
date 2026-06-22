@@ -69,7 +69,7 @@ Here is how that breaks down:
 - Tolls: 0 to 10 euros (Austria and France have tolls, Germany does not)
 - Food: 15 to 20 euros
 
-Camping brings the total down significantly. Comfortable hotels with breakfast push it up. [Travel insurance](https://ektatraveling.com/) is not where you cut costs. What a good policy should include is covered in the [travel insurance guide for 2026.](/en/blog/travel-insurance-worth-it-2026/)
+Camping brings the total down significantly. Comfortable hotels with breakfast push it up. Travel insurance is not where you cut costs. What a good policy should include is covered in the [travel insurance guide for 2026.](/en/blog/travel-insurance-worth-it-2026/)
 
 ## When Is the Best Time to Ride?
 

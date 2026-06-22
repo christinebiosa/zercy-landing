@@ -63,7 +63,7 @@ Boutique hotels often don't have a standardized star classification. Read the la
 Boutique hotels often have very different rooms — the Superior with courtyard view can be completely different from the Standard with street view. Worth asking directly what the difference is.
 
 **Check cancellation policies**
-Small hotels often have stricter cancellation terms than large chains. That makes sense — one empty room hits a 20-room hotel much harder. [Travel insurance](https://ektatraveling.com/) can be worthwhile here.
+Small hotels often have stricter cancellation terms than large chains. That makes sense — one empty room hits a 20-room hotel much harder. Travel insurance can be worthwhile here.
 
 ## When a Chain Hotel Is the Better Call
 

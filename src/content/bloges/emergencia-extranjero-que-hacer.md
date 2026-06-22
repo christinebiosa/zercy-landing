@@ -81,7 +81,7 @@ Zercy integra precios de vuelo en tiempo real. Guarda tu selección en el [Zercy
 ## Preguntas frecuentes
 
 ### ¿Qué números de emergencia deberías guardar antes de cada viaje?
-Como mínimo: el 112 para Europa, el número de emergencias local del destino, la línea de emergencias 24 horas de tu [seguro de viaje](https://ektatraveling.com/), los números de bloqueo de todas las tarjetas que llevas, y la línea de emergencias de tu embajada. Haz una captura de pantalla en el móvil y guarda una nota en papel en la cartera.
+Como mínimo: el 112 para Europa, el número de emergencias local del destino, la línea de emergencias 24 horas de tu seguro de viaje, los números de bloqueo de todas las tarjetas que llevas, y la línea de emergencias de tu embajada. Haz una captura de pantalla en el móvil y guarda una nota en papel en la cartera.
 
 ### ¿Para qué sirve el registro consular en el extranjero?
 La mayoría de gobiernos ofrecen un servicio de registro voluntario para sus ciudadanos en el extranjero. En una crisis, la embajada puede contactar a los registrados por SMS o email con actualizaciones de la situación y opciones de evacuación. Es gratuito, lleva 5 minutos, y puede ser decisivo en una emergencia.

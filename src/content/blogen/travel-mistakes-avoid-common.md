@@ -12,7 +12,7 @@ Some mistakes happen once. Others happen to travelers repeatedly, year after yea
 
 ## Which Mistakes Cost the Most Money and Stress?
 
-No theoretical ranking. These 10 come from real experience of frequent travelers and [travel insurance](https://ektatraveling.com/) claims statistics.
+No theoretical ranking. These 10 come from real experience of frequent travelers and travel insurance claims statistics.
 
 **Mistake 1: Overpacked Itinerary**
 

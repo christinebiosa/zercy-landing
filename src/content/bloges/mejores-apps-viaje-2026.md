@@ -70,7 +70,7 @@ La [eSIM](https://www.airalo.com/) es la solución más flexible para 2026: comp
 
 #### ¿Qué pasa si se agota la batería del teléfono en destino y no tengo todas las apps descargadas?
 
-La regla del viajero experimentado: descargar los mapas offline, los idiomas de traducción y los documentos importantes antes de salir del hotel cada mañana. Una batería externa (powerbank) de 10.000+ mAh da una carga completa al teléfono y es el [seguro de viaje](https://ektatraveling.com/) tecnológico más práctico.
+La regla del viajero experimentado: descargar los mapas offline, los idiomas de traducción y los documentos importantes antes de salir del hotel cada mañana. Una batería externa (powerbank) de 10.000+ mAh da una carga completa al teléfono y es el seguro de viaje tecnológico más práctico.
 
 ---
 

@@ -81,7 +81,7 @@ Zercy builds live flight prices into every travel plan. Enter your destination a
 ## Frequently Asked Questions
 
 ### Which emergency numbers should you save before every trip?
-At minimum: 112 for Europe, the local emergency number for your destination, your [travel insurance](https://ektatraveling.com/) 24-hour emergency line, blocking numbers for all credit cards you carry, and your country's embassy emergency line. Screenshot the list on your phone and keep a small paper copy in your wallet.
+At minimum: 112 for Europe, the local emergency number for your destination, your travel insurance 24-hour emergency line, blocking numbers for all credit cards you carry, and your country's embassy emergency line. Screenshot the list on your phone and keep a small paper copy in your wallet.
 
 ### What does travel registration with your government do?
 Most governments offer a voluntary registration service for citizens travelling abroad (STEP for Americans, LOCATE for British nationals, etc.). In a crisis, the embassy can contact registered travellers by text or email with situation updates and evacuation options. Free, takes 5 minutes, can be critical in an emergency.

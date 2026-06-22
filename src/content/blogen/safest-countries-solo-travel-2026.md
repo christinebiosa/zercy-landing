@@ -82,7 +82,7 @@ Portugal, Japan, and Ireland are considered ideal entry-level countries for 2026
 Statistically, solo travel is no more dangerous than group travel. The most common incidents are pickpocketing and scams, both easily avoidable with normal awareness. Serious violent crime against tourists in safe countries is extremely rare. Your choice of destination matters more than whether you travel alone or with company.
 
 ### What should I always have as a solo traveler?
-A fully charged phone with local SIM, copies of all documents (digital and paper), your home country's embassy emergency number in the destination, [travel insurance](https://ektatraveling.com/) details, and an offline map (Maps.me or Google Maps offline). That covers 95% of situations.
+A fully charged phone with local SIM, copies of all documents (digital and paper), your home country's embassy emergency number in the destination, travel insurance details, and an offline map (Maps.me or Google Maps offline). That covers 95% of situations.
 
 ### Where do I most easily meet other people as a solo traveler?
 Hostels with common kitchens and lounges. Free walking tours (available in almost every city). Workaway or Couchsurfing events. Day tours organized by hostel providers. Solo travelers often build a social network faster than group travelers because they actively approach others.

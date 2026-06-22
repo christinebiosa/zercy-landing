@@ -53,7 +53,7 @@ Cancelar significa renunciar al vuelo por completo. Solo recibes reembolso en es
 
 **Cancelación por la aerolínea:** Si la aerolínea cancela tu vuelo, EU261 te da derecho a un reembolso completo del precio del billete independientemente de la tarifa. Revisa nuestra guía sobre [retrasos y compensaciones por vuelo](/es/blog/retrasos-vuelo-derechos/) para saber todo lo que te corresponde.
 
-**Seguro de cancelación de viaje:** Si tienes un [seguro de viaje](https://ektatraveling.com/) con cobertura de cancelación y se cumple una causa cubierta (enfermedad, emergencia familiar), el seguro absorbe la pérdida. Sin seguro, un billete no reembolsable significa perder el precio íntegro. Si no sabes si vale la pena contratar uno, lo explicamos en nuestra [guía de seguros de cancelación de viaje](/es/blog/seguro-cancelacion-viaje-guia/).
+**Seguro de cancelación de viaje:** Si tienes un seguro de viaje con cobertura de cancelación y se cumple una causa cubierta (enfermedad, emergencia familiar), el seguro absorbe la pérdida. Sin seguro, un billete no reembolsable significa perder el precio íntegro. Si no sabes si vale la pena contratar uno, lo explicamos en nuestra [guía de seguros de cancelación de viaje](/es/blog/seguro-cancelacion-viaje-guia/).
 
 Siempre solicita la devolución de los impuestos y tasas aeroportuarias, incluso en billetes no reembolsables. Las aerolíneas están obligadas a devolverlos en la mayoría de los casos, y el importe puede ser mayor de lo que imaginas.
 

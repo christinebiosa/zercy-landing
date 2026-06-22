@@ -58,7 +58,7 @@ Three pragmatic steps.
 
 **Step 1:** Check what you already have. Homeowners insurance, private health insurance, credit card included benefits. Many premium cards (Amex Platinum, Chase Sapphire Reserve) already include international health coverage.
 
-**Step 2:** Compare via reputable comparison sites. [Consumer Reports](https://www.consumerreports.org/) tests [travel insurance](https://ektatraveling.com/) regularly with clear recommendations. Allianz, World Nomads, Travel Guard score consistently well.
+**Step 2:** Compare via reputable comparison sites. [Consumer Reports](https://www.consumerreports.org/) tests travel insurance regularly with clear recommendations. Allianz, World Nomads, Travel Guard score consistently well.
 
 **Step 3:** Choose annual policy instead of single-trip if you fly more than 2 times per year. $80 for a full year is usually cheaper than $25 per single trip.
 

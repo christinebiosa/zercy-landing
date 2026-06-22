@@ -59,7 +59,7 @@ Prevention is better than compensation.
 
 **Distinctive bag:** A striking sticker or unusual colour helps. Identical black trolleys sometimes get taken by other passengers.
 
-**[Travel insurance](https://ektatraveling.com/) or credit card cover:** Many premium credit cards (American Express Gold, Visa Infinite and others) include baggage protection as a free benefit. Check your card before buying a separate policy. More on this in the [carry-on packing guide](/en/blog/carry-on-packing-system/).
+**Travel insurance or credit card cover:** Many premium credit cards (American Express Gold, Visa Infinite and others) include baggage protection as a free benefit. Check your card before buying a separate policy. More on this in the [carry-on packing guide](/en/blog/carry-on-packing-system/).
 
 ---
 

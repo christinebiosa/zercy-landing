@@ -72,7 +72,7 @@ Mit Zercy vergleichst du Flüge zu den Malediven und Alternativen in einem Schri
 
 ### Wie viel Geld sollte man für die Malediven einplanen?
 
-Für das klassische Resort-Erlebnis: 5.000-15.000 Euro pro Person für eine Woche (Flug + Unterkunft + Vollpension). Für das Guesthouse-Erlebnis auf bewohnten Inseln: 1.500-3.000 Euro pro Person für eine Woche. Ohne [Reiseversicherung](https://ektatraveling.com/) und Tauchen/Aktivitäten.
+Für das klassische Resort-Erlebnis: 5.000-15.000 Euro pro Person für eine Woche (Flug + Unterkunft + Vollpension). Für das Guesthouse-Erlebnis auf bewohnten Inseln: 1.500-3.000 Euro pro Person für eine Woche. Ohne Reiseversicherung und Tauchen/Aktivitäten.
 
 ### Was bedeutet "All-Inclusive" auf den Malediven?
 

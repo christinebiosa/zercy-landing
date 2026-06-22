@@ -40,7 +40,7 @@ Estrategia de búsqueda: usar Skyscanner en modo "mes completo" y elegir el día
 
 El viaje con presupuesto ajustado tiene un límite donde recortar se vuelve contraproducente. Dónde no conviene ahorrar:
 
-**[Seguro de viaje](https://ektatraveling.com/):** 32-85 USD por semana es la prima de seguro más barata que existe comparada con lo que cubre. Cancelación de viaje, cobertura médica en el extranjero, pérdida de equipaje. Nunca omitirlo. Más en nuestra [guía de seguros de viaje](/es/blog/seguro-viaje-vale-la-pena/).
+**Seguro de viaje:** 32-85 USD por semana es la prima de seguro más barata que existe comparada con lo que cubre. Cancelación de viaje, cobertura médica en el extranjero, pérdida de equipaje. Nunca omitirlo. Más en nuestra [guía de seguros de viaje](/es/blog/seguro-viaje-vale-la-pena/).
 
 **Salud e higiene:** Comida callejera barata de proveedores poco higiénicos. El costo de una intoxicación (días de viaje perdidos, costos médicos) supera cualquier ahorro.
 

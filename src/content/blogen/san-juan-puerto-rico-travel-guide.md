@@ -16,7 +16,7 @@ When to visit, what to see, where to stay, how to get around. Everything you nee
 
 The dry season runs December through April. Temperatures between 75 and 83°F, minimal rain. Peak season for a reason. Hotels fill up and prices go up, but the weather delivers.
 
-Hurricane season runs June through November, peak risk August through October. Many days are still sunny and prices drop significantly. Book refundable rates and carry [travel insurance](https://ektatraveling.com/).
+Hurricane season runs June through November, peak risk August through October. Many days are still sunny and prices drop significantly. Book refundable rates and carry travel insurance.
 
 One note: the Festival de la Calle San Sebastián in January draws huge crowds. Hotels sell out months early. Avoid it unless the festival itself is the point.
 

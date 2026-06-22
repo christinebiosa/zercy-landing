@@ -101,7 +101,7 @@ Botas de montaña con sujeción del tobillo y suela de goma con agarre (Vibram o
 
 ### ¿Necesito un seguro de rescate de montaña para los Alpes?
 
-Se recomienda tener un seguro de rescate en montaña. Un rescate en helicóptero en los Alpes puede costar varios miles de euros. La membresía del DAV incluye cobertura de rescate en montaña. Alternativa: ADAC o pólizas de [seguro de viaje](https://ektatraveling.com/) con cláusula de rescate alpino.
+Se recomienda tener un seguro de rescate en montaña. Un rescate en helicóptero en los Alpes puede costar varios miles de euros. La membresía del DAV incluye cobertura de rescate en montaña. Alternativa: ADAC o pólizas de seguro de viaje con cláusula de rescate alpino.
 
 ### ¿Puedo salir solo como principiante?
 

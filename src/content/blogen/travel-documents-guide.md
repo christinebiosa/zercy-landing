@@ -18,7 +18,7 @@ Your passport is the foundation. For most destinations outside your home country
 
 Then the visa. Some countries issue it on arrival, others require an online application weeks in advance. If you apply for an e-Visa, print it out or save a screenshot to your phone. Many countries now accept digital copies, but you don't want to rely on a stable data connection at the immigration desk.
 
-Booking confirmations belong in the mix too. Flight, hotel, [rental car](https://www.economybookings.com/). Not because you'll be asked to show them at every checkpoint, but because you'll want instant access if something goes sideways. A [travel insurance](https://ektatraveling.com/) policy with the emergency number rounds out the bare minimum.
+Booking confirmations belong in the mix too. Flight, hotel, [rental car](https://www.economybookings.com/). Not because you'll be asked to show them at every checkpoint, but because you'll want instant access if something goes sideways. A travel insurance policy with the emergency number rounds out the bare minimum.
 
 If you're traveling within the EU, the EHIC (European Health Insurance Card) covers basic medical care across all EU and EEA countries. Most public health insurers issue it for free, often printed on the back of your regular insurance card.
 

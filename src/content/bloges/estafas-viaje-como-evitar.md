@@ -95,4 +95,4 @@ Los taxistas no oficiales que abordan a los recién llegados directamente son el
 Revisa la ranura del cajero para detectar dispositivos de skimming antes de usarlo. Tapa siempre el PIN. Prefiere el pago sin contacto. Activa las notificaciones del banco para cada transacción. Usa una tarjeta de crédito de viaje con protección contra fraude.
 
 ### ¿Qué debo hacer si soy víctima de una estafa?
-Denuncia a la policía local (aunque las posibilidades de recuperación sean bajas, necesitas el parte para el seguro). Bloquea tu tarjeta inmediatamente si los datos han sido comprometidos. Contacta con tu [seguro de viaje](https://ektatraveling.com/). Acude a la embajada o consulado de tu país si los daños son importantes.
+Denuncia a la policía local (aunque las posibilidades de recuperación sean bajas, necesitas el parte para el seguro). Bloquea tu tarjeta inmediatamente si los datos han sido comprometidos. Contacta con tu seguro de viaje. Acude a la embajada o consulado de tu país si los daños son importantes.

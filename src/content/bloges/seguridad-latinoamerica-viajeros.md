@@ -48,7 +48,7 @@ Muchos consejos suenan bien. Estos funcionan de verdad:
 
 **No explores barrios desconocidos de noche.** Eso suena obvio pero evita muchos problemas. Si no sabes qué tan segura es una zona: pregunta en el hostel o el hotel. Te lo dirán con honestidad. Esa conversación evita complicaciones.
 
-Un buen [seguro de viaje](https://ektatraveling.com/) con asistencia de emergencia es parte de cualquier viaje por Latinoamérica. Nuestra [guía de seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) explica qué debe cubrir una buena póliza.
+Un buen seguro de viaje con asistencia de emergencia es parte de cualquier viaje por Latinoamérica. Nuestra [guía de seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) explica qué debe cubrir una buena póliza.
 
 ## ¿Qué es el secuestro exprés y cómo evitarlo?
 

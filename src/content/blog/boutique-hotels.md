@@ -63,7 +63,7 @@ Boutique-Hotels haben oft keine standardisierte Sterneklassifikation. Lies die l
 Boutique-Hotels haben oft sehr unterschiedliche Zimmer — das Superior mit Innenhofblick kann komplett anders sein als das Standard mit Straßenblick. Lohnt sich, direkt nachzufragen was der Unterschied ist.
 
 **Stornierungsbedingungen prüfen**
-Kleine Hotels haben oft strengere Stornierungsbedingungen als große Ketten. Das hat seinen Grund — ein Zimmer leer zu haben trifft ein 20-Zimmer-Hotel viel härter. [Reiseversicherung](https://ektatraveling.com/) kann sich hier lohnen.
+Kleine Hotels haben oft strengere Stornierungsbedingungen als große Ketten. Das hat seinen Grund — ein Zimmer leer zu haben trifft ein 20-Zimmer-Hotel viel härter. Reiseversicherung kann sich hier lohnen.
 
 ## Wann das große Kettenhotel die bessere Wahl ist
 

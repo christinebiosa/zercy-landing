@@ -40,7 +40,7 @@ Suchstrategie: Skyscanner auf "ganzer Monat" setzen und günstigsten Tag wählen
 
 Budget-Reisen hat eine Grenze wo Sparen sich umkehrt. Wo du nicht sparen solltest:
 
-**[Reiseversicherung](https://ektatraveling.com/):** 30-80 Euro für eine Woche sind die günstigsten Versicherungsprämien die es gibt, verglichen mit möglichen Kosten. Stornoschutz, Krankenversicherung im Ausland, Gepäckverlust. Nie weglassen. Mehr dazu im [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
+**Reiseversicherung:** 30-80 Euro für eine Woche sind die günstigsten Versicherungsprämien die es gibt, verglichen mit möglichen Kosten. Stornoschutz, Krankenversicherung im Ausland, Gepäckverlust. Nie weglassen. Mehr dazu im [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 **Gesundheit und Hygiene:** Billiges Straßenessen von unhygienischen Anbietern. Die Kosten eines Magen-Darm-Infekts (verlorene Reisetage, Arztkosten) übertreffen jede Ersparnis.
 

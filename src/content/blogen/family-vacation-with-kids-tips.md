@@ -72,7 +72,7 @@ No complete list here. But the six items families miss most when they forget the
 2. **Children-specific first aid kit:** With fever reducer (dosed by weight), electrolyte powder, plasters, antiseptic.
 3. **Portable white noise machine:** For toddlers in hotel rooms. Maintaining sleep rhythms in unfamiliar environments matters.
 4. **Compact foldable stroller:** Smaller than a standard buggy, fits as carry-on, handles cobblestones better than large wheels.
-5. **Digital health insurance card and [travel insurance](https://ektatraveling.com/):** Always on you. Never in the checked bag. What [travel insurance actually covers](/en/blog/travel-insurance-worth-it-2026/) and when it is worth buying is covered in a separate article.
+5. **Digital health insurance card and travel insurance:** Always on you. Never in the checked bag. What [travel insurance actually covers](/en/blog/travel-insurance-worth-it-2026/) and when it is worth buying is covered in a separate article.
 6. **Offline backup entertainment:** Download apps and audiobooks before the flight. In-flight Wi-Fi is unreliable or unavailable.
 
 ## What Emergency Planning Should Every Family Do Before a Trip?

@@ -74,7 +74,7 @@ Sí, con la mayoría de aerolíneas europeas, si el transportín cumple los requ
 De forma gradual. Introduce el transportín como lugar de descanso cotidiano (coloca una manta con olor conocido dentro). Practica trayectos cortos en coche. Luego más largos. Los gatos que viajan con regularidad se adaptan sorprendentemente rápido: al segundo o tercer viaje, el estrés es notablemente menor.
 
 ### ¿Qué hacer si el gato se pone enfermo de viaje?
-Antes de salir, fotografía el pasaporte de mascotas y los documentos de vacunación (copia digital). Búsqueda de veterinario: en países de la UE normalmente fácil vía Google Maps o PetMD. Botiquín de viaje para gatos: medicamento para la diarrea, spray para heridas, calmantes (solo tras consultar al veterinario). Algunos proveedores ofrecen [seguro de viaje](https://ektatraveling.com/) para mascotas.
+Antes de salir, fotografía el pasaporte de mascotas y los documentos de vacunación (copia digital). Búsqueda de veterinario: en países de la UE normalmente fácil vía Google Maps o PetMD. Botiquín de viaje para gatos: medicamento para la diarrea, spray para heridas, calmantes (solo tras consultar al veterinario). Algunos proveedores ofrecen seguro de viaje para mascotas.
 
 ## Más artículos
 - [Viajar con perro en Europa](/es/blog/viajar-con-perro-europa/)

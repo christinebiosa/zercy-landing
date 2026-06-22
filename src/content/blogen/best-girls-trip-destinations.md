@@ -102,4 +102,4 @@ November through March is the ideal time: pleasantly warm, no hurricane risk, an
 Discuss the maximum budget per person before locking in a destination. Sharing a holiday house saves 30-40% compared to individual hotel rooms. Cooking together one or two evenings saves extra. Activities can be done individually where needed, not everything has to be joint.
 
 ### Which destinations are safest for a girls trip?
-Lisbon, Barcelona, Copenhagen, Iceland, and Split are considered very safe for groups of women travelers. In Mexico (Tulum) and Bali, stick to recommended transport options and prefer well-known areas in the evenings. [Travel insurance](https://ektatraveling.com/) is always a good idea.
+Lisbon, Barcelona, Copenhagen, Iceland, and Split are considered very safe for groups of women travelers. In Mexico (Tulum) and Bali, stick to recommended transport options and prefer well-known areas in the evenings. Travel insurance is always a good idea.

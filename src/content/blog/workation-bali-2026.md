@@ -61,7 +61,7 @@ Ein paar Dinge, die die meisten Erstbesucher kalt erwischen.
 
 **Regenzeit:** November bis März bedeutet tägliche Regenschauer, oft nachmittags oder abends. Das macht Arbeit und Freizeit grundsätzlich möglich, aber Outdoor-Aktivitäten, Motorrad-Touren und Strandaufenthalte sind eingeschränkter. Die Hochsaison für Workation ist Mai bis Oktober.
 
-**Sicherheit:** Bali ist grundsätzlich sicher. Kleinkriminalität (Mopeddiebstahl, Handy-Snatching) gibt es, aber nicht mehr als in anderen Touristenzentren Südostasiens. Lass nichts Wertvolles im Motorroller-Korb. Die größte echte Gefahr auf Bali sind Motorrollerunfälle: Fahre nicht zu schnell, trag immer einen Helm und versichere dich, dass deine [Reiseversicherung](https://ektatraveling.com/) Motorradunfälle abdeckt.
+**Sicherheit:** Bali ist grundsätzlich sicher. Kleinkriminalität (Mopeddiebstahl, Handy-Snatching) gibt es, aber nicht mehr als in anderen Touristenzentren Südostasiens. Lass nichts Wertvolles im Motorroller-Korb. Die größte echte Gefahr auf Bali sind Motorrollerunfälle: Fahre nicht zu schnell, trag immer einen Helm und versichere dich, dass deine Reiseversicherung Motorradunfälle abdeckt.
 
 **Gesundheit:** Dengue-Fieber ist auf Bali präsent. Mückenschutz ist kein optionales Zubehör, vor allem in der Regenzeit. Sonne und Dehydration sind die häufigsten Gründe, warum Besucher einen Tag im Bett verbringen. Wasser aus der Flasche, nicht aus dem Hahn.
 

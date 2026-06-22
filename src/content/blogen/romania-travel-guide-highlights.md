@@ -41,7 +41,7 @@ Winter in the Carpathians (Poiana Brasov as the ski center) for winter sports. B
 
 Romania is a safe EU travel destination. Petty crime in Bucharest as in any larger city. In Transylvania and the countryside it is very quiet. Rural dogs can be aggressive while hiking. Healthcare at EU standards in cities, limited in rural areas.
 
-[Travel insurance](https://ektatraveling.com/) recommended as always. The [official Romanian tourism website](https://www.romaniatourism.com/) has regional information and route suggestions.
+Travel insurance recommended as always. The [official Romanian tourism website](https://www.romaniatourism.com/) has regional information and route suggestions.
 
 ---
 

@@ -68,7 +68,7 @@ Según la ruta y la aerolínea: entre un 20 y un 60 por ciento por debajo del pr
 
 ### ¿Qué tarjetas de crédito dan más ventajas de viaje en LATAM?
 
-En América Latina: las tarjetas American Express Platinum o Gold locales (acceso a salas VIP, [seguro de viaje](https://ektatraveling.com/), estatus en hoteles), tarjetas de millas de aerolíneas (Avianca LifeMiles, LATAM Pass, Aeromexico Rewards). La cuota anual se amortiza con 3 o más viajes al año en la mayoría de los casos.
+En América Latina: las tarjetas American Express Platinum o Gold locales (acceso a salas VIP, seguro de viaje, estatus en hoteles), tarjetas de millas de aerolíneas (Avianca LifeMiles, LATAM Pass, Aeromexico Rewards). La cuota anual se amortiza con 3 o más viajes al año en la mayoría de los casos.
 
 ### ¿Cuál es la diferencia entre un hotel de 4 y uno de 5 estrellas?
 

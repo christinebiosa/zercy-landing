@@ -62,7 +62,7 @@ Tauchen gilt als teures Hobby. Stimmt teilweise. Aber es geht auch günstiger.
 
 Spare Kosten, indem du eigene Maske und Flossen mitbringst. Das ist keine Luxus-Empfehlung, sondern praktisch. Verleihmasken passen nie richtig. Eigene Flossen sind angenehmer. Und für Hygiene ist es sowieso besser.
 
-**[Reiseversicherung](https://ektatraveling.com/):** Pflicht. Eine normale Reiseversicherung reicht für Taucher nicht. Du brauchst eine, die Tauchunfälle abdeckt, inklusive Behandlung in einer Druckkammer. Die bekannteste und empfohlene Option ist die **DAN-Versicherung** (Divers Alert Network). Günstig, zuverlässig und bei Tauchschulen weltweit bekannt. Mehr zu Reiseversicherungen allgemein im Artikel [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/).
+**Reiseversicherung:** Pflicht. Eine normale Reiseversicherung reicht für Taucher nicht. Du brauchst eine, die Tauchunfälle abdeckt, inklusive Behandlung in einer Druckkammer. Die bekannteste und empfohlene Option ist die **DAN-Versicherung** (Divers Alert Network). Günstig, zuverlässig und bei Tauchschulen weltweit bekannt. Mehr zu Reiseversicherungen allgemein im Artikel [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/).
 
 Plane deine gesamte Reise, inklusive Flüge, Unterkunft und Budgetkalkulation, einfach mit [Zercy](https://www.zercy.app). Oder leg direkt los und trag deine Tauchziele ins [Zercy Logbuch](https://www.zercy.app/logbook) ein.
 

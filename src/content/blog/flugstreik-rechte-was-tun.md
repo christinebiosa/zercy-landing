@@ -69,7 +69,7 @@ Schnell handeln lohnt sich. Das hier solltest du sofort erledigen:
 
 **5. Bei Nicht-Reaktion: EVZ einschalten.** Das Europäische Verbraucherzentrum vermittelt kostenlos zwischen dir und der Airline. Besonders hilfreich bei grenzüberschreitenden EU-Flügen.
 
-Wenn du eine [Reiseversicherung](https://ektatraveling.com/) hast, prüf jetzt die Bedingungen. Manche Policen decken Streik als Reiserücktrittsgrund ab, andere explizit nicht. Die Unterschiede sind erheblich. Was wirklich sinnvoll ist, liest du in unserem Artikel: [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+Wenn du eine Reiseversicherung hast, prüf jetzt die Bedingungen. Manche Policen decken Streik als Reiserücktrittsgrund ab, andere explizit nicht. Die Unterschiede sind erheblich. Was wirklich sinnvoll ist, liest du in unserem Artikel: [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
 
 ## Häufige Fragen zum Flugstreik
 

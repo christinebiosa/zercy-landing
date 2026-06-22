@@ -69,7 +69,7 @@ Acting fast matters. Here is what to do right away:
 
 **5. Contact the ECC if the airline ignores you.** The European Consumer Centre mediates between you and airlines at no cost. Especially useful for cross-border EU flights.
 
-If you have [travel insurance](https://ektatraveling.com/), check your policy now. Some policies cover strikes as a reason for trip cancellation. Others explicitly exclude them. The differences are significant. See our full breakdown: [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
+If you have travel insurance, check your policy now. Some policies cover strikes as a reason for trip cancellation. Others explicitly exclude them. The differences are significant. See our full breakdown: [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/)
 
 Also worth reading before your next trip: [Airport Hacks: How to Survive Long Layovers](/en/blog/airport-hacks/).
 

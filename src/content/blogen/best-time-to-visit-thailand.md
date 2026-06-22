@@ -51,7 +51,7 @@ Significantly. Hotels in Phuket and Krabi during low season (May to October) are
 
 Ko Samui in October is the classic insider move: low-season prices, without the Andaman coast's actual monsoon. Worth pairing with the [Southeast Asia budget travel guide](/en/blog/southeast-asia-budget-travel/) for a full cost picture.
 
-If you're booking [travel insurance](https://ektatraveling.com/) for any Thailand trip in shoulder season, check whether monsoon-related cancellations are covered. The [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) covers what to look for.
+If you're booking travel insurance for any Thailand trip in shoulder season, check whether monsoon-related cancellations are covered. The [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) covers what to look for.
 
 ---
 

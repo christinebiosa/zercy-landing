@@ -52,7 +52,7 @@ Di lo que vas a hacer: "Quiero quedarme dos días más en Londres después de la
 
 Si tu empresa tiene una política de viajes, comprueba si el bleisure está contemplado. Las grandes corporaciones a veces tienen formularios específicos. Las empresas más pequeñas suelen resolverlo con una conversación.
 
-Algo importante que aclarar de antemano: el seguro. El [seguro de viaje](https://ektatraveling.com/) de negocios de tu empresa cubre normalmente solo los días laborables. Para los días de ocio necesitas tu propia cobertura. Una tarjeta de crédito con seguro de viaje integrado suele funcionar. Una póliza temporal es la otra opción. Parece un trámite menor, pero es lo único que merece confirmación antes de salir.
+Algo importante que aclarar de antemano: el seguro. El seguro de viaje de negocios de tu empresa cubre normalmente solo los días laborables. Para los días de ocio necesitas tu propia cobertura. Una tarjeta de crédito con seguro de viaje integrado suele funcionar. Una póliza temporal es la otra opción. Parece un trámite menor, pero es lo único que merece confirmación antes de salir.
 
 Si viajas en business en el tramo de trabajo y quieres entender las opciones de [acceso a la sala VIP sin billete business](/es/blog/acceso-sala-vip-sin-business/), hay más alternativas de lo que crees.
 

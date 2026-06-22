@@ -72,7 +72,7 @@ No hay lista completa aquí. Pero sí los seis elementos que las familias más e
 2. **Botiquín específico para niños:** Con antitérmico (dosificado por peso), polvo de electrolitos, tiritas, antiséptico.
 3. **Máquina de ruido blanco portátil:** Para niños pequeños en habitaciones de hotel. Mantener el ritmo de sueño en entornos desconocidos marca la diferencia.
 4. **Sillita de paseo compacta plegable:** Más pequeña que un carrito estándar, cabe como equipaje de mano, funciona mejor en adoquines que las ruedas grandes.
-5. **Tarjeta de seguro médico digital y [seguro de viaje](https://ektatraveling.com/):** Siempre contigo. Nunca en la maleta facturada. Verifica que los niños estén cubiertos, no solo los adultos.
+5. **Tarjeta de seguro médico digital y seguro de viaje:** Siempre contigo. Nunca en la maleta facturada. Verifica que los niños estén cubiertos, no solo los adultos.
 6. **Entretenimiento offline de respaldo:** Descarga apps y audiolibros antes del vuelo. El WiFi en vuelo no es fiable o directamente no existe.
 
 ## ¿Qué plan de emergencia necesita toda familia antes de viajar?

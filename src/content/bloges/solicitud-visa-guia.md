@@ -34,7 +34,7 @@ La preparación lo es todo. Un documento que falta puede retrasar o hundir toda 
 
 **Foto de pasaporte:** Cada país tiene sus propias especificaciones. Fondo blanco, medidas exactas, foto reciente. Hacerla con un fotógrafo profesional vale el pequeño costo.
 
-**[Seguro de viaje](https://ektatraveling.com/):** Muchos consulados exigen una póliza con cobertura mínima de 30.000 euros o su equivalente. ¿No estás seguro de qué debe incluir un buen seguro de viaje? Lo explicamos en [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)
+**Seguro de viaje:** Muchos consulados exigen una póliza con cobertura mínima de 30.000 euros o su equivalente. ¿No estás seguro de qué debe incluir un buen seguro de viaje? Lo explicamos en [Seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)
 
 **Confirmación de alojamiento:** Una reserva confirmada, incluso reembolsable, muestra al consulado que tienes un plan. Algunos países son flexibles. Otros piden una reserva firme.
 

@@ -57,7 +57,7 @@ Das ist die wichtigste Frage für Budgetreisende. Drei Kategorien wo die Ausgabe
 
 **Visagebühren:** Vietnam E-Visa: 25 USD. Kambodscha Visa on Arrival: 30 USD. Thailand visumfrei bis 30 Tage (für EU-Bürger), aber Verlängerung kostet.
 
-**Versicherung:** Unterschätztes Thema. Eine gute [Reiseversicherung](https://ektatraveling.com/) mit Krankenrücktransport kostet für 6 Wochen Südostasien ca. 80-150 EUR. Nicht verzichtbar, wenn du mit Motorrollern arbeitest.
+**Versicherung:** Unterschätztes Thema. Eine gute Reiseversicherung mit Krankenrücktransport kostet für 6 Wochen Südostasien ca. 80-150 EUR. Nicht verzichtbar, wenn du mit Motorrollern arbeitest.
 
 Wer generell günstig reisen will, findet auf [Lonely Planet Southeast Asia](https://www.lonelyplanet.com/southeast-asia) aktuelle Preisinformationen und unabhängige Hostelempfehlungen.
 

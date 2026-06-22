@@ -52,7 +52,7 @@ For budget travel through Southeast Asia, Workaway pairs especially well. See th
 
 The baseline costs are low. Workaway or WWOOF membership: 20 to 50 dollars. Flight to your destination: your biggest expense. At the host: nothing. Accommodation and meals are included.
 
-That sounds almost too good. The catch is that you still have to get there. Flights to Costa Rica, Thailand, Peru, or Nepal cost real money. And a [travel insurance](https://ektatraveling.com/) policy is non-negotiable regardless of how cheap the program is. What [travel insurance actually covers](/en/blog/travel-insurance-worth-it-2026/) is not obvious.
+That sounds almost too good. The catch is that you still have to get there. Flights to Costa Rica, Thailand, Peru, or Nepal cost real money. And a travel insurance policy is non-negotiable regardless of how cheap the program is. What [travel insurance actually covers](/en/blog/travel-insurance-worth-it-2026/) is not obvious.
 
 Additional costs to budget for: transport between hosts, visa fees (Nepal, Vietnam, Peru each have different rules), food on free days when you eat outside the host's kitchen.
 

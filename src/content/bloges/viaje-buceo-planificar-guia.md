@@ -62,7 +62,7 @@ El buceo tiene fama de ser caro. Es cierto en el extremo alto. Pero el punto de 
 
 **Tu propia máscara y aletas:** Vale la pena tenerlas. Las máscaras de alquiler rara vez encajan bien y han sido usadas por mucha gente. Las tuyas ajustan mejor, son más cómodas y mucho más higiénicas. El regulador y el BCD los puedes alquilar sin problema en casi cualquier destino.
 
-**[Seguro de viaje](https://ektatraveling.com/) para buceadores:** No es opcional. Un seguro de viaje estándar no cubre accidentes de buceo. Necesitas una póliza que incluya el tratamiento de la enfermedad por descompresión y el acceso a cámaras hiperbáricas. La opción más reconocida en la comunidad de buceo es el **seguro DAN** (Divers Alert Network). Es asequible, ampliamente conocido y diseñado específicamente para buceadores. Más información general sobre seguros de viaje en el artículo [Seguro de viaje: ¿Vale la pena?](/es/blog/seguro-viaje-vale-la-pena/).
+**Seguro de viaje para buceadores:** No es opcional. Un seguro de viaje estándar no cubre accidentes de buceo. Necesitas una póliza que incluya el tratamiento de la enfermedad por descompresión y el acceso a cámaras hiperbáricas. La opción más reconocida en la comunidad de buceo es el **seguro DAN** (Divers Alert Network). Es asequible, ampliamente conocido y diseñado específicamente para buceadores. Más información general sobre seguros de viaje en el artículo [Seguro de viaje: ¿Vale la pena?](/es/blog/seguro-viaje-vale-la-pena/).
 
 Planifica tu viaje de buceo completo con vuelos, alojamiento y presupuesto en un solo lugar con [Zercy](https://www.zercy.app). ¿Ya sabes a dónde vas? Agrega tus destinos de buceo al [diario de viaje de Zercy](https://www.zercy.app/logbook).
 

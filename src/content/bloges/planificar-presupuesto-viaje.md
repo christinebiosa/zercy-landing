@@ -31,7 +31,7 @@ Aquí tienes presupuestos diarios realistas según el estilo de viaje. Estas cif
 - Alojamiento (50 $/día): 500 dólares
 - Comida y transporte (30 $/día): 300 dólares
 - Actividades y gastos varios: 200 dólares
-- [Seguro de viaje](https://ektatraveling.com/): 60 a 80 euros
+- Seguro de viaje: 60 a 80 euros
 
 **Total: aproximadamente 1.700 a 2.100 euros.** Esa es tu cifra objetivo.
 

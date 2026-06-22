@@ -17,6 +17,31 @@ import path from 'path';
 const DRY = process.argv.includes('--dry');
 const MAX_PER_ARTICLE = 3;
 
+// Entfernen-Modus: node scripts/inject-affiliate-links.mjs --remove <domain>
+// macht aus [Text](https://...domain...) wieder nur Text. Mehrere Domains kommagetrennt.
+const removeIdx = process.argv.indexOf('--remove');
+if (removeIdx !== -1) {
+  const fs2 = await import('fs');
+  const path2 = await import('path');
+  const doms = (process.argv[removeIdx + 1] || '').split(',').map(s => s.trim()).filter(Boolean);
+  const dirs = ['src/content/blog', 'src/content/blogen', 'src/content/bloges'];
+  let removed = 0, files = 0;
+  for (const dir of dirs) {
+    for (const f of fs2.readdirSync(dir).filter(x => x.endsWith('.md'))) {
+      const fp = path2.join(dir, f);
+      let t = fs2.readFileSync(fp, 'utf8');
+      let n = 0;
+      for (const d of doms) {
+        const re = new RegExp('\\[([^\\]]+)\\]\\(https?://[^)]*' + d.replace(/\./g, '\\.') + '[^)]*\\)', 'g');
+        t = t.replace(re, (_m, txt) => { n++; return txt; });
+      }
+      if (n > 0) { fs2.writeFileSync(fp, t); removed += n; files++; }
+    }
+  }
+  console.log(`Entfernt: ${removed} Links in ${files} Dateien (${doms.join(', ')})`);
+  process.exit(0);
+}
+
 // Nur VERBUNDENE TP-Programme. Keyword (pro Sprache) -> Partner-Domain.
 const RULES = {
   de: [

@@ -37,7 +37,7 @@ The best babymoon spots combine comfort, calm, and solid medical access. No jung
 
 Medical clearance before travel is a requirement, not an option. Check your vaccination status: some vaccines are contraindicated during pregnancy. Avoid malaria regions where possible since the available prophylactics are restricted in pregnancy. Discuss all travel vaccinations with your doctor before booking.
 
-Adjust your [travel insurance](https://ektatraveling.com/). A standard trip cancellation policy doesn't always cover pregnancy-related cancellations. Look for policies that explicitly include pregnancy. The [travel insurance breakdown](/en/blog/travel-insurance-worth-it-2026/) is a good starting point for comparing what different policies actually cover.
+Adjust your travel insurance. A standard trip cancellation policy doesn't always cover pregnancy-related cancellations. Look for policies that explicitly include pregnancy. The [travel insurance breakdown](/en/blog/travel-insurance-worth-it-2026/) is a good starting point for comparing what different policies actually cover.
 
 Choose your hotel with care. Higher-end hotels usually mean better beds, better climate control, and quieter locations. On a babymoon the accommodation is not a place to cut corners. Flexible check-in times matter more than you'd expect on long travel days.
 

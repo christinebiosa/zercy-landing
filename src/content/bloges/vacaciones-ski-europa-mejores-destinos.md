@@ -90,7 +90,7 @@ Para Navidad y Año Nuevo en los resorts más populares (Zermatt, Val d'Isère, 
 
 #### ¿Qué seguro cubre los accidentes de esquí?
 
-Un [seguro de viaje](https://ektatraveling.com/) estándar suele excluir los deportes de invierno o los cubre con una cláusula específica. Necesitas un seguro con cobertura de deportes de montaña que incluya rescate en helicóptero (puede costar 5.000-15.000 euros sin seguro en los Alpes) y repatriación. Muchos forfaits europeos incluyen un seguro básico de rescate, pero no cubre la repatriación médica completa.
+Un seguro de viaje estándar suele excluir los deportes de invierno o los cubre con una cláusula específica. Necesitas un seguro con cobertura de deportes de montaña que incluya rescate en helicóptero (puede costar 5.000-15.000 euros sin seguro en los Alpes) y repatriación. Muchos forfaits europeos incluyen un seguro básico de rescate, pero no cubre la repatriación médica completa.
 
 #### ¿Cuándo es la mejor época para esquiar en los Alpes?
 

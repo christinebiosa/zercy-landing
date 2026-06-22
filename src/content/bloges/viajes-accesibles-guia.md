@@ -57,7 +57,7 @@ La mayoría de los grandes proveedores de alquiler ofrecen vehículos con equipa
 
 Proveedores especializados en algunos países ofrecen vehículos con rampa plegable o elevador para sillas eléctricas. Es necesaria investigación específica para tu destino.
 
-**Verifica tu [seguro de viaje](https://ektatraveling.com/):** Los seguros estándar a menudo no cubren los costos adicionales específicos de la discapacidad. Verifica si el transporte de la silla, los equipos médicos y los gastos adicionales por discapacidad en caso de evacuación de emergencia están cubiertos.
+**Verifica tu seguro de viaje:** Los seguros estándar a menudo no cubren los costos adicionales específicos de la discapacidad. Verifica si el transporte de la silla, los equipos médicos y los gastos adicionales por discapacidad en caso de evacuación de emergencia están cubiertos.
 
 Planifica tu viaje accesible con [Zercy](https://www.zercy.app) y guarda todos los detalles importantes en tu [Zercy Logbook](https://www.zercy.app/logbook).
 

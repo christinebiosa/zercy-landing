@@ -58,7 +58,7 @@ Use [Zercy](https://zercy.app) to compare flight prices for your route and find 
 
 Short answer. Important one.
 
-**Health insurance:** International long-stay [travel insurance](https://ektatraveling.com/) starts at 50 to 80 euros a month and covers you for most destinations. Many people combine this with a policy from their home country during transition periods. Details in our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
+**Health insurance:** International long-stay travel insurance starts at 50 to 80 euros a month and covers you for most destinations. Many people combine this with a policy from their home country during transition periods. Details in our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 **Pension:** One year off makes little difference over a long career. Some countries allow voluntary contributions during a leave. Worth looking into if you're close to a threshold, otherwise don't overthink it.
 

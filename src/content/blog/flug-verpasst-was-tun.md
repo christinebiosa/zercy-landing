@@ -50,7 +50,7 @@ Dein Ticket-Wert kann komplett verfallen. Nur Steuern und Gebühren sind manchma
 **Best Case: Verspäteter Zubringerflug, EU-Schutz greift**
 Keine Kosten, kostenlose Umbuchung, Mahlzeiten inklusive, bei langer Verspätung Entschädigung bis 600 Euro.
 
-**[Reiseversicherung](https://ektatraveling.com/): unterschätzte Absicherung**
+**Reiseversicherung: unterschätzte Absicherung**
 Eine gute Reiseversicherung, zum Beispiel von Allianz Travel oder ERV, deckt "verpasste Abflüge" als separaten Baustein ab. Manchmal sogar bei eigenem Verschulden, wenn du die Verspätung nachweisen kannst (Stauprotokoll, ÖPNV-Ausfall). Kosten für eine Jahrespolice: zwischen 60 und 120 Euro für eine Einzelperson. Gemessen an einem potenziell verlorenen Ticket: schnell amortisiert.
 
 Das Thema Reiseversicherung ist komplexer, als es scheint. Der Artikel zur [Reiseversicherung: was sich wirklich lohnt](/blog/reiseversicherung-was-lohnt-sich/) erklärt die wichtigsten Unterschiede zwischen den Policen.

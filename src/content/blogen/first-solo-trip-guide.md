@@ -38,7 +38,7 @@ Loneliness exists. Sometimes in the evenings, when everyone else seems to move i
 
 Traveling alone doesn't mean traveling carelessly. A few simple measures make a real difference.
 
-**Document copies in the cloud.** Scan your passport, your credit card, and your [travel insurance](https://ektatraveling.com/). Upload everything to Google Drive or iCloud. If something gets stolen, you can access all the important numbers from any device.
+**Document copies in the cloud.** Scan your passport, your credit card, and your travel insurance. Upload everything to Google Drive or iCloud. If something gets stolen, you can access all the important numbers from any device.
 
 **Tell someone your plan.** Give someone at home a rough outline: city, accommodation, planned departure. Daily short WhatsApp updates to family or friends keep everyone calm. You too.
 

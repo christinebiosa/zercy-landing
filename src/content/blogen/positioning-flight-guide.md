@@ -63,7 +63,7 @@ That's why these rules matter:
 
 **At least 3 to 4 hours buffer** between feeder arrival and long-haul departure. Not 90 minutes. Not 2 hours. Things go wrong. Weather delays. Technical issues. Crowded terminals.
 
-**Get [travel insurance](https://ektatraveling.com/)** that covers missed connections from separate bookings. Not every policy does this. Ask specifically before you buy.
+**Get travel insurance** that covers missed connections from separate bookings. Not every policy does this. Ask specifically before you buy.
 
 **Never treat it as one connected journey.** In your head, these are two completely independent trips. Feeder to hub. Then departure from hub. Think separately, plan separately.
 

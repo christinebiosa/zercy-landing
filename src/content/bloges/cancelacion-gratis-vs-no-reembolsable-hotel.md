@@ -40,7 +40,7 @@ Aqui esta la regla honesta que puedes seguir.
 - el motivo no se puede mover (una boda, un concierto con entrada fija, un curso reservado)
 - ya revisaste el precio varias veces y esta estable
 - el ahorro es importante (15% o mas)
-- ya tienes un [seguro de viaje](https://ektatraveling.com/) aparte que cubre cancelaciones
+- ya tienes un seguro de viaje aparte que cubre cancelaciones
 
 **Reserva con cancelacion gratis SI:**
 - el viaje es a mas de un mes vista

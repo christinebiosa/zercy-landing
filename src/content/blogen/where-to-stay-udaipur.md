@@ -81,7 +81,7 @@ For travelers who want Udaipur beyond the postcard, Fateh Sagar is the right cal
 
 Gangaur Ghat sits on the southern shore of Lake Pichola, away from the dense Old City crowds. The ghat is a ritual bathing spot. Locals arrive for their morning routines while the light is still low. In the evenings, one of the best boat tours departs from here. Hotels in this area are often smaller havelis and guesthouses, less well-known but deeply atmospheric.
 
-For travelers who want to know Udaipur rather than just photograph it, the Gangaur Ghat area is a quiet discovery. Before any India trip, getting [travel insurance](https://ektatraveling.com/) sorted is worth the 30 minutes. Our [travel insurance breakdown](/en/blog/travel-insurance-worth-it-2026/) covers what actually matters for a trip to Rajasthan.
+For travelers who want to know Udaipur rather than just photograph it, the Gangaur Ghat area is a quiet discovery. Before any India trip, getting travel insurance sorted is worth the 30 minutes. Our [travel insurance breakdown](/en/blog/travel-insurance-worth-it-2026/) covers what actually matters for a trip to Rajasthan.
 
 **Who fits here:** Solo travelers, repeat visitors, anyone who values depth over convenience.
 

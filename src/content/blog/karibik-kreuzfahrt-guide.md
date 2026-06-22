@@ -78,7 +78,7 @@ Zur Flugplanung in die Abflughäfen: Wie du günstige Flüge nach Miami oder For
 
 **Internet:** Schiffsinternet ist teuer und langsam. Für Social Media oder kurze Nachrichten reicht es. Streaming ist meist nicht möglich. In den Häfen gibt es oft freies WLAN in Cafés.
 
-**[Reiseversicherung](https://ektatraveling.com/):** Bei Kreuzfahrten besonders wichtig. Eine Flugannullierung kann dazu führen, dass du das Schiff verpasst. Der Artikel zur [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) erklärt, wann sie sich wirklich lohnt.
+**Reiseversicherung:** Bei Kreuzfahrten besonders wichtig. Eine Flugannullierung kann dazu führen, dass du das Schiff verpasst. Der Artikel zur [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) erklärt, wann sie sich wirklich lohnt.
 
 Mehr Details zum Karibik-Inselerlebnis über die Kreuzfahrt hinaus findest du im [Inselhopping-Guide für die Karibik](/blog/inselhopping-karibik-guide/).
 

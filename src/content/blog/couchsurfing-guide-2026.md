@@ -78,7 +78,7 @@ Wenn du Privatsphäre brauchst. Wenn du spät nachts anreist und früh morgens w
 
 Couchsurfing funktioniert nicht auf Knopfdruck. Es braucht Zeit, Energie und echtes Interesse am Austausch. Wer das nicht mitbringt, tut niemandem einen Gefallen, am wenigsten sich selbst.
 
-Eine gute [Reiseversicherung](https://ektatraveling.com/) bleibt übrigens unabhängig davon Pflicht. Mehr dazu in unserem Artikel zur [Reiseversicherung im Vergleich](/blog/reiseversicherung-was-lohnt-sich/).
+Eine gute Reiseversicherung bleibt übrigens unabhängig davon Pflicht. Mehr dazu in unserem Artikel zur [Reiseversicherung im Vergleich](/blog/reiseversicherung-was-lohnt-sich/).
 
 ---
 

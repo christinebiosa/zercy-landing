@@ -72,7 +72,7 @@ Con Zercy comparas vuelos a las Maldivas y alternativas en un solo paso. Guarda 
 
 ### ¿Cuánto dinero hay que presupuestar para las Maldivas?
 
-Para la experiencia clásica de resort: 5.400-16.200 euros por persona para una semana (vuelo + alojamiento + pensión completa). Para la experiencia de casa de huéspedes en islas habitadas: 1.600-3.200 euros por persona para una semana. Sin [seguro de viaje](https://ektatraveling.com/), buceo y actividades.
+Para la experiencia clásica de resort: 5.400-16.200 euros por persona para una semana (vuelo + alojamiento + pensión completa). Para la experiencia de casa de huéspedes en islas habitadas: 1.600-3.200 euros por persona para una semana. Sin seguro de viaje, buceo y actividades.
 
 ### ¿Qué significa "todo incluido" en las Maldivas?
 

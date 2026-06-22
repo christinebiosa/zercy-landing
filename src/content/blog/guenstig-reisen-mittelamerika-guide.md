@@ -58,7 +58,7 @@ Mittelamerika hat einen Ruf, der teilweise verdient und teilweise übertrieben i
 
 Einige Grundregeln sind trotzdem wichtig. Nachts kein Bargeld auf der Straße zeigen. In Städten kein teures Smartphone unachtsam benutzen. Mototaxis nur von offiziellen Stationen nehmen, nicht von Fremden auf der Straße. Wertgegenstände im Hostel in einem Schließfach deponieren.
 
-Guatemala-Stadt und Honduras-Großstädte wie San Pedro Sula und Tegucigalpa gelten als risikoreicher. Hier gilt: Touristenviertel kennen, in Gruppen reisen, keine Nachtmärkte ohne lokale Begleitung. Für eine gute [Reiseversicherung](https://ektatraveling.com/), die auch Gepäckdiebstahl abdeckt, lies unseren Artikel zur [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/).
+Guatemala-Stadt und Honduras-Großstädte wie San Pedro Sula und Tegucigalpa gelten als risikoreicher. Hier gilt: Touristenviertel kennen, in Gruppen reisen, keine Nachtmärkte ohne lokale Begleitung. Für eine gute Reiseversicherung, die auch Gepäckdiebstahl abdeckt, lies unseren Artikel zur [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/).
 
 Das [Visit Guatemala Tourismusamt](https://visitguatemala.com) und das [Visit Costa Rica Board](https://visitcostarica.com) bieten aktuelle Sicherheitshinweise für ihre Länder.
 

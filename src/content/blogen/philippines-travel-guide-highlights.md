@@ -65,7 +65,7 @@ Cebu is the most practical entry point: direct domestic flight from Manila, good
 
 ### How Safe Are the Philippines for Tourists?
 
-The Philippines is safe for tourists on the popular islands (Palawan, Cebu, Bohol, Siargao). As anywhere, walking alone at night in unfamiliar neighborhoods of Manila is not advisable. The biggest risk is typhoons during the wrong travel window. [Travel insurance](https://ektatraveling.com/) with natural disaster coverage is a sensible investment.
+The Philippines is safe for tourists on the popular islands (Palawan, Cebu, Bohol, Siargao). As anywhere, walking alone at night in unfamiliar neighborhoods of Manila is not advisable. The biggest risk is typhoons during the wrong travel window. Travel insurance with natural disaster coverage is a sensible investment.
 
 ### What Is the Best Dive Site in the Philippines?
 

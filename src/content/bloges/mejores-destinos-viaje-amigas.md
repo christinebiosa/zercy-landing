@@ -102,4 +102,4 @@ De noviembre a marzo es el momento ideal: agradablemente cálido, sin riesgo de 
 Hablar del presupuesto máximo por persona antes de elegir el destino. Compartir una casa de vacaciones ahorra un 30-40% en comparación con habitaciones individuales de hotel. Cocinar juntas una o dos noches ahorra aún más. Las actividades pueden hacerse de forma individual cuando sea necesario, no todo tiene que ser en grupo.
 
 ### ¿Qué destinos son más seguros para un viaje de amigas?
-Lisboa, Barcelona, Copenhague, Islandia y Split se consideran muy seguros para grupos de viajeras. En México (Tulum) y Bali, es mejor usar transporte de confianza y preferir zonas conocidas por las noches. El [seguro de viaje](https://ektatraveling.com/) siempre es una buena idea.
+Lisboa, Barcelona, Copenhague, Islandia y Split se consideran muy seguros para grupos de viajeras. En México (Tulum) y Bali, es mejor usar transporte de confianza y preferir zonas conocidas por las noches. El seguro de viaje siempre es una buena idea.

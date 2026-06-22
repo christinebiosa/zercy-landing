@@ -78,7 +78,7 @@ For finding flights to Miami or Fort Lauderdale at the right time, the [Caribbea
 
 **Internet on board:** Expensive and slow. Sufficient for messaging and quick browsing. Streaming rarely works. Most ports have free wifi in cafes near the pier.
 
-**[Travel insurance](https://ektatraveling.com/):** More important for cruises than most trips. A flight cancellation can mean missing the ship entirely if you are flying in from Europe. The [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) explains when coverage is genuinely worth having.
+**Travel insurance:** More important for cruises than most trips. A flight cancellation can mean missing the ship entirely if you are flying in from Europe. The [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) explains when coverage is genuinely worth having.
 
 ---
 

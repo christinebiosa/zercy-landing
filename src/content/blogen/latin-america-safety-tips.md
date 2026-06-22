@@ -48,7 +48,7 @@ Many tips sound good. These ones genuinely help:
 
 **Don't explore unfamiliar neighborhoods at night.** That sounds obvious but prevents a lot of problems. If you don't know how safe an area is: ask the hostel or hotel. They will tell you honestly. That one conversation saves trouble.
 
-A solid [travel insurance](https://ektatraveling.com/) policy with emergency support belongs on every Latin America trip. Our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) explains what a good policy needs to cover.
+A solid travel insurance policy with emergency support belongs on every Latin America trip. Our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) explains what a good policy needs to cover.
 
 ## What is express kidnapping and how do you avoid it?
 

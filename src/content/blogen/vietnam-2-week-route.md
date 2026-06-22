@@ -62,7 +62,7 @@ Pho in Hanoi, Bun Bo Hue in Hue, Cao Lau and White Rose dumplings in Hoi An, Hu 
 
 ### What health precautions are recommended for Vietnam?
 
-Hepatitis A and typhoid vaccinations are recommended. Do not drink tap water. Ice at street food stalls is generally made from filtered water and considered safe. [Travel insurance](https://ektatraveling.com/) with emergency evacuation is non-negotiable for a two-week trip.
+Hepatitis A and typhoid vaccinations are recommended. Do not drink tap water. Ice at street food stalls is generally made from filtered water and considered safe. Travel insurance with emergency evacuation is non-negotiable for a two-week trip.
 
 ### What is the best way to manage money in Vietnam?
 

@@ -83,7 +83,7 @@ Nördlich des CBD, wenige Tram-Minuten. Carlton ist Melbournes Universitätsvier
 
 **Top-Picks:** Drummond Apartments Carlton (serviced apartments, gut für eine Woche), Quest Carlton (Apartment-Hotel), Melbourne Boutique Hostel Carlton (Hostel-Option für Solosreisende).
 
-Günstigere Flüge nach Australien findest du mit unseren [Tipps zum günstigen Fliegen](/blog/guenstig-fliegen-tipps/). Wer die [Reiseversicherung](https://ektatraveling.com/) prüfen will: unser [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/) beantwortet die wichtigsten Fragen.
+Günstigere Flüge nach Australien findest du mit unseren [Tipps zum günstigen Fliegen](/blog/guenstig-fliegen-tipps/). Wer die Reiseversicherung prüfen will: unser [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/) beantwortet die wichtigsten Fragen.
 
 ## Wo solltest du am Ende buchen?
 

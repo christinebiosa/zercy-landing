@@ -34,7 +34,7 @@ Gute Vorbereitung ist die halbe Miete. Ohne vollständige Unterlagen riskierst d
 
 **Lichtbild:** Jedes Land hat eigene Vorgaben. Weißer Hintergrund, bestimmte Maße, aktuelles Foto. Lass das lieber beim Fotografen machen als zu Hause auszuprobieren.
 
-**Reiseversicherungsnachweis:** Viele Konsulate verlangen eine Police mit Mindestdeckung von 30.000 Euro. Was eine gute [Reiseversicherung](https://ektatraveling.com/) können sollte, erklären wir im Artikel [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
+**Reiseversicherungsnachweis:** Viele Konsulate verlangen eine Police mit Mindestdeckung von 30.000 Euro. Was eine gute Reiseversicherung können sollte, erklären wir im Artikel [Reiseversicherung: Was lohnt sich wirklich?](/blog/reiseversicherung-was-lohnt-sich/)
 
 **Hotelbestätigung:** Nicht immer ein festes Buchungsdokument. Manchmal reicht eine stornierbare Reservierung. Zeigt dem Konsulat, dass du einen Plan hast.
 

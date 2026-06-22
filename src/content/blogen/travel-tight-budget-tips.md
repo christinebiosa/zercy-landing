@@ -40,7 +40,7 @@ $110/day in Zurich is nothing. In Vietnam it's excessive luxury. The cheapest de
 
 Budget travel has a threshold where cutting costs backfires. Where you shouldn't skimp:
 
-**[Travel insurance](https://ektatraveling.com/):** $32-85 for a week is the cheapest insurance premium that exists, compared to what it covers. Trip cancellation, medical coverage abroad, lost luggage. Never skip it. More in our [Travel Insurance Guide](/en/blog/travel-insurance-worth-it-2026/).
+**Travel insurance:** $32-85 for a week is the cheapest insurance premium that exists, compared to what it covers. Trip cancellation, medical coverage abroad, lost luggage. Never skip it. More in our [Travel Insurance Guide](/en/blog/travel-insurance-worth-it-2026/).
 
 **Health and hygiene:** Cheap street food from unhygienic vendors. The cost of a stomach illness (lost travel days, medical costs) exceeds any savings.
 

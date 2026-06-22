@@ -32,7 +32,7 @@ Ein verbreiteter Irrtum: Wer zu viel plant, ist ängstlich. Das Gegenteil stimmt
 
 - **Transferbuchung vor dem Reisen:** Nicht darauf vertrauen, vor Ort einen Taxi zu finden. Ein gebuchter Transfer (z.B. über Booking.com Transport, Kiwitaxi oder direkt beim Hotel) nimmt den ersten Stressfaktor weg. Das Wissen, wer dich abholt, wirkt erstaunlich beruhigend.
 - **Notfall-Infos ausdrucken:** Botschaftsnummer, Kontakt des Hotels, lokale Notfallnummer (112 gilt in der EU, 911 in den USA) auf einem Zettel. Klingt altmodisch. Funktioniert.
-- **[Reiseversicherung](https://ektatraveling.com/) abschließen:** Die Absicherung allein reduziert Angst vor Krankheit, Gepäckverlust und Stornierungen. Wer weiß, dass er im Notfall abgesichert ist, reist entspannter.
+- **Reiseversicherung abschließen:** Die Absicherung allein reduziert Angst vor Krankheit, Gepäckverlust und Stornierungen. Wer weiß, dass er im Notfall abgesichert ist, reist entspannter.
 - **Erste Nacht extra sorgfältig buchen:** Ein gutes Hotel für die erste Nacht, selbst wenn du danach günstiger reist, hilft enorm. Wenn die Ankunft funktioniert, entspannt sich alles andere.
 - **Zeitpuffer einplanen:** Einen Tag früher anreisen, wenn es möglich ist. Oder den ersten Tag ohne Programm lassen. Ankommen darf Zeit kosten.
 

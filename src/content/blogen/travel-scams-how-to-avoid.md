@@ -95,4 +95,4 @@ Unofficial taxi drivers who approach arrivals directly are the most frequent pro
 Check the card slot for skimming devices before using any ATM. Always cover your PIN. Prefer contactless payments. Enable bank notifications for every transaction. Use a travel credit card with fraud protection.
 
 ### What should I do if I become a victim of a scam?
-Report to local police (even if recovery seems unlikely, you need the report for insurance). Block your card immediately if card data was compromised. Contact your [travel insurance](https://ektatraveling.com/). Get in touch with your country's embassy or consulate for major losses.
+Report to local police (even if recovery seems unlikely, you need the report for insurance). Block your card immediately if card data was compromised. Contact your travel insurance. Get in touch with your country's embassy or consulate for major losses.

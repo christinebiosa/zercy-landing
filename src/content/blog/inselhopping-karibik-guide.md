@@ -41,7 +41,7 @@ Kleines Flugzeug bedeutet: sehr kleine Gepäck-Limits (oft 15 bis 20 kg inklusiv
 
 Dezember bis April ist die Hauptsaison. Trockenzeit, wenig Regen, kein Hurrikan-Risiko, Wassertemperaturen um 27 Grad. Kehrseite: Hotels sind teuer und gebucht. Wer Dezember bis Februar plant, sollte 4 bis 6 Monate im Voraus buchen.
 
-Mai bis November ist die Regenzeit. Regen kommt oft als kurze intensive Schauer, nicht als Dauertrist. Die Karibik ist auch in der Nebensaison schön. Nur September und Oktober sind kritisch: das ist die Spitze der Hurrikan-Saison. In diesen Wochen kann die Region von Wirbelstürmen getroffen werden. [Reiseversicherung](https://ektatraveling.com/) mit Evakuierungsschutz ist dann Pflicht, kein Optional.
+Mai bis November ist die Regenzeit. Regen kommt oft als kurze intensive Schauer, nicht als Dauertrist. Die Karibik ist auch in der Nebensaison schön. Nur September und Oktober sind kritisch: das ist die Spitze der Hurrikan-Saison. In diesen Wochen kann die Region von Wirbelstürmen getroffen werden. Reiseversicherung mit Evakuierungsschutz ist dann Pflicht, kein Optional.
 
 Wer flexibel ist, fährt Mai bis Juni oder November: schönes Wetter, keine Massen, Preise 30 bis 50 Prozent unter Hochsaison.
 

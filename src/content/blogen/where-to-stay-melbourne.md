@@ -83,7 +83,7 @@ North of the CBD, a few tram stops. Carlton is Melbourne's university district. 
 
 **Top picks:** Drummond Apartments Carlton (serviced apartments, excellent for weekly stays), Quest Carlton (apartment-hotel format), Melbourne Boutique Hostel Carlton (hostel option for solo travelers).
 
-For tips on keeping the whole Australia trip budget in check: our [cheap flights guide](/en/blog/cheap-flights-tips/) covers long-haul booking strategy. If you are sorting out [travel insurance](https://ektatraveling.com/) before flying: our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) breaks down what is and is not worth paying for.
+For tips on keeping the whole Australia trip budget in check: our [cheap flights guide](/en/blog/cheap-flights-tips/) covers long-haul booking strategy. If you are sorting out travel insurance before flying: our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) breaks down what is and is not worth paying for.
 
 ## Where Should You Book in the End?
 

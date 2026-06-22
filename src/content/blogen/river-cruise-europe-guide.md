@@ -92,7 +92,7 @@ Standard cabins on river cruise ships are typically 15-20 square meters, signifi
 
 ### What happens when water levels on the Rhine or Danube are too low?
 
-Extreme low-water periods (like summer 2022) can prevent ships from reaching all planned ports. Reputable operators arrange bus shuttles between the ship and excursion sites in those cases. It is rare, but a real risk. Good [travel insurance](https://ektatraveling.com/) is especially worthwhile for river cruises.
+Extreme low-water periods (like summer 2022) can prevent ships from reaching all planned ports. Reputable operators arrange bus shuttles between the ship and excursion sites in those cases. It is rare, but a real risk. Good travel insurance is especially worthwhile for river cruises.
 
 ### How do you book a river cruise at the best price?
 

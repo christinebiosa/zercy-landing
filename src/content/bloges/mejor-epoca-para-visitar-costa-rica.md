@@ -47,7 +47,7 @@ La Zona Norte (La Fortuna, volcán Arenal, Monteverde) tiene un patrón intermed
 
 [ICT Costa Rica](https://www.visitcostarica.com), el instituto de turismo oficial, tiene información actualizada sobre condiciones de parques nacionales, alertas de senderos y calendarios de eventos por región. Es especialmente útil para parques del interior que pueden cerrar senderos tras lluvias intensas.
 
-La guía de [ruta completa por Costa Rica](/es/blog/costa-rica-ruta-completa/) tiene itinerarios para distintas duraciones y presupuestos. Para quienes se preguntan si el [seguro de viaje](https://ektatraveling.com/) vale la pena en Costa Rica, especialmente en temporada de lluvias cuando las cancelaciones de excursiones son más frecuentes, la guía de [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/) da una respuesta directa.
+La guía de [ruta completa por Costa Rica](/es/blog/costa-rica-ruta-completa/) tiene itinerarios para distintas duraciones y presupuestos. Para quienes se preguntan si el seguro de viaje vale la pena en Costa Rica, especialmente en temporada de lluvias cuando las cancelaciones de excursiones son más frecuentes, la guía de [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/) da una respuesta directa.
 
 ---
 

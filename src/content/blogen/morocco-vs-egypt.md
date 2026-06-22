@@ -61,7 +61,7 @@ Here's the honest breakdown:
 
 **What if you want both?** A combined trip is possible. There are no direct flights between Morocco and Luxor, but routing through Cairo or a European hub makes a 2-3 week two-country trip workable. For Morocco routing ideas, the [Morocco Cities Guide](/en/blog/morocco-cities-guide/) is a good starting point.
 
-For [travel insurance](https://ektatraveling.com/) that covers both destinations, our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) covers what actually matters.
+For travel insurance that covers both destinations, our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/) covers what actually matters.
 
 ---
 

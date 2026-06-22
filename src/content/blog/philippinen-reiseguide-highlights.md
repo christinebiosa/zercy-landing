@@ -65,7 +65,7 @@ Cebu ist der praktischste Einstieg: direkter Inlandsflug aus Manila, gute Infras
 
 ### Wie gefährlich sind die Philippinen als Reiseland?
 
-Die Philippinen sind für Touristen auf den gängigen Inseln (Palawan, Cebu, Bohol, Siargao) sicher. Wie überall gilt: nachts allein in unbekannten Stadtvierteln von Manila ist nicht empfohlen. Die größte Gefahr sind Taifune im falschen Reisefenster. [Reiseversicherung](https://ektatraveling.com/) mit Naturkatastrophen-Schutz ist sinnvoll.
+Die Philippinen sind für Touristen auf den gängigen Inseln (Palawan, Cebu, Bohol, Siargao) sicher. Wie überall gilt: nachts allein in unbekannten Stadtvierteln von Manila ist nicht empfohlen. Die größte Gefahr sind Taifune im falschen Reisefenster. Reiseversicherung mit Naturkatastrophen-Schutz ist sinnvoll.
 
 ### Was ist das beste Tauchrevier auf den Philippinen?
 

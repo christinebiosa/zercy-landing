@@ -52,7 +52,7 @@ Sag, was du vorhast. "Ich möchte nach den Meetings in London noch zwei Tage pri
 
 Falls die Firma eine Reisekostenrichtlinie hat: prüfe, ob sie Bleisure explizit erlaubt oder verbietet. Manche große Unternehmen haben eigene Formulare für solche Verlängerungen. Bei Startups und kleineren Firmen ist es oft ein kurzes Gespräch.
 
-Wichtig: Kläre die Versicherungsfrage. Deine Dienstreise-Unfallversicherung gilt meist nur während der Arbeitstage. Für die Freizeittage brauchst du entweder eigene [Reiseversicherung](https://ektatraveling.com/) oder Kreditkartenschutz. Das klingt technisch, aber es ist der einzige Punkt, den du wirklich vorab klären musst.
+Wichtig: Kläre die Versicherungsfrage. Deine Dienstreise-Unfallversicherung gilt meist nur während der Arbeitstage. Für die Freizeittage brauchst du entweder eigene Reiseversicherung oder Kreditkartenschutz. Das klingt technisch, aber es ist der einzige Punkt, den du wirklich vorab klären musst.
 
 Wenn du regelmäßig fliegst und eine gute [Business Class ohne Meilenprogramm](/blog/business-class-ohne-meilen/) suchst, lohnt sich dabei auch die Frage nach Upgrades bei verlängerten Trips.
 

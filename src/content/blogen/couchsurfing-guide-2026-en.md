@@ -78,7 +78,7 @@ When you need privacy. When you're arriving late at night and leaving early the 
 
 Couchsurfing doesn't work on autopilot. It takes time, energy, and genuine interest in exchange. If you can't bring that, you're not doing anyone a favor, least of all yourself.
 
-A solid [travel insurance](https://ektatraveling.com/) policy remains essential regardless. See our guide on [travel insurance in 2026](/en/blog/travel-insurance-worth-it-2026/) for what's actually worth getting.
+A solid travel insurance policy remains essential regardless. See our guide on [travel insurance in 2026](/en/blog/travel-insurance-worth-it-2026/) for what's actually worth getting.
 
 ---
 

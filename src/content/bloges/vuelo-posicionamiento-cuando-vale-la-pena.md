@@ -62,7 +62,7 @@ Por eso estas reglas son fundamentales:
 
 **Al menos 3 o 4 horas de margen** entre la llegada del vuelo de conexión y la salida del vuelo de larga distancia. No 90 minutos. No 2 horas. Las cosas salen mal. Mal tiempo. Problemas técnicos. Terminales saturadas.
 
-**Contrata un [seguro de viaje](https://ektatraveling.com/)** que cubra las consecuencias de perder una conexión con reservas separadas. No todas las pólizas lo incluyen. Pregunta específicamente antes de contratar.
+**Contrata un seguro de viaje** que cubra las consecuencias de perder una conexión con reservas separadas. No todas las pólizas lo incluyen. Pregunta específicamente antes de contratar.
 
 **Nunca lo trates como un viaje continuo.** En tu cabeza, son dos viajes completamente independientes. Vuelo de posicionamiento al hub. Y luego salida desde el hub. Planifica por separado, piensa por separado.
 
