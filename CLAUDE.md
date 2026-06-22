@@ -326,11 +326,12 @@ Score-Signale: anywhere/irgendwo (+3), month/monate (+2), flexible/flexibel (+2)
 - **KRITISCH — Astro `is:global`:** BlogSearch.astro nutzt `<style is:global>`. Ohne das greift kein einziger `bsr-*`-Style auf dynamisch per `innerHTML` injizierte Elemente (Astro scopet normale `<style>`-Blöcke mit `[data-astro-cid-xxx]`, das kommt bei innerHTML-Elementen nie an).
 - **Result-Cards:** Thumbnail (56px, heroImage) + Kategorie-Pill (blau) + Titel (fett) + Excerpt (2-zeilig, match-highlight) + Chevron. Keyboard-Nav: ↓ aus Input → erste Card, ↑↓ zwischen Cards, Esc schließt.
 
-### Booking.com Affiliate — ⚠️ KEINE AFFILIATE-ID AKTIV
-- **BookingCTA.astro** (`src/components/BookingCTA.astro`) hat KEINEN `?aid=`-Parameter — alle Klicks sind ungetrackt, $0 Provision
-- Fix: `params.set('aid', 'DEINE_AID')` in `buildBookingUrl()` ergänzen, sobald AID vorhanden
-- **Nächster Schritt:** Bei `affiliate.booking.com` registrieren ODER Awin-Bewerbung abschicken
-- Nach AID: Deals Finder Widget in City-Guides einbauen (Live-Preise, auto-update, höhere Conversion)
+### Booking.com Affiliate — via CJ (Commission Junction), Bewerbung PENDING seit 2026-06-22
+- **Läuft NICHT über `?aid=`, sondern über CJ-Deep-Links.** Programm: „Booking.com North America" (CJ Advertiser **7864295**, Lead 4%, Serviceable Area nur CANADA+USA, KEIN Cookie-Tracking → nur in-session-Buchungen zählen). CJ Member-ID **7672553**.
+- **Code ist vorbereitet & deployed (dormant):** `src/config/affiliates.js` → `BOOKING_CJ_PID=''` + `bookingLink()`; `BookingCTA.astro` nutzt `bookingLink()`; `ZercyLayout.astro` `<script is:inline>` hat eigene `BOOKING_CJ_PID` + `cjBookingLink()` für `zercyUrls.bookingHotels`. Leerer PID = normale Booking-URL (heutiges Verhalten).
+- **GO-LIVE nach „Approved":** CJ → Links/Deep Link Generator → Website-PID holen (NICHT Member-ID 7672553) → **denselben PID in BEIDE Dateien** eintragen (`affiliates.js` + `ZercyLayout.astro`) → build + deploy + push → 1 Blog-CTA + 1 App-Hotel-Button testen (muss über anrdoezrs.net→booking.com gehen).
+- **Danach:** zusätzlich regionale Booking-Programme bei CJ suchen (EU/Worldwide) wegen DE/ES/global-Publikum. Deals Finder Widget in City-Guides optional. Details: Memory `reference_zercy_cj_booking_affiliate.md`.
+- **CJ-Spam-Regel:** Affiliate-Link NUR auf zercy.app, NIE Reddit/Quora/Foren/Kommentare/Mail (= Konto-Kündigung).
 
 ### Sonstige wichtige Logik
 - `chatTripContext = null` — wird beim Start von `thinkIntent()` zurückgesetzt
@@ -391,7 +392,7 @@ Diese Regel ist im `You NEVER:` Block am Ende des System Prompts verankert — g
 - **Gewinner-Format = Entscheidungs-Artikel „X lohnt sich? / worth it / vale la pena"** (Modell: Booking-Genius = Top-Performer). Hohe Kaufabsicht, wenig Konkurrenz, AI-Overview-fähig, **monetarisiert via Booking-Affiliate**.
 - **Flagship-Qualität:** TL;DR-Antwortbox als erstes Element (für Google AI Overviews/Snippets), echte Zahlen, Entscheidungs-Framework („Nimm X wenn… / Nimm Y wenn…"), 1100-1400 Wörter.
 - **Echter Engpass = Autorität/Backlinks** (ohne E-Mails): Product-Hunt-Launch, AI-Tool-/Startup-Verzeichnisse (Formulare), reaktive PR (Featured/Qwoted/HARO, Claude schreibt Zitate), Reddit/Quora. Details in Memory `project_zercy_seo_reality_check.md`.
-- **Booking-Affiliate-aid:** zentral in `src/config/affiliates.js` (`BOOKING_AID`) → 1 Zeile aktiviert alle Booking-CTAs.
+- **Booking-Affiliate (CJ):** Bewerbung PENDING seit 2026-06-22. Code vorbereitet (dormant) — nach Freigabe `BOOKING_CJ_PID` in `src/config/affiliates.js` UND `src/layouts/ZercyLayout.astro` setzen (siehe Abschnitt „Booking.com Affiliate"). NICHT `?aid=`.
 
 ## Blog-Artikel — Vollständige Checkliste (IMMER anwenden, ohne Aufforderung)
 
