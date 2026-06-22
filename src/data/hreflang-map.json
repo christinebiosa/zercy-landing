@@ -944,6 +944,21 @@
     "en": "https://www.zercy.app/en/blog/best-travel-e-readers-2026/",
     "es": "https://www.zercy.app/es/blog/mejores-e-readers-viaje-2026/"
   },
+  "beste-esim-reise-2026": {
+    "de": "https://www.zercy.app/blog/beste-esim-reise-2026/",
+    "en": "https://www.zercy.app/en/blog/best-esim-travel-2026/",
+    "es": "https://www.zercy.app/es/blog/mejor-esim-viaje-2026/"
+  },
+  "best-esim-travel-2026": {
+    "de": "https://www.zercy.app/blog/beste-esim-reise-2026/",
+    "en": "https://www.zercy.app/en/blog/best-esim-travel-2026/",
+    "es": "https://www.zercy.app/es/blog/mejor-esim-viaje-2026/"
+  },
+  "mejor-esim-viaje-2026": {
+    "de": "https://www.zercy.app/blog/beste-esim-reise-2026/",
+    "en": "https://www.zercy.app/en/blog/best-esim-travel-2026/",
+    "es": "https://www.zercy.app/es/blog/mejor-esim-viaje-2026/"
+  },
   "beste-faltbare-wasserflaschen": {
     "de": "https://www.zercy.app/blog/beste-faltbare-wasserflaschen/",
     "en": "https://www.zercy.app/en/blog/best-collapsible-water-bottles/",
@@ -2929,6 +2944,21 @@
     "en": "https://www.zercy.app/en/blog/city-cards-museum-passes-worth-it/",
     "es": "https://www.zercy.app/es/blog/tarjetas-ciudad-museos-vale-la-pena/"
   },
+  "city-pass-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/city-pass-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/city-pass-worth-it/",
+    "es": "https://www.zercy.app/es/blog/city-pass-vale-la-pena/"
+  },
+  "city-pass-worth-it": {
+    "de": "https://www.zercy.app/blog/city-pass-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/city-pass-worth-it/",
+    "es": "https://www.zercy.app/es/blog/city-pass-vale-la-pena/"
+  },
+  "city-pass-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/city-pass-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/city-pass-worth-it/",
+    "es": "https://www.zercy.app/es/blog/city-pass-vale-la-pena/"
+  },
   "co2-kompensation-fliegen": {
     "de": "https://www.zercy.app/blog/co2-kompensation-fliegen/",
     "en": "https://www.zercy.app/en/blog/flight-carbon-offsets-truth/",
@@ -3489,6 +3519,21 @@
     "en": "https://www.zercy.app/en/blog/how-to-overcome-fear-of-flying/",
     "es": "https://www.zercy.app/es/blog/como-superar-miedo-volar/"
   },
+  "flugentschaedigung-selbst-oder-airhelp": {
+    "de": "https://www.zercy.app/blog/flugentschaedigung-selbst-oder-airhelp/",
+    "en": "https://www.zercy.app/en/blog/flight-compensation-diy-vs-airhelp/",
+    "es": "https://www.zercy.app/es/blog/compensacion-vuelo-tu-mismo-o-airhelp/"
+  },
+  "flight-compensation-diy-vs-airhelp": {
+    "de": "https://www.zercy.app/blog/flugentschaedigung-selbst-oder-airhelp/",
+    "en": "https://www.zercy.app/en/blog/flight-compensation-diy-vs-airhelp/",
+    "es": "https://www.zercy.app/es/blog/compensacion-vuelo-tu-mismo-o-airhelp/"
+  },
+  "compensacion-vuelo-tu-mismo-o-airhelp": {
+    "de": "https://www.zercy.app/blog/flugentschaedigung-selbst-oder-airhelp/",
+    "en": "https://www.zercy.app/en/blog/flight-compensation-diy-vs-airhelp/",
+    "es": "https://www.zercy.app/es/blog/compensacion-vuelo-tu-mismo-o-airhelp/"
+  },
   "flughafen-hotel-lohnt-sich": {
     "de": "https://www.zercy.app/blog/flughafen-hotel-lohnt-sich/",
     "en": "https://www.zercy.app/en/blog/airport-hotel-worth-it/",
@@ -3698,6 +3743,21 @@
     "de": "https://www.zercy.app/blog/geld-im-ausland-tipps/",
     "en": "https://www.zercy.app/en/blog/money-abroad-tips/",
     "es": "https://www.zercy.app/es/blog/dinero-en-el-extranjero-consejos/"
+  },
+  "gepaeck-aufbewahren-reise-guide": {
+    "de": "https://www.zercy.app/blog/gepaeck-aufbewahren-reise-guide/",
+    "en": "https://www.zercy.app/en/blog/luggage-storage-travel-guide/",
+    "es": "https://www.zercy.app/es/blog/guardar-equipaje-viaje-guia/"
+  },
+  "luggage-storage-travel-guide": {
+    "de": "https://www.zercy.app/blog/gepaeck-aufbewahren-reise-guide/",
+    "en": "https://www.zercy.app/en/blog/luggage-storage-travel-guide/",
+    "es": "https://www.zercy.app/es/blog/guardar-equipaje-viaje-guia/"
+  },
+  "guardar-equipaje-viaje-guia": {
+    "de": "https://www.zercy.app/blog/gepaeck-aufbewahren-reise-guide/",
+    "en": "https://www.zercy.app/en/blog/luggage-storage-travel-guide/",
+    "es": "https://www.zercy.app/es/blog/guardar-equipaje-viaje-guia/"
   },
   "gepaeck-verloren-was-tun": {
     "de": "https://www.zercy.app/blog/gepaeck-verloren-was-tun/",
@@ -7603,6 +7663,21 @@
     "de": "https://www.zercy.app/blog/visum-beantragen-guide/",
     "en": "https://www.zercy.app/en/blog/visa-application-guide/",
     "es": "https://www.zercy.app/es/blog/solicitud-visa-guia/"
+  },
+  "vpn-auf-reisen-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/vpn-auf-reisen-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/vpn-for-travel-worth-it/",
+    "es": "https://www.zercy.app/es/blog/vpn-para-viajar-vale-la-pena/"
+  },
+  "vpn-for-travel-worth-it": {
+    "de": "https://www.zercy.app/blog/vpn-auf-reisen-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/vpn-for-travel-worth-it/",
+    "es": "https://www.zercy.app/es/blog/vpn-para-viajar-vale-la-pena/"
+  },
+  "vpn-para-viajar-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/vpn-auf-reisen-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/vpn-for-travel-worth-it/",
+    "es": "https://www.zercy.app/es/blog/vpn-para-viajar-vale-la-pena/"
   },
   "waehrungstausch-ausland-guide": {
     "de": "https://www.zercy.app/blog/waehrungstausch-ausland-guide/",
