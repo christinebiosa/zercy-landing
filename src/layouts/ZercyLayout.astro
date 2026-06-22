@@ -1083,6 +1083,26 @@ const zercyUrls = {
   googleMapsSearch(query) {
     return `https://www.google.com/maps/search/${encodeURIComponent(query||'')}`;
   },
+
+  // Aviasales (Travelpayouts-Partner, getrackt via Drive). Deep-Such-Link NUR bei echten
+  // IATA-Codes (3 Buchstaben) + Datum, sonst sichere Startseite. So nie ein kaputter Link.
+  aviasalesFlights(origin, dest, outDate, retDate) {
+    const home = 'https://www.aviasales.com/';
+    const iata = (s) => (typeof s === 'string' && /^[A-Za-z]{3}$/.test(s.trim())) ? s.trim().toUpperCase() : null;
+    const ddmm = (s) => { const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(s || ''); return m ? (m[3] + m[2]) : null; };
+    const o = iata(origin), d = iata(dest), od = ddmm(outDate);
+    if (!o || !d || !od) return home;
+    const rd = ddmm(retDate);
+    return rd
+      ? `https://www.aviasales.com/search/${o}${od}${d}${rd}1`
+      : `https://www.aviasales.com/search/${o}${od}${d}1`;
+  },
+
+  // Economybookings (Travelpayouts-Partner, getrackt via Drive). Kein zuverlässiger
+  // öffentlicher Such-Deep-Link -> Startseite. Drive trackt den Klick.
+  economyCars() {
+    return 'https://www.economybookings.com/';
+  },
 };
 if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
 window.scrollTo(0, 0);
@@ -2068,6 +2088,7 @@ function extraComponentsHtml(d, skipHotel = false) {
       <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
         <a class="hotel-btn expedia-navy-btn" href="${expCarUrl}" target="_blank" rel="noopener">Expedia</a>
         <a class="hotel-btn dc-btn" href="${dcCarUrl}" target="_blank" rel="noopener">DiscoverCars</a>
+        <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
       </div>
     </div>`;
   }
@@ -2162,6 +2183,7 @@ function buildCarOnlyHtml(d) {
         <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
           <a class="hotel-btn expedia-navy-btn" href="${expediaUrl}" target="_blank" rel="noopener">Expedia</a>
           <a class="hotel-btn dc-btn" href="${dcUrl}" target="_blank" rel="noopener">DiscoverCars</a>
+          <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
         </div>
       </div>
     </div>
@@ -2518,6 +2540,9 @@ function buildResultsHtml(d, id) {
           const expUrl = retDate && !isReturn
             ? zercyUrls.expediaFlights(leg1, leg2, outDate, retDate, d.cabin)
             : zercyUrls.expediaFlights(leg1, leg2, flightDate, null, d.cabin);
+          const aviaUrl = retDate && !isReturn
+            ? zercyUrls.aviasalesFlights(origin, a.code, outDate, retDate)
+            : zercyUrls.aviasalesFlights(leg1, leg2, flightDate, null);
           const flightHeader = `✈ ${leg1} → ${leg2}`;
 
           if (a.isRoundtripSameAirport) {
@@ -2528,6 +2553,7 @@ function buildResultsHtml(d, id) {
                 <div class="flight-fallback-row">
                   <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">🔍 Google Flights ↗</a>
                   <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">🔍 Expedia ↗</a>
+                  <a class="flight-book-btn" style="background:#e0f2f1;color:#00897b;" href="${aviaUrl}" target="_blank" rel="noopener">🔍 Aviasales ↗</a>
                 </div>
               </div>
             </div>`;
@@ -2574,6 +2600,7 @@ function buildResultsHtml(d, id) {
                       <div class="flight-book-row">
                         <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">Google Flights ↗</a>
                         <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">Expedia ↗</a>
+                        <a class="flight-book-btn" style="background:#e0f2f1;color:#00897b;" href="${aviaUrl}" target="_blank" rel="noopener">Aviasales ↗</a>
                       </div>
                     </div>
                   `).join('')}
@@ -2589,6 +2616,7 @@ function buildResultsHtml(d, id) {
                 <div class="flight-fallback-row">
                   <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">🔍 Google Flights ↗</a>
                   <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">🔍 Expedia ↗</a>
+                  <a class="flight-book-btn" style="background:#e0f2f1;color:#00897b;" href="${aviaUrl}" target="_blank" rel="noopener">🔍 Aviasales ↗</a>
                 </div>
               </div>
             </div>`;
@@ -2627,6 +2655,7 @@ function buildResultsHtml(d, id) {
             <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
               <a class="hotel-btn expedia-navy-btn" href="${expUrl}" target="_blank" rel="noopener">Expedia</a>
               <a class="hotel-btn dc-btn" href="${dcCarBtn}" target="_blank" rel="noopener">DiscoverCars</a>
+              <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
             </div>
           </div>`;
         })() : ''}
