@@ -384,6 +384,15 @@ Diese Regel ist im `You NEVER:` Block am Ende des System Prompts verankert — g
 
 ---
 
+## ⚠️ CONTENT-STRATEGIE (Stand 2026-06-22 — WICHTIG, GSC-Reality-Check)
+
+**Massen-Publizieren ist VORBEI.** GSC zeigte: 2400 Seiten, Positionen 70-99, ~0 organische Klicks. Masse rankt nicht (junge Domain, Autorität fehlt) und ist riskant (Google „Scaled Content Abuse"). Neue Linie:
+- **Cadence: 1 richtig tiefer Flagship-Artikel alle ~2 Tage, ×3 Sprachen** (nicht 50/Tag). Bei „mach 50 Blogs"-Anfragen freundlich auf den GSC-Befund hinweisen.
+- **Gewinner-Format = Entscheidungs-Artikel „X lohnt sich? / worth it / vale la pena"** (Modell: Booking-Genius = Top-Performer). Hohe Kaufabsicht, wenig Konkurrenz, AI-Overview-fähig, **monetarisiert via Booking-Affiliate**.
+- **Flagship-Qualität:** TL;DR-Antwortbox als erstes Element (für Google AI Overviews/Snippets), echte Zahlen, Entscheidungs-Framework („Nimm X wenn… / Nimm Y wenn…"), 1100-1400 Wörter.
+- **Echter Engpass = Autorität/Backlinks** (ohne E-Mails): Product-Hunt-Launch, AI-Tool-/Startup-Verzeichnisse (Formulare), reaktive PR (Featured/Qwoted/HARO, Claude schreibt Zitate), Reddit/Quora. Details in Memory `project_zercy_seo_reality_check.md`.
+- **Booking-Affiliate-aid:** zentral in `src/config/affiliates.js` (`BOOKING_AID`) → 1 Zeile aktiviert alle Booking-CTAs.
+
 ## Blog-Artikel — Vollständige Checkliste (IMMER anwenden, ohne Aufforderung)
 
 Wenn ein neuer Blog-Artikel für Zercy geschrieben wird, MÜSSEN alle folgenden Punkte automatisch erfüllt sein — ohne dass Christine danach fragen muss.
