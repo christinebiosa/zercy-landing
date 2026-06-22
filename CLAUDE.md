@@ -397,6 +397,21 @@ Prinzip: vorhandenen Content monetarisieren, leichte Freigabe zuerst, geo-/dreis
 - **Echter Engpass = Autorität/Backlinks** (ohne E-Mails): Product-Hunt-Launch, AI-Tool-/Startup-Verzeichnisse (Formulare), reaktive PR (Featured/Qwoted/HARO, Claude schreibt Zitate), Reddit/Quora. Details in Memory `project_zercy_seo_reality_check.md`.
 - **Booking-Affiliate (CJ):** Bewerbung PENDING seit 2026-06-22. Code vorbereitet (dormant) — nach Freigabe `BOOKING_CJ_PID` in `src/config/affiliates.js` UND `src/layouts/ZercyLayout.astro` setzen (siehe Abschnitt „Booking.com Affiliate"). NICHT `?aid=`.
 
+### 💰 AFFILIATE-VERLINKUNG IN ARTIKELN (PFLICHT bei jedem neuen Artikel)
+Travelpayouts **Drive** (Script im `<head>`, Marker 542440) wandelt jeden Link zu einer verbundenen Partner-Marke automatisch in einen getrackten Affiliate-Link um (verifiziert 2026-06-22). **Darum: in JEDEN neuen Artikel logische Affiliate-Links setzen.**
+- **Dichte (Marketing-Studie):** **2,4 Affiliate-Links pro Artikel** (~1200 W.), kontextuell, nur 1× pro Marke, beim ersten passenden Vorkommen. NICHT stopfen (Google straft Affiliate-Überladung = „Scaled Content Abuse").
+- **Keyword → Partner-Domain** (verbundene Programme, einfach den Markennamen/Begriff als Markdown-Link setzen, Drive trackt):
+  - eSIM → `https://www.airalo.com/` (auch Yesim `yesim.app`, Saily `saily.com`)
+  - VPN → `https://nordvpn.com/`
+  - Gepäckaufbewahrung/luggage storage/guardar equipaje → `https://radicalstorage.com/`
+  - Flughafentransfer/airport transfer/traslado → `https://www.welcomepickups.com/`
+  - Reiseversicherung/travel insurance/seguro de viaje → `https://ektatraveling.com/`
+  - Flugentschädigung/flight compensation/compensación → `https://www.airhelp.com/`
+  - City Pass → `https://gocity.com/` · Aktivitäten/Tickets → `https://www.tiqets.com/` · Touren → `https://www.klook.com/`
+- **`rel="sponsored nofollow"`** kommt automatisch (astro.config `AFFILIATE_HOSTS` + rehype). Neue Partner-Domain dort ergänzen.
+- **Retrofit-Script** (idempotent, fasst bestehende Links nicht an): `node scripts/inject-affiliate-links.mjs` — nach jedem neuen Blog-Batch laufen lassen, fängt Keyword-Erwähnungen ohne Link ab. `--dry` für Vorschau. Stand 2026-06-22: 232 Links in 215 Artikel gesetzt.
+- **NICHT** zu Booking/GetYourGuide/Viator/Trip.com/Agoda verlinken, solange die NICHT auf TP verbunden sind (Drive trackt sie sonst nicht). Booking läuft separat über CJ.
+
 ## Blog-Artikel — Vollständige Checkliste (IMMER anwenden, ohne Aufforderung)
 
 Wenn ein neuer Blog-Artikel für Zercy geschrieben wird, MÜSSEN alle folgenden Punkte automatisch erfüllt sein — ohne dass Christine danach fragen muss.
