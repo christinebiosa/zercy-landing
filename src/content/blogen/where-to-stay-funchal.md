@@ -71,7 +71,7 @@ And the toboggan. The traditional wicker basket sleds with straw runners and whi
 
 São Martinho lies west of the Lido, between the city edge and the airport road. Not a tourist neighborhood. Local bakeries, supermarkets, fish restaurants without tourist prices. The Levada do Moinho starts here into the mountains.
 
-If you already know Madeira and don't want to stay in the hotel zone bustle, this area works well. With a rental car, which you can plan ahead using our [rental car guide](/en/blog/rental-car-checklist/), Funchal center is 10 minutes away.
+If you already know Madeira and don't want to stay in the hotel zone bustle, this area works well. With a [rental car](https://www.economybookings.com/), which you can plan ahead using our [rental car guide](/en/blog/rental-car-checklist/), Funchal center is 10 minutes away.
 
 **Who it suits:** Budget travelers, repeat visitors, longer stays.
 

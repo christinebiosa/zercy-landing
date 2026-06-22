@@ -69,7 +69,7 @@ If you're using Nicosia as a base for day trips, the guide on [where to stay in 
 
 ## Strovolos: Family-Friendly and Budget-Conscious
 
-Strovolos is not a tourist area. It's everyday suburban Nicosia: shopping centers, supermarkets, local schools. For families with a rental car and longer stays, it makes sense. Hotel prices are lower, chain options better, parking easy.
+Strovolos is not a tourist area. It's everyday suburban Nicosia: shopping centers, supermarkets, local schools. For families with a [rental car](https://www.economybookings.com/) and longer stays, it makes sense. Hotel prices are lower, chain options better, parking easy.
 
 - **AlexanderThe Great Hotel:** Comfortable mid-range hotel, family-friendly setup, parking on site. Practical for road-trip travelers.
 - **Budget hotels and apartments in Strovolos:** Several well-reviewed options listed from €55 on Booking.com.

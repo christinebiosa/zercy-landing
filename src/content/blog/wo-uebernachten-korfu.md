@@ -89,7 +89,7 @@ Die Korfu-Altstadt (Kerkyra) ist für Erstbesucher die beste Wahl. Du hast alles
 Mai und Oktober bieten das beste Preis-Leistungs-Verhältnis. Die Hotels kosten oft 30-40% weniger als im Juli und August, das Wetter ist angenehm warm (20-25 Grad), und die Strände sind deutlich leerer.
 
 ### Wie weit ist Korfu von der Altstadt zu den Stränden?
-Paleokastritsa liegt rund 25 Kilometer westlich, Glyfada 15 Kilometer. Mit Mietwagen oder Motorroller schaffst du die Strecke in 20-35 Minuten. Busverbindungen gibt es, sie sind aber unregelmäßig. Ein Mietwagen lohnt sich für mehr als 3 Tage fast immer.
+Paleokastritsa liegt rund 25 Kilometer westlich, Glyfada 15 Kilometer. Mit [Mietwagen](https://www.economybookings.com/) oder Motorroller schaffst du die Strecke in 20-35 Minuten. Busverbindungen gibt es, sie sind aber unregelmäßig. Ein Mietwagen lohnt sich für mehr als 3 Tage fast immer.
 
 ### Wo auf Korfu übernachten für romantische Paare?
 Das Boutique-Hotel Sierra Vittoria in der Altstadt oder das Alkyon Hotel in Paleokastritsa sind erste Wahl für Paare. Wer noch abgelegener und luxuriöser wohnen will: Die Gegend um Kassiopi im Norden hat einige Ferienhäuser und kleine Hotels mit privatem Pool.

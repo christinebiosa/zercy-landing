@@ -23,7 +23,7 @@ Here is the honest breakdown: 5 neighborhoods, what they cost, who they suit.
 
 **Žnjan:** Modern beach hotels, pools, quiet position on the edge of the city. For sun lovers and those seeking a resort feel.
 
-**Trogir corridor (outside the city):** Holiday houses and small hotels north of Split. For island hoppers, rental car travelers, and anyone who needs more space.
+**Trogir corridor (outside the city):** Holiday houses and small hotels north of Split. For island hoppers, [rental car](https://www.economybookings.com/) travelers, and anyone who needs more space.
 
 ## Stari Grad (Diocletian's Palace): Sleeping Inside the Ruins
 

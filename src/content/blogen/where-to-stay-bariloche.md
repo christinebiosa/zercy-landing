@@ -31,7 +31,7 @@ Av. Bustillo is the backbone of Bariloche's tourism infrastructure. Hotels along
 
 ## What Area Is Best for Families?
 
-Families with children do best in the city center or the nearby lakeshore zone. Everything is walkable or a short bus ride: ice cream shops, chocolate stores, the waterfront, playgrounds. Summer brings boat trips directly from the shore. In winter, staying near Cerro Catedral makes sense if skiing is the main agenda, but that requires a car or daily shuttles for everything else. The Llao Llao peninsula is too isolated for families without a rental car.
+Families with children do best in the city center or the nearby lakeshore zone. Everything is walkable or a short bus ride: ice cream shops, chocolate stores, the waterfront, playgrounds. Summer brings boat trips directly from the shore. In winter, staying near Cerro Catedral makes sense if skiing is the main agenda, but that requires a car or daily shuttles for everything else. The Llao Llao peninsula is too isolated for families without a [rental car](https://www.economybookings.com/).
 
 ## City Center: Where Life Happens
 

@@ -59,7 +59,7 @@ Die Schultermonate April bis Mai und September bis Oktober bieten vernünftiges 
 - **November:** Ausgezeichnet. Trails offen, noch nicht überfüllt, gutes Wetter.
 - **Dezember:** Sommer beginnt. Weihnachtsstress. Alles früh buchen.
 
-Ein wichtiger praktischer Hinweis: Neuseeland ist kein günstiges Reiseziel. Flüge aus Europa kosten locker 1.200 bis 2.000 Euro, Unterkünfte und Mietwagen sind teuer. Gerade deshalb lohnt es sich, den richtigen Zeitpunkt sorgfältig zu wählen. Ein Rundtrip im März statt im Januar kann mehrere Hundert Euro sparen, bei fast gleichem Wetter.
+Ein wichtiger praktischer Hinweis: Neuseeland ist kein günstiges Reiseziel. Flüge aus Europa kosten locker 1.200 bis 2.000 Euro, Unterkünfte und [Mietwagen](https://www.economybookings.com/) sind teuer. Gerade deshalb lohnt es sich, den richtigen Zeitpunkt sorgfältig zu wählen. Ein Rundtrip im März statt im Januar kann mehrere Hundert Euro sparen, bei fast gleichem Wetter.
 
 Du planst Neuseeland als Teil einer längeren Pazifik-Reise oder willst die Saison vergleichen? Unser [Beste Reisezeit Bali](/blog/beste-reisezeit-bali/) ist ein ähnlicher Südhalbkugel-Tipp, der sich gut kombinieren lässt.
 

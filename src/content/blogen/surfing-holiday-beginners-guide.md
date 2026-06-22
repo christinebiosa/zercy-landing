@@ -40,7 +40,7 @@ If you want to explore Moroccan cities too, our [Marrakech accommodation guide](
 
 Fuerteventura is known among European surf schools as one of the best learning locations on the continent. The island has consistent wind and waves. For beginners, the northeast beaches around Corralejo and El Cotillo beach are perfect: wide bays, gentle waves, no reefs.
 
-The biggest advantage: no long-haul flight needed. Direct flights from Germany in 2-3 hours. Rental car and affordable apartment: surfing without a world-trip budget.
+The biggest advantage: no long-haul flight needed. Direct flights from Germany in 2-3 hours. [Rental car](https://www.economybookings.com/) and affordable apartment: surfing without a world-trip budget.
 
 **Surf course costs Fuerteventura:** Day course 60-90 EUR. Week course (5 days) 250-400 EUR without accommodation. Surf camp all-inclusive 500-900 EUR per week.
 

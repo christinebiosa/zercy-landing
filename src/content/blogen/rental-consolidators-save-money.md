@@ -30,7 +30,7 @@ Three reasons that stack up.
 
 ## Which consolidators are the best?
 
-[DiscoverCars](https://www.discovercars.com/) is one of the largest rental car consolidators worldwide. They compare over 500 providers in more than 10,000 cities, from big chains to local family operations. What stands out: free cancellation up to 48 hours before pickup on most rates, and prices include basic liability insurance. Unless you are already a Sixt loyalty customer, a comparison click there almost always pays off.
+[DiscoverCars](https://www.discovercars.com/) is one of the largest [rental car](https://www.economybookings.com/) consolidators worldwide. They compare over 500 providers in more than 10,000 cities, from big chains to local family operations. What stands out: free cancellation up to 48 hours before pickup on most rates, and prices include basic liability insurance. Unless you are already a Sixt loyalty customer, a comparison click there almost always pays off.
 
 [AutoEurope](https://www.autoeurope.com/) is the Europe classic, in business for over 60 years. Strong on luxury and specialty vehicles (convertibles, wagons, vans).
 

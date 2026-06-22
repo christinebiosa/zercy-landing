@@ -131,7 +131,7 @@ Preise sind niedrig für europäische Verhältnisse: Gute Guesthouses ab 40-60 E
 
 ### Wie kommt man vom Flughafen ins Stadtzentrum?
 
-Der Flughafen Sarajevo liegt 6 Kilometer südwestlich des Zentrums. Taxi kostet 15-20 EUR, Fahrzeit 15-20 Minuten ohne Stau. Buslinie 31a verbindet Flughafen mit dem Stadtzentrum für ca. 0,90 EUR. Mietwagen: praktisch wenn du auch Ausflüge nach Mostar oder Trebević planst.
+Der Flughafen Sarajevo liegt 6 Kilometer südwestlich des Zentrums. Taxi kostet 15-20 EUR, Fahrzeit 15-20 Minuten ohne Stau. Buslinie 31a verbindet Flughafen mit dem Stadtzentrum für ca. 0,90 EUR. [Mietwagen](https://www.economybookings.com/): praktisch wenn du auch Ausflüge nach Mostar oder Trebević planst.
 
 ---
 

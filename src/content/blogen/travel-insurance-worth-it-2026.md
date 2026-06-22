@@ -36,7 +36,7 @@ When it doesn't pay off: short-notice bookings, free-cancellation options (hotel
 
 **Trip interruption insurance.** Pays out if you have to cut the trip short. Useful for trips over 2 weeks. Often included in cancellation packages.
 
-**Rental car CDW with no deductible.** When booking a rental car, two paths exist. Take expensive collision damage waiver at the counter (often $25 to $40 per day) or a separate rental car insurance through providers like [Allianz Travel](https://www.allianztravelinsurance.com/) or RentalCover.com (often $60 to $100 per year for unlimited rentals).
+**[Rental car](https://www.economybookings.com/) CDW with no deductible.** When booking a rental car, two paths exist. Take expensive collision damage waiver at the counter (often $25 to $40 per day) or a separate rental car insurance through providers like [Allianz Travel](https://www.allianztravelinsurance.com/) or RentalCover.com (often $60 to $100 per year for unlimited rentals).
 
 See our [rental car checklist](/en/blog/rental-car-checklist/) on this topic.
 

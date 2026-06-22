@@ -45,7 +45,7 @@ The [official Italian tourism board](https://www.italia.it/en/puglia) has a comp
 
 May, June and September are ideal. Water warm enough to swim (72-79°F), but no 100°F heat like July and August. Puglia is one of Italy's hottest regions in high summer.
 
-July and August are crowded and expensive. Hotels triple their prices, beaches are overrun, rental cars get scarce. Avoid these months if you can.
+July and August are crowded and expensive. Hotels triple their prices, beaches are overrun, [rental cars](https://www.economybookings.com/) get scarce. Avoid these months if you can.
 
 October and April work too, especially for city trips. Swimming isn't always possible anymore, but burrata tastes great year-round.
 

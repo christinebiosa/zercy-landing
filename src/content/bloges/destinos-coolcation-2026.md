@@ -27,7 +27,7 @@ El trío clásico. Oslo, Estocolmo y Helsinki tienen temperaturas veraniegas de 
 
 **Islandia**
 
-Temperaturas medias de verano en Reikiavik: 11-14 grados. Demasiado frío para algunos, perfecto para otros. La ventaja: 24 horas de luz en junio y julio, sin mosquitos, paisajes únicos. Excursiones por glaciares, piscinas termales al aire libre (Laguna Azul, Sky Lagoon), rutas de cascadas, avistamiento de ballenas. Islandia no es barata en verano, pero con un buen coche de alquiler y camping se hace asequible. Nuestra [guía de viaje a Islandia](/es/blog/islandia-guia-viaje/) explica cómo aprovechar dos semanas.
+Temperaturas medias de verano en Reikiavik: 11-14 grados. Demasiado frío para algunos, perfecto para otros. La ventaja: 24 horas de luz en junio y julio, sin mosquitos, paisajes únicos. Excursiones por glaciares, piscinas termales al aire libre (Laguna Azul, Sky Lagoon), rutas de cascadas, avistamiento de ballenas. Islandia no es barata en verano, pero con un buen [coche de alquiler](https://www.economybookings.com/) y camping se hace asequible. Nuestra [guía de viaje a Islandia](/es/blog/islandia-guia-viaje/) explica cómo aprovechar dos semanas.
 
 **Los Alpes: Austria, Suiza, Tirol del Sur**
 

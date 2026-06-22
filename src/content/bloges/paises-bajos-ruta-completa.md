@@ -29,7 +29,7 @@ En bicicleta para distancias cortas dentro de las ciudades y entre lugares cerca
 
 Para distancias largas: NS (Nederlandse Spoorwegen) tiene una de las redes ferroviarias más densas del mundo. Ámsterdam a Róterdam: 40 minutos. Róterdam a La Haya: 25 minutos. Todas las conexiones de intercity salen varias veces por hora.
 
-Un coche de alquiler tiene sentido para excursiones fuera de las ciudades (región de Keukenhof, Islas Wadden), pero en las ciudades es contraproducente.
+Un [coche de alquiler](https://www.economybookings.com/) tiene sentido para excursiones fuera de las ciudades (región de Keukenhof, Islas Wadden), pero en las ciudades es contraproducente.
 
 ## ¿Cuándo es la mejor época para visitar los Países Bajos?
 

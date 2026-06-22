@@ -69,7 +69,7 @@ Wer Nikosia als Ausgangspunkt nutzt und Tagesausflüge plant, schaut sich auch [
 
 ## Strovolos: Familienfreundlich und budgetbewusst
 
-Strovolos ist kein touristisches Viertel. Es ist das echte Suburban-Nikosia: Einkaufszentren, Supermärkte, Tankstellen, Schulen. Für Familien mit Mietwagen und längeren Aufenthalten macht das Sinn. Die Hotelpreise sind niedriger, das Angebot an Ketten besser.
+Strovolos ist kein touristisches Viertel. Es ist das echte Suburban-Nikosia: Einkaufszentren, Supermärkte, Tankstellen, Schulen. Für Familien mit [Mietwagen](https://www.economybookings.com/) und längeren Aufenthalten macht das Sinn. Die Hotelpreise sind niedriger, das Angebot an Ketten besser.
 
 - **AlexanderThe Great Hotel:** Angenehmes Mittelklassehotel, Familienangebot, Parkplatz. Praktisch für Reisende mit Auto.
 - **Budgethotels und Apartments Strovolos:** Mehrere gelistete Unterkunftsoptionen ab 55 EUR auf Booking.com.

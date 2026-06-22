@@ -63,7 +63,7 @@ Ensalada Shopska (tomates, pepino, pimientos, queso blanco), Banitsa (hojaldre c
 
 ### ¿Cómo moverse por Bulgaria?
 
-Entre Sofía y Plovdiv: tren o autobús, 2 horas, muy económico. Para la costa y el Monasterio de Rila: coche de alquiler o autobuses. Vuelos a Sofía desde muchos aeropuertos europeos con Ryanair y Wizz Air desde 30 a 70 euros.
+Entre Sofía y Plovdiv: tren o autobús, 2 horas, muy económico. Para la costa y el Monasterio de Rila: [coche de alquiler](https://www.economybookings.com/) o autobuses. Vuelos a Sofía desde muchos aeropuertos europeos con Ryanair y Wizz Air desde 30 a 70 euros.
 
 ---
 

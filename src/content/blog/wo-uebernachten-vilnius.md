@@ -73,7 +73,7 @@ Wer Vilnius mit Riga kombiniert, findet im [Stadtführer Riga](/blog/wo-uebernac
 
 Žvėrynas liegt westlich der Altstadt jenseits der Neris. Villen, breite Alleen, Parks am Fluss. Das klassische gehobene Wohnviertel für Botschaftspersonal und Diplomaten. Kaum Tourismus, keine Souvenirläden, keine Partys. Dafür: Ruhe, gutes Frühstücks-Café-Angebot an den Hauptstraßen, gute Verbindungen per Bus in die Altstadt (10-15 Minuten).
 
-**Wer hier richtig liegt:** Familien, Reisende mit Mietwagen, alle die vier oder mehr Nächte bleiben.
+**Wer hier richtig liegt:** Familien, Reisende mit [Mietwagen](https://www.economybookings.com/), alle die vier oder mehr Nächte bleiben.
 
 **Preis-Spanne:** Budget 55-85 Euro, Mittelklasse 90-160 Euro.
 

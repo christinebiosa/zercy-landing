@@ -54,7 +54,7 @@ The ultralight option. Under 200 g, fully taped seams, Gore-Tex Infinium. For gr
 
 Travelers ask this more than you'd think. Both keep the rain out. The difference is context.
 
-A hardshell (like all seven models above) is a jacket with sleeves, collar, hood and zips. You wear it like a normal jacket. Ideal whenever mobility counts - hiking, city exploring, loading a rental car.
+A hardshell (like all seven models above) is a jacket with sleeves, collar, hood and zips. You wear it like a normal jacket. Ideal whenever mobility counts - hiking, city exploring, loading a [rental car](https://www.economybookings.com/).
 
 A rain poncho covers more, costs less, weighs almost nothing. Fine for festivals, tourist bus tours, quick day trips. Bad in wind and worse if you actually need to move.
 

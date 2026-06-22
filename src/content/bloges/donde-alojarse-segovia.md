@@ -23,7 +23,7 @@ Segovia es una ciudad compacta. No hay barrios extensos con caracteres radicalme
 
 ## ¿Dónde alojarse en el casco histórico y cerca del acueducto?
 
-El corazón de Segovia va desde el acueducto al este hasta el Alcázar al oeste. Aquí están la catedral, los mejores restaurantes y los monumentos principales. Alojarse aquí significa que puedes prescindir del coche de alquiler.
+El corazón de Segovia va desde el acueducto al este hasta el Alcázar al oeste. Aquí están la catedral, los mejores restaurantes y los monumentos principales. Alojarse aquí significa que puedes prescindir del [coche de alquiler](https://www.economybookings.com/).
 
 Estos y más de 100 hoteles en Segovia los encuentras en [Booking.com](https://www.booking.com/city/es/segovia.html) con filtros por ubicación y valoraciones de huéspedes.
 

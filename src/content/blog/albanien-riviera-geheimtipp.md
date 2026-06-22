@@ -23,7 +23,7 @@ Das Wasser. Türkisklar, oft mit Sicht bis 20 Meter. Felsige Buchten und verstec
 
 Die Berge. Die Ceraunischen Berge fallen direkt ins Meer. Du fährst auf der Küstenstraße SH8, einer der spektakulärsten Routen Europas. Steile Serpentinen, atemberaubende Aussichten.
 
-Die Preise. Restaurant-Hauptgang: 5 bis 12 Euro. Hotel-Doppelzimmer am Strand: 40 bis 80 Euro. Mietwagen für eine Woche: 200 bis 300 Euro. Eine Woche Riviera kostet weniger als ein Wochenende auf Mallorca.
+Die Preise. Restaurant-Hauptgang: 5 bis 12 Euro. Hotel-Doppelzimmer am Strand: 40 bis 80 Euro. [Mietwagen](https://www.economybookings.com/) für eine Woche: 200 bis 300 Euro. Eine Woche Riviera kostet weniger als ein Wochenende auf Mallorca.
 
 ## Welche Orte solltest du besuchen?
 

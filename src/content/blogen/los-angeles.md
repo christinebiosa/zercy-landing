@@ -53,7 +53,7 @@ The I-405 is a parking lot from 7am to 7pm on weekdays. Plan accordingly. Use Wa
 ## Practical Info
 
 - **Direct flights** from major European cities to LAX (approx. 11–12 hours). Consider flying into Burbank (BUR) or Long Beach (LGB) — smaller airports, faster immigration, often similar prices.
-- **Car rental**: Book early. Prices at LAX are high. Book through a comparison site and use a card that includes rental coverage — see [10 Things to Check Before You Drive Off in a Rental Car](/en/blog/rental-car-checklist/).
+- **[Car rental](https://www.economybookings.com/)**: Book early. Prices at LAX are high. Book through a comparison site and use a card that includes rental coverage — see [10 Things to Check Before You Drive Off in a Rental Car](/en/blog/rental-car-checklist/).
 - **Minimum 7 days**, ideally 10. Everything takes time here. The distances between neighborhoods that look close on a map are genuinely long in traffic.
 - **Best time to visit**: May–October. Winters are mild, but June mornings are often grey and foggy (June Gloom). September and October are the best months — warm, clear, lower crowds.
 

@@ -14,7 +14,7 @@ Zwölf Monate, zwölf perfekte Reiseziele. Diesen Guide brauchst du, wenn du nic
 Nicht jedes Reiseziel ist das ganze Jahr über gleich gut. In Südostasien gibt es Regenzeit. Europas Sommer ist teuer und voll. Der Trick: antizyklisch reisen. Weniger Touristen, bessere Preise, und das Wetter passt trotzdem.
 
 **Januar: Costa Rica**
-Januar ist Hochsaison in Costa Rica, die Trockenzeit beginnt. Guanacaste und die Pazifikküste zeigen sich von der besten Seite. Temperaturen um 28 Grad, kaum Regen. Ein [Costa Rica Roadtrip](/blog/costa-rica-rundreise-route/) kostet im Januar ab ca. 80 Euro pro Tag für zwei Personen inklusive Unterkunft und Mietwagen. Perfekt für Naturliebhaber und Surfer.
+Januar ist Hochsaison in Costa Rica, die Trockenzeit beginnt. Guanacaste und die Pazifikküste zeigen sich von der besten Seite. Temperaturen um 28 Grad, kaum Regen. Ein [Costa Rica Roadtrip](/blog/costa-rica-rundreise-route/) kostet im Januar ab ca. 80 Euro pro Tag für zwei Personen inklusive Unterkunft und [Mietwagen](https://www.economybookings.com/). Perfekt für Naturliebhaber und Surfer.
 
 **Februar: Marokko**
 Februar ist einer der besten Monate für Marokko. In Marrakesch liegen die Temperaturen bei angenehmen 18-22 Grad, der Regen ist selten. Die Touristenströme halten sich in Grenzen. Du kannst einen [Marokko Städtetrip](/blog/marokko-staedte-guide/) mit Marrakesch, Fès und Chefchaouen für unter 60 Euro täglich machen. Dazu kommen die schneebedeckten Atlas-Berge als Kulisse.

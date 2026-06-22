@@ -77,7 +77,7 @@ San Felipe del Agua está en las laderas de la Sierra Norte, al norte de la ciud
 
 **Precios:** Casas de vacaciones y villas desde 165 USD, propiedades de lujo 320-660 USD. Más casas de alquiler que hoteles tradicionales, disponibles en Booking.com o Airbnb.
 
-**Importante:** Necesitas coche de alquiler o taxis frecuentes. Calcula entre 5-9 USD por viaje al centro.
+**Importante:** Necesitas [coche de alquiler](https://www.economybookings.com/) o taxis frecuentes. Calcula entre 5-9 USD por viaje al centro.
 
 ## ¿Dónde Conviene Reservar al Final?
 

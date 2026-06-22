@@ -23,7 +23,7 @@ Bottom line: if you want a dedicated aurora hunt with guides and infrastructure,
 
 Both are among Europe's most expensive destinations. But there are differences:
 
-**Iceland:** A mid-range hotel in Reykjavik runs 150-250 euros per night. A day trip on the Golden Circle (Geysir, Gullfoss, Thingvellir) by rental car including entry fees: 80-120 euros. Restaurant meals: 25-45 euros per dish. Fuel costs on the Ring Road hit hard because petrol stations are sparse. Total budget for 7 days, comfortable: 1,800-2,500 euros per person.
+**Iceland:** A mid-range hotel in Reykjavik runs 150-250 euros per night. A day trip on the Golden Circle (Geysir, Gullfoss, Thingvellir) by [rental car](https://www.economybookings.com/) including entry fees: 80-120 euros. Restaurant meals: 25-45 euros per dish. Fuel costs on the Ring Road hit hard because petrol stations are sparse. Total budget for 7 days, comfortable: 1,800-2,500 euros per person.
 
 **Norway:** An Airbnb in the fjord region starts at 90-130 euros per night. Ferry crossings for fjord hops are moderate (10-25 euros), and public transit in Bergen and Tromsø is good. Food prices match Iceland. Rental cars are comparable. Total budget for 7 days, comfortable: 1,600-2,300 euros per person.
 

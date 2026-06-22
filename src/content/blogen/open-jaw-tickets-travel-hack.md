@@ -14,7 +14,7 @@ There is a better way. It is called an open-jaw ticket.
 
 ## What is an open-jaw ticket?
 
-An open-jaw ticket is a flight where your arrival city and departure city are different. You fly into City A and return from City B. The stretch between them is yours to cover by train, rental car or bus.
+An open-jaw ticket is a flight where your arrival city and departure city are different. You fly into City A and return from City B. The stretch between them is yours to cover by train, [rental car](https://www.economybookings.com/) or bus.
 
 Example: Frankfurt to Lisbon (outbound), Madrid to Frankfurt (return). You land in Portugal, travel through Spain and fly home from there. No backtracking. No wasted day.
 

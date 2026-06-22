@@ -72,7 +72,7 @@ Use [Zercy](https://www.zercy.app) to compare flight prices for different travel
 October, February and March are statistically the best months for aurora activity, combined with a reasonable number of daylight hours for sightseeing. September and November also fall within the aurora season but tend to be cloudier. Clear skies matter more than the calendar date.
 
 ### When is Iceland most expensive to visit?
-July is peak season and the most expensive month across hotels, tours and rental cars. June and August are close behind. The cheapest period is January and February, followed by shoulder months like May, October and early November.
+July is peak season and the most expensive month across hotels, tours and [rental cars](https://www.economybookings.com/). June and August are close behind. The cheapest period is January and February, followed by shoulder months like May, October and early November.
 
 ### What should you pack for Iceland in winter?
 Waterproof outer layers (both jacket and trousers), thermal base layers, wool mid-layer, insulated gloves rated below freezing and waterproof ankle-high boots. Conditions change fast. Rain gear applies in every season. Microspikes for boots are worth adding for winter visits when pavements and parking lots ice over.

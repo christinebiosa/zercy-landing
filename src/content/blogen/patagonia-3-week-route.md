@@ -11,7 +11,7 @@ bookingDest: "Patagonia"
 
 Patagonia is the region at the end of the world. 386,000 square miles of wilderness, divided between Argentina (two-thirds) and Chile (one-third). Granite peaks rising vertically from steppe, glaciers calving into the sea, penguins walking around for hours. But Patagonia is also: 8 hours of bus between sights, weather changing from sun to snowstorm in 30 minutes, and distances that overwhelm you if you underestimate them.
 
-Here's the honest 3-week route. With real stages, real rental car costs, real bus realities.
+Here's the honest 3-week route. With real stages, real [rental car](https://www.economybookings.com/) costs, real bus realities.
 
 ## When is the best time to visit Patagonia?
 

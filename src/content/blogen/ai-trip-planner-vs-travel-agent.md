@@ -32,7 +32,7 @@ We've already covered [how AI is changing travel planning](/en/blog/ai-changing-
 
 **Group travel.** 14 people, three different departure cities, varying budgets, one shared destination. That's coordination work requiring patience, experience, and personal communication. A travel consultant can mediate between competing wishes. AI delivers options, but it doesn't negotiate with your mother-in-law about the hotel.
 
-**Insurance advice.** Trip cancellation insurance, international health coverage, rental car waivers: [according to Lonely Planet](https://www.lonelyplanet.com/articles/top-tips-for-budget-travel), one of the areas travelers misjudge most frequently. A good consultant knows the pitfalls and recommends the right package. AI can compare policies, but individual risk assessment remains a human strength.
+**Insurance advice.** Trip cancellation insurance, international health coverage, [rental car](https://www.economybookings.com/) waivers: [according to Lonely Planet](https://www.lonelyplanet.com/articles/top-tips-for-budget-travel), one of the areas travelers misjudge most frequently. A good consultant knows the pitfalls and recommends the right package. AI can compare policies, but individual risk assessment remains a human strength.
 
 ## Where it's a tie
 

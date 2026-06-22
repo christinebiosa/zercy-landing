@@ -40,7 +40,7 @@ Transport: Florenz lässt sich fast vollständig zu Fuß erkunden. In Rom brauch
 
 Rom liegt gut für Ausflüge nach Tivoli (Villa d'Este, UNESCO-Welterbe, 60-90 Minuten per Bus), in die Albaner Berge oder nach Pompeji (2,5-3 Stunden per Zug, Eintritt 18 Euro). Der Vesuvio-Nationalpark ist von Pompeji aus erreichbar. Wer nach Neapel möchte, nimmt den Hochgeschwindigkeitszug: unter 1,5 Stunden für 15-25 Euro.
 
-Florenz ist für Toskana-Ausflüge unschlagbar. Siena liegt 1,5 Stunden entfernt, San Gimignano 1,5-2 Stunden. Das Chianti-Gebiet für Weinverkostungen ist mit dem Mietwagen in 30-45 Minuten erreichbar. Lucca und Pisa (jeweils 1-1,5 Stunden per Zug) runden das Angebot ab.
+Florenz ist für Toskana-Ausflüge unschlagbar. Siena liegt 1,5 Stunden entfernt, San Gimignano 1,5-2 Stunden. Das Chianti-Gebiet für Weinverkostungen ist mit dem [Mietwagen](https://www.economybookings.com/) in 30-45 Minuten erreichbar. Lucca und Pisa (jeweils 1-1,5 Stunden per Zug) runden das Angebot ab.
 
 Mehr Infos zum Bereich: [Wo übernachten in Rom](/blog/wo-uebernachten-rom/) und [48 Stunden Rom](/blog/48-stunden-rom/) helfen bei der Planung. Für die Toskana lohnt sich auch ein Blick auf [Beste Reisezeit Italien](/blog/beste-reisezeit-italien/).
 

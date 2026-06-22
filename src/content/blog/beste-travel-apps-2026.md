@@ -30,7 +30,7 @@ Vier unverzichtbare Tools für die Reise selbst.
 
 **Airalo ([eSIM](https://www.airalo.com/)).** Statt teurer Roaming-Gebühren kaufst du in der App eine virtuelle SIM-Karte für dein Reiseziel. 30 Tage Daten in Italien: 13 Euro. In Bali: 11 Euro. Aktivierung in 5 Minuten, kein physischer SIM-Wechsel.
 
-**Splitwise.** Wenn du in einer Gruppe reist. App teilt automatisch Ausgaben (Hotel, Restaurant, Mietwagen) und zeigt am Ende, wer wem was schuldet. Vermeidet die "wer zahlt was" Diskussionen.
+**Splitwise.** Wenn du in einer Gruppe reist. App teilt automatisch Ausgaben (Hotel, Restaurant, [Mietwagen](https://www.economybookings.com/)) und zeigt am Ende, wer wem was schuldet. Vermeidet die "wer zahlt was" Diskussionen.
 
 **TooGoodToGo.** App gegen Lebensmittelverschwendung. Restaurants und Bäckereien verkaufen übrig gebliebenes Essen am Abend zu 50-70 Prozent Rabatt. In Lissabon, Berlin, Paris bekommst du Top-Restaurants für 4-8 Euro statt 25.
 

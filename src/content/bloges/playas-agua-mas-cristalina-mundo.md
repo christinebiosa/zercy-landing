@@ -77,4 +77,4 @@ El agua somera con fondo de arena clara o caliza refleja la luz: eso produce el 
 La temporada intermedia (mayo-junio y septiembre para Europa; noviembre-abril para el Sudeste Asiático y el Pacífico) ofrece la mejor combinación de claridad del agua y menos masificación. En pleno verano el agua sigue siendo clara, pero las playas están más llenas y los precios son más altos.
 
 ### ¿Cuáles son las playas de aguas cristalinas más fáciles de alcanzar?
-Whitehaven Beach en Australia y Seven Mile Beach en Gran Caimán están bien comunicadas con infraestructura turística sólida. La Pelosa en Cerdeña es accesible en coche de alquiler desde Alguer en 40 minutos. Las opciones filipinas (El Nido, Coron) requieren vuelos domésticos pero son logísticamente sencillas.
+Whitehaven Beach en Australia y Seven Mile Beach en Gran Caimán están bien comunicadas con infraestructura turística sólida. La Pelosa en Cerdeña es accesible en [coche de alquiler](https://www.economybookings.com/) desde Alguer en 40 minutos. Las opciones filipinas (El Nido, Coron) requieren vuelos domésticos pero son logísticamente sencillas.

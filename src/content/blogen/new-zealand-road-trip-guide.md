@@ -32,7 +32,7 @@ For rental comparisons — cars and campervans both — [DiscoverCars](https://w
 
 | Option | Vehicle/day | Accommodation | Total/day |
 |--------|-------------|---------------|-----------|
-| Rental car + hostel | NZD 50–80 | NZD 30–45 | NZD 80–125 |
+| [Rental car](https://www.economybookings.com/) + hostel | NZD 50–80 | NZD 30–45 | NZD 80–125 |
 | Rental car + motel | NZD 50–80 | NZD 90–150 | NZD 140–230 |
 | Campervan + DOC site | NZD 100–160 | NZD 10–25 | NZD 110–185 |
 

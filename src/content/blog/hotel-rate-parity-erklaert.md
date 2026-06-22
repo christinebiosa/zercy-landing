@@ -54,7 +54,7 @@ Loyalitätsprogramme der OTAs sind eine legale Umgehung der Rate Parity.
 
 **Booking Genius** hat drei Stufen (Level 1, 2, 3). Ab Level 1 bekommst du bei teilnehmenden Hotels 10-15 Prozent Rabatt, kostenloses Frühstück oder kostenloses Taxi. Erreicht nach 2 abgeschlossenen Buchungen. Der Vorbehalt: Nicht alle Hotels nehmen teil, und Genius-Preise sind oft an nicht-erstattbare Tarife gekoppelt. Mehr Details im [Booking Genius Programm-Guide](/blog/booking-genius-programm-lohnt-es-sich/).
 
-**Expedia One Key** führt Hotels, Mietwagen und Flüge in einem Punkte-System zusammen. Der Vorteil: Flüge zählen mit. Wer viel über Expedia bucht, bekommt hier echten Mehrwert. Hotels.com Rewards ist seit der One-Key-Migration integriert.
+**Expedia One Key** führt Hotels, [Mietwagen](https://www.economybookings.com/) und Flüge in einem Punkte-System zusammen. Der Vorteil: Flüge zählen mit. Wer viel über Expedia bucht, bekommt hier echten Mehrwert. Hotels.com Rewards ist seit der One-Key-Migration integriert.
 
 **Kurzvergleich:**
 

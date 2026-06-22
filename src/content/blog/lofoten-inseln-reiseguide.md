@@ -47,7 +47,7 @@ Das Originalerlebnis auf den Lofoten sind **Rorbu-Hütten**. Das sind traditione
 
 **Henningsvær** ist die bessere Wahl, wenn du die Lofoten geselliger magst: mehr Restaurants, Cafés und eine aktive Atmosphäre. Ideal für allein Reisende oder Paare, die nicht nur kochen wollen.
 
-**Svolvær** im Nordosten ist die größte Stadt der Lofoten und Ausgangspunkt für Fähren und Flüge. Weniger malerisch als die kleinen Dörfer, aber praktisch für die An- und Abreise. Hostel-Optionen und günstigere Hotels als anderswo. Hier findest du auch die meisten Mietwagen-Anbieter.
+**Svolvær** im Nordosten ist die größte Stadt der Lofoten und Ausgangspunkt für Fähren und Flüge. Weniger malerisch als die kleinen Dörfer, aber praktisch für die An- und Abreise. Hostel-Optionen und günstigere Hotels als anderswo. Hier findest du auch die meisten [Mietwagen](https://www.economybookings.com/)-Anbieter.
 
 **Å i Lofoten** am südlichsten Zipfel des Archipels ist ein winziges Dorf, das sich anfühlt wie aus der Zeit gefallen. Wenige Häuser, ein kleines Fischerei-Museum, kaum andere Touristen außerhalb der Hochsaison. Für alle, die die Lofoten jenseits der Instagram-Klassiker erkunden wollen.
 

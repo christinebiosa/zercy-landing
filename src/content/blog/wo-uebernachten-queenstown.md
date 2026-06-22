@@ -39,7 +39,7 @@ Das Herz von Queenstown. Die Hauptstraße (The Mall, Beach Street) ist fußläuf
 
 ## Frankton: Praktisch und günstiger
 
-Frankton ist Queenstowns funktionaler Bezirk: Flughafen, Einkaufszentrum (Five Mile), große Supermarkets und die meisten Mietwagen-Stationen. Kein Panoramablick auf den See, aber 20-40 Prozent günstiger als das Zentrum. Mit dem Linienbus ins Zentrum fährt man 10-15 Minuten.
+Frankton ist Queenstowns funktionaler Bezirk: Flughafen, Einkaufszentrum (Five Mile), große Supermarkets und die meisten [Mietwagen](https://www.economybookings.com/)-Stationen. Kein Panoramablick auf den See, aber 20-40 Prozent günstiger als das Zentrum. Mit dem Linienbus ins Zentrum fährt man 10-15 Minuten.
 
 **Wer hier richtig liegt:** Reisende mit frühen Flügen, Auto-Mieter, Budget-Bewusste, Familien mit viel Gepäck.
 

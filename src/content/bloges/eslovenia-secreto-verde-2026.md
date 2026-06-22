@@ -36,7 +36,7 @@ Eslovenia es el país que los viajeros que ya conocen bien Europa descubren en a
 
 El aeropuerto de Ljubljana (LJU) tiene conexiones con las principales ciudades europeas. Las conexiones de bajo coste (Wizz Air, Ryanair) conectan con varios aeropuertos de Europa Occidental. Alternativa: llegar en avión a Viena, Zagreb o Trieste y llegar a Ljubljana en tren o bus (1-3 horas desde cualquiera de estas tres ciudades).
 
-Eslovenia es perfecta para hacer en coche de alquiler: las distancias son cortas y las carreteras son excelentes. La autopista tiene una vignette obligatoria (15 euros para una semana, disponible en gasolineras y tiendas).
+Eslovenia es perfecta para hacer en [coche de alquiler](https://www.economybookings.com/): las distancias son cortas y las carreteras son excelentes. La autopista tiene una vignette obligatoria (15 euros para una semana, disponible en gasolineras y tiendas).
 
 Zercy puede ayudarte a comparar vuelos y alojamiento para Eslovenia. Guarda tu itinerario en el [Zercy Logbook](https://www.zercy.app/logbook).
 

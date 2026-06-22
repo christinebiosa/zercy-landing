@@ -28,7 +28,7 @@ The apps differ significantly. Some are simple and take ten seconds per entry. O
 
 **TravelSpend** goes one step further. The app supports multiple currencies simultaneously and automatically converts everything into your home currency. Every evening you get a short daily report. At a glance you see what accommodation, transport, and food cost. Especially useful on long trips through several countries. Download it via the [TravelSpend App Store](https://apps.apple.com/app/travel-spend-travel-budget/id1055323916) for free, with a Pro version for extended statistics.
 
-**Splitwise** solves a different problem: group travel. Who paid for the hotel upfront? Who covered the rental car? Who paid for whom? By the end nobody remembers who owes what. Splitwise tracks it automatically. You log expenses, select who was involved, and the app calculates the balance. Practical and free for the basic features.
+**Splitwise** solves a different problem: group travel. Who paid for the hotel upfront? Who covered the [rental car](https://www.economybookings.com/)? Who paid for whom? By the end nobody remembers who owes what. Splitwise tracks it automatically. You log expenses, select who was involved, and the app calculates the balance. Practical and free for the basic features.
 
 **Google Sheets or Excel** are for those who want maximum flexibility. You build your own spreadsheet, add categories, calculate totals. The downside: no automatic tracking, no currency conversion, no mobile convenience. Useful mainly for pre-trip planning. For daily tracking on the road, specialized apps are much more practical.
 

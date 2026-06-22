@@ -68,7 +68,7 @@ The official tourism bureau [Visit Savannah](https://www.visitsavannah.com) has 
 
 For families with kids, the Historic District is the easiest choice. Everything is walkable, the squares work as natural play areas, and horse-drawn carriage tours go down well. Riverfront restaurants have wide menus.
 
-For families on a budget: Midtown or Southside chain hotels have pools and are 40-60% cheaper than the Historic District. A rental car is essential though. For US trips in general, checking [travel insurance options](/en/blog/travel-insurance-worth-it-2026/) is always worth a few minutes.
+For families on a budget: Midtown or Southside chain hotels have pools and are 40-60% cheaper than the Historic District. A [rental car](https://www.economybookings.com/) is essential though. For US trips in general, checking [travel insurance options](/en/blog/travel-insurance-worth-it-2026/) is always worth a few minutes.
 
 ## Where Should You Actually Book?
 

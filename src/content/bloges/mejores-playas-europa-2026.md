@@ -18,7 +18,7 @@ Esta no es una lista turística más. Es una evaluación honesta: qué necesitas
 
 **Zlatni Rat, Croacia (isla de Brač):** La playa de guijarros en forma de cuerno cerca de Bol es la imagen más icónica de Croacia. Su forma cambia con la corriente. El agua es cristalina, los aficionados al windsurf llegan atraídos por el viento Maestral. Accesible desde Split en ferry en aproximadamente una hora. Julio y agosto están muy concurridos. Junio y septiembre son mejores meses.
 
-**Cómo llegar:** Cala Mariolu: vuelo a Cagliari o Alghero, luego coche de alquiler. Zlatni Rat: vuelo a Split, ferry a Supetar (Brač), autobús a Bol.
+**Cómo llegar:** Cala Mariolu: vuelo a Cagliari o Alghero, luego [coche de alquiler](https://www.economybookings.com/). Zlatni Rat: vuelo a Split, ferry a Supetar (Brač), autobús a Bol.
 
 **Nivel de precio:** Cerdeña de medio a alto, Croacia medio. El alojamiento en Croacia es considerablemente más barato.
 

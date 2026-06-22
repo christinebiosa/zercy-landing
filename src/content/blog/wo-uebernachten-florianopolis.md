@@ -17,7 +17,7 @@ Florianópolis teilt sich grob in vier Bereiche auf: den Norden für Party und S
 - **Norden (Canasvieiras, Ingleses, Jurerê):** Das Partygebiet mit langen flachen Stränden, Bars, Clubs und Resorts. Jurerê Internacional ist das Luxus-Viertel mit exklusiven Clubs und Villen.
 - **Süden (Armação, Pântano do Sul, Campeche):** Ruhige, authentische Strände mit wenig Tourismus. Ideal für Familien und alle, die echtes brasilianisches Strandleben suchen.
 - **Osten (Lagoa da Conceição, Joaquina, Praia Mole):** Das Mekka für Surfer und junge Reisende. Lagoa da Conceição ist ein Dorf mit Leben, Restaurants und Bars direkt am Lagunen-Ufer.
-- **Centro:** Das historische Zentrum mit Museums, Markt und günstigen Hotels. Kein Strand, aber alles andere. Ideal für Kurzbesuche oder als Basis mit Mietwagen.
+- **Centro:** Das historische Zentrum mit Museums, Markt und günstigen Hotels. Kein Strand, aber alles andere. Ideal für Kurzbesuche oder als Basis mit [Mietwagen](https://www.economybookings.com/).
 
 ## Wo übernachten im Norden für Party und Strandleben?
 

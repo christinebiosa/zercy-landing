@@ -23,7 +23,7 @@ Conclusion: si quieres cazar auroras con guía e infraestructura, Tromsø es mej
 
 Ambos países están entre los más caros de Europa. Pero hay diferencias:
 
-**Islandia:** Un hotel de gama media en Reikiavik cuesta 150-250 euros por noche. Una excursión al Círculo Dorado (Geysir, Gullfoss, Thingvellir) con coche de alquiler e ingresos: 80-120 euros. Comer en restaurante: 25-45 euros por plato. La gasolina en la Ruta 1 sale cara porque las gasolineras escasean. Presupuesto total para 7 días cómodos: 1.800-2.500 euros por persona.
+**Islandia:** Un hotel de gama media en Reikiavik cuesta 150-250 euros por noche. Una excursión al Círculo Dorado (Geysir, Gullfoss, Thingvellir) con [coche de alquiler](https://www.economybookings.com/) e ingresos: 80-120 euros. Comer en restaurante: 25-45 euros por plato. La gasolina en la Ruta 1 sale cara porque las gasolineras escasean. Presupuesto total para 7 días cómodos: 1.800-2.500 euros por persona.
 
 **Noruega:** Un Airbnb en la región de los fiordos sale desde 90-130 euros por noche. Los transbordadores para cruzar fiordos son moderados (10-25 euros) y el transporte público en Bergen y Tromsø funciona bien. La comida tiene precios similares a Islandia. Los coches de alquiler son comparables. Presupuesto total para 7 días cómodos: 1.600-2.300 euros por persona.
 

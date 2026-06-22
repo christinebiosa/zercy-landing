@@ -55,7 +55,7 @@ Tras la depreciación de la lira en los últimos años, Turquía es un destino d
 
 ## Consejos prácticos
 
-**Transporte:** Los vuelos internos en Turquía son baratos y merecen la pena para distancias largas. Para la costa: el coche de alquiler es ideal (conducir es agradable, las carreteras son buenas). Reserva alojamiento con tiempo en [Booking.com](https://www.booking.com): los hoteles cueva de Capadocia y los hoteles boutique de Estambul son muy populares.
+**Transporte:** Los vuelos internos en Turquía son baratos y merecen la pena para distancias largas. Para la costa: el [coche de alquiler](https://www.economybookings.com/) es ideal (conducir es agradable, las carreteras son buenas). Reserva alojamiento con tiempo en [Booking.com](https://www.booking.com): los hoteles cueva de Capadocia y los hoteles boutique de Estambul son muy populares.
 
 **Moneda:** Lira turca (TRY). Las tarjetas de crédito se aceptan ampliamente, el efectivo es necesario para los mercados. Los euros y dólares a veces se aceptan pero a tipo de cambio malo: paga siempre en liras. El cambio en el aeropuerto es más caro que en la ciudad.
 

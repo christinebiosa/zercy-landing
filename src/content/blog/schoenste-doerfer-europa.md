@@ -13,7 +13,7 @@ Diese Liste will nicht nur zeigen, was schön ist. Sie will erklären, wann du h
 
 ## Welche Dörfer gehören wirklich zur ersten Liga?
 
-**Hallstatt, Österreich** ist das bekannteste Dorf Europas. Das sagt alles. Am Hallstättersee gelegen, von steilen Berghängen umgeben, mit bunten Häusern, die sich in den See spiegeln. Wer im Juli oder August kommt, kämpft um jeden Meter Platz. Wer im April oder Oktober kommt, hat das Dorf fast für sich. Die Anreise mit dem Zug via Attnang-Puchheim und dann Fähre oder Bus ist entspannt und kostet deutlich weniger als Mietwagen-Parkgebühren.
+**Hallstatt, Österreich** ist das bekannteste Dorf Europas. Das sagt alles. Am Hallstättersee gelegen, von steilen Berghängen umgeben, mit bunten Häusern, die sich in den See spiegeln. Wer im Juli oder August kommt, kämpft um jeden Meter Platz. Wer im April oder Oktober kommt, hat das Dorf fast für sich. Die Anreise mit dem Zug via Attnang-Puchheim und dann Fähre oder Bus ist entspannt und kostet deutlich weniger als [Mietwagen](https://www.economybookings.com/)-Parkgebühren.
 
 **Reine, Norwegen** auf den Lofoten ist das Dorf, das auf jedem Norwegen-Moodboard auftaucht. Rote Rorbu-Kabinen, spiegelndes Wasser, dramatische Bergzacken. Das Besondere: Die Lofoten sind ganzjährig attraktiv. Im Winter gibt es Nordlichter über dem Dorf. Im Sommer die Mitternachtssonne. Die beste Fotostimmung ist von Februar bis März (Polarlicht + erster Schnee) und von Juni bis Juli (Mitternachtssonne). Übernachten direkt in einem Rorbu kostet 80-150 Euro pro Nacht. Der [Lofoten-Tourismusverband](https://www.lofoten.info) hat aktuelle Infos zu Fähren und Unterkünften.
 

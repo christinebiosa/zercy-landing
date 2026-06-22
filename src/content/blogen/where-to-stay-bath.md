@@ -27,7 +27,7 @@ Your choice of neighborhood matters more than you'd expect. Sleeping centrally m
 
 The area around the Roman Baths is Bath's core. The baths themselves, Bath Abbey, Pulteney Bridge with its shops on both sides. Everything within 10 minutes on foot. Streets are narrow, traffic is limited. Evenings bring the restaurants and pubs to life.
 
-**Who belongs here:** First-time visitors, people skipping the rental car, short-stay travelers, couples.
+**Who belongs here:** First-time visitors, people skipping the [rental car](https://www.economybookings.com/), short-stay travelers, couples.
 
 **Prices per night:** Mid-range 130-220 GBP, boutique 180-350 GBP, premium 300-700 GBP.
 

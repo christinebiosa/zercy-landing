@@ -75,7 +75,7 @@ Mendoza has dry Andes climate with 320 sunny days per year. The [official Mendoz
 
 **Who fits:** Premium travelers, honeymoon, anyone wanting top wines + Andes panorama.
 
-**Caution:** Very remote. Rental car or private transfer needed. At least 2 nights (1.5 hours drive one way).
+**Caution:** Very remote. [Rental car](https://www.economybookings.com/) or private transfer needed. At least 2 nights (1.5 hours drive one way).
 
 **Prices:** Premium $275-605, top resorts (Vines Resort, Casa de Uco) $440-1,100.
 

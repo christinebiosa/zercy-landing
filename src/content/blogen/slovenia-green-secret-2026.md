@@ -47,7 +47,7 @@ Classic route, tested in practice:
 
 **Day 7: Piran and return.** Piran morning (Tartini Plaza, city walls, lunch), lunch with Adriatic fish, drive back to Ljubljana (1.5h) for return flight.
 
-**Rental car recommendation:** Slovenia without a car = tedious. Train only covers main routes, bus to Bled yes, but not into Triglav Park. Rental car from $33/day (for 7 days = $230 + $55 vignette + $110 gas + $55 insurance = ~$440 per car).
+**[Rental car](https://www.economybookings.com/) recommendation:** Slovenia without a car = tedious. Train only covers main routes, bus to Bled yes, but not into Triglav Park. Rental car from $33/day (for 7 days = $230 + $55 vignette + $110 gas + $55 insurance = ~$440 per car).
 
 ## When is the best time to visit Slovenia?
 

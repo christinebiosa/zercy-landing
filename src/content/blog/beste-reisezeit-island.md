@@ -47,7 +47,7 @@ Mit Zercy findest du Flüge nach Reykjavik im Vergleich, egal ob Sommer oder Win
 Die beste Zeit für Nordlichter in Island ist von September bis März, mit Peaks in Oktober, Februar und März. Man braucht dunkle Nächte und möglichst klaren Himmel. Vedur.is bietet tägliche Aurora-Vorhersagen. Mindestens 5 Nächte einplanen, da Nordlichter nie garantiert sind.
 
 ### Was kostet eine Reise nach Island im Winter?
-Island im Winter ist deutlich günstiger als im Sommer. Flüge aus Deutschland kosten im Januar oft 150 bis 250 Euro Hin-und-Rück. Hotels in Reykjavik kosten in der Nebensaison 80 bis 120 Euro pro Nacht, im Sommer das Doppelte. Mietwagen sind im Winter günstiger, aber man braucht Allradantrieb.
+Island im Winter ist deutlich günstiger als im Sommer. Flüge aus Deutschland kosten im Januar oft 150 bis 250 Euro Hin-und-Rück. Hotels in Reykjavik kosten in der Nebensaison 80 bis 120 Euro pro Nacht, im Sommer das Doppelte. [Mietwagen](https://www.economybookings.com/) sind im Winter günstiger, aber man braucht Allradantrieb.
 
 ### Wie viel Tageslicht gibt es in Island im Winter?
 Im Dezember und Januar hat Island in Reykjavik nur 4 bis 5 Stunden Tageslicht. Im Oktober sind es 10 Stunden, im März schon wieder 12. Wer mehr Tageslicht will, reist im April bis August. Im Sommer gibt es in manchen Nächten praktisch keine Dunkelheit.

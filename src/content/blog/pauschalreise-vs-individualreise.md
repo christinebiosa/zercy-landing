@@ -56,7 +56,7 @@ Flug und Unterkunft selbst buchen (über Booking.com, Expedia, Google Flights). 
 
 Aktivitäten und Touren über Anbieter vor Ort oder über Viator/GetYourGuide buchen. Professionelle lokale Guides für Halbtages-Touren, aber kein starres Gesamt-Programm.
 
-Transfer und Mietwagen direkt buchen. Ein [Mietwagen-Vergleich](/blog/mietwagen-consolidator-guenstiger-fahren/) spart oft 30 bis 40 Prozent gegenüber Paket-Transfers.
+Transfer und [Mietwagen](https://www.economybookings.com/) direkt buchen. Ein [Mietwagen-Vergleich](/blog/mietwagen-consolidator-guenstiger-fahren/) spart oft 30 bis 40 Prozent gegenüber Paket-Transfers.
 
 Das gibt dir Pauschalreise-Sicherheit bei Kernlogistik und Individualreise-Freiheit beim Erleben.
 

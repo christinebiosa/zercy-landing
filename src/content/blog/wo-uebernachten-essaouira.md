@@ -57,7 +57,7 @@ Der Strand von Essaouira ist lang, windig und einer der besten Kitesurfspots Mar
 
 ## Wie weit ist Essaouira von Marrakesch entfernt?
 
-Marrakesch liegt 180 km östlich. Mit dem Bus (CTM oder Supratours) dauert die Fahrt 3 bis 3,5 Stunden. Tickets kosten 60-90 MAD (5-8 EUR). Mit dem Mietwagen: 2,5 Stunden auf der Nationalstraße durch die Arganien-Wälder. Viele Reisende verbinden beide Städte: 2-3 Tage Marrakesch, dann 2-3 Tage Essaouira zur Abkühlung.
+Marrakesch liegt 180 km östlich. Mit dem Bus (CTM oder Supratours) dauert die Fahrt 3 bis 3,5 Stunden. Tickets kosten 60-90 MAD (5-8 EUR). Mit dem [Mietwagen](https://www.economybookings.com/): 2,5 Stunden auf der Nationalstraße durch die Arganien-Wälder. Viele Reisende verbinden beide Städte: 2-3 Tage Marrakesch, dann 2-3 Tage Essaouira zur Abkühlung.
 
 ## Wo solltest du am Ende buchen?
 

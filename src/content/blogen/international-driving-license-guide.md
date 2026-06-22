@@ -18,7 +18,7 @@ Within the European Union, you're covered. An EU license is valid in all member 
 
 Outside the EU, things change. These are the destinations travelers most commonly run into trouble with:
 
-- **USA**: The rules vary by state. Some accept a foreign license directly. But virtually every car rental company will ask for an IDP alongside your national license. No IDP often means no car.
+- **USA**: The rules vary by state. Some accept a foreign license directly. But virtually every [car rental](https://www.economybookings.com/) company will ask for an IDP alongside your national license. No IDP often means no car.
 - **Japan**: An IDP under the Geneva Convention is legally required. There's no workaround. Without it, you cannot legally drive.
 - **Thailand**: Same situation. Renting a car without an IDP is illegal, and police checkpoints are common throughout the country.
 - **Australia**: Technically, a German or British license with a certified translation can work. In practice, rental companies almost always request an IDP. It's the simpler option.

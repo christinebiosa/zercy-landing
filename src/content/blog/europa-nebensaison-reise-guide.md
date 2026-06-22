@@ -32,7 +32,7 @@ Ein Überblick nach Kategorie:
 
 - **Flüge:** 25 bis 50 Prozent günstiger außerhalb der Schulferien
 - **Hotels:** 20 bis 45 Prozent günstiger, besonders in Strandorten und Städten mit starkem Sommertourismus
-- **Mietwagen:** oft 30 bis 40 Prozent weniger. Auf Mallorca oder Griechenland ist der Unterschied besonders groß.
+- **[Mietwagen](https://www.economybookings.com/):** oft 30 bis 40 Prozent weniger. Auf Mallorca oder Griechenland ist der Unterschied besonders groß.
 - **Eintritte und Touren:** keine direkten Rabatte, aber deutlich kürzere Wartezeiten
 
 Für [Wochenendtrips innerhalb Europas](/blog/wochenendtrip-europa-beste-ziele/) ist die Nebensaison fast ideal. Besonders bei Städtezielen wie Wien, Prag oder Porto merkst du den Unterschied sofort.

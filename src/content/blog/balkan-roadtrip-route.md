@@ -32,7 +32,7 @@ Der Balkan gehört zu den günstigsten Reisezielen Europas. Albanien und Kosovo 
 **Kostenpunkte:**
 - Unterkunft: 20–50 Euro/Nacht (Gästehaus bis Boutique-Hotel)
 - Essen: 10–20 Euro/Tag (Burek, Ćevapi, frischer Fisch — alles günstig)
-- Mietwagen: 25–40 Euro/Tag (empfohlen für Flexibilität zwischen den Ländern)
+- [Mietwagen](https://www.economybookings.com/): 25–40 Euro/Tag (empfohlen für Flexibilität zwischen den Ländern)
 - Eintritte: meistens 2–8 Euro, viele UNESCO-Stätten ohne Eintritt
 
 Albanien ist besonders günstig: Strandlokal am Meer für 5 Euro, Gästehaus für 20 Euro. Das wird sich ändern — nutze es jetzt.

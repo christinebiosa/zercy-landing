@@ -25,7 +25,7 @@ The National Palace Museum is one of the most significant in Asia. It houses ove
 
 The HSR (High Speed Rail) connects Taipei with Kaohsiung in the south in 90 minutes. The west coast corridor is the backbone route for travelers. Buy tickets through the official [Taiwan High Speed Rail website](https://www.thsrc.com.tw/en/). A day pass covers the full Taipei-Kaohsiung line and costs significantly less than individual tickets.
 
-For the east coast and Taroko Gorge, take the standard TRA train from Taipei to Hualien (two hours). Buses connect Hualien with the gorge trailheads. Rental cars are an option, but scooters are not always advisable on the winding mountain roads without prior experience.
+For the east coast and Taroko Gorge, take the standard TRA train from Taipei to Hualien (two hours). Buses connect Hualien with the gorge trailheads. [Rental cars](https://www.economybookings.com/) are an option, but scooters are not always advisable on the winding mountain roads without prior experience.
 
 ## When Is the Best Time to Visit Taiwan?
 

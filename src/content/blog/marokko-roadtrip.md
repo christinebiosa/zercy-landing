@@ -14,7 +14,7 @@ Dieser Guide führt dich durch die klassische Route: Marrakesch als Ausgangspunk
 
 ## Was ist die beste Route?
 
-**Marrakesch (2 Nächte):** Dein Ausgangspunkt. Die Medina, Djemaa el-Fna, Bahia-Palast und die Souks. Hol dir hier deinen Mietwagen, gewöhne dich an das Verkehrschaos und iss so gut du kannst. Marrakesch hat einige der besten Restaurants Nordafrikas.
+**Marrakesch (2 Nächte):** Dein Ausgangspunkt. Die Medina, Djemaa el-Fna, Bahia-Palast und die Souks. Hol dir hier deinen [Mietwagen](https://www.economybookings.com/), gewöhne dich an das Verkehrschaos und iss so gut du kannst. Marrakesch hat einige der besten Restaurants Nordafrikas.
 
 **Atlas-Gebirge (1 Nacht):** Die N9 über den Tizi n'Tichka-Pass (2.260 Meter) ist eine der spektakulärsten Bergstrassen des Kontinents. Berber-Dörfer, Mandelplantagen, Ausblicke auf beide Seiten des Gebirges. Übernachte in Aït Benhaddou, der bekanntesten Lehmburg Marokkos, UNESCO-Weltkulturerbe und Drehort unzähliger Filme.
 

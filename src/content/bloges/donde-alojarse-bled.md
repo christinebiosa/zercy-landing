@@ -55,7 +55,7 @@ La mayoría de los viajeros a Bled lo combinan con [Eslovenia como destino compl
 
 ## Fuera de Bled: Económico y relajado
 
-Ribno, Lesce, Bohinjska Bela: pueblos a 3-5 km de Bled, a menudo con alojamiento a la mitad del precio. Necesitas coche de alquiler o bicicleta. Para quienes no quieren la densidad turística pero sí acceso rápido al lago.
+Ribno, Lesce, Bohinjska Bela: pueblos a 3-5 km de Bled, a menudo con alojamiento a la mitad del precio. Necesitas [coche de alquiler](https://www.economybookings.com/) o bicicleta. Para quienes no quieren la densidad turística pero sí acceso rápido al lago.
 
 **Para quién es:** Familias, ciclistas, viajeros con presupuesto ajustado, nómadas digitales con vehículo propio.
 

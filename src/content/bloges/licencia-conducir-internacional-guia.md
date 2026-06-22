@@ -90,7 +90,7 @@ Entre uno y tres años según el país. Revisa siempre la fecha de caducidad ant
 
 ### ¿Qué consecuencias tiene conducir en el extranjero sin el permiso internacional?
 
-Multas elevadas, inmovilización del vehículo o invalidación del seguro del coche de alquiler, según el país. En Tailandia y Egipto los controles son frecuentes y las sanciones, serias. No merece la pena el riesgo.
+Multas elevadas, inmovilización del vehículo o invalidación del seguro del [coche de alquiler](https://www.economybookings.com/), según el país. En Tailandia y Egipto los controles son frecuentes y las sanciones, serias. No merece la pena el riesgo.
 
 ---
 

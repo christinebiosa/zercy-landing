@@ -118,7 +118,7 @@ Islamic Cairo or Zamalek. Islamic Cairo for maximum culture and atmosphere, Zama
 
 ### How far are the Pyramids from downtown Cairo?
 
-From central Cairo (Tahrir Square) to Giza: about 12-15 km, by taxi 30-45 minutes depending on traffic. Metro Line 2 runs to Giza station, from there a taxi or tuk-tuk to the plateau. With a rental car or private transfer, around 25 minutes early in the morning.
+From central Cairo (Tahrir Square) to Giza: about 12-15 km, by taxi 30-45 minutes depending on traffic. Metro Line 2 runs to Giza station, from there a taxi or tuk-tuk to the plateau. With a [rental car](https://www.economybookings.com/) or private transfer, around 25 minutes early in the morning.
 
 ---
 

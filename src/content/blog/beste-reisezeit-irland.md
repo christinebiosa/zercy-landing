@@ -44,7 +44,7 @@ Der Wild Atlantic Way, die 2.500 Kilometer lange Küstenstraße von Donegal bis 
 
 Irland hat mehr als Dublin. Wer den Kreisverkehr der Hauptstadt hinter sich lässt, findet:
 
-- **Wild Atlantic Way:** Cliffs of Moher, Connemara, Ring of Kerry, Dingle Peninsula. Besser im Frühjahr (Mai-Juni) oder frühem Herbst. Mietwagen notwendig, Linksverkehr einkalkulieren. Buche unter [/blog/mietwagen-check/](/blog/mietwagen-check/) nach hilfreichen Checklisten.
+- **Wild Atlantic Way:** Cliffs of Moher, Connemara, Ring of Kerry, Dingle Peninsula. Besser im Frühjahr (Mai-Juni) oder frühem Herbst. [Mietwagen](https://www.economybookings.com/) notwendig, Linksverkehr einkalkulieren. Buche unter [/blog/mietwagen-check/](/blog/mietwagen-check/) nach hilfreichen Checklisten.
 - **Giants Causeway, Nordirland:** Basaltsäulen und Dramatik pur. Ganzjährig offen, weniger besucht im Winter. Spektakulär bei jedem Wetter.
 - **Aran Islands:** Inishmore, Inishmaan, Inisheer in der Galway Bay. Fähre ab Rossaveal, Rad oder Kutsche. Bestes Klima April-September.
 - **Skellig Michael:** Frühmittelalterliches Klosterkloster auf einem Felsatoll, jetzt etwas bekannt durch Star Wars. Nur zugänglich Mai-September, Bootsfahrt oft storniert bei Sturm. Früh buchen.

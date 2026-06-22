@@ -120,7 +120,7 @@ Budget hotels in Arrecife start at 40-70 EUR. Puerto del Carmen mid-range runs 1
 
 ### How far is the airport from the hotels?
 
-Arrecife Airport sits centrally on the island. Puerto del Carmen is 15 minutes away. Costa Teguise is 20 minutes. Playa Blanca is the furthest at around 45 minutes. A rental car is recommended since public transport between areas is limited.
+Arrecife Airport sits centrally on the island. Puerto del Carmen is 15 minutes away. Costa Teguise is 20 minutes. Playa Blanca is the furthest at around 45 minutes. A [rental car](https://www.economybookings.com/) is recommended since public transport between areas is limited.
 
 ### When is Lanzarote cheapest?
 

@@ -35,7 +35,7 @@ Coastal roads are not motorways. A few things that make a real difference:
 
 **High season vs. shoulder season:** On the Amalfi Coast in August you can spend two hours covering 20 km. In May it takes 30 minutes. That is not a minor detail.
 
-For rental car tips and how to avoid extra fees, see our [hidden rental car costs guide](/en/blog/rental-car-hidden-costs-avoid/).
+For [rental car](https://www.economybookings.com/) tips and how to avoid extra fees, see our [hidden rental car costs guide](/en/blog/rental-car-hidden-costs-avoid/).
 
 ## Which Coastal Drive Fits Which Type of Traveller?
 

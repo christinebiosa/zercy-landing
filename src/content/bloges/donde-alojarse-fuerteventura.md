@@ -70,7 +70,7 @@ Puerto del Rosario y El Cotillo ofrecen los alojamientos más económicos desde 
 Un hotel o apartamento de categoría media cuesta entre 80 y 150 euros por noche. En verano (julio-agosto) y en Navidad/Año Nuevo, los precios suben. El otoño y la primavera ofrecen la mejor relación calidad-precio.
 
 ### ¿Cómo es el tamaño de Fuerteventura y se necesita coche?
-Fuerteventura tiene unos 100 km de largo. Quien quiera explorar varias zonas necesita un coche de alquiler. Dentro de Corralejo o Caleta de Fuste se puede ir a pie. Hay coches de alquiler económicos en el aeropuerto.
+Fuerteventura tiene unos 100 km de largo. Quien quiera explorar varias zonas necesita un [coche de alquiler](https://www.economybookings.com/). Dentro de Corralejo o Caleta de Fuste se puede ir a pie. Hay coches de alquiler económicos en el aeropuerto.
 
 ### ¿Qué hace especial a Fuerteventura como destino?
 Fuerteventura tiene la costa más larga de todas las islas Canarias y las playas más blancas de España. El Parque Natural de Corralejo con sus dunas de arena, el viento constante para kite y windsurf y el buen clima durante todo el año la convierten en uno de los destinos más populares de Europa.

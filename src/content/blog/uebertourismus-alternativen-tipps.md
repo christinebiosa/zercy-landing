@@ -72,7 +72,7 @@ Das Prinzip gilt auch bei der Buchungsweise. Wer früh plant, vergleicht Plattfo
 
 ## Wie reist man bewusster ohne Verzicht?
 
-Slow Travel ist der Rahmen. Weniger Städte, mehr Zeit pro Ort. Weniger Checklisten-Tourismus, mehr echte Begegnungen. Busse und Züge statt Mietwagen, Märkte statt Souvenirläden.
+Slow Travel ist der Rahmen. Weniger Städte, mehr Zeit pro Ort. Weniger Checklisten-Tourismus, mehr echte Begegnungen. Busse und Züge statt [Mietwagen](https://www.economybookings.com/), Märkte statt Souvenirläden.
 
 Das Konzept erklärt unser Artikel [Slow Travel: Was es wirklich bedeutet](/blog/slow-travel-bedeutet-was/). Die Grundidee: Qualität der Reiseerfahrung steigt, wenn die Anzahl der Ziele sinkt.
 

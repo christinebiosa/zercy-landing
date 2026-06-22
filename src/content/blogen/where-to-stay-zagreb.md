@@ -21,7 +21,7 @@ Two worlds define Zagreb. Gornji Grad is the medieval upper town with cobbleston
 
 **Trnje:** South of the center, more local, more affordable. Close to the main and bus stations. Good for longer stays and travelers who don't want to pay a central premium.
 
-**Maksimir area:** Eastern outskirts, quiet and green. Better with a rental car. Not practical on foot.
+**Maksimir area:** Eastern outskirts, quiet and green. Better with a [rental car](https://www.economybookings.com/). Not practical on foot.
 
 ## Donji Grad: Center and Base Camp
 

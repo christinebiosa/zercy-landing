@@ -92,7 +92,7 @@ Für China oder komplexere Reisen kann eine spezialisierte Visaagentur sinnvoll 
 
 ---
 
-**Plane deine Reise smarter.** Mit Zercy findest du Flüge, Hotels und Mietwagen auf einen Blick, ohne zwischen Dutzenden Tabs zu wechseln. Versuch es jetzt: [zercy.app](https://www.zercy.app)
+**Plane deine Reise smarter.** Mit Zercy findest du Flüge, Hotels und [Mietwagen](https://www.economybookings.com/) auf einen Blick, ohne zwischen Dutzenden Tabs zu wechseln. Versuch es jetzt: [zercy.app](https://www.zercy.app)
 
 Alle Reiseunterlagen im Griff? Im [Zercy Logbook](https://www.zercy.app/logbook) kannst du deine Reisepläne speichern und nichts Wichtiges vergessen.
 

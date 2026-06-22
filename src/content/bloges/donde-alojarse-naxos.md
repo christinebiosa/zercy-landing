@@ -50,7 +50,7 @@ Plaka es la playa más natural de Naxos. Cuatro kilómetros de arena fina, casi 
 
 Precios: 55-150 euros por noche. Hoteles y estudios: **Plaka Camping** (la opción más económica, directamente en la playa, bungalows desde 50 euros), **Kavos Studios Plaka** (limpio, sencillo, cerca de la playa, desde 60 euros), **Glyfada Studios** (pequeño complejo vacacional, jardín, desde 70 euros).
 
-Plaka solo funciona bien con coche de alquiler (desde 30-40 euros al día en Naxos). Con eso llegas cómodamente a la Hora y a los pueblos de montaña. Si quieres comparar precios de alquiler antes de llegar, [mejores-apps-viaje-2026](/es/blog/mejores-apps-viaje-2026/) cubre las mejores aplicaciones para hacerlo.
+Plaka solo funciona bien con [coche de alquiler](https://www.economybookings.com/) (desde 30-40 euros al día en Naxos). Con eso llegas cómodamente a la Hora y a los pueblos de montaña. Si quieres comparar precios de alquiler antes de llegar, [mejores-apps-viaje-2026](/es/blog/mejores-apps-viaje-2026/) cubre las mejores aplicaciones para hacerlo.
 
 ## Pueblos de montaña: Filoti, Apiranthos y Halki
 

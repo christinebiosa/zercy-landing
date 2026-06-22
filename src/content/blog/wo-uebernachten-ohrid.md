@@ -91,7 +91,7 @@ Die Altstadt rund um die Kaneo-Kirche und die Kale-Festung ist die klare Empfehl
 Juni und September sind der Sweet Spot: Das Wasser ist warm, die Massen sind nicht in vollem Gange, und die Preise liegen deutlich unter dem August-Niveau. Wer Kulturveranstaltungen sucht, kommt im Juli zum Ohrid Summer Festival, das Konzerte, Theater und Filmvorführungen direkt am See bietet.
 
 ### Wie reist man nach Ohrid an?
-Das Nächste internationale Flughafen ist Ohrid Airport (OHD) mit saisonalen Direktflügen aus mehreren europäischen Städten. Alternativ fliegt man nach Skopje (3 Stunden Bus) oder Tirana (2,5 Stunden Bus). Das Busnetz in der Region ist gut und günstig. Ein Mietwagen lohnt sich für Ausflüge in den Galičica-Nationalpark und zum Prespa-See.
+Das Nächste internationale Flughafen ist Ohrid Airport (OHD) mit saisonalen Direktflügen aus mehreren europäischen Städten. Alternativ fliegt man nach Skopje (3 Stunden Bus) oder Tirana (2,5 Stunden Bus). Das Busnetz in der Region ist gut und günstig. Ein [Mietwagen](https://www.economybookings.com/) lohnt sich für Ausflüge in den Galičica-Nationalpark und zum Prespa-See.
 
 ### Was macht Ohrid so besonders im Vergleich zu anderen Balkan-Zielen?
 Ohrid vereint UNESCO-Altstadtarchitektur, Badesee mit Mittelmeerklarheit und authentische lokale Kultur zu einem Preis, der europäische Alternativen alt aussehen lässt. Es gibt keine Kreuzfahrtschiffe, keine übersättigten Touristenströme und keine internationalen Hotelketten. Was du bekommst, sind Familienrestaurants, frischer See-Fisch und echte Gastfreundschaft.

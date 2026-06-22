@@ -15,7 +15,7 @@ The most beautiful routes exist on every continent. What connects them: they hav
 
 Each of these trips has its own rhythm. The selection is subjective, the reasons are not.
 
-**Route 66, USA:** The original. 3,940 kilometers from Chicago to Santa Monica. Officially decommissioned in 1985 but fully drivable as a historic route. Two to three weeks. Classic stops: St. Louis Gateway Arch, Cadillac Ranch in Amarillo, Grand Canyon South Rim, Las Vegas. Rental cars from around 30 euros per day, motels along the route between 60 and 120 euros. Best season: April to October.
+**Route 66, USA:** The original. 3,940 kilometers from Chicago to Santa Monica. Officially decommissioned in 1985 but fully drivable as a historic route. Two to three weeks. Classic stops: St. Louis Gateway Arch, Cadillac Ranch in Amarillo, Grand Canyon South Rim, Las Vegas. [Rental cars](https://www.economybookings.com/) from around 30 euros per day, motels along the route between 60 and 120 euros. Best season: April to October.
 
 **Ring Road, Iceland:** 1,332 kilometers around the entire island. One week minimum, two weeks ideal. The route passes through lava fields, past waterfalls, geysers, black sand beaches, and arctic fjords. No other road trip in the world shows so much natural diversity in such a compact area. Rental cars from around 60 euros per day (4WD recommended). Our [Iceland travel guide](/en/blog/iceland-travel-guide/) has all the details on routes and accommodations.
 

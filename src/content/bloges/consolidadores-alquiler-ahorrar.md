@@ -8,7 +8,7 @@ readingTime: 5
 heroImage: "/img/blog/car-keys-money.jpg"
 ---
 
-La mayoría de los viajeros buscan alquiler de coche directamente en Hertz, Avis o Europcar. Hay una forma más inteligente: los consolidadores, que obtienen tarifas de mayorista que las empresas no publicitan directamente al público y las revenden con descuentos del 20-40%.
+La mayoría de los viajeros buscan [alquiler de coche](https://www.economybookings.com/) directamente en Hertz, Avis o Europcar. Hay una forma más inteligente: los consolidadores, que obtienen tarifas de mayorista que las empresas no publicitan directamente al público y las revenden con descuentos del 20-40%.
 
 ## ¿Qué es un consolidador de alquiler de coche?
 

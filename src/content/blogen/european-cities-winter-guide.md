@@ -47,7 +47,7 @@ Prices at Hogmanay: sharply elevated. Book early, ideally 3-4 months ahead.
 
 Reykjavik is the northern lights base from November through March. The combination of aurora chances, thermal pools, and Icelandic landscape makes it one of the most distinctive winter destinations in the world.
 
-Iceland in winter is expensive. Hotel in Reykjavik: 180-350 EUR per night. Rental car for day trips: 80-150 EUR/day. Thermal pools (Blue Lagoon or Sky Lagoon): 60-100 EUR per person. It adds up.
+Iceland in winter is expensive. Hotel in Reykjavik: 180-350 EUR per night. [Rental car](https://www.economybookings.com/) for day trips: 80-150 EUR/day. Thermal pools (Blue Lagoon or Sky Lagoon): 60-100 EUR per person. It adds up.
 
 But there is no cheap way to see northern lights. Reykjavik is the most accessible gateway to the Aurora Borealis in Europe. More detail in our [northern lights guide 2026](/en/blog/northern-lights-2026-where-when-how/).
 

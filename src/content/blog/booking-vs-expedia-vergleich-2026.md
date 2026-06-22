@@ -18,7 +18,7 @@ Rate Parity betrifft den Grundpreis. Was Plattformen unterscheidet, sind Treuepr
 
 Booking Genius (ab Level 1 kostenlos, ab Level 2 mit mehr Reisen) gibt dir bis zu 15 Prozent Rabatt auf ausgewählte Hotels. Nicht auf alle. Aber auf sehr viele. Wenn du regelmäßig über Booking buchst, lohnt sich der Account.
 
-Expedia One Key kombiniert Hotels, Flüge und Mietwagen in einem Punktesystem. Du sammelst OneKeyCash und kannst ihn auf die nächste Buchung anrechnen. Das macht Expedia besonders attraktiv wenn du Flug und Hotel zusammen buchst.
+Expedia One Key kombiniert Hotels, Flüge und [Mietwagen](https://www.economybookings.com/) in einem Punktesystem. Du sammelst OneKeyCash und kannst ihn auf die nächste Buchung anrechnen. Das macht Expedia besonders attraktiv wenn du Flug und Hotel zusammen buchst.
 
 Hotels.com hat das direkteste Modell: 10 Nächte buchen, 1 Gratisnacht bekommen. Das klingt simpel, ist es auch. Gut für Vielbuchende.
 

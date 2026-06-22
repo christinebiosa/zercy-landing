@@ -83,7 +83,7 @@ For tips on keeping Japan affordable, see our [Japan budget travel guide](/en/bl
 
 ## Noto Peninsula Direction: Ryokan and Ocean Views
 
-The Noto Peninsula lies northeast of Kanazawa and is a UNESCO Global Geopark. Traditional ryokan on the sea, fresh shellfish pulled from the bay that morning, silence. For an authentic ryokan experience with kaiseki dinner, onsen, and ocean views, this is the place. A rental car or local bus is necessary.
+The Noto Peninsula lies northeast of Kanazawa and is a UNESCO Global Geopark. Traditional ryokan on the sea, fresh shellfish pulled from the bay that morning, silence. For an authentic ryokan experience with kaiseki dinner, onsen, and ocean views, this is the place. A [rental car](https://www.economybookings.com/) or local bus is necessary.
 
 **Who fits:** Travelers wanting Japan at a slower pace, couples, anyone who puts quiet above central.
 

@@ -38,7 +38,7 @@ Sizilien, Apulien, Kalabrien, Sardinien und die Amalfiküste folgen anderen Rege
 
 **Sizilien im April** ist eine der unterschätzten Erfahrungen Italiens. Mandelblüte, Tempel von Agrigent ohne Massen, und Temperaturen um 18-22 Grad. Palermo ist zu dieser Zeit ein lebendiges Straßenmarkt-Erlebnis.
 
-**September und Oktober** für Sardinien: Die Strände rund um San Teodoro und La Maddalena sind weniger voll als im August, das Wasser noch warm (25-27 Grad), und Direktflüge ab München oder Frankfurt sind günstiger. Eine Woche mit Mietwagen auf Sardinien kostet im September 800-1.200 Euro pro Person inklusive Unterkunft, im August 1.400-2.000 Euro.
+**September und Oktober** für Sardinien: Die Strände rund um San Teodoro und La Maddalena sind weniger voll als im August, das Wasser noch warm (25-27 Grad), und Direktflüge ab München oder Frankfurt sind günstiger. Eine Woche mit [Mietwagen](https://www.economybookings.com/) auf Sardinien kostet im September 800-1.200 Euro pro Person inklusive Unterkunft, im August 1.400-2.000 Euro.
 
 ## Monat für Monat: Kurze Übersicht
 

@@ -17,7 +17,7 @@ The catch: Positano is small, expensive, and packed in summer. The right accommo
 - **Spiaggia Grande / Lower Village:** Right in the action, steps from the beach. Best for those who want the buzz and short walks. Also the priciest.
 - **Mid-Village (Via Cristoforo Colombo / Via dei Mulini):** The sweet spot. Great views, still walkable, more moderate prices.
 - **Upper Village / Montepertuso:** Quieter, more local, cheaper. Perfect for travelers who don't need the beach every day. Bus connection to the center.
-- **Praiano (neighboring town):** Just 5 km away, far fewer tourists, lower prices, its own small beach. Ideal for budget travelers with a rental car.
+- **Praiano (neighboring town):** Just 5 km away, far fewer tourists, lower prices, its own small beach. Ideal for budget travelers with a [rental car](https://www.economybookings.com/).
 - **Nocelle:** Tiny mountain hamlet above Positano. Complete tranquility, stunning panoramic views. Accessible only by car or on foot.
 
 ## Spiaggia Grande: The Beach as Your Living Room

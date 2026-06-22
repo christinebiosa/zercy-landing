@@ -30,7 +30,7 @@ Cinco lagos destacan por encima del resto:
 La mayoría de estos lagos no son triviales en transporte público, pero son asequibles:
 
 - **Lago de Como:** Desde Milán en tren regional en 35-50 minutos. Milano Centrale directo a Como S. Giovanni.
-- **Bled:** Desde Liubliana en autobús (unos 10 euros, 55 minutos) o en coche de alquiler. Con coche también puedes llegar a Bohinj desde allí (25 minutos más).
+- **Bled:** Desde Liubliana en autobús (unos 10 euros, 55 minutos) o en [coche de alquiler](https://www.economybookings.com/). Con coche también puedes llegar a Bohinj desde allí (25 minutos más).
 - **Hallstatt:** Desde Salzburgo en tren regional (unas 2,5 horas, transbordo en Attnang-Puchheim). Lento pero bonito.
 - **Plitvice:** Desde Split (2,5 horas en coche) o Zagreb (2 horas). Hay conexiones en autobús pero son lentas. Se recomienda coche de alquiler.
 

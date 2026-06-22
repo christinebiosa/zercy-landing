@@ -99,7 +99,7 @@ South Beach for the first evening and Art Deco atmosphere. Wynwood or Brickell f
 
 ### How do I get from Miami Airport to my hotel?
 
-Uber or Lyft is the simplest option. From Brickell or Downtown, the ride takes 20 to 30 minutes and costs around 25 to 35 dollars. A rental car only makes sense if you plan to do day trips to Key West or the Everglades. Miami itself is easy to navigate without a car.
+Uber or Lyft is the simplest option. From Brickell or Downtown, the ride takes 20 to 30 minutes and costs around 25 to 35 dollars. A [rental car](https://www.economybookings.com/) only makes sense if you plan to do day trips to Key West or the Everglades. Miami itself is easy to navigate without a car.
 
 ### When is the best time to visit Miami for a weekend trip?
 

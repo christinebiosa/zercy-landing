@@ -33,7 +33,7 @@ The classic direction is north to south: San Francisco down to San Diego. You ke
 
 **May through October** is peak season. July and August can get hot, especially south of Big Sur. But coastal fog, known as "June Gloom," appears exactly in these months and can last for hours.
 
-**September and October** are the best months. Less fog, fewer tourists than summer, comfortable temperatures. Hotels and rental cars are also cheaper.
+**September and October** are the best months. Less fog, fewer tourists than summer, comfortable temperatures. Hotels and [rental cars](https://www.economybookings.com/) are also cheaper.
 
 **Spring (April/May):** Beautiful and green from winter rain, wildflowers bloom in Big Sur. Still cooler and windier than summer.
 

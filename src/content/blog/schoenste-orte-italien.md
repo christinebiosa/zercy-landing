@@ -72,7 +72,7 @@ Sueditalien (Apulien, Kalabrien, Basilikata) und die Dolomiten sind im Sommer er
 Mai, Juni und September bis Oktober sind die goldenen Monate: gutes Wetter, keine Hochsaisonpreise, weniger Gaeste. Juli und August sind extrem teuer und ueberfuellt, vor allem an der Kueste. Fruehjahr (April) ist gut fuer Staedtereisen.
 
 ### Wie reist man guenstig durch Italien?
-Die Regionalbahn (Trenitalia) ist guenstig und verbindet die meisten Orte. Hochgeschwindigkeitszuege (Frecciarossa) zwischen Mailand, Florenz, Rom und Neapel kostem bei Fruehbucherpreisen ca. 25-50 Euro. Bus-Apps wie FlixBus verbinden kleinere Stadte. Mietwagen in Sueditalien ist sinnvoll, in Staedten unnoetig.
+Die Regionalbahn (Trenitalia) ist guenstig und verbindet die meisten Orte. Hochgeschwindigkeitszuege (Frecciarossa) zwischen Mailand, Florenz, Rom und Neapel kostem bei Fruehbucherpreisen ca. 25-50 Euro. Bus-Apps wie FlixBus verbinden kleinere Stadte. [Mietwagen](https://www.economybookings.com/) in Sueditalien ist sinnvoll, in Staedten unnoetig.
 
 ### Wo in Italien esse ich am authentischsten?
 In kleinen Trattorien und Osterien abseits der Touristenplaetze. Eine Faustregel: Je weniger Touristen im Restaurant, desto besser das Essen. In Neapel die originale Pizza Margherita (3-5 Euro), in Bologna Tagliatelle al Ragu (kein Spaghetti Bolognese, das ist nicht original), in Palermo Arancini am Strassenstand.

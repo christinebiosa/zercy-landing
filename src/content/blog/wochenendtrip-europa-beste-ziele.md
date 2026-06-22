@@ -66,7 +66,7 @@ Sparen ohne Qualitätsverlust: Frühstück weglassen (Hotelfrühstück ist über
 
 Zercy baut die aktuellen Flugpreise direkt in jeden Reiseplan ein. Gib dein Ziel ein und bekomme sofort Vergleichslinks. Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen alle Optionen zur Hand hast.
 
-Für alle, die einen Wochenendtrip mit Mietwagen planen: Der [Mietwagen-Check für Europa](/blog/mietwagen-check/) zeigt, wann sich ein Auto lohnt und welche Anbieter zuverlässig sind. Mehr detaillierte Ziel-Guides findest du auf der Zercy-Blog-Übersicht.
+Für alle, die einen Wochenendtrip mit [Mietwagen](https://www.economybookings.com/) planen: Der [Mietwagen-Check für Europa](/blog/mietwagen-check/) zeigt, wann sich ein Auto lohnt und welche Anbieter zuverlässig sind. Mehr detaillierte Ziel-Guides findest du auf der Zercy-Blog-Übersicht.
 
 **Mehr lesen:**
 - [48 Stunden Prag: Das ehrliche Itinerar](/blog/48-stunden-prag/)

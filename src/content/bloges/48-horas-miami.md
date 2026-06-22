@@ -99,7 +99,7 @@ South Beach para la primera noche y la atmósfera Art Deco. Wynwood o Brickell p
 
 ### ¿Cómo llego desde el aeropuerto MIA hasta el hotel?
 
-Uber o Lyft es la opción más sencilla. Desde Brickell o Downtown el trayecto dura entre 20 y 30 minutos y cuesta alrededor de 25 a 35 dólares. Un coche de alquiler solo tiene sentido si planeas excursiones a los Cayos o a los Everglades. Dentro de Miami no lo necesitas.
+Uber o Lyft es la opción más sencilla. Desde Brickell o Downtown el trayecto dura entre 20 y 30 minutos y cuesta alrededor de 25 a 35 dólares. Un [coche de alquiler](https://www.economybookings.com/) solo tiene sentido si planeas excursiones a los Cayos o a los Everglades. Dentro de Miami no lo necesitas.
 
 ### ¿Cuándo es la mejor época para visitar Miami en un fin de semana corto?
 

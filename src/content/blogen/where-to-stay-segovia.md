@@ -23,7 +23,7 @@ Segovia is a compact city. There are no sprawling neighbourhoods with wildly dif
 
 ## Where to stay in the old town and near the aqueduct?
 
-The heart of Segovia runs between the aqueduct in the east and the Alcázar in the west. This is where the cathedral, the best restaurants and the main sights are concentrated. Staying here means you can skip the rental car entirely.
+The heart of Segovia runs between the aqueduct in the east and the Alcázar in the west. This is where the cathedral, the best restaurants and the main sights are concentrated. Staying here means you can skip the [rental car](https://www.economybookings.com/) entirely.
 
 These and over 100 Segovia hotels are listed on [Booking.com](https://www.booking.com/city/es/segovia.html) with filters for location and guest ratings.
 

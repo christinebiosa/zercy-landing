@@ -89,7 +89,7 @@ El centro de la ciudad, sobre la isla fluvial, es la opción más clara. Todo es
 De noviembre a marzo los precios de los hoteles bajan entre un 30 y un 40 por ciento respecto al verano. El tiempo es lluvioso y gris, pero Cork tiene mucho interior: pubs, el English Market, la Galería Crawford y una escena gastronómica potente. Octubre es el punto dulce: ambiente del Jazz Festival con precios moderados.
 
 ### ¿A qué distancia está el aeropuerto de Cork del centro?
-El aeropuerto de Cork está a 8 kilómetros al sur del centro. El autobús de la línea 226A tarda entre 20 y 30 minutos y tiene salidas frecuentes. Un taxi cuesta unos 15 a 20 euros y tarda 15 minutos. El coche de alquiler solo vale la pena si planeas excursiones hacia el Wild Atlantic Way o el condado de Kerry.
+El aeropuerto de Cork está a 8 kilómetros al sur del centro. El autobús de la línea 226A tarda entre 20 y 30 minutos y tiene salidas frecuentes. Un taxi cuesta unos 15 a 20 euros y tarda 15 minutos. El [coche de alquiler](https://www.economybookings.com/) solo vale la pena si planeas excursiones hacia el Wild Atlantic Way o el condado de Kerry.
 
 ### ¿Qué no te puedes perder en Cork?
 El English Market es obligatorio. Este mercado cubierto lleva en funcionamiento desde 1788 y es el corazón cultural de la ciudad. Pescado fresco, quesos locales, embutidos irlandeses y algunos de los mejores platos informales del país. Abre de lunes a sábado, y el Farmgate Café en la planta de arriba es uno de los mejores sitios para almorzar en Cork.

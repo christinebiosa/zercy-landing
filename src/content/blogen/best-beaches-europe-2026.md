@@ -18,7 +18,7 @@ This is not a tourism ranking. It is an honest assessment: what you need to get 
 
 **Zlatni Rat, Croatia (Brac Island):** The horn-shaped pebble beach near Bol is Croatia's signature image. Its shape actually changes with the current. Water is clear, windsurfers flock here for the Maestral wind. Reachable from Split by ferry in about one hour. July and August are very busy. June and September are better months.
 
-**Best route:** Cala Mariolu via flight to Cagliari or Alghero, then rental car. Zlatni Rat: flight to Split, ferry to Supetar (Brac), bus to Bol.
+**Best route:** Cala Mariolu via flight to Cagliari or Alghero, then [rental car](https://www.economybookings.com/). Zlatni Rat: flight to Split, ferry to Supetar (Brac), bus to Bol.
 
 **Price level:** Sardinia medium to high, Croatia medium. Accommodation in Croatia is considerably cheaper.
 

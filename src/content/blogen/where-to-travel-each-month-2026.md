@@ -14,7 +14,7 @@ Twelve months, twelve perfect destinations. This guide is for you if you're done
 Not every place is equally good year-round. Southeast Asia has its monsoon. European summers are expensive and crowded. The trick: travel counter-cyclically. Fewer tourists, better prices, and the weather still works.
 
 **January: Costa Rica**
-January marks the start of dry season in Costa Rica. Guanacaste and the Pacific Coast shine. Temperatures around 28°C, barely any rain. A [Costa Rica road trip](/en/blog/costa-rica-road-trip-route/) in January costs from about €80 per day for two, including accommodation and car rental. Perfect for nature lovers and surfers.
+January marks the start of dry season in Costa Rica. Guanacaste and the Pacific Coast shine. Temperatures around 28°C, barely any rain. A [Costa Rica road trip](/en/blog/costa-rica-road-trip-route/) in January costs from about €80 per day for two, including accommodation and [car rental](https://www.economybookings.com/). Perfect for nature lovers and surfers.
 
 **February: Morocco**
 February is one of the best months for Morocco. Marrakech sits at a pleasant 18-22°C with rare rainfall. Crowds are manageable. You can do a [Morocco cities trip](/en/blog/morocco-cities-guide/) through Marrakech, Fez, and Chefchaouen for under €60 daily. The snow-capped Atlas Mountains form a dramatic backdrop.

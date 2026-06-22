@@ -66,7 +66,7 @@ April through October is the window. But not every month is equal.
 
 Budget varies, but here are realistic numbers for two people, 14 days:
 
-**Rental car:** 600-1,200 USD (standard automatic, full coverage). Booking early saves money. Consolidators like Autoslash or Rentalcars.com compare prices across multiple providers. More in the [rental car guide](/en/blog/rental-car-checklist/).
+**[Rental car](https://www.economybookings.com/):** 600-1,200 USD (standard automatic, full coverage). Booking early saves money. Consolidators like Autoslash or Rentalcars.com compare prices across multiple providers. More in the [rental car guide](/en/blog/rental-car-checklist/).
 
 **Fuel:** 300-500 USD for an economical vehicle. US prices vary significantly by region. Oklahoma and Texas are cheaper than California.
 

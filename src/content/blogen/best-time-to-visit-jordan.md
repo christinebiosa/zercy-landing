@@ -42,7 +42,7 @@ In summer (July-August) air and water temperatures are warm, but 42 degrees in d
 
 Dead Sea hotel prices: 100-250 euros per night at mid-range resorts, 300-600 euros at luxury properties (Kempinski, Marriott, Movenpick). The best resorts sit on the Jordanian side, south of Amman.
 
-From Amman to the Dead Sea is about 60 kilometres (45 minutes by taxi or rental car, roughly 25-35 euros). There are occasional bus connections, but a rental car makes the Dead Sea, snorkelling route, and Wadi Rum far more flexible. Our [rental car guide](/en/blog/rental-car-checklist/) covers booking without surprises.
+From Amman to the Dead Sea is about 60 kilometres (45 minutes by taxi or [rental car](https://www.economybookings.com/), roughly 25-35 euros). There are occasional bus connections, but a rental car makes the Dead Sea, snorkelling route, and Wadi Rum far more flexible. Our [rental car guide](/en/blog/rental-car-checklist/) covers booking without surprises.
 
 ## What Does Jordan Cost and Which Months Are Most Affordable?
 

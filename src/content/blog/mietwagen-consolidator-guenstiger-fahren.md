@@ -30,7 +30,7 @@ Drei Gründe, die zusammenkommen.
 
 ## Welche Consolidators sind die besten?
 
-[DiscoverCars](https://www.discovercars.com/) ist einer der größten Mietwagen-Consolidators weltweit. Sie vergleichen über 500 Anbieter in mehr als 10.000 Städten, von den großen Ketten bis zu lokalen Familienbetrieben. Besonders gut: kostenlose Stornierung bis 48 Stunden vor Abholung bei vielen Tarifen, und die Preise sind inklusive Standard-Haftpflichtversicherung. Wenn du nicht gerade Sixt-Stammkunde bist, lohnt sich ein Vergleichs-Klick dort fast immer.
+[DiscoverCars](https://www.discovercars.com/) ist einer der größten [Mietwagen](https://www.economybookings.com/)-Consolidators weltweit. Sie vergleichen über 500 Anbieter in mehr als 10.000 Städten, von den großen Ketten bis zu lokalen Familienbetrieben. Besonders gut: kostenlose Stornierung bis 48 Stunden vor Abholung bei vielen Tarifen, und die Preise sind inklusive Standard-Haftpflichtversicherung. Wenn du nicht gerade Sixt-Stammkunde bist, lohnt sich ein Vergleichs-Klick dort fast immer.
 
 [AutoEurope](https://www.autoeurope.de/) ist der Klassiker für Europa-Reisen, seit über 60 Jahren im Geschäft. Stark bei Luxusfahrzeugen und Spezialfahrzeugen (Cabrio, Kombi, Van).
 

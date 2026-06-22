@@ -128,7 +128,7 @@ Mai, Juni und September. Warm, sonnig, das Meer ist badetauglich, die Preise sin
 
 ### Wie kommt man von Dubrovnik nach Budva?
 
-Per Mietwagen oder Bus: ca. 2,5 bis 3 Stunden Fahrt, davon ein kurzer Grenzübergang nach Montenegro. Busse fahren täglich, Kosten ca. 15-20 EUR. Mietwagen lohnt sich wegen der schönen Küstenstraße und Stopps in Kotor oder Perast auf dem Weg.
+Per [Mietwagen](https://www.economybookings.com/) oder Bus: ca. 2,5 bis 3 Stunden Fahrt, davon ein kurzer Grenzübergang nach Montenegro. Busse fahren täglich, Kosten ca. 15-20 EUR. Mietwagen lohnt sich wegen der schönen Küstenstraße und Stopps in Kotor oder Perast auf dem Weg.
 
 ---
 

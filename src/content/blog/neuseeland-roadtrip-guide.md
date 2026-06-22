@@ -32,7 +32,7 @@ Mietwagenvergleiche lohnen sich über [DiscoverCars](https://www.discovercars.co
 
 | Option | Tageskosten Fahrzeug | Übernachtung | Gesamt/Tag |
 |--------|---------------------|--------------|------------|
-| Mietwagen + Hostel | 50–80 NZD | 30–45 NZD | 80–125 NZD |
+| [Mietwagen](https://www.economybookings.com/) + Hostel | 50–80 NZD | 30–45 NZD | 80–125 NZD |
 | Mietwagen + Motel | 50–80 NZD | 90–150 NZD | 140–230 NZD |
 | Campervan + DOC-Platz | 100–160 NZD | 10–25 NZD | 110–185 NZD |
 

@@ -24,7 +24,7 @@ Dieser Guide hilft dir, den richtigen Ort zu finden. Fünf echte Orte, konkrete 
 
 Positano ist das Postkartenmotiv der Amalfiküste. Pastellfarbene Häuser den Hang hinunter, schmale Gassen, Restaurants mit Meerblick-Terrasse. Der Strand ist klein und voll. Die Atmosphäre unvergleichlich.
 
-Wer hier richtig liegt: Paare, Fotografen, alle, die einmal "das Erlebnis" haben wollen. Mit Mietwagen schlechte Idee. Parkplätze existieren kaum, Treppen überall.
+Wer hier richtig liegt: Paare, Fotografen, alle, die einmal "das Erlebnis" haben wollen. Mit [Mietwagen](https://www.economybookings.com/) schlechte Idee. Parkplätze existieren kaum, Treppen überall.
 
 Preisspanne: Mittelklasse ab 200 Euro, Boutique 300 bis 500 Euro, Premium teils über 800 Euro.
 

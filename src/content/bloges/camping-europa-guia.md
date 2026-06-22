@@ -72,7 +72,7 @@ La [ruta por Escandinavia](/es/blog/escandinavia-ruta-completa/) es especialment
 
 Zercy integra precios de vuelo en tiempo real. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano al reservar.
 
-Para viajes de camping combinados con alquiler de coche: la [guía de alquiler de coche](/es/blog/checklist-alquiler-coche/) te muestra los proveedores más económicos y qué revisar al recoger el vehículo. Si planeas dormir bajo techo alguna noche en un viaje largo, revisa [¿vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena/) antes de reservar.
+Para viajes de camping combinados con [alquiler de coche](https://www.economybookings.com/): la [guía de alquiler de coche](/es/blog/checklist-alquiler-coche/) te muestra los proveedores más económicos y qué revisar al recoger el vehículo. Si planeas dormir bajo techo alguna noche en un viaje largo, revisa [¿vale la pena el seguro de viaje?](/es/blog/seguro-viaje-vale-la-pena/) antes de reservar.
 
 **Más información:**
 - [Campervan en Europa: la guía completa](/es/blog/campervan-vacaciones-europa/)

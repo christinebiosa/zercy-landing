@@ -29,7 +29,7 @@ Short answer: it depends on what you want.
 
 **Flying into Bergen** is the simplest starting point. Bergen has solid connections from across Europe. Ryanair, Norwegian, and Lufthansa fly direct from many cities in Germany, the UK, and the Netherlands. From Bergen, you're less than two hours by car from the Hardangerfjord. The Sognefjord takes about 2.5 to 3 hours.
 
-**Renting a car** gives you the most freedom. Roads are good, the scenery is spectacular. Tunnels save time, but the mountain roads are the journey itself. Plan more time than Google Maps suggests. The Trollstigen near Geirangerfjord is one of the most famous mountain roads in Europe. Very narrow switchbacks, not ideal for nervous drivers. Book your rental car in advance through Booking.com or Expedia for the best rates.
+**Renting a car** gives you the most freedom. Roads are good, the scenery is spectacular. Tunnels save time, but the mountain roads are the journey itself. Plan more time than Google Maps suggests. The Trollstigen near Geirangerfjord is one of the most famous mountain roads in Europe. Very narrow switchbacks, not ideal for nervous drivers. Book your [rental car](https://www.economybookings.com/) in advance through Booking.com or Expedia for the best rates.
 
 **Norway in a Nutshell** is the easiest option for first-timers without a car. You combine train, fjord boat, and bus into a circular route. Oslo to Bergen with stops in Flåm, Gudvangen, and the Nærøyfjord. One to two and a half days. No planning, no navigation. Just board and go. Bookable directly through [Visit Norway](https://www.visitnorway.com).
 

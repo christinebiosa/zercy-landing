@@ -59,7 +59,7 @@ Malaria-Prophylaxe ist ratsam für Safari-Gebiete und die Küste. Nairobi selbst
 
 Zwischen Städten und Touristenorten: Inlandsflüge (Safarilink, Airkenya). Komfortabel, zeiteffizient, oft überraschend günstig.
 
-Für Eigenständige: Mietwagen mit Fahrer oder Self-Drive in nationalen Parks (nur in bestimmten Parks erlaubt). Viele Safari-Operator bieten All-Inclusive-Pakete an, die Transfers, Fahrzeuge und Guides umfassen.
+Für Eigenständige: [Mietwagen](https://www.economybookings.com/) mit Fahrer oder Self-Drive in nationalen Parks (nur in bestimmten Parks erlaubt). Viele Safari-Operator bieten All-Inclusive-Pakete an, die Transfers, Fahrzeuge und Guides umfassen.
 
 Nairobi selbst: Uber funktioniert gut und ist deutlich sicherer als Taxis. Bodabodas (Motorradtaxis) sind günstig, aber für Touristen nicht empfehlenswert.
 

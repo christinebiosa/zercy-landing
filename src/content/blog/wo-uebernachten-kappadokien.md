@@ -70,7 +70,7 @@ Als Basis für Kappadokien ist Avanos etwas weniger praktisch als Göreme, weil 
 
 Hotels in Avanos kosten 20 bis 40 Prozent weniger als vergleichbare Unterkünfte in Göreme. Gute Boutique-Hotels ab 80 Euro, Familienbetriebe ab 55 Euro.
 
-Wer mit Mietwagen reist, hat hier einen klaren Vorteil: die Täler sind gut erreichbar, und Avanos selbst ist ein schöner Ausgangspunkt für spontane Stopps. Hinweise zum Mietwagenbuchen findest du im [Reiseversicherung-Guide](/blog/reiseversicherung-was-lohnt-sich/).
+Wer mit [Mietwagen](https://www.economybookings.com/) reist, hat hier einen klaren Vorteil: die Täler sind gut erreichbar, und Avanos selbst ist ein schöner Ausgangspunkt für spontane Stopps. Hinweise zum Mietwagenbuchen findest du im [Reiseversicherung-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 ## Ortahisar: Der Geheimtipp im Felsdorf
 

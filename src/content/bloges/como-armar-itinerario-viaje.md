@@ -55,7 +55,7 @@ Aqui hay una estructura concreta que funciona bien en la practica. Adaptable par
 **Encabezado por dia:**
 - Fecha y ciudad/ubicacion
 - Alojamiento (nombre y direccion)
-- Transporte del dia (tren, autobus, coche de alquiler)
+- Transporte del dia (tren, autobus, [coche de alquiler](https://www.economybookings.com/))
 
 **Estructura diaria:**
 - Manana (9 a 13 h): una actividad principal con referencia de reserva

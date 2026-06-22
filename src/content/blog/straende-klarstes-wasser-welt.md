@@ -79,4 +79,4 @@ Flaches Wasser mit hellem Sandboden oder Kalkstein wirft das Licht zurück: das 
 Die Schulter-Saison (Mai-Juni und September für Europa; November-April für Südostasien und Pazifik) bietet die beste Kombination aus Wasserklarheit und weniger Massen. Im Hochsommer ist das Wasser trotzdem klar, aber die Strände sind voller und teurer.
 
 ### Welche Strände mit klarstem Wasser sind am leichtesten erreichbar?
-Whitehaven Beach in Australien und Seven Mile Beach auf Grand Cayman sind gut angebunden und haben touristische Infrastruktur. La Pelosa auf Sardinien ist per Mietwagen von Alghero in 40 Minuten erreichbar. Die Philippinen-Optionen (El Nido, Coron) erfordern Inlandsflüge, sind aber organisatorisch einfach.
+Whitehaven Beach in Australien und Seven Mile Beach auf Grand Cayman sind gut angebunden und haben touristische Infrastruktur. La Pelosa auf Sardinien ist per [Mietwagen](https://www.economybookings.com/) von Alghero in 40 Minuten erreichbar. Die Philippinen-Optionen (El Nido, Coron) erfordern Inlandsflüge, sind aber organisatorisch einfach.

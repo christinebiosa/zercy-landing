@@ -28,7 +28,7 @@ The catch: Spain is not one country but many. Green, rainy Galicia in the north 
 
 The price gaps are significant. A concrete comparison:
 
-**Peak season (July/August):** Barcelona city-centre hotel 150-220 euros per night. Frankfurt-Barcelona flights (round trip) 180-350 euros. Rental car prices can double compared to shoulder season.
+**Peak season (July/August):** Barcelona city-centre hotel 150-220 euros per night. Frankfurt-Barcelona flights (round trip) 180-350 euros. [Rental car](https://www.economybookings.com/) prices can double compared to shoulder season.
 
 **Shoulder season (May/June, September/October):** Barcelona hotel 80-130 euros per night. Frankfurt-Barcelona flights 90-180 euros round trip. Noticeably fewer crowds at attractions.
 

@@ -122,7 +122,7 @@ Juli und August sind Hochsaison: Boutique-Hotels ab 150 EUR, Mittelklasse 100-16
 
 ### Wie kommt man von Dubrovnik nach Kotor?
 
-Per Bus: täglich mehrere Verbindungen, Fahrzeit ca. 2 bis 2,5 Stunden, Preis 10-15 EUR. Per Mietwagen: dieselbe Strecke, flexibler, schönere Strandstopps möglich. Die Busverbindung ist praktisch und günstig.
+Per Bus: täglich mehrere Verbindungen, Fahrzeit ca. 2 bis 2,5 Stunden, Preis 10-15 EUR. Per [Mietwagen](https://www.economybookings.com/): dieselbe Strecke, flexibler, schönere Strandstopps möglich. Die Busverbindung ist praktisch und günstig.
 
 ### Was sollte man in Kotor unbedingt gemacht haben?
 

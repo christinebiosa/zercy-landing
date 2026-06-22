@@ -20,7 +20,7 @@ Die Algarve hat einen wilden, ursprünglichen Charakter, den die Costa del Sol s
 
 Für Wanderer gibt es die Rota Vicentina: ein Küstenpfad entlang der Naturparks des Alentejo und der Algarve. Über [Turismo do Algarve](https://www.visitalgarve.pt/en/) findest du Etappenpläne und Unterkunftslisten direkt vom offiziellen Tourismusbüro.
 
-Der Preisunterschied ist real. Die Algarve liegt etwa 15-25% unter dem Niveau der Costa del Sol. Hotels, Restaurants, Mietwagen. Wer zwei Wochen plant, spürt das. Ein Strandrestaurant in Albufeira kostet deutlich weniger als ein vergleichbares in Marbella.
+Der Preisunterschied ist real. Die Algarve liegt etwa 15-25% unter dem Niveau der Costa del Sol. Hotels, Restaurants, [Mietwagen](https://www.economybookings.com/). Wer zwei Wochen plant, spürt das. Ein Strandrestaurant in Albufeira kostet deutlich weniger als ein vergleichbares in Marbella.
 
 Schau auch in den [Algarve-Reisefuehrer 2026](/blog/algarve-reisefuehrer-2026/), wenn du die Region tiefer kennenlernen willst. Und wenn du mit dem Gedanken spielst, Surf-Urlaub zu kombinieren: [Surfurlaub für Anfänger](/blog/surfurlaub-anfaenger-destinations/) zeigt dir, welche Spots auf welchem Level realistisch sind.
 

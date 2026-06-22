@@ -30,7 +30,7 @@ Portugal es más barato en el sur que en el norte. Lisboa y Oporto son más cara
 **Desglose de costos:**
 - Alojamiento: 35–80 euros/noche (hostal a gama media)
 - Comida: 20–35 euros/día (Menú del día desde 8–12 euros, muy recomendable)
-- Transporte: tren Lisboa–Oporto unos 30 euros (Alfa Pendular), coche de alquiler en el Algarve desde 25 euros/día
+- Transporte: tren Lisboa–Oporto unos 30 euros (Alfa Pendular), [coche de alquiler](https://www.economybookings.com/) en el Algarve desde 25 euros/día
 - Actividades: museos 5–15 euros, tours de vino en el Duero 20–50 euros
 
 El Menú del día es la mejor ganga de viaje en Portugal. Dos platos más bebida por menos de 12 euros. Disponible casi en todas partes, incluso en buenos restaurantes.

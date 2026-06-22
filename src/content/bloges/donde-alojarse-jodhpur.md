@@ -43,7 +43,7 @@ Vale la pena considerar: **Cosy Guest House** es una pensión familiar con terra
 
 ## Residency Road y Raikabagh: moderno y tranquilo
 
-Para viajeros que prefieren noches más tranquilas o que llegan en coche de alquiler, los barrios más modernos al sur de la ciudad vieja ofrecen buena variedad. Los hoteles aquí suelen tener aparcamiento, piscinas y habitaciones más amplias.
+Para viajeros que prefieren noches más tranquilas o que llegan en [coche de alquiler](https://www.economybookings.com/), los barrios más modernos al sur de la ciudad vieja ofrecen buena variedad. Los hoteles aquí suelen tener aparcamiento, piscinas y habitaciones más amplias.
 
 Rango de precios: 30-120 euros por noche.
 

@@ -14,7 +14,7 @@ Here are the most common traps. And how to avoid them.
 
 ## Which extra fees are most expensive?
 
-Before we dive in: the three biggest cost drivers are **desk-sold full coverage** (50-100 euros per day extra), **fuel service** (30-50% markup on pump price) and **airport fees** (up to 25% of base price). Know these three and you control 80 percent of typical rental car traps.
+Before we dive in: the three biggest cost drivers are **desk-sold full coverage** (50-100 euros per day extra), **fuel service** (30-50% markup on pump price) and **airport fees** (up to 25% of base price). Know these three and you control 80 percent of typical [rental car](https://www.economybookings.com/) traps.
 
 Here all seven traps in detail.
 

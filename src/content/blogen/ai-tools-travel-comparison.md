@@ -70,7 +70,7 @@ A pragmatic workflow recommendation.
 
 **Phase 2 (facts):** Perplexity. Visas, weather, safety advisories, local events. Verified sources are gold.
 
-**Phase 3 (booking):** Travel-specific tools like Zercy. Concrete flight prices, hotel comparison, rental cars. Direct links to Booking, Expedia, Skyscanner.
+**Phase 3 (booking):** Travel-specific tools like Zercy. Concrete flight prices, hotel comparison, [rental cars](https://www.economybookings.com/). Direct links to Booking, Expedia, Skyscanner.
 
 This split takes about 30 minutes and produces a better trip than 3 hours stuck in one tool.
 

@@ -83,7 +83,7 @@ Junio y septiembre ofrecen la mejor combinación de clubs abiertos, precios más
 El ferry cuesta entre 20 y 40 euros por persona en ida y vuelta, dependiendo del operador y la temporada. La travesía dura unos 30 minutos desde el puerto de Ibiza. Formentera no tiene grandes hoteles de resort. La isla vive de las playas, las bicicletas y los pequeños restaurantes. Es uno de los días más asequibles que tendrás en Baleares.
 
 ### ¿Qué diferencia hay entre el norte y el sur de Mallorca?
-El norte, especialmente alrededor de Sóller y Deià, es mucho más tranquilo y conserva la esencia de la isla antes del turismo masivo. La sierra de Tramuntana es accesible directamente desde ahí, y los pueblos tienen carácter propio. El sureste y la Bahía de Palma concentran los grandes complejos hoteleros. Ver ambas caras bien requiere al menos siete días y un coche de alquiler.
+El norte, especialmente alrededor de Sóller y Deià, es mucho más tranquilo y conserva la esencia de la isla antes del turismo masivo. La sierra de Tramuntana es accesible directamente desde ahí, y los pueblos tienen carácter propio. El sureste y la Bahía de Palma concentran los grandes complejos hoteleros. Ver ambas caras bien requiere al menos siete días y un [coche de alquiler](https://www.economybookings.com/).
 
 ---
 

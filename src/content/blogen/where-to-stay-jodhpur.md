@@ -43,7 +43,7 @@ Worth considering: **Cosy Guest House** is a family-run guesthouse with a roofto
 
 ## Residency Road and Raikabagh: Modern and Relaxed
 
-For travelers who want quieter nights or arrive by rental car, the more modern neighborhoods south of the old city offer a good selection. Hotels here often have parking, swimming pools and larger rooms.
+For travelers who want quieter nights or arrive by [rental car](https://www.economybookings.com/), the more modern neighborhoods south of the old city offer a good selection. Hotels here often have parking, swimming pools and larger rooms.
 
 Price range: 30-120 euros per night.
 

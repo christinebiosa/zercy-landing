@@ -84,7 +84,7 @@ Torres del Paine en Patagonia (Chile) y Fiordland en Nueva Zelanda requieren los
 No hay una respuesta universal: Torres del Paine va de noviembre a marzo (verano austral), Banff de julio a septiembre, Plitvice en mayo y septiembre, el Serengueti para la migración en julio y agosto, y Yosemite brilla de abril a mayo y en octubre. La temporada alta es la más popular en todas partes, pero también la más cara y la más masificada.
 
 ### ¿Cuánto cuesta un viaje a un parque nacional?
-Las tarifas de entrada suelen ser el gasto menor (10-40 USD/EUR por persona). Los grandes costes son el transporte y el alojamiento. Para dos semanas en Patagonia con vuelos, calcula entre 1.500 y 3.000 EUR. Banff resulta caro por el vuelo a Canadá, pero es muy asequible una vez allí. Un viaje a Yosemite en EE.UU. se encarece con los vuelos y el coche de alquiler.
+Las tarifas de entrada suelen ser el gasto menor (10-40 USD/EUR por persona). Los grandes costes son el transporte y el alojamiento. Para dos semanas en Patagonia con vuelos, calcula entre 1.500 y 3.000 EUR. Banff resulta caro por el vuelo a Canadá, pero es muy asequible una vez allí. Un viaje a Yosemite en EE.UU. se encarece con los vuelos y el [coche de alquiler](https://www.economybookings.com/).
 
 ### ¿Por qué conviene visitar los parques nacionales fuera de temporada alta?
 Menos gente significa una experiencia completamente diferente. Plitvice en septiembre tiene la mitad de visitantes que en agosto, pero la misma belleza. Yosemite en octubre no tiene sistema de reservas obligatorias. Banff en junio todavía tiene algo de nieve y mucha menos afluencia. En muchos parques, la primavera o el otoño son visualmente más impresionantes que el pleno verano.

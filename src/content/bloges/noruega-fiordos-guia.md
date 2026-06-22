@@ -55,7 +55,7 @@ Noruega es cara. No hay forma de evitarlo. Pero sí es planificable.
 
 **Comida:** Hacer la compra en el supermercado ahorra mucho. Un sándwich para llevar: entre 3 y 5 euros. Café económico, almuerzo: entre 15 y 25 euros. Cena en restaurante: entre 30 y 50 euros por persona sin bebida. El vino y la cerveza en restaurantes son caros: entre 10 y 15 euros por copa.
 
-**Transporte:** Alquiler de auto por una semana: entre 250 y 400 euros. La gasolina es cara. También se aplican peajes electrónicos. Transbordadores: entre 5 y 20 euros por cruce.
+**Transporte:** [Alquiler de auto](https://www.economybookings.com/) por una semana: entre 250 y 400 euros. La gasolina es cara. También se aplican peajes electrónicos. Transbordadores: entre 5 y 20 euros por cruce.
 
 **Entradas:** La mayoría de las rutas de fiordos son gratuitas. No hay tarifa de entrada para la Trollstigen ni para la carretera del Geirangerfjord. Norway in a Nutshell cuesta alrededor de 150 a 200 euros por persona.
 

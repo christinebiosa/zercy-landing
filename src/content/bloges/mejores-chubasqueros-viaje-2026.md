@@ -54,7 +54,7 @@ La opción ultraligera. Menos de 200 g, costuras totalmente selladas, Gore-Tex I
 
 Los viajeros lo preguntan más de lo que parece. Ambos protegen de la lluvia. La diferencia está en el contexto.
 
-Una hardshell (como los siete modelos anteriores) es una chaqueta con mangas, cuello, capucha y cremalleras. Se lleva como una chaqueta normal. Ideal cuando necesitas movilidad: senderismo, callejear, cargar el coche de alquiler.
+Una hardshell (como los siete modelos anteriores) es una chaqueta con mangas, cuello, capucha y cremalleras. Se lleva como una chaqueta normal. Ideal cuando necesitas movilidad: senderismo, callejear, cargar el [coche de alquiler](https://www.economybookings.com/).
 
 Un poncho cubre más, cuesta menos y pesa casi nada. Bien para festivales, tours en autobús turístico, excursiones cortas. Mal con viento y peor si necesitas moverte de verdad.
 

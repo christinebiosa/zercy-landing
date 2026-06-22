@@ -44,7 +44,7 @@ Eso no significa cinco estrellas en todas partes. Pero una habitación tranquila
 
 En vuelos de larga distancia, la clase business merece al menos pensarse. Si tienes problemas de espalda o duermes mal sentado, aterrizar después de diez horas en turista puede arruinarte los primeros días. A veces la diferencia de precio es menor que la visita al fisioterapeuta después.
 
-Coche de alquiler en lugar de transporte público es otro tema a valorar. No en todos los destinos, pero en algunos — Canarias, sur de Portugal, interior de España — un coche es la solución más cómoda y a menudo más barata que autobuses o taxis.
+[Coche de alquiler](https://www.economybookings.com/) en lugar de transporte público es otro tema a valorar. No en todos los destinos, pero en algunos — Canarias, sur de Portugal, interior de España — un coche es la solución más cómoda y a menudo más barata que autobuses o taxis.
 
 Para el viaje accesible — ya sea por limitaciones de movilidad o simplemente porque quieres viajar con más comodidad: [Viajes accesibles: la guía completa](/es/blog/viajes-accesibles-guia/)
 

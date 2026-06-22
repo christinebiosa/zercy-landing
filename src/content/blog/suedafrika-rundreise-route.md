@@ -31,7 +31,7 @@ Kapstadt ist eine der faszinierendsten Städte der Welt. Und es gibt viel zu vie
 
 **Tafelberg (Table Mountain):** Auffahrt mit der Seilbahn oder zu Fuß. Klarer Himmel und kein "Tischtuch" aus Wolken ist nicht garantiert. Plane flexible Zeit ein, der Berg macht, was er will.
 
-**Kap der Guten Hoffnung:** Nicht der südlichste Punkt Afrikas (das ist Kap Agulhas), aber einer der dramatischsten. Pelikane, Paviane und stürmische Wellen. Per Mietwagen in etwa 90 Minuten von der Stadt.
+**Kap der Guten Hoffnung:** Nicht der südlichste Punkt Afrikas (das ist Kap Agulhas), aber einer der dramatischsten. Pelikane, Paviane und stürmische Wellen. Per [Mietwagen](https://www.economybookings.com/) in etwa 90 Minuten von der Stadt.
 
 **Boulders Beach:** Afrikanische Pinguinkolonie bei Simon's Town. Tausende Pinguine, einfach so. Das ist Südafrika.
 

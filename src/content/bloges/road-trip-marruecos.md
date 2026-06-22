@@ -69,7 +69,7 @@ Desde Fez hay vuelos directos a varias ciudades europeas. Muchos viajeros hacen 
 
 ## Presupuesto realista para el road trip
 
-Alquiler de coche (una semana, coche compacto): 200-400 euros según la compañía y la temporada. Gasolina: alrededor de 40-60 euros para el recorrido completo (el combustible es más barato que en Europa). Riads en Marrakech y Fez: 50-120 euros por noche para dos personas. Campamento en el desierto: 40-150 euros según la categoría.
+[Alquiler de coche](https://www.economybookings.com/) (una semana, coche compacto): 200-400 euros según la compañía y la temporada. Gasolina: alrededor de 40-60 euros para el recorrido completo (el combustible es más barato que en Europa). Riads en Marrakech y Fez: 50-120 euros por noche para dos personas. Campamento en el desierto: 40-150 euros según la categoría.
 
 Comida: Marruecos es muy económico. Comer bien en un restaurante local cuesta entre 8 y 15 euros por persona. Las tajines y el cuscús de los restaurantes sin letrero en inglés son mejores y más baratos que los de las terrazas turísticas.
 

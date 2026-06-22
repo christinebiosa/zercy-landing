@@ -19,7 +19,7 @@ Außerhalb der EU sieht es anders aus. Diese Länder verlangen offiziell einen i
 - **USA**: Technisch gesehen akzeptieren viele Bundesstaaten auch den deutschen Führerschein. In der Praxis fordern Mietwagenanbieter aber fast immer den internationalen dazu. Ohne ihn gibt es keinen Schlüssel.
 - **Japan**: Internationaler Führerschein nach Genfer Übereinkommen zwingend erforderlich. Ohne geht nichts.
 - **Thailand**: Gleiches Prinzip. Ohne internationalen Führerschein ist das Mieten legal nicht möglich, und die Polizeikontrollen sind ernst.
-- **Australien**: Empfohlen und bei Mietwagen oft verlangt. Technisch reicht der deutsche Führerschein mit beglaubigter Übersetzung, in der Praxis ist der internationale deutlich einfacher.
+- **Australien**: Empfohlen und bei [Mietwagen](https://www.economybookings.com/) oft verlangt. Technisch reicht der deutsche Führerschein mit beglaubigter Übersetzung, in der Praxis ist der internationale deutlich einfacher.
 - **Ägypten und Marokko**: In beiden Ländern gilt: ohne internationalen Führerschein kein legales Fahren. Die Kontrollen sind häufig, die Strafen empfindlich.
 
 Faustregel: Sobald du außerhalb Europas ein Auto mietest, besorg dir den internationalen Führerschein. Er kostet fast nichts und du sparst dir viel Ärger.

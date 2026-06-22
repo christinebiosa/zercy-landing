@@ -45,7 +45,7 @@ Swakopmund es una buena base para 2 o 3 días y funciona bien como pausa a mitad
 
 ## ¿Cómo planificar un road trip por Namibia?
 
-Namibia es un país para conducir por cuenta propia. Un coche de alquiler con 4WD es casi imprescindible, especialmente para Sossusvlei y las rutas más remotas. Muchas carreteras son de grava (rutas D) pero están bien mantenidas con el vehículo adecuado.
+Namibia es un país para conducir por cuenta propia. Un [coche de alquiler](https://www.economybookings.com/) con 4WD es casi imprescindible, especialmente para Sossusvlei y las rutas más remotas. Muchas carreteras son de grava (rutas D) pero están bien mantenidas con el vehículo adecuado.
 
 **Ruta clásica (14 a 21 días):**
 Windhoek (punto de partida, aeropuerto) → Sossusvlei (2 a 3 noches) → Swakopmund (2 a 3 noches) → Damaraland (Twyfelfontein, elefantes del desierto) → Etosha (3 a 4 noches) → Windhoek (vuelo de regreso)

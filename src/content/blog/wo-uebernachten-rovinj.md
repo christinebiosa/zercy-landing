@@ -23,7 +23,7 @@ Die Unterkunftswahl ist weniger dramatisch als in Split oder Dubrovnik. Aber sie
 
 **Monte (Hügel):** Kleines Viertel oberhalb der Stadt, Panoramablick, ruhig. Für Pärchen die Aussicht über Trubel stellen.
 
-**Bale/Valle (Umgebung):** Mittelalterliche Kleinstadt 10 km entfernt, Agriturismo-Kultur, echtes Istrien. Für Mietwagen-Reisende und alle die das Landleben suchen.
+**Bale/Valle (Umgebung):** Mittelalterliche Kleinstadt 10 km entfernt, Agriturismo-Kultur, echtes Istrien. Für [Mietwagen](https://www.economybookings.com/)-Reisende und alle die das Landleben suchen.
 
 ## Stari Grad: In der venezianischen Altstadt schlafen
 

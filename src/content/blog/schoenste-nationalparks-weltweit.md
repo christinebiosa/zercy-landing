@@ -84,7 +84,7 @@ Torres del Paine in Patagonien (Chile) und Fiordland in Neuseeland verlangen die
 Es gibt keine universelle Antwort: Torres del Paine hat November bis März (Südhalbkugel-Sommer), Banff Juli bis September, Plitvice Mai und September, Serengeti für die Migration Juli und August, Yosemite April bis Mai und Oktober. Die Hochsaison ist überall am beliebtesten, aber auch am teuersten und am vollsten.
 
 ### Wie viel kostet ein Nationalpark-Urlaub?
-Eintrittsgebühren sind meist der kleinste Posten (10-40 USD/EUR pro Person). Die größten Kosten sind Anreise und Unterkunft. Für Torres del Paine rechne mit 1.500-3.000 EUR für zwei Wochen Patagonien. Banff ist durch den Kanada-Flug kostspielig, aber vor Ort gut erschwinglich. Yosemite als USA-Trip ist durch Flug + Mietwagen teuer.
+Eintrittsgebühren sind meist der kleinste Posten (10-40 USD/EUR pro Person). Die größten Kosten sind Anreise und Unterkunft. Für Torres del Paine rechne mit 1.500-3.000 EUR für zwei Wochen Patagonien. Banff ist durch den Kanada-Flug kostspielig, aber vor Ort gut erschwinglich. Yosemite als USA-Trip ist durch Flug + [Mietwagen](https://www.economybookings.com/) teuer.
 
 ### Warum sollte man Nationalparks außerhalb der Hochsaison besuchen?
 Weniger Massen bedeuten ein komplett anderes Erlebnis. Plitvice im September hat die Hälfte der Besucher von August, aber die gleiche Schönheit. Yosemite im Oktober hat kein Reservierungssystem mehr. Banff im Juni hat noch Schneereste und weniger Besucher. Und in vielen Parks ist Frühling oder Herbst optisch sogar beeindruckender als Hochsommer.

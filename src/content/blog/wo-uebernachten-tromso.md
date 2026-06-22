@@ -21,7 +21,7 @@ Hier der ehrliche Überblick: 5 Lagen, was sie kosten, für wen sie passen.
 
 **Kvaløya:** Die Insel westlich von Tromsø. Fjorde, Hütten, Natur pur. Für Polarlichter-Jäger, Outdoor-Reisende, alle die aus der Stadt rauswollen.
 
-**Tromsdalstinden:** Das Festland östlich der Brücke. Bergpanorama, Startpunkt für Wanderungen auf den Tromsdalstinden (1.238 m). Für Outdoorbegeisterte mit Mietwagen.
+**Tromsdalstinden:** Das Festland östlich der Brücke. Bergpanorama, Startpunkt für Wanderungen auf den Tromsdalstinden (1.238 m). Für Outdoorbegeisterte mit [Mietwagen](https://www.economybookings.com/).
 
 **Kroken:** Ruhiges Wohngebiet im Nordosten von Tromsøya. Weniger Touristen, günstigere Preise, Buslinie ins Zentrum in 15 Min. Für Budget-Reisende.
 

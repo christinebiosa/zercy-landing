@@ -66,7 +66,7 @@ April bis Oktober ist das Fenster. Aber nicht jeder Monat ist gleich.
 
 Budget ist variabel, aber hier sind realistische Zahlen für zwei Personen, 14 Tage:
 
-**Mietwagen:** 600-1.200 USD (Standard Automatic, Vollkasko). Frühbuchen spart. Konsolidatoren wie Autoslash oder Rentalcars.com vergleichen Preise über mehrere Anbieter. Mehr dazu im [Mietwagen Guide](/blog/mietwagen-check/).
+**[Mietwagen](https://www.economybookings.com/):** 600-1.200 USD (Standard Automatic, Vollkasko). Frühbuchen spart. Konsolidatoren wie Autoslash oder Rentalcars.com vergleichen Preise über mehrere Anbieter. Mehr dazu im [Mietwagen Guide](/blog/mietwagen-check/).
 
 **Kraftstoff:** 300-500 USD bei einem sparsamen Fahrzeug. USA-Preise schwanken stark nach Region. Oklahoma und Texas sind billiger als Kalifornien.
 

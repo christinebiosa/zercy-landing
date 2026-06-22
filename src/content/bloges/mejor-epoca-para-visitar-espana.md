@@ -28,7 +28,7 @@ El problema: España no es un país, sino muchos. Galicia, verde y lluviosa, tie
 
 Las diferencias de precio son notables. Una comparativa concreta:
 
-**Temporada alta (julio/agosto):** Hotel en el centro de Barcelona 150-220 euros por noche. Vuelo redondo Frankfurt-Barcelona 180-350 euros. El precio del coche de alquiler puede duplicarse respecto a la temporada baja.
+**Temporada alta (julio/agosto):** Hotel en el centro de Barcelona 150-220 euros por noche. Vuelo redondo Frankfurt-Barcelona 180-350 euros. El precio del [coche de alquiler](https://www.economybookings.com/) puede duplicarse respecto a la temporada baja.
 
 **Temporada media (mayo/junio, septiembre/octubre):** Hotel en Barcelona 80-130 euros por noche. Vuelo redondo Frankfurt-Barcelona 90-180 euros. Muchos menos turistas en los lugares de interés.
 

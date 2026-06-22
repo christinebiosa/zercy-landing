@@ -79,7 +79,7 @@ PR1 Caldeirão Verde (levada walk through jungle), PR6 Encumeada (mountain trave
 
 ### How long do I need for Madeira?
 
-5-7 days for the main highlights. With a hiking focus, 10-14 days is ideal. The island is small enough to explore everything from Funchal. Rental car recommended.
+5-7 days for the main highlights. With a hiking focus, 10-14 days is ideal. The island is small enough to explore everything from Funchal. [Rental car](https://www.economybookings.com/) recommended.
 
 ---
 

@@ -107,7 +107,7 @@ Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit d
 Alsancak ist die erste Wahl. Das Viertel liegt zentral, hat gute Restaurants und Bars in Laufweite und ist per Metro oder Taxi überall angebunden. Wer Meerblick will, wählt ein Hotel direkt am Kordon.
 
 ### Wie weit ist Izmir von Ephesos entfernt?
-Die antike Stadt Ephesos liegt rund 80 Kilometer südlich von Izmir, erreichbar per Bus oder Mietwagen in etwa einer Stunde. Ein Tagesausflug ab Izmir ist gut planbar. Die meisten Reisenden starten morgens und sind nachmittags zurück.
+Die antike Stadt Ephesos liegt rund 80 Kilometer südlich von Izmir, erreichbar per Bus oder [Mietwagen](https://www.economybookings.com/) in etwa einer Stunde. Ein Tagesausflug ab Izmir ist gut planbar. Die meisten Reisenden starten morgens und sind nachmittags zurück.
 
 ### Was kostet eine Nacht in einem guten Hotel in Izmir?
 Mittelklasse-Hotels in Alsancak oder Konak kosten zwischen 50 und 100 Euro. Boutique-Hotels und Häuser am Kordon liegen bei 100 bis 180 Euro. Budget-Optionen in Bornova sind ab 25 Euro verfügbar.

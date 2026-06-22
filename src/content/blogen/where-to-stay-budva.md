@@ -128,7 +128,7 @@ May, June, and September. Warm, sunny, the sea is swimmable, prices are moderate
 
 ### How do you get from Dubrovnik to Budva?
 
-By rental car or bus: roughly 2.5 to 3 hours, including a short border crossing into Montenegro. Buses run daily, around €15-20. A rental car makes sense because the coastal road is scenic and stops in Kotor or Perast on the way are worth it.
+By [rental car](https://www.economybookings.com/) or bus: roughly 2.5 to 3 hours, including a short border crossing into Montenegro. Buses run daily, around €15-20. A rental car makes sense because the coastal road is scenic and stops in Kotor or Perast on the way are worth it.
 
 ---
 

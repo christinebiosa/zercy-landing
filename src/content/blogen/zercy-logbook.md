@@ -14,7 +14,7 @@ Now there is something new. The **Zercy Logbook**.
 
 ## What Is the Zercy Logbook?
 
-You have booked. Flight, hotel, rental car. Everything reserved, everything confirmed. And then? Your confirmations are scattered across your inbox. On three different platforms. In two PDFs. Somewhere in a screenshot on your phone.
+You have booked. Flight, hotel, [rental car](https://www.economybookings.com/). Everything reserved, everything confirmed. And then? Your confirmations are scattered across your inbox. On three different platforms. In two PDFs. Somewhere in a screenshot on your phone.
 
 That is annoying. And that is exactly what the Zercy Logbook solves.
 

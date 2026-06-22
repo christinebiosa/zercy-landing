@@ -32,7 +32,7 @@ The Balkans are among the cheapest travel destinations in Europe. Albania and Ko
 **Cost breakdown:**
 - Accommodation: €20–50/night (guesthouse to boutique hotel)
 - Food: €10–20/day (burek, ćevapi, fresh fish — all cheap)
-- Rental car: €25–40/day (recommended for flexibility between countries)
+- [Rental car](https://www.economybookings.com/): €25–40/day (recommended for flexibility between countries)
 - Entry fees: usually €2–8, many UNESCO sites are free
 
 Albania is especially affordable: seafront restaurant for €5, guesthouse for €20. This will change — make the most of it now.

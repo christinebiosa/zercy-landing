@@ -55,7 +55,7 @@ Here's a concrete structure that holds up in practice. Adaptable for 3 to 14 day
 **Header per day:**
 - Date and city/location
 - Accommodation (name and address)
-- Transport for the day (train, bus, rental car)
+- Transport for the day (train, bus, [rental car](https://www.economybookings.com/))
 
 **Daily structure:**
 - Morning (9 am to 1 pm): one main activity with booking reference

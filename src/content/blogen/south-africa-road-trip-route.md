@@ -51,7 +51,7 @@ For a road trip combining both regions: April to May or September to October are
 
 ## How do you plan the Kruger National Park?
 
-Kruger is one of the best self-drive national parks in the world. You drive your own rental car on dirt roads and find animals yourself. A different experience from guided safari but deeply satisfying.
+Kruger is one of the best self-drive national parks in the world. You drive your own [rental car](https://www.economybookings.com/) on dirt roads and find animals yourself. A different experience from guided safari but deeply satisfying.
 
 Minimum stay: 3 nights. Better with 5. The rest camps inside the park vary in standard from basic huts to comfortable cottages. Book directly through [SANParks](https://www.sanparks.org), months in advance for peak season.
 

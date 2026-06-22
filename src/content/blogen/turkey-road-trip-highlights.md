@@ -55,7 +55,7 @@ After the lira's depreciation over recent years, Turkey is an extraordinary valu
 
 ## Practical Tips
 
-**Transport:** Domestic flights in Turkey are cheap and worthwhile for long distances. For the coast: rental car is ideal (driving is enjoyable, roads are good). Book accommodation early via [Booking.com](https://www.booking.com) — Cappadocia cave hotels and Istanbul boutique hotels are very popular.
+**Transport:** Domestic flights in Turkey are cheap and worthwhile for long distances. For the coast: [rental car](https://www.economybookings.com/) is ideal (driving is enjoyable, roads are good). Book accommodation early via [Booking.com](https://www.booking.com) — Cappadocia cave hotels and Istanbul boutique hotels are very popular.
 
 **Currency:** Turkish Lira (TRY). Credit cards widely accepted, cash needed for markets. Euros and dollars are sometimes accepted but at poor rates — always pay in lira. Airport currency exchange is more expensive than in town.
 

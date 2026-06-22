@@ -23,7 +23,7 @@ Fazit: Wer gezielt Nordlichter jagen will, mit Guide und Infrastruktur, liegt in
 
 Beide Länder gehören zu den teuersten in Europa. Aber es gibt Unterschiede:
 
-**Island:** Ein Mittelklasse-Hotel in Reykjavik kostet 150-250 Euro pro Nacht. Ein Tagestrip zum Golden Circle (Geysir, Gullfoss, Thingvellir) mit Mietwagen plus Eintritte: 80-120 Euro. Essen gehen im Restaurant: 25-45 Euro pro Gericht. Tankkosten auf dem Rinn Road schlagen stark zu Buche, weil die Tankstellen dünn gesät sind. Gesamtbudget für 7 Tage, komfortabel: 1.800-2.500 Euro pro Person.
+**Island:** Ein Mittelklasse-Hotel in Reykjavik kostet 150-250 Euro pro Nacht. Ein Tagestrip zum Golden Circle (Geysir, Gullfoss, Thingvellir) mit [Mietwagen](https://www.economybookings.com/) plus Eintritte: 80-120 Euro. Essen gehen im Restaurant: 25-45 Euro pro Gericht. Tankkosten auf dem Rinn Road schlagen stark zu Buche, weil die Tankstellen dünn gesät sind. Gesamtbudget für 7 Tage, komfortabel: 1.800-2.500 Euro pro Person.
 
 **Norwegen:** Ein Airbnb im Fjordland kostet schon ab 90-130 Euro pro Nacht. Dafür sind die Fährpreise für Fjord-Überquerungen moderat (10-25 Euro), und der öffentliche Nahverkehr in Bergen und Tromsø funktioniert gut. Essen ist auf Islandniveau. Mietwagen sind vergleichbar. Gesamtbudget für 7 Tage, komfortabel: 1.600-2.300 Euro pro Person.
 

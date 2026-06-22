@@ -43,7 +43,7 @@ Flüge nach New York sind aus Europa in der Regel günstiger und direkter. Frank
 
 Los Angeles ist weiter. Flugzeit ab Deutschland: 11 bis 13 Stunden. Direktflüge gibt es, aber weniger. Viele Verbindungen gehen über London oder Amsterdam. Das kostet Zeit und oft auch mehr Geld. Rechne mit 500 bis 700 Euro für einen guten Deal.
 
-Beide Städte sind teuer. NYC schlägt LA kaum. Wer in der Innenstadt übernachtet, zahlt in beiden Städten 150 bis 250 Euro pro Nacht für ein vernünftiges Hotel. LA ist bei Essen günstiger, besonders an den Strand-Vierteln und in Hole-in-the-Wall-Restaurants. NYC holt das durch das fehlende Auto-Budget wieder rein: keine Mietwagen, keine Parkgebühren, kein Benzin.
+Beide Städte sind teuer. NYC schlägt LA kaum. Wer in der Innenstadt übernachtet, zahlt in beiden Städten 150 bis 250 Euro pro Nacht für ein vernünftiges Hotel. LA ist bei Essen günstiger, besonders an den Strand-Vierteln und in Hole-in-the-Wall-Restaurants. NYC holt das durch das fehlende Auto-Budget wieder rein: keine [Mietwagen](https://www.economybookings.com/), keine Parkgebühren, kein Benzin.
 
 ## Welche Stadt passt zu welcher Reise?
 

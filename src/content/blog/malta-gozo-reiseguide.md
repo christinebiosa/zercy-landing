@@ -27,7 +27,7 @@ Gozo ist ruhiger und grüner als Malta. Die Calypso-Höhle soll die Höhle sein,
 
 Malta hat ein gut ausgebautes Busnetz. Die wichtigsten Orte wie Valletta, Mdina, Marsaxlokk (Fischerdorf, sonntags Markt) und die nördlichen Strände sind per Bus erreichbar. Die App Tallinja zeigt aktuelle Abfahrtszeiten. Taxifahrten sind erschwinglich.
 
-Mietwagen möglich, aber in Valletta und Mdina kaum Parkplätze. Für Tagesausflüge nach Gozo: Fähre von Cirkewwa nach Mġarr, Fährverbindung läuft regelmäßig, Überfahrt dauert 25 Minuten. Autos können mit auf die Fähre, was einen eigenen Mietwagen sinnvoll macht, wenn du Gozo intensiver erkunden willst.
+[Mietwagen](https://www.economybookings.com/) möglich, aber in Valletta und Mdina kaum Parkplätze. Für Tagesausflüge nach Gozo: Fähre von Cirkewwa nach Mġarr, Fährverbindung läuft regelmäßig, Überfahrt dauert 25 Minuten. Autos können mit auf die Fähre, was einen eigenen Mietwagen sinnvoll macht, wenn du Gozo intensiver erkunden willst.
 
 ## Wann ist die beste Reisezeit für Malta?
 

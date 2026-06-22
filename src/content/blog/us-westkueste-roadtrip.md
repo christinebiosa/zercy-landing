@@ -33,7 +33,7 @@ Die klassische Richtung ist von Nord nach Süd: San Francisco runter nach San Di
 
 **Mai bis Oktober** ist die Hauptsaison. Juli und August können heiß werden, besonders südlich von Big Sur. Aber: Küstennebel, der sogenannte "June Gloom", tritt genau in diesen Monaten auf und kann stundenlang anhalten.
 
-**September und Oktober** sind die besten Monate. Weniger Nebel, weniger Touristen als im Sommer, angenehme Temperaturen. Auch Hotels und Mietwagen sind günstiger.
+**September und Oktober** sind die besten Monate. Weniger Nebel, weniger Touristen als im Sommer, angenehme Temperaturen. Auch Hotels und [Mietwagen](https://www.economybookings.com/) sind günstiger.
 
 **Frühling (April/Mai):** Wunderschön grün durch den Winterregen, Wildblumen blühen im Big Sur. Allerdings noch kühler und windiger.
 

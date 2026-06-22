@@ -55,7 +55,7 @@ Die Türkei ist nach der Lira-Abwertung der letzten Jahre ein außergewöhnliche
 
 ## Praktische Tipps
 
-**Transport:** Inlandsflüge sind in der Türkei günstig und zahlen sich für lange Strecken aus. Für die Küste: Mietwagen ideal (Fahren macht Spaß, Straßen sind gut). Buche frühzeitig Unterkünfte über [Booking.com](https://www.booking.com), gerade Kappadokien-Höhlenhotels und Istanbul-Boutique-Hotels sind beliebt.
+**Transport:** Inlandsflüge sind in der Türkei günstig und zahlen sich für lange Strecken aus. Für die Küste: [Mietwagen](https://www.economybookings.com/) ideal (Fahren macht Spaß, Straßen sind gut). Buche frühzeitig Unterkünfte über [Booking.com](https://www.booking.com), gerade Kappadokien-Höhlenhotels und Istanbul-Boutique-Hotels sind beliebt.
 
 **Währung:** Türkische Lira (TRY). Kreditkarten weit verbreitet, Bargeld für Märkte nötig. Euro und Dollar werden manchmal akzeptiert, aber zum schlechten Kurs — immer in Lira zahlen. Geldwechsel am Flughafen ist teurer als in der Stadt.
 

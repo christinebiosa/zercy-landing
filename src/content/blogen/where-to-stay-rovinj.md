@@ -112,7 +112,7 @@ In July and August: boutique hotels in the old town start around 180 EUR, mid-ra
 
 ### What can you do in Rovinj besides walking the old town?
 
-Zlatni Rt nature park (rocky swimming, hiking, snorkeling), boat trips to the islands of Sv. Katarina and Crveni Otok, a day trip to Pula and its Roman amphitheater (40 km), truffle hunting in the Istrian hinterland with local guides. Anyone wanting to see the whole western Istrian coast needs a rental car.
+Zlatni Rt nature park (rocky swimming, hiking, snorkeling), boat trips to the islands of Sv. Katarina and Crveni Otok, a day trip to Pula and its Roman amphitheater (40 km), truffle hunting in the Istrian hinterland with local guides. Anyone wanting to see the whole western Istrian coast needs a [rental car](https://www.economybookings.com/).
 
 ### When is Rovinj least expensive to visit?
 

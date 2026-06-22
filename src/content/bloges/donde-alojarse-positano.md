@@ -17,7 +17,7 @@ El problema: Positano es pequeño, caro y en verano está abarrotado. La alojami
 - **Spiaggia Grande / Pueblo bajo:** En el epicentro, a pasos de la playa. Para los que quieren ambiente y trayectos cortos. La zona más cara.
 - **Pueblo medio (Via Cristoforo Colombo / Via dei Mulini):** El punto intermedio ideal. Buenas vistas, todavía accesible a pie, precios más moderados.
 - **Pueblo alto / Montepertuso:** Más tranquilo, más auténtico, más barato. Perfecto para viajeros que no necesitan la playa cada día. Autobús al centro.
-- **Praiano (pueblo vecino):** A solo 5 km, con muchos menos turistas, precios más bajos y su propia playa pequeña. Ideal para viajeros con presupuesto ajustado y coche de alquiler.
+- **Praiano (pueblo vecino):** A solo 5 km, con muchos menos turistas, precios más bajos y su propia playa pequeña. Ideal para viajeros con presupuesto ajustado y [coche de alquiler](https://www.economybookings.com/).
 - **Nocelle:** Pequeño pueblo de montaña sobre Positano. Tranquilidad absoluta, vistas panorámicas impresionantes. Solo accesible en coche o a pie.
 
 ## Spiaggia Grande: la playa como salón

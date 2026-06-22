@@ -36,7 +36,7 @@ La primavera es la época más barata para viajar por Europa Occidental. En comp
 **Presupuestos de ejemplo (por persona, 7 días):**
 - Ámsterdam + Keukenhof: 700–1.000 euros (hotel, vuelo, comida)
 - Primavera en el Alentejo portugués: 500–700 euros (normalmente incluye el vuelo a Lisboa)
-- Provenza con coche de alquiler: 800–1.200 euros (vuelo a Marsella o Niza)
+- Provenza con [coche de alquiler](https://www.economybookings.com/): 800–1.200 euros (vuelo a Marsella o Niza)
 - Toscana: 800–1.100 euros (vuelo a Florencia o Pisa)
 
 Reserva alojamiento con 4–6 semanas de antelación para los mejores precios en [Booking.com](https://www.booking.com). La Semana Santa siempre es más cara: la semana anterior y posterior es más barata.

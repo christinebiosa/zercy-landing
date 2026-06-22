@@ -63,7 +63,7 @@ Shopska Salad (tomatoes, cucumber, peppers, white cheese), Banitsa (pastry with 
 
 ### How do you get around Bulgaria?
 
-Between Sofia and Plovdiv: train or bus, 2 hours, very cheap. For the coast and Rila Monastery: rental car or buses. Flights to Sofia from many European airports with Ryanair and Wizz Air from 30 to 70 euros.
+Between Sofia and Plovdiv: train or bus, 2 hours, very cheap. For the coast and Rila Monastery: [rental car](https://www.economybookings.com/) or buses. Flights to Sofia from many European airports with Ryanair and Wizz Air from 30 to 70 euros.
 
 ---
 

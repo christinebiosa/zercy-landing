@@ -15,7 +15,7 @@ Australia is not a normal travel destination. It's a continent. Anyone flying he
 
 **East Coast (Sydney to Cairns, 14–21 days):** The classic Australia route for first-time visitors. Sydney, Byron Bay, Brisbane, Whitsundays, Great Barrier Reef, Cairns. Well-developed infrastructure, also doable by Greyhound bus. The best beaches and diving experiences in Australia.
 
-**Outback (Red Centre, 7–10 days):** Alice Springs, Uluru, Kings Canyon, MacDonnell Ranges. Silence, solitude, skies free of light pollution. Not a route for everyone — but one you never forget. Rental car or 4WD essential. Temperatures above 45°C in summer, so April to October only.
+**Outback (Red Centre, 7–10 days):** Alice Springs, Uluru, Kings Canyon, MacDonnell Ranges. Silence, solitude, skies free of light pollution. Not a route for everyone — but one you never forget. [Rental car](https://www.economybookings.com/) or 4WD essential. Temperatures above 45°C in summer, so April to October only.
 
 **Great Ocean Road (Melbourne to Adelaide, 5–7 days):** One of the world's most beautiful coastal drives. The Twelve Apostles, Otway National Park, wine regions along the way. Pairs perfectly with the Barossa Valley.
 

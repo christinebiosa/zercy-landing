@@ -105,7 +105,7 @@ Tell Zercy what you are planning in Alicante: beach days, city walks or day trip
 
 ### How do you get from Alicante-Elche Airport to the city?
 
-The airport is 12 km south of the city center. Bus C6 runs directly from the airport to the train station (about 25 minutes, 3 EUR). Taxis cost 25-35 EUR depending on the neighborhood. Playa de San Juan has direct bus connections too. A rental car only makes sense if you plan day trips in the region.
+The airport is 12 km south of the city center. Bus C6 runs directly from the airport to the train station (about 25 minutes, 3 EUR). Taxis cost 25-35 EUR depending on the neighborhood. Playa de San Juan has direct bus connections too. A [rental car](https://www.economybookings.com/) only makes sense if you plan day trips in the region.
 
 ### Which neighborhood is cheapest in Alicante?
 

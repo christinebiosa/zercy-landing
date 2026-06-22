@@ -27,7 +27,7 @@ Entry: 22 euros (standalone) or 28 euros combined ticket with Maranello.
 
 ### Museo Ferrari (in Maranello, 18 km away)
 
-**The** [Ferrari museum in Maranello](https://musei.ferrari.com/en/maranello). Where the cars are built. 25 minutes by car from Modena. No direct public transport, so rental car (see our [rental consolidator guide](/en/blog/rental-consolidators-save-money/)), taxi or shuttle.
+**The** [Ferrari museum in Maranello](https://musei.ferrari.com/en/maranello). Where the cars are built. 25 minutes by car from Modena. No direct public transport, so [rental car](https://www.economybookings.com/) (see our [rental consolidator guide](/en/blog/rental-consolidators-save-money/)), taxi or shuttle.
 
 This has the full F1 collection, the most legendary race cars since 1947, the history from Schumacher to Leclerc. Plus the latest: the Daytona SP3, the SF90, and if you're lucky, prototypes.
 

@@ -56,7 +56,7 @@ Book flights and accommodation yourself via Booking.com, Expedia, or Google Flig
 
 Book activities and tours through local operators on the ground, or via Viator or GetYourGuide. Professional local guides for half-day excursions, but no rigid full-program commitment.
 
-Book transfers and rental cars directly. A [rental car comparison](/en/blog/rental-consolidators-save-money/) often saves 30 to 40 percent compared to package transfers.
+Book transfers and [rental cars](https://www.economybookings.com/) directly. A [rental car comparison](/en/blog/rental-consolidators-save-money/) often saves 30 to 40 percent compared to package transfers.
 
 This gives you package tour security on core logistics and independent travel freedom on everything else.
 

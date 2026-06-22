@@ -39,7 +39,7 @@ The heart of Queenstown. The main street (The Mall, Beach Street) is walkable to
 
 ## Frankton: Practical and More Affordable
 
-Frankton is Queenstown's functional district: the airport, shopping centres (Five Mile), large supermarkets, and most car rental stations. No panoramic lake views, but 20-40 percent cheaper than the Town Centre. The local bus into the centre takes 10-15 minutes.
+Frankton is Queenstown's functional district: the airport, shopping centres (Five Mile), large supermarkets, and most [car rental](https://www.economybookings.com/) stations. No panoramic lake views, but 20-40 percent cheaper than the Town Centre. The local bus into the centre takes 10-15 minutes.
 
 **Who fits here:** Travelers with early flights, car renters, budget-conscious visitors, families with lots of luggage.
 

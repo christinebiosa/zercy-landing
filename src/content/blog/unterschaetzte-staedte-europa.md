@@ -39,7 +39,7 @@ Wintermonate sind in Riga und Gent reizvoller als in vielen Südeuropa-Städten.
 
 ## Wie buchst du Trips in diese Städte am günstigsten?
 
-Direkte Flüge gibt es aus den meisten deutschen und österreichischen Städten nach Riga (Ryanair, airBaltic), Porto (viele Airlines) und Ljubljana (frühbuchen, da wenige Verbindungen). Gent erreichst du am einfachsten mit dem Thalys oder Eurostar via Brüssel. Matera ist am schlechtesten erreichbar: Der nächste Flughafen ist Bari (ca. 70 km), dann Bus oder Mietwagen.
+Direkte Flüge gibt es aus den meisten deutschen und österreichischen Städten nach Riga (Ryanair, airBaltic), Porto (viele Airlines) und Ljubljana (frühbuchen, da wenige Verbindungen). Gent erreichst du am einfachsten mit dem Thalys oder Eurostar via Brüssel. Matera ist am schlechtesten erreichbar: Der nächste Flughafen ist Bari (ca. 70 km), dann Bus oder [Mietwagen](https://www.economybookings.com/).
 
 Für die Bahn-Reisenden: Mit dem Zug nach Porto, Ljubljana oder Gent ist komfortabel möglich. Unser [Nachtzüge-Europa-Guide](/blog/nachtzuege-europa-2026/) zeigt, welche Verbindungen sich wirklich lohnen.
 

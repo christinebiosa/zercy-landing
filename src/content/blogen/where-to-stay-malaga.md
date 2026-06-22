@@ -114,7 +114,7 @@ In the historic center, budget accommodation runs 60-100 EUR, mid-range 100-180 
 
 ### How far is the airport from Málaga city center?
 
-Aeropuerto de Málaga is just 8 kilometers southwest of the center. The Cercanías commuter rail (line C1) gets you to the main station in 12 minutes for under 2 EUR. A taxi costs around 15-20 EUR. You do not need a rental car for Málaga itself, only if you plan to drive along the Costa del Sol.
+Aeropuerto de Málaga is just 8 kilometers southwest of the center. The Cercanías commuter rail (line C1) gets you to the main station in 12 minutes for under 2 EUR. A taxi costs around 15-20 EUR. You do not need a [rental car](https://www.economybookings.com/) for Málaga itself, only if you plan to drive along the Costa del Sol.
 
 ### When are Málaga hotels cheapest?
 

@@ -42,7 +42,7 @@ Im Sommer (Juli-August) sind Luft- und Wassertemperaturen angenehm warm, aber 42
 
 Hotelpreise am Toten Meer: 100-250 Euro pro Nacht in Mittelklasse-Resorts, 300-600 Euro in Luxusresorts (Kempinski, Marriott, Mövenpick). Die schoensten Resorts liegen auf der Jordanischen Seite, suedlich von Amman.
 
-Von Amman zum Toten Meer sind es ca. 60 Kilometer (45 Minuten mit dem Taxi oder Mietwagen, ca. 25-35 Euro). Alternativ gibt es gelegentliche Busverbindungen, aber ein Mietwagen macht die Tote-Meer-Schnorchelroute und Wadi Rum deutlich flexibler. Unser [Mietwagen-Guide](/blog/mietwagen-check/) gibt Tipps zur Buchung ohne Ueberraschungen.
+Von Amman zum Toten Meer sind es ca. 60 Kilometer (45 Minuten mit dem Taxi oder [Mietwagen](https://www.economybookings.com/), ca. 25-35 Euro). Alternativ gibt es gelegentliche Busverbindungen, aber ein Mietwagen macht die Tote-Meer-Schnorchelroute und Wadi Rum deutlich flexibler. Unser [Mietwagen-Guide](/blog/mietwagen-check/) gibt Tipps zur Buchung ohne Ueberraschungen.
 
 ## Was kostet Jordanien und welche Monate sind am guenstigsten?
 

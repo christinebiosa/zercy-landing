@@ -72,7 +72,7 @@ The principle applies to booking strategy too. Plan early, compare platforms, an
 
 ## How do you travel more consciously without giving anything up?
 
-Slow travel is the framework. Fewer cities, more time per place. Less checklist tourism, more genuine encounters. Buses and trains instead of rental cars, markets instead of souvenir shops.
+Slow travel is the framework. Fewer cities, more time per place. Less checklist tourism, more genuine encounters. Buses and trains instead of [rental cars](https://www.economybookings.com/), markets instead of souvenir shops.
 
 The concept is explained in our article [Slow Travel: What It Really Means](/en/blog/slow-travel-what-it-really-means/). The core idea: the quality of travel experience increases when the number of destinations decreases.
 

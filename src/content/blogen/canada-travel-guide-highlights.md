@@ -19,7 +19,7 @@ The answer depends on what you are looking for. Canada is so large that each reg
 
 **Vancouver and British Columbia:** The greenest, mildest corner of Canada. Stanley Park with its totem poles and seawall path, Granville Island with its Public Market, and two hours away sits Whistler, one of the best ski resorts in the world. Summer brings kayaking, whale-watching and hiking in the Coast Mountains. Vancouver is also a base for day trips to Salt Spring Island or Garibaldi Provincial Park.
 
-**Banff and the Rocky Mountains (Alberta):** Canada's most dramatic landscape. Lake Louise is the country's most iconic image, turquoise glacier water in front of snow-capped peaks. The Icefields Parkway between Banff and Jasper is considered the most beautiful highway in the world. Spotting grizzly bears is genuinely possible here, not in a zoo. Combine Banff and Jasper with a rental car, 3-5 days.
+**Banff and the Rocky Mountains (Alberta):** Canada's most dramatic landscape. Lake Louise is the country's most iconic image, turquoise glacier water in front of snow-capped peaks. The Icefields Parkway between Banff and Jasper is considered the most beautiful highway in the world. Spotting grizzly bears is genuinely possible here, not in a zoo. Combine Banff and Jasper with a [rental car](https://www.economybookings.com/), 3-5 days.
 
 **Toronto (Ontario):** The CN Tower, Kensington Market with its international food scene, the Distillery District. And: Niagara Falls, just 90 minutes away. The falls are more impressive from the Canadian side. Toronto is urban Canada at its best.
 

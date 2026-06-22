@@ -43,7 +43,7 @@ Empfehlenswert: **Cosy Guest House** ist ein Familiengeführtes Gästehaus mit D
 
 ## Residency Road und Raikabagh: Modern und entspannt
 
-Wer ruhiger schlafen möchte oder mit Mietwagen anreist, findet in den moderneren Stadtteilen südlich der Altstadt eine gute Auswahl. Hotels hier haben oft Parkplätze, Swimmingpools und größere Zimmer.
+Wer ruhiger schlafen möchte oder mit [Mietwagen](https://www.economybookings.com/) anreist, findet in den moderneren Stadtteilen südlich der Altstadt eine gute Auswahl. Hotels hier haben oft Parkplätze, Swimmingpools und größere Zimmer.
 
 Preisspanne: 30-120 Euro pro Nacht.
 

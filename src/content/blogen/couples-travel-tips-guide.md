@@ -35,7 +35,7 @@ Honeymoon-quality travel in the Mediterranean is more affordable than most peopl
 
 The Maldives are more expensive. An all-inclusive resort for two often starts at 4,000 to 6,000 EUR. Japan sits in between: long-haul flight (around 800 EUR per person), but affordable accommodation and food on the ground. Budget around 3,000 to 3,500 EUR per person for 14 days in Japan.
 
-A useful rule: couples trips rarely cost double what solo costs. Hotels are shared. Rental cars too. And most restaurants offer menus designed for two. The [Honeymoon Planning Guide](/en/blog/honeymoon-planning-guide/) has concrete budget templates for the most popular destinations.
+A useful rule: couples trips rarely cost double what solo costs. Hotels are shared. [Rental cars](https://www.economybookings.com/) too. And most restaurants offer menus designed for two. The [Honeymoon Planning Guide](/en/blog/honeymoon-planning-guide/) has concrete budget templates for the most popular destinations.
 
 How you split costs is a separate question. A shared travel account for joint expenses, private spending handled individually. That simple separation prevents a lot of small arguments.
 

@@ -29,7 +29,7 @@ Zakopane in the Tatras: mountain town below the Polish-Slovak border. Hiking in 
 
 PKP Intercity connects the major cities quickly and cheaply. Krakow to Warsaw: 2.5 hours, from 15 euros. Warsaw to Gdansk: 3 hours, from 20 euros. Book tickets at [pkp.pl](https://www.pkp.pl), available in English. Buying early saves money.
 
-A rental car makes sense for day trips like Auschwitz or Zakopane, but between the main cities the train is the better option. Polish motorways are good, but city center parking is limited.
+A [rental car](https://www.economybookings.com/) makes sense for day trips like Auschwitz or Zakopane, but between the main cities the train is the better option. Polish motorways are good, but city center parking is limited.
 
 ## What does a week in Poland cost?
 

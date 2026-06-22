@@ -59,7 +59,7 @@ Rumanía es el destino más asequible de la UE. Hoteles de categoría media desd
 
 ### ¿Cómo recorrer mejor Transilvania?
 
-Un coche de alquiler es la opción más cómoda. El paisaje es precioso para hacer road trips, pero las carreteras fuera de las rutas principales suelen estar en mal estado. La Transfăgărășan (carretera de montaña a más de 2.000 metros) es uno de los pasos más espectaculares de Europa, abierta solo de junio a octubre.
+Un [coche de alquiler](https://www.economybookings.com/) es la opción más cómoda. El paisaje es precioso para hacer road trips, pero las carreteras fuera de las rutas principales suelen estar en mal estado. La Transfăgărășan (carretera de montaña a más de 2.000 metros) es uno de los pasos más espectaculares de Europa, abierta solo de junio a octubre.
 
 ### ¿Qué gastronomía rumana hay que probar?
 

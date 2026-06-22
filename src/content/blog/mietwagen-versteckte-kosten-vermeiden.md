@@ -8,7 +8,7 @@ readingTime: 7
 heroImage: "/img/blog/rental-car-keys.jpg"
 ---
 
-Auto abholen, Schlüssel kriegen, losfahren. Eigentlich einfach. Aber zwischen Buchung und Rückgabe lauern versteckte Kosten, die aus einem 200-Euro-Mietwagen schnell 400 Euro machen.
+Auto abholen, Schlüssel kriegen, losfahren. Eigentlich einfach. Aber zwischen Buchung und Rückgabe lauern versteckte Kosten, die aus einem 200-Euro-[Mietwagen](https://www.economybookings.com/) schnell 400 Euro machen.
 
 Hier sind die häufigsten Fallen. Und wie du sie vermeidest.
 

@@ -14,7 +14,7 @@ Aber Romantik und Werbebotschaft lassen sich leicht verwechseln. Dieser Guide er
 
 ## Was kostet ein Campervan-Urlaub wirklich?
 
-Die Kostenrechnung überrascht viele. Ein guter Mietwagen kostet Geld, Campingplätze kosten Geld, Benzin kostet Geld. Wer denkt dass Campervans günstiger sind als Hotels, liegt oft falsch. Wer denkt, dass sie teurer sind, unterschätzt die Freiheit.
+Die Kostenrechnung überrascht viele. Ein guter [Mietwagen](https://www.economybookings.com/) kostet Geld, Campingplätze kosten Geld, Benzin kostet Geld. Wer denkt dass Campervans günstiger sind als Hotels, liegt oft falsch. Wer denkt, dass sie teurer sind, unterschätzt die Freiheit.
 
 **Miete:** Über Plattformen wie [CamperDays](https://www.camperdays.de), Motorhome Republic oder Yescapa zahlt man im Hochsommer für einen ordentlichen Van 100-200 Euro pro Tag. Frühling und Herbst: 60-120 Euro. Wohnmobile (größer, mit fest eingebautem Bett) kosten mehr, 150-280 Euro im Sommer.
 

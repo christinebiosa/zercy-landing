@@ -75,7 +75,7 @@ San Felipe del Agua sits on the slopes of the Sierra Norte north of the city. We
 
 **Prices:** Vacation homes and villas from 165 USD, luxury properties 320-660 USD. Mostly vacation rentals via Booking.com or Airbnb rather than traditional hotels.
 
-**Important:** You need a rental car or regular taxis. Budget 5-9 USD per trip into the center.
+**Important:** You need a [rental car](https://www.economybookings.com/) or regular taxis. Budget 5-9 USD per trip into the center.
 
 ## Where Should You Book in the End?
 

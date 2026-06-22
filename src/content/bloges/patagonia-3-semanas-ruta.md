@@ -30,7 +30,7 @@ Cruce de frontera (2-3h en bus) hacia El Calafate. El glaciar Perito Moreno es u
 La capital del trekking argentino. El Monte Fitz Roy y el Cerro Torre son los destinos de las caminatas más espectaculares de los Andes. El pueblo no tiene entrada al parque: las rutas son todas gratuitas y de acceso libre.
 
 **Días 17-19: Carretera Austral (Chile)**
-La ruta 7 chilena, 1.200 km de tierra a través de la Patagonia verde. Imposible recorrerla completa en 3 días, pero el tramo norte (Coyhaique a Villa O'Higgins) tiene los paisajes más dramáticos. Se puede hacer en coche de alquiler o en combinación de buses y ferry.
+La ruta 7 chilena, 1.200 km de tierra a través de la Patagonia verde. Imposible recorrerla completa en 3 días, pero el tramo norte (Coyhaique a Villa O'Higgins) tiene los paisajes más dramáticos. Se puede hacer en [coche de alquiler](https://www.economybookings.com/) o en combinación de buses y ferry.
 
 **Días 20-21: Ushuaia (Argentina)**
 La ciudad más austral del mundo. El Parque Nacional Tierra del Fuego, el Tren del Fin del Mundo y la bahía Beagle son las actividades principales. Vuelo de regreso a Buenos Aires o Santiago.

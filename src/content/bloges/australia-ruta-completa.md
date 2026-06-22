@@ -15,7 +15,7 @@ Australia no es un destino normal. Es un continente. Quien vuela hasta aquí rar
 
 **Costa Este (Sídney hasta Cairns, 14–21 días):** La ruta clásica de Australia para quienes viajan por primera vez. Sídney, Byron Bay, Brisbane, Whitsundays, Gran Barrera de Coral, Cairns. Buena infraestructura, también se puede recorrer en bus (Greyhound). Las mejores playas y experiencias de buceo del país.
 
-**Outback (Centro Rojo, 7–10 días):** Alice Springs, Uluru, Kings Canyon, MacDonnell Ranges. Silencio, soledad, cielos sin contaminación lumínica. No es una ruta para todos, pero ningún viajero que la hace la olvida. Coche de alquiler o 4WD imprescindible. Temperaturas de más de 45°C en verano austral — solo de abril a octubre.
+**Outback (Centro Rojo, 7–10 días):** Alice Springs, Uluru, Kings Canyon, MacDonnell Ranges. Silencio, soledad, cielos sin contaminación lumínica. No es una ruta para todos, pero ningún viajero que la hace la olvida. [Coche de alquiler](https://www.economybookings.com/) o 4WD imprescindible. Temperaturas de más de 45°C en verano austral — solo de abril a octubre.
 
 **Great Ocean Road (Melbourne hasta Adelaida, 5–7 días):** Una de las carreteras costeras más bonitas del mundo. Los Doce Apóstoles, Parque Nacional Otway, regiones vinícolas de camino. Combina muy bien con el Barossa Valley.
 

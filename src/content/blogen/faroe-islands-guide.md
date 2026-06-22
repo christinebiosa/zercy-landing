@@ -55,7 +55,7 @@ The Faroes aren't cheap, but cheaper than Iceland.
 
 **Flight.** Atlantic Airways flies direct from Copenhagen, Hamburg, Edinburgh and Reykjavík. Round-trip: $280-500 depending on season.
 
-**Rental car.** Mandatory for mobility. About $70-90 per day. Book months ahead in high season. See our [rental car checklist](/en/blog/rental-car-checklist/). On the Faroes you need full insurance with no deductible.
+**[Rental car](https://www.economybookings.com/).** Mandatory for mobility. About $70-90 per day. Book months ahead in high season. See our [rental car checklist](/en/blog/rental-car-checklist/). On the Faroes you need full insurance with no deductible.
 
 **Lodging.** Hotels in Tórshavn: $110-220 per night. Guesthouses $65-110. Airbnb available but limited.
 

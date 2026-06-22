@@ -47,7 +47,7 @@ Preise zu Hogmanay: Stark erhöht. Früh buchen, idealerweise 3-4 Monate vorher.
 
 Reykjavik ist von November bis März die Basis für Nordlichter. Die Kombination aus Polarlicht-Chancen, Thermalbädern und Island-Landschaft macht es zu einem der einzigartigsten Winterziele der Welt.
 
-Island im Winter ist teuer. Hotel in Reykjavik: 180-350 EUR pro Nacht. Mietwagen für Ausflüge auf eigene Faust: 80-150 EUR/Tag. Thermalbäder (Blaue Lagune oder Sky Lagoon): 60-100 EUR pro Person. Das summiert sich.
+Island im Winter ist teuer. Hotel in Reykjavik: 180-350 EUR pro Nacht. [Mietwagen](https://www.economybookings.com/) für Ausflüge auf eigene Faust: 80-150 EUR/Tag. Thermalbäder (Blaue Lagune oder Sky Lagoon): 60-100 EUR pro Person. Das summiert sich.
 
 Aber: Nordlichter siehst du günstig nirgendwo. Reykjavik ist der einfachste Zugang zu Aurora Borealis in Europa. Mehr Details in unserem [Nordlichter-Guide 2026](/blog/nordlichter-2026-wo-wann-wie/).
 

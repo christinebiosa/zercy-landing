@@ -32,7 +32,7 @@ Los Balcanes están entre los destinos más económicos de Europa. Albania y Kos
 **Desglose de costos:**
 - Alojamiento: 20–50 euros/noche (casa de huéspedes a hotel boutique)
 - Comida: 10–20 euros/día (burek, ćevapi, pescado fresco, todo barato)
-- Coche de alquiler: 25–40 euros/día (recomendado para flexibilidad entre países)
+- [Coche de alquiler](https://www.economybookings.com/): 25–40 euros/día (recomendado para flexibilidad entre países)
 - Entradas: normalmente 2–8 euros, muchos sitios UNESCO gratuitos
 
 Albania es especialmente económica: restaurante junto al mar por 5 euros, casa de huéspedes por 20 euros. Esto cambiará, aprovéchalo ahora.

@@ -118,7 +118,7 @@ La Catedral La Seu (especialmente el interior con la restauración de Gaudí), e
 
 ### ¿Cómo moverse por Mallorca desde Palma?
 
-El autobús es económico pero lento. El coche de alquiler es la mejor opción para recorrer la isla con libertad. Del aeropuerto al centro: autobús EMT (línea A1), taxi (unos 25-35 euros) o coche de alquiler. Tren desde Palma hasta Inca y Sóller (el Ferrocarril de Sóller es histórico y vale la pena por sí mismo).
+El autobús es económico pero lento. El [coche de alquiler](https://www.economybookings.com/) es la mejor opción para recorrer la isla con libertad. Del aeropuerto al centro: autobús EMT (línea A1), taxi (unos 25-35 euros) o coche de alquiler. Tren desde Palma hasta Inca y Sóller (el Ferrocarril de Sóller es histórico y vale la pena por sí mismo).
 
 ---
 

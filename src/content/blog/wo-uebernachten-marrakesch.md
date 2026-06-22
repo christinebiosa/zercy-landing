@@ -63,7 +63,7 @@ Französische Neustadt, gebaut während des Protektorats (1912-1956). Breite Bou
 
 **Wer hier richtig liegt:** Premium-Resort-Sucher, Familien mit Kindern (große Pools), Wellness-Reisende.
 
-**Achtung:** Du brauchst Taxi/Mietwagen für jede Bewegung in die Stadt (15 Euro one-way). Nicht für Sightseeing-Reisende.
+**Achtung:** Du brauchst Taxi/[Mietwagen](https://www.economybookings.com/) für jede Bewegung in die Stadt (15 Euro one-way). Nicht für Sightseeing-Reisende.
 
 **Preise:** Premium-Resorts 200-500 Euro, Top-Resorts 500-1.200 Euro.
 

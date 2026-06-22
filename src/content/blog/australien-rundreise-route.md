@@ -15,7 +15,7 @@ Australien ist kein normales Reiseziel. Es ist ein Kontinent. Wer hierher fliegt
 
 **Ostküste (Sydney bis Cairns, 14–21 Tage):** Die klassische Australien-Route für Erstbesucher. Sydney, Byron Bay, Brisbane, Whitsundays, Great Barrier Reef, Cairns. Gut ausgebaut, viel Infrastruktur, auch per Greyhound-Bus machbar. Die schönsten Strände und Taucherlebnisse des Landes.
 
-**Outback (Rotes Zentrum, 7–10 Tage):** Alice Springs, Uluru, Kings Canyon, MacDonnell Ranges. Stille, Einsamkeit, Sternenhimmel ohne Lichtverschmutzung. Keine Route für alle, aber keine Route, die man vergisst. 4WD oder Mietwagen zwingend nötig. Temperaturen im Sommer über 45°C, daher nur April bis Oktober.
+**Outback (Rotes Zentrum, 7–10 Tage):** Alice Springs, Uluru, Kings Canyon, MacDonnell Ranges. Stille, Einsamkeit, Sternenhimmel ohne Lichtverschmutzung. Keine Route für alle, aber keine Route, die man vergisst. 4WD oder [Mietwagen](https://www.economybookings.com/) zwingend nötig. Temperaturen im Sommer über 45°C, daher nur April bis Oktober.
 
 **Great Ocean Road (Melbourne bis Adelaide, 5–7 Tage):** Eine der schönsten Küstenstraßen der Welt. Die Zwölf Apostel, der Otway-Nationalpark, Weingüter auf dem Weg. Kombiniert gut mit dem Barossa Valley.
 

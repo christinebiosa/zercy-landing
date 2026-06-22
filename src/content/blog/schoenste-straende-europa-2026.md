@@ -18,7 +18,7 @@ Diese Liste ist kein Touristik-Ranking. Es ist eine ehrliche Einschätzung: was 
 
 **Zlatni Rat, Kroatien (Insel Brač):** Der Horn-förmige Kiesstrand bei Bol ist Kroatiens Aushängeschild. Er verändert seine Form je nach Strömung. Das Wasser ist klar, Windsurfer sind hier wegen des Maestral-Windes in Scharen. Von Split mit der Fähre erreichbar (ca. 1 Stunde). Juli und August sind überlaufen. Juni und September sind die besseren Monate.
 
-**Beste Anreise:** Cala Mariolu via Flieger nach Cagliari oder Alghero, dann Mietwagen. Zlatni Rat: Flieger nach Split, Fähre nach Supetar (Brač), Bus nach Bol.
+**Beste Anreise:** Cala Mariolu via Flieger nach Cagliari oder Alghero, dann [Mietwagen](https://www.economybookings.com/). Zlatni Rat: Flieger nach Split, Fähre nach Supetar (Brač), Bus nach Bol.
 
 **Preislevel:** Sardinien mittel bis hoch, Kroatien mittel. Unterkunft in Kroatien ist günstiger.
 

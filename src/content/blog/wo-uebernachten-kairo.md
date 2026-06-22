@@ -118,7 +118,7 @@ Islamisches Kairo oder Zamalek. Islamisches Kairo für maximale Kultur und Atmos
 
 ### Wie weit sind die Pyramiden vom Stadtzentrum entfernt?
 
-Von Kairo-Zentrum (Tahrir-Platz) nach Giza: etwa 12 bis 15 km, mit Taxi 30 bis 45 Minuten je nach Stau. Die Metro Linie 2 fährt bis Giza-Station, von dort Taxi oder Tuk-Tuk zum Plateau. Mit dem Mietwagen oder privatem Transfer ca. 25 Minuten früh morgens.
+Von Kairo-Zentrum (Tahrir-Platz) nach Giza: etwa 12 bis 15 km, mit Taxi 30 bis 45 Minuten je nach Stau. Die Metro Linie 2 fährt bis Giza-Station, von dort Taxi oder Tuk-Tuk zum Plateau. Mit dem [Mietwagen](https://www.economybookings.com/) oder privatem Transfer ca. 25 Minuten früh morgens.
 
 ---
 

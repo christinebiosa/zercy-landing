@@ -50,7 +50,7 @@ Plaka ist der natürlichste Strand auf Naxos. Vier Kilometer feiner Sand, kaum B
 
 Preise: 55-150 Euro pro Nacht. Hotels und Studios: **Plaka Camping** (günstigstes Angebot, direkt am Strand, Bungalows ab 50 Euro), **Kavos Studios Plaka** (sauber, einfach, Strandnähe, ab 60 Euro), **Glyfada Studios** (kleine Ferienanlagen, Garten, ab 70 Euro).
 
-Nur mit Mietwagen (ab 30-40 Euro/Tag auf Naxos) kommt man von Plaka aus komfortabel in die Hora und zu den Bergdörfern. Unser Artikel [guenstig-fliegen-tipps](/blog/guenstig-fliegen-tipps/) gibt Tipps, wie du das Inselbudget insgesamt optimierst.
+Nur mit [Mietwagen](https://www.economybookings.com/) (ab 30-40 Euro/Tag auf Naxos) kommt man von Plaka aus komfortabel in die Hora und zu den Bergdörfern. Unser Artikel [guenstig-fliegen-tipps](/blog/guenstig-fliegen-tipps/) gibt Tipps, wie du das Inselbudget insgesamt optimierst.
 
 ## Bergdörfer: Filoti, Apiranthos und Halki
 

@@ -22,7 +22,7 @@ Lo que lo distingue de Islandia: más verde, más pequeño, más íntimo. Sin la
 
 **Por ferry:** el Norröna (Smyril Line) opera un servicio de ferry desde Hirtshals (Dinamarca) con parada en las Feroe y llegada final a Islandia. El trayecto Dinamarca-Feroe dura unos 2 días de navegación. Una opción para quien quiere la experiencia del Atlántico Norte sin prisa. Reservas en [smyril-line.com](https://www.smyril-line.com).
 
-La llegada al aeropuerto de Vágar deja en el centro del archipiélago: con coche de alquiler se llega a cualquier punto en 1-2 horas.
+La llegada al aeropuerto de Vágar deja en el centro del archipiélago: con [coche de alquiler](https://www.economybookings.com/) se llega a cualquier punto en 1-2 horas.
 
 ## ¿Qué ver en las Islas Feroe?
 

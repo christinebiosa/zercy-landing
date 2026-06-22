@@ -72,7 +72,7 @@ Southern Italy (Puglia, Calabria, Basilicata) and the Dolomites are more managea
 May, June, and September through October are the golden months: good weather, no peak-season prices, fewer visitors. July and August are extremely expensive and crowded, especially on the coast. Spring (April) is great for city breaks.
 
 ### How do you travel cheaply through Italy?
-Regional trains (Trenitalia) are affordable and connect most places. High-speed trains (Frecciarossa) between Milan, Florence, Rome, and Naples cost around 25-50 EUR with early-bird prices. Bus apps like FlixBus link smaller towns. Rental car makes sense in southern Italy, pointless in cities.
+Regional trains (Trenitalia) are affordable and connect most places. High-speed trains (Frecciarossa) between Milan, Florence, Rome, and Naples cost around 25-50 EUR with early-bird prices. Bus apps like FlixBus link smaller towns. [Rental car](https://www.economybookings.com/) makes sense in southern Italy, pointless in cities.
 
 ### Where do you eat most authentically in Italy?
 In small trattorias and osterias away from tourist squares. A rule of thumb: the fewer tourists in the restaurant, the better the food. In Naples the original Pizza Margherita (3-5 EUR), in Bologna Tagliatelle al Ragu (not Spaghetti Bolognese, that's not authentic), in Palermo Arancini from a street stall.

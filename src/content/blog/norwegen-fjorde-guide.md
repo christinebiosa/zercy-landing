@@ -29,7 +29,7 @@ Kurzantwort: Es kommt drauf an, was du suchst.
 
 **Flug nach Bergen** ist der einfachste Startpunkt. Bergen hat gute Verbindungen aus ganz Europa. Ryanair, Norwegian und Lufthansa fliegen von vielen deutschen Städten direkt hin. Von Bergen aus bist du in weniger als zwei Stunden Autofahrt am Hardangerfjord. Der Sognefjord dauert 2,5 bis 3 Stunden.
 
-**Mietwagen** ist die flexibelste Option. Die Straßen sind gut, die Aussichten spektakulär. Tunnels sparen Zeit, aber die Panoramastraßen sind die eigentliche Reise. Plane mehr Zeit ein als Google Maps vorschlägt. Die "Trollstigen" (Trollstiegen) auf dem Weg zum Geirangerfjord ist eine der berühmtesten Bergstraßen Europas. Sehr schmale Kurven, nichts für Fahrneulinge. Mietwagen in Bergen buchst du am günstigsten im Voraus über Booking.com oder Expedia.
+**[Mietwagen](https://www.economybookings.com/)** ist die flexibelste Option. Die Straßen sind gut, die Aussichten spektakulär. Tunnels sparen Zeit, aber die Panoramastraßen sind die eigentliche Reise. Plane mehr Zeit ein als Google Maps vorschlägt. Die "Trollstigen" (Trollstiegen) auf dem Weg zum Geirangerfjord ist eine der berühmtesten Bergstraßen Europas. Sehr schmale Kurven, nichts für Fahrneulinge. Mietwagen in Bergen buchst du am günstigsten im Voraus über Booking.com oder Expedia.
 
 **Norway in a Nutshell** ist die einfachste Option für Erstbesucher ohne Mietwagen. Du kombinierst Zug, Fjordboot und Bus zu einer Rundreise. Oslo nach Bergen mit Stopp in Flåm, Gudvangen und dem Nærøyfjord. Ein Tag bis zweieinhalb Tage. Keine Planung, keine Navigation. Einfach einsteigen. Buchbar direkt bei [Visit Norway](https://www.visitnorway.com).
 

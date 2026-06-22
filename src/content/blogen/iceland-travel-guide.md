@@ -19,7 +19,7 @@ The classic. You land at Keflavik, sleep in Reykjavik, do the Golden Circle as a
 **Option 2: Full Ring Road (8 to 12 days)**
 Route 1, 1,332 kilometers around the island. You see everything: south coast, east fjords, north Iceland with Akureyri, the Golden Circle. This is the experience that really shows you Iceland.
 
-For both you need a rental car. Without a car, you won't really experience Iceland.
+For both you need a [rental car](https://www.economybookings.com/). Without a car, you won't really experience Iceland.
 
 ## What is the Golden Circle and what must you see?
 

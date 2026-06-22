@@ -38,7 +38,7 @@ Beyond the highlights, Portugal has places that rarely appear on social media bu
 
 **Obidos** is a medieval village enclosed entirely by a city wall. It sounds like it should be overrun by tourists, but outside high season it remains quiet. Try a ginjinha (sour cherry liqueur) served in a tiny chocolate cup, a local tradition.
 
-The **Costa Vicentina** north of the Algarve, between Sagres and Sines, is the wildest and least developed coastline in Western Europe. Wide sandy beaches, crashing Atlantic waves and almost no infrastructure. Perfect for surfers and anyone who prefers wilderness over beach clubs. Flying into Faro and picking up a rental car makes this stretch easily accessible.
+The **Costa Vicentina** north of the Algarve, between Sagres and Sines, is the wildest and least developed coastline in Western Europe. Wide sandy beaches, crashing Atlantic waves and almost no infrastructure. Perfect for surfers and anyone who prefers wilderness over beach clubs. Flying into Faro and picking up a [rental car](https://www.economybookings.com/) makes this stretch easily accessible.
 
 ## When Should You Visit Portugal?
 

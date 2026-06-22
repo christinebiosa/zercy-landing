@@ -39,7 +39,7 @@ Winter months in Riga and Ghent are more appealing than you might expect. Riga h
 
 ## How do you book trips to these cities cheaply?
 
-Direct flights run from most German and Austrian cities to Riga (Ryanair, airBaltic), Porto (many airlines), and Ljubljana (book early, fewer connections). Ghent is easiest by Thalys or Eurostar via Brussels. Matera is the trickiest: the nearest airport is Bari, about 70 kilometres away, then bus or rental car.
+Direct flights run from most German and Austrian cities to Riga (Ryanair, airBaltic), Porto (many airlines), and Ljubljana (book early, fewer connections). Ghent is easiest by Thalys or Eurostar via Brussels. Matera is the trickiest: the nearest airport is Bari, about 70 kilometres away, then bus or [rental car](https://www.economybookings.com/).
 
 For train travellers: getting to Porto, Ljubljana, or Ghent by rail is very comfortable. Our [Night Trains Europe 2026 guide](/en/blog/night-trains-europe-2026/) covers which routes are actually worth it.
 

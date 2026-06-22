@@ -54,7 +54,7 @@ Wichtig für US-Bürger: Puerto Rico ist US-Territorium. Kein Reisepass, kein Zo
 
 Von Europa aus gibt es wenige Direktflüge, hauptsächlich ab Madrid. Die meisten Europäer steigen in Miami oder New York um. Günstige Verbindungen findest du oft über Florida, was einen kurzen [Stopp an Floridas Stränden](/blog/beste-straende-florida/) lohnenswert machen kann.
 
-Vor Ort bewegt man sich am besten per Taxi oder Rideshare. Uber funktioniert gut in der Stadt. Die öffentlichen Busse (AMA) sind günstig, aber langsam und für Touristen schwer zu navigieren. Ein Mietwagen lohnt sich nur, wenn du Ausflüge außerhalb der Stadt planst. Für Old San Juan selbst sind die Straßen zu eng und das Parken zu teuer.
+Vor Ort bewegt man sich am besten per Taxi oder Rideshare. Uber funktioniert gut in der Stadt. Die öffentlichen Busse (AMA) sind günstig, aber langsam und für Touristen schwer zu navigieren. Ein [Mietwagen](https://www.economybookings.com/) lohnt sich nur, wenn du Ausflüge außerhalb der Stadt planst. Für Old San Juan selbst sind die Straßen zu eng und das Parken zu teuer.
 
 
 ## San Juan in Kürze: Das musst du wissen

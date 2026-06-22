@@ -81,7 +81,7 @@ Zapopan is a separate municipality west of Guadalajara, but practically part of 
 
 **Top picks:** Fiesta Inn Zapopan (reliable, pool), GHL Hotel Capital Guadalajara (modern, near convention center), Hotel Cosmopolitan Guadalajara (mid-range, central in Zapopan).
 
-Planning to rent a car? Our [rental car checklist guide](/en/blog/rental-car-checklist/) covers what to watch for with Mexican car rentals specifically.
+Planning to rent a car? Our [rental car checklist guide](/en/blog/rental-car-checklist/) covers what to watch for with Mexican [car rentals](https://www.economybookings.com/) specifically.
 
 ## Tlaquepaque: The arts village
 

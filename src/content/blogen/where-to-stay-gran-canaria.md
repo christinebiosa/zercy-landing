@@ -93,7 +93,7 @@ Year-round, which is the USP. Summer (22-26°C) is cooler than mainland Spain. W
 
 ### How do you travel between Las Palmas and Maspalomas?
 
-By scheduled bus (Global Bus 30/30S): about 1 hour, under €5. By car on the GC-1: 45-55 minutes depending on traffic. A rental car is highly recommended on Gran Canaria for excursions into the island interior.
+By scheduled bus (Global Bus 30/30S): about 1 hour, under €5. By car on the GC-1: 45-55 minutes depending on traffic. A [rental car](https://www.economybookings.com/) is highly recommended on Gran Canaria for excursions into the island interior.
 
 ### How much does a car rental cost on Gran Canaria?
 

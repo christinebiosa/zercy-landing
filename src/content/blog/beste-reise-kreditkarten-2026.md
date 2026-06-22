@@ -34,7 +34,7 @@ Die Miles & More Gold kostet rund 110 Euro jährlich. Du sammelst Prämienmeilen
 
 Die gesammelten Meilen lassen sich für Upgrades, Freiflüge und Hotelübernachtungen einlösen. Realistische Bewertung: Ein Business-Class-Upgrade Frankfurt-New York kostet rund 50.000 bis 70.000 Meilen. Wer das Ziel aktiv angeht und auch über Partnerpartner sammelt, erreicht das in ein bis zwei Jahren.
 
-Achtung: Meilen verfallen nach 36 Monaten ohne Aktivität. Kleinere Aktivitäten, zum Beispiel ein Mietwagen über einen Partner, halten das Konto aktiv. Wenn du Mietwagen ohnehin einplanst, lies vorher unseren [Mietwagen-Check](/blog/mietwagen-check/).
+Achtung: Meilen verfallen nach 36 Monaten ohne Aktivität. Kleinere Aktivitäten, zum Beispiel ein [Mietwagen](https://www.economybookings.com/) über einen Partner, halten das Konto aktiv. Wenn du Mietwagen ohnehin einplanst, lies vorher unseren [Mietwagen-Check](/blog/mietwagen-check/).
 
 ## Für wen lohnt sich IHG One Rewards wirklich?
 

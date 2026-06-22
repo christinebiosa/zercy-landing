@@ -18,7 +18,7 @@ Rate parity applies to the base room price. What sets platforms apart are loyalt
 
 Booking Genius (free from level 1, better from level 2 after a few bookings) gives you up to 15 percent off on participating hotels. Not every property. But a lot of them. If you book through Booking regularly, the account pays for itself quickly.
 
-Expedia One Key combines hotels, flights, and rental cars into a single points system. You earn OneKeyCash and can apply it to the next booking. This makes Expedia especially attractive when you book flight and hotel together.
+Expedia One Key combines hotels, flights, and [rental cars](https://www.economybookings.com/) into a single points system. You earn OneKeyCash and can apply it to the next booking. This makes Expedia especially attractive when you book flight and hotel together.
 
 Hotels.com has the most straightforward model: book 10 nights, get 1 night free. Simple, transparent, and useful if you travel frequently.
 

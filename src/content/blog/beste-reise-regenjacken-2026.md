@@ -54,7 +54,7 @@ Das Leichtbaugewunder. Unter 200 g, trotzdem vollständig verschweißte Nähte u
 
 Reisende stellen diese Frage öfter als man denkt. Beide halten nass. Der Unterschied liegt im Kontext.
 
-Ein Hardshell (wie alle sieben Modelle oben) ist eine Jacke mit Ärmel, Kragen, Kapuze und Reißverschlüssen. Du trägst sie wie eine normale Jacke. Ideal für alle Situationen wo Mobilität zählt - Wandern, Stadtbummeln, Mietwagen einladen.
+Ein Hardshell (wie alle sieben Modelle oben) ist eine Jacke mit Ärmel, Kragen, Kapuze und Reißverschlüssen. Du trägst sie wie eine normale Jacke. Ideal für alle Situationen wo Mobilität zählt - Wandern, Stadtbummeln, [Mietwagen](https://www.economybookings.com/) einladen.
 
 Ein Regenponcho deckt mehr ab, kostet weniger, wiegt kaum etwas. Gut für Festivals, Rundfahrten mit dem Touristenbus, Kurzausflüge. Schlecht bei Wind und wenn du tatsächlich laufen willst.
 

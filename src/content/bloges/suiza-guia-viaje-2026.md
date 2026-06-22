@@ -63,7 +63,7 @@ El Swiss Travel Pass cubre trenes, autobuses, barcos y muchos teleféricos de mo
 
 **Cuándo no conviene:** Base en una sola ciudad, pocas excursiones, concentración en una sola región.
 
-Para los viajeros que consideran el coche de alquiler en Suiza, la [guía de alquiler de coche](/es/blog/checklist-alquiler-coche/) merece consultarse, ya que las tarifas suizas pueden ser competitivas cuando se entra desde Alemania.
+Para los viajeros que consideran el [coche de alquiler](https://www.economybookings.com/) en Suiza, la [guía de alquiler de coche](/es/blog/checklist-alquiler-coche/) merece consultarse, ya que las tarifas suizas pueden ser competitivas cuando se entra desde Alemania.
 
 ## ¿Cuándo es mejor visitar Suiza?
 

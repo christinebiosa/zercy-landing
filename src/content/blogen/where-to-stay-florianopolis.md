@@ -31,7 +31,7 @@ The north of Florianópolis has the most touristy beaches and the most nightlife
 
 ## What Area Is Best for Families?
 
-Families with children do best in the south or the quieter north (Canasvieiras rather than Jurerê). The southern beaches like Armação and Pântano do Sul are sheltered, shallow, and free from party noise. Campeche has a wide, clean beach and a relaxed local community. In the south you will also encounter real locals, which means more authentic and cheaper restaurants. One caveat: a rental car is practically essential in the south.
+Families with children do best in the south or the quieter north (Canasvieiras rather than Jurerê). The southern beaches like Armação and Pântano do Sul are sheltered, shallow, and free from party noise. Campeche has a wide, clean beach and a relaxed local community. In the south you will also encounter real locals, which means more authentic and cheaper restaurants. One caveat: a [rental car](https://www.economybookings.com/) is practically essential in the south.
 
 ## Lagoa da Conceição: The Island's Cultural Heart
 

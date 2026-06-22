@@ -39,7 +39,7 @@ Los meses de invierno en Riga y Gante son más atractivos de lo que parece. Riga
 
 ## ¿Cómo reservar viajes a estas ciudades al menor precio?
 
-Hay vuelos directos desde la mayoría de ciudades alemanas y austriacas a Riga (Ryanair, airBaltic), Oporto (varias aerolíneas) y Liubliana (reserva con antelación, pocas conexiones). A Gante es más fácil llegar en Thalys o Eurostar pasando por Bruselas. Matera es la más complicada: el aeropuerto más cercano es Bari, a unos 70 kilómetros, y después necesitas autobús o coche de alquiler.
+Hay vuelos directos desde la mayoría de ciudades alemanas y austriacas a Riga (Ryanair, airBaltic), Oporto (varias aerolíneas) y Liubliana (reserva con antelación, pocas conexiones). A Gante es más fácil llegar en Thalys o Eurostar pasando por Bruselas. Matera es la más complicada: el aeropuerto más cercano es Bari, a unos 70 kilómetros, y después necesitas autobús o [coche de alquiler](https://www.economybookings.com/).
 
 Para los que viajan en tren: llegar a Oporto, Liubliana o Gante en ferrocarril es muy cómodo. Nuestra guía de [trenes nocturnos Europa 2026](/es/blog/trenes-nocturnos-europa-2026/) explica qué rutas merecen realmente la pena.
 

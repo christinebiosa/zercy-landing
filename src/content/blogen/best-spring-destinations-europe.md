@@ -36,7 +36,7 @@ Spring is the cheapest time to travel in Western Europe. Compared to summer, hot
 **Sample budgets (per person, 7 days):**
 - Amsterdam + Keukenhof: €700–1,000 (hotel, flight, food)
 - Portugal Alentejo spring: €500–700 (usually includes a flight to Lisbon)
-- Provence with rental car: €800–1,200 (flight to Marseille or Nice)
+- Provence with [rental car](https://www.economybookings.com/): €800–1,200 (flight to Marseille or Nice)
 - Tuscany: €800–1,100 (flight to Florence or Pisa)
 
 Book accommodation 4–6 weeks ahead for the best prices via [Booking.com](https://www.booking.com). Easter is always more expensive — the week before and after is cheaper.

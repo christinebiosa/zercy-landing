@@ -43,7 +43,7 @@ Camping is the cheaper alternative to refugios. Weatherproof gear is absolutely 
 
 Valparaíso, a port city two hours from Santiago, is colorful, chaotic, and covered in street art. The hills (Cerros) with staircase alleys and viewing platforms, the funicular elevators (Ascensores) connecting them. Nothing in Chile feels quite like it.
 
-The Carretera Austral is one of South America's most legendary road routes: 1,200 kilometers through Patagonia, barely paved, through rainforests, fjords, and glaciers. Travelers do it by rental car, motorcycle, or bicycle in 2 to 3 weeks.
+The Carretera Austral is one of South America's most legendary road routes: 1,200 kilometers through Patagonia, barely paved, through rainforests, fjords, and glaciers. Travelers do it by [rental car](https://www.economybookings.com/), motorcycle, or bicycle in 2 to 3 weeks.
 
 Entry for EU nationals: no visa required, tourist stay up to 90 days. Valid passport required.
 

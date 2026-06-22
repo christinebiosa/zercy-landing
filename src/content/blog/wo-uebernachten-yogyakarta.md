@@ -94,7 +94,7 @@ Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit d
 ## Häufige Fragen
 
 ### Wie weit sind Borobudur und Prambanan von Yogyakarta entfernt?
-Borobudur liegt 42 km westlich, ca. 1 Stunde per Mietwagen oder organisierter Tour. Prambanan liegt 17 km östlich, ca. 30-40 Minuten. Beide sind mit organisierten Touren, Mietroller oder lokalem Bus erreichbar. Sonnenaufgang in Borobudur: Abfahrt gegen 3:30-4:00 Uhr morgens empfohlen.
+Borobudur liegt 42 km westlich, ca. 1 Stunde per [Mietwagen](https://www.economybookings.com/) oder organisierter Tour. Prambanan liegt 17 km östlich, ca. 30-40 Minuten. Beide sind mit organisierten Touren, Mietroller oder lokalem Bus erreichbar. Sonnenaufgang in Borobudur: Abfahrt gegen 3:30-4:00 Uhr morgens empfohlen.
 
 ### Welche Sprache spricht man in Yogyakarta?
 Javanisch ist die lokale Sprache im Alltag, Bahasa Indonesia die Amtssprache. In Touristenbereichen (Malioboro, Restaurants, Guesthouses) ist einfaches Englisch überall verständlich. Deutsch oder andere europäische Sprachen werden kaum gesprochen.

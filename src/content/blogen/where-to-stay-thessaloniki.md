@@ -73,7 +73,7 @@ The Upper Town sits on the hill above the center, still enclosed by the Byzantin
 
 Kalamaria is a suburb directly east of the city, right on the sea. No major sights, but calm beach stretches, tavernas with fresh seafood, and local prices without the tourist markup. By bus or taxi it is 15-20 minutes to the center.
 
-**Who belongs here:** Families with children, travelers with a rental car, longer stays, anyone who wants beach access and quiet evenings.
+**Who belongs here:** Families with children, travelers with a [rental car](https://www.economybookings.com/), longer stays, anyone who wants beach access and quiet evenings.
 
 **Prices:** Mid-range 70-130 EUR, apartments 55-100 EUR.
 

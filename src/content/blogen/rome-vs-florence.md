@@ -40,7 +40,7 @@ Transport: Florence can be explored almost entirely on foot. Rome requires metro
 
 Rome sits well for trips to Tivoli (Villa d'Este, UNESCO World Heritage, 60-90 minutes by bus), the Castelli Romani hills, or Pompeii (2.5-3 hours by train, entry 18 euros). Vesuvius National Park is accessible from Pompeii. Naples takes under 1.5 hours on the high-speed train for 15-25 euros.
 
-Florence is unbeatable for Tuscany day trips. Siena is 1.5 hours away, San Gimignano 1.5-2 hours. The Chianti wine country is 30-45 minutes by rental car. Lucca and Pisa are each 1-1.5 hours by train. The official [Visit Tuscany](https://www.visittuscany.com) site has updated info on transport and reservations.
+Florence is unbeatable for Tuscany day trips. Siena is 1.5 hours away, San Gimignano 1.5-2 hours. The Chianti wine country is 30-45 minutes by [rental car](https://www.economybookings.com/). Lucca and Pisa are each 1-1.5 hours by train. The official [Visit Tuscany](https://www.visittuscany.com) site has updated info on transport and reservations.
 
 For detailed advice on Rome, [where to stay in Rome](/en/blog/where-to-stay-rome/) and [48 hours in Rome](/en/blog/48-hours-rome/) are the best planning resources.
 

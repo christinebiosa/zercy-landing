@@ -14,7 +14,7 @@ Und jetzt gibt es das Nächste. Das **Zercy Logbook**.
 
 ## Was ist das Zercy Logbook?
 
-Du hast gebucht. Flug, Hotel, Mietwagen. Alles reserviert, alles bestätigt. Und dann? Dann liegen die Bestätigungen verteilt in deiner Inbox. Auf drei verschiedenen Plattformen. In zwei PDFs. Irgendwo in einem Screenshot auf dem Handy.
+Du hast gebucht. Flug, Hotel, [Mietwagen](https://www.economybookings.com/). Alles reserviert, alles bestätigt. Und dann? Dann liegen die Bestätigungen verteilt in deiner Inbox. Auf drei verschiedenen Plattformen. In zwei PDFs. Irgendwo in einem Screenshot auf dem Handy.
 
 Genau das nervt. Und genau das löst das Zercy Logbook.
 

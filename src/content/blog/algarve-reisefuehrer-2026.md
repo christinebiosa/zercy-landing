@@ -59,7 +59,7 @@ Lies dazu unseren [Portugal-Guide zu Porto](/blog/porto-die-unterschaetzte-schwe
 
 **Auto ist Pflicht.** Kein Wenn und Aber. Wer ohne Auto kommt, sieht 20% der Algarve, hauptsächlich Albufeira. Die besten Strände (Praia da Marinha, Camilo, Praia da Luz) sind nur per Auto oder teurem Taxi erreichbar. Busse fahren, aber selten und langsam.
 
-Faro-Flughafen ist der Hauptzugang. Mietwagen am Flughafen sind einfach buchbar, aber teuer ohne Vorabplanung. Ein [Mietwagen-Preisvergleich](/blog/mietwagen-consolidator-guenstiger-fahren/) spart hier oft 30-50%.
+Faro-Flughafen ist der Hauptzugang. [Mietwagen](https://www.economybookings.com/) am Flughafen sind einfach buchbar, aber teuer ohne Vorabplanung. Ein [Mietwagen-Preisvergleich](/blog/mietwagen-consolidator-guenstiger-fahren/) spart hier oft 30-50%.
 
 Die EN125 ist die Hauptstraße, überlastet im Sommer. Die A22 (Autoestrada do Algarve) ist schneller aber mautpflichtig. Für Strandfahrten sind kleine Küstenstraßen besser.
 

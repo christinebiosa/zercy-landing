@@ -68,7 +68,7 @@ Consulta [visiteurope.com](https://www.visiteurope.com) para ver el calendario d
 
 Zercy integra precios de vuelo en tiempo real. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano al reservar.
 
-Para escapadas donde quieras añadir un alquiler de coche: la [guía de checklist de alquiler de coche](/es/blog/checklist-alquiler-coche/) te muestra cuándo merece la pena y qué proveedores son fiables. Más guías de destino detalladas en el blog de Zercy.
+Para escapadas donde quieras añadir un [alquiler de coche](https://www.economybookings.com/): la [guía de checklist de alquiler de coche](/es/blog/checklist-alquiler-coche/) te muestra cuándo merece la pena y qué proveedores son fiables. Más guías de destino detalladas en el blog de Zercy.
 
 **Más información:**
 - [48 horas en Praga: El itinerario honesto](/es/blog/48-horas-praga/)

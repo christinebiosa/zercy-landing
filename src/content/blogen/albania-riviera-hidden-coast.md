@@ -23,7 +23,7 @@ The water. Turquoise-clear, often with 60-foot visibility. Rocky coves and hidde
 
 The mountains. The Ceraunian range drops straight into the sea. You drive the SH8 coastal road, one of Europe's most spectacular routes. Steep switchbacks, breathtaking views.
 
-The prices. Restaurant main course: $5-13. Hotel double room on the beach: $45-90. Rental car for a week: $220-330. A week on the Riviera costs less than a weekend in Mallorca.
+The prices. Restaurant main course: $5-13. Hotel double room on the beach: $45-90. [Rental car](https://www.economybookings.com/) for a week: $220-330. A week on the Riviera costs less than a weekend in Mallorca.
 
 ## Which places should you visit?
 

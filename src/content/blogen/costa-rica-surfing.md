@@ -41,7 +41,7 @@ And then there are the sloths. In Manuel Antonio they just hang in the trees bes
 
 **December to April** is dry season on the Pacific coast — best weather, best waves, highest prices. Book accommodation early. Popular areas like Santa Teresa fill up weeks out.
 
-**May to November** is rainy season. Greener, quieter, cheaper. Rain usually means afternoon showers, not constant downpours. Almost always sunny in the mornings. The landscape is more lush, the crowds thinner, and you'll pay 20–40% less for accommodation and car rental.
+**May to November** is rainy season. Greener, quieter, cheaper. Rain usually means afternoon showers, not constant downpours. Almost always sunny in the mornings. The landscape is more lush, the crowds thinner, and you'll pay 20–40% less for accommodation and [car rental](https://www.economybookings.com/).
 
 The Caribbean coast works in reverse: September and October are the best months there. The rest of the year sees more rain on that side.
 

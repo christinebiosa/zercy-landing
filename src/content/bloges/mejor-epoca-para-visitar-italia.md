@@ -38,7 +38,7 @@ Sicilia, Apulia, Calabria, Cerdeña y la Costa Amalfitana siguen reglas distinta
 
 **Sicilia en abril** es una de las experiencias más subestimadas de Italia. Almendros en flor, los templos de Agrigento sin aglomeraciones y temperaturas de 18-22°C. Palermo en esta época es un mercado callejero lleno de vida.
 
-**Septiembre y octubre en Cerdeña:** Las playas alrededor de San Teodoro y La Maddalena están menos saturadas que en agosto. El agua sigue cálida (25-27°C) y los vuelos directos desde España son más económicos. Una semana en Cerdeña con coche de alquiler sale por 800-1.200 euros por persona en septiembre con alojamiento incluido, frente a 1.400-2.000 euros en agosto.
+**Septiembre y octubre en Cerdeña:** Las playas alrededor de San Teodoro y La Maddalena están menos saturadas que en agosto. El agua sigue cálida (25-27°C) y los vuelos directos desde España son más económicos. Una semana en Cerdeña con [coche de alquiler](https://www.economybookings.com/) sale por 800-1.200 euros por persona en septiembre con alojamiento incluido, frente a 1.400-2.000 euros en agosto.
 
 ## Mes a mes: resumen rápido
 

@@ -28,7 +28,7 @@ Diese Bausteine deckt Zercy ab:
 
 - **Flüge:** Direktflüge, Stopover-Optionen, optimale Buchungszeiträume, Vergleich mehrerer Abflughäfen
 - **Hotels & Unterkünfte:** vom Designhotel bis zum Apartment, angepasst an Budget und Reisestil
-- **Mietwagen:** mit echten Preisen, Abholort, Versicherungshinweisen und Rückgabe-Optionen
+- **[Mietwagen](https://www.economybookings.com/):** mit echten Preisen, Abholort, Versicherungshinweisen und Rückgabe-Optionen
 - **Züge & Busse:** Europas Zugnetz, Intercity-Verbindungen, Nachtzüge, regionale Alternativen
 - **Touren & Aktivitäten:** lokale Erlebnisse, Stadtführungen, Ausflüge, direkt buchbar
 - **Navigation:** Google Maps ist integriert, Fahrtzeiten vom Flughafen zum Hotel werden automatisch mitberechnet

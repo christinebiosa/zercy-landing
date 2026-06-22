@@ -23,7 +23,7 @@ Hier ist der ehrliche Überblick: 5 Stadtteile, was sie kosten, wer dort richtig
 
 **Žnjan:** Moderne Strandhotels, Pools, ruhige Lage am Stadtrand. Für Sonnenliebhaber und Erholungssuchende.
 
-**Trogir-Korridor (außerhalb):** Ferienhäuser und kleine Hotels nördlich von Split. Für Insel-Hopper, Mietwagen-Reisende und alle die viel Platz brauchen.
+**Trogir-Korridor (außerhalb):** Ferienhäuser und kleine Hotels nördlich von Split. Für Insel-Hopper, [Mietwagen](https://www.economybookings.com/)-Reisende und alle die viel Platz brauchen.
 
 ## Stari Grad (Diokletians-Palast): In den Ruinen schlafen
 

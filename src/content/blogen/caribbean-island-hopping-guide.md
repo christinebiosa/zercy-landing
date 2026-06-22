@@ -61,7 +61,7 @@ Realistic daily budget for two: $165 to $275, excluding flights.
 
 [Booking.com](https://www.booking.com) has accommodation across all Caribbean islands with beachfront filters for the best waterfront properties.
 
-For logistics, Zercy helps with route planning: compare island combinations, sort flight options, check rental car prices. Save your route in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything in one place when booking.
+For logistics, Zercy helps with route planning: compare island combinations, sort flight options, check [rental car](https://www.economybookings.com/) prices. Save your route in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything in one place when booking.
 
 If you enjoy multi-island trips, see also our [Croatia Island Hopping guide](/en/blog/croatia-island-hopping/) or the [Greek Islands comparison](/en/blog/greek-islands-comparison/) for European alternatives.
 

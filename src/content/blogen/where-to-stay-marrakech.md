@@ -63,7 +63,7 @@ French new town, built during the protectorate (1912-1956). Wide boulevards, Fre
 
 **Who fits:** Premium resort seekers, families with kids (large pools), wellness travelers.
 
-**Caution:** You need taxi/rental car for any movement to the city ($16 one-way). Not for sightseeing travelers.
+**Caution:** You need taxi/[rental car](https://www.economybookings.com/) for any movement to the city ($16 one-way). Not for sightseeing travelers.
 
 **Prices:** Premium resorts $220-550, top resorts $550-1,300.
 

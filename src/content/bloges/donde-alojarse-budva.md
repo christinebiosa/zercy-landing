@@ -128,7 +128,7 @@ Mayo, junio y septiembre. Caluroso, soleado, el mar está a buena temperatura, l
 
 ### ¿Cómo se llega desde Dubrovnik a Budva?
 
-En coche de alquiler o en autobús: unas 2,5 a 3 horas, con un breve cruce de frontera hacia Montenegro. Los autobuses salen a diario, con un precio de unos 15-20 EUR. El coche merece la pena por la carretera costera y la posibilidad de parar en Kotor o Perast de camino.
+En [coche de alquiler](https://www.economybookings.com/) o en autobús: unas 2,5 a 3 horas, con un breve cruce de frontera hacia Montenegro. Los autobuses salen a diario, con un precio de unos 15-20 EUR. El coche merece la pena por la carretera costera y la posibilidad de parar en Kotor o Perast de camino.
 
 ---
 

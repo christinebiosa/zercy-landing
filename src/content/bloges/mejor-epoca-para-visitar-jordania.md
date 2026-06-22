@@ -42,7 +42,7 @@ En verano (julio-agosto) las temperaturas del aire y del agua son cálidas, pero
 
 Precios de hoteles en el mar Muerto: 100-250 euros por noche en resorts de categoría media, 300-600 euros en establecimientos de lujo (Kempinski, Marriott, Mövenpick). Los mejores resorts están en el lado jordano, al sur de Amán.
 
-Desde Amán al mar Muerto hay unos 60 kilómetros (45 minutos en taxi o coche de alquiler, unos 25-35 euros). Hay conexiones en bus ocasionales, pero un coche de alquiler hace que el mar Muerto, las rutas de snorkel y el Wadi Rum sean mucho más flexibles. Nuestra [guía de alquiler de coches](/es/blog/checklist-alquiler-coche/) cubre cómo reservar sin sorpresas.
+Desde Amán al mar Muerto hay unos 60 kilómetros (45 minutos en taxi o [coche de alquiler](https://www.economybookings.com/), unos 25-35 euros). Hay conexiones en bus ocasionales, pero un coche de alquiler hace que el mar Muerto, las rutas de snorkel y el Wadi Rum sean mucho más flexibles. Nuestra [guía de alquiler de coches](/es/blog/checklist-alquiler-coche/) cubre cómo reservar sin sorpresas.
 
 ## ¿Cuánto cuesta Jordania y qué meses son más económicos?
 

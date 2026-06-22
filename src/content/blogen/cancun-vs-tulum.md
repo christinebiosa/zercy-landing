@@ -68,7 +68,7 @@ Cancun is built around all-inclusive resorts, nightlife, and large hotel complex
 November through April is the sweet spot. The dry season means clear water, little rain, and comfortable temperatures around 28 degrees. May through October brings rain, sargassum seaweed, and hurricane risk. Peak crowds hit in February and July.
 
 ### How do you get from Cancun to Tulum?
-The ADO bus (about 3 euros, 2.5 hours) runs multiple times daily and is the cheapest option. Shuttles cost 15-25 euros per person. A rental car lets you stop at cenotes and ruins along the way and makes sense for multi-day exploration.
+The ADO bus (about 3 euros, 2.5 hours) runs multiple times daily and is the cheapest option. Shuttles cost 15-25 euros per person. A [rental car](https://www.economybookings.com/) lets you stop at cenotes and ruins along the way and makes sense for multi-day exploration.
 
 ### Which destination is better for families with kids?
 Cancun is easier for families: all-inclusive resorts offer kids clubs, water slides, and structured schedules. Tulum is less set up for young children, though the cenotes offer great swimming experiences for older kids.

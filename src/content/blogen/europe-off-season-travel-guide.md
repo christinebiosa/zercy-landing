@@ -32,7 +32,7 @@ A breakdown by category:
 
 - **Flights:** 25 to 50 percent cheaper outside school holiday windows
 - **Hotels:** 20 to 45 percent cheaper, especially in coastal resorts
-- **Rental cars:** 30 to 40 percent less. The difference is stark in Mallorca and Greece.
+- **[Rental cars](https://www.economybookings.com/):** 30 to 40 percent less. The difference is stark in Mallorca and Greece.
 - **Attractions:** no direct discounts, but dramatically shorter queues
 
 For [weekend getaways in Europe](/en/blog/weekend-getaways-europe-best/), off-season timing is nearly ideal. Cities like Vienna, Prague or Porto show the savings immediately when you compare summer and November rates.

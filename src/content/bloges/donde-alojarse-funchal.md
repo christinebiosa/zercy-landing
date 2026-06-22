@@ -71,7 +71,7 @@ Y los toboganes. Los trineos tradicionales de mimbre con patines de paja y condu
 
 São Martinho está al oeste del Lido, entre el extrarradio de la ciudad y el aeropuerto. No es un barrio turístico. Panaderías locales, supermercados, restaurantes de pescado sin precios de turista. La Levada do Moinho sale desde aquí hacia las montañas.
 
-Si ya conoces Madeira y no quieres quedarte en el bullicio de la zona hotelera, esta zona funciona muy bien. Con un coche de alquiler, que puedes organizar con anticipación usando nuestra [guía de alquiler de coches](/es/blog/checklist-alquiler-coche/), el centro de Funchal está a 10 minutos.
+Si ya conoces Madeira y no quieres quedarte en el bullicio de la zona hotelera, esta zona funciona muy bien. Con un [coche de alquiler](https://www.economybookings.com/), que puedes organizar con anticipación usando nuestra [guía de alquiler de coches](/es/blog/checklist-alquiler-coche/), el centro de Funchal está a 10 minutos.
 
 **Para quién es ideal:** Viajeros con presupuesto ajustado, visitantes habituales, estancias largas.
 

@@ -36,7 +36,7 @@ Die Metro ist günstig, zuverlässig und klimatisiert. Eine Zehnerkarte kostet r
 
 Für die Route Gòtic, El Born und Barceloneta lohnt sich das Fahrrad definitiv. Für Sagrada Família und Park Güell nimm die Metro. Hügel plus Touristen-Massen plus Sommer-Hitze sind keine gute Kombination.
 
-Weitere Infos zu deinen Unterkunftsmöglichkeiten findest du in unserem Guide zu [wo du in Barcelona übernachtest](/blog/wo-uebernachten-barcelona/). Wenn du noch flexibel bist, lohnt sich ein Blick auf [günstige Flüge nach Barcelona](/blog/guenstig-fliegen-tipps/). Und falls du dich fragst, ob sich ein Mietwagen lohnt: In Barcelona selbst brauchst du ihn nicht, aber für Ausflüge in die Umgebung ist er praktisch, mehr dazu in unserem [Mietwagen-Check](/blog/mietwagen-check/).
+Weitere Infos zu deinen Unterkunftsmöglichkeiten findest du in unserem Guide zu [wo du in Barcelona übernachtest](/blog/wo-uebernachten-barcelona/). Wenn du noch flexibel bist, lohnt sich ein Blick auf [günstige Flüge nach Barcelona](/blog/guenstig-fliegen-tipps/). Und falls du dich fragst, ob sich ein [Mietwagen](https://www.economybookings.com/) lohnt: In Barcelona selbst brauchst du ihn nicht, aber für Ausflüge in die Umgebung ist er praktisch, mehr dazu in unserem [Mietwagen-Check](/blog/mietwagen-check/).
 
 Speichere deine Auswahl im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen alles zur Hand hast.
 

@@ -63,7 +63,7 @@ Der Swiss Travel Pass gilt für Züge, Busse, Schiffe und viele Bergbahnen inklu
 
 **Wann er sich nicht lohnt:** Nur eine Stadt als Basis, wenige Ausflüge, Konzentration auf eine Region.
 
-Für Mietwagen-Reisende in der Schweiz lohnt der [Mietwagen-Kostencheck](/blog/mietwagen-check/) ein genauer Blick, da Schweiz-Tarife gut sein können wenn man von Deutschland einreist.
+Für [Mietwagen](https://www.economybookings.com/)-Reisende in der Schweiz lohnt der [Mietwagen-Kostencheck](/blog/mietwagen-check/) ein genauer Blick, da Schweiz-Tarife gut sein können wenn man von Deutschland einreist.
 
 ## Wann ist die beste Reisezeit für die Schweiz?
 

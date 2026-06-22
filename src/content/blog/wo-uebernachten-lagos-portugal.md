@@ -103,4 +103,4 @@ Praia Dona Ana gilt als einer der schönsten Strände der Algarve, wegen der mar
 
 ### Wie kommt man am besten nach Lagos?
 
-Per Zug von Lissabon dauert die Reise rund drei Stunden mit Umstieg in Faro oder Tunes. Per Fernbus (Rede Expressos oder FlixBus) gibt es Direktverbindungen ab Lissabon. Mit dem Mietwagen hat man mehr Flexibilität für Ausflüge zu abgelegenen Stränden. Der nächste Flughafen ist Faro, circa eine Stunde entfernt.
+Per Zug von Lissabon dauert die Reise rund drei Stunden mit Umstieg in Faro oder Tunes. Per Fernbus (Rede Expressos oder FlixBus) gibt es Direktverbindungen ab Lissabon. Mit dem [Mietwagen](https://www.economybookings.com/) hat man mehr Flexibilität für Ausflüge zu abgelegenen Stränden. Der nächste Flughafen ist Faro, circa eine Stunde entfernt.

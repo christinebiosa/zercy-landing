@@ -43,7 +43,7 @@ El camping es la alternativa más barata a los refugios. El equipo impermeable e
 
 Valparaíso, un puerto a dos horas de Santiago, es colorido, caótico y lleno de arte urbano. Los cerros con sus callejones de escaleras y miradores, y los ascensores que los conectan. Nada en Chile se le parece.
 
-La Carretera Austral es una de las rutas de carretera más legendarias de Sudamérica: 1.200 kilómetros por la Patagonia, con escaso asfalto, entre bosques lluviosos, fiordos y glaciares. Los viajeros la hacen en coche de alquiler, moto o bicicleta en 2 o 3 semanas.
+La Carretera Austral es una de las rutas de carretera más legendarias de Sudamérica: 1.200 kilómetros por la Patagonia, con escaso asfalto, entre bosques lluviosos, fiordos y glaciares. Los viajeros la hacen en [coche de alquiler](https://www.economybookings.com/), moto o bicicleta en 2 o 3 semanas.
 
 Entrada para ciudadanos latinoamericanos: la mayoría no necesita visa gracias a acuerdos bilaterales. Consulta los requisitos de tu país antes de viajar.
 

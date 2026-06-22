@@ -75,7 +75,7 @@ San Felipe del Agua liegt an den Hängen der Sierra Norte, nördlich der Stadt. 
 
 **Preise:** Ferienhäuser und Villen ab 150 Euro, Luxusobjekte 300-600 Euro. Wenige Hotels, eher Ferienhäuser über Booking.com oder Airbnb.
 
-**Wichtig:** Du brauchst ein Mietwagen oder regelmäßige Taxis ins Zentrum. Rechne 5-8 Euro pro Fahrt.
+**Wichtig:** Du brauchst ein [Mietwagen](https://www.economybookings.com/) oder regelmäßige Taxis ins Zentrum. Rechne 5-8 Euro pro Fahrt.
 
 ## Wo solltest du am Ende buchen?
 

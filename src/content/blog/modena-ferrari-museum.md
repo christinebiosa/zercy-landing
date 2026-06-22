@@ -27,7 +27,7 @@ Eintritt: 22 Euro (Einzel) oder 28 Euro im Kombi-Ticket mit Maranello.
 
 ### Museo Ferrari (in Maranello, 18 km)
 
-**Das** [Ferrari-Museum in Maranello](https://musei.ferrari.com/de/maranello). Wo die Autos gebaut werden. 25 Minuten Autofahrt von Modena. Keine öffentlichen Verkehrsmittel direkt dahin, also Mietwagen (siehe [Mietwagen-Consolidator-Guide](/blog/mietwagen-consolidator-guenstiger-fahren/)), Taxi oder Shuttle.
+**Das** [Ferrari-Museum in Maranello](https://musei.ferrari.com/de/maranello). Wo die Autos gebaut werden. 25 Minuten Autofahrt von Modena. Keine öffentlichen Verkehrsmittel direkt dahin, also [Mietwagen](https://www.economybookings.com/) (siehe [Mietwagen-Consolidator-Guide](/blog/mietwagen-consolidator-guenstiger-fahren/)), Taxi oder Shuttle.
 
 Hier steht die komplette F1-Sammlung, die legendärsten Rennwagen seit 1947, die Geschichte von Schumacher bis Leclerc. Plus die Neuheiten: den Daytona SP3, den SF90, und, wenn du Glück hast, Prototypen.
 

@@ -22,7 +22,7 @@ Offiziell empfiehlt [Tourism New Zealand](https://www.newzealand.com) die Schult
 
 ## Nordinsel oder Südinsel: Welche zuerst?
 
-Klassischerweise landet man in Auckland (Nordinsel) und fliegt aus Queenstown oder Christchurch ab (Südinsel). Das macht logistisch Sinn. Du brauchst nur einen One-Way-Mietwagen und machst keine unnötigen Umwege. Open-Jaw-Tickets sind hier ideal, mehr dazu in unserem Artikel über [Open-Jaw-Tickets als Reise-Hack](/blog/open-jaw-tickets-reise-hack/).
+Klassischerweise landet man in Auckland (Nordinsel) und fliegt aus Queenstown oder Christchurch ab (Südinsel). Das macht logistisch Sinn. Du brauchst nur einen One-Way-[Mietwagen](https://www.economybookings.com/) und machst keine unnötigen Umwege. Open-Jaw-Tickets sind hier ideal, mehr dazu in unserem Artikel über [Open-Jaw-Tickets als Reise-Hack](/blog/open-jaw-tickets-reise-hack/).
 
 Nordinsel in Kürze: Auckland ist die größte Stadt. Rotorua zeigt dir aktive Geothermik und Maori-Kultur. Tongariro Alpine Crossing ist einer der besten Tageswanderungen der Welt. Hobbiton ist touristisch, aber für viele ein Must. Die Bay of Islands im Norden ist unvergleichlich schön.
 

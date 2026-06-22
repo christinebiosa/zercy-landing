@@ -27,7 +27,7 @@ Das Donaudelta ist UNESCO-Welterbe und Heimat von 300 Vogelarten. Von Tulcea aus
 
 Rumänien ist EU-Mitglied, aber das Preisniveau ist noch weit vom westeuropäischen entfernt. Hotels in Mittelklasse in Bukarest oder Brasov kosten 40 bis 70 Euro. Restaurantessen 6 bis 12 Euro. Zugfahrten im Land sind fast kostenlos. Die Währung ist der Leu (RON), kein Euro. Für 1 Euro bekommst du aktuell rund 5 Leu.
 
-Die Infrastruktur ist in den Touristenzentren gut. Auf dem Land kann es holprig werden, im wörtlichen Sinne. Straßen außerhalb der Autobahnen sind oft in schlechtem Zustand. Mietwagen sind empfehlenswert für Transsylvanien, aber fahre defensiv.
+Die Infrastruktur ist in den Touristenzentren gut. Auf dem Land kann es holprig werden, im wörtlichen Sinne. Straßen außerhalb der Autobahnen sind oft in schlechtem Zustand. [Mietwagen](https://www.economybookings.com/) sind empfehlenswert für Transsylvanien, aber fahre defensiv.
 
 ## Wann ist die beste Reisezeit für Rumänien?
 

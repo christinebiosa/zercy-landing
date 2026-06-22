@@ -93,7 +93,7 @@ Todo el año, ese es el USP. El verano (22-26°C) es más fresco que el interior
 
 ### ¿Cómo se viaja entre Las Palmas y Maspalomas?
 
-En autobús de línea (Global Bus 30/30S): unos 1 hora, menos de 5 euros. En coche por la GC-1: 45-55 minutos según el tráfico. Se recomienda mucho un coche de alquiler en Gran Canaria para excursiones por el interior de la isla.
+En autobús de línea (Global Bus 30/30S): unos 1 hora, menos de 5 euros. En coche por la GC-1: 45-55 minutos según el tráfico. Se recomienda mucho un [coche de alquiler](https://www.economybookings.com/) en Gran Canaria para excursiones por el interior de la isla.
 
 ### ¿Cuánto cuesta alquilar un coche en Gran Canaria?
 

@@ -51,7 +51,7 @@ Para una ruta que combine ambas regiones, abril a mayo o septiembre a octubre so
 
 ## ¿Cómo planificar el Parque Nacional Kruger?
 
-El Kruger es uno de los mejores parques nacionales del mundo para recorrer en vehículo propio. Conduces tu propio coche de alquiler por pistas de tierra y buscas animales tú mismo. Es una experiencia distinta a un safari guiado, pero muy satisfactoria.
+El Kruger es uno de los mejores parques nacionales del mundo para recorrer en vehículo propio. Conduces tu propio [coche de alquiler](https://www.economybookings.com/) por pistas de tierra y buscas animales tú mismo. Es una experiencia distinta a un safari guiado, pero muy satisfactoria.
 
 Estancia mínima: 3 noches. Mejor con 5. Los campamentos dentro del parque varían en calidad desde cabañas básicas hasta cottages más cómodos. Reserva directamente en [SANParks](https://www.sanparks.org), con meses de antelación en temporada alta.
 

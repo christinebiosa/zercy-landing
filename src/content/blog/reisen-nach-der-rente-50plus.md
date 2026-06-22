@@ -44,7 +44,7 @@ Das bedeutet nicht automatisch Fünf-Sterne-Hotel. Aber ein ruhiges Zimmer, ein 
 
 Bei Langstreckenflügen lohnt sich Business Class zumindest als Überlegung. Wer Rückenprobleme hat oder schlecht schläft, landet nach zehn Stunden Economy völlig zerschlagen. Manchmal ist der Upgrade günstiger als der Arztbesuch danach.
 
-Mietwagen statt ÖPNV ist ein weiteres Thema. Nicht überall, aber in manchen Regionen (Kanaren, Südportugal, ländliches Spanien) ist ein Auto die komfortablere und oft günstigere Lösung als Busse oder Taxis.
+[Mietwagen](https://www.economybookings.com/) statt ÖPNV ist ein weiteres Thema. Nicht überall, aber in manchen Regionen (Kanaren, Südportugal, ländliches Spanien) ist ein Auto die komfortablere und oft günstigere Lösung als Busse oder Taxis.
 
 Für barrierefreies Reisen — Thema für viele, die bestimmte körperliche Einschränkungen haben oder einfach komfortabler reisen wollen — gibt es mittlerweile sehr gute Ressourcen: [Barrierefreies Reisen: der komplette Guide](/blog/barrierefreies-reisen-guide/)
 

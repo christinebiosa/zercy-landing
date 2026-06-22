@@ -27,7 +27,7 @@ Gozo is quieter and greener than Malta. The Calypso Cave is said to be where Ody
 
 Malta has a well-developed bus network. Key spots like Valletta, Mdina, Marsaxlokk (fishing village, Sunday market) and the northern beaches are reachable by bus. The Tallinja app shows live departures. Taxis are affordable.
 
-Rental cars are possible but parking in Valletta and Mdina is extremely limited. For day trips to Gozo, take the ferry from Cirkewwa to Mġarr. Runs regularly, 25-minute crossing. Cars can go on the ferry, which makes a rental car worthwhile if you want to explore Gozo in depth.
+[Rental cars](https://www.economybookings.com/) are possible but parking in Valletta and Mdina is extremely limited. For day trips to Gozo, take the ferry from Cirkewwa to Mġarr. Runs regularly, 25-minute crossing. Cars can go on the ferry, which makes a rental car worthwhile if you want to explore Gozo in depth.
 
 ## When is the best time to visit Malta?
 

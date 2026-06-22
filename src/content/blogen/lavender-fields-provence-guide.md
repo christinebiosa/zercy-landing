@@ -40,7 +40,7 @@ The easiest entry point is Marseille or Aix-en-Provence:
 
 **By plane:** Marseille-Provence Airport (MRS) is the closest. From there it is roughly 90 minutes by car to Valensole and 2 hours to Sault. Direct flights from most European cities.
 
-**By train:** TGV to Marseille or Avignon, then a rental car. Without your own vehicle, the lavender region is difficult to explore. Public transport is sparse and unreliable in the small villages. One exception: from Apt there are seasonal bus connections toward Sault.
+**By train:** TGV to Marseille or Avignon, then a [rental car](https://www.economybookings.com/). Without your own vehicle, the lavender region is difficult to explore. Public transport is sparse and unreliable in the small villages. One exception: from Apt there are seasonal bus connections toward Sault.
 
 **By rental car:** The recommended option. All major rental companies are at Marseille airport. Tips for booking and avoiding hidden fees are in the [rental car cost guide](/en/blog/rental-car-hidden-costs-avoid/). A good route from Marseille: first Abbaye de Senanque, then Sault, then Valensole. That moves from picturesque to grand.
 

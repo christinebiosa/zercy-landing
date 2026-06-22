@@ -54,7 +54,7 @@ Depende del destino. Un viaje de 5 días a Tromsø (Noruega) con alojamiento est
 
 #### ¿Es mejor ver auroras desde un tour organizado o por cuenta propia?
 
-Los tours de auroras tienen guías que monitorizan el clima y el índice Kp en tiempo real y llevan a los grupos a los mejores puntos de observación esa noche específica. Para quienes van por primera vez sin coche de alquiler, el tour es la opción más eficiente. Por cuenta propia con coche (Islandia o Noruega) se tiene más libertad pero se necesita seguir las apps de predicción activamente.
+Los tours de auroras tienen guías que monitorizan el clima y el índice Kp en tiempo real y llevan a los grupos a los mejores puntos de observación esa noche específica. Para quienes van por primera vez sin [coche de alquiler](https://www.economybookings.com/), el tour es la opción más eficiente. Por cuenta propia con coche (Islandia o Noruega) se tiene más libertad pero se necesita seguir las apps de predicción activamente.
 
 #### ¿Las auroras son siempre verdes?
 

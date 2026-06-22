@@ -72,7 +72,7 @@ Die [Skandinavien Rundreise](/blog/skandinavien-rundreise-route/) ist für Wildc
 
 Zercy baut die aktuellen Flugpreise direkt in jeden Reiseplan ein. Gib dein Ziel ein und bekomme sofort Vergleichslinks. Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook) damit du beim Buchen alle Optionen zur Hand hast.
 
-Für Camping-Trips, die du mit dem Mietwagen kombinierst: [Mietwagen-Check für Europa](/blog/mietwagen-check/) zeigt dir die günstigen Anbieter und was du beim Abholen beachten musst. Und wenn du planst, auf einem langen Trip auch mal eine Nacht innen zu schlafen, lohnt sich der Blick auf [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/) bevor du buchst.
+Für Camping-Trips, die du mit dem [Mietwagen](https://www.economybookings.com/) kombinierst: [Mietwagen-Check für Europa](/blog/mietwagen-check/) zeigt dir die günstigen Anbieter und was du beim Abholen beachten musst. Und wenn du planst, auf einem langen Trip auch mal eine Nacht innen zu schlafen, lohnt sich der Blick auf [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/) bevor du buchst.
 
 **Mehr lesen:**
 - [Campervan Urlaub Europa: Der komplette Guide](/blog/campervan-urlaub-europa/)

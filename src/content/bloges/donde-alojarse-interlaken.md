@@ -91,7 +91,7 @@ Verano (junio-septiembre) para senderismo, Alpes verdes y parapente. Invierno (d
 
 ### ¿Se puede visitar Interlaken sin alquilar un coche?
 
-Sí. La red de trenes públicos (SBB más ferrocarriles de montaña) cubre todos los lugares principales. Desde Interlaken Este, los trenes a Grindelwald y Lauterbrunnen salen varias veces por hora. La principal ventaja del coche de alquiler es la flexibilidad para explorar pequeños pueblos del valle.
+Sí. La red de trenes públicos (SBB más ferrocarriles de montaña) cubre todos los lugares principales. Desde Interlaken Este, los trenes a Grindelwald y Lauterbrunnen salen varias veces por hora. La principal ventaja del [coche de alquiler](https://www.economybookings.com/) es la flexibilidad para explorar pequeños pueblos del valle.
 
 ### ¿Cuánto cuesta un vuelo en tándem de parapente sobre Interlaken?
 

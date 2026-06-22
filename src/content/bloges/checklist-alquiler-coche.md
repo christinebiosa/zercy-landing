@@ -19,7 +19,7 @@ La mayoría de los contratos básicos incluyen una Colisión Damage Waiver (CDW)
 
 Opciones para eliminar la franquicia:
 - Pagar el seguro "full coverage" o "zero excess" de la empresa de alquiler (30-50 euros al día, caro)
-- Tener una tarjeta de crédito con cobertura de alquiler de coche (Visa Infinite, Amex Gold)
+- Tener una tarjeta de crédito con cobertura de [alquiler de coche](https://www.economybookings.com/) (Visa Infinite, Amex Gold)
 - Contratar un seguro de alquiler independiente (iCarhireinsurance, AutoSlash): mucho más barato que el de la empresa
 
 **Lo que el seguro NO suele cubrir:**

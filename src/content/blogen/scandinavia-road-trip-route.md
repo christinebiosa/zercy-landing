@@ -58,7 +58,7 @@ Winter (October to March) means northern lights. Norway and Sweden offer a compl
 
 **Train connections:** Trains in Scandinavia are excellent and scenic. The Oslo–Bergen line (Bergensbanen) is considered one of the most beautiful rail journeys in the world. Book early and save up to 70%.
 
-**Hire a car or go public?** Unnecessary in cities, ideal in the fjord region. The coastal roads (Atlantic Road, Geiranger-Trollstigen) are an experience in their own right. [Expedia Cars](https://www.expedia.com) has solid deals for Scandinavian rental cars.
+**[Hire a car](https://www.economybookings.com/) or go public?** Unnecessary in cities, ideal in the fjord region. The coastal roads (Atlantic Road, Geiranger-Trollstigen) are an experience in their own right. [Expedia Cars](https://www.expedia.com) has solid deals for Scandinavian rental cars.
 
 **City passes:** Oslo CityCard, Stockholm City Card — worth it for intensive sightseeing days. More in our guide on [city cards and museum passes](/en/blog/city-cards-museum-passes-worth-it/).
 

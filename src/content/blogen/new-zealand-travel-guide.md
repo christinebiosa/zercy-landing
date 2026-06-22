@@ -20,7 +20,7 @@ The shoulder seasons, October to November and March to April, are often the swee
 
 ## North Island or South Island: Which should you do first?
 
-The classic approach is to fly into Auckland on the North Island and depart from Queenstown or Christchurch on the South Island. This is logistically sensible. You need only a one-way rental car and avoid unnecessary backtracking. Open-jaw flights work well here: for a primer on how those tickets work, read our guide to [open-jaw tickets as a travel hack](/en/blog/open-jaw-tickets-travel-hack/).
+The classic approach is to fly into Auckland on the North Island and depart from Queenstown or Christchurch on the South Island. This is logistically sensible. You need only a one-way [rental car](https://www.economybookings.com/) and avoid unnecessary backtracking. Open-jaw flights work well here: for a primer on how those tickets work, read our guide to [open-jaw tickets as a travel hack](/en/blog/open-jaw-tickets-travel-hack/).
 
 North Island essentials: Auckland as your arrival city. Rotorua for geothermal landscapes and Maori culture. The Tongariro Alpine Crossing ranks among the best day hikes on earth. Hobbiton is touristy, but genuinely impressive in person. Bay of Islands in the far north offers stunning coastline and history.
 

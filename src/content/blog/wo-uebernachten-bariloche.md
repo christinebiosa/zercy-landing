@@ -31,7 +31,7 @@ Die Av. Bustillo ist die Lebensader der Tourismus-Infrastruktur. Hotels entlang 
 
 ## Welcher Stadtteil ist am besten für Familien?
 
-Für Familien mit Kindern ist das Zentrum oder die nahe Seeuferzone ideal. Alles ist fußläufig oder kurze Busfahrt entfernt: Eisdiele, Schokoladenladen, Seeufer, Spielplätze. Im Sommer gibt es Bootsausflüge direkt vom Seeufer. Im Winter ist Cerro Catedral praktisch, wenn Skifahren das Hauptthema ist, dann aber braucht man ein Auto oder tägliche Shuttles. Die Halbinsel Llao Llao ist für Familien zu abgelegen ohne Mietwagen.
+Für Familien mit Kindern ist das Zentrum oder die nahe Seeuferzone ideal. Alles ist fußläufig oder kurze Busfahrt entfernt: Eisdiele, Schokoladenladen, Seeufer, Spielplätze. Im Sommer gibt es Bootsausflüge direkt vom Seeufer. Im Winter ist Cerro Catedral praktisch, wenn Skifahren das Hauptthema ist, dann aber braucht man ein Auto oder tägliche Shuttles. Die Halbinsel Llao Llao ist für Familien zu abgelegen ohne [Mietwagen](https://www.economybookings.com/).
 
 ## Zentrum (Centro Cívico): Leben und Lebendigkeit
 

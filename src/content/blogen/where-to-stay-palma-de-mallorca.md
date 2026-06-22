@@ -119,7 +119,7 @@ Cathedral La Seu (especially the interior with Gaudí restoration), Bellver Cast
 
 ### How do you get from Palma to other parts of Mallorca?
 
-Bus is cheap but slow. Rental car is recommended for a flexible island tour. From the airport to the center: bus EMT (line A1), taxi (about 25-35 euros), or rental car. Train from Palma to Inca and Sóller (the Sóller Railway is historic and worth seeing in itself).
+Bus is cheap but slow. [Rental car](https://www.economybookings.com/) is recommended for a flexible island tour. From the airport to the center: bus EMT (line A1), taxi (about 25-35 euros), or rental car. Train from Palma to Inca and Sóller (the Sóller Railway is historic and worth seeing in itself).
 
 ---
 

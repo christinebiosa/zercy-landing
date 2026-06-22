@@ -10,7 +10,7 @@ bookingDest: "Heidelberg"
 ---
 Heidelberg es una de las ciudades más visitadas de Alemania. El castillo domina el casco histórico, el Neckar refleja las casas de entramado de madera y el Puente Viejo es uno de los lugares más fotografiados del país. Suma una animada vida universitaria con más de 30.000 estudiantes y tienes una ciudad que mezcla encanto histórico con vida cotidiana real.
 
-El barrio que elijas determina lo que puedes hacer a pie y lo que ves al desayunar. Los hoteles del casco histórico te ponen en el centro del ambiente; los barrios más tranquilos tienen precios más bajos y menos ajetreo. Para quienes llegan en tren o con coche de alquiler hay opciones inteligentes y económicas. Aquí tienes el desglose completo.
+El barrio que elijas determina lo que puedes hacer a pie y lo que ves al desayunar. Los hoteles del casco histórico te ponen en el centro del ambiente; los barrios más tranquilos tienen precios más bajos y menos ajetreo. Para quienes llegan en tren o con [coche de alquiler](https://www.economybookings.com/) hay opciones inteligentes y económicas. Aquí tienes el desglose completo.
 
 ## ¿Qué zona de Heidelberg se adapta mejor a tu viaje?
 

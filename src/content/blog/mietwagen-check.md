@@ -8,7 +8,7 @@ readingTime: 9
 heroImage: "/img/blog/rental-car.jpg"
 ---
 
-Der Mietwagen-Schalter ist geschafft, die Schlüssel sind in der Hand, das Abenteuer ruft. Und genau dann machen die meisten Fehler.
+Der [Mietwagen](https://www.economybookings.com/)-Schalter ist geschafft, die Schlüssel sind in der Hand, das Abenteuer ruft. Und genau dann machen die meisten Fehler.
 
 Fünf Minuten Aufmerksamkeit jetzt sparen dir hunderte Euro später. Hier ist die vollständige Checkliste — und warum jeder Punkt wirklich wichtig ist.
 

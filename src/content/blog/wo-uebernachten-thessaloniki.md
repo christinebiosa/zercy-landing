@@ -73,7 +73,7 @@ Die Oberstadt liegt auf dem Hügel über dem Zentrum, umgeben von den noch erhal
 
 Kalamaria ist ein Vorort östlich der Stadtgrenze, direkt am Meer. Keine großen Sehenswürdigkeiten, dafür ruhige Strandabschnitte, Tavernen mit frischen Meeresfrüchten und Lokalpreise ohne touristischen Aufschlag. Mit dem Bus oder Taxi 15-20 Minuten ins Zentrum.
 
-**Wer hier richtig liegt:** Familien mit Kindern, Reisende mit Mietwagen, längere Aufenthalte, alle die Ruhe und Strandnähe wollen.
+**Wer hier richtig liegt:** Familien mit Kindern, Reisende mit [Mietwagen](https://www.economybookings.com/), längere Aufenthalte, alle die Ruhe und Strandnähe wollen.
 
 **Preise:** Mittelklasse 70-130 Euro, Apartments 55-100 Euro.
 

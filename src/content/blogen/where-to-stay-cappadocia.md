@@ -70,7 +70,7 @@ As a base for Cappadocia, Avanos is slightly less convenient than Göreme: the m
 
 Hotels in Avanos cost 20 to 40 percent less than comparable options in Göreme. Good boutique properties from €80, family guesthouses from €55.
 
-Traveling with a rental car makes Avanos significantly more practical. Check what to look for before booking in the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
+Traveling with a [rental car](https://www.economybookings.com/) makes Avanos significantly more practical. Check what to look for before booking in the [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 ## Ortahisar: The Quiet Village Worth Finding
 

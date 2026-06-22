@@ -83,7 +83,7 @@ June and September offer the best combination of open clubs, lower prices than A
 The ferry runs around 20 to 40 euros per person return, depending on the operator and the season. The crossing takes about 30 minutes from Ibiza town. Formentera itself has no large resort hotels. The island runs on beaches, bicycles, and small restaurants. It is one of the more affordable days you will have in the Balearics.
 
 ### What is the difference between the north and south of Mallorca?
-The north, especially around Sóller and Deià, is quieter and largely unchanged from the pre-resort era. The Tramuntana range is directly accessible, and the villages have genuine character. The southeast and the Bay of Palma hold the mass-market resorts and the bigger hotels. Seeing both sides properly takes at least seven days and a rental car.
+The north, especially around Sóller and Deià, is quieter and largely unchanged from the pre-resort era. The Tramuntana range is directly accessible, and the villages have genuine character. The southeast and the Bay of Palma hold the mass-market resorts and the bigger hotels. Seeing both sides properly takes at least seven days and a [rental car](https://www.economybookings.com/).
 
 ---
 

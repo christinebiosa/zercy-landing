@@ -93,7 +93,7 @@ Mai, Juni und September sind ideal. Warm genug für die Strände in Foz, aber oh
 
 ### Wie komme ich vom Flughafen Porto ins Zentrum?
 
-Die Metro Linie E verbindet den Flughafen direkt mit dem Zentrum. Die Fahrt dauert etwa 20 Minuten und kostet 2,60 Euro mit einer Andante-Karte. Alternativ kostet ein Uber oder Taxi 15 bis 20 Euro. Ein Mietwagen ist in der Stadt selbst nicht nötig.
+Die Metro Linie E verbindet den Flughafen direkt mit dem Zentrum. Die Fahrt dauert etwa 20 Minuten und kostet 2,60 Euro mit einer Andante-Karte. Alternativ kostet ein Uber oder Taxi 15 bis 20 Euro. Ein [Mietwagen](https://www.economybookings.com/) ist in der Stadt selbst nicht nötig.
 
 ### Was kostet ein Tag in Porto ungefähr?
 

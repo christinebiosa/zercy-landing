@@ -71,7 +71,7 @@ Und der Toboggan. Die traditionellen Korbschlitten mit Strohläufern und weißge
 
 São Martinho liegt westlich des Lido, zwischen Stadtrand und Flughafen. Kein touristisches Viertel. Lokale Bäckereien, Supermärkte, Fischrestaurants ohne Touristenpreise. Die Levada do Moinho startet hier in die Berge.
 
-Wer Madeira schon kennt und nicht im Hotelzone-Trubel wohnen will, liegt hier gut. Mit dem Bus oder einem Mietwagen, den du im Vorfeld über unseren [Mietwagen-Ratgeber](/blog/mietwagen-check/) organisierst, ist Funchal in 10 Minuten erreichbar.
+Wer Madeira schon kennt und nicht im Hotelzone-Trubel wohnen will, liegt hier gut. Mit dem Bus oder einem [Mietwagen](https://www.economybookings.com/), den du im Vorfeld über unseren [Mietwagen-Ratgeber](/blog/mietwagen-check/) organisierst, ist Funchal in 10 Minuten erreichbar.
 
 **Für wen es passt:** Sparfüchse, Wiederholer, längere Aufenthalte.
 

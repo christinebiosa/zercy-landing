@@ -36,7 +36,7 @@ Das **Monsaraz**-Plateau in der Alentejo-Region ist eines davon. Das Dorf klebt 
 
 **Obidos** ist ein mittelalterliches Dorf, das vollständig von einer Stadtmauer umschlossen ist. Ginge es nur nach Instagram, wäre es längst überlaufen. Es bleibt aber erstaunlich ruhig außerhalb der Hauptsaison. Ein Ginjinha (Sauerkirschlikör) in einem der kleinen Schokoladen-Becher gehört dazu.
 
-Die **Costa Vicentina** nördlich der Algarve, also zwischen Sagres und Sines, ist der am wenigsten erschlossene Küstenabschnitt Westeuropas. Fast kein Massentourismus, rauer Atlantik, breite Sandstrände. Ideal für Surfer und alle, die lieber Weite als Animation wollen. Wer [günstig fliegen nach Faro](/blog/guenstig-fliegen-tipps/) will, findet diese Küste dann per Mietwagen.
+Die **Costa Vicentina** nördlich der Algarve, also zwischen Sagres und Sines, ist der am wenigsten erschlossene Küstenabschnitt Westeuropas. Fast kein Massentourismus, rauer Atlantik, breite Sandstrände. Ideal für Surfer und alle, die lieber Weite als Animation wollen. Wer [günstig fliegen nach Faro](/blog/guenstig-fliegen-tipps/) will, findet diese Küste dann per [Mietwagen](https://www.economybookings.com/).
 
 ## Wann ist die beste Reisezeit für Portugal?
 

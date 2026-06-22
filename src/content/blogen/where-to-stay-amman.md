@@ -112,7 +112,7 @@ At least 2 nights as a transit base for Petra and Wadi Rum. 3-4 days if Amman it
 
 ### How far is Petra from Amman?
 
-About 230 kilometers. By rental car roughly 2.5 to 3 hours. By JETT bus about 3.5 hours. A day trip is possible but exhausting. Anyone who wants to experience Petra properly should sleep in Wadi Musa, directly in front of the site.
+About 230 kilometers. By [rental car](https://www.economybookings.com/) roughly 2.5 to 3 hours. By JETT bus about 3.5 hours. A day trip is possible but exhausting. Anyone who wants to experience Petra properly should sleep in Wadi Musa, directly in front of the site.
 
 ### What does a hotel in Amman cost on average?
 

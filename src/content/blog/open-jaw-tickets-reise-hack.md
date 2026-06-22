@@ -14,7 +14,7 @@ Es gibt eine bessere Lösung. Sie heißt Open-Jaw Ticket.
 
 ## Was ist ein Open-Jaw Ticket?
 
-Ein Open-Jaw Ticket ist ein Flugticket, bei dem Ankunfts- und Abflugstadt nicht identisch sind. Du fliegst in Stadt A rein und von Stadt B zurück. Die Strecke dazwischen legst du selbst zurück, per Zug, Mietwagen oder Bus.
+Ein Open-Jaw Ticket ist ein Flugticket, bei dem Ankunfts- und Abflugstadt nicht identisch sind. Du fliegst in Stadt A rein und von Stadt B zurück. Die Strecke dazwischen legst du selbst zurück, per Zug, [Mietwagen](https://www.economybookings.com/) oder Bus.
 
 Beispiel: Frankfurt nach Lissabon (Hinflug), Madrid nach Frankfurt (Rückflug). Du landest in Portugal, reist durch Spanien und fliegst von dort zurück. Kein Umweg. Kein verlorener Tag.
 

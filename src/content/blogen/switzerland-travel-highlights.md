@@ -63,7 +63,7 @@ The Swiss Travel Pass covers trains, buses, boats and many mountain railways. 20
 
 **When it doesn't:** Only one city as a base, few day trips, focused on one region.
 
-For travelers considering a rental car in Switzerland, the [rental car checklist](/en/blog/rental-car-checklist/) is worth reading since Switzerland rates can be competitive when entering from Germany.
+For travelers considering a [rental car](https://www.economybookings.com/) in Switzerland, the [rental car checklist](/en/blog/rental-car-checklist/) is worth reading since Switzerland rates can be competitive when entering from Germany.
 
 ## When Is the Best Time to Visit Switzerland?
 

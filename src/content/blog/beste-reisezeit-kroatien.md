@@ -46,7 +46,7 @@ Kroatien ist günstiger als Italien oder Griechenland, aber nicht mehr billig. I
 - **Unterkunft:** Apartment für zwei Personen in Split im Mai 60-90 Euro. Im August 130-200 Euro.
 - **Restaurants:** Hauptgericht in einem guten Lokal in Dubrovnik 15-25 Euro, unabhängig von der Saison. Pašticada (Rindfleischeintopf) und gegrillter Fisch mit Blitva (Mangold) sind typisch und gut.
 
-Für die Planung mit Mietwagen in der Region: [Reiseversicherung was lohnt sich](/blog/reiseversicherung-was-lohnt-sich/) und eine gute Vollkaskooption sind in Kroatien bei engen Küstenstraßen sinnvoll.
+Für die Planung mit [Mietwagen](https://www.economybookings.com/) in der Region: [Reiseversicherung was lohnt sich](/blog/reiseversicherung-was-lohnt-sich/) und eine gute Vollkaskooption sind in Kroatien bei engen Küstenstraßen sinnvoll.
 
 ---
 

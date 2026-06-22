@@ -13,7 +13,7 @@ This list is not just about what is pretty. It explains when to go, how to dodge
 
 ## Which Villages Truly Belong to the First League?
 
-**Hallstatt, Austria** is the most famous village in Europe. That says everything. Sitting on the Hallstätter See, surrounded by steep mountain slopes, with colorful houses reflected in the lake. Coming in July or August means fighting for every inch of space. Coming in April or October means you nearly have it to yourself. The train via Attnang-Puchheim followed by ferry or bus is easy and costs a fraction of rental car parking fees.
+**Hallstatt, Austria** is the most famous village in Europe. That says everything. Sitting on the Hallstätter See, surrounded by steep mountain slopes, with colorful houses reflected in the lake. Coming in July or August means fighting for every inch of space. Coming in April or October means you nearly have it to yourself. The train via Attnang-Puchheim followed by ferry or bus is easy and costs a fraction of [rental car](https://www.economybookings.com/) parking fees.
 
 **Reine, Norway** on the Lofoten Islands is the village on every Norway mood board. Red Rorbu fishermen's cabins, mirror-calm water, dramatic mountain peaks. What makes it special: the Lofoten Islands reward visitors year-round. Winter brings northern lights above the village. Summer brings the midnight sun. Best photo conditions are February to March (aurora plus first snow) and June to July (midnight sun). Staying in a Rorbu cabin costs 80-150 euros per night. The [Lofoten Tourist Board](https://www.lofoten.info) has current ferry and accommodation info.
 

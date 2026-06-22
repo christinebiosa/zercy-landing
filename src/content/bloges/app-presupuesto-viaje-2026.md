@@ -28,7 +28,7 @@ Las apps difieren bastante entre sí. Algunas son simples y tardan diez segundos
 
 **TravelSpend** va un paso más allá. La app admite varias divisas simultáneamente y convierte todo automáticamente a tu moneda local. Cada noche recibes un breve informe del día. De un vistazo ves cuánto costaron el alojamiento, el transporte y la comida. Especialmente útil en viajes largos por varios países. Puedes descargarla gratis en el [App Store de TravelSpend](https://apps.apple.com/app/travel-spend-travel-budget/id1055323916), con una versión Pro para estadísticas avanzadas.
 
-**Splitwise** resuelve un problema diferente: los viajes en grupo. ¿Quién pagó el hotel por adelantado? ¿Quién cubrió el coche de alquiler? ¿Quién pagó por quién? Al final nadie recuerda quién le debe qué a quién. Splitwise lo rastrea automáticamente. Introduces los gastos, seleccionas quiénes participaron, y la app calcula el saldo. Práctico y gratuito en las funciones básicas.
+**Splitwise** resuelve un problema diferente: los viajes en grupo. ¿Quién pagó el hotel por adelantado? ¿Quién cubrió el [coche de alquiler](https://www.economybookings.com/)? ¿Quién pagó por quién? Al final nadie recuerda quién le debe qué a quién. Splitwise lo rastrea automáticamente. Introduces los gastos, seleccionas quiénes participaron, y la app calcula el saldo. Práctico y gratuito en las funciones básicas.
 
 **Google Sheets o Excel** son para quienes quieren máxima flexibilidad. Construyes tu propia hoja de cálculo, añades categorías, calculas totales. La desventaja: sin rastreo automático, sin conversión de divisas, sin comodidad móvil. Útil principalmente para planificar el viaje antes de salir. Para el seguimiento diario en ruta, las apps especializadas son mucho más prácticas.
 

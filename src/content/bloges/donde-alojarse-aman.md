@@ -112,7 +112,7 @@ Al menos 2 noches como base de tránsito hacia Petra y Wadi Rum. 3-4 días si Am
 
 ### ¿A qué distancia está Petra de Amán?
 
-Unos 230 kilómetros. En coche de alquiler aproximadamente 2,5 a 3 horas. En autobús JETT unas 3,5 horas. Una excursión de un día es posible pero agotadora. Quien quiera vivir Petra de verdad debería dormir en Wadi Musa, directamente frente al yacimiento.
+Unos 230 kilómetros. En [coche de alquiler](https://www.economybookings.com/) aproximadamente 2,5 a 3 horas. En autobús JETT unas 3,5 horas. Una excursión de un día es posible pero agotadora. Quien quiera vivir Petra de verdad debería dormir en Wadi Musa, directamente frente al yacimiento.
 
 ### ¿Cuánto cuesta un hotel en Amán de media?
 

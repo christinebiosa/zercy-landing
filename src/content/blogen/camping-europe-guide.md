@@ -72,7 +72,7 @@ The [Scandinavia road trip route](/en/blog/scandinavia-road-trip-route/) is part
 
 Zercy builds live flight prices into every travel plan. Enter your destination and get instant comparison links. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
-For camping trips combined with a rental car, the [car rental checklist](/en/blog/rental-car-checklist/) shows you the cheapest providers and what to check at pickup. If you're planning to stay indoors on some nights during a longer trip, take a look at [travel insurance: is it worth it?](/en/blog/travel-insurance-worth-it-2026/) before you book.
+For camping trips combined with a [rental car](https://www.economybookings.com/), the [car rental checklist](/en/blog/rental-car-checklist/) shows you the cheapest providers and what to check at pickup. If you're planning to stay indoors on some nights during a longer trip, take a look at [travel insurance: is it worth it?](/en/blog/travel-insurance-worth-it-2026/) before you book.
 
 **Read more:**
 - [Campervan Europe: The Complete Guide](/en/blog/campervan-europe-guide/)

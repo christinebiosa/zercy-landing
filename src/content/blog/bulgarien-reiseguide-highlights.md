@@ -65,7 +65,7 @@ Shopska-Salat (Tomaten, Gurken, Paprika, Feta), Banitsa (Blätterteig mit Käse)
 
 ### Wie kommt man in Bulgarien am besten herum?
 
-Zwischen Sofia und Plovdiv: Zug oder Bus, 2 Stunden, sehr günstig. Für die Küste und das Rila-Kloster: Mietwagen oder Busverbindungen. Flüge nach Sofia von vielen deutschen Flughäfen mit Ryanair und Wizz Air ab 30 bis 70 Euro.
+Zwischen Sofia und Plovdiv: Zug oder Bus, 2 Stunden, sehr günstig. Für die Küste und das Rila-Kloster: [Mietwagen](https://www.economybookings.com/) oder Busverbindungen. Flüge nach Sofia von vielen deutschen Flughäfen mit Ryanair und Wizz Air ab 30 bis 70 Euro.
 
 ---
 

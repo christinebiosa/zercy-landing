@@ -29,7 +29,7 @@ Per Fahrrad auf Kurzstrecken innerhalb der Städte und zwischen nahe beieinander
 
 Für Fernstrecken: NS (Nederlandse Spoorwegen) hat eines der dichtesten Bahnnetze der Welt. Amsterdam zu Rotterdam: 40 Minuten. Rotterdam nach Den Haag: 25 Minuten. Alle Intercity-Verbindungen laufen mehrmals stündlich.
 
-Mietwagen für Tagesausflüge außerhalb der Städte sinnvoll (Keukenhof-Region, Waddeninseln), aber in den Städten kontraproduktiv.
+[Mietwagen](https://www.economybookings.com/) für Tagesausflüge außerhalb der Städte sinnvoll (Keukenhof-Region, Waddeninseln), aber in den Städten kontraproduktiv.
 
 ## Wann ist die beste Reisezeit für die Niederlande?
 

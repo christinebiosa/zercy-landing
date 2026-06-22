@@ -35,7 +35,7 @@ Turtles legen an der Karibikküste zwischen Juli und Oktober ihre Eier. Humpback
 
 ## Wann ist Costa Rica am günstigsten?
 
-**Mai, Juni und Oktober** sind die günstigsten Monate. Hotels fallen auf das Hälfte des Hochsaisonpreises, Mietwagen sind billiger, und Touren haben wieder freie Plätze. Flüge aus Europa sind ebenfalls günstiger als in der Hochsaison.
+**Mai, Juni und Oktober** sind die günstigsten Monate. Hotels fallen auf das Hälfte des Hochsaisonpreises, [Mietwagen](https://www.economybookings.com/) sind billiger, und Touren haben wieder freie Plätze. Flüge aus Europa sind ebenfalls günstiger als in der Hochsaison.
 
 Das [Costa Rica Tourism Board ICT](https://www.visitcostarica.com) veröffentlicht aktuelle Daten zu Klimazonen und regionalen Reisezeiten für alle Gebiete des Landes.
 

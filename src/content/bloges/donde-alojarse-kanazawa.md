@@ -81,7 +81,7 @@ Los hoteles aquí son funcionales, algo más baratos que el centro, y bien conec
 
 ## Dirección Noto: Ryokan y Vistas al Mar
 
-La Península de Noto está al noreste de Kanazawa y es un Geoparque Global de la UNESCO. Ryokan tradicionales frente al mar, mariscos frescos recogidos esa misma mañana de la bahía, silencio. Para una experiencia auténtica en ryokan con cena kaiseki, onsen y vistas al océano, este es el lugar. Hace falta coche de alquiler o autobús local.
+La Península de Noto está al noreste de Kanazawa y es un Geoparque Global de la UNESCO. Ryokan tradicionales frente al mar, mariscos frescos recogidos esa misma mañana de la bahía, silencio. Para una experiencia auténtica en ryokan con cena kaiseki, onsen y vistas al océano, este es el lugar. Hace falta [coche de alquiler](https://www.economybookings.com/) o autobús local.
 
 **Para quién es ideal:** Viajeros que quieren Japón a un ritmo más lento, parejas, quienes priorizan la tranquilidad.
 

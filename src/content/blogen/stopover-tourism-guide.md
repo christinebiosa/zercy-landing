@@ -60,7 +60,7 @@ An honest cost comparison.
 
 Difference: $210 for one additional destination. Per day in Singapore the trip costs you $105 extra. Hard to beat if you count it as a trip.
 
-If you combine this with rental cars, see our [rental car checklist](/en/blog/rental-car-checklist/). In some stopover cities a rental isn't needed (Singapore, Helsinki), in others very useful (Reykjavík, Iceland surroundings).
+If you combine this with [rental cars](https://www.economybookings.com/), see our [rental car checklist](/en/blog/rental-car-checklist/). In some stopover cities a rental isn't needed (Singapore, Helsinki), in others very useful (Reykjavík, Iceland surroundings).
 
 The [Skytrax World Airline Awards](https://www.worldairlineawards.com/) include rankings of stopover programs, updated annually with traveler feedback.
 

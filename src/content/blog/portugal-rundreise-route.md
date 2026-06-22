@@ -30,7 +30,7 @@ Portugal ist im Süden günstiger als im Norden. Lissabon und Porto sind teurer 
 **Kostenpunkte:**
 - Unterkunft: 35–80 Euro/Nacht (Hostel bis Mittelklasse)
 - Essen: 20–35 Euro/Tag (Menu do Dia = Mittagsmenü ab 8–12 Euro, sehr empfehlenswert)
-- Transport: Bahn Lissabon–Porto ca. 30 Euro (Alfa Pendular), Mietwagen in der Algarve ab 25 Euro/Tag
+- Transport: Bahn Lissabon–Porto ca. 30 Euro (Alfa Pendular), [Mietwagen](https://www.economybookings.com/) in der Algarve ab 25 Euro/Tag
 - Aktivitäten: Museen 5–15 Euro, Weintouren im Douro 20–50 Euro
 
 Das Menu do Dia ist Portugals bestes Reiseschnäppchen. Zwei Gänge + Getränk für unter 12 Euro. Fast überall verfügbar, auch in guten Restaurants.

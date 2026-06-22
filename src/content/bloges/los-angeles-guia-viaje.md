@@ -49,7 +49,7 @@ Para saber en cuál de estos barrios alojarte, consulta nuestra guía sobre [dó
 
 Sin coche no se puede. Esta es la regla principal y no tiene excepciones reales.
 
-Uber existe, pero resulta caro y lento en el tráfico. El metro está mejorando, pero no cubre lo suficiente para un turista. Con un coche de alquiler ves tres veces más en el mismo tiempo. Lee nuestra [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche/) antes de recogerlo, especialmente los puntos sobre seguros y el acta de daños.
+Uber existe, pero resulta caro y lento en el tráfico. El metro está mejorando, pero no cubre lo suficiente para un turista. Con un [coche de alquiler](https://www.economybookings.com/) ves tres veces más en el mismo tiempo. Lee nuestra [checklist de alquiler de coche](/es/blog/checklist-alquiler-coche/) antes de recogerlo, especialmente los puntos sobre seguros y el acta de daños.
 
 El tráfico es real. De Venice a Downtown: 20 minutos sin tráfico, 75 minutos con tráfico. Revisa siempre Google Maps antes de salir. Aire acondicionado en el coche es imprescindible en verano.
 

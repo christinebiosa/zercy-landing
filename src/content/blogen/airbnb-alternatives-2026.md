@@ -42,7 +42,7 @@ Another advantage: on VRBO, you book directly with the property owner. The conne
 
 Platform fees at VRBO are similar to Airbnb, sometimes slightly lower. But the inventory in Europe is thinner. For a city apartment in Lisbon or Amsterdam, Booking.com is the stronger choice.
 
-If you need a rental car for your trip, check our [rental car guide](/en/blog/book-hotel-cheaper-tips/) for tips on getting the best deal.
+If you need a [rental car](https://www.economybookings.com/) for your trip, check our [rental car guide](/en/blog/book-hotel-cheaper-tips/) for tips on getting the best deal.
 
 ## How does Booking.com work as an Airbnb alternative?
 

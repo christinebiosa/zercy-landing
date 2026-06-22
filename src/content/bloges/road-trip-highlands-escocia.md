@@ -53,7 +53,7 @@ Velocidad: las carreteras secundarias de Highlands tienen límite de 60 mph en t
 
 ## ¿Cuánto cuesta realmente el road trip por las Highlands?
 
-Alquiler de coche pequeño por una semana: 400-700 libras dependiendo de la temporada. Gasolina para 800 km: aproximadamente 80-100 libras. Alojamiento (B&Bs o small hotels): 80-150 libras por noche para dos personas. Comida: el desayuno escocés en un B&B suele estar incluido. Almuerzo y cena en pubs locales cuestan entre 15 y 25 libras por persona.
+[Alquiler de coche](https://www.economybookings.com/) pequeño por una semana: 400-700 libras dependiendo de la temporada. Gasolina para 800 km: aproximadamente 80-100 libras. Alojamiento (B&Bs o small hotels): 80-150 libras por noche para dos personas. Comida: el desayuno escocés en un B&B suele estar incluido. Almuerzo y cena en pubs locales cuestan entre 15 y 25 libras por persona.
 
 Una semana para dos personas con comodidad razonable sale entre 1.500 y 2.200 libras sin contar el vuelo. Los vuelos desde Madrid o desde las principales ciudades europeas a Inverness o Glasgow rondan los 100-250 euros según la temporada y la antelación.
 

@@ -27,7 +27,7 @@ The Danube Delta is a UNESCO World Heritage Site and home to 300 bird species. T
 
 Romania is an EU member but its price level is still far below Western Europe. Mid-range hotels in Bucharest or Brasov cost 40 to 70 euros. Restaurant meals 6 to 12 euros. Domestic train journeys are almost free by Western European standards. The currency is the Leu (RON), not the euro. Currently around 5 Leu per euro.
 
-Infrastructure in tourist centers is good. In the countryside, roads can be rough in the literal sense. Roads outside motorways are often in poor condition. Rental cars are recommended for Transylvania, but drive defensively.
+Infrastructure in tourist centers is good. In the countryside, roads can be rough in the literal sense. Roads outside motorways are often in poor condition. [Rental cars](https://www.economybookings.com/) are recommended for Transylvania, but drive defensively.
 
 ## When is the best time to visit Romania?
 

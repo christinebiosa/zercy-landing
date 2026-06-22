@@ -81,7 +81,7 @@ Zapopan ist eine separate Gemeinde westlich von Guadalajara, faktisch aber Teil 
 
 **Top-Picks:** Fiesta Inn Zapopan (verlässlich, Pool), GHL Hotel Capital Guadalajara (modern, Kongress-Nähe), Hotel Cosmopolitan Guadalajara (Mittelklasse, zentrale Lage in Zapopan).
 
-Hast du Mietwagen geplant? In unserem [Mietwagen-Checkliste Guide](/blog/mietwagen-check/) erfährst du, worauf du bei mexikanischen Mietwagen besonders achten musst.
+Hast du [Mietwagen](https://www.economybookings.com/) geplant? In unserem [Mietwagen-Checkliste Guide](/blog/mietwagen-check/) erfährst du, worauf du bei mexikanischen Mietwagen besonders achten musst.
 
 ## Tlaquepaque: Das Kunst-Dorf
 

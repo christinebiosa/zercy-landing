@@ -17,7 +17,7 @@ Dieser Reiseguide zeigt dir die wichtigsten Inseln, was dich dort erwartet, und 
 
 Keine Insel ist wie die andere. Die Wahl hängt davon ab, was du suchst.
 
-**São Miguel (die Hauptinsel):** Die meisten Besucher landen hier und bleiben. Sete Cidades ist das Bild der Azoren: ein ruhender Vulkankrater mit einem blauen und einem grünen See nebeneinander, je nach Lichteinfall. Das Terra Nostra Park Hotel in Furnas hat Thermalpools, die braun sind vom Eisengehalt und heilend warm. Die Geysire von Furnas kochen das Cozido, ein Eintopfgericht, direkt im Erdreich. São Miguel hat die beste Infrastruktur der Inseln, Mietwagen empfohlen.
+**São Miguel (die Hauptinsel):** Die meisten Besucher landen hier und bleiben. Sete Cidades ist das Bild der Azoren: ein ruhender Vulkankrater mit einem blauen und einem grünen See nebeneinander, je nach Lichteinfall. Das Terra Nostra Park Hotel in Furnas hat Thermalpools, die braun sind vom Eisengehalt und heilend warm. Die Geysire von Furnas kochen das Cozido, ein Eintopfgericht, direkt im Erdreich. São Miguel hat die beste Infrastruktur der Inseln, [Mietwagen](https://www.economybookings.com/) empfohlen.
 
 **Faial:** Das "blaue Insel" wegen der Hortensien, die überall blühen. Der Vulkan Caldeira hat einen der schönsten Kraterwanderwege der Azoren. Horta, die Hauptstadt, ist legendär unter Atlantiküberquerern: Segler aus aller Welt hinterlassen Kunstwerke auf dem Hafenmauern. Walbeobachtung von Faial aus ist hervorragend.
 

@@ -30,7 +30,7 @@ Fünf Seen stechen heraus:
 Die meisten dieser Seen sind kein Selbstläufer im öffentlichen Verkehr, aber machbar:
 
 - **Comer See:** Von Mailand mit dem Regionalzug in 35-50 Minuten. Mailand Centrale direkt nach Como S. Giovanni.
-- **Bled:** Von Ljubljana mit Bus (ca. 10 Euro, 55 Minuten) oder Mietwagen. Wer ein Auto hat, kann von dort auch zum Bohinj-See fahren (25 Minuten weiter).
+- **Bled:** Von Ljubljana mit Bus (ca. 10 Euro, 55 Minuten) oder [Mietwagen](https://www.economybookings.com/). Wer ein Auto hat, kann von dort auch zum Bohinj-See fahren (25 Minuten weiter).
 - **Hallstatt:** Von Salzburg mit dem Regionalzug (ca. 2,5 Stunden, Umstieg in Attnang-Puchheim). Nicht schnell, aber schön.
 - **Plitvice:** Von Split (2,5 Stunden Autofahrt) oder Zagreb (2 Stunden). Busverbindungen existieren, sind aber langsam. Mietwagen empfohlen.
 

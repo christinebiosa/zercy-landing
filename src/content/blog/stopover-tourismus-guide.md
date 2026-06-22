@@ -60,7 +60,7 @@ Eine ehrliche Kostenrechnung im Vergleich.
 
 Differenz: 170 Euro für ein zusätzliches Reiseziel. Pro Tag in Singapur kostet dich der Trip 85 Euro extra. Schwer zu schlagen, wenn man es als Reise zählt.
 
-Wenn du die Sache mit Mietwagen kombinierst, lies unseren [Mietwagen-Check](/blog/mietwagen-check/). In manchen Stopover-Städten ist Mietwagen nicht nötig (Singapur, Helsinki), in anderen sehr nützlich (Reykjavík, Island-Umgebung).
+Wenn du die Sache mit [Mietwagen](https://www.economybookings.com/) kombinierst, lies unseren [Mietwagen-Check](/blog/mietwagen-check/). In manchen Stopover-Städten ist Mietwagen nicht nötig (Singapur, Helsinki), in anderen sehr nützlich (Reykjavík, Island-Umgebung).
 
 Die [Skytrax-Bewertungen](https://www.worldairlineawards.com/) zu Airline-Stopover-Programmen geben einen guten Überblick über die wirklich besten Anbieter, jährlich aktualisiert.
 

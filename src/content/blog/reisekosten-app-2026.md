@@ -40,7 +40,7 @@ Bevor jede App hilft, brauchst du ein Budget. Das klingt nach mehr Arbeit als es
 
 **Unterkunft.** Der größte Posten auf den meisten Reisen. Recherchiere im Vorfeld echte Durchschnittspreise für dein Ziel. In Thailand schläfst du für 20 Euro pro Nacht gut. In Zürich brauchst du dafür mindestens 100 Euro.
 
-**Transport.** Flüge und Fernbusse sind meist schon vor der Reise bezahlt. Für lokalen Transport (U-Bahn, Taxi, Mietwagen) setzt du einen Tagesbetrag an. Lies dazu auch unsere [besten Tipps fürs günstige Fliegen](/blog/reise-budget-sparen-anleitung/).
+**Transport.** Flüge und Fernbusse sind meist schon vor der Reise bezahlt. Für lokalen Transport (U-Bahn, Taxi, [Mietwagen](https://www.economybookings.com/)) setzt du einen Tagesbetrag an. Lies dazu auch unsere [besten Tipps fürs günstige Fliegen](/blog/reise-budget-sparen-anleitung/).
 
 **Essen.** Du entscheidest, wo du auf der Skala liegst. Lokale Märkte und Supermärkte gegen Restaurants und Cafés. Beides ist legitim. Hauptsache du weißt, wofür du dich entscheidest.
 

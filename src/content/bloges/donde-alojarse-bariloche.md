@@ -31,7 +31,7 @@ La Av. Bustillo es la columna vertebral de la infraestructura turística de Bari
 
 ## ¿Qué zona es mejor para familias?
 
-Las familias con niños lo tienen mejor en el centro o en la zona cercana a la costanera. Todo está a pie o en un corto trayecto en bus: heladerías, chocolaterías, la costanera, parques. En verano hay excursiones en bote directamente desde la orilla. En invierno, alojarse cerca de Cerro Catedral tiene sentido si el esquí es el objetivo principal, pero entonces se necesita coche o traslados diarios para todo lo demás. La península Llao Llao está demasiado aislada para familias sin coche de alquiler.
+Las familias con niños lo tienen mejor en el centro o en la zona cercana a la costanera. Todo está a pie o en un corto trayecto en bus: heladerías, chocolaterías, la costanera, parques. En verano hay excursiones en bote directamente desde la orilla. En invierno, alojarse cerca de Cerro Catedral tiene sentido si el esquí es el objetivo principal, pero entonces se necesita coche o traslados diarios para todo lo demás. La península Llao Llao está demasiado aislada para familias sin [coche de alquiler](https://www.economybookings.com/).
 
 ## Centro: donde pasa todo
 

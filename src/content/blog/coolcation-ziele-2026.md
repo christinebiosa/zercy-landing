@@ -27,7 +27,7 @@ Das Klassikertrio. Oslo, Stockholm und Helsinki haben Sommertemperaturen zwische
 
 **Island**
 
-Mittlere Sommertemperaturen in Reykjavik: 11-14 Grad. Das ist für manche zu kühl, für andere perfekt. Der Vorteil: 24 Stunden Tageslicht im Juni und Juli, keine Mücken, unvergessliche Landschaft. Gletscherwanderungen, Thermalquellen im Freien (Blaue Lagune, Sky Lagoon), Wasserfall-Routen, Wale beobachten. Island ist im Sommer nicht billig, aber es lässt sich mit einem guten Mietwagen und Camping deutlich günstiger gestalten. Unser [Island Reiseguide](/blog/island-reiseguide/) zeigt, wie du das beste aus zwei Wochen machst.
+Mittlere Sommertemperaturen in Reykjavik: 11-14 Grad. Das ist für manche zu kühl, für andere perfekt. Der Vorteil: 24 Stunden Tageslicht im Juni und Juli, keine Mücken, unvergessliche Landschaft. Gletscherwanderungen, Thermalquellen im Freien (Blaue Lagune, Sky Lagoon), Wasserfall-Routen, Wale beobachten. Island ist im Sommer nicht billig, aber es lässt sich mit einem guten [Mietwagen](https://www.economybookings.com/) und Camping deutlich günstiger gestalten. Unser [Island Reiseguide](/blog/island-reiseguide/) zeigt, wie du das beste aus zwei Wochen machst.
 
 **Die Alpen: Österreich, Schweiz, Südtirol**
 

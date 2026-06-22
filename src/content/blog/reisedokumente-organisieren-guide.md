@@ -18,7 +18,7 @@ Der Reisepass ist das Fundament. Für viele Reiseziele außerhalb Europas brauch
 
 Dann das Visum. Manche Länder vergeben es bei Einreise (Visa on Arrival), andere verlangen eine Online-Beantragung Wochen vorher. Wer ein e-Visa beantragt, sollte den Ausdruck oder den Screenshot mit in die Reiseunterlagen packen, auch wenn viele Länder inzwischen digitale Nachweise akzeptieren.
 
-Buchungsbestätigungen gehören ebenfalls in den Stapel. Flug, Hotel, Mietwagen. Nicht weil du sie am Gate zeigen musst, sondern weil du bei Problemen sofort zugreifen kannst. Ein Auslandskrankenschein oder Versicherungsnachweis rundet das Minimum ab.
+Buchungsbestätigungen gehören ebenfalls in den Stapel. Flug, Hotel, [Mietwagen](https://www.economybookings.com/). Nicht weil du sie am Gate zeigen musst, sondern weil du bei Problemen sofort zugreifen kannst. Ein Auslandskrankenschein oder Versicherungsnachweis rundet das Minimum ab.
 
 Für Reisen innerhalb der EU gilt: Der EHIC (Europäische Krankenversicherungsausweis) sichert dir grundlegende medizinische Versorgung in allen EU-Ländern. Die meisten deutschen Krankenkassen stellen ihn kostenlos aus, oft auf der Rückseite der Krankenversicherungskarte.
 

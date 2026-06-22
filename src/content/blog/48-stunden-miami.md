@@ -97,7 +97,7 @@ South Beach für den ersten Abend und die Art Deco-Atmosphäre. Wynwood oder Bri
 
 ### Wie komme ich vom MIA Airport ins Hotel?
 
-Uber oder Lyft sind die einfachste Option. Aus Brickell oder Downtown dauert die Fahrt 20 bis 30 Minuten, etwa 25 bis 35 Dollar. Ein Mietwagen lohnt sich nur, wenn du auch Ausflüge nach Key West oder in die Everglades planst. Miami selbst ist ohne Auto gut erschlossen.
+Uber oder Lyft sind die einfachste Option. Aus Brickell oder Downtown dauert die Fahrt 20 bis 30 Minuten, etwa 25 bis 35 Dollar. Ein [Mietwagen](https://www.economybookings.com/) lohnt sich nur, wenn du auch Ausflüge nach Key West oder in die Everglades planst. Miami selbst ist ohne Auto gut erschlossen.
 
 ### Wann ist die beste Reisezeit für Miami?
 

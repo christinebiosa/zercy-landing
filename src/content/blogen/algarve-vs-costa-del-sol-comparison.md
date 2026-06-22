@@ -20,7 +20,7 @@ The Algarve has a raw, unspoiled quality that the Costa del Sol stopped having d
 
 For hikers, the Rota Vicentina coastal trail runs through Alentejo's nature parks and the western Algarve. The [official Algarve tourism site](https://www.visitalgarve.pt/en/) has stage plans and accommodation lists if you want to plan a multi-day walk.
 
-The price difference is real. The Algarve runs roughly 15-25% below Costa del Sol levels for hotels, restaurants, and car rentals. Two weeks of budget adds up fast. A beachside lunch in Albufeira costs noticeably less than a comparable meal in Marbella.
+The price difference is real. The Algarve runs roughly 15-25% below Costa del Sol levels for hotels, restaurants, and [car rentals](https://www.economybookings.com/). Two weeks of budget adds up fast. A beachside lunch in Albufeira costs noticeably less than a comparable meal in Marbella.
 
 If you want to dig deeper into the region, the [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026/) has everything you need. And if you're considering mixing surf into the trip: [Surfing holidays for beginners](/en/blog/surfing-holiday-beginners-guide/) covers which spots match which skill level.
 

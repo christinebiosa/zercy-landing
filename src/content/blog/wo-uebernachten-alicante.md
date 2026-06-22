@@ -105,7 +105,7 @@ Sag Zercy, was du in Alicante planst: Strandurlaub, Stadtbummel oder Tagesausfl�
 
 ### Wie kommt man vom Flughafen Alicante-Elche in die Stadt?
 
-Der Flughafen liegt 12 km s체dlich des Stadtzentrums. Der Bus C6 f채hrt direkt vom Flughafen zum Bahnhof (ca. 25 Minuten, 3 Euro). Taxis kosten 25-35 Euro je nach Viertel. F체r die Playa de San Juan gibt es auch direkte Busverbindungen. Mietwagen lohnen sich nur wenn du Ausfl체ge in die Region planst.
+Der Flughafen liegt 12 km s체dlich des Stadtzentrums. Der Bus C6 f채hrt direkt vom Flughafen zum Bahnhof (ca. 25 Minuten, 3 Euro). Taxis kosten 25-35 Euro je nach Viertel. F체r die Playa de San Juan gibt es auch direkte Busverbindungen. [Mietwagen](https://www.economybookings.com/) lohnen sich nur wenn du Ausfl체ge in die Region planst.
 
 ### Welches Viertel ist am g체nstigsten in Alicante?
 

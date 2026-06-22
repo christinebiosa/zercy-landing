@@ -8,7 +8,7 @@ readingTime: 6
 heroImage: "/img/blog/rental-car-keys.jpg"
 ---
 
-El precio del alquiler de coche que ves en los comparadores raramente es el precio que terminas pagando. Las empresas de alquiler han perfeccionado el arte de añadir cargos adicionales en el momento de la recogida o la devolución. Conocer cuáles son y cómo evitarlos puede ahorrar 100-300 euros en un alquiler de una semana.
+El precio del [alquiler de coche](https://www.economybookings.com/) que ves en los comparadores raramente es el precio que terminas pagando. Las empresas de alquiler han perfeccionado el arte de añadir cargos adicionales en el momento de la recogida o la devolución. Conocer cuáles son y cómo evitarlos puede ahorrar 100-300 euros en un alquiler de una semana.
 
 ## ¿Cuáles son los costes ocultos más frecuentes?
 

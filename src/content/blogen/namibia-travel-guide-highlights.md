@@ -54,7 +54,7 @@ Windhoek (start, airport) → Sossusvlei (2 to 3 nights) → Swakopmund (2 to 3 
 
 No EU visa required (up to 90 days). Left-hand traffic as in South Africa. Cash important for remote lodges, which often have no card terminal.
 
-Plan your Namibia road trip with the [Zercy Logbook](https://www.zercy.app/logbook). Car rental, lodges and the optimal stop sequence can be assembled as a single connected route.
+Plan your Namibia road trip with the [Zercy Logbook](https://www.zercy.app/logbook). [Car rental](https://www.economybookings.com/), lodges and the optimal stop sequence can be assembled as a single connected route.
 
 ---
 

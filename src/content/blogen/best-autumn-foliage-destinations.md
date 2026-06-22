@@ -76,7 +76,7 @@ Peak color can't be predicted to the exact day. But a few ground rules help:
 
 **4. Start early.** Sunrise light in an autumn forest is the best quality of the whole day. Parking lots and popular viewpoints are still empty in the early morning.
 
-**5. Book accommodation and rental cars early.** Peak weekends in Vermont or Québec often sell out 4-8 weeks in advance. No exceptions.
+**5. Book accommodation and [rental cars](https://www.economybookings.com/) early.** Peak weekends in Vermont or Québec often sell out 4-8 weeks in advance. No exceptions.
 
 Whether it's New England, Kyoto, or the Bavarian Alps: autumn foliage is one of the most beautiful travel experiences in the world. The colors don't last forever. But the moment light filters through a canopy of red and golden leaves makes every bit of planning worthwhile.
 

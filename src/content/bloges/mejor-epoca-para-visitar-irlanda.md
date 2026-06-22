@@ -44,7 +44,7 @@ El Wild Atlantic Way, la ruta costera de 2.500 kilómetros desde Donegal hasta C
 
 Irlanda es más que Dublín. Si dejas las rotondas de la capital atrás, encuentras:
 
-- **Wild Atlantic Way:** Acantilados de Moher, Connemara, Ring of Kerry, Península de Dingle. Mejor en primavera (mayo-junio) o principios de otoño. Necesitas coche de alquiler; ten en cuenta que se conduce por la izquierda.
+- **Wild Atlantic Way:** Acantilados de Moher, Connemara, Ring of Kerry, Península de Dingle. Mejor en primavera (mayo-junio) o principios de otoño. Necesitas [coche de alquiler](https://www.economybookings.com/); ten en cuenta que se conduce por la izquierda.
 - **Giants Causeway, Irlanda del Norte:** Columnas de basalto y puro drama. Abierto todo el año, menos visitado en invierno. Espectacular con cualquier tiempo.
 - **Islas Aran:** Inishmore, Inishmaan, Inisheer en la bahía de Galway. Ferry desde Rossaveal, explóralas en bici o en carro de caballos. Mejor clima de abril a septiembre.
 - **Skellig Michael:** Monasterio altomedieval en un islote rocoso, algo conocido por Star Wars. Solo accesible de mayo a septiembre; los viajes en barco se cancelan a menudo con mal tiempo. Reserva con tiempo.

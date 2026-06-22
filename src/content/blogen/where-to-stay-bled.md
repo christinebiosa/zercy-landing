@@ -55,7 +55,7 @@ Most visitors to Bled combine it with [Slovenia as a whole destination](/en/blog
 
 ## Outside Bled: Budget-Friendly and Relaxed
 
-Ribno, Lesce, Bohinjska Bela: villages 3-5 km from Bled, often with accommodation at half the price. A rental car or bicycle helps. For those who don't want the tourist density but still want quick lake access.
+Ribno, Lesce, Bohinjska Bela: villages 3-5 km from Bled, often with accommodation at half the price. A [rental car](https://www.economybookings.com/) or bicycle helps. For those who don't want the tourist density but still want quick lake access.
 
 **Who stays here:** Families, cyclists, budget travelers, digital nomads with their own vehicle.
 

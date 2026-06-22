@@ -29,7 +29,7 @@ Zakopane en los Tatras: pueblo de montaña al pie de la frontera polaco-eslovaca
 
 PKP Intercity conecta las grandes ciudades rápido y a buen precio. Cracovia a Varsovia: 2,5 horas, desde 15 euros. Varsovia a Gdansk: 3 horas, desde 20 euros. Compra entradas en [pkp.pl](https://www.pkp.pl), disponible en inglés. Comprar con antelación ahorra bastante dinero.
 
-Un coche de alquiler tiene sentido para excursiones de día como Auschwitz o Zakopane. Entre las grandes ciudades, el tren es la mejor opción. Las autopistas polacas están en buen estado pero el aparcamiento en los centros de las ciudades es escaso.
+Un [coche de alquiler](https://www.economybookings.com/) tiene sentido para excursiones de día como Auschwitz o Zakopane. Entre las grandes ciudades, el tren es la mejor opción. Las autopistas polacas están en buen estado pero el aparcamiento en los centros de las ciudades es escaso.
 
 ## ¿Cuánto cuesta una semana en Polonia?
 

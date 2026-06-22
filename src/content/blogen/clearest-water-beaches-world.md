@@ -77,4 +77,4 @@ Shallow water with a bright sandy or limestone bottom reflects light back: that 
 Shoulder season (May-June and September for Europe; November-April for Southeast Asia and the Pacific) gives the best combination of water clarity and smaller crowds. Midsummer water is still clear, but beaches are fuller and more expensive.
 
 ### Which clear-water beaches are easiest to reach?
-Whitehaven Beach in Australia and Seven Mile Beach in Grand Cayman are well-connected with solid tourist infrastructure. La Pelosa in Sardinia is reachable by rental car from Alghero in 40 minutes. The Philippine options (El Nido, Coron) require domestic flights but are logistically straightforward.
+Whitehaven Beach in Australia and Seven Mile Beach in Grand Cayman are well-connected with solid tourist infrastructure. La Pelosa in Sardinia is reachable by [rental car](https://www.economybookings.com/) from Alghero in 40 minutes. The Philippine options (El Nido, Coron) require domestic flights but are logistically straightforward.

@@ -75,7 +75,7 @@ If Mérida is part of a bigger Yucatán journey, also check our [Mexico Road Tri
 
 In northern Mérida, about 20 minutes from the Centro, Altabrisa is where international hotel chains and a large shopping mall cluster together. No special atmosphere, but reliable standards and easy airport access.
 
-**Who belongs here:** Business travelers, groups and anyone using Mérida as a base with a rental car.
+**Who belongs here:** Business travelers, groups and anyone using Mérida as a base with a [rental car](https://www.economybookings.com/).
 
 **Prices:** Mid-range chains (Holiday Inn, Fiesta Inn) €60-100 per night. No boutique character.
 

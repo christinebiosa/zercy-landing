@@ -27,7 +27,7 @@ Un resumen rápido:
 
 El centro de Tromsø ocupa la isla de Tromsøya de forma compacta. Todo queda a pie: la Catedral Ártica al otro lado del fiordo, el Museo Polar, los bares de la calle Storgata y los puntos de salida de los tours nocturnos. El aeropuerto está a 5 km, 15 minutos en autobús. En temporada alta (noviembre a marzo para auroras, junio y julio para el sol de medianoche) el ambiente es animado pero controlado.
 
-**Para quién es**: Primera visita, estancias cortas de 2 o 3 noches, viajeros sin coche de alquiler, quien quiere tenerlo todo cerca.
+**Para quién es**: Primera visita, estancias cortas de 2 o 3 noches, viajeros sin [coche de alquiler](https://www.economybookings.com/), quien quiere tenerlo todo cerca.
 
 **Precios por noche**: Hostales 35-70 euros, gama media 130-260 euros, boutique 200-380 euros, premium 350-600 euros.
 

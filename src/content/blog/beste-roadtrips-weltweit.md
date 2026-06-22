@@ -15,7 +15,7 @@ Die schönsten Strecken gibt es auf jedem Kontinent. Was sie verbindet: Sie habe
 
 Jeder dieser Trips hat einen eigenen Rhythmus. Die Auswahl ist subjektiv, die Gründe sind es nicht.
 
-**Route 66, USA:** Das Original. 3.940 Kilometer von Chicago nach Santa Monica. Nicht mehr als durchgehende Straße kartiert (seit 1985 offiziell dekartiert), aber die historische Route ist vollständig befahrbar. Zwei bis drei Wochen. Klassische Stopps: St. Louis Gateway Arch, Cadillac Ranch in Amarillo, Grand Canyon South Rim, Las Vegas. Mietwagen ab 30 Euro pro Tag, Motels entlang der Route zwischen 60 und 120 Euro. Beste Saison: April bis Oktober.
+**Route 66, USA:** Das Original. 3.940 Kilometer von Chicago nach Santa Monica. Nicht mehr als durchgehende Straße kartiert (seit 1985 offiziell dekartiert), aber die historische Route ist vollständig befahrbar. Zwei bis drei Wochen. Klassische Stopps: St. Louis Gateway Arch, Cadillac Ranch in Amarillo, Grand Canyon South Rim, Las Vegas. [Mietwagen](https://www.economybookings.com/) ab 30 Euro pro Tag, Motels entlang der Route zwischen 60 und 120 Euro. Beste Saison: April bis Oktober.
 
 **Ring Road, Island:** 1.332 Kilometer um die ganze Insel. Eine Woche Minimum, zwei Wochen ideal. Die Route führt durch Lavafelder, vorbei an Wasserfällen, Geysiren, schwarzen Strandabschnitten und arktischen Fjorden. Kein anderer Roadtrip der Welt zeigt so viel Naturvielfalt auf so engem Raum. Mietwagen ab 60 Euro pro Tag (Allrad empfohlen). [Der Island Reiseguide](/blog/island-reiseguide/) gibt dir alle Details zu Routen und Übernachtungen.
 

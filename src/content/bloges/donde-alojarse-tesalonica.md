@@ -73,7 +73,7 @@ La Ciudad Alta se asienta sobre la colina que domina el centro, todavía rodeada
 
 Kalamaria es un suburbio al este de la ciudad, directamente sobre el mar. Sin grandes atracciones turísticas, pero con playas tranquilas, tabernas de mariscos frescos y precios locales sin el recargo turístico. En autobús o taxi, unos 15-20 minutos hasta el centro.
 
-**Para quién es ideal:** Familias con niños, viajeros con coche de alquiler, estancias largas, quienes quieren playa y noches tranquilas.
+**Para quién es ideal:** Familias con niños, viajeros con [coche de alquiler](https://www.economybookings.com/), estancias largas, quienes quieren playa y noches tranquilas.
 
 **Precios:** Gama media 70-130 EUR, apartamentos 55-100 EUR.
 

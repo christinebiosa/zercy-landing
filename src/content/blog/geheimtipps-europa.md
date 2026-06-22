@@ -20,7 +20,7 @@ Gassen, die sich wie ein Labyrinth anfühlen. Kirchen, die halb in Höhlen versc
 
 2019 war Matera Europäische Kulturhauptstadt. Seitdem kommen mehr Besucher. Aber überlaufen? Noch nicht.
 
-**Anreise**: Flug nach Bari oder Neapel, von dort Mietwagen (ca. 1,5–2 Stunden). Oder Zug nach Potenza, dann Bus. Der Mietwagen lohnt sich — die Umgebung der Basilicata ist es wert, erkundet zu werden.
+**Anreise**: Flug nach Bari oder Neapel, von dort [Mietwagen](https://www.economybookings.com/) (ca. 1,5–2 Stunden). Oder Zug nach Potenza, dann Bus. Der Mietwagen lohnt sich — die Umgebung der Basilicata ist es wert, erkundet zu werden.
 
 **Beste Reisezeit**: April, Mai, September, Oktober. Im Sommer heiß. Im Winter leer aber kalt.
 

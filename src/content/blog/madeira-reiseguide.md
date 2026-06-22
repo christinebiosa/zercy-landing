@@ -79,7 +79,7 @@ PR1 Caldeirão Verde (Levada-Wanderung durch den Urwald), PR6 Encumeada (Gebirgs
 
 ### Wie lange brauche ich für Madeira?
 
-5-7 Tage für die Hauptsehenswürdigkeiten. Mit Wanderfokus können es gerne 10-14 Tage werden. Die Insel ist klein genug, um alles von Funchal aus zu erkunden. Mietwagen empfohlen.
+5-7 Tage für die Hauptsehenswürdigkeiten. Mit Wanderfokus können es gerne 10-14 Tage werden. Die Insel ist klein genug, um alles von Funchal aus zu erkunden. [Mietwagen](https://www.economybookings.com/) empfohlen.
 
 ---
 

@@ -38,7 +38,7 @@ Sicily, Puglia, Calabria, Sardinia, and the Amalfi Coast play by different rules
 
 **Sicily in April** is one of Italy's underrated experiences. Almond blossom, Agrigento's temples with minimal crowds, and temperatures around 18-22°C. Palermo at this time is a vivid street market experience.
 
-**September and October for Sardinia:** Beaches around San Teodoro and La Maddalena are less packed than in August. Water stays warm (25-27°C), and direct flights from Germany are cheaper. A week on Sardinia with a rental car costs 800-1,200 euros per person in September including accommodation, versus 1,400-2,000 euros in August.
+**September and October for Sardinia:** Beaches around San Teodoro and La Maddalena are less packed than in August. Water stays warm (25-27°C), and direct flights from Germany are cheaper. A week on Sardinia with a [rental car](https://www.economybookings.com/) costs 800-1,200 euros per person in September including accommodation, versus 1,400-2,000 euros in August.
 
 ## Month-by-Month Quick Reference
 

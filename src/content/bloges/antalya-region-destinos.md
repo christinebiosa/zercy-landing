@@ -8,7 +8,7 @@ readingTime: 7
 heroImage: "/img/blog/antalya-region.jpg"
 bookingDest: "Antalya"
 ---
-Para muchos viajeros, Antalya es el punto de entrada a la Riviera Turca. Llegan al aeropuerto, van directo al resort y apenas salen de la piscina. Es una opción válida, pero es una oportunidad perdida. Con un coche de alquiler desde Antalya, en dos horas de conducción tienes ruinas, pequeños puertos pesqueros, caminatas por cañones y uno de los tramos de carretera costera más bonitos de Europa.
+Para muchos viajeros, Antalya es el punto de entrada a la Riviera Turca. Llegan al aeropuerto, van directo al resort y apenas salen de la piscina. Es una opción válida, pero es una oportunidad perdida. Con un [coche de alquiler](https://www.economybookings.com/) desde Antalya, en dos horas de conducción tienes ruinas, pequeños puertos pesqueros, caminatas por cañones y uno de los tramos de carretera costera más bonitos de Europa.
 
 Esta guía muestra lo que la región de Antalya ofrece más allá de los hoteles. Y cuándo ir a cada destino.
 

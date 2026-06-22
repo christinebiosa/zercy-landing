@@ -47,7 +47,7 @@ Klassische Route, getestet in der Praxis:
 
 **Tag 7: Piran und Rückfahrt.** Piran morgens (Tartini-Plaza, Stadtmauern, Mittagessen), Lunch mit Adria-Fisch, Rückfahrt nach Ljubljana (1.5h) für Rückflug.
 
-**Mietwagen-Empfehlung:** Slowenien ohne Auto = mühsam. Bahn deckt nur Hauptstrecken ab, Bus zu Bled ja, aber nicht in den Triglav-Park. Mietwagen ab 30 EUR/Tag (für 7 Tage = 210 EUR + 50 EUR Vignette + 100 EUR Sprit + 50 EUR Versicherung = ~400 EUR pro Auto).
+**[Mietwagen](https://www.economybookings.com/)-Empfehlung:** Slowenien ohne Auto = mühsam. Bahn deckt nur Hauptstrecken ab, Bus zu Bled ja, aber nicht in den Triglav-Park. Mietwagen ab 30 EUR/Tag (für 7 Tage = 210 EUR + 50 EUR Vignette + 100 EUR Sprit + 50 EUR Versicherung = ~400 EUR pro Auto).
 
 ## Wann ist die beste Reisezeit für Slowenien?
 

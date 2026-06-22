@@ -23,7 +23,7 @@ The roads are slower than you think. 100 kilometers on Google Maps often means 3
 
 ### Stop 1: San José (1 night)
 
-You land at SJO. The capital isn't a destination, but you need a night to arrive. Sleep near the airport, pick up the rental car the next morning.
+You land at SJO. The capital isn't a destination, but you need a night to arrive. Sleep near the airport, pick up the [rental car](https://www.economybookings.com/) the next morning.
 
 Tip: **don't** pick up the car at the airport. Shuttle agencies outside are 20 to 30 percent cheaper. More on that below.
 

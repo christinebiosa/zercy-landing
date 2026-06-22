@@ -76,7 +76,7 @@ Der Peak lässt sich nicht auf den Tag genau vorhersagen. Aber ein paar Grundreg
 
 **4. Früh starten.** Sonnenaufgang im Herbstwald ist die schönste Lichtqualität. Parkplätze und beliebte Aussichtspunkte sind morgens noch leer.
 
-**5. Unterkunft und Mietwagen früh buchen.** Peak-Wochenenden in Vermont oder Québec buchen oft 4-8 Wochen im Voraus aus. Keine Ausnahme.
+**5. Unterkunft und [Mietwagen](https://www.economybookings.com/) früh buchen.** Peak-Wochenenden in Vermont oder Québec buchen oft 4-8 Wochen im Voraus aus. Keine Ausnahme.
 
 Egal ob New England, Kyoto oder die bayerischen Alpen: Herbstlaub gehört zu den schönsten Reiseerlebnissen der Welt. Die Farben dauern nicht ewig. Aber der Moment, wenn das Licht durch ein Dach aus roten und goldenen Blättern fällt, ist es wert.
 

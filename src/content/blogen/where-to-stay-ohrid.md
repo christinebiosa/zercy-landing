@@ -91,7 +91,7 @@ The old town around the Kaneo church and the Kale Fortress is the clear recommen
 June and September are the sweet spot: the water is warm enough to swim, crowds are not at their peak, and prices are well below August levels. For cultural events, July brings the Ohrid Summer Festival with concerts, theatre, and film screenings right on the lakefront.
 
 ### How do you get to Ohrid?
-The closest international airport is Ohrid Airport (OHD), with seasonal direct flights from several European cities. Alternatively, fly into Skopje (3-hour bus) or Tirana (2.5-hour bus). The regional bus network is good and inexpensive. A rental car is worth it for day trips into Galičica National Park and to Lake Prespa.
+The closest international airport is Ohrid Airport (OHD), with seasonal direct flights from several European cities. Alternatively, fly into Skopje (3-hour bus) or Tirana (2.5-hour bus). The regional bus network is good and inexpensive. A [rental car](https://www.economybookings.com/) is worth it for day trips into Galičica National Park and to Lake Prespa.
 
 ### What makes Ohrid special compared to other Balkan destinations?
 Ohrid combines UNESCO old town architecture, a swimming lake with Mediterranean-level clarity, and authentic local culture at prices that make European alternatives seem expensive. There are no cruise ships, no saturated tourist flows, and no international hotel chains. What you get instead is family restaurants, fresh lake fish, and genuine hospitality.

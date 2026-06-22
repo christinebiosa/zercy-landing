@@ -34,7 +34,7 @@ Three categories, three different answers.
 
 **N26:** German neobank. Mastercard with no foreign transaction fee on purchases. ATM withdrawals cost depending on your plan. Practical for anyone already using N26 as their main account.
 
-**Classic travel credit card:** Barclays, Chase Sapphire, or similar with no foreign transaction fees. Key rule: always pay in local currency, never in your home currency (more on that below). A credit card as backup is mandatory because many hotels and car rental companies require one for a security deposit.
+**Classic travel credit card:** Barclays, Chase Sapphire, or similar with no foreign transaction fees. Key rule: always pay in local currency, never in your home currency (more on that below). A credit card as backup is mandatory because many hotels and [car rental](https://www.economybookings.com/) companies require one for a security deposit.
 
 ## What Is Dynamic Currency Conversion and Why Should You Always Decline It?
 

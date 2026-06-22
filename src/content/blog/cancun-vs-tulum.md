@@ -38,7 +38,7 @@ Wer Cenoten will, ist in Tulum besser aufgehoben. Die besten Cenoten der Riviera
 
 Cancun hat einen internationalen Flughafen mit Direktverbindungen aus ganz Europa und Nordamerika. Das ist ein echter Vorteil fur den Reiseanfang. Tulum hat seit 2024 einen eigenen Flughafen (Felipe Carrillo Puerto International), aber Verbindungen sind noch begrenzt. Die meisten Reisenden fliegen nach Cancun und fahren dann mit dem ADO-Bus (etwa 3 Euro, 2,5 Stunden) oder einem Shuttle weiter nach Tulum.
 
-In Cancun kommst du fast ohne Mietwagen aus, die Hotelzone ist kompakt und gut erschlossen. In Tulum brauchst du ein Fahrrad, ein E-Bike oder ein Taxi, um zwischen Pueblo und Beach zu pendeln. Mietwagen lohnt sich, wenn du Chichen Itza, Coba oder Bacalar einplanen willst, was sehr empfehlenswert ist.
+In Cancun kommst du fast ohne [Mietwagen](https://www.economybookings.com/) aus, die Hotelzone ist kompakt und gut erschlossen. In Tulum brauchst du ein Fahrrad, ein E-Bike oder ein Taxi, um zwischen Pueblo und Beach zu pendeln. Mietwagen lohnt sich, wenn du Chichen Itza, Coba oder Bacalar einplanen willst, was sehr empfehlenswert ist.
 
 Fur mehr Tipps zur Unterkunftswahl schau dir unsere Guides zu [wo ubernachten in Cancun](/blog/wo-uebernachten-cancun/) und [wo ubernachten in Tulum](/blog/wo-uebernachten-tulum/) an. Wer die Region insgesamt erkunden will, findet auch in unserem [Mexiko-Rundreise-Route](/blog/mexiko-rundreise-route/) Guide konkrete Streckenvorschlage.
 

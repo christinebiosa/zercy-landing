@@ -126,7 +126,7 @@ Beverly Hills, Santa Monica und West Hollywood am sichersten (gehoben, Polizei-P
 
 ### Wie viel kostet eine Woche LA wirklich?
 
-Backpacker: 1.300-1.800 Euro pro Person inkl. Flug (Hostel in Hollywood, Mietwagen 30 Euro/Tag, lokales Essen). Mittelklasse: 2.500-3.800 Euro (Mittelklasse-Hotel in Santa Monica, Restaurants, Universal Studios). Premium: 5.000-12.000 Euro (Beverly Hills Hotel, Sterne-Restaurants, Privatführungen).
+Backpacker: 1.300-1.800 Euro pro Person inkl. Flug (Hostel in Hollywood, [Mietwagen](https://www.economybookings.com/) 30 Euro/Tag, lokales Essen). Mittelklasse: 2.500-3.800 Euro (Mittelklasse-Hotel in Santa Monica, Restaurants, Universal Studios). Premium: 5.000-12.000 Euro (Beverly Hills Hotel, Sterne-Restaurants, Privatführungen).
 
 ---
 

@@ -14,7 +14,7 @@ Dieser Guide ist für alle, die gerade erst anfangen. Kein Vorwissen nötig. Kei
 
 ## Wie funktionieren Vielfliegerprogramme überhaupt?
 
-Du sammelst Meilen oder Punkte bei Flügen, Hotelaufenthalten, Mietwagen und bei Partnern wie Kreditkartenunternehmen oder Onlineshops. Diese Meilen liegen auf deinem Konto. Wenn du genug gesammelt hast, tauschst du sie gegen Freiflüge, Upgrades oder andere Prämien ein.
+Du sammelst Meilen oder Punkte bei Flügen, Hotelaufenthalten, [Mietwagen](https://www.economybookings.com/) und bei Partnern wie Kreditkartenunternehmen oder Onlineshops. Diese Meilen liegen auf deinem Konto. Wenn du genug gesammelt hast, tauschst du sie gegen Freiflüge, Upgrades oder andere Prämien ein.
 
 Die drei wichtigsten Programme für Reisende aus dem deutschsprachigen Raum sind Miles & More (Lufthansa Group, Swiss, Austrian Airlines), Flying Blue (Air France, KLM und Partner) und British Airways Executive Club mit der Avios-Währung.
 

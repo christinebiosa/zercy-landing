@@ -37,7 +37,7 @@ Der Pazifik Panamas ist weniger bekannt, hat aber gute Surfwellen rund um Santa 
 
 ## Welche Infrastruktur ist besser?
 
-Costa Rica ist für unabhängige Reisende deutlich leichter zu bereisen. Busverbindungen zwischen den Hauptzielen sind gut, Shuttle-Services unkompliziert. [Die Costa Rica Rundreise](/blog/costa-rica-rundreise-route/) von San José über Arenal, Monteverde und Manuel Antonio lässt sich in zwei Wochen ohne eigenes Auto gut durchführen. Die offizielle Tourismusbehörde [Visit Costa Rica](https://www.visitcostarica.com) hat aktuelle Infos zu Nationalparks und Transporten. Mietwagen sind sinnvoll, aber nicht zwingend.
+Costa Rica ist für unabhängige Reisende deutlich leichter zu bereisen. Busverbindungen zwischen den Hauptzielen sind gut, Shuttle-Services unkompliziert. [Die Costa Rica Rundreise](/blog/costa-rica-rundreise-route/) von San José über Arenal, Monteverde und Manuel Antonio lässt sich in zwei Wochen ohne eigenes Auto gut durchführen. Die offizielle Tourismusbehörde [Visit Costa Rica](https://www.visitcostarica.com) hat aktuelle Infos zu Nationalparks und Transporten. [Mietwagen](https://www.economybookings.com/) sind sinnvoll, aber nicht zwingend.
 
 Panama-Stadt hat ein modernes U-Bahn-System und gute internationale Flugverbindungen, da der Flughafen Tocumen ein regionaler Hub ist. Innerhalb des Landes wird die Infrastruktur schnell dünner. Bocas del Toro erreicht man per Inlandsflug (30-60 US-Dollar) oder langer Busfahrt. Den Panamakanal zu sehen, ist einfach und sehr zu empfehlen: das Miraflores-Beobachtungsdeck kostet 22 US-Dollar und ist selbst für jemanden ohne Interesse an Schifffahrt beeindruckend.
 

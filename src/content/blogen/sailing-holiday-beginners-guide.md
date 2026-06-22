@@ -62,7 +62,7 @@ Summary for one week in Croatia, 8 people, skippered charter:
 
 **Total per person (group of 8):** 500-750 EUR for one week, excluding flights. With flights 700-1,150 EUR. Cheaper than many all-inclusive hotel packages, but a completely different experience.
 
-If you need a rental car for the journey to the marina, our [rental car checklist](/en/blog/rental-car-checklist/) has everything you need to know.
+If you need a [rental car](https://www.economybookings.com/) for the journey to the marina, our [rental car checklist](/en/blog/rental-car-checklist/) has everything you need to know.
 
 ## What Gear Do You Actually Need?
 

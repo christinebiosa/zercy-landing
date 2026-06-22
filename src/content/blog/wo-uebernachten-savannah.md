@@ -68,7 +68,7 @@ Alle aktuellen Tourismus-Informationen hat [Visit Savannah](https://www.visitsav
 
 Für Familien mit Kindern ist das Historic District die einfachste Wahl, weil alles zu Fuß erreichbar ist und Kinder die Squares als natürliche Spielbereiche nutzen können. Die Horse-Drawn Carriage Tours gefallen Kindern, die Riverfront-Restaurants haben breite Speisekarten.
 
-Für Familien die ein Budget brauchen: Midtown oder Southside bieten günstige Kettenhotels mit Pool, aber der Mietwagen ist dann Pflicht. Die [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) zu checken macht bei USA-Reisen immer Sinn.
+Für Familien die ein Budget brauchen: Midtown oder Southside bieten günstige Kettenhotels mit Pool, aber der [Mietwagen](https://www.economybookings.com/) ist dann Pflicht. Die [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) zu checken macht bei USA-Reisen immer Sinn.
 
 ## Wo solltest du am Ende buchen?
 

@@ -52,7 +52,7 @@ OTA loyalty programs are a legitimate route around rate parity.
 
 **Booking Genius** has three tiers (Level 1, 2, 3). From Level 1 onwards, participating hotels offer 10-15 percent discounts, free breakfast or a free taxi. Achieved after 2 completed bookings. The catch: not all hotels participate, and Genius prices are often tied to non-refundable rates.
 
-**Expedia One Key** consolidates hotels, car rentals and flights into one points system. The advantage over Genius: flights count. Frequent Expedia users get genuine value here. Hotels.com Rewards is now folded into One Key, which many long-time users consider a downgrade from the old 10-nights-one-free model.
+**Expedia One Key** consolidates hotels, [car rentals](https://www.economybookings.com/) and flights into one points system. The advantage over Genius: flights count. Frequent Expedia users get genuine value here. Hotels.com Rewards is now folded into One Key, which many long-time users consider a downgrade from the old 10-nights-one-free model.
 
 **Quick comparison:**
 

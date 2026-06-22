@@ -75,7 +75,7 @@ A geological natural phenomenon: volcanic soil that appears in seven distinct co
 
 ### How do you get around Mauritius?
 
-A rental car is the most flexible option. Left-hand traffic (British system). Buses are cheap and cover most places but slow and unreliable in timing. Taxis are expensive without negotiation: always agree on the price beforehand. Most beach resorts include a shuttle service for transfers.
+A [rental car](https://www.economybookings.com/) is the most flexible option. Left-hand traffic (British system). Buses are cheap and cover most places but slow and unreliable in timing. Taxis are expensive without negotiation: always agree on the price beforehand. Most beach resorts include a shuttle service for transfers.
 
 ---
 

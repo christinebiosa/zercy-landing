@@ -89,7 +89,7 @@ The old town around the amphitheater and the Roman Forum is the obvious first ch
 June and September are the sweet spot: the sea is warm enough to swim, high season has not yet started or has just finished, prices are well below August levels, and the amphitheater can be visited without queuing. October is ideal for food lovers during truffle season.
 
 ### How do you get from Pula to other Istrian towns?
-Pula has solid bus connections to Rovinj (1 hour), Poreč (1.5 hours), and Rijeka (2 hours). With a rental car, the entire peninsula is explorable in a single day. For day trips to inland villages like Motovun or Grožnjan, having your own vehicle makes things much easier.
+Pula has solid bus connections to Rovinj (1 hour), Poreč (1.5 hours), and Rijeka (2 hours). With a [rental car](https://www.economybookings.com/), the entire peninsula is explorable in a single day. For day trips to inland villages like Motovun or Grožnjan, having your own vehicle makes things much easier.
 
 ### How much does dinner cost in Pula?
 At a good restaurant in the old town, expect to pay €25 to €40 per person for seafood or local meat dishes, excluding wine. Cheaper options with pasta, pizza, or grilled meats start from around €12. Istrian wine and olive oil are excellent and available everywhere.

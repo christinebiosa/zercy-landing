@@ -89,7 +89,7 @@ Das Zentrum auf der Flussinsel ist die erste Wahl. Alles ist zu Fuß erreichbar,
 November bis März bringt die niedrigsten Hotelpreise, teils 30 bis 40 Prozent unter Sommerniveau. Das Wetter ist nass und grau, aber Cork hat genug Innenattraktionen: Pubs, Markthallen, Museen. Oktober lohnt sich besonders wegen des Jazz Festivals bei noch moderaten Preisen.
 
 ### Wie weit ist das Stadtzentrum vom Flughafen Cork entfernt?
-Der Cork Airport liegt 8 Kilometer südlich des Stadtzentrums. Mit dem Bus (Linie 226A) dauert es 20 bis 30 Minuten, mit dem Taxi rund 15 Minuten und 15 bis 20 Euro. Ein Mietwagen lohnt sich nur, wenn du Ausflüge in den Wild Atlantic Way oder nach Kerry planst.
+Der Cork Airport liegt 8 Kilometer südlich des Stadtzentrums. Mit dem Bus (Linie 226A) dauert es 20 bis 30 Minuten, mit dem Taxi rund 15 Minuten und 15 bis 20 Euro. Ein [Mietwagen](https://www.economybookings.com/) lohnt sich nur, wenn du Ausflüge in den Wild Atlantic Way oder nach Kerry planst.
 
 ### Was sollte man in Cork auf keinen Fall verpassen?
 Der English Market ist Pflicht. Dieser überdachte Lebensmittelmarkt existiert seit 1788 und gehört zum kulturellen Kern der Stadt. Frisches Fischgericht, lokale Käse, irisches Fleisch: der Markt ist täglich geöffnet (außer sonntags) und das beste Frühstück der Stadt bekommst du an einem der Stände.

@@ -45,7 +45,7 @@ Die [italienische Tourismusbehörde](https://www.italia.it/de/apulien) hat eine 
 
 Mai, Juni und September sind ideal. Wasser warm genug zum Schwimmen (22-26 Grad), aber keine 40-Grad-Hitze wie im Juli und August. Apulien ist eine der heißesten Regionen Italiens im Hochsommer.
 
-Juli und August sind voll und teuer. Hotels verdreifachen ihre Preise, Strände sind überlaufen, Mietwagen werden knapp. Vermeide diese Monate, wenn du flexibel bist.
+Juli und August sind voll und teuer. Hotels verdreifachen ihre Preise, Strände sind überlaufen, [Mietwagen](https://www.economybookings.com/) werden knapp. Vermeide diese Monate, wenn du flexibel bist.
 
 Oktober und April funktionieren auch, vor allem für Städtetrips. Schwimmen ist nicht mehr immer möglich, aber Burrata schmeckt das ganze Jahr.
 

@@ -19,7 +19,7 @@ San Miguel gliedert sich in vier Zonen:
 - **El Centro / Jardin Principal** für alle, die mitten im Geschehen sein wollen
 - **San Antonio / Colonia San Antonio** für ruhigere Nächte mit kurzem Weg ins Zentrum
 - **Guadiana und Guadalupe** für Paare und Reisende mit Sinn für Boutique-Atmosphäre
-- **Zihuatanejo / Outskirts** für Langzeitreisende, digitale Nomaden und Mietwagen-Fahrer
+- **Zihuatanejo / Outskirts** für Langzeitreisende, digitale Nomaden und [Mietwagen](https://www.economybookings.com/)-Fahrer
 
 ## El Centro und Jardin Principal: Mitten im kolonialen Herz
 

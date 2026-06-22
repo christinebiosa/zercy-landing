@@ -112,7 +112,7 @@ En el centro histórico, el segmento económico va de 60-100 EUR, la categoría 
 
 ### ¿Cuánto tarda el trayecto desde el aeropuerto al centro?
 
-El Aeropuerto de Málaga está a solo 8 kilómetros al suroeste del centro. El tren de Cercanías (línea C1) llega a la estación principal en 12 minutos por menos de 2 EUR. Un taxi cuesta alrededor de 15-20 EUR. No necesitas coche de alquiler para moverse por Málaga, solo si planeas recorrer la Costa del Sol.
+El Aeropuerto de Málaga está a solo 8 kilómetros al suroeste del centro. El tren de Cercanías (línea C1) llega a la estación principal en 12 minutos por menos de 2 EUR. Un taxi cuesta alrededor de 15-20 EUR. No necesitas [coche de alquiler](https://www.economybookings.com/) para moverse por Málaga, solo si planeas recorrer la Costa del Sol.
 
 ### ¿Cuándo son más baratos los hoteles en Málaga?
 

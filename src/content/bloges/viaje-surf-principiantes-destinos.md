@@ -40,7 +40,7 @@ Si también quieres explorar las ciudades de Marruecos, nuestra [guía de alojam
 
 Fuerteventura es conocida entre las escuelas de surf europeas como uno de los mejores lugares de aprendizaje del continente. La isla tiene viento y olas constantes. Para principiantes, las playas del noreste alrededor de Corralejo y la playa de El Cotillo son perfectas: bahías amplias, olas suaves, sin arrecifes.
 
-La mayor ventaja: no hace falta un vuelo de larga distancia. Vuelos directos desde España en menos de 2 horas. Coche de alquiler y apartamento asequible: surf sin presupuesto de viaje mundial.
+La mayor ventaja: no hace falta un vuelo de larga distancia. Vuelos directos desde España en menos de 2 horas. [Coche de alquiler](https://www.economybookings.com/) y apartamento asequible: surf sin presupuesto de viaje mundial.
 
 **Costes del curso de surf en Fuerteventura:** Curso de un día 60-90 EUR. Curso de una semana (5 días) 250-400 EUR sin alojamiento. Surf camp todo incluido 500-900 EUR por semana.
 

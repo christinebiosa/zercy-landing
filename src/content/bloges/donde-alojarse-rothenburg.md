@@ -63,7 +63,7 @@ Rango de precios: 55-85 euros.
 
 **Gasthof Butz:** Sencillo, familiar, precio muy asequible, buen desayuno, aparcamiento gratuito. Unos 55-70 euros.
 
-**Hotel Merian:** Edificio moderno fuera de la muralla, habitaciones luminosas, aparcamiento incluido, ideal para parejas que viajan en coche de alquiler. Unos 75-90 euros.
+**Hotel Merian:** Edificio moderno fuera de la muralla, habitaciones luminosas, aparcamiento incluido, ideal para parejas que viajan en [coche de alquiler](https://www.economybookings.com/). Unos 75-90 euros.
 
 **Pension Elke:** Pensión privada con tres habitaciones, atmósfera personal, para viajeros a quienes no les importan las comodidades de hotel. Unos 60-70 euros.
 

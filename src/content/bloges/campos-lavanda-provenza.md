@@ -40,7 +40,7 @@ El punto de entrada mas facil es Marsella o Aix-en-Provence:
 
 **En avion:** El aeropuerto de Marsella-Provenza (MRS) es el mas cercano. Desde ahi, Valensole esta a unos 90 minutos en coche y Sault a 2 horas. Vuelos directos desde la mayoria de ciudades europeas.
 
-**En tren:** TGV a Marsella o Avignon, luego coche de alquiler. Sin vehiculo propio, la region de la lavanda es dificil de explorar. El transporte publico es escaso e irregular en los pueblos pequenos. Una excepcion: desde Apt hay conexiones de autobus estacionales hacia Sault.
+**En tren:** TGV a Marsella o Avignon, luego [coche de alquiler](https://www.economybookings.com/). Sin vehiculo propio, la region de la lavanda es dificil de explorar. El transporte publico es escaso e irregular en los pueblos pequenos. Una excepcion: desde Apt hay conexiones de autobus estacionales hacia Sault.
 
 **En coche de alquiler:** La opcion recomendada. Todas las grandes empresas estan en el aeropuerto de Marsella. Consejos para reservar y evitar costes extra en la [guia de costes ocultos del alquiler](/es/blog/costes-ocultos-alquiler-coche/). Una buena ruta desde Marsella: primero Abbaye de Senanque, luego Sault, luego Valensole. Va de pintoresco a grandioso.
 

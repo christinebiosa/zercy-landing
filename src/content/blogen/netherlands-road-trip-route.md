@@ -29,7 +29,7 @@ By bicycle for short distances within cities and between nearby places. The nati
 
 For longer distances: NS (Nederlandse Spoorwegen) has one of the densest rail networks in the world. Amsterdam to Rotterdam: 40 minutes. Rotterdam to The Hague: 25 minutes. All intercity connections run multiple times per hour.
 
-A rental car makes sense for day trips outside the cities (Keukenhof region, Wadden Islands) but is counterproductive in the cities themselves.
+A [rental car](https://www.economybookings.com/) makes sense for day trips outside the cities (Keukenhof region, Wadden Islands) but is counterproductive in the cities themselves.
 
 ## When is the best time to visit the Netherlands?
 

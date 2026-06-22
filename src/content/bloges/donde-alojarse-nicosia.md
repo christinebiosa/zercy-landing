@@ -69,7 +69,7 @@ Si usas Nicosia como base para excursiones de un día, la guía de [dónde aloja
 
 ## Strovolos: familiar y económico
 
-Strovolos no es un barrio turístico. Es el Nicosia suburbano cotidiano: centros comerciales, supermercados, colegios. Para familias con coche de alquiler y estancias largas tiene sentido. Los precios hoteleros son más bajos, las opciones de cadenas mejores y el aparcamiento fácil.
+Strovolos no es un barrio turístico. Es el Nicosia suburbano cotidiano: centros comerciales, supermercados, colegios. Para familias con [coche de alquiler](https://www.economybookings.com/) y estancias largas tiene sentido. Los precios hoteleros son más bajos, las opciones de cadenas mejores y el aparcamiento fácil.
 
 - **AlexanderThe Great Hotel:** Hotel de precio medio confortable, orientado a familias, con aparcamiento. Práctico para viajeros con coche.
 - **Hoteles económicos y apartamentos en Strovolos:** Varias opciones bien valoradas desde 55 EUR en Booking.com.

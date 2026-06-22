@@ -75,7 +75,7 @@ Ein geologisches Naturphänomen: Vulkanerde, die durch unterschiedliche Kühlung
 
 ### Wie kommt man innerhalb von Mauritius am besten voran?
 
-Mietwagen ist die flexibelste Option. Linksverkehr (britisches System). Busse sind günstig und decken die meisten Orte ab, aber langsam und unzuverlässig im Zeitplan. Taxis sind teuer ohne Verhandeln: Preis immer vorher festlegen. Für Resorts mit Pool-Transfer ist oft ein Shuttle inklusive.
+[Mietwagen](https://www.economybookings.com/) ist die flexibelste Option. Linksverkehr (britisches System). Busse sind günstig und decken die meisten Orte ab, aber langsam und unzuverlässig im Zeitplan. Taxis sind teuer ohne Verhandeln: Preis immer vorher festlegen. Für Resorts mit Pool-Transfer ist oft ein Shuttle inklusive.
 
 ---
 

@@ -77,7 +77,7 @@ En temporada alta (julio-agosto en Europa, diciembre-enero en el hemisferio sur)
 
 #### ¿Cuáles son los errores más comunes en un primer road trip?
 
-Subestimar los tiempos de conducción (Google Maps no cuenta paradas ni cansancio). Planificar demasiados destinos en poco tiempo. No revisar las políticas de seguro del alquiler de coche antes de pagar. Olvidar que algunos países europeos tienen peaje obligatorio con vignette (Austria, Suiza, República Checa). No tener datos móviles en todos los países del recorrido.
+Subestimar los tiempos de conducción (Google Maps no cuenta paradas ni cansancio). Planificar demasiados destinos en poco tiempo. No revisar las políticas de seguro del [alquiler de coche](https://www.economybookings.com/) antes de pagar. Olvidar que algunos países europeos tienen peaje obligatorio con vignette (Austria, Suiza, República Checa). No tener datos móviles en todos los países del recorrido.
 
 ---
 

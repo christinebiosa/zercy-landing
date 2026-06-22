@@ -26,7 +26,7 @@ Banff ist überschaubar. Trotzdem gibt es klare Unterschiede zwischen den Lagen:
 
 Die Townsite ist der logische Ausgangspunkt für die meisten Besucher. Du gehst abends essen, holst Lebensmittel und kommst von hier direkt zu den wichtigsten Trails. Das Stadtzentrum liegt in Gehweite zum Bow River und zum Banff Gondola-Parkplatz.
 
-Wer hier richtig liegt: Leute die viel zu Fuß erkunden wollen, keine Mietwagen-Nerven haben, abends ausgehen möchten.
+Wer hier richtig liegt: Leute die viel zu Fuß erkunden wollen, keine [Mietwagen](https://www.economybookings.com/)-Nerven haben, abends ausgehen möchten.
 
 Preise: 130-300 CAD für solide Mittelklasse, ab 350 CAD für Boutique-Hotels.
 

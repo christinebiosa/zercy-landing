@@ -29,7 +29,7 @@ Zakopane in den Tatra: Bergdorf unterhalb der polnisch-slowakischen Grenze, Wand
 
 PKP Intercity verbindet die großen Städte schnell und günstig. Krakau nach Warschau: 2,5 Stunden, ab 15 Euro. Warschau nach Danzig: 3 Stunden, ab 20 Euro. Tickets auf [pkp.pl](https://www.pkp.pl) buchen, auch auf Englisch. Frühzeitig kaufen spart viel Geld.
 
-Mietwagen für Tagesausflüge wie Auschwitz oder Zakopane sinnvoll, aber zwischen den großen Städten ist der Zug die bessere Wahl. Polnische Autobahnen sind gut, Parkplätze in den Innenstädten begrenzt.
+[Mietwagen](https://www.economybookings.com/) für Tagesausflüge wie Auschwitz oder Zakopane sinnvoll, aber zwischen den großen Städten ist der Zug die bessere Wahl. Polnische Autobahnen sind gut, Parkplätze in den Innenstädten begrenzt.
 
 ## Was kostet eine Woche Polen?
 

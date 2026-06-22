@@ -16,7 +16,7 @@ Costa Rica tiene un problema de abundancia. En un país del tamaño de Galicia c
 El itinerario circular más eficiente sale y vuelve a San José, con las regiones principales de norte a sur:
 
 **Días 1-2: San José + Arenal**
-Llegada a San José (SJO). Si llegas de noche, noche en San José. Al día siguiente, bus o coche de alquiler hacia La Fortuna (3h): el volcán Arenal, las aguas termales y el lago son el primer gran escenario costarricense.
+Llegada a San José (SJO). Si llegas de noche, noche en San José. Al día siguiente, bus o [coche de alquiler](https://www.economybookings.com/) hacia La Fortuna (3h): el volcán Arenal, las aguas termales y el lago son el primer gran escenario costarricense.
 
 **Días 3-4: Arenal + Monteverde**
 La caminata por el Parque Nacional Volcán Arenal (8 km, lava solidificada, vistas al cono). Traslado a Monteverde (2-3h, carretera de tierra en el tramo final): el Bosque Nuboso, el puente colgante y el avistamiento de quetzales si la temporada lo permite.

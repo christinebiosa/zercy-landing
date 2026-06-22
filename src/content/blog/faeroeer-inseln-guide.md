@@ -55,7 +55,7 @@ Färöer sind nicht billig, aber günstiger als Island.
 
 **Flug.** Atlantic Airways fliegt von Kopenhagen, Hamburg, Edinburgh und Reykjavík direkt. Hin und zurück: 250-450 Euro je nach Saison.
 
-**Mietwagen.** Pflicht für Mobilität. Etwa 60-80 Euro pro Tag. In der Hochsaison Monate vorher buchen. Lies dazu unsere [Mietwagen-Checkliste](/blog/mietwagen-check/). Auf den Färöern brauchst du Vollkasko ohne Selbstbeteiligung.
+**[Mietwagen](https://www.economybookings.com/).** Pflicht für Mobilität. Etwa 60-80 Euro pro Tag. In der Hochsaison Monate vorher buchen. Lies dazu unsere [Mietwagen-Checkliste](/blog/mietwagen-check/). Auf den Färöern brauchst du Vollkasko ohne Selbstbeteiligung.
 
 **Übernachtung.** Hotels in Tórshavn: 100-200 Euro pro Nacht. Guesthouses 60-100 Euro. Airbnb verfügbar, aber wenig Auswahl.
 

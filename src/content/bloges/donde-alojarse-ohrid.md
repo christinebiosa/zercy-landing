@@ -91,7 +91,7 @@ El casco antiguo alrededor de la iglesia de Kaneo y la Fortaleza Kale es la reco
 Junio y septiembre son el punto dulce: el agua está suficientemente cálida para bañarse, las aglomeraciones no están en su punto máximo y los precios están muy por debajo de los niveles de agosto. Para eventos culturales, julio trae el Festival de Verano de Ohrid con conciertos, teatro y proyecciones de cine directamente a la orilla del lago.
 
 ### ¿Cómo se llega a Ohrid?
-El aeropuerto internacional más cercano es el Aeropuerto de Ohrid (OHD), con vuelos directos estacionales desde varias ciudades europeas. Alternativamente, se puede volar a Skopie (3 horas en autobús) o Tirana (2,5 horas en autobús). La red de autobuses regional es buena y económica. Un coche de alquiler vale la pena para excursiones al Parque Nacional de Galičica y al lago Prespa.
+El aeropuerto internacional más cercano es el Aeropuerto de Ohrid (OHD), con vuelos directos estacionales desde varias ciudades europeas. Alternativamente, se puede volar a Skopie (3 horas en autobús) o Tirana (2,5 horas en autobús). La red de autobuses regional es buena y económica. Un [coche de alquiler](https://www.economybookings.com/) vale la pena para excursiones al Parque Nacional de Galičica y al lago Prespa.
 
 ### ¿Qué hace a Ohrid especial comparado con otros destinos balcánicos?
 Ohrid combina arquitectura de casco antiguo declarada Patrimonio de la Humanidad, un lago para bañarse con una claridad mediterránea y cultura local auténtica, todo a precios que hacen que las alternativas europeas parezcan caras. No hay cruceros, no hay masificación turística saturada y no hay cadenas de hoteles internacionales. Lo que obtienes es restaurantes familiares, pescado fresco del lago y hospitalidad genuina.

@@ -64,7 +64,7 @@ Wenn du auf Reisen auch [sicher im öffentlichen WLAN bleiben](/blog/cyber-siche
 
 **Argentinien:** Der Schwarzmarkt-Wechselkurs ("Blue Dollar") ist historisch deutlich besser als der offizielle Kurs. Das ist eine eigene Risikoabwägung. Legal sind nur der offizielle Kurs am Automaten und lizenzierte Wechselstuben.
 
-**USA:** Kreditkarte ist König. Manche Dienstleister verlangen Kreditkarte als Sicherheitsdepot (Hotels, Mietwagen). Debitkarte allein reicht oft nicht.
+**USA:** Kreditkarte ist König. Manche Dienstleister verlangen Kreditkarte als Sicherheitsdepot (Hotels, [Mietwagen](https://www.economybookings.com/)). Debitkarte allein reicht oft nicht.
 
 **Indien:** Bargeld wichtig für Märkte, Rikschas, kleine Restaurants. Geldautomaten funktionieren, aber Limits können niedrig sein (oft 10.000-15.000 INR pro Abhebung).
 

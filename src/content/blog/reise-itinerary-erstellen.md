@@ -55,7 +55,7 @@ Hier ein konkretes Schema, das sich bewahrt hat. Anpassbar fuer 3 bis 14 Tage:
 **Kopfzeile pro Tag:**
 - Datum und Stadt/Standort
 - Unterkunft (Name + Adresse)
-- Verkehrsmittel des Tages (Zug, Bus, Mietwagen)
+- Verkehrsmittel des Tages (Zug, Bus, [Mietwagen](https://www.economybookings.com/))
 
 **Tagesstruktur:**
 - Morgen (9-13 Uhr): eine Hauptaktivitaet mit Buchungsverweis

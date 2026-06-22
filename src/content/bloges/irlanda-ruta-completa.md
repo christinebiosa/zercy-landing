@@ -11,7 +11,7 @@ bookingDest: "Ireland"
 
 Irlanda no es un destino que visitas y olvidas. Tiene algo difícil de describir: ese verde que se intensifica después de cada lluvia, las costas que te hacen sentir al borde del mundo, los pubs donde extraños se convierten en conversaciones fáciles en cuestión de minutos. Una semana te da una primera impresión. Dos semanas, y empiezas a entender por qué tanta gente regresa.
 
-Esta guía cubre la mejor ruta desde Dublín hasta los acantilados, por Connemara y el Ring of Kerry. Además de lo que realmente necesitas saber: conducir por la izquierda, entrada para ciudadanos europeos y por qué un coche de alquiler es imprescindible.
+Esta guía cubre la mejor ruta desde Dublín hasta los acantilados, por Connemara y el Ring of Kerry. Además de lo que realmente necesitas saber: conducir por la izquierda, entrada para ciudadanos europeos y por qué un [coche de alquiler](https://www.economybookings.com/) es imprescindible.
 
 ## ¿Qué lugares no puedes perderte en una ruta por Irlanda?
 

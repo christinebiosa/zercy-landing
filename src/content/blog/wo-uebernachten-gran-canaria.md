@@ -93,7 +93,7 @@ Ganzjährig gut, das ist der USP. Sommer (22-26 Grad) ist kühler als Festland-S
 
 ### Wie fährt man zwischen Las Palmas und Maspalomas?
 
-Mit dem Linienbus (Global Bus 30/30S): ca. 1 Stunde, unter 5 Euro. Mit dem Auto auf der GC-1: 45-55 Minuten, abhängig vom Verkehr. Mietwagen sind auf Gran Canaria sehr empfehlenswert für Ausflüge ins Inselinnere.
+Mit dem Linienbus (Global Bus 30/30S): ca. 1 Stunde, unter 5 Euro. Mit dem Auto auf der GC-1: 45-55 Minuten, abhängig vom Verkehr. [Mietwagen](https://www.economybookings.com/) sind auf Gran Canaria sehr empfehlenswert für Ausflüge ins Inselinnere.
 
 ### Was kostet ein Mietwagen auf Gran Canaria?
 

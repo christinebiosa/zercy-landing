@@ -35,7 +35,7 @@ Honeymoon-Qualität im Mittelmeer ist günstiger als viele denken. Richtwert: ab
 
 Malediven sind teurer. Dort startet das All-Inclusive-Resort für zwei oft bei 4.000 bis 6.000 Euro. Japan liegt dazwischen: Langstreckenflug (ca. 800 Euro p.P.), aber günstigere Unterkünfte und Essen vor Ort. Für ein Japan-Erlebnis-Pärchen-Trip rechnet ihr mit ca. 3.000 bis 3.500 Euro pro Person für 14 Tage.
 
-Eine Faustregel: Pärchen-Reisen kosten selten doppelt so viel wie Solo. Hotels werden geteilt. Mietwagen auch. Und viele Restaurants haben Menüs für zwei. Wer den [Honeymoon Planungs-Guide](/blog/honeymoon-planung-guide/) durchgeht, findet konkrete Budgetvorlagen für die beliebtesten Ziele.
+Eine Faustregel: Pärchen-Reisen kosten selten doppelt so viel wie Solo. Hotels werden geteilt. [Mietwagen](https://www.economybookings.com/) auch. Und viele Restaurants haben Menüs für zwei. Wer den [Honeymoon Planungs-Guide](/blog/honeymoon-planung-guide/) durchgeht, findet konkrete Budgetvorlagen für die beliebtesten Ziele.
 
 Die Budgetaufteilung selbst ist ein eigenes Thema. Gemeinsames Reisekonto für Kosten, die beide betreffen. Private Ausgaben jeder selbst. Diese Trennung verhindert viele kleine Diskussionen.
 

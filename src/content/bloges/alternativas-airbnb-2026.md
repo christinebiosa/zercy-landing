@@ -42,7 +42,7 @@ Otra ventaja: en VRBO reservas directamente con el propietario. El contacto suel
 
 Las comisiones de VRBO son similares a las de Airbnb, a veces algo menores. Pero el inventario en Europa es más reducido. Para un apartamento en Lisboa o Barcelona, Booking.com es la alternativa más fuerte.
 
-Si necesitas un coche de alquiler, consulta también nuestra guía de [reserva online o directa](/es/blog/reservar-online-o-directo/) para conseguir el mejor precio.
+Si necesitas un [coche de alquiler](https://www.economybookings.com/), consulta también nuestra guía de [reserva online o directa](/es/blog/reservar-online-o-directo/) para conseguir el mejor precio.
 
 ## ¿Cómo funciona Booking.com como alternativa a Airbnb?
 

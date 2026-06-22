@@ -73,7 +73,7 @@ Si combinas Vilna con Riga, la [guía de barrios de Riga](/es/blog/donde-alojars
 
 Žvėrynas está al oeste del casco antiguo, al otro lado del río Neris. Mansiones, avenidas arboladas, parques junto al río. El barrio residencial elegante por excelencia, donde viven diplomáticos y personal de embajadas. Casi sin turismo, sin tiendas de souvenirs, sin ruido nocturno. A cambio: tranquilidad, buenas cafeterías de desayuno y autobuses frecuentes al casco antiguo (10-15 minutos).
 
-**Para quién es la mejor opción:** Familias, viajeros con coche de alquiler, estancias de cuatro noches o más.
+**Para quién es la mejor opción:** Familias, viajeros con [coche de alquiler](https://www.economybookings.com/), estancias de cuatro noches o más.
 
 **Rango de precios:** Económico 55-85 euros, gama media 90-160 euros.
 

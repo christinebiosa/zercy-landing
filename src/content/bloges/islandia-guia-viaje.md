@@ -47,7 +47,7 @@ Islandia es cara. Es uno de los 10 países más caros del mundo para viajeros:
 - Hotel estándar: 150-250 EUR/noche
 - Cena en restaurante (plato principal): 25-45 EUR
 - Kebab/comida rápida: 15-20 EUR
-- Alquiler de coche (compacto): 60-100 EUR/día (sin seguros extra)
+- [Alquiler de coche](https://www.economybookings.com/) (compacto): 60-100 EUR/día (sin seguros extra)
 - Gasolina: 2,1-2,4 EUR/litro
 - Tour de auroras o excursión volcánica: 80-150 EUR por persona
 

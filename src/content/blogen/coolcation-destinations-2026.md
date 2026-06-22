@@ -27,7 +27,7 @@ The classic trio. Oslo, Stockholm, and Helsinki see summer temperatures of 18-24
 
 **Iceland**
 
-Average summer temperatures in Reykjavik: 11-14 degrees. Too cold for some, perfect for others. The upside: 24 hours of daylight in June and July, no midges, unforgettable landscapes. Glacier hikes, outdoor thermal pools (Blue Lagoon, Sky Lagoon), waterfall routes, whale watching. Iceland isn't cheap in summer, but with a good rental car and camping it becomes manageable. Our [Iceland travel guide](/en/blog/iceland-travel-guide/) shows how to make the most of two weeks.
+Average summer temperatures in Reykjavik: 11-14 degrees. Too cold for some, perfect for others. The upside: 24 hours of daylight in June and July, no midges, unforgettable landscapes. Glacier hikes, outdoor thermal pools (Blue Lagoon, Sky Lagoon), waterfall routes, whale watching. Iceland isn't cheap in summer, but with a good [rental car](https://www.economybookings.com/) and camping it becomes manageable. Our [Iceland travel guide](/en/blog/iceland-travel-guide/) shows how to make the most of two weeks.
 
 **The Alps: Austria, Switzerland, South Tyrol**
 

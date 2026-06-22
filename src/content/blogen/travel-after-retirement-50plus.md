@@ -44,7 +44,7 @@ That doesn't mean five-star hotels everywhere. But a quiet room, an elevator in 
 
 On long-haul flights, business class is at least worth considering. If you have back problems or sleep poorly sitting upright, landing after ten hours in economy can wreck the first few days of your trip. Sometimes the upgrade costs less than the physio visit afterward.
 
-Rental car over public transport is another topic worth thinking through. Not everywhere, but in certain regions — the Canary Islands, southern Portugal, rural Spain — a car is the more comfortable and often cheaper solution than buses or taxis.
+[Rental car](https://www.economybookings.com/) over public transport is another topic worth thinking through. Not everywhere, but in certain regions — the Canary Islands, southern Portugal, rural Spain — a car is the more comfortable and often cheaper solution than buses or taxis.
 
 For accessible travel — whether due to mobility limitations or simply wanting a more relaxed trip: [Accessible Travel: The Complete Guide](/en/blog/accessible-travel-guide/)
 

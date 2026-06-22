@@ -58,7 +58,7 @@ El invierno (octubre a marzo) es época de auroras boreales. Noruega y Suecia of
 
 **Conexiones en tren:** Los trenes en Escandinavia son excelentes y pintorescos. La línea Oslo–Bergen (Bergensbanen) es considerada una de las rutas ferroviarias más bellas del mundo. Reserva con anticipación y ahorra hasta un 70%.
 
-**¿Coche de alquiler o transporte público?** Innecesario en ciudades, ideal en la región de los fiordos. Las carreteras costeras (Ruta Atlántica, Geiranger-Trollstigen) son una experiencia en sí mismas. Puedes comparar opciones en [Expedia](https://www.expedia.com).
+**¿[Coche de alquiler](https://www.economybookings.com/) o transporte público?** Innecesario en ciudades, ideal en la región de los fiordos. Las carreteras costeras (Ruta Atlántica, Geiranger-Trollstigen) son una experiencia en sí mismas. Puedes comparar opciones en [Expedia](https://www.expedia.com).
 
 **Tarjetas de ciudad:** Oslo CityCard, Stockholm City Card — rentables si vas a visitar muchos museos. Más información en nuestra guía sobre [tarjetas turísticas y pases de museos](/es/blog/tarjetas-ciudad-museos-vale-la-pena/).
 

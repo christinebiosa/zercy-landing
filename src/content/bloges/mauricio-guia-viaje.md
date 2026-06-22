@@ -75,7 +75,7 @@ Un fenómeno natural geológico: tierra volcánica que aparece en siete colores 
 
 ### ¿Cómo moverse por Mauricio?
 
-Un coche de alquiler es la opción más flexible. Circulación por la izquierda (sistema británico). Los autobuses son baratos y cubren la mayoría de los lugares pero son lentos y poco puntuales. Los taxis son caros sin negociación: acuerda siempre el precio antes. La mayoría de los resorts de playa incluyen servicio de transfer.
+Un [coche de alquiler](https://www.economybookings.com/) es la opción más flexible. Circulación por la izquierda (sistema británico). Los autobuses son baratos y cubren la mayoría de los lugares pero son lentos y poco puntuales. Los taxis son caros sin negociación: acuerda siempre el precio antes. La mayoría de los resorts de playa incluyen servicio de transfer.
 
 ---
 

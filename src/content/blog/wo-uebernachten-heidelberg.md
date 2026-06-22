@@ -10,7 +10,7 @@ bookingDest: "Heidelberg"
 ---
 Heidelberg ist eine der meistbesuchten Städte Deutschlands. Das Schloss thront über der Altstadt, der Neckar spiegelt die Fachwerkhäuser, und die Alte Brücke gehört zu den fotografiertesten Motiven des Landes. Dazu kommt eine lebhafte Universitätsstadt mit mehr als 30.000 Studierenden. Das Ergebnis: eine Stadt, die historischen Charme und modernes Stadtleben verbindet.
 
-Die Wahl des Stadtteils bestimmt, was du tagsüber zu Fuß erledigst und was du morgens beim Frühstück siehst. Altstadt-Hotels liegen mitten im Trubel, Neustadt-Hotels etwas ruhiger, und außerhalb der Kernzone gibt es noch günstigere Optionen für Reisende mit Mietwagen oder Interrail-Pass. Hier ist der Überblick.
+Die Wahl des Stadtteils bestimmt, was du tagsüber zu Fuß erledigst und was du morgens beim Frühstück siehst. Altstadt-Hotels liegen mitten im Trubel, Neustadt-Hotels etwas ruhiger, und außerhalb der Kernzone gibt es noch günstigere Optionen für Reisende mit [Mietwagen](https://www.economybookings.com/) oder Interrail-Pass. Hier ist der Überblick.
 
 ## Welcher Stadtteil passt zu welcher Reise?
 

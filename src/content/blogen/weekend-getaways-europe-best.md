@@ -68,7 +68,7 @@ Check out [visiteurope.com](https://www.visiteurope.com) for event calendars bef
 
 Zercy builds live flight prices into every travel plan. Enter your destination and get instant comparison links. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
-For weekend trips where you want to add a rental car: the [rental car checklist](/en/blog/rental-car-checklist/) shows when a car makes sense and which providers are reliable. More detailed destination guides are on the Zercy blog.
+For weekend trips where you want to add a [rental car](https://www.economybookings.com/): the [rental car checklist](/en/blog/rental-car-checklist/) shows when a car makes sense and which providers are reliable. More detailed destination guides are on the Zercy blog.
 
 **Read more:**
 - [48 Hours in Prague: The Honest Itinerary](/en/blog/48-hours-prague/)

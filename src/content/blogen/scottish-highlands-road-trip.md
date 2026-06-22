@@ -66,7 +66,7 @@ The NC500 is roughly 500 miles of road, but the driving time is not the main con
 
 ### What does a Scottish Highlands road trip cost?
 
-A rough breakdown: rental car from 40 to 60 euros per day, B&B accommodation from 60 to 120 pounds per night, pub meals from 15 to 25 pounds per main course. Campervans reduce accommodation costs substantially. Two people doing a seven-day Highlands trip can budget from around 1,200 euros depending on choices. Edinburgh is a common and worthwhile starting or ending point. See our [where to stay in Edinburgh](/en/blog/where-to-stay-edinburgh/) guide for neighbourhood and hotel recommendations.
+A rough breakdown: [rental car](https://www.economybookings.com/) from 40 to 60 euros per day, B&B accommodation from 60 to 120 pounds per night, pub meals from 15 to 25 pounds per main course. Campervans reduce accommodation costs substantially. Two people doing a seven-day Highlands trip can budget from around 1,200 euros depending on choices. Edinburgh is a common and worthwhile starting or ending point. See our [where to stay in Edinburgh](/en/blog/where-to-stay-edinburgh/) guide for neighbourhood and hotel recommendations.
 
 ### Where is the best place to stay during a Highlands road trip?
 

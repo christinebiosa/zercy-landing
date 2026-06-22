@@ -55,7 +55,7 @@ Wer nach Bled kommt, verbindet es oft mit [Slowenien als komplettem Reiseziel](/
 
 ## Außerhalb von Bled: Günstig und entspannt
 
-Ribno, Lesce, Bohinjska Bela: Dörfer 3-5 km von Bled, oft doppelt so günstige Unterkünfte. Mietwagen oder Fahrrad vorausgesetzt. Für alle die nicht am Touristenstrom teilhaben wollen, aber trotzdem in Minuten am See sind.
+Ribno, Lesce, Bohinjska Bela: Dörfer 3-5 km von Bled, oft doppelt so günstige Unterkünfte. [Mietwagen](https://www.economybookings.com/) oder Fahrrad vorausgesetzt. Für alle die nicht am Touristenstrom teilhaben wollen, aber trotzdem in Minuten am See sind.
 
 **Wer hier richtig liegt:** Familien, Fahrradtouristen, Budgetreisende, digitale Nomaden mit eigenem Auto.
 

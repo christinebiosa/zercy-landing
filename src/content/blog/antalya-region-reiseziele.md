@@ -8,7 +8,7 @@ readingTime: 7
 heroImage: "/img/blog/antalya-region.jpg"
 bookingDest: "Antalya"
 ---
-Antalya ist für viele Reisende der Einstiegspunkt in die Türkische Riviera. Sie landen am Flughafen, fahren direkt in ein Ressort und verlassen die Pool-Anlage kaum noch. Das ist eine Entscheidung, aber es ist schade. Wer von Antalya aus einen Mietwagen nimmt, hat innerhalb von zwei Stunden Fahrt Ruinenstädte, kleine Fischerbögen, Schluchtenwanderungen und eines der schönsten Küstenstraßenabschnitte Europas.
+Antalya ist für viele Reisende der Einstiegspunkt in die Türkische Riviera. Sie landen am Flughafen, fahren direkt in ein Ressort und verlassen die Pool-Anlage kaum noch. Das ist eine Entscheidung, aber es ist schade. Wer von Antalya aus einen [Mietwagen](https://www.economybookings.com/) nimmt, hat innerhalb von zwei Stunden Fahrt Ruinenstädte, kleine Fischerbögen, Schluchtenwanderungen und eines der schönsten Küstenstraßenabschnitte Europas.
 
 Dieser Guide zeigt, was die Antalya-Region jenseits der Hotels zu bieten hat. Und wann du welches Ziel am besten ansteuerst.
 

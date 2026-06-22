@@ -40,7 +40,7 @@ Der einfachste Zugangspunkt ist Marseille oder Aix-en-Provence:
 
 **Mit dem Flugzeug:** Marseille-Provence (MRS) ist der nachste Flughafen. Von dort sind es ca. 90 Minuten mit dem Auto nach Valensole und 2 Stunden nach Sault. Direktverbindungen ab den meisten europaischen Stadten.
 
-**Mit dem Zug:** TGV nach Marseille oder Avignon, dann Mietwagen. Ohne eigenes Auto ist die Lavendelregion nur schwer erschliessbar. Offentliche Verkehrsmittel sind selten und unzuverlassig in den kleinen Dorfern. Eine Ausnahme: von Apt gibt es saisonale Busverbindungen Richtung Sault.
+**Mit dem Zug:** TGV nach Marseille oder Avignon, dann [Mietwagen](https://www.economybookings.com/). Ohne eigenes Auto ist die Lavendelregion nur schwer erschliessbar. Offentliche Verkehrsmittel sind selten und unzuverlassig in den kleinen Dorfern. Eine Ausnahme: von Apt gibt es saisonale Busverbindungen Richtung Sault.
 
 **Mit dem Mietwagen:** Die empfohlene Option. Von Marseille aus gibt es alle grossen Verleiher. Tipps zur Buchung und versteckten Kosten findest du im [Mietwagen-Ratgeber](/blog/mietwagen-versteckte-kosten-vermeiden/). Eine alternative Reiseroute ab Marseille: erst Abbaye de Senanque, dann Sault, dann Valensole. Das gibt dir eine Steigerung von pittoresk nach grandios.
 

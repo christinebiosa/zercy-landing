@@ -63,7 +63,7 @@ Para horarios de ferris y datos actualizados, [Visit Norway](https://www.visitno
 
 ## Lofoten en resumen
 
-Verano para sol de medianoche y senderismo, invierno para auroras boreales y soledad. Reserva las cabañas rorbu lo antes posible. Un coche de alquiler no es opcional si quieres ver más de un pueblo. Reine, Hamnøy y Henningsvær son las paradas imprescindibles. Reinebringen y la playa Kvalvika son las dos mejores excursiones de un día. Una semana alcanza para ver lo esencial y también para descansar.
+Verano para sol de medianoche y senderismo, invierno para auroras boreales y soledad. Reserva las cabañas rorbu lo antes posible. Un [coche de alquiler](https://www.economybookings.com/) no es opcional si quieres ver más de un pueblo. Reine, Hamnøy y Henningsvær son las paradas imprescindibles. Reinebringen y la playa Kvalvika son las dos mejores excursiones de un día. Una semana alcanza para ver lo esencial y también para descansar.
 
 ---
 

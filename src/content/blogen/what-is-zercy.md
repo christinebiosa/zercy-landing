@@ -8,7 +8,7 @@ readingTime: 8
 heroImage: "/img/blog/travel-planning.jpg"
 ---
 
-Travel planning has never been more accessible, yet somehow more exhausting. Skyscanner in one tab, Booking.com in another, rental cars in a third, Google Maps in a fourth. Every platform shows a fragment. None of them thinks the whole picture.
+Travel planning has never been more accessible, yet somehow more exhausting. Skyscanner in one tab, Booking.com in another, [rental cars](https://www.economybookings.com/) in a third, Google Maps in a fourth. Every platform shows a fragment. None of them thinks the whole picture.
 
 Zercy does.
 

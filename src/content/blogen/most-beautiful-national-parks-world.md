@@ -84,7 +84,7 @@ Torres del Paine in Patagonia (Chile) and Fiordland in New Zealand require the l
 There's no universal answer: Torres del Paine runs November to March (southern summer), Banff is July to September, Plitvice is best in May and September, Serengeti peaks for the migration in July and August, and Yosemite shines in April to May and October. High season is the most popular everywhere, but also the most expensive and most crowded.
 
 ### How much does a national park trip cost?
-Entry fees are usually the smallest part (USD/EUR 10-40 per person). The major costs are travel and accommodation. Budget USD 1,500-3,000 for two weeks in Patagonia including flights. Banff is expensive due to Canada flights but very affordable once you're there. Yosemite as a US trip adds up with flights and a rental car.
+Entry fees are usually the smallest part (USD/EUR 10-40 per person). The major costs are travel and accommodation. Budget USD 1,500-3,000 for two weeks in Patagonia including flights. Banff is expensive due to Canada flights but very affordable once you're there. Yosemite as a US trip adds up with flights and a [rental car](https://www.economybookings.com/).
 
 ### Why should you visit national parks outside peak season?
 Fewer crowds create a completely different experience. Plitvice in September has half the visitors of August but the same beauty. Yosemite in October has no reservation requirement. Banff in June still has some snow and far fewer people. In many parks, spring or fall is actually more visually striking than midsummer.

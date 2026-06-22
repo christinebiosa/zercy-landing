@@ -21,7 +21,7 @@ The value here is exceptional. Four-star hotels for 80 euros. Boutique rooms in 
 
 **Naujamiestis (New Town):** Modern cafes, young locals, less touristy. For those who prefer atmosphere over proximity to landmarks.
 
-**Žvėrynas:** Quiet residential, parks, villas. For families and travelers with rental cars.
+**Žvėrynas:** Quiet residential, parks, villas. For families and travelers with [rental cars](https://www.economybookings.com/).
 
 **Šnipiškės:** Glass towers and business hotels across the river. For conference travelers and corporate stays.
 

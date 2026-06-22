@@ -19,7 +19,7 @@ Der Klassiker. Du landest in Keflavik, schläfst in Reykjavik, machst den Golden
 **Option 2: Ring Road komplett (8 bis 12 Tage)**
 Die Route 1, 1.332 Kilometer einmal um die Insel. Du siehst alles: Südküste, Ostfjorde, Nord-Island mit Akureyri, den Goldenen Kreis. Das ist die Erfahrung, die Island wirklich zeigt.
 
-Für beide brauchst du einen Mietwagen. Ohne Auto erlebst du Island nicht.
+Für beide brauchst du einen [Mietwagen](https://www.economybookings.com/). Ohne Auto erlebst du Island nicht.
 
 ## Was ist der Golden Circle und was musst du dort sehen?
 

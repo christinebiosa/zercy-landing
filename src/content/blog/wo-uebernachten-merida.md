@@ -25,7 +25,7 @@ Eine kurze Orientierung vorab.
 
 **Altabrisa:** Modernes Mérida mit Shoppingmall und internationalen Hotelketten. Für Geschäftsreisende und alle die Komfort über Atmosphäre stellen.
 
-**Chichi Suárez / Cholul:** Ruhige Außenviertel mit traditionellen Häusern und Budget-Optionen. Für Budgetreisende und alle die Mietwagen fahren.
+**Chichi Suárez / Cholul:** Ruhige Außenviertel mit traditionellen Häusern und Budget-Optionen. Für Budgetreisende und alle die [Mietwagen](https://www.economybookings.com/) fahren.
 
 ## Centro Histórico: Das bunte Herz von Mérida
 

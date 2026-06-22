@@ -27,6 +27,7 @@ const RULES = {
     { re: /\bReiseversicherung\b/i, url: 'https://ektatraveling.com/', dom: 'ektatraveling.com' },
     { re: /\bFlugentschädigung\b/i, url: 'https://www.airhelp.com/', dom: 'airhelp.com' },
     { re: /\bCity ?Pass\b/i, url: 'https://gocity.com/', dom: 'gocity.com' },
+    { re: /\bMietwagen\b/i, url: 'https://www.economybookings.com/', dom: 'economybookings.com' },
   ],
   en: [
     { re: /\beSIMs?\b/i, url: 'https://www.airalo.com/', dom: 'airalo.com' },
@@ -36,6 +37,7 @@ const RULES = {
     { re: /\btravel insurance\b/i, url: 'https://ektatraveling.com/', dom: 'ektatraveling.com' },
     { re: /\bflight compensation\b/i, url: 'https://www.airhelp.com/', dom: 'airhelp.com' },
     { re: /\bcity pass\b/i, url: 'https://gocity.com/', dom: 'gocity.com' },
+    { re: /\b(rental cars?|car rentals?|hire a car|car hire)\b/i, url: 'https://www.economybookings.com/', dom: 'economybookings.com' },
   ],
   es: [
     { re: /\beSIMs?\b/i, url: 'https://www.airalo.com/', dom: 'airalo.com' },
@@ -45,6 +47,7 @@ const RULES = {
     { re: /\bseguro de viaje\b/i, url: 'https://ektatraveling.com/', dom: 'ektatraveling.com' },
     { re: /\bcompensación (de|por) vuelo\b/i, url: 'https://www.airhelp.com/', dom: 'airhelp.com' },
     { re: /\bcity pass\b/i, url: 'https://gocity.com/', dom: 'gocity.com' },
+    { re: /\b(alquiler de coche|coche de alquiler|alquiler de auto|renta de auto|alquiler de carro)\b/i, url: 'https://www.economybookings.com/', dom: 'economybookings.com' },
   ],
 };
 

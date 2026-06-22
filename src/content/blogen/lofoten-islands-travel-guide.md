@@ -45,7 +45,7 @@ The authentic Lofoten experience means staying in a **rorbu cabin**: traditional
 
 **Henningsvær** suits travelers who want more atmosphere: restaurants, cafés, and an actual village vibe rather than cabins by the water.
 
-**Svolvær** in the northeast is the largest town and main transport hub. Less scenic but essential for arrivals. More hostel options and lower prices than elsewhere, plus most car rental agencies.
+**Svolvær** in the northeast is the largest town and main transport hub. Less scenic but essential for arrivals. More hostel options and lower prices than elsewhere, plus most [car rental](https://www.economybookings.com/) agencies.
 
 **Å i Lofoten** at the southern tip feels like time has stopped. A handful of houses, a small fishing museum, almost no tourists outside summer.
 

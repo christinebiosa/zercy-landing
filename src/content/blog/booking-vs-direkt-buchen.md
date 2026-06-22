@@ -39,7 +39,7 @@ Direktbuchung lohnt sich bei genau drei Szenarien:
 
 **3. Bei längeren Aufenthalten (2+ Wochen).** Die meisten Hotels geben dir bei Direkt-Anfrage einen Rabatt für 2+ Wochen-Aufenthalte. 10-25 Prozent ist üblich. Booking.com bietet das nicht standardmäßig.
 
-Lies dazu auch unseren [Boutique-Hotels-Guide](/blog/boutique-hotels/) für die Mietwagen-Variante.
+Lies dazu auch unseren [Boutique-Hotels-Guide](/blog/boutique-hotels/) für die [Mietwagen](https://www.economybookings.com/)-Variante.
 
 ## Wann ist Booking.com KLAR die bessere Wahl?
 

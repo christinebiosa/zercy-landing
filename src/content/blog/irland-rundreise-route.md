@@ -11,7 +11,7 @@ bookingDest: "Ireland"
 
 Irland ist kein Land, das du mal kurz abhakst. Es hat eine Qualität, die schwer zu beschreiben ist: dieses Grün, das nach jedem Regen noch intensiver leuchtet, die Küsten, die dir das Gefühl geben, am Ende der Welt zu stehen, und Pubs, in denen Fremde nach zehn Minuten so reden wie alte Bekannte. Eine Woche reicht für einen ersten Eindruck. Zwei Wochen, und du verstehst, warum so viele zurückkommen.
 
-Dieser Guide zeigt dir die beste Route von Dublin bis zu den Klippen, durch Connemara und weiter zum Ring of Kerry. Plus alles, was du wirklich wissen musst: Linksverkehr, Visa-Fragen und warum du unbedingt einen Mietwagen brauchst.
+Dieser Guide zeigt dir die beste Route von Dublin bis zu den Klippen, durch Connemara und weiter zum Ring of Kerry. Plus alles, was du wirklich wissen musst: Linksverkehr, Visa-Fragen und warum du unbedingt einen [Mietwagen](https://www.economybookings.com/) brauchst.
 
 ## Welche Highlights darfst du auf einer Irland Rundreise nicht verpassen?
 

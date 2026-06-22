@@ -19,7 +19,7 @@ Die Antwort hängt davon ab, was du suchst. Kanada ist so groß, dass die Region
 
 **Vancouver und British Columbia:** Die grünste, mildeste Ecke Kanadas. Stanley Park mit seinen Totem-Pfählen und dem Küstenweg, Granville Island mit dem Public Market, und zwei Stunden entfernt liegt Whistler, eines der besten Ski-Resorts der Welt. Im Sommer: Kayaking, Whale-Watching, Hiking in den Coast Mountains. Vancouver ist auch Basis für Tagesausflüge auf die Salt Spring Island oder in den Garibaldi Provincial Park.
 
-**Banff und die Rocky Mountains (Alberta):** Die dramatischste Landschaft Kanadas. Lake Louise ist das berühmteste Bild des Landes, türkisblaues Gletscherwasser vor schneebedeckten Gipfeln. Der Icefields Parkway zwischen Banff und Jasper gilt als schönste Überlandstraße der Welt. Grizzlybären beobachten ist hier real, nicht im Zoo. Kombiniere Banff und Jasper mit einem Mietwagen, 3-5 Tage.
+**Banff und die Rocky Mountains (Alberta):** Die dramatischste Landschaft Kanadas. Lake Louise ist das berühmteste Bild des Landes, türkisblaues Gletscherwasser vor schneebedeckten Gipfeln. Der Icefields Parkway zwischen Banff und Jasper gilt als schönste Überlandstraße der Welt. Grizzlybären beobachten ist hier real, nicht im Zoo. Kombiniere Banff und Jasper mit einem [Mietwagen](https://www.economybookings.com/), 3-5 Tage.
 
 **Toronto (Ontario):** Der CN Tower, der Kensington Market mit internationalen Küchen, das Distillery District. Und: Niagara Falls, nur 1,5 Stunden entfernt. Die Fälle sind imposanter von der kanadischen Seite. Toronto ist urbaner Kontrast zum Wildnis-Kanada.
 

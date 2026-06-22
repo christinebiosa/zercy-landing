@@ -89,7 +89,7 @@ El casco antiguo alrededor del anfiteatro y el Foro Romano es la primera elecci�
 Junio y septiembre son el punto dulce: el mar está suficientemente cálido, la temporada alta no ha empezado o acaba de terminar, los precios están muy por debajo de agosto y el anfiteatro se puede visitar sin colas. Octubre es ideal para los amantes de la gastronomía, por la temporada de trufas.
 
 ### ¿Cómo se llega de Pula a otras ciudades istrianas?
-Pula tiene buenas conexiones en autobús a Rovinj (1 hora), Poreč (1,5 horas) y Rijeka (2 horas). Con coche de alquiler, toda la península es explorable en un día. Para excursiones a los pueblos del interior como Motovun o Grožnjan, el coche propio facilita mucho las cosas.
+Pula tiene buenas conexiones en autobús a Rovinj (1 hora), Poreč (1,5 horas) y Rijeka (2 horas). Con [coche de alquiler](https://www.economybookings.com/), toda la península es explorable en un día. Para excursiones a los pueblos del interior como Motovun o Grožnjan, el coche propio facilita mucho las cosas.
 
 ### ¿Cuánto cuesta cenar en Pula?
 En un buen restaurante del casco antiguo, calcula entre 25 y 40 euros por persona para mariscos o platos de carne locales, sin vino. Las opciones más económicas con pasta, pizza o parrillada empiezan desde unos 12 euros. El vino y el aceite de oliva istrianos son excelentes y están disponibles en todos los restaurantes.

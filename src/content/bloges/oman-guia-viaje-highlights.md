@@ -67,7 +67,7 @@ Rial omaní (OMR). Un rial equivale a aproximadamente 2,40 euros. Omán es más 
 
 ### ¿Cuánto cuesta un viaje a Omán?
 
-Presupuesto medio: 70 a 110 euros al día sobre el terreno (alojamiento, comida, entradas, coche de alquiler). Vuelos desde Europa: 250 a 500 euros de ida y vuelta según el momento de reserva. Mínimo total para 10 días incluyendo vuelos: desde unos 1.200 euros.
+Presupuesto medio: 70 a 110 euros al día sobre el terreno (alojamiento, comida, entradas, [coche de alquiler](https://www.economybookings.com/)). Vuelos desde Europa: 250 a 500 euros de ida y vuelta según el momento de reserva. Mínimo total para 10 días incluyendo vuelos: desde unos 1.200 euros.
 
 ## Más artículos
 

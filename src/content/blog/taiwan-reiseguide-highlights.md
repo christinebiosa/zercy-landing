@@ -25,7 +25,7 @@ Das Nationale Palastmuseum ist eines der bedeutendsten Museen Asiens. Es bewahrt
 
 Der Hochgeschwindigkeitszug HSR (High Speed Rail) verbindet Taipei mit Kaohsiung im Süden in 90 Minuten. Die Strecke entlang der Westküste ist die wichtigste für Reisende. Tickets kaufst du über die offizielle [Taiwan High Speed Rail Website](https://www.thsrc.com.tw/en/). Ein Tagespass ist für Durchreisende deutlich günstiger als Einzeltickets.
 
-Für die Ostküste und die Taroko-Schlucht nimmst du den normalen TRA-Zug von Taipei nach Hualien (zwei Stunden). Busse verbinden Hualien mit den Eingängen zur Schlucht. Mietwagen sind eine Option, aber Mopeds sind nicht immer empfehlenswert für die kurvenreichen Bergstraßen ohne Vorerfahrung.
+Für die Ostküste und die Taroko-Schlucht nimmst du den normalen TRA-Zug von Taipei nach Hualien (zwei Stunden). Busse verbinden Hualien mit den Eingängen zur Schlucht. [Mietwagen](https://www.economybookings.com/) sind eine Option, aber Mopeds sind nicht immer empfehlenswert für die kurvenreichen Bergstraßen ohne Vorerfahrung.
 
 ## Wann ist die beste Reisezeit für Taiwan?
 

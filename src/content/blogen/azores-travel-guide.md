@@ -17,7 +17,7 @@ This travel guide covers the most important islands, what you will find there, a
 
 No island is like the others. The choice depends on what you are looking for.
 
-**São Miguel (the main island):** Most visitors land here and stay. Sete Cidades is the defining image of the Azores: a dormant volcano crater holding a blue lake and a green lake side by side, the colors shifting with the light. The Terra Nostra Park Hotel in Furnas has thermal pools, brown from iron content and healing warm. The geysers of Furnas cook the Cozido stew directly in the earth. São Miguel has the best infrastructure of all the islands, rental car recommended.
+**São Miguel (the main island):** Most visitors land here and stay. Sete Cidades is the defining image of the Azores: a dormant volcano crater holding a blue lake and a green lake side by side, the colors shifting with the light. The Terra Nostra Park Hotel in Furnas has thermal pools, brown from iron content and healing warm. The geysers of Furnas cook the Cozido stew directly in the earth. São Miguel has the best infrastructure of all the islands, [rental car](https://www.economybookings.com/) recommended.
 
 **Faial:** The "blue island" for its hortensia flowers that bloom everywhere. The Caldeira volcano has one of the best crater trails in the Azores. Horta, the capital, is legendary among Atlantic crossing sailors: yachters from around the world leave artwork on the harbour walls. Whale watching from Faial is excellent.
 

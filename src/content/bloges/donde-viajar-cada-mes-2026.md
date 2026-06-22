@@ -14,7 +14,7 @@ Doce meses, doce destinos perfectos. Esta guía es para ti si ya no quieres rese
 No todos los lugares son igual de buenos durante todo el año. El sudeste asiático tiene monzón. Los veranos europeos son caros y están llenos. El truco: viajar de forma contracíclica. Menos turistas, mejores precios y el clima sigue funcionando.
 
 **Enero: Costa Rica**
-Enero marca el inicio de la temporada seca en Costa Rica. Guanacaste y la costa del Pacífico lucen espléndidas. Temperaturas de unos 28°C, casi sin lluvia. Una [ruta por Costa Rica](/es/blog/costa-rica-ruta-completa/) en enero cuesta desde unos 80 euros al día para dos personas, incluyendo alojamiento y coche de alquiler. Perfecto para amantes de la naturaleza y surfistas.
+Enero marca el inicio de la temporada seca en Costa Rica. Guanacaste y la costa del Pacífico lucen espléndidas. Temperaturas de unos 28°C, casi sin lluvia. Una [ruta por Costa Rica](/es/blog/costa-rica-ruta-completa/) en enero cuesta desde unos 80 euros al día para dos personas, incluyendo alojamiento y [coche de alquiler](https://www.economybookings.com/). Perfecto para amantes de la naturaleza y surfistas.
 
 **Febrero: Marruecos**
 Febrero es uno de los mejores meses para Marruecos. Marrakech tiene una temperatura agradable de 18-22°C con lluvias escasas. El turismo es manejable. Puedes hacer una ruta por las [ciudades de Marruecos](/es/blog/marruecos-ciudades-guia/) que incluya Marrakech, Fez y Chefchaouen por menos de 60 euros al día. Las montañas del Atlas con nieve completan el paisaje.

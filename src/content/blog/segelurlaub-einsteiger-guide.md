@@ -62,7 +62,7 @@ Zusammenfassung für eine Woche Kroatien, 8 Personen, Skippered Charter:
 
 **Gesamtkosten pro Person (8er Gruppe):** 500-750 EUR für eine Woche, ohne Flug. Mit Flug 700-1.150 EUR. Günstiger als manches Pauschalhotel, aber mit völlig anderem Erlebnis.
 
-Wenn du einen Mietwagen für die An- und Abreise brauchst, hilft dir unser [Mietwagen-Ratgeber](/blog/mietwagen-check/).
+Wenn du einen [Mietwagen](https://www.economybookings.com/) für die An- und Abreise brauchst, hilft dir unser [Mietwagen-Ratgeber](/blog/mietwagen-check/).
 
 ## Welche Ausrüstung brauchst du wirklich?
 

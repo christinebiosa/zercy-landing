@@ -31,7 +31,7 @@ El norte de Florianópolis tiene las playas más turísticas y la mayor oferta d
 
 ## ¿Qué zona es mejor para familias?
 
-Las familias con niños lo tienen mejor en el sur o en el norte más tranquilo (Canasvieiras mejor que Jurerê). Las playas del sur como Armação y Pântano do Sul son protegidas, de aguas poco profundas y sin ruido nocturno. Campeche tiene una playa ancha y limpia con una comunidad relajada y local. En el sur también encontrarás más locales, lo que se traduce en restaurantes más auténticos y más baratos. Un apunte importante: en el sur es prácticamente imprescindible tener coche de alquiler.
+Las familias con niños lo tienen mejor en el sur o en el norte más tranquilo (Canasvieiras mejor que Jurerê). Las playas del sur como Armação y Pântano do Sul son protegidas, de aguas poco profundas y sin ruido nocturno. Campeche tiene una playa ancha y limpia con una comunidad relajada y local. En el sur también encontrarás más locales, lo que se traduce en restaurantes más auténticos y más baratos. Un apunte importante: en el sur es prácticamente imprescindible tener [coche de alquiler](https://www.economybookings.com/).
 
 ## Lagoa da Conceição: el corazón cultural de la isla
 

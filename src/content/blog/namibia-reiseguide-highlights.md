@@ -45,7 +45,7 @@ Swakopmund ist ein guter Standort für 2 bis 3 Tage, ideal als Zwischenstopp auf
 
 ## Wie plant man eine Namibia-Rundreise?
 
-Namibia ist ein Selbstfahrer-Land. Mietwagen mit 4WD ist fast unverzichtbar, besonders für Sossusvlei und die abgelegenen Strecken. Viele Straßen sind Schotterpisten (D-Straßen), aber gut befahrbar mit entsprechendem Fahrzeug.
+Namibia ist ein Selbstfahrer-Land. [Mietwagen](https://www.economybookings.com/) mit 4WD ist fast unverzichtbar, besonders für Sossusvlei und die abgelegenen Strecken. Viele Straßen sind Schotterpisten (D-Straßen), aber gut befahrbar mit entsprechendem Fahrzeug.
 
 **Klassische Route (14 bis 21 Tage):**
 Windhoek (Startpunkt, Flughafen) → Sossusvlei (2 bis 3 Nächte) → Swakopmund (2 bis 3 Nächte) → Damaraland (Twyfelfontein, Wüstenelefanten) → Etosha (3 bis 4 Nächte) → Windhoek (Rückflug)

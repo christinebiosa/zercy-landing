@@ -11,7 +11,7 @@ bookingDest: "Patagonia"
 
 Patagonien ist die Region am Ende der Welt. 1.000.000 Quadratkilometer Wildnis, geteilt zwischen Argentinien (zwei Drittel) und Chile (ein Drittel). Granitberge die senkrecht aus Steppe wachsen, Gletscher die ins Meer kalben, Pinguine die stundenlang spazieren gehen. Aber Patagonien ist auch: 8 Stunden Bus zwischen Sehenswürdigkeiten, Wetter das in 30 Minuten von Sonne zu Schneesturm wechselt, und Distanzen die Dich überfordern wenn du sie unterschätzt.
 
-Hier ist die ehrliche 3-Wochen-Route. Mit echten Etappen, echten Mietwagen-Kosten, echten Bus-Realitäten.
+Hier ist die ehrliche 3-Wochen-Route. Mit echten Etappen, echten [Mietwagen](https://www.economybookings.com/)-Kosten, echten Bus-Realitäten.
 
 ## Wann ist die beste Reisezeit für Patagonien?
 

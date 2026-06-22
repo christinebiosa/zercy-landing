@@ -57,7 +57,7 @@ La playa de Essaouira es larga, ventosa y uno de los mejores spots de kitesurf d
 
 ## ¿A Qué Distancia Está Essaouira de Marrakech?
 
-Marrakech está a 180 km al este. En autobús (CTM o Supratours): de 3 a 3,5 horas, 60-90 MAD (5-8 EUR). En coche de alquiler: 2,5 horas por la carretera nacional a través de los bosques de argán. Muchos viajeros combinan ambas ciudades: 2-3 días en Marrakech y luego 2-3 días en Essaouira para descomprimir.
+Marrakech está a 180 km al este. En autobús (CTM o Supratours): de 3 a 3,5 horas, 60-90 MAD (5-8 EUR). En [coche de alquiler](https://www.economybookings.com/): 2,5 horas por la carretera nacional a través de los bosques de argán. Muchos viajeros combinan ambas ciudades: 2-3 días en Marrakech y luego 2-3 días en Essaouira para descomprimir.
 
 ## ¿Dónde reservar al final?
 

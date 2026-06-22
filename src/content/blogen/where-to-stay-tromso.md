@@ -21,7 +21,7 @@ Here is the honest breakdown: 5 areas, what they cost, who they fit.
 
 **Kvaløya:** The island west of Tromsø. Fjords, cabins, pure nature. For northern lights hunters, outdoor travelers, everyone who wants to escape the city.
 
-**Tromsdalstinden:** The mainland east of the bridge. Mountain panoramas, starting point for hikes up Tromsdalstinden (1,238 m). For outdoor enthusiasts with a rental car.
+**Tromsdalstinden:** The mainland east of the bridge. Mountain panoramas, starting point for hikes up Tromsdalstinden (1,238 m). For outdoor enthusiasts with a [rental car](https://www.economybookings.com/).
 
 **Kroken:** Quiet residential area in the northeast of Tromsøya. Fewer tourists, cheaper prices, bus to the center in 15 minutes. For budget travelers.
 

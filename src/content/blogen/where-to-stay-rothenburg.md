@@ -63,7 +63,7 @@ Price range: 55-85 euros.
 
 **Gasthof Butz:** Simple, family-run, very affordable, good breakfast, free parking. Around 55-70 euros.
 
-**Hotel Merian:** Modern building outside the walls, bright rooms, parking included, good for couples traveling by rental car. Around 75-90 euros.
+**Hotel Merian:** Modern building outside the walls, bright rooms, parking included, good for couples traveling by [rental car](https://www.economybookings.com/). Around 75-90 euros.
 
 **Pension Elke:** Private guesthouse with three rooms, personal atmosphere, for travelers who don't need hotel amenities. Around 60-70 euros.
 

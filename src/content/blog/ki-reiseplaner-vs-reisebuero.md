@@ -32,7 +32,7 @@ Wir haben schon beschrieben, [wie KI die Reiseplanung verändert](/blog/ki-verae
 
 **Gruppenreisen.** 14 Personen, drei verschiedene Abflughäfen, unterschiedliche Budgets, ein gemeinsames Ziel. Das ist Koordinationsarbeit, die Geduld, Erfahrung und persönliche Kommunikation braucht. Ein Reiseberater kann zwischen den Wünschen vermitteln. KI liefert Optionen, aber sie verhandelt nicht mit deiner Schwiegermutter über das Hotel.
 
-**Versicherungsberatung.** Reiserücktrittsversicherung, Auslandskrankenversicherung, Mietwagen-Vollkasko: [Laut Lonely Planet](https://www.lonelyplanet.com/articles/top-tips-for-budget-travel) einer der Bereiche, die Reisende am häufigsten falsch einschätzen. Ein guter Berater kennt die Fallstricke und empfiehlt passende Pakete. KI kann Policen vergleichen, aber die individuelle Risikoeinschätzung bleibt menschlich.
+**Versicherungsberatung.** Reiserücktrittsversicherung, Auslandskrankenversicherung, [Mietwagen](https://www.economybookings.com/)-Vollkasko: [Laut Lonely Planet](https://www.lonelyplanet.com/articles/top-tips-for-budget-travel) einer der Bereiche, die Reisende am häufigsten falsch einschätzen. Ein guter Berater kennt die Fallstricke und empfiehlt passende Pakete. KI kann Policen vergleichen, aber die individuelle Risikoeinschätzung bleibt menschlich.
 
 ## Wo es unentschieden steht
 

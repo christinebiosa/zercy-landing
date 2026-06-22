@@ -21,7 +21,7 @@ Zagreb son dos mundos. Gornji Grad es la ciudad alta medieval con callejuelas em
 
 **Trnje:** Al sur del centro, más local, más asequible. Cerca de la estación principal y de autobuses. Bueno para estancias largas y viajeros que no quieren pagar el recargo por ubicación central.
 
-**Zona Maksimir:** Las afueras orientales, tranquilo y verde. Mejor con coche de alquiler. No práctico sin vehículo propio.
+**Zona Maksimir:** Las afueras orientales, tranquilo y verde. Mejor con [coche de alquiler](https://www.economybookings.com/). No práctico sin vehículo propio.
 
 ## Donji Grad: Centro y base de operaciones
 

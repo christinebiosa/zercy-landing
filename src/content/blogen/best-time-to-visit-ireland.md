@@ -44,7 +44,7 @@ The Wild Atlantic Way, the 1,500-mile coastal route from Donegal to Cork, often 
 
 Ireland is more than Dublin. Leave the capital's roundabouts behind and you find:
 
-- **Wild Atlantic Way:** Cliffs of Moher, Connemara, Ring of Kerry, Dingle Peninsula. Best in spring (May-June) or early autumn. Rental car necessary; factor in driving on the left. See our [carry-on only guide](/en/blog/carry-on-only/) for packing light on road trips.
+- **Wild Atlantic Way:** Cliffs of Moher, Connemara, Ring of Kerry, Dingle Peninsula. Best in spring (May-June) or early autumn. [Rental car](https://www.economybookings.com/) necessary; factor in driving on the left. See our [carry-on only guide](/en/blog/carry-on-only/) for packing light on road trips.
 - **Giants Causeway, Northern Ireland:** Basalt columns and pure drama. Open year-round, less visited in winter. Spectacular in any weather.
 - **Aran Islands:** Inishmore, Inishmaan, Inisheer in Galway Bay. Ferry from Rossaveal, explore by bike or horse cart. Best climate April-September.
 - **Skellig Michael:** Early medieval monastery on a rock islet, now somewhat known via Star Wars. Only accessible May-September; boat trips often cancelled in storms. Book early.

@@ -17,7 +17,7 @@ Das Problem: Positano ist klein, teuer und im Sommer heillos überfüllt. Die ri
 - **Spiaggia Grande / Unteres Dorf:** Mitten im Geschehen, direkt am Strand. Für Leute, die den Trubel lieben und kurze Wege wollen. Teuerste Lage.
 - **Mittleres Dorf (Via Cristoforo Colombo / Via dei Mulini):** Die goldene Mitte. Schöne Ausblicke, noch gut zu Fuß erreichbar, preislich moderater.
 - **Oberes Dorf / Montepertuso:** Ruhiger, echter, günstiger. Perfekt für Reisende, die nicht jeden Tag am Strand liegen. Busverbindung ins Zentrum.
-- **Praiano (Nachbarort):** Nur 5 Kilometer entfernt, deutlich weniger Touristen, günstigere Preise, eigener kleiner Strand. Ideal für Budgetreisende mit Mietwagen.
+- **Praiano (Nachbarort):** Nur 5 Kilometer entfernt, deutlich weniger Touristen, günstigere Preise, eigener kleiner Strand. Ideal für Budgetreisende mit [Mietwagen](https://www.economybookings.com/).
 - **Nocelle:** Winziges Bergdorf über Positano. Absolute Ruhe, atemberaubender Panoramablick. Nur mit eigenem Fahrzeug oder zu Fuß.
 
 ## Spiaggia Grande: Der Strand als Wohnzimmer

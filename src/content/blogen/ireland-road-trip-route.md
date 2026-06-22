@@ -11,7 +11,7 @@ bookingDest: "Ireland"
 
 Ireland is not the kind of place you check off a list and move on. There is something about it. The green that intensifies after every rain shower. The coastlines that make you feel like you have reached the edge of the world. Pubs where strangers become easy company within ten minutes. A week gives you a first impression. Two weeks, and you understand why so many people keep coming back.
 
-This guide covers the best route from Dublin to the cliffs, through Connemara and down to the Ring of Kerry. Plus everything you actually need to know: driving on the left, visa questions, and why a rental car is non-negotiable.
+This guide covers the best route from Dublin to the cliffs, through Connemara and down to the Ring of Kerry. Plus everything you actually need to know: driving on the left, visa questions, and why a [rental car](https://www.economybookings.com/) is non-negotiable.
 
 ## Which highlights should you not miss on an Ireland road trip?
 

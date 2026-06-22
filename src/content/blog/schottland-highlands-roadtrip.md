@@ -66,7 +66,7 @@ Mindestens fünf Tage, besser sieben bis zehn. Wer die Route wirklich genießen 
 
 ### Was kostet ein Road Trip durch die schottischen Highlands?
 
-Grob gerechnet: Mietwagen ab 40 bis 60 Euro pro Tag, Unterkunft in B&Bs oder Guesthouses 60 bis 120 Pfund pro Nacht, Essen in Pubs 15 bis 30 Pfund pro Hauptgericht. Wer mit Campervan reist, spart bei der Unterkunft erheblich. Insgesamt sind sieben Tage Highlands Road Trip für zwei Personen ab etwa 1.200 Euro realistisch.
+Grob gerechnet: [Mietwagen](https://www.economybookings.com/) ab 40 bis 60 Euro pro Tag, Unterkunft in B&Bs oder Guesthouses 60 bis 120 Pfund pro Nacht, Essen in Pubs 15 bis 30 Pfund pro Hauptgericht. Wer mit Campervan reist, spart bei der Unterkunft erheblich. Insgesamt sind sieben Tage Highlands Road Trip für zwei Personen ab etwa 1.200 Euro realistisch.
 
 ### Wo übernachtet man am besten auf dem Highlands Road Trip?
 

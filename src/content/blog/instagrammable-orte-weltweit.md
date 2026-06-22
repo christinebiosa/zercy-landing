@@ -72,4 +72,4 @@ Früh aufstehen ist die einfachste Strategie. Die meisten ikonischen Orte sind z
 Typischerweise Ende Juni bis Mitte Juli. Das genaue Timing variiert je nach Jahrgang um ein bis zwei Wochen. Die Provence-Tourismusseite veröffentlicht jährliche Prognosen. Valensole und die Abbaye de Sénanque sind die bekanntesten Spots.
 
 ### Welche fotogenen Orte sind ohne Auto erreichbar?
-Kyoto (Nara und Arashiyama per Zug/Bus), Santorini (Fähre ab Athen oder Piräus), Hallstatt (Zug ab Salzburg oder Wien mit Fähre), Venedig (Zug aus ganz Europa) und Paris (Eurostar/TGV) sind alle ohne Mietwagen problemlos zu erreichen.
+Kyoto (Nara und Arashiyama per Zug/Bus), Santorini (Fähre ab Athen oder Piräus), Hallstatt (Zug ab Salzburg oder Wien mit Fähre), Venedig (Zug aus ganz Europa) und Paris (Eurostar/TGV) sind alle ohne [Mietwagen](https://www.economybookings.com/) problemlos zu erreichen.

@@ -41,7 +41,7 @@ The rail network is romantic but slow. The Colombo-Kandy train and the Kandy-Ell
 
 Negotiate tuk-tuk prices for short distances. For full day trips or city-to-city transfers, a private driver costs 30 to 60 euros a day and often comes with solid local knowledge.
 
-Rental cars are technically possible, but traffic is chaotic and you drive on the left. Without previous experience in South Asia, it's not recommended.
+[Rental cars](https://www.economybookings.com/) are technically possible, but traffic is chaotic and you drive on the left. Without previous experience in South Asia, it's not recommended.
 
 The **ETA (Electronic Travel Authority)** is applied for online at [eta.gov.lk](https://www.eta.gov.lk/). Cost: around 50 USD, valid for stays up to 30 days.
 

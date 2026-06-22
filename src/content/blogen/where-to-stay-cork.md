@@ -89,7 +89,7 @@ The city centre on the island is the clear first choice. Everything is walkable,
 November through March brings hotel prices down by 30 to 40 percent compared to summer. The weather is wet and grey, but Cork has plenty indoors: pubs, the English Market, the Crawford Art Gallery, and the city's strong food scene. October is a sweet spot: Jazz Festival energy with moderate prices.
 
 ### How far is Cork Airport from the city centre?
-Cork Airport is 8 kilometres south of the city centre. Bus route 226A takes 20 to 30 minutes and runs frequently. A taxi costs around €15 to €20 and takes 15 minutes. A rental car is only worth it if you plan day trips toward the Wild Atlantic Way or into County Kerry.
+Cork Airport is 8 kilometres south of the city centre. Bus route 226A takes 20 to 30 minutes and runs frequently. A taxi costs around €15 to €20 and takes 15 minutes. A [rental car](https://www.economybookings.com/) is only worth it if you plan day trips toward the Wild Atlantic Way or into County Kerry.
 
 ### What should you not miss in Cork?
 The English Market is non-negotiable. This covered food market has been running since 1788 and is the cultural heart of Cork. Fresh fish, local cheeses, Irish charcuterie, and some of the best casual food in the country. It's open Monday to Saturday, and the upstairs Farmgate Café is one of the best lunch spots in the city.

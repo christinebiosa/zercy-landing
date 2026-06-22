@@ -95,7 +95,7 @@ Para alojamiento, [Booking.com](https://www.booking.com) es la mejor plataforma 
 
 ---
 
-Zercy te ayuda a planificar el Algarve: vuelo a Faro, coche de alquiler para toda la región y hoteles en Lagos, Tavira o Vilamoura comparados directamente. Guarda tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlo todo a mano cuando reserves.
+Zercy te ayuda a planificar el Algarve: vuelo a Faro, [coche de alquiler](https://www.economybookings.com/) para toda la región y hoteles en Lagos, Tavira o Vilamoura comparados directamente. Guarda tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlo todo a mano cuando reserves.
 
 ## Preguntas frecuentes
 

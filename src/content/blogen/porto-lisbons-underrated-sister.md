@@ -97,7 +97,7 @@ May, June, and September are ideal. Warm enough for the beaches in Foz but witho
 
 ### How do I get from Porto airport to the city center?
 
-Metro line E connects the airport directly to the center. The ride takes about 20 minutes and costs 2.60 euros with an Andante card. Alternatively, an Uber or taxi costs 15 to 20 euros. You don't need a rental car in the city itself.
+Metro line E connects the airport directly to the center. The ride takes about 20 minutes and costs 2.60 euros with an Andante card. Alternatively, an Uber or taxi costs 15 to 20 euros. You don't need a [rental car](https://www.economybookings.com/) in the city itself.
 
 ### What does a day in Porto cost on average?
 

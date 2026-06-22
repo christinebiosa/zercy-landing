@@ -36,7 +36,7 @@ Wann lohnt sie nicht: Bei kurzfristigen Buchungen, bei kostenlosen Stornierungs-
 
 **Reiseabbruchversicherung.** Greift, wenn du während der Reise abbrechen musst. Sinnvoll bei längeren Trips über 2 Wochen. Oft im Reiserücktrittspaket enthalten.
 
-**Mietwagen-Vollkasko ohne Selbstbeteiligung.** Wenn du einen Mietwagen über die Online-Plattform buchst, gibt es zwei Möglichkeiten. Bei der Mietwagenfirma direkt teure Vollkasko nehmen (oft 25 bis 40 Euro pro Tag) oder eine separate Mietwagen-Vollkasko über Anbieter wie [Allianz](https://www.allianz-reiseversicherung.de) oder Hanse Merkur abschließen (oft 60 bis 100 Euro pro Jahr für unbegrenzt viele Mietungen).
+**[Mietwagen](https://www.economybookings.com/)-Vollkasko ohne Selbstbeteiligung.** Wenn du einen Mietwagen über die Online-Plattform buchst, gibt es zwei Möglichkeiten. Bei der Mietwagenfirma direkt teure Vollkasko nehmen (oft 25 bis 40 Euro pro Tag) oder eine separate Mietwagen-Vollkasko über Anbieter wie [Allianz](https://www.allianz-reiseversicherung.de) oder Hanse Merkur abschließen (oft 60 bis 100 Euro pro Jahr für unbegrenzt viele Mietungen).
 
 Lies auch unsere [Mietwagen-Checkliste](/blog/mietwagen-check/) zu dem Thema.
 

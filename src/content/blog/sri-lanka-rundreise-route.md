@@ -41,7 +41,7 @@ Das Bahnnetz ist romantisch, aber langsam. Für die Strecke Colombo-Kandy und Ka
 
 Tuk-Tuks für kurze Distanzen verhandeln. Für ganze Tagestouren oder Transfers zwischen Städten lohnt sich ein gebuchter Fahrer: 30 bis 60 Euro pro Tag, inklusive lokaler Führung.
 
-Mietwagen sind möglich, aber der Verkehr ist chaotisch und Linksverkehr. Ohne Erfahrung in Asien keine Empfehlung.
+[Mietwagen](https://www.economybookings.com/) sind möglich, aber der Verkehr ist chaotisch und Linksverkehr. Ohne Erfahrung in Asien keine Empfehlung.
 
 Das **ETA (Electronic Travel Authority)** beantragst du online über [eta.gov.lk](https://www.eta.gov.lk/). Kosten: rund 50 USD, Aufenthalt bis 30 Tage.
 

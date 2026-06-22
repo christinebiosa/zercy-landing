@@ -119,7 +119,7 @@ Kathedrale La Seu (besonders das Innere mit Gaudí-Restaurierung), Kastell Bellv
 
 ### Wie kommt man von Palma in die anderen Teile Mallorcas?
 
-Bus ist günstig aber langsam. Mietwagen empfehlenswert für flexible Inselrundfahrt. Vom Flughafen ins Zentrum: Bus EMT (Linie A1), Taxi (ca. 25-35 Euro) oder Mietwagen. Zug ab Palma nach Inca und Sóller (Sóller-Bahn historisch und sehenswert).
+Bus ist günstig aber langsam. [Mietwagen](https://www.economybookings.com/) empfehlenswert für flexible Inselrundfahrt. Vom Flughafen ins Zentrum: Bus EMT (Linie A1), Taxi (ca. 25-35 Euro) oder Mietwagen. Zug ab Palma nach Inca und Sóller (Sóller-Bahn historisch und sehenswert).
 
 ---
 

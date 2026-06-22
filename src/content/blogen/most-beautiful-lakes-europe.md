@@ -30,7 +30,7 @@ Five lakes stand out:
 Most of these lakes are not effortless by public transport, but manageable:
 
 - **Lake Como:** From Milan by regional train in 35-50 minutes. Milan Centrale direct to Como S. Giovanni.
-- **Bled:** From Ljubljana by bus (around 10 euros, 55 minutes) or rental car. With a car you can also reach Bohinj from there (25 minutes further).
+- **Bled:** From Ljubljana by bus (around 10 euros, 55 minutes) or [rental car](https://www.economybookings.com/). With a car you can also reach Bohinj from there (25 minutes further).
 - **Hallstatt:** From Salzburg by regional train (around 2.5 hours, change at Attnang-Puchheim). Slow but scenic.
 - **Plitvice:** From Split (2.5-hour drive) or Zagreb (2 hours). Bus connections exist but are slow. Rental car recommended.
 

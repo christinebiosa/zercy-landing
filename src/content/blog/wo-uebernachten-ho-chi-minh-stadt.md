@@ -77,7 +77,7 @@ Wenn du Ho-Chi-Minh-Stadt planst, teile Zercy deinen Fokus: Kultur, Essen, Erstb
 
 ### Was sind die besten Tagesausflüge von Ho-Chi-Minh-Stadt?
 
-Cu Chi Tunnels (40 km nordwestlich): Unterirdisches Tunnelsystem des Vietnamkriegs, 2-3 Stunden Halbtagsausflug. Mekong Delta (70 km südwestlich): Bootsfahrten durch Reisfelder und Fischergemeinschaften. My Tho oder Ben Tre sind typische Mekong-Ziele. Beide Ausflüge sind mit organisierten Day-Tours (15-25 Euro) oder per Mietwagen möglich.
+Cu Chi Tunnels (40 km nordwestlich): Unterirdisches Tunnelsystem des Vietnamkriegs, 2-3 Stunden Halbtagsausflug. Mekong Delta (70 km südwestlich): Bootsfahrten durch Reisfelder und Fischergemeinschaften. My Tho oder Ben Tre sind typische Mekong-Ziele. Beide Ausflüge sind mit organisierten Day-Tours (15-25 Euro) oder per [Mietwagen](https://www.economybookings.com/) möglich.
 
 ### Wie viel kostet Essen in Saigon?
 

@@ -8,7 +8,7 @@ readingTime: 7
 heroImage: "/img/blog/antalya-region.jpg"
 bookingDest: "Antalya"
 ---
-For many travelers, Antalya is the entry point to the Turkish Riviera. They land at the airport, transfer to a resort, and barely leave the pool area. That is a valid choice, but it is a missed opportunity. With a rental car from Antalya, you have ruins, small fishing villages, canyon hikes, and one of the most beautiful coastal road sections in Europe within two hours of driving.
+For many travelers, Antalya is the entry point to the Turkish Riviera. They land at the airport, transfer to a resort, and barely leave the pool area. That is a valid choice, but it is a missed opportunity. With a [rental car](https://www.economybookings.com/) from Antalya, you have ruins, small fishing villages, canyon hikes, and one of the most beautiful coastal road sections in Europe within two hours of driving.
 
 This guide covers what the Antalya region offers beyond the hotels. And when to hit each destination.
 

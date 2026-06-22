@@ -25,7 +25,7 @@ Die Straßen sind langsamer als du denkst. 100 Kilometer Google Maps bedeuten in
 
 ### Stopp 1: San José (1 Nacht)
 
-Du landest am SJO. Die Hauptstadt ist kein Reiseziel, aber du brauchst eine Nacht zum Ankommen. Schlaf in der Nähe des Flughafens, hol am nächsten Morgen den Mietwagen ab.
+Du landest am SJO. Die Hauptstadt ist kein Reiseziel, aber du brauchst eine Nacht zum Ankommen. Schlaf in der Nähe des Flughafens, hol am nächsten Morgen den [Mietwagen](https://www.economybookings.com/) ab.
 
 Tipp: den Mietwagen NICHT am Flughafen abholen. Die Shuttle-Agenturen außerhalb sind 20 bis 30 Prozent günstiger. Mehr dazu unten.
 

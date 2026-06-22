@@ -107,7 +107,7 @@ Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you
 Alsancak is the safest choice. Central, walkable and close to restaurants, bars and the Kordon seafront. If sea views matter more than nightlife, book on the Kordon boulevard instead.
 
 ### How far is Izmir from Ephesus?
-About 80 kilometers south, roughly one hour by bus or rental car. A day trip is completely manageable. Most travelers leave in the morning and are back for dinner.
+About 80 kilometers south, roughly one hour by bus or [rental car](https://www.economybookings.com/). A day trip is completely manageable. Most travelers leave in the morning and are back for dinner.
 
 ### What does a good hotel in Izmir cost?
 Mid-range in Alsancak or Konak: €50 to €100. Boutique and Kordon-facing rooms: €100 to €180. Budget in Bornova: from €25. Prices rise 20 to 30 percent in July and August.

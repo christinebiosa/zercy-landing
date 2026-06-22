@@ -70,7 +70,7 @@ Eine pragmatische Workflow-Empfehlung.
 
 **Phase 2 (Fakten):** Perplexity. Visa, Wetter, Sicherheitslage, lokale Events. Verifizierte Quellen sind Gold wert.
 
-**Phase 3 (Buchung):** Reisespezifische Tools wie Zercy. Konkrete Flugpreise, Hotelvergleich, Mietwagen. Wenn nötig direkt zu Booking, Expedia, Skyscanner durchklicken.
+**Phase 3 (Buchung):** Reisespezifische Tools wie Zercy. Konkrete Flugpreise, Hotelvergleich, [Mietwagen](https://www.economybookings.com/). Wenn nötig direkt zu Booking, Expedia, Skyscanner durchklicken.
 
 Diese Aufteilung dauert etwa 30 Minuten und liefert eine bessere Reise als 3 Stunden in einem Tool.
 

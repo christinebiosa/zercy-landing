@@ -112,7 +112,7 @@ En julio y agosto: los hoteles boutique en el casco antiguo empiezan desde 180 E
 
 ### ¿Qué se puede hacer en Rovinj además del paseo por el casco antiguo?
 
-El parque natural Zlatni Rt (baño en rocas, senderismo, snorkel), excursiones en barco a las islas de Sv. Katarina y Crveni Otok, una excursión a Pula y su anfiteatro romano (40 km), búsqueda de trufas en el interior de la Istria con guías locales. Quien quiera recorrer toda la costa oeste de la Istria necesita un coche de alquiler.
+El parque natural Zlatni Rt (baño en rocas, senderismo, snorkel), excursiones en barco a las islas de Sv. Katarina y Crveni Otok, una excursión a Pula y su anfiteatro romano (40 km), búsqueda de trufas en el interior de la Istria con guías locales. Quien quiera recorrer toda la costa oeste de la Istria necesita un [coche de alquiler](https://www.economybookings.com/).
 
 ### ¿Cuándo es más económico visitar Rovinj?
 

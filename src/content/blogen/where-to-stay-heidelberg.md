@@ -10,7 +10,7 @@ bookingDest: "Heidelberg"
 ---
 Heidelberg is one of Germany's most visited cities. The castle looms above the old town, the Neckar reflects the half-timbered houses, and the Old Bridge is one of the most photographed spots in the country. Add a lively university scene with over 30,000 students and you get a city that balances historic charm with a genuinely active daily life.
 
-The choice of neighborhood shapes everything. Old town hotels put you in the middle of the action, quieter neighborhoods keep the prices lower and the crowds at bay, and for visitors arriving by train or with a rental car there are smart budget options too. Here is the full breakdown.
+The choice of neighborhood shapes everything. Old town hotels put you in the middle of the action, quieter neighborhoods keep the prices lower and the crowds at bay, and for visitors arriving by train or with a [rental car](https://www.economybookings.com/) there are smart budget options too. Here is the full breakdown.
 
 ## Which Neighborhood in Heidelberg Fits Which Trip?
 

@@ -70,7 +70,7 @@ Puerto del Rosario and El Cotillo offer the most affordable accommodations from 
 A mid-range hotel or apartment costs 80-150 euros per night. In summer (July-August) and over Christmas/New Year, prices rise. Autumn and spring offer the best value for money.
 
 ### How big is Fuerteventura and do you need a car?
-Fuerteventura is about 100 km long. Anyone wanting to explore multiple areas needs a rental car. Within Corralejo or Caleta de Fuste you can get around on foot. Affordable rental cars are available at the airport.
+Fuerteventura is about 100 km long. Anyone wanting to explore multiple areas needs a [rental car](https://www.economybookings.com/). Within Corralejo or Caleta de Fuste you can get around on foot. Affordable rental cars are available at the airport.
 
 ### What makes Fuerteventura special as a destination?
 Fuerteventura has the longest coastline of all the Canary Islands and the whitest beaches in Spain. The Corralejo Natural Park with its sand dunes, constant wind for kite and windsurfers, and year-round good climate make it one of Europe's most popular destinations.

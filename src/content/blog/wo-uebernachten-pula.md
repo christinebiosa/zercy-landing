@@ -89,7 +89,7 @@ Die Altstadt rund um das Amphitheater und das Forum Romanum ist die erste Wahl. 
 Juni und September sind der Sweet Spot: Das Meer ist warm genug zum Baden, die Hauptsaison ist vorbei oder noch nicht angekommen, die Preise liegen deutlich unter August-Niveau, und das Amphitheater ist gut besuchbar ohne Warteschlangen. Oktober ist perfekt für Feinschmecker wegen der Trüffelsaison.
 
 ### Wie kommt man von Pula in die anderen istrischen Städte?
-Pula hat gute Busverbindungen nach Rovinj (1 Stunde), Poreč (1,5 Stunden) und Rijeka (2 Stunden). Mit dem Mietwagen ist die gesamte Halbinsel in einem Tag erkundbar. Für Tagesausflüge nach Motovun oder Grožnjan im Landesinneren empfiehlt sich ein eigenes Fahrzeug.
+Pula hat gute Busverbindungen nach Rovinj (1 Stunde), Poreč (1,5 Stunden) und Rijeka (2 Stunden). Mit dem [Mietwagen](https://www.economybookings.com/) ist die gesamte Halbinsel in einem Tag erkundbar. Für Tagesausflüge nach Motovun oder Grožnjan im Landesinneren empfiehlt sich ein eigenes Fahrzeug.
 
 ### Was kostet ein Abendessen in Pula?
 In der Altstadt zahlst du in einem guten Restaurant ohne Wein 25 bis 40 Euro pro Person für Meeresfrüchte oder lokale Fleischgerichte. Günstigere Optionen mit Pasta, Pizza oder Ćevapi gibt es schon ab 12 Euro. Istrianische Weine und Olivenöl sind hervorragend und in jedem Restaurant verfügbar.

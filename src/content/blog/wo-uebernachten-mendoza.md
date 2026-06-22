@@ -75,7 +75,7 @@ Mendoza hat trockenes Anden-Klima mit 320 Sonnen­tagen pro Jahr. Die [offiziell
 
 **Wer hier richtig liegt:** Premium-Reisende, Honeymoon, alle die Spitzen-Weine + Anden-Panorama wollen.
 
-**Achtung:** Sehr abgelegen. Mietwagen oder Privattransfer nötig. Mindestens 2 Nächte (1.5 Stunden Fahrt einfach).
+**Achtung:** Sehr abgelegen. [Mietwagen](https://www.economybookings.com/) oder Privattransfer nötig. Mindestens 2 Nächte (1.5 Stunden Fahrt einfach).
 
 **Preise:** Premium 250-550 Euro, Top-Resorts (Vines Resort, Casa de Uco) 400-1.000 Euro.
 

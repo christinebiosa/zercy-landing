@@ -14,7 +14,7 @@ This guide takes you through the classic route: Marrakech as the starting point,
 
 ## What is the best route?
 
-**Marrakech (2 nights):** Your base. The medina, Djemaa el-Fna square, the Bahia Palace, and the souks. Pick up your rental car here, get used to the traffic, and eat as well as you can. Marrakech has some of the best restaurants in North Africa.
+**Marrakech (2 nights):** Your base. The medina, Djemaa el-Fna square, the Bahia Palace, and the souks. Pick up your [rental car](https://www.economybookings.com/) here, get used to the traffic, and eat as well as you can. Marrakech has some of the best restaurants in North Africa.
 
 **Atlas Mountains (1 night):** The N9 over the Tizi n'Tichka Pass at 2,260 meters is one of the most dramatic mountain roads on the continent. Berber villages, almond orchards, views across both sides of the Atlas range. Stop for the night in Aït Benhaddou, the UNESCO-listed fortified village that has served as a backdrop for countless films.
 
