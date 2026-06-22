@@ -3,6 +3,9 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  'kostenlose-stornierung-vs-nicht-erstattbar-hotel': 'hotel-cancellation-rate',
+  'free-cancellation-vs-non-refundable-hotel': 'hotel-cancellation-rate',
+  'cancelacion-gratis-vs-no-reembolsable-hotel': 'hotel-cancellation-rate',
   'wo-uebernachten-sorrent': 'sorrento',
   'where-to-stay-sorrento': 'sorrento',
   'donde-alojarse-sorrento': 'sorrento',
@@ -2752,6 +2755,7 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'hotel-cancellation-rate': 'hotel reception desk',
   'sorrento': 'sorrento italy coast',
   'taormina': 'taormina sicily',
   'lecce': 'lecce puglia',

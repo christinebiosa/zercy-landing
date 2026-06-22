@@ -9,8 +9,18 @@
 //   class: optional, hotel star filter (e.g. "4" for 4-star+)
 //
 // Build URL with same pattern as zercyUrls.bookingHotels but with quality filter.
-// Future: prepend ?aid=YOUR_AID&label=zercy-{slug} when Awin approves.
+// Affiliate-aid wird zentral aus src/config/affiliates.js gezogen (leer = kein Tracking).
+import { BOOKING_AID, BOOKING_LABEL_PREFIX } from '../config/affiliates.js';
 const { dest, lang = 'en', reviewScore = 80, class: starClass } = Astro.props;
+
+// Hängt aid + label an, sobald BOOKING_AID gesetzt ist (sonst URL unverändert).
+function withAid(rawUrl, label) {
+  if (!BOOKING_AID) return rawUrl;
+  const u = new URL(rawUrl);
+  u.searchParams.set('aid', BOOKING_AID);
+  u.searchParams.set('label', `${BOOKING_LABEL_PREFIX}-${label}`);
+  return u.toString();
+}
 
 // Build Booking.com URL with custom filters for higher conversion
 function buildBookingUrl(dest, reviewScore, starClass) {
@@ -31,9 +41,10 @@ function buildBookingUrl(dest, reviewScore, starClass) {
 
 const isGeneric = dest === 'generic';
 
-const url = isGeneric
-  ? 'https://www.booking.com/'
-  : buildBookingUrl(dest, reviewScore, starClass);
+const url = withAid(
+  isGeneric ? 'https://www.booking.com/' : buildBookingUrl(dest, reviewScore, starClass),
+  isGeneric ? 'blog' : dest
+);
 
 const t = {
   de: {
