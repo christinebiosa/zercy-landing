@@ -83,7 +83,7 @@ Comida: desayuno en panadería 3 a 5 euros. Almuerzo en un restaurante tradicion
 
 Museos: Alte Pinakothek en domingo cuesta 1 euro. BMW Welt es gratis. Recinto del Parque Olímpico es gratis. Parque de Nymphenburg es gratis. Con un poco de planificación el gasto cultural se queda pequeño.
 
-Nuestra guía de [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) tiene los mejores trucos para reservar vuelos a Múnich. Y si quieres entender cómo funciona un fin de semana similar en otra ciudad centroeuropea, el guía de [48 horas en Viena](/es/blog/48-horas-viena/) es el mejor punto de comparación.
+Nuestra guía de [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) tiene los mejores trucos para [reservar vuelos](https://www.aviasales.com/) a Múnich. Y si quieres entender cómo funciona un fin de semana similar en otra ciudad centroeuropea, el guía de [48 horas en Viena](/es/blog/48-horas-viena/) es el mejor punto de comparación.
 
 ## ¿Cuándo merece la pena visitar Múnich?
 

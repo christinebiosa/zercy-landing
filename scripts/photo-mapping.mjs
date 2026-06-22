@@ -3,6 +3,12 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  'fahrrad-mieten-reise-guide': 'bike-rental',
+  'renting-a-bike-travel-guide': 'bike-rental',
+  'alquilar-bicicleta-viaje-guia': 'bike-rental',
+  'yacht-chartern-guide': 'yacht-charter',
+  'yacht-charter-guide': 'yacht-charter',
+  'alquilar-yate-guia': 'yacht-charter',
   'priority-pass-lohnt-sich': 'priority-pass',
   'priority-pass-worth-it': 'priority-pass',
   'priority-pass-vale-la-pena': 'priority-pass',
@@ -2773,6 +2779,8 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'bike-rental': 'bicycle rental city',
+  'yacht-charter': 'sailing yacht sea',
   'priority-pass': 'airport lounge',
   'city-pass': 'city sightseeing',
   'best-esim': 'esim phone travel',

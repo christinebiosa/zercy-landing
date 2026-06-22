@@ -50,7 +50,7 @@ Mexico es mas grande que Alemania, Francia y Espana juntas. Querer verlo todo de
 
 **Circuito Yucatan:** Cancun, Tulum, Bacalar, Valladolid, Merida, Chichen Itza. 10-14 dias, sin coche (buenas conexiones ADO). La [guia de Playa del Carmen](/es/blog/donde-alojarse-playa-del-carmen/) muestra una buena base para esta ruta.
 
-Para comparar vuelos, echa un vistazo a los [consejos vuelos baratos](/es/blog/consejos-vuelos-baratos/) con informacion especifica sobre conexiones domesticas.
+Para [comparar vuelos](https://www.aviasales.com/), echa un vistazo a los [consejos vuelos baratos](/es/blog/consejos-vuelos-baratos/) con informacion especifica sobre conexiones domesticas.
 
 ---
 

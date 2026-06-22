@@ -63,7 +63,7 @@ Winter (November to February) is mild and very affordable. Lisbon and Porto are 
 
 ---
 
-Zercy helps you compare flights and hotels for your entire Portugal route in one go. Save all options in the [Zercy Logbook](https://www.zercy.app/logbook) so you have everything handy when booking.
+Zercy helps you [compare flights](https://www.aviasales.com/) and hotels for your entire Portugal route in one go. Save all options in the [Zercy Logbook](https://www.zercy.app/logbook) so you have everything handy when booking.
 
 ## Frequently Asked Questions
 

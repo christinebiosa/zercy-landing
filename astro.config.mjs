@@ -29,7 +29,8 @@ const AFFILIATE_HOSTS = [
   'welcomepickups.com', 'kiwitaxi.com', 'ektatraveling.com', 'airhelp.com',
   'gocity.com', 'tiqets.com', 'klook.com', 'getyourguide.com', 'viator.com',
   'booking.com', 'expedia.com', 'discovercars.com', 'aviasales.com',
-  'economybookings.com', 'autoeurope.com', 'tp.media', 'tp-em.com',
+  'economybookings.com', 'autoeurope.com', 'bikesbooking.com', 'searadar.com',
+  'kiwi.com', 'wegotrip.com', 'kkday.com', 'tp.media', 'tp-em.com',
 ];
 function relForLink(element) {
   const href = String(element?.properties?.href || '');

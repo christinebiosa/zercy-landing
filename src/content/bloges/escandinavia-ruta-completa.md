@@ -68,7 +68,7 @@ Reserva alojamiento con tiempo en [Booking.com](https://www.booking.com). En la 
 
 ---
 
-Zercy te ayuda a comparar vuelos y hoteles para tu ruta por Escandinavia en un solo lugar. Guarda tus mejores opciones en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlas a mano cuando vayas a reservar.
+Zercy te ayuda a [comparar vuelos](https://www.aviasales.com/) y hoteles para tu ruta por Escandinavia en un solo lugar. Guarda tus mejores opciones en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlas a mano cuando vayas a reservar.
 
 ## Preguntas frecuentes
 

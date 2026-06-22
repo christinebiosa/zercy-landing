@@ -67,7 +67,7 @@ Convenience stores (7-Eleven, FamilyMart, Lawson) are Japan's best secret: onigi
 
 ---
 
-Zercy helps you compare flights to Tokyo or Osaka and check live prices. Save your entire Japan route in the [Zercy Logbook](https://www.zercy.app/logbook).
+Zercy helps you [compare flights](https://www.aviasales.com/) to Tokyo or Osaka and check live prices. Save your entire Japan route in the [Zercy Logbook](https://www.zercy.app/logbook).
 
 ## Frequently Asked Questions
 

@@ -56,7 +56,7 @@ If you are traveling to multiple countries on one trip, say a Thailand route wit
 
 ---
 
-Plan your next trip with [Zercy](https://www.zercy.app) and compare flights, hotels, and routes in one step. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Plan your next trip with [Zercy](https://www.zercy.app) and [compare flights](https://www.aviasales.com/), hotels, and routes in one step. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 ---
 

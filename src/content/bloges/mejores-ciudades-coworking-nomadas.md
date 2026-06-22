@@ -73,7 +73,7 @@ El número honesto: coworking (100-300 dólares), alojamiento en piso compartido
 
 ---
 
-Cuando planifiques tu base nómada, guarda las ciudades candidatas en tu [Zercy Logbook](https://www.zercy.app/logbook) para poder comparar vuelos y opciones de alojamiento para todas ellas en un solo lugar.
+Cuando planifiques tu base nómada, guarda las ciudades candidatas en tu [Zercy Logbook](https://www.zercy.app/logbook) para poder [comparar vuelos](https://www.aviasales.com/) y opciones de alojamiento para todas ellas en un solo lugar.
 
 **Más artículos:**
 - [Visas de nómada digital: ¿qué países las ofrecen en 2026?](/es/blog/visa-nomada-digital-paises-2026/)

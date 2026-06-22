@@ -53,7 +53,7 @@ Yes - but it depends on the dress. Quick-dry options like the Athleta Santorini 
 
 ---
 
-Once your bag is packed, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is packed, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Best wrinkle-free travel clothing 2026](/en/blog/best-wrinkle-free-travel-clothing-2026/)

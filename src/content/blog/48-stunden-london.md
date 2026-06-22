@@ -69,7 +69,7 @@ Sehenswürdigkeiten: Tower of London ca. 34 Pfund, Tower Bridge Experience ca. 1
 
 Alles ohne Flug und Hotel: Realistisch 150 bis 250 Pfund für zwei Tage, je nach Theaterticket und Museum-Auswahl.
 
-Wer das Reisegepäck minimieren und günstigere Flüge buchen will: Unser Guide zu [nur mit Handgepäck](/blog/nur-handgepaeck/) spart dir Gepäckgebühren. Und [wann Flüge buchen](/blog/wann-fluege-buchen/) zeigt, ab wann die Preise nach London wieder steigen.
+Wer das Reisegepäck minimieren und günstigere [Flüge buchen](https://www.aviasales.com/) will: Unser Guide zu [nur mit Handgepäck](/blog/nur-handgepaeck/) spart dir Gepäckgebühren. Und [wann Flüge buchen](/blog/wann-fluege-buchen/) zeigt, ab wann die Preise nach London wieder steigen.
 
 ---
 

@@ -61,7 +61,7 @@ Third, estimate your data use realistically. Maps, messengers and a bit of brows
 
 ---
 
-Once your connection is sorted, the real planning begins. With Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook), so you have everything handy when you book.
+Once your connection is sorted, the real planning begins. With Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook), so you have everything handy when you book.
 
 ## More to read
 

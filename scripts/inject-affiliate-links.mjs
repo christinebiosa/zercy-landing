@@ -52,7 +52,7 @@ const RULES = {
     { re: /\bCity ?Pass\b/i, url: 'https://gocity.com/', dom: 'gocity.com' },
     { re: /\bMietwagen\b/i, url: 'https://www.economybookings.com/', dom: 'economybookings.com' },
     { re: /\b(Sehenswürdigkeiten|geführte Touren?)\b/i, url: 'https://www.tiqets.com/', dom: 'tiqets.com' },
-    { re: /\bgünstige Flüge\b/i, url: 'https://www.aviasales.com/', dom: 'aviasales.com' },
+    { re: /\b(Flüge buchen|günstige Flüge|billige Flüge|Flüge vergleichen|Flüge finden)\b/i, url: 'https://www.aviasales.com/', dom: 'aviasales.com' },
   ],
   en: [
     { re: /\beSIMs?\b/i, url: 'https://www.airalo.com/', dom: 'airalo.com' },
@@ -62,7 +62,7 @@ const RULES = {
     { re: /\bcity pass\b/i, url: 'https://gocity.com/', dom: 'gocity.com' },
     { re: /\b(rental cars?|car rentals?|hire a car|car hire)\b/i, url: 'https://www.economybookings.com/', dom: 'economybookings.com' },
     { re: /\b(things to do|guided tours?)\b/i, url: 'https://www.tiqets.com/', dom: 'tiqets.com' },
-    { re: /\bcheap flights\b/i, url: 'https://www.aviasales.com/', dom: 'aviasales.com' },
+    { re: /\b(book flights?|cheap flights|compare flights|find flights|flight deals)\b/i, url: 'https://www.aviasales.com/', dom: 'aviasales.com' },
   ],
   es: [
     { re: /\beSIMs?\b/i, url: 'https://www.airalo.com/', dom: 'airalo.com' },
@@ -72,7 +72,7 @@ const RULES = {
     { re: /\bcity pass\b/i, url: 'https://gocity.com/', dom: 'gocity.com' },
     { re: /\b(alquiler de coche|coche de alquiler|alquiler de auto|renta de auto|alquiler de carro)\b/i, url: 'https://www.economybookings.com/', dom: 'economybookings.com' },
     { re: /\b(qué hacer|tours guiados?)\b/i, url: 'https://www.tiqets.com/', dom: 'tiqets.com' },
-    { re: /\bvuelos baratos\b/i, url: 'https://www.aviasales.com/', dom: 'aviasales.com' },
+    { re: /\b(reservar vuelos?|vuelos baratos|comparar vuelos|buscar vuelos|encontrar vuelos)\b/i, url: 'https://www.aviasales.com/', dom: 'aviasales.com' },
   ],
 };
 

@@ -57,7 +57,7 @@ The season depends entirely on the spot. A general overview:
 
 The [ISA (International Surfing Association)](https://www.isasurf.org) tracks competition schedules and provides a useful overview of regional surf conditions worldwide.
 
-Even during peak season, surf spots have flat days and stormy days. Apps like Surfline or Magic Seaweed provide 16-day forecasts at the spot level. Check them before you book flights.
+Even during peak season, surf spots have flat days and stormy days. Apps like Surfline or Magic Seaweed provide 16-day forecasts at the spot level. Check them before you [book flights](https://www.aviasales.com/).
 
 For cross-country surf road trips, [train travel in Europe](/en/blog/train-travel-europe/) can connect you to multiple Atlantic surf hubs without a [rental car](https://www.economybookings.com/).
 

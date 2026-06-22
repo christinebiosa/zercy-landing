@@ -112,7 +112,7 @@ With numbers, not dreams. Show the savings plan. Show the buffer. Show the retur
 
 More money. More clarity. No one else's opinion that counts. A gap year at 40 is not a second shot at youth. It's a first real shot at the freedom you earned.
 
-Start here. Compare flights, plan your route, find the cheapest travel windows: [zercy.app](https://zercy.app)
+Start here. [Compare flights](https://www.aviasales.com/), plan your route, find the cheapest travel windows: [zercy.app](https://zercy.app)
 
 ---
 

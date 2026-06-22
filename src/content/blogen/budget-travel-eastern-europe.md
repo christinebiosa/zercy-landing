@@ -80,7 +80,7 @@ FlixBus and RegioJet are the cheapest option for short to medium distances, ofte
 
 ### When should you book a trip to Eastern Europe?
 
-Book flights and hotels for spring and autumn six to ten weeks in advance. For summer travel, book earlier since demand in cities like Krakow and Budapest has grown significantly. Travellers with maximum flexibility who visit in January or February will find the lowest absolute prices and almost no competition for accommodation.
+[Book flights](https://www.aviasales.com/) and hotels for spring and autumn six to ten weeks in advance. For summer travel, book earlier since demand in cities like Krakow and Budapest has grown significantly. Travellers with maximum flexibility who visit in January or February will find the lowest absolute prices and almost no competition for accommodation.
 
 ---
 

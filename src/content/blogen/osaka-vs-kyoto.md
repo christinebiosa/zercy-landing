@@ -53,7 +53,7 @@ Hotels: In Osaka, solid 3-star hotels start around $65. In Kyoto, comparable hot
 
 ---
 
-Use [Zercy](https://www.zercy.app) to find flights to Osaka or Tokyo with live prices, and compare hotels in both cities side by side. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Use [Zercy](https://www.zercy.app) to [find flights](https://www.aviasales.com/) to Osaka or Tokyo with live prices, and compare hotels in both cities side by side. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 ---
 

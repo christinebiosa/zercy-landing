@@ -73,7 +73,7 @@ If you are traveling [carry-on only](/en/blog/carry-on-only/), an umbrella under
 
 ---
 
-Once your bag is sorted, the real trip begins: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is sorted, the real trip begins: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 ## Read more
 

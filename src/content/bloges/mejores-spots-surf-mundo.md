@@ -57,7 +57,7 @@ La temporada depende completamente del spot. Una guía general:
 
 La [ISA (International Surfing Association)](https://www.isasurf.org) publica calendarios de competiciones y ofrece una buena panorámica de las condiciones de surf regionales.
 
-Incluso en temporada alta, los spots tienen días planos y días tormentosos. Apps como Surfline o Magic Seaweed ofrecen pronósticos a 16 días por spot. Úsalas antes de reservar vuelos. Para [viajar en tren por Europa](/es/blog/viajes-tren-europa/) es una buena forma de conectar los principales hubs de surf atlántico sin necesidad de coche.
+Incluso en temporada alta, los spots tienen días planos y días tormentosos. Apps como Surfline o Magic Seaweed ofrecen pronósticos a 16 días por spot. Úsalas antes de [reservar vuelos](https://www.aviasales.com/). Para [viajar en tren por Europa](/es/blog/viajes-tren-europa/) es una buena forma de conectar los principales hubs de surf atlántico sin necesidad de coche.
 
 ---
 

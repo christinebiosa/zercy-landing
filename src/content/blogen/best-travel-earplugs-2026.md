@@ -76,7 +76,7 @@ For more comfort on long trips, a [travel blanket for flights](/en/blog/best-tra
 
 ---
 
-Comfort packed? Now plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Comfort packed? Now plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Long-Haul Flight Comfort Guide](/en/blog/long-haul-flight-comfort-guide/)

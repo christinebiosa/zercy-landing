@@ -56,7 +56,7 @@ Para viajes intercontinentales con diferencias horarias de 6 o más horas, plani
 
 La [web oficial de la Asociación de Pediatría de América Latina](https://www.alape.org) tiene recomendaciones específicas sobre medicación para el viaje, mal de altura en niños y vacunas requeridas por destino.
 
-Zercy puede ayudarte a encontrar vuelos con horarios y escalas adecuadas para volar con niños. Guarda tu itinerario familiar en el [Zercy Logbook](https://www.zercy.app/logbook) y ten toda la información organizada antes de salir.
+Zercy puede ayudarte a [encontrar vuelos](https://www.aviasales.com/) con horarios y escalas adecuadas para volar con niños. Guarda tu itinerario familiar en el [Zercy Logbook](https://www.zercy.app/logbook) y ten toda la información organizada antes de salir.
 
 ---
 

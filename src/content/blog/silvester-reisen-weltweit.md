@@ -80,7 +80,7 @@ Wer Südamerika als Silvester-Option in Betracht zieht, findet in unserem [Argen
 
 ### Wann sollte ich für Silvester buchen?
 
-Für beliebte Ziele wie Sydney oder New York idealerweise 6 bis 12 Monate im Voraus. Flüge buchen sich früher voll als Hotels. Wer im Sommer bucht, bekommt die besten Preise.
+Für beliebte Ziele wie Sydney oder New York idealerweise 6 bis 12 Monate im Voraus. [Flüge buchen](https://www.aviasales.com/) sich früher voll als Hotels. Wer im Sommer bucht, bekommt die besten Preise.
 
 ### Welches Silvester-Ziel ist das günstigste?
 

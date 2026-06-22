@@ -69,7 +69,7 @@ The connection to the Old City works via tuk-tuk in 10-15 minutes. Sunset spots 
 
 Fateh Sagar is the more northerly of Udaipur's two main lakes. The promenade along its shore is a local gathering spot, not a tourist attraction. In the evenings, families and young people walk the waterfront. Street food, chai stalls, ordinary Indian city life. Hotels here are cheaper and less touristy.
 
-For travelers who want Udaipur beyond the postcard, Fateh Sagar is the right call. Backpackers with more time and groups prioritizing cost efficiency land here naturally. If you are still figuring out when to book flights for your India trip, our breakdown of [when to book flights](/en/blog/when-to-book-flights/) covers the key windows.
+For travelers who want Udaipur beyond the postcard, Fateh Sagar is the right call. Backpackers with more time and groups prioritizing cost efficiency land here naturally. If you are still figuring out when to [book flights](https://www.aviasales.com/) for your India trip, our breakdown of [when to book flights](/en/blog/when-to-book-flights/) covers the key windows.
 
 **Who fits here:** Budget travelers, longer stays, anyone prioritizing local life.
 

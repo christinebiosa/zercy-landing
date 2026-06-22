@@ -98,7 +98,7 @@ El termómetro, la tarjeta extractora de garrapatas y el gel de aloe vera para q
 
 ---
 
-**Zercy te ayuda a planificar todo el viaje de forma inteligente.** Además de la preparación sanitaria, puedes comparar vuelos y alojamientos directamente en la plataforma. Y en el [diario de viaje de Zercy](https://www.zercy.app/logbook) puedes guardar tu lista de equipaje y tu checklist del botiquín para cada viaje.
+**Zercy te ayuda a planificar todo el viaje de forma inteligente.** Además de la preparación sanitaria, puedes [comparar vuelos](https://www.aviasales.com/) y alojamientos directamente en la plataforma. Y en el [diario de viaje de Zercy](https://www.zercy.app/logbook) puedes guardar tu lista de equipaje y tu checklist del botiquín para cada viaje.
 
 ---
 

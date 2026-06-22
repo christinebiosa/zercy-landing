@@ -66,7 +66,7 @@ Many airlines launch their promotions on Friday evenings. Singapore Airlines, Em
 
 These sales typically run Friday through Sunday only. By Monday, they are gone. Knowing where to look means catching them in time.
 
-[Lonely Planet](https://www.lonelyplanet.com/articles/how-to-find-cheap-flights) regularly lists current flight deals. Secret Flying posts flash sales as well. And airline newsletters themselves are an underrated source. Subscribe to 5 or 6 airlines that serve your preferred routes. The effort: zero. The potential savings: substantial.
+[Lonely Planet](https://www.lonelyplanet.com/articles/how-to-find-cheap-flights) regularly lists current [flight deals](https://www.aviasales.com/). Secret Flying posts flash sales as well. And airline newsletters themselves are an underrated source. Subscribe to 5 or 6 airlines that serve your preferred routes. The effort: zero. The potential savings: substantial.
 
 ## Stacking Tricks for Maximum Savings
 

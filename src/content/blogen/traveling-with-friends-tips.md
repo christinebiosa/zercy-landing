@@ -76,7 +76,7 @@ Curious about which European cities are easiest for group travel? The [weekend g
 
 ---
 
-Planning your next friend group trip? Zercy helps you compare flights, accommodation, and activities for multiple people in one view. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Planning your next friend group trip? Zercy helps you [compare flights](https://www.aviasales.com/), accommodation, and activities for multiple people in one view. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 ## Frequently Asked Questions
 

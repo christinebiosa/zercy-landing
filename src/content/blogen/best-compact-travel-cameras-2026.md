@@ -65,7 +65,7 @@ If aerial shots are part of your plan, [the best travel drones in 2026](/en/blog
 
 ---
 
-Once your gear is sorted, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your gear is sorted, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Best action cameras for travel 2026](/en/blog/best-action-cameras-travel-2026/)

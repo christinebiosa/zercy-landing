@@ -67,7 +67,7 @@ Similar to the Jerte Valley on the Portuguese side: the area around Fundão in t
 The biggest mistake: booking too early without knowing the forecast. Bloom shifts by one to two weeks depending on the winter.
 
 **Three practical rules:**
-1. Book flights 2-3 months in advance but keep hotels flexible with free cancellation. That way you can adjust when short-notice forecasts come in.
+1. [Book flights](https://www.aviasales.com/) 2-3 months in advance but keep hotels flexible with free cancellation. That way you can adjust when short-notice forecasts come in.
 2. For Japan: check the forecast map in January or February, lock in plans by early March at the latest.
 3. For Europe (Bonn, Jerte): follow local weather services and tourism boards. The bloom comes fast and leaves fast.
 

@@ -61,7 +61,7 @@ The rule of thumb: when you are not sure what is ahead, pick the all-rounder. Be
 
 ---
 
-Once your bag is sorted, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is sorted, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [The best packable travel jackets 2026](/en/blog/best-packable-travel-jackets-2026/)

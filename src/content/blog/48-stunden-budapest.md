@@ -91,7 +91,7 @@ Auf [Booking.com](https://www.booking.com) findest du über 800 Budapest-Unterk�
 
 ---
 
-Zercy plant deinen Budapest-Trip: Flüge vergleichen, Hotel buchen, Kreuzfahrt-Optionen checken. Speichere alles im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen nichts vergisst.
+Zercy plant deinen Budapest-Trip: [Flüge vergleichen](https://www.aviasales.com/), Hotel buchen, Kreuzfahrt-Optionen checken. Speichere alles im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen nichts vergisst.
 
 ---
 

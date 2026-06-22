@@ -94,7 +94,7 @@ Responde por escrito con tus argumentos. Luego escala al organismo nacional de s
 
 ---
 
-Planifica con más tranquilidad desde el principio. Zercy te ayuda a comparar vuelos y tomar mejores decisiones de viaje antes de que todo se complique en la puerta de embarque. [Empieza a planificar en zercy.app](https://www.zercy.app/logbook)
+Planifica con más tranquilidad desde el principio. Zercy te ayuda a [comparar vuelos](https://www.aviasales.com/) y tomar mejores decisiones de viaje antes de que todo se complique en la puerta de embarque. [Empieza a planificar en zercy.app](https://www.zercy.app/logbook)
 
 **Más artículos:**
 - [Trucos para el aeropuerto](/es/blog/trucos-aeropuerto/)

@@ -85,7 +85,7 @@ Prague is genuinely one of the cheapest major cities in Europe. 1 euro equals ar
 
 ---
 
-Zercy plans your Prague trip: compare flights, trains or buses, book your hotel. Save everything in the [Zercy Logbook](https://www.zercy.app/logbook) so you don't miss anything when booking.
+Zercy plans your Prague trip: [compare flights](https://www.aviasales.com/), trains or buses, book your hotel. Save everything in the [Zercy Logbook](https://www.zercy.app/logbook) so you don't miss anything when booking.
 
 ---
 

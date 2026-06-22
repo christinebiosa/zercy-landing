@@ -68,7 +68,7 @@ Book accommodation early via [Booking.com](https://www.booking.com) — especial
 
 ---
 
-Zercy can help you compare flights and hotels for your Scandinavia route in one go. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Zercy can help you [compare flights](https://www.aviasales.com/) and hotels for your Scandinavia route in one go. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 ## Frequently Asked Questions
 

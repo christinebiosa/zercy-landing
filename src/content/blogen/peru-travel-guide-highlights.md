@@ -57,7 +57,7 @@ For accommodation: the [where to stay in Lima guide](/en/blog/where-to-stay-lima
 
 ---
 
-Plan your Peru trip with [Zercy](https://www.zercy.app). Compare flights and hotels in Lima, Cusco, and Arequipa in one step. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Plan your Peru trip with [Zercy](https://www.zercy.app). [Compare flights](https://www.aviasales.com/) and hotels in Lima, Cusco, and Arequipa in one step. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 ---
 

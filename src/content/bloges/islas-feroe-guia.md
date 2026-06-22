@@ -47,7 +47,7 @@ Las Feroe son caras para los estándares europeos, similares a Islandia o Norueg
 
 Un presupuesto de 180-250 euros por día por persona es realista para un viaje cómodo. La buena noticia: las atracciones naturales (caminatas, vistas) son gratuitas.
 
-Zercy puede ayudarte a comparar vuelos y alojamiento para las Feroe. Guarda tu itinerario en el [Zercy Logbook](https://www.zercy.app/logbook).
+Zercy puede ayudarte a [comparar vuelos](https://www.aviasales.com/) y alojamiento para las Feroe. Guarda tu itinerario en el [Zercy Logbook](https://www.zercy.app/logbook).
 
 ---
 

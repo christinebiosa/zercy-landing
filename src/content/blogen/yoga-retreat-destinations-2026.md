@@ -94,7 +94,7 @@ Certifications from [Yoga Alliance](https://www.yogaalliance.org) are a reliable
 
 ---
 
-Zercy helps you find flights to your retreat destination. Describe what you are after: a first yoga week in Portugal, an intensive in Bali, a traditional ashram in India. Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options ready when you book.
+Zercy helps you [find flights](https://www.aviasales.com/) to your retreat destination. Describe what you are after: a first yoga week in Portugal, an intensive in Bali, a traditional ashram in India. Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options ready when you book.
 
 ## Frequently Asked Questions
 

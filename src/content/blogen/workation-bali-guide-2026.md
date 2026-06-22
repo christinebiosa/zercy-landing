@@ -69,7 +69,7 @@ For accommodation options across all budgets, check our guide on [Where to Stay 
 
 ---
 
-Before you book, [Zercy](https://www.zercy.app) can help you compare flights to Denpasar from your home city and find accommodation options in Canggu or Ubud. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Before you book, [Zercy](https://www.zercy.app) can help you [compare flights](https://www.aviasales.com/) to Denpasar from your home city and find accommodation options in Canggu or Ubud. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 ## Frequently Asked Questions
 

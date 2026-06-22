@@ -91,7 +91,7 @@ On [Booking.com](https://www.booking.com) you'll find over 800 Budapest properti
 
 ---
 
-Zercy plans your Budapest trip: compare flights, book your hotel, check Danube cruise options. Save everything in the [Zercy Logbook](https://www.zercy.app/logbook) so you don't miss anything when booking.
+Zercy plans your Budapest trip: [compare flights](https://www.aviasales.com/), book your hotel, check Danube cruise options. Save everything in the [Zercy Logbook](https://www.zercy.app/logbook) so you don't miss anything when booking.
 
 ---
 

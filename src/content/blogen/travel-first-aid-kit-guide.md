@@ -98,7 +98,7 @@ A thermometer, a tick removal card, and aloe vera gel for sunburn. Also commonly
 
 ---
 
-**Zercy helps you plan the whole trip smartly.** Beyond health prep, you can compare flights and accommodation options directly on the platform. And in the [Zercy travel logbook](https://www.zercy.app/logbook) you can save your packing list and first aid checklist for every trip.
+**Zercy helps you plan the whole trip smartly.** Beyond health prep, you can [compare flights](https://www.aviasales.com/) and accommodation options directly on the platform. And in the [Zercy travel logbook](https://www.zercy.app/logbook) you can save your packing list and first aid checklist for every trip.
 
 ---
 

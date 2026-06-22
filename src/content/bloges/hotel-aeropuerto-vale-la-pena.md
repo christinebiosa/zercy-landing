@@ -76,7 +76,7 @@ Segundo: sé flexible con la ubicación. Los hoteles a 10 o 15 minutos del termi
 
 Tercero: compara los paquetes Park & Sleep. Cinco días de aparcamiento en el aeropuerto de Frankfurt puede costar fácilmente entre 80 y 120 euros. Un hotel con aparcamiento y una noche puede salir más barato o al mismo precio.
 
-Si quieres aprender a encontrar vuelos más baratos en general: [Cuándo reservar vuelos para conseguir el mejor precio](/es/blog/cuando-reservar-vuelos/). Y si viajas [solo con equipaje de mano](/es/blog/solo-equipaje-de-mano/), toda la logística del aeropuerto se simplifica considerablemente.
+Si quieres aprender a [encontrar vuelos](https://www.aviasales.com/) más baratos en general: [Cuándo reservar vuelos para conseguir el mejor precio](/es/blog/cuando-reservar-vuelos/). Y si viajas [solo con equipaje de mano](/es/blog/solo-equipaje-de-mano/), toda la logística del aeropuerto se simplifica considerablemente.
 
 ---
 

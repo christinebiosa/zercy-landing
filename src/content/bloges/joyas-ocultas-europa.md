@@ -40,7 +40,7 @@ Los Balcanes (Albania, Bosnia, Montenegro, Macedonia del Norte, Kosovo, Serbia) 
 
 El ciclo es siempre el mismo: destino auténtico → aparece en listas de viaje → turismo crece → sube el precio → pierde autenticidad → aparecen las guías sobre "la versión sin turistas de X". Los Balcanes están al principio de ese ciclo. Por ahora.
 
-Zercy puede ayudarte a comparar vuelos y alojamiento para cualquier destino de esta lista. Guarda tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook).
+Zercy puede ayudarte a [comparar vuelos](https://www.aviasales.com/) y alojamiento para cualquier destino de esta lista. Guarda tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook).
 
 ---
 

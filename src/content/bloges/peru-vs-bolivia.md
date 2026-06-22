@@ -47,7 +47,7 @@ Recomendación: hacer Perú primero te prepara mejor para Bolivia. Llegar direct
 
 **Los dos países** caben bien en 3-4 semanas. Una ruta clásica: Lima → Cusco → Machu Picchu → Puno → Lago Titicaca → La Paz → Uyuni. Los últimas etapas se combinan fácilmente en autobús o tren.
 
-Para reservar vuelos: [consejos vuelos baratos](/es/blog/consejos-vuelos-baratos/) cubre la mejor estrategia para vuelos de larga distancia a Lima o La Paz. Para un viaje más amplio por Sudamérica, [Patagonia 3 semanas ruta](/es/blog/patagonia-3-semanas-ruta/) es una extensión natural.
+Para [reservar vuelos](https://www.aviasales.com/): [consejos vuelos baratos](/es/blog/consejos-vuelos-baratos/) cubre la mejor estrategia para vuelos de larga distancia a Lima o La Paz. Para un viaje más amplio por Sudamérica, [Patagonia 3 semanas ruta](/es/blog/patagonia-3-semanas-ruta/) es una extensión natural.
 
 ---
 

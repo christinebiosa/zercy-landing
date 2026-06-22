@@ -58,7 +58,7 @@ Las escalas largas (3 horas o más) son más cómodas que las cortas. Con 45 min
 
 Los accesos de movilidad reducida en aeropuertos son gratuitos y no implican necesariamente ir en silla de ruedas: incluyen asistencia con el equipaje, carritos eléctricos y embarque prioritario. Se solicitan al comprar el billete o llamando a la aerolínea.
 
-Zercy puede ayudarte a comparar vuelos con escalas cómodas y encontrar el alojamiento adecuado para tu próximo viaje después de los 60. Guarda tu itinerario en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlo todo organizado.
+Zercy puede ayudarte a [comparar vuelos](https://www.aviasales.com/) con escalas cómodas y encontrar el alojamiento adecuado para tu próximo viaje después de los 60. Guarda tu itinerario en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlo todo organizado.
 
 ---
 

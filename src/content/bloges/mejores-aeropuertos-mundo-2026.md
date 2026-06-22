@@ -20,7 +20,7 @@ El Jewel Changi, el complejo cubierto por una cúpula de cristal conectado al Te
 
 Lo más valioso: si tu escala con Singapore Airlines dura cinco horas o más, puedes salir del aeropuerto y explorar la ciudad gratis. Singapore Airlines y Scoot tienen un programa oficial de visitas gratuitas que incluye transporte al centro de la ciudad. Un día en una de las ciudades más fascinantes de Asia, sin pagar nada extra. Eso es [turismo de stopover](/es/blog/guia-stopover-turismo/) en su máxima expresión.
 
-Para tu ruta: Zercy te ayuda a encontrar vuelos con escalas inteligentes en Singapur. Si el precio funciona y tienes cinco horas, esa conexión se convierte en un destino adicional.
+Para tu ruta: Zercy te ayuda a [encontrar vuelos](https://www.aviasales.com/) con escalas inteligentes en Singapur. Si el precio funciona y tienes cinco horas, esa conexión se convierte en un destino adicional.
 
 ## ¿Qué aeropuertos ocupan el segundo y tercer lugar en 2026?
 

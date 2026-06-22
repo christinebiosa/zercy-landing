@@ -82,4 +82,4 @@ June through August is cold and wet outside of ski areas, with some high-altitud
 It depends on what you want. The North Island is warmer year-round, with Maori culture, geothermal parks, and cities like Auckland and Wellington. The South Island has dramatic fjords, the Alps, and world-class hiking. Most two-week itineraries combine both.
 
 ### How far in advance should you book for New Zealand?
-For summer (December to February), book flights and accommodation three to six months ahead. Great Walk hut passes open for booking six months in advance and sell out fast, especially the Milford Track. Shoulder season travel (March-May, October-November) needs two to three months' lead time for popular areas like Queenstown.
+For summer (December to February), [book flights](https://www.aviasales.com/) and accommodation three to six months ahead. Great Walk hut passes open for booking six months in advance and sell out fast, especially the Milford Track. Shoulder season travel (March-May, October-November) needs two to three months' lead time for popular areas like Queenstown.

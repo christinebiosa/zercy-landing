@@ -28,7 +28,7 @@ Un Pastel de Nata cuesta 1-1,50 euros en ambas ciudades, a veces más en las pas
 
 Hoteles: en Lisboa, un buen hotel de 3 estrellas en el centro cuesta 90-130 euros por noche en temporada alta. Oporto es algo más barata, 70-110 euros por calidad comparable. Las dos ciudades tienen un mercado muy estacional. Semana Santa y verano son caros, otoño e invierno son más baratos y a menudo más agradables.
 
-Para elegir bien el momento de reservar vuelos, consulta [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) y [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/).
+Para elegir bien el momento de [reservar vuelos](https://www.aviasales.com/), consulta [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) y [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/).
 
 ## ¿Qué tiene Lisboa que Oporto no tiene?
 

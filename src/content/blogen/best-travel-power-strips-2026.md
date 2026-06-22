@@ -59,7 +59,7 @@ The strip should also not rely on a grounding pin that many countries don't supp
 
 ---
 
-Once your gear is sorted, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your gear is sorted, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Best solar power banks 2026](/en/blog/best-solar-power-banks-2026/)

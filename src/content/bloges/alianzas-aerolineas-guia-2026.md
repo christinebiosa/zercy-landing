@@ -96,7 +96,7 @@ La [web oficial de Star Alliance](https://www.staralliance.com) y [oneworld.com]
 
 ---
 
-Zercy considera automáticamente las aerolíneas aliadas al buscar vuelos y encuentra conexiones difíciles de encontrar manualmente. Guarda tus rutas favoritas en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo a mano cuando reserves.
+Zercy considera automáticamente las aerolíneas aliadas al [buscar vuelos](https://www.aviasales.com/) y encuentra conexiones difíciles de encontrar manualmente. Guarda tus rutas favoritas en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo a mano cuando reserves.
 
 ## Preguntas frecuentes
 

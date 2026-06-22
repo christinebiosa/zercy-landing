@@ -67,7 +67,7 @@ Los konbini (tiendas de conveniencia: 7-Eleven, FamilyMart, Lawson) son el mejor
 
 ---
 
-Zercy te ayuda a comparar vuelos a Tokio u Osaka y ver precios en tiempo real. Guarda toda tu ruta por Japón en el [Zercy Logbook](https://www.zercy.app/logbook).
+Zercy te ayuda a [comparar vuelos](https://www.aviasales.com/) a Tokio u Osaka y ver precios en tiempo real. Guarda toda tu ruta por Japón en el [Zercy Logbook](https://www.zercy.app/logbook).
 
 ## Preguntas frecuentes
 

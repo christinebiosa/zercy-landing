@@ -75,7 +75,7 @@ Want to nail the carry-on-only approach? See our [Carry-On Only Travel Guide](/e
 
 ## Plan Your Route with Zercy
 
-Zercy helps you compare flights and trains for your backpacking route in one place — no switching between five tabs. Enter your route, and Zercy shows you connections and prices across your whole trip.
+Zercy helps you [compare flights](https://www.aviasales.com/) and trains for your backpacking route in one place — no switching between five tabs. Enter your route, and Zercy shows you connections and prices across your whole trip.
 
 Start planning your Europe route at [zercy.app](https://www.zercy.app/logbook).
 

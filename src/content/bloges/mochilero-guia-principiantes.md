@@ -61,7 +61,7 @@ Principio básico: el costo de vida local es el referente, no los precios europe
 
 Sudeste Asiático: €30-50/día. Europa Occidental: €50-80/día. Centroamérica: €40-60/día. Australia: €80-120/día.
 
-Trucos de presupuesto que realmente funcionan: puestos de comida local en lugar de restaurantes turísticos. Trenes nocturnos en lugar de hotel más tiquete. Reservar vuelos internacionales con anticipación, luego mantener flexibilidad. Free walking tours en casi todas las ciudades principales.
+Trucos de presupuesto que realmente funcionan: puestos de comida local en lugar de restaurantes turísticos. Trenes nocturnos en lugar de hotel más tiquete. [Reservar vuelos](https://www.aviasales.com/) internacionales con anticipación, luego mantener flexibilidad. Free walking tours en casi todas las ciudades principales.
 
 El [seguro de viaje para mochileros](/es/blog/seguro-viaje-vale-la-pena/) es esencial, no opcional. Para 3 meses de viaje cuesta €100-150 y te salva en caso de pérdida de equipaje, hospitalización o cancelación.
 

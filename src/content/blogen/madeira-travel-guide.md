@@ -59,7 +59,7 @@ Levada walks: free, except [guided tours](https://www.tiqets.com/) (€40-60 per
 
 Food: restaurant lunch for €10-15. Madeiran wine (Poncha, Nikita) and fresh tuna are essential.
 
-Zercy helps you plan: compare flights and save all your accommodation options in the [Zercy Logbook](https://www.zercy.app/logbook).
+Zercy helps you plan: [compare flights](https://www.aviasales.com/) and save all your accommodation options in the [Zercy Logbook](https://www.zercy.app/logbook).
 
 ---
 

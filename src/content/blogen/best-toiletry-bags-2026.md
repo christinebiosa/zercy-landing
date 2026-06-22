@@ -45,7 +45,7 @@ One more thing worth packing regardless of trip length: a small first aid kit. P
 
 ---
 
-Once your bag is sorted, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is sorted, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Best packing cubes 2026](/en/blog/best-packing-cubes-2026/)

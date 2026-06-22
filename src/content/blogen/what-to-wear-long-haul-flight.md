@@ -61,7 +61,7 @@ For a broader look at everything that makes a long flight bearable, the [long-ha
 
 ---
 
-Comfort sorted? Now plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Comfort sorted? Now plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Long-haul flight comfort guide: everything that helps](/en/blog/long-haul-flight-comfort-guide/)

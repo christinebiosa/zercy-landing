@@ -65,7 +65,7 @@ If you're traveling light and want to maximize every corner of your pack, take a
 
 ---
 
-Once your bag is packed and the bottle is folded flat, the real trip begins: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is packed and the bottle is folded flat, the real trip begins: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Travel Packing List: What Really Goes In](/en/blog/travel-packing-list-essentials/)

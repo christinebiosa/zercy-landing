@@ -20,7 +20,7 @@ Jewel Changi, the glass-canopied attraction connected to Terminal 1, holds the R
 
 The real highlight: if your layover with Singapore Airlines is five hours or longer, you can leave the airport and explore the city for free. Singapore Airlines and Scoot run an official free stopover tour program that includes shuttle transfers into the city center. One day in one of Asia's most compelling cities, at no added cost. That is stopover tourism at its best.
 
-For your routing: Zercy helps you find flights with smart layovers in Singapore. If the price works and you have five hours, that connection becomes a bonus destination.
+For your routing: Zercy helps you [find flights](https://www.aviasales.com/) with smart layovers in Singapore. If the price works and you have five hours, that connection becomes a bonus destination.
 
 ## Which airports rank second and third in 2026?
 

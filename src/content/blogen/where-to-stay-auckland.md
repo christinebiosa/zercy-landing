@@ -83,7 +83,7 @@ If you're deciding between Waiheke Island and a city base: most first-time visit
 
 ---
 
-Use [Zercy](https://www.zercy.app) to compare flights to Auckland alongside accommodation options across different travel dates. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so you have all your options in one place when you're ready to book.
+Use [Zercy](https://www.zercy.app) to [compare flights](https://www.aviasales.com/) to Auckland alongside accommodation options across different travel dates. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so you have all your options in one place when you're ready to book.
 
 ## Frequently Asked Questions
 

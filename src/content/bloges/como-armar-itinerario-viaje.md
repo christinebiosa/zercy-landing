@@ -71,7 +71,7 @@ Aqui hay una estructura concreta que funciona bien en la practica. Adaptable par
 
 Para viajes en grupo: un Google Doc compartido o una app como Wanderlog mantiene a todos al dia. Para viajar solo, una libreta o la app de notas del movil suele ser suficiente.
 
-Mas sobre como reservar vuelos y planificar con inteligencia: [cuando reservar vuelos](/es/blog/cuando-reservar-vuelos/) y [consejos para volar barato](/es/blog/consejos-vuelos-baratos/).
+Mas sobre como [reservar vuelos](https://www.aviasales.com/) y planificar con inteligencia: [cuando reservar vuelos](/es/blog/cuando-reservar-vuelos/) y [consejos para volar barato](/es/blog/consejos-vuelos-baratos/).
 
 ---
 

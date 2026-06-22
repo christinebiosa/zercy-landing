@@ -52,7 +52,7 @@ The common operator trick: all-inclusive sounds like total peace of mind, but th
 
 Between "everything packaged" and "everything independent" there's a very practical middle ground. It works best for most travelers.
 
-Book flights and accommodation yourself via Booking.com, Expedia, or Google Flights. This is usually cheaper than a bundled package and gives you control over quality and location.
+[Book flights](https://www.aviasales.com/) and accommodation yourself via Booking.com, Expedia, or Google Flights. This is usually cheaper than a bundled package and gives you control over quality and location.
 
 Book activities and tours through local operators on the ground, or via Viator or GetYourGuide. Professional local guides for half-day excursions, but no rigid full-program commitment.
 

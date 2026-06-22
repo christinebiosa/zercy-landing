@@ -67,7 +67,7 @@ April and May are particularly good: Rio sees minimal rain, temperatures sit at 
 
 For beach trips on a budget, the northeast shines between October and December. Dry and warm, but prices are still moderate before the Christmas rush hits.
 
-If you are linking Brazil with a Peruvian side trip, note that the [best time to visit Peru](/en/blog/best-time-to-visit-peru/) follows a different seasonal calendar - worth aligning before you book flights.
+If you are linking Brazil with a Peruvian side trip, note that the [best time to visit Peru](/en/blog/best-time-to-visit-peru/) follows a different seasonal calendar - worth aligning before you [book flights](https://www.aviasales.com/).
 
 ---
 

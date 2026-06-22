@@ -11,7 +11,7 @@ bookingDest: "Colombo"
 
 Sri Lanka has two monsoons. That one sentence is the most important thing to understand before you book. The Yala monsoon hits the south and west coast from May to October. The Maha monsoon hits the east and north coast from October to January. The island is beautiful almost all year round. Just not everywhere at the same time.
 
-What that means in practice: if you want beaches around Colombo, Galle, or Mirissa, travel between December and March. If you're planning Trincomalee or Arugam Bay, book flights for May through September. And if you're heading to the hill country around Kandy or Ella, you can go almost any time. The rest of this guide breaks it down month by month, with concrete advice for every type of trip.
+What that means in practice: if you want beaches around Colombo, Galle, or Mirissa, travel between December and March. If you're planning Trincomalee or Arugam Bay, [book flights](https://www.aviasales.com/) for May through September. And if you're heading to the hill country around Kandy or Ella, you can go almost any time. The rest of this guide breaks it down month by month, with concrete advice for every type of trip.
 
 ## When to Visit the South and West Coast
 

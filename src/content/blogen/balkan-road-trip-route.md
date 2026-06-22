@@ -65,7 +65,7 @@ Winter (December to March) is off-season — cheap, but many sights have reduced
 
 ---
 
-Zercy helps you compare flights and hotels for your entire Balkan route. Save all the stages in the [Zercy Logbook](https://www.zercy.app/logbook) so you have everything ready when you book.
+Zercy helps you [compare flights](https://www.aviasales.com/) and hotels for your entire Balkan route. Save all the stages in the [Zercy Logbook](https://www.zercy.app/logbook) so you have everything ready when you book.
 
 ## Frequently Asked Questions
 

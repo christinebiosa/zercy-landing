@@ -73,7 +73,7 @@ The honest number: coworking ($100-300), accommodation in a flatshare or budget 
 
 ---
 
-When planning your nomad base, save your candidate cities in the [Zercy Logbook](https://www.zercy.app/logbook) so you can compare flights and accommodation options for all of them in one place.
+When planning your nomad base, save your candidate cities in the [Zercy Logbook](https://www.zercy.app/logbook) so you can [compare flights](https://www.aviasales.com/) and accommodation options for all of them in one place.
 
 **Read more:**
 - [Digital nomad visas: which countries offer them in 2026?](/en/blog/digital-nomad-visa-countries-2026/)

@@ -81,7 +81,7 @@ A small hotel with character beats every Marriott.
 
 ---
 
-Zercy doesn't just find flights — when planning your trip, Zercy thinks about accommodation too and gives you relevant booking links directly.
+Zercy doesn't just [find flights](https://www.aviasales.com/) — when planning your trip, Zercy thinks about accommodation too and gives you relevant booking links directly.
 
 ## Frequently Asked Questions
 

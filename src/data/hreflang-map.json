@@ -3339,6 +3339,21 @@
     "en": "https://www.zercy.app/en/blog/faroe-islands-guide/",
     "es": "https://www.zercy.app/es/blog/islas-feroe-guia/"
   },
+  "fahrrad-mieten-reise-guide": {
+    "de": "https://www.zercy.app/blog/fahrrad-mieten-reise-guide/",
+    "en": "https://www.zercy.app/en/blog/renting-a-bike-travel-guide/",
+    "es": "https://www.zercy.app/es/blog/alquilar-bicicleta-viaje-guia/"
+  },
+  "renting-a-bike-travel-guide": {
+    "de": "https://www.zercy.app/blog/fahrrad-mieten-reise-guide/",
+    "en": "https://www.zercy.app/en/blog/renting-a-bike-travel-guide/",
+    "es": "https://www.zercy.app/es/blog/alquilar-bicicleta-viaje-guia/"
+  },
+  "alquilar-bicicleta-viaje-guia": {
+    "de": "https://www.zercy.app/blog/fahrrad-mieten-reise-guide/",
+    "en": "https://www.zercy.app/en/blog/renting-a-bike-travel-guide/",
+    "es": "https://www.zercy.app/es/blog/alquilar-bicicleta-viaje-guia/"
+  },
   "familienurlaub-europa-ziele": {
     "de": "https://www.zercy.app/blog/familienurlaub-europa-ziele/",
     "en": "https://www.zercy.app/en/blog/family-travel-europe-best-destinations/",
@@ -12163,6 +12178,21 @@
     "de": "https://www.zercy.app/blog/wueste-reiseziele/",
     "en": "https://www.zercy.app/en/blog/best-desert-destinations-world/",
     "es": "https://www.zercy.app/es/blog/mejores-destinos-desierto/"
+  },
+  "yacht-chartern-guide": {
+    "de": "https://www.zercy.app/blog/yacht-chartern-guide/",
+    "en": "https://www.zercy.app/en/blog/yacht-charter-guide/",
+    "es": "https://www.zercy.app/es/blog/alquilar-yate-guia/"
+  },
+  "yacht-charter-guide": {
+    "de": "https://www.zercy.app/blog/yacht-chartern-guide/",
+    "en": "https://www.zercy.app/en/blog/yacht-charter-guide/",
+    "es": "https://www.zercy.app/es/blog/alquilar-yate-guia/"
+  },
+  "alquilar-yate-guia": {
+    "de": "https://www.zercy.app/blog/yacht-chartern-guide/",
+    "en": "https://www.zercy.app/en/blog/yacht-charter-guide/",
+    "es": "https://www.zercy.app/es/blog/alquilar-yate-guia/"
   },
   "yoga-retreat-reiseziele-2026": {
     "de": "https://www.zercy.app/blog/yoga-retreat-reiseziele-2026/",

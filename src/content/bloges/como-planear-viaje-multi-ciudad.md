@@ -13,7 +13,7 @@ Un viaje multi-ciudad funciona cuando la ruta, el ritmo y la logística del equi
 
 ## ¿Cómo planeas la ruta óptima sin rodeos innecesarios?
 
-El error más común: reservar vuelos según disponibilidad y no según geografía. El resultado es una ruta que te lleva de Ámsterdam a Lisboa y de vuelta a París, con tres vuelos que perfectamente podrían haber sido dos.
+El error más común: [reservar vuelos](https://www.aviasales.com/) según disponibilidad y no según geografía. El resultado es una ruta que te lleva de Ámsterdam a Lisboa y de vuelta a París, con tres vuelos que perfectamente podrían haber sido dos.
 
 La solución se llama billete open-jaw. Llegas a una ciudad y sales de otra diferente. Ejemplo: vuelo a Barcelona, viaje terrestre por el sur de Francia, vuelo de regreso desde París. Sin rodeos, sin desperdiciar un día volviendo al punto de partida. La mayoría de buscadores ([Google Flights](https://www.google.com/flights), Kayak) tienen una opción de búsqueda multi-ciudad donde combinas hasta cinco paradas y comparas precios al instante.
 

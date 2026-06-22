@@ -65,7 +65,7 @@ Don't forget: a good [reef-safe sunscreen](/en/blog/best-reef-safe-sunscreen-tra
 
 ---
 
-Once your beach kit is sorted, the real trip begins: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your beach kit is sorted, the real trip begins: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Best Reef-Safe Sunscreen for Travel](/en/blog/best-reef-safe-sunscreen-travel/)

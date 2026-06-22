@@ -51,7 +51,7 @@ Run the math: if you take two merino shirts instead of four cotton t-shirts, you
 
 ---
 
-Once your bag is packed, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is packed, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Carry-on only travel](/en/blog/carry-on-only/)

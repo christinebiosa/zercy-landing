@@ -101,7 +101,7 @@ Savings tips: Bónus supermarket instead of restaurants. Hot dogs (pylsur) are t
 
 ---
 
-Zercy helps you find flights to Keflavik, the right rental car with proper insurance and accommodations along the Ring Road. The [Zercy Logbook](/en/blog/zercy-logbook/) organizes all bookings as a timeline, so your 8-day Ring Road trip stays manageable.
+Zercy helps you [find flights](https://www.aviasales.com/) to Keflavik, the right rental car with proper insurance and accommodations along the Ring Road. The [Zercy Logbook](/en/blog/zercy-logbook/) organizes all bookings as a timeline, so your 8-day Ring Road trip stays manageable.
 
 **Read more:** [Rental consolidators: how they save you money](/en/blog/rental-consolidators-save-money/) · [Car rental traps: hidden costs and how to avoid them](/en/blog/rental-car-hidden-costs-avoid/) · [Hidden gems of Europe](/en/blog/hidden-gems-europe/)
 

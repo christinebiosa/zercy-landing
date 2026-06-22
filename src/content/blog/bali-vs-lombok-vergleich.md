@@ -90,7 +90,7 @@ Unser [Bali-Unterkunft-Guide](/blog/wo-uebernachten-bali/) zeigt die besten Vier
 
 ---
 
-Zercy hilft dir, deinen Bali-Lombok-Trip zu planen: Flüge vergleichen, Hotels finden, Fährzeiten prüfen. Beschreib einfach was du suchst und du bekommst konkrete Optionen. Speichere deine Favoriten im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alles auf einen Blick hast.
+Zercy hilft dir, deinen Bali-Lombok-Trip zu planen: [Flüge vergleichen](https://www.aviasales.com/), Hotels finden, Fährzeiten prüfen. Beschreib einfach was du suchst und du bekommst konkrete Optionen. Speichere deine Favoriten im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alles auf einen Blick hast.
 
 ## Häufige Fragen
 

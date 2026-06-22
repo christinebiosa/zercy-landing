@@ -72,7 +72,7 @@ For what else belongs in your bag, the [travel packing list](/en/blog/travel-pac
 
 ---
 
-Once your bag is sorted, the real trip begins: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is sorted, the real trip begins: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 ## Read more
 - [Carry-On Only Travel: The Complete Guide](/en/blog/carry-on-only/)

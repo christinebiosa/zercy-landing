@@ -62,7 +62,7 @@ Less useful for pure city breaks or beach holidays with no outdoor element. For 
 
 ---
 
-Once your bag is packed, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is packed, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Mountain Trip Outfits: What Actually Works](/en/blog/mountain-trip-outfits/)

@@ -81,7 +81,7 @@ October to April is spring and summer in the Southern Hemisphere. Best season to
 
 ---
 
-Use [Zercy](https://www.zercy.app) to compare flights to Santiago alongside accommodation options for different travel dates. Save your top picks in the [Zercy Logbook](https://www.zercy.app/logbook) so everything is ready when you're ready to book.
+Use [Zercy](https://www.zercy.app) to [compare flights](https://www.aviasales.com/) to Santiago alongside accommodation options for different travel dates. Save your top picks in the [Zercy Logbook](https://www.zercy.app/logbook) so everything is ready when you're ready to book.
 
 ## Frequently Asked Questions
 

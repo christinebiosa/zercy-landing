@@ -49,7 +49,7 @@ How to convert: Wh = mAh ÷ 1,000 × Volts (lithium cells typically run at 3.6 V
 
 ---
 
-Once your gear is sorted, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your gear is sorted, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Best Travel Water Filter Bottles 2026](/en/blog/best-travel-water-filter-bottles-2026/)

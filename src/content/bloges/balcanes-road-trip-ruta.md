@@ -65,7 +65,7 @@ El invierno (diciembre a marzo) es temporada baja, barato, pero muchos sitios ti
 
 ---
 
-Zercy te ayuda a comparar vuelos y hoteles para toda tu ruta por los Balcanes. Guarda todas las etapas en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlo todo listo cuando reserves.
+Zercy te ayuda a [comparar vuelos](https://www.aviasales.com/) y hoteles para toda tu ruta por los Balcanes. Guarda todas las etapas en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlo todo listo cuando reserves.
 
 ## Preguntas frecuentes
 

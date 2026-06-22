@@ -58,7 +58,7 @@ Desglose honesto de costos por persona:
 - **Premium (Mykonos, Bali, Reikiavik):** 1.500-2.500 euros por semana
 
 Consejos para ahorrar:
-- Reservar vuelos 3-4 meses con anticipación. Más sobre tiempos en [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/).
+- [Reservar vuelos](https://www.aviasales.com/) 3-4 meses con anticipación. Más sobre tiempos en [cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/).
 - Casa de vacaciones en lugar de hotel: casi siempre más barato para grupos de 4-6 personas.
 - Volar entre semana: martes y miércoles son los días más baratos.
 

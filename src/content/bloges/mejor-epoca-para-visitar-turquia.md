@@ -55,7 +55,7 @@ Si el plan incluye Capadocia, consulta también [dónde alojarse en Capadocia](/
 
 ---
 
-Cuando tengas definido el itinerario, Zercy puede ayudarte a comparar vuelos directos e indirectos a Estambul o Antalya. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo en un solo lugar antes de reservar.
+Cuando tengas definido el itinerario, Zercy puede ayudarte a [comparar vuelos](https://www.aviasales.com/) directos e indirectos a Estambul o Antalya. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo en un solo lugar antes de reservar.
 
 ## Preguntas frecuentes
 

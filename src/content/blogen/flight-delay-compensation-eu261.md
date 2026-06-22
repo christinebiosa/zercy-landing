@@ -92,7 +92,7 @@ Reply in writing with a counter-argument. Then escalate to the national enforcem
 
 ---
 
-Plan smarter from the start. Zercy helps you compare flights and make better travel decisions before things go sideways at the gate. [Start planning at zercy.app](https://www.zercy.app/logbook)
+Plan smarter from the start. Zercy helps you [compare flights](https://www.aviasales.com/) and make better travel decisions before things go sideways at the gate. [Start planning at zercy.app](https://www.zercy.app/logbook)
 
 **Read more:**
 - [Airport Hacks for Stress-Free Travel](/en/blog/airport-hacks/)

@@ -56,7 +56,7 @@ Esta ruta combina la autenticidad del Algarve con la energía urbana de la Costa
 
 ---
 
-Zercy te ayuda a comparar vuelos a Faro o Málaga en paralelo, incluyendo combinaciones open-jaw. Guarda tu ruta favorita en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano cuando reserves.
+Zercy te ayuda a [comparar vuelos](https://www.aviasales.com/) a Faro o Málaga en paralelo, incluyendo combinaciones open-jaw. Guarda tu ruta favorita en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano cuando reserves.
 
 ## Preguntas frecuentes
 

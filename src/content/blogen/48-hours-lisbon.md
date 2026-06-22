@@ -93,7 +93,7 @@ For more on what makes Lisbon special beyond the tourist trail, see our [Lisbon 
 
 ---
 
-Zercy plans your Lisbon trip in minutes: compare flights, hotels and all options without 5 open tabs. Save your selection in the [Zercy Logbook](https://www.zercy.app/logbook) so you have everything ready when booking.
+Zercy plans your Lisbon trip in minutes: [compare flights](https://www.aviasales.com/), hotels and all options without 5 open tabs. Save your selection in the [Zercy Logbook](https://www.zercy.app/logbook) so you have everything ready when booking.
 
 ## Frequently Asked Questions
 

@@ -51,7 +51,7 @@ Para el alojamiento, la guía de [dónde alojarse en Bali](/es/blog/donde-alojar
 
 ---
 
-Cuando tengas clara la época, usa Zercy para buscar vuelos con fechas flexibles y comparar precios. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo listo cuando llegue el momento de reservar.
+Cuando tengas clara la época, usa Zercy para [buscar vuelos](https://www.aviasales.com/) con fechas flexibles y comparar precios. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo listo cuando llegue el momento de reservar.
 
 ## Preguntas frecuentes
 

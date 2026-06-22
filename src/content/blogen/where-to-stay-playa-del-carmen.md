@@ -83,7 +83,7 @@ For a comparison between all-inclusive and independent hotel stays, check our [A
 
 ---
 
-Use [Zercy](https://www.zercy.app) to compare flights into Cancún (CUN) alongside Playa del Carmen accommodation options for different travel dates. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so everything is ready when you're ready to book.
+Use [Zercy](https://www.zercy.app) to [compare flights](https://www.aviasales.com/) into Cancún (CUN) alongside Playa del Carmen accommodation options for different travel dates. Save your shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) so everything is ready when you're ready to book.
 
 ## Frequently Asked Questions
 

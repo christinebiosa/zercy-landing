@@ -47,7 +47,7 @@ Controlled substances and psychotropics are regulated more strictly. Some countr
 
 ---
 
-Comfort packed? Now plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Comfort packed? Now plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Travel first aid kit: what actually belongs inside](/en/blog/travel-first-aid-kit-guide/)

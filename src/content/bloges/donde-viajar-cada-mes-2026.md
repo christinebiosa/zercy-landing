@@ -58,7 +58,7 @@ Sí, Bali tiene temporada de lluvias en diciembre. Pero los aguaceros suelen lle
 El clima es solo una pieza. También debes tener en cuenta los días festivos locales, los precios en temporada alta de las aerolíneas de tu país y los eventos especiales. Mucha gente subestima cuánto influyen las vacaciones escolares europeas en los precios de vuelos en todo el mundo. El movimiento inteligente: aprovechar las vacaciones de otoño o volar justo después del pico estival.
 
 **Links útiles de planificación:**
-- [Consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) explica cómo encontrar vuelos asequibles cualquier mes.
+- [Consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) explica cómo [encontrar vuelos](https://www.aviasales.com/) asequibles cualquier mes.
 - [Cuándo reservar vuelos](/es/blog/cuando-reservar-vuelos/) muestra con cuánta antelación debes reservar.
 - [Solo equipaje de mano](/es/blog/solo-equipaje-de-mano/) ahorra dinero sin importar el destino.
 

@@ -43,7 +43,7 @@ The thermal baths are Budapest's true superpower. Besides Széchenyi, there's Ge
 
 Food-wise Budapest holds its own. Lángos (fried dough with sour cream and cheese), gulyás (genuine Hungarian goulash, much more refined than what's exported), kürtőskalács. The Great Market Hall (Nagyvásárcsarnok) near Liberty Bridge is one of the finest market halls in Central Europe. Free entry, local prices.
 
-The baths, the view from the castle, the ruin bars, the Parliament lit up along the river at night: Budapest delivers a concentration of "wow moments" that's hard to beat. Compare flights and hotels to both cities in your [Zercy Logbook](https://www.zercy.app/logbook) so you can decide with real prices in front of you.
+The baths, the view from the castle, the ruin bars, the Parliament lit up along the river at night: Budapest delivers a concentration of "wow moments" that's hard to beat. [Compare flights](https://www.aviasales.com/) and hotels to both cities in your [Zercy Logbook](https://www.zercy.app/logbook) so you can decide with real prices in front of you.
 
 Read more:
 - [48 Hours in Prague: The Perfect Short Break Itinerary](/en/blog/48-hours-prague/)

@@ -65,7 +65,7 @@ Direct flights from across Europe, year-round and affordable. From the UK: about
 
 Between islands: ferries from Fred. Olsen and Binter Canarias, plus inter-island flights. Fast ferries connect the eastern islands (Gran Canaria, Fuerteventura, Lanzarote) in 1-2 hours.
 
-Compare flights and islands with [Zercy](https://www.zercy.app) and keep your favorites in the [Zercy Logbook](https://www.zercy.app/logbook).
+[Compare flights](https://www.aviasales.com/) and islands with [Zercy](https://www.zercy.app) and keep your favorites in the [Zercy Logbook](https://www.zercy.app/logbook).
 
 ---
 

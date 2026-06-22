@@ -66,7 +66,7 @@ La buena noticia es que no tienes que decidirte para siempre. Los dos países es
 
 ---
 
-Usa [Zercy](https://www.zercy.app) para comparar vuelos y alojamiento entre Portugal y España en una sola búsqueda. Guarda tus opciones en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlas a mano cuando estés listo para reservar.
+Usa [Zercy](https://www.zercy.app) para [comparar vuelos](https://www.aviasales.com/) y alojamiento entre Portugal y España en una sola búsqueda. Guarda tus opciones en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlas a mano cuando estés listo para reservar.
 
 **Más artículos:**
 - [Guía del Algarve 2026](/es/blog/algarve-guia-viaje-2026/)

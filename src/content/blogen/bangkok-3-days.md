@@ -61,7 +61,7 @@ After the skybar, or instead of it if budget is tight: Khao San Road. The famous
 
 ---
 
-Plan your Bangkok trip with [Zercy](https://www.zercy.app) and compare flights and hotels in seconds. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Plan your Bangkok trip with [Zercy](https://www.zercy.app) and [compare flights](https://www.aviasales.com/) and hotels in seconds. Save your shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 ---
 

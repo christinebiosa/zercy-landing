@@ -64,7 +64,7 @@ Airbnb or apartment rentals between hotel stops often come with a free washing m
 
 ---
 
-Zercy lets you plan multi-city routes and compare flights and hotels across all your stops in one view. Save the best combinations in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
+Zercy lets you plan multi-city routes and [compare flights](https://www.aviasales.com/) and hotels across all your stops in one view. Save the best combinations in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 **Read more:**
 - [Night Trains in Europe 2026: The Complete Guide](/en/blog/night-trains-europe-2026/)

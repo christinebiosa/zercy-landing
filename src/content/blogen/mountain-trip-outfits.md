@@ -53,7 +53,7 @@ More on planning the hike itself in the [alpine hiking beginners guide](/en/blog
 
 ---
 
-Once your outfit is sorted, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your outfit is sorted, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Best packable travel jackets 2026](/en/blog/best-packable-travel-jackets-2026/)

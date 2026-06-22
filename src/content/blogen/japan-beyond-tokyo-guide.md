@@ -67,7 +67,7 @@ From Osaka: 45 minutes by Kintetsu Rail. From Kyoto: 45 minutes by JR Nara Line.
 
 ---
 
-With Zercy you find flights to Tokyo or Osaka and compare hotels in Kyoto at a glance. Save your Japan shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) for the planning phase.
+With Zercy you [find flights](https://www.aviasales.com/) to Tokyo or Osaka and compare hotels in Kyoto at a glance. Save your Japan shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) for the planning phase.
 
 ## Frequently Asked Questions
 

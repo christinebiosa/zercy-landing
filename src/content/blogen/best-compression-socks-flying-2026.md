@@ -51,7 +51,7 @@ Compression socks don't replace movement, but they make the time between two wal
 
 ---
 
-Once your packing list is sorted, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your packing list is sorted, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Long-Haul Flight Comfort Guide](/en/blog/long-haul-flight-comfort-guide/)

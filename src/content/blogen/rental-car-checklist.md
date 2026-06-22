@@ -86,7 +86,7 @@ Send them to yourself by email immediately so they're timestamped and backed up.
 
 Most rental car problems are predictable. Ten minutes at the lot saves you hours later — and often real money.
 
-Zercy helps you find flights. The rental car checklist? That one's on us.
+Zercy helps you [find flights](https://www.aviasales.com/). The rental car checklist? That one's on us.
 
 ## Frequently Asked Questions
 

@@ -58,7 +58,7 @@ Honest cost breakdown per person:
 - **Premium (Mykonos, Bali, Reykjavik):** 1,500-2,500 euros per week
 
 Money-saving tips:
-- Book flights 3-4 months in advance. More on timing in [when to book flights](/en/blog/when-to-book-flights/).
+- [Book flights](https://www.aviasales.com/) 3-4 months in advance. More on timing in [when to book flights](/en/blog/when-to-book-flights/).
 - Holiday house instead of hotel: almost always cheaper for groups of 4-6.
 - Fly mid-week: Tuesdays and Wednesdays are the cheapest flight days.
 

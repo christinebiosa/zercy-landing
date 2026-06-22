@@ -66,7 +66,7 @@ Pair it with [compression socks](/en/blog/best-compression-socks-flying-2026/) a
 
 ---
 
-Comfort packed? Now plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Comfort packed? Now plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Long-Haul Flight Comfort Guide: How to Survive 12 Hours in Economy](/en/blog/long-haul-flight-comfort-guide/)

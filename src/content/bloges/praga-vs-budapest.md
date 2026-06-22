@@ -43,7 +43,7 @@ Los baños termales son la verdadera superpotencia de Budapest. Además del Szé
 
 Gastronomía: Lángos (masa frita con crema agria y queso), gulyás (el auténtico gulash húngaro, mucho más refinado que la versión exportada), kürtőskalács. El Gran Mercado (Nagyvásárcsarnok) cerca del Puente de la Libertad es uno de los mercados más hermosos de Europa Central. Entrada libre, precios locales.
 
-Los baños, la vista desde el castillo, los bares en ruinas, el Parlamento iluminado junto al río de noche: Budapest concentra una cantidad de momentos de impacto que es difícil de superar. Guarda las dos ciudades en tu [Zercy Logbook](https://www.zercy.app/logbook) para comparar vuelos y hoteles con precios reales.
+Los baños, la vista desde el castillo, los bares en ruinas, el Parlamento iluminado junto al río de noche: Budapest concentra una cantidad de momentos de impacto que es difícil de superar. Guarda las dos ciudades en tu [Zercy Logbook](https://www.zercy.app/logbook) para [comparar vuelos](https://www.aviasales.com/) y hoteles con precios reales.
 
 Más artículos:
 - [Dónde alojarse en Praga: los mejores barrios](/es/blog/donde-alojarse-praga/)

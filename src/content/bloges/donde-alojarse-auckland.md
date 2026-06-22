@@ -81,7 +81,7 @@ Si dudás entre quedarte en Waiheke Island o en la ciudad: la mayoría de los pr
 
 ---
 
-Usá [Zercy](https://www.zercy.app) para comparar vuelos a Auckland junto con alojamientos en distintas fechas. Guardá tus opciones favoritas en el [Zercy Logbook](https://www.zercy.app/logbook) y tené todo listo cuando sea momento de reservar.
+Usá [Zercy](https://www.zercy.app) para [comparar vuelos](https://www.aviasales.com/) a Auckland junto con alojamientos en distintas fechas. Guardá tus opciones favoritas en el [Zercy Logbook](https://www.zercy.app/logbook) y tené todo listo cuando sea momento de reservar.
 
 ## Preguntas Frecuentes
 

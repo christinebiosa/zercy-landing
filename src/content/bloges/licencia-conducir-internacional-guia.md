@@ -62,7 +62,7 @@ El PIC cuesta entre 10 y 20 euros. Se tramita en diez minutos. No tiene ningún 
 
 ---
 
-**¿Planificando un viaje y quieres comparar vuelos, coches de alquiler y hoteles en un solo lugar?** Prueba [Zercy](https://www.zercy.app/) o guarda tus ideas de viaje en el [Zercy Logbook](https://www.zercy.app/logbook).
+**¿Planificando un viaje y quieres [comparar vuelos](https://www.aviasales.com/), coches de alquiler y hoteles en un solo lugar?** Prueba [Zercy](https://www.zercy.app/) o guarda tus ideas de viaje en el [Zercy Logbook](https://www.zercy.app/logbook).
 
 ---
 

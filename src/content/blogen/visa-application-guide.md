@@ -92,7 +92,7 @@ The [IATA Travel Centre](https://www.iata.org/en/services/consulting/iata-travel
 
 ---
 
-**Plan your trip smarter.** Zercy helps you find flights, hotels, and [rental cars](https://www.economybookings.com/) in one place, without switching between dozens of tabs. Try it now: [zercy.app](https://www.zercy.app)
+**Plan your trip smarter.** Zercy helps you [find flights](https://www.aviasales.com/), hotels, and [rental cars](https://www.economybookings.com/) in one place, without switching between dozens of tabs. Try it now: [zercy.app](https://www.zercy.app)
 
 Keep all your travel plans organized in the [Zercy Logbook](https://www.zercy.app/logbook). Nothing important gets lost.
 

@@ -60,7 +60,7 @@ One last point: match the jacket to its purpose. A $400 mountain jacket for city
 
 ---
 
-Once your bag is sorted, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is sorted, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Carry-on only: how it actually works](/en/blog/carry-on-only/)

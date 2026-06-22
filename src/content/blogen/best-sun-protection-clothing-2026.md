@@ -53,7 +53,7 @@ For your face, hands, and any exposed skin, sunscreen remains essential. A pract
 
 ---
 
-Once your bag is packed, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is packed, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [The best quick-dry travel clothing 2026](/en/blog/best-quick-dry-travel-clothing-2026/)

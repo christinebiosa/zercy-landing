@@ -26,7 +26,7 @@ For group travel, you need at least three layers:
 
 For tracking flights and reservations, TripIt works well. Everyone forwards their booking confirmations and the app builds a shared itinerary automatically. No more "when does your flight land?" messages.
 
-Before you book anything: use [Zercy](https://www.zercy.app) to compare flights and accommodation for the whole group. Enter your destination and travel dates, and Zercy surfaces options that actually scale to group sizes.
+Before you book anything: use [Zercy](https://www.zercy.app) to [compare flights](https://www.aviasales.com/) and accommodation for the whole group. Enter your destination and travel dates, and Zercy surfaces options that actually scale to group sizes.
 
 ## How do you agree on a budget before booking anything?
 

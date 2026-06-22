@@ -66,7 +66,7 @@ When the budget doesn't stretch or you want a similar experience for less:
 
 ---
 
-With Zercy you compare flights to the Maldives and alternatives in one step. Save the shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) for the long decision-making process.
+With Zercy you [compare flights](https://www.aviasales.com/) to the Maldives and alternatives in one step. Save the shortlist in the [Zercy Logbook](https://www.zercy.app/logbook) for the long decision-making process.
 
 ## Frequently Asked Questions
 

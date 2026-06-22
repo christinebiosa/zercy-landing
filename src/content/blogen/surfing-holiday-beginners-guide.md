@@ -107,7 +107,7 @@ Most beginners stand on their first waves on day two or three. Don't expect piro
 
 ---
 
-Zercy helps you find flights and accommodation for your surf trip. Describe where and when you want to learn, Morocco in autumn or Bali in spring, and get real options with prices. Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything handy when booking.
+Zercy helps you [find flights](https://www.aviasales.com/) and accommodation for your surf trip. Describe where and when you want to learn, Morocco in autumn or Bali in spring, and get real options with prices. Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have everything handy when booking.
 
 ## Frequently Asked Questions
 

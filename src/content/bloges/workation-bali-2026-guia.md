@@ -69,7 +69,7 @@ Para opciones de alojamiento en todos los rangos de precio, consulta nuestra gu√
 
 ---
 
-Antes de reservar, [Zercy](https://www.zercy.app) puede ayudarte a comparar vuelos a Denpasar desde tu ciudad y encontrar alojamiento en Canggu o Ubud. Guarda tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano cuando llegue el momento de reservar.
+Antes de reservar, [Zercy](https://www.zercy.app) puede ayudarte a [comparar vuelos](https://www.aviasales.com/) a Denpasar desde tu ciudad y encontrar alojamiento en Canggu o Ubud. Guarda tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano cuando llegue el momento de reservar.
 
 ## Preguntas frecuentes
 

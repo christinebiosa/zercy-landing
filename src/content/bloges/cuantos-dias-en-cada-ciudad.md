@@ -61,7 +61,7 @@ El otro lado: si planeas demasiado tiempo, siempre puedes salir antes o usar un 
 
 La regla para quienes visitan un lugar por primera vez: un dia de mas mejor que uno de menos. La segunda mitad de cualquier destino suele ser la mejor.
 
-Para reservar vuelos y alojamiento en rutas de varias ciudades: [cuando reservar vuelos](/es/blog/cuando-reservar-vuelos/) y [consejos para volar barato](/es/blog/consejos-vuelos-baratos/).
+Para [reservar vuelos](https://www.aviasales.com/) y alojamiento en rutas de varias ciudades: [cuando reservar vuelos](/es/blog/cuando-reservar-vuelos/) y [consejos para volar barato](/es/blog/consejos-vuelos-baratos/).
 
 ---
 

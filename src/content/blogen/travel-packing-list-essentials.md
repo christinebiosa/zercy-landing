@@ -82,7 +82,7 @@ Plan your accommodation with [Booking.com](https://www.booking.com) and check wh
 
 ---
 
-Zercy helps you compare flights and hotels for your next adventure. Save your travel ideas in the [Zercy Logbook](https://www.zercy.app/logbook).
+Zercy helps you [compare flights](https://www.aviasales.com/) and hotels for your next adventure. Save your travel ideas in the [Zercy Logbook](https://www.zercy.app/logbook).
 
 ## Frequently Asked Questions
 

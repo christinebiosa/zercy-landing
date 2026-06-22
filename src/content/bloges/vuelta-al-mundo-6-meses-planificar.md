@@ -30,7 +30,7 @@ Incluye siempre el fondo de emergencia. Un vuelo de regreso urgente en caso de i
 
 ## ¿Cuándo renunciar al trabajo y con cuánta antelación planear?
 
-De seis a doce meses de antelación es lo realista. No porque reservar vuelos lleve tanto tiempo, sino porque necesitas tiempo para ahorrar, cerrar contratos y prepararte mentalmente para un cambio de vida grande.
+De seis a doce meses de antelación es lo realista. No porque [reservar vuelos](https://www.aviasales.com/) lleve tanto tiempo, sino porque necesitas tiempo para ahorrar, cerrar contratos y prepararte mentalmente para un cambio de vida grande.
 
 Para la mayoría, entregar la renuncia es el paso más difícil. Fija tu último día de trabajo al menos cuatro meses antes de salir. Así tendrás tiempo para cancelar contratos de alquiler, darte de baja en el padrón y gestionar tu seguro médico.
 

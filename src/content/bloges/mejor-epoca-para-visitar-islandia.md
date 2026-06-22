@@ -51,7 +51,7 @@ Para el alojamiento en Reikiavik, consulta [dónde alojarse en Reikiavik](/es/bl
 
 ---
 
-Islandia es uno de esos destinos donde comparar fechas y precios con antelación marca mucho la diferencia en el presupuesto total. Usa Zercy para buscar vuelos con fechas flexibles. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener las opciones comparadas antes de decidir.
+Islandia es uno de esos destinos donde comparar fechas y precios con antelación marca mucho la diferencia en el presupuesto total. Usa Zercy para [buscar vuelos](https://www.aviasales.com/) con fechas flexibles. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener las opciones comparadas antes de decidir.
 
 ## Preguntas frecuentes
 

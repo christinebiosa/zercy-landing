@@ -55,7 +55,7 @@ One more thought: your [travel headphones](/en/blog/best-travel-headphones-2026/
 
 ---
 
-Once your bag is sorted, the real trip begins: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is sorted, the real trip begins: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Power bank carry-on rules 2026](/en/blog/powerbank-rules-carry-on-2026/)

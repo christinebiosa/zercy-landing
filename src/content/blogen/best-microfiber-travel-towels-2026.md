@@ -67,7 +67,7 @@ Some travelers carry two towels: S for the shower, L for the beach. That sounds 
 
 ---
 
-Comfort packed? Now plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Comfort packed? Now plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Best packing cubes 2026](/en/blog/best-packing-cubes-2026/)

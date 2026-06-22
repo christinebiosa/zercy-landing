@@ -55,7 +55,7 @@ Place shoe bags strategically: heavy shoes at the bottom (for rolling suitcases:
 
 ---
 
-Once your bag is packed, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is packed, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [The best packing cubes 2026](/en/blog/best-packing-cubes-2026/)

@@ -45,7 +45,7 @@ Usually yes - but check your airline's exact dimensions first. Most carriers all
 
 ---
 
-Once your bag is packed, plan the trip: with Zercy you compare flights and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
+Once your bag is packed, plan the trip: with Zercy you [compare flights](https://www.aviasales.com/) and hotels at live prices and save the best options in your [Zercy Logbook](https://www.zercy.app/logbook).
 
 **Read more:**
 - [Best Travel Duffel Bags 2026](/en/blog/best-travel-duffel-bags-2026/)

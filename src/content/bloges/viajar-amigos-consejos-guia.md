@@ -76,7 +76,7 @@ La regla de oro de los viajes en grupo: **máximo cinco o seis personas.** A par
 
 ---
 
-¿Planeas tu próximo viaje con amigos? Zercy te ayuda a comparar vuelos, alojamiento y actividades para varias personas en una sola vista. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano cuando vayas a reservar.
+¿Planeas tu próximo viaje con amigos? Zercy te ayuda a [comparar vuelos](https://www.aviasales.com/), alojamiento y actividades para varias personas en una sola vista. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todas las opciones a mano cuando vayas a reservar.
 
 ## Preguntas frecuentes
 

@@ -56,7 +56,7 @@ This combination route pairs the Algarve's raw beauty with the Costa del Sol's u
 
 ---
 
-Zercy can compare flights to Faro or Málaga side by side, including open-jaw combinations. Save your preferred route in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options ready when you book.
+Zercy can [compare flights](https://www.aviasales.com/) to Faro or Málaga side by side, including open-jaw combinations. Save your preferred route in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options ready when you book.
 
 ## Frequently Asked Questions
 

@@ -69,7 +69,7 @@ Rhodes makes most sense if you want to combine history and beach. Or if you're p
 
 ---
 
-With Zercy you compare flights to all four islands in one search. Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options ready when you book.
+With Zercy you [compare flights](https://www.aviasales.com/) to all four islands in one search. Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options ready when you book.
 
 ## Frequently Asked Questions
 

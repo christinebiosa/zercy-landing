@@ -63,7 +63,7 @@ El invierno (noviembre a febrero) es suave y muy económico. Lisboa y Oporto est
 
 ---
 
-Zercy te ayuda a comparar vuelos y hoteles para toda tu ruta por Portugal en un solo lugar. Guarda todas las opciones en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlas a mano cuando vayas a reservar.
+Zercy te ayuda a [comparar vuelos](https://www.aviasales.com/) y hoteles para toda tu ruta por Portugal en un solo lugar. Guarda todas las opciones en el [Zercy Logbook](https://www.zercy.app/logbook) para tenerlas a mano cuando vayas a reservar.
 
 ## Preguntas frecuentes
 

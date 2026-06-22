@@ -75,7 +75,7 @@ Lo que te falte lo compras en el camino. Cada ciudad tiene farmacia y tienda de 
 
 ## Planifica tu Ruta con Zercy
 
-Zercy te ayuda a comparar vuelos y trenes para tu ruta mochilera en un solo lugar. Sin abrir cinco pestañas distintas. Ingresa tu ruta y Zercy te muestra las mejores conexiones y precios para todo el viaje.
+Zercy te ayuda a [comparar vuelos](https://www.aviasales.com/) y trenes para tu ruta mochilera en un solo lugar. Sin abrir cinco pestañas distintas. Ingresa tu ruta y Zercy te muestra las mejores conexiones y precios para todo el viaje.
 
 Empieza a planificar en [zercy.app](https://www.zercy.app/logbook).
 

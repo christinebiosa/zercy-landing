@@ -79,7 +79,7 @@ De octubre a abril es primavera y verano en el hemisferio sur. La mejor época p
 
 ---
 
-Usá [Zercy](https://www.zercy.app) para comparar vuelos a Santiago junto con opciones de alojamiento en distintas fechas. Guardá tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook) y tené todo listo cuando sea momento de reservar.
+Usá [Zercy](https://www.zercy.app) para [comparar vuelos](https://www.aviasales.com/) a Santiago junto con opciones de alojamiento en distintas fechas. Guardá tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook) y tené todo listo cuando sea momento de reservar.
 
 ## Preguntas Frecuentes
 

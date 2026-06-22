@@ -81,7 +81,7 @@ Playacar es una comunidad cerrada en la parte sur de Playa del Carmen. Los grand
 
 ---
 
-Usá [Zercy](https://www.zercy.app) para comparar vuelos a Cancún (CUN) junto con opciones de alojamiento en Playa del Carmen para distintas fechas. Guardá tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook) y tené todo listo cuando sea momento de reservar.
+Usá [Zercy](https://www.zercy.app) para [comparar vuelos](https://www.aviasales.com/) a Cancún (CUN) junto con opciones de alojamiento en Playa del Carmen para distintas fechas. Guardá tus favoritos en el [Zercy Logbook](https://www.zercy.app/logbook) y tené todo listo cuando sea momento de reservar.
 
 ## Preguntas Frecuentes
 

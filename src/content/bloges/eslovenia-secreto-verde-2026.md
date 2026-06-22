@@ -38,7 +38,7 @@ El aeropuerto de Ljubljana (LJU) tiene conexiones con las principales ciudades e
 
 Eslovenia es perfecta para hacer en [coche de alquiler](https://www.economybookings.com/): las distancias son cortas y las carreteras son excelentes. La autopista tiene una vignette obligatoria (15 euros para una semana, disponible en gasolineras y tiendas).
 
-Zercy puede ayudarte a comparar vuelos y alojamiento para Eslovenia. Guarda tu itinerario en el [Zercy Logbook](https://www.zercy.app/logbook).
+Zercy puede ayudarte a [comparar vuelos](https://www.aviasales.com/) y alojamiento para Eslovenia. Guarda tu itinerario en el [Zercy Logbook](https://www.zercy.app/logbook).
 
 ---
 

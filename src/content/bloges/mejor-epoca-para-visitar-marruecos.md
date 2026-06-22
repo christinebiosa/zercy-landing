@@ -63,7 +63,7 @@ Para combinar ciudades imperiales y costa, la guía de [ciudades de Marruecos](/
 
 ---
 
-Cuando tengas claras las fechas y la ruta, Zercy puede ayudarte a comparar vuelos a Marrakech, Agadir o Casablanca con precios en tiempo real. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo en un solo lugar antes de reservar.
+Cuando tengas claras las fechas y la ruta, Zercy puede ayudarte a [comparar vuelos](https://www.aviasales.com/) a Marrakech, Agadir o Casablanca con precios en tiempo real. Guarda tu selección en el [Zercy Logbook](https://www.zercy.app/logbook) para tener todo en un solo lugar antes de reservar.
 
 ## Preguntas frecuentes
 

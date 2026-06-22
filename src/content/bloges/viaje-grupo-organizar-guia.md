@@ -26,7 +26,7 @@ Para un viaje en grupo necesitas al menos tres capas:
 
 Para gestionar vuelos y reservas, TripIt funciona bien. Cada persona reenvía sus confirmaciones de reserva y la app construye automáticamente un itinerario compartido. Nadie tiene que preguntar "¿a qué hora llega tu vuelo?"
 
-Antes de reservar nada: usa [Zercy](https://www.zercy.app) para comparar vuelos y alojamientos para todo el grupo. Escribe tu destino y las fechas, y Zercy muestra opciones que se adaptan al tamaño del grupo.
+Antes de reservar nada: usa [Zercy](https://www.zercy.app) para [comparar vuelos](https://www.aviasales.com/) y alojamientos para todo el grupo. Escribe tu destino y las fechas, y Zercy muestra opciones que se adaptan al tamaño del grupo.
 
 ## ¿Cómo se llega a un acuerdo sobre el presupuesto?
 

@@ -36,7 +36,7 @@ Esta es la palanca de precio más importante para las familias. La diferencia pu
 
 **Temporada baja:** Vuelos más baratos, destinos más tranquilos, pero a veces peor clima. Para niños en primaria vale la pena consultar si un progenitor puede solicitar una ausencia autorizada por motivo educativo.
 
-Consejo: quien reserva pronto ahorra. Los buenos vuelos de verano para familias se reservan en octubre del año anterior. Para saber cuándo es mejor reservar vuelos, consulta el artículo sobre [cuándo comprar vuelos baratos](/es/blog/donde-alojarse-cancun/).
+Consejo: quien reserva pronto ahorra. Los buenos vuelos de verano para familias se reservan en octubre del año anterior. Para saber cuándo es mejor [reservar vuelos](https://www.aviasales.com/), consulta el artículo sobre [cuándo comprar vuelos baratos](/es/blog/donde-alojarse-cancun/).
 
 ## ¿Qué ayuda de verdad cuando viajas en avión con niños?
 

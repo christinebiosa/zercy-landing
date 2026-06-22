@@ -67,7 +67,7 @@ Abril y mayo son especialmente recomendables: Río tiene muy poca lluvia, temper
 
 Para playas con presupuesto ajustado, el nordeste brilla entre octubre y diciembre. Seco y cálido, pero los precios siguen siendo moderados antes del aluvión navideño.
 
-Si enlazas Brasil con Perú, ten en cuenta que la [mejor época para visitar Perú](/es/blog/mejor-epoca-para-visitar-peru/) sigue un calendario estacional diferente - vale la pena coordinarlo antes de reservar vuelos.
+Si enlazas Brasil con Perú, ten en cuenta que la [mejor época para visitar Perú](/es/blog/mejor-epoca-para-visitar-peru/) sigue un calendario estacional diferente - vale la pena coordinarlo antes de [reservar vuelos](https://www.aviasales.com/).
 
 ---
 

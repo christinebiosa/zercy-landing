@@ -78,7 +78,7 @@ More on boutique stays in lesser-known places: [Boutique Hotels: Why Small Is Of
 
 ---
 
-The world has more places than any Instagram top-10 list suggests. Zercy helps you find flights there — even when it gets a little off the beaten path.
+The world has more places than any Instagram top-10 list suggests. Zercy helps you [find flights](https://www.aviasales.com/) there — even when it gets a little off the beaten path.
 
 ## Frequently Asked Questions
 
