@@ -52,7 +52,7 @@ State what you're doing. "I'd like to stay in London for two extra days after th
 
 If your company has a travel policy, check whether bleisure is explicitly addressed. Large corporations sometimes have forms for this. Smaller companies usually handle it with one conversation.
 
-One thing to sort out in advance: insurance. Your employer's business travel insurance typically only covers working days. For the leisure portion, you need your own coverage. A travel credit card with built-in protection often works. A short-term policy is the other option. It sounds like admin, but it's the one thing worth confirming before you extend.
+One thing to sort out in advance: insurance. Your employer's business [travel insurance](https://ektatraveling.com/) typically only covers working days. For the leisure portion, you need your own coverage. A travel credit card with built-in protection often works. A short-term policy is the other option. It sounds like admin, but it's the one thing worth confirming before you extend.
 
 If you're flying business class for the work leg and wondering about upgrades, our guide on [getting business class without miles](/en/blog/business-class-without-miles/) has the full breakdown.
 

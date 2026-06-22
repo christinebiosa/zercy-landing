@@ -34,7 +34,7 @@ Preparation is everything. A single missing document can delay or sink your enti
 
 **Passport photo:** Every country has its own specifications. White background, specific dimensions, recent photo. Getting it done professionally is worth the small cost.
 
-**Travel insurance:** Many consulates require proof of coverage with a minimum of $30,000 or equivalent. Not sure what a solid travel insurance policy should cover? We break it down in [Travel Insurance: Is It Worth It?](/en/blog/travel-insurance-worth-it-2026/)
+**[Travel insurance](https://ektatraveling.com/):** Many consulates require proof of coverage with a minimum of $30,000 or equivalent. Not sure what a solid travel insurance policy should cover? We break it down in [Travel Insurance: Is It Worth It?](/en/blog/travel-insurance-worth-it-2026/)
 
 **Hotel confirmation:** A booking confirmation, even a refundable one, shows the consulate you have a plan. Some countries are flexible, others want a firm reservation.
 

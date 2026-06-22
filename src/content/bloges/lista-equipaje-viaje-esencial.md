@@ -18,7 +18,7 @@ Algunas cosas son absolutamente universales. Ya sea una escapada a la ciudad, va
 - Pasaporte o DNI (siempre el original, nunca solo una foto)
 - Copia de todos los documentos (copia digital en la nube + una copia en papel guardada aparte en el equipaje)
 - Tarjeta de crédito sin comisiones por uso en el extranjero + algo de efectivo en moneda local
-- App o tarjeta del seguro de viaje
+- App o tarjeta del [seguro de viaje](https://ektatraveling.com/)
 
 **Electrónica (básica):**
 - Smartphone + cable de carga

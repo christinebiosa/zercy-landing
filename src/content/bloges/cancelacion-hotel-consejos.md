@@ -42,7 +42,7 @@ En casi todos los casos, el hotel te cobra la primera noche. Si reservaste una t
 
 Hay excepciones. Una emergencia médica con documentación a veces resulta en una exención, a discreción del hotel. Pero no puedes contar con eso.
 
-Aquí es donde el seguro de viaje justifica su costo. Un buen seguro de cancelación de viaje cubre los gastos del hotel cuando cancelas por enfermedad, accidente o fallecimiento de un familiar. Para quienes viajan con frecuencia, esto no es un lujo. Es una protección básica.
+Aquí es donde el [seguro de viaje](https://ektatraveling.com/) justifica su costo. Un buen seguro de cancelación de viaje cubre los gastos del hotel cuando cancelas por enfermedad, accidente o fallecimiento de un familiar. Para quienes viajan con frecuencia, esto no es un lujo. Es una protección básica.
 
 Más información: [Seguro de cancelación de viaje: qué cubre realmente](/es/blog/seguro-cancelacion-viaje-guia/)
 

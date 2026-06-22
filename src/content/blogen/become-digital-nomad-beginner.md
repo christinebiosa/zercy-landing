@@ -40,7 +40,7 @@ Because the start rarely goes smoothly. The first coworking space isn't great. T
 
 With six months in savings you can absorb these bumps calmly. With two months you'll start to panic at the first dip.
 
-On top of that: nomad life has hidden costs. Short-term accommodation is more expensive than long-term. SIM cards, coworking memberships, occasional travel insurance. It adds up quickly. Check our guide to [workation tax rules 2026](/en/blog/workation-tax-rules-2026/) too, because sorting out taxes early matters a lot.
+On top of that: nomad life has hidden costs. Short-term accommodation is more expensive than long-term. SIM cards, coworking memberships, occasional [travel insurance](https://ektatraveling.com/). It adds up quickly. Check our guide to [workation tax rules 2026](/en/blog/workation-tax-rules-2026/) too, because sorting out taxes early matters a lot.
 
 ## Which first destination actually works for beginners?
 

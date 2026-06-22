@@ -50,7 +50,7 @@ One to three years, depending on the issuing country. German IDPs are valid for 
 
 One thing many travelers forget: the IDP is never valid on its own. It only works together with your national license. Both documents, always. Leave your national license at the hotel and the IDP is worthless.
 
-Pack both together with your passport and travel insurance card. Do it the night before departure, not at the airport.
+Pack both together with your passport and [travel insurance](https://ektatraveling.com/) card. Do it the night before departure, not at the airport.
 
 ## What Happens If You Drive Without One?
 

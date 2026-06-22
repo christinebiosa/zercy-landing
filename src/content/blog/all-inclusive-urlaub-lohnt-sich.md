@@ -32,7 +32,7 @@ Was bei den meisten All-Inclusive-Angeboten NICHT inklusive ist:
 - Premium-Restaurants (oft extra buchbar)
 - Spa und Wellness
 - Motorisierte Wassersportarten
-- Flughafentransfer
+- [Flughafentransfer](https://www.welcomepickups.com/)
 - Alkohol bestimmter Marken
 
 Der Unterschied zwischen "All-Inclusive" und "Ultra All-Inclusive" ist erheblich. Ultra-Varianten schließen Premium-Bars und -Restaurants mit ein. Beim Buchen genau lesen.

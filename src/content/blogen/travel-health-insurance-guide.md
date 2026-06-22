@@ -39,7 +39,7 @@ Travel health insurance covers medically necessary treatment abroad that goes be
 - Pregnancy after week 28
 - Extreme sports without an add-on (climbing, diving, motorcycling)
 
-The [Association of British Insurers](https://www.abi.org.uk) publishes guidance on travel insurance standards and what to look for in a policy.
+The [Association of British Insurers](https://www.abi.org.uk) publishes guidance on [travel insurance](https://ektatraveling.com/) standards and what to look for in a policy.
 
 ## What does travel health insurance cost?
 

@@ -18,7 +18,7 @@ Sin ranking teórico. Estos 10 vienen de la experiencia real de viajeros frecuen
 
 Tres ciudades en cinco días. Dos países, cuatro vuelos, ocho atracciones por día. Eso no es vacaciones, eso es logística. La queja más común de los viajeros que regresan: "Lo vimos todo pero no experimentamos nada." Planea un máximo de una atracción principal por día. Todo lo demás es un bonus. El tiempo libre en un itinerario no es un error. Es el plan.
 
-**Error 2: Sin seguro de viaje**
+**Error 2: Sin [seguro de viaje](https://ektatraveling.com/)**
 
 La mayoría de los viajeros piensa: "A mí no me va a pasar nada." Las estadísticas de los seguros de viaje dicen otra cosa. Una emergencia médica en EE. UU. sin cobertura: fácilmente entre 50,000 y 200,000 EUR. En Australia o Canadá: similar. La regla básica: no volar sin seguro.
 
@@ -87,7 +87,7 @@ No tener seguro médico de viaje es el mayor riesgo financiero. Una emergencia m
 
 ### ¿Cómo evito el shock de roaming en el extranjero?
 
-Revisa los costos de roaming en tu plan de teléfono antes del viaje. Compra una SIM local en el aeropuerto. O usa servicios de eSIM como Airalo que puedes configurar desde casa. Nunca entres a un país con datos en roaming activos y una tarifa desconocida.
+Revisa los costos de roaming en tu plan de teléfono antes del viaje. Compra una SIM local en el aeropuerto. O usa servicios de [eSIM](https://www.airalo.com/) como Airalo que puedes configurar desde casa. Nunca entres a un país con datos en roaming activos y una tarifa desconocida.
 
 ### ¿Cuándo debo reservar hoteles en temporada alta?
 

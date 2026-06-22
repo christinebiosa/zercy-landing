@@ -28,7 +28,7 @@ Vier unverzichtbare Tools für die Reise selbst.
 
 **Google Maps mit Offline-Karten.** Lade vor jeder Reise die Karte des Reiseziels herunter. Im Ausland ohne Datenverbindung funktioniert sie weiter, inklusive Routenplanung. Lebensretter, wenn das Roaming streikt.
 
-**Airalo (eSIM).** Statt teurer Roaming-Gebühren kaufst du in der App eine virtuelle SIM-Karte für dein Reiseziel. 30 Tage Daten in Italien: 13 Euro. In Bali: 11 Euro. Aktivierung in 5 Minuten, kein physischer SIM-Wechsel.
+**Airalo ([eSIM](https://www.airalo.com/)).** Statt teurer Roaming-Gebühren kaufst du in der App eine virtuelle SIM-Karte für dein Reiseziel. 30 Tage Daten in Italien: 13 Euro. In Bali: 11 Euro. Aktivierung in 5 Minuten, kein physischer SIM-Wechsel.
 
 **Splitwise.** Wenn du in einer Gruppe reist. App teilt automatisch Ausgaben (Hotel, Restaurant, Mietwagen) und zeigt am Ende, wer wem was schuldet. Vermeidet die "wer zahlt was" Diskussionen.
 

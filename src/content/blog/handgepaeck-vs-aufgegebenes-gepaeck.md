@@ -36,7 +36,7 @@ Verluste sind selten, aber nicht negligibel. Laut Statistiken des Airline Passag
 
 Wer wichtige Medikamente, Wertsachen oder Kleidung für einen wichtigen Termin in den Koffer packt, geht ein Risiko ein. Alles was unverzichtbar ist, kommt ins Handgepäck. Das ist die Grundregel.
 
-Wer trotzdem aufgibt: Verpflichtend eine Gepäckversicherung oder eine Kreditkarte mit eingeschlossener Reiseversicherung nutzen. Mehr dazu in unserem Artikel über [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/).
+Wer trotzdem aufgibt: Verpflichtend eine Gepäckversicherung oder eine Kreditkarte mit eingeschlossener [Reiseversicherung](https://ektatraveling.com/) nutzen. Mehr dazu in unserem Artikel über [Reiseversicherung: Was lohnt sich?](/blog/reiseversicherung-was-lohnt-sich/).
 
 ## Für welche Reisen braucht man wirklich einen Koffer?
 

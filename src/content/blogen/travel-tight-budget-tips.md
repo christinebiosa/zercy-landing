@@ -40,7 +40,7 @@ $110/day in Zurich is nothing. In Vietnam it's excessive luxury. The cheapest de
 
 Budget travel has a threshold where cutting costs backfires. Where you shouldn't skimp:
 
-**Travel insurance:** $32-85 for a week is the cheapest insurance premium that exists, compared to what it covers. Trip cancellation, medical coverage abroad, lost luggage. Never skip it. More in our [Travel Insurance Guide](/en/blog/travel-insurance-worth-it-2026/).
+**[Travel insurance](https://ektatraveling.com/):** $32-85 for a week is the cheapest insurance premium that exists, compared to what it covers. Trip cancellation, medical coverage abroad, lost luggage. Never skip it. More in our [Travel Insurance Guide](/en/blog/travel-insurance-worth-it-2026/).
 
 **Health and hygiene:** Cheap street food from unhygienic vendors. The cost of a stomach illness (lost travel days, medical costs) exceeds any savings.
 
@@ -54,7 +54,7 @@ Budget travel has a threshold where cutting costs backfires. Where you shouldn't
 
 **3. Calculate city passes properly:** Many cities have cards (Vienna City Card, Prague Tourist Pass) that bundle museums and transit. Always run the numbers first; they only save money with intensive museum use.
 
-**4. Research airport transfers early:** Taxi from Lisbon airport: $27. Metro: $2.10. Both take 30 minutes. The difference multiplied by 10 trips per year: $249. Every year.
+**4. Research [airport transfers](https://www.welcomepickups.com/) early:** Taxi from Lisbon airport: $27. Metro: $2.10. Both take 30 minutes. The difference multiplied by 10 trips per year: $249. Every year.
 
 **5. Avoid peak hours:** Museums at early morning (first hour after opening), restaurants at noon or 2:30pm (not 1:30pm): cheaper and significantly more pleasant.
 

@@ -52,7 +52,7 @@ Für Reisen durch Südostasien auf kleinem Budget ist Workaway besonders relevan
 
 Die Grundkosten sind niedrig. Workaway oder WWOOF-Mitgliedschaft: 20 bis 50 Dollar. Flug zum Zielort: dein größter Posten. Am Host selbst: keine Kosten, Unterkunft und Essen sind inklusive.
 
-Das klingt fast zu gut. Der Haken: Du musst ankommen. Flüge nach Costa Rica, Thailand, Peru oder Nepal kosten Geld. Und du brauchst eine Reiseversicherung, egal wie günstig das Programm ist. Was eine gute [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) wirklich abdecken muss, ist nicht trivial.
+Das klingt fast zu gut. Der Haken: Du musst ankommen. Flüge nach Costa Rica, Thailand, Peru oder Nepal kosten Geld. Und du brauchst eine [Reiseversicherung](https://ektatraveling.com/), egal wie günstig das Programm ist. Was eine gute [Reiseversicherung](/blog/reiseversicherung-was-lohnt-sich/) wirklich abdecken muss, ist nicht trivial.
 
 Zusätzliche Kosten: Transport zwischen Hosts, Visa-Gebühren (Nepal, Vietnam, Peru haben unterschiedliche Regelungen), Verpflegung an freien Tagen wenn du außerhalb des Programms isst.
 

@@ -31,7 +31,7 @@ Aquí tienes presupuestos diarios realistas según el estilo de viaje. Estas cif
 - Alojamiento (50 $/día): 500 dólares
 - Comida y transporte (30 $/día): 300 dólares
 - Actividades y gastos varios: 200 dólares
-- Seguro de viaje: 60 a 80 euros
+- [Seguro de viaje](https://ektatraveling.com/): 60 a 80 euros
 
 **Total: aproximadamente 1.700 a 2.100 euros.** Esa es tu cifra objetivo.
 
@@ -69,7 +69,7 @@ Los errores de planificación más comunes no están en el vuelo o el hotel. Est
 
 **Visados.** Australia: 20 AUD para la ETA. EE. UU.: 21 dólares para el ESTA. India: entre 25 y 80 dólares según el tipo. Un itinerario de varios países puede sumar entre 100 y 200 dólares solo en tasas de visado. Añade esto al primer borrador del presupuesto, no como un apunte de última hora.
 
-**Traslados al aeropuerto.** Un taxi desde el aeropuerto Suvarnabhumi de Bangkok cuesta alrededor de 800 THB (unos 22 dólares). El tren del aeropuerto: 45 THB. Cuatro traslados por viaje, siempre en taxi, y habrás gastado entre 80 y 100 dólares de más. Investiga los costes de traslado en cada aeropuerto y ponlos en el presupuesto.
+**[Traslados al aeropuerto](https://www.welcomepickups.com/).** Un taxi desde el aeropuerto Suvarnabhumi de Bangkok cuesta alrededor de 800 THB (unos 22 dólares). El tren del aeropuerto: 45 THB. Cuatro traslados por viaje, siempre en taxi, y habrás gastado entre 80 y 100 dólares de más. Investiga los costes de traslado en cada aeropuerto y ponlos en el presupuesto.
 
 **Extras de las aerolíneas de bajo coste.** Ryanair, Vueling y similares muestran una tarifa base baja al comprar. La selección de asiento, el equipaje facturado y los snacks a bordo van aparte. En algunas rutas eso suma entre 40 y 80 euros. Compara siempre el precio total, no el precio inicial.
 

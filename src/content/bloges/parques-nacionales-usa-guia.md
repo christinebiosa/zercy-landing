@@ -62,7 +62,7 @@ La lista es corta, pero cada punto cuenta.
 
 Una botella de agua con filtro o de 2+ litros de capacidad. Las fuentes de agua escasean en muchos parques, y comprar agua es caro y poco sostenible. Protector solar SPF 50+, incluso en días nublados. Botas de senderismo con sujeción en el tobillo, no zapatillas de deporte. Ropa por capas: incluso en verano la temperatura puede bajar más de 15 grados entre el mediodía y la tarde.
 
-La cobertura móvil es escasa o inexistente en la mayoría de los parques. Descarga los mapas sin conexión en Google Maps o AllTrails antes de salir. Lo mismo aplica al seguro de viaje, que conviene contratar antes de embarcar.
+La cobertura móvil es escasa o inexistente en la mayoría de los parques. Descarga los mapas sin conexión en Google Maps o AllTrails antes de salir. Lo mismo aplica al [seguro de viaje](https://ektatraveling.com/), que conviene contratar antes de embarcar.
 
 ## ¿Cuál es la diferencia entre parque nacional, monumento nacional y bosque nacional?
 

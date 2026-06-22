@@ -92,7 +92,7 @@ Si viajas solo con [equipaje de mano](/es/blog/solo-equipaje-de-mano/), ya ganas
 
 ---
 
-Zercy te muestra los tiempos de traslado al aeropuerto cuando planificas y considera los tiempos de espera realistas para que no vayas justo. Guarda los detalles de tu viaje en el [Zercy Logbook](https://www.zercy.app/logbook) y tendrás todo a mano cuando sea hora de salir.
+Zercy te muestra los tiempos de [traslado al aeropuerto](https://www.welcomepickups.com/) cuando planificas y considera los tiempos de espera realistas para que no vayas justo. Guarda los detalles de tu viaje en el [Zercy Logbook](https://www.zercy.app/logbook) y tendrás todo a mano cuando sea hora de salir.
 
 ## Preguntas frecuentes
 

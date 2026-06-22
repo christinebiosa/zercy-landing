@@ -53,7 +53,7 @@ Si tienes un operador europeo y viajas dentro de la UE (más Noruega, Islandia y
 
 El roaming sin activar paquete fuera de la UE puede costar entre 5 y 20 euros por MB. Eso no es typo: por megabyte. Si no activas un paquete antes de salir, desactiva los datos móviles en el aeropuerto o recibirás una factura inesperada.
 
-Para viajes a países de Latinoamérica como los destinos de la guía de [dónde alojarse en Cartagena](/es/blog/donde-alojarse-cartagena/), la SIM local o una eSIM es casi siempre la opción más sensata.
+Para viajes a países de Latinoamérica como los destinos de la guía de [dónde alojarse en Cartagena](/es/blog/donde-alojarse-cartagena/), la SIM local o una [eSIM](https://www.airalo.com/) es casi siempre la opción más sensata.
 
 ## ¿Qué funciona mejor según la región?
 

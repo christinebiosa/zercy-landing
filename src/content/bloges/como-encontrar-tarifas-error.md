@@ -73,7 +73,7 @@ Algunas aerolíneas tienen historial de respetar errores: Finnair, Japan Airline
 
 Tener fechas de viaje flexibles ayuda enormemente. Si ya tenías pensado viajar y la tarifa encaja, el riesgo es bajo. Si necesitas pedir vacaciones extra y reservar hoteles no reembolsables, calcula primero el riesgo total.
 
-Para decidir si el seguro de viaje compensa en estos casos, consulta [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/). Para saber cuándo reservar vuelos en general, lee [Cuándo Reservar Vuelos](/es/blog/cuando-reservar-vuelos/).
+Para decidir si el [seguro de viaje](https://ektatraveling.com/) compensa en estos casos, consulta [Seguro de Viaje: ¿Vale la Pena?](/es/blog/seguro-viaje-vale-la-pena/). Para saber cuándo reservar vuelos en general, lee [Cuándo Reservar Vuelos](/es/blog/cuando-reservar-vuelos/).
 
 ---
 

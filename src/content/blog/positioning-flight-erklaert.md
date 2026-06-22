@@ -67,7 +67,7 @@ Deshalb diese Regeln:
 
 **Mindestens 3 bis 4 Stunden Puffer** zwischen Zubringer-Ankunft und Langstrecken-Abflug. Nicht 90 Minuten. Nicht 2 Stunden. Dinge gehen schief. Schlechtes Wetter. Technische Probleme. Überfüllte Gates.
 
-**Reiseversicherung abschließen**, die Folgekosten bei versäumten Anschlüssen aus getrennten Buchungen abdeckt. Nicht jede Police tut das. Genau fragen.
+**[Reiseversicherung](https://ektatraveling.com/) abschließen**, die Folgekosten bei versäumten Anschlüssen aus getrennten Buchungen abdeckt. Nicht jede Police tut das. Genau fragen.
 
 **Nie als zusammenhängende Reise behandeln.** In deinem Kopf sind es zwei eigenständige Reisen. Zubringer zum Hub. Und dann Abflug vom Hub. Getrennt denken, getrennt planen.
 

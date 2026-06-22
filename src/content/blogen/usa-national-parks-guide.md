@@ -62,7 +62,7 @@ The list is short, but every item matters.
 
 A water bottle with a filter or 2+ liters of capacity. Water sources are scarce in many parks, buying water is expensive and wasteful. Sunscreen SPF 50+, even on cloudy days. Hiking shoes with ankle support, not sneakers. Layering clothes, even in summer temperatures can swing 20+ degrees between noon and evening.
 
-Cell reception is poor to nonexistent in most parks. Download offline maps via Google Maps or AllTrails beforehand. That also applies to your travel insurance, which you should sort out before you even board the plane.
+Cell reception is poor to nonexistent in most parks. Download offline maps via Google Maps or AllTrails beforehand. That also applies to your [travel insurance](https://ektatraveling.com/), which you should sort out before you even board the plane.
 
 ## What is the difference between a national park, a national monument, and a national forest?
 

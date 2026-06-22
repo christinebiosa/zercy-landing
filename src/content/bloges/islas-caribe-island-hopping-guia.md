@@ -41,7 +41,7 @@ Avioneta significa: límites de equipaje muy pequeños (a menudo 15 a 20 kg incl
 
 Diciembre a abril es la temporada alta. Tiempo seco, sin riesgo de huracanes, temperatura del agua alrededor de 28 grados. La desventaja: los hoteles son caros y están reservados. Si planeas diciembre a febrero, reserva con cuatro a seis meses de anticipación.
 
-Mayo a noviembre es la temporada de lluvias. La lluvia a menudo viene en chubascos cortos e intensos, no en lluvia continua. El Caribe también es hermoso en temporada baja. Solo septiembre y octubre son genuinamente riesgosos: ese es el pico de la temporada de huracanes. En esas semanas la región puede ser golpeada por grandes tormentas. Un seguro de viaje con cobertura de evacuación es obligatorio, no opcional.
+Mayo a noviembre es la temporada de lluvias. La lluvia a menudo viene en chubascos cortos e intensos, no en lluvia continua. El Caribe también es hermoso en temporada baja. Solo septiembre y octubre son genuinamente riesgosos: ese es el pico de la temporada de huracanes. En esas semanas la región puede ser golpeada por grandes tormentas. Un [seguro de viaje](https://ektatraveling.com/) con cobertura de evacuación es obligatorio, no opcional.
 
 Los viajeros flexibles van en mayo a junio o en noviembre: buen tiempo, sin multitudes, precios un 30 a 50 por ciento por debajo de la temporada alta.
 

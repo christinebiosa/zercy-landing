@@ -30,7 +30,7 @@ Cinco criterios, ordenados por importancia.
 
 **1. Comisiones por uso en el extranjero:** Es el costo oculto más común. Muchas tarjetas cobran entre 1,5% y 3% en cada pago en moneda extranjera. En 2.000 USD de gastos en el exterior: entre 30 y 60 USD extra, invisibles hasta que revisas el estado de cuenta. Tarjetas como Revolut o Wise eliminan esto por completo.
 
-**2. Seguro de viaje incluido:** Muchas tarjetas premium incluyen seguro de accidente, equipaje y cancelación de viaje. Revisa bien los montos de cobertura. Con frecuencia la protección solo aplica si pagaste el viaje con esa misma tarjeta. Es importante saberlo antes de asumir que estás cubierto.
+**2. [Seguro de viaje](https://ektatraveling.com/) incluido:** Muchas tarjetas premium incluyen seguro de accidente, equipaje y cancelación de viaje. Revisa bien los montos de cobertura. Con frecuencia la protección solo aplica si pagaste el viaje con esa misma tarjeta. Es importante saberlo antes de asumir que estás cubierto.
 
 **3. Bono de bienvenida:** Las tarjetas de millas anuncian entre 20.000 y 60.000 millas de bono en los primeros meses de uso. Parece mucho. A menudo equivale a un vuelo doméstico o un intento de upgrade. Aun así: un buen bono puede justificar la cuota del primer año.
 

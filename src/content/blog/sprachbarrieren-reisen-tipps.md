@@ -101,7 +101,7 @@ Japan (außerhalb der Städte), ländliches China, arabischsprachige Länder abs
 
 ### Warum funktioniert Google Translate in manchen Ländern nicht?
 
-In China sind viele Google-Dienste gesperrt. Lade alle Sprachpakete offline herunter, bevor du einreist. VPN als Alternative: vor der Einreise einrichten, nicht danach.
+In China sind viele Google-Dienste gesperrt. Lade alle Sprachpakete offline herunter, bevor du einreist. [VPN](https://nordvpn.com/) als Alternative: vor der Einreise einrichten, nicht danach.
 
 ---
 

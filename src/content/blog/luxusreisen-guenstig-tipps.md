@@ -68,7 +68,7 @@ Abhängig von Strecke und Airline: 20-60 Prozent unter dem Standardpreis. Interk
 
 ### Welche Kreditkarten geben am meisten Reisevorteile?
 
-In Deutschland und Österreich: American Express Platinum (Lounge-Zugang, Reiseversicherung, Hotel-Status), Miles & More Kreditkarte (Lufthansa-Meilen), IHG One Rewards Mastercard. In der Schweiz: Swisscard Cashback Visa. Der Jahresbeitrag amortisiert sich bei 3+ Reisen pro Jahr meistens.
+In Deutschland und Österreich: American Express Platinum (Lounge-Zugang, [Reiseversicherung](https://ektatraveling.com/), Hotel-Status), Miles & More Kreditkarte (Lufthansa-Meilen), IHG One Rewards Mastercard. In der Schweiz: Swisscard Cashback Visa. Der Jahresbeitrag amortisiert sich bei 3+ Reisen pro Jahr meistens.
 
 ### Was ist der Unterschied zwischen einem 4-Sterne und 5-Sterne-Hotel?
 

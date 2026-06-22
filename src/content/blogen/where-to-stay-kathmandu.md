@@ -98,7 +98,7 @@ For Kathmandu, [Booking.com](https://www.booking.com) is an excellent platform:
 - Over 300 hotels and guesthouses listed
 - Free cancellation is standard, important because trekking plans need flexibility
 - Many smaller guesthouses with genuine reviews that are hard to assess offline
-- Filters for neighborhood, mountain view, breakfast included, airport transfer
+- Filters for neighborhood, mountain view, breakfast included, [airport transfer](https://www.welcomepickups.com/)
 
 Tip: Booking directly with a guesthouse sometimes makes sense for longer stays (7+ days), as many family-run places offer cash discounts.
 

@@ -22,7 +22,7 @@ Los viajeros son un objetivo especialmente atractivo para el fraude digital. Usa
 
 ## ¿Qué medidas de seguridad son realmente útiles?
 
-**VPN para WiFi público:** una VPN (red privada virtual) cifra todo el tráfico de internet de tu dispositivo antes de enviarlo, lo que hace inútil la intercepción en la red local. NordVPN, ExpressVPN, Mullvad y ProtonVPN son las opciones más establecidas. Usar VPN en aeropuertos, hoteles y cafeterías es una medida con excelente relación coste/beneficio.
+**[VPN](https://nordvpn.com/) para WiFi público:** una VPN (red privada virtual) cifra todo el tráfico de internet de tu dispositivo antes de enviarlo, lo que hace inútil la intercepción en la red local. NordVPN, ExpressVPN, Mullvad y ProtonVPN son las opciones más establecidas. Usar VPN en aeropuertos, hoteles y cafeterías es una medida con excelente relación coste/beneficio.
 
 **Tarjeta de débito/crédito con chip y PIN solo:** evitar introducir datos de tarjeta en cajeros desconocidos. Preferir pago contactless. Usar tarjetas con alertas inmediatas por SMS para cada transacción.
 
@@ -40,7 +40,7 @@ Los viajeros son un objetivo especialmente atractivo para el fraude digital. Usa
 
 **Llamar al banco:** bloquear las tarjetas comprometidas. La mayoría de bancos tiene número de atención internacional disponible 24/7.
 
-**Denunciar:** en destinos donde se necesita el número de denuncia policial para el seguro de viaje.
+**Denunciar:** en destinos donde se necesita el número de denuncia policial para el [seguro de viaje](https://ektatraveling.com/).
 
 Para organizar tus viajes de forma segura desde el inicio, usa el [Zercy Logbook](https://www.zercy.app/logbook) para guardar tu itinerario con datos de reservas.
 

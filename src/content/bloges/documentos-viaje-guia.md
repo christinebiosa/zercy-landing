@@ -18,7 +18,7 @@ El pasaporte es la base. Para la mayoría de los destinos fuera de tu país, nec
 
 Luego, la visa. Algunos países la otorgan al llegar (visa on arrival), otros exigen una solicitud en línea con semanas de anticipación. Si tramitaste una visa electrónica, imprime la confirmación o guarda una captura de pantalla en el teléfono. No dependas de tener conexión a datos en el puesto de migración.
 
-Las confirmaciones de reserva también van en el paquete. Vuelo, hotel, auto de alquiler. No porque te las pidan en cada control, sino porque quieres acceso inmediato si algo sale mal. Una póliza de seguro de viaje con el número de emergencias completa el mínimo indispensable.
+Las confirmaciones de reserva también van en el paquete. Vuelo, hotel, auto de alquiler. No porque te las pidan en cada control, sino porque quieres acceso inmediato si algo sale mal. Una póliza de [seguro de viaje](https://ektatraveling.com/) con el número de emergencias completa el mínimo indispensable.
 
 Para viajes dentro de la Unión Europea, la TSJE (Tarjeta Sanitaria Europea) cubre atención médica básica en todos los países de la UE y el EEE. La emite tu aseguradora pública de forma gratuita. Antes de armar tu carpeta de documentos, revisa nuestra [guía de vacunas para viajes](/es/blog/vacunas-viaje-guia/) para ver si necesitas certificados de salud adicionales.
 

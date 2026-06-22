@@ -30,7 +30,7 @@ Five criteria, ranked by importance.
 
 **1. Foreign transaction fees:** This is the most common hidden cost. Many cards charge 1.5-3% on every foreign payment. On 2,000 EUR of overseas spending: 30-60 EUR extra, invisible until you check the statement. Cards like Revolut or Wise eliminate this completely.
 
-**2. Travel insurance coverage:** Many premium cards include travel accident, baggage, and trip cancellation insurance. Check the coverage amounts carefully. Often the protection only applies if you also booked the trip with that card. More on this in our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
+**2. [Travel insurance](https://ektatraveling.com/) coverage:** Many premium cards include travel accident, baggage, and trip cancellation insurance. Check the coverage amounts carefully. Often the protection only applies if you also booked the trip with that card. More on this in our [travel insurance guide](/en/blog/travel-insurance-worth-it-2026/).
 
 **3. Welcome bonus:** Miles cards advertise 20,000-60,000 bonus miles for the first few months of spending. It sounds like a lot. It often equals one domestic flight or one upgrade attempt. Still: a good bonus offer can justify the first year's fee.
 

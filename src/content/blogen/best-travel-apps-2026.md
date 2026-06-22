@@ -28,7 +28,7 @@ Four indispensable tools for the trip itself.
 
 **Google Maps with offline maps.** Download the destination map before every trip. Works abroad without data connection, including route planning. Lifesaver when roaming fails.
 
-**Airalo (eSIM).** Instead of expensive roaming, buy a virtual SIM in the app for your destination. 30 days of data in Italy: $14. In Bali: $12. Activation in 5 minutes, no physical SIM swap.
+**Airalo ([eSIM](https://www.airalo.com/)).** Instead of expensive roaming, buy a virtual SIM in the app for your destination. 30 days of data in Italy: $14. In Bali: $12. Activation in 5 minutes, no physical SIM swap.
 
 **Splitwise.** When you travel in a group. App automatically splits expenses (hotel, restaurant, rental car) and shows at the end who owes what to whom. Avoids "who paid what" arguments.
 

@@ -120,7 +120,7 @@ Para el Camino Inca: al menos 6 meses antes. Para los refugios del Circuito W de
 
 ### ¿Qué tan peligrosas son realmente las rutas de larga distancia?
 
-La mayoría de los riesgos son evitables. Mal de altura en el EBC y el Kilimanjaro por subir demasiado rápido, cambios bruscos de tiempo en la Patagonia y el TMB, golpe de calor en tramos de calor extremo. La preparación, el equipo adecuado y un ritmo realista eliminan la mayoría de los peligros. Un buen seguro de viaje con cobertura de rescate en montaña es imprescindible en rutas de alta montaña.
+La mayoría de los riesgos son evitables. Mal de altura en el EBC y el Kilimanjaro por subir demasiado rápido, cambios bruscos de tiempo en la Patagonia y el TMB, golpe de calor en tramos de calor extremo. La preparación, el equipo adecuado y un ritmo realista eliminan la mayoría de los peligros. Un buen [seguro de viaje](https://ektatraveling.com/) con cobertura de rescate en montaña es imprescindible en rutas de alta montaña.
 
 ---
 

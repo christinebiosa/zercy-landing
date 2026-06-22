@@ -58,7 +58,7 @@ Drei Hauptunterschiede zu Reisen mit jüngeren Kindern:
 
 ## Tech-Tipps: SIM und Offline-Navigation
 
-Eine lokale SIM oder ein eSIM ist für Teenager Pflicht. Ohne mobiles Daten fühlst sie sich abgeschnitten. Das erzeugt mehr Konflikt als es wert ist. [eSIM-Provider](/blog/cyber-sicherheit-reisen/) wie Airalo oder Holafly kosten 5 bis 15 EUR für eine Woche.
+Eine lokale SIM oder ein [eSIM](https://www.airalo.com/) ist für Teenager Pflicht. Ohne mobiles Daten fühlst sie sich abgeschnitten. Das erzeugt mehr Konflikt als es wert ist. [eSIM-Provider](/blog/cyber-sicherheit-reisen/) wie Airalo oder Holafly kosten 5 bis 15 EUR für eine Woche.
 
 Offline-Karte installieren (Google Maps Offline, Maps.me) bevor ihr fliegt. In Ländern mit schwachem Datennetz oder teuren Roaming-Kosten ist das wichtig.
 

@@ -28,7 +28,7 @@ Book on the SNCF or Renfe website. Early booking unlocks fares well below €80 
 
 Since the Gotthard Base Tunnel opened in 2016 — at 57 kilometers, the world's longest railway tunnel — Zürich to Milan takes under four hours. The crossing through the Alps is an experience in itself: minutes of darkness, then suddenly the light changes and Italy begins.
 
-No airport transfers on either end. Both stations are in the city center. Flying makes no sense here.
+No [airport transfers](https://www.welcomepickups.com/) on either end. Both stations are in the city center. Flying makes no sense here.
 
 ### 3. Vienna — Salzburg — Munich (Railjet, 4 Hours)
 

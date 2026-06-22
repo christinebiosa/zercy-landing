@@ -26,7 +26,7 @@ Three categories cover almost all attacks.
 
 Seven evidence-based protective measures, sorted by importance.
 
-**1. Use a VPN on every public WiFi.** VPN encrypts your data traffic, making snooping impossible. Recommendation: NordVPN, ProtonVPN, or Mullvad. Cost: $5-10 per month. Activate every time you log into banking, email, or cloud services.
+**1. Use a [VPN](https://nordvpn.com/) on every public WiFi.** VPN encrypts your data traffic, making snooping impossible. Recommendation: NordVPN, ProtonVPN, or Mullvad. Cost: $5-10 per month. Activate every time you log into banking, email, or cloud services.
 
 **2. Password manager instead of repeated passwords.** A password manager (1Password, Bitwarden) generates a unique password per account. If hotel WiFi gets hacked, only one account is at risk, not all 50.
 
@@ -50,7 +50,7 @@ Concrete recommendations, tested.
 
 **2FA apps:** Authy (free, cloud backup), Google Authenticator (free, no cloud backup), Aegis (free, open source, Android).
 
-**eSIM for secure mobile:** Airalo or Holafly. Your own data instead of hotel WiFi. $10-30 per trip.
+**[eSIM](https://www.airalo.com/) for secure mobile:** Airalo or Holafly. Your own data instead of hotel WiFi. $10-30 per trip.
 
 See our [solo travel guide](/en/blog/solo-travel-women-safe-countries/), many of these tools are especially important for solo travelers.
 

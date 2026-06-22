@@ -51,7 +51,7 @@ Sin pánico. Los primeros 30 minutos determinan si pierdes dinero, tarjetas y do
 - American Express: en el reverso de la tarjeta o a través de la app
 - Línea de emergencias de tu banco: guárdala antes de salir de viaje
 
-**2. Poner denuncia en la policía.** No para atrapar a los ladrones. No los van a encontrar. Sino para el seguro. Sin denuncia, ningún seguro de viaje cubre el robo. Pide en el hotel cuál es la comisaría más cercana. Pide una confirmación por escrito.
+**2. Poner denuncia en la policía.** No para atrapar a los ladrones. No los van a encontrar. Sino para el seguro. Sin denuncia, ningún [seguro de viaje](https://ektatraveling.com/) cubre el robo. Pide en el hotel cuál es la comisaría más cercana. Pide una confirmación por escrito.
 
 **3. ¿Pasaporte robado?** Ve a tu embajada o consulado más cercano. Emiten documentos de viaje de emergencia (en 1 a 2 días en la mayoría de los casos). Sin pasaporte no puedes volver a casa. Lista de [embajadas españolas en el mundo](https://www.exteriores.gob.es/Embajadas/es/Paginas/inicio.aspx).
 

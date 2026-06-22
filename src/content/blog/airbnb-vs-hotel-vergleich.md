@@ -37,7 +37,7 @@ Garantierte Sauberkeit. Hotels haben Personal, das täglich putzt und Mindeststa
 
 Zuverlässigkeit. Hotels stornieren Buchungen extrem selten. AirBnB-Hosts schon. Eine 2024-Auswertung der [Stiftung Warentest](https://www.test.de/) zeigte: rund 7 Prozent aller AirBnB-Buchungen werden vom Host kurzfristig storniert.
 
-Service. Concierge, 24h-Rezeption, Frühstück, Gepäckaufbewahrung nach Checkout. Kleine Dinge, die beim Reisen einen großen Unterschied machen.
+Service. Concierge, 24h-Rezeption, Frühstück, [Gepäckaufbewahrung](https://radicalstorage.com/) nach Checkout. Kleine Dinge, die beim Reisen einen großen Unterschied machen.
 
 Lies auch unsere [Riads in Marokko-Übersicht](/blog/riads-marokko-guide/) für besondere Unterkunftserlebnisse.
 

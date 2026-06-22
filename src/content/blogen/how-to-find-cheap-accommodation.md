@@ -45,7 +45,7 @@ Hostels are obvious. But the cheapest options go further:
 
 **Guesthouses off the booking platforms** appear only on Google Maps. Search "guesthouse [city name]" or "pension [city name]" and you find family-run spots with rooms for EUR 10-20 per night in Southern Europe and well under EUR 10 across Southeast Asia. They have never listed on Booking.com and are often the best value you will find.
 
-If you are traveling through Europe, [night trains](/en/blog/night-trains-europe-2026/) save an accommodation night while covering distance. And traveling [carry-on only](/en/blog/carry-on-only/) gives you more flexibility for cheaper guesthouses with no luggage storage drama. For flight savings alongside your accommodation budget, the [cheap flights guide](/en/blog/cheap-flights-tips/) has the most reliable tricks.
+If you are traveling through Europe, [night trains](/en/blog/night-trains-europe-2026/) save an accommodation night while covering distance. And traveling [carry-on only](/en/blog/carry-on-only/) gives you more flexibility for cheaper guesthouses with no [luggage storage](https://radicalstorage.com/) drama. For flight savings alongside your accommodation budget, the [cheap flights guide](/en/blog/cheap-flights-tips/) has the most reliable tricks.
 
 ## Which Small Tricks Make the Biggest Difference?
 

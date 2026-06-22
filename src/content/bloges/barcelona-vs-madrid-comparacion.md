@@ -47,7 +47,7 @@ Puedes encontrar más detalles sobre dónde hospedarte en nuestra guía de [dón
 
 ## ¿Cuándo tiene sentido combinar las dos ciudades?
 
-La combinación clásica de España: 3 noches en Barcelona, tren de alta velocidad (2 horas y media, desde unos 30 euros reservado con antelación), 3 noches en Madrid. O al revés. El AVE hace esta ruta más cómoda que la mayoría de los vuelos de corto radio una vez que sumas los traslados al aeropuerto.
+La combinación clásica de España: 3 noches en Barcelona, tren de alta velocidad (2 horas y media, desde unos 30 euros reservado con antelación), 3 noches en Madrid. O al revés. El AVE hace esta ruta más cómoda que la mayoría de los vuelos de corto radio una vez que sumas los [traslados al aeropuerto](https://www.welcomepickups.com/).
 
 Empieza en Barcelona si llegas en avión: la mayoría de los vuelos intercontinentales aterrizan en Barcelona. Empieza en Madrid si quieres incluir excursiones de un día, ya que Toledo y Segovia son más fáciles desde allí.
 

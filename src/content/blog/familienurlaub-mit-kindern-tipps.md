@@ -72,7 +72,7 @@ Keine vollständige Liste. Aber die sechs Dinge, die Familien am meisten vermiss
 2. **Erst-Hilfe-Set speziell für Kinder:** Mit Fiebersenker (Dosierung nach Gewicht), Elektrolytpulver, Pflaster, Antiseptikum.
 3. **Portable Weißgeräusch-Box:** Für Kleinkinder in Hotelzimmern. Schlafrhythmus halten wenn das Zimmer fremd ist.
 4. **Faltbarer Kinderwagen:** Kompakter als Standard-Buggy, geht als Handgepäck durch, funktioniert auf Kopfsteinpflaster besser als große Räder.
-5. **Digitale Krankenversicherungskarte + Reiseversicherung:** Immer dabei. Nie die Originaldokumente im Koffer. Was [Reiseversicherung wirklich leistet](/blog/reiseversicherung-was-lohnt-sich/) und wann sie sich lohnt, erklärt der separate Artikel.
+5. **Digitale Krankenversicherungskarte + [Reiseversicherung](https://ektatraveling.com/):** Immer dabei. Nie die Originaldokumente im Koffer. Was [Reiseversicherung wirklich leistet](/blog/reiseversicherung-was-lohnt-sich/) und wann sie sich lohnt, erklärt der separate Artikel.
 6. **Backup-Unterhaltung offline:** Apps und Hörbücher vor dem Flug herunterladen. In der Luft gibt es kein WLAN oder es ist unzuverlässig.
 
 ## Notfall-Plan: Was gehört vor jede Familienreise?

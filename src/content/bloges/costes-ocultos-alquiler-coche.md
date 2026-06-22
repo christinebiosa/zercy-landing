@@ -44,7 +44,7 @@ Elimina la franquicia del seguro estándar. Cuesta 20-50 euros al día. Para una
 5-8 euros al día. No guardar objetos de valor visibles en el coche es más efectivo que el seguro.
 
 **Protección de responsabilidad personal:**
-A veces el seguro estándar tiene límites de responsabilidad civil más bajos. Este extra sube la cobertura. Verificar qué incluye exactamente tu seguro de viaje o tarjeta de crédito antes de pagar este extra.
+A veces el seguro estándar tiene límites de responsabilidad civil más bajos. Este extra sube la cobertura. Verificar qué incluye exactamente tu [seguro de viaje](https://ektatraveling.com/) o tarjeta de crédito antes de pagar este extra.
 
 ## Cómo evitar los costes ocultos sistemáticamente
 

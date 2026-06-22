@@ -61,7 +61,7 @@ Kein langes Hin und Her. Hier die ehrliche Einordnung.
 
 **Lohnt sich eher nicht, wenn du:**
 
-- fast ausschließlich über mobile Daten oder eine eSIM ins Netz gehst
+- fast ausschließlich über mobile Daten oder eine [eSIM](https://www.airalo.com/) ins Netz gehst
 - nur sehr kurz unterwegs bist, etwa ein verlängertes Wochenende
 - kein Streaming brauchst und kein öffentliches WLAN nutzt
 - ohnehin nur in Ländern reist, in denen alles frei zugänglich ist

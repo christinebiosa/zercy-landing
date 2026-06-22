@@ -53,7 +53,7 @@ Cancelling means giving up the flight entirely. You get a refund only in these c
 
 **Airline cancellation:** The airline cancels your flight. In that case, EU261 entitles you to a full refund of the ticket price regardless of your fare type. Check our full [EU261 compensation guide](/en/blog/flight-delay-compensation-eu261/) for what you are owed.
 
-**Travel insurance:** If you have trip cancellation coverage and a qualifying reason applies (illness, a family emergency), your insurance covers the loss. Without it, a non-refundable ticket means you lose the full fare. Whether travel insurance is worth it depends on your situation. We break it down in our [trip cancellation insurance guide](/en/blog/trip-cancellation-insurance-guide/).
+**[Travel insurance](https://ektatraveling.com/):** If you have trip cancellation coverage and a qualifying reason applies (illness, a family emergency), your insurance covers the loss. Without it, a non-refundable ticket means you lose the full fare. Whether travel insurance is worth it depends on your situation. We break it down in our [trip cancellation insurance guide](/en/blog/trip-cancellation-insurance-guide/).
 
 Always request a refund of your taxes and airport fees, even on non-refundable tickets. Airlines are required to return these in most cases, and the amount is often higher than people expect.
 

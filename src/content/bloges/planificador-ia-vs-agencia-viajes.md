@@ -63,7 +63,7 @@ Zercy interpreta tu intención de viaje en lenguaje natural ("quiero ir a Bangko
 
 #### ¿Puede la IA gestionar problemas imprevistos durante el viaje?
 
-La IA puede orientarte sobre qué hacer (buscar vuelo alternativo, qué derechos tienes si el vuelo se cancela, cómo contactar con el seguro de viaje), pero no puede hacer gestiones en tu nombre. Para la resolución activa de problemas en tiempo real durante el viaje, necesitas acceder a las plataformas donde tienes las reservas, al seguro de viaje o, en casos complejos, a una agencia con capacidad de gestión.
+La IA puede orientarte sobre qué hacer (buscar vuelo alternativo, qué derechos tienes si el vuelo se cancela, cómo contactar con el [seguro de viaje](https://ektatraveling.com/)), pero no puede hacer gestiones en tu nombre. Para la resolución activa de problemas en tiempo real durante el viaje, necesitas acceder a las plataformas donde tienes las reservas, al seguro de viaje o, en casos complejos, a una agencia con capacidad de gestión.
 
 ---
 

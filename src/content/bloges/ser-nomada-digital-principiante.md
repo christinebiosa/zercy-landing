@@ -40,7 +40,7 @@ Porque el inicio rara vez sale sin problemas. El primer coworking no te convence
 
 Con seis meses de ahorros puedes absorber estos golpes con calma. Con dos meses empezarás a ponerte nervioso en cuanto llegue el primer bache.
 
-Además, la vida nómada tiene costos ocultos. El alojamiento a corto plazo es más caro que a largo plazo. SIM cards, coworking, seguro de viaje ocasional. Se acumula rápido. Revisa también nuestra guía sobre [impuestos para workation 2026](/es/blog/workation-impuestos-2026/), porque resolver la cuestión fiscal a tiempo es fundamental.
+Además, la vida nómada tiene costos ocultos. El alojamiento a corto plazo es más caro que a largo plazo. SIM cards, coworking, [seguro de viaje](https://ektatraveling.com/) ocasional. Se acumula rápido. Revisa también nuestra guía sobre [impuestos para workation 2026](/es/blog/workation-impuestos-2026/), porque resolver la cuestión fiscal a tiempo es fundamental.
 
 ## ¿Qué primer destino funciona realmente para principiantes?
 

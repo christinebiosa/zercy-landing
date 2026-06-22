@@ -37,7 +37,7 @@ Los mejores destinos para un babymoon combinan comodidad, calma y acceso a atenc
 
 El visto bueno médico antes de viajar es obligatorio, no opcional. Revisa tu estado vacunal: algunas vacunas están contraindicadas en el embarazo. Evita en lo posible las zonas con malaria porque los medicamentos profilácticos están muy restringidos durante la gestación. Consulta con tu médico todas las vacunas de viaje antes de reservar.
 
-Adapta tu seguro de viaje. Una póliza de cancelación estándar no siempre cubre cancelaciones por causas relacionadas con el embarazo. Busca coberturas que incluyan explícitamente el embarazo. La [guía sobre seguros de viaje](/es/blog/seguro-viaje-vale-la-pena/) da un buen panorama de lo que cubre cada tipo de póliza.
+Adapta tu [seguro de viaje](https://ektatraveling.com/). Una póliza de cancelación estándar no siempre cubre cancelaciones por causas relacionadas con el embarazo. Busca coberturas que incluyan explícitamente el embarazo. La [guía sobre seguros de viaje](/es/blog/seguro-viaje-vale-la-pena/) da un buen panorama de lo que cubre cada tipo de póliza.
 
 Elige el hotel con cuidado. Los hoteles de mayor nivel suelen tener mejores camas, mejor climatización y ubicaciones más tranquilas. En un babymoon el alojamiento no es un lugar para recortar gastos. La flexibilidad en el horario de check-in puede ser importante en días de mucho viaje.
 

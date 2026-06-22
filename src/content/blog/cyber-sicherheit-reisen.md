@@ -26,7 +26,7 @@ Drei Kategorien decken fast alle Angriffe ab.
 
 Sieben evidenzbasierte Schutzmaßnahmen, sortiert nach Wichtigkeit.
 
-**1. Nutze ein VPN auf jedem Public WiFi.** VPN verschlüsselt deinen Datenverkehr, sodass Snooping unmöglich wird. Empfehlung: NordVPN, ProtonVPN oder Mullvad. Kosten: 4-8 Euro pro Monat. Bei jedem Login in Banking, E-Mail oder Cloud aktivieren.
+**1. Nutze ein [VPN](https://nordvpn.com/) auf jedem Public WiFi.** VPN verschlüsselt deinen Datenverkehr, sodass Snooping unmöglich wird. Empfehlung: NordVPN, ProtonVPN oder Mullvad. Kosten: 4-8 Euro pro Monat. Bei jedem Login in Banking, E-Mail oder Cloud aktivieren.
 
 **2. Passwort-Manager statt gleiche Passwörter.** Ein Passwort-Manager (1Password, Bitwarden) generiert für jeden Account ein eigenes Passwort. Wenn ein Hotel-WLAN gehackt wird, ist nur ein Account gefährdet, nicht alle 50.
 
@@ -50,7 +50,7 @@ Konkrete Empfehlungen, getestet.
 
 **2FA-Apps:** Authy (kostenlos, Cloud-Backup), Google Authenticator (kostenlos, kein Cloud-Backup), Aegis (kostenlos, Open Source, Android).
 
-**eSIM für sicheres Mobilnetz:** Airalo oder Holafly. Eigene Daten statt Hotel-WLAN. 10-30 Euro pro Trip.
+**[eSIM](https://www.airalo.com/) für sicheres Mobilnetz:** Airalo oder Holafly. Eigene Daten statt Hotel-WLAN. 10-30 Euro pro Trip.
 
 Schau dir auch unseren [Solo-Reisen-Guide](/blog/solo-reisen-frauen-sicher/) an — viele dieser Tools sind besonders wichtig für Alleinreisende.
 

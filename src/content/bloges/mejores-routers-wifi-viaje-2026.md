@@ -13,7 +13,7 @@ Estos 7 modelos son las mejores opciones en 2026. Distintos casos de uso, distin
 
 ## ¿Qué tener en cuenta?
 
-Hay dos tipos de dispositivos en esta categoría. Un **hotspot móvil con SIM o eSIM** (como Skyroam Solis o Glocalme G4 Pro) se conecta a la red móvil y emite Wi-Fi. No necesita una conexión previa. Un **router de viaje** (como los modelos GL.iNet) toma una conexión Wi-Fi o de cable existente y la distribuye de forma segura entre tus dispositivos. Suele incluir soporte VPN.
+Hay dos tipos de dispositivos en esta categoría. Un **hotspot móvil con SIM o [eSIM](https://www.airalo.com/)** (como Skyroam Solis o Glocalme G4 Pro) se conecta a la red móvil y emite Wi-Fi. No necesita una conexión previa. Un **router de viaje** (como los modelos GL.iNet) toma una conexión Wi-Fi o de cable existente y la distribuye de forma segura entre tus dispositivos. Suele incluir soporte [VPN](https://nordvpn.com/).
 
 Lo más importante al comparar: **duración de la batería** (mínimo 8-10 horas para un día completo de viaje), **número de dispositivos conectados simultáneamente** (5+ es estándar), **4G vs. 5G** (más rápido pero más caro), y si el dispositivo incluye **planes de datos globales o soporte eSIM**. La eSIM integrada evita tener que buscar una SIM local al llegar. Si los destinos con eSIM están en tu lista, nuestra [guía de eSIM para viajes 2026](/es/blog/esim-viaje-guia-2026/) compara los mejores proveedores.
 

@@ -40,7 +40,7 @@ Hier ist die ehrliche Faustregel, an der du dich orientieren kannst.
 - der Anlass nicht verschiebbar ist (Hochzeit, Konzert mit festem Ticket, gebuchter Kurs)
 - du den Preis schon mehrfach geprueft hast und er stabil ist
 - die Ersparnis spurbar ist (15 % oder mehr)
-- du eine separate Reiseversicherung hast, die im Notfall einspringt
+- du eine separate [Reiseversicherung](https://ektatraveling.com/) hast, die im Notfall einspringt
 
 **Buche mit kostenloser Stornierung, wenn:**
 - die Reise weiter weg ist als ein Monat

@@ -14,7 +14,7 @@ En 2026 el mercado de tarjetas para viajeros es más competitivo que nunca. Aqu�
 
 ## ¿Qué diferencia a una tarjeta de viaje de una tarjeta normal?
 
-Una tarjeta de crédito estándar te da puntos o cashback por tus compras. Una tarjeta de viaje va más lejos: convierte esos puntos en millas para vuelos, incluye seguro de viaje, elimina los recargos por uso internacional y, en los mejores casos, te abre las puertas de las salas VIP en los aeropuertos.
+Una tarjeta de crédito estándar te da puntos o cashback por tus compras. Una tarjeta de viaje va más lejos: convierte esos puntos en millas para vuelos, incluye [seguro de viaje](https://ektatraveling.com/), elimina los recargos por uso internacional y, en los mejores casos, te abre las puertas de las salas VIP en los aeropuertos.
 
 El detalle importante: no todas las tarjetas funcionan igual en todos los países de América Latina. La disponibilidad de American Express, por ejemplo, varía mucho entre México, Colombia, Argentina y Chile. Antes de solicitar cualquier tarjeta, verifica si tu banco local tiene convenio con el programa de recompensas que te interesa.
 

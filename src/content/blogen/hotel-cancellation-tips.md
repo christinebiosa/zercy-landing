@@ -42,7 +42,7 @@ In almost every case, the hotel charges you for the first night. If you booked a
 
 There are exceptions. Medical emergencies with documentation sometimes result in a waiver, at the hotel's discretion. But you cannot count on it.
 
-This is where travel insurance earns its place. A good trip cancellation or travel health insurance policy covers hotel costs when you cancel due to illness, injury, or a family emergency. For frequent travelers, this is not optional. It is a basic layer of protection.
+This is where [travel insurance](https://ektatraveling.com/) earns its place. A good trip cancellation or travel health insurance policy covers hotel costs when you cancel due to illness, injury, or a family emergency. For frequent travelers, this is not optional. It is a basic layer of protection.
 
 More on this: [Trip Cancellation Insurance: What It Actually Covers](/en/blog/trip-cancellation-insurance-guide/)
 

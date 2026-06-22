@@ -108,7 +108,7 @@ Portugal und Marokko sind die einsteigerfreundlichsten Optionen für Europäer: 
 
 ### Was ist in einem Yoga-Retreat typischerweise inklusive?
 
-Gute Retreats beinhalten: Unterkunft, alle Mahlzeiten (meist vegetarisch), tägliche Yoga-Sessions (morgens und abends), Meditation, manchmal Ausflüge oder Workshops. Einige beinhalten Flughafentransfer. Nicht inklusive sind meist: Massagen, Einzelstunden, Ausflüge außerhalb des Programms, Getränke wie Alkohol.
+Gute Retreats beinhalten: Unterkunft, alle Mahlzeiten (meist vegetarisch), tägliche Yoga-Sessions (morgens und abends), Meditation, manchmal Ausflüge oder Workshops. Einige beinhalten [Flughafentransfer](https://www.welcomepickups.com/). Nicht inklusive sind meist: Massagen, Einzelstunden, Ausflüge außerhalb des Programms, Getränke wie Alkohol.
 
 ### Wie weit im Voraus sollte man ein Retreat buchen?
 

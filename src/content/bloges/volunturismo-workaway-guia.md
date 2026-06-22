@@ -52,7 +52,7 @@ Para viajes de bajo presupuesto por Asia, Workaway se combina bien con una estra
 
 Los costos base son bajos. Membresía en Workaway o WWOOF: 20 a 50 dólares. El vuelo al destino: tu gasto más importante. Con el anfitrión: sin costo. Alojamiento y comida están incluidos.
 
-Suena demasiado bien. El problema es que igual tienes que llegar. Los vuelos a Costa Rica, Tailandia, Perú o Nepal cuestan dinero real. Y un seguro de viaje es imprescindible sin importar lo económico que sea el programa. Qué cubre de verdad un [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) no siempre es obvio.
+Suena demasiado bien. El problema es que igual tienes que llegar. Los vuelos a Costa Rica, Tailandia, Perú o Nepal cuestan dinero real. Y un [seguro de viaje](https://ektatraveling.com/) es imprescindible sin importar lo económico que sea el programa. Qué cubre de verdad un [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) no siempre es obvio.
 
 Costos adicionales a considerar: transporte entre anfitriones, tarifas de visado (Nepal, Vietnam y Perú tienen reglas distintas), comida en los días libres cuando comes fuera de casa del anfitrión.
 

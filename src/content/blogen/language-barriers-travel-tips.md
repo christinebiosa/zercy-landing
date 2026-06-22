@@ -97,7 +97,7 @@ Japan outside major cities, rural China, Arabic-speaking countries away from tou
 
 ### Why does Google Translate sometimes not work in certain countries?
 
-In China, most Google services are blocked. Download all language packs offline before entering the country. VPN as an alternative: set it up before arrival, not after.
+In China, most Google services are blocked. Download all language packs offline before entering the country. [VPN](https://nordvpn.com/) as an alternative: set it up before arrival, not after.
 
 ---
 

@@ -81,7 +81,7 @@ Wer Udaipur nicht nur als Postkartenmotiv sehen will, sondern auch spüren möch
 
 Gangaur Ghat liegt am südlichen Ufer des Lake Pichola, abseits der dichten Altstadt-Ströme. Der Ghat ist ein ritueller Badeplatz, morgens kommen Einheimische für ihre Morgenroutine. Abends fährt von hier eine der Bootstouren auf den See. Hotels in diesem Bereich sind oft kleinere Havelis und Guesthouses, die weniger bekannt, aber sehr authentisch sind.
 
-Für alle, die Udaipur wirklich kennenlernen wollen und nicht das typische Touristenprogramm abarbeiten, ist der Gangaur Ghat-Bereich ein Geheimtipp. Eine Reiseversicherung für Indien lohnt sich in jedem Fall. Mehr dazu in unserer [Reiseversicherungs-Analyse](/blog/reiseversicherung-was-lohnt-sich/).
+Für alle, die Udaipur wirklich kennenlernen wollen und nicht das typische Touristenprogramm abarbeiten, ist der Gangaur Ghat-Bereich ein Geheimtipp. Eine [Reiseversicherung](https://ektatraveling.com/) für Indien lohnt sich in jedem Fall. Mehr dazu in unserer [Reiseversicherungs-Analyse](/blog/reiseversicherung-was-lohnt-sich/).
 
 **Wer hier richtig liegt:** Alleinreisende, Repeat-Visitors, alle die Tiefe statt Bequemlichkeit suchen.
 

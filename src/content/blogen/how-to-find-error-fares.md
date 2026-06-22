@@ -73,7 +73,7 @@ Some airlines have a track record of honoring mistakes: Finnair, Japan Airlines,
 
 Flexible travel dates help enormously. If you were planning to travel anyway and the fare fits, the risk is low. If you need to book extra leave and non-refundable hotels, calculate the total risk beforehand.
 
-For deciding whether travel insurance is worth it in these situations, read [Travel Insurance: Is It Worth It](/en/blog/travel-insurance-worth-it-2026/). To understand when to book flights for the best general prices, check [When to Book Flights](/en/blog/when-to-book-flights/).
+For deciding whether [travel insurance](https://ektatraveling.com/) is worth it in these situations, read [Travel Insurance: Is It Worth It](/en/blog/travel-insurance-worth-it-2026/). To understand when to book flights for the best general prices, check [When to Book Flights](/en/blog/when-to-book-flights/).
 
 ---
 

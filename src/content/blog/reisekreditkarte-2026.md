@@ -44,7 +44,7 @@ Keine Universalempfehlung. Aber klare Muster:
 
 **Vielreisende (8+ Flüge pro Jahr):** Meilen-Karte mit guter Airline-Partnerschaft oder Premium-Lounge-Karte. Die Jahresgebühr amortisiert sich schnell. Wichtig: Meilen-Programm wählen, bei dem du auch wirklich sammelst. Wer ausschließlich mit Lufthansa fliegt: Miles & More lohnt sich. Wer bunt mischt: Amex Membership Rewards oder ähnliche Transferprogramme sind flexibler.
 
-**Gelegenheitsreisende (2-5 Flüge pro Jahr):** Allround-Karte ohne Jahresgebühr plus gute Reiseversicherung. DKB Visa oder Revolut Premium deckt den Alltagsfall ab. Lounge-Karte lohnt sich nicht.
+**Gelegenheitsreisende (2-5 Flüge pro Jahr):** Allround-Karte ohne Jahresgebühr plus gute [Reiseversicherung](https://ektatraveling.com/). DKB Visa oder Revolut Premium deckt den Alltagsfall ab. Lounge-Karte lohnt sich nicht.
 
 **Business-Reisende (Kosten werden erstattet):** Hier zählen Meilen auf Firmenausgaben. Amex Business-Karten oder ähnliche bieten genau das. Punkte gehen trotzdem oft an dich, nicht an die Firma. Steuerlich vorab klären.
 

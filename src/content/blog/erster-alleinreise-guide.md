@@ -38,7 +38,7 @@ Einsamkeit gibt es. Abends manchmal, wenn alle anderen in Gruppen unterwegs zu s
 
 Allein reisen bedeutet nicht sorglos reisen. Ein paar einfache Maßnahmen machen einen echten Unterschied.
 
-**Dokumentenkopien in der Cloud.** Scanne deinen Pass, deine Kreditkarte und deine Reiseversicherung. Lade alles in Google Drive oder iCloud. Wenn doch mal etwas gestohlen wird, hast du Zugriff auf alle wichtigen Nummern, egal von welchem Gerät.
+**Dokumentenkopien in der Cloud.** Scanne deinen Pass, deine Kreditkarte und deine [Reiseversicherung](https://ektatraveling.com/). Lade alles in Google Drive oder iCloud. Wenn doch mal etwas gestohlen wird, hast du Zugriff auf alle wichtigen Nummern, egal von welchem Gerät.
 
 **Notfallkontakt informieren.** Gib zuhause jemandem dein grobes Reiseprogramm. Nicht stündlich, aber: Stadt, Unterkunft, geplante Abreise. Tägliche kurze Whatsapp-Updates an Eltern oder Freunde halten alle ruhig. Dich auch.
 

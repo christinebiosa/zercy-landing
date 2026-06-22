@@ -59,7 +59,7 @@ Prevenir es mejor que compensar.
 
 **Maleta distintiva:** Una pegatina llamativa o un color poco común ayuda. Las maletas negras idénticas a veces se las lleva otro pasajero por error.
 
-**Seguro de viaje o cobertura de tarjeta de crédito:** Muchas tarjetas premium (American Express Gold, Visa Infinite y otras) incluyen protección de equipaje como beneficio gratuito. Revisa tu tarjeta antes de contratar una póliza aparte. Más en la guía de [maleta de cabina: cómo hacer la maleta perfecta](/es/blog/maleta-cabina-sistema-empacar/).
+**[Seguro de viaje](https://ektatraveling.com/) o cobertura de tarjeta de crédito:** Muchas tarjetas premium (American Express Gold, Visa Infinite y otras) incluyen protección de equipaje como beneficio gratuito. Revisa tu tarjeta antes de contratar una póliza aparte. Más en la guía de [maleta de cabina: cómo hacer la maleta perfecta](/es/blog/maleta-cabina-sistema-empacar/).
 
 ---
 

@@ -66,11 +66,11 @@ Las más útiles son gratuitas: Google Maps, Google Translate, Google Flights, B
 
 #### ¿Cómo gestionar el uso de datos móviles en el extranjero?
 
-La eSIM es la solución más flexible para 2026: comprar una eSIM virtual para el destino antes de viajar (Airalo, Holafly o Nomad son los proveedores más usados). Son más baratas que el roaming del operador local y se activan sin necesidad de cambiar la SIM física. Para viajeros en la UE: el roaming gratuito entre países de la Unión aplica desde 2017, sin coste adicional.
+La [eSIM](https://www.airalo.com/) es la solución más flexible para 2026: comprar una eSIM virtual para el destino antes de viajar (Airalo, Holafly o Nomad son los proveedores más usados). Son más baratas que el roaming del operador local y se activan sin necesidad de cambiar la SIM física. Para viajeros en la UE: el roaming gratuito entre países de la Unión aplica desde 2017, sin coste adicional.
 
 #### ¿Qué pasa si se agota la batería del teléfono en destino y no tengo todas las apps descargadas?
 
-La regla del viajero experimentado: descargar los mapas offline, los idiomas de traducción y los documentos importantes antes de salir del hotel cada mañana. Una batería externa (powerbank) de 10.000+ mAh da una carga completa al teléfono y es el seguro de viaje tecnológico más práctico.
+La regla del viajero experimentado: descargar los mapas offline, los idiomas de traducción y los documentos importantes antes de salir del hotel cada mañana. Una batería externa (powerbank) de 10.000+ mAh da una carga completa al teléfono y es el [seguro de viaje](https://ektatraveling.com/) tecnológico más práctico.
 
 ---
 

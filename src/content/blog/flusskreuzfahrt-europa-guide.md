@@ -94,7 +94,7 @@ Typische Standardkabinen auf Flusskreuzfahrtschiffen sind 15-20 Quadratmeter gro
 
 ### Was passiert bei Niedrigwasser auf dem Rhein oder der Donau?
 
-Extreme Niedrigwasser-Perioden (wie Sommer 2022) können dazu führen, dass Schiffe nicht alle geplanten Häfen anlaufen können. Seriöse Anbieter arrangieren dann Busshuttles zwischen dem Schiff und den Ausflugsorten. Das kommt selten vor, aber es ist ein echtes Risiko. Eine gute Reiseversicherung ist bei Flusskreuzfahrten besonders sinnvoll.
+Extreme Niedrigwasser-Perioden (wie Sommer 2022) können dazu führen, dass Schiffe nicht alle geplanten Häfen anlaufen können. Seriöse Anbieter arrangieren dann Busshuttles zwischen dem Schiff und den Ausflugsorten. Das kommt selten vor, aber es ist ein echtes Risiko. Eine gute [Reiseversicherung](https://ektatraveling.com/) ist bei Flusskreuzfahrten besonders sinnvoll.
 
 ### Wie bucht man eine Flusskreuzfahrt am günstigsten?
 

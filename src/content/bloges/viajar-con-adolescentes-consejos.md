@@ -68,7 +68,7 @@ Surf en Costa Rica, escalada en España, rafting en Nueva Zelanda, trekking en P
 
 ## Consejos técnicos: SIM y navegación sin conexión
 
-Una SIM local o eSIM es esencial para los adolescentes. Sin datos móviles se sienten desconectados. Eso genera más conflicto de lo que vale. Proveedores de eSIM como Airalo o Holafly cuestan entre 5 y 15 EUR por semana.
+Una SIM local o [eSIM](https://www.airalo.com/) es esencial para los adolescentes. Sin datos móviles se sienten desconectados. Eso genera más conflicto de lo que vale. Proveedores de eSIM como Airalo o Holafly cuestan entre 5 y 15 EUR por semana.
 
 Instala un mapa sin conexión (Google Maps Offline, Maps.me) antes de volar. En países con redes de datos débiles o cargos de roaming costosos esto es importante.
 

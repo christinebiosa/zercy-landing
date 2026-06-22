@@ -32,7 +32,7 @@ Common misconception: heavy planners are anxious people. Actually the opposite i
 
 - **Pre-book your transfer:** Don't rely on finding a taxi when you land. A booked transfer (via Booking.com Transport, Kiwitaxi, or directly with the hotel) removes the first stress point. Knowing who's picking you up has a surprisingly calming effect.
 - **Print emergency info:** Embassy number, hotel contact, local emergency number (112 across the EU, 911 in the USA) on a piece of paper. Sounds old-fashioned. Works.
-- **Get travel insurance:** The coverage alone reduces anxiety about illness, lost luggage, and cancellations. Knowing you're covered if something goes wrong makes the trip lighter.
+- **Get [travel insurance](https://ektatraveling.com/):** The coverage alone reduces anxiety about illness, lost luggage, and cancellations. Knowing you're covered if something goes wrong makes the trip lighter.
 - **Book your first night carefully:** A good hotel for night one, even if you stay cheaper elsewhere, helps enormously. When arrival works smoothly, everything else relaxes.
 - **Build in time buffers:** Arrive a day early when possible. Or leave the first day without a fixed agenda. Arriving is allowed to take time.
 

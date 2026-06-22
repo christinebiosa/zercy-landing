@@ -49,7 +49,7 @@ A few practical rules that make a real difference:
 
 **Guide or solo?** In the Sahara (Morocco, Algeria) and Wadi Rum: local guides are strongly recommended, sometimes mandatory. In the Atacama and White Sands: well-marked trails, no guide needed for standard tours. In the Namib (Sossusvlei): self-drive with a 4WD is possible.
 
-**Travel insurance:** Evacuation insurance is worth it in remote desert regions. Some camps also offer GPS tracking devices.
+**[Travel insurance](https://ektatraveling.com/):** Evacuation insurance is worth it in remote desert regions. Some camps also offer GPS tracking devices.
 
 For multi-landscape trips combining desert with coast and jungle, check our [Vietnam 2-week route](/en/blog/vietnam-2-week-route/) as inspiration, or the Morocco, Jordan, and Chile options covered above.
 

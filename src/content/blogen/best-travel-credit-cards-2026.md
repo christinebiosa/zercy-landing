@@ -22,7 +22,7 @@ Chase Sapphire Preferred does not include Priority Pass by default. The higher-t
 
 The Amex Platinum carries an annual fee of around 720 euros in Germany or 695 dollars in the US. That is a significant commitment. But for the right traveler, the math works.
 
-The card includes annual travel credits (up to 200 dollars on select bookings), dining credits, hotel upgrades through the Fine Hotels + Resorts program, and comprehensive travel insurance. If you take two to three international trips per year, use airport lounges regularly, and actively use Fine Hotels bookings, you will recoup the fee. If you mostly travel domestically or once a year, the math rarely works.
+The card includes annual travel credits (up to 200 dollars on select bookings), dining credits, hotel upgrades through the Fine Hotels + Resorts program, and comprehensive [travel insurance](https://ektatraveling.com/). If you take two to three international trips per year, use airport lounges regularly, and actively use Fine Hotels bookings, you will recoup the fee. If you mostly travel domestically or once a year, the math rarely works.
 
 Amex Membership Rewards points are genuinely flexible. You can transfer them to Lufthansa Miles & More, British Airways Avios, Singapore KrisFlyer, and many others, usually at a 1:1 ratio. That flexibility is what separates Amex from more restrictive co-branded cards. For ways to upgrade without collecting miles traditionally, check out [business class without miles](/en/blog/business-class-without-miles/).
 

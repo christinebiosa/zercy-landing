@@ -84,7 +84,7 @@ Zercy kennt den Unterschied und gibt dir ehrliche Empfehlungen — auch wenn es 
 
 ### Ist der Zug in Europa wirklich billiger als der Flieger?
 
-Kommt auf die Strecke und den Buchungszeitpunkt an. Frühgebucht ist der Zug auf vielen Strecken günstiger als der Flug — Paris–Barcelona für 50 Euro vs. 100 Euro Flug plus Flughafentransfer. Last-minute ist der Zug oft teurer. Auf sehr langen Strecken (Frankfurt–Lissabon) ist der Flug fast immer günstiger.
+Kommt auf die Strecke und den Buchungszeitpunkt an. Frühgebucht ist der Zug auf vielen Strecken günstiger als der Flug — Paris–Barcelona für 50 Euro vs. 100 Euro Flug plus [Flughafentransfer](https://www.welcomepickups.com/). Last-minute ist der Zug oft teurer. Auf sehr langen Strecken (Frankfurt–Lissabon) ist der Flug fast immer günstiger.
 
 ### Muss ich für europäische Züge einen Sitzplatz reservieren?
 

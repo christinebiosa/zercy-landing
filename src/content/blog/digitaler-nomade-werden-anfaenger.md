@@ -40,7 +40,7 @@ Weil der Start selten reibungslos läuft. Der erste Coworking Space gefällt nic
 
 Mit sechs Monaten Rücklage kannst du diese Phase entspannt überbrücken. Mit zwei Monaten wirst du nervös, sobald der erste Einbruch kommt.
 
-Dazu kommt: Das Nomadenleben hat versteckte Kosten. Kurzfristige Unterkunft ist teurer als langfristige. SIM-Karten, Coworking, gelegentliche Reiseversicherung. Das summiert sich schnell. Lies dazu auch unseren Guide zu [Workation-Steuern 2026](/blog/workation-steuern-2026/), weil auch die Steuerfrage früh geklärt sein muss.
+Dazu kommt: Das Nomadenleben hat versteckte Kosten. Kurzfristige Unterkunft ist teurer als langfristige. SIM-Karten, Coworking, gelegentliche [Reiseversicherung](https://ektatraveling.com/). Das summiert sich schnell. Lies dazu auch unseren Guide zu [Workation-Steuern 2026](/blog/workation-steuern-2026/), weil auch die Steuerfrage früh geklärt sein muss.
 
 ## Welche erste Destination passt wirklich zu Einsteigern?
 

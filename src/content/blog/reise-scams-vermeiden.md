@@ -95,4 +95,4 @@ Inoffizielle Taxifahrer, die Ankömmlinge direkt ansprechen, sind das häufigste
 Karteneinzug am Automaten vor Nutzung auf Aufsatzgeräte prüfen. PIN immer verdecken. Kontaktloses Bezahlen bevorzugen. Bankbenachrichtigungen für jede Transaktion aktivieren. Kreditkarte mit Reiseschutz nutzen.
 
 ### Was soll ich tun, wenn ich Opfer eines Scams geworden bin?
-Polizei vor Ort informieren (auch wenn die Erfolgsaussichten gering sind, brauchst du das Protokoll für die Versicherung). Karte sofort sperren lassen, wenn Kartendaten kompromittiert wurden. Reiseversicherung kontaktieren. Botschaft oder Konsulat deines Landes bei größerem Schaden einschalten.
+Polizei vor Ort informieren (auch wenn die Erfolgsaussichten gering sind, brauchst du das Protokoll für die Versicherung). Karte sofort sperren lassen, wenn Kartendaten kompromittiert wurden. [Reiseversicherung](https://ektatraveling.com/) kontaktieren. Botschaft oder Konsulat deines Landes bei größerem Schaden einschalten.

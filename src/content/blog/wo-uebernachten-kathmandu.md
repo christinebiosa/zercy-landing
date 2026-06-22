@@ -98,7 +98,7 @@ Für Kathmandu ist [Booking.com](https://www.booking.com) eine sehr gute Plattfo
 - Über 300 Hotels und Guesthouses gelistet
 - Kostenloser Storno ist Standard, wichtig weil Trekking-Pläne flexibel sein müssen
 - Viele kleinere Guesthouses mit echten Bewertungen die offline nicht zuverlässig einzuschätzen sind
-- Filter für Stadttteil und Ausstattung (Bergblick, Frühstück inklusive, Flughafentransfer)
+- Filter für Stadttteil und Ausstattung (Bergblick, Frühstück inklusive, [Flughafentransfer](https://www.welcomepickups.com/))
 
 Tipp: Direkt beim Guesthouse buchen lohnt manchmal bei längeren Aufenthalten (7+ Tage), da viele Familien-Guesthouses Rabatte für Barzahlung geben.
 

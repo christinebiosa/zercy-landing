@@ -57,7 +57,7 @@ This is the most important question for budget travelers. Three categories that 
 
 **Visa fees:** Vietnam e-visa: 25 USD. Cambodia visa on arrival: 30 USD. Thailand: visa-free up to 30 days for EU citizens, but extensions cost money.
 
-**Travel insurance:** An underrated expense. A solid policy with medical evacuation for 6 weeks in Southeast Asia runs around 80-150 EUR. Non-negotiable if you rent motorbikes.
+**[Travel insurance](https://ektatraveling.com/):** An underrated expense. A solid policy with medical evacuation for 6 weeks in Southeast Asia runs around 80-150 EUR. Non-negotiable if you rent motorbikes.
 
 [Lonely Planet's Southeast Asia guide](https://www.lonelyplanet.com/southeast-asia) has up-to-date pricing and independent hostel recommendations for the whole region.
 

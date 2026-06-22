@@ -108,7 +108,7 @@ Portugal and Morocco are the most beginner-friendly options for Europeans: no lo
 
 ### What is typically included in a yoga retreat?
 
-Good retreats include: accommodation, all meals (usually vegetarian), daily yoga sessions (morning and evening), meditation, sometimes excursions or workshops. Airport transfers are sometimes included. Usually not included: massages, private sessions, outside excursions, drinks like alcohol.
+Good retreats include: accommodation, all meals (usually vegetarian), daily yoga sessions (morning and evening), meditation, sometimes excursions or workshops. [Airport transfers](https://www.welcomepickups.com/) are sometimes included. Usually not included: massages, private sessions, outside excursions, drinks like alcohol.
 
 ### How far in advance should you book a retreat?
 

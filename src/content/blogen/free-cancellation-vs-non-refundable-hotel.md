@@ -40,7 +40,7 @@ Here's the honest rule of thumb to steer by.
 - the occasion can't move (a wedding, a concert with a fixed ticket, a booked course)
 - you've checked the price several times and it's stable
 - the saving is meaningful (15% or more)
-- you already have separate travel insurance that covers cancellations
+- you already have separate [travel insurance](https://ektatraveling.com/) that covers cancellations
 
 **Book free cancellation IF:**
 - the trip is more than a month away

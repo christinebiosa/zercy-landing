@@ -78,7 +78,7 @@ Cuando necesitas privacidad. Cuando llegas tarde de noche y sales temprano por l
 
 Couchsurfing no funciona en piloto automático. Requiere tiempo, energía e interés genuino en el intercambio. Si no puedes aportar eso, no le estás haciendo un favor a nadie, y menos a ti mismo.
 
-Un buen seguro de viaje sigue siendo imprescindible independientemente de cómo te alojes. Más detalles en nuestra guía sobre [seguros de viaje: qué vale la pena contratar](/es/blog/seguro-viaje-vale-la-pena/).
+Un buen [seguro de viaje](https://ektatraveling.com/) sigue siendo imprescindible independientemente de cómo te alojes. Más detalles en nuestra guía sobre [seguros de viaje: qué vale la pena contratar](/es/blog/seguro-viaje-vale-la-pena/).
 
 ---
 

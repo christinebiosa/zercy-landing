@@ -61,7 +61,7 @@ Sin tanta vuelta. Aquí va la valoración honesta.
 
 **Probablemente no vale la pena si tú:**
 
-- te conectas casi siempre con datos móviles o una eSIM
+- te conectas casi siempre con datos móviles o una [eSIM](https://www.airalo.com/)
 - estás fuera muy poco tiempo, como un fin de semana largo
 - no necesitas streaming y no usas WiFi público
 - solo viajas a sitios donde todo es de libre acceso de todos modos

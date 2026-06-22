@@ -78,7 +78,7 @@ Para más detalles sobre las islas que visitarás: la [guía de island hopping p
 
 **Internet a bordo:** Caro y lento. Suficiente para mensajes y navegación básica. Streaming raramente funciona. La mayoría de los puertos tienen wifi gratuito en cafés cerca del muelle.
 
-**Seguro de viaje:** Especialmente importante en cruceros. Una cancelación de vuelo puede significar perder el barco si vuelas desde lejos. El artículo sobre [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) explica cuándo realmente vale la pena contratarlo.
+**[Seguro de viaje](https://ektatraveling.com/):** Especialmente importante en cruceros. Una cancelación de vuelo puede significar perder el barco si vuelas desde lejos. El artículo sobre [seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) explica cuándo realmente vale la pena contratarlo.
 
 ---
 

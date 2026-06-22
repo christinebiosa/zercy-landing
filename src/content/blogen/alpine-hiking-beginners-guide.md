@@ -101,7 +101,7 @@ Hiking boots with ankle support and a grippy rubber sole (Vibram or similar). No
 
 ### Do I need mountain rescue insurance for the Alps?
 
-A mountain rescue insurance policy is recommended. Helicopter rescue in the Alps can cost several thousand euros. DAV membership includes mountain rescue coverage. Alternatively: ADAC or specific travel insurance policies with an alpine rescue clause.
+A mountain rescue insurance policy is recommended. Helicopter rescue in the Alps can cost several thousand euros. DAV membership includes mountain rescue coverage. Alternatively: ADAC or specific [travel insurance](https://ektatraveling.com/) policies with an alpine rescue clause.
 
 ### Can I hike alone as a beginner?
 

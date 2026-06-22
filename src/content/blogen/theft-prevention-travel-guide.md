@@ -51,7 +51,7 @@ No panic. The first 30 minutes determine whether you lose money, cards and docum
 - American Express: on the back of the card or via the app
 Your bank's emergency line should be saved before you travel, not searched for after.
 
-**2. File a police report.** Not because the thieves will be caught. They won't. But for insurance purposes. No travel insurance pays for theft without a police report. Ask at your hotel where the nearest police station is. Get a written confirmation.
+**2. File a police report.** Not because the thieves will be caught. They won't. But for insurance purposes. No [travel insurance](https://ektatraveling.com/) pays for theft without a police report. Ask at your hotel where the nearest police station is. Get a written confirmation.
 
 **3. Passport stolen?** Go to your nearest embassy or consulate. They issue emergency travel documents (within 1 to 2 days in most cases). Without a passport you can't go home. List of [UK consular services abroad](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) or your country's equivalent.
 

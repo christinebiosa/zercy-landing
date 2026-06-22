@@ -32,7 +32,7 @@ What is NOT included at most all-inclusive resorts:
 - Premium restaurants (often bookable for extra charge)
 - Spa and wellness
 - Motorized water sports
-- Airport transfers
+- [Airport transfers](https://www.welcomepickups.com/)
 - Certain brand-name alcohol
 
 The difference between "all-inclusive" and "ultra all-inclusive" is significant. Ultra packages include premium bars and restaurants. Read carefully before booking.

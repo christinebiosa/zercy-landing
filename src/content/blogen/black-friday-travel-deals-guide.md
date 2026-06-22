@@ -22,7 +22,7 @@ Flights are a different story. Airlines hate rigid discounts. Their revenue mode
 
 Where it genuinely pays off:
 
-- **Annual subscriptions**: Lounge passes (Priority Pass, Dragon Pass), annual travel insurance plans, travel apps. Discounts of 20 to 30% are common here and the savings are real.
+- **Annual subscriptions**: Lounge passes (Priority Pass, Dragon Pass), annual [travel insurance](https://ektatraveling.com/) plans, travel apps. Discounts of 20 to 30% are common here and the savings are real.
 - **Hotels for spring and fall**: Book now for March, April, October, November next year. Peak season books out regardless, but shoulder season shows real price improvement.
 - **Package deals**: Flight plus hotel together sometimes show better pricing than the components separately. Expedia and Booking regularly run Black Friday packages for specific routes.
 

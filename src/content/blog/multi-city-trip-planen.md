@@ -43,7 +43,7 @@ Ein Rollkoffer auf Kopfsteinpflaster in Lissabon, ein Rucksack durch die Metro v
 Die beste Regel für Multi-City-Reisen: Weniger ist mehr. Handgepäck-only spart dir Wartezeiten, vermeidet Gepäckverlust und zwingt dich zum Wesentlichen. Mit einer richtigen Packliste für eine 40-Liter-Tasche kommst du für 2-3 Wochen aus. Unser Guide zu [Nur-Handgepäck-Reisen](/blog/nur-handgepaeck/) zeigt, wie das konkret geht.
 
 Wenn du doch größeres Gepäck mitbringst, beachte diese Logistik-Regeln:
-- Gepäckaufbewahrung buchen: Services wie Bounce oder Radical Storage haben Standorte in den meisten europäischen Großstädten (3-5 Euro pro Tag pro Stück). So checkst du früh aus, hast noch einen halben Tag in der Stadt, und gibst den Koffer erst kurz vor dem Zug ab.
+- [Gepäckaufbewahrung](https://radicalstorage.com/) buchen: Services wie Bounce oder Radical Storage haben Standorte in den meisten europäischen Großstädten (3-5 Euro pro Tag pro Stück). So checkst du früh aus, hast noch einen halben Tag in der Stadt, und gibst den Koffer erst kurz vor dem Zug ab.
 - Hotel-Transfers nutzen: Viele Boutique-Hotels senden Gepäck auf Anfrage an das nächste Hotel der Kette oder zahlen für einen Gepäckservice zwischen Hotels in der gleichen Stadt.
 - Rollkoffer für Züge, Rucksack für Fernbusse und städtische Reisen: Wähle den Gepäcktyp je nach Haupttransportmittel.
 

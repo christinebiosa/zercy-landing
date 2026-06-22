@@ -37,7 +37,7 @@ Guaranteed cleanliness. Hotels have staff that cleans daily and maintains minimu
 
 Reliability. Hotels almost never cancel reservations. Airbnb hosts do. A 2024 [Better Business Bureau](https://www.bbb.org/) overview noted that around 7 percent of all Airbnb bookings get cancelled by hosts at short notice.
 
-Service. Concierge, 24h reception, breakfast, luggage storage after checkout. Small things that make a big difference when traveling.
+Service. Concierge, 24h reception, breakfast, [luggage storage](https://radicalstorage.com/) after checkout. Small things that make a big difference when traveling.
 
 See our [Morocco riads overview](/en/blog/morocco-riads-guide/) for special accommodation experiences.
 

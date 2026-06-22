@@ -99,7 +99,7 @@ Diciembre para los mercados navideños, mayo a junio para clima suave y días la
 
 ### ¿Cómo llegar a Viena sin gastar demasiado?
 
-En tren desde Múnich, Praga, Budapest o Bratislava, Viena está muy bien conectada y a menudo sale más barato que volar si se cuenta el traslado al aeropuerto. Nuestra comparativa [tren vs. avión Europa 2026](/es/blog/tren-vs-avion-europa-2026/) cubre rutas específicas con precios reales. Más consejos de aeropuerto en la [guía de trucos aeropuerto](/es/blog/trucos-aeropuerto/).
+En tren desde Múnich, Praga, Budapest o Bratislava, Viena está muy bien conectada y a menudo sale más barato que volar si se cuenta el [traslado al aeropuerto](https://www.welcomepickups.com/). Nuestra comparativa [tren vs. avión Europa 2026](/es/blog/tren-vs-avion-europa-2026/) cubre rutas específicas con precios reales. Más consejos de aeropuerto en la [guía de trucos aeropuerto](/es/blog/trucos-aeropuerto/).
 
 ### ¿Cuánto cuesta un fin de semana en Viena?
 

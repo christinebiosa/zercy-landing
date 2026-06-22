@@ -117,7 +117,7 @@ May and June are ideal. Good weather, long days and beer gardens running at full
 
 ### How do you get to Munich without overpaying?
 
-Train connections from Vienna, Zurich, Frankfurt and Berlin are excellent and often cheaper than flying when you include airport transfers. Flights from other European cities are usually cheapest booked three to five weeks in advance. Zercy compares both options at once so you see the real difference.
+Train connections from Vienna, Zurich, Frankfurt and Berlin are excellent and often cheaper than flying when you include [airport transfers](https://www.welcomepickups.com/). Flights from other European cities are usually cheapest booked three to five weeks in advance. Zercy compares both options at once so you see the real difference.
 
 ---
 

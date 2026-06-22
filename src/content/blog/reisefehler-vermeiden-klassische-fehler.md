@@ -18,7 +18,7 @@ Kein theoretisches Ranking. Diese 10 kommen aus echter Erfahrung von Vielreisend
 
 Drei Städte in fünf Tagen. Zwei Länder, vier Flüge, acht Sehenswürdigkeiten pro Tag. Das ist kein Urlaub, das ist Logistik. Die häufigste Beschwerde von Rückkehrern: "Wir haben alles gesehen aber nichts erlebt." Plane maximal eine Hauptattraktion pro Tag. Alles andere ist Bonus. Leere Zeit in einem Reiseplan ist kein Fehler, das ist der Plan.
 
-**Fehler 2: Keine Reiseversicherung**
+**Fehler 2: Keine [Reiseversicherung](https://ektatraveling.com/)**
 
 Die meisten Reisenden denken: "Mir passiert schon nichts." Die Reiseversicherungs-Statistiken sagen etwas anderes. Ein medizinischer Notfall in den USA ohne Versicherung: schnell 50.000-200.000 Euro. In Australien oder Kanada: ähnlich. Unser [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/) erklärt was sich wann lohnt. Die Grundregel: ohne Versicherung nicht fliegen.
 
@@ -85,7 +85,7 @@ Keine Reisekrankenversicherung ist das größte finanzielle Risiko. Ein medizini
 
 ### Wie verhindere ich den Roaming-Schock im Ausland?
 
-Roaming-Kosten vor der Reise im Handy-Tarif prüfen. Lokale SIM-Karte am Flughafen kaufen. Oder eSIM-Dienste wie Airalo nutzen, die du schon zu Hause einrichten kannst. Niemals mit aktivem Datenroaming und unbekanntem Tarif in ein Land einreisen.
+Roaming-Kosten vor der Reise im Handy-Tarif prüfen. Lokale SIM-Karte am Flughafen kaufen. Oder [eSIM](https://www.airalo.com/)-Dienste wie Airalo nutzen, die du schon zu Hause einrichten kannst. Niemals mit aktivem Datenroaming und unbekanntem Tarif in ein Land einreisen.
 
 ### Wann sollte ich Hochsaison-Hotels buchen?
 

@@ -40,7 +40,7 @@ Estrategia de búsqueda: usar Skyscanner en modo "mes completo" y elegir el día
 
 El viaje con presupuesto ajustado tiene un límite donde recortar se vuelve contraproducente. Dónde no conviene ahorrar:
 
-**Seguro de viaje:** 32-85 USD por semana es la prima de seguro más barata que existe comparada con lo que cubre. Cancelación de viaje, cobertura médica en el extranjero, pérdida de equipaje. Nunca omitirlo. Más en nuestra [guía de seguros de viaje](/es/blog/seguro-viaje-vale-la-pena/).
+**[Seguro de viaje](https://ektatraveling.com/):** 32-85 USD por semana es la prima de seguro más barata que existe comparada con lo que cubre. Cancelación de viaje, cobertura médica en el extranjero, pérdida de equipaje. Nunca omitirlo. Más en nuestra [guía de seguros de viaje](/es/blog/seguro-viaje-vale-la-pena/).
 
 **Salud e higiene:** Comida callejera barata de proveedores poco higiénicos. El costo de una intoxicación (días de viaje perdidos, costos médicos) supera cualquier ahorro.
 
@@ -54,7 +54,7 @@ El viaje con presupuesto ajustado tiene un límite donde recortar se vuelve cont
 
 **3. Calcular bien las tarjetas de ciudad:** Muchas ciudades tienen tarjetas (Vienna City Card, Prague Tourist Pass) que agrupan museos y transporte. Siempre hay que hacer los cálculos antes: solo ahorran con uso intensivo de museos.
 
-**4. Investigar el traslado al aeropuerto con antelación:** Taxi desde el aeropuerto de Lisboa: 27 USD. Metro: 2,10 USD. Ambos tardan 30 minutos. La diferencia multiplicada por 10 viajes al año: 249 USD.
+**4. Investigar el [traslado al aeropuerto](https://www.welcomepickups.com/) con antelación:** Taxi desde el aeropuerto de Lisboa: 27 USD. Metro: 2,10 USD. Ambos tardan 30 minutos. La diferencia multiplicada por 10 viajes al año: 249 USD.
 
 **5. Evitar las horas punta:** Museos a primera hora de la mañana (primera hora tras la apertura), restaurantes a las 12 o a las 14:30 (no a las 13:30): más baratos y notablemente más agradables.
 

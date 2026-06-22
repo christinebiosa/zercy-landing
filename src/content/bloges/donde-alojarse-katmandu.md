@@ -98,7 +98,7 @@ Para Katmandú, [Booking.com](https://www.booking.com) es una excelente platafor
 - Más de 300 hoteles y guesthouses listados
 - Cancelación gratuita estándar, importante porque los planes de trekking necesitan flexibilidad
 - Muchos guesthouses pequeños con reseñas genuinas difíciles de evaluar de otra forma
-- Filtros por barrio, vista a la montaña, desayuno incluido, traslado al aeropuerto
+- Filtros por barrio, vista a la montaña, desayuno incluido, [traslado al aeropuerto](https://www.welcomepickups.com/)
 
 Tip: Reservar directamente con el guesthouse a veces conviene en estancias largas (7 días o más), ya que muchos lugares familiares ofrecen descuentos por pago en efectivo.
 

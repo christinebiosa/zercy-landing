@@ -76,7 +76,7 @@ Ja, bei den meisten europäischen Airlines — wenn die Transportbox die Maßanf
 Schrittweise. Box im Alltag als normaler Schlafplatz einführen (Decke mit vertrautem Geruch hineinlegen). Kurze Autofahrten üben. Dann längere. Katzen die regelmäßig reisen gewöhnen sich erstaunlich schnell — ab dem zweiten oder dritten Mal ist der Stress deutlich weniger.
 
 ### Was tun wenn die Katze auf Reisen krank wird?
-Vor der Reise den EU-Heimtierausweis und Impfunterlagen fotografieren (Digital-Backup). Tierarzt-Suche: in EU-Ländern meist problemlos via Google Maps oder PetMD. Reiseapotheke für Katzen: Durchfall-Mittel (z.B. Prokolin), Wundspray, Beruhigungsmittel (nur nach Tierarztrücksprache). Reiseversicherung für Haustiere gibt es bei einigen Anbietern.
+Vor der Reise den EU-Heimtierausweis und Impfunterlagen fotografieren (Digital-Backup). Tierarzt-Suche: in EU-Ländern meist problemlos via Google Maps oder PetMD. Reiseapotheke für Katzen: Durchfall-Mittel (z.B. Prokolin), Wundspray, Beruhigungsmittel (nur nach Tierarztrücksprache). [Reiseversicherung](https://ektatraveling.com/) für Haustiere gibt es bei einigen Anbietern.
 
 ## Mehr lesen
 - [Mit Hund reisen in Europa](/blog/mit-hund-europa-reisen/)

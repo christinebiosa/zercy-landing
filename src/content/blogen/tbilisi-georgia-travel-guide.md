@@ -49,7 +49,7 @@ The city is compact enough that location matters less than in most capitals. App
 
 Tbilisi International Airport (TBS) is 18 kilometers from the center. A taxi via app costs around 10 euros. The express train is cheaper and connects directly to the main station.
 
-Direct flights from Western Europe are available seasonally, with connections through Istanbul or Vienna being common year-round. If you're thinking about data connectivity on the road, our [eSIM Travel Guide 2026](/en/blog/travel-esim-guide-2026/) covers all the essentials, including whether a local SIM or eSIM makes more sense for the Caucasus region.
+Direct flights from Western Europe are available seasonally, with connections through Istanbul or Vienna being common year-round. If you're thinking about data connectivity on the road, our [eSIM Travel Guide 2026](/en/blog/travel-esim-guide-2026/) covers all the essentials, including whether a local SIM or [eSIM](https://www.airalo.com/) makes more sense for the Caucasus region.
 
 Inside the city, the metro is the backbone: two lines, well-signed, very inexpensive. Marshrutkas fill in the gaps with unofficial stops and routes that locals know instinctively. App taxis handle everything else. Georgian script looks like nothing else on earth, which adds to the adventure of navigating on foot. English works well in restaurants, hotels, and tourist-facing businesses.
 

@@ -12,7 +12,7 @@ Some mistakes happen once. Others happen to travelers repeatedly, year after yea
 
 ## Which Mistakes Cost the Most Money and Stress?
 
-No theoretical ranking. These 10 come from real experience of frequent travelers and travel insurance claims statistics.
+No theoretical ranking. These 10 come from real experience of frequent travelers and [travel insurance](https://ektatraveling.com/) claims statistics.
 
 **Mistake 1: Overpacked Itinerary**
 
@@ -30,7 +30,7 @@ Your card gets blocked. Your wallet gets stolen. The card reader doesn't accept 
 
 The old town is romantic. During the day. At night: party noise, garbage trucks at 5 AM, street markets. Before every booking: open Google Maps Satellite View, check what surrounds the hotel. Filter reviews by keywords "noise", "loud", "street". Booking.com has a noise filter built in.
 
-**Mistake 5: Airport Transfer Too Tight**
+**Mistake 5: [Airport Transfer](https://www.welcomepickups.com/) Too Tight**
 
 London Heathrow to Gatwick: 1-2 hours. New York JFK to Newark: 45-90 minutes depending on traffic. Tokyo Narita to Haneda: 90 minutes. Booking a connection between these airports with less than 3 hours buffer is a gamble. If you miss the connection, you're responsible when you've booked individual tickets separately.
 
@@ -87,7 +87,7 @@ No travel health insurance is the biggest financial risk. A medical emergency in
 
 ### How do I prevent roaming shock abroad?
 
-Check roaming costs in your phone plan before the trip. Buy a local SIM card at the airport. Or use eSIM services like Airalo that you can set up at home. Never enter a country with data roaming active and an unknown tariff.
+Check roaming costs in your phone plan before the trip. Buy a local SIM card at the airport. Or use [eSIM](https://www.airalo.com/) services like Airalo that you can set up at home. Never enter a country with data roaming active and an unknown tariff.
 
 ### When should I book peak-season hotels?
 

@@ -69,7 +69,7 @@ Actuar rápido marca la diferencia. Esto es lo que debes hacer de inmediato:
 
 **5. Contacta al CEC si la aerolínea no responde.** El Centro Europeo del Consumidor media entre tú y las aerolíneas de forma gratuita. Muy útil en vuelos internacionales dentro de la UE.
 
-Si tienes un seguro de viaje, revisa las condiciones ahora mismo. Algunos cubren las huelgas como motivo de cancelación del viaje. Otros las excluyen expresamente. Las diferencias son considerables. Más detalles en: [Seguro de viaje: ¿Merece la pena?](/es/blog/seguro-viaje-vale-la-pena/)
+Si tienes un [seguro de viaje](https://ektatraveling.com/), revisa las condiciones ahora mismo. Algunos cubren las huelgas como motivo de cancelación del viaje. Otros las excluyen expresamente. Las diferencias son considerables. Más detalles en: [Seguro de viaje: ¿Merece la pena?](/es/blog/seguro-viaje-vale-la-pena/)
 
 Y si quieres prepararte mejor para la próxima vez: [Trucos en el aeropuerto: cómo sobrevivir a las esperas largas](/es/blog/trucos-aeropuerto/).
 

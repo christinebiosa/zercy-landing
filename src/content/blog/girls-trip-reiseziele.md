@@ -102,4 +102,4 @@ November bis März ist die beste Reisezeit: angenehm warm, kein Hurrikan-Risiko,
 Offen über das maximale Budget pro Person sprechen, bevor das Ziel feststeht. Unterkunft im Ferienhaus teilen spart oft 30-40% gegenüber Einzelzimmern im Hotel. Gemeinsam kochen für ein oder zwei Abende spart zusätzlich. Aktivitäten können individuell gewählt werden, nicht alles muss gemeinsam sein.
 
 ### Welche Reiseziele sind für einen Girls Trip am sichersten?
-Lissabon, Barcelona, Kopenhagen, Island und Split gelten als sehr sicher für Reisegruppen von Frauen. In Mexiko (Tulum) und Bali sollte man auf bewährte Transportmittel setzen und abends bekannte Gebiete bevorzugen. Reiseversicherung ist immer empfehlenswert.
+Lissabon, Barcelona, Kopenhagen, Island und Split gelten als sehr sicher für Reisegruppen von Frauen. In Mexiko (Tulum) und Bali sollte man auf bewährte Transportmittel setzen und abends bekannte Gebiete bevorzugen. [Reiseversicherung](https://ektatraveling.com/) ist immer empfehlenswert.

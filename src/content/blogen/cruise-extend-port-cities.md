@@ -102,7 +102,7 @@ Hotels directly at the cruise terminal are usually more expensive and offer litt
 
 If you extend your cruise, you need solid travel insurance. If your flight is late and you miss embarkation, costs are enormous. A **"Missed Port" coverage** is included in most good policies. Providers like [Allianz Travel Insurance](https://www.allianztravelinsurance.com/) and [World Nomads](https://www.worldnomads.com/) offer dedicated cruise policies.
 
-Pro tip: check whether your credit card already covers this. Amex Platinum and many Chase Reserve cards include excellent travel insurance.
+Pro tip: check whether your credit card already covers this. Amex Platinum and many Chase Reserve cards include excellent [travel insurance](https://ektatraveling.com/).
 
 ## Budget Calculation
 

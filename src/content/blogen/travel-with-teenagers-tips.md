@@ -58,7 +58,7 @@ Three key differences from traveling with younger children:
 
 ## Tech Tips: SIM Cards and Offline Navigation
 
-A local SIM or eSIM is essential for teenagers. Without mobile data they feel cut off. That creates more conflict than it is worth. eSIM providers like Airalo or Holafly cost 5 to 15 EUR for a week. Our [cyber security while traveling](/en/blog/cyber-security-travel-2026/) article covers digital safety on the road.
+A local SIM or [eSIM](https://www.airalo.com/) is essential for teenagers. Without mobile data they feel cut off. That creates more conflict than it is worth. eSIM providers like Airalo or Holafly cost 5 to 15 EUR for a week. Our [cyber security while traveling](/en/blog/cyber-security-travel-2026/) article covers digital safety on the road.
 
 Install an offline map (Google Maps Offline, Maps.me) before you fly. In countries with weak data networks or expensive roaming charges this is important.
 

@@ -23,6 +23,22 @@ function buildDateMap() {
 }
 const DATE_MAP = buildDateMap();
 
+// Affiliate-Domains bekommen rel="sponsored nofollow" (Google-Vorgabe), Rest nur noopener/noreferrer.
+const AFFILIATE_HOSTS = [
+  'airalo.com', 'yesim.app', 'saily.com', 'nordvpn.com', 'radicalstorage.com',
+  'welcomepickups.com', 'kiwitaxi.com', 'ektatraveling.com', 'airhelp.com',
+  'gocity.com', 'tiqets.com', 'klook.com', 'getyourguide.com', 'viator.com',
+  'booking.com', 'expedia.com', 'discovercars.com', 'aviasales.com',
+  'economybookings.com', 'autoeurope.com', 'tp.media', 'tp-em.com',
+];
+function relForLink(element) {
+  const href = String(element?.properties?.href || '');
+  const isAffiliate = AFFILIATE_HOSTS.some((h) => href.includes(h));
+  return isAffiliate
+    ? ['noopener', 'noreferrer', 'sponsored', 'nofollow']
+    : ['noopener', 'noreferrer'];
+}
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://www.zercy.app',
@@ -39,7 +55,7 @@ export default defineConfig({
   ],
   markdown: {
     rehypePlugins: [
-      [rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }]
+      [rehypeExternalLinks, { target: '_blank', rel: relForLink }]
     ]
   }
 });

@@ -37,7 +37,7 @@ Die beliebtesten Babymoon-Destinationen sind Orte, die Ruhe, Komfort und gute me
 
 Medizinische Abklärung vor der Reise ist Pflicht, keine Option. Prüfe den Impfstatus: Einige Impfstoffe sind in der Schwangerschaft kontraindiziert. Malariagebiete möglichst meiden, da die verfügbaren Prophylaxemittel in der Schwangerschaft eingeschränkt einsetzbar sind. Reiseimpfungen generell vorab mit dem Arzt besprechen.
 
-Reiseversicherung anpassen: Eine normale Reiserücktrittversicherung deckt nicht immer schwangerschaftsbedingte Stornierungen. Achte auf spezielle Tarife, die Schwangerschaft einschließen. Die [Reiseversicherung-Bewertung](/blog/reiseversicherung-was-lohnt-sich/) gibt einen guten Überblick, was verschiedene Policen abdecken.
+[Reiseversicherung](https://ektatraveling.com/) anpassen: Eine normale Reiserücktrittversicherung deckt nicht immer schwangerschaftsbedingte Stornierungen. Achte auf spezielle Tarife, die Schwangerschaft einschließen. Die [Reiseversicherung-Bewertung](/blog/reiseversicherung-was-lohnt-sich/) gibt einen guten Überblick, was verschiedene Policen abdecken.
 
 Hotelwahl mit Bedacht: Hochpreisige Hotels haben oft bessere Betten, bessere Temperatursysteme und ruhigere Lagen als günstiger Backpacker-Unterkünfte. Beim Babymoon ist die Unterkunft keine Nebensache. Check-in-Zeitflexibilität kann bei langen Reisetagen wichtig sein.
 

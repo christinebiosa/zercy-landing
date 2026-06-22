@@ -61,7 +61,7 @@ No long back and forth. Here's the honest breakdown.
 
 **Probably not worth it if you:**
 
-- get online almost entirely through mobile data or an eSIM
+- get online almost entirely through mobile data or an [eSIM](https://www.airalo.com/)
 - are only away briefly, like a long weekend
 - don't need streaming and don't use public WiFi
 - only travel to places where everything is freely accessible anyway

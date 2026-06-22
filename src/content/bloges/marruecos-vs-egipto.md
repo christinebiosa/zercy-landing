@@ -61,7 +61,7 @@ Aquí la comparativa clara:
 
 **¿Y si quieres los dos?** Un viaje combinado es posible. No hay vuelos directos entre Marruecos y Luxor, pero con escala en El Cairo o en un hub europeo se puede armar un viaje de 2-3 semanas por ambos países. Para ideas de ruta en Marruecos, la [guía de ciudades de Marruecos](/es/blog/marruecos-ciudades-guia/) es un buen punto de partida.
 
-Para el seguro de viaje que cubre ambos destinos, nuestra [guía de seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) explica qué vale la pena contratar.
+Para el [seguro de viaje](https://ektatraveling.com/) que cubre ambos destinos, nuestra [guía de seguro de viaje](/es/blog/seguro-viaje-vale-la-pena/) explica qué vale la pena contratar.
 
 ---
 

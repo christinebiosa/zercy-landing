@@ -48,7 +48,7 @@ Viele Tipps klingen gut, aber die folgenden haben echten Unterschied gemacht:
 
 **Nachts kein unbekanntes Viertel erkunden.** Das klingt banal, rettet aber viele Situationen. Wenn du nicht weißt, wie sicher eine Gegend ist: frag das Hostel oder Hotel. Die sind ehrlich. Das spart Probleme.
 
-Eine gute Reiseversicherung mit Notfallunterstützung gehört zu jedem Lateinamerika-Trip. Unser [Reiseversicherung Guide](/blog/reiseversicherung-was-lohnt-sich/) zeigt dir, was eine gute Police leisten muss.
+Eine gute [Reiseversicherung](https://ektatraveling.com/) mit Notfallunterstützung gehört zu jedem Lateinamerika-Trip. Unser [Reiseversicherung Guide](/blog/reiseversicherung-was-lohnt-sich/) zeigt dir, was eine gute Police leisten muss.
 
 ## Was ist Express-Kidnapping und wie vermeidest du es?
 

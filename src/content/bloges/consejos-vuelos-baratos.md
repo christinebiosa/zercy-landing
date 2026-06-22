@@ -88,7 +88,7 @@ Para vuelos europeos, la ventana óptima es 4-8 semanas antes. Para vuelos inter
 
 #### ¿Por qué el precio del mismo vuelo cambia según el dispositivo o navegador?
 
-Los buscadores de vuelos rastrean el historial de búsqueda mediante cookies. Si buscas repetidamente la misma ruta, el precio puede subir artificialmente para crear urgencia. El truco es buscar en modo incógnito o privado del navegador, que elimina las cookies de sesión. También vale la pena cambiar el país de la VPN para ver si hay diferencias de precio por región.
+Los buscadores de vuelos rastrean el historial de búsqueda mediante cookies. Si buscas repetidamente la misma ruta, el precio puede subir artificialmente para crear urgencia. El truco es buscar en modo incógnito o privado del navegador, que elimina las cookies de sesión. También vale la pena cambiar el país de la [VPN](https://nordvpn.com/) para ver si hay diferencias de precio por región.
 
 #### ¿Cuáles son las mejores aerolíneas low cost para viajes desde Latinoamérica?
 

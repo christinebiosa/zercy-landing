@@ -40,7 +40,7 @@ Suchstrategie: Skyscanner auf "ganzer Monat" setzen und günstigsten Tag wählen
 
 Budget-Reisen hat eine Grenze wo Sparen sich umkehrt. Wo du nicht sparen solltest:
 
-**Reiseversicherung:** 30-80 Euro für eine Woche sind die günstigsten Versicherungsprämien die es gibt, verglichen mit möglichen Kosten. Stornoschutz, Krankenversicherung im Ausland, Gepäckverlust. Nie weglassen. Mehr dazu im [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
+**[Reiseversicherung](https://ektatraveling.com/):** 30-80 Euro für eine Woche sind die günstigsten Versicherungsprämien die es gibt, verglichen mit möglichen Kosten. Stornoschutz, Krankenversicherung im Ausland, Gepäckverlust. Nie weglassen. Mehr dazu im [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 **Gesundheit und Hygiene:** Billiges Straßenessen von unhygienischen Anbietern. Die Kosten eines Magen-Darm-Infekts (verlorene Reisetage, Arztkosten) übertreffen jede Ersparnis.
 
@@ -54,7 +54,7 @@ Budget-Reisen hat eine Grenze wo Sparen sich umkehrt. Wo du nicht sparen solltes
 
 **3. Stadtpässe rechnen:** Viele Städte haben Karten (Vienna City Card, Prager Tourist Pass), die Museen und Transport bündeln. Erst rechnen ob es wirklich günstiger ist — oft nur bei intensiver Museum-Nutzung.
 
-**4. Flughafentransfer früh recherchieren:** Taxi vom Flughafen Lissabon: 25 Euro. Metro: 1,90 Euro. Beide 30 Minuten. Der Unterschied multipliziert sich bei 10 Reisen pro Jahr auf 230 Euro.
+**4. [Flughafentransfer](https://www.welcomepickups.com/) früh recherchieren:** Taxi vom Flughafen Lissabon: 25 Euro. Metro: 1,90 Euro. Beide 30 Minuten. Der Unterschied multipliziert sich bei 10 Reisen pro Jahr auf 230 Euro.
 
 **5. Peak-Stunden vermeiden:** Museen am frühen Morgen (erste Stunde nach Öffnung), Restaurants um 12 oder 14:30 (nicht um 13:30): günstiger und deutlich angenehmer.
 

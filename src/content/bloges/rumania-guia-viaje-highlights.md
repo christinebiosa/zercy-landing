@@ -41,7 +41,7 @@ El invierno en los Cárpatos (Poiana Brasov como centro de esquí) para deportes
 
 Rumanía es un destino seguro de la UE. Robos de poca importancia en Bucarest como en cualquier ciudad grande. En Transilvania y el campo es muy tranquilo. Los perros rurales pueden ser agresivos durante las caminatas. Atención médica al nivel de la UE en las ciudades, limitada en zonas rurales.
 
-Seguro de viaje recomendado como siempre. La [web oficial de turismo de Rumanía](https://www.romaniatourism.com/) tiene información regional y sugerencias de rutas.
+[Seguro de viaje](https://ektatraveling.com/) recomendado como siempre. La [web oficial de turismo de Rumanía](https://www.romaniatourism.com/) tiene información regional y sugerencias de rutas.
 
 ---
 

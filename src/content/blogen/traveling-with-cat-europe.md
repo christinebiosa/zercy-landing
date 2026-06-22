@@ -74,7 +74,7 @@ Yes, with most European airlines — if the carrier meets size requirements (typ
 Gradually. Introduce the carrier as a normal everyday sleeping spot (place a blanket with a familiar scent inside). Practice short car rides. Then longer ones. Cats that travel regularly adapt surprisingly quickly — by the second or third trip, the stress is significantly less.
 
 ### What do you do if your cat gets sick while traveling?
-Before the trip, photograph the EU pet passport and vaccination records (digital backup). Finding a vet: in EU countries usually straightforward via Google Maps or PetMD. Cat travel first aid kit: diarrhea treatment (e.g., Prokolin), wound spray, calming aids (only after consulting your vet). Pet travel insurance is available from some providers.
+Before the trip, photograph the EU pet passport and vaccination records (digital backup). Finding a vet: in EU countries usually straightforward via Google Maps or PetMD. Cat travel first aid kit: diarrhea treatment (e.g., Prokolin), wound spray, calming aids (only after consulting your vet). Pet [travel insurance](https://ektatraveling.com/) is available from some providers.
 
 ## Read more
 - [Traveling with a Dog in Europe](/en/blog/traveling-with-dog-europe/)

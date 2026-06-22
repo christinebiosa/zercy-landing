@@ -69,7 +69,7 @@ El desglose:
 - Peajes: 0 a 10 euros (Austria y Francia tienen peajes, Alemania no)
 - Comida: 15 a 20 euros
 
-Hacer camping baja bastante el total. Quedarse en hoteles con desayuno lo sube. El seguro de viaje no es donde ahorrar. Lo que debería cubrir una buena póliza está explicado en la [guía sobre seguro de viaje.](/es/blog/seguro-viaje-vale-la-pena/)
+Hacer camping baja bastante el total. Quedarse en hoteles con desayuno lo sube. El [seguro de viaje](https://ektatraveling.com/) no es donde ahorrar. Lo que debería cubrir una buena póliza está explicado en la [guía sobre seguro de viaje.](/es/blog/seguro-viaje-vale-la-pena/)
 
 ## ¿Cuál es la mejor época para viajar en moto por Europa?
 

@@ -50,7 +50,7 @@ El valor del billete puede perderse por completo. Solo los impuestos y tasas son
 **Mejor escenario: vuelo previo retrasado, protección UE aplicable**
 Sin coste para ti. Reembarque gratuito, comidas incluidas, hotel si hace falta, y potencialmente hasta 600 euros de compensación.
 
-**Seguro de viaje: protección subestimada**
+**[Seguro de viaje](https://ektatraveling.com/): protección subestimada**
 Una buena póliza de seguro de viaje, como las de Allianz Travel o AXA, suele cubrir "vuelos perdidos" como beneficio específico. Algunas incluso cubren retrasos por culpa propia si puedes documentar la causa (informe de tráfico, fallo del transporte público). Coste de una póliza anual: entre 60 y 120 euros para una persona. Comparado con un billete de 400 euros perdido, se recupera rápido.
 
 El análisis completo está en la [guía sobre seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/). Las diferencias entre pólizas básicas y premium importan mucho en estas situaciones.

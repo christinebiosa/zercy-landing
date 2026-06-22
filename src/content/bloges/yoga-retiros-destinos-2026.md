@@ -108,7 +108,7 @@ Portugal y Marruecos son las opciones más amigables para principiantes europeos
 
 ### ¿Qué incluye normalmente un retiro de yoga?
 
-Los buenos retiros incluyen: alojamiento, todas las comidas (normalmente vegetarianas), sesiones diarias de yoga (mañana y tarde), meditación, a veces excursiones o talleres. El traslado al aeropuerto a veces está incluido. Normalmente no incluidos: masajes, clases individuales, excursiones externas, bebidas como el alcohol.
+Los buenos retiros incluyen: alojamiento, todas las comidas (normalmente vegetarianas), sesiones diarias de yoga (mañana y tarde), meditación, a veces excursiones o talleres. El [traslado al aeropuerto](https://www.welcomepickups.com/) a veces está incluido. Normalmente no incluidos: masajes, clases individuales, excursiones externas, bebidas como el alcohol.
 
 ### ¿Con cuánta antelación hay que reservar un retiro?
 

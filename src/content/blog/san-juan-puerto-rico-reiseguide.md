@@ -16,7 +16,7 @@ Wann du hinreist, was du siehst, wo du schläfst und wie du dich fortbewegst. Al
 
 Die Hochsaison läuft von Dezember bis April. Trockene Luft, Temperaturen zwischen 24 und 28 Grad, wenig Regen. Das ist die angenehmste Zeit. Die Strände sind voll, die Hotels teurer, aber das Wetter verlässlich.
 
-Von Mai bis November ist Hurrikan-Saison. Das klingt schlimmer als es oft ist. Die meisten Tage sind trotzdem warm und sonnig. Günstigere Preise, weniger Touristen. Der Kern der Saison mit dem höchsten Risiko liegt zwischen August und Oktober. Wer dann reist, sollte eine gute Reiseversicherung mitbringen.
+Von Mai bis November ist Hurrikan-Saison. Das klingt schlimmer als es oft ist. Die meisten Tage sind trotzdem warm und sonnig. Günstigere Preise, weniger Touristen. Der Kern der Saison mit dem höchsten Risiko liegt zwischen August und Oktober. Wer dann reist, sollte eine gute [Reiseversicherung](https://ektatraveling.com/) mitbringen.
 
 Das Festival de la Calle San Sebastián im Januar zieht enorme Menschenmassen an. Tolle Stimmung, aber Hotels ausgebucht und teuer. Wer Ruhe will, meidet diese Woche.
 

@@ -104,7 +104,7 @@ Für Colombo ist [Booking.com](https://www.booking.com) gut aufgestellt:
 
 Wer direkt bucht, hat in Boutiquehäusern wie Tintagel Colombo manchmal Vorteile bei Zimmerauswahl und Extras.
 
-Vergleiche dazu auch unseren [Mumbai Guide](/blog/wo-uebernachten-mumbai/) oder hol dir eine Reiseversicherung für Sri Lanka über unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
+Vergleiche dazu auch unseren [Mumbai Guide](/blog/wo-uebernachten-mumbai/) oder hol dir eine [Reiseversicherung](https://ektatraveling.com/) für Sri Lanka über unseren [Reiseversicherungs-Guide](/blog/reiseversicherung-was-lohnt-sich/).
 
 ---
 

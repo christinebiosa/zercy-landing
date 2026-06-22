@@ -43,7 +43,7 @@ A rolling suitcase on Lisbon's cobblestones, a heavy bag through Tokyo's metro, 
 The best rule for multi-city travel: go as light as possible. Carry-on only saves you waiting time, eliminates lost luggage risk and forces you to pack the essentials only. With a well-planned 40-liter pack you can travel comfortably for 2-3 weeks. Our [carry-on only guide](/en/blog/carry-on-only/) walks through exactly how to do it.
 
 If you do bring larger luggage, apply these logistics rules:
-- Use luggage storage services: Bounce and Radical Storage have locations in most major European cities (around 3-5 USD per item per day). Check out early, spend your last few hours in the city properly, and drop the bag just before your train or bus.
+- Use [luggage storage](https://radicalstorage.com/) services: Bounce and Radical Storage have locations in most major European cities (around 3-5 USD per item per day). Check out early, spend your last few hours in the city properly, and drop the bag just before your train or bus.
 - Ask your hotel about transfer options: Some boutique hotels or chains will send luggage ahead to your next accommodation, especially within the same city.
 - Match luggage to transport: rolling suitcases work for train travel, backpacks are better for buses and when you're moving through tight urban spaces.
 

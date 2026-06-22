@@ -70,7 +70,7 @@ Como base para Capadocia, Avanos es algo menos práctico que Göreme: los valles
 
 Los hoteles en Avanos cuestan entre un 20 y un 40 por ciento menos que opciones equivalentes en Göreme. Hoteles boutique desde 80 euros, pensiones familiares desde 55 euros.
 
-Si viajas con coche de alquiler, Avanos resulta mucho más cómodo. Antes de reservar, conviene revisar qué cubre tu seguro de viaje. La [guía sobre seguros de viaje](/es/blog/seguro-viaje-vale-la-pena/) te ayuda a entender cuándo merece la pena contratar uno.
+Si viajas con coche de alquiler, Avanos resulta mucho más cómodo. Antes de reservar, conviene revisar qué cubre tu [seguro de viaje](https://ektatraveling.com/). La [guía sobre seguros de viaje](/es/blog/seguro-viaje-vale-la-pena/) te ayuda a entender cuándo merece la pena contratar uno.
 
 ## Ortahisar: el pueblo tranquilo que vale la pena descubrir
 

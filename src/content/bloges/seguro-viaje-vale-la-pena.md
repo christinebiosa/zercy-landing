@@ -8,7 +8,7 @@ readingTime: 7
 heroImage: "/img/blog/travel-insurance.jpg"
 ---
 
-El seguro de viaje es uno de esos productos que la mayoría de los viajeros no piensa mucho hasta que lo necesita. Y cuando lo necesita, las condiciones que no leyó con atención se vuelven muy relevantes. Esta guía explica cuándo es imprescindible, cuándo es opcional y qué mirar en la letra pequeña antes de contratar.
+El [seguro de viaje](https://ektatraveling.com/) es uno de esos productos que la mayoría de los viajeros no piensa mucho hasta que lo necesita. Y cuando lo necesita, las condiciones que no leyó con atención se vuelven muy relevantes. Esta guía explica cuándo es imprescindible, cuándo es opcional y qué mirar en la letra pequeña antes de contratar.
 
 ## ¿Cuándo es el seguro de viaje imprescindible?
 

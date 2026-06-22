@@ -32,7 +32,7 @@ Error común: quienes planifican mucho son ansiosos. En realidad, ocurre lo cont
 
 - **Reserva el traslado antes de viajar:** No confíes en encontrar un taxi al llegar. Un traslado reservado (via Booking.com Transport, Kiwitaxi o directamente con el hotel) elimina el primer factor de estrés. Saber quién te va a recoger tiene un efecto calmante sorprendente.
 - **Imprime información de emergencia:** Número de la embajada, contacto del hotel, número de emergencias local (112 en la UE, 911 en EE.UU.) en un papel. Parece anticuado. Funciona.
-- **Contrata un seguro de viaje:** La cobertura sola reduce la ansiedad ante enfermedades, pérdida de equipaje y cancelaciones. Saber que estás protegido si algo sale mal hace el viaje más ligero.
+- **Contrata un [seguro de viaje](https://ektatraveling.com/):** La cobertura sola reduce la ansiedad ante enfermedades, pérdida de equipaje y cancelaciones. Saber que estás protegido si algo sale mal hace el viaje más ligero.
 - **Reserva la primera noche con cuidado:** Un buen hotel para la primera noche, aunque después te alojes más barato, ayuda enormemente. Cuando la llegada va bien, todo lo demás se relaja.
 - **Planifica tiempo de margen:** Llega un día antes si es posible. O deja el primer día sin programa. La llegada puede tomarse su tiempo.
 

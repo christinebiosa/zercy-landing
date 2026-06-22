@@ -62,7 +62,7 @@ Diving has a reputation for being expensive. That's true at the high end. But th
 
 **Your own mask and fins:** Buy them. Rental masks rarely fit well, and they've been on a lot of other faces. Your own gear fits better, is more comfortable, and is more hygienic. Leave the regulator and BCD for rental.
 
-**Dive travel insurance:** This is not optional. Standard travel insurance does not cover diving accidents. You need a policy that includes decompression sickness treatment and hyperbaric chamber access. The most trusted option in the dive community is **DAN Insurance** (Divers Alert Network). It's affordable, widely recognized, and specifically designed for divers. More on travel insurance in general: [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/).
+**Dive [travel insurance](https://ektatraveling.com/):** This is not optional. Standard travel insurance does not cover diving accidents. You need a policy that includes decompression sickness treatment and hyperbaric chamber access. The most trusted option in the dive community is **DAN Insurance** (Divers Alert Network). It's affordable, widely recognized, and specifically designed for divers. More on travel insurance in general: [Travel Insurance: Is It Worth It in 2026?](/en/blog/travel-insurance-worth-it-2026/).
 
 Plan your entire dive trip with flights, accommodation, and budget in one place using [Zercy](https://www.zercy.app). Already know where you're going? Add your dive destinations to the [Zercy Logbook](https://www.zercy.app/logbook).
 

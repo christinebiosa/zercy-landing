@@ -45,7 +45,7 @@ The beach is Barcelona's trump card. No other major European cultural city has a
 
 ## When Does It Make Sense to Combine Both Cities?
 
-The classic Spain combination: 3 nights Barcelona, high-speed train (2.5 hours, from around 30 euros booked in advance), 3 nights Madrid. Or the reverse. The AVE train makes this route more comfortable than most short-haul flights once you add airport transfer time.
+The classic Spain combination: 3 nights Barcelona, high-speed train (2.5 hours, from around 30 euros booked in advance), 3 nights Madrid. Or the reverse. The AVE train makes this route more comfortable than most short-haul flights once you add [airport transfer](https://www.welcomepickups.com/) time.
 
 Start in Barcelona if you are flying in: most long-haul connections arrive in Barcelona. Start in Madrid if you want to build in day trips, since Toledo and Segovia are easiest from there.
 

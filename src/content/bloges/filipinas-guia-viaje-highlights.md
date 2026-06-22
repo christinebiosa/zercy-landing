@@ -65,7 +65,7 @@ Cebú es el punto de entrada más práctico: vuelo doméstico directo desde Mani
 
 ### ¿Qué tan seguros son los destinos de Filipinas para los turistas?
 
-Filipinas es segura para los turistas en las islas populares (Palawan, Cebú, Bohol, Siargao). Como en cualquier lugar, caminar solo de noche por barrios desconocidos de Manila no es recomendable. El mayor riesgo son los tifones en la ventana de viaje incorrecta. Un seguro de viaje con cobertura de desastres naturales es una inversión sensata.
+Filipinas es segura para los turistas en las islas populares (Palawan, Cebú, Bohol, Siargao). Como en cualquier lugar, caminar solo de noche por barrios desconocidos de Manila no es recomendable. El mayor riesgo son los tifones en la ventana de viaje incorrecta. Un [seguro de viaje](https://ektatraveling.com/) con cobertura de desastres naturales es una inversión sensata.
 
 ### ¿Cuál es el mejor lugar de buceo en Filipinas?
 

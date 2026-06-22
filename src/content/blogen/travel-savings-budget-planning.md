@@ -31,7 +31,7 @@ Here are realistic daily budgets by travel style. These figures cover accommodat
 - Accommodation ($50/day): $500
 - Food and transport ($30/day): $300
 - Activities and miscellaneous: $200
-- Travel insurance: €60 to €80
+- [Travel insurance](https://ektatraveling.com/): €60 to €80
 
 **Total: roughly €1,700 to €2,100.** That's your savings target.
 
@@ -69,7 +69,7 @@ The most common budget errors aren't with flights or hotels. They're with line i
 
 **Visas.** Australia: AUD 20 for the ETA. USA: $21 for ESTA. India: $25 to $80 depending on type. A multi-country itinerary can add up to $100 to $200 in visa fees alone. Add this to your first budget draft, not as an afterthought.
 
-**Airport transfers.** A taxi from Bangkok's Suvarnabhumi airport costs around 800 THB (approx. $22). The airport rail link: 45 THB. Four transfers per trip, always in a taxi, and you've spent $80 to $100 more than necessary. Research transfer costs for each airport and include them in the budget.
+**[Airport transfers](https://www.welcomepickups.com/).** A taxi from Bangkok's Suvarnabhumi airport costs around 800 THB (approx. $22). The airport rail link: 45 THB. Four transfers per trip, always in a taxi, and you've spent $80 to $100 more than necessary. Research transfer costs for each airport and include them in the budget.
 
 **Low-cost carrier extras.** Ryanair, EasyJet, and similar airlines show a low base fare at checkout. Seat selection, checked luggage, and onboard snacks come on top. For some routes, that adds €40 to €80. Always compare the total price, not the headline price.
 

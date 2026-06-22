@@ -52,7 +52,7 @@ Wildlife watching doesn't shut down in green season. In many ways it improves. H
 - **Humpback whales**: August through October (southern hemisphere migration) and December through March (northern)
 - **Corcovado and Osa Peninsula**: Drier access October through April, but the wildlife doesn't thin in the wet season
 
-If travel insurance is part of your planning, especially for adventure activities or expensive lodge packages booked months out, see our breakdown of [whether travel insurance is worth it in 2026](/en/blog/travel-insurance-worth-it-2026/) before committing.
+If [travel insurance](https://ektatraveling.com/) is part of your planning, especially for adventure activities or expensive lodge packages booked months out, see our breakdown of [whether travel insurance is worth it in 2026](/en/blog/travel-insurance-worth-it-2026/) before committing.
 
 ---
 

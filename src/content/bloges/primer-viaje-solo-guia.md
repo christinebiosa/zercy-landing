@@ -38,7 +38,7 @@ La soledad existe. A veces por las noches, cuando todos parecen moverse en grupo
 
 Viajar solo no significa viajar de forma descuidada. Unas pocas medidas simples marcan una diferencia real.
 
-**Copias de documentos en la nube.** Escanea tu pasaporte, tu tarjeta de crédito y tu seguro de viaje. Sube todo a Google Drive o iCloud. Si algo se pierde o te lo roban, puedes acceder a todos los datos importantes desde cualquier dispositivo.
+**Copias de documentos en la nube.** Escanea tu pasaporte, tu tarjeta de crédito y tu [seguro de viaje](https://ektatraveling.com/). Sube todo a Google Drive o iCloud. Si algo se pierde o te lo roban, puedes acceder a todos los datos importantes desde cualquier dispositivo.
 
 **Informa a alguien de tu plan.** Deja en casa un esquema básico: ciudad, alojamiento, salida prevista. Actualizaciones cortas diarias por WhatsApp a familiares o amigos mantienen a todos tranquilos. A ti también.
 

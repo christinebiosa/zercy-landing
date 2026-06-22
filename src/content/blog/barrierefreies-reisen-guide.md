@@ -57,7 +57,7 @@ Viele große Mietwagen-Anbieter bieten Fahrzeuge mit Sonderausstattung: Handsteu
 
 Spezialisierte Anbieter in einigen Ländern bieten Fahrzeuge mit Klapprampeder oder Lift speziell für Elektrorollstühle. Recherche für das Zielland nötig.
 
-**Reiseversicherung prüfen:** Standard-Reiseversicherungen decken Behinderungs-spezifische Mehrkosten oft nicht ab. Prüfe gezielt ob Rollstuhl-Transport, medizinische Hilfsmittel und behinderungs-bedingte Mehrkosten bei Notfall-Evakuierung abgedeckt sind.
+**[Reiseversicherung](https://ektatraveling.com/) prüfen:** Standard-Reiseversicherungen decken Behinderungs-spezifische Mehrkosten oft nicht ab. Prüfe gezielt ob Rollstuhl-Transport, medizinische Hilfsmittel und behinderungs-bedingte Mehrkosten bei Notfall-Evakuierung abgedeckt sind.
 
 Plane deine barrierefreie Reise mit [Zercy](https://www.zercy.app) und halte alle wichtigen Details im [Zercy Logbook](https://www.zercy.app/logbook) fest.
 

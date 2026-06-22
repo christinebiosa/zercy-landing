@@ -14,7 +14,7 @@ Dieser Guide geht alle realistischen Varianten durch. Nicht theoretisch, sondern
 
 ## Welche Optionen hast du überhaupt?
 
-Drei Wege stehen zur Auswahl. Erstens: EU-Roaming, also dein bestehender Vertrag in EU-Ländern. Zweitens: eSIM kaufen (Anbieter wie Airalo oder Holafly). Drittens: Lokale SIM-Karte am Zielort kaufen. Jede Option hat ihren Platz. Es kommt auf Reiseziel, Aufenthaltsdauer und Smartphone-Modell an.
+Drei Wege stehen zur Auswahl. Erstens: EU-Roaming, also dein bestehender Vertrag in EU-Ländern. Zweitens: [eSIM](https://www.airalo.com/) kaufen (Anbieter wie Airalo oder Holafly). Drittens: Lokale SIM-Karte am Zielort kaufen. Jede Option hat ihren Platz. Es kommt auf Reiseziel, Aufenthaltsdauer und Smartphone-Modell an.
 
 **EU-Roaming** funktioniert in allen 27 EU-Staaten plus Norwegen, Island, Liechtenstein. Dein Datenpaket gilt dort genauso wie zuhause, ohne Aufpreis. Das ist tatsächlich gut, solange du innerhalb Europas bleibst. Sobald du außerhalb der EU bist, z.B. in der Türkei, Marokko oder Thailand, endet diese Komfortzone.
 

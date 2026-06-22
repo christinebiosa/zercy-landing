@@ -38,7 +38,7 @@ Not extremely likely, but not rare either. Globally, millions of bags are delaye
 
 The practical rule: anything essential goes in your carry-on. Medications, important documents, valuables, anything you absolutely need on day one of the trip. Everything in the hold should be replaceable or non-urgent.
 
-If you're checking a bag, travel insurance with baggage coverage is worth having. Our article on [travel insurance: is it worth it?](/en/blog/travel-insurance-worth-it-2026/) breaks down what's actually useful versus what's unnecessary coverage.
+If you're checking a bag, [travel insurance](https://ektatraveling.com/) with baggage coverage is worth having. Our article on [travel insurance: is it worth it?](/en/blog/travel-insurance-worth-it-2026/) breaks down what's actually useful versus what's unnecessary coverage.
 
 ## Which Trips Actually Require a Full Suitcase?
 

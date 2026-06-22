@@ -49,7 +49,7 @@ Algunas reglas prácticas que marcan la diferencia:
 
 **¿Con guía o solo?** En el Sahara (Marruecos, Argelia) y Wadi Rum: los guías locales son muy recomendables, a veces obligatorios. En el Atacama y White Sands: rutas bien señalizadas, no necesitas guía para los circuitos estándar. En el Namib (Sossusvlei): puedes ir en coche propio con 4x4.
 
-**Seguro de viaje:** Un seguro con cobertura de evacuación es recomendable en zonas desérticas remotas. Algunos campamentos también ofrecen dispositivos GPS.
+**[Seguro de viaje](https://ektatraveling.com/):** Un seguro con cobertura de evacuación es recomendable en zonas desérticas remotas. Algunos campamentos también ofrecen dispositivos GPS.
 
 Para viajes que combinen desierto con costa y selva, nuestra [ruta de 2 semanas por Vietnam](/es/blog/vietnam-2-semanas-ruta/) es un buen ejemplo de país con varios tipos de paisaje en poco espacio. Lo mismo vale para Marruecos, Jordania y Chile.
 

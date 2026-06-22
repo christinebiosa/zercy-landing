@@ -117,7 +117,7 @@ Mayo y junio son ideales. Buen tiempo, días largos y jardines de cerveza a plen
 
 ### ¿Cómo se llega a Múnich sin pagar de más?
 
-Las conexiones en tren desde Viena, Zurich, Frankfurt y Berlín son excelentes y suelen ser más baratas que volar si incluyes los traslados al aeropuerto. Los vuelos desde otras ciudades europeas son generalmente más baratos reservados con tres a cinco semanas de antelación. Zercy compara ambas opciones a la vez para que veas la diferencia real.
+Las conexiones en tren desde Viena, Zurich, Frankfurt y Berlín son excelentes y suelen ser más baratas que volar si incluyes los [traslados al aeropuerto](https://www.welcomepickups.com/). Los vuelos desde otras ciudades europeas son generalmente más baratos reservados con tres a cinco semanas de antelación. Zercy compara ambas opciones a la vez para que veas la diferencia real.
 
 ---
 

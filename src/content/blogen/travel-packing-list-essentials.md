@@ -18,7 +18,7 @@ Some things are completely universal. City break, beach holiday, or trekking adv
 - Passport or national ID (always the original, never just a photo)
 - Copy of all documents (digital copy in cloud + one paper copy stored separately in your luggage)
 - Credit card with no foreign transaction fees + some local currency cash
-- Travel insurance app or card
+- [Travel insurance](https://ektatraveling.com/) app or card
 
 **Electronics (basics):**
 - Smartphone + charging cable

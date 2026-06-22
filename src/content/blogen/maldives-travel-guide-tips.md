@@ -72,7 +72,7 @@ With Zercy you compare flights to the Maldives and alternatives in one step. Sav
 
 ### How much money should you budget for the Maldives?
 
-For the classic resort experience: $5,400-16,200 per person for one week (flight + accommodation + full board). For the guesthouse experience on inhabited islands: $1,600-3,200 per person for one week. Before travel insurance, diving, and activities.
+For the classic resort experience: $5,400-16,200 per person for one week (flight + accommodation + full board). For the guesthouse experience on inhabited islands: $1,600-3,200 per person for one week. Before [travel insurance](https://ektatraveling.com/), diving, and activities.
 
 ### What does "all-inclusive" mean in the Maldives?
 

@@ -32,7 +32,7 @@ Lo que NO está incluido en la mayoría de los paquetes todo incluido:
 - Restaurantes premium (a menudo disponibles con suplemento)
 - Spa y bienestar
 - Deportes acuáticos motorizados
-- Traslados al aeropuerto
+- [Traslados al aeropuerto](https://www.welcomepickups.com/)
 - Ciertas marcas de alcohol
 
 La diferencia entre "todo incluido" y "ultra todo incluido" es significativa. Los paquetes ultra incluyen bares y restaurantes premium. Leer bien antes de reservar.

@@ -51,7 +51,7 @@ Ein paar praktische Regeln, die den Unterschied machen:
 
 **Guide oder allein?** In der Sahara (Marokko, Algerien) und Wadi Rum: lokale Guides sind dringend empfohlen, teils Pflicht. In der Atacama und White Sands: gut markierte Wege, kein Guide nötig für Standardtouren. In der Namib (Sossusvlei): Selbstfahrer mit 4x4 möglich.
 
-**Reiseversicherung:** Evakuierungsversicherung ist in abgelegenen Wüstenregionen sinnvoll. Einige Camps bieten auch GPS-Tracking-Geräte an.
+**[Reiseversicherung](https://ektatraveling.com/):** Evakuierungsversicherung ist in abgelegenen Wüstenregionen sinnvoll. Einige Camps bieten auch GPS-Tracking-Geräte an.
 
 Für die Kombination Wüste plus Küste ist der [Vietnam 2-Wochen-Guide](/blog/vietnam-2-wochen-route/) ein gutes Beispiel für ein Land mit mehreren Landschaftstypen auf engem Raum. Ähnliches gilt für Marokko, Jordanien und Chile.
 

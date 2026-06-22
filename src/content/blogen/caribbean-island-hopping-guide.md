@@ -41,7 +41,7 @@ Small planes mean very small baggage limits (often 33 to 44 lbs including carry-
 
 December through April is high season. Dry weather, no hurricane risk, water temperature around 81°F. The downside: hotels are expensive and booked. If you plan December through February, book four to six months in advance.
 
-May through November is rainy season. Rain often comes as short intense showers, not continuous gloom. The Caribbean is beautiful off-season too. Only September and October are genuinely risky: that's the peak of hurricane season. In those weeks the region can be hit by major storms. Travel insurance with evacuation coverage is mandatory, not optional.
+May through November is rainy season. Rain often comes as short intense showers, not continuous gloom. The Caribbean is beautiful off-season too. Only September and October are genuinely risky: that's the peak of hurricane season. In those weeks the region can be hit by major storms. [Travel insurance](https://ektatraveling.com/) with evacuation coverage is mandatory, not optional.
 
 Flexible travelers go in May to June or November: good weather, no crowds, prices 30 to 50 percent below peak season.
 
