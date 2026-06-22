@@ -983,6 +983,15 @@ let pendingCarDates = null;
 // Jede URL-Funktion nimmt rohe Werte, liefert fertige URL zurück.
 // Datum-Erwartung: immer YYYY-MM-DD rein; jede Funktion formatiert intern korrekt.
 // ============================================================
+// Booking.com via CJ (Commission Junction): nach Freigabe denselben Wert wie
+// BOOKING_CJ_PID in src/config/affiliates.js eintragen -> App-Hotel-Buttons
+// werden zu CJ-Deep-Links mit Tracking. Leer = normale Booking-URL (heutiges Verhalten).
+const BOOKING_CJ_PID = '';
+function cjBookingLink(destinationUrl, sid) {
+  if (!BOOKING_CJ_PID) return destinationUrl;
+  const cleanSid = ('zercy-' + (sid || 'app')).replace(/[^a-zA-Z0-9_-]/g, '-').slice(0, 64);
+  return 'https://www.anrdoezrs.net/links/' + BOOKING_CJ_PID + '/type/dlg/sid/' + cleanSid + '/' + encodeURIComponent(destinationUrl);
+}
 const zercyUrls = {
   _fmtExpediaFlightDate(s) { return s ? s.replace(/(\d{4})-(\d{2})-(\d{2})/, '$2/$3/$1') : ''; },
   _expediaCabin(cabin) { const c = (cabin||'').toLowerCase(); return c.includes('first') ? 'first' : c.includes('business') ? 'business' : 'coach'; },
@@ -1021,12 +1030,12 @@ const zercyUrls = {
   },
 
   bookingHotels(dest, checkin, checkout) {
-    if (!dest) return 'https://www.booking.com';
+    if (!dest) return cjBookingLink('https://www.booking.com', 'app');
     const params = [`ss=${encodeURIComponent(dest)}`];
     if (checkin) params.push(`checkin=${checkin}`);
     if (checkout) params.push(`checkout=${checkout}`);
     params.push('group_adults=2', 'no_rooms=1');
-    return `https://www.booking.com/searchresults.html?${params.join('&')}`;
+    return cjBookingLink(`https://www.booking.com/searchresults.html?${params.join('&')}`, dest);
   },
 
   expediaHotels(dest, checkin, checkout) {
