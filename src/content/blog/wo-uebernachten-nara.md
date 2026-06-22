@@ -14,7 +14,7 @@ Dieser Guide zeigt dir, in welchem Viertel du am besten übernachtest, was Unter
 
 ## Welches Viertel passt zu welcher Reise?
 
-Nara ist keine große Stadt. Die meisten Sehenswürdigkeiten liegen innerhalb von 20 Gehminuten vom Zentrum. Trotzdem macht die Wahl der Unterkunft einen Unterschied:
+Nara ist keine große Stadt. Die meisten [Sehenswürdigkeiten](https://www.tiqets.com/) liegen innerhalb von 20 Gehminuten vom Zentrum. Trotzdem macht die Wahl der Unterkunft einen Unterschied:
 
 - **Nara Koen (Parkbereich):** Direkt bei den Hirschen und den großen Tempeln. Ideal für alle, die früh morgens den Park für sich haben wollen. Teurer, aber einzigartig atmosphärisch. Meist traditionelle Ryokans und kleine Boutique-Hotels.
 - **Naramachi (Altstadt):** Historisches Kaufmannsviertel mit engen Gassen, Sake-Läden und kleinen Restaurants. Charmant und zu Fuß gut erschließbar. Mix aus Guesthouses und Ryokans.

@@ -29,7 +29,7 @@ Hier der ehrliche Überblick für Toronto 2026.
 
 Das Downtown Core zwischen Financial District und Waterfront bietet maximale Zentralität. CN Tower (553 m), Ripley's Aquarium, Rogers Centre (Baseball), Hockey Hall of Fame — alles fußläufig. Die PATH-Unterground-City verbindet Hotels mit Einkaufszentren und Business-Gebäuden auf 30 km unterirdischer Wege — praktisch im Winter bei -15 Grad.
 
-**Wer hier richtig liegt:** Erstbesucher, Business-Traveler, alle die Toronto-Sehenswürdigkeiten ohne Taxi wollen.
+**Wer hier richtig liegt:** Erstbesucher, Business-Traveler, alle die Toronto-[Sehenswürdigkeiten](https://www.tiqets.com/) ohne Taxi wollen.
 
 **Preise pro Nacht:** Budget 120-180 USD, Mittelklasse 180-320 USD, Premium 320-600 USD.
 

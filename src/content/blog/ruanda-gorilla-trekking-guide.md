@@ -53,7 +53,7 @@ Das Permit ist mit 1.500 USD der größte Kostenfaktor.
 
 **Golden Monkey Trekking**: Im Volcanoes National Park gibt es auch Goldene Affen. Permit kostet 100 USD. Weniger beliebt als Gorilla-Trekking, aber faszinierend und oft einfacher zu bekommen.
 
-**Musanze Caves**: Lavahöhlen aus einem Vulkanausbruch. Geführte Touren, günstig, interessant als Ergänzung.
+**Musanze Caves**: Lavahöhlen aus einem Vulkanausbruch. [Geführte Touren](https://www.tiqets.com/), günstig, interessant als Ergänzung.
 
 Plane deinen Ruanda-Trip mit dem [Zercy Logbook](https://www.zercy.app/logbook). Permit-Datum, Unterkunft am Park und Kigali-Abend als eine zusammenhängende Route speichern.
 

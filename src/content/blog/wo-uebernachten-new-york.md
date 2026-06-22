@@ -15,7 +15,7 @@ Hier die ehrliche Übersicht: 5 Stadtteile, was sie kosten, für wen sie passen.
 
 ## Welcher Stadtteil passt zu welcher Reise?
 
-**Midtown Manhattan:** Touristisches Zentrum, Times Square, Theater. Für Erstbesucher, Familien, alle die Sehenswürdigkeiten zu Fuß wollen.
+**Midtown Manhattan:** Touristisches Zentrum, Times Square, Theater. Für Erstbesucher, Familien, alle die [Sehenswürdigkeiten](https://www.tiqets.com/) zu Fuß wollen.
 
 **SoHo, Tribeca, West Village:** Hipper Downtown-Manhattan. Für Foodies, Designer-Shopping, junge Paare.
 

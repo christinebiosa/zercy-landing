@@ -72,7 +72,7 @@ Aktiviere das 3x3-Gitter (Rule of Thirds). Damit platzierst du Motive automatisc
 Lightroom Mobile (kostenlose Version) ist die stärkste Option für Smartphone-Fotografie. Schnelle Anpassungen von Licht, Farbe und Kontrast ohne kostenpflichtige Abo-Funktion.
 
 #### Wie vermeidet man Menschenmassen auf Reisefotos?
-Früh aufstehen. Beliebte Sehenswürdigkeiten vor 8 Uhr morgens sind oft fast leer. Mittwoch und Donnerstag haben generell weniger Touristen als Wochenende.
+Früh aufstehen. Beliebte [Sehenswürdigkeiten](https://www.tiqets.com/) vor 8 Uhr morgens sind oft fast leer. Mittwoch und Donnerstag haben generell weniger Touristen als Wochenende.
 
 ---
 

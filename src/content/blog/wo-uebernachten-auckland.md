@@ -47,7 +47,7 @@ Parnell ist das älteste Suburb der Stadt, rund zwei Kilometer östlich vom CBD.
 
 **Top-Picks:** Quality Hotel Parnell (solide Mittelklasse, Park-Nähe), Parnell Village Motel (kleines, familiäres Motel), Franklin Road Apartments (für längere Aufenthalte).
 
-Die offizielle Tourismus-Plattform [Auckland NZ](https://www.aucklandnz.com) hat kuratierte Stadtteil-Karten mit allen Sehenswürdigkeiten pro Zone.
+Die offizielle Tourismus-Plattform [Auckland NZ](https://www.aucklandnz.com) hat kuratierte Stadtteil-Karten mit allen [Sehenswürdigkeiten](https://www.tiqets.com/) pro Zone.
 
 ## Welcher Stadtteil ist am besten für Nightlife und Restaurants?
 

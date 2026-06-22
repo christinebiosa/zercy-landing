@@ -45,7 +45,7 @@ Un punto práctico: en ambos casos necesitás carnet de conducir internacional s
 
 Nueva Zelanda no es barata. Seamos directos al respecto.
 
-Presupuesto mochilero (hostal, campervan económico, cocina propia): 70-100 dólares por persona por día. Presupuesto intermedio (hotel 3 estrellas, restaurantes casuales): 150-200 dólares por persona por día. Viaje cómodo (hotel 4 estrellas, tours guiados, restaurantes): 250 dólares o más por persona por día.
+Presupuesto mochilero (hostal, campervan económico, cocina propia): 70-100 dólares por persona por día. Presupuesto intermedio (hotel 3 estrellas, restaurantes casuales): 150-200 dólares por persona por día. Viaje cómodo (hotel 4 estrellas, [tours guiados](https://www.tiqets.com/), restaurantes): 250 dólares o más por persona por día.
 
 El vuelo desde América Latina es el gasto más grande. Desde Buenos Aires, Santiago o Lima, los vuelos directos o con una escala rondan los 1.200 a 2.000 dólares en clase turista según la temporada. Desde México o Colombia, suma entre 500 y 800 dólares más.
 

@@ -35,7 +35,7 @@ Die Tran Phu Street ist die Lebensader von Nha Trang. Vier bis fünf Kilometer S
 
 **Top-Picks:** Sheraton Nha Trang Hotel and Spa (Premium-Adresse direkt am Strand, exzellentes Spa), Sunrise Nha Trang Beach Hotel (Klassiker, direkte Strandlage, solide Mittelklasse), Havana Hotel Nha Trang (Boutique-Charakter, gute Lage, freundlicher Service). Diese und über 600 Hotels in Nha Trang findest du auf [Booking.com](https://www.booking.com).
 
-Die offizielle [Vietnam Tourism Website](https://vietnam.travel) bietet Informationen zu Tauchmöglichkeiten, Inseltouren und Sehenswürdigkeiten in der Region Nha Trang.
+Die offizielle [Vietnam Tourism Website](https://vietnam.travel) bietet Informationen zu Tauchmöglichkeiten, Inseltouren und [Sehenswürdigkeiten](https://www.tiqets.com/) in der Region Nha Trang.
 
 ## Wann ist die beste Reisezeit für Nha Trang?
 

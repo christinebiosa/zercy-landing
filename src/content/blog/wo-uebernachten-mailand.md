@@ -59,7 +59,7 @@ Brera ist das Pariser Quartier Mailands. Kleine gepflasterte Gassen, Kunstgaleri
 
 ## Wann ist die beste Reisezeit für Mailand?
 
-April bis Juni ist ideal: Frühlingstemperaturen, alle Sehenswürdigkeiten offen, kein Hochsommer-Trubel. September und Oktober sind die zweite Beste Zeit: Design Week (April) und Milan Fashion Week (September/Oktober) treiben die Preise erheblich nach oben, aber die Atmosphäre ist einzigartig.
+April bis Juni ist ideal: Frühlingstemperaturen, alle [Sehenswürdigkeiten](https://www.tiqets.com/) offen, kein Hochsommer-Trubel. September und Oktober sind die zweite Beste Zeit: Design Week (April) und Milan Fashion Week (September/Oktober) treiben die Preise erheblich nach oben, aber die Atmosphäre ist einzigartig.
 
 Während der Messe-Saison (jederzeit, Mailand ist Messemetropole) steigen Hotelpreise teils um 200 Prozent. Auf Messe-Termine achten vor der Buchung.
 

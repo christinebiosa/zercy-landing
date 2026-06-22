@@ -7,7 +7,7 @@ category: "Reiseziele"
 readingTime: 7
 heroImage: "/img/blog/best-food-cities-world.jpg"
 ---
-Es gibt Reisen, bei denen das Essen der Grund ist. Nicht die Sehenswürdigkeiten, nicht das Wetter. Das Essen. Diese sechs Städte gehören in jede Welt-Foodie-Liste. Nicht weil sie schick sind, sondern weil sie etwas Echtes haben.
+Es gibt Reisen, bei denen das Essen der Grund ist. Nicht die [Sehenswürdigkeiten](https://www.tiqets.com/), nicht das Wetter. Das Essen. Diese sechs Städte gehören in jede Welt-Foodie-Liste. Nicht weil sie schick sind, sondern weil sie etwas Echtes haben.
 
 Die Auswahl hier basiert auf Vielfalt, Zugänglichkeit und dem Faktor Intensität. In diesen Städten isst du nicht nur gut. Du isst auf eine Art, die du nicht vergisst.
 

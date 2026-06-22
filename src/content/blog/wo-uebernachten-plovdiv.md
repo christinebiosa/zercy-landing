@@ -51,7 +51,7 @@ Plovdiv hat eines der angenehmsten Klimas Bulgariens. Frühling (April-Mai) ist 
 
 **Herbst (September-Oktober):** Wunderbar. Wein-Ernte im nahegelegenen Thrazischen Weingebiet, goldene Farben in der Altstadt.
 
-**Winter:** Kalt (0-5 Grad), einige Sehenswürdigkeiten eingeschränkt offen. Günstigste Zeit.
+**Winter:** Kalt (0-5 Grad), einige [Sehenswürdigkeiten](https://www.tiqets.com/) eingeschränkt offen. Günstigste Zeit.
 
 Plovdiv eignet sich perfekt als Teil einer [Bulgarien-Reise](/blog/bulgarien-reiseguide-highlights/). Die Schwarzmeerküste ist 2,5 Stunden entfernt.
 

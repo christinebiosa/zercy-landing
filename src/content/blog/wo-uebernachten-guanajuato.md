@@ -57,7 +57,7 @@ Das Viertel Las Embajadoras liegt etwas außerhalb des historischen Kerns, hat a
 
 ## Welche Gegend ist am besten für Erstbesucher?
 
-Erstbesucher schlafen am besten im Centro Histórico. Die meisten Sehenswürdigkeiten, das Nachtleben und die besten Restaurants liegen alle in Laufweite. Die Tunnel-Straßen und das Labyrinth der Gassen erschließen sich erst nach einem Tag zu Fuß. Mit einer zentralen Lage verspielst du keine Zeit mit Transit.
+Erstbesucher schlafen am besten im Centro Histórico. Die meisten [Sehenswürdigkeiten](https://www.tiqets.com/), das Nachtleben und die besten Restaurants liegen alle in Laufweite. Die Tunnel-Straßen und das Labyrinth der Gassen erschließen sich erst nach einem Tag zu Fuß. Mit einer zentralen Lage verspielst du keine Zeit mit Transit.
 
 Für Reisende, die bereits vor Ort waren und Guanajuato in Ruhe erkunden wollen, empfiehlt sich Mexiamora. Das studentische Flair ist authentischer, und abends sitzen Einheimische nicht nur für Touristen in den Cafés.
 

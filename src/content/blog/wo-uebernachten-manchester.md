@@ -112,7 +112,7 @@ Wenn du Manchester planst, beschreibe Zercy einfach was du suchst: erstes Mal, F
 
 ### Welcher Stadtteil in Manchester ist am besten für Erstbesucher?
 
-Das City Centre ist die praktischste Wahl: kurze Wege zu den Sehenswürdigkeiten, gute Tram-Anbindung, alle Preisklassen verfügbar. Wer etwas mehr Charakter will, wählt Northern Quarter direkt daneben. Beides ist zu Fuß verbunden.
+Das City Centre ist die praktischste Wahl: kurze Wege zu den [Sehenswürdigkeiten](https://www.tiqets.com/), gute Tram-Anbindung, alle Preisklassen verfügbar. Wer etwas mehr Charakter will, wählt Northern Quarter direkt daneben. Beides ist zu Fuß verbunden.
 
 ### Wann sind die Hotel-Preise in Manchester am höchsten?
 

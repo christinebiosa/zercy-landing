@@ -37,7 +37,7 @@ Flüge innerhalb Europas für 4 Personen: 400-1.200 Euro (je nach Ziel und Vorau
 
 ## Welche Ziele sind für Kleinkinder unter 4 Jahren besonders geeignet?
 
-Kleinkinder unter 4 Jahren stellen andere Anforderungen: kein langer Marsch zu Sehenswürdigkeiten, Nickerchen-Planung, Sandspielplätze wichtiger als Museen.
+Kleinkinder unter 4 Jahren stellen andere Anforderungen: kein langer Marsch zu [Sehenswürdigkeiten](https://www.tiqets.com/), Nickerchen-Planung, Sandspielplätze wichtiger als Museen.
 
 **Beste Ziele für Kleinkind-Familien:**
 

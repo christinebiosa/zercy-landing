@@ -58,7 +58,7 @@ Drei messbare und ein psychologischer Vorteil.
 
 CO2-Einsparung. Wer 5 Mal in zwei Wochen umzieht, fliegt oder fährt 5 Mal. Wer einmal anreist und 14 Tage bleibt, einmal. Lies dazu unseren [CO2-Kompensations-Artikel](/blog/co2-kompensation-fliegen/).
 
-Geringere Ausgaben pro Tag. Wohnungen pro Nacht günstiger als Hotels (ab 5+ Nächten), Restaurants günstiger wenn du auch selber kochst, weniger Eintrittsgelder weil weniger Sehenswürdigkeiten pro Tag. Eine Slow-Travel-Woche kostet meist 30 bis 40 Prozent weniger als eine Hetz-Woche.
+Geringere Ausgaben pro Tag. Wohnungen pro Nacht günstiger als Hotels (ab 5+ Nächten), Restaurants günstiger wenn du auch selber kochst, weniger Eintrittsgelder weil weniger [Sehenswürdigkeiten](https://www.tiqets.com/) pro Tag. Eine Slow-Travel-Woche kostet meist 30 bis 40 Prozent weniger als eine Hetz-Woche.
 
 Mehr echte Begegnungen. Wer 3 Tage im gleichen Café sitzt, ist beim 4. Mal Stammgast. Beim 5. Mal hat man eine Beziehung. Daraus entstehen Tipps, Einladungen, Freundschaften.
 

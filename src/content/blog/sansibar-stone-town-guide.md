@@ -118,7 +118,7 @@ Im historischen Zentrum (Stone Town selbst) für Atmosphäre, in Shangani-Bereic
 
 ### Was kostet eine Woche Sansibar wirklich?
 
-Backpacker: 1.000-1.400 EUR pro Person inkl. Flug (Hostel in Stone Town, lokales Essen, Bus zu Strand). Mittelklasse: 1.800-2.800 EUR (3 Nächte Stone Town Boutique + 4 Nächte Strand-Resort, geführte Touren). Premium: 4.000-8.000 EUR (Park Hyatt Stone Town + Premium-Beach-Villa).
+Backpacker: 1.000-1.400 EUR pro Person inkl. Flug (Hostel in Stone Town, lokales Essen, Bus zu Strand). Mittelklasse: 1.800-2.800 EUR (3 Nächte Stone Town Boutique + 4 Nächte Strand-Resort, [geführte Touren](https://www.tiqets.com/)). Premium: 4.000-8.000 EUR (Park Hyatt Stone Town + Premium-Beach-Villa).
 
 ---
 

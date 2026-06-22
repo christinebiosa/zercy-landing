@@ -14,7 +14,7 @@ Das Klima hier ist atlantisch. Das bedeutet: milde Temperaturen das ganze Jahr, 
 
 ## Wann lohnt sich eine Irland-Reise am meisten?
 
-Mai und Juni sind die besten Monate für die meisten Reisenden. Die Tage sind lang: fast 17 Stunden Tageslicht im Juni. Das Wetter ist stabiler als im Herbst, die Touristen weniger zahlreich als im Juli und August. Hotelpreise liegen rund 20 Prozent unter dem Sommer-Peak. Die Landschaft ist nach dem Frühlingsregen tiefgrün, Wildblumen blühen auf dem Wild Atlantic Way und die meisten Sehenswürdigkeiten sind geöffnet ohne Wartezeiten.
+Mai und Juni sind die besten Monate für die meisten Reisenden. Die Tage sind lang: fast 17 Stunden Tageslicht im Juni. Das Wetter ist stabiler als im Herbst, die Touristen weniger zahlreich als im Juli und August. Hotelpreise liegen rund 20 Prozent unter dem Sommer-Peak. Die Landschaft ist nach dem Frühlingsregen tiefgrün, Wildblumen blühen auf dem Wild Atlantic Way und die meisten [Sehenswürdigkeiten](https://www.tiqets.com/) sind geöffnet ohne Wartezeiten.
 
 Juli und August sind die belebtesten Monate. Irland hat im Hochsommer kaum freie Hotelzimmer in beliebten Orten wie Dingle, Killarney oder Galway. Preise für Unterkünfte steigen um 40-60 Prozent gegenüber der Nebensaison. Wer trotzdem im Sommer reist, bucht mindestens 3 Monate voraus. Dafür bietet der Sommer eine Musikfestival-Dichte, die kaum zu überbieten ist: von ElektroPop bis Volksmusik.
 

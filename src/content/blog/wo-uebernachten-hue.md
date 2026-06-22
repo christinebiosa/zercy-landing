@@ -52,7 +52,7 @@ Hue hat ein eigenes Mikroklima. Während ganz Vietnam von Nord nach Süd untersc
 
 Die beste Reisezeit ist Februar bis April. Die Temperaturen liegen bei 20-28 Grad, deutlich weniger Regen als im Herbst. Das Tết-Mondneujahr (meist Januar/Februar) ist die größte Festzeit, aber Hotels sind dann ausgebucht und Preise steigen.
 
-Mai bis August ist trocken und heiß. Bis zu 38 Grad in der Stadt. Die meisten Sehenswürdigkeiten sind trotzdem gut besuchbar, früher Start am Tag empfohlen. Wer [Vietnam in zwei Wochen](/blog/vietnam-2-wochen-route/) bereist, plant Hue idealerweise als Zwischenstopp zwischen Da Nang und Hanoi ein.
+Mai bis August ist trocken und heiß. Bis zu 38 Grad in der Stadt. Die meisten [Sehenswürdigkeiten](https://www.tiqets.com/) sind trotzdem gut besuchbar, früher Start am Tag empfohlen. Wer [Vietnam in zwei Wochen](/blog/vietnam-2-wochen-route/) bereist, plant Hue idealerweise als Zwischenstopp zwischen Da Nang und Hanoi ein.
 
 Hue verbindet sich gut mit einer [Südostasien-Budgetreise](/blog/suedostasien-budget-reisen/) und liegt auf der klassischen Vietnam-Route per Zug.
 

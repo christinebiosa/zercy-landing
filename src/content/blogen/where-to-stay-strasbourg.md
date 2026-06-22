@@ -47,7 +47,7 @@ Petite France is Strasbourg's most romantic quarter. Picturesque half-timbered h
 
 **Top picks:** Hôtel Régent Petite France (luxury boutique in historic building), Le Bouclier d'Or (boutique, small rooms but lots of character), Cour du Corbeau (old manor house, premium).
 
-The [Strasbourg Tourist Office](https://www.visitstrasbourg.fr/en/) has current information on guided tours and seasonal events through Petite France.
+The [Strasbourg Tourist Office](https://www.visitstrasbourg.fr/en/) has current information on [guided tours](https://www.tiqets.com/) and seasonal events through Petite France.
 
 ## Neustadt: Imperial architecture and European flair
 

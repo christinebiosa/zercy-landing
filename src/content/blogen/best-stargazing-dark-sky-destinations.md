@@ -51,7 +51,7 @@ The [International Dark-Sky Association (IDA)](https://www.darksky.org) awards c
 
 **Cherry Springs State Park, Pennsylvania, USA:** One of the darkest sites on the US East Coast. A classic for North America travelers. The Milky Way is as reliably visible here as almost nowhere else in the region.
 
-**Aoraki Mackenzie International Dark Sky Reserve, New Zealand:** The world's largest certified Dark Sky Reserve. Inside Mount Cook National Park, visitors find an observatory and guided tours. What makes it special: on the Southern Hemisphere you can see the Magellanic Clouds, two dwarf galaxies completely invisible from Central Europe.
+**Aoraki Mackenzie International Dark Sky Reserve, New Zealand:** The world's largest certified Dark Sky Reserve. Inside Mount Cook National Park, visitors find an observatory and [guided tours](https://www.tiqets.com/). What makes it special: on the Southern Hemisphere you can see the Magellanic Clouds, two dwarf galaxies completely invisible from Central Europe.
 
 **Westhavelland Star Park, Germany:** The Westhavelland in Brandenburg is Germany's only certified star park. One hour from Berlin, almost nobody knows about it. The night sky spectacle here is stunning for a place this close to a metropolis.
 

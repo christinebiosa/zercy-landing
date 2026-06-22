@@ -39,7 +39,7 @@ Reglas generales para América Latina: usa apps de transporte oficiales. No exhi
 
 No solo una tasa de criminalidad baja. También: una cultura de hostels activa donde conocer gente es fácil. Buen transporte público. Una cultura de cafés y bares abierta que no trate a las mujeres solas como una anomalía. Y un ecosistema turístico que ofrezca tours y actividades para viajeras solas.
 
-Bajo estos criterios, además de los destinos ya mencionados, también destacan: Nueva Zelanda (Auckland, Queenstown), Australia (Melbourne, Byron Bay), Islandia (Reikiavik), Tailandia (Chiang Mai, especialmente para estancias largas) y Marruecos (con matices: tours guiados o riads con buenas redes, especialmente si es tu primera vez).
+Bajo estos criterios, además de los destinos ya mencionados, también destacan: Nueva Zelanda (Auckland, Queenstown), Australia (Melbourne, Byron Bay), Islandia (Reikiavik), Tailandia (Chiang Mai, especialmente para estancias largas) y Marruecos (con matices: [tours guiados](https://www.tiqets.com/) o riads con buenas redes, especialmente si es tu primera vez).
 
 Para viajes más largos, leer sobre [slow travel](/es/blog/slow-travel-que-significa/) te da una perspectiva diferente. Convierte el viaje solo en vivir de verdad en un lugar durante una o dos semanas.
 

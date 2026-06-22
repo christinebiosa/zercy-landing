@@ -61,7 +61,7 @@ Drei Wege führen auf den Archipel, und alle haben ihre Berechtigung.
 
 **Mit dem Auto über die Berge** ist für alle, die die Norwegische Landschaft auskosten wollen. Die E10 führt als sogenannte Lofotveien durch den gesamten Archipel von Å bis zur Verbindung nach Narvik auf dem Festland. Unterwegs passierst du alle wichtigen Dörfer und Aussichtspunkte. Ein Mietwagen macht dich auf den Lofoten unabhängig, öffentlicher Bus ist möglich, aber eingeschränkt. Mehr Infos zur Winterplanung in der Region findest du in unserem [Nordlichter-Guide](/blog/nordlichter-2026-wo-wann-wie/).
 
-Aktuelle Infos zu Fähren, Preisen und Sehenswürdigkeiten findest du auf [Visit Norway](https://www.visitnorway.com/).
+Aktuelle Infos zu Fähren, Preisen und [Sehenswürdigkeiten](https://www.tiqets.com/) findest du auf [Visit Norway](https://www.visitnorway.com/).
 
 ## Lofoten in Kürze
 

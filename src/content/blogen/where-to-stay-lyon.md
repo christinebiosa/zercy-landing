@@ -27,7 +27,7 @@ The city divides into distinct neighborhoods. Vieux-Lyon sits to the right of th
 
 ## Vieux-Lyon: Where history meets gastronomy
 
-Vieux-Lyon is the best-preserved Renaissance ensemble north of the Alps. Saint-Jean, Saint-Paul and Saint-Georges line the Saône, interspersed with Traboules: secret passageways through inner courtyards used by silk weavers. Today guided tours pass through them, though most are freely accessible.
+Vieux-Lyon is the best-preserved Renaissance ensemble north of the Alps. Saint-Jean, Saint-Paul and Saint-Georges line the Saône, interspersed with Traboules: secret passageways through inner courtyards used by silk weavers. Today [guided tours](https://www.tiqets.com/) pass through them, though most are freely accessible.
 
 **Who fits:** First-timers wanting historic Lyon. Romantic couples. Foodie pairs looking for an evening of Bouchons (classic Lyon bistros) on Place Neuve Saint-Jean.
 

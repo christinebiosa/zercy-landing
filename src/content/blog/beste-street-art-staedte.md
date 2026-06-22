@@ -76,7 +76,7 @@ Frühling und Frühherbst (April bis Mai, September bis Oktober) sind ideal. Wet
 
 ### Wie viel kostet eine Street-Art-Tour in Lissabon?
 
-Kostenlose Selbst-Touren sind mit Google Maps und der App Arty Maps jederzeit möglich. Geführte Touren kosten 15 bis 25 Euro pro Person und dauern 2 bis 3 Stunden. Spezialisierte Anbieter wie Lisbon Street Art & Tiles Tours bieten auch private Touren ab 50 Euro an. Im Viertel Mouraria kannst du auch auf eigene Faust sehr viel entdecken.
+Kostenlose Selbst-Touren sind mit Google Maps und der App Arty Maps jederzeit möglich. [Geführte Touren](https://www.tiqets.com/) kosten 15 bis 25 Euro pro Person und dauern 2 bis 3 Stunden. Spezialisierte Anbieter wie Lisbon Street Art & Tiles Tours bieten auch private Touren ab 50 Euro an. Im Viertel Mouraria kannst du auch auf eigene Faust sehr viel entdecken.
 
 ### Welche Street-Art-Städte sind am wenigsten touristisch?
 

@@ -53,7 +53,7 @@ Crete for all traveler types:
 - **Hikers**: E4 long-distance trail, gorge walks
 - **Beach lovers**: Elafonisi, Balos, Falassarna, Matala
 
-Crete is the only one of these four islands you can stretch to more than a week without running out of things to do.
+Crete is the only one of these four islands you can stretch to more than a week without running out of [things to do](https://www.tiqets.com/).
 
 Also read our [Iceland Travel Guide](/en/blog/iceland-travel-guide/) for other spectacular European island experiences.
 

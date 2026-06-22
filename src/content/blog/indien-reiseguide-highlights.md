@@ -44,7 +44,7 @@ Das Preis-Leistungs-Verhältnis bei Luxus-Hotels ist außergewöhnlich: Fünf-St
 
 **November bis Februar:** Perfekt für Südindien (Goa, Kerala, Tamil Nadu). Trocken und warm, aber nicht brutal heiß.
 
-**Monsun (Juni–September):** Intensiv und günstig. Kerala im Monsun hat eine ganz eigene Magie. Viele Sehenswürdigkeiten sind öffnen, Preise deutlich niedriger. Für Reiseerfahrene sehr empfohlen.
+**Monsun (Juni–September):** Intensiv und günstig. Kerala im Monsun hat eine ganz eigene Magie. Viele [Sehenswürdigkeiten](https://www.tiqets.com/) sind öffnen, Preise deutlich niedriger. Für Reiseerfahrene sehr empfohlen.
 
 **Vermeiden:** April–Mai in Nordindien (40–48°C, kaum auszuhalten). Sommer in Rajasthan ist die Hölle.
 

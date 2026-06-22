@@ -15,7 +15,7 @@ Dieser Guide zeigt Budapest und was außerhalb der Hauptstadt auf dich wartet: d
 
 ## Was sind die Highlights in Budapest?
 
-Das Parlamentsgebäude am Donauufer ist eines der schönsten neugotischen Bauwerke der Welt. Geführte Touren ins Innere täglich, Tickets vorab online kaufen über [parlament.hu](https://www.parlament.hu/web/visitor-information). Die Fischerbastei auf dem Burgberg bietet den bekanntesten Ausblick über die Donau. Abends beleuchtet ist sie magisch. Der Burgberg selbst mit dem Budaer Schloss und der Matthiaskirche braucht einen halben Tag.
+Das Parlamentsgebäude am Donauufer ist eines der schönsten neugotischen Bauwerke der Welt. [Geführte Touren](https://www.tiqets.com/) ins Innere täglich, Tickets vorab online kaufen über [parlament.hu](https://www.parlament.hu/web/visitor-information). Die Fischerbastei auf dem Burgberg bietet den bekanntesten Ausblick über die Donau. Abends beleuchtet ist sie magisch. Der Burgberg selbst mit dem Budaer Schloss und der Matthiaskirche braucht einen halben Tag.
 
 Die Thermalbäder sind Pflicht und keine Touristenfalle. Das Széchenyi-Bad (das gelbe Gebäude im Stadtpark) ist das größte und beliebteste, ein Erlebnis. Das Gellért-Bad im Jugendstil ist historisch beeindruckend. Wer mehr Atmosphäre will: das Rudas-Bad am Donauufer, osmanisches Kuppelbad aus dem 16. Jahrhundert, freitags und samstags bis 4 Uhr morgens geöffnet.
 

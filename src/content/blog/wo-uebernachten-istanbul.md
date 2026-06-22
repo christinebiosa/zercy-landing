@@ -24,7 +24,7 @@ Kurzer Überblick:
 
 ## Sultanahmet: Das Herz der Geschichte
 
-Wer zum ersten Mal in Istanbul ist und die ikonischen Sehenswürdigkeiten sehen will, wohnt am besten in Sultanahmet. Hagia Sophia, Blaue Moschee, Grand Bazaar und Topkapi-Palast sind allesamt fußläufig erreichbar.
+Wer zum ersten Mal in Istanbul ist und die ikonischen [Sehenswürdigkeiten](https://www.tiqets.com/) sehen will, wohnt am besten in Sultanahmet. Hagia Sophia, Blaue Moschee, Grand Bazaar und Topkapi-Palast sind allesamt fußläufig erreichbar.
 
 Das Viertel hat aber auch eine Schwäche: Es ist sehr touristisch. Restaurants rund um die Moscheen sind teuer und oft enttäuschend. Wer gut essen will, verlässt abends das Viertel.
 

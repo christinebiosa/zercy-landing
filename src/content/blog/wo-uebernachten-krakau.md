@@ -47,7 +47,7 @@ Wer Krakau historisch durchleuchten will, schaut sich auch unseren Artikel zu [N
 
 ## Wann ist die beste Reisezeit für Krakau?
 
-**Mai bis September** ist Hochsaison. Das Wetter ist warm, alle Sehenswürdigkeiten offen, die Viertel belebt. Aber: Junggesellenabschied-Gruppen aus England und Holland füllen Kazimierz Wochenenden.
+**Mai bis September** ist Hochsaison. Das Wetter ist warm, alle [Sehenswürdigkeiten](https://www.tiqets.com/) offen, die Viertel belebt. Aber: Junggesellenabschied-Gruppen aus England und Holland füllen Kazimierz Wochenenden.
 
 **Oktober und April** sind die beste Zeit. Kühler, ruhiger, günstigere Hotels. Auschwitz-Birkenau ohne Massen. Die [Krakau-Tourismus-Behörde](https://www.krakow.pl) veröffentlicht saisonale Reiserouten.
 

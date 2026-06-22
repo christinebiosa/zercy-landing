@@ -10,7 +10,7 @@ heroImage: "/img/blog/barcelona-48h.jpg"
 
 Barcelona ist eine Stadt, die sofort unter die Haut geht. Die Mischung aus Architektur, Essen, Meer und katalanischer Lebensart ist einzigartig. Und das Beste: Zwei Tage reichen aus, um die wichtigsten Highlights zu erleben, ohne dich zu hetzen. Du musst nur wissen, wo du anfängst.
 
-Dieser Guide führt dich durch ein 48-Stunden-Programm, das Highlights mit echten Geheimtipps verbindet. Kein stumpfes Abarbeiten von Sehenswürdigkeiten, sondern ein Rhythmus, der sich nach Urlaub anfühlt.
+Dieser Guide führt dich durch ein 48-Stunden-Programm, das Highlights mit echten Geheimtipps verbindet. Kein stumpfes Abarbeiten von [Sehenswürdigkeiten](https://www.tiqets.com/), sondern ein Rhythmus, der sich nach Urlaub anfühlt.
 
 ## Was solltest du an Tag 1 unbedingt sehen?
 

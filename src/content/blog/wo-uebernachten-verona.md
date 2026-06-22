@@ -11,7 +11,7 @@ bookingDest: "Verona"
 
 Verona ist mehr als Romeo und Julia. Die norditalienische Stadt am Adige-Fluss ist UNESCO-Welterbe, Opernbühne von Weltrang und eines der besterhaltenen römischen Stadtbilder Europas. Wer hier übernachtet, tut das idealerweise mitten in der Geschichte. Das geht auch unter 150 Euro.
 
-Verona ist überschaubar. Das Zentrum liegt auf engem Raum, und fast alle Sehenswürdigkeiten sind zu Fuß erreichbar. Trotzdem lohnt es sich, das Viertel bewusst zu wählen.
+Verona ist überschaubar. Das Zentrum liegt auf engem Raum, und fast alle [Sehenswürdigkeiten](https://www.tiqets.com/) sind zu Fuß erreichbar. Trotzdem lohnt es sich, das Viertel bewusst zu wählen.
 
 ## Welcher Stadtteil passt zu welcher Reise?
 

@@ -9,7 +9,7 @@ heroImage: "/img/blog/vienna-48h.jpg"
 bookingDest: "Vienna"
 ---
 
-Wien ist eine der am meisten unterschätzten Kurzreise-Städte Europas. Nicht wegen der Sehenswürdigkeiten. Die kennt jeder. Sondern weil die Stadt eine bestimmte Langsamkeit hat, die sich schon nach einem Wochenende überträgt. Du kommst entspannter zurück, als du gefahren bist.
+Wien ist eine der am meisten unterschätzten Kurzreise-Städte Europas. Nicht wegen der [Sehenswürdigkeiten](https://www.tiqets.com/). Die kennt jeder. Sondern weil die Stadt eine bestimmte Langsamkeit hat, die sich schon nach einem Wochenende überträgt. Du kommst entspannter zurück, als du gefahren bist.
 
 In 48 Stunden schaffst du das Wesentliche. Nicht alles. Das Wesentliche.
 

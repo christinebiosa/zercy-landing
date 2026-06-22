@@ -23,7 +23,7 @@ La decisión más importante antes de reservar: ¿qué barrio? No depende solo d
 
 **Maboneng:** Distrito de arte emergente, street food, energía urbana. Para los que buscan aventura cultural.
 
-**Soweto:** Patrimonio cultural, historia del apartheid, tours guiados. Imprescindible para entender Sudáfrica de verdad.
+**Soweto:** Patrimonio cultural, historia del apartheid, [tours guiados](https://www.tiqets.com/). Imprescindible para entender Sudáfrica de verdad.
 
 ## Sandton: El Johannesburgo Más Seguro
 

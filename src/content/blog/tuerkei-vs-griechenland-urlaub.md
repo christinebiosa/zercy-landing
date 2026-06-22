@@ -32,7 +32,7 @@ Für EU-Bürger gilt: Griechenland ist Schengen-Raum. Kein Extraaufwand, keine v
 
 Griechisches Essen schlägt die Konkurrenz für viele Westeuropäer klar. Frischer Oktopus, Feta direkt vom Produzenten, Gyros vom Holzkohlegrill. Die lokale Küche auf kleinen Inseln ist besser als auf dem Festland und besser als in der Türkei für die meisten deutschen Gaumen.
 
-Kreta als Familien-Option: große Strände mit flachem Wasser, kurze Wege zwischen Sehenswürdigkeiten, weniger Partytourismus als auf Mykonos oder Ios. Wer mit Kindern reist, ist hier gut aufgehoben. Dazu: Griechenland bleibt bis Oktober warm. September und Oktober sind oft die schönsten Monate. Weniger Menschenmassen, noch angenehme Temperaturen, günstigere Hotels.
+Kreta als Familien-Option: große Strände mit flachem Wasser, kurze Wege zwischen [Sehenswürdigkeiten](https://www.tiqets.com/), weniger Partytourismus als auf Mykonos oder Ios. Wer mit Kindern reist, ist hier gut aufgehoben. Dazu: Griechenland bleibt bis Oktober warm. September und Oktober sind oft die schönsten Monate. Weniger Menschenmassen, noch angenehme Temperaturen, günstigere Hotels.
 
 Für den Vergleich der Inseln: [Griechenland Inseln im Vergleich](/blog/griechenland-inseln-vergleich/) zeigt konkret, welche Insel zu welchem Reiseprofil passt.
 

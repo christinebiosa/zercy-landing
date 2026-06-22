@@ -45,7 +45,7 @@ Hostels kennst du. Aber die wirklich günstigen Optionen gehen weiter:
 
 **Günstige Pensionen und Guesthouses** findet man oft nur auf Google Maps. Typing 'guesthouse [Stadtname]' oder 'pension [Stadtname]' liefert Optionen, die nie auf Booking erscheinen. Oft Familiengeführt, oft sehr preiswert. In Südostasien für unter 10 Euro pro Nacht absolut normal.
 
-Wer längere Reisen plant, sollte auch [Interrail-Routen in Europa](/blog/interrail-guide-2026/) in Betracht ziehen. Der Nachtzug spart gleichzeitig Unterkunftskosten. Und wer günstige Flüge sucht, findet in unserem [Günstig fliegen Guide](/blog/guenstig-fliegen-tipps/) die besten Tricks.
+Wer längere Reisen plant, sollte auch [Interrail-Routen in Europa](/blog/interrail-guide-2026/) in Betracht ziehen. Der Nachtzug spart gleichzeitig Unterkunftskosten. Und wer [günstige Flüge](https://www.aviasales.com/) sucht, findet in unserem [Günstig fliegen Guide](/blog/guenstig-fliegen-tipps/) die besten Tricks.
 
 ## Welche kleinen Tricks machen den großen Unterschied?
 

@@ -65,7 +65,7 @@ Mactan ist nicht Cebu City. Eine Brücke verbindet die beiden Inseln. Hier liegt
 
 ## Mandaue: Das günstige Cebu
 
-Nördlich von Cebu City. Weniger touristisch, lokale Märkte, Industriegebiet neben Wohnvierteln. Kein Strand, keine Sehenswürdigkeiten per se. Aber: günstiger als alles andere, gute Verkehrsanbindung in die Stadt und zum Flughafen.
+Nördlich von Cebu City. Weniger touristisch, lokale Märkte, Industriegebiet neben Wohnvierteln. Kein Strand, keine [Sehenswürdigkeiten](https://www.tiqets.com/) per se. Aber: günstiger als alles andere, gute Verkehrsanbindung in die Stadt und zum Flughafen.
 
 **Wer hier richtig liegt:** Budgetreisende, Langzeitaufenthalte, alle die Cebu als Basis für Inselhopping nutzen und nur einen Schlafplatz brauchen.
 

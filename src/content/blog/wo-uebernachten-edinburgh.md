@@ -27,7 +27,7 @@ Hier die ehrliche Übersicht: 4 Stadtteile, was sie kosten, für wen sie passen.
 
 UNESCO-Welterbe seit 1995. Die Royal Mile führt vom Holyrood Palace (offizielle schottische Königsresidenz) zum Edinburgh Castle. Mittelalterliche Closes (winzige Gassen), Greyfriars Kirkyard (Inspiration für Harry Potter), Grassmarket. Viele kleine Boutique-Hotels in 17. Jahrhundert-Häusern.
 
-**Wer hier richtig liegt:** Erstbesucher (alle Sehenswürdigkeiten direkt vor der Tür), Romantik-Reisende, kurze Trips, Harry-Potter-Fans.
+**Wer hier richtig liegt:** Erstbesucher (alle [Sehenswürdigkeiten](https://www.tiqets.com/) direkt vor der Tür), Romantik-Reisende, kurze Trips, Harry-Potter-Fans.
 
 **Achtung:** Tagsüber sehr touristisch (besonders August). Boutique-Hotels in alten Häusern haben oft enge Treppen ohne Aufzug.
 

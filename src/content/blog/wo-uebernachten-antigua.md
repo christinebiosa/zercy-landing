@@ -29,7 +29,7 @@ Antigua ist klein und gut zu Fuß zu erkunden. Das Zentrum rund um den Parque Ce
 
 Das historische Zentrum von Antigua ist eines der besterhaltenen Kolonial-Ensembles Lateinamerikas. Der Parque Central mit dem Brunnen, dem Palacio de los Capitanes Generales und der Catedral de Santiago ist der Ausgangspunkt aller Erkundungen. Die berühmte Arco de Santa Catalina-Brückenstraße (gelber Torbogen) ist 5 Minuten entfernt.
 
-Hotels im Centro sind oft koloniale Herrenhäuser mit Innenhöfen, die zu Boutique-Hotels umgebaut wurden. Das Ambiente ist unvergleichlich, der Preis entsprechend. Das offizielle Tourismusportal [visitguatemala.com](https://www.visitguatemala.com) bietet Informationen zu Sehenswürdigkeiten, Sicherheitshinweise und Veranstaltungen.
+Hotels im Centro sind oft koloniale Herrenhäuser mit Innenhöfen, die zu Boutique-Hotels umgebaut wurden. Das Ambiente ist unvergleichlich, der Preis entsprechend. Das offizielle Tourismusportal [visitguatemala.com](https://www.visitguatemala.com) bietet Informationen zu [Sehenswürdigkeiten](https://www.tiqets.com/), Sicherheitshinweise und Veranstaltungen.
 
 **Für wen es passt:** Erstbesucher, Kulturinteressierte, Paare, alle die das koloniale Ambiente direkt erleben wollen.
 

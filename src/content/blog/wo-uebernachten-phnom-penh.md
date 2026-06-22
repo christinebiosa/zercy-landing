@@ -63,7 +63,7 @@ BKK1 steht für Boeng Keng Kang 1. Das ist Phnom Penhs bevorzugtes Wohnviertel f
 
 Kambodscha hat zwei Jahreszeiten. Trockenzeit von November bis April: angenehme Temperaturen um 28 Grad, trockene Luft, gutes Wetter für Tagesausflüge. Das ist die Hochsaison. Regenzeit von Mai bis Oktober: tägliche Schauer (meist nachmittags), schwüler, Preise deutlich günstiger. Für Budgetreisende ist Oktober bis November ideal: Regen lässt nach, Preise noch günstig.
 
-**Vorsicht:** April ist das heißeste Monat (bis 40 Grad). Wasserknappheit und Hitzeerschöpfung sind real. Khmer New Year (13.-16. April) schließt viele Sehenswürdigkeiten.
+**Vorsicht:** April ist das heißeste Monat (bis 40 Grad). Wasserknappheit und Hitzeerschöpfung sind real. Khmer New Year (13.-16. April) schließt viele [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ## Russian Market / Tuol Tom Pong: Lokal und günstig
 

@@ -35,7 +35,7 @@ George Town ist der Kern von Penang. Die Kolonialarchitektur, die Tempel, die ch
 
 **Top-Picks:** Cheong Fatt Tze Mansion (ikonische blaue Mansion, historisch und atmosphärisch), Muntri House (Heritage-Boutique in ruhiger Seitenstraße), The Edison George Town (modernes Hotel im restaurierten Shophouse). Diese und 500+ weitere Penang-Hotels findest du auf [Booking.com](https://www.booking.com) mit Stadtteil-Filter und kostenloser Stornierung.
 
-Die [offizielle Tourismus-Website von Penang](https://www.tourismpenang.gov.my) hat eine kuratierte Übersicht zu Heritage-Hotels und Sehenswürdigkeiten pro Zone.
+Die [offizielle Tourismus-Website von Penang](https://www.tourismpenang.gov.my) hat eine kuratierte Übersicht zu Heritage-Hotels und [Sehenswürdigkeiten](https://www.tiqets.com/) pro Zone.
 
 ## Gurney Drive: Seafront und Shopping
 

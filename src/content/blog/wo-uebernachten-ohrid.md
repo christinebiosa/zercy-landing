@@ -85,7 +85,7 @@ Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit d
 ## Häufige Fragen
 
 ### Welcher Stadtteil in Ohrid ist am besten für Erstbesucher?
-Die Altstadt rund um die Kaneo-Kirche und die Kale-Festung ist die klare Empfehlung. Die Sehenswürdigkeiten, die besten Restaurants und das Abendleben sind alle zu Fuß erreichbar. Für Badeurlaub ist der Strandbereich entlang der Promenade eine sinnvolle Alternative.
+Die Altstadt rund um die Kaneo-Kirche und die Kale-Festung ist die klare Empfehlung. Die [Sehenswürdigkeiten](https://www.tiqets.com/), die besten Restaurants und das Abendleben sind alle zu Fuß erreichbar. Für Badeurlaub ist der Strandbereich entlang der Promenade eine sinnvolle Alternative.
 
 ### Wann ist die beste Reisezeit für Ohrid?
 Juni und September sind der Sweet Spot: Das Wasser ist warm, die Massen sind nicht in vollem Gange, und die Preise liegen deutlich unter dem August-Niveau. Wer Kulturveranstaltungen sucht, kommt im Juli zum Ohrid Summer Festival, das Konzerte, Theater und Filmvorführungen direkt am See bietet.

@@ -18,7 +18,7 @@ Die besten Wochenendtrip-Ziele haben drei Dinge gemeinsam: Sie sind in unter dre
 
 **Prag** ist von Berlin aus in drei Stunden mit dem Bus oder Zug erreichbar. Kosten ab 15 Euro einfach. Kein Flug nötig. Die Altstadt, der Wenzelsplatz, das jüdische Viertel: alles fußläufig. Günstige Stadt, gute Restaurantdichte. Für ein [48-Stunden-Prag](/blog/48-stunden-prag/)-Wochenende brauchst du keinen langen Plan.
 
-**Wien** liegt von München aus in vier Stunden mit dem Zug. Direktverbindungen stündlich, Ticket ab 30 Euro. Wien ist dicht: Museen, Kaffeehäuser, Naschmarkt, Prater. Die Sehenswürdigkeiten liegen nah beieinander. Ein [48-Stunden-Wien](/blog/48-stunden-wien/)-Wochenende lässt sich komplett ohne Auto planen.
+**Wien** liegt von München aus in vier Stunden mit dem Zug. Direktverbindungen stündlich, Ticket ab 30 Euro. Wien ist dicht: Museen, Kaffeehäuser, Naschmarkt, Prater. Die [Sehenswürdigkeiten](https://www.tiqets.com/) liegen nah beieinander. Ein [48-Stunden-Wien](/blog/48-stunden-wien/)-Wochenende lässt sich komplett ohne Auto planen.
 
 **Amsterdam** ist von der deutschen Grenze aus mit dem Zug schnell erreichbar. Von Köln aus ist Amsterdam in unter drei Stunden erreichbar, direkt ohne Umsteigen. Grachten, Rijksmuseum, Jordaan: kompakt. [48 Stunden Amsterdam](/blog/48-stunden-amsterdam/) reichen für die wichtigsten Highlights.
 

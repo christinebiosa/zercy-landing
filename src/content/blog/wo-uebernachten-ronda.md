@@ -59,7 +59,7 @@ Ideal für Reisende, die nicht im Trubel schlafen wollen. Preisspanne: 55-120 Eu
 **Hostal San Francisco**: für Budget-Reisende die nicht auf Komfort verzichten wollen. Sauber, zentral, persönlich. Ab 55 Euro.
 **Hotel El Tajo**: im Übergang zwischen San Francisco und Ciudad, mit schöner Dachterrasse. Ab 80 Euro.
 
-Die [offizielle Tourismus-Website von Ronda](https://www.turismoderonda.es) bietet aktuelle Informationen zu Museen, Öffnungszeiten der Altstadt-Sehenswürdigkeiten und geführten Touren durch die Schlucht.
+Die [offizielle Tourismus-Website von Ronda](https://www.turismoderonda.es) bietet aktuelle Informationen zu Museen, Öffnungszeiten der Altstadt-[Sehenswürdigkeiten](https://www.tiqets.com/) und geführten Touren durch die Schlucht.
 
 ## Umgebung und Fincas: Natur und Entschleunigung
 

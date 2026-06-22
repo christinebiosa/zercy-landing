@@ -31,7 +31,7 @@ Tanken vor langen Küstenabschnitten. Manche Strecken auf dem Wild Atlantic Way 
 
 ## Wann ist die beste Reisezeit für Irland?
 
-Mai bis September ist die verlässlichste Periode. Regen hat Irland immer, das gehört dazu. Aber von Mai bis August sind die Temperaturen angenehm (15 bis 20 Grad), die Tage lang und die meisten Sehenswürdigkeiten geöffnet.
+Mai bis September ist die verlässlichste Periode. Regen hat Irland immer, das gehört dazu. Aber von Mai bis August sind die Temperaturen angenehm (15 bis 20 Grad), die Tage lang und die meisten [Sehenswürdigkeiten](https://www.tiqets.com/) geöffnet.
 
 Juni und Juli sind Hochsaison. Cliffs of Moher und Ring of Kerry können voll sein. Hotels in Galway und Killarney solltest du früh buchen. Mai und September haben weniger Touristen bei ähnlichem Wetter. Oktober ist Herbst mit schönerem Licht, aber kürzer und nasser.
 

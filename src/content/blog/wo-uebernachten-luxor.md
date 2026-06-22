@@ -33,7 +33,7 @@ Die Corniche, Luxors Uferpromenade am Ostufer des Nils, ist das Herz des Tourism
 
 **Top-Picks:** Sofitel Winter Palace Luxor (das legendärste Hotel Ägyptens, historisches Gebäude aus der Kolonialzeit, Churchill und Agatha Christie logierten hier), Hilton Luxor Resort & Spa (Nil-Blick, Pools, modern), Steigenberger Nile Palace (gehobene Mittelklasse mit exzellenter Lage). Mehr als 120 Hotels in Luxor findest du auf [Booking.com](https://www.booking.com) mit Nil-Blick-Filter.
 
-Das offizielle [Egypt Travel Portal](https://www.egypt.travel) bietet aktuelle Einreise- und Besuchsinfos für Luxors Sehenswürdigkeiten.
+Das offizielle [Egypt Travel Portal](https://www.egypt.travel) bietet aktuelle Einreise- und Besuchsinfos für Luxors [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ## Westbank: Wie weit ist das Tal der Könige von Luxor entfernt?
 

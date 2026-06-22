@@ -21,7 +21,7 @@ Wer die Strände liebt, fährt am besten im Nordosten außerhalb dieser Regenpha
 
 Der brasilianische Süden (São Paulo, Florianópolis, Foz do Iguaçu) hat ein milderes Klima. Die trockenste und angenehmste Reisezeit dort liegt zwischen April und Oktober, wenn die Temperaturen auf angenehme 20-25 Grad sinken. Perfekt für Stadtbesichtigungen und Naturerlebnisse wie den Iguazú-Wasserfall.
 
-Für den [Brasilien Reiseguide mit allen Highlights](/blog/brasilien-reiseguide-highlights/) findest du die besten Sehenswürdigkeiten für jede Region.
+Für den [Brasilien Reiseguide mit allen Highlights](/blog/brasilien-reiseguide-highlights/) findest du die besten [Sehenswürdigkeiten](https://www.tiqets.com/) für jede Region.
 
 ## Wann zum Karneval?
 

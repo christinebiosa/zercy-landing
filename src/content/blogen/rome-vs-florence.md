@@ -14,7 +14,7 @@ Rome is staggering. History at every turn, millennia layered on top of each othe
 
 ## What Does Rome Offer That Florence Cannot Match?
 
-Rome has a concentration of world-class sights that almost no other city can match. The Colosseum, Roman Forum, Vatican Museums with the Sistine Chapel, the Pantheon: these four attractions alone fill three full days. Book Vatican tickets well in advance. Entry costs 17-23 euros, a guided tour 40-60 euros.
+Rome has a concentration of world-class sights that almost no other city can match. The Colosseum, Roman Forum, Vatican Museums with the Sistine Chapel, the Pantheon: these four attractions alone fill three full days. Book Vatican tickets well in advance. Entry costs 17-23 euros, a [guided tour](https://www.tiqets.com/) 40-60 euros.
 
 Then there is the energy of the city. Rome is alive. It is loud, crowded, and sometimes frustratingly inefficient. But the bars, restaurants, piazzas, and the street market at Campo de' Fiori have a vitality that Florence in this form simply does not have. If you want long evenings outside eating, drinking, and watching people, Rome is the better choice.
 

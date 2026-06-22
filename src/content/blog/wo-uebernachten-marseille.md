@@ -99,7 +99,7 @@ Wenn du Marseille planst, beschreibe Zercy einfach was du suchst (Erstbesuch, Ca
 
 ### Wo ist es in Marseille am schönsten?
 
-Für Hafen-Atmosphäre: Vieux Port. Für Künstler-Vibes: Le Panier. Für Premium: La Joliette. Für Strand: Endoume / Vallon des Auffes. Erstbesucher meist in Vieux Port wegen Sehenswürdigkeiten und Bouillabaisse.
+Für Hafen-Atmosphäre: Vieux Port. Für Künstler-Vibes: Le Panier. Für Premium: La Joliette. Für Strand: Endoume / Vallon des Auffes. Erstbesucher meist in Vieux Port wegen [Sehenswürdigkeiten](https://www.tiqets.com/) und Bouillabaisse.
 
 ### Wann ist die beste Reisezeit für Marseille?
 

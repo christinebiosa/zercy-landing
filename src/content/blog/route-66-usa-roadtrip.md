@@ -116,7 +116,7 @@ Maximal 4 bis 5 Stunden Fahrzeit pro Tag ist sinnvoll, wenn du wirklich etwas se
 
 ### Welche App ist am besten für die Route 66?
 
-Die Route 66 App (offiziell von EZ Route 66) zeigt alle historischen Stopps, Sehenswürdigkeiten, Tankstellen und Motels offline. Alternativ: Historic Route 66 Navigation. Google Maps kennt die Route nicht als Ganzes, ist aber gut für einzelne Etappen-Navigation.
+Die Route 66 App (offiziell von EZ Route 66) zeigt alle historischen Stopps, [Sehenswürdigkeiten](https://www.tiqets.com/), Tankstellen und Motels offline. Alternativ: Historic Route 66 Navigation. Google Maps kennt die Route nicht als Ganzes, ist aber gut für einzelne Etappen-Navigation.
 
 ---
 

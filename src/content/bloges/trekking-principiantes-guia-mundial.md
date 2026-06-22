@@ -58,7 +58,7 @@ Respuesta directa: para Nepal y Perú, un tour guiado tiene más sentido en tu p
 
 Para el Camino de Santiago y el Tour du Mont Blanc: ir por libre es lo habitual. Las rutas están tan bien señalizadas e infraestructuradas que una guía no aporta valor real. Ahorras 200 a 500 euros.
 
-Tours guiados para el Salkantay desde 300 euros. Trekking Poon Hill en Nepal desde 150 a 200 euros.
+[Tours guiados](https://www.tiqets.com/) para el Salkantay desde 300 euros. Trekking Poon Hill en Nepal desde 150 a 200 euros.
 
 ---
 

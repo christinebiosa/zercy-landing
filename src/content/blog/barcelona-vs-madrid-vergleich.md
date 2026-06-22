@@ -15,7 +15,7 @@ Dieser Artikel hilft dir bei der Entscheidung. Mit konkreten Zahlen, klaren Unte
 
 ## Warum ist Barcelona etwas Besonderes?
 
-Barcelona ist keine gewöhnliche Großstadt. Die katalanische Hauptstadt kombiniert Architektur, Strand und Mittelmeerklima auf eine Art, die in Europa einzigartig ist. Antoni Gaudís Werke prägen das Stadtbild wie kaum ein Architekt anderswo: Die [Sagrada Família](https://www.sagradafamilia.org) ist eine der meistbesuchten Sehenswürdigkeiten Europas, und das zu Recht. Park Güell bietet Panoramablick und Mosaikkunst zugleich. Casa Batlló und Casa Milà stehen auf dem Passeig de Gràcia Schulter an Schulter. Das ist Architektur zum Staunen, nicht zum Durchhetzen.
+Barcelona ist keine gewöhnliche Großstadt. Die katalanische Hauptstadt kombiniert Architektur, Strand und Mittelmeerklima auf eine Art, die in Europa einzigartig ist. Antoni Gaudís Werke prägen das Stadtbild wie kaum ein Architekt anderswo: Die [Sagrada Família](https://www.sagradafamilia.org) ist eine der meistbesuchten [Sehenswürdigkeiten](https://www.tiqets.com/) Europas, und das zu Recht. Park Güell bietet Panoramablick und Mosaikkunst zugleich. Casa Batlló und Casa Milà stehen auf dem Passeig de Gràcia Schulter an Schulter. Das ist Architektur zum Staunen, nicht zum Durchhetzen.
 
 Dazu kommt La Barceloneta, der Stadtstrand. Direkt nach dem Besuch eines Gaudí-Baus ins Mittelmeer springen, das geht nur hier. Barcelona verbindet Kulturhighlight und Strandurlaub auf engstem Raum.
 

@@ -78,7 +78,7 @@ Für Boutique-Inns und Bed & Breakfasts im Historic District lohnt sich auch ein
 
 Savannah ist beliebt über Feiertage und im Frühling extrem gefragt. St. Patrick's Day ist ein eigenes Festival: wer dann reist, bucht 3-4 Monate im Voraus oder zahlt das Doppelte.
 
-Wenn du Savannah mit einer breiteren US-Südtour kombinieren willst, schau in den [US Westküsten Roadtrip Guide](/blog/us-westkueste-roadtrip/) für Reiseideen. Wer günstige Flüge in die USA sucht, findet im Guide zu [Fernflug-Tricks](/blog/budget-fernflug-tricks/) solide Tipps. Und wer nach Savannah noch weitere US-Städte erkunden will, hat mit [solo reisen als Frau](/blog/solo-reisen-frauen-sicher/) gute Ressourcen.
+Wenn du Savannah mit einer breiteren US-Südtour kombinieren willst, schau in den [US Westküsten Roadtrip Guide](/blog/us-westkueste-roadtrip/) für Reiseideen. Wer [günstige Flüge](https://www.aviasales.com/) in die USA sucht, findet im Guide zu [Fernflug-Tricks](/blog/budget-fernflug-tricks/) solide Tipps. Und wer nach Savannah noch weitere US-Städte erkunden will, hat mit [solo reisen als Frau](/blog/solo-reisen-frauen-sicher/) gute Ressourcen.
 
 ---
 

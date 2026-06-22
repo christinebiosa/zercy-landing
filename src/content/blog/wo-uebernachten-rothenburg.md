@@ -49,7 +49,7 @@ Preisspanne: 70-120 Euro.
 
 ## Wann ist die beste Reisezeit für Rothenburg ob der Tauber?
 
-Rothenburg lässt sich das ganze Jahr besuchen. Die Hauptsaison läuft von Mai bis Oktober. Dann sind alle Sehenswürdigkeiten geöffnet, das Wetter ist mild, und das [Kriminalmuseum](https://www.kriminalmuseum.eu/de/) sowie der Jakobsweg durch die Stadt sind gut frequentiert. Im Juli und August ist das Besucheraufkommen am höchsten. Wer Ruhe will, kommt im Mai oder September.
+Rothenburg lässt sich das ganze Jahr besuchen. Die Hauptsaison läuft von Mai bis Oktober. Dann sind alle [Sehenswürdigkeiten](https://www.tiqets.com/) geöffnet, das Wetter ist mild, und das [Kriminalmuseum](https://www.kriminalmuseum.eu/de/) sowie der Jakobsweg durch die Stadt sind gut frequentiert. Im Juli und August ist das Besucheraufkommen am höchsten. Wer Ruhe will, kommt im Mai oder September.
 
 Der Winter ist eine echte Alternative. Der Weihnachtsmarkt auf dem Marktplatz (Ende November bis Dezember) gehört zu den bekanntesten Deutschlands. Die Gassen leuchten im Advent, die Temperaturen sind kalt, aber die Stimmung ist einzigartig. Preise für Unterkünfte steigen in dieser Zeit wieder.
 

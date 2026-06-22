@@ -15,7 +15,7 @@ Hier die ehrliche Übersicht: 5 Stadtteile, was sie kosten, für wen sie passen.
 
 ## Welcher Stadtteil passt zu welcher Reise?
 
-**Mitte:** Touristisches Zentrum, Brandenburger Tor, Museumsinsel. Für Erstbesucher, alle die Sehenswürdigkeiten zu Fuß wollen.
+**Mitte:** Touristisches Zentrum, Brandenburger Tor, Museumsinsel. Für Erstbesucher, alle die [Sehenswürdigkeiten](https://www.tiqets.com/) zu Fuß wollen.
 
 **Kreuzberg:** Alternativ, Streetart, Türkische Markthalle, Multikulti. Für junge Reisende, Foodies, alternativ Atmosphäre.
 

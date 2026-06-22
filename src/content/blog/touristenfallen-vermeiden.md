@@ -7,7 +7,7 @@ category: "Reisetipps"
 readingTime: 7
 heroImage: "/img/blog/avoid-tourist-traps.jpg"
 ---
-Jede große Reisestadt hat sie: Restaurants mit laminierten Speisekarten und Fotos von jedem Gericht. Taxifahrer, die den langen Weg nehmen. Sehenswürdigkeiten, um die herum alles dreimal so teuer ist wie drei Straßen weiter. Das ist kein Zufall. Es ist Geschäftsmodell. Und du musst es nur einmal verstehen, um nie wieder drauf reinzufallen.
+Jede große Reisestadt hat sie: Restaurants mit laminierten Speisekarten und Fotos von jedem Gericht. Taxifahrer, die den langen Weg nehmen. [Sehenswürdigkeiten](https://www.tiqets.com/), um die herum alles dreimal so teuer ist wie drei Straßen weiter. Das ist kein Zufall. Es ist Geschäftsmodell. Und du musst es nur einmal verstehen, um nie wieder drauf reinzufallen.
 
 Dieser Guide ist kein Misstrauenshandbuch. Es geht nicht darum, an jeder Ecke einen Betrüger zu vermuten. Es geht darum, mit ein bisschen Wissen das Richtige vom Falschen zu unterscheiden, das Lokale vom Touristischen. Und dabei deutlich besser zu essen, besser zu reisen und besser zu schlafen.
 

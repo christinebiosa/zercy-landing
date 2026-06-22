@@ -36,7 +36,7 @@ Nicht alle Cards sind gleich gut. Ein realistischer Vergleich:
 
 **Barcelona Card:** 5-Tage-Version für 30-35 Euro inkl. Öffis und Rabatte. Achtung: Sagrada Família ist NICHT inklusive, muss separat gebucht werden. Für echte Kulturtouris mit vielen kleinen Museen gut. Für Gaudí-Fokus weniger sinnvoll.
 
-**Prag Card:** Sehr günstiger Einstieg (2 Tage ca. 35 Euro). Prag Burg, Nationalmuseum, Jüdisches Viertel inklusive. Für Erstbesucher fast immer lohnenswert wegen der dichten Sehenswürdigkeiten.
+**Prag Card:** Sehr günstiger Einstieg (2 Tage ca. 35 Euro). Prag Burg, Nationalmuseum, Jüdisches Viertel inklusive. Für Erstbesucher fast immer lohnenswert wegen der dichten [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 **London Pass:** Teuer (2 Tage ab 109 Pfund) aber London-Hauptattraktionen wie Tower of London (33 Pfund), Kew Gardens (22 Pfund), Windsor Castle (27 Pfund) sind alle inklusive. Achtung: Tube ist NICHT inklusive, du brauchst zusätzlich eine Oyster Card. Lohnt sich nur bei sehr intensivem Sightseeing-Plan mit 5-6 kostenpflichtigen Attraktionen pro Tag.
 

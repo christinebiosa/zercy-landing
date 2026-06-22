@@ -31,7 +31,7 @@ Dezember zeigt, was Europa im Winter kann. Juli zeigt, was Europa im Sommer kann
 
 ## Wie viel kostet eine Frühlings-Europa-Reise?
 
-Frühling ist die günstigste Reisezeit für Westeuropa. Gegenüber Sommer zahlst du bei Hotels oft 25–40% weniger, Flüge sind günstiger, Sehenswürdigkeiten entspannter.
+Frühling ist die günstigste Reisezeit für Westeuropa. Gegenüber Sommer zahlst du bei Hotels oft 25–40% weniger, Flüge sind günstiger, [Sehenswürdigkeiten](https://www.tiqets.com/) entspannter.
 
 **Beispiel-Budgets (pro Person, 7 Tage):**
 - Amsterdam + Keukenhof: 700–1.000 Euro (Hotel, Flug, Essen)

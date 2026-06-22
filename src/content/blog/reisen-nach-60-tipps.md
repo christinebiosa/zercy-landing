@@ -64,7 +64,7 @@ Kompressionsstrümpfe tragen, viel Wasser trinken, regelmäßig aufstehen. Alkoh
 
 ### Wann ist der beste Zeitpunkt, als Ü60 zu reisen?
 
-Genau dann, wenn alle anderen nicht können: Außerhalb der Schulferien, in der Nebensaison. Preise sind günstiger, Sehenswürdigkeiten weniger überfüllt. März bis Mai und September bis November sind oft ideal.
+Genau dann, wenn alle anderen nicht können: Außerhalb der Schulferien, in der Nebensaison. Preise sind günstiger, [Sehenswürdigkeiten](https://www.tiqets.com/) weniger überfüllt. März bis Mai und September bis November sind oft ideal.
 
 ### Wo finde ich barrierefreie Reiseziele und Unterkünfte?
 

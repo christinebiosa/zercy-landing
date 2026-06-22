@@ -34,7 +34,7 @@ Empfehlenswerte Unterkünfte:
 
 Diese und 150+ weitere Hotels in Hakone findest du auf [Booking.com](https://www.booking.com) mit Filter nach Zone und Ausstattung (Onsen, Seeblick, Fuji-Blick).
 
-Die offizielle [Hakone Ropeway und Tourismusseite](https://www.hakone-kankou.or.jp) gibt einen guten Überblick über die Sehenswürdigkeiten und hilft bei der Planung der Hakone-Runde.
+Die offizielle [Hakone Ropeway und Tourismusseite](https://www.hakone-kankou.or.jp) gibt einen guten Überblick über die [Sehenswürdigkeiten](https://www.tiqets.com/) und hilft bei der Planung der Hakone-Runde.
 
 ## Wann ist die beste Reisezeit für Hakone?
 

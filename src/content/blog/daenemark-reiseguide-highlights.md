@@ -27,7 +27,7 @@ Christiania: Das autonome Freistaat-Viertel existiert seit 1971. Heute 1.000 Bew
 
 Nicht wegen eines Beschlusses der Politik, sondern weil die Infrastruktur es schlicht möglich macht. Breite, physisch getrennte Radwege auf allen Hauptstraßen. Ampelschaltungen, die auf Fahrrad-Tempo optimiert sind. Mehr Fahrräder als Einwohner. 62 Prozent der Kopenhagener fahren jeden Tag mit dem Rad zur Arbeit.
 
-Leihfahrräder sind überall erhältlich. Das Fahrrad ist für Kopenhagen-Touristen die sinnvollste Fortbewegungsart, sowohl für Effizienz als auch für Erlebnis. Die wichtigsten Sehenswürdigkeiten liegen alle in Rad-Reichweite.
+Leihfahrräder sind überall erhältlich. Das Fahrrad ist für Kopenhagen-Touristen die sinnvollste Fortbewegungsart, sowohl für Effizienz als auch für Erlebnis. Die wichtigsten [Sehenswürdigkeiten](https://www.tiqets.com/) liegen alle in Rad-Reichweite.
 
 ## Wann ist die beste Reisezeit für Dänemark?
 

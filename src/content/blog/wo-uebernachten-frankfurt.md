@@ -17,7 +17,7 @@ Das Gute: Frankfurt ist kompakt. Fast jedes Viertel ist mit U-Bahn oder zu Fuß 
 
 Eine kurze Übersicht vorab:
 
-- **Innenstadt/Römerberg**: Erstbesuch, Sehenswürdigkeiten, kurze Wege
+- **Innenstadt/Römerberg**: Erstbesuch, [Sehenswürdigkeiten](https://www.tiqets.com/), kurze Wege
 - **Sachsenhausen**: Lokales Lebensgefühl, Apfelwein, gemischtes Publikum
 - **Westend**: Business, Konferenzen, effiziente Lage
 - **Bornheim/Nordend**: Entdecker, Cafés, alternatives Flair

@@ -39,7 +39,7 @@ Bangkok → Chiang Mai → Laos (Luang Prabang, Vang Vieng) → Hanoi → Halong
 Cambodia → Vietnam → Laos → Thailand. Advantage: you start with the cheapest countries when your budget is fresh.
 
 **Bali as an add-on:**
-Bali works best as a separate block at the start or end. Cheap flights from Singapore, Kuala Lumpur, or direct from Europe.
+Bali works best as a separate block at the start or end. [Cheap flights](https://www.aviasales.com/) from Singapore, Kuala Lumpur, or direct from Europe.
 
 Internal connections: **overnight buses** are the cheapest option. A sleeper bus from Hanoi to Hue costs 8-15 EUR and saves one night's accommodation. Vietnam trains are recommended: more comfortable than buses, moderate prices. Island ferries (Thailand/Cambodia): 5-15 EUR.
 

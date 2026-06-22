@@ -78,7 +78,7 @@ Para boutique inns y bed and breakfasts en el Historic District, echar un vistaz
 
 Savannah tiene mucha demanda en festivos y en primavera está completamente llena. El día de San Patricio es prácticamente un festival: reserva con 3-4 meses de antelación o paga el doble.
 
-Si quieres combinar Savannah con una ruta más amplia por el sur de EE.UU., la [guía del road trip por la costa oeste](/es/blog/costa-oeste-usa-roadtrip/) tiene ideas de rutas. Para vuelos baratos a EE.UU., los [consejos de vuelos baratos](/es/blog/consejos-vuelos-baratos/) tienen trucos concretos. Y si planeas seguir viajando en solitario por Estados Unidos, [viajar sola como mujer](/es/blog/viaje-solo-mujeres-seguro/) es una lectura útil.
+Si quieres combinar Savannah con una ruta más amplia por el sur de EE.UU., la [guía del road trip por la costa oeste](/es/blog/costa-oeste-usa-roadtrip/) tiene ideas de rutas. Para [vuelos baratos](https://www.aviasales.com/) a EE.UU., los [consejos de vuelos baratos](/es/blog/consejos-vuelos-baratos/) tienen trucos concretos. Y si planeas seguir viajando en solitario por Estados Unidos, [viajar sola como mujer](/es/blog/viaje-solo-mujeres-seguro/) es una lectura útil.
 
 ---
 

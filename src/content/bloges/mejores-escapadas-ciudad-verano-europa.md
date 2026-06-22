@@ -21,7 +21,7 @@ Un segundo factor: los eventos. Edimburgo en agosto acoge el famoso Festival Fri
 
 Oporto ya no es un secreto, pero sigue siendo mucho menos concurrida que Lisboa en verano. La ciudad está en la costa atlántica y el viento Nortada mantiene las temperaturas bajo control. Temperatura media en julio: 25 grados. Fresco suficiente para dormir bien por la noche.
 
-Qué hacer: el barrio de Ribeira por la mañana, antes de que salgan los botes turísticos. La Livraria Lello por 5 euros de entrada (vale la pena un vistazo rápido). Por la tarde, el tren a Matosinhos, el barrio playero de Oporto, a unos 20 minutos. Las noches en el barrio Galerias, que es la zona de bares de la ciudad. El vino cuesta 2-3 euros la copa.
+[Qué hacer](https://www.tiqets.com/): el barrio de Ribeira por la mañana, antes de que salgan los botes turísticos. La Livraria Lello por 5 euros de entrada (vale la pena un vistazo rápido). Por la tarde, el tren a Matosinhos, el barrio playero de Oporto, a unos 20 minutos. Las noches en el barrio Galerias, que es la zona de bares de la ciudad. El vino cuesta 2-3 euros la copa.
 
 Para más playa, Esposende o Viana do Castelo están a menos de una hora. Para una visión más amplia, [los lugares más bonitos de Portugal](/es/blog/lugares-mas-bonitos-portugal/) repasa toda la región.
 

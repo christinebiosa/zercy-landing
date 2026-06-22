@@ -61,7 +61,7 @@ Wer Chiang Mai mit Bangkok kombiniert, schaut sich unseren Artikel zu [Bangkok-V
 
 ## Santitham: Lokal und günstig
 
-Santitham liegt nordöstlich der Altstadt, grenzt an die Altstadt-Mauer. Keine Sehenswürdigkeiten, dafür lokale Märkte, authentische Restaurants und sehr günstige Unterkünfte.
+Santitham liegt nordöstlich der Altstadt, grenzt an die Altstadt-Mauer. Keine [Sehenswürdigkeiten](https://www.tiqets.com/), dafür lokale Märkte, authentische Restaurants und sehr günstige Unterkünfte.
 
 - **Santitham Guesthouse Collection:** Mehrere kleine Pensionen bieten Zimmer ab 500 Baht (ca. 14 Euro) mit Frühstück.
 - **Sri Pat Guest House:** Sehr empfohlenes kleines Guesthouse, familiäre Atmosphäre.

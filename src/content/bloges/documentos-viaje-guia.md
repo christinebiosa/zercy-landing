@@ -10,7 +10,7 @@ heroImage: "/img/blog/travel-documents.jpg"
 
 Llegar al aeropuerto y descubrir que te falta un documento es una de las peores sensaciones del viaje. Un pasaporte vencido. Una visa olvidada. Un certificado de vacunación sobre el escritorio de casa. Cualquiera de estos puede frenar tu viaje antes de que empiece.
 
-Esta guía cubre qué documentos necesitas realmente, cómo respaldarloss de forma segura y qué hacer cuando algo sale mal.
+Esta guía cubre qué documentos necesitas realmente, cómo respaldarloss de forma segura y [qué hacer](https://www.tiqets.com/) cuando algo sale mal.
 
 ## ¿Qué documentos son obligatorios en cualquier viaje?
 

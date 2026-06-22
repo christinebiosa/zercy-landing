@@ -22,7 +22,7 @@ Barrierefreiheit ist kein absolutes Konzept, sie ist ein Spektrum. Aber einige L
 
 **Großbritannien:** Umfassende gesetzliche Anforderungen (Equality Act 2010). London ist trotz historischer Architektur überraschend gut zugänglich. Die Londoner U-Bahn hat "Step Free Access"-Stationen (nicht alle, aber genug für Sightseeing). National Rail bietet den "Passenger Assist"-Service.
 
-**USA:** ADA (Americans with Disabilities Act) seit 1990 gesetzlich verankert. Nationalparks, Sehenswürdigkeiten und öffentliche Gebäude müssen barrierefrei sein. New York hat ein Accessible Information Center, die meisten Museen sind vollständig zugänglich.
+**USA:** ADA (Americans with Disabilities Act) seit 1990 gesetzlich verankert. Nationalparks, [Sehenswürdigkeiten](https://www.tiqets.com/) und öffentliche Gebäude müssen barrierefrei sein. New York hat ein Accessible Information Center, die meisten Museen sind vollständig zugänglich.
 
 **Kanada:** Ähnlich wie USA, starke gesetzliche Basis. Vancouver und Toronto gelten als besonders rollstuhlfreundlich.
 

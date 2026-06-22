@@ -55,7 +55,7 @@ Madeira is cheaper than mainland Portugal and significantly cheaper than the Can
 
 Accommodation: €60-100 per night for a good double room. Five-star hotels in Funchal for €180-300.
 
-Levada walks: free, except guided tours (€40-60 per person).
+Levada walks: free, except [guided tours](https://www.tiqets.com/) (€40-60 per person).
 
 Food: restaurant lunch for €10-15. Madeiran wine (Poncha, Nikita) and fresh tuna are essential.
 

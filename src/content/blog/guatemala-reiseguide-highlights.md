@@ -21,7 +21,7 @@ Im Hintergrund ragt der Acatenango-Vulkan (3.976 Meter). Das Trekken auf den Aca
 
 Antigua ist auch einer der besten Orte Lateinamerikas für Spanisch-Sprachkurse. Viele Budget-Reisende bleiben zwei bis vier Wochen, machen morgens Sprachkurs und nachmittags Ausflüge. Welche Unterkünfte und Viertel in Antigua am besten passen, zeigt der [Antigua Hotelguide](/blog/wo-uebernachten-antigua/).
 
-Das [INGUAT, das guatemaltekische Tourismusinstitut](https://www.inguat.gob.gt/), bietet aktuelle Informationen zu allen Sehenswürdigkeiten und zugelassenen Führern.
+Das [INGUAT, das guatemaltekische Tourismusinstitut](https://www.inguat.gob.gt/), bietet aktuelle Informationen zu allen [Sehenswürdigkeiten](https://www.tiqets.com/) und zugelassenen Führern.
 
 ## Was erwartet dich in Tikal?
 

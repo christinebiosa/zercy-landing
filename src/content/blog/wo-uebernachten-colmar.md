@@ -64,7 +64,7 @@ Colmar hat zwei absolute Höhepunkte: der Sommer (Juli/August) mit vollen Gassen
 
 Colmar liegt direkt an der elsässischen Weinstraße. Ein Ausflug nach Riquewihr, Kaysersberg oder zu den Weinbergen rund um Turckheim lohnt sich. Wer Europa mit dem Zug erkunden will: Colmar ist mit dem TGV oder dem [Nachtzug nach Europa](/blog/nachtzuege-europa-2026/) erreichbar.
 
-Die offizielle Tourismusbehörde [Colmar Tourisme](https://www.tourisme-colmar.com/de) hat aktuelle Veranstaltungen und Öffnungszeiten der Sehenswürdigkeiten.
+Die offizielle Tourismusbehörde [Colmar Tourisme](https://www.tourisme-colmar.com/de) hat aktuelle Veranstaltungen und Öffnungszeiten der [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ## Welches Viertel ist am besten für Paare?
 

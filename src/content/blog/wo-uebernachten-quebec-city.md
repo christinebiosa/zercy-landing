@@ -31,7 +31,7 @@ Die Oberstadt ist das Herzstück von Québec. Die Stadtmauern umschließen ein V
 
 Das offizielle Tourismusportal [quebecoriginal.com](https://www.quebecoriginal.com) bietet eine vollständige Übersicht zu Stadtteilen, Aktivitäten und Events.
 
-**Für wen es passt:** Erstbesucher, Geschichtsliebhaber, Familien, alle die die Sehenswürdigkeiten kompakt erreichen wollen.
+**Für wen es passt:** Erstbesucher, Geschichtsliebhaber, Familien, alle die die [Sehenswürdigkeiten](https://www.tiqets.com/) kompakt erreichen wollen.
 
 **Preise pro Nacht:** Budget 110-170 CAD, Mittelklasse 170-320 CAD, Premium 300-700 CAD.
 

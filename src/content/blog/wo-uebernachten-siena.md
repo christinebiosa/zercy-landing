@@ -10,7 +10,7 @@ bookingDest: "Siena"
 ---
 Siena ist keine Touristenversion einer mittelalterlichen Stadt. Siena ist die echte Sache. Die Piazza del Campo, auf der zweimal jährlich das Pferderennen Palio stattfindet, die schwarzen und weißen Streifen des Doms, die engen Gassen des historischen Zentrums. Und das alles innerhalb der alten Stadtmauern, die fast vollständig erhalten sind.
 
-Wer hier übernachtet, braucht keine Transfers zwischen Hotel und Sehenswürdigkeiten. Die ganze Altstadt ist zu Fuß erreichbar. Der Haken: Es gibt wenige Hotelzimmer, und die guten sind schnell ausgebucht. Außerhalb der Mauern wird es günstiger, aber dann verlierst du das eigentliche Erlebnis.
+Wer hier übernachtet, braucht keine Transfers zwischen Hotel und [Sehenswürdigkeiten](https://www.tiqets.com/). Die ganze Altstadt ist zu Fuß erreichbar. Der Haken: Es gibt wenige Hotelzimmer, und die guten sind schnell ausgebucht. Außerhalb der Mauern wird es günstiger, aber dann verlierst du das eigentliche Erlebnis.
 
 ## Welcher Stadtteil passt zu welcher Reise?
 

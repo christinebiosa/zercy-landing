@@ -27,7 +27,7 @@ Hier die ehrliche Übersicht: 5 Stadtteile, was sie kosten, für wen sie passen.
 
 ## Soho/Covent Garden: Das touristische Herz
 
-Westend mit Theatern, Trafalgar Square, Buckingham Palace in 15 Min Fußdistanz. Hunderte Restaurants, Pubs an jeder Ecke, alle BIG-5-Sehenswürdigkeiten zu Fuß. Tagsüber Touristen, abends bis nachts lebendig.
+Westend mit Theatern, Trafalgar Square, Buckingham Palace in 15 Min Fußdistanz. Hunderte Restaurants, Pubs an jeder Ecke, alle BIG-5-[Sehenswürdigkeiten](https://www.tiqets.com/) zu Fuß. Tagsüber Touristen, abends bis nachts lebendig.
 
 **Wer hier richtig liegt:** Erstbesucher, Theater-Fans, Kurz-Trips (1-3 Nächte), wer keine U-Bahn fahren will.
 

@@ -37,7 +37,7 @@ Sicherheit ist für viele das Hauptthema. Beide Länder sind touristisch etablie
 
 **Marokko** hat in den letzten Jahren stark in Tourismus-Infrastruktur investiert. Übergriffe auf Touristen sind selten, aber Taschendiebstahl in Medinas kommt vor. Alleinreisende Frauen berichten von häufigem, aufdringlichem Nachrufen in Marrakesch und Fès. Chefchaouen und die Südroute durch den Atlas gelten als angenehmer. Die [offiziellen Reisehinweise des Auswärtigen Amts](https://www.auswaertiges-amt.de) empfehlen normale Vorsicht.
 
-**Ägypten** hat nach den politischen Ereignissen rund um 2011 und 2013 viele Touristen verloren. Die Sicherheitslage in touristischen Gebieten (Kairo, Luxor, Aswan, Rotes Meer) ist heute stabil. Polizeipräsenz an Sehenswürdigkeiten ist hoch. Die Sinaihalbinsel und die Grenzregionen sind anders zu bewerten und sollten gemieden werden.
+**Ägypten** hat nach den politischen Ereignissen rund um 2011 und 2013 viele Touristen verloren. Die Sicherheitslage in touristischen Gebieten (Kairo, Luxor, Aswan, Rotes Meer) ist heute stabil. Polizeipräsenz an [Sehenswürdigkeiten](https://www.tiqets.com/) ist hoch. Die Sinaihalbinsel und die Grenzregionen sind anders zu bewerten und sollten gemieden werden.
 
 Für Paare: beide Ziele sind gut machbar. Für Alleinreisende Frauen: Marokko erfordert mehr Vorbereitung auf das Thema Belästigung. Marokko hat auch einen Artikel in unserer Reihe zum [Solo Reisen für Frauen](/blog/solo-reisen-frauen-sicher/).
 

@@ -39,7 +39,7 @@ Nützlich: [Das Zercy-Tool](https://www.zercy.app) zeigt dir beim Reiseplanen au
 
 ## Wie erkennst du gefälschte Eintrittskarten und Tickets?
 
-**Gefälschte Tickets** für Sehenswürdigkeiten, Konzerte oder Veranstaltungen sind vor allem in beliebten Tourismusstädten ein Problem. Barcelona, Rom, Paris, aber auch Bangkok und Mexiko-Stadt sind bekannte Hotspots.
+**Gefälschte Tickets** für [Sehenswürdigkeiten](https://www.tiqets.com/), Konzerte oder Veranstaltungen sind vor allem in beliebten Tourismusstädten ein Problem. Barcelona, Rom, Paris, aber auch Bangkok und Mexiko-Stadt sind bekannte Hotspots.
 
 Wie sie funktionieren: Personen in der Nähe von Sehenswürdigkeiten oder Bahnhöfen bieten Tickets zu 'vergünstigten' Preisen an. Diese Tickets sind oft Fälschungen oder bereits benutzt.
 

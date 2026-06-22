@@ -59,7 +59,7 @@ In Tokio typischerweise Ende März bis Anfang April, in Kyoto etwa eine Woche sp
 
 ### Wann sollte man die Golden Week in Japan vermeiden?
 
-Die Golden Week (ca. 29. April bis 5. Mai) ist Japans Haupturlaubswoche. Hotels und Züge sind auf Jahreshöchstpreisen, Tempel und Sehenswürdigkeiten extrem überfüllt. International Reisende sollten diese Zeit nach Möglichkeit umgehen.
+Die Golden Week (ca. 29. April bis 5. Mai) ist Japans Haupturlaubswoche. Hotels und Züge sind auf Jahreshöchstpreisen, Tempel und [Sehenswürdigkeiten](https://www.tiqets.com/) extrem überfüllt. International Reisende sollten diese Zeit nach Möglichkeit umgehen.
 
 ### Wie ist das Wetter in Japan im Oktober?
 

@@ -14,7 +14,7 @@ Rom ist überwältigend. Geschichte auf Schritt und Tritt, Jahrtausende überein
 
 ## Was bietet Rom, was Florenz nicht kann?
 
-Rom hat eine Dichte an Weltklasse-Sehenswürdigkeiten, die kaum eine andere Stadt erreicht. Das Kolosseum, das Forum Romanum, die Vatikanischen Museen mit der Sixtinischen Kapelle, das Pantheon: allein diese vier Orte füllen drei volle Tage. Tickets für die Vatikanischen Museen bucht man am besten direkt beim [Vatikan](https://www.museivaticani.va/content/museivaticani/de.html). Der Eintrittspreis liegt bei 17-23 Euro, mit Guided Tour bei 40-60 Euro.
+Rom hat eine Dichte an Weltklasse-[Sehenswürdigkeiten](https://www.tiqets.com/), die kaum eine andere Stadt erreicht. Das Kolosseum, das Forum Romanum, die Vatikanischen Museen mit der Sixtinischen Kapelle, das Pantheon: allein diese vier Orte füllen drei volle Tage. Tickets für die Vatikanischen Museen bucht man am besten direkt beim [Vatikan](https://www.museivaticani.va/content/museivaticani/de.html). Der Eintrittspreis liegt bei 17-23 Euro, mit Guided Tour bei 40-60 Euro.
 
 Dazu kommt die Energie der Stadt. Rom lebt. Es ist laut, voll und manchmal frustrierend ineffizient. Aber die Bars, Restaurants, Piazzas und der Straßenmarkt bei Campo de' Fiori haben eine Lebendigkeit, die Florenz in dieser Form nicht hat. Wer abends lang draußen sitzen, essen, trinken und schauen will, ist in Rom besser aufgehoben.
 

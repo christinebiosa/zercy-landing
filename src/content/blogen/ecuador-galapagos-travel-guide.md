@@ -21,7 +21,7 @@ The Mitad del Mundo equator monument north of the city is a popular excursion. W
 
 The Quito cable car (Teleférico de Quito) up to Pichincha volcano at 4,050 meters offers views of the complete Andean skyline. Bring layers, it's cold up there.
 
-Quito's old town deserves a full day. Start early, before the tour buses. Plaza Grande, Palacio del Gobierno, the churches of El Sagrario and San Francisco. [Quito Turismo](https://www.quito.com.ec/) has current guided tour options and opening times.
+Quito's old town deserves a full day. Start early, before the tour buses. Plaza Grande, Palacio del Gobierno, the churches of El Sagrario and San Francisco. [Quito Turismo](https://www.quito.com.ec/) has current [guided tour](https://www.tiqets.com/) options and opening times.
 
 ## What can you experience in the Galápagos?
 

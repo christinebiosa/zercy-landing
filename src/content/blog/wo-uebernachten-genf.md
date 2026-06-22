@@ -11,7 +11,7 @@ bookingDest: "Genf"
 
 Genf ist eine der teuersten Städte der Welt. Aber wer weiß, wo er bucht, zahlt nicht immer Diplomatenpreise. Die Stadt am Genfersee verbindet Schweizer Präzision mit französischer Lebensart, ein Ergebnis ihrer einzigartigen Grenzlage. Die richtige Viertelwahl spart Geld und Zeit.
 
-Genf ist kompakt. Die Altstadt, der Seeufer und die meisten Sehenswürdigkeiten liegen auf rund drei Kilometer Radius. Trotzdem unterscheiden sich die Viertel erheblich in Preis, Atmosphäre und Zielgruppe.
+Genf ist kompakt. Die Altstadt, der Seeufer und die meisten [Sehenswürdigkeiten](https://www.tiqets.com/) liegen auf rund drei Kilometer Radius. Trotzdem unterscheiden sich die Viertel erheblich in Preis, Atmosphäre und Zielgruppe.
 
 ## Welcher Stadtteil passt zu welcher Reise?
 

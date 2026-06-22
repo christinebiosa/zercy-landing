@@ -24,7 +24,7 @@ The classic route runs north to south: Hanoi to Ho Chi Minh City. You can do it 
 
 **Ho Chi Minh City (2 nights):** The former Saigon, now Vietnam's economic engine. The War Remnants Museum and Reunification Palace are essential. So is the rooftop bar scene in District 1. The city operates at a different speed from everywhere else in Vietnam.
 
-**Mekong Delta (1 to 2 nights):** A day trip from Ho Chi Minh City is not enough. Book a guided tour with a homestay in Can Tho. Floating markets at sunrise, rice paddies, life built around water channels. This is Vietnam that no city guide covers adequately.
+**Mekong Delta (1 to 2 nights):** A day trip from Ho Chi Minh City is not enough. Book a [guided tour](https://www.tiqets.com/) with a homestay in Can Tho. Floating markets at sunrise, rice paddies, life built around water channels. This is Vietnam that no city guide covers adequately.
 
 ## How do you get between cities?
 

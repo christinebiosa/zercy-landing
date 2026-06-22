@@ -121,7 +121,7 @@ Fiestas de Octubre runs throughout all of October and is Mexico's largest cultur
 
 ### How far is Guadalajara from the Tequila town?
 
-The town of Tequila (UNESCO Cultural Landscape) is about 60 km west of Guadalajara, roughly a 1-hour drive. Guided tours from Guadalajara cost $30-60 USD and include transportation, distillery visits, and tastings. Alternatively: the El Tequila Express heritage train runs on Saturdays for a scenic day trip.
+The town of Tequila (UNESCO Cultural Landscape) is about 60 km west of Guadalajara, roughly a 1-hour drive. [Guided tours](https://www.tiqets.com/) from Guadalajara cost $30-60 USD and include transportation, distillery visits, and tastings. Alternatively: the El Tequila Express heritage train runs on Saturdays for a scenic day trip.
 
 ### Where to stay for a Lake Chapala day trip?
 

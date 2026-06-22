@@ -35,7 +35,7 @@ Pantai Cenang Beach ist Langkawis bekanntester Strand. Zwei Kilometer weißer Sa
 
 **Top-Picks:** Meritus Pelangi Beach Resort (Klassiker direkt am Strand, Bungalow-Stil über dem Wasser, einmalig), Casa del Mar Langkawi (Boutique-Hotel, exzellente Lage am Strandende, eines der besten der Insel), AB Motel (günstig, sauber, direkte Strandnähe). Diese und über 400 Hotels auf Langkawi findest du auf [Booking.com](https://www.booking.com).
 
-Das offizielle [Tourism Malaysia Portal](https://www.tourism.gov.my) sowie [Langkawi Development Authority (LADA)](https://www.lada.gov.my) bieten aktuelle Informationen zu Aktivitäten und Sehenswürdigkeiten.
+Das offizielle [Tourism Malaysia Portal](https://www.tourism.gov.my) sowie [Langkawi Development Authority (LADA)](https://www.lada.gov.my) bieten aktuelle Informationen zu Aktivitäten und [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ## Wann ist die beste Reisezeit für Langkawi?
 

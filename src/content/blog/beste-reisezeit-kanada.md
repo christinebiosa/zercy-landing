@@ -52,7 +52,7 @@ Für Wintersport ist Whistler in British Columbia unschlagbar. Die Skisaison lä
 
 Kanada hat keine einheitliche Nebensaison - das hängt stark von der Region ab. Für die Rocky Mountains ist November bis April die ruhige Zeit (außer Ski-Orte). Für die Atlantikprovinzen (Neufundland, Nova Scotia) ist es Oktober bis Mai. Für die Städte (Toronto, Vancouver, Montréal) gibt es kaum eine echte Nebensaison - nur Januar und Februar sind etwas ruhiger.
 
-Günstige Flüge und Hotels findest du zuverlässig im November, nach den Herbstferien. Wer flexibel ist, kann hier deutlich sparen. Allerdings: Kanada ist im Winter kalt, und manche Attraktionen schließen oder reduzieren ihre Öffnungszeiten. Vergleich mit dem [Kanada Reiseguide Highlights](/blog/kanada-reiseguide-highlights/) lohnt sich, um das Programm richtig zu planen.
+[Günstige Flüge](https://www.aviasales.com/) und Hotels findest du zuverlässig im November, nach den Herbstferien. Wer flexibel ist, kann hier deutlich sparen. Allerdings: Kanada ist im Winter kalt, und manche Attraktionen schließen oder reduzieren ihre Öffnungszeiten. Vergleich mit dem [Kanada Reiseguide Highlights](/blog/kanada-reiseguide-highlights/) lohnt sich, um das Programm richtig zu planen.
 
 ---
 

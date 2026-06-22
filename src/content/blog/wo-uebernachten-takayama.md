@@ -14,7 +14,7 @@ Für die Wahl deiner Unterkunft lohnt es sich, kurz nachzudenken. Takayama ist k
 
 ## Welcher Stadtteil passt zu welcher Reise?
 
-- **Sanmachi-Suji / Altstadt:** Perfekt für Erstbesucher. Maximale Atmosphäre, kurze Wege zu allen Sehenswürdigkeiten, viele Ryokans und Boutique-Hotels.
+- **Sanmachi-Suji / Altstadt:** Perfekt für Erstbesucher. Maximale Atmosphäre, kurze Wege zu allen [Sehenswürdigkeiten](https://www.tiqets.com/), viele Ryokans und Boutique-Hotels.
 - **Flussbereich (Miyagawa):** Ruhiger als die Altstadt, schöne Abendstimmung am Fluss, guter Mix aus traditionellen Gasthäusern und günstigeren Hotels.
 - **Bahnhofsviertel:** Praktisch für Tagesausflüge nach Shirakawa-go oder Matsumoto, mehr Budgetoptionen, weniger Atmosphäre.
 - **Hida Folk Village Nähe (Norden):** Ideal für Familien und ruhige Nächte, etwas Fahrzeit in die Altstadt.

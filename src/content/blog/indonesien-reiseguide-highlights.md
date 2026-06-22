@@ -15,7 +15,7 @@ Indonesien ist das viertgrößte Land der Welt nach Einwohnerzahl. Es hat über 
 
 **Yogyakarta** (Jogja) ist die kulturelle Hauptstadt Javas und der beste Ausgangspunkt für die beiden größten Tempel des Landes.
 
-**Borobudur** ist der größte buddhistische Tempel der Welt. Erbaut im 9. Jahrhundert, besteht er aus über 2 Millionen Steinblöcken, hat 504 Buddha-Statuen und 72 Stupas. Bei Sonnenaufgang, wenn Nebel durch die Vulkane zieht, ist es eine der beeindruckendsten Sehenswürdigkeiten Südostasiens. Das [Borobudur Tempel-Komitee](https://whc.unesco.org/en/list/592) verwaltet das UNESCO-Welterbe, Tickets ab 25 USD für ausländische Besucher.
+**Borobudur** ist der größte buddhistische Tempel der Welt. Erbaut im 9. Jahrhundert, besteht er aus über 2 Millionen Steinblöcken, hat 504 Buddha-Statuen und 72 Stupas. Bei Sonnenaufgang, wenn Nebel durch die Vulkane zieht, ist es eine der beeindruckendsten [Sehenswürdigkeiten](https://www.tiqets.com/) Südostasiens. Das [Borobudur Tempel-Komitee](https://whc.unesco.org/en/list/592) verwaltet das UNESCO-Welterbe, Tickets ab 25 USD für ausländische Besucher.
 
 **Prambanan** liegt 17 Kilometer östlich von Yogyakarta: der größte hinduistische Tempel Südostasiens. Ein Komplex aus 240 Tempeln, gewidmet Brahma, Vishnu und Shiva. Abends gibt es Ramayana-Ballett-Aufführungen vor der Kulisse der beleuchteten Tempelanlagen.
 

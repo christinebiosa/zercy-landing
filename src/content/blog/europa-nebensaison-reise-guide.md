@@ -57,7 +57,7 @@ Ehrlich ist besser als blauäugig. Die Nebensaison hat Schattenseiten.
 
 **Wetter.** In Süd- und Westeuropa gibt es im Winter mehr Regen. November bis Februar in Kroatien oder Griechenland kann sehr wechselhaft sein. Manche Strände sind dann schlicht kein Vergnügen.
 
-**Kürzere Öffnungszeiten.** Museen, Sehenswürdigkeiten und öffentliche Einrichtungen haben außerhalb der Saison oft reduzierte Zeiten. Manchmal schließen sie für Wochen.
+**Kürzere Öffnungszeiten.** Museen, [Sehenswürdigkeiten](https://www.tiqets.com/) und öffentliche Einrichtungen haben außerhalb der Saison oft reduzierte Zeiten. Manchmal schließen sie für Wochen.
 
 **Geschlossene Betriebe.** Auf griechischen Inseln oder an der kroatischen Küste sind im November viele Hotels, Restaurants und Bootstouren schlicht geschlossen. Das schränkt die Auswahl ein.
 

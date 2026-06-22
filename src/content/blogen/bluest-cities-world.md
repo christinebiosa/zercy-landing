@@ -68,7 +68,7 @@ Quick budget overview:
 - **Santorini:** 100-250 euros per day. Expensive in high season.
 - **Sidi Bou Said:** 30-60 euros per day. Great value for European quality.
 
-For cheap flights to Greece or Morocco, check out our guide to [cheap flight tips](/en/blog/cheap-flights-tips/) before booking.
+For [cheap flights](https://www.aviasales.com/) to Greece or Morocco, check out our guide to [cheap flight tips](/en/blog/cheap-flights-tips/) before booking.
 
 ---
 

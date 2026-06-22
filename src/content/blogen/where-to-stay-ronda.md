@@ -59,7 +59,7 @@ Ideal for travelers who do not want to sleep in the middle of the action. Price 
 **Hostal San Francisco**: for budget travelers who do not want to sacrifice comfort. Clean, central, personal. From 55 euros.
 **Hotel El Tajo**: between San Francisco and the Ciudad, with a nice rooftop terrace. From 80 euros.
 
-The [official Ronda tourism website](https://www.turismoderonda.es) has current information on museums, opening hours for old-town sights, and guided tours through the gorge.
+The [official Ronda tourism website](https://www.turismoderonda.es) has current information on museums, opening hours for old-town sights, and [guided tours](https://www.tiqets.com/) through the gorge.
 
 ## Countryside and Fincas: Nature and a Slower Pace
 

@@ -77,7 +77,7 @@ Wer von Riga aus weiter nach Norden reist, findet im [Tallinn Stadtführer](/blo
 
 ## Teika: Günstiges modernes Riga
 
-Teika liegt nordöstlich des Zentrums, 20 bis 25 Minuten per Tram erreichbar. Ruhiges Wohngebiet, keine Sehenswürdigkeiten in direkter Nähe, aber günstig und sauber. Für Reisende, die Riga primär als Ausgangspunkt nutzen oder länger bleiben.
+Teika liegt nordöstlich des Zentrums, 20 bis 25 Minuten per Tram erreichbar. Ruhiges Wohngebiet, keine [Sehenswürdigkeiten](https://www.tiqets.com/) in direkter Nähe, aber günstig und sauber. Für Reisende, die Riga primär als Ausgangspunkt nutzen oder länger bleiben.
 
 **Wer hier richtig liegt:** Budget-Reisende, Geschäftsreisende, alle auf längerer Tour durch das Baltikum.
 

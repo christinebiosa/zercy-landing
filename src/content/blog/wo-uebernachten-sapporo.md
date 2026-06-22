@@ -35,7 +35,7 @@ Der Odori-Park zieht sich als grüne Achse mitten durch die Stadt. Im Februar st
 
 **Top-Picks:** JR Tower Hotel Nikko Sapporo (Hochhaushotel direkt am Bahnhof mit Blick über die Stadt), Hotel Monterey Sapporo (charmantes Boutique-Design, gute Lage an der U-Bahn), Cross Hotel Sapporo (modern, zentral, direkt im Susukino). Diese und 400+ weitere Sapporo-Hotels findest du auf [Booking.com](https://www.booking.com) mit Stadtplan-Filter und flexiblen Storno-Optionen.
 
-Die offizielle Tourismus-Seite [Hokkaido Tourism](https://visit-hokkaido.jp/en/) bietet aktuelle Informationen zu Festivals, Jahreszeiten und Sehenswürdigkeiten in Sapporo und ganz Hokkaido.
+Die offizielle Tourismus-Seite [Hokkaido Tourism](https://visit-hokkaido.jp/en/) bietet aktuelle Informationen zu Festivals, Jahreszeiten und [Sehenswürdigkeiten](https://www.tiqets.com/) in Sapporo und ganz Hokkaido.
 
 ## Sapporo Station Area: Bequemlichkeit zuerst
 

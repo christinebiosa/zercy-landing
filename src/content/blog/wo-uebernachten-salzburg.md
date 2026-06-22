@@ -19,7 +19,7 @@ Hier ist der ehrliche Überblick: 5 Stadtteile, was sie kosten, wer dort richtig
 
 **Neustadt (rechtes Ufer/Linzergasse):** Ruhiger als die Altstadt, trotzdem fußläufig, etwas günstiger. Für alle, die Charme suchen ohne Touristendichte.
 
-**Schallmoos/Lehen:** Wohngebiet, keine Sehenswürdigkeiten, lokale Cafés und Märkte. Für Sparfüchse und längere Aufenthalte.
+**Schallmoos/Lehen:** Wohngebiet, keine [Sehenswürdigkeiten](https://www.tiqets.com/), lokale Cafés und Märkte. Für Sparfüchse und längere Aufenthalte.
 
 **Aigen/Nonntal:** Ruhige Vorstadtlage, viel Grün, in der Nähe von Schloss Hellbrunn. Für Familien und Naturfans.
 

@@ -35,7 +35,7 @@ Haeundae ist Koreas berühmtester Strand. Im Sommer drängen sich Millionen auf 
 
 **Top-Picks:** Paradise Hotel Busan (Luxus-Strandhotel, Casino, direkte Meerlage), Marriott Busan (modernes Hotel nah am Strand, gutes Preis-Leistungs-Verhältnis im oberen Segment), Ibis Budget Haeundae (günstige Kette, sauber, kurzer Strandweg). Diese und über 350 Hotels in Busan findest du auf [Booking.com](https://www.booking.com).
 
-Die offizielle [Korea Tourism Organization](https://english.visitkorea.or.kr) bietet Informationen zu Busan, Strand-Festivalen und Sehenswürdigkeiten.
+Die offizielle [Korea Tourism Organization](https://english.visitkorea.or.kr) bietet Informationen zu Busan, Strand-Festivalen und [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ## Wann ist die beste Reisezeit für Busan?
 

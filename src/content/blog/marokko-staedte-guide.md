@@ -29,7 +29,7 @@ Für Fes-Reisende empfiehlt das [Marrakech-Fes Heritage Project](https://whc.une
 
 Casablanca ist keine Touristenstadt. Es ist Marokkos Wirtschaftszentrum. 4 Millionen Menschen, Stau, Business. Und trotzdem: Zwei Dinge machen einen Besuch lohnend.
 
-Die **Hassan-II.-Moschee** ist die drittgrößte Moschee der Welt und steht auf einem Felsvorsprung über dem Atlantik. Bei Flut scheint sie auf dem Wasser zu schweben. Das Minarett (200 Meter hoch) sendet einen Laserstrahl Richtung Mekka. Geführte Touren für Nicht-Muslime: täglich, ca. 15 bis 20 Euro. Pflichtbesuch in Casablanca.
+Die **Hassan-II.-Moschee** ist die drittgrößte Moschee der Welt und steht auf einem Felsvorsprung über dem Atlantik. Bei Flut scheint sie auf dem Wasser zu schweben. Das Minarett (200 Meter hoch) sendet einen Laserstrahl Richtung Mekka. [Geführte Touren](https://www.tiqets.com/) für Nicht-Muslime: täglich, ca. 15 bis 20 Euro. Pflichtbesuch in Casablanca.
 
 **Art Deco Architektur**: Casablanca hat eines der größten Art-Deco-Ensembles weltweit aus den 1920er bis 1940er Jahren (Protektoratszeit unter Frankreich). Manche Viertel sehen aus wie zufällig stehengelassenes Europa. Die **Corniche** (Uferpromenade) ist entspannt, touristisch, mit Meerblick.
 

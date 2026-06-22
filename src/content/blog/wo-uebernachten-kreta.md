@@ -45,7 +45,7 @@ Heraklion ist die Hauptstadt und der wichtigste Verkehrsknotenpunkt. Wer per Fä
 
 **Top-Picks:** GDM Megaron (Design-Hotel, zentral), Kronos Hotel (Mittelklasse am Hafen), Lato Boutique Hotel (Boutique mit Akropolis-Blick).
 
-Das [Greek National Tourism Organisation](https://visitgreece.gr/destinations/greek-islands/crete/) hat detaillierte Informationen zu Sehenswürdigkeiten und regionalen Besonderheiten Kretas.
+Das [Greek National Tourism Organisation](https://visitgreece.gr/destinations/greek-islands/crete/) hat detaillierte Informationen zu [Sehenswürdigkeiten](https://www.tiqets.com/) und regionalen Besonderheiten Kretas.
 
 ## Rethymno: Der unterschätzte Charme
 

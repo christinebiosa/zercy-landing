@@ -15,7 +15,7 @@ Dieser Artikel zeigt dir 8 Städte, die im Sommer tatsächlich Spaß machen. Mit
 
 Die kurze Antwort: Städte über 45. Breitengrad oder direkt am Wasser. Am besten beides. Eine Stadt wie Porto hat im Juli selten mehr als 28 Grad, dafür kommt ein Atlantikwind vom Meer. Lissabon liegt ähnlich. Reykjavik ist technisch gesehen eine Sommerstadt, wenn man 15 Grad okay findet. Barcelona hat zwar Hitze, aber das Meer ist buchstäblich am Ende jeder Stadtstraße.
 
-Ein zweiter Faktor: Events. Edinburgh hat im August das berühmte Fringe Festival, da ist die Stadt eine einzige Bühne. Ljubljana hat Open-Air-Konzerte im Schlosspark. Das macht den Aufenthalt zu mehr als nur Sehenswürdigkeiten abhaken.
+Ein zweiter Faktor: Events. Edinburgh hat im August das berühmte Fringe Festival, da ist die Stadt eine einzige Bühne. Ljubljana hat Open-Air-Konzerte im Schlosspark. Das macht den Aufenthalt zu mehr als nur [Sehenswürdigkeiten](https://www.tiqets.com/) abhaken.
 
 ## Porto: Der unterschätzte Sommer-Hit
 

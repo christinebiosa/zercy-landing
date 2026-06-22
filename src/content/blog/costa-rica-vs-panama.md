@@ -23,7 +23,7 @@ Fazit Natur: Costa Rica hat das breitere Angebot. Panama hat weniger bekannte, a
 
 Costa Rica ist für Mittelamerika teuer. Das liegt am Erfolg des Ökotourismus und an einem im regionalen Vergleich gut entwickelten Standard bei Unterkünften. Günstige Hostels beginnen bei 15-20 US-Dollar in der Nacht, ein einfaches Mittagessen kostet 7-12 US-Dollar. Nationalpark-Eintritt in Manuel Antonio liegt bei 20 US-Dollar. Wer mehrere Parks besucht, kommt schnell auf 200-300 US-Dollar für eine Woche, ohne Unterkunft.
 
-Panama liegt preislich ähnlich, wird aber oft als günstiger wahrgenommen, weil die Tourismusinfrastruktur weniger ausgebaut ist. In Panama-Stadt selbst ist das Leben teurer als anderswo im Land. Bocas del Toro hat günstige Guesthouses ab 20-25 US-Dollar. Geführte Touren im Darien-Bereich sind kostspielig, weil Logistik schwierig ist.
+Panama liegt preislich ähnlich, wird aber oft als günstiger wahrgenommen, weil die Tourismusinfrastruktur weniger ausgebaut ist. In Panama-Stadt selbst ist das Leben teurer als anderswo im Land. Bocas del Toro hat günstige Guesthouses ab 20-25 US-Dollar. [Geführte Touren](https://www.tiqets.com/) im Darien-Bereich sind kostspielig, weil Logistik schwierig ist.
 
 Insgesamt liegen die Kosten bei ähnlichem Programm nah beieinander. Panama hat mehr Preisvarianz durch ungleichmäßige Infrastruktur.
 

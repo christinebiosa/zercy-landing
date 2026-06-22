@@ -33,7 +33,7 @@ Man läuft nicht alleine. Man läuft mit hundert Menschen, die alle denselben We
 
 Die Rentnerin aus Deutschland, die es zum dritten Mal geht. Der Australier, der seinen Job gekündigt hat. Das Pärchen, das hier einen Neuanfang sucht. Der stille Mönch. Der lärmende Brite.
 
-Menschen auf dem Jakobsweg sind meistens an einer Schwelle. Berufswechsel. Trennung. Verlust. Ruhestand. Sie brauchen keine Aktivitäten und keine Sehenswürdigkeiten — sie brauchen Kilometer.
+Menschen auf dem Jakobsweg sind meistens an einer Schwelle. Berufswechsel. Trennung. Verlust. Ruhestand. Sie brauchen keine Aktivitäten und keine [Sehenswürdigkeiten](https://www.tiqets.com/) — sie brauchen Kilometer.
 
 Das klingt schwer. Es ist es auch. Aber nach wenigen Tagen verändert sich etwas. Die Beine gewöhnen sich. Der Kopf wird ruhiger. Man spricht mit Menschen, die man gestern noch nicht kannte, so offen wie mit alten Freunden.
 

@@ -9,7 +9,7 @@ heroImage: "/img/blog/babymoon-guide.jpg"
 ---
 La barriga crece, la lista de pendientes se alarga y en algún momento entre las clases prenatales y la decoración del cuarto del bebé surge ese pensamiento: un último viaje solo para los dos, antes de que todo cambie. Eso es un babymoon. No una aventura llena de madrugones y excursiones largas. Sino días tranquilos, buena comida, aire de mar y tiempo que no le pertenece a nadie más.
 
-Un babymoon funciona mejor cuando es una decisión consciente y no un compromiso. A dónde ir, cuándo viajar y qué hacer allá depende de cómo te sientes, del destino elegido y de algunas reglas médicas básicas. Esta guía cubre todo eso.
+Un babymoon funciona mejor cuando es una decisión consciente y no un compromiso. A dónde ir, cuándo viajar y [qué hacer](https://www.tiqets.com/) allá depende de cómo te sientes, del destino elegido y de algunas reglas médicas básicas. Esta guía cubre todo eso.
 
 ## ¿Cuándo es el mejor momento para hacer un babymoon?
 

@@ -29,7 +29,7 @@ Welcher Stadtteil ist der richtige? Center City ist das sichere, zentrale, touri
 
 Center City ist das geografische und wirtschaftliche Herz Philadelphias. Broad Street verläuft von Süd nach Nord, Market Street von West nach Ost, im Kreuzungspunkt liegt das City Hall Building. Das Reading Terminal Market ist eine Markthalle mit über 100 Händlern und eines der besten Märkte der USA.
 
-Von Center City erreicht man die wichtigsten Sehenswürdigkeiten in 10-20 Minuten zu Fuß. SEPTA (das U-Bahn-System) verbindet von hier alle Stadtteile. Das offizielle Tourismusportal [visitphilly.com](https://www.visitphilly.com) hat detaillierte Stadtteilkarten und aktuelle Veranstaltungstipps.
+Von Center City erreicht man die wichtigsten [Sehenswürdigkeiten](https://www.tiqets.com/) in 10-20 Minuten zu Fuß. SEPTA (das U-Bahn-System) verbindet von hier alle Stadtteile. Das offizielle Tourismusportal [visitphilly.com](https://www.visitphilly.com) hat detaillierte Stadtteilkarten und aktuelle Veranstaltungstipps.
 
 **Für wen es passt:** Erstbesucher, Geschäftsreisende, Familien, alle die maximale Anbindung wollen.
 

@@ -68,7 +68,7 @@ Resumen de presupuesto rápido:
 - **Santorini:** 100-250 euros al día. Caro en temporada alta.
 - **Sidi Bou Said:** 30-60 euros al día. Gran relación calidad-precio.
 
-Para vuelos baratos a Grecia o Marruecos, revisa nuestros [consejos para volar barato](/es/blog/consejos-vuelos-baratos/) antes de reservar.
+Para [vuelos baratos](https://www.aviasales.com/) a Grecia o Marruecos, revisa nuestros [consejos para volar barato](/es/blog/consejos-vuelos-baratos/) antes de reservar.
 
 ---
 

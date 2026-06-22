@@ -81,7 +81,7 @@ Zercy findet dir den günstigsten Flug nach Kopenhagen und passende Hotels in ei
 
 ### Wie teuer ist ein Wochenende in Kopenhagen?
 
-Plane 80 bis 120 Euro pro Tag für Essen, Transport und Eintritte. Hotels kosten 120 bis 200 Euro die Nacht in mittlerer Kategorie. Wer spart: Markthallen, Fahrrad und kostenlose Sehenswürdigkeiten wie die Schlossgärten oder die Fußgängerzone nutzen.
+Plane 80 bis 120 Euro pro Tag für Essen, Transport und Eintritte. Hotels kosten 120 bis 200 Euro die Nacht in mittlerer Kategorie. Wer spart: Markthallen, Fahrrad und kostenlose [Sehenswürdigkeiten](https://www.tiqets.com/) wie die Schlossgärten oder die Fußgängerzone nutzen.
 
 ### Wann ist die beste Reisezeit für Kopenhagen?
 

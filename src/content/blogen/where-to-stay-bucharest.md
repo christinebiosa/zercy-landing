@@ -53,7 +53,7 @@ The [official Romania tourism website](https://romaniatourism.com) has useful in
 
 Spring (April/May) and autumn (September/October) are the best months: pleasant temperatures, all terraces open, museums uncrowded. Summer is hot but cheap: no cruise tourists, affordable flights, fewer travelers than spring. Winter: Bucharest looks particularly good under snow. Christmas market on Revoluție Square, historic buildings in winter light, almost no tourism.
 
-One thing not to miss: the [Palace of Parliament](https://cic.cdep.ro) is only accessible with a guided tour. Book ahead, especially May through September.
+One thing not to miss: the [Palace of Parliament](https://cic.cdep.ro) is only accessible with a [guided tour](https://www.tiqets.com/). Book ahead, especially May through September.
 
 ## Aviatorilor: Quiet Villa Quarter, Exclusive
 

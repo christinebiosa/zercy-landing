@@ -56,7 +56,7 @@ Busca una póliza sin exclusión por preexistencia o con cláusula suavizada. Es
 
 **Vale menos la pena para:**
 - Vuelos y hoteles reservados con flexibilidad y cancelación gratuita
-- Vuelos baratos de última hora con costes totales bajos
+- [Vuelos baratos](https://www.aviasales.com/) de última hora con costes totales bajos
 - Escapadas cortas de menos de 500 euros en total
 
 Más sobre este equilibrio en la guía completa de [seguro de viaje: ¿vale la pena?](/es/blog/seguro-viaje-vale-la-pena/). Especialmente relevante para cruceros en la [guía de cruceros para principiantes](/es/blog/crucero-guia-principiantes/).

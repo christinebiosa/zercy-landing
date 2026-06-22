@@ -19,7 +19,7 @@ Transylvania is the core of any Romania trip. Brasov is the most beautiful city 
 
 Bran Castle, marketed as Dracula's Castle: Bram Stoker never visited Romania and the castle served at best as geographic inspiration. The castle itself is still worth seeing, a medieval fortress on a rock with an authentic Nosferatu atmosphere. The surrounding tourist kitsch can be ignored.
 
-Bucharest divides opinion. The old town (Centrul Vechi) is lively with an excellent bar and restaurant scene. The Palace of Parliament (Casa Poporului) is the world's second largest administrative building after the Pentagon, built by Ceaușescu. The sheer absurdity of its scale is an experience in itself. Guided tours daily.
+Bucharest divides opinion. The old town (Centrul Vechi) is lively with an excellent bar and restaurant scene. The Palace of Parliament (Casa Poporului) is the world's second largest administrative building after the Pentagon, built by Ceaușescu. The sheer absurdity of its scale is an experience in itself. [Guided tours](https://www.tiqets.com/) daily.
 
 The Danube Delta is a UNESCO World Heritage Site and home to 300 bird species. Take a boat from Tulcea into the delta. This is a different Romania entirely. Silence, reed-thatched roofs, fishermen.
 

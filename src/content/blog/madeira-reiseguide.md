@@ -55,7 +55,7 @@ Madeira ist günstiger als das portugiesische Festland und deutlich günstiger a
 
 Unterkunft: 60-100 Euro pro Nacht für ein gutes Doppelzimmer. Fünf-Sterne-Hotels in Funchal für 180-300 Euro.
 
-Levada-Wanderungen: kostenlos, außer geführte Touren (40-60 Euro pro Person).
+Levada-Wanderungen: kostenlos, außer [geführte Touren](https://www.tiqets.com/) (40-60 Euro pro Person).
 
 Essen: Restaurant-Menü für 10-15 Euro. Madeirensischer Wein (Poncha, Nikita) und frischer Thunfisch sind Pflicht.
 

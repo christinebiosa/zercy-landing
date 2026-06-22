@@ -34,7 +34,7 @@ Menos de tres horas en tren: coge siempre el tren. El desplazamiento al aeropuer
 
 A partir de 600 kilómetros o tres horas de viaje: comprueba los vuelos. Lisboa, Nápoles y el norte de Europa son demasiado lejos en tren para un fin de semana. Se perdería la mitad del tiempo en el trayecto.
 
-**Encontrar vuelos baratos para el fin de semana:** Los vuelos del viernes por la noche son más caros que los del sábado por la mañana. Es la regla más ignorada al reservar. Si vuelas el sábado temprano (entre las 6 y las 8h) y regresas el domingo por la noche, puedes ahorrar entre 30 y 50 euros. La guía de [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) lo explica en detalle.
+**Encontrar [vuelos baratos](https://www.aviasales.com/) para el fin de semana:** Los vuelos del viernes por la noche son más caros que los del sábado por la mañana. Es la regla más ignorada al reservar. Si vuelas el sábado temprano (entre las 6 y las 8h) y regresas el domingo por la noche, puedes ahorrar entre 30 y 50 euros. La guía de [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) lo explica en detalle.
 
 Google Flights con fechas flexibles (+/- 3 días) muestra a menudo alternativas más baratas. El calendario de precios revela diferencias de 40 a 80 euros.
 

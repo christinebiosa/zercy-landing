@@ -23,7 +23,7 @@ The most important decision before anything else: which neighborhood? And that d
 
 **Maboneng:** Emerging art district, street food, urban energy. Best for adventurous culture seekers.
 
-**Soweto:** Cultural heritage, apartheid history, guided tours. Essential for anyone who wants to understand South Africa.
+**Soweto:** Cultural heritage, apartheid history, [guided tours](https://www.tiqets.com/). Essential for anyone who wants to understand South Africa.
 
 ## Sandton: The Safest Johannesburg
 

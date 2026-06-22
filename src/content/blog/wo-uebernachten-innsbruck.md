@@ -27,7 +27,7 @@ Aber Innsbruck ist klein und kompakt. Die Entscheidung ist nicht "weit oder nah"
 
 ## Innenstadt / Altstadt: Tirols goldener Kern
 
-Das Goldene Dachl ist der Beweis, dass Innsbruck mehr ist als ein Wintersport-Anhängsel. Kaisertrutz, Stadtturm, Hofburg, Tiroler Volkskunstmuseum: alles in einem Radius von 400 Metern. Das [Innsbruck Tourismus-Büro](https://www.innsbruck.info) hat die vollständige Übersicht aller Sehenswürdigkeiten und Öffnungszeiten.
+Das Goldene Dachl ist der Beweis, dass Innsbruck mehr ist als ein Wintersport-Anhängsel. Kaisertrutz, Stadtturm, Hofburg, Tiroler Volkskunstmuseum: alles in einem Radius von 400 Metern. Das [Innsbruck Tourismus-Büro](https://www.innsbruck.info) hat die vollständige Übersicht aller [Sehenswürdigkeiten](https://www.tiqets.com/) und Öffnungszeiten.
 
 **Wer hier richtig liegt:** Erstbesucher, Kulturreisende, Paare, Städtetrips im Herbst und Frühling.
 

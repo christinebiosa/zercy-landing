@@ -46,7 +46,7 @@ Für die Planung deiner schottischen Reise hilft dir unser Artikel über [Solo-R
 
 ## Welche Stadt eignet sich für welche Art von Reise?
 
-Edinburgh ist die bessere Wahl für Erstbesucher Schottlands, Familien und Kulturreisende, die Geschichte und Architektur suchen. Das Stadtbild ist spektakulärer. Die Sehenswürdigkeiten sind klassischer. Tagsausflüge in die Highlands oder nach Loch Ness sind von Edinburgh aus gut organisiert.
+Edinburgh ist die bessere Wahl für Erstbesucher Schottlands, Familien und Kulturreisende, die Geschichte und Architektur suchen. Das Stadtbild ist spektakulärer. Die [Sehenswürdigkeiten](https://www.tiqets.com/) sind klassischer. Tagsausflüge in die Highlands oder nach Loch Ness sind von Edinburgh aus gut organisiert.
 
 Glasgow ist die bessere Wahl für Musikfans, Kunstliebhaber, Budgetreisende und alle, die eine Stadt erleben wollen, die sich nicht für den Tourismus zurechtgemacht hat. Die lokale Bevölkerung gilt als ausgesprochen freundlich. Wer eine Woche Zeit hat, sollte beide Städte besuchen und mit dem Zug zwischen ihnen pendeln.
 

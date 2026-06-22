@@ -19,7 +19,7 @@ Rio ist Postkarte und Realität zugleich. Die Christusstatue auf dem Corcovado s
 
 Aber Rio hat mehr zu bieten als die Klassiker. Santa Teresa, das Künstlerviertel auf dem Hügel, mit kleinen Restaurants und Galerien. Lapa, das Nacht- und Samba-Viertel, dessen Arkaden ein architektonisches Wahrzeichen sind. Ipanema für Sonnenuntergang mit Dois Irmãos-Bergpanorama.
 
-Sicherheit in Rio: Informiere dich vor der Reise über die aktuellen Sicherheitslagen der einzelnen Stadtteile. Touristenmagneten wie Copacabana, Ipanema, Santa Teresa und die Sehenswürdigkeiten am Corcovado und Pão de Açúcar gelten tagsüber als sicher. Nachts gilt: Uber nutzen, kein Taxi von der Straße, Wertsachen im Hotel lassen.
+Sicherheit in Rio: Informiere dich vor der Reise über die aktuellen Sicherheitslagen der einzelnen Stadtteile. Touristenmagneten wie Copacabana, Ipanema, Santa Teresa und die [Sehenswürdigkeiten](https://www.tiqets.com/) am Corcovado und Pão de Açúcar gelten tagsüber als sicher. Nachts gilt: Uber nutzen, kein Taxi von der Straße, Wertsachen im Hotel lassen.
 
 Das Museo de Arte do Rio und das Museu do Amanhã (Zukunftsmuseum) in der Hafenzone Zona Portuária sind neuere Highlights und weniger überlaufen als die Klassiker.
 

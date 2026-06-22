@@ -19,7 +19,7 @@ Realistisch: Den Osten der Stadt an Tag 1, den Westen an Tag 2. Dazwischen ein T
 
 Die Tube macht das möglich. Mit einer Oyster Card oder kontaktlos per Kreditkarte bezahlen, quer durch die Stadt fahren, nirgendwo mehr als 20 Minuten brauchen. Die offizielle App von [Transport for London](https://tfl.gov.uk) zeigt dir die schnellste Route und warnt bei Störungen. Einmal einrichten, fertig.
 
-Was du weglassen kannst: Madame Tussauds (Schlange, teuer, nicht lohnend) und der Buckingham Palace von innen (Öffnungszeiten begrenzt, Eintritt hoch). Die Hyde Park-Sehenswürdigkeiten schaust du kostenlos im Vorbeigehen an Tag 2.
+Was du weglassen kannst: Madame Tussauds (Schlange, teuer, nicht lohnend) und der Buckingham Palace von innen (Öffnungszeiten begrenzt, Eintritt hoch). Die Hyde Park-[Sehenswürdigkeiten](https://www.tiqets.com/) schaust du kostenlos im Vorbeigehen an Tag 2.
 
 ## Tag 1: Vom Tower bis zur South Bank
 

@@ -53,7 +53,7 @@ Restaurants für jeden Geschmack, vom Drei-Gänge-Belgisch bis zum Vietnamese St
 
 Der Korenmarkt ist Gents Hauptplatz. Die Sint-Niklaaskerk steht hier. Die Sint-Baafs-Kathedrale mit dem Van Eyck-Altar ist in fünf Minuten zu Fuß. Trams kreuzen, Cafés mit Freisitzen füllen sich ab Mittag. Hier sitzen die meisten Business- und Kettenhotels.
 
-Kein romantisches Quartier, aber unschlagbar zentral. Alle Sehenswürdigkeiten in der 15-Minuten-Blase.
+Kein romantisches Quartier, aber unschlagbar zentral. Alle [Sehenswürdigkeiten](https://www.tiqets.com/) in der 15-Minuten-Blase.
 
 **Wer hier richtig liegt:** Geschäftsreisende, Familien, alle die Zentralität über Atmosphäre stellen.
 

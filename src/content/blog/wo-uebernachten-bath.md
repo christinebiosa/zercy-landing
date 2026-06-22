@@ -15,7 +15,7 @@ Die Wahl deines Stadtteils macht dabei mehr aus als du denkst. Zentral schlafen 
 
 ## Welcher Stadtteil passt zu welcher Reise?
 
-**City Centre / Roman Baths Area:** Alles zu Fuß, direkter Zugang zu den Sehenswürdigkeiten. Für Erstbesucher, Kurztrips, Paare.
+**City Centre / Roman Baths Area:** Alles zu Fuß, direkter Zugang zu den [Sehenswürdigkeiten](https://www.tiqets.com/). Für Erstbesucher, Kurztrips, Paare.
 
 **Lansdown / Royal Crescent:** Ikonisches georgisches Viertel, ruhiger, etwas erhöht mit Blick über die Stadt. Für Architektur-Fans, Paare, Luxusreisende.
 

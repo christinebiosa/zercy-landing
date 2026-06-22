@@ -113,7 +113,7 @@ In der Polarlichter-Saison (November bis März) sind Preise höher. Mittelklasse
 
 ### Welche Stadtlage ist am besten ohne Mietwagen?
 
-Sentrum oder Tromsøya Waterfront. Alle wichtigen Sehenswürdigkeiten sind zu Fuß oder per Bus erreichbar. Polarlichter-Touren starten ebenfalls zentral. Ohne Auto ist Kvaløya schwer zu erreichen.
+Sentrum oder Tromsøya Waterfront. Alle wichtigen [Sehenswürdigkeiten](https://www.tiqets.com/) sind zu Fuß oder per Bus erreichbar. Polarlichter-Touren starten ebenfalls zentral. Ohne Auto ist Kvaløya schwer zu erreichen.
 
 ### Wie weit ist der Flughafen vom Zentrum entfernt?
 

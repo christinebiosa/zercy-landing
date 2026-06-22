@@ -39,7 +39,7 @@ Bangkok → Chiang Mai → Laos (Luang Prabang, Vang Vieng) → Hanói → Bahí
 Camboya → Vietnam → Laos → Tailandia. Ventaja: empiezas con los países más baratos cuando tu presupuesto está intacto.
 
 **Bali como complemento:**
-Bali funciona mejor como bloque separado al principio o al final. Vuelos baratos desde Singapur, Kuala Lumpur o directo desde América Latina o Europa.
+Bali funciona mejor como bloque separado al principio o al final. [Vuelos baratos](https://www.aviasales.com/) desde Singapur, Kuala Lumpur o directo desde América Latina o Europa.
 
 Conexiones internas: los **buses nocturnos** son la opción más económica. Un bus cama de Hanói a Hue cuesta 8-15 EUR y te ahorra una noche de hotel. Los trenes en Vietnam son recomendables: más cómodos que los buses, precios moderados. Ferries entre islas (Tailandia/Camboya): 5-15 EUR.
 

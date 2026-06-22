@@ -37,7 +37,7 @@ Hier wird der Zeit wenig gegeben. Kein lautes Gehupe. Kein Gewusel wie in Ernaku
 
 **Top-Picks:** Brunton Boatyard (Heritage-Hotel direkt am Hafen, portugiesische Kolonialarchitektur, einer der schönsten Pool-Ausblicke Keralas), Old Harbour Hotel (charmantes Boutique-Heritage-Hotel, innen restaurierte Kolonialräume, toller Garten), Forte Kochi (günstigere Heritage-Option mit echtem kolonialem Charme, ruhige Lage). Diese und viele weitere Fort-Kochi-Hotels mit Stadtteil-Filter und kostenlosem Storno findest du auf [Booking.com](https://www.booking.com).
 
-Das offizielle [Kerala Tourism Portal](https://www.keralatourism.org) bietet detaillierte Informationen zu allen Sehenswürdigkeiten und Aktivitäten in und um Kochi.
+Das offizielle [Kerala Tourism Portal](https://www.keralatourism.org) bietet detaillierte Informationen zu allen [Sehenswürdigkeiten](https://www.tiqets.com/) und Aktivitäten in und um Kochi.
 
 ## Wann ist die beste Reisezeit für Kochi?
 

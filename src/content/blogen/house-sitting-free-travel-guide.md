@@ -56,7 +56,7 @@ Another risk: the house has a technical problem (heating, water damage, a break-
 
 For your first sit, consider something short and close to home. A week in a nearby city. That lets you see whether house sitting suits your travel style before you commit to three weeks in Portugal.
 
-Combining cheap flights with free accommodation is where the strategy really pays off. For budget travelers planning a longer trip, check out tools like [Zercy](https://www.zercy.app) to find the best fares to your next sit destination.
+Combining [cheap flights](https://www.aviasales.com/) with free accommodation is where the strategy really pays off. For budget travelers planning a longer trip, check out tools like [Zercy](https://www.zercy.app) to find the best fares to your next sit destination.
 
 ---
 

@@ -92,7 +92,7 @@ Für Sommer-Mittelmeer-Routen gilt: 6 bis 12 Monate im Voraus buchen für die be
 
 ### Wie viel Zeit hat man wirklich in jedem Hafen?
 
-Typisch 6 bis 10 Stunden. Das Schiff legt früh morgens an, abends geht es weiter. Zeit reicht für eine Stadttour, ein Strandtag oder einen halben Ausflug. Wer die Sehenswürdigkeiten vertiefen will, verlängert den Aufenthalt vor oder nach der Kreuzfahrt. Viele buchen deshalb Kreuzfahrten als Scouting-Trip und reisen interessante Orte danach individuell nochmal an.
+Typisch 6 bis 10 Stunden. Das Schiff legt früh morgens an, abends geht es weiter. Zeit reicht für eine Stadttour, ein Strandtag oder einen halben Ausflug. Wer die [Sehenswürdigkeiten](https://www.tiqets.com/) vertiefen will, verlängert den Aufenthalt vor oder nach der Kreuzfahrt. Viele buchen deshalb Kreuzfahrten als Scouting-Trip und reisen interessante Orte danach individuell nochmal an.
 
 ### Welche Kreuzfahrt eignet sich für Familien mit Kindern?
 

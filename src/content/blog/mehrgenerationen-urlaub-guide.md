@@ -83,7 +83,7 @@ Ein gemeinsames Highlight pro Tag reicht. Zwei sind ambitioniert. Drei überford
 
 ### Welche Reiseziele eignen sich besonders für Familien mit Senioren?
 
-Mallorca ist nahezu ideal: flache Strandpromenaden, barrierefreie Ortszentren und Ferienhäuser mit Pool. Die Toskana überzeugt kulturell. Florida bietet flache Topographie und gut ausgebaute Infrastruktur. Wichtigste Kriterien für Senioren: kurze Gehwege, Schatten im Sommer und rollstuhlfreundliche Zugänge zu Sehenswürdigkeiten.
+Mallorca ist nahezu ideal: flache Strandpromenaden, barrierefreie Ortszentren und Ferienhäuser mit Pool. Die Toskana überzeugt kulturell. Florida bietet flache Topographie und gut ausgebaute Infrastruktur. Wichtigste Kriterien für Senioren: kurze Gehwege, Schatten im Sommer und rollstuhlfreundliche Zugänge zu [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ### Wie klärt man das Budget vor einer Mehrgenerationen-Reise am besten?
 

@@ -106,7 +106,7 @@ Budget-Hotels ab 90-140 USD, Mittelklasse 180-300 USD, Boutique 260-450 USD, Pre
 
 ### Welcher Stadtteil ist am besten für Erstbesucher in Nashville?
 
-Downtown rund um Broadway. Alle wichtigen Sehenswürdigkeiten sind fußläufig: Country Music Hall of Fame, Ryman Auditorium, Honky-Tonk-Bars, Bridgestone Arena. Live-Musik auf Schritt und Tritt, kein Transportaufwand nötig.
+Downtown rund um Broadway. Alle wichtigen [Sehenswürdigkeiten](https://www.tiqets.com/) sind fußläufig: Country Music Hall of Fame, Ryman Auditorium, Honky-Tonk-Bars, Bridgestone Arena. Live-Musik auf Schritt und Tritt, kein Transportaufwand nötig.
 
 ### Wie sicher ist Nashville für Touristen?
 

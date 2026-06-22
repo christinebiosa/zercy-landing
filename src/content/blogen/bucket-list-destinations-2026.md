@@ -77,7 +77,7 @@ Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you
 ## Frequently Asked Questions
 
 ### What is the most affordable bucket list destination on this list?
-Angkor Wat in Cambodia offers the best experience-to-cost ratio. The 3-day pass costs $62, accommodation in Siem Reap starts at $15 per night, and meals run $2-5. With cheap flights, the whole experience can come in under $1,000 total.
+Angkor Wat in Cambodia offers the best experience-to-cost ratio. The 3-day pass costs $62, accommodation in Siem Reap starts at $15 per night, and meals run $2-5. With [cheap flights](https://www.aviasales.com/), the whole experience can come in under $1,000 total.
 
 ### When should you visit Machu Picchu?
 The dry season from April to October is ideal. Best experience: arrive early, first entry at 6 AM. Book tickets at least two months ahead since the daily cap of 4,500 visitors sells out regularly.

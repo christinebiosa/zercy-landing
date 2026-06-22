@@ -23,7 +23,7 @@ Nature verdict: Costa Rica has the wider, more accessible offering. Panama has f
 
 Costa Rica is expensive by Central American standards. Eco-tourism success has pushed prices up, and accommodation standards are higher than in most neighboring countries. Budget hostels start at 15-20 US dollars per night, a simple lunch runs 7-12 US dollars, and Manuel Antonio National Park charges 20 US dollars entry. Visiting multiple parks over a week adds 200-300 US dollars in entry fees alone.
 
-Panama is roughly similar in price but often feels cheaper because the tourism infrastructure is less developed outside Panama City. The capital itself is expensive. Bocas del Toro has guesthouses from 20-25 US dollars. Guided tours into remote areas can be costly due to logistics.
+Panama is roughly similar in price but often feels cheaper because the tourism infrastructure is less developed outside Panama City. The capital itself is expensive. Bocas del Toro has guesthouses from 20-25 US dollars. [Guided tours](https://www.tiqets.com/) into remote areas can be costly due to logistics.
 
 Overall, the cost for a comparable itinerary is similar. Panama has more price variation because infrastructure quality is uneven across the country.
 

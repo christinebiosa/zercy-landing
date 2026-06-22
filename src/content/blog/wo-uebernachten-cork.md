@@ -83,7 +83,7 @@ Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit d
 ## Häufige Fragen
 
 ### Welcher Stadtteil in Cork ist am besten für Erstbesucher?
-Das Zentrum auf der Flussinsel ist die erste Wahl. Alles ist zu Fuß erreichbar, die wichtigsten Sehenswürdigkeiten liegen eng beieinander, und das Nachtleben auf der Oliver Plunkett Street ist nah. Für einen Kurztrip ist kein anderer Stadtteil nötig.
+Das Zentrum auf der Flussinsel ist die erste Wahl. Alles ist zu Fuß erreichbar, die wichtigsten [Sehenswürdigkeiten](https://www.tiqets.com/) liegen eng beieinander, und das Nachtleben auf der Oliver Plunkett Street ist nah. Für einen Kurztrip ist kein anderer Stadtteil nötig.
 
 ### Wann ist die günstigste Reisezeit für Cork?
 November bis März bringt die niedrigsten Hotelpreise, teils 30 bis 40 Prozent unter Sommerniveau. Das Wetter ist nass und grau, aber Cork hat genug Innenattraktionen: Pubs, Markthallen, Museen. Oktober lohnt sich besonders wegen des Jazz Festivals bei noch moderaten Preisen.

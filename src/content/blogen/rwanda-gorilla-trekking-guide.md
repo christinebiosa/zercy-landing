@@ -53,7 +53,7 @@ The permit at $1,500 is the biggest single cost.
 
 **Golden Monkey Trekking**: Volcanoes National Park also has golden monkeys. Permit costs $100. Less popular than gorilla trekking but fascinating and easier to book.
 
-**Musanze Caves**: lava caves from a volcanic eruption. Guided tours, inexpensive, interesting as a side trip.
+**Musanze Caves**: lava caves from a volcanic eruption. [Guided tours](https://www.tiqets.com/), inexpensive, interesting as a side trip.
 
 Plan your Rwanda trip with the [Zercy Logbook](https://www.zercy.app/logbook). Save your permit date, lodge near the park and Kigali evenings as one connected itinerary.
 

@@ -57,7 +57,7 @@ Leidseplein und Rembrandtplein sind die lebhaftesten Plätze der Stadt am Abend.
 
 ## Wo übernachten für ein Amsterdam-Wochenende?
 
-Jordaan und Centrum sind zentral, aber teurer. Hotels in De Pijp oder Oud-West liegen 20 bis 30 Gehminuten von den Sehenswürdigkeiten und kosten deutlich weniger. Rechne mit 100 bis 200 Euro pro Nacht für ein solides Mittelklasse-Hotel. Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) findest du die gesamte Bandbreite mit Stadtteil-Filter. Für eine detaillierte Unterkunft-Übersicht nach Viertel hilft unser Guide zu [wo übernachten in Amsterdam](/blog/wo-uebernachten-amsterdam/).
+Jordaan und Centrum sind zentral, aber teurer. Hotels in De Pijp oder Oud-West liegen 20 bis 30 Gehminuten von den [Sehenswürdigkeiten](https://www.tiqets.com/) und kosten deutlich weniger. Rechne mit 100 bis 200 Euro pro Nacht für ein solides Mittelklasse-Hotel. Auf [Booking.com](https://www.booking.com/searchresults.html?ss=Amsterdam) findest du die gesamte Bandbreite mit Stadtteil-Filter. Für eine detaillierte Unterkunft-Übersicht nach Viertel hilft unser Guide zu [wo übernachten in Amsterdam](/blog/wo-uebernachten-amsterdam/).
 
 ## Was kostet ein Wochenende in Amsterdam?
 

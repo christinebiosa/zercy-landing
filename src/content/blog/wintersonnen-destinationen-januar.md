@@ -106,7 +106,7 @@ Regen-Risiko Januar Cairns: hoch. Sydney: gering. Preis Hotel: 80-300 EUR.
 
 ## Wann buchen für den Januar-Urlaub?
 
-**Oktober und November sind der optimale Buchungszeitraum** für den Januar-Urlaub. Flugpreise sind dann noch moderat, Hotelverfügbarkeit gut. Kanaren und Malediven sind beliebte Last-Minute-Ziele, aber gute Häuser und günstige Flüge sind oft schon im November weg.
+**Oktober und November sind der optimale Buchungszeitraum** für den Januar-Urlaub. Flugpreise sind dann noch moderat, Hotelverfügbarkeit gut. Kanaren und Malediven sind beliebte Last-Minute-Ziele, aber gute Häuser und [günstige Flüge](https://www.aviasales.com/) sind oft schon im November weg.
 
 Wer [günstig fliegen](/blog/guenstig-fliegen-tipps/) will: Dienstag und Mittwoch für Abflüge bevorzugen, frühmorgens oder spät abends. Preisalarme auf Google Flights einrichten.
 

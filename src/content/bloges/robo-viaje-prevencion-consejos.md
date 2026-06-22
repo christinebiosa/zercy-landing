@@ -10,7 +10,7 @@ heroImage: "/img/blog/theft-travel.jpg"
 
 Robo en vacaciones. Pasa a diario, en todas partes. No solo en los países "peligrosos". El carterista en las Ramblas de Barcelona tiene las mismas manos hábiles que el de Bangkok. El conocimiento protege mejor que el miedo.
 
-Esta guía explica los escenarios de robo más frecuentes, qué te protege de verdad y qué hacer de inmediato si ocurre a pesar de todo.
+Esta guía explica los escenarios de robo más frecuentes, qué te protege de verdad y [qué hacer](https://www.tiqets.com/) de inmediato si ocurre a pesar de todo.
 
 ## ¿Qué escenarios de robo ocurren con más frecuencia?
 

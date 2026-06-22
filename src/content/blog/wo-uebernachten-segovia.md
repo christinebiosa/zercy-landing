@@ -23,7 +23,7 @@ Segovia ist überschaubar. Es gibt keine riesigen Stadtteile mit völlig untersc
 
 ## Wo übernachten rund um den Aquädukt und die Altstadt?
 
-Das Herz von Segovia ist der Bereich zwischen dem Aquädukt im Osten und dem Alcázar im Westen. Hier liegt die Kathedrale, die beste Gastronomie und die wichtigsten Sehenswürdigkeiten. Wer in diesem Bereich wohnt, kann problemlos auf das [Mietwagen](https://www.economybookings.com/) verzichten.
+Das Herz von Segovia ist der Bereich zwischen dem Aquädukt im Osten und dem Alcázar im Westen. Hier liegt die Kathedrale, die beste Gastronomie und die wichtigsten [Sehenswürdigkeiten](https://www.tiqets.com/). Wer in diesem Bereich wohnt, kann problemlos auf das [Mietwagen](https://www.economybookings.com/) verzichten.
 
 Diese und über 100 weitere Segovia-Hotels findest du auf [Booking.com](https://www.booking.com/city/es/segovia.html) direkt gefiltert nach Bewertung und Lage.
 

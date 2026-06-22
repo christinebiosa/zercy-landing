@@ -15,7 +15,7 @@ Hier die ehrliche Übersicht: 4 Stadtteile, was sie kosten, für wen sie passen.
 
 ## Welcher Stadtteil passt zu welcher Reise?
 
-**Centro Histórico (Walled City):** UNESCO-Welterbe, Boutique-Hotels in Kolonialhäusern, alle Sehenswürdigkeiten. Für Erstbesucher, Romantik-Reisende, Premium-Sucher.
+**Centro Histórico (Walled City):** UNESCO-Welterbe, Boutique-Hotels in Kolonialhäusern, alle [Sehenswürdigkeiten](https://www.tiqets.com/). Für Erstbesucher, Romantik-Reisende, Premium-Sucher.
 
 **Getsemaní:** Hip neben Centro, früher rough, jetzt Foodie- und Künstler-Hub. Für Foodies, junge Paare, Atmosphäre-Liebhaber.
 

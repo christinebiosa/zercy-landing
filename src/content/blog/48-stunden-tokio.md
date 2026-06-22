@@ -11,7 +11,7 @@ bookingDest: "Tokyo"
 
 Tokio ist zu groß, um es zu verstehen. Zu vielfältig, um eine Formel zu finden. 35 Millionen Menschen, 23 Stadtbezirke, Erfahrungen für einen ganzen Monat.
 
-Deshalb dieser Ansatz: nicht 40 Sehenswürdigkeiten, sondern 4 Viertel. Tokio zeigt sich am besten, wenn du langsam genug bist. Den Tempeldampf im Morgengrauen. Die Neonspiegelungen in Pfützen. Die Stille in einem Schreinwald mitten in der Stadt.
+Deshalb dieser Ansatz: nicht 40 [Sehenswürdigkeiten](https://www.tiqets.com/), sondern 4 Viertel. Tokio zeigt sich am besten, wenn du langsam genug bist. Den Tempeldampf im Morgengrauen. Die Neonspiegelungen in Pfützen. Die Stille in einem Schreinwald mitten in der Stadt.
 
 ## Was passt wirklich in 48 Stunden Tokio?
 

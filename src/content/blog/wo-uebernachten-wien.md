@@ -105,7 +105,7 @@ Wenn du Wien planst, beschreibe Zercy einfach was du suchst (Erstbesuch, Foodie,
 
 ### Wo ist es in Wien am schönsten?
 
-Für Sightseeing und Atmosphäre: 1. Bezirk (Innere Stadt). Für Hipness: 7. Bezirk (Neubau). Für Familie und Park: 2. Bezirk (Leopoldstadt). Für Foodies: 4. Bezirk (Wieden, Naschmarkt). Erstbesucher meist im 1. Bezirk wegen Sehenswürdigkeiten.
+Für Sightseeing und Atmosphäre: 1. Bezirk (Innere Stadt). Für Hipness: 7. Bezirk (Neubau). Für Familie und Park: 2. Bezirk (Leopoldstadt). Für Foodies: 4. Bezirk (Wieden, Naschmarkt). Erstbesucher meist im 1. Bezirk wegen [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ### Wann ist die beste Reisezeit für Wien?
 

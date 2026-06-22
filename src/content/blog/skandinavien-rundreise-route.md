@@ -79,7 +79,7 @@ Mindestens 14 Tage, ideal 21 Tage. Kürzer als 10 Tage lohnt sich kaum, weil die
 Dänemark und Schweden sind günstiger als Norwegen. Kopenhagen ist teuer, aber Schweden außerhalb Stockholms bietet gutes Preis-Leistungs-Verhältnis. Norwegen hat zwar die dramatischste Natur, aber auch die höchsten Preise — plane hier 20–30% mehr Budget ein als für die anderen Länder.
 
 ### Wie reist man am besten zwischen den Ländern?
-Zug ist die bequemste Option zwischen Kopenhagen, Stockholm und Oslo. Günstige Flüge (SAS, Norwegian) verbinden die Hauptstädte in 1 Stunde. Busse (Flixbus) sind billiger, aber langsamer. Innerhalb Norwegen lohnt sich die Kombination aus Zug, Fähre und Mietwagen.
+Zug ist die bequemste Option zwischen Kopenhagen, Stockholm und Oslo. [Günstige Flüge](https://www.aviasales.com/) (SAS, Norwegian) verbinden die Hauptstädte in 1 Stunde. Busse (Flixbus) sind billiger, aber langsamer. Innerhalb Norwegen lohnt sich die Kombination aus Zug, Fähre und Mietwagen.
 
 ### Wo übernachtet man am günstigsten in Skandinavien?
 Hostels in allen Hauptstädten bieten Dorms ab 25–35 Euro pro Nacht. Airbnb-Wohnungen mit Küche sparen beim Essen. In der Fjordregion sind Campingplätze (ab 15 Euro) beliebt — viele direkt am Wasser mit Blick auf den Fjord. Jedermannsrecht in Norwegen erlaubt sogar kostenloses Wildcampen.

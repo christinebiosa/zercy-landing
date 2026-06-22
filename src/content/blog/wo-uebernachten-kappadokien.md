@@ -46,7 +46,7 @@ Juli und August: heiß (35+ Grad tagsüber), voll, teuer. Ballonstarts finden tr
 
 Winter ist unterschätzt. Schnee auf den Felstürmen sieht außergewöhnlich aus. Ballonstarts fallen öfter wegen Wind aus. Preise fallen um 30 bis 40 Prozent. Für Reisende, die Atmosphäre über ideale Bedingungen stellen, eine gute Wahl.
 
-Das [offizielle türkische Tourismusinformationsportal goturkiye.com](https://www.goturkiye.com/cappadocia) hat aktuelle Infos zu Sehenswürdigkeiten, regionalen Events und Transportoptionen in Kappadokien.
+Das [offizielle türkische Tourismusinformationsportal goturkiye.com](https://www.goturkiye.com/cappadocia) hat aktuelle Infos zu [Sehenswürdigkeiten](https://www.tiqets.com/), regionalen Events und Transportoptionen in Kappadokien.
 
 ## Üçhisar: Ausblick und Stille
 

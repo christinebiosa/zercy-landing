@@ -76,7 +76,7 @@ Spring and early autumn (April to May, September to October) are ideal. Weather 
 
 ### How much does a street art tour in Lisbon cost?
 
-Self-guided tours using Google Maps or the Arty Maps app are free and available anytime. Guided tours run 15 to 25 euros per person and last 2 to 3 hours. Specialist providers like Lisbon Street Art and Tiles Tours also offer private sessions from around 50 euros. In Mouraria you can discover a lot on your own without a guide.
+Self-[guided tours](https://www.tiqets.com/) using Google Maps or the Arty Maps app are free and available anytime. Guided tours run 15 to 25 euros per person and last 2 to 3 hours. Specialist providers like Lisbon Street Art and Tiles Tours also offer private sessions from around 50 euros. In Mouraria you can discover a lot on your own without a guide.
 
 ### Which street art cities are least touristy?
 

@@ -99,7 +99,7 @@ Wenn du Sevilla planst, beschreibe Zercy einfach was du suchst (Erstbesuch, Flam
 
 ### Wo ist es in Sevilla am schönsten?
 
-Für klassische Atmosphäre: Santa Cruz (Alcázar, Kathedrale). Für Flamenco und Tapas: Triana. Für Premium: Arenal. Für Hipness: Alameda. Erstbesucher meist in Santa Cruz wegen Sehenswürdigkeiten.
+Für klassische Atmosphäre: Santa Cruz (Alcázar, Kathedrale). Für Flamenco und Tapas: Triana. Für Premium: Arenal. Für Hipness: Alameda. Erstbesucher meist in Santa Cruz wegen [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ### Wann ist die beste Reisezeit für Sevilla?
 

@@ -8,7 +8,7 @@ readingTime: 7
 heroImage: "/img/blog/flights-cheap.jpg"
 ---
 
-Los vuelos baratos existen. No son una leyenda urbana ni el privilegio de quienes tienen todo el tiempo del mundo. Son el resultado de comprar en el momento correcto, con las herramientas adecuadas y sin caer en las trampas que hacen encarecerse los precios innecesariamente.
+Los [vuelos baratos](https://www.aviasales.com/) existen. No son una leyenda urbana ni el privilegio de quienes tienen todo el tiempo del mundo. Son el resultado de comprar en el momento correcto, con las herramientas adecuadas y sin caer en las trampas que hacen encarecerse los precios innecesariamente.
 
 Esta guía reúne las estrategias que realmente funcionan en 2026 para encontrar billetes aéreos más económicos en cualquier ruta.
 

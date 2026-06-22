@@ -58,7 +58,7 @@ York is worth visiting year-round, but timing shapes the experience considerably
 
 **Winter (November to December):** York's Christmas market, one of England's most celebrated, transforms the city center. A November or December visit offers a particularly atmospheric side of York.
 
-The [official Visit York website](https://www.visityork.org/) has an up-to-date event calendar and guided tour listings.
+The [official Visit York website](https://www.visityork.org/) has an up-to-date event calendar and [guided tour](https://www.tiqets.com/) listings.
 
 ## The Micklegate Area: York's Liveliest Side
 

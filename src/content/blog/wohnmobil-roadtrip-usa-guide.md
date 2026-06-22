@@ -58,7 +58,7 @@ Drei klassische Routen, die auf verschiedene Geschmäcker passen:
 Die schönste Küstenfahrt der Welt. Vom Süden kommend: Santa Monica Pier, Big Sur (enge Kurven, also lieber mit Campervan), Monterey Bay, San Francisco, Avenue of the Giants mit den Redwood-Riesen, dann Oregon Coast bis Portland. Drei bis vier Wochen ideal, zwei Wochen für eine Schnellversion. Der [US-Westkustenroadtrip](/blog/us-westkueste-roadtrip/) hat mehr Details zur Route.
 
 **Southwest Loop: Las Vegas bis Bryce Canyon**
-Das ist die Nationalpark-Dichte-Route schlechthin. Las Vegas als Startpunkt (günstige Flüge, großer Flughafen), dann Zion National Park, Bryce Canyon, Capitol Reef, Arches, Canyonlands und zurück über den Grand Canyon. In zwei Wochen gut machbar. Sommer vermeiden, es ist brutal heiß. April/Mai und September/Oktober sind ideal. Mehr zum Thema Nationalparks im [USA Nationalparks Reiseguide](/blog/usa-nationalparks-reiseguide/).
+Das ist die Nationalpark-Dichte-Route schlechthin. Las Vegas als Startpunkt ([günstige Flüge](https://www.aviasales.com/), großer Flughafen), dann Zion National Park, Bryce Canyon, Capitol Reef, Arches, Canyonlands und zurück über den Grand Canyon. In zwei Wochen gut machbar. Sommer vermeiden, es ist brutal heiß. April/Mai und September/Oktober sind ideal. Mehr zum Thema Nationalparks im [USA Nationalparks Reiseguide](/blog/usa-nationalparks-reiseguide/).
 
 **Route 66: Chicago bis Santa Monica**
 4.000 Kilometer, die ganze amerikanische Geschichte dazwischen. Nicht die schnellste Verbindung, aber eine der authentischsten. Verlassene Motels, Diners aus den 50ern, Wüstenlandschaften in New Mexico. Zwei bis drei Wochen für das volle Erlebnis. Details dazu im [Route 66 Roadtrip Guide](/blog/route-66-usa-roadtrip/).

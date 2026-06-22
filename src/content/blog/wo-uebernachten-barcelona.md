@@ -29,7 +29,7 @@ Hier die ehrliche Übersicht: 5 Stadtteile, was sie kosten, für wen sie passen.
 
 Eixample (sprich: "ei-sham-pla", katalanisch für "Erweiterung") wurde im 19. Jahrhundert von Cerdà geplant: schachbrettartiges Raster mit abgeschrägten Ecken. Hier stehen Gaudís Casa Batlló, Casa Milà (La Pedrera) und die Sagrada Familia. Eixample teilt sich in Dreta (rechts vom Passeig de Gràcia, eleganter) und Esquerra (links, weniger touristisch).
 
-**Wer hier richtig liegt:** Erstbesucher (zentral, Sehenswürdigkeiten zu Fuß), Architektur-Fans, Premium-Reisende.
+**Wer hier richtig liegt:** Erstbesucher (zentral, [Sehenswürdigkeiten](https://www.tiqets.com/) zu Fuß), Architektur-Fans, Premium-Reisende.
 
 **Preise pro Nacht:** Mittelklasse 100-200 Euro, Boutique 180-350 Euro, Premium (Cotton House, Mandarin Oriental) 350-700 Euro.
 

@@ -59,7 +59,7 @@ Ein paar konkrete Routen, die Sinn machen:
 
 **Madrid nach Buenos Aires via Bogotá oder Lima:** Südamerika-Routen bieten oft flexible Stopover-Optionen in Zwischenstädten. Bogotá oder Lima sind beide interessante Städte für 2-3 Tage.
 
-Wer oft reist, kombiniert Stopover mit [Interrail-Routen in Europa](/blog/interrail-guide-2026/) oder Nachtzugverbindungen, um aus dem Flughafen-Rennen rauszukommen. Und wer günstige Flüge als Ausgangspunkt sucht, findet in unserem [Wann Flüge buchen Guide](/blog/wann-fluege-buchen/) die besten Zeitfenster.
+Wer oft reist, kombiniert Stopover mit [Interrail-Routen in Europa](/blog/interrail-guide-2026/) oder Nachtzugverbindungen, um aus dem Flughafen-Rennen rauszukommen. Und wer [günstige Flüge](https://www.aviasales.com/) als Ausgangspunkt sucht, findet in unserem [Wann Flüge buchen Guide](/blog/wann-fluege-buchen/) die besten Zeitfenster.
 
 ---
 

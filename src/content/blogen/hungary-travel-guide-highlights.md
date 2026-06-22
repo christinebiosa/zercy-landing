@@ -15,7 +15,7 @@ This guide covers Budapest and what waits beyond the capital: Lake Balaton as Hu
 
 ## What are the highlights in Budapest?
 
-The Parliament building on the Danube bank is one of the most beautiful neo-Gothic structures in the world. Guided tours daily, buy tickets in advance at [parlament.hu](https://www.parlament.hu/web/visitor-information). The Fisherman's Bastion on the castle hill offers the most famous panorama over the Danube. Illuminated in the evening, it is magical. Buda Castle Hill with the Royal Palace and Matthias Church needs half a day.
+The Parliament building on the Danube bank is one of the most beautiful neo-Gothic structures in the world. [Guided tours](https://www.tiqets.com/) daily, buy tickets in advance at [parlament.hu](https://www.parlament.hu/web/visitor-information). The Fisherman's Bastion on the castle hill offers the most famous panorama over the Danube. Illuminated in the evening, it is magical. Buda Castle Hill with the Royal Palace and Matthias Church needs half a day.
 
 The thermal baths are mandatory and not a tourist trap. Széchenyi Bath (the yellow building in City Park) is the largest and most popular, genuinely worth it. Gellért Bath in its Art Nouveau setting is historically impressive. For more atmosphere: Rudas Bath on the Danube bank, an Ottoman domed bath from the 16th century, open until 4am on Friday and Saturday nights.
 

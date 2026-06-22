@@ -60,7 +60,7 @@ Premium: **The Serai** (ab 35.000 INR) ist ein luxuriöses Tented Camp am Stadtr
 
 Jaisalmer ist ein Ort, bei dem das Erlebnis stark von der Unterkunft abhängt. Eine schlechte Wahl zerstört das Bild der goldenen Stadt. Deshalb: Nimm dir Zeit für die Auswahl. Auf [Booking.com](https://www.booking.com/city/in/jaisalmer.html) findest du die vollständige Bandbreite mit Karte, echten Bewertungen und Preisvergleich. Filtere nach Haveli-Stil und Dachterrassen-Hotels für die beste Auswahl. Wüstencamps werden in der Regel nicht auf Booking.com gebucht, sondern direkt oder über lokale Agenturen in Jaisalmer.
 
-Die [offizielle Website des Rajasthan-Tourismus](https://www.tourism.rajasthan.gov.in/) gibt dir aktuelle Infos zu Festivals und Sehenswürdigkeiten.
+Die [offizielle Website des Rajasthan-Tourismus](https://www.tourism.rajasthan.gov.in/) gibt dir aktuelle Infos zu Festivals und [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 Passende Lektüre für die Reisevorbereitung: der [Vietnam 2-Wochen-Route-Guide](/blog/vietnam-2-wochen-route/) für Asien-Fernreisen, der [Marokko-Städteguide](/blog/marokko-staedte-guide/) für Vergleiche mit ähnlichen Wüstenstädten, und [Solo-Reisen für Frauen](/blog/solo-reisen-frauen-sicher/) als Einstieg für allein Reisende.
 

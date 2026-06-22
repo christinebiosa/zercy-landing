@@ -58,7 +58,7 @@ Wer günstig fliegen will, bekommt konkrete Tricks im [Günstig Fliegen-Artikel]
 
 ## Was kostet Sightseeing wirklich?
 
-Weniger als du denkst. Viele der besten Sehenswürdigkeiten Japans sind kostenlos oder fast kostenlos.
+Weniger als du denkst. Viele der besten [Sehenswürdigkeiten](https://www.tiqets.com/) Japans sind kostenlos oder fast kostenlos.
 
 **Tempel und Schreine.** Fushimi Inari in Kyoto: kostenlos. Die meisten Tempel in Nara, Kyoto und Kamakura verlangen 3 bis 6 Euro Eintritt. Asakusa Senso-ji in Tokio: kostenlos. Die Außenbereiche fast überall: kostenlos.
 

@@ -59,7 +59,7 @@ Französische Neustadt, gebaut während des Protektorats (1912-1956). Breite Bou
 
 ## Palmeraie: Das Resort-Marrakesch
 
-20 Min nördlich der Stadt in einer Palmen-Oase. Hier sind die großen Resort-Hotels mit Golfplätzen, mehreren Pools, Reitställen. Sehr ruhig, sehr exklusiv, weit von Sehenswürdigkeiten.
+20 Min nördlich der Stadt in einer Palmen-Oase. Hier sind die großen Resort-Hotels mit Golfplätzen, mehreren Pools, Reitställen. Sehr ruhig, sehr exklusiv, weit von [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 **Wer hier richtig liegt:** Premium-Resort-Sucher, Familien mit Kindern (große Pools), Wellness-Reisende.
 

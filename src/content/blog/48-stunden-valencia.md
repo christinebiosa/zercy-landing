@@ -21,7 +21,7 @@ Erste Adresse: der **Mercado Central**. Der Jugendstil-Bau aus dem Jahr 1928 ist
 
 Direkt um die Ecke liegt die **Kathedrale von Valencia** mit dem Turm Miguelete. Wer die 207 Stufen hochsteigt, bekommt den besten Blick über die Altstadt: Orangendächer, Glockentürme, dahinter das Mittelmeer. Der Eintritt kostet rund 3 Euro. Lohnt sich. Unten in der Kathedrale befindet sich laut Überlieferung der Heilige Gral. Ob man das glaubt oder nicht: das Objekt ist faszinierend.
 
-Fünf Gehminuten entfernt steht die **Lonja de la Seda**, die mittelalterliche Seidenbörse. UNESCO-Welterbe, gotische Säulen, eine nahezu surreale Stille drinnen. Eintritt: 2 Euro, sonntags kostenlos. Ähnlich wie bei [48 Stunden in Florenz](/blog/48-stunden-florenz/) gilt: die zentralen Sehenswürdigkeiten liegen so eng beieinander, dass du kaum Transportzeit verlierst.
+Fünf Gehminuten entfernt steht die **Lonja de la Seda**, die mittelalterliche Seidenbörse. UNESCO-Welterbe, gotische Säulen, eine nahezu surreale Stille drinnen. Eintritt: 2 Euro, sonntags kostenlos. Ähnlich wie bei [48 Stunden in Florenz](/blog/48-stunden-florenz/) gilt: die zentralen [Sehenswürdigkeiten](https://www.tiqets.com/) liegen so eng beieinander, dass du kaum Transportzeit verlierst.
 
 Nachmittags läufst du in den **Gärten des Turia**. Das ehemalige Flussbett wurde nach einer Flutkatastrophe in den 1970ern in einen 9 Kilometer langen Grünstreifen mitten durch die Stadt verwandelt. Radfahrer, Jogger, Familien. Einer der coolsten Stadtparks Europas. Lauf einfach los, ohne Ziel. Gegen Abend findest du in der Umgebung zahlreiche Tapas-Bars. Das Barrio del Carmen ist das älteste Viertel und abends sehr belebt.
 

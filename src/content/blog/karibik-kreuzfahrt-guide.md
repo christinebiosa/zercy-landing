@@ -66,7 +66,7 @@ Mai bis November ist günstiger, aber die Hurrikan-Saison läuft offiziell von J
 
 Wer flexibel ist und Geld sparen will: Mai bis Juni und November bieten gute Kompromisse zwischen Preis und Wetter. Viele Reedereien bieten in diesen Schultermonaten Preise, die 20 bis 40 Prozent unter der Hauptsaison liegen.
 
-Zur Flugplanung in die Abflughäfen: Wie du günstige Flüge nach Miami oder Fort Lauderdale findest, erklärt der Artikel zum [richtigen Zeitpunkt für die Flugbuchung](/blog/wann-fluege-buchen/).
+Zur Flugplanung in die Abflughäfen: Wie du [günstige Flüge](https://www.aviasales.com/) nach Miami oder Fort Lauderdale findest, erklärt der Artikel zum [richtigen Zeitpunkt für die Flugbuchung](/blog/wann-fluege-buchen/).
 
 ## Einsteiger-Tipps, die wirklich einen Unterschied machen
 

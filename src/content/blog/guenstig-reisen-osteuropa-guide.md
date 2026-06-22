@@ -68,7 +68,7 @@ Zercy baut die aktuellen Flugpreise direkt in jeden Reiseplan ein. Gib dein Ziel
 
 ### Was kostet ein Urlaub in Osteuropa pro Tag?
 
-Mit 50 bis 70 Euro pro Tag lebst du in den meisten osteuropäischen Städten gut: ein Hostel oder günstiges Hotel, drei Mahlzeiten, Sehenswürdigkeiten und Getränke. In Belgrad oder Sofia reichen sogar 40 Euro für einen komfortablen Tag. In Tallinn oder Bratislava ist der Richtwert eher 60 bis 80 Euro.
+Mit 50 bis 70 Euro pro Tag lebst du in den meisten osteuropäischen Städten gut: ein Hostel oder günstiges Hotel, drei Mahlzeiten, [Sehenswürdigkeiten](https://www.tiqets.com/) und Getränke. In Belgrad oder Sofia reichen sogar 40 Euro für einen komfortablen Tag. In Tallinn oder Bratislava ist der Richtwert eher 60 bis 80 Euro.
 
 ### Welche Städte in Osteuropa sind am günstigsten?
 

@@ -27,7 +27,7 @@ Hier die ehrliche Übersicht: 4 Stadtteile, was sie kosten, für wen sie passen.
 
 UNESCO-Welterbe, das mittelalterliche Zentrum. Karlsbrücke, Altstädter Ring mit Astronomischer Uhr (1410), Týn-Kirche, Pulverturm. Alles in 10 Minuten zu Fuß. Dichteste Hotel-Konzentration der Stadt mit Boutique-Hotels in Bürgerhäusern aus dem 14. Jahrhundert.
 
-**Wer hier richtig liegt:** Erstbesucher (alle Sehenswürdigkeiten direkt vor der Tür), kurze Trips (2-3 Nächte), Premium-Sucher.
+**Wer hier richtig liegt:** Erstbesucher (alle [Sehenswürdigkeiten](https://www.tiqets.com/) direkt vor der Tür), kurze Trips (2-3 Nächte), Premium-Sucher.
 
 **Achtung:** Tagsüber sehr touristisch (überfüllt, Pickpocket-Risiko). Abends und nachts ruhiger.
 

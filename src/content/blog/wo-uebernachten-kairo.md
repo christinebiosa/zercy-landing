@@ -27,7 +27,7 @@ Das Beste daran: Kairo ist günstig. Budget-Hotels gibt es ab 30 EUR pro Nacht. 
 
 ## Islamisches Kairo / Khan el-Khalili: Das historische Zentrum
 
-Das Herz der alten Stadt. Die Al-Azhar-Moschee, die Sultanshasan-Moschee, Khan el-Khalili mit seinen engen Gassen und Gewürzhändlern. Wer das echte mittelalterliche Kairo sehen will, wohnt hier. Laut, belebt, nicht für Schlafmangel-Empfindliche. Dafür kurze Wege zu den wichtigsten Sehenswürdigkeiten.
+Das Herz der alten Stadt. Die Al-Azhar-Moschee, die Sultanshasan-Moschee, Khan el-Khalili mit seinen engen Gassen und Gewürzhändlern. Wer das echte mittelalterliche Kairo sehen will, wohnt hier. Laut, belebt, nicht für Schlafmangel-Empfindliche. Dafür kurze Wege zu den wichtigsten [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 **Wer hier richtig liegt:** Erstbesucher, Kulturtouristen, Solo-Reisende, alle mit ägyptischer Geschichte als Hauptziel.
 

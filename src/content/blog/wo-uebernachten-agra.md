@@ -19,7 +19,7 @@ Die Wahl des Stadtteils entscheidet, wie dein Agra-Aufenthalt klingt. Hier die e
 
 **Fatehabad Road:** Die "Hotel Strip"-Zone, 2-3 km vom Taj. Große internationale Ketten, Pools, Spa. Ruhiger als Taj Ganj, gut für Familien und Reisende mit mehr Budget.
 
-**Civil Lines:** Gehobenes Wohnviertel, kaum touristisch, ruhig. Für Langzeitaufenthalte und alle die Agra jenseits der Sehenswürdigkeiten kennenlernen wollen.
+**Civil Lines:** Gehobenes Wohnviertel, kaum touristisch, ruhig. Für Langzeitaufenthalte und alle die Agra jenseits der [Sehenswürdigkeiten](https://www.tiqets.com/) kennenlernen wollen.
 
 **Sadar Bazaar:** Belebter Marktbereich, Budget-Hotels, authentisches Stadtleben. Für Backpacker und alle die lokale Atmosphäre suchen.
 

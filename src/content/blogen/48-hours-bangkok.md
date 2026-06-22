@@ -35,7 +35,7 @@ Day 2 starts early. Breakfast at **Chatuchak Weekend Market**, the largest weeke
 
 **MBK Center** is within walking distance or a Skytrain ride away (Mo Chit station). The massive shopping center is known for electronics, replica designer goods, and cheap T-shirts. Need a local SIM card? You'll find one here for 300 to 500 baht with 30 GB of data. No comparison to airport prices.
 
-Lunch: **Jim Thompson House**. Not a temple, not a market. This is the private home of an American businessman who revived the Thai silk industry in the 1960s and disappeared without a trace in 1967. Six historic Thai houses assembled together, filled inside with art and antiques. Guided tour included, in English and Chinese. Entry: 200 baht. An hour of quiet away from the city noise that's worth it.
+Lunch: **Jim Thompson House**. Not a temple, not a market. This is the private home of an American businessman who revived the Thai silk industry in the 1960s and disappeared without a trace in 1967. Six historic Thai houses assembled together, filled inside with art and antiques. [Guided tour](https://www.tiqets.com/) included, in English and Chinese. Entry: 200 baht. An hour of quiet away from the city noise that's worth it.
 
 After that: **Siam Area**. MBK, Siam Paragon, Siam Square. You don't need to see all of it. But a mango smoothie from one of the small stalls on Siam Square is the right bridge to the evening.
 

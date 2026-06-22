@@ -9,7 +9,7 @@ heroImage: "/img/blog/dublin-48h.jpg"
 bookingDest: "Dublin"
 ---
 
-Dublin ist keine Stadt, die du durch Sehenswürdigkeiten erschöpft. Dublin erschöpft dich durch Pubs. Das ist kein Vorwurf. Es ist das Prinzip. Die Geschichte sitzt in einem alten Gefängnis, einem Universitätscampus und auf einem Friedhof. Der Charakter der Stadt sitzt in einem Lokal mit schlechter Beleuchtung, guter Musik und einem frisch gezapften Guinness, das zwei Minuten braucht, bis es fertig ist. Das ist Absicht, kein Fehler.
+Dublin ist keine Stadt, die du durch [Sehenswürdigkeiten](https://www.tiqets.com/) erschöpft. Dublin erschöpft dich durch Pubs. Das ist kein Vorwurf. Es ist das Prinzip. Die Geschichte sitzt in einem alten Gefängnis, einem Universitätscampus und auf einem Friedhof. Der Charakter der Stadt sitzt in einem Lokal mit schlechter Beleuchtung, guter Musik und einem frisch gezapften Guinness, das zwei Minuten braucht, bis es fertig ist. Das ist Absicht, kein Fehler.
 
 Für 48 Stunden gibt es genug von beidem.
 

@@ -50,7 +50,7 @@ Preisspanne: 80-140 Euro.
 
 ## Wann ist die beste Reisezeit für Heidelberg?
 
-Heidelberg funktioniert das ganze Jahr. Frühling (April-Mai) ist die schönste Jahreszeit: Kirschblüte am Philosophenweg, mildes Wetter, noch wenige Sommertouristen. Die [Universität Heidelberg](https://www.uni-heidelberg.de/), eine der ältesten Europas, verleiht der Stadt auch abseits der Sehenswürdigkeiten Leben.
+Heidelberg funktioniert das ganze Jahr. Frühling (April-Mai) ist die schönste Jahreszeit: Kirschblüte am Philosophenweg, mildes Wetter, noch wenige Sommertouristen. Die [Universität Heidelberg](https://www.uni-heidelberg.de/), eine der ältesten Europas, verleiht der Stadt auch abseits der [Sehenswürdigkeiten](https://www.tiqets.com/) Leben.
 
 Sommer (Juni-August) ist die Hauptsaison. Das Schloss leuchtet bei der Schlossbeleuchtung (dreimal jährlich, meist Juni/August/September) rot-golden, und die Schlossfestspiele finden im Juli statt. Tickets frühzeitig buchen. Preise steigen, Gedränge in der Altstadt ist hoch.
 

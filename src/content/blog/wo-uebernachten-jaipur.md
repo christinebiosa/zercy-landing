@@ -41,7 +41,7 @@ Für Fotografen: Die rosafarbene Architektur im frühen Morgenlicht ist unschlag
 
 Civil Lines ist das britische Erbe Jaipurs. Breite Alleen, ältere Verwaltungsgebäude, weniger Verkehr. Wer Indien erkunden will, ohne nachts vom Markt-Lärm geweckt zu werden, ist hier richtig. Die Distanz zur Altstadt beträgt rund 15 Minuten per Rikscha oder Auto. Mittelklasse-Hotels dominieren das Angebot.
 
-**Wer hier richtig liegt:** Paare, Alleinreisende über 40, alle die tagsüber die Sehenswürdigkeiten besichtigen und abends Ruhe wollen.
+**Wer hier richtig liegt:** Paare, Alleinreisende über 40, alle die tagsüber die [Sehenswürdigkeiten](https://www.tiqets.com/) besichtigen und abends Ruhe wollen.
 
 **Preisspanne:** Mittelklasse 60-150 EUR, gehobene Hotels 150-280 EUR.
 

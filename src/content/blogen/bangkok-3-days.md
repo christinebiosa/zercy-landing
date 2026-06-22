@@ -51,7 +51,7 @@ For the broader regional context, the [stopover tourism guide](/en/blog/stopover
 
 ## Day 3: Rooftop Bar, Jim Thompson House, and Khao San Road
 
-Morning: Jim Thompson House near National Stadium BTS station. Jim Thompson was an American silk merchant who modernized Thailand's silk industry in the 1950s and vanished without trace in 1967. His home is a museum of five traditional Thai teak houses filled with Asian art. Entrance: 200 baht, guided tour included.
+Morning: Jim Thompson House near National Stadium BTS station. Jim Thompson was an American silk merchant who modernized Thailand's silk industry in the 1950s and vanished without trace in 1967. His home is a museum of five traditional Thai teak houses filled with Asian art. Entrance: 200 baht, [guided tour](https://www.tiqets.com/) included.
 
 Afternoon: browse MBK Center or Siam Paragon if shopping is your thing. Or head back to the hotel early to freshen up before the evening.
 

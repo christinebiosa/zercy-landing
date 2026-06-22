@@ -50,7 +50,7 @@ Seville has some free-tapas bars too, but the system is less consistent. Restaur
 
 Budget flights to Seville are often cheaper because the airport is larger and served by more low-cost carriers. Granada's airport is smaller with fewer connections. The bus between the two cities is fast and costs 10 to 25 euros one way.
 
-For tips on scoring cheap flights, check our [cheap flights guide](/en/blog/cheap-flights-tips/).
+For tips on scoring [cheap flights](https://www.aviasales.com/), check our [cheap flights guide](/en/blog/cheap-flights-tips/).
 
 ---
 

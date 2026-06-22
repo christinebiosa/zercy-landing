@@ -11,7 +11,7 @@ bookingDest: "Bled"
 
 Der Bleder See ist eine dieser Kulissen die man im Film sieht und denkt, das ist zu schön um real zu sein. Eine Insel mit Kirche in der Mitte eines türkisfarbenen Gebirgssees, dahinter eine Burg auf dem Felsen, dahinter die Julischen Alpen. Und es ist real. Aber es ist klein. Das ist die erste Sache die du über Bled wissen musst.
 
-Bled ist ein Dorf, kein Ort. Hotels, Restaurants und Sehenswürdigkeiten liegen auf engstem Raum zusammen. Trotzdem gibt es spürbare Unterschiede zwischen Seeseite, Bergseite und Umgebung. Hier erfährst du, was für dich passt.
+Bled ist ein Dorf, kein Ort. Hotels, Restaurants und [Sehenswürdigkeiten](https://www.tiqets.com/) liegen auf engstem Raum zusammen. Trotzdem gibt es spürbare Unterschiede zwischen Seeseite, Bergseite und Umgebung. Hier erfährst du, was für dich passt.
 
 ## Welche Lage passt zu welcher Reise?
 

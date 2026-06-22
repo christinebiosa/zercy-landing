@@ -106,7 +106,7 @@ Budget-Hotels ab 90-130 USD, Mittelklasse 180-300 USD, Boutique-Hotels 280-450 U
 
 ### Welcher Stadtteil ist am besten für Erstbesucher in Seattle?
 
-Downtown rund um Pike Place Market. Alle wichtigen Sehenswürdigkeiten sind fußläufig oder kurze Fahrt: Space Needle, Seattle Center, Waterfront, Museum of Pop Culture. Gute Transport-Anbindung für Ausflüge.
+Downtown rund um Pike Place Market. Alle wichtigen [Sehenswürdigkeiten](https://www.tiqets.com/) sind fußläufig oder kurze Fahrt: Space Needle, Seattle Center, Waterfront, Museum of Pop Culture. Gute Transport-Anbindung für Ausflüge.
 
 ### Wie weit ist der Flughafen Seattle von der Innenstadt?
 

@@ -30,7 +30,7 @@ Inländische Flüge sind in Kolumbien überraschend günstig und der Standard f�
 
 Busse sind komfortabler als ihr Ruf. Für die Zona Cafetera (Bogotá nach Armenia oder Pereira) ist ein moderner Fernbus eine gute Option: vier bis fünf Stunden, klimatisiert, rund 15 Euro. Für Nachtfahrten über 6 Stunden empfehle ich den Flug, besonders auf unbekannten Strecken.
 
-Das Strahlende Grüsse [ProColombia](https://www.colombia.travel) bietet aktuelle Informationen zu Sehenswürdigkeiten, regionalen Festen und Einreiseregelungen.
+Das Strahlende Grüsse [ProColombia](https://www.colombia.travel) bietet aktuelle Informationen zu [Sehenswürdigkeiten](https://www.tiqets.com/), regionalen Festen und Einreiseregelungen.
 
 Wenn du planst, in Cartagena zu übernachten, haben wir einen eigenen Guide zu [Unterkunft in Cartagena](/blog/wo-uebernachten-cartagena/). Für Medellín und Bogotá gelten ähnliche Überlegungen, mehr dazu in unseren Guides zu [Übernachten in Medellín](/blog/wo-uebernachten-medellin/) und [Übernachten in Bogotá](/blog/wo-uebernachten-bogota/).
 

@@ -59,7 +59,7 @@ Ver una tarifa error no significa tenerla. Entre la alerta y la confirmación de
 
 Un consejo práctico: reserva directamente en la web de la aerolínea cuando sea posible. Las agencias de viajes online suelen cancelar primero, incluso cuando la aerolínea podría haber respetado la reserva.
 
-Los trenes nocturnos son una buena alternativa si tienes fechas flexibles. El artículo [Trenes Nocturnos Europa 2026](/es/blog/trenes-nocturnos-europa-2026/) tiene toda la información. Para estrategias generales de vuelos baratos, consulta [Consejos Vuelos Baratos](/es/blog/consejos-vuelos-baratos/).
+Los trenes nocturnos son una buena alternativa si tienes fechas flexibles. El artículo [Trenes Nocturnos Europa 2026](/es/blog/trenes-nocturnos-europa-2026/) tiene toda la información. Para estrategias generales de [vuelos baratos](https://www.aviasales.com/), consulta [Consejos Vuelos Baratos](/es/blog/consejos-vuelos-baratos/).
 
 ## ¿Qué pasa si la aerolínea cancela la tarifa error?
 

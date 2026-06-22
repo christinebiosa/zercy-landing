@@ -48,7 +48,7 @@ April through June and September through November are the best months. Temperatu
 
 July and August are hot (35-38C in the city), but Lecce is less crowded than coastal towns like Gallipoli or Otranto. The city is not a beach resort, so daytime density stays manageable. That said, midday is nearly unbearable without a proper siesta.
 
-A day trip to Otranto (40 km) with its stunning floor mosaic in the cathedral and coastal scenery pairs well with a Lecce base. The [official website of the Basilica di Santa Croce](https://www.basilicasantacrocelecce.it/) has opening hours and guided tour information.
+A day trip to Otranto (40 km) with its stunning floor mosaic in the cathedral and coastal scenery pairs well with a Lecce base. The [official website of the Basilica di Santa Croce](https://www.basilicasantacrocelecce.it/) has opening hours and [guided tour](https://www.tiqets.com/) information.
 
 ## Which area works best for families and budget travelers?
 

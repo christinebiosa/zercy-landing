@@ -50,7 +50,7 @@ Ladakh, el valle de Spiti, Darjeeling, Sikkim y los estados del noreste (Meghala
 - **Onam de Kerala** (agosto/septiembre): Regatas de barcas serpiente y procesiones de elefantes.
 - **Taj Mahotsav** (febrero, Agra): Artesanía y espectáculos culturales junto al Taj Mahal.
 
-Para planificar la ruta en detalle: [India, guía de viaje y highlights](/es/blog/india-guia-viaje-highlights/) ofrece un buen resumen de rutas y visitas imprescindibles. Para vuelos baratos a Bombay o Delhi: [Consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) ayuda a encontrar las mejores conexiones.
+Para planificar la ruta en detalle: [India, guía de viaje y highlights](/es/blog/india-guia-viaje-highlights/) ofrece un buen resumen de rutas y visitas imprescindibles. Para [vuelos baratos](https://www.aviasales.com/) a Bombay o Delhi: [Consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) ayuda a encontrar las mejores conexiones.
 
 ---
 

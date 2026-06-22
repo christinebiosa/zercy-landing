@@ -83,7 +83,7 @@ Fischmarkt und Hafen (morgens am lebhaftesten), Skala de la Ville (Kanonen, Stad
 
 ### Welches Budget sollte man für Essaouira einplanen?
 
-Essaouira ist günstiger als Marrakesch. Budget-Reisende kommen mit 40-60 EUR pro Tag aus (Guesthouse, Mahlzeiten im lokalen Restaurant, Sehenswürdigkeiten). Mittelklasse kostet 100-150 EUR täglich. Für Luxus-Riads und Restaurantabende: 200-300 EUR. Tagessen im Fischerhafen direkt: 5-10 EUR.
+Essaouira ist günstiger als Marrakesch. Budget-Reisende kommen mit 40-60 EUR pro Tag aus (Guesthouse, Mahlzeiten im lokalen Restaurant, [Sehenswürdigkeiten](https://www.tiqets.com/)). Mittelklasse kostet 100-150 EUR täglich. Für Luxus-Riads und Restaurantabende: 200-300 EUR. Tagessen im Fischerhafen direkt: 5-10 EUR.
 
 ---
 

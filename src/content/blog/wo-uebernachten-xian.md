@@ -11,7 +11,7 @@ bookingDest: "Xi'an"
 
 Xi'an ist eine der faszinierendsten Städte Chinas. Hier liegt die Terrakotta-Armee. Hier verlief die alte Seidenstraße. Das historische Stadtzentrum ist von einer fast vollständig erhaltenen Stadtmauer umgeben. Wenige Städte in Asien kombinieren so viel Geschichte mit so lebendiger Gegenwart. Und wenige Städte werden so unterschätzt.
 
-Die Lage des Hotels entscheidet, wie du Xi'an erlebst. Das historische Zentrum ist kompakt. Die Außenbezirke sind weitläufig. Wer nah an der Stadtmauer wohnt, kann viele Sehenswürdigkeiten zu Fuß erreichen. Wer weiter draußen bucht, braucht mehr Zeit für Transfers. Hier ist die Übersicht.
+Die Lage des Hotels entscheidet, wie du Xi'an erlebst. Das historische Zentrum ist kompakt. Die Außenbezirke sind weitläufig. Wer nah an der Stadtmauer wohnt, kann viele [Sehenswürdigkeiten](https://www.tiqets.com/) zu Fuß erreichen. Wer weiter draußen bucht, braucht mehr Zeit für Transfers. Hier ist die Übersicht.
 
 ## Welcher Stadtteil passt zu welcher Reise?
 

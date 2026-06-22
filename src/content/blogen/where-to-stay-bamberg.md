@@ -58,7 +58,7 @@ Bamberg has year-round appeal, and the highlights spread well across the calenda
 
 **Winter (November to March):** Bamberg has one of Franconia's most atmospheric Christmas markets. December is popular. Otherwise it's quiet, affordable, and the city is almost entirely yours.
 
-The [official Bamberg tourism site](https://www.bamberg.info/en/) keeps an up-to-date event calendar and guided tour information.
+The [official Bamberg tourism site](https://www.bamberg.info/en/) keeps an up-to-date event calendar and [guided tour](https://www.tiqets.com/) information.
 
 ## The Sand District and City Center: Local Life
 

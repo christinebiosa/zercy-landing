@@ -58,7 +58,7 @@ Das [vietnamesische Tourismusministerium](https://vietnam.travel/) veröffentlic
 
 ## Ninh Binh Stadt: praktisch, aber nur als Basis
 
-Die Stadtmitte von Ninh Binh liegt 6-8 Kilometer von den Sehenswürdigkeiten entfernt. Sie hat den Bahnhof und Busverbindungen nach Hanoi (2,5 Stunden) und Hue (5 Stunden). Für Budget-Reisende, die früh morgens ankommen oder abends weiterfahren, ist das sinnvoll. Als Basis für mehrere Nächte ist es keine gute Wahl, weil du dann täglich Fahrt in Kauf nimmst.
+Die Stadtmitte von Ninh Binh liegt 6-8 Kilometer von den [Sehenswürdigkeiten](https://www.tiqets.com/) entfernt. Sie hat den Bahnhof und Busverbindungen nach Hanoi (2,5 Stunden) und Hue (5 Stunden). Für Budget-Reisende, die früh morgens ankommen oder abends weiterfahren, ist das sinnvoll. Als Basis für mehrere Nächte ist es keine gute Wahl, weil du dann täglich Fahrt in Kauf nimmst.
 
 Wer hier richtig liegt: Durchreisende, Budget-Backpacker, wer sehr frühe Zug-Connections braucht.
 

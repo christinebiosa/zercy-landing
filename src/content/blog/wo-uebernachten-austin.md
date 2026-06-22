@@ -102,7 +102,7 @@ Zercy findet dir die richtige Austin-Unterkunft: Live-Musik-Nähe, Foodie-Vierte
 
 ### Welches ist das beste Viertel für Erstbesucher in Austin?
 
-Downtown und South Congress sind die besten Einstiegspunkte. Downtown liegt nah an der Musikszene und den meisten Sehenswürdigkeiten. South Congress hat mehr Charakter und eignet sich gut für Flaneure. Beide haben gute Uber-Anbindung in alle anderen Viertel.
+Downtown und South Congress sind die besten Einstiegspunkte. Downtown liegt nah an der Musikszene und den meisten [Sehenswürdigkeiten](https://www.tiqets.com/). South Congress hat mehr Charakter und eignet sich gut für Flaneure. Beide haben gute Uber-Anbindung in alle anderen Viertel.
 
 ### Was kostet ein Hotel in Austin pro Nacht?
 

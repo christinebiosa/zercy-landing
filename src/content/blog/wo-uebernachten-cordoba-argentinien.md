@@ -88,7 +88,7 @@ Zercy hilft dir das richtige Córdoba-Hotel zu finden: jesuitisches Erbe, studen
 
 ### Welches ist das beste Viertel für Erstbesucher in Córdoba?
 
-Centro Histórico ist die beste Wahl: Jesuiten-Block, Plaza San Martín und die wichtigsten Sehenswürdigkeiten sind fußläufig. Nueva Córdoba ist für alle die das lebhafte junge Córdoba bevorzugen. Güemes empfiehlt sich für Foodies und alle die Kunst und Gastronomie kombinieren wollen.
+Centro Histórico ist die beste Wahl: Jesuiten-Block, Plaza San Martín und die wichtigsten [Sehenswürdigkeiten](https://www.tiqets.com/) sind fußläufig. Nueva Córdoba ist für alle die das lebhafte junge Córdoba bevorzugen. Güemes empfiehlt sich für Foodies und alle die Kunst und Gastronomie kombinieren wollen.
 
 ### Was kostet ein Hotel in Córdoba pro Nacht?
 

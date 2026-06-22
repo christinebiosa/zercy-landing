@@ -45,7 +45,7 @@ Breslau ist ein idealer Stopp auf einer [Polen-Rundreise](/blog/polen-rundreise-
 
 ## Wann ist die beste Reisezeit für Breslau?
 
-**Mai bis September** ist Hauptsaison. Warme Temperaturen, Außengastronomie am Rynek, alle Sehenswürdigkeiten geöffnet. Der Marktplatz ist dann besonders lebendig. Auf Wochenenden in den Sommerferien kann es voll werden.
+**Mai bis September** ist Hauptsaison. Warme Temperaturen, Außengastronomie am Rynek, alle [Sehenswürdigkeiten](https://www.tiqets.com/) geöffnet. Der Marktplatz ist dann besonders lebendig. Auf Wochenenden in den Sommerferien kann es voll werden.
 
 **April und Oktober** sind empfehlenswert. Ruhiger, günstigere Hotels, angenehm kühle Temperaturen für Spaziergänge. Die [Breslau Tourismus-Website](https://www.visitwroclaw.eu) veröffentlicht saisonale Veranstaltungskalender und Tipps.
 

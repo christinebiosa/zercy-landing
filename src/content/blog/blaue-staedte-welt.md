@@ -68,7 +68,7 @@ Kurze Übersicht für Budget-Planung:
 - **Santorini:** 100-250 Euro/Tag. Teuer in Hauptsaison.
 - **Sidi Bou Said:** 30-60 Euro/Tag. Günstig für europäische Qualität.
 
-Für günstige Flüge nach Griechenland lohnt sich ein Blick in unsere [Tipps zum günstigen Fliegen](/blog/guenstig-fliegen-tipps/).
+Für [günstige Flüge](https://www.aviasales.com/) nach Griechenland lohnt sich ein Blick in unsere [Tipps zum günstigen Fliegen](/blog/guenstig-fliegen-tipps/).
 
 ---
 

@@ -25,7 +25,7 @@ The city sits on seven hills, has an Ottoman-influenced Old Town with colorful 1
 
 ## Old Town: Plovdiv's Colorful Heart
 
-Plovdiv's Old Town is unique in Bulgaria. Ottoman houses from the 18th and 19th centuries, some still inhabited, many converted into museums or boutique hotels. Steep cobblestone streets, churches, mosques, and an ancient Roman theater carved into the hillside. The [Plovdiv Tourist Information Centre](https://www.visitplovdiv.com) has opening hours and guided tour options.
+Plovdiv's Old Town is unique in Bulgaria. Ottoman houses from the 18th and 19th centuries, some still inhabited, many converted into museums or boutique hotels. Steep cobblestone streets, churches, mosques, and an ancient Roman theater carved into the hillside. The [Plovdiv Tourist Information Centre](https://www.visitplovdiv.com) has opening hours and [guided tour](https://www.tiqets.com/) options.
 
 **Who stays here:** First-time visitors, culture travelers, those who want the historic Plovdiv experience.
 

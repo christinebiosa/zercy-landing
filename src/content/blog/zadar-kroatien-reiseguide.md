@@ -18,7 +18,7 @@ Juli und August sind die beliebtesten Monate. Das Wetter ist sicher, das Meer wa
 
 Mai, Juni und September sind die bessere Wahl. Temperaturen zwischen 22 und 28 Grad, kaum Regen, und deutlich weniger Touristen. Der Strand Kolovare ist noch angenehm leer. Tagesausflüge zu den Kornaten oder nach Plitvice laufen entspannter ab.
 
-Oktober lohnt sich noch für Kulturreisende. Die Temperaturen fallen auf 18-20 Grad, aber Sehenswürdigkeiten wie das römische Forum oder die Kirche des Heiligen Donat sind ohne Gedränge zugänglich. Für Strandurlauber endet die Saison realistisch Ende September.
+Oktober lohnt sich noch für Kulturreisende. Die Temperaturen fallen auf 18-20 Grad, aber [Sehenswürdigkeiten](https://www.tiqets.com/) wie das römische Forum oder die Kirche des Heiligen Donat sind ohne Gedränge zugänglich. Für Strandurlauber endet die Saison realistisch Ende September.
 
 Winter in Zadar ist ruhig und günstig. Viele Restaurants haben reduzierte Öffnungszeiten, aber die Altstadt bleibt schön. Ein guter Zeitpunkt, um die Stadt wie ein Einheimischer zu erleben.
 

@@ -51,7 +51,7 @@ El [sitio oficial de turismo de Rumanía](https://romaniatourism.com) tiene info
 
 ## ¿Cuándo vale la pena visitar Bucarest?
 
-Primavera (abril/mayo) y otoño (septiembre/octubre) son los mejores meses: temperaturas agradables, todas las terrazas abiertas, museos sin aglomeraciones. El verano es caluroso pero económico: sin turistas de crucero, vuelos baratos, menos viajeros que en primavera. En invierno, Bucarest luce especialmente bien bajo la nieve. Mercado navideño en la Plaza Revoluție, edificios históricos con luz invernal, casi sin turismo.
+Primavera (abril/mayo) y otoño (septiembre/octubre) son los mejores meses: temperaturas agradables, todas las terrazas abiertas, museos sin aglomeraciones. El verano es caluroso pero económico: sin turistas de crucero, [vuelos baratos](https://www.aviasales.com/), menos viajeros que en primavera. En invierno, Bucarest luce especialmente bien bajo la nieve. Mercado navideño en la Plaza Revoluție, edificios históricos con luz invernal, casi sin turismo.
 
 Una cosa que no te puedes perder: el [Palacio del Parlamento](https://cic.cdep.ro) solo es accesible con visita guiada. Reserva con anticipación, especialmente de mayo a septiembre.
 

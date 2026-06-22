@@ -10,7 +10,7 @@ bookingDest: "Sintra"
 ---
 Sintra gehört zu den wenigen Orten in Europa, die tatsächlich so aussehen, wie man es aus Märchenbüchern kennt. Paläste auf Berghängen, dichte Pinienwälder, verwunschene Gärten. Die Stadt steht auf der UNESCO-Welterbeliste, und wer einmal die Nationalpalast-Türmchen über dem Morgennebel ragen sieht, versteht sofort warum.
 
-Das Tricky an Sintra: Es ist kompakt, aber unübersichtlich verteilt. Die meisten Besucher kommen als Tagesausflug von Lissabon. Wer aber bleibt, hat den großen Vorteil: die Sehenswürdigkeiten am frühen Morgen oder späten Abend fast für sich allein. Dieser Guide hilft dir, das richtige Viertel und das passende Hotel zu finden.
+Das Tricky an Sintra: Es ist kompakt, aber unübersichtlich verteilt. Die meisten Besucher kommen als Tagesausflug von Lissabon. Wer aber bleibt, hat den großen Vorteil: die [Sehenswürdigkeiten](https://www.tiqets.com/) am frühen Morgen oder späten Abend fast für sich allein. Dieser Guide hilft dir, das richtige Viertel und das passende Hotel zu finden.
 
 ## Welche Gegend passt zu welcher Reise?
 

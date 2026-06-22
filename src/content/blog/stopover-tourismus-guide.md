@@ -56,7 +56,7 @@ Eine ehrliche Kostenrechnung im Vergleich.
 
 **Standard-Buchung.** Direktflug Frankfurt-Bangkok: 720 Euro. Du verbringst 18 Stunden in Bangkok-Anschlüssen.
 
-**Mit Stopover.** Frankfurt-Singapur-Bangkok mit 48 Stunden in Singapur: 750 Euro. Hotel über Singapore Airlines Stopover-Programm: 60 Euro für 2 Nächte. Plus Mahlzeiten, Sehenswürdigkeiten: 80 Euro. Insgesamt: 890 Euro für 2 Reiseziele.
+**Mit Stopover.** Frankfurt-Singapur-Bangkok mit 48 Stunden in Singapur: 750 Euro. Hotel über Singapore Airlines Stopover-Programm: 60 Euro für 2 Nächte. Plus Mahlzeiten, [Sehenswürdigkeiten](https://www.tiqets.com/): 80 Euro. Insgesamt: 890 Euro für 2 Reiseziele.
 
 Differenz: 170 Euro für ein zusätzliches Reiseziel. Pro Tag in Singapur kostet dich der Trip 85 Euro extra. Schwer zu schlagen, wenn man es als Reise zählt.
 

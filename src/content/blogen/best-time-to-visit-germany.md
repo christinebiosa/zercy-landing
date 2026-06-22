@@ -22,7 +22,7 @@ That said, summer in Germany is genuinely enjoyable. Beer gardens stay open unti
 
 ## Which Months Are Actually Best for Visiting Germany?
 
-**April and May** are arguably the best-kept secret for Germany travel. Temperatures range from 15 to 22 degrees. Tourist numbers are lower than summer, hotels cost 25-35% less, and the countryside is at its most photogenic. The Rheingau region north of Frankfurt sees its wine trails open from April, a great reason to explore beyond the cities. The [German Wine Institute](https://www.deutscheweine.de) lists guided tours and self-guided routes.
+**April and May** are arguably the best-kept secret for Germany travel. Temperatures range from 15 to 22 degrees. Tourist numbers are lower than summer, hotels cost 25-35% less, and the countryside is at its most photogenic. The Rheingau region north of Frankfurt sees its wine trails open from April, a great reason to explore beyond the cities. The [German Wine Institute](https://www.deutscheweine.de) lists [guided tours](https://www.tiqets.com/) and self-guided routes.
 
 For city trips, May is near-perfect. Outdoor terraces are open but not overwhelmingly packed. The light is soft and long. Berlin in May is one of Europe's great city experiences.
 
@@ -48,7 +48,7 @@ For most travelers, shoulder season beats summer on nearly every metric except w
 
 **April and May** hit the sweet spot: blooming orchards in the Altes Land near Hamburg, flower festivals in the Rhine Valley, and the first outdoor markets opening across the country. The train route from Heidelberg to Freiburg in spring is one of Germany's most beautiful journeys. For train travel planning, check out [Night Trains in Europe](/en/blog/night-trains-europe-2026/).
 
-**October** brings vivid autumn colors in the Eifel, Harz Mountains, and Bavarian Forest. Hiking is great until mid-November when mountain huts start to close. For cheap flights into Germany to catch the shoulder season, [these tips on cheap flights](/en/blog/cheap-flights-tips/) are worth reading before you book.
+**October** brings vivid autumn colors in the Eifel, Harz Mountains, and Bavarian Forest. Hiking is great until mid-November when mountain huts start to close. For [cheap flights](https://www.aviasales.com/) into Germany to catch the shoulder season, [these tips on cheap flights](/en/blog/cheap-flights-tips/) are worth reading before you book.
 
 For a well-rounded Germany trip: Rhine Valley in April, Munich or Bavaria in early September (pre-Oktoberfest), and a Christmas market stop in November or early December. Train travel within Germany is excellent and affordable. The Deutschlandticket (49 euros per month for regional trains) is worth looking into for longer stays.
 

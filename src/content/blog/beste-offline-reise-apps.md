@@ -16,7 +16,7 @@ Offline-fähige Reise-Apps sind kein Luxus. Sie sind Infrastruktur. Und welche d
 
 Maps.me und OsmAnd sind die zwei großen Namen, wenn es um echte Offline-Karten geht. Beide nutzen OpenStreetMap-Daten, also die gleiche Grundlage. Der Unterschied liegt in der Oberfläche und in den Extras.
 
-Maps.me ist einfacher zu bedienen. Du lädst eine Region herunter, und die Karte funktioniert sofort: Navigation, Suche nach Sehenswürdigkeiten, Restaurants, Unterkünften. Die Dateigröße ist moderat. Deutschland als vollständige Offline-Karte liegt bei etwa 750 MB. Für einfache Stadtnavigation und kurze Ausflüge ist Maps.me die schnellste Lösung.
+Maps.me ist einfacher zu bedienen. Du lädst eine Region herunter, und die Karte funktioniert sofort: Navigation, Suche nach [Sehenswürdigkeiten](https://www.tiqets.com/), Restaurants, Unterkünften. Die Dateigröße ist moderat. Deutschland als vollständige Offline-Karte liegt bei etwa 750 MB. Für einfache Stadtnavigation und kurze Ausflüge ist Maps.me die schnellste Lösung.
 
 OsmAnd ist mächtiger, aber komplexer. Es bietet Offline-Routing für Fahrrad, Wandern und Auto mit detaillierten Einstellungen, Höhenprofilen und sogar Segelkarten. Wer wandert oder Fahrradtouren plant, kommt mit OsmAnd weiter. Komoot ist speziell für Wanderungen und Radtouren eine starke Alternative: gute Offline-Karten, Routenplanung, Höhenprofile. Die App braucht allerdings einen kostenpflichtigen Zugang für viele Regionen.
 

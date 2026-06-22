@@ -27,7 +27,7 @@ Hier die Übersicht: 5 Stadtteile, was du bekommst und für wen es passt.
 
 ## Centro Histórico: Die beste Lage
 
-Das Centro Histórico ist Oaxacas Kernzone. Der Zócalo (Hauptplatz) ist einer der schönsten Mexikos, die Iglesia de Santo Domingo de Guzmán ein fotografiertes Meisterwerk. Alle wichtigen Sehenswürdigkeiten, Märkte (Mercado Benito Juárez, Mercado 20 de Noviembre) und die besten Restaurants sind zu Fuß erreichbar.
+Das Centro Histórico ist Oaxacas Kernzone. Der Zócalo (Hauptplatz) ist einer der schönsten Mexikos, die Iglesia de Santo Domingo de Guzmán ein fotografiertes Meisterwerk. Alle wichtigen [Sehenswürdigkeiten](https://www.tiqets.com/), Märkte (Mercado Benito Juárez, Mercado 20 de Noviembre) und die besten Restaurants sind zu Fuß erreichbar.
 
 **Wer hier richtig liegt:** Erstbesucher, Kulturreisende, Paare, alle die ohne Taxi oder Bus auskommen wollen.
 

@@ -18,7 +18,7 @@ Eine kurze Orientierung:
 
 - **Altstadt (Casco Histórico)**: Das Herz der Stadt. Dicht gebaut, keine Autos, ideal für Fußgänger. Teurer, aber unersetzbar als Erlebnis.
 - **El Circo Romano / Außenring**: Ruhiger, günstiger, gute Busverbindung ins Zentrum. Für Langzeitreisende und Familien.
-- **Safón / Zocodover-Nähe**: Direkt neben dem zentralen Plaza Zocodover, gute Lage für Sehenswürdigkeiten.
+- **Safón / Zocodover-Nähe**: Direkt neben dem zentralen Plaza Zocodover, gute Lage für [Sehenswürdigkeiten](https://www.tiqets.com/).
 - **Uferbereich Tejo**: Wenige Hotels, aber einzigartige Lage mit Blick auf die Stadtmauer. Ruhig, etwas abseits.
 - **Tagesausflug von Madrid**: Wer nur einen Tag hat, übernachtet in Madrid und kommt mit dem Renfe-Zug (30 Minuten ab Atocha).
 

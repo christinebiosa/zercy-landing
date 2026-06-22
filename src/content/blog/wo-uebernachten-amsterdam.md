@@ -27,7 +27,7 @@ Hier die ehrliche Übersicht: 5 Stadtteile, was sie kosten, für wen sie passen.
 
 ## Centrum: Das touristische Amsterdam
 
-Innerhalb der Grachten-Ring: Anne-Frank-Haus, Königspalast, Dam-Platz, Rotlichtviertel, alle Top-Sehenswürdigkeiten. Zentralbahnhof in 5 Min, Schiphol-Flughafen in 20 Min mit Zug. Sehr touristisch, aber alle Praktischkeit drin.
+Innerhalb der Grachten-Ring: Anne-Frank-Haus, Königspalast, Dam-Platz, Rotlichtviertel, alle Top-[Sehenswürdigkeiten](https://www.tiqets.com/). Zentralbahnhof in 5 Min, Schiphol-Flughafen in 20 Min mit Zug. Sehr touristisch, aber alle Praktischkeit drin.
 
 **Wer hier richtig liegt:** Erstbesucher, Kurz-Trips (1-3 Nächte), wer alles zu Fuß oder per Boot erreichen will.
 

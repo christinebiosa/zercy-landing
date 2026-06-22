@@ -43,7 +43,7 @@ Mai, Juni und September sind perfekt. Angenehme Temperaturen, noch keine Sommerh
 
 Oktober ist ein Geheimtipp: Herbstfarben in den Bergen, leere Altstädte, sehr günstige Preise. Das Wetter an der Küste ist oft noch schwimmtauglich (20–23°C).
 
-Winter (Dezember bis März) ist off-season — günstig, aber viele Sehenswürdigkeiten haben reduzierte Öffnungszeiten. Sarajevo im Schnee hat seinen eigenen Charme.
+Winter (Dezember bis März) ist off-season — günstig, aber viele [Sehenswürdigkeiten](https://www.tiqets.com/) haben reduzierte Öffnungszeiten. Sarajevo im Schnee hat seinen eigenen Charme.
 
 ## Was darf auf keinem Balkan-Roadtrip fehlen?
 

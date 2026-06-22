@@ -46,7 +46,7 @@ If you want to compare Zakynthos with other Greek islands or plan a broader isla
 
 ## When Is the Best Time to Visit Zakynthos?
 
-Mid-June to late September is the main season. The peak of the turtle nesting season runs from May to August. If you want to spot turtles on the beach (without disturbing them), guided tours with a marine biologist are available from late May onward.
+Mid-June to late September is the main season. The peak of the turtle nesting season runs from May to August. If you want to spot turtles on the beach (without disturbing them), [guided tours](https://www.tiqets.com/) with a marine biologist are available from late May onward.
 
 July and August are the hottest and most expensive. Shipwreck Beach gets very crowded then. June or September are smarter: fewer crowds, similarly warm water, prices up to 30% lower. In October many businesses close, but the quiet is remarkable.
 

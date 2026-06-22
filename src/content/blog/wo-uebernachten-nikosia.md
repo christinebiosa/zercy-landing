@@ -16,7 +16,7 @@ Das Besondere: Nikosia ist keine klassische Touristendestination wie Paphos oder
 ## Welcher Stadtteil passt zu welcher Reise?
 
 - **Laiki Geitonia (Altstadt Süd):** Restauriertes Viertel innerhalb der venezianischen Mauern. Kopfsteinpflaster, Tavernen, Handwerksläden. Atmosphärisch, ruhig abends. Boutique-Hotels, begrenzte Auswahl.
-- **Stadtzentrum / Ledra-Straße:** Haupteinkaufsstraße, Cafés, Banken. Hotels von Budget bis Businessklasse. Am besten für Sehenswürdigkeiten.
+- **Stadtzentrum / Ledra-Straße:** Haupteinkaufsstraße, Cafés, Banken. Hotels von Budget bis Businessklasse. Am besten für [Sehenswürdigkeiten](https://www.tiqets.com/).
 - **Acropolis / Engomi:** Gehobener Vorort westlich des Zentrums. Botschaften, gute Restaurants, ruhig. Boutique-Hotels und Serviced Apartments. Ideal für längere Aufenthalte und Geschäftsreisende.
 - **Strovolos:** Südlich des Zentrums, suburban. Einkaufszentren, Supermärkte, Budgethotels. Für Familien mit Auto und längerem Aufenthalt.
 - **Aglantzia:** Östlich des Zentrums, Universitätsviertel. Jüngeres Publikum, Cafés, günstige Preise. Budget bis Mittelklasse.

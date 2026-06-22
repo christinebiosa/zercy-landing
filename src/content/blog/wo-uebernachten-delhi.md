@@ -37,7 +37,7 @@ Das kreisrunde Connaught Place aus der Kolonialzeit ist Delhis kommerzielles Her
 
 ## Wann ist die beste Reisezeit für Delhi?
 
-Oktober bis März ist ideal. Temperaturen zwischen 8 und 25 Grad, klar und trocken. Dezember und Januar können morgens unter 10 Grad fallen, abends braucht man eine Jacke. April und Mai werden heiß, 35-45 Grad sind normal. Juni bis September ist Monsunzeit, schwül, aber mit grüner Stadt und 30-40 Prozent günstigeren Preisen. Delhi im Winter lohnt sich besonders: Nebel morgens, angenehme Temperaturen mittags, alle Sehenswürdigkeiten zugänglich.
+Oktober bis März ist ideal. Temperaturen zwischen 8 und 25 Grad, klar und trocken. Dezember und Januar können morgens unter 10 Grad fallen, abends braucht man eine Jacke. April und Mai werden heiß, 35-45 Grad sind normal. Juni bis September ist Monsunzeit, schwül, aber mit grüner Stadt und 30-40 Prozent günstigeren Preisen. Delhi im Winter lohnt sich besonders: Nebel morgens, angenehme Temperaturen mittags, alle [Sehenswürdigkeiten](https://www.tiqets.com/) zugänglich.
 
 ## Karol Bagh: Das lokale Zentrum
 

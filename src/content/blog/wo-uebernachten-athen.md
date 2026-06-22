@@ -53,7 +53,7 @@ Die [offizielle griechische Tourismusbehörde](https://www.visitgreece.gr/mainla
 
 **April-Mai und September-Oktober:** beste Reisezeit. 18-26 Grad, weniger Touristen, Hotels 30 Prozent günstiger.
 
-**März und November:** Geheimtipp-Monate. Etwas kühler (12-20 Grad), Hotels am günstigsten, Sehenswürdigkeiten leerer.
+**März und November:** Geheimtipp-Monate. Etwas kühler (12-20 Grad), Hotels am günstigsten, [Sehenswürdigkeiten](https://www.tiqets.com/) leerer.
 
 **Juli-August:** EXTREM heiß (oft 38-42 Grad). Akropolis-Besuche nur morgens oder abends sinnvoll. Hotels teurer wegen Cruise-Touristen.
 

@@ -79,7 +79,7 @@ Pedregalejo liegt etwa 3 Kilometer östlich des Zentrums. Früher ein kleines Fi
 
 ## Teatinos: Günstig und gut angebunden
 
-Teatinos liegt im Westen der Stadt, rund um die Universität Málaga. Viel Studentenleben, wenig Tourismus, gute Bus- und Metroanbindung ins Zentrum. Familien finden hier größere Appartements zu vernünftigen Preisen. Restaurants und Supermärkte in Laufnähe, aber keine Sehenswürdigkeiten im Viertel selbst.
+Teatinos liegt im Westen der Stadt, rund um die Universität Málaga. Viel Studentenleben, wenig Tourismus, gute Bus- und Metroanbindung ins Zentrum. Familien finden hier größere Appartements zu vernünftigen Preisen. Restaurants und Supermärkte in Laufnähe, aber keine [Sehenswürdigkeiten](https://www.tiqets.com/) im Viertel selbst.
 
 **Wer hier richtig liegt:** Familien, Langzeitreisende, alle mit kleinem Budget, die nicht direkt im Zentrum wohnen müssen.
 

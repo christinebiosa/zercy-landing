@@ -58,7 +58,7 @@ Klare Antwort: Für Nepal und Peru ist eine geführte Tour beim ersten Mal sinnv
 
 Für Camino de Santiago und Tour du Mont Blanc: Eigenregie ist der Standard. Die Wege sind so gut beschildert und infrastrukturell so erschlossen, dass ein Guide keinen Mehrwert bringt. Du sparst 200 bis 500 Euro.
 
-Geführte Touren für den Salkantay Trek beginnen bei 300 Euro. Für das Poon Hill Trekking in Nepal bei 150 bis 200 Euro.
+[Geführte Touren](https://www.tiqets.com/) für den Salkantay Trek beginnen bei 300 Euro. Für das Poon Hill Trekking in Nepal bei 150 bis 200 Euro.
 
 ---
 

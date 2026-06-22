@@ -29,7 +29,7 @@ Hier ist die ehrliche Übersicht: 5 Viertel, was sie kosten, für wen sie passen
 
 Das Zentrum ist kompakt und zu Fuß gut erlebbar. Die Portici-Arkaden (UNESCO-Welterbeprozess läuft seit Jahren, ein Kandidat für die Aufnahme) verbinden alles miteinander. Die Zwei Türme (Torre degli Asinelli und Garisenda) stehen im Herzen der Stadt. Der Neptunbrunnen auf der Piazza Maggiore, der Palazzo Comunale, die Basilika San Petronio. Dazu das älteste Universitätsgebäude der Welt: die Alma Mater Studiorum wurde 1088 gegründet.
 
-**Wer hier richtig liegt:** Erstbesucher, Kulturreisende, alle, die nah an Museen und Sehenswürdigkeiten wohnen wollen.
+**Wer hier richtig liegt:** Erstbesucher, Kulturreisende, alle, die nah an Museen und [Sehenswürdigkeiten](https://www.tiqets.com/) wohnen wollen.
 
 **Preise pro Nacht:** Budget 70-110 Euro, Mittelklasse 120-220 Euro, Boutique-Hotels 180-350 Euro.
 

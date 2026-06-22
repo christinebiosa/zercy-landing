@@ -89,4 +89,4 @@ Moliceiro boats are traditional flat-bottomed wooden vessels originally used to 
 Ovos Moles are a sweet made from egg yolks and sugar, traditionally packaged in shell or fish-shaped wafer cases. They hold EU protected geographic indication status and are Aveiro's culinary calling card. The most famous patisserie is Confeitaria Peixinho on the main canal. Buy them before you leave.
 
 ### Can you visit Aveiro and Costa Nova without a car?
-Yes, with a small caveat. Aveiro's old town is perfectly walkable. Costa Nova is served by bus (line 47 from Aveiro station, around 20 minutes, cheap) and there's also bike rental available. For the salt flats and more remote parts of the Ria, a car or guided tour is more practical.
+Yes, with a small caveat. Aveiro's old town is perfectly walkable. Costa Nova is served by bus (line 47 from Aveiro station, around 20 minutes, cheap) and there's also bike rental available. For the salt flats and more remote parts of the Ria, a car or [guided tour](https://www.tiqets.com/) is more practical.

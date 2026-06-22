@@ -15,7 +15,7 @@ Das Viertel entscheidet über das Reisegefühl. Hier der ehrliche Überblick fü
 
 ## Welcher Stadtteil passt zu welcher Reise?
 
-**Kenroku-en / Castle Area:** Historisches Zentrum, bester Zugang zu den Top-Sehenswürdigkeiten. Für Erstbesucher und alle die Japan-Kultur im Fokus haben.
+**Kenroku-en / Castle Area:** Historisches Zentrum, bester Zugang zu den Top-[Sehenswürdigkeiten](https://www.tiqets.com/). Für Erstbesucher und alle die Japan-Kultur im Fokus haben.
 
 **Higashi Chaya District:** Das Geisha-Viertel, goldene Tee-Häuser, Lacklackware-Läden. Für Romantik-Reisende und Atmosphäre-Sucher.
 

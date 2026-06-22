@@ -77,7 +77,7 @@ For Melbourne as a second Australian stop, our [Melbourne neighborhood guide](/e
 
 ## Kangaroo Point: Active Travelers and Families
 
-Kangaroo Point sits right on the Brisbane River, opposite South Bank. The Cliffs climbing park is free and draws locals of every age. Panoramic views of the CBD skyline from the lookout. The Story Bridge Adventure Climb offers guided tours up the arch. Lots of green space, calm, family-friendly.
+Kangaroo Point sits right on the Brisbane River, opposite South Bank. The Cliffs climbing park is free and draws locals of every age. Panoramic views of the CBD skyline from the lookout. The Story Bridge Adventure Climb offers [guided tours](https://www.tiqets.com/) up the arch. Lots of green space, calm, family-friendly.
 
 **Who fits here:** Families, active travelers, anyone who wants to combine nature with city.
 

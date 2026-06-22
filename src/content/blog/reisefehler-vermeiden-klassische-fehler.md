@@ -16,7 +16,7 @@ Kein theoretisches Ranking. Diese 10 kommen aus echter Erfahrung von Vielreisend
 
 **Fehler 1: Zu voller Zeitplan**
 
-Drei Städte in fünf Tagen. Zwei Länder, vier Flüge, acht Sehenswürdigkeiten pro Tag. Das ist kein Urlaub, das ist Logistik. Die häufigste Beschwerde von Rückkehrern: "Wir haben alles gesehen aber nichts erlebt." Plane maximal eine Hauptattraktion pro Tag. Alles andere ist Bonus. Leere Zeit in einem Reiseplan ist kein Fehler, das ist der Plan.
+Drei Städte in fünf Tagen. Zwei Länder, vier Flüge, acht [Sehenswürdigkeiten](https://www.tiqets.com/) pro Tag. Das ist kein Urlaub, das ist Logistik. Die häufigste Beschwerde von Rückkehrern: "Wir haben alles gesehen aber nichts erlebt." Plane maximal eine Hauptattraktion pro Tag. Alles andere ist Bonus. Leere Zeit in einem Reiseplan ist kein Fehler, das ist der Plan.
 
 **Fehler 2: Keine Reiseversicherung**
 

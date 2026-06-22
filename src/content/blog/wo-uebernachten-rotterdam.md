@@ -85,7 +85,7 @@ Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit d
 Im Centrum und Kop van Zuid liegen die Preise bei 100-250 Euro. Im Witte-de-With-Viertel bekommst du gute Boutique-Hotels für 80-180 Euro. Hostels wie das Stayokay im Kubushaus kosten ab 35 Euro pro Bett. Im Winter (November bis März) sinken die Preise deutlich.
 
 ### Welcher Stadtteil ist am besten für Erstbesucher?
-Das Centrum ist die klassische Wahl: kurze Wege zur Markthalle, zu den Kubushäusern und zu den wichtigsten Sehenswürdigkeiten. Wer mehr Atmosphäre und weniger Touristenbetrieb will, ist im Witte-de-With-Viertel besser aufgehoben.
+Das Centrum ist die klassische Wahl: kurze Wege zur Markthalle, zu den Kubushäusern und zu den wichtigsten [Sehenswürdigkeiten](https://www.tiqets.com/). Wer mehr Atmosphäre und weniger Touristenbetrieb will, ist im Witte-de-With-Viertel besser aufgehoben.
 
 ### Wie komme ich am besten nach Rotterdam?
 Mit dem Zug ab Amsterdam Centraal dauert es 40 Minuten bis Rotterdam Centraal (Sprinter) oder 25 Minuten mit dem Intercity Direct (Aufpreis ca. 2,80 Euro). Der Zug aus Brüssel hält hier ebenfalls. Vom Flughafen Amsterdam Schiphol geht es direkt in 30 Minuten.

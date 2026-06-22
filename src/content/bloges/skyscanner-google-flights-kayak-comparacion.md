@@ -24,7 +24,7 @@ La mayor diferencia no está en el diseño. Está en qué precios muestran y por
 
 ## ¿Cuándo conviene usar Google Flights?
 
-Para vuelos de larga distancia, Google Flights es la primera opción. El mapa Explore es una de las mejores funciones en la búsqueda de vuelos. Introduces tu ciudad de salida, dejas el destino abierto y ves en un mapa a dónde están saliendo vuelos baratos ahora mismo. Ideal si tienes flexibilidad y buscas inspiración.
+Para vuelos de larga distancia, Google Flights es la primera opción. El mapa Explore es una de las mejores funciones en la búsqueda de vuelos. Introduces tu ciudad de salida, dejas el destino abierto y ves en un mapa a dónde están saliendo [vuelos baratos](https://www.aviasales.com/) ahora mismo. Ideal si tienes flexibilidad y buscas inspiración.
 
 Price Insights es la segunda gran función. Ves de un vistazo si el precio actual está "bajo", "normal" o "alto" para esa ruta y período. Ayuda a decidir si reservar ya o esperar un poco más. Puedes profundizar en nuestro artículo sobre [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/).
 

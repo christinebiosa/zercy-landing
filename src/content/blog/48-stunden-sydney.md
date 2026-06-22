@@ -9,7 +9,7 @@ heroImage: "/img/blog/sydney-48h.jpg"
 bookingDest: "Sydney"
 ---
 
-Sydney ist eine Stadt, die auf den ersten Blick fast zu viel ist. Das Wasser überall, die Opera House genau so wie auf Fotos, die Brücke, die Strände. Aber dann merkst du: Das Beste passiert zwischen den Sehenswürdigkeiten. In einem Café in Surry Hills. Auf dem Coastal Walk zwischen Bondi und Coogee. Auf der Manly Ferry bei Sonnenuntergang.
+Sydney ist eine Stadt, die auf den ersten Blick fast zu viel ist. Das Wasser überall, die Opera House genau so wie auf Fotos, die Brücke, die Strände. Aber dann merkst du: Das Beste passiert zwischen den [Sehenswürdigkeiten](https://www.tiqets.com/). In einem Café in Surry Hills. Auf dem Coastal Walk zwischen Bondi und Coogee. Auf der Manly Ferry bei Sonnenuntergang.
 
 48 Stunden reichen nicht für alles. Aber sie reichen für das Wichtigste, wenn du weißt, wo du anfängst.
 

@@ -29,7 +29,7 @@ The [UNESCO entry for Fez Medina](https://whc.unesco.org/en/list/170) has solid 
 
 Casablanca is not a tourist city. It's Morocco's economic center. 4 million people, traffic, business. And yet: two things make a visit worthwhile.
 
-The **Hassan II Mosque** is the third-largest mosque in the world, perched on a rocky promontory above the Atlantic. At high tide it appears to float on water. The minaret (200 meters high) projects a laser beam toward Mecca. Guided tours for non-Muslims: daily, around $15 to $20. Essential visit in Casablanca.
+The **Hassan II Mosque** is the third-largest mosque in the world, perched on a rocky promontory above the Atlantic. At high tide it appears to float on water. The minaret (200 meters high) projects a laser beam toward Mecca. [Guided tours](https://www.tiqets.com/) for non-Muslims: daily, around $15 to $20. Essential visit in Casablanca.
 
 **Art Deco Architecture**: Casablanca has one of the world's largest Art Deco ensembles from the 1920s to 1940s (French Protectorate era). Some neighborhoods look like accidentally preserved European quartiers. The **Corniche** (waterfront promenade) is relaxed, touristy, with sea views.
 

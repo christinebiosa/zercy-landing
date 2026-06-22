@@ -64,7 +64,7 @@ Japan gilt als teuer, ist es aber nur, wenn du nicht weißt wo. Tatsächlich sin
 **Tagesbudget Tokio (Mittelklasse):** 150-220 Euro
 - Businesshotel (Apa Hotel, Dormy Inn): 80-130 Euro
 - 2-3 Restaurantbesuche: 40-60 Euro
-- Transport + Sehenswürdigkeiten: 20-30 Euro
+- Transport + [Sehenswürdigkeiten](https://www.tiqets.com/): 20-30 Euro
 
 **Kyoto ist ca. 15-20% günstiger** bei Hotels. Ryokans mit Abendessen können aber teuer sein (150-400 Euro). Tagesausflüge nach Nara kosten ca. 15 Euro Zugticket.
 

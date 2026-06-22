@@ -66,7 +66,7 @@ Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you
 ## Frequently Asked Questions
 
 ### Which desert is easiest to visit?
-The Sahara in Morocco (Erg Chebbi, Merzouga) is the most accessible desert entry point in the world. Good infrastructure, many guided tours, affordable starting prices from around 40 euros for day trips. No visa needed for EU citizens, direct flights from Europe to Marrakech or Casablanca, then a 9-10 hour drive or overnight bus.
+The Sahara in Morocco (Erg Chebbi, Merzouga) is the most accessible desert entry point in the world. Good infrastructure, many [guided tours](https://www.tiqets.com/), affordable starting prices from around 40 euros for day trips. No visa needed for EU citizens, direct flights from Europe to Marrakech or Casablanca, then a 9-10 hour drive or overnight bus.
 
 ### When should you visit Wadi Rum?
 The best time is March to May and October to November. Temperatures are pleasant (20-30 degrees during the day, 10-15 at night). The Jordanian summer (June to August) reaches up to 40 degrees. In winter (December to February) the days are perfect but nights are cold (below 5 degrees, sometimes frost).

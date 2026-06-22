@@ -79,7 +79,7 @@ Der Expresszug vom Flughafen Berlin Brandenburg (BER) nach Berlin Hauptbahnhof b
 
 ### Welche Berliner Stadtteile sind am besten für Touristen?
 
-Prenzlauer Berg für Frühstück und entspannten Einstieg. Mitte für Geschichte und Sehenswürdigkeiten. Kreuzberg für Abendessen und Nachtleben. Friedrichshain für Clubkultur und günstigere Hotels. Charlottenburg für Shopping und etwas ruhigeres Flair. Die Aufteilung hängt davon ab, was du suchst.
+Prenzlauer Berg für Frühstück und entspannten Einstieg. Mitte für Geschichte und [Sehenswürdigkeiten](https://www.tiqets.com/). Kreuzberg für Abendessen und Nachtleben. Friedrichshain für Clubkultur und günstigere Hotels. Charlottenburg für Shopping und etwas ruhigeres Flair. Die Aufteilung hängt davon ab, was du suchst.
 
 ### Was sollte ich in Berlin auf keinen Fall machen?
 

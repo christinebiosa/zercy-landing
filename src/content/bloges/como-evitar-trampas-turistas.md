@@ -19,7 +19,7 @@ La segunda: la ubicación justo al lado del monumento. Un restaurante con vistas
 
 La tercera: ni un solo local en las mesas. Mira quién está sentado. Si solo ves turistas con guías de viaje y palos de selfie, sigue caminando.
 
-**Qué hacer en cambio:** busca los mercados. En Barcelona, La Boqueria es ya un circuito turístico, pero justo detrás está el Mercat de Sant Antoni con precios para los barceloneses. En Roma, cada manzana que te alejas del Foro Romano te acerca más a donde comen los romanos de verdad. En Google Maps, busca restaurantes con reseñas principalmente en el idioma local y fotos de platos sin staging de revista.
+**[Qué hacer](https://www.tiqets.com/) en cambio:** busca los mercados. En Barcelona, La Boqueria es ya un circuito turístico, pero justo detrás está el Mercat de Sant Antoni con precios para los barceloneses. En Roma, cada manzana que te alejas del Foro Romano te acerca más a donde comen los romanos de verdad. En Google Maps, busca restaurantes con reseñas principalmente en el idioma local y fotos de platos sin staging de revista.
 
 ## ¿Por qué los timos clásicos siguen funcionando tan bien?
 

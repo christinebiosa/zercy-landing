@@ -17,7 +17,7 @@ Wer im September, Oktober oder November reist, bekommt oft 20-40 Prozent günsti
 
 **Toskana (Italien):** Die Weinlese findet September-Oktober statt. Reihen von Rebstöcken in Goldtönen, Zypressen, Chianti-Hügel. Touristen sind weniger als im August. Agriturismo-Preise fallen um 20-35 Prozent. Das ist das Toskana, das auf Postkarten ist.
 
-**Griechenland (Kreta, Rhodos):** Oktober ist der geheime Monat. Wassertemperatur 22-24 Grad (noch warm genug zum Schwimmen). Hotels oft 40-50 Prozent günstiger als August. Sehenswürdigkeiten ohne Schlangestehen. Viele Resorts schließen erst Ende Oktober.
+**Griechenland (Kreta, Rhodos):** Oktober ist der geheime Monat. Wassertemperatur 22-24 Grad (noch warm genug zum Schwimmen). Hotels oft 40-50 Prozent günstiger als August. [Sehenswürdigkeiten](https://www.tiqets.com/) ohne Schlangestehen. Viele Resorts schließen erst Ende Oktober.
 
 **Portugal (Alentejo, Douro-Tal):** September und Oktober sind die beste Reisezeit. Weinlese, goldenes Licht, Temperaturen 22-28 Grad. Das Douro-Tal ist im Herbst eines der schönsten Reiseziele Europas. [Turismo de Portugal](https://www.visitportugal.com/de) hat Infos zu den Weinfesten.
 

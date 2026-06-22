@@ -104,7 +104,7 @@ Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit d
 ## Häufige Fragen
 
 ### Welcher Stadtteil auf Paros ist am besten für Erstbesucher?
-Parikia ist die erste Wahl für alle, die Paros zum ersten Mal besuchen. Die Lage ist zentral, Fähren, Restaurants und Sehenswürdigkeiten sind fußläufig erreichbar. Wer lieber eine ruhigere, stimmungsvollere Basis will, wählt Naoussa.
+Parikia ist die erste Wahl für alle, die Paros zum ersten Mal besuchen. Die Lage ist zentral, Fähren, Restaurants und [Sehenswürdigkeiten](https://www.tiqets.com/) sind fußläufig erreichbar. Wer lieber eine ruhigere, stimmungsvollere Basis will, wählt Naoussa.
 
 ### Wann ist Paros am günstigsten?
 Juni und September bieten die besten Preise. Im Vergleich zum August sind Hotels 20-30% günstiger, das Meer ist warm, und die Strände sind deutlich weniger überfüllt. Im Oktober sinken die Preise weiter, aber viele Betriebe schließen.

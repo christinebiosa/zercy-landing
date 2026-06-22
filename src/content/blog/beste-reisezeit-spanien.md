@@ -30,7 +30,7 @@ Die Preisunterschiede sind erheblich. Ein konkreter Vergleich:
 
 **Hochsaison (Juli/August):** Barcelona-Hotel im Stadtzentrum 150-220 Euro pro Nacht. Flug Frankfurt-Barcelona Roundtrip 180-350 Euro. Mietwagenpreise können sich im Vergleich zur Nebensaison verdoppeln.
 
-**Schulter-Saison (Mai/Juni, September/Oktober):** Barcelona-Hotel 80-130 Euro pro Nacht. Flug Frankfurt-Barcelona 90-180 Euro Roundtrip. Deutlich weniger Andrang an Sehenswürdigkeiten.
+**Schulter-Saison (Mai/Juni, September/Oktober):** Barcelona-Hotel 80-130 Euro pro Nacht. Flug Frankfurt-Barcelona 90-180 Euro Roundtrip. Deutlich weniger Andrang an [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 **Nebensaison (November bis März, außer Weihnachten):** Barcelona-Hotel 55-90 Euro pro Nacht. Flüge ab 60-100 Euro Roundtrip. Temperaturen in Barcelona: 10-16 Grad. Für Städtereisen (Museen, Restaurants, Kulturprogramm) perfekt. Für Badeurlaub zu kalt.
 

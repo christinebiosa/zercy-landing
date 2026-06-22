@@ -85,7 +85,7 @@ Der Mount Lavinia Beach ist beliebt bei Einheimischen am Wochenende. Hotels dire
 
 Colombo 6 gehört nicht zu den typischen Touristengebieten. Das ist der Punkt. Wellawatta hat eine der lebendigsten lokalen Einkaufsstraßen der Stadt, viele gute Restaurantempfehlungen von Einheimischen und die günstigsten Unterkünfte in Strandnähe.
 
-Wer Colombo erleben will wie die Einheimischen es kennen, und wer kein Problem hat, für Sehenswürdigkeiten ein Tuk-Tuk zu nehmen, ist hier richtig.
+Wer Colombo erleben will wie die Einheimischen es kennen, und wer kein Problem hat, für [Sehenswürdigkeiten](https://www.tiqets.com/) ein Tuk-Tuk zu nehmen, ist hier richtig.
 
 **Für wen:** Sparfüchse, Langzeitreisende, alle die Authentizität über Komfort stellen.
 

@@ -48,7 +48,7 @@ Verlinke deine Reiseplanung am besten direkt mit [Wo übernachten in Prag](/blog
 
 Das Stadtzentrum rund um den Warschauer Hauptbahnhof (Warszawa Centralna) ist das praktischste Viertel für Reisende mit Zug-Verbindungen. Business-Hotels, günstige Mittelklasse-Unterkünfte und direkte Tram-Verbindungen in alle Richtungen.
 
-Preislich ist das Zentrum die günstigste Option nahe der Sehenswürdigkeiten. 3-Sterne-Hotels: 70 bis 110 Euro. Wer früh bucht, findet solide Apartments ab 50 Euro.
+Preislich ist das Zentrum die günstigste Option nahe der [Sehenswürdigkeiten](https://www.tiqets.com/). 3-Sterne-Hotels: 70 bis 110 Euro. Wer früh bucht, findet solide Apartments ab 50 Euro.
 
 **Empfehlungen:**
 - **ibis Warszawa Centrum** (zuverlässig, direkt am Bahnhof, ca. 75 Euro)

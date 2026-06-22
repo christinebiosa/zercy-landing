@@ -68,7 +68,7 @@ Speichere deine Wüstenziele im [Zercy Logbook](https://www.zercy.app/logbook), 
 ## Häufige Fragen
 
 ### Welche Wüste ist am leichtesten zu bereisen?
-Die Sahara in Marokko (Erg Chebbi, Merzouga) ist der zugänglichste Wüsten-Einstieg weltweit. Gute Infrastruktur, viele geführte Touren, günstiger Einstieg ab 40 Euro für Tagestouren. Kein Visum nötig für EU-Bürger, direkte Flüge von Europa nach Marrakesch oder Casablanca, dann 9-10 Stunden Fahrt oder Overnight-Bus.
+Die Sahara in Marokko (Erg Chebbi, Merzouga) ist der zugänglichste Wüsten-Einstieg weltweit. Gute Infrastruktur, viele [geführte Touren](https://www.tiqets.com/), günstiger Einstieg ab 40 Euro für Tagestouren. Kein Visum nötig für EU-Bürger, direkte Flüge von Europa nach Marrakesch oder Casablanca, dann 9-10 Stunden Fahrt oder Overnight-Bus.
 
 ### Wann sollte man Wadi Rum besuchen?
 Die beste Zeit ist März bis Mai und Oktober bis November. Die Temperaturen sind dann angenehm (20-30 Grad tagsüber, 10-15 Grad nachts). Der jordanische Sommer (Juni bis August) bringt bis zu 40 Grad. Im Winter (Dezember bis Februar) sind die Tage perfekt, die Nächte kalt (unter 5 Grad, manchmal Frost).

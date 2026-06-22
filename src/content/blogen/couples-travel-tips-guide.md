@@ -23,7 +23,7 @@ Accommodation matters more than you'd think. Airbnb apartments or hotels with mo
 
 ## How Do You Plan When You Have Different Interests?
 
-This is the most common question. One partner wants culture, museums, guided tours. The other wants beach, pool, and nothing else. The bad solution: one person gives in and is quietly unhappy. The good solution: you split the days.
+This is the most common question. One partner wants culture, museums, [guided tours](https://www.tiqets.com/). The other wants beach, pool, and nothing else. The bad solution: one person gives in and is quietly unhappy. The good solution: you split the days.
 
 A pattern that works for 7-day trips: 2 days for culture, 2 days for beach, 1 day for joint planning, 2 days mixed. Or: mornings together, each afternoon your own. This "solo time on vacation" isn't a failure. For many couples, it's exactly why they still enjoy each other's company at the end of the trip.
 

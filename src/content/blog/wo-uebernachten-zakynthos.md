@@ -46,7 +46,7 @@ Wenn du Zakynthos mit anderen griechischen Inseln vergleichen oder eine Rundreis
 
 ## Wann ist die beste Reisezeit für Zakynthos?
 
-Mitte Juni bis Ende September ist die Hauptsaison. Die Hochphase der Schildkröten-Nistsaison ist von Mai bis August. Wenn du Schildkröten am Strand sehen möchtest (ohne sie zu stören), kommen geführte Touren mit dem Meeresbiologen ab Ende Mai in Frage.
+Mitte Juni bis Ende September ist die Hauptsaison. Die Hochphase der Schildkröten-Nistsaison ist von Mai bis August. Wenn du Schildkröten am Strand sehen möchtest (ohne sie zu stören), kommen [geführte Touren](https://www.tiqets.com/) mit dem Meeresbiologen ab Ende Mai in Frage.
 
 Juli und August sind am heißesten und teuersten. Der Shipwreck Beach ist dann überfüllt. Juni oder September sind die bessere Wahl: weniger Andrang, ähnlich warmes Wasser, bis zu 30% günstigere Preise. Im Oktober schließen viele Betriebe, aber die Ruhe ist bemerkenswert.
 

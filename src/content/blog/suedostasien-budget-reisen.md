@@ -39,7 +39,7 @@ Bangkok → Chiang Mai → Laos (Luang Prabang, Vang Vieng) → Hanoi → Halong
 Kambodscha → Vietnam → Laos → Thailand. Vorteil: du startest mit den günstigsten Ländern, wenn dein Budget noch frisch ist.
 
 **Bali als Ergänzung:**
-Bali funktioniert am besten als separater Block am Anfang oder Ende. Günstige Flüge ab Singapur, Kuala Lumpur oder direkt aus Europa. Wer statt Bali eine ruhigere Inseloption sucht, ist Langkawi in Malaysia eine günstige Alternative mit weniger Tourismushype: der [Langkawi Hotelguide](/blog/wo-uebernachten-langkawi/) zeigt, wo man am besten schläft.
+Bali funktioniert am besten als separater Block am Anfang oder Ende. [Günstige Flüge](https://www.aviasales.com/) ab Singapur, Kuala Lumpur oder direkt aus Europa. Wer statt Bali eine ruhigere Inseloption sucht, ist Langkawi in Malaysia eine günstige Alternative mit weniger Tourismushype: der [Langkawi Hotelguide](/blog/wo-uebernachten-langkawi/) zeigt, wo man am besten schläft.
 
 Interne Verbindungen: **Overnight-Busse** sind die günstigste Option. Ein Schlafbus von Hanoi nach Hue kostet 8-15 EUR und spart eine Hotelübernachtung. Züge in Vietnam sind empfehlenswert: komfortabler als Busse, Preise moderat. Fähren zwischen Inseln (Thailand/Kambodscha): 5-15 EUR.
 

@@ -77,7 +77,7 @@ Lissabon ist noch günstiger als Barcelona oder Rom, aber die Preise sind in den
 
 **Transport:** Ein Tagesticket für Metro, Bus und Tram kostet 2 Euro. Damit kommst du überall hin. Nur Belém ist etwas abgelegen, da ist Uber schneller.
 
-**Sehenswürdigkeiten:** Jerónimos-Kloster 15 Euro, Torre de Belém 10 Euro. Der Miradouro da Graça ist kostenlos. Feira da Ladra ist kostenlos. Der Rest der Stadt auch.
+**[Sehenswürdigkeiten](https://www.tiqets.com/):** Jerónimos-Kloster 15 Euro, Torre de Belém 10 Euro. Der Miradouro da Graça ist kostenlos. Feira da Ladra ist kostenlos. Der Rest der Stadt auch.
 
 Für zwei Personen über ein Wochenende bist du mit 400 bis 600 Euro dabei, ohne Flug und Unterkunft.
 

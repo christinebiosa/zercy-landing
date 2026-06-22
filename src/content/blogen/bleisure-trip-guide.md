@@ -28,7 +28,7 @@ Not every business destination invites you to stay. Some cities are purely funct
 
 **Singapore** is often a natural stopover for Asia travel. Safe, walkable, outstanding food at every price point from hawker centres to fine dining. Infrastructure is reliable. After a week of meetings, a couple of nights to explore Chinatown, Kampong Glam, or the Botanic Gardens is a complete reset.
 
-**Amsterdam** is compact and dense with things to do. A conference at the RAI convention centre practically demands a weekend extension. Rijksmuseum, Jordaan, Noord: everything is close, flights home are cheap, and hotel prices drop sharply on Sundays.
+**Amsterdam** is compact and dense with [things to do](https://www.tiqets.com/). A conference at the RAI convention centre practically demands a weekend extension. Rijksmuseum, Jordaan, Noord: everything is close, flights home are cheap, and hotel prices drop sharply on Sundays.
 
 **Barcelona** and **New York** round out the top five. Barcelona because the city's energy only fully lands when you're not rushing between agenda items. New York because no amount of time there ever feels wasted.
 

@@ -58,7 +58,7 @@ Ja, Bali hat Regenzeit im Dezember. Aber die Regenschauer kommen meist nachmitta
 Wetter ist nur ein Faktor. Schau auch auf lokale Feiertage, die Preise in der Hochsaison deiner Herkunftsland-Airlines und Events. Viele unterschätzen, wie sehr europäische Schulferien die Flugpreise weltweit beeinflussen. Der clevere Move: Herbstferien nutzen oder direkt nach dem Peak-Sommer fliegen.
 
 **Interne Reiseplanung-Links:**
-- [Günstig fliegen Tipps](/blog/guenstig-fliegen-tipps/) erklärt, wie du in jedem Monat günstige Flüge findest.
+- [Günstig fliegen Tipps](/blog/guenstig-fliegen-tipps/) erklärt, wie du in jedem Monat [günstige Flüge](https://www.aviasales.com/) findest.
 - [Wann Flüge buchen](/blog/wann-fluege-buchen/) zeigt, wie weit im Voraus du buchen solltest.
 - [Nur Handgepäck](/blog/nur-handgepaeck/) spart dir an Kosten, egal wohin du fliegst.
 

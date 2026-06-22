@@ -45,7 +45,7 @@ Die Presqu'île ist das Herz von Lyon. Place Bellecour (größter Platz Frankrei
 
 **Top-Picks:** Le Royal Lyon MGallery (Premium am Place Bellecour), Hôtel Le Boulevardier (Boutique mit Charme), Mama Shelter Lyon (Mittelklasse, lebendige Atmosphäre, gutes Restaurant).
 
-Die offizielle Lyon-Tourismus-Website [lyon-france.com](https://www.lyon-france.com/de) bietet eine übersichtliche Stadtteil-Karte mit Sehenswürdigkeiten.
+Die offizielle Lyon-Tourismus-Website [lyon-france.com](https://www.lyon-france.com/de) bietet eine übersichtliche Stadtteil-Karte mit [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ## Croix-Rousse: Das bobo-Viertel der Seidenweber
 

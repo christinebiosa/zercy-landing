@@ -57,7 +57,7 @@ Madeira es más barata que el Portugal continental y significativamente más eco
 
 Alojamiento: €60-100 por noche para una buena habitación doble. Hoteles de cinco estrellas en Funchal por €180-300.
 
-Rutas de levada: gratuitas, excepto tours guiados (€40-60 por persona).
+Rutas de levada: gratuitas, excepto [tours guiados](https://www.tiqets.com/) (€40-60 por persona).
 
 Comida: almuerzo en restaurante por €10-15. El vino de Madeira (Poncha, Nikita) y el atún fresco son imprescindibles.
 

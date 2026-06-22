@@ -83,7 +83,7 @@ Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit d
 ## Häufige Fragen
 
 ### Welcher Stadtteil in Pula ist am besten für Kulturreisende?
-Die Altstadt rund um das Amphitheater und das Forum Romanum ist die erste Wahl. Alle historischen Sehenswürdigkeiten sind zu Fuß erreichbar, die besten Restaurants liegen in den Gassen der Innenstadt, und das Abendleben findet hier statt. Für Strandurlaub ist allerdings Veruda oder Stoja besser geeignet.
+Die Altstadt rund um das Amphitheater und das Forum Romanum ist die erste Wahl. Alle historischen [Sehenswürdigkeiten](https://www.tiqets.com/) sind zu Fuß erreichbar, die besten Restaurants liegen in den Gassen der Innenstadt, und das Abendleben findet hier statt. Für Strandurlaub ist allerdings Veruda oder Stoja besser geeignet.
 
 ### Wann ist der beste Zeitpunkt für Pula ohne Massen?
 Juni und September sind der Sweet Spot: Das Meer ist warm genug zum Baden, die Hauptsaison ist vorbei oder noch nicht angekommen, die Preise liegen deutlich unter August-Niveau, und das Amphitheater ist gut besuchbar ohne Warteschlangen. Oktober ist perfekt für Feinschmecker wegen der Trüffelsaison.

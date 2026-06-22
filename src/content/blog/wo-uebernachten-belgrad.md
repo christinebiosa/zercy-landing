@@ -106,7 +106,7 @@ Belgrad ist eines der günstigsten europäischen Ziele. Guesthouses und Hostels:
 
 ### Welcher Stadtteil ist für Erstbesucher am besten?
 
-Stari Grad (Altstadt) ist die beste Wahl für erste Belgrad-Besuche. Alles ist zu Fuß erreichbar: Kalemegdan-Festung, Knez Mihailova, Nationalmuseum, erste Kafana-Erfahrungen. Hotels wie das Hotel Moskva sind selbst Sehenswürdigkeiten. Savamala für alle, die auch Nachtleben auf dem Plan haben.
+Stari Grad (Altstadt) ist die beste Wahl für erste Belgrad-Besuche. Alles ist zu Fuß erreichbar: Kalemegdan-Festung, Knez Mihailova, Nationalmuseum, erste Kafana-Erfahrungen. Hotels wie das Hotel Moskva sind selbst [Sehenswürdigkeiten](https://www.tiqets.com/). Savamala für alle, die auch Nachtleben auf dem Plan haben.
 
 ### Wann ist Savamala am besten besucht?
 

@@ -45,7 +45,7 @@ En invierno: auroras boreales, nieve en los géisers de Geysir, paseos en motoni
 
 En verano: Tierras Altas, puffins, sol de medianoche, senderismo en Þórsmörk y Landmannalaugar, whale watching (de abril a octubre, con más actividad en verano).
 
-Para los detalles de qué ver y qué hacer, la guía de [Islandia: guía de viaje completa](/es/blog/islandia-guia-viaje/) tiene el desglose por zonas del país. Si el objetivo principal son las auroras, la guía de [auroras boreales 2026: dónde y cuándo](/es/blog/auroras-boreales-2026/) te explica todos los factores que influyen y los mejores puntos de observación.
+Para los detalles de qué ver y [qué hacer](https://www.tiqets.com/), la guía de [Islandia: guía de viaje completa](/es/blog/islandia-guia-viaje/) tiene el desglose por zonas del país. Si el objetivo principal son las auroras, la guía de [auroras boreales 2026: dónde y cuándo](/es/blog/auroras-boreales-2026/) te explica todos los factores que influyen y los mejores puntos de observación.
 
 Para el alojamiento en Reikiavik, consulta [dónde alojarse en Reikiavik](/es/blog/donde-alojarse-reikiavik/): hay diferencia significativa entre quedarse en el centro y en los barrios periféricos.
 

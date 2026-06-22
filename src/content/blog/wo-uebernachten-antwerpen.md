@@ -35,7 +35,7 @@ Das Herz der Stadt. Hier steht die Liebfrauenkathedrale mit Rubens-Meisterwerken
 
 **Top-Picks:** Hotel De Witte Lelie (5-Sterne Boutique-Luxus in drei restaurierten Patrizierhäusern, einer der schönsten Innenhöfe der Stadt), Hotel Julien (urbanes Boutique-Hotel, ruhig trotz zentraler Lage, Dachterrasse), Radisson RED Antwerp (Design-Hotel direkt an der Haupteinkaufsstraße, modern und lifestylig). Diese und 400+ weitere Antwerpen-Hotels findest du auf [Booking.com](https://www.booking.com) mit Stadtteil-Filter und kostenlosem Storno.
 
-Das [offizielle Tourismusbüro Visit Antwerpen](https://www.visitantwerpen.be) hat eine kuratierte Übersicht aller Stadtteile und Sehenswürdigkeiten.
+Das [offizielle Tourismusbüro Visit Antwerpen](https://www.visitantwerpen.be) hat eine kuratierte Übersicht aller Stadtteile und [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ## Het Zuid: Kunst, Genuss und das hippe Antwerpen
 

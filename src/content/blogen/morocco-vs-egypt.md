@@ -84,4 +84,4 @@ For Morocco, March to May and September to October are ideal: mild temperatures,
 For Morocco, 10 days is the recommended minimum: 3 days Marrakech, 1-2 days Sahara detour, 2 days Fès, plus travel days. For Egypt, 8-12 days is the sweet spot: 2-3 days Cairo including Pyramids, 2-3 days Luxor, optional Aswan and Nile cruise extension.
 
 ### Which is better for a first trip to North Africa?
-Morocco. The independent travel infrastructure is better developed, French is widely spoken alongside increasingly common English, and the country feels more approachable without prior regional experience. Egypt is also very doable, but first-time visitors often get more out of it with a guided tour or an experienced travel companion.
+Morocco. The independent travel infrastructure is better developed, French is widely spoken alongside increasingly common English, and the country feels more approachable without prior regional experience. Egypt is also very doable, but first-time visitors often get more out of it with a [guided tour](https://www.tiqets.com/) or an experienced travel companion.

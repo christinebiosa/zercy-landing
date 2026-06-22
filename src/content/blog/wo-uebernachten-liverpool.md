@@ -29,7 +29,7 @@ Hier die ehrliche Übersicht. 5 Stadtteile, was sie kosten, für wen sie passen.
 
 Das Waterfront ist Liverpools stärkstes Bild: die Drei Grazien (Royal Liver Building, Cunard Building, Port of Liverpool Building) über dem Mersey, davor der Albert Dock mit Restaurants, Museen und dem Tate Liverpool. Alles hier ist Weltkulturerbe. Die Beatles-Story, das Maritime Museum, das Museum of Liverpool liegen alle im Fußweg. Vom Waterfront erreichst du den Rest der Innenstadt in 10-15 Minuten zu Fuß.
 
-**Wer hier richtig liegt:** Erstbesucher, Beatles-Fans, Städtereisende, alle die maximale Nähe zu Sehenswürdigkeiten wollen.
+**Wer hier richtig liegt:** Erstbesucher, Beatles-Fans, Städtereisende, alle die maximale Nähe zu [Sehenswürdigkeiten](https://www.tiqets.com/) wollen.
 
 **Preise pro Nacht:** Mittelklasse 100-190 Euro, Boutique 160-280 Euro, Premium 280-500 Euro.
 

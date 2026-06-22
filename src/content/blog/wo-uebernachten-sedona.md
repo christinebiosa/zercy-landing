@@ -63,7 +63,7 @@ Familien mit Kindern fahren im Village of Oak Creek am besten. Die Trails sind k
 
 Sedona hat eine überschaubare Hotellandschaft. Auf Booking.com findest du über 200 Unterkünfte in und um Sedona, mit echter Stadtteil-Filterung und echten Gästebewertungen. Besonders praktisch: Du kannst direkt nach "Sedona Uptown", "Village of Oak Creek" oder "West Sedona" filtern und bekommst tagesaktuell die besten verfügbaren Preise. In der Hochsaison (März-Mai) buche mindestens 6-8 Wochen vorher. Im Winter reichen 2-3 Wochen Vorlauf.
 
-Die [Visit Sedona Tourismusbehörde](https://www.visitsedona.com) hat eine hilfreiche Karte aller Stadtteile und Sehenswürdigkeiten, die beim Planen der Lage hilft.
+Die [Visit Sedona Tourismusbehörde](https://www.visitsedona.com) hat eine hilfreiche Karte aller Stadtteile und [Sehenswürdigkeiten](https://www.tiqets.com/), die beim Planen der Lage hilft.
 
 ---
 

@@ -9,7 +9,7 @@ heroImage: "/img/blog/ho-chi-minh.jpg"
 bookingDest: "Ho Chi Minh City"
 ---
 
-Ho-Chi-Minh-Stadt (Saigon) ist der pulsierende Süden Vietnams. 10 Millionen Einwohner, 5 Millionen Motorräder, kaum Ampeln und überraschend wenig Chaos für westliche Augen. Die Stadt ist laut, lebendig und hat das beste Straßenessen Asiens. 5 Millionen Besucher im Jahr. Das Distrikt entscheidet über Preislage, Lärmpegel und Nähe zu Sehenswürdigkeiten.
+Ho-Chi-Minh-Stadt (Saigon) ist der pulsierende Süden Vietnams. 10 Millionen Einwohner, 5 Millionen Motorräder, kaum Ampeln und überraschend wenig Chaos für westliche Augen. Die Stadt ist laut, lebendig und hat das beste Straßenessen Asiens. 5 Millionen Besucher im Jahr. Das Distrikt entscheidet über Preislage, Lärmpegel und Nähe zu [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 Hier der ehrliche Überblick für HCMC 2026.
 

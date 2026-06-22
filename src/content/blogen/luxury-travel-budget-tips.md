@@ -26,7 +26,7 @@ Spontaneous upgrade strategy: book the standard room at a luxury hotel, arrive a
 
 Business class for economy money is possible. Several routes:
 
-**Mistake fares:** Airlines make pricing input errors. These fares are bookable for 2-12 hours before they're corrected. Sites like Secret Flying, Airfarewatchdog, or Scott's Cheap Flights share these immediately. Those with the alert and quick fingers fly business for economy money.
+**Mistake fares:** Airlines make pricing input errors. These fares are bookable for 2-12 hours before they're corrected. Sites like Secret Flying, Airfarewatchdog, or Scott's [Cheap Flights](https://www.aviasales.com/) share these immediately. Those with the alert and quick fingers fly business for economy money.
 
 **Business downgrade fares:** Airlines offer business class on routes with overcapacity at economy prices. Frankfurt-New York in November: often $870-1,300 business instead of $3,200 list price.
 

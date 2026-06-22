@@ -8,7 +8,7 @@ readingTime: 6
 heroImage: "/img/blog/flight-ticket.jpg"
 ---
 
-El hidden city ticketing es una de las estrategias más polémicas del mundo de los vuelos baratos. La idea es comprar un vuelo con escala donde la escala es tu destino real, y bajarte ahí sin continuar al destino final del billete. El resultado: a veces pagas menos que si compraras el vuelo directo a esa escala.
+El hidden city ticketing es una de las estrategias más polémicas del mundo de los [vuelos baratos](https://www.aviasales.com/). La idea es comprar un vuelo con escala donde la escala es tu destino real, y bajarte ahí sin continuar al destino final del billete. El resultado: a veces pagas menos que si compraras el vuelo directo a esa escala.
 
 No es ilegal, pero tiene reglas, riesgos y limitaciones importantes que hay que entender antes de usarlo.
 

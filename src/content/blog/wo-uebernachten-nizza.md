@@ -45,7 +45,7 @@ Die Promenade ist das Gesicht der Stadt. Sieben Kilometer Küstenstraße, breite
 
 **Top-Picks:** Hôtel Negresco (das legendäre 5-Sterne-Haus, Wahrzeichen der Stadt), Hyatt Regency Nice Palais de la Méditerranée (moderne Luxus-Option mit Terrasse), Radisson Blu Hotel Nice (gute Lage, Pool, direkter Zugang zur Promenade).
 
-Die [Tourismus-Seite von Nizza](https://www.nicetourisme.com) gibt eine gute Übersicht über Stadtteile und Sehenswürdigkeiten für jede Reiseart.
+Die [Tourismus-Seite von Nizza](https://www.nicetourisme.com) gibt eine gute Übersicht über Stadtteile und [Sehenswürdigkeiten](https://www.tiqets.com/) für jede Reiseart.
 
 ## Wann ist die beste Reisezeit für Nizza?
 

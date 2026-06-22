@@ -23,7 +23,7 @@ Veredicto naturaleza: Costa Rica tiene la oferta más amplia y accesible. Panam�
 
 Costa Rica es caro para los estándares centroamericanos. El éxito del ecoturismo ha elevado los precios. Los hostales básicos empiezan en 15-20 dólares por noche, un almuerzo sencillo sale 7-12 dólares, la entrada al Parque Nacional Manuel Antonio cuesta 20 dólares. Visitar varios parques suma fácilmente 200-300 dólares solo en entradas.
 
-Panamá tiene precios similares pero se percibe más barato porque la infraestructura turística está menos desarrollada fuera de la Ciudad de Panamá. La capital en sí es cara. Bocas del Toro tiene hospedajes desde 20-25 dólares. Los tours guiados a zonas remotas pueden ser costosos por la logística.
+Panamá tiene precios similares pero se percibe más barato porque la infraestructura turística está menos desarrollada fuera de la Ciudad de Panamá. La capital en sí es cara. Bocas del Toro tiene hospedajes desde 20-25 dólares. Los [tours guiados](https://www.tiqets.com/) a zonas remotas pueden ser costosos por la logística.
 
 En general, el costo para un itinerario comparable es similar. Panamá tiene más variación de precios porque la calidad de la infraestructura es desigual en todo el país.
 

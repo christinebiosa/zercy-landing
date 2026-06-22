@@ -47,7 +47,7 @@ Der zweite Hebel sind Etappenziele. Statt "bis August 2.000 Euro" lieber: "bis E
 
 Was funktioniert noch gut: Bonuseinnahmen direkt aufs Reisekonto. Steuerrückerstattung, Prämien, Geburtstagsgeld. Diese Beträge fehlen im Alltag nicht, weil sie unregelmäßig kommen.
 
-Für günstige Flüge lohnt sich die Kombination aus Preisalarm bei Google Flights und den Tipps aus unserem Artikel [Günstig fliegen: Was wirklich hilft](/blog/guenstig-fliegen-tipps/). Je früher du den Flug buchst, desto weniger musst du für ihn ansparen.
+Für [günstige Flüge](https://www.aviasales.com/) lohnt sich die Kombination aus Preisalarm bei Google Flights und den Tipps aus unserem Artikel [Günstig fliegen: Was wirklich hilft](/blog/guenstig-fliegen-tipps/). Je früher du den Flug buchst, desto weniger musst du für ihn ansparen.
 
 ## Welche digitalen Tools helfen beim Budgetmanagement?
 

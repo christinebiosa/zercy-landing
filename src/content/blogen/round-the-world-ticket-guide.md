@@ -60,7 +60,7 @@ The simple rule: fewer than four long-haul flights, almost always go with indivi
 
 But price is not the only factor. Individual tickets allow more route flexibility, better stop configuration, and targeted booking timing. Knowing [when to book flights](/en/blog/when-to-book-flights/) is a separate skill that matters more for individual tickets than for RTW packages.
 
-One more thing to check: cheap flights on low-cost carriers are not included in alliance packages. If your route has a segment where a budget airline is dramatically cheaper, an RTW ticket will not help you there.
+One more thing to check: [cheap flights](https://www.aviasales.com/) on low-cost carriers are not included in alliance packages. If your route has a segment where a budget airline is dramatically cheaper, an RTW ticket will not help you there.
 
 ---
 

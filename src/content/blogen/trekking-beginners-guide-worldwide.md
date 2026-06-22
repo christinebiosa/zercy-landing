@@ -18,7 +18,7 @@ Not every "beginner trail" actually qualifies. Three factors matter: signage, in
 
 **Camino de Santiago (Camino Francés)** is the world's most famous pilgrimage route. 780 kilometres from Saint-Jean-Pied-de-Port to Santiago de Compostela. That sounds like a lot. It is. But: you walk 25 to 30 kilometres per day on well-maintained paths. Albergues every 5 to 10 kilometres. Pilgrim stamps in every village. You genuinely cannot get lost. Costs from €25 per day (bunk bed + meals). Official info at the [Pilgrim Office Santiago](https://oficinadelperegrino.com/en/).
 
-**Inca Trail Light (Salkantay Trek)** is the best alternative to the classic Inca Trail, which requires months of advance booking. The Salkantay takes 5 days through the Peruvian Andes to Machu Picchu. More dramatic in sections. Far less crowded. From €300 for a guided tour including camping equipment. Important: allow 2 days in Cusco for acclimatisation before you start.
+**Inca Trail Light (Salkantay Trek)** is the best alternative to the classic Inca Trail, which requires months of advance booking. The Salkantay takes 5 days through the Peruvian Andes to Machu Picchu. More dramatic in sections. Far less crowded. From €300 for a [guided tour](https://www.tiqets.com/) including camping equipment. Important: allow 2 days in Cusco for acclimatisation before you start.
 
 **Annapurna Circuit (shorter stages)** in Nepal. The full circuit takes 3 weeks. For beginners, the shorter routes around Pokhara work better. Poon Hill trekking (4 days) delivers the iconic mountain views without extreme altitude. Costs from €40 per day including teahouse accommodation and meals. The [Nepal Tourism Board](https://www.ntb.gov.np) publishes current permit requirements.
 

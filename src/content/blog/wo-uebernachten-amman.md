@@ -104,7 +104,7 @@ Wenn du Amman planst, sag Zercy was du suchst: Gateway für Petra, Kulturerlebni
 
 ### Welcher Stadtteil in Amman ist am besten für Erstbesucher?
 
-Downtown / Balad für Atmosphäre und Nähe zu Sehenswürdigkeiten. Jabal Amman / Rainbow Street für Komfort plus Authentizität. Shmeisani als günstiger Kompromiss wenn beides wichtig ist. Abdoun nur wenn Luxus und Ruhe über lokale Erfahrung geht.
+Downtown / Balad für Atmosphäre und Nähe zu [Sehenswürdigkeiten](https://www.tiqets.com/). Jabal Amman / Rainbow Street für Komfort plus Authentizität. Shmeisani als günstiger Kompromiss wenn beides wichtig ist. Abdoun nur wenn Luxus und Ruhe über lokale Erfahrung geht.
 
 ### Wie viele Tage sollte man in Amman einplanen?
 

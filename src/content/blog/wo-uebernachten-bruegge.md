@@ -15,7 +15,7 @@ Die Kleinheit ist der Trick und der Tücke zugleich. Brügge ist winzig. Das his
 
 ## Welcher Stadtteil passt zu welcher Reise?
 
-**Historisches Zentrum (Burg, Markt):** Mittendrin, alle Sehenswürdigkeiten zu Fuß. Teuerste Hotels, viel Betrieb tagsüber.
+**Historisches Zentrum (Burg, Markt):** Mittendrin, alle [Sehenswürdigkeiten](https://www.tiqets.com/) zu Fuß. Teuerste Hotels, viel Betrieb tagsüber.
 
 **Sint-Anna / Langerei:** Ruhigere Grachten, weniger Touristen, charmante Gassen. Für Romantik-Reisende, Fotografen.
 

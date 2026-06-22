@@ -44,7 +44,7 @@ The Varenna-Bellagio ferry costs around 5-7 EUR. Driving is not recommended (nar
 
 Puglia in the heel of the boot is the answer to the question of Italy without overtourism. Not a secret anymore, but compared to Cinque Terre or Amalfi still relaxed.
 
-**Alberobello** with its trulli houses (whitewashed round houses with cone-shaped roofs) is unique in Europe. UNESCO World Heritage. Entry is free, guided tours from around 10 EUR.
+**Alberobello** with its trulli houses (whitewashed round houses with cone-shaped roofs) is unique in Europe. UNESCO World Heritage. Entry is free, [guided tours](https://www.tiqets.com/) from around 10 EUR.
 
 **Polignano a Mare** has white cliffs above crystal-clear water. The beach bar carved directly into the cliff is one of Italy's most iconic photos. Park outside the center and walk in. The beach is partly free, reserved sections around 15-20 EUR for a lounger.
 

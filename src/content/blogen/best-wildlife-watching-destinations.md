@@ -29,7 +29,7 @@ Both are extraordinary, but for different wildlife enthusiasts.
 
 **Borneo:** The only place on earth to see wild orangutans. At Tanjung Puting National Park in Kalimantan, Indonesia, you travel by klotok boat along the river and spot orangutans in their natural habitat. Also pygmy elephants, proboscis monkeys, and pygmy hippos. A four-day klotok tour starts at around 300-500 dollars. The Borneo rainforest is the oldest in the world at roughly 130 million years. Best time: March to October.
 
-**Pantanal (Brazil and Bolivia):** The world's largest tropical wetland is the best place to see jaguars in the wild. Not in the distance, but close: sometimes just 10-20 metres away. Giant caimans, giant river otters, hyacinth macaws. The Pantanal sees far fewer tourists than the Amazon and offers much clearer sightlines. Access via Campo Grande or Cuiabá. Guided tours start at 150-300 dollars per day. Best time: July to October when water levels drop and animals concentrate around water sources.
+**Pantanal (Brazil and Bolivia):** The world's largest tropical wetland is the best place to see jaguars in the wild. Not in the distance, but close: sometimes just 10-20 metres away. Giant caimans, giant river otters, hyacinth macaws. The Pantanal sees far fewer tourists than the Amazon and offers much clearer sightlines. Access via Campo Grande or Cuiabá. [Guided tours](https://www.tiqets.com/) start at 150-300 dollars per day. Best time: July to October when water levels drop and animals concentrate around water sources.
 
 For another high-quality and more budget-friendly wildlife option, also read our [Costa Rica road trip route](/en/blog/costa-rica-road-trip-route/).
 

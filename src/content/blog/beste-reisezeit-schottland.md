@@ -14,7 +14,7 @@ Schottland ist das ganze Jahr über besuchenswert. Aber das bedeutet nicht, dass
 
 Die kurze Antwort: Mai bis September. Die längere Antwort ist komplizierter. Schottland liegt weit im Norden, und das Wetter ist das ganze Jahr über unvorhersehbar. Regen kann im Juli kommen, strahlender Sonnenschein im Februar. Was sich aber ändert: Tageslänge, Temperaturen und eben die Mücken.
 
-**Mai und Juni** sind ideal. Die Tage sind lang (bis zu 17 Stunden Tageslicht in Edinburgh), Temperaturen liegen bei angenehmen 14-18 Grad, und die Midges, die kleinen Stechmücken, sind noch kaum aktiv. Der June ist der sonnigste Monat des Jahres in großen Teilen Schottlands. Hotels sind günstiger als im Hochsommer, und die beliebtesten Sehenswürdigkeiten wie Eilean Donan Castle oder den Loch Ness sind noch nicht überlaufen.
+**Mai und Juni** sind ideal. Die Tage sind lang (bis zu 17 Stunden Tageslicht in Edinburgh), Temperaturen liegen bei angenehmen 14-18 Grad, und die Midges, die kleinen Stechmücken, sind noch kaum aktiv. Der June ist der sonnigste Monat des Jahres in großen Teilen Schottlands. Hotels sind günstiger als im Hochsommer, und die beliebtesten [Sehenswürdigkeiten](https://www.tiqets.com/) wie Eilean Donan Castle oder den Loch Ness sind noch nicht überlaufen.
 
 **Juli und August** sind Hochsaison. Das Wetter ist warm (bis 20 Grad in Edinburgh), aber die Midges sind in vollem Gange, besonders in den westlichen Highlands. Edinburgh explodiert im August wegen des Fringe Festivals: Über 3.000 Shows in drei Wochen. Preise steigen um 40-60 Prozent gegenüber dem Frühling. Buchungen für Unterkünfte, besonders auf der Insel Skye, müssen Monate im Voraus gemacht werden.
 

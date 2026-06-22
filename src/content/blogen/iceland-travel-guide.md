@@ -59,7 +59,7 @@ Iceland's glaciers lose ice every year. In 50 years they could be gone. Those wh
 
 **Jökulsárlón Glacier Lagoon**: icebergs float in a lagoon, some drift to the black Diamond Beach. 4.5 hours from Reykjavik, a full day needed.
 
-**Vatnajökull Glacier**: Europe's largest. In winter you can go inside ice caves that form anew every year. Guided tours only, from 180 euros.
+**Vatnajökull Glacier**: Europe's largest. In winter you can go inside ice caves that form anew every year. [Guided tours](https://www.tiqets.com/) only, from 180 euros.
 
 ## Volcanoes and Geothermal
 

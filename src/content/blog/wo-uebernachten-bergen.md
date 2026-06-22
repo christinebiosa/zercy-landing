@@ -39,7 +39,7 @@ Bryggen ist das erste Bild das man sieht wenn man "Bergen" googelt. Die bunten H
 
 Das Stadtzentrum von Bergen hat den Fischmarkt (Fisketorget), die Fußgängerzone Torgallmenningen und die Ulriksbanen-Seilbahn für den Panoramablick. Hier sind die meisten mittelgroßen Hotels. Weniger Charme als Bryggen, aber bessere Verbindungen und etwas günstigere Preise.
 
-**Wer hier richtig liegt:** Alle die mehrere Sehenswürdigkeiten effizient verbinden wollen, Familien, Geschäftsreisende.
+**Wer hier richtig liegt:** Alle die mehrere [Sehenswürdigkeiten](https://www.tiqets.com/) effizient verbinden wollen, Familien, Geschäftsreisende.
 
 **Preise:** Mittelklasse 100-200 Euro, Budget-Hotels 70-130 Euro.
 

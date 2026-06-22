@@ -45,7 +45,7 @@ Die Strandzone nordwestlich von Rhodos-Stadt ist ideal für Strandurlaub und Was
 
 **Top-Picks:** Atrium Platinum Luxury Resort Hotel (Premium Resort mit Meerblick), Aquagrand Exclusive Deluxe Resort (Boutique-Resort, Ixia), Miramare Beach Hotel (Mittelklasse, direkter Strandzugang).
 
-Das [Visit Rhodes Portal](https://www.visitrhodes.gr) bietet aktuelle Informationen zu Sehenswürdigkeiten und lokalen Veranstaltungen auf der Insel.
+Das [Visit Rhodes Portal](https://www.visitrhodes.gr) bietet aktuelle Informationen zu [Sehenswürdigkeiten](https://www.tiqets.com/) und lokalen Veranstaltungen auf der Insel.
 
 ## Faliraki: Für die Partygänger
 

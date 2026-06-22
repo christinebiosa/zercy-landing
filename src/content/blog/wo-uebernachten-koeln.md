@@ -27,7 +27,7 @@ Die Kölner wissen, wo was ist. Nordrhein-Westfalen-Tourismus, Messe und Dom-Bes
 
 ## Altstadt-Nord: Im Schatten des Doms
 
-Wer Köln das erste Mal besucht, landet in der Altstadt. Der Kölner Dom (UNESCO-Welterbe) überragt alles. Dahinter: Römisch-Germanisches Museum, Museum Ludwig (Moderner Kunst), Promenade am Rhein, Hohe Straße als Einkaufsmeile. Fußgängerzone und S-Bahn zu allen Stadtteilen. Das [Kölntourismus-Büro](https://www.cologne-tourism.com) hat alle Sehenswürdigkeiten, Führungen und Tickets.
+Wer Köln das erste Mal besucht, landet in der Altstadt. Der Kölner Dom (UNESCO-Welterbe) überragt alles. Dahinter: Römisch-Germanisches Museum, Museum Ludwig (Moderner Kunst), Promenade am Rhein, Hohe Straße als Einkaufsmeile. Fußgängerzone und S-Bahn zu allen Stadtteilen. Das [Kölntourismus-Büro](https://www.cologne-tourism.com) hat alle [Sehenswürdigkeiten](https://www.tiqets.com/), Führungen und Tickets.
 
 **Wer hier richtig liegt:** Erstbesucher, Städtetrip-Reisende (2-3 Nächte), Dom-Besucher, Familien.
 

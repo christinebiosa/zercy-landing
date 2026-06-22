@@ -28,7 +28,7 @@ La pregunta "¿agencia de viajes o IA?" es un falso dilema en la mayoría de cas
 
 **Grupos grandes y viajes corporativos:** coordinar un viaje de empresa de 30 personas con vuelos, hoteles, actividades y logística en varios destinos es un caso donde la agencia tiene herramientas y relaciones que la IA no puede replicar.
 
-**Resolución de problemas en tiempo real:** cuando el vuelo se cancela, el hotel no tiene la reserva y la agencia de alquiler de coches cierra a las 18h, tener a alguien con poder para solucionar es invaluable. La IA te puede decir qué hacer, pero no puede llamar al hotel ni hacer el cambio de reserva por ti.
+**Resolución de problemas en tiempo real:** cuando el vuelo se cancela, el hotel no tiene la reserva y la agencia de alquiler de coches cierra a las 18h, tener a alguien con poder para solucionar es invaluable. La IA te puede decir [qué hacer](https://www.tiqets.com/), pero no puede llamar al hotel ni hacer el cambio de reserva por ti.
 
 ## ¿Cuándo usar cada opción?
 

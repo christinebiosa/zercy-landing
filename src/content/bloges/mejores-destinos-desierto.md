@@ -66,7 +66,7 @@ Guarda la selección en tu [Zercy Logbook](https://www.zercy.app/logbook) para t
 ## Preguntas frecuentes
 
 ### ¿Qué desierto es el más fácil de visitar?
-El Sahara en Marruecos (Erg Chebbi, Merzouga) es el punto de entrada más accesible al desierto en el mundo. Buena infraestructura, muchos tours guiados, precios asequibles desde unos 40 euros para excursiones de un día. Sin visa para ciudadanos de la UE, vuelos directos desde Europa a Marrakech o Casablanca, luego 9-10 horas de carretera o autobús nocturno.
+El Sahara en Marruecos (Erg Chebbi, Merzouga) es el punto de entrada más accesible al desierto en el mundo. Buena infraestructura, muchos [tours guiados](https://www.tiqets.com/), precios asequibles desde unos 40 euros para excursiones de un día. Sin visa para ciudadanos de la UE, vuelos directos desde Europa a Marrakech o Casablanca, luego 9-10 horas de carretera o autobús nocturno.
 
 ### ¿Cuándo hay que visitar Wadi Rum?
 La mejor época es de marzo a mayo y de octubre a noviembre. Las temperaturas son agradables (20-30 grados de día, 10-15 de noche). El verano jordano (junio a agosto) llega a 40 grados. En invierno (diciembre a febrero) los días son perfectos pero las noches son frías (por debajo de 5 grados, a veces helada).

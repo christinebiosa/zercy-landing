@@ -107,7 +107,7 @@ Wenn du Mérida planst und noch nicht weißt welche Stadtteile am besten zu dein
 
 ### Welcher Stadtteil von Mérida ist am besten für Erstbesucher?
 
-Das Centro Histórico ist die klare erste Wahl. Alle wichtigen Sehenswürdigkeiten sind zu Fuß erreichbar, die Atmosphäre ist authentisch und die Auswahl an Restaurants und Märkten direkt vor der Tür. Wer mehr Ruhe und Eleganz will, wechselt zum Paseo de Montejo.
+Das Centro Histórico ist die klare erste Wahl. Alle wichtigen [Sehenswürdigkeiten](https://www.tiqets.com/) sind zu Fuß erreichbar, die Atmosphäre ist authentisch und die Auswahl an Restaurants und Märkten direkt vor der Tür. Wer mehr Ruhe und Eleganz will, wechselt zum Paseo de Montejo.
 
 ### Wie weit ist Mérida von Chichén Itzá entfernt?
 

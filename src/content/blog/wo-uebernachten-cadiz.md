@@ -16,7 +16,7 @@ Zum Sightseeing kommt der Strand. La Caleta, Playa de la Victoria - Cádiz hat S
 
 Eine kurze Übersicht:
 
-- **Altstadt (Casco Antiguo)**: Eng, historisch, lebendig. Alle Sehenswürdigkeiten zu Fuß erreichbar. Für Kulturreisende und Paare.
+- **Altstadt (Casco Antiguo)**: Eng, historisch, lebendig. Alle [Sehenswürdigkeiten](https://www.tiqets.com/) zu Fuß erreichbar. Für Kulturreisende und Paare.
 - **Barrio La Viña**: Das Partyherz von Cádiz, direkt an La Caleta. Abends laut und lebendig. Für junge Reisende und alle, die den echten Cádiz-Flair wollen.
 - **Playa de la Victoria**: Modernes Strandviertel, ruhiger, besser für Familien. Etwas außerhalb des historischen Kerns.
 - **El Pópulo / San Juan de Dios**: Historische Plätze mit Restaurants und Bars, gute Mischung aus Tradition und Leben.

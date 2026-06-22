@@ -88,7 +88,7 @@ In der Altstadt (Barri Vell) zahlst du 90-200 Euro pro Nacht in Boutique-Hotels.
 Der Bahnhof liegt im Eixample, gut 10 Minuten Fußweg von der Altstadt. Hotels im Eixample oder direkt in der Altstadt sind am bequemsten ohne Auto. Parkplätze in der Altstadt gibt es kaum, wer mit dem Auto kommt, parkt besser im Eixample.
 
 ### Wie viele Tage sollte ich in Girona einplanen?
-2 Nächte reichen für die Sehenswürdigkeiten der Stadt: Kathedrale, El Call, Stadtmauern, Flussweg am Onyar. Wer auch die Umgebung (Costa Brava, Dalí-Museum in Figueres) einbaut, plant lieber 3-4 Nächte.
+2 Nächte reichen für die [Sehenswürdigkeiten](https://www.tiqets.com/) der Stadt: Kathedrale, El Call, Stadtmauern, Flussweg am Onyar. Wer auch die Umgebung (Costa Brava, Dalí-Museum in Figueres) einbaut, plant lieber 3-4 Nächte.
 
 ### Welcher Stadtteil ist am besten für Familien mit Kindern?
 Das Eixample ist für Familien praktischer als die Altstadt: breitere Gehwege, mehr Parkoptionen, ruhigere Straßen. Hotels im Eixample haben oft größere Zimmer und Parkplätze. Die Altstadt hingegen hat viele Treppen und Kopfsteinpflaster, mit Kinderwagen anstrengend.

@@ -84,7 +84,7 @@ Zercy baut die aktuellen Flugpreise direkt in jeden Reiseplan ein. Gib dein Ziel
 
 ### Was macht eine Stadt zum Übertourismus-Hotspot?
 
-Übertourismus entsteht, wenn die Besucherzahlen die Kapazität einer Stadt dauerhaft übersteigen. Indikatoren: steigende Mietpreise, Verdrängung von Einheimischen, überfüllte Sehenswürdigkeiten, qualitative Verschlechterung der Touristeninfrastruktur (mehr Souvenirläden, weniger echte Lokale). Venedig, Barcelona und Amsterdam haben in den letzten Jahren Besucherbeschränkungen und Sondersteuern eingeführt.
+Übertourismus entsteht, wenn die Besucherzahlen die Kapazität einer Stadt dauerhaft übersteigen. Indikatoren: steigende Mietpreise, Verdrängung von Einheimischen, überfüllte [Sehenswürdigkeiten](https://www.tiqets.com/), qualitative Verschlechterung der Touristeninfrastruktur (mehr Souvenirläden, weniger echte Lokale). Venedig, Barcelona und Amsterdam haben in den letzten Jahren Besucherbeschränkungen und Sondersteuern eingeführt.
 
 ### Warum sind Alternativen wie Lecce oder Bilbao noch nicht so überlaufen?
 

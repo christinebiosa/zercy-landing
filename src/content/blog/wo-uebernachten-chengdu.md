@@ -76,7 +76,7 @@ Lass Zercy die besten Chengdu-Hotels für dein Budget und deinen Reisestil finde
 ## Häufige Fragen
 
 ### Welcher Stadtteil in Chengdu ist am besten für Erstbesucher?
-Tianfu Square ist die logischste Wahl. Der Stadtteil ist Metroknotenpunkt, liegt zentral und hat Hotels für jedes Budget. Von hier aus erreichst du alle wichtigen Sehenswürdigkeiten in 20-30 Minuten. Wer Atmosphäre über Effizienz stellt, wählt alternativ Kuanzhai Alley.
+Tianfu Square ist die logischste Wahl. Der Stadtteil ist Metroknotenpunkt, liegt zentral und hat Hotels für jedes Budget. Von hier aus erreichst du alle wichtigen [Sehenswürdigkeiten](https://www.tiqets.com/) in 20-30 Minuten. Wer Atmosphäre über Effizienz stellt, wählt alternativ Kuanzhai Alley.
 
 ### Wie kommt man von Chengdu zur Panda-Forschungsbasis?
 Die Chengdu Research Base of Giant Panda Breeding liegt in Chenghua, etwa 10 km nördlich des Zentrums. Mit der Metro Linie 3 bis Xiongmao Dadao (Panda Avenue) dauert die Fahrt vom Stadtzentrm rund 30 Minuten. Taxi ab Zentrum: ca. 30-40 Yuan, 20-25 Minuten. Am frühen Morgen (vor 9 Uhr) ist es deutlich ruhiger und die Pandas sind aktiver.

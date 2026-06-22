@@ -79,7 +79,7 @@ Beschreibe Zercy deinen Osaka-Trip: Erstbesuch, Foodie-Tour, oder Basis für Kyo
 
 ### Welches Viertel ist am besten für einen Erstbesuch in Osaka?
 
-Namba ist die standardmäßig richtige Wahl für Erstbesucher. Dotonbori ist zu Fuß erreichbar, alle wichtigen Sehenswürdigkeiten sind gut angebunden, die Atmosphäre ist unverkennbar osaka-typisch. Umeda ist die zweite gute Wahl für alle die auch nach Kyoto wollen.
+Namba ist die standardmäßig richtige Wahl für Erstbesucher. Dotonbori ist zu Fuß erreichbar, alle wichtigen [Sehenswürdigkeiten](https://www.tiqets.com/) sind gut angebunden, die Atmosphäre ist unverkennbar osaka-typisch. Umeda ist die zweite gute Wahl für alle die auch nach Kyoto wollen.
 
 ### Wie weit ist Osaka von Tokio entfernt?
 

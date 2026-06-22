@@ -15,7 +15,7 @@ Die Wahl des Stadtteils entscheidet über deine gesamte Mumbai-Erfahrung. Touris
 
 ## Welcher Stadtteil passt zu welcher Reise?
 
-**Colaba:** Das touristische Zentrum. Gateway of India, Taj Mahal Palace Hotel, Leopold Cafe. Für Erstbesucher und alle die Sehenswürdigkeiten im Fußweg wollen.
+**Colaba:** Das touristische Zentrum. Gateway of India, Taj Mahal Palace Hotel, Leopold Cafe. Für Erstbesucher und alle die [Sehenswürdigkeiten](https://www.tiqets.com/) im Fußweg wollen.
 
 **Bandra:** Hip, jung, kreativ. Cafés, Restaurants, Bollywood-Stars wohnen hier. Für alle die Mumbai von der coolen Seite erleben wollen.
 

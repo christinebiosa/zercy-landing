@@ -104,7 +104,7 @@ Rainfall risk January Cairns: high. Sydney: low. Hotel prices: 80-300 EUR.
 
 ## When Should You Book for a January Holiday?
 
-**October and November are the optimal booking window** for January travel. Flight prices are still moderate and hotel availability in popular destinations is reasonable. The Canary Islands and Maldives are popular last-minute destinations, but good properties and cheap flights are often gone by November.
+**October and November are the optimal booking window** for January travel. Flight prices are still moderate and hotel availability in popular destinations is reasonable. The Canary Islands and Maldives are popular last-minute destinations, but good properties and [cheap flights](https://www.aviasales.com/) are often gone by November.
 
 For those looking to [fly cheap](/en/blog/cheap-flights-tips/): favor Tuesday and Wednesday departures, early morning or late night. Set price alerts on Google Flights.
 

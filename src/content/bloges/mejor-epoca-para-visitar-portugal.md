@@ -10,7 +10,7 @@ bookingDest: "Portugal"
 ---
 Portugal es uno de esos destinos que funciona casi todo el año. El sol es generoso, la costa es espectacular, y hasta en enero las temperaturas son suficientemente suaves para una escapada urbana. El reto no está en encontrar un buen momento para ir. Está en descubrir cuál de esos buenos momentos encaja con lo que quieres hacer.
 
-Esta guía lo desglosa con honestidad: estación por estación, propósito por propósito. Tanto si buscas playas en el Algarve, callejuelas en Oporto o vuelos baratos, al terminar sabrás exactamente cuándo reservar.
+Esta guía lo desglosa con honestidad: estación por estación, propósito por propósito. Tanto si buscas playas en el Algarve, callejuelas en Oporto o [vuelos baratos](https://www.aviasales.com/), al terminar sabrás exactamente cuándo reservar.
 
 ## ¿Cuándo es la mejor época para visitar Portugal?
 

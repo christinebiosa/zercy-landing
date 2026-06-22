@@ -14,7 +14,7 @@ Zwei Routen dominieren die Backpacking-Szene in Europa: die Westeuropa-Runde und
 
 ## Welche Route passt zu dir: West oder Ost?
 
-**Westeuropa-Route:** London → Paris → Barcelona → Lissabon (zurück via Zug oder Flug). Diese Route ist die klassischste aller Backpacking-Routen. Du bewegst dich entlang der Atlantikküste, fährst durch Großstädte mit ikonischen Sehenswürdigkeiten und landest am Ende in einer der schönsten Hauptstädte des Kontinents. Die Kehrseite: Westeuropa ist teuer. Rechne mit 50 bis 80 Euro pro Tag für Unterkunft, Essen und Transport.
+**Westeuropa-Route:** London → Paris → Barcelona → Lissabon (zurück via Zug oder Flug). Diese Route ist die klassischste aller Backpacking-Routen. Du bewegst dich entlang der Atlantikküste, fährst durch Großstädte mit ikonischen [Sehenswürdigkeiten](https://www.tiqets.com/) und landest am Ende in einer der schönsten Hauptstädte des Kontinents. Die Kehrseite: Westeuropa ist teuer. Rechne mit 50 bis 80 Euro pro Tag für Unterkunft, Essen und Transport.
 
 **Osteuropa-Route:** Berlin → Prag → Wien → Budapest → Belgrad → Athen. Diese Route führt dich durch Städte, die weniger verbraucht wirken als die westeuropäischen Klassiker. Prag ist touristisch, ja. Aber Belgrad ist es nicht. Budapest liegt irgendwo dazwischen. Das Budget fällt hier deutlich entspannter aus: 30 bis 50 Euro pro Tag sind realistisch, wenn du dich anstellst.
 

@@ -45,7 +45,7 @@ Die Nationalquai-Promenade am Nordufer des Vierwaldstättersees ist Luzerns Gran
 
 **Top-Picks:** Hotel Palace Luzern (fünfzig-Sterne-Tradition, legendär), Hotel Schweizerhof Luzern (Grand Hotel, seit 1845), Hotel Château Gütsch (auf Hügel über der Stadt, Panorama).
 
-Die offizielle Tourismusseite [luzern.com](https://www.luzern.com/de/) bietet aktuelle Sehenswürdigkeiten-Informationen und Veranstaltungskalender.
+Die offizielle Tourismusseite [luzern.com](https://www.luzern.com/de/) bietet aktuelle [Sehenswürdigkeiten](https://www.tiqets.com/)-Informationen und Veranstaltungskalender.
 
 ## Bahnhof und Neustadt: Praktisch und günstig
 

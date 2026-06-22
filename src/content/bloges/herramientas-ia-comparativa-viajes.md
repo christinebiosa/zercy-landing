@@ -12,7 +12,7 @@ En 2026 hay más herramientas de IA para planificar viajes que nunca. El problem
 
 ## ¿Cuáles son las mejores herramientas de IA para planificar un viaje?
 
-**ChatGPT (OpenAI) / Claude (Anthropic) / Gemini (Google):** los grandes modelos de lenguaje generativos son excelentes para la fase de ideación y planificación narrativa. Pídeles itinerarios, comparativas entre destinos, consejos de qué hacer en un lugar, respuestas a preguntas de logística. Su limitación: no tienen precios de vuelos en tiempo real y su información puede estar desactualizada.
+**ChatGPT (OpenAI) / Claude (Anthropic) / Gemini (Google):** los grandes modelos de lenguaje generativos son excelentes para la fase de ideación y planificación narrativa. Pídeles itinerarios, comparativas entre destinos, consejos de [qué hacer](https://www.tiqets.com/) en un lugar, respuestas a preguntas de logística. Su limitación: no tienen precios de vuelos en tiempo real y su información puede estar desactualizada.
 
 **Perplexity.ai:** el mejor para investigación con fuentes verificables. Responde preguntas sobre destinos con citas de fuentes reales, lo que reduce el problema de las alucinaciones. Útil cuando necesitas información verificada (visados, requisitos de entrada, noticias sobre el destino).
 

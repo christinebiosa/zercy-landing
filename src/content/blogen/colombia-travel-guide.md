@@ -30,7 +30,7 @@ Domestic flights in Colombia are surprisingly affordable and the standard for lo
 
 Buses are more comfortable than their reputation suggests. For the Zona Cafetera (Bogotá to Armenia or Pereira), a modern intercity bus is a solid option: four to five hours, air-conditioned, around 15 euros. For overnight routes over six hours, I would take the flight, especially on unfamiliar roads.
 
-For general travel planning and destination information, the official [ProColombia tourism site](https://www.colombia.travel) is comprehensive and up to date with entry requirements, regional festivals, and things to do.
+For general travel planning and destination information, the official [ProColombia tourism site](https://www.colombia.travel) is comprehensive and up to date with entry requirements, regional festivals, and [things to do](https://www.tiqets.com/).
 
 If you are planning your accommodation in Cartagena, our guide on [where to stay in Cartagena](/en/blog/where-to-stay-cartagena/) covers the best neighborhoods. For Medellín and Bogotá, see our guides on [where to stay in Medellín](/en/blog/where-to-stay-medellin/) and [where to stay in Bogotá](/en/blog/where-to-stay-bogota/).
 

@@ -47,11 +47,11 @@ Das Nachtleben ist anspruchsvoller und ruhiger als in der Altstadt. Restaurants 
 
 **Top-Picks:** Hotel Intercontinental Athénée Palace (Legende der Bukarester Hotelgeschichte, Calea Victoriei), Golden Tulip Times Hotel (solide Mittelklasse, ruhige Straße), diverse Villen und serviced Apartments für Langzeitaufenthalte.
 
-Die [offizielle Tourismus-Website Rumäniens](https://romaniatourism.com) bietet gute Informationen zu Museen, historischen Sehenswürdigkeiten und Tagesausflügen in die Umgebung.
+Die [offizielle Tourismus-Website Rumäniens](https://romaniatourism.com) bietet gute Informationen zu Museen, historischen [Sehenswürdigkeiten](https://www.tiqets.com/) und Tagesausflügen in die Umgebung.
 
 ## Wann lohnt sich Bukarest besonders?
 
-Frühling (April/Mai) und Herbst (September/Oktober) sind die besten Monate: angenehme Temperaturen, alle Terrassen offen, Museen leer. Sommer ist heiß, aber günstig: keine Kreuzfahrttouristen, günstige Flüge, weniger Reisende als im Frühjahr. Winter: Bukarest legt sich mit Schnee besonders gut. Weihnachtsmarkt auf dem Revoluție-Platz, historische Gebäude unter Schnee, kaum Tourismus.
+Frühling (April/Mai) und Herbst (September/Oktober) sind die besten Monate: angenehme Temperaturen, alle Terrassen offen, Museen leer. Sommer ist heiß, aber günstig: keine Kreuzfahrttouristen, [günstige Flüge](https://www.aviasales.com/), weniger Reisende als im Frühjahr. Winter: Bukarest legt sich mit Schnee besonders gut. Weihnachtsmarkt auf dem Revoluție-Platz, historische Gebäude unter Schnee, kaum Tourismus.
 
 Nie vergessen: Das [Palais des Parlaments](https://cic.cdep.ro) (offiziell das schwerste Gebäude der Welt) ist nur mit Führung zugänglich. Buchung vorab empfohlen, besonders Mai bis September.
 

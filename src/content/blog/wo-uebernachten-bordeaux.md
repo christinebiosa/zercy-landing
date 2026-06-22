@@ -107,7 +107,7 @@ Wenn du Bordeaux planst, beschreibe Zercy einfach was du suchst: Weintour, Roman
 
 ### Welcher Stadtteil in Bordeaux ist am besten für Erstbesucher?
 
-Saint-Pierre und das Vieux-Bordeaux sind die erste Wahl. Alle wichtigen Sehenswürdigkeiten (Place de la Bourse, Miroir d'Eau, Cathédrale Saint-André, Grand Théâtre) sind zu Fuß erreichbar. Direkte Tram-Verbindung zum Bahnhof Saint-Jean.
+Saint-Pierre und das Vieux-Bordeaux sind die erste Wahl. Alle wichtigen [Sehenswürdigkeiten](https://www.tiqets.com/) (Place de la Bourse, Miroir d'Eau, Cathédrale Saint-André, Grand Théâtre) sind zu Fuß erreichbar. Direkte Tram-Verbindung zum Bahnhof Saint-Jean.
 
 ### Wie teuer ist Bordeaux im Vergleich zu anderen französischen Städten?
 

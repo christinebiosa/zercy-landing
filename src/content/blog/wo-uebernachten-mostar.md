@@ -47,7 +47,7 @@ Der Bulevar trennt den bosnischen Ostteil vom kroatischen Westteil der Stadt. We
 
 Mostar ist ein Sommerziel, aber mit wichtigen Einschränkungen. Juli und August sind die beste Zeit fürs Neretva-Schwimmen, aber die Stadt ist dann voll. Tagestouristen aus Dubrovnik und Split überfluten die Altstadt zwischen 10 und 16 Uhr.
 
-**Mai und Juni, September und Oktober:** Ideale Monate. 20-28 Grad, alle Sehenswürdigkeiten offen, Stimmung deutlich angenehmer ohne Massen.
+**Mai und Juni, September und Oktober:** Ideale Monate. 20-28 Grad, alle [Sehenswürdigkeiten](https://www.tiqets.com/) offen, Stimmung deutlich angenehmer ohne Massen.
 
 **Winter:** Mostar ist schön und leer im Winter. Kalt (0-10 Grad), aber günstig und authentisch. Wenige Hotels geöffnet.
 

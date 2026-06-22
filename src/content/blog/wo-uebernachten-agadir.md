@@ -35,7 +35,7 @@ Der Boulevard du 20 Août ist Agadirs Prachtstraße am Meer. Die großen Hotel-C
 
 **Top-Picks:** Royal Mirage Agadir (großes 5-Sterne-Resort direkt am Strand, Pools und Spa), Hotel Riu Tikida Beach (All-Inclusive-Option, beliebte Resort-Atmosphäre), Ibis Agadir (zuverlässige Mittelklasse, gutes Preis-Leistungs-Verhältnis, 10 Minuten zum Strand). Mehr als 200 Hotels in Agadir findest du auf [Booking.com](https://www.booking.com).
 
-Die offizielle [Visit Morocco Website](https://www.visitmorocco.com) gibt aktuelle Infos zu Sehenswürdigkeiten und Events in der Region Souss.
+Die offizielle [Visit Morocco Website](https://www.visitmorocco.com) gibt aktuelle Infos zu [Sehenswürdigkeiten](https://www.tiqets.com/) und Events in der Region Souss.
 
 ## Marina d'Agadir: Luxus und europäisches Flair
 

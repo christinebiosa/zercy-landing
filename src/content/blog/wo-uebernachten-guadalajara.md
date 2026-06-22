@@ -121,7 +121,7 @@ Die Fiestas de Octubre finden im gesamten Oktober statt und sind Mexikos größt
 
 ### Wie weit ist Guadalajara vom Tequila-Dorf entfernt?
 
-Das Dorf Tequila (UNESCO-Kulturlandschaft) liegt rund 60 km westlich von Guadalajara, Fahrtzeit ca. 1 Stunde. Geführte Touren ab Guadalajara kosten 30-60 USD, beinhalten Transport, Destillerie-Besuch und Verkostungen. Alternativ: El Tequila Express Zug (Samstags, romantischer Tagesausflug).
+Das Dorf Tequila (UNESCO-Kulturlandschaft) liegt rund 60 km westlich von Guadalajara, Fahrtzeit ca. 1 Stunde. [Geführte Touren](https://www.tiqets.com/) ab Guadalajara kosten 30-60 USD, beinhalten Transport, Destillerie-Besuch und Verkostungen. Alternativ: El Tequila Express Zug (Samstags, romantischer Tagesausflug).
 
 ### Wo übernachten für Lago de Chapala-Ausflug?
 

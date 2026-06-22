@@ -121,7 +121,7 @@ Las Fiestas de Octubre se celebran durante todo el mes de octubre y son el event
 
 ### ¿Qué tan lejos está Guadalajara del pueblo del Tequila?
 
-El pueblo de Tequila (Paisaje Cultural Agavero de la UNESCO) está a unos 60 km al oeste de Guadalajara, aproximadamente 1 hora en coche. Los tours guiados desde Guadalajara cuestan entre 30 y 60 USD e incluyen transporte, visita a destilería y cata. Alternativa: el tren turístico El Tequila Express opera los sábados para una excursión escénica.
+El pueblo de Tequila (Paisaje Cultural Agavero de la UNESCO) está a unos 60 km al oeste de Guadalajara, aproximadamente 1 hora en coche. Los [tours guiados](https://www.tiqets.com/) desde Guadalajara cuestan entre 30 y 60 USD e incluyen transporte, visita a destilería y cata. Alternativa: el tren turístico El Tequila Express opera los sábados para una excursión escénica.
 
 ### ¿Dónde alojarse para visitar el Lago de Chapala?
 

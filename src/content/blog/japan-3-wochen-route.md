@@ -55,7 +55,7 @@ Convenience Stores (7-Eleven, FamilyMart, Lawson) sind Japans bestes Geheimnis: 
 
 **Fushimi Inari:** 10.000 rote Torii-Tore den Berg hinauf. Um 6 Uhr morgens fast menschenleer. Um 11 Uhr Massentourismus. Früh aufstehen lohnt sich hier wie nirgendwo sonst.
 
-**Hiroshima:** Das Friedensmuseum und das Atombombenkuppel-Mahnmal gehören zu den bewegendsten Sehenswürdigkeiten der Welt. Plane mindestens einen halben Tag ein. Wer in Hiroshima oder Fukuoka übernachten möchte, findet die besten Viertel in unserem [Hiroshima Hotelguide](/blog/wo-uebernachten-hiroshima/) und im [Fukuoka Hotelguide](/blog/wo-uebernachten-fukuoka/). Mehr über [Tokio für Foodie-Reisende](/blog/tokio-foodie-reise/) in unserem Artikel.
+**Hiroshima:** Das Friedensmuseum und das Atombombenkuppel-Mahnmal gehören zu den bewegendsten [Sehenswürdigkeiten](https://www.tiqets.com/) der Welt. Plane mindestens einen halben Tag ein. Wer in Hiroshima oder Fukuoka übernachten möchte, findet die besten Viertel in unserem [Hiroshima Hotelguide](/blog/wo-uebernachten-hiroshima/) und im [Fukuoka Hotelguide](/blog/wo-uebernachten-fukuoka/). Mehr über [Tokio für Foodie-Reisende](/blog/tokio-foodie-reise/) in unserem Artikel.
 
 ## Praktische Tipps
 

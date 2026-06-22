@@ -9,7 +9,7 @@ heroImage: "/img/blog/reykjavik.jpg"
 bookingDest: "Reykjavik"
 ---
 
-Reykjavik ist die nördlichste Hauptstadt der Welt und eine der kompaktesten. Die meisten Sehenswürdigkeiten liegen im Radius von 2 Kilometern um Laugavegur, die Haupteinkaufsstraße. Trotzdem: Wo du schläfst, beeinflusst deutlich, was du morgens und abends erlebst. Besonders bei Nordlichtern zählt jede Minute.
+Reykjavik ist die nördlichste Hauptstadt der Welt und eine der kompaktesten. Die meisten [Sehenswürdigkeiten](https://www.tiqets.com/) liegen im Radius von 2 Kilometern um Laugavegur, die Haupteinkaufsstraße. Trotzdem: Wo du schläfst, beeinflusst deutlich, was du morgens und abends erlebst. Besonders bei Nordlichtern zählt jede Minute.
 
 Das ist die ehrliche Viertels-Übersicht für Reykjavik 2026.
 

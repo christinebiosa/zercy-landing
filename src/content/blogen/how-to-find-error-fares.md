@@ -18,7 +18,7 @@ Error fares spread quickly because online travel agencies and metasearch engines
 The best sources for catching error fares early:
 
 - **Secret Flying** (secretflying.com): The most well-known platform for error fares and deals. Updated daily, with direct booking links.
-- **Scott's Cheap Flights / Going.com**: Especially strong for North America. Premium plan includes exclusive error fare alerts.
+- **Scott's [Cheap Flights](https://www.aviasales.com/) / Going.com**: Especially strong for North America. Premium plan includes exclusive error fare alerts.
 - **The Flight Deal** (theflightdeal.com): Focused on US-departing routes, plus international deals.
 - **Reddit r/churning and r/flights**: Very fast community. Error fares often get posted there first.
 - **Jack's Flight Club**: European focus, popular in the UK and Germany.

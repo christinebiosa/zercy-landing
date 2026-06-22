@@ -10,7 +10,7 @@ bookingDest: "Portugal"
 ---
 Portugal is one of those rare destinations that works almost year-round. The sun is generous, the coastline is dramatic, and even in January the temperatures stay mild enough for a city break. The challenge is not finding a good time to go. It is figuring out which good time matches what you want.
 
-This guide breaks it down honestly: season by season, use case by use case. Whether you are chasing Algarve beaches, Porto side streets, or cheap flights, you will know exactly when to book.
+This guide breaks it down honestly: season by season, use case by use case. Whether you are chasing Algarve beaches, Porto side streets, or [cheap flights](https://www.aviasales.com/), you will know exactly when to book.
 
 ## When is the best time to visit Portugal?
 

@@ -10,7 +10,7 @@ heroImage: "/img/blog/lost-luggage.jpg"
 
 Estás en la cinta de equipajes. Salen todas las maletas. Menos la tuya. La cinta sigue girando. Una vuelta más. La cinta para. Sin maleta.
 
-Pasa más de lo que se cree. Los aeropuertos europeos pierden y retrasan millones de maletas cada año. La diferencia entre el caos y el control: saber exactamente qué hacer.
+Pasa más de lo que se cree. Los aeropuertos europeos pierden y retrasan millones de maletas cada año. La diferencia entre el caos y el control: saber exactamente [qué hacer](https://www.tiqets.com/).
 
 ## ¿Qué tienes que hacer de inmediato en el aeropuerto?
 

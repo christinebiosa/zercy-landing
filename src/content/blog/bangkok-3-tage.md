@@ -45,7 +45,7 @@ Transport: 100 bis 200 Baht täglich mit BTS und gelegentlichem Grab-Taxi. Tuk-T
 
 Tempel-Eintritte: Summieren sich. Plane für drei Tempel-intensive Tage etwa 1.000 Baht ein.
 
-Die [Tourism Authority of Thailand](https://www.tourismthailand.org) veröffentlicht aktuelle Eintrittpreise und saisonale Öffnungszeiten für alle wichtigen Sehenswürdigkeiten.
+Die [Tourism Authority of Thailand](https://www.tourismthailand.org) veröffentlicht aktuelle Eintrittpreise und saisonale Öffnungszeiten für alle wichtigen [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 Für Unterkunft: Der [Bangkok Unterkunfts-Guide](/blog/wo-uebernachten-bangkok/) erklärt die Unterschiede zwischen Sukhumvit, Silom und Rattanakosin, den drei Hauptquartieren für Touristen.
 

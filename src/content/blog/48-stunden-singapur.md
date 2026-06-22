@@ -15,7 +15,7 @@ Dazu kommen Supertrees, ein Wolkenkratzer-Infinity-Pool, vier komplett unterschi
 
 ## Was passt wirklich in 48 Stunden Singapur?
 
-Mehr als du erwartest. Die Stadt ist kompakt, die MRT-Anbindung ist exzellent und die meisten Sehenswürdigkeiten liegen eng beieinander. Kaufe direkt bei Ankunft eine EZ-Link-Karte für die MRT. Sie funktioniert wie eine Prepaid-Oyster-Card und spart das Suchen nach Münzen.
+Mehr als du erwartest. Die Stadt ist kompakt, die MRT-Anbindung ist exzellent und die meisten [Sehenswürdigkeiten](https://www.tiqets.com/) liegen eng beieinander. Kaufe direkt bei Ankunft eine EZ-Link-Karte für die MRT. Sie funktioniert wie eine Prepaid-Oyster-Card und spart das Suchen nach Münzen.
 
 Die einzige zeitkritische Entscheidung: Die Garden Rhapsody Lichtshow in den Gardens by the Bay läuft täglich um 19:45 und 20:45 Uhr. Plane Tag 1 so, dass du um diese Zeit dort bist.
 

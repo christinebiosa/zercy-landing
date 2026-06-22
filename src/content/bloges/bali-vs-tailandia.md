@@ -37,7 +37,7 @@ Si buscas profundidad espiritual, Bali la entrega de forma más natural. Si quie
 
 ## ¿Cómo moverse por Bali y Tailandia?
 
-Tailandia tiene una red de transporte significativamente mejor. Los vuelos domésticos entre Bangkok, Chiang Mai, Koh Samui y Phuket son frecuentes y baratos. El tren exprés del aeropuerto Suvarnabhumi cuesta 45 Baht. La [Autoridad de Turismo de Tailandia](https://www.tourismthailand.org) lista rutas de ferry y bus. Para vuelos baratos: [consejos de vuelos baratos](/es/blog/consejos-vuelos-baratos/).
+Tailandia tiene una red de transporte significativamente mejor. Los vuelos domésticos entre Bangkok, Chiang Mai, Koh Samui y Phuket son frecuentes y baratos. El tren exprés del aeropuerto Suvarnabhumi cuesta 45 Baht. La [Autoridad de Turismo de Tailandia](https://www.tourismthailand.org) lista rutas de ferry y bus. Para [vuelos baratos](https://www.aviasales.com/): [consejos de vuelos baratos](/es/blog/consejos-vuelos-baratos/).
 
 Bali es una sola isla sin transporte público ni trenes. Necesitas alquilar moto o depender de Grab y conductores privados. Las excursiones a Nusa Penida o Lombok requieren lanchas rápidas de 150.000-250.000 Rupias. Es factible, pero requiere más planificación. La ventaja: Bali es tan pequeña que puedes ver mucho en una semana.
 

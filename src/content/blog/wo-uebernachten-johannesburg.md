@@ -23,7 +23,7 @@ Die wichtigste Entscheidung: Welcher Stadtteil? Und das hängt nicht nur vom Bud
 
 **Maboneng:** Aufstrebendes Kunst-Viertel, Street-Food, urbane Energie. Für Abenteuerlustige und Kulturinteressierte.
 
-**Soweto:** Kulturerbe, Apartheid-Geschichte, geführte Touren. Für alle die verstehen wollen, wie Südafrika wirklich tickt.
+**Soweto:** Kulturerbe, Apartheid-Geschichte, [geführte Touren](https://www.tiqets.com/). Für alle die verstehen wollen, wie Südafrika wirklich tickt.
 
 ## Sandton: Das sicherste Johannesburg
 

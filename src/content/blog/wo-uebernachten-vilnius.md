@@ -35,7 +35,7 @@ Die Altstadt von Vilnius ist eine der größten und am besten erhaltenen Barocks
 
 **Top-Picks:** Artagonist Hotel (Design-Boutique, ehemalige Fabrik, direkt in der Altstadt), Shakespeare Boutique Hotel (stilvolle Zimmer, Bibliothek-Flair, sehr guter Service), Stikliai Hotel (das beste Luxushotel der Altstadt, historisches Palais). Diese und 200+ weitere Vilnius-Hotels mit Lage-Filter findest du auf [Booking.com](https://www.booking.com) mit kostenloser Stornierung.
 
-Die [offizielle Tourismusseite Vilnius](https://www.govilnius.lt) hat eine aktuelle Stadtteil-Karte mit Sehenswürdigkeiten und Empfehlungen für jeden Bezirk.
+Die [offizielle Tourismusseite Vilnius](https://www.govilnius.lt) hat eine aktuelle Stadtteil-Karte mit [Sehenswürdigkeiten](https://www.tiqets.com/) und Empfehlungen für jeden Bezirk.
 
 ## Užupis: Die Künstlerrepublik
 

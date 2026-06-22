@@ -77,7 +77,7 @@ Colmar ist die am besten erreichbare der fünf. Von Basel (45 Min.) oder Straßb
 Die ruhigsten Zeiten sind Februar bis März und Oktober bis November. Brügge hat keinen wirklich ruhigen Monat, aber Dienstag bis Donnerstag in der Nebensaison ist deutlich angenehmer als ein Wochenendsommer. Cesky Krumlov ist montags und dienstags am ruhigsten.
 
 ### Wie viel kostet ein Wochenende in Brügge?
-Zwei Nächte im Stadthotel ab 90 Euro (Hotel) plus Anreise, zwei Restaurantbesuche ab je 25-35 Euro und die wichtigsten Sehenswürdigkeiten kommen auf circa 300-450 Euro pro Person ohne Flug. Mit Boutique-Hotel und gutem Restaurant auch 600+ Euro möglich.
+Zwei Nächte im Stadthotel ab 90 Euro (Hotel) plus Anreise, zwei Restaurantbesuche ab je 25-35 Euro und die wichtigsten [Sehenswürdigkeiten](https://www.tiqets.com/) kommen auf circa 300-450 Euro pro Person ohne Flug. Mit Boutique-Hotel und gutem Restaurant auch 600+ Euro möglich.
 
 ### Warum sieht Colmar wie ein Märchenort aus?
 Colmar ist seit dem Mittelalter kaum verändert worden, weil die Stadt im Zweiten Weltkrieg weitgehend unzerstört blieb. Die Fachwerkhäuser stammen aus dem 13. bis 17. Jahrhundert, die Farbgebung blieb erhalten. Die Blumenkästen kommen hinzu, weil Colmar seit Jahrzehnten den "Preis der blumengeschmückten Städte Frankreichs" gewinnt.

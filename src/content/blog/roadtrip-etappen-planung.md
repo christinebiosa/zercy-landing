@@ -18,7 +18,7 @@ Die Schlafforschung und Reiseberater empfehlen: maximal 4 Stunden reine Fahrzeit
 
 Auf Autobahnen schaffst du in 4 Stunden gut 400 Kilometer. Auf kurvigen Bergstraßen (Andenstraße, Norwegen, Korsika) sind es eher 200. Auf US-Highways außerhalb der Städte kommst du auf 500.
 
-Aber: Reine Fahrzeit ist nicht die ganze Geschichte. Mit Stopps für Tanken, Essen, Fotos und Sehenswürdigkeiten dauert ein "4-Stunden-Tag" in der Realität 7 Stunden. Wenn du mehr als 5 Stunden netto fährst, hast du keine Zeit mehr für die Reise selbst.
+Aber: Reine Fahrzeit ist nicht die ganze Geschichte. Mit Stopps für Tanken, Essen, Fotos und [Sehenswürdigkeiten](https://www.tiqets.com/) dauert ein "4-Stunden-Tag" in der Realität 7 Stunden. Wenn du mehr als 5 Stunden netto fährst, hast du keine Zeit mehr für die Reise selbst.
 
 ## Welche Faktoren bestimmen die richtige Länge?
 

@@ -8,7 +8,7 @@ readingTime: 6
 heroImage: "/img/blog/istanbul-48h.jpg"
 ---
 
-Istanbul funktioniert für 48 Stunden so gut wie kaum eine andere Stadt der Welt. Die wichtigsten Sehenswürdigkeiten liegen nah beieinander, der öffentliche Nahverkehr ist ausgezeichnet, und die Kombination aus Geschichte, Essen und Atmosphäre ist einzigartig in Europa. Du liegst nicht zwischen zwei Kontinenten. Du stehst gleichzeitig auf beiden.
+Istanbul funktioniert für 48 Stunden so gut wie kaum eine andere Stadt der Welt. Die wichtigsten [Sehenswürdigkeiten](https://www.tiqets.com/) liegen nah beieinander, der öffentliche Nahverkehr ist ausgezeichnet, und die Kombination aus Geschichte, Essen und Atmosphäre ist einzigartig in Europa. Du liegst nicht zwischen zwei Kontinenten. Du stehst gleichzeitig auf beiden.
 
 Dieses Itinerar ist für Wochenendreisende konzipiert, also für alle, die Freitagnacht oder Samstagfrüh ankommen und Sonntagabend oder Montagfrüh fliegen. Es zeigt dir, was du nicht verpassen darfst und was sich ehrlich gesagt nicht lohnt.
 

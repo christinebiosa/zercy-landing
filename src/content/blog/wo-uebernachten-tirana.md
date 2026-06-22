@@ -35,7 +35,7 @@ Diese und hunderte weitere Tirana-Hotels findest du auf [Booking.com](https://ww
 
 Der Skanderbeg-Platz ist der Mittelpunkt der Stadt. Hier stehen das Nationalmuseum, die Et'hem-Bey-Moschee und der berühmte Uhrenturm. Rund um den Platz findest du die dichteste Hotel-Konzentration Tiranas. Gut für alle die morgens früh los wollen und abends zentral ankommen. Preisspanne: 50-180 Euro.
 
-Wer tagsüber die Sehenswürdigkeiten abläuft, die Nationalmuseen besucht und abends essen geht, ist hier genau richtig. Das Viertel ist weniger hip als Blloku, aber praktischer. [Albania Tourism](https://albania.al) gibt einen guten Überblick über alle Sehenswürdigkeiten in Gehdistanz.
+Wer tagsüber die [Sehenswürdigkeiten](https://www.tiqets.com/) abläuft, die Nationalmuseen besucht und abends essen geht, ist hier genau richtig. Das Viertel ist weniger hip als Blloku, aber praktischer. [Albania Tourism](https://albania.al) gibt einen guten Überblick über alle Sehenswürdigkeiten in Gehdistanz.
 
 Top-Picks: **Hotel Kalemi 2** (historisches Flair, nahe dem Platz), **Rogner Hotel Tirana** (internationaler Standard, Pool, Business-freundlich), **Art Hotel** (kleines Boutique-Hotel, lokaler Charakter).
 

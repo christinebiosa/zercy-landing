@@ -29,7 +29,7 @@ After that, walk through Merrion Square and Fitzwilliam Square. The Georgian doo
 
 **Afternoon: Kilmainham Gaol**
 
-Kilmainham Gaol is the most moving museum in the city. The leaders of the 1916 Easter Rising were imprisoned and executed here. The guided tour (included with the 8-euro ticket) explains the context. Without a guide, much of it would be lost. The Irish Museum of Modern Art is directly next door and free. Worth it if you have capacity left after the prison.
+Kilmainham Gaol is the most moving museum in the city. The leaders of the 1916 Easter Rising were imprisoned and executed here. The [guided tour](https://www.tiqets.com/) (included with the 8-euro ticket) explains the context. Without a guide, much of it would be lost. The Irish Museum of Modern Art is directly next door and free. Worth it if you have capacity left after the prison.
 
 **Evening: Stoneybatter or Smithfield**
 

@@ -62,7 +62,7 @@ Activities are where student budgets quietly collapse. Paid attractions add up f
 
 **Free museum days.** Many cities offer one free day per month for state museums. Paris: all national museums are free on the first Sunday from October to March. The Prado in Madrid is free every day from 6pm onward. A little research before you go can save you €20 to €30 in entry fees.
 
-**Parks and markets.** Hyde Park in London, Vondelpark in Amsterdam, Retiro in Madrid. The best way to experience a city is on foot. Local markets show you more about a place than any guided tour. And they cost nothing to walk through.
+**Parks and markets.** Hyde Park in London, Vondelpark in Amsterdam, Retiro in Madrid. The best way to experience a city is on foot. Local markets show you more about a place than any [guided tour](https://www.tiqets.com/). And they cost nothing to walk through.
 
 **Use Zercy.** Tell the app where you want to go and what your budget is. Zercy finds the cheapest flight options and shows you matching hostels. [Start planning here](https://zercy.app)
 

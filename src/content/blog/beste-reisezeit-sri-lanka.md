@@ -51,7 +51,7 @@ Nuwara Eliya hat im April sein lokales Festival zu Neujahr. Die Stadt wird zu di
 
 ## Wann ist Nebensaison?
 
-Nebensaison bedeutet in Sri Lanka vor allem niedrigere Hotelpreise und weniger Touristen, nicht unbedingt schlechtes Wetter überall. Von Mai bis September ist die Westküste technisch Nebensaison. Guesthouses in Galle sind dann 30-40 Prozent günstiger, Restaurants weniger überfüllt, Sehenswürdigkeiten ohne Gedränge.
+Nebensaison bedeutet in Sri Lanka vor allem niedrigere Hotelpreise und weniger Touristen, nicht unbedingt schlechtes Wetter überall. Von Mai bis September ist die Westküste technisch Nebensaison. Guesthouses in Galle sind dann 30-40 Prozent günstiger, Restaurants weniger überfüllt, [Sehenswürdigkeiten](https://www.tiqets.com/) ohne Gedränge.
 
 Wer flexibel ist und keinen Badeurlaub plant, kann in dieser Zeit hervorragend reisen. Tempel, Hochland, Kulturreisen, Safaris, Kochen lernen. All das funktioniert im Monsun genauso gut oder besser. Vergiss nicht: Regen fällt in Sri Lanka selten den ganzen Tag. Typisch ist ein starker Schauer am Nachmittag und sonniger Morgen. Mit der richtigen Planung merkst du wenig davon.
 

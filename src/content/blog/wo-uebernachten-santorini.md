@@ -76,7 +76,7 @@ Hotels in Kamari und Perissa: 60 bis 120 Euro pro Nacht. Für Reisende mit klein
 
 Santorini ist eine der teuersten griechischen Inseln. [Booking.com](https://www.booking.com) hat die größte Auswahl, auch für Caldera-Hotels mit Lage-Filter. Gäste-Bewertungsfilter ab 8,5 empfehlenswert. Wer im Mai oder September bucht statt im August, spart erheblich.
 
-Das [offizielle griechische Tourismusportal visitgreece.gr](https://www.visitgreece.gr) hat aktuelle Informationen zu Fähren, Sehenswürdigkeiten und Events auf Santorini.
+Das [offizielle griechische Tourismusportal visitgreece.gr](https://www.visitgreece.gr) hat aktuelle Informationen zu Fähren, [Sehenswürdigkeiten](https://www.tiqets.com/) und Events auf Santorini.
 
 Zercy kann dir helfen, Flug, Fähre und Unterkunft für Santorini in einem Schritt zu planen. Speichere deine Favoriten im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alles zur Hand hast.
 

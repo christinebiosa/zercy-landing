@@ -29,7 +29,7 @@ Hier die ehrliche Übersicht: 5 Stadtteile, was sie kosten, für wen sie passen.
 
 Singapurs Symbol-Skyline. Marina Bay Sands (das Hotel mit dem Schiff auf drei Türmen), Gardens by the Bay (Supertrees), ArtScience Museum, Esplanade, Merlion Park. Spektakulär, dicht, premium-orientiert. Hier sind die berühmtesten 5-Sterne-Hotels der Welt.
 
-**Wer hier richtig liegt:** Erstbesucher (alle Skyline-Sehenswürdigkeiten direkt), Premium-Reisende, kurze Trips (2-3 Nächte), Honeymoon.
+**Wer hier richtig liegt:** Erstbesucher (alle Skyline-[Sehenswürdigkeiten](https://www.tiqets.com/) direkt), Premium-Reisende, kurze Trips (2-3 Nächte), Honeymoon.
 
 **Preise pro Nacht:** Premium 250-550 Euro, Top-Hotels (Marina Bay Sands) 450-1.200 Euro.
 

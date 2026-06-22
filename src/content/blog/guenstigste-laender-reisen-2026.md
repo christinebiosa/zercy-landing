@@ -14,7 +14,7 @@ heroImage: "/img/blog/cheapest-countries-2026.jpg"
 Währungsschwankungen, Inflation und veränderte Touristenzahlen beeinflussen die Kosten jährlich neu. 2026 stechen vor allem einige Länder hervor, weil der Wechselkurs zum Euro stark ist oder weil sie noch nicht von Massentourismus überschwemmt wurden.
 
 **Südostasien: Vietnam, Kambodscha, Laos**
-Vietnam bleibt das beste Budget-Reiseziel Asiens. Ein gutes Hostel kostet 8-12 Euro, eine Phở Bò in Hanoi unter 2 Euro. Für eine [Vietnam 2-Wochen-Route](/blog/vietnam-2-wochen-route/) reichen 35-50 Euro täglich für Unterkunft, Essen, Transport und Sehenswürdigkeiten. Kambodscha (Siem Reap, Phnom Penh) liegt noch günstiger. Laos ist der ruhigere und etwas billigere Nachbar, mit Luang Prabang als Highlight.
+Vietnam bleibt das beste Budget-Reiseziel Asiens. Ein gutes Hostel kostet 8-12 Euro, eine Phở Bò in Hanoi unter 2 Euro. Für eine [Vietnam 2-Wochen-Route](/blog/vietnam-2-wochen-route/) reichen 35-50 Euro täglich für Unterkunft, Essen, Transport und [Sehenswürdigkeiten](https://www.tiqets.com/). Kambodscha (Siem Reap, Phnom Penh) liegt noch günstiger. Laos ist der ruhigere und etwas billigere Nachbar, mit Luang Prabang als Highlight.
 
 **Tagesbudget Vietnam:** 30-50 Euro
 **Tagesbudget Kambodscha:** 25-40 Euro

@@ -21,7 +21,7 @@ Mdina ist die alte stille Stadt auf einem Hügel im Zentrum der Insel. Kaum Auto
 
 Die Blaue Lagune auf der kleinen Insel Comino ist das meistfotografierte Bild Maltas. Türkisblaues, flaches Wasser, weiße Felsen. Nimm das Schnellboot von Cirkewwa (Nordmalta) oder von Mġarr Harbour auf Gozo. Komm früh, die Lagune ist mittags im Sommer voll. Kein übernachten auf Comino möglich, außer im einzigen kleinen Hotel.
 
-Gozo ist ruhiger und grüner als Malta. Die Calypso-Höhle soll die Höhle sein, in der Odysseus festgehalten wurde. Die Tempel von Ggantija sind 5.500 Jahre alt und damit älter als die ägyptischen Pyramiden und Stonehenge. Die [Malta Tourism Authority](https://www.visitmalta.com/) bietet detaillierte Informationen zu Öffnungszeiten und Tickets für alle Sehenswürdigkeiten.
+Gozo ist ruhiger und grüner als Malta. Die Calypso-Höhle soll die Höhle sein, in der Odysseus festgehalten wurde. Die Tempel von Ggantija sind 5.500 Jahre alt und damit älter als die ägyptischen Pyramiden und Stonehenge. Die [Malta Tourism Authority](https://www.visitmalta.com/) bietet detaillierte Informationen zu Öffnungszeiten und Tickets für alle [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ## Wie kommt man in Malta am besten herum?
 

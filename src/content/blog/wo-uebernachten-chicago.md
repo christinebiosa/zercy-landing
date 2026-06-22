@@ -29,7 +29,7 @@ Hier der ehrliche Überblick für Chicago 2026.
 
 The Loop ist das Geschäftszentrum — benannt nach der Elevated Rail Loop, die das Viertel umfährt. Millennium Park (kostenlos, Cloud Gate/"The Bean", Jay Pritzker Pavilion), Art Institute of Chicago (25 USD, eine der besten Kunstsammlungen der Welt), Chicago Riverwalk (kostenlos, ideal für Bootstouren), Willis Tower Skydeck (30 USD, Glasplattformen in 412 m). Die Architektur-Flussrundfahrt ist Pflicht.
 
-**Ideal für:** Erstbesucher, Businessreisende, alle die maximale Sehenswürdigkeiten-Dichte wollen.
+**Ideal für:** Erstbesucher, Businessreisende, alle die maximale [Sehenswürdigkeiten](https://www.tiqets.com/)-Dichte wollen.
 
 **Preise pro Nacht:** Mittelklasse 140-280 USD, Premium 260-500 USD, Luxus 500-1.200 USD.
 

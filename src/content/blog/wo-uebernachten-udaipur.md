@@ -110,7 +110,7 @@ Zercy hilft dir, Udaipur aus der Vogelperspektive zu planen: Welche Lage passt z
 
 ### Welcher Stadtteil ist in Udaipur am besten für Erstbesucher?
 
-Die Altstadt am See ist für Erstbesucher die beste Wahl. Alle wichtigen Sehenswürdigkeiten sind zu Fuß oder per Tuk-Tuk in wenigen Minuten erreichbar. Wer weniger Trubel bevorzugt, aber trotzdem zentral sein will, schaut sich Guesthouses im Gangaur Ghat-Bereich an.
+Die Altstadt am See ist für Erstbesucher die beste Wahl. Alle wichtigen [Sehenswürdigkeiten](https://www.tiqets.com/) sind zu Fuß oder per Tuk-Tuk in wenigen Minuten erreichbar. Wer weniger Trubel bevorzugt, aber trotzdem zentral sein will, schaut sich Guesthouses im Gangaur Ghat-Bereich an.
 
 ### Wann ist die beste Reisezeit für Udaipur?
 

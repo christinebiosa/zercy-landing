@@ -36,7 +36,7 @@ Tanke überall dort, wo du kannst. Zwischen Merzouga und dem nächsten grössere
 
 Weitere Infos zu Mietwagen findest du in unserem [Mietwagen-Check](/blog/mietwagen-check/). Für die Unterkunft in Marrakesch gibt es unseren Guide zu [Riads in Marokko](/blog/riads-marokko-guide/). Und wenn du die Tour nachhaltig gestalten möchtest, findest du in unserem Artikel zur [CO2-Kompensation beim Fliegen](/blog/co2-kompensation-fliegen/) gute Anlaufstellen.
 
-Die offizielle Tourismusseite [Visit Morocco](https://www.visitmorocco.com) bietet aktuelle Informationen zu Einreisebestimmungen, Sehenswürdigkeiten und Regionalführern.
+Die offizielle Tourismusseite [Visit Morocco](https://www.visitmorocco.com) bietet aktuelle Informationen zu Einreisebestimmungen, [Sehenswürdigkeiten](https://www.tiqets.com/) und Regionalführern.
 
 ## Wann reisen, und wie sicher ist Marokko?
 

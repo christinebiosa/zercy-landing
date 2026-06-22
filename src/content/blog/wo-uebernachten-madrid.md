@@ -109,7 +109,7 @@ Wenn du Madrid planst, beschreibe Zercy einfach was du suchst (Erstbesuch, Foodi
 
 ### Wo ist es in Madrid am schönsten?
 
-Für Sightseeing: Sol/Centro (Plaza Mayor, Königspalast). Für Tapas: La Latina. Für Hipness: Malasaña. Für Premium: Salamanca. Für Atmosphäre: Chueca. Erstbesucher meist im Centro für Sehenswürdigkeiten.
+Für Sightseeing: Sol/Centro (Plaza Mayor, Königspalast). Für Tapas: La Latina. Für Hipness: Malasaña. Für Premium: Salamanca. Für Atmosphäre: Chueca. Erstbesucher meist im Centro für [Sehenswürdigkeiten](https://www.tiqets.com/).
 
 ### Wann ist die beste Reisezeit für Madrid?
 

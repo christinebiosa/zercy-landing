@@ -15,7 +15,7 @@ Die Stadt hat außerdem die beste Schokoladenkultur Italiens. Gianduja, die Nuss
 
 ## Welcher Stadtteil passt zu welcher Reise?
 
-**Centro Storico (Piazza Castello):** Barocke Prachtbauten, Königspaläste, zentrale Lage für alle Sehenswürdigkeiten. Für Erstbesucher und Kulturreisende.
+**Centro Storico (Piazza Castello):** Barocke Prachtbauten, Königspaläste, zentrale Lage für alle [Sehenswürdigkeiten](https://www.tiqets.com/). Für Erstbesucher und Kulturreisende.
 
 **San Salvario:** Lebendiges Viertel südlich der Innenstadt, Studenten, Bars, Aperitivo-Kultur. Für junge Paare und Foodie-Reisende.
 

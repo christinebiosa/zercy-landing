@@ -77,7 +77,7 @@ Guarda la selección en tu [Zercy Logbook](https://www.zercy.app/logbook) para t
 ## Preguntas frecuentes
 
 ### ¿Cuál es el destino bucket list más económico de la lista?
-Angkor Wat en Camboya ofrece la mejor relación experiencia-precio. El pase de tres días cuesta 62 USD, el alojamiento en Siem Reap empieza en 15 USD por noche y la comida cuesta 2-5 USD. Con vuelos baratos, toda la experiencia puede quedar por debajo de 1.000 euros.
+Angkor Wat en Camboya ofrece la mejor relación experiencia-precio. El pase de tres días cuesta 62 USD, el alojamiento en Siem Reap empieza en 15 USD por noche y la comida cuesta 2-5 USD. Con [vuelos baratos](https://www.aviasales.com/), toda la experiencia puede quedar por debajo de 1.000 euros.
 
 ### ¿Cuándo hay que visitar Machu Picchu?
 La temporada seca de abril a octubre es la ideal. La mejor experiencia: llegar temprano, con el primer acceso a las 6 de la mañana. Reserva las entradas con al menos dos meses de anticipación, ya que el límite diario de 4.500 visitantes se agota con frecuencia.

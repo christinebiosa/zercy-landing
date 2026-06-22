@@ -16,7 +16,7 @@ Der entscheidende Unterschied liegt nicht in der Qualität, sondern in der Art. 
 
 Im direkten Kostenvergleich liegt Rom klar vorn. Ein Hotelzimmer im 3-Sterne-Bereich kostet in Rom im Schnitt 90 bis 130 Euro pro Nacht. In Paris zahlst du für ähnliche Qualität 130 bis 200 Euro. Wer [günstig übernachten in Rom](/blog/wo-uebernachten-rom/) möchte, findet gute Optionen in Trastevere oder Prati. Paris wird günstiger, sobald du die Innenstadtlagen verlässt, zum Beispiel im 11. oder 18. Arrondissement.
 
-Beim Essen ist der Unterschied noch deutlicher. Ein einfaches Abendessen in Rom liegt bei 12 bis 20 Euro pro Person, wenn du echte Ristoranti abseits der Sehenswürdigkeiten wählst. In Paris beginnen Bistros in touristischer Lage erst bei 20 Euro aufwärts. Einen Cappuccino bekommst du in Rom für 1,20 bis 1,50 Euro. In Paris für 3 bis 5 Euro.
+Beim Essen ist der Unterschied noch deutlicher. Ein einfaches Abendessen in Rom liegt bei 12 bis 20 Euro pro Person, wenn du echte Ristoranti abseits der [Sehenswürdigkeiten](https://www.tiqets.com/) wählst. In Paris beginnen Bistros in touristischer Lage erst bei 20 Euro aufwärts. Einen Cappuccino bekommst du in Rom für 1,20 bis 1,50 Euro. In Paris für 3 bis 5 Euro.
 
 Die großen Sehenswürdigkeiten kosten in beiden Städten Eintritt. Das Louvre-Ticket kostet 22 Euro, die Vatikanischen Museen 17 Euro. Der Trevi-Brunnen, das Pantheon (kleiner Beitrag: 5 Euro) und die meisten Piazze kosten nichts. Wer ein eng geplantes Budget hat: Rom gewinnt diese Kategorie.
 

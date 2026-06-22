@@ -9,7 +9,7 @@ heroImage: "/img/blog/sao-paulo.jpg"
 bookingDest: "São Paulo"
 ---
 
-São Paulo ist keine klassische Touristenstadt. Keine Strände, keine Postkarten-Sehenswürdigkeiten, kein historisches Zentrum in gutem Zustand. Stattdessen: 22 Millionen Menschen, eine der dichtesten Restaurant-Szenen der Welt und Stadtteile mit völlig unterschiedlichem Charakter.
+São Paulo ist keine klassische Touristenstadt. Keine Strände, keine Postkarten-[Sehenswürdigkeiten](https://www.tiqets.com/), kein historisches Zentrum in gutem Zustand. Stattdessen: 22 Millionen Menschen, eine der dichtesten Restaurant-Szenen der Welt und Stadtteile mit völlig unterschiedlichem Charakter.
 
 Wer weiß, wo er in São Paulo wohnt, erlebt eine der aufregendsten Städte Südamerikas. Wer aufs Geratewohl bucht, verbringt die Reise im falschen Viertel.
 

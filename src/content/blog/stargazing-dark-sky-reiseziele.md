@@ -80,4 +80,4 @@ Rund um den Neumond, wenn kein Mondlicht stört. Das Wetterfenster und die Jahre
 Für den Einstieg reicht ein gutes Fernglas (10x50) und eine rote Stirnlampe. Teleskope kannst du an vielen Standorten mieten. Das Wichtigste ist Geduld: Lass deine Augen 20 bis 30 Minuten an die Dunkelheit gewöhnen, bevor du urteilst.
 
 ### Wo kann ich in Europa Sterne beobachten?
-Die besten europäischen Standorte sind der Teide Nationalpark auf Teneriffa, der Zselic Sternenpark in Ungarn, das Westhavelland in Deutschland und der Brecon Beacons Nationalpark in Wales. Alle haben International Dark Sky-Zertifikate und bieten geführte Touren an.
+Die besten europäischen Standorte sind der Teide Nationalpark auf Teneriffa, der Zselic Sternenpark in Ungarn, das Westhavelland in Deutschland und der Brecon Beacons Nationalpark in Wales. Alle haben International Dark Sky-Zertifikate und bieten [geführte Touren](https://www.tiqets.com/) an.

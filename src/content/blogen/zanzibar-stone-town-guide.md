@@ -31,7 +31,7 @@ The honest top list, with time recommendations:
 
 **3. Sultan's Palace Museum + House of Wonders (3h together, MUST).** Both directly at the harbor. Sultan's Palace shows the life of the Omani rulers. House of Wonders was the first multi-story building in East Africa with elevator in 1883. IMPORTANT: House of Wonders has been closed since 2020 due to risk of collapse, view from outside.
 
-**4. Guided city tour (3-4h, highly recommended).** Stone Town is a labyrinth (no smartphone GPS works in narrow alleys). A guided tour with local guide gives history, context, personal stories. $33-55 per person.
+**4. Guided city tour (3-4h, highly recommended).** Stone Town is a labyrinth (no smartphone GPS works in narrow alleys). A [guided tour](https://www.tiqets.com/) with local guide gives history, context, personal stories. $33-55 per person.
 
 **5. Spice tour (half day, optional).** Zanzibar = spice island. Tour to local spice plantations with tasting of vanilla, cloves, cardamom directly from the soil. Touristy but educational. $28-44.
 

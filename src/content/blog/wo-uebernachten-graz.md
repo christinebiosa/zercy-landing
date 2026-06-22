@@ -27,7 +27,7 @@ Die Stadt hat vier ganz verschiedene Gesichter. Altstadt bedeutet Türme, Innenh
 
 ## Altstadt: Wo Graz-Geschichte lebt
 
-Die Grazer Altstadt ist Europa-Schaufenster. Der Hauptplatz, das Rathaus, die Hofgasse und das Kunstmuseum Graz im Herzen der Stadt. Das [Grazer Tourismusbüro](https://www.graztourismus.at) listet hier über 80 Museen, Kirchen und Sehenswürdigkeiten in Fußreichweite. Alles läuft zu Fuß.
+Die Grazer Altstadt ist Europa-Schaufenster. Der Hauptplatz, das Rathaus, die Hofgasse und das Kunstmuseum Graz im Herzen der Stadt. Das [Grazer Tourismusbüro](https://www.graztourismus.at) listet hier über 80 Museen, Kirchen und [Sehenswürdigkeiten](https://www.tiqets.com/) in Fußreichweite. Alles läuft zu Fuß.
 
 **Wer hier richtig liegt:** Erstbesucher, Kulturreisende, kurze Trips (2-3 Nächte), Paare.
 

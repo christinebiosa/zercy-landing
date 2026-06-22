@@ -14,7 +14,7 @@ Diese Übersicht hilft dir, den richtigen Zeitraum für deine Interessen zu find
 
 ## Wann ist die Hauptsaison in Deutschland?
 
-Die klassische Hochsaison läuft von **Juni bis August**. In dieser Zeit sind Städte wie München, Berlin und Hamburg voll. Temperaturen liegen oft zwischen 22 und 30 Grad. Museen, Schlösser und Sehenswürdigkeiten sind überfüllt. Hotels kosten im Juli in München leicht 180-220 Euro pro Nacht für ein normales Doppelzimmer.
+Die klassische Hochsaison läuft von **Juni bis August**. In dieser Zeit sind Städte wie München, Berlin und Hamburg voll. Temperaturen liegen oft zwischen 22 und 30 Grad. Museen, Schlösser und [Sehenswürdigkeiten](https://www.tiqets.com/) sind überfüllt. Hotels kosten im Juli in München leicht 180-220 Euro pro Nacht für ein normales Doppelzimmer.
 
 Wer Schloss Neuschwanstein besuchen möchte: Im Sommer stehst du bis zu zwei Stunden in der Schlange. Tickets gibt es offiziell über [schloss-neuschwanstein.de](https://www.schloss-neuschwanstein.de), früh buchen spart viel Frust.
 

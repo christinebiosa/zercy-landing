@@ -35,7 +35,7 @@ My Khe wurde von Forbes als einer der schönsten Strände der Welt gelistet. 30 
 
 **Top-Picks:** Hyatt Regency Da Nang Resort and Spa (direkter Strandzugang, hervorragendes Spa, einer der besten Resorts in Vietnam), Pullman Da Nang Beach Resort (moderne Architektur, großer Pool, familienfähig), Novotel Da Nang Premier Han River (Innenstadt, Han-Fluss-Blick, solide Mittelklasse). Diese und über 800 Hotels in Da Nang findest du auf [Booking.com](https://www.booking.com).
 
-Die offizielle [Vietnam Tourism Website](https://vietnam.travel) bietet aktuelle Reisetipps, Sehenswürdigkeiten und Informationen zur Region Zentral-Vietnam.
+Die offizielle [Vietnam Tourism Website](https://vietnam.travel) bietet aktuelle Reisetipps, [Sehenswürdigkeiten](https://www.tiqets.com/) und Informationen zur Region Zentral-Vietnam.
 
 ## Wann ist die beste Reisezeit für Da Nang?
 

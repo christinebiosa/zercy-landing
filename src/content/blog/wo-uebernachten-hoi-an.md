@@ -96,7 +96,7 @@ Beschreibe Zercy was du in Hoi An suchst: Altstadt-Flair, Strand oder ländliche
 
 ### Welcher Teil von Hoi An ist am besten zum Übernachten?
 
-Das hängt vom Reisestil ab. Für die UNESCO-Atmosphäre und alle Sehenswürdigkeiten zu Fuß: Altstadt. Für günstiger und ruhiger bei trotzdem kurzer Distanz: Cam Nam Insel. Für Strand und Kultur kombiniert: An Bang Beach per Fahrrad.
+Das hängt vom Reisestil ab. Für die UNESCO-Atmosphäre und alle [Sehenswürdigkeiten](https://www.tiqets.com/) zu Fuß: Altstadt. Für günstiger und ruhiger bei trotzdem kurzer Distanz: Cam Nam Insel. Für Strand und Kultur kombiniert: An Bang Beach per Fahrrad.
 
 ### Wie viel kostet ein Hotel in Hoi An pro Nacht?
 

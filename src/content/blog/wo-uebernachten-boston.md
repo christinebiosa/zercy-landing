@@ -31,7 +31,7 @@ Das Stadtzentrum rund um State Street und Quincy Market ist das Dreh- und Angelp
 
 Der Hafen ist nah, das New England Aquarium ist zu Fuß erreichbar, die T-Station Downtown Crossing verbindet in alle Stadtteile. Kein besonderes Flair, aber maximale Anbindung.
 
-**Für wen es passt:** Erstbesucher, Geschäftsreisende, Familien die Sehenswürdigkeiten abhaken wollen.
+**Für wen es passt:** Erstbesucher, Geschäftsreisende, Familien die [Sehenswürdigkeiten](https://www.tiqets.com/) abhaken wollen.
 
 **Preise pro Nacht:** Budget 120-180 USD, Mittelklasse 180-300 USD, Premium 300-550 USD.
 
