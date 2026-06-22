@@ -367,8 +367,11 @@ Diese Regel ist im `You NEVER:` Block am Ende des System Prompts verankert — g
 - **Buttons**: Hotels (Google/Booking/Expedia), Mietwagen (Expedia navy + DiscoverCars gelb/navy)
 - **DiscoverCars**: Standard-Affiliate abgelehnt. API/White-Label-Anfrage läuft (Sergey). Button zeigt Homepage mit `a_aid`-Placeholder. DC Deep-Links nicht möglich ohne Approval (POST-API blockt ohne Auth).
 - **Awin**: noch nicht beantragt (nächster Schritt nach PH-Launch-Traffic)
-- **Alle Affiliate-IDs**: zentral in `zercyUrls` im ZercyLayout.astro (~Zeile 1108)
+- **Alle Affiliate-IDs**: zentral in `zercyUrls` im ZercyLayout.astro (~Zeile 1108) + Blog-CTAs in `src/config/affiliates.js`
 - Details: siehe Memory `project_zercy_affiliate.md`
+
+### Affiliate-Expansions-Roadmap (Stand 2026-06-22)
+Prinzip: vorhandenen Content monetarisieren, leichte Freigabe zuerst, geo-/dreisprachig. **Tier 1:** Travelpayouts (1 Anmeldung → Trip.com/Kiwi/GetYourGuide/Viator/Airalo/Transfers/Versicherung, niedrige Hürde = größter Hebel), Amazon Associates (Gear-Roundups, OneLink amazon.de/.com/.es, ⚠️ 3-Verkäufe/180-Tage → erst bei Traffic anmelden), Booking (CJ pending), DiscoverCars. **Tier 2:** GetYourGuide/Viator (Aktivitäten→City-Guides), Airalo/Holafly (eSIM-Guide), Expedia (via Partnerize, `expediaHotels()` schon im Code = 1-Link-Tausch). **Tier 3:** Reiseversicherung, Welcome Pickups, NordVPN, Wise, Priority Pass (eigenes Programm), Civitatis (ES/LATAM). Pro Netzwerk Link-Mechanik dormant vorbauen wie bei Booking. Voll in Memory `project_zercy_affiliate.md`.
 
 ## Google Analytics + Search Console API (2026-04-17)
 - **OAuth Credentials**: `/Users/christinebork/.zercy-analytics/tokens.json`
