@@ -405,12 +405,13 @@ Travelpayouts **Drive** (Script im `<head>`, Marker 542440) wandelt jeden Link z
   - VPN → `https://nordvpn.com/`
   - Gepäckaufbewahrung/luggage storage/guardar equipaje → `https://radicalstorage.com/`
   - Flughafentransfer/airport transfer/traslado → `https://www.welcomepickups.com/`
-  - Reiseversicherung/travel insurance/seguro de viaje → `https://ektatraveling.com/`
   - Flugentschädigung/flight compensation/compensación → `https://www.airhelp.com/`
   - City Pass → `https://gocity.com/` · Aktivitäten/Tickets → `https://www.tiqets.com/` · Touren → `https://www.klook.com/`
 - **`rel="sponsored nofollow"`** kommt automatisch (astro.config `AFFILIATE_HOSTS` + rehype). Neue Partner-Domain dort ergänzen.
 - **Retrofit-Script** (idempotent, fasst bestehende Links nicht an): `node scripts/inject-affiliate-links.mjs` — nach jedem neuen Blog-Batch laufen lassen, fängt Keyword-Erwähnungen ohne Link ab. `--dry` für Vorschau. Stand 2026-06-22: 232 Links in 215 Artikel gesetzt.
 - **NICHT** zu Booking/GetYourGuide/Viator/Trip.com/Agoda verlinken, solange die NICHT auf TP verbunden sind (Drive trackt sie sonst nicht). Booking läuft separat über CJ.
+- **⚠️ PFLICHT: jede neue Affiliate-Kategorie per echtem KLICK testen, bevor man sie ausrollt.** Drives „linkswitcher" wählt pro Kategorie SEINEN Advertiser; ist der nicht abonniert → „marker is not subscribed" (kaputt). Copy-Link/Headless reichen NICHT, nur echter Klick. „geht" = Marken-Seite mit Tracking (member-ID 742545/travelpayouts).
+- **Klick-verifiziert OK (2026-06-22):** Airalo, NordVPN, Radical Storage, Welcome Pickups, AirHelp, Go City, Economybookings. **KAPUTT/RAUS: Versicherung (EKTA→VisitorsCoverage nicht abonniert)** , NICHT zu ektatraveling.com verlinken bis VisitorsCoverage in TP gejoint ist.
 
 ## Blog-Artikel — Vollständige Checkliste (IMMER anwenden, ohne Aufforderung)
 
