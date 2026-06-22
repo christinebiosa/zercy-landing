@@ -3,6 +3,9 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  'priority-pass-lohnt-sich': 'priority-pass',
+  'priority-pass-worth-it': 'priority-pass',
+  'priority-pass-vale-la-pena': 'priority-pass',
   'kostenlose-stornierung-vs-nicht-erstattbar-hotel': 'hotel-cancellation-rate',
   'free-cancellation-vs-non-refundable-hotel': 'hotel-cancellation-rate',
   'cancelacion-gratis-vs-no-reembolsable-hotel': 'hotel-cancellation-rate',
@@ -2755,6 +2758,7 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'priority-pass': 'airport lounge',
   'hotel-cancellation-rate': 'hotel reception desk',
   'sorrento': 'sorrento italy coast',
   'taormina': 'taormina sicily',
