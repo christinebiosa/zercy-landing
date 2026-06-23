@@ -10,6 +10,18 @@ const canonicalUrl = lang === 'de' ? 'https://www.zercy.app/' : `https://www.zer
 const c = CONTENT[lang] || CONTENT.de;
 const langs = ['en', 'de', 'es', 'fr', 'nl', 'it', 'pt'];
 const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
+
+// Footer-Link-Labels lokalisiert + geo-/legal-korrekt ("Impressum" ist deutscher Rechtsbegriff)
+const FOOTER_LABELS: Record<string, { about: string; privacy: string; legal: string; terms: string }> = {
+  de: { about: 'Über uns', privacy: 'Datenschutz', legal: 'Impressum', terms: 'AGB' },
+  en: { about: 'About', privacy: 'Privacy Policy', legal: 'Legal Notice', terms: 'Terms' },
+  es: { about: 'Sobre nosotros', privacy: 'Privacidad', legal: 'Aviso legal', terms: 'Términos' },
+  fr: { about: 'À propos', privacy: 'Confidentialité', legal: 'Mentions légales', terms: 'Conditions' },
+  nl: { about: 'Over ons', privacy: 'Privacybeleid', legal: 'Juridische kennisgeving', terms: 'Voorwaarden' },
+  it: { about: 'Chi siamo', privacy: 'Privacy', legal: 'Note legali', terms: 'Termini' },
+  pt: { about: 'Sobre', privacy: 'Privacidade', legal: 'Aviso legal', terms: 'Termos' },
+};
+const fl = FOOTER_LABELS[lang] || FOOTER_LABELS.en;
 ---
 
 <!DOCTYPE html>
@@ -384,7 +396,7 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
         <p class="footer-nl-error" hidden></p>
       </div>
       <SocialLinks />
-      <p class="footer-links"><a href="/about">About</a> &nbsp;·&nbsp; <a href="/privacy">Privacy Policy</a> &nbsp;·&nbsp; <a href="/impressum">Impressum</a> &nbsp;·&nbsp; <a href="/terms">Terms</a> &nbsp;·&nbsp; <a href="mailto:info@zercy.app">info@zercy.app</a></p>
+      <p class="footer-links"><a href="/about">{fl.about}</a> &nbsp;·&nbsp; <a href="/privacy">{fl.privacy}</a> &nbsp;·&nbsp; <a href="/impressum">{fl.legal}</a> &nbsp;·&nbsp; <a href="/terms">{fl.terms}</a> &nbsp;·&nbsp; <a href="mailto:info@zercy.app">info@zercy.app</a></p>
       <p class="footer-disclosure">{c.footerDisclosure}</p>
       <p class="footer-copy">© 2026 Zercy. Made with love and a lot of AI.</p>
     </div>
