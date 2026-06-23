@@ -70,7 +70,7 @@ Return ONLY JSON in exactly this shape:
     { "heading": "Neighborhood name", "line": "one vivid mood line", "bestFor": "2-4 keywords", "query": "english photo search term" }
   ],
   "cta": { "headline": "Save this for your trip", "sub": "Full guide on zercy.app", "query": "english photo search term" },
-  "caption": "IG/FB caption BODY only, no hashtags: a scroll-stopping hook line, then 2-3 short value lines, then a soft CTA 'Full guide in our bio'. Short sentences. No em-dashes.",
+  "caption": "IG/FB caption BODY only, no hashtags: a scroll-stopping hook line, then 2-3 short value lines, then ONE punchy engagement question on its own line ending with the 👇 emoji that invites a comment, then a soft CTA line 'Full guide in our bio'. Short sentences. No em-dashes.",
   "hashtags": ["wheretostay${cityName.toLowerCase().replace(/[^a-z0-9]/g, '')}", "..."]
 }
 Rules:
@@ -94,7 +94,7 @@ Return ONLY JSON in exactly this shape:
     { "heading": "short buying angle (max 3 words, e.g. Best overall, Best budget, Best lightweight, Best for camping)", "line": "the actual pick by its real name from the article + one reason, one vivid line", "bestFor": "2-4 keywords (who it suits)", "query": "english photo search term for a vertical lifestyle image of this product type in use" }
   ],
   "cta": { "headline": "Save this for your trip", "sub": "Full guide on zercy.app", "query": "english photo search term" },
-  "caption": "IG/FB caption BODY only, no hashtags: a scroll-stopping hook line, then 2-3 short value lines, then a soft CTA 'Full guide in our bio'. Short sentences. No em-dashes.",
+  "caption": "IG/FB caption BODY only, no hashtags: a scroll-stopping hook line, then 2-3 short value lines, then ONE punchy engagement question on its own line ending with the 👇 emoji that invites a comment, then a soft CTA line 'Full guide in our bio'. Short sentences. No em-dashes.",
   "hashtags": ["travelgear", "..."]
 }
 Rules:
@@ -104,12 +104,39 @@ Rules:
 - "caption" contains NO hashtags and NO '#' characters.
 - "hashtags": EXACTLY 5 entries (TikTok deletes posts with more). Each is ONE lowercase token, no '#', no spaces, no punctuation (e.g. "travelgear", "packingtips", "traveltech"). Mix product and travel-niche tags.`;
 
+const DECISION_PROMPT = (slug, name, enBody) => `You write an English Instagram/Facebook carousel for a travel "is it worth it?" decision guide titled "${name}", from the blog article below.
+
+Article excerpt:
+${enBody.slice(0, 1600)}
+
+Tone: direct, "you", short punchy sentences, no em-dashes, no fluff. Confident and honest, like a savvy traveler who actually ran the numbers.
+
+Return ONLY JSON in exactly this shape:
+{
+  "topic": "${slug}",
+  "cover": { "title": "scroll-stopping yes/no hook phrased as a question (max 8 words)", "hook": "one short promise line, e.g. The honest math, no airline spin", "query": "english photo search term" },
+  "slides": [
+    { "heading": "short decision beat (max 3 words)", "line": "one vivid line with a REAL number or concrete fact from the article", "bestFor": "", "query": "english photo search term for a vertical image" }
+  ],
+  "cta": { "headline": "Save this before you book", "sub": "Full guide on zercy.app", "query": "english photo search term" },
+  "caption": "IG/FB caption BODY only, no hashtags: a scroll-stopping hook line, then 2-3 short value lines with a real number, then ONE punchy engagement question on its own line ending with the 👇 emoji that invites a comment, then a soft CTA line 'Full guide in our bio'. Short sentences. No em-dashes.",
+  "hashtags": ["topicspecifictag", "..."]
+}
+Rules:
+- "slides" has EXACTLY 5 entries in this order: 1) what it costs, 2) what you actually get, 3) the decision rule or break-even, 4) when it IS worth it, 5) when to skip it. Headings like "What you pay", "What you get", "The rule", "Worth it", "Skip it".
+- Put REAL numbers from the article in the "line" fields. No invented figures.
+- Every "query" is a concrete English photo search term for a vertical image.
+- "caption" contains NO hashtags and NO '#' characters.
+- "hashtags": EXACTLY 5 entries (TikTok deletes posts with more). Each is ONE lowercase token, no '#', no spaces, no punctuation. Mix topic-specific and travel-niche tags.`;
+
 export async function generateCarouselSheet({ slug, name, cityName, enBody, apiKey, mode = 'city', category = '' }) {
   const displayName = name || cityName;
   const anthropic = new Anthropic({ apiKey });
-  const prompt = mode === 'product'
-    ? PRODUCT_PROMPT(slug, displayName, category, enBody)
-    : CAROUSEL_PROMPT(slug, displayName, enBody);
+  const prompt = mode === 'decision'
+    ? DECISION_PROMPT(slug, displayName, enBody)
+    : mode === 'product'
+      ? PRODUCT_PROMPT(slug, displayName, category, enBody)
+      : CAROUSEL_PROMPT(slug, displayName, enBody);
   const msg = await anthropic.messages.create({
     model: 'claude-sonnet-4-6',
     max_tokens: 2000,
