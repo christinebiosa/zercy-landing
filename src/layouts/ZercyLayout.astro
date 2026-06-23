@@ -1103,6 +1103,24 @@ const zercyUrls = {
   economyCars() {
     return 'https://www.economybookings.com/';
   },
+
+  // Tiqets (Aktivitäten/Tickets, getrackt via Drive). search?q=Stadt leitet zuverlässig
+  // auf die Stadt-Attraktionsseite (verifiziert 302->200). Leere Stadt -> Startseite.
+  tiqetsTickets(city) {
+    const c = (city || '').trim();
+    return c ? `https://www.tiqets.com/en/search?q=${encodeURIComponent(c)}` : 'https://www.tiqets.com/';
+  },
+
+  // Welcome Pickups (Flughafentransfer, getrackt via Drive). Stadt-Seiten nicht
+  // zuverlässig verifizierbar (Bot-Block) und nicht jede Stadt hat eine -> Startseite (sicher).
+  welcomeTransfer() {
+    return 'https://www.welcomepickups.com/';
+  },
+
+  // Airalo (eSIM, getrackt via Drive). Ein Reise-Button, Nutzer wählt Land -> Startseite.
+  airaloEsim() {
+    return 'https://www.airalo.com/';
+  },
 };
 if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
 window.scrollTo(0, 0);
@@ -2642,6 +2660,17 @@ function buildResultsHtml(d, id) {
             </div>
           </div>`;
         })() : ''}
+        ${!isReturn ? (() => {
+          const tourCity = d.hotel?.destination || a.city || '';
+          const tiqetsUrl = zercyUrls.tiqetsTickets(tourCity);
+          const tourLabel = tourCity ? `🎟 Touren & Tickets in ${tourCity}` : '🎟 Touren & Tickets';
+          return `<div class="ap-section purple">
+            <div class="ap-section-header">${tourLabel}</div>
+            <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+              <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${tiqetsUrl}" target="_blank" rel="noopener">Tiqets ↗</a>
+            </div>
+          </div>`;
+        })() : ''}
         ${!isReturn && hotelCheckin && hotelCheckout ? (() => {
           // Use car_rental city from parse.js if available, else fall back to airport city
           const carCity = d.car_rental?.pickup_city || a.city || '';
@@ -2656,6 +2685,16 @@ function buildResultsHtml(d, id) {
               <a class="hotel-btn expedia-navy-btn" href="${expUrl}" target="_blank" rel="noopener">Expedia</a>
               <a class="hotel-btn dc-btn" href="${dcCarBtn}" target="_blank" rel="noopener">DiscoverCars</a>
               <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
+            </div>
+          </div>`;
+        })() : ''}
+        ${!isReturn ? (() => {
+          const transferCity = d.car_rental?.pickup_city || d.hotel?.destination || a.city || '';
+          const transferLabel = transferCity ? `🚕 Flughafentransfer in ${transferCity}` : '🚕 Flughafentransfer';
+          return `<div class="ap-section orange">
+            <div class="ap-section-header">${transferLabel}</div>
+            <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+              <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.welcomeTransfer()}" target="_blank" rel="noopener">Welcome Pickups ↗</a>
             </div>
           </div>`;
         })() : ''}
