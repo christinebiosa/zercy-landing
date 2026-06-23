@@ -247,6 +247,13 @@ Alle 7 Seiten rendern über `/src/layouts/ZercyLayout.astro` — der Hauptteil d
 - **DE:** "Ob Reiseidee oder konkreter Plan. / Zercy denkt mit und liefert echte Optionen. / Mit Live-Preisen. Du entscheidest. Du buchst."
 - **EN:** "Travel idea or ready to book. / Zercy thinks it through and finds your options. / Live prices. You decide. You book."
 
+## 🦶 Footer-Lokalisierung (PFLICHT — Links IMMER in der Sprache der Seite)
+Footer-Links (`<a href="/about">…</a> · Blog · Privacy · Impressum · Terms`) sind in JEDEM Template **hartkodiert** und stehen mehrfach (6 Blog-Templates `blog`/`en/blog`/`es/blog` × `[slug]`+`index`, App-Footer in `ZercyLayout.astro`, Standalone-Seiten `about/privacy/terms/impressum`). Blogs haben EIGENE Footer (wie bei Social-Links).
+- **Label IMMER in Seitensprache:** DE = Über uns / Datenschutz / Impressum / AGB · EN = About / Privacy Policy / Legal Notice / Terms · ES = Sobre nosotros / Privacidad / Aviso legal / Términos. (App-Footer in `ZercyLayout` nutzt `FOOTER_LABELS[lang]` für alle 7 Sprachen, inkl. FR/NL/IT/PT.)
+- **⚖️ Geo/legal: „Impressum" ist ein deutscher Rechtsbegriff** → NUR auf deutschen Seiten. EN = „Legal Notice", ES = „Aviso legal", FR = „Mentions légales" usw. (URL bleibt `/impressum`, nur das Label übersetzen.)
+- **Tagline + Copy auch lokalisieren** (Copy „Mit Liebe und viel KI gemacht." / „Made with love…" / „Hecho con amor…"), KEINE Em-Dashes in der Tagline.
+- **Tool:** `node scripts/fix-footers.mjs` (idempotent, token-basiert). Bei neuem Footer-Template hier eintragen + Script-Regel ergänzen.
+
 ## Seiten
 | Datei | URL | Sprache |
 |-------|-----|---------|
