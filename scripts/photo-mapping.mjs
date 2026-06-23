@@ -3,6 +3,22 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  // Flagship-Batch 2026-06-23 (5 "lohnt sich"-Artikel)
+  'mietwagen-versicherung-lohnt-sich': 'mietwagen-versicherung',
+  'rental-car-insurance-worth-it': 'mietwagen-versicherung',
+  'seguro-coche-alquiler-vale-la-pena': 'mietwagen-versicherung',
+  'premium-economy-lohnt-sich': 'premium-economy',
+  'premium-economy-worth-it': 'premium-economy',
+  'premium-economy-vale-la-pena': 'premium-economy',
+  'flughafentransfer-vs-taxi-lohnt-sich': 'flughafentransfer-vs-taxi',
+  'airport-transfer-vs-taxi-worth-it': 'flughafentransfer-vs-taxi',
+  'traslado-aeropuerto-vs-taxi-vale-la-pena': 'flughafentransfer-vs-taxi',
+  'global-entry-tsa-precheck-lohnt-sich': 'global-entry-tsa-precheck',
+  'global-entry-tsa-precheck-worth-it': 'global-entry-tsa-precheck',
+  'global-entry-tsa-precheck-vale-la-pena': 'global-entry-tsa-precheck',
+  'sitzplatz-reservieren-lohnt-sich': 'sitzplatz-reservieren',
+  'seat-selection-worth-it': 'sitzplatz-reservieren',
+  'pagar-elegir-asiento-vale-la-pena': 'sitzplatz-reservieren',
   'fahrrad-mieten-reise-guide': 'bike-rental',
   'renting-a-bike-travel-guide': 'bike-rental',
   'alquilar-bicicleta-viaje-guia': 'bike-rental',
@@ -2779,6 +2795,11 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'mietwagen-versicherung': 'car rental keys',
+  'premium-economy': 'airplane cabin interior',
+  'flughafentransfer-vs-taxi': 'airport taxi',
+  'global-entry-tsa-precheck': 'airport passport control',
+  'sitzplatz-reservieren': 'airplane window seat',
   'bike-rental': 'bicycle rental city',
   'yacht-charter': 'sailing yacht sea',
   'priority-pass': 'airport lounge',
