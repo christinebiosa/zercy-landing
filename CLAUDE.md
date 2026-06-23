@@ -150,14 +150,18 @@ Das AI-Tool (Repo: cerci-demo) läuft live auf app.zercy.app.
 - **API-Funktionen:** `/api/think.js`, `/api/parse.js`, `/api/chat.js`, `/api/zercy-identity.js`
 - **Node:** >=22.12.0
 
-## Deploy (IMMER alle 4 Schritte, IMMER!)
+## Deploy (IMMER alle Schritte, IMMER!)
 ```bash
-cd /Users/christinebork/Desktop/zercy-landing
+cd "$HOME/Claude Code Projects/zercy-landing"
+node scripts/validate-articles.mjs        # PFLICHT-GATE: bei Exit 1 STOPPEN + fixen, NICHT deployen
 node scripts/generate-hreflang-map.mjs
 npx astro build
 npx vercel --prod --force --archive=tgz
 git add -A && git commit -m "Beschreibung der Änderung" && git push
 ```
+
+### 🚦 Qualitäts-Gate vor JEDEM Deploy (PFLICHT, nicht aus dem Gedächtnis prüfen)
+`node scripts/validate-articles.mjs` prüft die heutigen (oder als Argument übergebenen) Artikel deterministisch gegen alle SEO/AEO/Stil-Regeln und gibt **Exit 1** bei jedem Verstoß: metaTitle 45-60, description 160-200, gültige Kategorie, heroImage-Datei existiert, 0 Em-Dashes, keine ASCII-gefoldeten Umlaute (DE), TL;DR-Box als 1. Zeile, ≥3 Frage-H2 (AEO), exakter FAQ-Heading + 4 W-Fragen (FAQPage-Schema!), interne Links mit trailing slash + ≥3, ≥1 externer Autoritäts-Link. **Bei Exit 1: erst fixen, dann erneut laufen lassen, NICHT deployen.** (Hätte den 2-ES-metaTitle-Fehler vom 2026-06-23 geblockt.) Neue Pflicht-Regel? → als Check ins Script aufnehmen, nicht ins Gedächtnis.
 **NIEMALS** nur Vercel deployen ohne Git-Push. GitHub MUSS immer synchron sein mit dem was live ist. Nicht fragen ob gepusht werden soll — einfach machen. Das ist Teil des Deployments.
 
 ## 🔗 Canonical-URL-Konvention (KRITISCH für SEO — nie brechen!)
@@ -396,6 +400,9 @@ Prinzip: vorhandenen Content monetarisieren, leichte Freigabe zuerst, geo-/dreis
 ---
 
 ## ⚠️ CONTENT-STRATEGIE (Stand 2026-06-22 — WICHTIG, GSC-Reality-Check)
+
+### 🧭 STRATEGIE-GATE (PFLICHT, ICH halte den Plan, nicht Christine)
+Ich bin der Marketing-Spezialist , die Strategie gehört in MEINEN Kopf. Bei JEDER Mengen-/Content-Anfrage (Artikel vorschlagen, „bau N Blogs", Batch, „mach mehr") nenne ich **ZUERST proaktiv den Konflikt mit unserer eigenen Kadenz** (1 tiefes Flagship alle ~2 Tage, NICHT Masse) UND eine Empfehlung, BEVOR ich produziere. Christine soll NICHT die Strategie im Kopf haben müssen und mich korrigieren. Beispiel-Reflex: „5 auf einmal ist ein Mini-Batch gegen unsere Kadenz , Vorschlag: staffeln, ODER bewusste Ausnahme weil alle Gewinner-Format + recherchiert + monetarisiert. Was willst du?" Ausnahme ist ok, aber als bewusste Entscheidung, die ICH anbiete, nicht als stiller Default. (Auslöser dieser Regel: 2026-06-23 , 5 Artikel begeistert geliefert statt den Strategie-Konflikt zu flaggen.)
 
 **Massen-Publizieren ist VORBEI.** GSC zeigte: 2400 Seiten, Positionen 70-99, ~0 organische Klicks. Masse rankt nicht (junge Domain, Autorität fehlt) und ist riskant (Google „Scaled Content Abuse"). Neue Linie:
 - **Cadence: 1 richtig tiefer Flagship-Artikel alle ~2 Tage, ×3 Sprachen** (nicht 50/Tag). Bei „mach 50 Blogs"-Anfragen freundlich auf den GSC-Befund hinweisen.
