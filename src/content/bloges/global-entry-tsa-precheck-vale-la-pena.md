@@ -1,6 +1,6 @@
 ---
 title: "¿Valen la pena Global Entry y TSA PreCheck? Análisis honesto"
-metaTitle: "¿Global Entry vale la pena? Análisis | Zercy"
+metaTitle: "Global Entry y TSA PreCheck: ¿vale la pena? | Zercy"
 description: "Global Entry cuesta 120 USD por 5 años y TSA PreCheck 78 USD. ¿De verdad valen la pena si viajas a Estados Unidos? Números reales, veredicto honesto y una guía de decisión."
 pubDate: 2026-06-23
 category: "Viaje inteligente"

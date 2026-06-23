@@ -1,6 +1,6 @@
 ---
 title: "Premium Economy: ¿Vale la pena pagar más?"
-metaTitle: "Premium Economy: ¿Vale la pena? | Zercy"
+metaTitle: "Premium Economy: ¿vale la pena pagar más? | Zercy"
 description: "Premium economy suele costar de 50 a 100 por ciento más que económica. Cuándo el sobreprecio conviene, cuándo ahorrar y desde qué duración tiene sentido: el veredicto honesto con números."
 pubDate: 2026-06-23
 category: "Viaje inteligente"
