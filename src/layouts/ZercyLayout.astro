@@ -711,6 +711,12 @@ const getLangPath = (l: string) => l === 'de' ? '/' : `/${l}`;
   .google-btn { background: #4285F4; color: #fff; }
   .dc-btn { background: #FFDD00; color: #0A2647; border: 2px solid #0A2647; font-weight: 700; }
   .expedia-navy-btn { background: #003087; color: #fff; }
+  /* Affiliate-Marken-Buttons (echte Brand-Farben) */
+  .aff-aviasales { background: #1b6cf3; color: #fff; }
+  .aff-economy { background: #1452cc; color: #fff; border: 2px solid #ff7a00; }
+  .aff-welcome { background: #fff; color: #2d3a47; border: 2px solid #2d3a47; }
+  .aff-tiqets { background: #1aa3a3; color: #fff; }
+  .aff-airalo { background: #f37021; color: #fff; }
   /* Trip Summary Bar */
   .trip-summary-bar { position: sticky; top: 56px; z-index: 50; background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); border-radius: 14px; padding: 0.75rem 1.2rem; margin-bottom: 1rem; color: white; font-family: 'Inter', sans-serif; box-shadow: 0 4px 20px rgba(15,23,42,0.25); }
   .tsb-main { display: flex; align-items: center; gap: 0.6rem; font-size: 0.92rem; font-weight: 700; flex-wrap: wrap; }
@@ -2104,7 +2110,7 @@ function extraComponentsHtml(d, skipHotel = false) {
     html += `<div class="ap-section orange" style="margin-top:0.8rem;">
       <div class="ap-section-header">🚗 ${carTitle}</div>
       <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
-        <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
+        <a class="hotel-btn aff-economy" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
         <a class="hotel-btn expedia-navy-btn" href="${expCarUrl}" target="_blank" rel="noopener">Expedia</a>
         <a class="hotel-btn dc-btn" href="${dcCarUrl}" target="_blank" rel="noopener">DiscoverCars</a>
       </div>
@@ -2199,7 +2205,7 @@ function buildCarOnlyHtml(d) {
       <div class="ap-section orange" style="margin-top:0.8rem;">
         <div class="ap-section-header">🚗 ${lang === 'de' ? 'Mietwagen buchen' : lang === 'fr' ? 'Réserver un véhicule' : lang === 'es' ? 'Reservar coche' : lang === 'nl' ? 'Auto huren' : lang === 'it' ? 'Prenota un\'auto' : lang === 'pt' ? 'Reservar carro' : 'Book rental car'}</div>
         <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
-          <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
+          <a class="hotel-btn aff-economy" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
           <a class="hotel-btn expedia-navy-btn" href="${expediaUrl}" target="_blank" rel="noopener">Expedia</a>
           <a class="hotel-btn dc-btn" href="${dcUrl}" target="_blank" rel="noopener">DiscoverCars</a>
         </div>
@@ -2570,7 +2576,7 @@ function buildResultsHtml(d, id) {
                 <div style="font-size:0.78rem;color:#94a3b8;padding:0.2rem 0 0.4rem;">Im Roundtrip-Preis bereits enthalten.</div>
                 <div class="flight-fallback-row">
                   <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">🔍 Expedia ↗</a>
-                  <a class="flight-book-btn" style="background:#e0f2f1;color:#00897b;" href="${aviaUrl}" target="_blank" rel="noopener">🔍 Aviasales ↗</a>
+                  <a class="flight-book-btn aff-aviasales" href="${aviaUrl}" target="_blank" rel="noopener">🔍 Aviasales ↗</a>
                   <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">🔍 Google Flights ↗</a>
                 </div>
               </div>
@@ -2617,7 +2623,7 @@ function buildResultsHtml(d, id) {
                       </div>
                       <div class="flight-book-row">
                         <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">Expedia ↗</a>
-                        <a class="flight-book-btn" style="background:#e0f2f1;color:#00897b;" href="${aviaUrl}" target="_blank" rel="noopener">Aviasales ↗</a>
+                        <a class="flight-book-btn aff-aviasales" href="${aviaUrl}" target="_blank" rel="noopener">Aviasales ↗</a>
                         <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">Google Flights ↗</a>
                       </div>
                     </div>
@@ -2633,7 +2639,7 @@ function buildResultsHtml(d, id) {
                 <div style="font-size:0.75rem;color:#94a3b8;margin-bottom:0.4rem;">Keine Live-Preise — direkt suchen:</div>
                 <div class="flight-fallback-row">
                   <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">🔍 Expedia ↗</a>
-                  <a class="flight-book-btn" style="background:#e0f2f1;color:#00897b;" href="${aviaUrl}" target="_blank" rel="noopener">🔍 Aviasales ↗</a>
+                  <a class="flight-book-btn aff-aviasales" href="${aviaUrl}" target="_blank" rel="noopener">🔍 Aviasales ↗</a>
                   <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">🔍 Google Flights ↗</a>
                 </div>
               </div>
@@ -2667,7 +2673,7 @@ function buildResultsHtml(d, id) {
           return `<div class="ap-section purple">
             <div class="ap-section-header">${tourLabel}</div>
             <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
-              <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${tiqetsUrl}" target="_blank" rel="noopener">Tiqets ↗</a>
+              <a class="hotel-btn aff-tiqets" href="${tiqetsUrl}" target="_blank" rel="noopener">Tiqets ↗</a>
             </div>
           </div>`;
         })() : ''}
@@ -2682,7 +2688,7 @@ function buildResultsHtml(d, id) {
           return `<div class="ap-section orange">
             <div class="ap-section-header">${carLabel}</div>
             <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
-              <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
+              <a class="hotel-btn aff-economy" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
               <a class="hotel-btn expedia-navy-btn" href="${expUrl}" target="_blank" rel="noopener">Expedia</a>
               <a class="hotel-btn dc-btn" href="${dcCarBtn}" target="_blank" rel="noopener">DiscoverCars</a>
             </div>
@@ -2694,7 +2700,7 @@ function buildResultsHtml(d, id) {
           return `<div class="ap-section orange">
             <div class="ap-section-header">${transferLabel}</div>
             <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
-              <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.welcomeTransfer()}" target="_blank" rel="noopener">Welcome Pickups ↗</a>
+              <a class="hotel-btn aff-welcome" href="${zercyUrls.welcomeTransfer()}" target="_blank" rel="noopener">Welcome Pickups ↗</a>
             </div>
           </div>`;
         })() : ''}
@@ -2724,7 +2730,7 @@ function buildResultsHtml(d, id) {
       </div>
       <div style="display:flex;gap:0.35rem;flex-shrink:0">
         <a class="query-exp" href="${expediaUrl}" target="_blank" rel="noopener">Expedia</a>
-        <a class="query-exp" style="background:#e0f2f1;color:#00897b;" href="${aviaUrl}" target="_blank" rel="noopener">Aviasales</a>
+        <a class="query-exp aff-aviasales" href="${aviaUrl}" target="_blank" rel="noopener">Aviasales</a>
         <a class="query-gfl" href="${gflUrl}" target="_blank" rel="noopener">✈ Google</a>
       </div>
     </div>`;
@@ -2766,9 +2772,9 @@ function buildResultsHtml(d, id) {
 
   return `
     ${tripSummaryBar}
-    <div style="display:flex;align-items:center;justify-content:space-between;gap:0.5rem;background:#f0fdfa;border:1px solid #99f6e4;border-radius:10px;padding:0.5rem 0.8rem;margin:0.4rem 0;font-size:0.85rem;color:#0f766e;flex-wrap:wrap;">
+    <div style="display:flex;align-items:center;justify-content:space-between;gap:0.5rem;background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:0.5rem 0.8rem;margin:0.4rem 0;font-size:0.85rem;color:#9a3412;flex-wrap:wrap;">
       <span>📱 ${{ de:'eSIM für die Reise · Daten ab Ankunft', en:'eSIM for your trip · data on arrival', fr:'eSIM pour ton voyage · données dès l\'arrivée', es:'eSIM para tu viaje · datos al llegar', nl:'eSIM voor je reis · data bij aankomst', it:'eSIM per il viaggio · dati all\'arrivo', pt:'eSIM para a viagem · dados à chegada' }[zercyLang] || 'eSIM for your trip · data on arrival'}</span>
-      <a href="${zercyUrls.airaloEsim()}" target="_blank" rel="noopener" style="background:#0d9488;color:#fff;padding:0.3rem 0.8rem;border-radius:7px;text-decoration:none;white-space:nowrap;font-weight:600;">Airalo ↗</a>
+      <a href="${zercyUrls.airaloEsim()}" target="_blank" rel="noopener" style="background:#f37021;color:#fff;padding:0.3rem 0.8rem;border-radius:7px;text-decoration:none;white-space:nowrap;font-weight:600;">Airalo ↗</a>
     </div>
     <div class="summary-banner">
       <div class="icon">🌍</div>
