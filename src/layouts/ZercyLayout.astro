@@ -2764,6 +2764,10 @@ function buildResultsHtml(d, id) {
 
   return `
     ${tripSummaryBar}
+    <div style="display:flex;align-items:center;justify-content:space-between;gap:0.5rem;background:#f0fdfa;border:1px solid #99f6e4;border-radius:10px;padding:0.5rem 0.8rem;margin:0.4rem 0;font-size:0.85rem;color:#0f766e;flex-wrap:wrap;">
+      <span>📱 ${{ de:'eSIM für die Reise · Daten ab Ankunft', en:'eSIM for your trip · data on arrival', fr:'eSIM pour ton voyage · données dès l\'arrivée', es:'eSIM para tu viaje · datos al llegar', nl:'eSIM voor je reis · data bij aankomst', it:'eSIM per il viaggio · dati all\'arrivo', pt:'eSIM para a viagem · dados à chegada' }[zercyLang] || 'eSIM for your trip · data on arrival'}</span>
+      <a href="${zercyUrls.airaloEsim()}" target="_blank" rel="noopener" style="background:#0d9488;color:#fff;padding:0.3rem 0.8rem;border-radius:7px;text-decoration:none;white-space:nowrap;font-weight:600;">Airalo ↗</a>
+    </div>
     <div class="summary-banner">
       <div class="icon">🌍</div>
       <div>
