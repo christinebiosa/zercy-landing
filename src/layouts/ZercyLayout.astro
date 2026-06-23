@@ -2090,9 +2090,9 @@ function extraComponentsHtml(d, skipHotel = false) {
       <div class="ap-section-header">${sectionTitle} <span class="hotel-price-from"></span></div>
       <div class="ap-section-body" data-hotel-prices="${hpId1}" data-hotel-dest="${d.hotel.destination.replace(/"/g,'&quot;')}" data-hotel-ci="${ci}" data-hotel-co="${co1}">
         ${officialBtn}
-        <a class="hotel-btn google-btn" data-hotel-src="google" href="${googleHotelUrl}" target="_blank" rel="noopener">Google Hotels</a>
-        <a class="hotel-btn booking-btn" data-hotel-src="booking" href="${bookingSearchUrl}" target="_blank" rel="noopener">Booking.com</a>
         <a class="hotel-btn expedia-btn" data-hotel-src="expedia" href="${expediaSearchUrl}" target="_blank" rel="noopener">Expedia</a>
+        <a class="hotel-btn booking-btn" data-hotel-src="booking" href="${bookingSearchUrl}" target="_blank" rel="noopener">Booking.com</a>
+        <a class="hotel-btn google-btn" data-hotel-src="google" href="${googleHotelUrl}" target="_blank" rel="noopener">Google Hotels</a>
       </div>
     </div>`;
   }
@@ -2104,9 +2104,9 @@ function extraComponentsHtml(d, skipHotel = false) {
     html += `<div class="ap-section orange" style="margin-top:0.8rem;">
       <div class="ap-section-header">🚗 ${carTitle}</div>
       <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+        <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
         <a class="hotel-btn expedia-navy-btn" href="${expCarUrl}" target="_blank" rel="noopener">Expedia</a>
         <a class="hotel-btn dc-btn" href="${dcCarUrl}" target="_blank" rel="noopener">DiscoverCars</a>
-        <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
       </div>
     </div>`;
   }
@@ -2199,9 +2199,9 @@ function buildCarOnlyHtml(d) {
       <div class="ap-section orange" style="margin-top:0.8rem;">
         <div class="ap-section-header">🚗 ${lang === 'de' ? 'Mietwagen buchen' : lang === 'fr' ? 'Réserver un véhicule' : lang === 'es' ? 'Reservar coche' : lang === 'nl' ? 'Auto huren' : lang === 'it' ? 'Prenota un\'auto' : lang === 'pt' ? 'Reservar carro' : 'Book rental car'}</div>
         <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+          <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
           <a class="hotel-btn expedia-navy-btn" href="${expediaUrl}" target="_blank" rel="noopener">Expedia</a>
           <a class="hotel-btn dc-btn" href="${dcUrl}" target="_blank" rel="noopener">DiscoverCars</a>
-          <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
         </div>
       </div>
     </div>
@@ -2240,9 +2240,9 @@ function hotelOnlyHtml(d) {
     </div>
     <div class="ap-section-body" data-hotel-prices="hp-${Math.random().toString(36).slice(2,8)}" data-hotel-dest="${dest.replace(/"/g,'&quot;')}" data-hotel-ci="${ci}" data-hotel-co="${co}" style="display:flex;gap:0.5rem;flex-wrap:wrap;padding:0.8rem 0 0.2rem;">
       ${officialBtnHotelOnly}
-      <a class="hotel-btn google-btn" data-hotel-src="google" href="${googleHotelUrl}" target="_blank" rel="noopener">Google Hotels</a>
-      <a class="hotel-btn booking-btn" data-hotel-src="booking" href="${bookingUrl}" target="_blank" rel="noopener">Booking.com</a>
       <a class="hotel-btn expedia-btn" data-hotel-src="expedia" href="${expediaUrl}" target="_blank" rel="noopener">Expedia</a>
+      <a class="hotel-btn booking-btn" data-hotel-src="booking" href="${bookingUrl}" target="_blank" rel="noopener">Booking.com</a>
+      <a class="hotel-btn google-btn" data-hotel-src="google" href="${googleHotelUrl}" target="_blank" rel="noopener">Google Hotels</a>
     </div>
   </div>
   ${insightHtml}
@@ -2569,9 +2569,9 @@ function buildResultsHtml(d, id) {
               <div class="ap-section-body">
                 <div style="font-size:0.78rem;color:#94a3b8;padding:0.2rem 0 0.4rem;">Im Roundtrip-Preis bereits enthalten.</div>
                 <div class="flight-fallback-row">
-                  <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">🔍 Google Flights ↗</a>
                   <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">🔍 Expedia ↗</a>
                   <a class="flight-book-btn" style="background:#e0f2f1;color:#00897b;" href="${aviaUrl}" target="_blank" rel="noopener">🔍 Aviasales ↗</a>
+                  <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">🔍 Google Flights ↗</a>
                 </div>
               </div>
             </div>`;
@@ -2616,9 +2616,9 @@ function buildResultsHtml(d, id) {
                         <span class="${f.stops === 0 ? 'flight-nonstop' : ''}">${f.stops === 0 ? 'nonstop' : f.stops + ' stop'}</span>
                       </div>
                       <div class="flight-book-row">
-                        <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">Google Flights ↗</a>
                         <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">Expedia ↗</a>
                         <a class="flight-book-btn" style="background:#e0f2f1;color:#00897b;" href="${aviaUrl}" target="_blank" rel="noopener">Aviasales ↗</a>
+                        <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">Google Flights ↗</a>
                       </div>
                     </div>
                   `).join('')}
@@ -2632,9 +2632,9 @@ function buildResultsHtml(d, id) {
               <div class="ap-section-body">
                 <div style="font-size:0.75rem;color:#94a3b8;margin-bottom:0.4rem;">Keine Live-Preise — direkt suchen:</div>
                 <div class="flight-fallback-row">
-                  <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">🔍 Google Flights ↗</a>
                   <a class="flight-book-btn exp-btn" href="${expUrl}" target="_blank" rel="noopener">🔍 Expedia ↗</a>
                   <a class="flight-book-btn" style="background:#e0f2f1;color:#00897b;" href="${aviaUrl}" target="_blank" rel="noopener">🔍 Aviasales ↗</a>
+                  <a class="flight-book-btn gfl-btn" href="${gflUrl}" target="_blank" rel="noopener">🔍 Google Flights ↗</a>
                 </div>
               </div>
             </div>`;
@@ -2654,9 +2654,9 @@ function buildResultsHtml(d, id) {
             <div class="ap-section-header">${sectionTitle} <span class="hotel-price-from"></span></div>
             <div class="ap-section-body" data-hotel-prices="hp-${Math.random().toString(36).slice(2,8)}" data-hotel-dest="${cleanDest.replace(/"/g,'&quot;')}" data-hotel-ci="${hotelCheckin || ''}" data-hotel-co="${hotelCheckout || ''}">
               ${officialBtn}
-              <a class="hotel-btn google-btn" data-hotel-src="google" href="${googleHotelUrl}" target="_blank" rel="noopener">Google Hotels</a>
-              <a class="hotel-btn booking-btn" data-hotel-src="booking" href="${bookingSearchUrl}" target="_blank" rel="noopener">Booking.com</a>
               <a class="hotel-btn expedia-btn" data-hotel-src="expedia" href="${expediaSearchUrl}" target="_blank" rel="noopener">Expedia</a>
+              <a class="hotel-btn booking-btn" data-hotel-src="booking" href="${bookingSearchUrl}" target="_blank" rel="noopener">Booking.com</a>
+              <a class="hotel-btn google-btn" data-hotel-src="google" href="${googleHotelUrl}" target="_blank" rel="noopener">Google Hotels</a>
             </div>
           </div>`;
         })() : ''}
@@ -2682,9 +2682,9 @@ function buildResultsHtml(d, id) {
           return `<div class="ap-section orange">
             <div class="ap-section-header">${carLabel}</div>
             <div class="ap-section-body" style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+              <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
               <a class="hotel-btn expedia-navy-btn" href="${expUrl}" target="_blank" rel="noopener">Expedia</a>
               <a class="hotel-btn dc-btn" href="${dcCarBtn}" target="_blank" rel="noopener">DiscoverCars</a>
-              <a class="hotel-btn" style="background:#e0f2f1;color:#00897b;" href="${zercyUrls.economyCars()}" target="_blank" rel="noopener">EconomyBookings</a>
             </div>
           </div>`;
         })() : ''}
@@ -2714,6 +2714,7 @@ function buildResultsHtml(d, id) {
     const ret = q.return_date || (q.dates.match(/(\d{4}-\d{2}-\d{2})/g) || [])[1] || '';
     const expediaUrl = zercyUrls.expediaFlights(orig, dest, dep, ret, q.cabin);
     const gflUrl = zercyUrls.googleFlights(orig, dest, dep, ret, q.cabin);
+    const aviaUrl = zercyUrls.aviasalesFlights(orig, dest, dep, ret);
     return `
     <div class="query-item">
       <div class="query-num">${i+1}</div>
@@ -2722,8 +2723,9 @@ function buildResultsHtml(d, id) {
         <div class="query-meta">${q.cabin} · ${q.dates} · ${q.type}</div>
       </div>
       <div style="display:flex;gap:0.35rem;flex-shrink:0">
-        <a class="query-gfl" href="${gflUrl}" target="_blank" rel="noopener">✈ Google</a>
         <a class="query-exp" href="${expediaUrl}" target="_blank" rel="noopener">Expedia</a>
+        <a class="query-exp" style="background:#e0f2f1;color:#00897b;" href="${aviaUrl}" target="_blank" rel="noopener">Aviasales</a>
+        <a class="query-gfl" href="${gflUrl}" target="_blank" rel="noopener">✈ Google</a>
       </div>
     </div>`;
   }).join('');
