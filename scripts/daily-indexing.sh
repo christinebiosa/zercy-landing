@@ -33,10 +33,14 @@ rm -f "$TMPFILE"
 OKFILE=$(mktemp /tmp/zercy-ok-XXXX.txt)
 # Robust: aus jeder ✅-Zeile die nackte URL ziehen (Emoji-/Variation-Selector-sicher).
 echo "$RESULT" | grep '✅' | grep -oE 'https://[^[:space:]]+' > "$OKFILE"
-OK=$(grep -c . "$OKFILE" 2>/dev/null || echo 0)
+OK=$(grep -c . "$OKFILE" 2>/dev/null); OK=${OK:-0}
 
 if [ "$OK" -gt 0 ]; then
-  grep -vxF -f "$OKFILE" "$QUEUE" > "$QUEUE.tmp" && mv "$QUEUE.tmp" "$QUEUE"
+  # grep -v gibt Exit 1, wenn ALLE Zeilen rausgefiltert werden (leere Ausgabe = Queue komplett geleert).
+  # Darum NICHT an "&& mv" haengen, sonst bleibt die Queue bei voller Einreichung stehen.
+  grep -vxF -f "$OKFILE" "$QUEUE" > "$QUEUE.tmp"
+  GREP_EXIT=$?
+  if [ "$GREP_EXIT" -le 1 ]; then mv "$QUEUE.tmp" "$QUEUE"; else rm -f "$QUEUE.tmp"; fi
   REMAIN=$(wc -l < "$QUEUE" | tr -d ' ')
   echo "$(date '+%Y-%m-%d %H:%M') — Eingereicht: $OK/$COUNT, $OK aus Queue entfernt. Verbleibend: $REMAIN" >> "$LOG"
 else
