@@ -3,6 +3,13 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  // Flagship-Batch 2026-06-26 (Reise-Geldkarte + Fast Track)
+  'reise-geldkarte-lohnt-sich': 'reise-geldkarte',
+  'travel-money-card-worth-it': 'reise-geldkarte',
+  'tarjeta-viaje-sin-comisiones-vale-la-pena': 'reise-geldkarte',
+  'fast-track-flughafen-lohnt-sich': 'fast-track-security',
+  'airport-fast-track-security-worth-it': 'fast-track-security',
+  'fast-track-aeropuerto-vale-la-pena': 'fast-track-security',
   // Flagship-Batch 2026-06-23 (5 "lohnt sich"-Artikel)
   'mietwagen-versicherung-lohnt-sich': 'mietwagen-versicherung',
   'rental-car-insurance-worth-it': 'mietwagen-versicherung',
@@ -2795,6 +2802,8 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'reise-geldkarte': 'credit card payment travel',
+  'fast-track-security': 'airport terminal queue',
   'mietwagen-versicherung': 'car rental keys',
   'premium-economy': 'airplane cabin interior',
   'flughafentransfer-vs-taxi': 'airport taxi',
