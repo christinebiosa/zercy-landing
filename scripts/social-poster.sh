@@ -25,12 +25,18 @@ EXIT=$?
 echo "$RESULT" >> "$LOG"
 
 if [ $EXIT -eq 0 ]; then
-  # geposteten Slug (erste nicht-leere Zeile) aus der Queue entfernen
-  grep -vxF "$CITY" "$QUEUE" > "$QUEUE.tmp" && mv "$QUEUE.tmp" "$QUEUE"
-  REMAIN=$(grep -c . "$QUEUE" 2>/dev/null || echo 0)
+  # geposteten Slug entfernen. grep -v gibt Exit 1, wenn die Queue dadurch leer wird
+  # (nicht an && mv haengen, sonst bleibt ein erfolgreich geposteter letzter Eintrag stehen).
+  grep -vxF "$CITY" "$QUEUE" > "$QUEUE.tmp"; GE=$?
+  if [ "$GE" -le 1 ]; then mv "$QUEUE.tmp" "$QUEUE"; else rm -f "$QUEUE.tmp"; fi
+  REMAIN=$(grep -c . "$QUEUE" 2>/dev/null); REMAIN=${REMAIN:-0}
   echo "$(date '+%Y-%m-%d %H:%M') — ✅ $CITY live (IG+FB). Verbleibend: $REMAIN" >> "$LOG"
   osascript -e "display alert \"Zercy Social\" message \"$CITY ist live auf Instagram + Facebook. Noch $REMAIN Staedte in der Queue.\"" 2>/dev/null || true
 else
-  echo "$(date '+%Y-%m-%d %H:%M') — ❌ $CITY fehlgeschlagen (exit $EXIT). Bleibt in Queue." >> "$LOG"
-  osascript -e "display alert \"Zercy Social\" message \"$CITY fehlgeschlagen, bleibt in der Queue. Log: ~/.zercy-analytics/social-poster.log\"" 2>/dev/null || true
+  # WICHTIG: fehlgeschlagenes Item ans ENDE der Queue schieben, NICHT oben lassen.
+  # Sonst blockiert ein einziges kaputtes Item dauerhaft alle nachfolgenden Posts.
+  grep -vxF "$CITY" "$QUEUE" > "$QUEUE.tmp"; echo "$CITY" >> "$QUEUE.tmp"; mv "$QUEUE.tmp" "$QUEUE"
+  REMAIN=$(grep -c . "$QUEUE" 2>/dev/null); REMAIN=${REMAIN:-0}
+  echo "$(date '+%Y-%m-%d %H:%M') — ❌ $CITY fehlgeschlagen (exit $EXIT). Ans Queue-Ende verschoben (nicht blockierend). Verbleibend: $REMAIN" >> "$LOG"
+  osascript -e "display alert \"Zercy Social\" message \"$CITY fehlgeschlagen, ans Queue-Ende verschoben. Naechster Lauf nimmt das naechste Item. Log: ~/.zercy-analytics/social-poster.log\"" 2>/dev/null || true
 fi

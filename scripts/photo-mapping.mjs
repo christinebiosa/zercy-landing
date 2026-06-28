@@ -3,6 +3,13 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  // Flagship-Batch 2026-06-28 (Resort Fee + EU-Handgepäck 2027)
+  'resort-fee-hotel-lohnt-sich': 'resort-fee',
+  'resort-fees-worth-it': 'resort-fee',
+  'resort-fee-hotel-vale-la-pena': 'resort-fee',
+  'eu-handgepaeck-regeln-2027': 'eu-handgepaeck-2027',
+  'eu-hand-luggage-rules-2027': 'eu-handgepaeck-2027',
+  'nuevas-reglas-equipaje-mano-ue-2027': 'eu-handgepaeck-2027',
   // Flagship-Batch 2026-06-26 (Reise-Geldkarte + Fast Track)
   'reise-geldkarte-lohnt-sich': 'reise-geldkarte',
   'travel-money-card-worth-it': 'reise-geldkarte',
@@ -2802,6 +2809,8 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'resort-fee': 'resort hotel pool',
+  'eu-handgepaeck-2027': 'carry on luggage airport',
   'reise-geldkarte': 'credit card payment travel',
   'fast-track-security': 'airport terminal queue',
   'mietwagen-versicherung': 'car rental keys',

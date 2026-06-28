@@ -3249,6 +3249,21 @@
     "en": "https://www.zercy.app/en/blog/etias-2026-eu-entry-guide/",
     "es": "https://www.zercy.app/es/blog/etias-2026-guia/"
   },
+  "eu-handgepaeck-regeln-2027": {
+    "de": "https://www.zercy.app/blog/eu-handgepaeck-regeln-2027/",
+    "en": "https://www.zercy.app/en/blog/eu-hand-luggage-rules-2027/",
+    "es": "https://www.zercy.app/es/blog/nuevas-reglas-equipaje-mano-ue-2027/"
+  },
+  "eu-hand-luggage-rules-2027": {
+    "de": "https://www.zercy.app/blog/eu-handgepaeck-regeln-2027/",
+    "en": "https://www.zercy.app/en/blog/eu-hand-luggage-rules-2027/",
+    "es": "https://www.zercy.app/es/blog/nuevas-reglas-equipaje-mano-ue-2027/"
+  },
+  "nuevas-reglas-equipaje-mano-ue-2027": {
+    "de": "https://www.zercy.app/blog/eu-handgepaeck-regeln-2027/",
+    "en": "https://www.zercy.app/en/blog/eu-hand-luggage-rules-2027/",
+    "es": "https://www.zercy.app/es/blog/nuevas-reglas-equipaje-mano-ue-2027/"
+  },
   "europa-nebensaison-reise-guide": {
     "de": "https://www.zercy.app/blog/europa-nebensaison-reise-guide/",
     "en": "https://www.zercy.app/en/blog/europe-off-season-travel-guide/",
@@ -6368,6 +6383,21 @@
     "de": "https://www.zercy.app/blog/reiseziel-dupes-2026/",
     "en": "https://www.zercy.app/en/blog/destination-dupes-2026/",
     "es": "https://www.zercy.app/es/blog/destinos-dupe-2026/"
+  },
+  "resort-fee-hotel-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/resort-fee-hotel-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/resort-fees-worth-it/",
+    "es": "https://www.zercy.app/es/blog/resort-fee-hotel-vale-la-pena/"
+  },
+  "resort-fees-worth-it": {
+    "de": "https://www.zercy.app/blog/resort-fee-hotel-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/resort-fees-worth-it/",
+    "es": "https://www.zercy.app/es/blog/resort-fee-hotel-vale-la-pena/"
+  },
+  "resort-fee-hotel-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/resort-fee-hotel-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/resort-fees-worth-it/",
+    "es": "https://www.zercy.app/es/blog/resort-fee-hotel-vale-la-pena/"
   },
   "riads-marokko-guide": {
     "de": "https://www.zercy.app/blog/riads-marokko-guide/",
