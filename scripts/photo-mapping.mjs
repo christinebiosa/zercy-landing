@@ -3,6 +3,13 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  // Flagship-Batch 2026-07-01 (eSIM vs Roaming + Inflight WiFi)
+  'reise-esim-oder-roaming-lohnt-sich': 'reise-esim-roaming',
+  'travel-esim-vs-roaming-worth-it': 'reise-esim-roaming',
+  'esim-viaje-o-roaming-vale-la-pena': 'reise-esim-roaming',
+  'wlan-im-flugzeug-lohnt-sich': 'inflight-wifi',
+  'inflight-wifi-worth-it': 'inflight-wifi',
+  'wifi-en-vuelo-vale-la-pena': 'inflight-wifi',
   // Flagship-Batch 2026-06-28 (Resort Fee + EU-Handgepäck 2027)
   'resort-fee-hotel-lohnt-sich': 'resort-fee',
   'resort-fees-worth-it': 'resort-fee',
@@ -2809,6 +2816,8 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'reise-esim-roaming': 'smartphone sim card travel',
+  'inflight-wifi': 'passenger using phone airplane',
   'resort-fee': 'resort hotel pool',
   'eu-handgepaeck-2027': 'carry on luggage airport',
   'reise-geldkarte': 'credit card payment travel',
