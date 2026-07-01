@@ -23,15 +23,26 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function graph(endpoint, { params = {}, method = 'GET', token }) {
   const url = new URL(`https://graph.facebook.com/${GV}/${endpoint}`);
-  let res;
+  let body;
   if (method === 'GET') {
     for (const [k, v] of Object.entries(params)) url.searchParams.set(k, v);
     url.searchParams.set('access_token', token);
-    res = await fetch(url);
   } else {
-    const body = new URLSearchParams({ ...params, access_token: token });
-    res = await fetch(url, { method: 'POST', body });
+    body = new URLSearchParams({ ...params, access_token: token });
   }
+  // Retry bei transienten Netzwerk-Fehlern ("fetch failed"), damit ein Meta-/Netz-Schluckauf
+  // den Post nicht kippt. 3 Versuche mit Backoff (3s, 6s).
+  let res, lastErr;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      res = method === 'GET' ? await fetch(url) : await fetch(url, { method: 'POST', body });
+      break;
+    } catch (e) {
+      lastErr = e;
+      if (attempt < 3) await new Promise((r) => setTimeout(r, attempt * 3000));
+    }
+  }
+  if (!res) throw new Error(`${endpoint}: Netzwerk-Fehler nach 3 Versuchen (${lastErr?.message || 'fetch failed'})`);
   const j = await res.json();
   if (j.error) throw new Error(`${endpoint}: ${j.error.message} (code ${j.error.code})`);
   return j;
