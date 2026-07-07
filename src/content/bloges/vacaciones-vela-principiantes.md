@@ -60,7 +60,7 @@ Resumen para una semana en Croacia, 8 personas, chárter con patrón:
 
 **Total por persona (grupo de 8):** 500-750 EUR por semana, sin vuelo. Con vuelo, 700-1.150 EUR. Más barato que muchos paquetes de hotel todo incluido, pero con una experiencia completamente diferente.
 
-Si necesitás un auto de alquiler para llegar a la base náutica, nuestra [guía de alquiler de autos](/es/blog/alquiler-autos-consejos/) tiene todo lo que necesitás saber.
+Si necesitás un auto de alquiler para llegar a la base náutica, nuestra guía de alquiler de autos tiene todo lo que necesitás saber.
 
 ## ¿Qué equipaje necesitás realmente?
 
@@ -102,4 +102,4 @@ Lo habitual son 3-6 horas de navegación por día, unas 20-50 millas náuticas (
 **Más para leer:**
 - [Dónde alojarse en Cartagena: Los 4 mejores barrios](/es/blog/donde-alojarse-cartagena/)
 - [Dónde alojarse en Dubrovnik: Las mejores zonas](/es/blog/donde-alojarse-dubrovnik/)
-- [Seguro de viaje: ¿Cuándo vale realmente la pena?](/es/blog/seguro-viaje-cuando-vale/)
+- Seguro de viaje: ¿Cuándo vale realmente la pena?

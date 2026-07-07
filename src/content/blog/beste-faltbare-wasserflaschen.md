@@ -61,7 +61,7 @@ Für Wanderungen und mehrtägige Outdoor-Trips lohnt sich die Kombination aus Fa
 
 Noch ein Hinweis für Outdoor-Touren: Faltflaschen eignen sich nicht für kohlensäurehaltige Getränke, da der Druck sie aufbläst und die Nähte belasten kann. Für Wasser, Saft oder Heißgetränke sind sie bestens geeignet.
 
-Wer mit wenig Gepäck reist und das Beste aus jedem Packwürfel herausholen möchte, sollte sich auch unsere [Packwürfel-Empfehlungen](/blog/packwuerfel-vergleich/) ansehen. Zusammen mit einer guten Faltflasche macht das jeden Rucksack effizienter.
+Wer mit wenig Gepäck reist und das Beste aus jedem Packwürfel herausholen möchte, sollte sich auch unsere Packwürfel-Empfehlungen ansehen. Zusammen mit einer guten Faltflasche macht das jeden Rucksack effizienter.
 
 ---
 
@@ -70,7 +70,7 @@ Wenn dein Rucksack gepackt und die Flasche zusammengefaltet ist, beginnt die eig
 **Mehr lesen:**
 - [Reise-Packliste: Was wirklich reinkommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
 - [Nur mit Handgepäck reisen](/blog/nur-handgepaeck/)
-- [Packwürfel im Vergleich](/blog/packwuerfel-vergleich/)
+- Packwürfel im Vergleich
 
 ## Häufige Fragen
 

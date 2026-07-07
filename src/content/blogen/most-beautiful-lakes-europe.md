@@ -15,7 +15,7 @@ The selection is based not on popularity alone, but on what makes a lake truly u
 
 Five lakes stand out:
 
-**Lake Como (Italy):** One of the most elegant lakes in the world. 18th-century villas, cypress avenues, mountain panoramas. Bellagio as the main hub, Varenna as the quieter counterpoint. Getting there: train to Como, then ferry. Varenna sits right at the station. Best time: May-June and September-October. August is crowded and hot. Accommodation in Bellagio: from 100-180 euros, cheaper options in Menaggio or Lecco. [Lake Como](/en/blog/lake-como/) already has its own guide.
+**Lake Como (Italy):** One of the most elegant lakes in the world. 18th-century villas, cypress avenues, mountain panoramas. Bellagio as the main hub, Varenna as the quieter counterpoint. Getting there: train to Como, then ferry. Varenna sits right at the station. Best time: May-June and September-October. August is crowded and hot. Accommodation in Bellagio: from 100-180 euros, cheaper options in Menaggio or Lecco. [Lake Como](/en/blog/where-to-stay-lake-como/) already has its own guide.
 
 **Bled (Slovenia):** Postcard perfection that actually delivers. A small island with a church in the middle of a turquoise lake, with a castle on the rock above. Bus from Ljubljana: 55 minutes, around 10-15 euros. Castle hill entry: 15 euros. Boat to the island (Pletna): 15-18 euros per person. Getting up early pays off: before 8 am the lake is almost empty. Bled sits perfectly within a Slovenia road trip.
 

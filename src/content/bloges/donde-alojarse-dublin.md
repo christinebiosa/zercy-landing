@@ -94,6 +94,6 @@ Una pinta de Guinness en Temple Bar o la zona turística cuesta 7-8 EUR. En pubs
 ---
 
 **Leer más:**
-- [Dónde alojarse en Londres: ¿Soho o Shoreditch?](/es/blog/donde-alojarse-londres/)
+- [Dónde alojarse en Londres: ¿Soho o Shoreditch?](/es/blog/donde-alojarse-london/)
 - [Dónde alojarse en Amsterdam: ¿Canal Ring o Jordaan?](/es/blog/donde-alojarse-amsterdam/)
 - [Dónde alojarse en Barcelona: ¿Barrio Gótico o Eixample?](/es/blog/donde-alojarse-barcelona/)

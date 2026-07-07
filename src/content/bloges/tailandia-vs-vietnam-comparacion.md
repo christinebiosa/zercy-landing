@@ -48,7 +48,7 @@ Si planeas combinar ambos países, un vuelo open jaw es la opción más eficient
 
 Ambos países tienen buenas conexiones desde América Latina y España, pero la variación de precios entre distintas fechas de reserva es real. El rango típico para un vuelo de ida y vuelta a Bangkok o Ciudad Ho Chi Minh oscila entre 600 y 1.100 EUR dependiendo de la temporada y con cuánta antelación reserves.
 
-La vista de fechas flexibles en [Google Flights](https://flights.google.com/) vale la pena revisarla antes de comprometerte con días concretos. El calendario de precios muestra de un vistazo qué días del mes son más baratos. Una diferencia de 40 a 80 EUR por billete en un vuelo de largo recorrido es lo habitual. Nuestra [guía de trucos para Google Flights](/es/blog/trucos-google-flights-2026/) cubre todas las herramientas que realmente mueven el precio.
+La vista de fechas flexibles en [Google Flights](https://flights.google.com/) vale la pena revisarla antes de comprometerte con días concretos. El calendario de precios muestra de un vistazo qué días del mes son más baratos. Una diferencia de 40 a 80 EUR por billete en un vuelo de largo recorrido es lo habitual. Nuestra guía de trucos para Google Flights cubre todas las herramientas que realmente mueven el precio.
 
 El [truco de fechas flexibles para vuelos](/es/blog/fechas-flexibles-vuelos-ahorro/) muestra cómo pequeños ajustes en tus fechas de viaje permiten encontrar tarifas significativamente mejores sin cambiar en nada tus planes reales.
 

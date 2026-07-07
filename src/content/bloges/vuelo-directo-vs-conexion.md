@@ -62,7 +62,7 @@ Una alternativa que vale la pena conocer es el [billete open-jaw](/es/blog/open-
 
 ## ¿Cómo encuentras la mejor opción?
 
-[Google Flights](/es/blog/trucos-google-flights-2026/) es la herramienta más potente para este tipo de comparaciones. Introduce tu ruta, filtra por vuelos sin escalas y compara la diferencia de precio con las opciones con conexión. Ves la diferencia real de tiempo de un vistazo.
+Google Flights es la herramienta más potente para este tipo de comparaciones. Introduce tu ruta, filtra por vuelos sin escalas y compara la diferencia de precio con las opciones con conexión. Ves la diferencia real de tiempo de un vistazo.
 
 Si el vuelo directo cuesta más de un 40% más: reserva el vuelo con escala con bastante margen en la conexión. Si la diferencia de precio es inferior a 100 euros: el directo es casi siempre la mejor opción.
 
@@ -95,5 +95,5 @@ En rutas cortas europeas la diferencia suele ser pequeña, menos de 50 euros. En
 Más artículos:
 
 - [Open-jaw: el truco de viaje que casi nadie conoce](/es/blog/open-jaw-tickets-truco-viaje/)
-- [Trucos de Google Flights 2026](/es/blog/trucos-google-flights-2026/)
+- Trucos de Google Flights 2026
 - [Vuelos ex-EU: cómo volar más barato pasando por Europa](/es/blog/vuelos-ex-eu-como-funciona/)

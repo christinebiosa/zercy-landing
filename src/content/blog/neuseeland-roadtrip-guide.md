@@ -87,4 +87,4 @@ Frühzeitig. Die Fähre zwischen Wellington und Picton (Interislander oder Blueb
 ## Mehr lesen
 - [Wo übernachten in Rotorua: beste Hotels und Lodges](/blog/wo-uebernachten-rotorua/)
 - [Wohnmobil Roadtrip USA: der komplette Guide](/blog/wohnmobil-roadtrip-usa-guide/)
-- [Reiseversicherung für Fernreisen: was wirklich wichtig ist](/blog/reiseversicherung-guide/)
+- Reiseversicherung für Fernreisen: was wirklich wichtig ist

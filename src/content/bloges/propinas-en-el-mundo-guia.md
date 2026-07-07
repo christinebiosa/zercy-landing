@@ -24,7 +24,7 @@ Estados Unidos lidera esta categoría. La propina en EE.UU. no es un gesto, es p
 
 Canadá sigue en gran medida el modelo estadounidense. El 15-20% en restaurantes, similar en taxis. México tiene una fuerte cultura de propinas: 10-15% en restaurantes de mesa. La comida callejera y los mercados no requieren propina. Los resorts todo incluido suelen publicar los montos sugeridos al hacer check-out.
 
-Consulta nuestra guía de [vuelos baratos](/es/blog/guenstig-fliegen-tipps/) antes de reservar América del Norte: con el momento adecuado puedes ahorrar más en el vuelo de lo que gastas en propinas.
+Consulta nuestra guía de vuelos baratos antes de reservar América del Norte: con el momento adecuado puedes ahorrar más en el vuelo de lo que gastas en propinas.
 
 ## ¿Dónde es la propina habitual pero no obligatoria?
 

@@ -43,7 +43,7 @@ Coworking-Kosten: 80-150 Euro pro Monat, was für Lage und Qualität ausgesproch
 
 Der EL Congreso Coworking oder Selina Medellín sind Anlaufstellen mit eingebauter Community. Die "Medellín Digital Nomads"-Gruppe auf Facebook hat über 15.000 Mitglieder.
 
-Visumslage: Kolumbianer erlauben EU-Bürgern 180 Tage ohne Visum. US-Bürger erhalten 90 Tage. Für längere Aufenthalte gibt es die "Visa de Residente", aber für die meisten reicht das visafreie Kontingent. Mehr zur Region: [Kolumbien Reiseguide](/blog/kolumbien-reiseguide-highlights/) (im Aufbau).
+Visumslage: Kolumbianer erlauben EU-Bürgern 180 Tage ohne Visum. US-Bürger erhalten 90 Tage. Für längere Aufenthalte gibt es die "Visa de Residente", aber für die meisten reicht das visafreie Kontingent. Mehr zur Region: [Kolumbien Reiseguide](/blog/kolumbien-reiseguide/) (im Aufbau).
 
 ## Bangkok: Asiens vielseitigste Nomaden-Basis
 

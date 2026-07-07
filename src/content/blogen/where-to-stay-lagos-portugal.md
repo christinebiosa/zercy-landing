@@ -62,7 +62,7 @@ Price range: 75-180 euros per night.
 
 June through September is peak season. Crowded beaches, higher prices, but guaranteed sun. May and October are the insider picks: fewer people, comfortable temperatures around 22-26 degrees, cheaper hotels. Winter is quiet, with some restaurants and bars running shorter hours.
 
-For the full picture on timing, check the guide on [best time to visit Portugal](/en/blog/beste-reisezeit-portugal/). The [Algarve travel guide for 2026](/en/blog/algarve-travel-guide-2026/) covers more of the region beyond Lagos. For surf, autumn swells can be excellent.
+For the full picture on timing, check the guide on best time to visit Portugal. The [Algarve travel guide for 2026](/en/blog/algarve-travel-guide-2026/) covers more of the region beyond Lagos. For surf, autumn swells can be excellent.
 
 The official tourism board [Visit Portugal](https://www.visitportugal.com/en) has current Algarve recommendations and event calendars.
 

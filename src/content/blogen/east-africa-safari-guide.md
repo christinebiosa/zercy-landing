@@ -103,4 +103,4 @@ The Masai Mara (Kenya) and the Serengeti (Tanzania) are part of the same ecosyst
 **Read more:**
 - [Travel Insurance: What Is Actually Worth It?](/en/blog/travel-insurance-worth-it-2026/)
 - [Where to Stay in Nairobi: Neighborhoods and Hotels](/en/blog/where-to-stay-nairobi/)
-- [Travel Photography Tips: Better Photos on the Road](/en/blog/reisefotografie-tipps/)
+- Travel Photography Tips: Better Photos on the Road

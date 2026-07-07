@@ -109,4 +109,4 @@ June to August (winter in the southern hemisphere) is most affordable. April/May
 ## Read more
 - [Where to Stay in Buenos Aires: Best Neighborhoods](/en/blog/where-to-stay-buenos-aires/)
 - [Argentina Travel Guide: Best Highlights](/en/blog/argentina-travel-guide-highlights/)
-- [Patagonia 3 Weeks: The Perfect Route](/en/blog/patagonia-3-weeks-route/)
+- Patagonia 3 Weeks: The Perfect Route

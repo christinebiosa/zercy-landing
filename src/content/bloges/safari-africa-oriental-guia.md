@@ -103,4 +103,4 @@ El Masai Mara (Kenia) y la Serengeti (Tanzania) son parte del mismo ecosistema, 
 **Más para leer:**
 - [Seguro de viaje: ¿qué vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)
 - [Dónde alojarse en Nairobi: barrios y hoteles](/es/blog/donde-alojarse-nairobi/)
-- [Dónde alojarse en Ciudad del Cabo: 5 zonas](/es/blog/donde-alojarse-cape-town/)
+- Dónde alojarse en Ciudad del Cabo: 5 zonas

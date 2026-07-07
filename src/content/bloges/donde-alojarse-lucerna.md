@@ -71,7 +71,7 @@ Tribschen está al este del casco antiguo, en la desembocadura del Reuss en el l
 
 Lucerna es cara. Eso es Suiza. Con [Booking.com](https://www.booking.com) obtienes comparaciones de precios en todas las categorías y buen acceso a la cancelación gratuita, que en Suiza importa porque ajustarse al tiempo es parte estándar de cualquier plan de viaje.
 
-Lee también nuestra [guía de viaje a Suiza](/es/blog/suiza-guia-viaje-highlights/) para actividades y atracciones. Y [Dónde alojarse en Zúrich](/es/blog/donde-alojarse-zurich/) para la metrópoli suiza.
+Lee también nuestra guía de viaje a Suiza para actividades y atracciones. Y [Dónde alojarse en Zúrich](/es/blog/donde-alojarse-zurich/) para la metrópoli suiza.
 
 ---
 
@@ -99,6 +99,6 @@ En tren por Brienz: unas 2 horas. En tren panorámico (Golden Pass Panoramic) po
 
 ## Más artículos
 
-- [Suiza: los mejores highlights del viaje](/es/blog/suiza-guia-viaje-highlights/)
+- Suiza: los mejores highlights del viaje
 - [Dónde alojarse en Interlaken: Guía de zonas 2026](/es/blog/donde-alojarse-interlaken/)
 - [Mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa/)

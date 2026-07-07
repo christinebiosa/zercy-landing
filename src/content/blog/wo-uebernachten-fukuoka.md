@@ -55,7 +55,7 @@ Tenjin ist Fukuokas kommerzielles Herz. Große Kaufhäuser (Tenjin Core, Solaria
 
 **Top-Picks:** Solaria Nishitetsu Hotel Fukuoka (Mittelklasse-Klassiker, zentral in Tenjin), Daiwa Roynet Hotel Fukuoka-Tenjin (Business-Hotel, gut geführt), ANA Crowne Plaza Fukuoka (Premium, Tenjin-Lage, Konferenzzentrum).
 
-Den [Japan 3-Wochen-Reiseguide](/blog/japan-3-wochen-route/) und die [Japan beyond Tokyo Empfehlungen](/blog/japan-beyond-tokyo/) findest du für übergreifende Planung.
+Den [Japan 3-Wochen-Reiseguide](/blog/japan-3-wochen-route/) und die Japan beyond Tokyo Empfehlungen findest du für übergreifende Planung.
 
 ## Nakasu: Japans lebhafteste Flussinsel
 
@@ -107,5 +107,5 @@ Hotel Mittelklasse: 100–180 Euro/Nacht. Essen: 15–25 Euro/Tag (günstig durc
 
 **Mehr lesen:**
 - [Japan: 3-Wochen-Route mit Tipps](/blog/japan-3-wochen-route/)
-- [Japan beyond Tokyo: Entdeckungen abseits der Hauptroute](/blog/japan-beyond-tokyo/)
+- Japan beyond Tokyo: Entdeckungen abseits der Hauptroute
 - [Wo übernachten in Tokio: Die besten Stadtteile](/blog/wo-uebernachten-tokio/)

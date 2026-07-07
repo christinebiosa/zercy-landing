@@ -85,4 +85,4 @@ Fish amok is the most well-known dish: fish in a curry-coconut cream sauce, trad
 
 - [Vietnam 2-Week Route: From Hanoi to Ho Chi Minh City](/en/blog/vietnam-2-week-route/)
 - [Southeast Asia Budget Travel: How to Do It Right](/en/blog/southeast-asia-budget-travel/)
-- [Thailand 2-Week Route: The Perfect Plan](/en/blog/thailand-2-week-route/)
+- Thailand 2-Week Route: The Perfect Plan

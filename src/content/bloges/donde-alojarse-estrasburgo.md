@@ -71,7 +71,7 @@ Krutenau está al este de la Grande Île, directamente sobre el Ill. Bares unive
 
 [Booking.com](https://www.booking.com) es la mejor opción para Estrasburgo. La comparación de precios es especialmente importante aquí debido a las fluctuaciones extremas por las sesiones del Parlamento Europeo. Comprueba si tu estancia coincide con una semana plenaria. Si es así, reserva con mucha antelación o cambia las fechas.
 
-Para más ciudades francesas: [Dónde alojarse en París](/es/blog/donde-alojarse-paris/). Y nuestra guía de [ciudades europeas en invierno](/es/blog/ciudades-europeas-invierno-consejos/).
+Para más ciudades francesas: [Dónde alojarse en París](/es/blog/donde-alojarse-paris/). Y nuestra guía de ciudades europeas en invierno.
 
 ---
 
@@ -100,5 +100,5 @@ Winstub Zum Strissel cerca de la Catedral para Flammkuchen y Baeckeoffe. La Mais
 ## Más artículos
 
 - [Dónde alojarse en París: Los 5 barrios](/es/blog/donde-alojarse-paris/)
-- [Ciudades europeas en invierno: Los mejores consejos](/es/blog/ciudades-europeas-invierno-consejos/)
+- Ciudades europeas en invierno: Los mejores consejos
 - [Las mejores playas de Europa 2026](/es/blog/mejores-playas-europa-2026/)

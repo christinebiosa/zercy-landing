@@ -71,7 +71,7 @@ En la colina sobre la Presqu'île. Antes barrio obrero de los tejedores de seda 
 
 Para Lyon recomiendo claramente [Booking.com](https://www.booking.com). Más de 600 alojamientos en Lyon, buen filtro por barrio y cancelación gratuita como estándar. Vieux-Lyon tiene muchos pequeños hoteles boutique que raramente se reservan de forma directa.
 
-Lee también: [Dónde alojarse en París](/es/blog/donde-alojarse-paris/) y nuestra guía de [ciudades europeas en invierno](/es/blog/ciudades-europeas-invierno-consejos/).
+Lee también: [Dónde alojarse en París](/es/blog/donde-alojarse-paris/) y nuestra guía de ciudades europeas en invierno.
 
 ---
 
@@ -101,4 +101,4 @@ Los Bouchons clásicos en el barrio de Saint-Jean en Vieux-Lyon para Quenelles, 
 
 - [Dónde alojarse en París: Los 5 barrios](/es/blog/donde-alojarse-paris/)
 - [Mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa/)
-- [Ruta Portugal: El itinerario perfecto](/es/blog/ruta-portugal-completa/)
+- Ruta Portugal: El itinerario perfecto

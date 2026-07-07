@@ -121,5 +121,5 @@ No. El espacio Schengen cuenta como una sola zona. Moverse de Alemania a España
 ## Seguir leyendo
 
 - [ETIAS 2026: Todo lo que necesitás saber](/es/blog/etias-2026-guia/)
-- [Preparación para un viaje largo: Lista de control para meses en el exterior](/es/blog/preparacion-viaje-largo/)
-- [Seguro de viaje: ¿Cuándo vale la pena de verdad?](/es/blog/seguro-viaje-guia/)
+- Preparación para un viaje largo: Lista de control para meses en el exterior
+- Seguro de viaje: ¿Cuándo vale la pena de verdad?

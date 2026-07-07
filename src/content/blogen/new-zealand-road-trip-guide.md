@@ -87,4 +87,4 @@ Early. The ferry between Wellington and Picton (Interislander or Bluebridge) boo
 ## Read more
 - [Where to Stay in Rotorua: Best Hotels and Lodges](/en/blog/where-to-stay-rotorua/)
 - [RV and Camper Road Trip USA: The Complete Guide](/en/blog/rv-camper-road-trip-usa/)
-- [Travel Insurance for Long-Haul Trips: What Actually Matters](/en/blog/travel-insurance-guide/)
+- Travel Insurance for Long-Haul Trips: What Actually Matters

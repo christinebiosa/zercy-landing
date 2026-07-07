@@ -67,7 +67,7 @@ Pula is the most affordable of Croatia's major destinations. That makes boutique
 
 For booking, [Booking.com](https://www.booking.com/city/hr/pula.html) is the strongest option. Croatian accommodation is well-represented here, the map clearly shows which hotels are genuinely waterfront and which just claim to be. Flexible cancellation is useful in spring and autumn when Istrian weather can be unpredictable.
 
-For broader Istria exploration, the guide on [where to stay in Rovinj](/en/blog/where-to-stay-rovinj/) is worth reading. And for those combining Croatia with Greece, the [Croatia vs Greece](/en/blog/croatia-vs-greece/) comparison covers what sets each destination apart.
+For broader Istria exploration, the guide on [where to stay in Rovinj](/en/blog/where-to-stay-rovinj/) is worth reading. And for those combining Croatia with Greece, the [Croatia vs Greece](/en/blog/croatia-vs-greece-islands/) comparison covers what sets each destination apart.
 
 ---
 

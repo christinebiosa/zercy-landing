@@ -61,7 +61,7 @@ For hikes and multi-day outdoor trips, pairing a collapsible bottle with a water
 
 One note for outdoor use: collapsible bottles are not suitable for carbonated drinks. The pressure builds up inside and stresses the seams. For water, juice, and hot drinks, they're excellent.
 
-If you're traveling light and want to maximize every corner of your pack, take a look at our [packing cube comparison](/en/blog/packwuerfel-vergleich/) as well. Together with a good collapsible bottle, they turn any backpack into a more efficient system.
+If you're traveling light and want to maximize every corner of your pack, take a look at our packing cube comparison as well. Together with a good collapsible bottle, they turn any backpack into a more efficient system.
 
 ---
 

@@ -34,7 +34,7 @@ Respuesta corta: no al mediodía. La luz dura del mediodía es el enemigo de las
 
 **Hora Azul** son los 20 a 30 minutos después del atardecer o antes del amanecer. La luz es más fría, más uniforme y le da a los paisajes urbanos una calidad casi mágica. Para templos, mezquitas y edificios iluminados, la hora azul suele ser mejor que la dorada.
 
-**Sol de Medianoche en Islandia** juega con reglas distintas. De mayo a agosto, el sol apenas se pone en Islandia. La luz dorada dura horas. Los Fiordos del Oeste, Landmannalaugar y la laguna glaciar Jökulsárlón bajo el sol de medianoche son difíciles de superar fotográficamente. Planifica tu ruta de [guia-road-trip-islandia](/es/blog/guia-road-trip-islandia/) deliberadamente alrededor de estas horas.
+**Sol de Medianoche en Islandia** juega con reglas distintas. De mayo a agosto, el sol apenas se pone en Islandia. La luz dorada dura horas. Los Fiordos del Oeste, Landmannalaugar y la laguna glaciar Jökulsárlón bajo el sol de medianoche son difíciles de superar fotográficamente. Planifica tu ruta de guia-road-trip-islandia deliberadamente alrededor de estas horas.
 
 Para alojamiento en Islandia cerca de los mejores hotspots: Reikiavik como base a través de [Booking.com](https://www.booking.com/searchresults.html?ss=Reykjavik) o directamente en el sur cerca de Vík para las playas.
 
@@ -96,4 +96,4 @@ Santorini y Capadocia entregan resultados espectaculares con mínimo esfuerzo t�
 
 - [Dónde alojarse en Capadocia: Mejores zonas y hoteles cueva](/es/blog/donde-alojarse-capadocia/)
 - [Dónde alojarse en Santorini: ¿Oia, Fira o Imerovigli?](/es/blog/donde-alojarse-santorini/)
-- [Guía road trip Islandia: Ruta, consejos y mejores spots fotográficos](/es/blog/guia-road-trip-islandia/)
+- Guía road trip Islandia: Ruta, consejos y mejores spots fotográficos

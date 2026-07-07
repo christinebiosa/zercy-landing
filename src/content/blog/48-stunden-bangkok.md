@@ -81,5 +81,5 @@ Thailändischer Baht (THB). Kreditkarten werden in größeren Restaurants, Hotel
 
 **Mehr lesen:**
 - [Wo übernachten in Bangkok: Beste Viertel 2026](/blog/wo-uebernachten-bangkok/)
-- [Thailand 2-Wochen-Route: Der komplette Roadtrip](/blog/thailand-2-wochen-route/)
+- Thailand 2-Wochen-Route: Der komplette Roadtrip
 - [Südostasien auf kleinem Budget: So geht's wirklich](/blog/suedostasien-budget-reisen/)

@@ -55,7 +55,7 @@ Hondori ist die zentrale Fußgängerzone Hiroshimas. Shops, Kaufhäuser, Streetf
 
 **Top-Picks:** Ana Crowne Plaza Hiroshima (Premium, zentrale Lage nahe Hondori), Hotel Granvia Hiroshima (im Shinkansen-Bahnhof, solide), Cross Hotel Hiroshima (Boutique-Flair, Design, Hondori-nah).
 
-Den [Japan 3-Wochen-Reiseguide](/blog/japan-3-wochen-route/) und die [Japan beyond Tokyo Empfehlungen](/blog/japan-beyond-tokyo/) findest du für übergreifende Planung.
+Den [Japan 3-Wochen-Reiseguide](/blog/japan-3-wochen-route/) und die Japan beyond Tokyo Empfehlungen findest du für übergreifende Planung.
 
 ## Hiroshima Station: Mobilität und Shinkansen
 
@@ -107,5 +107,5 @@ Shinkansen (Hikari): ca. 1 Stunde 30 Minuten, ca. 10.000 Yen (65 Euro). JR-Pass-
 
 **Mehr lesen:**
 - [Japan: 3-Wochen-Route mit Tipps](/blog/japan-3-wochen-route/)
-- [Japan beyond Tokyo: Entdeckungen abseits der Hauptroute](/blog/japan-beyond-tokyo/)
+- Japan beyond Tokyo: Entdeckungen abseits der Hauptroute
 - [Wo übernachten in Tokio: Die besten Stadtteile](/blog/wo-uebernachten-tokio/)

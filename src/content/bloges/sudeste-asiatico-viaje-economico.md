@@ -108,6 +108,6 @@ Tailandia, Vietnam, Camboya, Laos y Bali se consideran destinos generalmente seg
 ---
 
 **Más información:**
-- [Consejos para viajar con poco dinero](/es/blog/consejos-viaje-economico/)
+- Consejos para viajar con poco dinero
 - [Los mejores hoteles en Bangkok: Los 5 barrios](/es/blog/donde-alojarse-bangkok/)
 - [Solo equipaje de mano: La guía completa](/es/blog/solo-equipaje-de-mano/)

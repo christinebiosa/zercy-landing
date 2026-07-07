@@ -58,7 +58,7 @@ La mejor razon para reservar con cancelacion gratis es un truco que muchos pasan
 
 Los precios de los hoteles se mueven todo el tiempo. Una tarifa flexible te asegura el lugar sin que pagues nada todavia. Si el precio baja despues, simplemente reservas la tarifa mas barata y cancelas la anterior gratis. Si no baja, conservas tu reserva. No hay desventaja.
 
-Asi funciona en la practica. Reservas hoy a 120 euros, flexible. Tres semanas despues el hotel muestra 99 euros porque una ola de cancelaciones bajo la ocupacion. Tomas la tarifa de 99 euros, cancelas la de 120 euros, listo. Ahorraste 21 euros y nunca corriste riesgo. Para eso esta hecha la tarifa flexible. Mas sobre esto en nuestra guia para [reservar hotel mas barato](/es/blog/hotel-guenstiger-buchen-tipps/).
+Asi funciona en la practica. Reservas hoy a 120 euros, flexible. Tres semanas despues el hotel muestra 99 euros porque una ola de cancelaciones bajo la ocupacion. Tomas la tarifa de 99 euros, cancelas la de 120 euros, listo. Ahorraste 21 euros y nunca corriste riesgo. Para eso esta hecha la tarifa flexible. Mas sobre esto en nuestra guia para reservar hotel mas barato.
 
 ## ¿Y el seguro de viaje en lugar de la tarifa flexible?
 

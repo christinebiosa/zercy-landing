@@ -85,4 +85,4 @@ Fish Amok ist das bekannteste Gericht: Fisch in einer Curry-Kokosrahm-Sauce, tra
 
 - [Vietnam 2 Wochen Route: Von Hanoi bis Ho Chi Minh](/blog/vietnam-2-wochen-route/)
 - [Südostasien Budget-Reisen: Günstig durch Asien](/blog/suedostasien-budget-reisen/)
-- [Thailand 2-Wochen-Route: Der perfekte Plan](/blog/thailand-2-wochen-route/)
+- Thailand 2-Wochen-Route: Der perfekte Plan

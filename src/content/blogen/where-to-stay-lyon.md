@@ -73,7 +73,7 @@ For Lyon I recommend [Booking.com](https://www.booking.com) clearly. Over 600 pr
 
 Lyon's food scene is the real reason to stay here. Three Michelin three-star restaurants, over 2,000 restaurants on the Presqu'île, and genuine Bouchons in Vieux-Lyon. Budget more time than you think you'll need.
 
-Also read: [Where to stay in Paris](/en/blog/where-to-stay-paris/) for the French capital, and our [European cities winter tips](/en/blog/european-cities-winter-tips/) for seasonal planning.
+Also read: [Where to stay in Paris](/en/blog/where-to-stay-paris/) for the French capital, and our European cities winter tips for seasonal planning.
 
 ---
 

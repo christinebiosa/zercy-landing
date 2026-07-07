@@ -53,7 +53,7 @@ The [Vietnam National Authority of Tourism](https://vietnam.travel) publishes re
 
 **March and April** are still dry but getting hotter. April can hit 38°C in Ho Chi Minh City. Still a workable window, particularly for Mekong Delta boat trips where the heat is slightly more bearable.
 
-**May through October** is the wet season in the south. Ho Chi Minh City gets heavy afternoon rain. The Mekong Delta floods (which is actually a remarkable sight, and some travelers time trips around it). Phu Quoc's west-coast beaches get rough seas. Prices are low. The [Where to Stay in Ho Chi Minh guide](/en/blog/where-to-stay-ho-chi-minh/) covers the city's neighborhoods for extended wet-season stays.
+**May through October** is the wet season in the south. Ho Chi Minh City gets heavy afternoon rain. The Mekong Delta floods (which is actually a remarkable sight, and some travelers time trips around it). Phu Quoc's west-coast beaches get rough seas. Prices are low. The [Where to Stay in Ho Chi Minh guide](/en/blog/where-to-stay-ho-chi-minh-city/) covers the city's neighborhoods for extended wet-season stays.
 
 ## What Is the Cheapest Time to Visit Vietnam?
 
@@ -94,5 +94,5 @@ Southern Vietnam is the best choice for December. Ho Chi Minh City and Phu Quoc 
 ## Read More
 
 - [Where to Stay in Hanoi: Best Neighborhoods](/en/blog/where-to-stay-hanoi/)
-- [Where to Stay in Ho Chi Minh City](/en/blog/where-to-stay-ho-chi-minh/)
+- [Where to Stay in Ho Chi Minh City](/en/blog/where-to-stay-ho-chi-minh-city/)
 - [Southeast Asia on a Budget: Full Cost Guide](/en/blog/southeast-asia-budget-travel/)

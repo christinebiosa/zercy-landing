@@ -46,14 +46,14 @@ April and May hit the sweet spot: warm enough for the coast, quiet enough to enj
 
 The **Azores** deserve a separate mention. Sete Cidades, the twin-crater lake in blues and greens on Sao Miguel, is one of the most surreal landscapes in the Atlantic. Furnas valley has thermal pools and bubbling mud pools. April through October are the most reliable months, though hiking is possible nearly year-round.
 
-For the full picture on timing, the [best time to visit Portugal](/en/blog/beste-reisezeit-portugal/) article goes deep on month-by-month conditions.
+For the full picture on timing, the best time to visit Portugal article goes deep on month-by-month conditions.
 
 ---
 
 Save the shortlist in your [Zercy Logbook](https://www.zercy.app/logbook) so you have all options handy when booking.
 
 **Read more:**
-- [Best Time to Visit Portugal](/en/blog/beste-reisezeit-portugal/)
+- Best Time to Visit Portugal
 - [Algarve Travel Guide 2026](/en/blog/algarve-travel-guide-2026/)
 - [Portugal Road Trip Route](/en/blog/portugal-road-trip-route/)
 

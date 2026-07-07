@@ -39,7 +39,7 @@ Europa ofrece mucho más que Plitvice. Estas cuatro merecen el desvío:
 
 **Cascada de Bigar (Rumanía):** Una joya desconocida. El agua cae como una cortina sobre rocas cubiertas de musgo. Perfecta para fotografiar, casi sin turistas.
 
-Si viajas por Europa del Este con poco presupuesto, echa un vistazo a nuestros [consejos para viajar barato por Europa del Este](/es/blog/guenstig-reisen-osteuropa-guide/).
+Si viajas por Europa del Este con poco presupuesto, echa un vistazo a nuestros consejos para viajar barato por Europa del Este.
 
 ## ¿Cómo planificar mejor un viaje a cascadas?
 

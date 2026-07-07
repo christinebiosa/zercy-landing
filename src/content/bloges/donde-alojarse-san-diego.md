@@ -119,4 +119,4 @@ De enero a marzo y en noviembre/diciembre (fuera de festivos) son los meses más
 ## Más artículos
 - [Dónde alojarse en Los Ángeles: 5 barrios explicados](/es/blog/donde-alojarse-los-angeles/)
 - [Dónde alojarse en San Francisco: Los mejores barrios](/es/blog/donde-alojarse-san-francisco/)
-- [Ruta por la costa oeste de EE.UU.](/es/blog/ruta-costa-oeste-eeuu/)
+- Ruta por la costa oeste de EE.UU.

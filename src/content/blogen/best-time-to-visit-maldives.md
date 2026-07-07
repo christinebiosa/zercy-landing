@@ -58,7 +58,7 @@ According to [Maldives Tourism](https://www.tourism.gov.mv/), the islands receiv
 
 **December:** Dry season returns. Christmas and New Year: fully booked everywhere, peak pricing.
 
-For tips on making expensive dream trips work on a tighter budget, the [luxury travel for less guide](/en/blog/viaje-lujo-economico-trucos/) covers strategies that apply to resort booking too.
+For tips on making expensive dream trips work on a tighter budget, the luxury travel for less guide covers strategies that apply to resort booking too.
 
 ---
 

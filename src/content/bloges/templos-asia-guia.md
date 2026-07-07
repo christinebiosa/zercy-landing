@@ -52,7 +52,7 @@ Los precios varían mucho. Resumen rápido:
 - Hampi: 600 INR (unos 6,50 euros) para el complejo principal
 - Ayutthaya: muchas zonas gratuitas o 50 baht
 
-**Vestimenta.** Hombros y rodillas cubiertos. Esto aplica en casi todos los sitios. Algunos templos prestan sarongs o pañuelos en la entrada. Mejor llevar tu propio pañuelo ligero, especialmente con calor. Para saber qué empacar, el artículo [Lista de equipaje para el trópico](/es/blog/lista-equipaje-tropico/) es una buena referencia.
+**Vestimenta.** Hombros y rodillas cubiertos. Esto aplica en casi todos los sitios. Algunos templos prestan sarongs o pañuelos en la entrada. Mejor llevar tu propio pañuelo ligero, especialmente con calor. Para saber qué empacar, el artículo Lista de equipaje para el trópico es una buena referencia.
 
 **Guías.** En Angkor Wat y Borobudur no son obligatorios, pero sí muy útiles. Sin contexto, ves piedras. Con guía, ves historia. Coste: entre 20 y 40 USD por medio día según el destino. En Hampi, los guías oficiales cobran alrededor de 10 euros por dos o tres horas. Vale la pena.
 
@@ -97,4 +97,4 @@ Ayutthaya y Prambanan son ideales para familias: áreas manejables, menos aglome
 **Más artículos:**
 - [Dónde alojarse en Bangkok: Los mejores barrios 2026](/es/blog/donde-alojarse-bangkok/)
 - [Guía del hamam: Cómo disfrutar un baño turco](/es/blog/hamam-bano-turco-guia/)
-- [Lista de equipaje para el trópico: Lo que realmente necesitas](/es/blog/lista-equipaje-tropico/)
+- Lista de equipaje para el trópico: Lo que realmente necesitas

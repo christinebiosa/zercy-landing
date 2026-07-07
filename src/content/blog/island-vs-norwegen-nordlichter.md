@@ -63,7 +63,7 @@ Plan deine Nordlicht-Reise mit allen Details im [Zercy Logbook](https://www.zerc
 
 **Mehr lesen:**
 - [Island Reiseguide](/blog/island-reiseguide/)
-- [Nordlichter 2026: Wo und wann](/blog/nordlichter-2026/)
+- [Nordlichter 2026: Wo und wann](/blog/nordlichter-2026-wo-wann-wie/)
 - [Skandinavien Rundreise Route](/blog/skandinavien-rundreise-route/)
 
 ---

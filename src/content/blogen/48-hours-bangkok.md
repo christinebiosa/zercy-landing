@@ -81,5 +81,5 @@ Thai Baht (THB). Credit cards are accepted in larger restaurants, hotels, and ma
 
 **Read more:**
 - [Where to Stay in Bangkok: Best Neighborhoods 2026](/en/blog/where-to-stay-bangkok/)
-- [Thailand 2-Week Route: The Complete Road Trip](/en/blog/thailand-2-week-route/)
+- Thailand 2-Week Route: The Complete Road Trip
 - [Southeast Asia on a Budget: How It Actually Works](/en/blog/southeast-asia-budget-travel/)

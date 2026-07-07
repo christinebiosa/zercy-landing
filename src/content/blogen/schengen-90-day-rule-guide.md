@@ -121,5 +121,5 @@ No. The Schengen Area counts as a single zone. Moving from Germany to Spain or f
 ## Read more
 
 - [ETIAS 2026: Everything You Need to Know](/en/blog/etias-2026-eu-entry-guide/)
-- [Long-Term Travel Preparation: A Checklist for Months Abroad](/en/blog/long-term-travel-preparation/)
-- [Travel Insurance: When Is It Actually Worth It?](/en/blog/travel-insurance-guide/)
+- Long-Term Travel Preparation: A Checklist for Months Abroad
+- Travel Insurance: When Is It Actually Worth It?

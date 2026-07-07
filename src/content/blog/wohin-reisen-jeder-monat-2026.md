@@ -48,7 +48,7 @@ Oktober ist einer der günstigsten Monate für Mexiko. Die Regenzeit geht zu End
 November und Dezember eignen sich besonders gut für Langstreckenziele, denn europäische Schulferien sind vorbei, aber die Weihnachtsferien noch nicht. Flugpreise fallen.
 
 **November: Thailand**
-November ist Beginn der Hochsaison in Thailand. Koh Samui und der Golf von Thailand zeigen sich nach der Regenzeit von der besten Seite. Chiang Mai im Norden hat angenehme 25 Grad ohne Schwüle. Eine [Thailand 2-Wochen-Route](/blog/thailand-2-wochen-route/) kostet im November ab 50 Euro täglich.
+November ist Beginn der Hochsaison in Thailand. Koh Samui und der Golf von Thailand zeigen sich nach der Regenzeit von der besten Seite. Chiang Mai im Norden hat angenehme 25 Grad ohne Schwüle. Eine Thailand 2-Wochen-Route kostet im November ab 50 Euro täglich.
 
 **Dezember: Bali**
 Ja, Bali hat Regenzeit im Dezember. Aber die Regenschauer kommen meist nachmittags, der Rest des Tages ist sonnig. Ubud im Hochland bleibt grün und kühl. Seminyak und Canggu feiern Silvester rauschend. Der Reisezeitraum rund um Weihnachten ist in Europa teuer, in Bali lässt es sich für 60-80 Euro täglich entspannt reisen.

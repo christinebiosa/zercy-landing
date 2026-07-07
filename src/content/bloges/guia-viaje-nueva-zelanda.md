@@ -79,7 +79,7 @@ Los ciudadanos de la mayoría de países latinoamericanos necesitan visa de turi
 
 ### ¿Dónde conviene hospedarse en la Isla Sur?
 
-Queenstown y Wanaka son las bases más prácticas para explorar el sur. Christchurch funciona bien como punto de entrada o salida. Para Milford Sound, existen lodges dentro del parque o cruceros con pernocta. Consulta nuestra guía de [dónde alojarse en los destinos de Nueva Zelanda](/es/blog/donde-alojarse-nueva-zelanda/) para más opciones.
+Queenstown y Wanaka son las bases más prácticas para explorar el sur. Christchurch funciona bien como punto de entrada o salida. Para Milford Sound, existen lodges dentro del parque o cruceros con pernocta. Consulta nuestra guía de dónde alojarse en los destinos de Nueva Zelanda para más opciones.
 
 ### ¿Cuál es la mejor ruta para dos semanas solo en la Isla Sur?
 

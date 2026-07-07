@@ -53,7 +53,7 @@ Lamai ist Chawngs ruhigerer Nachbar. Schöner weißer Strand, weniger Hotels, we
 
 **Top-Picks:** Pavilion Samui Boutique Resort (stilvolles Boutique-Hotel, gute Lage in Lamai), Samui Resotel Beach Resort (direkte Strandlage, großer Pool), Rocky's Boutique Resort (Cliff-Lage, spektakulärer Meeresblick, etwas außerhalb).
 
-Den [Thailand 2-Wochen-Reiseguide](/blog/thailand-2-wochen-route/) und die [Empfehlungen für Phuket](/blog/wo-uebernachten-phuket/) findest du für übergreifende Thailand-Planung.
+Den Thailand 2-Wochen-Reiseguide und die [Empfehlungen für Phuket](/blog/wo-uebernachten-phuket/) findest du für übergreifende Thailand-Planung.
 
 ## Bophut: Fischerdorf-Charme und Boutique-Stil
 
@@ -104,6 +104,6 @@ Mindestens 4–5 Tage für die Insel selbst. Eine Woche ist ideal: Strände erku
 ---
 
 **Mehr lesen:**
-- [Thailand: 2-Wochen-Route mit Tipps](/blog/thailand-2-wochen-route/)
+- Thailand: 2-Wochen-Route mit Tipps
 - [Wo übernachten in Phuket: Die 5 Strandgebiete](/blog/wo-uebernachten-phuket/)
 - [Wo übernachten in Bangkok: Die 5 Stadtteile](/blog/wo-uebernachten-bangkok/)

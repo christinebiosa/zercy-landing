@@ -35,7 +35,7 @@ Tag 2 beginnt am Hafen. Fähren zur Insel Lokrum starten dort mehrmals täglich,
 
 Auf Lokrum gibt es keine Hotels, keine Ferienwohnungen, keine dauerhaften Bewohner. Nur Wald, Felsen, Meerwasserpools und Pfauen, die frei auf der Insel leben. Das Tote Meer, ein Salzwassersee im Inneren der Insel, ist der beliebteste Badespot. Die Felsklippen an der Südostseite sind wilder und meist weniger frequentiert.
 
-Plan zwei bis drei Stunden auf Lokrum. Schwimmen, durch den Benediktiner-Klostergarten schlendern, Mittag in der einfachen Bar auf der Insel essen. Für alles Weitere zur Unterkunft auf der kroatischen Küste: unser [Kroatien Inselhopping Guide](/blog/kroatien-inselhopping/) zeigt dir, wie du das am besten kombinierst.
+Plan zwei bis drei Stunden auf Lokrum. Schwimmen, durch den Benediktiner-Klostergarten schlendern, Mittag in der einfachen Bar auf der Insel essen. Für alles Weitere zur Unterkunft auf der kroatischen Küste: unser Kroatien Inselhopping Guide zeigt dir, wie du das am besten kombinierst.
 
 ## Welche Aktivitäten warten an Tag 2 Nachmittag und Abend?
 
@@ -55,7 +55,7 @@ Plane deine Dubrovnik-Suche im [Zercy Logbook](https://www.zercy.app/logbook), d
 
 **Mehr lesen:**
 - [Wo übernachten in Dubrovnik: Innenstadt vs. außerhalb](/blog/wo-uebernachten-dubrovnik/)
-- [Kroatien Inselhopping: Dalmatien mit der Fähre](/blog/kroatien-inselhopping/)
+- Kroatien Inselhopping: Dalmatien mit der Fähre
 - [Übertourismus: Alternativen und Tipps für ruhigere Reiseziele](/blog/uebertourismus-alternativen-tipps/)
 
 ---

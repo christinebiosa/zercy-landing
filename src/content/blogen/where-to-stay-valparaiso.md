@@ -107,4 +107,4 @@ Cerro Alegre and Cerro Concepción during the day are very safe and tourist-frie
 ## Read more
 - [Where to Stay in Santiago: Best Neighborhoods](/en/blog/where-to-stay-santiago/)
 - [Chile Travel Guide: Best Highlights](/en/blog/chile-travel-guide-highlights/)
-- [Patagonia 3 Weeks: The Perfect Route](/en/blog/patagonia-3-weeks-route/)
+- Patagonia 3 Weeks: The Perfect Route

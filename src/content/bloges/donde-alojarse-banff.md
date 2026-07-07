@@ -85,7 +85,7 @@ Para los Fairmont, vale la pena mirar su sitio directo por paquetes con desayuno
 
 Reserva con antelación. En verano y en Navidad, los buenos hoteles de Banff se agotan tres o cuatro meses antes.
 
-Si quieres combinar Banff con el resto de Canadá, la [guía de viaje a Canadá](/es/blog/canada-travel-guide-highlights/) tiene buenas ideas de rutas. Para aventuras de montaña similares en Europa, la [guía de Islandia](/es/blog/islandia-guia-viaje/) es una buena referencia. Y si necesitas organizar el vuelo primero, los [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) cubren lo que realmente funciona.
+Si quieres combinar Banff con el resto de Canadá, la guía de viaje a Canadá tiene buenas ideas de rutas. Para aventuras de montaña similares en Europa, la [guía de Islandia](/es/blog/islandia-guia-viaje/) es una buena referencia. Y si necesitas organizar el vuelo primero, los [consejos para vuelos baratos](/es/blog/consejos-vuelos-baratos/) cubren lo que realmente funciona.
 
 ---
 
@@ -93,7 +93,7 @@ Guarda la selección en tu [Zercy Logbook](https://www.zercy.app/logbook) para t
 
 ## Más artículos
 
-- [Guía de viaje a Canadá: highlights y rutas](/es/blog/canada-travel-guide-highlights/)
+- Guía de viaje a Canadá: highlights y rutas
 - [Guía de viaje a Islandia: lo que necesitas saber](/es/blog/islandia-guia-viaje/)
 - [Consejos para vuelos baratos que sí funcionan](/es/blog/consejos-vuelos-baratos/)
 

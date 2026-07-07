@@ -65,7 +65,7 @@ Gruppen oder Strandlager-Mentalitaet: Grossere Familienmodelle oder Premium-Shel
 
 Karibik, Thailand, Malediven (sehr intensive UV-Strahlung): Achte besonders auf UPF-Angabe und Seitenabdeckungen. Bodennahe Strahlung durch Wasser und Sand verstaerkt die Belastung erheblich.
 
-Eine Strandmuschel macht besonders Sinn, wenn du weisst, dass du lange am Strand bleibst. Wer seine [Reise-Packliste](/blog/reise-packliste/) gut plant oder [nur mit Handgepaeck reist](/blog/nur-handgepaeck/), wird beim Gewicht abwaegen muessen. Die leichten Pop-up-Modelle sind hier klar im Vorteil. Fuer den perfekten Strandurlaub empfiehlt sich auch ein Blick auf die [schoensten Straende Europas](/blog/schoenste-straende-europa-2026/), um das richtige Ziel zu waehlen.
+Eine Strandmuschel macht besonders Sinn, wenn du weisst, dass du lange am Strand bleibst. Wer seine [Reise-Packliste](/blog/reise-packliste-was-wirklich-rein-kommt/) gut plant oder [nur mit Handgepaeck reist](/blog/nur-handgepaeck/), wird beim Gewicht abwaegen muessen. Die leichten Pop-up-Modelle sind hier klar im Vorteil. Fuer den perfekten Strandurlaub empfiehlt sich auch ein Blick auf die [schoensten Straende Europas](/blog/schoenste-straende-europa-2026/), um das richtige Ziel zu waehlen.
 
 ---
 
@@ -74,7 +74,7 @@ Wenn dein Gepaeck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du
 ## Mehr lesen
 
 - [Schoenste Straende Europas 2026](/blog/schoenste-straende-europa-2026/)
-- [Reise-Packliste: Was wirklich ins Gepaeck kommt](/blog/reise-packliste/)
+- [Reise-Packliste: Was wirklich ins Gepaeck kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
 - [Nur mit Handgepaeck reisen: So geht's](/blog/nur-handgepaeck/)
 
 ## Haeufige Fragen

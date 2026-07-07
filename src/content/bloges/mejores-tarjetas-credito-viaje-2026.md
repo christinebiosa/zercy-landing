@@ -79,6 +79,6 @@ Busca tarjetas que no cobren "foreign transaction fee" (comisión por transacci�
 ---
 
 **Leer más:**
-- [Cómo viajar solo con equipaje de mano](/es/blog/viaje-solo-equipaje-de-mano/)
+- [Cómo viajar solo con equipaje de mano](/es/blog/solo-equipaje-de-mano/)
 - [Acceso a sala VIP sin volar en business](/es/blog/acceso-sala-vip-sin-business/)
 - [Interrail 2026: la guía completa](/es/blog/guia-interrail-2026/)

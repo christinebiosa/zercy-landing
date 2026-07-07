@@ -36,7 +36,7 @@ Die Malediven bestehen aus 26 Atolls. Das geografische Muster bedeutet: Der Mons
 
 Für Hochzeitsreisen und Flitterwochen gelten Dezember bis März als gesetzt. Ruhige See, perfekte Fotobedingungen, maximale Romantik. Allerdings kostet das. Wer eine [Hochzeitsreise plant](/blog/honeymoon-planung-guide/), sollte mindestens sechs bis acht Monate im Voraus buchen und ein klares Budget festlegen.
 
-Die [Malediven Reiseguide](/blog/maldivas-guia-viaje-2026/) gibt einen vollständigen Überblick über Atolls, Transfer-Optionen und Resorts.
+Die Malediven Reiseguide gibt einen vollständigen Überblick über Atolls, Transfer-Optionen und Resorts.
 
 Laut [Maldives Tourism](https://www.tourism.gov.mv/) empfangen die Inseln jedes Jahr rund 1,7 Millionen Besucher, mit einem klaren Gipfel zwischen Dezember und März.
 
@@ -65,7 +65,7 @@ Laut [Maldives Tourism](https://www.tourism.gov.mv/) empfangen die Inseln jedes 
 Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
 
 **Mehr lesen:**
-- [Malediven Reiseguide 2026](/blog/maldivas-guia-viaje-2026/)
+- Malediven Reiseguide 2026
 - [Honeymoon Planung Guide](/blog/honeymoon-planung-guide/)
 - [Tauchen und Schnorcheln: Beste Reiseziele](/blog/tauchen-schnorcheln-reiseziele/)
 

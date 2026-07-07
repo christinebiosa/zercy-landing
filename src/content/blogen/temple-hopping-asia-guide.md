@@ -52,7 +52,7 @@ Entry prices vary widely. Rough overview:
 - Hampi: 600 INR (around 6.50 Euro) for the main complex
 - Ayutthaya: many areas free or 50 baht
 
-**Dress code.** Shoulders and knees must be covered. This applies almost everywhere. Some sites lend sarongs or scarves at the entrance, free or with a deposit. Better to bring your own lightweight scarf, especially in the heat. For what to pack, check the article [Packing List for a Tropical Trip](/en/blog/packing-list-tropics/).
+**Dress code.** Shoulders and knees must be covered. This applies almost everywhere. Some sites lend sarongs or scarves at the entrance, free or with a deposit. Better to bring your own lightweight scarf, especially in the heat. For what to pack, check the article Packing List for a Tropical Trip.
 
 **Guides.** At Angkor Wat and Borobudur, a guide is not mandatory but genuinely worthwhile. Without background knowledge, you see stone. With a guide, you see history. Costs: 20 to 40 USD for a half day, depending on the destination. In Hampi, official guides charge around 10 Euro for two to three hours. Worth it.
 
@@ -97,4 +97,4 @@ Ayutthaya and Prambanan are ideal for families: manageable areas, smaller crowds
 **Read more:**
 - [Where to Stay in Bangkok: Best Neighborhoods 2026](/en/blog/where-to-stay-bangkok/)
 - [Hamam Guide: How to Experience a Turkish Bath](/en/blog/hamam-turkish-bath-guide/)
-- [Packing List for a Tropical Trip: What You Really Need](/en/blog/packing-list-tropics/)
+- Packing List for a Tropical Trip: What You Really Need

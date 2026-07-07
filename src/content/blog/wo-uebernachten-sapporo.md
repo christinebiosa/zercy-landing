@@ -76,7 +76,7 @@ Sapporo hat einen eigenen Stadtski-Berg: Sapporo Teine (20 Minuten vom Zentrum).
 
 **Preise:** Ski-in-Ski-out-Hotels 120-400 Euro pro Nacht (Dezember bis März).
 
-Für Vergleiche mit europäischen Skigebieten lies den [Skiurlaub Europa Beste Ziele Guide](/blog/skiurlaub-europa-beste-ziele/).
+Für Vergleiche mit europäischen Skigebieten lies den Skiurlaub Europa Beste Ziele Guide.
 
 ## Wie viel kostet eine Übernachtung in Sapporo?
 
@@ -126,4 +126,4 @@ Nakajima Park und Ruhigere Wohnviertel außerhalb des Zentrums bieten die günst
 **Mehr lesen:**
 - [Japan 3-Wochen-Route: Die komplette Rundreise](/blog/japan-3-wochen-route/)
 - [Japan Budget-Reisetipps: Günstig reisen ohne Abstriche](/blog/japan-budget-reisen-tipps/)
-- [Skiurlaub Europa: Die besten Ziele für jeden Typ](/blog/skiurlaub-europa-beste-ziele/)
+- Skiurlaub Europa: Die besten Ziele für jeden Typ

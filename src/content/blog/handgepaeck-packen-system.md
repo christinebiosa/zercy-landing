@@ -28,7 +28,7 @@ Bevor du packst, musst du wissen, womit du fliegst. Die Unterschiede sind erhebl
 
 Die meisten Reisenden fahren gut mit einem Rucksack im 40-Liter-Bereich. Der passt in fast alle Gepäckfächer und hält sich an Ryanairs kostenloses Limit, wenn du ihn nicht aufbläst. Wer regelmäßig mit Low-Cost fliegt, sollte die [IATA-Handgepäckregeln](https://www.iata.org/en/programs/passenger/baggage/) kennen. Airlinesregeln können von dort abweichen.
 
-Mehr zum Thema [Handgepäck vs. aufgegebenes Gepäck](/blog/handgepaeck-vs-aufgegeben/) zeigt, wann es sich lohnt, überhaupt darüber nachzudenken.
+Mehr zum Thema [Handgepäck vs. aufgegebenes Gepäck](/blog/handgepaeck-vs-aufgegebenes-gepaeck/) zeigt, wann es sich lohnt, überhaupt darüber nachzudenken.
 
 ## Warum Packing Cubes den Unterschied machen
 

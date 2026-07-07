@@ -69,7 +69,7 @@ Langzeitreise, Weltreise: Kombination aus Slim-Wallet fuer taeglich und Pacsafe 
 
 Laut [Europol](https://www.europol.europa.eu) gehoert Taschendiebstahl an Touristenschwerpunkten zu den haeufigsten Eigentumsdelikten in der EU. RFID-Skimming ist seltener als physischer Diebstahl, aber der Schaden kann hoher sein. Eine Kombination aus mechanischem Diebstahlschutz und RFID-Blocker ist die vollstaendigste Loesung.
 
-Passend dazu: Wer seine [Reise-Packliste optimiert](/blog/reise-packliste/) oder [nur mit Handgepaeck reist](/blog/nur-handgepaeck/), denkt meist auch ueber den sicheren Transport von Karten und Dokumenten nach.
+Passend dazu: Wer seine [Reise-Packliste optimiert](/blog/reise-packliste-was-wirklich-rein-kommt/) oder [nur mit Handgepaeck reist](/blog/nur-handgepaeck/), denkt meist auch ueber den sicheren Transport von Karten und Dokumenten nach.
 
 ---
 
@@ -77,7 +77,7 @@ Wenn dein Gepaeck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du
 
 ## Mehr lesen
 
-- [Reise-Packliste: Was wirklich ins Gepaeck kommt](/blog/reise-packliste/)
+- [Reise-Packliste: Was wirklich ins Gepaeck kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
 - [Nur mit Handgepaeck reisen: So geht's](/blog/nur-handgepaeck/)
 - [Beste Travel Apps 2026](/blog/beste-travel-apps-2026/)
 

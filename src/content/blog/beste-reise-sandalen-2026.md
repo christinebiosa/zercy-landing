@@ -52,7 +52,7 @@ Budget-Sandalen (unter 40 Euro) taugen für gelegentliche kurze Trips. Auf läng
 
 Die meisten Reisenden kommen mit einer einzigen guten Sandale plus einem Paar Sneaker aus. Wer [nur mit Handgepäck](/blog/nur-handgepaeck/) reist, wählt die Sandale nach dem Gesamtgewicht des Gepäcks und dem Hauptzweck der Reise.
 
-Für die komplette Übersicht, was reiseerprobte Traveler mitnehmen, hilft die [Reise-Packliste](/blog/reise-packliste/) weiter.
+Für die komplette Übersicht, was reiseerprobte Traveler mitnehmen, hilft die [Reise-Packliste](/blog/reise-packliste-was-wirklich-rein-kommt/) weiter.
 
 ## Welche Sandale passt zu welcher Reise?
 
@@ -73,7 +73,7 @@ Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du
 ## Mehr lesen
 - [Capsule Wardrobe fürs Handgepäck](/blog/capsule-wardrobe-handgepaeck/)
 - [Nur mit Handgepäck reisen](/blog/nur-handgepaeck/)
-- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste/)
+- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
 
 ## Häufige Fragen
 

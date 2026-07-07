@@ -61,7 +61,7 @@ Zlatni Rt ist ein Naturschutzgebiet direkt südlich der Altstadt. Pinien die bis
 
 **Top-Picks:** Maistra Select Resort Lone (Designhotel im Pinienwald, ausgezeichnet, Meerblick), Amarin Resort by Maistra (Familien-Resort mit direktem Strandzugang, viele Sportmöglichkeiten), Hotel Eden (solides Mittelklasseresort mit Naturpark-Nähe).
 
-Wer mehrere kroatische Küstenstädte kombiniert, findet in unserem [Kroatien Inselhopping-Guide](/blog/kroatien-inselhopping/) die besten Routen von Rovinj bis Dubrovnik.
+Wer mehrere kroatische Küstenstädte kombiniert, findet in unserem Kroatien Inselhopping-Guide die besten Routen von Rovinj bis Dubrovnik.
 
 ## Monte: Panorama-Lage über der Stadt
 
@@ -121,6 +121,6 @@ April, Mai und Oktober. Außerhalb der kroatischen Sommerferien (Mitte Juli bis 
 ---
 
 **Mehr lesen:**
-- [Kroatien Inselhopping: Die besten Routen](/blog/kroatien-inselhopping/)
+- Kroatien Inselhopping: Die besten Routen
 - [Balkan Roadtrip Route: Istrien bis Kotor](/blog/balkan-roadtrip-route/)
 - [Wo übernachten in Split: Die 5 Stadtteile](/blog/wo-uebernachten-split/)

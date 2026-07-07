@@ -69,9 +69,9 @@ Familien mit Kindern unter 5: Grosser Schirm (Repel Double Vented) und zusaetzli
 
 Laut [Knirps Deutschland](https://www.knirps.com) sind Teleskopschirme in der Schutzklasse T3-T5 am besten fuer wechselhaftes Wetter geeignet, weil sie kurze Packmaesse mit echter Stabilitaet verbinden.
 
-Auch eine gute Option fuer alle, die viel mit [Handgepaeck reisen](/blog/nur-handgepaeck/): Ein Schirm mit unter 24 cm Packlaenge passt auch in die Frontaschen der kleinen Rucksaecke. Wer seine [Reise-Packliste optimiert](/blog/reise-packliste/), spart so Platz und Gewicht.
+Auch eine gute Option fuer alle, die viel mit [Handgepaeck reisen](/blog/nur-handgepaeck/): Ein Schirm mit unter 24 cm Packlaenge passt auch in die Frontaschen der kleinen Rucksaecke. Wer seine [Reise-Packliste optimiert](/blog/reise-packliste-was-wirklich-rein-kommt/), spart so Platz und Gewicht.
 
-Wenn Regen das Hauptthema der Reise ist, ist auch das Thema Kleidung relevant. Ein guter [Packwuerfel-Vergleich](/blog/packwuerfel-vergleich/) hilft, die Kleidung organisiert zu halten, damit du schnell auf Wetterwechsel reagieren kannst.
+Wenn Regen das Hauptthema der Reise ist, ist auch das Thema Kleidung relevant. Ein guter Packwuerfel-Vergleich hilft, die Kleidung organisiert zu halten, damit du schnell auf Wetterwechsel reagieren kannst.
 
 ---
 
@@ -80,8 +80,8 @@ Wenn dein Gepaeck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du
 ## Mehr lesen
 
 - [Nur mit Handgepaeck reisen: So geht's](/blog/nur-handgepaeck/)
-- [Reise-Packliste: Was wirklich ins Gepaeck kommt](/blog/reise-packliste/)
-- [Packwuerfel im Vergleich: Welche lohnen sich?](/blog/packwuerfel-vergleich/)
+- [Reise-Packliste: Was wirklich ins Gepaeck kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
+- Packwuerfel im Vergleich: Welche lohnen sich?
 
 ## Haeufige Fragen
 

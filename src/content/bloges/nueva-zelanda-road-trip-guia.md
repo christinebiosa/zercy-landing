@@ -87,4 +87,4 @@ Con bastante antelación. El ferry entre Wellington y Picton (Interislander o Bl
 ## Más artículos
 - [Dónde alojarse en Rotorua: los mejores hoteles y lodges](/es/blog/donde-alojarse-rotorua/)
 - [Road trip en autocaravana por EE.UU.: la guía completa](/es/blog/autocaravana-road-trip-usa/)
-- [Seguro de viaje para viajes largos: lo que realmente importa](/es/blog/seguro-viaje-guia/)
+- Seguro de viaje para viajes largos: lo que realmente importa

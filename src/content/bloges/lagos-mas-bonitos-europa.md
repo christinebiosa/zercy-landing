@@ -15,7 +15,7 @@ La selección no se basa solo en popularidad, sino en lo que hace a un lago verd
 
 Cinco lagos destacan por encima del resto:
 
-**Lago de Como (Italia):** Uno de los lagos más elegantes del mundo. Villas del siglo XVIII, avenidas de cipreses, panorama montañoso. Bellagio como nodo central, Varenna como contrapunto tranquilo. Mejor época: mayo-junio y septiembre-octubre. En agosto hay mucha gente y mucho calor. Alojamiento en Bellagio desde 100-180 euros. El [Lago de Como](/es/blog/lake-como/) ya tiene su propia guía.
+**Lago de Como (Italia):** Uno de los lagos más elegantes del mundo. Villas del siglo XVIII, avenidas de cipreses, panorama montañoso. Bellagio como nodo central, Varenna como contrapunto tranquilo. Mejor época: mayo-junio y septiembre-octubre. En agosto hay mucha gente y mucho calor. Alojamiento en Bellagio desde 100-180 euros. El Lago de Como ya tiene su propia guía.
 
 **Bled (Eslovenia):** La perfección de postal que de verdad cumple lo que promete. Una pequeña isla con una iglesia en medio de un lago turquesa, y un castillo sobre la roca de encima. Autobús desde Liubliana: 55 minutos, unos 10-15 euros. Entrada al castillo: 15 euros. Barca a la isla (Pletna): 15-18 euros por persona. Madrugar vale la pena: antes de las 8 de la mañana el lago está casi vacío. Bled encaja perfectamente en una ruta por Eslovenia.
 

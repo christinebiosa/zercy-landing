@@ -40,7 +40,7 @@ Between Ephesus and the coast, the small town of Sirince is worth the detour. St
 
 Istanbul needs no introduction, but one thing many visitors miss: the Asian side. Kadiköy and Moda are what Beyoglu felt like before it got expensive. Morning fish at the market, afternoon tea in a garden, ferry back across the Bosphorus. Two continents in one afternoon.
 
-For where to stay in Istanbul, our guide on [Istanbul neighborhoods](/en/blog/wo-uebernachten-istanbul/) breaks down each district by travel style and budget.
+For where to stay in Istanbul, our guide on Istanbul neighborhoods breaks down each district by travel style and budget.
 
 ## What is the best time of year for a Turkey trip?
 

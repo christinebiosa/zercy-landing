@@ -101,5 +101,5 @@ Local tourism websites often recommend unlisted B&Bs. For rural areas in Ireland
 
 **Read more:**
 - [Airbnb Alternatives 2026: The Best Options Compared](/en/blog/airbnb-alternatives-2026/)
-- [Hotel Upgrade for Free: How It Actually Works](/en/blog/hotel-upgrade-tricks/)
+- Hotel Upgrade for Free: How It Actually Works
 - [Travel Budget App 2026: The Best Tools for Tracking Costs](/en/blog/travel-budget-app-2026/)

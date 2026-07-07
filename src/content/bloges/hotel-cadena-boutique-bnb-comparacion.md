@@ -101,5 +101,5 @@ Las webs de turismo local recomiendan a menudo B&Bs que no aparecen en plataform
 
 **Más para leer:**
 - [Alternativas a Airbnb 2026: las mejores opciones comparadas](/es/blog/alternativas-airbnb-2026/)
-- [Trucos para conseguir upgrade de hotel gratis](/es/blog/trucos-upgrade-hotel/)
+- [Trucos para conseguir upgrade de hotel gratis](/es/blog/trucos-upgrade-hotel-gratis/)
 - [App de presupuesto de viaje 2026: las mejores herramientas](/es/blog/app-presupuesto-viaje-2026/)

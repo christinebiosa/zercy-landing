@@ -26,7 +26,7 @@ Y el trekking es asequible. Muchas rutas cuestan 25-50 EUR por día todo incluid
 
 El camino de peregrinación más famoso del mundo. A través del norte de España hasta la Catedral de Santiago de Compostela. Infraestructura perfecta: albergues cada 10-20 km, comida por 10-15 EUR, flechas amarillas que nunca te pierden. Sin tienda, sin mochila pesada. El factor social: cada día conocés gente de todo el mundo. Ideal para quienes prueban el trekking largo por primera vez.
 
-Costo: 25-45 EUR por día. Si querés explorar la ciudad al final del camino, nuestra [guía de Santiago de Compostela](/es/blog/santiago-de-compostela/) te da todos los detalles.
+Costo: 25-45 EUR por día. Si querés explorar la ciudad al final del camino, nuestra [guía de Santiago de Compostela](/es/blog/santiago-de-compostela-ruta/) te da todos los detalles.
 
 ### 2. Circuito W de Torres del Paine (Chile/Patagonia)
 

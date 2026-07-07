@@ -15,7 +15,7 @@ Die Auswahl orientiert sich nicht an Popularität allein, sondern daran, was ein
 
 Fünf Seen stechen heraus:
 
-**Comer See (Italien):** Einer der elegantesten Seen der Welt. Villen aus dem 18. Jahrhundert, Zypressenalleen, Bergpanorama. Bellagio als Knotenpunkt, Varenna als stillerem Gegenpol. Anreise: Zug bis Como, dann Fähre. Varenna liegt direkt am Bahnhof. Beste Reisezeit: Mai-Juni und September-Oktober. Im August ist es voll und heiß. Übernachtungen in Bellagio: ab 100-180 Euro, günstigere Optionen in Menaggio oder Lecco. [Comer See](/blog/lake-como/) hat bereits einen eigenen Guide.
+**Comer See (Italien):** Einer der elegantesten Seen der Welt. Villen aus dem 18. Jahrhundert, Zypressenalleen, Bergpanorama. Bellagio als Knotenpunkt, Varenna als stillerem Gegenpol. Anreise: Zug bis Como, dann Fähre. Varenna liegt direkt am Bahnhof. Beste Reisezeit: Mai-Juni und September-Oktober. Im August ist es voll und heiß. Übernachtungen in Bellagio: ab 100-180 Euro, günstigere Optionen in Menaggio oder Lecco. Comer See hat bereits einen eigenen Guide.
 
 **Bled (Slowenien):** Postkartenidylle, die tatsächlich hält was sie verspricht. Eine Insel mit Kirche mitten im türkisfarbenen See, darüber eine Burg auf dem Felsen. Anreise aus Ljubljana: 55 Minuten Bus oder Shuttle, rund 10-15 Euro. Eintritt Burghügel: 15 Euro. Bootsfahrt zur Insel (Pletna): 15-18 Euro pro Person. Früh aufstehen lohnt: Vor 8 Uhr morgens ist der See fast leer. Bled liegt perfekt für eine Slowenien-Rundreise.
 

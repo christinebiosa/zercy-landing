@@ -34,7 +34,7 @@ Short answer: not at midday. Harsh midday light is the enemy of good travel phot
 
 **Blue Hour** is the 20 to 30 minutes after sunset or before sunrise. The light is cooler, more even, and gives cityscapes an almost magical quality. For temples, mosques, and illuminated buildings, blue hour is often better than golden hour.
 
-**Midnight Sun in Iceland** plays by different rules. From May to August, the sun barely sets in Iceland. Golden light lasts for hours. The Westfjords, Landmannalaugar, and Jökulsárlón glacier lagoon in midnight sun conditions are photographically hard to beat. Plan your [iceland-road-trip-guide](/en/blog/iceland-road-trip-guide/) route deliberately around these hours.
+**Midnight Sun in Iceland** plays by different rules. From May to August, the sun barely sets in Iceland. Golden light lasts for hours. The Westfjords, Landmannalaugar, and Jökulsárlón glacier lagoon in midnight sun conditions are photographically hard to beat. Plan your iceland-road-trip-guide route deliberately around these hours.
 
 For Iceland accommodation near the best hotspots: Reykjavik as a base via [Booking.com](https://www.booking.com/searchresults.html?ss=Reykjavik) or directly in the south near Vík for beach shots.
 
@@ -96,4 +96,4 @@ Santorini and Cappadocia deliver spectacular results with minimal technical effo
 
 - [Where to Stay in Cappadocia: Best Areas and Cave Hotels](/en/blog/where-to-stay-cappadocia/)
 - [Where to Stay in Santorini: Oia, Fira, or Imerovigli?](/en/blog/where-to-stay-santorini/)
-- [Iceland Road Trip Guide: Route, Tips, and Best Photo Spots](/en/blog/iceland-road-trip-guide/)
+- Iceland Road Trip Guide: Route, Tips, and Best Photo Spots

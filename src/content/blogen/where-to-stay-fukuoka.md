@@ -55,7 +55,7 @@ Tenjin is Fukuoka's commercial heart. Large department stores (Tenjin Core, Sola
 
 **Top picks:** Solaria Nishitetsu Hotel Fukuoka (mid-range classic, central in Tenjin), Daiwa Roynet Hotel Fukuoka-Tenjin (business hotel, well-managed), ANA Crowne Plaza Fukuoka (premium, Tenjin location, conference center).
 
-The [Japan 3-week itinerary](/en/blog/japan-3-week-route/) and [Japan beyond Tokyo](/en/blog/japan-beyond-tokyo/) articles cover broader Japan planning.
+The [Japan 3-week itinerary](/en/blog/japan-3-week-route/) and [Japan beyond Tokyo](/en/blog/japan-beyond-tokyo-guide/) articles cover broader Japan planning.
 
 ## Nakasu: Japan's Liveliest River Island
 
@@ -107,5 +107,5 @@ Mid-range hotel: 100–180 EUR/night. Food: 15–25 EUR/day (cheap thanks to str
 
 **Read more:**
 - [Japan: 3-Week Itinerary with Tips](/en/blog/japan-3-week-route/)
-- [Japan Beyond Tokyo: Discoveries Off the Main Route](/en/blog/japan-beyond-tokyo/)
+- [Japan Beyond Tokyo: Discoveries Off the Main Route](/en/blog/japan-beyond-tokyo-guide/)
 - [Where to Stay in Tokyo: Best Neighborhoods](/en/blog/where-to-stay-tokyo/)

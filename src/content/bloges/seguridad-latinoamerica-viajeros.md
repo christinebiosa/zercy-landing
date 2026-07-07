@@ -20,7 +20,7 @@ Las diferencias dentro de la región son enormes. Algunos países los puedes vis
 
 **Chile** es el país más seguro de la región. Tasas bajas de criminalidad, entorno político estable, buena infraestructura. Santiago es una de las grandes ciudades más seguras de Latinoamérica. Para la Patagonia y el Atacama no necesitas precauciones especiales más allá de las reglas habituales para viajes largos. Nuestra [guía de ruta por la Patagonia en 3 semanas](/es/blog/patagonia-3-semanas-ruta/) recorre la región en detalle.
 
-**Costa Rica** es la introducción clásica a Latinoamérica, y con razón. Sin ejército, democracia estable, alto nivel de vida relativo a la región. La delincuencia menor en San José existe, pero la violencia grave contra turistas es rara. Nuestra [guía de viaje a Costa Rica](/es/blog/guia-viaje-costa-rica/) cubre zonas de seguridad concretas.
+**Costa Rica** es la introducción clásica a Latinoamérica, y con razón. Sin ejército, democracia estable, alto nivel de vida relativo a la región. La delincuencia menor en San José existe, pero la violencia grave contra turistas es rara. Nuestra guía de viaje a Costa Rica cubre zonas de seguridad concretas.
 
 **Uruguay** a menudo se pasa por alto, pero es uno de los países más seguros de América del Sur. Montevideo tiene un ambiente relajado. Los turistas rara vez son el objetivo.
 
@@ -108,6 +108,6 @@ Depende mucho del destino. Para la Patagonia, noviembre a marzo es ideal (verano
 ---
 
 **Más artículos:**
-- [Guía de viaje a Costa Rica: Ruta y seguridad](/es/blog/guia-viaje-costa-rica/)
+- Guía de viaje a Costa Rica: Ruta y seguridad
 - [Patagonia en 3 semanas: La ruta completa](/es/blog/patagonia-3-semanas-ruta/)
 - [Seguro de viaje: ¿Realmente vale la pena?](/es/blog/seguro-viaje-vale-la-pena/)

@@ -55,7 +55,7 @@ Downtown sits along the Han River. The Dragon Bridge is here (breathes fire on w
 
 **Top picks:** Novotel Da Nang Premier Han River (landmark hotel, Han River panorama), Azura Hotel (solid mid-range, central, friendly), Brilliant Hotel (affordable option with pool, good river location).
 
-The [Vietnam 2-week itinerary guide](/en/blog/vietnam-2-week-itinerary/) and the [Hoi An neighborhood guide](/en/blog/where-to-stay-hoi-an/) are worth reading alongside this.
+The Vietnam 2-week itinerary guide and the [Hoi An neighborhood guide](/en/blog/where-to-stay-hoi-an/) are worth reading alongside this.
 
 ## Son Tra Peninsula: Nature, Quiet and Sea Views
 
@@ -106,6 +106,6 @@ At least 3 days for Da Nang itself: one day on the beach, one day for Son Tra an
 ---
 
 **Read more:**
-- [Vietnam: 2-Week Itinerary with Tips](/en/blog/vietnam-2-week-itinerary/)
+- Vietnam: 2-Week Itinerary with Tips
 - [Where to Stay in Hoi An: Old Town or Beach?](/en/blog/where-to-stay-hoi-an/)
 - [Where to Stay in Hanoi: Best Neighborhoods](/en/blog/where-to-stay-hanoi/)

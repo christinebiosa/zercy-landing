@@ -79,7 +79,7 @@ Kalamaria ist ein Vorort östlich der Stadtgrenze, direkt am Meer. Keine großen
 
 **Top-Picks:** Capsis Hotel Thessaloniki (größtes Hotel der Gegend, Familien-freundlich), kleine Apartments direkt am Strand über Booking.
 
-Lies auch unseren [Griechenland Inseln Vergleich](/blog/griechenste-inseln-vergleich/), wenn du Thessaloniki mit Inseln kombinieren willst.
+Lies auch unseren Griechenland Inseln Vergleich, wenn du Thessaloniki mit Inseln kombinieren willst.
 
 ## Pylaia und Panorama: Luxuriöses Thessaloniki
 

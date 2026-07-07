@@ -51,7 +51,7 @@ Si tu tiempo en Estambul es limitado, la guía de [48 horas en Estambul](/es/blo
 
 Para el alojamiento, la guía de [dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul/) explica las diferencias entre Sultanahmet (histórico), Beyoglu (moderno) y los barrios emergentes. La elección del barrio importa más que el hotel en sí en Estambul.
 
-Si el plan incluye Capadocia, consulta también [dónde alojarse en Capadocia](/es/blog/donde-alojarse-cappadocia/): las cuevas hotel en Göreme son uno de los alojamientos más interesantes de toda la región.
+Si el plan incluye Capadocia, consulta también dónde alojarse en Capadocia: las cuevas hotel en Göreme son uno de los alojamientos más interesantes de toda la región.
 
 ---
 
@@ -74,5 +74,5 @@ Porque gran parte de la infraestructura turística cierra. Muchos hoteles boutiq
 ## Más información
 
 - [Dónde alojarse en Estambul](/es/blog/donde-alojarse-estambul/)
-- [Dónde alojarse en Capadocia](/es/blog/donde-alojarse-cappadocia/)
+- Dónde alojarse en Capadocia
 - [48 horas en Estambul: itinerario honesto](/es/blog/48-horas-estambul/)

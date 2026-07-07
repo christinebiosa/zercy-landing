@@ -50,7 +50,7 @@ Die Nite Ize Leine hat Metallhaken an beiden Enden, die an Duschstangen, Balkong
 Samsonite bietet eine zweisträngige Twistleine mit Reisebeutel, ca. 8-12 Euro. Funktioniert an Haken und Griffen, weniger gut an glatten Stangen.
 
 **Bestes Faltwaschbecken: Scrubba Wash Bag**
-Der Scrubba Wash Bag ist eigentlich ein faltbarer Waschbeutel mit internem Noppen-Griffbrett zum Schrubben. Kapazität: ca. 3-4 Liter. Preis: ca. 40-55 Euro. Klingt teuer, aber ersetzt tatsächlich Wäscheservice auf langen Trips. Leichter (ca. 135 Gramm) als jedes Faltbecken. [Packwürfel-Vergleich](/blog/packwuerfel-vergleich/) zeigt, wie du den Scrubba platzsparend verstaust.
+Der Scrubba Wash Bag ist eigentlich ein faltbarer Waschbeutel mit internem Noppen-Griffbrett zum Schrubben. Kapazität: ca. 3-4 Liter. Preis: ca. 40-55 Euro. Klingt teuer, aber ersetzt tatsächlich Wäscheservice auf langen Trips. Leichter (ca. 135 Gramm) als jedes Faltbecken. Packwürfel-Vergleich zeigt, wie du den Scrubba platzsparend verstaust.
 
 **Günstige Faltschüssel-Alternative: Redcamp Foldable Basin**
 Für Leute, die wirklich nur Socken und Unterwäsche waschen: Das Redcamp-Becken aus lebensmittelechtem Silikon fasst 5 Liter, wiegt 180 Gramm, kostet ca. 8-12 Euro. Klappt auf Briefgröße zusammen.
@@ -68,7 +68,7 @@ Premium-Setup mit Scrubba Wash Bag + Earth Breeze + Nikwax: ca. 65-85 Euro. Lohn
 
 Hotelwäscherei kostet oft 20-50 Euro pro Wäsche. Das Waschset amortisiert sich nach zwei bis drei Nutzungen.
 
-Die [Reise-Packliste](/blog/reise-packliste/) gibt dir den Überblick, welche weiteren Essentials wirklich ins Gepäck gehören.
+Die [Reise-Packliste](/blog/reise-packliste-was-wirklich-rein-kommt/) gibt dir den Überblick, welche weiteren Essentials wirklich ins Gepäck gehören.
 
 ---
 
@@ -77,7 +77,7 @@ Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du
 ## Mehr lesen
 - [Nur mit Handgepäck reisen: So geht's](/blog/nur-handgepaeck/)
 - [Capsule Wardrobe fürs Handgepäck](/blog/capsule-wardrobe-handgepaeck/)
-- [Packwürfel im Vergleich: Welche lohnen sich?](/blog/packwuerfel-vergleich/)
+- Packwürfel im Vergleich: Welche lohnen sich?
 
 ## Häufige Fragen
 

@@ -34,7 +34,7 @@ Kurz gesagt: Nicht mittags. Hartes Mittagslicht ist der Feind guter Reisefotos.
 
 **Blue Hour** ist die 20 bis 30 Minuten nach Sonnenuntergang oder vor Sonnenaufgang. Das Licht ist kühler, gleichmäßiger und gibt Stadtlandschaften eine fast magische Qualität. Für Tempel, Moscheen und beleuchtete Gebäude ist Blue Hour oft besser als Golden Hour.
 
-**Mitternachtssonne auf Island** spielt nach anderen Regeln. Von Mai bis August geht die Sonne auf Island kaum unter. Das goldene Licht hält stundenlang. Die Westfjorde, Landmannalaugar und der Jökulsárlón Gletschersee bei Mitternachtssonne sind fotografisch kaum zu toppen. Plane die [island-roadtrip-guide](/blog/island-roadtrip-guide/) Route bewusst um diese Stunden herum.
+**Mitternachtssonne auf Island** spielt nach anderen Regeln. Von Mai bis August geht die Sonne auf Island kaum unter. Das goldene Licht hält stundenlang. Die Westfjorde, Landmannalaugar und der Jökulsárlón Gletschersee bei Mitternachtssonne sind fotografisch kaum zu toppen. Plane die island-roadtrip-guide Route bewusst um diese Stunden herum.
 
 Für Island-Unterkünfte nahe der besten Hotspots: Reykjavik als Basis über [Booking.com](https://www.booking.com/searchresults.html?ss=Reykjavik) oder direkt im Süden bei Vík für Strand-Spots.
 
@@ -96,4 +96,4 @@ Santorini und Kappadokien liefern spektakuläre Ergebnisse mit minimalem technis
 
 - [Wo übernachten in Kappadokien: Beste Stadtteile und Höhlenhotels](/blog/wo-uebernachten-kappadokien/)
 - [Wo übernachten in Santorini: Oia, Fira oder Imerovigli?](/blog/wo-uebernachten-santorini/)
-- [Island Roadtrip Guide: Route, Tipps und beste Fotospots](/blog/island-roadtrip-guide/)
+- Island Roadtrip Guide: Route, Tipps und beste Fotospots

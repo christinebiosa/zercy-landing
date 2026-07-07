@@ -55,7 +55,7 @@ Für gelegentliche Strandurlaube reicht ein Budget-Modell (25-40 Euro) absolut a
 
 Ein guter Sonnenhut hält jahrelang, wenn er richtig gelagert wird. Der Tilley hat tatsächlich lebenslange Garantie. Bei 90 Euro für 10 Jahre ist das fast günstiger als Budget-Alternativen, die nach zwei Urlauben verschlissen sind.
 
-Wenn du deinen Koffer komplett zusammenstellst: Die [Reise-Packliste](/blog/reise-packliste/) hilft dir, keine Kategorie zu vergessen. Und für die beste Kleidungsstrategie schau dir die [Capsule Wardrobe fürs Handgepäck](/blog/capsule-wardrobe-handgepaeck/) an.
+Wenn du deinen Koffer komplett zusammenstellst: Die [Reise-Packliste](/blog/reise-packliste-was-wirklich-rein-kommt/) hilft dir, keine Kategorie zu vergessen. Und für die beste Kleidungsstrategie schau dir die [Capsule Wardrobe fürs Handgepäck](/blog/capsule-wardrobe-handgepaeck/) an.
 
 ## Welcher Sonnenhut passt zu welcher Reise?
 
@@ -73,7 +73,7 @@ Wenn dein Gepäck steht, beginnt die eigentliche Reise: Mit Zercy vergleichst du
 
 ## Mehr lesen
 - [Capsule Wardrobe fürs Handgepäck](/blog/capsule-wardrobe-handgepaeck/)
-- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste/)
+- [Reise-Packliste: Was wirklich rein kommt](/blog/reise-packliste-was-wirklich-rein-kommt/)
 - [Beste Reisezeit Griechenland](/blog/beste-reisezeit-griechenland/)
 
 ## Häufige Fragen

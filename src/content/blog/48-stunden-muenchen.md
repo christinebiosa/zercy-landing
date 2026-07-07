@@ -83,7 +83,7 @@ Essen: Bäckerei-Frühstück 3 bis 5 Euro. Mittagessen im Wirtshaus 12 bis 16 Eu
 
 Museen: Alte Pinakothek sonntags 1 Euro. BMW Welt kostenlos. Olympiapark Anlage kostenlos. Nymphenburg-Park kostenlos. Mit etwas Planung bleibt der Kulturanteil überschaubar.
 
-Unser [Skiurlaub Europa Beste Ziele Guide](/blog/skiurlaub-europa-beste-ziele/) zeigt, dass Bayern auch außerhalb der Stadt faszinant ist, wenn du Zeit hast, den Trip zu verlängern.
+Unser Skiurlaub Europa Beste Ziele Guide zeigt, dass Bayern auch außerhalb der Stadt faszinant ist, wenn du Zeit hast, den Trip zu verlängern.
 
 ## Wann lohnt sich München am meisten?
 
@@ -125,5 +125,5 @@ Mit dem Zug aus vielen deutschen Städten und aus Österreich ist München sehr 
 
 **Mehr lesen:**
 - [Günstig Fliegen: Die besten Tricks für billige Flüge](/blog/guenstig-fliegen-tipps/)
-- [Skiurlaub Europa: Die besten Ziele 2026](/blog/skiurlaub-europa-beste-ziele/)
+- Skiurlaub Europa: Die besten Ziele 2026
 - [48 Stunden Wien: Was wirklich in einem Wochenende geht](/blog/48-stunden-wien/)

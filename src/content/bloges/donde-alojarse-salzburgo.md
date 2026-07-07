@@ -119,4 +119,4 @@ De noviembre a marzo (fuera de la temporada de Adviento) y en abril y octubre. E
 **Más información:**
 - [Los mejores hoteles en Viena: Los 5 barrios](/es/blog/donde-alojarse-viena/)
 - [Los mejores hoteles en Praga: Los 5 barrios](/es/blog/donde-alojarse-praga/)
-- [Viaje en tren por Europa: Rutas, consejos y apps](/es/blog/tren-viaje-europa/)
+- Viaje en tren por Europa: Rutas, consejos y apps

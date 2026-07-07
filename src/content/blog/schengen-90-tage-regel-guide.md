@@ -121,5 +121,5 @@ Nein. Der Schengenraum gilt als eine einzige Zone. Ein Wechsel von Deutschland n
 ## Mehr lesen
 
 - [ETIAS 2026: Alles was du wissen musst](/blog/etias-2026-guide/)
-- [Langzeitreise Vorbereitung: Checkliste für Monate im Ausland](/blog/langzeitreise-vorbereitung/)
-- [Reiseversicherung: Wann sie sich wirklich lohnt](/blog/reiseversicherung-guide/)
+- Langzeitreise Vorbereitung: Checkliste für Monate im Ausland
+- Reiseversicherung: Wann sie sich wirklich lohnt

@@ -58,7 +58,7 @@ Drei Dinge machen den Unterschied zwischen Tracking, das hält, und Apps, die du
 
 **Kategorien einhalten.** Transport, Essen, Unterkunft, Freizeit. Mehr brauchst du nicht. Wer zu viele Kategorien anlegt, verliert schnell die Lust. Halte es simpel.
 
-Das Tracking macht Spaß, wenn du siehst, dass es funktioniert. Wenn du am Ende einer Woche auf Budget geblieben bist, ist das ein echter Erfolg. Ein Budget hilft dir auch dabei, [Geld im Ausland smartereinzusetzen](/blog/geld-im-ausland/) und keine unnötigen Gebühren zu zahlen.
+Das Tracking macht Spaß, wenn du siehst, dass es funktioniert. Wenn du am Ende einer Woche auf Budget geblieben bist, ist das ein echter Erfolg. Ein Budget hilft dir auch dabei, [Geld im Ausland smartereinzusetzen](/blog/geld-im-ausland-tipps/) und keine unnötigen Gebühren zu zahlen.
 
 Willst du deine Reiseoptionen vorab vergleichen und Budget-freundliche Alternativen finden? Zercy hilft dir dabei, Flüge und Unterkünfte nach Preis zu filtern. Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
 

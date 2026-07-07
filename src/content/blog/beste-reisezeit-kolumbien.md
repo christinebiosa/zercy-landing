@@ -18,7 +18,7 @@ Kolumbien hat zwei Trockenperioden pro Jahr: Dezember bis März sowie Juli bis A
 
 Die Preise steigen entsprechend. Hotels in Cartagena kosten zwischen Weihnachten und Neujahr leicht 180 bis 250 Euro pro Nacht in einem guten Boutique-Hotel. Wer flexibel ist, kommt im November oder April deutlich günstiger weg, zahlt dann 80 bis 130 Euro für dieselbe Qualität. Die Regenzeit heißt in Kolumbien "temporada de lluvias", aber Angst ist fehl am Platz. Die Schauer kommen meist zwischen 14 und 17 Uhr, danach klart es auf.
 
-Für [Reisen mit kleinem Budget](/blog/viajar-con-poco-dinero-consejos/) ist die Schulterzeit April bis Mai und Oktober bis November ein echter Geheimtipp. Weniger Touristen, niedrigere Preise, trotzdem viel Sonne.
+Für Reisen mit kleinem Budget ist die Schulterzeit April bis Mai und Oktober bis November ein echter Geheimtipp. Weniger Touristen, niedrigere Preise, trotzdem viel Sonne.
 
 ## Welche Region passt zu welchem Reisemonat?
 
@@ -40,7 +40,7 @@ Das Blumenfest in Medellín (Festival de las Flores) im August ist ein weiteres 
 
 Auch das Bogotá-Theater-Festival im März und das internationale Jazz-Festival in verschiedenen Städten im Oktober sind es wert, beim Buchen zu berücksichtigen. Wer ruhige Reiseerfahrungen bevorzugt, plant bewusst um diese Events herum.
 
-Für Rucksackreisende lohnt sich ein Blick auf den [Kolumbien-Reiseguide](/blog/guia-viaje-colombia/) für praktische Hintergrundinfos zur Organisation. Wer die Andenregion komplett erkunden will, findet in der [Costa Rica Rundreise](/blog/costa-rica-rundreise-route/) Inspiration für Nachbarländer als Ergänzung.
+Für Rucksackreisende lohnt sich ein Blick auf den Kolumbien-Reiseguide für praktische Hintergrundinfos zur Organisation. Wer die Andenregion komplett erkunden will, findet in der [Costa Rica Rundreise](/blog/costa-rica-rundreise-route/) Inspiration für Nachbarländer als Ergänzung.
 
 ## Monat-für-Monat: Wann du wirklich nach Kolumbien solltest
 
@@ -63,7 +63,7 @@ Für Rucksackreisende lohnt sich ein Blick auf den [Kolumbien-Reiseguide](/blog/
 Speichere die Auswahl im [Zercy Logbook](https://www.zercy.app/logbook), damit du beim Buchen alle Optionen zur Hand hast.
 
 **Mehr lesen:**
-- [Kolumbien Reiseguide: Highlights und Tipps](/blog/guia-viaje-colombia/)
+- Kolumbien Reiseguide: Highlights und Tipps
 - [Solo Reisen als Frau: Sichere Länder](/blog/solo-reisen-frauen-sicher/)
 - [Günstig Fliegen: Die besten Tricks](/blog/guenstig-fliegen-tipps/)
 

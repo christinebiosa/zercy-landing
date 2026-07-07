@@ -18,7 +18,7 @@ Honduras también favorece al presupuesto ajustado. Las Islas de la Bahía, espe
 
 Belice está en el medio. Caye Caulker, la alternativa más tranquila y barata que Ambergris Caye, es manejable con 40 a 60 dólares al día. El snorkel en la Barrera de Coral de Belice es accesible a través de operadores locales. Las reservas naturales del oeste cuestan alrededor de 50 dólares por día.
 
-Costa Rica es el reto del mochilero con presupuesto ajustado. Aquí empiezas en 60 a 80 dólares por día. Las entradas a los parques nacionales se suman rápido, las redes de buses son limitadas en algunas zonas, y los hosteles cobran precios casi europeos. Aun así, Costa Rica vale la pena. La experiencia de naturaleza no tiene comparación. Nuestra [guía completa de Costa Rica](/es/blog/guia-viaje-costa-rica/) te explica la mejor ruta para aprovecharla al máximo.
+Costa Rica es el reto del mochilero con presupuesto ajustado. Aquí empiezas en 60 a 80 dólares por día. Las entradas a los parques nacionales se suman rápido, las redes de buses son limitadas en algunas zonas, y los hosteles cobran precios casi europeos. Aun así, Costa Rica vale la pena. La experiencia de naturaleza no tiene comparación. Nuestra guía completa de Costa Rica te explica la mejor ruta para aprovecharla al máximo.
 
 Panamá está entre Costa Rica y Guatemala en términos de costo. La Ciudad de Panamá tiene una red excelente de hosteles. El Canal, las Islas San Blas y las tierras cafetaleras de Boquete son accesibles en transporte público. Presupuesta 45 a 65 dólares por día.
 
@@ -88,6 +88,6 @@ Los vuelos directos desde Europa llegan a Ciudad de Guatemala, San José (Costa 
 
 ## Más información
 
-- [Guía completa de Costa Rica: La mejor ruta para 3 semanas](/es/blog/guia-viaje-costa-rica/)
+- Guía completa de Costa Rica: La mejor ruta para 3 semanas
 - [Guatemala: Antigua, Tikal y los mejores lugares](/es/blog/guatemala-guia-viaje-highlights/)
 - [Seguro de viaje: ¿Cuándo vale realmente la pena?](/es/blog/seguro-viaje-vale-la-pena/)

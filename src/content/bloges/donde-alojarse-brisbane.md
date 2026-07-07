@@ -123,4 +123,4 @@ De junio a agosto: temperaturas agradables entre 20 y 25 grados, poca lluvia, id
 **Más información:**
 - [Dónde alojarse en Sídney: Los 5 barrios](/es/blog/donde-alojarse-sydney/)
 - [Dónde alojarse en Melbourne: Los 5 barrios](/es/blog/donde-alojarse-melbourne/)
-- [Vuelos baratos: consejos para encontrar el mejor precio](/es/blog/vuelos-baratos-consejos/)
+- Vuelos baratos: consejos para encontrar el mejor precio

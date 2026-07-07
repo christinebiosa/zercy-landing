@@ -71,7 +71,7 @@ Los que realmente quieren estar en el Oberland bernés se alojan en los pueblos 
 
 Interlaken y los alrededores están bien cubiertos en [Booking.com](https://www.booking.com). Los pueblos de montaña (Grindelwald, Lauterbrunnen, Wengen) tienen muchas pequeñas pensiones listadas solo allí. Reservar pronto: los visitantes del Jungfraujoch reservan con meses de antelación y los hoteles siguen el mismo patrón.
 
-Lee también: [Guía de viaje a Suiza: los mejores highlights](/es/blog/suiza-guia-viaje-highlights/) y [Dónde alojarse en Lucerna](/es/blog/donde-alojarse-lucerna/).
+Lee también: Guía de viaje a Suiza: los mejores highlights y [Dónde alojarse en Lucerna](/es/blog/donde-alojarse-lucerna/).
 
 ---
 
@@ -99,6 +99,6 @@ Vuelo en tándem con piloto: aproximadamente CHF 170-220 (unos 185-240 euros). D
 
 ## Más artículos
 
-- [Suiza: los mejores highlights del viaje](/es/blog/suiza-guia-viaje-highlights/)
+- Suiza: los mejores highlights del viaje
 - [Dónde alojarse en Lucerna: Barrios y hoteles](/es/blog/donde-alojarse-lucerna/)
 - [Mejores destinos de primavera en Europa](/es/blog/mejores-destinos-primavera-europa/)

@@ -33,7 +33,7 @@ La tarde es para la **South Bank**. Camina hacia el oeste a lo largo del Támesi
 
 Por la noche: **Covent Garden** durante la primera hora. Artistas callejeros, la histórica sala de mercado, buen ambiente. Luego hacia el **West End** si tienes entrada de teatro. Londres tiene la mejor escena teatral del mundo. Las entradas de última hora suelen salir desde 30 o 40 libras en la taquilla o a través de la app TKTS. Cierra la noche en **Soho**: restaurantes de todas las cocinas del mundo, bares animados, pocos sitios concentran tanta variedad en tan poco espacio.
 
-Si aún no sabes dónde dormir, nuestro artículo sobre [dónde alojarse en Londres](/es/blog/donde-alojarse-londres/) cubre barrios por presupuesto y tipo de viaje.
+Si aún no sabes dónde dormir, nuestro artículo sobre [dónde alojarse en Londres](/es/blog/donde-alojarse-london/) cubre barrios por presupuesto y tipo de viaje.
 
 ## Día 2: Notting Hill, Hyde Park y Chelsea
 
@@ -93,11 +93,11 @@ Usa una Oyster Card o tarjeta de contacto en el Tube. El tope diario se aplica a
 
 ### ¿Qué barrio es mejor para alojarse en Londres?
 
-Shoreditch y Southwark (este/sur) son modernos y bien conectados. Notting Hill y South Kensington (oeste) son más tranquilos y residenciales. Covent Garden está en el centro y es ideal si tienes una noche de teatro planeada. Hoteles concretos y comparativa de barrios en el artículo sobre [dónde alojarse en Londres](/es/blog/donde-alojarse-londres/).
+Shoreditch y Southwark (este/sur) son modernos y bien conectados. Notting Hill y South Kensington (oeste) son más tranquilos y residenciales. Covent Garden está en el centro y es ideal si tienes una noche de teatro planeada. Hoteles concretos y comparativa de barrios en el artículo sobre [dónde alojarse en Londres](/es/blog/donde-alojarse-london/).
 
 ---
 
 **Leer más:**
-- [Dónde alojarse en Londres: guía de barrios y hoteles por presupuesto](/es/blog/donde-alojarse-londres/)
+- [Dónde alojarse en Londres: guía de barrios y hoteles por presupuesto](/es/blog/donde-alojarse-london/)
 - [Solo equipaje de mano: cómo evitar siempre las tasas de facturación](/es/blog/solo-equipaje-de-mano/)
 - [Guía de transporte desde el aeropuerto 2026](/es/blog/transporte-aeropuerto-guia-2026/)

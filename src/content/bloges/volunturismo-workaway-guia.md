@@ -20,7 +20,7 @@ La reserva es privada entre tú y el anfitrión. Workaway no inspecciona a los a
 
 Tareas habituales: clases de idiomas para niños o adultos, recepción y limpieza en hostels, trabajo en fincas ecológicas, protección de tortugas marinas en costas, proyectos de construcción y renovación, ayuda con redes sociales para negocios locales.
 
-Si estás planificando tu [guía de viaje a Costa Rica](/es/blog/guia-viaje-costa-rica/), en Workaway encontrarás anfitriones desde la costa caribeña hasta el interior del bosque tropical que combinan viaje y trabajo real.
+Si estás planificando tu guía de viaje a Costa Rica, en Workaway encontrarás anfitriones desde la costa caribeña hasta el interior del bosque tropical que combinan viaje y trabajo real.
 
 ## ¿Qué diferencia el voluntariado real del turismo solidario vacío?
 
@@ -113,6 +113,6 @@ Fíjate en la antigüedad del perfil y el número de reseñas. Los anfitriones c
 ---
 
 **Más información:**
-- [Guía completa de viaje a Costa Rica: ruta y consejos](/es/blog/guia-viaje-costa-rica/)
+- Guía completa de viaje a Costa Rica: ruta y consejos
 - [Viaje económico por el sudeste asiático: cómo hacerlo bien](/es/blog/sudeste-asiatico-viaje-economico/)
 - [Seguro de viaje 2026: ¿cuándo vale la pena de verdad?](/es/blog/seguro-viaje-vale-la-pena/)

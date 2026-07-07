@@ -101,4 +101,4 @@ En autobús (Pesa o ALSA): unas 1 hora 20 minutos, unos 7-10 euros. En coche por
 
 - [Dónde alojarse en Barcelona: Los 5 barrios](/es/blog/donde-alojarse-barcelona/)
 - [Dónde alojarse en Madrid: Barrios y hoteles](/es/blog/donde-alojarse-madrid/)
-- [Ruta Portugal: El itinerario perfecto](/es/blog/ruta-portugal-completa/)
+- Ruta Portugal: El itinerario perfecto
