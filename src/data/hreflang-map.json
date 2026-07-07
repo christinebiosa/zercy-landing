@@ -4429,6 +4429,21 @@
     "en": "https://www.zercy.app/en/blog/interrail-guide-2026/",
     "es": "https://www.zercy.app/es/blog/guia-interrail-2026/"
   },
+  "interrail-pass-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/interrail-pass-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/eurail-pass-worth-it/",
+    "es": "https://www.zercy.app/es/blog/pase-eurail-interrail-vale-la-pena/"
+  },
+  "eurail-pass-worth-it": {
+    "de": "https://www.zercy.app/blog/interrail-pass-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/eurail-pass-worth-it/",
+    "es": "https://www.zercy.app/es/blog/pase-eurail-interrail-vale-la-pena/"
+  },
+  "pase-eurail-interrail-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/interrail-pass-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/eurail-pass-worth-it/",
+    "es": "https://www.zercy.app/es/blog/pase-eurail-interrail-vale-la-pena/"
+  },
   "irland-rundreise-route": {
     "de": "https://www.zercy.app/blog/irland-rundreise-route/",
     "en": "https://www.zercy.app/en/blog/ireland-road-trip-route/",
@@ -4818,6 +4833,21 @@
     "de": "https://www.zercy.app/blog/kreuzfahrt-einsteiger-guide/",
     "en": "https://www.zercy.app/en/blog/cruise-beginners-guide/",
     "es": "https://www.zercy.app/es/blog/crucero-guia-principiantes/"
+  },
+  "kreuzfahrt-getraenkepaket-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/kreuzfahrt-getraenkepaket-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/cruise-drink-package-worth-it/",
+    "es": "https://www.zercy.app/es/blog/paquete-bebidas-crucero-vale-la-pena/"
+  },
+  "cruise-drink-package-worth-it": {
+    "de": "https://www.zercy.app/blog/kreuzfahrt-getraenkepaket-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/cruise-drink-package-worth-it/",
+    "es": "https://www.zercy.app/es/blog/paquete-bebidas-crucero-vale-la-pena/"
+  },
+  "paquete-bebidas-crucero-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/kreuzfahrt-getraenkepaket-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/cruise-drink-package-worth-it/",
+    "es": "https://www.zercy.app/es/blog/paquete-bebidas-crucero-vale-la-pena/"
   },
   "kreuzfahrt-staedte-verlaengern": {
     "de": "https://www.zercy.app/blog/kreuzfahrt-staedte-verlaengern/",
@@ -5308,6 +5338,21 @@
     "de": "https://www.zercy.app/blog/mietwagen-consolidator-guenstiger-fahren/",
     "en": "https://www.zercy.app/en/blog/rental-consolidators-save-money/",
     "es": "https://www.zercy.app/es/blog/consolidadores-alquiler-ahorrar/"
+  },
+  "mietwagen-tankregelung-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/mietwagen-tankregelung-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/rental-car-fuel-policy-worth-it/",
+    "es": "https://www.zercy.app/es/blog/politica-combustible-alquiler-vale-la-pena/"
+  },
+  "rental-car-fuel-policy-worth-it": {
+    "de": "https://www.zercy.app/blog/mietwagen-tankregelung-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/rental-car-fuel-policy-worth-it/",
+    "es": "https://www.zercy.app/es/blog/politica-combustible-alquiler-vale-la-pena/"
+  },
+  "politica-combustible-alquiler-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/mietwagen-tankregelung-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/rental-car-fuel-policy-worth-it/",
+    "es": "https://www.zercy.app/es/blog/politica-combustible-alquiler-vale-la-pena/"
   },
   "mietwagen-versicherung-lohnt-sich": {
     "de": "https://www.zercy.app/blog/mietwagen-versicherung-lohnt-sich/",

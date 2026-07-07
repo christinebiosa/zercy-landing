@@ -3,6 +3,16 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  // Flagship-Batch 2026-07-07 (Interrail/Eurail + Kreuzfahrt-Getränke + Mietwagen-Tank)
+  'interrail-pass-lohnt-sich': 'rail-pass-europa',
+  'eurail-pass-worth-it': 'rail-pass-europa',
+  'pase-eurail-interrail-vale-la-pena': 'rail-pass-europa',
+  'kreuzfahrt-getraenkepaket-lohnt-sich': 'kreuzfahrt-getraenkepaket',
+  'cruise-drink-package-worth-it': 'kreuzfahrt-getraenkepaket',
+  'paquete-bebidas-crucero-vale-la-pena': 'kreuzfahrt-getraenkepaket',
+  'mietwagen-tankregelung-lohnt-sich': 'mietwagen-tankregelung',
+  'rental-car-fuel-policy-worth-it': 'mietwagen-tankregelung',
+  'politica-combustible-alquiler-vale-la-pena': 'mietwagen-tankregelung',
   // Flagship-Batch 2026-07-01 (eSIM vs Roaming + Inflight WiFi)
   'reise-esim-oder-roaming-lohnt-sich': 'reise-esim-roaming',
   'travel-esim-vs-roaming-worth-it': 'reise-esim-roaming',
@@ -2816,6 +2826,9 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'rail-pass-europa': 'train station europe platform',
+  'kreuzfahrt-getraenkepaket': 'cruise ship bar cocktail',
+  'mietwagen-tankregelung': 'gas station fuel pump',
   'reise-esim-roaming': 'smartphone sim card travel',
   'inflight-wifi': 'passenger using phone airplane',
   'resort-fee': 'resort hotel pool',
