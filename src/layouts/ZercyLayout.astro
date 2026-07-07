@@ -763,7 +763,7 @@ const fl = FOOTER_LABELS[lang] || FOOTER_LABELS.en;
   .flight-notes { display: flex; flex-wrap: wrap; gap: 0.3rem; padding: 0.5rem 0 0.15rem; }
   .flight-note { display: inline-block; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 20px; padding: 0.2rem 0.6rem; font-size: 0.7rem; color: #64748b; font-weight: 500; }
 
-  /* Live hotel price — single "from €X/night" badge in section header */
+  /* Live hotel price — single "from €X per night" badge in section header */
   .hotel-price-from { display: inline-block; margin-left: 0.55rem; background: #dcfce7; color: #166534; font-size: 0.72rem; font-weight: 800; padding: 0.18rem 0.55rem; border-radius: 20px; vertical-align: middle; letter-spacing: 0.01em; }
   .hotel-price-from.loading { background: #f1f5f9; color: #94a3b8; font-weight: 600; }
   .hotel-price-from:empty { display: none; }
@@ -2268,7 +2268,7 @@ function hotelOnlyHtml(d) {
   ${chipsHtml ? `<div class="chips" style="margin-top:1rem;">${chipsHtml}</div>` : ''}`;
 }
 
-// Live hotel price — single "from €X/night" badge in the section header.
+// Live hotel price — single "from €X per night" badge in the section header.
 // Uses the cheapest aggregated rate from SerpAPI Google Hotels (which is the
 // honest floor price for the city + dates), not per-OTA values which are misleading.
 const __hotelPriceCache = {};
@@ -2314,7 +2314,7 @@ async function loadHotelPrices(root) {
           badge.classList.remove('loading');
         } else {
           const minVal = Math.min(...vals);
-          const label = { de:'ab €' + minVal + '/Nacht', en:'from €' + minVal + '/night', fr:'dès €' + minVal + '/nuit', es:'desde €' + minVal + '/noche', nl:'vanaf €' + minVal + '/nacht', it:'da €' + minVal + '/notte', pt:'desde €' + minVal + '/noite' }[zercyLang] || ('from €' + minVal + '/night');
+          const label = { de:'ab €' + minVal + ' pro Nacht', en:'from €' + minVal + ' per night', fr:'dès €' + minVal + ' par nuit', es:'desde €' + minVal + ' por noche', nl:'vanaf €' + minVal + ' per nacht', it:'da €' + minVal + ' a notte', pt:'desde €' + minVal + ' por noite' }[zercyLang] || ('from €' + minVal + ' per night');
           badge.textContent = label;
           badge.classList.remove('loading');
         }

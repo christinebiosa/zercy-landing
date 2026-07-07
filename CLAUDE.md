@@ -166,6 +166,8 @@ git add -A && git commit -m "Beschreibung der Änderung" && git push
 
 ## 🔗 Canonical-URL-Konvention (KRITISCH für SEO — nie brechen!)
 
+> ⚠️ **PHANTOM-404-FALLE (2026-07-07 entdeckt+gefixt):** Anzeige-Labels wie `"ab €120/Nacht"` / `"from €120/night"` / `"€X/Tag"` NIEMALS mit „/Wort" bauen. Google scannt das JS-Bundle nach URL-artigen String-Literalen, extrahiert `/night` `/nuit` `/noche` `/nacht` `/notte` `/noite` und crawlt `www.zercy.app/night` usw. → 9 Phantom-404s in GSC. Fix: Slash weg, „**pro/per/por/par/a Nacht**" schreiben (ZercyLayout ~Z.2317). Regel: in Labels IMMER „pro X", nie „/X". Kaputte interne Links generell mit `node scripts/fix-broken-internal-links.mjs` finden (mappt auf korrekten Slug oder entfernt).
+
 **Die einzige gültige URL-Form für Blog-Seiten: `https://www.zercy.app/<lang>/blog/<slug>/`** — also **www + trailing slash**. Canonical-Tag, Sitemap, hreflang und interne Links nutzen ALLE diese Form.
 
 **Regeln (sonst entsteht GSC-Müll wie „Alternate page with proper canonical"):**
