@@ -1,6 +1,1 @@
-global-entry-tsa-precheck-worth-it
-cruise-drink-package-worth-it
-izmir
-rental-car-fuel-policy-worth-it
-seat-selection-worth-it
 airport-transfer-vs-taxi-worth-it

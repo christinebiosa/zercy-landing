@@ -3594,6 +3594,21 @@
     "en": "https://www.zercy.app/en/blog/airport-hotel-worth-it/",
     "es": "https://www.zercy.app/es/blog/hotel-aeropuerto-vale-la-pena/"
   },
+  "flughafen-parken-oder-transfer": {
+    "de": "https://www.zercy.app/blog/flughafen-parken-oder-transfer/",
+    "en": "https://www.zercy.app/en/blog/airport-parking-vs-transfer/",
+    "es": "https://www.zercy.app/es/blog/aparcar-aeropuerto-o-traslado/"
+  },
+  "airport-parking-vs-transfer": {
+    "de": "https://www.zercy.app/blog/flughafen-parken-oder-transfer/",
+    "en": "https://www.zercy.app/en/blog/airport-parking-vs-transfer/",
+    "es": "https://www.zercy.app/es/blog/aparcar-aeropuerto-o-traslado/"
+  },
+  "aparcar-aeropuerto-o-traslado": {
+    "de": "https://www.zercy.app/blog/flughafen-parken-oder-transfer/",
+    "en": "https://www.zercy.app/en/blog/airport-parking-vs-transfer/",
+    "es": "https://www.zercy.app/es/blog/aparcar-aeropuerto-o-traslado/"
+  },
   "flughafen-schlafen-guide": {
     "de": "https://www.zercy.app/blog/flughafen-schlafen-guide/",
     "en": "https://www.zercy.app/en/blog/sleeping-at-airport-guide/",
@@ -4818,6 +4833,21 @@
     "de": "https://www.zercy.app/blog/kostenlose-stornierung-vs-nicht-erstattbar-hotel/",
     "en": "https://www.zercy.app/en/blog/free-cancellation-vs-non-refundable-hotel/",
     "es": "https://www.zercy.app/es/blog/cancelacion-gratis-vs-no-reembolsable-hotel/"
+  },
+  "kreuzfahrt-ausfluege-selbst-buchen": {
+    "de": "https://www.zercy.app/blog/kreuzfahrt-ausfluege-selbst-buchen/",
+    "en": "https://www.zercy.app/en/blog/cruise-shore-excursions-diy/",
+    "es": "https://www.zercy.app/es/blog/excursiones-crucero-por-tu-cuenta/"
+  },
+  "cruise-shore-excursions-diy": {
+    "de": "https://www.zercy.app/blog/kreuzfahrt-ausfluege-selbst-buchen/",
+    "en": "https://www.zercy.app/en/blog/cruise-shore-excursions-diy/",
+    "es": "https://www.zercy.app/es/blog/excursiones-crucero-por-tu-cuenta/"
+  },
+  "excursiones-crucero-por-tu-cuenta": {
+    "de": "https://www.zercy.app/blog/kreuzfahrt-ausfluege-selbst-buchen/",
+    "en": "https://www.zercy.app/en/blog/cruise-shore-excursions-diy/",
+    "es": "https://www.zercy.app/es/blog/excursiones-crucero-por-tu-cuenta/"
   },
   "kreuzfahrt-einsteiger-guide": {
     "de": "https://www.zercy.app/blog/kreuzfahrt-einsteiger-guide/",
@@ -7153,6 +7183,21 @@
     "de": "https://www.zercy.app/blog/skandinavien-rundreise-route/",
     "en": "https://www.zercy.app/en/blog/scandinavia-road-trip-route/",
     "es": "https://www.zercy.app/es/blog/escandinavia-ruta-completa/"
+  },
+  "skip-the-line-tickets-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/skip-the-line-tickets-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/skip-the-line-tickets-worth-it/",
+    "es": "https://www.zercy.app/es/blog/entradas-sin-cola-vale-la-pena/"
+  },
+  "skip-the-line-tickets-worth-it": {
+    "de": "https://www.zercy.app/blog/skip-the-line-tickets-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/skip-the-line-tickets-worth-it/",
+    "es": "https://www.zercy.app/es/blog/entradas-sin-cola-vale-la-pena/"
+  },
+  "entradas-sin-cola-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/skip-the-line-tickets-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/skip-the-line-tickets-worth-it/",
+    "es": "https://www.zercy.app/es/blog/entradas-sin-cola-vale-la-pena/"
   },
   "skiurlaub-europa-beste-orte": {
     "de": "https://www.zercy.app/blog/skiurlaub-europa-beste-orte/",
