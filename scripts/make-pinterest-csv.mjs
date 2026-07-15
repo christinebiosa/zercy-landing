@@ -44,6 +44,21 @@ const immediate = has('--immediate');
 const startStr = arg('--start', null);
 const start = startStr ? new Date(startStr + 'T13:00:00Z') : (() => { const d = new Date(); d.setUTCDate(d.getUTCDate() + 1); d.setUTCHours(13, 0, 0, 0); return d; })();
 
+// --de-slugs: DE-Slugs -> alle 3 Sprachversionen ueber hreflang-map aufloesen (fuer gezielte Batches, z.B. Gewinner neu bepinnen)
+const deSlugsArg = arg('--de-slugs', null);
+let resolved = null;
+if (deSlugsArg) {
+  const hm = JSON.parse(readFileSync(path.join(BASE, 'src/data/hreflang-map.json'), 'utf8'));
+  const byDe = {};
+  for (const v of Object.values(hm)) { const m = v.de && v.de.match(/\/blog\/([a-z0-9-]+)\//); if (m) byDe[m[1]] = v; }
+  resolved = { de: new Set(), en: new Set(), es: new Set() };
+  for (const ds of deSlugsArg.split(',').map((x) => x.trim()).filter(Boolean)) {
+    const g = byDe[ds];
+    if (!g) { console.warn('  kein hreflang-Eintrag fuer DE-Slug:', ds); continue; }
+    for (const lang of ['de', 'en', 'es']) { const m = g[lang] && g[lang].match(/\/blog\/([a-z0-9-]+)\//); if (m) resolved[lang].add(m[1]); }
+  }
+}
+
 const items = [];
 for (const lang of langs) {
   const L = LANGS[lang]; if (!L) continue;
@@ -51,7 +66,9 @@ for (const lang of langs) {
     if (!f.endsWith('.md')) continue;
     const md = readFileSync(path.join(BASE, L.dir, f), 'utf8');
     const pd = fm(md, 'pubDate');
-    if (since ? pd < since : pd !== dateExact) continue;
+    const s0 = f.replace(/\.md$/, '');
+    if (resolved) { if (!resolved[lang].has(s0)) continue; }
+    else if (since ? pd < since : pd !== dateExact) continue;
     const s = f.replace(/\.md$/, '');
     const topic = (fm(md, 'heroImage').match(/blog\/(.+)\.jpg/) || [])[1];
     if (!topic) continue;
