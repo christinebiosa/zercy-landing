@@ -468,6 +468,12 @@ Alle Blog-Artikel haben automatisch folgende Pinterest-Features eingebaut (im [s
 Pinterest-Konto: https://www.pinterest.com/zercy_travel/
 Gilt für DE + EN + ES gleichzeitig. Bei neuen Artikeln nichts extra machen — ist im Template.
 
+**🖼️ PFLICHT: Vertikale Pin-Grafiken (seit 2026-07-15).** Pinterest spielt fast nur vertikale Pins (2:3) mit Text-Overlay aus. Quere Blog-Hero-Bilder floppen (Saves ~0). Darum nach `make-pinterest-csv.mjs` IMMER:
+```bash
+node scripts/make-pin-images.mjs ~/Desktop/zercy-pinterest-<datum>.csv   # baut 1000x1500-Pins -> public/pins/<lang>-<slug>.jpg + schreibt CSV Media-URL um
+```
+Danach public/pins committen + deployen (Media-URLs müssen live 200 sein, sonst schlägt der Pinterest-Import fehl). Design: Foto + Marken-Gradient + Kategorie-Pill + Titel-Overlay + zercy.app. NIE die CSV mit queren /img/blog-Heros hochladen.
+
 ### 🎯 CTR-Optimierung — PFLICHT bei JEDEM Artikel (auch sofort bei neuen!)
 
 Jeder Artikel muss **vor dem Deploy** CTR-optimierte Meta Tags haben. Nicht erst nach dem Indexieren. Das ist genauso Pflicht wie heroImage.
