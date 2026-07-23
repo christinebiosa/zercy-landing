@@ -172,6 +172,14 @@ export async function generateCarouselSheet({ slug, name, cityName, enBody, apiK
   const block = msg.content.find((b) => b.type === 'text');
   if (!block) throw new Error('Claude-Antwort ohne Text-Block');
   const sheet = parseCarouselSheet(block.text);
+  // Em-/En-Dashes aus allen sichtbaren Texten entfernen (Modell ignoriert die Prompt-Regel gelegentlich).
+  // Nur typografische Dashes (U+2010-2015, U+2212), NICHT den normalen Hyphen U+002D (z.B. skip-the-line).
+  const nd = (s) => (typeof s === 'string' ? s.replace(/\s*[‐-―−]\s*/g, ', ') : s);
+  sheet.cover.title = nd(sheet.cover.title);
+  sheet.cover.hook = nd(sheet.cover.hook);
+  for (const s of sheet.slides) { s.heading = nd(s.heading); s.line = nd(s.line); s.bestFor = nd(s.bestFor); }
+  sheet.cta.headline = nd(sheet.cta.headline);
+  sheet.caption = nd(sheet.caption);
   sheet.cta.sub = CTA_SUB; // feste Marken-CTA, egal was das Modell liefert
   sheet.caption = buildCaption(sheet);
   return sheet;
