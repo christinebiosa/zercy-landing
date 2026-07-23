@@ -25,8 +25,8 @@ const DATE_MAP = buildDateMap();
 
 // Affiliate-Domains bekommen rel="sponsored nofollow" (Google-Vorgabe), Rest nur noopener/noreferrer.
 const AFFILIATE_HOSTS = [
-  'airalo.com', 'yesim.app', 'saily.com', 'nordvpn.com', 'radicalstorage.com',
-  'welcomepickups.com', 'kiwitaxi.com', 'ektatraveling.com', 'airhelp.com',
+  'airalo.com', 'yesim.app', 'saily.com', 'gigsky.com', 'nordvpn.com', 'radicalstorage.com',
+  'welcomepickups.com', 'kiwitaxi.com', 'ektatraveling.com', 'airhelp.com', 'compensair.com',
   'gocity.com', 'tiqets.com', 'klook.com', 'getyourguide.com', 'viator.com',
   'booking.com', 'expedia.com', 'discovercars.com', 'aviasales.com',
   'economybookings.com', 'autoeurope.com', 'localrent.com', 'qeeq.com', 'getrentacar.com',

@@ -3,6 +3,12 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  'flugentschaedigung-dienst-vergleich-2026': 'flight-compensation-services',
+  'flight-compensation-services-compared-2026': 'flight-compensation-services',
+  'servicios-compensacion-vuelo-comparativa-2026': 'flight-compensation-services',
+  'audio-selbstfuehrung-touren-lohnt-sich': 'audio-tours',
+  'self-guided-audio-tours-worth-it': 'audio-tours',
+  'visitas-autoguiadas-audio-vale-la-pena': 'audio-tours',
   'mietwagen-plattformen-vergleich-2026': 'car-rental-platforms',
   'car-rental-platforms-compared-2026': 'car-rental-platforms',
   'comparativa-plataformas-alquiler-coche-2026': 'car-rental-platforms',
@@ -2865,6 +2871,8 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'flight-compensation-services': 'airport departure board delay',
+  'audio-tours': 'tourist headphones city walk',
   'car-rental-platforms': 'rental car keys counter',
   'airport-transfer-services': 'airport arrival taxi transfer',
   'moving-to-costa-rica': 'costa rica beach town',

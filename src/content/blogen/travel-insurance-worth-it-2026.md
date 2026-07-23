@@ -18,7 +18,7 @@ One insurance nobody should skip.
 
 **International health insurance.** No matter where, no matter how long. US health insurance often doesn't cover treatment abroad, and Medicare specifically doesn't cover anything outside the US. In Turkey, Asia, Africa or South America you pay every treatment yourself. An emergency air evacuation from Thailand costs $80,000.
 
-Cost: $30-80 per year for a standard policy with worldwide coverage. Providers: World Nomads, Allianz Travel, GeoBlue.
+Cost: $30-80 per year for a standard policy with worldwide coverage. Providers: World Nomads, Allianz Travel, GeoBlue, and [EKTA](https://ektatraveling.com/).
 
 What you need: inpatient treatment, outpatient treatment, evacuation, death. Minimum coverage: $250,000.
 

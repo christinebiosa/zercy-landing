@@ -594,6 +594,21 @@
     "en": "https://www.zercy.app/en/blog/argentina-travel-guide-highlights/",
     "es": "https://www.zercy.app/es/blog/argentina-guia-viaje-highlights/"
   },
+  "audio-selbstfuehrung-touren-lohnt-sich": {
+    "de": "https://www.zercy.app/blog/audio-selbstfuehrung-touren-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/self-guided-audio-tours-worth-it/",
+    "es": "https://www.zercy.app/es/blog/visitas-autoguiadas-audio-vale-la-pena/"
+  },
+  "self-guided-audio-tours-worth-it": {
+    "de": "https://www.zercy.app/blog/audio-selbstfuehrung-touren-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/self-guided-audio-tours-worth-it/",
+    "es": "https://www.zercy.app/es/blog/visitas-autoguiadas-audio-vale-la-pena/"
+  },
+  "visitas-autoguiadas-audio-vale-la-pena": {
+    "de": "https://www.zercy.app/blog/audio-selbstfuehrung-touren-lohnt-sich/",
+    "en": "https://www.zercy.app/en/blog/self-guided-audio-tours-worth-it/",
+    "es": "https://www.zercy.app/es/blog/visitas-autoguiadas-audio-vale-la-pena/"
+  },
   "auslands-sim-guide": {
     "de": "https://www.zercy.app/blog/auslands-sim-guide/",
     "en": "https://www.zercy.app/en/blog/local-sim-card-guide/",
@@ -3683,6 +3698,21 @@
     "de": "https://www.zercy.app/blog/flugangst-ueberwinden/",
     "en": "https://www.zercy.app/en/blog/how-to-overcome-fear-of-flying/",
     "es": "https://www.zercy.app/es/blog/como-superar-miedo-volar/"
+  },
+  "flugentschaedigung-dienst-vergleich-2026": {
+    "de": "https://www.zercy.app/blog/flugentschaedigung-dienst-vergleich-2026/",
+    "en": "https://www.zercy.app/en/blog/flight-compensation-services-compared-2026/",
+    "es": "https://www.zercy.app/es/blog/servicios-compensacion-vuelo-comparativa-2026/"
+  },
+  "flight-compensation-services-compared-2026": {
+    "de": "https://www.zercy.app/blog/flugentschaedigung-dienst-vergleich-2026/",
+    "en": "https://www.zercy.app/en/blog/flight-compensation-services-compared-2026/",
+    "es": "https://www.zercy.app/es/blog/servicios-compensacion-vuelo-comparativa-2026/"
+  },
+  "servicios-compensacion-vuelo-comparativa-2026": {
+    "de": "https://www.zercy.app/blog/flugentschaedigung-dienst-vergleich-2026/",
+    "en": "https://www.zercy.app/en/blog/flight-compensation-services-compared-2026/",
+    "es": "https://www.zercy.app/es/blog/servicios-compensacion-vuelo-comparativa-2026/"
   },
   "flugentschaedigung-selbst-oder-airhelp": {
     "de": "https://www.zercy.app/blog/flugentschaedigung-selbst-oder-airhelp/",
