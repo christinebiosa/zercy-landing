@@ -3,6 +3,15 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  'auswandern-nach-costa-rica-2026': 'moving-to-costa-rica',
+  'moving-to-costa-rica-2026': 'moving-to-costa-rica',
+  'emigrar-a-costa-rica-2026': 'moving-to-costa-rica',
+  'auswandern-nach-mexiko-2026': 'moving-to-mexico',
+  'moving-to-mexico-2026': 'moving-to-mexico',
+  'emigrar-a-mexico-2026': 'moving-to-mexico',
+  'auswandern-nach-oesterreich-2026': 'moving-to-austria',
+  'moving-to-austria-2026': 'moving-to-austria',
+  'emigrar-a-austria-2026': 'moving-to-austria',
   'beste-laender-auswanderer-lebensqualitaet-2026': 'expat-quality-of-life',
   'best-countries-expat-quality-of-life-2026': 'expat-quality-of-life',
   'mejores-paises-expatriados-calidad-vida-2026': 'expat-quality-of-life',
@@ -2850,6 +2859,9 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'moving-to-costa-rica': 'costa rica beach town',
+  'moving-to-mexico': 'mexico city colorful street',
+  'moving-to-austria': 'vienna austria city',
   'expat-quality-of-life': 'valencia spain city',
   'moving-to-spain': 'malaga spain coast',
   'moving-to-portugal': 'lisbon portugal tram',

@@ -18,7 +18,7 @@ const TLDR = { de: 'Kurze Antwort:', en: 'Short answer:', es: 'Respuesta corta:'
 const QWORD = {
   de: /^(¿)?\s*(Was|Wann|Wie|Wo|Warum|Welche[rsn]?|Wer|Wen|Wem|Wofür|Woran|Wieviel|Wie viel)\b/i,
   en: /^(What|When|How|Where|Why|Which|Who|Whom)\b/i,
-  es: /^¿\s*(Qué|Cuándo|Cómo|Dónde|Por qué|Cuál(es)?|Cuánto[as]?|Para qué|Quién(es)?)(?=\s|\?|$)/i,
+  es: /^¿\s*(Qué|Cuándo|Cómo|Dónde|Por qué|Cuál(es)?|Cuánt[oa]s?|Para qué|Quién(es)?)(?=\s|\?|$)/i,
 };
 const VALID_CAT = {
   de: ['Reisetipps','KI & Reisen','Fernweh','Unterwegs','Clever Reisen','Nur mit Handgepäck','Wo übernachten','Business Travel','Nachhaltig','Geheimtipps','Reise-Gadgets','Reise-Kleidung','Gepäck & Packen','Reise-Komfort'],

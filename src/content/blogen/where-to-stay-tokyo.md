@@ -33,7 +33,7 @@ Shinjuku Station is the world's busiest with 3.6 million daily passengers. Aroun
 
 **Per-night prices:** Mid-range $110-220, premium $280-500, top hotels (Park Hyatt) $550-1,100.
 
-**Top picks:** Park Hyatt Tokyo (legendary from "Lost in Translation"), Hyatt Regency Tokyo (reliably central), Citadines Central Shinjuku (apartment hotel with kitchenette). These and 3,500+ more Tokyo hotels are on [Booking.com](https://www.booking.com) with neighborhood filter and translation service with the hotel.
+**Top picks:** Park Hyatt Tokyo (legendary from "Lost in Translation"), Hyatt Regency Tokyo (reliably central), Citadines Central Shinjuku (apartment hotel with kitchenette). These and 3,500+ more Tokyo hotels are on [Booking.com](https://www.booking.com) with neighborhood filter and translation service with the hotel. For Asia-based chains and often sharper rates, it is worth a quick price compare on [Trip.com](https://www.trip.com/).
 
 ## Shibuya: Young Tokyo
 
