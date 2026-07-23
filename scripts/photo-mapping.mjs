@@ -3,6 +3,21 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  'beste-laender-auswanderer-lebensqualitaet-2026': 'expat-quality-of-life',
+  'best-countries-expat-quality-of-life-2026': 'expat-quality-of-life',
+  'mejores-paises-expatriados-calidad-vida-2026': 'expat-quality-of-life',
+  'auswandern-nach-spanien-2026': 'moving-to-spain',
+  'moving-to-spain-2026': 'moving-to-spain',
+  'emigrar-a-espana-2026': 'moving-to-spain',
+  'auswandern-nach-portugal-2026': 'moving-to-portugal',
+  'moving-to-portugal-2026': 'moving-to-portugal',
+  'emigrar-a-portugal-2026': 'moving-to-portugal',
+  'auswandern-nach-panama-2026': 'moving-to-panama',
+  'moving-to-panama-2026': 'moving-to-panama',
+  'emigrar-a-panama-2026': 'moving-to-panama',
+  'brasilien-reiseziel-des-jahres-2026': 'brazil-2026',
+  'brazil-destination-of-the-year-2026': 'brazil-2026',
+  'brasil-destino-del-ano-2026': 'brazil-2026',
   // Flagship-Batch 2026-07-07 (Interrail/Eurail + Kreuzfahrt-Getränke + Mietwagen-Tank)
   'interrail-pass-lohnt-sich': 'rail-pass-europa',
   'eurail-pass-worth-it': 'rail-pass-europa',
@@ -2835,6 +2850,10 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'expat-quality-of-life': 'valencia spain city',
+  'moving-to-spain': 'malaga spain coast',
+  'moving-to-portugal': 'lisbon portugal tram',
+  'moving-to-panama': 'panama city skyline',  'brazil-2026': 'rio de janeiro brazil',
   'rail-pass-europa': 'train station europe platform',
   'kreuzfahrt-getraenkepaket': 'cruise ship bar cocktail',
   'mietwagen-tankregelung': 'gas station fuel pump',
