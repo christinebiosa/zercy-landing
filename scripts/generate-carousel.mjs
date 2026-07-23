@@ -37,7 +37,8 @@ function resolveArticle(slug) {
   if (existsSync(p)) {
     const md = readFileSync(p, 'utf8');
     const name = (fmField(md, 'title').replace(/\s*\|\s*Zercy\s*$/, '').trim()) || slug;
-    const mode = slug.endsWith('-worth-it') ? 'decision' : 'product';
+    const PRODUCT_CATS = ['Travel Gear', 'Travel Clothing', 'Luggage & Packing', 'Travel Comfort'];
+    const mode = slug.endsWith('-worth-it') ? 'decision' : PRODUCT_CATS.includes(fmField(md, 'category')) ? 'product' : 'guide';
     return { md, mode, name, category: fmField(md, 'category'), url: `https://www.zercy.app/en/blog/${slug}/` };
   }
   return null;

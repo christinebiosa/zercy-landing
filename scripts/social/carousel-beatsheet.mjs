@@ -129,6 +129,31 @@ Rules:
 - "caption" contains NO hashtags and NO '#' characters.
 - "hashtags": EXACTLY 5 entries (TikTok deletes posts with more). Each is ONE lowercase token, no '#', no spaces, no punctuation. Mix topic-specific and travel-niche tags.`;
 
+const GUIDE_PROMPT = (slug, name, enBody) => `You write an English Instagram/Facebook carousel for a travel guide or ranking article titled "${name}", from the blog article below.
+
+Article excerpt:
+${enBody.slice(0, 1600)}
+
+Tone: direct, "you", short punchy sentences, no em-dashes, no fluff. Like a savvy traveler sharing the key takeaways.
+
+Return ONLY JSON in exactly this shape:
+{
+  "topic": "${slug}",
+  "cover": { "title": "scroll-stopping hook headline (max 8 words)", "hook": "one short promise line", "query": "english photo search term" },
+  "slides": [
+    { "heading": "short label (max 3 words): a country, place, step, or key point from the article", "line": "one vivid line with a REAL fact or number from the article", "bestFor": "", "query": "english photo search term for a vertical image matching this point" }
+  ],
+  "cta": { "headline": "Save this for later", "sub": "Full guide on zercy.app", "query": "english photo search term" },
+  "caption": "IG/FB caption BODY only, no hashtags: a scroll-stopping hook line, then 2-3 short value lines with a real fact, then ONE punchy engagement question on its own line ending with the 👇 emoji that invites a comment, then a soft CTA line 'Full guide in our bio'. Short sentences. No em-dashes.",
+  "hashtags": ["topicspecifictag", "..."]
+}
+Rules:
+- "slides" has 4 to 6 entries. Each captures ONE key point, country, or step from the article, in the article's own order. Put a REAL fact or number from the article in "line".
+- "heading" is a short label (a country name, a place, a step, or a 2-3 word key point). Never a price.
+- Every "query" is a concrete English photo search term for a vertical image matching that point.
+- "caption" contains NO hashtags and NO '#' characters.
+- "hashtags": EXACTLY 5 entries (TikTok deletes posts with more). Each is ONE lowercase token, no '#', no spaces, no punctuation. Mix topic-specific and travel-niche tags.`;
+
 export async function generateCarouselSheet({ slug, name, cityName, enBody, apiKey, mode = 'city', category = '' }) {
   const displayName = name || cityName;
   const anthropic = new Anthropic({ apiKey });
@@ -136,7 +161,9 @@ export async function generateCarouselSheet({ slug, name, cityName, enBody, apiK
     ? DECISION_PROMPT(slug, displayName, enBody)
     : mode === 'product'
       ? PRODUCT_PROMPT(slug, displayName, category, enBody)
-      : CAROUSEL_PROMPT(slug, displayName, enBody);
+      : mode === 'guide'
+        ? GUIDE_PROMPT(slug, displayName, enBody)
+        : CAROUSEL_PROMPT(slug, displayName, enBody);
   const msg = await anthropic.messages.create({
     model: 'claude-sonnet-4-6',
     max_tokens: 2000,
