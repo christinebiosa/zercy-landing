@@ -6,7 +6,7 @@ import SocialLinks from "../../../components/SocialLinks.astro";
 
 // Pin: until we get DC affiliate approval, keep the rental-consolidators article
 // at the top-left position, no matter what new articles we publish.
-const PINNED_ID = 'rental-consolidators-save-money';
+const PINNED_ID = '';
 const posts = (await getCollection('blogen')).sort((a, b) => {
   if (a.id === PINNED_ID) return -1;
   if (b.id === PINNED_ID) return 1;

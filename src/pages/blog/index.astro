@@ -6,7 +6,7 @@ import SocialLinks from "../../components/SocialLinks.astro";
 
 // Pin: solange wir kein DC-Affiliate-Approval haben, soll der Consolidator-Artikel
 // oben links stehen (erster Artikel, egal was wir neu publishen).
-const PINNED_ID = 'mietwagen-consolidator-guenstiger-fahren';
+const PINNED_ID = '';
 const posts = (await getCollection('blog')).sort((a, b) => {
   if (a.id === PINNED_ID) return -1;
   if (b.id === PINNED_ID) return 1;
