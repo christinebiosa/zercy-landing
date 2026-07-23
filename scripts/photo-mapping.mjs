@@ -3,6 +3,12 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  'mietwagen-plattformen-vergleich-2026': 'car-rental-platforms',
+  'car-rental-platforms-compared-2026': 'car-rental-platforms',
+  'comparativa-plataformas-alquiler-coche-2026': 'car-rental-platforms',
+  'flughafentransfer-anbieter-vergleich-2026': 'airport-transfer-services',
+  'airport-transfer-services-compared-2026': 'airport-transfer-services',
+  'servicios-traslado-aeropuerto-comparativa-2026': 'airport-transfer-services',
   'auswandern-nach-costa-rica-2026': 'moving-to-costa-rica',
   'moving-to-costa-rica-2026': 'moving-to-costa-rica',
   'emigrar-a-costa-rica-2026': 'moving-to-costa-rica',
@@ -2859,6 +2865,8 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'car-rental-platforms': 'rental car keys counter',
+  'airport-transfer-services': 'airport arrival taxi transfer',
   'moving-to-costa-rica': 'costa rica beach town',
   'moving-to-mexico': 'mexico city colorful street',
   'moving-to-austria': 'vienna austria city',
