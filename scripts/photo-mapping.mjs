@@ -3,6 +3,21 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  'mietwagen-ohne-kreditkarte-2026': 'car-rental-no-credit-card',
+  'rent-a-car-without-credit-card-2026': 'car-rental-no-credit-card',
+  'alquilar-coche-sin-tarjeta-credito-2026': 'car-rental-no-credit-card',
+  'konzert-trip-ausland-gig-tripping': 'gig-tripping',
+  'gig-tripping-concert-travel-guide': 'gig-tripping',
+  'viaje-concierto-extranjero-gig-tripping': 'gig-tripping',
+  'brueckentage-2027-urlaub-verdoppeln': 'bridge-days-2027',
+  'maximize-vacation-days-2027': 'bridge-days-2027',
+  'puentes-2027-maximizar-vacaciones': 'bridge-days-2027',
+  'skipass-preise-lohnt-sich-skiurlaub': 'ski-pass-prices',
+  'ski-pass-prices-worth-it-2027': 'ski-pass-prices',
+  'forfait-esqui-precios-vale-la-pena': 'ski-pass-prices',
+  'krankenversicherung-auswanderer-guide': 'expat-health-insurance',
+  'health-insurance-for-expats-guide': 'expat-health-insurance',
+  'seguro-salud-expatriados-guia': 'expat-health-insurance',
   'flugentschaedigung-dienst-vergleich-2026': 'flight-compensation-services',
   'flight-compensation-services-compared-2026': 'flight-compensation-services',
   'servicios-compensacion-vuelo-comparativa-2026': 'flight-compensation-services',
@@ -2871,6 +2886,11 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'car-rental-no-credit-card': 'car keys handover rental',
+  'gig-tripping': 'concert crowd stadium lights',
+  'bridge-days-2027': 'calendar planning vacation desk',
+  'ski-pass-prices': 'ski lift alps winter',
+  'expat-health-insurance': 'doctor stethoscope clinic',
   'flight-compensation-services': 'airport departure board delay',
   'audio-tours': 'tourist headphones city walk',
   'car-rental-platforms': 'rental car keys counter',
