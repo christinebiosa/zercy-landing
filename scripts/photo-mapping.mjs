@@ -3,6 +3,15 @@
 // Run via: node scripts/download-photos.mjs
 
 export const slugToTopic = {
+  'wohin-reisen-im-oktober': 'october-destinations',
+  'where-to-travel-in-october': 'october-destinations',
+  'donde-viajar-en-octubre': 'october-destinations',
+  'herbstferien-guenstige-ziele-familien': 'autumn-family-trips',
+  'fall-break-budget-family-trips': 'autumn-family-trips',
+  'vacaciones-otono-familia-baratas': 'autumn-family-trips',
+  'kreuzfahrt-wann-buchen-guenstigster-zeitpunkt': 'cruise-booking-timing',
+  'when-to-book-a-cruise-cheapest': 'cruise-booking-timing',
+  'cuando-reservar-crucero-mas-barato': 'cruise-booking-timing',
   'mietwagen-ohne-kreditkarte-2026': 'car-rental-no-credit-card',
   'rent-a-car-without-credit-card-2026': 'car-rental-no-credit-card',
   'alquilar-coche-sin-tarjeta-credito-2026': 'car-rental-no-credit-card',
@@ -2886,6 +2895,9 @@ export const slugToTopic = {
 
 // Topic key -> Unsplash search query (used when downloading)
 export const topicToQuery = {
+  'october-destinations': 'autumn mediterranean coast',
+  'autumn-family-trips': 'family autumn vacation kids',
+  'cruise-booking-timing': 'cruise ship deck ocean',
   'car-rental-no-credit-card': 'car keys handover rental',
   'gig-tripping': 'concert crowd stadium lights',
   'bridge-days-2027': 'calendar planning vacation desk',
